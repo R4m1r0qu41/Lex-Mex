@@ -385,6 +385,13 @@ fn valid_effect(effect: &crate::TransitoryEffect) -> bool {
     !effect.affected_scope.trim().is_empty()
         && !invalid_boundary(&effect.trigger)
         && !invalid_boundary(&effect.end_condition)
+        && (effect.verification_status != TemporalVerificationStatus::ExternallyVerified
+            || (effect.verification_source_url.is_some()
+                && effect.verified_event_date.is_some()
+                && effect
+                    .verification_note
+                    .as_deref()
+                    .is_some_and(|note| !note.trim().is_empty())))
 }
 
 pub fn preserve_temporal_review_history(
@@ -719,6 +726,9 @@ mod tests {
             },
             responsible_authorities: Vec::new(),
             verification_status,
+            verification_source_url: None,
+            verified_event_date: None,
+            verification_note: None,
         }
     }
 }

@@ -260,6 +260,7 @@ pub enum TemporalVerificationStatus {
     NotRequired,
     ConfirmedBySourceText,
     ExternalVerificationRequired,
+    ExternallyVerified,
     OpenEndedByDesign,
     UnknownMaterial,
 }
@@ -282,6 +283,12 @@ pub struct TransitoryEffect {
     pub end_condition: TemporalBoundary,
     pub responsible_authorities: Vec<String>,
     pub verification_status: TemporalVerificationStatus,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub verification_source_url: Option<Url>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub verified_event_date: Option<NaiveDate>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub verification_note: Option<String>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

@@ -604,13 +604,21 @@ fn run_review_list(root: &Path, all: bool) -> Result<()> {
         return Ok(());
     }
     for item in &visible {
+        let resolution = item.resolution.map_or_else(String::new, |resolution| {
+            format!(
+                "\n  resolution: {:?}\n  resolved by: {}",
+                resolution,
+                item.resolved_by.as_deref().unwrap_or("unknown")
+            )
+        });
         println!(
-            "{}\n  {}\n  status: {:?}\n  confidence: {:.2}\n  issue: {}",
+            "{}\n  {}\n  status: {:?}\n  confidence: {:.2}\n  issue: {}{}",
             item.id,
             item.evidence.label,
             item.status,
             item.proposed_machine_conclusion.confidence,
-            item.exact_issue
+            item.exact_issue,
+            resolution,
         );
     }
     println!("{} review items", visible.len());

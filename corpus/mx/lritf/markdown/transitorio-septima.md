@@ -7,7 +7,7 @@ number: "SÉPTIMA"
 aliases: ["LRITF — SÉPTIMA"]
 generated: true
 temporal_status: effective
-review_status: review_required
+review_status: lawyer_verified
 transitory_effects: ["regulatory_deadline","coordination_mandate"]
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf
 source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
@@ -23,16 +23,20 @@ La Comisión Nacional Bancaria y de Valores y el Banco de México contarán con 
 
 - **Alcance afectado:** Emisión conjunta de las disposiciones de los artículos 48, 54 y 56, segundo párrafo
 - **Regla de aplicación:** not_applicable
-- **Detonante:** unknown: El texto no expresa el momento inicial del plazo
-- **Condición de terminación:** relative_period: Plazo de doce meses
+- **Detonante:** effective_date (2018-03-10): Entrada en vigor de la Ley, al día siguiente de su publicación
+- **Condición de terminación:** relative_period: Doce meses contados desde la entrada en vigor de la Ley
 - **Autoridades responsables:** Comisión Nacional Bancaria y de Valores; Banco de México
-- **Verificación:** unknown_material
+- **Verificación:** externally_verified
+- **Fuente de verificación:** https://www.cnbv.gob.mx/Paginas/Normatividad.aspx
+- **Fecha del evento verificado:** 2021-01-28
+- **Nota de verificación:** Las disposiciones fueron publicadas después del plazo de doce meses contado desde el 10 de marzo de 2018.
 
 ### Efecto 2 — coordination_mandate
 
 - **Alcance afectado:** Celebración del convenio previsto en el artículo 71
 - **Regla de aplicación:** not_applicable
-- **Detonante:** unknown: El texto no expresa el momento inicial del plazo
-- **Condición de terminación:** relative_period: Plazo de doce meses
+- **Detonante:** effective_date (2018-03-10): Entrada en vigor de la Ley, al día siguiente de su publicación
+- **Condición de terminación:** relative_period: Doce meses contados desde la entrada en vigor de la Ley
 - **Autoridades responsables:** Comisión Nacional Bancaria y de Valores; Banco de México
-- **Verificación:** unknown_material
+- **Verificación:** external_verification_required
+- **Nota de verificación:** La fuente aportada verifica la publicación de las disposiciones, no la celebración del convenio del artículo 71.

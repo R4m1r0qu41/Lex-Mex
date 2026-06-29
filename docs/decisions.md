@@ -87,3 +87,9 @@ does not itself require legal review. A clear rule dependent on a later
 publication or authority action uses `external_verification_required` rather
 than being mislabeled as legal ambiguity. Until changed, JRH is the designated
 legal reviewer for actual lawyer-verified resolutions.
+
+External facts confirmed during review use `externally_verified` and must carry
+an official source URL, event date, and note. JRH verified that SÉPTIMA's
+twelve-month clock began with LRITF's entry into force on 10 March 2018 and
+that the referenced joint provisions were published on 28 January 2021. The
+separate Article 71 coordination agreement remains factually unverified.

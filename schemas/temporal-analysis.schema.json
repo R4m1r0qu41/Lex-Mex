@@ -48,8 +48,86 @@
       "type": "array",
       "minItems": 1,
       "items": {
-        "$ref": "temporal-model-output-v2.schema.json#/$defs/effect"
+        "$ref": "#/$defs/canonical_effect"
       }
+    }
+  },
+  "$defs": {
+    "canonical_effect": {
+      "type": "object",
+      "required": [
+        "effect_type",
+        "affected_scope",
+        "application_rule",
+        "trigger",
+        "end_condition",
+        "responsible_authorities",
+        "verification_status"
+      ],
+      "properties": {
+        "effect_type": {
+          "type": "string",
+          "enum": [
+            "commencement",
+            "implementation_deadline",
+            "regulatory_deadline",
+            "adaptation_period",
+            "transitional_permission",
+            "procedural_survival",
+            "migration",
+            "authority_assignment",
+            "coordination_mandate",
+            "staged_commencement",
+            "sunset",
+            "repeal",
+            "other"
+          ]
+        },
+        "affected_scope": { "type": "string", "minLength": 1 },
+        "application_rule": {
+          "type": "string",
+          "enum": [
+            "not_applicable",
+            "new_rule_prospectively",
+            "prior_rule_for_existing_matters",
+            "transitional_permission",
+            "migration_to_new_rule",
+            "mixed",
+            "unknown"
+          ]
+        },
+        "trigger": {
+          "$ref": "temporal-model-output-v2.schema.json#/$defs/boundary"
+        },
+        "end_condition": {
+          "$ref": "temporal-model-output-v2.schema.json#/$defs/boundary"
+        },
+        "responsible_authorities": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "verification_status": {
+          "type": "string",
+          "enum": [
+            "not_required",
+            "confirmed_by_source_text",
+            "external_verification_required",
+            "externally_verified",
+            "open_ended_by_design",
+            "unknown_material"
+          ]
+        },
+        "verification_source_url": {
+          "type": ["string", "null"],
+          "format": "uri"
+        },
+        "verified_event_date": {
+          "type": ["string", "null"],
+          "format": "date"
+        },
+        "verification_note": { "type": ["string", "null"] }
+      },
+      "additionalProperties": false
     }
   },
   "additionalProperties": false

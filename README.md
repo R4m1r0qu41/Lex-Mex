@@ -92,7 +92,8 @@ existing matters, migration, authority assignments, coordination, staged
 commencement, sunsets, and repeal. Cohort-based survival may be open-ended by
 design without requiring legal review. `external_verification_required` marks
 clear rules whose present application depends on checking a later publication
-or authority action.
+or authority action. Once checked, `externally_verified` records the official
+source URL, event date, and verification note.
 
 ## Development checks
 

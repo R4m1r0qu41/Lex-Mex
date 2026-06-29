@@ -6,7 +6,7 @@
   "response_id": null,
   "model": "gpt-5.5",
   "prompt_version": "temporal-v2",
-  "analyzed_at": "2026-06-29T08:43:57.795479Z",
+  "analyzed_at": "2026-06-29T19:21:32.846063Z",
   "determinations": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:primera",
@@ -376,13 +376,13 @@
       "publication_date": "2018-03-09",
       "effective_from": "2018-03-10",
       "effective_to": null,
-      "confidence": 0.84,
-      "basis": "llm_inference",
+      "confidence": 1.0,
+      "basis": "lawyer_verified",
       "supporting_text": [
         "La Comisión Nacional Bancaria y de Valores y el Banco de México contarán con un plazo de doce meses para la emisión conjunta de las disposiciones a que se refieren los artículos 48, 54, 56, segundo párrafo de esta Ley, así como para celebrar el convenio previsto en el artículo 71 de este ordenamiento."
       ],
-      "review_required": true,
-      "review_reason": "a material temporal boundary is unknown; confidence 0.84 is below 0.92; material information needed for classification is unknown",
+      "review_required": false,
+      "review_reason": null,
       "model": "gpt-5.5",
       "prompt_version": "temporal-v2",
       "effects": [
@@ -391,40 +391,44 @@
           "affected_scope": "Emisión conjunta de las disposiciones de los artículos 48, 54 y 56, segundo párrafo",
           "application_rule": "not_applicable",
           "trigger": {
-            "boundary_type": "unknown",
-            "date": null,
-            "description": "El texto no expresa el momento inicial del plazo"
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley, al día siguiente de su publicación"
           },
           "end_condition": {
             "boundary_type": "relative_period",
             "date": null,
-            "description": "Plazo de doce meses"
+            "description": "Doce meses contados desde la entrada en vigor de la Ley"
           },
           "responsible_authorities": [
             "Comisión Nacional Bancaria y de Valores",
             "Banco de México"
           ],
-          "verification_status": "unknown_material"
+          "verification_status": "externally_verified",
+          "verification_source_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+          "verified_event_date": "2021-01-28",
+          "verification_note": "Las disposiciones fueron publicadas después del plazo de doce meses contado desde el 10 de marzo de 2018."
         },
         {
           "effect_type": "coordination_mandate",
           "affected_scope": "Celebración del convenio previsto en el artículo 71",
           "application_rule": "not_applicable",
           "trigger": {
-            "boundary_type": "unknown",
-            "date": null,
-            "description": "El texto no expresa el momento inicial del plazo"
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley, al día siguiente de su publicación"
           },
           "end_condition": {
             "boundary_type": "relative_period",
             "date": null,
-            "description": "Plazo de doce meses"
+            "description": "Doce meses contados desde la entrada en vigor de la Ley"
           },
           "responsible_authorities": [
             "Comisión Nacional Bancaria y de Valores",
             "Banco de México"
           ],
-          "verification_status": "unknown_material"
+          "verification_status": "external_verification_required",
+          "verification_note": "La fuente aportada verifica la publicación de las disposiciones, no la celebración del convenio del artículo 71."
         }
       ]
     },

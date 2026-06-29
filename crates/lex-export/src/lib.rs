@@ -144,7 +144,7 @@ fn append_transitory_effects(output: &mut String, provision: &Provision) {
              - **Detonante:** {}\n\
              - **Condición de terminación:** {}\n\
              - **Autoridades responsables:** {}\n\
-             - **Verificación:** {}\n\n",
+             - **Verificación:** {}\n",
             index + 1,
             json_name(&effect.effect_type),
             effect.affected_scope,
@@ -154,6 +154,16 @@ fn append_transitory_effects(output: &mut String, provision: &Provision) {
             authorities,
             json_name(&effect.verification_status),
         );
+        if let Some(source_url) = &effect.verification_source_url {
+            let _ = writeln!(output, "- **Fuente de verificación:** {source_url}");
+        }
+        if let Some(event_date) = effect.verified_event_date {
+            let _ = writeln!(output, "- **Fecha del evento verificado:** {event_date}");
+        }
+        if let Some(note) = &effect.verification_note {
+            let _ = writeln!(output, "- **Nota de verificación:** {note}");
+        }
+        output.push('\n');
     }
     if output.ends_with("\n\n") {
         output.pop();
@@ -413,6 +423,9 @@ mod tests {
                 responsible_authorities: vec!["Grupo de Innovación Financiera".to_owned()],
                 verification_status:
                     lex_core::TemporalVerificationStatus::ExternalVerificationRequired,
+                verification_source_url: None,
+                verified_event_date: None,
+                verification_note: None,
             }],
         }
     }
