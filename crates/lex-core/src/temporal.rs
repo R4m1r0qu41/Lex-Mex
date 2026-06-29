@@ -8,7 +8,7 @@ use crate::{
     Basis, ReviewItem, ReviewItemStatus, ReviewResolution, ReviewStatus, SCHEMA_VERSION,
     TemporalAnalysisMetadata, TemporalAnalysisRequest, TemporalAnalysisResult,
     TemporalDetermination, TemporalEvidence, TemporalModelBatch, TemporalModelDetermination,
-    TemporalStatus,
+    TemporalReviewResolution, TemporalStatus,
 };
 
 const AUTO_ACCEPT_MIN_CONFIDENCE: f32 = 0.92;
@@ -33,6 +33,26 @@ pub enum TemporalRoutingError {
     UnsupportedCitation(String),
     #[error("effective_to precedes effective_from for {0}")]
     InvalidDateRange(String),
+}
+
+#[derive(Debug, Error)]
+pub enum TemporalReviewResolutionError {
+    #[error("review item is already resolved")]
+    AlreadyResolved,
+    #[error("reviewer identity cannot be empty")]
+    EmptyReviewer,
+    #[error("lawyer_override requires --temporal-status and a non-empty --note")]
+    IncompleteLawyerOverride,
+    #[error("override fields are only valid with lawyer_override")]
+    UnexpectedOverrideFields,
+    #[error("effective_to precedes effective_from")]
+    InvalidDateRange,
+    #[error("effective lawyer override requires --effective-from")]
+    MissingEffectiveFrom,
+    #[error("future_effective lawyer override requires a future --effective-from")]
+    InvalidFutureEffectiveDate,
+    #[error("temporal result does not contain determination for {0}")]
+    DeterminationNotFound(String),
 }
 
 pub fn route_temporal_analysis(
@@ -215,6 +235,133 @@ fn review_item(
         ],
         status: ReviewItemStatus::Pending,
         reviewer_note: None,
+        resolution: None,
+        resolved_by: None,
+        resolved_at: None,
+    }
+}
+
+pub fn resolve_temporal_review(
+    item: &mut ReviewItem,
+    determinations: &mut [TemporalDetermination],
+    resolution: TemporalReviewResolution,
+) -> Result<(), TemporalReviewResolutionError> {
+    if item.status != ReviewItemStatus::Pending {
+        return Err(TemporalReviewResolutionError::AlreadyResolved);
+    }
+    let reviewer = resolution.reviewer.trim();
+    if reviewer.is_empty() {
+        return Err(TemporalReviewResolutionError::EmptyReviewer);
+    }
+    if let (Some(from), Some(to)) = (resolution.effective_from, resolution.effective_to)
+        && to < from
+    {
+        return Err(TemporalReviewResolutionError::InvalidDateRange);
+    }
+
+    let mut verified = item.proposed_machine_conclusion.clone();
+    match resolution.resolution {
+        ReviewResolution::AcceptMachineConclusion => {
+            reject_override_fields(&resolution)?;
+        }
+        ReviewResolution::SetUnknown => {
+            reject_override_fields(&resolution)?;
+            verified.temporal_status = TemporalStatus::Unknown;
+            verified.effective_from = None;
+            verified.effective_to = None;
+        }
+        ReviewResolution::LawyerOverride => {
+            let status = resolution
+                .temporal_status
+                .clone()
+                .ok_or(TemporalReviewResolutionError::IncompleteLawyerOverride)?;
+            if resolution
+                .note
+                .as_deref()
+                .is_none_or(|note| note.trim().is_empty())
+            {
+                return Err(TemporalReviewResolutionError::IncompleteLawyerOverride);
+            }
+            verified.temporal_status = status;
+            verified.effective_from = resolution.effective_from;
+            verified.effective_to = resolution.effective_to;
+            match verified.temporal_status {
+                TemporalStatus::Effective if verified.effective_from.is_none() => {
+                    return Err(TemporalReviewResolutionError::MissingEffectiveFrom);
+                }
+                TemporalStatus::FutureEffective
+                    if verified
+                        .effective_from
+                        .is_none_or(|date| date <= resolution.resolved_at.date_naive()) =>
+                {
+                    return Err(TemporalReviewResolutionError::InvalidFutureEffectiveDate);
+                }
+                _ => {}
+            }
+        }
+    }
+    verified.basis = Basis::LawyerVerified;
+    verified.confidence = 1.0;
+    verified.review_required = false;
+    verified.review_reason = None;
+
+    let determination = determinations
+        .iter_mut()
+        .find(|candidate| candidate.provision_id == item.provision_id)
+        .ok_or_else(|| {
+            TemporalReviewResolutionError::DeterminationNotFound(item.provision_id.clone())
+        })?;
+    *determination = verified;
+    item.status = ReviewItemStatus::Resolved;
+    item.reviewer_note = resolution.note;
+    item.resolution = Some(resolution.resolution);
+    item.resolved_by = Some(reviewer.to_owned());
+    item.resolved_at = Some(resolution.resolved_at);
+    Ok(())
+}
+
+pub fn preserve_temporal_review_history(
+    result: &mut TemporalAnalysisResult,
+    review_items: &mut Vec<ReviewItem>,
+    previous_result: &TemporalAnalysisResult,
+    previous_items: &[ReviewItem],
+) {
+    for previous_item in previous_items
+        .iter()
+        .filter(|item| item.status == ReviewItemStatus::Resolved)
+    {
+        if let Some(previous_determination) = previous_result
+            .determinations
+            .iter()
+            .find(|item| item.provision_id == previous_item.provision_id)
+            && let Some(current_determination) = result
+                .determinations
+                .iter_mut()
+                .find(|item| item.provision_id == previous_item.provision_id)
+        {
+            *current_determination = previous_determination.clone();
+        }
+        if let Some(current_item) = review_items
+            .iter_mut()
+            .find(|item| item.id == previous_item.id)
+        {
+            *current_item = previous_item.clone();
+        } else {
+            review_items.push(previous_item.clone());
+        }
+    }
+}
+
+fn reject_override_fields(
+    resolution: &TemporalReviewResolution,
+) -> Result<(), TemporalReviewResolutionError> {
+    if resolution.temporal_status.is_some()
+        || resolution.effective_from.is_some()
+        || resolution.effective_to.is_some()
+    {
+        Err(TemporalReviewResolutionError::UnexpectedOverrideFields)
+    } else {
+        Ok(())
     }
 }
 
@@ -232,9 +379,11 @@ pub fn apply_temporal_determinations(
             provision.effective_from = determination.effective_from;
             provision.effective_to = determination.effective_to;
             provision.temporal_status = determination.temporal_status.clone();
-            provision.temporal_basis = Some(Basis::LlmInference);
+            provision.temporal_basis = Some(determination.basis.clone());
             provision.temporal_confidence = Some(determination.confidence);
-            provision.review_status = if determination.review_required {
+            provision.review_status = if determination.basis == Basis::LawyerVerified {
+                ReviewStatus::LawyerVerified
+            } else if determination.review_required {
                 ReviewStatus::ReviewRequired
             } else {
                 ReviewStatus::MachineAccepted
@@ -253,34 +402,96 @@ mod tests {
 
     #[test]
     fn routes_conditional_effectiveness_to_review() {
-        let request = request();
-        let batch = TemporalModelBatch {
-            determinations: vec![TemporalModelDetermination {
-                provision_id: request.relevant_provisions[0].provision_id.clone(),
-                temporal_status: TemporalStatus::ConditionallyEffective,
-                effective_from: Some(NaiveDate::from_ymd_opt(2027, 4, 1).unwrap()),
-                effective_to: None,
-                confidence: 0.98,
-                supporting_text: vec![
-                    "entrará en vigor cuando se emita la declaratoria".to_owned(),
-                ],
-            }],
-        };
-        let routed = route_temporal_analysis(
-            &request,
-            batch,
-            TemporalAnalysisMetadata {
-                request_sha256: "hash".to_owned(),
-                response_sha256: "response-hash".to_owned(),
-                response_id: Some("response".to_owned()),
-                model: "gpt-test".to_owned(),
-                analyzed_at: Utc.with_ymd_and_hms(2026, 6, 29, 0, 0, 0).unwrap(),
-            },
-            &"https://example.com/source.pdf".parse().unwrap(),
-        )
-        .unwrap();
+        let routed = routed_review();
         assert_eq!(routed.review_items.len(), 1);
         assert!(routed.result.determinations[0].review_required);
+    }
+
+    #[test]
+    fn resolves_review_with_audited_lawyer_override() {
+        let mut routed = routed_review();
+        resolve_temporal_review(
+            &mut routed.review_items[0],
+            &mut routed.result.determinations,
+            TemporalReviewResolution {
+                resolution: ReviewResolution::LawyerOverride,
+                reviewer: "Lic. Ejemplo".to_owned(),
+                note: Some("La condición permanece vigente hasta la autorización.".to_owned()),
+                temporal_status: Some(TemporalStatus::TemporarilyApplicable),
+                effective_from: Some(NaiveDate::from_ymd_opt(2027, 4, 1).unwrap()),
+                effective_to: None,
+                resolved_at: Utc.with_ymd_and_hms(2026, 6, 29, 1, 0, 0).unwrap(),
+            },
+        )
+        .unwrap();
+
+        let item = &routed.review_items[0];
+        let determination = &routed.result.determinations[0];
+        assert_eq!(item.status, ReviewItemStatus::Resolved);
+        assert_eq!(item.resolved_by.as_deref(), Some("Lic. Ejemplo"));
+        assert_eq!(determination.basis, Basis::LawyerVerified);
+        assert_eq!(
+            determination.temporal_status,
+            TemporalStatus::TemporarilyApplicable
+        );
+        assert!(!determination.review_required);
+    }
+
+    #[test]
+    fn rejects_unaudited_lawyer_override() {
+        let mut routed = routed_review();
+        let error = resolve_temporal_review(
+            &mut routed.review_items[0],
+            &mut routed.result.determinations,
+            TemporalReviewResolution {
+                resolution: ReviewResolution::LawyerOverride,
+                reviewer: "Lic. Ejemplo".to_owned(),
+                note: None,
+                temporal_status: Some(TemporalStatus::Effective),
+                effective_from: Some(NaiveDate::from_ymd_opt(2027, 4, 1).unwrap()),
+                effective_to: None,
+                resolved_at: Utc::now(),
+            },
+        )
+        .unwrap_err();
+        assert!(matches!(
+            error,
+            TemporalReviewResolutionError::IncompleteLawyerOverride
+        ));
+    }
+
+    #[test]
+    fn preserves_lawyer_resolution_across_model_reruns() {
+        let mut previous = routed_review();
+        resolve_temporal_review(
+            &mut previous.review_items[0],
+            &mut previous.result.determinations,
+            TemporalReviewResolution {
+                resolution: ReviewResolution::SetUnknown,
+                reviewer: "Lic. Ejemplo".to_owned(),
+                note: Some("Se requiere fuente formal adicional.".to_owned()),
+                temporal_status: None,
+                effective_from: None,
+                effective_to: None,
+                resolved_at: Utc.with_ymd_and_hms(2026, 6, 29, 1, 0, 0).unwrap(),
+            },
+        )
+        .unwrap();
+        let mut rerun = routed_review();
+
+        preserve_temporal_review_history(
+            &mut rerun.result,
+            &mut rerun.review_items,
+            &previous.result,
+            &previous.review_items,
+        );
+
+        assert_eq!(rerun.review_items[0].status, ReviewItemStatus::Resolved);
+        assert_eq!(
+            rerun.result.determinations[0].temporal_status,
+            TemporalStatus::Unknown
+        );
+        assert_eq!(rerun.result.determinations[0].basis, Basis::LawyerVerified);
     }
 
     #[test]
@@ -329,5 +540,34 @@ mod tests {
             }],
             required_output_schema: "schema.json".to_owned(),
         }
+    }
+
+    fn routed_review() -> RoutedTemporalAnalysis {
+        let request = request();
+        let batch = TemporalModelBatch {
+            determinations: vec![TemporalModelDetermination {
+                provision_id: request.relevant_provisions[0].provision_id.clone(),
+                temporal_status: TemporalStatus::ConditionallyEffective,
+                effective_from: Some(NaiveDate::from_ymd_opt(2027, 4, 1).unwrap()),
+                effective_to: None,
+                confidence: 0.98,
+                supporting_text: vec![
+                    "entrará en vigor cuando se emita la declaratoria".to_owned(),
+                ],
+            }],
+        };
+        route_temporal_analysis(
+            &request,
+            batch,
+            TemporalAnalysisMetadata {
+                request_sha256: "hash".to_owned(),
+                response_sha256: "response-hash".to_owned(),
+                response_id: Some("response".to_owned()),
+                model: "gpt-test".to_owned(),
+                analyzed_at: Utc.with_ymd_and_hms(2026, 6, 29, 0, 0, 0).unwrap(),
+            },
+            &"https://example.com/source.pdf".parse().unwrap(),
+        )
+        .unwrap()
     }
 }

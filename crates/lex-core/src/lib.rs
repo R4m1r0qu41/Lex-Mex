@@ -5,7 +5,8 @@ use url::Url;
 mod temporal;
 
 pub use temporal::{
-    RoutedTemporalAnalysis, TemporalRoutingError, apply_temporal_determinations,
+    RoutedTemporalAnalysis, TemporalReviewResolutionError, TemporalRoutingError,
+    apply_temporal_determinations, preserve_temporal_review_history, resolve_temporal_review,
     route_temporal_analysis,
 };
 
@@ -237,6 +238,20 @@ pub struct ReviewItem {
     pub resolution_options: Vec<ReviewResolution>,
     pub status: ReviewItemStatus,
     pub reviewer_note: Option<String>,
+    pub resolution: Option<ReviewResolution>,
+    pub resolved_by: Option<String>,
+    pub resolved_at: Option<DateTime<Utc>>,
+}
+
+#[derive(Debug, Clone)]
+pub struct TemporalReviewResolution {
+    pub resolution: ReviewResolution,
+    pub reviewer: String,
+    pub note: Option<String>,
+    pub temporal_status: Option<TemporalStatus>,
+    pub effective_from: Option<NaiveDate>,
+    pub effective_to: Option<NaiveDate>,
+    pub resolved_at: DateTime<Utc>,
 }
 
 #[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq)]

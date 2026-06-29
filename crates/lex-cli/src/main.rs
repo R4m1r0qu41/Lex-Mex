@@ -10,9 +10,10 @@ use chrono::{NaiveDate, Utc};
 use clap::{Parser, Subcommand, ValueEnum};
 use lex_core::{
     Corpus, Instrument, InstrumentStatus, InstrumentType, LRITF_INSTRUMENT_ID, Provision,
-    ProvisionType, ReviewItem, SCHEMA_VERSION, SourceManifest, TemporalAnalysisMetadata,
-    TemporalAnalysisRequest, TemporalEvidence, TemporalModelBatch, apply_temporal_determinations,
-    route_temporal_analysis,
+    ProvisionType, ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest,
+    TemporalAnalysisMetadata, TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence,
+    TemporalModelBatch, TemporalReviewResolution, TemporalStatus, apply_temporal_determinations,
+    preserve_temporal_review_history, resolve_temporal_review, route_temporal_analysis,
 };
 use lex_export::{write_canonical, write_markdown, write_obsidian, write_validation};
 use lex_parse::{extract_pdf, extract_reform_transitories, parse_lritf, validate_lritf};
@@ -104,7 +105,75 @@ enum TemporalProvider {
 
 #[derive(Debug, Subcommand)]
 enum ReviewCommand {
-    List,
+    List {
+        #[arg(long)]
+        all: bool,
+    },
+    Resolve {
+        review_id: String,
+        #[arg(long, value_enum)]
+        resolution: ReviewResolutionArg,
+        #[arg(long)]
+        reviewer: String,
+        #[arg(long)]
+        note: Option<String>,
+        #[arg(long, value_enum)]
+        temporal_status: Option<TemporalStatusArg>,
+        #[arg(long)]
+        effective_from: Option<NaiveDate>,
+        #[arg(long)]
+        effective_to: Option<NaiveDate>,
+    },
+}
+
+#[derive(Debug, Clone, Copy, ValueEnum)]
+enum ReviewResolutionArg {
+    AcceptMachineConclusion,
+    SetUnknown,
+    LawyerOverride,
+}
+
+impl From<ReviewResolutionArg> for ReviewResolution {
+    fn from(value: ReviewResolutionArg) -> Self {
+        match value {
+            ReviewResolutionArg::AcceptMachineConclusion => Self::AcceptMachineConclusion,
+            ReviewResolutionArg::SetUnknown => Self::SetUnknown,
+            ReviewResolutionArg::LawyerOverride => Self::LawyerOverride,
+        }
+    }
+}
+
+#[derive(Debug, Clone, Copy, ValueEnum)]
+enum TemporalStatusArg {
+    Unknown,
+    PublishedNotEffective,
+    Effective,
+    FutureEffective,
+    PartiallyEffective,
+    ConditionallyEffective,
+    Repealed,
+    RepealedWithSurvival,
+    Superseded,
+    TemporarilyApplicable,
+    PendingConsolidation,
+}
+
+impl From<TemporalStatusArg> for TemporalStatus {
+    fn from(value: TemporalStatusArg) -> Self {
+        match value {
+            TemporalStatusArg::Unknown => Self::Unknown,
+            TemporalStatusArg::PublishedNotEffective => Self::PublishedNotEffective,
+            TemporalStatusArg::Effective => Self::Effective,
+            TemporalStatusArg::FutureEffective => Self::FutureEffective,
+            TemporalStatusArg::PartiallyEffective => Self::PartiallyEffective,
+            TemporalStatusArg::ConditionallyEffective => Self::ConditionallyEffective,
+            TemporalStatusArg::Repealed => Self::Repealed,
+            TemporalStatusArg::RepealedWithSurvival => Self::RepealedWithSurvival,
+            TemporalStatusArg::Superseded => Self::Superseded,
+            TemporalStatusArg::TemporarilyApplicable => Self::TemporarilyApplicable,
+            TemporalStatusArg::PendingConsolidation => Self::PendingConsolidation,
+        }
+    }
 }
 
 fn main() -> Result<()> {
@@ -190,9 +259,9 @@ fn main() -> Result<()> {
                 &temporal_model,
             )?;
         }
-        Command::Review { command } => match command {
-            ReviewCommand::List => run_review_list(&root)?,
-        },
+        Command::Review { command } => {
+            run_review_command(&root, obsidian_vault.as_deref(), command)?;
+        }
     }
     Ok(())
 }
@@ -409,7 +478,7 @@ fn run_temporal_import(
     let response_bytes = fs::read(response_path)?;
     let batch: TemporalModelBatch = serde_json::from_slice(&response_bytes)?;
     let instrument: Instrument = read_json(&paths.instrument)?;
-    let routed = route_temporal_analysis(
+    let mut routed = route_temporal_analysis(
         &request,
         batch,
         TemporalAnalysisMetadata {
@@ -421,43 +490,132 @@ fn run_temporal_import(
         },
         &instrument.source_url,
     )?;
+    if paths.temporal_result.exists() && paths.review_queue.exists() {
+        let previous_result: TemporalAnalysisResult = read_json(&paths.temporal_result)?;
+        let previous_items: Vec<ReviewItem> = read_json(&paths.review_queue)?;
+        preserve_temporal_review_history(
+            &mut routed.result,
+            &mut routed.review_items,
+            &previous_result,
+            &previous_items,
+        );
+    }
     write_pretty_json(&routed.result, &paths.temporal_result)?;
     write_pretty_json(&routed.review_items, &paths.review_queue)?;
 
     let mut corpus = read_corpus(&paths)?;
     apply_temporal_determinations(&mut corpus.provisions, &routed.result.determinations);
     write_canonical(&corpus, &paths.corpus)?;
-    let accepted = routed
+    let machine_accepted = routed
         .result
         .determinations
         .iter()
-        .filter(|item| !item.review_required)
+        .filter(|item| !item.review_required && item.basis == lex_core::Basis::LlmInference)
+        .count();
+    let lawyer_verified = routed
+        .result
+        .determinations
+        .iter()
+        .filter(|item| item.basis == lex_core::Basis::LawyerVerified)
+        .count();
+    let pending = routed
+        .review_items
+        .iter()
+        .filter(|item| item.status == ReviewItemStatus::Pending)
         .count();
     println!(
-        "temporal analysis: {accepted} machine-accepted, {} queued for review",
-        routed.review_items.len()
+        "temporal analysis: {machine_accepted} machine-accepted, {lawyer_verified} \
+         lawyer-verified, {pending} pending review"
     );
     Ok(())
 }
 
-fn run_review_list(root: &Path) -> Result<()> {
+fn run_review_command(
+    root: &Path,
+    obsidian_vault: Option<&Path>,
+    command: ReviewCommand,
+) -> Result<()> {
+    match command {
+        ReviewCommand::List { all } => run_review_list(root, all),
+        ReviewCommand::Resolve {
+            review_id,
+            resolution,
+            reviewer,
+            note,
+            temporal_status,
+            effective_from,
+            effective_to,
+        } => {
+            run_review_resolve(
+                root,
+                &review_id,
+                TemporalReviewResolution {
+                    resolution: resolution.into(),
+                    reviewer,
+                    note,
+                    temporal_status: temporal_status.map(Into::into),
+                    effective_from,
+                    effective_to,
+                    resolved_at: Utc::now(),
+                },
+            )?;
+            run_export(root, ExportFormat::Markdown, None)?;
+            if let Some(vault) = obsidian_vault {
+                run_export(root, ExportFormat::Obsidian, Some(vault))?;
+            }
+            Ok(())
+        }
+    }
+}
+
+fn run_review_list(root: &Path, all: bool) -> Result<()> {
     let paths = Paths::new(root);
     let items: Vec<ReviewItem> = read_json(&paths.review_queue)
         .with_context(|| "review queue not found; run temporal analysis first")?;
-    if items.is_empty() {
-        println!("review queue is empty");
+    let visible: Vec<_> = items
+        .iter()
+        .filter(|item| all || item.status == ReviewItemStatus::Pending)
+        .collect();
+    if visible.is_empty() {
+        println!("no matching review items");
         return Ok(());
     }
-    for item in &items {
+    for item in &visible {
         println!(
-            "{}\n  {}\n  confidence: {:.2}\n  issue: {}",
+            "{}\n  {}\n  status: {:?}\n  confidence: {:.2}\n  issue: {}",
             item.id,
             item.evidence.label,
+            item.status,
             item.proposed_machine_conclusion.confidence,
             item.exact_issue
         );
     }
-    println!("{} pending review items", items.len());
+    println!("{} review items", visible.len());
+    Ok(())
+}
+
+fn run_review_resolve(
+    root: &Path,
+    review_id: &str,
+    resolution: TemporalReviewResolution,
+) -> Result<()> {
+    let paths = Paths::new(root);
+    let mut items: Vec<ReviewItem> = read_json(&paths.review_queue)
+        .with_context(|| "review queue not found; run temporal analysis first")?;
+    let mut result: TemporalAnalysisResult = read_json(&paths.temporal_result)
+        .with_context(|| "temporal result not found; run temporal analysis first")?;
+    let item = items
+        .iter_mut()
+        .find(|item| item.id == review_id)
+        .with_context(|| format!("review item not found: {review_id}"))?;
+    resolve_temporal_review(item, &mut result.determinations, resolution)?;
+
+    write_pretty_json(&result, &paths.temporal_result)?;
+    write_pretty_json(&items, &paths.review_queue)?;
+    let mut corpus = read_corpus(&paths)?;
+    apply_temporal_determinations(&mut corpus.provisions, &result.determinations);
+    write_canonical(&corpus, &paths.corpus)?;
+    println!("resolved {review_id}");
     Ok(())
 }
 

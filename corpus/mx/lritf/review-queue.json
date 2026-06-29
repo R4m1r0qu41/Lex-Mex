@@ -35,7 +35,10 @@
       "lawyer_override"
     ],
     "status": "pending",
-    "reviewer_note": null
+    "reviewer_note": null,
+    "resolution": null,
+    "resolved_by": null,
+    "resolved_at": null
   },
   {
     "id": "review:temporal:urn:lex-mx:federal:statute:lritf:transitory:novena",
@@ -72,7 +75,10 @@
       "lawyer_override"
     ],
     "status": "pending",
-    "reviewer_note": null
+    "reviewer_note": null,
+    "resolution": null,
+    "resolved_by": null,
+    "resolved_at": null
   },
   {
     "id": "review:temporal:urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:segundo",
@@ -109,7 +115,10 @@
       "lawyer_override"
     ],
     "status": "pending",
-    "reviewer_note": null
+    "reviewer_note": null,
+    "resolution": null,
+    "resolved_by": null,
+    "resolved_at": null
   },
   {
     "id": "review:temporal:urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:tercero",
@@ -146,7 +155,10 @@
       "lawyer_override"
     ],
     "status": "pending",
-    "reviewer_note": null
+    "reviewer_note": null,
+    "resolution": null,
+    "resolved_by": null,
+    "resolved_at": null
   },
   {
     "id": "review:temporal:urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:cuarto",
@@ -183,7 +195,10 @@
       "lawyer_override"
     ],
     "status": "pending",
-    "reviewer_note": null
+    "reviewer_note": null,
+    "resolution": null,
+    "resolved_by": null,
+    "resolved_at": null
   },
   {
     "id": "review:temporal:urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:segundo",
@@ -222,7 +237,10 @@
       "lawyer_override"
     ],
     "status": "pending",
-    "reviewer_note": null
+    "reviewer_note": null,
+    "resolution": null,
+    "resolved_by": null,
+    "resolved_at": null
   },
   {
     "id": "review:temporal:urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:tercero",
@@ -260,6 +278,9 @@
       "lawyer_override"
     ],
     "status": "pending",
-    "reviewer_note": null
+    "reviewer_note": null,
+    "resolution": null,
+    "resolved_by": null,
+    "resolved_at": null
   }
 ]

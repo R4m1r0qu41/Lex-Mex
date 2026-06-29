@@ -1,7 +1,7 @@
 use std::{fmt::Write as _, fs, path::Path};
 
 use anyhow::{Context, Result};
-use lex_core::{Corpus, Provision, ProvisionType, ReviewItem, ValidationReport};
+use lex_core::{Corpus, Provision, ProvisionType, ReviewItem, ReviewItemStatus, ValidationReport};
 
 pub fn write_canonical(corpus: &Corpus, output_dir: &Path) -> Result<()> {
     fs::create_dir_all(output_dir)?;
@@ -127,11 +127,15 @@ fn obsidian_review_queue(items: &[ReviewItem]) -> String {
          > This dashboard is generated. Record legal decisions in the human-authored \
          Revisiones folder.\n\n",
     );
-    if items.is_empty() {
+    let pending: Vec<_> = items
+        .iter()
+        .filter(|item| item.status == ReviewItemStatus::Pending)
+        .collect();
+    if pending.is_empty() {
         output.push_str("No hay revisiones pendientes.\n");
         return output;
     }
-    for item in items {
+    for item in pending {
         let determination = &item.proposed_machine_conclusion;
         let _ = write!(
             output,

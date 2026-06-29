@@ -44,6 +44,9 @@ cargo run -p lex-cli -- analyze-temporal lritf
 cargo run -p lex-cli -- analyze-temporal lritf --provider codex --model gpt-5.5
 cargo run -p lex-cli -- import-temporal lritf response.json --model MODEL_ID
 cargo run -p lex-cli -- review list
+cargo run -p lex-cli -- review list --all
+cargo run -p lex-cli -- review resolve REVIEW_ID \
+  --resolution accept-machine-conclusion --reviewer "Reviewer name"
 ```
 
 Set `LEX_MEX_OBSIDIAN_VAULT` to avoid repeating the vault option:
@@ -75,6 +78,11 @@ LEX_MEX_OBSIDIAN_VAULT=/Users/jr/Vaults/Lex-Mex \
 `import-temporal` provides the same deterministic validation and routing for a
 model response produced by another provider. `review list` prints the pending
 human decisions; model output never resolves those decisions automatically.
+`review resolve` requires reviewer identity. A `lawyer-override` additionally
+requires `--note`, `--temporal-status`, and any applicable `--effective-from`
+or `--effective-to` dates. Resolved items remain in the JSON audit history but
+are removed from the pending Obsidian dashboard. No review is resolved merely
+by exporting or rerunning `review list`.
 
 ## Development checks
 

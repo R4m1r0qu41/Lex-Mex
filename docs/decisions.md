@@ -51,3 +51,14 @@ supersession, repeal, survival rules, or pending consolidation. All other
 determinations become pending review items with their evidence and proposed
 conclusion. The exporter publishes the queue to Obsidian, but only a human
 review workflow may resolve it.
+
+## 2026-06-29 — Audited human review resolution
+
+Review resolution is an explicit canonical state transition. It requires a
+reviewer identity; lawyer overrides also require a reason and an explicit
+temporal status. The verified determination is labeled `lawyer_verified`, while
+the original model proposal, reviewer, resolution, note, and timestamp remain
+in the review record. Resolved records stay in the JSON queue for audit but are
+excluded from the default CLI listing and pending Obsidian dashboard.
+Subsequent model imports reconcile against this history and preserve resolved
+human decisions instead of reopening or replacing them.
