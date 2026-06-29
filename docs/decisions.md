@@ -62,3 +62,11 @@ in the review record. Resolved records stay in the JSON queue for audit but are
 excluded from the default CLI listing and pending Obsidian dashboard.
 Subsequent model imports reconcile against this history and preserve resolved
 human decisions instead of reopening or replacing them.
+
+## 2026-06-29 — Formal-source review context
+
+The LRITF adapter maps each analyzed publication date to an official DOF
+publication URL. Review imports attach that formal source alongside the Cámara
+de Diputados operational source. Where the one-law slice cannot yet provide an
+affected-provision diff, the queue states that limitation explicitly instead
+of leaving the reviewer to infer whether the field was omitted accidentally.

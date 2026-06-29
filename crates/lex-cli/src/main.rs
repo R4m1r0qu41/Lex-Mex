@@ -500,6 +500,7 @@ fn run_temporal_import(
             &previous_items,
         );
     }
+    enrich_review_context(&mut routed.review_items, &config(root)?);
     write_pretty_json(&routed.result, &paths.temporal_result)?;
     write_pretty_json(&routed.review_items, &paths.review_queue)?;
 
@@ -528,6 +529,28 @@ fn run_temporal_import(
          lawyer-verified, {pending} pending review"
     );
     Ok(())
+}
+
+fn enrich_review_context(items: &mut [ReviewItem], source: &SourceConfig) {
+    for item in items {
+        let publication_date = item
+            .proposed_machine_conclusion
+            .publication_date
+            .to_string();
+        item.formal_source_url = source
+            .formal_publication_urls
+            .get(&publication_date)
+            .cloned();
+        item.provision_diff.get_or_insert_with(|| {
+            if item.provision_id.contains(":amendment:") {
+                "Unavailable in the one-law vertical slice; an affected-provision diff requires \
+                 amendment-event modeling."
+                    .to_owned()
+            } else {
+                "Initial enactment; there is no prior LRITF provision version.".to_owned()
+            }
+        });
+    }
 }
 
 fn run_review_command(

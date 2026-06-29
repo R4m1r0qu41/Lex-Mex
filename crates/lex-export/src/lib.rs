@@ -137,6 +137,11 @@ fn obsidian_review_queue(items: &[ReviewItem]) -> String {
     }
     for item in pending {
         let determination = &item.proposed_machine_conclusion;
+        let formal_source = item.formal_source_url.as_ref().map_or_else(
+            || "No disponible".to_owned(),
+            |url| format!("[Diario Oficial de la Federación]({url})"),
+        );
+        let provision_diff = item.provision_diff.as_deref().unwrap_or("No disponible");
         let _ = write!(
             output,
             "## {}\n\n\
@@ -144,7 +149,9 @@ fn obsidian_review_queue(items: &[ReviewItem]) -> String {
              - **Conclusión propuesta:** {}\n\
              - **Confianza:** {:.2}\n\
              - **Problema:** {}\n\
-             - **Fuente:** [Cámara de Diputados]({})\n\n\
+             - **Fuente operativa:** [Cámara de Diputados]({})\n\
+             - **Fuente formal:** {}\n\
+             - **Diferencia:** {}\n\n\
              **Texto relevante**\n\n> {}\n\n",
             item.evidence.label,
             item.provision_id,
@@ -152,6 +159,8 @@ fn obsidian_review_queue(items: &[ReviewItem]) -> String {
             determination.confidence,
             item.exact_issue,
             item.camara_source_url,
+            formal_source,
+            provision_diff,
             item.evidence.text.replace('\n', "\n> "),
         );
     }

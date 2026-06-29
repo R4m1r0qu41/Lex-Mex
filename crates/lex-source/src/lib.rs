@@ -22,6 +22,7 @@ pub struct SourceConfig {
     pub publication_date: String,
     pub expected_min_articles: usize,
     pub expected_transitories: usize,
+    pub formal_publication_urls: BTreeMap<String, Url>,
     pub relevant_reform_transitories: BTreeMap<String, Vec<String>>,
 }
 
