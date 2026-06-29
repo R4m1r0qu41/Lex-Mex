@@ -1,12 +1,12 @@
 {
   "schema_version": "0.1.0",
   "instrument_id": "urn:lex-mx:federal:statute:lritf",
-  "request_sha256": "6605670e8229fa399fa23afc46db96caf94a0d1709da9bb528756a46f2ff6fe3",
-  "response_sha256": "8a359fea54e81f33851534cd3d359eee68c1cbd8d51749c90bcfac17505af3e6",
+  "request_sha256": "981a039f06fb155137f1dc69563eab2234d7c15beb3e0f33668ecf70c420e4c7",
+  "response_sha256": "5c6754d758c2e5f52132486da8354c677bd801de08fa4360dcb0e57c90a505d5",
   "response_id": null,
   "model": "gpt-5.5",
-  "prompt_version": "temporal-v1",
-  "analyzed_at": "2026-06-29T08:16:38.260910Z",
+  "prompt_version": "temporal-v2",
+  "analyzed_at": "2026-06-29T08:43:57.795479Z",
   "determinations": [
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:primera",
@@ -14,7 +14,7 @@
       "publication_date": "2018-03-09",
       "effective_from": "2018-03-10",
       "effective_to": null,
-      "confidence": 1.0,
+      "confidence": 0.99,
       "basis": "llm_inference",
       "supporting_text": [
         "La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
@@ -22,7 +22,26 @@
       "review_required": false,
       "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "commencement",
+          "affected_scope": "Ley para Regular las Instituciones de Tecnología Financiera",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "publication",
+            "date": "2018-03-09",
+            "description": "Publicación de la Ley en el Diario Oficial de la Federación"
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:segunda",
@@ -39,7 +58,47 @@
       "review_required": false,
       "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Disposiciones generales del artículo 58",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Seis meses contados desde la entrada en vigor de la Ley"
+          },
+          "responsible_authorities": [
+            "Secretaría de Hacienda y Crédito Público"
+          ],
+          "verification_status": "external_verification_required"
+        },
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Disposiciones generales del artículo 82, fracción VI",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Plazo de doce meses"
+          },
+          "responsible_authorities": [
+            "Secretaría de Hacienda y Crédito Público"
+          ],
+          "verification_status": "external_verification_required"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:tercera",
@@ -47,16 +106,76 @@
       "publication_date": "2018-03-09",
       "effective_from": "2018-03-10",
       "effective_to": null,
-      "confidence": 0.98,
+      "confidence": 0.99,
       "basis": "llm_inference",
       "supporting_text": [
-        "La Comisión Nacional Bancaria y de Valores contará con los plazos que se señalan a continuación contados a partir de la entrada en vigor de esta Ley, para emitir las disposiciones de carácter general siguientes:",
+        "I. Seis meses para emitir las disposiciones de carácter general a que se refieren los artículos 18, fracción I; 36, fracción IV; 39, fracciones VI, XI, XII y XVI; 44; 45; 48, primer párrafo, para las reglas relacionadas con contabilidad y plan de continuidad de negocio;",
+        "II. Doce meses para emitir las disposiciones de carácter general a que se refieren los artículos 18, fracción IV; 54; 56, segundo párrafo; 57; 73; 82, fracción VI; 89, fracción IV y 116 de la presente Ley, y",
         "III. Veinticuatro meses para emitir las disposiciones de carácter general a que se refieren los artículos 55 y 76 de esta Ley."
       ],
       "review_required": false,
       "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Disposiciones generales enumeradas en la fracción I, incluidas reglas de contabilidad y continuidad de negocio",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Seis meses contados desde la entrada en vigor"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional Bancaria y de Valores"
+          ],
+          "verification_status": "external_verification_required"
+        },
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Disposiciones generales enumeradas en la fracción II",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Doce meses contados desde la entrada en vigor"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional Bancaria y de Valores"
+          ],
+          "verification_status": "external_verification_required"
+        },
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Disposiciones generales de los artículos 55 y 76",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Veinticuatro meses contados desde la entrada en vigor"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional Bancaria y de Valores"
+          ],
+          "verification_status": "external_verification_required"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:cuarta",
@@ -73,7 +192,47 @@
       "review_required": false,
       "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Disposiciones generales del artículo 57",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Doce meses contados desde la entrada en vigor"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros"
+          ],
+          "verification_status": "external_verification_required"
+        },
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Disposiciones generales del artículo 82, fracción VI",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Plazo de doce meses"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros"
+          ],
+          "verification_status": "external_verification_required"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:quinta",
@@ -81,16 +240,58 @@
       "publication_date": "2018-03-09",
       "effective_from": "2018-03-10",
       "effective_to": null,
-      "confidence": 0.98,
+      "confidence": 0.99,
       "basis": "llm_inference",
       "supporting_text": [
-        "La Comisión Nacional del Sistema de Ahorro para el Retiro y la Comisión Nacional de Seguros y Fianzas tendrán los plazos que se señalan a continuación contados a partir de la entrada en vigor de esta Ley, para emitir las disposiciones de carácter general siguientes:",
+        "I. Doce meses para emitir las disposiciones de carácter general a que se refieren los artículos 82, fracción VI y 116 de esta Ley, y",
         "II. Veinticuatro meses para emitir las disposiciones de carácter general a que se refiere el artículo 76 de esta Ley."
       ],
       "review_required": false,
       "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Disposiciones generales de los artículos 82, fracción VI, y 116",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Doce meses contados desde la entrada en vigor"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional del Sistema de Ahorro para el Retiro",
+            "Comisión Nacional de Seguros y Fianzas"
+          ],
+          "verification_status": "external_verification_required"
+        },
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Disposiciones generales del artículo 76",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Veinticuatro meses contados desde la entrada en vigor"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional del Sistema de Ahorro para el Retiro",
+            "Comisión Nacional de Seguros y Fianzas"
+          ],
+          "verification_status": "external_verification_required"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:sexta",
@@ -98,16 +299,76 @@
       "publication_date": "2018-03-09",
       "effective_from": "2018-03-10",
       "effective_to": null,
-      "confidence": 0.98,
+      "confidence": 0.99,
       "basis": "llm_inference",
       "supporting_text": [
-        "El Banco de México tendrá los plazos que se señalan a continuación contados a partir de la entrada en vigor de esta Ley para emitir las disposiciones de carácter general siguientes:",
+        "I. Seis meses para emitir las disposiciones de carácter general a que se refieren los artículos 26 y 44 de esta Ley;",
+        "II. Doce meses para emitir las disposiciones de carácter general a que se refieren los artículos 30; 32; 46; 57; 82, fracción VI y 116 de esta Ley, y",
         "III. Veinticuatro meses para emitir las disposiciones de carácter general a que se refiere el artículo 76 de esta Ley."
       ],
       "review_required": false,
       "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Disposiciones generales de los artículos 26 y 44",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Seis meses contados desde la entrada en vigor"
+          },
+          "responsible_authorities": [
+            "Banco de México"
+          ],
+          "verification_status": "external_verification_required"
+        },
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Disposiciones generales de los artículos 30, 32, 46, 57, 82, fracción VI, y 116",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Doce meses contados desde la entrada en vigor"
+          },
+          "responsible_authorities": [
+            "Banco de México"
+          ],
+          "verification_status": "external_verification_required"
+        },
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Disposiciones generales del artículo 76",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Veinticuatro meses contados desde la entrada en vigor"
+          },
+          "responsible_authorities": [
+            "Banco de México"
+          ],
+          "verification_status": "external_verification_required"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:septima",
@@ -115,48 +376,188 @@
       "publication_date": "2018-03-09",
       "effective_from": "2018-03-10",
       "effective_to": null,
-      "confidence": 0.94,
+      "confidence": 0.84,
       "basis": "llm_inference",
       "supporting_text": [
         "La Comisión Nacional Bancaria y de Valores y el Banco de México contarán con un plazo de doce meses para la emisión conjunta de las disposiciones a que se refieren los artículos 48, 54, 56, segundo párrafo de esta Ley, así como para celebrar el convenio previsto en el artículo 71 de este ordenamiento."
       ],
-      "review_required": false,
-      "review_reason": null,
+      "review_required": true,
+      "review_reason": "a material temporal boundary is unknown; confidence 0.84 is below 0.92; material information needed for classification is unknown",
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Emisión conjunta de las disposiciones de los artículos 48, 54 y 56, segundo párrafo",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "unknown",
+            "date": null,
+            "description": "El texto no expresa el momento inicial del plazo"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Plazo de doce meses"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional Bancaria y de Valores",
+            "Banco de México"
+          ],
+          "verification_status": "unknown_material"
+        },
+        {
+          "effect_type": "coordination_mandate",
+          "affected_scope": "Celebración del convenio previsto en el artículo 71",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "unknown",
+            "date": null,
+            "description": "El texto no expresa el momento inicial del plazo"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Plazo de doce meses"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional Bancaria y de Valores",
+            "Banco de México"
+          ],
+          "verification_status": "unknown_material"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:octava",
-      "temporal_status": "conditionally_effective",
+      "temporal_status": "effective",
       "publication_date": "2018-03-09",
       "effective_from": "2018-03-10",
       "effective_to": null,
-      "confidence": 0.99,
+      "confidence": 0.97,
       "basis": "llm_inference",
       "supporting_text": [
         "Las personas que a la entrada en vigor del presente ordenamiento se encuentren realizando las actividades reguladas en esta Ley deberán dar cumplimiento a la obligación de solicitar su autorización ante la Comisión Nacional Bancaria y de Valores en los términos en que se establezca en las disposiciones de carácter general que para tal efecto se emitan, en un plazo que no exceda de doce meses contado a partir de la entrada en vigor de estas disposiciones.",
-        "Dichas personas podrán continuar realizando tales actividades hasta en tanto la Comisión Nacional Bancaria y de Valores resuelva su solicitud, pero hasta en tanto no reciban la autorización respectiva deberán publicar en su página de internet o medio que utilice que la autorización para llevar a cabo dicha actividad se encuentra en trámite por lo que no es una actividad supervisada por las autoridades mexicanas."
+        "Dichas personas podrán continuar realizando tales actividades hasta en tanto la Comisión Nacional Bancaria y de Valores resuelva su solicitud, pero hasta en tanto no reciban la autorización respectiva deberán publicar en su página de internet o medio que utilice que la autorización para llevar a cabo dicha actividad se encuentra en trámite por lo que no es una actividad supervisada por las autoridades mexicanas.",
+        "En caso de que las personas a que se refiere el párrafo anterior no soliciten su autorización en el plazo de doce meses previsto en dicho párrafo o no la obtengan una vez solicitada, éstas deberán abstenerse de continuar prestando sus servicios para la celebración de nuevas Operaciones y deberán realizar únicamente los actos tendientes a la conclusión o cesión de las Operaciones existentes reguladas en esta Ley, notificando a sus Clientes dicha circunstancia y la forma en que se concluirán o cederán las Operaciones."
       ],
-      "review_required": true,
-      "review_reason": "conditional effectiveness requires human review",
+      "review_required": false,
+      "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "adaptation_period",
+          "affected_scope": "Personas que ya realizaban actividades reguladas: solicitud de autorización",
+          "application_rule": "migration_to_new_rule",
+          "trigger": {
+            "boundary_type": "external_event",
+            "date": null,
+            "description": "Entrada en vigor de las disposiciones generales sobre la solicitud"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Plazo máximo de doce meses desde la entrada en vigor de esas disposiciones"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional Bancaria y de Valores"
+          ],
+          "verification_status": "external_verification_required"
+        },
+        {
+          "effect_type": "transitional_permission",
+          "affected_scope": "Continuación temporal de las actividades mientras se resuelve la solicitud, con aviso público obligatorio",
+          "application_rule": "transitional_permission",
+          "trigger": {
+            "boundary_type": "authority_action",
+            "date": null,
+            "description": "Presentación de la solicitud de autorización"
+          },
+          "end_condition": {
+            "boundary_type": "authority_action",
+            "date": null,
+            "description": "Resolución de la solicitud por la Comisión Nacional Bancaria y de Valores"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional Bancaria y de Valores"
+          ],
+          "verification_status": "external_verification_required"
+        },
+        {
+          "effect_type": "migration",
+          "affected_scope": "Cese de nuevas operaciones y conclusión o cesión de operaciones existentes cuando no se solicite u obtenga autorización",
+          "application_rule": "mixed",
+          "trigger": {
+            "boundary_type": "external_event",
+            "date": null,
+            "description": "Vencimiento del plazo sin solicitud o falta de obtención de la autorización"
+          },
+          "end_condition": {
+            "boundary_type": "cohort_exhaustion",
+            "date": null,
+            "description": "Conclusión o cesión de las operaciones existentes"
+          },
+          "responsible_authorities": [
+            "Comisión Nacional Bancaria y de Valores"
+          ],
+          "verification_status": "open_ended_by_design"
+        },
+        {
+          "effect_type": "coordination_mandate",
+          "affected_scope": "Alertas a clientes e impedimento de ofertas de sociedades no autorizadas",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "external_event",
+            "date": null,
+            "description": "Sociedad que no obtiene o no cuenta con autorización"
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [
+            "Autoridades competentes"
+          ],
+          "verification_status": "external_verification_required"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:novena",
-      "temporal_status": "conditionally_effective",
+      "temporal_status": "effective",
       "publication_date": "2018-03-09",
       "effective_from": "2018-03-10",
       "effective_to": null,
-      "confidence": 0.99,
+      "confidence": 0.98,
       "basis": "llm_inference",
       "supporting_text": [
         "Las personas que se encuentren obligadas a establecer interfaces de programación de aplicaciones informáticas estandarizadas deberán dar cumplimiento a esta obligación en los términos que se establezcan en las disposiciones de carácter general que se emitan, en un plazo que no exceda de doce meses contado a partir de la entrada en vigor de dichas disposiciones."
       ],
-      "review_required": true,
-      "review_reason": "conditional effectiveness requires human review",
+      "review_required": false,
+      "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "adaptation_period",
+          "affected_scope": "Establecimiento de interfaces de programación de aplicaciones informáticas estandarizadas",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "external_event",
+            "date": null,
+            "description": "Entrada en vigor de las disposiciones generales aplicables"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Plazo máximo de doce meses desde la entrada en vigor de esas disposiciones"
+          },
+          "responsible_authorities": [],
+          "verification_status": "external_verification_required"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:decima",
@@ -164,7 +565,7 @@
       "publication_date": "2018-03-09",
       "effective_from": "2018-03-10",
       "effective_to": null,
-      "confidence": 0.92,
+      "confidence": 0.94,
       "basis": "llm_inference",
       "supporting_text": [
         "A propuesta de la Secretaría de Hacienda y Crédito Público, la Cámara de Diputados deberá destinar recursos en el Presupuesto de Egresos de la Federación para el desarrollo de las facultades que deba ejercer la Comisión Nacional Bancaria y de Valores y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros conforme a la presente Ley, para el establecimiento del área encargada de preparar e implementar el programa y los lineamientos para las sociedades autorizadas para operar con Modelos Novedosos reguladas en la presente Ley."
@@ -172,7 +573,31 @@
       "review_required": false,
       "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "authority_assignment",
+          "affected_scope": "Propuesta y asignación presupuestaria para facultades regulatorias y el área de Modelos Novedosos",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "authority_action",
+            "date": null,
+            "description": "Propuesta de la Secretaría de Hacienda y Crédito Público"
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [
+            "Secretaría de Hacienda y Crédito Público",
+            "Cámara de Diputados",
+            "Comisión Nacional Bancaria y de Valores",
+            "Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros"
+          ],
+          "verification_status": "open_ended_by_design"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:decima-primera",
@@ -180,16 +605,36 @@
       "publication_date": "2018-03-09",
       "effective_from": "2018-03-10",
       "effective_to": null,
-      "confidence": 0.98,
+      "confidence": 0.99,
       "basis": "llm_inference",
       "supporting_text": [
-        "El Grupo de Innovación Financiera deberá celebrar su primera sesión durante los primeros seis meses posteriores a la entrada en vigor de esta Ley.",
-        "En dicha sesión se deberán aprobar las bases que rijan su organización y funcionamiento."
+        "El Grupo de Innovación Financiera deberá celebrar su primera sesión durante los primeros seis meses posteriores a la entrada en vigor de esta Ley. En dicha sesión se deberán aprobar las bases que rijan su organización y funcionamiento."
       ],
       "review_required": false,
       "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "implementation_deadline",
+          "affected_scope": "Primera sesión del Grupo de Innovación Financiera y aprobación de sus bases de organización y funcionamiento",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-03-10",
+            "description": "Entrada en vigor de la Ley"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Primeros seis meses posteriores a la entrada en vigor"
+          },
+          "responsible_authorities": [
+            "Grupo de Innovación Financiera"
+          ],
+          "verification_status": "external_verification_required"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2021-05-20:transitory:primero",
@@ -197,15 +642,34 @@
       "publication_date": "2021-05-20",
       "effective_from": "2021-05-21",
       "effective_to": null,
-      "confidence": 1.0,
+      "confidence": 0.99,
       "basis": "llm_inference",
       "supporting_text": [
-        "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República."
+        "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación"
       ],
       "review_required": false,
       "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "commencement",
+          "affected_scope": "Decreto publicado el 20 de mayo de 2021",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "publication",
+            "date": "2021-05-20",
+            "description": "Publicación del Decreto en el Diario Oficial de la Federación"
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:primero",
@@ -213,7 +677,7 @@
       "publication_date": "2024-01-24",
       "effective_from": "2024-01-25",
       "effective_to": null,
-      "confidence": 1.0,
+      "confidence": 0.99,
       "basis": "llm_inference",
       "supporting_text": [
         "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
@@ -221,55 +685,133 @@
       "review_required": false,
       "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "commencement",
+          "affected_scope": "Decreto publicado el 24 de enero de 2024",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "publication",
+            "date": "2024-01-24",
+            "description": "Publicación del Decreto en el Diario Oficial de la Federación"
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:segundo",
-      "temporal_status": "repealed_with_survival",
+      "temporal_status": "effective",
       "publication_date": "2024-01-24",
       "effective_from": "2024-01-25",
       "effective_to": null,
-      "confidence": 0.98,
+      "confidence": 0.99,
       "basis": "llm_inference",
       "supporting_text": [
         "Los procedimientos administrativos sancionadores que, a la fecha de entrada del presente Decreto, se hubieren iniciado deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación al presunto infractor."
       ],
-      "review_required": true,
-      "review_reason": "survival after repeal requires human review",
+      "review_required": false,
+      "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "procedural_survival",
+          "affected_scope": "Procedimientos administrativos sancionadores iniciados antes de la entrada en vigor del Decreto",
+          "application_rule": "prior_rule_for_existing_matters",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2024-01-25",
+            "description": "Entrada en vigor del Decreto"
+          },
+          "end_condition": {
+            "boundary_type": "cohort_exhaustion",
+            "date": null,
+            "description": "Conclusión de todos los procedimientos comprendidos en la cohorte"
+          },
+          "responsible_authorities": [],
+          "verification_status": "open_ended_by_design"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:tercero",
-      "temporal_status": "repealed_with_survival",
+      "temporal_status": "effective",
       "publication_date": "2024-01-24",
       "effective_from": "2024-01-25",
       "effective_to": null,
-      "confidence": 0.98,
+      "confidence": 0.97,
       "basis": "llm_inference",
       "supporting_text": [
         "Las resoluciones que pongan fin a los procedimientos administrativos de revocación que se hubieren iniciado mediante la notificación del acto a través del cual se concede el derecho de audiencia, antes de la entrada en vigor del presente Decreto, deberán continuarse hasta su conclusión, conforme al procedimiento vigente al momento de su notificación a la institución o entidad correspondiente."
       ],
-      "review_required": true,
-      "review_reason": "survival after repeal requires human review",
+      "review_required": false,
+      "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "procedural_survival",
+          "affected_scope": "Procedimientos administrativos de revocación iniciados mediante notificación antes de la entrada en vigor del Decreto",
+          "application_rule": "prior_rule_for_existing_matters",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2024-01-25",
+            "description": "Entrada en vigor del Decreto"
+          },
+          "end_condition": {
+            "boundary_type": "cohort_exhaustion",
+            "date": null,
+            "description": "Conclusión de todos los procedimientos comprendidos en la cohorte"
+          },
+          "responsible_authorities": [],
+          "verification_status": "open_ended_by_design"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:cuarto",
-      "temporal_status": "repealed_with_survival",
+      "temporal_status": "effective",
       "publication_date": "2024-01-24",
       "effective_from": "2024-01-25",
       "effective_to": null,
-      "confidence": 0.96,
+      "confidence": 0.99,
       "basis": "llm_inference",
       "supporting_text": [
         "La sustanciación y resolución de los procedimientos sancionadores que, a la fecha de entrada del presente Decreto, hubiere iniciado el Banco de México se regirán por lo dispuesto en las Reglas de Supervisión, Programas de Autocorrección y del Procedimiento Sancionador, vigentes en la misma fecha de entrada en vigor del presente Decreto."
       ],
-      "review_required": true,
-      "review_reason": "survival after repeal requires human review",
+      "review_required": false,
+      "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "procedural_survival",
+          "affected_scope": "Procedimientos sancionadores iniciados por el Banco de México antes de la entrada en vigor del Decreto",
+          "application_rule": "prior_rule_for_existing_matters",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2024-01-25",
+            "description": "Entrada en vigor del Decreto"
+          },
+          "end_condition": {
+            "boundary_type": "cohort_exhaustion",
+            "date": null,
+            "description": "Sustanciación y resolución de todos los procedimientos comprendidos en la cohorte"
+          },
+          "responsible_authorities": [
+            "Banco de México"
+          ],
+          "verification_status": "open_ended_by_design"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:primero",
@@ -277,7 +819,7 @@
       "publication_date": "2025-11-14",
       "effective_from": "2025-11-15",
       "effective_to": null,
-      "confidence": 1.0,
+      "confidence": 0.99,
       "basis": "llm_inference",
       "supporting_text": [
         "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
@@ -285,31 +827,91 @@
       "review_required": false,
       "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "commencement",
+          "affected_scope": "Decreto publicado el 14 de noviembre de 2025",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "publication",
+            "date": "2025-11-14",
+            "description": "Publicación del Decreto en el Diario Oficial de la Federación"
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:segundo",
-      "temporal_status": "conditionally_effective",
+      "temporal_status": "effective",
       "publication_date": "2025-11-14",
-      "effective_from": null,
+      "effective_from": "2025-11-15",
       "effective_to": null,
-      "confidence": 0.99,
+      "confidence": 0.98,
       "basis": "llm_inference",
       "supporting_text": [
         "La aplicación de lo dispuesto en el presente Decreto entrará en vigor en cada una de las entidades federativas al mismo tiempo que la Declaratoria de aplicación gradual que expidan los Congresos Locales para efecto de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el Artículo Segundo Transitorio del Decreto publicado en el Diario Oficial de la Federación el 7 de junio de 2023.",
         "En el orden federal, la aplicación de lo dispuesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.",
         "En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decreto será automática a partir del 1o. de abril de 2027."
       ],
-      "review_required": true,
-      "review_reason": "conditional effectiveness requires human review",
+      "review_required": false,
+      "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "staged_commencement",
+          "affected_scope": "Aplicación del Decreto en cada entidad federativa",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "external_event",
+            "date": null,
+            "description": "Declaratoria local de aplicación gradual del Código Nacional de Procedimientos Civiles y Familiares"
+          },
+          "end_condition": {
+            "boundary_type": "fixed_date",
+            "date": "2027-04-01",
+            "description": "Fecha máxima de inicio automático si no se emite la Declaratoria"
+          },
+          "responsible_authorities": [
+            "Congresos Locales"
+          ],
+          "verification_status": "external_verification_required"
+        },
+        {
+          "effect_type": "staged_commencement",
+          "affected_scope": "Aplicación del Decreto en el orden federal",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "external_event",
+            "date": null,
+            "description": "Declaratoria federal de aplicación gradual del Código Nacional de Procedimientos Civiles y Familiares"
+          },
+          "end_condition": {
+            "boundary_type": "fixed_date",
+            "date": "2027-04-01",
+            "description": "Fecha máxima de inicio automático si no se emite la Declaratoria"
+          },
+          "responsible_authorities": [
+            "Cámara de Diputados",
+            "Cámara de Senadores"
+          ],
+          "verification_status": "external_verification_required"
+        }
+      ]
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:tercero",
-      "temporal_status": "repealed_with_survival",
+      "temporal_status": "effective",
       "publication_date": "2025-11-14",
-      "effective_from": null,
+      "effective_from": "2025-11-15",
       "effective_to": null,
       "confidence": 0.98,
       "basis": "llm_inference",
@@ -317,10 +919,46 @@
         "Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.",
         "No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado."
       ],
-      "review_required": true,
-      "review_reason": "survival after repeal requires human review",
+      "review_required": false,
+      "review_reason": null,
       "model": "gpt-5.5",
-      "prompt_version": "temporal-v1"
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "procedural_survival",
+          "affected_scope": "Procedimientos en trámite al inicio territorialmente escalonado del Decreto, con opción conjunta de adoptar la nueva regulación",
+          "application_rule": "mixed",
+          "trigger": {
+            "boundary_type": "external_event",
+            "date": null,
+            "description": "Entrada en vigor aplicable conforme a las declaratorias o, a más tardar, el 1 de abril de 2027"
+          },
+          "end_condition": {
+            "boundary_type": "cohort_exhaustion",
+            "date": null,
+            "description": "Conclusión de todos los procedimientos comprendidos en la cohorte"
+          },
+          "responsible_authorities": [],
+          "verification_status": "open_ended_by_design"
+        },
+        {
+          "effect_type": "other",
+          "affected_scope": "Acumulación entre procesos regidos por el Código Nacional y procesos regidos por un código abrogado",
+          "application_rule": "mixed",
+          "trigger": {
+            "boundary_type": "external_event",
+            "date": null,
+            "description": "Concurrencia de procesos sujetos a los dos regímenes procesales"
+          },
+          "end_condition": {
+            "boundary_type": "cohort_exhaustion",
+            "date": null,
+            "description": "Conclusión de los procesos sujetos a regímenes distintos"
+          },
+          "responsible_authorities": [],
+          "verification_status": "open_ended_by_design"
+        }
+      ]
     }
   ]
 }

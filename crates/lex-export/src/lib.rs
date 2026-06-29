@@ -1,7 +1,10 @@
 use std::{fmt::Write as _, fs, path::Path};
 
 use anyhow::{Context, Result};
-use lex_core::{Corpus, Provision, ProvisionType, ReviewItem, ReviewItemStatus, ValidationReport};
+use lex_core::{
+    Corpus, Provision, ProvisionType, ReviewItem, ReviewItemStatus, TemporalBoundary,
+    TemporalBoundaryType, ValidationReport,
+};
 
 pub fn write_canonical(corpus: &Corpus, output_dir: &Path) -> Result<()> {
     fs::create_dir_all(output_dir)?;
@@ -67,8 +70,21 @@ fn write_json<T: serde::Serialize>(value: &T, path: &Path) -> Result<()> {
 
 fn front_matter(corpus: &Corpus, provision: &Provision) -> String {
     let alias = format!("{} — {}", corpus.instrument.short_name, provision.label);
+    let effect_types: Vec<_> = provision
+        .transitory_effects
+        .iter()
+        .map(|effect| json_name(&effect.effect_type))
+        .collect();
+    let effect_front_matter = if effect_types.is_empty() {
+        String::new()
+    } else {
+        format!(
+            "transitory_effects: {}\n",
+            serde_json::to_string(&effect_types).expect("serializing effect types cannot fail")
+        )
+    };
     format!(
-        "---\nid: {}\ninstrument_id: {}\ninstrument: {}\nprovision_type: {}\nnumber: \"{}\"\naliases: [{}]\ngenerated: true\ntemporal_status: {}\nreview_status: {}\nsource_url: {}\nsource_sha256: {}\n---\n\n",
+        "---\nid: {}\ninstrument_id: {}\ninstrument: {}\nprovision_type: {}\nnumber: \"{}\"\naliases: [{}]\ngenerated: true\ntemporal_status: {}\nreview_status: {}\n{}source_url: {}\nsource_sha256: {}\n---\n\n",
         provision.id,
         provision.instrument_id,
         corpus.instrument.short_name,
@@ -77,6 +93,7 @@ fn front_matter(corpus: &Corpus, provision: &Provision) -> String {
         serde_json::to_string(&alias).expect("serializing alias cannot fail"),
         json_name(&provision.temporal_status),
         json_name(&provision.review_status),
+        effect_front_matter,
         corpus.instrument.source_url,
         corpus.instrument.source_sha256,
     )
@@ -92,6 +109,7 @@ fn standard_markdown(corpus: &Corpus, provision: &Provision) -> String {
         output.push_str("\n\n");
     }
     let _ = write!(output, "# {}\n\n{}\n", provision.label, provision.text);
+    append_transitory_effects(&mut output, provision);
     output
 }
 
@@ -103,7 +121,57 @@ fn obsidian_markdown(corpus: &Corpus, provision: &Provision) -> String {
         corpus.instrument.short_name
     );
     let _ = write!(output, "# {}\n\n{}\n", provision.label, provision.text);
+    append_transitory_effects(&mut output, provision);
     output
+}
+
+fn append_transitory_effects(output: &mut String, provision: &Provision) {
+    if provision.transitory_effects.is_empty() {
+        return;
+    }
+    output.push_str("\n## Efectos transitorios estructurados\n\n");
+    for (index, effect) in provision.transitory_effects.iter().enumerate() {
+        let authorities = if effect.responsible_authorities.is_empty() {
+            "Ninguna identificada".to_owned()
+        } else {
+            effect.responsible_authorities.join("; ")
+        };
+        let _ = write!(
+            output,
+            "### Efecto {} — {}\n\n\
+             - **Alcance afectado:** {}\n\
+             - **Regla de aplicación:** {}\n\
+             - **Detonante:** {}\n\
+             - **Condición de terminación:** {}\n\
+             - **Autoridades responsables:** {}\n\
+             - **Verificación:** {}\n\n",
+            index + 1,
+            json_name(&effect.effect_type),
+            effect.affected_scope,
+            json_name(&effect.application_rule),
+            format_boundary(&effect.trigger),
+            format_boundary(&effect.end_condition),
+            authorities,
+            json_name(&effect.verification_status),
+        );
+    }
+    if output.ends_with("\n\n") {
+        output.pop();
+    }
+}
+
+fn format_boundary(boundary: &TemporalBoundary) -> String {
+    if boundary.boundary_type == TemporalBoundaryType::None {
+        return "No aplica".to_owned();
+    }
+    let mut value = json_name(&boundary.boundary_type);
+    if let Some(date) = boundary.date {
+        let _ = write!(value, " ({date})");
+    }
+    if let Some(description) = &boundary.description {
+        let _ = write!(value, ": {description}");
+    }
+    value
 }
 
 fn obsidian_index(corpus: &Corpus) -> String {
@@ -163,6 +231,21 @@ fn obsidian_review_queue(items: &[ReviewItem]) -> String {
             provision_diff,
             item.evidence.text.replace('\n', "\n> "),
         );
+        output.push_str("**Efectos propuestos**\n\n");
+        for effect in &determination.effects {
+            let _ = writeln!(
+                output,
+                "- **{}:** {}. Regla: `{}`. Detonante: {}. Terminación: {}. \
+                 Verificación: `{}`.",
+                json_name(&effect.effect_type),
+                effect.affected_scope,
+                json_name(&effect.application_rule),
+                format_boundary(&effect.trigger),
+                format_boundary(&effect.end_condition),
+                json_name(&effect.verification_status),
+            );
+        }
+        output.push('\n');
     }
     output
 }
@@ -272,6 +355,14 @@ mod tests {
                 .join("Corpus/LRITF/transitorio-decima-primera.md")
                 .is_file()
         );
+        assert!(
+            fs::read_to_string(
+                temp.path()
+                    .join("Corpus/LRITF/transitorio-decima-primera.md")
+            )
+            .unwrap()
+            .contains("## Efectos transitorios estructurados")
+        );
         assert!(temp.path().join("Corpus/LRITF/LRITF.md").is_file());
         assert!(
             temp.path()
@@ -305,6 +396,24 @@ mod tests {
             temporal_basis: None,
             temporal_confidence: None,
             review_status: ReviewStatus::NotAnalyzed,
+            transitory_effects: vec![lex_core::TransitoryEffect {
+                effect_type: lex_core::TransitoryEffectType::ImplementationDeadline,
+                affected_scope: "Primera sesión".to_owned(),
+                application_rule: lex_core::TransitoryApplicationRule::NotApplicable,
+                trigger: lex_core::TemporalBoundary {
+                    boundary_type: lex_core::TemporalBoundaryType::EffectiveDate,
+                    date: chrono::NaiveDate::from_ymd_opt(2018, 3, 10),
+                    description: None,
+                },
+                end_condition: lex_core::TemporalBoundary {
+                    boundary_type: lex_core::TemporalBoundaryType::RelativePeriod,
+                    date: None,
+                    description: Some("seis meses".to_owned()),
+                },
+                responsible_authorities: vec!["Grupo de Innovación Financiera".to_owned()],
+                verification_status:
+                    lex_core::TemporalVerificationStatus::ExternalVerificationRequired,
+            }],
         }
     }
 

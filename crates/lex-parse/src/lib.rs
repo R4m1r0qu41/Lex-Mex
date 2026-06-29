@@ -533,6 +533,7 @@ impl ProvisionBuilder {
             temporal_basis: None,
             temporal_confidence: None,
             review_status: ReviewStatus::NotAnalyzed,
+            transitory_effects: Vec::new(),
         }
     }
 }

@@ -63,8 +63,8 @@ Without a provider, `analyze-temporal` only creates the schema-bound request
 artifact. With `--provider codex`, it runs the model through the authenticated
 Codex CLI, requires strict JSON-schema output, validates that every requested
 provision appears exactly once and every supporting quotation occurs verbatim
-in the source evidence, then records request and response hashes. Ambiguous
-status classes and confidence below 0.92 are routed to
+in the source evidence, then records request and response hashes. Materially
+unknown transitory effects and confidence below 0.92 are routed to
 `corpus/mx/lritf/review-queue.json` and the Obsidian review dashboard.
 
 The complete network-and-model cycle is:
@@ -79,10 +79,20 @@ LEX_MEX_OBSIDIAN_VAULT=/Users/jr/Vaults/Lex-Mex \
 model response produced by another provider. `review list` prints the pending
 human decisions; model output never resolves those decisions automatically.
 `review resolve` requires reviewer identity. A `lawyer-override` additionally
-requires `--note`, `--temporal-status`, and any applicable `--effective-from`
-or `--effective-to` dates. Resolved items remain in the JSON audit history but
-are removed from the pending Obsidian dashboard. No review is resolved merely
-by exporting or rerunning `review list`.
+requires `--note` and at least one explicit change: `--temporal-status`, an
+applicable effective date, or `--effects-file` containing a JSON array of
+corrected structured effects. Resolved items remain in the JSON audit history
+but are removed from the pending Obsidian dashboard. No review is resolved
+merely by exporting or rerunning `review list`.
+
+Temporal model v2 separates the status of a transitory provision from the
+effects it creates. Structured effects cover commencement, deadlines,
+adaptation periods, transitional permissions, survival of prior rules for
+existing matters, migration, authority assignments, coordination, staged
+commencement, sunsets, and repeal. Cohort-based survival may be open-ended by
+design without requiring legal review. `external_verification_required` marks
+clear rules whose present application depends on checking a later publication
+or authority action.
 
 ## Development checks
 

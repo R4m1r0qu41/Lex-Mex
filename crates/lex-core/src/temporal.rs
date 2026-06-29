@@ -7,8 +7,9 @@ use url::Url;
 use crate::{
     Basis, ReviewItem, ReviewItemStatus, ReviewResolution, ReviewStatus, SCHEMA_VERSION,
     TemporalAnalysisMetadata, TemporalAnalysisRequest, TemporalAnalysisResult,
-    TemporalDetermination, TemporalEvidence, TemporalModelBatch, TemporalModelDetermination,
-    TemporalReviewResolution, TemporalStatus,
+    TemporalBoundaryType, TemporalDetermination, TemporalEvidence, TemporalModelBatch,
+    TemporalModelDetermination, TemporalReviewResolution, TemporalStatus,
+    TemporalVerificationStatus, TransitoryApplicationRule,
 };
 
 const AUTO_ACCEPT_MIN_CONFIDENCE: f32 = 0.92;
@@ -33,6 +34,12 @@ pub enum TemporalRoutingError {
     UnsupportedCitation(String),
     #[error("effective_to precedes effective_from for {0}")]
     InvalidDateRange(String),
+    #[error("model used an effect classification as the provision status for {0}")]
+    InvalidProvisionStatus(String),
+    #[error("model returned no transitory effects for {0}")]
+    MissingEffects(String),
+    #[error("model returned a malformed transitory effect for {0}")]
+    InvalidEffect(String),
 }
 
 #[derive(Debug, Error)]
@@ -41,7 +48,7 @@ pub enum TemporalReviewResolutionError {
     AlreadyResolved,
     #[error("reviewer identity cannot be empty")]
     EmptyReviewer,
-    #[error("lawyer_override requires --temporal-status and a non-empty --note")]
+    #[error("lawyer_override requires a non-empty --note and at least one changed field")]
     IncompleteLawyerOverride,
     #[error("override fields are only valid with lawyer_override")]
     UnexpectedOverrideFields,
@@ -51,6 +58,8 @@ pub enum TemporalReviewResolutionError {
     MissingEffectiveFrom,
     #[error("future_effective lawyer override requires a future --effective-from")]
     InvalidFutureEffectiveDate,
+    #[error("lawyer_override contains a malformed transitory effect")]
+    InvalidOverrideEffect,
     #[error("temporal result does not contain determination for {0}")]
     DeterminationNotFound(String),
 }
@@ -99,6 +108,7 @@ pub fn route_temporal_analysis(
             review_reason: review_required.then(|| review_reasons.join("; ")),
             model: metadata.model.clone(),
             prompt_version: request.prompt_version.clone(),
+            effects: model_output.effects,
         };
         if review_required {
             review_items.push(review_item(
@@ -153,6 +163,30 @@ fn validate_model_output(
             evidence.provision_id.clone(),
         ));
     }
+    if matches!(
+        output.temporal_status,
+        TemporalStatus::PartiallyEffective
+            | TemporalStatus::ConditionallyEffective
+            | TemporalStatus::RepealedWithSurvival
+            | TemporalStatus::TemporarilyApplicable
+            | TemporalStatus::PendingConsolidation
+    ) {
+        return Err(TemporalRoutingError::InvalidProvisionStatus(
+            evidence.provision_id.clone(),
+        ));
+    }
+    if output.effects.is_empty() {
+        return Err(TemporalRoutingError::MissingEffects(
+            evidence.provision_id.clone(),
+        ));
+    }
+    for effect in &output.effects {
+        if !valid_effect(effect) {
+            return Err(TemporalRoutingError::InvalidEffect(
+                evidence.provision_id.clone(),
+            ));
+        }
+    }
     Ok(())
 }
 
@@ -166,27 +200,6 @@ fn review_reasons(output: &TemporalModelDetermination, today: NaiveDate) -> Vec<
     }
     match output.temporal_status {
         TemporalStatus::Unknown => reasons.push("evidence was insufficient".to_owned()),
-        TemporalStatus::PartiallyEffective => {
-            reasons.push("partial effectiveness requires human review".to_owned());
-        }
-        TemporalStatus::ConditionallyEffective => {
-            reasons.push("conditional effectiveness requires human review".to_owned());
-        }
-        TemporalStatus::RepealedWithSurvival => {
-            reasons.push("survival after repeal requires human review".to_owned());
-        }
-        TemporalStatus::Repealed => {
-            reasons.push("repeal classification requires human review".to_owned());
-        }
-        TemporalStatus::Superseded => {
-            reasons.push("supersession requires human review".to_owned());
-        }
-        TemporalStatus::TemporarilyApplicable => {
-            reasons.push("temporary applicability requires human review".to_owned());
-        }
-        TemporalStatus::PendingConsolidation => {
-            reasons.push("pending consolidation requires human review".to_owned());
-        }
         TemporalStatus::FutureEffective => match output.effective_from {
             Some(date) if date > today => {}
             _ => reasons
@@ -197,6 +210,21 @@ fn review_reasons(output: &TemporalModelDetermination, today: NaiveDate) -> Vec<
         }
         _ => {}
     }
+    for effect in &output.effects {
+        if effect.application_rule == TransitoryApplicationRule::Unknown {
+            reasons.push("application rule is unknown".to_owned());
+        }
+        if effect.trigger.boundary_type == TemporalBoundaryType::Unknown
+            || effect.end_condition.boundary_type == TemporalBoundaryType::Unknown
+        {
+            reasons.push("a material temporal boundary is unknown".to_owned());
+        }
+        if effect.verification_status == TemporalVerificationStatus::UnknownMaterial {
+            reasons.push("material information needed for classification is unknown".to_owned());
+        }
+    }
+    reasons.sort();
+    reasons.dedup();
     reasons
 }
 
@@ -271,20 +299,35 @@ pub fn resolve_temporal_review(
             verified.effective_to = None;
         }
         ReviewResolution::LawyerOverride => {
-            let status = resolution
-                .temporal_status
-                .clone()
-                .ok_or(TemporalReviewResolutionError::IncompleteLawyerOverride)?;
             if resolution
                 .note
                 .as_deref()
                 .is_none_or(|note| note.trim().is_empty())
+                || (resolution.temporal_status.is_none()
+                    && resolution.effective_from.is_none()
+                    && resolution.effective_to.is_none()
+                    && resolution.effects.is_none())
             {
                 return Err(TemporalReviewResolutionError::IncompleteLawyerOverride);
             }
-            verified.temporal_status = status;
-            verified.effective_from = resolution.effective_from;
-            verified.effective_to = resolution.effective_to;
+            if let Some(status) = resolution.temporal_status.clone() {
+                verified.temporal_status = status;
+            }
+            if resolution.effective_from.is_some() {
+                verified.effective_from = resolution.effective_from;
+            }
+            if resolution.effective_to.is_some() {
+                verified.effective_to = resolution.effective_to;
+            }
+            if let Some(effects) = resolution.effects.clone() {
+                if effects.is_empty() {
+                    return Err(TemporalReviewResolutionError::IncompleteLawyerOverride);
+                }
+                if effects.iter().any(|effect| !valid_effect(effect)) {
+                    return Err(TemporalReviewResolutionError::InvalidOverrideEffect);
+                }
+                verified.effects = effects;
+            }
             match verified.temporal_status {
                 TemporalStatus::Effective if verified.effective_from.is_none() => {
                     return Err(TemporalReviewResolutionError::MissingEffectiveFrom);
@@ -318,6 +361,30 @@ pub fn resolve_temporal_review(
     item.resolved_by = Some(reviewer.to_owned());
     item.resolved_at = Some(resolution.resolved_at);
     Ok(())
+}
+
+fn valid_effect(effect: &crate::TransitoryEffect) -> bool {
+    let description_required = |boundary_type: &TemporalBoundaryType| {
+        matches!(
+            boundary_type,
+            TemporalBoundaryType::RelativePeriod
+                | TemporalBoundaryType::ExternalEvent
+                | TemporalBoundaryType::CohortExhaustion
+                | TemporalBoundaryType::AuthorityAction
+                | TemporalBoundaryType::Unknown
+        )
+    };
+    let invalid_boundary = |boundary: &crate::TemporalBoundary| {
+        (boundary.boundary_type == TemporalBoundaryType::FixedDate && boundary.date.is_none())
+            || (description_required(&boundary.boundary_type)
+                && boundary
+                    .description
+                    .as_deref()
+                    .is_none_or(|value| value.trim().is_empty()))
+    };
+    !effect.affected_scope.trim().is_empty()
+        && !invalid_boundary(&effect.trigger)
+        && !invalid_boundary(&effect.end_condition)
 }
 
 pub fn preserve_temporal_review_history(
@@ -358,6 +425,7 @@ fn reject_override_fields(
     if resolution.temporal_status.is_some()
         || resolution.effective_from.is_some()
         || resolution.effective_to.is_some()
+        || resolution.effects.is_some()
     {
         Err(TemporalReviewResolutionError::UnexpectedOverrideFields)
     } else {
@@ -388,6 +456,9 @@ pub fn apply_temporal_determinations(
             } else {
                 ReviewStatus::MachineAccepted
             };
+            provision
+                .transitory_effects
+                .clone_from(&determination.effects);
             applied.insert(provision.id.clone());
         }
     }
@@ -398,18 +469,59 @@ mod tests {
     use chrono::{TimeZone, Utc};
 
     use super::*;
-    use crate::{TemporalAnalysisRequest, TemporalEvidence};
+    use crate::{TemporalAnalysisRequest, TemporalEvidence, TransitoryEffectType};
 
     #[test]
-    fn routes_conditional_effectiveness_to_review() {
+    fn routes_materially_unknown_effect_to_review() {
         let routed = routed_review();
         assert_eq!(routed.review_items.len(), 1);
         assert!(routed.result.determinations[0].review_required);
     }
 
     #[test]
+    fn accepts_open_ended_procedural_survival_without_review() {
+        let request = request();
+        let batch = model_batch(procedural_survival_effect(
+            TemporalVerificationStatus::OpenEndedByDesign,
+        ));
+        let routed = route(&request, batch).unwrap();
+
+        assert!(routed.review_items.is_empty());
+        assert!(!routed.result.determinations[0].review_required);
+        assert_eq!(
+            routed.result.determinations[0].effects[0]
+                .end_condition
+                .boundary_type,
+            TemporalBoundaryType::CohortExhaustion
+        );
+    }
+
+    #[test]
+    fn external_fact_verification_is_not_legal_ambiguity() {
+        let request = request();
+        let mut effect =
+            procedural_survival_effect(TemporalVerificationStatus::ExternalVerificationRequired);
+        effect.effect_type = TransitoryEffectType::StagedCommencement;
+        effect.application_rule = TransitoryApplicationRule::NewRuleProspectively;
+        effect.end_condition = crate::TemporalBoundary {
+            boundary_type: TemporalBoundaryType::ExternalEvent,
+            date: None,
+            description: Some("publicación de la declaratoria aplicable".to_owned()),
+        };
+        let routed = route(&request, model_batch(effect)).unwrap();
+
+        assert!(routed.review_items.is_empty());
+        assert_eq!(
+            routed.result.determinations[0].effects[0].verification_status,
+            TemporalVerificationStatus::ExternalVerificationRequired
+        );
+    }
+
+    #[test]
     fn resolves_review_with_audited_lawyer_override() {
         let mut routed = routed_review();
+        let verified_effect =
+            procedural_survival_effect(TemporalVerificationStatus::OpenEndedByDesign);
         resolve_temporal_review(
             &mut routed.review_items[0],
             &mut routed.result.determinations,
@@ -417,9 +529,10 @@ mod tests {
                 resolution: ReviewResolution::LawyerOverride,
                 reviewer: "Lic. Ejemplo".to_owned(),
                 note: Some("La condición permanece vigente hasta la autorización.".to_owned()),
-                temporal_status: Some(TemporalStatus::TemporarilyApplicable),
-                effective_from: Some(NaiveDate::from_ymd_opt(2027, 4, 1).unwrap()),
+                temporal_status: None,
+                effective_from: None,
                 effective_to: None,
+                effects: Some(vec![verified_effect.clone()]),
                 resolved_at: Utc.with_ymd_and_hms(2026, 6, 29, 1, 0, 0).unwrap(),
             },
         )
@@ -430,10 +543,8 @@ mod tests {
         assert_eq!(item.status, ReviewItemStatus::Resolved);
         assert_eq!(item.resolved_by.as_deref(), Some("Lic. Ejemplo"));
         assert_eq!(determination.basis, Basis::LawyerVerified);
-        assert_eq!(
-            determination.temporal_status,
-            TemporalStatus::TemporarilyApplicable
-        );
+        assert_eq!(determination.temporal_status, TemporalStatus::Effective);
+        assert_eq!(determination.effects, vec![verified_effect]);
         assert!(!determination.review_required);
     }
 
@@ -450,6 +561,7 @@ mod tests {
                 temporal_status: Some(TemporalStatus::Effective),
                 effective_from: Some(NaiveDate::from_ymd_opt(2027, 4, 1).unwrap()),
                 effective_to: None,
+                effects: None,
                 resolved_at: Utc::now(),
             },
         )
@@ -473,6 +585,7 @@ mod tests {
                 temporal_status: None,
                 effective_from: None,
                 effective_to: None,
+                effects: None,
                 resolved_at: Utc.with_ymd_and_hms(2026, 6, 29, 1, 0, 0).unwrap(),
             },
         )
@@ -505,6 +618,9 @@ mod tests {
                 effective_to: None,
                 confidence: 0.99,
                 supporting_text: vec!["invented quote".to_owned()],
+                effects: vec![procedural_survival_effect(
+                    TemporalVerificationStatus::OpenEndedByDesign,
+                )],
             }],
         };
         let error = route_temporal_analysis(
@@ -529,7 +645,7 @@ mod tests {
     fn request() -> TemporalAnalysisRequest {
         TemporalAnalysisRequest {
             schema_version: SCHEMA_VERSION.to_owned(),
-            prompt_version: "temporal-v1".to_owned(),
+            prompt_version: "temporal-v2".to_owned(),
             instrument_id: "urn:lex-mx:test".to_owned(),
             publication_date: NaiveDate::from_ymd_opt(2025, 11, 14).unwrap(),
             latest_reform_date: None,
@@ -544,20 +660,17 @@ mod tests {
 
     fn routed_review() -> RoutedTemporalAnalysis {
         let request = request();
-        let batch = TemporalModelBatch {
-            determinations: vec![TemporalModelDetermination {
-                provision_id: request.relevant_provisions[0].provision_id.clone(),
-                temporal_status: TemporalStatus::ConditionallyEffective,
-                effective_from: Some(NaiveDate::from_ymd_opt(2027, 4, 1).unwrap()),
-                effective_to: None,
-                confidence: 0.98,
-                supporting_text: vec![
-                    "entrará en vigor cuando se emita la declaratoria".to_owned(),
-                ],
-            }],
-        };
+        let mut effect = procedural_survival_effect(TemporalVerificationStatus::UnknownMaterial);
+        effect.application_rule = TransitoryApplicationRule::Unknown;
+        route(&request, model_batch(effect)).unwrap()
+    }
+
+    fn route(
+        request: &TemporalAnalysisRequest,
+        batch: TemporalModelBatch,
+    ) -> Result<RoutedTemporalAnalysis, TemporalRoutingError> {
         route_temporal_analysis(
-            &request,
+            request,
             batch,
             TemporalAnalysisMetadata {
                 request_sha256: "hash".to_owned(),
@@ -568,6 +681,44 @@ mod tests {
             },
             &"https://example.com/source.pdf".parse().unwrap(),
         )
-        .unwrap()
+    }
+
+    fn model_batch(effect: crate::TransitoryEffect) -> TemporalModelBatch {
+        let request = request();
+        TemporalModelBatch {
+            determinations: vec![TemporalModelDetermination {
+                provision_id: request.relevant_provisions[0].provision_id.clone(),
+                temporal_status: TemporalStatus::Effective,
+                effective_from: Some(NaiveDate::from_ymd_opt(2025, 11, 15).unwrap()),
+                effective_to: None,
+                confidence: 0.98,
+                supporting_text: vec![
+                    "entrará en vigor cuando se emita la declaratoria".to_owned(),
+                ],
+                effects: vec![effect],
+            }],
+        }
+    }
+
+    fn procedural_survival_effect(
+        verification_status: TemporalVerificationStatus,
+    ) -> crate::TransitoryEffect {
+        crate::TransitoryEffect {
+            effect_type: TransitoryEffectType::ProceduralSurvival,
+            affected_scope: "procedimientos iniciados antes de la reforma".to_owned(),
+            application_rule: TransitoryApplicationRule::PriorRuleForExistingMatters,
+            trigger: crate::TemporalBoundary {
+                boundary_type: TemporalBoundaryType::EffectiveDate,
+                date: Some(NaiveDate::from_ymd_opt(2025, 11, 15).unwrap()),
+                description: None,
+            },
+            end_condition: crate::TemporalBoundary {
+                boundary_type: TemporalBoundaryType::CohortExhaustion,
+                date: None,
+                description: Some("cuando concluyan los procedimientos existentes".to_owned()),
+            },
+            responsible_authorities: Vec::new(),
+            verification_status,
+        }
     }
 }

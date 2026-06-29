@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://lex-mex.local/schemas/temporal-analysis.schema.json",
-  "title": "Lex-Mex temporal determination",
+  "title": "Lex-Mex canonical temporal determination v2",
   "type": "object",
   "required": [
     "provision_id",
@@ -15,7 +15,8 @@
     "review_required",
     "review_reason",
     "model",
-    "prompt_version"
+    "prompt_version",
+    "effects"
   ],
   "properties": {
     "provision_id": { "type": "string", "pattern": "^urn:lex-mx:" },
@@ -25,20 +26,15 @@
         "published_not_effective",
         "effective",
         "future_effective",
-        "partially_effective",
-        "conditionally_effective",
         "repealed",
-        "repealed_with_survival",
-        "superseded",
-        "temporarily_applicable",
-        "pending_consolidation"
+        "superseded"
       ]
     },
     "publication_date": { "type": "string", "format": "date" },
     "effective_from": { "type": ["string", "null"], "format": "date" },
     "effective_to": { "type": ["string", "null"], "format": "date" },
     "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
-    "basis": { "const": "llm_inference" },
+    "basis": { "enum": ["llm_inference", "lawyer_verified"] },
     "supporting_text": {
       "type": "array",
       "minItems": 1,
@@ -47,38 +43,14 @@
     "review_required": { "type": "boolean" },
     "review_reason": { "type": ["string", "null"] },
     "model": { "type": "string", "minLength": 1 },
-    "prompt_version": { "const": "temporal-v1" }
-  },
-  "allOf": [
-    {
-      "if": {
-        "properties": {
-          "confidence": { "exclusiveMaximum": 0.92 }
-        }
-      },
-      "then": {
-        "properties": {
-          "review_required": { "const": true },
-          "review_reason": { "type": "string", "minLength": 1 }
-        }
-      }
-    },
-    {
-      "if": {
-        "properties": {
-          "temporal_status": {
-            "enum": ["partially_effective", "conditionally_effective"]
-          }
-        }
-      },
-      "then": {
-        "properties": {
-          "review_required": { "const": true },
-          "review_reason": { "type": "string", "minLength": 1 }
-        }
+    "prompt_version": { "type": "string", "minLength": 1 },
+    "effects": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "temporal-model-output-v2.schema.json#/$defs/effect"
       }
     }
-  ],
+  },
   "additionalProperties": false
 }
-

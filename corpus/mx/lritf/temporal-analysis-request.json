@@ -1,6 +1,6 @@
 {
   "schema_version": "0.1.0",
-  "prompt_version": "temporal-v1",
+  "prompt_version": "temporal-v2",
   "instrument_id": "urn:lex-mx:federal:statute:lritf",
   "publication_date": "2018-03-09",
   "latest_reform_date": "2025-11-14",
@@ -101,5 +101,5 @@
       "text": "Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto conforme con lo dispuesto en el artículo anterior, continuarán su sustanciación con la legislación aplicable al momento del inicio de los mismos, salvo que las partes conjuntamente opten por la regulación del contenido del Código Nacional de Procedimientos Civiles y Familiares.\n\nNo procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado."
     }
   ],
-  "required_output_schema": "schemas/temporal-model-output.schema.json"
+  "required_output_schema": "schemas/temporal-model-output-v2.schema.json"
 }

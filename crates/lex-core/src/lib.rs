@@ -48,6 +48,8 @@ pub enum TemporalStatus {
     PublishedNotEffective,
     Effective,
     FutureEffective,
+    // Legacy v1 values retained only so existing artifacts remain readable.
+    // Temporal v2 rejects these as provision statuses and models them as effects.
     PartiallyEffective,
     ConditionallyEffective,
     Repealed,
@@ -143,6 +145,8 @@ pub struct Provision {
     pub temporal_basis: Option<Basis>,
     pub temporal_confidence: Option<f32>,
     pub review_status: ReviewStatus,
+    #[serde(default)]
+    pub transitory_effects: Vec<TransitoryEffect>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -183,6 +187,8 @@ pub struct TemporalDetermination {
     pub review_reason: Option<String>,
     pub model: String,
     pub prompt_version: String,
+    #[serde(default)]
+    pub effects: Vec<TransitoryEffect>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -200,6 +206,82 @@ pub struct TemporalModelDetermination {
     pub effective_to: Option<NaiveDate>,
     pub confidence: f32,
     pub supporting_text: Vec<String>,
+    #[serde(default)]
+    pub effects: Vec<TransitoryEffect>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum TransitoryEffectType {
+    Commencement,
+    ImplementationDeadline,
+    RegulatoryDeadline,
+    AdaptationPeriod,
+    TransitionalPermission,
+    ProceduralSurvival,
+    Migration,
+    AuthorityAssignment,
+    CoordinationMandate,
+    StagedCommencement,
+    Sunset,
+    Repeal,
+    Other,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum TransitoryApplicationRule {
+    NotApplicable,
+    NewRuleProspectively,
+    PriorRuleForExistingMatters,
+    TransitionalPermission,
+    MigrationToNewRule,
+    Mixed,
+    Unknown,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum TemporalBoundaryType {
+    None,
+    Publication,
+    EffectiveDate,
+    FixedDate,
+    RelativePeriod,
+    ExternalEvent,
+    CohortExhaustion,
+    AuthorityAction,
+    Unknown,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum TemporalVerificationStatus {
+    NotRequired,
+    ConfirmedBySourceText,
+    ExternalVerificationRequired,
+    OpenEndedByDesign,
+    UnknownMaterial,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct TemporalBoundary {
+    pub boundary_type: TemporalBoundaryType,
+    pub date: Option<NaiveDate>,
+    pub description: Option<String>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(deny_unknown_fields)]
+pub struct TransitoryEffect {
+    pub effect_type: TransitoryEffectType,
+    pub affected_scope: String,
+    pub application_rule: TransitoryApplicationRule,
+    pub trigger: TemporalBoundary,
+    pub end_condition: TemporalBoundary,
+    pub responsible_authorities: Vec<String>,
+    pub verification_status: TemporalVerificationStatus,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -251,6 +333,7 @@ pub struct TemporalReviewResolution {
     pub temporal_status: Option<TemporalStatus>,
     pub effective_from: Option<NaiveDate>,
     pub effective_to: Option<NaiveDate>,
+    pub effects: Option<Vec<TransitoryEffect>>,
     pub resolved_at: DateTime<Utc>,
 }
 

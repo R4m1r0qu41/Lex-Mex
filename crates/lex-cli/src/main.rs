@@ -12,8 +12,9 @@ use lex_core::{
     Corpus, Instrument, InstrumentStatus, InstrumentType, LRITF_INSTRUMENT_ID, Provision,
     ProvisionType, ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest,
     TemporalAnalysisMetadata, TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence,
-    TemporalModelBatch, TemporalReviewResolution, TemporalStatus, apply_temporal_determinations,
-    preserve_temporal_review_history, resolve_temporal_review, route_temporal_analysis,
+    TemporalModelBatch, TemporalReviewResolution, TemporalStatus, TransitoryEffect,
+    apply_temporal_determinations, preserve_temporal_review_history, resolve_temporal_review,
+    route_temporal_analysis,
 };
 use lex_export::{write_canonical, write_markdown, write_obsidian, write_validation};
 use lex_parse::{extract_pdf, extract_reform_transitories, parse_lritf, validate_lritf};
@@ -123,6 +124,8 @@ enum ReviewCommand {
         effective_from: Option<NaiveDate>,
         #[arg(long)]
         effective_to: Option<NaiveDate>,
+        #[arg(long, value_name = "PATH")]
+        effects_file: Option<PathBuf>,
     },
 }
 
@@ -149,13 +152,8 @@ enum TemporalStatusArg {
     PublishedNotEffective,
     Effective,
     FutureEffective,
-    PartiallyEffective,
-    ConditionallyEffective,
     Repealed,
-    RepealedWithSurvival,
     Superseded,
-    TemporarilyApplicable,
-    PendingConsolidation,
 }
 
 impl From<TemporalStatusArg> for TemporalStatus {
@@ -165,13 +163,8 @@ impl From<TemporalStatusArg> for TemporalStatus {
             TemporalStatusArg::PublishedNotEffective => Self::PublishedNotEffective,
             TemporalStatusArg::Effective => Self::Effective,
             TemporalStatusArg::FutureEffective => Self::FutureEffective,
-            TemporalStatusArg::PartiallyEffective => Self::PartiallyEffective,
-            TemporalStatusArg::ConditionallyEffective => Self::ConditionallyEffective,
             TemporalStatusArg::Repealed => Self::Repealed,
-            TemporalStatusArg::RepealedWithSurvival => Self::RepealedWithSurvival,
             TemporalStatusArg::Superseded => Self::Superseded,
-            TemporalStatusArg::TemporarilyApplicable => Self::TemporarilyApplicable,
-            TemporalStatusArg::PendingConsolidation => Self::PendingConsolidation,
         }
     }
 }
@@ -408,12 +401,12 @@ fn run_temporal_request(root: &Path) -> Result<()> {
     evidence.append(&mut reform_evidence);
     let request = TemporalAnalysisRequest {
         schema_version: SCHEMA_VERSION.to_owned(),
-        prompt_version: "temporal-v1".to_owned(),
+        prompt_version: "temporal-v2".to_owned(),
         instrument_id: corpus.instrument.id,
         publication_date: corpus.instrument.publication_date,
         latest_reform_date: corpus.instrument.latest_reform_date,
         relevant_provisions: evidence,
-        required_output_schema: "schemas/temporal-model-output.schema.json".to_owned(),
+        required_output_schema: "schemas/temporal-model-output-v2.schema.json".to_owned(),
     };
     write_pretty_json(&request, &paths.temporal_request)?;
     println!(
@@ -426,7 +419,7 @@ fn run_temporal_request(root: &Path) -> Result<()> {
 fn run_codex_temporal(root: &Path, model: &str) -> Result<()> {
     let paths = Paths::new(root);
     let request: TemporalAnalysisRequest = read_json(&paths.temporal_request)?;
-    let prompt = fs::read_to_string(root.join("prompts/temporal-v1.md"))?;
+    let prompt = fs::read_to_string(root.join("prompts/temporal-v2.md"))?;
     let input = format!(
         "{prompt}\n\n# Evidence request\n\n{}",
         serde_json::to_string_pretty(&request)?
@@ -446,7 +439,7 @@ fn run_codex_temporal(root: &Path, model: &str) -> Result<()> {
             model,
             "--output-schema",
         ])
-        .arg(root.join("schemas/temporal-model-output.schema.json"))
+        .arg(root.join("schemas/temporal-model-output-v2.schema.json"))
         .args(["--output-last-message"])
         .arg(&paths.temporal_model_output)
         .arg("-")
@@ -568,7 +561,13 @@ fn run_review_command(
             temporal_status,
             effective_from,
             effective_to,
+            effects_file,
         } => {
+            let effects: Option<Vec<TransitoryEffect>> = effects_file
+                .as_deref()
+                .map(read_json)
+                .transpose()
+                .with_context(|| "failed to read --effects-file")?;
             run_review_resolve(
                 root,
                 &review_id,
@@ -579,6 +578,7 @@ fn run_review_command(
                     temporal_status: temporal_status.map(Into::into),
                     effective_from,
                     effective_to,
+                    effects,
                     resolved_at: Utc::now(),
                 },
             )?;
