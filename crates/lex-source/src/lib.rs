@@ -1,4 +1,4 @@
-use std::{fs, path::Path, process::Command, time::Duration};
+use std::{collections::BTreeMap, fs, path::Path, process::Command, time::Duration};
 
 use anyhow::{Context, Result, bail};
 use chrono::Utc;
@@ -22,6 +22,7 @@ pub struct SourceConfig {
     pub publication_date: String,
     pub expected_min_articles: usize,
     pub expected_transitories: usize,
+    pub relevant_reform_transitories: BTreeMap<String, Vec<String>>,
 }
 
 #[derive(Debug)]

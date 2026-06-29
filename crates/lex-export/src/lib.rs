@@ -1,7 +1,7 @@
 use std::{fmt::Write as _, fs, path::Path};
 
 use anyhow::{Context, Result};
-use lex_core::{Corpus, Provision, ProvisionType, ValidationReport};
+use lex_core::{Corpus, Provision, ProvisionType, ReviewItem, ValidationReport};
 
 pub fn write_canonical(corpus: &Corpus, output_dir: &Path) -> Result<()> {
     fs::create_dir_all(output_dir)?;
@@ -25,7 +25,11 @@ pub fn write_markdown(corpus: &Corpus, output_dir: &Path) -> Result<()> {
     Ok(())
 }
 
-pub fn write_obsidian(corpus: &Corpus, output_dir: &Path) -> Result<()> {
+pub fn write_obsidian(
+    corpus: &Corpus,
+    review_items: &[ReviewItem],
+    output_dir: &Path,
+) -> Result<()> {
     let instrument_dir = output_dir
         .join("Corpus")
         .join(&corpus.instrument.short_name);
@@ -48,6 +52,10 @@ pub fn write_obsidian(corpus: &Corpus, output_dir: &Path) -> Result<()> {
             "generated_files": generated_files,
         }),
         &instrument_dir.join("_lex-mex-export.json"),
+    )?;
+    fs::write(
+        output_dir.join("Corpus/Revisiones pendientes.md"),
+        obsidian_review_queue(review_items),
     )?;
     Ok(())
 }
@@ -108,6 +116,41 @@ fn obsidian_index(corpus: &Corpus) -> String {
         corpus.instrument.source_sha256,
     );
     output.push_str(&markdown_index(corpus, true));
+    output
+}
+
+fn obsidian_review_queue(items: &[ReviewItem]) -> String {
+    let mut output = String::from(
+        "---\ngenerated: true\n---\n\n[[Inicio|← Inicio]]\n\n\
+         # Revisiones temporales pendientes\n\n\
+         > [!warning]\n\
+         > This dashboard is generated. Record legal decisions in the human-authored \
+         Revisiones folder.\n\n",
+    );
+    if items.is_empty() {
+        output.push_str("No hay revisiones pendientes.\n");
+        return output;
+    }
+    for item in items {
+        let determination = &item.proposed_machine_conclusion;
+        let _ = write!(
+            output,
+            "## {}\n\n\
+             - **ID:** {}\n\
+             - **Conclusión propuesta:** {}\n\
+             - **Confianza:** {:.2}\n\
+             - **Problema:** {}\n\
+             - **Fuente:** [Cámara de Diputados]({})\n\n\
+             **Texto relevante**\n\n> {}\n\n",
+            item.evidence.label,
+            item.provision_id,
+            json_name(&determination.temporal_status),
+            determination.confidence,
+            item.exact_issue,
+            item.camara_source_url,
+            item.evidence.text.replace('\n', "\n> "),
+        );
+    }
     output
 }
 
@@ -205,7 +248,7 @@ mod tests {
             provisions: vec![sample_provision()],
         };
 
-        write_obsidian(&corpus, temp.path()).unwrap();
+        write_obsidian(&corpus, &[], temp.path()).unwrap();
 
         assert_eq!(
             fs::read_to_string(notes.join("criterio.md")).unwrap(),
@@ -220,6 +263,11 @@ mod tests {
         assert!(
             temp.path()
                 .join("Corpus/LRITF/_lex-mex-export.json")
+                .is_file()
+        );
+        assert!(
+            temp.path()
+                .join("Corpus/Revisiones pendientes.md")
                 .is_file()
         );
     }

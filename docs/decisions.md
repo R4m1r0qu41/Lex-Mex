@@ -29,3 +29,25 @@ publishes to an explicit vault root supplied with `--obsidian-vault` or
 `Corpus/<instrument-short-name>/` below that root. Human-authored `Notas/`,
 `Revisiones/`, attachments, and `.obsidian/` settings remain outside the
 exporter's write boundary.
+
+## 2026-06-29 — Explicit temporal execution and deterministic routing
+
+Temporal execution remains opt-in. The default command emits only a request;
+`--provider codex` invokes the locally authenticated Codex CLI with the
+versioned prompt and a strict output schema. The importer is provider-neutral
+and rejects missing, duplicate, or unknown provision identifiers, invalid date
+ranges and confidence values, and supporting quotations that are not exact
+source substrings. Request and response hashes preserve the execution boundary.
+
+The source adapter explicitly selects reform-decree transitories relevant to
+LRITF. This prevents transitories for other statutes bundled into an omnibus
+decree from entering LRITF temporal analysis.
+
+## 2026-06-29 — Temporal review policy
+
+Machine conclusions are accepted only at confidence 0.92 or above and only for
+status classes that do not encode unresolved conditions, temporary operation,
+supersession, repeal, survival rules, or pending consolidation. All other
+determinations become pending review items with their evidence and proposed
+conclusion. The exporter publishes the queue to Obsidian, but only a human
+review workflow may resolve it.

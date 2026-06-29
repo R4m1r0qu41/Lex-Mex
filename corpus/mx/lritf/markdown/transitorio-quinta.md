@@ -6,8 +6,8 @@ provision_type: transitory
 number: "QUINTA"
 aliases: ["LRITF — QUINTA"]
 generated: true
-temporal_status: unknown
-review_status: not_analyzed
+temporal_status: effective
+review_status: machine_accepted
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf
 source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 ---

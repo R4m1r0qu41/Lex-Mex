@@ -1,0 +1,70 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lex-mex.local/schemas/temporal-model-output.schema.json",
+  "title": "Lex-Mex temporal model output batch",
+  "type": "object",
+  "required": ["determinations"],
+  "properties": {
+    "determinations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "provision_id",
+          "temporal_status",
+          "effective_from",
+          "effective_to",
+          "confidence",
+          "supporting_text"
+        ],
+        "properties": {
+          "provision_id": {
+            "type": "string",
+            "description": "Copy the supplied evidence provision_id exactly."
+          },
+          "temporal_status": {
+            "type": "string",
+            "enum": [
+              "unknown",
+              "published_not_effective",
+              "effective",
+              "future_effective",
+              "partially_effective",
+              "conditionally_effective",
+              "repealed",
+              "repealed_with_survival",
+              "superseded",
+              "temporarily_applicable",
+              "pending_consolidation"
+            ]
+          },
+          "effective_from": {
+            "type": ["string", "null"],
+            "description": "ISO 8601 date, or null when evidence is insufficient."
+          },
+          "effective_to": {
+            "type": ["string", "null"],
+            "description": "ISO 8601 date, or null when open-ended or unknown."
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "supporting_text": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            },
+            "description": "Exact verbatim substrings copied from the supplied evidence text."
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

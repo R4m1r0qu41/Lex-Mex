@@ -11,6 +11,7 @@ records, validates them, and exports JSON and lawyer-readable Markdown.
 - stable Rust
 - `pdftotext` from Poppler
 - network access to `https://www.diputados.gob.mx`
+- Codex CLI authentication when running temporal analysis with `--provider codex`
 
 ## Run the vertical slice
 
@@ -40,6 +41,9 @@ cargo run -p lex-cli -- \
   --obsidian-vault /Users/jr/Vaults/Lex-Mex \
   export lritf --format obsidian
 cargo run -p lex-cli -- analyze-temporal lritf
+cargo run -p lex-cli -- analyze-temporal lritf --provider codex --model gpt-5.5
+cargo run -p lex-cli -- import-temporal lritf response.json --model MODEL_ID
+cargo run -p lex-cli -- review list
 ```
 
 Set `LEX_MEX_OBSIDIAN_VAULT` to avoid repeating the vault option:
@@ -52,9 +56,25 @@ cargo run -p lex-cli -- export lritf --format obsidian
 The exporter owns only `Corpus/<instrument>/`. Keep human-authored analysis in
 the vault's `Notas/` and `Revisiones/` folders.
 
-`analyze-temporal` creates a schema-bound request artifact. It does not claim a
-legal conclusion without a model response; importing model output is kept
-separate from deterministic publication.
+Without a provider, `analyze-temporal` only creates the schema-bound request
+artifact. With `--provider codex`, it runs the model through the authenticated
+Codex CLI, requires strict JSON-schema output, validates that every requested
+provision appears exactly once and every supporting quotation occurs verbatim
+in the source evidence, then records request and response hashes. Ambiguous
+status classes and confidence below 0.92 are routed to
+`corpus/mx/lritf/review-queue.json` and the Obsidian review dashboard.
+
+The complete network-and-model cycle is:
+
+```bash
+LEX_MEX_OBSIDIAN_VAULT=/Users/jr/Vaults/Lex-Mex \
+  cargo run -p lex-cli -- pipeline lritf \
+  --temporal-provider codex --temporal-model gpt-5.5
+```
+
+`import-temporal` provides the same deterministic validation and routing for a
+model response produced by another provider. `review list` prints the pending
+human decisions; model output never resolves those decisions automatically.
 
 ## Development checks
 

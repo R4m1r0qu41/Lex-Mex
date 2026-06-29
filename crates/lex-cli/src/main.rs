@@ -1,14 +1,18 @@
 use std::{
     fs,
+    io::Write as _,
     path::{Path, PathBuf},
+    process::{Command as ProcessCommand, Stdio},
 };
 
 use anyhow::{Context, Result, bail};
-use chrono::NaiveDate;
+use chrono::{NaiveDate, Utc};
 use clap::{Parser, Subcommand, ValueEnum};
 use lex_core::{
     Corpus, Instrument, InstrumentStatus, InstrumentType, LRITF_INSTRUMENT_ID, Provision,
-    ProvisionType, SCHEMA_VERSION, SourceManifest, TemporalAnalysisRequest, TemporalEvidence,
+    ProvisionType, ReviewItem, SCHEMA_VERSION, SourceManifest, TemporalAnalysisMetadata,
+    TemporalAnalysisRequest, TemporalEvidence, TemporalModelBatch, apply_temporal_determinations,
+    route_temporal_analysis,
 };
 use lex_export::{write_canonical, write_markdown, write_obsidian, write_validation};
 use lex_parse::{extract_pdf, extract_reform_transitories, parse_lritf, validate_lritf};
@@ -49,6 +53,18 @@ enum Command {
     },
     AnalyzeTemporal {
         instrument: String,
+        #[arg(long, value_enum, default_value = "none")]
+        provider: TemporalProvider,
+        #[arg(long, default_value = "gpt-5.5")]
+        model: String,
+    },
+    ImportTemporal {
+        instrument: String,
+        response: PathBuf,
+        #[arg(long)]
+        model: String,
+        #[arg(long)]
+        response_id: Option<String>,
     },
     Validate {
         instrument: String,
@@ -62,6 +78,14 @@ enum Command {
         instrument: String,
         #[arg(long)]
         keep_work: bool,
+        #[arg(long, value_enum, default_value = "none")]
+        temporal_provider: TemporalProvider,
+        #[arg(long, default_value = "gpt-5.5")]
+        temporal_model: String,
+    },
+    Review {
+        #[command(subcommand)]
+        command: ReviewCommand,
     },
 }
 
@@ -70,6 +94,17 @@ enum ExportFormat {
     Json,
     Markdown,
     Obsidian,
+}
+
+#[derive(Debug, Clone, Copy, ValueEnum, PartialEq, Eq)]
+enum TemporalProvider {
+    None,
+    Codex,
+}
+
+#[derive(Debug, Subcommand)]
+enum ReviewCommand {
+    List,
 }
 
 fn main() -> Result<()> {
@@ -101,9 +136,33 @@ fn main() -> Result<()> {
             require_lritf(&instrument)?;
             run_parse(&root)?;
         }
-        Command::AnalyzeTemporal { instrument } => {
+        Command::AnalyzeTemporal {
+            instrument,
+            provider,
+            model,
+        } => {
             require_lritf(&instrument)?;
             run_temporal_request(&root)?;
+            if provider == TemporalProvider::Codex {
+                run_codex_temporal(&root, &model)?;
+                run_export(&root, ExportFormat::Markdown, None)?;
+                if let Some(vault) = &obsidian_vault {
+                    run_export(&root, ExportFormat::Obsidian, Some(vault))?;
+                }
+            }
+        }
+        Command::ImportTemporal {
+            instrument,
+            response,
+            model,
+            response_id,
+        } => {
+            require_lritf(&instrument)?;
+            run_temporal_import(&root, &response, &model, response_id)?;
+            run_export(&root, ExportFormat::Markdown, None)?;
+            if let Some(vault) = &obsidian_vault {
+                run_export(&root, ExportFormat::Obsidian, Some(vault))?;
+            }
         }
         Command::Validate { instrument } => {
             require_lritf(&instrument)?;
@@ -119,34 +178,58 @@ fn main() -> Result<()> {
         Command::Pipeline {
             instrument,
             keep_work,
+            temporal_provider,
+            temporal_model,
         } => {
             require_lritf(&instrument)?;
-            run_fetch(&root)?;
-            run_extract(&root)?;
-            run_parse(&root)?;
-            run_temporal_request(&root)?;
-            let report = run_validate(&root)?;
-            if !report.valid {
-                bail!("pipeline stopped: validation failed");
-            }
-            run_export(&root, ExportFormat::Markdown, None)?;
-            if let Some(vault) = &obsidian_vault {
-                run_export(&root, ExportFormat::Obsidian, Some(vault))?;
-            } else {
-                println!(
-                    "skipped Obsidian publication; pass --obsidian-vault or set \
-                     LEX_MEX_OBSIDIAN_VAULT"
-                );
-            }
-            if !keep_work {
-                cleanup_work(&root)?;
-            }
-            println!(
-                "pipeline complete: {} articles, {} transitories",
-                report.article_count, report.transitory_count
-            );
+            run_pipeline(
+                &root,
+                obsidian_vault.as_deref(),
+                keep_work,
+                temporal_provider,
+                &temporal_model,
+            )?;
         }
+        Command::Review { command } => match command {
+            ReviewCommand::List => run_review_list(&root)?,
+        },
     }
+    Ok(())
+}
+
+fn run_pipeline(
+    root: &Path,
+    obsidian_vault: Option<&Path>,
+    keep_work: bool,
+    temporal_provider: TemporalProvider,
+    temporal_model: &str,
+) -> Result<()> {
+    run_fetch(root)?;
+    run_extract(root)?;
+    run_parse(root)?;
+    run_temporal_request(root)?;
+    let report = run_validate(root)?;
+    if !report.valid {
+        bail!("pipeline stopped: validation failed");
+    }
+    if temporal_provider == TemporalProvider::Codex {
+        run_codex_temporal(root, temporal_model)?;
+    }
+    run_export(root, ExportFormat::Markdown, None)?;
+    if let Some(vault) = obsidian_vault {
+        run_export(root, ExportFormat::Obsidian, Some(vault))?;
+    } else {
+        println!(
+            "skipped Obsidian publication; pass --obsidian-vault or set LEX_MEX_OBSIDIAN_VAULT"
+        );
+    }
+    if !keep_work {
+        cleanup_work(root)?;
+    }
+    println!(
+        "pipeline complete: {} articles, {} transitories",
+        report.article_count, report.transitory_count
+    );
     Ok(())
 }
 
@@ -241,6 +324,18 @@ fn run_temporal_request(root: &Path) -> Result<()> {
         })
         .collect();
     let mut reform_evidence: Vec<TemporalEvidence> = read_json(&paths.reform_evidence)?;
+    let source = config(root)?;
+    reform_evidence.retain(|evidence| {
+        source
+            .relevant_reform_transitories
+            .iter()
+            .any(|(date, ordinals)| {
+                ordinals.iter().any(|ordinal| {
+                    evidence.provision_id
+                        == format!("{LRITF_INSTRUMENT_ID}:amendment:{date}:transitory:{ordinal}")
+                })
+            })
+    });
     evidence.append(&mut reform_evidence);
     let request = TemporalAnalysisRequest {
         schema_version: SCHEMA_VERSION.to_owned(),
@@ -249,13 +344,120 @@ fn run_temporal_request(root: &Path) -> Result<()> {
         publication_date: corpus.instrument.publication_date,
         latest_reform_date: corpus.instrument.latest_reform_date,
         relevant_provisions: evidence,
-        required_output_schema: "schemas/temporal-analysis.schema.json".to_owned(),
+        required_output_schema: "schemas/temporal-model-output.schema.json".to_owned(),
     };
     write_pretty_json(&request, &paths.temporal_request)?;
     println!(
         "wrote temporal analysis request with {} evidence items",
         request.relevant_provisions.len()
     );
+    Ok(())
+}
+
+fn run_codex_temporal(root: &Path, model: &str) -> Result<()> {
+    let paths = Paths::new(root);
+    let request: TemporalAnalysisRequest = read_json(&paths.temporal_request)?;
+    let prompt = fs::read_to_string(root.join("prompts/temporal-v1.md"))?;
+    let input = format!(
+        "{prompt}\n\n# Evidence request\n\n{}",
+        serde_json::to_string_pretty(&request)?
+    );
+    if let Some(parent) = paths.temporal_model_output.parent() {
+        fs::create_dir_all(parent)?;
+    }
+
+    let mut child = ProcessCommand::new("codex")
+        .args([
+            "exec",
+            "--ephemeral",
+            "--ignore-rules",
+            "--sandbox",
+            "read-only",
+            "--model",
+            model,
+            "--output-schema",
+        ])
+        .arg(root.join("schemas/temporal-model-output.schema.json"))
+        .args(["--output-last-message"])
+        .arg(&paths.temporal_model_output)
+        .arg("-")
+        .current_dir(root)
+        .stdin(Stdio::piped())
+        .spawn()
+        .context("failed to start Codex temporal-analysis runner")?;
+    child
+        .stdin
+        .take()
+        .context("failed to open Codex stdin")?
+        .write_all(input.as_bytes())?;
+    let status = child.wait()?;
+    if !status.success() {
+        bail!("Codex temporal-analysis runner failed with status {status}");
+    }
+    run_temporal_import(root, &paths.temporal_model_output, model, None)
+}
+
+fn run_temporal_import(
+    root: &Path,
+    response_path: &Path,
+    model: &str,
+    response_id: Option<String>,
+) -> Result<()> {
+    let paths = Paths::new(root);
+    let request_bytes = fs::read(&paths.temporal_request)?;
+    let request: TemporalAnalysisRequest = serde_json::from_slice(&request_bytes)?;
+    let response_bytes = fs::read(response_path)?;
+    let batch: TemporalModelBatch = serde_json::from_slice(&response_bytes)?;
+    let instrument: Instrument = read_json(&paths.instrument)?;
+    let routed = route_temporal_analysis(
+        &request,
+        batch,
+        TemporalAnalysisMetadata {
+            request_sha256: sha256_hex(&request_bytes),
+            response_sha256: sha256_hex(&response_bytes),
+            response_id,
+            model: model.to_owned(),
+            analyzed_at: Utc::now(),
+        },
+        &instrument.source_url,
+    )?;
+    write_pretty_json(&routed.result, &paths.temporal_result)?;
+    write_pretty_json(&routed.review_items, &paths.review_queue)?;
+
+    let mut corpus = read_corpus(&paths)?;
+    apply_temporal_determinations(&mut corpus.provisions, &routed.result.determinations);
+    write_canonical(&corpus, &paths.corpus)?;
+    let accepted = routed
+        .result
+        .determinations
+        .iter()
+        .filter(|item| !item.review_required)
+        .count();
+    println!(
+        "temporal analysis: {accepted} machine-accepted, {} queued for review",
+        routed.review_items.len()
+    );
+    Ok(())
+}
+
+fn run_review_list(root: &Path) -> Result<()> {
+    let paths = Paths::new(root);
+    let items: Vec<ReviewItem> = read_json(&paths.review_queue)
+        .with_context(|| "review queue not found; run temporal analysis first")?;
+    if items.is_empty() {
+        println!("review queue is empty");
+        return Ok(());
+    }
+    for item in &items {
+        println!(
+            "{}\n  {}\n  confidence: {:.2}\n  issue: {}",
+            item.id,
+            item.evidence.label,
+            item.proposed_machine_conclusion.confidence,
+            item.exact_issue
+        );
+    }
+    println!("{} pending review items", items.len());
     Ok(())
 }
 
@@ -290,7 +492,12 @@ fn run_export(root: &Path, format: ExportFormat, obsidian_vault: Option<&Path>) 
                 "Obsidian export requires --obsidian-vault PATH or \
                  LEX_MEX_OBSIDIAN_VAULT",
             )?;
-            write_obsidian(&corpus, vault)?;
+            let review_items = if paths.review_queue.exists() {
+                read_json(&paths.review_queue)?
+            } else {
+                Vec::<ReviewItem>::new()
+            };
+            write_obsidian(&corpus, &review_items, vault)?;
             println!("published Obsidian vault {}", vault.display());
         }
     }
@@ -363,6 +570,9 @@ struct Paths {
     instrument: PathBuf,
     provisions: PathBuf,
     temporal_request: PathBuf,
+    temporal_model_output: PathBuf,
+    temporal_result: PathBuf,
+    review_queue: PathBuf,
     reform_evidence: PathBuf,
     markdown: PathBuf,
 }
@@ -378,6 +588,9 @@ impl Paths {
             instrument: corpus.join("instrument.json"),
             provisions: corpus.join("provisions.json"),
             temporal_request: corpus.join("temporal-analysis-request.json"),
+            temporal_model_output: work.join("temporal-model-output.json"),
+            temporal_result: corpus.join("temporal-analysis-result.json"),
+            review_queue: corpus.join("review-queue.json"),
             reform_evidence: corpus.join("reform-temporal-evidence.json"),
             markdown: corpus.join("markdown"),
             corpus,

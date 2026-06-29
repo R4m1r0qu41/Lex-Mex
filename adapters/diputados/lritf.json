@@ -7,5 +7,10 @@
   "publisher": "Cámara de Diputados del H. Congreso de la Unión",
   "publication_date": "2018-03-09",
   "expected_min_articles": 145,
-  "expected_transitories": 11
+  "expected_transitories": 11,
+  "relevant_reform_transitories": {
+    "2021-05-20": ["primero"],
+    "2024-01-24": ["primero", "segundo", "tercero", "cuarto"],
+    "2025-11-14": ["primero", "segundo", "tercero"]
+  }
 }

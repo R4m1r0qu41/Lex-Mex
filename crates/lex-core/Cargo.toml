@@ -7,8 +7,8 @@ license.workspace = true
 [dependencies]
 chrono.workspace = true
 serde.workspace = true
+thiserror.workspace = true
 url.workspace = true
 
 [lints]
 workspace = true
-

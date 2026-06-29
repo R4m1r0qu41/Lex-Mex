@@ -2,6 +2,13 @@ use chrono::{DateTime, NaiveDate, Utc};
 use serde::{Deserialize, Serialize};
 use url::Url;
 
+mod temporal;
+
+pub use temporal::{
+    RoutedTemporalAnalysis, TemporalRoutingError, apply_temporal_determinations,
+    route_temporal_analysis,
+};
+
 pub const SCHEMA_VERSION: &str = "0.1.0";
 pub const LRITF_INSTRUMENT_ID: &str = "urn:lex-mx:federal:statute:lritf";
 
@@ -175,6 +182,76 @@ pub struct TemporalDetermination {
     pub review_reason: Option<String>,
     pub model: String,
     pub prompt_version: String,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct TemporalModelBatch {
+    pub determinations: Vec<TemporalModelDetermination>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct TemporalModelDetermination {
+    pub provision_id: String,
+    pub temporal_status: TemporalStatus,
+    pub effective_from: Option<NaiveDate>,
+    pub effective_to: Option<NaiveDate>,
+    pub confidence: f32,
+    pub supporting_text: Vec<String>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct TemporalAnalysisResult {
+    pub schema_version: String,
+    pub instrument_id: String,
+    pub request_sha256: String,
+    pub response_sha256: String,
+    pub response_id: Option<String>,
+    pub model: String,
+    pub prompt_version: String,
+    pub analyzed_at: DateTime<Utc>,
+    pub determinations: Vec<TemporalDetermination>,
+}
+
+#[derive(Debug, Clone)]
+pub struct TemporalAnalysisMetadata {
+    pub request_sha256: String,
+    pub response_sha256: String,
+    pub response_id: Option<String>,
+    pub model: String,
+    pub analyzed_at: DateTime<Utc>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct ReviewItem {
+    pub id: String,
+    pub instrument_id: String,
+    pub provision_id: String,
+    pub exact_issue: String,
+    pub proposed_machine_conclusion: TemporalDetermination,
+    pub evidence: TemporalEvidence,
+    pub camara_source_url: Url,
+    pub formal_source_url: Option<Url>,
+    pub provision_diff: Option<String>,
+    pub resolution_options: Vec<ReviewResolution>,
+    pub status: ReviewItemStatus,
+    pub reviewer_note: Option<String>,
+}
+
+#[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum ReviewItemStatus {
+    Pending,
+    Resolved,
+}
+
+#[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum ReviewResolution {
+    AcceptMachineConclusion,
+    SetUnknown,
+    LawyerOverride,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
