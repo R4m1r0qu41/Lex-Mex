@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lritf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley para Regular las Instituciones de Tecnología Financiera",
+  "short_name": "LRITF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2018-03-09",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-06-29T06:25:33.164706Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
+  "source_sha256": "d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491",
+  "extracted_text_sha256": "429a8916f3b1aa7035c0b700e27cd132a3af1662b1661ac703b9b0c7847b25a6",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

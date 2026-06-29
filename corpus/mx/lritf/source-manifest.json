@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lritf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lritf.htm",
+  "retrieved_at": "2026-06-29T06:25:33.164706Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 844514,
+  "etag": "\"ce2e2-64519b5fcb380\"",
+  "last_modified": "Thu, 04 Dec 2025 05:36:30 GMT",
+  "source_sha256": "d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491",
+  "extracted_text_sha256": "429a8916f3b1aa7035c0b700e27cd132a3af1662b1661ac703b9b0c7847b25a6",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": null
+}

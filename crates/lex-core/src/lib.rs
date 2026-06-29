@@ -1,0 +1,203 @@
+use chrono::{DateTime, NaiveDate, Utc};
+use serde::{Deserialize, Serialize};
+use url::Url;
+
+pub const SCHEMA_VERSION: &str = "0.1.0";
+pub const LRITF_INSTRUMENT_ID: &str = "urn:lex-mx:federal:statute:lritf";
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum InstrumentType {
+    Constitution,
+    Code,
+    Statute,
+    Regulation,
+    Guideline,
+    Circular,
+    Other,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum InstrumentStatus {
+    InForce,
+    PartiallyEffective,
+    Repealed,
+    Unknown,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum ProvisionType {
+    Article,
+    Transitory,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum TemporalStatus {
+    Unknown,
+    PublishedNotEffective,
+    Effective,
+    FutureEffective,
+    PartiallyEffective,
+    ConditionallyEffective,
+    Repealed,
+    RepealedWithSurvival,
+    Superseded,
+    TemporarilyApplicable,
+    PendingConsolidation,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum Basis {
+    SourceText,
+    ExpressCrossReference,
+    DeterministicRule,
+    LlmInference,
+    LawyerVerified,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum ReviewStatus {
+    NotAnalyzed,
+    MachineAccepted,
+    ReviewRequired,
+    LawyerVerified,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct SourceManifest {
+    pub schema_version: String,
+    pub instrument_id: String,
+    pub operational_source: String,
+    pub formal_publication_source: String,
+    pub publisher: String,
+    pub official_url: Url,
+    pub reference_url: Option<Url>,
+    pub retrieved_at: DateTime<Utc>,
+    pub http_status: u16,
+    pub content_type: Option<String>,
+    pub content_length: Option<u64>,
+    pub etag: Option<String>,
+    pub last_modified: Option<String>,
+    pub source_sha256: String,
+    pub extracted_text_sha256: Option<String>,
+    pub extraction_tool: Option<String>,
+    pub parser_version: String,
+    pub schema_version_used: String,
+    pub resulting_git_commit: Option<String>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct Instrument {
+    pub schema_version: String,
+    pub id: String,
+    pub jurisdiction: String,
+    pub level: String,
+    pub instrument_type: InstrumentType,
+    pub official_title: String,
+    pub short_name: String,
+    pub operational_source: String,
+    pub formal_publication_source: String,
+    pub publication_date: NaiveDate,
+    pub latest_reform_date: Option<NaiveDate>,
+    pub retrieved_at: DateTime<Utc>,
+    pub source_url: Url,
+    pub source_sha256: String,
+    pub extracted_text_sha256: String,
+    pub parser_version: String,
+    pub status: InstrumentStatus,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct HeadingContext {
+    pub title: Option<String>,
+    pub chapter: Option<String>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct Provision {
+    pub schema_version: String,
+    pub id: String,
+    pub instrument_id: String,
+    pub provision_type: ProvisionType,
+    pub label: String,
+    pub number: String,
+    pub heading_context: HeadingContext,
+    pub text: String,
+    pub publication_date: NaiveDate,
+    pub effective_from: Option<NaiveDate>,
+    pub effective_to: Option<NaiveDate>,
+    pub temporal_status: TemporalStatus,
+    pub temporal_basis: Option<Basis>,
+    pub temporal_confidence: Option<f32>,
+    pub review_status: ReviewStatus,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct Corpus {
+    pub instrument: Instrument,
+    pub provisions: Vec<Provision>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct TemporalAnalysisRequest {
+    pub schema_version: String,
+    pub prompt_version: String,
+    pub instrument_id: String,
+    pub publication_date: NaiveDate,
+    pub latest_reform_date: Option<NaiveDate>,
+    pub relevant_provisions: Vec<TemporalEvidence>,
+    pub required_output_schema: String,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct TemporalEvidence {
+    pub provision_id: String,
+    pub label: String,
+    pub text: String,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct TemporalDetermination {
+    pub provision_id: String,
+    pub temporal_status: TemporalStatus,
+    pub publication_date: NaiveDate,
+    pub effective_from: Option<NaiveDate>,
+    pub effective_to: Option<NaiveDate>,
+    pub confidence: f32,
+    pub basis: Basis,
+    pub supporting_text: Vec<String>,
+    pub review_required: bool,
+    pub review_reason: Option<String>,
+    pub model: String,
+    pub prompt_version: String,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct ValidationIssue {
+    pub severity: Severity,
+    pub code: String,
+    pub message: String,
+    pub provision_id: Option<String>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum Severity {
+    Error,
+    Warning,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct ValidationReport {
+    pub schema_version: String,
+    pub instrument_id: String,
+    pub valid: bool,
+    pub article_count: usize,
+    pub transitory_count: usize,
+    pub issues: Vec<ValidationIssue>,
+}

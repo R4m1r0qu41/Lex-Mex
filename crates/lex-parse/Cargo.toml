@@ -1,0 +1,18 @@
+[package]
+name = "lex-parse"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+anyhow.workspace = true
+chrono.workspace = true
+lex-core = { path = "../lex-core" }
+regex.workspace = true
+
+[dev-dependencies]
+pretty_assertions = "1.4"
+
+[lints]
+workspace = true
+

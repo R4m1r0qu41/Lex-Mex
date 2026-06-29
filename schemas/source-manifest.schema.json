@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lex-mex.local/schemas/source-manifest.schema.json",
+  "title": "Lex-Mex source manifest",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "instrument_id",
+    "operational_source",
+    "formal_publication_source",
+    "publisher",
+    "official_url",
+    "retrieved_at",
+    "http_status",
+    "source_sha256",
+    "parser_version",
+    "schema_version_used"
+  ],
+  "properties": {
+    "schema_version": { "const": "0.1.0" },
+    "instrument_id": { "type": "string", "pattern": "^urn:lex-mx:" },
+    "operational_source": { "const": "camara_de_diputados" },
+    "formal_publication_source": { "const": "dof" },
+    "publisher": { "type": "string", "minLength": 1 },
+    "official_url": { "type": "string", "format": "uri" },
+    "reference_url": { "type": ["string", "null"], "format": "uri" },
+    "retrieved_at": { "type": "string", "format": "date-time" },
+    "http_status": { "type": "integer", "minimum": 200, "maximum": 299 },
+    "content_type": { "type": ["string", "null"] },
+    "content_length": { "type": ["integer", "null"], "minimum": 1 },
+    "etag": { "type": ["string", "null"] },
+    "last_modified": { "type": ["string", "null"] },
+    "source_sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+    "extracted_text_sha256": { "type": ["string", "null"], "pattern": "^[a-f0-9]{64}$" },
+    "extraction_tool": { "type": ["string", "null"] },
+    "parser_version": { "type": "string", "minLength": 1 },
+    "schema_version_used": { "type": "string", "minLength": 1 },
+    "resulting_git_commit": { "type": ["string", "null"] }
+  },
+  "additionalProperties": false
+}
+

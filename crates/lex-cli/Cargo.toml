@@ -1,0 +1,25 @@
+[package]
+name = "lex-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[[bin]]
+name = "lex-mex"
+path = "src/main.rs"
+
+[dependencies]
+anyhow.workspace = true
+chrono.workspace = true
+clap.workspace = true
+lex-core = { path = "../lex-core" }
+lex-export = { path = "../lex-export" }
+lex-parse = { path = "../lex-parse" }
+lex-source = { path = "../lex-source" }
+regex.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+
+[lints]
+workspace = true
+
