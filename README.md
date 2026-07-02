@@ -13,8 +13,8 @@ The initial vertical slice processes the consolidated **Ley para Regular las
 Instituciones de Tecnología Financiera (LRITF)** published by the Cámara de
 Diputados. The current committed corpus contains 145 articles, 11 original
 transitory provisions, 19 temporal determinations, and 32 structured legal
-effects. Its validation report has no open structural issues or pending legal
-reviews.
+effects. It also contains 95 validated internal article-reference edges. Its
+validation report has no open structural issues or pending legal reviews.
 
 > [!IMPORTANT]
 > Lex-Mex is not an official publication, is not affiliated with the Mexican
@@ -26,6 +26,7 @@ reviews.
 ```text
 official source -> fetch + hash -> extract -> parse -> canonical JSON
                                                      |-> validation report
+                                                     |-> reference graph
                                                      |-> temporal analysis
                                                      |-> human review queue
                                                      `-> Markdown / Obsidian
@@ -73,9 +74,9 @@ cargo run --locked -p lex-cli -- pipeline lritf
 
 This downloads the official PDF, records its response metadata and SHA-256,
 extracts and hashes the text, parses the canonical provisions, validates the
-corpus, and exports Markdown under `corpus/mx/lritf/markdown/`. The downloaded
-PDF is temporary and is removed after successful validation unless
-`--keep-work` is supplied.
+corpus and its internal reference graph, and exports linked Markdown under
+`corpus/mx/lritf/markdown/`. The downloaded PDF is temporary and is removed
+after successful validation unless `--keep-work` is supplied.
 
 To publish generated notes to an external Obsidian vault:
 
@@ -152,6 +153,7 @@ cargo run --locked -p lex-cli -- discover diputados
 cargo run --locked -p lex-cli -- fetch lritf
 cargo run --locked -p lex-cli -- extract lritf
 cargo run --locked -p lex-cli -- parse lritf
+cargo run --locked -p lex-cli -- link lritf
 cargo run --locked -p lex-cli -- validate lritf
 cargo run --locked -p lex-cli -- export lritf --format json
 cargo run --locked -p lex-cli -- export lritf --format markdown
@@ -172,8 +174,8 @@ schemas/    versioned JSON Schemas for trusted boundaries
 
 See [`docs/project-status.md`](docs/project-status.md) for implemented and
 tested scope, known gaps, and suggested next steps. The next substantive work
-is regulation ingestion (starting with CNBV disposiciones de carácter general)
-and canonical cross-reference links between provisions.
+is regulation ingestion, starting with the January 28, 2021 CNBV disposiciones
+de carácter general, followed by cross-instrument reference resolution.
 
 ## Development
 

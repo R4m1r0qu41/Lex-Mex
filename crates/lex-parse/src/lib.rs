@@ -1,6 +1,7 @@
 use std::{
-    collections::HashSet,
+    collections::{HashMap, HashSet},
     fs,
+    ops::Range,
     path::Path,
     process::{Command, Stdio},
 };
@@ -8,8 +9,10 @@ use std::{
 use anyhow::{Context, Result, bail};
 use chrono::NaiveDate;
 use lex_core::{
-    HeadingContext, LRITF_INSTRUMENT_ID, Provision, ProvisionType, ReviewStatus, SCHEMA_VERSION,
-    Severity, TemporalEvidence, TemporalStatus, ValidationIssue, ValidationReport,
+    Basis, HeadingContext, LRITF_INSTRUMENT_ID, Provision, ProvisionType, ReferenceEdge,
+    ReferenceForm, ReferenceQualifier, ReferenceQualifierType, ReferenceResolutionStatus,
+    ReviewStatus, SCHEMA_VERSION, Severity, TemporalEvidence, TemporalStatus, ValidationIssue,
+    ValidationReport,
 };
 use regex::Regex;
 
@@ -136,6 +139,349 @@ pub fn parse_lritf(raw: &str, publication_date: NaiveDate) -> Result<Vec<Provisi
     Ok(provisions)
 }
 
+struct ReferencePatterns {
+    article: Regex,
+    number: Regex,
+    separator: Regex,
+    paragraph: Regex,
+    fraction: Regex,
+    subsection: Regex,
+}
+
+impl ReferencePatterns {
+    fn new() -> Result<Self> {
+        Ok(Self {
+            article: Regex::new(r"(?i)\bartículos?\s+")?,
+            number: Regex::new(r"(?i)\d{1,3}(?:-[A-Z])?(?:\s+(?:Bis|Ter|Quáter))?")?,
+            separator: Regex::new(
+                r"(?ix)^(?:
+            [\s,;:/()\-]+ |
+            y\b | o\b | a\b | al\b | hasta\b |
+            primer(?:o)?\b | segund[oa]\b | tercer(?:o)?\b | cuart[oa]\b |
+            quint[oa]\b | sext[oa]\b | séptim[oa]\b | octav[oa]\b |
+            noven[oa]\b | décim[oa]\b | últim[oa]\b |
+            párrafos?\b | fracci(?:ón|ones)\b | incisos?\b | apartados?\b |
+            [IVXLCDM]+\b
+        )*$",
+            )?,
+            paragraph: Regex::new(
+                r"(?i)\b(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último)(?:\s+(?:,|y|o)\s+(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último))*\s+párrafos?\b",
+            )?,
+            fraction: Regex::new(
+                r"(?i)\bfracci(?:ón|ones)\s+[IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)*\b",
+            )?,
+            subsection: Regex::new(r"(?i)\bincisos?\s+[a-z](?:\s*(?:,|y|o)\s*[a-z])*\b")?,
+        })
+    }
+}
+
+pub fn extract_internal_references(provisions: &[Provision]) -> Result<Vec<ReferenceEdge>> {
+    let patterns = ReferencePatterns::new()?;
+    let target_ids: HashSet<&str> = provisions.iter().map(|item| item.id.as_str()).collect();
+    let mut references = Vec::new();
+    for provision in provisions {
+        references.extend(extract_provision_references(
+            provision,
+            &patterns,
+            &target_ids,
+        ));
+    }
+    references.sort_by(|left, right| {
+        left.source_provision_id
+            .cmp(&right.source_provision_id)
+            .then(left.start_char.cmp(&right.start_char))
+            .then(left.end_char.cmp(&right.end_char))
+            .then(left.target_provision_id.cmp(&right.target_provision_id))
+    });
+    Ok(references)
+}
+
+fn extract_provision_references(
+    provision: &Provision,
+    patterns: &ReferencePatterns,
+    target_ids: &HashSet<&str>,
+) -> Vec<ReferenceEdge> {
+    let headers: Vec<_> = patterns.article.find_iter(&provision.text).collect();
+    let mut references = Vec::new();
+    for (index, header) in headers.iter().enumerate() {
+        let group_end = headers
+            .get(index + 1)
+            .map_or(provision.text.len(), regex::Match::start);
+        let group = &provision.text[header.end()..group_end];
+        references.extend(extract_reference_group(
+            provision,
+            header.end(),
+            group,
+            patterns,
+            target_ids,
+        ));
+    }
+    references
+}
+
+fn extract_reference_group(
+    provision: &Provision,
+    group_start: usize,
+    group: &str,
+    patterns: &ReferencePatterns,
+    target_ids: &HashSet<&str>,
+) -> Vec<ReferenceEdge> {
+    let accepted = accepted_numbers(group, patterns);
+    if accepted.is_empty() {
+        return Vec::new();
+    }
+    let lower_group = group.to_lowercase();
+    if has_external_instrument_context(&lower_group)
+        && !has_internal_instrument_context(&lower_group)
+    {
+        return Vec::new();
+    }
+    let mut references = direct_reference_edges(
+        provision,
+        group_start,
+        group,
+        &accepted,
+        patterns,
+        target_ids,
+    );
+    references.extend(range_expansion_edges(
+        provision,
+        group_start,
+        group,
+        &accepted,
+        target_ids,
+    ));
+    references
+}
+
+fn accepted_numbers<'a>(group: &'a str, patterns: &ReferencePatterns) -> Vec<regex::Match<'a>> {
+    let candidates: Vec<_> = patterns.number.find_iter(group).collect();
+    let Some(first) = candidates.first() else {
+        return Vec::new();
+    };
+    if !group[..first.start()].trim().is_empty() {
+        return Vec::new();
+    }
+    let mut accepted = vec![*first];
+    for candidate in candidates.iter().skip(1) {
+        let Some(previous) = accepted.last() else {
+            break;
+        };
+        if !patterns
+            .separator
+            .is_match(&group[previous.end()..candidate.start()])
+        {
+            break;
+        }
+        accepted.push(*candidate);
+    }
+    accepted
+}
+
+fn direct_reference_edges(
+    provision: &Provision,
+    group_start: usize,
+    group: &str,
+    accepted: &[regex::Match<'_>],
+    patterns: &ReferencePatterns,
+    target_ids: &HashSet<&str>,
+) -> Vec<ReferenceEdge> {
+    accepted
+        .iter()
+        .enumerate()
+        .map(|(index, number_match)| {
+            let qualifier_end = accepted
+                .get(index + 1)
+                .map_or(group.len(), regex::Match::start);
+            let qualifier_text = &group[number_match.end()..qualifier_end];
+            let qualifier_text = if index + 1 == accepted.len() {
+                &qualifier_text[..qualifier_boundary(qualifier_text)]
+            } else {
+                qualifier_text
+            };
+            reference_edge(
+                provision,
+                number_match.as_str(),
+                (group_start + number_match.start())..(group_start + number_match.end()),
+                canonical_article_id(number_match.as_str()),
+                extract_qualifiers(
+                    qualifier_text,
+                    &patterns.paragraph,
+                    &patterns.fraction,
+                    &patterns.subsection,
+                ),
+                ReferenceForm::Direct,
+                target_ids,
+            )
+        })
+        .collect()
+}
+
+fn range_expansion_edges(
+    provision: &Provision,
+    group_start: usize,
+    group: &str,
+    accepted: &[regex::Match<'_>],
+    target_ids: &HashSet<&str>,
+) -> Vec<ReferenceEdge> {
+    let mut references = Vec::new();
+    for pair in accepted.windows(2) {
+        let separator = group[pair[0].end()..pair[1].start()].trim().to_lowercase();
+        let (Some(start), Some(end)) = (
+            numeric_article_number(pair[0].as_str()),
+            numeric_article_number(pair[1].as_str()),
+        ) else {
+            continue;
+        };
+        if !matches!(separator.as_str(), "a" | "al" | "hasta") || end <= start || end - start > 200
+        {
+            continue;
+        }
+        let range = (group_start + pair[0].start())..(group_start + pair[1].end());
+        let source_span = &provision.text[range.clone()];
+        for expanded in (start + 1)..end {
+            references.push(reference_edge(
+                provision,
+                source_span,
+                range.clone(),
+                canonical_article_id(&expanded.to_string()),
+                Vec::new(),
+                ReferenceForm::RangeExpansion,
+                target_ids,
+            ));
+        }
+    }
+    references
+}
+
+fn reference_edge(
+    provision: &Provision,
+    source_span: &str,
+    source_range: Range<usize>,
+    target_provision_id: String,
+    qualifiers: Vec<ReferenceQualifier>,
+    reference_form: ReferenceForm,
+    target_ids: &HashSet<&str>,
+) -> ReferenceEdge {
+    let start_char = provision.text[..source_range.start].chars().count();
+    let end_char = start_char + provision.text[source_range].chars().count();
+    let target_slug = target_provision_id.rsplit(':').next().unwrap_or("unknown");
+    let form_slug = match reference_form {
+        ReferenceForm::Direct => "direct",
+        ReferenceForm::RangeExpansion => "range",
+    };
+    let resolution_status = if target_ids.contains(target_provision_id.as_str()) {
+        ReferenceResolutionStatus::Resolved
+    } else {
+        ReferenceResolutionStatus::Unresolved
+    };
+    ReferenceEdge {
+        schema_version: SCHEMA_VERSION.to_owned(),
+        id: format!(
+            "{}:reference:{start_char}-{end_char}:{target_slug}:{form_slug}",
+            provision.id
+        ),
+        source_provision_id: provision.id.clone(),
+        source_span: source_span.to_owned(),
+        start_char,
+        end_char,
+        target_instrument_id: provision.instrument_id.clone(),
+        target_provision_id,
+        qualifiers,
+        basis: Basis::ExpressCrossReference,
+        confidence: 1.0,
+        resolution_status,
+        reference_form,
+    }
+}
+
+fn canonical_article_id(number: &str) -> String {
+    let canonical_number = number
+        .split_whitespace()
+        .collect::<Vec<_>>()
+        .join("-")
+        .to_lowercase();
+    format!("{LRITF_INSTRUMENT_ID}:article:{canonical_number}")
+}
+
+fn numeric_article_number(number: &str) -> Option<u32> {
+    number.trim().parse().ok()
+}
+
+fn has_internal_instrument_context(value: &str) -> bool {
+    [
+        "de esta ley",
+        "de la presente ley",
+        "de este ordenamiento",
+        "del presente ordenamiento",
+    ]
+    .iter()
+    .any(|marker| value.contains(marker))
+}
+
+fn has_external_instrument_context(value: &str) -> bool {
+    [
+        "de la ley ",
+        "del código ",
+        "de la constitución ",
+        "del reglamento ",
+        "de dicha ley",
+        "de esa ley",
+        "de este código",
+        "del presente código",
+    ]
+    .iter()
+    .any(|marker| value.contains(marker))
+}
+
+fn extract_qualifiers(
+    value: &str,
+    paragraph_re: &Regex,
+    fraction_re: &Regex,
+    subsection_re: &Regex,
+) -> Vec<ReferenceQualifier> {
+    let mut matches = Vec::new();
+    matches.extend(paragraph_re.find_iter(value).map(|item| {
+        (
+            item.start(),
+            ReferenceQualifier {
+                qualifier_type: ReferenceQualifierType::Paragraph,
+                text: item.as_str().to_owned(),
+            },
+        )
+    }));
+    matches.extend(fraction_re.find_iter(value).map(|item| {
+        (
+            item.start(),
+            ReferenceQualifier {
+                qualifier_type: ReferenceQualifierType::Fraction,
+                text: item.as_str().to_owned(),
+            },
+        )
+    }));
+    matches.extend(subsection_re.find_iter(value).map(|item| {
+        (
+            item.start(),
+            ReferenceQualifier {
+                qualifier_type: ReferenceQualifierType::Subsection,
+                text: item.as_str().to_owned(),
+            },
+        )
+    }));
+    matches.sort_by_key(|(start, _)| *start);
+    matches
+        .into_iter()
+        .map(|(_, qualifier)| qualifier)
+        .collect()
+}
+
+fn qualifier_boundary(value: &str) -> usize {
+    value
+        .char_indices()
+        .find_map(|(index, character)| matches!(character, '.' | '\n').then_some(index))
+        .unwrap_or(value.len())
+}
+
 pub fn extract_reform_transitories(raw: &str) -> Result<Vec<TemporalEvidence>> {
     let publication_re = Regex::new(
         r"Publicado en el Diario Oficial de la Federación el (\d{1,2}) de ([a-z]+) de (\d{4})",
@@ -197,6 +543,7 @@ pub fn extract_reform_transitories(raw: &str) -> Result<Vec<TemporalEvidence>> {
 #[must_use]
 pub fn validate_lritf(
     provisions: &[Provision],
+    references: &[ReferenceEdge],
     expected_min_articles: usize,
     expected_transitories: usize,
 ) -> ValidationReport {
@@ -271,14 +618,150 @@ pub fn validate_lritf(
         }
     }
 
+    validate_references(provisions, references, &mut issues);
+
     ValidationReport {
         schema_version: SCHEMA_VERSION.to_owned(),
         instrument_id: LRITF_INSTRUMENT_ID.to_owned(),
         valid: !issues.iter().any(|item| item.severity == Severity::Error),
         article_count,
         transitory_count,
+        reference_count: references.len(),
         issues,
     }
+}
+
+fn validate_references(
+    provisions: &[Provision],
+    references: &[ReferenceEdge],
+    issues: &mut Vec<ValidationIssue>,
+) {
+    let provisions_by_id: HashMap<_, _> = provisions
+        .iter()
+        .map(|provision| (provision.id.as_str(), provision))
+        .collect();
+    let mut reference_ids = HashSet::new();
+    for reference in references {
+        if !reference_ids.insert(&reference.id) {
+            issues.push(error(
+                "duplicate_reference_id",
+                "duplicate canonical reference identifier".to_owned(),
+                Some(reference.source_provision_id.clone()),
+            ));
+        }
+        validate_reference(reference, &provisions_by_id, issues);
+    }
+}
+
+fn validate_reference(
+    reference: &ReferenceEdge,
+    provisions_by_id: &HashMap<&str, &Provision>,
+    issues: &mut Vec<ValidationIssue>,
+) {
+    let Some(source) = provisions_by_id.get(reference.source_provision_id.as_str()) else {
+        issues.push(error(
+            "reference_source_missing",
+            format!(
+                "reference source does not exist: {}",
+                reference.source_provision_id
+            ),
+            Some(reference.source_provision_id.clone()),
+        ));
+        return;
+    };
+    validate_reference_span(reference, source, issues);
+    if reference.target_instrument_id != source.instrument_id {
+        issues.push(error(
+            "reference_instrument_mismatch",
+            "internal reference target instrument differs from its source instrument".to_owned(),
+            Some(reference.source_provision_id.clone()),
+        ));
+    }
+    validate_reference_target(reference, provisions_by_id, issues);
+    if reference.basis != Basis::ExpressCrossReference {
+        issues.push(error(
+            "reference_basis",
+            "canonical reference must use express_cross_reference basis".to_owned(),
+            Some(reference.source_provision_id.clone()),
+        ));
+    }
+    if !(0.0..=1.0).contains(&reference.confidence) {
+        issues.push(error(
+            "reference_confidence",
+            "reference confidence must be between zero and one".to_owned(),
+            Some(reference.source_provision_id.clone()),
+        ));
+    }
+}
+
+fn validate_reference_span(
+    reference: &ReferenceEdge,
+    source: &Provision,
+    issues: &mut Vec<ValidationIssue>,
+) {
+    match char_slice(&source.text, reference.start_char, reference.end_char) {
+        Some(span) if span == reference.source_span => {}
+        Some(span) => issues.push(error(
+            "reference_span_mismatch",
+            format!(
+                "reference span {:?} does not match source text {:?}",
+                reference.source_span, span
+            ),
+            Some(reference.source_provision_id.clone()),
+        )),
+        None => issues.push(error(
+            "reference_offsets_invalid",
+            format!(
+                "reference character offsets {}..{} are outside the source text",
+                reference.start_char, reference.end_char
+            ),
+            Some(reference.source_provision_id.clone()),
+        )),
+    }
+}
+
+fn validate_reference_target(
+    reference: &ReferenceEdge,
+    provisions_by_id: &HashMap<&str, &Provision>,
+    issues: &mut Vec<ValidationIssue>,
+) {
+    let target_exists = provisions_by_id.contains_key(reference.target_provision_id.as_str());
+    let (code, message) = match (&reference.resolution_status, target_exists) {
+        (ReferenceResolutionStatus::Resolved, false) => (
+            "resolved_reference_target_missing",
+            format!(
+                "resolved reference target does not exist: {}",
+                reference.target_provision_id
+            ),
+        ),
+        (ReferenceResolutionStatus::Unresolved, true) => (
+            "reference_resolution_stale",
+            format!(
+                "reference target exists but is marked unresolved: {}",
+                reference.target_provision_id
+            ),
+        ),
+        (ReferenceResolutionStatus::Unresolved, false) => (
+            "unresolved_internal_reference",
+            format!(
+                "internal reference target does not exist: {}",
+                reference.target_provision_id
+            ),
+        ),
+        (ReferenceResolutionStatus::Resolved, true) => return,
+    };
+    issues.push(error(
+        code,
+        message,
+        Some(reference.source_provision_id.clone()),
+    ));
+}
+
+fn char_slice(value: &str, start: usize, end: usize) -> Option<String> {
+    if start > end || end > value.chars().count() {
+        return None;
+    }
+    Some(value.chars().skip(start).take(end - start).collect())
 }
 
 fn normalized_blocks(raw: &str) -> Vec<String> {
@@ -541,11 +1024,15 @@ impl ProvisionBuilder {
 #[cfg(test)]
 mod tests {
     use chrono::NaiveDate;
+    use lex_core::{ReferenceForm, ReferenceQualifierType};
     use pretty_assertions::assert_eq;
 
-    use super::{extract_reform_transitories, parse_lritf, validate_lritf};
+    use super::{
+        extract_internal_references, extract_reform_transitories, parse_lritf, validate_lritf,
+    };
 
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");
+    const REFERENCE_FIXTURE: &str = include_str!("../../../fixtures/lritf/reference-sample.txt");
 
     #[test]
     fn parses_articles_and_statute_transitories_without_page_furniture() {
@@ -582,8 +1069,66 @@ mod tests {
     fn validates_expected_counts_and_order() {
         let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
         let provisions = parse_lritf(FIXTURE, date).unwrap();
-        let report = validate_lritf(&provisions, 2, 2);
+        let report = validate_lritf(&provisions, &[], 2, 2);
         assert!(report.valid, "{:?}", report.issues);
+    }
+
+    #[test]
+    fn extracts_compound_qualified_repeated_and_ranged_internal_references() {
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let provisions = parse_lritf(REFERENCE_FIXTURE, date).unwrap();
+        let references = extract_internal_references(&provisions).unwrap();
+
+        let article_one: Vec<_> = references
+            .iter()
+            .filter(|edge| edge.source_provision_id.ends_with(":article:1"))
+            .collect();
+        assert_eq!(article_one.len(), 3);
+        assert_eq!(article_one[0].source_span, "2");
+        assert_eq!(
+            article_one[0].qualifiers[0].qualifier_type,
+            ReferenceQualifierType::Fraction
+        );
+        assert_eq!(article_one[0].qualifiers[0].text, "fracción II");
+        assert_eq!(
+            article_one[1].qualifiers[0].qualifier_type,
+            ReferenceQualifierType::Paragraph
+        );
+        assert_eq!(article_one[1].qualifiers[0].text, "segundo párrafo");
+
+        let article_eight: Vec<_> = references
+            .iter()
+            .filter(|edge| edge.source_provision_id.ends_with(":article:8"))
+            .collect();
+        assert_eq!(article_eight.len(), 4);
+        assert!(article_eight.iter().any(|edge| {
+            edge.target_provision_id.ends_with(":article:6")
+                && edge.reference_form == ReferenceForm::RangeExpansion
+                && edge.source_span == "5 al 7"
+        }));
+        assert!(
+            references
+                .iter()
+                .all(|edge| !edge.target_provision_id.ends_with(":article:89"))
+        );
+        assert!(
+            article_eight
+                .iter()
+                .any(|edge| edge.target_provision_id.ends_with(":article:6-bis"))
+        );
+
+        let repeated_article_two = references
+            .iter()
+            .filter(|edge| {
+                edge.source_provision_id.ends_with(":transitory:primera")
+                    && edge.target_provision_id.ends_with(":article:2")
+            })
+            .count();
+        assert_eq!(repeated_article_two, 2);
+
+        let report = validate_lritf(&provisions, &references, 8, 1);
+        assert!(report.valid, "{:?}", report.issues);
+        assert_eq!(report.reference_count, references.len());
     }
 
     #[test]

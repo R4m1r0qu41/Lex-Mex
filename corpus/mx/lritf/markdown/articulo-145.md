@@ -20,8 +20,8 @@ Las notificaciones a que se refiere este Título surtirán sus efectos al día h
 
 I. Se hubieren efectuado personalmente;
 
-II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los artículos 135 y 140;
+II. Se hubiere entregado el oficio respectivo en los supuestos previstos en los artículos [135](articulo-135.md) y [140](articulo-140.md);
 
-III. Se hubiere efectuado la última publicación a que se refiere el artículo 141, y
+III. Se hubiere efectuado la última publicación a que se refiere el artículo [141](articulo-141.md), y
 
 IV. Se hubiere efectuado por correo ordinario, medio electrónico o mensajería.

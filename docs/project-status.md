@@ -67,6 +67,24 @@ Current recorded source hashes:
 - Canonical JSON stored under `corpus/mx/lritf/`.
 - Structural validation report generation.
 
+### Express-reference graph
+
+- Canonical `ReferenceEdge` records stored in
+  `corpus/mx/lritf/references.json`.
+- Exact source spans and Unicode character offsets without modifying canonical
+  provision text.
+- Deterministic support for individual, compound, repeated, qualified, and
+  ranged article citations.
+- Paragraph, fraction, and subsection qualifier metadata.
+- Explicit direct versus range-expansion reference forms.
+- Resolved/unresolved status, confidence, and `express_cross_reference` basis.
+- Validation of source spans, offsets, duplicate IDs, internal instrument
+  identity, confidence, and target existence.
+- Named external-law references remain unlinked until the target instrument is
+  represented in the corpus.
+- A standalone `link lritf` stage regenerates references without reparsing or
+  changing temporal-review state.
+
 ### Temporal analysis v2
 
 - Versioned `temporal-v2` prompt and strict JSON output schema.
@@ -135,6 +153,10 @@ Current temporal result:
 - Frontmatter with canonical identity, temporal status, review status, source
   URL, and source hash.
 - Structured transitory effects displayed beneath the source text.
+- Standard Markdown links and Obsidian wikilinks injected from the validated
+  reference graph at export time.
+- 95 resolved internal LRITF links across 26 generated provision notes,
+  including all numeric references in SÉPTIMA.
 - Generated pending-review dashboard.
 - Export ownership limited to generated corpus paths; human-authored `Notas/`
   and `Revisiones/` remain outside the exporter boundary.
@@ -150,6 +172,7 @@ discover diputados
 fetch lritf
 extract lritf
 parse lritf
+link lritf
 analyze-temporal lritf
 import-temporal lritf <response>
 validate lritf
@@ -163,7 +186,7 @@ review resolve <review-id>
 
 ### Automated test coverage
 
-The workspace currently contains 13 passing unit tests.
+The workspace currently contains 15 passing unit tests.
 
 `lex-core` tests:
 
@@ -180,6 +203,8 @@ The workspace currently contains 13 passing unit tests.
 - Parses articles and original law transitories without page furniture.
 - Verifies expected article/transitory counts and coherent ordering.
 - Isolates reform-decree transitories as separate temporal evidence.
+- Extracts compound, qualified, repeated, ranged, and same-law references while
+  excluding a named external-law reference.
 
 `lex-export` tests:
 
@@ -187,6 +212,8 @@ The workspace currently contains 13 passing unit tests.
 - Publishes generated notes beneath the corpus boundary without modifying
   human-authored notes.
 - Emits structured transitory-effect sections in Obsidian notes.
+- Injects resolved standard Markdown and Obsidian links without changing
+  canonical source text.
 
 `lex-source` test:
 
@@ -207,6 +234,11 @@ The workspace currently contains 13 passing unit tests.
   resolved decision survived unchanged.
 - The pending Obsidian review dashboard was verified to be empty after the
   resolution.
+- The reference graph was generated from the reviewed corpus without changing
+  `provisions.json`, the instrument, temporal result, or review queue.
+- All 95 canonical LRITF references resolve to existing article records.
+- Standard Markdown and the external Obsidian vault were republished with 95
+  links; SÉPTIMA links Articles 48, 54, 56, and 71.
 
 ## 4. What is tested: current verification results
 
@@ -216,10 +248,12 @@ Checks rerun successfully on 2026-07-02:
 |---|---:|
 | `cargo fmt --check` | Pass |
 | `cargo clippy --workspace --all-targets -- -D warnings` | Pass |
-| `cargo test --workspace` | Pass: 13 tests |
+| `cargo test --workspace` | Pass: 15 tests |
 | `cargo run -p lex-cli -- validate lritf` | Pass |
 | LRITF articles | 145 |
 | LRITF original transitories | 11 |
+| Resolved internal article references | 95 |
+| Provision notes containing internal links | 26 |
 | Structural validation issues | 0 |
 | Temporal determinations | 19 |
 | Structured transitory effects | 32 |
@@ -229,17 +263,17 @@ Checks rerun successfully on 2026-07-02:
 | Resolved review records retained for audit | 1 |
 | Markdown files in the Obsidian vault | 162 |
 
-The tracked Git worktree was clean before this status document was created.
+Canonical provision text, temporal results, and the audited review queue were
+unchanged by the reference-graph migration.
 
 ## 5. What is pending
 
 ### Immediate product gaps
 
-- Canonical express-reference extraction and graph records are not implemented.
-- Article references in source text are not yet converted into Markdown or
-  Obsidian links, so hover previews for referenced articles are not available.
-- Compound citations, paragraph/fraction qualifiers, ranges, and Bis/Ter/Quáter
-  targets still need reference-parser coverage.
+- Relative references such as `artículo anterior`, `artículo siguiente`, and
+  `este artículo` are not yet canonical graph edges.
+- Bis/Ter/Quáter syntax is recognized, but the current LRITF corpus has no
+  internal suffixed article target with which to exercise resolved export.
 - Defined terms and defined-term usage are not yet extracted or linked.
 - Cross-instrument references are not yet resolved.
 - The January 28, 2021 CNBV Disposiciones de Carácter General (DCG) have not yet
@@ -266,54 +300,14 @@ The tracked Git worktree was clean before this status document was created.
   suitable for deterministic unit tests.
 - No regression corpus yet covers multiple statutes and non-statute CNBV
   document structures.
-- Express-reference and graph validation tests do not exist because that layer
-  has not yet been implemented.
-- Obsidian link resolution and hover behavior have not yet been tested because
-  internal article links have not been generated.
+- No multi-instrument fixture yet exercises resolved cross-instrument links.
+- Obsidian CLI unresolved-link verification requires the desktop application to
+  be running; this run verified every target deterministically in Rust and
+  inspected the generated wikilinks, but did not exercise the live hover UI.
 
 ## 6. Suggested next steps
 
-### Step 1 — Complete LRITF express-reference linking
-
-Implement a canonical `ReferenceEdge` model containing:
-
-- source provision ID;
-- exact source span and character offsets;
-- target instrument and provision ID;
-- reference qualifiers such as paragraph, fraction, and inciso;
-- basis `express_cross_reference`;
-- confidence and resolution status.
-
-Add deterministic extraction for individual, compound, and ranged LRITF
-article references. Validate that every internal target exists. Keep canonical
-source text unchanged and inject links only during export.
-
-Expected Obsidian output:
-
-```markdown
-[[Corpus/LRITF/articulo-48|artículo 48]]
-```
-
-With Obsidian Page Preview enabled, clicking or hovering the reference should
-show the target article.
-
-### Step 2 — Use LRITF transitories as the first linker acceptance fixture
-
-Transitories provide compact, high-value compound citations. Required fixtures
-should include:
-
-- a single article reference;
-- `artículos 48, 54 y 56`;
-- paragraph and fraction qualifiers;
-- repeated references in one transitory;
-- a reference to the same law versus an external instrument;
-- unresolved external references that do not create broken Obsidian links.
-
-Acceptance target: every internal LRITF article citation resolves, generated
-links preserve the displayed source wording, and canonical text remains
-byte-for-byte unchanged.
-
-### Step 3 — Ingest the January 28, 2021 CNBV DCG
+### Step 1 — Ingest the January 28, 2021 CNBV DCG
 
 After the LRITF linker is reliable, add a CNBV source adapter and ingest:
 
@@ -325,6 +319,19 @@ After the LRITF linker is reliable, add a CNBV source adapter and ingest:
 This is the preferred second instrument because it is manageable, comes from an
 official CNBV/DOF source, and immediately tests cross-instrument links from the
 DCG back to LRITF Articles 48, 54, and 56.
+
+### Step 2 — Resolve cross-instrument references
+
+Generalize reference targets beyond the current instrument. Resolve the DCG's
+express references to LRITF Articles 48, 54, and 56, while preserving the exact
+DCG citation spans and paragraph qualifiers. Add multi-instrument graph
+validation and Obsidian paths.
+
+### Step 3 — Add relative article references
+
+Resolve `artículo anterior`, `artículo siguiente`, `este artículo`, and similar
+forms using provision order and exact linguistic constraints. Keep these edges
+distinguishable from explicit numeric references.
 
 ### Step 4 — Add definitions and defined-term usage
 
@@ -345,6 +352,6 @@ provision-level diffs, DOF early warning, and amendment reconciliation.
 
 ## Recommended immediate milestone
 
-The next milestone should be **LRITF internal express-reference linking with
-working Obsidian hover previews**. The CNBV DCG should follow immediately as the
-first cross-instrument linking test.
+The next milestone should be **ingestion of the January 28, 2021 CNBV DCG**,
+followed immediately by its resolved cross-instrument links to LRITF Articles
+48, 54, and 56.

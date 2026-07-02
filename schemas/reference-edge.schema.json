@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/R4m1r0qu41/Lex-Mex/schemas/reference-edge.schema.json",
+  "title": "Lex-Mex canonical reference edge",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "source_provision_id",
+    "source_span",
+    "start_char",
+    "end_char",
+    "target_instrument_id",
+    "target_provision_id",
+    "qualifiers",
+    "basis",
+    "confidence",
+    "resolution_status",
+    "reference_form"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "0.1.0"
+    },
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_provision_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_span": {
+      "type": "string",
+      "minLength": 1
+    },
+    "start_char": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "end_char": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "target_instrument_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "target_provision_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "qualifiers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["qualifier_type", "text"],
+        "properties": {
+          "qualifier_type": {
+            "type": "string",
+            "enum": ["paragraph", "fraction", "subsection", "other"]
+          },
+          "text": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "basis": {
+      "type": "string",
+      "const": "express_cross_reference"
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "resolution_status": {
+      "type": "string",
+      "enum": ["resolved", "unresolved"]
+    },
+    "reference_form": {
+      "type": "string",
+      "enum": ["direct", "range_expansion"]
+    }
+  }
+}

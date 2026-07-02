@@ -22,3 +22,14 @@ Temporal conclusions distinguish their basis (`source_text`,
 `deterministic_rule`, `llm_inference`, or `lawyer_verified`). Unreviewed model
 output is never represented as verified legal advice.
 
+Express article references are canonical graph edges stored separately from
+provision text. Each edge records the source provision, exact source span and
+Unicode character offsets, target instrument and provision, qualifiers,
+resolution status, confidence, and `express_cross_reference` basis. Range
+expansions may create non-rendered graph edges for intermediate targets.
+
+Validation requires each source span to match the unchanged canonical text and
+each resolved internal target to exist. Markdown and Obsidian links are
+injected only during export. Named external-instrument references remain plain
+text until the referenced instrument is part of the corpus, preventing broken
+or falsely resolved links.

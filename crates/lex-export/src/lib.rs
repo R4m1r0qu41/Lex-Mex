@@ -2,14 +2,15 @@ use std::{fmt::Write as _, fs, path::Path};
 
 use anyhow::{Context, Result};
 use lex_core::{
-    Corpus, Provision, ProvisionType, ReviewItem, ReviewItemStatus, TemporalBoundary,
-    TemporalBoundaryType, ValidationReport,
+    Corpus, Provision, ProvisionType, ReferenceForm, ReferenceResolutionStatus, ReviewItem,
+    ReviewItemStatus, TemporalBoundary, TemporalBoundaryType, ValidationReport,
 };
 
 pub fn write_canonical(corpus: &Corpus, output_dir: &Path) -> Result<()> {
     fs::create_dir_all(output_dir)?;
     write_json(&corpus.instrument, &output_dir.join("instrument.json"))?;
-    write_json(&corpus.provisions, &output_dir.join("provisions.json"))
+    write_json(&corpus.provisions, &output_dir.join("provisions.json"))?;
+    write_json(&corpus.references, &output_dir.join("references.json"))
 }
 
 pub fn write_validation(report: &ValidationReport, output_dir: &Path) -> Result<()> {
@@ -108,7 +109,12 @@ fn standard_markdown(corpus: &Corpus, provision: &Provision) -> String {
         }
         output.push_str("\n\n");
     }
-    let _ = write!(output, "# {}\n\n{}\n", provision.label, provision.text);
+    let _ = write!(
+        output,
+        "# {}\n\n{}\n",
+        provision.label,
+        linked_text(corpus, provision, false)
+    );
     append_transitory_effects(&mut output, provision);
     output
 }
@@ -120,8 +126,63 @@ fn obsidian_markdown(corpus: &Corpus, provision: &Provision) -> String {
         "[[Corpus/{0}/{0}|← Índice {0}]]\n\n",
         corpus.instrument.short_name
     );
-    let _ = write!(output, "# {}\n\n{}\n", provision.label, provision.text);
+    let _ = write!(
+        output,
+        "# {}\n\n{}\n",
+        provision.label,
+        linked_text(corpus, provision, true)
+    );
     append_transitory_effects(&mut output, provision);
+    output
+}
+
+fn linked_text(corpus: &Corpus, provision: &Provision, obsidian: bool) -> String {
+    let mut references: Vec<_> = corpus
+        .references
+        .iter()
+        .filter(|edge| {
+            edge.source_provision_id == provision.id
+                && edge.resolution_status == ReferenceResolutionStatus::Resolved
+                && edge.reference_form == ReferenceForm::Direct
+        })
+        .collect();
+    references.sort_by_key(|edge| (edge.start_char, edge.end_char));
+    let chars: Vec<_> = provision.text.chars().collect();
+    let mut output = String::new();
+    let mut cursor = 0;
+
+    for edge in references {
+        if edge.start_char < cursor
+            || edge.end_char > chars.len()
+            || edge.start_char >= edge.end_char
+        {
+            continue;
+        }
+        let displayed: String = chars[edge.start_char..edge.end_char].iter().collect();
+        if displayed != edge.source_span {
+            continue;
+        }
+        let Some(target) = corpus
+            .provisions
+            .iter()
+            .find(|item| item.id == edge.target_provision_id)
+        else {
+            continue;
+        };
+        output.extend(chars[cursor..edge.start_char].iter());
+        let stem = markdown_filename(target).trim_end_matches(".md").to_owned();
+        if obsidian {
+            let _ = write!(
+                output,
+                "[[Corpus/{}/{stem}|{displayed}]]",
+                corpus.instrument.short_name
+            );
+        } else {
+            let _ = write!(output, "[{displayed}]({stem}.md)");
+        }
+        cursor = edge.end_char;
+    }
+    output.extend(chars[cursor..].iter());
     output
 }
 
@@ -327,12 +388,14 @@ mod tests {
     use std::fs;
 
     use lex_core::{
-        Corpus, HeadingContext, Instrument, InstrumentStatus, InstrumentType, LRITF_INSTRUMENT_ID,
-        Provision, ProvisionType, ReviewStatus, SCHEMA_VERSION, TemporalStatus,
+        Basis, Corpus, HeadingContext, Instrument, InstrumentStatus, InstrumentType,
+        LRITF_INSTRUMENT_ID, Provision, ProvisionType, ReferenceEdge, ReferenceForm,
+        ReferenceQualifier, ReferenceQualifierType, ReferenceResolutionStatus, ReviewStatus,
+        SCHEMA_VERSION, TemporalStatus,
     };
     use tempfile::tempdir;
 
-    use super::{markdown_filename, write_obsidian};
+    use super::{markdown_filename, write_markdown, write_obsidian};
 
     #[test]
     fn produces_stable_presentation_filename() {
@@ -352,6 +415,7 @@ mod tests {
         let corpus = Corpus {
             instrument: sample_instrument(),
             provisions: vec![sample_provision()],
+            references: Vec::new(),
         };
 
         write_obsidian(&corpus, &[], temp.path()).unwrap();
@@ -384,6 +448,58 @@ mod tests {
                 .join("Corpus/Revisiones pendientes.md")
                 .is_file()
         );
+    }
+
+    #[test]
+    fn injects_resolved_links_without_changing_canonical_text() {
+        let temp = tempdir().unwrap();
+        let mut source = sample_provision();
+        source.text = "Véanse los artículos 48, segundo párrafo y 54 de esta Ley.".to_owned();
+        let target_48 = sample_article("48");
+        let target_54 = sample_article("54");
+        let start_48 = source
+            .text
+            .chars()
+            .position(|character| character == '4')
+            .unwrap();
+        let start_54 = source
+            .text
+            .chars()
+            .collect::<Vec<_>>()
+            .iter()
+            .rposition(|character| *character == '5')
+            .unwrap();
+        let canonical_text = source.text.clone();
+        let corpus = Corpus {
+            instrument: sample_instrument(),
+            provisions: vec![source, target_48, target_54],
+            references: vec![
+                sample_reference(
+                    "48",
+                    start_48,
+                    vec![ReferenceQualifier {
+                        qualifier_type: ReferenceQualifierType::Paragraph,
+                        text: "segundo párrafo".to_owned(),
+                    }],
+                ),
+                sample_reference("54", start_54, Vec::new()),
+            ],
+        };
+
+        write_markdown(&corpus, &temp.path().join("markdown")).unwrap();
+        write_obsidian(&corpus, &[], temp.path()).unwrap();
+
+        let standard =
+            fs::read_to_string(temp.path().join("markdown/transitorio-decima-primera.md")).unwrap();
+        let obsidian = fs::read_to_string(
+            temp.path()
+                .join("Corpus/LRITF/transitorio-decima-primera.md"),
+        )
+        .unwrap();
+        assert!(standard.contains("artículos [48](articulo-48.md), segundo párrafo"));
+        assert!(obsidian.contains("[[Corpus/LRITF/articulo-48|48]], segundo párrafo"));
+        assert!(obsidian.contains("[[Corpus/LRITF/articulo-54|54]]"));
+        assert_eq!(corpus.provisions[0].text, canonical_text);
     }
 
     fn sample_provision() -> Provision {
@@ -427,6 +543,54 @@ mod tests {
                 verified_event_date: None,
                 verification_note: None,
             }],
+        }
+    }
+
+    fn sample_article(number: &str) -> Provision {
+        Provision {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: format!("{LRITF_INSTRUMENT_ID}:article:{number}"),
+            instrument_id: LRITF_INSTRUMENT_ID.to_owned(),
+            provision_type: ProvisionType::Article,
+            label: format!("Artículo {number}"),
+            number: number.to_owned(),
+            heading_context: HeadingContext {
+                title: None,
+                chapter: None,
+            },
+            text: format!("Texto del artículo {number}."),
+            publication_date: chrono::NaiveDate::from_ymd_opt(2018, 3, 9).unwrap(),
+            effective_from: None,
+            effective_to: None,
+            temporal_status: TemporalStatus::Unknown,
+            temporal_basis: None,
+            temporal_confidence: None,
+            review_status: ReviewStatus::NotAnalyzed,
+            transitory_effects: Vec::new(),
+        }
+    }
+
+    fn sample_reference(
+        target_number: &str,
+        start_char: usize,
+        qualifiers: Vec<ReferenceQualifier>,
+    ) -> ReferenceEdge {
+        ReferenceEdge {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: format!(
+                "{LRITF_INSTRUMENT_ID}:transitory:decima-primera:reference:{start_char}:article:{target_number}"
+            ),
+            source_provision_id: format!("{LRITF_INSTRUMENT_ID}:transitory:decima-primera"),
+            source_span: target_number.to_owned(),
+            start_char,
+            end_char: start_char + target_number.chars().count(),
+            target_instrument_id: LRITF_INSTRUMENT_ID.to_owned(),
+            target_provision_id: format!("{LRITF_INSTRUMENT_ID}:article:{target_number}"),
+            qualifiers,
+            basis: Basis::ExpressCrossReference,
+            confidence: 1.0,
+            resolution_status: ReferenceResolutionStatus::Resolved,
+            reference_form: ReferenceForm::Direct,
         }
     }
 

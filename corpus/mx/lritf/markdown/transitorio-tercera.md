@@ -17,11 +17,11 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 La Comisión Nacional Bancaria y de Valores contará con los plazos que se señalan a continuación contados a partir de la entrada en vigor de esta Ley, para emitir las disposiciones de carácter general siguientes:
 
-I. Seis meses para emitir las disposiciones de carácter general a que se refieren los artículos 18, fracción I; 36, fracción IV; 39, fracciones VI, XI, XII y XVI; 44; 45; 48, primer párrafo, para las reglas relacionadas con contabilidad y plan de continuidad de negocio;
+I. Seis meses para emitir las disposiciones de carácter general a que se refieren los artículos [18](articulo-18.md), fracción I; [36](articulo-36.md), fracción IV; [39](articulo-39.md), fracciones VI, XI, XII y XVI; [44](articulo-44.md); [45](articulo-45.md); [48](articulo-48.md), primer párrafo, para las reglas relacionadas con contabilidad y plan de continuidad de negocio;
 
-II. Doce meses para emitir las disposiciones de carácter general a que se refieren los artículos 18, fracción IV; 54; 56, segundo párrafo; 57; 73; 82, fracción VI; 89, fracción IV y 116 de la presente Ley, y
+II. Doce meses para emitir las disposiciones de carácter general a que se refieren los artículos [18](articulo-18.md), fracción IV; [54](articulo-54.md); [56](articulo-56.md), segundo párrafo; [57](articulo-57.md); [73](articulo-73.md); [82](articulo-82.md), fracción VI; [89](articulo-89.md), fracción IV y [116](articulo-116.md) de la presente Ley, y
 
-III. Veinticuatro meses para emitir las disposiciones de carácter general a que se refieren los artículos 55 y 76 de esta Ley.
+III. Veinticuatro meses para emitir las disposiciones de carácter general a que se refieren los artículos [55](articulo-55.md) y [76](articulo-76.md) de esta Ley.
 
 ## Efectos transitorios estructurados
 

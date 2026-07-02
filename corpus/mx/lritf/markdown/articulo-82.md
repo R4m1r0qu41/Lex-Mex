@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 82
 
-Para el otorgamiento de la autorización temporal a que se refiere el artículo 80 de esta Ley, las Autoridades Financieras evaluarán, entre otros aspectos, el cumplimiento de los criterios y condiciones siguientes:
+Para el otorgamiento de la autorización temporal a que se refiere el artículo [80](articulo-80.md) de esta Ley, las Autoridades Financieras evaluarán, entre otros aspectos, el cumplimiento de los criterios y condiciones siguientes:
 
 I. Que la propuesta sea un Modelo Novedoso;
 

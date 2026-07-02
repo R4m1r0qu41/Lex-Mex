@@ -30,7 +30,7 @@ III. El Procurador General de Justicia Militar, a fin de reunir indicios para el
 
 IV. Las autoridades hacendarias federales y estatales, para fines fiscales;
 
-V. La Secretaría, para efectos de lo dispuesto en el artículo 58 de la presente Ley;
+V. La Secretaría, para efectos de lo dispuesto en el artículo [58](articulo-58.md) de la presente Ley;
 
 VI. El Tesorero de la Federación o el servidor público en quien delegue facultades para requerir información, en los términos de las disposiciones a que se refiere el último párrafo del presente artículo, cuando el acto de vigilancia lo amerite, para solicitar los estados de cuenta y cualquier otra información relativa a las cuentas personales de los servidores públicos, auxiliares y, en su caso, particulares relacionados con la investigación de que se trate;
 
