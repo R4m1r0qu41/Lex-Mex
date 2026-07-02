@@ -1,7 +1,7 @@
 # Lex-Mex Project Status
 
 **Status date:** 2026-07-02  
-**Repository:** `/Users/jr/Dev/lex-mex`  
+**Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
 **Current instrument:** Ley para Regular las Instituciones de Tecnología Financiera (LRITF)  
 **Current legal reviewer:** JRH
 
@@ -130,7 +130,7 @@ Current temporal result:
 ### Markdown and Obsidian
 
 - Standard Markdown export for every provision.
-- External Obsidian vault at `/Users/jr/Vaults/Lex-Mex`.
+- Optional external Obsidian vault (for example, `$HOME/Vaults/Lex-Mex`).
 - Generated LRITF index and article/transitory notes.
 - Frontmatter with canonical identity, temporal status, review status, source
   URL, and source hash.

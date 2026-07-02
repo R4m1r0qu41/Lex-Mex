@@ -1,4 +1,15 @@
 /target/
 /.work/
 .DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.swp
+*~
+.idea/
+.vscode/
 
