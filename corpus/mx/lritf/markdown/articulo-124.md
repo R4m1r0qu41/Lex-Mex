@@ -20,4 +20,4 @@ Será sancionado con pena de prisión de siete a quince años y multa de 5,000 a
 
 I. Lleve a cabo operaciones o actividades de las reservadas para las ITF o para las sociedades o Entidades Financieras u otros sujetos supervisados por alguna Comisión Supervisora o por el Banco de México, autorizados para operar modelos novedosos, sin contar con la autorización prevista en esta Ley, y
 
-II. Habiendo sido autorizado para operar como ITF, realice actividades con activos virtuales o divisas, sin contar con la autorización a que se refiere el artículo 30 o bien, tratándose de instituciones de crédito, sin la autorización a que alude el artículo 88.
+II. Habiendo sido autorizado para operar como ITF, realice actividades con activos virtuales o divisas, sin contar con la autorización a que se refiere el artículo [30](articulo-30.md) o bien, tratándose de instituciones de crédito, sin la autorización a que alude el artículo [88](articulo-88.md).

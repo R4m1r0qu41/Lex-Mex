@@ -20,16 +20,16 @@ Las notificaciones de los requerimientos, visitas de inspección, medidas cautel
 
 I. Personalmente, conforme a lo siguiente:
 
-a) En las oficinas de las Autoridades Financieras, de acuerdo a lo previsto en el artículo 136 de esta Ley;
+a) En las oficinas de las Autoridades Financieras, de acuerdo a lo previsto en el artículo [136](articulo-136.md) de esta Ley;
 
-b) En el domicilio del interesado o de su representante, en términos de lo previsto en los artículos 137 y 140 de esta Ley, y
+b) En el domicilio del interesado o de su representante, en términos de lo previsto en los artículos [137](articulo-137.md) y [140](articulo-140.md) de esta Ley, y
 
-c) En cualquier lugar en el que se encuentre el interesado o su representante, en los supuestos establecidos en el artículo 138 de esta Ley;
+c) En cualquier lugar en el que se encuentre el interesado o su representante, en los supuestos establecidos en el artículo [138](articulo-138.md) de esta Ley;
 
 II. Mediante oficio entregado por mensajero o por correo certificado, ambos con acuse de recibo;
 
-III. Por edictos, en los supuestos señalados en el artículo 141 de esta Ley, y
+III. Por edictos, en los supuestos señalados en el artículo [141](articulo-141.md) de esta Ley, y
 
-IV. Por medio electrónico, en el supuesto previsto en el artículo 142 de esta Ley.
+IV. Por medio electrónico, en el supuesto previsto en el artículo [142](articulo-142.md) de esta Ley.
 
 Respecto a la información y documentación que deba exhibirse a los inspectores de la CNBV al amparo de una visita de inspección se deberá observar lo previsto en el reglamento expedido por el Ejecutivo Federal en materia de supervisión, en términos del artículo 5, primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores.

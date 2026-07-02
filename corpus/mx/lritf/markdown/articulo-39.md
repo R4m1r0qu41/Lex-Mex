@@ -24,7 +24,7 @@ II. El proyecto de estatutos sociales, o modificación a los mismos, que cumpla 
 
 III. El plan de negocios;
 
-IV. Las políticas de separación de cuentas, en términos de lo establecido en el artículo 46 de esta Ley;
+IV. Las políticas de separación de cuentas, en términos de lo establecido en el artículo [46](articulo-46.md) de esta Ley;
 
 V. Las políticas de divulgación de riesgos y responsabilidades por la realización de las Operaciones en la ITF, incluyendo la información necesaria para la adecuada toma de decisión en un lenguaje sencillo y claro, lo cual debe incluir los conceptos y montos de la totalidad de las comisiones que cobrará a sus Clientes y cualquier otro cargo o retención, así como la divulgación en la interfaz, página de internet o medio de comunicación electrónica o digital que utilice la ITF, de las advertencias relativas a la utilización de dicha interfaz, página de internet o medio de comunicación electrónica o digital, cumpliendo con lo establecido en las disposiciones de carácter general que para tal efecto emita la CNBV, previo acuerdo del Comité Interinstitucional;
 

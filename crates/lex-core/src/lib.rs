@@ -149,10 +149,58 @@ pub struct Provision {
     pub transitory_effects: Vec<TransitoryEffect>,
 }
 
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum ReferenceQualifierType {
+    Paragraph,
+    Fraction,
+    Subsection,
+    Other,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct ReferenceQualifier {
+    pub qualifier_type: ReferenceQualifierType,
+    pub text: String,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum ReferenceResolutionStatus {
+    Resolved,
+    Unresolved,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum ReferenceForm {
+    Direct,
+    RangeExpansion,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct ReferenceEdge {
+    pub schema_version: String,
+    pub id: String,
+    pub source_provision_id: String,
+    pub source_span: String,
+    pub start_char: usize,
+    pub end_char: usize,
+    pub target_instrument_id: String,
+    pub target_provision_id: String,
+    pub qualifiers: Vec<ReferenceQualifier>,
+    pub basis: Basis,
+    pub confidence: f32,
+    pub resolution_status: ReferenceResolutionStatus,
+    pub reference_form: ReferenceForm,
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Corpus {
     pub instrument: Instrument,
     pub provisions: Vec<Provision>,
+    #[serde(default)]
+    pub references: Vec<ReferenceEdge>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -381,5 +429,7 @@ pub struct ValidationReport {
     pub valid: bool,
     pub article_count: usize,
     pub transitory_count: usize,
+    #[serde(default)]
+    pub reference_count: usize,
     pub issues: Vec<ValidationIssue>,
 }

@@ -9,15 +9,18 @@ use anyhow::{Context, Result, bail};
 use chrono::{NaiveDate, Utc};
 use clap::{Parser, Subcommand, ValueEnum};
 use lex_core::{
-    Corpus, Instrument, InstrumentStatus, InstrumentType, LRITF_INSTRUMENT_ID, Provision,
-    ProvisionType, ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest,
+    Corpus, Instrument, InstrumentStatus, InstrumentType, LRITF_INSTRUMENT_ID, ProvisionType,
+    ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest,
     TemporalAnalysisMetadata, TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence,
     TemporalModelBatch, TemporalReviewResolution, TemporalStatus, TransitoryEffect,
     apply_temporal_determinations, preserve_temporal_review_history, resolve_temporal_review,
     route_temporal_analysis,
 };
 use lex_export::{write_canonical, write_markdown, write_obsidian, write_validation};
-use lex_parse::{extract_pdf, extract_reform_transitories, parse_lritf, validate_lritf};
+use lex_parse::{
+    extract_internal_references, extract_pdf, extract_reform_transitories, parse_lritf,
+    validate_lritf,
+};
 use lex_source::{
     SourceConfig, discover, fetch, load_config, sha256_hex, write_acquisition, write_manifest,
 };
@@ -51,6 +54,9 @@ enum Command {
         instrument: String,
     },
     Parse {
+        instrument: String,
+    },
+    Link {
         instrument: String,
     },
     AnalyzeTemporal {
@@ -197,6 +203,10 @@ fn main() -> Result<()> {
         Command::Parse { instrument } => {
             require_lritf(&instrument)?;
             run_parse(&root)?;
+        }
+        Command::Link { instrument } => {
+            require_lritf(&instrument)?;
+            run_link(&root)?;
         }
         Command::AnalyzeTemporal {
             instrument,
@@ -357,17 +367,35 @@ fn run_parse(root: &Path) -> Result<()> {
         parser_version: env!("CARGO_PKG_VERSION").to_owned(),
         status: InstrumentStatus::InForce,
     };
+    let references = extract_internal_references(&provisions)?;
     let corpus = Corpus {
         instrument,
         provisions,
+        references,
     };
     write_canonical(&corpus, &paths.corpus)?;
     let reform_evidence = extract_reform_transitories(&raw)?;
     write_pretty_json(&reform_evidence, &paths.reform_evidence)?;
     println!("parsed {} canonical provisions", corpus.provisions.len());
     println!(
+        "extracted {} canonical internal references",
+        corpus.references.len()
+    );
+    println!(
         "isolated {} reform-decree transitories for temporal analysis",
         reform_evidence.len()
+    );
+    Ok(())
+}
+
+fn run_link(root: &Path) -> Result<()> {
+    let paths = Paths::new(root);
+    let mut corpus = read_corpus(&paths)?;
+    corpus.references = extract_internal_references(&corpus.provisions)?;
+    write_canonical(&corpus, &paths.corpus)?;
+    println!(
+        "extracted {} canonical internal references",
+        corpus.references.len()
     );
     Ok(())
 }
@@ -653,18 +681,20 @@ fn run_review_resolve(
 fn run_validate(root: &Path) -> Result<lex_core::ValidationReport> {
     let paths = Paths::new(root);
     let source = config(root)?;
-    let provisions: Vec<Provision> = read_json(&paths.provisions)?;
+    let corpus = read_corpus(&paths)?;
     let report = validate_lritf(
-        &provisions,
+        &corpus.provisions,
+        &corpus.references,
         source.expected_min_articles,
         source.expected_transitories,
     );
     write_validation(&report, &paths.corpus)?;
     println!(
-        "validation: {}; {} articles, {} transitories, {} issues",
+        "validation: {}; {} articles, {} transitories, {} references, {} issues",
         if report.valid { "valid" } else { "invalid" },
         report.article_count,
         report.transitory_count,
+        report.reference_count,
         report.issues.len()
     );
     Ok(report)
@@ -698,6 +728,11 @@ fn read_corpus(paths: &Paths) -> Result<Corpus> {
     Ok(Corpus {
         instrument: read_json(&paths.instrument)?,
         provisions: read_json(&paths.provisions)?,
+        references: if paths.references.exists() {
+            read_json(&paths.references)?
+        } else {
+            Vec::new()
+        },
     })
 }
 
@@ -758,6 +793,7 @@ struct Paths {
     manifest: PathBuf,
     instrument: PathBuf,
     provisions: PathBuf,
+    references: PathBuf,
     temporal_request: PathBuf,
     temporal_model_output: PathBuf,
     temporal_result: PathBuf,
@@ -776,6 +812,7 @@ impl Paths {
             manifest: corpus.join("source-manifest.json"),
             instrument: corpus.join("instrument.json"),
             provisions: corpus.join("provisions.json"),
+            references: corpus.join("references.json"),
             temporal_request: corpus.join("temporal-analysis-request.json"),
             temporal_model_output: work.join("temporal-model-output.json"),
             temporal_result: corpus.join("temporal-analysis-result.json"),

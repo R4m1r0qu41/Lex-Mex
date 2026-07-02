@@ -14,6 +14,8 @@ repository's trust boundaries and expected engineering discipline.
   only source of canonical facts or review decisions.
 - Keep model proposals distinct from deterministic facts in types, schemas,
   stored artifacts, and exports.
+- Keep canonical source text free of presentation links. Store express
+  references as validated graph edges and inject links only during export.
 - A temporal model response must validate against
   `schemas/temporal-model-output-v2.schema.json` before entering the corpus.
 - Never allow a model run, import, export, or rerun to resolve or overwrite an
@@ -23,6 +25,9 @@ repository's trust boundaries and expected engineering discipline.
 
 - Never silently alter official source text. Every normalization must be
   deterministic, narrow, and covered by a fixture.
+- Reference character offsets and exact source spans must validate against the
+  unchanged canonical provision text, and every resolved internal target must
+  exist.
 - Preserve the official source URL, publisher metadata, retrieval time, source
   SHA-256, extracted-text SHA-256, parser version, and schema version.
 - Attach formal DOF sources when a decision depends on promulgation, amendment,

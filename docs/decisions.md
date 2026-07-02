@@ -93,3 +93,17 @@ an official source URL, event date, and note. JRH verified that SÉPTIMA's
 twelve-month clock began with LRITF's entry into force on 10 March 2018 and
 that the referenced joint provisions were published on 28 January 2021. The
 separate Article 71 coordination agreement remains factually unverified.
+
+## 2026-07-02 — Canonical reference graph and presentation-only links
+
+Express LRITF article citations are stored in `references.json`, separately
+from canonical provision text. Edges use Unicode character offsets and exact
+source spans, retain paragraph/fraction/inciso qualifiers, and distinguish
+direct citations from range-expansion targets. Internal references must resolve
+to a canonical provision before validation passes.
+
+Standard Markdown and Obsidian wikilinks are injected only during export.
+Named external-law citations are deliberately left unlinked until their target
+instrument is in the corpus. The standalone `link` stage can regenerate the
+graph from an already reviewed corpus without reparsing source text or changing
+temporal decisions.
