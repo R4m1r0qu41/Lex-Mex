@@ -411,7 +411,11 @@ fn markdown_index(corpus: &Corpus, targets: &LinkTargets, obsidian: bool) -> Str
         .iter()
         .filter(|item| item.provision_type == ProvisionType::Article)
     {
-        output.push_str(&index_link(provision, obsidian));
+        output.push_str(&index_link(
+            provision,
+            &corpus.instrument.short_name,
+            obsidian,
+        ));
     }
     output.push_str("\n## Disposiciones transitorias\n\n");
     for provision in corpus
@@ -419,7 +423,11 @@ fn markdown_index(corpus: &Corpus, targets: &LinkTargets, obsidian: bool) -> Str
         .iter()
         .filter(|item| item.provision_type == ProvisionType::Transitory)
     {
-        output.push_str(&index_link(provision, obsidian));
+        output.push_str(&index_link(
+            provision,
+            &corpus.instrument.short_name,
+            obsidian,
+        ));
     }
     let annexes: Vec<_> = corpus
         .provisions
@@ -429,18 +437,28 @@ fn markdown_index(corpus: &Corpus, targets: &LinkTargets, obsidian: bool) -> Str
     if !annexes.is_empty() {
         output.push_str("\n## Anexos\n\n");
         for provision in annexes {
-            output.push_str(&index_link(provision, obsidian));
+            output.push_str(&index_link(
+                provision,
+                &corpus.instrument.short_name,
+                obsidian,
+            ));
         }
     }
     output
 }
 
-fn index_link(provision: &Provision, obsidian: bool) -> String {
+/// Index entry for one provision. Obsidian links use the full vault path:
+/// with more than one instrument in the vault, bare note stems such as
+/// `articulo-1` are ambiguous across instruments.
+fn index_link(provision: &Provision, instrument_short_name: &str, obsidian: bool) -> String {
     let stem = markdown_filename(provision)
         .trim_end_matches(".md")
         .to_owned();
     if obsidian {
-        format!("- [[{stem}|{}]]\n", provision.label)
+        format!(
+            "- [[Corpus/{instrument_short_name}/{stem}|{}]]\n",
+            provision.label
+        )
     } else {
         format!("- [{}]({stem}.md)\n", provision.label)
     }

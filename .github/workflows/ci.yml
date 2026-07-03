@@ -33,3 +33,6 @@ jobs:
 
       - name: Validate committed LRITF corpus
         run: cargo run --locked -p lex-cli -- validate lritf
+
+      - name: Validate committed DCG-IFPE-2021 corpus
+        run: cargo run --locked -p lex-cli -- validate ifpe-dcg-2021

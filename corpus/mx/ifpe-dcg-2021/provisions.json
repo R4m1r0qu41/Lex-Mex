@@ -1299,13 +1299,31 @@
     },
     "text": "Las presentes Disposiciones entrarán en vigor a los noventa días naturales siguientes al de su publicación en el Diario Oficial de la Federación.",
     "publication_date": "2021-01-28",
-    "effective_from": null,
+    "effective_from": "2021-04-28",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
-    "transitory_effects": []
+    "temporal_status": "effective",
+    "temporal_basis": "llm_inference",
+    "temporal_confidence": 0.99,
+    "review_status": "machine_accepted",
+    "transitory_effects": [
+      {
+        "effect_type": "commencement",
+        "affected_scope": "Las presentes Disposiciones",
+        "application_rule": "new_rule_prospectively",
+        "trigger": {
+          "boundary_type": "relative_period",
+          "date": "2021-04-28",
+          "description": "Noventa días naturales siguientes a la publicación del 2021-01-28."
+        },
+        "end_condition": {
+          "boundary_type": "none",
+          "date": null,
+          "description": null
+        },
+        "responsible_authorities": [],
+        "verification_status": "confirmed_by_source_text"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -1320,13 +1338,31 @@
     },
     "text": "Las instituciones de fondos de pago electrónico tendrán un plazo máximo de seis meses, contados a partir de la entrada en vigor de estas Disposiciones, para dar cumplimiento a lo establecido en el artículo 15 del presente instrumento.",
     "publication_date": "2021-01-28",
-    "effective_from": null,
+    "effective_from": "2021-04-28",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
-    "transitory_effects": []
+    "temporal_status": "effective",
+    "temporal_basis": "llm_inference",
+    "temporal_confidence": 0.98,
+    "review_status": "machine_accepted",
+    "transitory_effects": [
+      {
+        "effect_type": "adaptation_period",
+        "affected_scope": "Cumplimiento por las instituciones de fondos de pago electrónico del artículo 15",
+        "application_rule": "transitional_permission",
+        "trigger": {
+          "boundary_type": "effective_date",
+          "date": "2021-04-28",
+          "description": "Entrada en vigor de las Disposiciones."
+        },
+        "end_condition": {
+          "boundary_type": "relative_period",
+          "date": "2021-10-28",
+          "description": "Seis meses contados a partir de la entrada en vigor."
+        },
+        "responsible_authorities": [],
+        "verification_status": "confirmed_by_source_text"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -1341,13 +1377,31 @@
     },
     "text": "Las instituciones de fondos de pago electrónico contarán con un plazo de nueve meses, contados a partir de la entrada en vigor de las presentes Disposiciones, para dar cumplimiento a lo establecido en los artículos 16 y 17 de este instrumento.",
     "publication_date": "2021-01-28",
-    "effective_from": null,
+    "effective_from": "2021-04-28",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
-    "transitory_effects": []
+    "temporal_status": "effective",
+    "temporal_basis": "llm_inference",
+    "temporal_confidence": 0.98,
+    "review_status": "machine_accepted",
+    "transitory_effects": [
+      {
+        "effect_type": "adaptation_period",
+        "affected_scope": "Cumplimiento por las instituciones de fondos de pago electrónico de los artículos 16 y 17",
+        "application_rule": "transitional_permission",
+        "trigger": {
+          "boundary_type": "effective_date",
+          "date": "2021-04-28",
+          "description": "Entrada en vigor de las Disposiciones."
+        },
+        "end_condition": {
+          "boundary_type": "relative_period",
+          "date": "2022-01-28",
+          "description": "Nueve meses contados a partir de la entrada en vigor."
+        },
+        "responsible_authorities": [],
+        "verification_status": "confirmed_by_source_text"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -1362,13 +1416,31 @@
     },
     "text": "Las personas a que se refiere la disposición OCTAVA Transitoria de la Ley para Regular las Instituciones de Tecnología Financiera publicada en el Diario Oficial el 9 de marzo de 2018, tendrán un plazo de seis meses contados a partir de la obtención de su autorización para actuar como institución de fondos de pago electrónico, para cumplir con lo establecido en los artículos 44, 45, 46 y 47 de las presentes Disposiciones.",
     "publication_date": "2021-01-28",
-    "effective_from": null,
+    "effective_from": "2021-04-28",
     "effective_to": null,
-    "temporal_status": "unknown",
-    "temporal_basis": null,
-    "temporal_confidence": null,
-    "review_status": "not_analyzed",
-    "transitory_effects": []
+    "temporal_status": "effective",
+    "temporal_basis": "llm_inference",
+    "temporal_confidence": 0.97,
+    "review_status": "machine_accepted",
+    "transitory_effects": [
+      {
+        "effect_type": "adaptation_period",
+        "affected_scope": "Cumplimiento de los artículos 44, 45, 46 y 47 por las personas referidas en la disposición OCTAVA Transitoria de la Ley para Regular las Instituciones de Tecnología Financiera",
+        "application_rule": "transitional_permission",
+        "trigger": {
+          "boundary_type": "authority_action",
+          "date": null,
+          "description": "Obtención individual de la autorización para actuar como institución de fondos de pago electrónico."
+        },
+        "end_condition": {
+          "boundary_type": "relative_period",
+          "date": null,
+          "description": "Seis meses contados a partir de la obtención de la autorización."
+        },
+        "responsible_authorities": [],
+        "verification_status": "external_verification_required"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
