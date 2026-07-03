@@ -32,9 +32,9 @@ routing, canonical data, and publication.
 - Rust workspace with five focused crates:
   - `lex-core`: canonical types and temporal/review state transitions.
   - `lex-source`: source configuration, acquisition, metadata, and hashing.
-  - `lex-parse`: PDF and DOF-HTML extraction, LRITF and DCG parsing,
-    reform-transitory isolation, reference extraction, and structural
-    validation.
+  - `lex-parse`: PDF and DOF-HTML extraction, LRITF and DCG parsing (main
+    document and independently sourced annexes), reform-transitory
+    isolation, reference extraction, and structural validation.
   - `lex-export`: canonical JSON, standard Markdown, and Obsidian publication
     with cross-instrument link targets.
   - `lex-cli`: slug-routed commands and end-to-end pipeline orchestration.
@@ -51,16 +51,27 @@ routing, canonical data, and publication.
 
 - Cámara de Diputados adapter for LRITF; CNBV adapter for the DCG.
 - Official PDF download with HTTP metadata and SHA-256 hashing.
+- The DCG's eight annexes are acquired as CNBV's own dedicated per-annex
+  PDFs, not extracted from the main document. CNBV publishes them from the
+  instrument's row on the Normatividad page via a "Ver más" panel backed by
+  `NormatividadAjax.svc/ResolucionesYAnexos?normaId=1036`; that endpoint
+  returns each annex's URL and order (and would list any amending
+  resolution, of which this instrument currently has none). Each annex PDF
+  is fetched, hashed, and extracted the same way as the main document, with
+  per-annex manifests in `annex-source-manifests.json`.
 - Direct acquisition of the formal DOF publication for the DCG (código
-  5610487), whose note uniquely contains the eight annex bodies, recorded in
-  `formal-source-manifest.json`.
+  5610487) for promulgation-date provenance and cross-verification,
+  recorded in `formal-source-manifest.json`; its text is not used for
+  canonical content.
 - Deterministic DOF HTML text extraction in Rust (block structure, table
-  cells joined with ` | `, DOF character entities).
+  cells joined with ` | `, DOF character entities), retained for the formal
+  source and available for future formal-source needs.
 - Public intermediate CA certificates shipped in the CNBV adapter because
   both official hosts serve incomplete TLS chains; each chains to a standard
   root.
-- Temporary PDF extraction through Poppler `pdftotext`; the DCG keeps
-  form-feed page markers for deterministic paragraph merging.
+- Temporary PDF extraction through Poppler `pdftotext`; the DCG's main
+  document and annexes keep form-feed page markers for deterministic
+  paragraph merging.
 - Source URL, publisher, retrieval timestamp, content type, content length,
   HTTP metadata, source SHA-256, extracted-text SHA-256, extraction tool,
   parser version, and schema version preserved per acquisition.
@@ -72,14 +83,16 @@ Current recorded source hashes:
   `d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491`
 - LRITF extracted-text SHA-256:
   `429a8916f3b1aa7035c0b700e27cd132a3af1662b1661ac703b9b0c7847b25a6`
-- DCG CNBV PDF SHA-256:
+- DCG CNBV main PDF SHA-256:
   `493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0`
-- DCG extracted-text SHA-256:
+- DCG main extracted-text SHA-256:
   `ecbce994c6fe5aac9843addedc77f22db6dbdbb3a613f1873eb240c88fa751a6`
-- DCG formal DOF publication SHA-256:
+- DCG formal DOF publication SHA-256 (provenance only):
   `93c84d47e3e07a3e394fa56253efc3ce615eed497140d01336462c69788d8cef`
-- DCG formal extracted-text SHA-256:
-  `d28a869927b341c3a57fabd2075dff8a40c39fe50c37cc347282b00f4da311e8`
+- DCG annex PDF SHA-256 values, recorded in order in
+  `annex-source-manifests.json`: `668abe9a…`, `b741cb02…`, `3ea5c47d…`,
+  `9baefef4…`, `7e4d63c6…`, `9d12f997…`, `3b23ad52…`, `e3192868…`
+  (annexes 1–8 respectively).
 
 ### Parsing and canonical corpus
 
@@ -92,8 +105,14 @@ Current recorded source hashes:
   title/chapter/section/apartado model.
 - Article 1's two-column term/definition layout is reconstructed
   deterministically; all 26 defined terms survive with their definitions.
-- Word-level fidelity checks against the extracted sources show no missing,
-  duplicated, or reordered body text for articles, transitories, or annexes.
+- Each annex is parsed from its own dedicated CNBV PDF using the same
+  paragraph and page-break rules as an article; its first line must be its
+  own "ANEXO N" heading, cross-checked against the annex's position in the
+  adapter's ordered URL list.
+- Word-level fidelity checks against the extracted sources show zero missing
+  or added words for articles, transitories, and all eight annexes — only
+  each annex's own heading line is intentionally separated into its `label`
+  field rather than kept in `text`.
 - Canonical JSON stored under `corpus/mx/lritf/` and
   `corpus/mx/ifpe-dcg-2021/`.
 - Structural validation report generation per instrument.
@@ -205,12 +224,14 @@ preservation across reruns.
   block.
 - Page-break paragraph behavior in both directions: sentence-final breaks
   preserve the paragraph boundary; mid-sentence breaks merge.
-- Transitory starts/boundaries and annex table-row extraction.
+- Transitory starts/boundaries and independent per-annex PDF parsing,
+  including page-number-footer removal and a mismatched-heading rejection.
 - Cross-instrument reference policy: full-name LRITF citations resolve,
   title citations carry qualifiers, the short-form `de la Ley,` citation
   creates no edge (regression for a defect found during implementation),
   transitory citations resolve, unconfigured external laws stay unlinked.
-- Deterministic HTML extraction of blocks, table cells, and DOF entities.
+- Deterministic HTML extraction of blocks, table cells, and DOF entities
+  (used for the formal source, retained for future formal-source needs).
 
 `lex-export` (3): stable filenames, human-note boundary, link injection
 without canonical-text changes.
@@ -219,26 +240,36 @@ without canonical-text changes.
 
 ### Manual and integration testing completed
 
-- Both DCG sources fetched through the pipeline; byte hashes matched the
-  documented reconnaissance values exactly and the DOF fetch was verified
-  byte-deterministic across repeated downloads.
+- All ten DCG sources (main PDF, formal DOF note, and all 8 annex PDFs)
+  fetched through the pipeline; every byte hash matched independently
+  downloaded copies exactly, confirming deterministic acquisition.
+- The CNBV per-annex PDFs were discovered by inspecting the Normatividad
+  page's "Ver más" panel and its backing
+  `NormatividadAjax.svc/ResolucionesYAnexos` endpoint directly (JRH pointed
+  out this mechanism); an initial implementation had instead sourced annex
+  bodies from the formal DOF note. A word-level comparison confirmed the DOF
+  note and the dedicated CNBV PDFs carry identical annex content, and the
+  pipeline was switched to the CNBV PDFs as the correct operational source.
 - Word-level fidelity comparison of canonical text against the extracted
-  CNBV PDF body and the DOF annex region: no missing, duplicated, or
-  reordered content; the only differences are article heading tokens and
-  structural heading subject lines.
+  CNBV PDF body and against each of the eight dedicated annex PDFs: zero
+  missing or added words; only each provision's own heading line is
+  structurally separated into `label`.
 - All 16 DCG→LRITF edges reviewed individually against their source
   sentences; all internal transitory citations (SEGUNDO→15, TERCERO→16/17,
   CUARTO→44–47) verified.
 - A completeness scan of every numeric `artículo N` citation in the DCG found
-  edges for all except the two Código de Comercio citations in Anexo 8 and
+  edges for all except the three Código de Comercio citations in Anexo 8 and
   the short-form `la Ley` citations, which the documented policy leaves
   unlinked.
 - The complete network acquisition, extraction, parsing, temporal analysis
-  (Codex gpt-5.5), validation, Markdown export, and Obsidian publication
-  cycle was executed for the DCG.
-- LRITF regression: `link lritf`, `validate lritf`, and both exports rerun;
-  the committed LRITF corpus, its 95 references, and its audit history are
-  byte-for-byte unchanged.
+  (Codex gpt-5.5, run twice — once before and once after the annex-source
+  correction, since reparsing resets provision-level temporal state and the
+  transitories' evidence text was unaffected by the annex change), reference
+  linking, validation, Markdown export, and Obsidian publication cycle was
+  executed for the DCG.
+- LRITF regression: `link lritf`, `validate lritf`, and both exports rerun
+  after the annex-source correction; the committed LRITF corpus, its 95
+  references, and its audit history are byte-for-byte unchanged.
 - Obsidian vault republished with both instruments; the live Obsidian CLI
   reported no unresolved links, and cross-instrument backlinks (for example,
   LRITF Article 48 ← DCG) navigate correctly.
@@ -298,8 +329,11 @@ Checks rerun successfully on 2026-07-03:
 
 - No automated CLI integration tests exercise full command flows.
 - Network acquisition and live model execution remain manually exercised.
-- Nested DOF tables flatten their inner rows into the containing cell's line;
-  annex content is complete but deep table nesting loses row boundaries.
+- Annex text uses the same prose-paragraph normalization as articles, not a
+  table-cell reconstruction. Anexo 1's dense multi-column risk-indicator
+  matrix therefore renders as long, column-interleaved paragraphs rather
+  than a readable grid; no content is lost (word-level fidelity is exact),
+  only that table's visual row/column structure.
 
 ## 6. Suggested next steps
 

@@ -27,6 +27,16 @@
   "formal_publication_urls": {
     "2021-01-28": "https://www.dof.gob.mx/nota_detalle_popup.php?codigo=5610487"
   },
+  "annex_pdf_urls": [
+    "https://www.cnbv.gob.mx/Anexos/ANEXO 1 IFPES.pdf",
+    "https://www.cnbv.gob.mx/Anexos/ANEXO 2 IFPES.pdf",
+    "https://www.cnbv.gob.mx/Anexos/ANEXO 3 IFPES.pdf",
+    "https://www.cnbv.gob.mx/Anexos/ANEXO 4 IFPES.pdf",
+    "https://www.cnbv.gob.mx/Anexos/ANEXO 5 IFPES.pdf",
+    "https://www.cnbv.gob.mx/Anexos/ANEXO 6 IFPES.pdf",
+    "https://www.cnbv.gob.mx/Anexos/ANEXO 7 IFPES.pdf",
+    "https://www.cnbv.gob.mx/Anexos/ANEXO 8 IFPES.pdf"
+  ],
   "definition_layout_articles": ["1"],
   "tls_intermediate_ca_pems": [
     "globalsign-rsa-ov-ssl-ca-2018.pem",

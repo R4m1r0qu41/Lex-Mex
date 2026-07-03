@@ -2,11 +2,11 @@
   "schema_version": "0.1.0",
   "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
   "request_sha256": "f25ffd64ae30504f66087ccf2e3db1a227eed8a678ce5fdb8f44654d8a435589",
-  "response_sha256": "335de55b566b11a8efbd6501422ab7b73bfb98dba015dcdf211f407fb37da831",
+  "response_sha256": "17447786a86f561af4ea885333105994771637e21ee6f713d4d21fc0d34cfd5d",
   "response_id": null,
   "model": "gpt-5.5",
   "prompt_version": "temporal-v2",
-  "analyzed_at": "2026-07-03T08:42:58.984959Z",
+  "analyzed_at": "2026-07-03T09:20:56.458092Z",
   "determinations": [
     {
       "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:transitory:primero",
@@ -29,9 +29,9 @@
           "affected_scope": "Las presentes Disposiciones",
           "application_rule": "new_rule_prospectively",
           "trigger": {
-            "boundary_type": "relative_period",
+            "boundary_type": "effective_date",
             "date": "2021-04-28",
-            "description": "Noventa días naturales siguientes a la publicación del 2021-01-28."
+            "description": "Nonagésimo día natural siguiente a la publicación del 2021-01-28."
           },
           "end_condition": {
             "boundary_type": "none",
@@ -49,7 +49,7 @@
       "publication_date": "2021-01-28",
       "effective_from": "2021-04-28",
       "effective_to": null,
-      "confidence": 0.98,
+      "confidence": 0.99,
       "basis": "llm_inference",
       "supporting_text": [
         "Las instituciones de fondos de pago electrónico tendrán un plazo máximo de seis meses, contados a partir de la entrada en vigor de estas Disposiciones, para dar cumplimiento a lo establecido en el artículo 15 del presente instrumento."
@@ -61,7 +61,7 @@
       "effects": [
         {
           "effect_type": "adaptation_period",
-          "affected_scope": "Cumplimiento por las instituciones de fondos de pago electrónico del artículo 15",
+          "affected_scope": "Instituciones de fondos de pago electrónico respecto del cumplimiento del artículo 15",
           "application_rule": "transitional_permission",
           "trigger": {
             "boundary_type": "effective_date",
@@ -69,9 +69,9 @@
             "description": "Entrada en vigor de las Disposiciones."
           },
           "end_condition": {
-            "boundary_type": "relative_period",
+            "boundary_type": "fixed_date",
             "date": "2021-10-28",
-            "description": "Seis meses contados a partir de la entrada en vigor."
+            "description": "Vencimiento del plazo máximo de seis meses contado desde la entrada en vigor."
           },
           "responsible_authorities": [],
           "verification_status": "confirmed_by_source_text"
@@ -84,7 +84,7 @@
       "publication_date": "2021-01-28",
       "effective_from": "2021-04-28",
       "effective_to": null,
-      "confidence": 0.98,
+      "confidence": 0.99,
       "basis": "llm_inference",
       "supporting_text": [
         "Las instituciones de fondos de pago electrónico contarán con un plazo de nueve meses, contados a partir de la entrada en vigor de las presentes Disposiciones, para dar cumplimiento a lo establecido en los artículos 16 y 17 de este instrumento."
@@ -96,7 +96,7 @@
       "effects": [
         {
           "effect_type": "adaptation_period",
-          "affected_scope": "Cumplimiento por las instituciones de fondos de pago electrónico de los artículos 16 y 17",
+          "affected_scope": "Instituciones de fondos de pago electrónico respecto del cumplimiento de los artículos 16 y 17",
           "application_rule": "transitional_permission",
           "trigger": {
             "boundary_type": "effective_date",
@@ -104,9 +104,9 @@
             "description": "Entrada en vigor de las Disposiciones."
           },
           "end_condition": {
-            "boundary_type": "relative_period",
+            "boundary_type": "fixed_date",
             "date": "2022-01-28",
-            "description": "Nueve meses contados a partir de la entrada en vigor."
+            "description": "Vencimiento del plazo de nueve meses contado desde la entrada en vigor."
           },
           "responsible_authorities": [],
           "verification_status": "confirmed_by_source_text"
@@ -131,12 +131,12 @@
       "effects": [
         {
           "effect_type": "adaptation_period",
-          "affected_scope": "Cumplimiento de los artículos 44, 45, 46 y 47 por las personas referidas en la disposición OCTAVA Transitoria de la Ley para Regular las Instituciones de Tecnología Financiera",
+          "affected_scope": "Personas comprendidas en la disposición OCTAVA Transitoria de la Ley para Regular las Instituciones de Tecnología Financiera respecto del cumplimiento de los artículos 44, 45, 46 y 47",
           "application_rule": "transitional_permission",
           "trigger": {
-            "boundary_type": "authority_action",
+            "boundary_type": "external_event",
             "date": null,
-            "description": "Obtención individual de la autorización para actuar como institución de fondos de pago electrónico."
+            "description": "Obtención de la autorización para actuar como institución de fondos de pago electrónico."
           },
           "end_condition": {
             "boundary_type": "relative_period",

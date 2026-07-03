@@ -101,14 +101,30 @@ electrónico (`ifpe-dcg-2021`) are jointly issued by the Comisión Nacional
 Bancaria y de Valores and Banco de México; the instrument records both
 issuing authorities explicitly, independent of which site hosts the file.
 The operational CNBV PDF contains the índice, considerandos, seven chapters,
-59 articles, and four transitories, but only lists the eight annexes: their
-bodies appear solely in the formal DOF publication (código 5610487). The
-pipeline therefore acquires both sources with full provenance. The CNBV PDF
-remains the operational source for articles and transitories;
-`formal-source-manifest.json` records the DOF acquisition, whose
-deterministic HTML text extraction supplies the annex bodies as first-class
-`annex` provisions. Annex table rows are preserved as single lines with
-` | ` cell separators.
+59 articles, and four transitories, but only lists the eight annexes by
+title; it does not contain their bodies.
+
+An initial implementation treated the formal DOF publication (código
+5610487) as the only available source for annex bodies. JRH pointed out that
+the CNBV Normatividad page's "Ver más" panel — visible per row, alongside
+`Descargar` and any `Resoluciones Modificatorias` — links each annex as its
+own PDF hosted directly on `www.cnbv.gob.mx`. That panel is populated by
+`GET /_vti_bin/Cnbv.Webpart.Normatividad/NormatividadAjax.svc/ResolucionesYAnexos?normaId=1036`
+(the instrument's row ID), which returns a JSON array of annex descriptions,
+URLs, and order; the same response's empty `Resoluciones` array confirms no
+amending resolution has been issued for this instrument since 2021-01-28.
+These per-annex PDFs are the correct operational annex source: they are
+hosted by the same operational publisher as the main PDF, they are the
+mechanism CNBV itself uses to publish annexes from that page, and a
+word-level fidelity comparison confirms their content is identical to the
+DOF note's. The pipeline now fetches, hashes, and extracts each of the eight
+annex PDFs as part of the operational acquisition (`annex-source-manifests.json`,
+one manifest per annex, ordered) and parses each into its own `annex`
+provision using the same paragraph and page-break rules as an article. The
+formal DOF publication is still fetched and hashed for promulgation-date
+provenance and cross-verification, per the standing rule to attach a formal
+source when a decision depends on a later official act, but its text is no
+longer parsed for canonical content.
 
 Both official hosts (www.cnbv.gob.mx and www.dof.gob.mx) serve incomplete
 TLS certificate chains. The adapter ships the missing public intermediate CA
@@ -129,6 +145,22 @@ until one ends with `:`. The adapter names definition-layout articles
 explicitly. Heading context gains optional `section` and `apartado` levels
 for Chapter II; heading subject lines remain structural context and are not
 inserted into provision text, matching the LRITF chapter model.
+
+Each annex PDF is parsed independently: its first non-blank, non-page-number
+line must be its own "ANEXO N" / "Anexo N" heading (cross-checked against
+the annex number implied by its position in the adapter's `annex_pdf_urls`),
+and everything after it — including the subtitle — accumulates into body
+paragraphs using the identical article rules. A bare 1-3 digit line is
+treated as a page-number footer and dropped without affecting paragraph
+boundaries. This is deliberately the same prose-oriented normalization used
+for articles, not a bespoke table-cell reconstruction: Annexo 1's dense
+multi-column risk-indicator matrix therefore renders as long, harder-to-scan
+paragraphs rather than a gridded table, since a source-position-aware table
+reconstruction would be exactly the "immature PDF parser" the project
+already avoids for the main text. No content is lost — a word-level
+comparison against the extracted PDF text found zero missing or added
+words across all eight annexes — only the visual row/column structure of
+that one dense table.
 
 ## 2026-07-03 — Cross-instrument references and title citations
 

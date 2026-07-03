@@ -60,9 +60,7 @@ e) Defina la prioridad de recuperación para cada uno de los procesos.
 
 f) Determine el tiempo objetivo de recuperación (conocido como RTO, por sus siglas en inglés), para cada uno de los servicios y procesos. En el caso de los procesos considerados como críticos, el plazo de recuperación no deberá exceder de dos horas.
 
-g) Establezca el punto objetivo de recuperación (conocido como RPO, por sus siglas en inglés), entendido como la máxima pérdida de datos tolerable para cada uno de los servicios y procesos, considerando que la información de aquellas operaciones ya efectuadas no pueda perderse en ningún escenario y que se conozca, de forma oportuna, el estado que tenía cada operación
-
-celebrada al momento en que se presentó la Contingencia Operativa.
+g) Establezca el punto objetivo de recuperación (conocido como RPO, por sus siglas en inglés), entendido como la máxima pérdida de datos tolerable para cada uno de los servicios y procesos, considerando que la información de aquellas operaciones ya efectuadas no pueda perderse en ningún escenario y que se conozca, de forma oportuna, el estado que tenía cada operación celebrada al momento en que se presentó la Contingencia Operativa.
 
 h) Identifique y evalúe los riesgos relacionados con los procesos operativos y servicios de procesamiento y transmisión de datos contratados con proveedores, así como los riesgos relacionados con custodia y resguardo de información de la institución de fondos de pago electrónico.
 

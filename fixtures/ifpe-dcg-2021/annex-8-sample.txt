@@ -1,0 +1,14 @@
+                                                             Anexo 8
+Especificaciones del sistema de información desarrollado por un tercero para el cifrado de información compartida con la Comisión
+                                       Nacional Bancaria y de Valores y el Banco de México
+
+Para efectos de este anexo, los términos con inicial mayúscula utilizados en este, en singular o plural, tendrán los mismos significados
+que los establecidos para dichos términos el Código de Comercio y las Reglas de la Infraestructura Extendida de Seguridad (IES), así como
+los siguientes:
+
+
+ Certificado Digital Calificado:            a aquel Certificado Digital emitido, conforme a las Reglas de la IES, por el Servicio de
+                                            Administración Tributaria, en su carácter de Agencia Certificadora, también denominado
+                                            en las disposiciones de este como “e.firma”, que es almacenado en un archivo digital con
+                                            extensión “.cer” cuando es obtenido ante dicha autoridad de conformidad con las
+                                            disposiciones que esta establezca para tal efecto, así como aquel otro Certificado Digital

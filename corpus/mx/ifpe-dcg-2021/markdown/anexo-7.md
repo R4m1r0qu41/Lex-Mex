@@ -18,9 +18,7 @@ Requerimientos técnicos para realizar Operaciones a través de comisionistas
 
 Los comisionistas o el Administrador de Comisionistas, para garantizar la correcta ejecución de las Operaciones y la seguridad de la información de los Clientes, deberá contar con lo siguiente:
 
-I. Definiciones.
-
-Para efectos del presente anexo, se entenderá por: Identificador Individual, a la cadena de caracteres asignada a cada operador en lo individual.
+I. Definiciones. Para efectos del presente anexo, se entenderá por: Identificador Individual, a la cadena de caracteres asignada a cada operador en lo individual.
 
 II. Descripción de las características técnicas de los sistemas, equipos y aplicaciones que el comisionista o el Administrador de Comisionistas utilizarán para realizar las Operaciones, desde su inicio hasta la afectación de las respectivas cuentas de la institución de fondos de pago electrónico, considerando a todos los participantes involucrados.
 
@@ -38,9 +36,7 @@ e) Detalle del tipo de información de la institución de fondos de pago electr�
 
 f) Procedimiento de validación y pruebas a la instalación de la infraestructura tecnológica del comisionista.
 
-f) Criterios relativos a la composición de las contraseñas o claves de acceso de los operadores y
-
-de los factores de autenticación a Clientes o usuarios del medio de disposición, incluyendo números de identificación personal (NIP).
+a) Criterios relativos a la composición de las contraseñas o claves de acceso de los operadores y de los factores de autenticación a Clientes o usuarios del medio de disposición, incluyendo números de identificación personal (NIP).
 
 III. Requerimientos de la infraestructura tecnológica del comisionista o Administrador de Comisionistas.
 
@@ -50,7 +46,7 @@ La infraestructura tecnológica del comisionista deberá contar con los mecanism
 
 b) Validación de la infraestructura tecnológica del comisionista.
 
-Únicamente la infraestructura tecnológica de los comisionistas autorizados por la institución de fondos de pago electrónico tendrá acceso a la Infraestructura Tecnológica dispuesta por aquella (uso de líneas dedicadas, identificación de direcciones físicas o lógicas, VPN's, firmas digitales, entre otros).
+Únicamente la infraestructura tecnológica de los comisionistas autorizados por la institución de fondos de pago electrónico tendrá acceso a la Infraestructura Tecnológica dispuesta por aquella (uso de líneas dedicadas, identificación de direcciones físicas o lógicas, VPN’s, firmas digitales, entre otros).
 
 Asimismo, la institución de fondos de pago electrónico deberá obtener evidencia de que la infraestructura tecnológica utilizada por los comisionistas, mantienen mecanismos de control que eviten la lectura y extracción de la información de los Clientes por terceros no autorizados.
 
@@ -104,7 +100,7 @@ La infraestructura tecnológica del comisionista deberá generar automáticament
 
 Cuando se alcancen los límites de operación a que se refieren el artículo [48](articulo-48.md) de estas Disposiciones, según corresponda, no se podrán llevar a cabo las Operaciones solicitadas, por lo que la infraestructura tecnológica del comisionista deberá generar comprobantes que indiquen al Cliente dicha situación. Para tales efectos, se deberá proporcionar un comprobante que incluya la leyenda siguiente:
 
-"Transacción no realizada por haber excedido su límite permitido. Pónganse en contacto con su institución de fondos de pago electrónico."
+“Transacción no realizada por haber excedido su límite permitido. Pónganse en contacto con su institución de fondos de pago electrónico.”
 
 Las instituciones de fondos de pago electrónico deberán adjuntar el diseño del comprobante de cada una de las Operaciones a contratar.
 

@@ -6,7 +6,7 @@
   "publisher": "Diario Oficial de la Federación",
   "official_url": "https://www.dof.gob.mx/nota_detalle_popup.php?codigo=5610487",
   "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-  "retrieved_at": "2026-07-03T08:27:03.006454Z",
+  "retrieved_at": "2026-07-03T09:18:29.590624Z",
   "http_status": 200,
   "content_type": "text/html; charset=UTF-8",
   "content_length": 1214371,
@@ -17,5 +17,5 @@
   "extraction_tool": "lex-parse html extractor 0.1.0",
   "parser_version": "0.1.0",
   "schema_version_used": "0.1.0",
-  "resulting_git_commit": "b1aefe6d0578d15a72730b2533bb8e27b02c50e2"
+  "resulting_git_commit": "1045a7905d439cee338176e42d08501929580548"
 }

@@ -25,8 +25,8 @@ use lex_parse::{
     parse_dcg, parse_lritf, validate_corpus,
 };
 use lex_source::{
-    SourceConfig, discover, fetch, fetch_formal, load_config, sha256_hex, write_acquisition,
-    write_manifest,
+    SourceConfig, discover, fetch, fetch_annex, fetch_formal, load_config, sha256_hex,
+    write_acquisition, write_manifest,
 };
 use regex::Regex;
 
@@ -408,6 +408,22 @@ fn run_fetch(context: &InstrumentContext) -> Result<()> {
             formal.manifest.source_sha256
         );
     }
+    if !context.config.annex_pdf_urls.is_empty() {
+        let mut manifests = Vec::with_capacity(context.config.annex_pdf_urls.len());
+        for (index, url) in context.config.annex_pdf_urls.iter().enumerate() {
+            let number = index + 1;
+            let annex = fetch_annex(&context.config, url)?;
+            fs::create_dir_all(&context.paths.work)?;
+            fs::write(context.paths.annex_pdf(number), &annex.bytes)?;
+            println!(
+                "fetched annex {number}: {} bytes; sha256 {}",
+                annex.bytes.len(),
+                annex.manifest.source_sha256
+            );
+            manifests.push(annex.manifest);
+        }
+        write_pretty_json(&manifests, &context.paths.annex_manifests)?;
+    }
     Ok(())
 }
 
@@ -453,6 +469,26 @@ fn run_extract(context: &InstrumentContext) -> Result<()> {
                 .unwrap_or("unavailable")
         );
     }
+    if !context.config.annex_pdf_urls.is_empty() {
+        let mut manifests: Vec<SourceManifest> = read_json(&paths.annex_manifests)
+            .with_context(|| "annex manifests not found; run fetch first")?;
+        for (index, manifest) in manifests.iter_mut().enumerate() {
+            let number = index + 1;
+            let extraction =
+                extract_pdf(&paths.annex_pdf(number), &paths.annex_text(number), true)?;
+            manifest.extracted_text_sha256 = Some(sha256_hex(extraction.text.as_bytes()));
+            manifest.extraction_tool = Some(extraction.tool_version);
+            println!(
+                "extracted annex {number}: {} UTF-8 bytes; sha256 {}",
+                extraction.text.len(),
+                manifest
+                    .extracted_text_sha256
+                    .as_deref()
+                    .unwrap_or("unavailable")
+            );
+        }
+        write_pretty_json(&manifests, &paths.annex_manifests)?;
+    }
     Ok(())
 }
 
@@ -471,17 +507,22 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     let (provisions, formal_manifest) = match config.parser.as_str() {
         "lritf" => (parse_lritf(&raw, publication_date)?, None),
         "ifpe-dcg" => {
-            let formal_text = fs::read_to_string(&paths.formal_text).with_context(|| {
-                format!(
-                    "failed to read {}; run extract first",
-                    paths.formal_text.display()
-                )
-            })?;
             let formal_manifest: SourceManifest = read_json(&paths.formal_manifest)?;
+            let annex_documents = (1..=config.annex_pdf_urls.len())
+                .map(|number| {
+                    let text = fs::read_to_string(paths.annex_text(number)).with_context(|| {
+                        format!(
+                            "failed to read {}; run extract first",
+                            paths.annex_text(number).display()
+                        )
+                    })?;
+                    Ok((u32::try_from(number).expect("annex number fits u32"), text))
+                })
+                .collect::<Result<Vec<_>>>()?;
             (
                 parse_dcg(
                     &raw,
-                    &formal_text,
+                    &annex_documents,
                     &config.instrument_id,
                     publication_date,
                     &config.definition_layout_articles,
@@ -1071,6 +1112,7 @@ struct Paths {
     formal_source: PathBuf,
     formal_text: PathBuf,
     formal_manifest: PathBuf,
+    annex_manifests: PathBuf,
     corpus: PathBuf,
     manifest: PathBuf,
     instrument: PathBuf,
@@ -1094,6 +1136,7 @@ impl Paths {
             formal_source: work.join(format!("{slug}-formal.html")),
             formal_text: work.join(format!("{slug}-formal.txt")),
             formal_manifest: corpus.join("formal-source-manifest.json"),
+            annex_manifests: corpus.join("annex-source-manifests.json"),
             manifest: corpus.join("source-manifest.json"),
             instrument: corpus.join("instrument.json"),
             provisions: corpus.join("provisions.json"),
@@ -1107,5 +1150,14 @@ impl Paths {
             work,
             corpus,
         }
+    }
+
+    /// 1-indexed annex PDF/text paths, matching CNBV's own annex numbering.
+    fn annex_pdf(&self, number: usize) -> PathBuf {
+        self.work.join(format!("annex-{number}.pdf"))
+    }
+
+    fn annex_text(&self, number: usize) -> PathBuf {
+        self.work.join(format!("annex-{number}.txt"))
     }
 }

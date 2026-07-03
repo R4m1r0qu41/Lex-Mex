@@ -21,9 +21,9 @@ Las instituciones de fondos de pago electrónico tendrán un plazo máximo de se
 
 ### Efecto 1 — adaptation_period
 
-- **Alcance afectado:** Cumplimiento por las instituciones de fondos de pago electrónico del artículo 15
+- **Alcance afectado:** Instituciones de fondos de pago electrónico respecto del cumplimiento del artículo 15
 - **Regla de aplicación:** transitional_permission
 - **Detonante:** effective_date (2021-04-28): Entrada en vigor de las Disposiciones.
-- **Condición de terminación:** relative_period (2021-10-28): Seis meses contados a partir de la entrada en vigor.
+- **Condición de terminación:** fixed_date (2021-10-28): Vencimiento del plazo máximo de seis meses contado desde la entrada en vigor.
 - **Autoridades responsables:** Ninguna identificada
 - **Verificación:** confirmed_by_source_text

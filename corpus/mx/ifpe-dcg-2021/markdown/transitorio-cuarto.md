@@ -21,9 +21,9 @@ Las personas a que se refiere la disposición [OCTAVA Transitoria](../../lritf/m
 
 ### Efecto 1 — adaptation_period
 
-- **Alcance afectado:** Cumplimiento de los artículos 44, 45, 46 y 47 por las personas referidas en la disposición OCTAVA Transitoria de la Ley para Regular las Instituciones de Tecnología Financiera
+- **Alcance afectado:** Personas comprendidas en la disposición OCTAVA Transitoria de la Ley para Regular las Instituciones de Tecnología Financiera respecto del cumplimiento de los artículos 44, 45, 46 y 47
 - **Regla de aplicación:** transitional_permission
-- **Detonante:** authority_action: Obtención individual de la autorización para actuar como institución de fondos de pago electrónico.
+- **Detonante:** external_event: Obtención de la autorización para actuar como institución de fondos de pago electrónico.
 - **Condición de terminación:** relative_period: Seis meses contados a partir de la obtención de la autorización.
 - **Autoridades responsables:** Ninguna identificada
 - **Verificación:** external_verification_required

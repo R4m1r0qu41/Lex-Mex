@@ -61,12 +61,18 @@ pub struct SourceConfig {
     pub expected_annexes: usize,
     #[serde(default)]
     pub issuing_authorities: Vec<String>,
-    /// Formal publication acquired directly (for example, the DOF note that
-    /// uniquely carries annex bodies). Distinct from
+    /// Formal publication acquired directly for promulgation-date
+    /// provenance and cross-verification. Distinct from
     /// `formal_publication_urls`, which only records locator URLs.
     #[serde(default)]
     pub formal_source: Option<FormalSource>,
     pub formal_publication_urls: BTreeMap<String, Url>,
+    /// URLs of annex PDFs published by the operational host separately from
+    /// the main document, in annex order (index 0 is annex 1). Discovered,
+    /// for CNBV instruments, through the Normatividad page's "Ver más"
+    /// panel (`NormatividadAjax.svc/ResolucionesYAnexos`).
+    #[serde(default)]
+    pub annex_pdf_urls: Vec<Url>,
     #[serde(default)]
     pub relevant_reform_transitories: BTreeMap<String, Vec<String>>,
     /// Articles whose source layout is a two-column term/definition table
@@ -139,8 +145,8 @@ pub fn fetch(config: &SourceConfig) -> Result<Acquisition> {
 }
 
 /// Fetch the formal publication configured for the instrument, when the
-/// formal source itself must be acquired (for example, annex bodies published
-/// only in the DOF note).
+/// formal source itself must be acquired for provenance (for example,
+/// cross-verifying the promulgation date of a decision-relevant transitory).
 pub fn fetch_formal(config: &SourceConfig) -> Result<Option<Acquisition>> {
     let Some(formal) = &config.formal_source else {
         return Ok(None);
@@ -153,6 +159,19 @@ pub fn fetch_formal(config: &SourceConfig) -> Result<Option<Acquisition>> {
         &formal.publisher,
     )
     .map(Some)
+}
+
+/// Fetch one annex PDF published directly by the operational host. The
+/// annex is treated as part of the operational source: same publisher, same
+/// TLS trust configuration.
+pub fn fetch_annex(config: &SourceConfig, url: &Url) -> Result<Acquisition> {
+    fetch_resource(
+        config,
+        url,
+        SourceFormat::Pdf,
+        &config.operational_source,
+        &config.publisher,
+    )
 }
 
 fn fetch_resource(

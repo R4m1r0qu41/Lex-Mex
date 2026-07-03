@@ -18,39 +18,23 @@ Reporte en materia de Contingencias Operativas
 
 I. Información de la institución de fondos de pago electrónico
 
-a) Nombre de la institución de fondos de pago electrónico.
-
-b) Autor del reporte.
-
-c) Puesto/área
-
-d) Correo electrónico
-
-e) Teléfono
+a) Nombre de la institución de fondos de pago electrónico. b) Autor del reporte. c) Puesto/área d) Correo electrónico e) Teléfono
 
 II. Información detallada de la Contingencia Operativa
 
-Descripción de la Contingencia Operativa
+Descripción de la Contingencia Operativa a) Fecha y hora en que ocurrió b) Fecha y hora en que se detectó c) Duración de la contingencia operativa
 
-a) | Fecha y hora en que ocurrió
+d) Ubicación(es) de la instalación(es) afectada(s) (centro de datos, oficinas)
 
-b) | Fecha y hora en que se detectó
+e) Fallas o mal funcionamiento en la Infraestructura Tecnológica que soporta los servicios Si ( ) No ( )
 
-c) | Duración de la contingencia operativa
+Afectación en los componentes críticos de la Infraestructura Tecnológica que haya tenido como g) Si ( ) No ( ) consecuencia la activación total o parcial del Plan de Continuidad de Negocio.
 
-d) | Ubicación(es) de la instalación(es) afectada(s) (centro de datos, oficinas)
+h) Indicar si el evento se originó de un incidente de ciberseguridad. Si ( ) No ( ) Muy Alto ☐ Alto ☐ i) Señale el Impacto de los eventos (según la “Escala de Impacto”): Medio ☐ Bajo ☐
 
-e) | Fallas o mal funcionamiento en la Infraestructura Tecnológica que soporta los servicios | Si ( ) | No ( )
+¿La Infraestructura Tecnológica involucrada en la contingencia operativa es administrada por j) Si ( ) No ( ) terceros?
 
-g) | Afectación en los componentes críticos de la Infraestructura Tecnológica que haya tenido como consecuencia la activación total o parcial del Plan de Continuidad de Negocio. | Si ( ) | No ( )
-
-h) | Indicar si el evento se originó de un incidente de ciberseguridad. | Si ( ) | No ( )
-
-i) | Señale el Impacto de los eventos (según la "Escala de Impacto"): | Muy Alto  Alto  Medio  Bajo 
-
-j) | ¿La Infraestructura Tecnológica involucrada en la contingencia operativa es administrada por terceros? | Si ( ) | No ( )
-
-k) | En caso de ser afirmativo el inciso j), detallar datos del proveedor y servicios proporcionados
+k) En caso de ser afirmativo el inciso j), detallar datos del proveedor y servicios proporcionados
 
 II. Clasificar la contingencia operativa reportada con base en las siguientes causas que provocaron las contingencias operativas:
 
@@ -58,102 +42,30 @@ Fallas en la Infraestructura Tecnológica que soporta los servicios o Afectació
 
 Fallas o mal funcionamiento
 
-Dispositivos | Si ( ) | No ( )
+Dispositivos Si ( ) No ( ) Sistemas Si ( ) No ( ) Telecomunicaciones Si ( ) No ( ) Servicios Si ( ) No ( ) Bases de Datos Si ( ) No ( ) Equipos de terceros Si ( ) No ( ) Otros (especificar) Daño no intencional o accidental
 
-Sistemas | Si ( ) | No ( )
+Errores en procedimientos o controles Si ( ) No ( ) Mencione los procedimientos o controles Cambios indebidos a datos Si ( ) No ( ) Otro(s):
 
-Telecomunicaciones | Si ( ) | No ( )
-
-Servicios | Si ( ) | No ( )
-
-Bases de Datos | Si ( ) | No ( )
-
-Equipos de terceros | Si ( ) | No ( )
-
-Otros (especificar)
-
-Daño no intencional o accidental
-
-Errores en procedimientos o controles | Si ( ) | No ( )
-
-Mencione los procedimientos o controles
-
-Cambios indebidos a datos | Si ( ) | No ( )
-
-Otro(s):
-
-Incidente de ciberseguridad
-
-Dispositivos | Si ( ) | No ( )
-
-Sistemas | Si ( ) | No ( )
-
-Telecomunicaciones | Si ( ) | No ( )
-
-Servicios | Si ( ) | No ( )
-
-Bases de Datos | Si ( ) | No ( )
-
-Equipos de terceros | Si ( ) | No ( )
-
-Otros (especificar)
+Incidente de ciberseguridad Dispositivos Si ( ) No ( ) Sistemas Si ( ) No ( ) Telecomunicaciones Si ( ) No ( ) Servicios Si ( ) No ( ) Bases de Datos Si ( ) No ( ) Equipos de terceros Si ( ) No ( ) Otros (especificar)
 
 Afectación por escenarios diferentes a afectaciones en la Infraestructura Tecnológica
 
 Interrupción o falta de insumos
 
-Manifestaciones | Si ( ) | No ( )
-
-Huelgas | Si ( ) | No ( )
-
-Energía | Si ( ) | No ( )
-
-Agua | Si ( ) | No ( )
+Manifestaciones Si ( ) No ( ) Huelgas Si ( ) No ( ) Energía Si ( ) No ( ) Agua Si ( ) No ( )
 
 Otros (especificar)
 
 Desastres naturales o ambientales
 
-Terremotos | Si ( ) | No ( )
+Terremotos Si ( ) No ( ) Inundaciones Si ( ) No ( ) Huracanes Si ( ) No ( ) Incendios Si ( ) No ( )
 
-Inundaciones | Si ( ) | No ( )
+Otros (especificar) Cuantificación provocada por la contingencia operativa ¿La contingencia operativa ocasionó una pérdida monetaria para los Clientes o para la propia Si ( ) No ( ) institución? Pérdida monetaria $ Número de Clientes afectados
 
-Huracanes | Si ( ) | No ( )
+IV. Informe de la descripción de la contingencia operativa reportada Descripción detallada de las causas y diagnóstico de la contingencia operativa (Señalar causa raíz a) y cómo fue determinada) Acciones implementadas para solventar los problemas presentados (acciones correctivas) b) (Señale cronología y descripción de lo realizado) c) Indicar los controles que fallaron ¿Qué acciones preventivas y correctivas se llevarán a cabo para mitigar el riesgo de ocurrencia d) de una situación similar? Plan de trabajo para la atención de acciones correctivas que al efecto se elaboró el cual deberá contener al menos el personal responsable de su diseño, implementación, ejecución y seguimiento, plazos para su ejecución, detalle de las actividades realizadas y por realizar, así e) como los recursos técnicos, materiales y humanos empleados
 
-Incendios | Si ( ) | No ( )
-
-Otros (especificar)
-
-Cuantificación provocada por la contingencia operativa
-
-¿La contingencia operativa ocasionó una pérdida monetaria para los Clientes o para la propia institución? | Si ( ) | No ( )
-
-Pérdida monetaria | $
-
-Número de Clientes afectados
-
-IV. Informe de la descripción de la contingencia operativa reportada
-
-a) | Descripción detallada de las causas y diagnóstico de la contingencia operativa (Señalar causa raíz y cómo fue determinada)
-
-b) | Acciones implementadas para solventar los problemas presentados (acciones correctivas) (Señale cronología y descripción de lo realizado)
-
-c) | Indicar los controles que fallaron
-
-d) | ¿Qué acciones preventivas y correctivas se llevarán a cabo para mitigar el riesgo de ocurrencia de una situación similar?
-
-e) | Plan de trabajo para la atención de acciones correctivas que al efecto se elaboró el cual deberá contener al menos el personal responsable de su diseño, implementación, ejecución y seguimiento, plazos para su ejecución, detalle de las actividades realizadas y por realizar, así como los recursos técnicos, materiales y humanos empleados
-
-f) | Información Adicional (Indique todo aquello que considere útil para complementar este informe)
+Información Adicional (Indique todo aquello que considere útil para complementar este informe) f)
 
 Nombre y firma del representante del Órgano de Administración
 
-En la fracción III del presente Anexo, se deberán describir las razones que lo motivaron a clasificar el incidente teniendo como base la siguiente "Escala de Impacto":
-
-- "Crítico" (P.ej. interrupción de procesos esenciales del negocio que afectan otros recursos)
-
-- "Alto" (P.ej. interrupción de procesos primarios del negocio)
-
-- "Medio" (P.ej. es posible continuar trabajando, usando una solución alterna)
-
-- "Bajo" (P.ej. interrupción de procesos secundarias del negocio)
+En la fracción III del presente Anexo, se deberán describir las razones que lo motivaron a clasificar el incidente teniendo como base la siguiente “Escala de Impacto”: - "Crítico" (P.ej. interrupción de procesos esenciales del negocio que afectan otros recursos) - “Alto” (P.ej. interrupción de procesos primarios del negocio) - "Medio" (P.ej. es posible continuar trabajando, usando una solución alterna) - "Bajo" (P.ej. interrupción de procesos secundarias del negocio)

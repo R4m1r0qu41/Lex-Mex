@@ -1430,8 +1430,6 @@ mod tests {
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");
     const REFERENCE_FIXTURE: &str = include_str!("../../../fixtures/lritf/reference-sample.txt");
     const DCG_FIXTURE: &str = include_str!("../../../fixtures/ifpe-dcg-2021/parser-sample.txt");
-    const DCG_ANNEX_FIXTURE: &str =
-        include_str!("../../../fixtures/ifpe-dcg-2021/annex-sample.txt");
     const DCG_ID: &str = "urn:lex-mx:federal:regulation:ifpe-dcg-2021";
     const LRITF_ID: &str = "urn:lex-mx:federal:statute:lritf";
 
@@ -1459,14 +1457,7 @@ mod tests {
     #[test]
     fn resolves_cross_instrument_and_title_references_deterministically() {
         let date = NaiveDate::from_ymd_opt(2021, 1, 28).unwrap();
-        let provisions = parse_dcg(
-            DCG_FIXTURE,
-            DCG_ANNEX_FIXTURE,
-            DCG_ID,
-            date,
-            &["1".to_owned()],
-        )
-        .unwrap();
+        let provisions = parse_dcg(DCG_FIXTURE, &[], DCG_ID, date, &["1".to_owned()]).unwrap();
         let mut known_targets: HashSet<String> =
             provisions.iter().map(|item| item.id.clone()).collect();
         for target in [

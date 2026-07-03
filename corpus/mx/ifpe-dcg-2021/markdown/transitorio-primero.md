@@ -23,7 +23,7 @@ Las presentes Disposiciones entrarán en vigor a los noventa días naturales sig
 
 - **Alcance afectado:** Las presentes Disposiciones
 - **Regla de aplicación:** new_rule_prospectively
-- **Detonante:** relative_period (2021-04-28): Noventa días naturales siguientes a la publicación del 2021-01-28.
+- **Detonante:** effective_date (2021-04-28): Nonagésimo día natural siguiente a la publicación del 2021-01-28.
 - **Condición de terminación:** No aplica
 - **Autoridades responsables:** Ninguna identificada
 - **Verificación:** confirmed_by_source_text

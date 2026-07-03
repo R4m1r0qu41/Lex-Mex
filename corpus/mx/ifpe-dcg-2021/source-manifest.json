@@ -6,7 +6,7 @@
   "publisher": "Comisión Nacional Bancaria y de Valores",
   "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
   "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-  "retrieved_at": "2026-07-03T08:27:01.738582Z",
+  "retrieved_at": "2026-07-03T09:18:28.020409Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "content_length": 396666,
@@ -17,5 +17,5 @@
   "extraction_tool": "pdftotext version 26.06.0",
   "parser_version": "0.1.0",
   "schema_version_used": "0.1.0",
-  "resulting_git_commit": "b1aefe6d0578d15a72730b2533bb8e27b02c50e2"
+  "resulting_git_commit": "1045a7905d439cee338176e42d08501929580548"
 }

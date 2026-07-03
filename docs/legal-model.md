@@ -3,12 +3,15 @@
 The Cámara de Diputados consolidated PDF is the operational source for current
 federal statutory text. The Diario Oficial de la Federación is the formal
 publication source. These roles are represented separately and must not be
-collapsed into a single “source of truth” field. A regulation may require the
-formal DOF publication as a second acquired source when the operational file
-is incomplete: the CNBV PDF of the DCG-IFPE-2021 omits its annex bodies, which
-exist only in the DOF note. Jointly issued instruments record every issuing
-authority explicitly, independent of which authority hosts the operational
-file.
+collapsed into a single “source of truth” field. An operational source is not
+necessarily a single file: the CNBV publishes the DCG-IFPE-2021's main body
+and its eight annexes as separate PDFs from the same official host, linked
+from the instrument's own row on the Normatividad page rather than embedded
+in one document. All of them are the operational source; the formal DOF
+publication is additionally acquired for promulgation-date provenance, not
+because it is the only place the annex text exists. Jointly issued
+instruments record every issuing authority explicitly, independent of which
+authority hosts the operational file.
 
 Canonical identities use URNs independent of filenames and presentation:
 

@@ -1,0 +1,30 @@
+                                                  ANEXO 1
+                                 Indicadores de seguridad de la información
+
+El oficial en jefe de seguridad de la información de la institución de fondos de pago electrónico, en relación con
+los indicadores de riesgo en materia de seguridad de la información a que se refiere la fracción XI del artículo
+36 de las presentes Disposiciones, deberá:
+
+1.   Evaluar dichos indicadores, los cuales deberán ajustarse a los umbrales contenidos en este anexo para
+     cada indicador. En caso de definir umbrales diferentes, deberá documentar el motivo.
+
+2.   Definir planes de remediación para aquellos riesgos en los que los resultados de la evaluación arrojen
+     valores que se encuentren dentro de los umbrales medios y altos de riesgo establecidos en el presente
+     anexo o, en su caso, aquellos definidos por la institución de fondos de pago electrónico, siempre que estos
+     se encuentren en un umbral alto por, al menos, dos periodos consecutivos.
+
+3.   Dar mantenimiento continuo, ya sea para agregar, eliminar o actualizar los indicadores claves de riesgo
+     y de desempeño de seguridad de la información ya existentes, los cuales siempre deberán estar alineados
+     a la estrategia de la institución de fondos de pago electrónico y al Plan Director de Seguridad de la
+     información de esta.
+
+4.   Medir y evaluar su evolución con la periodicidad indicada en las siguientes tablas, o antes en caso de
+     eventos inusuales.
+
+5.   En caso de que no apliquen todos los supuestos, indicar que no son aplicables y explicar el motivo.
+
+
+
+
+                                                                                                                   1
+Tipo                 Definición                Sub Tipo                                Sub Clase de Eventos                                          Ejemplos

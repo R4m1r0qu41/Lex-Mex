@@ -2,14 +2,18 @@
 //! applicable to instituciones de fondos de pago electrónico (DCG-IFPE-2021).
 //!
 //! The operational CNBV PDF carries the índice, considerandos, seven
-//! chapters, 59 articles, and four transitories; the eight annex bodies are
-//! published only in the formal DOF note and are parsed from its extracted
-//! text. The main text is extracted with page breaks preserved (`pdftotext
-//! -layout`): a paragraph is merged across a page break unless the previous
-//! line ends a sentence or enumeration (`.`, `:`, or `;`), and this source
-//! contains no page headers or footers to remove.
+//! chapters, 59 articles, and four transitories. The eight annexes are
+//! *not* included in that PDF's body; CNBV publishes each one as its own
+//! PDF, linked from the "Ver más" panel of the instrument's row on the
+//! Normatividad page (via the `NormatividadAjax.svc/ResolucionesYAnexos`
+//! endpoint, `normaId=1036`). Each annex PDF is extracted and parsed the
+//! same way as the main document. The main text and each annex are
+//! extracted with page breaks preserved (`pdftotext -layout`): a paragraph
+//! is merged across a page break unless the previous line ends a sentence
+//! or enumeration (`.`, `:`, or `;`); annex PDFs have no page furniture
+//! beyond an occasional bare page-number footer line, which is dropped.
 
-use anyhow::{Result, bail};
+use anyhow::{Context, Result, bail};
 use chrono::NaiveDate;
 use lex_core::{
     HeadingContext, Provision, ProvisionType, ReviewStatus, SCHEMA_VERSION, TemporalStatus,
@@ -27,9 +31,12 @@ const TRANSITORY_ORDINALS: &[&str] = &[
 const DEFINITION_COLUMN_MIN: usize = 20;
 const TERM_INDENT_MAX: usize = 12;
 
+/// Parse the main CNBV PDF body plus one already-isolated document per
+/// annex, each paired with its expected annex number (1-indexed, matching
+/// CNBV's own `Orden`) for a cross-check against its own "ANEXO N" heading.
 pub fn parse_dcg(
     main_raw: &str,
-    formal_text: &str,
+    annex_documents: &[(u32, String)],
     instrument_id: &str,
     publication_date: NaiveDate,
     definition_layout_articles: &[String],
@@ -40,7 +47,14 @@ pub fn parse_dcg(
         publication_date,
         definition_layout_articles,
     )?;
-    provisions.extend(parse_annexes(formal_text, instrument_id, publication_date)?);
+    for (number, raw) in annex_documents {
+        provisions.push(parse_annex_document(
+            raw,
+            *number,
+            instrument_id,
+            publication_date,
+        )?);
+    }
     if provisions.is_empty() {
         bail!("no DCG provisions recognized");
     }
@@ -173,69 +187,65 @@ fn flush(
     }
 }
 
-fn parse_annexes(
-    formal_text: &str,
+/// Parse one annex's own dedicated CNBV PDF text. The first non-blank,
+/// non-page-number line must be its "ANEXO N" / "Anexo N" heading, which
+/// becomes the label; `expected_number` cross-checks that heading against
+/// the number CNBV's webservice associated with this document's URL. Every
+/// following line, including the subtitle, becomes body text using the same
+/// paragraph accumulation and page-break merging as an article: a bare
+/// 1-3 digit line is a page-number footer and is dropped without affecting
+/// paragraph boundaries.
+fn parse_annex_document(
+    raw: &str,
+    expected_number: u32,
     instrument_id: &str,
     publication_date: NaiveDate,
-) -> Result<Vec<Provision>> {
+) -> Result<Provision> {
     let heading_re = Regex::new(r"(?i)^anexo\s+(\d+)$")?;
-    let end_re = Regex::new(r"^_{4,}$")?;
-    let mut annexes = Vec::new();
-    let mut current: Option<(String, String, Vec<String>)> = None;
+    let page_number_re = Regex::new(r"^\d{1,3}$")?;
+    let mut builder: Option<DcgProvisionBuilder> = None;
+    let mut pending_blank = false;
+    let mut crossed_page_break = false;
 
-    for line in formal_text.lines() {
-        let trimmed = line.trim();
-        if end_re.is_match(trimmed) {
-            break;
+    for source_line in raw.lines() {
+        if source_line.starts_with('\u{c}') {
+            crossed_page_break = true;
         }
-        if let Some(captures) = heading_re.captures(trimmed) {
-            if let Some(annex) = current.take() {
-                annexes.push(annex);
-            }
-            current = Some((trimmed.to_owned(), captures[1].to_owned(), Vec::new()));
+        let line = source_line.trim_start_matches('\u{c}');
+        let trimmed = line.trim();
+        if trimmed.is_empty() {
+            pending_blank = true;
             continue;
         }
-        if let Some((_, _, lines)) = &mut current
-            && !trimmed.is_empty()
-        {
-            lines.push(trimmed.to_owned());
+        if page_number_re.is_match(trimmed) {
+            continue;
         }
-    }
-    if let Some(annex) = current.take() {
-        annexes.push(annex);
-    }
-
-    annexes
-        .into_iter()
-        .map(|(label, number, lines)| {
-            if lines.is_empty() {
-                bail!("annex {label} has no body text in the formal source");
+        if builder.is_none() {
+            let captures = heading_re.captures(trimmed).with_context(|| {
+                format!("annex {expected_number} does not start with an ANEXO heading")
+            })?;
+            let found_number: u32 = captures[1]
+                .parse()
+                .context("annex heading number is not numeric")?;
+            if found_number != expected_number {
+                bail!("expected annex {expected_number}, found heading for annex {found_number}");
             }
-            Ok(Provision {
-                schema_version: SCHEMA_VERSION.to_owned(),
-                id: format!("{instrument_id}:annex:{number}"),
-                instrument_id: instrument_id.to_owned(),
-                provision_type: ProvisionType::Annex,
-                label,
-                number,
-                heading_context: HeadingContext {
-                    title: None,
-                    chapter: None,
-                    section: None,
-                    apartado: None,
-                },
-                text: lines.join("\n\n"),
-                publication_date,
-                effective_from: None,
-                effective_to: None,
-                temporal_status: TemporalStatus::Unknown,
-                temporal_basis: None,
-                temporal_confidence: None,
-                review_status: ReviewStatus::NotAnalyzed,
-                transitory_effects: Vec::new(),
-            })
-        })
-        .collect()
+            builder = Some(DcgProvisionBuilder::annex(
+                instrument_id,
+                expected_number.to_string(),
+                trimmed.to_owned(),
+            ));
+            (pending_blank, crossed_page_break) = (false, false);
+            continue;
+        }
+        if let Some(b) = &mut builder {
+            b.push_line(line, pending_blank, crossed_page_break);
+        }
+        (pending_blank, crossed_page_break) = (false, false);
+    }
+    let builder =
+        builder.with_context(|| format!("annex {expected_number} has no recognizable heading"))?;
+    Ok(builder.finish(publication_date))
 }
 
 struct DcgProvisionBuilder {
@@ -285,6 +295,25 @@ impl DcgProvisionBuilder {
         };
         builder.push_line(initial, false, false);
         builder
+    }
+
+    fn annex(instrument_id: &str, number: String, label: String) -> Self {
+        Self {
+            instrument_id: instrument_id.to_owned(),
+            provision_type: ProvisionType::Annex,
+            label,
+            number,
+            heading_context: HeadingContext {
+                title: None,
+                chapter: None,
+                section: None,
+                apartado: None,
+            },
+            paragraphs: Vec::new(),
+            current_paragraph: Vec::new(),
+            definition_layout: false,
+            raw_lines: Vec::new(),
+        }
     }
 
     fn transitory(instrument_id: &str, ordinal: &str, initial: &str) -> Self {
@@ -529,13 +558,19 @@ mod tests {
     use super::parse_dcg;
 
     const MAIN_FIXTURE: &str = include_str!("../../../fixtures/ifpe-dcg-2021/parser-sample.txt");
-    const ANNEX_FIXTURE: &str = include_str!("../../../fixtures/ifpe-dcg-2021/annex-sample.txt");
+    const ANNEX_1_FIXTURE: &str =
+        include_str!("../../../fixtures/ifpe-dcg-2021/annex-1-sample.txt");
+    const ANNEX_8_FIXTURE: &str =
+        include_str!("../../../fixtures/ifpe-dcg-2021/annex-8-sample.txt");
     const INSTRUMENT_ID: &str = "urn:lex-mx:federal:regulation:ifpe-dcg-2021";
 
     fn parse_fixture() -> Vec<lex_core::Provision> {
         parse_dcg(
             MAIN_FIXTURE,
-            ANNEX_FIXTURE,
+            &[
+                (1, ANNEX_1_FIXTURE.to_owned()),
+                (8, ANNEX_8_FIXTURE.to_owned()),
+            ],
             INSTRUMENT_ID,
             NaiveDate::from_ymd_opt(2021, 1, 28).unwrap(),
             &["1".to_owned()],
@@ -688,17 +723,52 @@ mod tests {
             .iter()
             .find(|item| item.id.ends_with(":annex:1"))
             .expect("annex 1 parsed");
+        assert_eq!(annex_1.label, "ANEXO 1");
+        // The enumerated intro list is preserved verbatim.
         assert!(
             annex_1
                 .text
-                .contains("Tipo | Definición | Sub Tipo | Sub Clase de Eventos | Ejemplos")
+                .contains("5. En caso de que no apliquen todos los supuestos")
         );
+        // The bare page-number footer ("1") is dropped, not treated as text.
+        assert!(!annex_1.text.contains(
+            "todos los supuestos, indicar que no son aplicables y explicar el motivo. 1"
+        ));
+        // The table header, reached only after crossing a page break, is
+        // its own paragraph and survives page-furniture removal.
+        assert!(
+            annex_1
+                .text
+                .contains("Tipo Definición Sub Tipo Sub Clase de Eventos Ejemplos")
+        );
+    }
+
+    #[test]
+    fn parses_annex_document_heading_and_wrapped_subtitle() {
+        let provisions = parse_fixture();
         let annex_8 = provisions
             .iter()
             .find(|item| item.id.ends_with(":annex:8"))
             .expect("annex 8 parsed");
+        assert_eq!(annex_8.label, "Anexo 8");
+        // The two-line wrapped subtitle merges into one paragraph.
+        assert!(annex_8.text.contains(
+            "Especificaciones del sistema de información desarrollado por un tercero para el \
+             cifrado de información compartida con la Comisión Nacional Bancaria y de Valores y \
+             el Banco de México"
+        ));
         assert!(annex_8.text.contains("Para efectos de este anexo"));
-        // The trailing underscore rule terminates annex text.
-        assert!(!annex_8.text.contains("____"));
+    }
+
+    #[test]
+    fn rejects_annex_document_with_mismatched_heading_number() {
+        let error = super::parse_annex_document(
+            ANNEX_1_FIXTURE,
+            2,
+            INSTRUMENT_ID,
+            NaiveDate::from_ymd_opt(2021, 1, 28).unwrap(),
+        )
+        .unwrap_err();
+        assert!(error.to_string().contains("expected annex 2"));
     }
 }

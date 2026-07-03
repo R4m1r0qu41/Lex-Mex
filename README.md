@@ -16,10 +16,11 @@ temporal determinations, 32 structured legal effects, and 95 validated
 internal article-reference edges. The jointly issued CNBV/Banco de México
 **Disposiciones aplicables a las instituciones de fondos de pago electrónico**
 of January 28, 2021 (`ifpe-dcg-2021`) has 59 articles, 4 transitories, all 8
-annexes acquired from the formal DOF publication, 4 temporal determinations,
-and 98 reference edges, including resolved cross-instrument citations of
-LRITF Articles 22, 29, 48, 54, 56, 58 and its OCTAVA transitoria. Neither
-validation report has open structural issues or pending legal reviews.
+annexes acquired as the dedicated per-annex PDFs CNBV publishes alongside the
+main document, 4 temporal determinations, and 98 reference edges, including
+resolved cross-instrument citations of LRITF Articles 22, 29, 48, 54, 56, 58
+and its OCTAVA transitoria. Neither validation report has open structural
+issues or pending legal reviews.
 
 > [!IMPORTANT]
 > Lex-Mex is not an official publication, is not affiliated with the Mexican
@@ -169,9 +170,10 @@ cargo run --locked -p lex-cli -- export lritf --format obsidian
 cargo run --locked -p lex-cli -- pipeline ifpe-dcg-2021
 ```
 
-For `ifpe-dcg-2021`, fetch and extract also acquire the formal DOF
-publication, which uniquely contains the instrument's eight annex bodies, and
-record its provenance in `formal-source-manifest.json`.
+For `ifpe-dcg-2021`, fetch and extract also acquire the eight annex PDFs CNBV
+publishes alongside the main document (recorded in
+`annex-source-manifests.json`), plus the formal DOF publication for
+promulgation-date provenance (`formal-source-manifest.json`).
 
 ## Repository layout
 

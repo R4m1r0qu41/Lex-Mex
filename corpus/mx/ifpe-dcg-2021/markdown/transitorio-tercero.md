@@ -21,9 +21,9 @@ Las instituciones de fondos de pago electrónico contarán con un plazo de nueve
 
 ### Efecto 1 — adaptation_period
 
-- **Alcance afectado:** Cumplimiento por las instituciones de fondos de pago electrónico de los artículos 16 y 17
+- **Alcance afectado:** Instituciones de fondos de pago electrónico respecto del cumplimiento de los artículos 16 y 17
 - **Regla de aplicación:** transitional_permission
 - **Detonante:** effective_date (2021-04-28): Entrada en vigor de las Disposiciones.
-- **Condición de terminación:** relative_period (2022-01-28): Nueve meses contados a partir de la entrada en vigor.
+- **Condición de terminación:** fixed_date (2022-01-28): Vencimiento del plazo de nueve meses contado desde la entrada en vigor.
 - **Autoridades responsables:** Ninguna identificada
 - **Verificación:** confirmed_by_source_text
