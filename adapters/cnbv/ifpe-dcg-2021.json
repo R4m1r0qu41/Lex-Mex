@@ -28,6 +28,10 @@
     "2021-01-28": "https://www.dof.gob.mx/nota_detalle_popup.php?codigo=5610487"
   },
   "definition_layout_articles": ["1"],
+  "tls_intermediate_ca_pems": [
+    "globalsign-rsa-ov-ssl-ca-2018.pem",
+    "godaddy-secure-ca-g2.pem"
+  ],
   "internal_reference_markers": [
     "de estas disposiciones",
     "de las presentes disposiciones",

@@ -81,6 +81,15 @@ pub struct SourceConfig {
     /// cross-instrument reference edges.
     #[serde(default)]
     pub external_instruments: Vec<ExternalInstrument>,
+    /// Public intermediate CA certificates (PEM, relative to the adapter
+    /// file) for official hosts that serve an incomplete TLS chain, such as
+    /// www.cnbv.gob.mx and www.dof.gob.mx. Each certificate still chains to
+    /// a standard root.
+    #[serde(default)]
+    pub tls_intermediate_ca_pems: Vec<std::path::PathBuf>,
+    /// PEM bytes loaded from `tls_intermediate_ca_pems` at config load time.
+    #[serde(skip)]
+    pub tls_intermediate_cas: Vec<Vec<u8>>,
 }
 
 #[derive(Debug)]
@@ -92,8 +101,19 @@ pub struct Acquisition {
 pub fn load_config(path: &Path) -> Result<SourceConfig> {
     let bytes = fs::read(path)
         .with_context(|| format!("failed to read adapter config {}", path.display()))?;
-    serde_json::from_slice(&bytes)
-        .with_context(|| format!("invalid adapter config {}", path.display()))
+    let mut config: SourceConfig = serde_json::from_slice(&bytes)
+        .with_context(|| format!("invalid adapter config {}", path.display()))?;
+    for pem_path in &config.tls_intermediate_ca_pems {
+        let resolved = path
+            .parent()
+            .map_or_else(|| pem_path.clone(), |parent| parent.join(pem_path));
+        config.tls_intermediate_cas.push(
+            fs::read(&resolved).with_context(|| {
+                format!("failed to read intermediate CA {}", resolved.display())
+            })?,
+        );
+    }
+    Ok(config)
 }
 
 #[must_use]
@@ -142,11 +162,15 @@ fn fetch_resource(
     operational_source: &str,
     publisher: &str,
 ) -> Result<Acquisition> {
-    let client = Client::builder()
+    let mut builder = Client::builder()
         .timeout(Duration::from_mins(1))
-        .user_agent(concat!("lex-mex/", env!("CARGO_PKG_VERSION")))
-        .build()
-        .context("failed to create HTTP client")?;
+        .user_agent(concat!("lex-mex/", env!("CARGO_PKG_VERSION")));
+    for pem in &config.tls_intermediate_cas {
+        builder = builder.add_root_certificate(
+            reqwest::Certificate::from_pem(pem).context("invalid intermediate CA certificate")?,
+        );
+    }
+    let client = builder.build().context("failed to create HTTP client")?;
 
     let response = client
         .get(url.clone())

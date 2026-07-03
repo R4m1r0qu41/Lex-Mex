@@ -410,7 +410,18 @@ fn sentence_target<'a>(
         .min_by_key(|(position, _)| *position);
     let generic = EXTERNAL_INSTRUMENT_MARKERS
         .iter()
-        .filter_map(|marker| lower.find(marker).map(|position| (position, marker.len())))
+        .filter_map(|marker| {
+            // Match the marker at a word boundary so punctuation directly
+            // after the cited law ("de la Ley,") still counts as external.
+            let trimmed = marker.trim_end();
+            lower.find(trimmed).and_then(|position| {
+                lower[position + trimmed.len()..]
+                    .chars()
+                    .next()
+                    .is_none_or(|following| !following.is_alphabetic())
+                    .then_some((position, trimmed.len()))
+            })
+        })
         // A configured instrument name inside the same phrase (for example
         // "de la ley para regular…") supersedes the generic law marker.
         .filter(|(position, length)| {
@@ -1405,16 +1416,149 @@ impl ProvisionBuilder {
 
 #[cfg(test)]
 mod tests {
+    use std::collections::HashSet;
+
     use chrono::NaiveDate;
-    use lex_core::{ReferenceForm, ReferenceQualifierType};
+    use lex_core::{ReferenceForm, ReferenceQualifierType, ReferenceResolutionStatus};
     use pretty_assertions::assert_eq;
 
     use super::{
-        extract_internal_references, extract_reform_transitories, parse_lritf, validate_lritf,
+        InstrumentContextPolicy, ReferenceOptions, extract_internal_references, extract_references,
+        extract_reform_transitories, parse_dcg, parse_lritf, validate_lritf,
     };
 
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");
     const REFERENCE_FIXTURE: &str = include_str!("../../../fixtures/lritf/reference-sample.txt");
+    const DCG_FIXTURE: &str = include_str!("../../../fixtures/ifpe-dcg-2021/parser-sample.txt");
+    const DCG_ANNEX_FIXTURE: &str =
+        include_str!("../../../fixtures/ifpe-dcg-2021/annex-sample.txt");
+    const DCG_ID: &str = "urn:lex-mx:federal:regulation:ifpe-dcg-2021";
+    const LRITF_ID: &str = "urn:lex-mx:federal:statute:lritf";
+
+    fn dcg_reference_options() -> ReferenceOptions {
+        ReferenceOptions {
+            policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                internal_markers: [
+                    "de estas disposiciones",
+                    "de las presentes disposiciones",
+                    "del presente instrumento",
+                    "de este instrumento",
+                ]
+                .iter()
+                .map(|marker| (*marker).to_owned())
+                .collect(),
+                external_instruments: vec![(
+                    "ley para regular las instituciones de tecnología financiera".to_owned(),
+                    LRITF_ID.to_owned(),
+                )],
+            },
+            transitory_citations: true,
+        }
+    }
+
+    #[test]
+    fn resolves_cross_instrument_and_title_references_deterministically() {
+        let date = NaiveDate::from_ymd_opt(2021, 1, 28).unwrap();
+        let provisions = parse_dcg(
+            DCG_FIXTURE,
+            DCG_ANNEX_FIXTURE,
+            DCG_ID,
+            date,
+            &["1".to_owned()],
+        )
+        .unwrap();
+        let mut known_targets: HashSet<String> =
+            provisions.iter().map(|item| item.id.clone()).collect();
+        for target in [
+            format!("{LRITF_ID}:article:48"),
+            format!("{LRITF_ID}:article:54"),
+            format!("{LRITF_ID}:article:56"),
+            format!("{LRITF_ID}:transitory:octava"),
+        ] {
+            known_targets.insert(target);
+        }
+        let title = "Disposiciones aplicables a las instituciones de fondos de pago electrónico \
+                     a que se refieren los artículos 48, segundo párrafo; 54, primer párrafo, y \
+                     56, primer y segundo párrafos de la Ley para Regular las Instituciones de \
+                     Tecnología Financiera";
+        let references = extract_references(
+            &provisions,
+            Some((DCG_ID, title)),
+            &dcg_reference_options(),
+            &known_targets,
+        )
+        .unwrap();
+
+        // Title citations resolve against LRITF with their paragraph
+        // qualifiers preserved.
+        let title_edges: Vec<_> = references
+            .iter()
+            .filter(|edge| edge.source_provision_id == DCG_ID)
+            .collect();
+        assert_eq!(title_edges.len(), 3);
+        assert_eq!(
+            title_edges
+                .iter()
+                .map(|edge| edge.target_provision_id.as_str())
+                .collect::<Vec<_>>(),
+            [
+                format!("{LRITF_ID}:article:48"),
+                format!("{LRITF_ID}:article:54"),
+                format!("{LRITF_ID}:article:56"),
+            ]
+        );
+        assert_eq!(title_edges[0].qualifiers[0].text, "segundo párrafo");
+        assert_eq!(
+            title_edges[2].qualifiers[0].text,
+            "primer y segundo párrafos"
+        );
+        assert!(
+            title_edges
+                .iter()
+                .all(|edge| edge.resolution_status == ReferenceResolutionStatus::Resolved)
+        );
+
+        // A full-name LRITF citation inside Article 1 resolves cross-instrument.
+        assert!(references.iter().any(|edge| {
+            edge.source_provision_id.ends_with(":article:1")
+                && edge.target_provision_id == format!("{LRITF_ID}:article:48")
+                && edge.resolution_status == ReferenceResolutionStatus::Resolved
+        }));
+
+        // The short-form defined-term citation "artículo 22, fracción I de la
+        // Ley," must not create any edge (regression: it previously became a
+        // false internal edge).
+        assert!(
+            !references
+                .iter()
+                .any(|edge| edge.target_provision_id.ends_with(":article:22"))
+        );
+
+        // Internal citations with DCG markers stay internal.
+        assert!(references.iter().any(|edge| {
+            edge.source_provision_id.ends_with(":transitory:segundo")
+                && edge.target_provision_id == format!("{DCG_ID}:article:15")
+        }));
+
+        // CUARTO cites LRITF's OCTAVA transitory expressly.
+        let octava = references
+            .iter()
+            .find(|edge| edge.target_provision_id == format!("{LRITF_ID}:transitory:octava"))
+            .expect("transitory citation extracted");
+        assert!(octava.source_provision_id.ends_with(":transitory:cuarto"));
+        assert_eq!(octava.source_span, "OCTAVA Transitoria");
+        assert_eq!(
+            octava.resolution_status,
+            ReferenceResolutionStatus::Resolved
+        );
+
+        // Named external laws that are not configured stay unlinked.
+        assert!(
+            !references
+                .iter()
+                .any(|edge| edge.target_provision_id.contains("codigo"))
+        );
+    }
 
     #[test]
     fn parses_articles_and_statute_transitories_without_page_furniture() {

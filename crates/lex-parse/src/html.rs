@@ -28,14 +28,20 @@ use regex::Regex;
 pub fn extract_html_text(bytes: &[u8]) -> String {
     let raw: String = bytes.iter().map(|byte| char::from(*byte)).collect();
     let script_re = Regex::new(r"(?is)<(script|style)\b.*?</(script|style)>").expect("static");
+    let cell_re = Regex::new(r"(?is)<t[dh][^>]*>.*?</t[dh]>").expect("static");
+    let cell_block_re = Regex::new(r"(?i)</(div|p)>").expect("static");
+    let cell_close_re = Regex::new(r"(?i)</t[dh]>").expect("static");
     let linebreak_re = Regex::new(r"(?i)<br[^>]*>").expect("static");
     let break_re = Regex::new(r"(?i)</(div|p|tr|table|h[1-6]|li)>").expect("static");
-    let cell_re = Regex::new(r"(?i)</t[dh]>").expect("static");
     let tag_re = Regex::new(r"(?s)<[^>]*>").expect("static");
 
     let text = script_re.replace_all(&raw, "");
+    // Paragraph blocks inside a table cell stay on the cell's row.
+    let text = cell_re.replace_all(&text, |captures: &regex::Captures<'_>| {
+        cell_block_re.replace_all(&captures[0], " ").into_owned()
+    });
     let text = linebreak_re.replace_all(&text, " ");
-    let text = cell_re.replace_all(&text, "\u{1f}");
+    let text = cell_close_re.replace_all(&text, "\u{1f}");
     let text = break_re.replace_all(&text, "\n");
     let text = tag_re.replace_all(&text, "");
     let text = decode_entities(&text);

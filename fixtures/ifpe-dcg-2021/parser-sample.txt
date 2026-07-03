@@ -1,0 +1,206 @@
+                                               CAPÍTULO I
+                                      DISPOSICIONES GENERALES
+Artículo 1.- Para efectos de las presentes Disposiciones, se entenderá, en singular o plural, además de los
+términos utilizados en la Ley para Regular las Instituciones de Tecnología Financiera, los siguientes:
+
+
+    Administrador de            a la persona que, en términos del artículo 46 de estas
+    Comisionistas:              Disposiciones, organiza una red de comisionistas y funge como
+                                intermediario entre estos y la institución de fondos de pago
+                                electrónico, para que dichos comisionistas celebren con los
+                                Clientes Operaciones y servicios.
+    Autenticación:              a la verificación de la identidad de (i) un Cliente, con el fin de
+                                permitirle la realización de las Operaciones que este requiera, o
+                                bien, (ii) un Usuario de la Infraestructura Tecnológica de la
+                                institución de fondos de pago electrónico de que se trate, con el
+                                fin de que aquel pueda acceder, utilizar u operar algún
+                                componente de dicha Infraestructura Tecnológica.
+    Canales de Instrucción:     a los equipos, medios electrónicos, ópticos o de cualquier otra
+                                tecnología, sistemas automatizados de procesamiento de datos y
+                                redes de telecomunicaciones que forman parte de la
+                                Infraestructura Tecnológica de la institución de fondos de pago
+                                electrónico de que se trate y que, a través de ellos, esta permite al
+                                Cliente realizar Operaciones.
+    Cifrado:                    al mecanismo que deberán utilizar las instituciones de fondos de
+                                pago electrónico para proteger la confidencialidad de la
+                                información mediante métodos criptográficos en los que se
+                                utilicen algoritmos y llaves de encriptación.
+    Cómputo en la Nube:         al modelo de servicios de cómputo prestados por un tercero, bajo
+                                demanda y en infraestructura compartida, privada o híbrida,
+                                independientemente de la ubicación física de la Infraestructura
+                                Tecnológica del tercero, que puede consistir, entre otros, en uno o
+                                más de los siguientes esquemas de servicios digitales: de
+                                infraestructura como servicio, de plataforma como servicio o de
+                                software como servicio.
+
+
+    Contingencia Operativa:     a cualquier evento que dificulte, limite o impida a una institución
+                                de fondos de pago electrónico realizar sus Operaciones, o aquellos
+                                procesos que pudieran tener una afectación a sus Clientes o a la
+                                propia institución de fondos de pago electrónico.
+    Cuenta:                     a aquel registro contable en el que la institución de fondos de
+                                pago electrónico realiza, entre otros, las anotaciones de (a) abonos
+                                correspondientes a (i) la cantidad de fondos de pago electrónico
+                                que aquella emita a favor del Cliente a nombre de quien haya
+                                abierto dicho registro, de conformidad con el artículo 22, fracción
+                                I de la Ley, contra la recepción de una cantidad de dinero, en
+                                moneda nacional, o sujeto a la autorización del Banco de México,
+                            en moneda extranjera, objeto de una Transferencia de Fondos,
+                            Transmisión de Dinero, por recepción de efectivo u operaciones
+                            con Tarjeta; (ii) la cantidad de fondos de pago electrónico objeto
+                            de las Transferencias de Fondos de Pago Electrónico que reciba a
+                            favor de dicho Cliente, así como (b) cargos que correspondan por
+                            (i) la disposición de fondos de pago electrónico con motivo de su
+                            redención, objeto de una Transferencia de Fondos, operaciones de
+                            pago con cualquier tipo de medio de disposición que la institución
+                            de fondos de pago electrónico haya permitido a su cliente realizar,
+                            domiciliaciones, Transmisión de Dinero, o la entrega de efectivo;
+                            (ii) la cantidad de fondos de pago electrónico objeto de las
+                            Transferencias de Fondos de Pago Electrónico de que se trate.
+Política Estratégica de   al documento que integra las estrategias de la institución de
+Continuidad de Negocio    fondos de pago electrónico en materia de continuidad de negocio
+y de Seguridad de la      y seguridad de la información relacionadas con su operación de
+Información:              conformidad con las presentes Disposiciones, sin perjuicio de
+                          cualquier otro elemento en materia de administración de riesgos
+                          sujeto a las disposiciones de carácter general que, al efecto, emita
+                          la CNBV de conformidad con el artículo 48 de la Ley para Regular
+                          las Instituciones de Tecnología Financiera.
+Sesión:                   al periodo en el cual el Cliente, titular de una Cuenta que
+        UDI:                        a las unidades de cuenta llamadas “Unidades de Inversión”
+                                    establecidas en el “Decreto por el que se establecen las
+                                    obligaciones que podrán denominarse en Unidades de Inversión
+                                    y reforma y adiciona diversas disposiciones del Código Fiscal de la
+                                    Federación y de la Ley del Impuesto sobre la Renta”, publicado en
+                                    el Diario Oficial de la Federación el 1 de abril de 1995, tal como ese
+                                    sea modificado o adicionado de tiempo en tiempo.
+        Usuario de la               a la persona o componente de la Infraestructura Tecnológica de la
+        Infraestructura             institución de fondos de pago electrónico, que cuente con la
+        Tecnológica:                autorización respectiva para que acceda, utilice u opere algún
+                                    componente de esta. No quedarán comprendidos en esta
+                                    definición los Clientes de la institución de fondos de pago
+                                    electrónico.
+
+
+                                               CAPÍTULO II
+                                   DE LA SEGURIDAD DE LA INFORMACIÓN
+
+                                              Sección Primera
+                           De la Infraestructura Tecnológica frente a los Clientes
+
+                                               Apartado A
+       De la celebración de contratos mediante Canales de Instrucción y las Operaciones a través de
+                                                 estos
+
+Artículo 2.- Las instituciones de fondos de pago electrónico, al pactar la celebración de Operaciones y la
+prestación de servicios a través de Canales de Instrucción, deberán requerir el consentimiento expreso
+de sus Clientes para dichos efectos, el cual se podrá obtener a través del proceso de Autenticación
+referido en el artículo 7 de las presentes Disposiciones. Adicionalmente, las instituciones de fondos de
+pago electrónico deberán:
+
+I.        En la contratación respectiva, establecer de manera clara y precisa, lo siguiente:
+
+Artículo 17- Las instituciones de fondos de pago electrónico deberán contar con procedimientos y
+mecanismos que permitan estructurar la Información Personal y la Información Sensible almacenada en
+la Infraestructura Tecnológica, de tal manera que los datos personales de los Clientes no puedan ser
+relacionados con la información relativa a sus Operaciones, incluyendo, entre otros, los montos, así como
+Artículo 36.- El oficial en jefe de seguridad de la información de la institución de fondos de pago
+electrónico deberá, al menos:
+
+I.     Participar en la definición y verificar la implementación y continuo cumplimiento de las políticas y
+       procedimientos de seguridad de la información señalados en las presentes Disposiciones.
+
+II.    Elaborar el Plan Director de Seguridad, el cual deberá contener, por cada proyecto que se defina,
+       nombre del proyecto, objetivo, alcance, fechas de inicio y fin, áreas involucradas y la inversión
+       proyectada. El plan a que se refiere la presente fracción deberá revisarse y actualizarse, al menos
+       anualmente.
+
+III.   Verificar, al menos anualmente, la definición de los perfiles de acceso a la Infraestructura
+       Tecnológica de la institución de fondos de pago electrónico, ya sea propia o provista por terceros,
+       de acuerdo con los perfiles de puestos, conocido como segregación funcional, incluyendo aquellos
+       con altos privilegios, tales como administración de sistemas operativos, bases de datos y
+       aplicativos.
+
+IV.    Asegurarse, al menos anualmente o antes en caso de presentarse un Incidente de Seguridad de la
+       Información, de la correcta asignación de los perfiles de acceso a los Usuarios de la Infraestructura
+       Tecnológica. La función a que se refiere esta fracción podrá realizarse mediante muestras
+       representativas y aleatorias.
+
+       Asimismo, el oficial en jefe de seguridad de la información será responsable de la autorización
+       temporal de los accesos por excepción, tales como los de Usuarios de la Infraestructura
+       Tecnológica de ambientes de desarrollo con accesos a ambientes de producción, accesos por
+       eventos de contingencia o cualquier otro acceso privilegiado que no corresponda con la política
+       determinada por la institución de fondos de pago electrónico. Igualmente, deberá contar con un
+       registro que contenga el nombre del Usuario de la Infraestructura Tecnológica, aplicación
+       asociada, ambiente, motivo de la excepción y fecha de inicio y de fin de la asignación.
+V.      Aprobar y verificar el cumplimiento de las medidas que se hayan adoptado para subsanar
+        deficiencias detectadas con motivo de las funciones a que se refieren las fracciones III y IV de este
+        artículo, así como de los hallazgos, tanto de auditoría interna, como externa relacionada con la
+        Infraestructura Tecnológica y de seguridad de la información.
+
+VI.     Gestionar las alertas de seguridad de la información comunicadas por la CNBV u otros medios, así
+        como los Incidentes de Seguridad de la Información, considerando las etapas de identificación,
+        protección, detección, respuesta y recuperación.
+
+VII.    Presidir el equipo que se conforme para la detección y respuesta de Incidentes de Seguridad de la
+        Información en la institución de fondos de pago electrónico.
+
+VIII.   Informar al Órgano de Administración, o al comité de auditoría y al comité de riesgos en caso de
+Artículo 42.- En caso de que se presente un Incidente de Seguridad de la Información, o bien, un Evento
+de Seguridad de Información en los componentes de la Infraestructura Tecnológica de la institución de
+fondos de pago electrónico; en los Canales de Instrucción, o en la infraestructura tecnológica de cualquier
+tercero que afecte la operación o la Infraestructura Tecnológica de la institución de fondos de pago
+electrónico, el director general o, en su caso, el administrador único deberá llevar a cabo lo siguiente:
+
+I.      Prever lo necesario para hacer del conocimiento del Banco de México y de la CNBV de forma
+        inmediata, los Incidentes de Seguridad de la Información, mediante correo electrónico que se
+        envíe a las cuentas ifpe@banxico.org.mx y Ciberseguridad-CNBV@cnbv.gob.mx, o a través de
+        otros medios que el propio Banco de México o la CNBV señalen. En dicha notificación se deberá
+        indicar, al menos, la fecha y hora de inicio del Incidente de Seguridad de la Información de que se
+        trate y, en su caso, la indicación de si continúa o ha concluido y su duración; una descripción de
+        dicho evento o incidente, así como una evaluación inicial del impacto o gravedad.
+
+        Adicionalmente, las instituciones de fondos de pago electrónico deberán enviar a las cuentas
+        ifpe@banxico.org.mx y Ciberseguridad-CNBV@cnbv.gob.mx, o a través de otros medios que el
+        propio Banco de México o la CNBV señalen, dentro de los cinco días hábiles siguientes a la
+        identificación del Incidente de Seguridad de la Información de que se trate, la información que se
+        determina en los Anexos 3 y 4 de las presentes Disposiciones.
+
+        En el caso de Eventos de Seguridad de la Información, deberán reportarse a través de los medios
+        señalados en el primer párrafo de esta fracción solo aquellos que, de acuerdo con las políticas y
+        procedimientos establecidos por la propia institución de fondos de pago electrónico, se califiquen
+        como relevantes por tener potencial afectación para la institución de fondos de pago electrónico,
+        sus Clientes, contrapartes, proveedores u otras entidades del sistema financiero, además de los
+        relacionados con Información Personal o Información Sensible, imágenes de identificaciones
+       oficiales e información de los Factores de Autenticación a los que se refiere la fracción III del artículo
+       5 de estas Disposiciones. Este reporte únicamente deberá contener la fecha y hora de inicio, así
+       como la descripción del evento de que se trate.
+
+II.    Llevar a cabo una investigación inmediata sobre las causas que generaron el Incidente de
+       Seguridad de la Información y establecer un plan de trabajo que describa las acciones a
+       implementar para eliminar o mitigar las vulnerabilidades que propiciaron el mencionado
+       incidente. Dicho plan deberá indicar, al menos, el personal responsable de su diseño,
+       implementación, ejecución y seguimiento; plazos para su ejecución, así como los recursos técnicos,
+       materiales y humanos; y enviarse al Banco de México y a la CNBV en un plazo no mayor a quince
+                                             TRANSITORIOS
+
+
+PRIMERO.- Las presentes Disposiciones entrarán en vigor a los noventa días naturales siguientes al de
+su publicación en el Diario Oficial de la Federación.
+
+
+SEGUNDO.- Las instituciones de fondos de pago electrónico tendrán un plazo máximo de seis meses,
+contados a partir de la entrada en vigor de estas Disposiciones, para dar cumplimiento a lo establecido
+en el artículo 15 del presente instrumento.
+
+
+TERCERO.- Las instituciones de fondos de pago electrónico contarán con un plazo de nueve meses,
+contados a partir de la entrada en vigor de las presentes Disposiciones, para dar cumplimiento a lo
+establecido en los artículos 16 y 17 de este instrumento.
+
+
+CUARTO.- Las personas a que se refiere la disposición OCTAVA Transitoria de la Ley para Regular las
+Instituciones de Tecnología Financiera publicada en el Diario Oficial el 9 de marzo de 2018, tendrán un
+plazo de seis meses contados a partir de la obtención de su autorización para actuar como institución de
+fondos de pago electrónico, para cumplir con lo establecido en los artículos 44, 45, 46 y 47 de las
+presentes Disposiciones.
+

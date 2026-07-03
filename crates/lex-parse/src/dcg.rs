@@ -5,9 +5,9 @@
 //! chapters, 59 articles, and four transitories; the eight annex bodies are
 //! published only in the formal DOF note and are parsed from its extracted
 //! text. The main text is extracted with page breaks preserved (`pdftotext
-//! -layout`): every page transition in this source emits one blank line, so
-//! a paragraph is merged across a page break unless the previous line ends a
-//! sentence or enumeration (`.`, `:`, or `;`).
+//! -layout`): a paragraph is merged across a page break unless the previous
+//! line ends a sentence or enumeration (`.`, `:`, or `;`), and this source
+//! contains no page headers or footers to remove.
 
 use anyhow::{Result, bail};
 use chrono::NaiveDate;
@@ -317,8 +317,14 @@ impl DcgProvisionBuilder {
             });
             return;
         }
-        let continues_paragraph =
-            !after_blank || (after_page_break && !ends_paragraph(self.current_paragraph.last()));
+        // A page break is a potential paragraph boundary: the paragraph
+        // continues only when the previous line ends mid-sentence. A blank
+        // line elsewhere always ends the paragraph.
+        let continues_paragraph = if after_page_break {
+            !ends_paragraph(self.current_paragraph.last())
+        } else {
+            !after_blank
+        };
         if !continues_paragraph {
             self.finish_paragraph();
         }
@@ -330,7 +336,8 @@ impl DcgProvisionBuilder {
 
     fn finish_paragraph(&mut self) {
         if !self.current_paragraph.is_empty() {
-            self.paragraphs.push(self.current_paragraph.join(" "));
+            self.paragraphs
+                .push(collapse_whitespace(&self.current_paragraph.join(" ")));
             self.current_paragraph.clear();
         }
     }
@@ -395,7 +402,7 @@ fn reconstruct_definition_layout(raw_lines: &[RawLine]) -> Vec<String> {
                 in_table = true;
             } else {
                 if line.after_blank && !line.after_page_break && !intro.is_empty() {
-                    paragraphs.push(intro.join(" "));
+                    paragraphs.push(collapse_whitespace(&intro.join(" ")));
                     intro.clear();
                 }
                 intro.push(line.text.trim().to_owned());
@@ -426,7 +433,7 @@ fn reconstruct_definition_layout(raw_lines: &[RawLine]) -> Vec<String> {
     }
 
     if !intro.is_empty() {
-        paragraphs.push(intro.join(" "));
+        paragraphs.push(collapse_whitespace(&intro.join(" ")));
     }
     for entry in entries {
         paragraphs.extend(entry.into_paragraphs());
@@ -472,7 +479,7 @@ impl DefinitionEntry {
     }
 
     fn push_term(&mut self, fragment: &str) {
-        self.term_fragments.push(fragment.to_owned());
+        self.term_fragments.push(collapse_whitespace(fragment));
     }
 
     fn push_definition(&mut self, fragment: &str, paragraph_break: bool) {
@@ -482,7 +489,7 @@ impl DefinitionEntry {
         self.definition_paragraphs
             .last_mut()
             .expect("definition paragraph exists")
-            .push(fragment.to_owned());
+            .push(collapse_whitespace(fragment));
     }
 
     fn into_paragraphs(self) -> Vec<String> {
@@ -498,6 +505,10 @@ impl DefinitionEntry {
     }
 }
 
+fn collapse_whitespace(value: &str) -> String {
+    value.split_whitespace().collect::<Vec<_>>().join(" ")
+}
+
 fn slug(value: &str) -> String {
     value
         .to_lowercase()
@@ -507,4 +518,187 @@ fn slug(value: &str) -> String {
         .replace('ó', "o")
         .replace(['ú', 'ü'], "u")
         .replace(' ', "-")
+}
+
+#[cfg(test)]
+mod tests {
+    use chrono::NaiveDate;
+    use lex_core::ProvisionType;
+    use pretty_assertions::assert_eq;
+
+    use super::parse_dcg;
+
+    const MAIN_FIXTURE: &str = include_str!("../../../fixtures/ifpe-dcg-2021/parser-sample.txt");
+    const ANNEX_FIXTURE: &str = include_str!("../../../fixtures/ifpe-dcg-2021/annex-sample.txt");
+    const INSTRUMENT_ID: &str = "urn:lex-mx:federal:regulation:ifpe-dcg-2021";
+
+    fn parse_fixture() -> Vec<lex_core::Provision> {
+        parse_dcg(
+            MAIN_FIXTURE,
+            ANNEX_FIXTURE,
+            INSTRUMENT_ID,
+            NaiveDate::from_ymd_opt(2021, 1, 28).unwrap(),
+            &["1".to_owned()],
+        )
+        .unwrap()
+    }
+
+    #[test]
+    fn parses_articles_transitories_and_annexes_with_hierarchy() {
+        let provisions = parse_fixture();
+        let articles: Vec<_> = provisions
+            .iter()
+            .filter(|item| item.provision_type == ProvisionType::Article)
+            .collect();
+        let transitories: Vec<_> = provisions
+            .iter()
+            .filter(|item| item.provision_type == ProvisionType::Transitory)
+            .collect();
+        let annexes: Vec<_> = provisions
+            .iter()
+            .filter(|item| item.provision_type == ProvisionType::Annex)
+            .collect();
+
+        assert_eq!(
+            articles
+                .iter()
+                .map(|item| item.number.as_str())
+                .collect::<Vec<_>>(),
+            ["1", "2", "17", "36", "42"]
+        );
+        assert_eq!(
+            transitories
+                .iter()
+                .map(|item| item.id.rsplit(':').next().unwrap())
+                .collect::<Vec<_>>(),
+            ["primero", "segundo", "tercero", "cuarto"]
+        );
+        assert_eq!(
+            annexes
+                .iter()
+                .map(|item| item.label.as_str())
+                .collect::<Vec<_>>(),
+            ["ANEXO 1", "Anexo 8"]
+        );
+
+        // Chapter II hierarchy: section and apartado context on Article 2.
+        let article_2 = &articles[1];
+        assert_eq!(
+            article_2.heading_context.chapter.as_deref(),
+            Some("Capítulo II")
+        );
+        assert_eq!(
+            article_2.heading_context.section.as_deref(),
+            Some("Sección Primera")
+        );
+        assert_eq!(
+            article_2.heading_context.apartado.as_deref(),
+            Some("Apartado A")
+        );
+    }
+
+    #[test]
+    fn parses_article_17_heading_variant_without_dot() {
+        let provisions = parse_fixture();
+        let article_17 = provisions
+            .iter()
+            .find(|item| item.id.ends_with(":article:17"))
+            .expect("article 17 parsed");
+        assert_eq!(article_17.label, "Artículo 17");
+        assert!(
+            article_17
+                .text
+                .starts_with("Las instituciones de fondos de pago electrónico")
+        );
+    }
+
+    #[test]
+    fn reconstructs_article_1_definition_layout() {
+        let provisions = parse_fixture();
+        let article_1 = provisions
+            .iter()
+            .find(|item| item.id.ends_with(":article:1"))
+            .expect("article 1 parsed");
+        // Term and definition columns are re-associated, not interleaved.
+        assert!(article_1.text.contains(
+            "Administrador de Comisionistas: a la persona que, en términos del artículo 46"
+        ));
+        // A term wrapped over four source lines is joined.
+        assert!(article_1.text.contains(
+            "Política Estratégica de Continuidad de Negocio y de Seguridad de la Información: \
+             al documento"
+        ));
+        // A definition that crosses a page break stays one entry.
+        assert!(
+            article_1
+                .text
+                .contains("del Banco de México, en moneda extranjera, objeto de una")
+        );
+        // The page-shifted UDI block is still recognized as one entry.
+        assert!(
+            article_1
+                .text
+                .contains("UDI: a las unidades de cuenta llamadas")
+        );
+    }
+
+    #[test]
+    fn merges_paragraphs_across_page_breaks_only_mid_sentence() {
+        let provisions = parse_fixture();
+        let article_36 = provisions
+            .iter()
+            .find(|item| item.id.ends_with(":article:36"))
+            .expect("article 36 parsed");
+        // Page break after a completed sentence keeps the paragraph break.
+        assert!(
+            article_36
+                .text
+                .contains("fecha de inicio y de fin de la asignación.\n\nV.")
+        );
+        let article_42 = provisions
+            .iter()
+            .find(|item| item.id.ends_with(":article:42"))
+            .expect("article 42 parsed");
+        // Mid-sentence page break is merged into one paragraph.
+        assert!(
+            article_42
+                .text
+                .contains("imágenes de identificaciones oficiales e información")
+        );
+    }
+
+    #[test]
+    fn parses_transitory_boundaries_and_annex_tables() {
+        let provisions = parse_fixture();
+        let cuarto = provisions
+            .iter()
+            .find(|item| item.id.ends_with(":transitory:cuarto"))
+            .expect("transitory cuarto parsed");
+        assert!(cuarto.text.starts_with("Las personas a que se refiere"));
+        assert!(cuarto.text.ends_with("presentes Disposiciones."));
+        let primero = provisions
+            .iter()
+            .find(|item| item.id.ends_with(":transitory:primero"))
+            .expect("transitory primero parsed");
+        assert!(primero.text.contains("noventa días naturales"));
+        // The signature block is not part of any transitory.
+        assert!(!cuarto.text.contains("Ciudad de México"));
+
+        let annex_1 = provisions
+            .iter()
+            .find(|item| item.id.ends_with(":annex:1"))
+            .expect("annex 1 parsed");
+        assert!(
+            annex_1
+                .text
+                .contains("Tipo | Definición | Sub Tipo | Sub Clase de Eventos | Ejemplos")
+        );
+        let annex_8 = provisions
+            .iter()
+            .find(|item| item.id.ends_with(":annex:8"))
+            .expect("annex 8 parsed");
+        assert!(annex_8.text.contains("Para efectos de este anexo"));
+        // The trailing underscore rule terminates annex text.
+        assert!(!annex_8.text.contains("____"));
+    }
 }
