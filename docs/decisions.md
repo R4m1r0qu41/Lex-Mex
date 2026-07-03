@@ -185,6 +185,25 @@ edges; CUARTO resolves to LRITF's OCTAVA transitoria. A canonical reference
 remains directed; reverse navigation is provided only by Obsidian backlinks
 at presentation time.
 
+## 2026-07-03 — Reviewer-initiated review of accepted determinations
+
+A machine-accepted determination previously could not be corrected: only
+items routed to review at import time were resolvable, and hand-editing the
+temporal result would bypass the audit trail. `review open` (with
+`review --instrument <slug>`) now lets the designated reviewer open a
+pending item for any existing determination, preserving the machine
+conclusion verbatim as the proposal; resolution then follows the normal
+audited lawyer-override path. An existing item — pending or resolved — is
+never replaced, so resolved reviews remain immutable.
+
+First use: JRH corrected DCG transitory CUARTO's empty
+`responsible_authorities`. The authorization that starts CUARTO's six-month
+clock is granted by the CNBV previo acuerdo del Comité Interinstitucional
+(LRITF art. 35, first paragraph), whose members represent the SHCP, Banco
+de México, and the CNBV (art. 35, second paragraph) — verified against the
+committed LRITF corpus text. The determination is now `lawyer_verified`
+with the original machine proposal retained in the review record.
+
 ## 2026-07-03 — Multi-instrument vault indexes
 
 With two instruments publishing notes with identical stems (for example,

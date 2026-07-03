@@ -1,1 +1,61 @@
-[]
+[
+  {
+    "id": "review:temporal:urn:lex-mx:federal:regulation:ifpe-dcg-2021:transitory:cuarto",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:transitory:cuarto",
+    "exact_issue": "Revisión iniciada por el revisor designado (JRH): la determinación aceptada automáticamente dejó vacías las autoridades responsables del efecto detonado por la autorización.",
+    "proposed_machine_conclusion": {
+      "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:transitory:cuarto",
+      "temporal_status": "effective",
+      "publication_date": "2021-01-28",
+      "effective_from": "2021-04-28",
+      "effective_to": null,
+      "confidence": 0.97,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "Las personas a que se refiere la disposición OCTAVA Transitoria de la Ley para Regular las Instituciones de Tecnología Financiera publicada en el Diario Oficial el 9 de marzo de 2018, tendrán un plazo de seis meses contados a partir de la obtención de su autorización para actuar como institución de fondos de pago electrónico, para cumplir con lo establecido en los artículos 44, 45, 46 y 47 de las presentes Disposiciones."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "adaptation_period",
+          "affected_scope": "Personas comprendidas en la disposición OCTAVA Transitoria de la Ley para Regular las Instituciones de Tecnología Financiera respecto del cumplimiento de los artículos 44, 45, 46 y 47",
+          "application_rule": "transitional_permission",
+          "trigger": {
+            "boundary_type": "external_event",
+            "date": null,
+            "description": "Obtención de la autorización para actuar como institución de fondos de pago electrónico."
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Seis meses contados a partir de la obtención de la autorización."
+          },
+          "responsible_authorities": [],
+          "verification_status": "external_verification_required"
+        }
+      ]
+    },
+    "evidence": {
+      "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:transitory:cuarto",
+      "label": "CUARTO",
+      "text": "Las personas a que se refiere la disposición OCTAVA Transitoria de la Ley para Regular las Instituciones de Tecnología Financiera publicada en el Diario Oficial el 9 de marzo de 2018, tendrán un plazo de seis meses contados a partir de la obtención de su autorización para actuar como institución de fondos de pago electrónico, para cumplir con lo establecido en los artículos 44, 45, 46 y 47 de las presentes Disposiciones."
+    },
+    "camara_source_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
+    "formal_source_url": "https://www.dof.gob.mx/nota_detalle_popup.php?codigo=5610487",
+    "provision_diff": "Initial enactment; there is no prior provision version for this instrument.",
+    "resolution_options": [
+      "accept_machine_conclusion",
+      "set_unknown",
+      "lawyer_override"
+    ],
+    "status": "resolved",
+    "reviewer_note": "La autorización que detona el plazo de seis meses la otorga la CNBV previo acuerdo del Comité Interinstitucional (artículo 35, primer párrafo, LRITF). El Comité Interinstitucional se integra por representantes de la SHCP, el Banco de México y la CNBV, y su secretario se designa de entre los servidores públicos de la CNBV (artículo 35, segundo párrafo, LRITF). Autoridad responsable: CNBV, previo acuerdo del Comité Interinstitucional (CNBV, Banco de México y SHCP).",
+    "resolution": "lawyer_override",
+    "resolved_by": "JRH",
+    "resolved_at": "2026-07-03T18:15:47.083534Z"
+  }
+]

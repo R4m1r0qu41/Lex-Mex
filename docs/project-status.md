@@ -152,8 +152,13 @@ Current recorded source hashes:
   2021-10-28), the nine-month adaptation period for Articles 16 and 17 (to
   2022-01-28), and CUARTO's authorization-triggered six-month cohort rule,
   classified `external_verification_required` because each obligation runs
-  from an individual authorization. All 4 machine-accepted at confidence
-  0.97–0.99; 0 pending reviews; nothing labeled lawyer-verified.
+  from an individual authorization. Initially all 4 were machine-accepted
+  at confidence 0.97–0.99 with 0 pending reviews; JRH subsequently opened
+  and resolved a review of CUARTO through the audited workflow, so that
+  determination is now lawyer-verified: the authorization that starts its
+  six-month clock is granted by the CNBV previo acuerdo del Comité
+  Interinstitucional (SHCP, Banco de México, CNBV; LRITF art. 35),
+  recorded in `responsible_authorities`.
 - The DCG is modeled as implementing statutory delegations with its own
   commencement and transitory effects; it does not amend the LRITF.
 
@@ -200,8 +205,9 @@ import-temporal <slug> <response> --model MODEL
 validate <slug>
 export <slug> --format json|markdown|obsidian
 pipeline <slug>
-review list [--all]
-review resolve <review-id>
+review [--instrument <slug>] list [--all]
+review [--instrument <slug>] open <provision-id> --reason TEXT
+review [--instrument <slug>] resolve <review-id>
 ```
 
 ## 3. What has been tested
@@ -292,7 +298,7 @@ Checks rerun successfully on 2026-07-03:
 | Structural validation issues (both instruments) | 0 |
 | LRITF temporal determinations / effects | 19 / 32 |
 | DCG temporal determinations (machine-accepted) | 4 |
-| Lawyer-verified determinations | 1 (LRITF SÉPTIMA, unchanged) |
+| Lawyer-verified determinations | 2 (LRITF SÉPTIMA, unchanged; DCG CUARTO, JRH) |
 | Pending legal reviews | 0 |
 | Markdown files in the Obsidian vault | 235 |
 | Obsidian unresolved links | 0 |

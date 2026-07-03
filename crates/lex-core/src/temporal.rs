@@ -43,6 +43,18 @@ pub enum TemporalRoutingError {
 }
 
 #[derive(Debug, Error)]
+pub enum TemporalReviewOpenError {
+    #[error("a review item already exists for {0}; audit history is never overwritten")]
+    AlreadyExists(String),
+    #[error("temporal result does not contain a determination for {0}")]
+    DeterminationNotFound(String),
+    #[error("temporal request does not contain evidence for {0}")]
+    EvidenceNotFound(String),
+    #[error("review reason cannot be empty")]
+    EmptyReason,
+}
+
+#[derive(Debug, Error)]
 pub enum TemporalReviewResolutionError {
     #[error("review item is already resolved")]
     AlreadyResolved,
@@ -267,6 +279,45 @@ fn review_item(
         resolved_by: None,
         resolved_at: None,
     }
+}
+
+/// Open a review item for a determination that did not route to review on
+/// its own — typically a machine-accepted conclusion that the designated
+/// legal reviewer wants to correct or enrich. The machine conclusion is
+/// preserved verbatim as the item's proposal, and existing items (pending
+/// or resolved) are never replaced: a resolved review is immutable.
+pub fn open_temporal_review(
+    items: &mut Vec<ReviewItem>,
+    result: &TemporalAnalysisResult,
+    request: &TemporalAnalysisRequest,
+    provision_id: &str,
+    reason: &str,
+    camara_source_url: &Url,
+) -> Result<(), TemporalReviewOpenError> {
+    let reason = reason.trim();
+    if reason.is_empty() {
+        return Err(TemporalReviewOpenError::EmptyReason);
+    }
+    let id = format!("review:temporal:{provision_id}");
+    if items.iter().any(|item| item.id == id) {
+        return Err(TemporalReviewOpenError::AlreadyExists(
+            provision_id.to_owned(),
+        ));
+    }
+    let determination = result
+        .determinations
+        .iter()
+        .find(|item| item.provision_id == provision_id)
+        .ok_or_else(|| TemporalReviewOpenError::DeterminationNotFound(provision_id.to_owned()))?;
+    let evidence = request
+        .relevant_provisions
+        .iter()
+        .find(|item| item.provision_id == provision_id)
+        .ok_or_else(|| TemporalReviewOpenError::EvidenceNotFound(provision_id.to_owned()))?;
+    let mut item = review_item(request, evidence, determination, camara_source_url.clone());
+    reason.clone_into(&mut item.exact_issue);
+    items.push(item);
+    Ok(())
 }
 
 pub fn resolve_temporal_review(
@@ -612,6 +663,80 @@ mod tests {
             TemporalStatus::Unknown
         );
         assert_eq!(rerun.result.determinations[0].basis, Basis::LawyerVerified);
+    }
+
+    #[test]
+    fn opens_review_on_machine_accepted_determination_and_preserves_proposal() {
+        let request = request();
+        let batch = model_batch(procedural_survival_effect(
+            TemporalVerificationStatus::OpenEndedByDesign,
+        ));
+        let mut routed = route(&request, batch).unwrap();
+        assert!(routed.review_items.is_empty(), "machine accepted");
+        let provision_id = request.relevant_provisions[0].provision_id.clone();
+        let source_url: Url = "https://example.com/source.pdf".parse().unwrap();
+
+        open_temporal_review(
+            &mut routed.review_items,
+            &routed.result,
+            &request,
+            &provision_id,
+            "El revisor designado corrige las autoridades responsables.",
+            &source_url,
+        )
+        .unwrap();
+        assert_eq!(routed.review_items.len(), 1);
+        let item = &routed.review_items[0];
+        assert_eq!(item.status, ReviewItemStatus::Pending);
+        assert_eq!(
+            item.exact_issue,
+            "El revisor designado corrige las autoridades responsables."
+        );
+        // The machine conclusion is preserved verbatim as the proposal.
+        assert!((item.proposed_machine_conclusion.confidence - 0.98).abs() < f32::EPSILON);
+        assert_eq!(item.proposed_machine_conclusion.basis, Basis::LlmInference);
+
+        // A second open for the same provision must not touch the item.
+        let error = open_temporal_review(
+            &mut routed.review_items,
+            &routed.result,
+            &request,
+            &provision_id,
+            "duplicado",
+            &source_url,
+        )
+        .unwrap_err();
+        assert!(matches!(error, TemporalReviewOpenError::AlreadyExists(_)));
+
+        // Resolving with a lawyer override keeps the original proposal in
+        // the audit record while the determination becomes lawyer-verified.
+        let mut corrected =
+            procedural_survival_effect(TemporalVerificationStatus::OpenEndedByDesign);
+        corrected.responsible_authorities =
+            vec!["Comisión Nacional Bancaria y de Valores".to_owned()];
+        resolve_temporal_review(
+            &mut routed.review_items[0],
+            &mut routed.result.determinations,
+            TemporalReviewResolution {
+                resolution: ReviewResolution::LawyerOverride,
+                reviewer: "JRH".to_owned(),
+                note: Some("Autoridad responsable identificada.".to_owned()),
+                temporal_status: None,
+                effective_from: None,
+                effective_to: None,
+                effects: Some(vec![corrected.clone()]),
+                resolved_at: Utc.with_ymd_and_hms(2026, 7, 3, 0, 0, 0).unwrap(),
+            },
+        )
+        .unwrap();
+        let determination = &routed.result.determinations[0];
+        assert_eq!(determination.basis, Basis::LawyerVerified);
+        assert_eq!(determination.effects, vec![corrected]);
+        assert_eq!(
+            routed.review_items[0].proposed_machine_conclusion.basis,
+            Basis::LlmInference
+        );
+        assert_eq!(routed.review_items[0].resolved_by.as_deref(), Some("JRH"));
     }
 
     #[test]

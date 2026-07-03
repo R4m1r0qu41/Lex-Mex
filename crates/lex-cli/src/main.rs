@@ -14,7 +14,8 @@ use lex_core::{
     ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest, TemporalAnalysisMetadata,
     TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence, TemporalModelBatch,
     TemporalReviewResolution, TemporalStatus, TransitoryEffect, apply_temporal_determinations,
-    preserve_temporal_review_history, resolve_temporal_review, route_temporal_analysis,
+    open_temporal_review, preserve_temporal_review_history, resolve_temporal_review,
+    route_temporal_analysis,
 };
 use lex_export::{
     LinkTargets, link_targets, write_canonical, write_markdown, write_obsidian, write_validation,
@@ -96,6 +97,8 @@ enum Command {
         temporal_model: String,
     },
     Review {
+        #[arg(long, default_value = "lritf")]
+        instrument: String,
         #[command(subcommand)]
         command: ReviewCommand,
     },
@@ -119,6 +122,14 @@ enum ReviewCommand {
     List {
         #[arg(long)]
         all: bool,
+    },
+    /// Open a review item for a determination that was machine-accepted,
+    /// so the designated legal reviewer can correct or enrich it through
+    /// the audited resolution workflow.
+    Open {
+        provision_id: String,
+        #[arg(long)]
+        reason: String,
     },
     Resolve {
         review_id: String,
@@ -269,8 +280,11 @@ fn main() -> Result<()> {
                 &temporal_model,
             )?;
         }
-        Command::Review { command } => {
-            let context = instrument_context(&root, "lritf")?;
+        Command::Review {
+            instrument,
+            command,
+        } => {
+            let context = instrument_context(&root, &instrument)?;
             run_review_command(&root, &context, obsidian_vault.as_deref(), command)?;
         }
     }
@@ -825,6 +839,10 @@ fn run_review_command(
 ) -> Result<()> {
     match command {
         ReviewCommand::List { all } => run_review_list(context, all),
+        ReviewCommand::Open {
+            provision_id,
+            reason,
+        } => run_review_open(context, &provision_id, &reason),
         ReviewCommand::Resolve {
             review_id,
             resolution,
@@ -861,6 +879,29 @@ fn run_review_command(
             Ok(())
         }
     }
+}
+
+fn run_review_open(context: &InstrumentContext, provision_id: &str, reason: &str) -> Result<()> {
+    let paths = &context.paths;
+    let mut items: Vec<ReviewItem> = read_json(&paths.review_queue)
+        .with_context(|| "review queue not found; run temporal analysis first")?;
+    let result: TemporalAnalysisResult = read_json(&paths.temporal_result)
+        .with_context(|| "temporal result not found; run temporal analysis first")?;
+    let request: TemporalAnalysisRequest = read_json(&paths.temporal_request)
+        .with_context(|| "temporal request not found; run temporal analysis first")?;
+    let instrument: Instrument = read_json(&paths.instrument)?;
+    open_temporal_review(
+        &mut items,
+        &result,
+        &request,
+        provision_id,
+        reason,
+        &instrument.source_url,
+    )?;
+    enrich_review_context(&mut items, &context.config);
+    write_pretty_json(&items, &paths.review_queue)?;
+    println!("opened review:temporal:{provision_id}");
+    Ok(())
 }
 
 fn run_review_list(context: &InstrumentContext, all: bool) -> Result<()> {

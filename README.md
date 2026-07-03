@@ -130,12 +130,16 @@ cargo run --locked -p lex-cli -- \
 ```
 
 Materially unknown effects and confidence below the configured threshold are
-routed to `corpus/mx/lritf/review-queue.json` and the generated Obsidian review
-dashboard. Review resolution requires a reviewer identity:
+routed to the instrument's `review-queue.json` and the generated Obsidian
+review dashboard. The designated reviewer can also open a review on a
+machine-accepted determination to correct or enrich it. Review resolution
+requires a reviewer identity:
 
 ```bash
 cargo run --locked -p lex-cli -- review list
 cargo run --locked -p lex-cli -- review list --all
+cargo run --locked -p lex-cli -- review --instrument ifpe-dcg-2021 \
+  open PROVISION_ID --reason "Why the accepted conclusion needs review"
 cargo run --locked -p lex-cli -- review resolve REVIEW_ID \
   --resolution accept-machine-conclusion --reviewer "Reviewer name"
 ```

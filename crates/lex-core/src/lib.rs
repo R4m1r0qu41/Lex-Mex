@@ -5,9 +5,9 @@ use url::Url;
 mod temporal;
 
 pub use temporal::{
-    RoutedTemporalAnalysis, TemporalReviewResolutionError, TemporalRoutingError,
-    apply_temporal_determinations, preserve_temporal_review_history, resolve_temporal_review,
-    route_temporal_analysis,
+    RoutedTemporalAnalysis, TemporalReviewOpenError, TemporalReviewResolutionError,
+    TemporalRoutingError, apply_temporal_determinations, open_temporal_review,
+    preserve_temporal_review_history, resolve_temporal_review, route_temporal_analysis,
 };
 
 pub const SCHEMA_VERSION: &str = "0.1.0";

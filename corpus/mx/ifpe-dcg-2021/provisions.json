@@ -1419,9 +1419,9 @@
     "effective_from": "2021-04-28",
     "effective_to": null,
     "temporal_status": "effective",
-    "temporal_basis": "llm_inference",
-    "temporal_confidence": 0.97,
-    "review_status": "machine_accepted",
+    "temporal_basis": "lawyer_verified",
+    "temporal_confidence": 1.0,
+    "review_status": "lawyer_verified",
     "transitory_effects": [
       {
         "effect_type": "adaptation_period",
@@ -1437,7 +1437,9 @@
           "date": null,
           "description": "Seis meses contados a partir de la obtención de la autorización."
         },
-        "responsible_authorities": [],
+        "responsible_authorities": [
+          "Comisión Nacional Bancaria y de Valores, previo acuerdo del Comité Interinstitucional (CNBV, Banco de México y SHCP)"
+        ],
         "verification_status": "external_verification_required"
       }
     ]

@@ -119,8 +119,8 @@
       "publication_date": "2021-01-28",
       "effective_from": "2021-04-28",
       "effective_to": null,
-      "confidence": 0.97,
-      "basis": "llm_inference",
+      "confidence": 1.0,
+      "basis": "lawyer_verified",
       "supporting_text": [
         "Las personas a que se refiere la disposición OCTAVA Transitoria de la Ley para Regular las Instituciones de Tecnología Financiera publicada en el Diario Oficial el 9 de marzo de 2018, tendrán un plazo de seis meses contados a partir de la obtención de su autorización para actuar como institución de fondos de pago electrónico, para cumplir con lo establecido en los artículos 44, 45, 46 y 47 de las presentes Disposiciones."
       ],
@@ -143,7 +143,9 @@
             "date": null,
             "description": "Seis meses contados a partir de la obtención de la autorización."
           },
-          "responsible_authorities": [],
+          "responsible_authorities": [
+            "Comisión Nacional Bancaria y de Valores, previo acuerdo del Comité Interinstitucional (CNBV, Banco de México y SHCP)"
+          ],
           "verification_status": "external_verification_required"
         }
       ]
