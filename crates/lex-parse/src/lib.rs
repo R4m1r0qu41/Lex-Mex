@@ -166,6 +166,13 @@ struct ReferencePatterns {
     fraction: Regex,
     subsection: Regex,
     transitory_citation: Regex,
+    /// Qualifier phrase written before the article number, ending right at
+    /// the `artículo(s)` header: `la fracción XI del artículo 36`.
+    pre_qualifier: Regex,
+    /// Fraction citation of the containing article itself:
+    /// `fracciones I, II, III y IV del presente artículo`.
+    same_article_fraction: Regex,
+    roman: Regex,
 }
 
 impl ReferencePatterns {
@@ -175,6 +182,19 @@ impl ReferencePatterns {
             transitory_citation: Regex::new(
                 r"(?i)\bdisposici(?:ón|ones)\s+(PRIMERA|SEGUNDA|TERCERA|CUARTA|QUINTA|SEXTA|SÉPTIMA|OCTAVA|NOVENA|DÉCIMA(?:\s+PRIMERA)?)\s+Transitorias?",
             )?,
+            pre_qualifier: Regex::new(
+                r"(?ix)\b(
+                    fracci(?:ón|ones)\s+[IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)* |
+                    (?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último)
+                        (?:\s+(?:,|y|o)\s+(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último))*
+                        \s+párrafos? |
+                    incisos?\s+[a-z](?:\s*(?:,|y|o)\s*[a-z])*
+                )\s+de(?:l|\s+los)\s*$",
+            )?,
+            same_article_fraction: Regex::new(
+                r"(?i)\bfracci(?:ón|ones)\s+([IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)*)\s+de(?:l\s+presente|\s+este)\s+artículo",
+            )?,
+            roman: Regex::new(r"\b[IVXLCDM]+\b")?,
             number: Regex::new(r"(?i)\d{1,3}(?:-[A-Z])?(?:\s+(?:Bis|Ter|Quáter))?")?,
             separator: Regex::new(
                 r"(?ix)^(?:
@@ -234,6 +254,10 @@ pub struct ReferenceOptions {
     /// Extract `disposición ORDINAL Transitoria` citations as transitory
     /// reference edges. Enabled for multi-instrument extraction only.
     pub transitory_citations: bool,
+    /// Extract `fracción N del presente artículo` citations as edges
+    /// targeting the containing provision, so the fraction numerals can
+    /// link to their own fraction blocks.
+    pub same_article_fractions: bool,
 }
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
@@ -247,6 +271,7 @@ pub fn extract_internal_references(provisions: &[Provision]) -> Result<Vec<Refer
     let options = ReferenceOptions {
         policy: InstrumentContextPolicy::WholeGroupPresence,
         transitory_citations: false,
+        same_article_fractions: true,
     };
     let target_ids: HashSet<String> = provisions.iter().map(|item| item.id.clone()).collect();
     extract_references(provisions, None, &options, &target_ids)
@@ -313,6 +338,7 @@ fn extract_source_references(
         let group = &source.text[header.end()..group_end];
         references.extend(extract_reference_group(
             source,
+            header.start(),
             header.end(),
             group,
             patterns,
@@ -328,11 +354,19 @@ fn extract_source_references(
             known_targets,
         ));
     }
+    if options.same_article_fractions {
+        references.extend(extract_same_article_fractions(
+            source,
+            patterns,
+            known_targets,
+        ));
+    }
     references
 }
 
 fn extract_reference_group(
     source: ReferenceSource<'_>,
+    header_start: usize,
     group_start: usize,
     group: &str,
     patterns: &ReferencePatterns,
@@ -343,6 +377,7 @@ fn extract_reference_group(
     if accepted.is_empty() {
         return Vec::new();
     }
+    let pre_qualifiers = pre_number_qualifiers(source.text, header_start, patterns);
     let context_end = accepted
         .last()
         .map_or(group.len(), |last| match options.policy {
@@ -362,6 +397,7 @@ fn extract_reference_group(
         group_start,
         group,
         &accepted,
+        &pre_qualifiers,
         patterns,
         known_targets,
     );
@@ -504,12 +540,14 @@ fn accepted_numbers<'a>(group: &'a str, patterns: &ReferencePatterns) -> Vec<reg
     accepted
 }
 
+#[allow(clippy::too_many_arguments)]
 fn direct_reference_edges(
     source: ReferenceSource<'_>,
     target_instrument_id: &str,
     group_start: usize,
     group: &str,
     accepted: &[regex::Match<'_>],
+    pre_qualifiers: &[ReferenceQualifier],
     patterns: &ReferencePatterns,
     known_targets: &HashSet<String>,
 ) -> Vec<ReferenceEdge> {
@@ -526,17 +564,21 @@ fn direct_reference_edges(
             } else {
                 qualifier_text
             };
+            // A qualifier written before the header scopes over the whole
+            // article list, so it attaches to every direct edge.
+            let mut qualifiers = pre_qualifiers.to_vec();
+            qualifiers.extend(extract_qualifiers(
+                source.text,
+                group_start + number_match.end(),
+                qualifier_text,
+                patterns,
+            ));
             reference_edge(
                 source,
                 number_match.as_str(),
                 (group_start + number_match.start())..(group_start + number_match.end()),
                 canonical_article_id(target_instrument_id, number_match.as_str()),
-                extract_qualifiers(
-                    qualifier_text,
-                    &patterns.paragraph,
-                    &patterns.fraction,
-                    &patterns.subsection,
-                ),
+                qualifiers,
                 ReferenceForm::Direct,
                 known_targets,
             )
@@ -669,44 +711,144 @@ fn has_external_instrument_context(value: &str) -> bool {
         .any(|marker| value.contains(marker))
 }
 
+/// Extract post-number qualifiers from `value`, a slice of the source text
+/// beginning at byte offset `base` within `source_text`. Each qualifier is
+/// anchored with its Unicode character span in the full source text.
 fn extract_qualifiers(
+    source_text: &str,
+    base: usize,
     value: &str,
-    paragraph_re: &Regex,
-    fraction_re: &Regex,
-    subsection_re: &Regex,
+    patterns: &ReferencePatterns,
 ) -> Vec<ReferenceQualifier> {
+    let searches = [
+        (&patterns.paragraph, ReferenceQualifierType::Paragraph),
+        (&patterns.fraction, ReferenceQualifierType::Fraction),
+        (&patterns.subsection, ReferenceQualifierType::Subsection),
+    ];
     let mut matches = Vec::new();
-    matches.extend(paragraph_re.find_iter(value).map(|item| {
-        (
-            item.start(),
-            ReferenceQualifier {
-                qualifier_type: ReferenceQualifierType::Paragraph,
-                text: item.as_str().to_owned(),
-            },
-        )
-    }));
-    matches.extend(fraction_re.find_iter(value).map(|item| {
-        (
-            item.start(),
-            ReferenceQualifier {
-                qualifier_type: ReferenceQualifierType::Fraction,
-                text: item.as_str().to_owned(),
-            },
-        )
-    }));
-    matches.extend(subsection_re.find_iter(value).map(|item| {
-        (
-            item.start(),
-            ReferenceQualifier {
-                qualifier_type: ReferenceQualifierType::Subsection,
-                text: item.as_str().to_owned(),
-            },
-        )
-    }));
+    for (regex, qualifier_type) in searches {
+        matches.extend(regex.find_iter(value).map(|item| {
+            (
+                item.start(),
+                anchored_qualifier(
+                    source_text,
+                    base + item.start(),
+                    item.as_str(),
+                    qualifier_type.clone(),
+                ),
+            )
+        }));
+    }
     matches.sort_by_key(|(start, _)| *start);
     matches
         .into_iter()
         .map(|(_, qualifier)| qualifier)
+        .collect()
+}
+
+fn anchored_qualifier(
+    source_text: &str,
+    byte_start: usize,
+    text: &str,
+    qualifier_type: ReferenceQualifierType,
+) -> ReferenceQualifier {
+    let start_char = source_text[..byte_start].chars().count();
+    ReferenceQualifier {
+        qualifier_type,
+        text: text.to_owned(),
+        start_char: Some(start_char),
+        end_char: Some(start_char + text.chars().count()),
+    }
+}
+
+/// Capture a qualifier phrase written immediately before the `artículo(s)`
+/// header, as in `las fracciones II, III, IV y V del artículo 22` or
+/// `el séptimo párrafo del artículo 29`. The phrase must end exactly at the
+/// header, connected by `del` / `de los`.
+fn pre_number_qualifiers(
+    source_text: &str,
+    header_start: usize,
+    patterns: &ReferencePatterns,
+) -> Vec<ReferenceQualifier> {
+    let before = &source_text[..header_start];
+    let window_start = before
+        .char_indices()
+        .rev()
+        .nth(119)
+        .map_or(0, |(index, _)| index);
+    let window = &before[window_start..];
+    let Some(captures) = patterns.pre_qualifier.captures(window) else {
+        return Vec::new();
+    };
+    let phrase = captures.get(1).expect("qualifier capture");
+    let lower = phrase.as_str().to_lowercase();
+    let qualifier_type = if lower.starts_with("fracci") {
+        ReferenceQualifierType::Fraction
+    } else if lower.starts_with("inciso") {
+        ReferenceQualifierType::Subsection
+    } else {
+        ReferenceQualifierType::Paragraph
+    };
+    vec![anchored_qualifier(
+        source_text,
+        window_start + phrase.start(),
+        phrase.as_str(),
+        qualifier_type,
+    )]
+}
+
+/// Extract `fracción N del presente artículo` citations as edges targeting
+/// the containing provision. One edge per numeral, spanning exactly the
+/// numeral, so the exporter can link it to the provision's own fraction
+/// block. A numeral only produces an edge when the provision actually has
+/// that fraction as a paragraph.
+fn extract_same_article_fractions(
+    source: ReferenceSource<'_>,
+    patterns: &ReferencePatterns,
+    known_targets: &HashSet<String>,
+) -> Vec<ReferenceEdge> {
+    // The instrument title is not a provision and has no fractions.
+    if source.source_id == source.instrument_id {
+        return Vec::new();
+    }
+    let own_fractions = fraction_labels(source.text);
+    let mut references = Vec::new();
+    for captures in patterns.same_article_fraction.captures_iter(source.text) {
+        let numerals = captures.get(1).expect("numerals capture");
+        for numeral in patterns.roman.find_iter(numerals.as_str()) {
+            if !own_fractions.contains(numeral.as_str()) {
+                continue;
+            }
+            let byte_start = numerals.start() + numeral.start();
+            let byte_end = numerals.start() + numeral.end();
+            references.push(reference_edge(
+                source,
+                numeral.as_str(),
+                byte_start..byte_end,
+                source.source_id.to_owned(),
+                vec![anchored_qualifier(
+                    source.text,
+                    byte_start,
+                    numeral.as_str(),
+                    ReferenceQualifierType::Fraction,
+                )],
+                ReferenceForm::Direct,
+                known_targets,
+            ));
+        }
+    }
+    references
+}
+
+/// Roman-numeral labels of the fraction paragraphs in a provision's text.
+fn fraction_labels(text: &str) -> HashSet<&str> {
+    let fraction_start = Regex::new(r"^([IVXLCDM]+)\.\s").expect("static regex");
+    text.split("\n\n")
+        .filter_map(|paragraph| {
+            fraction_start
+                .captures(paragraph)
+                .map(|captures| captures.get(1).expect("label").as_str())
+        })
         .collect()
 }
 
@@ -1201,6 +1343,21 @@ fn validate_reference_span(
     source_text: &str,
     issues: &mut Vec<ValidationIssue>,
 ) {
+    for qualifier in &reference.qualifiers {
+        if let (Some(start), Some(end)) = (qualifier.start_char, qualifier.end_char) {
+            match char_slice(source_text, start, end) {
+                Some(span) if span == qualifier.text => {}
+                _ => issues.push(error(
+                    "qualifier_span_mismatch",
+                    format!(
+                        "qualifier span {:?} does not match source text at {start}..{end}",
+                        qualifier.text
+                    ),
+                    Some(reference.source_provision_id.clone()),
+                )),
+            }
+        }
+    }
     match char_slice(source_text, reference.start_char, reference.end_char) {
         Some(span) if span == reference.source_span => {}
         Some(span) => issues.push(error(
@@ -1554,6 +1711,8 @@ mod tests {
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");
     const REFERENCE_FIXTURE: &str = include_str!("../../../fixtures/lritf/reference-sample.txt");
     const DCG_FIXTURE: &str = include_str!("../../../fixtures/ifpe-dcg-2021/parser-sample.txt");
+    const DCG_ANNEX_1_FIXTURE: &str =
+        include_str!("../../../fixtures/ifpe-dcg-2021/annex-1-sample.txt");
     const DCG_ID: &str = "urn:lex-mx:federal:regulation:ifpe-dcg-2021";
     const LRITF_ID: &str = "urn:lex-mx:federal:statute:lritf";
 
@@ -1575,13 +1734,29 @@ mod tests {
                 )],
             },
             transitory_citations: true,
+            same_article_fractions: true,
         }
     }
 
-    #[test]
-    fn resolves_cross_instrument_and_title_references_deterministically() {
+    const DCG_TITLE: &str = "Disposiciones aplicables a las instituciones de fondos de pago electrónico \
+         a que se refieren los artículos 48, segundo párrafo; 54, primer párrafo, y \
+         56, primer y segundo párrafos de la Ley para Regular las Instituciones de \
+         Tecnología Financiera";
+
+    fn dcg_fixture_graph() -> (
+        Vec<lex_core::Provision>,
+        Vec<lex_core::ReferenceEdge>,
+        HashSet<String>,
+    ) {
         let date = NaiveDate::from_ymd_opt(2021, 1, 28).unwrap();
-        let provisions = parse_dcg(DCG_FIXTURE, &[], DCG_ID, date, &["1".to_owned()]).unwrap();
+        let provisions = parse_dcg(
+            DCG_FIXTURE,
+            &[(1, DCG_ANNEX_1_FIXTURE.to_owned())],
+            DCG_ID,
+            date,
+            &["1".to_owned()],
+        )
+        .unwrap();
         let mut known_targets: HashSet<String> =
             provisions.iter().map(|item| item.id.clone()).collect();
         for target in [
@@ -1592,17 +1767,19 @@ mod tests {
         ] {
             known_targets.insert(target);
         }
-        let title = "Disposiciones aplicables a las instituciones de fondos de pago electrónico \
-                     a que se refieren los artículos 48, segundo párrafo; 54, primer párrafo, y \
-                     56, primer y segundo párrafos de la Ley para Regular las Instituciones de \
-                     Tecnología Financiera";
         let references = extract_references(
             &provisions,
-            Some((DCG_ID, title)),
+            Some((DCG_ID, DCG_TITLE)),
             &dcg_reference_options(),
             &known_targets,
         )
         .unwrap();
+        (provisions, references, known_targets)
+    }
+
+    #[test]
+    fn resolves_cross_instrument_and_title_references_deterministically() {
+        let (_provisions, references, _known_targets) = dcg_fixture_graph();
 
         // Title citations resolve against LRITF with their paragraph
         // qualifiers preserved.
@@ -1672,6 +1849,86 @@ mod tests {
             !references
                 .iter()
                 .any(|edge| edge.target_provision_id.contains("codigo"))
+        );
+    }
+
+    #[test]
+    fn captures_pre_number_qualifiers_and_same_article_fractions() {
+        let (provisions, references, known_targets) = dcg_fixture_graph();
+
+        // A qualifier written before the number — `la fracción XI del
+        // artículo 36` in Anexo 1 — is captured with its anchored span.
+        let annex_citation = references
+            .iter()
+            .find(|edge| {
+                edge.source_provision_id.ends_with(":annex:1")
+                    && edge.target_provision_id.ends_with(":article:36")
+            })
+            .expect("annex 1 cites article 36");
+        assert_eq!(annex_citation.qualifiers.len(), 1);
+        let qualifier = &annex_citation.qualifiers[0];
+        assert_eq!(qualifier.text, "fracción XI");
+        assert_eq!(qualifier.qualifier_type, ReferenceQualifierType::Fraction);
+        let (start, end) = (
+            qualifier.start_char.expect("anchored"),
+            qualifier.end_char.expect("anchored"),
+        );
+        let annex_text = &provisions
+            .iter()
+            .find(|item| item.id.ends_with(":annex:1"))
+            .expect("annex 1")
+            .text;
+        let span: String = annex_text.chars().skip(start).take(end - start).collect();
+        assert_eq!(span, "fracción XI");
+
+        // `las fracciones III y IV de este artículo` in Article 36 becomes
+        // one self-targeting edge per numeral, each spanning the numeral.
+        let same_article: Vec<_> = references
+            .iter()
+            .filter(|edge| {
+                edge.source_provision_id.ends_with(":article:36")
+                    && edge.target_provision_id == edge.source_provision_id
+            })
+            .collect();
+        assert_eq!(
+            same_article
+                .iter()
+                .map(|edge| edge.source_span.as_str())
+                .collect::<Vec<_>>(),
+            ["III", "IV"]
+        );
+        assert!(same_article.iter().all(|edge| {
+            edge.resolution_status == ReferenceResolutionStatus::Resolved
+                && edge.qualifiers.len() == 1
+        }));
+
+        // The full graph passes validation, including qualifier spans.
+        let report = super::validate_corpus(
+            &super::CorpusView {
+                instrument_id: DCG_ID,
+                official_title: Some(DCG_TITLE),
+                provisions: &provisions,
+                references: &references,
+                terms: &[],
+                term_usages: &[],
+            },
+            &super::CorpusExpectations::default(),
+            &known_targets,
+            &HashSet::new(),
+        );
+        // The fixture is an excerpt, so count/order/unresolved-target
+        // issues are expected; span integrity must hold regardless.
+        assert!(
+            !report.issues.iter().any(|issue| {
+                matches!(
+                    issue.code.as_str(),
+                    "qualifier_span_mismatch"
+                        | "reference_span_mismatch"
+                        | "reference_offsets_invalid"
+                )
+            }),
+            "{:?}",
+            report.issues
         );
     }
 

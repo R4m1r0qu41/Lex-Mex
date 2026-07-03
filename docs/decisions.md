@@ -1,5 +1,41 @@
 # Architecture decisions
 
+## 2026-07-03 — Fraction-level references and previews
+
+A fraction never exists in isolation — `fracción XI` only means something
+relative to its article — so fraction precision is layered onto article
+edges rather than modeled as standalone targets. Three additions:
+
+1. **Pre-number qualifiers.** Phrases written before the article number
+   (`las fracciones II, III, IV y V del artículo 22`, `el séptimo párrafo
+   del artículo 29`) are captured when they end exactly at the `artículo`
+   header, connected by `del`/`de los`, and attach to every article in the
+   cited list. Previously only post-number qualifiers were captured.
+2. **Anchored qualifier spans.** `ReferenceQualifier` gains optional
+   Unicode character offsets, validated against the unchanged canonical
+   text like edge spans. Offsets are backward compatible: existing
+   qualifiers without offsets remain valid.
+3. **Same-article fraction citations.** `fracción N del presente artículo`
+   / `de este artículo` produces one edge per numeral, targeting the
+   containing provision, spanning exactly the numeral, and only when the
+   provision actually has that fraction as a paragraph.
+
+Presentation uses a dual affordance because a native Obsidian hover can
+preview either a whole note or a single block, not a composed
+article-header-plus-fraction view: the article number keeps its whole-note
+link, and each fraction numeral in an anchored qualifier links to the
+target's `^f-<n>` block — `fracción [[articulo-36#^f-xi|XI]] del artículo
+[[articulo-36|36]]`. Same-article numerals link to the provision's own
+fraction block. A numeral links only if the target note actually has the
+fraction anchor; otherwise it stays plain text. Anchor links are
+Obsidian-only (standard Markdown has no block anchors). Generating a
+per-fraction note to get the composed preview remains a possible later
+presentation add-on.
+
+Enabling same-article extraction grew the audited graphs deliberately:
+LRITF 95 → 115 edges (the original 95 unchanged plus 20 self-targeting
+fraction edges), DCG 98 → 111.
+
 ## 2026-07-03 — Defined-term glossary layer
 
 Mexican financial instruments commonly define their working vocabulary in a

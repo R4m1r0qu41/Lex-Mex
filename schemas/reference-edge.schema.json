@@ -66,6 +66,14 @@
           "text": {
             "type": "string",
             "minLength": 1
+          },
+          "start_char": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "end_char": {
+            "type": "integer",
+            "minimum": 1
           }
         }
       }

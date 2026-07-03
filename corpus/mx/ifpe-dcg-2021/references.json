@@ -11,7 +11,9 @@
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
-        "text": "segundo párrafo"
+        "text": "segundo párrafo",
+        "start_char": 111,
+        "end_char": 126
       }
     ],
     "basis": "express_cross_reference",
@@ -31,7 +33,9 @@
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
-        "text": "primer párrafo"
+        "text": "primer párrafo",
+        "start_char": 132,
+        "end_char": 146
       }
     ],
     "basis": "express_cross_reference",
@@ -51,7 +55,9 @@
     "qualifiers": [
       {
         "qualifier_type": "paragraph",
-        "text": "primer y segundo párrafos"
+        "text": "primer y segundo párrafos",
+        "start_char": 154,
+        "end_char": 179
       }
     ],
     "basis": "express_cross_reference",
@@ -68,7 +74,14 @@
     "end_char": 274,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:36",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XI",
+        "start_char": 247,
+        "end_char": 258
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -128,7 +141,14 @@
     "end_char": 6665,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:49",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 6637,
+        "end_char": 6649
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -173,7 +193,14 @@
     "end_char": 5763,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:47",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 5737,
+        "end_char": 5747
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -188,7 +215,14 @@
     "end_char": 7599,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:5",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II y III",
+        "start_char": 7565,
+        "end_char": 7584
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -296,7 +330,9 @@
     "qualifiers": [
       {
         "qualifier_type": "fraction",
-        "text": "fracción III"
+        "text": "fracción III",
+        "start_char": 9974,
+        "end_char": 9986
       }
     ],
     "basis": "express_cross_reference",
@@ -316,7 +352,9 @@
     "qualifiers": [
       {
         "qualifier_type": "fraction",
-        "text": "fracción II"
+        "text": "fracción II",
+        "start_char": 11446,
+        "end_char": 11457
       }
     ],
     "basis": "express_cross_reference",
@@ -336,7 +374,9 @@
     "qualifiers": [
       {
         "qualifier_type": "fraction",
-        "text": "fracción II"
+        "text": "fracción II",
+        "start_char": 11962,
+        "end_char": 11973
       }
     ],
     "basis": "express_cross_reference",
@@ -451,6 +491,50 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:33:reference:720-722:33:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:33",
+    "source_span": "II",
+    "start_char": 720,
+    "end_char": 722,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:33",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 720,
+        "end_char": 722
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:33:reference:847-849:33:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:33",
+    "source_span": "II",
+    "start_char": 847,
+    "end_char": 849,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:33",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 847,
+        "end_char": 849
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:33:reference:2523-2525:59:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:33",
     "source_span": "59",
@@ -511,6 +595,50 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:36:reference:2163-2166:36:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:36",
+    "source_span": "III",
+    "start_char": 2163,
+    "end_char": 2166,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:36",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 2163,
+        "end_char": 2166
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:36:reference:2169-2171:36:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:36",
+    "source_span": "IV",
+    "start_char": 2169,
+    "end_char": 2171,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:36",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "IV",
+        "start_char": 2169,
+        "end_char": 2171
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:36:reference:5495-5497:35:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:36",
     "source_span": "35",
@@ -541,6 +669,50 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:40:reference:3140-3142:40:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:40",
+    "source_span": "II",
+    "start_char": 3140,
+    "end_char": 3142,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:40",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 3140,
+        "end_char": 3142
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:40:reference:3145-3148:40:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:40",
+    "source_span": "III",
+    "start_char": 3145,
+    "end_char": 3148,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:40",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 3145,
+        "end_char": 3148
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:42:reference:2279-2280:5:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:42",
     "source_span": "5",
@@ -548,7 +720,36 @@
     "end_char": 2280,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:5",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 2253,
+        "end_char": 2265
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:42:reference:4628-4630:42:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:42",
+    "source_span": "II",
+    "start_char": 4628,
+    "end_char": 4630,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:42",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 4628,
+        "end_char": 4630
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -563,7 +764,14 @@
     "end_char": 1115,
     "target_instrument_id": "urn:lex-mx:federal:statute:lritf",
     "target_provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II, III, IV y V",
+        "start_char": 1073,
+        "end_char": 1099
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -639,6 +847,50 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:59",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46:reference:1799-1800:46:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46",
+    "source_span": "I",
+    "start_char": 1799,
+    "end_char": 1800,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 1799,
+        "end_char": 1800
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46:reference:1803-1805:46:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46",
+    "source_span": "II",
+    "start_char": 1803,
+    "end_char": 1805,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1803,
+        "end_char": 1805
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -743,7 +995,14 @@
     "end_char": 167,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 134,
+        "end_char": 151
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -758,7 +1017,14 @@
     "end_char": 335,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 309,
+        "end_char": 319
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -773,7 +1039,14 @@
     "end_char": 550,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 523,
+        "end_char": 534
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -791,7 +1064,9 @@
     "qualifiers": [
       {
         "qualifier_type": "fraction",
-        "text": "fracción I"
+        "text": "fracción I",
+        "start_char": 173,
+        "end_char": 183
       }
     ],
     "basis": "express_cross_reference",
@@ -808,7 +1083,14 @@
     "end_char": 199,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:45",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 173,
+        "end_char": 183
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -928,7 +1210,14 @@
     "end_char": 636,
     "target_instrument_id": "urn:lex-mx:federal:statute:lritf",
     "target_provision_id": "urn:lex-mx:federal:statute:lritf:article:22",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II, III, IV y V",
+        "start_char": 594,
+        "end_char": 620
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -945,12 +1234,22 @@
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:44",
     "qualifiers": [
       {
-        "qualifier_type": "paragraph",
-        "text": "segundo párrafo"
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 4956,
+        "end_char": 4968
       },
       {
         "qualifier_type": "paragraph",
-        "text": "segundo párrafo"
+        "text": "segundo párrafo",
+        "start_char": 5119,
+        "end_char": 5134
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 5327,
+        "end_char": 5342
       }
     ],
     "basis": "express_cross_reference",
@@ -1005,6 +1304,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:51:reference:1235-1236:51:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:51",
+    "source_span": "I",
+    "start_char": 1235,
+    "end_char": 1236,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:51",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 1235,
+        "end_char": 1236
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:51:reference:1687-1689:49:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:51",
     "source_span": "49",
@@ -1015,11 +1336,15 @@
     "qualifiers": [
       {
         "qualifier_type": "fraction",
-        "text": "fracción III"
+        "text": "fracción III",
+        "start_char": 1691,
+        "end_char": 1703
       },
       {
         "qualifier_type": "subsection",
-        "text": "incisos b"
+        "text": "incisos b",
+        "start_char": 1705,
+        "end_char": 1714
       }
     ],
     "basis": "express_cross_reference",
@@ -1036,7 +1361,14 @@
     "end_char": 3347,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:49",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 3321,
+        "end_char": 3331
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1051,7 +1383,14 @@
     "end_char": 3444,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:49",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VIII",
+        "start_char": 3415,
+        "end_char": 3428
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1309,7 +1648,15 @@
     "qualifiers": [
       {
         "qualifier_type": "fraction",
-        "text": "fracción III"
+        "text": "fracciones I y II",
+        "start_char": 163,
+        "end_char": 180
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 349,
+        "end_char": 361
       }
     ],
     "basis": "express_cross_reference",
@@ -1326,7 +1673,14 @@
     "end_char": 1093,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:5",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 1066,
+        "end_char": 1078
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1341,7 +1695,14 @@
     "end_char": 1847,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:5",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 1820,
+        "end_char": 1832
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1374,7 +1735,9 @@
     "qualifiers": [
       {
         "qualifier_type": "fraction",
-        "text": "fracción IV"
+        "text": "fracción IV",
+        "start_char": 677,
+        "end_char": 688
       }
     ],
     "basis": "express_cross_reference",
@@ -1391,7 +1754,80 @@
     "end_char": 323,
     "target_instrument_id": "urn:lex-mx:federal:statute:lritf",
     "target_provision_id": "urn:lex-mx:federal:statute:lritf:article:29",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "séptimo párrafo",
+        "start_char": 292,
+        "end_char": 307
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8:reference:855-856:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8",
+    "source_span": "I",
+    "start_char": 855,
+    "end_char": 856,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 855,
+        "end_char": 856
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8:reference:858-860:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8",
+    "source_span": "II",
+    "start_char": 858,
+    "end_char": 860,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 858,
+        "end_char": 860
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8:reference:863-865:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8",
+    "source_span": "IV",
+    "start_char": 863,
+    "end_char": 865,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:8",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "IV",
+        "start_char": 863,
+        "end_char": 865
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -1406,7 +1842,14 @@
     "end_char": 530,
     "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
     "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:5",
-    "qualifiers": [],
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 505,
+        "end_char": 515
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

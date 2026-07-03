@@ -675,6 +675,7 @@ fn extract_instrument_references(
                 .collect(),
         },
         transitory_citations: true,
+        same_article_fractions: true,
     };
     extract_references(
         provisions,

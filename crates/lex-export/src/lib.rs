@@ -13,6 +13,10 @@ pub struct LinkTarget {
     /// Corpus directory slug used for standard-Markdown relative paths.
     pub instrument_slug: String,
     pub filename: String,
+    /// Lowercase roman numerals of the fraction paragraphs the target
+    /// provision has, each carrying a `^f-<numeral>` block anchor in its
+    /// generated note.
+    pub fractions: std::collections::HashSet<String>,
 }
 
 /// Canonical provision ID to presentation location, across every loaded
@@ -34,17 +38,33 @@ pub type TermTargets = HashMap<String, TermTarget>;
 
 /// Build the link-target lookup for a set of loaded corpora, given each
 /// corpus directory slug.
+///
+/// # Panics
+///
+/// Never in practice: the only panic is an `expect` on a static, valid
+/// regular expression.
 #[must_use]
 pub fn link_targets(corpora: &[(&Corpus, &str)]) -> LinkTargets {
+    let fraction_re = regex::Regex::new(r"^([IVXLCDM]+)\.\s").expect("static regex");
     let mut targets = LinkTargets::new();
     for (corpus, slug) in corpora {
         for provision in &corpus.provisions {
+            let fractions = provision
+                .text
+                .split("\n\n")
+                .filter_map(|paragraph| {
+                    fraction_re
+                        .captures(paragraph)
+                        .map(|captures| captures[1].to_lowercase())
+                })
+                .collect();
             targets.insert(
                 provision.id.clone(),
                 LinkTarget {
                     instrument_short_name: corpus.instrument.short_name.clone(),
                     instrument_slug: (*slug).to_owned(),
                     filename: markdown_filename(provision),
+                    fractions,
                 },
             );
         }
@@ -71,6 +91,24 @@ pub fn term_targets(corpora: &[(&Corpus, &str)], targets: &LinkTargets) -> TermT
         }
     }
     output
+}
+
+/// A roman numeral inside a qualifier phrase, with its character offset
+/// relative to the phrase start.
+struct QualifierNumeral<'a> {
+    text: &'a str,
+    offset_chars: usize,
+}
+
+fn roman_numerals(text: &str) -> Vec<QualifierNumeral<'_>> {
+    let roman_re = regex::Regex::new(r"\b[IVXLCDM]+\b").expect("static regex");
+    roman_re
+        .find_iter(text)
+        .map(|item| QualifierNumeral {
+            text: item.as_str(),
+            offset_chars: text[..item.start()].chars().count(),
+        })
+        .collect()
 }
 
 fn term_anchor(term: &lex_core::DefinedTerm) -> String {
@@ -292,6 +330,80 @@ fn with_block_anchors(corpus: &Corpus, provision: &Provision, body: &str) -> Str
         .join("\n\n")
 }
 
+/// Build the reference-edge injections for one provision (or the
+/// instrument title): whole-note links for article citations, fraction
+/// block-anchor links for anchored fraction qualifiers, and self-anchor
+/// links for `fracción N del presente artículo` edges.
+fn reference_injections<'a>(
+    corpus: &'a Corpus,
+    targets: &'a LinkTargets,
+    source_id: &str,
+    obsidian: bool,
+) -> Vec<Injection<'a>> {
+    let mut injections: Vec<Injection<'a>> = Vec::new();
+    for edge in corpus.references.iter().filter(|edge| {
+        edge.source_provision_id == source_id
+            && edge.resolution_status == ReferenceResolutionStatus::Resolved
+            && edge.reference_form == ReferenceForm::Direct
+    }) {
+        let Some(target) = targets.get(&edge.target_provision_id) else {
+            continue;
+        };
+        if edge.target_provision_id == source_id {
+            // A `fracción N del presente artículo` edge: the numeral links
+            // to the provision's own fraction block. Meaningless without
+            // block anchors, so Obsidian only.
+            let numeral = edge.source_span.to_lowercase();
+            if obsidian && target.fractions.contains(&numeral) {
+                injections.push(Injection {
+                    start_char: edge.start_char,
+                    end_char: edge.end_char,
+                    expected_span: &edge.source_span,
+                    target,
+                    anchor: Some(format!("f-{numeral}")),
+                });
+            }
+            continue;
+        }
+        injections.push(Injection {
+            start_char: edge.start_char,
+            end_char: edge.end_char,
+            expected_span: &edge.source_span,
+            target,
+            anchor: None,
+        });
+        // Fraction qualifiers with anchored spans additionally link each
+        // numeral to the target's fraction block (`la fracción XI del
+        // artículo 36` — hovering `XI` previews only that fraction).
+        if !obsidian {
+            continue;
+        }
+        for qualifier in &edge.qualifiers {
+            if qualifier.qualifier_type != lex_core::ReferenceQualifierType::Fraction {
+                continue;
+            }
+            let (Some(start), Some(_)) = (qualifier.start_char, qualifier.end_char) else {
+                continue;
+            };
+            for numeral in roman_numerals(&qualifier.text) {
+                let lower = numeral.text.to_lowercase();
+                if !target.fractions.contains(&lower) {
+                    continue;
+                }
+                injections.push(Injection {
+                    start_char: start + numeral.offset_chars,
+                    end_char: start + numeral.offset_chars + numeral.text.chars().count(),
+                    expected_span: numeral.text,
+                    target,
+                    anchor: Some(format!("f-{lower}")),
+                });
+            }
+        }
+    }
+
+    injections
+}
+
 /// One planned link inside a provision's rendered text: a resolved
 /// reference edge or a defined-term usage.
 struct Injection<'a> {
@@ -320,26 +432,7 @@ fn linked_string(
     source_id: &str,
     obsidian: bool,
 ) -> String {
-    let mut injections: Vec<Injection<'_>> = corpus
-        .references
-        .iter()
-        .filter(|edge| {
-            edge.source_provision_id == source_id
-                && edge.resolution_status == ReferenceResolutionStatus::Resolved
-                && edge.reference_form == ReferenceForm::Direct
-        })
-        .filter_map(|edge| {
-            targets
-                .get(&edge.target_provision_id)
-                .map(|target| Injection {
-                    start_char: edge.start_char,
-                    end_char: edge.end_char,
-                    expected_span: &edge.source_span,
-                    target,
-                    anchor: None,
-                })
-        })
-        .collect();
+    let mut injections = reference_injections(corpus, targets, source_id, obsidian);
 
     let mut linked_terms = std::collections::HashSet::new();
     let mut usages: Vec<_> = corpus
@@ -765,6 +858,8 @@ mod tests {
                     vec![ReferenceQualifier {
                         qualifier_type: ReferenceQualifierType::Paragraph,
                         text: "segundo párrafo".to_owned(),
+                        start_char: None,
+                        end_char: None,
                     }],
                 ),
                 sample_reference("54", start_54, Vec::new()),

@@ -183,6 +183,14 @@ pub enum ReferenceQualifierType {
 pub struct ReferenceQualifier {
     pub qualifier_type: ReferenceQualifierType,
     pub text: String,
+    /// Unicode character span of the qualifier within the source
+    /// provision's text, when the extractor anchored it. Enables
+    /// presentation features such as linking `fracción XI` to the target's
+    /// fraction block.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub start_char: Option<usize>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub end_char: Option<usize>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]

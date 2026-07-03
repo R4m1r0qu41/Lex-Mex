@@ -135,9 +135,22 @@ Current recorded source hashes:
 - Deterministic unlinked policy: short-form defined-term citations (`la Ley`)
   and named laws outside the corpus (for example, Código de Comercio) create
   no edges and no broken links.
-- Current graph: LRITF 95 resolved internal edges; DCG 98 edges — 82
-  internal, 13 provision-level LRITF citations, and 3 title-anchored LRITF
-  citations — all resolved, none guessed.
+- Pre-number qualifiers (`las fracciones II, III, IV y V del artículo 22`,
+  `el séptimo párrafo del artículo 29`) are captured and attach to every
+  article in the cited list; qualifiers carry validated character spans.
+- Same-article fraction citations (`fracción N del presente artículo`)
+  are edges targeting the containing provision, one per numeral, emitted
+  only when the fraction exists as a paragraph.
+- Fraction-precision previews: each fraction numeral in an anchored
+  qualifier links to the target note's `^f-<n>` block, so hovering
+  `XI` in `la fracción XI del artículo 36` previews only that fraction,
+  while the article number keeps the whole-article hover; same-article
+  numerals preview their own fraction in place.
+- Current graph: LRITF 115 edges (95 article/transitory citations plus 20
+  same-article fraction edges); DCG 111 edges — 82 internal article
+  citations, 13 same-article fraction edges, 13 provision-level LRITF
+  citations, and 3 title-anchored LRITF citations — all resolved, none
+  guessed.
 
 ### Defined-term glossary layer
 
@@ -324,9 +337,9 @@ Checks rerun successfully on 2026-07-03:
 | `cargo test --workspace` | Pass: 23 tests |
 | `cargo run -p lex-cli -- validate lritf` | Pass |
 | `cargo run -p lex-cli -- validate ifpe-dcg-2021` | Pass |
-| LRITF articles / transitories / references | 145 / 11 / 95 |
+| LRITF articles / transitories / references | 145 / 11 / 115 |
 | DCG articles / transitories / annexes | 59 / 4 / 8 |
-| DCG reference edges (internal / LRITF / title) | 82 / 13 / 3 |
+| DCG reference edges (internal / same-article / LRITF / title) | 82 / 13 / 13 / 3 |
 | Unresolved or guessed references | 0 |
 | Structural validation issues (both instruments) | 0 |
 | LRITF temporal determinations / effects | 19 / 32 |
@@ -337,24 +350,18 @@ Checks rerun successfully on 2026-07-03:
 | Obsidian unresolved links | 0 |
 | Defined terms (LRITF / DCG) | 23 / 26 |
 | Term usages (LRITF / DCG) | 1,091 / 816 |
-| Block-anchored term links, targets verified | 732 |
+| Block-anchored links (terms + fractions), targets verified | 819 |
 
 ## 5. What is pending
 
 ### Immediate product gaps
 
-- Fraction-qualified references do not yet hover-preview the specific
-  fraction: fraction block anchors exist on every generated note, but
-  reference edges do not yet link their `fracción N` qualifier text to the
-  target's anchor, and same-article fraction citations (`fracciones I a IV
-  del presente artículo`) are not extracted.
 - Relative references such as `artículo anterior` and `este artículo` are not
   canonical graph edges; the DCG contains several (for example, Articles 47
   and 57 citing `el artículo anterior`).
-- Qualifiers written before the article number (`las fracciones II, III, IV y
-  V del artículo 22`, `el séptimo párrafo del artículo 29`) resolve to the
-  correct article but are not captured as qualifier metadata; only
-  post-number qualifiers are.
+- Fraction ranges (`fracciones I a IV`) link only the listed numerals, not
+  the intermediate ones; inciso- and apartado-level anchors do not exist
+  yet (fractions only).
 - Citation-style uses of `la Ley` as a bare shorthand remain unlinked: the
   DCG does not expressly define `Ley` in its glossary, so linking it would
   be inference rather than express definition.
@@ -390,14 +397,12 @@ Checks rerun successfully on 2026-07-03:
 
 ## 6. Suggested next steps
 
-1. **Fraction-level reference previews** — link `fracción N` qualifier text
-   on existing reference edges to the target's `^f-n` block anchor
-   (capturing pre-number qualifiers on the way), and extract same-article
-   fraction citations (`fracciones I a IV del presente artículo`) as edges
-   to the containing article's fraction anchors.
-2. **Relative article references** — resolve `artículo anterior`,
+1. **Relative article references** — resolve `artículo anterior`,
    `artículo siguiente`, and `este artículo` using provision order; the DCG
    provides immediate test material.
+2. **Pre-number qualifier coverage for noun-first forms** — `párrafos
+   segundo y tercero del artículo N` (noun before ordinal) is not yet
+   captured.
 3. **JRH review pass over the DCG temporal determinations** — three of the
    four machine-accepted determinations remain unverified (CUARTO is
    lawyer-verified).
