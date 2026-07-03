@@ -48,9 +48,19 @@ anchor to the instrument identifier with spans validated against the official
 title. Edges are directed; reverse navigation exists only as a presentation
 feature.
 
+Expressly defined terms are canonical records anchored to the exact span of
+their definition entry in the instrument's glossary provision (LRITF Article
+4, DCG Article 1). A glossary may be expressly additive to another
+instrument's — the DCG defines its terms "además de los términos utilizados
+en la Ley…" — so a usage resolves against the instrument's own glossary
+first, then the glossaries it is additive to. Every exact usage occurrence
+(including deterministic singular/plural variants) is a canonical
+`term_usage` fact with its exact span; export renders the first usage per
+provision as a link to the definition's block anchor.
+
 Validation requires each source span to match the unchanged canonical text and
 each resolved target to exist in its instrument's loaded corpus. Markdown and
 Obsidian links are injected only during export. Named external-instrument
-references and short-form defined-term citations (such as the DCG's `la Ley`)
-remain plain text until the referenced instrument or a defined-term layer is
-part of the corpus, preventing broken or falsely resolved links.
+references and citation-style uses of `la Ley` as a bare shorthand remain
+plain text until the referenced instrument is in the corpus or the shorthand
+is expressly defined, preventing broken or falsely resolved links.

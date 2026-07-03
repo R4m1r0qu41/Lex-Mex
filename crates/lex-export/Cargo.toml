@@ -8,6 +8,7 @@ license.workspace = true
 anyhow.workspace = true
 chrono.workspace = true
 lex-core = { path = "../lex-core" }
+regex.workspace = true
 serde.workspace = true
 serde_json.workspace = true
 

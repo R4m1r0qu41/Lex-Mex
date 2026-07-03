@@ -16,4 +16,4 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 30
 
-Las instituciones de fondos de pago electrónico deberán contar con una Política Estratégica de Continuidad de Negocio y de Seguridad de la Información, la cual deberá ser aprobada por su Órgano de Administración.
+Las instituciones de fondos de pago electrónico deberán contar con una [Política Estratégica de Continuidad de Negocio y de Seguridad de la Información](articulo-1.md), la cual deberá ser aprobada por su [Órgano de Administración](articulo-1.md).

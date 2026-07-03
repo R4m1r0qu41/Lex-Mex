@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 66
 
-La fusión de una ITF como fusionada dejará sin efectos la autorización otorgada a esta para organizarse y operar como tal, sin que para ello resulte necesaria la emisión de una declaratoria expresa por parte de la CNBV.
+La fusión de una [ITF](articulo-4.md) como fusionada dejará sin efectos la autorización otorgada a esta para organizarse y operar como tal, sin que para ello resulte necesaria la emisión de una declaratoria expresa por parte de la [CNBV](articulo-4.md).

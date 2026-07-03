@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 78
 
-Las ITF podrán agruparse en asociaciones gremiales, las cuales podrán llevar a cabo, entre otras funciones, el desarrollo y la implementación de estándares de conducta y operación que deberán cumplir sus agremiados, a fin de contribuir al sano desarrollo de las mencionadas instituciones.
+Las [ITF](articulo-4.md) podrán agruparse en asociaciones gremiales, las cuales podrán llevar a cabo, entre otras funciones, el desarrollo y la implementación de estándares de conducta y operación que deberán cumplir sus agremiados, a fin de contribuir al sano desarrollo de las mencionadas instituciones.
 
 Las asociaciones gremiales a que se refiere este Capítulo, en términos de sus estatutos, podrán emitir, entre otras, normas para regular lo siguiente:
 

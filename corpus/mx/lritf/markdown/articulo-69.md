@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 69
 
-La CNBV después de escuchar a la ITF afectada, y con aprobación del Comité Interinstitucional, podrá declarar la revocación de la autorización que le haya otorgado a dicha ITF, en los casos siguientes: Párrafo reformado DOF 24-01-2024 I. Si no mantiene el capital mínimo o neto necesario para llevar a cabo sus actividades de acuerdo con lo previsto en esta Ley y las disposiciones de carácter general que para tal efecto se emitan;
+La [CNBV](articulo-4.md) después de escuchar a la [ITF](articulo-4.md) afectada, y con aprobación del [Comité Interinstitucional](articulo-4.md), podrá declarar la revocación de la autorización que le haya otorgado a dicha ITF, en los casos siguientes: Párrafo reformado DOF 24-01-2024 I. Si no mantiene el capital mínimo o neto necesario para llevar a cabo sus actividades de acuerdo con lo previsto en esta Ley y las disposiciones de carácter general que para tal efecto se emitan;
 
 II. Si suspende o abandona sus actividades por un plazo superior a un año calendario;
 
@@ -34,7 +34,7 @@ Para efectos de lo previsto en la presente fracción, se considerará reincident
 
 VIII. Cometer alguna de las conductas calificadas como graves en esta Ley, y
 
-IX. Si la ITF de que se trate, por conducto de su representante legal, así lo solicita, siempre que no existan Operaciones pendientes de liquidar entre sus Clientes o, en caso de Operaciones pendientes, que haya cedido su administración, cumpliendo con las disposiciones legales y contractuales aplicables. En este caso, la sociedad deberá modificar sus estatutos para no contemplar su operación como ITF.
+IX. Si la ITF de que se trate, por conducto de su representante legal, así lo solicita, siempre que no existan [Operaciones](articulo-4.md) pendientes de liquidar entre sus [Clientes](articulo-4.md) o, en caso de Operaciones pendientes, que haya cedido su administración, cumpliendo con las disposiciones legales y contractuales aplicables. En este caso, la sociedad deberá modificar sus estatutos para no contemplar su operación como ITF.
 
 La Comisión otorgará el derecho de audiencia a la ITF interesada a fin de que, dentro del plazo de diez días hábiles, contado a partir del día hábil siguiente a aquél en que surta efectos la notificación correspondiente, manifieste por escrito lo que a su interés convenga y ofrezca pruebas. La Comisión, a petición de parte, podrá ampliar por una sola ocasión el plazo a que se refiere este párrafo, hasta por el mismo lapso, atendiendo a las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquél en que se practiquen. Párrafo adicionado DOF 24-01-2024
 

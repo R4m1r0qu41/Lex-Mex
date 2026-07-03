@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 120
 
-Será sancionado con prisión de tres a nueve años y multa de 5,000 a 150,000 UMA, quien se encuentre facultado para disponer de los recursos a cargo de una ITF o una sociedad, Entidad Financiera u otro sujeto supervisado por alguna Comisión Supervisora o por el Banco de México, autorizado para operar con Modelos Novedosos y no realice la devolución de éstos a sus clientes, estando obligado a hacerlo o se niegue sin causa justificada.
+Será sancionado con prisión de tres a nueve años y multa de 5,000 a 150,000 [UMA](articulo-4.md), quien se encuentre facultado para disponer de los recursos a cargo de una [ITF](articulo-4.md) o una sociedad, [Entidad Financiera](articulo-4.md) u otro sujeto supervisado por alguna [Comisión Supervisora](articulo-4.md) o por el Banco de México, autorizado para operar con [Modelos Novedosos](articulo-4.md) y no realice la devolución de éstos a sus clientes, estando obligado a hacerlo o se niegue sin causa justificada.

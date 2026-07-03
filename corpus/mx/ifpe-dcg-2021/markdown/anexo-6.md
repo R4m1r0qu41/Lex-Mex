@@ -14,17 +14,17 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # ANEXO 6
 
-Características de Terceros Independientes
+Características de [Terceros Independientes](articulo-1.md)
 
 A. Requisitos de independencia
 
 Se considerará que no existe independencia cuando el Tercero Independiente o la persona moral por medio de la cual preste sus servicios se ubiquen en alguno de los supuestos siguientes:
 
-I. El Tercero Independiente o la persona moral por medio de la cual preste sus servicios ejerza el Control sobre la institución de fondos de pago electrónico, o sea su subsidiaria, su asociada, una entidad con la que realiza acuerdos con control conjunto o una persona moral que pertenezca al mismo Grupo Empresarial o Consorcio que la institución de fondos de pago electrónico.
+I. El Tercero Independiente o la persona moral por medio de la cual preste sus servicios ejerza el [Control](../../lritf/markdown/articulo-4.md) sobre la institución de fondos de pago electrónico, o sea su subsidiaria, su asociada, una entidad con la que realiza acuerdos con control conjunto o una persona moral que pertenezca al mismo [Grupo Empresarial](../../lritf/markdown/articulo-4.md) o [Consorcio](../../lritf/markdown/articulo-4.md) que la institución de fondos de pago electrónico.
 
 Los ingresos que perciba el Tercero Independiente o la persona moral por medio de la cual preste sus servicios, provenientes de la institución de fondos de pago electrónico o, en su caso, de su controladora, subsidiarias, asociadas, entidades con las que realicen acuerdos con control conjunto o las personas morales que pertenezcan al mismo Grupo Empresarial o Consorcio derivados de la prestación de sus servicios, representen en su conjunto el 10% o más de los ingresos totales de dicha persona moral o Tercero Independiente durante el año inmediato anterior a aquel en que pretenda prestar el servicio.
 
-II. El Tercero Independiente o la persona moral por medio de la cual preste sus servicios, haya sido Cliente o proveedor importante de la institución de fondos de pago electrónico o, en su caso, de su controladora, subsidiarias, asociadas, entidades con las que realicen acuerdos con control conjunto o personas morales que pertenezcan al mismo Grupo Empresarial o Consorcio, durante el año inmediato anterior a aquel en que pretenda prestar el servicio.
+II. El Tercero Independiente o la persona moral por medio de la cual preste sus servicios, haya sido [Cliente](../../lritf/markdown/articulo-4.md) o proveedor importante de la institución de fondos de pago electrónico o, en su caso, de su controladora, subsidiarias, asociadas, entidades con las que realicen acuerdos con control conjunto o personas morales que pertenezcan al mismo Grupo Empresarial o Consorcio, durante el año inmediato anterior a aquel en que pretenda prestar el servicio.
 
 Se considera que un Cliente o proveedor es importante cuando sus ventas o compras a la institución de fondos de pago electrónico o, en su caso, a su controladora, subsidiarias, asociadas, entidades con las que realicen acuerdos con control conjunto o personas morales que pertenezcan al mismo Grupo Empresarial o Consorcio, representen en su conjunto el 10% o más de sus ventas totales o, en su caso, compras totales.
 
@@ -36,7 +36,7 @@ Lo previsto en esta fracción, no resultará aplicable a:
 
 a) La tenencia en acciones representativas del capital social de fondos de inversión de renta variable y en instrumentos de deuda.
 
-b) La tenencia en acciones representativas del capital social de una sociedad anónima, inscritas en el Registro Nacional de Valores a cargo de la CNBV, a través de fideicomisos constituidos para ese único fin en los que no intervengan en las decisiones de inversión o bien en títulos referidos a índices o canastas de acciones o en títulos de crédito que representen acciones del capital social de dos o más sociedades anónimas emitidos al amparo de fideicomisos.
+b) La tenencia en acciones representativas del capital social de una sociedad anónima, inscritas en el Registro Nacional de [Valores](../../lritf/markdown/articulo-4.md) a cargo de la [CNBV](../../lritf/markdown/articulo-4.md), a través de fideicomisos constituidos para ese único fin en los que no intervengan en las decisiones de inversión o bien en títulos referidos a índices o canastas de acciones o en títulos de crédito que representen acciones del capital social de dos o más sociedades anónimas emitidos al amparo de fideicomisos.
 
 V. El Tercero Independiente o algún socio de la persona moral por medio de la cual se presten los servicios, el cónyuge, concubina, concubinario o dependiente económico de las personas físicas anteriores, mantengan con la institución de fondos de pago electrónico o, en su caso, con su controladora, subsidiarias, asociadas, entidades con las que realicen acuerdos con control conjunto o personas morales que pertenezcan al mismo Grupo Empresarial o Consorcio, deudas por préstamos o créditos de cualquier naturaleza, salvo que se trate de adeudos por tarjeta de crédito, por financiamientos destinados a la compra de bienes de consumo duradero por créditos hipotecarios para adquisición de inmuebles y por créditos personales y de nómina, siempre y cuando sean otorgados en condiciones de mercado.
 
@@ -50,7 +50,7 @@ b) Operación, directa o indirecta, de los sistemas de información financiera, 
 
 c) Supervisión, diseño o implementación de los sistemas informáticos (hardware y software) de la institución de fondos de pago electrónico, que lleven a cabo actividades para las operaciones que la referida institución realice.
 
-d) Supervisión, diseño o implementación de políticas y procedimientos para la seguridad de la información, uso de Canales de Instrucción o continuidad operativa.
+d) Supervisión, diseño o implementación de políticas y procedimientos para la seguridad de la información, uso de [Canales de Instrucción](articulo-1.md) o continuidad operativa.
 
 e) Provisión de servicios relacionados con seguridad de la información, uso de medios electrónicos o continuidad operativa.
 
@@ -64,7 +64,7 @@ i) Cualquier otro servicio que implique o pudiera implicar conflictos de interé
 
 VIII. Los ingresos que el Tercero Independiente o la persona moral a través de la cual se preste el servicio, perciba o vaya a percibir por llevar a cabo la evaluación de cumplimiento de la institución de fondos de pago electrónico dependan del resultado de la propia evaluación o del éxito de cualquier operación realizada por dicha institución de fondos de pago electrónico que tenga como sustento la evaluación de cumplimiento.
 
-IX. El Tercero Independiente o la persona moral a través de la cual preste el servicio, tengan Cuentas por cobrar vencidas con la institución de fondos de pago electrónico por honorarios provenientes de algún servicio que ya se haya prestado a la institución de fondos de pago electrónico, a la fecha de emisión del informe de evaluación.
+IX. El Tercero Independiente o la persona moral a través de la cual preste el servicio, tengan [Cuentas](articulo-1.md) por cobrar vencidas con la institución de fondos de pago electrónico por honorarios provenientes de algún servicio que ya se haya prestado a la institución de fondos de pago electrónico, a la fecha de emisión del informe de evaluación.
 
 B. Selección de la persona moral a través de la cual se prestarán servicios de evaluación del cumplimiento
 

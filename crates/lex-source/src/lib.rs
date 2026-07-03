@@ -27,6 +27,22 @@ pub struct ExternalInstrument {
     pub instrument_id: String,
 }
 
+/// The instrument's glossary provision, when it has one. Glossaries
+/// commonly appear within the first articles of Mexican financial
+/// instruments, but not always.
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct GlossaryConfig {
+    /// Canonical-ID suffix of the glossary provision, e.g. `:article:4`.
+    pub provision_suffix: String,
+    /// `fractions` (`I. Término, a …`) or `colon_entries` (`Término: a …`).
+    pub style: String,
+    /// Instruments whose glossaries this one is expressly additive to, in
+    /// resolution-priority order after the instrument's own terms. The DCG
+    /// defines its terms "además de los términos utilizados en la Ley…".
+    #[serde(default)]
+    pub additive_to: Vec<String>,
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct FormalSource {
     pub url: Url,
@@ -83,6 +99,9 @@ pub struct SourceConfig {
     /// When absent, the parser's statute defaults apply.
     #[serde(default)]
     pub internal_reference_markers: Option<Vec<String>>,
+    /// The instrument's glossary provision, when it has one.
+    #[serde(default)]
+    pub glossary: Option<GlossaryConfig>,
     /// Named external instruments whose express citations should become
     /// cross-instrument reference edges.
     #[serde(default)]

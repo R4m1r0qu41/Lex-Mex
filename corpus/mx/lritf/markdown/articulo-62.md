@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 62
 
-La CNBV, previo acuerdo del Comité Interinstitucional, podrá en todo tiempo determinar que se proceda a la remoción o bien, a la inhabilitación, por un periodo de tres meses hasta cinco años, de los administradores, miembros del consejo de administración o al director general de las ITF, así como suspender por el mismo periodo a las personas antes mencionadas, cuando considere que no cuenten con calidad técnica, honorabilidad, historial crediticio satisfactorio para el desempeño de sus funciones, no reúnan los requisitos que se hayan establecido para su designación o incurran en infracciones graves o reiteradas a la presente Ley o a las disposiciones de carácter general que de ella emanan.
+La [CNBV](articulo-4.md), previo acuerdo del [Comité Interinstitucional](articulo-4.md), podrá en todo tiempo determinar que se proceda a la remoción o bien, a la inhabilitación, por un periodo de tres meses hasta cinco años, de los administradores, miembros del consejo de administración o al director general de las [ITF](articulo-4.md), así como suspender por el mismo periodo a las personas antes mencionadas, cuando considere que no cuenten con calidad técnica, honorabilidad, historial crediticio satisfactorio para el desempeño de sus funciones, no reúnan los requisitos que se hayan establecido para su designación o incurran en infracciones graves o reiteradas a la presente Ley o a las disposiciones de carácter general que de ella emanan.
 
 Para efectos del párrafo anterior, la CNBV antes de dictar la resolución correspondiente, deberá escuchar al interesado y a la ITF de que se trate.
 

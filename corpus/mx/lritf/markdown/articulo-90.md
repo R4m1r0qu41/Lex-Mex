@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 90
 
-Las Autoridades Financieras podrán hacer pública la información reportada por los sujetos obligados a que se refiere este Título si lo consideran pertinente para conocimiento de los Clientes, siempre y cuando no se trate de información confidencial.
+Las [Autoridades Financieras](articulo-4.md) podrán hacer pública la información reportada por los sujetos obligados a que se refiere este Título si lo consideran pertinente para conocimiento de los [Clientes](articulo-4.md), siempre y cuando no se trate de información confidencial.

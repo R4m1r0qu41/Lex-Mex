@@ -16,9 +16,9 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 18
 
-Las instituciones de fondos de pago electrónico, respecto de la información relativa a los Factores de Autenticación deberán cumplir con los requisitos siguientes:
+Las instituciones de fondos de pago electrónico, respecto de la información relativa a los Factores de [Autenticación](articulo-1.md) deberán cumplir con los requisitos siguientes:
 
-I. Mantener procedimientos de seguridad de información para la custodia, distribución y asignación de los Factores de Autenticación de sus Clientes.
+I. Mantener procedimientos de seguridad de información para la custodia, distribución y asignación de los Factores de Autenticación de sus [Clientes](../../lritf/markdown/articulo-4.md).
 
 II. Establecer procedimientos y mecanismos con el fin de que la información relativa a los Factores de Autenticación no sea conocida por ninguno de sus funcionarios, empleados o representantes, o por algún tercero.
 

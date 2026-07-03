@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 51
 
-Las ITF deberán observar el cumplimiento a lo señalado en los artículos anteriores respecto a los requisitos que debe cumplir la persona moral que les proporcione los servicios de auditoría externa, así como el auditor externo que suscriba el dictamen y otros informes correspondientes a los estados financieros o elementos que auditen o evalúen, según sea el caso.
+Las [ITF](articulo-4.md) deberán observar el cumplimiento a lo señalado en los artículos anteriores respecto a los requisitos que debe cumplir la persona moral que les proporcione los servicios de auditoría externa, así como el auditor externo que suscriba el dictamen y otros informes correspondientes a los estados financieros o elementos que auditen o evalúen, según sea el caso.

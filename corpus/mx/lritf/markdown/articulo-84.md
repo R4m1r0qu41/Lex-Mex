@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 84
 
-La CONDUSEF, en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros, contará con las facultades que dicha Ley le otorga para solucionar controversias entre las sociedades autorizadas para operar un Modelo Novedoso y sus Clientes.
+La [CONDUSEF](articulo-4.md), en términos de la Ley de Protección y Defensa al Usuario de Servicios Financieros, contará con las facultades que dicha Ley le otorga para solucionar controversias entre las sociedades autorizadas para operar un [Modelo Novedoso](articulo-4.md) y sus [Clientes](articulo-4.md).

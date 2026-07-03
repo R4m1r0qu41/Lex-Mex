@@ -26,7 +26,7 @@ Asimismo, deberá quedar constancia dentro del contrato, de la aceptación expre
 
 a) Apegarse a lo previsto en el artículo [54](../../lritf/markdown/articulo-54.md) de la Ley para Regular las Instituciones de Tecnología Financiera.
 
-b) Entregar en el desarrollo de la auditoría y a solicitud de la institución de fondos de pago electrónico, al Tercero Independiente de la propia institución de fondos de pago electrónico, así como al Banco de México y a la CNBV, los libros, sistemas, registros, manuales y documentos en general, relacionados con la prestación del servicio de que se trate. Asimismo, permitir al Tercero Independiente o al personal del Banco de México o de la CNBV el acceso a sus oficinas e instalaciones en general, relacionadas con la prestación del servicio en cuestión.
+b) Entregar en el desarrollo de la auditoría y a solicitud de la institución de fondos de pago electrónico, al [Tercero Independiente](articulo-1.md) de la propia institución de fondos de pago electrónico, así como al Banco de México y a la [CNBV](../../lritf/markdown/articulo-4.md), los libros, sistemas, registros, manuales y documentos en general, relacionados con la prestación del servicio de que se trate. Asimismo, permitir al Tercero Independiente o al personal del Banco de México o de la CNBV el acceso a sus oficinas e instalaciones en general, relacionadas con la prestación del servicio en cuestión.
 
 c) Informar a la institución de fondos de pago electrónico respecto de cualquier modificación a su objeto social o cualquier otro cambio que pudiera afectar la prestación del servicio objeto de la contratación con, por lo menos, treinta días de anticipación a que suceda dicha modificación o cambio.
 
@@ -36,7 +36,7 @@ e) En caso de que el tercero realice la subcontratación para la prestación par
 
 f) Cumplir con los términos, condiciones y procesos para que el tercero garantice a la institución de fondos de pago electrónico la transferencia, devolución y eliminación segura de la información sujeta al servicio contratado cuando deje de prestarlo.
 
-g) Mantener registros de auditoría íntegros que incluyan la información detallada de los accesos o intentos de acceso y la operación o actividad efectuadas por los Usuarios de la Infraestructura Tecnológica. Dichos registros deberán estar a disposición del personal autorizado de la institución de fondos de pago electrónico.
+g) Mantener registros de auditoría íntegros que incluyan la información detallada de los accesos o intentos de acceso y la operación o actividad efectuadas por los Usuarios de la [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md). Dichos registros deberán estar a disposición del personal autorizado de la institución de fondos de pago electrónico.
 
 h) Contar con controles de acceso a la información de acuerdo con los niveles de acceso y perfiles determinados por la institución de fondos de pago electrónico.
 
@@ -48,23 +48,23 @@ a) Descripción de los enlaces de comunicación utilizados por la institución d
 
 b) Diagrama de telecomunicaciones en donde se muestre la conexión existente entre cada uno de los participantes en la prestación del servicio, tales como proveedores, centros de datos, e institución de fondos de pago electrónico, entre otros, incluyendo los esquemas de redundancia.
 
-c) Dirección completa del lugar en donde se realizarán cada uno de los servicios, así como de los centros de datos, primario y secundario, en donde se almacenará y procesará la información. En caso de que el lugar señalado se encuentre en territorio nacional, debe incluirse por lo menos, calle, número exterior e interior, colonia, alcaldía o municipio, código postal y entidad federativa. Tratándose de un sitio localizado en el extranjero, deberán incluirse datos similares que permitan ubicar con certeza el lugar señalado. Tratándose de servicios de Cómputo en la Nube, solamente deberá proporcionarse lo señalado en el artículo [50](articulo-50.md) de las presentes Disposiciones.
+c) Dirección completa del lugar en donde se realizarán cada uno de los servicios, así como de los centros de datos, primario y secundario, en donde se almacenará y procesará la información. En caso de que el lugar señalado se encuentre en territorio nacional, debe incluirse por lo menos, calle, número exterior e interior, colonia, alcaldía o municipio, código postal y entidad federativa. Tratándose de un sitio localizado en el extranjero, deberán incluirse datos similares que permitan ubicar con certeza el lugar señalado. Tratándose de servicios de [Cómputo en la Nube](articulo-1.md), solamente deberá proporcionarse lo señalado en el artículo [50](articulo-50.md) de las presentes Disposiciones.
 
 d) En su caso, el esquema de interrelación de aplicaciones o sistemas objeto de la contratación, incluyendo los sistemas propios de la institución de fondos de pago electrónico.
 
 e) Mecanismos de continuidad del servicio contratado.
 
-IV. Mecanismos que permitirán a la institución de fondos de pago electrónico mantener bajo su resguardo, ya sea en Infraestructura Tecnológica propia o de terceros en territorio nacional, los registros detallados de todas las Operaciones que se realicen, así como de sus registros contables de forma que se asegure la continuidad operativa en todo momento. Dichos registros deberán mantenerse en un formato que permita su consulta, operación y uso, con independencia de que el servicio contratado con el tercero no se encuentre disponible.
+IV. Mecanismos que permitirán a la institución de fondos de pago electrónico mantener bajo su resguardo, ya sea en Infraestructura Tecnológica propia o de terceros en territorio nacional, los registros detallados de todas las [Operaciones](../../lritf/markdown/articulo-4.md) que se realicen, así como de sus registros contables de forma que se asegure la continuidad operativa en todo momento. Dichos registros deberán mantenerse en un formato que permita su consulta, operación y uso, con independencia de que el servicio contratado con el tercero no se encuentre disponible.
 
-V. Evidencia de los controles que el tercero mantendrá para garantizar la confidencialidad, integridad y disponibilidad de esta información, cuando este tenga privilegios de acceso a las imágenes de identificaciones oficiales o información biométrica de los Clientes.
+V. Evidencia de los controles que el tercero mantendrá para garantizar la confidencialidad, integridad y disponibilidad de esta información, cuando este tenga privilegios de acceso a las imágenes de identificaciones oficiales o información biométrica de los [Clientes](../../lritf/markdown/articulo-4.md).
 
 VI. Descripción de los mecanismos para vigilar el desempeño del tercero contratado y el cumplimiento de sus obligaciones contractuales incluyendo, al menos, las previstas en las presentes Disposiciones.
 
-VII. Planes para evaluar y reportar al Órgano de Administración o, en su caso, al comité de auditoría de la institución de fondos de pago electrónico, según la importancia del servicio contratado, el desempeño del tercero y el cumplimiento de la regulación aplicable relacionada con dicho servicio.
+VII. Planes para evaluar y reportar al [Órgano de Administración](articulo-1.md) o, en su caso, al comité de auditoría de la institución de fondos de pago electrónico, según la importancia del servicio contratado, el desempeño del tercero y el cumplimiento de la regulación aplicable relacionada con dicho servicio.
 
 VIII. Evidencia que permita verificar que los terceros tengan e implementen políticas de protección de datos personales y confidencialidad de la información que permitan a la institución de fondos de pago electrónico cumplir con las disposiciones legales que la rigen en la materia.
 
-Tratándose de servicios que se procesen, proporcionen o ejecuten total o parcialmente fuera de territorio nacional, las instituciones de fondos de pago electrónico deberán acompañar la documentación que acredite que los terceros residen en países cuyo derecho interno proporciona protección a los datos de las personas, resguardando su debida confidencialidad, o bien, que dichos países mantengan suscritos con México acuerdos internacionales en dicha materia, o de intercambio de información entre los organismos supervisores, tratándose de Entidades Financieras.
+Tratándose de servicios que se procesen, proporcionen o ejecuten total o parcialmente fuera de territorio nacional, las instituciones de fondos de pago electrónico deberán acompañar la documentación que acredite que los terceros residen en países cuyo derecho interno proporciona protección a los datos de las personas, resguardando su debida confidencialidad, o bien, que dichos países mantengan suscritos con México acuerdos internacionales en dicha materia, o de intercambio de información entre los organismos supervisores, tratándose de [Entidades Financieras](../../lritf/markdown/articulo-4.md).
 
 Adicionalmente, las instituciones de fondos de pago electrónico deberán:
 

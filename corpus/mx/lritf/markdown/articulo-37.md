@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 37
 
-La CNBV deberá mencionar específicamente en la autorización que otorgue el tipo de ITF que corresponda a dicha autorización, así como las Operaciones específicas que esta podrá realizar de conformidad con lo previsto en esta Ley. Las ITF que hayan obtenido autorización para realizar algún tipo de Operaciones y con posterioridad pretendan realizar otro tipo de Operaciones dentro de las permitidas para cada ITF en particular, deberán solicitar una nueva autorización y, para obtenerla, deberán acreditar el cumplimiento de lo siguiente:
+La [CNBV](articulo-4.md) deberá mencionar específicamente en la autorización que otorgue el tipo de [ITF](articulo-4.md) que corresponda a dicha autorización, así como las [Operaciones](articulo-4.md) específicas que esta podrá realizar de conformidad con lo previsto en esta Ley. Las ITF que hayan obtenido autorización para realizar algún tipo de Operaciones y con posterioridad pretendan realizar otro tipo de Operaciones dentro de las permitidas para cada ITF en particular, deberán solicitar una nueva autorización y, para obtenerla, deberán acreditar el cumplimiento de lo siguiente:
 
 I. Que las Operaciones de que se trate se encuentren expresamente señaladas en sus estatutos sociales en términos de esta Ley;
 

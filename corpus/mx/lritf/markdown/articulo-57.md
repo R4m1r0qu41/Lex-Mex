@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 57
 
-Las ITF deberán reportar a la CNBV, a la CONDUSEF y al Banco de México, en el ámbito de sus respectivas competencias, aquella información relacionada con sus actividades y las Operaciones que determine la Autoridad Financiera que corresponda en disposiciones de carácter general, con la periodicidad que en dichas disposiciones se señale.
+Las [ITF](articulo-4.md) deberán reportar a la [CNBV](articulo-4.md), a la [CONDUSEF](articulo-4.md) y al Banco de México, en el ámbito de sus respectivas competencias, aquella información relacionada con sus actividades y las [Operaciones](articulo-4.md) que determine la [Autoridad Financiera](articulo-4.md) que corresponda en disposiciones de carácter general, con la periodicidad que en dichas disposiciones se señale.

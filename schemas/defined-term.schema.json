@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/R4m1r0qu41/Lex-Mex/schemas/defined-term.schema.json",
+  "title": "Lex-Mex canonical defined term",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "term",
+    "instrument_id",
+    "defining_provision_id",
+    "start_char",
+    "end_char",
+    "basis"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "0.1.0"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:.+:term:[a-z0-9-]+$"
+    },
+    "term": {
+      "type": "string",
+      "minLength": 1
+    },
+    "instrument_id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:"
+    },
+    "defining_provision_id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:"
+    },
+    "fraction": {
+      "type": "string",
+      "pattern": "^[IVXLCDM]+$"
+    },
+    "start_char": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "end_char": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "basis": {
+      "type": "string",
+      "const": "express_definition"
+    }
+  }
+}

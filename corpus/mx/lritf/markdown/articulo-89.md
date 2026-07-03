@@ -16,11 +16,11 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 89
 
-Las sociedades autorizadas para operar con Modelos Novedosos, las ITF, las Entidades Financieras y demás personas sujetas a la supervisión de las Autoridades Financieras que obtengan la autorización temporal a que se refiere este Título deberán elaborar y entregar a las Autoridades Financieras un reporte en la periodicidad que esta determine, durante la vigencia de la autorización, el cual contendrá lo siguiente:
+Las sociedades autorizadas para operar con [Modelos Novedosos](articulo-4.md), las [ITF](articulo-4.md), las [Entidades Financieras](articulo-4.md) y demás personas sujetas a la supervisión de las [Autoridades Financieras](articulo-4.md) que obtengan la autorización temporal a que se refiere este Título deberán elaborar y entregar a las Autoridades Financieras un reporte en la periodicidad que esta determine, durante la vigencia de la autorización, el cual contendrá lo siguiente:
 
 I. El número de operaciones realizadas durante el periodo reportado;
 
-II. El número de Clientes o usuarios con los que cuentan a la fecha del reporte;
+II. El número de [Clientes](articulo-4.md) o usuarios con los que cuentan a la fecha del reporte;
 
 III. Las situaciones de riesgo que se hayan presentado, y
 

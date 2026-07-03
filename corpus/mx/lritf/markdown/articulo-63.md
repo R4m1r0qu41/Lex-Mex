@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 63
 
-La CNBV, en disposiciones de carácter general, determinará aquellas ITF que en consideración al número de Operaciones o Clientes que tengan, modelos de negocios, activos intermediados o nivel de capital neto, deberán contar con un comité de auditoría con carácter consultivo que apoye al consejo de administración. La CNBV establecerá en dichas disposiciones, las funciones mínimas que deberá realizar el comité de auditoría, así como las normas relativas a su integración y funcionamiento.
+La [CNBV](articulo-4.md), en disposiciones de carácter general, determinará aquellas [ITF](articulo-4.md) que en consideración al número de [Operaciones](articulo-4.md) o [Clientes](articulo-4.md) que tengan, modelos de negocios, activos intermediados o nivel de capital neto, deberán contar con un comité de auditoría con carácter consultivo que apoye al consejo de administración. La CNBV establecerá en dichas disposiciones, las funciones mínimas que deberá realizar el comité de auditoría, así como las normas relativas a su integración y funcionamiento.

@@ -16,9 +16,9 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 86
 
-Las Autoridades Financieras podrán autorizar discrecionalmente, con la debida fundamentación y motivación, a las Entidades Financieras, ITF o demás personas sujetas a su supervisión, llevar a cabo temporalmente operaciones o actividades de su objeto social a través de Modelos Novedosos cuando en su realización se requiera de excepciones o condicionantes a lo contenido en las disposiciones de carácter general aplicables, emitidas por las propias Autoridades.
+Las [Autoridades Financieras](articulo-4.md) podrán autorizar discrecionalmente, con la debida fundamentación y motivación, a las [Entidades Financieras](articulo-4.md), [ITF](articulo-4.md) o demás personas sujetas a su supervisión, llevar a cabo temporalmente operaciones o actividades de su objeto social a través de [Modelos Novedosos](articulo-4.md) cuando en su realización se requiera de excepciones o condicionantes a lo contenido en las disposiciones de carácter general aplicables, emitidas por las propias Autoridades.
 
-Las autorizaciones temporales a que se refiere este artículo deberán ser otorgadas previo acuerdo de la Junta de Gobierno de las respectivas Comisiones Supervisoras. En caso de actividades reguladas por disposiciones de carácter general emitidas por la Secretaría o el Banco de México, las autorizaciones temporales serán otorgadas por dichas Autoridades.
+Las autorizaciones temporales a que se refiere este artículo deberán ser otorgadas previo acuerdo de la Junta de Gobierno de las respectivas [Comisiones Supervisoras](articulo-4.md). En caso de actividades reguladas por disposiciones de carácter general emitidas por la [Secretaría](articulo-4.md) o el Banco de México, las autorizaciones temporales serán otorgadas por dichas Autoridades.
 
 En la autorización temporal que se otorgue, la Autoridad Financiera que deba resolver establecerá las excepciones, condicionantes, términos y condiciones para los productos a ofrecer o la prestación de los servicios de que se trate.
 

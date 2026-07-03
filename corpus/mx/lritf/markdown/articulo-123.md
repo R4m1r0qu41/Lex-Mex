@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 123
 
-Serán sancionados con prisión de dos a siete años y multa de 5,000 a 150,000 UMA todo aquel que, habiendo sido removido o suspendido, por resolución firme de la CNBV, en términos de lo previsto en el artículo [62](articulo-62.md) de esta Ley, continúe desempeñando las funciones respecto de las cuales fue removido o suspendido o bien, ocupe un empleo, cargo o comisión, dentro del sistema financiero mexicano, a pesar de encontrarse suspendido para ello.
+Serán sancionados con prisión de dos a siete años y multa de 5,000 a 150,000 [UMA](articulo-4.md) todo aquel que, habiendo sido removido o suspendido, por resolución firme de la [CNBV](articulo-4.md), en términos de lo previsto en el artículo [62](articulo-62.md) de esta Ley, continúe desempeñando las funciones respecto de las cuales fue removido o suspendido o bien, ocupe un empleo, cargo o comisión, dentro del sistema financiero mexicano, a pesar de encontrarse suspendido para ello.

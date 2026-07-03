@@ -16,9 +16,9 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 10
 
-Las instituciones de fondos de pago electrónico deberán establecer mecanismos y procedimientos para que sus Clientes, al acceder a los Canales de Instrucción, puedan reconocer a las propias instituciones, para lo cual estas deberán sujetarse a lo siguiente:
+Las instituciones de fondos de pago electrónico deberán establecer mecanismos y procedimientos para que sus [Clientes](../../lritf/markdown/articulo-4.md), al acceder a los [Canales de Instrucción](articulo-1.md), puedan reconocer a las propias instituciones, para lo cual estas deberán sujetarse a lo siguiente:
 
-I. Proporcionar información personalizada y suficiente para que los Clientes puedan verificar, antes de realizar el procedimiento para su Autenticación, que se trata efectivamente de la institución de fondos de pago electrónico de la cual se es Cliente. Para ello, las instituciones de fondos de pago electrónico podrán utilizar la información siguiente:
+I. Proporcionar información personalizada y suficiente para que los Clientes puedan verificar, antes de realizar el procedimiento para su [Autenticación](articulo-1.md), que se trata efectivamente de la institución de fondos de pago electrónico de la cual se es Cliente. Para ello, las instituciones de fondos de pago electrónico podrán utilizar la información siguiente:
 
 a) Aquella que el Cliente respectivo conozca o haya proporcionado a la institución de fondos de pago electrónico, o bien, que haya convenido con la institución de fondos de pago electrónico para este fin, tales como nombre, alias e imágenes, entre otros.
 
@@ -30,4 +30,4 @@ a) Fecha y hora del último acceso al Canal de Instrucción de que se trate y
 
 b) Nombre y apellido del Cliente.
 
-Lo anterior no será aplicable cuando el Cliente utilice Canales de Instrucción que no requieran una interacción previa para la instrucción de Operaciones, tales como las terminales punto de venta.
+Lo anterior no será aplicable cuando el Cliente utilice Canales de Instrucción que no requieran una interacción previa para la instrucción de [Operaciones](../../lritf/markdown/articulo-4.md), tales como las terminales punto de venta.

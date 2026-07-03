@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 126
 
-Serán sancionados con prisión de dos a diez años y multa de 5,000 a 150,000 UMA a quien proporcione a las Autoridades Financieras que correspondan, información falsa respecto de su situación contable, financiera, económica y jurídica, que le sea requerida en términos de esta Ley.
+Serán sancionados con prisión de dos a diez años y multa de 5,000 a 150,000 [UMA](articulo-4.md) a quien proporcione a las [Autoridades Financieras](articulo-4.md) que correspondan, información falsa respecto de su situación contable, financiera, económica y jurídica, que le sea requerida en términos de esta Ley.

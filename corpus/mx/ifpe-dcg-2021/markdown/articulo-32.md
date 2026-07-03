@@ -16,4 +16,4 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 32
 
-Las instituciones de fondos de pago electrónico deberán implementar procedimientos y mecanismos que deberán seguir para la atención de Incidentes de Seguridad de Información en su Infraestructura Tecnológica, en los que se comprendan la identificación, contención y la adecuada recolección y resguardo de evidencias de dichos incidentes.
+Las instituciones de fondos de pago electrónico deberán implementar procedimientos y mecanismos que deberán seguir para la atención de Incidentes de Seguridad de Información en su [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md), en los que se comprendan la identificación, contención y la adecuada recolección y resguardo de evidencias de dichos incidentes.

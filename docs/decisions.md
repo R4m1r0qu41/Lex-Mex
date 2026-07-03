@@ -1,5 +1,47 @@
 # Architecture decisions
 
+## 2026-07-03 — Defined-term glossary layer
+
+Mexican financial instruments commonly define their working vocabulary in a
+glossary provision within the opening articles — LRITF Article 4
+(fraction-style, `I. Término, a …`), DCG-IFPE-2021 Article 1 (colon-style,
+`Término: a …`) — though not always, so the glossary is adapter
+configuration, not a parser assumption. Terms are extracted as canonical
+`DefinedTerm` records (`terms.json`) with the exact span of each definition
+entry, including continuation paragraphs such as incisos. The DCG's Article
+1 expressly defines its terms "además de los términos utilizados en la
+Ley…": that additive relationship is configured (`glossary.additive_to`),
+so a DCG usage resolves against the DCG glossary first and falls back to
+LRITF Article 4 — `Cliente`, `Operaciones`, and `Infraestructura
+Tecnológica` in the DCG resolve to the statute's definitions.
+
+Usages (`term-usages.json`) are deterministic exact matches at word
+boundaries, longest match first, case-sensitive because capitalization is
+what distinguishes the defined `Control` from the ordinary word `control`.
+Glossaries state that terms apply "en singular o plural", so one
+singular/plural variant is generated per word with deterministic rules
+(`-ón` ↔ `-ones`, vowel ↔ `+s`, consonant ↔ `+es`): `Operación` matches the
+defined `Operaciones`, `Comisión Supervisora` matches `Comisiones
+Supervisoras`. At a sentence, list-item, or table-cell start the capital is
+positional and carries no signal, so a term whose only capital is its
+initial letter does not match there — `I. Controles de acceso…` is not the
+defined `Control` — while acronyms and multi-word terms match anywhere.
+A term never matches inside its own definition entry. Validation covers
+term identity, definition spans, exact usage spans, cross-instrument
+resolvability, and non-overlapping usages; both files are schema-bound
+(`defined-term.schema.json`, `term-usage.schema.json`).
+
+Presentation: generated Obsidian notes carry block anchors on every
+fraction paragraph (`^f-xi`) and on each colon-style definition entry
+(`^t-<slug>`). A term links to its definition's block —
+`[[Corpus/LRITF/articulo-4#^f-ii|Clientes]]` — so hovering shows only the
+definition, not the whole glossary article. To keep notes readable, only
+the first usage of each term per provision is rendered as a link, and term
+links never overlap reference links; all usages remain canonical facts.
+The audited LRITF canonical core (provisions, references, temporal result,
+review queue) is unchanged by this layer; the fraction anchors also lay the
+groundwork for fraction-level reference previews.
+
 ## 2026-06-27 — PDF extraction boundary
 
 The LRITF operational source is a text-based PDF. `lex-parse` invokes

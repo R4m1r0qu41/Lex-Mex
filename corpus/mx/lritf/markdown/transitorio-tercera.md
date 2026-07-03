@@ -15,7 +15,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # TERCERA
 
-La Comisión Nacional Bancaria y de Valores contará con los plazos que se señalan a continuación contados a partir de la entrada en vigor de esta Ley, para emitir las disposiciones de carácter general siguientes:
+La Comisión Nacional Bancaria y de [Valores](articulo-4.md) contará con los plazos que se señalan a continuación contados a partir de la entrada en vigor de esta Ley, para emitir las disposiciones de carácter general siguientes:
 
 I. Seis meses para emitir las disposiciones de carácter general a que se refieren los artículos [18](articulo-18.md), fracción I; [36](articulo-36.md), fracción IV; [39](articulo-39.md), fracciones VI, XI, XII y XVI; [44](articulo-44.md); [45](articulo-45.md); [48](articulo-48.md), primer párrafo, para las reglas relacionadas con contabilidad y plan de continuidad de negocio;
 

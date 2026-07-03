@@ -16,4 +16,4 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 38
 
-Cada institución de fondos de pago electrónico deberá contar con los mecanismos necesarios para la continuidad operativa y la administración de Contingencias Operativas de la propia institución, que incluyan su identificación, evaluación, monitoreo y mitigación.
+Cada institución de fondos de pago electrónico deberá contar con los mecanismos necesarios para la continuidad operativa y la administración de [Contingencias Operativas](articulo-1.md) de la propia institución, que incluyan su identificación, evaluación, monitoreo y mitigación.

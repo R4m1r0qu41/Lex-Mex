@@ -19,6 +19,19 @@ pub struct LinkTarget {
 /// instrument.
 pub type LinkTargets = HashMap<String, LinkTarget>;
 
+/// Presentation location of a defined term's definition entry: the glossary
+/// note plus the block anchor of the definition itself.
+#[derive(Debug, Clone)]
+pub struct TermTarget {
+    pub note: LinkTarget,
+    /// Block anchor without the `#^` prefix: `f-ii` for a fraction-style
+    /// definition, `t-<slug>` for a colon-style one.
+    pub anchor: String,
+}
+
+/// Defined-term ID to definition location, across every loaded instrument.
+pub type TermTargets = HashMap<String, TermTarget>;
+
 /// Build the link-target lookup for a set of loaded corpora, given each
 /// corpus directory slug.
 #[must_use]
@@ -39,11 +52,43 @@ pub fn link_targets(corpora: &[(&Corpus, &str)]) -> LinkTargets {
     targets
 }
 
+/// Build the defined-term target lookup for a set of loaded corpora.
+#[must_use]
+pub fn term_targets(corpora: &[(&Corpus, &str)], targets: &LinkTargets) -> TermTargets {
+    let mut output = TermTargets::new();
+    for (corpus, _) in corpora {
+        for term in &corpus.terms {
+            let Some(note) = targets.get(&term.defining_provision_id) else {
+                continue;
+            };
+            output.insert(
+                term.id.clone(),
+                TermTarget {
+                    note: note.clone(),
+                    anchor: term_anchor(term),
+                },
+            );
+        }
+    }
+    output
+}
+
+fn term_anchor(term: &lex_core::DefinedTerm) -> String {
+    if let Some(fraction) = &term.fraction {
+        format!("f-{}", fraction.to_lowercase())
+    } else {
+        let slug = term.id.rsplit(":term:").next().unwrap_or("term");
+        format!("t-{slug}")
+    }
+}
+
 pub fn write_canonical(corpus: &Corpus, output_dir: &Path) -> Result<()> {
     fs::create_dir_all(output_dir)?;
     write_json(&corpus.instrument, &output_dir.join("instrument.json"))?;
     write_json(&corpus.provisions, &output_dir.join("provisions.json"))?;
-    write_json(&corpus.references, &output_dir.join("references.json"))
+    write_json(&corpus.references, &output_dir.join("references.json"))?;
+    write_json(&corpus.terms, &output_dir.join("terms.json"))?;
+    write_json(&corpus.term_usages, &output_dir.join("term-usages.json"))
 }
 
 pub fn write_validation(report: &ValidationReport, output_dir: &Path) -> Result<()> {
@@ -51,16 +96,21 @@ pub fn write_validation(report: &ValidationReport, output_dir: &Path) -> Result<
     write_json(report, &output_dir.join("validation.json"))
 }
 
-pub fn write_markdown(corpus: &Corpus, targets: &LinkTargets, output_dir: &Path) -> Result<()> {
+pub fn write_markdown(
+    corpus: &Corpus,
+    targets: &LinkTargets,
+    terms: &TermTargets,
+    output_dir: &Path,
+) -> Result<()> {
     fs::create_dir_all(output_dir)?;
     for provision in &corpus.provisions {
         let filename = markdown_filename(provision);
-        let content = standard_markdown(corpus, targets, provision);
+        let content = standard_markdown(corpus, targets, terms, provision);
         fs::write(output_dir.join(filename), content)?;
     }
     fs::write(
         output_dir.join("README.md"),
-        markdown_index(corpus, targets, false),
+        markdown_index(corpus, targets, terms, false),
     )?;
     Ok(())
 }
@@ -68,6 +118,7 @@ pub fn write_markdown(corpus: &Corpus, targets: &LinkTargets, output_dir: &Path)
 pub fn write_obsidian(
     corpus: &Corpus,
     targets: &LinkTargets,
+    terms: &TermTargets,
     review_items: &[ReviewItem],
     output_dir: &Path,
 ) -> Result<()> {
@@ -78,14 +129,14 @@ pub fn write_obsidian(
     let mut generated_files = Vec::with_capacity(corpus.provisions.len() + 1);
     for provision in &corpus.provisions {
         let filename = markdown_filename(provision);
-        let content = obsidian_markdown(corpus, targets, provision);
+        let content = obsidian_markdown(corpus, targets, terms, provision);
         fs::write(instrument_dir.join(&filename), content)?;
         generated_files.push(filename);
     }
     let index_filename = format!("{}.md", corpus.instrument.short_name);
     fs::write(
         instrument_dir.join(&index_filename),
-        obsidian_index(corpus, targets),
+        obsidian_index(corpus, targets, terms),
     )?;
     generated_files.push(index_filename);
     write_json(
@@ -140,7 +191,12 @@ fn front_matter(corpus: &Corpus, provision: &Provision) -> String {
     )
 }
 
-fn standard_markdown(corpus: &Corpus, targets: &LinkTargets, provision: &Provision) -> String {
+fn standard_markdown(
+    corpus: &Corpus,
+    targets: &LinkTargets,
+    terms: &TermTargets,
+    provision: &Provision,
+) -> String {
     let mut output = front_matter(corpus, provision);
     if let Some(title) = &provision.heading_context.title {
         let _ = write!(output, "> {title}");
@@ -162,41 +218,109 @@ fn standard_markdown(corpus: &Corpus, targets: &LinkTargets, provision: &Provisi
         output,
         "# {}\n\n{}\n",
         provision.label,
-        linked_string(corpus, targets, &provision.text, &provision.id, false)
+        linked_string(
+            corpus,
+            targets,
+            terms,
+            &provision.text,
+            &provision.id,
+            false
+        )
     );
     append_transitory_effects(&mut output, provision);
     output
 }
 
-fn obsidian_markdown(corpus: &Corpus, targets: &LinkTargets, provision: &Provision) -> String {
+fn obsidian_markdown(
+    corpus: &Corpus,
+    targets: &LinkTargets,
+    terms: &TermTargets,
+    provision: &Provision,
+) -> String {
     let mut output = front_matter(corpus, provision);
     let _ = write!(
         output,
         "[[Corpus/{0}/{0}|← Índice {0}]]\n\n",
         corpus.instrument.short_name
     );
-    let _ = write!(
-        output,
-        "# {}\n\n{}\n",
-        provision.label,
-        linked_string(corpus, targets, &provision.text, &provision.id, true)
-    );
+    let body = linked_string(corpus, targets, terms, &provision.text, &provision.id, true);
+    let body = with_block_anchors(corpus, provision, &body);
+    let _ = write!(output, "# {}\n\n{body}\n", provision.label);
     append_transitory_effects(&mut output, provision);
     output
 }
 
-/// Inject resolved direct reference links into `text`, whose reference edges
-/// are anchored at `source_id` (a provision ID, or the instrument ID for the
-/// official title). Canonical text is never modified; links exist only in
-/// the returned presentation string.
+/// Append Obsidian block anchors to the rendered paragraphs of a provision:
+/// `^f-<roman>` on fraction paragraphs (hovering a fraction link previews
+/// only that fraction) and `^t-<slug>` on colon-style definition entries.
+/// Anchors are decided from the canonical text's paragraphs; the rendered
+/// body has identical paragraph structure because link injection never
+/// crosses paragraph boundaries.
+fn with_block_anchors(corpus: &Corpus, provision: &Provision, body: &str) -> String {
+    let fraction_re = regex::Regex::new(r"^([IVXLCDM]+)\.\s").expect("static regex");
+    let mut anchors_by_offset: HashMap<usize, String> = HashMap::new();
+    for term in &corpus.terms {
+        if term.defining_provision_id == provision.id && term.fraction.is_none() {
+            anchors_by_offset.insert(term.start_char, term_anchor(term));
+        }
+    }
+
+    let mut offset = 0;
+    let mut anchors = Vec::new();
+    for paragraph in provision.text.split("\n\n") {
+        let anchor = anchors_by_offset.get(&offset).cloned().or_else(|| {
+            fraction_re
+                .captures(paragraph)
+                .map(|captures| format!("f-{}", captures[1].to_lowercase()))
+        });
+        anchors.push(anchor);
+        offset += paragraph.chars().count() + 2;
+    }
+
+    let rendered: Vec<&str> = body.split("\n\n").collect();
+    if rendered.len() != anchors.len() {
+        return body.to_owned();
+    }
+    rendered
+        .iter()
+        .zip(anchors)
+        .map(|(paragraph, anchor)| match anchor {
+            Some(anchor) => format!("{paragraph} ^{anchor}"),
+            None => (*paragraph).to_owned(),
+        })
+        .collect::<Vec<_>>()
+        .join("\n\n")
+}
+
+/// One planned link inside a provision's rendered text: a resolved
+/// reference edge or a defined-term usage.
+struct Injection<'a> {
+    start_char: usize,
+    end_char: usize,
+    expected_span: &'a str,
+    target: &'a LinkTarget,
+    /// Obsidian block anchor inside the target note (`f-ii`, `t-cuenta`),
+    /// used for defined-term definitions.
+    anchor: Option<String>,
+}
+
+/// Inject resolved direct reference links and defined-term links into
+/// `text`, whose reference edges are anchored at `source_id` (a provision
+/// ID, or the instrument ID for the official title). Canonical text is
+/// never modified; links exist only in the returned presentation string.
+/// Term links target the definition's block anchor, so hovering shows only
+/// the definition entry; to keep notes readable, only the first usage of
+/// each term per provision becomes a link, and usages overlapping a
+/// reference span are skipped.
 fn linked_string(
     corpus: &Corpus,
     targets: &LinkTargets,
+    terms: &TermTargets,
     text: &str,
     source_id: &str,
     obsidian: bool,
 ) -> String {
-    let mut references: Vec<_> = corpus
+    let mut injections: Vec<Injection<'_>> = corpus
         .references
         .iter()
         .filter(|edge| {
@@ -204,32 +328,76 @@ fn linked_string(
                 && edge.resolution_status == ReferenceResolutionStatus::Resolved
                 && edge.reference_form == ReferenceForm::Direct
         })
+        .filter_map(|edge| {
+            targets
+                .get(&edge.target_provision_id)
+                .map(|target| Injection {
+                    start_char: edge.start_char,
+                    end_char: edge.end_char,
+                    expected_span: &edge.source_span,
+                    target,
+                    anchor: None,
+                })
+        })
         .collect();
-    references.sort_by_key(|edge| (edge.start_char, edge.end_char));
+
+    let mut linked_terms = std::collections::HashSet::new();
+    let mut usages: Vec<_> = corpus
+        .term_usages
+        .iter()
+        .filter(|usage| usage.provision_id == source_id)
+        .collect();
+    usages.sort_by_key(|usage| usage.start_char);
+    for usage in usages {
+        if !linked_terms.insert(&usage.term_id) {
+            continue;
+        }
+        let Some(term_target) = terms.get(&usage.term_id) else {
+            continue;
+        };
+        let overlaps = injections.iter().any(|existing| {
+            usage.start_char < existing.end_char && existing.start_char < usage.end_char
+        });
+        if overlaps {
+            continue;
+        }
+        injections.push(Injection {
+            start_char: usage.start_char,
+            end_char: usage.end_char,
+            expected_span: &usage.span,
+            target: &term_target.note,
+            anchor: Some(term_target.anchor.clone()),
+        });
+    }
+    injections.sort_by_key(|injection| (injection.start_char, injection.end_char));
+
     let chars: Vec<_> = text.chars().collect();
     let mut output = String::new();
     let mut cursor = 0;
-
-    for edge in references {
-        if edge.start_char < cursor
-            || edge.end_char > chars.len()
-            || edge.start_char >= edge.end_char
+    for injection in injections {
+        if injection.start_char < cursor
+            || injection.end_char > chars.len()
+            || injection.start_char >= injection.end_char
         {
             continue;
         }
-        let displayed: String = chars[edge.start_char..edge.end_char].iter().collect();
-        if displayed != edge.source_span {
+        let displayed: String = chars[injection.start_char..injection.end_char]
+            .iter()
+            .collect();
+        if displayed != injection.expected_span {
             continue;
         }
-        let Some(target) = targets.get(&edge.target_provision_id) else {
-            continue;
-        };
-        output.extend(chars[cursor..edge.start_char].iter());
+        output.extend(chars[cursor..injection.start_char].iter());
+        let target = injection.target;
         let stem = target.filename.trim_end_matches(".md");
         if obsidian {
+            let anchor = injection
+                .anchor
+                .as_ref()
+                .map_or_else(String::new, |anchor| format!("#^{anchor}"));
             let _ = write!(
                 output,
-                "[[Corpus/{}/{stem}|{displayed}]]",
+                "[[Corpus/{}/{stem}{anchor}|{displayed}]]",
                 target.instrument_short_name
             );
         } else if target.instrument_short_name == corpus.instrument.short_name {
@@ -241,7 +409,7 @@ fn linked_string(
                 target.instrument_slug
             );
         }
-        cursor = edge.end_char;
+        cursor = injection.end_char;
     }
     output.extend(chars[cursor..].iter());
     output
@@ -306,7 +474,7 @@ fn format_boundary(boundary: &TemporalBoundary) -> String {
     value
 }
 
-fn obsidian_index(corpus: &Corpus, targets: &LinkTargets) -> String {
+fn obsidian_index(corpus: &Corpus, targets: &LinkTargets, terms: &TermTargets) -> String {
     let mut output = format!(
         "---\nid: {}\naliases: [{}]\ngenerated: true\nsource_url: {}\nsource_sha256: {}\n---\n\n[[Inicio|← Inicio]]\n\n",
         corpus.instrument.id,
@@ -315,7 +483,7 @@ fn obsidian_index(corpus: &Corpus, targets: &LinkTargets) -> String {
         corpus.instrument.source_url,
         corpus.instrument.source_sha256,
     );
-    output.push_str(&markdown_index(corpus, targets, true));
+    output.push_str(&markdown_index(corpus, targets, terms, true));
     output
 }
 
@@ -382,10 +550,16 @@ fn obsidian_review_queue(items: &[ReviewItem]) -> String {
     output
 }
 
-fn markdown_index(corpus: &Corpus, targets: &LinkTargets, obsidian: bool) -> String {
+fn markdown_index(
+    corpus: &Corpus,
+    targets: &LinkTargets,
+    terms: &TermTargets,
+    obsidian: bool,
+) -> String {
     let linked_title = linked_string(
         corpus,
         targets,
+        terms,
         &corpus.instrument.official_title,
         &corpus.instrument.id,
         obsidian,
@@ -502,7 +676,7 @@ mod tests {
     };
     use tempfile::tempdir;
 
-    use super::{link_targets, markdown_filename, write_markdown, write_obsidian};
+    use super::{link_targets, markdown_filename, term_targets, write_markdown, write_obsidian};
 
     #[test]
     fn produces_stable_presentation_filename() {
@@ -523,10 +697,13 @@ mod tests {
             instrument: sample_instrument(),
             provisions: vec![sample_provision()],
             references: Vec::new(),
+            terms: Vec::new(),
+            term_usages: Vec::new(),
         };
         let targets = link_targets(&[(&corpus, "lritf")]);
+        let terms = term_targets(&[(&corpus, "lritf")], &targets);
 
-        write_obsidian(&corpus, &targets, &[], temp.path()).unwrap();
+        write_obsidian(&corpus, &targets, &terms, &[], temp.path()).unwrap();
 
         assert_eq!(
             fs::read_to_string(notes.join("criterio.md")).unwrap(),
@@ -592,11 +769,14 @@ mod tests {
                 ),
                 sample_reference("54", start_54, Vec::new()),
             ],
+            terms: Vec::new(),
+            term_usages: Vec::new(),
         };
 
         let targets = link_targets(&[(&corpus, "lritf")]);
-        write_markdown(&corpus, &targets, &temp.path().join("markdown")).unwrap();
-        write_obsidian(&corpus, &targets, &[], temp.path()).unwrap();
+        let terms = term_targets(&[(&corpus, "lritf")], &targets);
+        write_markdown(&corpus, &targets, &terms, &temp.path().join("markdown")).unwrap();
+        write_obsidian(&corpus, &targets, &terms, &[], temp.path()).unwrap();
 
         let standard =
             fs::read_to_string(temp.path().join("markdown/transitorio-decima-primera.md")).unwrap();

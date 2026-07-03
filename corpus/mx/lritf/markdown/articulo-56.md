@@ -16,9 +16,9 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 56
 
-Las ITF podrán utilizar equipos, medios electrónicos, ópticos o de cualquier otra tecnología, sistemas automatizados de procesamiento de datos y redes de telecomunicaciones, ya sean privados o públicos para otorgar sus servicios y podrán permitir el uso de la firma electrónica avanzada o cualquier otra forma de autenticación para dar acceso a sus Clientes a su Infraestructura Tecnológica, contratar sus productos y servicios o realizar Operaciones.
+Las [ITF](articulo-4.md) podrán utilizar equipos, medios electrónicos, ópticos o de cualquier otra tecnología, sistemas automatizados de procesamiento de datos y redes de telecomunicaciones, ya sean privados o públicos para otorgar sus servicios y podrán permitir el uso de la firma electrónica avanzada o cualquier otra forma de autenticación para dar acceso a sus [Clientes](articulo-4.md) a su [Infraestructura Tecnológica](articulo-4.md), contratar sus productos y servicios o realizar [Operaciones](articulo-4.md).
 
-El funcionamiento y uso de tales equipos, medios y formas de autenticación se sujetará a los requisitos establecidos en las disposiciones de carácter general que para tal efecto emita la CNBV, respecto de las instituciones de financiamiento colectivo, o la propia CNBV y el Banco de México, de manera conjunta, respecto de las instituciones de fondos de pago electrónico.
+El funcionamiento y uso de tales equipos, medios y formas de autenticación se sujetará a los requisitos establecidos en las disposiciones de carácter general que para tal efecto emita la [CNBV](articulo-4.md), respecto de las instituciones de financiamiento colectivo, o la propia CNBV y el Banco de México, de manera conjunta, respecto de las instituciones de fondos de pago electrónico.
 
 Dichas formas de autenticación producirán los mismos efectos que las leyes otorgan a los documentos suscritos con firma autógrafa y, en consecuencia, tendrán el mismo valor probatorio, siempre que cumplan con las disposiciones a que se refiere este artículo.
 

@@ -16,7 +16,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 33
 
-Las instituciones de fondos de pago electrónico deberán evaluar o auditar, al menos una vez al año, la seguridad informática de la Infraestructura Tecnológica. Además, entre los trabajos de dicha evaluación o auditoría, las instituciones de fondos de pago electrónico deberán presentar al Órgano de Administración, en el plazo referido, los siguientes documentos:
+Las instituciones de fondos de pago electrónico deberán evaluar o auditar, al menos una vez al año, la seguridad informática de la [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md). Además, entre los trabajos de dicha evaluación o auditoría, las instituciones de fondos de pago electrónico deberán presentar al [Órgano de Administración](articulo-1.md), en el plazo referido, los siguientes documentos:
 
 I. Reporte que especifique el nivel de riesgo informático para la Infraestructura Tecnológica.
 
@@ -26,7 +26,7 @@ III. Evidencia de la implementación de las medidas de remediación conforme al 
 
 IV. Evidencia de la mitigación de las observaciones referidas conforme al plan mencionado en la fracción II del presente artículo.
 
-Las instituciones de fondos de pago electrónico, previo al inicio de operaciones, deberán realizar la evaluación o auditoría a que se refiere el párrafo anterior, sobre aquellos elementos o componentes de la Infraestructura Tecnológica propia o de terceros contratados, utilizada para realizar la emisión, administración, redención o transmisión de fondos de pago electrónico, incluyendo los servicios que presten a sus Clientes para realizar dichas actividades, así como el almacenamiento de la Información Personal y la Información Sensible.
+Las instituciones de fondos de pago electrónico, previo al inicio de operaciones, deberán realizar la evaluación o auditoría a que se refiere el párrafo anterior, sobre aquellos elementos o componentes de la Infraestructura Tecnológica propia o de terceros contratados, utilizada para realizar la emisión, administración, redención o transmisión de fondos de pago electrónico, incluyendo los servicios que presten a sus [Clientes](../../lritf/markdown/articulo-4.md) para realizar dichas actividades, así como el almacenamiento de la [Información Personal](articulo-1.md) y la [Información Sensible](articulo-1.md).
 
 Para efectos de lo establecido en el primer y segundo párrafos del presente artículo, las instituciones de fondos de pago electrónico que utilicen Infraestructura Tecnológica de terceros deberán contar, por parte de estos, con los siguientes documentos:
 
@@ -38,4 +38,4 @@ III. Evidencias de la implementación del plan de remediación y de la mitigaci�
 
 Las instituciones de fondos de pago electrónico deberán presentar al Órgano de Administración lo referido en las fracciones anteriores.
 
-Los documentos a que se refiere el presente artículo deberán estar disponibles para consulta del Banco de México y la CNBV, cuando dichas Autoridades Financieras lo requieran y, en este caso, deberán ser enviadas conforme a lo establecido en el artículo [59](articulo-59.md) de las presentes Disposiciones.
+Los documentos a que se refiere el presente artículo deberán estar disponibles para consulta del Banco de México y la [CNBV](../../lritf/markdown/articulo-4.md), cuando dichas [Autoridades Financieras](../../lritf/markdown/articulo-4.md) lo requieran y, en este caso, deberán ser enviadas conforme a lo establecido en el artículo [59](articulo-59.md) de las presentes Disposiciones.

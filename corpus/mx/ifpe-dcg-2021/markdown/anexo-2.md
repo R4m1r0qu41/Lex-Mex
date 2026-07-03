@@ -14,7 +14,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # ANEXO 2
 
-Requerimientos mínimos para desarrollar el Plan de Continuidad de Negocio
+Requerimientos mínimos para desarrollar el [Plan de Continuidad de Negocio](articulo-1.md)
 
 Las instituciones de fondos de pago electrónico, previo al desarrollo del Plan de Continuidad de Negocio, deberán llevar a cabo los siguiente:
 
@@ -22,7 +22,7 @@ I. Un análisis de riesgo que:
 
 a) Considere riesgos asociados a los siguientes factores: humanos (incluye fraude, integridad, capacitación), de procesos, tecnológicos y externos (incluyendo proveedores externos) conforme a la metodología a que se refiere el artículo [39](articulo-39.md) de estas Disposiciones.
 
-b) Identifique, evalúe, monitoree y mitigue los riesgos relacionados con los procesos operativos y servicios de procesamiento y transmisión de datos contratados con proveedores, así como los relacionados con custodia y resguardo de información de la institución de fondos de pago electrónico y de sus Clientes.
+b) Identifique, evalúe, monitoree y mitigue los riesgos relacionados con los procesos operativos y servicios de procesamiento y transmisión de datos contratados con proveedores, así como los relacionados con custodia y resguardo de información de la institución de fondos de pago electrónico y de sus [Clientes](../../lritf/markdown/articulo-4.md).
 
 c) Determine los riesgos derivados de la ubicación geográfica de los centros principales de procesamiento de datos y de operación de los procesos identificados como críticos conforme al análisis de impacto al negocio, para evitar que los centros de procesamiento de datos y de operación alternos estén expuestos en el mismo momento a los mismos riesgos que los principales.
 
@@ -32,7 +32,7 @@ II. Un análisis de impacto al negocio que:
 
 a) Contenga la totalidad de los servicios y procesos, identificando aquellos que sean críticos y que se consideren indispensables para la continuidad de las operaciones, incluyendo los servicios contratados con sus proveedores de servicios.
 
-b) Determine los recursos humanos, logísticos, materiales, de Infraestructura Tecnológica y de cualquier otra naturaleza mínimos necesarios para mantener y restablecer los servicios y procesos de la institución de fondos de pago electrónico ante la ocurrencia de una Contingencia Operativa, así como al término de esta.
+b) Determine los recursos humanos, logísticos, materiales, de [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md) y de cualquier otra naturaleza mínimos necesarios para mantener y restablecer los servicios y procesos de la institución de fondos de pago electrónico ante la ocurrencia de una [Contingencia Operativa](articulo-1.md), así como al término de esta.
 
 c) Elabore escenarios relevantes relativos a las posibles Contingencias Operativas, considerando, entre otros, los siguientes:
 
@@ -86,7 +86,7 @@ b) De contingencia, que comprenderá la definición de las acciones y procedimie
 
 2. Contener los efectos de Contingencias Operativas sobre los procesos críticos y favorecer el restablecimiento de la operación a los niveles de funcionamiento requeridos.
 
-3. Hacer del conocimiento del Banco de México y la CNBV, las Contingencias Operativas, conforme a lo señalado en el artículo [43](articulo-43.md) de estas Disposiciones.
+3. Hacer del conocimiento del Banco de México y la [CNBV](../../lritf/markdown/articulo-4.md), las Contingencias Operativas, conforme a lo señalado en el artículo [43](articulo-43.md) de estas Disposiciones.
 
 c) De recuperación, que comprenderá la definición de las acciones y procedimientos a seguir para que los servicios y procesos de las instituciones de fondos de pago electrónico, ante la materialización de Contingencias Operativas, puedan continuar su operación en un nivel mínimo aceptable, incluyendo mecanismos de actualización y conciliación de la información, así como los mecanismos para recuperación en caso actualizar lo dispuesto en la fracción VII del artículo [49](articulo-49.md) de las presentes Disposiciones.
 

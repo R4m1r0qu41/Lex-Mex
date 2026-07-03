@@ -16,7 +16,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 13
 
-Las instituciones de fondos de pago electrónico únicamente podrán almacenar información relativa a los Factores de Autenticación utilizados por sus Clientes en los Canales de Instrucción, cuando dicho almacenamiento se realice bajo protocolos criptográficamente seguros y no sea posible que:
+Las instituciones de fondos de pago electrónico únicamente podrán almacenar información relativa a los Factores de [Autenticación](articulo-1.md) utilizados por sus [Clientes](../../lritf/markdown/articulo-4.md) en los [Canales de Instrucción](articulo-1.md), cuando dicho almacenamiento se realice bajo protocolos criptográficamente seguros y no sea posible que:
 
 I. Se obtenga la información original de los Factores de Autenticación a partir de la información almacenada.
 

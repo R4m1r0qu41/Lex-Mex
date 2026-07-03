@@ -15,7 +15,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # DÉCIMA
 
-A propuesta de la Secretaría de Hacienda y Crédito Público, la Cámara de Diputados deberá destinar recursos en el Presupuesto de Egresos de la Federación para el desarrollo de las facultades que deba ejercer la Comisión Nacional Bancaria y de Valores y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros conforme a la presente Ley, para el establecimiento del área encargada de preparar e implementar el programa y los lineamientos para las sociedades autorizadas para operar con Modelos Novedosos reguladas en la presente Ley.
+A propuesta de la [Secretaría](articulo-4.md) de Hacienda y Crédito Público, la Cámara de Diputados deberá destinar recursos en el Presupuesto de Egresos de la Federación para el desarrollo de las facultades que deba ejercer la Comisión Nacional Bancaria y de [Valores](articulo-4.md) y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros conforme a la presente Ley, para el establecimiento del área encargada de preparar e implementar el programa y los lineamientos para las sociedades autorizadas para operar con [Modelos Novedosos](articulo-4.md) reguladas en la presente Ley.
 
 ## Efectos transitorios estructurados
 

@@ -665,6 +665,7 @@ dependencies = [
  "anyhow",
  "chrono",
  "lex-core",
+ "regex",
  "serde",
  "serde_json",
  "tempfile",

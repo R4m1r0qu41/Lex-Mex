@@ -16,7 +16,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 29
 
-Las instituciones de fondos de pago electrónico deberán mantener la solidez de su Infraestructura Tecnológica, para lo cual deberán contar con:
+Las instituciones de fondos de pago electrónico deberán mantener la solidez de su [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md), para lo cual deberán contar con:
 
 I. Controles que permitan revisar, al menos una vez al año, que los componentes que brindan seguridad a su Infraestructura Tecnológica se encuentren vigentes y, en su caso, actualizar los componentes que ya no lo sean.
 
@@ -26,7 +26,7 @@ III. Registros que permitan vigilar, auditar y rastrear los accesos y actividade
 
 a) Fecha, hora, minuto y segundo de las actividades realizadas por los Usuarios de la Infraestructura Tecnológica.
 
-b) Elementos que permitan identificar al Usuario de la Infraestructura Tecnológica que realiza dichas actividades.
+b) Elementos que permitan identificar al [Usuario de la Infraestructura Tecnológica](articulo-1.md) que realiza dichas actividades.
 
 c) Datos de identificación del punto de acceso utilizado por el Usuario de la Infraestructura Tecnológica para realizar la operación de que se trate.
 
@@ -34,13 +34,13 @@ d) Direcciones de los protocolos de Internet o similares, de acuerdo con el medi
 
 La información generada deberá ser almacenada de forma segura por un periodo mínimo de ciento ochenta días naturales y contemplar mecanismos para evitar su alteración, así como mantener procedimientos de control interno para su acceso y disponibilidad.
 
-IV. Registros que permitan vigilar, auditar y rastrear los accesos y actividades realizadas por los diferentes Clientes. Estos registros deberán incluir, al menos, la siguiente información:
+IV. Registros que permitan vigilar, auditar y rastrear los accesos y actividades realizadas por los diferentes [Clientes](../../lritf/markdown/articulo-4.md). Estos registros deberán incluir, al menos, la siguiente información:
 
 a) Fecha, hora, minuto y segundo de las actividades realizadas por los Clientes.
 
-b) Números de las Cuentas involucradas en la Operación, incluyendo aquella Cuenta perteneciente al ordenante de la Operación y, en su caso, la de los receptores, y demás información que permita identificar las Operaciones realizadas por los Clientes o quienes hayan usado el medio de disposición respectivo.
+b) Números de las [Cuentas](articulo-1.md) involucradas en la [Operación](../../lritf/markdown/articulo-4.md), incluyendo aquella Cuenta perteneciente al ordenante de la Operación y, en su caso, la de los receptores, y demás información que permita identificar las Operaciones realizadas por los Clientes o quienes hayan usado el medio de disposición respectivo.
 
-c) Datos de identificación del Canal de Instrucción utilizado por el Cliente o por quien haya usado el medio de disposición respectivo para realizar la Operación de que se trate, así como los Factores de Autenticación utilizados para su instrucción.
+c) Datos de identificación del [Canal de Instrucción](articulo-1.md) utilizado por el Cliente o por quien haya usado el medio de disposición respectivo para realizar la Operación de que se trate, así como los Factores de [Autenticación](articulo-1.md) utilizados para su instrucción.
 
 d) Direcciones de los protocolos de Internet o similares, el número de la línea de teléfono o demás datos, de acuerdo con el Canal de Instrucción utilizado por el Cliente o usuario del medio de disposición.
 

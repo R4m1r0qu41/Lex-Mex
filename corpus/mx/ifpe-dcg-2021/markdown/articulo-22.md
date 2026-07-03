@@ -20,4 +20,4 @@ Las instituciones de fondos de pago electrónico deberán contar con procedimien
 
 I. Sean necesarios para la operación de la institución de fondos de pago electrónico.
 
-II. Estén autorizados por el oficial en jefe de seguridad de la información de la institución de fondos de pago electrónico, en cada uno de los elementos de su Infraestructura Tecnológica.
+II. Estén autorizados por el oficial en jefe de seguridad de la información de la institución de fondos de pago electrónico, en cada uno de los elementos de su [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md).

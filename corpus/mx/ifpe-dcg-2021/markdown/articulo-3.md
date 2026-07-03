@@ -16,10 +16,10 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 3
 
-Las instituciones de fondos de pago electrónico, en relación con los Canales de Instrucción, podrán:
+Las instituciones de fondos de pago electrónico, en relación con los [Canales de Instrucción](articulo-1.md), podrán:
 
-I. Permitir a sus Clientes la contratación de Operaciones y servicios adicionales a los originalmente convenidos.
+I. Permitir a sus [Clientes](../../lritf/markdown/articulo-4.md) la contratación de [Operaciones](../../lritf/markdown/articulo-4.md) y servicios adicionales a los originalmente convenidos.
 
-II. Modificar los términos y condiciones para la prestación de los servicios anteriormente convenidos que puedan tener una afectación financiera para sus Clientes, previo consentimiento expreso de estos, el cual podrá obtenerse por dichas instituciones a través del proceso de Autenticación referido en el artículo [7](articulo-7.md) de las presentes Disposiciones, desde el Canal de Instrucción de que se trate.
+II. Modificar los términos y condiciones para la prestación de los servicios anteriormente convenidos que puedan tener una afectación financiera para sus Clientes, previo consentimiento expreso de estos, el cual podrá obtenerse por dichas instituciones a través del proceso de [Autenticación](articulo-1.md) referido en el artículo [7](articulo-7.md) de las presentes Disposiciones, desde el Canal de Instrucción de que se trate.
 
-III. Permitir a sus Clientes contratar el uso de otro Canal de Instrucción, siempre y cuando la institución de fondos de pago electrónico requiera para ello, al menos, un Factor de Autenticación.
+III. Permitir a sus Clientes contratar el uso de otro Canal de Instrucción, siempre y cuando la institución de fondos de pago electrónico requiera para ello, al menos, un [Factor de Autenticación](articulo-1.md).

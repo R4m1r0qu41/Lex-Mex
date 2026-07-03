@@ -38,6 +38,11 @@
     "https://www.cnbv.gob.mx/Anexos/ANEXO 8 IFPES.pdf"
   ],
   "definition_layout_articles": ["1"],
+  "glossary": {
+    "provision_suffix": ":article:1",
+    "style": "colon_entries",
+    "additive_to": ["urn:lex-mx:federal:statute:lritf"]
+  },
   "tls_intermediate_ca_pems": [
     "globalsign-rsa-ov-ssl-ca-2018.pem",
     "godaddy-secure-ca-g2.pem"

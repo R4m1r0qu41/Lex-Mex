@@ -18,15 +18,15 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 Las instituciones de financiamiento colectivo, además de las actividades que le son propias, podrán llevar a cabo únicamente las siguientes:
 
-I. Recibir y publicar las solicitudes de Operaciones de financiamiento colectivo de los solicitantes y sus proyectos a través de la interfaz, página de internet o medio de comunicación electrónica o digital que utilice para realizar sus actividades;
+I. Recibir y publicar las solicitudes de [Operaciones](articulo-4.md) de financiamiento colectivo de los solicitantes y sus proyectos a través de la interfaz, página de internet o medio de comunicación electrónica o digital que utilice para realizar sus actividades;
 
 II. Facilitar que los potenciales inversionistas conozcan las características de las solicitudes de Operaciones de financiamiento colectivo de los solicitantes y sus proyectos a través de la interfaz, página de internet o medio de comunicación electrónica o digital que utilice para realizar sus actividades;
 
 III. Habilitar y permitir el uso de canales de comunicación electrónicos mediante los cuales los inversionistas y solicitantes puedan relacionarse a través de la interfaz, página de internet o medio de comunicación electrónica o digital que utilice para realizar sus actividades;
 
-IV. Obtener préstamos y créditos de cualquier persona, nacional o extranjera, destinados al cumplimiento de su objeto social. Dichos préstamos y créditos no podrán destinarse para establecer esquemas que permitan compartir con los inversionistas los riesgos de los proyectos previstos en esta Ley, salvo que obtengan la autorización de la CNBV en términos de las disposiciones de carácter general que al efecto emita. En ningún caso los préstamos y créditos podrán ser obtenidos de persona indeterminada o mediante medios masivos de comunicación ni de forma habitual o profesional;
+IV. Obtener préstamos y créditos de cualquier persona, nacional o extranjera, destinados al cumplimiento de su objeto social. Dichos préstamos y créditos no podrán destinarse para establecer esquemas que permitan compartir con los inversionistas los riesgos de los proyectos previstos en esta Ley, salvo que obtengan la autorización de la [CNBV](articulo-4.md) en términos de las disposiciones de carácter general que al efecto emita. En ningún caso los préstamos y créditos podrán ser obtenidos de persona indeterminada o mediante medios masivos de comunicación ni de forma habitual o profesional;
 
-V. Emitir Valores por cuenta propia. Los recursos obtenidos de la colocación de Valores de deuda en oferta pública no podrán destinarse para establecer esquemas que permitan compartir con los inversionistas los riesgos de los proyectos;
+V. Emitir [Valores](articulo-4.md) por cuenta propia. Los recursos obtenidos de la colocación de Valores de deuda en oferta pública no podrán destinarse para establecer esquemas que permitan compartir con los inversionistas los riesgos de los proyectos;
 
 VI. Adquirir o arrendar los bienes muebles e inmuebles necesarios para la realización de su objeto y enajenarlos cuando corresponda;
 

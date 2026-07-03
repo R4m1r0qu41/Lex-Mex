@@ -16,17 +16,17 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 4
 
-Las instituciones de fondos de pago electrónico deberán notificar a sus respectivos Clientes, por los medios pactados con ellos y en un periodo no mayor a cinco segundos, cuando a través de Canales de Instrucción, se ejecute cualquiera de las Operaciones que a continuación se indican o se solicite a las instituciones de fondos de pago electrónico alguno de los servicios siguientes:
+Las instituciones de fondos de pago electrónico deberán notificar a sus respectivos [Clientes](../../lritf/markdown/articulo-4.md), por los medios pactados con ellos y en un periodo no mayor a cinco segundos, cuando a través de [Canales de Instrucción](articulo-1.md), se ejecute cualquiera de las [Operaciones](../../lritf/markdown/articulo-4.md) que a continuación se indican o se solicite a las instituciones de fondos de pago electrónico alguno de los servicios siguientes:
 
-I. Transferencias y entrega de cantidades de dinero derivado del cargo a la Cuenta del Cliente de que se trate, a partir de que el monto acumulado diario de las Operaciones realizadas supere el equivalente en moneda nacional a 60 UDI’s, o bien, cuando cada una en lo individual supere el equivalente en moneda nacional a 25 UDI’s.
+I. Transferencias y entrega de cantidades de dinero derivado del cargo a la [Cuenta](articulo-1.md) del Cliente de que se trate, a partir de que el monto acumulado diario de las Operaciones realizadas supere el equivalente en moneda nacional a 60 [UDI](articulo-1.md)’s, o bien, cuando cada una en lo individual supere el equivalente en moneda nacional a 25 UDI’s.
 
 II. Alta o modificación del medio de notificación al Cliente, en cuyo caso la institución de fondos de pago electrónico respectiva deberá enviar la notificación a que este artículo se refiere por el medio previamente pactado con el Cliente, así como por el nuevo medio.
 
 III. Contratación de otro servicio provisto a través de Canales de Instrucción.
 
-IV. Desactivación, bloqueo, reactivación y modificación de los Factores de Autenticación.
+IV. Desactivación, bloqueo, reactivación y modificación de los Factores de [Autenticación](articulo-1.md).
 
-Las instituciones de fondos de pago electrónico deberán asegurarse de que la notificación que al efecto envíen conforme a este artículo, no contenga Información Personal o Información Sensible del Cliente. No obstante, las instituciones de fondos de pago electrónico deberán habilitar mecanismos para que sus Clientes puedan, a su elección, recibir la información del saldo de la Cuenta en virtud de los servicios prestados a través de los Canales de Instrucción.
+Las instituciones de fondos de pago electrónico deberán asegurarse de que la notificación que al efecto envíen conforme a este artículo, no contenga [Información Personal](articulo-1.md) o [Información Sensible](articulo-1.md) del Cliente. No obstante, las instituciones de fondos de pago electrónico deberán habilitar mecanismos para que sus Clientes puedan, a su elección, recibir la información del saldo de la Cuenta en virtud de los servicios prestados a través de los Canales de Instrucción.
 
 Para efectos de la notificación a que se refiere el presente artículo, las instituciones de fondos de pago electrónico que emitan medios de disposición, deberán realizar la referida notificación, tanto a sus Clientes, como a los titulares de los medios de disposición emitidos.
 

@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 128
 
-Serán sancionados con prisión de dos a diez años y multa de 5,000 a 150,000 UMA a quien destruya, modifique total o parcialmente, los sistemas o registros contables o la documentación que dé origen a los asientos contables de una ITF o sociedad autorizada para operar con Modelos Novedosos, con anterioridad al vencimiento de los plazos legales de conservación.
+Serán sancionados con prisión de dos a diez años y multa de 5,000 a 150,000 [UMA](articulo-4.md) a quien destruya, modifique total o parcialmente, los sistemas o registros contables o la documentación que dé origen a los asientos contables de una [ITF](articulo-4.md) o sociedad autorizada para operar con [Modelos Novedosos](articulo-4.md), con anterioridad al vencimiento de los plazos legales de conservación.

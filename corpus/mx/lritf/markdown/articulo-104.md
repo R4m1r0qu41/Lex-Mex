@@ -18,7 +18,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 Las multas previstas en esta Ley que le corresponde imponer al Banco de México serán las siguientes:
 
-I. Multa de 30,000 a 150,000 UMA por realizar operaciones con activos virtuales o divisas sin contar con la previa autorización del Banco de México o por realizar Operaciones con activos virtuales distintos a los determinados por el Banco de México;
+I. Multa de 30,000 a 150,000 [UMA](articulo-4.md) por realizar operaciones con activos virtuales o divisas sin contar con la previa autorización del Banco de México o por realizar [Operaciones](articulo-4.md) con activos virtuales distintos a los determinados por el Banco de México;
 
 II. Multa de 15,000 a 100,000 UMA a las instituciones de fondos de pago electrónico por exceder los límites de operación a que están sujetas en términos del artículo [44](articulo-44.md) de esta Ley, de conformidad con lo establecido en las disposiciones de carácter general que emita el Banco de México;
 

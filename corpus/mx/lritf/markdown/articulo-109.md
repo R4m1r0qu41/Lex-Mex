@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 109
 
-La CONDUSEF sancionará con multa de 200 a 1,000 UMA a las ITF que incumplan con cualquier disposición prevista en esta Ley o en las disposiciones de carácter general que de ella emanen, cuya supervisión, vigilancia o cumplimiento sea competencia de dicha Comisión.
+La [CONDUSEF](articulo-4.md) sancionará con multa de 200 a 1,000 [UMA](articulo-4.md) a las [ITF](articulo-4.md) que incumplan con cualquier disposición prevista en esta Ley o en las disposiciones de carácter general que de ella emanen, cuya supervisión, vigilancia o cumplimiento sea competencia de dicha Comisión.

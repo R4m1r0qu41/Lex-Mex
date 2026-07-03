@@ -36,7 +36,7 @@ En caso de ser afirmativo el inciso d), detallar datos del proveedor (nombre, di
 
 Afectación provocada por el Incidente de Seguridad de la Información
 
-f) ¿El incidente puede ocasionar una pérdida monetaria para los Clientes o para la propia IFPE? Si ( ) No ( )
+f) ¿El incidente puede ocasionar una pérdida monetaria para los [Clientes](../../lritf/markdown/articulo-4.md) o para la propia IFPE? Si ( ) No ( )
 
 ¿Es viable recuperar de manera directa (gestiones propias) o indirecta (a través de seguros) la posible g) Si ( ) No ( ) pérdida monetaria?
 
@@ -50,11 +50,11 @@ Datos biométricos (huellas dactilares, patrones en iris o retina o reconocimien
 
 Otro(s):
 
-Información de Cuentas o saldos
+Información de [Cuentas](articulo-1.md) o saldos
 
 Números de tarjetas, u otros Si ( ) No ( )
 
-Números de Cuenta Si ( ) No ( ) Si ( ) No ( ) Contraseñas o números de Identificador de Cliente Identificadores de Clientes Si ( ) No ( )
+Números de Cuenta Si ( ) No ( ) Si ( ) No ( ) Contraseñas o números de [Identificador de Cliente](articulo-1.md) Identificadores de Clientes Si ( ) No ( )
 
 Límites Si ( ) No ( )
 
@@ -118,6 +118,6 @@ IV. Clasificación del Incidente de Seguridad de la Información
 
 Señalar en la tabla siguiente la clasificación en la que se ubica el incidente mediante los conceptos del catálogo que a continuación se señalan:
 
-Tipo Sub Tipo Sub Clase de Eventos I. Fraude Interno 1.1 Actividades no autorizadas. 1.1.1 Operaciones no reveladas (intencionalmente). ( ) 1.1.2 Operaciones no autorizadas (con pérdidas ( ) pecuniarias). 1.1.3 Valoración errónea de posiciones ( ) (intencional). 1.2 Robo y Fraude Internos. 1.2.1 Fraude / depósitos sin valor. ( ) 1.2.2 Extorsión / malversación / robo. ( ) 1.2.3 Apropiación indebida de activos. ( ) 1.2.4 Destrucción dolosa de activos. ( ) 1.2.5 Falsificación Interna. ( ) 1.2.6 Contrabando. ( ) 1.2.7 Apropiación de cuentas, de identidad, entre otros. 1.2.8 Incumplimiento / evasión de impuestos (intencional). ( ) 1.2.9 Cohecho. ( ) 1.2.10 Abuso de información privilegiada (no a favor de la ( ) empresa). ( )
+Tipo Sub Tipo Sub Clase de Eventos I. Fraude Interno 1.1 Actividades no autorizadas. 1.1.1 [Operaciones](../../lritf/markdown/articulo-4.md) no reveladas (intencionalmente). ( ) 1.1.2 Operaciones no autorizadas (con pérdidas ( ) pecuniarias). 1.1.3 Valoración errónea de posiciones ( ) (intencional). 1.2 Robo y Fraude Internos. 1.2.1 Fraude / depósitos sin valor. ( ) 1.2.2 Extorsión / malversación / robo. ( ) 1.2.3 Apropiación indebida de activos. ( ) 1.2.4 Destrucción dolosa de activos. ( ) 1.2.5 Falsificación Interna. ( ) 1.2.6 Contrabando. ( ) 1.2.7 Apropiación de cuentas, de identidad, entre otros. 1.2.8 Incumplimiento / evasión de impuestos (intencional). ( ) 1.2.9 Cohecho. ( ) 1.2.10 Abuso de información privilegiada (no a favor de la ( ) empresa). ( )
 
 1.3. Seguridad de los sistemas. 1.3.1 Vulneración de sistemas de seguridad. ( ) 1.3.2 Daños por ataques informáticos. ( ) ( ) 1.3.3 Robo de información (con pérdidas pecuniarias). ( ) 1.3.4 Utilización inadecuada de claves de acceso y/o niveles de ( ) autorización. II. Fraude Externo 2.1 Hurto y Fraude Externos. 2.1.1 Robo / estafa / extorsión /cohecho. ( ) 2.1.2 Falsificación Externa / Suplantación de personalidad. ( ) ( ) 2.1.3 Uso y/o divulgación de información privilegiada. ( ) 2.1.4 Espionaje industrial. ( ) 2.1.5 Contrabando. 2.2 Seguridad de los Sistemas. 2.2.1 Vulneración de sistemas de seguridad. ( ) 2.2.2 Daños por ataques informáticos. ( ) 2.2.3 Robo de información (con pérdidas pecuniarias). ( ) 2.2.4 Utilización inadecuada de claves de acceso y/o niveles de ( ) autorización. VI. Incidencias en el 6.1 Sistemas 6.1.1 Hardware. ( ) Negocio y Fallos en los 6.1.2 Software. ( ) Sistemas 6.1.3 Telecomunicaciones. ( ) 6.1.4 Interrupción / incidencias en el suministro. ( ) Nombre y firma del oficial en jefe de seguridad de la información

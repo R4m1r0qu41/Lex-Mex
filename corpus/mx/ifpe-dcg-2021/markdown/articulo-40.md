@@ -16,9 +16,9 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 40
 
-El Órgano de Administración de la institución de fondos de pago electrónico deberá designar a una persona responsable de la administración de Contingencias Operativas, que cuente con conocimientos en la materia y quien podrá ser la misma persona que sea designada como administrador integral de riesgos de conformidad con las disposiciones de carácter general que emita la CNBV. El responsable de la administración de Contingencias Operativas podrá auxiliarse de otras áreas de la propia institución de fondos de pago electrónico o de terceros contratados al efecto, que sean especialistas en la materia. Dicha persona deberá tener, como mínimo, las funciones siguientes:
+El [Órgano de Administración](articulo-1.md) de la institución de fondos de pago electrónico deberá designar a una persona responsable de la administración de [Contingencias Operativas](articulo-1.md), que cuente con conocimientos en la materia y quien podrá ser la misma persona que sea designada como administrador integral de riesgos de conformidad con las disposiciones de carácter general que emita la [CNBV](../../lritf/markdown/articulo-4.md). El responsable de la administración de Contingencias Operativas podrá auxiliarse de otras áreas de la propia institución de fondos de pago electrónico o de terceros contratados al efecto, que sean especialistas en la materia. Dicha persona deberá tener, como mínimo, las funciones siguientes:
 
-I. Elaborar, revisar y, en su caso, actualizar el Plan de Continuidad de Negocio.
+I. Elaborar, revisar y, en su caso, actualizar el [Plan de Continuidad de Negocio](articulo-1.md).
 
 II. Evaluar, por lo menos una vez al año, el alcance y efectividad, así como el cumplimiento de los requerimientos mínimos establecidos en el Anexo 2 de las presentes Disposiciones, así como del Plan de Continuidad de Negocio establecido, e informar los resultados de dicha evaluación al Órgano de Administración y a las áreas responsables de los procesos operativos críticos, identificando, en su caso, los ajustes necesarios para su actualización, fortalecimiento y cumplimiento. En caso de que la institución de fondos de pago electrónico cuente con un comité de auditoría, las funciones previstas en esta fracción serán realizadas por dicho comité.
 

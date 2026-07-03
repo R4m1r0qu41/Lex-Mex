@@ -19,7 +19,10 @@ of January 28, 2021 (`ifpe-dcg-2021`) has 59 articles, 4 transitories, all 8
 annexes acquired as the dedicated per-annex PDFs CNBV publishes alongside the
 main document, 4 temporal determinations, and 98 reference edges, including
 resolved cross-instrument citations of LRITF Articles 22, 29, 48, 54, 56, 58
-and its OCTAVA transitoria. Neither validation report has open structural
+and its OCTAVA transitoria. Both glossaries are extracted as canonical
+defined terms (LRITF Article 4 and DCG Article 1, the latter expressly
+additive to the former), and every exact term usage links to its
+definition's block anchor. Neither validation report has open structural
 issues or pending legal reviews.
 
 > [!IMPORTANT]

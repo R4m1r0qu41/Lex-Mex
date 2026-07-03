@@ -16,9 +16,9 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 111
 
-Los afectados con motivo de los actos de la Autoridad Financiera que pongan fin a los procedimientos de autorización, suspensión de operaciones o de la imposición de sanciones administrativas, podrán acudir en defensa de sus intereses interponiendo recurso de revisión, cuya interposición será optativa.
+Los afectados con motivo de los actos de la [Autoridad Financiera](articulo-4.md) que pongan fin a los procedimientos de autorización, suspensión de operaciones o de la imposición de sanciones administrativas, podrán acudir en defensa de sus intereses interponiendo recurso de revisión, cuya interposición será optativa.
 
-El recurso de revisión deberá interponerse por escrito dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación del acto respectivo y deberá presentarse ante la Junta de Gobierno de la Comisión Supervisora, cuando el acto haya sido emitido por dicha Junta o por el presidente de la Comisión Supervisora, o ante este último cuando se trate de actos realizados por otros servidores públicos.
+El recurso de revisión deberá interponerse por escrito dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación del acto respectivo y deberá presentarse ante la Junta de Gobierno de la [Comisión Supervisora](articulo-4.md), cuando el acto haya sido emitido por dicha Junta o por el presidente de la Comisión Supervisora, o ante este último cuando se trate de actos realizados por otros servidores públicos.
 
 El escrito mediante el cual se interponga el recurso de revisión deberá contener:
 

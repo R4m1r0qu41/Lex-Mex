@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 132
 
-Se sancionará con prisión de tres a nueve años y multa de 5,000 a 150,000 UMA, al que sin causa legítima o sin consentimiento de quien esté facultado para ello, acceda a los equipos o medios electrónicos, ópticos, informáticos o de cualquier otra tecnología de las ITF o sociedades autorizadas para operar con Modelos Novedosos.
+Se sancionará con prisión de tres a nueve años y multa de 5,000 a 150,000 [UMA](articulo-4.md), al que sin causa legítima o sin consentimiento de quien esté facultado para ello, acceda a los equipos o medios electrónicos, ópticos, informáticos o de cualquier otra tecnología de las [ITF](articulo-4.md) o sociedades autorizadas para operar con [Modelos Novedosos](articulo-4.md).

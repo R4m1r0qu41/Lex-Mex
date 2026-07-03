@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 98
 
-Las Comisiones Supervisoras o el Banco de México, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetarán a lo siguiente:
+Las [Comisiones Supervisoras](articulo-4.md) o el Banco de México, en la imposición de sanciones de carácter administrativo a que se refiere esta Ley, se sujetarán a lo siguiente:
 
 I. Se otorgará audiencia al presunto infractor, quien en un plazo de diez días hábiles contado a partir del día hábil siguiente a aquel en que surta efectos la notificación correspondiente, deberá manifestar por escrito lo que a su interés convenga y ofrecer pruebas. Las Comisiones Supervisoras o el Banco de México, a petición de parte, podrán ampliar por una sola ocasión el plazo a que se refiere esta fracción, hasta por el mismo lapso, para lo cual considerará las circunstancias particulares del caso. Las notificaciones surtirán efectos al día hábil siguiente a aquel en que se practiquen; Fracción reformada DOF 24-01-2024
 
@@ -48,7 +48,7 @@ e) Que la conducta infractora a que se refiere el proceso administrativo pueda s
 
 f) El plazo que dure el incumplimiento;
 
-g) Los riesgos por la celebración de las Operaciones que hayan dado lugar a la sanción correspondiente, y
+g) Los riesgos por la celebración de las [Operaciones](articulo-4.md) que hayan dado lugar a la sanción correspondiente, y
 
 h) Las demás circunstancias que las Comisiones Supervisoras o el Banco de México estime aplicables para tales efectos.
 

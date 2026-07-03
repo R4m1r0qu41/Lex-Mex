@@ -14,7 +14,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # ANEXO 5
 
-Reporte en materia de Contingencias Operativas
+Reporte en materia de [Contingencias Operativas](articulo-1.md)
 
 I. Información de la institución de fondos de pago electrónico
 
@@ -26,9 +26,9 @@ Descripción de la Contingencia Operativa a) Fecha y hora en que ocurrió b) Fec
 
 d) Ubicación(es) de la instalación(es) afectada(s) (centro de datos, oficinas)
 
-e) Fallas o mal funcionamiento en la Infraestructura Tecnológica que soporta los servicios Si ( ) No ( )
+e) Fallas o mal funcionamiento en la [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md) que soporta los servicios Si ( ) No ( )
 
-Afectación en los componentes críticos de la Infraestructura Tecnológica que haya tenido como g) Si ( ) No ( ) consecuencia la activación total o parcial del Plan de Continuidad de Negocio.
+Afectación en los componentes críticos de la Infraestructura Tecnológica que haya tenido como g) Si ( ) No ( ) consecuencia la activación total o parcial del [Plan de Continuidad de Negocio](articulo-1.md).
 
 h) Indicar si el evento se originó de un incidente de ciberseguridad. Si ( ) No ( ) Muy Alto ☐ Alto ☐ i) Señale el Impacto de los eventos (según la “Escala de Impacto”): Medio ☐ Bajo ☐
 
@@ -60,12 +60,12 @@ Desastres naturales o ambientales
 
 Terremotos Si ( ) No ( ) Inundaciones Si ( ) No ( ) Huracanes Si ( ) No ( ) Incendios Si ( ) No ( )
 
-Otros (especificar) Cuantificación provocada por la contingencia operativa ¿La contingencia operativa ocasionó una pérdida monetaria para los Clientes o para la propia Si ( ) No ( ) institución? Pérdida monetaria $ Número de Clientes afectados
+Otros (especificar) Cuantificación provocada por la contingencia operativa ¿La contingencia operativa ocasionó una pérdida monetaria para los [Clientes](../../lritf/markdown/articulo-4.md) o para la propia Si ( ) No ( ) institución? Pérdida monetaria $ Número de Clientes afectados
 
 IV. Informe de la descripción de la contingencia operativa reportada Descripción detallada de las causas y diagnóstico de la contingencia operativa (Señalar causa raíz a) y cómo fue determinada) Acciones implementadas para solventar los problemas presentados (acciones correctivas) b) (Señale cronología y descripción de lo realizado) c) Indicar los controles que fallaron ¿Qué acciones preventivas y correctivas se llevarán a cabo para mitigar el riesgo de ocurrencia d) de una situación similar? Plan de trabajo para la atención de acciones correctivas que al efecto se elaboró el cual deberá contener al menos el personal responsable de su diseño, implementación, ejecución y seguimiento, plazos para su ejecución, detalle de las actividades realizadas y por realizar, así e) como los recursos técnicos, materiales y humanos empleados
 
 Información Adicional (Indique todo aquello que considere útil para complementar este informe) f)
 
-Nombre y firma del representante del Órgano de Administración
+Nombre y firma del representante del [Órgano de Administración](articulo-1.md)
 
 En la fracción III del presente Anexo, se deberán describir las razones que lo motivaron a clasificar el incidente teniendo como base la siguiente “Escala de Impacto”: - "Crítico" (P.ej. interrupción de procesos esenciales del negocio que afectan otros recursos) - “Alto” (P.ej. interrupción de procesos primarios del negocio) - "Medio" (P.ej. es posible continuar trabajando, usando una solución alterna) - "Bajo" (P.ej. interrupción de procesos secundarias del negocio)

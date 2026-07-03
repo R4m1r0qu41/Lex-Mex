@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 17
 
-Las instituciones de financiamiento colectivo podrán actuar como mandatarias o comisionistas de sus Clientes para la realización de las actividades relacionadas con las Operaciones, entre otros, para temas operativos, en los términos que determine la CNBV en las disposiciones de carácter general que para tal efecto emita.
+Las instituciones de financiamiento colectivo podrán actuar como mandatarias o comisionistas de sus [Clientes](articulo-4.md) para la realización de las actividades relacionadas con las [Operaciones](articulo-4.md), entre otros, para temas operativos, en los términos que determine la [CNBV](articulo-4.md) en las disposiciones de carácter general que para tal efecto emita.

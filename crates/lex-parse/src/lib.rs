@@ -9,18 +9,20 @@ use std::{
 use anyhow::{Context, Result, bail};
 use chrono::NaiveDate;
 use lex_core::{
-    Basis, HeadingContext, LRITF_INSTRUMENT_ID, Provision, ProvisionType, ReferenceEdge,
-    ReferenceForm, ReferenceQualifier, ReferenceQualifierType, ReferenceResolutionStatus,
-    ReviewStatus, SCHEMA_VERSION, Severity, TemporalEvidence, TemporalStatus, ValidationIssue,
-    ValidationReport,
+    Basis, DefinedTerm, HeadingContext, LRITF_INSTRUMENT_ID, Provision, ProvisionType,
+    ReferenceEdge, ReferenceForm, ReferenceQualifier, ReferenceQualifierType,
+    ReferenceResolutionStatus, ReviewStatus, SCHEMA_VERSION, Severity, TemporalEvidence,
+    TemporalStatus, TermUsage, ValidationIssue, ValidationReport,
 };
 use regex::Regex;
 
 pub mod dcg;
 pub mod html;
+pub mod terms;
 
 pub use dcg::parse_dcg;
 pub use html::extract_html_text;
+pub use terms::{GlossaryStyle, extract_term_usages, extract_terms, find_glossary_provision};
 
 const SOURCE_HEADER: &str = "LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA";
 const TRANSITORY_ORDINALS: &[&str] = &[
@@ -792,10 +794,14 @@ pub fn validate_lritf(
     expected_transitories: usize,
 ) -> ValidationReport {
     validate_corpus(
-        LRITF_INSTRUMENT_ID,
-        None,
-        provisions,
-        references,
+        &CorpusView {
+            instrument_id: LRITF_INSTRUMENT_ID,
+            official_title: None,
+            provisions,
+            references,
+            terms: &[],
+            term_usages: &[],
+        },
         &CorpusExpectations {
             min_articles: expected_min_articles,
             articles: None,
@@ -803,6 +809,7 @@ pub fn validate_lritf(
             annexes: 0,
             require_chapter_context: false,
         },
+        &HashSet::new(),
         &HashSet::new(),
     )
 }
@@ -812,16 +819,34 @@ pub fn validate_lritf(
 /// `external_targets` holds canonical provision identifiers of every other
 /// loaded instrument, so cross-instrument edges can be checked for existing
 /// targets.
+/// Borrowed view of one instrument's canonical corpus for validation.
+pub struct CorpusView<'a> {
+    pub instrument_id: &'a str,
+    /// Anchors reference edges whose source is the instrument itself
+    /// (title citations).
+    pub official_title: Option<&'a str>,
+    pub provisions: &'a [Provision],
+    pub references: &'a [ReferenceEdge],
+    pub terms: &'a [DefinedTerm],
+    pub term_usages: &'a [TermUsage],
+}
+
 #[must_use]
 #[allow(clippy::implicit_hasher)]
 pub fn validate_corpus(
-    instrument_id: &str,
-    official_title: Option<&str>,
-    provisions: &[Provision],
-    references: &[ReferenceEdge],
+    view: &CorpusView<'_>,
     expectations: &CorpusExpectations,
     external_targets: &HashSet<String>,
+    external_terms: &HashSet<String>,
 ) -> ValidationReport {
+    let CorpusView {
+        instrument_id,
+        official_title,
+        provisions,
+        references,
+        terms,
+        term_usages,
+    } = *view;
     let article_count = provisions
         .iter()
         .filter(|item| item.provision_type == ProvisionType::Article)
@@ -844,6 +869,7 @@ pub fn validate_corpus(
         &mut issues,
     );
     validate_provisions(provisions, expectations, &mut issues);
+    validate_terms(provisions, terms, term_usages, external_terms, &mut issues);
     validate_references(
         instrument_id,
         official_title,
@@ -987,6 +1013,104 @@ fn validate_provisions(
             },
             ProvisionType::Transitory => {}
         }
+    }
+}
+
+/// Validate defined terms and their usages: unique identifiers, existing
+/// defining provisions, definition spans that contain the term, exact usage
+/// spans, resolvable usage targets (own terms or another loaded
+/// instrument's), and non-overlapping usages within a provision.
+fn validate_terms(
+    provisions: &[Provision],
+    terms: &[DefinedTerm],
+    term_usages: &[TermUsage],
+    external_terms: &HashSet<String>,
+    issues: &mut Vec<ValidationIssue>,
+) {
+    let provisions_by_id: HashMap<&str, &Provision> = provisions
+        .iter()
+        .map(|provision| (provision.id.as_str(), provision))
+        .collect();
+    let mut term_ids = HashSet::new();
+    for term in terms {
+        if !term_ids.insert(term.id.as_str()) {
+            issues.push(error(
+                "duplicate_term_id",
+                format!("duplicate defined-term identifier: {}", term.id),
+                Some(term.defining_provision_id.clone()),
+            ));
+        }
+        let Some(defining) = provisions_by_id.get(term.defining_provision_id.as_str()) else {
+            issues.push(error(
+                "term_provision_missing",
+                format!(
+                    "defining provision does not exist: {}",
+                    term.defining_provision_id
+                ),
+                Some(term.defining_provision_id.clone()),
+            ));
+            continue;
+        };
+        match char_slice(&defining.text, term.start_char, term.end_char) {
+            Some(slice) if slice.contains(&term.term) => {}
+            Some(_) => issues.push(error(
+                "term_span_mismatch",
+                format!("definition span does not contain the term {:?}", term.term),
+                Some(term.defining_provision_id.clone()),
+            )),
+            None => issues.push(error(
+                "term_offsets_invalid",
+                format!(
+                    "definition offsets {}..{} are outside the provision text",
+                    term.start_char, term.end_char
+                ),
+                Some(term.defining_provision_id.clone()),
+            )),
+        }
+    }
+
+    let mut last_end: HashMap<&str, usize> = HashMap::new();
+    for usage in term_usages {
+        let Some(provision) = provisions_by_id.get(usage.provision_id.as_str()) else {
+            issues.push(error(
+                "term_usage_provision_missing",
+                format!("usage provision does not exist: {}", usage.provision_id),
+                Some(usage.provision_id.clone()),
+            ));
+            continue;
+        };
+        match char_slice(&provision.text, usage.start_char, usage.end_char) {
+            Some(slice) if slice == usage.span => {}
+            _ => issues.push(error(
+                "term_usage_span_mismatch",
+                format!(
+                    "usage span {:?} does not match the provision text at {}..{}",
+                    usage.span, usage.start_char, usage.end_char
+                ),
+                Some(usage.provision_id.clone()),
+            )),
+        }
+        if !term_ids.contains(usage.term_id.as_str())
+            && !external_terms.contains(usage.term_id.as_str())
+        {
+            issues.push(error(
+                "term_usage_target_missing",
+                format!("usage resolves to an unknown term: {}", usage.term_id),
+                Some(usage.provision_id.clone()),
+            ));
+        }
+        let cursor = last_end.entry(usage.provision_id.as_str()).or_insert(0);
+        if usage.start_char < *cursor {
+            issues.push(error(
+                "term_usage_overlap",
+                format!(
+                    "usages overlap at {}..{} in {}",
+                    usage.start_char, usage.end_char, usage.provision_id
+                ),
+                Some(usage.provision_id.clone()),
+            ));
+        }
+        *cursor = usage.end_char.max(*cursor);
     }
 }
 

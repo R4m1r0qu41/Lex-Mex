@@ -18,7 +18,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 Las instituciones de fondos de pago electrónico, para la implementación y el desarrollo de sus sistemas informáticos, ya sea por parte de la propia institución o por medio de un tercero especializado en el desarrollo de programas de cómputo contratado por esta, deberán cumplir con lo siguiente:
 
-I. Documentar sus procesos, funcionalidades y configuraciones, incluyendo su metodología de desarrollo o adquisición, así como el registro de sus cambios, actualizaciones y el inventario detallado de cada componente de la Infraestructura Tecnológica.
+I. Documentar sus procesos, funcionalidades y configuraciones, incluyendo su metodología de desarrollo o adquisición, así como el registro de sus cambios, actualizaciones y el inventario detallado de cada componente de la [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md).
 
 El proceso de desarrollo deberá implementar aspectos de seguridad de la información, al menos, en las siguientes etapas:
 
@@ -42,7 +42,7 @@ i) En caso de que el software sea desarrollado por una empresa externa especiali
 
 II. Los sistemas informáticos deberán considerar las siguientes funcionalidades durante todo su proceso de operación:
 
-a) Mecanismos de Autenticación entre los diferentes componentes utilizados para la operación de la institución de fondos de pago electrónico.
+a) Mecanismos de [Autenticación](articulo-1.md) entre los diferentes componentes utilizados para la operación de la institución de fondos de pago electrónico.
 
 b) Uso de firmas electrónicas para garantizar la integridad y el no repudio de la información operativa de la institución de fondos de pago electrónico, con independencia de que sea información estática o en tránsito.
 

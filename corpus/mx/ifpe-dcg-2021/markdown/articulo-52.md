@@ -16,7 +16,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 52
 
-Las instituciones de fondos de pago electrónico deberán contar con un padrón de todos los prestadores de servicios, incluyendo aquellos proveedores subcontratados por estos, así como de los Administradores de Comisionistas y comisionistas contratados, que contenga al menos la siguiente información:
+Las instituciones de fondos de pago electrónico deberán contar con un padrón de todos los prestadores de servicios, incluyendo aquellos proveedores subcontratados por estos, así como de los [Administradores de Comisionistas](articulo-1.md) y comisionistas contratados, que contenga al menos la siguiente información:
 
 I. Prestadores de servicios:
 
@@ -36,7 +36,7 @@ g) En su caso, ubicación o jurisdicción del centro de datos principal en donde
 
 h) En su caso, ubicación o jurisdicción del centro de datos alterno en donde se encuentran los equipos de procesamiento, tratándose de la recuperación del servicio contratado.
 
-i) En su caso, número y fecha del oficio con el que el Banco de México y la CNBV otorgaron la autorización para fungir como prestador de servicios.
+i) En su caso, número y fecha del oficio con el que el Banco de México y la [CNBV](../../lritf/markdown/articulo-4.md) otorgaron la autorización para fungir como prestador de servicios.
 
 II. Administrador de Comisionistas o comisionistas:
 
@@ -48,11 +48,11 @@ c) Nombre comercial del comisionista o del Administrador de Comisionistas, así 
 
 d) Número de establecimientos del comisionista en los que se realizan las comisiones mercantiles, y de cada uno de ellos su domicilio completo, incluyendo la clave de la localidad geoestadística conforme al Catálogo Único de Claves de Áreas Geoestadísticas Estatales, Municipales, y Localidades del Instituto Nacional de Estadística y Geografía, o el que lo sustituya.
 
-e) Tipo de Operación que realiza el comisionista a nombre y por cuenta de la institución de fondos de pago electrónico.
+e) Tipo de [Operación](../../lritf/markdown/articulo-4.md) que realiza el comisionista a nombre y por cuenta de la institución de fondos de pago electrónico.
 
 f) Límites de las Operaciones pactadas con el comisionista o con el Administrador de Comisionistas.
 
-g) Dispositivos de acceso utilizados para ofrecer los servicios a los Clientes, tales como teléfono móvil, tabletas electrónicas y terminales punto de venta, entre otros.
+g) Dispositivos de acceso utilizados para ofrecer los servicios a los [Clientes](../../lritf/markdown/articulo-4.md), tales como teléfono móvil, tabletas electrónicas y terminales punto de venta, entre otros.
 
 h) En su caso, número de oficio y fecha en la que se otorgó la autorización para la contratación del comisionista o Administrador de Comisionistas.
 

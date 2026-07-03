@@ -16,12 +16,12 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 12
 
-Las instituciones de fondos de pago electrónico, en el uso del Identificador de Cliente y los Factores de Autenticación, deberán cumplir con los requisitos siguientes:
+Las instituciones de fondos de pago electrónico, en el uso del [Identificador de Cliente](articulo-1.md) y los Factores de [Autenticación](articulo-1.md), deberán cumplir con los requisitos siguientes:
 
-I. Contar con los mecanismos necesarios para impedir la lectura o presentación en el Canal de Instrucción, de la información proporcionada por el Cliente y utilizada en los Mecanismos de Identificación y Autenticación.
+I. Contar con los mecanismos necesarios para impedir la lectura o presentación en el [Canal de Instrucción](articulo-1.md), de la información proporcionada por el [Cliente](../../lritf/markdown/articulo-4.md) y utilizada en los Mecanismos de Identificación y Autenticación.
 
 II. Asegurar que, cuando se utilicen al menos dos Factores de Autenticación, estos sean independientes.
 
-III. Contar con procedimientos para restablecer los Factores de Autenticación, de tal manera que no se comprometa la Información Personal o Información Sensible del Cliente.
+III. Contar con procedimientos para restablecer los Factores de Autenticación, de tal manera que no se comprometa la [Información Personal](articulo-1.md) o [Información Sensible](articulo-1.md) del Cliente.
 
 IV. Contar con procedimientos para invalidar los Factores de Autenticación, a fin de impedir su uso en un servicio provisto por la institución de fondos de pago electrónico, cuando un Cliente o la misma institución de fondos de pago electrónico cancele el uso de dicho servicio o cuando el Cliente respectivo deje de ser Cliente de dicha institución.

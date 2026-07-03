@@ -16,9 +16,9 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 46
 
-Las instituciones de fondos de pago electrónico podrán celebrar contratos de comisión mercantil con terceros que actúen frente al público en general a nombre y por cuenta de las respectivas instituciones de fondos de pago electrónico, únicamente para la realización de las siguientes Operaciones:
+Las instituciones de fondos de pago electrónico podrán celebrar contratos de comisión mercantil con terceros que actúen frente al público en general a nombre y por cuenta de las respectivas instituciones de fondos de pago electrónico, únicamente para la realización de las siguientes [Operaciones](../../lritf/markdown/articulo-4.md):
 
-I. Retiros de efectivo efectuados por el propio Cliente titular de la cuenta respectiva.
+I. Retiros de efectivo efectuados por el propio [Cliente](../../lritf/markdown/articulo-4.md) titular de la cuenta respectiva.
 
 II. Recepción de efectivo para abono en cuentas propias o de terceros.
 
@@ -26,11 +26,11 @@ III. Consultas de saldos y movimientos de cuentas.
 
 IV. Puesta en circulación instrumentos para la disposición de fondos de pago electrónico.
 
-V. Apertura de cuentas de fondos de pago electrónico, observando en todo momento lo establecido en las disposiciones de carácter general a que se refiere el artículo [58](../../lritf/markdown/articulo-58.md) de la Ley para Regular las Instituciones de Tecnología Financiera, emitidas por la Secretaría, o aquellas que las sustituyan.
+V. Apertura de cuentas de fondos de pago electrónico, observando en todo momento lo establecido en las disposiciones de carácter general a que se refiere el artículo [58](../../lritf/markdown/articulo-58.md) de la Ley para Regular las Instituciones de Tecnología Financiera, emitidas por la [Secretaría](../../lritf/markdown/articulo-4.md), o aquellas que las sustituyan.
 
 VI. Transferencias con cargo a cuentas de fondos de pago electrónico, incluidos los pagos de servicios.
 
-Para efectos del presente artículo, las instituciones de fondos de pago electrónico deberán solicitar autorización a la CNBV, de conformidad con lo establecido en el artículo [59](articulo-59.md) de las presentes Disposiciones.
+Para efectos del presente artículo, las instituciones de fondos de pago electrónico deberán solicitar autorización a la [CNBV](../../lritf/markdown/articulo-4.md), de conformidad con lo establecido en el artículo [59](articulo-59.md) de las presentes Disposiciones.
 
 Las operaciones previstas en las fracciones anteriores deberán efectuarse en moneda nacional y a nombre y por cuenta de la institución de fondos de pago electrónico. En caso de que la institución de fondos de pago electrónico pretenda realizar operaciones distintas a las señaladas a través de comisionistas, deberá solicitar autorización a la CNBV, previo a su realización, de conformidad con lo establecido en el artículo [59](articulo-59.md) de las presentes Disposiciones.
 

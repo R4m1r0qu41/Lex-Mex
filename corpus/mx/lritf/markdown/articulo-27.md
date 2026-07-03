@@ -18,7 +18,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 Las instituciones de fondos de pago electrónico únicamente podrán otorgar los créditos y préstamos por sobregiros bajo las condiciones siguientes:
 
-I. No podrán concederse con cargo a los fondos o activos virtuales recibidos o mantenidos por cuenta de sus Clientes;
+I. No podrán concederse con cargo a los fondos o activos virtuales recibidos o mantenidos por cuenta de sus [Clientes](articulo-4.md);
 
 II. No podrán cobrar intereses, demás accesorios o comisiones por dichos créditos o préstamos;
 

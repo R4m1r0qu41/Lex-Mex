@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 14
 
-Los estados de cuenta respecto de las Operaciones relativas a créditos, préstamos o mutuos que celebren las ITF con sus Clientes o que a través de aquellas se celebren entre sus Clientes, certificados por el contador público facultado por la ITF que corresponda serán títulos ejecutivos, sin necesidad de reconocimiento de firma ni de otro requisito.
+Los estados de cuenta respecto de las [Operaciones](articulo-4.md) relativas a créditos, préstamos o mutuos que celebren las [ITF](articulo-4.md) con sus [Clientes](articulo-4.md) o que a través de aquellas se celebren entre sus Clientes, certificados por el contador público facultado por la ITF que corresponda serán títulos ejecutivos, sin necesidad de reconocimiento de firma ni de otro requisito.
 
 El estado de cuenta certificado por el contador a que se refiere este artículo hará fe, salvo prueba en contrario, en los juicios respectivos para la fijación de los saldos resultantes a cargo de los Clientes de las ITF.
 

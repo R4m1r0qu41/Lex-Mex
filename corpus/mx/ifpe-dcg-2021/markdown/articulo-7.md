@@ -16,12 +16,12 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 7
 
-Las instituciones de fondos de pago electrónico, a efecto de permitir el acceso a los Canales de Instrucción, deberán llevar a cabo la Autenticación del Cliente. Para realizar dicha Autenticación, las instituciones de fondos de pago electrónico deberán recabar y validar, al menos, lo siguiente:
+Las instituciones de fondos de pago electrónico, a efecto de permitir el acceso a los [Canales de Instrucción](articulo-1.md), deberán llevar a cabo la [Autenticación](articulo-1.md) del [Cliente](../../lritf/markdown/articulo-4.md). Para realizar dicha Autenticación, las instituciones de fondos de pago electrónico deberán recabar y validar, al menos, lo siguiente:
 
-I. El Identificador de Cliente El Identificador de Cliente y
+I. El [Identificador de Cliente](articulo-1.md) El Identificador de Cliente y
 
-II. Un Factor de Autenticación.
+II. Un [Factor de Autenticación](articulo-1.md).
 
-El Identificador de Cliente deberá ser único para cada Cliente y deberá asociarse a todas las Operaciones realizadas por este último.
+El Identificador de Cliente deberá ser único para cada Cliente y deberá asociarse a todas las [Operaciones](../../lritf/markdown/articulo-4.md) realizadas por este último.
 
 Asimismo, las instituciones de fondos de pago electrónico deberán guardar evidencia de la Autenticación, conforme a lo establecido en el artículo [29](articulo-29.md), fracción IV de las presentes Disposiciones.

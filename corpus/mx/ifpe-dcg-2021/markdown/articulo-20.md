@@ -16,4 +16,4 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 20
 
-Las instituciones de fondos de pago electrónico estarán obligadas a utilizar herramientas que permitan detectar virus informáticos y códigos maliciosos en la Infraestructura Tecnológica, así como procedimientos que permitan su actualización periódica.
+Las instituciones de fondos de pago electrónico estarán obligadas a utilizar herramientas que permitan detectar virus informáticos y códigos maliciosos en la [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md), así como procedimientos que permitan su actualización periódica.

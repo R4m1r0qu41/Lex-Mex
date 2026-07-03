@@ -16,13 +16,13 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 103
 
-Las multas previstas en esta Ley que le corresponde imponer a la CNBV serán las siguientes:
+Las multas previstas en esta Ley que le corresponde imponer a la [CNBV](articulo-4.md) serán las siguientes:
 
-I. Multa de 1,000 a 5,000 UMA a las personas distintas a las autorizadas que en su nombre, denominación, razón social, publicidad, establecimientos, interfaces, páginas de internet o cualquier otro medio de comunicación electrónica o digital, usen las palabras ITF, institución de tecnología financiera, institución de financiamiento colectivo, institución de fondos de pago electrónico, u otras que expresen ideas semejantes en cualquier idioma, por las que puede inferirse la realización de las actividades reservadas para las ITF, salvo aquellas exceptuadas conforme a esta Ley;
+I. Multa de 1,000 a 5,000 [UMA](articulo-4.md) a las personas distintas a las autorizadas que en su nombre, denominación, razón social, publicidad, establecimientos, interfaces, páginas de internet o cualquier otro medio de comunicación electrónica o digital, usen las palabras [ITF](articulo-4.md), institución de tecnología financiera, institución de financiamiento colectivo, institución de fondos de pago electrónico, u otras que expresen ideas semejantes en cualquier idioma, por las que puede inferirse la realización de las actividades reservadas para las ITF, salvo aquellas exceptuadas conforme a esta Ley;
 
-II. Multa de 3,000 a 15,000 UMA a las ITF o sociedades autorizadas para operar con Modelos Novedosos que no cumplan con las obligaciones previstas en los artículos [13](articulo-13.md) y [48](articulo-48.md), tercer párrafo de esta Ley;
+II. Multa de 3,000 a 15,000 UMA a las ITF o sociedades autorizadas para operar con [Modelos Novedosos](articulo-4.md) que no cumplan con las obligaciones previstas en los artículos [13](articulo-13.md) y [48](articulo-48.md), tercer párrafo de esta Ley;
 
-III. Multa de 1,000 a 150,000 UMA por no cumplir en tiempo los requerimientos que formulen las Autoridades Financieras o cualquier otra autoridad competente, de conformidad con la presente Ley;
+III. Multa de 1,000 a 150,000 UMA por no cumplir en tiempo los requerimientos que formulen las [Autoridades Financieras](articulo-4.md) o cualquier otra autoridad competente, de conformidad con la presente Ley;
 
 IV. Multa de 30,000 a 150,000 UMA por lo siguiente:
 
@@ -32,11 +32,11 @@ b) Por no cumplir con los requisitos de seguridad y continuidad de la operación
 
 V. Multa de 30,000 a 150,000 UMA por lo siguiente:
 
-a) A las ITF, Entidades Financieras o sociedades autorizadas para operar con Modelos Novedosos por realizar actividades no autorizadas en términos de esta Ley; b) Difundir información falsa o engañosa o que induzca al error, a través de las ITF, sociedades autorizadas para operar con Modelos Novedosos o de cualquier otra forma para la realización de las Operaciones a que se refiere esta Ley;
+a) A las ITF, [Entidades Financieras](articulo-4.md) o sociedades autorizadas para operar con Modelos Novedosos por realizar actividades no autorizadas en términos de esta Ley; b) Difundir información falsa o engañosa o que induzca al error, a través de las ITF, sociedades autorizadas para operar con Modelos Novedosos o de cualquier otra forma para la realización de las [Operaciones](articulo-4.md) a que se refiere esta Ley;
 
 c) Omitir la divulgación de información que establece esta Ley;
 
-d) Tratándose de instituciones de financiamiento colectivo, por omitir obtener la constancia de conocimiento de riesgos de los inversionistas señalado en el artículo [18](articulo-18.md), fracción III de esta Ley o no proporcionar los medios necesarios para lograr la formalización de las Operaciones a sus Clientes señalados en el artículo [18](articulo-18.md), fracción V de esta Ley;
+d) Tratándose de instituciones de financiamiento colectivo, por omitir obtener la constancia de conocimiento de riesgos de los inversionistas señalado en el artículo [18](articulo-18.md), fracción III de esta Ley o no proporcionar los medios necesarios para lograr la formalización de las Operaciones a sus [Clientes](articulo-4.md) señalados en el artículo [18](articulo-18.md), fracción V de esta Ley;
 
 e) Tratándose de instituciones de financiamiento colectivo, divulgar cualquier tipo de publicidad o información sobre los proyectos o servicios en términos distintos de los señalados en las disposiciones de carácter general a que se refiere el artículo [18](articulo-18.md), fracción II de esta Ley, y
 
@@ -64,7 +64,7 @@ X. Multa de 15,000 a 75,000 UMA a las Entidades Financieras y las ITF que no est
 
 XII. Multa de 2,000 a 15,000 UMA a las sociedades autorizadas para operar con Modelos Novedosos y las Entidades Financieras que en términos del artículo [89](articulo-89.md) de esta Ley, omitan o entreguen fuera de plazo el reporte;
 
-XIII. Multa de 1,000 a 150,000 UMA a las ITF, transmisores de dinero y las Entidades Financieras cuando interrumpan el acceso a la información en términos distintos a los que se refiere el artículo [76](articulo-76.md) de esta Ley o no notifiquen de la interrupción a las Comisiones Supervisoras. Esta misma sanción podrá ser impuesta por la CNSF y la CONSAR en el ámbito de sus respectivas competencias, y
+XIII. Multa de 1,000 a 150,000 UMA a las ITF, transmisores de dinero y las Entidades Financieras cuando interrumpan el acceso a la información en términos distintos a los que se refiere el artículo [76](articulo-76.md) de esta Ley o no notifiquen de la interrupción a las [Comisiones Supervisoras](articulo-4.md). Esta misma sanción podrá ser impuesta por la [CNSF](articulo-4.md) y la [CONSAR](articulo-4.md) en el ámbito de sus respectivas competencias, y
 
 XIV. Multa de 2,000 a 10,000 UMA por las infracciones a cualquiera de las normas de esta Ley, así como a las disposiciones de carácter general que emita la CNBV o en conjunto con el Banco de México, conforme a la presente Ley, y que no tengan sanción expresamente señalada en este ordenamiento.
 

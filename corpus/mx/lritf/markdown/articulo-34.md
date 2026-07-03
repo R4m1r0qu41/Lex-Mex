@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 34
 
-Las ITF que operen con activos virtuales deberán divulgar a sus Clientes, además de lo previsto en esta Ley, los riesgos que existen por celebrar operaciones con dichos activos, lo que deberá incluir, como mínimo, informarles de manera sencilla y clara en su página de internet o medio que utilice para prestar su servicio, lo siguiente:
+Las [ITF](articulo-4.md) que operen con activos virtuales deberán divulgar a sus [Clientes](articulo-4.md), además de lo previsto en esta Ley, los riesgos que existen por celebrar operaciones con dichos activos, lo que deberá incluir, como mínimo, informarles de manera sencilla y clara en su página de internet o medio que utilice para prestar su servicio, lo siguiente:
 
 I. El activo virtual no es moneda de curso legal y no está respaldado por el Gobierno Federal, ni por el Banco de México;
 

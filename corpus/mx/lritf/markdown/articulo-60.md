@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 60
 
-En ningún caso podrán ser consejeros de las ITF:
+En ningún caso podrán ser consejeros de las [ITF](articulo-4.md):
 
 I. Los funcionarios y empleados de la ITF, con excepción del director general y de los funcionarios de la sociedad que ocupen cargos con dos niveles jerárquicos administrativos inmediatos inferiores a la de aquel;
 

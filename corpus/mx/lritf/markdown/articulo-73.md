@@ -16,9 +16,9 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 73
 
-La información y documentación relativa a las actividades y servicios que presten las ITF de conformidad con la presente Ley y las Operaciones que se realicen a través de ellas, tendrá el carácter confidencial, por lo que las ITF, en protección del derecho a la privacidad de sus Clientes que en este artículo se establece, en ningún caso podrán dar noticias o información de las actividades, Operaciones o servicios, sino al mismo Cliente, a sus representantes legales o a quienes tengan otorgado poder para disponer o intervenir en la Operación o servicio.
+La información y documentación relativa a las actividades y servicios que presten las [ITF](articulo-4.md) de conformidad con la presente Ley y las [Operaciones](articulo-4.md) que se realicen a través de ellas, tendrá el carácter confidencial, por lo que las ITF, en protección del derecho a la privacidad de sus [Clientes](articulo-4.md) que en este artículo se establece, en ningún caso podrán dar noticias o información de las actividades, Operaciones o servicios, sino al mismo Cliente, a sus representantes legales o a quienes tengan otorgado poder para disponer o intervenir en la Operación o servicio.
 
-Como excepción a lo dispuesto en el párrafo anterior, las ITF estarán obligadas a dar las noticias o información a que se refiere dicho párrafo, cuando lo solicite la autoridad judicial en virtud de providencia dictada en juicio en el que el Cliente sea parte o acusado. Para efectos del presente párrafo, la autoridad judicial podrá formular su solicitud directamente a la ITF, o a través de la CNBV.
+Como excepción a lo dispuesto en el párrafo anterior, las ITF estarán obligadas a dar las noticias o información a que se refiere dicho párrafo, cuando lo solicite la autoridad judicial en virtud de providencia dictada en juicio en el que el Cliente sea parte o acusado. Para efectos del presente párrafo, la autoridad judicial podrá formular su solicitud directamente a la ITF, o a través de la [CNBV](articulo-4.md).
 
 Asimismo, las ITF estarán exceptuadas de la prohibición prevista en el primer párrafo de este artículo y, por tanto, obligadas a dar las noticias o información mencionadas, en los casos en que sean solicitadas por las autoridades siguientes:
 
@@ -30,7 +30,7 @@ III. El Procurador General de Justicia Militar, a fin de reunir indicios para el
 
 IV. Las autoridades hacendarias federales y estatales, para fines fiscales;
 
-V. La Secretaría, para efectos de lo dispuesto en el artículo [58](articulo-58.md) de la presente Ley;
+V. La [Secretaría](articulo-4.md), para efectos de lo dispuesto en el artículo [58](articulo-58.md) de la presente Ley;
 
 VI. El Tesorero de la Federación o el servidor público en quien delegue facultades para requerir información, en los términos de las disposiciones a que se refiere el último párrafo del presente artículo, cuando el acto de vigilancia lo amerite, para solicitar los estados de cuenta y cualquier otra información relativa a las cuentas personales de los servidores públicos, auxiliares y, en su caso, particulares relacionados con la investigación de que se trate;
 
@@ -50,10 +50,10 @@ Los empleados y funcionarios de las ITF serán responsables, en los términos de
 
 Los documentos y datos que proporcionen las ITF como consecuencia de las excepciones al primer párrafo del presente artículo, solo podrán ser utilizados en las actuaciones que correspondan en términos de ley y, respecto de aquellos, se deberá observar la más estricta confidencialidad, aun cuando el servidor público de que se trate se separe del servicio. Al servidor público que indebidamente quebrante la reserva de las actuaciones, proporcione copia de las mismas o de los documentos con ellas relacionados, o que de cualquier otra forma revele información en ellos contenida, quedará sujeto a las responsabilidades administrativas, civiles y penales correspondientes.
 
-Lo anterior, no afecta la obligación que tienen las ITF de proporcionar a la CNBV, toda clase de información y documentos que, en ejercicio de sus funciones de inspección y vigilancia, les solicite en relación con las Operaciones y demás actos que celebren y los servicios que presten, así como tampoco la obligación de proporcionar la información que les sea solicitada por otras Autoridades Financieras, en los términos de las disposiciones legales aplicables.
+Lo anterior, no afecta la obligación que tienen las ITF de proporcionar a la CNBV, toda clase de información y documentos que, en ejercicio de sus funciones de inspección y vigilancia, les solicite en relación con las Operaciones y demás actos que celebren y los servicios que presten, así como tampoco la obligación de proporcionar la información que les sea solicitada por otras [Autoridades Financieras](articulo-4.md), en los términos de las disposiciones legales aplicables.
 
 Las ITF deberán dar contestación a los requerimientos que la CNBV les formule en virtud de las peticiones de las autoridades señaladas en este artículo, dentro de los plazos y condiciones que esta determine. La CNBV podrá sancionar a las ITF que no cumplan con los plazos y condiciones que se establezcan en dichos requerimientos, de conformidad con lo dispuesto en las disposiciones del Título VI de la presente Ley.
 
-La CNBV sancionará con multa administrativa de 1 a 15,000 UMA a las ITF por no dar respuesta en los plazos otorgados en el presente artículo para la atención de los requerimientos de información, documentación, aseguramiento, desbloqueo de cuentas, transferencia o situación de fondos formulados por las autoridades competentes señaladas.
+La CNBV sancionará con multa administrativa de 1 a 15,000 [UMA](articulo-4.md) a las ITF por no dar respuesta en los plazos otorgados en el presente artículo para la atención de los requerimientos de información, documentación, aseguramiento, desbloqueo de cuentas, transferencia o situación de fondos formulados por las autoridades competentes señaladas.
 
 La CNBV emitirá las disposiciones de carácter general en las que establezca las formalidades y los requisitos que deberán reunir las solicitudes o requerimientos de información que formulen las autoridades a que se refiere este artículo, a efecto de que las ITF requeridas estén en aptitud de identificar, localizar y aportar las noticias o información solicitadas por dichas autoridades.

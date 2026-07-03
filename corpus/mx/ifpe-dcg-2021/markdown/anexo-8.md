@@ -14,7 +14,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Anexo 8
 
-Especificaciones del sistema de información desarrollado por un tercero para el cifrado de información compartida con la Comisión Nacional Bancaria y de Valores y el Banco de México
+Especificaciones del sistema de información desarrollado por un tercero para el cifrado de información compartida con la Comisión Nacional Bancaria y de [Valores](../../lritf/markdown/articulo-4.md) y el Banco de México
 
 Para efectos de este anexo, los términos con inicial mayúscula utilizados en este, en singular o plural, tendrán los mismos significados que los establecidos para dichos términos el Código de Comercio y las Reglas de la Infraestructura Extendida de Seguridad (IES), así como los siguientes:
 
@@ -28,7 +28,7 @@ Datos de Creación de Firma Electrónica a aquellos Datos de Creación de Firma 
 
 Datos de Verificación de Firma a aquellos Datos de Verificación de Firma Electrónica a que se refieren las Reglas de la Electrónica Calificados: IES que son parte de la información incluida en el Certificado Digital.
 
-Descifrado: al proceso de aplicar los Datos de Creación de Firma Electrónica Calificados a un Mensaje de Datos que haya sido Cifrado, para que el Titular del respectivo Certificado Digital pueda ver el contenido del Mensaje de Datos original.
+Descifrado: al proceso de aplicar los Datos de Creación de Firma Electrónica Calificados a un Mensaje de Datos que haya sido [Cifrado](articulo-1.md), para que el Titular del respectivo Certificado Digital pueda ver el contenido del Mensaje de Datos original.
 
 Firma Electrónica: al conjunto de datos que se agrega a un Mensaje de Datos, el cual está asociado en forma lógica a éste y es atribuible al Titular una vez utilizado el Sistema de Información Calificado y que cumple con los requisitos de Firma Electrónica Avanzada o Fiable a que se refiere el artículo 89 del Código de Comercio, según sea modificado o sustituido con posterioridad.
 
@@ -42,7 +42,7 @@ Titular: a aquel a que se refiere las Reglas de la IES, que interviene en su car
 
 Verificación de una Firma Electrónica: al proceso de aplicar los Datos de Verificación de Firma Electrónica a la Firma Electrónica de un Mensaje de Datos y comprobar, tanto la fiabilidad de dicha Firma Electrónica mediante la verificación de que esta fue creada para ese mismo Mensaje de Datos utilizando los Datos de Creación de la Firma Electrónica que corresponden a los Datos de Verificación de Firma Electrónica, como la integridad del Mensaje de Datos al no sufrir alteración después de generada su Firma Electrónica.
 
-El programa de cómputo desarrollado por un tercero para realizar el Cifrado de información compartida con la CNBV y el Banco de México deberá cumplir con las siguientes especificaciones:
+El programa de cómputo desarrollado por un tercero para realizar el Cifrado de información compartida con la [CNBV](../../lritf/markdown/articulo-4.md) y el Banco de México deberá cumplir con las siguientes especificaciones:
 
 I. Tener como función principal la aplicación de algoritmos criptográficos que cumplan con las especificaciones de Firma Electrónica previstas en las Reglas de la IES.
 

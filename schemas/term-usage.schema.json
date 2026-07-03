@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/R4m1r0qu41/Lex-Mex/schemas/term-usage.schema.json",
+  "title": "Lex-Mex canonical defined-term usage",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "provision_id",
+    "term_id",
+    "span",
+    "start_char",
+    "end_char"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "0.1.0"
+    },
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "provision_id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:"
+    },
+    "term_id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:.+:term:[a-z0-9-]+$"
+    },
+    "span": {
+      "type": "string",
+      "minLength": 1
+    },
+    "start_char": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "end_char": {
+      "type": "integer",
+      "minimum": 1
+    }
+  }
+}

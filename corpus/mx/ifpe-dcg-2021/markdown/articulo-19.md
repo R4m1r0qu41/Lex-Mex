@@ -16,4 +16,4 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 19
 
-Las instituciones de fondos de pago electrónico deberán establecer procedimientos y mecanismos que aseguren que, al desechar o dar de baja componentes de almacenamiento o dispositivos físicos, conocidos como hardware, de la Infraestructura Tecnológica, la información de los Clientes contenida en dichos componentes o dispositivos sea irrecuperable.
+Las instituciones de fondos de pago electrónico deberán establecer procedimientos y mecanismos que aseguren que, al desechar o dar de baja componentes de almacenamiento o dispositivos físicos, conocidos como hardware, de la [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md), la información de los [Clientes](../../lritf/markdown/articulo-4.md) contenida en dichos componentes o dispositivos sea irrecuperable.

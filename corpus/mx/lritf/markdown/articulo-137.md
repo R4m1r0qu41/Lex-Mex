@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 137
 
-Las notificaciones personales podrán practicarse con el interesado o con su representante, en el último domicilio que hubiere proporcionado a la Autoridad Financiera correspondiente o en el último domicilio que haya señalado ante la propia Autoridad en el procedimiento administrativo de que se trate, para lo cual se levantará acta en los términos a que se refiere el penúltimo párrafo de este artículo.
+Las notificaciones personales podrán practicarse con el interesado o con su representante, en el último domicilio que hubiere proporcionado a la [Autoridad Financiera](articulo-4.md) correspondiente o en el último domicilio que haya señalado ante la propia Autoridad en el procedimiento administrativo de que se trate, para lo cual se levantará acta en los términos a que se refiere el penúltimo párrafo de este artículo.
 
 En el supuesto de que el interesado o su representante no se encuentre en el domicilio mencionado, quien lleve a cabo la notificación entregará citatorio a la persona que atienda la diligencia, a fin de que el interesado o su representante lo espere a una hora fija del día hábil siguiente y en tal citatorio apercibirá al citado que de no comparecer a la hora y el día que se fije, la notificación la practicará con quien lo atienda o que en caso de encontrar cerrado dicho domicilio o que se nieguen a recibir la notificación respectiva, la hará mediante instructivo conforme a lo previsto en el artículo [140](articulo-140.md) de esta Ley. Quien realice la notificación levantará acta en los términos previstos en el penúltimo párrafo de este artículo.
 

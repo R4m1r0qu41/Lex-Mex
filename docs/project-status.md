@@ -139,6 +139,39 @@ Current recorded source hashes:
   internal, 13 provision-level LRITF citations, and 3 title-anchored LRITF
   citations — all resolved, none guessed.
 
+### Defined-term glossary layer
+
+- Canonical `DefinedTerm` records (`terms.json`) extracted from each
+  instrument's configured glossary provision: LRITF Article 4
+  (fraction-style, 23 terms) and DCG Article 1 (colon-style, 26 terms),
+  each anchored to the exact span of its definition entry including
+  continuation paragraphs.
+- Canonical `TermUsage` records (`term-usages.json`): every exact
+  occurrence at word boundaries, longest match first, case-sensitive, with
+  one deterministic singular/plural variant per term (`Operación` matches
+  the defined `Operaciones`; `Comisión Supervisora` matches `Comisiones
+  Supervisoras`). Currently 1,091 LRITF usages and 816 DCG usages.
+- The DCG glossary is expressly additive to the LRITF's (configured
+  `additive_to`), so DCG usages resolve against DCG Article 1 first and
+  fall back to LRITF Article 4: `Cliente` (174 uses), `Operaciones`,
+  `Infraestructura Tecnológica`, and `CNBV` in the DCG resolve to the
+  statute's definitions.
+- Positional capitals carry no signal: a term whose only capital is its
+  initial letter does not match at sentence, list-item, or table-cell
+  starts (`I. Controles de acceso…` is not the defined `Control`), while
+  acronyms and multi-word terms match anywhere. A term never matches
+  inside its own definition entry.
+- Both artifacts are schema-bound (`defined-term.schema.json`,
+  `term-usage.schema.json`) and validated: unique term IDs, existing
+  defining provisions, definition spans containing the term, exact usage
+  spans, cross-instrument resolvability, non-overlapping usages.
+- Obsidian notes carry block anchors on every fraction paragraph (`^f-xi`)
+  and definition entry (`^t-<slug>`); a term links to its definition's
+  block so hovering shows only the definition. First usage per provision
+  is linked (all usages remain canonical); term links never overlap
+  reference links. 732 block-anchored links published, all targets
+  verified.
+
 ### Temporal analysis v2
 
 - Versioned `temporal-v2` prompt and strict JSON output schema.
@@ -302,11 +335,19 @@ Checks rerun successfully on 2026-07-03:
 | Pending legal reviews | 0 |
 | Markdown files in the Obsidian vault | 235 |
 | Obsidian unresolved links | 0 |
+| Defined terms (LRITF / DCG) | 23 / 26 |
+| Term usages (LRITF / DCG) | 1,091 / 816 |
+| Block-anchored term links, targets verified | 732 |
 
 ## 5. What is pending
 
 ### Immediate product gaps
 
+- Fraction-qualified references do not yet hover-preview the specific
+  fraction: fraction block anchors exist on every generated note, but
+  reference edges do not yet link their `fracción N` qualifier text to the
+  target's anchor, and same-article fraction citations (`fracciones I a IV
+  del presente artículo`) are not extracted.
 - Relative references such as `artículo anterior` and `este artículo` are not
   canonical graph edges; the DCG contains several (for example, Articles 47
   and 57 citing `el artículo anterior`).
@@ -314,9 +355,15 @@ Checks rerun successfully on 2026-07-03:
   V del artículo 22`, `el séptimo párrafo del artículo 29`) resolve to the
   correct article but are not captured as qualifier metadata; only
   post-number qualifiers are.
-- Defined terms and defined-term usage are not extracted or linked; DCG
-  citations through the defined term `la Ley` therefore remain deliberately
-  unlinked.
+- Citation-style uses of `la Ley` as a bare shorthand remain unlinked: the
+  DCG does not expressly define `Ley` in its glossary, so linking it would
+  be inference rather than express definition.
+- Term-usage matching is case-sensitive with one deterministic
+  singular/plural variant per term; unusual inflections or mid-sentence
+  lowercase uses of defined terms are not matched, and a term whose only
+  capital is its initial letter never matches at sentence/item starts (a
+  conservative rule that can also skip rare genuine sentence-initial
+  usages).
 - Chapter/section/apartado subject lines are not stored in heading context
   (only the labels, matching the LRITF chapter model).
 - Factual verification of the LRITF Article 71 coordination agreement remains
@@ -343,15 +390,19 @@ Checks rerun successfully on 2026-07-03:
 
 ## 6. Suggested next steps
 
-1. **Relative article references** — resolve `artículo anterior`,
+1. **Fraction-level reference previews** — link `fracción N` qualifier text
+   on existing reference edges to the target's `^f-n` block anchor
+   (capturing pre-number qualifiers on the way), and extract same-article
+   fraction citations (`fracciones I a IV del presente artículo`) as edges
+   to the containing article's fraction anchors.
+2. **Relative article references** — resolve `artículo anterior`,
    `artículo siguiente`, and `este artículo` using provision order; the DCG
    provides immediate test material.
-2. **Pre-number qualifier capture** — extend qualifier extraction to
-   `fracción/párrafo ... del artículo N` forms on both instruments.
-3. **Defined terms** — extract Article 1 definitions as structured terms and
-   link exact usage, which would also resolve the DCG's `la Ley` citations.
-4. **JRH review pass over the DCG temporal determinations** — the four
-   machine-accepted determinations are schema-valid and source-grounded but
-   not lawyer-verified.
-5. **Expand the corpus** toward the remaining MVP statutes, then build the
-   update engine (source monitoring, diffs, DOF early warning).
+3. **JRH review pass over the DCG temporal determinations** — three of the
+   four machine-accepted determinations remain unverified (CUARTO is
+   lawyer-verified).
+4. **Expand the corpus** toward the remaining MVP statutes — the general
+   Fintech DCG (10/09/2018) next, using its compiled document as the
+   consolidated operational source with its numbered resoluciones
+   modificatorias as amendment provenance — then build the update engine
+   (source monitoring, diffs, DOF early warning).

@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 50
 
-La CNBV contará con facultades de inspección y vigilancia respecto de las personas morales que presten servicios de auditoría externa a las ITF en términos de esta Ley, incluyendo a los socios o empleados de aquellas que formen parte del equipo de auditoría, a fin de verificar el cumplimiento de esta Ley y de las disposiciones de carácter general que de ella emanen. Para tal efecto, la CNBV tendrá las atribuciones siguientes:
+La [CNBV](articulo-4.md) contará con facultades de inspección y vigilancia respecto de las personas morales que presten servicios de auditoría externa a las [ITF](articulo-4.md) en términos de esta Ley, incluyendo a los socios o empleados de aquellas que formen parte del equipo de auditoría, a fin de verificar el cumplimiento de esta Ley y de las disposiciones de carácter general que de ella emanen. Para tal efecto, la CNBV tendrá las atribuciones siguientes:
 
 I. Requerir toda clase de información y documentación relacionada con la prestación de los servicios de auditoría;
 

@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 55
 
-Las ITF deberán mantener un capital neto que se expresará mediante un índice en relación con el riesgo operacional y otros que incurran en su operación, que no podrá ser inferior a la cantidad que resulte de sumar los requerimientos de capital por cada tipo de riesgo, en términos de las disposiciones de carácter general que para tal efecto emita la CNBV, previo acuerdo del Comité Interinstitucional.
+Las [ITF](articulo-4.md) deberán mantener un capital neto que se expresará mediante un índice en relación con el riesgo operacional y otros que incurran en su operación, que no podrá ser inferior a la cantidad que resulte de sumar los requerimientos de capital por cada tipo de riesgo, en términos de las disposiciones de carácter general que para tal efecto emita la [CNBV](articulo-4.md), previo acuerdo del [Comité Interinstitucional](articulo-4.md).
 
 Tratándose de las instituciones de fondos de pago electrónico, los requerimientos de capital podrán estar referidos a lo siguiente:
 

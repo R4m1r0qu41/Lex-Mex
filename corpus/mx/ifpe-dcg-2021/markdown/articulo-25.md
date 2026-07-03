@@ -16,4 +16,4 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 25
 
-Las instituciones de fondos de pago electrónico deberán establecer políticas de seguridad de información que su personal esté obligado a observar, que incluyan el correcto uso de los recursos utilizados para el almacenamiento de datos de los Clientes, la revisión previa a la contratación de los perfiles del personal que pretenda contratar la institución de fondos de pago electrónico, así como los procesos de evaluación de riesgos que se realicen por lo menos cada año.
+Las instituciones de fondos de pago electrónico deberán establecer políticas de seguridad de información que su personal esté obligado a observar, que incluyan el correcto uso de los recursos utilizados para el almacenamiento de datos de los [Clientes](../../lritf/markdown/articulo-4.md), la revisión previa a la contratación de los perfiles del personal que pretenda contratar la institución de fondos de pago electrónico, así como los procesos de evaluación de riesgos que se realicen por lo menos cada año.

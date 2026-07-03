@@ -20,17 +20,17 @@ Las instituciones de fondos de pago electrónico que pretendan celebrar los cont
 
 I. Plan general de funcionamiento que contenga lo siguiente:
 
-a) Descripción detallada y diagrama de flujo de los procesos de cada una de las operaciones a contratar considerando, en su caso, el proceso de conciliación y liquidación de cada una de ellas, los terceros involucrados y la Infraestructura Tecnológica a utilizar en la Operación de que se trate.
+a) Descripción detallada y diagrama de flujo de los procesos de cada una de las operaciones a contratar considerando, en su caso, el proceso de conciliación y liquidación de cada una de ellas, los terceros involucrados y la [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md) a utilizar en la [Operación](../../lritf/markdown/articulo-4.md) de que se trate.
 
-b) Mecanismos que incluyan los controles automatizados que utilizará la institución de fondos de pago electrónico para evitar que los comisionistas o el Administrador de Comisionistas excedan los límites de operación establecidos en el artículo [48](articulo-48.md) de las presentes Disposiciones.
+b) Mecanismos que incluyan los controles automatizados que utilizará la institución de fondos de pago electrónico para evitar que los comisionistas o el [Administrador de Comisionistas](articulo-1.md) excedan los límites de operación establecidos en el artículo [48](articulo-48.md) de las presentes Disposiciones.
 
 c) Mecanismos de vigilancia del desempeño del comisionista o del Administrador de Comisionistas, que deberán considerar, cuando menos, el cumplimiento de sus obligaciones contractuales.
 
-Para efectos de lo anterior, la institución de fondos de pago electrónico deberá contar con planes para evaluar y reportar al Órgano de Administración o, en su caso, al comité de auditoría, el desempeño de los comisionistas o del Administrador de Comisionistas contratados y el cumplimiento de la regulación aplicable relacionada con dicha contratación.
+Para efectos de lo anterior, la institución de fondos de pago electrónico deberá contar con planes para evaluar y reportar al [Órgano de Administración](articulo-1.md) o, en su caso, al comité de auditoría, el desempeño de los comisionistas o del Administrador de Comisionistas contratados y el cumplimiento de la regulación aplicable relacionada con dicha contratación.
 
 d) Requerimientos técnicos para realizar operaciones a través de comisionistas, ajustándose a lo señalado en el Anexo 7 de las presentes Disposiciones.
 
-Las instituciones de fondos de pagos electrónico, para la realización de operaciones adicionales a las manifestadas en el plan general de funcionamiento a que se refiere esta fracción, deberán solicitar autorización a la CNBV, en un plazo no mayor a veinte días hábiles previo al inicio de la realización de las mencionadas operaciones. Asimismo, cuando lleven a cabo reformas a dicho plan que impliquen cambios sustanciales en los términos en los que realizarían las Operaciones con los Clientes o usuarios del medio de disposición, deberán solicitar autorización a la CNBV con, por lo menos, veinte días hábiles de anticipación a la fecha en que se pretenda que surtan efectos.
+Las instituciones de fondos de pagos electrónico, para la realización de operaciones adicionales a las manifestadas en el plan general de funcionamiento a que se refiere esta fracción, deberán solicitar autorización a la [CNBV](../../lritf/markdown/articulo-4.md), en un plazo no mayor a veinte días hábiles previo al inicio de la realización de las mencionadas operaciones. Asimismo, cuando lleven a cabo reformas a dicho plan que impliquen cambios sustanciales en los términos en los que realizarían las Operaciones con los [Clientes](../../lritf/markdown/articulo-4.md) o usuarios del medio de disposición, deberán solicitar autorización a la CNBV con, por lo menos, veinte días hábiles de anticipación a la fecha en que se pretenda que surtan efectos.
 
 II. Proyecto de contrato en el que deberá señalarse la fecha probable de su celebración y los derechos y obligaciones de la institución de fondos de pago electrónico y del comisionista o del Administrador de Comisionistas. Asimismo, dentro del contrato se deberá prever lo siguiente:
 
@@ -78,7 +78,7 @@ g) Constancia, dentro del contrato, de la aceptación expresa por parte del comi
 
 7. Prevenir el uso indebido de los factores de autenticación de los Clientes y empleados que operen el servicio contratado.
 
-8. Observar las medidas que deberá instrumentar la institución de fondos de pago electrónico para apegarse a las disposiciones de carácter general a que se refiere el artículo [58](../../lritf/markdown/articulo-58.md) de la Ley para Regular las Instituciones de Tecnología Financiera., emitidas por la Secretaría, o aquellas que las sustituyan.
+8. Observar las medidas que deberá instrumentar la institución de fondos de pago electrónico para apegarse a las disposiciones de carácter general a que se refiere el artículo [58](../../lritf/markdown/articulo-58.md) de la Ley para Regular las Instituciones de Tecnología Financiera., emitidas por la [Secretaría](../../lritf/markdown/articulo-4.md), o aquellas que las sustituyan.
 
 9. Capacitar al personal respecto del proceso para realizar Operaciones, el uso de la infraestructura tecnológica del comisionista y la seguridad de la información.
 

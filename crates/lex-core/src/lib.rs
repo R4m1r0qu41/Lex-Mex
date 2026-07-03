@@ -65,6 +65,7 @@ pub enum TemporalStatus {
 pub enum Basis {
     SourceText,
     ExpressCrossReference,
+    ExpressDefinition,
     DeterministicRule,
     LlmInference,
     LawyerVerified,
@@ -215,12 +216,55 @@ pub struct ReferenceEdge {
     pub reference_form: ReferenceForm,
 }
 
+/// A term expressly defined by a glossary provision, anchored to the exact
+/// span of its definition entry within that provision's canonical text.
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct DefinedTerm {
+    pub schema_version: String,
+    /// `urn:…:<instrument>:term:<slug>`.
+    pub id: String,
+    /// The term exactly as defined, for example `Comité Interinstitucional`.
+    pub term: String,
+    pub instrument_id: String,
+    pub defining_provision_id: String,
+    /// Roman numeral of the defining fraction, for fraction-style
+    /// glossaries such as LRITF Article 4.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub fraction: Option<String>,
+    /// Unicode character span of the complete definition entry (including
+    /// its continuation paragraphs) within the defining provision's text.
+    pub start_char: usize,
+    pub end_char: usize,
+    pub basis: Basis,
+}
+
+/// One exact occurrence of a defined term inside a provision's canonical
+/// text, resolved to its defining term (possibly in another instrument).
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct TermUsage {
+    pub schema_version: String,
+    pub id: String,
+    /// Provision whose text contains the occurrence.
+    pub provision_id: String,
+    /// The resolved [`DefinedTerm`] identifier.
+    pub term_id: String,
+    /// The exact matched text, which may be a singular/plural variant of
+    /// the defined term.
+    pub span: String,
+    pub start_char: usize,
+    pub end_char: usize,
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Corpus {
     pub instrument: Instrument,
     pub provisions: Vec<Provision>,
     #[serde(default)]
     pub references: Vec<ReferenceEdge>,
+    #[serde(default)]
+    pub terms: Vec<DefinedTerm>,
+    #[serde(default)]
+    pub term_usages: Vec<TermUsage>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

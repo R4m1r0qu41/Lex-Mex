@@ -16,7 +16,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 55
 
-Las instituciones de fondos de pagos electrónico responderán en todo momento, tanto por el servicio que sus comisionistas o Administrador de Comisionistas proporcionen a los Clientes, aun cuando la realización de las Operaciones correspondientes se lleve a cabo en términos distintos a los pactados, así como por el incumplimiento a las disposiciones en que incurran dichos comisionistas. En caso de incumplimiento por parte de los comisionistas o Administrador de Comisionistas a las disposiciones aplicables, las instituciones de fondos de pago electrónico deberán implementar las medidas correctivas necesarias.
+Las instituciones de fondos de pagos electrónico responderán en todo momento, tanto por el servicio que sus comisionistas o [Administrador de Comisionistas](articulo-1.md) proporcionen a los [Clientes](../../lritf/markdown/articulo-4.md), aun cuando la realización de las [Operaciones](../../lritf/markdown/articulo-4.md) correspondientes se lleve a cabo en términos distintos a los pactados, así como por el incumplimiento a las disposiciones en que incurran dichos comisionistas. En caso de incumplimiento por parte de los comisionistas o Administrador de Comisionistas a las disposiciones aplicables, las instituciones de fondos de pago electrónico deberán implementar las medidas correctivas necesarias.
 
 Lo establecido en los dos párrafos anteriores será sin perjuicio de las responsabilidades civiles, administrativas o penales en que los comisionistas o Administrador de Comisionistas o sus empleados, puedan incurrir por las violaciones de las disposiciones legales aplicables.
 

@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 108
 
-Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, las Comisiones Supervisoras y el Banco de México, ajustándose a los lineamientos que emitan, deberán hacer del conocimiento del público en general, a través de su portal de internet, las sanciones que al efecto impongan por infracciones a esta Ley o a las disposiciones que de ella emanen, para lo cual deberán señalar:
+Para tutelar el ejercicio del derecho de acceso a la información pública gubernamental, las [Comisiones Supervisoras](articulo-4.md) y el Banco de México, ajustándose a los lineamientos que emitan, deberán hacer del conocimiento del público en general, a través de su portal de internet, las sanciones que al efecto impongan por infracciones a esta Ley o a las disposiciones que de ella emanen, para lo cual deberán señalar:
 
 I. El nombre, denominación o razón social del infractor;
 

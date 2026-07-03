@@ -14,9 +14,9 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # ANEXO 7
 
-Requerimientos técnicos para realizar Operaciones a través de comisionistas
+Requerimientos técnicos para realizar [Operaciones](../../lritf/markdown/articulo-4.md) a través de comisionistas
 
-Los comisionistas o el Administrador de Comisionistas, para garantizar la correcta ejecución de las Operaciones y la seguridad de la información de los Clientes, deberá contar con lo siguiente:
+Los comisionistas o el [Administrador de Comisionistas](articulo-1.md), para garantizar la correcta ejecución de las Operaciones y la seguridad de la información de los [Clientes](../../lritf/markdown/articulo-4.md), deberá contar con lo siguiente:
 
 I. Definiciones. Para efectos del presente anexo, se entenderá por: Identificador Individual, a la cadena de caracteres asignada a cada operador en lo individual.
 
@@ -30,9 +30,9 @@ b) Diagrama de telecomunicaciones en donde se muestre la conexión existente ent
 
 c) En su caso, esquema de interrelación de aplicaciones o sistemas del comisionista o del Administrador de Comisionistas, incluyendo los sistemas propios de la institución de fondos de pago electrónico.
 
-d) Documentación en donde se expongan los mecanismos para asegurar la transmisión de la información en forma cifrada de punto a punto, incluyendo la versión de los protocolos de Cifrado y componentes de seguridad de la Infraestructura Tecnológica implementados en cada uno de los nodos involucrados en el envío y recepción de datos.
+d) Documentación en donde se expongan los mecanismos para asegurar la transmisión de la información en forma cifrada de punto a punto, incluyendo la versión de los protocolos de [Cifrado](articulo-1.md) y componentes de seguridad de la [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md) implementados en cada uno de los nodos involucrados en el envío y recepción de datos.
 
-e) Detalle del tipo de información de la institución de fondos de pago electrónico, de sus Clientes o de los usuarios de medios de disposición, precisando, en su caso, el tipo de Información Sensible que será almacenada por el comisionista o el Administrador de Comisionistas en sus equipos o instalaciones, o a la que podrán tener acceso. Tratándose de Información Sensible, el comisionistas o Administrador de Comisionistas deberá implementar mecanismos de cifrado.
+e) Detalle del tipo de información de la institución de fondos de pago electrónico, de sus Clientes o de los usuarios de medios de disposición, precisando, en su caso, el tipo de [Información Sensible](articulo-1.md) que será almacenada por el comisionista o el Administrador de Comisionistas en sus equipos o instalaciones, o a la que podrán tener acceso. Tratándose de Información Sensible, el comisionistas o Administrador de Comisionistas deberá implementar mecanismos de cifrado.
 
 f) Procedimiento de validación y pruebas a la instalación de la infraestructura tecnológica del comisionista.
 

@@ -16,9 +16,9 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 133
 
-Al que sin autorización obtenga, extraiga o desvíe recursos, fondos de pago electrónicos o activos virtuales por medio de los sistemas o equipos de informática de las ITF o de las sociedades o Entidades Financieras u otros sujetos supervisados por alguna Comisión Supervisora o por el Banco de México, autorizados para operar con Modelos Novedosos, se le impondrán las siguientes sanciones:
+Al que sin autorización obtenga, extraiga o desvíe recursos, fondos de pago electrónicos o activos virtuales por medio de los sistemas o equipos de informática de las [ITF](articulo-4.md) o de las sociedades o [Entidades Financieras](articulo-4.md) u otros sujetos supervisados por alguna [Comisión Supervisora](articulo-4.md) o por el Banco de México, autorizados para operar con [Modelos Novedosos](articulo-4.md), se le impondrán las siguientes sanciones:
 
-I. Cuando el monto de los recursos o el valor de los fondos de pago electrónicos o activos virtuales en el momento en que se cometa la conducta a que se refiere el presente artículo, según corresponda, exceda de 2,200 y no de 57,000 UMA; se sancionará con prisión de cuatro a diez años y multa de 7,000 a 170,000 UMA.
+I. Cuando el monto de los recursos o el valor de los fondos de pago electrónicos o activos virtuales en el momento en que se cometa la conducta a que se refiere el presente artículo, según corresponda, exceda de 2,200 y no de 57,000 [UMA](articulo-4.md); se sancionará con prisión de cuatro a diez años y multa de 7,000 a 170,000 UMA.
 
 II. Cuando el monto de los recursos o el valor de los fondos de pago electrónicos o activos virtuales en el momento en que se cometa la conducta a que se refiere el presente artículo, según corresponda, exceda de 57,000, pero no de 400,000 UMA, se sancionará con prisión de cinco a once años y multa de 9,000 a 200,000 UMA.
 

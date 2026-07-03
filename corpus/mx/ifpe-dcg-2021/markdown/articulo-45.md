@@ -16,7 +16,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 45
 
-Las instituciones de fondos de pago electrónico deberán presentar al Banco de México y a la CNBV un aviso con veinte días hábiles de antelación a la contratación de terceros, cuando dicho tercero:
+Las instituciones de fondos de pago electrónico deberán presentar al Banco de México y a la [CNBV](../../lritf/markdown/articulo-4.md) un aviso con veinte días hábiles de antelación a la contratación de terceros, cuando dicho tercero:
 
 I. Funja como proveedor secundario o de respaldo para complementar la operación de un proveedor primario o garantizar la continuidad de negocio en caso de que el proveedor primario no esté en condiciones de prestar el servicio, así como de aquellos servicios cuya interrupción, parcial o permanente, imposibilitarían a la institución de fondos de pago electrónico la emisión, administración, redención o transmisión de fondos de pago electrónico, conforme a los actos a los que refieren las fracciones II, III, IV y V del artículo 22 de la Ley, en cuyo caso el aviso referido deberá cumplir con los requerimientos a que se refiere el artículo [49](articulo-49.md) de las presentes Disposiciones.
 

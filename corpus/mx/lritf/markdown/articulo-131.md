@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 131
 
-Se sancionará con prisión de tres a nueve años y multa de 5,000 a 150,000 UMA, a quien utilice, realice u obtenga, por sí o a través de interpósita persona, cualquier servicio, Operación o producto proporcionado por alguna de las ITF o sociedad o Entidad Financiera u otro sujeto supervisado por alguna Comisión Supervisora o por el Banco de México, autorizado para operar con Modelos Novedosos previstas en esta Ley bajo una identidad falsa o suplantada.
+Se sancionará con prisión de tres a nueve años y multa de 5,000 a 150,000 [UMA](articulo-4.md), a quien utilice, realice u obtenga, por sí o a través de interpósita persona, cualquier servicio, [Operación](articulo-4.md) o producto proporcionado por alguna de las [ITF](articulo-4.md) o sociedad o [Entidad Financiera](articulo-4.md) u otro sujeto supervisado por alguna [Comisión Supervisora](articulo-4.md) o por el Banco de México, autorizado para operar con [Modelos Novedosos](articulo-4.md) previstas en esta Ley bajo una identidad falsa o suplantada.

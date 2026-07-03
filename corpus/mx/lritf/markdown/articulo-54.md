@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 54
 
-Las ITF podrán pactar con terceros, localizados en el territorio nacional o el extranjero, la prestación de servicios necesarios para su operación, de conformidad con las disposiciones de carácter general que para tal efecto emitan la CNBV respecto de instituciones de financiamiento colectivo y conjuntamente con el Banco de México respecto de las instituciones de fondos de pago electrónico. Dichas Autoridades Financieras podrán señalar en estas disposiciones el tipo de servicios que requerirán de autorización.
+Las [ITF](articulo-4.md) podrán pactar con terceros, localizados en el territorio nacional o el extranjero, la prestación de servicios necesarios para su operación, de conformidad con las disposiciones de carácter general que para tal efecto emitan la [CNBV](articulo-4.md) respecto de instituciones de financiamiento colectivo y conjuntamente con el Banco de México respecto de las instituciones de fondos de pago electrónico. Dichas [Autoridades Financieras](articulo-4.md) podrán señalar en estas disposiciones el tipo de servicios que requerirán de autorización.
 
 La contratación de los servicios a que se refiere el presente artículo no eximirá a las ITF, ni a sus directivos, empleados y demás personas que ocupen un empleo, cargo o comisión en ellas, de la obligación de observar lo establecido en el presente ordenamiento legal y en las disposiciones de carácter general que emanen de este.
 

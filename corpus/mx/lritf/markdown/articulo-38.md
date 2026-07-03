@@ -16,4 +16,4 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 38
 
-La CNBV deberá publicar en el Diario Oficial de la Federación las autorizaciones que otorgue conforme a la presente Ley.
+La [CNBV](articulo-4.md) deberá publicar en el Diario Oficial de la Federación las autorizaciones que otorgue conforme a la presente Ley.

@@ -16,16 +16,16 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 8
 
-Las instituciones de fondos de pago electrónico deberán solicitar, al menos, dos Factores de Autenticación independientes en cada ocasión en que se pretenda realizar lo siguiente:
+Las instituciones de fondos de pago electrónico deberán solicitar, al menos, dos Factores de [Autenticación](articulo-1.md) independientes en cada ocasión en que se pretenda realizar lo siguiente:
 
-I. Alta, baja o cualquier otra modificación relacionada con los beneficiarios de la Cuenta a que se refiere el séptimo párrafo del artículo [29](../../lritf/markdown/articulo-29.md) de la Ley para Regular las Instituciones de Tecnología Financiera.
+I. Alta, baja o cualquier otra modificación relacionada con los beneficiarios de la [Cuenta](articulo-1.md) a que se refiere el séptimo párrafo del artículo [29](../../lritf/markdown/articulo-29.md) de la Ley para Regular las Instituciones de Tecnología Financiera.
 
 II. Cambios respecto de los Factores de Autenticación.
 
 III. Solicitud de estados de cuenta.
 
-IV. Alta y modificación del medio de notificación al Cliente.
+IV. Alta y modificación del medio de notificación al [Cliente](../../lritf/markdown/articulo-4.md).
 
-Las instituciones de fondos de pago electrónico quedarán sujetas a lo establecido en la Circular 12/2018 emitida por el Banco de México, para el caso en que reciban reclamaciones por cargos no reconocidos de sus Clientes por Operaciones que deriven de alguna de las operaciones descritas en las fracciones I, II y IV del presente artículo.
+Las instituciones de fondos de pago electrónico quedarán sujetas a lo establecido en la Circular 12/2018 emitida por el Banco de México, para el caso en que reciban reclamaciones por cargos no reconocidos de sus Clientes por [Operaciones](../../lritf/markdown/articulo-4.md) que deriven de alguna de las operaciones descritas en las fracciones I, II y IV del presente artículo.
 
-Para efectos de lo previsto en el presente artículo, las instituciones de fondos de pago electrónico podrán tomar en cuenta el Factor de Autenticación utilizado para el inicio de Sesión en los Canales de Instrucción de que se trate.
+Para efectos de lo previsto en el presente artículo, las instituciones de fondos de pago electrónico podrán tomar en cuenta el [Factor de Autenticación](articulo-1.md) utilizado para el inicio de [Sesión](articulo-1.md) en los [Canales de Instrucción](articulo-1.md) de que se trate.

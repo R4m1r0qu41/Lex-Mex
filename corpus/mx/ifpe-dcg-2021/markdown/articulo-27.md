@@ -16,13 +16,13 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 27
 
-Las instituciones de fondos de pago electrónico deberán contar con medidas de validación para garantizar la autenticidad de los procesos ejecutados por los diferentes componentes de la Infraestructura Tecnológica, incluyendo las Operaciones realizadas por los Clientes, considerando, al menos, lo siguiente:
+Las instituciones de fondos de pago electrónico deberán contar con medidas de validación para garantizar la autenticidad de los procesos ejecutados por los diferentes componentes de la [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md), incluyendo las [Operaciones](../../lritf/markdown/articulo-4.md) realizadas por los [Clientes](../../lritf/markdown/articulo-4.md), considerando, al menos, lo siguiente:
 
 I. La verificación de la veracidad e integridad de la información sin importar que se encuentre estática o en tránsito.
 
-II. La Autenticación entre componentes de la Infraestructura Tecnológica, que aseguren que se ejecutan solo las solicitudes de servicio legítimas desde su origen y hasta su ejecución y registro.
+II. La [Autenticación](articulo-1.md) entre componentes de la Infraestructura Tecnológica, que aseguren que se ejecutan solo las solicitudes de servicio legítimas desde su origen y hasta su ejecución y registro.
 
-III. Los protocolos de mensajería, comunicaciones y Cifrado, los cuales deben procurar la integridad y confidencialidad de la información.
+III. Los protocolos de mensajería, comunicaciones y [Cifrado](articulo-1.md), los cuales deben procurar la integridad y confidencialidad de la información.
 
 IV. La identificación de procesos atípicos, previendo que se cuenten con herramientas de monitoreo o medidas de alerta automática para su atención, por parte de las áreas operativas correspondientes.
 

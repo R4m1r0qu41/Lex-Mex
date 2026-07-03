@@ -16,7 +16,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 37
 
-Las instituciones de fondos de pago electrónico deberán contar con un Plan de Continuidad de Negocio que se obliguen a cumplir e incluyan los requerimientos mínimos establecidos en el Anexo 2 de las presentes Disposiciones, el cual deberá de estar alineado con la Política Estratégica de Continuidad de Negocio y de Seguridad de la Información.
+Las instituciones de fondos de pago electrónico deberán contar con un [Plan de Continuidad de Negocio](articulo-1.md) que se obliguen a cumplir e incluyan los requerimientos mínimos establecidos en el Anexo 2 de las presentes Disposiciones, el cual deberá de estar alineado con la [Política Estratégica de Continuidad de Negocio y de Seguridad de la Información](articulo-1.md).
 
 El Plan de Continuidad de Negocio deberá ser aprobado por el director general o, en su caso, por el administrador único, debiendo verificar que contenga las iniciativas dirigidas a mejorar los métodos de trabajo existentes, conforme a las presentes Disposiciones. Las modificaciones al Plan de Continuidad de Negocio deberán ser aprobadas por el director general o, en su caso, por el administrador único, siendo responsabilidad del director general ajustarse a los principios establecidos por el consejo de administración en el manual de continuidad de negocio y seguridad de la información.
 

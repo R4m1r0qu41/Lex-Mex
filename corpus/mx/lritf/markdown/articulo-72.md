@@ -16,13 +16,13 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 72
 
-La CNBV y el Banco de México, en el ejercicio de las facultades a que se refiere esta Ley, señalará la forma y términos en que se deberá dar cumplimiento a sus requerimientos.
+La [CNBV](articulo-4.md) y el Banco de México, en el ejercicio de las facultades a que se refiere esta Ley, señalará la forma y términos en que se deberá dar cumplimiento a sus requerimientos.
 
 Asimismo, la CNBV y el Banco de México, para hacer cumplir sus determinaciones respecto a las personas sujetas a la presente Ley, podrán aplicar indistintamente, los medios de apremio siguientes:
 
 I. Amonestación con apercibimiento;
 
-II. Multa de 2,000 a 5,000 UMA;
+II. Multa de 2,000 a 5,000 [UMA](articulo-4.md);
 
 III. Multa adicional de 50 a 100 UMA por cada día que persista la infracción, y
 

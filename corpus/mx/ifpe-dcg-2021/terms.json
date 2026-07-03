@@ -1,0 +1,262 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:administrador-de-comisionistas",
+    "term": "Administrador de Comisionistas",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 199,
+    "end_char": 502,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:autenticacion",
+    "term": "Autenticación",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 504,
+    "end_char": 884,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:canales-de-instruccion",
+    "term": "Canales de Instrucción",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 886,
+    "end_char": 1251,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:cifrado",
+    "term": "Cifrado",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 1253,
+    "end_char": 1487,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:computo-en-la-nube",
+    "term": "Cómputo en la Nube",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 1489,
+    "end_char": 1911,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:contingencia-operativa",
+    "term": "Contingencia Operativa",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 1913,
+    "end_char": 2186,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:cuenta",
+    "term": "Cuenta",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 2188,
+    "end_char": 3426,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:evento-de-seguridad-de-la-informacion",
+    "term": "Evento de Seguridad de la Información",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 3428,
+    "end_char": 4005,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:factor-de-autenticacion",
+    "term": "Factor de Autenticación",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 4007,
+    "end_char": 4252,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:identificador-de-cliente",
+    "term": "Identificador de Cliente",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 4254,
+    "end_char": 4935,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:incidente-de-seguridad-de-informacion",
+    "term": "Incidente de Seguridad de Información",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 4937,
+    "end_char": 6379,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:informacion-personal",
+    "term": "Información Personal",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 6381,
+    "end_char": 6631,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:informacion-sensible",
+    "term": "Información Sensible",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 6633,
+    "end_char": 7038,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:organo-de-administracion",
+    "term": "Órgano de Administración",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 7040,
+    "end_char": 7188,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:plan-de-continuidad-de-negocio",
+    "term": "Plan de Continuidad de Negocio",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 7190,
+    "end_char": 7724,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:plan-director-de-seguridad",
+    "term": "Plan Director de Seguridad",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 7726,
+    "end_char": 8119,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:politica-estrategica-de-continuidad-de-negocio-y-de-seguridad-de-la-informacion",
+    "term": "Política Estratégica de Continuidad de Negocio y de Seguridad de la Información",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 8121,
+    "end_char": 8694,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:sesion",
+    "term": "Sesión",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 8696,
+    "end_char": 8994,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:tarjeta",
+    "term": "Tarjeta",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 8996,
+    "end_char": 9335,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:tercero-independiente",
+    "term": "Tercero Independiente",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 9337,
+    "end_char": 9746,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:transferencia",
+    "term": "Transferencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 9748,
+    "end_char": 9894,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:transferencia-de-fondos",
+    "term": "Transferencia de Fondos",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 9896,
+    "end_char": 11346,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:transferencia-de-fondos-de-pago-electronico",
+    "term": "Transferencia de Fondos de Pago Electrónico",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 11348,
+    "end_char": 11884,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:transmision-de-dinero",
+    "term": "Transmisión de Dinero",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 11886,
+    "end_char": 12118,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:udi",
+    "term": "UDI",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 12120,
+    "end_char": 12554,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:term:usuario-de-la-infraestructura-tecnologica",
+    "term": "Usuario de la Infraestructura Tecnológica",
+    "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:1",
+    "start_char": 12556,
+    "end_char": 12914,
+    "basis": "express_definition"
+  }
+]

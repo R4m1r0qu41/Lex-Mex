@@ -16,8 +16,8 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 48
 
-Las instituciones de fondos de pago electrónico, en la realización de las Operaciones a través de comisionistas a que se refieren las fracciones I y II del artículo [46](articulo-46.md) de estas Disposiciones, deberán sujetarse a los límites que a continuación se indican:
+Las instituciones de fondos de pago electrónico, en la realización de las [Operaciones](../../lritf/markdown/articulo-4.md) a través de comisionistas a que se refieren las fracciones I y II del artículo [46](articulo-46.md) de estas Disposiciones, deberán sujetarse a los límites que a continuación se indican:
 
-I. Tratándose de las Operaciones a que se refiere la fracción I del artículo [46](articulo-46.md), el límite por comisionista no podrá exceder de un monto diario equivalente en moneda nacional a 1,500 UDIs, por Cuenta de Cliente.
+I. Tratándose de las Operaciones a que se refiere la fracción I del artículo [46](articulo-46.md), el límite por comisionista no podrá exceder de un monto diario equivalente en moneda nacional a 1,500 UDIs, por [Cuenta](articulo-1.md) de [Cliente](../../lritf/markdown/articulo-4.md).
 
 II. Tratándose de las Operaciones a que se refiere la fracción II del artículo [46](articulo-46.md), el límite por comisionista no podrá exceder de un monto diario equivalente en moneda nacional a 4,000 UDIs, por Cuenta de Cliente.

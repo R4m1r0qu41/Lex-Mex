@@ -18,11 +18,13 @@ use lex_core::{
     route_temporal_analysis,
 };
 use lex_export::{
-    LinkTargets, link_targets, write_canonical, write_markdown, write_obsidian, write_validation,
+    LinkTargets, TermTargets, link_targets, term_targets, write_canonical, write_markdown,
+    write_obsidian, write_validation,
 };
 use lex_parse::{
-    CorpusExpectations, InstrumentContextPolicy, ReferenceOptions, extract_html_text,
-    extract_internal_references, extract_pdf, extract_references, extract_reform_transitories,
+    CorpusExpectations, CorpusView, GlossaryStyle, InstrumentContextPolicy, ReferenceOptions,
+    extract_html_text, extract_internal_references, extract_pdf, extract_references,
+    extract_reform_transitories, extract_term_usages, extract_terms, find_glossary_provision,
     parse_dcg, parse_lritf, validate_corpus,
 };
 use lex_source::{
@@ -582,14 +584,22 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
             .and_then(|manifest| manifest.extracted_text_sha256.clone()),
     };
     let references = extract_instrument_references(root, context, &instrument, &provisions)?;
+    let (terms, term_usages) = extract_instrument_terms(root, context, &instrument, &provisions)?;
     let corpus = Corpus {
         instrument,
         provisions,
         references,
+        terms,
+        term_usages,
     };
     write_canonical(&corpus, &paths.corpus)?;
     println!("parsed {} canonical provisions", corpus.provisions.len());
     println!("extracted {} canonical references", corpus.references.len());
+    println!(
+        "extracted {} defined terms with {} usages",
+        corpus.terms.len(),
+        corpus.term_usages.len()
+    );
     if config.parser == "lritf" {
         let reform_evidence = extract_reform_transitories(&raw)?;
         write_pretty_json(&reform_evidence, &paths.reform_evidence)?;
@@ -599,6 +609,39 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         );
     }
     Ok(())
+}
+
+/// Extract the instrument's glossary terms and every exact term usage.
+/// A glossary that is expressly additive to another instrument's glossary
+/// (the DCG's Article 1 opens "además de los términos utilizados en la
+/// Ley…") resolves usages against its own terms first, then the terms of
+/// each instrument listed in `additive_to`, in order.
+fn extract_instrument_terms(
+    root: &Path,
+    context: &InstrumentContext,
+    instrument: &Instrument,
+    provisions: &[lex_core::Provision],
+) -> Result<(Vec<lex_core::DefinedTerm>, Vec<lex_core::TermUsage>)> {
+    let Some(glossary) = &context.config.glossary else {
+        return Ok((Vec::new(), Vec::new()));
+    };
+    let style = GlossaryStyle::from_config(&glossary.style)?;
+    let glossary_provision = find_glossary_provision(provisions, &glossary.provision_suffix)?;
+    let terms = extract_terms(glossary_provision, style)?;
+
+    let siblings = read_sibling_corpora(root, &instrument.id)?;
+    let mut term_sets: Vec<&[lex_core::DefinedTerm]> = vec![&terms];
+    for additive_instrument in &glossary.additive_to {
+        let sibling = siblings
+            .iter()
+            .find(|(_, corpus)| &corpus.instrument.id == additive_instrument)
+            .with_context(|| {
+                format!("glossary is additive to {additive_instrument}, which is not in the corpus")
+            })?;
+        term_sets.push(&sibling.1.terms);
+    }
+    let usages = extract_term_usages(provisions, &term_sets)?;
+    Ok((terms, usages))
 }
 
 /// Extract this instrument's reference edges, resolving targets against
@@ -646,8 +689,17 @@ fn run_link(root: &Path, context: &InstrumentContext) -> Result<()> {
     let mut corpus = read_corpus(paths)?;
     corpus.references =
         extract_instrument_references(root, context, &corpus.instrument, &corpus.provisions)?;
+    let (terms, term_usages) =
+        extract_instrument_terms(root, context, &corpus.instrument, &corpus.provisions)?;
+    corpus.terms = terms;
+    corpus.term_usages = term_usages;
     write_canonical(&corpus, &paths.corpus)?;
     println!("extracted {} canonical references", corpus.references.len());
+    println!(
+        "extracted {} defined terms with {} usages",
+        corpus.terms.len(),
+        corpus.term_usages.len()
+    );
     Ok(())
 }
 
@@ -967,14 +1019,20 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
     let config = &context.config;
     let corpus = read_corpus(paths)?;
     let mut external_targets = HashSet::new();
+    let mut external_terms = HashSet::new();
     for (_, sibling) in read_sibling_corpora(root, &corpus.instrument.id)? {
         external_targets.extend(sibling.provisions.iter().map(|item| item.id.clone()));
+        external_terms.extend(sibling.terms.iter().map(|term| term.id.clone()));
     }
     let report = validate_corpus(
-        &corpus.instrument.id,
-        Some(corpus.instrument.official_title.as_str()),
-        &corpus.provisions,
-        &corpus.references,
+        &CorpusView {
+            instrument_id: &corpus.instrument.id,
+            official_title: Some(corpus.instrument.official_title.as_str()),
+            provisions: &corpus.provisions,
+            references: &corpus.references,
+            terms: &corpus.terms,
+            term_usages: &corpus.term_usages,
+        },
         &CorpusExpectations {
             min_articles: config.expected_min_articles,
             articles: config.expected_articles,
@@ -983,6 +1041,7 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
             require_chapter_context: config.parser == "ifpe-dcg",
         },
         &external_targets,
+        &external_terms,
     );
     write_validation(&report, &paths.corpus)?;
     println!(
@@ -1005,17 +1064,17 @@ fn run_export(
     let paths = &context.paths;
     let corpus = read_corpus(paths)?;
     let siblings = read_sibling_corpora(root, &corpus.instrument.id)?;
-    let targets = build_link_targets(&corpus, &context.config.slug, &siblings);
+    let (targets, terms) = build_link_targets(&corpus, &context.config.slug, &siblings);
     match format {
         ExportFormat::Json => write_canonical(&corpus, &paths.corpus)?,
-        ExportFormat::Markdown => write_markdown(&corpus, &targets, &paths.markdown)?,
+        ExportFormat::Markdown => write_markdown(&corpus, &targets, &terms, &paths.markdown)?,
         ExportFormat::Obsidian => {
             let vault = obsidian_vault.context(
                 "Obsidian export requires --obsidian-vault PATH or \
                  LEX_MEX_OBSIDIAN_VAULT",
             )?;
             let review_items = read_all_review_queues(root)?;
-            write_obsidian(&corpus, &targets, &review_items, vault)?;
+            write_obsidian(&corpus, &targets, &terms, &review_items, vault)?;
             println!("published Obsidian vault {}", vault.display());
         }
     }
@@ -1023,14 +1082,20 @@ fn run_export(
     Ok(())
 }
 
-fn build_link_targets(corpus: &Corpus, slug: &str, siblings: &[(String, Corpus)]) -> LinkTargets {
+fn build_link_targets(
+    corpus: &Corpus,
+    slug: &str,
+    siblings: &[(String, Corpus)],
+) -> (LinkTargets, TermTargets) {
     let mut corpora: Vec<(&Corpus, &str)> = vec![(corpus, slug)];
     corpora.extend(
         siblings
             .iter()
             .map(|(sibling_slug, sibling)| (sibling, sibling_slug.as_str())),
     );
-    link_targets(&corpora)
+    let targets = link_targets(&corpora);
+    let terms = term_targets(&corpora, &targets);
+    (targets, terms)
 }
 
 /// Read every committed corpus except `own_instrument_id`, keyed by its
@@ -1084,14 +1149,19 @@ fn read_all_review_queues(root: &Path) -> Result<Vec<ReviewItem>> {
 }
 
 fn read_corpus(paths: &Paths) -> Result<Corpus> {
+    fn optional<T: serde::de::DeserializeOwned>(path: &Path) -> Result<Vec<T>> {
+        if path.exists() {
+            read_json(path)
+        } else {
+            Ok(Vec::new())
+        }
+    }
     Ok(Corpus {
         instrument: read_json(&paths.instrument)?,
         provisions: read_json(&paths.provisions)?,
-        references: if paths.references.exists() {
-            read_json(&paths.references)?
-        } else {
-            Vec::new()
-        },
+        references: optional(&paths.references)?,
+        terms: optional(&paths.terms)?,
+        term_usages: optional(&paths.term_usages)?,
     })
 }
 
@@ -1159,6 +1229,8 @@ struct Paths {
     instrument: PathBuf,
     provisions: PathBuf,
     references: PathBuf,
+    terms: PathBuf,
+    term_usages: PathBuf,
     temporal_request: PathBuf,
     temporal_model_output: PathBuf,
     temporal_result: PathBuf,
@@ -1182,6 +1254,8 @@ impl Paths {
             instrument: corpus.join("instrument.json"),
             provisions: corpus.join("provisions.json"),
             references: corpus.join("references.json"),
+            terms: corpus.join("terms.json"),
+            term_usages: corpus.join("term-usages.json"),
             temporal_request: corpus.join("temporal-analysis-request.json"),
             temporal_model_output: work.join("temporal-model-output.json"),
             temporal_result: corpus.join("temporal-analysis-result.json"),

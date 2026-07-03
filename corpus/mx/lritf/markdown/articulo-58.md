@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 58
 
-Las ITF estarán obligadas, de conformidad con lo que establezcan las disposiciones de carácter general que emita la Secretaría, previa opinión de la CNBV, a lo siguiente:
+Las [ITF](articulo-4.md) estarán obligadas, de conformidad con lo que establezcan las disposiciones de carácter general que emita la [Secretaría](articulo-4.md), previa opinión de la [CNBV](articulo-4.md), a lo siguiente:
 
 I. Establecer medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139 Quáter o 400 Bis del Código Penal Federal.
 
@@ -26,7 +26,7 @@ Toda la información relativa a la metodología, incluyendo los resultados, debe
 
 II. Presentar a la Secretaría, por conducto de la CNBV, los reportes sobre:
 
-a) Los actos, Operaciones y servicios que realicen con sus Clientes y las Operaciones entre estos, según corresponda, relativos a la fracción anterior, y
+a) Los actos, [Operaciones](articulo-4.md) y servicios que realicen con sus [Clientes](articulo-4.md) y las Operaciones entre estos, según corresponda, relativos a la fracción anterior, y
 
 b) Todo acto, operación o servicio que realicen los miembros del consejo de administración, directivos, funcionarios, empleados, factores y apoderados, que pudiesen ubicarse en el supuesto previsto en la fracción I de este artículo o que, en su caso, pudiesen contravenir o vulnerar la adecuada aplicación de las disposiciones de carácter general a que se refiere este artículo.
 
@@ -48,7 +48,7 @@ VII. La revisión que deberán realizar de forma anual por parte del área de au
 
 Las ITF deberán conservar, por al menos diez años la información y documentación a que se refiere la fracción III del párrafo anterior, sin perjuicio de lo establecido en otras disposiciones jurídicas aplicables.
 
-Al efecto, tanto el oficial de cumplimiento a que se refiere la fracción VI del párrafo tercero de este artículo, como el auditor o el tercero independiente responsable de la revisión señalada en la fracción VII de dicho párrafo deberán obtener la certificación prevista en el artículo 4, fracción X de la Ley de la Comisión Nacional Bancaria y de Valores.
+Al efecto, tanto el oficial de cumplimiento a que se refiere la fracción VI del párrafo tercero de este artículo, como el auditor o el tercero independiente responsable de la revisión señalada en la fracción VII de dicho párrafo deberán obtener la certificación prevista en el artículo 4, fracción X de la Ley de la Comisión Nacional Bancaria y de [Valores](articulo-4.md).
 
 La Secretaría estará facultada para requerir y recabar, por conducto de la CNBV, información y documentación relacionada con los actos, Operaciones y servicios a que se refiere este artículo. Las ITF estarán obligadas a proporcionar dicha información y documentación. Asimismo, la Secretaría estará facultada para obtener información adicional de otras personas con el mismo fin y a proporcionar información a las autoridades competentes.
 

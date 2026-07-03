@@ -16,7 +16,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 2
 
-Las instituciones de fondos de pago electrónico, al pactar la celebración de Operaciones y la prestación de servicios a través de Canales de Instrucción, deberán requerir el consentimiento expreso de sus Clientes para dichos efectos, el cual se podrá obtener a través del proceso de Autenticación referido en el artículo [7](articulo-7.md) de las presentes Disposiciones. Adicionalmente, las instituciones de fondos de pago electrónico deberán:
+Las instituciones de fondos de pago electrónico, al pactar la celebración de [Operaciones](../../lritf/markdown/articulo-4.md) y la prestación de servicios a través de [Canales de Instrucción](articulo-1.md), deberán requerir el consentimiento expreso de sus [Clientes](../../lritf/markdown/articulo-4.md) para dichos efectos, el cual se podrá obtener a través del proceso de [Autenticación](articulo-1.md) referido en el artículo [7](articulo-7.md) de las presentes Disposiciones. Adicionalmente, las instituciones de fondos de pago electrónico deberán:
 
 I. En la contratación respectiva, establecer de manera clara y precisa, lo siguiente:
 
@@ -32,4 +32,4 @@ e) Las restricciones operativas aplicables de acuerdo con el Canal de Instrucci�
 
 II. Informar a sus Clientes, previamente a la contratación, los términos y condiciones para el uso de los Canales de Instrucción, debiendo mantener dicha información disponible para su consulta en cualquier momento.
 
-III. Informar a sus Clientes los riesgos inherentes a la utilización de los Canales de Instrucción respectivos, así como hacer de su conocimiento sugerencias para prevenir la realización de actos no autorizados por ellos o cualesquier otros irregulares o ilegales, por los que se puedan llevar a cabo Operaciones referidas a las Cuentas de las que estos sean titulares.
+III. Informar a sus Clientes los riesgos inherentes a la utilización de los Canales de Instrucción respectivos, así como hacer de su conocimiento sugerencias para prevenir la realización de actos no autorizados por ellos o cualesquier otros irregulares o ilegales, por los que se puedan llevar a cabo Operaciones referidas a las [Cuentas](articulo-1.md) de las que estos sean titulares.

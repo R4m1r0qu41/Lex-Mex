@@ -16,4 +16,4 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 56
 
-Las instituciones de fondos de pago electrónico deberán contratar los servicios de un Tercero Independiente o de la persona moral por medio de la cual dicho Tercero Independiente preste sus servicios, para realizar la evaluación del nivel de cumplimiento de los requerimientos de seguridad de información, del uso de Canales de Instrucción y de la continuidad operativa que dichas instituciones deben observar conforme a lo previsto en los capítulos II, III, IV y V de las presentes Disposiciones.
+Las instituciones de fondos de pago electrónico deberán contratar los servicios de un [Tercero Independiente](articulo-1.md) o de la persona moral por medio de la cual dicho Tercero Independiente preste sus servicios, para realizar la evaluación del nivel de cumplimiento de los requerimientos de seguridad de información, del uso de [Canales de Instrucción](articulo-1.md) y de la continuidad operativa que dichas instituciones deben observar conforme a lo previsto en los capítulos II, III, IV y V de las presentes Disposiciones.
