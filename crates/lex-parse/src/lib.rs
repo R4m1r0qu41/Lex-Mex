@@ -16,6 +16,12 @@ use lex_core::{
 };
 use regex::Regex;
 
+pub mod dcg;
+pub mod html;
+
+pub use dcg::parse_dcg;
+pub use html::extract_html_text;
+
 const SOURCE_HEADER: &str = "LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA";
 const TRANSITORY_ORDINALS: &[&str] = &[
     "PRIMERA",
@@ -37,12 +43,23 @@ pub struct Extraction {
     pub tool_version: String,
 }
 
-pub fn extract_pdf(pdf_path: &Path, text_path: &Path) -> Result<Extraction> {
+/// Extract text from a PDF with Poppler. `keep_page_breaks` retains the
+/// form-feed page markers; the DCG parser needs them to merge paragraphs
+/// deterministically across page boundaries.
+pub fn extract_pdf(
+    pdf_path: &Path,
+    text_path: &Path,
+    keep_page_breaks: bool,
+) -> Result<Extraction> {
     if let Some(parent) = text_path.parent() {
         fs::create_dir_all(parent)?;
     }
+    let mut args = vec!["-layout"];
+    if !keep_page_breaks {
+        args.push("-nopgbrk");
+    }
     let status = Command::new("pdftotext")
-        .args(["-layout", "-nopgbrk"])
+        .args(args)
         .arg(pdf_path)
         .arg(text_path)
         .stdin(Stdio::null())
@@ -146,12 +163,16 @@ struct ReferencePatterns {
     paragraph: Regex,
     fraction: Regex,
     subsection: Regex,
+    transitory_citation: Regex,
 }
 
 impl ReferencePatterns {
     fn new() -> Result<Self> {
         Ok(Self {
             article: Regex::new(r"(?i)\bartículos?\s+")?,
+            transitory_citation: Regex::new(
+                r"(?i)\bdisposici(?:ón|ones)\s+(PRIMERA|SEGUNDA|TERCERA|CUARTA|QUINTA|SEXTA|SÉPTIMA|OCTAVA|NOVENA|DÉCIMA(?:\s+PRIMERA)?)\s+Transitorias?",
+            )?,
             number: Regex::new(r"(?i)\d{1,3}(?:-[A-Z])?(?:\s+(?:Bis|Ter|Quáter))?")?,
             separator: Regex::new(
                 r"(?ix)^(?:
@@ -175,15 +196,94 @@ impl ReferencePatterns {
     }
 }
 
+/// The provision or instrument title whose text is being scanned for
+/// references.
+#[derive(Debug, Clone, Copy)]
+struct ReferenceSource<'a> {
+    /// Canonical identifier the edge is anchored to: a provision ID, or the
+    /// instrument ID itself for citations inside the official title.
+    source_id: &'a str,
+    instrument_id: &'a str,
+    text: &'a str,
+}
+
+/// How a citation group's target instrument is decided.
+#[derive(Debug, Clone)]
+pub enum InstrumentContextPolicy {
+    /// Original LRITF behavior: a group is skipped when generic external-law
+    /// context appears anywhere in the group without internal-law context.
+    /// Preserved verbatim so the audited LRITF graph stays byte-identical.
+    WholeGroupPresence,
+    /// Sentence-scoped decision used for multi-instrument corpora: within the
+    /// citation sentence, the earliest marker decides between this
+    /// instrument, a configured external instrument, or an unlinked external
+    /// law. No marker means the citation is internal.
+    SentenceEarliestMarker {
+        /// Lowercase phrases marking a citation as internal.
+        internal_markers: Vec<String>,
+        /// Lowercase official-name fragments mapped to instrument IDs.
+        external_instruments: Vec<(String, String)>,
+    },
+}
+
+#[derive(Debug, Clone)]
+pub struct ReferenceOptions {
+    pub policy: InstrumentContextPolicy,
+    /// Extract `disposición ORDINAL Transitoria` citations as transitory
+    /// reference edges. Enabled for multi-instrument extraction only.
+    pub transitory_citations: bool,
+}
+
+#[derive(Debug, Clone, Copy, PartialEq, Eq)]
+enum GroupTarget<'a> {
+    Internal,
+    External(&'a str),
+    Skip,
+}
+
 pub fn extract_internal_references(provisions: &[Provision]) -> Result<Vec<ReferenceEdge>> {
+    let options = ReferenceOptions {
+        policy: InstrumentContextPolicy::WholeGroupPresence,
+        transitory_citations: false,
+    };
+    let target_ids: HashSet<String> = provisions.iter().map(|item| item.id.clone()).collect();
+    extract_references(provisions, None, &options, &target_ids)
+}
+
+/// Extract reference edges from every provision and, when provided, from the
+/// instrument's official title. `known_targets` holds canonical provision
+/// identifiers across every loaded instrument; a target inside it resolves.
+#[allow(clippy::implicit_hasher)]
+pub fn extract_references(
+    provisions: &[Provision],
+    title_source: Option<(&str, &str)>,
+    options: &ReferenceOptions,
+    known_targets: &HashSet<String>,
+) -> Result<Vec<ReferenceEdge>> {
     let patterns = ReferencePatterns::new()?;
-    let target_ids: HashSet<&str> = provisions.iter().map(|item| item.id.as_str()).collect();
     let mut references = Vec::new();
-    for provision in provisions {
-        references.extend(extract_provision_references(
-            provision,
+    if let Some((instrument_id, official_title)) = title_source {
+        references.extend(extract_source_references(
+            ReferenceSource {
+                source_id: instrument_id,
+                instrument_id,
+                text: official_title,
+            },
             &patterns,
-            &target_ids,
+            options,
+            known_targets,
+        ));
+    }
+    for provision in provisions {
+        references.extend(extract_source_references(
+            ReferenceSource {
+                source_id: &provision.id,
+                instrument_id: &provision.instrument_id,
+                text: &provision.text,
+            },
+            &patterns,
+            options,
+            known_targets,
         ));
     }
     references.sort_by(|left, right| {
@@ -196,61 +296,174 @@ pub fn extract_internal_references(provisions: &[Provision]) -> Result<Vec<Refer
     Ok(references)
 }
 
-fn extract_provision_references(
-    provision: &Provision,
+fn extract_source_references(
+    source: ReferenceSource<'_>,
     patterns: &ReferencePatterns,
-    target_ids: &HashSet<&str>,
+    options: &ReferenceOptions,
+    known_targets: &HashSet<String>,
 ) -> Vec<ReferenceEdge> {
-    let headers: Vec<_> = patterns.article.find_iter(&provision.text).collect();
+    let headers: Vec<_> = patterns.article.find_iter(source.text).collect();
     let mut references = Vec::new();
     for (index, header) in headers.iter().enumerate() {
         let group_end = headers
             .get(index + 1)
-            .map_or(provision.text.len(), regex::Match::start);
-        let group = &provision.text[header.end()..group_end];
+            .map_or(source.text.len(), regex::Match::start);
+        let group = &source.text[header.end()..group_end];
         references.extend(extract_reference_group(
-            provision,
+            source,
             header.end(),
             group,
             patterns,
-            target_ids,
+            options,
+            known_targets,
+        ));
+    }
+    if options.transitory_citations {
+        references.extend(extract_transitory_citations(
+            source,
+            patterns,
+            options,
+            known_targets,
         ));
     }
     references
 }
 
 fn extract_reference_group(
-    provision: &Provision,
+    source: ReferenceSource<'_>,
     group_start: usize,
     group: &str,
     patterns: &ReferencePatterns,
-    target_ids: &HashSet<&str>,
+    options: &ReferenceOptions,
+    known_targets: &HashSet<String>,
 ) -> Vec<ReferenceEdge> {
     let accepted = accepted_numbers(group, patterns);
     if accepted.is_empty() {
         return Vec::new();
     }
-    let lower_group = group.to_lowercase();
-    if has_external_instrument_context(&lower_group)
-        && !has_internal_instrument_context(&lower_group)
-    {
-        return Vec::new();
-    }
+    let context_end = accepted
+        .last()
+        .map_or(group.len(), |last| match options.policy {
+            InstrumentContextPolicy::WholeGroupPresence => group.len(),
+            InstrumentContextPolicy::SentenceEarliestMarker { .. } => {
+                last.end() + qualifier_boundary(&group[last.end()..])
+            }
+        });
+    let target_instrument_id = match group_target(&group[..context_end], &options.policy) {
+        GroupTarget::Internal => source.instrument_id,
+        GroupTarget::External(instrument_id) => instrument_id,
+        GroupTarget::Skip => return Vec::new(),
+    };
     let mut references = direct_reference_edges(
-        provision,
+        source,
+        target_instrument_id,
         group_start,
         group,
         &accepted,
         patterns,
-        target_ids,
+        known_targets,
     );
     references.extend(range_expansion_edges(
-        provision,
+        source,
+        target_instrument_id,
         group_start,
         group,
         &accepted,
-        target_ids,
+        known_targets,
     ));
+    references
+}
+
+fn group_target<'a>(context: &str, policy: &'a InstrumentContextPolicy) -> GroupTarget<'a> {
+    let lower = context.to_lowercase();
+    match policy {
+        InstrumentContextPolicy::WholeGroupPresence => {
+            if has_external_instrument_context(&lower) && !has_internal_instrument_context(&lower) {
+                GroupTarget::Skip
+            } else {
+                GroupTarget::Internal
+            }
+        }
+        InstrumentContextPolicy::SentenceEarliestMarker {
+            internal_markers,
+            external_instruments,
+        } => sentence_target(&lower, internal_markers, external_instruments),
+    }
+}
+
+fn sentence_target<'a>(
+    lower: &str,
+    internal_markers: &[String],
+    external_instruments: &'a [(String, String)],
+) -> GroupTarget<'a> {
+    let internal = internal_markers
+        .iter()
+        .filter_map(|marker| lower.find(marker.as_str()))
+        .min();
+    let configured = external_instruments
+        .iter()
+        .filter_map(|(marker, instrument_id)| {
+            lower
+                .find(marker.as_str())
+                .map(|position| (position, instrument_id.as_str()))
+        })
+        .min_by_key(|(position, _)| *position);
+    let generic = EXTERNAL_INSTRUMENT_MARKERS
+        .iter()
+        .filter_map(|marker| lower.find(marker).map(|position| (position, marker.len())))
+        // A configured instrument name inside the same phrase (for example
+        // "de la ley para regular…") supersedes the generic law marker.
+        .filter(|(position, length)| {
+            configured.is_none_or(|(configured_position, _)| {
+                configured_position < *position || configured_position > position + length + 1
+            })
+        })
+        .map(|(position, _)| position)
+        .min();
+
+    let candidates = [
+        internal.map(|position| (position, GroupTarget::Internal)),
+        configured.map(|(position, id)| (position, GroupTarget::External(id))),
+        generic.map(|position| (position, GroupTarget::Skip)),
+    ];
+    candidates
+        .into_iter()
+        .flatten()
+        .min_by_key(|(position, _)| *position)
+        .map_or(GroupTarget::Internal, |(_, target)| target)
+}
+
+fn extract_transitory_citations(
+    source: ReferenceSource<'_>,
+    patterns: &ReferencePatterns,
+    options: &ReferenceOptions,
+    known_targets: &HashSet<String>,
+) -> Vec<ReferenceEdge> {
+    let mut references = Vec::new();
+    for captures in patterns.transitory_citation.captures_iter(source.text) {
+        let ordinal = captures.get(1).expect("ordinal capture");
+        let citation_end = captures.get(0).expect("citation match").end();
+        let context = &source.text[citation_end..];
+        let context = &context[..qualifier_boundary(context)];
+        let target_instrument_id = match group_target(context, &options.policy) {
+            GroupTarget::Internal => source.instrument_id,
+            GroupTarget::External(instrument_id) => instrument_id,
+            GroupTarget::Skip => continue,
+        };
+        let target_provision_id = format!(
+            "{target_instrument_id}:transitory:{}",
+            slug(ordinal.as_str())
+        );
+        references.push(reference_edge(
+            source,
+            &source.text[ordinal.start()..citation_end],
+            ordinal.start()..citation_end,
+            target_provision_id,
+            Vec::new(),
+            ReferenceForm::Direct,
+            known_targets,
+        ));
+    }
     references
 }
 
@@ -279,12 +492,13 @@ fn accepted_numbers<'a>(group: &'a str, patterns: &ReferencePatterns) -> Vec<reg
 }
 
 fn direct_reference_edges(
-    provision: &Provision,
+    source: ReferenceSource<'_>,
+    target_instrument_id: &str,
     group_start: usize,
     group: &str,
     accepted: &[regex::Match<'_>],
     patterns: &ReferencePatterns,
-    target_ids: &HashSet<&str>,
+    known_targets: &HashSet<String>,
 ) -> Vec<ReferenceEdge> {
     accepted
         .iter()
@@ -300,10 +514,10 @@ fn direct_reference_edges(
                 qualifier_text
             };
             reference_edge(
-                provision,
+                source,
                 number_match.as_str(),
                 (group_start + number_match.start())..(group_start + number_match.end()),
-                canonical_article_id(number_match.as_str()),
+                canonical_article_id(target_instrument_id, number_match.as_str()),
                 extract_qualifiers(
                     qualifier_text,
                     &patterns.paragraph,
@@ -311,18 +525,19 @@ fn direct_reference_edges(
                     &patterns.subsection,
                 ),
                 ReferenceForm::Direct,
-                target_ids,
+                known_targets,
             )
         })
         .collect()
 }
 
 fn range_expansion_edges(
-    provision: &Provision,
+    source: ReferenceSource<'_>,
+    target_instrument_id: &str,
     group_start: usize,
     group: &str,
     accepted: &[regex::Match<'_>],
-    target_ids: &HashSet<&str>,
+    known_targets: &HashSet<String>,
 ) -> Vec<ReferenceEdge> {
     let mut references = Vec::new();
     for pair in accepted.windows(2) {
@@ -338,16 +553,16 @@ fn range_expansion_edges(
             continue;
         }
         let range = (group_start + pair[0].start())..(group_start + pair[1].end());
-        let source_span = &provision.text[range.clone()];
+        let source_span = &source.text[range.clone()];
         for expanded in (start + 1)..end {
             references.push(reference_edge(
-                provision,
+                source,
                 source_span,
                 range.clone(),
-                canonical_article_id(&expanded.to_string()),
+                canonical_article_id(target_instrument_id, &expanded.to_string()),
                 Vec::new(),
                 ReferenceForm::RangeExpansion,
-                target_ids,
+                known_targets,
             ));
         }
     }
@@ -355,37 +570,42 @@ fn range_expansion_edges(
 }
 
 fn reference_edge(
-    provision: &Provision,
+    source: ReferenceSource<'_>,
     source_span: &str,
     source_range: Range<usize>,
     target_provision_id: String,
     qualifiers: Vec<ReferenceQualifier>,
     reference_form: ReferenceForm,
-    target_ids: &HashSet<&str>,
+    known_targets: &HashSet<String>,
 ) -> ReferenceEdge {
-    let start_char = provision.text[..source_range.start].chars().count();
-    let end_char = start_char + provision.text[source_range].chars().count();
+    let start_char = source.text[..source_range.start].chars().count();
+    let end_char = start_char + source.text[source_range].chars().count();
     let target_slug = target_provision_id.rsplit(':').next().unwrap_or("unknown");
     let form_slug = match reference_form {
         ReferenceForm::Direct => "direct",
         ReferenceForm::RangeExpansion => "range",
     };
-    let resolution_status = if target_ids.contains(target_provision_id.as_str()) {
+    let resolution_status = if known_targets.contains(target_provision_id.as_str()) {
         ReferenceResolutionStatus::Resolved
     } else {
         ReferenceResolutionStatus::Unresolved
     };
+    let target_instrument_id = target_provision_id
+        .rsplit_once(":article:")
+        .or_else(|| target_provision_id.rsplit_once(":transitory:"))
+        .or_else(|| target_provision_id.rsplit_once(":annex:"))
+        .map_or(source.instrument_id, |(instrument, _)| instrument);
     ReferenceEdge {
         schema_version: SCHEMA_VERSION.to_owned(),
         id: format!(
             "{}:reference:{start_char}-{end_char}:{target_slug}:{form_slug}",
-            provision.id
+            source.source_id
         ),
-        source_provision_id: provision.id.clone(),
+        source_provision_id: source.source_id.to_owned(),
         source_span: source_span.to_owned(),
         start_char,
         end_char,
-        target_instrument_id: provision.instrument_id.clone(),
+        target_instrument_id: target_instrument_id.to_owned(),
         target_provision_id,
         qualifiers,
         basis: Basis::ExpressCrossReference,
@@ -395,18 +615,29 @@ fn reference_edge(
     }
 }
 
-fn canonical_article_id(number: &str) -> String {
+fn canonical_article_id(instrument_id: &str, number: &str) -> String {
     let canonical_number = number
         .split_whitespace()
         .collect::<Vec<_>>()
         .join("-")
         .to_lowercase();
-    format!("{LRITF_INSTRUMENT_ID}:article:{canonical_number}")
+    format!("{instrument_id}:article:{canonical_number}")
 }
 
 fn numeric_article_number(number: &str) -> Option<u32> {
     number.trim().parse().ok()
 }
+
+const EXTERNAL_INSTRUMENT_MARKERS: &[&str] = &[
+    "de la ley ",
+    "del código ",
+    "de la constitución ",
+    "del reglamento ",
+    "de dicha ley",
+    "de esa ley",
+    "de este código",
+    "del presente código",
+];
 
 fn has_internal_instrument_context(value: &str) -> bool {
     [
@@ -420,18 +651,9 @@ fn has_internal_instrument_context(value: &str) -> bool {
 }
 
 fn has_external_instrument_context(value: &str) -> bool {
-    [
-        "de la ley ",
-        "del código ",
-        "de la constitución ",
-        "del reglamento ",
-        "de dicha ley",
-        "de esa ley",
-        "de este código",
-        "del presente código",
-    ]
-    .iter()
-    .any(|marker| value.contains(marker))
+    EXTERNAL_INSTRUMENT_MARKERS
+        .iter()
+        .any(|marker| value.contains(marker))
 }
 
 fn extract_qualifiers(
@@ -540,12 +762,54 @@ pub fn extract_reform_transitories(raw: &str) -> Result<Vec<TemporalEvidence>> {
     Ok(evidence)
 }
 
+#[derive(Debug, Clone, Default)]
+pub struct CorpusExpectations {
+    pub min_articles: usize,
+    /// Exact article count for closed instruments.
+    pub articles: Option<usize>,
+    pub transitories: usize,
+    pub annexes: usize,
+    /// Require every article to carry chapter heading context.
+    pub require_chapter_context: bool,
+}
+
 #[must_use]
 pub fn validate_lritf(
     provisions: &[Provision],
     references: &[ReferenceEdge],
     expected_min_articles: usize,
     expected_transitories: usize,
+) -> ValidationReport {
+    validate_corpus(
+        LRITF_INSTRUMENT_ID,
+        None,
+        provisions,
+        references,
+        &CorpusExpectations {
+            min_articles: expected_min_articles,
+            articles: None,
+            transitories: expected_transitories,
+            annexes: 0,
+            require_chapter_context: false,
+        },
+        &HashSet::new(),
+    )
+}
+
+/// Validate one instrument's canonical corpus. `official_title` anchors
+/// reference edges whose source is the instrument itself (title citations).
+/// `external_targets` holds canonical provision identifiers of every other
+/// loaded instrument, so cross-instrument edges can be checked for existing
+/// targets.
+#[must_use]
+#[allow(clippy::implicit_hasher)]
+pub fn validate_corpus(
+    instrument_id: &str,
+    official_title: Option<&str>,
+    provisions: &[Provision],
+    references: &[ReferenceEdge],
+    expectations: &CorpusExpectations,
+    external_targets: &HashSet<String>,
 ) -> ValidationReport {
     let article_count = provisions
         .iter()
@@ -555,25 +819,96 @@ pub fn validate_lritf(
         .iter()
         .filter(|item| item.provision_type == ProvisionType::Transitory)
         .count();
+    let annex_count = provisions
+        .iter()
+        .filter(|item| item.provision_type == ProvisionType::Annex)
+        .count();
     let mut issues = Vec::new();
 
-    if article_count < expected_min_articles {
+    validate_counts(
+        article_count,
+        transitory_count,
+        annex_count,
+        expectations,
+        &mut issues,
+    );
+    validate_provisions(provisions, expectations, &mut issues);
+    validate_references(
+        instrument_id,
+        official_title,
+        provisions,
+        references,
+        external_targets,
+        &mut issues,
+    );
+
+    ValidationReport {
+        schema_version: SCHEMA_VERSION.to_owned(),
+        instrument_id: instrument_id.to_owned(),
+        valid: !issues.iter().any(|item| item.severity == Severity::Error),
+        article_count,
+        transitory_count,
+        reference_count: references.len(),
+        issues,
+    }
+}
+
+fn validate_counts(
+    article_count: usize,
+    transitory_count: usize,
+    annex_count: usize,
+    expectations: &CorpusExpectations,
+    issues: &mut Vec<ValidationIssue>,
+) {
+    if article_count < expectations.min_articles {
         issues.push(error(
             "article_count",
-            format!("expected at least {expected_min_articles} articles, found {article_count}"),
+            format!(
+                "expected at least {} articles, found {article_count}",
+                expectations.min_articles
+            ),
             None,
         ));
     }
-    if transitory_count != expected_transitories {
+    if let Some(expected) = expectations.articles
+        && article_count != expected
+    {
+        issues.push(error(
+            "article_count_exact",
+            format!("expected exactly {expected} articles, found {article_count}"),
+            None,
+        ));
+    }
+    if transitory_count != expectations.transitories {
         issues.push(error(
             "transitory_count",
-            format!("expected {expected_transitories} transitories, found {transitory_count}"),
+            format!(
+                "expected {} transitories, found {transitory_count}",
+                expectations.transitories
+            ),
             None,
         ));
     }
+    if annex_count != expectations.annexes {
+        issues.push(error(
+            "annex_count",
+            format!(
+                "expected {} annexes, found {annex_count}",
+                expectations.annexes
+            ),
+            None,
+        ));
+    }
+}
 
+fn validate_provisions(
+    provisions: &[Provision],
+    expectations: &CorpusExpectations,
+    issues: &mut Vec<ValidationIssue>,
+) {
     let mut ids = HashSet::new();
     let mut expected_number = 1_u32;
+    let mut expected_annex = 1_u32;
     for provision in provisions {
         if !ids.insert(&provision.id) {
             issues.push(error(
@@ -600,40 +935,56 @@ pub fn validate_lritf(
                 Some(provision.id.clone()),
             ));
         }
-        if provision.provision_type == ProvisionType::Article {
-            match provision.number.parse::<u32>() {
-                Ok(number) if number == expected_number => expected_number += 1,
+        match provision.provision_type {
+            ProvisionType::Article => {
+                match provision.number.parse::<u32>() {
+                    Ok(number) if number == expected_number => expected_number += 1,
+                    Ok(number) => issues.push(error(
+                        "article_order",
+                        format!("expected article {expected_number}, found {number}"),
+                        Some(provision.id.clone()),
+                    )),
+                    Err(_) => issues.push(ValidationIssue {
+                        severity: Severity::Warning,
+                        code: "non_numeric_article".to_owned(),
+                        message: "article suffix requires ordering review".to_owned(),
+                        provision_id: Some(provision.id.clone()),
+                    }),
+                }
+                if expectations.require_chapter_context
+                    && provision.heading_context.chapter.is_none()
+                {
+                    issues.push(error(
+                        "missing_chapter_context",
+                        "article lacks chapter heading context".to_owned(),
+                        Some(provision.id.clone()),
+                    ));
+                }
+            }
+            ProvisionType::Annex => match provision.number.parse::<u32>() {
+                Ok(number) if number == expected_annex => expected_annex += 1,
                 Ok(number) => issues.push(error(
-                    "article_order",
-                    format!("expected article {expected_number}, found {number}"),
+                    "annex_order",
+                    format!("expected annex {expected_annex}, found {number}"),
                     Some(provision.id.clone()),
                 )),
-                Err(_) => issues.push(ValidationIssue {
-                    severity: Severity::Warning,
-                    code: "non_numeric_article".to_owned(),
-                    message: "article suffix requires ordering review".to_owned(),
-                    provision_id: Some(provision.id.clone()),
-                }),
-            }
+                Err(_) => issues.push(error(
+                    "non_numeric_annex",
+                    "annex number is not numeric".to_owned(),
+                    Some(provision.id.clone()),
+                )),
+            },
+            ProvisionType::Transitory => {}
         }
-    }
-
-    validate_references(provisions, references, &mut issues);
-
-    ValidationReport {
-        schema_version: SCHEMA_VERSION.to_owned(),
-        instrument_id: LRITF_INSTRUMENT_ID.to_owned(),
-        valid: !issues.iter().any(|item| item.severity == Severity::Error),
-        article_count,
-        transitory_count,
-        reference_count: references.len(),
-        issues,
     }
 }
 
 fn validate_references(
+    instrument_id: &str,
+    official_title: Option<&str>,
     provisions: &[Provision],
     references: &[ReferenceEdge],
+    external_targets: &HashSet<String>,
     issues: &mut Vec<ValidationIssue>,
 ) {
     let provisions_by_id: HashMap<_, _> = provisions
@@ -649,16 +1000,33 @@ fn validate_references(
                 Some(reference.source_provision_id.clone()),
             ));
         }
-        validate_reference(reference, &provisions_by_id, issues);
+        validate_reference(
+            instrument_id,
+            official_title,
+            reference,
+            &provisions_by_id,
+            external_targets,
+            issues,
+        );
     }
 }
 
 fn validate_reference(
+    instrument_id: &str,
+    official_title: Option<&str>,
     reference: &ReferenceEdge,
     provisions_by_id: &HashMap<&str, &Provision>,
+    external_targets: &HashSet<String>,
     issues: &mut Vec<ValidationIssue>,
 ) {
-    let Some(source) = provisions_by_id.get(reference.source_provision_id.as_str()) else {
+    let source_text = if reference.source_provision_id == instrument_id {
+        official_title
+    } else {
+        provisions_by_id
+            .get(reference.source_provision_id.as_str())
+            .map(|source| source.text.as_str())
+    };
+    let Some(source_text) = source_text else {
         issues.push(error(
             "reference_source_missing",
             format!(
@@ -669,15 +1037,14 @@ fn validate_reference(
         ));
         return;
     };
-    validate_reference_span(reference, source, issues);
-    if reference.target_instrument_id != source.instrument_id {
-        issues.push(error(
-            "reference_instrument_mismatch",
-            "internal reference target instrument differs from its source instrument".to_owned(),
-            Some(reference.source_provision_id.clone()),
-        ));
-    }
-    validate_reference_target(reference, provisions_by_id, issues);
+    validate_reference_span(reference, source_text, issues);
+    validate_reference_target(
+        instrument_id,
+        reference,
+        provisions_by_id,
+        external_targets,
+        issues,
+    );
     if reference.basis != Basis::ExpressCrossReference {
         issues.push(error(
             "reference_basis",
@@ -696,10 +1063,10 @@ fn validate_reference(
 
 fn validate_reference_span(
     reference: &ReferenceEdge,
-    source: &Provision,
+    source_text: &str,
     issues: &mut Vec<ValidationIssue>,
 ) {
-    match char_slice(&source.text, reference.start_char, reference.end_char) {
+    match char_slice(source_text, reference.start_char, reference.end_char) {
         Some(span) if span == reference.source_span => {}
         Some(span) => issues.push(error(
             "reference_span_mismatch",
@@ -721,11 +1088,23 @@ fn validate_reference_span(
 }
 
 fn validate_reference_target(
+    instrument_id: &str,
     reference: &ReferenceEdge,
     provisions_by_id: &HashMap<&str, &Provision>,
+    external_targets: &HashSet<String>,
     issues: &mut Vec<ValidationIssue>,
 ) {
-    let target_exists = provisions_by_id.contains_key(reference.target_provision_id.as_str());
+    let cross_instrument = reference.target_instrument_id != instrument_id;
+    let target_exists = if cross_instrument {
+        external_targets.contains(reference.target_provision_id.as_str())
+    } else {
+        provisions_by_id.contains_key(reference.target_provision_id.as_str())
+    };
+    let scope = if cross_instrument {
+        "cross-instrument"
+    } else {
+        "internal"
+    };
     let (code, message) = match (&reference.resolution_status, target_exists) {
         (ReferenceResolutionStatus::Resolved, false) => (
             "resolved_reference_target_missing",
@@ -744,7 +1123,7 @@ fn validate_reference_target(
         (ReferenceResolutionStatus::Unresolved, false) => (
             "unresolved_internal_reference",
             format!(
-                "internal reference target does not exist: {}",
+                "{scope} reference target does not exist: {}",
                 reference.target_provision_id
             ),
         ),
@@ -991,6 +1370,7 @@ impl ProvisionBuilder {
         let kind = match self.provision_type {
             ProvisionType::Article => "article",
             ProvisionType::Transitory => "transitory",
+            ProvisionType::Annex => "annex",
         };
         let canonical_number = if self.provision_type == ProvisionType::Article {
             self.number.to_lowercase().replace(' ', "-")
@@ -1007,6 +1387,8 @@ impl ProvisionBuilder {
             heading_context: HeadingContext {
                 title: self.title,
                 chapter: self.chapter,
+                section: None,
+                apartado: None,
             },
             text: self.blocks.join("\n\n"),
             publication_date,

@@ -19,7 +19,7 @@
   "properties": {
     "schema_version": { "const": "0.1.0" },
     "instrument_id": { "type": "string", "pattern": "^urn:lex-mx:" },
-    "operational_source": { "const": "camara_de_diputados" },
+    "operational_source": { "enum": ["camara_de_diputados", "cnbv", "dof"] },
     "formal_publication_source": { "const": "dof" },
     "publisher": { "type": "string", "minLength": 1 },
     "official_url": { "type": "string", "format": "uri" },

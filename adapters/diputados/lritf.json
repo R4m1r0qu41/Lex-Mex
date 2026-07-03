@@ -1,7 +1,11 @@
 {
   "slug": "lritf",
+  "instrument_id": "urn:lex-mx:federal:statute:lritf",
+  "instrument_type": "statute",
+  "parser": "lritf",
   "official_title": "Ley para Regular las Instituciones de Tecnología Financiera",
   "short_name": "LRITF",
+  "operational_source": "camara_de_diputados",
   "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRITF.pdf",
   "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lritf.htm",
   "publisher": "Cámara de Diputados del H. Congreso de la Unión",

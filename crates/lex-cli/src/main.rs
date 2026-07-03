@@ -1,4 +1,5 @@
 use std::{
+    collections::HashSet,
     fs,
     io::Write as _,
     path::{Path, PathBuf},
@@ -9,20 +10,23 @@ use anyhow::{Context, Result, bail};
 use chrono::{NaiveDate, Utc};
 use clap::{Parser, Subcommand, ValueEnum};
 use lex_core::{
-    Corpus, Instrument, InstrumentStatus, InstrumentType, LRITF_INSTRUMENT_ID, ProvisionType,
-    ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest,
-    TemporalAnalysisMetadata, TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence,
-    TemporalModelBatch, TemporalReviewResolution, TemporalStatus, TransitoryEffect,
-    apply_temporal_determinations, preserve_temporal_review_history, resolve_temporal_review,
-    route_temporal_analysis,
+    Corpus, Instrument, InstrumentStatus, InstrumentType, ProvisionType, ReviewItem,
+    ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest, TemporalAnalysisMetadata,
+    TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence, TemporalModelBatch,
+    TemporalReviewResolution, TemporalStatus, TransitoryEffect, apply_temporal_determinations,
+    preserve_temporal_review_history, resolve_temporal_review, route_temporal_analysis,
 };
-use lex_export::{write_canonical, write_markdown, write_obsidian, write_validation};
+use lex_export::{
+    LinkTargets, link_targets, write_canonical, write_markdown, write_obsidian, write_validation,
+};
 use lex_parse::{
-    extract_internal_references, extract_pdf, extract_reform_transitories, parse_lritf,
-    validate_lritf,
+    CorpusExpectations, InstrumentContextPolicy, ReferenceOptions, extract_html_text,
+    extract_internal_references, extract_pdf, extract_references, extract_reform_transitories,
+    parse_dcg, parse_lritf, validate_corpus,
 };
 use lex_source::{
-    SourceConfig, discover, fetch, load_config, sha256_hex, write_acquisition, write_manifest,
+    SourceConfig, discover, fetch, fetch_formal, load_config, sha256_hex, write_acquisition,
+    write_manifest,
 };
 use regex::Regex;
 
@@ -186,40 +190,39 @@ fn main() -> Result<()> {
 
     match cli.command {
         Command::Discover { source } => {
-            if source != "diputados" {
-                bail!("unsupported source {source:?}; expected \"diputados\"");
+            let configs = discover_source_configs(&root, &source)?;
+            for config in &configs {
+                println!("{}", serde_json::to_string_pretty(&discover(config))?);
             }
-            let config = config(&root)?;
-            println!("{}", serde_json::to_string_pretty(&discover(&config))?);
         }
         Command::Fetch { instrument } => {
-            require_lritf(&instrument)?;
-            run_fetch(&root)?;
+            let context = instrument_context(&root, &instrument)?;
+            run_fetch(&context)?;
         }
         Command::Extract { instrument } => {
-            require_lritf(&instrument)?;
-            run_extract(&root)?;
+            let context = instrument_context(&root, &instrument)?;
+            run_extract(&context)?;
         }
         Command::Parse { instrument } => {
-            require_lritf(&instrument)?;
-            run_parse(&root)?;
+            let context = instrument_context(&root, &instrument)?;
+            run_parse(&root, &context)?;
         }
         Command::Link { instrument } => {
-            require_lritf(&instrument)?;
-            run_link(&root)?;
+            let context = instrument_context(&root, &instrument)?;
+            run_link(&root, &context)?;
         }
         Command::AnalyzeTemporal {
             instrument,
             provider,
             model,
         } => {
-            require_lritf(&instrument)?;
-            run_temporal_request(&root)?;
+            let context = instrument_context(&root, &instrument)?;
+            run_temporal_request(&context)?;
             if provider == TemporalProvider::Codex {
-                run_codex_temporal(&root, &model)?;
-                run_export(&root, ExportFormat::Markdown, None)?;
+                run_codex_temporal(&root, &context, &model)?;
+                run_export(&root, &context, ExportFormat::Markdown, None)?;
                 if let Some(vault) = &obsidian_vault {
-                    run_export(&root, ExportFormat::Obsidian, Some(vault))?;
+                    run_export(&root, &context, ExportFormat::Obsidian, Some(vault))?;
                 }
             }
         }
@@ -229,23 +232,26 @@ fn main() -> Result<()> {
             model,
             response_id,
         } => {
-            require_lritf(&instrument)?;
-            run_temporal_import(&root, &response, &model, response_id)?;
-            run_export(&root, ExportFormat::Markdown, None)?;
+            let context = instrument_context(&root, &instrument)?;
+            run_temporal_import(&context, &response, &model, response_id)?;
+            run_export(&root, &context, ExportFormat::Markdown, None)?;
             if let Some(vault) = &obsidian_vault {
-                run_export(&root, ExportFormat::Obsidian, Some(vault))?;
+                run_export(&root, &context, ExportFormat::Obsidian, Some(vault))?;
             }
         }
         Command::Validate { instrument } => {
-            require_lritf(&instrument)?;
-            let report = run_validate(&root)?;
+            let context = instrument_context(&root, &instrument)?;
+            let report = run_validate(&root, &context)?;
             if !report.valid {
-                bail!("corpus validation failed; inspect corpus/mx/lritf/validation.json");
+                bail!(
+                    "corpus validation failed; inspect {}",
+                    context.paths.corpus.join("validation.json").display()
+                );
             }
         }
         Command::Export { instrument, format } => {
-            require_lritf(&instrument)?;
-            run_export(&root, format, obsidian_vault.as_deref())?;
+            let context = instrument_context(&root, &instrument)?;
+            run_export(&root, &context, format, obsidian_vault.as_deref())?;
         }
         Command::Pipeline {
             instrument,
@@ -253,9 +259,10 @@ fn main() -> Result<()> {
             temporal_provider,
             temporal_model,
         } => {
-            require_lritf(&instrument)?;
+            let context = instrument_context(&root, &instrument)?;
             run_pipeline(
                 &root,
+                &context,
                 obsidian_vault.as_deref(),
                 keep_work,
                 temporal_provider,
@@ -263,40 +270,116 @@ fn main() -> Result<()> {
             )?;
         }
         Command::Review { command } => {
-            run_review_command(&root, obsidian_vault.as_deref(), command)?;
+            let context = instrument_context(&root, "lritf")?;
+            run_review_command(&root, &context, obsidian_vault.as_deref(), command)?;
         }
     }
     Ok(())
 }
 
+/// One instrument's adapter configuration and working paths.
+struct InstrumentContext {
+    config: SourceConfig,
+    paths: Paths,
+}
+
+fn instrument_context(root: &Path, slug: &str) -> Result<InstrumentContext> {
+    let config = find_adapter(root, slug)?;
+    let paths = Paths::new(root, slug);
+    Ok(InstrumentContext { config, paths })
+}
+
+fn find_adapter(root: &Path, slug: &str) -> Result<SourceConfig> {
+    for path in adapter_paths(root)? {
+        let config = load_config(&path)?;
+        if config.slug == slug {
+            return Ok(config);
+        }
+    }
+    bail!("no adapter configuration found for instrument {slug:?} under adapters/")
+}
+
+fn discover_source_configs(root: &Path, source: &str) -> Result<Vec<SourceConfig>> {
+    let source_dir = root.join("adapters").join(source);
+    if !source_dir.is_dir() {
+        bail!("unsupported source {source:?}; expected a directory under adapters/");
+    }
+    let mut configs = Vec::new();
+    let mut entries: Vec<_> = fs::read_dir(&source_dir)?
+        .collect::<Result<Vec<_>, _>>()?
+        .into_iter()
+        .map(|entry| entry.path())
+        .filter(|path| {
+            path.extension()
+                .is_some_and(|extension| extension == "json")
+        })
+        .collect();
+    entries.sort();
+    for path in entries {
+        configs.push(load_config(&path)?);
+    }
+    if configs.is_empty() {
+        bail!(
+            "no adapter configurations found under {}",
+            source_dir.display()
+        );
+    }
+    Ok(configs)
+}
+
+fn adapter_paths(root: &Path) -> Result<Vec<PathBuf>> {
+    let adapters = root.join("adapters");
+    let mut paths = Vec::new();
+    for entry in
+        fs::read_dir(&adapters).with_context(|| format!("failed to read {}", adapters.display()))?
+    {
+        let directory = entry?.path();
+        if !directory.is_dir() {
+            continue;
+        }
+        for file in fs::read_dir(&directory)? {
+            let path = file?.path();
+            if path
+                .extension()
+                .is_some_and(|extension| extension == "json")
+            {
+                paths.push(path);
+            }
+        }
+    }
+    paths.sort();
+    Ok(paths)
+}
+
 fn run_pipeline(
     root: &Path,
+    context: &InstrumentContext,
     obsidian_vault: Option<&Path>,
     keep_work: bool,
     temporal_provider: TemporalProvider,
     temporal_model: &str,
 ) -> Result<()> {
-    run_fetch(root)?;
-    run_extract(root)?;
-    run_parse(root)?;
-    run_temporal_request(root)?;
-    let report = run_validate(root)?;
+    run_fetch(context)?;
+    run_extract(context)?;
+    run_parse(root, context)?;
+    run_temporal_request(context)?;
+    let report = run_validate(root, context)?;
     if !report.valid {
         bail!("pipeline stopped: validation failed");
     }
     if temporal_provider == TemporalProvider::Codex {
-        run_codex_temporal(root, temporal_model)?;
+        run_codex_temporal(root, context, temporal_model)?;
     }
-    run_export(root, ExportFormat::Markdown, None)?;
+    run_export(root, context, ExportFormat::Markdown, None)?;
     if let Some(vault) = obsidian_vault {
-        run_export(root, ExportFormat::Obsidian, Some(vault))?;
+        run_export(root, context, ExportFormat::Obsidian, Some(vault))?;
     } else {
         println!(
             "skipped Obsidian publication; pass --obsidian-vault or set LEX_MEX_OBSIDIAN_VAULT"
         );
     }
     if !keep_work {
-        cleanup_work(root)?;
+        cleanup_work(context)?;
     }
     println!(
         "pipeline complete: {} articles, {} transitories",
@@ -305,22 +388,33 @@ fn run_pipeline(
     Ok(())
 }
 
-fn run_fetch(root: &Path) -> Result<()> {
-    let source = config(root)?;
-    let acquisition = fetch(&source)?;
-    let paths = Paths::new(root);
-    write_acquisition(&acquisition, &paths.pdf, &paths.manifest)?;
+fn run_fetch(context: &InstrumentContext) -> Result<()> {
+    let acquisition = fetch(&context.config)?;
+    write_acquisition(&acquisition, &context.paths.pdf, &context.paths.manifest)?;
     println!(
         "fetched {} bytes; sha256 {}",
         acquisition.bytes.len(),
         acquisition.manifest.source_sha256
     );
+    if let Some(formal) = fetch_formal(&context.config)? {
+        write_acquisition(
+            &formal,
+            &context.paths.formal_source,
+            &context.paths.formal_manifest,
+        )?;
+        println!(
+            "fetched formal publication: {} bytes; sha256 {}",
+            formal.bytes.len(),
+            formal.manifest.source_sha256
+        );
+    }
     Ok(())
 }
 
-fn run_extract(root: &Path) -> Result<()> {
-    let paths = Paths::new(root);
-    let extraction = extract_pdf(&paths.pdf, &paths.text)?;
+fn run_extract(context: &InstrumentContext) -> Result<()> {
+    let paths = &context.paths;
+    let keep_page_breaks = context.config.parser == "ifpe-dcg";
+    let extraction = extract_pdf(&paths.pdf, &paths.text, keep_page_breaks)?;
     let mut manifest: SourceManifest = read_json(&paths.manifest)?;
     manifest.extracted_text_sha256 = Some(sha256_hex(extraction.text.as_bytes()));
     manifest.extraction_tool = Some(extraction.tool_version);
@@ -333,29 +427,79 @@ fn run_extract(root: &Path) -> Result<()> {
             .as_deref()
             .unwrap_or("unavailable")
     );
+    if context.config.formal_source.is_some() {
+        let bytes = fs::read(&paths.formal_source).with_context(|| {
+            format!(
+                "failed to read {}; run fetch first",
+                paths.formal_source.display()
+            )
+        })?;
+        let text = extract_html_text(&bytes);
+        if text.trim().is_empty() {
+            bail!("formal source extraction produced empty output");
+        }
+        fs::write(&paths.formal_text, &text)?;
+        let mut formal_manifest: SourceManifest = read_json(&paths.formal_manifest)?;
+        formal_manifest.extracted_text_sha256 = Some(sha256_hex(text.as_bytes()));
+        formal_manifest.extraction_tool =
+            Some(concat!("lex-parse html extractor ", env!("CARGO_PKG_VERSION")).to_owned());
+        write_manifest(&formal_manifest, &paths.formal_manifest)?;
+        println!(
+            "extracted formal publication: {} UTF-8 bytes; sha256 {}",
+            text.len(),
+            formal_manifest
+                .extracted_text_sha256
+                .as_deref()
+                .unwrap_or("unavailable")
+        );
+    }
     Ok(())
 }
 
-fn run_parse(root: &Path) -> Result<()> {
-    let paths = Paths::new(root);
-    let source = config(root)?;
+fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
+    let paths = &context.paths;
+    let config = &context.config;
     let manifest: SourceManifest = read_json(&paths.manifest)?;
     let raw = fs::read_to_string(&paths.text)
         .with_context(|| format!("failed to read {}", paths.text.display()))?;
-    let publication_date = NaiveDate::parse_from_str(&source.publication_date, "%Y-%m-%d")?;
-    let provisions = parse_lritf(&raw, publication_date)?;
+    let publication_date = NaiveDate::parse_from_str(&config.publication_date, "%Y-%m-%d")?;
     let extracted_text_sha256 = manifest
         .extracted_text_sha256
         .clone()
         .context("manifest lacks extracted text hash; run extract first")?;
+
+    let (provisions, formal_manifest) = match config.parser.as_str() {
+        "lritf" => (parse_lritf(&raw, publication_date)?, None),
+        "ifpe-dcg" => {
+            let formal_text = fs::read_to_string(&paths.formal_text).with_context(|| {
+                format!(
+                    "failed to read {}; run extract first",
+                    paths.formal_text.display()
+                )
+            })?;
+            let formal_manifest: SourceManifest = read_json(&paths.formal_manifest)?;
+            (
+                parse_dcg(
+                    &raw,
+                    &formal_text,
+                    &config.instrument_id,
+                    publication_date,
+                    &config.definition_layout_articles,
+                )?,
+                Some(formal_manifest),
+            )
+        }
+        other => bail!("unsupported parser {other:?} in adapter configuration"),
+    };
+
     let instrument = Instrument {
         schema_version: SCHEMA_VERSION.to_owned(),
-        id: LRITF_INSTRUMENT_ID.to_owned(),
+        id: config.instrument_id.clone(),
         jurisdiction: "mx".to_owned(),
         level: "federal".to_owned(),
-        instrument_type: InstrumentType::Statute,
-        official_title: source.official_title,
-        short_name: source.short_name,
+        instrument_type: instrument_type(&config.instrument_type)?,
+        official_title: config.official_title.clone(),
+        short_name: config.short_name.clone(),
         operational_source: manifest.operational_source.clone(),
         formal_publication_source: manifest.formal_publication_source.clone(),
         publication_date,
@@ -366,43 +510,95 @@ fn run_parse(root: &Path) -> Result<()> {
         extracted_text_sha256,
         parser_version: env!("CARGO_PKG_VERSION").to_owned(),
         status: InstrumentStatus::InForce,
+        issuing_authorities: config.issuing_authorities.clone(),
+        formal_publication_url: config
+            .formal_source
+            .as_ref()
+            .map(|formal| formal.url.clone()),
+        formal_publication_code: config
+            .formal_source
+            .as_ref()
+            .map(|formal| formal.publication_code.clone()),
+        formal_source_sha256: formal_manifest
+            .as_ref()
+            .map(|manifest| manifest.source_sha256.clone()),
+        formal_extracted_text_sha256: formal_manifest
+            .as_ref()
+            .and_then(|manifest| manifest.extracted_text_sha256.clone()),
     };
-    let references = extract_internal_references(&provisions)?;
+    let references = extract_instrument_references(root, context, &instrument, &provisions)?;
     let corpus = Corpus {
         instrument,
         provisions,
         references,
     };
     write_canonical(&corpus, &paths.corpus)?;
-    let reform_evidence = extract_reform_transitories(&raw)?;
-    write_pretty_json(&reform_evidence, &paths.reform_evidence)?;
     println!("parsed {} canonical provisions", corpus.provisions.len());
-    println!(
-        "extracted {} canonical internal references",
-        corpus.references.len()
-    );
-    println!(
-        "isolated {} reform-decree transitories for temporal analysis",
-        reform_evidence.len()
-    );
+    println!("extracted {} canonical references", corpus.references.len());
+    if config.parser == "lritf" {
+        let reform_evidence = extract_reform_transitories(&raw)?;
+        write_pretty_json(&reform_evidence, &paths.reform_evidence)?;
+        println!(
+            "isolated {} reform-decree transitories for temporal analysis",
+            reform_evidence.len()
+        );
+    }
     Ok(())
 }
 
-fn run_link(root: &Path) -> Result<()> {
-    let paths = Paths::new(root);
-    let mut corpus = read_corpus(&paths)?;
-    corpus.references = extract_internal_references(&corpus.provisions)?;
+/// Extract this instrument's reference edges, resolving targets against
+/// every instrument committed under `corpus/mx/`.
+fn extract_instrument_references(
+    root: &Path,
+    context: &InstrumentContext,
+    instrument: &Instrument,
+    provisions: &[lex_core::Provision],
+) -> Result<Vec<lex_core::ReferenceEdge>> {
+    if context.config.parser == "lritf" {
+        return extract_internal_references(provisions);
+    }
+    let mut known_targets: HashSet<String> =
+        provisions.iter().map(|item| item.id.clone()).collect();
+    for (_, corpus) in read_sibling_corpora(root, &instrument.id)? {
+        known_targets.extend(corpus.provisions.iter().map(|item| item.id.clone()));
+    }
+    let options = ReferenceOptions {
+        policy: InstrumentContextPolicy::SentenceEarliestMarker {
+            internal_markers: context
+                .config
+                .internal_reference_markers
+                .clone()
+                .unwrap_or_default(),
+            external_instruments: context
+                .config
+                .external_instruments
+                .iter()
+                .map(|external| (external.name_marker.clone(), external.instrument_id.clone()))
+                .collect(),
+        },
+        transitory_citations: true,
+    };
+    extract_references(
+        provisions,
+        Some((instrument.id.as_str(), instrument.official_title.as_str())),
+        &options,
+        &known_targets,
+    )
+}
+
+fn run_link(root: &Path, context: &InstrumentContext) -> Result<()> {
+    let paths = &context.paths;
+    let mut corpus = read_corpus(paths)?;
+    corpus.references =
+        extract_instrument_references(root, context, &corpus.instrument, &corpus.provisions)?;
     write_canonical(&corpus, &paths.corpus)?;
-    println!(
-        "extracted {} canonical internal references",
-        corpus.references.len()
-    );
+    println!("extracted {} canonical references", corpus.references.len());
     Ok(())
 }
 
-fn run_temporal_request(root: &Path) -> Result<()> {
-    let paths = Paths::new(root);
-    let corpus = read_corpus(&paths)?;
+fn run_temporal_request(context: &InstrumentContext) -> Result<()> {
+    let paths = &context.paths;
+    let corpus = read_corpus(paths)?;
     let mut evidence: Vec<TemporalEvidence> = corpus
         .provisions
         .iter()
@@ -413,20 +609,25 @@ fn run_temporal_request(root: &Path) -> Result<()> {
             text: item.text.clone(),
         })
         .collect();
-    let mut reform_evidence: Vec<TemporalEvidence> = read_json(&paths.reform_evidence)?;
-    let source = config(root)?;
-    reform_evidence.retain(|evidence| {
-        source
-            .relevant_reform_transitories
-            .iter()
-            .any(|(date, ordinals)| {
-                ordinals.iter().any(|ordinal| {
-                    evidence.provision_id
-                        == format!("{LRITF_INSTRUMENT_ID}:amendment:{date}:transitory:{ordinal}")
+    if paths.reform_evidence.exists() {
+        let mut reform_evidence: Vec<TemporalEvidence> = read_json(&paths.reform_evidence)?;
+        let config = &context.config;
+        reform_evidence.retain(|evidence| {
+            config
+                .relevant_reform_transitories
+                .iter()
+                .any(|(date, ordinals)| {
+                    ordinals.iter().any(|ordinal| {
+                        evidence.provision_id
+                            == format!(
+                                "{}:amendment:{date}:transitory:{ordinal}",
+                                config.instrument_id
+                            )
+                    })
                 })
-            })
-    });
-    evidence.append(&mut reform_evidence);
+        });
+        evidence.append(&mut reform_evidence);
+    }
     let request = TemporalAnalysisRequest {
         schema_version: SCHEMA_VERSION.to_owned(),
         prompt_version: "temporal-v2".to_owned(),
@@ -444,8 +645,8 @@ fn run_temporal_request(root: &Path) -> Result<()> {
     Ok(())
 }
 
-fn run_codex_temporal(root: &Path, model: &str) -> Result<()> {
-    let paths = Paths::new(root);
+fn run_codex_temporal(root: &Path, context: &InstrumentContext, model: &str) -> Result<()> {
+    let paths = &context.paths;
     let request: TemporalAnalysisRequest = read_json(&paths.temporal_request)?;
     let prompt = fs::read_to_string(root.join("prompts/temporal-v2.md"))?;
     let input = format!(
@@ -484,16 +685,16 @@ fn run_codex_temporal(root: &Path, model: &str) -> Result<()> {
     if !status.success() {
         bail!("Codex temporal-analysis runner failed with status {status}");
     }
-    run_temporal_import(root, &paths.temporal_model_output, model, None)
+    run_temporal_import(context, &paths.temporal_model_output, model, None)
 }
 
 fn run_temporal_import(
-    root: &Path,
+    context: &InstrumentContext,
     response_path: &Path,
     model: &str,
     response_id: Option<String>,
 ) -> Result<()> {
-    let paths = Paths::new(root);
+    let paths = &context.paths;
     let request_bytes = fs::read(&paths.temporal_request)?;
     let request: TemporalAnalysisRequest = serde_json::from_slice(&request_bytes)?;
     let response_bytes = fs::read(response_path)?;
@@ -521,11 +722,11 @@ fn run_temporal_import(
             &previous_items,
         );
     }
-    enrich_review_context(&mut routed.review_items, &config(root)?);
+    enrich_review_context(&mut routed.review_items, &context.config);
     write_pretty_json(&routed.result, &paths.temporal_result)?;
     write_pretty_json(&routed.review_items, &paths.review_queue)?;
 
-    let mut corpus = read_corpus(&paths)?;
+    let mut corpus = read_corpus(paths)?;
     apply_temporal_determinations(&mut corpus.provisions, &routed.result.determinations);
     write_canonical(&corpus, &paths.corpus)?;
     let machine_accepted = routed
@@ -568,7 +769,8 @@ fn enrich_review_context(items: &mut [ReviewItem], source: &SourceConfig) {
                  amendment-event modeling."
                     .to_owned()
             } else {
-                "Initial enactment; there is no prior LRITF provision version.".to_owned()
+                "Initial enactment; there is no prior provision version for this instrument."
+                    .to_owned()
             }
         });
     }
@@ -576,11 +778,12 @@ fn enrich_review_context(items: &mut [ReviewItem], source: &SourceConfig) {
 
 fn run_review_command(
     root: &Path,
+    context: &InstrumentContext,
     obsidian_vault: Option<&Path>,
     command: ReviewCommand,
 ) -> Result<()> {
     match command {
-        ReviewCommand::List { all } => run_review_list(root, all),
+        ReviewCommand::List { all } => run_review_list(context, all),
         ReviewCommand::Resolve {
             review_id,
             resolution,
@@ -597,7 +800,7 @@ fn run_review_command(
                 .transpose()
                 .with_context(|| "failed to read --effects-file")?;
             run_review_resolve(
-                root,
+                context,
                 &review_id,
                 TemporalReviewResolution {
                     resolution: resolution.into(),
@@ -610,18 +813,17 @@ fn run_review_command(
                     resolved_at: Utc::now(),
                 },
             )?;
-            run_export(root, ExportFormat::Markdown, None)?;
+            run_export(root, context, ExportFormat::Markdown, None)?;
             if let Some(vault) = obsidian_vault {
-                run_export(root, ExportFormat::Obsidian, Some(vault))?;
+                run_export(root, context, ExportFormat::Obsidian, Some(vault))?;
             }
             Ok(())
         }
     }
 }
 
-fn run_review_list(root: &Path, all: bool) -> Result<()> {
-    let paths = Paths::new(root);
-    let items: Vec<ReviewItem> = read_json(&paths.review_queue)
+fn run_review_list(context: &InstrumentContext, all: bool) -> Result<()> {
+    let items: Vec<ReviewItem> = read_json(&context.paths.review_queue)
         .with_context(|| "review queue not found; run temporal analysis first")?;
     let visible: Vec<_> = items
         .iter()
@@ -654,11 +856,11 @@ fn run_review_list(root: &Path, all: bool) -> Result<()> {
 }
 
 fn run_review_resolve(
-    root: &Path,
+    context: &InstrumentContext,
     review_id: &str,
     resolution: TemporalReviewResolution,
 ) -> Result<()> {
-    let paths = Paths::new(root);
+    let paths = &context.paths;
     let mut items: Vec<ReviewItem> = read_json(&paths.review_queue)
         .with_context(|| "review queue not found; run temporal analysis first")?;
     let mut result: TemporalAnalysisResult = read_json(&paths.temporal_result)
@@ -671,22 +873,34 @@ fn run_review_resolve(
 
     write_pretty_json(&result, &paths.temporal_result)?;
     write_pretty_json(&items, &paths.review_queue)?;
-    let mut corpus = read_corpus(&paths)?;
+    let mut corpus = read_corpus(paths)?;
     apply_temporal_determinations(&mut corpus.provisions, &result.determinations);
     write_canonical(&corpus, &paths.corpus)?;
     println!("resolved {review_id}");
     Ok(())
 }
 
-fn run_validate(root: &Path) -> Result<lex_core::ValidationReport> {
-    let paths = Paths::new(root);
-    let source = config(root)?;
-    let corpus = read_corpus(&paths)?;
-    let report = validate_lritf(
+fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::ValidationReport> {
+    let paths = &context.paths;
+    let config = &context.config;
+    let corpus = read_corpus(paths)?;
+    let mut external_targets = HashSet::new();
+    for (_, sibling) in read_sibling_corpora(root, &corpus.instrument.id)? {
+        external_targets.extend(sibling.provisions.iter().map(|item| item.id.clone()));
+    }
+    let report = validate_corpus(
+        &corpus.instrument.id,
+        Some(corpus.instrument.official_title.as_str()),
         &corpus.provisions,
         &corpus.references,
-        source.expected_min_articles,
-        source.expected_transitories,
+        &CorpusExpectations {
+            min_articles: config.expected_min_articles,
+            articles: config.expected_articles,
+            transitories: config.expected_transitories,
+            annexes: config.expected_annexes,
+            require_chapter_context: config.parser == "ifpe-dcg",
+        },
+        &external_targets,
     );
     write_validation(&report, &paths.corpus)?;
     println!(
@@ -700,28 +914,91 @@ fn run_validate(root: &Path) -> Result<lex_core::ValidationReport> {
     Ok(report)
 }
 
-fn run_export(root: &Path, format: ExportFormat, obsidian_vault: Option<&Path>) -> Result<()> {
-    let paths = Paths::new(root);
-    let corpus = read_corpus(&paths)?;
+fn run_export(
+    root: &Path,
+    context: &InstrumentContext,
+    format: ExportFormat,
+    obsidian_vault: Option<&Path>,
+) -> Result<()> {
+    let paths = &context.paths;
+    let corpus = read_corpus(paths)?;
+    let siblings = read_sibling_corpora(root, &corpus.instrument.id)?;
+    let targets = build_link_targets(&corpus, &context.config.slug, &siblings);
     match format {
         ExportFormat::Json => write_canonical(&corpus, &paths.corpus)?,
-        ExportFormat::Markdown => write_markdown(&corpus, &paths.markdown)?,
+        ExportFormat::Markdown => write_markdown(&corpus, &targets, &paths.markdown)?,
         ExportFormat::Obsidian => {
             let vault = obsidian_vault.context(
                 "Obsidian export requires --obsidian-vault PATH or \
                  LEX_MEX_OBSIDIAN_VAULT",
             )?;
-            let review_items = if paths.review_queue.exists() {
-                read_json(&paths.review_queue)?
-            } else {
-                Vec::<ReviewItem>::new()
-            };
-            write_obsidian(&corpus, &review_items, vault)?;
+            let review_items = read_all_review_queues(root)?;
+            write_obsidian(&corpus, &targets, &review_items, vault)?;
             println!("published Obsidian vault {}", vault.display());
         }
     }
     println!("exported {format:?}");
     Ok(())
+}
+
+fn build_link_targets(corpus: &Corpus, slug: &str, siblings: &[(String, Corpus)]) -> LinkTargets {
+    let mut corpora: Vec<(&Corpus, &str)> = vec![(corpus, slug)];
+    corpora.extend(
+        siblings
+            .iter()
+            .map(|(sibling_slug, sibling)| (sibling, sibling_slug.as_str())),
+    );
+    link_targets(&corpora)
+}
+
+/// Read every committed corpus except `own_instrument_id`, keyed by its
+/// corpus directory slug.
+fn read_sibling_corpora(root: &Path, own_instrument_id: &str) -> Result<Vec<(String, Corpus)>> {
+    let corpus_root = root.join("corpus/mx");
+    let mut siblings = Vec::new();
+    if !corpus_root.is_dir() {
+        return Ok(siblings);
+    }
+    let mut directories: Vec<_> = fs::read_dir(&corpus_root)?
+        .collect::<Result<Vec<_>, _>>()?
+        .into_iter()
+        .map(|entry| entry.path())
+        .filter(|path| path.join("instrument.json").is_file())
+        .collect();
+    directories.sort();
+    for directory in directories {
+        let slug = directory
+            .file_name()
+            .and_then(|name| name.to_str())
+            .context("corpus directory name is not valid UTF-8")?
+            .to_owned();
+        let paths = Paths::new(root, &slug);
+        let corpus = read_corpus(&paths)?;
+        if corpus.instrument.id != own_instrument_id {
+            siblings.push((slug, corpus));
+        }
+    }
+    Ok(siblings)
+}
+
+fn read_all_review_queues(root: &Path) -> Result<Vec<ReviewItem>> {
+    let corpus_root = root.join("corpus/mx");
+    let mut items = Vec::new();
+    if !corpus_root.is_dir() {
+        return Ok(items);
+    }
+    let mut queues: Vec<_> = fs::read_dir(&corpus_root)?
+        .collect::<Result<Vec<_>, _>>()?
+        .into_iter()
+        .map(|entry| entry.path().join("review-queue.json"))
+        .filter(|path| path.is_file())
+        .collect();
+    queues.sort();
+    for queue in queues {
+        let mut queue_items: Vec<ReviewItem> = read_json(&queue)?;
+        items.append(&mut queue_items);
+    }
+    Ok(items)
 }
 
 fn read_corpus(paths: &Paths) -> Result<Corpus> {
@@ -736,8 +1013,17 @@ fn read_corpus(paths: &Paths) -> Result<Corpus> {
     })
 }
 
-fn config(root: &Path) -> Result<SourceConfig> {
-    load_config(&root.join("adapters/diputados/lritf.json"))
+fn instrument_type(value: &str) -> Result<InstrumentType> {
+    Ok(match value {
+        "constitution" => InstrumentType::Constitution,
+        "code" => InstrumentType::Code,
+        "statute" => InstrumentType::Statute,
+        "regulation" => InstrumentType::Regulation,
+        "guideline" => InstrumentType::Guideline,
+        "circular" => InstrumentType::Circular,
+        "other" => InstrumentType::Other,
+        unsupported => bail!("unsupported instrument type {unsupported:?}"),
+    })
 }
 
 fn latest_reform_date(raw: &str) -> Option<NaiveDate> {
@@ -748,18 +1034,10 @@ fn latest_reform_date(raw: &str) -> Option<NaiveDate> {
         .and_then(|captures| NaiveDate::parse_from_str(&captures[1], "%d-%m-%Y").ok())
 }
 
-fn require_lritf(value: &str) -> Result<()> {
-    if value.eq_ignore_ascii_case("lritf") {
-        Ok(())
-    } else {
-        bail!("the bootstrap slice supports only \"lritf\", received {value:?}")
-    }
-}
-
-fn cleanup_work(root: &Path) -> Result<()> {
-    let work = root.join(".work/lritf");
+fn cleanup_work(context: &InstrumentContext) -> Result<()> {
+    let work = &context.paths.work;
     if work.exists() {
-        fs::remove_dir_all(&work)
+        fs::remove_dir_all(work)
             .with_context(|| format!("failed to delete temporary work {}", work.display()))?;
     }
     Ok(())
@@ -787,8 +1065,12 @@ fn write_pretty_json<T: serde::Serialize>(value: &T, path: &Path) -> Result<()> 
 }
 
 struct Paths {
+    work: PathBuf,
     pdf: PathBuf,
     text: PathBuf,
+    formal_source: PathBuf,
+    formal_text: PathBuf,
+    formal_manifest: PathBuf,
     corpus: PathBuf,
     manifest: PathBuf,
     instrument: PathBuf,
@@ -803,12 +1085,15 @@ struct Paths {
 }
 
 impl Paths {
-    fn new(root: &Path) -> Self {
-        let work = root.join(".work/lritf");
-        let corpus = root.join("corpus/mx/lritf");
+    fn new(root: &Path, slug: &str) -> Self {
+        let work = root.join(".work").join(slug);
+        let corpus = root.join("corpus/mx").join(slug);
         Self {
-            pdf: work.join("LRITF.pdf"),
-            text: work.join("LRITF.txt"),
+            pdf: work.join(format!("{slug}.pdf")),
+            text: work.join(format!("{slug}.txt")),
+            formal_source: work.join(format!("{slug}-formal.html")),
+            formal_text: work.join(format!("{slug}-formal.txt")),
+            formal_manifest: corpus.join("formal-source-manifest.json"),
             manifest: corpus.join("source-manifest.json"),
             instrument: corpus.join("instrument.json"),
             provisions: corpus.join("provisions.json"),
@@ -819,6 +1104,7 @@ impl Paths {
             review_queue: corpus.join("review-queue.json"),
             reform_evidence: corpus.join("reform-temporal-evidence.json"),
             markdown: corpus.join("markdown"),
+            work,
             corpus,
         }
     }

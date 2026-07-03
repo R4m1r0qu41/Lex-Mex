@@ -1,0 +1,43 @@
+{
+  "slug": "ifpe-dcg-2021",
+  "instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+  "instrument_type": "regulation",
+  "parser": "ifpe-dcg",
+  "official_title": "Disposiciones aplicables a las instituciones de fondos de pago electrónico a que se refieren los artículos 48, segundo párrafo; 54, primer párrafo, y 56, primer y segundo párrafos de la Ley para Regular las Instituciones de Tecnología Financiera",
+  "short_name": "DCG-IFPE-2021",
+  "operational_source": "cnbv",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20aplicables%20a%20las%20instituciones%20de%20fondos%20de%20pago%20electr%C3%B3nico%20a%20que%20se%20refieren%20los%20art%C3%ADculos%2048%2C%20segundo%20p%C3%A1rrafo%3B%2054%2C%20primer%20p%C3%A1rrafo%20y%2056%2C%20primer.pdf",
+  "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "publication_date": "2021-01-28",
+  "expected_min_articles": 59,
+  "expected_articles": 59,
+  "expected_transitories": 4,
+  "expected_annexes": 8,
+  "issuing_authorities": [
+    "Comisión Nacional Bancaria y de Valores",
+    "Banco de México"
+  ],
+  "formal_source": {
+    "url": "https://www.dof.gob.mx/nota_detalle_popup.php?codigo=5610487",
+    "format": "html",
+    "publisher": "Diario Oficial de la Federación",
+    "publication_code": "5610487"
+  },
+  "formal_publication_urls": {
+    "2021-01-28": "https://www.dof.gob.mx/nota_detalle_popup.php?codigo=5610487"
+  },
+  "definition_layout_articles": ["1"],
+  "internal_reference_markers": [
+    "de estas disposiciones",
+    "de las presentes disposiciones",
+    "del presente instrumento",
+    "de este instrumento"
+  ],
+  "external_instruments": [
+    {
+      "name_marker": "ley para regular las instituciones de tecnología financiera",
+      "instrument_id": "urn:lex-mx:federal:statute:lritf"
+    }
+  ]
+}

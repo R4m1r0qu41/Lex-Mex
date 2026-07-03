@@ -39,6 +39,7 @@ pub enum InstrumentStatus {
 pub enum ProvisionType {
     Article,
     Transitory,
+    Annex,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
@@ -120,12 +121,31 @@ pub struct Instrument {
     pub extracted_text_sha256: String,
     pub parser_version: String,
     pub status: InstrumentStatus,
+    /// Authorities that jointly issued the instrument. Empty for instruments
+    /// recorded before joint-issuer support (for example, statutes enacted by
+    /// Congress and recorded only through their operational publisher).
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub issuing_authorities: Vec<String>,
+    /// Formal publication (Diario Oficial de la Federación) locator for the
+    /// instrument itself, when the formal source was acquired directly.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub formal_publication_url: Option<Url>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub formal_publication_code: Option<String>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub formal_source_sha256: Option<String>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub formal_extracted_text_sha256: Option<String>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
 pub struct HeadingContext {
     pub title: Option<String>,
     pub chapter: Option<String>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub section: Option<String>,
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub apartado: Option<String>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
