@@ -6,6 +6,8 @@
 .env.*
 !.env.example
 *.pem
+# Public intermediate CA certificates shipped with source adapters are not secrets.
+!adapters/**/*.pem
 *.key
 *.p12
 *.pfx

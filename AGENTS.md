@@ -26,8 +26,9 @@ repository's trust boundaries and expected engineering discipline.
 - Never silently alter official source text. Every normalization must be
   deterministic, narrow, and covered by a fixture.
 - Reference character offsets and exact source spans must validate against the
-  unchanged canonical provision text, and every resolved internal target must
-  exist.
+  unchanged canonical provision text (or the instrument's official title for
+  title-anchored edges), and every resolved target — internal or
+  cross-instrument — must exist in its instrument's committed corpus.
 - Preserve the official source URL, publisher metadata, retrieval time, source
   SHA-256, extracted-text SHA-256, parser version, and schema version.
 - Attach formal DOF sources when a decision depends on promulgation, amendment,
@@ -68,6 +69,7 @@ cargo fmt --check
 cargo clippy --workspace --all-targets -- -D warnings
 cargo test --workspace
 cargo run --locked -p lex-cli -- validate lritf
+cargo run --locked -p lex-cli -- validate ifpe-dcg-2021
 ```
 
 For a source or pipeline change, also run the affected end-to-end stage and

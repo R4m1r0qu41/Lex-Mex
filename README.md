@@ -9,12 +9,17 @@ preserves their provenance, produces stable canonical records, validates model
 output, routes material legal uncertainty to a named reviewer, and publishes
 lawyer-readable Markdown and Obsidian views.
 
-The initial vertical slice processes the consolidated **Ley para Regular las
-Instituciones de Tecnología Financiera (LRITF)** published by the Cámara de
-Diputados. The current committed corpus contains 145 articles, 11 original
-transitory provisions, 19 temporal determinations, and 32 structured legal
-effects. It also contains 95 validated internal article-reference edges. Its
-validation report has no open structural issues or pending legal reviews.
+The committed corpus contains two instruments. The consolidated **Ley para
+Regular las Instituciones de Tecnología Financiera (LRITF)** published by the
+Cámara de Diputados has 145 articles, 11 original transitory provisions, 19
+temporal determinations, 32 structured legal effects, and 95 validated
+internal article-reference edges. The jointly issued CNBV/Banco de México
+**Disposiciones aplicables a las instituciones de fondos de pago electrónico**
+of January 28, 2021 (`ifpe-dcg-2021`) has 59 articles, 4 transitories, all 8
+annexes acquired from the formal DOF publication, 4 temporal determinations,
+and 98 reference edges, including resolved cross-instrument citations of
+LRITF Articles 22, 29, 48, 54, 56, 58 and its OCTAVA transitoria. Neither
+validation report has open structural issues or pending legal reviews.
 
 > [!IMPORTANT]
 > Lex-Mex is not an official publication, is not affiliated with the Mexican
@@ -148,8 +153,11 @@ marked `external_verification_required`, separately from legal ambiguity.
 
 ## Individual pipeline stages
 
+Each command takes an instrument slug (`lritf` or `ifpe-dcg-2021`):
+
 ```bash
 cargo run --locked -p lex-cli -- discover diputados
+cargo run --locked -p lex-cli -- discover cnbv
 cargo run --locked -p lex-cli -- fetch lritf
 cargo run --locked -p lex-cli -- extract lritf
 cargo run --locked -p lex-cli -- parse lritf
@@ -158,7 +166,12 @@ cargo run --locked -p lex-cli -- validate lritf
 cargo run --locked -p lex-cli -- export lritf --format json
 cargo run --locked -p lex-cli -- export lritf --format markdown
 cargo run --locked -p lex-cli -- export lritf --format obsidian
+cargo run --locked -p lex-cli -- pipeline ifpe-dcg-2021
 ```
+
+For `ifpe-dcg-2021`, fetch and extract also acquire the formal DOF
+publication, which uniquely contains the instrument's eight annex bodies, and
+record its provenance in `formal-source-manifest.json`.
 
 ## Repository layout
 
@@ -173,9 +186,10 @@ schemas/    versioned JSON Schemas for trusted boundaries
 ```
 
 See [`docs/project-status.md`](docs/project-status.md) for implemented and
-tested scope, known gaps, and suggested next steps. The next substantive work
-is regulation ingestion, starting with the January 28, 2021 CNBV disposiciones
-de carácter general, followed by cross-instrument reference resolution.
+tested scope, known gaps, and suggested next steps. With the DCG-IFPE-2021
+ingested and its LRITF cross-references resolved, the next substantive work
+is relative-reference resolution and the defined-term layer, followed by the
+remaining MVP statutes.
 
 ## Development
 
@@ -186,6 +200,7 @@ cargo fmt --check
 cargo clippy --workspace --all-targets -- -D warnings
 cargo test --workspace
 cargo run --locked -p lex-cli -- validate lritf
+cargo run --locked -p lex-cli -- validate ifpe-dcg-2021
 ```
 
 Read [`CONTRIBUTING.md`](CONTRIBUTING.md) before changing canonical data,

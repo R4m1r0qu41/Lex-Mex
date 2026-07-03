@@ -94,6 +94,73 @@ twelve-month clock began with LRITF's entry into force on 10 March 2018 and
 that the referenced joint provisions were published on 28 January 2021. The
 separate Article 71 coordination agreement remains factually unverified.
 
+## 2026-07-03 — DCG-IFPE-2021 dual official sources
+
+The January 28, 2021 disposiciones for instituciones de fondos de pago
+electrónico (`ifpe-dcg-2021`) are jointly issued by the Comisión Nacional
+Bancaria y de Valores and Banco de México; the instrument records both
+issuing authorities explicitly, independent of which site hosts the file.
+The operational CNBV PDF contains the índice, considerandos, seven chapters,
+59 articles, and four transitories, but only lists the eight annexes: their
+bodies appear solely in the formal DOF publication (código 5610487). The
+pipeline therefore acquires both sources with full provenance. The CNBV PDF
+remains the operational source for articles and transitories;
+`formal-source-manifest.json` records the DOF acquisition, whose
+deterministic HTML text extraction supplies the annex bodies as first-class
+`annex` provisions. Annex table rows are preserved as single lines with
+` | ` cell separators.
+
+Both official hosts (www.cnbv.gob.mx and www.dof.gob.mx) serve incomplete
+TLS certificate chains. The adapter ships the missing public intermediate CA
+certificates (GlobalSign RSA OV SSL CA 2018 and Go Daddy Secure Certificate
+Authority G2), each of which chains to a standard trusted root; they are
+added as additional trust anchors only for adapter fetches.
+
+## 2026-07-03 — DCG parsing and heading model
+
+The CNBV PDF has no page headers or footers, and page breaks fall
+mid-sentence. Extraction keeps the form-feed page markers, and a paragraph
+merges across a page break unless the previous line ends in `.`, `:`, or
+`;`. Article 1's two-column definition layout is reconstructed
+deterministically: lines indented past the definition column continue the
+current definition; other lines split on their first run of three or more
+spaces into term and definition fragments, and term fragments accumulate
+until one ends with `:`. The adapter names definition-layout articles
+explicitly. Heading context gains optional `section` and `apartado` levels
+for Chapter II; heading subject lines remain structural context and are not
+inserted into provision text, matching the LRITF chapter model.
+
+## 2026-07-03 — Cross-instrument references and title citations
+
+Reference extraction now resolves targets against every instrument loaded
+under `corpus/mx/`. The audited LRITF graph keeps its original whole-group
+context policy and stays byte-identical. Multi-instrument extraction uses a
+sentence-scoped policy: within the citation sentence, the earliest marker
+decides among the instrument's own internal markers (configured per
+adapter), configured external instrument names (for example, the LRITF's
+full official name), and generic external-law context. Generic markers match
+at word boundaries so `de la Ley,` counts as external. Citations of the
+DCG's defined term `la Ley` without the full statute name remain unlinked —
+resolving them requires the out-of-scope defined-term layer — as do named
+laws not yet in the corpus, such as the Código de Comercio.
+
+The DCG's statutory basis — LRITF Articles 48, 54, and 56 — is cited only in
+the instrument's official title, not in any provision body. These citations
+are canonical edges anchored to the instrument ID itself, with spans
+validated against `official_title` and paragraph qualifiers preserved.
+`disposición ORDINAL Transitoria` citations become transitory reference
+edges; CUARTO resolves to LRITF's OCTAVA transitoria. A canonical reference
+remains directed; reverse navigation is provided only by Obsidian backlinks
+at presentation time.
+
+## 2026-07-03 — Multi-instrument vault indexes
+
+With two instruments publishing notes with identical stems (for example,
+`articulo-1`), generated Obsidian index links now use the full
+`Corpus/<instrument>/<note>` path so wikilinks cannot resolve to the wrong
+instrument. The pending-review dashboard aggregates review queues across all
+committed instruments.
+
 ## 2026-07-02 — Canonical reference graph and presentation-only links
 
 Express LRITF article citations are stored in `references.json`, separately
