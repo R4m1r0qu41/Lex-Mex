@@ -58,6 +58,10 @@
         "type": "object",
         "additionalProperties": false,
         "required": ["qualifier_type", "text"],
+        "dependentRequired": {
+          "start_char": ["end_char"],
+          "end_char": ["start_char"]
+        },
         "properties": {
           "qualifier_type": {
             "type": "string",

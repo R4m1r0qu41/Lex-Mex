@@ -272,7 +272,19 @@ temporal result would bypass the audit trail. `review open` (with
 pending item for any existing determination, preserving the machine
 conclusion verbatim as the proposal; resolution then follows the normal
 audited lawyer-override path. An existing item — pending or resolved — is
-never replaced, so resolved reviews remain immutable.
+never replaced, so resolved reviews remain immutable. Opening also flags
+the determination itself (`review_required` with the reviewer's reason)
+and the canonical provision (`review_status: review_required`), so the
+corpus and dashboards reflect the pending review instead of continuing to
+report machine acceptance.
+
+Reparsing re-applies the persisted temporal result to the fresh provisions
+instead of resetting them: a default `pipeline` rerun therefore never
+erases applied temporal state, including lawyer-verified decisions. A
+determination is re-applied only while every supporting quotation still
+grounds in the reparsed canonical text; otherwise it is reported stale
+with a warning and left un-applied, without ever modifying the persisted
+result or the audited review queue.
 
 First use: JRH corrected DCG transitory CUARTO's empty
 `responsible_authorities`. The authorization that starts CUARTO's six-month

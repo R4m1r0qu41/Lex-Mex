@@ -1344,8 +1344,8 @@ fn validate_reference_span(
     issues: &mut Vec<ValidationIssue>,
 ) {
     for qualifier in &reference.qualifiers {
-        if let (Some(start), Some(end)) = (qualifier.start_char, qualifier.end_char) {
-            match char_slice(source_text, start, end) {
+        match (qualifier.start_char, qualifier.end_char) {
+            (Some(start), Some(end)) => match char_slice(source_text, start, end) {
                 Some(span) if span == qualifier.text => {}
                 _ => issues.push(error(
                     "qualifier_span_mismatch",
@@ -1355,7 +1355,17 @@ fn validate_reference_span(
                     ),
                     Some(reference.source_provision_id.clone()),
                 )),
-            }
+            },
+            (None, None) => {}
+            _ => issues.push(error(
+                "qualifier_offsets_incomplete",
+                format!(
+                    "qualifier {:?} has only one of start_char/end_char; offsets must come in \
+                     pairs",
+                    qualifier.text
+                ),
+                Some(reference.source_provision_id.clone()),
+            )),
         }
     }
     match char_slice(source_text, reference.start_char, reference.end_char) {

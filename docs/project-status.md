@@ -1,9 +1,9 @@
 # Lex-Mex Project Status
 
-**Status date:** 2026-07-03  
-**Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-**Current instruments:** Ley para Regular las Instituciones de Tecnología Financiera (LRITF); Disposiciones aplicables a las instituciones de fondos de pago electrónico (DCG-IFPE-2021)  
-**Current legal reviewer:** JRH
+- **Status date:** 2026-07-03
+- **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
+- **Current instruments:** Ley para Regular las Instituciones de Tecnología Financiera (LRITF); Disposiciones aplicables a las instituciones de fondos de pago electrónico (DCG-IFPE-2021)
+- **Current legal reviewer:** JRH
 
 ## 1. Project summary
 

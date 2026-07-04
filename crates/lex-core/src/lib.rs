@@ -7,7 +7,8 @@ mod temporal;
 pub use temporal::{
     RoutedTemporalAnalysis, TemporalReviewOpenError, TemporalReviewResolutionError,
     TemporalRoutingError, apply_temporal_determinations, open_temporal_review,
-    preserve_temporal_review_history, resolve_temporal_review, route_temporal_analysis,
+    preserve_temporal_review_history, reapply_temporal_determinations, resolve_temporal_review,
+    route_temporal_analysis,
 };
 
 pub const SCHEMA_VERSION: &str = "0.1.0";

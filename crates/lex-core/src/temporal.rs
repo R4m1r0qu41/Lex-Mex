@@ -285,10 +285,13 @@ fn review_item(
 /// its own — typically a machine-accepted conclusion that the designated
 /// legal reviewer wants to correct or enrich. The machine conclusion is
 /// preserved verbatim as the item's proposal, and existing items (pending
-/// or resolved) are never replaced: a resolved review is immutable.
+/// or resolved) are never replaced: a resolved review is immutable. The
+/// determination itself is marked `review_required` with the reviewer's
+/// reason, so the corpus and dashboards reflect the pending review until
+/// it is resolved.
 pub fn open_temporal_review(
     items: &mut Vec<ReviewItem>,
-    result: &TemporalAnalysisResult,
+    result: &mut TemporalAnalysisResult,
     request: &TemporalAnalysisRequest,
     provision_id: &str,
     reason: &str,
@@ -306,7 +309,7 @@ pub fn open_temporal_review(
     }
     let determination = result
         .determinations
-        .iter()
+        .iter_mut()
         .find(|item| item.provision_id == provision_id)
         .ok_or_else(|| TemporalReviewOpenError::DeterminationNotFound(provision_id.to_owned()))?;
     let evidence = request
@@ -314,8 +317,12 @@ pub fn open_temporal_review(
         .iter()
         .find(|item| item.provision_id == provision_id)
         .ok_or_else(|| TemporalReviewOpenError::EvidenceNotFound(provision_id.to_owned()))?;
+    // Snapshot the proposal before flagging the determination, so the
+    // audit record preserves the machine conclusion exactly as accepted.
     let mut item = review_item(request, evidence, determination, camara_source_url.clone());
     reason.clone_into(&mut item.exact_issue);
+    determination.review_required = true;
+    determination.review_reason = Some(reason.to_owned());
     items.push(item);
     Ok(())
 }
@@ -489,6 +496,42 @@ fn reject_override_fields(
     } else {
         Ok(())
     }
+}
+
+/// Re-apply persisted temporal determinations to freshly parsed provisions,
+/// so a reparse never silently erases applied temporal state — including
+/// audited lawyer-verified decisions. A determination is re-applied only
+/// when its provision still exists and every supporting quotation is still
+/// an exact substring of the new canonical text; the rest are returned as
+/// stale so the caller can warn that temporal analysis must be rerun. The
+/// persisted result and review queue are never modified here.
+pub fn reapply_temporal_determinations(
+    provisions: &mut [crate::Provision],
+    determinations: &[TemporalDetermination],
+) -> (usize, Vec<String>) {
+    let text_by_id: HashMap<&str, &str> = provisions
+        .iter()
+        .map(|provision| (provision.id.as_str(), provision.text.as_str()))
+        .collect();
+    let mut current = Vec::new();
+    let mut stale = Vec::new();
+    for determination in determinations {
+        let still_grounded = text_by_id
+            .get(determination.provision_id.as_str())
+            .is_some_and(|text| {
+                determination
+                    .supporting_text
+                    .iter()
+                    .all(|quote| text.contains(quote))
+            });
+        if still_grounded {
+            current.push(determination.clone());
+        } else {
+            stale.push(determination.provision_id.clone());
+        }
+    }
+    apply_temporal_determinations(provisions, &current);
+    (current.len(), stale)
 }
 
 pub fn apply_temporal_determinations(
@@ -678,7 +721,7 @@ mod tests {
 
         open_temporal_review(
             &mut routed.review_items,
-            &routed.result,
+            &mut routed.result,
             &request,
             &provision_id,
             "El revisor designado corrige las autoridades responsables.",
@@ -692,14 +735,23 @@ mod tests {
             item.exact_issue,
             "El revisor designado corrige las autoridades responsables."
         );
-        // The machine conclusion is preserved verbatim as the proposal.
+        // The machine conclusion is preserved verbatim as the proposal —
+        // in particular, without the review flag the open sets afterwards.
         assert!((item.proposed_machine_conclusion.confidence - 0.98).abs() < f32::EPSILON);
         assert_eq!(item.proposed_machine_conclusion.basis, Basis::LlmInference);
+        assert!(!item.proposed_machine_conclusion.review_required);
+        // The determination itself now reflects the pending review, so the
+        // corpus and dashboards stop reporting it as machine-accepted.
+        assert!(routed.result.determinations[0].review_required);
+        assert_eq!(
+            routed.result.determinations[0].review_reason.as_deref(),
+            Some("El revisor designado corrige las autoridades responsables.")
+        );
 
         // A second open for the same provision must not touch the item.
         let error = open_temporal_review(
             &mut routed.review_items,
-            &routed.result,
+            &mut routed.result,
             &request,
             &provision_id,
             "duplicado",
@@ -737,6 +789,58 @@ mod tests {
             Basis::LlmInference
         );
         assert_eq!(routed.review_items[0].resolved_by.as_deref(), Some("JRH"));
+    }
+
+    #[test]
+    fn reapplies_persisted_determinations_after_reparse_unless_stale() {
+        let request = request();
+        let batch = model_batch(procedural_survival_effect(
+            TemporalVerificationStatus::OpenEndedByDesign,
+        ));
+        let routed = route(&request, batch).unwrap();
+        let provision_id = request.relevant_provisions[0].provision_id.clone();
+
+        let make_provision = |text: &str| crate::Provision {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: provision_id.clone(),
+            instrument_id: "urn:lex-mx:test".to_owned(),
+            provision_type: crate::ProvisionType::Transitory,
+            label: "Segundo".to_owned(),
+            number: "Segundo".to_owned(),
+            heading_context: crate::HeadingContext {
+                title: None,
+                chapter: None,
+                section: None,
+                apartado: None,
+            },
+            text: text.to_owned(),
+            publication_date: NaiveDate::from_ymd_opt(2025, 11, 14).unwrap(),
+            effective_from: None,
+            effective_to: None,
+            temporal_status: TemporalStatus::Unknown,
+            temporal_basis: None,
+            temporal_confidence: None,
+            review_status: ReviewStatus::NotAnalyzed,
+            transitory_effects: Vec::new(),
+        };
+
+        // A reparse that reproduces the same text keeps the determination.
+        let mut reparsed = vec![make_provision(&request.relevant_provisions[0].text)];
+        let (reapplied, stale) =
+            reapply_temporal_determinations(&mut reparsed, &routed.result.determinations);
+        assert_eq!((reapplied, stale.len()), (1, 0));
+        assert_eq!(reparsed[0].temporal_status, TemporalStatus::Effective);
+        assert_eq!(reparsed[0].review_status, ReviewStatus::MachineAccepted);
+
+        // Changed text no longer grounds the supporting quotation: the
+        // determination is reported stale, not silently applied.
+        let mut changed = vec![make_provision("Texto reformado sin la cita original.")];
+        let (reapplied, stale) =
+            reapply_temporal_determinations(&mut changed, &routed.result.determinations);
+        assert_eq!((reapplied, stale.len()), (0, 1));
+        assert_eq!(stale[0], provision_id);
+        assert_eq!(changed[0].temporal_status, TemporalStatus::Unknown);
+        assert_eq!(changed[0].review_status, ReviewStatus::NotAnalyzed);
     }
 
     #[test]

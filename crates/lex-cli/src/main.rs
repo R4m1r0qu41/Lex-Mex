@@ -14,8 +14,8 @@ use lex_core::{
     ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest, TemporalAnalysisMetadata,
     TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence, TemporalModelBatch,
     TemporalReviewResolution, TemporalStatus, TransitoryEffect, apply_temporal_determinations,
-    open_temporal_review, preserve_temporal_review_history, resolve_temporal_review,
-    route_temporal_analysis,
+    open_temporal_review, preserve_temporal_review_history, reapply_temporal_determinations,
+    resolve_temporal_review, route_temporal_analysis,
 };
 use lex_export::{
     LinkTargets, TermTargets, link_targets, term_targets, write_canonical, write_markdown,
@@ -585,13 +585,14 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     };
     let references = extract_instrument_references(root, context, &instrument, &provisions)?;
     let (terms, term_usages) = extract_instrument_terms(root, context, &instrument, &provisions)?;
-    let corpus = Corpus {
+    let mut corpus = Corpus {
         instrument,
         provisions,
         references,
         terms,
         term_usages,
     };
+    reapply_persisted_temporal_state(paths, &mut corpus)?;
     write_canonical(&corpus, &paths.corpus)?;
     println!("parsed {} canonical provisions", corpus.provisions.len());
     println!("extracted {} canonical references", corpus.references.len());
@@ -606,6 +607,29 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         println!(
             "isolated {} reform-decree transitories for temporal analysis",
             reform_evidence.len()
+        );
+    }
+    Ok(())
+}
+
+/// A reparse must never erase applied temporal state — including audited
+/// lawyer-verified decisions. Re-apply the persisted result, dropping only
+/// determinations whose supporting quotations no longer ground in the
+/// reparsed text.
+fn reapply_persisted_temporal_state(paths: &Paths, corpus: &mut Corpus) -> Result<()> {
+    if !paths.temporal_result.exists() {
+        return Ok(());
+    }
+    let result: TemporalAnalysisResult = read_json(&paths.temporal_result)?;
+    let (reapplied, stale) =
+        reapply_temporal_determinations(&mut corpus.provisions, &result.determinations);
+    println!("re-applied {reapplied} persisted temporal determinations");
+    if !stale.is_empty() {
+        eprintln!(
+            "warning: {} determination(s) no longer ground in the reparsed text and were not \
+             re-applied; rerun temporal analysis and review: {}",
+            stale.len(),
+            stale.join(", ")
         );
     }
     Ok(())
@@ -938,21 +962,26 @@ fn run_review_open(context: &InstrumentContext, provision_id: &str, reason: &str
     let paths = &context.paths;
     let mut items: Vec<ReviewItem> = read_json(&paths.review_queue)
         .with_context(|| "review queue not found; run temporal analysis first")?;
-    let result: TemporalAnalysisResult = read_json(&paths.temporal_result)
+    let mut result: TemporalAnalysisResult = read_json(&paths.temporal_result)
         .with_context(|| "temporal result not found; run temporal analysis first")?;
     let request: TemporalAnalysisRequest = read_json(&paths.temporal_request)
         .with_context(|| "temporal request not found; run temporal analysis first")?;
     let instrument: Instrument = read_json(&paths.instrument)?;
     open_temporal_review(
         &mut items,
-        &result,
+        &mut result,
         &request,
         provision_id,
         reason,
         &instrument.source_url,
     )?;
     enrich_review_context(&mut items, &context.config);
+    write_pretty_json(&result, &paths.temporal_result)?;
     write_pretty_json(&items, &paths.review_queue)?;
+    // Reflect the pending review in the canonical provision state.
+    let mut corpus = read_corpus(paths)?;
+    apply_temporal_determinations(&mut corpus.provisions, &result.determinations);
+    write_canonical(&corpus, &paths.corpus)?;
     println!("opened review:temporal:{provision_id}");
     Ok(())
 }
