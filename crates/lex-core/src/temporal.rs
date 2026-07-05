@@ -1,6 +1,7 @@
 use std::collections::{HashMap, HashSet};
 
 use chrono::NaiveDate;
+use sha2::{Digest, Sha256};
 use thiserror::Error;
 use url::Url;
 
@@ -13,6 +14,11 @@ use crate::{
 };
 
 const AUTO_ACCEPT_MIN_CONFIDENCE: f32 = 0.92;
+
+#[must_use]
+pub fn evidence_sha256(text: &str) -> String {
+    format!("{:x}", Sha256::digest(text.as_bytes()))
+}
 
 #[derive(Debug)]
 pub struct RoutedTemporalAnalysis {
@@ -121,6 +127,7 @@ pub fn route_temporal_analysis(
             model: metadata.model.clone(),
             prompt_version: request.prompt_version.clone(),
             effects: model_output.effects,
+            evidence_sha256: evidence_sha256(&evidence.text),
         };
         if review_required {
             review_items.push(review_item(
@@ -452,16 +459,19 @@ fn valid_effect(effect: &crate::TransitoryEffect) -> bool {
                     .is_some_and(|note| !note.trim().is_empty())))
 }
 
+/// Freeze every previous review item — pending or resolved — across a
+/// model rerun. Resolution requires an identified human reviewer, and a
+/// review already awaiting one cannot be cleared merely because a fresh
+/// model run produced a higher-confidence or unambiguous result: the
+/// determination and its review item are restored exactly as they were
+/// until a human actually resolves them.
 pub fn preserve_temporal_review_history(
     result: &mut TemporalAnalysisResult,
     review_items: &mut Vec<ReviewItem>,
     previous_result: &TemporalAnalysisResult,
     previous_items: &[ReviewItem],
 ) {
-    for previous_item in previous_items
-        .iter()
-        .filter(|item| item.status == ReviewItemStatus::Resolved)
-    {
+    for previous_item in previous_items {
         if let Some(previous_determination) = previous_result
             .determinations
             .iter()
@@ -505,33 +515,70 @@ fn reject_override_fields(
 /// an exact substring of the new canonical text; the rest are returned as
 /// stale so the caller can warn that temporal analysis must be rerun. The
 /// persisted result and review queue are never modified here.
+/// Outcome of reapplying a persisted temporal result after a reparse.
+pub struct ReappliedTemporalState {
+    /// Determinations that remain grounded, in persisted order. Identical
+    /// to the input except that a legacy record (empty `evidence_sha256`)
+    /// that passed its one-time grandfather check has its hash backfilled;
+    /// the caller should persist that backfill so later reapplies are a
+    /// strict comparison.
+    pub current: Vec<TemporalDetermination>,
+    /// Provision IDs whose evidence text has materially changed (or is no
+    /// longer present in `current_evidence` at all) and were therefore not
+    /// re-applied to the corpus. Temporal analysis must be rerun for these.
+    pub stale: Vec<String>,
+}
+
+/// Re-apply a persisted temporal result to freshly reparsed provisions.
+///
+/// `current_evidence` must be built the same way the temporal-analysis
+/// request is built (ordinary transitory text plus any relevant reform
+/// evidence, keyed by provision ID): an amendment-event determination's
+/// provision ID never appears among canonical `provisions`, only among
+/// reform evidence, so a bare provisions-only lookup would always call it
+/// stale.
+///
+/// A determination is re-applied only when the current evidence text
+/// hashes identically to `evidence_sha256` — a supporting quotation merely
+/// remaining a substring of materially different text is not sufficient,
+/// since unrelated edits nearby could still contain the quoted fragment.
+/// A determination recorded before this field existed (empty
+/// `evidence_sha256`) is grandfathered in once via the substring check it
+/// replaces, then has its hash backfilled so every subsequent reapply is a
+/// strict comparison.
+#[must_use]
+#[allow(clippy::implicit_hasher)]
 pub fn reapply_temporal_determinations(
     provisions: &mut [crate::Provision],
     determinations: &[TemporalDetermination],
-) -> (usize, Vec<String>) {
-    let text_by_id: HashMap<&str, &str> = provisions
-        .iter()
-        .map(|provision| (provision.id.as_str(), provision.text.as_str()))
-        .collect();
+    current_evidence: &HashMap<String, String>,
+) -> ReappliedTemporalState {
     let mut current = Vec::new();
     let mut stale = Vec::new();
     for determination in determinations {
-        let still_grounded = text_by_id
-            .get(determination.provision_id.as_str())
-            .is_some_and(|text| {
-                determination
-                    .supporting_text
-                    .iter()
-                    .all(|quote| text.contains(quote))
-            });
-        if still_grounded {
-            current.push(determination.clone());
+        let Some(text) = current_evidence.get(determination.provision_id.as_str()) else {
+            stale.push(determination.provision_id.clone());
+            continue;
+        };
+        let current_hash = evidence_sha256(text);
+        let grounded = if determination.evidence_sha256.is_empty() {
+            determination
+                .supporting_text
+                .iter()
+                .all(|quote| text.contains(quote))
+        } else {
+            determination.evidence_sha256 == current_hash
+        };
+        if grounded {
+            let mut carried = determination.clone();
+            carried.evidence_sha256 = current_hash;
+            current.push(carried);
         } else {
             stale.push(determination.provision_id.clone());
         }
     }
     apply_temporal_determinations(provisions, &current);
-    (current.len(), stale)
+    ReappliedTemporalState { current, stale }
 }
 
 pub fn apply_temporal_determinations(
@@ -674,6 +721,44 @@ mod tests {
     }
 
     #[test]
+    fn pending_review_survives_a_model_rerun_even_at_high_confidence() {
+        // A pending review — whether routed by low confidence or opened by
+        // a reviewer — must not be cleared merely because a fresh model
+        // run comes back confident and clean. Simulate the rerun producing
+        // a *different* batch that would not have routed to review on its
+        // own, and confirm the previous pending item and its determination
+        // are restored exactly.
+        let previous = routed_review();
+        assert_eq!(previous.review_items[0].status, ReviewItemStatus::Pending);
+        assert!(previous.result.determinations[0].review_required);
+
+        let request = request();
+        let mut clean_effect =
+            procedural_survival_effect(TemporalVerificationStatus::OpenEndedByDesign);
+        clean_effect.application_rule = TransitoryApplicationRule::PriorRuleForExistingMatters;
+        let mut rerun = route(&request, model_batch(clean_effect)).unwrap();
+        assert!(
+            rerun.review_items.is_empty(),
+            "the fresh run must not itself route to review, matching the scenario"
+        );
+
+        preserve_temporal_review_history(
+            &mut rerun.result,
+            &mut rerun.review_items,
+            &previous.result,
+            &previous.review_items,
+        );
+
+        assert_eq!(rerun.review_items.len(), 1);
+        assert_eq!(rerun.review_items[0].status, ReviewItemStatus::Pending);
+        assert!(rerun.result.determinations[0].review_required);
+        assert_eq!(
+            rerun.result.determinations[0].effects,
+            previous.result.determinations[0].effects
+        );
+    }
+
+    #[test]
     fn preserves_lawyer_resolution_across_model_reruns() {
         let mut previous = routed_review();
         resolve_temporal_review(
@@ -799,6 +884,7 @@ mod tests {
         ));
         let routed = route(&request, batch).unwrap();
         let provision_id = request.relevant_provisions[0].provision_id.clone();
+        let original_text = request.relevant_provisions[0].text.clone();
 
         let make_provision = |text: &str| crate::Provision {
             schema_version: SCHEMA_VERSION.to_owned(),
@@ -823,24 +909,141 @@ mod tests {
             review_status: ReviewStatus::NotAnalyzed,
             transitory_effects: Vec::new(),
         };
+        let evidence_map = |text: &str| HashMap::from([(provision_id.clone(), text.to_owned())]);
+
+        // route_temporal_analysis already stamps evidence_sha256.
+        assert!(!routed.result.determinations[0].evidence_sha256.is_empty());
 
         // A reparse that reproduces the same text keeps the determination.
-        let mut reparsed = vec![make_provision(&request.relevant_provisions[0].text)];
-        let (reapplied, stale) =
-            reapply_temporal_determinations(&mut reparsed, &routed.result.determinations);
-        assert_eq!((reapplied, stale.len()), (1, 0));
+        let mut reparsed = vec![make_provision(&original_text)];
+        let outcome = reapply_temporal_determinations(
+            &mut reparsed,
+            &routed.result.determinations,
+            &evidence_map(&original_text),
+        );
+        assert_eq!((outcome.current.len(), outcome.stale.len()), (1, 0));
         assert_eq!(reparsed[0].temporal_status, TemporalStatus::Effective);
         assert_eq!(reparsed[0].review_status, ReviewStatus::MachineAccepted);
 
         // Changed text no longer grounds the supporting quotation: the
         // determination is reported stale, not silently applied.
         let mut changed = vec![make_provision("Texto reformado sin la cita original.")];
-        let (reapplied, stale) =
-            reapply_temporal_determinations(&mut changed, &routed.result.determinations);
-        assert_eq!((reapplied, stale.len()), (0, 1));
-        assert_eq!(stale[0], provision_id);
+        let outcome = reapply_temporal_determinations(
+            &mut changed,
+            &routed.result.determinations,
+            &evidence_map("Texto reformado sin la cita original."),
+        );
+        assert_eq!((outcome.current.len(), outcome.stale.len()), (0, 1));
+        assert_eq!(outcome.stale[0], provision_id);
         assert_eq!(changed[0].temporal_status, TemporalStatus::Unknown);
         assert_eq!(changed[0].review_status, ReviewStatus::NotAnalyzed);
+
+        // A provision absent from current_evidence altogether (removed, or
+        // renamed) is stale, not silently dropped without explanation.
+        let mut orphaned = vec![make_provision(&original_text)];
+        let outcome = reapply_temporal_determinations(
+            &mut orphaned,
+            &routed.result.determinations,
+            &HashMap::new(),
+        );
+        assert_eq!((outcome.current.len(), outcome.stale.len()), (0, 1));
+    }
+
+    #[test]
+    fn strict_hash_catches_a_substring_that_survives_a_material_change() {
+        // A determination that already carries its evidence hash must not
+        // be re-applied just because its quoted substring happens to still
+        // appear somewhere in materially different text — the exact defect
+        // a pure substring check misses.
+        let mut determination = sample_determination();
+        determination.supporting_text = vec!["a partir de la entrada en vigor".to_owned()];
+        determination.evidence_sha256 =
+            evidence_sha256("Plazo de seis meses a partir de la entrada en vigor de la ley.");
+        let determinations = vec![determination];
+
+        let mut provisions = vec![sample_provision_with_text(
+            "Plazo de dieciocho meses, no de seis, a partir de la entrada en vigor de la ley, \
+             con requisitos adicionales.",
+        )];
+        let current_evidence =
+            HashMap::from([(provisions[0].id.clone(), provisions[0].text.clone())]);
+
+        let outcome =
+            reapply_temporal_determinations(&mut provisions, &determinations, &current_evidence);
+        assert_eq!(outcome.current.len(), 0);
+        assert_eq!(outcome.stale.len(), 1);
+        assert_eq!(provisions[0].review_status, ReviewStatus::NotAnalyzed);
+    }
+
+    #[test]
+    fn legacy_record_without_a_hash_is_grandfathered_in_once_and_then_backfilled() {
+        let mut determination = sample_determination();
+        determination.supporting_text = vec!["texto de apoyo".to_owned()];
+        determination.evidence_sha256 = String::new();
+        let determinations = vec![determination];
+
+        let mut provisions = vec![sample_provision_with_text(
+            "Contiene el texto de apoyo citado.",
+        )];
+        let current_evidence =
+            HashMap::from([(provisions[0].id.clone(), provisions[0].text.clone())]);
+
+        let outcome =
+            reapply_temporal_determinations(&mut provisions, &determinations, &current_evidence);
+        assert_eq!(outcome.current.len(), 1);
+        assert!(outcome.stale.is_empty());
+        // The hash is backfilled so the next reapply is a strict comparison.
+        assert_eq!(
+            outcome.current[0].evidence_sha256,
+            evidence_sha256("Contiene el texto de apoyo citado.")
+        );
+    }
+
+    fn sample_provision_with_text(text: &str) -> crate::Provision {
+        crate::Provision {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: "urn:lex-mx:test:transitory:segundo".to_owned(),
+            instrument_id: "urn:lex-mx:test".to_owned(),
+            provision_type: crate::ProvisionType::Transitory,
+            label: "Segundo".to_owned(),
+            number: "Segundo".to_owned(),
+            heading_context: crate::HeadingContext {
+                title: None,
+                chapter: None,
+                section: None,
+                apartado: None,
+            },
+            text: text.to_owned(),
+            publication_date: NaiveDate::from_ymd_opt(2025, 11, 14).unwrap(),
+            effective_from: None,
+            effective_to: None,
+            temporal_status: TemporalStatus::Unknown,
+            temporal_basis: None,
+            temporal_confidence: None,
+            review_status: ReviewStatus::NotAnalyzed,
+            transitory_effects: Vec::new(),
+        }
+    }
+
+    fn sample_determination() -> TemporalDetermination {
+        TemporalDetermination {
+            provision_id: "urn:lex-mx:test:transitory:segundo".to_owned(),
+            temporal_status: TemporalStatus::Effective,
+            publication_date: NaiveDate::from_ymd_opt(2025, 11, 14).unwrap(),
+            effective_from: Some(NaiveDate::from_ymd_opt(2025, 11, 15).unwrap()),
+            effective_to: None,
+            confidence: 0.98,
+            basis: Basis::LlmInference,
+            supporting_text: Vec::new(),
+            review_required: false,
+            review_reason: None,
+            model: "gpt-test".to_owned(),
+            prompt_version: "temporal-v2".to_owned(),
+            effects: vec![procedural_survival_effect(
+                TemporalVerificationStatus::OpenEndedByDesign,
+            )],
+            evidence_sha256: String::new(),
+        }
     }
 
     #[test]

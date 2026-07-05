@@ -5,10 +5,10 @@ use url::Url;
 mod temporal;
 
 pub use temporal::{
-    RoutedTemporalAnalysis, TemporalReviewOpenError, TemporalReviewResolutionError,
-    TemporalRoutingError, apply_temporal_determinations, open_temporal_review,
-    preserve_temporal_review_history, reapply_temporal_determinations, resolve_temporal_review,
-    route_temporal_analysis,
+    ReappliedTemporalState, RoutedTemporalAnalysis, TemporalReviewOpenError,
+    TemporalReviewResolutionError, TemporalRoutingError, apply_temporal_determinations,
+    evidence_sha256, open_temporal_review, preserve_temporal_review_history,
+    reapply_temporal_determinations, resolve_temporal_review, route_temporal_analysis,
 };
 
 pub const SCHEMA_VERSION: &str = "0.1.0";
@@ -310,6 +310,14 @@ pub struct TemporalDetermination {
     pub prompt_version: String,
     #[serde(default)]
     pub effects: Vec<TransitoryEffect>,
+    /// SHA-256 of the exact evidence text this determination was made
+    /// against. A reparse re-applies a determination only when the current
+    /// evidence hashes identically; a quotation merely remaining a
+    /// substring of materially different text is not sufficient. Empty for
+    /// determinations recorded before this field existed; those are
+    /// grandfathered in on their next reapply and then backfilled.
+    #[serde(default)]
+    pub evidence_sha256: String,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

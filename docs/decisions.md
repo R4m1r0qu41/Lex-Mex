@@ -280,11 +280,42 @@ report machine acceptance.
 
 Reparsing re-applies the persisted temporal result to the fresh provisions
 instead of resetting them: a default `pipeline` rerun therefore never
-erases applied temporal state, including lawyer-verified decisions. A
-determination is re-applied only while every supporting quotation still
-grounds in the reparsed canonical text; otherwise it is reported stale
-with a warning and left un-applied, without ever modifying the persisted
-result or the audited review queue.
+erases applied temporal state, including lawyer-verified decisions. Two
+follow-on defects surfaced this and were corrected:
+
+- **Reparse re-application originally accepted a bare substring match** of
+  each supporting quotation against the new text. A materially changed
+  provision could retain the quoted fragment nearby and incorrectly
+  inherit a stale determination. `TemporalDetermination` now carries
+  `evidence_sha256`, the hash of the exact evidence text the determination
+  was made against; reapplication requires an exact hash match, not a
+  quotation surviving somewhere in different text. A determination
+  recorded before this field existed (empty hash) is grandfathered in once
+  via the substring check it replaces, then has its hash backfilled so
+  every later reapply is strict.
+- **The evidence used for reapplication must be built the same way the
+  temporal-analysis request itself is built** — ordinary transitory text
+  plus the reform evidence the adapter marks relevant — not by scanning
+  canonical provisions alone. An amendment-event determination's provision
+  ID (`…:amendment:DATE:transitory:ordinal`) never appears among canonical
+  provisions; it exists only in reform evidence. Reapplication reuses the
+  shared evidence builder and runs with the freshly reparsed reform
+  evidence (not a stale copy on disk), so amendment-event determinations
+  reapply correctly instead of being uniformly flagged stale.
+
+**Preserving review history previously kept only *resolved* items across a
+model rerun.** A pending review — whether the model itself routed it there
+or a reviewer opened it — could be silently cleared if a rerun happened to
+produce a confident, clean result for that evidence, contradicting the
+rule that review cannot be resolved by model confidence alone.
+`preserve_temporal_review_history` now forward-carries every previous
+item, pending or resolved, restoring both the review item and its
+determination exactly as they were until a human actually resolves it.
+
+**`review open` did not regenerate Markdown or the Obsidian dashboard**,
+unlike `review resolve`; a newly opened review was invisible in published
+output until an unrelated command happened to re-export. `review open` now
+regenerates both, matching `resolve`.
 
 First use: JRH corrected DCG transitory CUARTO's empty
 `responsible_authorities`. The authorization that starts CUARTO's six-month

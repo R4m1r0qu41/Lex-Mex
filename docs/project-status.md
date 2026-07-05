@@ -217,6 +217,19 @@ Current recorded source hashes:
   and audit history are byte-for-byte unchanged by this work.
 - The pending-review dashboard now aggregates review queues across all
   committed instruments.
+- `review open` lets the designated reviewer open a review on an already
+  machine-accepted determination; the determination and provision reflect
+  the pending review immediately, and Markdown/Obsidian regenerate exactly
+  as `review resolve` does.
+- Reparsing re-applies the persisted temporal result rather than resetting
+  it, so a default pipeline rerun never erases applied temporal state.
+  Reapplication requires an exact hash match of the evidence text a
+  determination was made against (`evidence_sha256`), not a supporting
+  quotation merely surviving somewhere in changed text, and uses the same
+  evidence construction as the analysis request so amendment-event
+  determinations reapply correctly. A pending review — routed by the model
+  or opened by a reviewer — is never cleared by a model rerun regardless of
+  the rerun's confidence; it is restored exactly until a human resolves it.
 
 ### Markdown and Obsidian
 

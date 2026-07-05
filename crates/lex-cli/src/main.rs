@@ -1,5 +1,5 @@
 use std::{
-    collections::HashSet,
+    collections::{HashMap, HashSet},
     fs,
     io::Write as _,
     path::{Path, PathBuf},
@@ -508,20 +508,17 @@ fn run_extract(context: &InstrumentContext) -> Result<()> {
     Ok(())
 }
 
-fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
-    let paths = &context.paths;
-    let config = &context.config;
-    let manifest: SourceManifest = read_json(&paths.manifest)?;
-    let raw = fs::read_to_string(&paths.text)
-        .with_context(|| format!("failed to read {}", paths.text.display()))?;
-    let publication_date = NaiveDate::parse_from_str(&config.publication_date, "%Y-%m-%d")?;
-    let extracted_text_sha256 = manifest
-        .extracted_text_sha256
-        .clone()
-        .context("manifest lacks extracted text hash; run extract first")?;
-
-    let (provisions, formal_manifest) = match config.parser.as_str() {
-        "lritf" => (parse_lritf(&raw, publication_date)?, None),
+/// Dispatch to the adapter-configured parser, returning canonical
+/// provisions and, for parsers with a directly acquired formal source, its
+/// manifest.
+fn parse_by_configured_parser(
+    paths: &Paths,
+    config: &SourceConfig,
+    raw: &str,
+    publication_date: NaiveDate,
+) -> Result<(Vec<lex_core::Provision>, Option<SourceManifest>)> {
+    match config.parser.as_str() {
+        "lritf" => Ok((parse_lritf(raw, publication_date)?, None)),
         "ifpe-dcg" => {
             let formal_manifest: SourceManifest = read_json(&paths.formal_manifest)?;
             let annex_documents = (1..=config.annex_pdf_urls.len())
@@ -535,19 +532,33 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
                     Ok((u32::try_from(number).expect("annex number fits u32"), text))
                 })
                 .collect::<Result<Vec<_>>>()?;
-            (
-                parse_dcg(
-                    &raw,
-                    &annex_documents,
-                    &config.instrument_id,
-                    publication_date,
-                    &config.definition_layout_articles,
-                )?,
-                Some(formal_manifest),
-            )
+            let provisions = parse_dcg(
+                raw,
+                &annex_documents,
+                &config.instrument_id,
+                publication_date,
+                &config.definition_layout_articles,
+            )?;
+            Ok((provisions, Some(formal_manifest)))
         }
         other => bail!("unsupported parser {other:?} in adapter configuration"),
-    };
+    }
+}
+
+fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
+    let paths = &context.paths;
+    let config = &context.config;
+    let manifest: SourceManifest = read_json(&paths.manifest)?;
+    let raw = fs::read_to_string(&paths.text)
+        .with_context(|| format!("failed to read {}", paths.text.display()))?;
+    let publication_date = NaiveDate::parse_from_str(&config.publication_date, "%Y-%m-%d")?;
+    let extracted_text_sha256 = manifest
+        .extracted_text_sha256
+        .clone()
+        .context("manifest lacks extracted text hash; run extract first")?;
+
+    let (provisions, formal_manifest) =
+        parse_by_configured_parser(paths, config, &raw, publication_date)?;
 
     let instrument = Instrument {
         schema_version: SCHEMA_VERSION.to_owned(),
@@ -585,6 +596,15 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     };
     let references = extract_instrument_references(root, context, &instrument, &provisions)?;
     let (terms, term_usages) = extract_instrument_terms(root, context, &instrument, &provisions)?;
+    // Reform evidence must be computed before reapplication: an
+    // amendment-event determination's provision ID lives only in reform
+    // evidence, never among canonical provisions, and reapplication needs
+    // the freshly reparsed evidence, not whatever was last written to disk.
+    let reform_evidence = if config.parser == "lritf" {
+        extract_reform_transitories(&raw)?
+    } else {
+        Vec::new()
+    };
     let mut corpus = Corpus {
         instrument,
         provisions,
@@ -592,7 +612,7 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         terms,
         term_usages,
     };
-    reapply_persisted_temporal_state(paths, &mut corpus)?;
+    reapply_persisted_temporal_state(paths, config, &mut corpus, &reform_evidence)?;
     write_canonical(&corpus, &paths.corpus)?;
     println!("parsed {} canonical provisions", corpus.provisions.len());
     println!("extracted {} canonical references", corpus.references.len());
@@ -602,7 +622,6 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         corpus.term_usages.len()
     );
     if config.parser == "lritf" {
-        let reform_evidence = extract_reform_transitories(&raw)?;
         write_pretty_json(&reform_evidence, &paths.reform_evidence)?;
         println!(
             "isolated {} reform-decree transitories for temporal analysis",
@@ -613,24 +632,66 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
 }
 
 /// A reparse must never erase applied temporal state — including audited
-/// lawyer-verified decisions. Re-apply the persisted result, dropping only
-/// determinations whose supporting quotations no longer ground in the
-/// reparsed text.
-fn reapply_persisted_temporal_state(paths: &Paths, corpus: &mut Corpus) -> Result<()> {
+/// lawyer-verified decisions. Re-apply the persisted result, using the
+/// freshly reparsed evidence (ordinary transitories plus the reform
+/// evidence just extracted from this same parse) so a determination is
+/// re-applied only when its exact evidence text is unchanged, and an
+/// amendment-event determination resolves correctly instead of being
+/// treated as if its provision vanished.
+fn reapply_persisted_temporal_state(
+    paths: &Paths,
+    config: &SourceConfig,
+    corpus: &mut Corpus,
+    reform_evidence: &[TemporalEvidence],
+) -> Result<()> {
     if !paths.temporal_result.exists() {
         return Ok(());
     }
-    let result: TemporalAnalysisResult = read_json(&paths.temporal_result)?;
-    let (reapplied, stale) =
-        reapply_temporal_determinations(&mut corpus.provisions, &result.determinations);
-    println!("re-applied {reapplied} persisted temporal determinations");
-    if !stale.is_empty() {
+    let mut result: TemporalAnalysisResult = read_json(&paths.temporal_result)?;
+    let current_evidence: HashMap<String, String> =
+        build_temporal_evidence(config, &corpus.provisions, reform_evidence)
+            .into_iter()
+            .map(|evidence| (evidence.provision_id, evidence.text))
+            .collect();
+    let outcome = reapply_temporal_determinations(
+        &mut corpus.provisions,
+        &result.determinations,
+        &current_evidence,
+    );
+    println!(
+        "re-applied {} persisted temporal determinations",
+        outcome.current.len()
+    );
+    if !outcome.stale.is_empty() {
         eprintln!(
             "warning: {} determination(s) no longer ground in the reparsed text and were not \
              re-applied; rerun temporal analysis and review: {}",
-            stale.len(),
-            stale.join(", ")
+            outcome.stale.len(),
+            outcome.stale.join(", ")
         );
+    }
+    // Persist any evidence-hash backfill for legacy (pre-hash) records so
+    // every later reapply is a strict comparison; substantive fields
+    // (status, effects, basis, reviewer) are untouched.
+    if outcome.current.iter().any(|determination| {
+        result
+            .determinations
+            .iter()
+            .find(|previous| previous.provision_id == determination.provision_id)
+            .is_none_or(|previous| previous.evidence_sha256 != determination.evidence_sha256)
+    }) {
+        for updated in &outcome.current {
+            if let Some(previous) = result
+                .determinations
+                .iter_mut()
+                .find(|previous| previous.provision_id == updated.provision_id)
+            {
+                previous
+                    .evidence_sha256
+                    .clone_from(&updated.evidence_sha256);
+            }
+        }
+        write_pretty_json(&result, &paths.temporal_result)?;
     }
     Ok(())
 }
@@ -731,35 +792,12 @@ fn run_link(root: &Path, context: &InstrumentContext) -> Result<()> {
 fn run_temporal_request(context: &InstrumentContext) -> Result<()> {
     let paths = &context.paths;
     let corpus = read_corpus(paths)?;
-    let mut evidence: Vec<TemporalEvidence> = corpus
-        .provisions
-        .iter()
-        .filter(|item| item.provision_type == ProvisionType::Transitory)
-        .map(|item| TemporalEvidence {
-            provision_id: item.id.clone(),
-            label: item.label.clone(),
-            text: item.text.clone(),
-        })
-        .collect();
-    if paths.reform_evidence.exists() {
-        let mut reform_evidence: Vec<TemporalEvidence> = read_json(&paths.reform_evidence)?;
-        let config = &context.config;
-        reform_evidence.retain(|evidence| {
-            config
-                .relevant_reform_transitories
-                .iter()
-                .any(|(date, ordinals)| {
-                    ordinals.iter().any(|ordinal| {
-                        evidence.provision_id
-                            == format!(
-                                "{}:amendment:{date}:transitory:{ordinal}",
-                                config.instrument_id
-                            )
-                    })
-                })
-        });
-        evidence.append(&mut reform_evidence);
-    }
+    let reform_evidence: Vec<TemporalEvidence> = if paths.reform_evidence.exists() {
+        read_json(&paths.reform_evidence)?
+    } else {
+        Vec::new()
+    };
+    let evidence = build_temporal_evidence(&context.config, &corpus.provisions, &reform_evidence);
     let request = TemporalAnalysisRequest {
         schema_version: SCHEMA_VERSION.to_owned(),
         prompt_version: "temporal-v2".to_owned(),
@@ -775,6 +813,48 @@ fn run_temporal_request(context: &InstrumentContext) -> Result<()> {
         request.relevant_provisions.len()
     );
     Ok(())
+}
+
+/// Build the relevant-provisions evidence list: every ordinary transitory,
+/// plus the reform-decree transitories the adapter configures as relevant
+/// to this instrument (`relevant_reform_transitories`). Reused by the
+/// temporal-analysis request and by reparse's temporal-state reapplication,
+/// since an amendment-event determination's provision ID never appears
+/// among canonical provisions — only among reform evidence.
+fn build_temporal_evidence(
+    config: &SourceConfig,
+    provisions: &[lex_core::Provision],
+    reform_evidence: &[TemporalEvidence],
+) -> Vec<TemporalEvidence> {
+    let mut evidence: Vec<TemporalEvidence> = provisions
+        .iter()
+        .filter(|item| item.provision_type == ProvisionType::Transitory)
+        .map(|item| TemporalEvidence {
+            provision_id: item.id.clone(),
+            label: item.label.clone(),
+            text: item.text.clone(),
+        })
+        .collect();
+    let mut relevant_reform_evidence: Vec<TemporalEvidence> = reform_evidence
+        .iter()
+        .filter(|evidence| {
+            config
+                .relevant_reform_transitories
+                .iter()
+                .any(|(date, ordinals)| {
+                    ordinals.iter().any(|ordinal| {
+                        evidence.provision_id
+                            == format!(
+                                "{}:amendment:{date}:transitory:{ordinal}",
+                                config.instrument_id
+                            )
+                    })
+                })
+        })
+        .cloned()
+        .collect();
+    evidence.append(&mut relevant_reform_evidence);
+    evidence
 }
 
 fn run_codex_temporal(root: &Path, context: &InstrumentContext, model: &str) -> Result<()> {
@@ -919,7 +999,14 @@ fn run_review_command(
         ReviewCommand::Open {
             provision_id,
             reason,
-        } => run_review_open(context, &provision_id, &reason),
+        } => {
+            run_review_open(context, &provision_id, &reason)?;
+            run_export(root, context, ExportFormat::Markdown, None)?;
+            if let Some(vault) = obsidian_vault {
+                run_export(root, context, ExportFormat::Obsidian, Some(vault))?;
+            }
+            Ok(())
+        }
         ReviewCommand::Resolve {
             review_id,
             resolution,

@@ -41,7 +41,8 @@
           "responsible_authorities": [],
           "verification_status": "confirmed_by_source_text"
         }
-      ]
+      ],
+      "evidence_sha256": "21c1fc2528c46645a12795c18d48d5e761974e979e558e1c30246f3d7a5cc21b"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:segunda",
@@ -98,7 +99,8 @@
           ],
           "verification_status": "external_verification_required"
         }
-      ]
+      ],
+      "evidence_sha256": "091d13ce01da5093db20da9124983acb50604cecf2d088e7c94c29356a077033"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:tercera",
@@ -175,7 +177,8 @@
           ],
           "verification_status": "external_verification_required"
         }
-      ]
+      ],
+      "evidence_sha256": "ca8955f74c1f3b4fdd86a71e0271d78cf27f2a00594b03b8aa65180867c92e03"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:cuarta",
@@ -232,7 +235,8 @@
           ],
           "verification_status": "external_verification_required"
         }
-      ]
+      ],
+      "evidence_sha256": "8b8a05fe326c6512f92d24d2e5ee35169a7a96f75359d3d1638daaf5c313f9c2"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:quinta",
@@ -291,7 +295,8 @@
           ],
           "verification_status": "external_verification_required"
         }
-      ]
+      ],
+      "evidence_sha256": "32f7a93fe8b9c397e790de5b1ed32e76e758dde41dc20f6d9f325ff2c8b13d4e"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:sexta",
@@ -368,7 +373,8 @@
           ],
           "verification_status": "external_verification_required"
         }
-      ]
+      ],
+      "evidence_sha256": "2f2a74c7810f607cfa095be59d098d555450f2368e7f0e512d6ca542a41fb032"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:septima",
@@ -430,7 +436,8 @@
           "verification_status": "external_verification_required",
           "verification_note": "La fuente aportada verifica la publicación de las disposiciones, no la celebración del convenio del artículo 71."
         }
-      ]
+      ],
+      "evidence_sha256": "0a3a024081ee3b3b175f55913f119f703d5d03facbd5df17d8fce8ad1199b0ea"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:octava",
@@ -526,7 +533,8 @@
           ],
           "verification_status": "external_verification_required"
         }
-      ]
+      ],
+      "evidence_sha256": "ac58428656f043819ebd94c930a0b38f291451d251151c2fedb26993c80f6bcc"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:novena",
@@ -561,7 +569,8 @@
           "responsible_authorities": [],
           "verification_status": "external_verification_required"
         }
-      ]
+      ],
+      "evidence_sha256": "6190951eb9d991b13829bb69dc650ee5329f1201fcc1f5bb03c5663a14ec4bdf"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:decima",
@@ -601,7 +610,8 @@
           ],
           "verification_status": "open_ended_by_design"
         }
-      ]
+      ],
+      "evidence_sha256": "80bc5d35693b936459598c612199f4b896d96f655b03e7f6d571515f9a6533f1"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:transitory:decima-primera",
@@ -638,7 +648,8 @@
           ],
           "verification_status": "external_verification_required"
         }
-      ]
+      ],
+      "evidence_sha256": "3f7b2538c4ac7285a3598ae43e7ca44c920e0bffe8feb6673f5fb6670093c262"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2021-05-20:transitory:primero",
@@ -673,7 +684,8 @@
           "responsible_authorities": [],
           "verification_status": "confirmed_by_source_text"
         }
-      ]
+      ],
+      "evidence_sha256": "4c8928d09720e909aae5a5325cbebd35356a6287f01bd0d4d30408e9c68c7c39"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:primero",
@@ -708,7 +720,8 @@
           "responsible_authorities": [],
           "verification_status": "confirmed_by_source_text"
         }
-      ]
+      ],
+      "evidence_sha256": "39d3b03da417c11d4a770e514717be77c48f11cfbd7dae8cfb6d9570ca3c9a9b"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:segundo",
@@ -743,7 +756,8 @@
           "responsible_authorities": [],
           "verification_status": "open_ended_by_design"
         }
-      ]
+      ],
+      "evidence_sha256": "1afce4b593f5ec1bb1567f613b0215614115d7a91fd783735dcfe349f444dff4"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:tercero",
@@ -778,7 +792,8 @@
           "responsible_authorities": [],
           "verification_status": "open_ended_by_design"
         }
-      ]
+      ],
+      "evidence_sha256": "c1dda7b372910b29805908c8e7504e39814a44a0e3cd7639f8d4994466b5b4bf"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2024-01-24:transitory:cuarto",
@@ -815,7 +830,8 @@
           ],
           "verification_status": "open_ended_by_design"
         }
-      ]
+      ],
+      "evidence_sha256": "27935bcaefac31940f760d2c20be7a6f0065facdc99ead49b9967bb1bceacb3b"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:primero",
@@ -850,7 +866,8 @@
           "responsible_authorities": [],
           "verification_status": "confirmed_by_source_text"
         }
-      ]
+      ],
+      "evidence_sha256": "39d3b03da417c11d4a770e514717be77c48f11cfbd7dae8cfb6d9570ca3c9a9b"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:segundo",
@@ -909,7 +926,8 @@
           ],
           "verification_status": "external_verification_required"
         }
-      ]
+      ],
+      "evidence_sha256": "f354bf42820b9bfa3966bcc896319b3fb3c02933b2e061b62e99b624293cb9bc"
     },
     {
       "provision_id": "urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:tercero",
@@ -962,7 +980,8 @@
           "responsible_authorities": [],
           "verification_status": "open_ended_by_design"
         }
-      ]
+      ],
+      "evidence_sha256": "107e6069d0c1b540cde87971089b3fe6f0584caebd6cc92030cfa765a689d8fe"
     }
   ]
 }

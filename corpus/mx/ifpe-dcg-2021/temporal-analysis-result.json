@@ -41,7 +41,8 @@
           "responsible_authorities": [],
           "verification_status": "confirmed_by_source_text"
         }
-      ]
+      ],
+      "evidence_sha256": "7f306bb43046f8ee9e26350f6722a40bb304d8144fe706d8f51eb3b1208a5e14"
     },
     {
       "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:transitory:segundo",
@@ -76,7 +77,8 @@
           "responsible_authorities": [],
           "verification_status": "confirmed_by_source_text"
         }
-      ]
+      ],
+      "evidence_sha256": "347f88dabe8caf0b8b2bba47b692283d072c2af8d81736d620e7b088f6461cbd"
     },
     {
       "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:transitory:tercero",
@@ -111,7 +113,8 @@
           "responsible_authorities": [],
           "verification_status": "confirmed_by_source_text"
         }
-      ]
+      ],
+      "evidence_sha256": "e125b8cd1c9784ec631f5cec23813cd0ad3d7dc7c3da808c43c27828e7507e2d"
     },
     {
       "provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:transitory:cuarto",
@@ -148,7 +151,8 @@
           ],
           "verification_status": "external_verification_required"
         }
-      ]
+      ],
+      "evidence_sha256": "8abbf709314e51eae808d34267e2d26300153c2aa59f7db6fd6450959590287f"
     }
   ]
 }
