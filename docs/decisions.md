@@ -309,15 +309,26 @@ or a reviewer opened it — could be silently cleared if a rerun happened to
 produce a confident, clean result for that evidence, contradicting the
 rule that review cannot be resolved by model confidence alone.
 `preserve_temporal_review_history` now forward-carries every previous
-item, pending or resolved — but only when `evidence_sha256` on the
-previous determination matches the freshly routed current determination's
-own hash (already computed by this same rerun against current evidence,
-before being overwritten). A hash mismatch means the evidence changed
-since that review was made, so the old determination and review item are
-not restored: the freshly routed determination stands and the stale item
-is dropped rather than silently reinstated over materially different
-text. A legacy determination with no hash at all is never restored either
-— an unverifiable match is treated as changed, not preserved.
+item, pending or resolved — but only *restores it onto the corpus* when
+`evidence_sha256` on the previous determination matches the freshly
+routed current determination's own hash (already computed by this same
+rerun against current evidence, before being overwritten). A hash
+mismatch means the evidence changed since that review was made, so the
+old determination is never applied: the freshly routed determination
+stands.
+
+The old review item itself is never dropped, though — an earlier version
+of this fix did exactly that, silently deleting a reviewer's identity,
+rationale, timestamp, and prior machine proposal from `review-queue.json`
+on the very next hash mismatch, contrary to `AGENTS.md`'s requirement to
+preserve those for every legal-review resolution regardless of what
+happens to the underlying evidence afterward. The item is archived
+verbatim under a version-qualified ID scoped to the evidence it concerns
+(`review:temporal:<provision_id>:evidence:<hash>`, or `:evidence:legacy`
+for a record with no hash at all), so it cannot collide with — or be
+mistaken for — a fresh review opened under the canonical ID for the
+current evidence. The CLI warns the operator by provision ID when this
+happens, since it means a review is needed of the new text.
 
 **Reparse reapplication's legacy fallback was itself unsafe.** A
 determination predating evidence hashing (empty `evidence_sha256`) was

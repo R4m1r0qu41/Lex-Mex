@@ -905,12 +905,21 @@ fn run_temporal_import(
     if paths.temporal_result.exists() && paths.review_queue.exists() {
         let previous_result: TemporalAnalysisResult = read_json(&paths.temporal_result)?;
         let previous_items: Vec<ReviewItem> = read_json(&paths.review_queue)?;
-        preserve_temporal_review_history(
+        let superseded = preserve_temporal_review_history(
             &mut routed.result,
             &mut routed.review_items,
             &previous_result,
             &previous_items,
         );
+        if !superseded.is_empty() {
+            eprintln!(
+                "warning: {} previous review(s) concerned evidence that no longer matches the \
+                 current text; archived under a versioned ID, not applied, and need a fresh \
+                 review of the new text: {}",
+                superseded.len(),
+                superseded.join(", ")
+            );
+        }
     }
     enrich_review_context(&mut routed.review_items, &context.config);
     write_pretty_json(&routed.result, &paths.temporal_result)?;

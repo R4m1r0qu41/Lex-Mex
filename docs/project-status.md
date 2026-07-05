@@ -231,11 +231,16 @@ Current recorded source hashes:
   has no verifiable provenance and is marked stale, never grandfathered in
   through a substring check.
 - A pending or resolved review is never cleared by a model rerun regardless
-  of the rerun's confidence, but restoration itself requires the previous
-  determination's evidence hash to match the freshly routed current
-  determination's hash; changed evidence means the old review no longer
-  applies, so the fresh determination stands instead of silently
-  reinstating a decision made about different text.
+  of the rerun's confidence, but restoration onto the corpus itself
+  requires the previous determination's evidence hash to match the
+  freshly routed current determination's hash; changed evidence means the
+  old determination is never applied, so the fresh one stands instead of
+  silently reinstating a decision made about different text. The old
+  review item is never discarded either way: it is archived verbatim
+  under a version-qualified ID scoped to the evidence it concerns
+  (reviewer identity, timestamp, rationale, and prior machine proposal
+  all intact), and the CLI warns by provision ID that a fresh review of
+  the new text is needed.
 
 ### Markdown and Obsidian
 

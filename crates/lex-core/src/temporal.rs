@@ -464,13 +464,30 @@ fn valid_effect(effect: &crate::TransitoryEffect) -> bool {
 /// review already awaiting one cannot be cleared merely because a fresh
 /// model run produced a higher-confidence or unambiguous result: the
 /// determination and its review item are restored exactly as they were
-/// until a human actually resolves them.
+/// until a human actually resolves them — but only while the evidence is
+/// exactly what that review was made against.
+///
+/// When the evidence has changed, restoring the old determination onto the
+/// corpus would silently reinstate a decision made about different text,
+/// so it is never applied. The review item itself is never discarded
+/// either: `AGENTS.md` requires preserving reviewer identity, timestamp,
+/// rationale, source links, and prior machine proposal for every
+/// legal-review resolution, and that applies regardless of whether the
+/// evidence underneath later changed. The old item is archived verbatim
+/// under a version-qualified ID scoped to the evidence it concerns
+/// (`…:evidence:<hash>`, or `…:evidence:legacy` for a record that predates
+/// evidence hashing), so it cannot collide with a fresh review opened
+/// under the canonical ID for the current evidence. Returns the provision
+/// IDs archived this way, so the caller can tell the operator a review
+/// needs a fresh look at the new text.
+#[must_use]
 pub fn preserve_temporal_review_history(
     result: &mut TemporalAnalysisResult,
     review_items: &mut Vec<ReviewItem>,
     previous_result: &TemporalAnalysisResult,
     previous_items: &[ReviewItem],
-) {
+) -> Vec<String> {
+    let mut superseded = Vec::new();
     for previous_item in previous_items {
         let Some(previous_determination) = previous_result
             .determinations
@@ -486,19 +503,21 @@ pub fn preserve_temporal_review_history(
         else {
             continue;
         };
-        // Restoration must be gated on the evidence being exactly what the
-        // previous review was made against — `current_determination` was
-        // just computed by this rerun from the current evidence, so its
-        // own (pre-overwrite) hash is the current hash. A legacy record
-        // predating evidence hashing (empty hash) is never restored: an
-        // unverifiable match is treated as changed, not preserved, so a
-        // reviewed decision can never be silently reinstated over
-        // materially different text. Changed evidence means the previous
-        // review no longer applies; the freshly routed determination
-        // stands, and the stale item is not carried forward.
-        if previous_determination.evidence_sha256.is_empty()
-            || previous_determination.evidence_sha256 != current_determination.evidence_sha256
-        {
+        // `current_determination` was just computed by this rerun from
+        // the current evidence, so its own (pre-overwrite) hash is the
+        // current hash.
+        if previous_determination.evidence_sha256 != current_determination.evidence_sha256 {
+            let version = if previous_determination.evidence_sha256.is_empty() {
+                "legacy".to_owned()
+            } else {
+                previous_determination.evidence_sha256.clone()
+            };
+            let mut archived = previous_item.clone();
+            archived.id = format!("{}:evidence:{version}", previous_item.id);
+            if !review_items.iter().any(|item| item.id == archived.id) {
+                review_items.push(archived);
+            }
+            superseded.push(previous_item.provision_id.clone());
             continue;
         }
         *current_determination = previous_determination.clone();
@@ -511,6 +530,7 @@ pub fn preserve_temporal_review_history(
             review_items.push(previous_item.clone());
         }
     }
+    superseded
 }
 
 fn reject_override_fields(
@@ -771,22 +791,38 @@ mod tests {
             previous.result.determinations[0].evidence_sha256
         );
 
-        preserve_temporal_review_history(
+        let superseded = preserve_temporal_review_history(
             &mut rerun.result,
             &mut rerun.review_items,
             &previous.result,
             &previous.review_items,
         );
 
-        // The stale resolved decision is not restored: the fresh
-        // determination (and its own fresh routing) stands instead.
+        // The stale resolved decision is not restored onto the corpus: the
+        // fresh determination (and its own fresh routing) stands instead.
         assert_ne!(rerun.result.determinations[0].basis, Basis::LawyerVerified);
-        assert!(
-            !rerun
-                .review_items
-                .iter()
-                .any(|item| item.status == ReviewItemStatus::Resolved)
+        assert_eq!(
+            superseded,
+            vec![previous.review_items[0].provision_id.clone()]
         );
+
+        // But it is not discarded either: reviewer identity, timestamp,
+        // rationale, and the prior machine proposal survive, archived
+        // under a versioned ID scoped to the evidence it concerned so it
+        // cannot collide with a fresh review of the current text.
+        let archived = rerun
+            .review_items
+            .iter()
+            .find(|item| item.status == ReviewItemStatus::Resolved)
+            .expect("the resolved decision is archived, not dropped");
+        assert_eq!(archived.resolved_by.as_deref(), Some("Lic. Ejemplo"));
+        assert_eq!(
+            archived.reviewer_note.as_deref(),
+            Some("Se requiere fuente formal adicional.")
+        );
+        assert_ne!(archived.id, previous.review_items[0].id);
+        assert!(archived.id.starts_with(&previous.review_items[0].id));
+        assert!(archived.id.contains(":evidence:"));
     }
 
     #[test]
@@ -811,13 +847,17 @@ mod tests {
             "the fresh run must not itself route to review, matching the scenario"
         );
 
-        preserve_temporal_review_history(
+        let superseded = preserve_temporal_review_history(
             &mut rerun.result,
             &mut rerun.review_items,
             &previous.result,
             &previous.review_items,
         );
 
+        assert!(
+            superseded.is_empty(),
+            "evidence is unchanged in this scenario"
+        );
         assert_eq!(rerun.review_items.len(), 1);
         assert_eq!(rerun.review_items[0].status, ReviewItemStatus::Pending);
         assert!(rerun.result.determinations[0].review_required);
@@ -847,13 +887,17 @@ mod tests {
         .unwrap();
         let mut rerun = routed_review();
 
-        preserve_temporal_review_history(
+        let superseded = preserve_temporal_review_history(
             &mut rerun.result,
             &mut rerun.review_items,
             &previous.result,
             &previous.review_items,
         );
 
+        assert!(
+            superseded.is_empty(),
+            "evidence is unchanged in this scenario"
+        );
         assert_eq!(rerun.review_items[0].status, ReviewItemStatus::Resolved);
         assert_eq!(
             rerun.result.determinations[0].temporal_status,
