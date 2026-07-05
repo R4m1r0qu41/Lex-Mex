@@ -309,8 +309,30 @@ or a reviewer opened it — could be silently cleared if a rerun happened to
 produce a confident, clean result for that evidence, contradicting the
 rule that review cannot be resolved by model confidence alone.
 `preserve_temporal_review_history` now forward-carries every previous
-item, pending or resolved, restoring both the review item and its
-determination exactly as they were until a human actually resolves it.
+item, pending or resolved — but only when `evidence_sha256` on the
+previous determination matches the freshly routed current determination's
+own hash (already computed by this same rerun against current evidence,
+before being overwritten). A hash mismatch means the evidence changed
+since that review was made, so the old determination and review item are
+not restored: the freshly routed determination stands and the stale item
+is dropped rather than silently reinstated over materially different
+text. A legacy determination with no hash at all is never restored either
+— an unverifiable match is treated as changed, not preserved.
+
+**Reparse reapplication's legacy fallback was itself unsafe.** A
+determination predating evidence hashing (empty `evidence_sha256`) was
+grandfathered in via the same one-time substring check it was meant to
+replace, and its hash silently backfilled. That is exactly the weak check
+the hash exists to replace: it is not run at all. A legacy record is now
+unconditionally marked stale, forcing a fresh temporal-analysis run
+instead of trusting an unverifiable match.
+
+**`schemas/temporal-analysis.schema.json`, which documents the canonical
+`TemporalDetermination` shape, was not updated for `evidence_sha256`.**
+With `additionalProperties: false`, every determination written after
+that field was added violated the schema. The field is now declared
+(required, empty string or 64 lowercase hex characters) so committed
+determinations validate.
 
 **`review open` did not regenerate Markdown or the Obsidian dashboard**,
 unlike `review resolve`; a newly opened review was invisible in published

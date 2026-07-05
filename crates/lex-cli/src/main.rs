@@ -647,7 +647,7 @@ fn reapply_persisted_temporal_state(
     if !paths.temporal_result.exists() {
         return Ok(());
     }
-    let mut result: TemporalAnalysisResult = read_json(&paths.temporal_result)?;
+    let result: TemporalAnalysisResult = read_json(&paths.temporal_result)?;
     let current_evidence: HashMap<String, String> =
         build_temporal_evidence(config, &corpus.provisions, reform_evidence)
             .into_iter()
@@ -664,34 +664,12 @@ fn reapply_persisted_temporal_state(
     );
     if !outcome.stale.is_empty() {
         eprintln!(
-            "warning: {} determination(s) no longer ground in the reparsed text and were not \
-             re-applied; rerun temporal analysis and review: {}",
+            "warning: {} determination(s) no longer ground in the reparsed text (or lack \
+             recorded evidence provenance) and were not re-applied; rerun temporal analysis \
+             and review: {}",
             outcome.stale.len(),
             outcome.stale.join(", ")
         );
-    }
-    // Persist any evidence-hash backfill for legacy (pre-hash) records so
-    // every later reapply is a strict comparison; substantive fields
-    // (status, effects, basis, reviewer) are untouched.
-    if outcome.current.iter().any(|determination| {
-        result
-            .determinations
-            .iter()
-            .find(|previous| previous.provision_id == determination.provision_id)
-            .is_none_or(|previous| previous.evidence_sha256 != determination.evidence_sha256)
-    }) {
-        for updated in &outcome.current {
-            if let Some(previous) = result
-                .determinations
-                .iter_mut()
-                .find(|previous| previous.provision_id == updated.provision_id)
-            {
-                previous
-                    .evidence_sha256
-                    .clone_from(&updated.evidence_sha256);
-            }
-        }
-        write_pretty_json(&result, &paths.temporal_result)?;
     }
     Ok(())
 }

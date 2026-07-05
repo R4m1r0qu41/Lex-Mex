@@ -472,17 +472,36 @@ pub fn preserve_temporal_review_history(
     previous_items: &[ReviewItem],
 ) {
     for previous_item in previous_items {
-        if let Some(previous_determination) = previous_result
+        let Some(previous_determination) = previous_result
             .determinations
             .iter()
             .find(|item| item.provision_id == previous_item.provision_id)
-            && let Some(current_determination) = result
-                .determinations
-                .iter_mut()
-                .find(|item| item.provision_id == previous_item.provision_id)
+        else {
+            continue;
+        };
+        let Some(current_determination) = result
+            .determinations
+            .iter_mut()
+            .find(|item| item.provision_id == previous_item.provision_id)
+        else {
+            continue;
+        };
+        // Restoration must be gated on the evidence being exactly what the
+        // previous review was made against — `current_determination` was
+        // just computed by this rerun from the current evidence, so its
+        // own (pre-overwrite) hash is the current hash. A legacy record
+        // predating evidence hashing (empty hash) is never restored: an
+        // unverifiable match is treated as changed, not preserved, so a
+        // reviewed decision can never be silently reinstated over
+        // materially different text. Changed evidence means the previous
+        // review no longer applies; the freshly routed determination
+        // stands, and the stale item is not carried forward.
+        if previous_determination.evidence_sha256.is_empty()
+            || previous_determination.evidence_sha256 != current_determination.evidence_sha256
         {
-            *current_determination = previous_determination.clone();
+            continue;
         }
+        *current_determination = previous_determination.clone();
         if let Some(current_item) = review_items
             .iter_mut()
             .find(|item| item.id == previous_item.id)
@@ -508,28 +527,21 @@ fn reject_override_fields(
     }
 }
 
-/// Re-apply persisted temporal determinations to freshly parsed provisions,
-/// so a reparse never silently erases applied temporal state — including
-/// audited lawyer-verified decisions. A determination is re-applied only
-/// when its provision still exists and every supporting quotation is still
-/// an exact substring of the new canonical text; the rest are returned as
-/// stale so the caller can warn that temporal analysis must be rerun. The
-/// persisted result and review queue are never modified here.
 /// Outcome of reapplying a persisted temporal result after a reparse.
 pub struct ReappliedTemporalState {
-    /// Determinations that remain grounded, in persisted order. Identical
-    /// to the input except that a legacy record (empty `evidence_sha256`)
-    /// that passed its one-time grandfather check has its hash backfilled;
-    /// the caller should persist that backfill so later reapplies are a
-    /// strict comparison.
+    /// Determinations that remain grounded, in persisted order, unchanged
+    /// from the input.
     pub current: Vec<TemporalDetermination>,
-    /// Provision IDs whose evidence text has materially changed (or is no
-    /// longer present in `current_evidence` at all) and were therefore not
-    /// re-applied to the corpus. Temporal analysis must be rerun for these.
+    /// Provision IDs whose evidence text has materially changed, is no
+    /// longer present in `current_evidence` at all, or was never hashed in
+    /// the first place, and were therefore not re-applied to the corpus.
+    /// Temporal analysis must be rerun for these.
     pub stale: Vec<String>,
 }
 
-/// Re-apply a persisted temporal result to freshly reparsed provisions.
+/// Re-apply a persisted temporal result to freshly reparsed provisions, so
+/// a reparse never silently erases applied temporal state — including
+/// audited lawyer-verified decisions.
 ///
 /// `current_evidence` must be built the same way the temporal-analysis
 /// request is built (ordinary transitory text plus any relevant reform
@@ -541,11 +553,11 @@ pub struct ReappliedTemporalState {
 /// A determination is re-applied only when the current evidence text
 /// hashes identically to `evidence_sha256` — a supporting quotation merely
 /// remaining a substring of materially different text is not sufficient,
-/// since unrelated edits nearby could still contain the quoted fragment.
-/// A determination recorded before this field existed (empty
-/// `evidence_sha256`) is grandfathered in once via the substring check it
-/// replaces, then has its hash backfilled so every subsequent reapply is a
-/// strict comparison.
+/// since unrelated edits nearby could still contain the quoted fragment. A
+/// determination recorded before this field existed (empty
+/// `evidence_sha256`) has no verifiable provenance and is conservatively
+/// treated as stale rather than grandfathered in through a substring
+/// check.
 #[must_use]
 #[allow(clippy::implicit_hasher)]
 pub fn reapply_temporal_determinations(
@@ -556,23 +568,16 @@ pub fn reapply_temporal_determinations(
     let mut current = Vec::new();
     let mut stale = Vec::new();
     for determination in determinations {
-        let Some(text) = current_evidence.get(determination.provision_id.as_str()) else {
-            stale.push(determination.provision_id.clone());
-            continue;
-        };
-        let current_hash = evidence_sha256(text);
-        let grounded = if determination.evidence_sha256.is_empty() {
-            determination
-                .supporting_text
-                .iter()
-                .all(|quote| text.contains(quote))
-        } else {
-            determination.evidence_sha256 == current_hash
-        };
+        // No verifiable provenance is treated as changed, not grounded: a
+        // legacy record predating evidence hashing is marked stale rather
+        // than grandfathered in through a substring check, which cannot
+        // rule out a materially different surrounding text.
+        let grounded = !determination.evidence_sha256.is_empty()
+            && current_evidence
+                .get(determination.provision_id.as_str())
+                .is_some_and(|text| determination.evidence_sha256 == evidence_sha256(text));
         if grounded {
-            let mut carried = determination.clone();
-            carried.evidence_sha256 = current_hash;
-            current.push(carried);
+            current.push(determination.clone());
         } else {
             stale.push(determination.provision_id.clone());
         }
@@ -718,6 +723,70 @@ mod tests {
             error,
             TemporalReviewResolutionError::IncompleteLawyerOverride
         ));
+    }
+
+    #[test]
+    fn changed_evidence_does_not_restore_a_stale_reviewed_decision() {
+        // A resolved review must not be blindly reinstated over a rerun
+        // whose determination reflects materially different evidence: the
+        // human decision was made about different text and no longer
+        // applies. Only when the evidence hash is unchanged is restoration
+        // safe.
+        let mut previous = routed_review();
+        resolve_temporal_review(
+            &mut previous.review_items[0],
+            &mut previous.result.determinations,
+            TemporalReviewResolution {
+                resolution: ReviewResolution::SetUnknown,
+                reviewer: "Lic. Ejemplo".to_owned(),
+                note: Some("Se requiere fuente formal adicional.".to_owned()),
+                temporal_status: None,
+                effective_from: None,
+                effective_to: None,
+                effects: None,
+                resolved_at: Utc.with_ymd_and_hms(2026, 6, 29, 1, 0, 0).unwrap(),
+            },
+        )
+        .unwrap();
+        assert!(!previous.result.determinations[0].evidence_sha256.is_empty());
+
+        // The rerun is against materially different evidence text (still
+        // containing the old quoted fragment, so a bare substring check
+        // would wrongly call it unchanged) — its own evidence_sha256
+        // therefore differs from the resolved determination's.
+        let mut different_request = request();
+        different_request.relevant_provisions[0].text = format!(
+            "Disposición reformada con requisitos adicionales. {} Nuevo texto final.",
+            different_request.relevant_provisions[0].text
+        );
+        let mut rerun = route(
+            &different_request,
+            model_batch(procedural_survival_effect(
+                TemporalVerificationStatus::UnknownMaterial,
+            )),
+        )
+        .unwrap();
+        assert_ne!(
+            rerun.result.determinations[0].evidence_sha256,
+            previous.result.determinations[0].evidence_sha256
+        );
+
+        preserve_temporal_review_history(
+            &mut rerun.result,
+            &mut rerun.review_items,
+            &previous.result,
+            &previous.review_items,
+        );
+
+        // The stale resolved decision is not restored: the fresh
+        // determination (and its own fresh routing) stands instead.
+        assert_ne!(rerun.result.determinations[0].basis, Basis::LawyerVerified);
+        assert!(
+            !rerun
+                .review_items
+                .iter()
+                .any(|item| item.status == ReviewItemStatus::Resolved)
+        );
     }
 
     #[test]
@@ -976,7 +1045,12 @@ mod tests {
     }
 
     #[test]
-    fn legacy_record_without_a_hash_is_grandfathered_in_once_and_then_backfilled() {
+    fn legacy_record_without_a_hash_is_marked_stale_not_grandfathered() {
+        // A record predating evidence hashing has no verifiable
+        // provenance. Even though the old quotation still substring-matches
+        // exactly, it must not be silently reinstated — that heuristic is
+        // exactly what let a stale reviewed decision survive unrelated
+        // text changes. It is reported stale so temporal analysis reruns.
         let mut determination = sample_determination();
         determination.supporting_text = vec!["texto de apoyo".to_owned()];
         determination.evidence_sha256 = String::new();
@@ -990,13 +1064,9 @@ mod tests {
 
         let outcome =
             reapply_temporal_determinations(&mut provisions, &determinations, &current_evidence);
-        assert_eq!(outcome.current.len(), 1);
-        assert!(outcome.stale.is_empty());
-        // The hash is backfilled so the next reapply is a strict comparison.
-        assert_eq!(
-            outcome.current[0].evidence_sha256,
-            evidence_sha256("Contiene el texto de apoyo citado.")
-        );
+        assert!(outcome.current.is_empty());
+        assert_eq!(outcome.stale.len(), 1);
+        assert_eq!(provisions[0].review_status, ReviewStatus::NotAnalyzed);
     }
 
     fn sample_provision_with_text(text: &str) -> crate::Provision {

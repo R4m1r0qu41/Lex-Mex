@@ -227,9 +227,15 @@ Current recorded source hashes:
   determination was made against (`evidence_sha256`), not a supporting
   quotation merely surviving somewhere in changed text, and uses the same
   evidence construction as the analysis request so amendment-event
-  determinations reapply correctly. A pending review — routed by the model
-  or opened by a reviewer — is never cleared by a model rerun regardless of
-  the rerun's confidence; it is restored exactly until a human resolves it.
+  determinations reapply correctly. A determination with no recorded hash
+  has no verifiable provenance and is marked stale, never grandfathered in
+  through a substring check.
+- A pending or resolved review is never cleared by a model rerun regardless
+  of the rerun's confidence, but restoration itself requires the previous
+  determination's evidence hash to match the freshly routed current
+  determination's hash; changed evidence means the old review no longer
+  applies, so the fresh determination stands instead of silently
+  reinstating a decision made about different text.
 
 ### Markdown and Obsidian
 
