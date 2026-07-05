@@ -2070,6 +2070,7 @@ mod tests {
                 references: &references,
                 terms: &[],
                 term_usages: &[],
+                amendment_references: &[],
             },
             &super::CorpusExpectations::default(),
             &known_targets,
