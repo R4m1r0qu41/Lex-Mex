@@ -330,6 +330,20 @@ mistaken for — a fresh review opened under the canonical ID for the
 current evidence. The CLI warns the operator by provision ID when this
 happens, since it means a review is needed of the new text.
 
+That archival step itself had a second-order bug: it reprocessed every
+previous item on every call, including ones it had already archived. An
+already-archived item's ID already carries an `:evidence:<hash>` suffix,
+so archiving it again appended a second suffix
+(`…:evidence:hash1:evidence:hash2`) instead of leaving the historical
+record untouched, and the same provision could be reported superseded
+more than once from a single rerun. An already-archived item is now
+recognized by its ID and carried forward into `review_items` verbatim,
+never re-compared against a determination or re-archived: only the one
+live item under a provision's canonical ID is ever evaluated for
+restoration or archival. Verified across two successive evidence changes
+for the same provision — the archived ID and its contents stay identical
+after the second rerun, and no second warning fires.
+
 **Reparse reapplication's legacy fallback was itself unsafe.** A
 determination predating evidence hashing (empty `evidence_sha256`) was
 grandfathered in via the same one-time substring check it was meant to

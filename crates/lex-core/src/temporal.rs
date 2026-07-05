@@ -480,6 +480,13 @@ fn valid_effect(effect: &crate::TransitoryEffect) -> bool {
 /// under the canonical ID for the current evidence. Returns the provision
 /// IDs archived this way, so the caller can tell the operator a review
 /// needs a fresh look at the new text.
+///
+/// An already-archived item (its ID already carries an `:evidence:`
+/// suffix) is immutable history: it is carried forward into `review_items`
+/// verbatim on every later call, never re-compared against a
+/// determination or re-archived under a further-nested ID. Only the one
+/// live item under a provision's canonical ID is ever evaluated for
+/// restoration or archival.
 #[must_use]
 pub fn preserve_temporal_review_history(
     result: &mut TemporalAnalysisResult,
@@ -489,6 +496,12 @@ pub fn preserve_temporal_review_history(
 ) -> Vec<String> {
     let mut superseded = Vec::new();
     for previous_item in previous_items {
+        if is_archived_review_item_id(&previous_item.id) {
+            if !review_items.iter().any(|item| item.id == previous_item.id) {
+                review_items.push(previous_item.clone());
+            }
+            continue;
+        }
         let Some(previous_determination) = previous_result
             .determinations
             .iter()
@@ -531,6 +544,10 @@ pub fn preserve_temporal_review_history(
         }
     }
     superseded
+}
+
+fn is_archived_review_item_id(id: &str) -> bool {
+    id.starts_with("review:temporal:") && id.contains(":evidence:")
 }
 
 fn reject_override_fields(
@@ -823,6 +840,38 @@ mod tests {
         assert_ne!(archived.id, previous.review_items[0].id);
         assert!(archived.id.starts_with(&previous.review_items[0].id));
         assert!(archived.id.contains(":evidence:"));
+
+        // A later rerun must preserve the archived record verbatim rather
+        // than nesting another evidence suffix onto it.
+        let mut second_rerun = route(
+            &different_request,
+            model_batch(procedural_survival_effect(
+                TemporalVerificationStatus::UnknownMaterial,
+            )),
+        )
+        .unwrap();
+        let second_superseded = preserve_temporal_review_history(
+            &mut second_rerun.result,
+            &mut second_rerun.review_items,
+            &rerun.result,
+            &rerun.review_items,
+        );
+
+        assert!(
+            second_superseded.is_empty(),
+            "the archived item is carried forward verbatim, not superseded again"
+        );
+        let archived_again = second_rerun
+            .review_items
+            .iter()
+            .find(|item| item.status == ReviewItemStatus::Resolved)
+            .expect("the archived decision remains present");
+        assert_eq!(archived_again.id, archived.id);
+        assert_eq!(archived_again.resolved_by.as_deref(), Some("Lic. Ejemplo"));
+        assert_eq!(
+            archived_again.reviewer_note.as_deref(),
+            Some("Se requiere fuente formal adicional.")
+        );
     }
 
     #[test]
