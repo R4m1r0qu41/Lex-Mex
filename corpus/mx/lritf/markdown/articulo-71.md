@@ -40,7 +40,7 @@ Las ITF que sean objeto de una visita de inspección en términos de esta Ley y 
 
 En la documentación a que se refiere el párrafo anterior, queda comprendida de manera enunciativa mas no limitativa, la información general o específica contenida en informes, registros, libros de actas, auxiliares, correspondencia, [Infraestructura Tecnológica](articulo-4.md), procesamiento y conservación de datos, incluyendo cualesquiera otros procedimientos técnicos establecidos para ese objeto, ya sean archivos magnéticos o documentos digitalizados o grabados y procedimientos ópticos para su consulta o de cualquier otra naturaleza.
 
-La CNBV y el Banco de México, para el ejercicio de sus respectivas facultades de supervisión, podrán solicitar y ejercer las medidas de apremio a que se refiere el artículo siguiente.
+La CNBV y el Banco de México, para el ejercicio de sus respectivas facultades de supervisión, podrán solicitar y ejercer las medidas de apremio a que se refiere el [artículo siguiente](articulo-72.md).
 
 Cuando en el ejercicio de la función prevista en este artículo, la CNBV o Banco de México así lo requieran, podrá contratar los servicios de auditores y de otros profesionistas que le auxilien en dicha función.
 

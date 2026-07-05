@@ -341,10 +341,15 @@ fn reference_injections<'a>(
     obsidian: bool,
 ) -> Vec<Injection<'a>> {
     let mut injections: Vec<Injection<'a>> = Vec::new();
+    // Range expansions are excluded: the expanded middle articles share
+    // one span with the range endpoints, which already link directly.
     for edge in corpus.references.iter().filter(|edge| {
         edge.source_provision_id == source_id
             && edge.resolution_status == ReferenceResolutionStatus::Resolved
-            && edge.reference_form == ReferenceForm::Direct
+            && matches!(
+                edge.reference_form,
+                ReferenceForm::Direct | ReferenceForm::Relative
+            )
     }) {
         let Some(target) = targets.get(&edge.target_provision_id) else {
             continue;

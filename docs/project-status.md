@@ -421,17 +421,31 @@ Checks rerun successfully on 2026-07-03:
 
 ## 6. Suggested next steps
 
-1. **Relative article references** — resolve `artículo anterior`,
-   `artículo siguiente`, and `este artículo` using provision order; the DCG
-   provides immediate test material.
-2. **Pre-number qualifier coverage for noun-first forms** — `párrafos
-   segundo y tercero del artículo N` (noun before ordinal) is not yet
-   captured.
-3. **JRH review pass over the DCG temporal determinations** — three of the
+1. **JRH review pass over the DCG temporal determinations** — three of the
    four machine-accepted determinations remain unverified (CUARTO is
    lawyer-verified).
-4. **Expand the corpus** toward the remaining MVP statutes — the general
+2. **Expand the corpus** toward the remaining MVP statutes — the general
    Fintech DCG (10/09/2018) next, using its compiled document as the
    consolidated operational source with its numbered resoluciones
    modificatorias as amendment provenance — then build the update engine
    (source monitoring, diffs, DOF early warning).
+
+Completed since the last revision of this list:
+
+- **Relative article references.** `artículo anterior` / `artículo
+  siguiente` resolve against the source provision's same-type neighbor in
+  document order (a transitory's `anterior` is the previous transitory,
+  never the last article), carry pre-number qualifiers, and use the
+  distinguishable `reference_form: relative` — the target is inferred from
+  position, not named in the text. 11 LRITF and 2 DCG edges, all resolved.
+  The plural `artículos anteriores` names no single deterministic target
+  and stays unlinked; bare `este artículo` / `el presente artículo`
+  self-references (174 occurrences) are deliberately not extracted because
+  the reader is already inside the target and the fraction-scoped form is
+  handled by the same-article path.
+- **Noun-first and penultimate pre-number qualifiers.** `párrafos segundo
+  y tercero del artículo N` (noun before ordinal) and `penúltimo párrafo
+  del artículo N` are now captured. Neither noun-first form occurs with a
+  numeric target in the current corpora (`penúltimo párrafo` does, on two
+  relative edges in LRITF article 138), but both are fixture-tested and
+  ready for the Fintech DCG.

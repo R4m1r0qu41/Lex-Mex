@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 6
 
-El plazo a que se refiere el primer párrafo del artículo anterior no será aplicable a las promociones que por disposición expresa de esta Ley, las [Autoridades Financieras](articulo-4.md) deban obtener la opinión de otras autoridades o requieran el acuerdo del [Comité Interinstitucional](articulo-4.md). En estos casos, el plazo para que las Autoridades Financieras resuelvan lo que corresponda no podrá exceder de ciento ochenta días.
+El plazo a que se refiere el primer párrafo del [artículo anterior](articulo-5.md) no será aplicable a las promociones que por disposición expresa de esta Ley, las [Autoridades Financieras](articulo-4.md) deban obtener la opinión de otras autoridades o requieran el acuerdo del [Comité Interinstitucional](articulo-4.md). En estos casos, el plazo para que las Autoridades Financieras resuelvan lo que corresponda no podrá exceder de ciento ochenta días.
 
 Las opiniones a que se refiere el párrafo anterior deberán ser solicitadas por la Autoridad Financiera respectiva a más tardar a los tres días siguientes a aquel en que reciba la documentación completa del asunto objeto de la opinión. Las autoridades correspondientes deberán emitir su opinión dentro del plazo de ciento cincuenta días a partir del día de recepción de dicha documentación. En caso de que la opinión no sea emitida dentro del plazo señalado, la Autoridad Financiera que solicitó esta resolverá lo que corresponda con las constancias que obren en el expediente, sin necesidad de considerar la referida opinión.
 

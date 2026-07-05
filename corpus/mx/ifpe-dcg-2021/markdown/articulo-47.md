@@ -16,7 +16,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 47
 
-Las instituciones de fondos de pago electrónico que pretendan celebrar los contratos de comisión mercantil a que se refiere el artículo anterior, deberán presentar en la solicitud de autorización, lo siguiente:
+Las instituciones de fondos de pago electrónico que pretendan celebrar los contratos de comisión mercantil a que se refiere el [artículo anterior](articulo-46.md), deberán presentar en la solicitud de autorización, lo siguiente:
 
 I. Plan general de funcionamiento que contenga lo siguiente:
 

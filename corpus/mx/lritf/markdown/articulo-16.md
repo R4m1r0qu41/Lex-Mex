@@ -16,7 +16,7 @@ source_sha256: d6f645e6a7d3c2eeb46905d4d24ecd8e078907057dc034cda715abf019ce8491
 
 # Artículo 16
 
-Los [Clientes](articulo-4.md) de una institución de financiamiento colectivo que intervengan en las actividades previstas en el artículo anterior serán denominados inversionistas y solicitantes. Se consideran inversionistas a las personas físicas o morales que aporten recursos a los solicitantes. Se consideran solicitantes a las personas físicas o morales que hubieren requerido tales recursos a través de la institución de financiamiento colectivo.
+Los [Clientes](articulo-4.md) de una institución de financiamiento colectivo que intervengan en las actividades previstas en el [artículo anterior](articulo-15.md) serán denominados inversionistas y solicitantes. Se consideran inversionistas a las personas físicas o morales que aporten recursos a los solicitantes. Se consideran solicitantes a las personas físicas o morales que hubieren requerido tales recursos a través de la institución de financiamiento colectivo.
 
 Los Clientes de una institución de financiamiento colectivo podrán efectuar entre ellos y a través de dicha institución las [Operaciones](articulo-4.md) siguientes:
 

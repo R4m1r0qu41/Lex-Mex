@@ -97,7 +97,7 @@
     },
     "reference_form": {
       "type": "string",
-      "enum": ["direct", "range_expansion"]
+      "enum": ["direct", "range_expansion", "relative"]
     }
   }
 }

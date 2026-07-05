@@ -16,7 +16,7 @@ source_sha256: 493282f369e52da50db28c4777119591852a52313e5bb1cef82d1bd453899bb0
 
 # Artículo 57
 
-La evaluación del nivel de cumplimiento realizado por el [Tercero Independiente](articulo-1.md) a que se refiere el artículo anterior, deberá realizarse cada dos años.
+La evaluación del nivel de cumplimiento realizado por el [Tercero Independiente](articulo-1.md) a que se refiere el [artículo anterior](articulo-56.md), deberá realizarse cada dos años.
 
 El informe de la evaluación de cumplimiento deberá ser entregado por el Tercero Independiente al [Órgano de Administración](articulo-1.md) de la institución de fondos de pago electrónico y presentado al comité de auditoría de dicha institución, cuando cuente con este.
 

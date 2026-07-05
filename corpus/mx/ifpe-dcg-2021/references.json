@@ -928,6 +928,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:47:reference:127-144:46:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:47",
+    "source_span": "artículo anterior",
+    "start_char": 127,
+    "end_char": 144,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:46",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:47:reference:816-818:48:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:47",
     "source_span": "48",
@@ -1410,6 +1425,21 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:57:reference:99-116:56:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:57",
+    "source_span": "artículo anterior",
+    "start_char": 99,
+    "end_char": 116,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021",
+    "target_provision_id": "urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:56",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
   },
   {
     "schema_version": "0.1.0",

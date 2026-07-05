@@ -739,6 +739,7 @@ fn extract_instrument_references(
         },
         transitory_citations: true,
         same_article_fractions: true,
+        relative_references: true,
     };
     extract_references(
         provisions,

@@ -172,6 +172,11 @@ struct ReferencePatterns {
     /// Fraction citation of the containing article itself:
     /// `fracciones I, II, III y IV del presente artículo`.
     same_article_fraction: Regex,
+    /// Position-relative citation of a neighboring provision: `artículo
+    /// anterior` / `artículo siguiente`. Singular only — the plural
+    /// (`los artículos anteriores`) names an open-ended set with no single
+    /// deterministic target, so it stays unlinked.
+    relative_article: Regex,
     roman: Regex,
 }
 
@@ -185,15 +190,18 @@ impl ReferencePatterns {
             pre_qualifier: Regex::new(
                 r"(?ix)\b(
                     fracci(?:ón|ones)\s+[IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)* |
-                    (?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último)
-                        (?:\s+(?:,|y|o)\s+(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último))*
+                    (?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|penúltimo|último)
+                        (?:\s+(?:,|y|o)\s+(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|penúltimo|último))*
                         \s+párrafos? |
+                    párrafos?\s+(?:primero|segundo|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|penúltimo|último)
+                        (?:\s*(?:,|y|o)\s*(?:primero|segundo|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|penúltimo|último))* |
                     incisos?\s+[a-z](?:\s*(?:,|y|o)\s*[a-z])*
                 )\s+de(?:l|\s+los)\s*$",
             )?,
             same_article_fraction: Regex::new(
                 r"(?i)\bfracci(?:ón|ones)\s+([IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)*)\s+de(?:l\s+presente|\s+este)\s+artículo",
             )?,
+            relative_article: Regex::new(r"(?i)\bartículo\s+(anterior|siguiente)\b")?,
             roman: Regex::new(r"\b[IVXLCDM]+\b")?,
             number: Regex::new(r"(?i)\d{1,3}(?:-[A-Z])?(?:\s+(?:Bis|Ter|Quáter))?")?,
             separator: Regex::new(
@@ -258,6 +266,10 @@ pub struct ReferenceOptions {
     /// targeting the containing provision, so the fraction numerals can
     /// link to their own fraction blocks.
     pub same_article_fractions: bool,
+    /// Extract `artículo anterior` / `artículo siguiente` citations as
+    /// edges targeting the source provision's neighbor of the same
+    /// provision type in document order.
+    pub relative_references: bool,
 }
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
@@ -272,9 +284,45 @@ pub fn extract_internal_references(provisions: &[Provision]) -> Result<Vec<Refer
         policy: InstrumentContextPolicy::WholeGroupPresence,
         transitory_citations: false,
         same_article_fractions: true,
+        relative_references: true,
     };
     let target_ids: HashSet<String> = provisions.iter().map(|item| item.id.clone()).collect();
     extract_references(provisions, None, &options, &target_ids)
+}
+
+/// The source provision's same-type neighbors in document order, used to
+/// resolve `artículo anterior` / `artículo siguiente`.
+#[derive(Debug, Clone, Copy, Default)]
+struct RelativeNeighbors<'a> {
+    previous: Option<&'a str>,
+    next: Option<&'a str>,
+}
+
+/// Compute each provision's same-type neighbors in document order. An
+/// `artículo anterior` inside a transitory refers to the previous
+/// transitory, not to the last numbered article, so neighbor sequences
+/// never cross provision types.
+fn relative_neighbors<'a>(provisions: &'a [Provision]) -> HashMap<&'a str, RelativeNeighbors<'a>> {
+    let mut sequences: HashMap<&ProvisionType, Vec<&'a str>> = HashMap::new();
+    for provision in provisions {
+        sequences
+            .entry(&provision.provision_type)
+            .or_default()
+            .push(provision.id.as_str());
+    }
+    let mut neighbors = HashMap::new();
+    for sequence in sequences.values() {
+        for (index, id) in sequence.iter().enumerate() {
+            neighbors.insert(
+                *id,
+                RelativeNeighbors {
+                    previous: index.checked_sub(1).map(|prev| sequence[prev]),
+                    next: sequence.get(index + 1).copied(),
+                },
+            );
+        }
+    }
+    neighbors
 }
 
 /// Extract reference edges from every provision and, when provided, from the
@@ -288,14 +336,18 @@ pub fn extract_references(
     known_targets: &HashSet<String>,
 ) -> Result<Vec<ReferenceEdge>> {
     let patterns = ReferencePatterns::new()?;
+    let neighbors = relative_neighbors(provisions);
     let mut references = Vec::new();
     if let Some((instrument_id, official_title)) = title_source {
+        // The instrument title has no position in the provision sequence,
+        // so it can never carry a relative reference.
         references.extend(extract_source_references(
             ReferenceSource {
                 source_id: instrument_id,
                 instrument_id,
                 text: official_title,
             },
+            RelativeNeighbors::default(),
             &patterns,
             options,
             known_targets,
@@ -308,6 +360,10 @@ pub fn extract_references(
                 instrument_id: &provision.instrument_id,
                 text: &provision.text,
             },
+            neighbors
+                .get(provision.id.as_str())
+                .copied()
+                .unwrap_or_default(),
             &patterns,
             options,
             known_targets,
@@ -325,6 +381,7 @@ pub fn extract_references(
 
 fn extract_source_references(
     source: ReferenceSource<'_>,
+    neighbors: RelativeNeighbors<'_>,
     patterns: &ReferencePatterns,
     options: &ReferenceOptions,
     known_targets: &HashSet<String>,
@@ -358,6 +415,53 @@ fn extract_source_references(
         references.extend(extract_same_article_fractions(
             source,
             patterns,
+            known_targets,
+        ));
+    }
+    if options.relative_references {
+        references.extend(extract_relative_references(
+            source,
+            neighbors,
+            patterns,
+            known_targets,
+        ));
+    }
+    references
+}
+
+/// Extract `artículo anterior` / `artículo siguiente` citations as edges
+/// targeting the source provision's same-type neighbor in document order.
+/// A phrase with no neighbor in that direction (`artículo anterior` inside
+/// the first article) produces no edge. Bare self-references (`este
+/// artículo`, `el presente artículo`) are deliberately not extracted: the
+/// reader is already inside the target, so a link adds nothing, and the
+/// fraction-scoped form is already handled by the same-article path.
+fn extract_relative_references(
+    source: ReferenceSource<'_>,
+    neighbors: RelativeNeighbors<'_>,
+    patterns: &ReferencePatterns,
+    known_targets: &HashSet<String>,
+) -> Vec<ReferenceEdge> {
+    let mut references = Vec::new();
+    for captures in patterns.relative_article.captures_iter(source.text) {
+        let phrase = captures.get(0).expect("relative match");
+        let direction = captures.get(1).expect("direction capture");
+        let target = if direction.as_str().eq_ignore_ascii_case("anterior") {
+            neighbors.previous
+        } else {
+            neighbors.next
+        };
+        let Some(target) = target else {
+            continue;
+        };
+        let qualifiers = pre_number_qualifiers(source.text, phrase.start(), patterns);
+        references.push(reference_edge(
+            source,
+            phrase.as_str(),
+            phrase.start()..phrase.end(),
+            target.to_owned(),
+            qualifiers,
+            ReferenceForm::Relative,
             known_targets,
         ));
     }
@@ -639,6 +743,7 @@ fn reference_edge(
     let form_slug = match reference_form {
         ReferenceForm::Direct => "direct",
         ReferenceForm::RangeExpansion => "range",
+        ReferenceForm::Relative => "relative",
     };
     let resolution_status = if known_targets.contains(target_provision_id.as_str()) {
         ReferenceResolutionStatus::Resolved
@@ -1720,6 +1825,8 @@ mod tests {
 
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");
     const REFERENCE_FIXTURE: &str = include_str!("../../../fixtures/lritf/reference-sample.txt");
+    const RELATIVE_FIXTURE: &str =
+        include_str!("../../../fixtures/lritf/relative-reference-sample.txt");
     const DCG_FIXTURE: &str = include_str!("../../../fixtures/ifpe-dcg-2021/parser-sample.txt");
     const DCG_ANNEX_1_FIXTURE: &str =
         include_str!("../../../fixtures/ifpe-dcg-2021/annex-1-sample.txt");
@@ -1745,6 +1852,7 @@ mod tests {
             },
             transitory_citations: true,
             same_article_fractions: true,
+            relative_references: true,
         }
     }
 
@@ -2037,6 +2145,101 @@ mod tests {
         let report = validate_lritf(&provisions, &references, 8, 1);
         assert!(report.valid, "{:?}", report.issues);
         assert_eq!(report.reference_count, references.len());
+    }
+
+    #[test]
+    fn resolves_relative_references_by_same_type_document_order() {
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let provisions = parse_lritf(RELATIVE_FIXTURE, date).unwrap();
+        let references = extract_internal_references(&provisions).unwrap();
+        let relatives: Vec<_> = references
+            .iter()
+            .filter(|edge| edge.reference_form == ReferenceForm::Relative)
+            .collect();
+
+        // Article 1 has no previous article, so its `artículo anterior`
+        // produces no edge; the plural `artículos anteriores` and the word
+        // `anteriormente` never match.
+        assert!(
+            relatives
+                .iter()
+                .all(|edge| !edge.source_provision_id.ends_with(":article:1"))
+        );
+        assert_eq!(relatives.len(), 4);
+
+        // Article 2: `anterior` resolves backward, `siguiente` forward,
+        // and the ordinal-first pre-qualifier attaches to the edge.
+        let article_two: Vec<_> = relatives
+            .iter()
+            .filter(|edge| edge.source_provision_id.ends_with(":article:2"))
+            .collect();
+        assert_eq!(article_two.len(), 2);
+        assert!(article_two[0].target_provision_id.ends_with(":article:1"));
+        assert_eq!(article_two[0].source_span, "artículo anterior");
+        assert!(article_two[0].qualifiers.is_empty());
+        assert!(article_two[1].target_provision_id.ends_with(":article:3"));
+        assert_eq!(article_two[1].source_span, "artículo siguiente");
+        assert_eq!(article_two[1].qualifiers.len(), 1);
+        assert_eq!(article_two[1].qualifiers[0].text, "primer párrafo");
+
+        // Article 3: `del citado artículo anterior` still resolves, but the
+        // intervening word keeps the pre-qualifier from attaching.
+        let article_three = relatives
+            .iter()
+            .find(|edge| edge.source_provision_id.ends_with(":article:3"))
+            .unwrap();
+        assert!(article_three.target_provision_id.ends_with(":article:2"));
+        assert!(article_three.qualifiers.is_empty());
+
+        // A relative reference inside a transitory resolves against the
+        // transitory sequence, never the article sequence.
+        let transitory = relatives
+            .iter()
+            .find(|edge| edge.source_provision_id.ends_with(":transitory:segunda"))
+            .unwrap();
+        assert!(
+            transitory
+                .target_provision_id
+                .ends_with(":transitory:primera")
+        );
+
+        let report = validate_lritf(&provisions, &references, 4, 2);
+        assert!(report.valid, "{:?}", report.issues);
+    }
+
+    #[test]
+    fn captures_noun_first_and_penultimate_pre_qualifiers() {
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let provisions = parse_lritf(RELATIVE_FIXTURE, date).unwrap();
+        let references = extract_internal_references(&provisions).unwrap();
+
+        // Noun-first form: `los párrafos segundo y tercero del artículo 2`.
+        let noun_first = references
+            .iter()
+            .find(|edge| {
+                edge.source_provision_id.ends_with(":article:4")
+                    && edge.target_provision_id.ends_with(":article:2")
+            })
+            .unwrap();
+        assert_eq!(noun_first.reference_form, ReferenceForm::Direct);
+        assert_eq!(noun_first.qualifiers.len(), 1);
+        assert_eq!(
+            noun_first.qualifiers[0].qualifier_type,
+            ReferenceQualifierType::Paragraph
+        );
+        assert_eq!(noun_first.qualifiers[0].text, "párrafos segundo y tercero");
+
+        // Ordinal-first `penúltimo párrafo del artículo 1`.
+        let penultimate = references
+            .iter()
+            .find(|edge| {
+                edge.source_provision_id.ends_with(":article:3")
+                    && edge.target_provision_id.ends_with(":article:1")
+                    && edge.reference_form == ReferenceForm::Direct
+            })
+            .unwrap();
+        assert_eq!(penultimate.qualifiers.len(), 1);
+        assert_eq!(penultimate.qualifiers[0].text, "penúltimo párrafo");
     }
 
     #[test]

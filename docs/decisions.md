@@ -1,5 +1,36 @@
 # Architecture decisions
 
+## 2026-07-05 — Relative article references
+
+`artículo anterior` / `artículo siguiente` are express citations whose
+target is inferred from position rather than named, so they carry the new
+distinguishable `reference_form: relative` instead of masquerading as
+direct numeric citations. Resolution walks the source provision's
+same-type sequence in document order: a transitory's `anterior` is the
+previous transitory, never the last numbered article, and the instrument
+title (which has no position) can never carry one. A phrase with no
+neighbor in its direction — `artículo anterior` inside the first article —
+produces no edge.
+
+Deliberate exclusions, each deterministic:
+
+- The plural `los artículos anteriores` names an open-ended set with no
+  single target; it stays unlinked (three LRITF occurrences).
+- Bare self-references (`este artículo`, `el presente artículo`, 174
+  occurrences) are not extracted: the reader is already inside the target,
+  and the useful fraction-scoped form (`fracción N del presente artículo`)
+  is already handled by the same-article path.
+- `del citado artículo anterior` still resolves, but the intervening word
+  keeps the pre-number qualifier from attaching — the qualifier machinery
+  requires exact adjacency (`del`/`de los` ending at the header) and does
+  not guess across words.
+
+The pre-number qualifier pattern also gained the noun-first paragraph form
+(`párrafos segundo y tercero del artículo N`) and the `penúltimo` ordinal,
+both fixture-tested; `penúltimo párrafo` appears on two LRITF article 138
+relative edges today, the noun-first form has no numeric-target occurrence
+yet in either instrument.
+
 ## 2026-07-03 — Fraction-level references and previews
 
 A fraction never exists in isolation — `fracción XI` only means something

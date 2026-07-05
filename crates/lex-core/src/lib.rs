@@ -35,7 +35,7 @@ pub enum InstrumentStatus {
     Unknown,
 }
 
-#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq, Hash)]
 #[serde(rename_all = "snake_case")]
 pub enum ProvisionType {
     Article,
@@ -206,6 +206,11 @@ pub enum ReferenceResolutionStatus {
 pub enum ReferenceForm {
     Direct,
     RangeExpansion,
+    /// A position-relative citation (`artículo anterior` / `artículo
+    /// siguiente`) resolved against the source provision's neighbors in
+    /// document order, kept distinguishable from explicit numeric
+    /// citations because the target is inferred from position, not named.
+    Relative,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
