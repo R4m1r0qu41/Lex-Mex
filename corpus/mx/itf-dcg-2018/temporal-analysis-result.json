@@ -1,0 +1,716 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
+  "request_sha256": "a4c93b77b534c3f565a8624534ae65013a6dfe97ae3e092361ed6640dada68e4",
+  "response_sha256": "7827a40e05ddccf527ef834ab5b7ce9eaa16234c64bbaf9893b7dfe37043fbe6",
+  "response_id": null,
+  "model": "gpt-5.5",
+  "prompt_version": "temporal-v2",
+  "analyzed_at": "2026-07-05T09:22:47.896420Z",
+  "determinations": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:transitory:primero",
+      "temporal_status": "effective",
+      "publication_date": "2018-09-10",
+      "effective_from": "2018-09-10",
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "Las presentes disposiciones entrarán en vigor a los quince días siguientes al de su publicación en el Diario Oficial de la Federación."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "commencement",
+          "affected_scope": "Disposiciones de carácter general aplicables a las instituciones de tecnología financiera",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-09-25",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "6577a4dba67e685a4c843c354f46987473d0c2c3c87e5894c8c88020aa2e2582"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:transitory:segundo",
+      "temporal_status": "effective",
+      "publication_date": "2018-09-10",
+      "effective_from": "2018-09-10",
+      "effective_to": null,
+      "confidence": 0.96,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "en tanto no sean emitidas las disposiciones relativas, deberán presentar a la CNBV en el momento en que solicite la autorización a que se refiere dicho artículo, la documentación en la que se especifiquen los esquemas de operación y el proyecto de contrato que utilizarán al efecto."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "transitional_permission",
+          "affected_scope": "Contratación de terceros por las ITF conforme al artículo 9 mientras no se emitan las disposiciones relativas",
+          "application_rule": "transitional_permission",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-09-25",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "external_event",
+            "date": null,
+            "description": "Emisión de las disposiciones relativas a la contratación de terceros"
+          },
+          "responsible_authorities": [
+            "CNBV"
+          ],
+          "verification_status": "external_verification_required"
+        },
+        {
+          "effect_type": "other",
+          "affected_scope": "Presentación de esquemas de operación y proyecto de contrato junto con la solicitud de autorización",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "authority_action",
+            "date": null,
+            "description": "Solicitud de la autorización prevista en el artículo 9"
+          },
+          "end_condition": {
+            "boundary_type": "external_event",
+            "date": null,
+            "description": "Emisión de las disposiciones relativas a la contratación de terceros"
+          },
+          "responsible_authorities": [
+            "CNBV"
+          ],
+          "verification_status": "external_verification_required"
+        }
+      ],
+      "evidence_sha256": "657928495c379ac559d423ea5a933fbe981bc42e3419ab2274a80feb2360025d"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:transitory:tercero",
+      "temporal_status": "effective",
+      "publication_date": "2018-09-10",
+      "effective_from": "2018-09-10",
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "Los artículos contenidos en el Capítulo IV del Título Segundo, del presente instrumento entrarán en vigor el 1 de enero de 2020."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "staged_commencement",
+          "affected_scope": "Artículos del Capítulo IV del Título Segundo",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "fixed_date",
+            "date": "2020-01-01",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "4f0966a139fded11e3bc30473b2853dfc6529debb0a4781ede50dde653cfbb8b"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:transitory:cuarto",
+      "temporal_status": "effective",
+      "publication_date": "2018-09-10",
+      "effective_from": "2018-09-10",
+      "effective_to": null,
+      "confidence": 0.94,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "Los efectos en resultados y capital contable derivados de la aplicación de los criterios de contabilidad contenidos en las presentes disposiciones, deberán reconocerse haciendo las afectaciones correspondientes en el capital contable dentro del resultado de ejercicios anteriores."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "migration",
+          "affected_scope": "Reconocimiento contable de los efectos derivados de aplicar los nuevos criterios de contabilidad",
+          "application_rule": "migration_to_new_rule",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-09-25",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "dfb05e7f7d74832550dbcd212e660e5bb8f00260849821fb36cf4ee30ab5e614"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:transitory:quinto",
+      "temporal_status": "effective",
+      "publication_date": "2018-09-10",
+      "effective_from": "2018-09-10",
+      "effective_to": null,
+      "confidence": 0.97,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "Las instituciones de financiamiento colectivo podrán considerar a sus Clientes como Inversionistas Experimentados en términos del artículo 2, fracción XXIII, inciso d) de estas disposiciones, si dichos Clientes hubieran realizado Operaciones a través de una o más de las personas a que se refiere la disposición OCTAVA Transitoria de la Ley para Regular las Instituciones de Tecnología Financiera."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "transitional_permission",
+          "affected_scope": "Clasificación como Inversionistas Experimentados de Clientes con operaciones previas realizadas mediante las personas comprendidas en la disposición OCTAVA Transitoria de la Ley",
+          "application_rule": "transitional_permission",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2018-09-25",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "open_ended_by_design"
+        }
+      ],
+      "evidence_sha256": "8bdba0ada8336bedf107ef0bf2b217db2d216e88a3f6fddfde948ec7e26245e6"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:transitory:sexto",
+      "temporal_status": "effective",
+      "publication_date": "2018-09-10",
+      "effective_from": "2018-09-10",
+      "effective_to": null,
+      "confidence": 0.98,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "tendrán un plazo de seis meses contados a partir de la obtención de su autorización para actuar como institución de financiamiento colectivo, para modificar los mandatos o comisiones que hayan celebrado con sus Clientes con anterioridad a la obtención de dicha autorización"
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "adaptation_period",
+          "affected_scope": "Mandatos o comisiones celebrados con Clientes antes de obtener autorización como institución de financiamiento colectivo",
+          "application_rule": "migration_to_new_rule",
+          "trigger": {
+            "boundary_type": "authority_action",
+            "date": null,
+            "description": "Obtención de la autorización para actuar como institución de financiamiento colectivo"
+          },
+          "end_condition": {
+            "boundary_type": "relative_period",
+            "date": null,
+            "description": "Seis meses contados desde la obtención de la autorización"
+          },
+          "responsible_authorities": [],
+          "verification_status": "external_verification_required"
+        }
+      ],
+      "evidence_sha256": "f7ace280c383c17563d654945cf4d6f5f505f5c3a215cd8aea51ee9cd74e4ad7"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:transitory:septimo",
+      "temporal_status": "repealed",
+      "publication_date": "2018-09-10",
+      "effective_from": null,
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "Derogado."
+      ],
+      "review_required": true,
+      "review_reason": "a material temporal boundary is unknown; material information needed for classification is unknown",
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "repeal",
+          "affected_scope": "Disposición transitoria SÉPTIMA",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "unknown",
+            "date": null,
+            "description": "La evidencia no indica la fecha ni el acto de derogación"
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "unknown_material"
+        }
+      ],
+      "evidence_sha256": "5f7c9f239f2670173686909932357d7be50bff90ea565723c8d7f6e71ae74375"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:amendment:2019-03-25:transitory:primero",
+      "temporal_status": "effective",
+      "publication_date": "2019-03-25",
+      "effective_from": "2019-03-25",
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "commencement",
+          "affected_scope": "Resolución publicada el 25 de marzo de 2019",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2019-03-26",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "f5b318d1124b6fe50d277d4b49a964388d7048ce0d5d13bde04c188126ba8b57"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:amendment:2019-03-25:transitory:segundo",
+      "temporal_status": "effective",
+      "publication_date": "2019-03-25",
+      "effective_from": "2019-03-25",
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "El Título Cuarto que se adiciona a las Disposiciones de carácter general aplicables a las instituciones de tecnología financiera mediante esta Resolución, entrará en vigor el 1 de enero de 2020",
+        "a más tardar el 31 de enero de 2020",
+        "La información relativa al reporte regulatorio de la serie R26, el 2 de enero de 2020 con la información al cierre del 31 de diciembre de 2019."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "staged_commencement",
+          "affected_scope": "Título Cuarto adicionado a las Disposiciones",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "fixed_date",
+            "date": "2020-01-01",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        },
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Primer envío de los reportes especificados para instituciones de financiamiento colectivo",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "publication",
+            "date": "2019-03-25",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "fixed_date",
+            "date": "2020-01-31",
+            "description": "Fecha límite del primer envío con los periodos de información especificados"
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        },
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Primer envío de los reportes especificados para instituciones de fondos de pago electrónico, salvo la serie R26",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "publication",
+            "date": "2019-03-25",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "fixed_date",
+            "date": "2020-01-31",
+            "description": "Fecha límite del primer envío con los periodos de información especificados"
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        },
+        {
+          "effect_type": "regulatory_deadline",
+          "affected_scope": "Primer envío del reporte regulatorio de la serie R26 con información al cierre del 31 de diciembre de 2019",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "publication",
+            "date": "2019-03-25",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "fixed_date",
+            "date": "2020-01-02",
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "0f9488ad5454ac06936d2dd459080360bba0cbac74942f1b4b826811228f95bb"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:amendment:2019-03-25:transitory:tercero",
+      "temporal_status": "effective",
+      "publication_date": "2019-03-25",
+      "effective_from": "2019-03-25",
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "La obligación prevista en el artículo 97 que se adiciona en esta Resolución a las Disposiciones de carácter general aplicables a las instituciones de tecnología financiera, entrará en vigor el 1 de septiembre de 2020."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "staged_commencement",
+          "affected_scope": "Obligación prevista en el artículo 97 adicionado por la Resolución",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "fixed_date",
+            "date": "2020-09-01",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "5d6110b33c9d48343f483f6e7ba1150ac2c0ec05da3538b6cd24e8903c5ab7f1"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:amendment:2021-12-15:transitory:unico",
+      "temporal_status": "effective",
+      "publication_date": "2021-12-15",
+      "effective_from": "2021-12-15",
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "La presente Resolución entrará en vigor a partir del 15 de diciembre de 2021."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "commencement",
+          "affected_scope": "Resolución publicada el 15 de diciembre de 2021",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2021-12-15",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "4dfa3c890304a20554407f1534eafa58554fee70b7c30a07464030bb83d00546"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:amendment:2023-01-20:transitory:primero",
+      "temporal_status": "effective",
+      "publication_date": "2023-01-20",
+      "effective_from": "2023-01-20",
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "La presente Resolución entrará en vigor el 1 de enero de 2024, salvo por lo indicado en el artículo SEGUNDO TRANSITORIO siguiente."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "commencement",
+          "affected_scope": "Resolución publicada el 20 de enero de 2023, salvo la excepción del artículo SEGUNDO TRANSITORIO",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "fixed_date",
+            "date": "2024-01-01",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "a545ca1b7a8050cecff8a02cfdb8285c8bdde37dbdaaf1413c8ea0289fe6ce14"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:amendment:2023-01-20:transitory:segundo",
+      "temporal_status": "effective",
+      "publication_date": "2023-01-20",
+      "effective_from": "2023-01-20",
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "El artículo 101, fracción I que se modifica con el presente instrumento, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación por lo que concierne a la periodicidad del reporte regulatorio R26."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "staged_commencement",
+          "affected_scope": "Modificación del artículo 101, fracción I, respecto de la periodicidad del reporte regulatorio R26",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2023-01-21",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "d579e66dfff34aebc013eff5679dfc3ebc04ba3b4b2bdd0932eb9e20a6f48e48"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:amendment:2024-09-02:transitory:primero",
+      "temporal_status": "effective",
+      "publication_date": "2024-09-02",
+      "effective_from": "2024-09-02",
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "La presente Resolución entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo por lo previsto en el siguiente artículo transitorio."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "commencement",
+          "affected_scope": "Resolución publicada el 2 de septiembre de 2024, salvo lo previsto en el artículo transitorio siguiente",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2024-09-03",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "47a390061f2618b835944bb9ae192d72939d3a67781de9bbde3c28b882709df7"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:amendment:2024-09-02:transitory:segundo",
+      "temporal_status": "effective",
+      "publication_date": "2024-09-02",
+      "effective_from": "2024-09-02",
+      "effective_to": null,
+      "confidence": 0.98,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "Las instituciones de fondos de pago electrónico tendrán hasta el 1 de enero de 2025 para realizar las acciones necesarias a efecto de presentar el reporte regulatorio G-2470 Información relativa a Clientes y Operaciones perteneciente a la Serie R24 Información operativa."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "implementation_deadline",
+          "affected_scope": "Acciones necesarias de las instituciones de fondos de pago electrónico para presentar el reporte G-2470 de la Serie R24",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "publication",
+            "date": "2024-09-02",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "fixed_date",
+            "date": "2025-01-01",
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "4d29768a632a6a87f874dcbaddbe282543149ce0e23fa516235026052a261d1d"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:amendment:2025-07-24:transitory:unico",
+      "temporal_status": "effective",
+      "publication_date": "2025-07-24",
+      "effective_from": "2025-07-24",
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "commencement",
+          "affected_scope": "Resolución publicada el 24 de julio de 2025",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "effective_date",
+            "date": "2025-07-25",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "2abc84ac923d079bf6a5d6e1d83d72b552796386ab84f464cb2c5baf04a1c877"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:amendment:2025-09-09:transitory:unico",
+      "temporal_status": "effective",
+      "publication_date": "2025-09-09",
+      "effective_from": "2025-09-09",
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "La presente Resolución entrará en vigor el 1 de enero de 2026.",
+        "Los cambios contables provocados por el inicio de la vigencia de esta Resolución deberán apegarse a lo establecido en la Norma de Información Financiera B-1 “Cambios contables y correcciones de errores”"
+      ],
+      "review_required": false,
+      "review_reason": null,
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "commencement",
+          "affected_scope": "Resolución publicada el 9 de septiembre de 2025",
+          "application_rule": "new_rule_prospectively",
+          "trigger": {
+            "boundary_type": "fixed_date",
+            "date": "2026-01-01",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        },
+        {
+          "effect_type": "migration",
+          "affected_scope": "Cambios contables derivados del inicio de vigencia para instituciones de financiamiento colectivo y de fondos de pago electrónico",
+          "application_rule": "migration_to_new_rule",
+          "trigger": {
+            "boundary_type": "fixed_date",
+            "date": "2026-01-01",
+            "description": null
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "confirmed_by_source_text"
+        }
+      ],
+      "evidence_sha256": "567ca5956a767744309894675b37c8b9cc82cd70c68e5037b4005664f3e2d8a3"
+    }
+  ]
+}

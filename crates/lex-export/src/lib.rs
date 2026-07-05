@@ -126,7 +126,17 @@ pub fn write_canonical(corpus: &Corpus, output_dir: &Path) -> Result<()> {
     write_json(&corpus.provisions, &output_dir.join("provisions.json"))?;
     write_json(&corpus.references, &output_dir.join("references.json"))?;
     write_json(&corpus.terms, &output_dir.join("terms.json"))?;
-    write_json(&corpus.term_usages, &output_dir.join("term-usages.json"))
+    write_json(&corpus.term_usages, &output_dir.join("term-usages.json"))?;
+    // The REFERENCIAS legend only exists for compiled documents with
+    // margin markers; skip the file entirely for instruments without one.
+    if corpus.amendment_references.is_empty() {
+        Ok(())
+    } else {
+        write_json(
+            &corpus.amendment_references,
+            &output_dir.join("amendment-references.json"),
+        )
+    }
 }
 
 pub fn write_validation(report: &ValidationReport, output_dir: &Path) -> Result<()> {
@@ -213,8 +223,17 @@ fn front_matter(corpus: &Corpus, provision: &Provision) -> String {
             serde_json::to_string(&effect_types).expect("serializing effect types cannot fail")
         )
     };
+    let marks_front_matter = if provision.amendment_marks.is_empty() {
+        String::new()
+    } else {
+        format!(
+            "amendment_marks: {}\n",
+            serde_json::to_string(&provision.amendment_marks)
+                .expect("serializing marker numbers cannot fail")
+        )
+    };
     format!(
-        "---\nid: {}\ninstrument_id: {}\ninstrument: {}\nprovision_type: {}\nnumber: \"{}\"\naliases: [{}]\ngenerated: true\ntemporal_status: {}\nreview_status: {}\n{}source_url: {}\nsource_sha256: {}\n---\n\n",
+        "---\nid: {}\ninstrument_id: {}\ninstrument: {}\nprovision_type: {}\nnumber: \"{}\"\naliases: [{}]\ngenerated: true\ntemporal_status: {}\nreview_status: {}\n{}{}source_url: {}\nsource_sha256: {}\n---\n\n",
         provision.id,
         provision.instrument_id,
         corpus.instrument.short_name,
@@ -224,6 +243,7 @@ fn front_matter(corpus: &Corpus, provision: &Provision) -> String {
         json_name(&provision.temporal_status),
         json_name(&provision.review_status),
         effect_front_matter,
+        marks_front_matter,
         corpus.instrument.source_url,
         corpus.instrument.source_sha256,
     )
@@ -716,6 +736,14 @@ fn markdown_index(
             ));
         }
     }
+    if !corpus.amendment_references.is_empty() {
+        output.push_str(
+            "\n## Referencias de reforma\n\nLos números de margen `(N)` del documento compilado remiten a estas resoluciones:\n\n",
+        );
+        for reference in &corpus.amendment_references {
+            let _ = writeln!(output, "{}. {}", reference.marker, reference.description);
+        }
+    }
     output
 }
 
@@ -797,6 +825,7 @@ mod tests {
             references: Vec::new(),
             terms: Vec::new(),
             term_usages: Vec::new(),
+            amendment_references: Vec::new(),
         };
         let targets = link_targets(&[(&corpus, "lritf")]);
         let terms = term_targets(&[(&corpus, "lritf")], &targets);
@@ -871,6 +900,7 @@ mod tests {
             ],
             terms: Vec::new(),
             term_usages: Vec::new(),
+            amendment_references: Vec::new(),
         };
 
         let targets = link_targets(&[(&corpus, "lritf")]);
@@ -934,6 +964,7 @@ mod tests {
                 verified_event_date: None,
                 verification_note: None,
             }],
+            amendment_marks: Vec::new(),
         }
     }
 
@@ -960,6 +991,7 @@ mod tests {
             temporal_confidence: None,
             review_status: ReviewStatus::NotAnalyzed,
             transitory_effects: Vec::new(),
+            amendment_marks: Vec::new(),
         }
     }
 

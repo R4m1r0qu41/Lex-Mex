@@ -1,0 +1,62 @@
+[
+  {
+    "id": "review:temporal:urn:lex-mx:federal:regulation:itf-dcg-2018:transitory:septimo",
+    "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
+    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:transitory:septimo",
+    "exact_issue": "a material temporal boundary is unknown; material information needed for classification is unknown",
+    "proposed_machine_conclusion": {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:transitory:septimo",
+      "temporal_status": "repealed",
+      "publication_date": "2018-09-10",
+      "effective_from": null,
+      "effective_to": null,
+      "confidence": 0.99,
+      "basis": "llm_inference",
+      "supporting_text": [
+        "Derogado."
+      ],
+      "review_required": true,
+      "review_reason": "a material temporal boundary is unknown; material information needed for classification is unknown",
+      "model": "gpt-5.5",
+      "prompt_version": "temporal-v2",
+      "effects": [
+        {
+          "effect_type": "repeal",
+          "affected_scope": "Disposición transitoria SÉPTIMA",
+          "application_rule": "not_applicable",
+          "trigger": {
+            "boundary_type": "unknown",
+            "date": null,
+            "description": "La evidencia no indica la fecha ni el acto de derogación"
+          },
+          "end_condition": {
+            "boundary_type": "none",
+            "date": null,
+            "description": null
+          },
+          "responsible_authorities": [],
+          "verification_status": "unknown_material"
+        }
+      ],
+      "evidence_sha256": "5f7c9f239f2670173686909932357d7be50bff90ea565723c8d7f6e71ae74375"
+    },
+    "evidence": {
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:transitory:septimo",
+      "label": "SÉPTIMO",
+      "text": "Derogado."
+    },
+    "camara_source_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+    "formal_source_url": null,
+    "provision_diff": "Initial enactment; there is no prior provision version for this instrument.",
+    "resolution_options": [
+      "accept_machine_conclusion",
+      "set_unknown",
+      "lawyer_override"
+    ],
+    "status": "pending",
+    "reviewer_note": null,
+    "resolution": null,
+    "resolved_by": null,
+    "resolved_at": null
+  }
+]

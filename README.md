@@ -9,21 +9,30 @@ preserves their provenance, produces stable canonical records, validates model
 output, routes material legal uncertainty to a named reviewer, and publishes
 lawyer-readable Markdown and Obsidian views.
 
-The committed corpus contains two instruments. The consolidated **Ley para
+The committed corpus contains three instruments. The consolidated **Ley para
 Regular las Instituciones de Tecnología Financiera (LRITF)** published by the
 Cámara de Diputados has 145 articles, 11 original transitory provisions, 19
-temporal determinations, 32 structured legal effects, and 95 validated
-internal article-reference edges. The jointly issued CNBV/Banco de México
-**Disposiciones aplicables a las instituciones de fondos de pago electrónico**
-of January 28, 2021 (`ifpe-dcg-2021`) has 59 articles, 4 transitories, all 8
-annexes acquired as the dedicated per-annex PDFs CNBV publishes alongside the
-main document, 4 temporal determinations, and 98 reference edges, including
+temporal determinations, 32 structured legal effects, and 126 validated
+reference edges. The jointly issued CNBV/Banco de México **Disposiciones
+aplicables a las instituciones de fondos de pago electrónico** of January 28,
+2021 (`ifpe-dcg-2021`) has 59 articles, 4 transitories, all 8 annexes
+acquired as the dedicated per-annex PDFs CNBV publishes alongside the main
+document, 4 temporal determinations, and 113 reference edges, including
 resolved cross-instrument citations of LRITF Articles 22, 29, 48, 54, 56, 58
-and its OCTAVA transitoria. Both glossaries are extracted as canonical
-defined terms (LRITF Article 4 and DCG Article 1, the latter expressly
-additive to the former), and every exact term usage links to its
-definition's block anchor. Neither validation report has open structural
-issues or pending legal reviews.
+and its OCTAVA transitoria. The CNBV's general **Disposiciones de carácter
+general aplicables a las instituciones de tecnología financiera** of
+September 10, 2018 (`itf-dcg-2018`), compiled through six amending
+resolutions, has 105 articles (including 15 Bis and 15 Bis 1), 7 original
+transitories, 20 per-annex PDFs, 143 reference edges, 17 temporal
+determinations covering the original and every resolution's transitories,
+and the corpus's first structured amendment provenance: each provision
+records the compiled document's margin marks, resolved through the parsed
+REFERENCIAS legend. The glossaries are extracted as canonical defined terms
+(LRITF Article 4, IFPE DCG Article 1, ITF DCG Article 2 — the DCG glossaries
+expressly additive to the statute's), and every exact term usage links to
+its definition's block anchor. One legal review is pending: the ITF DCG's
+derogated transitory SÉPTIMO awaits lawyer confirmation of its derogation
+provenance.
 
 > [!IMPORTANT]
 > Lex-Mex is not an official publication, is not affiliated with the Mexican
@@ -161,7 +170,7 @@ marked `external_verification_required`, separately from legal ambiguity.
 
 ## Individual pipeline stages
 
-Each command takes an instrument slug (`lritf` or `ifpe-dcg-2021`):
+Each command takes an instrument slug (`lritf`, `ifpe-dcg-2021`, or `itf-dcg-2018`):
 
 ```bash
 cargo run --locked -p lex-cli -- discover diputados

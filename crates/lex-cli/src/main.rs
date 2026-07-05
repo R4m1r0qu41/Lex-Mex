@@ -25,7 +25,7 @@ use lex_parse::{
     CorpusExpectations, CorpusView, GlossaryStyle, InstrumentContextPolicy, ReferenceOptions,
     extract_html_text, extract_internal_references, extract_pdf, extract_references,
     extract_reform_transitories, extract_term_usages, extract_terms, find_glossary_provision,
-    parse_dcg, parse_lritf, validate_corpus,
+    parse_dcg, parse_itf_dcg, parse_lritf, validate_corpus,
 };
 use lex_source::{
     SourceConfig, discover, fetch, fetch_annex, fetch_formal, load_config, sha256_hex,
@@ -508,30 +508,56 @@ fn run_extract(context: &InstrumentContext) -> Result<()> {
     Ok(())
 }
 
-/// Dispatch to the adapter-configured parser, returning canonical
-/// provisions and, for parsers with a directly acquired formal source, its
-/// manifest.
+/// Everything a configured parser yields for one instrument.
+struct ParsedInstrument {
+    provisions: Vec<lex_core::Provision>,
+    /// Manifest of a directly acquired formal source, when the parser
+    /// depends on one.
+    formal_manifest: Option<SourceManifest>,
+    /// The compiled document's REFERENCIAS legend, for instruments with
+    /// margin amendment markers.
+    amendment_references: Vec<lex_core::AmendmentReference>,
+    /// Reform-transitory evidence the parser isolated from the compiled
+    /// document itself. The LRITF parser instead extracts its
+    /// reform-decree appendix separately in `run_parse`.
+    reform_evidence: Vec<TemporalEvidence>,
+    /// Latest amending-resolution date the parser derived from the
+    /// document, when the `Última reforma` scan does not apply.
+    latest_reform_date: Option<NaiveDate>,
+}
+
+fn read_annex_documents(paths: &Paths, config: &SourceConfig) -> Result<Vec<(u32, String)>> {
+    (1..=config.annex_pdf_urls.len())
+        .map(|number| {
+            let text = fs::read_to_string(paths.annex_text(number)).with_context(|| {
+                format!(
+                    "failed to read {}; run extract first",
+                    paths.annex_text(number).display()
+                )
+            })?;
+            Ok((u32::try_from(number).expect("annex number fits u32"), text))
+        })
+        .collect()
+}
+
+/// Dispatch to the adapter-configured parser.
 fn parse_by_configured_parser(
     paths: &Paths,
     config: &SourceConfig,
     raw: &str,
     publication_date: NaiveDate,
-) -> Result<(Vec<lex_core::Provision>, Option<SourceManifest>)> {
+) -> Result<ParsedInstrument> {
     match config.parser.as_str() {
-        "lritf" => Ok((parse_lritf(raw, publication_date)?, None)),
+        "lritf" => Ok(ParsedInstrument {
+            provisions: parse_lritf(raw, publication_date)?,
+            formal_manifest: None,
+            amendment_references: Vec::new(),
+            reform_evidence: Vec::new(),
+            latest_reform_date: None,
+        }),
         "ifpe-dcg" => {
             let formal_manifest: SourceManifest = read_json(&paths.formal_manifest)?;
-            let annex_documents = (1..=config.annex_pdf_urls.len())
-                .map(|number| {
-                    let text = fs::read_to_string(paths.annex_text(number)).with_context(|| {
-                        format!(
-                            "failed to read {}; run extract first",
-                            paths.annex_text(number).display()
-                        )
-                    })?;
-                    Ok((u32::try_from(number).expect("annex number fits u32"), text))
-                })
-                .collect::<Result<Vec<_>>>()?;
+            let annex_documents = read_annex_documents(paths, config)?;
             let provisions = parse_dcg(
                 raw,
                 &annex_documents,
@@ -539,7 +565,29 @@ fn parse_by_configured_parser(
                 publication_date,
                 &config.definition_layout_articles,
             )?;
-            Ok((provisions, Some(formal_manifest)))
+            Ok(ParsedInstrument {
+                provisions,
+                formal_manifest: Some(formal_manifest),
+                amendment_references: Vec::new(),
+                reform_evidence: Vec::new(),
+                latest_reform_date: None,
+            })
+        }
+        "itf-dcg" => {
+            let annex_documents = read_annex_documents(paths, config)?;
+            let document = parse_itf_dcg(
+                raw,
+                &annex_documents,
+                &config.instrument_id,
+                publication_date,
+            )?;
+            Ok(ParsedInstrument {
+                provisions: document.provisions,
+                formal_manifest: None,
+                amendment_references: document.amendment_references,
+                reform_evidence: document.reform_evidence,
+                latest_reform_date: document.latest_reform_date,
+            })
         }
         other => bail!("unsupported parser {other:?} in adapter configuration"),
     }
@@ -557,8 +605,8 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         .clone()
         .context("manifest lacks extracted text hash; run extract first")?;
 
-    let (provisions, formal_manifest) =
-        parse_by_configured_parser(paths, config, &raw, publication_date)?;
+    let parsed = parse_by_configured_parser(paths, config, &raw, publication_date)?;
+    let (provisions, formal_manifest) = (parsed.provisions, parsed.formal_manifest);
 
     let instrument = Instrument {
         schema_version: SCHEMA_VERSION.to_owned(),
@@ -571,7 +619,9 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         operational_source: manifest.operational_source.clone(),
         formal_publication_source: manifest.formal_publication_source.clone(),
         publication_date,
-        latest_reform_date: latest_reform_date(&raw),
+        latest_reform_date: parsed
+            .latest_reform_date
+            .or_else(|| latest_reform_date(&raw)),
         retrieved_at: manifest.retrieved_at,
         source_url: manifest.official_url,
         source_sha256: manifest.source_sha256,
@@ -603,7 +653,7 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     let reform_evidence = if config.parser == "lritf" {
         extract_reform_transitories(&raw)?
     } else {
-        Vec::new()
+        parsed.reform_evidence
     };
     let mut corpus = Corpus {
         instrument,
@@ -611,6 +661,7 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         references,
         terms,
         term_usages,
+        amendment_references: parsed.amendment_references,
     };
     reapply_persisted_temporal_state(paths, config, &mut corpus, &reform_evidence)?;
     write_canonical(&corpus, &paths.corpus)?;
@@ -621,11 +672,17 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         corpus.terms.len(),
         corpus.term_usages.len()
     );
-    if config.parser == "lritf" {
+    if !reform_evidence.is_empty() {
         write_pretty_json(&reform_evidence, &paths.reform_evidence)?;
         println!(
-            "isolated {} reform-decree transitories for temporal analysis",
+            "isolated {} reform transitories for temporal analysis",
             reform_evidence.len()
+        );
+    }
+    if !corpus.amendment_references.is_empty() {
+        println!(
+            "recorded {} amendment-legend references",
+            corpus.amendment_references.len()
         );
     }
     Ok(())
@@ -1137,6 +1194,7 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
             references: &corpus.references,
             terms: &corpus.terms,
             term_usages: &corpus.term_usages,
+            amendment_references: &corpus.amendment_references,
         },
         &CorpusExpectations {
             min_articles: config.expected_min_articles,
@@ -1267,6 +1325,7 @@ fn read_corpus(paths: &Paths) -> Result<Corpus> {
         references: optional(&paths.references)?,
         terms: optional(&paths.terms)?,
         term_usages: optional(&paths.term_usages)?,
+        amendment_references: optional(&paths.amendment_references)?,
     })
 }
 
@@ -1336,6 +1395,7 @@ struct Paths {
     references: PathBuf,
     terms: PathBuf,
     term_usages: PathBuf,
+    amendment_references: PathBuf,
     temporal_request: PathBuf,
     temporal_model_output: PathBuf,
     temporal_result: PathBuf,
@@ -1361,6 +1421,7 @@ impl Paths {
             references: corpus.join("references.json"),
             terms: corpus.join("terms.json"),
             term_usages: corpus.join("term-usages.json"),
+            amendment_references: corpus.join("amendment-references.json"),
             temporal_request: corpus.join("temporal-analysis-request.json"),
             temporal_model_output: work.join("temporal-model-output.json"),
             temporal_result: corpus.join("temporal-analysis-result.json"),

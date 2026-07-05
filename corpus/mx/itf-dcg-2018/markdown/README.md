@@ -1,0 +1,165 @@
+# Disposiciones de carácter general aplicables a las instituciones de tecnología financiera
+
+Fuente operativa: [cnbv](https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf)
+
+## Artículos
+
+- [Artículo 1](articulo-1.md)
+- [Artículo 2](articulo-2.md)
+- [Artículo 3](articulo-3.md)
+- [Artículo 4](articulo-4.md)
+- [Artículo 5](articulo-5.md)
+- [Artículo 6](articulo-6.md)
+- [Artículo 7](articulo-7.md)
+- [Artículo 8](articulo-8.md)
+- [Artículo 9](articulo-9.md)
+- [Artículo 10](articulo-10.md)
+- [Artículo 11](articulo-11.md)
+- [Artículo 12](articulo-12.md)
+- [Artículo 13](articulo-13.md)
+- [Artículo 14](articulo-14.md)
+- [Artículo 15](articulo-15.md)
+- [Artículo 15 Bis](articulo-15-Bis.md)
+- [Artículo 15 Bis 1](articulo-15-Bis-1.md)
+- [Artículo 16](articulo-16.md)
+- [Artículo 17](articulo-17.md)
+- [Artículo 18](articulo-18.md)
+- [Artículo 19](articulo-19.md)
+- [Artículo 20](articulo-20.md)
+- [Artículo 21](articulo-21.md)
+- [Artículo 22](articulo-22.md)
+- [Artículo 23](articulo-23.md)
+- [Artículo 24](articulo-24.md)
+- [Artículo 25](articulo-25.md)
+- [Artículo 26](articulo-26.md)
+- [Artículo 27](articulo-27.md)
+- [Artículo 28](articulo-28.md)
+- [Artículo 29](articulo-29.md)
+- [Artículo 30](articulo-30.md)
+- [Artículo 31](articulo-31.md)
+- [Artículo 32](articulo-32.md)
+- [Artículo 33](articulo-33.md)
+- [Artículo 34](articulo-34.md)
+- [Artículo 35](articulo-35.md)
+- [Artículo 36](articulo-36.md)
+- [Artículo 37](articulo-37.md)
+- [Artículo 38](articulo-38.md)
+- [Artículo 39](articulo-39.md)
+- [Artículo 40](articulo-40.md)
+- [Artículo 41](articulo-41.md)
+- [Artículo 42](articulo-42.md)
+- [Artículo 43](articulo-43.md)
+- [Artículo 44](articulo-44.md)
+- [Artículo 45](articulo-45.md)
+- [Artículo 46](articulo-46.md)
+- [Artículo 47](articulo-47.md)
+- [Artículo 48](articulo-48.md)
+- [Artículo 49](articulo-49.md)
+- [Artículo 50](articulo-50.md)
+- [Artículo 51](articulo-51.md)
+- [Artículo 52](articulo-52.md)
+- [Artículo 53](articulo-53.md)
+- [Artículo 54](articulo-54.md)
+- [Artículo 55](articulo-55.md)
+- [Artículo 56](articulo-56.md)
+- [Artículo 57](articulo-57.md)
+- [Artículo 58](articulo-58.md)
+- [Artículo 59](articulo-59.md)
+- [Artículo 60](articulo-60.md)
+- [Artículo 61](articulo-61.md)
+- [Artículo 62](articulo-62.md)
+- [Artículo 63](articulo-63.md)
+- [Artículo 64](articulo-64.md)
+- [Artículo 65](articulo-65.md)
+- [Artículo 66](articulo-66.md)
+- [Artículo 67](articulo-67.md)
+- [Artículo 68](articulo-68.md)
+- [Artículo 69](articulo-69.md)
+- [Artículo 70](articulo-70.md)
+- [Artículo 71](articulo-71.md)
+- [Artículo 72](articulo-72.md)
+- [Artículo 73](articulo-73.md)
+- [Artículo 74](articulo-74.md)
+- [Artículo 75](articulo-75.md)
+- [Artículo 76](articulo-76.md)
+- [Artículo 77](articulo-77.md)
+- [Artículo 78](articulo-78.md)
+- [Artículo 79](articulo-79.md)
+- [Artículo 80](articulo-80.md)
+- [Artículo 81](articulo-81.md)
+- [Artículo 82](articulo-82.md)
+- [Artículo 83](articulo-83.md)
+- [Artículo 84](articulo-84.md)
+- [Artículo 85](articulo-85.md)
+- [Artículo 86](articulo-86.md)
+- [Artículo 87](articulo-87.md)
+- [Artículo 88](articulo-88.md)
+- [Artículo 89](articulo-89.md)
+- [Artículo 90](articulo-90.md)
+- [Artículo 91](articulo-91.md)
+- [Artículo 92](articulo-92.md)
+- [Artículo 93](articulo-93.md)
+- [Artículo 94](articulo-94.md)
+- [Artículo 95](articulo-95.md)
+- [Artículo 96](articulo-96.md)
+- [Artículo 97](articulo-97.md)
+- [Artículo 98](articulo-98.md)
+- [Artículo 99](articulo-99.md)
+- [Artículo 100](articulo-100.md)
+- [Artículo 101](articulo-101.md)
+- [Artículo 102](articulo-102.md)
+- [Artículo 103](articulo-103.md)
+
+## Disposiciones transitorias
+
+- [PRIMERO](transitorio-primero.md)
+- [SEGUNDO](transitorio-segundo.md)
+- [TERCERO](transitorio-tercero.md)
+- [CUARTO](transitorio-cuarto.md)
+- [QUINTO](transitorio-quinto.md)
+- [SEXTO](transitorio-sexto.md)
+- [SÉPTIMO](transitorio-septimo.md)
+
+## Anexos
+
+- [ANEXO 1](anexo-1.md)
+- [ANEXO 2](anexo-2.md)
+- [ANEXO 3](anexo-3.md)
+- [ANEXO 4](anexo-4.md)
+- [ANEXO 5](anexo-5.md)
+- [ANEXO 6](anexo-6.md)
+- [ANEXO 7](anexo-7.md)
+- [ANEXO 8](anexo-8.md)
+- [ANEXO 9](anexo-9.md)
+- [ANEXO 10](anexo-10.md)
+- [ANEXO 11](anexo-11.md)
+- [ANEXO 12](anexo-12.md)
+- [ANEXO 13](anexo-13.md)
+- [ANEXO 14](anexo-14.md)
+- [ANEXO 15](anexo-15.md)
+- [ANEXO 16](anexo-16.md)
+- [ANEXO 17](anexo-17.md)
+- [ANEXO 18](anexo-18.md)
+- [ANEXO 19](anexo-19.md)
+- [ANEXO 20](anexo-20.md)
+
+## Referencias de reforma
+
+Los números de margen `(N)` del documento compilado remiten a estas resoluciones:
+
+1. Reformado por el Artículo Primero de la Resolución publicada en el Diario Oficial de la Federación el 25 de marzo de 2019.
+2. Adicionado por el Artículo Primero de la Resolución publicada en el Diario Oficial de la Federación el 25 de marzo de 2019.
+3. Sustituido por el Artículo Primero de la Resolución publicada en el Diario Oficial de la Federación el 25 de marzo de 2019.
+4. Reformado por el Artículo Segundo de la Resolución publicada en el Diario Oficial de la Federación el 25 de marzo de 2019.
+5. Derogado por el Artículo Segundo de la Resolución publicada en el Diario Oficial de la Federación el 25 de marzo de 2019.
+6. Por Resolución publicada en el Diario Oficial de la Federación el 15 de diciembre de 2021 se REFORMAN el Anexo 6, Criterios Contables A-2, párrafo 10 y D-4, párrafos 30, 40, 41, 44, 45, y Anexo 7, Criterios Contables A-3, párrafo 21 y D-4, párrafos 27, 35 y 36
+7. Reformado por Resolución publicada en el Diario Oficial de la Federación el 20 de enero de 2023.
+8. Adicionado por Resolución publicada en el Diario Oficial de la Federación el 20 de enero de 2023.
+9. Derogado por Resolución publicada en el Diario Oficial de la Federación el 20 de enero de 2023.
+10. Por Resolución publicada en el Diario Oficial de la Federación el 20 de enero de 2023 se SUSTITUYEN los Anexos 6, 7, 18 y 19.
+11. Reformado por Resolución publicada en el Diario Oficial de la Federación el 2 de septiembre de 2024.
+12. Adicionado por Resolución publicada en el Diario Oficial de la Federación el 2 de septiembre de 2024.
+13. Por Resolución publicada en el Diario Oficial de la Federación el 2 de septiembre de 2024. se SUSTITUYE                         el                         Anexo                        19.
+14. Reformado por Resolución publicada en el Diario Oficial de la Federación el 24 de julio de 2025.
+15. Adicionado por Resolución publicada en el Diario Oficial de la Federación el 24 de julio de 2025.
+16. Por Resolución publicada en el Diario Oficial de la Federación el 09 de septiembre de 2025 se SUSTITUYE del Anexo 6, Serie A “Criterios relativos al esquema general de la contabilidad para instituciones de financiamiento colectivo”, sus criterios; Serie B “Criterios relativos a los conceptos que integran los estados financieros”, el criterio B-2 “Reportos”, y Serie D “Criterios relativos a los estados financieros básicos”, y del Anexo 7, Serie A “Criterios relativos al esquema general de la contabilidad para instituciones de fondos de pago electrónico”, sus criterios; Serie B “Criterios relativos a los conceptos que integran los estados financieros”, el criterio B-2 “Reportos”, y Serie D “Criterios relativos a los estados financieros básicos”, sus criterios; del Anexo 18, Serie R01 “Catálogo mínimo”, el reporte regulatorio A-0112 “Catálogo mínimo”; Serie R10 “Reclasificaciones”, sus reportes regulatorios; Serie R12 “Consolidación”, sus reportes regulatorios, y Serie R13 “Estados Financieros”, sus reportes regulatorios; así como del Anexo 19, Serie R01 “Catálogo mínimo”, el reporte regulatorio A-0111 “Catálogo mínimo”; Serie R10 “Reclasificaciones”, sus reportes regulatorios, y Serie R13 “Estados Financieros”.

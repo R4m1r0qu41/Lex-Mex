@@ -1,8 +1,8 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-07-03
+- **Status date:** 2026-07-05
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Current instruments:** Ley para Regular las Instituciones de Tecnología Financiera (LRITF); Disposiciones aplicables a las instituciones de fondos de pago electrónico (DCG-IFPE-2021)
+- **Current instruments:** Ley para Regular las Instituciones de Tecnología Financiera (LRITF); Disposiciones aplicables a las instituciones de fondos de pago electrónico (DCG-IFPE-2021); Disposiciones de carácter general aplicables a las instituciones de tecnología financiera (DCG-ITF-2018)
 - **Current legal reviewer:** JRH
 
 ## 1. Project summary
@@ -13,13 +13,18 @@ provenance, convert them into stable canonical records, analyze temporal legal
 effects, route genuine uncertainty to human review, and publish useful Markdown
 and Obsidian views without treating Obsidian as the canonical database.
 
-The corpus now contains two instruments. The consolidated LRITF from the
+The corpus now contains three instruments. The consolidated LRITF from the
 Cámara de Diputados remains the statute vertical slice. The jointly issued
 CNBV/Banco de México disposiciones de carácter general for instituciones de
 fondos de pago electrónico, published in the Diario Oficial de la Federación
 on January 28, 2021 (slug `ifpe-dcg-2021`, short name DCG-IFPE-2021), is the
 first regulation and the first cross-instrument reference target: its express
-citations of LRITF provisions resolve against the loaded LRITF corpus.
+citations of LRITF provisions resolve against the loaded LRITF corpus. The
+CNBV's general disposiciones for instituciones de tecnología financiera,
+published September 10, 2018 and compiled through six amending resolutions
+(slug `itf-dcg-2018`, short name DCG-ITF-2018), is the first instrument
+carrying structured amendment provenance: per-provision margin marks and the
+compiled document's REFERENCIAS legend.
 
 The canonical implementation is written in Rust. Model output may propose
 legal classifications, but Rust owns validation, state transitions, review
@@ -422,15 +427,34 @@ Checks rerun successfully on 2026-07-03:
 ## 6. Suggested next steps
 
 1. **JRH review pass over the DCG temporal determinations** — three of the
-   four machine-accepted determinations remain unverified (CUARTO is
-   lawyer-verified).
-2. **Expand the corpus** toward the remaining MVP statutes — the general
-   Fintech DCG (10/09/2018) next, using its compiled document as the
-   consolidated operational source with its numbered resoluciones
-   modificatorias as amendment provenance — then build the update engine
-   (source monitoring, diffs, DOF early warning).
+   four machine-accepted DCG-IFPE-2021 determinations remain unverified
+   (CUARTO is lawyer-verified), and DCG-ITF-2018 adds 16 machine-accepted
+   determinations plus one pending review: transitory SÉPTIMO, whose
+   evidence text says only "Derogado." — its margin mark `(5)` and the
+   legend identify the derogating act (Artículo Segundo, Resolución DOF
+   25/03/2019), ready for lawyer confirmation through `review resolve`.
+2. **Build the update engine** (source monitoring, diffs, DOF early
+   warning) — DCG-ITF-2018's six amending resolutions make it the natural
+   first monitoring target.
+3. **Fraction-level amendment attribution** — amendment marks are
+   currently per provision; the compiled document actually marks
+   individual fractions, so marks could later attach to fraction spans.
 
 Completed since the last revision of this list:
+
+- **Third instrument: DCG-ITF-2018** (general Fintech DCG, DOF 10/09/2018,
+  compiled through the 09/09/2025 resolución). 105 articles (1–103 plus
+  15 Bis and 15 Bis 1), 7 original transitories, 20 annexes from dedicated
+  CNBV PDFs (normaId 959 "Ver más" panel), 143 reference edges (24
+  cross-instrument into LRITF, 4 relative), 36 glossary terms additive to
+  LRITF Article 4, and the corpus's first compiled-document amendment
+  provenance: margin markers recorded per provision (`amendment_marks`),
+  the REFERENCIAS legend as `amendment-references.json`, six per-resolución
+  transitory sections isolated as reform temporal evidence, and
+  `latest_reform_date` derived from the attributed resolución dates.
+  Word-level fidelity: all 2,104 canonical paragraphs are exact substrings
+  of the extracted sources after removing only markers, page numbers, and
+  one glyph-splitting artifact.
 
 - **Relative article references.** `artículo anterior` / `artículo
   siguiente` resolve against the source provision's same-type neighbor in

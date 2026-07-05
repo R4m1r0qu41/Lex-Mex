@@ -1,0 +1,73 @@
+{
+  "slug": "itf-dcg-2018",
+  "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
+  "instrument_type": "regulation",
+  "parser": "itf-dcg",
+  "official_title": "Disposiciones de carácter general aplicables a las instituciones de tecnología financiera",
+  "short_name": "DCG-ITF-2018",
+  "operational_source": "cnbv",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
+  "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "publication_date": "2018-09-10",
+  "expected_min_articles": 105,
+  "expected_articles": 105,
+  "expected_transitories": 7,
+  "expected_annexes": 20,
+  "issuing_authorities": [
+    "Comisión Nacional Bancaria y de Valores"
+  ],
+  "formal_publication_urls": {},
+  "annex_pdf_urls": [
+    "https://www.cnbv.gob.mx/Anexos/Anexo 1 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 2 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 3 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 4 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 5 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 6 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 7 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 8 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 9 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 10 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 11 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 12 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 13 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 14 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 15 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 16 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 17 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 18 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 19 Fintech.pdf",
+    "https://www.cnbv.gob.mx/Anexos/Anexo 20 Fintech.pdf"
+  ],
+  "relevant_reform_transitories": {
+    "2019-03-25": ["primero", "segundo", "tercero"],
+    "2021-12-15": ["unico"],
+    "2023-01-20": ["primero", "segundo"],
+    "2024-09-02": ["primero", "segundo"],
+    "2025-07-24": ["unico"],
+    "2025-09-09": ["unico"]
+  },
+  "definition_layout_articles": [],
+  "glossary": {
+    "provision_suffix": ":article:2",
+    "style": "fractions",
+    "additive_to": ["urn:lex-mx:federal:statute:lritf"]
+  },
+  "tls_intermediate_ca_pems": [
+    "globalsign-rsa-ov-ssl-ca-2018.pem",
+    "godaddy-secure-ca-g2.pem"
+  ],
+  "internal_reference_markers": [
+    "de estas disposiciones",
+    "de las presentes disposiciones",
+    "del presente instrumento",
+    "de este instrumento"
+  ],
+  "external_instruments": [
+    {
+      "name_marker": "ley para regular las instituciones de tecnología financiera",
+      "instrument_id": "urn:lex-mx:federal:statute:lritf"
+    }
+  ]
+}

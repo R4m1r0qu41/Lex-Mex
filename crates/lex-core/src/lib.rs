@@ -169,6 +169,22 @@ pub struct Provision {
     pub review_status: ReviewStatus,
     #[serde(default)]
     pub transitory_effects: Vec<TransitoryEffect>,
+    /// Amendment markers a compiled CNBV document prints in the margin of
+    /// this provision — the numeral system linking amended text to its
+    /// resolución modificatoria. Each number resolves through the
+    /// instrument's `amendment_references` legend. Sorted and deduplicated;
+    /// empty for instruments without compiled-document markers.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub amendment_marks: Vec<u32>,
+}
+
+/// One entry of a compiled CNBV document's REFERENCIAS legend: the marker
+/// number the margin notes use, and the verbatim legend text identifying
+/// the amending resolución and action (Reformado / Adicionado / Derogado).
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct AmendmentReference {
+    pub marker: u32,
+    pub description: String,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
@@ -279,6 +295,11 @@ pub struct Corpus {
     pub terms: Vec<DefinedTerm>,
     #[serde(default)]
     pub term_usages: Vec<TermUsage>,
+    /// The compiled document's REFERENCIAS legend, mapping each margin
+    /// marker number to its amending resolución. Empty for instruments
+    /// without compiled-document markers.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub amendment_references: Vec<AmendmentReference>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

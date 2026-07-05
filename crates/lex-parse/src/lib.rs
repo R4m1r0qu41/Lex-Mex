@@ -18,10 +18,12 @@ use regex::Regex;
 
 pub mod dcg;
 pub mod html;
+pub mod itf;
 pub mod terms;
 
 pub use dcg::parse_dcg;
 pub use html::extract_html_text;
+pub use itf::{ItfDocument, parse_itf_dcg};
 pub use terms::{GlossaryStyle, extract_term_usages, extract_terms, find_glossary_provision};
 
 const SOURCE_HEADER: &str = "LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA";
@@ -1048,6 +1050,7 @@ pub fn validate_lritf(
             references,
             terms: &[],
             term_usages: &[],
+            amendment_references: &[],
         },
         &CorpusExpectations {
             min_articles: expected_min_articles,
@@ -1076,6 +1079,9 @@ pub struct CorpusView<'a> {
     pub references: &'a [ReferenceEdge],
     pub terms: &'a [DefinedTerm],
     pub term_usages: &'a [TermUsage],
+    /// The compiled document's REFERENCIAS legend; empty for instruments
+    /// without margin amendment markers.
+    pub amendment_references: &'a [lex_core::AmendmentReference],
 }
 
 #[must_use]
@@ -1093,6 +1099,7 @@ pub fn validate_corpus(
         references,
         terms,
         term_usages,
+        amendment_references,
     } = *view;
     let article_count = provisions
         .iter()
@@ -1116,6 +1123,7 @@ pub fn validate_corpus(
         &mut issues,
     );
     validate_provisions(provisions, expectations, &mut issues);
+    validate_amendment_marks(provisions, amendment_references, &mut issues);
     validate_terms(provisions, terms, term_usages, external_terms, &mut issues);
     validate_references(
         instrument_id,
@@ -1134,6 +1142,38 @@ pub fn validate_corpus(
         transitory_count,
         reference_count: references.len(),
         issues,
+    }
+}
+
+/// Every provision amendment mark must resolve through the instrument's
+/// legend, and legend marker numbers must be unique — a dangling mark
+/// means the parser attached a number the REFERENCIAS section never
+/// defined.
+fn validate_amendment_marks(
+    provisions: &[Provision],
+    amendment_references: &[lex_core::AmendmentReference],
+    issues: &mut Vec<ValidationIssue>,
+) {
+    let mut legend = HashSet::new();
+    for reference in amendment_references {
+        if !legend.insert(reference.marker) {
+            issues.push(error(
+                "duplicate_amendment_marker",
+                format!("legend defines marker {} more than once", reference.marker),
+                None,
+            ));
+        }
+    }
+    for provision in provisions {
+        for mark in &provision.amendment_marks {
+            if !legend.contains(mark) {
+                issues.push(error(
+                    "unknown_amendment_mark",
+                    format!("amendment mark ({mark}) is not defined by the legend"),
+                    Some(provision.id.clone()),
+                ));
+            }
+        }
     }
 }
 
@@ -1636,7 +1676,7 @@ fn parse_transitory_start(block: &str) -> Option<(&str, &str)> {
     })
 }
 
-fn slug(value: &str) -> String {
+pub(crate) fn slug(value: &str) -> String {
     value
         .to_lowercase()
         .replace('á', "a")
@@ -1647,7 +1687,7 @@ fn slug(value: &str) -> String {
         .replace(' ', "-")
 }
 
-fn spanish_date(day: &str, month: &str, year: &str) -> Option<NaiveDate> {
+pub(crate) fn spanish_date(day: &str, month: &str, year: &str) -> Option<NaiveDate> {
     let month = match month {
         "enero" => 1,
         "febrero" => 2,
@@ -1806,6 +1846,7 @@ impl ProvisionBuilder {
             temporal_confidence: None,
             review_status: ReviewStatus::NotAnalyzed,
             transitory_effects: Vec::new(),
+            amendment_marks: Vec::new(),
         }
     }
 }

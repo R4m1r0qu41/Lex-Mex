@@ -1,5 +1,53 @@
 # Architecture decisions
 
+## 2026-07-05 — Compiled-document amendment markers as structured provenance
+
+The compiled CNBV document for the general Fintech DCG (DOF 10/09/2018,
+six resoluciones modificatorias through 09/09/2025) prints a numbered
+margin marker (`(7)`) beside every amended block, and closes with a
+REFERENCIAS legend mapping each number to its amending resolution and
+action (Reformado / Adicionado / Derogado / Sustituido). Following the
+standing rule that compiled documents are the operational source and
+resoluciones are provenance references — never individually extracted —
+the markers are treated as structured marginalia, not prose:
+
+- Markers are removed from canonical provision text (they are typography,
+  like page-number footers) and recorded per provision as
+  `amendment_marks`, deduplicated and sorted.
+- The legend is parsed into corpus-level `amendment_references`
+  (`amendment-references.json`), keeping the verbatim legend text.
+- Marker placement is spatial: the layout extraction emits each marker at
+  the vertical position of the text it annotates, which can be just
+  before a provision's heading line or between its body lines. Markers
+  are therefore held pending and attached to whichever provision the next
+  content line belongs to; structural headings (títulos, capítulos,
+  secciones, apartados) clear them, since a chapter-title mark is not
+  provision provenance.
+- A blank line immediately after a marker line is part of the marker's
+  own line box: paragraphs flow across markers unbroken.
+- Inline parenthesized numbers in prose (`un (1) reporte`) are untouched —
+  only whole-line markers count.
+- One glyph-splitting artifact exists in the source PDF (article 21's
+  marker renders its closing parenthesis at the start of the heading
+  line); the orphan parenthesis is removed deterministically and the case
+  is fixture-covered.
+
+Word-level fidelity holds: all 2,104 canonical paragraphs of the ITF DCG
+are exact substrings of the extracted sources after removing exactly the
+markers, page numbers, and the one orphan parenthesis.
+
+Each of the six per-resolution TRANSITORIOS sections after the original
+one is attributed to its resolution by the parenthesized block following
+the heading, and its articles become reform temporal evidence
+(`…:amendment:<dof-date>:transitory:<ordinal>`), mirroring the LRITF
+reform-decree appendix. Only the original 2018 transitories are canonical
+provisions. `latest_reform_date` derives from the maximum attributed
+resolution date. The instrument deliberately has no formal DOF source
+acquisition: the compiled document consolidates seven DOF publications,
+and per-resolution provenance lives in the legend and the adapter's
+`relevant_reform_transitories`; the original DOF nota can be attached
+later if a decision comes to depend on it.
+
 ## 2026-07-05 — Relative article references
 
 `artículo anterior` / `artículo siguiente` are express citations whose

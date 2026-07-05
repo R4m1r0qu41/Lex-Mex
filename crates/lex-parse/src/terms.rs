@@ -426,6 +426,7 @@ mod tests {
             temporal_confidence: None,
             review_status: ReviewStatus::NotAnalyzed,
             transitory_effects: Vec::new(),
+            amendment_marks: Vec::new(),
         }
     }
 

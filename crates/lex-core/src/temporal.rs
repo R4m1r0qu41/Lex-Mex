@@ -1070,6 +1070,7 @@ mod tests {
             temporal_confidence: None,
             review_status: ReviewStatus::NotAnalyzed,
             transitory_effects: Vec::new(),
+            amendment_marks: Vec::new(),
         };
         let evidence_map = |text: &str| HashMap::from([(provision_id.clone(), text.to_owned())]);
 
@@ -1185,6 +1186,7 @@ mod tests {
             temporal_confidence: None,
             review_status: ReviewStatus::NotAnalyzed,
             transitory_effects: Vec::new(),
+            amendment_marks: Vec::new(),
         }
     }
 

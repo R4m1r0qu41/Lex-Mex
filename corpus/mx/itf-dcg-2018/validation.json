@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
+  "valid": true,
+  "article_count": 105,
+  "transitory_count": 7,
+  "reference_count": 143,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis-1"
+    }
+  ]
+}

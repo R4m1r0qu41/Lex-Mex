@@ -13,6 +13,8 @@
 //! or enumeration (`.`, `:`, or `;`); annex PDFs have no page furniture
 //! beyond an occasional bare page-number footer line, which is dropped.
 
+use std::collections::BTreeSet;
+
 use anyhow::{Context, Result, bail};
 use chrono::NaiveDate;
 use lex_core::{
@@ -20,7 +22,7 @@ use lex_core::{
 };
 use regex::Regex;
 
-const TRANSITORY_ORDINALS: &[&str] = &[
+pub(crate) const TRANSITORY_ORDINALS: &[&str] = &[
     "PRIMERO", "SEGUNDO", "TERCERO", "CUARTO", "QUINTO", "SEXTO", "SÉPTIMO", "OCTAVO", "NOVENO",
     "DÉCIMO",
 ];
@@ -61,10 +63,11 @@ pub fn parse_dcg(
     Ok(provisions)
 }
 
-struct HeadingState {
-    chapter: Option<String>,
-    section: Option<String>,
-    apartado: Option<String>,
+pub(crate) struct HeadingState {
+    pub(crate) title: Option<String>,
+    pub(crate) chapter: Option<String>,
+    pub(crate) section: Option<String>,
+    pub(crate) apartado: Option<String>,
 }
 
 fn parse_main_text(
@@ -82,6 +85,7 @@ fn parse_main_text(
     let mut provisions = Vec::new();
     let mut current: Option<DcgProvisionBuilder> = None;
     let mut headings = HeadingState {
+        title: None,
         chapter: None,
         section: None,
         apartado: None,
@@ -170,6 +174,10 @@ fn parse_main_text(
     Ok(provisions)
 }
 
+pub(crate) fn amendment_marker_regex() -> Result<Regex> {
+    Ok(Regex::new(r"^\((\d{1,2})\)$")?)
+}
+
 fn new_transitory_regex() -> Result<Regex> {
     Ok(Regex::new(&format!(
         r"^({})\.-\s*(.*)$",
@@ -177,7 +185,7 @@ fn new_transitory_regex() -> Result<Regex> {
     ))?)
 }
 
-fn flush(
+pub(crate) fn flush(
     current: &mut Option<DcgProvisionBuilder>,
     provisions: &mut Vec<Provision>,
     publication_date: NaiveDate,
@@ -195,17 +203,22 @@ fn flush(
 /// paragraph accumulation and page-break merging as an article: a bare
 /// 1-3 digit line is a page-number footer and is dropped without affecting
 /// paragraph boundaries.
-fn parse_annex_document(
+pub(crate) fn parse_annex_document(
     raw: &str,
     expected_number: u32,
     instrument_id: &str,
     publication_date: NaiveDate,
 ) -> Result<Provision> {
-    let heading_re = Regex::new(r"(?i)^anexo\s+(\d+)$")?;
+    // A landscape-format annex can print its margin marker on the heading
+    // line itself (`ANEXO 14        (2)`).
+    let heading_re = Regex::new(r"(?i)^anexo\s+(\d+)(?:\s+\((\d{1,2})\))?$")?;
     let page_number_re = Regex::new(r"^\d{1,3}$")?;
+    let marker_re = amendment_marker_regex()?;
     let mut builder: Option<DcgProvisionBuilder> = None;
     let mut pending_blank = false;
     let mut crossed_page_break = false;
+    let mut pending_marks: Vec<u32> = Vec::new();
+    let mut swallow_blank = false;
 
     for source_line in raw.lines() {
         if source_line.starts_with('\u{c}') {
@@ -214,12 +227,28 @@ fn parse_annex_document(
         let line = source_line.trim_start_matches('\u{c}');
         let trimmed = line.trim();
         if trimmed.is_empty() {
-            pending_blank = true;
+            // A blank immediately following a margin marker is part of the
+            // marker's own line box, not a paragraph boundary.
+            if swallow_blank {
+                swallow_blank = false;
+            } else {
+                pending_blank = true;
+            }
             continue;
         }
         if page_number_re.is_match(trimmed) {
             continue;
         }
+        if let Some(captures) = marker_re.captures(trimmed) {
+            let marker: u32 = captures[1].parse().expect("two-digit marker");
+            match &mut builder {
+                Some(open) => open.mark(marker),
+                None => pending_marks.push(marker),
+            }
+            swallow_blank = true;
+            continue;
+        }
+        swallow_blank = false;
         if builder.is_none() {
             let captures = heading_re.captures(trimmed).with_context(|| {
                 format!("annex {expected_number} does not start with an ANEXO heading")
@@ -230,11 +259,25 @@ fn parse_annex_document(
             if found_number != expected_number {
                 bail!("expected annex {expected_number}, found heading for annex {found_number}");
             }
-            builder = Some(DcgProvisionBuilder::annex(
+            let mut annex = DcgProvisionBuilder::annex(
                 instrument_id,
                 expected_number.to_string(),
-                trimmed.to_owned(),
-            ));
+                captures
+                    .get(0)
+                    .expect("full heading")
+                    .as_str()
+                    .split_whitespace()
+                    .take(2)
+                    .collect::<Vec<_>>()
+                    .join(" "),
+            );
+            if let Some(inline) = captures.get(2) {
+                annex.mark(inline.as_str().parse().expect("two-digit marker"));
+            }
+            for marker in pending_marks.drain(..) {
+                annex.mark(marker);
+            }
+            builder = Some(annex);
             (pending_blank, crossed_page_break) = (false, false);
             continue;
         }
@@ -248,7 +291,7 @@ fn parse_annex_document(
     Ok(builder.finish(publication_date))
 }
 
-struct DcgProvisionBuilder {
+pub(crate) struct DcgProvisionBuilder {
     instrument_id: String,
     provision_type: ProvisionType,
     number: String,
@@ -261,6 +304,9 @@ struct DcgProvisionBuilder {
     /// Raw source lines retained for definition-layout reconstruction.
     definition_layout: bool,
     raw_lines: Vec<RawLine>,
+    /// Amendment markers printed in the compiled document's margin within
+    /// this provision, deduplicated and ordered.
+    amendment_marks: BTreeSet<u32>,
 }
 
 struct RawLine {
@@ -270,7 +316,7 @@ struct RawLine {
 }
 
 impl DcgProvisionBuilder {
-    fn article(
+    pub(crate) fn article(
         instrument_id: &str,
         number: String,
         initial: &str,
@@ -283,7 +329,7 @@ impl DcgProvisionBuilder {
             label: format!("Artículo {number}"),
             number,
             heading_context: HeadingContext {
-                title: None,
+                title: headings.title.clone(),
                 chapter: headings.chapter.clone(),
                 section: headings.section.clone(),
                 apartado: headings.apartado.clone(),
@@ -292,12 +338,13 @@ impl DcgProvisionBuilder {
             current_paragraph: Vec::new(),
             definition_layout,
             raw_lines: Vec::new(),
+            amendment_marks: BTreeSet::new(),
         };
         builder.push_line(initial, false, false);
         builder
     }
 
-    fn annex(instrument_id: &str, number: String, label: String) -> Self {
+    pub(crate) fn annex(instrument_id: &str, number: String, label: String) -> Self {
         Self {
             instrument_id: instrument_id.to_owned(),
             provision_type: ProvisionType::Annex,
@@ -313,10 +360,11 @@ impl DcgProvisionBuilder {
             current_paragraph: Vec::new(),
             definition_layout: false,
             raw_lines: Vec::new(),
+            amendment_marks: BTreeSet::new(),
         }
     }
 
-    fn transitory(instrument_id: &str, ordinal: &str, initial: &str) -> Self {
+    pub(crate) fn transitory(instrument_id: &str, ordinal: &str, initial: &str) -> Self {
         let mut builder = Self {
             instrument_id: instrument_id.to_owned(),
             provision_type: ProvisionType::Transitory,
@@ -332,12 +380,17 @@ impl DcgProvisionBuilder {
             current_paragraph: Vec::new(),
             definition_layout: false,
             raw_lines: Vec::new(),
+            amendment_marks: BTreeSet::new(),
         };
         builder.push_line(initial, false, false);
         builder
     }
 
-    fn push_line(&mut self, line: &str, after_blank: bool, after_page_break: bool) {
+    pub(crate) fn mark(&mut self, marker: u32) {
+        self.amendment_marks.insert(marker);
+    }
+
+    pub(crate) fn push_line(&mut self, line: &str, after_blank: bool, after_page_break: bool) {
         if self.definition_layout {
             self.raw_lines.push(RawLine {
                 text: line.to_owned(),
@@ -378,7 +431,9 @@ impl DcgProvisionBuilder {
             self.finish_paragraph();
         }
         let (kind, canonical_number) = match self.provision_type {
-            ProvisionType::Article => ("article", self.number.to_lowercase()),
+            // Multi-word numbers (`15 Bis 1`) canonicalize with hyphens,
+            // matching the LRITF builder and the reference extractor.
+            ProvisionType::Article => ("article", self.number.to_lowercase().replace(' ', "-")),
             ProvisionType::Transitory => ("transitory", slug(&self.number)),
             ProvisionType::Annex => ("annex", self.number.to_lowercase()),
         };
@@ -399,6 +454,7 @@ impl DcgProvisionBuilder {
             temporal_confidence: None,
             review_status: ReviewStatus::NotAnalyzed,
             transitory_effects: Vec::new(),
+            amendment_marks: self.amendment_marks.into_iter().collect(),
         }
     }
 }
