@@ -19,7 +19,9 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 Las instituciones de financiamiento colectivo, en el uso del [Identificador de Cliente](articulo-2.md) y los Factores de [Autenticación](articulo-2.md), se ajustarán, cuando menos, a lo siguiente:
 
-I. Contar con los mecanismos necesarios para impedir la lectura en la pantalla del [Dispositivo de Acceso](articulo-2.md), de la información de identificación y Autenticación proporcionada por el [Cliente](../../lritf/markdown/articulo-4.md). II. Contar con procedimientos que aseguren que, en la generación, entrega, almacenamiento, desbloqueo y restablecimiento de los Factores de Autenticación, únicamente sea el Cliente quien los reciba, active, conozca, desbloquee y restablezca.
+I. Contar con los mecanismos necesarios para impedir la lectura en la pantalla del [Dispositivo de Acceso](articulo-2.md), de la información de identificación y Autenticación proporcionada por el [Cliente](../../lritf/markdown/articulo-4.md).
+
+II. Contar con procedimientos que aseguren que, en la generación, entrega, almacenamiento, desbloqueo y restablecimiento de los Factores de Autenticación, únicamente sea el Cliente quien los reciba, active, conozca, desbloquee y restablezca.
 
 III. Asegurar que cuando exista más de un [Factor de Autenticación](articulo-2.md) estos sean independientes, es decir, que la vulneración de uno no comprometa la fiabilidad de los demás.
 

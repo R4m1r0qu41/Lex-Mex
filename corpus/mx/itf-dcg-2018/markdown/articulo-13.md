@@ -43,7 +43,9 @@ B-5 (Derogado)
 
 Serie C Criterios aplicables a conceptos específicos
 
-C-1 [Operaciones](../../lritf/markdown/articulo-4.md) de bursatilización. Serie D Criterios relativos a los estados financieros básicos
+C-1 [Operaciones](../../lritf/markdown/articulo-4.md) de bursatilización.
+
+Serie D Criterios relativos a los estados financieros básicos
 
 D-1 Estado de situación financiera.
 

@@ -16,7 +16,7 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 # Artículo 3
 
-Las solicitudes de autorización para organizarse y operar como [ITF](../../lritf/markdown/articulo-4.md), deberán acompañarse, además de la información y documentación señalada en el artículo 39 de la Ley, de la que a continuación se indica:
+Las solicitudes de autorización para organizarse y operar como [ITF](../../lritf/markdown/articulo-4.md), deberán acompañarse, además de la información y documentación señalada en el artículo 39 de la [Ley](articulo-2.md), de la que a continuación se indica:
 
 I. Tratándose de los cargos de posible administrador único o miembros del consejo de administración y director general, deberán presentar la información señalada en los Anexos 1 y 2 de las presentes disposiciones, acompañando la documentación que se indica en ellos.
 

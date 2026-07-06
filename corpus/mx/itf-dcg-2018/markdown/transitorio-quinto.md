@@ -16,7 +16,7 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 # QUINTO
 
-Las instituciones de financiamiento colectivo podrán considerar a sus [Clientes](../../lritf/markdown/articulo-4.md) como [Inversionistas Experimentados](articulo-2.md) en términos del artículo [2](articulo-2.md), fracción XXIII, inciso d) de estas disposiciones, si dichos Clientes hubieran realizado [Operaciones](../../lritf/markdown/articulo-4.md) a través de una o más de las personas a que se refiere la disposición [OCTAVA Transitoria](../../lritf/markdown/transitorio-octava.md) de la Ley para Regular las Instituciones de Tecnología Financiera.
+Las instituciones de financiamiento colectivo podrán considerar a sus [Clientes](../../lritf/markdown/articulo-4.md) como [Inversionistas Experimentados](articulo-2.md) en términos del artículo [2](articulo-2.md), fracción XXIII, inciso d) de estas disposiciones, si dichos Clientes hubieran realizado [Operaciones](../../lritf/markdown/articulo-4.md) a través de una o más de las personas a que se refiere la disposición [OCTAVA Transitoria](../../lritf/markdown/transitorio-octava.md) de la [Ley](articulo-2.md) para Regular las Instituciones de Tecnología Financiera.
 
 ## Efectos transitorios estructurados
 

@@ -19,7 +19,7 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 La Comisión, podrá autorizar a las [ITF](../../lritf/markdown/articulo-4.md) criterios contables especiales con carácter temporal respecto de la aplicación de los criterios de contabilidad contenidos en los Anexos 6 y 7 de estas disposiciones, cuando las autoridades competentes, emitan declaratorias de emergencia o desastre natural ante la ocurrencia de fenómenos naturales perturbadores que generen afectaciones a la economía que, a juicio de la Comisión, pudieran ocasionar un impacto adverso en la solvencia o liquidez de dos o más ITF y, en su caso, en la estabilidad del sistema financiero.
 
-Para efectos de lo establecido en el párrafo anterior, deberá entenderse por fenómeno natural perturbador lo referido en la Ley General de Protección Civil o la que la sustituya.
+Para efectos de lo establecido en el párrafo anterior, deberá entenderse por fenómeno natural perturbador lo referido en la [Ley](articulo-2.md) General de Protección Civil o la que la sustituya.
 
 Para obtener la autorización de aplicación de criterios contables especiales deberá enviarse a la Comisión por lo menos, lo siguiente:
 

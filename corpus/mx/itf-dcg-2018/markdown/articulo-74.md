@@ -25,6 +25,8 @@ a) Información que el Cliente conozca o haya proporcionado a la institución de
 
 b) Información que el Cliente pueda verificar mediante un dispositivo o [Medio Electrónico](articulo-2.md) proporcionado por la institución de financiamiento colectivo para este fin.
 
-II. Una vez que el Cliente verifique que se trata de la institución de financiamiento colectivo e inicie la Sesión, esta deberá proporcionar de forma notoria y visible al Cliente, al menos la siguiente información: a) Fecha y hora del ingreso a su última Sesión, y
+II. Una vez que el Cliente verifique que se trata de la institución de financiamiento colectivo e inicie la Sesión, esta deberá proporcionar de forma notoria y visible al Cliente, al menos la siguiente información:
+
+a) Fecha y hora del ingreso a su última Sesión, y
 
 b) Nombre y apellido del Cliente.

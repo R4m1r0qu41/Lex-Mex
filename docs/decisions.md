@@ -1,5 +1,102 @@
 # Architecture decisions
 
+## 2026-07-06 — Second-pass code review fixes on the ITF DCG ingestion
+
+An external review of the amendment-marker and relative-reference work found
+eight issues, six of them real correctness bugs. All eight are fixed here.
+
+**Main document extraction lost its page-break markers.** `run_extract`
+gated `keep_page_breaks` on `parser == "ifpe-dcg"` only; the newer `itf-dcg`
+parser was never added, so its compiled main document was extracted with
+`pdftotext -nopgbrk` even though `itf.rs` explicitly scans for `\u{c}` to
+decide whether a paragraph legitimately continues across a page boundary.
+The page-break-aware merge logic was silently dead code for the whole
+~105-article main document (annexes were unaffected — they hardcode the
+flag separately). Fixing this and reparsing corrected 24 provisions where a
+page break had incorrectly glued two paragraphs together — most visibly,
+fraction III of article 54 had been silently merged into fraction II's
+text, invisible to fraction-anchor linking. Word-level fidelity re-verified
+across all 2,132 canonical paragraphs; temporal evidence text is untouched
+(the reform-transitory scanner never used page-break state), so all 17
+persisted determinations, including the pending SÉPTIMO review, re-applied
+unchanged.
+
+**A shared "pending marker" mechanism replaces two independent, drifted
+copies.** `dcg.rs`'s `parse_annex_document` and `itf.rs`'s main-document
+scanner had each grown their own hand-rolled version of "hold a marker,
+swallow the blank line right after it, drain onto whichever provision
+comes next" — and the two copies had already diverged into different bugs:
+
+- In `parse_annex_document`, a page-number footer between a marker and the
+  following blank line didn't reset the "swallow the next blank" flag, so
+  the footer let that swallow-intent leak across itself onto a blank line
+  the marker was never actually adjacent to, incorrectly merging two
+  paragraphs. Fixed by making every non-blank, non-marker line — including
+  a footer — sever that adjacency, matching how an ordinary content line
+  already did.
+- In `itf.rs`, a marker appearing inside a per-resolution TRANSITORIOS
+  section was queued but never drained anywhere, since a per-resolution
+  transitory becomes `TemporalEvidence`, which has no `amendment_marks`
+  field to receive it — and the CONSIDERANDO/REFERENCIAS transitions
+  didn't clear the queue either, unlike the TRANSITORIOS transition and
+  the four structural-heading transitions, which did. The marker simply
+  vanished with no trace.
+
+Both are now the same shared `PendingMarks` type (in `dcg.rs`, used by
+both parsers): `push`/`drain_onto` for the normal case, and `discard`,
+which **errors** instead of silently dropping a marker at a boundary with
+no receiver — a per-resolution transitory, a considerando, or the legend.
+Discovering a real document exercises one of those cases needs a human
+look, not a silent loss of provenance.
+
+That strict rule has one evidenced, deliberate exception:
+`discard_from_heading` clears silently at a Título/Capítulo/Sección/
+Apartado boundary (and at a TRANSITORIOS/REFERENCIAS transition reached
+directly from Body), because the real document repeals an entire Apartado
+with no article of its own — a heading followed by a lone `(Derogado)`
+note, itself marked. `HeadingContext` has no field to receive a mark, but
+the fact is always redundant with the same marker already recorded
+directly on the individual provisions the heading covers, so nothing is
+lost by discarding it there.
+
+**`orphan_paren_re` narrowed to a self-verifying retry.** The regex
+repairing article 21's glyph-splitting artifact (`) Artículo 21.- …`) was
+applied to every line of the whole document up front, with nothing but the
+literal text "Artículo" constraining it. It now only runs as a fallback at
+the exact point of trying to match an article heading, and is accepted
+only when stripping the leading `) ` actually turns the line into a real
+`article_re` match — so it can never alter a line that merely happens to
+start the same way without being a mis-rendered heading.
+
+**Reform-evidence ID/label construction is now one shared function**
+(`reform_evidence_item` in `lib.rs`), called by both LRITF's
+`ReformEvidenceBuilder` and the ITF DCG's `flush_reform` — closing a
+literal duplication of the `{instrument_id}:amendment:{date}:transitory:
+{ordinal}` convention. Each caller still assembles its own `text` before
+calling it (LRITF's decree appendix is block-scanned and paragraph-joined;
+the ITF DCG's resolution sections are line-scanned and space-joined) — the
+two are not forced into a shared join strategy, since doing so would have
+altered persisted, already-hashed evidence text for one or the other.
+
+**Reform-evidence file write-gate restored to its original invariant, and
+correctly extended.** A prior fix changed the write condition from
+`parser == "lritf"` to `!reform_evidence.is_empty()`, so a future reparse
+producing zero reform evidence would leave a stale non-empty file on disk
+rather than overwriting it to `[]`. Restored to writing unconditionally —
+even when empty — gated on `matches!(parser, "lritf" | "itf-dcg")`,
+extending the original LRITF invariant to the new parser instead of
+narrowing it for both.
+
+**The shared annex marker-stripping logic added for the ITF DCG was
+verified against the real IFPE DCG-2021 corpus, not just asserted safe.**
+The margin-marker regex in `parse_annex_document` is shared unconditionally
+across both DCG parsers, but only 2 of IFPE's 8 real annexes have fixture
+coverage. Refetched and re-extracted all 8 real annex PDFs (byte-identical
+to what's committed), confirmed zero standalone marker-shaped lines exist
+in any of them, and reparsed the full instrument: zero annexes gained an
+`amendment_marks` entry, and `provisions.json`/`references.json` are
+byte-identical to what was already committed.
+
 ## 2026-07-05 — Compiled-document amendment markers as structured provenance
 
 The compiled CNBV document for the general Fintech DCG (DOF 10/09/2018,

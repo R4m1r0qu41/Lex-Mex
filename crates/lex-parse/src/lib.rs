@@ -1739,20 +1739,45 @@ struct ReformEvidenceBuilder {
 
 impl ReformEvidenceBuilder {
     fn finish(self) -> TemporalEvidence {
-        let date = self.date.format("%Y-%m-%d");
-        TemporalEvidence {
-            provision_id: format!(
-                "{LRITF_INSTRUMENT_ID}:amendment:{date}:transitory:{}",
-                slug(&self.ordinal)
-            ),
-            label: format!("Transitorio {} — Decreto DOF {date}", self.ordinal),
-            text: self
-                .blocks
-                .into_iter()
-                .filter(|block| !block.is_empty())
-                .collect::<Vec<_>>()
-                .join("\n\n"),
-        }
+        let text = self
+            .blocks
+            .into_iter()
+            .filter(|block| !block.is_empty())
+            .collect::<Vec<_>>()
+            .join("\n\n");
+        reform_evidence_item(
+            LRITF_INSTRUMENT_ID,
+            self.date,
+            &self.ordinal,
+            "Decreto",
+            text,
+        )
+    }
+}
+
+/// Build one reform-transitory `TemporalEvidence` item: the shared
+/// provision-ID and label convention every compiled/consolidated
+/// document's amending-act transitories use
+/// (`{instrument_id}:amendment:{date}:transitory:{ordinal}`). `text` is
+/// already assembled by the caller, since how source lines join into it
+/// (paragraph-preserving for LRITF's block-scanned decree appendix,
+/// single-space for the ITF DCG's line-scanned resolution sections)
+/// differs by source shape — only the ID/label convention is shared.
+pub(crate) fn reform_evidence_item(
+    instrument_id: &str,
+    date: NaiveDate,
+    ordinal: &str,
+    resolution_word: &str,
+    text: String,
+) -> TemporalEvidence {
+    let date = date.format("%Y-%m-%d");
+    TemporalEvidence {
+        provision_id: format!(
+            "{instrument_id}:amendment:{date}:transitory:{}",
+            slug(ordinal)
+        ),
+        label: format!("Transitorio {ordinal} — {resolution_word} DOF {date}"),
+        text,
     }
 }
 

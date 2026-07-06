@@ -35,7 +35,9 @@ VII. Las reclasificaciones entre categorías de las inversiones en instrumentos 
 
 VIII. Tasas de interés promedio de los préstamos bancarios y de otros organismos, identificados por tipo de moneda, plazos y garantías. Asimismo, se deberá incluir dentro de las notas los cambios significativos en las principales líneas de crédito, aún y cuando estas no se hayan ejercido.
 
-IX. Montos nominales de los instrumentos financieros derivados por tipo de instrumento y por subyacente. X. Resultados por valuación y, en su caso, por compraventa, reconocidos en el período de referencia, clasificándolos de acuerdo con el tipo de operación que les dio origen, tales como inversiones en instrumentos financieros, reportos e instrumentos financieros derivados, entre otros.
+IX. Montos nominales de los instrumentos financieros derivados por tipo de instrumento y por subyacente.
+
+X. Resultados por valuación y, en su caso, por compraventa, reconocidos en el período de referencia, clasificándolos de acuerdo con el tipo de operación que les dio origen, tales como inversiones en instrumentos financieros, reportos e instrumentos financieros derivados, entre otros.
 
 XI. Monto y origen de las principales partidas que, con respecto al resultado neto del período de referencia, integran los rubros de otros ingresos (egresos) de la operación.
 

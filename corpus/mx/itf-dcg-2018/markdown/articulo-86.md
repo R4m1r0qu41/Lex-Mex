@@ -25,7 +25,7 @@ II. El proyecto de contrato de prestación de servicios, en el que deberá seña
 
 Asimismo, deberá quedar constancia, dentro del contrato, de la aceptación expresa por parte del tercero de las obligaciones siguientes:
 
-a) Apegarse a lo previsto en el artículo 54 de la Ley.
+a) Apegarse a lo previsto en el artículo 54 de la [Ley](articulo-2.md).
 
 b) Entregar en el desarrollo de una auditoría y a solicitud de la institución de financiamiento colectivo, al auditor externo independiente de la propia institución de financiamiento colectivo y a la [CNBV](../../lritf/markdown/articulo-4.md), los libros, sistemas, registros, manuales y documentos en general, relacionados con la prestación del servicio de que se trate. Asimismo, permitir al auditor externo independiente o al personal de la CNBV el acceso a sus oficinas e instalaciones en general, relacionadas con la prestación del servicio en cuestión.
 
@@ -49,7 +49,9 @@ a) La descripción de los enlaces de comunicación utilizados por la institució
 
 b) Un diagrama de telecomunicaciones en donde se muestre la conexión existente entre cada uno de los participantes en la prestación del servicio (proveedores, centros de datos, institución de financiamiento colectivo, entre otros), incluyendo los esquemas de redundancia.
 
-c) La dirección completa del lugar en donde se realizarán cada uno de los servicios, así como de los centros de datos, primario y secundario, en donde se almacenará y procesará la información. En caso de que el lugar señalado se encuentre en territorio nacional debe incluirse, por lo menos, calle, número exterior e interior, colonia, alcaldía o municipio, código postal y entidad federativa. Tratándose de un sitio localizado en el extranjero deberán incluirse datos similares que permitan ubicar con certeza el lugar señalado. Tratándose de servicios de Computo en la Nube solamente deberán proporcionar lo señalado en el inciso b) de la fracción VI de este artículo. d) En su caso, el esquema de interrelación de aplicaciones o sistemas objeto de la contratación, incluyendo los sistemas propios de la institución de financiamiento colectivo.
+c) La dirección completa del lugar en donde se realizarán cada uno de los servicios, así como de los centros de datos, primario y secundario, en donde se almacenará y procesará la información. En caso de que el lugar señalado se encuentre en territorio nacional debe incluirse, por lo menos, calle, número exterior e interior, colonia, alcaldía o municipio, código postal y entidad federativa. Tratándose de un sitio localizado en el extranjero deberán incluirse datos similares que permitan ubicar con certeza el lugar señalado. Tratándose de servicios de Computo en la Nube solamente deberán proporcionar lo señalado en el inciso b) de la fracción VI de este artículo.
+
+d) En su caso, el esquema de interrelación de aplicaciones o sistemas objeto de la contratación, incluyendo los sistemas propios de la institución de financiamiento colectivo.
 
 e) Los mecanismos de continuidad del servicio contratado.
 

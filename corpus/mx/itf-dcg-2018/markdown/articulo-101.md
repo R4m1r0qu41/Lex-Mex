@@ -23,6 +23,8 @@ I. Mensualmente:
 
 a. La Información relativa a la serie R24, la cual deberá proporcionarse dentro de los primeros 10 días hábiles del mes inmediato siguiente al periodo que se reporta.
 
-b. La Información relativa a las series R01, R08, R10, R13, exclusivamente por lo que se refiere a los reportes B-13211 y B-13221 y R26, la cual deberá proporcionarse dentro del mes inmediato siguiente al cierre del mes calendario que se reporta. II. Trimestralmente, la Información relativa a las series R13, exclusivamente por lo que se refiere a los reportes A-13111 y A-13161, y R27, la cual deberá proporcionarse dentro del mes calendario inmediato siguiente al cierre del trimestre que se reporta.
+b. La Información relativa a las series R01, R08, R10, R13, exclusivamente por lo que se refiere a los reportes B-13211 y B-13221 y R26, la cual deberá proporcionarse dentro del mes inmediato siguiente al cierre del mes calendario que se reporta.
+
+II. Trimestralmente, la Información relativa a las series R13, exclusivamente por lo que se refiere a los reportes A-13111 y A-13161, y R27, la cual deberá proporcionarse dentro del mes calendario inmediato siguiente al cierre del trimestre que se reporta.
 
 III. (Derogada)

@@ -10,10 +10,10 @@
   "formal_publication_source": "dof",
   "publication_date": "2018-09-10",
   "latest_reform_date": "2025-09-09",
-  "retrieved_at": "2026-07-05T09:12:10.969218Z",
+  "retrieved_at": "2026-07-06T00:35:31.156606Z",
   "source_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
   "source_sha256": "b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a",
-  "extracted_text_sha256": "e3c6c154265c01270ea845e60966759f62b5e603494acf53674b719f917daa54",
+  "extracted_text_sha256": "06adb060200e4ce7942694891792f5f8f5947b0ae5a402292c4688b57354644a",
   "parser_version": "0.1.0",
   "status": "in_force",
   "issuing_authorities": [

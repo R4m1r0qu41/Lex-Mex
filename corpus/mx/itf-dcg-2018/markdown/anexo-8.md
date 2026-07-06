@@ -35,7 +35,7 @@ V. La posibilidad de que los estados financieros de las sociedades o proyectos e
 
 VI. La posibilidad de recibir información inicial y subsecuente limitada en comparación a lo observado en el mercado de valores por lo que, eventualmente, el Inversionista podría no contar con suficiente información para tomar decisiones de inversión.
 
-VII. La prohibición establecida para las instituciones de financiamiento colectivo de conformidad con lo previsto en el artículo 20 de la Ley y la imposibilidad para estas a que se refiere el artículo [11](articulo-11.md), tercer párrafo de dicho ordenamiento.
+VII. La prohibición establecida para las instituciones de financiamiento colectivo de conformidad con lo previsto en el artículo 20 de la [Ley](articulo-2.md) y la imposibilidad para estas a que se refiere el artículo [11](articulo-11.md), tercer párrafo de dicho ordenamiento.
 
 Cada institución de financiamiento colectivo deberá añadir las advertencias acerca de cualquier otro riesgo de inversión que identifiquen y que no esté contemplado en las fracciones anteriores, así como mostrar cada advertencia con el tamaño de fuente empleado preponderantemente en la Plataforma que utilicen.
 

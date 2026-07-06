@@ -39,7 +39,9 @@ Tratándose de Contraseñas definidas o generadas por las instituciones de finan
 
 II. Información contenida, recibida o generada por medios o dispositivos electrónicos que solo posee el Cliente, incluida la obtenida o recibida por dispositivos o aplicativos generadores de Contraseñas dinámicas de un solo uso (OTP, one time password por sus siglas en inglés), dichos medios o dispositivos deberán ser proporcionados o validados y registrados por las instituciones de financiamiento colectivo para sus Clientes y la información contenida o generada por ellos podrá ser proporcionada, entre otros formatos, en códigos de respuesta rápida (QR, quick response por sus siglas en inglés). En todo caso, se cumplirá con las características siguientes:
 
-a) Contar con propiedades que impidan su duplicación o alteración. b) Ser información dinámica que no podrá ser utilizada en más de una ocasión.
+a) Contar con propiedades que impidan su duplicación o alteración.
+
+b) Ser información dinámica que no podrá ser utilizada en más de una ocasión.
 
 c) Tener una vigencia que no podrá exceder de dos minutos.
 

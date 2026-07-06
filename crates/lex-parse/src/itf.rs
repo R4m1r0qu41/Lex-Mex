@@ -31,12 +31,13 @@ use lex_core::{AmendmentReference, Provision, TemporalEvidence};
 use regex::Regex;
 
 use crate::dcg::{
-    DcgProvisionBuilder, HeadingState, TRANSITORY_ORDINALS, amendment_marker_regex, flush,
-    parse_annex_document,
+    DcgProvisionBuilder, HeadingState, PendingMarks, TRANSITORY_ORDINALS, amendment_marker_regex,
+    flush, parse_annex_document,
 };
-use crate::{slug, spanish_date};
+use crate::{reform_evidence_item, spanish_date};
 
 /// Everything the compiled main document yields besides annexes.
+#[derive(Debug)]
 pub struct ItfDocument {
     pub provisions: Vec<Provision>,
     pub amendment_references: Vec<AmendmentReference>,
@@ -114,7 +115,10 @@ fn parse_main_text(
     // margin marker renders its closing parenthesis as a separate run that
     // lands at the start of the heading line (`) Artículo 21.- …`). The
     // marker number itself arrives as a normal standalone `(7)` line, so
-    // only the orphan parenthesis needs removing.
+    // only the orphan parenthesis needs removing. Applied only as a retry
+    // when the raw line fails to match an article heading, and only
+    // accepted if stripping it produces a real match — so this can never
+    // alter a line that isn't actually a mis-rendered article heading.
     let orphan_paren_re = Regex::new(r"^\)\s+(Artículo\s.*)$")?;
     let attribution_date_re =
         Regex::new(r"el\s+0?(\d{1,2})\s+de\s+([a-záéíóú]+)\s+de\s+(\d{4})\)$")?;
@@ -131,13 +135,13 @@ fn parse_main_text(
     let mut region = Region::Body;
     let mut pending_blank = false;
     let mut crossed_page_break = false;
-    let mut swallow_blank = false;
     // Margin markers sit at the vertical position of the text they
     // annotate, which the layout extraction can emit either just before a
     // provision's heading line or between its body lines. They are held
     // here and attached to whichever provision the next content line
-    // belongs to; structural headings clear them.
-    let mut pending_marks: Vec<u32> = Vec::new();
+    // belongs to; every context boundary either drains them onto a
+    // receiving provision or explicitly discards them.
+    let mut pending_marks = PendingMarks::default();
     let mut reform_evidence: Vec<TemporalEvidence> = Vec::new();
     let mut reform_current: Option<ReformTransitory> = None;
     let mut latest_reform_date: Option<NaiveDate> = None;
@@ -152,34 +156,36 @@ fn parse_main_text(
         if line.trim().is_empty() {
             // A blank immediately following a margin marker is part of the
             // marker's own line box, not a paragraph boundary.
-            if swallow_blank {
-                swallow_blank = false;
-            } else {
+            if !pending_marks.take_swallow_next_blank() {
                 pending_blank = true;
             }
             continue;
         }
-        let trimmed_line = line.trim();
-        let trimmed = orphan_paren_re
-            .captures(trimmed_line)
-            .map_or(trimmed_line, |captures| {
-                captures.get(1).expect("heading capture").as_str()
-            });
+        let trimmed = line.trim();
 
         // Margin markers are held pending and are invisible to paragraph
         // flow; the next content line decides which provision they mark.
         if let Some(captures) = marker_re.captures(trimmed) {
             pending_marks.push(captures[1].parse().expect("two-digit marker"));
-            swallow_blank = true;
             continue;
         }
-        swallow_blank = false;
+        pending_marks.observe_content_line();
 
         // Region transitions shared by every region.
         if trimmed == "TRANSITORIOS" {
             flush(&mut current, &mut provisions, publication_date);
             flush_reform(&mut reform_current, instrument_id, &mut reform_evidence);
-            pending_marks.clear();
+            // Leaving Body can carry a stray marker with no home (an
+            // Apartado-level "(Derogado)" note with no open article, for
+            // instance) — always redundant with the same marker already
+            // recorded on the individual provisions it summarizes. Any
+            // other region reaching a second TRANSITORIOS heading has no
+            // such evidenced exception.
+            if matches!(region, Region::Body) {
+                pending_marks.discard_from_heading();
+            } else {
+                pending_marks.discard("a TRANSITORIOS heading")?;
+            }
             region = match region {
                 Region::Body => Region::OriginalTransitories,
                 _ => Region::ReformTransitories(None),
@@ -195,6 +201,7 @@ fn parse_main_text(
         {
             flush(&mut current, &mut provisions, publication_date);
             flush_reform(&mut reform_current, instrument_id, &mut reform_evidence);
+            pending_marks.discard("a CONSIDERANDO section")?;
             region = Region::TrailingConsiderandos;
             (pending_blank, crossed_page_break) = (false, false);
             continue;
@@ -202,6 +209,11 @@ fn parse_main_text(
         if trimmed == "REFERENCIAS" {
             flush(&mut current, &mut provisions, publication_date);
             flush_reform(&mut reform_current, instrument_id, &mut reform_evidence);
+            if matches!(region, Region::Body) {
+                pending_marks.discard_from_heading();
+            } else {
+                pending_marks.discard("the REFERENCIAS legend")?;
+            }
             region = Region::Legend;
             (pending_blank, crossed_page_break) = (false, false);
             continue;
@@ -211,7 +223,7 @@ fn parse_main_text(
             Region::Body => {
                 if let Some(captures) = titulo_re.captures(trimmed) {
                     flush(&mut current, &mut provisions, publication_date);
-                    pending_marks.clear();
+                    pending_marks.discard_from_heading();
                     headings = HeadingState {
                         title: Some(format!("Título {}", &captures[1])),
                         chapter: None,
@@ -220,20 +232,29 @@ fn parse_main_text(
                     };
                 } else if let Some(captures) = chapter_re.captures(trimmed) {
                     flush(&mut current, &mut provisions, publication_date);
-                    pending_marks.clear();
+                    pending_marks.discard_from_heading();
                     headings.chapter = Some(format!("Capítulo {}", &captures[1]));
                     headings.section = None;
                     headings.apartado = None;
                 } else if let Some(captures) = section_re.captures(trimmed) {
                     flush(&mut current, &mut provisions, publication_date);
-                    pending_marks.clear();
+                    pending_marks.discard_from_heading();
                     headings.section = Some(format!("Sección {}", &captures[1]));
                     headings.apartado = None;
                 } else if let Some(captures) = apartado_re.captures(trimmed) {
                     flush(&mut current, &mut provisions, publication_date);
-                    pending_marks.clear();
+                    pending_marks.discard_from_heading();
                     headings.apartado = Some(format!("Apartado {}", &captures[1]));
-                } else if let Some(captures) = article_re.captures(trimmed) {
+                } else if let Some(captures) = article_re.captures(trimmed).or_else(|| {
+                    // The one glyph-splitting artifact in the source PDF
+                    // (see orphan_paren_re above): only accepted when
+                    // stripping the leading `) ` turns the line into a
+                    // real article heading, so this can never alter an
+                    // unrelated line that merely starts the same way.
+                    orphan_paren_re.captures(trimmed).and_then(|outer| {
+                        article_re.captures(outer.get(1).expect("group").as_str())
+                    })
+                }) {
                     flush(&mut current, &mut provisions, publication_date);
                     let mut article = DcgProvisionBuilder::article(
                         instrument_id,
@@ -242,14 +263,10 @@ fn parse_main_text(
                         &headings,
                         false,
                     );
-                    for marker in pending_marks.drain(..) {
-                        article.mark(marker);
-                    }
+                    pending_marks.drain_onto(&mut article);
                     current = Some(article);
                 } else if let Some(builder) = &mut current {
-                    for marker in pending_marks.drain(..) {
-                        builder.mark(marker);
-                    }
+                    pending_marks.drain_onto(builder);
                     builder.push_line(line, pending_blank, crossed_page_break);
                 }
             }
@@ -261,18 +278,19 @@ fn parse_main_text(
                         &captures[1],
                         captures[2].trim(),
                     );
-                    for marker in pending_marks.drain(..) {
-                        transitory.mark(marker);
-                    }
+                    pending_marks.drain_onto(&mut transitory);
                     current = Some(transitory);
                 } else if let Some(builder) = &mut current {
-                    for marker in pending_marks.drain(..) {
-                        builder.mark(marker);
-                    }
+                    pending_marks.drain_onto(builder);
                     builder.push_line(line, pending_blank, crossed_page_break);
                 }
             }
             Region::ReformTransitories(date) => {
+                // A per-resolution transitory is never a canonical
+                // provision (it becomes TemporalEvidence, which has no
+                // amendment_marks field), so no marker can ever attach
+                // here — surface one immediately rather than losing it.
+                pending_marks.discard("a per-resolution TRANSITORIOS section")?;
                 let Some(resolved) = *date else {
                     // Reading the parenthesized attribution block; its
                     // final line carries the resolution's DOF date.
@@ -300,9 +318,12 @@ fn parse_main_text(
                 }
             }
             // Appended per-reform CONSIDERANDO blocks carry no canonical
-            // content; the shared REFERENCIAS transition above exits them.
-            Region::TrailingConsiderandos => {}
+            // content and cannot receive a marker either.
+            Region::TrailingConsiderandos => {
+                pending_marks.discard("a CONSIDERANDO section")?;
+            }
             Region::Legend => {
+                pending_marks.discard("the REFERENCIAS legend")?;
                 if let Some(captures) = legend_entry_re.captures(trimmed) {
                     flush_legend(&mut legend_current, &mut amendment_references);
                     let marker: u32 = captures[1].parse().expect("two-digit marker");
@@ -335,15 +356,13 @@ fn flush_reform(
     evidence: &mut Vec<TemporalEvidence>,
 ) {
     if let Some(reform) = current.take() {
-        let date = reform.date.format("%Y-%m-%d");
-        evidence.push(TemporalEvidence {
-            provision_id: format!(
-                "{instrument_id}:amendment:{date}:transitory:{}",
-                slug(&reform.ordinal)
-            ),
-            label: format!("Transitorio {} — Resolución DOF {date}", reform.ordinal),
-            text: reform.lines.join(" "),
-        });
+        evidence.push(reform_evidence_item(
+            instrument_id,
+            reform.date,
+            &reform.ordinal,
+            "Resolución",
+            reform.lines.join(" "),
+        ));
     }
 }
 
@@ -524,5 +543,81 @@ mod tests {
         assert_eq!(annex_fourteen.amendment_marks, vec![2]);
         assert_eq!(annex_fourteen.label, "ANEXO 14");
         assert!(!annex_fourteen.text.contains("(2)"));
+    }
+
+    #[test]
+    fn a_marker_inside_a_reform_transitory_is_reported_not_silently_dropped() {
+        // A per-resolution transitory becomes TemporalEvidence, which has
+        // no amendment_marks field, so a marker appearing inside one can
+        // never be attached anywhere — it must surface as an error.
+        let raw = "TRANSITORIOS\n\
+                   TRANSITORIOS\n\
+                   (Resolución publicada el 25 de marzo de 2019)\n\
+                   ÚNICO.- Entra en vigor.\n\
+                   (6)\n\n\
+                   Segunda línea con marca pendiente.\n";
+        let error = parse_itf_dcg(
+            raw,
+            &[],
+            ITF_ID,
+            NaiveDate::from_ymd_opt(2018, 9, 10).unwrap(),
+        )
+        .unwrap_err();
+        assert!(error.to_string().contains('6'));
+    }
+
+    #[test]
+    fn a_marker_inside_a_considerando_section_is_reported_not_silently_dropped() {
+        let raw = "TRANSITORIOS\n\
+                   PRIMERO.- Entra en vigor.\n\
+                   CONSIDERANDO\n\
+                   Que se reforma lo conducente.\n\
+                   (6)\n\n\
+                   Segunda línea con marca pendiente.\n\
+                   REFERENCIAS\n\
+                   1)    Reformado.\n";
+        let error = parse_itf_dcg(
+            raw,
+            &[],
+            ITF_ID,
+            NaiveDate::from_ymd_opt(2018, 9, 10).unwrap(),
+        )
+        .unwrap_err();
+        assert!(error.to_string().contains('6'));
+    }
+
+    #[test]
+    fn a_marker_orphaned_by_a_structural_heading_is_discarded_silently() {
+        // The real document repeals an entire Apartado with no article of
+        // its own — heading text followed directly by a lone "(Derogado)"
+        // note, each preceded by the resolution's marker. Neither marker
+        // has a provision to attach to (the heading itself flushes and
+        // clears any article that was open before it, and HeadingContext
+        // has no field to receive one), but that fact is always redundant
+        // with the same marker already recorded directly on the
+        // individual derogated articles it summarizes — so this must
+        // parse successfully rather than erroring.
+        let raw = "TÍTULO PRIMERO\n\
+                   Artículo 25.- Texto vigente.\n\
+                   Apartado D\n\
+                   (9)\n\
+                   (Derogado)\n\n\
+                   TRANSITORIOS\n\
+                   PRIMERO.- Entra en vigor.\n\
+                   REFERENCIAS\n\
+                   9)    Derogado por resolución.\n";
+        let document = parse_itf_dcg(
+            raw,
+            &[],
+            ITF_ID,
+            NaiveDate::from_ymd_opt(2018, 9, 10).unwrap(),
+        )
+        .unwrap();
+        let article_25 = document
+            .provisions
+            .iter()
+            .find(|item| item.id.ends_with(":article:25"))
+            .unwrap();
+        assert!(article_25.amendment_marks.is_empty());
     }
 }

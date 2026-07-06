@@ -6,16 +6,16 @@
   "publisher": "Comisión Nacional Bancaria y de Valores",
   "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf",
   "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-  "retrieved_at": "2026-07-05T09:12:10.969218Z",
+  "retrieved_at": "2026-07-06T00:35:31.156606Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "content_length": 552258,
   "etag": "\"{64EF23D9-3340-42F8-BBDA-88C51020CB41},21\"",
   "last_modified": "Wed, 27 May 2026 22:21:15 GMT",
   "source_sha256": "b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a",
-  "extracted_text_sha256": "e3c6c154265c01270ea845e60966759f62b5e603494acf53674b719f917daa54",
+  "extracted_text_sha256": "06adb060200e4ce7942694891792f5f8f5947b0ae5a402292c4688b57354644a",
   "extraction_tool": "pdftotext version 26.06.0",
   "parser_version": "0.1.0",
   "schema_version_used": "0.1.0",
-  "resulting_git_commit": "988f98c8845b8947855ae9adbf581d17790cfbd0"
+  "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
 }

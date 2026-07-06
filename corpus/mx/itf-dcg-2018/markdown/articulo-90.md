@@ -35,4 +35,6 @@ VII. En su caso, garantías.
 
 VIII. Calificación de riesgo determinada de acuerdo con la metodología de evaluación de riesgos definida por la institución de financiamiento colectivo, acompañado de una explicación simple de la forma de interpretarla.
 
-IX. Los esquemas para compartir con los [Inversionistas](articulo-2.md) los riesgos de las Operaciones de financiamiento colectivo. X. Datos relativos al [Solicitante](articulo-2.md) que resulten importantes para la toma de decisiones de los posibles Inversionistas, tales como su edad, sexo, ocupación, residencia y fuentes de ingresos.
+IX. Los esquemas para compartir con los [Inversionistas](articulo-2.md) los riesgos de las Operaciones de financiamiento colectivo.
+
+X. Datos relativos al [Solicitante](articulo-2.md) que resulten importantes para la toma de decisiones de los posibles Inversionistas, tales como su edad, sexo, ocupación, residencia y fuentes de ingresos.

@@ -17,7 +17,7 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 # Artículo 2
 
-En adición a las definiciones contenidas en la Ley, para efectos de las presentes disposiciones se entenderá, en singular o plural, por:
+En adición a las definiciones contenidas en la [Ley](articulo-2.md), para efectos de las presentes disposiciones se entenderá, en singular o plural, por:
 
 I. Autenticación, al conjunto de técnicas y procedimientos utilizados para verificar la identidad de un [Cliente](../../lritf/markdown/articulo-4.md) y su facultad para realizar operaciones a través del [Medio Electrónico](articulo-2.md) de que se trate o de un Usuario de [Infraestructura Tecnológica](../../lritf/markdown/articulo-4.md) para acceder, utilizar u operar algún componente de la Infraestructura Tecnológica.
 
@@ -39,7 +39,9 @@ IX. Cuentas Destino, a las cuentas receptoras de recursos dinerarios que los Cli
 
 X. Desbloqueo, al proceso mediante el cual la institución de financiamiento colectivo habilita el uso de un Factor de Autenticación o Identificador de Cliente que se encontraba bloqueado.
 
-XI. Dispositivo de Acceso, al equipo que permite a un Cliente acceder al Medio Electrónico que corresponda de la institución de financiamiento colectivo. XII. Evento de Seguridad de la Información, a cualquier suceso, interno o externo, relacionado con Clientes, terceros contratados por la propia institución de financiamiento colectivo, personas y procesos operativos, así como con componentes de la Infraestructura Tecnológica, dispositivos, medios físicos u otros elementos que almacenen información, entre otros, que pueda suponer una afectación en la confidencialidad, integridad o disponibilidad de la información que dicha institución gestione o conozca o, en la propia Infraestructura Tecnológica.
+XI. Dispositivo de Acceso, al equipo que permite a un Cliente acceder al Medio Electrónico que corresponda de la institución de financiamiento colectivo.
+
+XII. Evento de Seguridad de la Información, a cualquier suceso, interno o externo, relacionado con Clientes, terceros contratados por la propia institución de financiamiento colectivo, personas y procesos operativos, así como con componentes de la Infraestructura Tecnológica, dispositivos, medios físicos u otros elementos que almacenen información, entre otros, que pueda suponer una afectación en la confidencialidad, integridad o disponibilidad de la información que dicha institución gestione o conozca o, en la propia Infraestructura Tecnológica.
 
 XIII. Factor de [Autenticación](articulo-2.md), al mecanismo de Autenticación basado en las características físicas del Cliente, dispositivos o información que solo el Cliente posea o conozca.
 
@@ -63,7 +65,7 @@ XIX. Fondo de Capital Privado, al vehículo de inversión, fideicomiso, mandato,
 
 XX. Identificador de Cliente, a la cadena de caracteres alfanuméricos o especiales, información de un dispositivo o cualquier otra información que conozca tanto la institución de financiamiento colectivo como el Cliente, que permita identificar al propio Cliente en el Medio Electrónico de la institución de financiamiento colectivo.
 
-XXI. Incidente de Seguridad de la Información, al Evento de Seguridad de la Información en la institución de financiamiento colectivo cuando actualice alguno de los siguientes supuestos:
+XXI. Incidente de Seguridad de la Información, al [Evento de Seguridad de la Información](articulo-2.md) en la institución de financiamiento colectivo cuando actualice alguno de los siguientes supuestos:
 
 a) Haya comprometido la confidencialidad, integridad o disponibilidad de un componente o la totalidad de la Infraestructura Tecnológica con un efecto adverso para la institución de financiamiento colectivo, sus Clientes, terceros, proveedores o contrapartes, entre otros.
 
@@ -87,7 +89,9 @@ c) Dependencias y entidades de la Administración Pública Federal.
 
 d) Personas que manifiesten encontrarse en el supuesto señalado en el Anexo 9 de las presentes disposiciones
 
-XXV. Inversionista Relacionado, aquel que manifieste ante las instituciones de financiamiento colectivo tener parentesco con el Solicitante por consanguinidad, afinidad o civil hasta el cuarto grado o ser su cónyuge, concubino o concubinaria. XXVI. Ley, a la Ley para Regular las Instituciones de Tecnología Financiera.
+XXV. Inversionista Relacionado, aquel que manifieste ante las instituciones de financiamiento colectivo tener parentesco con el Solicitante por consanguinidad, afinidad o civil hasta el cuarto grado o ser su cónyuge, concubino o concubinaria.
+
+XXVI. Ley, a la Ley para Regular las Instituciones de Tecnología Financiera.
 
 XXVII. Medios Electrónicos, a los equipos, medios ópticos o de cualquier otra tecnología, sistemas automatizados de procesamiento de datos y redes de telecomunicaciones, ya sean públicos o privados, incluyendo la [Plataforma](articulo-2.md), que las instituciones de financiamiento colectivo utilizan para prestar sus servicios.
 
@@ -115,4 +119,6 @@ XXXVI. SITI, al Sistema Interinstitucional de Transferencia de Información, el 
 
 XXXVII. Solicitante, a la persona física o moral que hubiere requerido recursos o activos virtuales a los Inversionistas, a través de instituciones de financiamiento colectivo.
 
-XXXVIII. UDI, a las unidades de cuenta llamadas “Unidades de Inversión” establecidas en el “Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adiciona diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta”, publicado en el Diario Oficial de la Federación el 1 de abril de 1995, tal como ese sea modificado o adicionado de tiempo en tiempo. XXXIX. Usuario de la Infraestructura Tecnológica, a la persona, Cliente o componente físico o lógico que acceda, utilice u opere algún componente de la Infraestructura Tecnológica de las instituciones de financiamiento colectivo.”
+XXXVIII. UDI, a las unidades de cuenta llamadas “Unidades de Inversión” establecidas en el “Decreto por el que se establecen las obligaciones que podrán denominarse en Unidades de Inversión y reforma y adiciona diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto sobre la Renta”, publicado en el Diario Oficial de la Federación el 1 de abril de 1995, tal como ese sea modificado o adicionado de tiempo en tiempo.
+
+XXXIX. Usuario de la Infraestructura Tecnológica, a la persona, Cliente o componente físico o lógico que acceda, utilice u opere algún componente de la Infraestructura Tecnológica de las instituciones de financiamiento colectivo.”

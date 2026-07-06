@@ -17,7 +17,7 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 # Artículo 51
 
-Las instituciones de financiamiento colectivo podrán solicitar autorización a la [CNBV](../../lritf/markdown/articulo-4.md) para obtener préstamos y créditos a que se refiere el artículo 19, fracción IV de la Ley con el fin de destinar los recursos obtenidos a los esquemas que permitan compartir con los [Inversionistas](articulo-2.md) los riesgos de los proyectos previstos en la Ley, indicando en su solicitud lo siguiente:
+Las instituciones de financiamiento colectivo podrán solicitar autorización a la [CNBV](../../lritf/markdown/articulo-4.md) para obtener préstamos y créditos a que se refiere el artículo 19, fracción IV de la [Ley](articulo-2.md) con el fin de destinar los recursos obtenidos a los esquemas que permitan compartir con los [Inversionistas](articulo-2.md) los riesgos de los proyectos previstos en la Ley, indicando en su solicitud lo siguiente:
 
 I. El monto máximo de financiamiento que obtendrán a través de los préstamos y créditos que pretendan contratar, así como las características generales de estos, señalando, en su caso, los plazos de las estructuras financieras a utilizar.
 

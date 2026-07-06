@@ -23,7 +23,9 @@ I. Nombre, denominación o razón social del prestador de servicios.
 
 II. Nombre del representante legal del prestador de servicios.
 
-III. Descripción del servicio contratado con el tercero, incluyendo los datos o información que, en su caso, son almacenados, procesados o transmitidos por este. IV. En su caso, información de los sistemas que soportan el servicio contratado con el tercero, que incluya al menos el nombre, versión y función o propósito.
+III. Descripción del servicio contratado con el tercero, incluyendo los datos o información que, en su caso, son almacenados, procesados o transmitidos por este.
+
+IV. En su caso, información de los sistemas que soportan el servicio contratado con el tercero, que incluya al menos el nombre, versión y función o propósito.
 
 V. En su caso, interfaces con otros sistemas y el propósito de estas, incluyendo el detalle de la información que intercambia.
 

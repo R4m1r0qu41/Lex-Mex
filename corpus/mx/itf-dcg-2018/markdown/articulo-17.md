@@ -19,7 +19,7 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 Para efectos del presente capítulo, se entenderá por:
 
-I. Activos Virtuales, a los considerados como tales en términos del artículo 30 de la Ley.
+I. Activos Virtuales, a los considerados como tales en términos del artículo 30 de la [Ley](articulo-2.md).
 
 II. Datos de Entrada, a la información que la [ITF](../../lritf/markdown/articulo-4.md) utilice para fijar el precio de los [Valores](../../lritf/markdown/articulo-4.md) y demás instrumentos financieros, así como Activos Virtuales.
 

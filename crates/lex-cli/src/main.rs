@@ -445,7 +445,10 @@ fn run_fetch(context: &InstrumentContext) -> Result<()> {
 
 fn run_extract(context: &InstrumentContext) -> Result<()> {
     let paths = &context.paths;
-    let keep_page_breaks = context.config.parser == "ifpe-dcg";
+    // Both DCG parsers rely on page-break markers for deterministic
+    // paragraph merging across a page boundary; LRITF's parser never
+    // reads them at all.
+    let keep_page_breaks = matches!(context.config.parser.as_str(), "ifpe-dcg" | "itf-dcg");
     let extraction = extract_pdf(&paths.pdf, &paths.text, keep_page_breaks)?;
     let mut manifest: SourceManifest = read_json(&paths.manifest)?;
     manifest.extracted_text_sha256 = Some(sha256_hex(extraction.text.as_bytes()));
@@ -672,7 +675,12 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         corpus.terms.len(),
         corpus.term_usages.len()
     );
-    if !reform_evidence.is_empty() {
+    // Written unconditionally (even as an empty array) for every parser
+    // that has a reform-evidence concept at all, so the file always
+    // reflects the current parse rather than silently going stale if a
+    // future reparse ever finds zero reform transitories where a prior
+    // parse found some.
+    if matches!(config.parser.as_str(), "lritf" | "itf-dcg") {
         write_pretty_json(&reform_evidence, &paths.reform_evidence)?;
         println!(
             "isolated {} reform transitories for temporal analysis",

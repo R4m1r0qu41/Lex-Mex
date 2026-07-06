@@ -43,9 +43,11 @@ a) La situación financiera, liquidez y recursos de capital, proporcionando la i
 
 5. Las inversiones relevantes en capital que se tenían comprometidas al final del último ejercicio, así como el detalle asociado a dichas inversiones y la fuente de financiamiento necesaria para llevarlas a cabo.
 
-b) Tratándose de instituciones de financiamiento colectivo, el comportamiento reciente de los conceptos relativos a cuentas de orden, señalando los principales cambios ocurridos en las operaciones por cuentas de clientes, así como el detalle asociado a los depósitos de solicitantes y de inversionistas. c) La descripción del sistema de control interno de la ITF en forma breve.
+b) Tratándose de instituciones de financiamiento colectivo, el comportamiento reciente de los conceptos relativos a cuentas de orden, señalando los principales cambios ocurridos en las operaciones por cuentas de clientes, así como el detalle asociado a los depósitos de solicitantes y de inversionistas.
 
-II. De ser el caso, la integración del consejo de administración identificando a los consejeros independientes y a los no independientes en los términos del artículo 59 de la Ley, así como aquellos que ostentan su carácter de propietario o suplente. Asimismo, deberá incluirse el perfil profesional y experiencia laboral de cada uno de los miembros que integran dicho consejo.
+c) La descripción del sistema de control interno de la ITF en forma breve.
+
+II. De ser el caso, la integración del consejo de administración identificando a los consejeros independientes y a los no independientes en los términos del artículo 59 de la [Ley](articulo-2.md), así como aquellos que ostentan su carácter de propietario o suplente. Asimismo, deberá incluirse el perfil profesional y experiencia laboral de cada uno de los miembros que integran dicho consejo.
 
 III. El monto total que representan en conjunto las compensaciones y prestaciones de cualquier tipo, que percibieron de la ITF durante el último ejercicio, las personas que integran el [Órgano de Administración](articulo-2.md), el director general en su caso, y los principales funcionarios.
 

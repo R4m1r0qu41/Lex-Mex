@@ -19,7 +19,9 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 Las instituciones de financiamiento colectivo que realicen [Operaciones](../../lritf/markdown/articulo-4.md) de [Financiamiento Colectivo de Copropiedad o Regalías](articulo-2.md), deberán revelar, para cada proyecto que promuevan en su [Plataforma](articulo-2.md), la siguiente información:
 
-I. Monto del financiamiento solicitado. II. [Plazo de Solicitud de Financiamiento Colectivo](articulo-2.md).
+I. Monto del financiamiento solicitado.
+
+II. [Plazo de Solicitud de Financiamiento Colectivo](articulo-2.md).
 
 III. Descripción del destino del financiamiento incluyendo, en su caso, una descripción del estado o situación financiera actual del proyecto a financiar, así como un modelo o plan de negocios o de inversión de los recursos y la forma de alcanzar los objetivos planteados, así como los indicadores sobre los que se medirán los avances del proyecto o el logro de resultados.
 

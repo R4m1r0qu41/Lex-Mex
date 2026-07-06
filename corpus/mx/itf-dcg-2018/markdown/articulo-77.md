@@ -17,7 +17,9 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 # Artículo 77
 
-Las instituciones de financiamiento colectivo que ofrezcan servicios a sus [Clientes](../../lritf/markdown/articulo-4.md) a través de centros de atención telefónica, canales electrónicos de mensajería o por agentes automatizados, podrán realizar la identificación de sus Clientes y verificar su identidad mediante cuestionarios, en cuyo caso deberán observar lo siguiente: I. Deberán requerir datos que el Cliente conozca y que las instituciones de financiamiento colectivo puedan validar, manteniendo la debida confidencialidad de dicha información.
+Las instituciones de financiamiento colectivo que ofrezcan servicios a sus [Clientes](../../lritf/markdown/articulo-4.md) a través de centros de atención telefónica, canales electrónicos de mensajería o por agentes automatizados, podrán realizar la identificación de sus Clientes y verificar su identidad mediante cuestionarios, en cuyo caso deberán observar lo siguiente:
+
+I. Deberán requerir datos que el Cliente conozca y que las instituciones de financiamiento colectivo puedan validar, manteniendo la debida confidencialidad de dicha información.
 
 II. Contar con procedimientos para practicar cuestionarios aleatorios de forma automatizada o vía remota por los operadores, en este último caso, impidiendo que sean utilizados de forma discrecional.
 

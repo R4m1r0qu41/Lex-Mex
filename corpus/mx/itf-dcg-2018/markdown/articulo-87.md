@@ -17,7 +17,9 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 # Artículo 87
 
-Las instituciones de financiamiento colectivo para la contratación de servicios con terceros que sean objeto de autorización por la [CNBV](../../lritf/markdown/articulo-4.md) en términos de estas disposiciones, así como aquellos relacionados con procesos operativos y con administración de bases de datos y sistemas informáticos, deberán dar cumplimiento a lo siguiente: I. Tratándose de terceros que proporcionen servicios relacionados con procesos operativos y con administración de bases de datos y sistemas informáticos, pactar lo señalado en la fracción II del artículo [86](articulo-86.md) y conservar el contrato respectivo.
+Las instituciones de financiamiento colectivo para la contratación de servicios con terceros que sean objeto de autorización por la [CNBV](../../lritf/markdown/articulo-4.md) en términos de estas disposiciones, así como aquellos relacionados con procesos operativos y con administración de bases de datos y sistemas informáticos, deberán dar cumplimiento a lo siguiente:
+
+I. Tratándose de terceros que proporcionen servicios relacionados con procesos operativos y con administración de bases de datos y sistemas informáticos, pactar lo señalado en la fracción II del artículo [86](articulo-86.md) y conservar el contrato respectivo.
 
 II. Realizar, al menos anualmente, auditorías internas o externas sobre el servicio contratado o contar con evidencia de que el tercero contratado las lleva a cabo.
 

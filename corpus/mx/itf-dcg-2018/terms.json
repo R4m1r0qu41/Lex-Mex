@@ -117,7 +117,18 @@
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XI",
     "start_char": 2812,
-    "end_char": 3518,
+    "end_char": 2965,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:evento-de-seguridad-de-la-informacion",
+    "term": "Evento de Seguridad de la Información",
+    "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
+    "fraction": "XII",
+    "start_char": 2967,
+    "end_char": 3519,
     "basis": "express_definition"
   },
   {
@@ -127,8 +138,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XIII",
-    "start_char": 3520,
-    "end_char": 3695,
+    "start_char": 3521,
+    "end_char": 3696,
     "basis": "express_definition"
   },
   {
@@ -138,8 +149,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XIV",
-    "start_char": 3697,
-    "end_char": 3923,
+    "start_char": 3698,
+    "end_char": 3924,
     "basis": "express_definition"
   },
   {
@@ -149,8 +160,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XV",
-    "start_char": 3925,
-    "end_char": 4414,
+    "start_char": 3926,
+    "end_char": 4415,
     "basis": "express_definition"
   },
   {
@@ -160,8 +171,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XVI",
-    "start_char": 4416,
-    "end_char": 5823,
+    "start_char": 4417,
+    "end_char": 5824,
     "basis": "express_definition"
   },
   {
@@ -171,8 +182,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XVII",
-    "start_char": 5825,
-    "end_char": 6214,
+    "start_char": 5826,
+    "end_char": 6215,
     "basis": "express_definition"
   },
   {
@@ -182,8 +193,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XVIII",
-    "start_char": 6216,
-    "end_char": 6646,
+    "start_char": 6217,
+    "end_char": 6647,
     "basis": "express_definition"
   },
   {
@@ -193,8 +204,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XIX",
-    "start_char": 6648,
-    "end_char": 6979,
+    "start_char": 6649,
+    "end_char": 6980,
     "basis": "express_definition"
   },
   {
@@ -204,8 +215,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XX",
-    "start_char": 6981,
-    "end_char": 7314,
+    "start_char": 6982,
+    "end_char": 7315,
     "basis": "express_definition"
   },
   {
@@ -215,8 +226,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXI",
-    "start_char": 7316,
-    "end_char": 8475,
+    "start_char": 7317,
+    "end_char": 8476,
     "basis": "express_definition"
   },
   {
@@ -226,8 +237,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXII",
-    "start_char": 8477,
-    "end_char": 8839,
+    "start_char": 8478,
+    "end_char": 8840,
     "basis": "express_definition"
   },
   {
@@ -237,8 +248,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXIII",
-    "start_char": 8841,
-    "end_char": 9013,
+    "start_char": 8842,
+    "end_char": 9014,
     "basis": "express_definition"
   },
   {
@@ -248,8 +259,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXIV",
-    "start_char": 9015,
-    "end_char": 9713,
+    "start_char": 9016,
+    "end_char": 9714,
     "basis": "express_definition"
   },
   {
@@ -259,8 +270,19 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXV",
-    "start_char": 9715,
-    "end_char": 10034,
+    "start_char": 9716,
+    "end_char": 9958,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
+    "fraction": "XXVI",
+    "start_char": 9960,
+    "end_char": 10036,
     "basis": "express_definition"
   },
   {
@@ -270,8 +292,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXVII",
-    "start_char": 10036,
-    "end_char": 10347,
+    "start_char": 10038,
+    "end_char": 10349,
     "basis": "express_definition"
   },
   {
@@ -281,8 +303,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXVIII",
-    "start_char": 10349,
-    "end_char": 10555,
+    "start_char": 10351,
+    "end_char": 10557,
     "basis": "express_definition"
   },
   {
@@ -292,8 +314,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXIX",
-    "start_char": 10557,
-    "end_char": 10654,
+    "start_char": 10559,
+    "end_char": 10656,
     "basis": "express_definition"
   },
   {
@@ -303,8 +325,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXX",
-    "start_char": 10656,
-    "end_char": 11078,
+    "start_char": 10658,
+    "end_char": 11080,
     "basis": "express_definition"
   },
   {
@@ -314,8 +336,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXXI",
-    "start_char": 11080,
-    "end_char": 11432,
+    "start_char": 11082,
+    "end_char": 11434,
     "basis": "express_definition"
   },
   {
@@ -325,8 +347,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXXII",
-    "start_char": 11434,
-    "end_char": 11667,
+    "start_char": 11436,
+    "end_char": 11669,
     "basis": "express_definition"
   },
   {
@@ -336,8 +358,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXXIII",
-    "start_char": 11669,
-    "end_char": 11972,
+    "start_char": 11671,
+    "end_char": 11974,
     "basis": "express_definition"
   },
   {
@@ -347,8 +369,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXXIV",
-    "start_char": 11974,
-    "end_char": 12467,
+    "start_char": 11976,
+    "end_char": 12469,
     "basis": "express_definition"
   },
   {
@@ -358,8 +380,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXXV",
-    "start_char": 12469,
-    "end_char": 12640,
+    "start_char": 12471,
+    "end_char": 12642,
     "basis": "express_definition"
   },
   {
@@ -369,8 +391,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXXVI",
-    "start_char": 12642,
-    "end_char": 12775,
+    "start_char": 12644,
+    "end_char": 12777,
     "basis": "express_definition"
   },
   {
@@ -380,8 +402,8 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXXVII",
-    "start_char": 12777,
-    "end_char": 12953,
+    "start_char": 12779,
+    "end_char": 12955,
     "basis": "express_definition"
   },
   {
@@ -391,8 +413,19 @@
     "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
     "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
     "fraction": "XXXVIII",
-    "start_char": 12955,
-    "end_char": 13629,
+    "start_char": 12957,
+    "end_char": 13400,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:usuario-de-la-infraestructura-tecnologica",
+    "term": "Usuario de la Infraestructura Tecnológica",
+    "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:2",
+    "fraction": "XXXIX",
+    "start_char": 13402,
+    "end_char": 13632,
     "basis": "express_definition"
   }
 ]

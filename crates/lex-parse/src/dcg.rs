@@ -178,6 +178,81 @@ pub(crate) fn amendment_marker_regex() -> Result<Regex> {
     Ok(Regex::new(r"^\((\d{1,2})\)$")?)
 }
 
+/// Amendment-marker bookkeeping shared by every compiled-CNBV-document
+/// parser (this module's own `parse_annex_document`, and `crate::itf`'s
+/// main-document scanner). A margin marker prints as a standalone `(N)`
+/// line at the vertical position of the text it annotates, so it can
+/// arrive before a heading, before a body line, or between body lines;
+/// callers hold it here until the next content line resolves where it
+/// belongs, or until a context boundary makes clear it belongs nowhere.
+#[derive(Default)]
+pub(crate) struct PendingMarks {
+    marks: Vec<u32>,
+    /// True immediately after a marker line, so the very next blank line
+    /// is recognized as the marker's own line spacing rather than a
+    /// paragraph break. Any other line — including a page-number
+    /// footer — clears this before it can leak across an intervening
+    /// line to a blank line the marker was never adjacent to.
+    swallow_next_blank: bool,
+}
+
+impl PendingMarks {
+    /// Record a marker line.
+    pub(crate) fn push(&mut self, marker: u32) {
+        self.marks.push(marker);
+        self.swallow_next_blank = true;
+    }
+
+    /// Whether a blank line right now is the marker's own spacing. Consumes
+    /// the flag: only the one blank immediately after a marker is
+    /// swallowed.
+    pub(crate) fn take_swallow_next_blank(&mut self) -> bool {
+        std::mem::take(&mut self.swallow_next_blank)
+    }
+
+    /// Any other non-blank, non-marker line severs the marker/blank
+    /// adjacency the swallow behavior depends on.
+    pub(crate) fn observe_content_line(&mut self) {
+        self.swallow_next_blank = false;
+    }
+
+    /// Attach every pending marker onto `builder`.
+    pub(crate) fn drain_onto(&mut self, builder: &mut DcgProvisionBuilder) {
+        for marker in self.marks.drain(..) {
+            builder.mark(marker);
+        }
+    }
+
+    /// Discard pending markers at a context boundary with no provision to
+    /// receive them (an attribution block, a per-resolution transitory, a
+    /// considerando, or the legend). Errors instead of silently losing
+    /// provenance if a marker actually reached this boundary — that would
+    /// mean a real document exercises a case this parser does not yet
+    /// attribute correctly, which needs a human look rather than a silent
+    /// drop.
+    pub(crate) fn discard(&mut self, context: &str) -> Result<()> {
+        if self.marks.is_empty() {
+            return Ok(());
+        }
+        bail!(
+            "amendment marker(s) {:?} appear where no provision can receive them ({context})",
+            std::mem::take(&mut self.marks)
+        );
+    }
+
+    /// Discard pending markers at a structural heading (título, capítulo,
+    /// sección, apartado). Unlike [`Self::discard`], this never errors: a
+    /// compiled document can legitimately mark an entire heading as
+    /// repealed (for example `Apartado D` followed by a lone
+    /// `(Derogado)`), and `HeadingContext` has no field to receive a mark
+    /// even if it wanted to — but that fact is always redundant with the
+    /// same marker already recorded directly on each provision the
+    /// heading covers, so nothing is lost by discarding it here.
+    pub(crate) fn discard_from_heading(&mut self) {
+        self.marks.clear();
+    }
+}
+
 fn new_transitory_regex() -> Result<Regex> {
     Ok(Regex::new(&format!(
         r"^({})\.-\s*(.*)$",
@@ -217,8 +292,7 @@ pub(crate) fn parse_annex_document(
     let mut builder: Option<DcgProvisionBuilder> = None;
     let mut pending_blank = false;
     let mut crossed_page_break = false;
-    let mut pending_marks: Vec<u32> = Vec::new();
-    let mut swallow_blank = false;
+    let mut pending_marks = PendingMarks::default();
 
     for source_line in raw.lines() {
         if source_line.starts_with('\u{c}') {
@@ -229,26 +303,24 @@ pub(crate) fn parse_annex_document(
         if trimmed.is_empty() {
             // A blank immediately following a margin marker is part of the
             // marker's own line box, not a paragraph boundary.
-            if swallow_blank {
-                swallow_blank = false;
-            } else {
+            if !pending_marks.take_swallow_next_blank() {
                 pending_blank = true;
             }
             continue;
         }
+        // A page-number footer is invisible to paragraph flow, but it is
+        // still a distinct line: it must not let a marker's "swallow the
+        // next blank" carry across it to a blank line the marker was
+        // never actually adjacent to.
         if page_number_re.is_match(trimmed) {
+            pending_marks.observe_content_line();
             continue;
         }
         if let Some(captures) = marker_re.captures(trimmed) {
-            let marker: u32 = captures[1].parse().expect("two-digit marker");
-            match &mut builder {
-                Some(open) => open.mark(marker),
-                None => pending_marks.push(marker),
-            }
-            swallow_blank = true;
+            pending_marks.push(captures[1].parse().expect("two-digit marker"));
             continue;
         }
-        swallow_blank = false;
+        pending_marks.observe_content_line();
         if builder.is_none() {
             let captures = heading_re.captures(trimmed).with_context(|| {
                 format!("annex {expected_number} does not start with an ANEXO heading")
@@ -274,20 +346,20 @@ pub(crate) fn parse_annex_document(
             if let Some(inline) = captures.get(2) {
                 annex.mark(inline.as_str().parse().expect("two-digit marker"));
             }
-            for marker in pending_marks.drain(..) {
-                annex.mark(marker);
-            }
+            pending_marks.drain_onto(&mut annex);
             builder = Some(annex);
             (pending_blank, crossed_page_break) = (false, false);
             continue;
         }
         if let Some(b) = &mut builder {
+            pending_marks.drain_onto(b);
             b.push_line(line, pending_blank, crossed_page_break);
         }
         (pending_blank, crossed_page_break) = (false, false);
     }
     let builder =
         builder.with_context(|| format!("annex {expected_number} has no recognizable heading"))?;
+    pending_marks.discard("the end of the annex document")?;
     Ok(builder.finish(publication_date))
 }
 
@@ -826,5 +898,42 @@ mod tests {
         )
         .unwrap_err();
         assert!(error.to_string().contains("expected annex 2"));
+    }
+
+    #[test]
+    fn keeps_a_paragraph_break_after_a_marker_followed_by_a_page_footer() {
+        // A page-number footer between a margin marker and the following
+        // genuine blank line must not let the marker's "swallow the next
+        // blank" reach across it: the footer is a distinct line, so the
+        // blank after it is a real paragraph boundary, not the marker's
+        // own line spacing.
+        let raw = "ANEXO 99\nPrimer parrafo texto.\n(3)\n42\n\nSegundo parrafo texto.\n";
+        let provision = super::parse_annex_document(
+            raw,
+            99,
+            INSTRUMENT_ID,
+            NaiveDate::from_ymd_opt(2021, 1, 28).unwrap(),
+        )
+        .unwrap();
+        assert_eq!(
+            provision.text,
+            "Primer parrafo texto.\n\nSegundo parrafo texto."
+        );
+        assert_eq!(provision.amendment_marks, vec![3]);
+    }
+
+    #[test]
+    fn a_marker_with_no_following_content_is_reported_not_silently_dropped() {
+        // A marker as the very last line of an annex has no content line
+        // left to attach to; this must surface as an error, not vanish.
+        let raw = "ANEXO 99\nTexto final.\n(4)\n";
+        let error = super::parse_annex_document(
+            raw,
+            99,
+            INSTRUMENT_ID,
+            NaiveDate::from_ymd_opt(2021, 1, 28).unwrap(),
+        )
+        .unwrap_err();
+        assert!(error.to_string().contains('4'));
     }
 }

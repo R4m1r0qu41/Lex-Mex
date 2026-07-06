@@ -19,7 +19,7 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 Las instituciones de financiamiento colectivo que realicen [Operaciones](../../lritf/markdown/articulo-4.md) de [Financiamiento Colectivo de Capital](articulo-2.md) deberán poner a disposición de los [Inversionistas](articulo-2.md) que hayan participado en la Operación de que se trate, al menos, durante los dos años siguientes a que se concretó la Operación, los datos siguientes:
 
-I. La información anual de los administradores de la persona moral financiada a que se refiere el artículo 172 de la Ley General de Sociedades Mercantiles o equivalente.
+I. La información anual de los administradores de la persona moral financiada a que se refiere el artículo 172 de la [Ley](articulo-2.md) General de Sociedades Mercantiles o equivalente.
 
 II. Los riesgos y retos que enfrenta la persona moral financiada.
 

@@ -19,7 +19,9 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 Las instituciones de financiamiento colectivo, en el manejo de Factores de [Autenticación](articulo-2.md), se sujetarán a lo siguiente:
 
-I. Deberán mantener procedimientos que proporcionen seguridad en la información contenida en los dispositivos de Autenticación en su custodia, así como en la distribución, asignación y reposición de dichos Factores de Autenticación a sus [Clientes](../../lritf/markdown/articulo-4.md). II. Tendrán prohibido contar con mecanismos, algoritmos o procedimientos que les permitan conocer, recuperar o descifrar los valores de cualquier información relativa a la Autenticación.
+I. Deberán mantener procedimientos que proporcionen seguridad en la información contenida en los dispositivos de Autenticación en su custodia, así como en la distribución, asignación y reposición de dichos Factores de Autenticación a sus [Clientes](../../lritf/markdown/articulo-4.md).
+
+II. Tendrán prohibido contar con mecanismos, algoritmos o procedimientos que les permitan conocer, recuperar o descifrar los valores de cualquier información relativa a la Autenticación.
 
 III. Tendrán prohibido solicitar a sus Clientes, a través de sus funcionarios, empleados o representantes, la información parcial o completa, de los Factores de Autenticación a que se refiere el artículo [72](articulo-72.md) de las presentes disposiciones.
 

@@ -23,4 +23,6 @@ I. Indicadores del rendimiento anualizado obtenido por participar en el financia
 
 II. Indicadores de pago y de incumplimiento, indicando como mínimo, si el crédito está al corriente en sus pagos de principal e intereses, o en su defecto, cuántos pagos ha incumplido históricamente y el monto total que adeuda al momento de reportar, desglosado por principal y accesorios financieros. Para efectos de lo anterior, se entenderá como incumplimiento a aquel evento que se presenta cuando el pago realizado por el [Solicitante](articulo-2.md) no alcanza a cubrir el pago que se comprometió de acuerdo con la calendarización de pagos programada y convenida al pactar la Operación.
 
-III. En su caso, actualización de los indicadores sobre los que se definió que se medirían los avances del proyecto financiado o el logro de resultados. Las instituciones de financiamiento colectivo deberán actualizar la información a que se refieren las fracciones I y II anteriores de conformidad con la periodicidad de pago definida en cada Operación pactada.
+III. En su caso, actualización de los indicadores sobre los que se definió que se medirían los avances del proyecto financiado o el logro de resultados.
+
+Las instituciones de financiamiento colectivo deberán actualizar la información a que se refieren las fracciones I y II anteriores de conformidad con la periodicidad de pago definida en cada Operación pactada.

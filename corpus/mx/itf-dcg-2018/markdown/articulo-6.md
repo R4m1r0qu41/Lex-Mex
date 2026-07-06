@@ -16,7 +16,7 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 # Artículo 6
 
-El capital mínimo con el que deberán contar las instituciones de financiamiento colectivo que hayan sido autorizadas para realizar solamente un tipo de [Operación](../../lritf/markdown/articulo-4.md) en moneda nacional de las señaladas en las fracciones I a III del artículo 16 de la Ley, será el equivalente en moneda nacional a 500,000 [UDI](articulo-2.md)’s.
+El capital mínimo con el que deberán contar las instituciones de financiamiento colectivo que hayan sido autorizadas para realizar solamente un tipo de [Operación](../../lritf/markdown/articulo-4.md) en moneda nacional de las señaladas en las fracciones I a III del artículo 16 de la [Ley](articulo-2.md), será el equivalente en moneda nacional a 500,000 [UDI](articulo-2.md)’s.
 
 Tratándose de instituciones de fondos de pago electrónico que hayan sido autorizadas para realizar sus Operaciones en moneda nacional y cuya autorización no contemple la realización de operaciones adicionales señaladas en el segundo párrafo del artículo [7](articulo-7.md) de estas disposiciones, el capital mínimo con el que deberán contar será el señalado en el párrafo anterior.
 

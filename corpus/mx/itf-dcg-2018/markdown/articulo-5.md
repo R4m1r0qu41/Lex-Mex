@@ -32,7 +32,7 @@ III. Obtenga la autorización previa de la CNBV cuando una persona o un [Grupo d
 
 a) Aquella a que se refiere la fracción I del artículo [4](articulo-4.md) de estas disposiciones.
 
-b) La relación de los consejeros o administrador único que nombrarían en la ITF de la que pretenden obtener el Control, a la que deberá adjuntarse la información a que se refiere la fracción I del artículo [3](articulo-3.md) de las presentes disposiciones, con el fin de acreditar que dichas personas cumplen con los requisitos que la Ley establece para esos cargos.
+b) La relación de los consejeros o administrador único que nombrarían en la ITF de la que pretenden obtener el Control, a la que deberá adjuntarse la información a que se refiere la fracción I del artículo [3](articulo-3.md) de las presentes disposiciones, con el fin de acreditar que dichas personas cumplen con los requisitos que la [Ley](articulo-2.md) establece para esos cargos.
 
 c) El plan de negocios de la ITF de que se trate, el cual deberá contemplar los aspectos señalados en la fracción II del artículo [3](articulo-3.md) de estas disposiciones.
 

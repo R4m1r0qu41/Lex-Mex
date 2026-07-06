@@ -15,7 +15,7 @@ source_sha256: b398e81fc3a5468652cc71b4c0e1dc49c5fe67cc3866e36b7dccb301f8c3be9a
 
 # SEXTO
 
-Las personas a que se refiere la disposición [OCTAVA Transitoria](../../lritf/markdown/transitorio-octava.md) de la Ley para Regular las Instituciones de Tecnología Financiera, tendrán un plazo de seis meses contados a partir de la obtención de su autorización para actuar como institución de financiamiento colectivo, para modificar los mandatos o comisiones que hayan celebrado con sus [Clientes](../../lritf/markdown/articulo-4.md) con anterioridad a la obtención de dicha autorización, a fin de ajustarlos a las presentes disposiciones.
+Las personas a que se refiere la disposición [OCTAVA Transitoria](../../lritf/markdown/transitorio-octava.md) de la [Ley](articulo-2.md) para Regular las Instituciones de Tecnología Financiera, tendrán un plazo de seis meses contados a partir de la obtención de su autorización para actuar como institución de financiamiento colectivo, para modificar los mandatos o comisiones que hayan celebrado con sus [Clientes](../../lritf/markdown/articulo-4.md) con anterioridad a la obtención de dicha autorización, a fin de ajustarlos a las presentes disposiciones.
 
 ## Efectos transitorios estructurados
 

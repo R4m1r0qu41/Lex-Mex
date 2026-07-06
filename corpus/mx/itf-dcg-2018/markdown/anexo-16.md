@@ -37,7 +37,7 @@ II. Información que deberán revelar respecto de Financiamientos Colectivos de 
 
 1. Con respecto al financiamiento
 
-i) Monto del financiamiento solicitado. ii) Plazo de la Solicitud de Financiamiento Colectivo. iii) Descripción del fin último de los recursos. iv) Calificación de riesgo determinada de acuerdo con la metodología de evaluación de riesgos definida por la institución de financiamiento colectivo, acompañada de una explicación simple de la forma de interpretarla. v) La participación que asuman las instituciones de financiamiento colectivo cuando, en su caso, sean Inversionistas a través de la implementación de esquemas para compartir riesgos a que alude el artículo 21, segundo párrafo de la Ley.
+i) Monto del financiamiento solicitado. ii) Plazo de la Solicitud de Financiamiento Colectivo. iii) Descripción del fin último de los recursos. iv) Calificación de riesgo determinada de acuerdo con la metodología de evaluación de riesgos definida por la institución de financiamiento colectivo, acompañada de una explicación simple de la forma de interpretarla. v) La participación que asuman las instituciones de financiamiento colectivo cuando, en su caso, sean Inversionistas a través de la implementación de esquemas para compartir riesgos a que alude el artículo 21, segundo párrafo de la [Ley](articulo-2.md).
 
 2. Con respecto al [Solicitante](articulo-2.md)
 
