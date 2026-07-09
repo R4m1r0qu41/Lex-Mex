@@ -60,6 +60,28 @@ repository's trust boundaries and expected engineering discipline.
   environment configuration out of Git.
 - Preserve unrelated local changes and avoid destructive Git operations.
 
+## Model Routing
+
+Default model for substantive work: Claude Sonnet 5 (`claude-sonnet-5`),
+effort `medium`. Raise to `high` for parser/canonicalization changes,
+schema-boundary changes, or anything touching review-state transitions.
+
+Haiku (`claude-haiku-4-5-20251001`) is mandatory for purely mechanical work:
+all commits, and all invocations of `cargo fmt --check`,
+`cargo clippy --workspace --all-targets -- -D warnings`, `cargo test --workspace`,
+and `cargo run --locked -p lex-cli -- validate lritf` with pass/fail
+reporting. Writing a new fixture, adding a parser rule, or diagnosing a
+validation failure is judgment work and stays on Sonnet 5 — only running the
+command and reporting the result routes to Haiku.
+
+Escalate to Opus only when Sonnet 5 has failed the same task twice, or the
+task is a genuine legal-temporal-modeling design call (new effect category,
+schema version bump). Start on Sonnet 5; escalate on evidence, not by default.
+Note: this routing rule governs the coding-agent side only — it has no
+bearing on the separate `--provider codex` temporal-analysis path, which is
+a distinct, schema-gated model call inside the pipeline itself, not a
+build-agent task.
+
 ## Required checks
 
 Run these before committing changes that affect code or canonical data:
