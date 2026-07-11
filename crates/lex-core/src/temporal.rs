@@ -1056,6 +1056,7 @@ mod tests {
             label: "Segundo".to_owned(),
             number: "Segundo".to_owned(),
             heading_context: crate::HeadingContext {
+                libro: None,
                 title: None,
                 chapter: None,
                 section: None,
@@ -1172,6 +1173,7 @@ mod tests {
             label: "Segundo".to_owned(),
             number: "Segundo".to_owned(),
             heading_context: crate::HeadingContext {
+                libro: None,
                 title: None,
                 chapter: None,
                 section: None,

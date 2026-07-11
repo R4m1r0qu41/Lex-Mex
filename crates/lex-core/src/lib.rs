@@ -142,6 +142,11 @@ pub struct Instrument {
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
 pub struct HeadingContext {
+    /// The enclosing Libro, verbatim (`LIBRO SEGUNDO`), for códigos that
+    /// use one; absent from every instrument committed before 2026-07-11,
+    /// and omitted from serialization so those corpora stay byte-identical.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub libro: Option<String>,
     pub title: Option<String>,
     pub chapter: Option<String>,
     #[serde(default, skip_serializing_if = "Option::is_none")]

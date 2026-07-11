@@ -930,6 +930,7 @@ mod tests {
             label: "DÉCIMA PRIMERA".to_owned(),
             number: "DÉCIMA PRIMERA".to_owned(),
             heading_context: HeadingContext {
+                libro: None,
                 title: None,
                 chapter: None,
                 section: None,
@@ -977,6 +978,7 @@ mod tests {
             label: format!("Artículo {number}"),
             number: number.to_owned(),
             heading_context: HeadingContext {
+                libro: None,
                 title: None,
                 chapter: None,
                 section: None,

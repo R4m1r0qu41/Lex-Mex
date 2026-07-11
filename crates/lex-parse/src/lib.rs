@@ -19,6 +19,7 @@ use regex::Regex;
 pub mod dcg;
 pub mod html;
 pub mod itf;
+pub mod labels;
 pub mod terms;
 
 pub use dcg::parse_dcg;
@@ -1857,6 +1858,7 @@ impl ProvisionBuilder {
             label: self.label,
             number: self.number,
             heading_context: HeadingContext {
+                libro: None,
                 title: self.title,
                 chapter: self.chapter,
                 section: None,

@@ -412,6 +412,7 @@ mod tests {
             label: suffix.to_owned(),
             number: "1".to_owned(),
             heading_context: HeadingContext {
+                libro: None,
                 title: None,
                 chapter: None,
                 section: None,

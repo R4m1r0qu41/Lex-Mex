@@ -401,6 +401,7 @@ impl DcgProvisionBuilder {
             label: format!("Artículo {number}"),
             number,
             heading_context: HeadingContext {
+                libro: None,
                 title: headings.title.clone(),
                 chapter: headings.chapter.clone(),
                 section: headings.section.clone(),
@@ -423,6 +424,7 @@ impl DcgProvisionBuilder {
             label,
             number,
             heading_context: HeadingContext {
+                libro: None,
                 title: None,
                 chapter: None,
                 section: None,
@@ -443,6 +445,7 @@ impl DcgProvisionBuilder {
             label: ordinal.to_owned(),
             number: ordinal.to_owned(),
             heading_context: HeadingContext {
+                libro: None,
                 title: None,
                 chapter: None,
                 section: None,
