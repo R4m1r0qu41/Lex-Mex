@@ -2,6 +2,7 @@
 id: urn:lex-mx:federal:regulation:itf-dcg-2018:transitory:primero
 instrument_id: urn:lex-mx:federal:regulation:itf-dcg-2018
 instrument: DCG-ITF-2018
+name: "Disposiciones de carácter general aplicables a las instituciones de tecnología financiera"
 provision_type: transitory
 number: "PRIMERO"
 aliases: ["DCG-ITF-2018 — PRIMERO"]

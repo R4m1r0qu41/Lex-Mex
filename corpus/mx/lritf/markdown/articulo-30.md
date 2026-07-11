@@ -2,6 +2,7 @@
 id: urn:lex-mx:federal:statute:lritf:article:30
 instrument_id: urn:lex-mx:federal:statute:lritf
 instrument: LRITF
+name: "Ley para Regular las Instituciones de Tecnología Financiera"
 provision_type: article
 number: "30"
 aliases: ["LRITF — Artículo 30"]

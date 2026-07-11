@@ -2,6 +2,7 @@
 id: urn:lex-mx:federal:statute:lritf:article:122
 instrument_id: urn:lex-mx:federal:statute:lritf
 instrument: LRITF
+name: "Ley para Regular las Instituciones de Tecnología Financiera"
 provision_type: article
 number: "122"
 aliases: ["LRITF — Artículo 122"]

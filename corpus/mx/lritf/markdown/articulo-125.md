@@ -2,6 +2,7 @@
 id: urn:lex-mx:federal:statute:lritf:article:125
 instrument_id: urn:lex-mx:federal:statute:lritf
 instrument: LRITF
+name: "Ley para Regular las Instituciones de Tecnología Financiera"
 provision_type: article
 number: "125"
 aliases: ["LRITF — Artículo 125"]

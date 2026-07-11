@@ -2,6 +2,7 @@
 id: urn:lex-mx:federal:regulation:ifpe-dcg-2021:article:25
 instrument_id: urn:lex-mx:federal:regulation:ifpe-dcg-2021
 instrument: DCG-IFPE-2021
+name: "Disposiciones aplicables a las instituciones de fondos de pago electrónico a que se refieren los artículos 48, segundo párrafo; 54, primer párrafo, y 56, primer y segundo párrafos de la Ley para Regular las Instituciones de Tecnología Financiera"
 provision_type: article
 number: "25"
 aliases: ["DCG-IFPE-2021 — Artículo 25"]

@@ -2,6 +2,7 @@
 id: urn:lex-mx:federal:statute:lritf:transitory:cuarta
 instrument_id: urn:lex-mx:federal:statute:lritf
 instrument: LRITF
+name: "Ley para Regular las Instituciones de Tecnología Financiera"
 provision_type: transitory
 number: "CUARTA"
 aliases: ["LRITF — CUARTA"]

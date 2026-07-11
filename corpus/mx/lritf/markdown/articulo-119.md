@@ -2,6 +2,7 @@
 id: urn:lex-mx:federal:statute:lritf:article:119
 instrument_id: urn:lex-mx:federal:statute:lritf
 instrument: LRITF
+name: "Ley para Regular las Instituciones de Tecnología Financiera"
 provision_type: article
 number: "119"
 aliases: ["LRITF — Artículo 119"]

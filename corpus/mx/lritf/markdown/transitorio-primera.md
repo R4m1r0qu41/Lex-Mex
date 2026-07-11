@@ -2,6 +2,7 @@
 id: urn:lex-mx:federal:statute:lritf:transitory:primera
 instrument_id: urn:lex-mx:federal:statute:lritf
 instrument: LRITF
+name: "Ley para Regular las Instituciones de Tecnología Financiera"
 provision_type: transitory
 number: "PRIMERA"
 aliases: ["LRITF — PRIMERA"]

@@ -2,6 +2,7 @@
 id: urn:lex-mx:federal:statute:lritf:article:56
 instrument_id: urn:lex-mx:federal:statute:lritf
 instrument: LRITF
+name: "Ley para Regular las Instituciones de Tecnología Financiera"
 provision_type: article
 number: "56"
 aliases: ["LRITF — Artículo 56"]

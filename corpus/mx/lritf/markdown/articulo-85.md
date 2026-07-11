@@ -2,6 +2,7 @@
 id: urn:lex-mx:federal:statute:lritf:article:85
 instrument_id: urn:lex-mx:federal:statute:lritf
 instrument: LRITF
+name: "Ley para Regular las Instituciones de Tecnología Financiera"
 provision_type: article
 number: "85"
 aliases: ["LRITF — Artículo 85"]

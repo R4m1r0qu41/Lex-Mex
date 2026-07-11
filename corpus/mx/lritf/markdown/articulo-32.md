@@ -2,6 +2,7 @@
 id: urn:lex-mx:federal:statute:lritf:article:32
 instrument_id: urn:lex-mx:federal:statute:lritf
 instrument: LRITF
+name: "Ley para Regular las Instituciones de Tecnología Financiera"
 provision_type: article
 number: "32"
 aliases: ["LRITF — Artículo 32"]

@@ -173,6 +173,22 @@ pub fn write_obsidian(
     let instrument_dir = output_dir
         .join("Corpus")
         .join(&corpus.instrument.short_name);
+    // With many instruments, two adapters mis-sharing a short_name would
+    // silently overwrite each other's vault folder; refuse when the
+    // folder's export manifest names a different instrument.
+    let manifest_path = instrument_dir.join("_lex-mex-export.json");
+    if manifest_path.exists() {
+        let existing: serde_json::Value = serde_json::from_slice(&fs::read(&manifest_path)?)?;
+        if let Some(existing_id) = existing.get("instrument_id").and_then(|id| id.as_str())
+            && existing_id != corpus.instrument.id
+        {
+            anyhow::bail!(
+                "Corpus/{} already belongs to {existing_id}; refusing to overwrite it with {}",
+                corpus.instrument.short_name,
+                corpus.instrument.id
+            );
+        }
+    }
     fs::create_dir_all(&instrument_dir)?;
     let mut generated_files = Vec::with_capacity(corpus.provisions.len() + 1);
     for provision in &corpus.provisions {
@@ -233,10 +249,12 @@ fn front_matter(corpus: &Corpus, provision: &Provision) -> String {
         )
     };
     format!(
-        "---\nid: {}\ninstrument_id: {}\ninstrument: {}\nprovision_type: {}\nnumber: \"{}\"\naliases: [{}]\ngenerated: true\ntemporal_status: {}\nreview_status: {}\n{}{}source_url: {}\nsource_sha256: {}\n---\n\n",
+        "---\nid: {}\ninstrument_id: {}\ninstrument: {}\nname: {}\nprovision_type: {}\nnumber: \"{}\"\naliases: [{}]\ngenerated: true\ntemporal_status: {}\nreview_status: {}\n{}{}source_url: {}\nsource_sha256: {}\n---\n\n",
         provision.id,
         provision.instrument_id,
         corpus.instrument.short_name,
+        serde_json::to_string(&corpus.instrument.official_title)
+            .expect("serializing title cannot fail"),
         json_name(&provision.provision_type),
         provision.number,
         serde_json::to_string(&alias).expect("serializing alias cannot fail"),
