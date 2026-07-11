@@ -51,6 +51,15 @@ pub struct FormalSource {
     pub publication_code: String,
 }
 
+/// Provenance record for machine-proposed count expectations.
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct CountBaseline {
+    /// `machine-proposed` or `audited`.
+    pub provenance: String,
+    pub parser_version: String,
+    pub proposed_at: String,
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct SourceConfig {
     pub slug: String,
@@ -67,12 +76,26 @@ pub struct SourceConfig {
     pub reference_url: Option<Url>,
     pub publisher: String,
     pub publication_date: String,
-    pub expected_min_articles: usize,
+    /// Minimum article count. Absent while an instrument's count baseline
+    /// has not been frozen yet (`batch run --freeze-counts` writes it).
+    #[serde(default)]
+    pub expected_min_articles: Option<usize>,
     /// Exact article count for closed instruments; validation uses this in
     /// addition to the minimum when present.
     #[serde(default)]
     pub expected_articles: Option<usize>,
-    pub expected_transitories: usize,
+    /// Exact transitory count; absent while the baseline is unfrozen.
+    #[serde(default)]
+    pub expected_transitories: Option<usize>,
+    /// Provenance of the count expectations: absent means hand-audited
+    /// (the original three instruments); `machine-proposed` marks a
+    /// baseline frozen from a first successful parse.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub count_baseline: Option<CountBaseline>,
+    /// Accept article-number gaps (derogated articles) and suffix-aware
+    /// ordering; bulk códigos set this, the strict originals do not.
+    #[serde(default)]
+    pub allow_article_gaps: bool,
     #[serde(default)]
     pub expected_annexes: usize,
     #[serde(default)]

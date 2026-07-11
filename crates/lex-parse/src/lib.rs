@@ -880,13 +880,21 @@ fn qualifier_boundary(value: &str) -> usize {
 
 #[derive(Debug, Clone, Default)]
 pub struct CorpusExpectations {
-    pub min_articles: usize,
+    /// Minimum article count; `None` means the count baseline has not
+    /// been frozen yet, which downgrades the count gate to a warning.
+    pub min_articles: Option<usize>,
     /// Exact article count for closed instruments.
     pub articles: Option<usize>,
-    pub transitories: usize,
+    /// Exact transitory count; `None` while the baseline is unfrozen.
+    pub transitories: Option<usize>,
     pub annexes: usize,
     /// Require every article to carry chapter heading context.
     pub require_chapter_context: bool,
+    /// Accept gaps in article numbering (derogated articles) and order
+    /// suffixed articles by the label sort key instead of requiring a
+    /// strict integer sequence from 1. Gaps become structured warnings;
+    /// the frozen count baseline is the drift gate.
+    pub allow_article_gaps: bool,
 }
 
 #[must_use]
@@ -907,11 +915,12 @@ pub fn validate_lritf(
             amendment_references: &[],
         },
         &CorpusExpectations {
-            min_articles: expected_min_articles,
+            min_articles: Some(expected_min_articles),
             articles: None,
-            transitories: expected_transitories,
+            transitories: Some(expected_transitories),
             annexes: 0,
             require_chapter_context: false,
+            allow_article_gaps: false,
         },
         &HashSet::new(),
         &HashSet::new(),
@@ -1038,15 +1047,21 @@ fn validate_counts(
     expectations: &CorpusExpectations,
     issues: &mut Vec<ValidationIssue>,
 ) {
-    if article_count < expectations.min_articles {
-        issues.push(error(
+    match expectations.min_articles {
+        Some(minimum) if article_count < minimum => issues.push(error(
             "article_count",
-            format!(
-                "expected at least {} articles, found {article_count}",
-                expectations.min_articles
-            ),
+            format!("expected at least {minimum} articles, found {article_count}"),
             None,
-        ));
+        )),
+        Some(_) => {}
+        None => issues.push(ValidationIssue {
+            severity: Severity::Warning,
+            code: "counts_not_frozen".to_owned(),
+            message: format!(
+                "no article-count baseline frozen; parse found {article_count} articles"
+            ),
+            provision_id: None,
+        }),
     }
     if let Some(expected) = expectations.articles
         && article_count != expected
@@ -1057,15 +1072,21 @@ fn validate_counts(
             None,
         ));
     }
-    if transitory_count != expectations.transitories {
-        issues.push(error(
+    match expectations.transitories {
+        Some(expected) if transitory_count != expected => issues.push(error(
             "transitory_count",
-            format!(
-                "expected {} transitories, found {transitory_count}",
-                expectations.transitories
-            ),
+            format!("expected {expected} transitories, found {transitory_count}"),
             None,
-        ));
+        )),
+        Some(_) => {}
+        None => issues.push(ValidationIssue {
+            severity: Severity::Warning,
+            code: "counts_not_frozen".to_owned(),
+            message: format!(
+                "no transitory-count baseline frozen; parse found {transitory_count} transitories"
+            ),
+            provision_id: None,
+        }),
     }
     if annex_count != expectations.annexes {
         issues.push(error(
@@ -1087,6 +1108,7 @@ fn validate_provisions(
     let mut ids = HashSet::new();
     let mut expected_number = 1_u32;
     let mut expected_annex = 1_u32;
+    let mut previous_article: Option<(labels::ArticleSortKey, String)> = None;
     for provision in provisions {
         if !ids.insert(&provision.id) {
             issues.push(error(
@@ -1115,19 +1137,23 @@ fn validate_provisions(
         }
         match provision.provision_type {
             ProvisionType::Article => {
-                match provision.number.parse::<u32>() {
-                    Ok(number) if number == expected_number => expected_number += 1,
-                    Ok(number) => issues.push(error(
-                        "article_order",
-                        format!("expected article {expected_number}, found {number}"),
-                        Some(provision.id.clone()),
-                    )),
-                    Err(_) => issues.push(ValidationIssue {
-                        severity: Severity::Warning,
-                        code: "non_numeric_article".to_owned(),
-                        message: "article suffix requires ordering review".to_owned(),
-                        provision_id: Some(provision.id.clone()),
-                    }),
+                if expectations.allow_article_gaps {
+                    validate_article_order_by_label(provision, &mut previous_article, issues);
+                } else {
+                    match provision.number.parse::<u32>() {
+                        Ok(number) if number == expected_number => expected_number += 1,
+                        Ok(number) => issues.push(error(
+                            "article_order",
+                            format!("expected article {expected_number}, found {number}"),
+                            Some(provision.id.clone()),
+                        )),
+                        Err(_) => issues.push(ValidationIssue {
+                            severity: Severity::Warning,
+                            code: "non_numeric_article".to_owned(),
+                            message: "article suffix requires ordering review".to_owned(),
+                            provision_id: Some(provision.id.clone()),
+                        }),
+                    }
                 }
                 if expectations.require_chapter_context
                     && provision.heading_context.chapter.is_none()
@@ -1155,6 +1181,64 @@ fn validate_provisions(
             ProvisionType::Transitory => {}
         }
     }
+}
+
+/// Gap-tolerant article ordering for códigos: every article number must
+/// parse under the shared label grammar, sort keys must strictly increase
+/// in document order (suffixed articles are first-class), and a skipped
+/// base number — a derogated article, or a parse gap — becomes a
+/// structured warning rather than an error. The frozen count baseline is
+/// the drift gate.
+fn validate_article_order_by_label(
+    provision: &Provision,
+    previous: &mut Option<(labels::ArticleSortKey, String)>,
+    issues: &mut Vec<ValidationIssue>,
+) {
+    let parsed =
+        labels::match_label_at(&provision.number).filter(|label| label.raw() == provision.number);
+    let Some(label) = parsed else {
+        issues.push(error(
+            "unparseable_article_number",
+            format!(
+                "article number {:?} does not parse as a label",
+                provision.number
+            ),
+            Some(provision.id.clone()),
+        ));
+        return;
+    };
+    let key = label.sort_key();
+    if let Some((previous_key, previous_number)) = previous {
+        if key <= *previous_key {
+            issues.push(error(
+                "article_order",
+                format!(
+                    "article {} does not sort after article {previous_number}",
+                    provision.number
+                ),
+                Some(provision.id.clone()),
+            ));
+        } else {
+            let base = key.first().and_then(|part| part.0.first().copied());
+            let previous_base = previous_key
+                .first()
+                .and_then(|part| part.0.first().copied());
+            if let (Some(base), Some(previous_base)) = (base, previous_base)
+                && base > previous_base + 1
+            {
+                issues.push(ValidationIssue {
+                    severity: Severity::Warning,
+                    code: "article_gap".to_owned(),
+                    message: format!(
+                        "articles between {previous_number} and {} are absent (derogated, or a parse gap)",
+                        provision.number
+                    ),
+                    provision_id: Some(provision.id.clone()),
+                });
+            }
+        }
+    }
+    *previous = Some((key, provision.number.clone()));
 }
 
 /// Validate defined terms and their usages: unique identifiers, existing
@@ -1826,6 +1910,106 @@ mod tests {
         let provisions = parse_lritf(FIXTURE, date).unwrap();
         let report = validate_lritf(&provisions, &[], 2, 2);
         assert!(report.valid, "{:?}", report.issues);
+    }
+
+    const GAPPED_CODIGO: &str = "Artículo 1o.- Uno.\n\nArtículo 2o.- Dos.\n\nArtículo 15.- Quince.\n\nArtículo 15-A.- Quince A.\n\nArtículo 17.- Diecisiete.\n\nTRANSITORIOS\n\nPRIMERO.- Entrará en vigor.\n";
+
+    fn validate_gapped(expectations: &crate::CorpusExpectations) -> lex_core::ValidationReport {
+        let date = NaiveDate::from_ymd_opt(1981, 12, 31).unwrap();
+        let options = DiputadosOptions {
+            instrument_id: "urn:lex-mx:federal:code:sample".to_owned(),
+            header_lines: vec!["CÓDIGO DE MUESTRA".to_owned()],
+            stop_markers: Vec::new(),
+        };
+        let document = parse_diputados(GAPPED_CODIGO, &options, date).unwrap();
+        crate::validate_corpus(
+            &crate::CorpusView {
+                instrument_id: "urn:lex-mx:federal:code:sample",
+                official_title: None,
+                provisions: &document.provisions,
+                references: &[],
+                terms: &[],
+                term_usages: &[],
+                amendment_references: &[],
+            },
+            expectations,
+            &std::collections::HashSet::new(),
+            &std::collections::HashSet::new(),
+        )
+    }
+
+    #[test]
+    fn gap_tolerant_ordering_accepts_suffixes_and_warns_on_gaps() {
+        let report = validate_gapped(&crate::CorpusExpectations {
+            min_articles: Some(5),
+            articles: Some(5),
+            transitories: Some(1),
+            annexes: 0,
+            require_chapter_context: false,
+            allow_article_gaps: true,
+        });
+        assert!(report.valid, "{:?}", report.issues);
+        let gaps: Vec<&str> = report
+            .issues
+            .iter()
+            .filter(|issue| issue.code == "article_gap")
+            .filter_map(|issue| issue.provision_id.as_deref())
+            .collect();
+        // 2o -> 15 and 15-A -> 17 skip base numbers; 15 -> 15-A does not.
+        assert_eq!(
+            gaps,
+            [
+                "urn:lex-mx:federal:code:sample:article:15",
+                "urn:lex-mx:federal:code:sample:article:17"
+            ]
+        );
+        assert!(
+            !report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "non_numeric_article"),
+            "suffixed articles are first-class under the label grammar"
+        );
+    }
+
+    #[test]
+    fn unfrozen_count_baselines_warn_without_failing() {
+        let report = validate_gapped(&crate::CorpusExpectations {
+            min_articles: None,
+            articles: None,
+            transitories: None,
+            annexes: 0,
+            require_chapter_context: false,
+            allow_article_gaps: true,
+        });
+        assert!(report.valid, "{:?}", report.issues);
+        assert_eq!(
+            report
+                .issues
+                .iter()
+                .filter(|issue| issue.code == "counts_not_frozen")
+                .count(),
+            2
+        );
+    }
+
+    #[test]
+    fn strict_ordering_still_rejects_gaps_when_not_allowed() {
+        let report = validate_gapped(&crate::CorpusExpectations {
+            min_articles: Some(5),
+            articles: None,
+            transitories: Some(1),
+            annexes: 0,
+            require_chapter_context: false,
+            allow_article_gaps: false,
+        });
+        assert!(!report.valid, "{:?}", report.issues);
+        assert!(
+            report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "article_order")
+        );
     }
 
     #[test]

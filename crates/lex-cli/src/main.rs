@@ -1232,6 +1232,7 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
             transitories: config.expected_transitories,
             annexes: config.expected_annexes,
             require_chapter_context: config.parser == "ifpe-dcg",
+            allow_article_gaps: config.allow_article_gaps,
         },
         &external_targets,
         &external_terms,
