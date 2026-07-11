@@ -99,6 +99,21 @@ pub struct SourceConfig {
     /// When absent, the parser's statute defaults apply.
     #[serde(default)]
     pub internal_reference_markers: Option<Vec<String>>,
+    /// Reference-extraction policy: `"internal"` restricts the graph to
+    /// same-instrument citations (the committed LRITF policy); absent
+    /// means the full cross-instrument engine.
+    #[serde(default)]
+    pub reference_policy: Option<String>,
+    /// Running-header lines the parser strips as page furniture. When
+    /// empty, the uppercased `official_title` is used — how Diputados
+    /// prints the running header. Titles that wrap across two physical
+    /// header lines configure both lines here.
+    #[serde(default)]
+    pub header_lines: Vec<String>,
+    /// Blocks that end the main document before the reform-decree
+    /// appendix, in addition to the parser's built-in appendix markers.
+    #[serde(default)]
+    pub main_document_stop_markers: Vec<String>,
     /// The instrument's glossary provision, when it has one.
     #[serde(default)]
     pub glossary: Option<GlossaryConfig>,

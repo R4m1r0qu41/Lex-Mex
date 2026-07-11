@@ -22,10 +22,10 @@ use lex_export::{
     write_obsidian, write_validation,
 };
 use lex_parse::{
-    CorpusExpectations, CorpusView, GlossaryStyle, InstrumentContextPolicy, ReferenceOptions,
-    extract_html_text, extract_internal_references, extract_pdf, extract_references,
-    extract_reform_transitories, extract_term_usages, extract_terms, find_glossary_provision,
-    parse_dcg, parse_itf_dcg, parse_lritf, validate_corpus,
+    CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle, InstrumentContextPolicy,
+    ReferenceOptions, extract_html_text, extract_internal_references, extract_pdf,
+    extract_references, extract_term_usages, extract_terms, find_glossary_provision, parse_dcg,
+    parse_diputados, parse_itf_dcg, validate_corpus,
 };
 use lex_source::{
     SourceConfig, discover, fetch, fetch_annex, fetch_formal, load_config, sha256_hex,
@@ -549,6 +549,21 @@ fn read_annex_documents(paths: &Paths, config: &SourceConfig) -> Result<Vec<(u32
         .collect()
 }
 
+/// Parser options for a Diputados consolidated document, derived from the
+/// adapter: running-header lines default to the uppercased official title.
+fn diputados_options(config: &SourceConfig) -> DiputadosOptions {
+    let header_lines = if config.header_lines.is_empty() {
+        vec![config.official_title.to_uppercase()]
+    } else {
+        config.header_lines.clone()
+    };
+    DiputadosOptions {
+        instrument_id: config.instrument_id.clone(),
+        header_lines,
+        stop_markers: config.main_document_stop_markers.clone(),
+    }
+}
+
 /// Dispatch to the adapter-configured parser.
 fn parse_by_configured_parser(
     paths: &Paths,
@@ -557,13 +572,16 @@ fn parse_by_configured_parser(
     publication_date: NaiveDate,
 ) -> Result<ParsedInstrument> {
     match config.parser.as_str() {
-        "lritf" => Ok(ParsedInstrument {
-            provisions: parse_lritf(raw, publication_date)?,
-            formal_manifest: None,
-            amendment_references: Vec::new(),
-            reform_evidence: Vec::new(),
-            latest_reform_date: None,
-        }),
+        "diputados" => {
+            let document = parse_diputados(raw, &diputados_options(config), publication_date)?;
+            Ok(ParsedInstrument {
+                provisions: document.provisions,
+                formal_manifest: None,
+                amendment_references: Vec::new(),
+                reform_evidence: document.reform_evidence,
+                latest_reform_date: None,
+            })
+        }
         "ifpe-dcg" => {
             let formal_manifest: SourceManifest = read_json(&paths.formal_manifest)?;
             let annex_documents = read_annex_documents(paths, config)?;
@@ -659,11 +677,9 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     // amendment-event determination's provision ID lives only in reform
     // evidence, never among canonical provisions, and reapplication needs
     // the freshly reparsed evidence, not whatever was last written to disk.
-    let reform_evidence = if config.parser == "lritf" {
-        extract_reform_transitories(&raw)?
-    } else {
-        parsed.reform_evidence
-    };
+    // Every parser with a reform-evidence concept returns it from the same
+    // parse of the same raw text.
+    let reform_evidence = parsed.reform_evidence;
     let mut corpus = Corpus {
         instrument,
         provisions,
@@ -686,7 +702,7 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     // reflects the current parse rather than silently going stale if a
     // future reparse ever finds zero reform transitories where a prior
     // parse found some.
-    if matches!(config.parser.as_str(), "lritf" | "itf-dcg") {
+    if matches!(config.parser.as_str(), "diputados" | "itf-dcg") {
         write_pretty_json(&reform_evidence, &paths.reform_evidence)?;
         println!(
             "isolated {} reform transitories for temporal analysis",
@@ -786,7 +802,7 @@ fn extract_instrument_references(
     instrument: &Instrument,
     provisions: &[lex_core::Provision],
 ) -> Result<Vec<lex_core::ReferenceEdge>> {
-    if context.config.parser == "lritf" {
+    if context.config.reference_policy.as_deref() == Some("internal") {
         return extract_internal_references(provisions);
     }
     let mut known_targets: HashSet<String> =

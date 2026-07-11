@@ -9,38 +9,26 @@ use std::{
 use anyhow::{Context, Result, bail};
 use chrono::NaiveDate;
 use lex_core::{
-    Basis, DefinedTerm, HeadingContext, LRITF_INSTRUMENT_ID, Provision, ProvisionType,
-    ReferenceEdge, ReferenceForm, ReferenceQualifier, ReferenceQualifierType,
-    ReferenceResolutionStatus, ReviewStatus, SCHEMA_VERSION, Severity, TemporalEvidence,
-    TemporalStatus, TermUsage, ValidationIssue, ValidationReport,
+    Basis, DefinedTerm, LRITF_INSTRUMENT_ID, Provision, ProvisionType, ReferenceEdge,
+    ReferenceForm, ReferenceQualifier, ReferenceQualifierType, ReferenceResolutionStatus,
+    SCHEMA_VERSION, Severity, TemporalEvidence, TermUsage, ValidationIssue, ValidationReport,
 };
 use regex::Regex;
 
 pub mod dcg;
+pub mod diputados;
 pub mod html;
 pub mod itf;
 pub mod labels;
 pub mod terms;
 
 pub use dcg::parse_dcg;
+pub use diputados::{
+    DiputadosDocument, DiputadosOptions, extract_reform_evidence, parse_diputados,
+};
 pub use html::extract_html_text;
 pub use itf::{ItfDocument, parse_itf_dcg};
 pub use terms::{GlossaryStyle, extract_term_usages, extract_terms, find_glossary_provision};
-
-const SOURCE_HEADER: &str = "LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA";
-const TRANSITORY_ORDINALS: &[&str] = &[
-    "PRIMERA",
-    "SEGUNDA",
-    "TERCERA",
-    "CUARTA",
-    "QUINTA",
-    "SEXTA",
-    "SÉPTIMA",
-    "OCTAVA",
-    "NOVENA",
-    "DÉCIMA",
-    "DÉCIMA PRIMERA",
-];
 
 #[derive(Debug)]
 pub struct Extraction {
@@ -82,83 +70,6 @@ pub fn extract_pdf(
         text,
         tool_version: pdftotext_version(),
     })
-}
-
-pub fn parse_lritf(raw: &str, publication_date: NaiveDate) -> Result<Vec<Provision>> {
-    let article_re = Regex::new(r"^Artículo\s+(\d+(?:\s+(?:Bis|Ter|Quáter))?)\.-\s*(.*)$")?;
-    let title_re = Regex::new(r"^TÍTULO\s+([IVXLCDM]+)$")?;
-    let chapter_re = Regex::new(r"^CAPÍTULO\s+([IVXLCDM]+)$")?;
-    let blocks = normalized_blocks(raw);
-
-    let mut provisions = Vec::new();
-    let mut current: Option<ProvisionBuilder> = None;
-    let mut current_title: Option<String> = None;
-    let mut current_chapter: Option<String> = None;
-    let mut in_statute_transitories = false;
-
-    for block in blocks {
-        if block.starts_with("ARTÍCULOS SEGUNDO A DÉCIMO") {
-            break;
-        }
-        if block == "DISPOSICIONES TRANSITORIAS" {
-            if let Some(builder) = current.take() {
-                provisions.push(builder.finish(publication_date));
-            }
-            in_statute_transitories = true;
-            current_title = None;
-            current_chapter = None;
-            continue;
-        }
-
-        if !in_statute_transitories {
-            if let Some(captures) = title_re.captures(&block) {
-                if let Some(builder) = current.take() {
-                    provisions.push(builder.finish(publication_date));
-                }
-                current_title = Some(format!("Título {}", &captures[1]));
-                current_chapter = None;
-                continue;
-            }
-            if let Some(captures) = chapter_re.captures(&block) {
-                if let Some(builder) = current.take() {
-                    provisions.push(builder.finish(publication_date));
-                }
-                current_chapter = Some(format!("Capítulo {}", &captures[1]));
-                continue;
-            }
-            if let Some(captures) = article_re.captures(&block) {
-                if let Some(builder) = current.take() {
-                    provisions.push(builder.finish(publication_date));
-                }
-                let number = captures[1].to_owned();
-                current = Some(ProvisionBuilder::article(
-                    number,
-                    captures[2].trim(),
-                    current_title.clone(),
-                    current_chapter.clone(),
-                ));
-                continue;
-            }
-        } else if let Some((ordinal, body)) = parse_transitory_start(&block) {
-            if let Some(builder) = current.take() {
-                provisions.push(builder.finish(publication_date));
-            }
-            current = Some(ProvisionBuilder::transitory(ordinal, body));
-            continue;
-        }
-
-        if let Some(builder) = &mut current {
-            builder.push_block(&block);
-        }
-    }
-
-    if let Some(builder) = current {
-        provisions.push(builder.finish(publication_date));
-    }
-    if provisions.is_empty() {
-        bail!("no LRITF provisions recognized");
-    }
-    Ok(provisions)
 }
 
 struct ReferencePatterns {
@@ -967,64 +878,6 @@ fn qualifier_boundary(value: &str) -> usize {
         .unwrap_or(value.len())
 }
 
-pub fn extract_reform_transitories(raw: &str) -> Result<Vec<TemporalEvidence>> {
-    let publication_re = Regex::new(
-        r"Publicado en el Diario Oficial de la Federación el (\d{1,2}) de ([a-z]+) de (\d{4})",
-    )?;
-    let ordinal_re = Regex::new(
-        r"^(Primero|Segundo|Tercero|Cuarto|Quinto|Sexto|Séptimo|Octavo|Noveno|Décimo(?:\s+(?:Primero|Segundo|Tercero|Cuarto|Quinto|Sexto))?)\.(?:-)?\s*(.*)$",
-    )?;
-    let mut in_reform_appendix = false;
-    let mut in_transitories = false;
-    let mut publication_date: Option<NaiveDate> = None;
-    let mut current: Option<ReformEvidenceBuilder> = None;
-    let mut evidence = Vec::new();
-
-    for block in normalized_blocks(raw) {
-        if block.contains("ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA") {
-            in_reform_appendix = true;
-            continue;
-        }
-        if !in_reform_appendix {
-            continue;
-        }
-        if block.starts_with("DECRETO por el que") {
-            flush_reform_evidence(&mut current, &mut evidence);
-            in_transitories = false;
-        }
-        if let Some(captures) = publication_re.captures(&block) {
-            publication_date = spanish_date(&captures[1], &captures[2], &captures[3]);
-            continue;
-        }
-        if block.eq_ignore_ascii_case("Transitorios") || block.ends_with(" Transitorios") {
-            in_transitories = true;
-            continue;
-        }
-        if !in_transitories {
-            continue;
-        }
-        if block.starts_with("Ciudad de México") {
-            flush_reform_evidence(&mut current, &mut evidence);
-            in_transitories = false;
-            continue;
-        }
-        if let Some(captures) = ordinal_re.captures(&block) {
-            flush_reform_evidence(&mut current, &mut evidence);
-            let date = publication_date
-                .context("found reform transitory without its Diario Oficial publication date")?;
-            current = Some(ReformEvidenceBuilder {
-                date,
-                ordinal: captures[1].to_owned(),
-                blocks: vec![captures[2].trim().to_owned()],
-            });
-        } else if let Some(builder) = &mut current {
-            builder.blocks.push(block);
-        }
-    }
-    flush_reform_evidence(&mut current, &mut evidence);
-    Ok(evidence)
-}
-
 #[derive(Debug, Clone, Default)]
 pub struct CorpusExpectations {
     pub min_articles: usize,
@@ -1591,90 +1444,8 @@ fn char_slice(value: &str, start: usize, end: usize) -> Option<String> {
     Some(value.chars().skip(start).take(end - start).collect())
 }
 
-fn normalized_blocks(raw: &str) -> Vec<String> {
-    let page_number = Regex::new(r"^\d+\s+de\s+\d+$").expect("static regex");
-    let mut blocks = Vec::new();
-    let mut current = String::new();
-    let mut pending_blank = false;
-    let mut crossed_page_furniture = false;
-
-    for source_line in raw.lines() {
-        let line = source_line.trim();
-        if line.is_empty() {
-            pending_blank = true;
-            continue;
-        }
-        if is_page_furniture(line, &page_number) {
-            if !current.is_empty() {
-                crossed_page_furniture = true;
-            }
-            pending_blank = false;
-            continue;
-        }
-        if pending_blank && !crossed_page_furniture {
-            flush_block(&mut current, &mut blocks);
-        }
-        pending_blank = false;
-        crossed_page_furniture = false;
-        if is_immediate_structural(line) {
-            flush_block(&mut current, &mut blocks);
-            blocks.push(collapse_whitespace(line));
-            continue;
-        }
-        if is_provision_start(line) {
-            flush_block(&mut current, &mut blocks);
-            current.push_str(line);
-            continue;
-        }
-        if !current.is_empty() {
-            current.push(' ');
-        }
-        current.push_str(line);
-    }
-    flush_block(&mut current, &mut blocks);
-    blocks
-}
-
-fn is_page_furniture(line: &str, page_number: &Regex) -> bool {
-    line == SOURCE_HEADER
-        || line.starts_with("CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN")
-        || line == "Secretaría General"
-        || line == "Secretaría de Servicios Parlamentarios"
-        || line.starts_with("Última Reforma DOF ")
-        || page_number.is_match(line)
-}
-
-fn is_immediate_structural(line: &str) -> bool {
-    line.starts_with("ARTÍCULOS SEGUNDO A DÉCIMO")
-        || line.starts_with("TÍTULO ")
-        || line.starts_with("CAPÍTULO ")
-        || line == "DISPOSICIONES TRANSITORIAS"
-}
-
-fn is_provision_start(line: &str) -> bool {
-    line.starts_with("Artículo ")
-        || TRANSITORY_ORDINALS
-            .iter()
-            .any(|ordinal| line.starts_with(&format!("{ordinal}.-")))
-}
-
-fn flush_block(current: &mut String, blocks: &mut Vec<String>) {
-    if !current.is_empty() {
-        blocks.push(collapse_whitespace(current));
-        current.clear();
-    }
-}
-
-fn collapse_whitespace(value: &str) -> String {
+pub(crate) fn collapse_whitespace(value: &str) -> String {
     value.split_whitespace().collect::<Vec<_>>().join(" ")
-}
-
-fn parse_transitory_start(block: &str) -> Option<(&str, &str)> {
-    TRANSITORY_ORDINALS.iter().find_map(|ordinal| {
-        block
-            .strip_prefix(&format!("{ordinal}.-"))
-            .map(|body| (*ordinal, body.trim()))
-    })
 }
 
 pub(crate) fn slug(value: &str) -> String {
@@ -1732,30 +1503,6 @@ fn error(code: &str, message: String, provision_id: Option<String>) -> Validatio
     }
 }
 
-struct ReformEvidenceBuilder {
-    date: NaiveDate,
-    ordinal: String,
-    blocks: Vec<String>,
-}
-
-impl ReformEvidenceBuilder {
-    fn finish(self) -> TemporalEvidence {
-        let text = self
-            .blocks
-            .into_iter()
-            .filter(|block| !block.is_empty())
-            .collect::<Vec<_>>()
-            .join("\n\n");
-        reform_evidence_item(
-            LRITF_INSTRUMENT_ID,
-            self.date,
-            &self.ordinal,
-            "Decreto",
-            text,
-        )
-    }
-}
-
 /// Build one reform-transitory `TemporalEvidence` item: the shared
 /// provision-ID and label convention every compiled/consolidated
 /// document's amending-act transitories use
@@ -1782,102 +1529,6 @@ pub(crate) fn reform_evidence_item(
     }
 }
 
-fn flush_reform_evidence(
-    current: &mut Option<ReformEvidenceBuilder>,
-    evidence: &mut Vec<TemporalEvidence>,
-) {
-    if let Some(builder) = current.take() {
-        evidence.push(builder.finish());
-    }
-}
-
-struct ProvisionBuilder {
-    provision_type: ProvisionType,
-    number: String,
-    label: String,
-    title: Option<String>,
-    chapter: Option<String>,
-    blocks: Vec<String>,
-}
-
-impl ProvisionBuilder {
-    fn article(
-        number: String,
-        initial: &str,
-        title: Option<String>,
-        chapter: Option<String>,
-    ) -> Self {
-        let mut value = Self {
-            label: format!("Artículo {number}"),
-            number,
-            provision_type: ProvisionType::Article,
-            title,
-            chapter,
-            blocks: Vec::new(),
-        };
-        value.push_block(initial);
-        value
-    }
-
-    fn transitory(ordinal: &str, initial: &str) -> Self {
-        let mut value = Self {
-            label: ordinal.to_owned(),
-            number: ordinal.to_owned(),
-            provision_type: ProvisionType::Transitory,
-            title: None,
-            chapter: None,
-            blocks: Vec::new(),
-        };
-        value.push_block(initial);
-        value
-    }
-
-    fn push_block(&mut self, value: &str) {
-        let value = value.trim();
-        if !value.is_empty() {
-            self.blocks.push(value.to_owned());
-        }
-    }
-
-    fn finish(self, publication_date: NaiveDate) -> Provision {
-        let kind = match self.provision_type {
-            ProvisionType::Article => "article",
-            ProvisionType::Transitory => "transitory",
-            ProvisionType::Annex => "annex",
-        };
-        let canonical_number = if self.provision_type == ProvisionType::Article {
-            self.number.to_lowercase().replace(' ', "-")
-        } else {
-            slug(&self.number)
-        };
-        Provision {
-            schema_version: SCHEMA_VERSION.to_owned(),
-            id: format!("{LRITF_INSTRUMENT_ID}:{kind}:{canonical_number}"),
-            instrument_id: LRITF_INSTRUMENT_ID.to_owned(),
-            provision_type: self.provision_type,
-            label: self.label,
-            number: self.number,
-            heading_context: HeadingContext {
-                libro: None,
-                title: self.title,
-                chapter: self.chapter,
-                section: None,
-                apartado: None,
-            },
-            text: self.blocks.join("\n\n"),
-            publication_date,
-            effective_from: None,
-            effective_to: None,
-            temporal_status: TemporalStatus::Unknown,
-            temporal_basis: None,
-            temporal_confidence: None,
-            review_status: ReviewStatus::NotAnalyzed,
-            transitory_effects: Vec::new(),
-            amendment_marks: Vec::new(),
-        }
-    }
-}
-
 #[cfg(test)]
 mod tests {
     use std::collections::HashSet;
@@ -1887,8 +1538,8 @@ mod tests {
     use pretty_assertions::assert_eq;
 
     use super::{
-        InstrumentContextPolicy, ReferenceOptions, extract_internal_references, extract_references,
-        extract_reform_transitories, parse_dcg, parse_lritf, validate_lritf,
+        DiputadosOptions, InstrumentContextPolicy, ReferenceOptions, extract_internal_references,
+        extract_references, extract_reform_evidence, parse_dcg, parse_diputados, validate_lritf,
     };
 
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");
@@ -1900,6 +1551,25 @@ mod tests {
         include_str!("../../../fixtures/ifpe-dcg-2021/annex-1-sample.txt");
     const DCG_ID: &str = "urn:lex-mx:federal:regulation:ifpe-dcg-2021";
     const LRITF_ID: &str = "urn:lex-mx:federal:statute:lritf";
+
+    /// The exact options the CLI derives for the committed LRITF adapter;
+    /// the committed corpus is the byte-identity fixture for them.
+    fn lritf_options() -> DiputadosOptions {
+        DiputadosOptions {
+            instrument_id: LRITF_ID.to_owned(),
+            header_lines: vec![
+                "LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA".to_owned(),
+            ],
+            stop_markers: vec!["ARTÍCULOS SEGUNDO A DÉCIMO".to_owned()],
+        }
+    }
+
+    fn parse_lritf(
+        raw: &str,
+        date: chrono::NaiveDate,
+    ) -> Result<Vec<lex_core::Provision>, anyhow::Error> {
+        parse_diputados(raw, &lritf_options(), date).map(|document| document.provisions)
+    }
 
     fn dcg_reference_options() -> ReferenceOptions {
         ReferenceOptions {
@@ -2327,7 +1997,7 @@ Segundo. La aplicación será gradual.
 
 Ciudad de México, a 1 de octubre de 2025.
 ";
-        let evidence = extract_reform_transitories(raw).unwrap();
+        let evidence = extract_reform_evidence(raw, &lritf_options()).unwrap();
         assert_eq!(evidence.len(), 2);
         assert_eq!(
             evidence[1].provision_id,
