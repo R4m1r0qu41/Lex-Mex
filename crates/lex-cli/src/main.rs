@@ -325,10 +325,7 @@ fn discover_source_configs(root: &Path, source: &str) -> Result<Vec<SourceConfig
         .collect::<Result<Vec<_>, _>>()?
         .into_iter()
         .map(|entry| entry.path())
-        .filter(|path| {
-            path.extension()
-                .is_some_and(|extension| extension == "json")
-        })
+        .filter(|path| is_adapter_config(path))
         .collect();
     entries.sort();
     for path in entries {
@@ -355,16 +352,25 @@ fn adapter_paths(root: &Path) -> Result<Vec<PathBuf>> {
         }
         for file in fs::read_dir(&directory)? {
             let path = file?.path();
-            if path
-                .extension()
-                .is_some_and(|extension| extension == "json")
-            {
+            if is_adapter_config(&path) {
                 paths.push(path);
             }
         }
     }
     paths.sort();
     Ok(paths)
+}
+
+/// Instrument adapter configs are `adapters/<source>/<slug>.json`. A file
+/// whose name starts with `_` is shared configuration data (for example
+/// `_instrument-aliases.json`, `_named-offenses.json`), not an instrument
+/// adapter, and is never parsed as `SourceConfig`.
+fn is_adapter_config(path: &Path) -> bool {
+    path.extension()
+        .is_some_and(|extension| extension == "json")
+        && !path
+            .file_name()
+            .is_some_and(|name| name.to_string_lossy().starts_with('_'))
 }
 
 fn run_pipeline(

@@ -1,0 +1,36 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "env_E3_water",
+  "description": "E3 water. Ley General de Aguas blocked pending DOF verification of enactment.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [
+    {
+      "slug": "lga",
+      "title": "Ley General de Aguas",
+      "reason": "Flagged in cluster plan: confirm whether enacted/in force before ingest; route to reviewer of record."
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "lan",
+      "title": "LEY de Aguas Nacionales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lan.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf"
+    },
+    {
+      "slug": "reg-lan",
+      "title": "REGLAMENTO de la Ley de Aguas Nacionales",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf"
+    }
+  ]
+}

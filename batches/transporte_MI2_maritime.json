@@ -1,0 +1,57 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "transporte_MI2_maritime",
+  "description": "MI2 maritime and general communications.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lncm",
+      "title": "LEY de Navegación y Comercio Marítimos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lncm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf"
+    },
+    {
+      "slug": "reg-lncm",
+      "title": "REGLAMENTO de la Ley de Navegación y Comercio Marítimos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf"
+    },
+    {
+      "slug": "lpue",
+      "title": "LEY de Puertos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpue.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/65_071220.pdf"
+    },
+    {
+      "slug": "reg-lpue",
+      "title": "REGLAMENTO de la Ley de Puertos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPue.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPue.pdf"
+    },
+    {
+      "slug": "lvgc",
+      "title": "LEY de Vías Generales de Comunicación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvgc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVGC.pdf"
+    }
+  ]
+}

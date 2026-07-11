@@ -1,0 +1,66 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "tax_T2_coordination",
+  "description": "T2 fiscal coordination and budgetary discipline.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lcf",
+      "title": "LEY de Coordinación Fiscal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf"
+    },
+    {
+      "slug": "lfprh",
+      "title": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfprh.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf"
+    },
+    {
+      "slug": "lgcg",
+      "title": "LEY General de Contabilidad Gubernamental",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcg.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf"
+    },
+    {
+      "slug": "ldfefm",
+      "title": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldfefm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf"
+    },
+    {
+      "slug": "ltf",
+      "title": "LEY de Tesorería de la Federación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTF.pdf"
+    },
+    {
+      "slug": "reg-ltf",
+      "title": "REGLAMENTO de la Ley de Tesorería de la Federación",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LTF_300617.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LTF_300617.pdf"
+    }
+  ]
+}

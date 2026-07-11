@@ -1,0 +1,63 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "labor_L1_labor",
+  "description": "L1 labor: LFT hub plus apartado B, INFONAVIT, ayuda alimentaria.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [
+    {
+      "slug": "reg-laat",
+      "title": "Reglamento de la Ley de Ayuda Alimentaria para los Trabajadores",
+      "reason": "Not listed in Diputados reglamentos index; source not located on official index."
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "lft",
+      "title": "LEY Federal del Trabajo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf"
+    },
+    {
+      "slug": "lftse",
+      "title": "LEY Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lftse.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf"
+    },
+    {
+      "slug": "linfonavit",
+      "title": "LEY del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lifnvt.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf"
+    },
+    {
+      "slug": "reg-linfonavit-mtai",
+      "title": "REGLAMENTO de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores en Materia de Transparencia y Acceso a la Información",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LInfonavit_MTAI.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LInfonavit_MTAI.pdf"
+    },
+    {
+      "slug": "laat",
+      "title": "LEY de Ayuda Alimentaria para los Trabajadores",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/laat.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf"
+    }
+  ]
+}

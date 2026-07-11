@@ -1,0 +1,36 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "financial_F6_insurance_bonds",
+  "description": "F6 insurance and surety stack. CUSF is source-blocked until the official CNSF compiled PDF can be resolved.",
+  "notes": [
+    "LISF and LSCS are imported from the official Camara de Diputados law library.",
+    "Do not import Circular Unica de Seguros y Fianzas from Diputados; it is a CNSF secondary instrument and requires an official CNSF/DOF source."
+  ],
+  "blocked": [
+    {
+      "slug": "cusf-dcg-2014",
+      "title": "Circular Única de Seguros y Fianzas",
+      "reason": "Official CNSF page timed out/502 during source resolution; no official compiled PDF URL validated."
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "lisf",
+      "title": "Ley de Instituciones de Seguros y de Fianzas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lisf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISF.pdf"
+    },
+    {
+      "slug": "lscs",
+      "title": "Ley sobre el Contrato de Seguro",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/211.pdf"
+    }
+  ]
+}

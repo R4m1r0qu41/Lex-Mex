@@ -1,0 +1,66 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "transporte_MI1_land_air",
+  "description": "MI1 land and air transport.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lcpaf",
+      "title": "LEY de Caminos, Puentes y Autotransporte Federal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcpaf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCPAF.pdf"
+    },
+    {
+      "slug": "lac",
+      "title": "LEY de Aviación Civil",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lac.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf"
+    },
+    {
+      "slug": "reg-lac",
+      "title": "REGLAMENTO de la Ley de Aviación Civil",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf"
+    },
+    {
+      "slug": "laero",
+      "title": "LEY de Aeropuertos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/laero.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf"
+    },
+    {
+      "slug": "reg-laero",
+      "title": "REGLAMENTO de la Ley de Aeropuertos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf"
+    },
+    {
+      "slug": "lgmsv",
+      "title": "LEY General de Movilidad y Seguridad Vial",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmsv.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf"
+    }
+  ]
+}

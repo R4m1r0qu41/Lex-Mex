@@ -1,0 +1,75 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "labor_L2_social_security",
+  "description": "L2 social security: LSS plus materia reglamentos, ISSSTE, INFONACOT.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lss",
+      "title": "LEY del Seguro Social",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lss.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf"
+    },
+    {
+      "slug": "reg-lss-macerf",
+      "title": "REGLAMENTO de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MACERF.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MACERF.pdf"
+    },
+    {
+      "slug": "reg-lss-rfar",
+      "title": "REGLAMENTO de la Ley del Seguro Social para la constitución, inversión y uso para la operación de las Reservas Financieras y Actuariales y la Reserva General Financiera y Actuarial, así como para la determinación de los costos financieros que deberán reintegrarse a la Reserva de Operación para Contingencias y Financiamiento",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_RFARGFA.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_RFARGFA.pdf"
+    },
+    {
+      "slug": "reg-lss-maeba",
+      "title": "REGLAMENTO de la Ley del Seguro Social, en materia de administración y enajenación de bienes adjudicados con motivo de la aplicación del procedimiento administrativo de ejecución",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MAEBA.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MAEBA.pdf"
+    },
+    {
+      "slug": "lissste",
+      "title": "LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lissste.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf"
+    },
+    {
+      "slug": "linfonacot",
+      "title": "LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lifnct.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf"
+    },
+    {
+      "slug": "reg-linfonacot",
+      "title": "REGLAMENTO de la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIFNCT.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIFNCT.pdf"
+    }
+  ]
+}

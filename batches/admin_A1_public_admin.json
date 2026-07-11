@@ -1,0 +1,75 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "admin_A1_public_admin",
+  "description": "A1 public administration and procurement.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "loapf",
+      "title": "LEY Orgánica de la Administración Pública Federal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf"
+    },
+    {
+      "slug": "lfpa",
+      "title": "LEY Federal de Procedimiento Administrativo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpa.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf"
+    },
+    {
+      "slug": "laassp",
+      "title": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/laassp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf"
+    },
+    {
+      "slug": "reg-laassp",
+      "title": "REGLAMENTO de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAASSP.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAASSP.pdf"
+    },
+    {
+      "slug": "lopsrm",
+      "title": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopsrm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPSRM.pdf"
+    },
+    {
+      "slug": "lapp",
+      "title": "LEY de Asociaciones Público Privadas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf"
+    },
+    {
+      "slug": "reg-lapp",
+      "title": "REGLAMENTO de la Ley de Asociaciones Público Privadas",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAPP_200217.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAPP_200217.pdf"
+    }
+  ]
+}

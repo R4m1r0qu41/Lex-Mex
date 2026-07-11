@@ -426,6 +426,15 @@ Checks rerun successfully on 2026-07-03:
 
 ## 6. Suggested next steps
 
+0. **Normalization program (decided 2026-07-11, in progress on
+   `fable/diputados-bulk`)** — the repository becomes the only ingestion
+   gate; the 135 instruments bulk-imported into the Obsidian vault by the
+   now-frozen Python tooling are re-ingested through the Rust pipeline
+   (structural only; temporal deferred per batch). Batch manifests live in
+   `batches/`, folded configs in `adapters/diputados/_instrument-aliases.json`
+   and `adapters/shared/_named-offenses.json`. Pilot: CFF, CCF, LAASSP.
+   See `docs/decisions.md` (2026-07-11).
+
 1. **JRH review pass over the DCG temporal determinations** — three of the
    four machine-accepted DCG-IFPE-2021 determinations remain unverified
    (CUARTO is lawyer-verified), and DCG-ITF-2018 adds 16 machine-accepted

@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "penal_P1_core",
+  "description": "P1 criminal core: CPF and CNPP already in corpus; national penal laws added.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lnep",
+      "title": "LEY Nacional de Ejecución Penal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnep.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf"
+    },
+    {
+      "slug": "lnsijpa",
+      "title": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnsijpa.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNSIJPA.pdf"
+    },
+    {
+      "slug": "lnmasc-penal",
+      "title": "LEY Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnmascmp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP.pdf"
+    }
+  ]
+}

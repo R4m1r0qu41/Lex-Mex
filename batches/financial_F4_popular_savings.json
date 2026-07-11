@@ -1,0 +1,63 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "financial_F4_popular_savings",
+  "description": "Popular savings/SOFIPO/SOCAP batch. Statutes use official CNBV copies where present; DCGs use exact CNBV Normatividad titles.",
+  "notes": [
+    "Domain: Financial system, popular savings"
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lacp",
+      "title": "Ley de Ahorro y Crédito Popular",
+      "type": "ley",
+      "adapter": "cnbv",
+      "status": "NEW",
+      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Ley%20de%20Ahorro%20y%20Cr%C3%A9dito%20Popular.pdf",
+      "publisher": "Comisión Nacional Bancaria y de Valores",
+      "role": "hub"
+    },
+    {
+      "slug": "lrascap",
+      "title": "Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo",
+      "type": "ley",
+      "adapter": "cnbv",
+      "status": "NEW",
+      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Ley%20para%20Regular%20las%20Actividades%20de%20las%20Sociedades%20Cooperativas%20de%20Ahorro%20y%20Pr%C3%A9stamo.pdf",
+      "publisher": "Comisión Nacional Bancaria y de Valores",
+      "role": "peer"
+    },
+    {
+      "slug": "socap-sofipo-dcg-2006",
+      "title": "Disposiciones de carácter general aplicables a las entidades de ahorro y crédito popular, organismos de integración, sociedades financieras comunitarias y organismos de integración financiera rural",
+      "type": "dcg",
+      "adapter": "cnbv",
+      "status": "NEW",
+      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20entidades%20de%20ahorro%20y%20cr%C3%A9dito%20popular%2C%20organismos%20de%20integraci%C3%B3n%2C%20sociedades%20financieras%20comunita.pdf",
+      "publisher": "Comisión Nacional Bancaria y de Valores",
+      "role": "regulation",
+      "parent_law": "LACP"
+    },
+    {
+      "slug": "scap-dcg-2012",
+      "title": "Disposiciones de carácter general aplicables a las actividades de las sociedades cooperativas de ahorro y préstamo",
+      "type": "dcg",
+      "adapter": "cnbv",
+      "status": "NEW",
+      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20actividades%20de%20las%20sociedades%20cooperativas%20de%20ahorro%20y%20pr%C3%A9stamo.pdf",
+      "publisher": "Comisión Nacional Bancaria y de Valores",
+      "role": "regulation",
+      "parent_law": "LRASCAP"
+    }
+  ],
+  "expected_edges": [
+    "LACP -> LIC",
+    "LACP -> LGTOC",
+    "LRASCAP -> LIC",
+    "LRASCAP -> LGTOC"
+  ]
+}

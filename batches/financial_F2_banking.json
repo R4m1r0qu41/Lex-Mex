@@ -1,0 +1,75 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "financial_F2_banking",
+  "description": "Banking hub batch. Import statutes from Diputados first; import CUB/DCG from CNBV with a regulator adapter after source verification.",
+  "notes": [
+    "Domain: Financial system, banking",
+    "Confirm CNBV compiled source for cub-dcg-2005 before importing the Circular Unica de Bancos."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lic",
+      "title": "Ley de Instituciones de Crédito",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lic.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf",
+      "publisher": "Cámara de Diputados",
+      "role": "hub"
+    },
+    {
+      "slug": "lraf",
+      "title": "Ley para Regular las Agrupaciones Financieras",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lraf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAF.pdf",
+      "publisher": "Cámara de Diputados",
+      "role": "peer"
+    },
+    {
+      "slug": "lpab",
+      "title": "Ley de Protección al Ahorro Bancario",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpab.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPAB.pdf",
+      "publisher": "Cámara de Diputados",
+      "role": "peer"
+    },
+    {
+      "slug": "lpdusf",
+      "title": "Ley de Protección y Defensa al Usuario de Servicios Financieros",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpdusf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPDUSF.pdf",
+      "publisher": "Cámara de Diputados",
+      "role": "peer"
+    },
+    {
+      "slug": "cub-dcg-2005",
+      "title": "Disposiciones de carácter general aplicables a las instituciones de crédito",
+      "type": "dcg",
+      "adapter": "cnbv",
+      "status": "NEW",
+      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf",
+      "publisher": "Comisión Nacional Bancaria y de Valores",
+      "role": "regulation",
+      "parent_law": "LIC"
+    }
+  ],
+  "expected_edges": [
+    "LIC -> LTOSF",
+    "LIC -> LGTOC",
+    "LIC articulo 115 -> pld-lic115-dcg-2009",
+    "LRAF -> LIC",
+    "LPDUSF -> LTOSF"
+  ]
+}

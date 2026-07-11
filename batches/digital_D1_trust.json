@@ -1,0 +1,41 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "digital_D1_trust",
+  "description": "D1 digital trust: LFEA already in corpus; telecom and competition blocked pending 2025 reform verification.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [
+    {
+      "slug": "lftr",
+      "title": "Ley Federal de Telecomunicaciones y Radiodifusión (nueva 2025)",
+      "reason": "Flagged: 2025 reform abrogated IFT; confirm current DOF title with reviewer before fetch."
+    },
+    {
+      "slug": "lfce",
+      "title": "Ley Federal de Competencia Económica",
+      "reason": "Flagged: verify post-reform regulator and current DOF title with reviewer before fetch."
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "reg-lfea",
+      "title": "REGLAMENTO de la Ley de Firma Electrónica Avanzada",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf"
+    },
+    {
+      "slug": "lic-calidad",
+      "title": "LEY de Infraestructura de la Calidad",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lical.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf"
+    }
+  ]
+}

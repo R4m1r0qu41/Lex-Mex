@@ -1,0 +1,48 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "tax_T3_customs",
+  "description": "T3 customs and foreign trade.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "ladua",
+      "title": "LEY Aduanera",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ladua.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf"
+    },
+    {
+      "slug": "lce",
+      "title": "LEY de Comercio Exterior",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lce.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCE.pdf"
+    },
+    {
+      "slug": "reg-lce",
+      "title": "REGLAMENTO de la Ley de Comercio Exterior",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LCE.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LCE.pdf"
+    },
+    {
+      "slug": "ligie",
+      "title": "LEY de los Impuestos Generales de Importación y de Exportación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf"
+    }
+  ]
+}

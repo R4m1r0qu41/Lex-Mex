@@ -1,0 +1,93 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "legacy_core_pre_manifest",
+  "description": "Instruments imported into the vault before batch manifests existed (financial F1, litigation, e-signature sets). Titles and source URLs recovered from vault index-note frontmatter; ref_page omitted rather than guessed.",
+  "notes": [
+    "Slugs are lowercased vault folder names; folder casing (CCom, LAmp) is restored by the short-name map."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "ccf",
+      "title": "Código Civil Federal",
+      "type": "codigo",
+      "adapter": "diputados",
+      "status": "NEW",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf"
+    },
+    {
+      "slug": "ccom",
+      "short_name": "CCom",
+      "title": "Código de Comercio",
+      "type": "codigo",
+      "adapter": "diputados",
+      "status": "NEW",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf"
+    },
+    {
+      "slug": "cfpc",
+      "title": "Código Federal de Procedimientos Civiles",
+      "type": "codigo",
+      "adapter": "diputados",
+      "status": "NEW",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf"
+    },
+    {
+      "slug": "cnpp",
+      "title": "Código Nacional de Procedimientos Penales",
+      "type": "codigo",
+      "adapter": "diputados",
+      "status": "NEW",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf"
+    },
+    {
+      "slug": "cpf",
+      "title": "Código Penal Federal",
+      "type": "codigo",
+      "adapter": "diputados",
+      "status": "NEW",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf"
+    },
+    {
+      "slug": "lamp",
+      "short_name": "LAmp",
+      "title": "Ley de Amparo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf"
+    },
+    {
+      "slug": "lbm",
+      "title": "Ley del Banco de México",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/74.pdf"
+    },
+    {
+      "slug": "lfea",
+      "title": "Ley de Firma Electrónica Avanzada",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf"
+    },
+    {
+      "slug": "lgtoc",
+      "title": "Ley General de Títulos y Operaciones de Crédito",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf"
+    },
+    {
+      "slug": "ltosf",
+      "title": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf"
+    }
+  ]
+}

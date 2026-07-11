@@ -1,0 +1,48 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "civil_C1_commercial",
+  "description": "C1 commercial: CCom/LGTOC already in corpus; LGSM, LCM, LFPC added.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgsm",
+      "title": "LEY General de Sociedades Mercantiles",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf"
+    },
+    {
+      "slug": "lcm",
+      "title": "LEY de Concursos Mercantiles",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf"
+    },
+    {
+      "slug": "lfpc",
+      "title": "LEY Federal de Protección al Consumidor",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf"
+    },
+    {
+      "slug": "reg-lfpc",
+      "title": "REGLAMENTO de la Ley Federal de Protección al Consumidor",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_191219.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_191219.pdf"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "financial_F7_retirement_aml",
+  "description": "F7 retirement savings and AML stack. CONSAR CUF and LIC article 115 PLD DCG remain source-blocked pending official regulator PDF resolution.",
+  "notes": [
+    "LSAR, LFPIORPI, and REG-LFPIORPI are imported from official Camara de Diputados sources.",
+    "LFPIORPI is also listed in CNBV Normatividad; Diputados is used here for law-library consistency.",
+    "Do not import CONSAR CUF or article 115 LIC PLD DCG from unofficial mirrors."
+  ],
+  "blocked": [
+    {
+      "slug": "consar-cuf-dcg-2018",
+      "title": "Disposiciones de carácter general en materia financiera de los Sistemas de Ahorro para el Retiro",
+      "reason": "Official CONSAR compiled PDF URL not validated."
+    },
+    {
+      "slug": "pld-lic115-dcg-2009",
+      "title": "Disposiciones de carácter general a que se refiere el artículo 115 de la Ley de Instituciones de Crédito",
+      "reason": "CNBV Normatividad search exposed later agreements, but not the base compiled DCG PDF."
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "lsar",
+      "title": "Ley de los Sistemas de Ahorro para el Retiro",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsar.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf"
+    },
+    {
+      "slug": "lfpiorpi",
+      "title": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpiorpi.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPIORPI.pdf"
+    },
+    {
+      "slug": "reg-lfpiorpi",
+      "title": "Reglamento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPIORPI.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPIORPI.pdf"
+    }
+  ]
+}

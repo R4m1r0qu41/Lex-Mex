@@ -1,0 +1,75 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "env_E2_waste_forestry",
+  "description": "E2 waste, forestry and biodiversity.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgpgir",
+      "title": "LEY General para la Prevención y Gestión Integral de los Residuos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpgir.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPGIR.pdf"
+    },
+    {
+      "slug": "reg-lgpgir",
+      "title": "REGLAMENTO de la Ley General para la Prevención y Gestión Integral de los Residuos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPGIR_311014.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPGIR_311014.pdf"
+    },
+    {
+      "slug": "lgvs",
+      "title": "LEY General de Vida Silvestre",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgvs.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGVS.pdf"
+    },
+    {
+      "slug": "lgdfs",
+      "title": "LEY General de Desarrollo Forestal Sustentable",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdfs.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf"
+    },
+    {
+      "slug": "reg-lgdfs",
+      "title": "REGLAMENTO de la Ley General de Desarrollo Forestal Sustentable",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf"
+    },
+    {
+      "slug": "lbogm",
+      "title": "LEY de Bioseguridad de Organismos Genéticamente Modificados",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lbogm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBOGM.pdf"
+    },
+    {
+      "slug": "reg-lbogm",
+      "title": "REGLAMENTO de la Ley de Bioseguridad de Organismos Genéticamente Modificados",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBOGM.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBOGM.pdf"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "civil_C2_civil_ip",
+  "description": "C2 civil and intellectual property: CCF already in corpus.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "cnpcf",
+      "title": "CÓDIGO Nacional de Procedimientos Civiles y Familiares",
+      "type": "codigo",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf"
+    },
+    {
+      "slug": "lfda",
+      "title": "LEY Federal del Derecho de Autor",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf"
+    },
+    {
+      "slug": "reg-lfda",
+      "title": "REGLAMENTO de la Ley Federal del Derecho de Autor",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf"
+    },
+    {
+      "slug": "lfppi",
+      "title": "LEY Federal de Protección a la Propiedad Industrial",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppi.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf"
+    }
+  ]
+}

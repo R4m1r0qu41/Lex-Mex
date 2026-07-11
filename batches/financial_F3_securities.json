@@ -1,0 +1,88 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "financial_F3_securities",
+  "description": "Securities hub batch. Statutes use Diputados; DCGs use verified CNBV Normatividad compiled PDFs.",
+  "notes": [
+    "Domain: Financial system, securities and capital markets"
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lmv",
+      "title": "Ley del Mercado de Valores",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmv.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf",
+      "publisher": "Cámara de Diputados",
+      "role": "hub"
+    },
+    {
+      "slug": "lfi",
+      "title": "Ley de Fondos de Inversión",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfi.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf",
+      "publisher": "Cámara de Diputados",
+      "role": "peer"
+    },
+    {
+      "slug": "cue-dcg-2003",
+      "title": "Disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores",
+      "type": "dcg",
+      "adapter": "cnbv",
+      "status": "NEW",
+      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20emisoras%20de%20valores%20y%20a%20otros%20participantes%20del%20mercado%20de%20valores.pdf",
+      "publisher": "Comisión Nacional Bancaria y de Valores",
+      "role": "regulation",
+      "parent_law": "LMV"
+    },
+    {
+      "slug": "cucb-dcg-2004",
+      "title": "Disposiciones de carácter general aplicables a las casas de bolsa",
+      "type": "dcg",
+      "adapter": "cnbv",
+      "status": "NEW",
+      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf",
+      "publisher": "Comisión Nacional Bancaria y de Valores",
+      "role": "regulation",
+      "parent_law": "LMV"
+    },
+    {
+      "slug": "fi-dcg-2014",
+      "title": "Disposiciones de carácter general aplicables a los fondos de inversión y a las personas que les prestan servicios",
+      "type": "dcg",
+      "adapter": "cnbv",
+      "status": "NEW",
+      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf",
+      "publisher": "Comisión Nacional Bancaria y de Valores",
+      "role": "regulation",
+      "parent_law": "LFI"
+    },
+    {
+      "slug": "servinv-dcg-2013",
+      "title": "Disposiciones de carácter general aplicables a las casas de bolsa e instituciones de crédito en materia de servicios de inversión",
+      "type": "dcg",
+      "adapter": "cnbv",
+      "status": "NEW",
+      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20entidades%20financieras%20y%20dem%C3%A1s%20personas%20que%20proporcionen%20servicios%20de.pdf",
+      "publisher": "Comisión Nacional Bancaria y de Valores",
+      "role": "bridge",
+      "parent_law": "LMV/LIC"
+    }
+  ],
+  "expected_edges": [
+    "LMV -> LIC",
+    "LMV articulo 124 -> PLD family",
+    "LFI -> LMV",
+    "servinv-dcg-2013 -> LMV",
+    "servinv-dcg-2013 -> LIC"
+  ]
+}

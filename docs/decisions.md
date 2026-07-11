@@ -1,5 +1,48 @@
 # Architecture decisions
 
+## 2026-07-11 — The repository is the only ingestion and processing gate
+
+Between 2026-07-08 and 2026-07-10, a Python tool suite living inside the
+Obsidian vault (`Herramientas/`) bulk-imported 135 additional instruments
+directly from Cámara de Diputados consolidated PDFs, with its own parsing,
+linking, and audit rules, no version control, and no schema gate. That
+created two divergent rule sets and made the vault the only holder of
+canonical facts for those instruments — exactly what this repository's
+architecture forbids.
+
+Decision (protocol designer, 2026-07-11): the repository's Rust pipeline is
+the sole ingestion and processing gate. The 135 vault-only instruments will
+be re-ingested through it (structural ingestion first; temporal analysis
+deferred and run later per batch by legal priority). The vault returns to a
+visualization/interaction layer only; the Python tooling is frozen
+immediately and retires at parity.
+
+What folds into the repository from the vault tooling:
+
+- **`batches/*.json`** — 26 batch-ingestion manifests (25 converted from
+  `Herramientas/import_batches/` with the F2/F3/F4 variant schema
+  normalized, plus `legacy_core_pre_manifest` reconstructing the ten
+  instruments imported before manifests existed). `blocked` entries and
+  their reasons are preserved verbatim; blocked sources stay blocked until
+  a reviewer clears them. Schema: `schemas/batch-manifest.schema.json`;
+  Rust boundary type: `BatchManifest` in `lex-source`.
+- **`adapters/diputados/_instrument-aliases.json`** — the hand-curated
+  citation-alias table (official titles, accent-stripped variants,
+  colloquial names such as "Circular Única de Bancos").
+- **`adapters/shared/_named-offenses.json`** — the hand-transcribed CNPP
+  art. 167 → CPF named-offense authority table (21 offenses), wiring
+  deferred to the penal batch.
+
+Known vault-side defects (Obsidian-invisible mid-block term anchors,
+letter-suffixed articles folded into parent files, embedded page running
+headers) are not repaired in place; re-ingestion supersedes them.
+
+Count expectations for bulk instruments are parser-proposed frozen
+baselines: the first successful parse proposes counts, they are written
+into the adapter marked machine-proposed (distinct from the hand-audited
+counts of the three original instruments), and subsequent runs enforce
+them as drift detection.
+
 ## 2026-07-06 — Second-pass code review fixes on the ITF DCG ingestion
 
 An external review of the amendment-marker and relative-reference work found

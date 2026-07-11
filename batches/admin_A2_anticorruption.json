@@ -1,0 +1,57 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "admin_A2_anticorruption",
+  "description": "A2 anti-corruption and accountability (SNA).",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgsna",
+      "title": "LEY General del Sistema Nacional Anticorrupción",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsna.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf"
+    },
+    {
+      "slug": "lgra",
+      "title": "LEY General de Responsabilidades Administrativas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf"
+    },
+    {
+      "slug": "lfrcf",
+      "title": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrcf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf"
+    },
+    {
+      "slug": "lotfja",
+      "title": "LEY Orgánica del Tribunal Federal de Justicia Administrativa",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lotfja.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf"
+    },
+    {
+      "slug": "reg-lspcapf",
+      "title": "REGLAMENTO de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPCAPF.pdf"
+    }
+  ]
+}

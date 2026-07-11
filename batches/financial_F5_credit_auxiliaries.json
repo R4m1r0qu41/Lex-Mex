@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "financial_F5_credit_auxiliaries",
+  "description": "F5 credit auxiliaries, credit unions, warehouses, casas de cambio, and regulated SOFOM secondary rules.",
+  "notes": [
+    "CNBV Normatividad exact title used for oaac-dcg-2009: Disposiciones de carácter general aplicables a los almacenes generales de depósito, casas de cambio, uniones de crédito y sociedades financieras de objeto múltiple reguladas."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgoaac",
+      "title": "Ley General de Organizaciones y Actividades Auxiliares del Crédito",
+      "type": "ley",
+      "adapter": "cnbv",
+      "status": "NEW",
+      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Ley%20General%20de%20Organizaciones%20y%20Actividades%20Auxiliares%20del%20Cr%C3%A9dito.pdf"
+    },
+    {
+      "slug": "luc",
+      "title": "Ley de Uniones de Crédito",
+      "type": "ley",
+      "adapter": "cnbv",
+      "status": "NEW",
+      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Ley%20de%20Uniones%20de%20Cr%C3%A9dito.pdf"
+    },
+    {
+      "slug": "oaac-dcg-2009",
+      "title": "Disposiciones de carácter general aplicables a los almacenes generales de depósito, casas de cambio, uniones de crédito y sociedades financieras de objeto múltiple reguladas",
+      "type": "dcg",
+      "adapter": "cnbv",
+      "status": "NEW",
+      "ref_page": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+      "source_pdf": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20almacenes%20generales%20de%20dep%C3%B3sito%2C%20casas%20de%20cambio%2C%20uniones%20de%20cr%C3%A9dito%20y%20sociedades%20financieras%20de%20objeto%20m%C3%BAltiple%20reguladas.pdf"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Hand-transcribed legal-authority table: CNPP art. 167 named offenses resolved to CPF articles. Folded verbatim from the retired vault tooling (named_offense_config.json) on 2026-07-11. Wiring lands with the penal batch.",
+  "blocks": [
+    {
+      "source_file": "Corpus/CNPP/articulo-167.md",
+      "start_marker": "Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Penal Federal, de la manera siguiente:",
+      "end_marker": "[Se consideran delitos que ameritan prisión preventiva oficiosa, los previstos en el Código Fiscal",
+      "target_instrument": "CPF",
+      "offenses": [
+        {
+          "name": "Homicidio doloso",
+          "articles": [
+            "302",
+            "307",
+            "313",
+            "315",
+            "315 Bis",
+            "320",
+            "323"
+          ]
+        },
+        {
+          "name": "Genocidio",
+          "articles": [
+            "149 Bis"
+          ]
+        },
+        {
+          "name": "Violación",
+          "articles": [
+            "265",
+            "266",
+            "266 Bis"
+          ]
+        },
+        {
+          "name": "Traición a la patria",
+          "articles": [
+            "123",
+            "124",
+            "125",
+            "126"
+          ]
+        },
+        {
+          "name": "Espionaje",
+          "articles": [
+            "127",
+            "128"
+          ]
+        },
+        {
+          "name": "Terrorismo internacional",
+          "articles": [
+            "148 Bis",
+            "148 Ter",
+            "148 Quáter"
+          ]
+        },
+        {
+          "name": "Terrorismo",
+          "articles": [
+            "139",
+            "139 Bis",
+            "139 Ter"
+          ]
+        },
+        {
+          "name": "Sabotaje",
+          "articles": [
+            "140"
+          ]
+        },
+        {
+          "name": "Corrupción de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo",
+          "articles": [
+            "201"
+          ]
+        },
+        {
+          "name": "Pornografía de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo",
+          "articles": [
+            "202"
+          ]
+        },
+        {
+          "name": "Turismo sexual en contra de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo",
+          "articles": [
+            "203",
+            "203 Bis"
+          ]
+        },
+        {
+          "name": "Lenocinio de personas menores de dieciocho años de edad o de personas que no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad para resistirlo",
+          "articles": [
+            "204"
+          ]
+        },
+        {
+          "name": "Pederastia",
+          "articles": [
+            "209 Bis"
+          ]
+        },
+        {
+          "name": "Tráfico de menores",
+          "articles": [
+            "366 Ter"
+          ]
+        },
+        {
+          "name": "Contra la salud",
+          "articles": [
+            "194",
+            "195",
+            "196 Ter",
+            "197",
+            "198"
+          ]
+        },
+        {
+          "name": "Abuso o violencia sexual contra menores",
+          "articles": [
+            "261",
+            "260"
+          ]
+        },
+        {
+          "name": "Feminicidio",
+          "articles": [
+            "325"
+          ]
+        },
+        {
+          "name": "Robo a casa habitación",
+          "articles": [
+            "381 Bis"
+          ]
+        },
+        {
+          "name": "Ejercicio abusivo de funciones",
+          "articles": [
+            "220"
+          ]
+        },
+        {
+          "name": "Enriquecimiento ilícito",
+          "articles": [
+            "224"
+          ]
+        },
+        {
+          "name": "Robo al transporte de carga",
+          "articles": [
+            "376 Ter",
+            "381"
+          ]
+        }
+      ]
+    }
+  ]
+}

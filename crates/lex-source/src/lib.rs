@@ -141,6 +141,77 @@ pub fn load_config(path: &Path) -> Result<SourceConfig> {
     Ok(config)
 }
 
+/// A batch-ingestion manifest under `batches/`: the ordered set of
+/// instruments a bulk-ingestion run scaffolds and processes. Folded from
+/// the retired vault tooling's import manifests; `blocked` entries record
+/// sources that must not be fetched until a reviewer clears them.
+#[derive(Debug, Clone, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct BatchManifest {
+    pub schema_version: String,
+    pub batch_id: String,
+    pub description: String,
+    #[serde(default)]
+    pub notes: Vec<String>,
+    #[serde(default)]
+    pub blocked: Vec<BlockedInstrument>,
+    pub instruments: Vec<BatchInstrument>,
+    /// Analyst-predicted cross-reference expectations, kept as a test
+    /// oracle for the reference graph.
+    #[serde(default)]
+    pub expected_edges: Vec<String>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct BlockedInstrument {
+    pub slug: String,
+    pub title: String,
+    pub reason: String,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+#[serde(deny_unknown_fields)]
+pub struct BatchInstrument {
+    pub slug: String,
+    /// Canonical short name when it differs from the uppercased slug
+    /// (for example `CCom`, `LAmp`).
+    #[serde(default)]
+    pub short_name: Option<String>,
+    pub title: String,
+    #[serde(rename = "type")]
+    pub instrument_type: String,
+    pub adapter: String,
+    pub status: String,
+    #[serde(default)]
+    pub ref_page: Option<Url>,
+    pub source_pdf: Url,
+    #[serde(default)]
+    pub publisher: Option<String>,
+    #[serde(default)]
+    pub role: Option<String>,
+    #[serde(default)]
+    pub parent_law: Option<String>,
+}
+
+impl BatchInstrument {
+    /// The canonical short name: the explicit override when present,
+    /// otherwise the uppercased slug.
+    #[must_use]
+    pub fn short_name(&self) -> String {
+        self.short_name
+            .clone()
+            .unwrap_or_else(|| self.slug.to_uppercase())
+    }
+}
+
+pub fn load_batch_manifest(path: &Path) -> Result<BatchManifest> {
+    let bytes = fs::read(path)
+        .with_context(|| format!("failed to read batch manifest {}", path.display()))?;
+    serde_json::from_slice(&bytes)
+        .with_context(|| format!("invalid batch manifest {}", path.display()))
+}
+
 #[must_use]
 pub fn discover(config: &SourceConfig) -> serde_json::Value {
     serde_json::json!({
@@ -337,7 +408,40 @@ fn git_commit() -> Option<String> {
 
 #[cfg(test)]
 mod tests {
-    use super::{SourceFormat, sha256_hex, verify_format};
+    use super::{SourceFormat, load_batch_manifest, sha256_hex, verify_format};
+
+    #[test]
+    fn all_committed_batch_manifests_deserialize() {
+        let batches_dir = std::path::Path::new(env!("CARGO_MANIFEST_DIR")).join("../../batches");
+        let mut manifest_count = 0;
+        let mut slugs = std::collections::BTreeSet::new();
+        for entry in std::fs::read_dir(&batches_dir).expect("batches/ directory") {
+            let path = entry.expect("directory entry").path();
+            if path.extension().is_none_or(|ext| ext != "json") {
+                continue;
+            }
+            let manifest = load_batch_manifest(&path)
+                .unwrap_or_else(|error| panic!("{}: {error:#}", path.display()));
+            assert_eq!(manifest.schema_version, "0.1.0", "{}", path.display());
+            assert_eq!(
+                format!("{}.json", manifest.batch_id),
+                path.file_name().unwrap().to_string_lossy(),
+                "batch_id must match its filename"
+            );
+            assert!(!manifest.instruments.is_empty(), "{}", path.display());
+            for instrument in &manifest.instruments {
+                assert!(
+                    slugs.insert(instrument.slug.clone()),
+                    "duplicate slug {} in {}",
+                    instrument.slug,
+                    path.display()
+                );
+            }
+            manifest_count += 1;
+        }
+        assert_eq!(manifest_count, 26, "expected 26 committed batch manifests");
+        assert_eq!(slugs.len(), 135, "expected 135 unique instruments");
+    }
 
     #[test]
     fn computes_known_sha256() {

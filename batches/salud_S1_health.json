@@ -1,0 +1,81 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "salud_S1_health",
+  "description": "S1 health: LGS hub plus materia reglamentos and institutos nacionales.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [
+    {
+      "slug": "reg-lgs-insumos",
+      "title": "Reglamento de Insumos para la Salud",
+      "reason": "Not listed in Diputados reglamentos-de-leyes index; needs official source resolution."
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "lgs",
+      "title": "LEY General de Salud",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgs.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf"
+    },
+    {
+      "slug": "reg-lgs-investigacion",
+      "title": "REGLAMENTO de la Ley General de Salud en Materia de Investigación para la Salud",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf"
+    },
+    {
+      "slug": "reg-lgs-mp",
+      "title": "REGLAMENTO de la Ley General de Salud en Materia de Publicidad",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MP.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MP.pdf"
+    },
+    {
+      "slug": "reg-lgs-msi",
+      "title": "REGLAMENTO de la Ley General de Salud en Materia de Sanidad Internacional",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MSI.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MSI.pdf"
+    },
+    {
+      "slug": "reg-lgs-mt",
+      "title": "REGLAMENTO de la Ley General de Salud en Materia de Trasplantes",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MT.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MT.pdf"
+    },
+    {
+      "slug": "reg-lgs-mcsaeps",
+      "title": "REGLAMENTO de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSAEPS_281204.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSAEPS_281204.pdf"
+    },
+    {
+      "slug": "lins",
+      "title": "LEY de los Institutos Nacionales de Salud",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lins.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf"
+    }
+  ]
+}

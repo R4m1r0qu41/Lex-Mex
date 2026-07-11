@@ -1,0 +1,75 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "penal_P2_security",
+  "description": "P2 security and organized crime.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgsnsp",
+      "title": "LEY General del Sistema Nacional de Seguridad Pública",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsnsp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf"
+    },
+    {
+      "slug": "lfdo",
+      "title": "LEY Federal contra la Delincuencia Organizada",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcdo.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf"
+    },
+    {
+      "slug": "lsn",
+      "title": "LEY de Seguridad Nacional",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf"
+    },
+    {
+      "slug": "lgn",
+      "title": "LEY de la Guardia Nacional",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgn.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf"
+    },
+    {
+      "slug": "reg-lgn",
+      "title": "REGLAMENTO de la Ley de la Guardia Nacional",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf"
+    },
+    {
+      "slug": "lnrd",
+      "title": "LEY Nacional del Registro de Detenciones",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnrd.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf"
+    },
+    {
+      "slug": "lnuf",
+      "title": "LEY Nacional sobre el Uso de la Fuerza",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnuf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf"
+    }
+  ]
+}

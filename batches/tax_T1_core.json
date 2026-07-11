@@ -1,0 +1,75 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "tax_T1_core",
+  "description": "T1 federal tax core: CFF hub plus ISR/IVA/IEPS laws and reglamentos.",
+  "notes": [
+    "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "cff",
+      "title": "CÓDIGO Fiscal de la Federación",
+      "type": "codigo",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf"
+    },
+    {
+      "slug": "lisr",
+      "title": "LEY del Impuesto sobre la Renta",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lisr.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf"
+    },
+    {
+      "slug": "reg-lisr",
+      "title": "REGLAMENTO de la Ley del Impuesto sobre la Renta",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf"
+    },
+    {
+      "slug": "liva",
+      "title": "LEY del Impuesto al Valor Agregado",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/liva.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf"
+    },
+    {
+      "slug": "reg-liva",
+      "title": "REGLAMENTO de la Ley del Impuesto al Valor Agregado",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIVA_250914.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIVA_250914.pdf"
+    },
+    {
+      "slug": "lieps",
+      "title": "LEY del Impuesto Especial sobre Producción y Servicios",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lieps.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf"
+    },
+    {
+      "slug": "reg-lieps",
+      "title": "REGLAMENTO de la Ley del Impuesto Especial sobre Producción y Servicios",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEPS.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEPS.pdf"
+    }
+  ]
+}
