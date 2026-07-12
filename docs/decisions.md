@@ -1,5 +1,39 @@
 # Architecture decisions
 
+## 2026-07-12 — Reference-graph rules for bulk código ingestion
+
+Ingesting the foundational codes (CCom, CPF, CNPP, CFPC, LAmp, LBM,
+LGTOC, LTOSF) surfaced reference-resolution and structural cases the
+single-statute slice never hit. The rules settled here:
+
+- **A citation classified as internal that resolves to no existing
+  provision is dropped, not committed.** A dangling internal edge is a
+  broken link, almost always a still-external citation this pass could
+  not name — for example CNPP article 167's offense catalog, whose
+  "Código Penal Federal" context is declared once at the top and
+  resolves only through the named-offense authority table (wiring
+  deferred to the penal batch). Dropping keeps the graph free of broken
+  links; a genuinely missing article surfaces through the frozen count
+  baseline instead. Cross-instrument edges (target is another
+  instrument) are still emitted when unresolved, so a configured
+  external target that does not exist still fails validation. The three
+  committed instruments have no unresolved internal edges, so they are
+  byte-identical.
+- **Reference citations recognize compound identifiers (`95 Bis 3`),
+  hyphenated qualifiers (`156-Bis`), and the adjectival Constitution
+  reference (`el artículo 134 constitucional`).**
+- **A backward "preceding-law" context scan was tried and rejected:** it
+  fixed the "De la Ley X, los artículos N; N Bis; …" list pattern but
+  mis-attached a prior citation's law name to a following citation
+  (`artículo 20 de la Ley y … el artículo 11`), perturbing the audited
+  DCG graphs. The drop rule above reaches the same corpus outcome (no
+  edge) without that risk.
+- **Reform-decree transitorios are kept out of the instrument by two
+  guards:** a second transitory-section header, and a repeated ordinal,
+  each end the statute's transitory section, since a statute has one
+  section with unique ordinals (LAmp interleaves several decrees'
+  `PRIMERO…` sets before the reform-appendix marker).
+
 ## 2026-07-11 — The repository is the only ingestion and processing gate
 
 Between 2026-07-08 and 2026-07-10, a Python tool suite living inside the

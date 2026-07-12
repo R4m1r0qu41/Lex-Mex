@@ -122,8 +122,10 @@ impl ReferencePatterns {
                 // A hyphenated qualifier (`156-Bis`) is tried before the
                 // single-letter suffix (`70-A`) so the letter rule does
                 // not swallow the `B` of `-Bis`; a letter may still carry
-                // a following space-separated qualifier (`15-B Bis`).
-                r"(?i)(?:\d{1,3}(?:,\d{3})+|\d{1,4})(?:-(?:Bis|Ter|Qu[áa]ter)|(?:-[A-Z])?(?:\s+(?:Bis|Ter|Qu[áa]ter))?)",
+                // a following space-separated qualifier (`15-B Bis`); and a
+                // qualifier may carry a compound trailing number
+                // (`95 Bis 3`, `168 Bis 10`).
+                r"(?i)(?:\d{1,3}(?:,\d{3})+|\d{1,4})(?:-(?:Bis|Ter|Qu[áa]ter)(?:\s+\d{1,3})?|(?:-[A-Z])?(?:\s+(?:Bis|Ter|Qu[áa]ter)(?:\s+\d{1,3})?)?)",
             )?,
             separator: Regex::new(
                 r"(?ix)^(?:
@@ -289,6 +291,27 @@ pub fn extract_references(
             options,
             known_targets,
         ));
+    }
+    // A citation classified as internal that resolves to no existing
+    // provision is a broken link, not canonical data: almost always a
+    // still-external citation whose governing instrument this pass could
+    // not name (for example CNPP article 167's offense catalog, whose
+    // "Código Penal Federal" context is declared once at the top and
+    // resolves only through the named-offense authority table). Dropping
+    // it keeps the graph free of dangling internal edges; a genuinely
+    // missing article surfaces instead through the frozen count baseline.
+    // Cross-instrument edges (target is another instrument) are kept even
+    // when unresolved, so a configured external target that does not exist
+    // still fails validation.
+    let own_instrument_id = provisions
+        .first()
+        .map(|provision| provision.instrument_id.as_str())
+        .or(title_source.map(|(instrument_id, _)| instrument_id));
+    if let Some(own_instrument_id) = own_instrument_id {
+        references.retain(|edge| {
+            edge.resolution_status != ReferenceResolutionStatus::Unresolved
+                || edge.target_instrument_id != own_instrument_id
+        });
     }
     references.sort_by(|left, right| {
         left.source_provision_id
@@ -710,6 +733,8 @@ const EXTERNAL_INSTRUMENT_MARKERS: &[&str] = &[
     "de la ley ",
     "del código ",
     "de la constitución ",
+    // Adjectival Constitution reference: "el artículo 134 constitucional".
+    " constitucional",
     "del reglamento ",
     "de dicha ley",
     "de esa ley",
@@ -1731,6 +1756,11 @@ mod tests {
             format!("{LRITF_ID}:article:54"),
             format!("{LRITF_ID}:article:56"),
             format!("{LRITF_ID}:transitory:octava"),
+            // Article 15 exists in the full DCG though not in this sample;
+            // its internal citation resolves in production and so must be
+            // a known target here, otherwise the dropped-unresolved rule
+            // removes the edge under test.
+            format!("{DCG_ID}:article:15"),
         ] {
             known_targets.insert(target);
         }

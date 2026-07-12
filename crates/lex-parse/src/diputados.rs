@@ -490,12 +490,19 @@ pub fn parse_diputados(
     };
     let mut in_statute_transitories = false;
     let mut last_article_base: Option<u64> = None;
+    let mut seen_ordinals: std::collections::HashSet<String> = std::collections::HashSet::new();
 
     for block in blocks {
         if is_stop_marker(&block, options) {
             break;
         }
         if is_transitory_section_header(&block) {
+            // A statute has a single transitory section; a second header
+            // is a reform decree's, so its transitorios (repeating
+            // PRIMERO, SEGUNDO, …) do not belong to the instrument.
+            if in_statute_transitories {
+                break;
+            }
             if let Some(builder) = current.take() {
                 provisions.push(builder.finish(&options.instrument_id, publication_date));
             }
@@ -517,6 +524,12 @@ pub fn parse_diputados(
                 break;
             }
             if let Some((ordinal, body)) = parse_transitory_start(&block, &ordinals) {
+                // A repeated ordinal starts a reform decree's transitorios
+                // (unmarked by a header); the instrument's own transitorios
+                // are unique, so stop rather than duplicate them.
+                if !seen_ordinals.insert(ordinal.to_uppercase()) {
+                    break;
+                }
                 if let Some(builder) = current.take() {
                     provisions.push(builder.finish(&options.instrument_id, publication_date));
                 }
