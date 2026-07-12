@@ -19,9 +19,9 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el 2% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican:
 
-I. Por el requerimiento señalado en el primer párrafo del Artículo 151 de este Código.
+I. Por el requerimiento señalado en el primer párrafo del Artículo [151](articulo-151.md) de este Código.
 
-II. Por la de embargo, incluyendo los señalados en los artículos 41, fracción II y 141, fracción VI de este Código. Fracción reformada DOF 07-11-2025
+II. Por la de embargo, incluyendo los señalados en los artículos [41](articulo-41.md), fracción II y [141](articulo-141.md), fracción VI de este Código. Fracción reformada DOF 07-11-2025
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
 
@@ -29,7 +29,7 @@ Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferio
 
 En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de $97,880.00. Cantidad del párrafo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 41, fracción II y 141, fracción VI, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles enajenados o adjudicados a favor de la Federación en los términos de lo establecido por el artículo 191 de este Código, y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen a los bienes que sean objeto de remate. Párrafo reformado DOF 07-11-2025
+Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos [41](articulo-41.md), fracción II y [141](articulo-141.md), fracción VI, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles enajenados o adjudicados a favor de la Federación en los términos de lo establecido por el artículo [191](articulo-191.md) de este Código, y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen a los bienes que sean objeto de remate. Párrafo reformado DOF 07-11-2025
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
 

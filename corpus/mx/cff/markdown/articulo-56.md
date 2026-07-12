@@ -27,9 +27,9 @@ III. A partir de la información que proporcionen terceros a solicitud de las au
 
 IV. Con otra información obtenida por las autoridades fiscales en el ejercicio de sus facultades de comprobación.
 
-V. Utilizando medios indirectos de la investigación económica o de cualquier otra clase. VI. Considerando los ingresos y el valor de los actos o actividades comprobados de conformidad con la fracción X del artículo 42 de este Código, para lo cual se sumará el monto diario que representen en el periodo verificado, según corresponda, y se dividirá entre el número total de días verificados. El resultado así obtenido será el promedio diario de ingresos brutos o del valor de los actos o actividades, respectivamente, que se multiplicará por el número de días que comprenda el periodo o ejercicio sujeto a revisión para la determinación presuntiva a que se refiere este artículo.
+V. Utilizando medios indirectos de la investigación económica o de cualquier otra clase. VI. Considerando los ingresos y el valor de los actos o actividades comprobados de conformidad con la fracción X del artículo [42](articulo-42.md) de este Código, para lo cual se sumará el monto diario que representen en el periodo verificado, según corresponda, y se dividirá entre el número total de días verificados. El resultado así obtenido será el promedio diario de ingresos brutos o del valor de los actos o actividades, respectivamente, que se multiplicará por el número de días que comprenda el periodo o ejercicio sujeto a revisión para la determinación presuntiva a que se refiere este artículo.
 
-VII. Para efectos del artículo 55, fracción VII de este Código:
+VII. Para efectos del artículo [55](articulo-55.md), fracción VII de este Código:
 
 a) Tratándose de gasolinas, diésel, gas natural para combustión automotriz o gas licuado de petróleo para combustión automotriz:
 

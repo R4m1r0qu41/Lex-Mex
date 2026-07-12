@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 53-C
 
-Con relación a las facultades de comprobación previstas en el artículo 42, fracciones II, III y IX de este Código, las autoridades fiscales podrán revisar uno o más rubros o conceptos específicos, correspondientes a una o más contribuciones o aprovechamientos, que no se hayan revisado anteriormente, sin más limitación que lo que dispone el artículo 67 de este Código.
+Con relación a las facultades de comprobación previstas en el artículo [42](articulo-42.md), fracciones II, III y IX de este Código, las autoridades fiscales podrán revisar uno o más rubros o conceptos específicos, correspondientes a una o más contribuciones o aprovechamientos, que no se hayan revisado anteriormente, sin más limitación que lo que dispone el artículo [67](articulo-67.md) de este Código.
 
 Cuando se comprueben hechos diferentes la autoridad fiscal podrá volver a revisar los mismos rubros o conceptos específicos de una contribución o aprovechamiento por el mismo periodo y en su caso, determinar contribuciones o aprovechamientos omitidos que deriven de dichos hechos.
 

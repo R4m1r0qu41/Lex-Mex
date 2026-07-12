@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 143
 
-Las garantías constituidas para asegurar el interés fiscal a que se refiere el artículo 141, fracciones III, V y VI de este Código, se harán efectivas a través del procedimiento administrativo de ejecución. Párrafo reformado DOF 07-11-2025
+Las garantías constituidas para asegurar el interés fiscal a que se refiere el artículo [141](articulo-141.md), fracciones III, V y VI de este Código, se harán efectivas a través del procedimiento administrativo de ejecución. Párrafo reformado DOF 07-11-2025
 
 Si la garantía consiste en depósito de dinero en alguna entidad financiera o sociedad cooperativa de ahorro y préstamo, una vez que el crédito fiscal quede firme se ordenará su aplicación por la autoridad fiscal.
 

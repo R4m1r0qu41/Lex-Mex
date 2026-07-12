@@ -25,7 +25,7 @@ Este delito se investigará y perseguirá independientemente del estado en que s
 
 Asimismo, la ejecución de este delito puede dar lugar a la causación de un daño material a la Hacienda Federal, el cual deberá ser objeto de reparación. Párrafo adicionado DOF 07-11-2025 Se sancionará con las mismas penas, a las plataformas de servicios digitales a que se refiere la Ley del Impuesto al Valor Agregado, así como a los titulares de las mismas que permitan la publicación de anuncios para la adquisición o enajenación de comprobantes fiscales que amparen operaciones inexistentes, falsas, actos jurídicos simulados o comprobantes fiscales falsos, así como al que a sabiendas permita o publique a través de dichas plataformas o por cualquier otro medio, los citados anuncios. Párrafo reformado DOF 07-11-2025
 
-Cuando el delito sea cometido por un servidor público en ejercicio de sus funciones, será destituido del empleo e inhabilitado de uno a diez años para desempeñar cargo o comisión públicos, en adición a la agravante señalada en el artículo 97 de este Código.
+Cuando el delito sea cometido por un servidor público en ejercicio de sus funciones, será destituido del empleo e inhabilitado de uno a diez años para desempeñar cargo o comisión públicos, en adición a la agravante señalada en el artículo [97](articulo-97.md) de este Código.
 
 Se requerirá querella por parte de la Secretaría de Hacienda y Crédito Público, para proceder penalmente por este delito.
 

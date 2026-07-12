@@ -27,6 +27,6 @@ Para los efectos de lo dispuesto en el párrafo anterior, las autoridades fiscal
 
 a) Los precios corrientes en el mercado interior o exterior, y en defecto de éstos, el de avalúo que practiquen u ordenen practicar las autoridades fiscales;
 
-b) El costo de los bienes o servicios, dividido entre el resultado de restar a la unidad el por ciento de utilidad bruta. Se entenderá como por ciento de utilidad bruta, ya sea la determinada de acuerdo con el artículo 60 de este Código o, conforme a lo establecido en el artículo [58](articulo-58.md) del mismo. Para los efectos de lo previsto por este inciso, el costo se determinará según los principios de contabilidad generalmente aceptados;
+b) El costo de los bienes o servicios, dividido entre el resultado de restar a la unidad el por ciento de utilidad bruta. Se entenderá como por ciento de utilidad bruta, ya sea la determinada de acuerdo con el artículo [60](articulo-60.md) de este Código o, conforme a lo establecido en el artículo [58](articulo-58.md) del mismo. Para los efectos de lo previsto por este inciso, el costo se determinará según los principios de contabilidad generalmente aceptados;
 
-c) El precio en que un contribuyente enajene bienes adquiridos de otra persona, multiplicado por el resultado de disminuir a la unidad el coeficiente que para determinar la utilidad fiscal de dicho contribuyente le correspondería conforme al artículo 58 de este Código.
+c) El precio en que un contribuyente enajene bienes adquiridos de otra persona, multiplicado por el resultado de disminuir a la unidad el coeficiente que para determinar la utilidad fiscal de dicho contribuyente le correspondería conforme al artículo [58](articulo-58.md) de este Código.

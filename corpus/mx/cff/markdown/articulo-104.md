@@ -25,9 +25,9 @@ II. De tres a nueve años, si el monto de las contribuciones o de las cuotas com
 
 III. De tres a nueve años, cuando se trate de mercancías cuyo tráfico haya sido prohibido por el Ejecutivo Federal en uso de las facultades señaladas en el segundo párrafo del artículo 131 de la Constitución Política de los Estados Unidos Mexicanos. En los demás casos de mercancías de tráfico prohibido, la sanción será de tres a nueve años de prisión.
 
-IV. De tres a seis años, cuando no sea posible determinar el monto de las contribuciones o cuotas compensatorias omitidas con motivo del contrabando o se trate de mercancías que requiriendo de permiso de autoridad competente no cuenten con él o cuando se trate de los supuestos previstos en los artículos 103, fracciones IX, XIV, XIX, XX, XXII y XXIII y 105, fracciones V, XII, XIII, XV, XVI y XVII de este Código. Fracción reformada DOF 12-11-2021
+IV. De tres a seis años, cuando no sea posible determinar el monto de las contribuciones o cuotas compensatorias omitidas con motivo del contrabando o se trate de mercancías que requiriendo de permiso de autoridad competente no cuenten con él o cuando se trate de los supuestos previstos en los artículos [103](articulo-103.md), fracciones IX, XIV, XIX, XX, XXII y XXIII y [105](articulo-105.md), fracciones V, XII, XIII, XV, XVI y XVII de este Código. Fracción reformada DOF 12-11-2021
 
-V. De cinco a ocho años, cuando se trate de los supuestos previstos en el artículo 103, fracciones XXIV, XXV, XXVI y XXVII de este Código. Fracción adicionada DOF 07-11-2025
+V. De cinco a ocho años, cuando se trate de los supuestos previstos en el artículo [103](articulo-103.md), fracciones XXIV, XXV, XXVI y XXVII de este Código. Fracción adicionada DOF 07-11-2025
 
 Para determinar el valor de las mercancías y el monto de las contribuciones o cuotas compensatorias omitidas, sólo se tomarán en cuenta los daños ocasionados antes del contrabando.
 

@@ -23,6 +23,6 @@ I. Con ánimo de lucro adquiera, reciba, traslade u oculte el objeto del delito 
 
 II. Ayude en cualquier forma al imputado para eludir las investigaciones de la autoridad o sustraerse de la acción de esta u oculte, altere, destruya, o haga desaparecer los indicios, evidencia, vestigios, objetos, instrumentos o productos del hecho delictivo o asegure para el imputado el objeto o provecho del mismo.
 
-III. Cuando derivado de la elaboración del dictamen de estados financieros, el contador público inscrito haya tenido conocimiento de un hecho probablemente constitutivo de delito sin haberlo informado en términos del artículo 52, fracción III, tercer párrafo de este Código. Fracción adicionada DOF 12-11-2021
+III. Cuando derivado de la elaboración del dictamen de estados financieros, el contador público inscrito haya tenido conocimiento de un hecho probablemente constitutivo de delito sin haberlo informado en términos del artículo [52](articulo-52.md), fracción III, tercer párrafo de este Código. Fracción adicionada DOF 12-11-2021
 
 El encubrimiento a que se refiere este Artículo se sancionará con prisión de tres meses a seis años.

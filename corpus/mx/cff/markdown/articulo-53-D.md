@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 53-D
 
-En relación con las facultades de comprobación previstas en el artículo 42, fracciones III, V y VI de este Código, las autoridades fiscales podrán auxiliarse de terceros para la toma de muestras o para el análisis, identificación o cuantificación de bienes o mercancías de difícil identificación o manejo.
+En relación con las facultades de comprobación previstas en el artículo [42](articulo-42.md), fracciones III, V y VI de este Código, las autoridades fiscales podrán auxiliarse de terceros para la toma de muestras o para el análisis, identificación o cuantificación de bienes o mercancías de difícil identificación o manejo.
 
 La toma de muestras se desarrollará conforme al procedimiento siguiente:
 
@@ -33,6 +33,6 @@ Una muestra se utilizará para su análisis, otra quedará bajo custodia de la a
 
 III. La autoridad fiscal levantará acta de muestreo.
 
-La autoridad fiscal notificará el resultado correspondiente al interesado antes del levantamiento de la última acta parcial o de la emisión de la resolución a que se refiere el artículo 42, fracción V, inciso b) de este Código, a fin de que éste pueda aportar pruebas y formular los alegatos que a su derecho convenga en el plazo establecido en los artículos 46, fracción IV, segundo párrafo o 49, fracción VI de este Código, según corresponda.
+La autoridad fiscal notificará el resultado correspondiente al interesado antes del levantamiento de la última acta parcial o de la emisión de la resolución a que se refiere el artículo [42](articulo-42.md), fracción V, inciso b) de este Código, a fin de que éste pueda aportar pruebas y formular los alegatos que a su derecho convenga en el plazo establecido en los artículos [46](articulo-46.md), fracción IV, segundo párrafo o [49](articulo-49.md), fracción VI de este Código, según corresponda.
 
 Los terceros que auxilien a las autoridades fiscales en los términos de este artículo, deberán cumplir los requisitos y apegar su actuación a lo establecido en las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.

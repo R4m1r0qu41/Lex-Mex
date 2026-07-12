@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 121
 
-El recurso deberá presentarse a través del buzón tributario, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación, excepto lo dispuesto en el artículo 127 de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que en el mismo se señala.
+El recurso deberá presentarse a través del buzón tributario, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación, excepto lo dispuesto en el artículo [127](articulo-127.md) de este Código, en que el escrito del recurso deberá presentarse dentro del plazo que en el mismo se señala.
 
 El escrito de interposición del recurso también podrá enviarse a la autoridad competente en razón del domicilio o a la que emitió o ejecutó el acto, a través de los medios que autorice el Servicio de Administración Tributaria mediante reglas de carácter general.
 

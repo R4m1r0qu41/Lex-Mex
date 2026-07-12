@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 82-G
 
-Son infracciones relacionadas con la obligación de los proveedores de certificación autorizados, de cumplir con las especificaciones informáticas que determine el Servicio de Administración Tributaria para la validación y envío de los comprobantes fiscales digitales por Internet a que se refiere el inciso a), del primer párrafo del artículo 29 Bis de este Código, las siguientes:
+Son infracciones relacionadas con la obligación de los proveedores de certificación autorizados, de cumplir con las especificaciones informáticas que determine el Servicio de Administración Tributaria para la validación y envío de los comprobantes fiscales digitales por Internet a que se refiere el inciso a), del primer párrafo del artículo [29 Bis](articulo-29-Bis.md) de este Código, las siguientes:
 
 I. La estructura del estándar que determine el Servicio de Administración Tributaria del comprobante fiscal, no cumpla con la documentación técnica conforme a las reglas de carácter general que emita el Servicio de Administración Tributaria.
 

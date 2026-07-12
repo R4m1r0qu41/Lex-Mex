@@ -19,7 +19,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
 
-Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el séptimo párrafo del Artículo 21 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el séptimo párrafo del Artículo [21](articulo-21.md) de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
 Los aprovechamientos por concepto de multas impuestas por infracciones a las disposiciones legales o reglamentarias que no sean de carácter fiscal, podrán ser destinados a cubrir los gastos de operación e inversión de las dependencias encargadas de aplicar o vigilar el cumplimiento de las disposiciones cuya infracción dio lugar a la imposición de la multa, cuando dicho destino específico así lo establezcan las disposiciones jurídicas aplicables.
 

@@ -45,7 +45,7 @@ Las personas físicas y morales que presenten algún documento ante las autorida
 
 No son sujetos obligados en términos del presente artículo, los socios o accionistas residentes en el extranjero de personas morales residentes en México, así como los asociados residentes en el extranjero de asociaciones en participación, siempre que la persona moral o el asociante, residentes en México, presente ante las autoridades fiscales dentro de los tres primeros meses siguientes al cierre de cada ejercicio, una relación de los socios, accionistas o asociados, residentes en el extranjero, en la que se indique su domicilio, residencia fiscal y número de identificación fiscal.
 
-Las personas físicas mayores de edad deberán solicitar su inscripción al Registro Federal de Contribuyentes. Tratándose de personas físicas sin actividades económicas, dicha inscripción se realizará bajo el rubro “Inscripción de personas físicas sin actividad económica”, conforme al Reglamento de este Código, por lo que no adquirirán la obligación de presentar declaraciones o pagar contribuciones y tampoco les serán aplicables sanciones, incluyendo la prevista en el artículo 80, fracción I, de este Código. Párrafo adicionado DOF 12-11-2021
+Las personas físicas mayores de edad deberán solicitar su inscripción al Registro Federal de Contribuyentes. Tratándose de personas físicas sin actividades económicas, dicha inscripción se realizará bajo el rubro “Inscripción de personas físicas sin actividad económica”, conforme al Reglamento de este Código, por lo que no adquirirán la obligación de presentar declaraciones o pagar contribuciones y tampoco les serán aplicables sanciones, incluyendo la prevista en el artículo [80](articulo-80.md), fracción I, de este Código. Párrafo adicionado DOF 12-11-2021
 
 B. Catálogo general de obligaciones:
 
@@ -73,13 +73,13 @@ X. Presentar la declaración informativa relativa a las operaciones consignadas 
 
 C. Facultades de la autoridad fiscal:
 
-I. Llevar a cabo verificaciones conforme al procedimiento establecido en el artículo 49 de este Código, sin que por ello se considere que inician sus facultades de comprobación, para constatar los siguientes datos:
+I. Llevar a cabo verificaciones conforme al procedimiento establecido en el artículo [49](articulo-49.md) de este Código, sin que por ello se considere que inician sus facultades de comprobación, para constatar los siguientes datos:
 
 a) Los proporcionados en el registro federal de contribuyentes, relacionados con la identidad, domicilio y demás datos que se hayan manifestado para los efectos de dicho registro;
 
 b) Los señalados en los comprobantes fiscales digitales por Internet, declaraciones, expedientes, documentos o bases de datos que lleven las autoridades fiscales, tengan en su poder o a las que tengan acceso. En la verificación de la existencia y localización del domicilio fiscal, las autoridades fiscales podrán utilizar servicios, medios tecnológicos o cualquier otra herramienta tecnológica que proporcionen georreferenciación, vistas panorámicas o satelitales, cuya información también podrá ser utilizada para la elaboración y diseño de un marco geográfico fiscal, así como para la actualización de la información en el Registro Federal de Contribuyentes referente al domicilio fiscal de los contribuyentes. Párrafo reformado DOF 12-11-2021
 
-II. Considerar como domicilio fiscal del contribuyente aquél en el que se verifique alguno de los supuestos establecidos en el artículo 10 de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
+II. Considerar como domicilio fiscal del contribuyente aquél en el que se verifique alguno de los supuestos establecidos en el artículo [10](articulo-10.md) de este Código, cuando el manifestado en las solicitudes y avisos a que se refiere este artículo no corresponda a alguno de los supuestos de dicho precepto.
 
 III. Establecer mediante reglas de carácter general, mecanismos simplificados de inscripción en el registro federal de contribuyentes, atendiendo a las características del régimen de tributación del contribuyente.
 
@@ -107,7 +107,7 @@ XII. Suspender las actividades o disminuir las obligaciones fiscales de los cont
 
 XIII. Cancelar el Registro Federal de Contribuyentes cuando, con base en la información que obre en sus sistemas o aquella proporcionada por otras autoridades o terceros, se acredite que los contribuyentes, durante los cinco ejercicios fiscales inmediatos anteriores, sin estar obligados a hacerlo no han presentado declaraciones, no han sido informados en las declaraciones presentadas por terceros, no han emitido ni recibido comprobantes fiscales, no han presentado avisos ante el Registro Federal de Contribuyentes, y no cuentan con créditos fiscales, en los términos que establezca el Servicio de Administración Tributaria mediante reglas de carácter general; asimismo, procederá la cancelación por defunción de las personas físicas. Fracción adicionada DOF 12-11-2021. Reformada DOF 07-11-2025
 
-XIV. Negar la inscripción de personas morales en el Registro Federal de Contribuyentes, cuando detecte que su representante legal conforme al artículo 19, primer párrafo de este Código, algún socio o accionista o cualquier persona que forme parte de su estructura orgánica, conforme a sus estatutos o legislación bajo la cual se constituyeron, se ubique en alguno de los supuestos establecidos en los artículos 17-H, fracciones X, XI, XII o XIII, o 69, decimosegundo párrafo, fracciones I a IV y IX de este Código y que no haya corregido su situación fiscal; o bien, que dicho representante, socio, accionista o persona forme parte de otra persona moral que se encuentre en alguno de los supuestos de los artículos y fracciones antes referidos que no haya corregido su situación fiscal.
+XIV. Negar la inscripción de personas morales en el Registro Federal de Contribuyentes, cuando detecte que su representante legal conforme al artículo [19](articulo-19.md), primer párrafo de este Código, algún socio o accionista o cualquier persona que forme parte de su estructura orgánica, conforme a sus estatutos o legislación bajo la cual se constituyeron, se ubique en alguno de los supuestos establecidos en los artículos [17-H](articulo-17-H.md), fracciones X, XI, XII o XIII, o [69](articulo-69.md), decimosegundo párrafo, fracciones I a IV y IX de este Código y que no haya corregido su situación fiscal; o bien, que dicho representante, socio, accionista o persona forme parte de otra persona moral que se encuentre en alguno de los supuestos de los artículos y fracciones antes referidos que no haya corregido su situación fiscal.
 
 Para efectos del párrafo anterior, el Servicio de Administración Tributaria, mediante reglas de carácter general, podrá establecer los requisitos y el procedimiento para validar la información proporcionada por las personas morales al momento de solicitar su inscripción. Fracción adicionada DOF 07-11-2025
 
@@ -117,11 +117,11 @@ I. Para efectos de la fracción I del apartado B del presente artículo, podrán
 
 II. Para efectos de las fracciones II y III del apartado B del presente artículo, se estará a lo siguiente:
 
-a) En caso de cambio de domicilio fiscal, las personas físicas y morales deberán presentar el aviso correspondiente dentro de los diez días siguientes al día en el que tenga lugar dicho cambio, salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo 50 de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación.
+a) En caso de cambio de domicilio fiscal, las personas físicas y morales deberán presentar el aviso correspondiente dentro de los diez días siguientes al día en el que tenga lugar dicho cambio, salvo que al contribuyente se le hayan iniciado facultades de comprobación y no se le haya notificado la resolución a que se refiere el artículo [50](articulo-50.md) de este Código, en cuyo caso deberá presentar el aviso previo a dicho cambio con cinco días de anticipación.
 
 b) En caso de que, dentro del citado ejercicio de facultades, el contribuyente no sea localizado en el domicilio que haya señalado para efectos del registro federal de contribuyentes, y presente un aviso de cambio de domicilio, la sola presentación del referido aviso de cambio no implicará que el contribuyente está localizado.
 
-c) Cuando por virtud de la verificación que realice el personal auxiliar designado por la autoridad fiscal, se concluya que el lugar señalado como domicilio fiscal no cumple con los requisitos del artículo 10 de este Código, el aviso de cambio de domicilio no surtirá efectos, sin que sea necesaria la emisión de alguna resolución. Dicha circunstancia se hará del conocimiento a los contribuyentes mediante buzón tributario.
+c) Cuando por virtud de la verificación que realice el personal auxiliar designado por la autoridad fiscal, se concluya que el lugar señalado como domicilio fiscal no cumple con los requisitos del artículo [10](articulo-10.md) de este Código, el aviso de cambio de domicilio no surtirá efectos, sin que sea necesaria la emisión de alguna resolución. Dicha circunstancia se hará del conocimiento a los contribuyentes mediante buzón tributario.
 
 III. Para efectos de la fracción V del apartado B del presente artículo, la persona moral deberá cerciorarse de que el registro proporcionado por el socio o accionista concuerde con el que aparece en la cédula respectiva.
 
@@ -139,7 +139,7 @@ IX. Para efectos de la fracción II del apartado B del presente artículo, los c
 
 a) No estar sujeto al ejercicio de facultades de comprobación, ni tener créditos fiscales a su cargo.
 
-b) No encontrarse incluido en los listados a que se refieren los artículos 69, 69-B y 69-B Bis de este Código.
+b) No encontrarse incluido en los listados a que se refieren los artículos [69](articulo-69.md), [69-B](articulo-69-B.md) y [69-B Bis](articulo-69-B-Bis.md) de este Código.
 
 c) Que el ingreso declarado, así como el impuesto retenido por el contribuyente, manifestados en las declaraciones de pagos provisionales, retenciones, definitivos o anuales, concuerden con los señalados en los comprobantes fiscales digitales por Internet, expedientes, documentos o bases de datos que lleven las autoridades fiscales, tengan en su poder o a las que tengan acceso.
 

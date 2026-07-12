@@ -21,7 +21,7 @@ En el recurso de revocación se admitirá toda clase de pruebas, excepto la test
 
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
-Cuando el recurrente anuncie que exhibirá las pruebas en los términos de lo previsto por el último párrafo del artículo 123 de este Código, tendrá un plazo de quince días para presentarlas, contado a partir del día siguiente al de dicho anuncio. La autoridad que conozca del recurso, para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, así como ordenar la práctica de cualquier diligencia.
+Cuando el recurrente anuncie que exhibirá las pruebas en los términos de lo previsto por el último párrafo del artículo [123](articulo-123.md) de este Código, tendrá un plazo de quince días para presentarlas, contado a partir del día siguiente al de dicho anuncio. La autoridad que conozca del recurso, para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, así como ordenar la práctica de cualquier diligencia.
 
 Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos, incluyendo los digitales; pero, si en los documentos públicos citados se contienen declaraciones de verdad o manifestaciones de hechos de particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
 

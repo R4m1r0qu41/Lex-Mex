@@ -31,11 +31,11 @@ Los contribuyentes podrán tramitar la obtención de un certificado de sello dig
 
 La tramitación de un certificado de sello digital sólo podrá efectuarse mediante formato electrónico que cuente con la firma electrónica avanzada de la persona solicitante.
 
-III. Cumplir los requisitos establecidos en el artículo 29-A de este Código, y los que el Servicio de Administración Tributaria establezca al efecto mediante reglas de carácter general, inclusive los complementos del comprobante fiscal digital por Internet, que se publicarán en el Portal de Internet del Servicio de Administración Tributaria. Fracción reformada DOF 12-11-2021
+III. Cumplir los requisitos establecidos en el artículo [29-A](articulo-29-A.md) de este Código, y los que el Servicio de Administración Tributaria establezca al efecto mediante reglas de carácter general, inclusive los complementos del comprobante fiscal digital por Internet, que se publicarán en el Portal de Internet del Servicio de Administración Tributaria. Fracción reformada DOF 12-11-2021
 
 IV. Remitir al Servicio de Administración Tributaria, antes de su expedición, el comprobante fiscal digital por Internet respectivo a través de los mecanismos digitales que para tal efecto determine dicho órgano desconcentrado mediante reglas de carácter general, con el objeto de que éste proceda a:
 
-a) Validar el cumplimiento de los requisitos establecidos en el artículo 29-A de este Código y de los contenidos en los complementos de los comprobantes fiscales digitales por Internet, que el Servicio de Administración Tributaria establezca mediante reglas de carácter general. Inciso reformado DOF 12-11-2021
+a) Validar el cumplimiento de los requisitos establecidos en el artículo [29-A](articulo-29-A.md) de este Código y de los contenidos en los complementos de los comprobantes fiscales digitales por Internet, que el Servicio de Administración Tributaria establezca mediante reglas de carácter general. Inciso reformado DOF 12-11-2021
 
 b) Asignar el folio del comprobante fiscal digital. c) Incorporar el sello digital del Servicio de Administración Tributaria. Reforma DOF 12-11-2021: Derogó de la fracción los entonces párrafos segundo al quinto
 

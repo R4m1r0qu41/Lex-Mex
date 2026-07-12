@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 53-A
 
-Cuando las autoridades fiscales revisen el dictamen y demás información a que se refiere el artículo 52 de este Código, y soliciten al contador público registrado que lo hubiera formulado información o documentación, la misma se deberá presentar en los siguientes plazos:
+Cuando las autoridades fiscales revisen el dictamen y demás información a que se refiere el artículo [52](articulo-52.md) de este Código, y soliciten al contador público registrado que lo hubiera formulado información o documentación, la misma se deberá presentar en los siguientes plazos:
 
 I. Seis días, tratándose de papeles de trabajo elaborados con motivo del dictamen realizado. Cuando el contador público registrado tenga su domicilio fuera de la localidad en que se ubica la autoridad solicitante, el plazo será de quince días.
 

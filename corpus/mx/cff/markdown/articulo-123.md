@@ -19,7 +19,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 El promovente deberá acompañar al escrito en que se interponga el recurso:
 
-I. Los documentos que acrediten su personalidad cuando actúe a nombre de otro o de personas morales, o en los que conste que ésta ya hubiera sido reconocida por la autoridad fiscal que emitió el acto o resolución impugnada o que se cumple con los requisitos a que se refiere el primer párrafo del artículo 19 de este Código.
+I. Los documentos que acrediten su personalidad cuando actúe a nombre de otro o de personas morales, o en los que conste que ésta ya hubiera sido reconocida por la autoridad fiscal que emitió el acto o resolución impugnada o que se cumple con los requisitos a que se refiere el primer párrafo del artículo [19](articulo-19.md) de este Código.
 
 II. El documento en que conste el acto impugnado.
 
@@ -37,4 +37,4 @@ La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren
 
 Cuando no se acompañe alguno de los documentos a que se refieren las fracciones anteriores, la autoridad fiscal requerirá al promovente para que los presente dentro del término de cinco días. Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a III, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV, las mismas se tendrán por no ofrecidas.
 
-Sin perjuicio de lo dispuesto en el párrafo anterior, en el escrito en que se interponga el recurso o dentro de los quince días posteriores, el recurrente podrá anunciar que exhibirá pruebas adicionales, en términos de lo previsto en el tercer párrafo del artículo 130 de este Código.
+Sin perjuicio de lo dispuesto en el párrafo anterior, en el escrito en que se interponga el recurso o dentro de los quince días posteriores, el recurrente podrá anunciar que exhibirá pruebas adicionales, en términos de lo previsto en el tercer párrafo del artículo [130](articulo-130.md) de este Código.

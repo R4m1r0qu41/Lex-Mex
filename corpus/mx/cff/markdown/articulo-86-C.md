@@ -17,4 +17,4 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 86-C
 
-Se considera infracción en la que pueden incurrir los contribuyentes conforme lo previsto en el artículo 17-K de este Código, el no habilitar el buzón tributario, no registrar o no mantener actualizados los medios de contacto conforme lo previsto en el mismo.
+Se considera infracción en la que pueden incurrir los contribuyentes conforme lo previsto en el artículo [17-K](articulo-17-K.md) de este Código, el no habilitar el buzón tributario, no registrar o no mantener actualizados los medios de contacto conforme lo previsto en el mismo.

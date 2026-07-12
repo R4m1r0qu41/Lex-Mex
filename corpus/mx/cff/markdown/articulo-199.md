@@ -59,6 +59,6 @@ Se entiende por esquemas reportables generalizados, aquéllos que buscan comerci
 
 El Servicio de Administración Tributaria emitirá reglas de carácter general para la aplicación de los anteriores párrafos. La Secretaría de Hacienda y Crédito Público mediante acuerdo secretarial emitirá los parámetros sobre montos mínimos respecto de los cuales no se aplicará lo dispuesto en este Capítulo.
 
-Para efectos de este Capítulo, se considera beneficio fiscal el valor monetario derivado de cualquiera de los supuestos señalados en el quinto párrafo del artículo 5o-A de este Código.
+Para efectos de este Capítulo, se considera beneficio fiscal el valor monetario derivado de cualquiera de los supuestos señalados en el quinto párrafo del artículo [5](articulo-5o.md)o-A de este Código.
 
 Adicionalmente, será reportable cualquier mecanismo que evite la aplicación de los párrafos anteriores de este artículo, en los mismos términos señalados en este Capítulo.

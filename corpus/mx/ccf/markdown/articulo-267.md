@@ -51,6 +51,6 @@ XVI. Cometer un cónyuge contra la persona o los bienes del otro, un acto que se
 
 XVII. El mutuo consentimiento.
 
-XVIII. La separación de los cónyuges por más de 2 años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos. Fracción adicionada DOF 27-12-1983 XIX.- Las conductas de violencia familiar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos. Para los efectos de este artículo se entiende por violencia familiar lo dispuesto por el artículo 323 ter de este Código. Fracción adicionada DOF 30-12-1997
+XVIII. La separación de los cónyuges por más de 2 años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos. Fracción adicionada DOF 27-12-1983 XIX.- Las conductas de violencia familiar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos. Para los efectos de este artículo se entiende por violencia familiar lo dispuesto por el artículo [323 ter](articulo-323-ter.md) de este Código. Fracción adicionada DOF 30-12-1997
 
 XX.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello. Fracción adicionada DOF 30-12-1997

@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 14-B
 
-Para los efectos de lo dispuesto en el artículo 14, fracción IX, de este Código, se considerará que no hay enajenación en los siguientes casos:
+Para los efectos de lo dispuesto en el artículo [14](articulo-14.md), fracción IX, de este Código, se considerará que no hay enajenación en los siguientes casos:
 
 I. En el caso de fusión, siempre que se cumpla con los siguientes requisitos:
 
@@ -65,7 +65,7 @@ Para los efectos del párrafo anterior, se entenderá por operaciones relevantes
 
 6. Se cambie la residencia fiscal de los socios o accionistas que recibieron acciones de la sociedad fusionante, escindente, escindida o escindidas, según corresponda, o bien, de la sociedad fusionante, escindente, escindida o escindidas, según corresponda, consignados en el dictamen. 7. Se transmita uno o varios segmentos del negocio de la sociedad fusionante, escindente, escindida o escindidas, según corresponda, consignados en el dictamen. Párrafo con numerales adicionado DOF 12-11-2021
 
-Cuando dentro de los cinco años posteriores a que se lleve a cabo la fusión o escisión, se celebre una operación relevante, la sociedad que subsista tratándose de escisión, la que surja con motivo de la fusión o la escindida que se designe, según corresponda, deberá presentar la información a que se refiere el artículo 31-A, primer párrafo, inciso d) de este Código. Párrafo adicionado DOF 12-11-2021
+Cuando dentro de los cinco años posteriores a que se lleve a cabo la fusión o escisión, se celebre una operación relevante, la sociedad que subsista tratándose de escisión, la que surja con motivo de la fusión o la escindida que se designe, según corresponda, deberá presentar la información a que se refiere el artículo [31-A](articulo-31-A.md), primer párrafo, inciso d) de este Código. Párrafo adicionado DOF 12-11-2021
 
 En los casos en los que la fusión o la escisión de sociedades formen parte de una reestructuración corporativa, se deberá cumplir, además, con los requisitos establecidos para las reestructuras en la Ley del Impuesto sobre la Renta.
 

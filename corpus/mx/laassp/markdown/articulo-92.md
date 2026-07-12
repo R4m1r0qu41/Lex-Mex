@@ -15,4 +15,4 @@ source_sha256: 883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc
 
 # Artículo 92
 
-La Secretaría aplicará las sanciones que procedan a las personas servidoras públicas que infrinjan las disposiciones de este ordenamiento, conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas.
+La [Secretaría](articulo-5.md) aplicará las sanciones que procedan a las personas servidoras públicas que infrinjan las disposiciones de este ordenamiento, conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas.

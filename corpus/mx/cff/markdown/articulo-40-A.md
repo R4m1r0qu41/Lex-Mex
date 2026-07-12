@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 40-A
 
-El aseguramiento precautorio de los bienes o de la negociación de los contribuyentes, responsables solidarios o terceros con ellos relacionados, a que se refiere la fracción III del artículo 40 de este Código, así como el levantamiento del mismo, en su caso, se realizará conforme a lo siguiente:
+El aseguramiento precautorio de los bienes o de la negociación de los contribuyentes, responsables solidarios o terceros con ellos relacionados, a que se refiere la fracción III del artículo [40](articulo-40.md) de este Código, así como el levantamiento del mismo, en su caso, se realizará conforme a lo siguiente:
 
 I. Se practicará una vez agotadas las medidas de apremio a que se refieren las fracciones I y II del artículo [40](articulo-40.md) de este ordenamiento, salvo en los casos siguientes:
 
@@ -29,7 +29,7 @@ c) Cuando una vez iniciadas las facultades de comprobación, exista riesgo inmin
 
 d) Cuando se detecten envases o recipientes que contengan bebidas alcohólicas que no tengan adheridos marbetes o precintos, o bien, teniéndolos adheridos éstos sean falsos o se encuentren alterados, y cuando no se acredite la legal posesión de los marbetes o precintos que tenga en su poder el contribuyente.
 
-II. La autoridad practicará el aseguramiento precautorio hasta por el monto de la determinación provisional de adeudos fiscales presuntos que ella misma realice, únicamente para estos efectos. Para lo anterior, se podrá utilizar cualquiera de los procedimientos establecidos en los artículos 56 y 57 de este Código.
+II. La autoridad practicará el aseguramiento precautorio hasta por el monto de la determinación provisional de adeudos fiscales presuntos que ella misma realice, únicamente para estos efectos. Para lo anterior, se podrá utilizar cualquiera de los procedimientos establecidos en los artículos [56](articulo-56.md) y [57](articulo-57.md) de este Código.
 
 El aseguramiento precautorio de los bienes o la negociación de los terceros relacionados con el contribuyente o responsable solidario se practicará hasta por la tercera parte del monto de las operaciones, actos o actividades que dicho tercero realizó con tal contribuyente o responsable solidario, o con el que la autoridad fiscal pretenda comprobar con las solicitudes de información o requerimientos de documentación dirigidos a éstos.
 
@@ -57,7 +57,7 @@ Cuando los contribuyentes, responsables solidarios o terceros con ellos relacion
 
 En el supuesto de que el valor del bien a asegurar conforme al orden establecido exceda del monto de la determinación provisional de adeudos fiscales presuntos efectuada por la autoridad, se podrá practicar el aseguramiento sobre el siguiente bien en el orden de prelación.
 
-Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros con ellos relacionados no sean localizados en su domicilio fiscal, desocupen o abandonen el mismo sin presentar el aviso de cambio correspondiente al registro federal de contribuyentes, hayan desaparecido o se ignore dicho domicilio, o cuando éstos hubieren sido sancionados en dos o más ocasiones por la comisión de alguna de las infracciones a que se refiere la fracción I del artículo 85 de este Código, el aseguramiento se practicará sobre los bienes a que se refiere el inciso a) de esta fracción.
+Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros con ellos relacionados no sean localizados en su domicilio fiscal, desocupen o abandonen el mismo sin presentar el aviso de cambio correspondiente al registro federal de contribuyentes, hayan desaparecido o se ignore dicho domicilio, o cuando éstos hubieren sido sancionados en dos o más ocasiones por la comisión de alguna de las infracciones a que se refiere la fracción I del artículo [85](articulo-85.md) de este Código, el aseguramiento se practicará sobre los bienes a que se refiere el inciso a) de esta fracción.
 
 En los casos a que se refiere el párrafo anterior, cuando el contribuyente, el responsable solidario o el tercero con ellos relacionado, no cuente con los bienes a que se refiere el inciso a) de esta fracción, el aseguramiento precautorio se podrá practicar indistintamente sobre cualquiera de los bienes señalados en la misma, sin necesidad de agotar el orden de prelación establecido.
 
@@ -79,11 +79,11 @@ En los casos en que la entidad financiera o sociedad cooperativa de ahorro y pr�
 
 Las entidades financieras y las sociedades cooperativas de ahorro y préstamo en ningún caso podrán negar al contribuyente la información acerca de la autoridad fiscal que ordenó el aseguramiento.
 
-V. Los bienes o la negociación de los contribuyentes, responsables solidarios o terceros con ellos relacionados, quedan asegurados desde el momento en que se practique el aseguramiento precautorio, incluso cuando posteriormente se ordenen, anoten o inscriban ante otras instituciones, organismos, registros o terceros. VI. La autoridad fiscal notificará al contribuyente, responsable solidario o tercero con ellos relacionado que se llevó a cabo el aseguramiento precautorio de sus bienes o negociación, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación a que se refiere esta fracción, deberá efectuarse en términos de lo dispuesto en el artículo 134 de este Código, dentro de un plazo no mayor a veinte días contado a partir de la fecha en que el aseguramiento precautorio se haya llevado a cabo.
+V. Los bienes o la negociación de los contribuyentes, responsables solidarios o terceros con ellos relacionados, quedan asegurados desde el momento en que se practique el aseguramiento precautorio, incluso cuando posteriormente se ordenen, anoten o inscriban ante otras instituciones, organismos, registros o terceros. VI. La autoridad fiscal notificará al contribuyente, responsable solidario o tercero con ellos relacionado que se llevó a cabo el aseguramiento precautorio de sus bienes o negociación, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación a que se refiere esta fracción, deberá efectuarse en términos de lo dispuesto en el artículo [134](articulo-134.md) de este Código, dentro de un plazo no mayor a veinte días contado a partir de la fecha en que el aseguramiento precautorio se haya llevado a cabo.
 
 En el caso de los bienes a que se refiere el inciso a) de la fracción III de este artículo, el plazo para notificar el aseguramiento al contribuyente, responsable solidario o tercero con ellos relacionado, se computará a partir de la fecha en que la comisión de que se trate, o bien, la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, hayan proporcionado a la autoridad fiscal la información a que se refieren los párrafos quinto y séptimo de la fracción IV de este artículo.
 
-VII. Los bienes asegurados precautoriamente podrán, desde el momento en que se designen como tales en la diligencia por la que se practique el aseguramiento precautorio y hasta que el mismo se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 153 de este Código, salvo lo indicado en su segundo párrafo.
+VII. Los bienes asegurados precautoriamente podrán, desde el momento en que se designen como tales en la diligencia por la que se practique el aseguramiento precautorio y hasta que el mismo se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo [153](articulo-153.md) de este Código, salvo lo indicado en su segundo párrafo.
 
 El contribuyente, responsable solidario o tercero relacionado con ellos que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
 
@@ -91,7 +91,7 @@ Lo establecido en esta fracción no será aplicable tratándose del aseguramient
 
 VIII. Cuando el ejercicio de facultades de comprobación no se concluya dentro de los plazos que establece este Código; se acredite fehacientemente que ha cesado la conducta que dio origen al aseguramiento precautorio, o bien exista orden de suspensión emitida por autoridad competente que el contribuyente haya obtenido, la autoridad deberá ordenar que se levante la medida a más tardar el tercer día siguiente a que ello suceda.
 
-La autoridad fiscal notificará al contribuyente, responsable solidario o tercero con ellos relacionado, que se llevó a cabo el levantamiento del aseguramiento precautorio de sus bienes o negociación, en términos de lo dispuesto en el artículo 134 de este Código, dentro de un plazo no mayor a veinte días contado a partir de la fecha en que el aseguramiento precautorio se haya levantado.
+La autoridad fiscal notificará al contribuyente, responsable solidario o tercero con ellos relacionado, que se llevó a cabo el levantamiento del aseguramiento precautorio de sus bienes o negociación, en términos de lo dispuesto en el artículo [134](articulo-134.md) de este Código, dentro de un plazo no mayor a veinte días contado a partir de la fecha en que el aseguramiento precautorio se haya levantado.
 
 En el caso de que se hayan asegurado los bienes a que se refiere el inciso a) de la fracción III de este artículo, el levantamiento del aseguramiento se realizará conforme a lo siguiente:
 

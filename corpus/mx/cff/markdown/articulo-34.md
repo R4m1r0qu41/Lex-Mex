@@ -31,4 +31,4 @@ La autoridad no quedará vinculada por la respuesta otorgada a las consultas rea
 
 Las autoridades fiscales deberán contestar las consultas que formulen los particulares en un plazo de tres meses contados a partir de la fecha de presentación de la solicitud respectiva.
 
-El Servicio de Administración Tributaria publicará mensualmente un extracto de las principales resoluciones favorables a los contribuyentes a que se refiere este artículo, debiendo cumplir con lo dispuesto por el artículo 69 de este Código.
+El Servicio de Administración Tributaria publicará mensualmente un extracto de las principales resoluciones favorables a los contribuyentes a que se refiere este artículo, debiendo cumplir con lo dispuesto por el artículo [69](articulo-69.md) de este Código.

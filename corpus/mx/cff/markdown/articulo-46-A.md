@@ -39,7 +39,7 @@ Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir d
 
 VI. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Diario Oficial de la Federación y en la página de Internet del Servicio de Administración Tributaria.
 
-VII. Cuando la autoridad solicite la opinión favorable del órgano colegiado al que se refiere el artículo 5o-A de este Código, hasta que dicho órgano colegiado emita la opinión solicitada. Dicha suspensión no podrá exceder de dos meses.
+VII. Cuando la autoridad solicite la opinión favorable del órgano colegiado al que se refiere el artículo [5](articulo-5o.md)o-A de este Código, hasta que dicho órgano colegiado emita la opinión solicitada. Dicha suspensión no podrá exceder de dos meses.
 
 Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, los contribuyentes interponen algún medio de defensa en el país o en el extranjero contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
 

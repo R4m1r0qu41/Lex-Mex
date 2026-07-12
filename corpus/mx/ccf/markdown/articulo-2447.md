@@ -17,6 +17,6 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 2447
 
-En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, en caso de venta sea preferido en los términos del artículo 2448-J de este Código.
+En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, en caso de venta sea preferido en los términos del artículo [2448-J](articulo-2448-J.md) de este Código.
 
 Artículo reformado DOF 21-07-1993

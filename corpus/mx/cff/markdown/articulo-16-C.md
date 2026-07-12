@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 16-C
 
-Para los efectos de lo dispuesto en el artículo 16-A de este Código, se consideran como mercados reconocidos:
+Para los efectos de lo dispuesto en el artículo [16-A](articulo-16-A.md) de este Código, se consideran como mercados reconocidos:
 
 I. Las sociedades anónimas que obtengan concesión de la Secretaría de Hacienda y Crédito Público para actuar como bolsa de valores en los términos de la Ley del Mercado de Valores, así como el Mercado Mexicano de Derivados.
 

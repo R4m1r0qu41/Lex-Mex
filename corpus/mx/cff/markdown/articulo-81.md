@@ -19,9 +19,9 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 Son infracciones relacionadas con la obligación de pago de las contribuciones; de presentación de declaraciones, reportes, solicitudes, documentación, avisos, información o expedición de constancias, y del ingreso de información a través de la página de Internet del Servicio de Administración Tributaria: Párrafo reformado DOF 07-11-2025
 
-I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales, no hacerlo a través de los medios electrónicos que señale la Secretaría de Hacienda y Crédito Público o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos o medios electrónicos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos, o no presentar los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código a requerimiento de las autoridades. Fracción reformada DOF 07-11-2025
+I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales, no hacerlo a través de los medios electrónicos que señale la Secretaría de Hacienda y Crédito Público o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos o medios electrónicos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos, o no presentar los reportes de información a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código a requerimiento de las autoridades. Fracción reformada DOF 07-11-2025
 
-II. Presentar las declaraciones, las solicitudes, los avisos, la información a que se refiere el artículo 17-K de este Código, o expedir constancias, incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales, o bien cuando se presenten con dichas irregularidades, las declaraciones o los avisos en medios electrónicos. Lo anterior no será aplicable tratándose de la presentación de la solicitud de inscripción al Registro Federal de Contribuyentes.
+II. Presentar las declaraciones, las solicitudes, los avisos, la información a que se refiere el artículo [17-K](articulo-17-K.md) de este Código, o expedir constancias, incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales, o bien cuando se presenten con dichas irregularidades, las declaraciones o los avisos en medios electrónicos. Lo anterior no será aplicable tratándose de la presentación de la solicitud de inscripción al Registro Federal de Contribuyentes.
 
 III. No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales, cuando se trate de contribuciones que no sean determinables por los contribuyentes, salvo cuando el pago se efectúe espontáneamente.
 
@@ -31,13 +31,13 @@ V. No proporcionar la información de las personas a las que les hubiera entrega
 
 VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señale el Reglamento de este Código, salvo cuando la presentación se efectúe en forma espontánea.
 
-VII. No presentar la información manifestando las razones por las cuales no se determina impuesto a pagar o saldo a favor, por alguna de las obligaciones que los contribuyentes deban cumplir de conformidad con lo dispuesto por el artículo 31, sexto párrafo de este Código.
+VII. No presentar la información manifestando las razones por las cuales no se determina impuesto a pagar o saldo a favor, por alguna de las obligaciones que los contribuyentes deban cumplir de conformidad con lo dispuesto por el artículo [31](articulo-31.md), sexto párrafo de este Código.
 
 VIII. No presentar la información a que se refieren los artículos 17 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos o 19, fracciones VIII, IX y XII, de la Ley del Impuesto Especial sobre Producción y Servicios, dentro del plazo previsto en dichos preceptos, o no presentarla conforme lo establecen los mismos.
 
-IX. No proporcionar la información a que se refiere el artículo 20, décimo primer párrafo de este Código, en los plazos que establecen las disposiciones fiscales.
+IX. No proporcionar la información a que se refiere el artículo [20](articulo-20.md), décimo primer párrafo de este Código, en los plazos que establecen las disposiciones fiscales.
 
-X. No cumplir, en la forma y términos señalados, con lo establecido en la fracción IV del artículo 29 de este Código.
+X. No cumplir, en la forma y términos señalados, con lo establecido en la fracción IV del artículo [29](articulo-29.md) de este Código.
 
 XI. No incluir a todas las sociedades integradas en la solicitud de autorización para determinar el resultado fiscal integrado que presente la sociedad integradora en términos del artículo 63, fracción III de la Ley del Impuesto sobre la Renta, o no incorporar a todas las sociedades integradas en los términos del último párrafo del artículo 66 de dicha Ley.
 
@@ -65,11 +65,11 @@ XXIII. No proporcionar la información a que se refiere el penúltimo párrafo d
 
 XXIV. No proporcionar la constancia a que se refiere la fracción II del artículo 55 de la Ley del Impuesto sobre la Renta.
 
-XXV. No dar cumplimiento a lo dispuesto en el artículo 28, fracción I de este Código.
+XXV. No dar cumplimiento a lo dispuesto en el artículo [28](articulo-28.md), fracción I de este Código.
 
 Se considera que se actualiza la infracción a que se refiere el párrafo anterior, en relación con el citado artículo en su fracción I, apartado B de este Código, cuando se dé cualquiera de los siguientes supuestos:
 
-a) No contar con el dictamen que determine el tipo de hidrocarburo o petrolífero de que se trate, el poder calorífico del gas natural y el octanaje en el caso de gasolina; o el certificado que acredite la correcta operación y funcionamiento de los equipos y programas para llevar los controles volumétricos a que se refiere el artículo 28, fracción I, apartado B de este Código.
+a) No contar con el dictamen que determine el tipo de hidrocarburo o petrolífero de que se trate, el poder calorífico del gas natural y el octanaje en el caso de gasolina; o el certificado que acredite la correcta operación y funcionamiento de los equipos y programas para llevar los controles volumétricos a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código.
 
 b) Registrar en los controles volumétricos un tipo de hidrocarburo o petrolífero que difiera de aquél que realmente corresponda y sea detectado y determinado por el Servicio de Administración Tributaria en el ejercicio de sus facultades, o del señalado en los comprobantes fiscales.
 
@@ -77,25 +77,25 @@ Tratándose de las gasolinas, registrar en los controles volumétricos un octana
 
 c) No contar con los equipos y programas informáticos para llevar los controles volumétricos referidos en el artículo [28](articulo-28.md), fracción I, apartado B de este ordenamiento, o contando con éstos, no los mantenga en operación en todo momento, los altere, inutilice o destruya.
 
-d) No contar con los controles volumétricos de hidrocarburos o petrolíferos a que hace referencia el artículo 28, fracción I, apartado B de este Código, o contando con éstos, los altere, inutilice o destruya.
+d) No contar con los controles volumétricos de hidrocarburos o petrolíferos a que hace referencia el artículo [28](articulo-28.md), fracción I, apartado B de este Código, o contando con éstos, los altere, inutilice o destruya.
 
-e) No enviar al Servicio de Administración Tributaria los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código.
+e) No enviar al Servicio de Administración Tributaria los reportes de información a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código.
 
-f) No enviar al Servicio de Administración Tributaria los reportes de información en la periodicidad establecida a que se refiere el artículo 28, fracción I, apartado B de este Código.
+f) No enviar al Servicio de Administración Tributaria los reportes de información en la periodicidad establecida a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código.
 
-g) Enviar al Servicio de Administración Tributaria reportes de información de forma incompleta, con errores, o en forma distinta a lo señalado por el artículo 28, fracción I, apartado B de este Código.
+g) Enviar al Servicio de Administración Tributaria reportes de información de forma incompleta, con errores, o en forma distinta a lo señalado por el artículo [28](articulo-28.md), fracción I, apartado B de este Código.
 
-h) No generar o conservar los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código. Fracción reformada DOF 12-11-2021
+h) No generar o conservar los reportes de información a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código. Fracción reformada DOF 12-11-2021
 
 i) Destruir o alterar los sellos de clausura del establecimiento que como sanción se impusieron por la comisión de las conductas previstas en los demás incisos de esta fracción, o realizar cualquier acción que impida cumplir el propósito de dichos sellos, o que el contribuyente opere sin haber concluido el plazo de clausura. Inciso adicionado DOF 07-11-2025
 
 XXVI. No proporcionar la información a que se refiere la fracción VIII del artículo 32 de la Ley del Impuesto al Valor Agregado a través de los medios, formatos electrónicos y plazos establecidos en dicha Ley, o presentarla incompleta o con errores.
 
-XXVII. No proporcionar la información a que se refiere el artículo 32-G de este Código, a través de los medios, formatos electrónicos y plazos establecidos en dicha Ley, o presentarla incompleta o con errores.
+XXVII. No proporcionar la información a que se refiere el artículo [32-G](articulo-32-G.md) de este Código, a través de los medios, formatos electrónicos y plazos establecidos en dicha Ley, o presentarla incompleta o con errores.
 
 XXVIII. No cumplir con la obligación a que se refiere la fracción IV del artículo 98 de la Ley del Impuesto sobre la Renta.
 
-XXIX. No proporcionar la información señalada en el artículo 30-A de este Código o presentarla incompleta o con errores. XXX. No proporcionar o proporcionar de forma extemporánea la documentación comprobatoria que ampare que las acciones objeto de la autorización a que se refiere el artículo 161 de la Ley del Impuesto sobre la Renta, no han salido del grupo de sociedades o no presentar o presentar en forma extemporánea la información o el aviso a que se refieren los artículos 262, fracción IV y 269 del Reglamento de la Ley del Impuesto sobre la Renta.
+XXIX. No proporcionar la información señalada en el artículo [30-A](articulo-30-A.md) de este Código o presentarla incompleta o con errores. XXX. No proporcionar o proporcionar de forma extemporánea la documentación comprobatoria que ampare que las acciones objeto de la autorización a que se refiere el artículo 161 de la Ley del Impuesto sobre la Renta, no han salido del grupo de sociedades o no presentar o presentar en forma extemporánea la información o el aviso a que se refieren los artículos 262, fracción IV y 269 del Reglamento de la Ley del Impuesto sobre la Renta.
 
 XXXI. No proporcionar la información a que se refieren los artículos 76, fracción XV, 82, fracción VII, 110, fracción VII, 118, fracción V y 128 de la Ley del Impuesto sobre la Renta, o presentarla en forma extemporánea.
 
@@ -103,7 +103,7 @@ XXXII. (Se deroga).
 
 XXXIII. (Se deroga)
 
-XXXIV. No proporcionar los datos, informes o documentos solicitados por las autoridades fiscales conforme a lo previsto en el primer párrafo del artículo 42-A de este Código.
+XXXIV. No proporcionar los datos, informes o documentos solicitados por las autoridades fiscales conforme a lo previsto en el primer párrafo del artículo [42-A](articulo-42-A.md) de este Código.
 
 XXXV. (Se deroga).
 
@@ -115,7 +115,7 @@ XXXVIII. Incumplir con la restricción prevista en el artículo 82, fracción II
 
 XXXIX. No destinar la totalidad del patrimonio o los donativos correspondientes, en los términos del artículo 82, fracción V de la Ley del Impuesto sobre la Renta.
 
-XL. No proporcionar la información a que se refieren los artículos 31-A de este Código y 76-A de la Ley del Impuesto sobre la Renta, o proporcionarla incompleta, con errores, inconsistencias o en forma distinta a lo señalado en las disposiciones fiscales.
+XL. No proporcionar la información a que se refieren los artículos [31-A](articulo-31-A.md) de este Código y 76-A de la Ley del Impuesto sobre la Renta, o proporcionarla incompleta, con errores, inconsistencias o en forma distinta a lo señalado en las disposiciones fiscales.
 
 XLI. No ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria estando obligado a ello; ingresarla fuera de los plazos establecidos en las disposiciones fiscales, o bien, no ingresarla de conformidad con las reglas de carácter general previstas en el artículo 28, fracción IV del Código, así como ingresarla con alteraciones que impidan su lectura.
 
@@ -127,4 +127,4 @@ XLIV. No cumplir con las obligaciones establecidas en el artículo 82, fracción
 
 XLV. Cuando el contratista no cumpla con la obligación de entregar a un contratante la información y documentación a que se refieren los artículos 27, fracción V, tercer párrafo de la Ley del Impuesto sobre la Renta y 5o., fracción II, segundo párrafo de la Ley del Impuesto al Valor Agregado.
 
-XLVI. No cancelar los comprobantes fiscales digitales por Internet de ingresos cuando dichos comprobantes se hayan emitido por error o sin una causa para ello o cancelarlos fuera del plazo establecido en el artículo 29-A, cuarto párrafo de este Código, y demás disposiciones aplicables. Fracción adicionada DOF 12-11-2021
+XLVI. No cancelar los comprobantes fiscales digitales por Internet de ingresos cuando dichos comprobantes se hayan emitido por error o sin una causa para ello o cancelarlos fuera del plazo establecido en el artículo [29-A](articulo-29-A.md), cuarto párrafo de este Código, y demás disposiciones aplicables. Fracción adicionada DOF 12-11-2021

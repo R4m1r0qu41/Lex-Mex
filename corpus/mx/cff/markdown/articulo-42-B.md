@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 42-B
 
-Las autoridades fiscales podrán, como resultado del ejercicio de sus facultades de comprobación, determinar la simulación de los actos jurídicos, exclusivamente para efectos fiscales. La referida determinación deberá ser debidamente fundada y motivada dentro del procedimiento de comprobación y declarada su existencia en el propio acto de determinación de la situación fiscal del contribuyente, a que se refiere el artículo 50 de este Código, siempre que se trate de operaciones entre partes relacionadas.
+Las autoridades fiscales podrán, como resultado del ejercicio de sus facultades de comprobación, determinar la simulación de los actos jurídicos, exclusivamente para efectos fiscales. La referida determinación deberá ser debidamente fundada y motivada dentro del procedimiento de comprobación y declarada su existencia en el propio acto de determinación de la situación fiscal del contribuyente, a que se refiere el artículo [50](articulo-50.md) de este Código, siempre que se trate de operaciones entre partes relacionadas.
 
 En los actos jurídicos en los que exista simulación, el hecho imponible gravado será el efectivamente realizado por las partes.
 

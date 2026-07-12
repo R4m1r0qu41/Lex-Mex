@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 20-Bis
 
-El Índice Nacional de Precios al Consumidor a que se refiere el segundo párrafo del artículo 20 de este Código, que calcula el Instituto Nacional de Estadística y Geografía, se sujeta a lo siguiente:
+El Índice Nacional de Precios al Consumidor a que se refiere el segundo párrafo del artículo [20](articulo-20.md) de este Código, que calcula el Instituto Nacional de Estadística y Geografía, se sujeta a lo siguiente:
 
 I. Se cotizarán cuando menos los precios en 30 ciudades, las cuales estarán ubicadas en por lo menos 20 entidades federativas. Las ciudades seleccionadas deberán en todo caso tener una población de 20,000 o más habitantes, y siempre habrán de incluirse las 10 zonas conurbadas o ciudades más pobladas de la República.
 

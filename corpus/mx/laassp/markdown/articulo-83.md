@@ -15,4 +15,4 @@ source_sha256: 883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc
 
 # Artículo 83
 
-El acceso a la Plataforma por parte de las dependencias, entidades, licitantes, cotizantes, postulantes y proveedores nacionales se realizará a través de la Firma Electrónica Avanzada, en términos de los lineamientos que para tal efecto emita la Secretaría. Tratándose de proveedores extranjeros, el medio de identificación electrónica se generará por la propia Plataforma.
+El acceso a la [Plataforma](articulo-5.md) por parte de las dependencias, entidades, licitantes, cotizantes, postulantes y proveedores nacionales se realizará a través de la Firma Electrónica Avanzada, en términos de los lineamientos que para tal efecto emita la [Secretaría](articulo-5.md). Tratándose de proveedores extranjeros, el medio de identificación electrónica se generará por la propia Plataforma.

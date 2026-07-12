@@ -33,7 +33,7 @@ III. Con prisión de tres años a nueve años cuando el monto de lo defraudado f
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
-Si el monto de lo defraudado es restituido de manera inmediata en una sola exhibición, la pena aplicable podrá atenuarse hasta en un cincuenta por ciento. El delito de defraudación fiscal y los previstos en el artículo 109 de este Código, serán calificados cuando se originen por:
+Si el monto de lo defraudado es restituido de manera inmediata en una sola exhibición, la pena aplicable podrá atenuarse hasta en un cincuenta por ciento. El delito de defraudación fiscal y los previstos en el artículo [109](articulo-109.md) de este Código, serán calificados cuando se originen por:
 
 a).- Usar documentos falsos.
 
@@ -51,7 +51,7 @@ g) Utilizar datos falsos para acreditar o disminuir contribuciones.
 
 h) Declarar pérdidas fiscales inexistentes.
 
-i) Utilizar esquemas simulados de prestación de servicios especializados o la ejecución de obras especializadas, descritas en el artículo 15-D, penúltimo párrafo, de este Código, o realizar la subcontratación de personal a que se refiere el primer y segundo párrafos de dicho artículo.
+i) Utilizar esquemas simulados de prestación de servicios especializados o la ejecución de obras especializadas, descritas en el artículo [15-D](articulo-15-D.md), penúltimo párrafo, de este Código, o realizar la subcontratación de personal a que se refiere el primer y segundo párrafos de dicho artículo.
 
 j) Simular una prestación de servicios profesionales independientes a que se refiere el Título IV, Capítulo II, Sección IV de la Ley del Impuesto sobre la Renta, respecto de sus trabajadores. Inciso adicionado DOF 12-11-2021
 

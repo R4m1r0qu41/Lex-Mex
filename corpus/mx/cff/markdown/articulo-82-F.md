@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 82-F
 
-A quien cometa las infracciones a que se refiere el artículo 82-E de este Código, se le impondrán las siguientes multas:
+A quien cometa las infracciones a que se refiere el artículo [82-E](articulo-82-E.md) de este Código, se le impondrán las siguientes multas:
 
 I. De $112,450.00 a $168,680.00 a las establecidas en la fracción I, por cada cuenta. Multa de la fracción compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 

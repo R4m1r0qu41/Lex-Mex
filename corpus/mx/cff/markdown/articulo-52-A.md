@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 52-A
 
-Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación a que se refiere la fracción IV del artículo 42 de este Código, revisen el dictamen y demás información a que se refiere este artículo y el Reglamento de este Código, deberán seguir el orden siguiente:
+Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación a que se refiere la fracción IV del artículo [42](articulo-42.md) de este Código, revisen el dictamen y demás información a que se refiere este artículo y el Reglamento de este Código, deberán seguir el orden siguiente:
 
 I. Primeramente se requerirá al contador público que haya formulado el dictamen lo siguiente:
 
@@ -29,21 +29,21 @@ c) La información que se considere pertinente para cerciorarse del cumplimiento
 
 Cuando la autoridad, dentro del plazo mencionado, no requiera directamente al contribuyente la información a que se refiere el inciso c) de esta fracción o no ejerza directamente con el contribuyente las facultades a que se refiere la fracción II del presente artículo, no podrá volver a revisar el mismo dictamen, salvo cuando se revisen hechos diferentes de los ya revisados.
 
-II. Habiéndose requerido al contador público que haya formulado el dictamen la información y los documentos a que se refiere la fracción anterior, después de haberlos recibido o si éstos no fueran suficientes a juicio de las autoridades fiscales para conocer la situación fiscal del contribuyente, o si éstos no se presentan dentro de los plazos que establece el artículo 53-A de este Código, o dicha información y documentos son incompletos, las citadas autoridades podrán, a su juicio, ejercer directamente con el contribuyente sus facultades de comprobación.
+II. Habiéndose requerido al contador público que haya formulado el dictamen la información y los documentos a que se refiere la fracción anterior, después de haberlos recibido o si éstos no fueran suficientes a juicio de las autoridades fiscales para conocer la situación fiscal del contribuyente, o si éstos no se presentan dentro de los plazos que establece el artículo [53-A](articulo-53-A.md) de este Código, o dicha información y documentos son incompletos, las citadas autoridades podrán, a su juicio, ejercer directamente con el contribuyente sus facultades de comprobación.
 
 III. Las autoridades fiscales podrán, en cualquier tiempo, solicitar a los terceros relacionados con el contribuyente o responsables solidarios, la información y documentación para verificar si son ciertos los datos consignados en el dictamen y en los demás documentos, en cuyo caso, la solicitud respectiva se hará por escrito, notificando copia de la misma al contribuyente.
 
 La visita domiciliaria o el requerimiento de información que se realice a un contribuyente que dictamine sus estados financieros en los términos de este Código, cuyo único propósito sea el obtener información relacionada con un tercero, no se considerará revisión de dictamen.
 
-El plazo a que se refiere el segundo párrafo de la fracción I de este artículo es independiente del que se establece en el artículo 46-A de este Código.
+El plazo a que se refiere el segundo párrafo de la fracción I de este artículo es independiente del que se establece en el artículo [46-A](articulo-46-A.md) de este Código.
 
-Las facultades de comprobación a que se refiere este artículo, se podrán ejercer sin perjuicio de lo dispuesto en el segundo párrafo del artículo 42 de este Código.
+Las facultades de comprobación a que se refiere este artículo, se podrán ejercer sin perjuicio de lo dispuesto en el segundo párrafo del artículo [42](articulo-42.md) de este Código.
 
 Para el ejercicio de las facultades de comprobación de las autoridades fiscales, no se deberá observar el orden establecido en este artículo, cuando:
 
 a) En el dictamen exista abstención de opinión, opinión negativa o salvedades que tengan implicaciones fiscales.
 
-b) En el caso de que se determinen diferencias de impuestos a pagar y éstos no se enteren de conformidad con lo dispuesto en el penúltimo párrafo del artículo 32-A de este Código.
+b) En el caso de que se determinen diferencias de impuestos a pagar y éstos no se enteren de conformidad con lo dispuesto en el penúltimo párrafo del artículo [32-A](articulo-32-A.md) de este Código.
 
 c) El dictamen no surta efectos fiscales.
 
@@ -57,12 +57,12 @@ h) Tratándose de la revisión de los conceptos modificados por el contribuyente
 
 i) Se haya dejado sin efectos al contribuyente objeto de la revisión, el certificado de sello digital para emitir comprobantes fiscales digitales por internet.
 
-j) Tratándose de las revisiones electrónicas a que se refiere la fracción IX del artículo 42 del presente Código.
+j) Tratándose de las revisiones electrónicas a que se refiere la fracción IX del artículo [42](articulo-42.md) del presente Código.
 
-k) Cuando habiendo ejercido la opción a que se refiere el artículo 32-A de este Código, el dictamen de los estados financieros se haya presentado en forma extemporánea.
+k) Cuando habiendo ejercido la opción a que se refiere el artículo [32-A](articulo-32-A.md) de este Código, el dictamen de los estados financieros se haya presentado en forma extemporánea.
 
-l) Por cada operación, no proporcionar la información a que se refiere el artículo 31-A de este Código o proporcionarla incompleta, con errores, inconsistencias o en forma distinta a lo señalado en las disposiciones fiscales.
+l) Por cada operación, no proporcionar la información a que se refiere el artículo [31-A](articulo-31-A.md) de este Código o proporcionarla incompleta, con errores, inconsistencias o en forma distinta a lo señalado en las disposiciones fiscales.
 
-m) Tratándose de los contribuyentes a que se refiere el artículo 32-A de este Código. Inciso adicionado DOF 12-11-2021
+m) Tratándose de los contribuyentes a que se refiere el artículo [32-A](articulo-32-A.md) de este Código. Inciso adicionado DOF 12-11-2021
 
 Tratándose de la revisión de pagos provisionales o mensuales, sólo se aplicará el orden establecido en este artículo, respecto de aquellos comprendidos en los periodos por los cuales ya se hubiera presentado el dictamen.

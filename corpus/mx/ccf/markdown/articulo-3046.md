@@ -35,9 +35,9 @@ a) Mediante la inscripción del decreto por el que se incorpora al dominio públ
 
 b) Mediante la inscripción del decreto por el que se desincorpore del dominio público un inmueble, o el título expedido con base en ese decreto;
 
-c) Mediante la inscripción de un título fehaciente y suficiente para adquirir la propiedad de un inmueble, en los términos del artículo 3051 de este Código; d) Mediante la inscripción de la propiedad de un inmueble adquirido por prescripción positiva, en los términos del artículo 3052 del presente Código, y
+c) Mediante la inscripción de un título fehaciente y suficiente para adquirir la propiedad de un inmueble, en los términos del artículo [3051](articulo-3051.md) de este Código; d) Mediante la inscripción de la propiedad de un inmueble adquirido por prescripción positiva, en los términos del artículo [3052](articulo-3052.md) del presente Código, y
 
-e) Mediante la inscripción de la posesión de buena fe de un inmueble, que reúna los requisitos de aptitud para prescribir, en los términos del artículo 3053 de este Código.
+e) Mediante la inscripción de la posesión de buena fe de un inmueble, que reúna los requisitos de aptitud para prescribir, en los términos del artículo [3053](articulo-3053.md) de este Código.
 
 Artículo adicionado DOF 18-01-1952. Reformado DOF 03-01-1979, 07-01-1988
 

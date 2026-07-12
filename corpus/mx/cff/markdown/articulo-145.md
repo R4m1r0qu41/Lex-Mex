@@ -67,7 +67,7 @@ Las entidades financieras o sociedades cooperativas de ahorro y préstamo contar
 
 V. A más tardar al vigésimo día siguiente a aquél en que hubiera tenido lugar el embargo precautorio, la autoridad fiscal notificará al contribuyente la conducta que originó la medida y, en su caso, el monto sobre el cual procede. La notificación se hará personalmente o a través del buzón tributario. Fracción reformada DOF 07-11-2025
 
-VI. Con excepción de los bienes a que se refiere el inciso f) de la fracción III de este artículo, los bienes embargados precautoriamente podrán, desde el momento en que se notifique el mismo y hasta que se levante, dejarse en posesión del contribuyente, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 153, del presente Código, salvo lo indicado en su segundo párrafo.
+VI. Con excepción de los bienes a que se refiere el inciso f) de la fracción III de este artículo, los bienes embargados precautoriamente podrán, desde el momento en que se notifique el mismo y hasta que se levante, dejarse en posesión del contribuyente, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo [153](articulo-153.md), del presente Código, salvo lo indicado en su segundo párrafo.
 
 El contribuyente que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
 
@@ -75,7 +75,7 @@ Salvo tratándose de los bienes a que se refiere el inciso f) de la fracción II
 
 La autoridad requerirá al obligado para que dentro del término de diez días desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento.
 
-Una vez practicado el embargo precautorio, el contribuyente afectado podrá proceder conforme a lo establecido en el artículo 141 de este Código, a fin de que el crédito fiscal y sus accesorios queden garantizados y se ordene el levantamiento del embargo trabado sobre los depósitos bancarios, otros depósitos o seguros del contribuyente. Párrafo reformado DOF 07-11-2025
+Una vez practicado el embargo precautorio, el contribuyente afectado podrá proceder conforme a lo establecido en el artículo [141](articulo-141.md) de este Código, a fin de que el crédito fiscal y sus accesorios queden garantizados y se ordene el levantamiento del embargo trabado sobre los depósitos bancarios, otros depósitos o seguros del contribuyente. Párrafo reformado DOF 07-11-2025
 
 El embargo precautorio se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución, sujetándose a las disposiciones que este Código establece.
 

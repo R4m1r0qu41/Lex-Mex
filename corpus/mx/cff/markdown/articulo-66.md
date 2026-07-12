@@ -31,7 +31,7 @@ b) Las multas que correspondan actualizadas desde el mes en que se debieron paga
 
 c) Los accesorios distintos de las multas que tenga a su cargo el contribuyente a la fecha en que solicite la autorización.
 
-La actualización que corresponda al periodo mencionado se efectuará conforme a lo previsto por el artículo 17-A de este Código.
+La actualización que corresponda al periodo mencionado se efectuará conforme a lo previsto por el artículo [17-A](articulo-17-A.md) de este Código.
 
 Las autoridades fiscales, a petición de los contribuyentes que corrijan su situación fiscal durante cualquier etapa dentro del ejercicio de facultades de comprobación y hasta antes de que se emita la resolución que determine el crédito fiscal, podrán autorizar el pago a plazos de las contribuciones omitidas y de sus accesorios, ya sea en forma diferida o en parcialidades, en condiciones distintas a las previstas en el primer párrafo de este artículo, cuando el 40% del monto del adeudo a corregir informado por la autoridad durante el ejercicio de las facultades de comprobación represente más de la utilidad fiscal del último ejercicio fiscal en que haya tenido utilidad fiscal, para lo cual se deberá seguir el siguiente procedimiento:
 

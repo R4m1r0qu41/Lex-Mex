@@ -17,6 +17,6 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 146-D
 
-Los créditos fiscales que se encuentren registrados en la subcuenta especial de créditos incobrables a que se refiere el artículo 191 de este Código, se extinguirán, transcurridos cinco años contados a partir de que se haya realizado dicho registro, cuando exista imposibilidad práctica de cobro.
+Los créditos fiscales que se encuentren registrados en la subcuenta especial de créditos incobrables a que se refiere el artículo [191](articulo-191.md) de este Código, se extinguirán, transcurridos cinco años contados a partir de que se haya realizado dicho registro, cuando exista imposibilidad práctica de cobro.
 
 Para estos efectos, se considera que existe imposibilidad práctica de cobro, entre otras, cuando los deudores no tengan bienes embargables, el deudor hubiera fallecido o desaparecido sin dejar bienes a su nombre o cuando por sentencia firme hubiera sido declarado en quiebra por falta de activo.

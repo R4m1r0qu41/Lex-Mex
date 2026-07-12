@@ -27,4 +27,4 @@ Las personas físicas y morales que tengan asignado un buzón tributario deberá
 
 Para efectos de lo previsto en el párrafo anterior, los contribuyentes deberán habilitar el buzón tributario, registrar y mantener actualizados los medios de contacto, de acuerdo con el procedimiento que al efecto establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
 
-Cuando el contribuyente no habilite el buzón tributario o señale medios de contacto erróneos o inexistentes, o bien, no los mantenga actualizados, se entenderá que se opone a la notificación y la autoridad podrá notificarle conforme a lo señalado en el artículo 134, fracción III de este Código.
+Cuando el contribuyente no habilite el buzón tributario o señale medios de contacto erróneos o inexistentes, o bien, no los mantenga actualizados, se entenderá que se opone a la notificación y la autoridad podrá notificarle conforme a lo señalado en el artículo [134](articulo-134.md), fracción III de este Código.

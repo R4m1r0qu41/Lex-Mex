@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 61
 
-Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el Artículo 55 de este Código y no puedan comprobar por el período objeto de revisión sus ingresos así como el valor de los actos o actividades por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
+Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el Artículo [55](articulo-55.md) de este Código y no puedan comprobar por el período objeto de revisión sus ingresos así como el valor de los actos o actividades por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
 
 I. Si con base en la contabilidad y documentación del contribuyente o información de terceros pudieran reconstruirse las operaciones correspondientes cuando menos a treinta días lo más cercano posible al cierre del ejercicio, el ingreso o el valor de los actos o actividades, se determinará con base en el promedio diario del período reconstruido, el que se multiplicará por el número de días que correspondan al período objeto de la revisión.
 

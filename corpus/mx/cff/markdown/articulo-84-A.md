@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 84-A
 
-Son infracciones en las que pueden incurrir las entidades financieras o sociedades cooperativas de ahorro y préstamo en relación a las obligaciones a que se refieren los artículos 32-B, 32- E, 40-A, 145, 151 y 156-Bis de este Código, las siguientes:
+Son infracciones en las que pueden incurrir las entidades financieras o sociedades cooperativas de ahorro y préstamo en relación a las obligaciones a que se refieren los artículos [32-B](articulo-32-B.md), [32](articulo-32.md)- E, 40-A, 145, 151 y 156-Bis de este Código, las siguientes:
 
 I. No anotar en los esqueletos para expedición de cheques el nombre, denominación o razón social y la clave que corresponda al primer titular de la cuenta.
 
@@ -27,20 +27,20 @@ IV. No proporcionar o proporcionar en forma parcial la información relativa a d
 
 V. Asentar incorrectamente o no asentar en los contratos respectivos el nombre, denominación o razón social, domicilio y clave del registro federal de contribuyentes o la que la sustituya, del cuentahabiente.
 
-VI. No transferir a la Tesorería de la Federación el importe de la garantía y sus rendimientos, dentro del plazo a que se refiere el artículo 141-A, fracción II de este Código.
+VI. No transferir a la Tesorería de la Federación el importe de la garantía y sus rendimientos, dentro del plazo a que se refiere el artículo [141-A](articulo-141-A.md), fracción II de este Código.
 
-VII. No expedir los estados de cuenta o no proporcionar la información conforme a lo previsto en el artículo 32-B de este Código.
+VII. No expedir los estados de cuenta o no proporcionar la información conforme a lo previsto en el artículo [32-B](articulo-32-B.md) de este Código.
 
-VIII. No practicar el aseguramiento, embargo o inmovilización de los depósitos bancarios, otros depósitos o seguros del contribuyente, en los plazos a que se refieren los artículos 40-A, 145, 151 y 156-Bis de este Código.
+VIII. No practicar el aseguramiento, embargo o inmovilización de los depósitos bancarios, otros depósitos o seguros del contribuyente, en los plazos a que se refieren los artículos [40-A](articulo-40-A.md), [145](articulo-145.md), [151](articulo-151.md) y [156-Bis](articulo-156-Bis.md) de este Código.
 
 IX. Negar la información al contribuyente acerca de la autoridad fiscal que ordenó el aseguramiento, embargo o inmovilización de los depósitos bancarios, otros depósitos o seguros del contribuyente.
 
 X. Ejecutar el aseguramiento, embargo o inmovilización sobre los depósitos bancarios, otros depósitos o seguros del contribuyente por una cantidad mayor a la ordenada por la autoridad fiscal.
 
-XI. No informar a la autoridad fiscal sobre la práctica o levantamiento del aseguramiento, embargo o inmovilización de los depósitos bancarios, otros depósitos o seguros del contribuyente, conforme a lo previsto en los artículos 40-A, 145, 151 y 156-Bis de este Código.
+XI. No informar a la autoridad fiscal sobre la práctica o levantamiento del aseguramiento, embargo o inmovilización de los depósitos bancarios, otros depósitos o seguros del contribuyente, conforme a lo previsto en los artículos [40-A](articulo-40-A.md), [145](articulo-145.md), [151](articulo-151.md) y [156-Bis](articulo-156-Bis.md) de este Código.
 
-XII. No levantar el aseguramiento, embargo o inmovilización de los depósitos bancarios, otros depósitos o seguros del contribuyente conforme a lo previsto en los artículos 40-A, 145, 151 y 156-Bis de este Código.
+XII. No levantar el aseguramiento, embargo o inmovilización de los depósitos bancarios, otros depósitos o seguros del contribuyente conforme a lo previsto en los artículos [40-A](articulo-40-A.md), [145](articulo-145.md), [151](articulo-151.md) y [156-Bis](articulo-156-Bis.md) de este Código.
 
-XIII. No validar con el Servicio de Administración Tributaria que sus cuentahabientes se encuentren inscritos en el registro federal de contribuyentes y que su clave sea la correcta, conforme a lo previsto en la fracción IX del artículo 32-B de este Código.
+XIII. No validar con el Servicio de Administración Tributaria que sus cuentahabientes se encuentren inscritos en el registro federal de contribuyentes y que su clave sea la correcta, conforme a lo previsto en la fracción IX del artículo [32-B](articulo-32-B.md) de este Código.
 
-XIV. No proporcionar la información a que se refiere el artículo 32-E de este Código.
+XIV. No proporcionar la información a que se refiere el artículo [32-E](articulo-32-E.md) de este Código.

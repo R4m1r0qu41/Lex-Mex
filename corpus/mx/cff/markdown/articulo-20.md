@@ -37,7 +37,7 @@ II. Recargos.
 
 III. Multas.
 
-IV. La indemnización a que se refiere el séptimo párrafo del artículo 21 de este Código.
+IV. La indemnización a que se refiere el séptimo párrafo del artículo [21](articulo-21.md) de este Código.
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 

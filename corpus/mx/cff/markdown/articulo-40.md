@@ -25,7 +25,7 @@ El apoyo a que se refiere el párrafo anterior consistirá en efectuar las accio
 
 II. Imponer la multa que corresponda en los términos de este Código.
 
-III. Practicar el aseguramiento precautorio de los bienes o de la negociación de los contribuyentes, responsables solidarios o terceros con ellos relacionados, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme a lo establecido en el artículo 40-A de este Código, conforme a las reglas de carácter general que al efecto establezca el Servicio de Administración Tributaria.
+III. Practicar el aseguramiento precautorio de los bienes o de la negociación de los contribuyentes, responsables solidarios o terceros con ellos relacionados, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme a lo establecido en el artículo [40-A](articulo-40-A.md) de este Código, conforme a las reglas de carácter general que al efecto establezca el Servicio de Administración Tributaria.
 
 IV. Solicitar a la autoridad competente se proceda por desobediencia o resistencia, por parte del contribuyente, responsable solidario o tercero relacionado con ellos, a un mandato legítimo de autoridad competente.
 

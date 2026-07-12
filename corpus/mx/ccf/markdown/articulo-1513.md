@@ -17,7 +17,7 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 1513
 
-En los casos previstos en los artículos 1514, 1516 y 1517 de este Código, así como cuando el testador o el notario lo soliciten, dos testigos deberán concurrir al acto de otorgamiento y firmar el testamento.
+En los casos previstos en los artículos [1514](articulo-1514.md), [1516](articulo-1516.md) y [1517](articulo-1517.md) de este Código, así como cuando el testador o el notario lo soliciten, dos testigos deberán concurrir al acto de otorgamiento y firmar el testamento.
 
 Los testigos instrumentales a que se refiere este artículo podrán intervenir, además, como testigos de conocimiento.
 

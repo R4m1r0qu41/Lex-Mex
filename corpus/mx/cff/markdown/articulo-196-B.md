@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 196-B
 
-Los plazos de abandono a que se refiere el artículo 196-A de este Código se interrumpirán:
+Los plazos de abandono a que se refiere el artículo [196-A](articulo-196-A.md) de este Código se interrumpirán:
 
 I. Por la interposición del recurso administrativo o la presentación de la demanda en el juicio que proceda.
 

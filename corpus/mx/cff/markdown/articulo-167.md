@@ -23,4 +23,4 @@ I. Rendir cuentas mensuales comprobadas a la oficina ejecutora.
 
 II. Recaudar el 10% de las ventas o ingresos diarios en la negociación intervenida, después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, y enterar su importe al fisco federal en la medida que se efectúe la recaudación.
 
-El interventor administrador no podrá enajenar los bienes del activo fijo. Cuando se den los supuestos de enajenación de la negociación intervenida a que se refiere el Artículo 172 de este Código, se procederá al remate de conformidad con las disposiciones contenidas en la siguiente sección de este Capítulo.
+El interventor administrador no podrá enajenar los bienes del activo fijo. Cuando se den los supuestos de enajenación de la negociación intervenida a que se refiere el Artículo [172](articulo-172.md) de este Código, se procederá al remate de conformidad con las disposiciones contenidas en la siguiente sección de este Capítulo.

@@ -19,7 +19,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 Las autoridades fiscales podrán determinar presuntivamente las contribuciones que se debieron haber retenido, cuando aparezca omisión en la retención y entero, por más del 3% sobre las retenciones enteradas.
 
-Para efectos de la determinación presuntiva a que se refiere este Artículo, las autoridades fiscales podrán utilizar indistintamente cualquiera de los procedimientos previstos en las fracciones I a V inclusive del Artículo 56 de este Código.
+Para efectos de la determinación presuntiva a que se refiere este Artículo, las autoridades fiscales podrán utilizar indistintamente cualquiera de los procedimientos previstos en las fracciones I a V inclusive del Artículo [56](articulo-56.md) de este Código.
 
 Si las retenciones no enteradas corresponden a pagos a que se refiere el Capítulo I Título IV de la Ley del Impuesto sobre la Renta y el retenedor tiene más de veinte trabajadores a su servicio, se presumirá que las contribuciones que deben enterarse son las siguientes:
 

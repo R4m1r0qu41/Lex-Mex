@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 82
 
-A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes, reportes, documentación, avisos o información; con la expedición de comprobantes fiscales digitales por Internet o de constancias y con el ingreso de información a través de la página de Internet del Servicio de Administración Tributaria a que se refiere el artículo 81 de este Código, se impondrán las siguientes multas: Párrafo reformado DOF 07-11-2025
+A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes, reportes, documentación, avisos o información; con la expedición de comprobantes fiscales digitales por Internet o de constancias y con el ingreso de información a través de la página de Internet del Servicio de Administración Tributaria a que se refiere el artículo [81](articulo-81.md) de este Código, se impondrán las siguientes multas: Párrafo reformado DOF 07-11-2025
 
 I. Para la señalada en la fracción I:
 
@@ -25,11 +25,11 @@ a) De $2,050.00 a $25,360.00, tratándose de declaraciones, por cada una de las 
 
 b) De $2,050.00 a $50,710.00, por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-c) De $19,460.00 a $38,890.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
+c) De $19,460.00 a $38,890.00, por no presentar el aviso a que se refiere el primer párrafo del artículo [23](articulo-23.md) de este Código. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
 d) De $20,790.00 a $41,590.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
 
-e) De $18,360.00 a $36,740.00, por no cumplir con los requerimientos de las autoridades fiscales para enviar los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código, o cumplirlos fuera de los plazos señalados en los mismos. Inciso adicionado DOF 07-11-2025 Multa del inciso actualizada por resolución miscelánea fiscal DOF 28-12-2025
+e) De $18,360.00 a $36,740.00, por no cumplir con los requerimientos de las autoridades fiscales para enviar los reportes de información a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código, o cumplirlos fuera de los plazos señalados en los mismos. Inciso adicionado DOF 07-11-2025 Multa del inciso actualizada por resolución miscelánea fiscal DOF 28-12-2025
 
 f) De $2,080.00 a $6,660.00, en los demás documentos. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024 Inciso recorrido DOF 07-11-2025 Multa del inciso actualizada por resolución miscelánea fiscal DOF 28-12-2025
 
@@ -99,13 +99,13 @@ c) De $2,249,000.00 a $3,373,500.00, para la establecida en el segundo párrafo,
 
 d) De $3,373,500.00 a $5,622,500.00, para las establecidas en el segundo párrafo, incisos c) y d). La sanción consistirá además en la clausura del establecimiento del contribuyente, por un plazo de tres a seis meses. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
-e) De $39,360.00 a $69,160.00, para la establecida en el segundo párrafo, inciso e), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código no enviados al Servicio de Administración Tributaria. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
+e) De $39,360.00 a $69,160.00, para la establecida en el segundo párrafo, inciso e), por cada uno de los reportes de información a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código no enviados al Servicio de Administración Tributaria. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
-f) De $39,360.00 a $69,160.00, para la establecida en el segundo párrafo, inciso f), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código enviados al Servicio de Administración Tributaria fuera del plazo establecido. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
+f) De $39,360.00 a $69,160.00, para la establecida en el segundo párrafo, inciso f), por cada uno de los reportes de información a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código enviados al Servicio de Administración Tributaria fuera del plazo establecido. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
-g) De $39,360.00 a $69,160.00, para la establecida en el segundo párrafo, inciso g), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código enviados de forma incompleta, con errores, o en forma distinta a lo señalado en dicho apartado. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
+g) De $39,360.00 a $69,160.00, para la establecida en el segundo párrafo, inciso g), por cada uno de los reportes de información a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código enviados de forma incompleta, con errores, o en forma distinta a lo señalado en dicho apartado. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
-h) De $39,360.00 a $69,160.00, para la establecida en el segundo párrafo, inciso h), por cada uno de los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código no generados o conservados. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
+h) De $39,360.00 a $69,160.00, para la establecida en el segundo párrafo, inciso h), por cada uno de los reportes de información a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código no generados o conservados. Multa del inciso compilada por resolución miscelánea fiscal DOF 05-01-2022, 27-12-2022. Actualizada DOF 29-12-2023. Compilada DOF 30-12-2024, 28-12-2025
 
 i) De $39,360.00 a $69,160.00, para la establecida en el inciso i). La sanción consistirá además en la clausura del establecimiento por el doble del plazo de la clausura impuesta previamente. Para tales efectos, el plazo de clausura a que se refiere este inciso comenzará a computarse a partir de que la autoridad fiscal detecte la infracción. Inciso adicionado DOF 07-11-2025 Multa del inciso actualizada por resolución miscelánea fiscal DOF 28-12-2025 Fracción reformada DOF 12-11-2021
 

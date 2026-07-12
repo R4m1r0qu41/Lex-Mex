@@ -27,7 +27,7 @@ Las personas a que se refiere el párrafo anterior, adicionalmente deberán cont
 
 b) Las personas extranjeras con derecho a dictaminar conforme a los tratados internacionales de que México sea parte.
 
-c) Las personas que estén al corriente en el cumplimiento de sus obligaciones fiscales en los términos del artículo 32-D de este Código, para lo cual deberán exhibir documento vigente expedido por el Servicio de Administración Tributaria, en el que se emita la opinión del cumplimiento de obligaciones fiscales. El registro otorgado a los contadores públicos que formulen dictámenes para efectos fiscales, será dado de baja del padrón de contadores públicos registrados que llevan las autoridades fiscales, en aquéllos casos en los que dichos contadores no formulen dictamen sobre los estados financieros de los contribuyentes o las operaciones de enajenación de acciones que realice o cualquier otro dictamen que tenga repercusión fiscal, en un periodo de cinco años.
+c) Las personas que estén al corriente en el cumplimiento de sus obligaciones fiscales en los términos del artículo [32-D](articulo-32-D.md) de este Código, para lo cual deberán exhibir documento vigente expedido por el Servicio de Administración Tributaria, en el que se emita la opinión del cumplimiento de obligaciones fiscales. El registro otorgado a los contadores públicos que formulen dictámenes para efectos fiscales, será dado de baja del padrón de contadores públicos registrados que llevan las autoridades fiscales, en aquéllos casos en los que dichos contadores no formulen dictamen sobre los estados financieros de los contribuyentes o las operaciones de enajenación de acciones que realice o cualquier otro dictamen que tenga repercusión fiscal, en un periodo de cinco años.
 
 El periodo de cinco años a que se refiere el párrafo anterior, se computará a partir del día siguiente a aquél en que se presentó el último dictamen que haya formulado el contador público.
 
@@ -37,13 +37,13 @@ II. Que el dictamen, se formule de acuerdo con las disposiciones del Reglamento 
 
 III. Que el contador público emita, conjuntamente con su dictamen, un informe sobre la revisión de la situación fiscal del contribuyente, en el que consigne, bajo protesta de decir verdad, los datos que señale el Reglamento de este Código.
 
-Adicionalmente, en dicho informe el contador público deberá señalar si el contribuyente incorporó en el dictamen la información relacionada con la aplicación de algunos de los criterios diversos a los que en su caso hubiera dado a conocer la autoridad fiscal conforme al inciso h) de la fracción I del artículo 33 de este Código.
+Adicionalmente, en dicho informe el contador público deberá señalar si el contribuyente incorporó en el dictamen la información relacionada con la aplicación de algunos de los criterios diversos a los que en su caso hubiera dado a conocer la autoridad fiscal conforme al inciso h) de la fracción I del artículo [33](articulo-33.md) de este Código.
 
 Cuando derivado de la elaboración del dictamen el contador público inscrito tenga conocimiento de que el contribuyente ha incumplido con las disposiciones fiscales y aduaneras, deberá informarlo a la autoridad fiscal, de acuerdo con las reglas de carácter general que para tales efectos emita el Servicio de Administración Tributaria. Párrafo adicionado DOF 12-11-2021. Reformado DOF 07-11-2025
 
 IV. Que el dictamen se presente a través de los medios electrónicos de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 
-V. Que el contador público esté, en el mes de presentación del dictamen, al corriente en el cumplimiento de sus obligaciones fiscales en los términos del artículo 32-D de este Código, para lo cual deberán exhibir a los particulares el documento vigente expedido por el Servicio de Administración Tributaria, en el que se emita la opinión del cumplimiento de obligaciones fiscales.
+V. Que el contador público esté, en el mes de presentación del dictamen, al corriente en el cumplimiento de sus obligaciones fiscales en los términos del artículo [32-D](articulo-32-D.md) de este Código, para lo cual deberán exhibir a los particulares el documento vigente expedido por el Servicio de Administración Tributaria, en el que se emita la opinión del cumplimiento de obligaciones fiscales.
 
 Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales. La revisión de los dictámenes y demás documentos relativos a los mismos se podrá efectuar en forma previa o simultánea al ejercicio de las otras facultades de comprobación respecto de los contribuyentes o responsables solidarios.
 

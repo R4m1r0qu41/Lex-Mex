@@ -23,7 +23,7 @@ b) Las operaciones con partes relacionadas.
 
 c) Las relativas a la participación en el capital de sociedades y a cambios en la residencia fiscal.
 
-d) Las relativas a reorganizaciones y reestructuras corporativas, así como las operaciones relevantes a que se refieren los artículos 14-B de este Código y 24 y 161 de la Ley del Impuesto sobre la Renta. Inciso reformado DOF 12-11-2021
+d) Las relativas a reorganizaciones y reestructuras corporativas, así como las operaciones relevantes a que se refieren los artículos [14-B](articulo-14-B.md) de este Código y 24 y 161 de la Ley del Impuesto sobre la Renta. Inciso reformado DOF 12-11-2021
 
 e) Las relativas a enajenaciones y aportaciones, de bienes y activos financieros; operaciones con países con sistema de tributación territorial; operaciones de financiamiento y sus intereses; pérdidas fiscales; reembolsos de capital y pago de dividendos.
 

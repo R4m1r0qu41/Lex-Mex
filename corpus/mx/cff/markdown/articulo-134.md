@@ -25,7 +25,7 @@ La notificación electrónica de documentos digitales se realizará en el buzón
 
 El acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir el documento digital que le hubiera sido enviado.
 
-Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el contribuyente se autenticó para abrir el documento a notificar. Previo a la realización de la notificación electrónica, al contribuyente le será enviado un aviso mediante el mecanismo designado por éste en términos del tercer párrafo del artículo 17-K de este Código.
+Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el contribuyente se autenticó para abrir el documento a notificar. Previo a la realización de la notificación electrónica, al contribuyente le será enviado un aviso mediante el mecanismo designado por éste en términos del tercer párrafo del artículo [17-K](articulo-17-K.md) de este Código.
 
 Los contribuyentes contarán con tres días para abrir los documentos digitales pendientes de notificar. Dicho plazo se contará a partir del día siguiente a aquél en que le sea enviado el aviso al que se refiere el párrafo anterior.
 
@@ -37,11 +37,11 @@ El acuse de recibo también podrá consistir en el documento digital con firma e
 
 Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales y podrán imprimirse para el interesado, dicha impresión contendrá un sello digital que lo autentifique.
 
-Las notificaciones en el buzón tributario serán emitidas anexando el sello digital correspondiente, conforme a lo señalado en los artículos 17-D y 38, fracción V de este Código.
+Las notificaciones en el buzón tributario serán emitidas anexando el sello digital correspondiente, conforme a lo señalado en los artículos [17-D](articulo-17-D.md) y [38](articulo-38.md), fracción V de este Código.
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior.
 
-III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del registro federal de contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación o se coloque en el supuesto previsto en la fracción V del artículo 110 de este Código y en los demás casos que señalen las Leyes fiscales y este Código.
+III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del registro federal de contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación o se coloque en el supuesto previsto en la fracción V del artículo [110](articulo-110.md) de este Código y en los demás casos que señalen las Leyes fiscales y este Código.
 
 IV. Por edictos, en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión.
 

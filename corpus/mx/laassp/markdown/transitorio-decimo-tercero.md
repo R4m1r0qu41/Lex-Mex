@@ -15,4 +15,4 @@ source_sha256: 883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc
 
 # Décimo Tercero
 
-Para efectos del cumplimiento del artículo 17 de la Ley General de Sociedades Cooperativas, se otorgan los siguientes plazos: I. Cuatro meses a partir de la entrada en vigor del presente Decreto, para emitir el Acuerdo a que se refiere su primer párrafo. II. Cuatro meses contados a partir de la entrada en vigor del Acuerdo que establece el inciso anterior, para que la Secretaría de Bienestar y la Secretaría de Economía, suscriban el instrumento a que se refiere su segundo párrafo.
+Para efectos del cumplimiento del artículo 17 de la Ley General de Sociedades Cooperativas, se otorgan los siguientes plazos: I. Cuatro meses a partir de la entrada en vigor del presente Decreto, para emitir el Acuerdo a que se refiere su primer párrafo. II. Cuatro meses contados a partir de la entrada en vigor del Acuerdo que establece el inciso anterior, para que la [Secretaría](articulo-5.md) de Bienestar y la Secretaría de Economía, suscriban el instrumento a que se refiere su segundo párrafo.

@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 41
 
-Cuando las personas obligadas a presentar declaraciones, avisos, reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código y demás documentos no lo hagan dentro de los plazos señalados o de conformidad con las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento o la información respectiva ante las oficinas correspondientes, procediendo de la siguiente forma: Párrafo reformado DOF 12-11-2021
+Cuando las personas obligadas a presentar declaraciones, avisos, reportes de información a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código y demás documentos no lo hagan dentro de los plazos señalados o de conformidad con las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento o la información respectiva ante las oficinas correspondientes, procediendo de la siguiente forma: Párrafo reformado DOF 12-11-2021
 
 I. Imponer la multa que corresponda en los términos de este Código y requerir hasta en tres ocasiones la presentación de la información omitida, otorgando al contribuyente un plazo de quince días para el cumplimiento de cada requerimiento. Si no se atienden los requerimientos se impondrán las multas correspondientes que, tratándose de declaraciones, será una multa por cada obligación omitida. La autoridad, después del tercer requerimiento respecto de la misma obligación, podrá aplicar lo dispuesto en la siguiente fracción. Fracción reformada DOF 12-11-2021
 

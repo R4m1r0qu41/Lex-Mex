@@ -17,6 +17,6 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 3074
 
-Las inscripciones que se practiquen en los folios relativos a bienes muebles y personas morales no producirán más efectos que los señalados en los artículo 2310, fracción II; 2312, 2673, 2694 y 2859 de este Código, y les serán aplicables a los registros las disposiciones relativas a los bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia de éste y del anterior capítulo y con los efectos que las inscripciones producen.
+Las inscripciones que se practiquen en los folios relativos a bienes muebles y personas morales no producirán más efectos que los señalados en los artículo [2310](articulo-2310.md), fracción II; [2312](articulo-2312.md), [2673](articulo-2673.md), [2694](articulo-2694.md) y [2859](articulo-2859.md) de este Código, y les serán aplicables a los registros las disposiciones relativas a los bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia de éste y del anterior capítulo y con los efectos que las inscripciones producen.
 
 Artículo adicionado DOF 03-01-1979

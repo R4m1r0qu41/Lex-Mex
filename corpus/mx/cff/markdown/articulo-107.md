@@ -27,6 +27,6 @@ IV. Usando documentos falsos.
 
 V. Por tres o más personas.
 
-Las calificativas a que se refieren las fracciones III, IV y V de este artículo, también serán aplicables al delito previsto en el artículo 105 de este Código.
+Las calificativas a que se refieren las fracciones III, IV y V de este artículo, también serán aplicables al delito previsto en el artículo [105](articulo-105.md) de este Código.
 
 Cuando los delitos a que se refiere este artículo sean calificados, la sanción correspondiente se aumentará de tres meses a tres años de prisión. Si la calificativa constituye otro delito, se aplicarán las reglas de la acumulación.

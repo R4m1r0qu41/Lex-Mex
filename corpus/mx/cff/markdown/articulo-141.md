@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 141
 
-Las personas contribuyentes podrán garantizar el interés fiscal, cuando se actualice alguno de los supuestos establecidos en los artículos 74 y 142 de este Código, en alguna de las formas siguientes: Párrafo reformado DOF 09-04-2026
+Las personas contribuyentes podrán garantizar el interés fiscal, cuando se actualice alguno de los supuestos establecidos en los artículos [74](articulo-74.md) y [142](articulo-142.md) de este Código, en alguna de las formas siguientes: Párrafo reformado DOF 09-04-2026
 
 I. Billete de depósito, emitido por institución autorizada.
 

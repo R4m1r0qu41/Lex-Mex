@@ -29,7 +29,7 @@ IV. Determine pérdidas con falsedad.
 
 V. Sea responsable de omitir la presentación por más de tres meses, de la declaración informativa a que se refiere el primer párrafo del artículo 178 de la Ley del Impuesto sobre la Renta, o presentarla en forma incompleta.
 
-VI.- Por sí, o por interpósita persona, divulgue, haga uso personal o indebido, a través de cualquier medio o forma, de la información confidencial que afecte la posición competitiva proporcionada por terceros a que se refieren los artículos 46, fracción IV y 48, fracción VII de este Código.
+VI.- Por sí, o por interpósita persona, divulgue, haga uso personal o indebido, a través de cualquier medio o forma, de la información confidencial que afecte la posición competitiva proporcionada por terceros a que se refieren los artículos [46](articulo-46.md), fracción IV y [48](articulo-48.md), fracción VII de este Código.
 
 VII. Derogada.
 

@@ -23,6 +23,6 @@ Cuando el daño se cause a las personas y produzca la muerte, incapacidad total 
 
 Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
-Las anteriores disposiciones se observarán en el caso del artículo 2647 de este Código.
+Las anteriores disposiciones se observarán en el caso del artículo [2647](articulo-2647.md) de este Código.
 
 Artículo reformado DOF 20-01-1940. Fe de erratas DOF 30-04-1940. Reformado DOF 22-12-1975

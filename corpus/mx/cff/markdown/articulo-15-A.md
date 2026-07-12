@@ -21,6 +21,6 @@ Se entiende por escisión de sociedades, la transmisión de la totalidad o parte
 
 I. Cuando la escindente transmite una parte de su activo, pasivo y capital social a una o varias escindidas, sin que se extinga, o
 
-II. Cuando la sociedad escindente transmite la totalidad de su activo, pasivo y capital social a dos o más sociedades escindidas, extinguiéndose la primera. En este caso, la sociedad escindida que se designe en los términos del artículo 14-B de este Código, deberá conservar la documentación a que se refiere el artículo [28](articulo-28.md) del mismo.
+II. Cuando la sociedad escindente transmite la totalidad de su activo, pasivo y capital social a dos o más sociedades escindidas, extinguiéndose la primera. En este caso, la sociedad escindida que se designe en los términos del artículo [14-B](articulo-14-B.md) de este Código, deberá conservar la documentación a que se refiere el artículo [28](articulo-28.md) del mismo.
 
 Artículo reformado DOF 12-11-2021

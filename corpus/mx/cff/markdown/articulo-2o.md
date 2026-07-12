@@ -27,4 +27,4 @@ IV. Derechos son las contribuciones establecidas en Ley por el uso o aprovechami
 
 Cuando sean organismos descentralizados los que proporcionen la seguridad social a que hace mención la fracción II, las contribuciones correspondientes tendrán la naturaleza de aportaciones de seguridad social.
 
-Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el séptimo párrafo del Artículo 21 de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con excepción de lo dispuesto en el Artículo [1](articulo-1o.md)o.
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el séptimo párrafo del Artículo [21](articulo-21.md) de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con excepción de lo dispuesto en el Artículo [1](articulo-1o.md)o.

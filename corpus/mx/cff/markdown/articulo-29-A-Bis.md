@@ -17,6 +17,6 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 29-A Bis
 
-Cuando las autoridades fiscales se encuentren ejerciendo cualquiera de las facultades establecidas en este Código, y detecten el incumplimiento al requisito establecido en el artículo 29-A, fracción IX de este Código, podrán determinar lo que corresponda conforme a la facultad que estén ejerciendo, sin que se requiera agotar previamente el procedimiento a que se refiere el artículo [49 Bis](articulo-49-Bis.md), con relación al artículo 42, fracción V, inciso g), ambos del presente Código.
+Cuando las autoridades fiscales se encuentren ejerciendo cualquiera de las facultades establecidas en este Código, y detecten el incumplimiento al requisito establecido en el artículo [29-A](articulo-29-A.md), fracción IX de este Código, podrán determinar lo que corresponda conforme a la facultad que estén ejerciendo, sin que se requiera agotar previamente el procedimiento a que se refiere el artículo [49 Bis](articulo-49-Bis.md), con relación al artículo [42](articulo-42.md), fracción V, inciso g), ambos del presente Código.
 
 Artículo adicionado DOF 07-11-2025

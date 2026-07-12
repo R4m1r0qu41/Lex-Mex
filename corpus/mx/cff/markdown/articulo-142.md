@@ -23,7 +23,7 @@ I. Se solicite la suspensión del procedimiento administrativo de ejecución, in
 
 II. Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades, si dichas facilidades se conceden individualmente.
 
-III. Se solicite la aplicación del producto en los términos del Artículo 159 de este Código.
+III. Se solicite la aplicación del producto en los términos del Artículo [159](articulo-159.md) de este Código.
 
 IV. Se solicite el procedimiento de resolución de controversias previsto en un tratado para evitar la doble tributación. Fracción adicionada DOF 12-11-2021
 

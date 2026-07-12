@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 201
 
-La revelación de un esquema reportable en términos de este Capítulo, no implica la aceptación o rechazo de sus efectos fiscales por parte de las autoridades fiscales. La información presentada en términos de este Título y que sea estrictamente indispensable para el funcionamiento del esquema, en ningún caso podrá utilizarse como antecedente de la investigación por la posible comisión de los delitos previstos en este Código, salvo tratándose de los delitos previstos en los artículos 113 y 113 Bis de este Código. La información obtenida de conformidad con este Capítulo deberá tratarse en los términos del artículo 69 de este Código.
+La revelación de un esquema reportable en términos de este Capítulo, no implica la aceptación o rechazo de sus efectos fiscales por parte de las autoridades fiscales. La información presentada en términos de este Título y que sea estrictamente indispensable para el funcionamiento del esquema, en ningún caso podrá utilizarse como antecedente de la investigación por la posible comisión de los delitos previstos en este Código, salvo tratándose de los delitos previstos en los artículos [113](articulo-113.md) y [113 Bis](articulo-113-Bis.md) de este Código. La información obtenida de conformidad con este Capítulo deberá tratarse en los términos del artículo [69](articulo-69.md) de este Código.
 
 La revelación de dichos esquemas se realizará a través de una declaración informativa que se presentará por medio de los mecanismos que disponga el Servicio de Administración Tributaria para tal efecto.
 

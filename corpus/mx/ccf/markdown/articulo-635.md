@@ -17,6 +17,6 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 635
 
-Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo [537](articulo-537.md) y el segundo párrafo del artículo 23 de este Código.
+Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo [537](articulo-537.md) y el segundo párrafo del artículo [23](articulo-23.md) de este Código.
 
 Artículo reformado DOF 27-03-2020

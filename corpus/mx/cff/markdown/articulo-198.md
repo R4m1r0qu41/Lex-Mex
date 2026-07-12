@@ -21,11 +21,11 @@ Los contribuyentes se encuentran obligados a revelar los esquemas reportables en
 
 I. Cuando el asesor fiscal no le proporcione el número de identificación del esquema reportable emitido por el Servicio de Administración Tributaria, ni le otorgue una constancia que señale que el esquema no es reportable.
 
-II. Cuando el esquema reportable haya sido diseñado, organizado, implementado y administrado por el contribuyente. En estos casos, cuando el contribuyente sea una persona moral, las personas físicas que sean los asesores fiscales responsables del esquema reportable que tengan acciones o participaciones en dicho contribuyente, o con los que mantenga una relación de subordinación, quedarán excluidas de la obligación de revelar siempre que se cumpla con lo dispuesto en la fracción II del artículo 200 de este Código.
+II. Cuando el esquema reportable haya sido diseñado, organizado, implementado y administrado por el contribuyente. En estos casos, cuando el contribuyente sea una persona moral, las personas físicas que sean los asesores fiscales responsables del esquema reportable que tengan acciones o participaciones en dicho contribuyente, o con los que mantenga una relación de subordinación, quedarán excluidas de la obligación de revelar siempre que se cumpla con lo dispuesto en la fracción II del artículo [200](articulo-200.md) de este Código.
 
-III. Cuando el contribuyente obtenga beneficios fiscales en México de un esquema reportable que haya sido diseñado, comercializado, organizado, implementado o administrado por una persona que no se considera asesor fiscal conforme al artículo 197 de este Código.
+III. Cuando el contribuyente obtenga beneficios fiscales en México de un esquema reportable que haya sido diseñado, comercializado, organizado, implementado o administrado por una persona que no se considera asesor fiscal conforme al artículo [197](articulo-197.md) de este Código.
 
-IV. Cuando el asesor fiscal sea un residente en el extranjero sin establecimiento permanente en territorio nacional de conformidad con la Ley del Impuesto sobre la Renta, o cuando teniéndolo, las actividades atribuibles a dicho establecimiento permanente no sean aquéllas realizadas por un asesor fiscal conforme al artículo 197 de este Código.
+IV. Cuando el asesor fiscal sea un residente en el extranjero sin establecimiento permanente en territorio nacional de conformidad con la Ley del Impuesto sobre la Renta, o cuando teniéndolo, las actividades atribuibles a dicho establecimiento permanente no sean aquéllas realizadas por un asesor fiscal conforme al artículo [197](articulo-197.md) de este Código.
 
 V. Cuando exista un impedimento legal para que el asesor fiscal revele el esquema reportable.
 

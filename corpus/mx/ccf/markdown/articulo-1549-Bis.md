@@ -23,11 +23,11 @@ I.- Que el precio del inmueble o su valor de avalúo no exceda del equivalente a
 
 II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente cuenta de los incapaces;
 
-III.- Si hubiere pluralidad de adquirentes del inmueble cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo 1296 de este Código;
+III.- Si hubiere pluralidad de adquirentes del inmueble cada copropietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo no se aplicará lo dispuesto por el artículo [1296](articulo-1296.md) de este Código;
 
 IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado represente en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
 
-V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos 1713, 1770 y demás relativos de este Código; y
+V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no le serán aplicables las disposiciones de los artículos [1713](articulo-1713.md), [1770](articulo-1770.md) y demás relativos de este Código; y
 
 VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos del artículo 810 del Código Nacional de Procedimientos Civiles y Familiares. Fracción reformada DOF 14-11-2025
 

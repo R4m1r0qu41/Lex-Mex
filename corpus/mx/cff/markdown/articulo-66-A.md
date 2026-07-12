@@ -23,7 +23,7 @@ I. Tratándose de la autorización del pago a plazos en parcialidades, el saldo 
 
 El monto de cada una de las parcialidades deberá ser igual, y pagadas en forma mensual y sucesiva, para lo cual se tomará como base el saldo del párrafo anterior, el plazo elegido por el contribuyente en su solicitud de autorización de pago a plazos y la tasa mensual de recargos por prórroga que incluye actualización de acuerdo a la Ley de Ingresos de la Federación vigente en la fecha de la solicitud de autorización de pago a plazos en parcialidades.
 
-Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados, el contribuyente estará obligado a pagar recargos por los pagos extemporáneos sobre el monto total de las parcialidades no cubiertas actualizadas, de conformidad con los artículos 17-A y 21 de este Código, por el número de meses o fracción de mes desde la fecha en que se debió realizar el pago y hasta que éste se efectúe.
+Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados, el contribuyente estará obligado a pagar recargos por los pagos extemporáneos sobre el monto total de las parcialidades no cubiertas actualizadas, de conformidad con los artículos [17-A](articulo-17-A.md) y [21](articulo-21.md) de este Código, por el número de meses o fracción de mes desde la fecha en que se debió realizar el pago y hasta que éste se efectúe.
 
 II. Tratándose de la autorización del pago a plazos de forma diferida, el monto que se diferirá será el resultado de restar el pago correspondiente al 20% señalado en la fracción II del [artículo anterior](articulo-66.md), del monto total del adeudo a que hace referencia dicha fracción.
 
@@ -31,7 +31,7 @@ El monto a liquidar por el contribuyente, se calculará adicionando al monto ref
 
 El monto para liquidar el adeudo a que se hace referencia en el párrafo anterior, deberá cubrirse en una sola exhibición a más tardar en la fecha de pago especificada por el contribuyente en su solicitud de autorización de pago a plazos.
 
-III. Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la fracción II del artículo 66 de este Código, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado de acuerdo a lo dispuesto en las fracciones I y II de este artículo.
+III. Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la fracción II del artículo [66](articulo-66.md) de este Código, más la cantidad que resulte de aplicar la tasa de recargos por prórroga y por el plazo solicitado de acuerdo a lo dispuesto en las fracciones I y II de este artículo.
 
 La autoridad podrá dispensar la garantía del interés fiscal en los casos que señale el Servicio de Administración Tributaria mediante reglas de carácter general. IV. Se revocará la autorización para pagar a plazos en parcialidades o en forma diferida, cuando:
 
@@ -45,7 +45,7 @@ d) Tratándose del pago diferido, se venza el plazo para realizar el pago y ést
 
 En los supuestos señalados en los incisos anteriores las autoridades fiscales requerirán y harán exigible el saldo mediante el procedimiento administrativo de ejecución.
 
-El saldo no cubierto en el pago a plazos se actualizará y causará recargos, de conformidad con lo establecido en los artículos 17-A y 21 de este Código, desde la fecha en que se haya efectuado el último pago conforme a la autorización respectiva.
+El saldo no cubierto en el pago a plazos se actualizará y causará recargos, de conformidad con lo establecido en los artículos [17-A](articulo-17-A.md) y [21](articulo-21.md) de este Código, desde la fecha en que se haya efectuado el último pago conforme a la autorización respectiva.
 
 V. Los pagos efectuados durante la vigencia de la autorización se deberán aplicar al periodo más antiguo, en el siguiente orden:
 
@@ -63,9 +63,9 @@ c) Accesorios en el siguiente orden:
 
 4. Recargos.
 
-5. Indemnización a que se refiere el séptimo párrafo del artículo 21 de este Código.
+5. Indemnización a que se refiere el séptimo párrafo del artículo [21](articulo-21.md) de este Código.
 
-d) Monto de las contribuciones omitidas, a las que hace referencia el inciso a) de la fracción II del artículo 66 de este Código.
+d) Monto de las contribuciones omitidas, a las que hace referencia el inciso a) de la fracción II del artículo [66](articulo-66.md) de este Código.
 
 VI. No procederá la autorización a que se refiere este artículo tratándose de:
 
@@ -73,6 +73,6 @@ a) Contribuciones que debieron pagarse en el año de calendario en curso o las q
 
 b) (Derogado). Inciso derogado DOF 07-11-2025
 
-c) Contribuciones retenidas, trasladadas o recaudadas. La autoridad fiscal podrá determinar y cobrar el saldo de las diferencias que resulten por la presentación de declaraciones, en las cuales, sin tener derecho al pago a plazos, los contribuyentes hagan uso en forma indebida de dicho pago a plazos, entendiéndose como uso indebido cuando se solicite cubrir las contribuciones y aprovechamientos que debieron pagarse por motivo de la importación y exportación de bienes y servicios, contribuciones que debieron pagarse en el año de calendario en curso o las que debieron pagarse en los seis meses anteriores, al mes en el que se solicite la autorización, cuando se trate de contribuciones retenidas, trasladadas o recaudadas; cuando procediendo el pago a plazos, no se presente la solicitud de autorización correspondiente en los plazos establecidos en las reglas de carácter general que establezca el Servicio de Administración Tributaria, y cuando dicha solicitud no se presente con todos los requisitos a que se refiere el artículo 66 de este Código.
+c) Contribuciones retenidas, trasladadas o recaudadas. La autoridad fiscal podrá determinar y cobrar el saldo de las diferencias que resulten por la presentación de declaraciones, en las cuales, sin tener derecho al pago a plazos, los contribuyentes hagan uso en forma indebida de dicho pago a plazos, entendiéndose como uso indebido cuando se solicite cubrir las contribuciones y aprovechamientos que debieron pagarse por motivo de la importación y exportación de bienes y servicios, contribuciones que debieron pagarse en el año de calendario en curso o las que debieron pagarse en los seis meses anteriores, al mes en el que se solicite la autorización, cuando se trate de contribuciones retenidas, trasladadas o recaudadas; cuando procediendo el pago a plazos, no se presente la solicitud de autorización correspondiente en los plazos establecidos en las reglas de carácter general que establezca el Servicio de Administración Tributaria, y cuando dicha solicitud no se presente con todos los requisitos a que se refiere el artículo [66](articulo-66.md) de este Código.
 
-Durante el periodo que el contribuyente se encuentre pagando a plazos en los términos de las fracciones I y II del presente artículo, las cantidades determinadas, no serán objeto de actualización, debido a que la tasa de recargos por prórroga la incluye, salvo que el contribuyente se ubique en alguna causal de revocación, o cuando deje de pagar en tiempo y monto alguna de las parcialidades, supuestos en los cuales se causará ésta de conformidad con lo previsto por el artículo 17-A de este Código, desde la fecha en que debió efectuar el último pago y hasta que éste se realice.
+Durante el periodo que el contribuyente se encuentre pagando a plazos en los términos de las fracciones I y II del presente artículo, las cantidades determinadas, no serán objeto de actualización, debido a que la tasa de recargos por prórroga la incluye, salvo que el contribuyente se ubique en alguna causal de revocación, o cuando deje de pagar en tiempo y monto alguna de las parcialidades, supuestos en los cuales se causará ésta de conformidad con lo previsto por el artículo [17-A](articulo-17-A.md) de este Código, desde la fecha en que debió efectuar el último pago y hasta que éste se realice.

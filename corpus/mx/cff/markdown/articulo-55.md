@@ -35,15 +35,15 @@ V. No se tengan en operación las máquinas registradoras de comprobación fisca
 
 VI. Se adviertan otras irregularidades en su contabilidad que imposibiliten el conocimiento de sus operaciones.
 
-VII. Tratándose de los contribuyentes a que se refiere el artículo 28, fracción I, apartado B de este Código:
+VII. Tratándose de los contribuyentes a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código:
 
-a) No envíen los reportes de información a que se refiere el artículo 28, fracción I, apartado B de este Código.
+a) No envíen los reportes de información a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código.
 
-b) No cuenten con los controles volumétricos de hidrocarburos o petrolíferos a que hace referencia el artículo 28, fracción I, apartado B de este Código, o contando con éstos, los altere, inutilice o destruya.
+b) No cuenten con los controles volumétricos de hidrocarburos o petrolíferos a que hace referencia el artículo [28](articulo-28.md), fracción I, apartado B de este Código, o contando con éstos, los altere, inutilice o destruya.
 
 c) No cuenten con los equipos y programas informáticos para llevar los controles volumétricos referidos en el artículo [28](articulo-28.md), fracción I, apartado B de este ordenamiento, o contando con éstos, no los mantenga en operación en todo momento, los altere, inutilice o destruya.
 
-d) Exista una diferencia de más del 0.5% tratándose de hidrocarburos y petrolíferos líquidos o de 1% tratándose de hidrocarburos y petrolíferos gaseosos, en el volumen final de un mes de calendario, obtenido de sumar al volumen inicial en dicho periodo, las recepciones de producto y restar las entregas de producto de acuerdo con los controles volumétricos, en el mes revisado, con respecto al registro de volumen final del tanque medido por cada producto de cada instalación de acuerdo al reporte de información a que se refiere el artículo 28, fracción I, apartado B de este Código.
+d) Exista una diferencia de más del 0.5% tratándose de hidrocarburos y petrolíferos líquidos o de 1% tratándose de hidrocarburos y petrolíferos gaseosos, en el volumen final de un mes de calendario, obtenido de sumar al volumen inicial en dicho periodo, las recepciones de producto y restar las entregas de producto de acuerdo con los controles volumétricos, en el mes revisado, con respecto al registro de volumen final del tanque medido por cada producto de cada instalación de acuerdo al reporte de información a que se refiere el artículo [28](articulo-28.md), fracción I, apartado B de este Código.
 
 e) Tratándose de adquisiciones de hidrocarburos o petrolíferos, los litros de estos productos, de acuerdo con los registros de recepción de los controles volumétricos, excedan en más del 0.5% tratándose de hidrocarburos y petrolíferos líquidos o de 1% tratándose de hidrocarburos y petrolíferos gaseosos, de los que haya adquirido de acuerdo con los litros amparados en los comprobantes fiscales de la compra, y que reúnan requisitos fiscales, o pedimentos de importación del hidrocarburo o petrolífero, en un mes de calendario. f) Se dé cualquiera de los siguientes supuestos, tratándose de ventas, en un mes de calendario:
 

@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 160
 
-El embargo de créditos será notificado directamente por la autoridad fiscal a los deudores del embargado, y se les requerirá con el objeto de que informen las características de la relación contractual con el contribuyente, apercibidos que de no comparecer en el término de tres días, se les impondrá una multa de conformidad con el artículo 91 de este Código; asimismo, se les requerirá para que no efectúen el pago de las cantidades respectivas a éste sino a la autoridad fiscal, apercibidos de doble pago en caso de desobediencia.
+El embargo de créditos será notificado directamente por la autoridad fiscal a los deudores del embargado, y se les requerirá con el objeto de que informen las características de la relación contractual con el contribuyente, apercibidos que de no comparecer en el término de tres días, se les impondrá una multa de conformidad con el artículo [91](articulo-91.md) de este Código; asimismo, se les requerirá para que no efectúen el pago de las cantidades respectivas a éste sino a la autoridad fiscal, apercibidos de doble pago en caso de desobediencia.
 
 Si se tratare de títulos a la orden o al portador, el embargo solo podrá practicarse mediante la obtención física de los mismos.
 

@@ -17,6 +17,6 @@ source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
 
 # Artículo 430
 
-En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto. Tratándose de las cuentas de depósito bancario de dinero a que se refiere el segundo párrafo del artículo 23 de este Código, la totalidad del usufructo de los fondos depositados en dichas cuentas pertenecerá al menor de edad.
+En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponden a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto. Tratándose de las cuentas de depósito bancario de dinero a que se refiere el segundo párrafo del artículo [23](articulo-23.md) de este Código, la totalidad del usufructo de los fondos depositados en dichas cuentas pertenecerá al menor de edad.
 
 Artículo reformado DOF 27-03-2020

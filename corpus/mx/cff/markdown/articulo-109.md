@@ -31,6 +31,6 @@ VI. (Se deroga)
 
 VII. (Se deroga)
 
-VIII. Darle efectos fiscales a los comprobantes digitales cuando no reúnan los requisitos de los artículos 29 y 29-A de este Código.
+VIII. Darle efectos fiscales a los comprobantes digitales cuando no reúnan los requisitos de los artículos [29](articulo-29.md) y [29-A](articulo-29-A.md) de este Código.
 
 No se formulará querella, si quien encontrándose en los supuestos anteriores, entera espontáneamente, con sus recargos, el monto de la contribución omitida o del beneficio indebido antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.

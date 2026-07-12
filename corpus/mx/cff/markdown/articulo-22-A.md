@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 22-A
 
-Cuando los contribuyentes presenten una solicitud de devolución de un saldo a favor o de un pago de lo indebido, y la devolución se efectúe fuera del plazo establecido en el [artículo anterior](articulo-22.md), las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo conforme a la tasa prevista en los términos del artículo 21 de este Código que se aplicará sobre la devolución actualizada.
+Cuando los contribuyentes presenten una solicitud de devolución de un saldo a favor o de un pago de lo indebido, y la devolución se efectúe fuera del plazo establecido en el [artículo anterior](articulo-22.md), las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo conforme a la tasa prevista en los términos del artículo [21](articulo-21.md) de este Código que se aplicará sobre la devolución actualizada.
 
 Cuando el contribuyente presente una solicitud de devolución que sea negada y posteriormente sea concedida por la autoridad en cumplimiento de una resolución dictada en un recurso administrativo o de una sentencia emitida por un órgano jurisdiccional, el cálculo de los intereses se efectuará a partir de:
 

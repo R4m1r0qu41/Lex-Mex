@@ -25,7 +25,7 @@ II. Que no se determinaron diferencias a su cargo en el pago de impuestos y acce
 
 III. (Se deroga). IV. Haber cumplido los requerimientos que, en su caso, le hubieren hecho las autoridades fiscales en los tres últimos ejercicios fiscales.
 
-V. No haber incurrido en alguna de las agravantes a que se refiere el artículo 75 de este Código al momento en que las autoridades fiscales impongan la multa.
+V. No haber incurrido en alguna de las agravantes a que se refiere el artículo [75](articulo-75.md) de este Código al momento en que las autoridades fiscales impongan la multa.
 
 VI. No estar sujeto al ejercicio de una o varias acciones penales, por delitos previstos en la legislación fiscal o no haber sido condenado por delitos fiscales.
 

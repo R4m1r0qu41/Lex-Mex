@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 53-B
 
-Para los efectos de lo dispuesto en el artículo 42, fracción IX de este Código, las revisiones electrónicas se realizarán conforme a lo siguiente:
+Para los efectos de lo dispuesto en el artículo [42](articulo-42.md), fracción IX de este Código, las revisiones electrónicas se realizarán conforme a lo siguiente:
 
 I. Con base en la información y documentación que obre en su poder, las autoridades fiscales darán a conocer los hechos que deriven en la omisión de contribuciones y aprovechamientos o en la comisión de otras irregularidades, a través de una resolución provisional a la cual, en su caso, se le podrá acompañar un oficio de preliquidación, cuando los hechos consignados sugieran el pago de algún crédito fiscal.
 
@@ -39,8 +39,8 @@ b) Haya vencido el plazo previsto en la fracción III, inciso a) de este artícu
 
 c) Haya vencido el plazo de 10 días previsto en la fracción III, inciso b) de este artículo para que el contribuyente manifieste lo que a su derecho convenga respecto de la información o documentación aportada por el tercero.
 
-Concluidos los plazos otorgados a los contribuyentes para hacer valer lo que a su derecho convenga respecto de los hechos u omisiones dados a conocer durante el desarrollo de las facultades de comprobación a que se refiere la fracción IX del artículo 42 de este Código, se tendrá por perdido el derecho para realizarlo.
+Concluidos los plazos otorgados a los contribuyentes para hacer valer lo que a su derecho convenga respecto de los hechos u omisiones dados a conocer durante el desarrollo de las facultades de comprobación a que se refiere la fracción IX del artículo [42](articulo-42.md) de este Código, se tendrá por perdido el derecho para realizarlo.
 
 Los actos y resoluciones administrativos, así como las promociones de los contribuyentes a que se refiere este artículo, se notificarán y presentarán en documentos digitales a través del buzón tributario.
 
-Las autoridades fiscales deberán concluir el procedimiento de revisión electrónica a que se refiere este artículo dentro de un plazo máximo de seis meses contados a partir de la notificación de la resolución provisional, excepto en materia de comercio exterior, en cuyo caso el plazo no podrá exceder de dos años, en aquellos casos en que se haya solicitado una compulsa internacional. El plazo para concluir el procedimiento de revisión electrónica a que se refiere este párrafo se suspenderá en los casos señalados en las fracciones I, II, III, V y VI y penúltimo párrafo del artículo 46-A de este Código.
+Las autoridades fiscales deberán concluir el procedimiento de revisión electrónica a que se refiere este artículo dentro de un plazo máximo de seis meses contados a partir de la notificación de la resolución provisional, excepto en materia de comercio exterior, en cuyo caso el plazo no podrá exceder de dos años, en aquellos casos en que se haya solicitado una compulsa internacional. El plazo para concluir el procedimiento de revisión electrónica a que se refiere este párrafo se suspenderá en los casos señalados en las fracciones I, II, III, V y VI y penúltimo párrafo del artículo [46-A](articulo-46-A.md) de este Código.

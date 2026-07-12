@@ -29,6 +29,6 @@ IV. Se trate de bienes que por cualquier circunstancia se encuentren en depósit
 
 Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
 
-Cuando los bienes hubieran causado abandono, las autoridades fiscales notificarán por cualquiera de las formas de notificación señaladas en el artículo 134 de este Código, que ha transcurrido el plazo de abandono y que como consecuencia pasan a propiedad del fisco federal. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través del buzón tributario o por estrados.
+Cuando los bienes hubieran causado abandono, las autoridades fiscales notificarán por cualquiera de las formas de notificación señaladas en el artículo [134](articulo-134.md) de este Código, que ha transcurrido el plazo de abandono y que como consecuencia pasan a propiedad del fisco federal. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través del buzón tributario o por estrados.
 
 Los bienes que pasen a propiedad del fisco federal conforme a este artículo, se transferirán al Servicio de Administración y Enajenación de Bienes en términos de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.

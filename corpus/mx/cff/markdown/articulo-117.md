@@ -27,14 +27,14 @@ b) Nieguen la devolución de cantidades que procedan conforme a la Ley.
 
 c) Dicten las autoridades aduaneras.
 
-d) Cualquier resolución de carácter definitivo que cause agravio al particular en materia fiscal, salvo aquéllas a que se refieren los artículos 33-A, 36 y 74 de este Código.
+d) Cualquier resolución de carácter definitivo que cause agravio al particular en materia fiscal, salvo aquéllas a que se refieren los artículos [33-A](articulo-33-A.md), [36](articulo-36.md) y [74](articulo-74.md) de este Código.
 
 II.- Los actos de autoridades fiscales federales que:
 
-a) Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 21 de este Código.
+a) Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo [21](articulo-21.md) de este Código.
 
 b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley, o determinen el valor de los bienes embargados.
 
-c) Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 128 de este Código.
+c) Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo [128](articulo-128.md) de este Código.
 
 d) (Se deroga).

@@ -25,8 +25,8 @@ II. Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales 
 
 III. Exigir una prestación que no esté prevista en las disposiciones fiscales, aun cuando se aplique a la realización de las funciones públicas.
 
-IV. Divulgar, hacer uso personal o indebido de la información confidencial proporcionada por terceros independientes que afecte su posición competitiva a que se refieren los artículos 46, fracción IV y 48, fracción VII de este Código.
+IV. Divulgar, hacer uso personal o indebido de la información confidencial proporcionada por terceros independientes que afecte su posición competitiva a que se refieren los artículos [46](articulo-46.md), fracción IV y [48](articulo-48.md), fracción VII de este Código.
 
-V. Revelar a terceros, en contravención a lo dispuesto por el artículo 69 de este Código, la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.
+V. Revelar a terceros, en contravención a lo dispuesto por el artículo [69](articulo-69.md) de este Código, la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.
 
-VI. No emitir la resolución a que se refiere el artículo 69-B de este Código dentro del plazo previsto en el mismo. Fracción adicionada DOF 12-11-2021
+VI. No emitir la resolución a que se refiere el artículo [69-B](articulo-69-B.md) de este Código dentro del plazo previsto en el mismo. Fracción adicionada DOF 12-11-2021

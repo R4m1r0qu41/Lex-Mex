@@ -19,7 +19,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales, si las personas a quienes debe notificarse se presentan en las mismas.
 
-Las notificaciones también se podrán efectuar en el último domicilio que el interesado haya señalado para efectos del registro federal de contribuyentes o en el domicilio fiscal que le corresponda de acuerdo con lo previsto en el artículo 10 de este Código. Asimismo, podrán realizarse en el domicilio que hubiere designado para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos.
+Las notificaciones también se podrán efectuar en el último domicilio que el interesado haya señalado para efectos del registro federal de contribuyentes o en el domicilio fiscal que le corresponda de acuerdo con lo previsto en el artículo [10](articulo-10.md) de este Código. Asimismo, podrán realizarse en el domicilio que hubiere designado para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de las actuaciones relacionadas con el trámite o la resolución de los mismos.
 
 Toda notificación personal, realizada con quien deba entenderse será legalmente válida aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
 

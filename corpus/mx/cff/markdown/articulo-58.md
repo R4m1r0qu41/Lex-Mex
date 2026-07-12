@@ -21,7 +21,7 @@ Las autoridades fiscales, para determinar presuntivamente la utilidad fiscal de 
 
 I. Se aplicará a los siguientes giros:
 
-a) 6% tratándose de las actividades a que hace referencia el artículo 28, fracción I, apartado B de este Código, excepto distribución de gas licuado de petróleo y enajenación en estaciones de servicio de gasolinas y diésel.
+a) 6% tratándose de las actividades a que hace referencia el artículo [28](articulo-28.md), fracción I, apartado B de este Código, excepto distribución de gas licuado de petróleo y enajenación en estaciones de servicio de gasolinas y diésel.
 
 b) 38% tratándose de la distribución de gas licuado de petróleo.
 

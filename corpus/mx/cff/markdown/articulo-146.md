@@ -21,7 +21,7 @@ El crédito fiscal se extingue por prescripción en el término de cinco años.
 
 El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos o a través del juicio contencioso administrativo. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
 
-Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 144 de este Código, también se suspenderá el plazo de la prescripción.
+Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo [144](articulo-144.md) de este Código, también se suspenderá el plazo de la prescripción.
 
 Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
 

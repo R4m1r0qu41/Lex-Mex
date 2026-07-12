@@ -17,4 +17,4 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 84-J
 
-A las personas morales que cometan la infracción a que se refiere el artículo 84-I de este Código, se les impondrá una multa de $140.00 a $260.00 por cada estado de cuenta no emitido en términos del artículo 32-E de este Código. Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025
+A las personas morales que cometan la infracción a que se refiere el artículo [84-I](articulo-84-I.md) de este Código, se les impondrá una multa de $140.00 a $260.00 por cada estado de cuenta no emitido en términos del artículo [32-E](articulo-32-E.md) de este Código. Multa del artículo compilada por resolución miscelánea fiscal DOF 05-01-2022. Actualizada DOF 27-12-2022. Compilada DOF 29-12-2023, 30-12-2024. Actualizada DOF 28-12-2025

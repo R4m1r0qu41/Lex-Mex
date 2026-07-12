@@ -19,7 +19,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 El promovente que haya optado por el recurso de revocación exclusivo de fondo no podrá variar su elección.
 
-Antes de admitir a trámite el recurso de revocación exclusivo de fondo, la autoridad deberá verificar que se cumplan los requisitos de procedencia y que no se configure alguna causal de sobreseimiento de conformidad con lo previsto en los artículos 18, 121, 122, 123, 124, 124-A y 126 de este Código.
+Antes de admitir a trámite el recurso de revocación exclusivo de fondo, la autoridad deberá verificar que se cumplan los requisitos de procedencia y que no se configure alguna causal de sobreseimiento de conformidad con lo previsto en los artículos [18](articulo-18.md), [121](articulo-121.md), [122](articulo-122.md), [123](articulo-123.md), [124](articulo-124.md), [124-A](articulo-124-A.md) y [126](articulo-126.md) de este Código.
 
 El promovente sólo podrá hacer valer agravios que tengan por objeto resolver exclusivamente sobre el fondo de la resolución que se recurre, sin que obste para ello que la misma se encuentre motivada en el incumplimiento total o parcial de los requisitos exclusivamente formales o de procedimiento establecidos en las disposiciones jurídicas aplicables.
 

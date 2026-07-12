@@ -17,7 +17,7 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 133-D
 
-El escrito de interposición del recurso de revocación exclusivo de fondo, deberá satisfacer los requisitos previstos en los artículos 18 y 122 de este Código y señalar además:
+El escrito de interposición del recurso de revocación exclusivo de fondo, deberá satisfacer los requisitos previstos en los artículos [18](articulo-18.md) y [122](articulo-122.md) de este Código y señalar además:
 
 I. La manifestación expresa de que se opta por el recurso de revocación exclusivo de fondo.
 
@@ -33,7 +33,7 @@ c) Los efectos que le atribuyeron al incumplimiento total, parcial o extemporán
 
 d) Si cualquiera de los supuestos anteriores son coincidentes; e) Si requiere el desahogo de una audiencia para exponer las razones por las cuáles considera le asiste la razón, en presencia de la autoridad administrativa competente para resolver el recurso de revocación exclusivo de fondo y de la autoridad que emitió la resolución recurrida.
 
-El promovente deberá adjuntar al escrito en que se promueva el recurso de revocación exclusivo de fondo, los mismos documentos que prevé el artículo 123 del presente Código, observando las modalidades para las pruebas documentales que contiene dicho precepto legal, debiendo relacionar expresamente las pruebas que ofrezca con los hechos que pretende acreditar a través de las mismas.
+El promovente deberá adjuntar al escrito en que se promueva el recurso de revocación exclusivo de fondo, los mismos documentos que prevé el artículo [123](articulo-123.md) del presente Código, observando las modalidades para las pruebas documentales que contiene dicho precepto legal, debiendo relacionar expresamente las pruebas que ofrezca con los hechos que pretende acreditar a través de las mismas.
 
 Cuando se omita alguno de los requisitos que debe contener el escrito de interposición del recurso de revocación exclusivo de fondo, se requerirá al promovente para que cumpla con dichos requisitos dentro del plazo de cinco días contados a partir de que surta efectos la notificación del citado requerimiento. De no hacerlo o si se advierte que únicamente se plantean agravios relativos a cuestiones de forma o procedimiento, el recurso de revocación se tramitará de forma tradicional.
 

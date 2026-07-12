@@ -17,4 +17,4 @@ source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
 
 # Artículo 194
 
-El producto obtenido del remate, enajenación o adjudicación de los bienes al fisco, se aplicará a cubrir el crédito fiscal en el orden que establece el Artículo 20 de este Código.
+El producto obtenido del remate, enajenación o adjudicación de los bienes al fisco, se aplicará a cubrir el crédito fiscal en el orden que establece el Artículo [20](articulo-20.md) de este Código.
