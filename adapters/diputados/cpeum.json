@@ -1,0 +1,23 @@
+{
+  "slug": "cpeum",
+  "instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+  "instrument_type": "constitution",
+  "parser": "diputados",
+  "official_title": "Constitución Política de los Estados Unidos Mexicanos",
+  "short_name": "CPEUM",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1917-02-05",
+  "expected_min_articles": 136,
+  "expected_articles": 136,
+  "expected_transitories": 18,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T00:00:00Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}
