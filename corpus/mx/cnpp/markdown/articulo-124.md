@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 124
 
-Defensor común La defensa de varios imputados en un mismo proceso por un Defensor común no será admisible, a menos que se acredite que no existe incompatibilidad ni conflicto de intereses de las defensas de los imputados. Si se autoriza el Defensor común y la incompatibilidad se advierte en el curso del proceso, será corregida de oficio y se proveerá lo necesario para reemplazar al Defensor.
+Defensor común La defensa de varios imputados en un mismo proceso por un [Defensor](articulo-3o.md) común no será admisible, a menos que se acredite que no existe incompatibilidad ni conflicto de intereses de las defensas de los imputados. Si se autoriza el Defensor común y la incompatibilidad se advierte en el curso del proceso, será corregida de oficio y se proveerá lo necesario para reemplazar al Defensor.

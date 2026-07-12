@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 405
 
-Sentencia absolutoria En la sentencia absolutoria, el Tribunal de enjuiciamiento ordenará que se tome nota del levantamiento de las medidas cautelares, en todo índice o registro público y policial en el que figuren, y será ejecutable inmediatamente.
+Sentencia absolutoria En la sentencia absolutoria, el [Tribunal de enjuiciamiento](articulo-3o.md) ordenará que se tome nota del levantamiento de las medidas cautelares, en todo índice o registro público y policial en el que figuren, y será ejecutable inmediatamente.
 
 En su sentencia absolutoria el Tribunal de enjuiciamiento determinará la causa de exclusión del delito, para lo cual podrá tomar como referencia, en su caso, las causas de atipicidad, de justificación o inculpabilidad, bajo los rubros siguientes:
 

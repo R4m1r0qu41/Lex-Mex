@@ -15,7 +15,7 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 2
 
-Son de aplicación supletoria a la presente Ley, según el tipo de Entidad de que se trate, los ordenamientos que a continuación se indican:
+Son de aplicación supletoria a la presente Ley, según el tipo de [Entidad](articulo-3.md) de que se trate, los ordenamientos que a continuación se indican:
 
 I. La Ley de Instituciones de Crédito;
 

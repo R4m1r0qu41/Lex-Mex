@@ -19,4 +19,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Procedencia del recurso de revocación El recurso de revocación procederá en cualquiera de las etapas del procedimiento penal en las que interviene la autoridad judicial en contra de las resoluciones de mero trámite que se resuelvan sin sustanciación.
 
-El objeto de este recurso será que el mismo Órgano jurisdiccional que dictó la resolución impugnada, la examine de nueva cuenta y dicte la resolución que corresponda.
+El objeto de este recurso será que el mismo [Órgano jurisdiccional](articulo-3o.md) que dictó la resolución impugnada, la examine de nueva cuenta y dicte la resolución que corresponda.

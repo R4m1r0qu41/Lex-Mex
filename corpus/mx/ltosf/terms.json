@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:autoridades",
+    "term": "Autoridades",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "I",
+    "start_char": 77,
+    "end_char": 343,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:camara-de-compensacion",
+    "term": "Cámara de Compensación",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "II",
+    "start_char": 343,
+    "end_char": 609,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:cliente",
+    "term": "Cliente",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "III",
+    "start_char": 609,
+    "end_char": 921,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "IV",
+    "start_char": 921,
+    "end_char": 1674,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:contrato-de-adhesion",
+    "term": "Contrato de Adhesión",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "V",
+    "start_char": 1674,
+    "end_char": 3326,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:cat",
+    "term": "CAT",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "VI",
+    "start_char": 3326,
+    "end_char": 3593,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:cuotas-de-intercambio",
+    "term": "Cuotas de Intercambio",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "VII",
+    "start_char": 3593,
+    "end_char": 4105,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:entidades",
+    "term": "Entidades",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "VIII",
+    "start_char": 4105,
+    "end_char": 4215,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:entidad-financiera",
+    "term": "Entidad Financiera",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "IX",
+    "start_char": 4215,
+    "end_char": 4740,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:entidad-comercial",
+    "term": "Entidad Comercial",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "X",
+    "start_char": 4740,
+    "end_char": 4896,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:gat",
+    "term": "GAT",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "XI",
+    "start_char": 4896,
+    "end_char": 6442,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:medio-de-disposicion",
+    "term": "Medio de Disposición",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "XII",
+    "start_char": 6442,
+    "end_char": 9308,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltosf:term:sistema-de-pagos",
+    "term": "Sistema de Pagos",
+    "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltosf:article:3",
+    "fraction": "XIV",
+    "start_char": 9308,
+    "end_char": 9543,
+    "basis": "express_definition"
+  }
+]

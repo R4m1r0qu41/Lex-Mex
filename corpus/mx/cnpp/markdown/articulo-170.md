@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 170
 
-Riesgo para la víctima u ofendido, testigos o para la comunidad La protección que deba proporcionarse a la víctima u ofendido, a los testigos o a la comunidad, se establecerá a partir de la valoración que haga el Juez de control respecto de las circunstancias del hecho y de las condiciones particulares en que se encuentren dichos sujetos, de las que puedan derivarse la existencia de un riesgo fundado de que se cometa contra dichas personas un acto que afecte su integridad personal o ponga en riesgo su vida.
+Riesgo para la víctima u ofendido, testigos o para la comunidad La protección que deba proporcionarse a la víctima u ofendido, a los testigos o a la comunidad, se establecerá a partir de la valoración que haga el [Juez de control](articulo-3o.md) respecto de las circunstancias del hecho y de las condiciones particulares en que se encuentren dichos sujetos, de las que puedan derivarse la existencia de un riesgo fundado de que se cometa contra dichas personas un acto que afecte su integridad personal o ponga en riesgo su vida.

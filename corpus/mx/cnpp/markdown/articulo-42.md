@@ -19,4 +19,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Efectos de la recusación y excusa El Juez o Magistrado recusado se abstendrá de seguir conociendo de la audiencia correspondiente, ordenará la suspensión de la misma y sólo podrá realizar aquellos actos de mero trámite o urgentes que no admitan dilación.
 
-La sustitución del Juez o Magistrado se determinará en los términos que señale la Ley Orgánica.
+La sustitución del Juez o Magistrado se determinará en los términos que señale la [Ley Orgánica](articulo-3o.md).

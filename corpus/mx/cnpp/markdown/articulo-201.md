@@ -17,9 +17,9 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 201
 
-Requisitos de procedencia y verificación del Juez Para autorizar el procedimiento abreviado, el Juez de control verificará en audiencia los siguientes requisitos:
+Requisitos de procedencia y verificación del Juez Para autorizar el procedimiento abreviado, el [Juez de control](articulo-3o.md) verificará en audiencia los siguientes requisitos:
 
-I. Que el Ministerio Público solicite el procedimiento, para lo cual se deberá formular la acusación y exponer los datos de prueba que la sustentan. La acusación deberá contener la enunciación de los hechos que se atribuyen al acusado, su clasificación jurídica y grado de intervención, así como las penas y el monto de reparación del daño;
+I. Que el [Ministerio Público](articulo-3o.md) solicite el procedimiento, para lo cual se deberá formular la acusación y exponer los datos de prueba que la sustentan. La acusación deberá contener la enunciación de los hechos que se atribuyen al acusado, su clasificación jurídica y grado de intervención, así como las penas y el monto de reparación del daño;
 
 II. Que la víctima u ofendido no presente oposición. Sólo será vinculante para el juez la oposición que se encuentre fundada, y
 

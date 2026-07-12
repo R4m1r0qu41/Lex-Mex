@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 459
 
-Recurso de la víctima u ofendido La víctima u ofendido, aunque no se haya constituido como coadyuvante, podrá impugnar por sí o a través del Ministerio Público, las siguientes resoluciones:
+Recurso de la víctima u ofendido La víctima u ofendido, aunque no se haya constituido como coadyuvante, podrá impugnar por sí o a través del [Ministerio Público](articulo-3o.md), las siguientes resoluciones:
 
 I. Las que versen sobre la reparación del daño causado por el delito, cuando estime que hubiere resultado perjudicado por la misma;
 

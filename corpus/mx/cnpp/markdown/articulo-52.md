@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 52
 
-Disposiciones comunes Los actos procedimentales que deban ser resueltos por el Órgano jurisdiccional se llevarán a cabo mediante audiencias, salvo los casos de excepción que prevea este Código. Las cuestiones debatidas en una audiencia deberán ser resueltas en ella.
+Disposiciones comunes Los actos procedimentales que deban ser resueltos por el [Órgano jurisdiccional](articulo-3o.md) se llevarán a cabo mediante audiencias, salvo los casos de excepción que prevea este [Código](articulo-3o.md). Las cuestiones debatidas en una audiencia deberán ser resueltas en ella.

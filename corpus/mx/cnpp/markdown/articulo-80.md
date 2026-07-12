@@ -19,6 +19,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Actos procesales en el extranjero Los exhortos que se remitan al extranjero serán comunicaciones oficiales escritas que contendrán la petición de realización de las actuaciones necesarias en el procedimiento en que se expidan. Dichas comunicaciones contendrán los datos e información necesaria, las constancias y demás anexos procedentes según sea el caso.
 
-Los exhortos serán transmitidos al Órgano jurisdiccional requerido a través de los funcionarios consulares o agentes diplomáticos, o por la autoridad competente del Estado requirente o requerido según sea el caso.
+Los exhortos serán transmitidos al [Órgano jurisdiccional](articulo-3o.md) requerido a través de los funcionarios consulares o agentes diplomáticos, o por la autoridad competente del Estado requirente o requerido según sea el caso.
 
 Podrá encomendarse la práctica de diligencias en países extranjeros a los funcionarios consulares de la República por medio de oficio.

@@ -55,7 +55,7 @@ XIX. Prestador de Servicios de Certificación: las instituciones públicas confo
 
 XX. Secretaría: la Secretaría de la Función Pública;
 
-XXI. Servicios relacionados con la Firma Electrónica Avanzada: los servicios de firmado de documentos electrónicos, de verificación de la vigencia de certificados digitales, de verificación y validación de la unicidad de la clave pública, así como de consulta de certificados digitales revocados, entre otros, que en términos de las disposiciones jurídicas aplicables pueden ser proporcionados por la autoridad certificadora;
+XXI. Servicios relacionados con la [Firma Electrónica Avanzada](articulo-2.md): los servicios de firmado de documentos electrónicos, de verificación de la vigencia de certificados digitales, de verificación y validación de la unicidad de la clave pública, así como de consulta de certificados digitales revocados, entre otros, que en términos de las disposiciones jurídicas aplicables pueden ser proporcionados por la autoridad certificadora;
 
 XXII. Sistema de Trámites Electrónicos: el sitio desarrollado por la dependencia o entidad y contenido en su página Web, para el envío y recepción de documentos, notificaciones y comunicaciones, así como para la consulta de información relacionada con los actos a que se refiere esta Ley;
 

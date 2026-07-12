@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 115
 
-Designación de Defensor El Defensor podrá ser designado por el imputado desde el momento de su detención, mismo que deberá ser licenciado en derecho o abogado titulado con cédula profesional. A falta de éste o ante la omisión de su designación, será nombrado el Defensor público que corresponda.
+Designación de [Defensor](articulo-3o.md) El Defensor podrá ser designado por el imputado desde el momento de su detención, mismo que deberá ser licenciado en derecho o abogado titulado con cédula profesional. A falta de éste o ante la omisión de su designación, será nombrado el Defensor público que corresponda.
 
 La intervención del Defensor no menoscabará el derecho del imputado de intervenir, formular peticiones y hacer las manifestaciones que estime pertinentes.

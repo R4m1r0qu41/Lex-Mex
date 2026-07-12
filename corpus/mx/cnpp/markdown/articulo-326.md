@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 326
 
-Peticiones diversas a la acusación Cuando únicamente se formulen peticiones diversas a la acusación del Ministerio Público, el Juez de control resolverá sin sustanciación lo que corresponda, salvo disposición en contrario o que estime indispensable realizar audiencia, en cuyo caso convocará a las partes.
+Peticiones diversas a la acusación Cuando únicamente se formulen peticiones diversas a la acusación del [Ministerio Público](articulo-3o.md), el [Juez de control](articulo-3o.md) resolverá sin sustanciación lo que corresponda, salvo disposición en contrario o que estime indispensable realizar audiencia, en cuyo caso convocará a las partes.

@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 195
 
-Condiciones por cumplir durante el periodo de suspensión condicional del proceso El Juez de control fijará el plazo de suspensión condicional del proceso, que no podrá ser inferior a seis meses ni superior a tres años, y determinará imponer al imputado una o varias de las condiciones que deberá cumplir, las cuales en forma enunciativa más no limitativa se señalan:
+Condiciones por cumplir durante el periodo de suspensión condicional del proceso El [Juez de control](articulo-3o.md) fijará el plazo de suspensión condicional del proceso, que no podrá ser inferior a seis meses ni superior a tres años, y determinará imponer al imputado una o varias de las condiciones que deberá cumplir, las cuales en forma enunciativa más no limitativa se señalan:
 
 I. Residir en un lugar determinado;
 
@@ -45,6 +45,6 @@ XII. Abstenerse de viajar al extranjero;
 
 XIII. Cumplir con los deberes de deudor alimentario, o XIV. Cualquier otra condición que, a juicio del Juez de control, logre una efectiva tutela de los derechos de la víctima.
 
-Para fijar las condiciones, el Juez de control podrá disponer que el imputado sea sometido a una evaluación previa. El Ministerio Público, la víctima u ofendido, podrán proponer al Juez de control condiciones a las que consideran debe someterse el imputado.
+Para fijar las condiciones, el Juez de control podrá disponer que el imputado sea sometido a una evaluación previa. El [Ministerio Público](articulo-3o.md), la víctima u ofendido, podrán proponer al Juez de control condiciones a las que consideran debe someterse el imputado.
 
 El Juez de control preguntará al imputado si se obliga a cumplir con las condiciones impuestas y, en su caso, lo prevendrá sobre las consecuencias de su inobservancia.

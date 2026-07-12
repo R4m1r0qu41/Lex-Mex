@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 316
 
-Requisitos para dictar el auto de vinculación a proceso El Juez de control, a petición del agente del Ministerio Público, dictará el auto de vinculación del imputado a proceso, siempre que:
+Requisitos para dictar el auto de vinculación a proceso El [Juez de control](articulo-3o.md), a petición del agente del [Ministerio Público](articulo-3o.md), dictará el auto de vinculación del imputado a proceso, siempre que:
 
 I. Se haya formulado la imputación;
 

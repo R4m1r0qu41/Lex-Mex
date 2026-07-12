@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 121
 
-Garantía de la Defensa técnica Siempre que el Órgano jurisdiccional advierta que existe una manifiesta y sistemática incapacidad técnica del Defensor, prevendrá al imputado para que designe otro.
+Garantía de la Defensa técnica Siempre que el [Órgano jurisdiccional](articulo-3o.md) advierta que existe una manifiesta y sistemática incapacidad técnica del [Defensor](articulo-3o.md), prevendrá al imputado para que designe otro.
 
 Si se trata de un Defensor privado, el imputado contará con tres días para designar un nuevo Defensor. Si prevenido el imputado, no se designa otro, un Defensor público será asignado para colaborar en su defensa.
 

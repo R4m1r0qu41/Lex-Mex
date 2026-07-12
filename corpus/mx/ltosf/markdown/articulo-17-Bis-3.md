@@ -15,7 +15,7 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 17 Bis 3
 
-Las Entidades supervisarán constantemente las actividades realizadas por sus despachos de cobranza, así como también el estado de los reclamos presentados, permitiéndole al Cliente dar seguimiento a los mismos.
+Las [Entidades](articulo-3.md) supervisarán constantemente las actividades realizadas por sus despachos de cobranza, así como también el estado de los reclamos presentados, permitiéndole al [Cliente](articulo-3.md) dar seguimiento a los mismos.
 
 Al momento de realizar los cobros, el despacho de cobranza y la Entidad deberán ser identificables plenamente.
 

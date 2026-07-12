@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 481
 
-Materia del recurso Interpuesto el recurso de apelación por violaciones graves al debido proceso, no podrán invocarse nuevas causales de reposición del procedimiento; sin embargo, el Tribunal de alzada podrá hacer valer y reparar de oficio, a favor del sentenciado, las violaciones a sus derechos fundamentales.
+Materia del recurso Interpuesto el recurso de apelación por violaciones graves al debido proceso, no podrán invocarse nuevas causales de reposición del procedimiento; sin embargo, el [Tribunal de alzada](articulo-3o.md) podrá hacer valer y reparar de oficio, a favor del sentenciado, las violaciones a sus derechos fundamentales.

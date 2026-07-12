@@ -15,6 +15,6 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 10 Bis
 
-Las Entidades que otorguen crédito, préstamo o financiamiento de cualquier tipo, incluidos los masivamente celebrados a personas incapaces por minoría de edad en términos de la legislación común, independientemente de la nulidad de dichos actos, se harán acreedoras a las sanciones que establece la presente Ley.
+Las [Entidades](articulo-3.md) que otorguen crédito, préstamo o financiamiento de cualquier tipo, incluidos los masivamente celebrados a personas incapaces por minoría de edad en términos de la legislación común, independientemente de la nulidad de dichos actos, se harán acreedoras a las sanciones que establece la presente Ley.
 
 Artículo adicionado DOF 25-06-2009

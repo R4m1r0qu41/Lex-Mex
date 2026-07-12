@@ -15,9 +15,9 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 23 Bis
 
-A las Entidades les estará prohibido condicionar la contratación de operaciones o servicios financieros a la contratación de otra operación o servicio.
+A las [Entidades](articulo-3.md) les estará prohibido condicionar la contratación de operaciones o servicios financieros a la contratación de otra operación o servicio.
 
-Sin perjuicio de lo anterior, las Entidades podrán ofrecer productos y servicios financieros de otras Entidades que estén ligados a los productos y servicios ofrecidos al Cliente, cuando se cuente con el consentimiento expreso de éste para contratar los productos o servicios adicionales o ligados con la operación o servicio solicitado, bajo la premisa de que es un derecho innegable del Cliente contratar éstos a través de un tercero independiente.
+Sin perjuicio de lo anterior, las Entidades podrán ofrecer productos y servicios financieros de otras Entidades que estén ligados a los productos y servicios ofrecidos al [Cliente](articulo-3.md), cuando se cuente con el consentimiento expreso de éste para contratar los productos o servicios adicionales o ligados con la operación o servicio solicitado, bajo la premisa de que es un derecho innegable del Cliente contratar éstos a través de un tercero independiente.
 
 Lo previsto en el párrafo anterior, deberá informarse a los Clientes a través de los contratos que se celebren con éstos, así como de la publicidad de los productos y servicios financieros de que se trate.
 

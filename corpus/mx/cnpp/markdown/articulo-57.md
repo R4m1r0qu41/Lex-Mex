@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 57
 
-Ausencia de las partes En el caso de que estuvieren asignados varios Defensores o varios Ministerios Públicos, la presencia de cualquiera de ellos bastará para celebrar la audiencia respectiva.
+Ausencia de las partes En el caso de que estuvieren asignados varios [Defensores](articulo-3o.md) o varios [Ministerios Públicos](articulo-3o.md), la presencia de cualquiera de ellos bastará para celebrar la audiencia respectiva.
 
 El Defensor no podrá renunciar a su cargo conferido ni durante las audiencias ni una vez notificado de ellas.
 
@@ -25,7 +25,7 @@ Si el Defensor no comparece a la audiencia, o se ausenta de la misma sin causa j
 
 Si el Ministerio Público no comparece a la audiencia o se ausenta de la misma, se procederá a su remplazo dentro de la misma audiencia. Para tal efecto se notificará por cualquier medio a su superior jerárquico para que lo designe de inmediato.
 
-El Ministerio Público sustituto o el nuevo Defensor podrán solicitar al Órgano jurisdiccional que aplace el inicio de la audiencia o suspenda la misma por un plazo que no podrá exceder de diez días para la adecuada preparación de su intervención en el juicio. El Órgano jurisdiccional resolverá considerando la complejidad del caso, las circunstancias de la ausencia de la defensa o del Ministerio Público y las posibilidades de aplazamiento.
+El Ministerio Público sustituto o el nuevo Defensor podrán solicitar al [Órgano jurisdiccional](articulo-3o.md) que aplace el inicio de la audiencia o suspenda la misma por un plazo que no podrá exceder de diez días para la adecuada preparación de su intervención en el juicio. El Órgano jurisdiccional resolverá considerando la complejidad del caso, las circunstancias de la ausencia de la defensa o del Ministerio Público y las posibilidades de aplazamiento.
 
 En el caso de que el Defensor, Asesor jurídico o el Ministerio Público se ausenten de la audiencia sin causa justificada, se les impondrá una multa de diez a cincuenta días de salario mínimo vigente, sin perjuicio de las sanciones administrativas o penales que correspondan.
 

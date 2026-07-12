@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 96
 
-Reposición del plazo La parte que no haya podido observar un plazo por causa no atribuible a él, podrá solicitar de manera fundada y motivada su reposición total o parcial, con el fin de realizar el acto omitido o ejercer la facultad concedida por la ley, dentro de las veinticuatro horas siguientes a aquel en que el perjudicado tenga conocimiento fehaciente del acto cuya reposición del plazo se pretenda. El Órgano jurisdiccional podrá ordenar la reposición una vez que haya escuchado a las partes.
+Reposición del plazo La parte que no haya podido observar un plazo por causa no atribuible a él, podrá solicitar de manera fundada y motivada su reposición total o parcial, con el fin de realizar el acto omitido o ejercer la facultad concedida por la ley, dentro de las veinticuatro horas siguientes a aquel en que el perjudicado tenga conocimiento fehaciente del acto cuya reposición del plazo se pretenda. El [Órgano jurisdiccional](articulo-3o.md) podrá ordenar la reposición una vez que haya escuchado a las partes.

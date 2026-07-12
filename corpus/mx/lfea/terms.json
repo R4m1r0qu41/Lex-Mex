@@ -1,1 +1,266 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:actos",
+    "term": "Actos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "I",
+    "start_char": 55,
+    "end_char": 452,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:actuaciones-electronicas",
+    "term": "Actuaciones Electrónicas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "II",
+    "start_char": 452,
+    "end_char": 740,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:acuse-de-recibo-electronico",
+    "term": "Acuse de Recibo Electrónico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "III",
+    "start_char": 740,
+    "end_char": 1010,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:autoridad-certificadora",
+    "term": "Autoridad Certificadora",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "IV",
+    "start_char": 1010,
+    "end_char": 1410,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:certificado-digital",
+    "term": "Certificado Digital",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "V",
+    "start_char": 1410,
+    "end_char": 1528,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:clave-privada",
+    "term": "Clave Privada",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "VI",
+    "start_char": 1528,
+    "end_char": 1732,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:clave-publica",
+    "term": "Clave Pública",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "VII",
+    "start_char": 1732,
+    "end_char": 1895,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:datos-y-elementos-de-identificacion",
+    "term": "Datos y elementos de identificación",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "VIII",
+    "start_char": 1895,
+    "end_char": 2069,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:dependencias",
+    "term": "Dependencias",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "IX",
+    "start_char": 2069,
+    "end_char": 2408,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:documento-electronico",
+    "term": "Documento Electrónico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "X",
+    "start_char": 2408,
+    "end_char": 2518,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:direccion-de-correo-electronico",
+    "term": "Dirección de Correo Electrónico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XI",
+    "start_char": 2518,
+    "end_char": 2812,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:entidades",
+    "term": "Entidades",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XII",
+    "start_char": 2812,
+    "end_char": 3143,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:firma-electronica-avanzada",
+    "term": "Firma Electrónica Avanzada",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XIII",
+    "start_char": 3143,
+    "end_char": 3556,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:firmante",
+    "term": "Firmante",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XIV",
+    "start_char": 3556,
+    "end_char": 3700,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:medios-de-comunicacion-electronica",
+    "term": "Medios de Comunicación Electrónica",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XV",
+    "start_char": 3700,
+    "end_char": 3867,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:medios-electronicos",
+    "term": "Medios Electrónicos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XVI",
+    "start_char": 3867,
+    "end_char": 4027,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:mensaje-de-datos",
+    "term": "Mensaje de Datos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XVII",
+    "start_char": 4027,
+    "end_char": 4211,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:pagina-web",
+    "term": "Página Web",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XVIII",
+    "start_char": 4211,
+    "end_char": 4332,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:prestador-de-servicios-de-certificacion",
+    "term": "Prestador de Servicios de Certificación",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XIX",
+    "start_char": 4332,
+    "end_char": 4746,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XX",
+    "start_char": 4746,
+    "end_char": 4800,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:servicios-relacionados-con-la-firma-electronica-avanzada",
+    "term": "Servicios relacionados con la Firma Electrónica Avanzada",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XXI",
+    "start_char": 4800,
+    "end_char": 5227,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:sistema-de-tramites-electronicos",
+    "term": "Sistema de Trámites Electrónicos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XXII",
+    "start_char": 5227,
+    "end_char": 5517,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:sujetos-obligados",
+    "term": "Sujetos Obligados",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XXIII",
+    "start_char": 5517,
+    "end_char": 5711,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:term:tablero-electronico",
+    "term": "Tablero Electrónico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfea",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfea:article:2",
+    "fraction": "XXIV",
+    "start_char": 5711,
+    "end_char": 6120,
+    "basis": "express_definition"
+  }
+]

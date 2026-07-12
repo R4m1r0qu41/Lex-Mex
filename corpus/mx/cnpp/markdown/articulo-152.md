@@ -21,7 +21,7 @@ Derechos que asisten al detenido Las autoridades que ejecuten una detención por
 
 I. El derecho a informar a alguien de su detención;
 
-II. El derecho a consultar en privado con su Defensor;
+II. El derecho a consultar en privado con su [Defensor](articulo-3o.md);
 
 III. El derecho a recibir una notificación escrita que establezca los derechos establecidos en las fracciones anteriores y las medidas que debe tomar para la obtención de asesoría legal;
 

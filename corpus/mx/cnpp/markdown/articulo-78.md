@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 78
 
-Exhortos de tribunales extranjeros Las solicitudes que provengan de tribunales extranjeros, deberán ser tramitadas de conformidad con el Título XI del presente Código. Párrafo reformado DOF 17-06-2016
+Exhortos de tribunales extranjeros Las solicitudes que provengan de tribunales extranjeros, deberán ser tramitadas de conformidad con el Título XI del presente [Código](articulo-3o.md). Párrafo reformado DOF 17-06-2016
 
 Toda solicitud que se reciba del extranjero en idioma distinto del español deberá acompañarse de su traducción.

@@ -17,8 +17,8 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 53
 
-Disciplina en las audiencias El orden en las audiencias estará a cargo del Órgano jurisdiccional. Toda persona que altere el orden en éstas podrá ser acreedora a una medida de apremio sin perjuicio de que se pueda solicitar su retiro de la sala de audiencias y su puesta a disposición de la autoridad competente.
+Disciplina en las audiencias El orden en las audiencias estará a cargo del [Órgano jurisdiccional](articulo-3o.md). Toda persona que altere el orden en éstas podrá ser acreedora a una medida de apremio sin perjuicio de que se pueda solicitar su retiro de la sala de audiencias y su puesta a disposición de la autoridad competente.
 
-Antes y durante las audiencias, el imputado tendrá derecho a comunicarse con su Defensor, pero no con el público. Si infringe esa disposición, el Órgano jurisdiccional podrá imponerle una medida de apremio.
+Antes y durante las audiencias, el imputado tendrá derecho a comunicarse con su [Defensor](articulo-3o.md), pero no con el público. Si infringe esa disposición, el Órgano jurisdiccional podrá imponerle una medida de apremio.
 
 Si alguna persona del público se comunica o intenta comunicarse con alguna de las partes, el Órgano jurisdiccional podrá ordenar que sea retirada de la audiencia e imponerle una medida de apremio.

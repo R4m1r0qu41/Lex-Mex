@@ -23,7 +23,7 @@ La sentencia que condenare a una pena privativa de la libertad, deberá expresar
 
 La sentencia condenatoria dispondrá también el decomiso de los instrumentos o efectos del delito o su restitución, cuando fuere procedente.
 
-El Tribunal de enjuiciamiento condenará a la reparación del daño.
+El [Tribunal de enjuiciamiento](articulo-3o.md) condenará a la reparación del daño.
 
 Cuando la prueba producida no permita establecer con certeza el monto de los daños y perjuicios, o de las indemnizaciones correspondientes, el Tribunal de enjuiciamiento podrá condenar genéricamente a reparar los daños y los perjuicios y ordenar que se liquiden en ejecución de sentencia por vía incidental, siempre que éstos se hayan demostrado, así como su deber de repararlos. El Tribunal de enjuiciamiento solamente dictará sentencia condenatoria cuando exista convicción de la culpabilidad del sentenciado, bajo el principio general de que la carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora, conforme lo establezca el tipo penal de que se trate.
 

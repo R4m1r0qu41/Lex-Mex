@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 296
 
-Ampliación de la intervención a otros sujetos Cuando de la intervención de comunicaciones privadas se advierta la necesidad de ampliar a otros sujetos o lugares la intervención, el Ministerio Público competente presentará al propio Juez de control la solicitud respectiva.
+Ampliación de la intervención a otros sujetos Cuando de la intervención de comunicaciones privadas se advierta la necesidad de ampliar a otros sujetos o lugares la intervención, el [Ministerio Público](articulo-3o.md) competente presentará al propio [Juez de control](articulo-3o.md) la solicitud respectiva.

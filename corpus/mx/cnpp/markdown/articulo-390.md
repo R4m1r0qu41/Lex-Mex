@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 390
 
-Medios de prueba nueva y de refutación El Tribunal de enjuiciamiento podrá ordenar la recepción de medios de prueba nueva, ya sea sobre hechos supervenientes o de los que no fueron ofrecidos oportunamente por alguna de las partes, siempre que se justifique no haber conocido previamente de su existencia.
+Medios de prueba nueva y de refutación El [Tribunal de enjuiciamiento](articulo-3o.md) podrá ordenar la recepción de medios de prueba nueva, ya sea sobre hechos supervenientes o de los que no fueron ofrecidos oportunamente por alguna de las partes, siempre que se justifique no haber conocido previamente de su existencia.
 
 Si con ocasión de la rendición de un medio de prueba surgiere una controversia relacionada exclusivamente con su veracidad, autenticidad o integridad, el Tribunal de enjuiciamiento podrá admitir y desahogar nuevos medios de prueba, aunque ellos no hubieren sido ofrecidos oportunamente, siempre que no hubiere sido posible prever su necesidad.
 

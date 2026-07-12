@@ -29,7 +29,7 @@ IV. Disolución, o
 
 V. Las demás que expresamente determinen las leyes penales conforme a los principios establecidos en el presente artículo.
 
-Para los efectos de la individualización de las sanciones anteriores, el Órgano jurisdiccional deberá tomar en consideración lo establecido en el artículo [410](articulo-410.md) de este ordenamiento y el grado de culpabilidad correspondiente de conformidad con los aspectos siguientes:
+Para los efectos de la individualización de las sanciones anteriores, el [Órgano jurisdiccional](articulo-3o.md) deberá tomar en consideración lo establecido en el artículo [410](articulo-410.md) de este ordenamiento y el grado de culpabilidad correspondiente de conformidad con los aspectos siguientes:
 
 a) La magnitud de la inobservancia del debido control en su organización y la exigibilidad de conducirse conforme a la norma;
 
@@ -57,6 +57,6 @@ V. Intervención judicial para salvaguardar los derechos de los trabajadores o d
 
 VI. Amonestación pública.
 
-En este caso el Órgano jurisdiccional deberá individualizar las consecuencias jurídicas establecidas en este apartado, conforme a lo dispuesto en el presente artículo y a lo previsto en el artículo [410](articulo-410.md) de este Código.
+En este caso el Órgano jurisdiccional deberá individualizar las consecuencias jurídicas establecidas en este apartado, conforme a lo dispuesto en el presente artículo y a lo previsto en el artículo [410](articulo-410.md) de este [Código](articulo-3o.md).
 
 Artículo reformado DOF 17-06-2016

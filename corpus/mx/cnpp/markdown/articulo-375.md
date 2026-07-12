@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 375
 
-Testigo hostil El Tribunal de enjuiciamiento permitirá al oferente de la prueba realizar preguntas sugestivas cuando advierta que el testigo se está conduciendo de manera hostil.
+Testigo hostil El [Tribunal de enjuiciamiento](articulo-3o.md) permitirá al oferente de la prueba realizar preguntas sugestivas cuando advierta que el testigo se está conduciendo de manera hostil.

@@ -17,7 +17,7 @@ source_sha256: 102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842
 
 # Artículo 29
 
-El Ejecutivo Federal, por conducto de la Secretaría, de la Secretaría de Economía o el Servicio de Administración Tributaria, a solicitud de cualquier autoridad certificadora, podrá suscribir previa opinión de las otras dos, convenios de coordinación para el reconocimiento de certificados digitales homologados en términos de lo previsto en esta Ley, con:
+El Ejecutivo Federal, por conducto de la [Secretaría](articulo-2.md), de la Secretaría de Economía o el Servicio de Administración Tributaria, a solicitud de cualquier autoridad certificadora, podrá suscribir previa opinión de las otras dos, convenios de coordinación para el reconocimiento de certificados digitales homologados en términos de lo previsto en esta Ley, con:
 
 I. Los poderes Legislativo y Judicial, federales;
 

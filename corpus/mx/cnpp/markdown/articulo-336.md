@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 336
 
-Notificación de la Acusación Una vez presentada la acusación, el Juez de control ordenará su notificación a las partes al día siguiente. Con dicha notificación se les entregará copia de la acusación.
+Notificación de la Acusación Una vez presentada la acusación, el [Juez de control](articulo-3o.md) ordenará su notificación a las partes al día siguiente. Con dicha notificación se les entregará copia de la acusación.
 
 Artículo reformado DOF 17-06-2016

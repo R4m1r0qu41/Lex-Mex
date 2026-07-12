@@ -19,4 +19,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Efecto del recurso Por regla general la interposición del recurso no suspende la ejecución de la resolución judicial impugnada.
 
-En el caso de la apelación contra la exclusión de pruebas, la interposición del recurso tendrá como efecto inmediato suspender el plazo de remisión del auto de apertura de juicio al Tribunal de enjuiciamiento, en atención a lo que resuelva el Tribunal de alzada competente.
+En el caso de la apelación contra la exclusión de pruebas, la interposición del recurso tendrá como efecto inmediato suspender el plazo de remisión del auto de apertura de juicio al [Tribunal de enjuiciamiento](articulo-3o.md), en atención a lo que resuelva el [Tribunal de alzada](articulo-3o.md) competente.

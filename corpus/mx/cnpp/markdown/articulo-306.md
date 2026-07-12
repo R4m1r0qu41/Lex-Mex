@@ -21,4 +21,4 @@ Registro y conservación de la prueba anticipada La audiencia en la que se desah
 
 Si el obstáculo que dio lugar a la práctica del anticipo de prueba no existiera para la fecha de la audiencia de juicio, se desahogará de nueva cuenta el medio de prueba correspondiente en la misma.
 
-Toda prueba anticipada deberá conservarse de acuerdo con las medidas dispuestas por el Juez de control.
+Toda prueba anticipada deberá conservarse de acuerdo con las medidas dispuestas por el [Juez de control](articulo-3o.md).

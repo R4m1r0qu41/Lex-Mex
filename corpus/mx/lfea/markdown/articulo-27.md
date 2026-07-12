@@ -17,4 +17,4 @@ source_sha256: 102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842
 
 # Artículo 27
 
-La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria podrán coordinarse para acordar y definir los estándares, características y requerimientos tecnológicos a que se deberán sujetar las autoridades certificadoras referidas en el artículo [24](articulo-24.md) de esta Ley para garantizar la autenticidad, integridad, conservación, confidencialidad y confiabilidad de la firma electrónica avanzada.
+La [Secretaría](articulo-2.md), la Secretaría de Economía y el Servicio de Administración Tributaria podrán coordinarse para acordar y definir los estándares, características y requerimientos tecnológicos a que se deberán sujetar las autoridades certificadoras referidas en el artículo [24](articulo-24.md) de esta Ley para garantizar la autenticidad, integridad, conservación, confidencialidad y confiabilidad de la firma electrónica avanzada.

@@ -25,7 +25,7 @@ II. Tenga que practicarse algún acto fuera de la sala de audiencias, incluso po
 
 III. No comparezcan testigos, peritos o intérpretes, deba practicarse una nueva citación y sea imposible o inconveniente continuar el debate hasta que ellos comparezcan, incluso coactivamente por medio de la fuerza pública;
 
-IV. El o los integrantes del Tribunal de enjuiciamiento, el acusado o cualquiera de las partes se enfermen a tal extremo que no puedan continuar interviniendo en el debate; V. El Defensor, el Ministerio Público o el acusador particular no pueda ser reemplazado inmediatamente en el supuesto de la fracción anterior, o en caso de muerte o incapacidad permanente, o
+IV. El o los integrantes del [Tribunal de enjuiciamiento](articulo-3o.md), el acusado o cualquiera de las partes se enfermen a tal extremo que no puedan continuar interviniendo en el debate; V. El [Defensor](articulo-3o.md), el [Ministerio Público](articulo-3o.md) o el acusador particular no pueda ser reemplazado inmediatamente en el supuesto de la fracción anterior, o en caso de muerte o incapacidad permanente, o
 
 VI. Alguna catástrofe o algún hecho extraordinario torne imposible su continuación.
 

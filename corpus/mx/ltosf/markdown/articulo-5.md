@@ -15,4 +15,4 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 5
 
-Las Entidades que operen cajeros automáticos deberán informar en las pantallas de éstos las Comisiones que cobran por su uso, así como obtener el previo consentimiento de los Clientes para el cobro de tales Comisiones.
+Las [Entidades](articulo-3.md) que operen cajeros automáticos deberán informar en las pantallas de éstos las [Comisiones](articulo-3.md) que cobran por su uso, así como obtener el previo consentimiento de los [Clientes](articulo-3.md) para el cobro de tales Comisiones.

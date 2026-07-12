@@ -17,11 +17,11 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 335
 
-Contenido de la acusación Una vez concluida la fase de investigación complementaria, si el Ministerio Público estima que la investigación aporta elementos para ejercer la acción penal contra el imputado, presentará la acusación.
+Contenido de la acusación Una vez concluida la fase de investigación complementaria, si el [Ministerio Público](articulo-3o.md) estima que la investigación aporta elementos para ejercer la acción penal contra el imputado, presentará la acusación.
 
 La acusación del Ministerio Público, deberá contener en forma clara y precisa:
 
-I. La individualización del o los acusados y de su Defensor;
+I. La individualización del o los acusados y de su [Defensor](articulo-3o.md);
 
 II. La identificación de la víctima u ofendido y su Asesor jurídico;
 

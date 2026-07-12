@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 344
 
-Desarrollo de la audiencia Al inicio de la audiencia el Ministerio Público realizará una exposición resumida de su acusación, seguida de las exposiciones de la víctima u ofendido y el acusado por sí o por conducto de su Defensor; acto seguido las partes podrán deducir cualquier incidencia que consideren relevante presentar. Asimismo, la Defensa promoverá las excepciones que procedan conforme a lo que se establece en este Código.
+Desarrollo de la audiencia Al inicio de la audiencia el [Ministerio Público](articulo-3o.md) realizará una exposición resumida de su acusación, seguida de las exposiciones de la víctima u ofendido y el acusado por sí o por conducto de su [Defensor](articulo-3o.md); acto seguido las partes podrán deducir cualquier incidencia que consideren relevante presentar. Asimismo, la Defensa promoverá las excepciones que procedan conforme a lo que se establece en este [Código](articulo-3o.md).
 
 Desahogados los puntos anteriores y posterior al establecimiento en su caso de acuerdos probatorios, el Juez se cerciorará de que se ha cumplido con el descubrimiento probatorio a cargo de las partes y, en caso de controversia abrirá debate entre las mismas y resolverá lo procedente.
 

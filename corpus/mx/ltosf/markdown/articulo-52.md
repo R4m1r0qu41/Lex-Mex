@@ -15,4 +15,4 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 52
 
-El cobro de las multas que impongan la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y la Procuraduría Federal del Consumidor, se efectuará por el Servicio de Administración Tributaria conforme al Código Fiscal de la Federación.
+El cobro de las multas que impongan la [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y la Procuraduría Federal del Consumidor, se efectuará por el Servicio de Administración Tributaria conforme al Código Fiscal de la Federación.

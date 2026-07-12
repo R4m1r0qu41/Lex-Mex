@@ -15,9 +15,9 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 43
 
-La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros sancionará con multa de cuatro mil a ciento cincuenta mil Unidades de Medida y Actualización, a las Entidades Financieras que: Párrafo reformado DOF 25-06-2009, 09-03-2018
+La [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros sancionará con multa de cuatro mil a ciento cincuenta mil Unidades de Medida y Actualización, a las [Entidades Financieras](articulo-3.md) que: Párrafo reformado DOF 25-06-2009, 09-03-2018
 
-I. Realicen cargos adicionales a sus Clientes por la terminación de los contratos que tengan celebrados, en contravención a lo señalado en el segundo párrafo del artículo [7](articulo-7.md) de esta Ley.
+I. Realicen cargos adicionales a sus [Clientes](articulo-3.md) por la terminación de los contratos que tengan celebrados, en contravención a lo señalado en el segundo párrafo del artículo [7](articulo-7.md) de esta Ley.
 
 II. No modifiquen los Contratos de Adhesión conforme a lo ordenado por la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en términos del artículo [11](articulo-11.md) de esta Ley. Fracción reformada DOF 25-06-2009
 
@@ -27,7 +27,7 @@ IV. Cobren Comisiones distintas a las pactadas en los Contratos de Adhesión.
 
 V. No suspendan la publicidad conforme al artículo [12](articulo-12.md) de esta Ley. VI. No modifiquen los estados de cuenta en los términos que señale la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, cuando éstos no se ajusten a lo previsto en el artículo [13](articulo-13.md) o en las disposiciones de carácter general que del propio precepto emanen. Fracción reformada DOF 25-06-2009
 
-VII. No incorporen el CAT en la publicidad o en los Contratos de Adhesión o se abstengan de resaltarlo en los documentos respectivos de manera clara, notoria e indubitable.
+VII. No incorporen el [CAT](articulo-3.md) en la publicidad o en los Contratos de Adhesión o se abstengan de resaltarlo en los documentos respectivos de manera clara, notoria e indubitable.
 
 VIII. Realicen prácticas discriminatorias, en términos del artículo [17](articulo-17.md) de la presente Ley.
 

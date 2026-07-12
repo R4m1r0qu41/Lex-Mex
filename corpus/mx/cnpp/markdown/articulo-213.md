@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 213
 
-Objeto de la investigación La investigación tiene por objeto que el Ministerio Público reúna indicios para el esclarecimiento de los hechos y, en su caso, los datos de prueba para sustentar el ejercicio de la acción penal, la acusación contra el imputado y la reparación del daño.
+Objeto de la investigación La investigación tiene por objeto que el [Ministerio Público](articulo-3o.md) reúna indicios para el esclarecimiento de los hechos y, en su caso, los datos de prueba para sustentar el ejercicio de la acción penal, la acusación contra el imputado y la reparación del daño.

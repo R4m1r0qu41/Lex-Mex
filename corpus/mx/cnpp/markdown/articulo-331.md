@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 331
 
-Suspensión del proceso El Juez de control competente decretará la suspensión del proceso cuando:
+Suspensión del proceso El [Juez de control](articulo-3o.md) competente decretará la suspensión del proceso cuando:
 
 I. Se decrete la sustracción del imputado a la acción de la justicia;
 

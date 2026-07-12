@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 197
 
-Conservación de los registros de investigación y medios de prueba En los procesos suspendidos de conformidad con las disposiciones establecidas en el presente Capítulo, el Ministerio Público tomará las medidas necesarias para evitar la pérdida, destrucción o ineficacia de los registros y medios de prueba conocidos y los que soliciten los sujetos que intervienen en el proceso.
+Conservación de los registros de investigación y medios de prueba En los procesos suspendidos de conformidad con las disposiciones establecidas en el presente Capítulo, el [Ministerio Público](articulo-3o.md) tomará las medidas necesarias para evitar la pérdida, destrucción o ineficacia de los registros y medios de prueba conocidos y los que soliciten los sujetos que intervienen en el proceso.

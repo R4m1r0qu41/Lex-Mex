@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 63
 
-Notificación en audiencia Las resoluciones del Órgano jurisdiccional serán dictadas en forma oral, con expresión de sus fundamentos y motivaciones, quedando los intervinientes en ellas y quienes estaban obligados a asistir formalmente notificados de su emisión, lo que constará en el registro correspondiente en los términos previstos en este Código.
+Notificación en audiencia Las resoluciones del [Órgano jurisdiccional](articulo-3o.md) serán dictadas en forma oral, con expresión de sus fundamentos y motivaciones, quedando los intervinientes en ellas y quienes estaban obligados a asistir formalmente notificados de su emisión, lo que constará en el registro correspondiente en los términos previstos en este [Código](articulo-3o.md).

@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 387
 
-Incorporación de prueba material o documental previamente admitida De conformidad con el [artículo anterior](articulo-386.md), sólo se podrán incorporar la prueba material y la documental previamente admitidas, salvo las excepciones previstas en este Código.
+Incorporación de prueba material o documental previamente admitida De conformidad con el [artículo anterior](articulo-386.md), sólo se podrán incorporar la prueba material y la documental previamente admitidas, salvo las excepciones previstas en este [Código](articulo-3o.md).

@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 169
 
-Peligro de obstaculización del desarrollo de la investigación Para decidir acerca del peligro de obstaculización del desarrollo de la investigación, el Juez de control tomará en cuenta la circunstancia del hecho imputado y los elementos aportados por el Ministerio Público para estimar como probable que, de recuperar su libertad, el imputado:
+Peligro de obstaculización del desarrollo de la investigación Para decidir acerca del peligro de obstaculización del desarrollo de la investigación, el [Juez de control](articulo-3o.md) tomará en cuenta la circunstancia del hecho imputado y los elementos aportados por el [Ministerio Público](articulo-3o.md) para estimar como probable que, de recuperar su libertad, el imputado:
 
 I. Destruirá, modificará, ocultará o falsificará elementos de prueba;
 

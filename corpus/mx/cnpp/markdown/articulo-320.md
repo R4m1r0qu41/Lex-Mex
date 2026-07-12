@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 320
 
-Valor de las actuaciones Los antecedentes de la investigación y elementos de convicción aportados y desahogados, en su caso, en la audiencia de vinculación a proceso, que sirvan como base para el dictado del auto de vinculación a proceso y de las medidas cautelares, carecen de valor probatorio para fundar la sentencia, salvo las excepciones expresas previstas por este Código.
+Valor de las actuaciones Los antecedentes de la investigación y elementos de convicción aportados y desahogados, en su caso, en la audiencia de vinculación a proceso, que sirvan como base para el dictado del auto de vinculación a proceso y de las medidas cautelares, carecen de valor probatorio para fundar la sentencia, salvo las excepciones expresas previstas por este [Código](articulo-3o.md).
 
 Artículo reformado DOF 17-06-2016

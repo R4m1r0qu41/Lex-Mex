@@ -19,7 +19,7 @@ source_sha256: 102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842
 
 Las dependencias y entidades, distintas a las mencionadas en el [artículo anterior](articulo-23.md), así como los prestadores de servicios de certificación que estén interesados en tener el carácter de autoridad certificadora en términos de la presente Ley, deberán:
 
-I. Contar con el dictamen favorable de la Secretaría, y
+I. Contar con el dictamen favorable de la [Secretaría](articulo-2.md), y
 
 II. Cumplir con los demás requisitos que se establezcan en las disposiciones generales que se emitan en los términos de esta Ley.
 

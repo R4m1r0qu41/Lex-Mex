@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 186
 
-Definición Los acuerdos reparatorios son aquéllos celebrados entre la víctima u ofendido y el imputado que, una vez aprobados por el Ministerio Público o el Juez de control y cumplidos en sus términos, tienen como efecto la extinción de la acción penal.
+Definición Los acuerdos reparatorios son aquéllos celebrados entre la víctima u ofendido y el imputado que, una vez aprobados por el [Ministerio Público](articulo-3o.md) o el [Juez de control](articulo-3o.md) y cumplidos en sus términos, tienen como efecto la extinción de la acción penal.
 
 Artículo reformado DOF 29-12-2014

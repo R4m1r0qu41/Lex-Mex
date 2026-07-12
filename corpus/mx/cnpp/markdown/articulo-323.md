@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 323
 
-Plazo para declarar el cierre de la investigación Transcurrido el plazo para el cierre de la investigación, el Ministerio Público deberá cerrarla o solicitar justificadamente su prórroga al Juez de control, observándose los límites máximos previstos en el artículo [321](articulo-321.md).
+Plazo para declarar el cierre de la investigación Transcurrido el plazo para el cierre de la investigación, el [Ministerio Público](articulo-3o.md) deberá cerrarla o solicitar justificadamente su prórroga al [Juez de control](articulo-3o.md), observándose los límites máximos previstos en el artículo [321](articulo-321.md).
 
 Si el Ministerio Público no declarara cerrada la investigación en el plazo fijado, o no solicita su prórroga, el imputado o la víctima u ofendido podrán solicitar al Juez de control que lo aperciba para que proceda a tal cierre.
 

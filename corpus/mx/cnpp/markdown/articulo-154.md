@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 154
 
-Procedencia de medidas cautelares El Juez podrá imponer medidas cautelares a petición del Ministerio Público o de la víctima u ofendido, en los casos previstos por este Código, cuando ocurran las circunstancias siguientes:
+Procedencia de medidas cautelares El Juez podrá imponer medidas cautelares a petición del [Ministerio Público](articulo-3o.md) o de la víctima u ofendido, en los casos previstos por este [Código](articulo-3o.md), cuando ocurran las circunstancias siguientes:
 
 I. Formulada la imputación, el propio imputado se acoja al término constitucional, ya sea éste de una duración de setenta y dos horas o de ciento cuarenta y cuatro, según sea el caso, o
 

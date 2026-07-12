@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 356
 
-Libertad probatoria Todos los hechos y circunstancias aportados para la adecuada solución del caso sometido a juicio, podrán ser probados por cualquier medio pertinente producido e incorporado de conformidad con este Código.
+Libertad probatoria Todos los hechos y circunstancias aportados para la adecuada solución del caso sometido a juicio, podrán ser probados por cualquier medio pertinente producido e incorporado de conformidad con este [Código](articulo-3o.md).

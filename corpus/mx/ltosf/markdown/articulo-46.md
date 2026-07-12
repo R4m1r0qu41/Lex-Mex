@@ -19,4 +19,4 @@ Se deroga
 
 Artículo derogado DOF 25-06-2009
 
-Sección VIII Sanciones que corresponde imponer al Banco de México o a la Comisión Nacional Bancaria y de Valores Denominación de la Sección reformada DOF 09-03-2018
+Sección VIII Sanciones que corresponde imponer al Banco de México o a la [Comisión](articulo-3.md) Nacional Bancaria y de Valores Denominación de la Sección reformada DOF 09-03-2018

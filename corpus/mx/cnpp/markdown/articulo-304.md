@@ -19,7 +19,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Prueba anticipada Hasta antes de la celebración de la audiencia de juicio se podrá desahogar anticipadamente cualquier medio de prueba pertinente, siempre que se satisfagan los siguientes requisitos:
 
-I. Que sea practicada ante el Juez de control;
+I. Que sea practicada ante el [Juez de control](articulo-3o.md);
 
 II. Que sea solicitada por alguna de las partes, quienes deberán expresar las razones por las cuales el acto se debe realizar con anticipación a la audiencia de juicio a la que se pretende desahogar y se torna indispensable en virtud de que se estime probable que algún testigo no podrá concurrir a la audiencia de juicio, por vivir en el extranjero, por existir motivo que hiciere temer su muerte, o por su estado de salud o incapacidad física o mental que le impidiese declarar;
 

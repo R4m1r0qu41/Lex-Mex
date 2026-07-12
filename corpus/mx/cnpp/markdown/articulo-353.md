@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 353
 
-Motivación Las decisiones del Tribunal de enjuiciamiento, así como las de su Presidente serán verbales, con expresión de sus fundamentos y motivos cuando el caso lo requiera o las partes así lo soliciten, quedando todos notificados por su emisión.
+Motivación Las decisiones del [Tribunal de enjuiciamiento](articulo-3o.md), así como las de su Presidente serán verbales, con expresión de sus fundamentos y motivos cuando el caso lo requiera o las partes así lo soliciten, quedando todos notificados por su emisión.

@@ -23,7 +23,7 @@ El plazo de cinco años previsto en el primer párrafo del presente artículo se
 
 Asimismo, el plazo de cinco años previsto por este artículo se suspenderá:
 
-I. Hasta por dos años, cuando la Entidad Financiera: no se ubique en el domicilio registrado ante la Autoridad respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
+I. Hasta por dos años, cuando la [Entidad Financiera](articulo-3.md): no se ubique en el domicilio registrado ante la [Autoridad](articulo-3.md) respectiva sin que haya presentado el aviso de cambio correspondiente, o hubiere señalado un domicilio incorrecto.
 
 El citado plazo se reanudará a partir de la fecha en que la Autoridad tenga conocimiento del domicilio actual.
 

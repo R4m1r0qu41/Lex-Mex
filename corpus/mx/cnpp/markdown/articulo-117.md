@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 117
 
-Obligaciones del Defensor Son obligaciones del Defensor:
+Obligaciones del [Defensor](articulo-3o.md) Son obligaciones del Defensor:
 
 I. Entrevistar al imputado para conocer directamente su versión de los hechos que motivan la investigación, a fin de ofrecer los datos y medios de prueba pertinentes que sean necesarios para llevar a cabo una adecuada defensa;
 
@@ -35,7 +35,7 @@ VII. Presentar los argumentos y datos de prueba que desvirtúen la existencia de
 
 VIII. Solicitar el no ejercicio de la acción penal;
 
-IX. Ofrecer los datos o medios de prueba en la audiencia correspondientes y promover la exclusión de los ofrecidos por el Ministerio Público o la víctima u ofendido cuando no se ajusten a la ley;
+IX. Ofrecer los datos o medios de prueba en la audiencia correspondientes y promover la exclusión de los ofrecidos por el [Ministerio Público](articulo-3o.md) o la víctima u ofendido cuando no se ajusten a la ley;
 
 X. Promover a favor del imputado la aplicación de mecanismos alternativos de solución de controversias o formas anticipadas de terminación del proceso penal, de conformidad con las disposiciones aplicables;
 
@@ -47,6 +47,6 @@ XIII. En los casos en que proceda, formular solicitudes de procedimientos especi
 
 XIV. Guardar el secreto profesional en el desempeño de sus funciones;
 
-XV. Interponer los recursos e incidentes en términos de este Código y de la legislación aplicable y, en su caso, promover el juicio de Amparo; XVI. Informar a los imputados y a sus familiares la situación jurídica en que se encuentre su defensa, y
+XV. Interponer los recursos e incidentes en términos de este [Código](articulo-3o.md) y de la legislación aplicable y, en su caso, promover el juicio de Amparo; XVI. Informar a los imputados y a sus familiares la situación jurídica en que se encuentre su defensa, y
 
 XVII. Las demás que señalen las leyes.

@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 47
 
-Lugar de audiencias El Órgano jurisdiccional celebrará las audiencias en la sala que corresponda, excepto si ello puede provocar una grave alteración del orden público, no garantiza la defensa de alguno de los intereses comprometidos en el procedimiento u obstaculiza seriamente su realización, en cuyo caso se celebrarán en el lugar que para tal efecto designe el Órgano jurisdiccional y bajo las medidas de seguridad que éste determine, de conformidad con lo que establezca la legislación aplicable.
+Lugar de audiencias El [Órgano jurisdiccional](articulo-3o.md) celebrará las audiencias en la sala que corresponda, excepto si ello puede provocar una grave alteración del orden público, no garantiza la defensa de alguno de los intereses comprometidos en el procedimiento u obstaculiza seriamente su realización, en cuyo caso se celebrarán en el lugar que para tal efecto designe el Órgano jurisdiccional y bajo las medidas de seguridad que éste determine, de conformidad con lo que establezca la legislación aplicable.

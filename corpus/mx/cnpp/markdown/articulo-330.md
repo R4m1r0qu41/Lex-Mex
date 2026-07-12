@@ -17,9 +17,9 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 330
 
-Facultades del Juez respecto del sobreseimiento El Juez de control, al pronunciarse sobre la solicitud de sobreseimiento planteada por cualquiera de las partes, podrá rechazarlo o bien decretar el sobreseimiento incluso por motivo distinto del planteado conforme a lo previsto en este Código.
+Facultades del Juez respecto del sobreseimiento El [Juez de control](articulo-3o.md), al pronunciarse sobre la solicitud de sobreseimiento planteada por cualquiera de las partes, podrá rechazarlo o bien decretar el sobreseimiento incluso por motivo distinto del planteado conforme a lo previsto en este [Código](articulo-3o.md).
 
-Si la víctima u ofendido se opone a la solicitud de sobreseimiento formulada por el Ministerio Público, el imputado o su Defensor, el Juez de control se pronunciará con base en los argumentos expuestos por las partes y el mérito de la causa.
+Si la víctima u ofendido se opone a la solicitud de sobreseimiento formulada por el [Ministerio Público](articulo-3o.md), el imputado o su [Defensor](articulo-3o.md), el Juez de control se pronunciará con base en los argumentos expuestos por las partes y el mérito de la causa.
 
 Si el Juez de control admite las objeciones de la víctima u ofendido, denegará la solicitud de sobreseimiento.
 

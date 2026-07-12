@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 291
 
-Intervención de las comunicaciones privadas Cuando en la investigación el Ministerio Público considere necesaria la intervención de comunicaciones privadas, el Titular de la Procuraduría General de la República, o en quienes éste delegue esta facultad, así como los Procuradores de las entidades federativas, podrán solicitar al Juez federal de control competente, por cualquier medio, la autorización para practicar la intervención, expresando el objeto y necesidad de la misma. Párrafo reformado DOF 17-06-2016
+Intervención de las comunicaciones privadas Cuando en la investigación el [Ministerio Público](articulo-3o.md) considere necesaria la intervención de comunicaciones privadas, el Titular de la [Procuraduría](articulo-3o.md) General de la República, o en quienes éste delegue esta facultad, así como los [Procuradores](articulo-3o.md) de las entidades federativas, podrán solicitar al Juez federal de control competente, por cualquier medio, la autorización para practicar la intervención, expresando el objeto y necesidad de la misma. Párrafo reformado DOF 17-06-2016
 
 La intervención de comunicaciones privadas, abarca todo sistema de comunicación, o programas que sean resultado de la evolución tecnológica, que permitan el intercambio de datos, informaciones, audio, video, mensajes, así como archivos electrónicos que graben, conserven el contenido de las conversaciones o registren datos que identifiquen la comunicación, los cuales se pueden presentar en tiempo real. Párrafo reformado DOF 17-06-2016
 

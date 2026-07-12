@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 293
 
-Contenido de la resolución judicial que autoriza la intervención de las comunicaciones privadas En la autorización, el Juez de control determinará las características de la intervención, sus modalidades, límites y en su caso, ordenará a instituciones públicas o privadas modos específicos de colaboración.
+Contenido de la resolución judicial que autoriza la intervención de las comunicaciones privadas En la autorización, el [Juez de control](articulo-3o.md) determinará las características de la intervención, sus modalidades, límites y en su caso, ordenará a instituciones públicas o privadas modos específicos de colaboración.

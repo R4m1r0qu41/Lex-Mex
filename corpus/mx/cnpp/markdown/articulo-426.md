@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 426
 
-Acción penal por particulares El ejercicio de la acción penal corresponde al Ministerio Público, pero podrá ser ejercida por los particulares que tengan la calidad de víctima u ofendido en los casos y conforme a lo dispuesto en este Código.
+Acción penal por particulares El ejercicio de la acción penal corresponde al [Ministerio Público](articulo-3o.md), pero podrá ser ejercida por los particulares que tengan la calidad de víctima u ofendido en los casos y conforme a lo dispuesto en este [Código](articulo-3o.md).

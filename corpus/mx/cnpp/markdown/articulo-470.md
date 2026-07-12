@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 470
 
-Inadmisibilidad del recurso El Tribunal de alzada declarará inadmisible el recurso cuando:
+Inadmisibilidad del recurso El [Tribunal de alzada](articulo-3o.md) declarará inadmisible el recurso cuando:
 
 I. Haya sido interpuesto fuera del plazo;
 

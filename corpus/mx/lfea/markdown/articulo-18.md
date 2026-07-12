@@ -29,10 +29,10 @@ IV. Clave Única del Registro de Población (CURP) del solicitante, salvo que se
 
 V. Nombre de la autoridad certificadora a quien va dirigida la solicitud.
 
-Posteriormente, el interesado deberá acudir ante la Autoridad Certificadora correspondiente y entregar su solicitud con firma autógrafa, acompañada de:
+Posteriormente, el interesado deberá acudir ante la [Autoridad Certificadora](articulo-2.md) correspondiente y entregar su solicitud con firma autógrafa, acompañada de:
 
 a) El documento que compruebe el domicilio a que se refiere la fracción II;
 
 b) El documento de identificación oficial expedido por autoridad competente, y
 
-c) El documento probatorio de nacionalidad mexicana, y tratándose de extranjeros, el documento que acredite su legal estadía en territorio nacional. La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria establecerán de manera conjunta, en términos de las disposiciones aplicables, los procedimientos para el registro de datos y verificación de elementos de identificación, emisión, renovación y revocación de certificados digitales, los cuales darán a conocer a través de sus respectivas páginas Web.
+c) El documento probatorio de nacionalidad mexicana, y tratándose de extranjeros, el documento que acredite su legal estadía en territorio nacional. La [Secretaría](articulo-2.md), la Secretaría de Economía y el Servicio de Administración Tributaria establecerán de manera conjunta, en términos de las disposiciones aplicables, los procedimientos para el registro de datos y verificación de elementos de identificación, emisión, renovación y revocación de certificados digitales, los cuales darán a conocer a través de sus respectivas páginas Web.

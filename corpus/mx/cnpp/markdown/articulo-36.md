@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 36
 
-Excusa o recusación Los jueces y magistrados deberán excusarse o podrán ser recusados para conocer de los asuntos en que intervengan por cualquiera de las causas de impedimento que se establecen en este Código, mismas que no podrán dispensarse por voluntad de las partes.
+Excusa o recusación Los jueces y magistrados deberán excusarse o podrán ser recusados para conocer de los asuntos en que intervengan por cualquiera de las causas de impedimento que se establecen en este [Código](articulo-3o.md), mismas que no podrán dispensarse por voluntad de las partes.

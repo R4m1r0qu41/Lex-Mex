@@ -17,8 +17,8 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 339
 
-Reglas generales de la coadyuvancia Si la víctima u ofendido se constituyera en coadyuvante del Ministerio Público, le serán aplicables en lo conducente las formalidades previstas para la acusación de aquél. El Juez de control deberá correr traslado de dicha solicitud a las partes.
+Reglas generales de la coadyuvancia Si la víctima u ofendido se constituyera en coadyuvante del [Ministerio Público](articulo-3o.md), le serán aplicables en lo conducente las formalidades previstas para la acusación de aquél. El [Juez de control](articulo-3o.md) deberá correr traslado de dicha solicitud a las partes.
 
-La coadyuvancia en la acusación por parte de la víctima u ofendido no alterará las facultades concedidas por este Código y demás legislación aplicable al Ministerio Público, ni lo eximirá de sus responsabilidades.
+La coadyuvancia en la acusación por parte de la víctima u ofendido no alterará las facultades concedidas por este [Código](articulo-3o.md) y demás legislación aplicable al Ministerio Público, ni lo eximirá de sus responsabilidades.
 
 Si se trata de varias víctimas u ofendidos podrán nombrar un representante común, siempre que no exista conflicto de intereses.

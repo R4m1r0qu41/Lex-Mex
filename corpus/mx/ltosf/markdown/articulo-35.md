@@ -15,4 +15,4 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 35
 
-Las Autoridades podrán abstenerse de sancionar a las Entidades y a las Cámaras de Compensación, siempre y cuando se trate de las conductas infractoras señaladas en los artículos [40](articulo-40.md), [41](articulo-41.md), [44](articulo-44.md) primer párrafo, [45](articulo-45.md) y [47](articulo-47.md), no constituyan delito y se presenten las circunstancias atenuantes referidas en el presente capítulo. La autoridad correspondiente deberá justificar las causas que motivaron el ejercicio de esta facultad.
+Las [Autoridades](articulo-3.md) podrán abstenerse de sancionar a las [Entidades](articulo-3.md) y a las Cámaras de Compensación, siempre y cuando se trate de las conductas infractoras señaladas en los artículos [40](articulo-40.md), [41](articulo-41.md), [44](articulo-44.md) primer párrafo, [45](articulo-45.md) y [47](articulo-47.md), no constituyan delito y se presenten las circunstancias atenuantes referidas en el presente capítulo. La autoridad correspondiente deberá justificar las causas que motivaron el ejercicio de esta facultad.

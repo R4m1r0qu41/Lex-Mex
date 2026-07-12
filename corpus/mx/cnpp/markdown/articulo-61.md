@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 61
 
-Registro de las audiencias Todas las audiencias previstas en este Código serán registradas por cualquier medio tecnológico que tenga a su disposición el Órgano jurisdiccional.
+Registro de las audiencias Todas las audiencias previstas en este [Código](articulo-3o.md) serán registradas por cualquier medio tecnológico que tenga a su disposición el [Órgano jurisdiccional](articulo-3o.md).
 
 La grabación o reproducción de imágenes o sonidos se considerará como parte de las actuaciones y registros y se conservarán en resguardo del Poder Judicial para efectos del conocimiento de otros órganos distintos que conozcan del mismo procedimiento y de las partes, garantizando siempre su conservación.

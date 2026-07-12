@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:laat",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Ayuda Alimentaria para los Trabajadores",
+  "short_name": "LAAT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2011-01-17",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T05:35:56.966823Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf",
+  "source_sha256": "2e6462a9ddd472efe129d2285c1602316c91640646847da74dbf13363c5238fb",
+  "extracted_text_sha256": "ac6ca78d2e0d039944e2fe4913cca23d38dac76bc5fcba086386e8ae2539c908",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

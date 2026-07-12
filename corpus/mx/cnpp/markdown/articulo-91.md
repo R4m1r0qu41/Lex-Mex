@@ -21,7 +21,7 @@ Forma de realizar las citaciones Cuando sea necesaria la presencia de una person
 
 También podrá citarse por teléfono al testigo o perito que haya manifestado expresamente su voluntad para que se le cite por este medio, siempre que haya proporcionado su número, sin perjuicio de que si no es posible realizar tal citación, se pueda realizar por alguno de los otros medios señalados en este Capítulo.
 
-En caso de que las partes ofrezcan como prueba a un testigo o perito, deberán presentarlo el día y hora señalados, salvo que soliciten al Órgano jurisdiccional que por su conducto sea citado en virtud de que se encuentran imposibilitados para su comparecencia debido a la naturaleza de las circunstancias.
+En caso de que las partes ofrezcan como prueba a un testigo o perito, deberán presentarlo el día y hora señalados, salvo que soliciten al [Órgano jurisdiccional](articulo-3o.md) que por su conducto sea citado en virtud de que se encuentran imposibilitados para su comparecencia debido a la naturaleza de las circunstancias.
 
 En caso de que las partes, estando obligadas a presentar a sus testigos o peritos, no cumplan con dicha comparecencia, se les tendrá por desistidos de la prueba, a menos que justifiquen la imposibilidad que se tuvo para presentarlos, dentro de las veinticuatro horas siguientes a la fecha fijada para la comparecencia de sus testigos o peritos.
 

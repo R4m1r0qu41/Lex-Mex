@@ -19,7 +19,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Requisitos para el aseguramiento de vehículos Tratándose de delitos culposos ocasionados con motivo del tránsito de vehículos, estos se entregarán en depósito a quien se legitime como su propietario o poseedor.
 
-Previo a la entrega del vehículo, el Ministerio Público debe cerciorarse:
+Previo a la entrega del vehículo, el [Ministerio Público](articulo-3o.md) debe cerciorarse:
 
 I. Que el vehículo no tenga reporte de robo;
 

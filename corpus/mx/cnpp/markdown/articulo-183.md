@@ -21,6 +21,6 @@ Principio general En los asuntos sujetos a procedimiento abreviado se aplicarán
 
 En todo lo no previsto en este Título, y siempre que no se opongan al mismo, se aplicarán las reglas del proceso ordinario.
 
-Para las salidas alternas y formas de terminación anticipada, la autoridad competente contará con un registro para dar seguimiento al cumplimiento de los acuerdos reparatorios, los procesos de suspensión condicional del proceso, y el procedimiento abreviado, dicho registro deberá ser consultado por el Ministerio Público y la autoridad judicial antes de solicitar y conceder, respectivamente, alguna forma de solución alterna del procedimiento o de terminación anticipada del proceso.
+Para las salidas alternas y formas de terminación anticipada, la autoridad competente contará con un registro para dar seguimiento al cumplimiento de los acuerdos reparatorios, los procesos de suspensión condicional del proceso, y el procedimiento abreviado, dicho registro deberá ser consultado por el [Ministerio Público](articulo-3o.md) y la autoridad judicial antes de solicitar y conceder, respectivamente, alguna forma de solución alterna del procedimiento o de terminación anticipada del proceso.
 
 Artículo reformado DOF 29-12-2014

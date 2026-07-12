@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 168
 
-Peligro de sustracción del imputado Para decidir si está garantizada o no la comparecencia del imputado en el proceso, el Juez de control tomará en cuenta, especialmente, las siguientes circunstancias:
+Peligro de sustracción del imputado Para decidir si está garantizada o no la comparecencia del imputado en el proceso, el [Juez de control](articulo-3o.md) tomará en cuenta, especialmente, las siguientes circunstancias:
 
 I. El arraigo que tenga en el lugar donde deba ser juzgado determinado por el domicilio, residencia habitual, asiento de la familia y las facilidades para abandonar el lugar o permanecer oculto. La falsedad sobre el domicilio del imputado constituye presunción de riesgo de fuga;
 

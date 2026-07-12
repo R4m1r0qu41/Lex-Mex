@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 417
 
-Medidas cautelares aplicables a inimputables Se podrán imponer medidas cautelares a personas inimputables, de conformidad con las reglas del proceso ordinario, con los ajustes del procedimiento que disponga el Juez de control para el caso en que resulte procedente.
+Medidas cautelares aplicables a inimputables Se podrán imponer medidas cautelares a personas inimputables, de conformidad con las reglas del proceso ordinario, con los ajustes del procedimiento que disponga el [Juez de control](articulo-3o.md) para el caso en que resulte procedente.
 
 El solo hecho de ser imputable no será razón suficiente para imponer medidas cautelares.

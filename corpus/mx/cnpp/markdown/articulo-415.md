@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 415
 
-Identificación de los supuestos de inimputabilidad Si el imputado ha sido vinculado a proceso y se estima que está en una situación de inimputabilidad, las partes podrán solicitar al Juez de control que se lleven a cabo los peritajes necesarios para determinar si se acredita tal extremo, así como si la inimputabilidad que presente pudo ser propiciada o no por la persona.
+Identificación de los supuestos de inimputabilidad Si el imputado ha sido vinculado a proceso y se estima que está en una situación de inimputabilidad, las partes podrán solicitar al [Juez de control](articulo-3o.md) que se lleven a cabo los peritajes necesarios para determinar si se acredita tal extremo, así como si la inimputabilidad que presente pudo ser propiciada o no por la persona.

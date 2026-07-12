@@ -27,9 +27,9 @@ III. El traslado del cadáver;
 
 IV. La descripción y peritajes correspondientes, o
 
-V. La exhumación en los términos previstos en este Código y demás disposiciones aplicables.
+V. La exhumación en los términos previstos en este [Código](articulo-3o.md) y demás disposiciones aplicables.
 
-Cuando de la investigación no resulten datos relacionados con la existencia de algún delito, el Ministerio Público podrá autorizar la dispensa de la necropsia.
+Cuando de la investigación no resulten datos relacionados con la existencia de algún delito, el [Ministerio Público](articulo-3o.md) podrá autorizar la dispensa de la necropsia.
 
 Si el cadáver hubiere sido inhumado, se procederá a exhumarlo en los términos previstos en este Código y demás disposiciones aplicables. En todo caso, practicada la inspección o la necropsia correspondiente, se procederá a la sepultura inmediata, pero no podrá incinerarse el cadáver.
 

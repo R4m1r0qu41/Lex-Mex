@@ -17,13 +17,13 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 20
 
-Reglas de competencia Para determinar la competencia territorial de los Órganos jurisdiccionales federales o locales, según corresponda, se observarán las siguientes reglas:
+Reglas de competencia Para determinar la competencia territorial de los [Órganos jurisdiccionales](articulo-3o.md) federales o locales, según corresponda, se observarán las siguientes reglas:
 
-I. Los Órganos jurisdiccionales del fuero común tendrán competencia sobre los hechos punibles cometidos dentro de la circunscripción judicial en la que ejerzan sus funciones, conforme a la distribución y las disposiciones establecidas por su Ley Orgánica, o en su defecto, conforme a los acuerdos expedidos por el Consejo;
+I. Los Órganos jurisdiccionales del fuero común tendrán competencia sobre los hechos punibles cometidos dentro de la circunscripción judicial en la que ejerzan sus funciones, conforme a la distribución y las disposiciones establecidas por su [Ley Orgánica](articulo-3o.md), o en su defecto, conforme a los acuerdos expedidos por el [Consejo](articulo-3o.md);
 
 II. Cuando el hecho punible sea del orden federal, conocerán los Órganos jurisdiccionales federales;
 
-III. Cuando el hecho punible sea del orden federal pero exista competencia concurrente, deberán conocer los Órganos jurisdiccionales del fuero común, en los términos que dispongan las leyes; IV. En caso de concurso de delitos, el Ministerio Público de la Federación podrá conocer de los delitos del fuero común que tengan conexidad con delitos federales cuando lo considere conveniente, asimismo los Órganos jurisdiccionales federales, en su caso, tendrán competencia para juzgarlos. Para la aplicación de sanciones y medidas de seguridad en delitos del fuero común, se atenderá a la legislación de su fuero de origen. En tanto la Federación no ejerza dicha facultad, las autoridades estatales estarán obligadas a asumir su competencia en términos de la fracción primera de este artículo;
+III. Cuando el hecho punible sea del orden federal pero exista competencia concurrente, deberán conocer los Órganos jurisdiccionales del fuero común, en los términos que dispongan las leyes; IV. En caso de concurso de delitos, el [Ministerio Público](articulo-3o.md) de la Federación podrá conocer de los delitos del fuero común que tengan conexidad con delitos federales cuando lo considere conveniente, asimismo los Órganos jurisdiccionales federales, en su caso, tendrán competencia para juzgarlos. Para la aplicación de sanciones y medidas de seguridad en delitos del fuero común, se atenderá a la legislación de su fuero de origen. En tanto la Federación no ejerza dicha facultad, las autoridades estatales estarán obligadas a asumir su competencia en términos de la fracción primera de este artículo;
 
 V. Cuando el hecho punible haya sido cometido en los límites de dos circunscripciones judiciales, será competente el Órgano jurisdiccional del fuero común o federal, según sea el caso, que haya prevenido en el conocimiento de la causa;
 

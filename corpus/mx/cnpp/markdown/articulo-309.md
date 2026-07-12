@@ -17,9 +17,9 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 309
 
-Oportunidad para formular la imputación a personas detenidas La formulación de la imputación es la comunicación que el Ministerio Público efectúa al imputado, en presencia del Juez de control, de que desarrolla una investigación en su contra respecto de uno o más hechos que la ley señala como delito.
+Oportunidad para formular la imputación a personas detenidas La formulación de la imputación es la comunicación que el [Ministerio Público](articulo-3o.md) efectúa al imputado, en presencia del [Juez de control](articulo-3o.md), de que desarrolla una investigación en su contra respecto de uno o más hechos que la ley señala como delito.
 
-En el caso de detenidos en flagrancia o caso urgente, después que el Juez de control califique de legal la detención, el Ministerio Público deberá formular la imputación, acto seguido solicitará la vinculación del imputado a proceso sin perjuicio del plazo constitucional que pueda invocar el imputado o su Defensor.
+En el caso de detenidos en flagrancia o caso urgente, después que el Juez de control califique de legal la detención, el Ministerio Público deberá formular la imputación, acto seguido solicitará la vinculación del imputado a proceso sin perjuicio del plazo constitucional que pueda invocar el imputado o su [Defensor](articulo-3o.md).
 
 En el caso de que el Ministerio Público o la víctima u ofendido o el Asesor jurídico solicite una medida cautelar y el imputado se haya acogido al plazo constitucional, el debate sobre medidas cautelares sucederá previo a la suspensión de la audiencia. Párrafo reformado DOF 17-06-2016
 
@@ -31,4 +31,4 @@ Si el imputado decidiera declarar en relación a los hechos que se le imputan, s
 
 Si el imputado decide libremente declarar, el Ministerio Público, el Asesor jurídico de la víctima u ofendido, el acusador privado en su caso y la defensa podrán dirigirle preguntas sobre lo que declaró, pero no estará obligado a responder las que puedan ser en su contra.
 
-En lo conducente se observarán las reglas previstas en este Código para el desahogo de los medios de prueba.
+En lo conducente se observarán las reglas previstas en este [Código](articulo-3o.md) para el desahogo de los medios de prueba.

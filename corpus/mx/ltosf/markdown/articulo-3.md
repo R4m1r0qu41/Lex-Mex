@@ -17,13 +17,13 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 Para los efectos de la presente Ley, en singular o plural se entenderá por:
 
-I. Autoridades: a la Comisión Nacional Bancaria y de Valores, al Banco de México, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y a la Procuraduría Federal del Consumidor; Fracción reformada DOF 25-06-2009, 10-01-2014
+I. Autoridades: a la [Comisión](articulo-3.md) Nacional Bancaria y de Valores, al Banco de México, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y a la Procuraduría Federal del Consumidor; Fracción reformada DOF 25-06-2009, 10-01-2014
 
-II. Cámara de Compensación: a la entidad central o mecanismo de procesamiento centralizado, a través del cual se intercambian instrucciones de pago u otras obligaciones financieras, relacionadas con cualquier Medio de Disposición; Fracción reformada DOF 25-05-2010
+II. Cámara de Compensación: a la entidad central o mecanismo de procesamiento centralizado, a través del cual se intercambian instrucciones de pago u otras obligaciones financieras, relacionadas con cualquier [Medio de Disposición](articulo-3.md); Fracción reformada DOF 25-05-2010
 
-III. Cliente: a la persona que celebra cualquier operación pasiva, activa o de servicios con una Entidad Financiera, recibe algún crédito, préstamo o financiamiento de alguna Entidad Comercial o utiliza los Medios de Disposición puestos a su disposición por cualquier Entidad; Fracción reformada DOF 10-01-2014
+III. Cliente: a la persona que celebra cualquier operación pasiva, activa o de servicios con una [Entidad Financiera](articulo-3.md), recibe algún crédito, préstamo o financiamiento de alguna [Entidad Comercial](articulo-3.md) o utiliza los Medios de Disposición puestos a su disposición por cualquier [Entidad](articulo-3.md); Fracción reformada DOF 10-01-2014
 
-IV. Comisión: a cualquier cargo, independientemente de su denominación o modalidad diferente al Interés, que una Entidad cobre a un Cliente. Tratándose de Entidades Financieras, se considerarán los cargos que se realicen por operaciones pasivas, activas o de servicio, y tratándose de Entidades Comerciales se considerarán los cargos que se efectúen por las operaciones de crédito, préstamos o financiamientos. En todos los casos, se considerarán los cargos por el uso o aceptación de Medios de Disposición; Fracción reformada DOF 25-06-2009
+IV. Comisión: a cualquier cargo, independientemente de su denominación o modalidad diferente al Interés, que una Entidad cobre a un [Cliente](articulo-3.md). Tratándose de Entidades Financieras, se considerarán los cargos que se realicen por operaciones pasivas, activas o de servicio, y tratándose de Entidades Comerciales se considerarán los cargos que se efectúen por las operaciones de crédito, préstamos o financiamientos. En todos los casos, se considerarán los cargos por el uso o aceptación de Medios de Disposición; Fracción reformada DOF 25-06-2009
 
 IV Bis. Consorcio: al conjunto de personas morales vinculadas entre sí por una o más personas físicas que integrando un Grupo de Personas, tengan el Control de las primeras; Fracción adicionada DOF 09-03-2018
 
@@ -61,4 +61,4 @@ XII Bis. Participante en Redes: a toda persona que de manera habitual preste ser
 
 XIV. Sistema de Pagos: a la serie de instrumentos, procedimientos, reglas y sistemas para la transferencia de fondos. Fracción adicionada DOF 10-01-2014. Reformada DOF 09-03-2018
 
-Capítulo II.- De las Comisiones y Cuotas de Intercambio
+Capítulo II.- De las Comisiones y [Cuotas de Intercambio](articulo-3.md)

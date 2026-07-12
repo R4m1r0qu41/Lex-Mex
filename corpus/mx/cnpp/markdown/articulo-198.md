@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 198
 
-Revocación de la suspensión condicional del proceso Si el imputado dejara de cumplir injustificadamente las condiciones impuestas, no cumpliera con el plan de reparación, o posteriormente fuera condenado por sentencia ejecutoriada por delito doloso o culposo, siempre que el proceso suspendido se refiera a delito de esta naturaleza, el Juez de control, previa petición del agente del Ministerio Público o de la víctima u ofendido, convocará a las partes a una audiencia en la que se debatirá sobre la procedencia de la revocación de la suspensión condicional del proceso, debiendo resolver de inmediato lo que proceda.
+Revocación de la suspensión condicional del proceso Si el imputado dejara de cumplir injustificadamente las condiciones impuestas, no cumpliera con el plan de reparación, o posteriormente fuera condenado por sentencia ejecutoriada por delito doloso o culposo, siempre que el proceso suspendido se refiera a delito de esta naturaleza, el [Juez de control](articulo-3o.md), previa petición del agente del [Ministerio Público](articulo-3o.md) o de la víctima u ofendido, convocará a las partes a una audiencia en la que se debatirá sobre la procedencia de la revocación de la suspensión condicional del proceso, debiendo resolver de inmediato lo que proceda.
 
 El Juez de control también podrá ampliar el plazo de la suspensión condicional del proceso hasta por dos años más. Esta extensión del término podrá imponerse por una sola vez.
 

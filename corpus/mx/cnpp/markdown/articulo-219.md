@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 219
 
-Acceso a los registros y la audiencia inicial Una vez convocados a la audiencia inicial, el imputado y su Defensor tienen derecho a consultar los registros de la investigación y a obtener copia, con la oportunidad debida para preparar la defensa. En caso que el Ministerio Público se niegue a permitir el acceso a los registros o a la obtención de las copias, podrán acudir ante el Juez de control para que resuelva lo conducente.
+Acceso a los registros y la audiencia inicial Una vez convocados a la audiencia inicial, el imputado y su [Defensor](articulo-3o.md) tienen derecho a consultar los registros de la investigación y a obtener copia, con la oportunidad debida para preparar la defensa. En caso que el [Ministerio Público](articulo-3o.md) se niegue a permitir el acceso a los registros o a la obtención de las copias, podrán acudir ante el [Juez de control](articulo-3o.md) para que resuelva lo conducente.

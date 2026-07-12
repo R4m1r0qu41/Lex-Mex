@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 88
 
-Nulidad de la notificación La notificación podrá ser nula cuando cause indefensión y no se cumplan las formalidades previstas en el presente Código.
+Nulidad de la notificación La notificación podrá ser nula cuando cause indefensión y no se cumplan las formalidades previstas en el presente [Código](articulo-3o.md).

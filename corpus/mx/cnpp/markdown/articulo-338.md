@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 338
 
-Coadyuvancia en la acusación Dentro de los tres días siguientes de la notificación de la acusación formulada por el Ministerio Público, la víctima u ofendido podrán mediante escrito:
+Coadyuvancia en la acusación Dentro de los tres días siguientes de la notificación de la acusación formulada por el [Ministerio Público](articulo-3o.md), la víctima u ofendido podrán mediante escrito:
 
 I. Constituirse como coadyuvantes en el proceso;
 

@@ -19,7 +19,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Causales de procedencia para la devolución de bienes asegurados La devolución de bienes asegurados procede en los casos siguientes:
 
-I. Cuando el Ministerio Público resuelva el no ejercicio de la acción penal, la aplicación de un criterio de oportunidad, la reserva o archivo temporal, se abstenga de acusar, o levante el aseguramiento de conformidad con las disposiciones aplicables, o
+I. Cuando el [Ministerio Público](articulo-3o.md) resuelva el no ejercicio de la acción penal, la aplicación de un criterio de oportunidad, la reserva o archivo temporal, se abstenga de acusar, o levante el aseguramiento de conformidad con las disposiciones aplicables, o
 
 II. Cuando la autoridad judicial levante el aseguramiento o no decrete el decomiso, de conformidad con las disposiciones aplicables.
 

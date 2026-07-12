@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 401
 
-Emisión de fallo Una vez concluida la deliberación, el Tribunal de enjuiciamiento se constituirá nuevamente en la sala de audiencias, después de ser convocadas oralmente o por cualquier medio todas las partes, con el propósito de que el Juez relator comunique el fallo respectivo.
+Emisión de fallo Una vez concluida la deliberación, el [Tribunal de enjuiciamiento](articulo-3o.md) se constituirá nuevamente en la sala de audiencias, después de ser convocadas oralmente o por cualquier medio todas las partes, con el propósito de que el Juez relator comunique el fallo respectivo.
 
 El fallo deberá señalar:
 

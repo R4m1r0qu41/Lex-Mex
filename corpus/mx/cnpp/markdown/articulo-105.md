@@ -25,14 +25,14 @@ II. El Asesor jurídico;
 
 III. El imputado;
 
-IV. El Defensor;
+IV. El [Defensor](articulo-3o.md);
 
-V. El Ministerio Público;
+V. El [Ministerio Público](articulo-3o.md);
 
-VI. La Policía;
+VI. La [Policía](articulo-3o.md);
 
-VII. El Órgano jurisdiccional, y
+VII. El [Órgano jurisdiccional](articulo-3o.md), y
 
 VIII. La autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso.
 
-Los sujetos del procedimiento que tendrán la calidad de parte en los procedimientos previstos en este Código, son el imputado y su Defensor, el Ministerio Público, la víctima u ofendido y su Asesor jurídico.
+Los sujetos del procedimiento que tendrán la calidad de parte en los procedimientos previstos en este [Código](articulo-3o.md), son el imputado y su Defensor, el Ministerio Público, la víctima u ofendido y su Asesor jurídico.

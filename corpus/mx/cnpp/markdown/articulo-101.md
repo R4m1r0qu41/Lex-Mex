@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 101
 
-Declaración de nulidad Cuando haya sido imposible sanear o convalidar un acto, en cualquier momento el Órgano jurisdiccional, a petición de parte, en forma fundada y motivada, deberá declarar su nulidad, señalando en su resolución los efectos de la declaratoria de nulidad, debiendo especificar los actos a los que alcanza la nulidad por su relación con el acto anulado. El Tribunal de enjuiciamiento no podrá declarar la nulidad de actos realizados en las etapas previas al juicio, salvo las excepciones previstas en este Código.
+Declaración de nulidad Cuando haya sido imposible sanear o convalidar un acto, en cualquier momento el [Órgano jurisdiccional](articulo-3o.md), a petición de parte, en forma fundada y motivada, deberá declarar su nulidad, señalando en su resolución los efectos de la declaratoria de nulidad, debiendo especificar los actos a los que alcanza la nulidad por su relación con el acto anulado. El [Tribunal de enjuiciamiento](articulo-3o.md) no podrá declarar la nulidad de actos realizados en las etapas previas al juicio, salvo las excepciones previstas en este [Código](articulo-3o.md).
 
 Para decretar la nulidad de un acto y disponer su reposición, no basta la simple infracción de la norma, sino que se requiere, además, que:
 

@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 357
 
-Legalidad de la prueba La prueba no tendrá valor si ha sido obtenida por medio de actos violatorios de derechos fundamentales, o si no fue incorporada al proceso conforme a las disposiciones de este Código.
+Legalidad de la prueba La prueba no tendrá valor si ha sido obtenida por medio de actos violatorios de derechos fundamentales, o si no fue incorporada al proceso conforme a las disposiciones de este [Código](articulo-3o.md).

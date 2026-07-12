@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 263
 
-Licitud probatoria Los datos y las pruebas deberán ser obtenidos, producidos y reproducidos lícitamente y deberán ser admitidos y desahogados en el proceso en los términos que establece este Código.
+Licitud probatoria Los datos y las pruebas deberán ser obtenidos, producidos y reproducidos lícitamente y deberán ser admitidos y desahogados en el proceso en los términos que establece este [Código](articulo-3o.md).

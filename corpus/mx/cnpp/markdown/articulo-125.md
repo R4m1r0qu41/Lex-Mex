@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 125
 
-Entrevista con los detenidos El imputado que se encuentre detenido por cualquier circunstancia, antes de rendir declaración tendrá derecho a entrevistarse oportunamente y en forma privada con su Defensor, cuando así lo solicite, en el lugar que para tal efecto se designe. La autoridad del conocimiento tiene la obligación de implementar todo lo necesario para el libre ejercicio de este derecho.
+Entrevista con los detenidos El imputado que se encuentre detenido por cualquier circunstancia, antes de rendir declaración tendrá derecho a entrevistarse oportunamente y en forma privada con su [Defensor](articulo-3o.md), cuando así lo solicite, en el lugar que para tal efecto se designe. La autoridad del conocimiento tiene la obligación de implementar todo lo necesario para el libre ejercicio de este derecho.

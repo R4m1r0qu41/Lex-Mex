@@ -17,4 +17,4 @@ source_sha256: 102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842
 
 # Artículo 13
 
-Cada dependencia y entidad creará y administrará un sistema de trámites electrónicos que establezca el control de accesos, los respaldos y la recuperación de información, con mecanismos confiables de seguridad, disponibilidad, integridad, autenticidad, confidencialidad y custodia. La Secretaría emitirá los lineamientos conducentes a efecto de dar cumplimiento a lo dispuesto en este artículo.
+Cada dependencia y entidad creará y administrará un sistema de trámites electrónicos que establezca el control de accesos, los respaldos y la recuperación de información, con mecanismos confiables de seguridad, disponibilidad, integridad, autenticidad, confidencialidad y custodia. La [Secretaría](articulo-2.md) emitirá los lineamientos conducentes a efecto de dar cumplimiento a lo dispuesto en este artículo.

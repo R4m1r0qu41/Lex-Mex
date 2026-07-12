@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 413
 
-Remisión de la sentencia El Tribunal de enjuiciamiento dentro de los tres días siguientes a aquél en que la sentencia condenatoria quede firme, deberá remitir copia autorizada de la misma al Juez que le corresponda la ejecución correspondiente y a las autoridades penitenciarias que intervienen en el procedimiento de ejecución para su debido cumplimiento. Dicha disposición también será aplicable en los casos de las sentencias condenatorias dictadas en el procedimiento abreviado.
+Remisión de la sentencia El [Tribunal de enjuiciamiento](articulo-3o.md) dentro de los tres días siguientes a aquél en que la sentencia condenatoria quede firme, deberá remitir copia autorizada de la misma al Juez que le corresponda la ejecución correspondiente y a las autoridades penitenciarias que intervienen en el procedimiento de ejecución para su debido cumplimiento. Dicha disposición también será aplicable en los casos de las sentencias condenatorias dictadas en el procedimiento abreviado.

@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 104
 
-Imposición de medios de apremio El Órgano jurisdiccional y el Ministerio Público podrán disponer de los siguientes medios de apremio para el cumplimiento de los actos que ordenen en el ejercicio de sus funciones:
+Imposición de medios de apremio El [Órgano jurisdiccional](articulo-3o.md) y el [Ministerio Público](articulo-3o.md) podrán disponer de los siguientes medios de apremio para el cumplimiento de los actos que ordenen en el ejercicio de sus funciones:
 
 I. El Ministerio Público contará con las siguientes medidas de apremio:
 

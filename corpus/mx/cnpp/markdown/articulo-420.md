@@ -21,4 +21,4 @@ Pueblos y comunidades indígenas Cuando se trate de delitos que afecten bienes j
 
 En estos casos, cualquier miembro de la comunidad indígena podrá solicitar que así se declare ante el Juez competente.
 
-Se excluyen de lo anterior, los delitos previstos para prisión preventiva oficiosa en este Código y en la legislación aplicable.
+Se excluyen de lo anterior, los delitos previstos para prisión preventiva oficiosa en este [Código](articulo-3o.md) y en la legislación aplicable.

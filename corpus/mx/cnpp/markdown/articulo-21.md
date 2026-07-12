@@ -17,17 +17,17 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 21
 
-Facultad de atracción de los delitos cometidos contra la libertad de expresión En los casos de delitos del fuero común cometidos contra algún periodista, persona o instalación, que dolosamente afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta, el Ministerio Público de la Federación podrá ejercer la facultad de atracción para conocerlos y perseguirlos, y los Órganos jurisdiccionales federales tendrán, asimismo, competencia para juzgarlos. Esta facultad se ejercerá cuando se presente alguna de las siguientes circunstancias:
+Facultad de atracción de los delitos cometidos contra la libertad de expresión En los casos de delitos del fuero común cometidos contra algún periodista, persona o instalación, que dolosamente afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta, el [Ministerio Público](articulo-3o.md) de la Federación podrá ejercer la facultad de atracción para conocerlos y perseguirlos, y los [Órganos jurisdiccionales](articulo-3o.md) federales tendrán, asimismo, competencia para juzgarlos. Esta facultad se ejercerá cuando se presente alguna de las siguientes circunstancias:
 
 I. Existan indicios de que en el hecho constitutivo de delito haya participado algún servidor público de los órdenes estatal o municipal;
 
 II. En la denuncia o querella u otro requisito equivalente, la víctima u ofendido hubiere señalado como probable autor o partícipe a algún servidor público de los órdenes estatal o municipal;
 
-III. Se trate de delitos graves así calificados por este Código y legislación aplicable para prisión preventiva oficiosa;
+III. Se trate de delitos graves así calificados por este [Código](articulo-3o.md) y legislación aplicable para prisión preventiva oficiosa;
 
 IV. La vida o integridad física de la víctima u ofendido se encuentre en riesgo real;
 
-V. Lo solicite la autoridad competente de la Entidad federativa de que se trate;
+V. Lo solicite la autoridad competente de la [Entidad federativa](articulo-3o.md) de que se trate;
 
 VI. Los hechos constitutivos de delito impacten de manera trascendente al ejercicio del derecho a la información o a las libertades de expresión o imprenta;
 

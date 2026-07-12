@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 286
 
-Cateo en residencia u oficinas públicas Para la práctica de un cateo en la residencia u oficina de cualquiera de los Poderes Ejecutivo, Legislativo o Judicial de los tres órdenes de gobierno o en su caso organismos constitucionales autónomos, la Policía o el Ministerio Público recabarán la autorización correspondiente en los términos previstos en este Código.
+Cateo en residencia u oficinas públicas Para la práctica de un cateo en la residencia u oficina de cualquiera de los Poderes Ejecutivo, Legislativo o Judicial de los tres órdenes de gobierno o en su caso organismos constitucionales autónomos, la [Policía](articulo-3o.md) o el [Ministerio Público](articulo-3o.md) recabarán la autorización correspondiente en los términos previstos en este [Código](articulo-3o.md).

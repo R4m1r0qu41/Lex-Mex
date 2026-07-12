@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 456
 
-Reglas generales Las resoluciones judiciales podrán ser recurridas sólo por los medios y en los casos expresamente establecidos en este Código. Para efectos de su impugnación, se entenderán como resoluciones judiciales, las emitidas oralmente o por escrito. Párrafo adicionado DOF 17-06-2016
+Reglas generales Las resoluciones judiciales podrán ser recurridas sólo por los medios y en los casos expresamente establecidos en este [Código](articulo-3o.md). Para efectos de su impugnación, se entenderán como resoluciones judiciales, las emitidas oralmente o por escrito. Párrafo adicionado DOF 17-06-2016
 
 El derecho de recurrir corresponderá tan sólo a quien le sea expresamente otorgado y pueda resultar afectado por la resolución.
 

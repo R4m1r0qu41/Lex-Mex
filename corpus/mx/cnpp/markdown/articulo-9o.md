@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 9o
 
-Principio de inmediación Toda audiencia se desarrollará íntegramente en presencia del Órgano jurisdiccional, así como de las partes que deban de intervenir en la misma, con las excepciones previstas en este Código. En ningún caso, el Órgano jurisdiccional podrá delegar en persona alguna la admisión, el desahogo o la valoración de las pruebas, ni la emisión y explicación de la sentencia respectiva.
+Principio de inmediación Toda audiencia se desarrollará íntegramente en presencia del [Órgano jurisdiccional](articulo-3o.md), así como de las partes que deban de intervenir en la misma, con las excepciones previstas en este [Código](articulo-3o.md). En ningún caso, el Órgano jurisdiccional podrá delegar en persona alguna la admisión, el desahogo o la valoración de las pruebas, ni la emisión y explicación de la sentencia respectiva.

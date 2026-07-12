@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 297
 
-Registro de las intervenciones Las intervenciones de comunicación deberán ser registradas por cualquier medio que no altere la fidelidad, autenticidad y contenido de las mismas, por la Policía o por el perito que intervenga, a efecto de que aquélla pueda ser ofrecida como medio de prueba en los términos que señala este Código.
+Registro de las intervenciones Las intervenciones de comunicación deberán ser registradas por cualquier medio que no altere la fidelidad, autenticidad y contenido de las mismas, por la [Policía](articulo-3o.md) o por el perito que intervenga, a efecto de que aquélla pueda ser ofrecida como medio de prueba en los términos que señala este [Código](articulo-3o.md).

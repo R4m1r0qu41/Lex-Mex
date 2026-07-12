@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 358
 
-Oportunidad para la recepción de la prueba La prueba que hubiere de servir de base a la sentencia deberá desahogarse durante la audiencia de debate de juicio, salvo las excepciones expresamente previstas en este Código.
+Oportunidad para la recepción de la prueba La prueba que hubiere de servir de base a la sentencia deberá desahogarse durante la audiencia de debate de juicio, salvo las excepciones expresamente previstas en este [Código](articulo-3o.md).

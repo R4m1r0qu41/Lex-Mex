@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 133
 
-Competencia jurisdiccional Para los efectos de este Código, la competencia jurisdiccional comprende a los siguientes órganos:
+Competencia jurisdiccional Para los efectos de este [Código](articulo-3o.md), la competencia jurisdiccional comprende a los siguientes órganos:
 
 I. Juez de control, con competencia para ejercer las atribuciones que este Código le reconoce desde el inicio de la etapa de investigación hasta el dictado del auto de apertura a juicio;
 

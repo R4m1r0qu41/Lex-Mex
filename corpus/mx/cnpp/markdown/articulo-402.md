@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 402
 
-Convicción del Tribunal de enjuiciamiento El Tribunal de enjuiciamiento apreciará la prueba según su libre convicción extraída de la totalidad del debate, de manera libre y lógica; sólo serán valorables y sometidos a la crítica racional, los medios de prueba obtenidos lícitamente e incorporados al debate conforme a las disposiciones de este Código.
+Convicción del [Tribunal de enjuiciamiento](articulo-3o.md) El Tribunal de enjuiciamiento apreciará la prueba según su libre convicción extraída de la totalidad del debate, de manera libre y lógica; sólo serán valorables y sometidos a la crítica racional, los medios de prueba obtenidos lícitamente e incorporados al debate conforme a las disposiciones de este [Código](articulo-3o.md).
 
 En la sentencia, el Tribunal de enjuiciamiento deberá hacerse cargo en su motivación de toda la prueba producida, incluso de aquella que hubiere desestimado, indicando en tal caso las razones que hubiere tenido en cuenta para hacerlo. Esta motivación deberá permitir la reproducción del razonamiento utilizado para alcanzar las conclusiones a que llegare la sentencia.
 

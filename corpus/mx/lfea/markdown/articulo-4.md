@@ -17,6 +17,6 @@ source_sha256: 102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842
 
 # Artículo 4
 
-Las disposiciones de esta Ley no serán aplicables a los actos en que no sea factible el uso de la firma electrónica avanzada por disposición de ley o aquéllos en que exista previo dictamen de la Secretaría. Tampoco serán aplicables a las materias fiscal, aduanera y financiera.
+Las disposiciones de esta Ley no serán aplicables a los actos en que no sea factible el uso de la firma electrónica avanzada por disposición de ley o aquéllos en que exista previo dictamen de la [Secretaría](articulo-2.md). Tampoco serán aplicables a las materias fiscal, aduanera y financiera.
 
 En los actos de comercio e inscripciones en el Registro Público de Comercio, el uso de la firma electrónica avanzada se regirá de conformidad con lo previsto en el Código de Comercio y demás ordenamientos aplicables en la materia, sin perjuicio de la aplicación de lo dispuesto en esta Ley en lo que resulte procedente.

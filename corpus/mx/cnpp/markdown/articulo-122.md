@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 122
 
-Nombramiento del Defensor público Cuando el imputado no pueda o se niegue a designar un Defensor particular, el Ministerio Público solicitará a la autoridad competente se nombre un Defensor público; si es ante el Órgano jurisdiccional éste designará al defensor público, que lleve la representación de la defensa desde el primer acto en que intervenga. Será responsabilidad del defensor la oportuna comparecencia.
+Nombramiento del [Defensor](articulo-3o.md) público Cuando el imputado no pueda o se niegue a designar un Defensor particular, el [Ministerio Público](articulo-3o.md) solicitará a la autoridad competente se nombre un Defensor público; si es ante el [Órgano jurisdiccional](articulo-3o.md) éste designará al defensor público, que lleve la representación de la defensa desde el primer acto en que intervenga. Será responsabilidad del defensor la oportuna comparecencia.
 
 Artículo reformado DOF 17-06-2016

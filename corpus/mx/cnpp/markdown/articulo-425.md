@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 425
 
-Sentencias En la sentencia que se dicte el Órgano jurisdiccional resolverá lo pertinente a la persona física imputada, con independencia a la responsabilidad penal de la persona jurídica, imponiendo la sanción procedente. Párrafo reformado DOF 17-06-2016
+Sentencias En la sentencia que se dicte el [Órgano jurisdiccional](articulo-3o.md) resolverá lo pertinente a la persona física imputada, con independencia a la responsabilidad penal de la persona jurídica, imponiendo la sanción procedente. Párrafo reformado DOF 17-06-2016
 
-En lo no previsto por este Capítulo, se aplicarán en lo que sea compatible, las reglas del procedimiento ordinario previstas en este Código.
+En lo no previsto por este Capítulo, se aplicarán en lo que sea compatible, las reglas del procedimiento ordinario previstas en este [Código](articulo-3o.md).

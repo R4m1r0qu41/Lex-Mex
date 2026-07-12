@@ -15,7 +15,7 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 27
 
-Las notificaciones que realicen las Autoridades podrán efectuarse electrónicamente mediante los sistemas que las mismas señalen en las disposiciones de carácter general que al efecto emitan. En lo no previsto en las disposiciones señaladas en el presente párrafo respecto de las notificaciones electrónicas, así como en el caso en que no sea posible la notificación a través de dicha vía, será aplicable el Código Fiscal de la Federación en su parte relativa a las notificaciones.
+Las notificaciones que realicen las [Autoridades](articulo-3.md) podrán efectuarse electrónicamente mediante los sistemas que las mismas señalen en las disposiciones de carácter general que al efecto emitan. En lo no previsto en las disposiciones señaladas en el presente párrafo respecto de las notificaciones electrónicas, así como en el caso en que no sea posible la notificación a través de dicha vía, será aplicable el Código Fiscal de la Federación en su parte relativa a las notificaciones.
 
 Tratándose de las notificaciones que corresponda realizar al Banco de México, estas quedarán sujetas además del ordenamiento a que se refiere el párrafo anterior, a las reglas de carácter general emitidas al efecto.
 

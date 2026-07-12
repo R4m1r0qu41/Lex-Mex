@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 325
 
-Extinción de la acción penal por incumplimiento del plazo Cuando el Ministerio Público no cumpla con la obligación establecida en el [artículo anterior](articulo-324.md), el Juez de control pondrá el hecho en conocimiento del Procurador o del servidor público en quien haya delegado esta facultad, para que se pronuncie en el plazo de quince días.
+Extinción de la acción penal por incumplimiento del plazo Cuando el [Ministerio Público](articulo-3o.md) no cumpla con la obligación establecida en el [artículo anterior](articulo-324.md), el [Juez de control](articulo-3o.md) pondrá el hecho en conocimiento del [Procurador](articulo-3o.md) o del servidor público en quien haya delegado esta facultad, para que se pronuncie en el plazo de quince días.
 
 Transcurrido este plazo sin que se haya pronunciado, el Juez de control ordenará el sobreseimiento.

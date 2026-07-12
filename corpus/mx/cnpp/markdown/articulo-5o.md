@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 5o
 
-Principio de publicidad Las audiencias serán públicas, con el fin de que a ellas accedan no sólo las partes que intervienen en el procedimiento sino también el público en general, con las excepciones previstas en este Código.
+Principio de publicidad Las audiencias serán públicas, con el fin de que a ellas accedan no sólo las partes que intervienen en el procedimiento sino también el público en general, con las excepciones previstas en este [Código](articulo-3o.md).
 
-Los periodistas y los medios de comunicación podrán acceder al lugar en el que se desarrolle la audiencia en los casos y condiciones que determine el Órgano jurisdiccional conforme a lo dispuesto por la Constitución, este Código y los acuerdos generales que emita el Consejo.
+Los periodistas y los medios de comunicación podrán acceder al lugar en el que se desarrolle la audiencia en los casos y condiciones que determine el [Órgano jurisdiccional](articulo-3o.md) conforme a lo dispuesto por la [Constitución](articulo-3o.md), este Código y los acuerdos generales que emita el [Consejo](articulo-3o.md).

@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 155
 
-Tipos de medidas cautelares A solicitud del Ministerio Público o de la víctima u ofendido, el juez podrá imponer al imputado una o varias de las siguientes medidas cautelares:
+Tipos de medidas cautelares A solicitud del [Ministerio Público](articulo-3o.md) o de la víctima u ofendido, el juez podrá imponer al imputado una o varias de las siguientes medidas cautelares:
 
 I. La presentación periódica ante el juez o ante autoridad distinta que aquél designe;
 

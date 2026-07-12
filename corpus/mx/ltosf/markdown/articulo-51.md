@@ -15,7 +15,7 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 51
 
-Las multas que imponga la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros a las instituciones de crédito, se harán efectivas cargando su importe en la cuenta que lleve el Banco de México a dichas instituciones. Corresponderá al Servicio de Administración Tributaria hacer efectivas, conforme al Código Fiscal de la Federación, las multas impuestas a las Entidades Financieras distintas a instituciones de crédito.
+Las multas que imponga la [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros a las instituciones de crédito, se harán efectivas cargando su importe en la cuenta que lleve el Banco de México a dichas instituciones. Corresponderá al Servicio de Administración Tributaria hacer efectivas, conforme al Código Fiscal de la Federación, las multas impuestas a las [Entidades Financieras](articulo-3.md) distintas a instituciones de crédito.
 
 El Banco de México realizará los cargos respectivos en la fecha en que la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros se lo solicite por tratarse de multas contra las cuales no proceda ya medio de defensa alguno. Para tales efectos, la institución de crédito afectada dará aviso por escrito a la citada Comisión simultáneamente al ejercicio de cualquier medio de defensa ante la autoridad competente.
 

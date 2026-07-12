@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 262
 
-Derecho a ofrecer medios de prueba Las partes tendrán el derecho de ofrecer medios de prueba para sostener sus planteamientos en los términos previstos en este Código.
+Derecho a ofrecer medios de prueba Las partes tendrán el derecho de ofrecer medios de prueba para sostener sus planteamientos en los términos previstos en este [Código](articulo-3o.md).

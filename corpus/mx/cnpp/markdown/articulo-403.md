@@ -19,7 +19,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Requisitos de la sentencia La sentencia contendrá:
 
-I. La mención del Tribunal de enjuiciamiento y el nombre del Juez o los Jueces que lo integran;
+I. La mención del [Tribunal de enjuiciamiento](articulo-3o.md) y el nombre del Juez o los Jueces que lo integran;
 
 II. La fecha en que se dicta;
 

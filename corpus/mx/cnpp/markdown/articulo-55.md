@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 55
 
-Restricciones de acceso a las audiencias El Órgano jurisdiccional podrá, por razones de orden o seguridad en el desarrollo de la audiencia, prohibir el ingreso a:
+Restricciones de acceso a las audiencias El [Órgano jurisdiccional](articulo-3o.md) podrá, por razones de orden o seguridad en el desarrollo de la audiencia, prohibir el ingreso a:
 
 I. Personas armadas, salvo que cumplan funciones de vigilancia o custodia;
 

@@ -15,4 +15,4 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 47
 
-El Banco de México sancionará con multa de doscientos a dos mil días de salario, a las Entidades Financieras y Cámaras de Compensación que infrinjan cualquier disposición de esta Ley cuya conducta no competa sancionar a otra de las Autoridades y que no correspondan a las conductas infractoras señaladas en el [artículo siguiente](articulo-48.md), así como cuando infrinjan las disposiciones de carácter general que el propio Banco expida en términos de esta Ley.
+El Banco de México sancionará con multa de doscientos a dos mil días de salario, a las [Entidades Financieras](articulo-3.md) y Cámaras de Compensación que infrinjan cualquier disposición de esta Ley cuya conducta no competa sancionar a otra de las [Autoridades](articulo-3.md) y que no correspondan a las conductas infractoras señaladas en el [artículo siguiente](articulo-48.md), así como cuando infrinjan las disposiciones de carácter general que el propio Banco expida en términos de esta Ley.

@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 180
 
-Continuación de la medida cautelar en caso de sentencia condenatoria recurrida Cuando el sentenciado recurra la sentencia condenatoria, continuará el seguimiento de las medidas cautelares impuestas hasta que cause estado la sentencia, sin perjuicio de que puedan ser sujetas de revisión de conformidad con las reglas de este Código.
+Continuación de la medida cautelar en caso de sentencia condenatoria recurrida Cuando el sentenciado recurra la sentencia condenatoria, continuará el seguimiento de las medidas cautelares impuestas hasta que cause estado la sentencia, sin perjuicio de que puedan ser sujetas de revisión de conformidad con las reglas de este [Código](articulo-3o.md).

@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 1o
 
-Ámbito de aplicación Las disposiciones de este Código son de orden público y de observancia general en toda la República Mexicana, por los delitos que sean competencia de los órganos jurisdiccionales federales y locales en el marco de los principios y derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte.
+Ámbito de aplicación Las disposiciones de este [Código](articulo-3o.md) son de orden público y de observancia general en toda la República Mexicana, por los delitos que sean competencia de los órganos jurisdiccionales federales y locales en el marco de los principios y derechos consagrados en la [Constitución](articulo-3o.md) Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte.

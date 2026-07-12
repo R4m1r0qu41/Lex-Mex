@@ -17,17 +17,17 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 131
 
-Obligaciones del Ministerio Público Para los efectos del presente Código, el Ministerio Público tendrá las siguientes obligaciones:
+Obligaciones del [Ministerio Público](articulo-3o.md) Para los efectos del presente [Código](articulo-3o.md), el Ministerio Público tendrá las siguientes obligaciones:
 
-I. Vigilar que en toda investigación de los delitos se cumpla estrictamente con los derechos humanos reconocidos en la Constitución y en los Tratados;
+I. Vigilar que en toda investigación de los delitos se cumpla estrictamente con los derechos humanos reconocidos en la [Constitución](articulo-3o.md) y en los Tratados;
 
 II. Recibir las denuncias o querellas que le presenten en forma oral, por escrito, o a través de medios digitales, incluso mediante denuncias anónimas en términos de las disposiciones legales aplicables, sobre hechos que puedan constituir algún delito;
 
-III. Ejercer la conducción y el mando de la investigación de los delitos, para lo cual deberá coordinar a las Policías y a los peritos durante la misma;
+III. Ejercer la conducción y el mando de la investigación de los delitos, para lo cual deberá coordinar a las [Policías](articulo-3o.md) y a los peritos durante la misma;
 
 IV. Ordenar o supervisar, según sea el caso, la aplicación y ejecución de las medidas necesarias para impedir que se pierdan, destruyan o alteren los indicios, una vez que tenga noticia del mismo, así como cerciorarse de que se han seguido las reglas y protocolos para su preservación y procesamiento;
 
-V. Iniciar la investigación correspondiente cuando así proceda y, en su caso, ordenar la recolección de indicios y medios de prueba que deberán servir para sus respectivas resoluciones y las del Órgano jurisdiccional, así como recabar los elementos necesarios que determinen el daño causado por el delito y la cuantificación del mismo para los efectos de su reparación. Cuando se trate del delito de feminicidio se deberán aplicar los protocolos previstos para tales efectos; Fracción reformada DOF 25-04-2023
+V. Iniciar la investigación correspondiente cuando así proceda y, en su caso, ordenar la recolección de indicios y medios de prueba que deberán servir para sus respectivas resoluciones y las del [Órgano jurisdiccional](articulo-3o.md), así como recabar los elementos necesarios que determinen el daño causado por el delito y la cuantificación del mismo para los efectos de su reparación. Cuando se trate del delito de feminicidio se deberán aplicar los protocolos previstos para tales efectos; Fracción reformada DOF 25-04-2023
 
 VI. Ejercer funciones de investigación respecto de los delitos en materias concurrentes, cuando ejerza la facultad de atracción y en los demás casos que las leyes lo establezcan;
 

@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 43
 
-Impedimentos del Ministerio Público y de peritos El Ministerio Público y los peritos deberán excusarse o podrán ser recusados por las mismas causas previstas para los jueces o magistrados.
+Impedimentos del [Ministerio Público](articulo-3o.md) y de peritos El Ministerio Público y los peritos deberán excusarse o podrán ser recusados por las mismas causas previstas para los jueces o magistrados.
 
 La excusa o la recusación será resuelta por la autoridad que resulte competente de acuerdo con las disposiciones aplicables, previa realización de la investigación que se estime conveniente.

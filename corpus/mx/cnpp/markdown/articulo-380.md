@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 380
 
-Concepto de documento Se considerará documento a todo soporte material que contenga información sobre algún hecho. Quien cuestione la autenticidad del documento tendrá la carga de demostrar sus afirmaciones. El Órgano jurisdiccional, a solicitud de los interesados, podrá prescindir de la lectura íntegra de documentos o informes escritos, o de la reproducción total de una videograbación o grabación, para leer o reproducir parcialmente el documento o la grabación en la parte conducente.
+Concepto de documento Se considerará documento a todo soporte material que contenga información sobre algún hecho. Quien cuestione la autenticidad del documento tendrá la carga de demostrar sus afirmaciones. El [Órgano jurisdiccional](articulo-3o.md), a solicitud de los interesados, podrá prescindir de la lectura íntegra de documentos o informes escritos, o de la reproducción total de una videograbación o grabación, para leer o reproducir parcialmente el documento o la grabación en la parte conducente.

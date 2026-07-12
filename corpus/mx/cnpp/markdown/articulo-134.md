@@ -33,4 +33,4 @@ VI Bis. Tratándose de delitos por razón de género, se deberá juzgar con pers
 
 VI Ter. Cuando se trate de delitos por motivo de género se deberán aplicar los protocolos para juzgar con perspectiva de género, y Fracción adicionada DOF 25-04-2023
 
-VII. Los demás establecidos en la Ley Orgánica, en este Código y otras disposiciones aplicables.
+VII. Los demás establecidos en la [Ley Orgánica](articulo-3o.md), en este [Código](articulo-3o.md) y otras disposiciones aplicables.

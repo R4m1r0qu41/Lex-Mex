@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 136
 
-Consultores técnicos Si por las circunstancias del caso, las partes que intervienen en el procedimiento consideran necesaria la asistencia de un consultor en una ciencia, arte o técnica, así lo plantearán al Órgano jurisdiccional. El consultor técnico podrá acompañar en las audiencias a la parte con quien colabora, para apoyarla técnicamente.
+Consultores técnicos Si por las circunstancias del caso, las partes que intervienen en el procedimiento consideran necesaria la asistencia de un consultor en una ciencia, arte o técnica, así lo plantearán al [Órgano jurisdiccional](articulo-3o.md). El consultor técnico podrá acompañar en las audiencias a la parte con quien colabora, para apoyarla técnicamente.

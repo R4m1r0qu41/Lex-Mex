@@ -15,7 +15,7 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 18 Bis 8
 
-Queda prohibido cobrar cualquier Comisión por concepto de sobregiro o intento de sobregiro en créditos, préstamos o financiamientos revolventes asociados a una tarjeta, así como de créditos personales de liquidez sin garantía real.
+Queda prohibido cobrar cualquier [Comisión](articulo-3.md) por concepto de sobregiro o intento de sobregiro en créditos, préstamos o financiamientos revolventes asociados a una tarjeta, así como de créditos personales de liquidez sin garantía real.
 
 Artículo adicionado DOF 25-06-2009
 

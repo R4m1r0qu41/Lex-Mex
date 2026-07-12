@@ -23,6 +23,6 @@ I. Sea necesario para repeler una agresión real, actual o inminente y sin derec
 
 II. Se realiza con consentimiento de quien se encuentre facultado para otorgarlo.
 
-En los casos de la fracción II, la autoridad que practique el ingreso deberá informarlo dentro de los cinco días siguientes, ante el Órgano jurisdiccional. A dicha audiencia deberá asistir la persona que otorgó su consentimiento a efectos de ratificarla.
+En los casos de la fracción II, la autoridad que practique el ingreso deberá informarlo dentro de los cinco días siguientes, ante el [Órgano jurisdiccional](articulo-3o.md). A dicha audiencia deberá asistir la persona que otorgó su consentimiento a efectos de ratificarla.
 
 Los motivos que determinaron la inspección sin orden judicial constarán detalladamente en el acta que al efecto se levante.

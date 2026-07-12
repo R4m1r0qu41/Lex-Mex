@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 457
 
-Condiciones de interposición Los recursos se interpondrán en las condiciones de tiempo y forma que se determinan en este Código, con indicación específica de la parte impugnada de la resolución recurrida.
+Condiciones de interposición Los recursos se interpondrán en las condiciones de tiempo y forma que se determinan en este [Código](articulo-3o.md), con indicación específica de la parte impugnada de la resolución recurrida.

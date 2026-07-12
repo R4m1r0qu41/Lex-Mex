@@ -21,4 +21,4 @@ Tipos o formas de incompetencia La incompetencia puede decretarse por declinator
 
 La parte que opte por uno de estos medios no lo podrá abandonar y recurrir al otro, ni tampoco los podrá emplear simultánea ni sucesivamente, debiendo sujetarse al resultado del que se hubiere elegido.
 
-La incompetencia procederá a petición del Ministerio Público, el imputado o su Defensor, la víctima u ofendido o su Asesor jurídico y será resuelta en audiencia con las formalidades previstas en este Código.
+La incompetencia procederá a petición del [Ministerio Público](articulo-3o.md), el imputado o su [Defensor](articulo-3o.md), la víctima u ofendido o su Asesor jurídico y será resuelta en audiencia con las formalidades previstas en este [Código](articulo-3o.md).

@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 204
 
-Oposición de la víctima u ofendido La oposición de la víctima u ofendido sólo será procedente cuando se acredite ante el Juez de control que no se encuentra debidamente garantizada la reparación del daño.
+Oposición de la víctima u ofendido La oposición de la víctima u ofendido sólo será procedente cuando se acredite ante el [Juez de control](articulo-3o.md) que no se encuentra debidamente garantizada la reparación del daño.

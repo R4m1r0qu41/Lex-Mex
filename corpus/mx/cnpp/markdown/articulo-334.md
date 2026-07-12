@@ -19,4 +19,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Objeto de la etapa intermedia La etapa intermedia tiene por objeto el ofrecimiento y admisión de los medios de prueba, así como la depuración de los hechos controvertidos que serán materia del juicio.
 
-Esta etapa se compondrá de dos fases, una escrita y otra oral. La fase escrita iniciará con el escrito de acusación que formule el Ministerio Público y comprenderá todos los actos previos a la celebración de la audiencia intermedia. La segunda fase dará inicio con la celebración de la audiencia intermedia y culminará con el dictado del auto de apertura a juicio.
+Esta etapa se compondrá de dos fases, una escrita y otra oral. La fase escrita iniciará con el escrito de acusación que formule el [Ministerio Público](articulo-3o.md) y comprenderá todos los actos previos a la celebración de la audiencia intermedia. La segunda fase dará inicio con la celebración de la audiencia intermedia y culminará con el dictado del auto de apertura a juicio.

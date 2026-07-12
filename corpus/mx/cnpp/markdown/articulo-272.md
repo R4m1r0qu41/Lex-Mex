@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 272
 
-Peritajes Durante la investigación, el Ministerio Público o la Policía con conocimiento de éste, podrá disponer la práctica de los peritajes que sean necesarios para la investigación del hecho. El dictamen escrito no exime al perito del deber de concurrir a declarar en la audiencia de juicio.
+Peritajes Durante la investigación, el [Ministerio Público](articulo-3o.md) o la [Policía](articulo-3o.md) con conocimiento de éste, podrá disponer la práctica de los peritajes que sean necesarios para la investigación del hecho. El dictamen escrito no exime al perito del deber de concurrir a declarar en la audiencia de juicio.

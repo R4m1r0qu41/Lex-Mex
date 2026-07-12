@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 214
 
-Principios que rigen a las autoridades de la investigación Las autoridades encargadas de desarrollar la investigación de los delitos se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, lealtad y respeto a los derechos humanos reconocidos en la Constitución y en los Tratados.
+Principios que rigen a las autoridades de la investigación Las autoridades encargadas de desarrollar la investigación de los delitos se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, lealtad y respeto a los derechos humanos reconocidos en la [Constitución](articulo-3o.md) y en los Tratados.

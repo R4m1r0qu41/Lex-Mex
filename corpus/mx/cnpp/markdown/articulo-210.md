@@ -21,4 +21,4 @@ Notificación del incumplimiento Cuando considere que se ha actualizado un incum
 
 Si el juez determina la revocación de la suspensión condicional del proceso, concluirá la supervisión de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso.
 
-El Ministerio Público que reciba el reporte de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, deberá solicitar audiencia para pedir la revisión de las condiciones u obligaciones impuestas a la brevedad posible.
+El [Ministerio Público](articulo-3o.md) que reciba el reporte de la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, deberá solicitar audiencia para pedir la revisión de las condiciones u obligaciones impuestas a la brevedad posible.

@@ -15,6 +15,6 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 23 Bis 1
 
-Las Entidades deberán ser Usuarios de al menos una sociedad de información crediticia, debiendo proporcionar periódicamente la información sobre todos los créditos, préstamos o financiamientos que otorguen, en los términos previstos por la Ley para Regular las Sociedades de Información Crediticia.
+Las [Entidades](articulo-3.md) deberán ser Usuarios de al menos una sociedad de información crediticia, debiendo proporcionar periódicamente la información sobre todos los créditos, préstamos o financiamientos que otorguen, en los términos previstos por la Ley para Regular las Sociedades de Información Crediticia.
 
 Artículo adicionado DOF 10-01-2014

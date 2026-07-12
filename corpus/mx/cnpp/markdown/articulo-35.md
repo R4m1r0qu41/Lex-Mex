@@ -21,7 +21,7 @@ Separación de los procesos Podrá ordenarse la separación de procesos cuando c
 
 I. Cuando la solicite una de las partes antes del auto de apertura al juicio, y
 
-II. Cuando el Juez de control estime que de continuar la acumulación el proceso se demoraría.
+II. Cuando el [Juez de control](articulo-3o.md) estime que de continuar la acumulación el proceso se demoraría.
 
 La separación de procesos se promoverá en la misma forma que la acumulación. La separación se podrá promover hasta antes de la audiencia de juicio.
 

@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 475
 
-Trámite del Tribunal de alzada Recibidos los registros correspondientes del recurso de apelación, el Tribunal de alzada se pronunciará de plano sobre la admisión del recurso.
+Trámite del [Tribunal de alzada](articulo-3o.md) Recibidos los registros correspondientes del recurso de apelación, el Tribunal de alzada se pronunciará de plano sobre la admisión del recurso.

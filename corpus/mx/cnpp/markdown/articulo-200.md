@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 200
 
-Verificación de la existencia de un acuerdo previo Previo al comienzo de la audiencia de suspensión condicional del proceso, el Ministerio Público deberá consultar en los registros respectivos si el imputado en forma previa fue parte de algún mecanismo de solución alterna o suscribió acuerdos reparatorios, debiendo incorporar en los registros de investigación el resultado de la consulta e informar en la audiencia de los mismos.
+Verificación de la existencia de un acuerdo previo Previo al comienzo de la audiencia de suspensión condicional del proceso, el [Ministerio Público](articulo-3o.md) deberá consultar en los registros respectivos si el imputado en forma previa fue parte de algún mecanismo de solución alterna o suscribió acuerdos reparatorios, debiendo incorporar en los registros de investigación el resultado de la consulta e informar en la audiencia de los mismos.

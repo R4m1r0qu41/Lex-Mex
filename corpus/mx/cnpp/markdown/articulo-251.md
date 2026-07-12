@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 251
 
-Actuaciones en la investigación que no requieren autorización previa del Juez de control No requieren autorización del Juez de control los siguientes actos de investigación:
+Actuaciones en la investigación que no requieren autorización previa del [Juez de control](articulo-3o.md) No requieren autorización del Juez de control los siguientes actos de investigación:
 
 I. La inspección del lugar del hecho o del hallazgo;
 
@@ -35,7 +35,7 @@ VII. La aportación de comunicaciones entre particulares;
 
 VIII. El reconocimiento de personas;
 
-IX. La entrega vigilada y las operaciones encubiertas, en el marco de una investigación y en los términos que establezcan los protocolos emitidos para tal efecto por el Procurador;
+IX. La entrega vigilada y las operaciones encubiertas, en el marco de una investigación y en los términos que establezcan los protocolos emitidos para tal efecto por el [Procurador](articulo-3o.md);
 
 X. La entrevista de testigos; Fracción reformada DOF 17-06-2016
 
@@ -43,4 +43,4 @@ XI. Recompensas, en términos de los acuerdos que para tal efecto emite el Procu
 
 XII. Las demás en las que expresamente no se prevea control judicial. Fracción recorrida DOF 17-06-2016 En los casos de la fracción IX, dichas actuaciones deberán ser autorizadas por el Procurador o por el servidor público en quien éste delegue dicha facultad.
 
-Para los efectos de la fracción X de este artículo, cuando un testigo se niegue a ser entrevistado, será citado por el Ministerio Público o en su caso por el Juez de control en los términos que prevé el presente Código.
+Para los efectos de la fracción X de este artículo, cuando un testigo se niegue a ser entrevistado, será citado por el [Ministerio Público](articulo-3o.md) o en su caso por el Juez de control en los términos que prevé el presente [Código](articulo-3o.md).

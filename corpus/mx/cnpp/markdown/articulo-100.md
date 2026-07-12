@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 100
 
-Convalidación Los actos ejecutados con inobservancia de las formalidades previstas en este Código que afectan al Ministerio Público, la víctima u ofendido o el imputado, quedarán convalidados cuando: Párrafo reformado DOF 17-06-2016
+Convalidación Los actos ejecutados con inobservancia de las formalidades previstas en este [Código](articulo-3o.md) que afectan al [Ministerio Público](articulo-3o.md), la víctima u ofendido o el imputado, quedarán convalidados cuando: Párrafo reformado DOF 17-06-2016
 
 I. Las partes hayan aceptado, expresa o tácitamente, los efectos del acto;
 

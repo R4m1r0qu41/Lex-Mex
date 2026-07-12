@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 103
 
-Gastos de producción de prueba Tratándose de la prueba pericial, el Órgano jurisdiccional ordenará, a petición de parte, la designación de peritos de instituciones públicas, las que estarán obligadas a practicar el peritaje correspondiente, siempre que no exista impedimento material para ello.
+Gastos de producción de prueba Tratándose de la prueba pericial, el [Órgano jurisdiccional](articulo-3o.md) ordenará, a petición de parte, la designación de peritos de instituciones públicas, las que estarán obligadas a practicar el peritaje correspondiente, siempre que no exista impedimento material para ello.

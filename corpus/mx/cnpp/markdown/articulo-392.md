@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 392
 
-Incidentes en la audiencia de juicio Los incidentes promovidos en el transcurso de la audiencia de debate de juicio se resolverán inmediatamente por el Tribunal de enjuiciamiento, salvo que por su naturaleza sea necesario suspender la audiencia.
+Incidentes en la audiencia de juicio Los incidentes promovidos en el transcurso de la audiencia de debate de juicio se resolverán inmediatamente por el [Tribunal de enjuiciamiento](articulo-3o.md), salvo que por su naturaleza sea necesario suspender la audiencia.
 
 Las decisiones que recayeren sobre estos incidentes no serán susceptibles de recurso alguno.

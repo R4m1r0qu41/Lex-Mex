@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 34
 
-Efectos de la acumulación Si se resuelve la acumulación, el Juez de control solicitará la remisión de los registros, y en su caso, que se ponga a su disposición inmediatamente al imputado o imputados.
+Efectos de la acumulación Si se resuelve la acumulación, el [Juez de control](articulo-3o.md) solicitará la remisión de los registros, y en su caso, que se ponga a su disposición inmediatamente al imputado o imputados.
 
 El Juez de control notificará a aquellos que tienen una medida cautelar diversa a la prisión preventiva la obligación de presentarse en un término perentorio ante él, así como a la víctima u ofendido.

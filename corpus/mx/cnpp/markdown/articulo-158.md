@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 158
 
-Debate de medidas cautelares Formulada la imputación, en su caso, o dictado el auto de vinculación a proceso a solicitud del Ministerio Público, de la víctima o de la defensa, se discutirá lo relativo a la necesidad de imposición o modificación de medidas cautelares.
+Debate de medidas cautelares Formulada la imputación, en su caso, o dictado el auto de vinculación a proceso a solicitud del [Ministerio Público](articulo-3o.md), de la víctima o de la defensa, se discutirá lo relativo a la necesidad de imposición o modificación de medidas cautelares.

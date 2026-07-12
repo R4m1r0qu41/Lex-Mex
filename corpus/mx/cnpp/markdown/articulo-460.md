@@ -23,4 +23,4 @@ Precluye el derecho a recurrir una resolución judicial cuando, una vez concluid
 
 Quienes hubieren interpuesto un recurso podrán desistir de él antes de su resolución. En todo caso, los efectos del desistimiento no se extenderán a los demás recurrentes o a los adherentes del recurso.
 
-El Ministerio Público podrá desistirse del recurso interpuesto mediante determinación motivada y fundada en términos de las disposiciones aplicables. Para que el desistimiento del Defensor sea válido se requerirá la autorización expresa del imputado.
+El [Ministerio Público](articulo-3o.md) podrá desistirse del recurso interpuesto mediante determinación motivada y fundada en términos de las disposiciones aplicables. Para que el desistimiento del [Defensor](articulo-3o.md) sea válido se requerirá la autorización expresa del imputado.

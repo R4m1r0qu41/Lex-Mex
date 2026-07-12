@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 188
 
-Procedencia Los acuerdos reparatorios procederán desde la presentación de la denuncia o querella hasta antes de decretarse el auto de apertura de juicio. En el caso de que se haya dictado el auto de vinculación a proceso y hasta antes de que se haya dictado el auto de apertura a juicio, el Juez de control, a petición de las partes, podrá suspender el proceso penal hasta por treinta días para que las partes puedan concretar el acuerdo con el apoyo de la autoridad competente especializada en la materia.
+Procedencia Los acuerdos reparatorios procederán desde la presentación de la denuncia o querella hasta antes de decretarse el auto de apertura de juicio. En el caso de que se haya dictado el auto de vinculación a proceso y hasta antes de que se haya dictado el auto de apertura a juicio, el [Juez de control](articulo-3o.md), a petición de las partes, podrá suspender el proceso penal hasta por treinta días para que las partes puedan concretar el acuerdo con el apoyo de la autoridad competente especializada en la materia.
 
 En caso de que la concertación se interrumpa, cualquiera de las partes podrá solicitar la continuación del proceso.
 

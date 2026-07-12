@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 322
 
-Prórroga del plazo de la investigación complementaria De manera excepcional, el Ministerio Público podrá solicitar una prórroga del plazo de investigación complementaria para formular acusación, con la finalidad de lograr una mejor preparación del caso, fundando y motivando su petición. El Juez podrá otorgar la prórroga siempre y cuando el plazo solicitado, sumado al otorgado originalmente, no exceda los plazos señalados en el [artículo anterior](articulo-321.md).
+Prórroga del plazo de la investigación complementaria De manera excepcional, el [Ministerio Público](articulo-3o.md) podrá solicitar una prórroga del plazo de investigación complementaria para formular acusación, con la finalidad de lograr una mejor preparación del caso, fundando y motivando su petición. El Juez podrá otorgar la prórroga siempre y cuando el plazo solicitado, sumado al otorgado originalmente, no exceda los plazos señalados en el [artículo anterior](articulo-321.md).

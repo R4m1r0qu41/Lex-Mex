@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 391
 
-Apertura de la audiencia de juicio En el día y la hora fijados, el Tribunal de enjuiciamiento se constituirá en el lugar señalado para la audiencia. Quien la presida, verificará la presencia de los demás jueces, de las partes, de los testigos, peritos o intérpretes que deban participar en el debate y de la existencia de las cosas que deban exhibirse en él, y la declarará abierta. Advertirá al acusado y al público sobre la importancia y el significado de lo que acontecerá en la audiencia e indicará al acusado que esté atento a ella.
+Apertura de la audiencia de juicio En el día y la hora fijados, el [Tribunal de enjuiciamiento](articulo-3o.md) se constituirá en el lugar señalado para la audiencia. Quien la presida, verificará la presencia de los demás jueces, de las partes, de los testigos, peritos o intérpretes que deban participar en el debate y de la existencia de las cosas que deban exhibirse en él, y la declarará abierta. Advertirá al acusado y al público sobre la importancia y el significado de lo que acontecerá en la audiencia e indicará al acusado que esté atento a ella.
 
 Cuando un testigo o perito no se encuentre presente al iniciar la audiencia, pero haya sido debidamente notificado para asistir en una hora posterior y se tenga la certeza de que comparecerá, el debate podrá iniciarse.
 

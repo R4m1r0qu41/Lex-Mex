@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 430
 
-Contenido de la petición El particular al ejercer la acción penal ante el Juez de control podrá solicitar lo siguiente:
+Contenido de la petición El particular al ejercer la acción penal ante el [Juez de control](articulo-3o.md) podrá solicitar lo siguiente:
 
 I. La orden de comparecencia en contra del imputado o su citación a la audiencia inicial, y
 

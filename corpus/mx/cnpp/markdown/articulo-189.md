@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 189
 
-Oportunidad Desde su primera intervención, el Ministerio Público o en su caso, el Juez de control, podrán invitar a los interesados a que suscriban un acuerdo reparatorio en los casos en que proceda, de conformidad con lo dispuesto en el presente Código, debiendo explicarles a las partes los efectos del acuerdo.
+Oportunidad Desde su primera intervención, el [Ministerio Público](articulo-3o.md) o en su caso, el [Juez de control](articulo-3o.md), podrán invitar a los interesados a que suscriban un acuerdo reparatorio en los casos en que proceda, de conformidad con lo dispuesto en el presente [Código](articulo-3o.md), debiendo explicarles a las partes los efectos del acuerdo.
 
 Las partes podrán acordar acuerdos reparatorios de cumplimiento inmediato o diferido. En caso de señalar que el cumplimiento debe ser diferido y no señalar plazo específico, se entenderá que el plazo será por un año. El plazo para el cumplimiento de las obligaciones suspenderá el trámite del proceso y la prescripción de la acción penal.
 

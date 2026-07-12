@@ -19,4 +19,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Audiencia Una vez abierta la audiencia, se concederá la palabra a la parte recurrente para que exponga sus alegatos aclaratorios sobre los agravios manifestados por escrito, sin que pueda plantear nuevos conceptos de agravio.
 
-En la audiencia, el Tribunal de alzada podrá solicitar aclaraciones a las partes sobre las cuestiones planteadas en sus escritos.
+En la audiencia, el [Tribunal de alzada](articulo-3o.md) podrá solicitar aclaraciones a las partes sobre las cuestiones planteadas en sus escritos.

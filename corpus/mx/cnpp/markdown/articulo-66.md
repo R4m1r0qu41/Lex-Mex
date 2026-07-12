@@ -17,8 +17,8 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 66
 
-Intervención en la audiencia En las audiencias, el imputado podrá defenderse por sí mismo y deberá estar asistido por un licenciado en derecho o abogado titulado que haya elegido o se le haya designado como Defensor.
+Intervención en la audiencia En las audiencias, el imputado podrá defenderse por sí mismo y deberá estar asistido por un licenciado en derecho o abogado titulado que haya elegido o se le haya designado como [Defensor](articulo-3o.md).
 
-El Ministerio Público, el imputado o su Defensor, así como la víctima u ofendido y su Asesor jurídico, podrán intervenir y replicar cuantas veces y en el orden que lo autorice el Órgano jurisdiccional.
+El [Ministerio Público](articulo-3o.md), el imputado o su Defensor, así como la víctima u ofendido y su Asesor jurídico, podrán intervenir y replicar cuantas veces y en el orden que lo autorice el [Órgano jurisdiccional](articulo-3o.md).
 
 El imputado o su Defensor podrán hacer uso de la palabra en último lugar, por lo que el Órgano jurisdiccional que preside la audiencia preguntará siempre al imputado o su Defensor, antes de cerrar el debate o la audiencia misma, si quieren hacer uso de la palabra, concediéndosela en caso afirmativo.

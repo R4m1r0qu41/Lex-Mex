@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 72
 
-Restitución y renovación Si no existe copia de las sentencias o de otros actos procesales el Órgano jurisdiccional ordenará que se repongan, para lo cual recibirá de las partes los datos y medios de prueba que evidencien su preexistencia y su contenido. Cuando esto sea imposible, ordenará la renovación de los mismos, señalando el modo de realizarla.
+Restitución y renovación Si no existe copia de las sentencias o de otros actos procesales el [Órgano jurisdiccional](articulo-3o.md) ordenará que se repongan, para lo cual recibirá de las partes los datos y medios de prueba que evidencien su preexistencia y su contenido. Cuando esto sea imposible, ordenará la renovación de los mismos, señalando el modo de realizarla.

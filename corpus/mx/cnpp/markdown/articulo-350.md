@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 350
 
-Prohibición de intervención Los jueces que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio no podrán fungir como Tribunal de enjuiciamiento.
+Prohibición de intervención Los jueces que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio no podrán fungir como [Tribunal de enjuiciamiento](articulo-3o.md).

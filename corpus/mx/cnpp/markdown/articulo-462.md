@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 462
 
-Prohibición de modificación en perjuicio Cuando el recurso ha sido interpuesto sólo por el imputado o su Defensor, no podrá modificarse la resolución recurrida en perjuicio del imputado.
+Prohibición de modificación en perjuicio Cuando el recurso ha sido interpuesto sólo por el imputado o su [Defensor](articulo-3o.md), no podrá modificarse la resolución recurrida en perjuicio del imputado.

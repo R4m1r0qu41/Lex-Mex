@@ -15,8 +15,8 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 48
 
-El Banco de México sancionará con multa de mil a cinco mil días de salario, a las Entidades Financieras que:
+El Banco de México sancionará con multa de mil a cinco mil días de salario, a las [Entidades Financieras](articulo-3.md) que:
 
-I Se abstengan de registrar las Comisiones, conforme a las disposiciones de carácter general que expida el propio Banco, en infracción al artículo [6](articulo-6.md) de esta Ley.
+I Se abstengan de registrar las [Comisiones](articulo-3.md), conforme a las disposiciones de carácter general que expida el propio Banco, en infracción al artículo [6](articulo-6.md) de esta Ley.
 
 II. Se abstengan de recibir cheques salvo buen cobro, órdenes de transferencias de fondos o instrucciones de cargo, en contravención a lo señalado en el artículo [16](articulo-16.md) de esta Ley o en las disposiciones de carácter general que con fundamento en dicho artículo expida el Banco de México.

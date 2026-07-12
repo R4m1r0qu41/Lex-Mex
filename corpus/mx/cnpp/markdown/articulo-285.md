@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 285
 
-Medidas de vigilancia Aún antes de que el Juez de control competente dicte la orden de cateo, el Ministerio Público podrá disponer las medidas de vigilancia o cualquiera otra que no requiera control judicial, que estime conveniente para evitar la fuga del imputado o la sustracción, alteración, ocultamiento o destrucción de documentos o cosas que constituyen el objeto del cateo.
+Medidas de vigilancia Aún antes de que el [Juez de control](articulo-3o.md) competente dicte la orden de cateo, el [Ministerio Público](articulo-3o.md) podrá disponer las medidas de vigilancia o cualquiera otra que no requiera control judicial, que estime conveniente para evitar la fuga del imputado o la sustracción, alteración, ocultamiento o destrucción de documentos o cosas que constituyen el objeto del cateo.

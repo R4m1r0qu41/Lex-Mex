@@ -29,7 +29,7 @@ Las solicitudes, autorizaciones, instrucciones y comunicaciones a que se refiere
 
 Las entidades públicas, en la contratación de servicios financieros para el pago de los salarios de sus trabajadores, garantizarán condiciones favorables en beneficio de éstos.
 
-Para efectos de lo previsto en este artículo las instituciones de crédito deberán sujetarse a las disposiciones de carácter general que emita el Banco de México quien deberá escuchar la previa opinión de la Comisión Nacional Bancaria y de Valores.
+Para efectos de lo previsto en este artículo las instituciones de crédito deberán sujetarse a las disposiciones de carácter general que emita el Banco de México quien deberá escuchar la previa opinión de la [Comisión](articulo-3.md) Nacional Bancaria y de Valores.
 
 Artículo reformado DOF 25-06-2009, 10-01-2014
 

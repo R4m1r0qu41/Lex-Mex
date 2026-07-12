@@ -37,7 +37,7 @@ IX. Informar a las partes aquellas violaciones a las medidas y obligaciones impu
 
 X. Conservar actualizada una base de datos sobre las medidas cautelares y obligaciones impuestas, su seguimiento y conclusión;
 
-XI. Solicitar y proporcionar información a las oficinas con funciones similares de la Federación o de Entidades federativas dentro de sus respectivos ámbitos de competencia;
+XI. Solicitar y proporcionar información a las oficinas con funciones similares de la Federación o de [Entidades federativas](articulo-3o.md) dentro de sus respectivos ámbitos de competencia;
 
 XII. Ejecutar las solicitudes de apoyo para la obtención de información que le requieran las oficinas con funciones similares de la Federación o de las Entidades federativas en sus respectivos ámbitos de competencia;
 

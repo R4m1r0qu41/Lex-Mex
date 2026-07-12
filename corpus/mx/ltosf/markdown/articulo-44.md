@@ -15,7 +15,7 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 44
 
-La Procuraduría Federal del Consumidor sancionará con multa de doscientos a dos mil días de salario, a las Entidades Comerciales que infrinjan cualquier disposición de esta Ley cuya conducta no competa sancionar a otra de las Autoridades y que no correspondan a las conductas infractoras señaladas en el párrafo siguiente, así como cuando infrinjan las disposiciones de carácter general que la propia Procuraduría expida en términos de esta Ley. Asimismo, la Procuraduría Federal del Consumidor sancionará, en el ámbito de su competencia, con multa de:
+La Procuraduría Federal del Consumidor sancionará con multa de doscientos a dos mil días de salario, a las [Entidades Comerciales](articulo-3.md) que infrinjan cualquier disposición de esta Ley cuya conducta no competa sancionar a otra de las [Autoridades](articulo-3.md) y que no correspondan a las conductas infractoras señaladas en el párrafo siguiente, así como cuando infrinjan las disposiciones de carácter general que la propia Procuraduría expida en términos de esta Ley. Asimismo, la Procuraduría Federal del Consumidor sancionará, en el ámbito de su competencia, con multa de:
 
 I. Dos mil a cinco mil días de salario, a las Entidades Comerciales que:
 
@@ -37,17 +37,17 @@ h) Aplique tasas de interés en contravención a lo señalado por el artículo [
 
 II. Cuatro mil a ciento cincuenta mil Unidades de Medida y Actualización, a las Entidades Comerciales que: Párrafo reformado DOF 09-03-2018
 
-a) Realicen cargos adicionales a sus Clientes por la terminación de los contratos que tengan celebrados, en contravención a lo señalado en el segundo párrafo del artículo [7](articulo-7.md) de esta Ley.
+a) Realicen cargos adicionales a sus [Clientes](articulo-3.md) por la terminación de los contratos que tengan celebrados, en contravención a lo señalado en el segundo párrafo del artículo [7](articulo-7.md) de esta Ley.
 
 b) No modifiquen los Contratos de Adhesión conforme a lo ordenado por la Procuraduría Federal del Consumidor, en términos del artículo [11](articulo-11.md) de esta Ley.
 
 c) No acaten la orden de la Procuraduría Federal del Consumidor de suspender el uso de los Contratos de Adhesión, respecto de nuevas operaciones, de acuerdo con el artículo [11](articulo-11.md) de la presente Ley.
 
-d) Cobren Comisiones distintas a las pactadas en los Contratos de Adhesión.
+d) Cobren [Comisiones](articulo-3.md) distintas a las pactadas en los Contratos de Adhesión.
 
 e) No suspendan la publicidad conforme al artículo [12](articulo-12.md) de esta Ley. f) No modifiquen los estados de cuenta en los términos que señale la Procuraduría Federal del Consumidor, cuando éstos no se ajusten a lo previsto en el artículo [13](articulo-13.md) o en las disposiciones de carácter general que del propio precepto emanen.
 
-g) No incorporen el CAT en la publicidad o en los Contratos de Adhesión o se abstengan de resaltarlo en los documentos respectivos de manera clara, notoria e indubitable.
+g) No incorporen el [CAT](articulo-3.md) en la publicidad o en los Contratos de Adhesión o se abstengan de resaltarlo en los documentos respectivos de manera clara, notoria e indubitable.
 
 h) Realicen prácticas discriminatorias, en términos del artículo [17](articulo-17.md) de la presente Ley.
 

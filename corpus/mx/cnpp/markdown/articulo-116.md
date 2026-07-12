@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 116
 
-Acreditación Los Defensores designados deberán acreditar su profesión ante el Órgano jurisdiccional desde el inicio de su intervención en el procedimiento, mediante cédula profesional legalmente expedida por la autoridad competente.
+Acreditación Los [Defensores](articulo-3o.md) designados deberán acreditar su profesión ante el [Órgano jurisdiccional](articulo-3o.md) desde el inicio de su intervención en el procedimiento, mediante cédula profesional legalmente expedida por la autoridad competente.

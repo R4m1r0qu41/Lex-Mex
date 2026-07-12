@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 467
 
-Resoluciones del Juez de control apelables Serán apelables las siguientes resoluciones emitidas por el Juez de control:
+Resoluciones del [Juez de control](articulo-3o.md) apelables Serán apelables las siguientes resoluciones emitidas por el Juez de control:
 
 I. Las que nieguen el anticipo de prueba;
 

@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 389
 
-Constitución del Tribunal en lugar distinto Cuando así se hubiere solicitado por las partes para la adecuada apreciación de determinadas circunstancias relevantes del caso, el Tribunal de enjuiciamiento podrá constituirse en un lugar distinto a la sala de audiencias.
+Constitución del Tribunal en lugar distinto Cuando así se hubiere solicitado por las partes para la adecuada apreciación de determinadas circunstancias relevantes del caso, el [Tribunal de enjuiciamiento](articulo-3o.md) podrá constituirse en un lugar distinto a la sala de audiencias.

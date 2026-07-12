@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 178
 
-Riesgo de incumplimiento de medida cautelar distinta a la prisión preventiva En el supuesto de que la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, advierta que existe un riesgo objetivo en inminente de fuga o de afectación a la integridad personal de los intervinientes, deberá informar a las partes de forma inmediata a efecto de que en su caso puedan solicitar al Juez de control la revisión de la medida cautelar.
+Riesgo de incumplimiento de medida cautelar distinta a la prisión preventiva En el supuesto de que la autoridad de supervisión de medidas cautelares y de la suspensión condicional del proceso, advierta que existe un riesgo objetivo en inminente de fuga o de afectación a la integridad personal de los intervinientes, deberá informar a las partes de forma inmediata a efecto de que en su caso puedan solicitar al [Juez de control](articulo-3o.md) la revisión de la medida cautelar.

@@ -1,1 +1,167 @@
-[]
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:codigo",
+    "term": "Código",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "II",
+    "start_char": 182,
+    "end_char": 241,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "III",
+    "start_char": 241,
+    "end_char": 498,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:constitucion",
+    "term": "Constitución",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "IV",
+    "start_char": 498,
+    "end_char": 575,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:defensor",
+    "term": "Defensor",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "V",
+    "start_char": 575,
+    "end_char": 700,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:entidades-federativas",
+    "term": "Entidades federativas",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "VI",
+    "start_char": 700,
+    "end_char": 820,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:juez-de-control",
+    "term": "Juez de control",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "VII",
+    "start_char": 820,
+    "end_char": 1030,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:ley-organica",
+    "term": "Ley Orgánica",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "VIII",
+    "start_char": 1030,
+    "end_char": 1168,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:ministerio-publico",
+    "term": "Ministerio Público",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "IX",
+    "start_char": 1168,
+    "end_char": 1286,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:organo-jurisdiccional",
+    "term": "Órgano jurisdiccional",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "X",
+    "start_char": 1286,
+    "end_char": 1421,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:perspectiva-de-genero",
+    "term": "Perspectiva de Género",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "XI",
+    "start_char": 1421,
+    "end_char": 1924,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:policia",
+    "term": "Policía",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "XII",
+    "start_char": 1924,
+    "end_char": 2395,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:procurador",
+    "term": "Procurador",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "XIII",
+    "start_char": 2395,
+    "end_char": 2608,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:procuraduria",
+    "term": "Procuraduría",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "XIV",
+    "start_char": 2608,
+    "end_char": 2913,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-enjuiciamiento",
+    "term": "Tribunal de enjuiciamiento",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "XVI",
+    "start_char": 2913,
+    "end_char": 3185,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:term:tribunal-de-alzada",
+    "term": "Tribunal de alzada",
+    "instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "defining_provision_id": "urn:lex-mx:federal:code:cnpp:article:3",
+    "fraction": "XVII",
+    "start_char": 3185,
+    "end_char": 3374,
+    "basis": "express_definition"
+  }
+]

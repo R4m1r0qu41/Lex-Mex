@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 367
 
-Protección a los testigos El Órgano jurisdiccional, por un tiempo razonable, podrá ordenar medidas especiales destinadas a proteger la integridad física y psicológica del testigo y sus familiares, mismas que podrán ser renovadas cuantas veces fuere necesario, sin menoscabo de lo dispuesto en la legislación aplicable.
+Protección a los testigos El [Órgano jurisdiccional](articulo-3o.md), por un tiempo razonable, podrá ordenar medidas especiales destinadas a proteger la integridad física y psicológica del testigo y sus familiares, mismas que podrán ser renovadas cuantas veces fuere necesario, sin menoscabo de lo dispuesto en la legislación aplicable.
 
-De igual forma, el Ministerio Público o la autoridad que corresponda adoptarán las medidas que fueren procedentes para conferir la debida protección a víctimas, ofendidos, testigos, antes o después de prestadas sus declaraciones, y a sus familiares y en general a todos los sujetos que intervengan en el procedimiento, sin menoscabo de lo dispuesto en la legislación aplicable.
+De igual forma, el [Ministerio Público](articulo-3o.md) o la autoridad que corresponda adoptarán las medidas que fueren procedentes para conferir la debida protección a víctimas, ofendidos, testigos, antes o después de prestadas sus declaraciones, y a sus familiares y en general a todos los sujetos que intervengan en el procedimiento, sin menoscabo de lo dispuesto en la legislación aplicable.

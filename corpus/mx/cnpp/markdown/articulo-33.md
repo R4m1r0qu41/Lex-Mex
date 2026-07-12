@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 33
 
-Sustanciación de la acumulación Promovida la acumulación, el Juez de control citará a las partes a una audiencia que deberá tener lugar dentro de los tres días siguientes, en la que podrán manifestarse y hacer las observaciones que estimen pertinentes respecto de la cuestión debatida y sin más trámite se resolverá en la misma lo que corresponda.
+Sustanciación de la acumulación Promovida la acumulación, el [Juez de control](articulo-3o.md) citará a las partes a una audiencia que deberá tener lugar dentro de los tres días siguientes, en la que podrán manifestarse y hacer las observaciones que estimen pertinentes respecto de la cuestión debatida y sin más trámite se resolverá en la misma lo que corresponda.

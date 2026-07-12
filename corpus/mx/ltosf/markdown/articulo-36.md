@@ -15,4 +15,4 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 36
 
-Las sanciones podrán ser impuestas tanto a las Entidades o Cámaras de Compensación, previo derecho de audiencia que se les otorgue conforme a los artículos [28](articulo-28.md) y [29](articulo-29.md) de la presente Ley.
+Las sanciones podrán ser impuestas tanto a las [Entidades](articulo-3.md) o Cámaras de Compensación, previo derecho de audiencia que se les otorgue conforme a los artículos [28](articulo-28.md) y [29](articulo-29.md) de la presente Ley.

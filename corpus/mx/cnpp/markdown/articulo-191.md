@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 191
 
-Definición Por suspensión condicional del proceso deberá entenderse el planteamiento formulado por el Ministerio Público o por el imputado, el cual contendrá un plan detallado sobre el pago de la reparación del daño y el sometimiento del imputado a una o varias de las condiciones que refiere este Capítulo, que garanticen una efectiva tutela de los derechos de la víctima u ofendido y que en caso de cumplirse, pueda dar lugar a la extinción de la acción penal.
+Definición Por suspensión condicional del proceso deberá entenderse el planteamiento formulado por el [Ministerio Público](articulo-3o.md) o por el imputado, el cual contendrá un plan detallado sobre el pago de la reparación del daño y el sometimiento del imputado a una o varias de las condiciones que refiere este Capítulo, que garanticen una efectiva tutela de los derechos de la víctima u ofendido y que en caso de cumplirse, pueda dar lugar a la extinción de la acción penal.

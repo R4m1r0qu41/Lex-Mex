@@ -15,9 +15,9 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 12
 
-Las Entidades Financieras se ajustarán a las disposiciones de carácter general que emita la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en las que establezca la forma y términos que deberá cumplir la publicidad relativa a las características de sus operaciones activas, pasivas y de servicios. Párrafo reformado DOF 25-06-2009
+Las [Entidades Financieras](articulo-3.md) se ajustarán a las disposiciones de carácter general que emita la [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, en las que establezca la forma y términos que deberá cumplir la publicidad relativa a las características de sus operaciones activas, pasivas y de servicios. Párrafo reformado DOF 25-06-2009
 
-La Procuraduría Federal del Consumidor, en el ámbito de su competencia, expedirá disposiciones de carácter general en las que regule lo establecido en el párrafo anterior para los créditos, préstamos o financiamientos y Medios de Disposición que emitan u otorguen las Entidades Comerciales. Párrafo reformado DOF 25-06-2009
+La Procuraduría Federal del Consumidor, en el ámbito de su competencia, expedirá disposiciones de carácter general en las que regule lo establecido en el párrafo anterior para los créditos, préstamos o financiamientos y Medios de Disposición que emitan u otorguen las [Entidades Comerciales](articulo-3.md). Párrafo reformado DOF 25-06-2009
 
 Las disposiciones de carácter general a que se refiere este artículo, deberán considerar los aspectos siguientes:
 
@@ -33,7 +33,7 @@ V. La formación de cultura financiera entre el público en general; Fracción r
 
 VI. Puntos de contacto para información adicional, y Fracción reformada DOF 25-06-2009 (se recorre)
 
-VII. Los mecanismos para que las Entidades den a conocer al público en general, las comisiones que cobran. Fracción reformada DOF 25-06-2009 (se recorre)
+VII. Los mecanismos para que las [Entidades](articulo-3.md) den a conocer al público en general, las comisiones que cobran. Fracción reformada DOF 25-06-2009 (se recorre)
 
 La Comisión Nacional para Protección y Defensa de los Usuarios de Servicios Financieros, podrá ordenar la suspensión de la publicidad que realicen las Entidades Financieras cuando a su juicio ésta implique inexactitud, o competencia desleal entre las mismas, o que por cualquier otra circunstancia pueda inducir a error, respecto de sus operaciones y servicios, o bien, no se ajuste a lo previsto en este artículo, así como en las disposiciones de carácter general que con base en este precepto se emitan. Párrafo reformado DOF 25-06-2009
 

@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 196
 
-Trámite La víctima u ofendido serán citados a la audiencia en la fecha que señale el Juez de control. La incomparecencia de éstos no impedirá que el Juez resuelva sobre la procedencia y términos de la solicitud.
+Trámite La víctima u ofendido serán citados a la audiencia en la fecha que señale el [Juez de control](articulo-3o.md). La incomparecencia de éstos no impedirá que el Juez resuelva sobre la procedencia y términos de la solicitud.
 
 En su resolución, el Juez de control fijará las condiciones bajo las cuales se suspende el proceso o se rechaza la solicitud y aprobará el plan de reparación propuesto, mismo que podrá ser modificado por el Juez de control en la audiencia. La sola falta de recursos del imputado no podrá ser utilizada como razón suficiente para rechazar la suspensión condicional del proceso.
 

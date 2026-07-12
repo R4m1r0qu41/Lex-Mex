@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 118
 
-Nombramiento posterior Durante el transcurso del procedimiento el imputado podrá designar a un nuevo Defensor, sin embargo, hasta en tanto el nuevo Defensor no comparezca a aceptar el cargo conferido, el Órgano jurisdiccional o el Ministerio Público le designarán al imputado un Defensor público, a fin de no dejarlo en estado de indefensión.
+Nombramiento posterior Durante el transcurso del procedimiento el imputado podrá designar a un nuevo [Defensor](articulo-3o.md), sin embargo, hasta en tanto el nuevo Defensor no comparezca a aceptar el cargo conferido, el [Órgano jurisdiccional](articulo-3o.md) o el [Ministerio Público](articulo-3o.md) le designarán al imputado un Defensor público, a fin de no dejarlo en estado de indefensión.

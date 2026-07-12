@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 141
 
-Citatorio, orden de comparecencia y aprehensión Cuando se haya presentado denuncia o querella de un hecho que la ley señale como delito, el Ministerio Público anuncie que obran en la carpeta de investigación datos que establezcan que se ha cometido ese hecho y exista la probabilidad de que el imputado lo haya cometido o participado en su comisión, el Juez de control, a solicitud del Ministerio Público, podrá ordenar:
+Citatorio, orden de comparecencia y aprehensión Cuando se haya presentado denuncia o querella de un hecho que la ley señale como delito, el [Ministerio Público](articulo-3o.md) anuncie que obran en la carpeta de investigación datos que establezcan que se ha cometido ese hecho y exista la probabilidad de que el imputado lo haya cometido o participado en su comisión, el [Juez de control](articulo-3o.md), a solicitud del Ministerio Público, podrá ordenar:
 
 I. Citatorio al imputado para la audiencia inicial;
 

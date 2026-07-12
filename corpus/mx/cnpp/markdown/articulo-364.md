@@ -19,4 +19,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 Comparecencia obligatoria de testigos Si el testigo debidamente citado no se presentara a la citación o haya temor fundado de que se ausente o se oculte, se le hará comparecer en ese acto por medio de la fuerza pública sin necesidad de agotar ningún otro medio de apremio.
 
-Las autoridades están obligadas a auxiliar oportuna y diligentemente al Tribunal para garantizar la comparecencia obligatoria de los testigos. El Órgano jurisdiccional podrá emplear contra las autoridades los medios de apremio que establece este Código en caso de incumplimiento o retardo a sus determinaciones.
+Las autoridades están obligadas a auxiliar oportuna y diligentemente al Tribunal para garantizar la comparecencia obligatoria de los testigos. El [Órgano jurisdiccional](articulo-3o.md) podrá emplear contra las autoridades los medios de apremio que establece este [Código](articulo-3o.md) en caso de incumplimiento o retardo a sus determinaciones.

@@ -25,7 +25,7 @@ a) En Audiencia;
 
 b) Por alguno de los medios tecnológicos señalados por el interesado o su representante legal;
 
-c) En las instalaciones del Órgano jurisdiccional, o
+c) En las instalaciones del [Órgano jurisdiccional](articulo-3o.md), o
 
 d) En el domicilio que éste establezca para tal efecto. Las realizadas en domicilio se harán de conformidad con las reglas siguientes:
 
@@ -37,6 +37,6 @@ d) En el domicilio que éste establezca para tal efecto. Las realizadas en domic
 
 II. Lista, Estrado o Boletín Judicial según corresponda, y
 
-III. Por edictos, cuando se desconozca la identidad o domicilio del interesado, en cuyo caso se publicará por una sola ocasión en el medio de publicación oficial de la Federación o de las Entidades federativas y en un periódico de circulación nacional, los cuales deberán contener un resumen de la resolución que deba notificarse.
+III. Por edictos, cuando se desconozca la identidad o domicilio del interesado, en cuyo caso se publicará por una sola ocasión en el medio de publicación oficial de la Federación o de las [Entidades federativas](articulo-3o.md) y en un periódico de circulación nacional, los cuales deberán contener un resumen de la resolución que deba notificarse.
 
 Las notificaciones previstas en la fracción I de este artículo surtirán efectos al día siguiente en que hubieren sido practicadas y las efectuadas en las fracciones II y III surtirán efectos el día siguiente de su publicación.

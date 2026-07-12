@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 253
 
-Facultad de abstenerse de investigar El Ministerio Público podrá abstenerse de investigar, cuando los hechos relatados en la denuncia, querella o acto equivalente, no fueren constitutivos de delito o cuando los antecedentes y datos suministrados permitan establecer que se encuentra extinguida la acción penal o la responsabilidad penal del imputado. Esta decisión será siempre fundada y motivada.
+Facultad de abstenerse de investigar El [Ministerio Público](articulo-3o.md) podrá abstenerse de investigar, cuando los hechos relatados en la denuncia, querella o acto equivalente, no fueren constitutivos de delito o cuando los antecedentes y datos suministrados permitan establecer que se encuentra extinguida la acción penal o la responsabilidad penal del imputado. Esta decisión será siempre fundada y motivada.

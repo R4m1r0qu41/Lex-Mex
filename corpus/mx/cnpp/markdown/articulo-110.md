@@ -23,4 +23,4 @@ Cuando la víctima u ofendido perteneciere a un pueblo o comunidad indígena, el
 
 La intervención del Asesor jurídico será para orientar, asesorar o intervenir legalmente en el procedimiento penal en representación de la víctima u ofendido.
 
-En cualquier etapa del procedimiento, las víctimas podrán actuar por sí o a través de su Asesor jurídico, quien sólo promoverá lo que previamente informe a su representado. El Asesor jurídico intervendrá en representación de la víctima u ofendido en igualdad de condiciones que el Defensor.
+En cualquier etapa del procedimiento, las víctimas podrán actuar por sí o a través de su Asesor jurídico, quien sólo promoverá lo que previamente informe a su representado. El Asesor jurídico intervendrá en representación de la víctima u ofendido en igualdad de condiciones que el [Defensor](articulo-3o.md).

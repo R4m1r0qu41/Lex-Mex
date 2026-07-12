@@ -17,9 +17,9 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 94
 
-Reglas generales Los actos procedimentales serán cumplidos en los plazos establecidos, en los términos que este Código autorice. Los plazos sujetos al arbitrio judicial serán determinados conforme a la naturaleza del procedimiento y a la importancia de la actividad que se deba de desarrollar, teniendo en cuenta los derechos de las partes.
+Reglas generales Los actos procedimentales serán cumplidos en los plazos establecidos, en los términos que este [Código](articulo-3o.md) autorice. Los plazos sujetos al arbitrio judicial serán determinados conforme a la naturaleza del procedimiento y a la importancia de la actividad que se deba de desarrollar, teniendo en cuenta los derechos de las partes.
 
-No se computarán los días sábados, los domingos ni los días que sean determinados inhábiles por los ordenamientos legales aplicables, salvo que se trate de los actos relativos a providencias precautorias, puesta del imputado a disposición del Órgano jurisdiccional, resolver la legalidad de la detención, formulación de la imputación, resolver sobre la procedencia de las medidas cautelares en su caso y decidir sobre la procedencia de su vinculación a proceso, para tal efecto todos los días se computarán como hábiles.
+No se computarán los días sábados, los domingos ni los días que sean determinados inhábiles por los ordenamientos legales aplicables, salvo que se trate de los actos relativos a providencias precautorias, puesta del imputado a disposición del [Órgano jurisdiccional](articulo-3o.md), resolver la legalidad de la detención, formulación de la imputación, resolver sobre la procedencia de las medidas cautelares en su caso y decidir sobre la procedencia de su vinculación a proceso, para tal efecto todos los días se computarán como hábiles.
 
 Con la salvedad de la excepción prevista en el párrafo anterior, los demás plazos que venzan en día inhábil, se tendrán por prorrogados hasta el día hábil siguiente.
 

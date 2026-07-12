@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 23
 
-Competencia auxiliar Cuando el Ministerio Público o el Órgano jurisdiccional actúe en auxilio de otra jurisdicción en la práctica de diligencias urgentes, debe resolver conforme a lo dispuesto en este Código.
+Competencia auxiliar Cuando el [Ministerio Público](articulo-3o.md) o el [Órgano jurisdiccional](articulo-3o.md) actúe en auxilio de otra jurisdicción en la práctica de diligencias urgentes, debe resolver conforme a lo dispuesto en este [Código](articulo-3o.md).

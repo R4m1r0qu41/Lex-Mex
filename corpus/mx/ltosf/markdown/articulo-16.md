@@ -15,7 +15,7 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 16
 
-Las instituciones de crédito están obligadas a recibir cheques salvo buen cobro y órdenes de transferencias de fondos para abono en cuenta del beneficiario. Asimismo, las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades financieras de objeto múltiple reguladas están obligadas a recibir cheques salvo buen cobro y órdenes de transferencias de fondos para el pago del principal, intereses, Comisiones y gastos, de los créditos, préstamos o financiamientos que otorguen a sus Clientes.
+Las instituciones de crédito están obligadas a recibir cheques salvo buen cobro y órdenes de transferencias de fondos para abono en cuenta del beneficiario. Asimismo, las instituciones de crédito, sociedades financieras de objeto limitado y las sociedades financieras de objeto múltiple reguladas están obligadas a recibir cheques salvo buen cobro y órdenes de transferencias de fondos para el pago del principal, intereses, [Comisiones](articulo-3.md) y gastos, de los créditos, préstamos o financiamientos que otorguen a sus [Clientes](articulo-3.md).
 
 Las órdenes de transferencias de fondos mencionadas en el párrafo anterior podrán ser enviadas a solicitud del Cliente o por un tercero y la emisora podrá ser cualquier persona facultada para ello. Asimismo, los cheques podrán ser librados por el Cliente o por un tercero, a cargo de cualquier institución de crédito.
 

@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 352
 
-Interrupción Si la audiencia de debate de juicio no se reanuda a más tardar al undécimo día después de ordenada la suspensión, se considerará interrumpido y deberá ser reiniciado ante un Tribunal de enjuiciamiento distinto y lo actuado será nulo.
+Interrupción Si la audiencia de debate de juicio no se reanuda a más tardar al undécimo día después de ordenada la suspensión, se considerará interrumpido y deberá ser reiniciado ante un [Tribunal de enjuiciamiento](articulo-3o.md) distinto y lo actuado será nulo.

@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 474
 
-Envío a Tribunal de alzada competente Concluidos los plazos otorgados a las partes para la sustanciación del recurso de apelación, el Órgano jurisdiccional enviará los registros correspondientes al Tribunal de alzada que deba conocer del mismo.
+Envío a [Tribunal de alzada](articulo-3o.md) competente Concluidos los plazos otorgados a las partes para la sustanciación del recurso de apelación, el [Órgano jurisdiccional](articulo-3o.md) enviará los registros correspondientes al Tribunal de alzada que deba conocer del mismo.

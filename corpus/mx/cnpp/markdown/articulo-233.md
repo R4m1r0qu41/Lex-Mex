@@ -23,4 +23,4 @@ I. El aseguramiento de bienes inmuebles, derechos reales, aeronaves, embarcacion
 
 II. El nombramiento del depositario, interventor o administrador, de los bienes a que se refiere la fracción anterior.
 
-El registro o su cancelación se realizarán sin más requisito que el oficio que para tal efecto emita la autoridad judicial o el Ministerio Público.
+El registro o su cancelación se realizarán sin más requisito que el oficio que para tal efecto emita la autoridad judicial o el [Ministerio Público](articulo-3o.md).

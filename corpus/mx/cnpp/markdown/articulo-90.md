@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 90
 
-Citación Toda persona está obligada a presentarse ante el Órgano jurisdiccional o ante el Ministerio Público, cuando sea citada. Quedan exceptuados de esa obligación el Presidente de la República y los servidores públicos a que se refieren los párrafos primero y quinto del artículo 111 de la Constitución, el Consejero Jurídico del Ejecutivo, los magistrados y jueces y las personas imposibilitadas físicamente ya sea por su edad, por enfermedad grave o alguna otra que dificulte su comparecencia.
+Citación Toda persona está obligada a presentarse ante el [Órgano jurisdiccional](articulo-3o.md) o ante el [Ministerio Público](articulo-3o.md), cuando sea citada. Quedan exceptuados de esa obligación el Presidente de la República y los servidores públicos a que se refieren los párrafos primero y quinto del artículo 111 de la [Constitución](articulo-3o.md), el Consejero Jurídico del Ejecutivo, los magistrados y jueces y las personas imposibilitadas físicamente ya sea por su edad, por enfermedad grave o alguna otra que dificulte su comparecencia.
 
 Cuando haya que examinar a los servidores públicos o a las personas señaladas en el párrafo anterior, el Órgano jurisdiccional dispondrá que dicho testimonio sea desahogado en el juicio por sistemas de reproducción a distancia de imágenes y sonidos o cualquier otro medio que permita su trasmisión, en sesión privada.
 

@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 73
 
-Regla general de la comunicación entre autoridades El Órgano jurisdiccional o el Ministerio Público, de manera fundada y motivada, podrán solicitar el auxilio a otra autoridad para la práctica de un acto procedimental. Dicha solicitud podrá realizarse por cualquier medio que garantice su autenticidad. La autoridad requerida colaborará y tramitará sin demora los requerimientos que reciba.
+Regla general de la comunicación entre autoridades El [Órgano jurisdiccional](articulo-3o.md) o el [Ministerio Público](articulo-3o.md), de manera fundada y motivada, podrán solicitar el auxilio a otra autoridad para la práctica de un acto procedimental. Dicha solicitud podrá realizarse por cualquier medio que garantice su autenticidad. La autoridad requerida colaborará y tramitará sin demora los requerimientos que reciba.

@@ -17,11 +17,11 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 109
 
-Derechos de la víctima u ofendido En los procedimientos previstos en este Código, la víctima u ofendido tendrán los siguientes derechos:
+Derechos de la víctima u ofendido En los procedimientos previstos en este [Código](articulo-3o.md), la víctima u ofendido tendrán los siguientes derechos:
 
-I. A ser informado de los derechos que en su favor le reconoce la Constitución;
+I. A ser informado de los derechos que en su favor le reconoce la [Constitución](articulo-3o.md);
 
-II. A que el Ministerio Público y sus auxiliares así como el Órgano jurisdiccional les faciliten el acceso a la justicia y les presten los servicios que constitucionalmente tienen encomendados con legalidad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia, perspectiva de género y eficacia y con la debida diligencia; Fracción reformada DOF 25-04-2023
+II. A que el [Ministerio Público](articulo-3o.md) y sus auxiliares así como el [Órgano jurisdiccional](articulo-3o.md) les faciliten el acceso a la justicia y les presten los servicios que constitucionalmente tienen encomendados con legalidad, honradez, lealtad, imparcialidad, profesionalismo, eficiencia, perspectiva de género y eficacia y con la debida diligencia; Fracción reformada DOF 25-04-2023
 
 III. A contar con información sobre los derechos que en su beneficio existan, como ser atendidos por personal del mismo sexo, o del sexo que la víctima elija, cuando así lo requieran y recibir desde la comisión del delito atención médica y psicológica de urgencia, así como asistencia jurídica a través de un Asesor jurídico;
 

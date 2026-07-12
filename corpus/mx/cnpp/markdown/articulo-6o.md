@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 6o
 
-Principio de contradicción Las partes podrán conocer, controvertir o confrontar los medios de prueba, así como oponerse a las peticiones y alegatos de la otra parte, salvo lo previsto en este Código.
+Principio de contradicción Las partes podrán conocer, controvertir o confrontar los medios de prueba, así como oponerse a las peticiones y alegatos de la otra parte, salvo lo previsto en este [Código](articulo-3o.md).

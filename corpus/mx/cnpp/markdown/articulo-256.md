@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 256
 
-Casos en que operan los criterios de oportunidad Iniciada la investigación y previo análisis objetivo de los datos que consten en la misma, conforme a las disposiciones normativas de cada Procuraduría, el Ministerio Público, podrá abstenerse de ejercer la acción penal con base en la aplicación de criterios de oportunidad, siempre que, en su caso, se hayan reparado o garantizado los daños causados a la víctima u ofendido. Párrafo reformado DOF 17-06-2016
+Casos en que operan los criterios de oportunidad Iniciada la investigación y previo análisis objetivo de los datos que consten en la misma, conforme a las disposiciones normativas de cada [Procuraduría](articulo-3o.md), el [Ministerio Público](articulo-3o.md), podrá abstenerse de ejercer la acción penal con base en la aplicación de criterios de oportunidad, siempre que, en su caso, se hayan reparado o garantizado los daños causados a la víctima u ofendido. Párrafo reformado DOF 17-06-2016
 
 La aplicación de los criterios de oportunidad será procedente en cualquiera de los siguientes supuestos:
 
@@ -37,6 +37,6 @@ VII. Se deroga. Fracción derogada DOF 17-06-2016
 
 No podrá aplicarse el criterio de oportunidad en los casos de delitos contra el libre desarrollo de la personalidad, de violencia familiar ni en los casos de delitos fiscales o aquellos que afecten gravemente el interés público. Para el caso de delitos fiscales y financieros, previa autorización de la Secretaría de Hacienda y Crédito Público, a través de la Procuraduría Fiscal de la Federación, únicamente podrá ser aplicado el supuesto de la fracción V, en el caso de que el imputado aporte información fidedigna que coadyuve para la investigación y persecución del beneficiario final del mismo delito, tomando en consideración que será este último quien estará obligado a reparar el daño. Párrafo reformado DOF 08-11-2019
 
-El Ministerio Público aplicará los criterios de oportunidad sobre la base de razones objetivas y sin discriminación, valorando las circunstancias especiales en cada caso, de conformidad con lo dispuesto en el presente Código así como en los criterios generales que al efecto emita el Procurador o equivalente. La aplicación de los criterios de oportunidad podrán ordenarse en cualquier momento y hasta antes de que se dicte el auto de apertura a juicio.
+El Ministerio Público aplicará los criterios de oportunidad sobre la base de razones objetivas y sin discriminación, valorando las circunstancias especiales en cada caso, de conformidad con lo dispuesto en el presente [Código](articulo-3o.md) así como en los criterios generales que al efecto emita el [Procurador](articulo-3o.md) o equivalente. La aplicación de los criterios de oportunidad podrán ordenarse en cualquier momento y hasta antes de que se dicte el auto de apertura a juicio.
 
 La aplicación de los criterios de oportunidad deberá ser autorizada por el Procurador o por el servidor público en quien se delegue esta facultad, en términos de la normatividad aplicable.

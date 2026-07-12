@@ -25,6 +25,6 @@ Al concluir el cateo se levantará acta circunstanciada en presencia de dos test
 
 Al terminar el cateo se cuidará que los lugares queden cerrados, y de no ser posible inmediatamente, se asegurará que otras personas no ingresen en el lugar hasta lograr el cierre.
 
-Si para la práctica del cateo es necesaria la presencia de alguna persona diferente a los servidores públicos propuestos para ello, el Ministerio Público, deberá incluir los datos de aquellos así como la motivación correspondiente en la solicitud del acto de investigación.
+Si para la práctica del cateo es necesaria la presencia de alguna persona diferente a los servidores públicos propuestos para ello, el [Ministerio Público](articulo-3o.md), deberá incluir los datos de aquellos así como la motivación correspondiente en la solicitud del acto de investigación.
 
 En caso de autorizarse la presencia de particulares en el cateo, éstos deberán omitir cualquier intervención material en la misma y sólo podrán tener comunicación con el servidor público que dirija la práctica del cateo.

@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 242
 
-Aseguramiento de bienes o derechos relacionados con operaciones financieras [El Ministerio Público o a solicitud de la Policía podrá ordenar la suspensión, o el aseguramiento de cuentas, títulos de crédito y en general cualquier bien o derecho relativos a operaciones que las instituciones financieras establecidas en el país celebren con sus clientes y dará aviso inmediato a la autoridad encargada de la administración de los bienes asegurados y a las autoridades competentes, quienes tomarán las medidas necesarias para evitar que los titulares respectivos realicen cualquier acto contrario al aseguramiento.]
+Aseguramiento de bienes o derechos relacionados con operaciones financieras [El [Ministerio Público](articulo-3o.md) o a solicitud de la [Policía](articulo-3o.md) podrá ordenar la suspensión, o el aseguramiento de cuentas, títulos de crédito y en general cualquier bien o derecho relativos a operaciones que las instituciones financieras establecidas en el país celebren con sus clientes y dará aviso inmediato a la autoridad encargada de la administración de los bienes asegurados y a las autoridades competentes, quienes tomarán las medidas necesarias para evitar que los titulares respectivos realicen cualquier acto contrario al aseguramiento.]
 
 Artículo declarado inválido por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 25-06-2018

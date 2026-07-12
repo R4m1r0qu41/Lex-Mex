@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 217
 
-Registro de los actos de investigación El Ministerio Público y la Policía deberán dejar registro de todas las actuaciones que se realicen durante la investigación de los delitos, utilizando al efecto cualquier medio que permita garantizar que la información recabada sea completa, íntegra y exacta, así como el acceso a la misma por parte de los sujetos que de acuerdo con la ley tuvieren derecho a exigirlo.
+Registro de los actos de investigación El [Ministerio Público](articulo-3o.md) y la [Policía](articulo-3o.md) deberán dejar registro de todas las actuaciones que se realicen durante la investigación de los delitos, utilizando al efecto cualquier medio que permita garantizar que la información recabada sea completa, íntegra y exacta, así como el acceso a la misma por parte de los sujetos que de acuerdo con la ley tuvieren derecho a exigirlo.
 
 Cada acto de investigación se registrará por separado, y será firmado por quienes hayan intervenido. Si no quisieren o no pudieren firmar, se imprimirá su huella digital. En caso de que esto no sea posible o la persona se niegue a imprimir su huella, se hará constar el motivo.
 

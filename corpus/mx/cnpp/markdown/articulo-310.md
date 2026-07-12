@@ -17,8 +17,8 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 310
 
-Oportunidad para formular la imputación a personas en libertad El agente del Ministerio Público podrá formular la imputación cuando considere oportuna la intervención judicial con el propósito de resolver la situación jurídica del imputado.
+Oportunidad para formular la imputación a personas en libertad El agente del [Ministerio Público](articulo-3o.md) podrá formular la imputación cuando considere oportuna la intervención judicial con el propósito de resolver la situación jurídica del imputado.
 
-Si el Ministerio Público manifestare interés en formular imputación a una persona que no se encontrare detenida, solicitará al Juez de control que lo cite en libertad y señale fecha y hora para que tenga verificativo la audiencia inicial, la que se llevará a cabo dentro de los quince días siguientes a la presentación de la solicitud.
+Si el Ministerio Público manifestare interés en formular imputación a una persona que no se encontrare detenida, solicitará al [Juez de control](articulo-3o.md) que lo cite en libertad y señale fecha y hora para que tenga verificativo la audiencia inicial, la que se llevará a cabo dentro de los quince días siguientes a la presentación de la solicitud.
 
-Cuando lo considere necesario, para lograr la presencia del imputado en la audiencia inicial, el agente del Ministerio Público podrá solicitar orden de aprehensión o de comparecencia, según sea el caso y el Juez de control resolverá lo que corresponda. Las solicitudes y resoluciones deberán realizarse en los términos del presente Código.
+Cuando lo considere necesario, para lograr la presencia del imputado en la audiencia inicial, el agente del Ministerio Público podrá solicitar orden de aprehensión o de comparecencia, según sea el caso y el Juez de control resolverá lo que corresponda. Las solicitudes y resoluciones deberán realizarse en los términos del presente [Código](articulo-3o.md).

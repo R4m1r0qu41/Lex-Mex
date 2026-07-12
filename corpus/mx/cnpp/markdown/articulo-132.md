@@ -17,9 +17,9 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 132
 
-Obligaciones de las y los Policías Epígrafe reformado DOF 16-12-2024 El Policía actuará bajo la conducción y mando del Ministerio Público en la investigación de los delitos en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución. Párrafo reformado DOF 25-04-2023
+Obligaciones de las y los [Policías](articulo-3o.md) Epígrafe reformado DOF 16-12-2024 El Policía actuará bajo la conducción y mando del [Ministerio Público](articulo-3o.md) en la investigación de los delitos en estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos reconocidos en la [Constitución](articulo-3o.md). Párrafo reformado DOF 25-04-2023
 
-Para los efectos del presente Código, el Policía tendrá las siguientes obligaciones:
+Para los efectos del presente [Código](articulo-3o.md), el Policía tendrá las siguientes obligaciones:
 
 I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delito e informar al Ministerio Público por cualquier medio y de forma inmediata de las diligencias practicadas;
 

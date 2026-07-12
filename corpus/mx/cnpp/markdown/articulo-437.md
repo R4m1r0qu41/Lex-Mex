@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 437
 
-Autoridad Central La Autoridad Central en materia de asistencia jurídica internacional será la Procuraduría General de la República quien ejercerá las atribuciones establecidas en este Código.
+Autoridad Central La Autoridad Central en materia de asistencia jurídica internacional será la [Procuraduría](articulo-3o.md) General de la República quien ejercerá las atribuciones establecidas en este [Código](articulo-3o.md).
 
 Cualquier solicitud de asistencia jurídica formulada con base en los instrumentos internacionales vigentes, de conformidad con el principio de reciprocidad internacional, podrá presentarse para su trámite y atención ante la Autoridad Central, o a través de la vía diplomática.

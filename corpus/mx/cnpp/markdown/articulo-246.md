@@ -21,6 +21,6 @@ Entrega de bienes Las autoridades deberán devolver a la persona que acredite o 
 
 Esta devolución podrá ordenarse en depósito provisional y al poseedor se le podrá imponer la obligación de exhibirlos cuando se le requiera.
 
-Dentro de los treinta días siguientes a la notificación del acuerdo de devolución, la autoridad judicial o el Ministerio Público notificarán su resolución al interesado o al representante legal, para que dentro de los diez días siguientes a dicha notificación se presente a recogerlos, bajo el apercibimiento que de no hacerlo, los bienes causarán abandono a favor del Gobierno Federal o de la Entidad federativa de que se trate, según corresponda y se procederá en los términos previstos en este Código. Párrafo reformado DOF 09-08-2019
+Dentro de los treinta días siguientes a la notificación del acuerdo de devolución, la autoridad judicial o el [Ministerio Público](articulo-3o.md) notificarán su resolución al interesado o al representante legal, para que dentro de los diez días siguientes a dicha notificación se presente a recogerlos, bajo el apercibimiento que de no hacerlo, los bienes causarán abandono a favor del Gobierno Federal o de la [Entidad federativa](articulo-3o.md) de que se trate, según corresponda y se procederá en los términos previstos en este [Código](articulo-3o.md). Párrafo reformado DOF 09-08-2019
 
 Cuando se haya hecho constar el aseguramiento de los bienes en los registros públicos, la autoridad que haya ordenado su devolución ordenará su cancelación.

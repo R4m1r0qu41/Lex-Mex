@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 86
 
-Notificaciones a Defensores o Asesores jurídicos Cuando se designe Defensor o Asesor jurídico y éstos sean particulares, las notificaciones deberán ser dirigidas a éstos, sin perjuicio de notificar al imputado y a la víctima u ofendido, según sea el caso, cuando la ley o la naturaleza del acto así lo exijan.
+Notificaciones a [Defensores](articulo-3o.md) o Asesores jurídicos Cuando se designe Defensor o Asesor jurídico y éstos sean particulares, las notificaciones deberán ser dirigidas a éstos, sin perjuicio de notificar al imputado y a la víctima u ofendido, según sea el caso, cuando la ley o la naturaleza del acto así lo exijan.
 
-Cuando el imputado tenga varios Defensores, deberá notificarse al representante común, en caso de que lo hubiere, sin perjuicio de que otros acudan a la oficina del Ministerio Público o del Órgano jurisdiccional para ser notificados. La misma disposición se aplicará a los Asesores jurídicos.
+Cuando el imputado tenga varios Defensores, deberá notificarse al representante común, en caso de que lo hubiere, sin perjuicio de que otros acudan a la oficina del [Ministerio Público](articulo-3o.md) o del [Órgano jurisdiccional](articulo-3o.md) para ser notificados. La misma disposición se aplicará a los Asesores jurídicos.

@@ -15,13 +15,13 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 4 Bis
 
-El Banco de México deberá incorporar, en las disposiciones de carácter general que emita en materia de Comisiones, normas que limiten o prohíban aquéllas que distorsionen las sanas prácticas de intermediación, o resten transparencia y claridad al cobro de las mismas.
+El Banco de México deberá incorporar, en las disposiciones de carácter general que emita en materia de [Comisiones](articulo-3.md), normas que limiten o prohíban aquéllas que distorsionen las sanas prácticas de intermediación, o resten transparencia y claridad al cobro de las mismas.
 
 En materia de regulación, el Banco de México, la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y la Procuraduría Federal del Consumidor, en el ámbito de sus respectivas competencias conforme a esta Ley, deberán considerar lo siguiente:
 
-I. Las Entidades únicamente podrán cobrar Comisiones que se vinculen con un servicio prestado al Cliente, o bien por una operación realizada por él;
+I. Las [Entidades](articulo-3.md) únicamente podrán cobrar Comisiones que se vinculen con un servicio prestado al [Cliente](articulo-3.md), o bien por una operación realizada por él;
 
-II. Las Entidades no podrán cobrar más de una Comisión por un mismo acto, hecho o evento. Este mismo principio aplicará cuando así lo determine el Banco de México tratándose de actos, hechos o eventos en los que intervengan más de una Entidad Financiera, y
+II. Las Entidades no podrán cobrar más de una Comisión por un mismo acto, hecho o evento. Este mismo principio aplicará cuando así lo determine el Banco de México tratándose de actos, hechos o eventos en los que intervengan más de una [Entidad Financiera](articulo-3.md), y
 
 III. Las Entidades no podrán cobrar Comisiones que inhiban la movilidad o migración de los Clientes de una Entidad Financiera a otra. Asimismo, las Entidades Financieras tienen prohibido cobrar Comisiones a Clientes o Usuarios por los siguientes conceptos:
 

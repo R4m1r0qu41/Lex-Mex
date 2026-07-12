@@ -17,8 +17,8 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 488
 
-Solicitud de declaración de inocencia o anulación de la sentencia El sentenciado que se crea con derecho a obtener el reconocimiento de su inocencia o la anulación de la sentencia por concurrir alguna de las causas señaladas en los artículos anteriores, acudirá al Tribunal de alzada que fuere competente para conocer del recurso de apelación; le expondrá detalladamente por escrito la causa en que funda su petición y acompañarán a su solicitud las pruebas que correspondan u ofrecerá exhibirlas en la audiencia respectiva.
+Solicitud de declaración de inocencia o anulación de la sentencia El sentenciado que se crea con derecho a obtener el reconocimiento de su inocencia o la anulación de la sentencia por concurrir alguna de las causas señaladas en los artículos anteriores, acudirá al [Tribunal de alzada](articulo-3o.md) que fuere competente para conocer del recurso de apelación; le expondrá detalladamente por escrito la causa en que funda su petición y acompañarán a su solicitud las pruebas que correspondan u ofrecerá exhibirlas en la audiencia respectiva.
 
 En relación con las pruebas, si el recurrente no tuviere en su poder los documentos que pretenda presentar, deberá indicar el lugar donde se encuentren y solicitar al Tribunal de alzada que se recaben.
 
-Al presentar su solicitud, el sentenciado designará a un licenciado en Derecho o abogado con cédula profesional como Defensor en este procedimiento, conforme a las disposiciones conducentes de este Código; si no lo hace, el Tribunal de alzada le nombrará un Defensor público.
+Al presentar su solicitud, el sentenciado designará a un licenciado en Derecho o abogado con cédula profesional como [Defensor](articulo-3o.md) en este procedimiento, conforme a las disposiciones conducentes de este [Código](articulo-3o.md); si no lo hace, el Tribunal de alzada le nombrará un Defensor público.

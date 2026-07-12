@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 12
 
-Principio de juicio previo y debido proceso Ninguna persona podrá ser condenada a una pena ni sometida a una medida de seguridad, sino en virtud de resolución dictada por un Órgano jurisdiccional previamente establecido, conforme a leyes expedidas con anterioridad al hecho, en un proceso sustanciado de manera imparcial y con apego estricto a los derechos humanos previstos en la Constitución, los Tratados y las leyes que de ellos emanen.
+Principio de juicio previo y debido proceso Ninguna persona podrá ser condenada a una pena ni sometida a una medida de seguridad, sino en virtud de resolución dictada por un [Órgano jurisdiccional](articulo-3o.md) previamente establecido, conforme a leyes expedidas con anterioridad al hecho, en un proceso sustanciado de manera imparcial y con apego estricto a los derechos humanos previstos en la [Constitución](articulo-3o.md), los Tratados y las leyes que de ellos emanen.

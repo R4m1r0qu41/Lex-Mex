@@ -15,11 +15,11 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 42
 
-La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros sancionará con multa de dos mil a cinco mil días de salario, a las Entidades Financieras: Párrafo reformado DOF 25-06-2009
+La [Comisión](articulo-3.md) Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros sancionará con multa de dos mil a cinco mil días de salario, a las [Entidades Financieras](articulo-3.md): Párrafo reformado DOF 25-06-2009
 
 I. No cuenten en sus sucursales, establecimientos y en su página electrónica en la red mundial "Internet", con la información actualizada a que se refiere el primer párrafo del artículo [7](articulo-7.md) de esta Ley, en los términos expresados en el referido precepto.
 
-II. No expresen en términos anuales las tasas de interés ordinarias y moratorias, conforme al artículo [9](articulo-9.md) de la presente Ley. III. Empleen modelos de Contratos de Adhesión que incumplan lo previsto en el artículo [11](articulo-11.md) de esta Ley o en las disposiciones de carácter general que expida la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, que regulen Contratos de Adhesión, o utilicen con los Clientes cualquier Contrato de Adhesión que no haya sido remitido a dicha Comisión Nacional en términos de lo previsto en el mismo artículo [11](articulo-11.md) de la presente Ley. Fracción reformada DOF 25-06-2009
+II. No expresen en términos anuales las tasas de interés ordinarias y moratorias, conforme al artículo [9](articulo-9.md) de la presente Ley. III. Empleen modelos de Contratos de Adhesión que incumplan lo previsto en el artículo [11](articulo-11.md) de esta Ley o en las disposiciones de carácter general que expida la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, que regulen Contratos de Adhesión, o utilicen con los [Clientes](articulo-3.md) cualquier [Contrato de Adhesión](articulo-3.md) que no haya sido remitido a dicha Comisión Nacional en términos de lo previsto en el mismo artículo [11](articulo-11.md) de la presente Ley. Fracción reformada DOF 25-06-2009
 
 IV. Difundan publicidad que incumpla lo previsto en el artículo [12](articulo-12.md) de esta Ley o las disposiciones de carácter general que expida la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, que regulen la publicidad relativa a las características de las operaciones activas, pasivas y de servicios. Fracción reformada DOF 25-06-2009
 

@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 137
 
-Medidas u Órdenes de Protección Epígrafe reformado DOF 16-12-2024 El Ministerio Público, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido. Son medidas de protección las siguientes:
+Medidas u Órdenes de Protección Epígrafe reformado DOF 16-12-2024 El [Ministerio Público](articulo-3o.md), bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las medidas de protección idóneas cuando estime que el imputado representa un riesgo inminente en contra de la seguridad de la víctima u ofendido. Son medidas de protección las siguientes:
 
 I. Prohibición de acercarse o comunicarse con la víctima u ofendido;
 
@@ -41,6 +41,6 @@ X. El reingreso de la víctima u ofendido a su domicilio, una vez que se salvagu
 
 Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en las fracciones I, II y III deberá celebrarse audiencia en la que el juez podrá cancelarlas, o bien, ratificarlas o modificarlas mediante la imposición de las medidas cautelares correspondientes.
 
-En caso de incumplimiento de las medidas de protección, el Ministerio Público podrá imponer alguna de las medidas de apremio previstas en este Código.
+En caso de incumplimiento de las medidas de protección, el Ministerio Público podrá imponer alguna de las medidas de apremio previstas en este [Código](articulo-3o.md).
 
 Tratándose de delitos relacionados con las violencias de género contra las mujeres se aplicará de manera supletoria la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia. Párrafo reformado DOF 16-12-2024

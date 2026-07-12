@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 252
 
-Actos de investigación que requieren autorización previa del Juez de control Con excepción de los actos de investigación previstos en el [artículo anterior](articulo-251.md), requieren de autorización previa del Juez de control todos los actos de investigación que impliquen afectación a derechos establecidos en la Constitución, así como los siguientes:
+Actos de investigación que requieren autorización previa del [Juez de control](articulo-3o.md) Con excepción de los actos de investigación previstos en el [artículo anterior](articulo-251.md), requieren de autorización previa del Juez de control todos los actos de investigación que impliquen afectación a derechos establecidos en la [Constitución](articulo-3o.md), así como los siguientes:
 
 I. La exhumación de cadáveres;
 

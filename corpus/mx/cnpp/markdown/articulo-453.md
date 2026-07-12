@@ -23,4 +23,4 @@ En caso de emitir la aprobación respectiva, la Autoridad Central informará con
 
 El Estado o la autoridad requirente remitirá la relación de los nombres, cargos y motivo de la presencia de sus representantes, con un plazo razonable de anticipación a la fecha de la ejecución de la solicitud.
 
-La diligencia a desahogar será conducida en todo momento por el agente del Ministerio Público designado para tal efecto, quien de considerarlo procedente podrá permitir que los representantes del Estado o la autoridad requirente formulen preguntas u observaciones por su conducto.
+La diligencia a desahogar será conducida en todo momento por el agente del [Ministerio Público](articulo-3o.md) designado para tal efecto, quien de considerarlo procedente podrá permitir que los representantes del Estado o la autoridad requirente formulen preguntas u observaciones por su conducto.

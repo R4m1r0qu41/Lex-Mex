@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 123
 
-Número de Defensores El imputado podrá designar el número de Defensores que considere conveniente, los cuales, en las audiencias, tomarán la palabra en orden y deberán actuar en todo caso con respeto.
+Número de [Defensores](articulo-3o.md) El imputado podrá designar el número de Defensores que considere conveniente, los cuales, en las audiencias, tomarán la palabra en orden y deberán actuar en todo caso con respeto.

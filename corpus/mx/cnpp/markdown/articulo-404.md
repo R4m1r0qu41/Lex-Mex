@@ -17,6 +17,6 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 404
 
-Redacción de la sentencia Si el Órgano jurisdiccional es colegiado, una vez emitida y expuesta, la sentencia será redactada por uno de sus integrantes. Los jueces resolverán por unanimidad o por mayoría de votos, pudiendo fundar separadamente sus conclusiones o en forma conjunta si estuvieren de acuerdo. El voto disidente será redactado por su autor. La sentencia señalará el nombre de su redactor.
+Redacción de la sentencia Si el [Órgano jurisdiccional](articulo-3o.md) es colegiado, una vez emitida y expuesta, la sentencia será redactada por uno de sus integrantes. Los jueces resolverán por unanimidad o por mayoría de votos, pudiendo fundar separadamente sus conclusiones o en forma conjunta si estuvieren de acuerdo. El voto disidente será redactado por su autor. La sentencia señalará el nombre de su redactor.
 
 La sentencia producirá sus efectos desde el momento de su explicación y no desde su formulación escrita.

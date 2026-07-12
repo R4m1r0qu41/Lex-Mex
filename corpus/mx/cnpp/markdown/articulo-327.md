@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 327
 
-Sobreseimiento El Ministerio Público, el imputado o su Defensor podrán solicitar al Órgano jurisdiccional el sobreseimiento de una causa; recibida la solicitud, el Órgano jurisdiccional la notificará a las partes y citará, dentro de las veinticuatro horas siguientes, a una audiencia donde se resolverá lo conducente. La incomparecencia de la víctima u ofendido debidamente citados no impedirá que el Órgano jurisdiccional se pronuncie al respecto.
+Sobreseimiento El [Ministerio Público](articulo-3o.md), el imputado o su [Defensor](articulo-3o.md) podrán solicitar al [Órgano jurisdiccional](articulo-3o.md) el sobreseimiento de una causa; recibida la solicitud, el Órgano jurisdiccional la notificará a las partes y citará, dentro de las veinticuatro horas siguientes, a una audiencia donde se resolverá lo conducente. La incomparecencia de la víctima u ofendido debidamente citados no impedirá que el Órgano jurisdiccional se pronuncie al respecto.
 
 El sobreseimiento procederá cuando:
 

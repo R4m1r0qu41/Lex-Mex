@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 346
 
-Exclusión de medios de prueba para la audiencia del debate Una vez examinados los medios de prueba ofrecidos y de haber escuchado a las partes, el Juez de control ordenará fundadamente que se excluyan de ser rendidos en la audiencia de juicio, aquellos medios de prueba que no se refieran directa o indirectamente al objeto de la investigación y sean útiles para el esclarecimiento de los hechos, así como aquellos en los que se actualice alguno de los siguientes supuestos:
+Exclusión de medios de prueba para la audiencia del debate Una vez examinados los medios de prueba ofrecidos y de haber escuchado a las partes, el [Juez de control](articulo-3o.md) ordenará fundadamente que se excluyan de ser rendidos en la audiencia de juicio, aquellos medios de prueba que no se refieran directa o indirectamente al objeto de la investigación y sean útiles para el esclarecimiento de los hechos, así como aquellos en los que se actualice alguno de los siguientes supuestos:
 
 I. Cuando el medio de prueba se ofrezca para generar efectos dilatorios, en virtud de ser:
 
@@ -31,7 +31,7 @@ II. Por haberse obtenido con violación a derechos fundamentales;
 
 III. Por haber sido declaradas nulas, o
 
-IV. Por ser aquellas que contravengan las disposiciones señaladas en este Código para su desahogo.
+IV. Por ser aquellas que contravengan las disposiciones señaladas en este [Código](articulo-3o.md) para su desahogo.
 
 En el caso de que el Juez estime que el medio de prueba sea sobreabundante, dispondrá que la parte que la ofrezca reduzca el número de testigos o de documentos, cuando mediante ellos desee acreditar los mismos hechos o circunstancias con la materia que se someterá a juicio.
 

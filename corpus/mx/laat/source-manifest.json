@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:laat",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAT.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/laat.htm",
+  "retrieved_at": "2026-07-12T05:35:56.966823Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 305931,
+  "etag": "\"4ab0b-57653e8580900\"",
+  "last_modified": "Thu, 20 Sep 2018 21:07:16 GMT",
+  "source_sha256": "2e6462a9ddd472efe129d2285c1602316c91640646847da74dbf13363c5238fb",
+  "extracted_text_sha256": "ac6ca78d2e0d039944e2fe4913cca23d38dac76bc5fcba086386e8ae2539c908",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "8fea4b0c8e5d1bac9d3cfe134caf42b224e635a5"
+}

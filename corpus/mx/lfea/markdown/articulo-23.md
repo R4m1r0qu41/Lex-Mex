@@ -17,4 +17,4 @@ source_sha256: 102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842
 
 # Artículo 23
 
-La Secretaría, la Secretaría de Economía y el Servicio de Administración Tributaria son consideradas autoridades certificadoras para emitir certificados digitales en términos de esta Ley.
+La [Secretaría](articulo-2.md), la Secretaría de Economía y el Servicio de Administración Tributaria son consideradas autoridades certificadoras para emitir certificados digitales en términos de esta Ley.

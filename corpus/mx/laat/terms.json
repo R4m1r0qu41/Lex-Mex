@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laat:term:dieta-correcta",
+    "term": "Dieta correcta",
+    "instrument_id": "urn:lex-mx:federal:statute:laat",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laat:article:2",
+    "fraction": "I",
+    "start_char": 51,
+    "end_char": 230,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laat:term:normas",
+    "term": "Normas",
+    "instrument_id": "urn:lex-mx:federal:statute:laat",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laat:article:2",
+    "fraction": "II",
+    "start_char": 230,
+    "end_char": 277,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laat:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:laat",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laat:article:2",
+    "fraction": "III",
+    "start_char": 277,
+    "end_char": 343,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laat:term:trabajadores",
+    "term": "Trabajadores",
+    "instrument_id": "urn:lex-mx:federal:statute:laat",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laat:article:2",
+    "fraction": "IV",
+    "start_char": 343,
+    "end_char": 609,
+    "basis": "express_definition"
+  }
+]

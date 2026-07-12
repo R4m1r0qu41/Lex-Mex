@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 7o
 
-Principio de continuidad Las audiencias se llevarán a cabo de forma continua, sucesiva y secuencial, salvo los casos excepcionales previstos en este Código.
+Principio de continuidad Las audiencias se llevarán a cabo de forma continua, sucesiva y secuencial, salvo los casos excepcionales previstos en este [Código](articulo-3o.md).

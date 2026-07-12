@@ -17,7 +17,7 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 410
 
-Criterios para la individualización de la sanción penal o medida de seguridad El Tribunal de enjuiciamiento al individualizar las penas o medidas de seguridad aplicables deberá tomar en consideración lo siguiente:
+Criterios para la individualización de la sanción penal o medida de seguridad El [Tribunal de enjuiciamiento](articulo-3o.md) al individualizar las penas o medidas de seguridad aplicables deberá tomar en consideración lo siguiente:
 
 Dentro de los márgenes de punibilidad establecidos en las leyes penales, el Tribunal de enjuiciamiento individualizará la sanción tomando como referencia la gravedad de la conducta típica y antijurídica, así como el grado de culpabilidad del sentenciado. Las medidas de seguridad no accesorias a la pena y las consecuencias jurídicas aplicables a las personas morales, serán individualizadas tomando solamente en consideración la gravedad de la conducta típica y antijurídica.
 

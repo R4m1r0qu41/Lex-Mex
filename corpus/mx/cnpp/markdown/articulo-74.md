@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 74
 
-Colaboración procesal Los actos de colaboración entre el Ministerio Público o la Policía con autoridades federales o de alguna Entidad federativa, se sujetarán a lo previsto en la Constitución, en el presente Código, así como a las disposiciones contenidas en otras normas y convenios de colaboración que se hayan emitido o suscrito de conformidad con ésta.
+Colaboración procesal Los actos de colaboración entre el [Ministerio Público](articulo-3o.md) o la [Policía](articulo-3o.md) con autoridades federales o de alguna [Entidad federativa](articulo-3o.md), se sujetarán a lo previsto en la [Constitución](articulo-3o.md), en el presente [Código](articulo-3o.md), así como a las disposiciones contenidas en otras normas y convenios de colaboración que se hayan emitido o suscrito de conformidad con ésta.

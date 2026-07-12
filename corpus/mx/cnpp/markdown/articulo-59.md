@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 59
 
-De los medios de apremio Para asegurar el orden en las audiencias o restablecerlo cuando hubiere sido alterado, así como para garantizar la observancia de sus decisiones en audiencia, el Órgano jurisdiccional podrá aplicar indistintamente cualquiera de los medios de apremio establecidos en este Código.
+De los medios de apremio Para asegurar el orden en las audiencias o restablecerlo cuando hubiere sido alterado, así como para garantizar la observancia de sus decisiones en audiencia, el [Órgano jurisdiccional](articulo-3o.md) podrá aplicar indistintamente cualquiera de los medios de apremio establecidos en este [Código](articulo-3o.md).

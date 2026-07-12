@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 120
 
-Renuncia y abandono Cuando el Defensor renuncie o abandone la defensa, el Ministerio Público o el Órgano jurisdiccional le harán saber al imputado que tiene derecho a designar a otro Defensor; sin embargo, en tanto no lo designe o no quiera o no pueda nombrarlo, se le designará un Defensor público.
+Renuncia y abandono Cuando el [Defensor](articulo-3o.md) renuncie o abandone la defensa, el [Ministerio Público](articulo-3o.md) o el [Órgano jurisdiccional](articulo-3o.md) le harán saber al imputado que tiene derecho a designar a otro Defensor; sin embargo, en tanto no lo designe o no quiera o no pueda nombrarlo, se le designará un Defensor público.

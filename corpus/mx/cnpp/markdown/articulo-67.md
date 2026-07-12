@@ -17,9 +17,9 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 67
 
-Resoluciones judiciales La autoridad judicial pronunciará sus resoluciones en forma de sentencias y autos. Dictará sentencia para decidir en definitiva y poner término al procedimiento y autos en todos los demás casos. Las resoluciones judiciales deberán mencionar a la autoridad que resuelve, el lugar y la fecha en que se dictaron y demás requisitos que este Código prevea para cada caso.
+Resoluciones judiciales La autoridad judicial pronunciará sus resoluciones en forma de sentencias y autos. Dictará sentencia para decidir en definitiva y poner término al procedimiento y autos en todos los demás casos. Las resoluciones judiciales deberán mencionar a la autoridad que resuelve, el lugar y la fecha en que se dictaron y demás requisitos que este [Código](articulo-3o.md) prevea para cada caso.
 
-Los autos y resoluciones del Órgano jurisdiccional serán emitidos oralmente y surtirán sus efectos a más tardar al día siguiente. Deberán constar por escrito, después de su emisión oral, los siguientes:
+Los autos y resoluciones del [Órgano jurisdiccional](articulo-3o.md) serán emitidos oralmente y surtirán sus efectos a más tardar al día siguiente. Deberán constar por escrito, después de su emisión oral, los siguientes:
 
 I. Las que resuelven sobre providencias precautorias;
 

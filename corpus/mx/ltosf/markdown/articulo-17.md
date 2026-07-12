@@ -15,13 +15,13 @@ source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667
 
 # Artículo 17
 
-A las Entidades les estará prohibido llevar a cabo prácticas discriminatorias.
+A las [Entidades](articulo-3.md) les estará prohibido llevar a cabo prácticas discriminatorias.
 
 Para los efectos de esta Ley se considerarán prácticas discriminatorias:
 
-I. Los actos que se realicen para no permitir la celebración de operaciones a Clientes de determinadas Entidades;
+I. Los actos que se realicen para no permitir la celebración de operaciones a [Clientes](articulo-3.md) de determinadas Entidades;
 
-II. El cobro de Comisiones distintas en virtud del emisor del Medio de Disposición correspondiente, y
+II. El cobro de [Comisiones](articulo-3.md) distintas en virtud del emisor del [Medio de Disposición](articulo-3.md) correspondiente, y
 
 III. Los actos que se realicen para no permitir a sus Clientes utilizar la infraestructura de otras Entidades, o desalentar su uso.
 

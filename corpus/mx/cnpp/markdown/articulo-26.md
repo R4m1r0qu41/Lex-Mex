@@ -17,9 +17,9 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 26
 
-Reglas de incompetencia Para la decisión de la incompetencia se observarán las siguientes reglas: I. Las que se susciten entre Órganos jurisdiccionales de la Federación se decidirán a favor del que haya prevenido, conforme a las reglas previstas en este Código y en la Ley Orgánica del Poder Judicial de la Federación y si hay dos o más competentes, a favor del que haya prevenido;
+Reglas de incompetencia Para la decisión de la incompetencia se observarán las siguientes reglas: I. Las que se susciten entre [Órganos jurisdiccionales](articulo-3o.md) de la Federación se decidirán a favor del que haya prevenido, conforme a las reglas previstas en este [Código](articulo-3o.md) y en la [Ley Orgánica](articulo-3o.md) del Poder Judicial de la Federación y si hay dos o más competentes, a favor del que haya prevenido;
 
-II. Las que se susciten entre los Órganos jurisdiccionales de una misma Entidad federativa se decidirán conforme a las reglas previstas en este Código y en la Ley Orgánica aplicable, y si hay dos o más competentes a favor del que haya prevenido, o
+II. Las que se susciten entre los Órganos jurisdiccionales de una misma [Entidad federativa](articulo-3o.md) se decidirán conforme a las reglas previstas en este Código y en la Ley Orgánica aplicable, y si hay dos o más competentes a favor del que haya prevenido, o
 
 III. Las que se susciten entre la Federación y una o más Entidades federativas o entre dos o más Entidades federativas entre sí, se decidirán por el Poder Judicial Federal en los términos de su Ley Orgánica.
 

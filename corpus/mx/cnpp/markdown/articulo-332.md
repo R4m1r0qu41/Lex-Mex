@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 332
 
-Reapertura del proceso al cesar la causal de suspensión A solicitud del Ministerio Público o de cualquiera de los que intervienen en el proceso, el Juez de control podrá decretar la reapertura del mismo cuando cese la causa que haya motivado la suspensión.
+Reapertura del proceso al cesar la causal de suspensión A solicitud del [Ministerio Público](articulo-3o.md) o de cualquiera de los que intervienen en el proceso, el [Juez de control](articulo-3o.md) podrá decretar la reapertura del mismo cuando cese la causa que haya motivado la suspensión.

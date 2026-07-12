@@ -17,9 +17,9 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 345
 
-Acuerdos probatorios Los acuerdos probatorios son aquellos celebrados entre el Ministerio Público y el acusado, sin oposición fundada de la víctima u ofendido, para aceptar como probados alguno o algunos de los hechos o sus circunstancias.
+Acuerdos probatorios Los acuerdos probatorios son aquellos celebrados entre el [Ministerio Público](articulo-3o.md) y el acusado, sin oposición fundada de la víctima u ofendido, para aceptar como probados alguno o algunos de los hechos o sus circunstancias.
 
-Si la víctima u ofendido se opusieren, el Juez de control determinará si es fundada y motivada la oposición, de lo contrario el Ministerio Público podrá realizar el acuerdo probatorio.
+Si la víctima u ofendido se opusieren, el [Juez de control](articulo-3o.md) determinará si es fundada y motivada la oposición, de lo contrario el Ministerio Público podrá realizar el acuerdo probatorio.
 
 El Juez de control autorizará el acuerdo probatorio, siempre que lo considere justificado por existir antecedentes de la investigación con los que se acredite el hecho.
 

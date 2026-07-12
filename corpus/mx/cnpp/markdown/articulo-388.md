@@ -17,4 +17,4 @@ source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
 
 # Artículo 388
 
-Otras pruebas Además de las previstas en este Código, podrán utilizarse otras pruebas cuando no se afecten los derechos fundamentales.
+Otras pruebas Además de las previstas en este [Código](articulo-3o.md), podrán utilizarse otras pruebas cuando no se afecten los derechos fundamentales.
