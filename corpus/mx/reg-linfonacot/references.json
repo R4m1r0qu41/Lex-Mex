@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:30:reference:94-111:29:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:30",
+    "source_span": "artículo anterior",
+    "start_char": 94,
+    "end_char": 111,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:29",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:36:reference:44-61:35:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:36",
+    "source_span": "artículo anterior",
+    "start_char": 44,
+    "end_char": 61,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:35",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

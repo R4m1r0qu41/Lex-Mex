@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:statute:lsar:article:96
+instrument_id: urn:lex-mx:federal:statute:lsar
+instrument: LSAR
+name: "Ley de los Sistemas de Ahorro para el Retiro"
+provision_type: article
+number: "96"
+aliases: ["LSAR — Artículo 96"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
+source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
+---
+
+> Capítulo V
+
+# Artículo 96
+
+Cuando se encuentre que alguna operación de las personas sujetas a la supervisión de la Comisión, no está realizada en los términos de las disposiciones normativas aplicables, el Presidente de la Comisión dictará las medidas necesarias para regularizarlas, señalando un plazo para tal efecto.
+
+Si transcurrido el plazo fijado, la persona de que se trate no ha regularizado las operaciones en cuestión, el Presidente comunicará tal situación a la Junta de Gobierno, con objeto de que aquélla tome las medidas pertinentes. Sin perjuicio de la aplicación de las sanciones que resulten procedentes, en los supuestos previstos por esta ley, la Junta de Gobierno, podrá disponer que se intervenga administrativamente a la persona de que se trate, a fin de normalizar las operaciones que se hayan considerado irregulares. La intervención administrativa se llevará a cabo directamente por el interventor, quien realizará los actos necesarios para cumplir los objetivos que se señalen en el acuerdo correspondiente, en los términos del Reglamento de esta Ley.

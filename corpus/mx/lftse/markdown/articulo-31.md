@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lftse:article:31
+instrument_id: urn:lex-mx:federal:statute:lftse
+instrument: LFTSE
+name: "Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional"
+provision_type: article
+number: "31"
+aliases: ["LFTSE — Artículo 31"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf
+source_sha256: 2055ea67ac6fb6642ef90d1970e8ebf9870a0cb40c71930aa99d12dd446870fe
+---
+
+> Título SEGUNDO · Capítulo II
+
+# Artículo 31
+
+Durante las horas de jornada legal, los trabajadores tendrán obligación de desarrollar las actividades cívicas y deportivas que fueren compatibles con sus aptitudes, edad y condición de salud, cuando así lo disponga el titular de la dependencia respectiva.

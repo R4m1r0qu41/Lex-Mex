@@ -1,0 +1,18 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lncm:article:296
+instrument_id: urn:lex-mx:federal:regulation:reg-lncm
+instrument: REG-LNCM
+name: "Reglamento de la Ley de Navegación y Comercio Marítimos"
+provision_type: article
+number: "296"
+aliases: ["REG-LNCM — Artículo 296"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
+source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
+---
+
+# Artículo 296
+
+Las visitas practicadas durante la puesta en seco, [Inspección Submarina](articulo-10.md), reparación, mantenimiento o modificación de una Embarcación o Artefacto Naval, serán las necesarias para verificar el avance y conclusión de cada concepto, supervisar y ordenar las pruebas pertinentes y aprobar todo trabajo ejecutado.

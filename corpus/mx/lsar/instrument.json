@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lsar",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de los Sistemas de Ahorro para el Retiro",
+  "short_name": "LSAR",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1996-05-23",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-12T08:06:46.470738Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf",
+  "source_sha256": "02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1",
+  "extracted_text_sha256": "78c3f03cd9766826a2dec30e160796bb835d65345303e9e07deee2cdee02bba9",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

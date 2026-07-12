@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lss:term:cuenta-individual",
+    "term": "Cuenta individual",
+    "instrument_id": "urn:lex-mx:federal:statute:lss",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lss:article:159",
+    "fraction": "I",
+    "start_char": 45,
+    "end_char": 745,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lss:term:individualizar",
+    "term": "Individualizar",
+    "instrument_id": "urn:lex-mx:federal:statute:lss",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lss:article:159",
+    "fraction": "II",
+    "start_char": 745,
+    "end_char": 987,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lss:term:pension",
+    "term": "Pensión",
+    "instrument_id": "urn:lex-mx:federal:statute:lss",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lss:article:159",
+    "fraction": "III",
+    "start_char": 987,
+    "end_char": 1045,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lss:term:renta-vitalicia",
+    "term": "Renta vitalicia",
+    "instrument_id": "urn:lex-mx:federal:statute:lss",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lss:article:159",
+    "fraction": "IV",
+    "start_char": 1045,
+    "end_char": 1302,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lss:term:retiros-programados",
+    "term": "Retiros programados",
+    "instrument_id": "urn:lex-mx:federal:statute:lss",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lss:article:159",
+    "fraction": "V",
+    "start_char": 1302,
+    "end_char": 1601,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lss:term:seguro-de-sobreviviencia",
+    "term": "Seguro de sobreviviencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lss",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lss:article:159",
+    "fraction": "VI",
+    "start_char": 1601,
+    "end_char": 2124,
+    "basis": "express_definition"
+  }
+]

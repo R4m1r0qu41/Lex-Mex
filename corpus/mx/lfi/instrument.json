@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfi",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Fondos de Inversión",
+  "short_name": "LFI",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2001-06-04",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-12T08:06:28.597825Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf",
+  "source_sha256": "77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d",
+  "extracted_text_sha256": "83e9b4f69b6eb8d5a89e9cdd5290b89e0b665d5121e23020f25dd5f8de80d722",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

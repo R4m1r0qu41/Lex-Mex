@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-msi",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MSI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MSI.pdf",
+  "retrieved_at": "2026-07-12T08:03:53.013501Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 290732,
+  "etag": "\"46fac-563b4879c8c00\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:04 GMT",
+  "source_sha256": "44746db892329cfe37f9f1642d6e385f18c3ecade102b2742aa5c7bf67168dc7",
+  "extracted_text_sha256": "ca2fe60561e36b6664fb802f5404b3a3907c855325298659c44db85cd3bf7da5",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

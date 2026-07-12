@@ -1,0 +1,76 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcpq:article:18:reference:194-195:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfcpq:article:18",
+    "source_span": "7",
+    "start_char": 194,
+    "end_char": 195,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfcpq",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfcpq:article:7",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcpq:article:5:reference:90-107:4:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfcpq:article:5",
+    "source_span": "artículo anterior",
+    "start_char": 90,
+    "end_char": 107,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfcpq",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfcpq:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcpq:article:5:reference:665-667:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfcpq:article:5",
+    "source_span": "VI",
+    "start_char": 665,
+    "end_char": 667,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfcpq",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfcpq:article:5",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "VI",
+        "start_char": 665,
+        "end_char": 667
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfcpq:article:5:reference:1960-1962:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfcpq:article:5",
+    "source_span": "II",
+    "start_char": 1960,
+    "end_char": 1962,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfcpq",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfcpq:article:5",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1960,
+        "end_char": 1962
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

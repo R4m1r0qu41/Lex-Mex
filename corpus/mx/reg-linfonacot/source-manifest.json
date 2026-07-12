@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonacot",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIFNCT.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIFNCT.pdf",
+  "retrieved_at": "2026-07-12T08:00:44.586681Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 130007,
+  "etag": "\"1fbd7-563b487d99500\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:08 GMT",
+  "source_sha256": "1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd",
+  "extracted_text_sha256": "570306b441749e719cda79cf050a5f285b36cb90855929e50af0cf30dfe17a8d",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

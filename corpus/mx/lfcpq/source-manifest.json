@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfcpq",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPQ.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpq.htm",
+  "retrieved_at": "2026-07-12T07:59:07.739063Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 457273,
+  "etag": "\"6fa39-5fd085c520c80\"",
+  "last_modified": "Thu, 01 Jun 2023 02:40:34 GMT",
+  "source_sha256": "39d132d9b54587ce0636972dfe474936d152717e7d656864e160a637347628c6",
+  "extracted_text_sha256": "c9343469045ca05011ffad87f3cdfc0330c779c1839ac5aa5eba47ce13d1c2db",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

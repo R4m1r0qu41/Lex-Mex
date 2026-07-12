@@ -1,0 +1,123 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:term:ciencia-medica",
+    "term": "Ciencia médica",
+    "instrument_id": "urn:lex-mx:federal:statute:lins",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 461,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:term:ensenanza-en-salud",
+    "term": "Enseñanza en salud",
+    "instrument_id": "urn:lex-mx:federal:statute:lins",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "fraction": "II",
+    "start_char": 461,
+    "end_char": 673,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "term": "Institutos Nacionales de Salud",
+    "instrument_id": "urn:lex-mx:federal:statute:lins",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "fraction": "III",
+    "start_char": 673,
+    "end_char": 1139,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:term:investigacion-en-salud",
+    "term": "Investigación en salud",
+    "instrument_id": "urn:lex-mx:federal:statute:lins",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "fraction": "IV",
+    "start_char": 1139,
+    "end_char": 1370,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:term:investigacion-aplicada-en-salud",
+    "term": "Investigación aplicada en salud",
+    "instrument_id": "urn:lex-mx:federal:statute:lins",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "fraction": "V",
+    "start_char": 1370,
+    "end_char": 1524,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:term:investigacion-basica-en-salud",
+    "term": "Investigación básica en salud",
+    "instrument_id": "urn:lex-mx:federal:statute:lins",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "fraction": "VI",
+    "start_char": 1524,
+    "end_char": 1750,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:term:investigador",
+    "term": "Investigador",
+    "instrument_id": "urn:lex-mx:federal:statute:lins",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "fraction": "VII",
+    "start_char": 1750,
+    "end_char": 1933,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:term:recursos-autogenerados",
+    "term": "Recursos autogenerados",
+    "instrument_id": "urn:lex-mx:federal:statute:lins",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "fraction": "VIII",
+    "start_char": 1933,
+    "end_char": 2119,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:term:recursos-de-terceros",
+    "term": "Recursos de terceros",
+    "instrument_id": "urn:lex-mx:federal:statute:lins",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "fraction": "IX",
+    "start_char": 2119,
+    "end_char": 2424,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:term:recursos-de-origen-externo",
+    "term": "Recursos de origen externo",
+    "instrument_id": "urn:lex-mx:federal:statute:lins",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "fraction": "X",
+    "start_char": 2424,
+    "end_char": 2709,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lins",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "fraction": "XI",
+    "start_char": 2709,
+    "end_char": 2772,
+    "basis": "express_definition"
+  }
+]

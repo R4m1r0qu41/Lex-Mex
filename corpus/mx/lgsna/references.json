@@ -1,0 +1,61 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:35:reference:1075-1076:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
+    "source_span": "9",
+    "start_char": 1075,
+    "end_char": 1076,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsna:article:9",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 1051,
+        "end_char": 1061
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:38:reference:52-69:37:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgsna:article:38",
+    "source_span": "artículo anterior",
+    "start_char": 52,
+    "end_char": 69,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsna:article:37",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:39:reference:262-264:37:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgsna:article:39",
+    "source_span": "37",
+    "start_char": 262,
+    "end_char": 264,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsna:article:37",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones III y IV",
+        "start_char": 229,
+        "end_char": 248
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

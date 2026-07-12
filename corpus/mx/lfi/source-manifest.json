@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfi",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfi.htm",
+  "retrieved_at": "2026-07-12T08:06:28.597825Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1139853,
+  "etag": "\"11648d-64485ec3ca340\"",
+  "last_modified": "Wed, 26 Nov 2025 21:17:25 GMT",
+  "source_sha256": "77803c3f514e6a7a38f7ba62406995aeff9391b89b8781fc5a30ed6a3c3f5d5d",
+  "extracted_text_sha256": "83e9b4f69b6eb8d5a89e9cdd5290b89e0b665d5121e23020f25dd5f8de80d722",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

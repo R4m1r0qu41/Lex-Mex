@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgs",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgs.htm",
+  "retrieved_at": "2026-07-12T08:03:40.916468Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 3286114,
+  "etag": "\"322462-64b34298182c0\"",
+  "last_modified": "Thu, 19 Feb 2026 21:41:07 GMT",
+  "source_sha256": "a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c",
+  "extracted_text_sha256": "5d031a2b364fb102fe07eb512f9abb1825eba626a97b21e47b243ecd18cb872e",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

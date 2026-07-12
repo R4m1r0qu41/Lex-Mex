@@ -1,0 +1,211 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:almacenamiento-de-residuos-peligrosos",
+    "term": "Almacenamiento de residuos peligrosos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "I",
+    "start_char": 241,
+    "end_char": 578,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:acopio",
+    "term": "Acopio",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "II",
+    "start_char": 578,
+    "end_char": 1092,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:cadena-de-custodia",
+    "term": "Cadena de custodia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "III",
+    "start_char": 1092,
+    "end_char": 1332,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:cedula-de-operacion-anual",
+    "term": "Cédula de operación anual",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "IV",
+    "start_char": 1332,
+    "end_char": 1640,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:centro-de-acopio-de-residuos-peligrosos",
+    "term": "Centro de acopio de residuos peligrosos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "V",
+    "start_char": 1640,
+    "end_char": 1992,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:condiciones-particulares-de-manejo",
+    "term": "Condiciones Particulares de Manejo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "VI",
+    "start_char": 1992,
+    "end_char": 2206,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:confinamiento-controlado",
+    "term": "Confinamiento controlado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "VII",
+    "start_char": 2206,
+    "end_char": 2307,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:confinamiento-en-formaciones-geologicamente-estables",
+    "term": "Confinamiento en formaciones geológicamente estables",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "VIII",
+    "start_char": 2307,
+    "end_char": 2580,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:diagnostico-basico-para-la-gestion-integral-de-los-residuos",
+    "term": "Diagnóstico Básico para la Gestión Integral de los Residuos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "IX",
+    "start_char": 2580,
+    "end_char": 2892,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:instalaciones",
+    "term": "Instalaciones",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "X",
+    "start_char": 2892,
+    "end_char": 3252,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:inventario-nacional-de-sitios-contaminados",
+    "term": "Inventario Nacional de Sitios Contaminados",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "XI",
+    "start_char": 3252,
+    "end_char": 3427,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:jales",
+    "term": "Jales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "XII",
+    "start_char": 3427,
+    "end_char": 3532,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "XIII",
+    "start_char": 3532,
+    "end_char": 3614,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:liberacion-de-residuos-peligrosos",
+    "term": "Liberación de residuos peligrosos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "XIV",
+    "start_char": 3614,
+    "end_char": 4183,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:procuraduria",
+    "term": "Procuraduría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "XVI",
+    "start_char": 4183,
+    "end_char": 4254,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:recoleccion",
+    "term": "Recolección",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "XVII",
+    "start_char": 4254,
+    "end_char": 4391,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "XVIII",
+    "start_char": 4391,
+    "end_char": 4498,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:relleno-sanitario",
+    "term": "Relleno sanitario",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "XIX",
+    "start_char": 4498,
+    "end_char": 4624,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:utm",
+    "term": "UTM",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "fraction": "XX",
+    "start_char": 4624,
+    "end_char": 4783,
+    "basis": "express_definition"
+  }
+]

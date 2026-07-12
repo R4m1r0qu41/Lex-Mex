@@ -1,0 +1,34 @@
+---
+id: urn:lex-mx:federal:statute:lapp:article:24
+instrument_id: urn:lex-mx:federal:statute:lapp
+instrument: LAPP
+name: "Ley de Asociaciones Público Privadas"
+provision_type: article
+number: "24"
+aliases: ["LAPP — Artículo 24"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf
+source_sha256: a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf
+---
+
+# Artículo 24
+
+El gasto público federal que, en su caso, sea necesario para el desarrollo de un proyecto de los previstos en la presente [Ley](articulo-12.md), se ajustará a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, al Presupuesto de Egresos de la Federación y demás disposiciones jurídicas aplicables.
+
+Para determinar los compromisos presupuestarios futuros que en su caso llegaren a originar los proyectos de asociación público-privada, se deberán tomar en consideración los proyectos que se prevea iniciar en el ejercicio fiscal correspondiente, aquéllos que ya hubieran iniciado algún procedimiento de contratación y los proyectos que ya estén en operación. Dichos compromisos serán acordes con las posibilidades agregadas de gasto y de financiamiento del sector público federal.
+
+Para efectos del párrafo anterior, la Secretaría de Hacienda y Crédito Público, con base en las proyecciones macroeconómicas utilizadas en la programación y los requerimientos financieros del sector público y, de acuerdo a la metodología que establezca, elaborará una estimación del monto máximo anual del gasto programable para los proyectos de asociaciones público-privadas, a fin de atender los compromisos de pago requeridos, tanto de los nuevos proyectos que pretendan iniciar las dependencias o entidades durante el siguiente ejercicio fiscal, como de aquéllos ya autorizados.
+
+Para efectos del artículo 41 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el proyecto de Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente además de contener lo previsto en dicho artículo, incluirá los proyectos de asociaciones público-privadas autorizados por la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación en los términos del quinto párrafo de este artículo, así como la estimación del monto máximo anual del gasto programable para los proyectos de asociaciones público-privadas a que se refiere el párrafo anterior.
+
+Cuando se pretendan realizar nuevos proyectos de asociación público-privada, así como cambios sobre el alcance de los proyectos previamente autorizados y, dichos proyectos involucren recursos del Presupuesto de Egresos de la Federación, serán analizados y, en su caso, autorizados durante el ejercicio fiscal de que se trate, por la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación, la cual deberá ajustarse al monto máximo anual del gasto programable aprobado por la Cámara de Diputados.
+
+El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, remitirá los proyectos a que se refiere el párrafo anterior a la Cámara de Diputados para someterlos a la consideración de la Comisión de Presupuesto y Cuenta Pública, la cual deberá emitir resolución en un plazo no mayor a treinta días naturales contado a partir de recibida la información, en caso de que dicha Comisión no resuelva en el plazo señalado dichos proyectos se entenderán por aprobados.
+
+El proyecto de Presupuesto de Egresos de la Federación de cada ejercicio fiscal deberá prever, en un capítulo específico y por sector, los compromisos plurianuales de gasto que deriven de los proyectos de asociación público-privada aprobados en ejercicios fiscales anteriores, así como los proyectos que hayan sido aprobados por la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación a la fecha de presentación del proyecto de Presupuesto de Egresos de la Federación, los cuales no podrán exceder la estimación sobre el monto máximo anual del gasto programable propuesto. La información a que se refiere este párrafo deberá considerar la descripción de cada uno de los proyectos, montos erogados acumulados conforme a las proyecciones y estimaciones correspondientes, avance en la ejecución y calendario, así como el monto de los pagos anuales comprometidos en el caso de aquellos proyectos que hayan sido contratados.
+
+En los informes trimestrales que el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, presente al Congreso de la Unión, se deberán señalar los montos asignados para la etapa de preparación de los proyectos de asociación público-privada, así como los proyectos autorizados por la Comisión Intersecretarial de Gasto Público, Financiamiento y Desincorporación durante el periodo que se reporta y aquellos en proceso de revisión, incluyendo su descripción, monto total de inversión y dependencia o entidad contratante. La información antes mencionada será turnada a la Comisión respectiva de la Cámara de Diputados.
+
+Artículo reformado DOF 21-04-2016

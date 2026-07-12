@@ -1,0 +1,23 @@
+{
+  "slug": "lgtrata",
+  "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos",
+  "short_name": "LGTRATA",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpsedmtp.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2012-06-14",
+  "expected_min_articles": 126,
+  "expected_articles": 126,
+  "expected_transitories": 14,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T07:59:00Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

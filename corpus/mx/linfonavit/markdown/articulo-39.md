@@ -1,0 +1,28 @@
+---
+id: urn:lex-mx:federal:statute:linfonavit:article:39
+instrument_id: urn:lex-mx:federal:statute:linfonavit
+instrument: LINFONAVIT
+name: "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores"
+provision_type: article
+number: "39"
+aliases: ["LINFONAVIT — Artículo 39"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf
+source_sha256: 9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912
+---
+
+# Artículo 39
+
+Las subcuentas de vivienda recibirán intereses en función del remanente de operación del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+Al cierre de cada ejercicio, la Administración presentará para aprobación del Consejo de Administración la determinación de los ingresos y egresos, así como el cálculo de las reservas, los recursos que deban destinarse para preservar el patrimonio, y el remanente de operación resultante de restar a los ingresos los demás conceptos señalados.
+
+El Consejo de Administración deberá procurar que la tasa de interés que apruebe anualmente permita conservar el poder adquisitivo de los ahorros de las personas derechohabientes acumulados en las subcuentas de vivienda.
+
+Una vez aprobado el remanente de operación del Instituto por el Consejo de Administración en los términos del párrafo anterior, procederá a aprobar la tasa de interés que deberá pagarse anualmente a las subcuentas de vivienda, procurando que permita conservar el poder adquisitivo de los ahorros de las personas derechohabientes, la cual deberá enterarse a más tardar en el mes de marzo de cada año.
+
+El Consejo de Administración podrá emitir disposiciones de carácter general que deberá publicar en el Diario Oficial de la Federación y en el portal de Internet del Instituto a efecto de establecer parámetros y mecanismos para la individualización diferenciada de los intereses a las subcuentas de vivienda de las personas derechohabientes, previendo, al menos, el otorgamiento de un mayor interés a los trabajadores con cincuenta y cinco años de edad en adelante.
+
+Artículo reformado DOF 24-02-1992, 06-01-1997, 01-06-2005, 27-04-2016, 30-04-2024

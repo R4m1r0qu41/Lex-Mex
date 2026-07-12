@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgpgir",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General para la Prevención y Gestión Integral de los Residuos",
+  "short_name": "REG-LGPGIR",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-11-30",
+  "latest_reform_date": "2014-10-31",
+  "retrieved_at": "2026-07-12T08:01:18.936703Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPGIR_311014.pdf",
+  "source_sha256": "ef64bacccac32c63c214d59f4860251db0365fc125840a6504c195288077888c",
+  "extracted_text_sha256": "5a9e500a65a9360841c5502730b79fa45bfaede10c91be6c5a10f9727c142a7d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

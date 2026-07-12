@@ -1,0 +1,12 @@
+[
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgmsv:amendment:2023-12-29:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2023-12-29",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lgmsv:amendment:2023-12-29:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2023-12-29",
+    "text": "A la entrada en vigor del presente Decreto, los Congresos de las Entidades Federativas contarán con un plazo de 90 días naturales para realizar las adecuaciones a su normatividad correspondiente."
+  }
+]

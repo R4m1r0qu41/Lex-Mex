@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgs",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Salud",
+  "short_name": "LGS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1984-02-07",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T08:03:40.916468Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf",
+  "source_sha256": "a2d3f947b369e4383f2f27a4e9bd819a3dba768ab9bae527e6388e30c1f9e06c",
+  "extracted_text_sha256": "5d031a2b364fb102fe07eb512f9abb1825eba626a97b21e47b243ecd18cb872e",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

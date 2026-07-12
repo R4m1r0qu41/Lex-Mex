@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcpq",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCPrecQuim.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCPrecQuim.pdf",
+  "retrieved_at": "2026-07-12T07:59:10.195981Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 208598,
+  "etag": "\"32ed6-563b487d99500\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:08 GMT",
+  "source_sha256": "3c0720d560455df51ca882a37390cd0fe017d1987853b8358e37d5195f718055",
+  "extracted_text_sha256": "2681c3a5e853ddad2265937751e1450e5fc6758a84522df2a8aebc91a3506500",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

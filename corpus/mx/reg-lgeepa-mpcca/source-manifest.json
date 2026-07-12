@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MPCCA_311014.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MPCCA_311014.pdf",
+  "retrieved_at": "2026-07-12T08:00:57.722575Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 339432,
+  "etag": "\"52de8-563b4878d49c0\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:03 GMT",
+  "source_sha256": "cf47ab93fdea40d2b3e41b58784df62f89dd90b4482dd3b7f25adc7f6957036b",
+  "extracted_text_sha256": "2d07c05dbdabce7baa05d40a9ad4e314a5ecf3ee669ef4d115bd01a2e14d5593",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

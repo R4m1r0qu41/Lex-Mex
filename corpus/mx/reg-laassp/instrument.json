@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-laassp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+  "short_name": "REG-LAASSP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-12-18",
+  "latest_reform_date": "2026-03-27",
+  "retrieved_at": "2026-07-12T07:59:28.269033Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAASSP.pdf",
+  "source_sha256": "940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b",
+  "extracted_text_sha256": "37185e6581704308dbff45bec1f57d507aacb614403d48bd8e09eefceac89a84",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

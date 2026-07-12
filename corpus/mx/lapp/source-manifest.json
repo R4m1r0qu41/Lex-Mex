@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lapp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAPP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lapp.htm",
+  "retrieved_at": "2026-07-12T07:59:34.567460Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 838399,
+  "etag": "\"ccaff-64472c6b560c0\"",
+  "last_modified": "Tue, 25 Nov 2025 22:26:51 GMT",
+  "source_sha256": "a4505a7bd41bc835f1def6fb030c42d8e74a2cc050d9c8fa08f91c9519e382bf",
+  "extracted_text_sha256": "516e892dcca7261f185be2eaeba0eb67d7b9413cce52b5663a989d9166a33a56",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

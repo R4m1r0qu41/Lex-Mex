@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgdfs",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Desarrollo Forestal Sustentable",
+  "short_name": "LGDFS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2018-06-05",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-07-12T08:01:26.076773Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDFS.pdf",
+  "source_sha256": "2c75fd0eab3245aed43a4e1230dcd142b48959a1df09bdd4e70684935a505dd4",
+  "extracted_text_sha256": "3b79181a04f75b2e0f7d147f9ef3279a2784ddd6a4709cc20fa9299e3fb854a4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lopsrm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Obras Públicas y Servicios Relacionados con las Mismas",
+  "short_name": "LOPSRM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2000-01-04",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-12T07:59:31.458237Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPSRM.pdf",
+  "source_sha256": "b760b87cb82b23955e149500a1a832a608029ca814f0653b1430f6948d33e9f5",
+  "extracted_text_sha256": "d0a57c112eba61fa5e01296f319b7a70ca6ef50892f362f25fe9739aa9e1c4dc",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

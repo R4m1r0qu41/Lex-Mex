@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Autorregulación y Auditorías Ambientales",
+  "short_name": "REG-LGEEPA-MAAA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2010-04-29",
+  "latest_reform_date": "2014-10-31",
+  "retrieved_at": "2026-07-12T08:01:00.460587Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MAAA_311014.pdf",
+  "source_sha256": "d50b44df321cf8be51375c07cee5dbcf03eac76df1cd11ab4bd777c9fce0f789",
+  "extracted_text_sha256": "d927c1c6dd3e308cb2e2bdade8964579bc446a9cf074bbb5f8d58d840b4ef342",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

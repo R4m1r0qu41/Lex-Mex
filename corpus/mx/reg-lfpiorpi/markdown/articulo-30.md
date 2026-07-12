@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lfpiorpi:article:30
+instrument_id: urn:lex-mx:federal:regulation:reg-lfpiorpi
+instrument: REG-LFPIORPI
+name: "Reglamento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita"
+provision_type: article
+number: "30"
+aliases: ["REG-LFPIORPI — Artículo 30"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPIORPI.pdf
+source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
+---
+
+> Capítulo CUARTO
+
+# Artículo 30
+
+Para el cumplimiento de las obligaciones derivadas de la Ley, el presente Reglamento y demás disposiciones que de estos emanen, las fracciones arancelarias que identifiquen las mercancías señaladas en la fracción XIV del artículo 17 de la Ley, serán especificadas en el formato oficial que para la presentación de Avisos determine y expida la UIF mediante publicación en el Diario Oficial de la Federación.

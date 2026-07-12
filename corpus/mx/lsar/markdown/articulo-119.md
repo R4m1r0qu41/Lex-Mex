@@ -1,0 +1,32 @@
+---
+id: urn:lex-mx:federal:statute:lsar:article:119
+instrument_id: urn:lex-mx:federal:statute:lsar
+instrument: LSAR
+name: "Ley de los Sistemas de Ahorro para el Retiro"
+provision_type: article
+number: "119"
+aliases: ["LSAR — Artículo 119"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
+source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
+---
+
+> Capítulo IX
+
+# Artículo 119
+
+Salvo que en las disposiciones específicas se establezca otro plazo, éste no podrá exceder de cuatro meses para que la Comisión resuelva lo que corresponda. Transcurrido el plazo aplicable, se entenderán las resoluciones en sentido positivo al promovente, a menos que en las disposiciones aplicables se prevea lo contrario. A petición del interesado, se deberá expedir constancia de tal circunstancia, dentro de los dos días hábiles siguientes a la presentación de la solicitud respectiva ante la Comisión, conforme al Reglamento Interior de ésta. De no expedirse la constancia mencionada dentro del plazo citado, se fincará, en su caso, la responsabilidad que resulte aplicable. Párrafo reformado DOF 11-01-2005
+
+Los requisitos de presentación y plazos, así como otra información relevante aplicables a las promociones que realicen los participantes en los sistemas de ahorro para el retiro, deberán precisarse en disposiciones de carácter general.
+
+Cuando el escrito inicial no contenga los datos o no cumpla con los requisitos previstos en las disposiciones aplicables, la Comisión deberá prevenir al interesado, por escrito y por una sola vez, para que dentro de un término que no podrá ser menor de diez días hábiles subsane la omisión. Salvo que en las disposiciones específicas se establezca otro plazo, dicha prevención deberá hacerse a más tardar dentro de la mitad del plazo de respuesta de la Comisión y, cuando éste no sea expreso, dentro de los veinte días hábiles siguientes a la presentación del escrito inicial.
+
+Notificada la prevención, se suspenderá el plazo para que la Comisión resuelva y se reanudará a partir del día hábil inmediato siguiente a aquél en que el interesado conteste. En el supuesto de que no se desahogue la prevención en el término señalado, la Comisión desechará el escrito inicial.
+
+Si la Comisión no hace el requerimiento de información dentro del plazo correspondiente, no podrá rechazar el escrito inicial por incompleto.
+
+Salvo disposición expresa en contrario, los plazos para que la Comisión conteste empezarán a correr el día hábil inmediato siguiente a la presentación del escrito correspondiente.
+
+Artículo adicionado DOF 10-12-2002

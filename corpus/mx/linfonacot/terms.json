@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "defining_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
+    "fraction": "II",
+    "start_char": 107,
+    "end_char": 157,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:term:distribuidores",
+    "term": "Distribuidores",
+    "instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "defining_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
+    "fraction": "III",
+    "start_char": 157,
+    "end_char": 321,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:term:fondo",
+    "term": "Fondo",
+    "instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "defining_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
+    "fraction": "IV",
+    "start_char": 321,
+    "end_char": 445,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "defining_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
+    "fraction": "V",
+    "start_char": 445,
+    "end_char": 566,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "defining_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
+    "fraction": "VI",
+    "start_char": 566,
+    "end_char": 653,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:term:recursos-del-fondo",
+    "term": "Recursos del Fondo",
+    "instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "defining_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
+    "fraction": "VII",
+    "start_char": 653,
+    "end_char": 858,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:term:secretaria-de-hacienda",
+    "term": "Secretaría de Hacienda",
+    "instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "defining_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
+    "fraction": "VIII",
+    "start_char": 858,
+    "end_char": 936,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:term:secretaria-del-trabajo",
+    "term": "Secretaría del Trabajo",
+    "instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "defining_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:4",
+    "fraction": "IX",
+    "start_char": 936,
+    "end_char": 1009,
+    "basis": "express_definition"
+  }
+]

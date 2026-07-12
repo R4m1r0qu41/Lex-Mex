@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores en Materia de Transparencia y Acceso a la Información",
+  "short_name": "REG-LINFONAVIT-MTAI",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2005-12-12",
+  "latest_reform_date": "2006-02-24",
+  "retrieved_at": "2026-07-12T08:00:19.118980Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LInfonavit_MTAI.pdf",
+  "source_sha256": "b52444aaf66a5f36e252e598494c117526e5d9737de08de41061168ea46addd9",
+  "extracted_text_sha256": "2e5e3dd92189d63b41f9077742f78831aaf2f25c850cd3ce5a7abe05a6a5e8a7",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

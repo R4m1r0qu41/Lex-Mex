@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgvs",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGVS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgvs.htm",
+  "retrieved_at": "2026-07-12T08:01:22.480921Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 772548,
+  "etag": "\"bc9c4-63a8ef85ee6c0\"",
+  "last_modified": "Wed, 23 Jul 2025 01:53:07 GMT",
+  "source_sha256": "b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911",
+  "extracted_text_sha256": "94850580551404979ede3f0e3bb5dedccd885fe5b204e9bf93d0052250aaffed",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

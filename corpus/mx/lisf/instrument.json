@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lisf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Instituciones de Seguros y de Fianzas",
+  "short_name": "LISF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2013-04-04",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-12T08:06:34.672398Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISF.pdf",
+  "source_sha256": "1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416",
+  "extracted_text_sha256": "e6c128840f6e079714bc300243af0999998dffc5a68c648e5b421e16aeb2ae4c",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

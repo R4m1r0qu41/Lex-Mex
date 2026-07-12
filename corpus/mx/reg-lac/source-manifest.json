@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf",
+  "retrieved_at": "2026-07-12T08:04:15.629478Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 993124,
+  "etag": "\"f2764-604b6943f4f80\"",
+  "last_modified": "Wed, 06 Sep 2023 20:27:58 GMT",
+  "source_sha256": "4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d",
+  "extracted_text_sha256": "423e80446bbb15196d70c7dc23c3958b941a7922512a8c0d0716fb5190821c7a",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

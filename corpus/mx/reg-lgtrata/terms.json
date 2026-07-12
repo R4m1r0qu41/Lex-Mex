@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "term": "Albergues",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "I",
+    "start_char": 128,
+    "end_char": 1001,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:atencion-medica-integral:-aquella-que-comprende-actividades-preventivas",
+    "term": "Atención Médica Integral: Aquella que comprende actividades preventivas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "III",
+    "start_char": 1001,
+    "end_char": 1201,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:lengua-de-senas-mexicana:-la-lengua-prevista-en-el-articulo-2",
+    "term": "Lengua de Señas Mexicana: La lengua prevista en el artículo 2",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "VIII",
+    "start_char": 1870,
+    "end_char": 2025,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:medios-electronicos:-mecanismos",
+    "term": "Medios Electrónicos: Mecanismos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "X",
+    "start_char": 2122,
+    "end_char": 2434,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:persona-con-discapacidad:-aquella-a-que-se-refiere-el-articulo-2",
+    "term": "Persona con Discapacidad: Aquella a que se refiere el artículo 2",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "XI",
+    "start_char": 2434,
+    "end_char": 2589,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:reglamento-interno:-el-reglamento-interno-de-la-comision-previsto-en-el-articulo-88",
+    "term": "Reglamento Interno: El Reglamento Interno de la Comisión previsto en el artículo 88",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:2",
+    "fraction": "XV",
+    "start_char": 3278,
+    "end_char": 3391,
+    "basis": "express_definition"
+  }
+]

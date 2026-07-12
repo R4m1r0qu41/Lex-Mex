@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos",
+  "short_name": "REG-LGTRATA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2013-09-23",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T07:59:02.188343Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSEDMTP.pdf",
+  "source_sha256": "1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694",
+  "extracted_text_sha256": "b7837fe18dae2e5216fb8ec5d4c92849796a38eeddb3cf26f9b8ef1f05cbe818",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

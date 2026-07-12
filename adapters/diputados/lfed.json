@@ -1,0 +1,23 @@
+{
+  "slug": "lfed",
+  "instrument_id": "urn:lex-mx:federal:statute:lfed",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Nacional de Extinción de Dominio",
+  "short_name": "LFED",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lned.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2019-08-09",
+  "expected_min_articles": 251,
+  "expected_articles": 251,
+  "expected_transitories": 12,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T07:59:06Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

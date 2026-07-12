@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lac",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Aviación Civil",
+  "short_name": "REG-LAC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1998-12-07",
+  "latest_reform_date": "2023-05-31",
+  "retrieved_at": "2026-07-12T08:04:15.629478Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf",
+  "source_sha256": "4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d",
+  "extracted_text_sha256": "423e80446bbb15196d70c7dc23c3958b941a7922512a8c0d0716fb5190821c7a",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

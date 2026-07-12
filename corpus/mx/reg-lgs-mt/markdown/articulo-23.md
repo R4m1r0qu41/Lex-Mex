@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lgs-mt:article:23
+instrument_id: urn:lex-mx:federal:regulation:reg-lgs-mt
+instrument: REG-LGS-MT
+name: "Reglamento de la Ley General de Salud en Materia de Trasplantes"
+provision_type: article
+number: "23"
+aliases: ["REG-LGS-MT — Artículo 23"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MT.pdf
+source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429
+---
+
+> Título TERCERO
+
+# Artículo 23
+
+Los profesionales de la salud encargados de la [Extracción de Órganos, Tejidos o células](articulo-2.md), deberán tratar con cuidado, respeto y dignidad al Cadáver, a fin de conservarlo y entregarlo en las mejores condiciones.

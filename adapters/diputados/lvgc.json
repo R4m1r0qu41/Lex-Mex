@@ -1,0 +1,23 @@
+{
+  "slug": "lvgc",
+  "instrument_id": "urn:lex-mx:federal:statute:lvgc",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Vías Generales de Comunicación",
+  "short_name": "LVGC",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVGC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvgc.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1940-02-19",
+  "expected_min_articles": 593,
+  "expected_articles": 593,
+  "expected_transitories": 13,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:04:51Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

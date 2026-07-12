@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:statute:lgtrata:article:108
+instrument_id: urn:lex-mx:federal:statute:lgtrata
+instrument: LGTRATA
+name: "Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos"
+provision_type: article
+number: "108"
+aliases: ["LGTRATA — Artículo 108"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSEDMTP.pdf
+source_sha256: 390299a89715d602b3ef07af9ef85aa09d456a2e1b6c7229da52e68434a1ed32
+---
+
+> Título SEGUNDO · Capítulo II
+
+# Artículo 108
+
+El Gobierno Federal y los gobiernos de las entidades federativas, en el marco de la Ley General de Desarrollo Social, llevarán a cabo programas de desarrollo local que deberán incluir acciones de asistencia, ayudas alimenticias, campañas de salud, educación, vivienda y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en aumentar el riesgo de victimización de los delitos previstos en esta Ley.
+
+Artículo reformado DOF 19-01-2018

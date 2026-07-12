@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCPAF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcpaf.htm",
+  "retrieved_at": "2026-07-12T08:04:08.387799Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 588718,
+  "etag": "\"8fbae-6451dc9118280\"",
+  "last_modified": "Thu, 04 Dec 2025 10:28:10 GMT",
+  "source_sha256": "9133f4bfc63f4f6ee32f3657ba4468c67b2eb9db46410ed893c85e693018a036",
+  "extracted_text_sha256": "fdb36a59176154584b66c94b7682d985630baec8f6b977927276826c7f27a024",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

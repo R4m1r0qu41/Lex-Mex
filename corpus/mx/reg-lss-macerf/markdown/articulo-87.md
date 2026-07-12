@@ -1,0 +1,28 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lss-macerf:article:87
+instrument_id: urn:lex-mx:federal:regulation:reg-lss-macerf
+instrument: REG-LSS-MACERF
+name: "Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización"
+provision_type: article
+number: "87"
+aliases: ["REG-LSS-MACERF — Artículo 87"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MACERF.pdf
+source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
+---
+
+> Título TERCERO · Capítulo I
+
+# Artículo 87
+
+Podrá darse por terminado anticipadamente el aseguramiento sin responsabilidad para el Instituto, cuando:
+
+I. El asegurado o beneficiario permita o propicie el uso indebido del documento que compruebe tal calidad.
+
+II. Si durante el primer año de vigencia del aseguramiento, se presenta alguna de las enfermedades señaladas como preexistentes y no hubiera sido declarada por el asegurado o beneficiario al momento de llenar el cuestionario respectivo, o por el asegurado en el caso del menor de edad o incapacitado.
+
+En el caso de las fracciones anteriores, el Instituto cobrará al asegurado o a la persona que sin derecho haya recibido la atención médica, el costo total por los servicios prestados.
+
+En ningún caso de terminación anticipada del periodo de aseguramiento, el Instituto hará devolución total o parcial del pago realizado.

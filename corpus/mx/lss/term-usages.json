@@ -1,0 +1,47 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lss:article:277-d:term-usage:1672-1681",
+    "provision_id": "urn:lex-mx:federal:statute:lss:article:277-d",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:pension",
+    "span": "Pensiones",
+    "start_char": 1672,
+    "end_char": 1681
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lss:article:286-k:term-usage:823-832",
+    "provision_id": "urn:lex-mx:federal:statute:lss:article:286-k",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:pension",
+    "span": "Pensiones",
+    "start_char": 823,
+    "end_char": 832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lss:article:286-k:term-usage:1146-1155",
+    "provision_id": "urn:lex-mx:federal:statute:lss:article:286-k",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:pension",
+    "span": "Pensiones",
+    "start_char": 1146,
+    "end_char": 1155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lss:article:302:term-usage:573-582",
+    "provision_id": "urn:lex-mx:federal:statute:lss:article:302",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:pension",
+    "span": "Pensiones",
+    "start_char": 573,
+    "end_char": 582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lss:article:302:term-usage:1078-1087",
+    "provision_id": "urn:lex-mx:federal:statute:lss:article:302",
+    "term_id": "urn:lex-mx:federal:statute:lss:term:pension",
+    "span": "Pensiones",
+    "start_char": 1078,
+    "end_char": 1087
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley del Seguro Social, en materia de administración y enajenación de bienes adjudicados con motivo de la aplicación del procedimiento administrativo de ejecución",
+  "short_name": "REG-LSS-MAEBA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-11-20",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T08:00:35.156683Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MAEBA.pdf",
+  "source_sha256": "9816ce7f9d6b9b1781eb9935869bd45677c60d721d3352865b6524c2e75db8cd",
+  "extracted_text_sha256": "d8e21cb98131b569cf9e08526d7f3d86b1eb3f7175059eef8aecf1cc88ff662e",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

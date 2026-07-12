@@ -1,0 +1,123 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lpue",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 203,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:term:puerto",
+    "term": "Puerto",
+    "instrument_id": "urn:lex-mx:federal:statute:lpue",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "fraction": "II",
+    "start_char": 203,
+    "end_char": 690,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:term:recinto-portuario",
+    "term": "Recinto portuario",
+    "instrument_id": "urn:lex-mx:federal:statute:lpue",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "fraction": "III",
+    "start_char": 690,
+    "end_char": 1031,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:term:terminal",
+    "term": "Terminal",
+    "instrument_id": "urn:lex-mx:federal:statute:lpue",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "fraction": "IV",
+    "start_char": 1031,
+    "end_char": 1252,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:term:marina",
+    "term": "Marina",
+    "instrument_id": "urn:lex-mx:federal:statute:lpue",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "fraction": "V",
+    "start_char": 1252,
+    "end_char": 1481,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:term:instalaciones-portuarias",
+    "term": "Instalaciones portuarias",
+    "instrument_id": "urn:lex-mx:federal:statute:lpue",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "fraction": "VI",
+    "start_char": 1481,
+    "end_char": 1755,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:term:servicios-portuarios",
+    "term": "Servicios portuarios",
+    "instrument_id": "urn:lex-mx:federal:statute:lpue",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "fraction": "VII",
+    "start_char": 1755,
+    "end_char": 2023,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:term:zona-de-desarrollo-portuario",
+    "term": "Zona de desarrollo portuario",
+    "instrument_id": "urn:lex-mx:federal:statute:lpue",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "fraction": "VIII",
+    "start_char": 2023,
+    "end_char": 2385,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:term:administrador-portuario",
+    "term": "Administrador portuario",
+    "instrument_id": "urn:lex-mx:federal:statute:lpue",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "fraction": "IX",
+    "start_char": 2385,
+    "end_char": 2486,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:term:cumar",
+    "term": "CUMAR",
+    "instrument_id": "urn:lex-mx:federal:statute:lpue",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "fraction": "X",
+    "start_char": 2486,
+    "end_char": 2593,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:term:proteccion-maritima-y-portuaria",
+    "term": "Protección Marítima y Portuaria",
+    "instrument_id": "urn:lex-mx:federal:statute:lpue",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "fraction": "XI",
+    "start_char": 2593,
+    "end_char": 2989,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "slug": "lgpgir",
+  "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General para la Prevención y Gestión Integral de los Residuos",
+  "short_name": "LGPGIR",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPGIR.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpgir.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2003-10-08",
+  "expected_min_articles": 126,
+  "expected_articles": 126,
+  "expected_transitories": 13,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:01:16Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

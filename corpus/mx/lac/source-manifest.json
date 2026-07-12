@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lac",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lac.htm",
+  "retrieved_at": "2026-07-12T08:04:12.077482Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 983109,
+  "etag": "\"f0045-6451d3a323140\"",
+  "last_modified": "Thu, 04 Dec 2025 09:48:13 GMT",
+  "source_sha256": "07199878c4f94748c983998437198eb7c645ad76967c444dfe26d50a535d23ae",
+  "extracted_text_sha256": "7c7e222be1684bbf0998e2d8f08edd940625f6aba4579b35d68283b2bbb4f0e2",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

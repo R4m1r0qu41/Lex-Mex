@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Registro de Emisiones y Transferencia de Contaminantes",
+  "short_name": "REG-LGEEPA-MRETC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2004-06-03",
+  "latest_reform_date": "2014-10-31",
+  "retrieved_at": "2026-07-12T08:01:03.209956Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311014.pdf",
+  "source_sha256": "71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424",
+  "extracted_text_sha256": "b4dedf046312cf1a5c7e44ab44caba93baf0cb1a7ecf84eaa54deba7ab28e1f1",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

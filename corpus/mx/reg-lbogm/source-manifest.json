@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBOGM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBOGM.pdf",
+  "retrieved_at": "2026-07-12T08:01:36.847363Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 341533,
+  "etag": "\"5361d-563b4877e0780\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:02 GMT",
+  "source_sha256": "667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041",
+  "extracted_text_sha256": "8cff1dd25616939e507e6349b512319f23e733c40938be0f870472895949c379",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

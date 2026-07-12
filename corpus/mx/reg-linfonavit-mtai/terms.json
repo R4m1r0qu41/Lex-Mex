@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "term": "INFONAVIT",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "fraction": "I",
+    "start_char": 129,
+    "end_char": 214,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:ifai",
+    "term": "IFAI",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "fraction": "II",
+    "start_char": 214,
+    "end_char": 282,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:normatividad-del-infonavit",
+    "term": "Normatividad del INFONAVIT",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "fraction": "III",
+    "start_char": 282,
+    "end_char": 549,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:comite-de-transparencia-y-acceso-a-la-informacion-del-infonavit",
+    "term": "Comité de Transparencia y Acceso a la Información del INFONAVIT",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "fraction": "V",
+    "start_char": 597,
+    "end_char": 835,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:contraloria-interna",
+    "term": "Contraloría Interna",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "fraction": "VI",
+    "start_char": 835,
+    "end_char": 899,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "fraction": "VII",
+    "start_char": 899,
+    "end_char": 1379,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:solicitante",
+    "term": "Solicitante",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "fraction": "IX",
+    "start_char": 1379,
+    "end_char": 1541,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:sistemas-de-solicitudes-de-informacion",
+    "term": "Sistemas de Solicitudes de Información",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "fraction": "X",
+    "start_char": 1541,
+    "end_char": 1938,
+    "basis": "express_definition"
+  }
+]

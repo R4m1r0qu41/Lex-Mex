@@ -1,0 +1,23 @@
+{
+  "slug": "reg-lgeepa-anp",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Áreas Naturales Protegidas",
+  "short_name": "REG-LGEEPA-ANP",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_ANP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_ANP.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2000-11-30",
+  "expected_min_articles": 149,
+  "expected_articles": 149,
+  "expected_transitories": 5,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:00:55Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

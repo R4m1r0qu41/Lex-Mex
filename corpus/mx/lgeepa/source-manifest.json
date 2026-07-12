@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgeepa",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgeepa.htm",
+  "retrieved_at": "2026-07-12T08:00:48.416525Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1357460,
+  "etag": "\"14b694-64b3636ebbc80\"",
+  "last_modified": "Fri, 20 Feb 2026 00:08:02 GMT",
+  "source_sha256": "0574853d06020030188e8aee1eae5dabb2b476ac630cc52be631a48d2b91adbc",
+  "extracted_text_sha256": "30e7ad597181a571d4730d4e8078b2edcf36bccb6d92b91984583b0c9603b1d1",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

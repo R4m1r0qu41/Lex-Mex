@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Salud en Materia de Publicidad",
+  "short_name": "REG-LGS-MP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2000-05-04",
+  "latest_reform_date": "2022-09-08",
+  "retrieved_at": "2026-07-12T08:03:49.503034Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MP.pdf",
+  "source_sha256": "0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003",
+  "extracted_text_sha256": "b51b5ddd245bec17fcd7fa5e99f85f6c1d06be475acba0c6df3521e46f355252",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

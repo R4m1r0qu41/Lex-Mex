@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf",
+  "retrieved_at": "2026-07-12T08:03:46.248352Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 553493,
+  "etag": "\"87215-563b487ca52c0\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:07 GMT",
+  "source_sha256": "f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b",
+  "extracted_text_sha256": "60646990a9a9540ca30102138531b6a9b8063d49388b85302bed71a5e804b25c",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

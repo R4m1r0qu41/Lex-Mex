@@ -1,0 +1,156 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "I",
+    "start_char": 44,
+    "end_char": 198,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:navegacion",
+    "term": "Navegación",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "II",
+    "start_char": 198,
+    "end_char": 350,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:comercio-maritimo",
+    "term": "Comercio Marítimo",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "III",
+    "start_char": 350,
+    "end_char": 781,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:artefacto-naval",
+    "term": "Artefacto Naval",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "V",
+    "start_char": 781,
+    "end_char": 1063,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:marina-mercante",
+    "term": "Marina Mercante",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "VI",
+    "start_char": 1063,
+    "end_char": 1263,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:contaminacion-marina",
+    "term": "Contaminación Marina",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "VII",
+    "start_char": 1263,
+    "end_char": 2194,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:propietario",
+    "term": "Propietario",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "VIII",
+    "start_char": 2194,
+    "end_char": 2362,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:naviero-o-empresa-naviera",
+    "term": "Naviero o empresa naviera",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "IX",
+    "start_char": 2362,
+    "end_char": 2794,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:operador",
+    "term": "Operador",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "X",
+    "start_char": 2794,
+    "end_char": 3073,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "term": "Tratados Internacionales",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "XI",
+    "start_char": 3073,
+    "end_char": 3199,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:desguace",
+    "term": "Desguace",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "XII",
+    "start_char": 3199,
+    "end_char": 3393,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:dragado",
+    "term": "Dragado",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "XIII",
+    "start_char": 3393,
+    "end_char": 3786,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:pilotaje-o-practicaje",
+    "term": "Pilotaje o practicaje",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "XIV",
+    "start_char": 3786,
+    "end_char": 4246,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:term:zona-de-pilotaje",
+    "term": "Zona de Pilotaje",
+    "instrument_id": "urn:lex-mx:federal:statute:lncm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "fraction": "XV",
+    "start_char": 4246,
+    "end_char": 4538,
+    "basis": "express_definition"
+  }
+]

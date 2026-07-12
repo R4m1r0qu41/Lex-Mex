@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-linfonacot",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+  "short_name": "REG-LINFONACOT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-11-30",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T08:00:44.586681Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIFNCT.pdf",
+  "source_sha256": "1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd",
+  "extracted_text_sha256": "570306b441749e719cda79cf050a5f285b36cb90855929e50af0cf30dfe17a8d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

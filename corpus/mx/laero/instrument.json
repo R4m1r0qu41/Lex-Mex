@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:laero",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Aeropuertos",
+  "short_name": "LAERO",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1995-12-22",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-12T08:04:20.075369Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf",
+  "source_sha256": "c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4",
+  "extracted_text_sha256": "a2508368251fc258612b76f85f2a28fec6ff0c545e005449f06748404be94886",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:18:reference:1832-1833:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:18",
+    "source_span": "9",
+    "start_char": 1832,
+    "end_char": 1833,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:9",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 1807,
+        "end_char": 1818
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:20:reference:32-49:19:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:20",
+    "source_span": "artículo anterior",
+    "start_char": 32,
+    "end_char": 49,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:20:reference:586-588:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:20",
+    "source_span": "19",
+    "start_char": 586,
+    "end_char": 588,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:28:reference:2520-2523:28:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:28",
+    "source_span": "III",
+    "start_char": 2520,
+    "end_char": 2523,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:28",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 2520,
+        "end_char": 2523
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:8:reference:1464-1465:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:8",
+    "source_span": "9",
+    "start_char": 1464,
+    "end_char": 1465,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:9",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 1439,
+        "end_char": 1450
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:article:9:reference:1621-1624:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:9",
+    "source_span": "III",
+    "start_char": 1621,
+    "end_char": 1624,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:9",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 1621,
+        "end_char": 1624
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:linfonacot:transitory:cuarto:reference:63-64:9:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:linfonacot:transitory:cuarto",
+    "source_span": "9",
+    "start_char": 63,
+    "end_char": 64,
+    "target_instrument_id": "urn:lex-mx:federal:statute:linfonacot",
+    "target_provision_id": "urn:lex-mx:federal:statute:linfonacot:article:9",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 35,
+        "end_char": 49
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

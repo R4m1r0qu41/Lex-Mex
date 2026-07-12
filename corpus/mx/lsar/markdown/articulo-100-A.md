@@ -1,0 +1,28 @@
+---
+id: urn:lex-mx:federal:statute:lsar:article:100-a
+instrument_id: urn:lex-mx:federal:statute:lsar
+instrument: LSAR
+name: "Ley de los Sistemas de Ahorro para el Retiro"
+provision_type: article
+number: "100-A"
+aliases: ["LSAR — Artículo 100-A"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
+source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
+---
+
+> Capítulo VI
+
+# Artículo 100-A
+
+La administradora que sea sancionada en términos de lo dispuesto en la fracción I bis del artículo que antecede, sin perjuicio de la imposición de la sanción pecuniaria que resulte procedente, deberá resarcir los daños y perjuicios ocasionados al trabajador indebidamente registrado o cuya cuenta individual fue indebidamente traspasada, mediante la realización de lo siguiente:
+
+I. La devolución de todas las comisiones cobradas al trabajador afectado, y
+
+II. El pago, mediante abono de la suma correspondiente en la cuenta individual del trabajador afectado, de la cantidad que resulte como diferencia entre los rendimientos obtenidos por dicha cuenta individual durante el tiempo en que fue administrada por la administradora infractora y el monto de los rendimientos que hubiera obtenido si sus recursos se hubieran invertido en la sociedad o sociedades de inversión que, durante dicho tiempo, hayan otorgado los rendimientos de gestión más altos de las sociedades de inversión de acuerdo a la información publicada en la página de Internet de la Comisión.
+
+El monto de tal resarcimiento deberá ser determinado en cantidad líquida y ordenado por la Comisión en la misma resolución.
+
+Artículo adicionado DOF 11-01-2005

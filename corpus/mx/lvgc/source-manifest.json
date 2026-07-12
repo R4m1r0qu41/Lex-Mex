@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lvgc",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVGC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvgc.htm",
+  "retrieved_at": "2026-07-12T08:04:49.610207Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1352876,
+  "etag": "\"14a4ac-6451e016510c0\"",
+  "last_modified": "Thu, 04 Dec 2025 10:43:55 GMT",
+  "source_sha256": "a4becbaa8039573e226e916618697661f1294aa26dac434a01144ba65b13699e",
+  "extracted_text_sha256": "4ea5d93583547f50a837527f042a18c95252e7eb9d560e668936ec1eb0a15329",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

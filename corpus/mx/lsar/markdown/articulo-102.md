@@ -1,0 +1,32 @@
+---
+id: urn:lex-mx:federal:statute:lsar:article:102
+instrument_id: urn:lex-mx:federal:statute:lsar
+instrument: LSAR
+name: "Ley de los Sistemas de Ahorro para el Retiro"
+provision_type: article
+number: "102"
+aliases: ["LSAR — Artículo 102"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
+source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
+---
+
+> Capítulo VI
+
+# Artículo 102
+
+En contra de las sanciones pecuniarias que imponga la Comisión, procederá el recurso de revocación, mismo que deberá interponerse por escrito, ante el Presidente de la misma, dentro de los quince días hábiles siguientes al de su notificación y cuya interposición será optativa respecto del ejercicio de cualquier otro medio legal de defensa.
+
+En el escrito en que la parte afectada interponga el recurso, deberá expresarse el acto impugnado y los agravios que el mismo cause, y se acompañarán u ofrecerán, según corresponda, las pruebas que al efecto se consideren convenientes. A dicho escrito, se acompañará además el documento que acredite el otorgamiento de una garantía por el monto de la multa impuesta.
+
+Cuando no se señale el acto impugnado o no se expresen agravios, la autoridad competente, desechará por improcedente el recurso interpuesto. Si se omitieran las pruebas, se tendrán por no ofrecidas.
+
+La resolución del recurso de revocación podrá ser desechando, confirmando, mandando reponer por uno nuevo que lo sustituya o revocando el acto impugnado y deberá ser emitida por el Presidente de la Comisión en un plazo no superior a los sesenta días hábiles siguientes a su admisión. Párrafo reformado DOF 10-12-2002
+
+La interposición del recurso de revocación, una vez otorgada la garantía en los términos del Código Fiscal de la Federación, suspenderá la exigibilidad del pago de la multa.
+
+La solicitud de condonación de multas impuestas por la Comisión deberá presentarse por escrito ante el Presidente de la misma, el cual resolverá sobre la procedencia de la condonación, ya sea total o parcialmente, aplicándose en forma supletoria lo dispuesto por el Código Fiscal de la Federación. Igualmente, en caso de que ésta se niegue, su importe se actualizará de conformidad a dicho Código y deberá ser cubierto dentro de los cinco días hábiles siguientes a aquél en que se notifique al infractor la resolución correspondiente.
+
+En el caso de que se confirme la resolución recurrida, la multa impuesta se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a la cantidad que se deba de actualizar. Dicho factor se obtendrá de conformidad con lo previsto por el Código Fiscal de la Federación. Las multas impuestas no se actualizarán por fracciones de mes.

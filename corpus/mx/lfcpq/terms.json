@@ -1,0 +1,79 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcpq:term:actividades-reguladas",
+    "term": "Actividades reguladas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcpq",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 481,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcpq:term:dependencias",
+    "term": "Dependencias",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcpq",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
+    "fraction": "III",
+    "start_char": 529,
+    "end_char": 669,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcpq:term:desvio",
+    "term": "Desvío",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcpq",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
+    "fraction": "IV",
+    "start_char": 669,
+    "end_char": 1061,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcpq:term:maquinas",
+    "term": "Máquinas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcpq",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
+    "fraction": "V",
+    "start_char": 1061,
+    "end_char": 1444,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcpq:term:precursores-quimicos",
+    "term": "Precursores químicos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcpq",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
+    "fraction": "VI",
+    "start_char": 1444,
+    "end_char": 1629,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcpq:term:productos-quimicos-esenciales",
+    "term": "Productos químicos esenciales",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcpq",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
+    "fraction": "VII",
+    "start_char": 1629,
+    "end_char": 2054,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfcpq:term:merma-inusual",
+    "term": "Merma inusual",
+    "instrument_id": "urn:lex-mx:federal:statute:lfcpq",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfcpq:article:2",
+    "fraction": "IX",
+    "start_char": 2104,
+    "end_char": 2217,
+    "basis": "express_definition"
+  }
+]

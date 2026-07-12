@@ -1,0 +1,23 @@
+{
+  "slug": "lissste",
+  "instrument_id": "urn:lex-mx:federal:statute:lissste",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+  "short_name": "LISSSTE",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lissste.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2007-03-31",
+  "expected_min_articles": 259,
+  "expected_articles": 259,
+  "expected_transitories": 39,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:00:39Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

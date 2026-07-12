@@ -1,0 +1,23 @@
+{
+  "slug": "lcpaf",
+  "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Caminos, Puentes y Autotransporte Federal",
+  "short_name": "LCPAF",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCPAF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcpaf.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1993-12-22",
+  "expected_min_articles": 93,
+  "expected_articles": 93,
+  "expected_transitories": 7,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:04:09Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

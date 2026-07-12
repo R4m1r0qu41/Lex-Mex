@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lapp:article:135
+instrument_id: urn:lex-mx:federal:regulation:reg-lapp
+instrument: REG-LAPP
+name: "Reglamento de la Ley de Asociaciones Público Privadas"
+provision_type: article
+number: "135"
+aliases: ["REG-LAPP — Artículo 135"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAPP_200217.pdf
+source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7
+---
+
+> Capítulo DÉCIMO PRIMERO
+
+# Artículo 135
+
+En el caso de rescisión del contrato, el plazo a que se refiere el artículo 132 de la Ley se contará a partir del día en que haya concluido, con resolución firme, el procedimiento de rescisión.

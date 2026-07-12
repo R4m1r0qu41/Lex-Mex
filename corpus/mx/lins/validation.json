@@ -1,0 +1,9 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lins",
+  "valid": true,
+  "article_count": 60,
+  "transitory_count": 5,
+  "reference_count": 9,
+  "issues": []
+}

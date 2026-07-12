@@ -1,0 +1,178 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:acarreo",
+    "term": "Acarreo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "I",
+    "start_char": 119,
+    "end_char": 221,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:administrador",
+    "term": "Administrador",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "II",
+    "start_char": 221,
+    "end_char": 296,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:administrador-federal",
+    "term": "Administrador Federal",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "III",
+    "start_char": 296,
+    "end_char": 450,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:alijo",
+    "term": "Alijo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "IV",
+    "start_char": 450,
+    "end_char": 527,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:almacenaje",
+    "term": "Almacenaje",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "V",
+    "start_char": 527,
+    "end_char": 600,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:capitania",
+    "term": "Capitanía",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "VI",
+    "start_char": 600,
+    "end_char": 640,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:carga",
+    "term": "Carga",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "VII",
+    "start_char": 640,
+    "end_char": 827,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:descarga",
+    "term": "Descarga",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "VIII",
+    "start_char": 827,
+    "end_char": 1068,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:estiba",
+    "term": "Estiba",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "IX",
+    "start_char": 1068,
+    "end_char": 1115,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:destino",
+    "term": "Destino",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "X",
+    "start_char": 1115,
+    "end_char": 1348,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "XI",
+    "start_char": 1348,
+    "end_char": 1377,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:normas",
+    "term": "Normas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "XII",
+    "start_char": 1377,
+    "end_char": 1448,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:obra-mayor",
+    "term": "Obra Mayor",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "XIII",
+    "start_char": 1448,
+    "end_char": 1727,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:obra-menor",
+    "term": "Obra Menor",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "XIV",
+    "start_char": 1727,
+    "end_char": 1852,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:operadores",
+    "term": "Operadores",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "XV",
+    "start_char": 1852,
+    "end_char": 1993,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lpue:term:prestadores-de-servicios",
+    "term": "Prestadores de Servicios",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lpue:article:2",
+    "fraction": "XVI",
+    "start_char": 1993,
+    "end_char": 2151,
+    "basis": "express_definition"
+  }
+]

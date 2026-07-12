@@ -1,0 +1,1343 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:1:term-usage:272-284",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 272,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:1:term-usage:342-354",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 342,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:2:term-usage:137-169",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 137,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:3:term-usage:451-483",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 451,
+    "end_char": 483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:3:term-usage:1003-1029",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "span": "Base de Datos Nacional SAR",
+    "start_char": 1003,
+    "end_char": 1029
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:3:term-usage:1972-1984",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 1972,
+    "end_char": 1984
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:3:term-usage:2027-2039",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 2027,
+    "end_char": 2039
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:3:term-usage:2215-2227",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 2215,
+    "end_char": 2227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:3:term-usage:2285-2297",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 2285,
+    "end_char": 2297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:2081-2092",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 2081,
+    "end_char": 2092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:2334-2360",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "span": "Base de Datos Nacional SAR",
+    "start_char": 2334,
+    "end_char": 2360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:5:term-usage:3144-3177",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 3144,
+    "end_char": 3177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:7:term-usage:515-527",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 515,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:7:term-usage:604-616",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 604,
+    "end_char": 616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:15:term-usage:436-448",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 436,
+    "end_char": 448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:15:term-usage:517-529",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 517,
+    "end_char": 529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:15:term-usage:1108-1120",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 1108,
+    "end_char": 1120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:16:term-usage:2026-2059",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 2026,
+    "end_char": 2059
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:16:term-usage:2312-2324",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 2312,
+    "end_char": 2324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:18:term-usage:1626-1638",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 1626,
+    "end_char": 1638
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:18:term-usage:2037-2049",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 2037,
+    "end_char": 2049
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:18:term-usage:3397-3412",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "span": "Administradoras",
+    "start_char": 3397,
+    "end_char": 3412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:18:term-usage:4824-4836",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 4824,
+    "end_char": 4836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:18:term-usage:5621-5633",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 5621,
+    "end_char": 5633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:18:term-usage:5746-5758",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 5746,
+    "end_char": 5758
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:19:term-usage:653-667",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "span": "Administradora",
+    "start_char": 653,
+    "end_char": 667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:20:term-usage:241-255",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "span": "Administradora",
+    "start_char": 241,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:21:term-usage:875-886",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 875,
+    "end_char": 886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:25:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:26:term-usage:296-307",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 296,
+    "end_char": 307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:27:term-usage:578-589",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 578,
+    "end_char": 589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:36:term-usage:872-883",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 872,
+    "end_char": 883
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:37:term-usage:7428-7439",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 7428,
+    "end_char": 7439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:37-a:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:37-a",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:43:term-usage:1844-1855",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 1844,
+    "end_char": 1855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:47-bis:term-usage:3495-3506",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:47-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 3495,
+    "end_char": 3506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:48:term-usage:1947-1958",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 1947,
+    "end_char": 1958
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:52:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:53:term-usage:293-304",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 293,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:54:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:55:term-usage:1110-1121",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 1110,
+    "end_char": 1121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:56:term-usage:563-574",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 563,
+    "end_char": 574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:56:term-usage:729-740",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 729,
+    "end_char": 740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:56:term-usage:1767-1786",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:empresas-operadoras",
+    "span": "Empresas Operadoras",
+    "start_char": 1767,
+    "end_char": 1786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:56:term-usage:1793-1819",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "span": "Base de Datos Nacional SAR",
+    "start_char": 1793,
+    "end_char": 1819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:57:term-usage:3-29",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "span": "Base de Datos Nacional SAR",
+    "start_char": 3,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:58:term-usage:49-75",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "span": "Base de Datos Nacional SAR",
+    "start_char": 49,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:58:term-usage:1288-1314",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "span": "Base de Datos Nacional SAR",
+    "start_char": 1288,
+    "end_char": 1314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:58:term-usage:2422-2448",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "span": "Base de Datos Nacional SAR",
+    "start_char": 2422,
+    "end_char": 2448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:60:term-usage:40-66",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "span": "Base de Datos Nacional SAR",
+    "start_char": 40,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:61:term-usage:31-57",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "span": "Base de Datos Nacional SAR",
+    "start_char": 31,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:62:term-usage:358-384",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "span": "Base de Datos Nacional SAR",
+    "start_char": 358,
+    "end_char": 384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:63:term-usage:78-104",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "span": "Base de Datos Nacional SAR",
+    "start_char": 78,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:63:term-usage:227-242",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "span": "Administradoras",
+    "start_char": 227,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:66-bis:term-usage:1331-1346",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:66-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "span": "Administradoras",
+    "start_char": 1331,
+    "end_char": 1346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:68:term-usage:772-804",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 772,
+    "end_char": 804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74:term-usage:809-821",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 809,
+    "end_char": 821
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:84-96",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 84,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:1275-1287",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 1275,
+    "end_char": 1287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:1746-1758",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 1746,
+    "end_char": 1758
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:1985-2017",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 1985,
+    "end_char": 2017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:2092-2104",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 2092,
+    "end_char": 2104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:2481-2493",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 2481,
+    "end_char": 2493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:2749-2761",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 2749,
+    "end_char": 2761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74-bis:term-usage:2979-2990",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 2979,
+    "end_char": 2990
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74-quater:term-usage:491-502",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-quater",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 491,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:74-quinquies:term-usage:756-767",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:74-quinquies",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 756,
+    "end_char": 767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:79:term-usage:2728-2740",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 2728,
+    "end_char": 2740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:81:term-usage:459-471",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 459,
+    "end_char": 471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:81:term-usage:518-550",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 518,
+    "end_char": 550
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:81-bis:term-usage:159-171",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:81-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 159,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:82:term-usage:260-272",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 260,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:83:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:83:term-usage:304-316",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 304,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:83:term-usage:1367-1379",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 1367,
+    "end_char": 1379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:92:term-usage:424-457",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 424,
+    "end_char": 457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:92:term-usage:884-896",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 884,
+    "end_char": 896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:93:term-usage:1075-1108",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 1075,
+    "end_char": 1108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:95:term-usage:199-210",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 199,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:99:term-usage:167-179",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 167,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:99:term-usage:250-262",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 250,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:99:term-usage:428-461",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 428,
+    "end_char": 461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:99:term-usage:1404-1416",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 1404,
+    "end_char": 1416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:99:term-usage:2457-2468",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 2457,
+    "end_char": 2468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:99:term-usage:4207-4240",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 4207,
+    "end_char": 4240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:99:term-usage:5689-5722",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 5689,
+    "end_char": 5722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:99:term-usage:6044-6077",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 6044,
+    "end_char": 6077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:87-120",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 87,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:390-404",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "span": "Administradora",
+    "start_char": 390,
+    "end_char": 404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:646-658",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 646,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:851-884",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 851,
+    "end_char": 884
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:903-913",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajador",
+    "start_char": 903,
+    "end_char": 913
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:967-977",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajador",
+    "start_char": 967,
+    "end_char": 977
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:1101-1111",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajador",
+    "start_char": 1101,
+    "end_char": 1111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:1232-1242",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajador",
+    "start_char": 1232,
+    "end_char": 1242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:2203-2236",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 2203,
+    "end_char": 2236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:2286-2298",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 2286,
+    "end_char": 2298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:2432-2465",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 2432,
+    "end_char": 2465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:5588-5602",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "span": "Administradora",
+    "start_char": 5588,
+    "end_char": 5602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:5749-5763",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "span": "Administradora",
+    "start_char": 5749,
+    "end_char": 5763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:5779-5789",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajador",
+    "start_char": 5779,
+    "end_char": 5789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:8655-8688",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 8655,
+    "end_char": 8688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:9150-9183",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 9150,
+    "end_char": 9183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:9745-9760",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "span": "Administradoras",
+    "start_char": 9745,
+    "end_char": 9760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:9884-9896",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 9884,
+    "end_char": 9896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:11275-11289",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "span": "Administradora",
+    "start_char": 11275,
+    "end_char": 11289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:11627-11641",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "span": "Administradora",
+    "start_char": 11627,
+    "end_char": 11641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:11737-11760",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sociedades-de-inversion",
+    "span": "Sociedades de inversión",
+    "start_char": 11737,
+    "end_char": 11760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100:term-usage:11967-12000",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 11967,
+    "end_char": 12000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:100-bis:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:100-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:107-bis:term-usage:70-102",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:107-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 70,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:107-bis-1:term-usage:288-320",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:107-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 288,
+    "end_char": 320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:107-bis-1:term-usage:470-502",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:107-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 470,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:108:term-usage:151-183",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:108",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 151,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:113:term-usage:492-503",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 492,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:115:term-usage:17-31",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "span": "Administradora",
+    "start_char": 17,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:115:term-usage:125-142",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:empresas-operadoras",
+    "span": "Empresa Operadora",
+    "start_char": 125,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:115:term-usage:149-175",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "span": "Base de Datos Nacional SAR",
+    "start_char": 149,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:115:term-usage:357-368",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 357,
+    "end_char": 368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:115-bis:term-usage:14-46",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:115-bis",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 14,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:116:term-usage:125-137",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 125,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:article:121:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:primero:term-usage:151-184",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 151,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:segundo:term-usage:45-78",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 45,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:tercero:term-usage:70-102",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 70,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:cuarto:term-usage:50-83",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 50,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:quinto:term-usage:195-227",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 195,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:quinto:term-usage:290-323",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 290,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:quinto:term-usage:325-336",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 325,
+    "end_char": 336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:quinto:term-usage:350-382",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 350,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:quinto:term-usage:469-502",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 469,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:sexto:term-usage:561-594",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 561,
+    "end_char": 594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:sexto:term-usage:882-894",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 882,
+    "end_char": 894
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:septimo:term-usage:498-531",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 498,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:septimo:term-usage:914-947",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 914,
+    "end_char": 947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:septimo:term-usage:1362-1395",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 1362,
+    "end_char": 1395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:septimo:term-usage:2836-2869",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 2836,
+    "end_char": 2869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:octavo:term-usage:257-290",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 257,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-primero:term-usage:114-146",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 114,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-primero:term-usage:243-276",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 243,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-primero:term-usage:527-560",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 527,
+    "end_char": 560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-segundo:term-usage:53-86",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 53,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-segundo:term-usage:235-268",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 235,
+    "end_char": 268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-tercero:term-usage:72-105",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 72,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-cuarto:term-usage:147-159",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "span": "Trabajadores",
+    "start_char": 147,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-quinto:term-usage:120-153",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-quinto",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 120,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-septimo:term-usage:197-230",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistemas de Ahorro para el Retiro",
+    "start_char": 197,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-septimo:term-usage:304-336",
+    "provision_id": "urn:lex-mx:federal:statute:lsar:transitory:decimo-septimo",
+    "term_id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "span": "Sistema de Ahorro para el Retiro",
+    "start_char": 304,
+    "end_char": 336
+  }
+]

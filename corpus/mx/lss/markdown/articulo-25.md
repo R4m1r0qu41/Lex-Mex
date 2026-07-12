@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:statute:lss:article:25
+instrument_id: urn:lex-mx:federal:statute:lss
+instrument: LSS
+name: "Ley del Seguro Social"
+provision_type: article
+number: "25"
+aliases: ["LSS — Artículo 25"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf
+source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
+---
+
+> Título SEGUNDO · Capítulo I
+
+# Artículo 25
+
+En los casos previstos por el artículo [23](articulo-23.md), el Estado aportará la contribución que le corresponda en términos de esta Ley, independientemente de la que resulte a cargo del patrón por la valuación actuarial de su contrato, pagando éste, tanto su propia cuota como la parte de la cuota obrera que le corresponda conforme a dicha valuación.
+
+Para cubrir las prestaciones en especie del seguro de enfermedades y maternidad de los pensionados y sus beneficiarios, en los seguros de riesgos de trabajo, invalidez y vida, así como retiro, cesantía en edad avanzada y vejez, los patrones, los trabajadores y el Estado aportarán una cuota de uno punto cinco por ciento sobre el salario base de cotización. De dicha cuota corresponderá al patrón pagar el uno punto cero cinco por ciento, a los trabajadores el cero punto trescientos setenta y cinco por ciento y al Estado el cero punto cero setenta y cinco por ciento.

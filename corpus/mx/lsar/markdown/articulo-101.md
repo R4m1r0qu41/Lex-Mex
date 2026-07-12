@@ -1,0 +1,24 @@
+---
+id: urn:lex-mx:federal:statute:lsar:article:101
+instrument_id: urn:lex-mx:federal:statute:lsar
+instrument: LSAR
+name: "Ley de los Sistemas de Ahorro para el Retiro"
+provision_type: article
+number: "101"
+aliases: ["LSAR — Artículo 101"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
+source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
+---
+
+> Capítulo VI
+
+# Artículo 101
+
+Las multas impuestas en términos de la presente ley, deberán ser pagadas dentro de los quince días hábiles siguientes a la fecha de su notificación y cuando el infractor promueva cualquier medio de defensa legal en contra de la multa que se le hubiere aplicado, en caso de que ésta resulte confirmada total o parcialmente, su importe se actualizará en los términos del Código Fiscal de la Federación, y deberá ser cubierto dentro de los cinco días hábiles siguientes a aquél en que la autoridad competente le notifique al infractor la resolución correspondiente.
+
+Cuando las personas a las que la Comisión haya impuesto multas, sean cuentahabientes del Banco de México, se harán efectivas cargando su importe en la cuenta que les lleva dicho banco. Los cargos correspondientes se realizarán en la fecha en que la Comisión se lo solicite al Banco de México por tratarse de multas contra las cuales no se hayan interpuesto oportunamente los medios de defensa procedentes o después de haberse agotado éstos, se haya confirmado la sanción correspondiente.
+
+Tratándose de personas a las que el Banco de México no les lleve cuenta, las multas se harán efectivas por la Secretaría de Hacienda y Crédito Público.

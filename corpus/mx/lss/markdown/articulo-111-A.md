@@ -1,0 +1,34 @@
+---
+id: urn:lex-mx:federal:statute:lss:article:111-a
+instrument_id: urn:lex-mx:federal:statute:lss
+instrument: LSS
+name: "Ley del Seguro Social"
+provision_type: article
+number: "111-A"
+aliases: ["LSS — Artículo 111-A"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf
+source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
+---
+
+> Título SEGUNDO · Capítulo IV
+
+# Artículo 111-A
+
+El Instituto para realizar los registros, anotaciones y certificaciones relativas a la atención a la salud de la población derechohabiente, podrá utilizar medios escritos, electrónicos, magnéticos, ópticos o magneto ópticos para integrar un expediente clínico electrónico único para cada derechohabiente, en las unidades médicas o en cualquier otra instalación que determine el Instituto.
+
+En el expediente clínico electrónico se integrarán los antecedentes de atención que haya recibido el derechohabiente por los servicios prestados de consulta externa, urgencias, hospitalización, auxiliares de diagnóstico y de tratamiento.
+
+La certificación que el Instituto, emita en términos de las disposiciones aplicables, a través de la unidad administrativa competente, con base en la información que conste en el expediente electrónico a que se refiere este artículo, tendrá plenos efectos legales para fines civiles, administrativos y judiciales.
+
+Al personal autorizado para el manejo de la información contenida en el expediente clínico electrónico se le asignará una clave de identificación personal con carácter de confidencial e intransferible, que combinada con la matrícula del trabajador, se reconocerá como firma electrónica de los registros efectuados en el expediente clínico, que para fines legales tendrá la misma validez de una firma autógrafa.
+
+Los datos y registros que consten en el expediente clínico electrónico a que se refiere este artículo serán confidenciales y la revelación de los mismos a terceros ajenos al Instituto sin autorización expresa de las autoridades del Instituto y del derechohabiente o de quien tenga facultad legal para decidir por él, o sin causa legal que lo justifique, será sancionada en términos de la legislación penal federal como revelación de secretos, con independencia del pago de la indemnización que, en su caso, corresponda.
+
+De las consultas que se hagan a dichos expedientes deberá dejarse una constancia en el propio expediente de la persona, que lo consulte, la fecha de la consulta y la justificación de la misma.
+
+Las capturas de datos deberán efectuarse de manera que sea posible su desagregación al menos por sexo, género, edad, pertenencia étnica o afrodescendiente, discapacidad o cualquier categoría necesaria para generar una estadística que permita evaluar el impacto diferenciado en mujeres y hombres en los servicios que presta el Instituto y realizar las mejoras necesarias. Todo ello, considerando las leyes aplicables en materia de protección de datos personales en posesión de sujetos obligados. Párrafo adicionado DOF 15-01-2026
+
+Artículo adicionado DOF 20-12-2001

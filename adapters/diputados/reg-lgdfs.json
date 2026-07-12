@@ -1,0 +1,23 @@
+{
+  "slug": "reg-lgdfs",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgdfs",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley General de Desarrollo Forestal Sustentable",
+  "short_name": "REG-LGDFS",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2020-12-09",
+  "expected_min_articles": 234,
+  "expected_articles": 234,
+  "expected_transitories": 15,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:01:31Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

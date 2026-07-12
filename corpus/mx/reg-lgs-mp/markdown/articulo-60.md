@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lgs-mp:article:60
+instrument_id: urn:lex-mx:federal:regulation:reg-lgs-mp
+instrument: REG-LGS-MP
+name: "Reglamento de la Ley General de Salud en Materia de Publicidad"
+provision_type: article
+number: "60"
+aliases: ["REG-LGS-MP — Artículo 60"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MP.pdf
+source_sha256: 0fb9b74e27b7abf66250404ef5ec1c68acdc460e9cff5b381f49224ec6f71003
+---
+
+> Título SÉPTIMO
+
+# Artículo 60
+
+En la publicidad de los productos de perfumería y belleza se deberán emplear leyendas promotoras de higiene y salud, excepto en aquellos casos en que en el mensaje se incluyan imágenes, escenas, textos o diálogos que las comprendan.

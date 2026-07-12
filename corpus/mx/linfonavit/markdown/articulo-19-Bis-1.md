@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:statute:linfonavit:article:19-bis-1
+instrument_id: urn:lex-mx:federal:statute:linfonavit
+instrument: LINFONAVIT
+name: "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores"
+provision_type: article
+number: "19 Bis 1"
+aliases: ["LINFONAVIT — Artículo 19 Bis 1"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf
+source_sha256: 9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912
+---
+
+# Artículo 19 Bis 1
+
+El Auditor Externo será responsable para con el Instituto por el cumplimiento de las obligaciones que esta Ley le impone y será solidariamente responsable con el que le haya precedido por las irregularidades en que éste hubiere incurrido si, conociéndolas, no las denunciare por escrito a la Asamblea General.
+
+El Auditor Externo que en cualquier asunto relacionado con el Instituto tuviere un conflicto de intereses, deberá abstenerse de toda intervención.
+
+Artículo adicionado DOF 01-06-2005

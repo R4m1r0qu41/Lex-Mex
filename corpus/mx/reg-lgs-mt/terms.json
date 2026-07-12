@@ -1,0 +1,189 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:cenatra",
+    "term": "CENATRA",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "I",
+    "start_char": 124,
+    "end_char": 172,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:centros-estatales-de-trasplantes-o-consejos-estatales-de-trasplantes",
+    "term": "Centros Estatales de Trasplantes o Consejos Estatales de Trasplantes",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "II",
+    "start_char": 172,
+    "end_char": 558,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:cofepris",
+    "term": "COFEPRIS",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "III",
+    "start_char": 558,
+    "end_char": 640,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:comite-interno-de-coordinacion-para-la-donacion",
+    "term": "Comité Interno de Coordinación para la Donación",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "IV",
+    "start_char": 640,
+    "end_char": 768,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:comite-interno-de-trasplantes",
+    "term": "Comité Interno de Trasplantes",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "V",
+    "start_char": 768,
+    "end_char": 876,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:compatibilidad",
+    "term": "Compatibilidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "VI",
+    "start_char": 876,
+    "end_char": 1249,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:coordinador-hospitalario",
+    "term": "Coordinador Hospitalario",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "VII",
+    "start_char": 1249,
+    "end_char": 1420,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:criterios-medicos",
+    "term": "Criterios Médicos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "VIII",
+    "start_char": 1420,
+    "end_char": 1631,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:establecimientos-de-salud",
+    "term": "Establecimientos de Salud",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "IX",
+    "start_char": 1631,
+    "end_char": 1827,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:extraccion-de-organos,-tejidos-o-celulas",
+    "term": "Extracción de Órganos, Tejidos o células",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "X",
+    "start_char": 1827,
+    "end_char": 2050,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:histocompatibilidad",
+    "term": "Histocompatibilidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "XI",
+    "start_char": 2050,
+    "end_char": 2171,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "XII",
+    "start_char": 2171,
+    "end_char": 2207,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:oportunidad-del-trasplante",
+    "term": "Oportunidad del Trasplante",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "XIII",
+    "start_char": 2207,
+    "end_char": 2330,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:programa-de-trasplante",
+    "term": "Programa de Trasplante",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "XIV",
+    "start_char": 2330,
+    "end_char": 2590,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:receptor-candidato",
+    "term": "Receptor Candidato",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "XV",
+    "start_char": 2590,
+    "end_char": 2844,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "XVI",
+    "start_char": 2844,
+    "end_char": 2888,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mt:term:urgencia-de-trasplante-o-codigo-0",
+    "term": "Urgencia de Trasplante o Código 0",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mt:article:2",
+    "fraction": "XVII",
+    "start_char": 2888,
+    "end_char": 3066,
+    "basis": "express_definition"
+  }
+]

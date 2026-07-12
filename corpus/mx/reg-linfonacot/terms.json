@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:centros-de-trabajo",
+    "term": "Centros de Trabajo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonacot",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:3",
+    "fraction": "I",
+    "start_char": 195,
+    "end_char": 417,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:estatuto-organico",
+    "term": "Estatuto Orgánico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonacot",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:3",
+    "fraction": "II",
+    "start_char": 417,
+    "end_char": 641,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:financiamiento,-prestamo-o-credito",
+    "term": "Financiamiento, préstamo o crédito",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonacot",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:3",
+    "fraction": "III",
+    "start_char": 641,
+    "end_char": 808,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonacot",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:3",
+    "fraction": "IV",
+    "start_char": 808,
+    "end_char": 914,
+    "basis": "express_definition"
+  }
+]

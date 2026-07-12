@@ -1,0 +1,211 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:area-requirente",
+    "term": "Área requirente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "II",
+    "start_char": 1002,
+    "end_char": 1817,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:area-tecnica",
+    "term": "Área técnica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "III",
+    "start_char": 1817,
+    "end_char": 2862,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:administrador-del-contrato",
+    "term": "Administrador del contrato",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "IV",
+    "start_char": 2862,
+    "end_char": 3358,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:bienes",
+    "term": "Bienes",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "V",
+    "start_char": 3358,
+    "end_char": 3441,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:bitacora",
+    "term": "Bitácora",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "VI",
+    "start_char": 3441,
+    "end_char": 3977,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:caso-fortuito-o-fuerza-mayor",
+    "term": "Caso fortuito o fuerza mayor",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "VII",
+    "start_char": 3977,
+    "end_char": 4183,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "term": "Comité",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "VIII",
+    "start_char": 4183,
+    "end_char": 4359,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite-de-contrataciones-estrategicas",
+    "term": "Comité de Contrataciones Estratégicas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "X",
+    "start_char": 4743,
+    "end_char": 4941,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:contrataciones-publicas-sostenibles",
+    "term": "Contrataciones públicas sostenibles",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "XI",
+    "start_char": 4941,
+    "end_char": 5330,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "XII",
+    "start_char": 5330,
+    "end_char": 5412,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:lineamientos-de-contratacion-especificos",
+    "term": "Lineamientos de contratación específicos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "XIII",
+    "start_char": 5412,
+    "end_char": 5567,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:organismos-del-sector-social-de-la-economia",
+    "term": "Organismos del Sector Social de la Economía",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "XIV",
+    "start_char": 5567,
+    "end_char": 5890,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:partida-o-concepto",
+    "term": "Partida o concepto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "XV",
+    "start_char": 5890,
+    "end_char": 6133,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:presupuesto-autorizado",
+    "term": "Presupuesto autorizado",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "XVI",
+    "start_char": 6133,
+    "end_char": 6348,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:proposicion",
+    "term": "Proposición",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "XVII",
+    "start_char": 6348,
+    "end_char": 6501,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:proposicion-conjunta-sostenible",
+    "term": "Proposición conjunta sostenible",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "XVIII",
+    "start_char": 6501,
+    "end_char": 6812,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:proposicion-conjunta-sostenible-estrategica",
+    "term": "Proposición conjunta sostenible estratégica",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "XIX",
+    "start_char": 6812,
+    "end_char": 7199,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:proyecto-de-convocatoria",
+    "term": "Proyecto de convocatoria",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "XX",
+    "start_char": 7199,
+    "end_char": 7407,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "term": "Registro único de participantes",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "fraction": "XXI",
+    "start_char": 7407,
+    "end_char": 8807,
+    "basis": "express_definition"
+  }
+]

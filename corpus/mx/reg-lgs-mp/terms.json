@@ -1,0 +1,112 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:agencia-de-publicidad",
+    "term": "Agencia de publicidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:2",
+    "fraction": "I",
+    "start_char": 56,
+    "end_char": 333,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:anunciante",
+    "term": "Anunciante",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:2",
+    "fraction": "II",
+    "start_char": 333,
+    "end_char": 462,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:anuncio-publicitario",
+    "term": "Anuncio publicitario",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:2",
+    "fraction": "III",
+    "start_char": 462,
+    "end_char": 718,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:articulo-promocional",
+    "term": "Artículo promocional",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:2",
+    "fraction": "IV",
+    "start_char": 718,
+    "end_char": 883,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:campana-publicitaria",
+    "term": "Campaña publicitaria",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:2",
+    "fraction": "V",
+    "start_char": 883,
+    "end_char": 1054,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:2",
+    "fraction": "VI",
+    "start_char": 1054,
+    "end_char": 1091,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:medio-de-difusion",
+    "term": "Medio de difusión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:2",
+    "fraction": "VII",
+    "start_char": 1091,
+    "end_char": 1559,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:patrocinio",
+    "term": "Patrocinio",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:2",
+    "fraction": "VIII",
+    "start_char": 1559,
+    "end_char": 1706,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:publicidad",
+    "term": "Publicidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:2",
+    "fraction": "IX",
+    "start_char": 1706,
+    "end_char": 1940,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgs-mp:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgs-mp:article:2",
+    "fraction": "X",
+    "start_char": 1940,
+    "end_char": 1980,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:119
+instrument_id: urn:lex-mx:federal:regulation:reg-lgs-investigacion
+instrument: REG-LGS-INVESTIGACION
+name: "Reglamento de la Ley General de Salud en Materia de Investigación para la Salud"
+provision_type: article
+number: "119"
+aliases: ["REG-LGS-INVESTIGACION — Artículo 119"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf
+source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
+---
+
+> Título SEXTO · Capítulo UNICO
+
+# Artículo 119
+
+Al término de la ejecución de la investigación, el investigador principal tiene la responsabilidad de presentar al Comité de Investigación de la institución de atención a la salud, un informe técnico que incluya los elementos que establezcan las disposiciones jurídicas aplicables.
+
+Artículo reformado DOF 02-04-2014

@@ -1,0 +1,145 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:agente",
+    "term": "Agente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "I",
+    "start_char": 142,
+    "end_char": 323,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:cartera",
+    "term": "Cartera",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "II",
+    "start_char": 323,
+    "end_char": 541,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "III",
+    "start_char": 541,
+    "end_char": 636,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:concurso",
+    "term": "Concurso",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "IV",
+    "start_char": 636,
+    "end_char": 847,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:entidades-federales",
+    "term": "Entidades Federales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "VI",
+    "start_char": 920,
+    "end_char": 1161,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:funcion-publica",
+    "term": "Función Pública",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "VII",
+    "start_char": 1161,
+    "end_char": 1221,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:inversion-inicial",
+    "term": "Inversión Inicial",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "VIII",
+    "start_char": 1221,
+    "end_char": 1732,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:medios-electronicos",
+    "term": "Medios Electrónicos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "IX",
+    "start_char": 1732,
+    "end_char": 1900,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:pagina-web",
+    "term": "Página web",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "X",
+    "start_char": 1900,
+    "end_char": 2017,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:presupuesto-de-egresos",
+    "term": "Presupuesto de Egresos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "XI",
+    "start_char": 2017,
+    "end_char": 2165,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:rescision",
+    "term": "Rescisión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "XII",
+    "start_char": 2165,
+    "end_char": 2417,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "XIII",
+    "start_char": 2417,
+    "end_char": 2518,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:term:terminacion-anticipada",
+    "term": "Terminación Anticipada",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:11",
+    "fraction": "XIV",
+    "start_char": 2518,
+    "end_char": 2821,
+    "basis": "express_definition"
+  }
+]

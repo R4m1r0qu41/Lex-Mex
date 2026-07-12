@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:loapf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica de la Administración Pública Federal",
+  "short_name": "LOAPF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1976-12-29",
+  "latest_reform_date": "2026-05-07",
+  "retrieved_at": "2026-07-12T07:59:19.989421Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf",
+  "source_sha256": "3edf486e601217f5f595f94f56832d8845cbd9193b6494af52473237252bcc5f",
+  "extracted_text_sha256": "cd367fe5dbcf9e572847f0ce0e94db031bf7ca4bf46687fe9b6397abfe96100f",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

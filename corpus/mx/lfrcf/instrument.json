@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfrcf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
+  "short_name": "LFRCF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2016-07-18",
+  "latest_reform_date": "2026-05-14",
+  "retrieved_at": "2026-07-12T07:59:47.096652Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRCF.pdf",
+  "source_sha256": "cc687a4d8d9de93d2d3ec9b40b26d0273e108bb002a6f611806dc36ebce5ba2c",
+  "extracted_text_sha256": "936fa851c3bc3a904319a54b0dde0fa63939bd1b3504d0ae48f5dc97c0f76456",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

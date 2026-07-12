@@ -1,0 +1,362 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:4:term-usage:425-443",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-procesal",
+    "span": "Códigos Procesales",
+    "start_char": 425,
+    "end_char": 443
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:5:term-usage:722-734",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-penal",
+    "span": "Código Penal",
+    "start_char": 722,
+    "end_char": 734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:9:term-usage:221-233",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-penal",
+    "span": "Código Penal",
+    "start_char": 221,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:36:term-usage:41-53",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-penal",
+    "span": "Código Penal",
+    "start_char": 41,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:39:term-usage:171-183",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-penal",
+    "span": "Código Penal",
+    "start_char": 171,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:46:term-usage:91-103",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-penal",
+    "span": "Código Penal",
+    "start_char": 91,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:47:term-usage:564-576",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-penal",
+    "span": "Código Penal",
+    "start_char": 564,
+    "end_char": 576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:72:term-usage:194-202",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:el-fondo",
+    "span": "El Fondo",
+    "start_char": 194,
+    "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:77:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:78:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:81:term-usage:1520-1528",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:el-fondo",
+    "span": "El Fondo",
+    "start_char": 1520,
+    "end_char": 1528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:85:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:87:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:87:term-usage:62-75",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 62,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:88:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:89:term-usage:119-132",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 119,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:89:term-usage:758-771",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 758,
+    "end_char": 771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:89:term-usage:1338-1351",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 1338,
+    "end_char": 1351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:89:term-usage:2216-2229",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 2216,
+    "end_char": 2229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:89:term-usage:2507-2520",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 2507,
+    "end_char": 2520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:89:term-usage:2726-2739",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 2726,
+    "end_char": 2739
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:89:term-usage:3181-3194",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 3181,
+    "end_char": 3194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:89:term-usage:3646-3659",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 3646,
+    "end_char": 3659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:90:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:91:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:92:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:93:term-usage:322-333",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-comision",
+    "span": "La Comisión",
+    "start_char": 322,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:99:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:102:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:102",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:103:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:103",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:104:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:107:term-usage:1347-1360",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 1347,
+    "end_char": 1360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:117:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:117",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-fiscalia",
+    "span": "La Fiscalía",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:126:term-usage:0-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-fiscalia",
+    "span": "La Fiscalía",
+    "start_char": 0,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:article:126:term-usage:729-740",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:article:126",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-fiscalia",
+    "span": "La Fiscalía",
+    "start_char": 729,
+    "end_char": 740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:transitory:septimo:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:transitory:octavo:term-usage:0-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "span": "La Secretaría",
+    "start_char": 0,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:transitory:noveno:term-usage:61-73",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-penal",
+    "span": "Código Penal",
+    "start_char": 61,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:transitory:decimo-primero:term-usage:90-102",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-penal",
+    "span": "Código Penal",
+    "start_char": 90,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:transitory:decimo-primero:term-usage:123-138",
+    "provision_id": "urn:lex-mx:federal:statute:lgtrata:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-penal",
+    "span": "Códigos Penales",
+    "start_char": 123,
+    "end_char": 138
+  }
+]

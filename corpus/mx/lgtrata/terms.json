@@ -1,0 +1,189 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:la-constitucion",
+    "term": "La Constitución",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "I",
+    "start_char": 55,
+    "end_char": 134,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:la-ley",
+    "term": "La Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "II",
+    "start_char": 134,
+    "end_char": 310,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-penal",
+    "term": "Código Penal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "III",
+    "start_char": 310,
+    "end_char": 355,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:codigo-procesal",
+    "term": "Código Procesal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "IV",
+    "start_char": 355,
+    "end_char": 422,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:codigos-procesales-locales",
+    "term": "Códigos Procesales Locales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "V",
+    "start_char": 422,
+    "end_char": 522,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:la-secretaria",
+    "term": "La Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "VI",
+    "start_char": 522,
+    "end_char": 572,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:la-fiscalia",
+    "term": "La Fiscalía",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "VII",
+    "start_char": 572,
+    "end_char": 662,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:la-comision",
+    "term": "La Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "VIII",
+    "start_char": 662,
+    "end_char": 859,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:organismos-autonomos-de-defensa-de-los-derechos-humanos",
+    "term": "Organismos Autónomos de Defensa de los Derechos Humanos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "IX",
+    "start_char": 859,
+    "end_char": 1028,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:el-programa-nacional",
+    "term": "El Programa Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "X",
+    "start_char": 1028,
+    "end_char": 1223,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:el-fondo",
+    "term": "El Fondo",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "XI",
+    "start_char": 1223,
+    "end_char": 1337,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:abuso-de-poder",
+    "term": "Abuso de poder",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "XII",
+    "start_char": 1337,
+    "end_char": 1774,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:dano-grave-o-amenaza-de-dano-grave",
+    "term": "Daño grave o amenaza de daño grave",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "XIII",
+    "start_char": 1774,
+    "end_char": 2287,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:asistencia-y-proteccion-a-las-victimas",
+    "term": "Asistencia y protección a las víctimas",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "XIV",
+    "start_char": 2287,
+    "end_char": 2671,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:publicidad-ilicita",
+    "term": "Publicidad ilícita",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "XV",
+    "start_char": 2671,
+    "end_char": 2917,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:publicidad-enganosa",
+    "term": "Publicidad engañosa",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "XVI",
+    "start_char": 2917,
+    "end_char": 3408,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgtrata:term:situacion-de-vulnerabilidad",
+    "term": "Situación de vulnerabilidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lgtrata",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgtrata:article:4",
+    "fraction": "XVII",
+    "start_char": 3408,
+    "end_char": 4393,
+    "basis": "express_definition"
+  }
+]

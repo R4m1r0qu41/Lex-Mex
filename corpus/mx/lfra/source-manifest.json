@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfra",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfra.htm",
+  "retrieved_at": "2026-07-12T08:01:12.274941Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 450385,
+  "etag": "\"6df51-644fd21dfe580\"",
+  "last_modified": "Tue, 02 Dec 2025 19:30:46 GMT",
+  "source_sha256": "7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744",
+  "extracted_text_sha256": "8e694ec63c0557f6c80928569df0d139e8f08f1f2a7bda8f08ec0919b14a1b4c",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

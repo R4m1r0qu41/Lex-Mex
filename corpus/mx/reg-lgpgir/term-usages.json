@@ -1,0 +1,1469 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:1:term-usage:57-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 57,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2:term-usage:26-36",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 26,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2:term-usage:82-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 82,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2:term-usage:156-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 156,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2:term-usage:786-789",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 786,
+    "end_char": 789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2:term-usage:3359-3362",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 3359,
+    "end_char": 3362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2:term-usage:4430-4433",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 4430,
+    "end_char": 4433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:3:term-usage:83-86",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 83,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:3:term-usage:142-145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 142,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:4:term-usage:195-198",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 195,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:5:term-usage:119-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 119,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:7:term-usage:191-194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 191,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:8:term-usage:323-326",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 323,
+    "end_char": 326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:9:term-usage:303-306",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 303,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:10:term-usage:60-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 60,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:11:term-usage:119-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 119,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:14:term-usage:62-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 62,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:14:term-usage:222-225",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 222,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:14:term-usage:232-242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 232,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:16:term-usage:239-242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 239,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:17:term-usage:121-131",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 121,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:18:term-usage:766-769",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 766,
+    "end_char": 769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:18:term-usage:783-793",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 783,
+    "end_char": 793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:18:term-usage:970-973",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 970,
+    "end_char": 973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:20:term-usage:31-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 31,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:23:term-usage:301-304",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 301,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:24:term-usage:47-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 47,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:24:term-usage:1336-1346",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1336,
+    "end_char": 1346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:25:term-usage:58-61",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 58,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:27:term-usage:169-172",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 169,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:29:term-usage:166-178",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 166,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:29:term-usage:407-410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 407,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:29:term-usage:648-651",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 648,
+    "end_char": 651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:30:term-usage:71-74",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 71,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:30:term-usage:181-184",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 181,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:32:term-usage:123-126",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 123,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:33:term-usage:228-238",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 228,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:33:term-usage:824-834",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 824,
+    "end_char": 834
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:34:term-usage:39-42",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 39,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:34:term-usage:269-279",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 269,
+    "end_char": 279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:34-bis:term-usage:34-37",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:34-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 34,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:34-bis:term-usage:284-294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:34-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 284,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:35:term-usage:147-150",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 147,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:35:term-usage:251-254",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 251,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:42:term-usage:47-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 47,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:43:term-usage:31-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 31,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:43:term-usage:1775-1778",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 1775,
+    "end_char": 1778
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:45:term-usage:251-261",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 251,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:46:term-usage:732-742",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 732,
+    "end_char": 742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:46:term-usage:1239-1249",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1239,
+    "end_char": 1249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:46:term-usage:1341-1344",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 1341,
+    "end_char": 1344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:46:term-usage:1680-1683",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 1680,
+    "end_char": 1683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:46:term-usage:1693-1703",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1693,
+    "end_char": 1703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:46:term-usage:2004-2014",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2004,
+    "end_char": 2014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:47:term-usage:259-269",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 259,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48:term-usage:61-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 61,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48:term-usage:194-204",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 194,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48:term-usage:697-700",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 697,
+    "end_char": 700
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48:term-usage:971-974",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 971,
+    "end_char": 974
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48:term-usage:1160-1163",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 1160,
+    "end_char": 1163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48:term-usage:1924-1934",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1924,
+    "end_char": 1934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48:term-usage:3390-3400",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3390,
+    "end_char": 3400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:50:term-usage:2269-2272",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 2269,
+    "end_char": 2272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:50:term-usage:2480-2483",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 2480,
+    "end_char": 2483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:58:term-usage:471-474",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 471,
+    "end_char": 474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:58:term-usage:489-499",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 489,
+    "end_char": 499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:59:term-usage:681-693",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 681,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:59:term-usage:857-860",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 857,
+    "end_char": 860
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:59:term-usage:867-877",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 867,
+    "end_char": 877
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:59:term-usage:1083-1095",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 1083,
+    "end_char": 1095
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:60:term-usage:492-502",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 492,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:63:term-usage:137-140",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 137,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:63:term-usage:235-238",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 235,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:64:term-usage:39-42",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 39,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:64:term-usage:810-813",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 810,
+    "end_char": 813
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:65:term-usage:274-277",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 274,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:66:term-usage:55-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 55,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:71:term-usage:30-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 30,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:71:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:73:term-usage:1434-1437",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 1434,
+    "end_char": 1437
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:74:term-usage:78-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 78,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:75:term-usage:49-52",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 49,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:75:term-usage:67-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 67,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:75:term-usage:749-752",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 749,
+    "end_char": 752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:76:term-usage:315-318",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 315,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:77:term-usage:20-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 20,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:77:term-usage:158-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 158,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:77:term-usage:1268-1271",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 1268,
+    "end_char": 1271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:77:term-usage:1720-1723",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 1720,
+    "end_char": 1723
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:81:term-usage:79-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 79,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:84:term-usage:160-171",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:recoleccion",
+    "span": "Recolección",
+    "start_char": 160,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:88:term-usage:407-410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 407,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:90:term-usage:102-105",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 102,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:90:term-usage:112-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 112,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:93:term-usage:150-153",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 150,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:96:term-usage:693-703",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 693,
+    "end_char": 703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:101:term-usage:392-395",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 392,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:102:term-usage:188-198",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 188,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:103:term-usage:190-200",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 190,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:104:term-usage:284-287",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 284,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:104:term-usage:301-311",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 301,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:105:term-usage:62-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:105",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 62,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:106:term-usage:63-66",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 63,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:115:term-usage:372-375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:115",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 372,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:116:term-usage:273-276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 273,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:116:term-usage:281-291",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 281,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:118:term-usage:39-42",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:118",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 39,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:119:term-usage:1324-1327",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:119",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 1324,
+    "end_char": 1327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:121:term-usage:71-74",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 71,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:122:term-usage:67-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:122",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 67,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:123:term-usage:54-64",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 54,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:125:term-usage:53-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 53,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:126:term-usage:259-262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:126",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 259,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:127:term-usage:140-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 140,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:130:term-usage:603-615",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:130",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 603,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:130:term-usage:882-885",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:130",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 882,
+    "end_char": 885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:135:term-usage:555-558",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:135",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:utm",
+    "span": "UTM",
+    "start_char": 555,
+    "end_char": 558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:136:term-usage:425-428",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:utm",
+    "span": "UTM",
+    "start_char": 425,
+    "end_char": 428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:138:term-usage:1040-1043",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:138",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 1040,
+    "end_char": 1043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:145:term-usage:323-333",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:145",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 323,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:145:term-usage:867-870",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:145",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 867,
+    "end_char": 870
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:150:term-usage:1061-1071",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:150",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1061,
+    "end_char": 1071
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:151:term-usage:318-360",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:inventario-nacional-de-sitios-contaminados",
+    "span": "Inventario Nacional de Sitios Contaminados",
+    "start_char": 318,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:151:term-usage:1103-1145",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:inventario-nacional-de-sitios-contaminados",
+    "span": "Inventario Nacional de Sitios Contaminados",
+    "start_char": 1103,
+    "end_char": 1145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:151:term-usage:1466-1508",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:inventario-nacional-de-sitios-contaminados",
+    "span": "Inventario Nacional de Sitios Contaminados",
+    "start_char": 1466,
+    "end_char": 1508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:152:term-usage:93-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 93,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:153:term-usage:334-337",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 334,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:154:term-usage:34-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:154",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 34,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:154:term-usage:134-137",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:154",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 134,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:154:term-usage:385-397",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:154",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 385,
+    "end_char": 397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:155:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:155",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:155:term-usage:110-113",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:155",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 110,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:156:term-usage:130-133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:156",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 130,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:156:term-usage:147-157",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:156",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 147,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:156:term-usage:202-214",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:156",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 202,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:156:term-usage:1065-1075",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:156",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1065,
+    "end_char": 1075
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:157:term-usage:445-457",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:157",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 445,
+    "end_char": 457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:158:term-usage:270-273",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:158",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 270,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:159:term-usage:161-173",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:159",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:procuraduria",
+    "span": "Procuraduría",
+    "start_char": 161,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:160:term-usage:1073-1076",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 1073,
+    "end_char": 1076
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:161:term-usage:50-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:161",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 50,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:162:term-usage:40-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:162",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 40,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:163:term-usage:40-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:163",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 40,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:163:term-usage:274-277",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:163",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 274,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:163:term-usage:284-294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:163",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 284,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:primero:term-usage:12-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 12,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:segundo:term-usage:13-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 13,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:segundo:term-usage:30-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 30,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:cuarto:term-usage:96-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 96,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:cuarto:term-usage:189-199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 189,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:sexto:term-usage:103-113",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 103,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:sexto:term-usage:208-211",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 208,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:septimo:term-usage:126-136",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 126,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:septimo:term-usage:232-235",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 232,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:septimo:term-usage:573-583",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 573,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:septimo:term-usage:886-896",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 886,
+    "end_char": 896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:octavo:term-usage:52-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 52,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:octavo:term-usage:311-321",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 311,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:noveno:term-usage:175-185",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 175,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:noveno:term-usage:192-195",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:ley",
+    "span": "Ley",
+    "start_char": 192,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:decimo:term-usage:137-147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 137,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:decimo-primero:term-usage:36-46",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 36,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:decimo-segundo:term-usage:99-109",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgpgir:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 99,
+    "end_char": 109
+  }
+]

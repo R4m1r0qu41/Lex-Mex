@@ -1,0 +1,23 @@
+{
+  "slug": "reg-lpue",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley de Puertos",
+  "short_name": "REG-LPUE",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPue.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPue.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2021-12-16",
+  "expected_min_articles": 147,
+  "expected_articles": 147,
+  "expected_transitories": 4,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:04:47Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

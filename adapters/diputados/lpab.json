@@ -1,0 +1,23 @@
+{
+  "slug": "lpab",
+  "instrument_id": "urn:lex-mx:federal:statute:lpab",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Protección al Ahorro Bancario",
+  "short_name": "LPAB",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPAB.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpab.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1999-01-19",
+  "expected_min_articles": 95,
+  "expected_articles": 95,
+  "expected_transitories": 21,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:06:15Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

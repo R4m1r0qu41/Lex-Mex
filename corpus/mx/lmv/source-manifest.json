@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lmv",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmv.htm",
+  "retrieved_at": "2026-07-12T08:06:22.712368Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1933761,
+  "etag": "\"1d81c1-644b314cbcfc0\"",
+  "last_modified": "Sat, 29 Nov 2025 03:09:59 GMT",
+  "source_sha256": "cc72fd6a12721826b6be40a77e3bb8bc297e5ce7b8794a24486a9aa2ee7c61d9",
+  "extracted_text_sha256": "c1671047f4abca5eae46619bf3671abaa86fdc6d31fae27c51b6124269918b1a",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

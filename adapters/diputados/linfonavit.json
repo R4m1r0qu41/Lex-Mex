@@ -1,0 +1,23 @@
+{
+  "slug": "linfonavit",
+  "instrument_id": "urn:lex-mx:federal:statute:linfonavit",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
+  "short_name": "LINFONAVIT",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lifnvt.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1972-04-24",
+  "expected_min_articles": 95,
+  "expected_articles": 95,
+  "expected_transitories": 5,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:00:17Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

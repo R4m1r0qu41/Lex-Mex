@@ -1,0 +1,23 @@
+{
+  "slug": "lan",
+  "instrument_id": "urn:lex-mx:federal:statute:lan",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Aguas Nacionales",
+  "short_name": "LAN",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lan.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1992-12-01",
+  "expected_min_articles": 215,
+  "expected_articles": 215,
+  "expected_transitories": 13,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:01:42Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

@@ -1,0 +1,44 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lss-macerf:article:84
+instrument_id: urn:lex-mx:federal:regulation:reg-lss-macerf
+instrument: REG-LSS-MACERF
+name: "Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización"
+provision_type: article
+number: "84"
+aliases: ["REG-LSS-MACERF — Artículo 84"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MACERF.pdf
+source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
+---
+
+> Título TERCERO · Capítulo I
+
+# Artículo 84
+
+El aseguramiento en la incorporación voluntaria no cubre:
+
+I. Cirugía estética;
+
+II. Adquisición de anteojos, lentes de contacto, lentes intraoculares y aparatos auditivos;
+
+III. Cirugía para corrección de astigmatismo, presbicia, miopía e hipermetropía;
+
+IV. Tratamientos de lesiones autoinfligidas y las derivadas de intento de suicidio;
+
+V. Tratamiento de lesiones derivadas de la práctica profesional de cualquier deporte con riesgo físico;
+
+VI. Examen médico preventivo solicitado por el asegurado o sus beneficiarios;
+
+VII. Tratamientos de trastornos de conducta y aprendizaje;
+
+VIII. Tratamientos dentales, excepto extracciones, obturaciones y limpieza;
+
+IX. Otorgamiento de órtesis, prótesis y aditamentos especiales;
+
+X. Tratamiento de padecimientos crónicos que requieran control terapéutico permanente;
+
+XI. Tratamientos quirúrgicos o médicos para corrección de alteraciones de la fertilidad de la pareja;
+
+XII. Tratamiento de secuelas de lesiones musculoesqueléticas o neurológicas, de origen traumático adquiridas con anterioridad al aseguramiento, y REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN XIII. Tratamiento de secuelas de enfermedades degenerativas del sistema nervioso central y periférico y secuelas de enfermedad vascular cerebral; insuficiencia vascular periférica, entre otras, adquiridas con anterioridad al aseguramiento.

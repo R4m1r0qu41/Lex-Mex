@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgdfs",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDFS.pdf",
+  "retrieved_at": "2026-07-12T08:01:29.930209Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 889955,
+  "etag": "\"d9463-64e0b69267a00\"",
+  "last_modified": "Sat, 28 Mar 2026 01:19:36 GMT",
+  "source_sha256": "a4dbcdb94d780332f0bda62246611dab5972e75bcb01df293df93a95cdd03530",
+  "extracted_text_sha256": "e505832a0dd3ee0dcca637db494f4720f5a3d052fe3cb40bb047bbd7ea226ffb",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

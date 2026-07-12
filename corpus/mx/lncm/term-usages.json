@@ -1,0 +1,1622 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:1:term-usage:436-446",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 436,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:2:term-usage:1618-1642",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 1618,
+    "end_char": 1642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:6:term-usage:69-93",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 69,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:7:term-usage:77-87",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 77,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:7:term-usage:544-554",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 544,
+    "end_char": 554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:8:term-usage:23-33",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 23,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:8:term-usage:241-256",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:marina-mercante",
+    "span": "Marina Mercante",
+    "start_char": 241,
+    "end_char": 256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:8:term-usage:439-463",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 439,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:8:term-usage:1353-1368",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:marina-mercante",
+    "span": "Marina Mercante",
+    "start_char": 1353,
+    "end_char": 1368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:8:term-usage:2133-2143",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2133,
+    "end_char": 2143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:8:term-usage:2315-2339",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 2315,
+    "end_char": 2339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:8:term-usage:2656-2680",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 2656,
+    "end_char": 2680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:8:term-usage:3023-3038",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:marina-mercante",
+    "span": "Marina Mercante",
+    "start_char": 3023,
+    "end_char": 3038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:8:term-usage:3714-3738",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 3714,
+    "end_char": 3738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:8:term-usage:4355-4379",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 4355,
+    "end_char": 4379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:9:term-usage:202-212",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 202,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:9:term-usage:1323-1338",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:marina-mercante",
+    "span": "Marina Mercante",
+    "start_char": 1323,
+    "end_char": 1338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:11:term-usage:513-523",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 513,
+    "end_char": 523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:11:term-usage:823-847",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 823,
+    "end_char": 847
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:12:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:12:term-usage:180-190",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 180,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:14:term-usage:107-117",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 107,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:14:term-usage:1309-1319",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1309,
+    "end_char": 1319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:15:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:23:term-usage:49-59",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 49,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:26:term-usage:555-579",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 555,
+    "end_char": 579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:27:term-usage:163-187",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 163,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:28:term-usage:233-243",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:navegacion",
+    "span": "Navegación",
+    "start_char": 233,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:28:term-usage:293-317",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 293,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:29:term-usage:291-301",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:navegacion",
+    "span": "Navegación",
+    "start_char": 291,
+    "end_char": 301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:30:term-usage:479-489",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 479,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:31:term-usage:59-69",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 59,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:31:term-usage:153-168",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:marina-mercante",
+    "span": "Marina Mercante",
+    "start_char": 153,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:31:term-usage:225-235",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 225,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:31:term-usage:453-463",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 453,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:31:term-usage:549-564",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:marina-mercante",
+    "span": "Marina Mercante",
+    "start_char": 549,
+    "end_char": 564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:31:term-usage:796-807",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 796,
+    "end_char": 807
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:31:term-usage:892-907",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:marina-mercante",
+    "span": "Marina Mercante",
+    "start_char": 892,
+    "end_char": 907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:31:term-usage:946-956",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 946,
+    "end_char": 956
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:31:term-usage:1014-1038",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 1014,
+    "end_char": 1038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:32:term-usage:221-231",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 221,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:32:term-usage:485-495",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 485,
+    "end_char": 495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:32:term-usage:984-1008",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 984,
+    "end_char": 1008
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:32:term-usage:1033-1043",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1033,
+    "end_char": 1043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:32:term-usage:1244-1254",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1244,
+    "end_char": 1254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:33:term-usage:17-27",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 17,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:33:term-usage:92-102",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 92,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:34:term-usage:1313-1323",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1313,
+    "end_char": 1323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:34:term-usage:1361-1371",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1361,
+    "end_char": 1371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:34:term-usage:2850-2860",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2850,
+    "end_char": 2860
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:34:term-usage:3420-3430",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3420,
+    "end_char": 3430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:34:term-usage:3637-3647",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3637,
+    "end_char": 3647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:35:term-usage:241-251",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 241,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:36:term-usage:271-281",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 271,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:37:term-usage:119-129",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 119,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:38:term-usage:638-648",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 638,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:39:term-usage:480-504",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 480,
+    "end_char": 504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:39:term-usage:510-520",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 510,
+    "end_char": 520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:39:term-usage:1459-1469",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1459,
+    "end_char": 1469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:39:term-usage:1957-1967",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1957,
+    "end_char": 1967
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:40:term-usage:36-60",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 36,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:40:term-usage:378-388",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 378,
+    "end_char": 388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:40:term-usage:775-785",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 775,
+    "end_char": 785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:40:term-usage:1133-1143",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1133,
+    "end_char": 1143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:40:term-usage:1294-1304",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1294,
+    "end_char": 1304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:40:term-usage:2224-2234",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2224,
+    "end_char": 2234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:40:term-usage:2764-2774",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2764,
+    "end_char": 2774
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:40:term-usage:3357-3367",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3357,
+    "end_char": 3367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:42:term-usage:286-296",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 286,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:42:term-usage:1280-1304",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 1280,
+    "end_char": 1304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:44:term-usage:440-450",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 440,
+    "end_char": 450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:46:term-usage:280-304",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 280,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:46:term-usage:726-750",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 726,
+    "end_char": 750
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:48:term-usage:425-449",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 425,
+    "end_char": 449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:50:term-usage:561-571",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 561,
+    "end_char": 571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:51:term-usage:367-377",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 367,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:51:term-usage:1622-1646",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 1622,
+    "end_char": 1646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:55:term-usage:63-73",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 63,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:55:term-usage:565-575",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 565,
+    "end_char": 575
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:55:term-usage:833-843",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 833,
+    "end_char": 843
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:55:term-usage:849-859",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 849,
+    "end_char": 859
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:55:term-usage:1223-1233",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1223,
+    "end_char": 1233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:55:term-usage:2727-2737",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2727,
+    "end_char": 2737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:56:term-usage:129-139",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 129,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:56:term-usage:322-332",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 322,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:57:term-usage:225-235",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 225,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:57:term-usage:401-411",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 401,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:57:term-usage:595-605",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 595,
+    "end_char": 605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:59:term-usage:658-668",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 658,
+    "end_char": 668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:59:term-usage:989-999",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 989,
+    "end_char": 999
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:59:term-usage:1521-1531",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1521,
+    "end_char": 1531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:60:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:60:term-usage:244-254",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 244,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:61:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:61:term-usage:172-182",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 172,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:61:term-usage:584-594",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 584,
+    "end_char": 594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:62:term-usage:82-92",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 82,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:63:term-usage:436-446",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 436,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:65:term-usage:52-62",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 52,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:65:term-usage:257-281",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 257,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:66:term-usage:256-266",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 256,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:66:term-usage:321-331",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 321,
+    "end_char": 331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:66:term-usage:773-783",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 773,
+    "end_char": 783
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:66:term-usage:999-1009",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 999,
+    "end_char": 1009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:66:term-usage:1175-1185",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1175,
+    "end_char": 1185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:68:term-usage:140-164",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 140,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:69:term-usage:157-167",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 157,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:72:term-usage:364-388",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 364,
+    "end_char": 388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:72:term-usage:634-658",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 634,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:73:term-usage:105-115",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 105,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:73:term-usage:227-237",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 227,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:74:term-usage:170-194",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 170,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:74:term-usage:323-338",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:marina-mercante",
+    "span": "Marina Mercante",
+    "start_char": 323,
+    "end_char": 338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:74:term-usage:459-469",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 459,
+    "end_char": 469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:74:term-usage:927-937",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 927,
+    "end_char": 937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:77:term-usage:454-464",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 454,
+    "end_char": 464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:77:term-usage:841-851",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 841,
+    "end_char": 851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:77:term-usage:1514-1524",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1514,
+    "end_char": 1524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:77:term-usage:1583-1593",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1583,
+    "end_char": 1593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:79:term-usage:514-535",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratado Internacional",
+    "start_char": 514,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:80:term-usage:226-250",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 226,
+    "end_char": 250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:87:term-usage:692-702",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 692,
+    "end_char": 702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:87:term-usage:1523-1533",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1523,
+    "end_char": 1533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:87:term-usage:1793-1817",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 1793,
+    "end_char": 1817
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:130:term-usage:429-439",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 429,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:130:term-usage:833-843",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 833,
+    "end_char": 843
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:130:term-usage:985-995",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:130",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 985,
+    "end_char": 995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:134:term-usage:192-216",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 192,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:140:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:140:term-usage:373-383",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 373,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:140:term-usage:492-502",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:140",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 492,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:151:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:151:term-usage:361-371",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 361,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:151:term-usage:480-490",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 480,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:159:term-usage:648-658",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:159",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 648,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:161:term-usage:621-631",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:161",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 621,
+    "end_char": 631
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:162:term-usage:761-771",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:162",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 761,
+    "end_char": 771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:163:term-usage:151-161",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:163",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 151,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:167:term-usage:168-178",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 168,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:167:term-usage:493-503",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 493,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:167:term-usage:946-956",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 946,
+    "end_char": 956
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:167:term-usage:1185-1195",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1185,
+    "end_char": 1195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:167:term-usage:1482-1492",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:167",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1482,
+    "end_char": 1492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:170:term-usage:261-271",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:170",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 261,
+    "end_char": 271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:170:term-usage:498-508",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:170",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 498,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:170:term-usage:805-815",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:170",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 805,
+    "end_char": 815
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:179:term-usage:252-276",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:179",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 252,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:180:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:180",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:181:term-usage:386-396",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:181",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 386,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:183:term-usage:67-77",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:183",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 67,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:183:term-usage:526-536",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:183",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 526,
+    "end_char": 536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:185:term-usage:99-109",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:185",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 99,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:185:term-usage:528-538",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:185",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 528,
+    "end_char": 538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:185:term-usage:998-1008",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:185",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 998,
+    "end_char": 1008
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:189:term-usage:1200-1224",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:189",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 1200,
+    "end_char": 1224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:243:term-usage:280-304",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:243",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 280,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:264:term-usage:343-353",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:264",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 343,
+    "end_char": 353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:264:term-usage:515-539",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:264",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 515,
+    "end_char": 539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:265:term-usage:242-252",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:265",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 242,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:265:term-usage:935-945",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:265",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 935,
+    "end_char": 945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:270:term-usage:151-161",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:270",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 151,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:275:term-usage:757-767",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:275",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 757,
+    "end_char": 767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:281:term-usage:114-124",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:281",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 114,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:298:term-usage:142-152",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:298",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 142,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:304:term-usage:252-276",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:304",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 252,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:323:term-usage:127-137",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:323",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 127,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:325:term-usage:108-132",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:325",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 108,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:326:term-usage:768-792",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:326",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:tratados-internacionales",
+    "span": "Tratados Internacionales",
+    "start_char": 768,
+    "end_char": 792
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:326:term-usage:1087-1097",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:326",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1087,
+    "end_char": 1097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:327:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:327",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:327:term-usage:1543-1553",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:327",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1543,
+    "end_char": 1553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:328:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:328",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:328:term-usage:662-672",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:328",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 662,
+    "end_char": 672
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:328:term-usage:1708-1718",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:328",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1708,
+    "end_char": 1718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:328:term-usage:1930-1940",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:328",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1930,
+    "end_char": 1940
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:328:term-usage:2749-2759",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:article:328",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2749,
+    "end_char": 2759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:transitory:primero:term-usage:20-30",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:navegacion",
+    "span": "Navegación",
+    "start_char": 20,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:transitory:segundo:term-usage:20-30",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:navegacion",
+    "span": "Navegación",
+    "start_char": 20,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:transitory:cuarto:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:transitory:decimo:term-usage:197-207",
+    "provision_id": "urn:lex-mx:federal:statute:lncm:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lncm:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 197,
+    "end_char": 207
+  }
+]

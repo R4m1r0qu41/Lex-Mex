@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfea",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Firma Electrónica Avanzada",
+  "short_name": "REG-LFEA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-03-21",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T08:04:54.459926Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf",
+  "source_sha256": "910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f",
+  "extracted_text_sha256": "57f898641169850a6b5af16c485dc2924b4b7294ca1d65dfe4e473504ef216e0",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

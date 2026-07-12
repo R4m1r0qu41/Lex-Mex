@@ -1,0 +1,23 @@
+{
+  "slug": "lins",
+  "instrument_id": "urn:lex-mx:federal:statute:lins",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de los Institutos Nacionales de Salud",
+  "short_name": "LINS",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lins.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2000-05-26",
+  "expected_min_articles": 60,
+  "expected_articles": 60,
+  "expected_transitories": 5,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:04:05Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

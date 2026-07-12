@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lan",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Aguas Nacionales",
+  "short_name": "REG-LAN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1994-01-12",
+  "latest_reform_date": "2014-08-25",
+  "retrieved_at": "2026-07-12T08:01:44.858671Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf",
+  "source_sha256": "d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399",
+  "extracted_text_sha256": "39d49495a6c06cab5302eb4bc20953987e35623cd72fd7eb876b52504ec909a0",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

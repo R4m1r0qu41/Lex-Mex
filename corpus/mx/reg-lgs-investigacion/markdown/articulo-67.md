@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lgs-investigacion:article:67
+instrument_id: urn:lex-mx:federal:regulation:reg-lgs-investigacion
+instrument: REG-LGS-INVESTIGACION
+name: "Reglamento de la Ley General de Salud en Materia de Investigación para la Salud"
+provision_type: article
+number: "67"
+aliases: ["REG-LGS-INVESTIGACION — Artículo 67"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf
+source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
+---
+
+> Título TERCERO · Capítulo II
+
+# Artículo 67
+
+Todas las investigaciones en farmacología clínica que se realicen, deberán estar precedidas por estudios preclínicos completos que incluyan características físico-químicas, actividad farmacológica, toxicidad, farmacocinética, absorción, distribución, metabolismo y excreción del medicamento en diferentes especies de animales; frecuencias, vías de administración y duración de las dosis estudiadas que pueden servir como base para la seguridad de su administración en el ser humano; también se requerirán estudios sobre mutagénesis, teratogénesis y carcinogénesis. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE INVESTIGACION PARA LA SALUD

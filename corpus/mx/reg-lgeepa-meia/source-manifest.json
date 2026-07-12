@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MEIA_311014.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MEIA_311014.pdf",
+  "retrieved_at": "2026-07-12T08:00:51.854862Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 410178,
+  "etag": "\"64242-563b487abce40\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:05 GMT",
+  "source_sha256": "c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f",
+  "extracted_text_sha256": "8f8c5d2512b9e390ace741f015d455a4e2a814d95d2ff19cb16bf79e74b5afc8",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

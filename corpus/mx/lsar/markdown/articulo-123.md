@@ -1,0 +1,28 @@
+---
+id: urn:lex-mx:federal:statute:lsar:article:123
+instrument_id: urn:lex-mx:federal:statute:lsar
+instrument: LSAR
+name: "Ley de los Sistemas de Ahorro para el Retiro"
+provision_type: article
+number: "123"
+aliases: ["LSAR — Artículo 123"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
+source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
+---
+
+> Capítulo IX
+
+# Artículo 123
+
+Con el propósito de que exista mayor información y control de los sistemas de ahorro para el retiro y de la administración de las cuentas individuales por las administradoras, se crea el Consejo de Pensiones integrado por diecinueve miembros: seis representantes de los trabajadores, seis de los patrones, seis de las administradoras y el Presidente de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros.
+
+Este Consejo tendrá como función conocer las políticas de administración de las cuentas individuales por las administradoras, las políticas de inversión de los recursos de los trabajadores y sobre las comisiones que se apliquen a sus cuentas individuales, así como dirigir recomendaciones a los consejos de administración de las diversas administradoras.
+
+La Secretaría del Trabajo y Previsión Social fijará las bases para determinar la forma de designar a los representantes de los trabajadores y los patrones. Los representantes de las administradoras deberán ser nombrados por acuerdo de todas las administradoras autorizadas y tendrán derecho a voz, pero no a voto.
+
+Un representante de los trabajadores o los patrones presidirá, alternativamente, por periodos anuales el Consejo de Pensiones. Este consejo se deberá reunir, a convocatoria de quien presida, en sesiones ordinarias por lo menos cada seis meses.
+
+Artículo adicionado DOF 10-12-2002

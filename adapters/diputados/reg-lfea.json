@@ -1,0 +1,23 @@
+{
+  "slug": "reg-lfea",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley de Firma Electrónica Avanzada",
+  "short_name": "REG-LFEA",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2014-03-21",
+  "expected_min_articles": 27,
+  "expected_articles": 27,
+  "expected_transitories": 2,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:04:55Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

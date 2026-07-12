@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lan",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf",
+  "retrieved_at": "2026-07-12T08:01:44.858671Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 722291,
+  "etag": "\"b0573-563b4879c8c00\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:04 GMT",
+  "source_sha256": "d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399",
+  "extracted_text_sha256": "39d49495a6c06cab5302eb4bc20953987e35623cd72fd7eb876b52504ec909a0",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

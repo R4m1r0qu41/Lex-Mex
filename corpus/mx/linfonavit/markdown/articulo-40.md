@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:statute:linfonavit:article:40
+instrument_id: urn:lex-mx:federal:statute:linfonavit
+instrument: LINFONAVIT
+name: "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores"
+provision_type: article
+number: "40"
+aliases: ["LINFONAVIT — Artículo 40"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf
+source_sha256: 9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912
+---
+
+# Artículo 40
+
+Los fondos de la subcuenta de vivienda que no hubiesen sido aplicados de acuerdo al artículo [43 Bis](articulo-43-Bis.md), serán transferidos a las administradoras de fondos para el retiro para la contratación de la pensión correspondiente o su entrega, según proceda, en los términos de lo dispuesto por las Leyes del Seguro Social, en particular en sus artículos 119, 120, 127, 154, 159, 170 y 190, 193 y de los Sistemas de Ahorro para el Retiro, particularmente, en sus artículos [3](articulo-3o.md), [18](articulo-18.md), 80, 82 y 83.
+
+A efecto de lo anterior, el trabajador o sus beneficiarios deberán solicitar al Instituto la transferencia de los recursos de la subcuenta de vivienda a las administradoras de fondos para el retiro. El Instituto podrá convenir con el Instituto Mexicano del Seguro Social los términos y requisitos para simplificar y unificar los procesos para autorizar la disponibilidad de los recursos a que se refiere el párrafo anterior.
+
+Artículo reformado DOF 13-01-1986, 24-02-1992, 22-07-1994, 06-01-1997

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lbogm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Bioseguridad de Organismos Genéticamente Modificados",
+  "short_name": "REG-LBOGM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2008-03-19",
+  "latest_reform_date": "2009-03-06",
+  "retrieved_at": "2026-07-12T08:01:36.847363Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBOGM.pdf",
+  "source_sha256": "667636f9e0ea65e72ac9d6d7b4d7563a183b75d0f140268a61929c74f5f88041",
+  "extracted_text_sha256": "8cff1dd25616939e507e6349b512319f23e733c40938be0f870472895949c379",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "reg-lgs-mp",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley General de Salud en Materia de Publicidad",
+  "short_name": "REG-LGS-MP",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MP.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2000-05-04",
+  "expected_min_articles": 116,
+  "expected_articles": 116,
+  "expected_transitories": 6,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:03:50Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

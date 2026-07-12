@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lftse",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lftse.htm",
+  "retrieved_at": "2026-07-12T08:00:13.406070Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 802859,
+  "etag": "\"c402b-6494ddd472280\"",
+  "last_modified": "Mon, 26 Jan 2026 17:30:34 GMT",
+  "source_sha256": "2055ea67ac6fb6642ef90d1970e8ebf9870a0cb40c71930aa99d12dd446870fe",
+  "extracted_text_sha256": "c394e7b001eca12861c344a381740d1fc2722345a6a56918c072629afd0a0ee9",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

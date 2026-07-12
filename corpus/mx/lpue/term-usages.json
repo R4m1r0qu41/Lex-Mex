@@ -1,0 +1,776 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:1:term-usage:474-484",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 474,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:1:term-usage:488-494",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:marina",
+    "span": "Marina",
+    "start_char": 488,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:2:term-usage:81-87",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:marina",
+    "span": "Marina",
+    "start_char": 81,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:2:term-usage:762-772",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 762,
+    "end_char": 772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:2:term-usage:782-792",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 782,
+    "end_char": 792
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:2:term-usage:2524-2555",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:proteccion-maritima-y-portuaria",
+    "span": "Protección Marítima y Portuaria",
+    "start_char": 2524,
+    "end_char": 2555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:6:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:7:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:7:term-usage:32-42",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 32,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:7:term-usage:389-399",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 389,
+    "end_char": 399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:8:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:8:term-usage:36-46",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 36,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:13:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:16:term-usage:104-114",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 104,
+    "end_char": 114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:16:term-usage:2297-2307",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2297,
+    "end_char": 2307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:19-bis:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:19-bis",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:20:term-usage:280-290",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 280,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:20:term-usage:984-994",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 984,
+    "end_char": 994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:20:term-usage:1121-1131",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1121,
+    "end_char": 1131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:20:term-usage:1749-1759",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1749,
+    "end_char": 1759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:20:term-usage:2036-2046",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2036,
+    "end_char": 2046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:23:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:23:term-usage:401-411",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 401,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:23:term-usage:494-504",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 494,
+    "end_char": 504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:23-bis:term-usage:119-129",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 119,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:23-bis:term-usage:154-164",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 154,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:23-bis:term-usage:749-759",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 749,
+    "end_char": 759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:23-bis:term-usage:780-790",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 780,
+    "end_char": 790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:23-bis:term-usage:1205-1215",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1205,
+    "end_char": 1215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:23-bis:term-usage:1773-1783",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1773,
+    "end_char": 1783
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:23-bis:term-usage:1806-1816",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:23-bis",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1806,
+    "end_char": 1816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:24:term-usage:119-129",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 119,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:24:term-usage:439-449",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 439,
+    "end_char": 449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:24:term-usage:1454-1464",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1454,
+    "end_char": 1464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:24:term-usage:1697-1707",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1697,
+    "end_char": 1707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:24:term-usage:2158-2168",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2158,
+    "end_char": 2168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:24:term-usage:2313-2323",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2313,
+    "end_char": 2323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:24:term-usage:3217-3227",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3217,
+    "end_char": 3227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:25:term-usage:259-269",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 259,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:26:term-usage:987-992",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:cumar",
+    "span": "CUMAR",
+    "start_char": 987,
+    "end_char": 992
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:30:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:33:term-usage:876-886",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 876,
+    "end_char": 886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:33:term-usage:1410-1420",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1410,
+    "end_char": 1420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:34:term-usage:56-66",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 56,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:34:term-usage:112-122",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 112,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:34:term-usage:509-519",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 509,
+    "end_char": 519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:36:term-usage:390-400",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 390,
+    "end_char": 400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:36:term-usage:784-794",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 784,
+    "end_char": 794
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:37:term-usage:628-638",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 628,
+    "end_char": 638
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:37:term-usage:687-697",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 687,
+    "end_char": 697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:40:term-usage:1175-1185",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1175,
+    "end_char": 1185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:40:term-usage:2012-2017",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:cumar",
+    "span": "CUMAR",
+    "start_char": 2012,
+    "end_char": 2017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:40:term-usage:2074-2105",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:proteccion-maritima-y-portuaria",
+    "span": "Protección Marítima y Portuaria",
+    "start_char": 2074,
+    "end_char": 2105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:41:term-usage:932-942",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 932,
+    "end_char": 942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:41:term-usage:1150-1160",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1150,
+    "end_char": 1160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:41:term-usage:1268-1278",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1268,
+    "end_char": 1278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:41:term-usage:1316-1326",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1316,
+    "end_char": 1326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:41:term-usage:1432-1442",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1432,
+    "end_char": 1442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:41:term-usage:1676-1686",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1676,
+    "end_char": 1686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:41:term-usage:1953-1963",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1953,
+    "end_char": 1963
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:41:term-usage:2003-2013",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2003,
+    "end_char": 2013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:46:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:47:term-usage:92-102",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 92,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:48:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:51:term-usage:683-693",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 683,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:51:term-usage:731-741",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 731,
+    "end_char": 741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:52:term-usage:171-181",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 171,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:54:term-usage:384-394",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 384,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:55:term-usage:46-56",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 46,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:58-bis:term-usage:173-183",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:58-bis",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 173,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:60:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:60:term-usage:500-510",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 500,
+    "end_char": 510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:63:term-usage:53-63",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 53,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:64:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:64:term-usage:275-285",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 275,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:65:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:65:term-usage:1278-1288",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1278,
+    "end_char": 1288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:65:term-usage:1683-1693",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1683,
+    "end_char": 1693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:66:term-usage:67-77",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 67,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:67:term-usage:68-78",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 68,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:67:term-usage:520-530",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 520,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:68:term-usage:144-154",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 144,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:69:term-usage:66-76",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 66,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:article:69:term-usage:301-311",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 301,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:transitory:segundo:term-usage:65-72",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:puerto",
+    "span": "Puertos",
+    "start_char": 65,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpue:transitory:cuarto:term-usage:471-481",
+    "provision_id": "urn:lex-mx:federal:statute:lpue:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lpue:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 471,
+    "end_char": 481
+  }
+]

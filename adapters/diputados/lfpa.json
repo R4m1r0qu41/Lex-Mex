@@ -1,0 +1,23 @@
+{
+  "slug": "lfpa",
+  "instrument_id": "urn:lex-mx:federal:statute:lfpa",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal de Procedimiento Administrativo",
+  "short_name": "LFPA",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpa.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1994-08-04",
+  "expected_min_articles": 118,
+  "expected_articles": 118,
+  "expected_transitories": 4,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T07:59:23Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

@@ -1,0 +1,407 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:term-usage:25-35",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 25,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:term-usage:304-313",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 304,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:term-usage:355-364",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 355,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:term-usage:654-663",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 654,
+    "end_char": 663
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:term-usage:887-896",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 887,
+    "end_char": 896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:term-usage:1138-1147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 1138,
+    "end_char": 1147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:term-usage:1467-1476",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 1467,
+    "end_char": 1476
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:term-usage:1636-1640",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:ifai",
+    "span": "IFAI",
+    "start_char": 1636,
+    "end_char": 1640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2:term-usage:1647-1656",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 1647,
+    "end_char": 1656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:3:term-usage:30-39",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 30,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:3:term-usage:168-178",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 168,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:4:term-usage:12-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 12,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:4:term-usage:91-100",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 91,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:5:term-usage:24-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:contraloria-interna",
+    "span": "Contraloría Interna",
+    "start_char": 24,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:5:term-usage:88-97",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 88,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:5:term-usage:138-142",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:ifai",
+    "span": "IFAI",
+    "start_char": 138,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:6:term-usage:66-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 66,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:6:term-usage:80-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:normatividad-del-infonavit",
+    "span": "Normatividad del INFONAVIT",
+    "start_char": 80,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:6:term-usage:242-252",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 242,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:7:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:7:term-usage:201-239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:sistemas-de-solicitudes-de-informacion",
+    "span": "Sistemas de Solicitudes de Información",
+    "start_char": 201,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:7:term-usage:330-334",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:ifai",
+    "span": "IFAI",
+    "start_char": 330,
+    "end_char": 334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:7:term-usage:458-467",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 458,
+    "end_char": 467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:8:term-usage:3-7",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:ifai",
+    "span": "IFAI",
+    "start_char": 3,
+    "end_char": 7
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:8:term-usage:100-109",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 100,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:8:term-usage:297-306",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 297,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9:term-usage:53-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 53,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9:term-usage:174-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:sistemas-de-solicitudes-de-informacion",
+    "span": "Sistemas de Solicitudes de Información",
+    "start_char": 174,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9:term-usage:478-516",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:sistemas-de-solicitudes-de-informacion",
+    "span": "Sistemas de Solicitudes de Información",
+    "start_char": 478,
+    "end_char": 516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9:term-usage:618-627",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 618,
+    "end_char": 627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9:term-usage:739-748",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 739,
+    "end_char": 748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9:term-usage:874-878",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:ifai",
+    "span": "IFAI",
+    "start_char": 874,
+    "end_char": 878
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9:term-usage:974-983",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 974,
+    "end_char": 983
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:10:term-usage:69-132",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:comite-de-transparencia-y-acceso-a-la-informacion-del-infonavit",
+    "span": "Comité de Transparencia y Acceso a la Información del INFONAVIT",
+    "start_char": 69,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:10:term-usage:195-204",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 195,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:11:term-usage:73-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 73,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:11:term-usage:92-155",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:comite-de-transparencia-y-acceso-a-la-informacion-del-infonavit",
+    "span": "Comité de Transparencia y Acceso a la Información del INFONAVIT",
+    "start_char": 92,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:12:term-usage:86-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 86,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:12:term-usage:175-184",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 175,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:12:term-usage:257-261",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:ifai",
+    "span": "IFAI",
+    "start_char": 257,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:13:term-usage:187-196",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 187,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:13:term-usage:382-391",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 382,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:13:term-usage:525-588",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:comite-de-transparencia-y-acceso-a-la-informacion-del-infonavit",
+    "span": "Comité de Transparencia y Acceso a la Información del INFONAVIT",
+    "start_char": 525,
+    "end_char": 588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:14:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:infonavit",
+    "span": "INFONAVIT",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:transitory:unico:term-usage:12-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:transitory:unico",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 12,
+    "end_char": 22
+  }
+]

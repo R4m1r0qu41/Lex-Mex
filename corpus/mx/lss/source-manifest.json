@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lss",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lss.htm",
+  "retrieved_at": "2026-07-12T08:00:25.394855Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 2161638,
+  "etag": "\"20fbe6-64953900abd00\"",
+  "last_modified": "Tue, 27 Jan 2026 00:18:28 GMT",
+  "source_sha256": "8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed",
+  "extracted_text_sha256": "7640325c11dcef66914393008eb777f498142ac1ab6990da3316db4faf6a3859",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

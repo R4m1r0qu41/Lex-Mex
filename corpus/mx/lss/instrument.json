@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lss",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Seguro Social",
+  "short_name": "LSS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1995-12-21",
+  "latest_reform_date": "2026-01-15",
+  "retrieved_at": "2026-07-12T08:00:25.394855Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf",
+  "source_sha256": "8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed",
+  "extracted_text_sha256": "7640325c11dcef66914393008eb777f498142ac1ab6990da3316db4faf6a3859",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

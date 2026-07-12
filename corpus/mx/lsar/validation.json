@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lsar",
+  "valid": true,
+  "article_count": 148,
+  "transitory_count": 19,
+  "reference_count": 72,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "suffix_order",
+      "message": "article 100 bis does not sort after 100-B within the same base",
+      "provision_id": "urn:lex-mx:federal:statute:lsar:article:100-bis"
+    }
+  ]
+}

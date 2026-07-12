@@ -1,0 +1,18 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lgs-investigacion:transitory:primero
+instrument_id: urn:lex-mx:federal:regulation:reg-lgs-investigacion
+instrument: REG-LGS-INVESTIGACION
+name: "Reglamento de la Ley General de Salud en Materia de Investigación para la Salud"
+provision_type: transitory
+number: "PRIMERO"
+aliases: ["REG-LGS-INVESTIGACION — PRIMERO"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf
+source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b
+---
+
+# PRIMERO
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.

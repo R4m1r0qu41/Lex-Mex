@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgra",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Responsabilidades Administrativas",
+  "short_name": "LGRA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2016-07-18",
+  "latest_reform_date": "2025-12-15",
+  "retrieved_at": "2026-07-12T07:59:43.883928Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf",
+  "source_sha256": "1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8",
+  "extracted_text_sha256": "f43b69bb9ea9f3411a43d64892b30c5b7efd11d4ac612e0f1aef9d00c90acb5f",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

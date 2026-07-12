@@ -1,0 +1,722 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:1:term-usage:81-111",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 81,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:2:term-usage:1995-2025",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 1995,
+    "end_char": 2025
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:2:term-usage:2185-2215",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 2185,
+    "end_char": 2215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:3:term-usage:104-134",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 104,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:4:term-usage:174-184",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 174,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:5:term-usage:60-90",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 60,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:5:term-usage:1743-1770",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Instituto Nacional de Salud",
+    "start_char": 1743,
+    "end_char": 1770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:6:term-usage:6-36",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 6,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:6:term-usage:1822-1832",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1822,
+    "end_char": 1832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:6:term-usage:2437-2447",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2437,
+    "end_char": 2447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:7:term-usage:14-41",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Instituto Nacional de Salud",
+    "start_char": 14,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:7-ter:term-usage:139-149",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:7-ter",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 139,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:8:term-usage:38-68",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 38,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:8:term-usage:131-158",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Instituto Nacional de Salud",
+    "start_char": 131,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:9:term-usage:33-63",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 33,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:10:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:11:term-usage:20-50",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 20,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:12:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:12:term-usage:556-566",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 556,
+    "end_char": 566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:12:term-usage:590-600",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 590,
+    "end_char": 600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:13:term-usage:32-43",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 32,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:13:term-usage:173-203",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 173,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:14:term-usage:37-67",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 37,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:15:term-usage:42-72",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 42,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:15:term-usage:160-170",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 160,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:15:term-usage:247-257",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 247,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:15:term-usage:379-389",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 379,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:15:term-usage:687-697",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 687,
+    "end_char": 697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:15:term-usage:1077-1087",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1077,
+    "end_char": 1087
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:15:term-usage:1142-1172",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 1142,
+    "end_char": 1172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:15:term-usage:1318-1328",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1318,
+    "end_char": 1328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:16:term-usage:30-60",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 30,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:18:term-usage:32-62",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 32,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:18:term-usage:444-471",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Instituto Nacional de Salud",
+    "start_char": 444,
+    "end_char": 471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:18:term-usage:671-701",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 671,
+    "end_char": 701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:19:term-usage:32-62",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 32,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:20:term-usage:32-62",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 32,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:21:term-usage:16-46",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 16,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:30:term-usage:16-46",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 16,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:30:term-usage:118-145",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Instituto Nacional de Salud",
+    "start_char": 118,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:32:term-usage:16-46",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 16,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:32:term-usage:162-172",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 162,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:33:term-usage:16-46",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 16,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:33:term-usage:234-244",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 234,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:35:term-usage:35-65",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 35,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:37:term-usage:39-69",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 39,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:38:term-usage:57-87",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 57,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:39:term-usage:34-64",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 34,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:40:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:41:term-usage:762-789",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Instituto Nacional de Salud",
+    "start_char": 762,
+    "end_char": 789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:42:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:43:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:43:term-usage:316-343",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Instituto Nacional de Salud",
+    "start_char": 316,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:43:term-usage:2349-2359",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2349,
+    "end_char": 2359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:44:term-usage:5-32",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Instituto Nacional de Salud",
+    "start_char": 5,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:45:term-usage:111-141",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 111,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:46:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:47:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:47:term-usage:497-527",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 497,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:48:term-usage:29-59",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 29,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:48:term-usage:381-391",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 381,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:49:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:49:term-usage:156-166",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 156,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:50:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:51:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:52:term-usage:43-73",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 43,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:53:term-usage:96-126",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 96,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:54:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:54:term-usage:1063-1073",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1063,
+    "end_char": 1073
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:56:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:57:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:58:term-usage:4-34",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 4,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:58:term-usage:526-553",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Instituto Nacional de Salud",
+    "start_char": 526,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:58:term-usage:625-635",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 625,
+    "end_char": 635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:58:term-usage:789-819",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 789,
+    "end_char": 819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:58:term-usage:1053-1083",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 1053,
+    "end_char": 1083
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:article:58:term-usage:1254-1284",
+    "provision_id": "urn:lex-mx:federal:statute:lins:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 1254,
+    "end_char": 1284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:transitory:segundo:term-usage:342-369",
+    "provision_id": "urn:lex-mx:federal:statute:lins:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Instituto Nacional de Salud",
+    "start_char": 342,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:transitory:cuarto:term-usage:71-101",
+    "provision_id": "urn:lex-mx:federal:statute:lins:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 71,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lins:transitory:quinto:term-usage:111-141",
+    "provision_id": "urn:lex-mx:federal:statute:lins:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lins:term:institutos-nacionales-de-salud",
+    "span": "Institutos Nacionales de Salud",
+    "start_char": 111,
+    "end_char": 141
+  }
+]

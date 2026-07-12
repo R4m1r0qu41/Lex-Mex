@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgpgir",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPGIR.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpgir.htm",
+  "retrieved_at": "2026-07-12T08:01:15.821394Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 669174,
+  "etag": "\"a35f6-64b35c6beb200\"",
+  "last_modified": "Thu, 19 Feb 2026 23:36:40 GMT",
+  "source_sha256": "b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565",
+  "extracted_text_sha256": "94e532726385094489b91635a9c54aa8e16428e2a6e3a934f84bdd9086a5db9a",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lncm:article:64
+instrument_id: urn:lex-mx:federal:statute:lncm
+instrument: LNCM
+name: "Ley de Navegación y Comercio Marítimos"
+provision_type: article
+number: "64"
+aliases: ["LNCM — Artículo 64"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf
+source_sha256: f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926
+---
+
+> Título TERCERO · Capítulo V
+
+# Artículo 64
+
+Los capitanes de las embarcaciones y quienes dirijan las operaciones en los artefactos navales, están obligados a informar por cualquier medio de comunicación desde el momento de su avistamiento a la capitanía de puerto más próxima, sobre las interrupciones o deficiencias que se adviertan en las materias reguladas en este capítulo. La capitanía de puerto a su vez, estará obligada a informar a todas las embarcaciones que se encuentren en la misma área sobre tales interrupciones o deficiencias. A su arribo a puerto, el capitán deberá informar lo señalado en este artículo por escrito a la capitanía de puerto, quien deberá tomar de inmediato las medidas necesarias para eliminar las interrupciones o las deficiencias.

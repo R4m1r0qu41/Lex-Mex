@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lscs",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley sobre el Contrato de Seguro",
+  "short_name": "LSCS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1935-08-31",
+  "latest_reform_date": "2013-04-04",
+  "retrieved_at": "2026-07-12T08:06:41.179692Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/211.pdf",
+  "source_sha256": "8b5abc3a8b409df55685b2337fc723b196bcaece68eb37a25e65c0a4f64a7e06",
+  "extracted_text_sha256": "c9dd0052eacd1568b848c3a63a93170848ea686d2e2cb8f2c8005cdf1ed70e8a",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

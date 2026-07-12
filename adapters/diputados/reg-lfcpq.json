@@ -1,0 +1,23 @@
+{
+  "slug": "reg-lfcpq",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcpq",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos",
+  "short_name": "REG-LFCPQ",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCPrecQuim.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCPrecQuim.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1999-09-15",
+  "expected_min_articles": 18,
+  "expected_articles": 18,
+  "expected_transitories": 1,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T07:59:10Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

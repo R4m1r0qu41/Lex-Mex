@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSEDMTP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSEDMTP.pdf",
+  "retrieved_at": "2026-07-12T07:59:02.188343Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 256839,
+  "etag": "\"3eb47-563b487d99500\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:08 GMT",
+  "source_sha256": "1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694",
+  "extracted_text_sha256": "b7837fe18dae2e5216fb8ec5d4c92849796a38eeddb3cf26f9b8ef1f05cbe818",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

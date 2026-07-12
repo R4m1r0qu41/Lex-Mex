@@ -1,0 +1,23 @@
+{
+  "slug": "reg-linfonavit-mtai",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores en Materia de Transparencia y Acceso a la Información",
+  "short_name": "REG-LINFONAVIT-MTAI",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LInfonavit_MTAI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LInfonavit_MTAI.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2005-12-12",
+  "expected_min_articles": 14,
+  "expected_articles": 14,
+  "expected_transitories": 1,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:00:20Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lic",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lic.htm",
+  "retrieved_at": "2026-07-12T08:06:03.378039Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 2704455,
+  "etag": "\"294447-644867286b080\"",
+  "last_modified": "Wed, 26 Nov 2025 21:54:58 GMT",
+  "source_sha256": "98225a423eaa3dc47c9ec4ddb49ef8b188ed7f8e7e9ef17323a1c33e47e4284d",
+  "extracted_text_sha256": "6ec122ec76d92e48e959d56937117da5c216ae06f420ef74e307cf0db5fe98b5",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

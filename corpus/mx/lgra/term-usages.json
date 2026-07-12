@@ -1,0 +1,4484 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:2:term-usage:147-176",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Faltas administrativas graves",
+    "start_char": 147,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:2:term-usage:417-439",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 417,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:2:term-usage:705-717",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:ente-publico",
+    "span": "Ente público",
+    "start_char": 705,
+    "end_char": 717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:157-168",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 157,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:174-201",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 174,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:206-224",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:auditoria-superior",
+    "span": "Auditoría Superior",
+    "start_char": 206,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:430-452",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 430,
+    "end_char": 452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:506-517",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 506,
+    "end_char": 517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:523-550",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 523,
+    "end_char": 550
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:555-573",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:auditoria-superior",
+    "span": "Auditoría Superior",
+    "start_char": 555,
+    "end_char": 573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:1017-1040",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 1017,
+    "end_char": 1040
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:1083-1115",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Faltas administrativas no graves",
+    "start_char": 1083,
+    "end_char": 1115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:1209-1236",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 1209,
+    "end_char": 1236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:1247-1276",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Faltas administrativas graves",
+    "start_char": 1247,
+    "end_char": 1276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:1296-1318",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 1296,
+    "end_char": 1318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:1331-1339",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1331,
+    "end_char": 1339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:1433-1445",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1433,
+    "end_char": 1445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:1532-1563",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 1532,
+    "end_char": 1563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:2067-2093",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridades investigadoras",
+    "start_char": 2067,
+    "end_char": 2093
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:2211-2233",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 2211,
+    "end_char": 2233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:3494-3506",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 3494,
+    "end_char": 3506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:3794-3816",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 3794,
+    "end_char": 3816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:3852-3881",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Faltas administrativas graves",
+    "start_char": 3852,
+    "end_char": 3881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:3887-3919",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Faltas administrativas no graves",
+    "start_char": 3887,
+    "end_char": 3919
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:3934-3956",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 3934,
+    "end_char": 3956
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:4152-4163",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 4152,
+    "end_char": 4163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:4172-4199",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 4172,
+    "end_char": 4199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:4377-4385",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 4377,
+    "end_char": 4385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:4703-4711",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 4703,
+    "end_char": 4711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:5106-5128",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 5106,
+    "end_char": 5128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:5270-5278",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 5270,
+    "end_char": 5278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:5512-5524",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 5512,
+    "end_char": 5524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:5929-5963",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-constitucionales-autonomos",
+    "span": "Órganos constitucionales autónomos",
+    "start_char": 5929,
+    "end_char": 5963
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:6297-6309",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 6297,
+    "end_char": 6309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:6584-6615",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 6584,
+    "end_char": 6615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:6754-6764",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretarias",
+    "span": "Secretaría",
+    "start_char": 6754,
+    "end_char": 6764
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:3:term-usage:6841-6851",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 6841,
+    "end_char": 6851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:5:term-usage:563-572",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:entidades",
+    "span": "Entidades",
+    "start_char": 563,
+    "end_char": 572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:5:term-usage:768-780",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:ente-publico",
+    "span": "Ente público",
+    "start_char": 768,
+    "end_char": 780
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:5:term-usage:821-841",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:conflicto-de-interes",
+    "span": "Conflicto de Interés",
+    "start_char": 821,
+    "end_char": 841
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:7:term-usage:2074-2086",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 2074,
+    "end_char": 2086
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:8:term-usage:135-166",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 135,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:99-110",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 99,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:121-148",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 121,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:159-177",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:auditoria-superior",
+    "span": "Auditoría Superior",
+    "start_char": 159,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:201-265",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:entidades-de-fiscalizacion-superior-de-las-entidades-federativas",
+    "span": "Entidades de fiscalización superior de las entidades federativas",
+    "start_char": 201,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:276-286",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 276,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:538-546",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 538,
+    "end_char": 546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:639-651",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 639,
+    "end_char": 651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:708-718",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 708,
+    "end_char": 718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:869-881",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 869,
+    "end_char": 881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:1023-1041",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:auditoria-superior",
+    "span": "Auditoría Superior",
+    "start_char": 1023,
+    "end_char": 1041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:1051-1060",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:entidades",
+    "span": "Entidades",
+    "start_char": 1051,
+    "end_char": 1060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:1563-1595",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Faltas administrativas no graves",
+    "start_char": 1563,
+    "end_char": 1595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:9:term-usage:1627-1654",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:plataforma-digital-nacional",
+    "span": "Plataforma digital nacional",
+    "start_char": 1627,
+    "end_char": 1654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:10:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:10:term-usage:22-49",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 22,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:10:term-usage:203-225",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 203,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:10:term-usage:292-324",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Faltas administrativas no graves",
+    "start_char": 292,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:10:term-usage:330-341",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 330,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:10:term-usage:348-375",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 348,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:10:term-usage:623-645",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 623,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:10:term-usage:719-769",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 719,
+    "end_char": 769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:10:term-usage:789-813",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 789,
+    "end_char": 813
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:10:term-usage:930-957",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 930,
+    "end_char": 957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:10:term-usage:1149-1180",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 1149,
+    "end_char": 1180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:11:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:auditoria-superior",
+    "span": "Auditoría Superior",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:11:term-usage:28-92",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:entidades-de-fiscalizacion-superior-de-las-entidades-federativas",
+    "span": "Entidades de fiscalización superior de las entidades federativas",
+    "start_char": 28,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:11:term-usage:216-234",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:auditoria-superior",
+    "span": "Auditoría Superior",
+    "start_char": 216,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:11:term-usage:241-305",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:entidades-de-fiscalizacion-superior-de-las-entidades-federativas",
+    "span": "Entidades de fiscalización superior de las entidades federativas",
+    "start_char": 241,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:11:term-usage:384-411",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 384,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:12:term-usage:4-14",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 4,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:12:term-usage:205-234",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Faltas administrativas graves",
+    "start_char": 205,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:12:term-usage:240-262",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 240,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:13:term-usage:11-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridades investigadoras",
+    "start_char": 11,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:13:term-usage:224-253",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Faltas administrativas graves",
+    "start_char": 224,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:13:term-usage:344-352",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 344,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:13:term-usage:416-424",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 416,
+    "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:14:term-usage:180-192",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 180,
+    "end_char": 192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:14:term-usage:538-546",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 538,
+    "end_char": 546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:15:term-usage:80-91",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 80,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:15:term-usage:98-125",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 98,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:15:term-usage:442-473",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 442,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:15:term-usage:528-555",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 528,
+    "end_char": 555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:15:term-usage:691-702",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 691,
+    "end_char": 702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:15:term-usage:754-788",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-constitucionales-autonomos",
+    "span": "Órganos constitucionales autónomos",
+    "start_char": 754,
+    "end_char": 788
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:15:term-usage:794-821",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 794,
+    "end_char": 821
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:16:term-usage:139-150",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 139,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:16:term-usage:157-184",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 157,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:16:term-usage:227-258",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 227,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:17:term-usage:4-31",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 4,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:17:term-usage:241-251",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 241,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:18:term-usage:4-31",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 4,
+    "end_char": 31
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:18:term-usage:80-98",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 80,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:18:term-usage:103-134",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 103,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:18:term-usage:302-324",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 302,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:19:term-usage:109-140",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 109,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:19:term-usage:155-173",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 155,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:19:term-usage:178-209",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 178,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:19:term-usage:298-325",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 298,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:20:term-usage:44-71",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 44,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:20:term-usage:491-518",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 491,
+    "end_char": 518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:20:term-usage:526-560",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-constitucionales-autonomos",
+    "span": "Órganos constitucionales autónomos",
+    "start_char": 526,
+    "end_char": 560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:21:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:23:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:23:term-usage:26-57",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 26,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:23:term-usage:250-272",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 250,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:26:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:26:term-usage:28-59",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 28,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:26:term-usage:201-228",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:plataforma-digital-nacional",
+    "span": "Plataforma digital nacional",
+    "start_char": 201,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:26:term-usage:311-342",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 311,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:26:term-usage:405-423",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 405,
+    "end_char": 423
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:26:term-usage:428-459",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 428,
+    "end_char": 459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:167-194",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:plataforma-digital-nacional",
+    "span": "Plataforma digital nacional",
+    "start_char": 167,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:262-293",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 262,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:446-468",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 446,
+    "end_char": 468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:549-580",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 549,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:586-613",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:plataforma-digital-nacional",
+    "span": "Plataforma digital nacional",
+    "start_char": 586,
+    "end_char": 613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:705-736",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 705,
+    "end_char": 736
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:871-898",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:plataforma-digital-nacional",
+    "span": "Plataforma digital nacional",
+    "start_char": 871,
+    "end_char": 898
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:1278-1305",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:plataforma-digital-nacional",
+    "span": "Plataforma digital nacional",
+    "start_char": 1278,
+    "end_char": 1305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:1396-1427",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 1396,
+    "end_char": 1427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:1805-1813",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1805,
+    "end_char": 1813
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:27:term-usage:2076-2103",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:plataforma-digital-nacional",
+    "span": "Plataforma digital nacional",
+    "start_char": 2076,
+    "end_char": 2103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:28:term-usage:154-164",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 154,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:28:term-usage:293-319",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridades investigadoras",
+    "start_char": 293,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:29:term-usage:166-178",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 166,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:29:term-usage:200-218",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 200,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:30:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:30:term-usage:22-49",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 22,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:31:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:31:term-usage:30-57",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 30,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:31:term-usage:312-323",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:declarante",
+    "span": "Declarantes",
+    "start_char": 312,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:31:term-usage:404-424",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:conflicto-de-interes",
+    "span": "Conflicto de Interés",
+    "start_char": 404,
+    "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:31:term-usage:558-569",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:declarante",
+    "span": "Declarantes",
+    "start_char": 558,
+    "end_char": 569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:31:term-usage:631-642",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 631,
+    "end_char": 642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:32:term-usage:130-141",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 130,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:32:term-usage:158-183",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órgano interno de control",
+    "start_char": 158,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:term-usage:731-741",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 731,
+    "end_char": 741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:term-usage:748-775",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 748,
+    "end_char": 775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:term-usage:1462-1484",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 1462,
+    "end_char": 1484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:term-usage:1532-1542",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:declarante",
+    "span": "Declarante",
+    "start_char": 1532,
+    "end_char": 1542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:term-usage:1824-1834",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:declarante",
+    "span": "Declarante",
+    "start_char": 1824,
+    "end_char": 1834
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:term-usage:1840-1851",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 1840,
+    "end_char": 1851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:term-usage:1858-1885",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 1858,
+    "end_char": 1885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:33:term-usage:2018-2030",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:ente-publico",
+    "span": "Ente público",
+    "start_char": 2018,
+    "end_char": 2030
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:34:term-usage:346-373",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 346,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:34:term-usage:380-391",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 380,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:34:term-usage:557-568",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 557,
+    "end_char": 568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:34:term-usage:752-770",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 752,
+    "end_char": 770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:34:term-usage:924-935",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:declarante",
+    "span": "Declarantes",
+    "start_char": 924,
+    "end_char": 935
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:34:term-usage:1260-1270",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1260,
+    "end_char": 1270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:36:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:36:term-usage:22-49",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 22,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:36:term-usage:168-179",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:declarante",
+    "span": "Declarantes",
+    "start_char": 168,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:37:term-usage:64-74",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:declarante",
+    "span": "Declarante",
+    "start_char": 64,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:37:term-usage:216-227",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 216,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:37:term-usage:234-261",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 234,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:37:term-usage:402-413",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 402,
+    "end_char": 413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:37:term-usage:420-447",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 420,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:37:term-usage:1197-1207",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1197,
+    "end_char": 1207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:38:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:declarante",
+    "span": "Declarantes",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:38:term-usage:55-66",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 55,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:38:term-usage:73-100",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 73,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:38:term-usage:362-373",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 362,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:39:term-usage:112-123",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:declarante",
+    "span": "Declarantes",
+    "start_char": 112,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:40:term-usage:271-282",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 271,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:40:term-usage:288-313",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órgano interno de control",
+    "start_char": 288,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:41:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:41:term-usage:22-49",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 22,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:42:term-usage:11-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridades investigadoras",
+    "start_char": 11,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:43:term-usage:3-30",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:plataforma-digital-nacional",
+    "span": "Plataforma digital nacional",
+    "start_char": 3,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:43:term-usage:565-583",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 565,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:44:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:44:term-usage:65-76",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 65,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:44:term-usage:83-110",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 83,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:44:term-usage:245-272",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:plataforma-digital-nacional",
+    "span": "Plataforma digital nacional",
+    "start_char": 245,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:44:term-usage:500-521",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:conflicto-de-interes",
+    "span": "Conflictos de Interés",
+    "start_char": 500,
+    "end_char": 521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:44:term-usage:666-693",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:plataforma-digital-nacional",
+    "span": "Plataforma digital nacional",
+    "start_char": 666,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:45:term-usage:4-15",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 4,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:45:term-usage:22-49",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 22,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:46:term-usage:179-190",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 179,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:46:term-usage:197-224",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 197,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:47:term-usage:41-61",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:conflicto-de-interes",
+    "span": "Conflicto de Interés",
+    "start_char": 41,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:48:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:48:term-usage:176-187",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:declarante",
+    "span": "Declarantes",
+    "start_char": 176,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:48:term-usage:735-755",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:conflicto-de-interes",
+    "span": "Conflicto de Interés",
+    "start_char": 735,
+    "end_char": 755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:49:term-usage:13-42",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Falta administrativa no grave",
+    "start_char": 13,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:49:term-usage:706-728",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 706,
+    "end_char": 728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:49:term-usage:2344-2364",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:conflicto-de-interes",
+    "span": "Conflicto de Interés",
+    "start_char": 2344,
+    "end_char": 2364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:49:term-usage:2457-2482",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órgano interno de control",
+    "start_char": 2457,
+    "end_char": 2482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:50:term-usage:23-52",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Falta administrativa no grave",
+    "start_char": 23,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:50:term-usage:281-293",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:ente-publico",
+    "span": "Ente público",
+    "start_char": 281,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:50:term-usage:506-518",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:ente-publico",
+    "span": "Ente público",
+    "start_char": 506,
+    "end_char": 518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:50:term-usage:619-637",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:auditoria-superior",
+    "span": "Auditoría Superior",
+    "start_char": 619,
+    "end_char": 637
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:50:term-usage:663-683",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 663,
+    "end_char": 683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:50:term-usage:1018-1038",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 1018,
+    "end_char": 1038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:51:term-usage:60-89",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Faltas administrativas graves",
+    "start_char": 60,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:53:term-usage:854-879",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órgano interno de control",
+    "start_char": 854,
+    "end_char": 879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:53:term-usage:898-908",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 898,
+    "end_char": 908
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:58:term-usage:26-46",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:conflicto-de-interes",
+    "span": "Conflicto de Interés",
+    "start_char": 26,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:58:term-usage:213-233",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:conflicto-de-interes",
+    "span": "Conflicto de Interés",
+    "start_char": 213,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:59:term-usage:584-611",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:plataforma-digital-nacional",
+    "span": "Plataforma digital nacional",
+    "start_char": 584,
+    "end_char": 611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:60:term-usage:54-74",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:conflicto-de-interes",
+    "span": "Conflicto de Interés",
+    "start_char": 54,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:60:term-usage:362-382",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:conflicto-de-interes",
+    "span": "Conflicto de Interés",
+    "start_char": 362,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:62:term-usage:159-181",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 159,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:64:term-usage:93-115",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 93,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:64:term-usage:554-580",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 554,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:64:term-usage:582-604",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 582,
+    "end_char": 604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:64:term-usage:821-847",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 821,
+    "end_char": 847
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:64:term-usage:850-872",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 850,
+    "end_char": 872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:64:term-usage:1045-1057",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:ente-publico",
+    "span": "Ente público",
+    "start_char": 1045,
+    "end_char": 1057
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:69:term-usage:475-497",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 475,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:70:term-usage:952-962",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 952,
+    "end_char": 962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:72:term-usage:514-536",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 514,
+    "end_char": 536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:73:term-usage:15-37",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 15,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:74:term-usage:16-48",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Faltas administrativas no graves",
+    "start_char": 16,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:74:term-usage:72-83",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 72,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:74:term-usage:93-120",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 93,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:74:term-usage:324-353",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Faltas administrativas graves",
+    "start_char": 324,
+    "end_char": 353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:74:term-usage:356-378",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 356,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:74:term-usage:869-919",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 869,
+    "end_char": 919
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:75:term-usage:90-98",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 90,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:75:term-usage:103-113",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 103,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:75:term-usage:120-147",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 120,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:75:term-usage:516-527",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 516,
+    "end_char": 527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:75:term-usage:534-561",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 534,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:75:term-usage:732-761",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Falta administrativa no grave",
+    "start_char": 732,
+    "end_char": 761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:76:term-usage:479-511",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Faltas administrativas no graves",
+    "start_char": 479,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:76:term-usage:539-564",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órgano interno de control",
+    "start_char": 539,
+    "end_char": 564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:77:term-usage:18-29",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 18,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:77:term-usage:38-65",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 38,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:77:term-usage:92-124",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Faltas administrativas no graves",
+    "start_char": 92,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:77:term-usage:145-172",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 145,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:77:term-usage:315-344",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Falta administrativa no grave",
+    "start_char": 315,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:78:term-usage:45-53",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 45,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:78:term-usage:488-496",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 488,
+    "end_char": 496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:78:term-usage:649-675",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 649,
+    "end_char": 675
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:78:term-usage:899-925",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 899,
+    "end_char": 925
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:79:term-usage:21-47",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 21,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:79:term-usage:527-535",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 527,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:79:term-usage:588-614",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 588,
+    "end_char": 614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:80-bis:term-usage:461-483",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:80-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 461,
+    "end_char": 483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:81:term-usage:54-76",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 54,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:81:term-usage:1906-1932",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 1906,
+    "end_char": 1932
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:81:term-usage:2617-2625",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2617,
+    "end_char": 2625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:81:term-usage:2774-2796",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 2774,
+    "end_char": 2796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:82:term-usage:40-62",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 40,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:83:term-usage:68-90",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 68,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:83:term-usage:244-266",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 244,
+    "end_char": 266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:83:term-usage:565-587",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 565,
+    "end_char": 587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:84:term-usage:72-94",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 72,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:84:term-usage:230-238",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 230,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:84:term-usage:301-313",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:ente-publico",
+    "span": "Ente público",
+    "start_char": 301,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:84:term-usage:532-540",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 532,
+    "end_char": 540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:84:term-usage:651-659",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 651,
+    "end_char": 659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:85:term-usage:38-46",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 38,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:87:term-usage:101-127",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 101,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:87:term-usage:229-237",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 229,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:88:term-usage:44-73",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Faltas administrativas graves",
+    "start_char": 44,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:88:term-usage:76-98",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 76,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:88:term-usage:333-356",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 333,
+    "end_char": 356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:89:term-usage:353-375",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 353,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:89:term-usage:2378-2396",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 2378,
+    "end_char": 2396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:91:term-usage:52-74",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 52,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:92:term-usage:137-159",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 137,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:93:term-usage:133-155",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 133,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:93:term-usage:267-293",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridades investigadoras",
+    "start_char": 267,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:93:term-usage:381-412",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 381,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:94:term-usage:46-72",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridades investigadoras",
+    "start_char": 46,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:96:term-usage:284-307",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 284,
+    "end_char": 307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:96:term-usage:1026-1049",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 1026,
+    "end_char": 1049
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:96:term-usage:1524-1546",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 1524,
+    "end_char": 1546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:98:term-usage:3-21",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:98",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:auditoria-superior",
+    "span": "Auditoría Superior",
+    "start_char": 3,
+    "end_char": 21
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:99:term-usage:18-36",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:auditoria-superior",
+    "span": "Auditoría Superior",
+    "start_char": 18,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:99:term-usage:155-177",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 155,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:99:term-usage:247-258",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 247,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:99:term-usage:267-294",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 267,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:99:term-usage:419-441",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:99",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 419,
+    "end_char": 441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:100:term-usage:415-465",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:100",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 415,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:102:term-usage:85-111",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:102",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridades investigadoras",
+    "start_char": 85,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:102:term-usage:132-143",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:102",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:denunciante",
+    "span": "Denunciante",
+    "start_char": 132,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:102:term-usage:355-408",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:102",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:expediente-de-presunta-responsabilidad-administrativa",
+    "span": "Expediente de presunta responsabilidad administrativa",
+    "start_char": 355,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:102:term-usage:519-530",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:102",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:denunciante",
+    "span": "Denunciante",
+    "start_char": 519,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:104:term-usage:53-76",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 53,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:104:term-usage:262-285",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:104",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 262,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:108:term-usage:84-137",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:108",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:expediente-de-presunta-responsabilidad-administrativa",
+    "span": "Expediente de presunta responsabilidad administrativa",
+    "start_char": 84,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:108:term-usage:169-180",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:108",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:denunciante",
+    "span": "Denunciante",
+    "start_char": 169,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:112:term-usage:146-196",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 146,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:113:term-usage:16-66",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 16,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:114:term-usage:253-303",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 253,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:115:term-usage:225-236",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 225,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:115:term-usage:242-269",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 242,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:115:term-usage:274-292",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:115",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:auditoria-superior",
+    "span": "Auditoría Superior",
+    "start_char": 274,
+    "end_char": 292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:116:term-usage:73-96",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 73,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:116:term-usage:164-190",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 164,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:116:term-usage:305-327",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:116",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 305,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:124:term-usage:1060-1080",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:124",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Falta administrativa",
+    "start_char": 1060,
+    "end_char": 1080
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:127:term-usage:58-78",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 58,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:134:term-usage:191-211",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:134",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 191,
+    "end_char": 211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:139:term-usage:140-152",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:ente-publico",
+    "span": "Ente público",
+    "start_char": 140,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:139:term-usage:202-222",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:139",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 202,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:141:term-usage:264-274",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:141",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 264,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:142:term-usage:344-364",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:142",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Falta administrativa",
+    "start_char": 344,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:143:term-usage:103-123",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:143",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 103,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:145:term-usage:115-135",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:145",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 115,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:146:term-usage:108-128",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:146",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 108,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:147:term-usage:91-111",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:147",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 91,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:148:term-usage:180-188",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:148",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 180,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:148:term-usage:610-622",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:148",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 610,
+    "end_char": 622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:148:term-usage:736-746",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:148",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 736,
+    "end_char": 746
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:148:term-usage:822-832",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:148",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 822,
+    "end_char": 832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:150:term-usage:137-157",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:150",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 137,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:151:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:151",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:152:term-usage:81-101",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:152",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Falta administrativa",
+    "start_char": 81,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:154:term-usage:58-78",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:154",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 58,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:154:term-usage:452-472",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:154",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 452,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:155:term-usage:70-90",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:155",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 70,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:156:term-usage:300-320",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:156",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 300,
+    "end_char": 320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:158:term-usage:197-217",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:158",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 197,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:160:term-usage:158-178",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:160",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 158,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:162:term-usage:278-298",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:162",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 278,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:163:term-usage:197-217",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:163",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 197,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:163:term-usage:560-580",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:163",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 560,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:164:term-usage:3-27",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:164",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 3,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:170:term-usage:149-169",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:170",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 149,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:171:term-usage:34-54",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:171",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 34,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:172:term-usage:65-85",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:172",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 65,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:176:term-usage:31-51",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 31,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:177:term-usage:90-110",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:177",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 90,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:178:term-usage:161-181",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:178",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 161,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:181:term-usage:168-188",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:181",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 168,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:182:term-usage:388-412",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:182",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 388,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:185:term-usage:105-127",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:185",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 105,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:185:term-usage:360-382",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:185",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 360,
+    "end_char": 382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:186:term-usage:86-110",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:186",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 86,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:186:term-usage:176-196",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:186",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Falta administrativa",
+    "start_char": 176,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:186:term-usage:316-366",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:186",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 316,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:188:term-usage:89-113",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:188",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 89,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:189:term-usage:229-240",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:189",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 229,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:189:term-usage:242-269",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:189",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 242,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:189:term-usage:280-290",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:189",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 280,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:190:term-usage:164-188",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:190",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 164,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:191:term-usage:34-44",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:191",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 34,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:193:term-usage:256-306",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:193",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 256,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:193:term-usage:574-624",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:193",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 574,
+    "end_char": 624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:193:term-usage:658-708",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:193",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 658,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:193:term-usage:1012-1020",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:193",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1012,
+    "end_char": 1020
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:194:term-usage:3-53",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:194",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 3,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:194:term-usage:75-101",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:194",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridades investigadoras",
+    "start_char": 75,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:194:term-usage:173-196",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:194",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 173,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:194:term-usage:222-245",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:194",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 222,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:194:term-usage:426-449",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:194",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 426,
+    "end_char": 449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:194:term-usage:615-627",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:194",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:ente-publico",
+    "span": "Ente público",
+    "start_char": 615,
+    "end_char": 627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:194:term-usage:941-961",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:194",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Falta administrativa",
+    "start_char": 941,
+    "end_char": 961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:194:term-usage:1244-1264",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:194",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Falta administrativa",
+    "start_char": 1244,
+    "end_char": 1264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:194:term-usage:1646-1669",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:194",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 1646,
+    "end_char": 1669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:195:term-usage:18-42",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:195",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 18,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:195:term-usage:59-109",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:195",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 59,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:195:term-usage:266-289",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:195",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 266,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:195:term-usage:428-451",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:195",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 428,
+    "end_char": 451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:195:term-usage:521-541",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:195",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Falta administrativa",
+    "start_char": 521,
+    "end_char": 541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:196:term-usage:111-131",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:196",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Falta administrativa",
+    "start_char": 111,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:196:term-usage:431-453",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:196",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 431,
+    "end_char": 453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:196:term-usage:746-796",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:196",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 746,
+    "end_char": 796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:196:term-usage:828-850",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:196",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 828,
+    "end_char": 850
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:196:term-usage:887-937",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:196",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 887,
+    "end_char": 937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:197:term-usage:209-229",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:197",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Falta administrativa",
+    "start_char": 209,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:197:term-usage:517-541",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:197",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 517,
+    "end_char": 541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:200:term-usage:693-717",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:200",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 693,
+    "end_char": 717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:200:term-usage:1475-1499",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:200",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 1475,
+    "end_char": 1499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:207:term-usage:77-97",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:207",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 77,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:207:term-usage:181-201",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:207",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 181,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:207:term-usage:710-736",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:207",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 710,
+    "end_char": 736
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:207:term-usage:1033-1059",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:207",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 1033,
+    "end_char": 1059
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:207:term-usage:1235-1255",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:207",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 1235,
+    "end_char": 1255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:207:term-usage:1289-1311",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:207",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 1289,
+    "end_char": 1311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:207:term-usage:1606-1632",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:207",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 1606,
+    "end_char": 1632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:207:term-usage:1708-1730",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:207",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-administrativas",
+    "span": "Faltas administrativas",
+    "start_char": 1708,
+    "end_char": 1730
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:207:term-usage:1908-1919",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:207",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 1908,
+    "end_char": 1919
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:207:term-usage:1922-1949",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:207",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 1922,
+    "end_char": 1949
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:32-64",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Faltas administrativas no graves",
+    "start_char": 32,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:120-143",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 120,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:169-193",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 169,
+    "end_char": 193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:197-247",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 197,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:350-373",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 350,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:493-517",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 493,
+    "end_char": 517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:528-578",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 528,
+    "end_char": 578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:1488-1512",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 1488,
+    "end_char": 1512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:3086-3110",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 3086,
+    "end_char": 3110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:3339-3363",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 3339,
+    "end_char": 3363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:3670-3694",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 3670,
+    "end_char": 3694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:3849-3869",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-resolutora",
+    "span": "Autoridad resolutora",
+    "start_char": 3849,
+    "end_char": 3869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:208:term-usage:4620-4630",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:208",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 4620,
+    "end_char": 4630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:32-61",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Faltas administrativas graves",
+    "start_char": 32,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:64-86",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 64,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:175-202",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridades substanciadoras",
+    "start_char": 175,
+    "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:468-492",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 468,
+    "end_char": 492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:536-544",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 536,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:677-685",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 677,
+    "end_char": 685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:740-748",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 740,
+    "end_char": 748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:854-904",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 854,
+    "end_char": 904
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:1049-1073",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 1049,
+    "end_char": 1073
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:1210-1218",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1210,
+    "end_char": 1218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:1251-1274",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 1251,
+    "end_char": 1274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:1281-1331",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 1281,
+    "end_char": 1331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:1616-1639",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-investigadora",
+    "span": "Autoridad investigadora",
+    "start_char": 1616,
+    "end_char": 1639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:1736-1744",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1736,
+    "end_char": 1744
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:1796-1804",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1796,
+    "end_char": 1804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:1888-1896",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1888,
+    "end_char": 1896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:2497-2505",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2497,
+    "end_char": 2505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:209:term-usage:2661-2669",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:209",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2661,
+    "end_char": 2669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:210:term-usage:69-101",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:210",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Faltas administrativas no graves",
+    "start_char": 69,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:210:term-usage:222-233",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:210",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 222,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:210:term-usage:240-267",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:210",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 240,
+    "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:210:term-usage:547-557",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:210",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 547,
+    "end_char": 557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:210:term-usage:617-625",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:210",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 617,
+    "end_char": 625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:211:term-usage:1318-1329",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:211",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 1318,
+    "end_char": 1329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:211:term-usage:1346-1371",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:211",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órgano interno de control",
+    "start_char": 1346,
+    "end_char": 1371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:213:term-usage:167-217",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:213",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:informe-de-presunta-responsabilidad-administrativa",
+    "span": "Informe de Presunta Responsabilidad Administrativa",
+    "start_char": 167,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:214:term-usage:38-62",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:214",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 38,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:214:term-usage:426-434",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:214",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 426,
+    "end_char": 434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:214:term-usage:521-545",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:214",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:autoridad-substanciadora",
+    "span": "Autoridad substanciadora",
+    "start_char": 521,
+    "end_char": 545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:215:term-usage:34-44",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:215",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 34,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:215:term-usage:227-237",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:215",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 227,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:215:term-usage:302-310",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:215",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 302,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:216:term-usage:128-157",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:216",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Faltas administrativas graves",
+    "start_char": 128,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:216:term-usage:160-182",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:216",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 160,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:217:term-usage:497-505",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:217",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 497,
+    "end_char": 505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:218:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:218",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:219:term-usage:159-171",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:219",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:ente-publico",
+    "span": "Ente público",
+    "start_char": 159,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:219:term-usage:1034-1046",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:219",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1034,
+    "end_char": 1046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:220:term-usage:42-50",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:220",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 42,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:220:term-usage:116-126",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:220",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 116,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:220:term-usage:154-181",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:220",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 154,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:220:term-usage:219-237",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:220",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:auditoria-superior",
+    "span": "Auditoría Superior",
+    "start_char": 219,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:220:term-usage:342-350",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:220",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 342,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:220:term-usage:593-605",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:220",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 593,
+    "end_char": 605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:220:term-usage:751-759",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:220",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 751,
+    "end_char": 759
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:221:term-usage:42-52",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:221",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 42,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:221:term-usage:113-124",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:221",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 113,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:221:term-usage:351-383",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:221",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Faltas administrativas no graves",
+    "start_char": 351,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:222:term-usage:34-66",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:222",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-no-grave",
+    "span": "Faltas administrativas no graves",
+    "start_char": 34,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:222:term-usage:134-145",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:222",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 134,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:222:term-usage:152-179",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:222",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:organos-internos-de-control",
+    "span": "Órganos internos de control",
+    "start_char": 152,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:223:term-usage:111-123",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:223",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:ente-publico",
+    "span": "Ente público",
+    "start_char": 111,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:223:term-usage:200-229",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:223",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Faltas administrativas graves",
+    "start_char": 200,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:223:term-usage:232-254",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:223",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 232,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:224:term-usage:43-53",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:224",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 43,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:224:term-usage:434-442",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:224",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 434,
+    "end_char": 442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:225:term-usage:120-149",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:225",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Faltas administrativas graves",
+    "start_char": 120,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:225:term-usage:154-164",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:225",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:magistrado",
+    "span": "Magistrado",
+    "start_char": 154,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:225:term-usage:527-537",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:225",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 527,
+    "end_char": 537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:225:term-usage:780-788",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:225",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 780,
+    "end_char": 788
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:225:term-usage:1070-1078",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:225",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1070,
+    "end_char": 1078
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:226:term-usage:83-105",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:226",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 83,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:226:term-usage:110-118",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:226",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 110,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:226:term-usage:507-515",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:226",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 507,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:227:term-usage:118-126",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:227",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 118,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:227:term-usage:388-398",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:227",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 388,
+    "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:228:term-usage:86-112",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:228",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:falta-administrativa-grave",
+    "span": "Falta administrativa grave",
+    "start_char": 86,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:228:term-usage:115-137",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:228",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:faltas-de-particulares",
+    "span": "Faltas de particulares",
+    "start_char": 115,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:228:term-usage:142-150",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:228",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 142,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:229:term-usage:138-150",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:229",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:ente-publico",
+    "span": "Ente público",
+    "start_char": 138,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:article:229:term-usage:357-367",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:article:229",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:magistrado",
+    "span": "Magistrado",
+    "start_char": 357,
+    "end_char": 367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:tercero:term-usage:622-640",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 622,
+    "end_char": 640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:tercero:term-usage:645-676",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 645,
+    "end_char": 676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:tercero:term-usage:1510-1528",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 1510,
+    "end_char": 1528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:tercero:term-usage:1533-1564",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 1533,
+    "end_char": 1564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto:term-usage:19-50",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 19,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto:term-usage:647-665",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 647,
+    "end_char": 665
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto:term-usage:1018-1036",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 1018,
+    "end_char": 1036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto:term-usage:1085-1103",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 1085,
+    "end_char": 1103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto:term-usage:1108-1139",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 1108,
+    "end_char": 1139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto:term-usage:1339-1349",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1339,
+    "end_char": 1349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto:term-usage:1466-1484",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:comite-coordinador",
+    "span": "Comité Coordinador",
+    "start_char": 1466,
+    "end_char": 1484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto:term-usage:1489-1520",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:sistema-nacional-anticorrupcion",
+    "span": "Sistema Nacional Anticorrupción",
+    "start_char": 1489,
+    "end_char": 1520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:20-28",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 20,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:348-356",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 348,
+    "end_char": 356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:522-530",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 522,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:1214-1225",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:magistrado",
+    "span": "Magistrados",
+    "start_char": 1214,
+    "end_char": 1225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:1230-1238",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1230,
+    "end_char": 1238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:1566-1574",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1566,
+    "end_char": 1574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:1671-1682",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:magistrado",
+    "span": "Magistrados",
+    "start_char": 1671,
+    "end_char": 1682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:1810-1818",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1810,
+    "end_char": 1818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:2115-2126",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:magistrado",
+    "span": "Magistrados",
+    "start_char": 2115,
+    "end_char": 2126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:2485-2496",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:magistrado",
+    "span": "Magistrados",
+    "start_char": 2485,
+    "end_char": 2496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:2768-2779",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:magistrado",
+    "span": "Magistrados",
+    "start_char": 2768,
+    "end_char": 2779
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:2936-2944",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2936,
+    "end_char": 2944
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3073-3081",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3073,
+    "end_char": 3081
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3242-3250",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3242,
+    "end_char": 3250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3417-3425",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3417,
+    "end_char": 3425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3561-3569",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3561,
+    "end_char": 3569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3624-3632",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3624,
+    "end_char": 3632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3715-3723",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3715,
+    "end_char": 3723
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3851-3859",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3851,
+    "end_char": 3859
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:3932-3940",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3932,
+    "end_char": 3940
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgra:transitory:quinto:term-usage:4286-4298",
+    "provision_id": "urn:lex-mx:federal:statute:lgra:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lgra:term:constitucion",
+    "span": "Constitución",
+    "start_char": 4286,
+    "end_char": 4298
+  }
+]

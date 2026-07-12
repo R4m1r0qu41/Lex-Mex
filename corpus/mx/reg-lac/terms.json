@@ -1,0 +1,134 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:animales-domesticos",
+    "term": "Animales domésticos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "I",
+    "start_char": 130,
+    "end_char": 1008,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:condicion-de-aeronavegabilidad",
+    "term": "Condición de aeronavegabilidad",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "II",
+    "start_char": 1008,
+    "end_char": 1196,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:comercializar",
+    "term": "Comercializar",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "III",
+    "start_char": 1196,
+    "end_char": 1486,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "IV",
+    "start_char": 1486,
+    "end_char": 1522,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:manual-del-programa-estatal-de-seguridad-operacional",
+    "term": "Manual del programa estatal de seguridad operacional",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "V",
+    "start_char": 1522,
+    "end_char": 1780,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:nivel-aceptable-de-rendimiento-en-materia-de-seguridad-operacional",
+    "term": "Nivel aceptable de rendimiento en materia de seguridad operacional",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "VI",
+    "start_char": 1780,
+    "end_char": 2077,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:persona-operadora-aerea",
+    "term": "Persona operadora aérea",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "VII",
+    "start_char": 2077,
+    "end_char": 2344,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:persona-operadora-de-sistema-de-aeronave-pilotada-a-distancia",
+    "term": "Persona operadora de Sistema de Aeronave Pilotada a Distancia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "VIII",
+    "start_char": 2344,
+    "end_char": 2550,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:reglas-de-transito-aereo",
+    "term": "Reglas de tránsito aéreo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "IX",
+    "start_char": 2550,
+    "end_char": 3139,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "X",
+    "start_char": 3139,
+    "end_char": 3253,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:vuelo-por-instrumentos",
+    "term": "Vuelo por instrumentos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "XI",
+    "start_char": 3253,
+    "end_char": 3531,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:term:vuelo-visual",
+    "term": "Vuelo visual",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "fraction": "XII",
+    "start_char": 3531,
+    "end_char": 3901,
+    "basis": "express_definition"
+  }
+]

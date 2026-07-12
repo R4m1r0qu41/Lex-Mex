@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:loapf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/loapf.htm",
+  "retrieved_at": "2026-07-12T07:59:19.989421Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 2038522,
+  "etag": "\"1f1afa-6518e141e4d40\"",
+  "last_modified": "Mon, 11 May 2026 17:28:45 GMT",
+  "source_sha256": "3edf486e601217f5f595f94f56832d8845cbd9193b6494af52473237252bcc5f",
+  "extracted_text_sha256": "cd367fe5dbcf9e572847f0ce0e94db031bf7ca4bf46687fe9b6397abfe96100f",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

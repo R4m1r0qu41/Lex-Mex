@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-laero",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Aeropuertos",
+  "short_name": "REG-LAERO",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2000-02-17",
+  "latest_reform_date": "2025-08-29",
+  "retrieved_at": "2026-07-12T08:04:23.872675Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf",
+  "source_sha256": "ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776",
+  "extracted_text_sha256": "b4d067d1dd97b2df3073d7b9696700af1718d01a387b831f5061125f7ac40125",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

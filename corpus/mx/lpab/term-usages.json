@@ -1,0 +1,2756 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:1:term-usage:655-668",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 655,
+    "end_char": 668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:2:term-usage:230-239",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 230,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:3:term-usage:69-78",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 69,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:4:term-usage:47-56",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 47,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:5:term-usage:354-363",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 354,
+    "end_char": 363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:5:term-usage:437-446",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 437,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:5:term-usage:585-598",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 585,
+    "end_char": 598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:5:term-usage:647-656",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 647,
+    "end_char": 656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:5:term-usage:742-751",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 742,
+    "end_char": 751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:6:term-usage:177-190",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 177,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:6:term-usage:208-221",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 208,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:10:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:10:term-usage:260-271",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 260,
+    "end_char": 271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:10:term-usage:716-727",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 716,
+    "end_char": 727
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:11:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:11:term-usage:313-324",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 313,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:17:term-usage:54-63",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 54,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:17:term-usage:158-169",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 158,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:17:term-usage:382-391",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 382,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:18:term-usage:66-77",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 66,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:18:term-usage:131-140",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 131,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:18:term-usage:263-274",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 263,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:19:term-usage:52-61",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 52,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:19:term-usage:283-294",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 283,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:20:term-usage:55-68",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 55,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:20:term-usage:98-107",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 98,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:20:term-usage:166-183",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 166,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:21:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:21:term-usage:76-89",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 76,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:21:term-usage:304-317",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 304,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:21:term-usage:364-381",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 364,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:21:term-usage:386-395",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 386,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:22:term-usage:120-133",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 120,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:22:term-usage:140-153",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 140,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:22:term-usage:174-183",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 174,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:22:term-usage:318-327",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 318,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:22:term-usage:353-370",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 353,
+    "end_char": 370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:22:term-usage:375-384",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 375,
+    "end_char": 384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:23:term-usage:60-69",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 60,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:23:term-usage:150-167",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 150,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:23:term-usage:317-330",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 317,
+    "end_char": 330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:23:term-usage:486-499",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 486,
+    "end_char": 499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:24:term-usage:70-83",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 70,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:24:term-usage:254-263",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 254,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:24:term-usage:361-370",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 361,
+    "end_char": 370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:25:term-usage:84-93",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 84,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:25:term-usage:243-252",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 243,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:25:term-usage:347-364",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 347,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:25:term-usage:400-409",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 400,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:26:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:26:term-usage:81-92",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 81,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:26:term-usage:305-314",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 305,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:27:term-usage:23-32",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 23,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:45:term-usage:18-27",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 18,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:46:term-usage:81-92",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 81,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:46:term-usage:98-107",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 98,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:46:term-usage:278-289",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 278,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:46:term-usage:294-311",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 294,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:46:term-usage:501-514",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 501,
+    "end_char": 514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:46:term-usage:537-545",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:comision",
+    "span": "Comisión",
+    "start_char": 537,
+    "end_char": 545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:46:term-usage:684-693",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 684,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:47:term-usage:334-343",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 334,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:48:term-usage:108-117",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 108,
+    "end_char": 117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:59:term-usage:4-10",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:bienes",
+    "span": "Bienes",
+    "start_char": 4,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:60:term-usage:45-54",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 45,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:60:term-usage:62-75",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 62,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:65:term-usage:140-149",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 140,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:65:term-usage:308-316",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:comision",
+    "span": "Comisión",
+    "start_char": 308,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:65:term-usage:493-502",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 493,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:66:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:67:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:67:term-usage:54-67",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 54,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:67:term-usage:272-281",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 272,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:67:term-usage:387-400",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 387,
+    "end_char": 400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:67:term-usage:559-572",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 559,
+    "end_char": 572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:37-46",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 37,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:200-213",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 200,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:499-508",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 499,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:785-798",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 785,
+    "end_char": 798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:1025-1038",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1025,
+    "end_char": 1038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:1116-1125",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1116,
+    "end_char": 1125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:1396-1409",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1396,
+    "end_char": 1409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:1423-1432",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1423,
+    "end_char": 1432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:1475-1481",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:bienes",
+    "span": "Bienes",
+    "start_char": 1475,
+    "end_char": 1481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:1572-1585",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1572,
+    "end_char": 1585
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:1707-1713",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:bienes",
+    "span": "Bienes",
+    "start_char": 1707,
+    "end_char": 1713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:1855-1868",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1855,
+    "end_char": 1868
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:1973-1986",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1973,
+    "end_char": 1986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:2226-2239",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 2226,
+    "end_char": 2239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:2345-2354",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2345,
+    "end_char": 2354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:2592-2601",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2592,
+    "end_char": 2601
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:2698-2704",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:bienes",
+    "span": "Bienes",
+    "start_char": 2698,
+    "end_char": 2704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:2854-2863",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2854,
+    "end_char": 2863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:2958-2971",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 2958,
+    "end_char": 2971
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:3025-3034",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3025,
+    "end_char": 3034
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:3414-3423",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3414,
+    "end_char": 3423
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:3702-3719",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3702,
+    "end_char": 3719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:3793-3806",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 3793,
+    "end_char": 3806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:3921-3927",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:bienes",
+    "span": "Bienes",
+    "start_char": 3921,
+    "end_char": 3927
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:68:term-usage:3986-3999",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 3986,
+    "end_char": 3999
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:69:term-usage:18-27",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 18,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:69:term-usage:72-85",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 72,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:69:term-usage:499-508",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 499,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:69:term-usage:621-630",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 621,
+    "end_char": 630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:70:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:70:term-usage:153-170",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 153,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:71:term-usage:28-37",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 28,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:71:term-usage:111-120",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 111,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:72:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:72:term-usage:74-87",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 74,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:73:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:73:term-usage:217-225",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:comision",
+    "span": "Comisión",
+    "start_char": 217,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:74:term-usage:33-42",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 33,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:74:term-usage:64-81",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 64,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:74:term-usage:87-107",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 87,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:74:term-usage:196-213",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 196,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:75:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:75:term-usage:272-280",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:comision",
+    "span": "Comisión",
+    "start_char": 272,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:75:term-usage:483-491",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:comision",
+    "span": "Comisión",
+    "start_char": 483,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:76:term-usage:276-293",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 276,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:78:term-usage:54-62",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:comision",
+    "span": "Comisión",
+    "start_char": 54,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:78:term-usage:917-928",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 917,
+    "end_char": 928
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:98-107",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 98,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:418-431",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 418,
+    "end_char": 431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:490-503",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 490,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:795-808",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 795,
+    "end_char": 808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:1000-1009",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1000,
+    "end_char": 1009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:1077-1083",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:bienes",
+    "span": "Bienes",
+    "start_char": 1077,
+    "end_char": 1083
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:1088-1097",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1088,
+    "end_char": 1097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:1150-1163",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1150,
+    "end_char": 1163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:1719-1728",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1719,
+    "end_char": 1728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:1900-1909",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1900,
+    "end_char": 1909
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:1950-1959",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1950,
+    "end_char": 1959
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:1994-2014",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 1994,
+    "end_char": 2014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:2071-2080",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2071,
+    "end_char": 2080
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:2226-2235",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2226,
+    "end_char": 2235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:2296-2305",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2296,
+    "end_char": 2305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:2376-2385",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2376,
+    "end_char": 2385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:2515-2524",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2515,
+    "end_char": 2524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:2576-2585",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2576,
+    "end_char": 2585
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:2632-2652",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 2632,
+    "end_char": 2652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:2758-2778",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 2758,
+    "end_char": 2778
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:2903-2912",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2903,
+    "end_char": 2912
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3022-3042",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 3022,
+    "end_char": 3042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3047-3056",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3047,
+    "end_char": 3056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3182-3199",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3182,
+    "end_char": 3199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3238-3247",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3238,
+    "end_char": 3247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3291-3311",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 3291,
+    "end_char": 3311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3374-3394",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 3374,
+    "end_char": 3394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3428-3448",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 3428,
+    "end_char": 3448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3583-3592",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3583,
+    "end_char": 3592
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3657-3666",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3657,
+    "end_char": 3666
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3790-3799",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3790,
+    "end_char": 3799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3933-3953",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 3933,
+    "end_char": 3953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:3987-4004",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3987,
+    "end_char": 4004
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:80:term-usage:4171-4180",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 4171,
+    "end_char": 4180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:81:term-usage:19-36",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 19,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:81:term-usage:247-267",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 247,
+    "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:81:term-usage:294-311",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 294,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:82:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:83:term-usage:9-29",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 9,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:79-88",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 79,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:476-493",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 476,
+    "end_char": 493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:536-545",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 536,
+    "end_char": 545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:855-872",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 855,
+    "end_char": 872
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:936-953",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 936,
+    "end_char": 953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:982-991",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 982,
+    "end_char": 991
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:1062-1071",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1062,
+    "end_char": 1071
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:1163-1180",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1163,
+    "end_char": 1180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:1201-1218",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1201,
+    "end_char": 1218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:1552-1569",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1552,
+    "end_char": 1569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:1628-1645",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1628,
+    "end_char": 1645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:1720-1729",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1720,
+    "end_char": 1729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:1952-1961",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1952,
+    "end_char": 1961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:2036-2045",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2036,
+    "end_char": 2045
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:2092-2109",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2092,
+    "end_char": 2109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:2172-2181",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2172,
+    "end_char": 2181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:2271-2280",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2271,
+    "end_char": 2280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:84:term-usage:2329-2346",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2329,
+    "end_char": 2346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:85:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:85:term-usage:113-122",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 113,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:86:term-usage:35-44",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 35,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:86:term-usage:299-308",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 299,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:86:term-usage:344-353",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 344,
+    "end_char": 353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:87:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:87:term-usage:218-227",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 218,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:88:term-usage:56-76",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 56,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:88:term-usage:151-160",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 151,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:89:term-usage:109-118",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 109,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:89:term-usage:224-233",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 224,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:89:term-usage:366-383",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:89",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 366,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:90:term-usage:24-37",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 24,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:90:term-usage:73-82",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 73,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:90:term-usage:263-272",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 263,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:90:term-usage:625-634",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 625,
+    "end_char": 634
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:90:term-usage:685-696",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 685,
+    "end_char": 696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:90:term-usage:749-758",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 749,
+    "end_char": 758
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:90:term-usage:900-913",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 900,
+    "end_char": 913
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:90:term-usage:933-942",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 933,
+    "end_char": 942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:90:term-usage:1190-1203",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1190,
+    "end_char": 1203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:90:term-usage:1354-1363",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1354,
+    "end_char": 1363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:90:term-usage:1529-1538",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1529,
+    "end_char": 1538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:90:term-usage:1638-1647",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1638,
+    "end_char": 1647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:91:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:91",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:92:term-usage:131-144",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 131,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:92:term-usage:209-218",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 209,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:92:term-usage:1023-1032",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1023,
+    "end_char": 1032
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:92:term-usage:1100-1109",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1100,
+    "end_char": 1109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:92:term-usage:1117-1130",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1117,
+    "end_char": 1130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:92:term-usage:1253-1266",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1253,
+    "end_char": 1266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:92:term-usage:1373-1382",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1373,
+    "end_char": 1382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:92:term-usage:1489-1500",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 1489,
+    "end_char": 1500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:92:term-usage:1527-1536",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1527,
+    "end_char": 1536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:92:term-usage:1689-1698",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1689,
+    "end_char": 1698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:92:term-usage:1867-1876",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:92",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1867,
+    "end_char": 1876
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:93:term-usage:85-94",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 85,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:93:term-usage:321-334",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 321,
+    "end_char": 334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:94:term-usage:91-100",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 91,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:article:94:term-usage:147-164",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 147,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:tercero:term-usage:233-242",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 233,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:tercero:term-usage:320-337",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 320,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:tercero:term-usage:445-462",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 445,
+    "end_char": 462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:tercero:term-usage:509-518",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 509,
+    "end_char": 518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:cuarto:term-usage:64-77",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 64,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:cuarto:term-usage:81-90",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 81,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:cuarto:term-usage:245-258",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 245,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:cuarto:term-usage:284-293",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 284,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:cuarto:term-usage:582-595",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 582,
+    "end_char": 595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:61-74",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 61,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:1001-1014",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1001,
+    "end_char": 1014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:1408-1417",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1408,
+    "end_char": 1417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:1626-1643",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1626,
+    "end_char": 1643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:1648-1657",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1648,
+    "end_char": 1657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:1763-1772",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1763,
+    "end_char": 1772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:2020-2029",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2020,
+    "end_char": 2029
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:2057-2074",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2057,
+    "end_char": 2074
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:2129-2142",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 2129,
+    "end_char": 2142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:2259-2268",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2259,
+    "end_char": 2268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:2537-2546",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 2537,
+    "end_char": 2546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:2860-2873",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 2860,
+    "end_char": 2873
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:3109-3118",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3109,
+    "end_char": 3118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:3125-3138",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 3125,
+    "end_char": 3138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:3216-3229",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 3216,
+    "end_char": 3229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:3431-3444",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 3431,
+    "end_char": 3444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:3584-3593",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3584,
+    "end_char": 3593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:3600-3613",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 3600,
+    "end_char": 3613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:3807-3820",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 3807,
+    "end_char": 3820
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:4143-4152",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 4143,
+    "end_char": 4152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:4196-4207",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Institución",
+    "start_char": 4196,
+    "end_char": 4207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:4324-4333",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 4324,
+    "end_char": 4333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:quinto:term-usage:4418-4431",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 4418,
+    "end_char": 4431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:sexto:term-usage:271-284",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 271,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:sexto:term-usage:518-531",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 518,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:sexto:term-usage:1078-1091",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1078,
+    "end_char": 1091
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:septimo:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:septimo:term-usage:407-420",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 407,
+    "end_char": 420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:septimo:term-usage:606-614",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:comision",
+    "span": "Comisión",
+    "start_char": 606,
+    "end_char": 614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:septimo:term-usage:754-763",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 754,
+    "end_char": 763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:octavo:term-usage:221-234",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 221,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:octavo:term-usage:539-548",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 539,
+    "end_char": 548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:octavo:term-usage:671-684",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 671,
+    "end_char": 684
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:octavo:term-usage:918-927",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 918,
+    "end_char": 927
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:octavo:term-usage:1279-1292",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1279,
+    "end_char": 1292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:octavo:term-usage:1757-1765",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:comision",
+    "span": "Comisión",
+    "start_char": 1757,
+    "end_char": 1765
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:octavo:term-usage:1790-1796",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:bienes",
+    "span": "Bienes",
+    "start_char": 1790,
+    "end_char": 1796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:octavo:term-usage:1893-1906",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1893,
+    "end_char": 1906
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:noveno:term-usage:169-182",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 169,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:noveno:term-usage:534-543",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 534,
+    "end_char": 543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:noveno:term-usage:639-648",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 639,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:noveno:term-usage:732-749",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 732,
+    "end_char": 749
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:noveno:term-usage:860-869",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 860,
+    "end_char": 869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:noveno:term-usage:1083-1092",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1083,
+    "end_char": 1092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:noveno:term-usage:1170-1183",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 1170,
+    "end_char": 1183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:noveno:term-usage:1560-1569",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1560,
+    "end_char": 1569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo:term-usage:163-176",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 163,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo:term-usage:296-305",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 296,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero:term-usage:253-262",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 253,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero:term-usage:448-465",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 448,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero:term-usage:700-717",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 700,
+    "end_char": 717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero:term-usage:1035-1052",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1035,
+    "end_char": 1052
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero:term-usage:1077-1094",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1077,
+    "end_char": 1094
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero:term-usage:1380-1397",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1380,
+    "end_char": 1397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero:term-usage:1604-1621",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1604,
+    "end_char": 1621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero:term-usage:1987-1996",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1987,
+    "end_char": 1996
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero:term-usage:2125-2138",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 2125,
+    "end_char": 2138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero:term-usage:47-53",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:bienes",
+    "span": "Bienes",
+    "start_char": 47,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero:term-usage:121-130",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 121,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero:term-usage:296-305",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 296,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero:term-usage:554-562",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:comision",
+    "span": "Comisión",
+    "start_char": 554,
+    "end_char": 562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero:term-usage:687-707",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 687,
+    "end_char": 707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero:term-usage:786-803",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 786,
+    "end_char": 803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero:term-usage:1194-1203",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-tercero",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 1194,
+    "end_char": 1203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-cuarto:term-usage:49-69",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 49,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-quinto:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-quinto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-sexto:term-usage:3-23",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-sexto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "span": "Secretario Ejecutivo",
+    "start_char": 3,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-sexto:term-usage:66-83",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-sexto",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 66,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-octavo:term-usage:40-53",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-octavo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 40,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-noveno:term-usage:259-268",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 259,
+    "end_char": 268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-noveno:term-usage:522-531",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 522,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-noveno:term-usage:678-687",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:decimo-noveno",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 678,
+    "end_char": 687
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:vigesimo:term-usage:4-17",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:vigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 4,
+    "end_char": 17
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:vigesimo:term-usage:372-385",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:vigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "span": "Instituciones",
+    "start_char": 372,
+    "end_char": 385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:transitory:vigesimo:term-usage:453-462",
+    "provision_id": "urn:lex-mx:federal:statute:lpab:transitory:vigesimo",
+    "term_id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "span": "Instituto",
+    "start_char": 453,
+    "end_char": 462
+  }
+]

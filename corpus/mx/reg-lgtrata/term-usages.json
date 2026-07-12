@@ -1,0 +1,209 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:18:term-usage:218-227",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 218,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:20:term-usage:39-48",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 39,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:22:term-usage:4-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 4,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:23:term-usage:633-642",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 633,
+    "end_char": 642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46:term-usage:226-235",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 226,
+    "end_char": 235
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46:term-usage:297-306",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 297,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46:term-usage:693-702",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 693,
+    "end_char": 702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46:term-usage:1086-1095",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 1086,
+    "end_char": 1095
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46:term-usage:2079-2088",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 2079,
+    "end_char": 2088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46:term-usage:2635-2644",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 2635,
+    "end_char": 2644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:47:term-usage:151-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergue",
+    "start_char": 151,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:48:term-usage:256-265",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 256,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:48:term-usage:372-380",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergue",
+    "start_char": 372,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:49:term-usage:431-440",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 431,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:50:term-usage:203-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 203,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:50:term-usage:439-447",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergue",
+    "start_char": 439,
+    "end_char": 447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:50:term-usage:596-604",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergue",
+    "start_char": 596,
+    "end_char": 604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:51:term-usage:83-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 83,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:52:term-usage:236-245",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 236,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:53:term-usage:28-36",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergue",
+    "start_char": 28,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:56:term-usage:320-329",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 320,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72:term-usage:1729-1738",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 1729,
+    "end_char": 1738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72:term-usage:2071-2080",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lgtrata:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lgtrata:term:albergues",
+    "span": "Albergues",
+    "start_char": 2071,
+    "end_char": 2080
+  }
+]

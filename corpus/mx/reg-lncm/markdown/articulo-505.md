@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lncm:article:505
+instrument_id: urn:lex-mx:federal:regulation:reg-lncm
+instrument: REG-LNCM
+name: "Reglamento de la Ley de Navegación y Comercio Marítimos"
+provision_type: article
+number: "505"
+aliases: ["REG-LNCM — Artículo 505"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNCM_040315.pdf
+source_sha256: 9de87e0e55f0e8e78c6bd8d5f2440f17c767a5359a3610d19932c27070c1fe55
+---
+
+# Artículo 505
+
+En cada puerto, se integrará un cuerpo de pilotos, con los Pilotos de Puerto autorizados para prestar el servicio en el ámbito geográfico correspondiente.
+
+Para garantizar la continuidad en la prestación del servicio en condiciones de seguridad y eficiencia y bajo una administración técnica y colegiada, los integrantes del cuerpo de pilotos de cada puerto, designarán por mayoría un piloto coordinador quien desempeñará sus funciones por un período de tres años, con la posibilidad de ser reelecto por un segundo período, con el procedimiento que se establezca en las reglas de pilotaje.

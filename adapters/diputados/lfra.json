@@ -1,0 +1,23 @@
+{
+  "slug": "lfra",
+  "instrument_id": "urn:lex-mx:federal:statute:lfra",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal de Responsabilidad Ambiental",
+  "short_name": "LFRA",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfra.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2013-06-07",
+  "expected_min_articles": 56,
+  "expected_articles": 56,
+  "expected_transitories": 3,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:01:13Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

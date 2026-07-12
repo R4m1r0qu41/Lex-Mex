@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LInfonavit_MTAI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LInfonavit_MTAI.pdf",
+  "retrieved_at": "2026-07-12T08:00:19.118980Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 107336,
+  "etag": "\"1a348-563b487e8d740\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:09 GMT",
+  "source_sha256": "b52444aaf66a5f36e252e598494c117526e5d9737de08de41061168ea46addd9",
+  "extracted_text_sha256": "2e5e3dd92189d63b41f9077742f78831aaf2f25c850cd3ce5a7abe05a6a5e8a7",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

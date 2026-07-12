@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-laassp:article:133
+instrument_id: urn:lex-mx:federal:regulation:reg-laassp
+instrument: REG-LAASSP
+name: "Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público"
+provision_type: article
+number: "133"
+aliases: ["REG-LAASSP — Artículo 133"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAASSP.pdf
+source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
+---
+
+> Título SEXTO · Capítulo ÚNICO
+
+# Artículo 133
+
+Para los efectos de lo dispuesto en el artículo 71 de la [Ley](articulo-2.md), respecto de las fracciones y párrafos de dicho precepto legal que a continuación se señalan, deberá considerarse lo siguiente: I. La autorización previa y específica para contratar con las personas que desempeñen un empleo, cargo o comisión en el servicio público, o bien, con las sociedades de las que dichas personas formen parte, a que se refiere la fracción III, deberá ser solicitada por el licitante interesado ante la persona titular del órgano interno de control en la dependencia o entidad contratante, en un plazo de cuando menos ocho días naturales previos al acto de presentación y apertura de proposiciones; en el caso del procedimiento de adjudicación directa, el interesado deberá realizar la solicitud señalada, el día hábil siguiente a aquél en el que recibió la solicitud de cotización. El órgano interno de control resolverá lo procedente, atendiendo a las características del objeto del contrato que se pretenda adjudicar, así como su correlación con las circunstancias que lo vinculan con las personas servidoras públicas, y podrá tomar en cuenta todos aquellos elementos o circunstancias que resulten procedentes considerar. Toda solicitud extemporánea se tendrá por no formulada. Lo anterior resultará aplicable tratándose de las autorizaciones que deban solicitarse a las autoridades de control interno, cuando se trate de procedimientos que realicen las entidades federativas, municipios, demarcaciones territoriales de la Ciudad de México y los entes públicos de unas y otras que realicen procedimientos de contratación con cargo total o parcial a recursos federales; II. Para determinar cuándo la dependencia o entidad ha resultado gravemente perjudicada, de conformidad con lo dispuesto en la fracción VI, se deberá considerar que el atraso en la entrega del bien o en la prestación del servicio, ocasionó que alguna actividad de la dependencia o entidad se haya visto entorpecida o suspendida a consecuencia de ese incumplimiento; III. Las proposiciones de las personas que se ubiquen en el supuesto a que se refiere la fracción VIII, serán desechadas de la partida en la que se presentaron, debiendo comunicar lo anterior al órgano interno de control, para efectos de determinar si se actualiza lo dispuesto por la fracción IV del artículo 90 de la Ley, y IV. Se entenderá que la persona titular de la Unidad de Administración y Finanzas o equivalente, o bien de la Oficialía Mayor de la dependencia o entidad, cumple con lo dispuesto en el último párrafo, cuando ingrese a la Plataforma la información de las personas a que hacen referencia las fracciones IV, VI y XIV de dicho artículo y en relación con aquéllas que señalan las demás fracciones, cuando se tenga conocimiento de la información que se prevé en las mismas; en ambos casos la información deberá incorporarse a la Plataforma en un plazo de tres días hábiles, contados a partir de aquél en que disponga de dicha información. Asimismo, será responsable de dar de baja de la Plataforma la información que de dichas personas haya difundido, cuando dejen de ubicarse en las hipótesis que motivaron su inclusión en la misma. Cuando la dependencia o entidad tenga conocimiento que se actualiza lo dispuesto por la fracción IV del artículo 90 de la Ley, deberá comunicarlo al órgano interno de control en el plazo señalado en el penúltimo párrafo de ese mismo artículo.

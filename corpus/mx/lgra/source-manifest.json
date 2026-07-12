@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgra",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgra.htm",
+  "retrieved_at": "2026-07-12T07:59:43.883928Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 972618,
+  "etag": "\"ed74a-648364c9c27c0\"",
+  "last_modified": "Mon, 12 Jan 2026 19:58:31 GMT",
+  "source_sha256": "1289ec6964e48c84990572ca6080ca05c9d6210e5b0ff5af6d8c9d935fc5fcc8",
+  "extracted_text_sha256": "f43b69bb9ea9f3411a43d64892b30c5b7efd11d4ac612e0f1aef9d00c90acb5f",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

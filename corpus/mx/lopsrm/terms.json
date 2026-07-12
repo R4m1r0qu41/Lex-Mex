@@ -1,0 +1,233 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:contratista",
+    "term": "Contratista",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "I",
+    "start_char": 56,
+    "end_char": 168,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:cotizante",
+    "term": "Cotizante",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "II",
+    "start_char": 168,
+    "end_char": 282,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:dependencias",
+    "term": "Dependencias",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "III",
+    "start_char": 282,
+    "end_char": 369,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:entidades",
+    "term": "Entidades",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "IV",
+    "start_char": 369,
+    "end_char": 454,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:entidades-federativas",
+    "term": "Entidades federativas",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "V",
+    "start_char": 454,
+    "end_char": 618,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:hacienda",
+    "term": "Hacienda",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "VI",
+    "start_char": 618,
+    "end_char": 678,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:ingenieria-basica",
+    "term": "Ingeniería básica",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "VII",
+    "start_char": 678,
+    "end_char": 990,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:interposita-persona",
+    "term": "Interpósita persona",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "VIII",
+    "start_char": 990,
+    "end_char": 1219,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:investigacion-de-mercado",
+    "term": "Investigación de mercado",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "IX",
+    "start_char": 1219,
+    "end_char": 2016,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:licitante",
+    "term": "Licitante",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "X",
+    "start_char": 2016,
+    "end_char": 2151,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:obras-publicas-asociadas-a-proyectos-de-infraestructura",
+    "term": "Obras públicas asociadas a proyectos de infraestructura",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "XI",
+    "start_char": 2151,
+    "end_char": 2463,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:obras-publicas-asociadas-a-programas-prioritarios-o-proyectos-estrategicos",
+    "term": "Obras públicas asociadas a programas prioritarios o proyectos estratégicos",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "XII",
+    "start_char": 2463,
+    "end_char": 2767,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:ofertas-subsecuentes-de-descuentos",
+    "term": "Ofertas subsecuentes de descuentos",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "XIII",
+    "start_char": 2767,
+    "end_char": 3352,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:plataforma",
+    "term": "Plataforma",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "XIV",
+    "start_char": 3352,
+    "end_char": 3420,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:proyecto-arquitectonico",
+    "term": "Proyecto arquitectónico",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "XV",
+    "start_char": 3420,
+    "end_char": 3663,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:proyecto-de-ingenieria",
+    "term": "Proyecto de ingeniería",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "XVI",
+    "start_char": 3663,
+    "end_char": 3990,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:proyecto-ejecutivo",
+    "term": "Proyecto ejecutivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "XVII",
+    "start_char": 3990,
+    "end_char": 4261,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "XVIII",
+    "start_char": 4261,
+    "end_char": 4327,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:testigo-social-en-las-contrataciones-publicas",
+    "term": "Testigo social en las contrataciones públicas",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "XIX",
+    "start_char": 4327,
+    "end_char": 4484,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:tratados",
+    "term": "Tratados",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "XX",
+    "start_char": 4484,
+    "end_char": 4942,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:term:uma",
+    "term": "UMA",
+    "instrument_id": "urn:lex-mx:federal:statute:lopsrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:2",
+    "fraction": "XXI",
+    "start_char": 4942,
+    "end_char": 5035,
+    "basis": "express_definition"
+  }
+]

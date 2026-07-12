@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lan",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lan.htm",
+  "retrieved_at": "2026-07-12T08:01:40.699937Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1352482,
+  "etag": "\"14a322-648c973a3b980\"",
+  "last_modified": "Tue, 20 Jan 2026 03:32:06 GMT",
+  "source_sha256": "4ef50d6b4b3a6ad0378720c5d49463b4f17d70d9de39f895ed5dae4d2e21736d",
+  "extracted_text_sha256": "c52b18fa7c2e7b3ca825a81bacc765cc2b330eeeecc3a97512420a67e989e11f",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

@@ -1,0 +1,1370 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:1:term-usage:57-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 57,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:1:term-usage:449-452",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 449,
+    "end_char": 452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:2:term-usage:52-55",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 52,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:2:term-usage:1602-1612",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1602,
+    "end_char": 1612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:2:term-usage:2236-2239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 2236,
+    "end_char": 2239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:2-bis:term-usage:177-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:2-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 177,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:5:term-usage:1151-1161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1151,
+    "end_char": 1161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:12:term-usage:1284-1294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1284,
+    "end_char": 1294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:14:term-usage:210-213",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 210,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:18:term-usage:169-179",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 169,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:19:term-usage:2087-2097",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2087,
+    "end_char": 2097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:19:term-usage:2410-2420",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2410,
+    "end_char": 2420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:20:term-usage:73-83",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 73,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:21:term-usage:343-346",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 343,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:22:term-usage:1407-1417",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1407,
+    "end_char": 1417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:24:term-usage:96-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 96,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:24:term-usage:794-804",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 794,
+    "end_char": 804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:24:term-usage:911-914",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 911,
+    "end_char": 914
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:24:term-usage:1076-1086",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1076,
+    "end_char": 1086
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:24-a:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:24-a",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:27:term-usage:1960-1970",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1960,
+    "end_char": 1970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:27:term-usage:2142-2152",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2142,
+    "end_char": 2152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:30:term-usage:418-421",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 418,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:31:term-usage:1139-1149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1139,
+    "end_char": 1149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:33:term-usage:338-341",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 338,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:34:term-usage:1000-1003",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1000,
+    "end_char": 1003
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:35:term-usage:96-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 96,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:36:term-usage:1617-1620",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1617,
+    "end_char": 1620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:36:term-usage:2297-2300",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 2297,
+    "end_char": 2300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:36:term-usage:2326-2329",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 2326,
+    "end_char": 2329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:37:term-usage:749-752",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 749,
+    "end_char": 752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:37:term-usage:1164-1167",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1164,
+    "end_char": 1167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38:term-usage:437-440",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 437,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38:term-usage:936-939",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 936,
+    "end_char": 939
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38:term-usage:1114-1117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1114,
+    "end_char": 1117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38:term-usage:1357-1360",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1357,
+    "end_char": 1360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38:term-usage:2087-2090",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 2087,
+    "end_char": 2090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38:term-usage:2949-2952",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 2949,
+    "end_char": 2952
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38:term-usage:3349-3352",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 3349,
+    "end_char": 3352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38:term-usage:3358-3361",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 3358,
+    "end_char": 3361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38:term-usage:4243-4246",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 4243,
+    "end_char": 4246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38:term-usage:5830-5833",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 5830,
+    "end_char": 5833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38:term-usage:6414-6417",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 6414,
+    "end_char": 6417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38:term-usage:6586-6589",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 6586,
+    "end_char": 6589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38-bis:term-usage:107-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 107,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:39:term-usage:54-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 54,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:39:term-usage:266-276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 266,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:39:term-usage:748-758",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 748,
+    "end_char": 758
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:39:term-usage:863-873",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 863,
+    "end_char": 873
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:39:term-usage:1409-1412",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1409,
+    "end_char": 1412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:39:term-usage:2239-2242",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 2239,
+    "end_char": 2242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:43-bis:term-usage:895-898",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:43-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 895,
+    "end_char": 898
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:44:term-usage:814-824",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 814,
+    "end_char": 824
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:49:term-usage:409-412",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 409,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:53:term-usage:1303-1306",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1303,
+    "end_char": 1306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:53-a:term-usage:102-105",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:53-a",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 102,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:53-b:term-usage:167-170",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:53-b",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 167,
+    "end_char": 170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:63:term-usage:427-430",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 427,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:66:term-usage:405-408",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 405,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:68:term-usage:769-772",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 769,
+    "end_char": 772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:70:term-usage:101-104",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 101,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:71:term-usage:48-51",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 48,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:92-quater:term-usage:554-557",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:92-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 554,
+    "end_char": 557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:92-quater:term-usage:1952-1955",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:92-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1952,
+    "end_char": 1955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:92-quinquies:term-usage:661-664",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:92-quinquies",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 661,
+    "end_char": 664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:101:term-usage:421-424",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 421,
+    "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:102:term-usage:330-333",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 330,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:106-bis:term-usage:293-296",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:106-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 293,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:110:term-usage:2526-2529",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 2526,
+    "end_char": 2529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:110:term-usage:3094-3104",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3094,
+    "end_char": 3104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:110:term-usage:5230-5233",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 5230,
+    "end_char": 5233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:116:term-usage:3478-3481",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:116",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 3478,
+    "end_char": 3481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:117:term-usage:1427-1430",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1427,
+    "end_char": 1430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:129:term-usage:3141-3144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 3141,
+    "end_char": 3144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:129-bis:term-usage:380-383",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:129-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 380,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:151-bis:term-usage:523-526",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:151-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 523,
+    "end_char": 526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:152:term-usage:363-366",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 363,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:153:term-usage:421-431",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 421,
+    "end_char": 431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:154:term-usage:597-607",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:154",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 597,
+    "end_char": 607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:175:term-usage:204-214",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:175",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 204,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:175:term-usage:616-626",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:175",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 616,
+    "end_char": 626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:175:term-usage:720-723",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:175",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 720,
+    "end_char": 723
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:175:term-usage:1058-1068",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:175",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1058,
+    "end_char": 1068
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:176:term-usage:638-648",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:176",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 638,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:176:term-usage:926-936",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:176",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 926,
+    "end_char": 936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:176:term-usage:942-952",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:176",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 942,
+    "end_char": 952
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:178:term-usage:92-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:178",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 92,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:178:term-usage:815-825",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:178",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 815,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:180:term-usage:301-311",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 301,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:180:term-usage:350-360",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 350,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:180:term-usage:1079-1089",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1079,
+    "end_char": 1089
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:180-bis:term-usage:119-129",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:180-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 119,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:180-bis:term-usage:1094-1104",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:180-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1094,
+    "end_char": 1104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:181:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:181",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:181:term-usage:18-28",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:181",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 18,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:181:term-usage:56-66",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:181",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 56,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:181:term-usage:487-497",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:181",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 487,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:181:term-usage:928-938",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:181",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 928,
+    "end_char": 938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:185:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:185:term-usage:59-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 59,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:185:term-usage:463-473",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 463,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:185:term-usage:1213-1216",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1213,
+    "end_char": 1216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:186:term-usage:152-162",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:186",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 152,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:186:term-usage:401-411",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:186",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 401,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:187:term-usage:69-79",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:187",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 69,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:187:term-usage:400-410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:187",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 400,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:187:term-usage:514-524",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:187",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 514,
+    "end_char": 524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:187:term-usage:563-573",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:187",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 563,
+    "end_char": 573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:187:term-usage:1348-1358",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:187",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1348,
+    "end_char": 1358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:187:term-usage:1524-1534",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:187",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1524,
+    "end_char": 1534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:188:term-usage:508-518",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:188",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 508,
+    "end_char": 518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:189:term-usage:184-194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:189",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 184,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:189:term-usage:789-799",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:189",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 789,
+    "end_char": 799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:189:term-usage:838-848",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:189",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 838,
+    "end_char": 848
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:189:term-usage:1136-1146",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:189",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1136,
+    "end_char": 1146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:189:term-usage:1481-1491",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:189",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1481,
+    "end_char": 1491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:190:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:190",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:191:term-usage:82-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:191",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 82,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:191:term-usage:90-93",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:191",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 90,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:192:term-usage:427-430",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:192",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 427,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:193:term-usage:196-206",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:193",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 196,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:193-bis:term-usage:93-96",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:193-bis",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 93,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:196:term-usage:371-374",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:196",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 371,
+    "end_char": 374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:196:term-usage:578-581",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:196",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 578,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:197:term-usage:1529-1532",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:197",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1529,
+    "end_char": 1532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:197:term-usage:2384-2387",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:197",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 2384,
+    "end_char": 2387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:197-quater:term-usage:377-380",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:197-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 377,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:197-quater:term-usage:898-901",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:197-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 898,
+    "end_char": 901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:197-quater:term-usage:952-955",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:197-quater",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 952,
+    "end_char": 955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:197-quinquies:term-usage:285-288",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:197-quinquies",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 285,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:198:term-usage:341-344",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:198",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 341,
+    "end_char": 344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:198:term-usage:668-671",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:198",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 668,
+    "end_char": 671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:198:term-usage:843-846",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:198",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 843,
+    "end_char": 846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:198:term-usage:948-951",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:198",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 948,
+    "end_char": 951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:199:term-usage:161-164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:199",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 161,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:199:term-usage:1016-1019",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:199",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1016,
+    "end_char": 1019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:199:term-usage:1662-1665",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:199",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 1662,
+    "end_char": 1665
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:199:term-usage:2104-2107",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:199",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 2104,
+    "end_char": 2107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:210:term-usage:962-965",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:210",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 962,
+    "end_char": 965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:211:term-usage:399-402",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:211",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 399,
+    "end_char": 402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:212:term-usage:406-409",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:212",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 406,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:218:term-usage:125-128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:218",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 125,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:218:term-usage:209-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:218",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 209,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:220:term-usage:156-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:220",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 156,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:220:term-usage:184-187",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:220",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 184,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:223:term-usage:190-193",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:223",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 190,
+    "end_char": 193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:225:term-usage:371-374",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:225",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 371,
+    "end_char": 374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:225:term-usage:399-402",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:225",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 399,
+    "end_char": 402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:226:term-usage:191-194",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:226",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 191,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:transitory:segundo:term-usage:238-241",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 238,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:transitory:tercero:term-usage:304-307",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:ley",
+    "span": "Ley",
+    "start_char": 304,
+    "end_char": 307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:transitory:tercero:term-usage:648-658",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lac:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lac:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 648,
+    "end_char": 658
+  }
+]

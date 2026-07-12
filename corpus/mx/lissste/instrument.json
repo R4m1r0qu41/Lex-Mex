@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lissste",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+  "short_name": "LISSSTE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2007-03-31",
+  "latest_reform_date": "2026-01-15",
+  "retrieved_at": "2026-07-12T08:00:37.972872Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf",
+  "source_sha256": "aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5",
+  "extracted_text_sha256": "91c9fbb68b5080d473116f0db4c182523acdfa2e60ffa897de6f37d13fc3911a",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

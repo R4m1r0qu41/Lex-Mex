@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lncm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lncm.htm",
+  "retrieved_at": "2026-07-12T08:04:32.010997Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 946507,
+  "etag": "\"e714b-6449ddb5b1e40\"",
+  "last_modified": "Fri, 28 Nov 2025 01:50:41 GMT",
+  "source_sha256": "f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926",
+  "extracted_text_sha256": "4454660e44f8475ba5171b869e4b563b0f3425b1bdca935dda9055ec73686b54",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

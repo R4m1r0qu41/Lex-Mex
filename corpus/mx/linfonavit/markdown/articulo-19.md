@@ -1,0 +1,36 @@
+---
+id: urn:lex-mx:federal:statute:linfonavit:article:19
+instrument_id: urn:lex-mx:federal:statute:linfonavit
+instrument: LINFONAVIT
+name: "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores"
+provision_type: article
+number: "19"
+aliases: ["LINFONAVIT — Artículo 19"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf
+source_sha256: 9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912
+---
+
+# Artículo 19
+
+El Auditor Externo será designado por el Consejo de Administración de entre tres candidatos propuestos por el Comité de Auditoría, no podrá ocupar el cargo por más de cinco años y deberá reunir los siguientes requisitos:
+
+1. Ser una persona de reconocido prestigio.
+
+2. Contar con Título y Cédula Profesional de Contador Público o Licenciado en Contaduría. 3. Estar debidamente certificado.
+
+4. Contar con conocimientos y experiencia profesional mínima de cinco años en materia de auditoría relacionada con entidades financieras.
+
+5. No haber sido condenado por sentencia irrevocable por delito patrimonial o intencional que haya ameritado pena corporal.
+
+6. No estar inhabilitado para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público, o en el sistema financiero mexicano, así como no haber sido declarado como quebrado o concursado.
+
+7. Ser socio de una firma de contadores públicos de reconocido prestigio. Esta firma no podrá ser la misma que aquélla a la que hubiera pertenecido el Auditor, en el período inmediato anterior, y
+
+8. No desempeñar ningún cargo o comisión en el servicio público.
+
+El Comité de Auditoría propondrá al Consejo de Administración una firma de reconocido prestigio para que se autorice la contratación del Auditor Externo. Para este efecto podrá solicitar a un Colegio o Instituto de Contadores Públicos ampliamente representativo de la profesión, le proponga una terna de firmas.
+
+Artículo reformado DOF 01-06-2005

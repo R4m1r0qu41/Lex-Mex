@@ -1,0 +1,23 @@
+{
+  "slug": "lbogm",
+  "instrument_id": "urn:lex-mx:federal:statute:lbogm",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
+  "short_name": "LBOGM",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBOGM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lbogm.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2005-03-18",
+  "expected_min_articles": 124,
+  "expected_articles": 124,
+  "expected_transitories": 12,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:01:34Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

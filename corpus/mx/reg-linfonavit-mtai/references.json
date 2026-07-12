@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:12:reference:70-72:10:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:12",
+    "source_span": "10",
+    "start_char": 70,
+    "end_char": 72,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:10",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:12:reference:75-77:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:12",
+    "source_span": "11",
+    "start_char": 75,
+    "end_char": 77,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

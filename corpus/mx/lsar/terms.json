@@ -1,0 +1,145 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:administradora",
+    "term": "Administradora",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 117,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:base-de-datos-nacional-sar",
+    "term": "Base de Datos Nacional SAR",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "II",
+    "start_char": 117,
+    "end_char": 406,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:la-comision",
+    "term": "La Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "III",
+    "start_char": 406,
+    "end_char": 933,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:empresas-operadoras",
+    "term": "Empresas Operadoras",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "IV",
+    "start_char": 933,
+    "end_char": 1032,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:fondos-de-prevision-social",
+    "term": "Fondos de Previsión Social",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "V",
+    "start_char": 1032,
+    "end_char": 1848,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:institutos-de-seguridad-social",
+    "term": "Institutos de Seguridad Social",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "VI",
+    "start_char": 1848,
+    "end_char": 2095,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:leyes-de-seguridad-social",
+    "term": "Leyes de Seguridad Social",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "VII",
+    "start_char": 2095,
+    "end_char": 2311,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:nexo-patrimonial",
+    "term": "Nexo patrimonial",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "VIII",
+    "start_char": 2311,
+    "end_char": 2685,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:participantes-en-los-sistemas-de-ahorro-para-el-retiro",
+    "term": "Participantes en los sistemas de ahorro para el retiro",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "IX",
+    "start_char": 2685,
+    "end_char": 3135,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:sistemas-de-ahorro-para-el-retiro",
+    "term": "Sistemas de Ahorro para el Retiro",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "X",
+    "start_char": 3135,
+    "end_char": 3529,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:sociedades-de-inversion",
+    "term": "Sociedades de inversión",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "XI",
+    "start_char": 3529,
+    "end_char": 3630,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:trabajador",
+    "term": "Trabajador",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "XII",
+    "start_char": 3630,
+    "end_char": 4132,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsar:term:vinculo-laboral",
+    "term": "Vínculo Laboral",
+    "instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lsar:article:3",
+    "fraction": "XIV",
+    "start_char": 4132,
+    "end_char": 4335,
+    "basis": "express_definition"
+  }
+]

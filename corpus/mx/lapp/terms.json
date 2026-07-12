@@ -1,0 +1,178 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:asociacion-publico-privada",
+    "term": "Asociación público-privada",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "I",
+    "start_char": 56,
+    "end_char": 159,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:autorizaciones-para-el-desarrollo-del-proyecto",
+    "term": "Autorizaciones para el desarrollo del proyecto",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "II",
+    "start_char": 159,
+    "end_char": 348,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:autorizaciones-para-la-ejecucion-de-la-obra",
+    "term": "Autorizaciones para la ejecución de la obra",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "III",
+    "start_char": 348,
+    "end_char": 622,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:autorizaciones-para-la-prestacion-de-los-servicios",
+    "term": "Autorizaciones para la prestación de los servicios",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "IV",
+    "start_char": 622,
+    "end_char": 939,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:compranet",
+    "term": "CompraNet",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "V",
+    "start_char": 939,
+    "end_char": 1205,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:concursante",
+    "term": "Concursante",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "VI",
+    "start_char": 1205,
+    "end_char": 1346,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:convocante",
+    "term": "Convocante",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "VII",
+    "start_char": 1346,
+    "end_char": 1471,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:dependencias",
+    "term": "Dependencias",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "VIII",
+    "start_char": 1471,
+    "end_char": 1659,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:desarrollador",
+    "term": "Desarrollador",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "IX",
+    "start_char": 1659,
+    "end_char": 1927,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:entidades",
+    "term": "Entidades",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "X",
+    "start_char": 1927,
+    "end_char": 2213,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:entidades-federativas",
+    "term": "Entidades Federativas",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "XI",
+    "start_char": 2213,
+    "end_char": 2321,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "XII",
+    "start_char": 2321,
+    "end_char": 2382,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:municipios",
+    "term": "Municipios",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "XIII",
+    "start_char": 2382,
+    "end_char": 2438,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:nivel-de-desempeno",
+    "term": "Nivel de desempeño",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "XIV",
+    "start_char": 2438,
+    "end_char": 2704,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:promotor",
+    "term": "Promotor",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "XV",
+    "start_char": 2704,
+    "end_char": 2825,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lapp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lapp:article:12",
+    "fraction": "XVI",
+    "start_char": 2825,
+    "end_char": 2989,
+    "basis": "express_definition"
+  }
+]

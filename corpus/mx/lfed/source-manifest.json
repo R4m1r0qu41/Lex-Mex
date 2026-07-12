@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfed",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNED.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lned.htm",
+  "retrieved_at": "2026-07-12T07:59:04.800912Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1056771,
+  "etag": "\"102003-644ef281b1540\"",
+  "last_modified": "Tue, 02 Dec 2025 02:50:21 GMT",
+  "source_sha256": "e6a8ce3c4efe726e0336a029d6906fcefe2f517c2cf1e44edea9c4862ddd8c68",
+  "extracted_text_sha256": "d9a440cacb5ea9075d1d2e947f613c4a1d641e6ae611ec738aed41c53626f1e0",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

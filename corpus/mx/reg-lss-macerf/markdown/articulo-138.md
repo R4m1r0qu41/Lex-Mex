@@ -1,0 +1,32 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lss-macerf:article:138
+instrument_id: urn:lex-mx:federal:regulation:reg-lss-macerf
+instrument: REG-LSS-MACERF
+name: "Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización"
+provision_type: article
+number: "138"
+aliases: ["REG-LSS-MACERF — Artículo 138"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MACERF.pdf
+source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
+---
+
+> Título QUINTO · Capítulo VI
+
+# Artículo 138
+
+Para los efectos de los artículos 40 C y 40 D de la Ley, quedará sin efecto la solicitud o autorización para el pago diferido o en parcialidades cuando:
+
+I. Desaparezca o resulte insuficiente la garantía del interés fiscal otorgada, sin que el patrón presente nueva garantía o amplíe la que resulte insuficiente;
+
+II. El patrón sea declarado sujeto a concurso mercantil o esté en proceso de liquidación;
+
+III. El patrón deje de pagar tres parcialidades;
+
+IV. El patrón omita el pago de las cuotas obrero patronales que se generen dentro de los tres meses siguientes a la presentación de su solicitud, y
+
+V. El patrón, tratándose de pago diferido, no lo realice en la fecha señalada.
+
+En los supuestos de las fracciones anteriores, el Instituto requerirá y hará exigible el saldo insoluto, mediante el procedimiento administrativo de ejecución o en su caso, procederá a hacer efectiva la garantía del interés fiscal. En el caso de la fracción II, el Instituto hará valer el derecho de preferencia, en términos del artículo 288 de la Ley, ante el conciliador o juez de la causa.

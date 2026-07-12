@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización",
+  "short_name": "REG-LSS-MACERF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2002-11-01",
+  "latest_reform_date": "2005-07-15",
+  "retrieved_at": "2026-07-12T08:00:29.397739Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MACERF.pdf",
+  "source_sha256": "78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9",
+  "extracted_text_sha256": "1510a93a1ecb8a5a1e39e6b2f2c6ed1c23faf8fbe90e8cc7e801827a805632e9",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

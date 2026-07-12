@@ -1,0 +1,24 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:term:disposiciones-generales",
+    "term": "Disposiciones Generales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:2",
+    "fraction": "I",
+    "start_char": 129,
+    "end_char": 216,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:2",
+    "fraction": "II",
+    "start_char": 216,
+    "end_char": 262,
+    "basis": "express_definition"
+  }
+]

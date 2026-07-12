@@ -1,0 +1,3818 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:1:term-usage:125-128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 125,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:68-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 68,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:933-936",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 933,
+    "end_char": 936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:1748-1751",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1748,
+    "end_char": 1751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:2793-2796",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2793,
+    "end_char": 2796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:3724-3727",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3724,
+    "end_char": 3727
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:3972-3975",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3972,
+    "end_char": 3975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:4290-4293",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 4290,
+    "end_char": 4293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:4466-4472",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 4466,
+    "end_char": 4472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:4674-4677",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 4674,
+    "end_char": 4677
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:4788-4794",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 4788,
+    "end_char": 4794
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:4872-4875",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 4872,
+    "end_char": 4875
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:5135-5138",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 5135,
+    "end_char": 5138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:5562-5565",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 5562,
+    "end_char": 5565
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:5702-5705",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 5702,
+    "end_char": 5705
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:6275-6278",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 6275,
+    "end_char": 6278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:7608-7611",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 7608,
+    "end_char": 7611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:7891-7894",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 7891,
+    "end_char": 7894
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:7962-7965",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 7962,
+    "end_char": 7965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:2:term-usage:8803-8806",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 8803,
+    "end_char": 8806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:3:term-usage:4-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:lineamientos-de-contratacion-especificos",
+    "span": "Lineamientos de contratación específicos",
+    "start_char": 4,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:3:term-usage:164-167",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 164,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:3:term-usage:395-398",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 395,
+    "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:3:term-usage:695-735",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:lineamientos-de-contratacion-especificos",
+    "span": "Lineamientos de contratación específicos",
+    "start_char": 695,
+    "end_char": 735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:4:term-usage:70-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 70,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:4:term-usage:388-391",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 388,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:4:term-usage:653-656",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 653,
+    "end_char": 656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:4:term-usage:1084-1087",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1084,
+    "end_char": 1087
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:5:term-usage:64-67",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 64,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:5:term-usage:734-737",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 734,
+    "end_char": 737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:5:term-usage:1302-1305",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1302,
+    "end_char": 1305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:7:term-usage:60-63",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 60,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:7:term-usage:199-239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:lineamientos-de-contratacion-especificos",
+    "span": "Lineamientos de contratación específicos",
+    "start_char": 199,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:7:term-usage:609-612",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 609,
+    "end_char": 612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:7:term-usage:887-890",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 887,
+    "end_char": 890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:7:term-usage:1214-1254",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:lineamientos-de-contratacion-especificos",
+    "span": "Lineamientos de contratación específicos",
+    "start_char": 1214,
+    "end_char": 1254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:7:term-usage:1366-1369",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1366,
+    "end_char": 1369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:7:term-usage:1601-1604",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1601,
+    "end_char": 1604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:7:term-usage:1865-1905",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:lineamientos-de-contratacion-especificos",
+    "span": "Lineamientos de contratación específicos",
+    "start_char": 1865,
+    "end_char": 1905
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:9:term-usage:136-139",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 136,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:10:term-usage:53-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 53,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:10:term-usage:633-670",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite-de-contrataciones-estrategicas",
+    "span": "Comité de Contrataciones Estratégicas",
+    "start_char": 633,
+    "end_char": 670
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:10:term-usage:1575-1578",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1575,
+    "end_char": 1578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:10:term-usage:2064-2067",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2064,
+    "end_char": 2067
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:10:term-usage:2298-2301",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2298,
+    "end_char": 2301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:11:term-usage:117-120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 117,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:12:term-usage:86-89",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 86,
+    "end_char": 89
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:12:term-usage:154-157",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 154,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:13:term-usage:830-833",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 830,
+    "end_char": 833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:14:term-usage:153-156",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 153,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:14:term-usage:442-482",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:lineamientos-de-contratacion-especificos",
+    "span": "Lineamientos de contratación específicos",
+    "start_char": 442,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:14:term-usage:564-567",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 564,
+    "end_char": 567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:14:term-usage:624-627",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 624,
+    "end_char": 627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:15:term-usage:55-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 55,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:15:term-usage:509-512",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 509,
+    "end_char": 512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:16:term-usage:53-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 53,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:18:term-usage:146-149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 146,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:19:term-usage:85-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 85,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:20:term-usage:175-212",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite-de-contrataciones-estrategicas",
+    "span": "Comité de Contrataciones Estratégicas",
+    "start_char": 175,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:20:term-usage:631-634",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 631,
+    "end_char": 634
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:21:term-usage:1487-1490",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1487,
+    "end_char": 1490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:21:term-usage:1630-1633",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1630,
+    "end_char": 1633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:23:term-usage:289-292",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 289,
+    "end_char": 292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:24:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:24:term-usage:309-312",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 309,
+    "end_char": 312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:24:term-usage:386-389",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 386,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:26:term-usage:121-124",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 121,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:26:term-usage:485-488",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 485,
+    "end_char": 488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:28:term-usage:267-270",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 267,
+    "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:29:term-usage:78-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 78,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:31:term-usage:400-403",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 400,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:33:term-usage:1729-1732",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1729,
+    "end_char": 1732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:33:term-usage:3074-3077",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3074,
+    "end_char": 3077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:34:term-usage:931-934",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 931,
+    "end_char": 934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:34:term-usage:2410-2413",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2410,
+    "end_char": 2413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:37:term-usage:88-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 88,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:37:term-usage:96-133",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite-de-contrataciones-estrategicas",
+    "span": "Comité de Contrataciones Estratégicas",
+    "start_char": 96,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:37:term-usage:246-283",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite-de-contrataciones-estrategicas",
+    "span": "Comité de Contrataciones Estratégicas",
+    "start_char": 246,
+    "end_char": 283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:37:term-usage:307-310",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 307,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:38:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:38:term-usage:1004-1010",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1004,
+    "end_char": 1010
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:38:term-usage:1162-1168",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1162,
+    "end_char": 1168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:38:term-usage:1578-1584",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1578,
+    "end_char": 1584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:38:term-usage:1982-1988",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1982,
+    "end_char": 1988
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:38:term-usage:2224-2230",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 2224,
+    "end_char": 2230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:38:term-usage:2588-2594",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 2588,
+    "end_char": 2594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:39:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:39:term-usage:651-657",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 651,
+    "end_char": 657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:39:term-usage:1191-1197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1191,
+    "end_char": 1197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:39:term-usage:1468-1474",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1468,
+    "end_char": 1474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:39:term-usage:1649-1655",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1649,
+    "end_char": 1655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:39:term-usage:1845-1851",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1845,
+    "end_char": 1851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:39:term-usage:2040-2046",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 2040,
+    "end_char": 2046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:39:term-usage:2274-2280",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 2274,
+    "end_char": 2280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:39:term-usage:2767-2770",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2767,
+    "end_char": 2770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:39:term-usage:3172-3178",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 3172,
+    "end_char": 3178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:40:term-usage:33-39",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 33,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:40:term-usage:140-146",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 140,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:41:term-usage:38-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 38,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:41:term-usage:142-148",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 142,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:41:term-usage:302-305",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 302,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:41:term-usage:768-808",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:lineamientos-de-contratacion-especificos",
+    "span": "Lineamientos de contratación específicos",
+    "start_char": 768,
+    "end_char": 808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:41:term-usage:1300-1306",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1300,
+    "end_char": 1306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:41:term-usage:1486-1489",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1486,
+    "end_char": 1489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:41:term-usage:1856-1862",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1856,
+    "end_char": 1862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:41:term-usage:1960-1966",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1960,
+    "end_char": 1966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:41:term-usage:2128-2131",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2128,
+    "end_char": 2131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:41:term-usage:2225-2228",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2225,
+    "end_char": 2228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:41:term-usage:2328-2334",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 2328,
+    "end_char": 2334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:41:term-usage:2433-2439",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 2433,
+    "end_char": 2439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:42:term-usage:17-23",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 17,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:42:term-usage:122-128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 122,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:42:term-usage:5054-5060",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 5054,
+    "end_char": 5060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:42:term-usage:5400-5403",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 5400,
+    "end_char": 5403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:43:term-usage:76-79",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 76,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:43:term-usage:153-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 153,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:43:term-usage:435-438",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 435,
+    "end_char": 438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:43:term-usage:949-989",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:lineamientos-de-contratacion-especificos",
+    "span": "Lineamientos de contratación específicos",
+    "start_char": 949,
+    "end_char": 989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:43:term-usage:1863-1866",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1863,
+    "end_char": 1866
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:43:term-usage:2050-2053",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2050,
+    "end_char": 2053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:44:term-usage:72-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 72,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:44:term-usage:7173-7176",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 7173,
+    "end_char": 7176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:47:term-usage:71-74",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 71,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:47:term-usage:2440-2443",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2440,
+    "end_char": 2443
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:47:term-usage:2857-2860",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2857,
+    "end_char": 2860
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:47:term-usage:3062-3065",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3062,
+    "end_char": 3065
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:49:term-usage:1299-1302",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1299,
+    "end_char": 1302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:49:term-usage:1448-1451",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1448,
+    "end_char": 1451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:53:term-usage:770-773",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 770,
+    "end_char": 773
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:54:term-usage:240-243",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 240,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:54:term-usage:1233-1236",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1233,
+    "end_char": 1236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:55:term-usage:1486-1489",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1486,
+    "end_char": 1489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:56:term-usage:69-72",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 69,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:56:term-usage:700-703",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 700,
+    "end_char": 703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:58:term-usage:913-916",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 913,
+    "end_char": 916
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:58:term-usage:984-992",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:bitacora",
+    "span": "Bitácora",
+    "start_char": 984,
+    "end_char": 992
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:58:term-usage:1448-1451",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1448,
+    "end_char": 1451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:59:term-usage:176-179",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 176,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:59:term-usage:436-439",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 436,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:60:term-usage:134-137",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 134,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:62:term-usage:152-155",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 152,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:62:term-usage:614-617",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 614,
+    "end_char": 617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:64:term-usage:251-254",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 251,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:67:term-usage:310-313",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 310,
+    "end_char": 313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:68:term-usage:276-279",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 276,
+    "end_char": 279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:69:term-usage:171-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 171,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:69:term-usage:195-201",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 195,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:69:term-usage:392-398",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 392,
+    "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:70:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:70:term-usage:505-511",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 505,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:71:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:72:term-usage:73-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 73,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:72:term-usage:343-346",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 343,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:72:term-usage:570-573",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 570,
+    "end_char": 573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:72:term-usage:2441-2444",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2441,
+    "end_char": 2444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:72:term-usage:2789-2792",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2789,
+    "end_char": 2792
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:74:term-usage:138-141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 138,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:74:term-usage:1344-1347",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1344,
+    "end_char": 1347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:75:term-usage:476-500",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:proyecto-de-convocatoria",
+    "span": "Proyecto de convocatoria",
+    "start_char": 476,
+    "end_char": 500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:75:term-usage:1181-1205",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:proyecto-de-convocatoria",
+    "span": "Proyecto de convocatoria",
+    "start_char": 1181,
+    "end_char": 1205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:75:term-usage:1280-1286",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1280,
+    "end_char": 1286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:75:term-usage:1471-1477",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 1471,
+    "end_char": 1477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:76:term-usage:140-143",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 140,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:76:term-usage:419-422",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 419,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:76:term-usage:1410-1413",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1410,
+    "end_char": 1413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:77:term-usage:274-277",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 274,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:78:term-usage:92-95",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 92,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:78:term-usage:350-374",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:proyecto-de-convocatoria",
+    "span": "Proyecto de convocatoria",
+    "start_char": 350,
+    "end_char": 374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:78:term-usage:517-523",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 517,
+    "end_char": 523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:78:term-usage:2212-2215",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2212,
+    "end_char": 2215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:80:term-usage:1275-1278",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1275,
+    "end_char": 1278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:80:term-usage:1809-1812",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1809,
+    "end_char": 1812
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:81:term-usage:284-287",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 284,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:81:term-usage:1299-1302",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1299,
+    "end_char": 1302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:82:term-usage:225-228",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 225,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:82:term-usage:749-752",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 749,
+    "end_char": 752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:82:term-usage:891-894",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 891,
+    "end_char": 894
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:82:term-usage:920-923",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 920,
+    "end_char": 923
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:82:term-usage:1236-1239",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1236,
+    "end_char": 1239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:82:term-usage:1633-1636",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1633,
+    "end_char": 1636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:82:term-usage:2050-2053",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2050,
+    "end_char": 2053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:62-86",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:proyecto-de-convocatoria",
+    "span": "Proyecto de convocatoria",
+    "start_char": 62,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:152-155",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 152,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:641-644",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 641,
+    "end_char": 644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:1028-1031",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1028,
+    "end_char": 1031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:2632-2635",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2632,
+    "end_char": 2635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:2927-2930",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2927,
+    "end_char": 2930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:3086-3089",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3086,
+    "end_char": 3089
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:3670-3673",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3670,
+    "end_char": 3673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:3782-3785",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3782,
+    "end_char": 3785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:4114-4117",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 4114,
+    "end_char": 4117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:4296-4299",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 4296,
+    "end_char": 4299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:4765-4768",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 4765,
+    "end_char": 4768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:5818-5821",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 5818,
+    "end_char": 5821
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:5910-5913",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 5910,
+    "end_char": 5913
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:6550-6553",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 6550,
+    "end_char": 6553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:7389-7392",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 7389,
+    "end_char": 7392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:9062-9065",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 9062,
+    "end_char": 9065
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:9413-9416",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 9413,
+    "end_char": 9416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:10044-10047",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 10044,
+    "end_char": 10047
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:12496-12499",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 12496,
+    "end_char": 12499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:83:term-usage:13141-13144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 13141,
+    "end_char": 13144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:84:term-usage:1876-1879",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1876,
+    "end_char": 1879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:84:term-usage:2086-2089",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2086,
+    "end_char": 2089
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:85:term-usage:21-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:proyecto-de-convocatoria",
+    "span": "Proyecto de convocatoria",
+    "start_char": 21,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:85:term-usage:536-560",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:proyecto-de-convocatoria",
+    "span": "Proyecto de convocatoria",
+    "start_char": 536,
+    "end_char": 560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:85:term-usage:786-810",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:proyecto-de-convocatoria",
+    "span": "Proyecto de convocatoria",
+    "start_char": 786,
+    "end_char": 810
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:85:term-usage:926-950",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:proyecto-de-convocatoria",
+    "span": "Proyecto de convocatoria",
+    "start_char": 926,
+    "end_char": 950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:85:term-usage:1301-1325",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:proyecto-de-convocatoria",
+    "span": "Proyecto de convocatoria",
+    "start_char": 1301,
+    "end_char": 1325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:85:term-usage:1461-1485",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:proyecto-de-convocatoria",
+    "span": "Proyecto de convocatoria",
+    "start_char": 1461,
+    "end_char": 1485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:85:term-usage:1648-1651",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1648,
+    "end_char": 1651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:85:term-usage:1807-1831",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:proyecto-de-convocatoria",
+    "span": "Proyecto de convocatoria",
+    "start_char": 1807,
+    "end_char": 1831
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:86:term-usage:1259-1262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1259,
+    "end_char": 1262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:87:term-usage:73-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 73,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:87:term-usage:878-881",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 878,
+    "end_char": 881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:88:term-usage:325-328",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 325,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:89:term-usage:265-268",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 265,
+    "end_char": 268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:89:term-usage:567-570",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 567,
+    "end_char": 570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:89:term-usage:681-684",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 681,
+    "end_char": 684
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:89:term-usage:853-856",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:89",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 853,
+    "end_char": 856
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:90:term-usage:426-429",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 426,
+    "end_char": 429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:90:term-usage:1168-1171",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1168,
+    "end_char": 1171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:90:term-usage:1547-1550",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1547,
+    "end_char": 1550
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:91:term-usage:2722-2725",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:91",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2722,
+    "end_char": 2725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:92:term-usage:508-511",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 508,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:92:term-usage:2150-2153",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2150,
+    "end_char": 2153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:92:term-usage:2472-2475",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2472,
+    "end_char": 2475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:92:term-usage:3009-3012",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3009,
+    "end_char": 3012
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:92:term-usage:3493-3496",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3493,
+    "end_char": 3496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:92:term-usage:3687-3690",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3687,
+    "end_char": 3690
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:93:term-usage:2375-2406",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 2375,
+    "end_char": 2406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:94:term-usage:223-226",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 223,
+    "end_char": 226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:96:term-usage:146-149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 146,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:98:term-usage:193-196",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:98",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 193,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:99:term-usage:346-349",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 346,
+    "end_char": 349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:99:term-usage:1520-1523",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1520,
+    "end_char": 1523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:99:term-usage:1612-1615",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1612,
+    "end_char": 1615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:99:term-usage:3058-3061",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3058,
+    "end_char": 3061
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:99:term-usage:3133-3136",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3133,
+    "end_char": 3136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:99:term-usage:3495-3498",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3495,
+    "end_char": 3498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:99:term-usage:6304-6307",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 6304,
+    "end_char": 6307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:102:term-usage:227-230",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 227,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:103:term-usage:879-882",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 879,
+    "end_char": 882
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:103:term-usage:1085-1088",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1085,
+    "end_char": 1088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:103:term-usage:1292-1295",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1292,
+    "end_char": 1295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:104:term-usage:1030-1033",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:104",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1030,
+    "end_char": 1033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:106:term-usage:505-508",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 505,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:107:term-usage:186-189",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 186,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:107:term-usage:492-495",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 492,
+    "end_char": 495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:108:term-usage:118-121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 118,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:108:term-usage:157-163",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 157,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:108:term-usage:1583-1586",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1583,
+    "end_char": 1586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:108:term-usage:1754-1757",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1754,
+    "end_char": 1757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:108:term-usage:2189-2192",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2189,
+    "end_char": 2192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:108:term-usage:2638-2641",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2638,
+    "end_char": 2641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:109:term-usage:59-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 59,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:109:term-usage:1890-1893",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1890,
+    "end_char": 1893
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:109:term-usage:1905-1911",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:bienes",
+    "span": "Bienes",
+    "start_char": 1905,
+    "end_char": 1911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:109:term-usage:2033-2036",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2033,
+    "end_char": 2036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:109:term-usage:7729-7732",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 7729,
+    "end_char": 7732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:109:term-usage:8804-8807",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 8804,
+    "end_char": 8807
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:109:term-usage:8914-8917",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 8914,
+    "end_char": 8917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:109:term-usage:9200-9203",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 9200,
+    "end_char": 9203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:109:term-usage:10404-10407",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 10404,
+    "end_char": 10407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:110:term-usage:158-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 158,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:111:term-usage:55-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 55,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:111:term-usage:256-259",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 256,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:112:term-usage:82-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 82,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:112:term-usage:342-345",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 342,
+    "end_char": 345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:112:term-usage:499-505",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:comite",
+    "span": "Comité",
+    "start_char": 499,
+    "end_char": 505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:113:term-usage:584-587",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 584,
+    "end_char": 587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:114:term-usage:275-278",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 275,
+    "end_char": 278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:114:term-usage:383-414",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 383,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:114:term-usage:1330-1333",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1330,
+    "end_char": 1333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:114:term-usage:3127-3130",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:114",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3127,
+    "end_char": 3130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:115:term-usage:127-130",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:115",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 127,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:115:term-usage:200-231",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:115",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 200,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:117:term-usage:100-103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 100,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:117:term-usage:802-805",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 802,
+    "end_char": 805
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:117:term-usage:3711-3714",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3711,
+    "end_char": 3714
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:117:term-usage:4799-4802",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 4799,
+    "end_char": 4802
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:120:term-usage:158-161",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 158,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:120:term-usage:1012-1015",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1012,
+    "end_char": 1015
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:120:term-usage:1407-1410",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1407,
+    "end_char": 1410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:120:term-usage:2037-2040",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2037,
+    "end_char": 2040
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:120:term-usage:2216-2219",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2216,
+    "end_char": 2219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:120:term-usage:2352-2355",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2352,
+    "end_char": 2355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:120:term-usage:2928-2931",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2928,
+    "end_char": 2931
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:120:term-usage:3326-3329",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3326,
+    "end_char": 3329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:120:term-usage:4857-4860",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 4857,
+    "end_char": 4860
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:120:term-usage:5035-5038",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:120",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 5035,
+    "end_char": 5038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:121:term-usage:127-130",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 127,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:123:term-usage:513-516",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:123",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 513,
+    "end_char": 516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:124:term-usage:199-202",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:124",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 199,
+    "end_char": 202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:125:term-usage:161-164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 161,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:125:term-usage:4042-4045",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 4042,
+    "end_char": 4045
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:125:term-usage:4190-4193",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 4190,
+    "end_char": 4193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:125:term-usage:4600-4603",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 4600,
+    "end_char": 4603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:126:term-usage:47-50",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:126",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 47,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:126:term-usage:2349-2352",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:126",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2349,
+    "end_char": 2352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:126:term-usage:4103-4106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:126",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 4103,
+    "end_char": 4106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:127:term-usage:325-328",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 325,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:127:term-usage:744-747",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 744,
+    "end_char": 747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:128:term-usage:291-294",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:128",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 291,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:129:term-usage:1211-1214",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1211,
+    "end_char": 1214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:129:term-usage:1782-1785",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1782,
+    "end_char": 1785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:129:term-usage:1926-1929",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1926,
+    "end_char": 1929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:129:term-usage:2923-2926",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:129",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2923,
+    "end_char": 2926
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:130:term-usage:1000-1003",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:130",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1000,
+    "end_char": 1003
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:130:term-usage:1388-1391",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:130",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1388,
+    "end_char": 1391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:130:term-usage:2320-2323",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:130",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2320,
+    "end_char": 2323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:131:term-usage:230-233",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 230,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:131:term-usage:358-389",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 358,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:131:term-usage:977-980",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:131",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 977,
+    "end_char": 980
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:133:term-usage:57-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 57,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:133:term-usage:2341-2344",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2341,
+    "end_char": 2344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:133:term-usage:3298-3301",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 3298,
+    "end_char": 3301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:134:term-usage:35-38",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:134",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 35,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:135:term-usage:453-456",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:135",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 453,
+    "end_char": 456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:136:term-usage:71-74",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:136",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 71,
+    "end_char": 74
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:137:term-usage:1221-1224",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:137",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1221,
+    "end_char": 1224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:142:term-usage:95-98",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:142",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 95,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:142:term-usage:665-668",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:142",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 665,
+    "end_char": 668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:142:term-usage:987-990",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:142",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 987,
+    "end_char": 990
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:142:term-usage:1792-1795",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:142",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1792,
+    "end_char": 1795
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:143:term-usage:80-83",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:143",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 80,
+    "end_char": 83
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:144:term-usage:359-362",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:144",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 359,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:144:term-usage:403-406",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:144",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 403,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:144:term-usage:741-744",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:144",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 741,
+    "end_char": 744
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:144:term-usage:1259-1262",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:144",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1259,
+    "end_char": 1262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:144:term-usage:1589-1592",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:144",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1589,
+    "end_char": 1592
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:145:term-usage:474-477",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:145",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 474,
+    "end_char": 477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:147:term-usage:196-199",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:147",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 196,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:148:term-usage:65-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 65,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:148:term-usage:1028-1031",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1028,
+    "end_char": 1031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:148:term-usage:2047-2050",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2047,
+    "end_char": 2050
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:149:term-usage:151-154",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:149",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 151,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:150:term-usage:99-102",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:150",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 99,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:150:term-usage:385-388",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:150",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 385,
+    "end_char": 388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:151:term-usage:65-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 65,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:151:term-usage:146-149",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 146,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:151:term-usage:1090-1093",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1090,
+    "end_char": 1093
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:151:term-usage:1425-1428",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1425,
+    "end_char": 1428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:151:term-usage:1530-1533",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1530,
+    "end_char": 1533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:151:term-usage:2192-2195",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2192,
+    "end_char": 2195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:151:term-usage:2528-2531",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:151",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2528,
+    "end_char": 2531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:152:term-usage:188-196",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:bitacora",
+    "span": "Bitácora",
+    "start_char": 188,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:152:term-usage:262-270",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:bitacora",
+    "span": "Bitácora",
+    "start_char": 262,
+    "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:152:term-usage:737-740",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 737,
+    "end_char": 740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:152:term-usage:877-885",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:bitacora",
+    "span": "Bitácora",
+    "start_char": 877,
+    "end_char": 885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:152:term-usage:1099-1107",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:152",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:bitacora",
+    "span": "Bitácora",
+    "start_char": 1099,
+    "end_char": 1107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:3-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 3,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:68-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 68,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:282-285",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 282,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:366-369",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 366,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:421-452",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 421,
+    "end_char": 452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:837-868",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 837,
+    "end_char": 868
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:1220-1251",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 1220,
+    "end_char": 1251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:1451-1454",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1451,
+    "end_char": 1454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:1522-1553",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 1522,
+    "end_char": 1553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:1619-1650",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 1619,
+    "end_char": 1650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:1894-1897",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1894,
+    "end_char": 1897
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:1955-1986",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 1955,
+    "end_char": 1986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:2829-2832",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2829,
+    "end_char": 2832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:2856-2859",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2856,
+    "end_char": 2859
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:term-usage:2977-2980",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 2977,
+    "end_char": 2980
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:154:term-usage:57-88",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:154",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 57,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:154:term-usage:580-611",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:154",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 580,
+    "end_char": 611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:154:term-usage:800-803",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:154",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 800,
+    "end_char": 803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:155:term-usage:118-121",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:155",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 118,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:156:term-usage:56-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:156",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 56,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:157:term-usage:78-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:157",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 78,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:158:term-usage:68-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:158",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 68,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:158:term-usage:269-272",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:158",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 269,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:159:term-usage:66-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:159",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 66,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:160:term-usage:74-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 74,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:160:term-usage:558-561",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 558,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:161:term-usage:311-314",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:161",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 311,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:161:term-usage:377-380",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:161",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 377,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:162:term-usage:70-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:162",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 70,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:164:term-usage:73-76",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:164",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 73,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:165:term-usage:135-138",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:165",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 135,
+    "end_char": 138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:165:term-usage:601-604",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:165",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 601,
+    "end_char": 604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:165:term-usage:717-720",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:165",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 717,
+    "end_char": 720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:166:term-usage:632-635",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:166",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 632,
+    "end_char": 635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:166:term-usage:742-745",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:166",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 742,
+    "end_char": 745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:166:term-usage:1242-1245",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:166",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1242,
+    "end_char": 1245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:169:term-usage:213-216",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:169",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 213,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:170:term-usage:95-98",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:170",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 95,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:170:term-usage:631-634",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:170",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 631,
+    "end_char": 634
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:170:term-usage:1048-1051",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:170",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1048,
+    "end_char": 1051
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:171:term-usage:124-127",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 124,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:172:term-usage:107-110",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:172",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 107,
+    "end_char": 110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:174:term-usage:494-497",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:174",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 494,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:175:term-usage:57-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:175",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 57,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:176:term-usage:355-358",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:176",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 355,
+    "end_char": 358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:177:term-usage:117-120",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 117,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:177:term-usage:363-366",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 363,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:177:term-usage:1043-1046",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1043,
+    "end_char": 1046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:181:term-usage:187-190",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:181",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 187,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:182:term-usage:50-53",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:182",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 50,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:182:term-usage:248-251",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:182",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 248,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:183:term-usage:214-217",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:183",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 214,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:184:term-usage:279-282",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:184",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 279,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:185:term-usage:121-124",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 121,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:188:term-usage:161-164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:188",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 161,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:188:term-usage:803-806",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:188",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 803,
+    "end_char": 806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:188:term-usage:973-976",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:188",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 973,
+    "end_char": 976
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:190:term-usage:855-858",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:190",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 855,
+    "end_char": 858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:193:term-usage:405-408",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:193",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 405,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:197:term-usage:180-183",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:197",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 180,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:segundo:term-usage:30-33",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 30,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto:term-usage:156-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 156,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto:term-usage:228-231",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 228,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto:term-usage:296-299",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 296,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto:term-usage:528-531",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 528,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto:term-usage:600-603",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 600,
+    "end_char": 603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto:term-usage:668-671",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 668,
+    "end_char": 671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto:term-usage:976-979",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 976,
+    "end_char": 979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto:term-usage:1050-1053",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 1050,
+    "end_char": 1053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:sexto:term-usage:91-94",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 91,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:octavo:term-usage:267-298",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:registro-unico-de-participantes",
+    "span": "Registro único de participantes",
+    "start_char": 267,
+    "end_char": 298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:decimo-segundo:term-usage:283-291",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:decimo-segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:bitacora",
+    "span": "Bitácora",
+    "start_char": 283,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:decimo-cuarto:term-usage:138-141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-laassp:transitory:decimo-cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-laassp:term:ley",
+    "span": "Ley",
+    "start_char": 138,
+    "end_char": 141
+  }
+]

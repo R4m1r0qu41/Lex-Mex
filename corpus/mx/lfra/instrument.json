@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfra",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Responsabilidad Ambiental",
+  "short_name": "LFRA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2013-06-07",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-12T08:01:12.274941Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf",
+  "source_sha256": "7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744",
+  "extracted_text_sha256": "8e694ec63c0557f6c80928569df0d139e8f08f1f2a7bda8f08ec0919b14a1b4c",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

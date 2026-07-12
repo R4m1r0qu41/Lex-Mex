@@ -1,0 +1,156 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:actividades-vulnerables",
+    "term": "Actividades Vulnerables",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 214,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:avisos",
+    "term": "Avisos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "II",
+    "start_char": 214,
+    "end_char": 432,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:beneficiario-controlador",
+    "term": "Beneficiario Controlador",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "III",
+    "start_char": 432,
+    "end_char": 2756,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:delitos-de-operaciones-con-recursos-de-procedencia-ilicita",
+    "term": "Delitos de Operaciones con Recursos de Procedencia Ilícita",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "IV",
+    "start_char": 2756,
+    "end_char": 3085,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:entidades-colegiadas",
+    "term": "Entidades Colegiadas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "V",
+    "start_char": 3085,
+    "end_char": 3234,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:entidades-financieras",
+    "term": "Entidades Financieras",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "VI",
+    "start_char": 3234,
+    "end_char": 3989,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:fedatarios-publicos",
+    "term": "Fedatarios Públicos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "VII",
+    "start_char": 3989,
+    "end_char": 4313,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "VIII",
+    "start_char": 4313,
+    "end_char": 4430,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:metales-preciosos",
+    "term": "Metales Preciosos",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "IX",
+    "start_char": 4430,
+    "end_char": 4857,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:piedras-preciosas",
+    "term": "Piedras Preciosas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "X",
+    "start_char": 4857,
+    "end_char": 4977,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:fiscalia",
+    "term": "Fiscalía",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "XI",
+    "start_char": 4977,
+    "end_char": 5065,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:relacion-de-negocios",
+    "term": "Relación de negocios",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "XII",
+    "start_char": 5065,
+    "end_char": 6125,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "XIII",
+    "start_char": 6125,
+    "end_char": 6481,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:term:unidad",
+    "term": "Unidad",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpiorpi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:3",
+    "fraction": "XIV",
+    "start_char": 6481,
+    "end_char": 6632,
+    "basis": "express_definition"
+  }
+]

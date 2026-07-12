@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Salud en Materia de Trasplantes",
+  "short_name": "REG-LGS-MT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-03-26",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T08:03:56.117599Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MT.pdf",
+  "source_sha256": "9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429",
+  "extracted_text_sha256": "fdfd21a42d2d398e753470b0c6d8abe5985ccb59ade9f2495af608ad5758c248",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mretc",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311014.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311014.pdf",
+  "retrieved_at": "2026-07-12T08:01:03.209956Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 397210,
+  "etag": "\"60f9a-563b487abce40\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:05 GMT",
+  "source_sha256": "71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424",
+  "extracted_text_sha256": "b4dedf046312cf1a5c7e44ab44caba93baf0cb1a7ecf84eaa54deba7ab28e1f1",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

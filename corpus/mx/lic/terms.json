@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lic:term:consorcio",
+    "term": "Consorcio",
+    "instrument_id": "urn:lex-mx:federal:statute:lic",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lic:article:22-bis",
+    "fraction": "I",
+    "start_char": 61,
+    "end_char": 231,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lic:term:control",
+    "term": "Control",
+    "instrument_id": "urn:lex-mx:federal:statute:lic",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lic:article:22-bis",
+    "fraction": "II",
+    "start_char": 231,
+    "end_char": 738,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lic:term:directivo-relevante",
+    "term": "Directivo relevante",
+    "instrument_id": "urn:lex-mx:federal:statute:lic",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lic:article:22-bis",
+    "fraction": "III",
+    "start_char": 738,
+    "end_char": 1286,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lic:term:grupo-de-personas",
+    "term": "Grupo de personas",
+    "instrument_id": "urn:lex-mx:federal:statute:lic",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lic:article:22-bis",
+    "fraction": "IV",
+    "start_char": 1286,
+    "end_char": 1792,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lic:term:grupo-empresarial",
+    "term": "Grupo empresarial",
+    "instrument_id": "urn:lex-mx:federal:statute:lic",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lic:article:22-bis",
+    "fraction": "V",
+    "start_char": 1792,
+    "end_char": 2158,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lic:term:poder-de-mando",
+    "term": "Poder de mando",
+    "instrument_id": "urn:lex-mx:federal:statute:lic",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lic:article:22-bis",
+    "fraction": "VI",
+    "start_char": 2158,
+    "end_char": 3586,
+    "basis": "express_definition"
+  }
+]

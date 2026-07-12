@@ -1,0 +1,145 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:aerodromo-civil",
+    "term": "Aeródromo civil",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 373,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:aerodromo-de-servicio-al-publico",
+    "term": "Aeródromo de servicio al público",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "II",
+    "start_char": 373,
+    "end_char": 774,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:aerodromo-de-servicio-general",
+    "term": "Aeródromo de servicio general",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "III",
+    "start_char": 774,
+    "end_char": 1540,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:aerodromo-internacional",
+    "term": "Aeródromo internacional",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "V",
+    "start_char": 1540,
+    "end_char": 1915,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:aeropuerto",
+    "term": "Aeropuerto",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "VI",
+    "start_char": 1915,
+    "end_char": 2404,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:administradora-aeroportuaria",
+    "term": "Administradora aeroportuaria",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "VII",
+    "start_char": 2404,
+    "end_char": 3558,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "VIII",
+    "start_char": 3558,
+    "end_char": 3675,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:servicios",
+    "term": "Servicios",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "IX",
+    "start_char": 3675,
+    "end_char": 3787,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:base-fija-de-operaciones",
+    "term": "Base fija de operaciones",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "X",
+    "start_char": 3787,
+    "end_char": 4505,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:zona-de-proteccion",
+    "term": "Zona de protección",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "XI",
+    "start_char": 4505,
+    "end_char": 4739,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:operadora-aeroportuaria",
+    "term": "Operadora Aeroportuaria",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "XII",
+    "start_char": 4739,
+    "end_char": 4986,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:programa-de-seguridad-de-la-aviacion-civil-del-estado-mexicano",
+    "term": "Programa de Seguridad de la Aviación Civil del Estado mexicano",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "XIII",
+    "start_char": 4986,
+    "end_char": 5400,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laero:term:vigilancia-aeroportuaria",
+    "term": "Vigilancia Aeroportuaria",
+    "instrument_id": "urn:lex-mx:federal:statute:laero",
+    "defining_provision_id": "urn:lex-mx:federal:statute:laero:article:2",
+    "fraction": "XIV",
+    "start_char": 5400,
+    "end_char": 5881,
+    "basis": "express_definition"
+  }
+]

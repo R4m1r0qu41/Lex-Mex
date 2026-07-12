@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-msi",
+  "valid": true,
+  "article_count": 88,
+  "transitory_count": 2,
+  "reference_count": 27,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "article_gap",
+      "message": "articles between 22 and 24 are absent (derogated, or a parse gap)",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lgs-msi:article:24"
+    }
+  ]
+}

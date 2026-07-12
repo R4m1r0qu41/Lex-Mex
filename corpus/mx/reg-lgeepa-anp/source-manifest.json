@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-anp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_ANP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_ANP.pdf",
+  "retrieved_at": "2026-07-12T08:00:54.718475Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 596776,
+  "etag": "\"91b28-563b487ca52c0\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:07 GMT",
+  "source_sha256": "4e276866fce1638948a6daf1a5c0438fa412554f1a6e0381cbdf7cb300e3db75",
+  "extracted_text_sha256": "5989240c757e798beab4605e9f3d6595e9549425e566aa025ca4234bfd8c8697",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

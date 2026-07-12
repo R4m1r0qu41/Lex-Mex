@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MT.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MT.pdf",
+  "retrieved_at": "2026-07-12T08:03:56.117599Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 412741,
+  "etag": "\"64c45-563b487e8d740\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:09 GMT",
+  "source_sha256": "9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429",
+  "extracted_text_sha256": "fdfd21a42d2d398e753470b0c6d8abe5985ccb59ade9f2495af608ad5758c248",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

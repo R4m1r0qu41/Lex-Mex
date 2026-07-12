@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:statute:lpab",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpab:article:5",
+    "fraction": "I",
+    "start_char": 44,
+    "end_char": 111,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:term:institucion",
+    "term": "Institución",
+    "instrument_id": "urn:lex-mx:federal:statute:lpab",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpab:article:5",
+    "fraction": "II",
+    "start_char": 111,
+    "end_char": 242,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lpab",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpab:article:5",
+    "fraction": "III",
+    "start_char": 242,
+    "end_char": 304,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:term:junta-de-gobierno",
+    "term": "Junta de Gobierno",
+    "instrument_id": "urn:lex-mx:federal:statute:lpab",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpab:article:5",
+    "fraction": "IV",
+    "start_char": 304,
+    "end_char": 366,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:term:secretario-ejecutivo",
+    "term": "Secretario Ejecutivo",
+    "instrument_id": "urn:lex-mx:federal:statute:lpab",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpab:article:5",
+    "fraction": "V",
+    "start_char": 366,
+    "end_char": 451,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpab:term:bienes",
+    "term": "Bienes",
+    "instrument_id": "urn:lex-mx:federal:statute:lpab",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lpab:article:5",
+    "fraction": "VI",
+    "start_char": 451,
+    "end_char": 881,
+    "basis": "express_definition"
+  }
+]

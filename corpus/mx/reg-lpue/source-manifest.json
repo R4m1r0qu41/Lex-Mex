@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPue.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPue.pdf",
+  "retrieved_at": "2026-07-12T08:04:45.561179Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 401858,
+  "etag": "\"621c2-5d347f9677900\"",
+  "last_modified": "Thu, 16 Dec 2021 18:56:04 GMT",
+  "source_sha256": "0923a52e7c7ebeb9e136d5b72cba8e6c5852276de034f7fc76a74d7fdb0096b1",
+  "extracted_text_sha256": "f2174024b6cc953fc080d27c80e7cbb0862a9c435a7501522ea81601c883bbc2",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

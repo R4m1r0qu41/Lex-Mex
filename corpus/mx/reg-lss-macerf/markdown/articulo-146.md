@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lss-macerf:article:146
+instrument_id: urn:lex-mx:federal:regulation:reg-lss-macerf
+instrument: REG-LSS-MACERF
+name: "Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización"
+provision_type: article
+number: "146"
+aliases: ["REG-LSS-MACERF — Artículo 146"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MACERF.pdf
+source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
+---
+
+> Título QUINTO · Capítulo VI
+
+# Artículo 146
+
+Las personas que opten por convenir anticipadamente el pago de las cuotas por la construcción de obra, no quedan relevadas de la obligación de inscribir a sus trabajadores al Instituto con los salarios base de cotización que corresponda y presentar los movimientos afiliatorios que establece la Ley y este Reglamento, no siendo sujetos de la aplicación de capitales constitutivos en los casos de siniestros ocurridos a sus trabajadores contratados para ejecutar la obra por la que se celebre el convenio, desde la fecha de formalización del mismo, hasta la fecha estimada de conclusión de la obra, siempre y cuando haya presentado los avisos afiliatorios.

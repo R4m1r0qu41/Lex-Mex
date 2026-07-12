@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgsna",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General del Sistema Nacional Anticorrupción",
+  "short_name": "LGSNA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2016-07-18",
+  "latest_reform_date": "2021-05-20",
+  "retrieved_at": "2026-07-12T07:59:41.067249Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf",
+  "source_sha256": "5edf7b5ad4dd65a9c97c02ec51f13499aa7ab5025f02ad6e9be3c948ff3cf185",
+  "extracted_text_sha256": "8663e1e97863234ade996e40b98d7859f92270576b4a3e2ce128a8e8d56cffff",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

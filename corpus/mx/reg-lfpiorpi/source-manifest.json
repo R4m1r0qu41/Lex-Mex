@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpiorpi",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPIORPI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPIORPI.pdf",
+  "retrieved_at": "2026-07-12T08:06:55.938818Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 385110,
+  "etag": "\"5e056-6533a830ade00\"",
+  "last_modified": "Tue, 02 Jun 2026 00:37:12 GMT",
+  "source_sha256": "8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9",
+  "extracted_text_sha256": "63acd696b4e2de841295665979b8ef3f8a11cce04911e1425ab46bbb7866d641",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

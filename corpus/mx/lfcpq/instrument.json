@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfcpq",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos",
+  "short_name": "LFCPQ",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1997-12-26",
+  "latest_reform_date": "2023-05-03",
+  "retrieved_at": "2026-07-12T07:59:07.739063Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPQ.pdf",
+  "source_sha256": "39d132d9b54587ce0636972dfe474936d152717e7d656864e160a637347628c6",
+  "extracted_text_sha256": "c9343469045ca05011ffad87f3cdfc0330c779c1839ac5aa5eba47ce13d1c2db",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

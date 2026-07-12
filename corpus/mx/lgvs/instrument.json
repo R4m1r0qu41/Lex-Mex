@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgvs",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Vida Silvestre",
+  "short_name": "LGVS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2000-07-03",
+  "latest_reform_date": "2025-07-16",
+  "retrieved_at": "2026-07-12T08:01:22.480921Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGVS.pdf",
+  "source_sha256": "b82b6148e235121951a94cb388fe59dbebe4212c8a6c85f26704873150827911",
+  "extracted_text_sha256": "94850580551404979ede3f0e3bb5dedccd885fe5b204e9bf93d0052250aaffed",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

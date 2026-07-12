@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lraf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lraf.htm",
+  "retrieved_at": "2026-07-12T08:06:09.338119Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1070997,
+  "etag": "\"105795-64516aa6affc0\"",
+  "last_modified": "Thu, 04 Dec 2025 01:58:31 GMT",
+  "source_sha256": "e86e9b734f81f2cdc9e2cf39b79ab4aaeea8295ae966ce73a487319c49de521a",
+  "extracted_text_sha256": "cc26bcb3198edfb64b8583d67b870dd8658fadb50365a7f68d49e06930029a05",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

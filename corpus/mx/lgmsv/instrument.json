@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgmsv",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Movilidad y Seguridad Vial",
+  "short_name": "LGMSV",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2022-05-17",
+  "latest_reform_date": "2023-12-29",
+  "retrieved_at": "2026-07-12T08:04:27.369160Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf",
+  "source_sha256": "79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03",
+  "extracted_text_sha256": "2cb756b79b9cd6e69a3a374d38a3e5bd809f0b5ed81dfb2fdd446f912282f369",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

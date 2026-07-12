@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-laassp:article:39
+instrument_id: urn:lex-mx:federal:regulation:reg-laassp
+instrument: REG-LAASSP
+name: "Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público"
+provision_type: article
+number: "39"
+aliases: ["REG-LAASSP — Artículo 39"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAASSP.pdf
+source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
+---
+
+> Título SEGUNDO · Capítulo SEGUNDO
+
+# Artículo 39
+
+El [Comité](articulo-2.md) estará integrado con un máximo de siete personas vocales titulares con derecho a voz y voto, quienes tendrán el carácter de miembros, y se conformará de la siguiente forma: I. La persona titular de la Unidad de Administración y Finanzas o su equivalente, o de la Oficialía Mayor, quien lo presidirá, y II. Las personas vocales que deberán ser: a) La persona titular del área de programación y presupuesto o de finanzas o equivalente; b) La persona titular del área contratante de la dependencia o entidad a nivel central, y c) Las personas servidoras públicas que tengan relación o conocimiento con la generalidad de los asuntos materia del Comité, que no estén adscritos a la Unidad de Administración y Finanzas o su equivalente, o a la Oficialía Mayor, quienes serán designados por la persona titular de la dependencia o entidad o por la persona servidora pública que esta determine, quien en ningún caso podrá ser la persona titular de la Unidad de Administración y Finanzas o equivalente, o de la Oficialía Mayor. La persona titular de la Unidad de Administración y Finanzas o su equivalente, o de la Oficialía Mayor designará a la persona titular de la Secretaría Técnica del Comité, quien no podrá tener un nivel jerárquico inferior al de una dirección de área y sólo tendrá derecho a voz. El área jurídica y el órgano interno de control, en su carácter de asesores designarán, cada uno, a una persona servidora pública para asistir a las sesiones del Comité, con voz, pero sin voto, quien podrá entregar sus pronunciamientos razonados de manera escrita o hacerlos verbalmente, en la sesión correspondiente. Las personas vocales del Comité y asesores deberán tener como mínimo nivel jerárquico de una dirección general en las dependencias o los que realicen las funciones equivalentes en las entidades. Las personas miembros del Comité, asesores y la persona titular de la Secretaría Técnica podrán designar por escrito a sus respectivas personas suplentes. A solicitud de cualquiera de las personas miembros o asesores del Comité se podrá invitar a sus sesiones a las personas cuya intervención se estime necesaria, para aclarar aspectos técnicos, administrativos o de cualquier otra naturaleza relacionados con los asuntos sometidos a la consideración del Comité, quienes tendrán el carácter de personas invitadas, participarán con voz pero sin voto y sólo permanecerán en la sesión durante la presentación y discusión del tema para el cual fueron invitadas. Las personas invitadas a que se refiere el párrafo anterior, suscribirán un documento en el que se obliguen a guardar la debida reserva y confidencialidad, en caso de que durante su participación tengan acceso a información clasificada con tal carácter. Para efectos de la aplicación de la [Ley](articulo-2.md) y este Reglamento, son personas servidoras públicas equivalentes a la persona titular de la Unidad de Administración y Finanzas, o de la Oficialía Mayor y al área de programación y presupuesto o de finanzas, quienes realicen funciones equiparables a aquellas, con independencia de su denominación y jerarquía asignada en la estructura organizacional. La responsabilidad de cada persona integrante del Comité, quedará limitada al voto que emita respecto del asunto sometido a su consideración, con base en la documentación que le sea presentada, debiendo emitir expresamente el sentido de su voto en todos los casos, salvo cuando existe conflicto de interés, en cuyo caso deberá excusarse y expresar el impedimento correspondiente.

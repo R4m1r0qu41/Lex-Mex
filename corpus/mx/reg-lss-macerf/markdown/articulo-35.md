@@ -1,0 +1,40 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lss-macerf:article:35
+instrument_id: urn:lex-mx:federal:regulation:reg-lss-macerf
+instrument: REG-LSS-MACERF
+name: "Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización"
+provision_type: article
+number: "35"
+aliases: ["REG-LSS-MACERF — Artículo 35"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MACERF.pdf
+source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
+---
+
+> Título SEGUNDO · Capítulo II
+
+# Artículo 35
+
+La siniestralidad de la empresa se obtiene multiplicando el índice de Frecuencia (If) por el de Gravedad (Ig) del lapso que se analice, de acuerdo a la fórmula siguiente:
+
+Siniestralidad = If * Ig
+
+Obteniéndose:
+
+Siniestralidad = n /(N * 300) * 300 * [ ( S / 365 ) + V * ( I + D ) ] / n
+
+y, en forma simplificada:
+
+Siniestralidad = [( S/365 ) + V * (I + D)] / N
+
+y, como el Grado de Siniestralidad se conforma tomando en cuenta la frecuencia y gravedad de los accidentes y enfermedades de trabajo, así como un factor de prima que garantiza el equilibrio financiero del ramo, este grado de siniestralidad se expresa como:
+
+Grado de Siniestralidad = [( S/365 ) + V * (I + D)] * (F / N)
+
+Donde: REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACIÓN, CLASIFICACIÓN DE EMPRESAS, RECAUD ACIÓN Y FISCALIZACIÓN F = 2.3, que es el factor de prima.
+
+El significado de las demás variables, constantes y símbolos son señalados en los artículos [36](articulo-36.md) y [37](articulo-37.md) de este Reglamento.
+
+Una vez obtenido el grado de siniestralidad, se sumará el 0.005 que es la prima mínima de riesgo (M), para determinar la prima a cubrir por el seguro de riesgos de trabajo a que se refiere el artículo 72 de la Ley.

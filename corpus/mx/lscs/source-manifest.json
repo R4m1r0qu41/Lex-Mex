@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lscs",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/211.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcs.htm",
+  "retrieved_at": "2026-07-12T08:06:41.179692Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 541336,
+  "etag": "\"84298-5774902368a40\"",
+  "last_modified": "Wed, 03 Oct 2018 01:32:17 GMT",
+  "source_sha256": "8b5abc3a8b409df55685b2337fc723b196bcaece68eb37a25e65c0a4f64a7e06",
+  "extracted_text_sha256": "c9dd0052eacd1568b848c3a63a93170848ea686d2e2cb8f2c8005cdf1ed70e8a",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

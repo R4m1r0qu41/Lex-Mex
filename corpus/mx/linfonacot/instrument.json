@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:linfonacot",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+  "short_name": "LINFONACOT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-01-10",
+  "latest_reform_date": "2024-01-03",
+  "retrieved_at": "2026-07-12T08:00:41.681674Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf",
+  "source_sha256": "78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f",
+  "extracted_text_sha256": "575f374a881acf3b6d4fb1f732001cdd98899aeecd1f72c295e52072cbbe85a1",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

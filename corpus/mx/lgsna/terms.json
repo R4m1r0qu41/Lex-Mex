@@ -1,0 +1,145 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:comision-de-seleccion",
+    "term": "Comisión de selección",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "I",
+    "start_char": 55,
+    "end_char": 198,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:comision-ejecutiva",
+    "term": "Comisión Ejecutiva",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "II",
+    "start_char": 198,
+    "end_char": 278,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:comite-coordinador",
+    "term": "Comité Coordinador",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "III",
+    "start_char": 278,
+    "end_char": 481,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:comite-de-participacion-ciudadana",
+    "term": "Comité de Participación Ciudadana",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "IV",
+    "start_char": 481,
+    "end_char": 713,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:dias",
+    "term": "Días",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "V",
+    "start_char": 713,
+    "end_char": 737,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:entes-publicos",
+    "term": "Entes públicos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "VI",
+    "start_char": 737,
+    "end_char": 1369,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:organos-internos-de-control",
+    "term": "Órganos internos de control",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "VII",
+    "start_char": 1369,
+    "end_char": 1458,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:secretaria-ejecutiva",
+    "term": "Secretaría Ejecutiva",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "VIII",
+    "start_char": 1458,
+    "end_char": 1563,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:secretario-tecnico",
+    "term": "Secretario Técnico",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "IX",
+    "start_char": 1563,
+    "end_char": 1726,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:servidores-publicos",
+    "term": "Servidores públicos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "X",
+    "start_char": 1726,
+    "end_char": 1903,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional",
+    "term": "Sistema Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "XI",
+    "start_char": 1903,
+    "end_char": 1962,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:sistema-nacional-de-fiscalizacion",
+    "term": "Sistema Nacional de Fiscalización",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "XII",
+    "start_char": 1962,
+    "end_char": 2510,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:term:sistemas-locales",
+    "term": "Sistemas Locales",
+    "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgsna:article:3",
+    "fraction": "XIII",
+    "start_char": 2510,
+    "end_char": 2660,
+    "basis": "express_definition"
+  }
+]

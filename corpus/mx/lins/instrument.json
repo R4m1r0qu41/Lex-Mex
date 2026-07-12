@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lins",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de los Institutos Nacionales de Salud",
+  "short_name": "LINS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2000-05-26",
+  "latest_reform_date": "2022-05-11",
+  "retrieved_at": "2026-07-12T08:04:04.021893Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf",
+  "source_sha256": "40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e",
+  "extracted_text_sha256": "1d464053a97ac566ab3657ba83ba9e5be8d61e479a9073ddaca2aa16f8e8243f",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

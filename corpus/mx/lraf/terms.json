@@ -1,0 +1,156 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:comision-supervisora",
+    "term": "Comisión Supervisora",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "I",
+    "start_char": 44,
+    "end_char": 361,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:consorcio",
+    "term": "Consorcio",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "II",
+    "start_char": 361,
+    "end_char": 532,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:control",
+    "term": "Control",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "III",
+    "start_char": 532,
+    "end_char": 2068,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:grupo-de-personas",
+    "term": "Grupo de Personas",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "V",
+    "start_char": 2068,
+    "end_char": 2575,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:grupo-empresarial",
+    "term": "Grupo Empresarial",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "VI",
+    "start_char": 2575,
+    "end_char": 2900,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:grupo-financiero",
+    "term": "Grupo Financiero",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "VII",
+    "start_char": 2900,
+    "end_char": 3106,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:inmobiliarias",
+    "term": "Inmobiliarias",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "VIII",
+    "start_char": 3106,
+    "end_char": 3273,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:inversionistas-institucionales",
+    "term": "Inversionistas Institucionales",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "IX",
+    "start_char": 3273,
+    "end_char": 3863,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:personas-relacionadas",
+    "term": "Personas Relacionadas",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "X",
+    "start_char": 3863,
+    "end_char": 5120,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:poder-de-mando",
+    "term": "Poder de Mando",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "XI",
+    "start_char": 5120,
+    "end_char": 6487,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:prestadoras-de-servicio",
+    "term": "Prestadoras de Servicio",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "XII",
+    "start_char": 6487,
+    "end_char": 6666,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "XIII",
+    "start_char": 6666,
+    "end_char": 6732,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:sociedad-controladora",
+    "term": "Sociedad Controladora",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "XIV",
+    "start_char": 6732,
+    "end_char": 6871,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lraf:term:subcontroladora",
+    "term": "Subcontroladora",
+    "instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lraf:article:5",
+    "fraction": "XV",
+    "start_char": 6871,
+    "end_char": 7383,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,18 @@
+---
+id: urn:lex-mx:federal:statute:lgpgir:transitory:decimo
+instrument_id: urn:lex-mx:federal:statute:lgpgir
+instrument: LGPGIR
+name: "Ley General para la Prevención y Gestión Integral de los Residuos"
+provision_type: transitory
+number: "DÉCIMO"
+aliases: ["LGPGIR — DÉCIMO"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPGIR.pdf
+source_sha256: b34326588bd6e7519e33411d3658239e3aefb56cef0fae5d775bc894af64a565
+---
+
+# DÉCIMO
+
+El procedimiento para la presentación de los anteproyectos de las normas oficiales mexicanas relativas al establecimiento de los criterios para determinar y listar los residuos sujetos a planes de manejo y los procedimientos para formularlos y aplicarlos deberá iniciarse en un plazo no mayor a ciento veinte días naturales a partir de la publicación del presente Decreto en el Diario Oficial de la Federación.

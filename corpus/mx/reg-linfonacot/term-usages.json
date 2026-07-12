@@ -1,0 +1,101 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:2:term-usage:359-369",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 359,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:3:term-usage:165-175",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 165,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:13:term-usage:141-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:centros-de-trabajo",
+    "span": "Centros de Trabajo",
+    "start_char": 141,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:23:term-usage:154-164",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:23",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 154,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:24:term-usage:1364-1374",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1364,
+    "end_char": 1374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:27:term-usage:504-521",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 504,
+    "end_char": 521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:32:term-usage:671-681",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 671,
+    "end_char": 681
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:33:term-usage:422-439",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:estatuto-organico",
+    "span": "Estatuto Orgánico",
+    "start_char": 422,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:37:term-usage:186-196",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 186,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:transitory:primero:term-usage:12-22",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:transitory:primero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 12,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-linfonacot:transitory:segundo:term-usage:458-468",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-linfonacot:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-linfonacot:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 458,
+    "end_char": 468
+  }
+]

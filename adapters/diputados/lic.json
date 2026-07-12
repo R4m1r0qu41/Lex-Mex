@@ -1,0 +1,23 @@
+{
+  "slug": "lic",
+  "instrument_id": "urn:lex-mx:federal:statute:lic",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Instituciones de Crédito",
+  "short_name": "LIC",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lic.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1990-07-18",
+  "expected_min_articles": 489,
+  "expected_articles": 489,
+  "expected_transitories": 19,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:06:06Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

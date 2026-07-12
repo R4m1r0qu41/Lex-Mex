@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lfpiorpi:article:40
+instrument_id: urn:lex-mx:federal:regulation:reg-lfpiorpi
+instrument: REG-LFPIORPI
+name: "Reglamento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita"
+provision_type: article
+number: "40"
+aliases: ["REG-LFPIORPI — Artículo 40"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPIORPI.pdf
+source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9
+---
+
+> Capítulo QUINTO
+
+# Artículo 40
+
+En caso de que una Entidad Colegiada con posterioridad a la suscripción del convenio a que se refiere el artículo [32](articulo-32.md) del presente Reglamento, tenga interés en contar con un órgano concentrador, deberá solicitar ante el SAT la modificación del convenio correspondiente, en términos de lo que se establezca para tales efectos en dicho convenio y de conformidad a lo previsto en el artículo [36](articulo-36.md) del presente Reglamento.

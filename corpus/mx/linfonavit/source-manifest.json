@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:linfonavit",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lifnvt.htm",
+  "retrieved_at": "2026-07-12T08:00:16.318596Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1024529,
+  "etag": "\"fa211-62fcc3b4d00c0\"",
+  "last_modified": "Sat, 08 Mar 2025 03:21:15 GMT",
+  "source_sha256": "9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912",
+  "extracted_text_sha256": "7114f1b26ad50a15ab5b53a7b02a49f60d6bd013fcc37569bd162890b4555f4b",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

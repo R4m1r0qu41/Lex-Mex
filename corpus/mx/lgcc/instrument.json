@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgcc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Cambio Climático",
+  "short_name": "LGCC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-06-06",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-07-12T08:01:05.984009Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCC.pdf",
+  "source_sha256": "fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15",
+  "extracted_text_sha256": "3601ffc28b884dfd8faa2c1569851569af7d509145cc30bb725235b15b0ff6fa",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

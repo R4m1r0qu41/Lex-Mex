@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lpab",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Protección al Ahorro Bancario",
+  "short_name": "LPAB",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1999-01-19",
+  "latest_reform_date": "2022-05-11",
+  "retrieved_at": "2026-07-12T08:06:14.063710Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPAB.pdf",
+  "source_sha256": "40725278819b2229ddb95c8deda858d7fda9c9dd83654729e9242727f1eee4a8",
+  "extracted_text_sha256": "ad5ca942d6d48de815c8371adcda6b0a2788a58758377aa70e2d39e2eb1dbdab",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

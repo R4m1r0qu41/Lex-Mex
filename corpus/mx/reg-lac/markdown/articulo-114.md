@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lac:article:114
+instrument_id: urn:lex-mx:federal:regulation:reg-lac
+instrument: REG-LAC
+name: "Reglamento de la Ley de Aviación Civil"
+provision_type: article
+number: "114"
+aliases: ["REG-LAC — Artículo 114"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAC.pdf
+source_sha256: 4dcf5277184d5f5c5cc1c8ae2dfa196134b472d883eb2806c7bac27cd77eda7d
+---
+
+> Título TERCERO · Capítulo I BIS
+
+# Artículo 114
+
+Durante el vuelo, la tripulación de vuelo que esté en servicio en la cabina de mando debe permanecer en su puesto, a menos que su ausencia sea necesaria para la realización de actividades relacionadas con la operación de la aeronave, no pudiendo por ningún motivo dejarla totalmente sola.

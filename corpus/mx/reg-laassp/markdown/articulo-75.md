@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-laassp:article:75
+instrument_id: urn:lex-mx:federal:regulation:reg-laassp
+instrument: REG-LAASSP
+name: "Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público"
+provision_type: article
+number: "75"
+aliases: ["REG-LAASSP — Artículo 75"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAASSP.pdf
+source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b
+---
+
+> Título CUARTO · Capítulo CUARTO
+
+# Artículo 75
+
+Las solicitudes que formulen las dependencias y entidades para que se designe a un testigo social en un procedimiento de contratación, deberán presentarse mediante la Plataforma, debiendo proporcionar la siguiente información: I. El monto estimado de la contratación en moneda nacional; II. El carácter del procedimiento de contratación; III. Descripción del objeto de la contratación; IV. Si previo a la publicación de la convocatoria a la licitación pública se difundirá el [Proyecto de convocatoria](articulo-2.md) correspondiente, si éste será revisado por el subcomité que se constituya al efecto y las fechas probables para ello; V. Programa que contenga el lugar y fecha de celebración de todos los eventos relativos al procedimiento de contratación, conforme al artículo [83](articulo-83.md) de este ordenamiento, y VI. Nombre, cargo, domicilio, dirección de correo electrónico y número telefónico tanto de la persona solicitante, como de la persona que fungirá como enlace con el o los testigos sociales que, en su caso, se designen. La solicitud de designación de testigo social deberá ser presentada con una anticipación de diez días hábiles a la fecha programada, según corresponda, para la difusión del Proyecto de convocatoria, la publicación de la convocatoria a la licitación pública, la sesión del [Comité](articulo-2.md) tratándose de invitación a cuando menos tres personas o adjudicación directa, o bien, en el caso de procedimientos de excepción a la licitación pública que no sean dictaminados por el Comité, para la entrega de la primera invitación a cuando menos tres personas o la solicitud de cotización. Si la solicitud señalada en este artículo, no se entrega en el plazo a que se refiere el párrafo anterior, no se designará testigo social, sin perjuicio de la responsabilidad de la persona servidora pública de la dependencia o entidad de que se trate, por el incumplimiento a la obligación de solicitar en tiempo la designación de un testigo social en un procedimiento de contratación. En estos casos, la Secretaría podrá designar un testigo social atendiendo al impacto que la contratación tenga en los programas sustantivos de la dependencia o entidad. En el supuesto de que la dependencia o entidad, no proporcione en la solicitud de testigo social alguna información de la señalada en el párrafo primero de este artículo, la Secretaría efectuará el requerimiento de la misma a través de la Plataforma. A partir de la recepción del requerimiento, la dependencia o entidad contará con un plazo de veinticuatro horas para remitir la información de que se trate por la misma vía. En caso de que la dependencia o entidad no atienda el requerimiento indicado o remita información diversa a la solicitada, la Secretaría actuará en los términos señalados en el párrafo anterior. La designación de testigos sociales que realice la Secretaría se hará del conocimiento del testigo social designado y de la dependencia o entidad de que se trate, la cual lo comunicará a los licitantes. Las personas morales que sean designadas como testigos sociales designarán e informarán a la Secretaría, sobre la persona física que actuará en su nombre, quien deberá cumplir con todas las obligaciones a que hace referencia este Capítulo, y será la responsable de emitir los informes previos y el informe final, los cuales serán suscritos en forma conjunta con el representante legal del testigo social de que se trate.

@@ -1,0 +1,34 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lss-macerf:article:171
+instrument_id: urn:lex-mx:federal:regulation:reg-lss-macerf
+instrument: REG-LSS-MACERF
+name: "Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización"
+provision_type: article
+number: "171"
+aliases: ["REG-LSS-MACERF — Artículo 171"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MACERF.pdf
+source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
+---
+
+> Título SEXTO · Capítulo V
+
+# Artículo 171
+
+El Instituto al revisar el dictamen lo hará conforme a los lineamientos siguientes:
+
+I. Requerirá al contador público autorizado por escrito con copia al patrón:
+
+a).- La información o documentación que conforme a este Reglamento deba incluirse en el dictamen. El plazo para la presentación de la misma será dentro de los cinco días hábiles siguientes a la fecha de notificación del requerimiento;
+
+b).- Los papeles de trabajo elaborados con motivo de la auditoría practicada, los cuales, en todo caso, se entiende que son propiedad del contador público, y
+
+c).- Información y documentación correspondientes a las partidas sujetas a aclaración, para cerciorarse del cumplimiento de las obligaciones del patrón.
+
+El plazo para la presentación de la información y documentación a que se refieren los incisos b) y c), será de quince días hábiles contados a partir de la fecha de notificación del requerimiento, y
+
+II. Requerirá al patrón, con copia al contador público la información y documentación señalada en el inciso c) de la fracción anterior, en los términos aceptados en la solicitud de dictamen, cuando dicha información o documentación no haya sido proporcionada por el contador público autorizado, así como la exhibición de los sistemas y registros contables y documentación original, en aquellos casos en que así se considere necesario. Para el cumplimiento del requerimiento, se otorgará el mismo término señalado en el último párrafo de la fracción anterior.
+
+Para la presentación de la información o documentos que le fueran requeridos en términos de los incisos b) y c), de la fracción I, el Instituto a petición del contador público autorizado o del patrón, concederá una prórroga de diez días hábiles.

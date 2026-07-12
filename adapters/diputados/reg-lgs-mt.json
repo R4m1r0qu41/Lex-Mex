@@ -1,0 +1,23 @@
+{
+  "slug": "reg-lgs-mt",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley General de Salud en Materia de Trasplantes",
+  "short_name": "REG-LGS-MT",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MT.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MT.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2014-03-26",
+  "expected_min_articles": 89,
+  "expected_articles": 89,
+  "expected_transitories": 7,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:03:57Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

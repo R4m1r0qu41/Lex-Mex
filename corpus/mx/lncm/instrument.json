@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lncm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Navegación y Comercio Marítimos",
+  "short_name": "LNCM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-06-01",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-12T08:04:32.010997Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNCM.pdf",
+  "source_sha256": "f16b066f28d00980415d75d52b7165cbba892a37c4881f3b6b6cf122c57eb926",
+  "extracted_text_sha256": "4454660e44f8475ba5171b869e4b563b0f3425b1bdca935dda9055ec73686b54",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

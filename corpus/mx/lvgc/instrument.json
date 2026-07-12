@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lvgc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Vías Generales de Comunicación",
+  "short_name": "LVGC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1940-02-19",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-12T08:04:49.610207Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVGC.pdf",
+  "source_sha256": "a4becbaa8039573e226e916618697661f1294aa26dac434a01144ba65b13699e",
+  "extracted_text_sha256": "4ea5d93583547f50a837527f042a18c95252e7eb9d560e668936ec1eb0a15329",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

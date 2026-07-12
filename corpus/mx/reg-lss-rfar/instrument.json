@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lss-rfar",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley del Seguro Social para la constitución, inversión y uso para la operación de las Reservas Financieras y Actuariales y la Reserva General Financiera y Actuarial, así como para la determinación de los costos financieros que deberán reintegrarse a la Reserva de Operación para Contingencias y Financiamiento",
+  "short_name": "REG-LSS-RFAR",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2013-08-20",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T08:00:32.571883Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_RFARGFA.pdf",
+  "source_sha256": "4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e",
+  "extracted_text_sha256": "061dd4c019dabcd84cda4144e515b8ddb523f80d86380ebcbe4c39d43d797a69",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

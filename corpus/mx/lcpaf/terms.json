@@ -1,0 +1,178 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:caminos-o-carreteras",
+    "term": "Caminos o carreteras",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 372,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:carta-de-porte",
+    "term": "Carta de Porte",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "II",
+    "start_char": 372,
+    "end_char": 664,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:derecho-de-via",
+    "term": "Derecho de vía",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "III",
+    "start_char": 664,
+    "end_char": 1060,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:paradores",
+    "term": "Paradores",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "IV",
+    "start_char": 1060,
+    "end_char": 1331,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:puentes",
+    "term": "Puentes",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "V",
+    "start_char": 1331,
+    "end_char": 1898,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "VI",
+    "start_char": 1898,
+    "end_char": 2013,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:servicios-auxiliares",
+    "term": "Servicios Auxiliares",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "VII",
+    "start_char": 2013,
+    "end_char": 2165,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:servicio-de-autotransporte-de-carga",
+    "term": "Servicio de autotransporte de carga",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "VIII",
+    "start_char": 2165,
+    "end_char": 2293,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:servicio-de-autotransporte-de-pasajeros",
+    "term": "Servicio de autotransporte de pasajeros",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "IX",
+    "start_char": 2293,
+    "end_char": 2444,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:servicio-de-autotransporte-de-turismo",
+    "term": "Servicio de autotransporte de turismo",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "X",
+    "start_char": 2444,
+    "end_char": 2645,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:servicio-de-paqueteria-y-mensajeria",
+    "term": "Servicio de paquetería y mensajería",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "XI",
+    "start_char": 2645,
+    "end_char": 2844,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:terminales",
+    "term": "Terminales",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "XII",
+    "start_char": 2844,
+    "end_char": 3228,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:transito",
+    "term": "Tránsito",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "XIII",
+    "start_char": 3228,
+    "end_char": 3349,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:transporte-privado",
+    "term": "Transporte privado",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "XIV",
+    "start_char": 3349,
+    "end_char": 3645,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:vehiculo",
+    "term": "Vehículo",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "XV",
+    "start_char": 3645,
+    "end_char": 3777,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcpaf:term:vias-generales-de-comunicacion",
+    "term": "Vías generales de comunicación",
+    "instrument_id": "urn:lex-mx:federal:statute:lcpaf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcpaf:article:2",
+    "fraction": "XVI",
+    "start_char": 3777,
+    "end_char": 3926,
+    "basis": "express_definition"
+  }
+]

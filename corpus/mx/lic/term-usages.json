@@ -1,0 +1,47 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lic:article:45-o:term-usage:820-837",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:45-o",
+    "term_id": "urn:lex-mx:federal:statute:lic:term:grupo-empresarial",
+    "span": "Grupo empresarial",
+    "start_char": 820,
+    "end_char": 837
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lic:article:45-o:term-usage:840-849",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:45-o",
+    "term_id": "urn:lex-mx:federal:statute:lic:term:consorcio",
+    "span": "Consorcio",
+    "start_char": 840,
+    "end_char": 849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lic:article:46-bis-1:term-usage:3457-3474",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:46-bis-1",
+    "term_id": "urn:lex-mx:federal:statute:lic:term:grupo-empresarial",
+    "span": "Grupo empresarial",
+    "start_char": 3457,
+    "end_char": 3474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lic:article:74:term-usage:1163-1170",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lic:term:control",
+    "span": "Control",
+    "start_char": 1163,
+    "end_char": 1170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lic:article:74:term-usage:2734-2741",
+    "provision_id": "urn:lex-mx:federal:statute:lic:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lic:term:control",
+    "span": "Control",
+    "start_char": 2734,
+    "end_char": 2741
+  }
+]

@@ -1,0 +1,52 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lgs-mcsaeps:article:119
+instrument_id: urn:lex-mx:federal:regulation:reg-lgs-mcsaeps
+instrument: REG-LGS-MCSAEPS
+name: "Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios"
+provision_type: article
+number: "119"
+aliases: ["REG-LGS-MCSAEPS — Artículo 119"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSAEPS_281204.pdf
+source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
+---
+
+> Título SEGUNDO · Capítulo VI
+
+# Artículo 119
+
+Podrán contar con servicios de garantía de condición sanitaria de productos, los establecimientos que se dediquen al proceso de:
+
+I.- (Se deroga) Fracción derogada DOF 09-08-1999
+
+II.- (Se deroga) Fracción derogada DOF 09-08-1999
+
+III.- (Se deroga) Fracción derogada DOF 09-08-1999
+
+IV.- (Se deroga) Fracción derogada DOF 09-08-1999
+
+V.- Medicamentos;
+
+VI.- (Se deroga) Fracción derogada DOF 09-08-1999
+
+VII.- (Se deroga) Fracción derogada DOF 09-08-1999
+
+VIII.- (Se deroga) Fracción derogada DOF 09-08-1999
+
+IX.- Plaguicidas;
+
+X.- Fertilizantes;
+
+XI.- (Se deroga) Fracción derogada DOF 09-08-1999
+
+XII.- Equipos médicos;
+
+XIII.- Agentes de diagnóstico;
+
+XIV.- Insumos de uso odontológico;
+
+XV.- Materiales, y
+
+XVI.- Los demás que se mencionen en este Reglamento.

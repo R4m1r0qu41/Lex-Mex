@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgsna",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsna.htm",
+  "retrieved_at": "2026-07-12T07:59:41.067249Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 354577,
+  "etag": "\"56911-5c3be5cc266c0\"",
+  "last_modified": "Wed, 02 Jun 2021 01:27:31 GMT",
+  "source_sha256": "5edf7b5ad4dd65a9c97c02ec51f13499aa7ab5025f02ad6e9be3c948ff3cf185",
+  "extracted_text_sha256": "8663e1e97863234ade996e40b98d7859f92270576b4a3e2ce128a8e8d56cffff",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

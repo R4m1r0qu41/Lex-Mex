@@ -1,0 +1,23 @@
+{
+  "slug": "lac",
+  "instrument_id": "urn:lex-mx:federal:statute:lac",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Aviación Civil",
+  "short_name": "LAC",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lac.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1995-05-12",
+  "expected_min_articles": 144,
+  "expected_articles": 144,
+  "expected_transitories": 4,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:04:13Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

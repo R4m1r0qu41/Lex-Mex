@@ -1,0 +1,24 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lss-macerf:article:159
+instrument_id: urn:lex-mx:federal:regulation:reg-lss-macerf
+instrument: REG-LSS-MACERF
+name: "Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización"
+provision_type: article
+number: "159"
+aliases: ["REG-LSS-MACERF — Artículo 159"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MACERF.pdf
+source_sha256: 78fb70d213053e46d3e739b9d80bf7da733d80f27446af7d5812fc6de80533c9
+---
+
+> Título SEXTO · Capítulo III
+
+# Artículo 159
+
+Cuando exista la solicitud patronal o invitación del Instituto a la corrección o medie alguno de los requerimientos señalados en el segundo párrafo de la fracción XXVIII del artículo 251 de la Ley, el periodo a dictaminar será por los últimos dos ejercicios.
+
+Cuando esté notificada una orden de visita domiciliaria, pero no iniciada la revisión documental a juicio del Instituto, se le podrá autorizar dictaminarse por los últimos tres ejercicios.
+
+Una vez autorizado el aviso para dictaminar, el patrón no podrá optar por ningún procedimiento de corrección.

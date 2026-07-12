@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:regulation:reg-laero:article:150
+instrument_id: urn:lex-mx:federal:regulation:reg-laero
+instrument: REG-LAERO
+name: "Reglamento de la Ley de Aeropuertos"
+provision_type: article
+number: "150"
+aliases: ["REG-LAERO — Artículo 150"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
+source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776
+---
+
+# Artículo 150
+
+El concesionario, permisionario o prestador de servicios que no cumpla en tiempo con el pago de las indemnizaciones a que esté obligado, pagará a la parte afectada, además de la suerte principal, intereses moratorios conforme a una tasa igual a la establecida por la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda para los casos de prórroga en el pago de créditos fiscales, multiplicada por el factor de 1.5, sin perjuicio de las sanciones que procedan de conformidad con las disposiciones aplicables.
+
+Titulo Noveno De la seguridad
+
+Capítulo I De las medidas de seguridad

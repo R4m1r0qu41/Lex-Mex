@@ -1,0 +1,34 @@
+---
+id: urn:lex-mx:federal:statute:lss:article:34
+instrument_id: urn:lex-mx:federal:statute:lss
+instrument: LSS
+name: "Ley del Seguro Social"
+provision_type: article
+number: "34"
+aliases: ["LSS — Artículo 34"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf
+source_sha256: 8a28a16e1dce1f8e666f4cce5ed19745bc912b2ab1ca49787d5d4bef229398ed
+---
+
+> Título SEGUNDO · Capítulo II
+
+# Artículo 34
+
+Cuando encontrándose el asegurado al servicio de un mismo patrón se modifique el salario estipulado, se estará a lo siguiente:
+
+I. En los casos previstos en la fracción I del artículo [30](articulo-30.md), el patrón estará obligado a presentar al Instituto los avisos de modificación del salario diario base de cotización dentro de un plazo máximo de cinco días hábiles, contados a partir del día siguiente a la fecha en que cambie el salario;
+
+II. En los casos previstos en la fracción II del artículo [30](articulo-30.md), los patrones estarán obligados a comunicar al Instituto dentro de los primeros cinco días hábiles de los meses de enero, marzo, mayo, julio, septiembre y noviembre, las modificaciones del salario diario promedio obtenido en el bimestre anterior, y
+
+III. En los casos previstos en la fracción III del artículo [30](articulo-30.md), si se modifican los elementos fijos del salario, el patrón deberá presentar el aviso de modificación dentro de los cinco días hábiles siguientes de la fecha en que cambie el salario. Si al concluir el bimestre respectivo hubo modificación de los elementos variables que se integran al salario, el patrón presentará al Instituto el aviso de modificación en los términos de la fracción II anterior.
+
+El salario diario se determinará, dividiendo el importe total de los ingresos variables obtenidos en el bimestre anterior entre el número de días de salario devengado y sumando su resultado a los elementos fijos del salario diario.
+
+En todos los casos previstos en este artículo, si la modificación se origina por revisión del contrato colectivo, se comunicará al Instituto dentro de los treinta días naturales siguientes a su celebración.
+
+Las sociedades cooperativas deberán presentar los avisos de modificación de las percepciones base de cotización de sus socios, de conformidad con lo establecido en este artículo.
+
+Artículo reformado DOF 20-12-2001

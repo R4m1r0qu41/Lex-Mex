@@ -1,0 +1,121 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:21:reference:570-572:22:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:21",
+    "source_span": "22",
+    "start_char": 570,
+    "end_char": 572,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:22",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:21:reference:680-682:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:21",
+    "source_span": "II",
+    "start_char": 680,
+    "end_char": 682,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:21",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 680,
+        "end_char": 682
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:24:reference:492-494:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:24",
+    "source_span": "20",
+    "start_char": 492,
+    "end_char": 494,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:20",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:25:reference:401-418:24:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:25",
+    "source_span": "artículo anterior",
+    "start_char": 401,
+    "end_char": 418,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:24",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 382,
+        "end_char": 396
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:26:reference:234-236:24:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:26",
+    "source_span": "24",
+    "start_char": 234,
+    "end_char": 236,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:24",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:article:26:reference:239-241:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:26",
+    "source_span": "25",
+    "start_char": 239,
+    "end_char": 241,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:25",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfea:transitory:segundo:reference:30-31:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:transitory:segundo",
+    "source_span": "7",
+    "start_char": 30,
+    "end_char": 31,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfea:article:7",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgs-msi",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Salud en Materia de Sanidad Internacional",
+  "short_name": "REG-LGS-MSI",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1985-02-18",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T08:03:53.013501Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MSI.pdf",
+  "source_sha256": "44746db892329cfe37f9f1642d6e385f18c3ecade102b2742aa5c7bf67168dc7",
+  "extracted_text_sha256": "ca2fe60561e36b6664fb802f5404b3a3907c855325298659c44db85cd3bf7da5",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,66 @@
+---
+id: urn:lex-mx:federal:statute:lsar:article:5
+instrument_id: urn:lex-mx:federal:statute:lsar
+instrument: LSAR
+name: "Ley de los Sistemas de Ahorro para el Retiro"
+provision_type: article
+number: "5o"
+aliases: ["LSAR — Artículo 5o"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
+source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1
+---
+
+> Capítulo II
+
+# Artículo 5o
+
+[La Comisión](articulo-3o.md) tendrá las facultades siguientes:
+
+I. Regular, mediante la expedición de disposiciones de carácter general, lo relativo a la operación de los sistemas de ahorro para el retiro, la recepción, depósito, transmisión y administración de las cuotas y aportaciones correspondientes a dichos sistemas, así como la transmisión, manejo e intercambio de información entre las dependencias y entidades de la Administración Pública Federal, los institutos de seguridad social y los participantes en los referidos sistemas, determinando los procedimientos para su buen funcionamiento;
+
+II. Expedir las disposiciones de carácter general a las que habrán de sujetarse los participantes en los sistemas de ahorro para el retiro, en cuanto a su constitución, organización, funcionamiento, operaciones y participación en los sistemas de ahorro para el retiro, tratándose de las instituciones de crédito esta facultad se aplicará en lo conducente; Fracción reformada DOF 10-12-2002
+
+III. Emitir en el ámbito de su competencia la regulación prudencial a que se sujetarán los participantes en los sistemas de ahorro para el retiro;
+
+IV. Emitir reglas de carácter general para la operación y pago de los retiros programados;
+
+V. Establecer las bases de colaboración entre las dependencias y entidades públicas participantes en la operación de los sistemas de ahorro para el retiro;
+
+VI. Otorgar, modificar o revocar las autorizaciones a que se refiere esta ley, a las administradoras y sociedades de inversión; Fracción reformada DOF 10-12-2002
+
+VI bis. Conocer de los nombramientos de los consejeros, directores generales, funcionarios de los dos niveles inmediatos inferiores y comisarios de los participantes en los sistemas de ahorro para el retiro, con excepción de las instituciones de crédito; Fracción adicionada DOF 10-12-2002 VII. Realizar la supervisión de los participantes en los sistemas de ahorro para el retiro. Tratándose de las instituciones de crédito, la supervisión se realizará exclusivamente en relación con su participación en los sistemas de ahorro para el retiro.
+
+La Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas y la Comisión, de común acuerdo, establecerán las bases de colaboración para el ejercicio de sus funciones de supervisión;
+
+VIII. Administrar y operar, en su caso, la [Base de Datos Nacional SAR](articulo-3o.md);
+
+IX. Imponer multas y sanciones, así como emitir opinión a la autoridad competente en materia de los delitos previstos en esta ley;
+
+X. Actuar como órgano de consulta de las dependencias y entidades públicas, en todo lo relativo a los sistemas de ahorro para el retiro, con excepción de la materia fiscal;
+
+XI. Celebrar convenios de asistencia técnica;
+
+XII. Dictar reglas de carácter general para determinar la forma en que las administradoras deberán remunerar a sus agentes promotores, ya sea que éstos tengan una relación laboral con la administradora, le presten sus servicios a través de terceros, o sean independientes; Fracción derogada DOF 18-01-1999. Adicionada DOF 15-06-2007
+
+XIII. Rendir un informe trimestral al Congreso de la Unión sobre la situación que guardan los [Sistemas de Ahorro para el Retiro](articulo-3o.md), en el que se deberán considerar apartados específicos sobre:
+
+a) Las carteras de inversión de las sociedades de inversión, incluyendo un análisis detallado de cómo el régimen de inversión cumple con lo descrito en el artículo [43](articulo-43.md) de esta Ley;
+
+b) La adquisición de valores extranjeros. Este apartado deberá incluir información del porcentaje de la cartera de cada Sociedad de Inversión invertido en estos valores, los países y monedas en que se hayan emitido los valores adquiridos, así como un análisis detallado del efecto de estas inversiones en los rendimientos de las sociedades de inversión;
+
+c) Las medidas adoptadas por la Comisión para proteger los recursos de los trabajadores a que se refiere la fracción XIII bis del presente artículo;
+
+d) Información estadística de los trabajadores registrados en las administradoras, incluyendo clasificación de trabajadores por número de semanas de cotización, número de trabajadores con aportación, número de trabajadores con aportaciones voluntarias y aportación promedio, clasificación de los trabajadores por rango de edad y distribución de sexo y cotización promedio de los trabajadores, densidad de cotización por rango de ingreso, edad y sexo. La información anterior será desglosada por administradora y por instituto de seguridad social o trabajador no afiliado, según corresponda;
+
+e) Información desagregada por administradora relativa a los montos de Rendimiento Neto, de Rendimiento Neto Real, pagados a los trabajadores, al cobro de comisiones, y en caso de presentarse minusvalías, el monto de éstas y el porcentaje que corresponda por tipo de inversión. Fracción reformada DOF 10-12-2002, 21-01-2009
+
+XIII bis. Establecer medidas para proteger los recursos de los trabajadores cuando se presenten circunstancias atípicas en los mercados financieros. Así como dictar reglas para evitar prácticas que se aparten de los sanos usos comerciales, bursátiles o del mercado financiero; Fracción adicionada DOF 21-01-2009 XIV. Dar a conocer a la opinión pública reportes sobre comisiones, número de trabajadores registrados en las administradoras, estado de situación financiera, estado de resultados, composición de cartera y rentabilidad de las sociedades de inversión, cuando menos en forma trimestral; Fracción reformada DOF 10-12-2002
+
+XV. Elaborar y publicar estadísticas y documentos relacionados con los sistemas de ahorro para el retiro; y
+
+XVI. Las demás que le otorguen ésta u otras leyes.
+
+Sección II De los Organos de Gobierno

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:laero",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAero.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/laero.htm",
+  "retrieved_at": "2026-07-12T08:04:20.075369Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 630834,
+  "etag": "\"9a032-6451ccf43ecc0\"",
+  "last_modified": "Thu, 04 Dec 2025 09:18:19 GMT",
+  "source_sha256": "c78882a0177403ee04cd38dd09fa1657dc221b7f6827ddacf251c699ede867e4",
+  "extracted_text_sha256": "a2508368251fc258612b76f85f2a28fec6ff0c545e005449f06748404be94886",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

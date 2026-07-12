@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lic-calidad",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Infraestructura de la Calidad",
+  "short_name": "LIC-CALIDAD",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2020-07-01",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T08:04:58.468704Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LICal_010720.pdf",
+  "source_sha256": "a9f33bb2a633b8533f902808df4d75cff31a4c71e21728b12cde45b7e229be2a",
+  "extracted_text_sha256": "510415fb1966892b98de9e4cbe9434fae39da03ecbf1df990e4622d2df366dcc",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

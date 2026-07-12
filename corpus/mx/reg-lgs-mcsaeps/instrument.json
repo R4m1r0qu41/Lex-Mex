@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios",
+  "short_name": "REG-LGS-MCSAEPS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1988-01-18",
+  "latest_reform_date": "2004-12-28",
+  "retrieved_at": "2026-07-12T08:03:59.642288Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSAEPS_281204.pdf",
+  "source_sha256": "a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f",
+  "extracted_text_sha256": "2f940b7c097a2f089b176e842a0b579fe1495a51f04ceef6c16da9c83e9e25d6",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

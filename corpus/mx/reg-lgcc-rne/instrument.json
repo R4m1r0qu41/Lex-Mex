@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Cambio Climático en Materia del Registro Nacional de Emisiones",
+  "short_name": "REG-LGCC-RNE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-10-28",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T08:01:09.499079Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014.pdf",
+  "source_sha256": "62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192",
+  "extracted_text_sha256": "5775459b2789f93ed63618a3a4af28bf2827b883a871d98fa139b185ad2b68b4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

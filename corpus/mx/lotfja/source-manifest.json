@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lotfja",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lotfja.htm",
+  "retrieved_at": "2026-07-12T07:59:50.082485Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 563473,
+  "etag": "\"89911-6416530d483c0\"",
+  "last_modified": "Sat, 18 Oct 2025 01:58:47 GMT",
+  "source_sha256": "b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628",
+  "extracted_text_sha256": "1f8fd160f521a3429a58d8780a6c373d3318c9cbf1b5c061ad63518abdd4c84a",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

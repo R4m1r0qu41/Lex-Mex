@@ -1,0 +1,23 @@
+{
+  "slug": "lotfja",
+  "instrument_id": "urn:lex-mx:federal:statute:lotfja",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Orgánica del Tribunal Federal de Justicia Administrativa",
+  "short_name": "LOTFJA",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lotfja.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2016-07-18",
+  "expected_min_articles": 70,
+  "expected_articles": 70,
+  "expected_transitories": 5,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T07:59:50Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

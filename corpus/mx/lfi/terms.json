@@ -1,0 +1,134 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfi:term:activos-objeto-de-inversion",
+    "term": "Activos Objeto de Inversión",
+    "instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfi:article:2",
+    "fraction": "I",
+    "start_char": 44,
+    "end_char": 767,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfi:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfi:article:2",
+    "fraction": "II",
+    "start_char": 767,
+    "end_char": 826,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfi:term:consorcio",
+    "term": "Consorcio",
+    "instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfi:article:2",
+    "fraction": "III",
+    "start_char": 826,
+    "end_char": 998,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfi:term:control",
+    "term": "Control",
+    "instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfi:article:2",
+    "fraction": "IV",
+    "start_char": 998,
+    "end_char": 1551,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfi:term:cuenta-global",
+    "term": "Cuenta Global",
+    "instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfi:article:2",
+    "fraction": "V",
+    "start_char": 1551,
+    "end_char": 1914,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfi:term:empresa-promovida",
+    "term": "Empresa Promovida",
+    "instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfi:article:2",
+    "fraction": "VI",
+    "start_char": 1914,
+    "end_char": 2223,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfi:term:evento-relevante",
+    "term": "Evento Relevante",
+    "instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfi:article:2",
+    "fraction": "VII",
+    "start_char": 2223,
+    "end_char": 2364,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfi:term:grupo-de-personas",
+    "term": "Grupo de Personas",
+    "instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfi:article:2",
+    "fraction": "VIII",
+    "start_char": 2364,
+    "end_char": 2875,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfi:term:grupo-empresarial",
+    "term": "Grupo Empresarial",
+    "instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfi:article:2",
+    "fraction": "IX",
+    "start_char": 2875,
+    "end_char": 3240,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfi:term:influencia-significativa",
+    "term": "Influencia Significativa",
+    "instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfi:article:2",
+    "fraction": "X",
+    "start_char": 3240,
+    "end_char": 3433,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfi:term:poder-de-mando",
+    "term": "Poder de Mando",
+    "instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfi:article:2",
+    "fraction": "XI",
+    "start_char": 3433,
+    "end_char": 4767,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfi:term:registro-nacional",
+    "term": "Registro Nacional",
+    "instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfi:article:2",
+    "fraction": "XII",
+    "start_char": 4767,
+    "end_char": 5037,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,1186 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:102-ter:reference:164-181:102-bis:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:102-ter",
+    "source_span": "artículo anterior",
+    "start_char": 164,
+    "end_char": 181,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:102-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:103:reference:845-846:103:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:103",
+    "source_span": "I",
+    "start_char": 845,
+    "end_char": 846,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:103",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 845,
+        "end_char": 846
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:103:reference:849-851:103:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:103",
+    "source_span": "II",
+    "start_char": 849,
+    "end_char": 851,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:103",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 849,
+        "end_char": 851
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:110:reference:1069-1071:82:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:110",
+    "source_span": "82",
+    "start_char": 1069,
+    "end_char": 1071,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:82",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:110:reference:6098-6100:110:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:110",
+    "source_span": "VI",
+    "start_char": 6098,
+    "end_char": 6100,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:110",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "VI",
+        "start_char": 6098,
+        "end_char": 6100
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:116-a:reference:83-100:116:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:116-a",
+    "source_span": "artículo anterior",
+    "start_char": 83,
+    "end_char": 100,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:116",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VIII",
+        "start_char": 65,
+        "end_char": 78
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:12:reference:172-174:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:12",
+    "source_span": "21",
+    "start_char": 172,
+    "end_char": 174,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:130:reference:164-167:129:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:130",
+    "source_span": "129",
+    "start_char": 164,
+    "end_char": 167,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:129",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:130:reference:170-177:129-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:130",
+    "source_span": "129 Bis",
+    "start_char": 170,
+    "end_char": 177,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:129-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:131:reference:995-998:109:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:131",
+    "source_span": "109",
+    "start_char": 995,
+    "end_char": 998,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:109",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 969,
+        "end_char": 981
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:135:reference:566-569:139:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:135",
+    "source_span": "139",
+    "start_char": 566,
+    "end_char": 569,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:139",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:135-bis:reference:461-464:135:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:135-bis",
+    "source_span": "135",
+    "start_char": 461,
+    "end_char": 464,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:135",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 466,
+        "end_char": 477
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:145:reference:317-320:139:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:145",
+    "source_span": "139",
+    "start_char": 317,
+    "end_char": 320,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:139",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:145:reference:425-428:135:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:145",
+    "source_span": "135",
+    "start_char": 425,
+    "end_char": 428,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:135",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 430,
+        "end_char": 441
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:167:reference:268-285:166:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:167",
+    "source_span": "artículo anterior",
+    "start_char": 268,
+    "end_char": 285,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:166",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:17:reference:453-455:93:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:17",
+    "source_span": "93",
+    "start_char": 453,
+    "end_char": 455,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:93",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:186:reference:340-342:76:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:186",
+    "source_span": "76",
+    "start_char": 340,
+    "end_char": 342,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:76",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:19:reference:59-76:18:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:19",
+    "source_span": "artículo anterior",
+    "start_char": 59,
+    "end_char": 76,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:18",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:19:reference:2540-2557:18:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:19",
+    "source_span": "artículo anterior",
+    "start_char": 2540,
+    "end_char": 2557,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:18",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:192:reference:62-79:191:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:192",
+    "source_span": "artículo anterior",
+    "start_char": 62,
+    "end_char": 79,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:191",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:196:reference:168-170:60:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:196",
+    "source_span": "60",
+    "start_char": 168,
+    "end_char": 170,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:60",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:196:reference:227-229:95:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:196",
+    "source_span": "95",
+    "start_char": 227,
+    "end_char": 229,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:95",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:197:reference:1392-1394:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:197",
+    "source_span": "27",
+    "start_char": 1392,
+    "end_char": 1394,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:27",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:198:reference:468-470:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:198",
+    "source_span": "89",
+    "start_char": 468,
+    "end_char": 470,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:89",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:199:reference:1483-1486:200:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:199",
+    "source_span": "200",
+    "start_char": 1483,
+    "end_char": 1486,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:200",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:20:reference:730-733:109:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:20",
+    "source_span": "109",
+    "start_char": 730,
+    "end_char": 733,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:109",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VIII",
+        "start_char": 735,
+        "end_char": 748
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:20:reference:876-878:36:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:20",
+    "source_span": "36",
+    "start_char": 876,
+    "end_char": 878,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:36",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:20:reference:1375-1392:19:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:20",
+    "source_span": "artículo anterior",
+    "start_char": 1375,
+    "end_char": 1392,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:19",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 1360,
+        "end_char": 1370
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:200:reference:91-108:199:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:200",
+    "source_span": "artículo anterior",
+    "start_char": 91,
+    "end_char": 108,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:199",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:22:reference:344-346:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:22",
+    "source_span": "19",
+    "start_char": 344,
+    "end_char": 346,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:23:reference:1145-1147:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:23",
+    "source_span": "21",
+    "start_char": 1145,
+    "end_char": 1147,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:24:reference:491-493:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:24",
+    "source_span": "19",
+    "start_char": 491,
+    "end_char": 493,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:19",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 466,
+        "end_char": 477
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:24:reference:971-973:24:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:24",
+    "source_span": "II",
+    "start_char": 971,
+    "end_char": 973,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:24",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 971,
+        "end_char": 973
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:25:reference:2441-2444:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:25",
+    "source_span": "VII",
+    "start_char": 2441,
+    "end_char": 2444,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:25",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "VII",
+        "start_char": 2441,
+        "end_char": 2444
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:26:reference:489-491:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:26",
+    "source_span": "19",
+    "start_char": 489,
+    "end_char": 491,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:26:reference:802-804:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:26",
+    "source_span": "19",
+    "start_char": 802,
+    "end_char": 804,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:19",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 776,
+        "end_char": 788
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:26:reference:2273-2276:145:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:26",
+    "source_span": "145",
+    "start_char": 2273,
+    "end_char": 2276,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:145",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:26:reference:2492-2494:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:26",
+    "source_span": "19",
+    "start_char": 2492,
+    "end_char": 2494,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:19",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 2539,
+        "end_char": 2550
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b",
+        "start_char": 2552,
+        "end_char": 2560
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:26:reference:2788-2790:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:26",
+    "source_span": "25",
+    "start_char": 2788,
+    "end_char": 2790,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:25",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:27:reference:214-216:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:27",
+    "source_span": "20",
+    "start_char": 214,
+    "end_char": 216,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:20",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 262,
+        "end_char": 272
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:27:reference:1423-1425:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:27",
+    "source_span": "20",
+    "start_char": 1423,
+    "end_char": 1425,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:20",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II, III",
+        "start_char": 1427,
+        "end_char": 1445
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:29:reference:420-422:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:29",
+    "source_span": "19",
+    "start_char": 420,
+    "end_char": 422,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:29:reference:750-752:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:29",
+    "source_span": "23",
+    "start_char": 750,
+    "end_char": 752,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:23",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:3:reference:371-373:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:3",
+    "source_span": "21",
+    "start_char": 371,
+    "end_char": 373,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:30:reference:572-574:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:30",
+    "source_span": "21",
+    "start_char": 572,
+    "end_char": 574,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:31:reference:878-880:27:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:31",
+    "source_span": "27",
+    "start_char": 878,
+    "end_char": 880,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:27",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 882,
+        "end_char": 894
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "incisos c",
+        "start_char": 896,
+        "end_char": 905
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:32:reference:485-487:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:32",
+    "source_span": "11",
+    "start_char": 485,
+    "end_char": 487,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:32:reference:490-492:12:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:32",
+    "source_span": "12",
+    "start_char": 490,
+    "end_char": 492,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:36:reference:2225-2226:36:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:36",
+    "source_span": "I",
+    "start_char": 2225,
+    "end_char": 2226,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:36",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 2225,
+        "end_char": 2226
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:37:reference:61-78:36:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:37",
+    "source_span": "artículo anterior",
+    "start_char": 61,
+    "end_char": 78,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:36",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:38-bis:reference:488-490:38:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38-bis",
+    "source_span": "38",
+    "start_char": 488,
+    "end_char": 490,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:38",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 463,
+        "end_char": 474
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:39:reference:1478-1480:39:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:39",
+    "source_span": "II",
+    "start_char": 1478,
+    "end_char": 1480,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:39",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1478,
+        "end_char": 1480
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:39:reference:1483-1486:39:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:39",
+    "source_span": "III",
+    "start_char": 1483,
+    "end_char": 1486,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:39",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "III",
+        "start_char": 1483,
+        "end_char": 1486
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:51-b:reference:69-71:51:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:51-b",
+    "source_span": "51",
+    "start_char": 69,
+    "end_char": 71,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:51",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:53:reference:85-102:52:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:53",
+    "source_span": "artículo anterior",
+    "start_char": 85,
+    "end_char": 102,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:52",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:53:reference:655-672:52:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:53",
+    "source_span": "artículo anterior",
+    "start_char": 655,
+    "end_char": 672,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:52",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:53:reference:924-941:52:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:53",
+    "source_span": "artículo anterior",
+    "start_char": 924,
+    "end_char": 941,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:52",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:54:reference:214-216:53:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:54",
+    "source_span": "53",
+    "start_char": 214,
+    "end_char": 216,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:53",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones II, III y IV",
+        "start_char": 177,
+        "end_char": 200
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:55:reference:298-300:53:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:55",
+    "source_span": "53",
+    "start_char": 298,
+    "end_char": 300,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:53",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones III y IV",
+        "start_char": 265,
+        "end_char": 284
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:56:reference:754-758:53-b:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:56",
+    "source_span": "53-B",
+    "start_char": 754,
+    "end_char": 758,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:53-b",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:61:reference:65-82:60:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:61",
+    "source_span": "artículo anterior",
+    "start_char": 65,
+    "end_char": 82,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:60",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:64:reference:773-775:64:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:64",
+    "source_span": "II",
+    "start_char": 773,
+    "end_char": 775,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:64",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 773,
+        "end_char": 775
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:69:reference:65-82:68:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:69",
+    "source_span": "artículo anterior",
+    "start_char": 65,
+    "end_char": 82,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:68",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 48,
+        "end_char": 60
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:7:reference:407-409:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:7",
+    "source_span": "21",
+    "start_char": 407,
+    "end_char": 409,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:8:reference:911-912:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:8",
+    "source_span": "I",
+    "start_char": 911,
+    "end_char": 912,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:8",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 911,
+        "end_char": 912
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lac:article:95-a:reference:49-66:95:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:95-a",
+    "source_span": "artículo anterior",
+    "start_char": 49,
+    "end_char": 66,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lac:article:95",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

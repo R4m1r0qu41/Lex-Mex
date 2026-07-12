@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Evaluación del Impacto Ambiental",
+  "short_name": "REG-LGEEPA-MEIA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2000-05-30",
+  "latest_reform_date": "2014-10-31",
+  "retrieved_at": "2026-07-12T08:00:51.854862Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MEIA_311014.pdf",
+  "source_sha256": "c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f",
+  "extracted_text_sha256": "8f8c5d2512b9e390ace741f015d455a4e2a814d95d2ff19cb16bf79e74b5afc8",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

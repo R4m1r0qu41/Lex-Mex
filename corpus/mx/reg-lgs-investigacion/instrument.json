@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley General de Salud en Materia de Investigación para la Salud",
+  "short_name": "REG-LGS-INVESTIGACION",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1987-01-06",
+  "latest_reform_date": "2014-04-02",
+  "retrieved_at": "2026-07-12T08:03:46.248352Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf",
+  "source_sha256": "f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b",
+  "extracted_text_sha256": "60646990a9a9540ca30102138531b6a9b8063d49388b85302bed71a5e804b25c",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

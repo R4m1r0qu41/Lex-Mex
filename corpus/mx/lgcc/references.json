@@ -1,0 +1,136 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:107:reference:323-325:47:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcc:article:107",
+    "source_span": "47",
+    "start_char": 323,
+    "end_char": 325,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:47",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XIII",
+        "start_char": 296,
+        "end_char": 309
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:110:reference:25-42:109:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcc:article:110",
+    "source_span": "artículo anterior",
+    "start_char": 25,
+    "end_char": 42,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:109",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:2:reference:684-685:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcc:article:2",
+    "source_span": "2",
+    "start_char": 684,
+    "end_char": 685,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:3:reference:5780-5782:12:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcc:article:3",
+    "source_span": "12",
+    "start_char": 5780,
+    "end_char": 5782,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:12",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:47:reference:2210-2213:107:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcc:article:47",
+    "source_span": "107",
+    "start_char": 2210,
+    "end_char": 2213,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:107",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:75:reference:251-252:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcc:article:75",
+    "source_span": "7",
+    "start_char": 251,
+    "end_char": 252,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:7",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XIII",
+        "start_char": 224,
+        "end_char": 237
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:article:83:reference:530-532:82:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcc:article:83",
+    "source_span": "82",
+    "start_char": 530,
+    "end_char": 532,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:82",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcc:transitory:noveno:reference:319-321:83:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgcc:transitory:noveno",
+    "source_span": "83",
+    "start_char": 319,
+    "end_char": 321,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgcc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgcc:article:83",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

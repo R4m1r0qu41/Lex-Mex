@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lpdusf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Protección y Defensa al Usuario de Servicios Financieros",
+  "short_name": "LPDUSF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1999-01-18",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-12T08:06:18.149275Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPDUSF.pdf",
+  "source_sha256": "cd194c7967f5d32d695f53432131497027fc3def08fe3dfb92c7330ab3f56cf7",
+  "extracted_text_sha256": "d7cf9d1003ef003f8e70a3de4e7bf16364a13f24a0d9f8b135e62b53735ba5e4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

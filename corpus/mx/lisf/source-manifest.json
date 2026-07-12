@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lisf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lisf.htm",
+  "retrieved_at": "2026-07-12T08:06:34.672398Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 2184319,
+  "etag": "\"21547f-64486bff3db40\"",
+  "last_modified": "Wed, 26 Nov 2025 22:16:37 GMT",
+  "source_sha256": "1e049d88e21ced9b995b6727c474bcffdfd4e1a0dd4d09d2bb41ce994fe08416",
+  "extracted_text_sha256": "e6c128840f6e079714bc300243af0999998dffc5a68c648e5b421e16aeb2ae4c",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ba33a8b5626bed902ac8c8142f2a6688fd2699c3"
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:term:enfermedad-en-estado-terminal",
+    "term": "Enfermedad en estado terminal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgs:article:166-bis-1",
+    "fraction": "I",
+    "start_char": 52,
+    "end_char": 256,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:term:cuidados-basicos",
+    "term": "Cuidados básicos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgs:article:166-bis-1",
+    "fraction": "II",
+    "start_char": 256,
+    "end_char": 369,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:term:cuidados-paliativos",
+    "term": "Cuidados Paliativos",
+    "instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgs:article:166-bis-1",
+    "fraction": "III",
+    "start_char": 369,
+    "end_char": 606,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:term:enfermo-en-situacion-terminal",
+    "term": "Enfermo en situación terminal",
+    "instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgs:article:166-bis-1",
+    "fraction": "IV",
+    "start_char": 606,
+    "end_char": 763,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:term:obstinacion-terapeutica",
+    "term": "Obstinación terapéutica",
+    "instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgs:article:166-bis-1",
+    "fraction": "V",
+    "start_char": 763,
+    "end_char": 900,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:term:medios-extraordinarios",
+    "term": "Medios extraordinarios",
+    "instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgs:article:166-bis-1",
+    "fraction": "VI",
+    "start_char": 900,
+    "end_char": 1280,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:term:medios-ordinarios",
+    "term": "Medios ordinarios",
+    "instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgs:article:166-bis-1",
+    "fraction": "VII",
+    "start_char": 1280,
+    "end_char": 1501,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:term:muerte-natural",
+    "term": "Muerte natural",
+    "instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgs:article:166-bis-1",
+    "fraction": "VIII",
+    "start_char": 1501,
+    "end_char": 1669,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:term:tratamiento-del-dolor",
+    "term": "Tratamiento del dolor",
+    "instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lgs:article:166-bis-1",
+    "fraction": "IX",
+    "start_char": 1669,
+    "end_char": 1935,
+    "basis": "express_definition"
+  }
+]
