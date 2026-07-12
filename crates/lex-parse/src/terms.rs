@@ -1,11 +1,13 @@
 //! Defined-term (glossary) extraction and exact usage linking.
 //!
 //! Mexican financial instruments commonly open with a glossary provision —
-//! LRITF Article 4, DCG-IFPE-2021 Article 1 — though not always. Two layouts
-//! are supported: `fractions` (`I. Término, a …`, continuation paragraphs
-//! such as incisos belong to the preceding fraction) and `colon_entries`
-//! (`Término: a …`, produced by the definition-layout reconstruction, with
-//! non-entry paragraphs continuing the previous entry).
+//! LRITF Article 4, DCG-IFPE-2021 Article 1 — though not always. Three
+//! layouts are supported: `fractions` (`I. Término, a …`, continuation
+//! paragraphs such as incisos belong to the preceding fraction),
+//! `colon_entries` (`Término: a …`, produced by the definition-layout
+//! reconstruction, with non-entry paragraphs continuing the previous
+//! entry), and `roman_colon` (`I. Término: …`, scanned inline so a
+//! glossary whose fractions share one paragraph still splits).
 //!
 //! Usage linking is deterministic and case-sensitive: an occurrence matches
 //! a term exactly or through one generated singular/plural variant, at word
@@ -24,6 +26,10 @@ pub enum GlossaryStyle {
     Fractions,
     /// `Término: a …` — the term runs to the first colon.
     ColonEntries,
+    /// `I. Término: a …` — a Roman fraction, the term to the first colon,
+    /// then the definition. Scanned inline, so a glossary whose fractions
+    /// share one paragraph (no blank line between them) still splits.
+    RomanColon,
 }
 
 impl GlossaryStyle {
@@ -31,6 +37,7 @@ impl GlossaryStyle {
         match value {
             "fractions" => Ok(Self::Fractions),
             "colon_entries" => Ok(Self::ColonEntries),
+            "roman_colon" => Ok(Self::RomanColon),
             other => bail!("unsupported glossary style {other:?}"),
         }
     }
@@ -45,6 +52,7 @@ pub fn extract_terms(provision: &Provision, style: GlossaryStyle) -> Result<Vec<
     let entries = match style {
         GlossaryStyle::Fractions => fraction_entries(provision)?,
         GlossaryStyle::ColonEntries => colon_entries(provision),
+        GlossaryStyle::RomanColon => roman_colon_entries(provision)?,
     };
     let mut terms = Vec::with_capacity(entries.len());
     for entry in entries {
@@ -134,6 +142,39 @@ fn colon_entries(provision: &Provision) -> Vec<GlossaryEntry> {
         }
     }
     entries
+}
+
+/// `I. Término: definición; II. …` entries scanned inline. Each entry
+/// begins at a Roman-numeral fraction that follows the intro colon or a
+/// prior entry's `;`, and the term is the text up to that entry's first
+/// colon (bounded, so a definition's own colon is not mistaken for the
+/// term boundary). The span runs from the fraction to the next entry.
+fn roman_colon_entries(provision: &Provision) -> Result<Vec<GlossaryEntry>> {
+    let entry_re = Regex::new(r"(?:^|[:;])\s*([IVXLCDM]+)\.\s+([^:;]{1,90}?):\s")?;
+    let text = &provision.text;
+    let mut starts: Vec<(usize, String, String)> = Vec::new();
+    for captures in entry_re.captures_iter(text) {
+        let fraction = captures.get(1).expect("fraction capture");
+        let term = captures.get(2).expect("term capture");
+        starts.push((
+            fraction.start(),
+            captures[1].to_owned(),
+            term.as_str().trim().to_owned(),
+        ));
+    }
+    let mut entries = Vec::with_capacity(starts.len());
+    for (index, (byte_start, fraction, term)) in starts.iter().enumerate() {
+        let byte_end = starts
+            .get(index + 1)
+            .map_or(text.len(), |(next_start, _, _)| *next_start);
+        entries.push(GlossaryEntry {
+            term: term.clone(),
+            fraction: Some(fraction.clone()),
+            start_char: text[..*byte_start].chars().count(),
+            end_char: text[..byte_end].chars().count(),
+        });
+    }
+    Ok(entries)
 }
 
 /// Extract every exact defined-term occurrence across the provisions.
@@ -496,6 +537,46 @@ mod tests {
             .iter()
             .collect();
         assert!(cuenta.ends_with("un registro por Cliente."));
+    }
+
+    #[test]
+    fn extracts_roman_colon_terms_from_a_single_merged_paragraph() {
+        // The whole glossary is one paragraph: no blank line separates the
+        // fractions, so the entries must be split inline.
+        let glossary = provision(
+            REGULATION_ID,
+            "article:5",
+            "Para los efectos de la presente Ley, se entenderá por: \
+             I. Cotizante: la persona física o moral que confirma su cotización \
+             en el procedimiento de adjudicación directa; \
+             II. Dependencias: las señaladas en las fracciones I y II del artículo 1 \
+             de esta Ley; \
+             III. Investigación de mercado: el proceso previo al inicio de los \
+             procedimientos de contratación;",
+        );
+        let terms = extract_terms(&glossary, GlossaryStyle::RomanColon).unwrap();
+        assert_eq!(
+            terms
+                .iter()
+                .map(|term| (term.term.as_str(), term.fraction.as_deref().unwrap()))
+                .collect::<Vec<_>>(),
+            [
+                ("Cotizante", "I"),
+                ("Dependencias", "II"),
+                ("Investigación de mercado", "III"),
+            ]
+        );
+        // A definition's own "fracciones I y II" does not open a new entry,
+        // and each span contains its term.
+        let chars: Vec<char> = glossary.text.chars().collect();
+        for term in &terms {
+            let span: String = chars[term.start_char..term.end_char].iter().collect();
+            assert!(
+                span.contains(&term.term),
+                "span must contain {:?}",
+                term.term
+            );
+        }
     }
 
     #[test]

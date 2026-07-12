@@ -923,6 +923,32 @@ fn run_batch(
     Ok(())
 }
 
+/// Default self-reference (internal) markers for an instrument that does
+/// not configure its own. The self-reference noun tracks the instrument's
+/// kind: a código's "de este código" is internal, while for a ley the
+/// same phrase names a different instrument and stays external (via the
+/// generic external markers). "ordenamiento" is a kind-neutral
+/// self-reference used by both.
+fn self_reference_markers(instrument_type: &str) -> Vec<String> {
+    let own = match instrument_type {
+        "code" => ["de este código", "del presente código", "este código"].as_slice(),
+        "regulation" => [
+            "de este reglamento",
+            "del presente reglamento",
+            "de las presentes disposiciones",
+            "de estas disposiciones",
+        ]
+        .as_slice(),
+        // statute, constitution, and anything else are ley-shaped.
+        _ => ["de esta ley", "de la presente ley", "esta ley"].as_slice(),
+    };
+    own.iter()
+        .copied()
+        .chain(["de este ordenamiento", "del presente ordenamiento"])
+        .map(str::to_owned)
+        .collect()
+}
+
 /// Parser options for a Diputados consolidated document, derived from the
 /// adapter: running-header lines default to the uppercased official title.
 fn diputados_options(config: &SourceConfig) -> DiputadosOptions {
@@ -1201,7 +1227,7 @@ fn extract_instrument_references(
                 .config
                 .internal_reference_markers
                 .clone()
-                .unwrap_or_default(),
+                .unwrap_or_else(|| self_reference_markers(&context.config.instrument_type)),
             external_instruments: context
                 .config
                 .external_instruments

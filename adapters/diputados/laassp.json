@@ -19,5 +19,9 @@
     "proposed_at": "2026-07-12T03:19:16Z"
   },
   "allow_article_gaps": true,
+  "glossary": {
+    "provision_suffix": ":article:5",
+    "style": "roman_colon"
+  },
   "formal_publication_urls": {}
 }

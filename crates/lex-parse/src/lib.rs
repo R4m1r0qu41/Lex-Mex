@@ -119,7 +119,11 @@ impl ReferencePatterns {
             relative_article: Regex::new(r"(?i)\bartículo\s+(anterior|siguiente)\b")?,
             roman: Regex::new(r"\b[IVXLCDM]+\b")?,
             number: Regex::new(
-                r"(?i)(?:\d{1,3}(?:,\d{3})+|\d{1,4})(?:-[A-Z])?(?:\s+(?:Bis|Ter|Quáter))?",
+                // A hyphenated qualifier (`156-Bis`) is tried before the
+                // single-letter suffix (`70-A`) so the letter rule does
+                // not swallow the `B` of `-Bis`; a letter may still carry
+                // a following space-separated qualifier (`15-B Bis`).
+                r"(?i)(?:\d{1,3}(?:,\d{3})+|\d{1,4})(?:-(?:Bis|Ter|Qu[áa]ter)|(?:-[A-Z])?(?:\s+(?:Bis|Ter|Qu[áa]ter))?)",
             )?,
             separator: Regex::new(
                 r"(?ix)^(?:
