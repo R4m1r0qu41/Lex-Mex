@@ -691,12 +691,9 @@ fn reference_edge(
 }
 
 fn canonical_article_id(instrument_id: &str, number: &str) -> String {
-    let canonical_number = number
-        .split_whitespace()
-        .collect::<Vec<_>>()
-        .join("-")
-        .to_lowercase();
-    format!("{instrument_id}:article:{canonical_number}")
+    // Match the provision-id convention: ordinal marks are dropped so a
+    // citation of "2" or "2o" both resolve to article "2".
+    format!("{instrument_id}:article:{}", labels::canonical_slug(number))
 }
 
 fn numeric_article_number(number: &str) -> Option<u32> {
@@ -712,6 +709,19 @@ const EXTERNAL_INSTRUMENT_MARKERS: &[&str] = &[
     "de esa ley",
     "de este código",
     "del presente código",
+    // Anaphoric references to a previously named external instrument.
+    // A código citing another law's article ends the citation "…de la
+    // citada Ley"; the named law is outside the corpus, so the edge is
+    // left unlinked rather than mis-resolved as internal.
+    "de la citada ley",
+    "de la misma ley",
+    "de la referida ley",
+    "de la mencionada ley",
+    "de dicho código",
+    "del citado código",
+    "del mismo código",
+    "del referido código",
+    "del mencionado código",
 ];
 
 fn has_internal_instrument_context(value: &str) -> bool {
@@ -1184,12 +1194,14 @@ fn validate_provisions(
     }
 }
 
-/// Gap-tolerant article ordering for códigos: every article number must
-/// parse under the shared label grammar, sort keys must strictly increase
-/// in document order (suffixed articles are first-class), and a skipped
-/// base number — a derogated article, or a parse gap — becomes a
-/// structured warning rather than an error. The frozen count baseline is
-/// the drift gate.
+/// Gap-tolerant article ordering for códigos. Every article number must
+/// parse under the shared label grammar. Base numbers must not go
+/// backwards (a real regression is an error); a skipped base number
+/// (derogated article or parse gap) is an `article_gap` warning. The exact
+/// ordering of same-base suffixes — a código may print `70-A` before
+/// `70 Bis`, another the reverse — is drafting-dependent, so a same-base
+/// key that does not increase is a `suffix_order` warning, not an error.
+/// The frozen count baseline is the drift gate.
 fn validate_article_order_by_label(
     provision: &Provision,
     previous: &mut Option<(labels::ArticleSortKey, String)>,
@@ -1209,24 +1221,21 @@ fn validate_article_order_by_label(
         return;
     };
     let key = label.sort_key();
+    let base = key.first().and_then(|part| part.0.first().copied());
     if let Some((previous_key, previous_number)) = previous {
-        if key <= *previous_key {
-            issues.push(error(
+        let previous_base = previous_key
+            .first()
+            .and_then(|part| part.0.first().copied());
+        match (base, previous_base) {
+            (Some(base), Some(previous_base)) if base < previous_base => issues.push(error(
                 "article_order",
                 format!(
-                    "article {} does not sort after article {previous_number}",
+                    "article {} sorts before article {previous_number}",
                     provision.number
                 ),
                 Some(provision.id.clone()),
-            ));
-        } else {
-            let base = key.first().and_then(|part| part.0.first().copied());
-            let previous_base = previous_key
-                .first()
-                .and_then(|part| part.0.first().copied());
-            if let (Some(base), Some(previous_base)) = (base, previous_base)
-                && base > previous_base + 1
-            {
+            )),
+            (Some(base), Some(previous_base)) if base > previous_base + 1 => {
                 issues.push(ValidationIssue {
                     severity: Severity::Warning,
                     code: "article_gap".to_owned(),
@@ -1237,6 +1246,17 @@ fn validate_article_order_by_label(
                     provision_id: Some(provision.id.clone()),
                 });
             }
+            // Same base: only the intra-family suffix order is in question.
+            _ if key <= *previous_key => issues.push(ValidationIssue {
+                severity: Severity::Warning,
+                code: "suffix_order".to_owned(),
+                message: format!(
+                    "article {} does not sort after {previous_number} within the same base",
+                    provision.number
+                ),
+                provision_id: Some(provision.id.clone()),
+            }),
+            _ => {}
         }
     }
     *previous = Some((key, provision.number.clone()));

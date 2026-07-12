@@ -104,16 +104,39 @@ fn transitory_ordinals() -> Vec<String> {
     ordinals
 }
 
-/// `PRIMERA.- body`, `DÉCIMO SEGUNDO. body` → `(ordinal, body)`.
+/// Case-insensitive prefix match returning the exact matched source slice
+/// and the remainder, so the ordinal is stored as the document writes it.
+fn strip_prefix_ci<'a>(haystack: &'a str, needle: &str) -> Option<(&'a str, &'a str)> {
+    let mut end = 0;
+    let mut chars = haystack.chars();
+    for needle_char in needle.chars() {
+        let actual = chars.next()?;
+        if !actual.to_lowercase().eq(needle_char.to_lowercase()) {
+            return None;
+        }
+        end += actual.len_utf8();
+    }
+    Some((&haystack[..end], &haystack[end..]))
+}
+
+/// Recognizes a statute transitory heading in both the bare form
+/// (`PRIMERA.- body`, `DÉCIMO SEGUNDO. body`, LRITF-style) and the
+/// article-prefixed form many códigos use (`Artículo Primero.- body`),
+/// matching the ordinal case-insensitively. Returns the ordinal exactly
+/// as written and the body.
 fn parse_transitory_start<'a>(
     block: &'a str,
     ordinals: &'a [String],
 ) -> Option<(&'a str, &'a str)> {
+    let after_prefix = ["Artículo ", "ARTÍCULO ", "Articulo ", "ARTICULO "]
+        .iter()
+        .find_map(|prefix| block.strip_prefix(prefix))
+        .unwrap_or(block);
     for ordinal in ordinals {
-        if let Some(rest) = block.strip_prefix(ordinal.as_str()) {
+        if let Some((matched, rest)) = strip_prefix_ci(after_prefix, ordinal) {
             for separator in [".-", ".", "-"] {
                 if let Some(body) = rest.strip_prefix(separator) {
-                    return Some((ordinal.as_str(), body.trim()));
+                    return Some((matched, body.trim()));
                 }
             }
         }
@@ -121,17 +144,48 @@ fn parse_transitory_start<'a>(
     None
 }
 
-/// `Artículo 15-D.- body`, `ARTICULO 1o. body` → `(label, body)`.
+/// A letter article-suffix written past the separator after a low-ordinal
+/// base, `Artículo 4o.-A.-` (article "4o-A") and `Artículo 5o.-A.` — the
+/// letter binds only with no intervening space, so an ordinary body like
+/// `4o.- A los efectos…` (leading space) is never mistaken for a suffix.
+/// Returns the suffix letter and the remainder at the body separator.
+fn ordinal_letter_suffix(after: &str) -> Option<(char, &str)> {
+    for separator in [".-", "."] {
+        if let Some(rest) = after.strip_prefix(separator) {
+            let mut chars = rest.chars();
+            let letter = chars.next()?;
+            if letter.is_ascii_uppercase() && chars.next().is_none_or(|next| !next.is_alphabetic())
+            {
+                let remainder = &rest[letter.len_utf8()..];
+                if remainder.starts_with(['.', '-', ' ']) {
+                    return Some((letter, remainder));
+                }
+            }
+        }
+    }
+    None
+}
+
+/// `Artículo 15-D.- body`, `ARTICULO 1o. body`, `Artículo 4o.-A.- body`
+/// → `(number, body)`.
 fn parse_article_start(block: &str) -> Option<(String, &str)> {
     let rest = ["Artículo ", "ARTÍCULO ", "ARTICULO ", "Articulo "]
         .iter()
         .find_map(|prefix| block.strip_prefix(prefix))?;
     let rest = rest.trim_start();
     let label = labels::match_label_at(rest)?;
-    let after = &rest[label.raw().len()..];
+    let mut number = label.raw().to_owned();
+    let mut after = &rest[label.raw().len()..];
+    // `4o.-A` past-separator letter suffix, only for an ordinal base.
+    if label.raw().ends_with(['o', 'º', '°'])
+        && let Some((letter, remainder)) = ordinal_letter_suffix(after)
+    {
+        number = format!("{number}-{letter}");
+        after = remainder;
+    }
     for separator in [".-", ".", "-"] {
         if let Some(body) = after.strip_prefix(separator) {
-            return Some((label.raw().to_owned(), body.trim()));
+            return Some((number, body.trim()));
         }
     }
     None
@@ -342,7 +396,9 @@ impl ProvisionBuilder {
 
     fn finish(self, instrument_id: &str, publication_date: NaiveDate) -> Provision {
         let (kind, canonical_number) = match self.provision_type {
-            ProvisionType::Article => ("article", labels::slugify_label(&self.number)),
+            // Ordinal marks carry no identity: article "2o" is canonical
+            // id ":article:2", so a citation of bare "2" resolves to it.
+            ProvisionType::Article => ("article", labels::canonical_slug(&self.number)),
             ProvisionType::Transitory => ("transitory", slug(&self.number)),
             ProvisionType::Annex => ("annex", slug(&self.number)),
         };
@@ -595,9 +651,13 @@ mod tests {
             .filter(|provision| provision.provision_type == ProvisionType::Article)
             .map(|provision| provision.number.as_str())
             .collect();
-        // Letter suffixes, ordinal marks, ARTICULO capitalization, and
-        // period-only separators all survive.
-        assert_eq!(articles, ["1o", "2o", "15", "15-A", "15-B Bis", "16"]);
+        // Letter suffixes, ordinal marks, ARTICULO capitalization,
+        // period-only separators, and the `2o.-A` past-separator letter
+        // suffix all survive as written.
+        assert_eq!(
+            articles,
+            ["1o", "2o", "2o-A", "15", "15-A", "15-B Bis", "16"]
+        );
         let letter_suffix = document
             .provisions
             .iter()
@@ -606,6 +666,24 @@ mod tests {
         assert_eq!(
             letter_suffix.id,
             "urn:lex-mx:federal:code:sample:article:15-a"
+        );
+        // Ordinal marks are dropped from the canonical id so a citation of
+        // bare "2" resolves to article "2o"; the `2o.-A` heading yields a
+        // distinct "2-a".
+        let ordinal = document
+            .provisions
+            .iter()
+            .find(|provision| provision.number == "2o")
+            .expect("2o present");
+        assert_eq!(ordinal.id, "urn:lex-mx:federal:code:sample:article:2");
+        let ordinal_letter = document
+            .provisions
+            .iter()
+            .find(|provision| provision.number == "2o-A")
+            .expect("2o-A present");
+        assert_eq!(
+            ordinal_letter.id,
+            "urn:lex-mx:federal:code:sample:article:2-a"
         );
         assert_eq!(
             letter_suffix.heading_context.libro.as_deref(),
@@ -623,8 +701,10 @@ mod tests {
             .collect();
         // The narrative TRANSITORIOS mention inside article 16 must not
         // open the transitory section; the DECRETO cut keeps the reform
-        // decree's own transitories out of the instrument.
-        assert_eq!(transitories, ["PRIMERO", "DÉCIMO SEGUNDO"]);
+        // decree's own transitories out of the instrument. Both the
+        // "Artículo Primero" and bare "DÉCIMO SEGUNDO" heading forms are
+        // recognized and stored as written.
+        assert_eq!(transitories, ["Primero", "DÉCIMO SEGUNDO"]);
         assert_eq!(document.reform_evidence.len(), 1);
         assert_eq!(
             document.reform_evidence[0].provision_id,
