@@ -1,0 +1,194 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:article:15:reference:61-78:14:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:15",
+    "source_span": "artículo anterior",
+    "start_char": 61,
+    "end_char": 78,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:14",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:article:19:reference:1319-1320:4:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:19",
+    "source_span": "4",
+    "start_char": 1319,
+    "end_char": 1320,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 1293,
+        "end_char": 1305
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:article:38:reference:930-948:39:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:38",
+    "source_span": "artículo siguiente",
+    "start_char": 930,
+    "end_char": 948,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:39",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:article:46:reference:208-209:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:46",
+    "source_span": "3",
+    "start_char": 208,
+    "end_char": 209,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción X",
+        "start_char": 184,
+        "end_char": 194
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:article:52:reference:1041-1043:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:52",
+    "source_span": "II",
+    "start_char": 1041,
+    "end_char": 1043,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1041,
+        "end_char": 1043
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:article:52:reference:1274-1276:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:52",
+    "source_span": "II",
+    "start_char": 1274,
+    "end_char": 1276,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1274,
+        "end_char": 1276
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:article:52:reference:1630-1632:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:52",
+    "source_span": "II",
+    "start_char": 1630,
+    "end_char": 1632,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 1630,
+        "end_char": 1632
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:article:52:reference:2108-2110:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:52",
+    "source_span": "II",
+    "start_char": 2108,
+    "end_char": 2110,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:52",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 2108,
+        "end_char": 2110
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:article:9:reference:801-819:10:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:9",
+    "source_span": "artículo siguiente",
+    "start_char": 801,
+    "end_char": 819,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:10",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:transitory:tercero:reference:267-269:46:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:transitory:tercero",
+    "source_span": "46",
+    "start_char": 267,
+    "end_char": 269,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:46",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

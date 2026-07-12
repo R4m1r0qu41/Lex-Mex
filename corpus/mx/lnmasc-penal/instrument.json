@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lnmasc-penal",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal",
+  "short_name": "LNMASC-PENAL",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-12-29",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-07-12T06:07:32.304008Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP.pdf",
+  "source_sha256": "8a0aca9303ab941a600274fd68043576bd7a55bae4ec228a3479398de0fcb332",
+  "extracted_text_sha256": "5113aad76416c0742f70a08213ba857c2050e3b6818bf89ee14a830ce9171123",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

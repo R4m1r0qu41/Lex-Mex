@@ -1,0 +1,12 @@
+[
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:amendment:2022-12-20:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2022-12-20",
+    "text": "El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:lnsijpa:amendment:2022-12-20:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2022-12-20",
+    "text": "Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores del gasto correspondiente, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes."
+  }
+]

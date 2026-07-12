@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lnep",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Nacional de Ejecución Penal",
+  "short_name": "LNEP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2016-06-16",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-07-12T06:07:27.959600Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf",
+  "source_sha256": "91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680",
+  "extracted_text_sha256": "e5a94d599f9ce02908cc70f35a27d3315a756a5eff51501e163c7f1de5fadfc0",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

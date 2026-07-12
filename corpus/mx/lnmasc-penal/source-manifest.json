@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnmascmp.htm",
+  "retrieved_at": "2026-07-12T06:07:32.304008Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 440265,
+  "etag": "\"6b7c9-617f9a58c6100\"",
+  "last_modified": "Wed, 08 May 2024 23:27:32 GMT",
+  "source_sha256": "8a0aca9303ab941a600274fd68043576bd7a55bae4ec228a3479398de0fcb332",
+  "extracted_text_sha256": "5113aad76416c0742f70a08213ba857c2050e3b6818bf89ee14a830ce9171123",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "00dc7b7aea2d4a6ee70f597e0647510bb94e9e41"
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:acuerdo",
+    "term": "Acuerdo",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "I",
+    "start_char": 57,
+    "end_char": 224,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:cita",
+    "term": "Cita",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "II",
+    "start_char": 224,
+    "end_char": 407,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:conferencia",
+    "term": "Conferencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "III",
+    "start_char": 407,
+    "end_char": 478,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "IV",
+    "start_char": 478,
+    "end_char": 538,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:facilitador",
+    "term": "Facilitador",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "V",
+    "start_char": 538,
+    "end_char": 690,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:intervinientes",
+    "term": "Intervinientes",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "VI",
+    "start_char": 690,
+    "end_char": 866,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:invitacion",
+    "term": "Invitación",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "VII",
+    "start_char": 866,
+    "end_char": 1019,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "VIII",
+    "start_char": 1019,
+    "end_char": 1121,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:mecanismos-alternativos",
+    "term": "Mecanismos Alternativos",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "IX",
+    "start_char": 1121,
+    "end_char": 1206,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:organo",
+    "term": "Órgano",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "X",
+    "start_char": 1206,
+    "end_char": 1369,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:requerido",
+    "term": "Requerido",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "XI",
+    "start_char": 1369,
+    "end_char": 1511,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:secretario",
+    "term": "Secretario",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "XII",
+    "start_char": 1511,
+    "end_char": 1614,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:solicitante",
+    "term": "Solicitante",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "XIII",
+    "start_char": 1614,
+    "end_char": 1775,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnmasc-penal:term:unidad-de-atencion-inmediata",
+    "term": "Unidad de Atención Inmediata",
+    "instrument_id": "urn:lex-mx:federal:statute:lnmasc-penal",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnmasc-penal:article:3",
+    "fraction": "XIV",
+    "start_char": 1775,
+    "end_char": 2021,
+    "basis": "express_definition"
+  }
+]

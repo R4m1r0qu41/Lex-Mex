@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lnsijpa",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNSIJPA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnsijpa.htm",
+  "retrieved_at": "2026-07-12T06:07:30.118942Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 847185,
+  "etag": "\"ced51-5f05d8534ad40\"",
+  "last_modified": "Wed, 21 Dec 2022 21:49:01 GMT",
+  "source_sha256": "8ab4065da6e313be48a524d93dfc9042fed41c2e5e0cf86c74894f58a18e218f",
+  "extracted_text_sha256": "8c6858294f96ea3f0d2d788d9b8185439a71d7ddc2ae5c434536482ef4b4b9e9",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "00dc7b7aea2d4a6ee70f597e0647510bb94e9e41"
+}
