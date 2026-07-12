@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lgn",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de la Guardia Nacional",
+  "short_name": "REG-LGN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2019-06-29",
+  "latest_reform_date": "2020-12-11",
+  "retrieved_at": "2026-07-12T07:51:42.778467Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf",
+  "source_sha256": "ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0",
+  "extracted_text_sha256": "8fd573957ffea45054f19cc85d388d9d6e1b1cab2f1f97a8e77112b3beb58a6a",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

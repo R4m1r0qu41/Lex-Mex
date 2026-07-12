@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lgsnsp:article:26
+instrument_id: urn:lex-mx:federal:statute:lgsnsp
+instrument: LGSNSP
+name: "Ley General del Sistema Nacional de Seguridad Pública"
+provision_type: article
+number: "26"
+aliases: ["LGSNSP — Artículo 26"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf
+source_sha256: 7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0
+---
+
+> Título TERCERO
+
+# Artículo 26
+
+Son funciones de la Conferencia Nacional de Secretarías de Seguridad Pública: I. Impulsar la coordinación de las actuaciones de las dependencias y entidades encargadas de la seguridad pública; II. Promover la capacitación, actualización y especialización de las personas integrantes de las Instituciones Policiales, conforme a sus programas de profesionalización; III. Elaborar propuestas de reformas a leyes y ordenamientos administrativos en materia de seguridad pública; IV. Formular propuestas al Secretariado Ejecutivo para la adecuación del programa rector de profesionalización de las Instituciones Policiales; V. Proponer la adopción y aplicación de políticas y programas de cooperación internacional sobre seguridad pública, en coordinación con las entidades y dependencias competentes; VI. Emitir las bases y reglas generales para la realización de operativos conjuntos, entre las dependencias encargadas de la seguridad pública federales, locales y municipales; VII. Garantizar que en las Instituciones Policiales se realice de manera homogénea y permanente, la certificación correspondiente, aprobada por el Secretariado Ejecutivo; VIII. Definir criterios homogéneos para la recopilación, sistematización y el manejo de información por parte de las Instituciones Policiales y promover su aplicación; IX. Proponer mecanismos de coordinación, en materia de investigación de delitos, a la Conferencia Nacional de Procuración de Justicia; X. Proponer mecanismos de coordinación y cooperación con el Poder Judicial de la Federación y los poderes judiciales de las entidades federativas, para la mejora de procedimientos policiales, de investigación de delitos y demás acciones tendientes a cumplir con los fines de la seguridad pública y del proceso penal; XI. Proponer reglas para coadyuvar en la vigilancia y realización de acciones conjuntas para proteger las instalaciones estratégicas del país, en los términos de la legislación aplicable; XII. Formular estrategias de coordinación en materia de combate a la corrupción, protección de personas, atención a víctimas y ofendidos de delitos, en el ámbito de sus competencias; XIII. Impulsar las acciones necesarias para promover la denuncia de los delitos y la participación de la comunidad en el ámbito de sus funciones; que incluya el establecimiento de un servicio de comunicación que reciba los reportes de la comunidad, sobre emergencias, faltas y delitos; XIV. Generar mecanismos de coordinación y colaboración para la aplicación, ejecución, cumplimiento y seguimiento de medidas u órdenes de protección, en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y el Código Nacional de Procedimientos Penales; XV. Colaborar con las instituciones públicas y privadas, en la ejecución de programas tendientes a la prevención de las violencias y del delito; XVI. Impulsar las acciones necesarias para que las instituciones integrantes del Sistema establezcan un servicio para la localización de personas y bienes; XVII. Desarrollar las especialidades policiales de alto desempeño para hacer frente a los delitos de impacto nacional e internacional; XVIII. Generar mecanismos de coordinación y colaboración para la ejecución de políticas, lineamientos y criterios para la actuación, infraestructura y procesos de los Centros de Comando y Control, tendentes a promover la homologación, interoperabilidad y buenas prácticas, y XIX. Las demás que le otorga esta Ley y otras disposiciones aplicables.

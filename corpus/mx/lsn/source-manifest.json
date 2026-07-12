@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lsn",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsn.htm",
+  "retrieved_at": "2026-07-12T07:51:38.311718Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 666346,
+  "etag": "\"a2aea-644ad481aa280\"",
+  "last_modified": "Fri, 28 Nov 2025 20:14:50 GMT",
+  "source_sha256": "7b3cf7a0ff59f76503a97a535457c4a7dd3b1305e7a36f4fca82bd661eab1168",
+  "extracted_text_sha256": "e52f1551ed6be24bf872416b13bac58ef935481d2b3c041ce2412eb0614c2a76",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "79a1bb536479fee8b7a3cd881de319c9e154ecb1"
+}

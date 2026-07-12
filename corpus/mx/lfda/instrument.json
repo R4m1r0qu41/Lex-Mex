@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfda",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal del Derecho de Autor",
+  "short_name": "LFDA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1996-12-24",
+  "latest_reform_date": "2026-05-14",
+  "retrieved_at": "2026-07-12T07:55:23.647011Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
+  "source_sha256": "1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5",
+  "extracted_text_sha256": "e70ffde17da22d64200ebb1249df14d36f05bde7c1e3defc38db46587e8c5eae",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

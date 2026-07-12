@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgn",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgn.htm",
+  "retrieved_at": "2026-07-12T07:51:40.484695Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 482695,
+  "etag": "\"75d87-63a3a19d27100\"",
+  "last_modified": "Fri, 18 Jul 2025 20:37:56 GMT",
+  "source_sha256": "dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd",
+  "extracted_text_sha256": "fb5d3a99bebd879b3100b3f6eb97d706011bc36feca7f97a0c92702ee62013f3",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "79a1bb536479fee8b7a3cd881de319c9e154ecb1"
+}

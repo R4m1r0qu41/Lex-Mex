@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lcm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Concursos Mercantiles",
+  "short_name": "LCM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2000-05-12",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-12T07:56:55.205568Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf",
+  "source_sha256": "8e270686b885035488bfe310b0b42bb40e7154431794227ebe212dd7dc12e46a",
+  "extracted_text_sha256": "44e82827083ce334aad9274951af92e6953bf7a876a428ee477dd7a5e4b9aa8d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

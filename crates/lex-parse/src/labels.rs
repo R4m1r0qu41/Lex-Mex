@@ -280,6 +280,14 @@ fn is_letter(character: char) -> bool {
 
 fn parse_qualifier(cursor: &mut Cursor) -> Option<(u8, String)> {
     let start = cursor.position;
+    // An ordinal-abbreviation dot may sit between the base and the
+    // qualifier: `2o. Bis`, `2o. Ter`. Consume it only when it is
+    // followed by inline whitespace (never `.-`, which introduces a
+    // heading body, nor `.Bis`). The `start` rollback below undoes this
+    // if no qualifier ultimately matches.
+    if cursor.peek() == Some('.') && matches!(cursor.rest().as_bytes().get(1), Some(b' ' | b'\t')) {
+        cursor.position += 1;
+    }
     // Qualifier join: inline space, a single line break, or a hyphen.
     let mut joined = cursor.eat_join();
     if !joined {
@@ -378,7 +386,22 @@ pub fn match_label_at(text: &str) -> Option<ArticleLabel> {
     let mut end = cursor.position;
     loop {
         if !cursor.eat_join() {
-            break;
+            // A hyphen also joins a trailing numeric component to a
+            // qualifier: `270 Bis-1`, `270 Bis-2` (the space form
+            // `270 Bis 1` already joins via `eat_join`). Require a digit
+            // so a letter suffix or hyphenated qualifier, both consumed
+            // inside `parse_component`, are never re-read here.
+            if cursor.peek() == Some('-')
+                && cursor
+                    .rest()
+                    .as_bytes()
+                    .get(1)
+                    .is_some_and(u8::is_ascii_digit)
+            {
+                cursor.position += 1;
+            } else {
+                break;
+            }
         }
         let Some(component) = parse_component(&mut cursor) else {
             break;
@@ -434,6 +457,15 @@ mod tests {
     }
 
     #[test]
+    fn hyphen_joins_numeric_tail_to_qualifier() {
+        // `270 Bis-1` / `270 Bis-2` (LCM) canonicalize like the space form.
+        assert_eq!(full("270 Bis-1").slug(), "270-bis-1");
+        assert_eq!(full("270 Bis-1").sort_key(), full("270 Bis 1").sort_key());
+        assert_ne!(full("270 Bis-1").sort_key(), full("270 Bis-2").sort_key());
+        assert!(full("270 Bis").sort_key() < full("270 Bis-1").sort_key());
+    }
+
+    #[test]
     fn letter_suffix_does_not_swallow_qualifiers() {
         let letter = full("32-A");
         assert_eq!(letter.slug(), "32-a");
@@ -454,6 +486,18 @@ mod tests {
         assert_eq!(canonical_slug("2º"), canonical_slug("2o"));
         assert_eq!(full("1o").canonical_slug(), "1");
         assert_eq!(full("1o").slug(), "1o");
+    }
+
+    #[test]
+    fn ordinal_abbreviation_dot_precedes_qualifier() {
+        // `Artículo 2o. Bis` (LFDO): the abbreviation dot must not strand
+        // the qualifier, which would collapse `2o Bis` onto base `2`.
+        assert_eq!(full("2o. Bis").slug(), "2o-bis");
+        assert_eq!(full("2o. Ter").canonical_slug(), "2-ter");
+        assert_ne!(full("2o. Bis").canonical_slug(), canonical_slug("2o"));
+        // A bare heading body must not be read as a qualifier.
+        let label = match_label_at("2o.- Cuando tres o más").expect("label parses");
+        assert_eq!(label.raw(), "2o");
     }
 
     #[test]

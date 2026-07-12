@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lgn:article:22
+instrument_id: urn:lex-mx:federal:regulation:reg-lgn
+instrument: REG-LGN
+name: "Reglamento de la Ley de la Guardia Nacional"
+provision_type: article
+number: "22"
+aliases: ["REG-LGN — Artículo 22"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
+source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0
+---
+
+> Título SEGUNDO
+
+# Artículo 22
+
+La Jefatura General de Coordinación Policial se integra por personal de carrera policial, especialistas, ayudantía, analistas, auxiliares y cualquier otro que sea necesario para su correcto funcionamiento.

@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:term:acreedores-reconocidos",
+    "term": "Acreedores Reconocidos",
+    "instrument_id": "urn:lex-mx:federal:statute:lcm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 197,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:term:comerciante",
+    "term": "Comerciante",
+    "instrument_id": "urn:lex-mx:federal:statute:lcm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "fraction": "II",
+    "start_char": 197,
+    "end_char": 1380,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:term:domicilio",
+    "term": "Domicilio",
+    "instrument_id": "urn:lex-mx:federal:statute:lcm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "fraction": "III",
+    "start_char": 1380,
+    "end_char": 2235,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:statute:lcm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "fraction": "IV",
+    "start_char": 2235,
+    "end_char": 2408,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:term:masa",
+    "term": "Masa",
+    "instrument_id": "urn:lex-mx:federal:statute:lcm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "fraction": "V",
+    "start_char": 2408,
+    "end_char": 2712,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lcm:term:udis",
+    "term": "UDIs",
+    "instrument_id": "urn:lex-mx:federal:statute:lcm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lcm:article:4",
+    "fraction": "VI",
+    "start_char": 2712,
+    "end_char": 2855,
+    "basis": "express_definition"
+  }
+]

@@ -1,0 +1,18 @@
+---
+id: urn:lex-mx:federal:statute:lnrd:article:19
+instrument_id: urn:lex-mx:federal:statute:lnrd
+instrument: LNRD
+name: "Ley Nacional del Registro de Detenciones"
+provision_type: article
+number: "19"
+aliases: ["LNRD — Artículo 19"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNRD_270519.pdf
+source_sha256: 0a9852297132d8972d0c2f77e1b67d614bd296632109065e703bd09254187aea
+---
+
+# Artículo 19
+
+Cuando la detención se practique por autoridades que realicen funciones de apoyo a la seguridad pública, éstas, bajo su más estricta responsabilidad, deberán dar aviso, inmediatamente, de la detención a la autoridad policial competente, brindando la información necesaria para que ésta genere el registro correspondiente, en términos de lo establecido por esta Ley.

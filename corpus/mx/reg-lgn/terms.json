@@ -1,0 +1,233 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:actos-del-servicio",
+    "term": "Actos del Servicio",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "I",
+    "start_char": 52,
+    "end_char": 286,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:coordinador-de-administracion-y-finanzas",
+    "term": "Coordinador de Administración y Finanzas",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "II",
+    "start_char": 286,
+    "end_char": 461,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:comandante",
+    "term": "Comandante",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "III",
+    "start_char": 461,
+    "end_char": 521,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:concursante",
+    "term": "Concursante",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "IV",
+    "start_char": 521,
+    "end_char": 642,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:consejo-de-carrera",
+    "term": "Consejo de Carrera",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "V",
+    "start_char": 642,
+    "end_char": 712,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:institucion",
+    "term": "Institución",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "VII",
+    "start_char": 841,
+    "end_char": 881,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:instituciones-de-seguridad-publica",
+    "term": "Instituciones de seguridad pública",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "VIII",
+    "start_char": 881,
+    "end_char": 1088,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:integrante-de-carrera",
+    "term": "Integrante de Carrera",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "IX",
+    "start_char": 1088,
+    "end_char": 1382,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "X",
+    "start_char": 1382,
+    "end_char": 1422,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:ley-general",
+    "term": "Ley General",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XI",
+    "start_char": 1422,
+    "end_char": 1498,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:manual-de-organizacion",
+    "term": "Manual de Organización",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XII",
+    "start_char": 1498,
+    "end_char": 1573,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:manual-de-uniformes-y-equipo",
+    "term": "Manual de Uniformes y Equipo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XIII",
+    "start_char": 1573,
+    "end_char": 1672,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:manual-del-consejo",
+    "term": "Manual del Consejo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XIV",
+    "start_char": 1672,
+    "end_char": 1750,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:ministerio-publico",
+    "term": "Ministerio Público",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XV",
+    "start_char": 1750,
+    "end_char": 1815,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:presidente",
+    "term": "Presidente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XVI",
+    "start_char": 1815,
+    "end_char": 1880,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:promocion",
+    "term": "Promoción",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XVII",
+    "start_char": 1880,
+    "end_char": 2058,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:proximidad-social",
+    "term": "Proximidad Social",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XVIII",
+    "start_char": 2058,
+    "end_char": 2313,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:reconocimientos",
+    "term": "Reconocimientos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XIX",
+    "start_char": 2313,
+    "end_char": 2784,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XX",
+    "start_char": 2784,
+    "end_char": 2827,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XXI",
+    "start_char": 2827,
+    "end_char": 2896,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:term:secretario",
+    "term": "Secretario",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:2",
+    "fraction": "XXII",
+    "start_char": 2896,
+    "end_char": 3038,
+    "basis": "express_definition"
+  }
+]

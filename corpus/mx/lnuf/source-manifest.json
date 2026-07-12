@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNUF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnuf.htm",
+  "retrieved_at": "2026-07-12T07:51:47.913164Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 569892,
+  "etag": "\"8b224-60fc76f270280\"",
+  "last_modified": "Thu, 25 Jan 2024 16:11:38 GMT",
+  "source_sha256": "0c11f4464286e7411713a80361a2e1ab15c4cc55bff80b4e6ee4a4333592d50c",
+  "extracted_text_sha256": "a21e58c26765b51961763ff26dfcaeae9f71196bc5398e6b5064a24b3604a9b2",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "79a1bb536479fee8b7a3cd881de319c9e154ecb1"
+}

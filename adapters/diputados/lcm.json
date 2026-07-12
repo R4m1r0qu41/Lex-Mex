@@ -1,0 +1,23 @@
+{
+  "slug": "lcm",
+  "instrument_id": "urn:lex-mx:federal:statute:lcm",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Concursos Mercantiles",
+  "short_name": "LCM",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcm.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2000-05-12",
+  "expected_min_articles": 355,
+  "expected_articles": 355,
+  "expected_transitories": 9,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T07:56:56Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

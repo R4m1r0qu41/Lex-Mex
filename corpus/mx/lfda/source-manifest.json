@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfda",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfda.htm",
+  "retrieved_at": "2026-07-12T07:55:23.647011Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 969098,
+  "etag": "\"ec98a-65220e8893080\"",
+  "last_modified": "Tue, 19 May 2026 00:39:14 GMT",
+  "source_sha256": "1844f4e56b279c17061db90f4ab7970df3794e3a5ae10d74a0aec1f12641e7a5",
+  "extracted_text_sha256": "e70ffde17da22d64200ebb1249df14d36f05bde7c1e3defc38db46587e8c5eae",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "79a1bb536479fee8b7a3cd881de319c9e154ecb1"
+}

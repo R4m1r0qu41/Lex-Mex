@@ -1,0 +1,69 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:17:reference:757-759:23:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnrd:article:17",
+    "source_span": "23",
+    "start_char": 757,
+    "end_char": 759,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnrd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnrd:article:23",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 732,
+        "end_char": 743
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:article:5:reference:51-52:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnrd:article:5",
+    "source_span": "3",
+    "start_char": 51,
+    "end_char": 52,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnrd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnrd:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:quinto:reference:471-473:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:quinto",
+    "source_span": "19",
+    "start_char": 471,
+    "end_char": 473,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnrd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnrd:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnrd:transitory:segundo:reference:174-176:13:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnrd:transitory:segundo",
+    "source_span": "13",
+    "start_char": 174,
+    "end_char": 176,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lnrd",
+    "target_provision_id": "urn:lex-mx:federal:statute:lnrd:article:13",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

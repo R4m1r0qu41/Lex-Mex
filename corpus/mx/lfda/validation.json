@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfda",
+  "valid": true,
+  "article_count": 258,
+  "transitory_count": 9,
+  "reference_count": 80,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "article_gap",
+      "message": "articles between 134 and 136 are absent (derogated, or a parse gap)",
+      "provision_id": "urn:lex-mx:federal:statute:lfda:article:136"
+    }
+  ]
+}

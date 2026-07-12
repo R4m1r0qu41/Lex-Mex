@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfdo",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal contra la Delincuencia Organizada",
+  "short_name": "LFDO",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1996-11-07",
+  "latest_reform_date": "2025-11-28",
+  "retrieved_at": "2026-07-12T07:54:40.666715Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf",
+  "source_sha256": "6f9b44bd6bc8c19aad3747e9198f2c5543b0415afa4a3cd63b4bd995091932ad",
+  "extracted_text_sha256": "f8f5b10cb6b6c417564d28bfcb94017b8c55548afd480f6918a482a48f85c5c2",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

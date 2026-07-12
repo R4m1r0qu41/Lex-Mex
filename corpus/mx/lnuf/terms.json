@@ -1,0 +1,156 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:agente",
+    "term": "Agente",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "I",
+    "start_char": 56,
+    "end_char": 450,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:armas-de-fuego",
+    "term": "Armas de fuego",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "II",
+    "start_char": 450,
+    "end_char": 632,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:armas-menos-letales",
+    "term": "Armas menos letales",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "III",
+    "start_char": 632,
+    "end_char": 830,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:armas-letales",
+    "term": "Armas letales",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "IV",
+    "start_char": 830,
+    "end_char": 942,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:control",
+    "term": "Control",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "V",
+    "start_char": 942,
+    "end_char": 1075,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:detencion",
+    "term": "Detención",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "VI",
+    "start_char": 1075,
+    "end_char": 1236,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:instituciones-de-seguridad-publica",
+    "term": "Instituciones de Seguridad Pública",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "VII",
+    "start_char": 1236,
+    "end_char": 1546,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:estructuras-corporales",
+    "term": "Estructuras corporales",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "VIII",
+    "start_char": 1546,
+    "end_char": 1671,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:funciones-corporales",
+    "term": "Funciones corporales",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "IX",
+    "start_char": 1671,
+    "end_char": 1860,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:lesion",
+    "term": "Lesión",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "X",
+    "start_char": 1860,
+    "end_char": 1958,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:lesion-grave",
+    "term": "Lesión grave",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "XI",
+    "start_char": 1958,
+    "end_char": 2123,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "XII",
+    "start_char": 2123,
+    "end_char": 2177,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:sujetos-obligados",
+    "term": "Sujetos Obligados",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "XIII",
+    "start_char": 2177,
+    "end_char": 2285,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:term:uso-de-la-fuerza",
+    "term": "Uso de la Fuerza",
+    "instrument_id": "urn:lex-mx:federal:statute:lnuf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "fraction": "XIV",
+    "start_char": 2285,
+    "end_char": 2877,
+    "basis": "express_definition"
+  }
+]

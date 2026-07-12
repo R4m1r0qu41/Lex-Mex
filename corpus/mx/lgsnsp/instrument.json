@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgsnsp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General del Sistema Nacional de Seguridad Pública",
+  "short_name": "LGSNSP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-07-16",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T07:51:34.356901Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNSP.pdf",
+  "source_sha256": "7f01ee1b1deb901a23976507adccbddefbea50b0fc9a4ddceaf1225d711d50d0",
+  "extracted_text_sha256": "fab3df883cf0596be93222b6f366622df42d146e09513ccaffb713b85015b9f8",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgn",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de la Guardia Nacional",
+  "short_name": "LGN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-07-16",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T07:51:40.484695Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf",
+  "source_sha256": "dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd",
+  "extracted_text_sha256": "fb5d3a99bebd879b3100b3f6eb97d706011bc36feca7f97a0c92702ee62013f3",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

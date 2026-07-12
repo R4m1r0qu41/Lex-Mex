@@ -1,0 +1,9 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lsn",
+  "valid": true,
+  "article_count": 76,
+  "transitory_count": 7,
+  "reference_count": 13,
+  "issues": []
+}

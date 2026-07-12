@@ -1,0 +1,245 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:1:term-usage:33-36",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 33,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:1:term-usage:508-511",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 508,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:2:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:2:term-usage:952-955",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 952,
+    "end_char": 955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:3:term-usage:32-35",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 32,
+    "end_char": 35
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:3:term-usage:571-574",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 571,
+    "end_char": 574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:3:term-usage:1508-1511",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 1508,
+    "end_char": 1511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:3:term-usage:2158-2174",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:uso-de-la-fuerza",
+    "span": "Uso de la Fuerza",
+    "start_char": 2158,
+    "end_char": 2174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:4:term-usage:1385-1388",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 1385,
+    "end_char": 1388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:8:term-usage:400-416",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:uso-de-la-fuerza",
+    "span": "Uso de la Fuerza",
+    "start_char": 400,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:13:term-usage:488-504",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:uso-de-la-fuerza",
+    "span": "Uso de la Fuerza",
+    "start_char": 488,
+    "end_char": 504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:15:term-usage:469-472",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 469,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:15:term-usage:880-883",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 880,
+    "end_char": 883
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:16:term-usage:1117-1124",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:agente",
+    "span": "Agentes",
+    "start_char": 1117,
+    "end_char": 1124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:18:term-usage:539-542",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 539,
+    "end_char": 542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:20:term-usage:299-310",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:detencion",
+    "span": "Detenciones",
+    "start_char": 299,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:21:term-usage:122-125",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 122,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:21:term-usage:977-980",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 977,
+    "end_char": 980
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:21:term-usage:1006-1017",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:detencion",
+    "span": "Detenciones",
+    "start_char": 1006,
+    "end_char": 1017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:22:term-usage:375-378",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 375,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:28:term-usage:163-166",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 163,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:28:term-usage:225-241",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:uso-de-la-fuerza",
+    "span": "Uso de la Fuerza",
+    "start_char": 225,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:30:term-usage:152-155",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 152,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:31:term-usage:663-679",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:uso-de-la-fuerza",
+    "span": "Uso de la Fuerza",
+    "start_char": 663,
+    "end_char": 679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:42:term-usage:261-264",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 261,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:article:43:term-usage:31-34",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 31,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnuf:transitory:primero:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:lnuf:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:lnuf:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfdo",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcdo.htm",
+  "retrieved_at": "2026-07-12T07:54:40.666715Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 692224,
+  "etag": "\"a9000-644eeed746f40\"",
+  "last_modified": "Tue, 02 Dec 2025 02:33:57 GMT",
+  "source_sha256": "6f9b44bd6bc8c19aad3747e9198f2c5543b0415afa4a3cd63b4bd995091932ad",
+  "extracted_text_sha256": "f8f5b10cb6b6c417564d28bfcb94017b8c55548afd480f6918a482a48f85c5c2",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "79a1bb536479fee8b7a3cd881de319c9e154ecb1"
+}
