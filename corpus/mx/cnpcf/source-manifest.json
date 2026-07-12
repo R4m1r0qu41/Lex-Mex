@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:code:cnpcf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cnpcf.htm",
+  "retrieved_at": "2026-07-12T07:44:40.916203Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 2680035,
+  "etag": "\"28e4e3-6494d1337d700\"",
+  "last_modified": "Mon, 26 Jan 2026 16:34:04 GMT",
+  "source_sha256": "6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8",
+  "extracted_text_sha256": "25eaae1f1a49c6584bb3e4ef1baed5c7612b4d1d5fe324c0933f21d7fd2adce3",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9429d2bba582be0db289c13bed02d3735c4be10c"
+}

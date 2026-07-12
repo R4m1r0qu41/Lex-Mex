@@ -1,0 +1,145 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "term": "Auxiliares",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "I",
+    "start_char": 44,
+    "end_char": 864,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "term": "Concentración",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "II",
+    "start_char": 864,
+    "end_char": 1210,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:dependencia-coordinadora-de-sector",
+    "term": "Dependencia coordinadora de sector",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "III",
+    "start_char": 1210,
+    "end_char": 1609,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:cuenta-corriente",
+    "term": "Cuenta Corriente",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "IV",
+    "start_char": 1609,
+    "end_char": 1675,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "term": "Dependencias",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "V",
+    "start_char": 1675,
+    "end_char": 1893,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "term": "Entero",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "VI",
+    "start_char": 1893,
+    "end_char": 2189,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "term": "Entidades",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "VII",
+    "start_char": 2189,
+    "end_char": 2416,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:entidades-federativas",
+    "term": "Entidades Federativas",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "VIII",
+    "start_char": 2416,
+    "end_char": 2579,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "term": "Funciones de tesorería",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "IX",
+    "start_char": 2579,
+    "end_char": 2969,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "X",
+    "start_char": 2969,
+    "end_char": 3012,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "XI",
+    "start_char": 3012,
+    "end_char": 3074,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:sistema-de-cuenta-unica-de-tesoreria",
+    "term": "Sistema de Cuenta Única de Tesorería",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "XII",
+    "start_char": 3074,
+    "end_char": 3751,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "term": "Tesorería",
+    "instrument_id": "urn:lex-mx:federal:statute:ltf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "fraction": "XIII",
+    "start_char": 3751,
+    "end_char": 3798,
+    "basis": "express_definition"
+  }
+]

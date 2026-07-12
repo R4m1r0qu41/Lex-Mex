@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lce",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Comercio Exterior",
+  "short_name": "REG-LCE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1993-12-30",
+  "latest_reform_date": "2014-05-22",
+  "retrieved_at": "2026-07-12T07:43:04.618482Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LCE.pdf",
+  "source_sha256": "14d38a7a24e4d8e5093951b5e80a87f331fa3ea0be2164269573a8b9e4c291dd",
+  "extracted_text_sha256": "0bf38d7880fde0c96c88bc5d55c06cefd45b66792ff0c4310c264f5030afe3da",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfprh",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfprh.htm",
+  "retrieved_at": "2026-07-12T07:42:47.222983Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1411811,
+  "etag": "\"158ae3-64fb300f41380\"",
+  "last_modified": "Sat, 18 Apr 2026 02:41:34 GMT",
+  "source_sha256": "ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741",
+  "extracted_text_sha256": "1a3a27512fa2f67f21db88822b041331b461dc96eda4bf7f1f1c57a104d4ca85",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9429d2bba582be0db289c13bed02d3735c4be10c"
+}

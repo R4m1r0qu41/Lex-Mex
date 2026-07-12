@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ldfefm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldfefm.htm",
+  "retrieved_at": "2026-07-12T07:42:52.001954Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 547164,
+  "etag": "\"8595c-5e06a4a2a61c0\"",
+  "last_modified": "Wed, 01 Jun 2022 22:19:59 GMT",
+  "source_sha256": "04c25edb67f0a8b6704cd7d56b7a4bb9f455c77a060199962317bbdb7c889247",
+  "extracted_text_sha256": "22467381c5e0eba71b72936f7736dd2489d59d50f957d9aa8ca6f9b29bca1252",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9429d2bba582be0db289c13bed02d3735c4be10c"
+}

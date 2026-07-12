@@ -1,0 +1,36 @@
+---
+id: urn:lex-mx:federal:statute:ladua:article:157
+instrument_id: urn:lex-mx:federal:statute:ladua
+instrument: LADUA
+name: "Ley Aduanera"
+provision_type: article
+number: "157"
+aliases: ["LADUA — Artículo 157"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf
+source_sha256: 43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d
+---
+
+> Capítulo II · Sección TERCERA
+
+# Artículo 157
+
+Tratándose de mercancías perecederas, de fácil descomposición o deterioro, de animales vivos, explosivas, inflamables, corrosivas, contaminantes, radiactivas o radioactivas, que sean objeto de embargo precautorio y que, dentro de los diez días siguientes a su embargo, no se hubiere comprobado su legal estancia o tenencia en el país, las autoridades aduaneras podrán proceder a su destrucción, donación o asignación. Tratándose de vehículos automotores, aeronaves y embarcaciones serán transferidos para su venta a la autoridad competente para su administración y destino conforme a lo previsto en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, una vez emitida la resolución que ponga fin al procedimiento administrativo de que se trate, siempre que no se hubiere comprobado su legal estancia o tenencia en el país. Párrafo reformado DOF 25-06-2018, 19-11-2025
+
+Respecto de las mercancías embargadas conforme al artículo [151](articulo-151.md), fracciones VI y VII de esta Ley, si dentro de los diez días siguientes a su embargo, no se hubieran desvirtuado los supuestos que hayan dado lugar al embargo precautorio o no se hubiera acreditado que el valor declarado fue determinado de conformidad con el Título Tercero, Capítulo III, Sección Primera de esta Ley, según sea el caso, se procederá a su destrucción, donación, asignación o transferencia para venta.
+
+Cuando una resolución definitiva ordene la devolución de las mercancías y la autoridad aduanera haya comunicado al particular que existe imposibilidad para devolver las mismas, el particular podrá optar por solicitar la entrega de un bien sustituto con valor similar, o el valor del bien, actualizado conforme lo establece el párrafo siguiente. No procederá la entrega de un bien sustituto tratándose de mercancías perecederas, de fácil descomposición o deterioro, explosivas, inflamables, corrosivas, contaminantes, radiactivas o radioactivas, de animales vivos, o de las mercancías embargadas en términos del artículo [151](articulo-151.md), fracciones VI y VII de esta Ley. Párrafo reformado DOF 25-06-2018
+
+En el caso de que las autoridades aduaneras o la autoridad competente para administrar y dar destino a dichas mercancías de conformidad con la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, hayan procedido a la destrucción, donación o asignación de mercancías, la resolución definitiva que ordene la devolución de las mismas, considerará el valor determinado en el dictamen de clasificación arancelaria y de valor en aduana, practicado por la autoridad aduanera competente con motivo del procedimiento administrativo en materia aduanera, actualizándolo en los términos establecidos en el artículo 17-A del Código Fiscal de la Federación, a partir de la fecha en la que el particular haya obtenido una resolución administrativa o judicial firme, donde se le reconozca el derecho a obtener el pago del valor de las mercancías embargadas, hasta que se dicte la resolución correspondiente. El cálculo para la determinación del pago, deberá efectuarse hasta que se dicte la resolución correspondiente. Párrafo reformado DOF 25-06-2018, 19-11-2025
+
+Tratándose de mercancías enajenadas por la autoridad competente para administrar y dar destino a dichas mercancías de conformidad con la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, la resolución definitiva que ordene la devolución de las mismas, considerará el valor obtenido por la venta, de conformidad con lo establecido en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público. El cálculo para la determinación del pago, deberá efectuarse hasta que se dicte la resolución correspondiente. Párrafo adicionado DOF 19-11-2025
+
+El particular que obtenga una resolución administrativa o judicial firme, que ordene la devolución o el pago del valor de la mercancía o, en su caso, que declare la nulidad de la resolución que determinó que la mercancía pasó a propiedad del Fisco Federal, y acredite mediante documento idóneo tener un derecho subjetivo legítimamente reconocido sobre los bienes, podrá solicitar al Servicio de Administración Tributaria la devolución de la mercancía, o en su caso, el pago del valor de la mercancía, dentro del plazo de dos años, contados a partir de que la resolución o sentencia haya causado ejecutoria.
+
+Cuando la persona que obtenga una resolución administrativa o judicial firme, de manera excepcional sea distinta a quien acredite tener el derecho subjetivo legítimamente reconocido sobre los bienes, ambos deberán solicitar el resarcimiento en forma conjunta, designando a una de ellas de común acuerdo como el titular del derecho.
+
+Tratándose de mercancías embargadas en términos del artículo [151](articulo-151.md), fracciones VI y VII de esta Ley, la resolución definitiva que ordene la devolución del valor de las mercancías, considerará el valor declarado en el pedimento, adicionado con el coeficiente de utilidad a que se refiere el artículo 58 del Código Fiscal de la Federación, que corresponda conforme al giro de actividades del interesado. Párrafo reformado DOF 25-06-2018
+
+Artículo reformado DOF 31-12-1998, 30-12-2002, 09-12-2013

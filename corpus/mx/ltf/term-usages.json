@@ -1,0 +1,2864 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:1:term-usage:84-106",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 84,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:1:term-usage:196-206",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 196,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:1:term-usage:253-262",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 253,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:1:term-usage:337-349",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 337,
+    "end_char": 349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:1:term-usage:351-360",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 351,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:1:term-usage:446-467",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 446,
+    "end_char": 467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:1:term-usage:530-551",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 530,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:1:term-usage:618-639",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 618,
+    "end_char": 639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:1:term-usage:816-838",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 816,
+    "end_char": 838
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:109-121",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 109,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:123-132",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 123,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:218-239",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 218,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:302-323",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 302,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:390-411",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 390,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:754-763",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 754,
+    "end_char": 763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:827-849",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 827,
+    "end_char": 849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:941-950",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 941,
+    "end_char": 950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:957-967",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 957,
+    "end_char": 967
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:973-989",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:cuenta-corriente",
+    "span": "Cuenta Corriente",
+    "start_char": 973,
+    "end_char": 989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:1031-1040",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 1031,
+    "end_char": 1040
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:1543-1552",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 1543,
+    "end_char": 1552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:1934-1943",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 1934,
+    "end_char": 1943
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:1997-2013",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:cuenta-corriente",
+    "span": "Cuenta Corriente",
+    "start_char": 1997,
+    "end_char": 2013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:2055-2064",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 2055,
+    "end_char": 2064
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:2653-2662",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 2653,
+    "end_char": 2662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:3106-3115",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3106,
+    "end_char": 3115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:3172-3181",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3172,
+    "end_char": 3181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:3199-3215",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:cuenta-corriente",
+    "span": "Cuenta Corriente",
+    "start_char": 3199,
+    "end_char": 3215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:3350-3359",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3350,
+    "end_char": 3359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:3366-3378",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 3366,
+    "end_char": 3378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:3381-3390",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 3381,
+    "end_char": 3390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:2:term-usage:3724-3746",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 3724,
+    "end_char": 3746
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:3:term-usage:69-78",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 69,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:3:term-usage:85-95",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 85,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:4:term-usage:233-243",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 233,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:4:term-usage:263-272",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:4",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 263,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:5:term-usage:4-26",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 4,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:5:term-usage:45-54",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 45,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:5:term-usage:130-140",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 130,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:5:term-usage:147-169",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 147,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:5:term-usage:229-239",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 229,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:5:term-usage:273-282",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 273,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:5:term-usage:289-311",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 289,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:5:term-usage:336-346",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 336,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:6:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:6:term-usage:80-102",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 80,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:6:term-usage:120-130",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 120,
+    "end_char": 130
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:6:term-usage:136-145",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 136,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:6:term-usage:152-162",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 152,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:6:term-usage:194-216",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 194,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:7:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:7:term-usage:91-101",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 91,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:7:term-usage:120-142",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 120,
+    "end_char": 142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:7:term-usage:173-195",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:7",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 173,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:49-57",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliar",
+    "start_char": 49,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:316-324",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliar",
+    "start_char": 316,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:444-452",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliar",
+    "start_char": 444,
+    "end_char": 452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:499-521",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 499,
+    "end_char": 521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:579-601",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 579,
+    "end_char": 601
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:649-659",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 649,
+    "end_char": 659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:708-717",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 708,
+    "end_char": 717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:831-839",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliar",
+    "start_char": 831,
+    "end_char": 839
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:1029-1037",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliar",
+    "start_char": 1029,
+    "end_char": 1037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:1317-1326",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 1317,
+    "end_char": 1326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:1360-1368",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliar",
+    "start_char": 1360,
+    "end_char": 1368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:8:term-usage:1627-1637",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1627,
+    "end_char": 1637
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:9:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:9",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:9:term-usage:54-64",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:9",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 54,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:9:term-usage:93-115",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:9",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 93,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:10:term-usage:4-26",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 4,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:10:term-usage:351-361",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:10",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 351,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:11:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:11",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:11:term-usage:156-178",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:11",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 156,
+    "end_char": 178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:12:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:12",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:12:term-usage:81-91",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:12",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 81,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:12:term-usage:241-263",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:12",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 241,
+    "end_char": 263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:12:term-usage:332-354",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:12",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 332,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:12:term-usage:477-486",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:12",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 477,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:13:term-usage:77-86",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 77,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:13:term-usage:314-335",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 314,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:14:term-usage:166-175",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 166,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:14:term-usage:242-264",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 242,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:14:term-usage:293-303",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 293,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:14:term-usage:345-354",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 345,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:14:term-usage:363-373",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 363,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:14:term-usage:425-434",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 425,
+    "end_char": 434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:14:term-usage:444-454",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 444,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:14:term-usage:481-503",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 481,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:14:term-usage:535-545",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 535,
+    "end_char": 545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:15:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:15",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:16:term-usage:28-50",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 28,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:16:term-usage:70-79",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 70,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:16:term-usage:88-98",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 88,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:16:term-usage:269-279",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:16",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 269,
+    "end_char": 279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:17:term-usage:3-39",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:sistema-de-cuenta-unica-de-tesoreria",
+    "span": "Sistema de Cuenta Única de Tesorería",
+    "start_char": 3,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:17:term-usage:66-78",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 66,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:17:term-usage:81-90",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 81,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:17:term-usage:255-291",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:17",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:sistema-de-cuenta-unica-de-tesoreria",
+    "span": "Sistema de Cuenta Única de Tesorería",
+    "start_char": 255,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:17-26",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 17,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:37-73",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:sistema-de-cuenta-unica-de-tesoreria",
+    "span": "Sistema de Cuenta Única de Tesorería",
+    "start_char": 37,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:499-508",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 499,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:541-551",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 541,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:591-607",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:cuenta-corriente",
+    "span": "Cuenta Corriente",
+    "start_char": 591,
+    "end_char": 607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:649-658",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 649,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:725-741",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:cuenta-corriente",
+    "span": "Cuenta Corriente",
+    "start_char": 725,
+    "end_char": 741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:780-789",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 780,
+    "end_char": 789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:815-824",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 815,
+    "end_char": 824
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:877-890",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 877,
+    "end_char": 890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:893-899",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "span": "Entero",
+    "start_char": 893,
+    "end_char": 899
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:999-1015",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:cuenta-corriente",
+    "span": "Cuenta Corriente",
+    "start_char": 999,
+    "end_char": 1015
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:18:term-usage:1057-1066",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 1057,
+    "end_char": 1066
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:19:term-usage:49-61",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:19",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 49,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:19:term-usage:64-73",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:19",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 64,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:19:term-usage:478-487",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:19",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 478,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:19:term-usage:581-590",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:19",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 581,
+    "end_char": 590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:19:term-usage:626-636",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:19",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 626,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:20:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:20",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:20:term-usage:110-122",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:20",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 110,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:20:term-usage:125-134",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:20",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 125,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:20:term-usage:234-243",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:20",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 234,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:20:term-usage:387-396",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:20",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 387,
+    "end_char": 396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:20:term-usage:500-516",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:20",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:cuenta-corriente",
+    "span": "Cuenta Corriente",
+    "start_char": 500,
+    "end_char": 516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:21:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:21:term-usage:154-167",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 154,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:21:term-usage:193-199",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "span": "Entero",
+    "start_char": 193,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:21:term-usage:596-606",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 596,
+    "end_char": 606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:22:term-usage:197-207",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 197,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:22:term-usage:245-258",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:22",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 245,
+    "end_char": 258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:3-16",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 3,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:157-167",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 157,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:485-494",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 485,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:631-644",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 631,
+    "end_char": 644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:694-707",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 694,
+    "end_char": 707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:937-946",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 937,
+    "end_char": 946
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:1125-1138",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 1125,
+    "end_char": 1138
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:1247-1256",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 1247,
+    "end_char": 1256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:1433-1446",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 1433,
+    "end_char": 1446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:1852-1865",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 1852,
+    "end_char": 1865
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:2369-2389",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Función de tesorería",
+    "start_char": 2369,
+    "end_char": 2389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:2441-2451",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 2441,
+    "end_char": 2451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:2740-2753",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 2740,
+    "end_char": 2753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:3257-3270",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 3257,
+    "end_char": 3270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:3491-3500",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3491,
+    "end_char": 3500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:3545-3558",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 3545,
+    "end_char": 3558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:3635-3643",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliar",
+    "start_char": 3635,
+    "end_char": 3643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:3779-3789",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 3779,
+    "end_char": 3789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:3992-4001",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3992,
+    "end_char": 4001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:23:term-usage:4146-4159",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 4146,
+    "end_char": 4159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:24:term-usage:25-34",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:24",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 25,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:24:term-usage:513-522",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:24",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 513,
+    "end_char": 522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:24:term-usage:639-648",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:24",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 639,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:25:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:25:term-usage:209-215",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "span": "Entero",
+    "start_char": 209,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:25:term-usage:221-234",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 221,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:25:term-usage:474-483",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 474,
+    "end_char": 483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:25:term-usage:551-560",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 551,
+    "end_char": 560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:25:term-usage:1047-1057",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:25",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1047,
+    "end_char": 1057
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:26:term-usage:85-94",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:26",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 85,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:26:term-usage:151-161",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:26",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 151,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:26:term-usage:252-261",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:26",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 252,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:26:term-usage:486-496",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:26",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 486,
+    "end_char": 496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:26:term-usage:511-523",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:26",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 511,
+    "end_char": 523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:26:term-usage:526-535",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:26",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 526,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:27:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:27",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:27:term-usage:115-131",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:27",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:cuenta-corriente",
+    "span": "Cuenta Corriente",
+    "start_char": 115,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:28:term-usage:172-181",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:28",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 172,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:28:term-usage:225-234",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:28",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 225,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:29:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:29",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:29:term-usage:646-656",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:29",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 646,
+    "end_char": 656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:29:term-usage:809-818",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:29",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 809,
+    "end_char": 818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:29:term-usage:927-937",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:29",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 927,
+    "end_char": 937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:30:term-usage:29-38",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 29,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:30:term-usage:148-157",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 148,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:30:term-usage:514-520",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "span": "Entero",
+    "start_char": 514,
+    "end_char": 520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:31:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:31",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:31:term-usage:156-165",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:31",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 156,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:31:term-usage:571-580",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:31",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 571,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:31:term-usage:1048-1058",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:31",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1048,
+    "end_char": 1058
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:32:term-usage:4-16",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 4,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:32:term-usage:63-72",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 63,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:32:term-usage:680-689",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 680,
+    "end_char": 689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:32:term-usage:828-838",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 828,
+    "end_char": 838
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:32:term-usage:859-868",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 859,
+    "end_char": 868
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:32:term-usage:998-1010",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 998,
+    "end_char": 1010
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:32:term-usage:1105-1115",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1105,
+    "end_char": 1115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:33:term-usage:3-37",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:33",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencia-coordinadora-de-sector",
+    "span": "Dependencia coordinadora de sector",
+    "start_char": 3,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:33:term-usage:54-63",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:33",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 54,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:33:term-usage:576-610",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:33",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencia-coordinadora-de-sector",
+    "span": "Dependencia coordinadora de sector",
+    "start_char": 576,
+    "end_char": 610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:33:term-usage:627-636",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:33",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 627,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:34:term-usage:3-37",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencia-coordinadora-de-sector",
+    "span": "Dependencia coordinadora de sector",
+    "start_char": 3,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:34:term-usage:263-272",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 263,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:34:term-usage:568-577",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 568,
+    "end_char": 577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:34:term-usage:869-879",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 869,
+    "end_char": 879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:34:term-usage:940-974",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencia-coordinadora-de-sector",
+    "span": "Dependencia coordinadora de sector",
+    "start_char": 940,
+    "end_char": 974
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:34:term-usage:996-1005",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 996,
+    "end_char": 1005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:34:term-usage:1117-1151",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencia-coordinadora-de-sector",
+    "span": "Dependencia coordinadora de sector",
+    "start_char": 1117,
+    "end_char": 1151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:34:term-usage:1174-1183",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 1174,
+    "end_char": 1183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:35:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:35",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:35:term-usage:34-43",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:35",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 34,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:35:term-usage:278-288",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:35",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 278,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:36:term-usage:65-71",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:36",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "span": "Entero",
+    "start_char": 65,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:36:term-usage:92-126",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:36",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencia-coordinadora-de-sector",
+    "span": "Dependencia coordinadora de sector",
+    "start_char": 92,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:36:term-usage:454-460",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:36",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "span": "Entero",
+    "start_char": 454,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:36:term-usage:558-568",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:36",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 558,
+    "end_char": 568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:37:term-usage:100-134",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:37",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencia-coordinadora-de-sector",
+    "span": "Dependencia coordinadora de sector",
+    "start_char": 100,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:37:term-usage:154-160",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:37",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "span": "Entero",
+    "start_char": 154,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:38:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:38",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:38:term-usage:178-187",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:38",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 178,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:38:term-usage:264-274",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:38",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 264,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:38:term-usage:311-320",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:38",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 311,
+    "end_char": 320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:38:term-usage:431-451",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:38",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Función de tesorería",
+    "start_char": 431,
+    "end_char": 451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:39:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:39",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:39:term-usage:259-269",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:39",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 259,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:39:term-usage:403-412",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:39",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 403,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:40:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:40",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:41:term-usage:78-87",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:41",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 78,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:41:term-usage:94-104",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:41",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 94,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:41:term-usage:411-421",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:41",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 411,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:41:term-usage:635-645",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:41",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 635,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:42:term-usage:17-26",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:42",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 17,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:42:term-usage:127-139",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:42",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 127,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:42:term-usage:145-154",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:42",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 145,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:42:term-usage:184-196",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:42",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 184,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:42:term-usage:236-246",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:42",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 236,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:43:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:43",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:43:term-usage:81-102",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:43",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 81,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:43:term-usage:170-179",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:43",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 170,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:43:term-usage:184-205",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:43",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 184,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:44:term-usage:78-87",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:44",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 78,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:44:term-usage:97-107",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:44",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 97,
+    "end_char": 107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:44:term-usage:532-542",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:44",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 532,
+    "end_char": 542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:45:term-usage:96-105",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 96,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:45:term-usage:686-696",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 686,
+    "end_char": 696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:45:term-usage:955-964",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 955,
+    "end_char": 964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:45:term-usage:1047-1056",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 1047,
+    "end_char": 1056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:45:term-usage:1122-1132",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 1122,
+    "end_char": 1132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:46:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:46:term-usage:145-155",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 145,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:46:term-usage:209-219",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:46",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 209,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:47:term-usage:42-54",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:47",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 42,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:47:term-usage:456-465",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:47",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 456,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:47:term-usage:645-654",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:47",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 645,
+    "end_char": 654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:47:term-usage:717-724",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:47",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidad",
+    "start_char": 717,
+    "end_char": 724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:48:term-usage:473-482",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:48",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 473,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:48:term-usage:686-695",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:48",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 686,
+    "end_char": 695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:49:term-usage:138-147",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:49",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 138,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:49:term-usage:249-259",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:49",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 249,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:50:term-usage:48-57",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:50",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 48,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:50:term-usage:555-564",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:50",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 555,
+    "end_char": 564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:50:term-usage:919-928",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:50",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 919,
+    "end_char": 928
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:52:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:52",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:52:term-usage:80-102",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:52",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 80,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:52:term-usage:549-558",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:52",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 549,
+    "end_char": 558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:265-275",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 265,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:598-620",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 598,
+    "end_char": 620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:732-742",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 732,
+    "end_char": 742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:856-866",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 856,
+    "end_char": 866
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:1104-1126",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 1104,
+    "end_char": 1126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:1146-1155",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 1146,
+    "end_char": 1155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:1491-1501",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 1491,
+    "end_char": 1501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:1787-1797",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1787,
+    "end_char": 1797
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:1829-1838",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 1829,
+    "end_char": 1838
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:2201-2223",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 2201,
+    "end_char": 2223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:2330-2343",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 2330,
+    "end_char": 2343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:2346-2352",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "span": "Entero",
+    "start_char": 2346,
+    "end_char": 2352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:2622-2632",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 2622,
+    "end_char": 2632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:2647-2669",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 2647,
+    "end_char": 2669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:2705-2715",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2705,
+    "end_char": 2715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:2912-2924",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencias",
+    "start_char": 2912,
+    "end_char": 2924
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:2927-2936",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades",
+    "span": "Entidades",
+    "start_char": 2927,
+    "end_char": 2936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:2966-2975",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 2966,
+    "end_char": 2975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:53:term-usage:3305-3315",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3305,
+    "end_char": 3315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:54:term-usage:126-139",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:54",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 126,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:54:term-usage:142-148",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:54",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "span": "Entero",
+    "start_char": 142,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:54:term-usage:166-175",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:54",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 166,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:54:term-usage:244-253",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:54",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 244,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:54:term-usage:466-479",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:54",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 466,
+    "end_char": 479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:54:term-usage:482-488",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:54",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "span": "Entero",
+    "start_char": 482,
+    "end_char": 488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:54:term-usage:1324-1333",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:54",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 1324,
+    "end_char": 1333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:54:term-usage:1544-1557",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:54",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 1544,
+    "end_char": 1557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:54:term-usage:1560-1566",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:54",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "span": "Entero",
+    "start_char": 1560,
+    "end_char": 1566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:54:term-usage:2488-2509",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:54",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 2488,
+    "end_char": 2509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:56:term-usage:260-270",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:56",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 260,
+    "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:56:term-usage:362-375",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:56",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:concentracion",
+    "span": "Concentración",
+    "start_char": 362,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:56:term-usage:378-384",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:56",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entero",
+    "span": "Entero",
+    "start_char": 378,
+    "end_char": 384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:57:term-usage:95-105",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 95,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:57:term-usage:260-269",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 260,
+    "end_char": 269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:57:term-usage:480-489",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 480,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:58:term-usage:324-333",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 324,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:58:term-usage:731-740",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 731,
+    "end_char": 740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:59:term-usage:73-82",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:59",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 73,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:59:term-usage:506-515",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:59",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 506,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:60:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:60:term-usage:65-75",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 65,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:60:term-usage:1330-1339",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 1330,
+    "end_char": 1339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:60:term-usage:1732-1741",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 1732,
+    "end_char": 1741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:article:60:term-usage:2204-2225",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:entidades-federativas",
+    "span": "Entidades Federativas",
+    "start_char": 2204,
+    "end_char": 2225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:segundo:term-usage:34-43",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 34,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:tercero:term-usage:106-116",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 106,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:tercero:term-usage:143-152",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 143,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:tercero:term-usage:238-247",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 238,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:tercero:term-usage:339-348",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 339,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:tercero:term-usage:395-405",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 395,
+    "end_char": 405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:cuarto:term-usage:285-295",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliares",
+    "start_char": 285,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:quinto:term-usage:102-111",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 102,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:quinto:term-usage:225-234",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 225,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:quinto:term-usage:381-390",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 381,
+    "end_char": 390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:sexto:term-usage:139-148",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 139,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:sexto:term-usage:209-218",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 209,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:sexto:term-usage:224-240",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:cuenta-corriente",
+    "span": "Cuenta Corriente",
+    "start_char": 224,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:septimo:term-usage:167-175",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:auxiliares",
+    "span": "Auxiliar",
+    "start_char": 167,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:octavo:term-usage:115-124",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 115,
+    "end_char": 124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:noveno:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:noveno:term-usage:307-316",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:tesoreria",
+    "span": "Tesorería",
+    "start_char": 307,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:decimo:term-usage:109-120",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:decimo",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:dependencias",
+    "span": "Dependencia",
+    "start_char": 109,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ltf:transitory:decimo-primero:term-usage:186-208",
+    "provision_id": "urn:lex-mx:federal:statute:ltf:transitory:decimo-primero",
+    "term_id": "urn:lex-mx:federal:statute:ltf:term:funciones-de-tesoreria",
+    "span": "Funciones de tesorería",
+    "start_char": 186,
+    "end_char": 208
+  }
+]

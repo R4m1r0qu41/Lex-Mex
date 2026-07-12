@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgcg",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Contabilidad Gubernamental",
+  "short_name": "LGCG",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2008-12-31",
+  "latest_reform_date": "2026-05-14",
+  "retrieved_at": "2026-07-12T07:42:49.832759Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf",
+  "source_sha256": "cf7f5220f083bdcd8eed4104bbdf40299221f32cd5c51e17b1f03b033e677815",
+  "extracted_text_sha256": "1a13eb00058d3e8098f78d4bbd79bc9c8293b9b0ee9f15bd80c570536a0e4733",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

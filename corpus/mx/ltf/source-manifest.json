@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ltf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltf.htm",
+  "retrieved_at": "2026-07-12T07:42:54.100608Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 410131,
+  "etag": "\"64213-576bc17fdee00\"",
+  "last_modified": "Wed, 26 Sep 2018 01:25:12 GMT",
+  "source_sha256": "ef712663724737ddfd8542c8104eeb983303f651b7cf8a76bba9d30539a7e6fa",
+  "extracted_text_sha256": "7dc748c805ff97ef3a360dd0ae9d858b3965b3638be4fb842b935ba2ac8eb60e",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9429d2bba582be0db289c13bed02d3735c4be10c"
+}

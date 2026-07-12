@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-ltf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Tesorería de la Federación",
+  "short_name": "REG-LTF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2017-06-30",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T07:42:56.214217Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LTF_300617.pdf",
+  "source_sha256": "0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0",
+  "extracted_text_sha256": "ff722eddbe635908f767e8607a5dcdd86cdd4b07405257707b8ab2276017e18e",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

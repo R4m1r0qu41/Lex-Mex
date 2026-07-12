@@ -1,0 +1,23 @@
+{
+  "slug": "lcf",
+  "instrument_id": "urn:lex-mx:federal:statute:lcf",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Coordinación Fiscal",
+  "short_name": "LCF",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcf.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1978-12-27",
+  "expected_min_articles": 67,
+  "expected_articles": 67,
+  "expected_transitories": 6,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T07:42:45Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

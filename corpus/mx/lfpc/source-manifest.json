@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfpc",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm",
+  "retrieved_at": "2026-07-12T07:43:20.768365Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1279976,
+  "etag": "\"1387e8-648343df17ec0\"",
+  "last_modified": "Mon, 12 Jan 2026 17:31:15 GMT",
+  "source_sha256": "7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55",
+  "extracted_text_sha256": "941a62d2cda530246038a2278a99f5456186dcdce6f36125fa6a71a8a070323b",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9429d2bba582be0db289c13bed02d3735c4be10c"
+}

@@ -1,0 +1,18 @@
+---
+id: urn:lex-mx:federal:code:cnpcf:article:421
+instrument_id: urn:lex-mx:federal:code:cnpcf
+instrument: CNPCF
+name: "Código Nacional de Procedimientos Civiles y Familiares"
+provision_type: article
+number: "421"
+aliases: ["CNPCF — Artículo 421"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
+source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
+---
+
+# Artículo 421
+
+La determinación que ordene que se mantengan las cosas en el estado que guarden al dictarse la medida, no prejuzga sobre la legalidad de la situación que se mantiene, ni sobre los derechos o responsabilidades del que la solicita, ni el pago de daños y perjuicios a que pueda resultar condenado de no ser procedente la medida de aseguramiento.

@@ -1,0 +1,344 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:5:term-usage:78-100",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 78,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:8:term-usage:188-210",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 188,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:8:term-usage:298-320",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 298,
+    "end_char": 320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:9:term-usage:933-940",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 933,
+    "end_char": 940
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:9:term-usage:3475-3482",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 3475,
+    "end_char": 3482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:10-bis:term-usage:98-105",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:10-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 98,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:10-bis:term-usage:594-601",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:10-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 594,
+    "end_char": 601
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:10-bis:term-usage:1206-1213",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:10-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 1206,
+    "end_char": 1213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:10-bis:term-usage:1491-1498",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:10-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 1491,
+    "end_char": 1498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:10-bis:term-usage:1587-1594",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:10-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 1587,
+    "end_char": 1594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:10-bis:term-usage:1705-1712",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:10-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 1705,
+    "end_char": 1712
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:10-bis:term-usage:1866-1873",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:10-bis",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 1866,
+    "end_char": 1873
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:11:term-usage:97-119",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 97,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:14:term-usage:1362-1384",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 1362,
+    "end_char": 1384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:15:term-usage:366-373",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 366,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:15:term-usage:697-704",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 697,
+    "end_char": 704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:15:term-usage:961-968",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 961,
+    "end_char": 968
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:25:term-usage:45-52",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 45,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:37:term-usage:619-641",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 619,
+    "end_char": 641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:53:term-usage:66-88",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 66,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:55:term-usage:200-207",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 200,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:57:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:66:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:72:term-usage:41-63",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 41,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:72:term-usage:1076-1098",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 1076,
+    "end_char": 1098
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:73:term-usage:5484-5506",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 5484,
+    "end_char": 5506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:77:term-usage:767-774",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 767,
+    "end_char": 774
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:77:term-usage:886-893",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 886,
+    "end_char": 893
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:78:term-usage:1983-2005",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 1983,
+    "end_char": 2005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:79:term-usage:536-558",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 536,
+    "end_char": 558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:79:term-usage:669-676",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 669,
+    "end_char": 676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:79:term-usage:982-989",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 982,
+    "end_char": 989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:80:term-usage:636-658",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 636,
+    "end_char": 658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:80:term-usage:1044-1066",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 1044,
+    "end_char": 1066
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:80:term-usage:1338-1345",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:sistema",
+    "span": "Sistema",
+    "start_char": 1338,
+    "end_char": 1345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:80:term-usage:1638-1645",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 1638,
+    "end_char": 1645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:article:80:term-usage:1904-1911",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:consejo",
+    "span": "Consejo",
+    "start_char": 1904,
+    "end_char": 1911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgcg:transitory:noveno:term-usage:143-165",
+    "provision_id": "urn:lex-mx:federal:statute:lgcg:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:statute:lgcg:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 143,
+    "end_char": 165
+  }
+]

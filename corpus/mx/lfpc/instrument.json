@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfpc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Protección al Consumidor",
+  "short_name": "LFPC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1992-12-24",
+  "latest_reform_date": "2025-12-12",
+  "retrieved_at": "2026-07-12T07:43:20.768365Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
+  "source_sha256": "7fea623841fd6e05e8c0d01d2cf09f85b0b8e58ba4d9e4f6711f8bad1f448e55",
+  "extracted_text_sha256": "941a62d2cda530246038a2278a99f5456186dcdce6f36125fa6a71a8a070323b",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

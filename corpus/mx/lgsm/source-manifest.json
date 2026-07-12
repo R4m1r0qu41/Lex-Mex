@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgsm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm.htm",
+  "retrieved_at": "2026-07-12T07:43:16.187587Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 835947,
+  "etag": "\"cc16b-6485caf63ac40\"",
+  "last_modified": "Wed, 14 Jan 2026 17:46:17 GMT",
+  "source_sha256": "72b051296792cad896ac90e814ff8949e4ac140bf5ca5cc08f2f03e5e95aeac3",
+  "extracted_text_sha256": "9b4dab152235b6e57c582806756491446d7a2b0345922887765aa25f561ef02c",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9429d2bba582be0db289c13bed02d3735c4be10c"
+}

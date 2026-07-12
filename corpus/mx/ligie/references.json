@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ligie:article:1:reference:1635491-1635492:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ligie:article:1",
+    "source_span": "2",
+    "start_char": 1635491,
+    "end_char": 1635492,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ligie",
+    "target_provision_id": "urn:lex-mx:federal:statute:ligie:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ligie:article:2:reference:4690-4691:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:ligie:article:2",
+    "source_span": "1",
+    "start_char": 4690,
+    "end_char": 4691,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ligie",
+    "target_provision_id": "urn:lex-mx:federal:statute:ligie:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

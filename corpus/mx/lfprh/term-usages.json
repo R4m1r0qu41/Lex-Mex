@@ -1,0 +1,3755 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:1:term-usage:637-646",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
+    "span": "Auditoría",
+    "start_char": 637,
+    "end_char": 646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:550-572",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 550,
+    "end_char": 572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:2070-2092",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 2070,
+    "end_char": 2092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:2347-2369",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 2347,
+    "end_char": 2369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:2475-2486",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 2475,
+    "end_char": 2486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:3605-3627",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 3605,
+    "end_char": 3627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:3827-3849",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 3827,
+    "end_char": 3849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:4007-4029",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 4007,
+    "end_char": 4029
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:4478-4500",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 4478,
+    "end_char": 4500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:6725-6735",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 6725,
+    "end_char": 6735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:7604-7626",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 7604,
+    "end_char": 7626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:7892-7914",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 7892,
+    "end_char": 7914
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:8436-8458",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 8436,
+    "end_char": 8458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:9162-9184",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 9162,
+    "end_char": 9184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:9818-9827",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 9818,
+    "end_char": 9827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:10215-10229",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 10215,
+    "end_char": 10229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:10340-10362",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 10340,
+    "end_char": 10362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:10529-10539",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 10529,
+    "end_char": 10539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:12224-12246",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 12224,
+    "end_char": 12246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:12456-12478",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 12456,
+    "end_char": 12478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:13394-13416",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 13394,
+    "end_char": 13416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:13506-13528",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 13506,
+    "end_char": 13528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:13759-13781",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 13759,
+    "end_char": 13781
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:13923-13945",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 13923,
+    "end_char": 13945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:14038-14060",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 14038,
+    "end_char": 14060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:14231-14257",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:responsabilidad-hacendaria",
+    "span": "Responsabilidad Hacendaria",
+    "start_char": 14231,
+    "end_char": 14257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:15463-15485",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 15463,
+    "end_char": 15485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:16682-16704",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 16682,
+    "end_char": 16704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:2:term-usage:18892-18902",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 18892,
+    "end_char": 18902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:3:term-usage:145-155",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 145,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:3:term-usage:445-455",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 445,
+    "end_char": 455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:3:term-usage:585-595",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 585,
+    "end_char": 595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:432-442",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 432,
+    "end_char": 442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:478-500",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 478,
+    "end_char": 500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:686-696",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 686,
+    "end_char": 696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:1002-1012",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1002,
+    "end_char": 1012
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:1421-1431",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1421,
+    "end_char": 1431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:1487-1501",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 1487,
+    "end_char": 1501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:1687-1697",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1687,
+    "end_char": 1697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:1733-1755",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1733,
+    "end_char": 1755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:2025-2035",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2025,
+    "end_char": 2035
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:2322-2332",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2322,
+    "end_char": 2332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:2417-2439",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 2417,
+    "end_char": 2439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:2747-2757",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2747,
+    "end_char": 2757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:2859-2881",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 2859,
+    "end_char": 2881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:5:term-usage:3088-3110",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 3088,
+    "end_char": 3110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:6:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:6:term-usage:685-695",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 685,
+    "end_char": 695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:7:term-usage:263-273",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 263,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:8:term-usage:52-62",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 52,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:8:term-usage:294-303",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 294,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:9:term-usage:85-95",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 85,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:9:term-usage:496-518",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 496,
+    "end_char": 518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:9:term-usage:711-720",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 711,
+    "end_char": 720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:9:term-usage:850-860",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 850,
+    "end_char": 860
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:9:term-usage:1110-1120",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1110,
+    "end_char": 1120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:9:term-usage:1141-1151",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1141,
+    "end_char": 1151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:9:term-usage:1475-1485",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1475,
+    "end_char": 1485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:9:term-usage:1507-1517",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1507,
+    "end_char": 1517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:9:term-usage:1595-1628",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:clasificador-por-objeto-del-gasto",
+    "span": "Clasificador por objeto del gasto",
+    "start_char": 1595,
+    "end_char": 1628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:9:term-usage:1853-1863",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1853,
+    "end_char": 1863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:9-bis:term-usage:188-198",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 188,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:9-bis:term-usage:1087-1097",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:9-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1087,
+    "end_char": 1097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:10:term-usage:355-365",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 355,
+    "end_char": 365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:10:term-usage:461-471",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 461,
+    "end_char": 471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:10:term-usage:626-636",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 626,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:10:term-usage:1278-1288",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1278,
+    "end_char": 1288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:11:term-usage:121-131",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 121,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:11:term-usage:184-194",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 184,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:11:term-usage:314-324",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 314,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:11:term-usage:345-355",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 345,
+    "end_char": 355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:11:term-usage:625-635",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 625,
+    "end_char": 635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:11:term-usage:668-682",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 668,
+    "end_char": 682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:12:term-usage:390-400",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 390,
+    "end_char": 400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:12:term-usage:592-601",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
+    "span": "Auditoría",
+    "start_char": 592,
+    "end_char": 601
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:12:term-usage:691-705",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 691,
+    "end_char": 705
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:13:term-usage:363-373",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 363,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:13:term-usage:482-492",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 482,
+    "end_char": 492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:13:term-usage:2466-2476",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2466,
+    "end_char": 2476
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:14:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:14:term-usage:442-452",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 442,
+    "end_char": 452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:14:term-usage:758-768",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 758,
+    "end_char": 768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:15:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:15:term-usage:441-451",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 441,
+    "end_char": 451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:15:term-usage:484-494",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 484,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:16:term-usage:24-46",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 24,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:126-148",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 126,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:536-546",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 536,
+    "end_char": 546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:731-753",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 731,
+    "end_char": 753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:1240-1262",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1240,
+    "end_char": 1262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:1361-1371",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1361,
+    "end_char": 1371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:2036-2050",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 2036,
+    "end_char": 2050
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:3107-3129",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 3107,
+    "end_char": 3129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:3540-3562",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 3540,
+    "end_char": 3562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:3910-3920",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3910,
+    "end_char": 3920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:17:term-usage:4038-4060",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 4038,
+    "end_char": 4060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:18:term-usage:64-86",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 64,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:18:term-usage:339-361",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 339,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:18:term-usage:855-865",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 855,
+    "end_char": 865
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:115-137",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 115,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:1194-1216",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1194,
+    "end_char": 1216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:1808-1818",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1808,
+    "end_char": 1818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:2065-2075",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2065,
+    "end_char": 2075
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:2081-2091",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2081,
+    "end_char": 2091
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:2501-2511",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2501,
+    "end_char": 2511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:2729-2739",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2729,
+    "end_char": 2739
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:3147-3156",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 3147,
+    "end_char": 3156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:3619-3633",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 3619,
+    "end_char": 3633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:4542-4551",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 4542,
+    "end_char": 4551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:5987-5996",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 5987,
+    "end_char": 5996
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:6968-6978",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 6968,
+    "end_char": 6978
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19:term-usage:7184-7198",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 7184,
+    "end_char": 7198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19-bis:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19-bis:term-usage:808-818",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 808,
+    "end_char": 818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19-ter:term-usage:319-329",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19-ter",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 319,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19-quater:term-usage:167-177",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 167,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:19-quater:term-usage:578-588",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:19-quater",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 578,
+    "end_char": 588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:20:term-usage:247-257",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 247,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:20:term-usage:352-362",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 352,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:20:term-usage:483-497",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 483,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:141-151",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 141,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:589-599",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 589,
+    "end_char": 599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:1330-1340",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1330,
+    "end_char": 1340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:2331-2340",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 2331,
+    "end_char": 2340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:4615-4629",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 4615,
+    "end_char": 4629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21:term-usage:5538-5552",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 5538,
+    "end_char": 5552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21-bis:term-usage:71-80",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 71,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21-bis:term-usage:343-352",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 343,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21-bis:term-usage:803-825",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 803,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21-bis:term-usage:1032-1042",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1032,
+    "end_char": 1042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21-bis:term-usage:1511-1521",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1511,
+    "end_char": 1521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21-bis:term-usage:1659-1669",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1659,
+    "end_char": 1669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21-bis:term-usage:2404-2414",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2404,
+    "end_char": 2414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21-bis:term-usage:2482-2492",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2482,
+    "end_char": 2492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21-bis:term-usage:2741-2750",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 2741,
+    "end_char": 2750
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21-bis:term-usage:2967-2977",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2967,
+    "end_char": 2977
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:21-bis:term-usage:3284-3293",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:21-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 3284,
+    "end_char": 3293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:22:term-usage:42-52",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 42,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:22:term-usage:175-185",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 175,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:306-316",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 306,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:391-401",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 391,
+    "end_char": 401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:406-416",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 406,
+    "end_char": 416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:679-689",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 679,
+    "end_char": 689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:848-858",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 848,
+    "end_char": 858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:919-929",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 919,
+    "end_char": 929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:1457-1467",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1457,
+    "end_char": 1467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:1562-1572",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1562,
+    "end_char": 1572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:2231-2241",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2231,
+    "end_char": 2241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:2462-2472",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2462,
+    "end_char": 2472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:2730-2740",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2730,
+    "end_char": 2740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:3268-3290",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 3268,
+    "end_char": 3290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:3295-3305",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3295,
+    "end_char": 3305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:23:term-usage:3782-3792",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3782,
+    "end_char": 3792
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:25:term-usage:353-363",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 353,
+    "end_char": 363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:25:term-usage:528-563",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:sistema-de-evaluacion-del-desempeno",
+    "span": "Sistema de Evaluación del Desempeño",
+    "start_char": 528,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:25:term-usage:897-907",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 897,
+    "end_char": 907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:26:term-usage:501-523",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 501,
+    "end_char": 523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:26:term-usage:726-748",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 726,
+    "end_char": 748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:26:term-usage:982-992",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 982,
+    "end_char": 992
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:27:term-usage:81-91",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 81,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:27:term-usage:1432-1467",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:sistema-de-evaluacion-del-desempeno",
+    "span": "Sistema de Evaluación del Desempeño",
+    "start_char": 1432,
+    "end_char": 1467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:28:term-usage:15-37",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 15,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:28:term-usage:829-851",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 829,
+    "end_char": 851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:29:term-usage:50-60",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 50,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:29:term-usage:173-183",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 173,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:29:term-usage:385-395",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 385,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:29:term-usage:401-411",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 401,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:30:term-usage:71-81",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 71,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:30:term-usage:151-173",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 151,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:30:term-usage:664-674",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 664,
+    "end_char": 674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:31:term-usage:1341-1351",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1341,
+    "end_char": 1351
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:31:term-usage:1822-1832",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1822,
+    "end_char": 1832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:32:term-usage:18-40",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 18,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:32:term-usage:1135-1145",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1135,
+    "end_char": 1145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:32:term-usage:1181-1191",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1181,
+    "end_char": 1191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:32:term-usage:1585-1608",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuestos de Egresos",
+    "start_char": 1585,
+    "end_char": 1608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:32:term-usage:1921-1931",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1921,
+    "end_char": 1931
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:32:term-usage:1947-1957",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1947,
+    "end_char": 1957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:32:term-usage:3601-3611",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3601,
+    "end_char": 3611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:32:term-usage:4220-4242",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 4220,
+    "end_char": 4242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:32:term-usage:4540-4562",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 4540,
+    "end_char": 4562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:32:term-usage:5036-5058",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 5036,
+    "end_char": 5058
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:33:term-usage:18-40",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 18,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:33:term-usage:603-625",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 603,
+    "end_char": 625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:33:term-usage:696-718",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 696,
+    "end_char": 718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:34:term-usage:195-205",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 195,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:34:term-usage:715-725",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 715,
+    "end_char": 725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:34:term-usage:781-791",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 781,
+    "end_char": 791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:34:term-usage:1040-1050",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1040,
+    "end_char": 1050
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:34:term-usage:1086-1096",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1086,
+    "end_char": 1096
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:34:term-usage:1471-1481",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1471,
+    "end_char": 1481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:34:term-usage:1769-1791",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1769,
+    "end_char": 1791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:34:term-usage:1796-1806",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1796,
+    "end_char": 1806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:34:term-usage:2175-2197",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 2175,
+    "end_char": 2197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:35:term-usage:332-342",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 332,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:35:term-usage:366-376",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 366,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:35:term-usage:1158-1168",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1158,
+    "end_char": 1168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:35-bis:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:35-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:36:term-usage:136-146",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 136,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:36:term-usage:198-220",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 198,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:36:term-usage:241-251",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 241,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:36:term-usage:779-789",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 779,
+    "end_char": 789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:36:term-usage:853-863",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 853,
+    "end_char": 863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:36:term-usage:868-878",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 868,
+    "end_char": 878
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:37:term-usage:18-40",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 18,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:37:term-usage:296-318",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 296,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:37:term-usage:362-372",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 362,
+    "end_char": 372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:37:term-usage:696-706",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 696,
+    "end_char": 706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:37:term-usage:1065-1075",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1065,
+    "end_char": 1075
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:38:term-usage:98-108",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 98,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:39:term-usage:24-46",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 24,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:39:term-usage:214-236",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 214,
+    "end_char": 236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:39:term-usage:465-475",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 465,
+    "end_char": 475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:39:term-usage:509-531",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 509,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:41:term-usage:15-37",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 15,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:41:term-usage:5770-5784",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 5770,
+    "end_char": 5784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:41:term-usage:6326-6361",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:sistema-de-evaluacion-del-desempeno",
+    "span": "Sistema de Evaluación del Desempeño",
+    "start_char": 6326,
+    "end_char": 6361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:42-64",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 42,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:150-160",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 150,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:338-360",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 338,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:569-591",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 569,
+    "end_char": 591
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:724-734",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 724,
+    "end_char": 734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:867-889",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 867,
+    "end_char": 889
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:1058-1068",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1058,
+    "end_char": 1068
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:1181-1203",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1181,
+    "end_char": 1203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:1999-2021",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1999,
+    "end_char": 2021
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:2187-2209",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 2187,
+    "end_char": 2209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:2319-2341",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 2319,
+    "end_char": 2341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:2521-2531",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2521,
+    "end_char": 2531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:2628-2650",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 2628,
+    "end_char": 2650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:2911-2933",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 2911,
+    "end_char": 2933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:3223-3245",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 3223,
+    "end_char": 3245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:4138-4160",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 4138,
+    "end_char": 4160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:4191-4205",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 4191,
+    "end_char": 4205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:4538-4548",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 4538,
+    "end_char": 4548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:4978-5000",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 4978,
+    "end_char": 5000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:42:term-usage:5220-5242",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 5220,
+    "end_char": 5242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:43:term-usage:139-161",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 139,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:43:term-usage:601-623",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 601,
+    "end_char": 623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:43:term-usage:919-933",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 919,
+    "end_char": 933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:43:term-usage:982-1004",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 982,
+    "end_char": 1004
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:43:term-usage:1242-1264",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1242,
+    "end_char": 1264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:44:term-usage:63-85",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 63,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:44:term-usage:166-176",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 166,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:44:term-usage:340-350",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 340,
+    "end_char": 350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:44:term-usage:686-696",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 686,
+    "end_char": 696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:44:term-usage:929-939",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 929,
+    "end_char": 939
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:44:term-usage:1057-1079",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1057,
+    "end_char": 1079
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:45:term-usage:351-361",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 351,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:45:term-usage:968-978",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 968,
+    "end_char": 978
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:45:term-usage:1000-1010",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1000,
+    "end_char": 1010
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:45:term-usage:1600-1622",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1600,
+    "end_char": 1622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:45:term-usage:1754-1764",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1754,
+    "end_char": 1764
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:45:term-usage:2637-2647",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2637,
+    "end_char": 2647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:46:term-usage:51-61",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 51,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:46:term-usage:355-365",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 355,
+    "end_char": 365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:47:term-usage:601-623",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 601,
+    "end_char": 623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:48:term-usage:75-97",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 75,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:48:term-usage:164-174",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 164,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:48:term-usage:6466-6476",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 6466,
+    "end_char": 6476
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:49:term-usage:276-286",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 276,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:49:term-usage:328-337",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
+    "span": "Auditoría",
+    "start_char": 328,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:49:term-usage:660-670",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 660,
+    "end_char": 670
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:49:term-usage:712-721",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
+    "span": "Auditoría",
+    "start_char": 712,
+    "end_char": 721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:50:term-usage:893-903",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 893,
+    "end_char": 903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:50:term-usage:993-1003",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 993,
+    "end_char": 1003
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:50:term-usage:1182-1192",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1182,
+    "end_char": 1192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:50:term-usage:1615-1625",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1615,
+    "end_char": 1625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:50:term-usage:1631-1641",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1631,
+    "end_char": 1641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:51:term-usage:235-245",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 235,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:51:term-usage:269-291",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 269,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:51:term-usage:524-534",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 524,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:51:term-usage:886-896",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 886,
+    "end_char": 896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:51:term-usage:1535-1545",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1535,
+    "end_char": 1545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:52:term-usage:91-113",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 91,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:52:term-usage:395-405",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 395,
+    "end_char": 405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:52:term-usage:444-454",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 444,
+    "end_char": 454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:52:term-usage:753-763",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 753,
+    "end_char": 763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:52:term-usage:905-915",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 905,
+    "end_char": 915
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:52:term-usage:1260-1270",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1260,
+    "end_char": 1270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:53:term-usage:40-50",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 40,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:54:term-usage:36-58",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 36,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:54:term-usage:299-321",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 299,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:54:term-usage:501-523",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 501,
+    "end_char": 523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:54:term-usage:1093-1115",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1093,
+    "end_char": 1115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:54:term-usage:1278-1300",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1278,
+    "end_char": 1300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:56:term-usage:133-155",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 133,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:57:term-usage:73-95",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 73,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:58:term-usage:402-424",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 402,
+    "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:58:term-usage:474-484",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 474,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:58:term-usage:596-606",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 596,
+    "end_char": 606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:58:term-usage:883-893",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 883,
+    "end_char": 893
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:58:term-usage:933-943",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 933,
+    "end_char": 943
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:58:term-usage:1152-1162",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1152,
+    "end_char": 1162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:58:term-usage:1270-1284",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 1270,
+    "end_char": 1284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:59:term-usage:47-57",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 47,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:60:term-usage:452-462",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 452,
+    "end_char": 462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:60:term-usage:529-543",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 529,
+    "end_char": 543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:61:term-usage:253-275",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 253,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:61:term-usage:3824-3834",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3824,
+    "end_char": 3834
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:62:term-usage:203-225",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 203,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:62:term-usage:605-627",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 605,
+    "end_char": 627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:64:term-usage:48-70",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 48,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:65:term-usage:627-649",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 627,
+    "end_char": 649
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:65:term-usage:948-970",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 948,
+    "end_char": 970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:65:term-usage:1439-1449",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1439,
+    "end_char": 1449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:65:term-usage:2069-2079",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2069,
+    "end_char": 2079
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:65:term-usage:2360-2370",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2360,
+    "end_char": 2370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:65:term-usage:3660-3670",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3660,
+    "end_char": 3670
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:66:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:66:term-usage:313-335",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 313,
+    "end_char": 335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:67:term-usage:464-486",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 464,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:68:term-usage:797-807",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 797,
+    "end_char": 807
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:69:term-usage:472-494",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 472,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:69:term-usage:696-706",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 696,
+    "end_char": 706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:69:term-usage:1699-1713",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 1699,
+    "end_char": 1713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:70:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:70:term-usage:415-426",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretarías",
+    "start_char": 415,
+    "end_char": 426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:70:term-usage:619-629",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 619,
+    "end_char": 629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:74:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:74:term-usage:217-239",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 217,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:74:term-usage:244-254",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 244,
+    "end_char": 254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:74:term-usage:1099-1109",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1099,
+    "end_char": 1109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:75:term-usage:2397-2407",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2397,
+    "end_char": 2407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:76:term-usage:51-61",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 51,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:76:term-usage:524-534",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 524,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:77:term-usage:106-128",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 106,
+    "end_char": 128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:77:term-usage:283-305",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 283,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:77:term-usage:597-619",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 597,
+    "end_char": 619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:77:term-usage:1092-1102",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1092,
+    "end_char": 1102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:77:term-usage:1367-1377",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1367,
+    "end_char": 1377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:77:term-usage:1670-1680",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1670,
+    "end_char": 1680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:77:term-usage:1706-1716",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1706,
+    "end_char": 1716
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:77:term-usage:1948-1958",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1948,
+    "end_char": 1958
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:77:term-usage:2236-2246",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2236,
+    "end_char": 2246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:78:term-usage:538-548",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 538,
+    "end_char": 548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:79:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:79:term-usage:68-90",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 68,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:79:term-usage:420-430",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 420,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:80:term-usage:868-890",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:80",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 868,
+    "end_char": 890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:81:term-usage:424-434",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:81",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 424,
+    "end_char": 434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:82:term-usage:1185-1207",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1185,
+    "end_char": 1207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:82:term-usage:2522-2544",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 2522,
+    "end_char": 2544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:82:term-usage:3064-3073",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:82",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
+    "span": "Auditoría",
+    "start_char": 3064,
+    "end_char": 3073
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:83:term-usage:520-530",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 520,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:83:term-usage:689-698",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
+    "span": "Auditoría",
+    "start_char": 689,
+    "end_char": 698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:83:term-usage:999-1009",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 999,
+    "end_char": 1009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:83:term-usage:1086-1096",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:83",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1086,
+    "end_char": 1096
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:84:term-usage:42-64",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 42,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:84:term-usage:669-691",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:84",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 669,
+    "end_char": 691
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:85:term-usage:39-61",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 39,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:85:term-usage:975-985",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 975,
+    "end_char": 985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:85:term-usage:1755-1765",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:85",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1755,
+    "end_char": 1765
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:86:term-usage:108-118",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 108,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:86:term-usage:211-220",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:86",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
+    "span": "Auditoría",
+    "start_char": 211,
+    "end_char": 220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:87:term-usage:178-187",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 178,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:87:term-usage:554-563",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:87",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 554,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:88:term-usage:321-331",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 321,
+    "end_char": 331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:88:term-usage:1929-1951",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1929,
+    "end_char": 1951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:88:term-usage:2043-2053",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:88",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2043,
+    "end_char": 2053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:90:term-usage:142-151",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:90",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
+    "span": "Auditoría",
+    "start_char": 142,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:93:term-usage:1030-1040",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:93",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 1030,
+    "end_char": 1040
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:94:term-usage:758-768",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:94",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 758,
+    "end_char": 768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:95:term-usage:1113-1135",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1113,
+    "end_char": 1135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:95:term-usage:1169-1191",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1169,
+    "end_char": 1191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:95:term-usage:1524-1546",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:95",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1524,
+    "end_char": 1546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:96:term-usage:509-519",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:96",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 509,
+    "end_char": 519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:576-598",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 576,
+    "end_char": 598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:2061-2071",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 2061,
+    "end_char": 2071
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:97:term-usage:2247-2256",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:97",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:entidades",
+    "span": "Entidades",
+    "start_char": 2247,
+    "end_char": 2256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:106:term-usage:378-400",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 378,
+    "end_char": 400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:106:term-usage:959-969",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 959,
+    "end_char": 969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:106:term-usage:1047-1056",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:106",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
+    "span": "Auditoría",
+    "start_char": 1047,
+    "end_char": 1056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:382-404",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 382,
+    "end_char": 404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:523-533",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 523,
+    "end_char": 533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:930-940",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 930,
+    "end_char": 940
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:2985-2995",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2985,
+    "end_char": 2995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:8336-8358",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 8336,
+    "end_char": 8358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:9442-9452",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 9442,
+    "end_char": 9452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:10038-10048",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 10038,
+    "end_char": 10048
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:10177-10191",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 10177,
+    "end_char": 10191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:10567-10577",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 10567,
+    "end_char": 10577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:10940-10950",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 10940,
+    "end_char": 10950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:11399-11409",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 11399,
+    "end_char": 11409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:11534-11544",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 11534,
+    "end_char": 11544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:11694-11708",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 11694,
+    "end_char": 11708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:12302-12312",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 12302,
+    "end_char": 12312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:107:term-usage:12465-12479",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:107",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 12465,
+    "end_char": 12479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:108:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:108",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:108:term-usage:18-28",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:108",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 18,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:108:term-usage:350-364",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:108",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 350,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:108:term-usage:647-657",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:108",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 647,
+    "end_char": 657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:109:term-usage:493-503",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:109",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 493,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:110:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:110",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:111:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:111:term-usage:1015-1025",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1015,
+    "end_char": 1025
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:111:term-usage:1576-1598",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 1576,
+    "end_char": 1598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:111:term-usage:1635-1649",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:111",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 1635,
+    "end_char": 1649
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:112:term-usage:106-116",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:112",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 106,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:113:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:113",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
+    "span": "Auditoría",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:114:term-usage:487-497",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 487,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:114:term-usage:525-547",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 525,
+    "end_char": 547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:114:term-usage:1241-1251",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1241,
+    "end_char": 1251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:114:term-usage:1885-1895",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1885,
+    "end_char": 1895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:article:114:term-usage:1921-1930",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:auditoria",
+    "span": "Auditoría",
+    "start_char": 1921,
+    "end_char": 1930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:transitory:tercero:term-usage:33-55",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:presupuesto-de-egresos",
+    "span": "Presupuesto de Egresos",
+    "start_char": 33,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:transitory:cuarto:term-usage:22-32",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 22,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:transitory:cuarto:term-usage:68-94",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:responsabilidad-hacendaria",
+    "span": "Responsabilidad Hacendaria",
+    "start_char": 68,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:transitory:cuarto:term-usage:123-133",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:reglamento",
+    "span": "Reglamento",
+    "start_char": 123,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:transitory:sexto:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:transitory:sexto:term-usage:444-458",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 444,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:transitory:sexto:term-usage:498-508",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 498,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:transitory:sexto:term-usage:651-665",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:cuenta-publica",
+    "span": "Cuenta Pública",
+    "start_char": 651,
+    "end_char": 665
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:transitory:septimo:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfprh:transitory:octavo:term-usage:107-117",
+    "provision_id": "urn:lex-mx:federal:statute:lfprh:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:statute:lfprh:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 107,
+    "end_char": 117
+  }
+]

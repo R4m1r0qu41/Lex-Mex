@@ -1,0 +1,23 @@
+{
+  "slug": "lgcg",
+  "instrument_id": "urn:lex-mx:federal:statute:lgcg",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General de Contabilidad Gubernamental",
+  "short_name": "LGCG",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcg.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2008-12-31",
+  "expected_min_articles": 87,
+  "expected_articles": 87,
+  "expected_transitories": 12,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T07:42:50Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

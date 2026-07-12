@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:code:cnpcf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "code",
+  "official_title": "Código Nacional de Procedimientos Civiles y Familiares",
+  "short_name": "CNPCF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2023-06-07",
+  "latest_reform_date": "2026-01-15",
+  "retrieved_at": "2026-07-12T07:44:40.916203Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf",
+  "source_sha256": "6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8",
+  "extracted_text_sha256": "25eaae1f1a49c6584bb3e4ef1baed5c7612b4d1d5fe324c0933f21d7fd2adce3",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

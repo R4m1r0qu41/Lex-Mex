@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lfppi:article:54
+instrument_id: urn:lex-mx:federal:statute:lfppi
+instrument: LFPPI
+name: "Ley Federal de Protección a la Propiedad Industrial"
+provision_type: article
+number: "54"
+aliases: ["LFPPI — Artículo 54"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
+source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
+---
+
+> Título SEGUNDO
+
+# Artículo 54
+
+El derecho conferido por una patente estará determinado por las reivindicaciones otorgadas. La descripción y, en su caso, los dibujos, el listado de secuencias o el depósito de material biológico a los que se refieren los artículos [94](articulo-94.md), [96](articulo-96.md) y [98](articulo-98.md) de esta Ley, servirán para interpretarlas.

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:ladua",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Aduanera",
+  "short_name": "LADUA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1995-12-15",
+  "latest_reform_date": "2025-11-19",
+  "retrieved_at": "2026-07-12T07:42:59.203305Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf",
+  "source_sha256": "43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d",
+  "extracted_text_sha256": "a060dd1a5b9fcd3e311c5fc54418c0d3263b88156473880b23e8af12dc00bf5c",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

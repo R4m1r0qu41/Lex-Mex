@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lcf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcf.htm",
+  "retrieved_at": "2026-07-12T07:42:44.906670Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1383910,
+  "etag": "\"151de6-60f55fb6b1640\"",
+  "last_modified": "Sat, 20 Jan 2024 00:50:25 GMT",
+  "source_sha256": "5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4",
+  "extracted_text_sha256": "063b0160548888bc5359ca8b79f173e133271a9611150118e445f6cb9f0430e4",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9429d2bba582be0db289c13bed02d3735c4be10c"
+}

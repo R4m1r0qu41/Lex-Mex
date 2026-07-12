@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lfda:article:32
+instrument_id: urn:lex-mx:federal:regulation:reg-lfda
+instrument: REG-LFDA
+name: "Reglamento de la Ley Federal del Derecho de Autor"
+provision_type: article
+number: "32"
+aliases: ["REG-LFDA — Artículo 32"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf
+source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3
+---
+
+> Título IV · Capítulo II
+
+# Artículo 32
+
+Las pruebas de autor, de impresor y las que se realicen con la intención de que estén fuera del comercio, sólo se podrán poner a la venta cuando la totalidad de la serie esté agotada y hayan transcurrido, por lo menos, cinco años desde su realización.

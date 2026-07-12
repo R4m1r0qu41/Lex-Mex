@@ -1,0 +1,246 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:126:reference:181-182:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:126",
+    "source_span": "7",
+    "start_char": 181,
+    "end_char": 182,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:7",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:126:reference:185-186:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:126",
+    "source_span": "8",
+    "start_char": 185,
+    "end_char": 186,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:144:reference:119-136:143:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:144",
+    "source_span": "artículo anterior",
+    "start_char": 119,
+    "end_char": 136,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:143",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:169:reference:160-163:167:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:169",
+    "source_span": "167",
+    "start_char": 160,
+    "end_char": 163,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:167",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 135,
+        "end_char": 146
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:171:reference:150-153:167:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:171",
+    "source_span": "167",
+    "start_char": 150,
+    "end_char": 153,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:167",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción IV",
+        "start_char": 125,
+        "end_char": 136
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:172:reference:45-62:171:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:172",
+    "source_span": "artículo anterior",
+    "start_char": 45,
+    "end_char": 62,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:171",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:177:reference:806-807:177:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:177",
+    "source_span": "I",
+    "start_char": 806,
+    "end_char": 807,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:177",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "I",
+        "start_char": 806,
+        "end_char": 807
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:179:reference:177-180:163:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:179",
+    "source_span": "163",
+    "start_char": 177,
+    "end_char": 180,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:163",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:31-ter:reference:4853-4855:31-ter:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:31-ter",
+    "source_span": "II",
+    "start_char": 4853,
+    "end_char": 4855,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:31-ter",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "II",
+        "start_char": 4853,
+        "end_char": 4855
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:36:reference:88-89:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:36",
+    "source_span": "3",
+    "start_char": 88,
+    "end_char": 89,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:3",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 63,
+        "end_char": 74
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:82:reference:139-156:81:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:82",
+    "source_span": "artículo anterior",
+    "start_char": 139,
+    "end_char": 156,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:81",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:90:reference:504-506:95:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:90",
+    "source_span": "95",
+    "start_char": 504,
+    "end_char": 506,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:95",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 476,
+        "end_char": 486
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:90:reference:509-512:101:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:90",
+    "source_span": "101",
+    "start_char": 509,
+    "end_char": 512,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:101",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 476,
+        "end_char": 486
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

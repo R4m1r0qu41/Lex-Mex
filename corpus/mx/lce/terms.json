@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lce:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lce:article:3",
+    "fraction": "I",
+    "start_char": 45,
+    "end_char": 122,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lce:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lce:article:3",
+    "fraction": "II",
+    "start_char": 122,
+    "end_char": 205,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lce:term:cuotas-compensatorias",
+    "term": "Cuotas compensatorias",
+    "instrument_id": "urn:lex-mx:federal:statute:lce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lce:article:3",
+    "fraction": "III",
+    "start_char": 205,
+    "end_char": 646,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lce:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:statute:lce",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lce:article:3",
+    "fraction": "V",
+    "start_char": 646,
+    "end_char": 868,
+    "basis": "express_definition"
+  }
+]

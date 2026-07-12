@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:ldfefm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
+  "short_name": "LDFEFM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2016-04-27",
+  "latest_reform_date": "2022-05-10",
+  "retrieved_at": "2026-07-12T07:42:52.001954Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf",
+  "source_sha256": "04c25edb67f0a8b6704cd7d56b7a4bb9f455c77a060199962317bbdb7c889247",
+  "extracted_text_sha256": "22467381c5e0eba71b72936f7736dd2489d59d50f957d9aa8ca6f9b29bca1252",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

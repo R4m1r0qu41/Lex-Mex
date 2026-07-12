@@ -1,0 +1,23 @@
+{
+  "slug": "lgsm",
+  "instrument_id": "urn:lex-mx:federal:statute:lgsm",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General de Sociedades Mercantiles",
+  "short_name": "LGSM",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsm.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1934-08-04",
+  "expected_min_articles": 277,
+  "expected_articles": 277,
+  "expected_transitories": 4,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T07:43:16Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

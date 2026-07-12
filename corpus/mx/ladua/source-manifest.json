@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ladua",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAdua.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ladua.htm",
+  "retrieved_at": "2026-07-12T07:42:59.203305Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 2088249,
+  "etag": "\"1fdd39-6486004a13d00\"",
+  "last_modified": "Wed, 14 Jan 2026 21:44:52 GMT",
+  "source_sha256": "43927095d22ff7bc7780e78132d2160b5050b5f76026b539daec32be09d7341d",
+  "extracted_text_sha256": "a060dd1a5b9fcd3e311c5fc54418c0d3263b88156473880b23e8af12dc00bf5c",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9429d2bba582be0db289c13bed02d3735c4be10c"
+}

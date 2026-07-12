@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ligie",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIGIE_2022.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ligie_2022.htm",
+  "retrieved_at": "2026-07-12T07:43:07.800847Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 19154404,
+  "etag": "\"12445e4-651a92dfad4c0\"",
+  "last_modified": "Wed, 13 May 2026 01:48:43 GMT",
+  "source_sha256": "a7688a47c8283f327b943e06ed948782feba2f5a0e16fe796d50d8340ce40ece",
+  "extracted_text_sha256": "426414f85860efb0c92e70c3a15c13194bf1b66481a4b2254af6b1de29db958f",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9429d2bba582be0db289c13bed02d3735c4be10c"
+}

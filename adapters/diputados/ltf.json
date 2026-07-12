@@ -1,0 +1,23 @@
+{
+  "slug": "ltf",
+  "instrument_id": "urn:lex-mx:federal:statute:ltf",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Tesorería de la Federación",
+  "short_name": "LTF",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltf.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2015-12-30",
+  "expected_min_articles": 60,
+  "expected_articles": 60,
+  "expected_transitories": 11,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T07:42:54Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

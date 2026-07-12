@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfpc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal de Protección al Consumidor",
+  "short_name": "REG-LFPC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2019-12-19",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T07:43:23.225685Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_191219.pdf",
+  "source_sha256": "2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c",
+  "extracted_text_sha256": "94a728ed9ccdb2bc44c69502995efdcb61ebb820d93e2ef237a346800da74388",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,48 @@
+---
+id: urn:lex-mx:federal:statute:lcf:article:20
+instrument_id: urn:lex-mx:federal:statute:lcf
+instrument: LCF
+name: "Ley de Coordinación Fiscal"
+provision_type: article
+number: "20"
+aliases: ["LCF — Artículo 20"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCF.pdf
+source_sha256: 5c89d48167a4e1170c69e0b1e0294260b806a30d861275d8dca09b0334cd09d4
+---
+
+> Capítulo IV
+
+# Artículo 20
+
+La Comisión Permanente de Funcionarios Fiscales se integrará conforme a las siguientes reglas:
+
+I.- Estará formada por la Secretaría de Hacienda y Crédito Público y por ocho entidades. Será presidida conjuntamente por el Secretario de Hacienda y Crédito Público, que podrá ser suplido por el Subsecretario de Ingresos de dicha Secretaría, y por el titular del órgano hacendario que elija la Comisión entre sus miembros. En esta elección no participará la Secretaría de Hacienda y Crédito Público.
+
+II.- Las entidades estarán representadas por las ocho que al efecto elijan, las cuales actuarán a través del titular de su órgano hacendario o por la persona que éste designe para suplirlo.
+
+III.- Las entidades que integren la Comisión Permanente serán elegidas por cada uno de los grupos que a continuación se expresan, debiendo representarlos en forma rotativa:
+
+GRUPO UNO: Baja California, Baja California Sur, Sonora y Sinaloa.
+
+GRUPO DOS: Chihuahua, Coahuila, Durango y Zacatecas.
+
+GRUPO TRES: Hidalgo, Nuevo León, Tamaulipas y Tlaxcala.
+
+GRUPO CUATRO: Aguascalientes, Colima, Jalisco y Nayarit. Fe de erratas al párrafo DOF 12-02-1979
+
+GRUPO CINCO: Guanajuato, Michoacán, Querétaro y San Luis Potosí.
+
+GRUPO SEIS: Distrito Federal, Guerrero, México y Morelos.
+
+GRUPO SIETE: Chiapas, Oaxaca, Puebla y Veracruz. GRUPO OCHO: Campeche, Quintana Roo, Tabasco y Yucatán.
+
+Con base en un análisis de las características socio-económicas y geográficas que tengan las entidades federativas, cada 10 años, la Comisión Permanente de Funcionarios Fiscales podrá proponer a la Reunión Nacional de Funcionarios Fiscales una reclasificación de los ocho grupos señalados en esta fracción, que deberá ser aprobada mediante votación unánime de esta última. Párrafo adicionado DOF 09-12-2013
+
+IV.- Las entidades miembros de la Comisión Permanente durarán en su encargo dos años y se renovarán anualmente por mitad; pero continuarán en funciones, aún después de terminado su período, en tanto no sean elegidas las que deban sustituirlas.
+
+V.- La Comisión Permanente será convocada por el Secretario de Hacienda y Crédito Público, por el Subsecretario de Ingresos o por tres de los miembros de dicha Comisión. En la convocatoria se señalarán los asuntos que deban tratarse.
+
+VI. Será invitado permanente a las reuniones de la Comisión Permanente de Funcionarios Fiscales, el Presidente de la Conferencia Nacional de Municipios de México, siempre que las reuniones no correspondan a sesiones de trabajo con la participación exclusiva de los funcionarios a que se refiere la fracción II de este artículo. Fracción adicionada DOF 09-12-2013

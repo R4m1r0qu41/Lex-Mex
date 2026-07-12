@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-ltf:article:44
+instrument_id: urn:lex-mx:federal:regulation:reg-ltf
+instrument: REG-LTF
+name: "Reglamento de la Ley de Tesorería de la Federación"
+provision_type: article
+number: "44"
+aliases: ["REG-LTF — Artículo 44"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LTF_300617.pdf
+source_sha256: 0be5ea342f5f369fb2b1cb6bad156b1229c335fd98f1ce0ad0bd229769023ce0
+---
+
+> Título SEGUNDO · Capítulo IV
+
+# Artículo 44
+
+Para efectos del artículo 33 de la [Ley](articulo-2.md), la Dependencia coordinadora de sector deberá comunicar a la Tesorería la designación del representante del Gobierno Federal y solicitar la expedición del certificado de tenencia en términos del [artículo anterior](articulo-43.md), cuando menos con cinco días hábiles de anticipación a la celebración de la asamblea de accionistas, de socios, de asociados o su equivalente de la persona moral de que se trate.

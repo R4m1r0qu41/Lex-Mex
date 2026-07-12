@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:code:cnpcf:article:701
+instrument_id: urn:lex-mx:federal:code:cnpcf
+instrument: CNPCF
+name: "Código Nacional de Procedimientos Civiles y Familiares"
+provision_type: article
+number: "701"
+aliases: ["CNPCF — Artículo 701"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPCF.pdf
+source_sha256: 6ed874d10a9e5823c6a7bd6a0df60c8ed110aeee9e660ae6aab3bf649d07d1f8
+---
+
+# Artículo 701
+
+La persona albacea manifestará, dentro de tres días de haberle notificado el nombramiento, si acepta o no el cargo y hecho que sea, deberá garantizarlo dentro del término y conforme a las bases fijadas en el [Código Civil](articulo-2.md) de la Entidad Federativa que corresponda.
+
+Si la persona albacea no garantiza su manejo dentro de los términos señalados conforme el párrafo anterior, se les removerá de plano, sin perjuicio de su obligación de rendir cuentas.

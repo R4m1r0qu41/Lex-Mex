@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lce",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lce.htm",
+  "retrieved_at": "2026-07-12T07:43:02.312943Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 573351,
+  "etag": "\"8bfa7-6515885430dc0\"",
+  "last_modified": "Sat, 09 May 2026 01:34:55 GMT",
+  "source_sha256": "3f114f47007c21b4691bad502b786b45aa5e45c1571bd56dd8ca4f5af991b459",
+  "extracted_text_sha256": "83dd23b633339135cd0009239e7017401eb9ca0bd487c6ec25b919e619271b98",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9429d2bba582be0db289c13bed02d3735c4be10c"
+}

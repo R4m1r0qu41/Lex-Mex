@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfda",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal del Derecho de Autor",
+  "short_name": "REG-LFDA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1998-05-22",
+  "latest_reform_date": "2005-09-14",
+  "retrieved_at": "2026-07-12T07:43:31.996290Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf",
+  "source_sha256": "2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3",
+  "extracted_text_sha256": "698ba557a673e5a5c35ab201deaa353959ffb6f1fb94e64c542bd53aaa6538a4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

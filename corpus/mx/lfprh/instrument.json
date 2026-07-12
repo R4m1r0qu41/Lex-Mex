@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfprh",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
+  "short_name": "LFPRH",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-03-30",
+  "latest_reform_date": "2026-04-09",
+  "retrieved_at": "2026-07-12T07:42:47.222983Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPRH.pdf",
+  "source_sha256": "ce45c7c0c4e9099691e6e24bd2456d0b6f71f91ab27eedd5c4f2190b66d47741",
+  "extracted_text_sha256": "1a3a27512fa2f67f21db88822b041331b461dc96eda4bf7f1f1c57a104d4ca85",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lce:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lce",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:1",
+    "fraction": "I",
+    "start_char": 56,
+    "end_char": 94,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lce:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lce",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:1",
+    "fraction": "II",
+    "start_char": 94,
+    "end_char": 172,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lce:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lce",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:1",
+    "fraction": "III",
+    "start_char": 172,
+    "end_char": 224,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lce:term:comision-mixta",
+    "term": "Comisión Mixta",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lce",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lce:article:1",
+    "fraction": "IV",
+    "start_char": 224,
+    "end_char": 454,
+    "basis": "express_definition"
+  }
+]

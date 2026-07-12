@@ -1,0 +1,23 @@
+{
+  "slug": "lfpc",
+  "instrument_id": "urn:lex-mx:federal:statute:lfpc",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal de Protección al Consumidor",
+  "short_name": "LFPC",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpc.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1992-12-24",
+  "expected_min_articles": 188,
+  "expected_articles": 188,
+  "expected_transitories": 5,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T07:43:21Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

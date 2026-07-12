@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgcg",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcg.htm",
+  "retrieved_at": "2026-07-12T07:42:49.832759Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 636591,
+  "etag": "\"9b6af-6521d699278c0\"",
+  "last_modified": "Mon, 18 May 2026 20:28:59 GMT",
+  "source_sha256": "cf7f5220f083bdcd8eed4104bbdf40299221f32cd5c51e17b1f03b033e677815",
+  "extracted_text_sha256": "1a13eb00058d3e8098f78d4bbd79bc9c8293b9b0ee9f15bd80c570536a0e4733",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9429d2bba582be0db289c13bed02d3735c4be10c"
+}

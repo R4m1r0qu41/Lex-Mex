@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:statute:lfppi:article:272
+instrument_id: urn:lex-mx:federal:statute:lfppi
+instrument: LFPPI
+name: "Ley Federal de Protección a la Propiedad Industrial"
+provision_type: article
+number: "272"
+aliases: ["LFPPI — Artículo 272"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf
+source_sha256: 8307d90da1ad1f94c2bf22b6e2da439eb468110a935554918e75de84e3cc8d20
+---
+
+> Título QUINTO
+
+# Artículo 272
+
+Además de las publicaciones previstas en este Título, se publicarán en la Gaceta las declaraciones y autorizaciones que otorgue el Instituto, así como cualquier acto que dé por terminados los efectos de los derechos otorgados en materia de denominaciones de origen o indicaciones geográficas.
+
+Capítulo II Del Trámite de la Declaración de Protección
