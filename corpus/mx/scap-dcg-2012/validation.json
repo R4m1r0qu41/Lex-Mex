@@ -1,0 +1,442 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+  "valid": true,
+  "article_count": 382,
+  "transitory_count": 10,
+  "reference_count": 310,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no article-count baseline frozen; parse found 382 articles",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no transitory-count baseline frozen; parse found 10 transitories",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1-bis-1"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1-bis-2"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1-bis-3"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1-bis-4"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1-bis-5"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1-bis-6"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:1-bis-7"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-1"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-2"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-3"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-4"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-5"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-6"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-7"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-8"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-9"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-10"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-11"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-12"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-13"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-14"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-15"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-16"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-17"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-18"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-19"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-20"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-21"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-22"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-23"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-24"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-25"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-26"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-27"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-28"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-29"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-30"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-31"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-32"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-33"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-34"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-35"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-36"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-37"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-38"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-39"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-40"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-41"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-42"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-43"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-44"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-45"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-46"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-47"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-48"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-49"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-50"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-51"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:17-bis-52"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:42-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:82-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:127-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:185-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:193-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:193-bis-1"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:195-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:195-bis-1"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:scap-dcg-2012:article:308-bis"
+    }
+  ]
+}

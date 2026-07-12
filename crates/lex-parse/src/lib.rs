@@ -1676,6 +1676,7 @@ pub(crate) fn reform_evidence_item(
     ordinal: &str,
     resolution_word: &str,
     text: String,
+    amendment_marks: Vec<u32>,
 ) -> TemporalEvidence {
     let date = date.format("%Y-%m-%d");
     TemporalEvidence {
@@ -1685,6 +1686,7 @@ pub(crate) fn reform_evidence_item(
         ),
         label: format!("Transitorio {ordinal} — {resolution_word} DOF {date}"),
         text,
+        amendment_marks,
     }
 }
 

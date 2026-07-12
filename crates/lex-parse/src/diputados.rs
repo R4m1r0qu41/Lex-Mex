@@ -637,6 +637,8 @@ fn flush_reform(
             &builder.ordinal,
             "Decreto",
             text,
+            // Diputados reform decretos carry no CNBV amendment markers.
+            Vec::new(),
         ));
     }
 }

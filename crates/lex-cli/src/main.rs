@@ -1324,6 +1324,9 @@ fn build_temporal_evidence(
             provision_id: item.id.clone(),
             label: item.label.clone(),
             text: item.text.clone(),
+            // Canonical transitory marks already live on the provision;
+            // this temporal-input projection stays as it was.
+            amendment_marks: Vec::new(),
         })
         .collect();
     let mut relevant_reform_evidence: Vec<TemporalEvidence> = reform_evidence

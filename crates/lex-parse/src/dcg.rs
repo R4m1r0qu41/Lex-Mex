@@ -221,6 +221,13 @@ impl PendingMarks {
         }
     }
 
+    /// Take every pending marker for a receiver that is not a
+    /// `DcgProvisionBuilder` (a reform transitory that becomes
+    /// `TemporalEvidence`). Clears the buffer like `drain_onto`.
+    pub(crate) fn take(&mut self) -> Vec<u32> {
+        std::mem::take(&mut self.marks)
+    }
+
     /// Discard pending markers at a context boundary with no provision to
     /// receive them (an attribution block, a per-resolution transitory, a
     /// considerando, or the legend). Errors instead of silently losing

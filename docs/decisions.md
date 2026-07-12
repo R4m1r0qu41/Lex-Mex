@@ -1,5 +1,31 @@
 # Architecture decisions
 
+## 2026-07-12 — Amendment markers on CNBV reform transitorios
+
+CNBV consolidated disposiciones (DCGs) carry numbered `(N)` superscript
+amendment markers that reference a REFERENCIAS legend — version-control
+provenance recording *when* a provision was amended and *by which*
+modifying resolution. The modifying resolutions are **not corpus
+instruments** (only the final compiled text is), so the marker is kept as
+a mention with no outbound link (JRH, reviewer of record for CNBV).
+Markers on articles and original transitorios were already captured as
+`Provision.amendment_marks`; but these texts also **re-amend their own
+reform transitorios**, so a marker can land inside a per-resolution
+TRANSITORIOS section. The `itf-dcg` parser previously errored there
+(a reform transitory becomes `TemporalEvidence`, which had no marks
+field) rather than silently drop provenance.
+
+`TemporalEvidence` now has an optional `amendment_marks: Vec<u32>`
+(`skip_serializing_if` empty, so the committed IFPE/ITF reform evidence is
+unchanged — their reform transitorios carry no marks). A marker preceding
+a reform-transitory ordinal, or on its continuation lines, attaches to
+that transitory exactly as it would to an article. Only a marker with no
+open transitory to receive it (inside the parenthesized attribution
+block) is still surfaced as an error. First exercised ingesting
+`scap-dcg-2012` (parser `itf-dcg`): 382 articles, 204 provisions carrying
+marks, 6 reform transitorios carrying marks (e.g. SEGUNDO/2018-01-23 →
+[39]); text stays clean of the raw `(N)` glyphs.
+
 ## 2026-07-12 — `Ñ` is a distinct letter in canonical article identifiers
 
 LFT article 353 runs a letter-suffix series (`353-A` … `353-U`) that

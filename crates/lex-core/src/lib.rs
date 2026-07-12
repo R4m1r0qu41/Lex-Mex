@@ -323,6 +323,15 @@ pub struct TemporalEvidence {
     pub provision_id: String,
     pub label: String,
     pub text: String,
+    /// Amendment-marker numbers carried by a reform transitory that was
+    /// itself later amended (CNBV consolidated disposiciones re-amend
+    /// their own reform transitorios). Each number references the source
+    /// document's REFERENCIAS legend; the mention is kept without linking
+    /// to the modifying resolution, which is not a corpus instrument.
+    /// Empty for the committed IFPE/ITF corpora, so their serialized
+    /// evidence is unchanged.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub amendment_marks: Vec<u32>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

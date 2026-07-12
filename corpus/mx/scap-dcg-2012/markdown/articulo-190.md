@@ -1,0 +1,28 @@
+---
+id: urn:lex-mx:federal:regulation:scap-dcg-2012:article:190
+instrument_id: urn:lex-mx:federal:regulation:scap-dcg-2012
+instrument: DCG-SCAP-2012
+name: "Disposiciones de carácter general aplicables a las actividades de las sociedades cooperativas de ahorro y préstamo"
+provision_type: article
+number: "190"
+aliases: ["DCG-SCAP-2012 — Artículo 190"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20actividades%20de%20las%20sociedades%20cooperativas%20de%20ahorro%20y%20pr%C3%A9stamo.pdf
+source_sha256: 6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1
+---
+
+> Título TERCERO · Capítulo III
+
+# Artículo 190
+
+Las Sociedades deberán constituir provisiones preventivas adicionales a las que deben crear como resultado del proceso de calificación de su cartera de crédito, hasta por la cantidad que se requiera para provisionar al 100 por ciento aquellos créditos que sean otorgados sin que exista en los expedientes de crédito respectivos, documentación que acredite haber formulado ante alguna Sociedad de Información Crediticia una consulta previa a su otorgamiento, respecto al historial crediticio del solicitante que corresponda y, en su caso, de las personas que funjan como avalistas, fiadores u obligados solidarios en la operación. Al respecto, las Sociedades solo deberán consultar el historial crediticio de las personas que funjan como avalistas, fiadores u obligados solidarios en la operación cuando el reporte del solicitante del crédito presente adeudos con más del 15 por ciento de los saldos totales vencidos por periodos superiores a 90 días.
+
+Las Sociedades, para efectos del presente artículo, consultarán el historial crediticio de las personas físicas solicitantes de crédito, así como de otras Sociedades, tratándose de los préstamos a que se refiere el inciso h) de la fracción I del Artículo 19 de la Ley.
+
+Las Sociedades solo podrán liberar las provisiones preventivas adicionales constituidas conforme a lo señalado en el primer párrafo de este artículo, 3 meses después de que obtengan el informe emitido por
+
+86 Artículo adicionado mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente. 87 Artículo adicionado mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente. 88 Artículo adicionado mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente. 89 Artículo adicionado mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente. 90 Artículo adicionado mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente. 91 Artículo adicionado mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente. 92 Artículo adicionado mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente. 93 Artículo adicionado mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente. 94 Artículo adicionado mediante Resolución publicada en el Diario Oficial de la Federación el 09 de abril de 2024, cuya entrada en vigor fue diferida al 1 de enero de 2027, en términos de la Resolución modificatoria publicada en el Diario Oficial de la Federación el 27 de diciembre de 2025, por lo que dicha reforma no se encuentra reflejada en el texto vigente.
+
+una Sociedad de Información Crediticia respecto del acreditado de que se trate y lo integren al expediente de crédito correspondiente.

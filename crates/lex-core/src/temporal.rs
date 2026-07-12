@@ -1259,6 +1259,7 @@ mod tests {
                 provision_id: "urn:lex-mx:test:amendment:2025-11-14:transitory:second".to_owned(),
                 label: "Segundo".to_owned(),
                 text: "La aplicación entrará en vigor cuando se emita la declaratoria.".to_owned(),
+                amendment_marks: Vec::new(),
             }],
             required_output_schema: "schema.json".to_owned(),
         }

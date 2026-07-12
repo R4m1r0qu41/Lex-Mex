@@ -91,6 +91,7 @@ struct ReformTransitory {
     date: NaiveDate,
     ordinal: String,
     lines: Vec<String>,
+    marks: Vec<u32>,
 }
 
 #[allow(clippy::too_many_lines)]
@@ -286,12 +287,14 @@ fn parse_main_text(
                 }
             }
             Region::ReformTransitories(date) => {
-                // A per-resolution transitory is never a canonical
-                // provision (it becomes TemporalEvidence, which has no
-                // amendment_marks field), so no marker can ever attach
-                // here — surface one immediately rather than losing it.
-                pending_marks.discard("a per-resolution TRANSITORIOS section")?;
+                // CNBV consolidated disposiciones re-amend their own reform
+                // transitorios, so a marker can legitimately land here. It
+                // is kept on the reform transitory's TemporalEvidence
+                // (below); only markers with no open transitory to receive
+                // them — e.g. inside the parenthesized attribution block —
+                // are still surfaced rather than silently dropped.
                 let Some(resolved) = *date else {
+                    pending_marks.discard("a per-resolution attribution block")?;
                     // Reading the parenthesized attribution block; its
                     // final line carries the resolution's DOF date.
                     if let Some(captures) = attribution_date_re.captures(trimmed) {
@@ -308,13 +311,21 @@ fn parse_main_text(
                 };
                 if let Some(captures) = transitory_re.captures(trimmed) {
                     flush_reform(&mut reform_current, instrument_id, &mut reform_evidence);
+                    // A marker preceding the ordinal marks this transitory,
+                    // exactly as it would a new article heading.
                     reform_current = Some(ReformTransitory {
                         date: resolved,
                         ordinal: captures[1].to_owned(),
                         lines: vec![trimmed.to_owned()],
+                        marks: pending_marks.take(),
                     });
                 } else if let Some(reform) = &mut reform_current {
+                    reform.marks.extend(pending_marks.take());
                     reform.lines.push(trimmed.to_owned());
+                } else {
+                    // A marker after the attribution date but before the
+                    // first ordinal has no transitory to receive it.
+                    pending_marks.discard("a per-resolution TRANSITORIOS section")?;
                 }
             }
             // Appended per-reform CONSIDERANDO blocks carry no canonical
@@ -362,6 +373,7 @@ fn flush_reform(
             &reform.ordinal,
             "Resolución",
             reform.lines.join(" "),
+            reform.marks,
         ));
     }
 }
@@ -546,24 +558,34 @@ mod tests {
     }
 
     #[test]
-    fn a_marker_inside_a_reform_transitory_is_reported_not_silently_dropped() {
-        // A per-resolution transitory becomes TemporalEvidence, which has
-        // no amendment_marks field, so a marker appearing inside one can
-        // never be attached anywhere — it must surface as an error.
-        let raw = "TRANSITORIOS\n\
+    fn a_marker_inside_a_reform_transitory_is_kept_on_its_evidence() {
+        // CNBV consolidated disposiciones re-amend their own reform
+        // transitorios, so a marker inside a per-resolution transitory is
+        // kept on that transitory's TemporalEvidence — the mention is
+        // preserved without linking to the (non-corpus) modifying
+        // resolution, rather than surfaced as an error.
+        let raw = "Artículo 1.- Objeto de las disposiciones.\n\
+                   TRANSITORIOS\n\
                    TRANSITORIOS\n\
                    (Resolución publicada el 25 de marzo de 2019)\n\
                    ÚNICO.- Entra en vigor.\n\
                    (6)\n\n\
-                   Segunda línea con marca pendiente.\n";
-        let error = parse_itf_dcg(
+                   Segunda línea con marca pendiente.\n\
+                   REFERENCIAS\n\
+                   6)    Reformado mediante Resolución.\n";
+        let document = parse_itf_dcg(
             raw,
             &[],
             ITF_ID,
             NaiveDate::from_ymd_opt(2018, 9, 10).unwrap(),
         )
-        .unwrap_err();
-        assert!(error.to_string().contains('6'));
+        .expect("a marker inside a reform transitory is kept, not an error");
+        let unico = document
+            .reform_evidence
+            .iter()
+            .find(|evidence| evidence.label.contains("ÚNICO"))
+            .expect("the ÚNICO reform transitory is present");
+        assert_eq!(unico.amendment_marks, vec![6]);
     }
 
     #[test]

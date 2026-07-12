@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Disposiciones de carácter general aplicables a las actividades de las sociedades cooperativas de ahorro y préstamo",
+  "short_name": "DCG-SCAP-2012",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publication_date": "2012-06-04",
+  "latest_reform_date": "2026-07-07",
+  "retrieved_at": "2026-07-12T17:58:24.981900Z",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20actividades%20de%20las%20sociedades%20cooperativas%20de%20ahorro%20y%20pr%C3%A9stamo.pdf",
+  "source_sha256": "6e4d5bf49857852a6080148b45b981c5eaf32d7b934dcbd52596b931554b1ec1",
+  "extracted_text_sha256": "2239966d83aa4a007d6d539280a2758c6ec0091022563d2a9338bbdd8a19a328",
+  "parser_version": "0.1.0",
+  "status": "in_force",
+  "issuing_authorities": [
+    "Comisión Nacional Bancaria y de Valores"
+  ]
+}
