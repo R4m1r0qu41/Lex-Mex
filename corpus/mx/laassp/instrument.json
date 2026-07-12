@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:laassp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+  "short_name": "LAASSP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2025-04-16",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-12T03:19:15.916346Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf",
+  "source_sha256": "883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc",
+  "extracted_text_sha256": "59997ed82a2312da00ce29087c207d142e64e1480ad3b327eac457a93784aa3d",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

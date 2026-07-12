@@ -1,0 +1,32 @@
+---
+id: urn:lex-mx:federal:code:cff:article:19
+instrument_id: urn:lex-mx:federal:code:cff
+instrument: CFF
+name: "Código Fiscal de la Federación"
+provision_type: article
+number: "19"
+aliases: ["CFF — Artículo 19"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
+source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
+---
+
+> Título SEGUNDO · Capítulo UNICO
+
+# Artículo 19
+
+En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales se hará mediante escritura pública o mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notario o fedatario público, acompañando copia de la identificación del contribuyente o representante legal, previo cotejo con su original.
+
+El otorgante de la representación podrá solicitar a las autoridades fiscales la inscripción de dicha representación en el registro de representantes legales de las autoridades fiscales y éstas expedirán la constancia de inscripción correspondiente. Con dicha constancia, se podrá acreditar la representación en los trámites que se realicen ante dichas autoridades. Para estos efectos, el Servicio de Administración Tributaría podrá simplificar los requisitos para acreditar la representación de las personas físicas o morales en el registro de representantes legales, mediante reglas de carácter general.
+
+La solicitud de inscripción se hará mediante escrito libre debidamente firmado por quien otorga el poder y por el aceptante del mismo, acompañando el documento en el que conste la representación correspondiente, así como los demás documentos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria. Es responsabilidad del contribuyente que hubiese otorgado la representación y la hubiese inscrito, el solicitar la cancelación de la misma en el registro citado en los casos en que se revoque el poder correspondiente. Para estos efectos, se deberá dar aviso a las autoridades fiscales dentro de los 5 días siguientes a aquél en que se presente tal circunstancia; de no hacerlo, los actos que realice la persona a la que se le revocó la citada representación surtirán plenos efectos jurídicos.
+
+Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer y rendir pruebas y presentar promociones relacionadas con estos propósitos.
+
+Quien promueva a nombre de otro deberá acreditar que la representación le fué otorgada a más tardar en la fecha en que se presenta la promoción.
+
+Para los efectos de este artículo, las escrituras públicas que se contengan en documentos digitales en los términos de lo dispuesto por el artículo 1834-Bis del Código Civil Federal, deberán contener firma electrónica avanzada del fedatario público.
+
+Cuando las promociones deban ser presentadas en documentos digitales por los representantes o los autorizados, el documento digital correspondiente deberá contener firma electrónica avanzada de dichas personas.

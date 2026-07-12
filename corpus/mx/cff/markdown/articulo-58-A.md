@@ -1,0 +1,32 @@
+---
+id: urn:lex-mx:federal:code:cff:article:58-a
+instrument_id: urn:lex-mx:federal:code:cff
+instrument: CFF
+name: "Código Fiscal de la Federación"
+provision_type: article
+number: "58-A"
+aliases: ["CFF — Artículo 58-A"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
+source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
+---
+
+> Título TERCERO · Capítulo I
+
+# Artículo 58-A
+
+Las autoridades fiscales podrán modificar la utilidad o la pérdida fiscal a que se refiere la Ley del Impuesto sobre la Renta, mediante la determinación presuntiva del precio en que los contribuyentes adquieran o enajenen bienes, así como el monto de la contraprestación en el caso de operaciones distintas de enajenación, cuando: I. Las operaciones de que se trate se pacten a menos del precio de mercado o el costo de adquisición sea mayor que dicho precio.
+
+II. La enajenación de los bienes se realice al costo o a menos del costo, salvo que el contribuyente compruebe que la enajenación se hizo al precio de mercado en la fecha de la operación, o que los bienes sufrieron demérito o existieron circunstancias que determinaron la necesidad de efectuar la enajenación en estas condiciones.
+
+III. Se trate de operaciones de importación o exportación, o en general se trate de pagos al extranjero.
+
+Para los efectos de lo dispuesto en el párrafo anterior, las autoridades fiscales podrán considerar lo siguiente:
+
+a) Los precios corrientes en el mercado interior o exterior, y en defecto de éstos, el de avalúo que practiquen u ordenen practicar las autoridades fiscales;
+
+b) El costo de los bienes o servicios, dividido entre el resultado de restar a la unidad el por ciento de utilidad bruta. Se entenderá como por ciento de utilidad bruta, ya sea la determinada de acuerdo con el artículo 60 de este Código o, conforme a lo establecido en el artículo [58](articulo-58.md) del mismo. Para los efectos de lo previsto por este inciso, el costo se determinará según los principios de contabilidad generalmente aceptados;
+
+c) El precio en que un contribuyente enajene bienes adquiridos de otra persona, multiplicado por el resultado de disminuir a la unidad el coeficiente que para determinar la utilidad fiscal de dicho contribuyente le correspondería conforme al artículo 58 de este Código.

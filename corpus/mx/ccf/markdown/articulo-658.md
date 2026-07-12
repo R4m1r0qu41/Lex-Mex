@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:code:ccf:article:658
+instrument_id: urn:lex-mx:federal:code:ccf
+instrument: CCF
+name: "Código Civil Federal"
+provision_type: article
+number: "658"
+aliases: ["CCF — Artículo 658"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf
+source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
+---
+
+> Título UNDECIMO · Capítulo I
+
+# Artículo 658
+
+Si el cónyuge ausente fuere casado en segundas o ulteriores nupcias, y hubiere hijos del matrimonio o matrimonios anteriores, el juez dispondrá que el cónyuge presente y los hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes en su caso, nombren de acuerdo el depositario representante; más si no estuvieren conformes, el juez lo nombrará libremente, de entre las personas designadas por el [artículo anterior](articulo-657.md).

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:code:cff",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cff.htm",
+  "retrieved_at": "2026-07-12T03:02:59.107191Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 3134465,
+  "etag": "\"2fd401-64fb2a1f19100\"",
+  "last_modified": "Sat, 18 Apr 2026 02:15:00 GMT",
+  "source_sha256": "be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d",
+  "extracted_text_sha256": "43cea09c7cac9dd81ef1733a277f05198290077dcaed1fea8c6cc893f4cd2784",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "c391f657b44ad77e972b533038957bc105f9a31c"
+}

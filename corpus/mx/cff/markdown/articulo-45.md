@@ -1,0 +1,26 @@
+---
+id: urn:lex-mx:federal:code:cff:article:45
+instrument_id: urn:lex-mx:federal:code:cff
+instrument: CFF
+name: "Código Fiscal de la Federación"
+provision_type: article
+number: "45"
+aliases: ["CFF — Artículo 45"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
+source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
+---
+
+> Título TERCERO · Capítulo I
+
+# Artículo 45
+
+Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por éstos y sean anexados a las actas finales o parciales que levanten con motivo de la visita. También deberán permitir la verificación de bienes y mercancías, así como de los documentos, estados de cuenta o estados de cuenta bancarios, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados. Párrafo reformado DOF 07-11-2025
+
+Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio que autorice el Servicio de Administración Tributaria mediante reglas de carácter general, deberán poner a disposición de los visitadores el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita, así como entregar a la autoridad los archivos electrónicos en donde conste dicha contabilidad.
+
+En el caso de que los visitadores obtengan copias certificadas de la contabilidad deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el artículo 46 de este Código, con la que podrá terminar la visita domiciliaria en el domicilio o establecimientos del visitado, pudiéndose continuar el ejercicio de las facultades de comprobación en el domicilio del visitado o en las oficinas de las autoridades fiscales, donde se levantará el acta final, con las formalidades a que se refiere el citado artículo.
+
+Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores obtengan copias de sólo parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos de los que se obtuvieron copias, pudiéndose continuar la visita en el domicilio o establecimientos del visitado. En ningún caso las autoridades fiscales podrán recoger la contabilidad del visitado.

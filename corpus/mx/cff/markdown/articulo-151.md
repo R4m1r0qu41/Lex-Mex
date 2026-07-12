@@ -1,0 +1,36 @@
+---
+id: urn:lex-mx:federal:code:cff:article:151
+instrument_id: urn:lex-mx:federal:code:cff
+instrument: CFF
+name: "Código Fiscal de la Federación"
+provision_type: article
+number: "151"
+aliases: ["CFF — Artículo 151"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
+source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
+---
+
+> Título QUINTO · Capítulo III
+
+# Artículo 151
+
+Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y, en caso de que éste no pruebe en el acto haberlo efectuado, procederán de inmediato como sigue:
+
+I. A embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos en favor del fisco, o a embargar los depósitos o seguros a que se refiere el artículo 155, fracción I del presente Código, a fin de que se realicen las transferencias de fondos para satisfacer el crédito fiscal y sus accesorios legales.
+
+En ningún caso procederá el embargo de los depósitos o seguros, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado el embargo de los depósitos o seguros a que se refiere el artículo 155, fracción I, de este Código en una o más cuentas del contribuyente, deberán informarlo a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a la fecha en la que se haya ejecutado, señalando el número de las cuentas así como el importe total que fue embargado. La autoridad fiscal a su vez deberá notificar al contribuyente de dicho embargo a más tardar al vigésimo día siguiente a aquél en que le hubieren comunicado éste. Párrafo reformado DOF 07-11-2025
+
+En los casos en que la autoridad fiscal tenga conocimiento de que el embargo se realizó por un importe mayor al señalado en el segundo párrafo de este artículo, ordenará a más tardar al tercer día siguiente a aquél en que hubiere tenido conocimiento del embargo en exceso, a las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que correspondan, liberar la cantidad correspondiente. Las entidades o sociedades de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos embargados en exceso, a más tardar al tercer día siguiente a aquél en que surta efectos la notificación del oficio de la autoridad fiscal. II. A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
+
+El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género se inscribirá en el registro público que corresponda en atención a la naturaleza de los bienes o derechos de que se trate.
+
+Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del registro público que corresponda en todas ellas se inscribirá el embargo.
+
+Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades o por error aritmético en las declaraciones, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
+
+No se practicará embargo respecto de aquellos créditos fiscales que hayan sido impugnados en sede administrativa o jurisdiccional y se encuentren garantizados en términos de lo establecido en las disposiciones legales aplicables.

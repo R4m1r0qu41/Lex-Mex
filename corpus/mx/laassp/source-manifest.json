@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:laassp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/laassp.htm",
+  "retrieved_at": "2026-07-12T03:19:15.916346Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 682666,
+  "etag": "\"a6aaa-6337aa3b77580\"",
+  "last_modified": "Wed, 23 Apr 2025 23:41:26 GMT",
+  "source_sha256": "883f6e9c3139d0961de302de7bddcf3262c69884008bb3b2324d57e5d67009fc",
+  "extracted_text_sha256": "59997ed82a2312da00ce29087c207d142e64e1480ad3b327eac457a93784aa3d",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "109648f0b72c2d6d0cbe54ffb72931072879f97b"
+}

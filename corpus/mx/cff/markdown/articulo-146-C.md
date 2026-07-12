@@ -1,0 +1,26 @@
+---
+id: urn:lex-mx:federal:code:cff:article:146-c
+instrument_id: urn:lex-mx:federal:code:cff
+instrument: CFF
+name: "Código Fiscal de la Federación"
+provision_type: article
+number: "146-C"
+aliases: ["CFF — Artículo 146-C"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
+source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
+---
+
+> Título QUINTO · Capítulo III
+
+# Artículo 146-C
+
+Tratándose de créditos fiscales a cargo de cualquier entidad paraestatal de la Administración que se encuentre en proceso de extinción o liquidación, así como a cargo de cualquier sociedad, asociación o fideicomiso en el que, sin tener el carácter de entidad paraestatal, el Gobierno Federal o una o más entidades de la Administración Pública paraestatal, conjunta o separadamente, aporten la totalidad del patrimonio o sean propietarias de la totalidad de los títulos representativos del capital social, que se encuentre en proceso de liquidación o extinción, operará de pleno derecho la extinción de dichos créditos, sin necesidad de autorización alguna, siempre y cuando se cumplan los siguientes requisitos:
+
+I. Que exista dictamen de auditor externo en el que se manifieste que la entidad no sea titular de activo alguno con el que sea posible ejecutar el cobro total o parcial de los créditos, excluyendo aquellos que se encuentren afectos mediante garantía real al pago de obligaciones que se encuentren firmes y que sean preferentes a las fiscales federales en términos de lo dispuesto por este Código.
+
+II. El Servicio de Administración y Enajenación de Bienes deberá informar a las autoridades fiscales de la actualización de la hipótesis prevista en la fracción anterior.
+
+Cumplido lo anterior los créditos fiscales quedarán cancelados de las cuentas públicas.

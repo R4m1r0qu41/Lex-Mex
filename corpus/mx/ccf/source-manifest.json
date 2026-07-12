@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:code:ccf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-07-12T03:14:18.114700Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 3415624,
+  "etag": "\"341e48-6446ed857fbc0\"",
+  "last_modified": "Tue, 25 Nov 2025 17:45:27 GMT",
+  "source_sha256": "4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76",
+  "extracted_text_sha256": "1354024226abc613a98718cae252b473680f2473cc58107e554d802ddcf593e2",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "cca4ef4de4aa5d57ce4fc24c1fd21c6f5db2e903"
+}

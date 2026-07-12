@@ -1,0 +1,30 @@
+---
+id: urn:lex-mx:federal:code:cff:article:39
+instrument_id: urn:lex-mx:federal:code:cff
+instrument: CFF
+name: "Código Fiscal de la Federación"
+provision_type: article
+number: "39"
+aliases: ["CFF — Artículo 39"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
+source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
+---
+
+> Título TERCERO · Capítulo I
+
+# Artículo 39
+
+El Ejecutivo Federal mediante resoluciones de carácter general podrá:
+
+I. Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del país, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
+
+Sin que las facultades otorgadas en esta fracción puedan entenderse referidas a los casos en que la afectación o posible afectación a una determinada rama de la industria obedezca a lo dispuesto en una Ley Tributaria Federal o Tratado Internacional.
+
+II. Dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en las leyes fiscales, sin variar las disposiciones relacionadas con el sujeto, el objeto, la base, la cuota, la tasa o la tarifa de los gravámenes, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
+
+III. Conceder subsidios o estímulos fiscales.
+
+Las resoluciones que conforme a este Artículo dicte el Ejecutivo Federal, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.

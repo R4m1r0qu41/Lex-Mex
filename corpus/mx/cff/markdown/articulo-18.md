@@ -1,0 +1,38 @@
+---
+id: urn:lex-mx:federal:code:cff:article:18
+instrument_id: urn:lex-mx:federal:code:cff
+instrument: CFF
+name: "Código Fiscal de la Federación"
+provision_type: article
+number: "18"
+aliases: ["CFF — Artículo 18"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
+source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
+---
+
+> Título SEGUNDO · Capítulo UNICO
+
+# Artículo 18
+
+Toda promoción dirigida a las autoridades fiscales, deberá presentarse mediante documento digital que contenga firma electrónica avanzada. Los contribuyentes que exclusivamente se dediquen a las actividades agrícolas, ganaderas, pesqueras o silvícolas que no queden comprendidos en el tercer párrafo del artículo 31 de este Código, podrán no utilizar firma electrónica avanzada. El Servicio de Administración Tributaria, mediante reglas de carácter general, podrá determinar las promociones que se presentarán mediante documento impreso.
+
+Las promociones deberán enviarse a través del buzón tributario y deberán tener por lo menos los siguientes requisitos:
+
+I. El nombre, la denominación o razón social, y el domicilio fiscal manifestado al registro federal de contribuyentes, para el efecto de fijar la competencia de la autoridad, y la clave que le correspondió en dicho registro.
+
+II. Señalar la autoridad a la que se dirige y el propósito de la promoción.
+
+III. La dirección de correo electrónico para recibir notificaciones.
+
+Cuando no se cumplan los requisitos a que se refieren las fracciones I y II de este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de 10 días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada, así como cuando se omita señalar la dirección de correo electrónico.
+
+Los contribuyentes a que se refiere el tercer párrafo del artículo 31 de este Código no estarán obligados a utilizar los documentos digitales previstos en este artículo. En estos casos, las promociones deberán presentarse en documento impreso y estar firmadas por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella dactilar. Las promociones deberán presentarse en las formas que al efecto apruebe el Servicio de Administración Tributaria. Cuando no existan formas aprobadas, la promoción deberá reunir los requisitos que establece este artículo, con excepción del formato y dirección de correo electrónicos. Además deberán señalar el domicilio para oír y recibir notificaciones y, en su caso, el nombre de la persona autorizada para recibirlas.
+
+Cuando el promovente que cuente con un certificado de firma electrónica avanzada, acompañe documentos distintos a escrituras o poderes notariales, y éstos no sean digitalizados, la promoción deberá presentarla en forma impresa, cumpliendo los requisitos a que se refiere el párrafo anterior, debiendo incluir su dirección de correo electrónico. Las escrituras o poderes notariales deberán presentarse en forma digitalizada, cuando se acompañen a un documento digital.
+
+Cuando no se cumplan los requisitos a que se refieren los párrafos cuarto y quinto de este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de 10 días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada, si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades fiscales deberán especificar en el requerimiento la forma respectiva.
+
+Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos al registro federal de contribuyentes a que se refiere el artículo 31 de este Código.

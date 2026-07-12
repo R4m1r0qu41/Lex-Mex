@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:code:cff",
+  "valid": true,
+  "article_count": 421,
+  "transitory_count": 11,
+  "reference_count": 163,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "suffix_order",
+      "message": "article 70 Bis does not sort after 70-A within the same base",
+      "provision_id": "urn:lex-mx:federal:code:cff:article:70-bis"
+    }
+  ]
+}

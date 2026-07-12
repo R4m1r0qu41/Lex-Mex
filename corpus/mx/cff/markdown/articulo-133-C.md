@@ -1,0 +1,34 @@
+---
+id: urn:lex-mx:federal:code:cff:article:133-c
+instrument_id: urn:lex-mx:federal:code:cff
+instrument: CFF
+name: "Código Fiscal de la Federación"
+provision_type: article
+number: "133-C"
+aliases: ["CFF — Artículo 133-C"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
+source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
+---
+
+> Título QUINTO · Capítulo I
+
+# Artículo 133-C
+
+El promovente que haya optado por el recurso de revocación exclusivo de fondo no podrá variar su elección.
+
+Antes de admitir a trámite el recurso de revocación exclusivo de fondo, la autoridad deberá verificar que se cumplan los requisitos de procedencia y que no se configure alguna causal de sobreseimiento de conformidad con lo previsto en los artículos 18, 121, 122, 123, 124, 124-A y 126 de este Código.
+
+El promovente sólo podrá hacer valer agravios que tengan por objeto resolver exclusivamente sobre el fondo de la resolución que se recurre, sin que obste para ello que la misma se encuentre motivada en el incumplimiento total o parcial de los requisitos exclusivamente formales o de procedimiento establecidos en las disposiciones jurídicas aplicables.
+
+Para los efectos del recurso de revocación exclusivo de fondo, se entenderá como agravio de fondo aquel que se refiera al sujeto, objeto, base, tasa o tarifa, respecto de las contribuciones revisadas que pretendan controvertir conforme a alguno de los siguientes supuestos:
+
+I. Los hechos u omisiones calificados en la resolución impugnada como constitutivos de incumplimiento de las obligaciones revisadas.
+
+II. La aplicación o interpretación de las normas jurídicas involucradas.
+
+III. Los efectos que haya atribuido la autoridad emisora al contribuyente, respecto del incumplimiento total o parcial de requisitos formales o de procedimiento que impacten y trasciendan al fondo de la resolución recurrida.
+
+IV. La valoración o falta de apreciación de las pruebas relacionadas con los supuestos mencionados en las fracciones anteriores.

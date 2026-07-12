@@ -1,0 +1,34 @@
+---
+id: urn:lex-mx:federal:code:ccf:article:828
+instrument_id: urn:lex-mx:federal:code:ccf
+instrument: CCF
+name: "Código Civil Federal"
+provision_type: article
+number: "828"
+aliases: ["CCF — Artículo 828"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf
+source_sha256: 4d4090f60137ce0d82bf321c24c962f698c407910fc94ebeb34b49d0a4236a76
+---
+
+> Título TERCERO · Capítulo UNICO
+
+# Artículo 828
+
+La posesión se pierde:
+
+I. Por abandono;
+
+II. Por cesión a título oneroso o gratuito;
+
+III. Por la destrucción o pérdida de la cosa o por quedar ésta fuera del comercio;
+
+IV. Por resolución judicial;
+
+V. Por despojo, si la posesión del despojado dura más de un año;
+
+VI. Por reivindicación del propietario;
+
+VII. Por expropiación por causa de utilidad pública.

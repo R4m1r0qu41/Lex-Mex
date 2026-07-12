@@ -1,0 +1,32 @@
+---
+id: urn:lex-mx:federal:code:cff:article:133
+instrument_id: urn:lex-mx:federal:code:cff
+instrument: CFF
+name: "Código Fiscal de la Federación"
+provision_type: article
+number: "133"
+aliases: ["CFF — Artículo 133"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
+source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
+---
+
+> Título QUINTO · Capítulo I
+
+# Artículo 133
+
+La resolución que ponga fin al recurso podrá:
+
+I. Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo, en su caso.
+
+II. Confirmar el acto impugnado.
+
+III. Mandar reponer el procedimiento administrativo o que se emita una nueva resolución.
+
+IV. Dejar sin efectos el acto impugnado.
+
+V. Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
+
+Cuando se deje sin efectos el acto impugnado por la incompetencia de la autoridad que emitió el acto, la resolución correspondiente declarará la nulidad lisa y llana.

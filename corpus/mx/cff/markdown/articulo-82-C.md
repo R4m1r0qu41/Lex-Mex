@@ -1,0 +1,26 @@
+---
+id: urn:lex-mx:federal:code:cff:article:82-c
+instrument_id: urn:lex-mx:federal:code:cff
+instrument: CFF
+name: "Código Fiscal de la Federación"
+provision_type: article
+number: "82-C"
+aliases: ["CFF — Artículo 82-C"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
+source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
+---
+
+> Título CUARTO · Capítulo I
+
+# Artículo 82-C
+
+Son infracciones relacionadas con la revelación de esquemas reportables cometidas por los contribuyentes, las siguientes:
+
+I. No revelar un esquema reportable, revelarlo de forma incompleta o con errores. Se considera que la información se presenta de forma incompleta o con errores, cuando la falta de esa información o los datos incorrectos afecten sustancialmente el análisis del esquema reportable. II. No incluir el número de identificación del esquema reportable obtenido directamente del Servicio de Administración Tributaria o a través de un asesor fiscal en su declaración de impuestos conforme a lo dispuesto en el artículo 202 de este Código.
+
+III. No atender el requerimiento de información adicional que efectúe la autoridad fiscal o manifestar falsamente que no cuenta con la información requerida respecto al esquema reportable en los términos del artículo 201 de este Código.
+
+IV. No informar al Servicio de Administración Tributaria cualquier cambio que suceda con posterioridad a la revelación del esquema reportable, de conformidad con lo establecido en el penúltimo párrafo del artículo 202 de este Código. Asimismo, informar de forma extemporánea en el caso de la información señalada en las fracciones VI, VII y VIII del artículo 200 de este Código.

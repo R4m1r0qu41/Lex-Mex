@@ -1,0 +1,38 @@
+---
+id: urn:lex-mx:federal:code:cff:article:144
+instrument_id: urn:lex-mx:federal:code:cff
+instrument: CFF
+name: "Código Fiscal de la Federación"
+provision_type: article
+number: "144"
+aliases: ["CFF — Artículo 144"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
+source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d
+---
+
+> Título QUINTO · Capítulo II
+
+# Artículo 144
+
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación, o de quince días, tratándose de la determinación de cuotas obrero-patronales o de capitales constitutivos al seguro social y los créditos fiscales determinados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores. Si a más tardar al vencimiento de los citados plazos se acredita la impugnación que se hubiere intentado y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el procedimiento administrativo de ejecución.
+
+Cuando el contribuyente hubiere interpuesto en tiempo y forma los recursos de inconformidad establecidos en los artículos 294 de la Ley del Seguro Social y 52 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, no estará obligado a exhibir la garantía correspondiente sino, en su caso, hasta que sea resuelto cualquiera de los medios de defensa señalados en el presente artículo. Párrafo reformado DOF 12-11-2021, 07-11-2025
+
+Para efectos del párrafo anterior, el contribuyente contará con un plazo de diez días siguientes a aquél en que haya surtido efectos la notificación de la resolución que recaiga a los recursos de inconformidad, para pagar o garantizar los créditos fiscales en términos de lo dispuesto en este Código. Párrafo reformado DOF 12-11-2021, 07-11-2025
+
+Cuando en el medio de defensa se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados con los recargos correspondientes.
+
+Cuando se garantice el interés fiscal el contribuyente tendrá obligación de comunicar por escrito la garantía, a la autoridad que le haya notificado el crédito fiscal.
+
+Si se controvierten sólo determinados conceptos de la resolución administrativa que determinó el crédito fiscal, el particular pagará la parte consentida del crédito y los recargos correspondientes, mediante declaración complementaria y garantizará la parte controvertida y sus recargos.
+
+En el supuesto del párrafo anterior, si el particular no presenta declaración complementaria, la autoridad exigirá la cantidad que corresponda a la parte consentida, sin necesidad de emitir otra resolución. Si se confirma en forma definitiva la validez de la resolución impugnada, la autoridad procederá a exigir la diferencia no cubierta, con los recargos causados.
+
+No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal o cuando el contribuyente declare bajo protesta de decir verdad que son los únicos que posee. En el caso de que la autoridad compruebe por cualquier medio que esta declaración es falsa podrá exigir garantía adicional, sin perjuicio de las sanciones que correspondan. En todo caso, se observará lo dispuesto en el segundo párrafo del artículo 141 de este Código.
+
+También se suspenderá la ejecución del acto que determine un crédito fiscal cuando los tribunales competentes notifiquen a las autoridades fiscales sentencia de concurso mercantil dictada en términos de la ley de la materia y siempre que se hubiese notificado previamente a dichas autoridades la presentación de la demanda correspondiente.
+
+Las autoridades fiscales continuarán con el procedimiento administrativo de ejecución a fin de obtener el pago del crédito fiscal, cuando en el procedimiento judicial de concurso mercantil se hubiere celebrado convenio estableciendo el pago de los créditos fiscales y éstos no sean pagados dentro de los cinco días siguientes a la celebración de dicho convenio o cuando no se dé cumplimiento al pago con la prelación establecida en este Código. Asimismo, las autoridades fiscales podrán continuar con dicho procedimiento cuando se inicie la etapa de quiebra en el procedimiento de concurso mercantil en los términos de la ley correspondiente. Reforma DOF 12-11-2021: Derogó del artículo el entonces párrafo décimo
