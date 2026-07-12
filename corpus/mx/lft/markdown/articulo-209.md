@@ -1,0 +1,32 @@
+---
+id: urn:lex-mx:federal:statute:lft:article:209
+instrument_id: urn:lex-mx:federal:statute:lft
+instrument: LFT
+name: "Ley Federal del Trabajo"
+provision_type: article
+number: "209"
+aliases: ["LFT — Artículo 209"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
+source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
+---
+
+> Título SEXTO · Capítulo III
+
+# Artículo 209
+
+La terminación de las relaciones de trabajo de los trabajadores se sujetará a las normas siguientes:
+
+I. Cuando falten diez días o menos para su vencimiento y se pretenda hacer un nuevo viaje que exceda en duración a este término, podrán los trabajadores pedir la terminación de las relaciones de trabajo, dando aviso con tres días de anticipación al de la salida del buque;
+
+II. Las relaciones de trabajo no pueden darse por terminadas cuando el buque esté en el mar o cuando estando en puerto se intente la terminación dentro de las veinticuatro horas anteriores a su salida, a menos que en este último caso se cambie el destino final del buque;
+
+III. Tampoco pueden darse por terminadas las relaciones de trabajo cuando el buque esté en el extranjero, en lugares despoblados o en puerto, siempre que en este último caso se exponga al buque a cualquier riesgo por mal tiempo u otras circunstancias;
+
+IV. Cuando las relaciones de trabajo sean por tiempo indeterminado, el trabajador deberá dar aviso al armador, naviero o fletador con setenta y dos horas de anticipación;
+
+V. Cuando el buque se pierda por apresamiento o siniestro, se darán por terminadas las relaciones de trabajo, quedando obligado el armador, naviero o fletador, a repatriar a los trabajadores y a cubrir el importe de los salarios hasta su restitución al puerto de destino o al que se haya señalado en el contrato y el de las demás prestaciones a que tuviesen derecho. Los trabajadores y el patrón podrán convenir en que se proporcione a aquéllos un trabajo de la misma categoría en otro buque del patrón; si no se llega a un convenio tendrán derecho los trabajadores a que se les indemnice de conformidad con lo dispuesto en el artículo [436](articulo-436.md); y
+
+VI. El cambio de nacionalidad de un buque mexicano es causa de terminación de las relaciones de trabajo. El armador, naviero o fletador, queda obligado a repatriar a los trabajadores y a cubrir el importe de los salarios y prestaciones a que se refiere el párrafo primero de la fracción anterior. Los trabajadores y el patrón podrán convenir en que se proporcione a aquéllos un trabajo de la misma categoría en otro buque del patrón; si no se llega a un convenio, tendrán derecho los trabajadores a que se les indemnice de conformidad con lo dispuesto en el artículo [50](articulo-50.md).

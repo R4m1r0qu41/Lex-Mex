@@ -1,0 +1,38 @@
+---
+id: urn:lex-mx:federal:statute:lft:article:899-c
+instrument_id: urn:lex-mx:federal:statute:lft
+instrument: LFT
+name: "Ley Federal del Trabajo"
+provision_type: article
+number: "899-C"
+aliases: ["LFT — Artículo 899-C"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
+source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
+---
+
+> Título CATORCE · Capítulo XVIII
+
+# Artículo 899-C
+
+Las demandas relativas a los conflictos a que se refiere esta sección, deberán contener:
+
+I. Nombre, domicilio y fecha de nacimiento del promovente y los documentos que acrediten su personalidad;
+
+II. Exposición de los hechos y causas que dan origen a su reclamación;
+
+III. Las pretensiones del promovente, expresando claramente lo que se le pide;
+
+IV. Nombre y domicilio de las empresas o establecimientos en las que ha laborado; puestos desempeñados; actividades desarrolladas; antigüedad generada y cotizaciones al régimen de seguridad social; V. Número de seguridad social o referencia de identificación como asegurado, pensionado o beneficiario, clínica o unidad de medicina familiar asignada;
+
+VI. En su caso, el último estado de la cuenta individual de ahorro para el retiro, constancia expedida por el Instituto Mexicano del Seguro Social de otorgamiento o negativa de pensión, o constancia de otorgamiento o negativa de crédito para vivienda;
+
+VII. Los documentos expedidos por los patrones, el Instituto Mexicano del Seguro Social, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores y la Administradora de Fondos para el Retiro correspondiente o, en su caso, el acuse de recibo de la solicitud de los mismos y, en general, la información necesaria que garantice la sustanciación del procedimiento con apego al principio de inmediatez;
+
+VIII. Las demás pruebas que juzgue conveniente para acreditar sus pretensiones; y
+
+IX. Las copias necesarias de la demanda y sus anexos, para correr traslado a la contraparte.
+
+Artículo adicionado DOF 30-11-2012

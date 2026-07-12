@@ -1,5 +1,27 @@
 # Architecture decisions
 
+## 2026-07-12 — `Ñ` is a distinct letter in canonical article identifiers
+
+LFT article 353 runs a letter-suffix series (`353-A` … `353-U`) that
+includes both `353-N` and `353-Ñ` — two distinct articles. The label
+grammar and the retired Python tooling both folded `Ñ`→`N` (accent
+stripping / NFD + drop-combining-marks), collapsing them onto one
+canonical id `…:article:353-n`; the vault only ever held a single folded
+`articulo-353.md`, a defect this normalization corrects.
+
+`Ñ` is a distinct letter of the Spanish alphabet, not an accented `n`.
+The canonical slug therefore **preserves `ñ`** (lowercased UTF-8): `353-Ñ`
+→ `…:article:353-ñ`, file `articulo-353-ñ.md`, distinct from `353-n`.
+Only article-label slugs (`labels.rs`) preserve it; defined-term slugs
+(`terms.rs::slug`) still fold `ñ`→`n` and remain ASCII, because the
+term-id schema constrains ids to `[a-z0-9-]+`. No committed provision or
+reference schema constrains the id charset beyond the `urn:lex-mx:`
+prefix, so non-ASCII article ids validate. For ordering, `Ñ` sorts
+between `N` and `O` (Spanish collation), matching how the law sequences
+353-N, 353-Ñ, 353-O. Only LFT carries an `ñ` article label, so the three
+committed corpora and every earlier bulk instrument reparse
+byte-identically.
+
 ## 2026-07-12 — Reference-graph rules for bulk código ingestion
 
 Ingesting the foundational codes (CCom, CPF, CNPP, CFPC, LAmp, LBM,

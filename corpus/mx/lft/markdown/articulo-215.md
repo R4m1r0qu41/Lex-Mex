@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lft:article:215
+instrument_id: urn:lex-mx:federal:statute:lft
+instrument: LFT
+name: "Ley Federal del Trabajo"
+provision_type: article
+number: "215"
+aliases: ["LFT — Artículo 215"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
+source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
+---
+
+> Título SEXTO · Capítulo IV
+
+# Artículo 215
+
+Las disposiciones de este capítulo se aplican al trabajo de las tripulaciones de las aeronaves civiles que ostenten matrícula mexicana. Tienen como finalidad, además de la prevista en el artículo [2](articulo-2o.md)o, garantizar la seguridad de las operaciones aeronáuticas, y son irrenunciables en la medida en que correspondan a este propósito.

@@ -1,0 +1,5474 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:1:term-usage:147-159",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 147,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:3-ter:term-usage:130-153",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:3-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 130,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:3-ter:term-usage:777-785",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:3-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 777,
+    "end_char": 785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:4:term-usage:556-564",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 556,
+    "end_char": 564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:5:term-usage:448-456",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 448,
+    "end_char": 456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:5:term-usage:700-708",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 700,
+    "end_char": 708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:6:term-usage:99-111",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 99,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:17:term-usage:37-49",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 37,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:17:term-usage:391-403",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 391,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:22:term-usage:264-272",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 264,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:33:term-usage:421-444",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 421,
+    "end_char": 444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:33:term-usage:450-458",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 450,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:33:term-usage:691-699",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 691,
+    "end_char": 699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:42:term-usage:679-691",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 679,
+    "end_char": 691
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:42:term-usage:774-786",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:42",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 774,
+    "end_char": 786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:44:term-usage:157-169",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 157,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:47:term-usage:3837-3845",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3837,
+    "end_char": 3845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:47:term-usage:4385-4393",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 4385,
+    "end_char": 4393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:48:term-usage:38-60",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 38,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:48:term-usage:72-80",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 72,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:48:term-usage:2776-2799",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 2776,
+    "end_char": 2799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:48-bis:term-usage:339-362",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:48-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 339,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:48-bis:term-usage:373-383",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:48-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 373,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:48-bis:term-usage:3107-3129",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:48-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 3107,
+    "end_char": 3129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:48-bis:term-usage:3135-3143",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:48-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3135,
+    "end_char": 3143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:49:term-usage:334-342",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 334,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:49:term-usage:490-498",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 490,
+    "end_char": 498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:49:term-usage:1243-1251",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1243,
+    "end_char": 1251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:49:term-usage:1433-1441",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1433,
+    "end_char": 1441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:49:term-usage:1765-1773",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1765,
+    "end_char": 1773
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:49:term-usage:2244-2252",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2244,
+    "end_char": 2252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:49:term-usage:2335-2343",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2335,
+    "end_char": 2343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:49:term-usage:2498-2506",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2498,
+    "end_char": 2506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:57:term-usage:33-41",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 33,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:75:term-usage:182-190",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 182,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:114:term-usage:93-101",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:114",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 93,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:121:term-usage:1792-1800",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:121",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1792,
+    "end_char": 1800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:127:term-usage:90-102",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:127",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 90,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:132:term-usage:2435-2447",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:132",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 2435,
+    "end_char": 2447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:152:term-usage:53-61",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:152",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 53,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:153:term-usage:49-57",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:153",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 49,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:153-x:term-usage:65-75",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:153-x",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 65,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:157:term-usage:124-132",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:157",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 124,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:158:term-usage:463-471",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:158",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 463,
+    "end_char": 471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:163:term-usage:699-707",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:163",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 699,
+    "end_char": 707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:175-bis:term-usage:814-826",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:175-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 814,
+    "end_char": 826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:176:term-usage:3096-3108",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:176",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 3096,
+    "end_char": 3108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:207:term-usage:54-62",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:207",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 54,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:210:term-usage:518-526",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:210",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 518,
+    "end_char": 526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:211:term-usage:54-73",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:211",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 54,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:245:term-usage:3-22",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:245",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 3,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:245-bis:term-usage:550-560",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:245-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 550,
+    "end_char": 560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:273:term-usage:398-406",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:273",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 398,
+    "end_char": 406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:277:term-usage:648-656",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:277",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 648,
+    "end_char": 656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:278:term-usage:375-383",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:278",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 375,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:331-ter:term-usage:1727-1739",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:331-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1727,
+    "end_char": 1739
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:341:term-usage:403-415",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:341",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 403,
+    "end_char": 415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:343-e:term-usage:1113-1121",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:343-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1113,
+    "end_char": 1121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:353-o:term-usage:81-100",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:353-o",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 81,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:353-r:term-usage:294-302",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:353-r",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 294,
+    "end_char": 302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:353-u:term-usage:315-327",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:353-u",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 315,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:364:term-usage:194-204",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:364",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 194,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:364-bis:term-usage:375-394",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:364-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 375,
+    "end_char": 394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:366:term-usage:425-444",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:366",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 425,
+    "end_char": 444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:366:term-usage:691-710",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:366",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 691,
+    "end_char": 710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:366:term-usage:769-788",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:366",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 769,
+    "end_char": 788
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:369:term-usage:875-885",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:369",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 875,
+    "end_char": 885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:373:term-usage:1022-1041",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:373",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 1022,
+    "end_char": 1041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:373:term-usage:2195-2203",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:373",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2195,
+    "end_char": 2203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:373:term-usage:2302-2321",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:373",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 2302,
+    "end_char": 2321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:377:term-usage:204-223",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:377",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 204,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:377:term-usage:673-692",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:377",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 673,
+    "end_char": 692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:384:term-usage:61-80",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:384",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 61,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:389:term-usage:82-92",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:389",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 82,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:389:term-usage:406-414",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:389",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 406,
+    "end_char": 414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:390-bis:term-usage:1537-1556",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:390-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 1537,
+    "end_char": 1556
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:390-bis:term-usage:7081-7100",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:390-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 7081,
+    "end_char": 7100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:390-bis:term-usage:7858-7877",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:390-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 7858,
+    "end_char": 7877
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:390-bis:term-usage:8549-8568",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:390-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 8549,
+    "end_char": 8568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:390-bis:term-usage:9401-9420",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:390-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 9401,
+    "end_char": 9420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:390-bis:term-usage:9790-9809",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:390-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 9790,
+    "end_char": 9809
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:390-ter:term-usage:3540-3559",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:390-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 3540,
+    "end_char": 3559
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:391-bis:term-usage:3-22",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:391-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 3,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:391-bis:term-usage:496-515",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:391-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 496,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:392:term-usage:196-206",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:392",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 196,
+    "end_char": 206
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:399-ter:term-usage:102-121",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:399-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 102,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:399-ter:term-usage:126-134",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:399-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 126,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:399-ter:term-usage:140-162",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:399-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 140,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:399-ter:term-usage:370-392",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:399-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 370,
+    "end_char": 392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:399-ter:term-usage:409-417",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:399-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 409,
+    "end_char": 417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:399-ter:term-usage:553-572",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:399-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 553,
+    "end_char": 572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:418:term-usage:227-237",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:418",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 227,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:424:term-usage:602-612",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:424",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 602,
+    "end_char": 612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:424-bis:term-usage:202-221",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:424-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 202,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:426:term-usage:70-80",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:426",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 70,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:429:term-usage:175-183",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:429",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 175,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:429:term-usage:523-531",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:429",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 523,
+    "end_char": 531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:429:term-usage:776-784",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:429",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 776,
+    "end_char": 784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:429:term-usage:1070-1078",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:429",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1070,
+    "end_char": 1078
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:430:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:430",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:431:term-usage:69-77",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:431",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 69,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:431:term-usage:152-160",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:431",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 152,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:432:term-usage:171-179",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:432",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 171,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:435:term-usage:161-169",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:435",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 161,
+    "end_char": 169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:435:term-usage:472-480",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:435",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 472,
+    "end_char": 480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:435:term-usage:788-796",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:435",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 788,
+    "end_char": 796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:439:term-usage:209-217",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:439",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 209,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:448:term-usage:131-139",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:448",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 131,
+    "end_char": 139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:448:term-usage:249-257",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:448",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 249,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:449:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:449",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:469:term-usage:387-395",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:469",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 387,
+    "end_char": 395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:483:term-usage:167-175",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:483",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 167,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:490:term-usage:129-137",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:490",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 129,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:493:term-usage:136-144",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:493",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 136,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:503:term-usage:282-290",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:503",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 282,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:503:term-usage:666-674",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:503",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 666,
+    "end_char": 674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:503:term-usage:934-942",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:503",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 934,
+    "end_char": 942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:503:term-usage:1112-1120",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:503",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1112,
+    "end_char": 1120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:503:term-usage:1394-1402",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:503",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1394,
+    "end_char": 1402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:503:term-usage:1519-1527",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:503",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1519,
+    "end_char": 1527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:503:term-usage:1648-1656",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:503",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1648,
+    "end_char": 1656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:503:term-usage:1935-1943",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:503",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1935,
+    "end_char": 1943
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:504:term-usage:1255-1263",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:504",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1255,
+    "end_char": 1263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:505:term-usage:219-227",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:505",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 219,
+    "end_char": 227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:513:term-usage:301633-301641",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:513",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 301633,
+    "end_char": 301641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:519:term-usage:280-288",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:519",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 280,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:519:term-usage:715-723",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:519",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 715,
+    "end_char": 723
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:521:term-usage:108-116",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:521",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 108,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:521:term-usage:268-276",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:521",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 268,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:521:term-usage:332-354",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:521",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 332,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:521:term-usage:507-515",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:521",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 507,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:521:term-usage:923-945",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:521",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 923,
+    "end_char": 945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:521:term-usage:1114-1136",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:521",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 1114,
+    "end_char": 1136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:523:term-usage:325-348",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:523",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 325,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:523:term-usage:923-933",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:523",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 923,
+    "end_char": 933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:523:term-usage:1018-1028",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:523",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 1018,
+    "end_char": 1028
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:527:term-usage:2545-2564",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:527",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 2545,
+    "end_char": 2564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:530:term-usage:557-580",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:530",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 557,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:541:term-usage:822-845",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:541",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 822,
+    "end_char": 845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:541:term-usage:848-858",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:541",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 848,
+    "end_char": 858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:541:term-usage:2134-2142",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:541",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2134,
+    "end_char": 2142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:590-b:term-usage:775-785",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:590-b",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 775,
+    "end_char": 785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:590-b:term-usage:881-893",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:590-b",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 881,
+    "end_char": 893
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:590-b:term-usage:1430-1442",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:590-b",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1430,
+    "end_char": 1442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:590-e:term-usage:18-41",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:590-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 18,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:590-f:term-usage:4-27",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:590-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 4,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:590-f:term-usage:250-262",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:590-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 250,
+    "end_char": 262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:590-f:term-usage:388-410",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:590-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 388,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:590-f:term-usage:891-901",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:590-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 891,
+    "end_char": 901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:590-f:term-usage:998-1010",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:590-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 998,
+    "end_char": 1010
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:604:term-usage:19-29",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:604",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 19,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:604:term-usage:75-85",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:604",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 75,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:605:term-usage:4-14",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:605",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 4,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:610:term-usage:95-103",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:610",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 95,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-a:term-usage:123-133",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 123,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-b:term-usage:22-32",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-b",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 22,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-b:term-usage:81-103",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-b",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 81,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-c:term-usage:171-193",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-c",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 171,
+    "end_char": 193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-c:term-usage:1324-1346",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-c",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 1324,
+    "end_char": 1346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-c:term-usage:1386-1394",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-c",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1386,
+    "end_char": 1394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-c:term-usage:1613-1635",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-c",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 1613,
+    "end_char": 1635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-c:term-usage:2161-2183",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-c",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 2161,
+    "end_char": 2183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-d:term-usage:126-148",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-d",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 126,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-d:term-usage:386-408",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-d",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 386,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:211-233",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 211,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:490-513",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 490,
+    "end_char": 513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:752-775",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 752,
+    "end_char": 775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:2038-2060",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 2038,
+    "end_char": 2060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:2092-2114",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 2092,
+    "end_char": 2114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:2311-2333",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 2311,
+    "end_char": 2333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:3374-3396",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 3374,
+    "end_char": 3396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:4123-4145",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 4123,
+    "end_char": 4145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:5445-5467",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 5445,
+    "end_char": 5467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:5614-5622",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 5614,
+    "end_char": 5622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:6312-6335",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 6312,
+    "end_char": 6335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:6614-6622",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 6614,
+    "end_char": 6622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:6669-6694",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridades Conciliadoras",
+    "start_char": 6669,
+    "end_char": 6694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:6944-6966",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 6944,
+    "end_char": 6966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:7897-7919",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 7897,
+    "end_char": 7919
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:8045-8067",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 8045,
+    "end_char": 8067
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-e:term-usage:8176-8198",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 8176,
+    "end_char": 8198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-g:term-usage:326-348",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-g",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 326,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-j:term-usage:39-64",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-j",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridades Conciliadoras",
+    "start_char": 39,
+    "end_char": 64
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-j:term-usage:146-156",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-j",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 146,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-k:term-usage:137-160",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-k",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 137,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-n:term-usage:296-318",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-n",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 296,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-o:term-usage:26-48",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-o",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 26,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-o:term-usage:477-499",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-o",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 477,
+    "end_char": 499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-p:term-usage:132-157",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-p",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridades Conciliadoras",
+    "start_char": 132,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-q:term-usage:250-272",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-q",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 250,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-r:term-usage:3-25",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-r",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 3,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-s:term-usage:26-48",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-s",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 26,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-s:term-usage:282-304",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-s",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 282,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-s:term-usage:435-457",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-s",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 435,
+    "end_char": 457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-t:term-usage:183-205",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-t",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 183,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-u:term-usage:87-109",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-u",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 87,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:684-u:term-usage:333-355",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:684-u",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 333,
+    "end_char": 355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:685:term-usage:251-261",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:685",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 251,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:685:term-usage:819-827",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:685",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 819,
+    "end_char": 827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:685-bis:term-usage:237-245",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:685-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 237,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:686:term-usage:151-161",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:686",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 151,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:688:term-usage:112-122",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:688",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 112,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:690:term-usage:191-199",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:690",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 191,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:690:term-usage:480-488",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:690",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 480,
+    "end_char": 488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:691:term-usage:156-164",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:691",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 156,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:692:term-usage:401-409",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:692",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 401,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:693:term-usage:4-14",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:693",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 4,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:694:term-usage:148-158",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:694",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 148,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:697:term-usage:575-583",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:697",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 575,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:698:term-usage:24-34",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:698",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 24,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:698:term-usage:174-182",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:698",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 174,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:698:term-usage:358-370",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:698",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 358,
+    "end_char": 370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:699:term-usage:291-299",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:699",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 291,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:699:term-usage:391-399",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:699",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 391,
+    "end_char": 399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:699:term-usage:541-549",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:699",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 541,
+    "end_char": 549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:700:term-usage:199-207",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:700",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 199,
+    "end_char": 207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:700:term-usage:286-294",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:700",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 286,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:700:term-usage:383-391",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:700",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 383,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:700:term-usage:483-491",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:700",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 483,
+    "end_char": 491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:700:term-usage:658-666",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:700",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 658,
+    "end_char": 666
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:700:term-usage:740-748",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:700",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 740,
+    "end_char": 748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:700:term-usage:920-928",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:700",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 920,
+    "end_char": 928
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:700:term-usage:1088-1096",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:700",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1088,
+    "end_char": 1096
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:700:term-usage:1208-1216",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:700",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1208,
+    "end_char": 1216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:700:term-usage:1230-1238",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:700",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1230,
+    "end_char": 1238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:701:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:701",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:701:term-usage:190-198",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:701",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 190,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:703:term-usage:220-228",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:703",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 220,
+    "end_char": 228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:704:term-usage:10-18",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:704",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 10,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:704:term-usage:169-177",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:704",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 169,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:704:term-usage:375-383",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:704",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 375,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:705-bis:term-usage:286-294",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:705-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 286,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:705-bis:term-usage:682-692",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:705-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 682,
+    "end_char": 692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:706:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:706",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:706-bis:term-usage:170-180",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:706-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 170,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:707-bis:term-usage:1708-1716",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:707-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1708,
+    "end_char": 1716
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:707-bis:term-usage:2899-2907",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:707-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2899,
+    "end_char": 2907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:709-a:term-usage:37-45",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:709-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 37,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:709-a:term-usage:137-145",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:709-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 137,
+    "end_char": 145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:709-a:term-usage:401-409",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:709-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 401,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:709-b:term-usage:210-218",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:709-b",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 210,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:709-c:term-usage:127-137",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:709-c",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 127,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:709-h:term-usage:163-171",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:709-h",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 163,
+    "end_char": 171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:712:term-usage:609-617",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:712",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 609,
+    "end_char": 617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:712:term-usage:743-751",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:712",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 743,
+    "end_char": 751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:712:term-usage:1088-1096",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:712",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1088,
+    "end_char": 1096
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:712:term-usage:2051-2059",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:712",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2051,
+    "end_char": 2059
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:712-bis:term-usage:4-14",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:712-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 4,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:712-bis:term-usage:169-177",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:712-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 169,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:712-ter:term-usage:42-52",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:712-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 42,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:714:term-usage:23-33",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:714",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 23,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:714:term-usage:98-121",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:714",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 98,
+    "end_char": 121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:717:term-usage:4-14",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:717",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 4,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:717:term-usage:75-98",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:717",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 75,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:718:term-usage:230-238",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:718",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 230,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:719:term-usage:86-94",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:719",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 86,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:720:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:720",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:720:term-usage:404-412",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:720",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 404,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:720:term-usage:531-539",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:720",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 531,
+    "end_char": 539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:720:term-usage:1739-1747",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:720",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1739,
+    "end_char": 1747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:720:term-usage:2635-2643",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:720",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2635,
+    "end_char": 2643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:721:term-usage:524-532",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:721",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 524,
+    "end_char": 532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:722:term-usage:84-92",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:722",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 84,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:723:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:723",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:724:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:724",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:725:term-usage:216-224",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:725",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 216,
+    "end_char": 224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:726:term-usage:37-45",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:726",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 37,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:726:term-usage:252-260",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:726",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 252,
+    "end_char": 260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:726:term-usage:441-449",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:726",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 441,
+    "end_char": 449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:726:term-usage:556-564",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:726",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 556,
+    "end_char": 564
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:727:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:727",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:728:term-usage:26-36",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:728",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 26,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:728:term-usage:88-111",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:728",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 88,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:729:term-usage:492-500",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:729",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 492,
+    "end_char": 500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:730:term-usage:124-132",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:730",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 124,
+    "end_char": 132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:734:term-usage:52-60",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:734",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 52,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:737:term-usage:135-143",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:737",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 135,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:737:term-usage:151-173",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:737",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 151,
+    "end_char": 173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:739:term-usage:203-225",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:739",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 203,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:739:term-usage:243-251",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:739",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 243,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:739:term-usage:859-867",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:739",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 859,
+    "end_char": 867
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:739:term-usage:1143-1165",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:739",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 1143,
+    "end_char": 1165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:739:term-usage:1171-1179",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:739",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1171,
+    "end_char": 1179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:739:term-usage:1599-1607",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:739",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1599,
+    "end_char": 1607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:739:term-usage:2317-2339",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:739",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 2317,
+    "end_char": 2339
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:739:term-usage:2345-2353",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:739",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2345,
+    "end_char": 2353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:739-bis:term-usage:604-626",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:739-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 604,
+    "end_char": 626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:739-ter:term-usage:50-73",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:739-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 50,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:742:term-usage:202-212",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:742",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 202,
+    "end_char": 212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:742:term-usage:348-356",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:742",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 348,
+    "end_char": 356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:742:term-usage:1459-1482",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:742",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 1459,
+    "end_char": 1482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:742:term-usage:1497-1507",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:742",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 1497,
+    "end_char": 1507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:742:term-usage:1699-1722",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:742",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 1699,
+    "end_char": 1722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:743:term-usage:2968-2978",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:743",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 2968,
+    "end_char": 2978
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:743:term-usage:2985-3008",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:743",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 2985,
+    "end_char": 3008
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:744:term-usage:154-162",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:744",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 154,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:745:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:745",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:745:term-usage:26-36",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:745",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 26,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:745-ter:term-usage:467-475",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:745-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 467,
+    "end_char": 475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:745-ter:term-usage:1001-1009",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:745-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1001,
+    "end_char": 1009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:745-ter:term-usage:1499-1507",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:745-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1499,
+    "end_char": 1507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:746:term-usage:140-148",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:746",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 140,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:746:term-usage:458-466",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:746",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 458,
+    "end_char": 466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:747:term-usage:381-389",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:747",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 381,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:749:term-usage:128-136",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:749",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 128,
+    "end_char": 136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:753:term-usage:72-80",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:753",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 72,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:753:term-usage:89-111",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:753",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 89,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:753:term-usage:234-242",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:753",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 234,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:753:term-usage:250-272",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:753",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 250,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:753:term-usage:680-688",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:753",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 680,
+    "end_char": 688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:753:term-usage:696-718",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:753",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 696,
+    "end_char": 718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:757:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:757",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:758:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:758",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:760:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:760",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:766:term-usage:65-75",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:766",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 65,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:769:term-usage:381-389",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:769",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 381,
+    "end_char": 389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:770:term-usage:168-176",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:770",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 168,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:771:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:771",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:772:term-usage:213-221",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:772",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 213,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:772:term-usage:460-468",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:772",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 460,
+    "end_char": 468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:773:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:773",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:773:term-usage:736-744",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:773",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 736,
+    "end_char": 744
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:774:term-usage:91-99",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:774",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 91,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:778:term-usage:299-307",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:778",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 299,
+    "end_char": 307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:779:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:779",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:782:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:782",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:783:term-usage:262-270",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:783",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 262,
+    "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:783:term-usage:507-517",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:783",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 507,
+    "end_char": 517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:784:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:784",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:784:term-usage:1011-1019",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:784",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1011,
+    "end_char": 1019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:785:term-usage:94-102",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:785",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 94,
+    "end_char": 102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:785:term-usage:507-515",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:785",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 507,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:790:term-usage:1353-1361",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:790",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1353,
+    "end_char": 1361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:790:term-usage:1475-1483",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:790",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1475,
+    "end_char": 1483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:791:term-usage:123-131",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:791",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 123,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:791:term-usage:251-259",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:791",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 251,
+    "end_char": 259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:793:term-usage:294-302",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:793",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 294,
+    "end_char": 302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:793:term-usage:410-418",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:793",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 410,
+    "end_char": 418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:801:term-usage:310-318",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:801",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 310,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:803:term-usage:167-175",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:803",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 167,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:807:term-usage:297-305",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:807",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 297,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:813:term-usage:460-468",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:813",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 460,
+    "end_char": 468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:813:term-usage:730-738",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:813",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 730,
+    "end_char": 738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:813:term-usage:1127-1135",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:813",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1127,
+    "end_char": 1135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:813:term-usage:1318-1326",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:813",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1318,
+    "end_char": 1326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:813:term-usage:1359-1367",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:813",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1359,
+    "end_char": 1367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:814:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:814",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:815:term-usage:190-198",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:815",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 190,
+    "end_char": 198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:815:term-usage:314-322",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:815",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 314,
+    "end_char": 322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:815:term-usage:1326-1334",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:815",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1326,
+    "end_char": 1334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:815:term-usage:2277-2285",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:815",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2277,
+    "end_char": 2285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:815:term-usage:2921-2929",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:815",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2921,
+    "end_char": 2929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:815:term-usage:3323-3331",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:815",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3323,
+    "end_char": 3331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:816:term-usage:115-123",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:816",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 115,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:817:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:817",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:818:term-usage:118-126",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:818",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 118,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:818:term-usage:172-180",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:818",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 172,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:819:term-usage:147-155",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:819",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 147,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:821:term-usage:277-285",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:821",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 277,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:823:term-usage:209-217",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:823",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 209,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:824:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:824",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:824-bis:term-usage:55-63",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:824-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 55,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:824-bis:term-usage:191-199",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:824-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 191,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:824-bis:term-usage:365-373",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:824-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 365,
+    "end_char": 373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:826:term-usage:25-33",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:826",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 25,
+    "end_char": 33
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:826:term-usage:231-239",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:826",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 231,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:826-bis:term-usage:92-100",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:826-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 92,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:827:term-usage:354-362",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:827",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 354,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:827:term-usage:609-617",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:827",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 609,
+    "end_char": 617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:828:term-usage:40-48",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:828",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 40,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:828:term-usage:166-174",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:828",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 166,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:829:term-usage:159-167",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:829",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 159,
+    "end_char": 167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:829:term-usage:962-970",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:829",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 962,
+    "end_char": 970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:830:term-usage:46-54",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:830",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 46,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:830:term-usage:133-141",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:830",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 133,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:836:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:836",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:836-a:term-usage:138-146",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:836-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 138,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:836-a:term-usage:443-451",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:836-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 443,
+    "end_char": 451
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:836-d:term-usage:96-104",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:836-d",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 96,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:836-d:term-usage:383-391",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:836-d",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 383,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:836-d:term-usage:639-647",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:836-d",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 639,
+    "end_char": 647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:836-d:term-usage:1703-1711",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:836-d",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1703,
+    "end_char": 1711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:836-d:term-usage:1986-1994",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:836-d",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1986,
+    "end_char": 1994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:836-d:term-usage:2177-2185",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:836-d",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2177,
+    "end_char": 2185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:838:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:838",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:839:term-usage:44-54",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:839",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 44,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:840:term-usage:76-84",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:840",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 76,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:841:term-usage:195-205",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:841",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 195,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:847:term-usage:111-119",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:847",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 111,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:847:term-usage:201-209",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:847",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 201,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:848:term-usage:4-14",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:848",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 4,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:848:term-usage:234-244",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:848",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 234,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:857:term-usage:29-37",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:857",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 29,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:857:term-usage:712-720",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:857",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 712,
+    "end_char": 720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:857:term-usage:1576-1584",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:857",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1576,
+    "end_char": 1584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:858:term-usage:1282-1290",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:858",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1282,
+    "end_char": 1290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:860:term-usage:140-148",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:860",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 140,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:861:term-usage:259-267",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:861",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 259,
+    "end_char": 267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:861:term-usage:684-692",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:861",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 684,
+    "end_char": 692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:862:term-usage:304-312",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:862",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 304,
+    "end_char": 312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:863:term-usage:544-552",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:863",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 544,
+    "end_char": 552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:871:term-usage:136-144",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:871",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 136,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:871:term-usage:262-270",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:871",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 262,
+    "end_char": 270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:872:term-usage:226-234",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:872",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 226,
+    "end_char": 234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:872:term-usage:501-509",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:872",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 501,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873:term-usage:96-104",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 96,
+    "end_char": 104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873:term-usage:399-407",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 399,
+    "end_char": 407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873:term-usage:691-699",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 691,
+    "end_char": 699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873:term-usage:1104-1112",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1104,
+    "end_char": 1112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873:term-usage:1293-1301",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1293,
+    "end_char": 1301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873:term-usage:1799-1807",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1799,
+    "end_char": 1807
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-a:term-usage:54-62",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 54,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-a:term-usage:2515-2523",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2515,
+    "end_char": 2523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-a:term-usage:3913-3921",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3913,
+    "end_char": 3921
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-a:term-usage:4124-4132",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 4124,
+    "end_char": 4132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-a:term-usage:4369-4377",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 4369,
+    "end_char": 4377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-b:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-b",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-c:term-usage:43-51",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-c",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 43,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-c:term-usage:897-905",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-c",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 897,
+    "end_char": 905
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-d:term-usage:1073-1081",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-d",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1073,
+    "end_char": 1081
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-f:term-usage:143-151",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 143,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-f:term-usage:1097-1105",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1097,
+    "end_char": 1105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-f:term-usage:1281-1289",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1281,
+    "end_char": 1289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-f:term-usage:1451-1459",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1451,
+    "end_char": 1459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-f:term-usage:1873-1881",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1873,
+    "end_char": 1881
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-f:term-usage:1930-1938",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1930,
+    "end_char": 1938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-f:term-usage:2181-2189",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2181,
+    "end_char": 2189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-f:term-usage:2350-2358",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2350,
+    "end_char": 2358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-f:term-usage:2854-2862",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2854,
+    "end_char": 2862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-f:term-usage:3200-3208",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3200,
+    "end_char": 3208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-g:term-usage:414-422",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-g",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 414,
+    "end_char": 422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-g:term-usage:508-516",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-g",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 508,
+    "end_char": 516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-g:term-usage:738-746",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-g",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 738,
+    "end_char": 746
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-i:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-i",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-j:term-usage:52-60",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-j",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 52,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-j:term-usage:467-475",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-j",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 467,
+    "end_char": 475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:873-j:term-usage:825-833",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:873-j",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 825,
+    "end_char": 833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:874:term-usage:72-80",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:874",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 72,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:874:term-usage:514-522",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:874",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 514,
+    "end_char": 522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:893:term-usage:172-180",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:893",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 172,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:894:term-usage:127-135",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:894",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 127,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:894:term-usage:395-403",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:894",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 395,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:894:term-usage:705-713",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:894",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 705,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:894:term-usage:1103-1111",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:894",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1103,
+    "end_char": 1111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:896:term-usage:101-109",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:896",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 101,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:896:term-usage:555-563",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:896",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 555,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:896:term-usage:616-624",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:896",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 616,
+    "end_char": 624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:896:term-usage:663-671",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:896",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 663,
+    "end_char": 671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:897-a:term-usage:62-70",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:897-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 62,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:897-b:term-usage:15-23",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:897-b",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 15,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:897-f:term-usage:125-133",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:897-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 125,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:897-f:term-usage:1678-1686",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:897-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1678,
+    "end_char": 1686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:897-f:term-usage:2072-2080",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:897-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2072,
+    "end_char": 2080
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:897-f:term-usage:2237-2245",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:897-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2237,
+    "end_char": 2245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:897-f:term-usage:2470-2478",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:897-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2470,
+    "end_char": 2478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:897-f:term-usage:3201-3209",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:897-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3201,
+    "end_char": 3209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:897-f:term-usage:3361-3369",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:897-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3361,
+    "end_char": 3369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-a:term-usage:813-821",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 813,
+    "end_char": 821
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-a:term-usage:1162-1170",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-a",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1162,
+    "end_char": 1170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-e:term-usage:1505-1513",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1505,
+    "end_char": 1513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-e:term-usage:1755-1763",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1755,
+    "end_char": 1763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-e:term-usage:1979-1987",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1979,
+    "end_char": 1987
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-e:term-usage:2387-2395",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2387,
+    "end_char": 2395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-e:term-usage:2745-2753",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2745,
+    "end_char": 2753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-e:term-usage:3019-3027",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3019,
+    "end_char": 3027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-e:term-usage:3487-3495",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3487,
+    "end_char": 3495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-e:term-usage:3616-3624",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3616,
+    "end_char": 3624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-e:term-usage:3921-3929",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-e",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3921,
+    "end_char": 3929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-f:term-usage:188-196",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 188,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-f:term-usage:1129-1137",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-f",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1129,
+    "end_char": 1137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:899-g:term-usage:413-421",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:899-g",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 413,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:901:term-usage:72-82",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:901",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 72,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:902:term-usage:132-140",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:902",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 132,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:902:term-usage:294-302",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:902",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 294,
+    "end_char": 302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:905:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:905",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:905:term-usage:681-689",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:905",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 681,
+    "end_char": 689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:905:term-usage:862-870",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:905",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 862,
+    "end_char": 870
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:905:term-usage:1605-1613",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:905",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1605,
+    "end_char": 1613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:905:term-usage:1767-1775",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:905",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1767,
+    "end_char": 1775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:906:term-usage:405-413",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:906",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 405,
+    "end_char": 413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:906:term-usage:753-761",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:906",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 753,
+    "end_char": 761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:907:term-usage:30-38",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:907",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 30,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:909:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:909",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:912:term-usage:79-87",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:912",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 79,
+    "end_char": 87
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:913:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:913",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:916:term-usage:50-58",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:916",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 50,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:916:term-usage:426-434",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:916",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 426,
+    "end_char": 434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:919:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:919",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:920:term-usage:447-455",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:920",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 447,
+    "end_char": 455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:920:term-usage:553-561",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:920",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 553,
+    "end_char": 561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:920:term-usage:850-858",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:920",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 850,
+    "end_char": 858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:921:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:921",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:921:term-usage:532-542",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:921",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 532,
+    "end_char": 542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:921-bis:term-usage:98-106",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:921-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 98,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:921-bis:term-usage:200-222",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:921-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 200,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:921-bis:term-usage:489-497",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:921-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 489,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:922:term-usage:136-144",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:922",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 136,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:923:term-usage:495-503",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:923",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 495,
+    "end_char": 503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:926:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:926",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:926:term-usage:160-182",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:926",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 160,
+    "end_char": 182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:927:term-usage:168-176",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:927",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 168,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:927:term-usage:452-460",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:927",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 452,
+    "end_char": 460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:927:term-usage:1145-1153",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:927",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1145,
+    "end_char": 1153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:927:term-usage:1529-1537",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:927",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1529,
+    "end_char": 1537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:928:term-usage:370-378",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:928",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 370,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:928:term-usage:494-502",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:928",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 494,
+    "end_char": 502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:928:term-usage:527-549",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:928",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 527,
+    "end_char": 549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:928:term-usage:842-850",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:928",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 842,
+    "end_char": 850
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:928:term-usage:1100-1108",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:928",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1100,
+    "end_char": 1108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:928:term-usage:1310-1318",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:928",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1310,
+    "end_char": 1318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:928:term-usage:1516-1524",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:928",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1516,
+    "end_char": 1524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:929:term-usage:119-127",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:929",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 119,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:929:term-usage:502-510",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:929",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 502,
+    "end_char": 510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:930:term-usage:720-728",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:930",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 720,
+    "end_char": 728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:930:term-usage:1299-1307",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:930",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1299,
+    "end_char": 1307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:930:term-usage:1570-1578",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:930",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1570,
+    "end_char": 1578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:930:term-usage:1787-1795",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:930",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1787,
+    "end_char": 1795
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:931:term-usage:1742-1750",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:931",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1742,
+    "end_char": 1750
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:931:term-usage:2362-2370",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:931",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2362,
+    "end_char": 2370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:931:term-usage:2607-2615",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:931",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2607,
+    "end_char": 2615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:931:term-usage:2998-3006",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:931",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2998,
+    "end_char": 3006
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:932:term-usage:6-14",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:932",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 6,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:934:term-usage:6-14",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:934",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 6,
+    "end_char": 14
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:935:term-usage:43-51",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:935",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 43,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:935:term-usage:368-376",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:935",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 368,
+    "end_char": 376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:936:term-usage:153-161",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:936",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 153,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:937:term-usage:101-109",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:937",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 101,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:937:term-usage:346-354",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:937",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 346,
+    "end_char": 354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:938:term-usage:352-360",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:938",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 352,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:938:term-usage:660-668",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:938",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 660,
+    "end_char": 668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:938:term-usage:744-752",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:938",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 744,
+    "end_char": 752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:938:term-usage:1612-1620",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:938",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1612,
+    "end_char": 1620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:939:term-usage:87-97",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:939",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 87,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:939:term-usage:267-290",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:939",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 267,
+    "end_char": 290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:940:term-usage:106-116",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:940",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 106,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:941:term-usage:48-56",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:941",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 48,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:942:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:942",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:943:term-usage:86-94",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:943",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 86,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:943:term-usage:348-356",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:943",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 348,
+    "end_char": 356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:945:term-usage:940-948",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:945",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 940,
+    "end_char": 948
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:945:term-usage:1107-1115",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:945",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1107,
+    "end_char": 1115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:947:term-usage:100-108",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:947",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 100,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:947:term-usage:823-835",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:947",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 823,
+    "end_char": 835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:948:term-usage:57-65",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:948",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 57,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:949:term-usage:138-146",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:949",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 138,
+    "end_char": 146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:949:term-usage:278-286",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:949",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 278,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:949:term-usage:309-317",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:949",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 309,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:956:term-usage:133-141",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:956",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 133,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:957:term-usage:416-424",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:957",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 416,
+    "end_char": 424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:958:term-usage:206-214",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:958",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 206,
+    "end_char": 214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:962:term-usage:46-54",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:962",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 46,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:963:term-usage:485-493",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:963",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 485,
+    "end_char": 493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:963:term-usage:961-969",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:963",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 961,
+    "end_char": 969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:963:term-usage:1113-1121",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:963",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1113,
+    "end_char": 1121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:963:term-usage:1321-1329",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:963",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1321,
+    "end_char": 1329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:964:term-usage:776-784",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:964",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 776,
+    "end_char": 784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:964:term-usage:987-995",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:964",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 987,
+    "end_char": 995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:964:term-usage:1512-1520",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:964",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1512,
+    "end_char": 1520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:965:term-usage:308-316",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:965",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 308,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:966:term-usage:403-411",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:966",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 403,
+    "end_char": 411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:966:term-usage:497-505",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:966",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 497,
+    "end_char": 505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:966:term-usage:964-972",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:966",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 964,
+    "end_char": 972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:966-bis:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:966-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:966-bis:term-usage:479-487",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:966-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 479,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:966-bis:term-usage:683-693",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:966-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 683,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:966-ter:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:966-ter",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:968:term-usage:586-594",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:968",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 586,
+    "end_char": 594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:968:term-usage:676-684",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:968",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 676,
+    "end_char": 684
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:968:term-usage:1568-1576",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:968",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1568,
+    "end_char": 1576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:971:term-usage:127-135",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:971",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 127,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:972:term-usage:49-57",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:972",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 49,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:974:term-usage:181-189",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:974",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 181,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:975:term-usage:60-68",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:975",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 60,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:975:term-usage:372-380",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:975",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 372,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:975:term-usage:755-763",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:975",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 755,
+    "end_char": 763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:977:term-usage:48-56",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:977",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 48,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:977:term-usage:424-432",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:977",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 424,
+    "end_char": 432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:977:term-usage:1058-1066",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:977",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1058,
+    "end_char": 1066
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:978:term-usage:152-160",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:978",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 152,
+    "end_char": 160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:979:term-usage:88-96",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:979",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 88,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:980:term-usage:129-137",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:980",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 129,
+    "end_char": 137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:980:term-usage:548-556",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:980",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 548,
+    "end_char": 556
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:980:term-usage:1057-1065",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:980",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1057,
+    "end_char": 1065
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:981:term-usage:39-47",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:981",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 39,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:981:term-usage:150-158",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:981",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 150,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:982:term-usage:195-203",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:982",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 195,
+    "end_char": 203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:983:term-usage:118-126",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:983",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 118,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:983:term-usage:352-360",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:983",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 352,
+    "end_char": 360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:984:term-usage:176-184",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:984",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 176,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:984:term-usage:358-366",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:984",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 358,
+    "end_char": 366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:985:term-usage:223-231",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:985",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 223,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:986:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:986",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:986:term-usage:380-388",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:986",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 380,
+    "end_char": 388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:987:term-usage:128-151",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:987",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centros de Conciliación",
+    "start_char": 128,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:987:term-usage:330-352",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:987",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 330,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:987:term-usage:957-979",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:987",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "span": "Centro de Conciliación",
+    "start_char": 957,
+    "end_char": 979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:988:term-usage:147-155",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:988",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 147,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:988:term-usage:333-341",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:988",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 333,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:989:term-usage:52-60",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:989",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 52,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:990:term-usage:149-157",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:990",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 149,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:991:term-usage:86-94",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:991",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 86,
+    "end_char": 94
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:991:term-usage:236-244",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:991",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 236,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:991-bis:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:991-bis",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:994:term-usage:2059-2078",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:994",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "span": "Autoridad Registral",
+    "start_char": 2059,
+    "end_char": 2078
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:994:term-usage:2084-2106",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:994",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "span": "Autoridad Conciliadora",
+    "start_char": 2084,
+    "end_char": 2106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:1003:term-usage:193-201",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:1003",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 193,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:1005:term-usage:882-892",
+    "provision_id": "urn:lex-mx:federal:statute:lft:article:1005",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 882,
+    "end_char": 892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:transitory:13:term-usage:1918-1930",
+    "provision_id": "urn:lex-mx:federal:statute:lft:transitory:13",
+    "term_id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "span": "Constitución",
+    "start_char": 1918,
+    "end_char": 1930
+  }
+]

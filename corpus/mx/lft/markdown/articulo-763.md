@@ -1,0 +1,28 @@
+---
+id: urn:lex-mx:federal:statute:lft:article:763
+instrument_id: urn:lex-mx:federal:statute:lft
+instrument: LFT
+name: "Ley Federal del Trabajo"
+provision_type: article
+number: "763"
+aliases: ["LFT — Artículo 763"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
+source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
+---
+
+> Título CATORCE · Capítulo IX
+
+# Artículo 763
+
+Cuando en una audiencia o diligencia se promueva incidente de falta de personalidad, se sustanciará de inmediato oyendo a las partes y se resolverá, continuándose el procedimiento.
+
+En los demás casos a que se refiere el [artículo anterior](articulo-762.md), se señalará día y hora para la celebración de la audiencia incidental, que se realizará dentro de las veinticuatro horas siguientes, en la que las partes podrán ofrecer y desahogar pruebas documentales e instrumentales para que de inmediato se resuelva el incidente, continuándose el procedimiento.
+
+Lo establecido en los párrafos anteriores no aplica en lo que se refiere al juicio individual ordinario previsto en el capítulo XVII del presente Título. Párrafo adicionado DOF 01-05-2019
+
+Al promoverse un incidente, se señalarán los motivos de este y acompañarse las pruebas en que lo funde; de no cumplir con dichos requisitos, el tribunal lo desechará de plano. Párrafo adicionado DOF 01-05-2019 Los incidentes que no tengan señalada una tramitación especial en esta Ley se resolverán de plano oyendo a las partes.
+
+Artículo reformado DOF 04-01-1980, 30-11-2012

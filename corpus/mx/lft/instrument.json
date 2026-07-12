@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lft",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal del Trabajo",
+  "short_name": "LFT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1970-04-01",
+  "latest_reform_date": "2026-05-14",
+  "retrieved_at": "2026-07-12T08:17:33.164964Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+  "source_sha256": "12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7",
+  "extracted_text_sha256": "7f23927580b0e0b4bfd5c344f04541a772093f3ee25a8461791340b915aabd04",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

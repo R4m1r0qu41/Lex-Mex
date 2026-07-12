@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lft",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm",
+  "retrieved_at": "2026-07-12T08:17:33.164964Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 4225835,
+  "etag": "\"407b2b-65220088aa900\"",
+  "last_modified": "Mon, 18 May 2026 23:36:36 GMT",
+  "source_sha256": "12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7",
+  "extracted_text_sha256": "7f23927580b0e0b4bfd5c344f04541a772093f3ee25a8461791340b915aabd04",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1aade790644b79b02ce4e0b0bee309ec53b1448f"
+}

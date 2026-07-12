@@ -1,0 +1,26 @@
+---
+id: urn:lex-mx:federal:statute:lft:article:548
+instrument_id: urn:lex-mx:federal:statute:lft
+instrument: LFT
+name: "Ley Federal del Trabajo"
+provision_type: article
+number: "548"
+aliases: ["LFT — Artículo 548"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
+source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
+---
+
+> Título ONCE · Capítulo V
+
+# Artículo 548
+
+Las sanciones que pueden imponerse a los Inspectores del Trabajo, independientemente de lo que dispongan las leyes penales, son:
+
+I. Amonestación;
+
+II. Suspensión hasta por tres meses; y
+
+III. Destitución.

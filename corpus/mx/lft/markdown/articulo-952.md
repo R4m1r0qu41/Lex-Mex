@@ -1,0 +1,40 @@
+---
+id: urn:lex-mx:federal:statute:lft:article:952
+instrument_id: urn:lex-mx:federal:statute:lft
+instrument: LFT
+name: "Ley Federal del Trabajo"
+provision_type: article
+number: "952"
+aliases: ["LFT — Artículo 952"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
+source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
+---
+
+> Título QUINCE · Capítulo I
+
+# Artículo 952
+
+Quedan únicamente exceptuados de embargo:
+
+I. Los bienes que constituyen el patrimonio de familia;
+
+II. Los que pertenezcan a la casa habitación, siempre que sean de uso indispensable;
+
+III. La maquinaria, los instrumentos, útiles y animales de una empresa o establecimiento, en cuanto sean necesarios para el desarrollo de sus actividades.
+
+Podrá embargarse la empresa o establecimiento, de conformidad con lo dispuesto en el artículo [966](articulo-966.md) de esta Ley;
+
+IV. Las mieses antes de ser cosechadas, pero no los derechos sobre las siembras;
+
+V. Las armas y caballos de los militares en servicio activo, indispensables para éste, de conformidad con las leyes;
+
+VI. El derecho de usufructo, pero no los frutos de éste;
+
+VII. Los derechos de uso y de habitación; y
+
+VIII. Las servidumbres, a no ser que se embargue el fundo, a cuyo favor estén constituidas.
+
+Artículo adicionado DOF 04-01-1980

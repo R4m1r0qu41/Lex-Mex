@@ -1,0 +1,28 @@
+---
+id: urn:lex-mx:federal:statute:lft:article:729
+instrument_id: urn:lex-mx:federal:statute:lft
+instrument: LFT
+name: "Ley Federal del Trabajo"
+provision_type: article
+number: "729"
+aliases: ["LFT — Artículo 729"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
+source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
+---
+
+> Título CATORCE · Capítulo V
+
+# Artículo 729
+
+Las correcciones disciplinarias que pueden imponerse son: Párrafo reformado DOF 30-11-2012
+
+I. Amonestación;
+
+II. Multa, que no podrá exceder de 100 veces la Unidad de Medida y Actualización en el momento en que se cometa la falta. Tratándose de trabajadores, la multa no podrá exceder del importe de su jornal o salario en un día. Para los efectos de este artículo, no se considera trabajadores a los apoderados, y Fracción reformada DOF 30-11-2012, 01-05-2019
+
+III. Expulsión del local del [Tribunal](articulo-3o.-Ter.md); la persona que se resista a cumplir la orden, será desalojada del local con el auxilio de la fuerza pública. Fracción reformada DOF 01-05-2019
+
+Artículo reformado DOF 04-01-1980

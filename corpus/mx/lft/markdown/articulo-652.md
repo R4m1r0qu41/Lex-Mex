@@ -1,0 +1,34 @@
+---
+id: urn:lex-mx:federal:statute:lft:article:652
+instrument_id: urn:lex-mx:federal:statute:lft
+instrument: LFT
+name: "Ley Federal del Trabajo"
+provision_type: article
+number: "652"
+aliases: ["LFT — Artículo 652"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
+source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
+---
+
+> Título TRECE · Capítulo I
+
+# Artículo 652
+
+Los representantes de los trabajadores serán elegidos en las convenciones por los delegados que previamente se designen, de conformidad con las normas siguientes:
+
+I. Tienen derecho a designar delegados a las convenciones:
+
+a) Los sindicatos de trabajadores debidamente registrados. b) Los trabajadores libres que hubiesen prestado servicios a un patrón, por un período no menor de seis meses durante el año anterior a la fecha de la convocatoria, cuando no existan sindicatos registrados;
+
+II. Serán considerados miembros de los sindicatos los trabajadores registrados en los mismos, cuando:
+
+a) Estén prestando servicios a un patrón.
+
+b) Hubiesen prestado servicios a un patrón por un período de seis meses durante el año anterior a la fecha de la convocatoria;
+
+III. Los trabajadores libres a que se refiere la fracción I, inciso b), designarán un delegado en cada empresa o establecimiento; y
+
+IV. Las credenciales de los delegados serán extendidas por la directiva de los sindicatos o por la que designen los trabajadores libres.

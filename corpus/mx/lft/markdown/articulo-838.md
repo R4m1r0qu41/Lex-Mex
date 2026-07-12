@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:statute:lft:article:838
+instrument_id: urn:lex-mx:federal:statute:lft
+instrument: LFT
+name: "Ley Federal del Trabajo"
+provision_type: article
+number: "838"
+aliases: ["LFT — Artículo 838"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
+source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7
+---
+
+> Título CATORCE · Capítulo XIII
+
+# Artículo 838
+
+El [Tribunal](articulo-3o.-Ter.md) dictará sus resoluciones en el acto en que concluya la diligencia respectiva o dentro de las cuarenta y ocho horas siguientes a aquellas en la que reciba promociones por escrito, salvo disposición en contrario de esta Ley.
+
+Artículo reformado DOF 04-01-1980, 01-05-2019

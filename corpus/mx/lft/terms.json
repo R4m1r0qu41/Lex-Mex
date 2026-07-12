@@ -1,0 +1,79 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:term:autoridad-conciliadora",
+    "term": "Autoridad Conciliadora",
+    "instrument_id": "urn:lex-mx:federal:statute:lft",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lft:article:3-ter",
+    "fraction": "I",
+    "start_char": 44,
+    "end_char": 204,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:term:autoridad-registral",
+    "term": "Autoridad Registral",
+    "instrument_id": "urn:lex-mx:federal:statute:lft",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lft:article:3-ter",
+    "fraction": "II",
+    "start_char": 204,
+    "end_char": 284,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:term:centros-de-conciliacion",
+    "term": "Centros de Conciliación",
+    "instrument_id": "urn:lex-mx:federal:statute:lft",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lft:article:3-ter",
+    "fraction": "III",
+    "start_char": 284,
+    "end_char": 447,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:term:constitucion",
+    "term": "Constitución",
+    "instrument_id": "urn:lex-mx:federal:statute:lft",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lft:article:3-ter",
+    "fraction": "IV",
+    "start_char": 447,
+    "end_char": 524,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:term:dia",
+    "term": "Día",
+    "instrument_id": "urn:lex-mx:federal:statute:lft",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lft:article:3-ter",
+    "fraction": "V",
+    "start_char": 524,
+    "end_char": 632,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:term:tribunal",
+    "term": "Tribunal",
+    "instrument_id": "urn:lex-mx:federal:statute:lft",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lft:article:3-ter",
+    "fraction": "VI",
+    "start_char": 632,
+    "end_char": 666,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:term:correr-traslado",
+    "term": "Correr traslado",
+    "instrument_id": "urn:lex-mx:federal:statute:lft",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lft:article:3-ter",
+    "fraction": "VII",
+    "start_char": 666,
+    "end_char": 861,
+    "basis": "express_definition"
+  }
+]

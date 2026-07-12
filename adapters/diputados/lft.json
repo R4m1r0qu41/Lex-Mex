@@ -1,0 +1,23 @@
+{
+  "slug": "lft",
+  "instrument_id": "urn:lex-mx:federal:statute:lft",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal del Trabajo",
+  "short_name": "LFT",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lft.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1970-04-01",
+  "expected_min_articles": 1266,
+  "expected_articles": 1266,
+  "expected_transitories": 13,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T08:16:25Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

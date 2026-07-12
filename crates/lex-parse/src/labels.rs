@@ -37,7 +37,11 @@ fn qualifier_rank(index: usize) -> u8 {
     }
 }
 
-const SUFFIX_LETTERS: &str = "ABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÑ";
+// Spanish collation order: `Ñ` is its own letter, sorting between `N`
+// and `O` (as it appears in law, e.g. LFT 353-N, 353-Ñ, 353-O). The
+// accented vowels trail; they are diacritics, not distinct letters, and
+// are vanishingly rare as article suffixes.
+const SUFFIX_LETTERS: &str = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZÁÉÍÓÚ";
 
 #[derive(Debug, Clone, PartialEq, Eq)]
 struct Component {
@@ -126,8 +130,10 @@ fn strip_accents(value: &str) -> String {
             'Í' | 'Ì' | 'Ï' => 'I',
             'Ó' | 'Ò' | 'Ö' => 'O',
             'Ú' | 'Ù' | 'Ü' => 'U',
-            'ñ' => 'n',
-            'Ñ' => 'N',
+            // `ñ`/`Ñ` is a distinct Spanish letter, not an accented `n`:
+            // it must survive into the slug so `353-N` and `353-Ñ` stay
+            // distinct canonical identifiers. It is preserved (lowercased)
+            // through `slugify_label`'s filter below.
             _ => character,
         })
         .collect()
@@ -136,7 +142,8 @@ fn strip_accents(value: &str) -> String {
 /// Slugify any article label text (whether or not it parses as an
 /// `ArticleLabel`): accent-stripped, lowercased, ordinal marks `º`/`°`
 /// normalized, thousands separators removed, every other non-alphanumeric
-/// run collapsed to `-`.
+/// run collapsed to `-`. `ñ` is preserved (a distinct Spanish letter, not
+/// an accent), so `353-Ñ` slugs to `353-ñ`, distinct from `353-n`.
 #[must_use]
 pub fn slugify_label(label: &str) -> String {
     let lowered = strip_accents(label).to_lowercase();
@@ -147,7 +154,7 @@ pub fn slugify_label(label: &str) -> String {
     let mut slug = String::with_capacity(cleaned.len());
     let mut pending_dash = false;
     for character in cleaned.chars() {
-        if character.is_ascii_alphanumeric() {
+        if character.is_ascii_alphanumeric() || character == 'ñ' {
             if pending_dash && !slug.is_empty() {
                 slug.push('-');
             }
@@ -454,6 +461,18 @@ mod tests {
         assert_eq!(full("168 Bis 10").slug(), "168-bis-10");
         assert_eq!(full("2 Bis 102").slug(), "2-bis-102");
         assert_eq!(full("32-Bis").slug(), "32-bis");
+    }
+
+    #[test]
+    fn enye_is_a_distinct_letter_suffix() {
+        // LFT art 353-N vs 353-Ñ must not collapse onto one id.
+        assert_eq!(full("353-Ñ").slug(), "353-ñ");
+        assert_eq!(full("353-Ñ").canonical_slug(), "353-ñ");
+        assert_ne!(canonical_slug("353-Ñ"), canonical_slug("353-N"));
+        assert_ne!(full("353-Ñ").sort_key(), full("353-N").sort_key());
+        // Spanish collation: N < Ñ < O.
+        assert!(full("353-N").sort_key() < full("353-Ñ").sort_key());
+        assert!(full("353-Ñ").sort_key() < full("353-O").sort_key());
     }
 
     #[test]
