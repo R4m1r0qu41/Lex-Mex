@@ -23,9 +23,9 @@ use lex_export::{
 };
 use lex_parse::{
     CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle, InstrumentContextPolicy,
-    ReferenceOptions, extract_html_text, extract_internal_references, extract_pdf,
-    extract_references, extract_term_usages, extract_terms, find_glossary_provision, parse_dcg,
-    parse_diputados, parse_itf_dcg, validate_corpus,
+    ReferenceOptions, detect_glossary_terms, extract_html_text, extract_internal_references,
+    extract_pdf, extract_references, extract_term_usages, extract_terms, find_glossary_provision,
+    parse_dcg, parse_diputados, parse_itf_dcg, validate_corpus,
 };
 use lex_source::{
     SourceConfig, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest, load_config,
@@ -1183,16 +1183,30 @@ fn extract_instrument_terms(
     instrument: &Instrument,
     provisions: &[lex_core::Provision],
 ) -> Result<(Vec<lex_core::DefinedTerm>, Vec<lex_core::TermUsage>)> {
-    let Some(glossary) = &context.config.glossary else {
+    // An adapter may configure its glossary explicitly (the audited
+    // committed instruments do); otherwise a fraction glossary is
+    // auto-detected from a "…se entenderá por:" provision, so bulk
+    // instruments get their defined terms linked without hand-config.
+    let (terms, additive_to): (Vec<lex_core::DefinedTerm>, &[String]) =
+        match &context.config.glossary {
+            Some(glossary) => {
+                let style = GlossaryStyle::from_config(&glossary.style)?;
+                let glossary_provision =
+                    find_glossary_provision(provisions, &glossary.provision_suffix)?;
+                (
+                    extract_terms(glossary_provision, style)?,
+                    &glossary.additive_to,
+                )
+            }
+            None => (detect_glossary_terms(provisions)?, &[][..]),
+        };
+    if terms.is_empty() {
         return Ok((Vec::new(), Vec::new()));
-    };
-    let style = GlossaryStyle::from_config(&glossary.style)?;
-    let glossary_provision = find_glossary_provision(provisions, &glossary.provision_suffix)?;
-    let terms = extract_terms(glossary_provision, style)?;
+    }
 
     let siblings = read_sibling_corpora(root, &instrument.id)?;
     let mut term_sets: Vec<&[lex_core::DefinedTerm]> = vec![&terms];
-    for additive_instrument in &glossary.additive_to {
+    for additive_instrument in additive_to {
         let sibling = siblings
             .iter()
             .find(|(_, corpus)| &corpus.instrument.id == additive_instrument)

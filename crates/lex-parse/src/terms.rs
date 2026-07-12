@@ -17,7 +17,7 @@
 //! before earlier instruments' terms.
 
 use anyhow::{Context, Result, bail};
-use lex_core::{Basis, DefinedTerm, Provision, SCHEMA_VERSION, TermUsage};
+use lex_core::{Basis, DefinedTerm, Provision, ProvisionType, SCHEMA_VERSION, TermUsage};
 use regex::Regex;
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq)]
@@ -54,6 +54,13 @@ pub fn extract_terms(provision: &Provision, style: GlossaryStyle) -> Result<Vec<
         GlossaryStyle::ColonEntries => colon_entries(provision),
         GlossaryStyle::RomanColon => roman_colon_entries(provision)?,
     };
+    terms_from_entries(provision, entries)
+}
+
+fn terms_from_entries(
+    provision: &Provision,
+    entries: Vec<GlossaryEntry>,
+) -> Result<Vec<DefinedTerm>> {
     let mut terms = Vec::with_capacity(entries.len());
     for entry in entries {
         if entry.term.trim().is_empty() {
@@ -72,6 +79,80 @@ pub fn extract_terms(provision: &Provision, style: GlossaryStyle) -> Result<Vec<
         });
     }
     Ok(terms)
+}
+
+/// Auto-detect and extract a fraction glossary when an instrument does not
+/// configure one. A glossary provision opens with a "…se entenderá por:"
+/// (or "se entiende por:") introduction and lists Roman-fraction entries;
+/// the term runs to the entry's first delimiter (`,`, `.`, or `:`, chosen
+/// from the first entry), scanned inline so the entries may share one
+/// paragraph or be separated. Returns an empty vector when no glossary is
+/// found, so a law without defined terms simply yields none.
+pub fn detect_glossary_terms(provisions: &[Provision]) -> Result<Vec<DefinedTerm>> {
+    let intro = Regex::new(r"(?i)se\s+entender[áa]\s+(?:por|lo\s+siguiente)\s*:")?;
+    let fraction = Regex::new(r"(?:^|[;:\n])[ \t]*([IVXLCDM]{1,7})\.\s+")?;
+    for provision in provisions {
+        if provision.provision_type != ProvisionType::Article {
+            continue;
+        }
+        let head: String = provision.text.chars().take(400).collect();
+        let Some(intro_match) = intro.find(&head) else {
+            continue;
+        };
+        // Scan entries starting after the introduction.
+        let body_start = intro_match.end();
+        let text = &provision.text;
+        let starts: Vec<(usize, String)> = fraction
+            .captures_iter(text)
+            .filter_map(|captures| {
+                let whole = captures.get(0)?;
+                let numeral = captures.get(1)?;
+                (whole.start() >= body_start)
+                    .then(|| (numeral.start(), numeral.as_str().to_owned()))
+            })
+            .collect();
+        if starts.len() < 2 {
+            continue;
+        }
+        let Some(delimiter) = glossary_delimiter(text, starts[0].0) else {
+            continue;
+        };
+        let mut entries = Vec::with_capacity(starts.len());
+        for (index, (numeral_start, numeral)) in starts.iter().enumerate() {
+            let entry_end = starts.get(index + 1).map_or(text.len(), |(next, _)| *next);
+            let after_numeral = numeral_start + numeral.len() + 1; // past "N."
+            let entry_body = &text[after_numeral.min(text.len())..entry_end];
+            let Some(delimiter_offset) = entry_body.find(delimiter) else {
+                continue;
+            };
+            let term = entry_body[..delimiter_offset].trim().to_owned();
+            if term.is_empty() || term.chars().count() > COLON_TERM_MAX_CHARS {
+                continue;
+            }
+            entries.push(GlossaryEntry {
+                term,
+                fraction: Some(numeral.clone()),
+                start_char: text[..*numeral_start].chars().count(),
+                end_char: text[..entry_end].chars().count(),
+            });
+        }
+        if !entries.is_empty() {
+            return terms_from_entries(provision, entries);
+        }
+    }
+    Ok(Vec::new())
+}
+
+/// The delimiter separating term from definition in the first entry: the
+/// earliest of `:` `.` `,` following the fraction numeral.
+fn glossary_delimiter(text: &str, numeral_start: usize) -> Option<char> {
+    let tail = &text[numeral_start..];
+    // Skip the numeral's own period ("III.").
+    let after_numeral = tail.find(". ").map_or(0, |index| index + 2);
+    tail[after_numeral..]
+        .chars()
+        .take(COLON_TERM_MAX_CHARS + 5)
+        .find(|character| matches!(character, ':' | '.' | ','))
 }
 
 struct GlossaryEntry {
@@ -439,7 +520,7 @@ mod tests {
     };
     use pretty_assertions::assert_eq;
 
-    use super::{GlossaryStyle, extract_term_usages, extract_terms};
+    use super::{GlossaryStyle, detect_glossary_terms, extract_term_usages, extract_terms};
 
     const STATUTE_ID: &str = "urn:lex-mx:test:statute";
     const REGULATION_ID: &str = "urn:lex-mx:test:regulation";
@@ -577,6 +658,50 @@ mod tests {
                 term.term
             );
         }
+    }
+
+    #[test]
+    fn auto_detects_a_period_delimited_fraction_glossary() {
+        // No adapter config; the term runs to the first period, and the
+        // Constitution reference in the last definition is not a new entry.
+        let glossary = provision(
+            REGULATION_ID,
+            "article:2",
+            "Para efectos de la presente Ley se entenderá por:\n\n\
+             I. Dieta correcta. Aquella que es completa, equilibrada y suficiente;\n\n\
+             II. Normas. A las normas oficiales mexicanas;\n\n\
+             III. Secretaría. A la Secretaría del Trabajo y Previsión Social;\n\n\
+             IV. Trabajadores. A quienes prestan un trabajo comprendido en el \
+             apartado A del artículo 123 de la Constitución.",
+        );
+        let terms = detect_glossary_terms(std::slice::from_ref(&glossary)).unwrap();
+        assert_eq!(
+            terms
+                .iter()
+                .map(|term| term.term.as_str())
+                .collect::<Vec<_>>(),
+            ["Dieta correcta", "Normas", "Secretaría", "Trabajadores"]
+        );
+        let chars: Vec<char> = glossary.text.chars().collect();
+        for term in &terms {
+            let span: String = chars[term.start_char..term.end_char].iter().collect();
+            assert!(span.contains(&term.term));
+        }
+    }
+
+    #[test]
+    fn auto_detection_yields_nothing_without_a_glossary_intro() {
+        let ordinary = provision(
+            REGULATION_ID,
+            "article:1",
+            "Las disposiciones de esta Ley son de orden público. I. No es una \
+             entrada de glosario porque no hay introducción.",
+        );
+        assert!(
+            detect_glossary_terms(std::slice::from_ref(&ordinary))
+                .unwrap()
+                .is_empty()
+        );
     }
 
     #[test]

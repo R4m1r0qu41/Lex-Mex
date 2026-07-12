@@ -29,7 +29,10 @@ pub use diputados::{
 };
 pub use html::extract_html_text;
 pub use itf::{ItfDocument, parse_itf_dcg};
-pub use terms::{GlossaryStyle, extract_term_usages, extract_terms, find_glossary_provision};
+pub use terms::{
+    GlossaryStyle, detect_glossary_terms, extract_term_usages, extract_terms,
+    find_glossary_provision,
+};
 
 #[derive(Debug)]
 pub struct Extraction {
