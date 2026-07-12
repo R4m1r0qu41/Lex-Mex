@@ -270,11 +270,15 @@ fn is_stop_marker(block: &str, options: &DiputadosOptions) -> bool {
 }
 
 fn is_transitory_section_header(block: &str) -> bool {
-    // A trailing colon and a missing accent both occur (`ARTICULOS
-    // TRANSITORIOS`, `TRANSITORIOS:`).
-    let block = block.strip_suffix(':').unwrap_or(block).trim_end();
+    // A trailing colon, a missing accent, and mixed case all occur
+    // (`ARTICULOS TRANSITORIOS`, `TRANSITORIOS:`, `Transitorios`).
+    let block = block
+        .strip_suffix(':')
+        .unwrap_or(block)
+        .trim_end()
+        .to_uppercase();
     matches!(
-        block,
+        block.as_str(),
         "DISPOSICIONES TRANSITORIAS"
             | "DISPOSICIONES TRANSITORIALES"
             | "TRANSITORIOS"
@@ -282,6 +286,32 @@ fn is_transitory_section_header(block: &str) -> bool {
             | "ARTÍCULOS TRANSITORIOS"
             | "ARTICULOS TRANSITORIOS"
     )
+}
+
+/// A decree-wrapper article line using an ordinal word instead of a
+/// number: `Artículo Primero.- Se expide la Ley…` (promulgation) or
+/// `Artículo Segundo a Artículo Cuarto.- ……` (elided decree articles).
+/// Outside the transitory section these belong to the enacting decree,
+/// not the instrument, so they are dropped rather than folded into the
+/// preceding article. Inside the transitory section the same forms are
+/// transitorios and are handled there.
+fn is_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
+    let Some(rest) = [
+        "Artículo ",
+        "Artículos ",
+        "ARTÍCULO ",
+        "ARTÍCULOS ",
+        "ARTICULO ",
+        "ARTICULOS ",
+    ]
+    .iter()
+    .find_map(|prefix| block.strip_prefix(prefix)) else {
+        return false;
+    };
+    ordinals.iter().any(|ordinal| {
+        strip_prefix_ci(rest, ordinal)
+            .is_some_and(|(_, tail)| tail.chars().next().is_none_or(|c| !c.is_alphanumeric()))
+    })
 }
 
 fn is_immediate_structural(line: &str, options: &DiputadosOptions) -> bool {
@@ -505,6 +535,12 @@ pub fn parse_diputados(
                 continue;
             }
         } else {
+            if is_decree_article_wrapper(&block, &ordinals) {
+                if let Some(builder) = current.take() {
+                    provisions.push(builder.finish(&options.instrument_id, publication_date));
+                }
+                continue;
+            }
             if patterns.apply(&block, &mut heading) {
                 if let Some(builder) = current.take() {
                     provisions.push(builder.finish(&options.instrument_id, publication_date));
