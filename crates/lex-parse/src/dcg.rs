@@ -17,9 +17,7 @@ use std::collections::BTreeSet;
 
 use anyhow::{Context, Result, bail};
 use chrono::NaiveDate;
-use lex_core::{
-    HeadingContext, Provision, ProvisionType, ReviewStatus, SCHEMA_VERSION, TemporalStatus,
-};
+use lex_core::{HeadingContext, Provision, ProvisionType, ReviewStatus, SCHEMA_VERSION};
 use regex::Regex;
 
 pub(crate) const TRANSITORY_ORDINALS: &[&str] = &[
@@ -512,6 +510,7 @@ impl DcgProvisionBuilder {
             ProvisionType::Transitory => ("transitory", slug(&self.number)),
             ProvisionType::Annex => ("annex", self.number.to_lowercase()),
         };
+        let text = self.paragraphs.join("\n\n");
         Provision {
             schema_version: SCHEMA_VERSION.to_owned(),
             id: format!("{}:{kind}:{canonical_number}", self.instrument_id),
@@ -520,11 +519,11 @@ impl DcgProvisionBuilder {
             label: self.label,
             number: self.number,
             heading_context: self.heading_context,
-            text: self.paragraphs.join("\n\n"),
+            text: text.clone(),
             publication_date,
             effective_from: None,
             effective_to: None,
-            temporal_status: TemporalStatus::Unknown,
+            temporal_status: crate::initial_temporal_status(&text),
             temporal_basis: None,
             temporal_confidence: None,
             review_status: ReviewStatus::NotAnalyzed,

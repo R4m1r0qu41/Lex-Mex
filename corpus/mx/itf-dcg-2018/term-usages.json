@@ -1999,24 +1999,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15:term-usage:1706-1709",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
-    "span": "ITF",
-    "start_char": 1706,
-    "end_char": 1709
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15:term-usage:2025-2028",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
-    "span": "ITF",
-    "start_char": 2025,
-    "end_char": 2028
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:35-38",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
@@ -2044,66 +2026,57 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:1723-1726",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:1892-1895",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 1723,
-    "end_char": 1726
+    "start_char": 1892,
+    "end_char": 1895
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:1828-1852",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:1997-2021",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis",
     "term_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:term:organo-de-administracion",
     "span": "Órgano de Administración",
-    "start_char": 1828,
-    "end_char": 1852
+    "start_char": 1997,
+    "end_char": 2021
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:1859-1862",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:2028-2031",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 1859,
-    "end_char": 1862
+    "start_char": 2028,
+    "end_char": 2031
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:2041-2044",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:2210-2213",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 2041,
-    "end_char": 2044
+    "start_char": 2210,
+    "end_char": 2213
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:2158-2161",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:2327-2330",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 2158,
-    "end_char": 2161
+    "start_char": 2327,
+    "end_char": 2330
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:2264-2267",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:2433-2436",
     "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis",
     "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
     "span": "ITF",
-    "start_char": 2264,
-    "end_char": 2267
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis:term-usage:2641-2644",
-    "provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:15-bis",
-    "term_id": "urn:lex-mx:federal:statute:lritf:term:itf",
-    "span": "ITF",
-    "start_char": 2641,
-    "end_char": 2644
+    "start_char": 2433,
+    "end_char": 2436
   },
   {
     "schema_version": "0.1.0",

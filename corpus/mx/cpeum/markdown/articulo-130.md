@@ -1,0 +1,42 @@
+---
+id: urn:lex-mx:federal:constitution:cpeum:article:130
+instrument_id: urn:lex-mx:federal:constitution:cpeum
+instrument: CPEUM
+name: "Constitución Política de los Estados Unidos Mexicanos"
+provision_type: article
+number: "130"
+aliases: ["CPEUM — Artículo 130"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
+source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+---
+
+# Artículo 130
+
+El principio histórico de la separación del Estado y las iglesias orienta las normas contenidas en el presente artículo. Las iglesias y demás agrupaciones religiosas se sujetarán a la ley.
+
+Corresponde exclusivamente al Congreso de la Unión legislar en materia de culto público y de iglesias y agrupaciones religiosas. La ley reglamentaria respectiva, que será de orden público, desarrollará y concretará las disposiciones siguientes:
+
+a) Las iglesias y las agrupaciones religiosas tendrán personalidad jurídica como asociaciones religiosas una vez que obtengan su correspondiente registro. La ley regulará dichas asociaciones y determinará las condiciones y requisitos para el registro constitutivo de las mismas.
+
+b) Las autoridades no intervendrán en la vida interna de las asociaciones religiosas;
+
+c) Los mexicanos podrán ejercer el ministerio de cualquier culto. Los mexicanos así como los extranjeros deberán, para ello, satisfacer los requisitos que señale la ley;
+
+d) En los términos de la ley reglamentaria, los ministros de cultos no podrán desempeñar cargos públicos. Como ciudadanos tendrán derecho a votar, pero no a ser votados. Quienes hubieren dejado de ser ministros de cultos con la anticipación y en la forma que establezca la ley, podrán ser votados.
+
+e) Los ministros no podrán asociarse con fines políticos ni realizar proselitismo a favor o en contra de candidato, partido o asociación política alguna. Tampoco podrán en reunión pública, en actos del culto o de propaganda religiosa, ni en publicaciones de carácter religioso, oponerse a las leyes del país o a sus instituciones, ni agraviar, de cualquier forma, los símbolos patrios.
+
+Queda estrictamente prohibida la formación de toda clase de agrupaciones políticas cuyo título tenga alguna palabra o indicación cualquiera que la relacione con alguna confesión religiosa. No podrán celebrarse en los templos reuniones de carácter político.
+
+La simple promesa de decir verdad y de cumplir las obligaciones que se contraen, sujeta al que la hace, en caso de que faltare a ella, a las penas que con tal motivo establece la ley.
+
+Los ministros de cultos, sus ascendientes, descendientes, hermanos y cónyuges, así como las asociaciones religiosas a que aquellos pertenezcan, serán incapaces para heredar por testamento, de las personas a quienes los propios ministros hayan dirigido o auxiliado espiritualmente y no tengan parentesco dentro del cuarto grado.
+
+Los actos del estado civil de las personas son de la exclusiva competencia de las autoridades administrativas en los términos que establezcan las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
+
+Las autoridades federales, de las entidades federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México, tendrán en esta materia las facultades y responsabilidades que determine la ley. Párrafo reformado DOF 29-01-2016
+
+Artículo reformado DOF 28-01-1992

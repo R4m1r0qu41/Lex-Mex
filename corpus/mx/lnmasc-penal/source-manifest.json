@@ -6,7 +6,7 @@
   "publisher": "Cámara de Diputados del H. Congreso de la Unión",
   "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP.pdf",
   "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnmascmp.htm",
-  "retrieved_at": "2026-07-12T06:07:32.304008Z",
+  "retrieved_at": "2026-07-12T06:57:13.755521Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "content_length": 440265,
@@ -17,5 +17,5 @@
   "extraction_tool": "pdftotext version 26.06.0",
   "parser_version": "0.1.0",
   "schema_version_used": "0.1.0",
-  "resulting_git_commit": "00dc7b7aea2d4a6ee70f597e0647510bb94e9e41"
+  "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
 }

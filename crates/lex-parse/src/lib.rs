@@ -722,6 +722,26 @@ fn reference_edge(
     }
 }
 
+/// The temporal status a freshly parsed provision starts with, before any
+/// temporal determination is applied. A consolidated current text's
+/// provisions are in force (`Effective`) by default; a provision whose
+/// text is a repeal note — `(Se deroga)`, `Derogado` — is a derogado
+/// article and starts `Repealed`. A later temporal determination
+/// (reapplied from persisted results for the analyzed instruments)
+/// overrides this for the provisions it covers.
+pub(crate) fn initial_temporal_status(text: &str) -> lex_core::TemporalStatus {
+    let head = text.trim_start().to_lowercase();
+    if head.starts_with("(se deroga")
+        || head.starts_with("se deroga")
+        || head.starts_with("(derogad")
+        || head.starts_with("derogad")
+    {
+        lex_core::TemporalStatus::Repealed
+    } else {
+        lex_core::TemporalStatus::Effective
+    }
+}
+
 fn canonical_article_id(instrument_id: &str, number: &str) -> String {
     // Match the provision-id convention: ordinal marks are dropped so a
     // citation of "2" or "2o" both resolve to article "2".

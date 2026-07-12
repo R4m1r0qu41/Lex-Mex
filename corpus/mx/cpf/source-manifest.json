@@ -6,7 +6,7 @@
   "publisher": "Cámara de Diputados del H. Congreso de la Unión",
   "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf",
   "reference_url": null,
-  "retrieved_at": "2026-07-12T04:48:37.600695Z",
+  "retrieved_at": "2026-07-12T06:55:34.999680Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "content_length": 2794133,
@@ -17,5 +17,5 @@
   "extraction_tool": "pdftotext version 26.06.0",
   "parser_version": "0.1.0",
   "schema_version_used": "0.1.0",
-  "resulting_git_commit": "9c62148fe74f0a2ec32575e2a992a74006cfee37"
+  "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
 }

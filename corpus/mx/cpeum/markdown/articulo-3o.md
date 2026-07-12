@@ -1,0 +1,88 @@
+---
+id: urn:lex-mx:federal:constitution:cpeum:article:3
+instrument_id: urn:lex-mx:federal:constitution:cpeum
+instrument: CPEUM
+name: "Constitución Política de los Estados Unidos Mexicanos"
+provision_type: article
+number: "3o"
+aliases: ["CPEUM — Artículo 3o"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
+source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+---
+
+# Artículo 3o
+
+Toda persona tiene derecho a la educación. El Estado -Federación, Estados, Ciudad de México y Municipios- impartirá y garantizará la educación inicial, preescolar, primaria, secundaria, media superior y superior. La educación inicial, preescolar, primaria y secundaria, conforman la educación básica; ésta y la media superior serán obligatorias, la educación superior lo será en términos de la fracción X del presente artículo. La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia. Fe de erratas al párrafo DOF 09-03-1993. Reformado DOF 12-11-2002, 09-02-2012, 29-01-2016, 15-05-2019
+
+Corresponde al Estado la rectoría de la educación, la impartida por éste, además de obligatoria, será universal, inclusiva, pública, gratuita y laica. Párrafo adicionado DOF 15-05-2019
+
+Párrafo tercero. Se deroga. Párrafo adicionado DOF 26-02-2013. Derogado DOF 15-05-2019
+
+La educación se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje. Párrafo reformado DOF 10-06-2011. Reformado y reubicado (antes párrafo segundo) DOF 15-05-2019
+
+El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos. Párrafo adicionado DOF 15-05-2019
+
+Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la trasformación social. Tendrán derecho de acceder a un sistema integral de formación, de capacitación y de actualización retroalimentado por evaluaciones diagnósticas, para cumplir los objetivos y propósitos del Sistema Educativo Nacional. Párrafo adicionado DOF 15-05-2019
+
+La ley establecerá las disposiciones del Sistema para la Carrera de las Maestras y los Maestros en sus funciones docente, directiva o de supervisión. Corresponderá a la Federación su rectoría y, en coordinación con las entidades federativas, su implementación, conforme a los criterios de la educación previstos en este artículo. Párrafo adicionado DOF 15-05-2019
+
+La admisión, promoción y reconocimiento del personal que ejerza la función docente, directiva o de supervisión, se realizará a través de procesos de selección a los que concurran los aspirantes en igualdad de condiciones y establecidos en la ley prevista en el párrafo anterior, los cuales serán públicos, transparentes, equitativos e imparciales y considerarán los conocimientos, aptitudes y experiencia necesarios para el aprendizaje y el desarrollo integral de los educandos. Los nombramientos derivados de estos procesos sólo se otorgarán en términos de dicha ley. Lo dispuesto en este párrafo en ningún caso afectará la permanencia de las maestras y los maestros en el servicio. A las instituciones a las que se refiere la fracción VII de este artículo no les serán aplicables estas disposiciones. Párrafo adicionado DOF 15-05-2019
+
+El Estado fortalecerá a las instituciones públicas de formación docente, de manera especial a las escuelas normales, en los términos que disponga la ley. Párrafo adicionado DOF 15-05-2019
+
+Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza aprendizaje. El Estado garantizará que los materiales didácticos, la infraestructura educativa, su mantenimiento y las condiciones del entorno, sean idóneos y contribuyan a los fines de la educación. Párrafo adicionado DOF 15-05-2019
+
+A fin de dar cumplimiento a lo dispuesto en la fracción II de este artículo, el Ejecutivo Federal determinará los principios rectores y objetivos de la educación inicial, así como los planes y programas de estudio de la educación básica y normal en toda la República; para tal efecto, considerará la opinión de los gobiernos de las entidades federativas y de diversos actores sociales involucrados en la educación, así como el contenido de los proyectos y programas educativos que contemplen las realidades y contextos, regionales y locales. Párrafo adicionado DOF 15-05-2019
+
+Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lecto- escritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva, el cuidado al medio ambiente, la protección de los animales, entre otras. Párrafo adicionado DOF 15-05-2019. Reformado DOF 02-12-2024
+
+I. Garantizada por el artículo [24](articulo-24.md) la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
+
+II. El criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
+
+Además: a) Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
+
+b) Será nacional, en cuanto –sin hostilidades ni exclusivismos– atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura; Inciso reformado DOF 26-02-2013
+
+c) Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la naturaleza, la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos; Inciso reformado DOF 09-02-2012, 26-02-2013, 15-05-2019
+
+d) Se deroga. Inciso adicionado DOF 26-02-2013. Derogado DOF 15-05-2019
+
+e) Será equitativo, para lo cual el Estado implementará medidas que favorezcan el ejercicio pleno del derecho a la educación de las personas y combatan las desigualdades socioeconómicas, regionales y de género en el acceso, tránsito y permanencia en los servicios educativos.
+
+En las escuelas de educación básica de alta marginación, se impulsarán acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario. Asimismo, se respaldará a estudiantes en vulnerabilidad social, mediante el establecimiento de políticas incluyentes y transversales.
+
+En educación para personas adultas, se aplicarán estrategias que aseguren su derecho a ingresar a las instituciones educativas en sus distintos tipos y modalidades.
+
+En los pueblos y comunidades indígenas se impartirá educación plurilingüe e intercultural basada en el respeto, promoción y preservación del patrimonio histórico y cultural; Inciso adicionado DOF 15-05-2019
+
+f) Será inclusivo, al tomar en cuenta las diversas capacidades, circunstancias y necesidades de los educandos. Con base en el principio de accesibilidad se realizarán ajustes razonables y se implementarán medidas específicas con el objetivo de eliminar las barreras para el aprendizaje y la participación; Inciso adicionado DOF 15-05-2019
+
+g) Será intercultural, al promover la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social; Inciso adicionado DOF 15-05-2019
+
+h) Será integral, educará para la vida, con el objeto de desarrollar en las personas capacidades cognitivas, socioemocionales y físicas que les permitan alcanzar su bienestar, e Inciso adicionado DOF 15-05-2019 i) Será de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad; Inciso adicionado DOF 15-05-2019
+
+III. Se deroga. Fracción reformada DOF 12-11-2002, 26-02-2013, 29-01-2016. Derogada DOF 15-05-2019
+
+IV. Toda la educación que el Estado imparta será gratuita;
+
+V. Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella, para lo cual deberá proveer recursos y estímulos suficientes, conforme a las bases de coordinación, vinculación y participación que establezcan las leyes en la materia; además alentará el fortalecimiento y difusión de nuestra cultura; Fracción reformada DOF 12-11-2002, 09-02-2012, 15-05-2019
+
+VI. Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación inicial, preescolar, primaria, secundaria y normal, los particulares deberán: Párrafo reformado DOF 12-11-2002, 15-05-2019
+
+a) Impartir la educación con apego a los mismos fines y criterios que establece el párrafo cuarto, y la fracción II, así como cumplir los planes y programas a que se refieren los párrafos décimo primero y décimo segundo, y Inciso reformado DOF 15-05-2019
+
+b) Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley;
+
+VII. Las universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el apartado A del artículo [123](articulo-123.md) de esta Constitución, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere; Fracción reformada DOF 26-02-2013
+
+VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, las entidades federativas y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan; Fracción reformada DOF 26-02-2013, 29-01-2016, 15-05-2019
+
+IX. Se deroga Fracción adicionada DOF 26-02-2013. Reformada DOF 15-05-2019. Derogada DOF 20-12-2024
+
+X. La obligatoriedad de la educación superior corresponde al Estado. Las autoridades federal y locales establecerán políticas para fomentar la inclusión, permanencia y continuidad, en términos que la ley señale. Asimismo, proporcionarán medios de acceso a este tipo educativo para las personas que cumplan con los requisitos dispuestos por las instituciones públicas. Fracción adicionada DOF 15-05-2019
+
+Artículo reformado DOF 13-12-1934, 30-12-1946, 09-06-1980, 28-01-1992, 05-03-1993

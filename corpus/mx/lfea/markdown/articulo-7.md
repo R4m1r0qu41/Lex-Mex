@@ -7,7 +7,7 @@ provision_type: article
 number: "7"
 aliases: ["LFEA — Artículo 7"]
 generated: true
-temporal_status: unknown
+temporal_status: effective
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf
 source_sha256: 102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842

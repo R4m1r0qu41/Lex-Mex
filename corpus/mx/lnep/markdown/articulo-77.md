@@ -7,7 +7,7 @@ provision_type: article
 number: "77"
 aliases: ["LNEP — Artículo 77"]
 generated: true
-temporal_status: unknown
+temporal_status: effective
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNEP.pdf
 source_sha256: 91abecabe50a5e414e0835daa9086ce3b307fffb9ebe626dab3bb9d1eae51680

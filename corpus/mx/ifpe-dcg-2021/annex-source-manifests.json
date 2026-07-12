@@ -7,7 +7,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%201%20IFPES.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-05T03:46:37.323475Z",
+    "retrieved_at": "2026-07-12T06:55:45.488627Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 633553,
@@ -18,7 +18,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "695b8c49c60cb49ee1def253a9b712c778ad2446"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -28,7 +28,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%202%20IFPES.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-05T03:46:38.167993Z",
+    "retrieved_at": "2026-07-12T06:55:46.366653Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 459354,
@@ -39,7 +39,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "695b8c49c60cb49ee1def253a9b712c778ad2446"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -49,7 +49,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%203%20IFPES.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-05T03:46:39.049695Z",
+    "retrieved_at": "2026-07-12T06:55:47.737542Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 690796,
@@ -60,7 +60,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "695b8c49c60cb49ee1def253a9b712c778ad2446"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -70,7 +70,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%204%20IFPES.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-05T03:46:39.812831Z",
+    "retrieved_at": "2026-07-12T06:55:48.658237Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 198912,
@@ -81,7 +81,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "695b8c49c60cb49ee1def253a9b712c778ad2446"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -91,7 +91,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%205%20IFPES.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-05T03:46:40.620669Z",
+    "retrieved_at": "2026-07-12T06:55:49.865952Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 486136,
@@ -102,7 +102,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "695b8c49c60cb49ee1def253a9b712c778ad2446"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -112,7 +112,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%206%20IFPES.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-05T03:46:41.513320Z",
+    "retrieved_at": "2026-07-12T06:55:51.208088Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 590232,
@@ -123,7 +123,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "695b8c49c60cb49ee1def253a9b712c778ad2446"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -133,7 +133,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%207%20IFPES.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-05T03:46:42.335502Z",
+    "retrieved_at": "2026-07-12T06:55:52.338381Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 416590,
@@ -144,7 +144,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "695b8c49c60cb49ee1def253a9b712c778ad2446"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -154,7 +154,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/ANEXO%208%20IFPES.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-05T03:46:43.174322Z",
+    "retrieved_at": "2026-07-12T06:55:53.235778Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 586408,
@@ -165,6 +165,6 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "695b8c49c60cb49ee1def253a9b712c778ad2446"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   }
 ]

@@ -7,7 +7,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%201%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:31.845245Z",
+    "retrieved_at": "2026-07-12T06:56:01.049489Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 29934,
@@ -18,7 +18,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -28,7 +28,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%202%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:32.740898Z",
+    "retrieved_at": "2026-07-12T06:56:01.793981Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 151105,
@@ -39,7 +39,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -49,7 +49,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%203%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:33.630495Z",
+    "retrieved_at": "2026-07-12T06:56:02.522273Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 178099,
@@ -60,7 +60,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -70,7 +70,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%204%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:34.525908Z",
+    "retrieved_at": "2026-07-12T06:56:03.266896Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 154310,
@@ -81,7 +81,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -91,7 +91,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%205%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:35.547721Z",
+    "retrieved_at": "2026-07-12T06:56:04.171977Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 113175,
@@ -102,7 +102,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -112,7 +112,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%206%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:36.708428Z",
+    "retrieved_at": "2026-07-12T06:56:05.357602Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 535805,
@@ -123,7 +123,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -133,7 +133,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%207%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:37.941968Z",
+    "retrieved_at": "2026-07-12T06:56:06.512030Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 477252,
@@ -144,7 +144,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -154,7 +154,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%208%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:39.065577Z",
+    "retrieved_at": "2026-07-12T06:56:07.341866Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 262480,
@@ -165,7 +165,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -175,7 +175,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%209%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:40.090952Z",
+    "retrieved_at": "2026-07-12T06:56:08.163002Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 248462,
@@ -186,7 +186,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -196,7 +196,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2010%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:40.804297Z",
+    "retrieved_at": "2026-07-12T06:56:08.719046Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 16764,
@@ -207,7 +207,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -217,7 +217,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2011%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:41.855311Z",
+    "retrieved_at": "2026-07-12T06:56:09.520821Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 369581,
@@ -228,7 +228,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -238,7 +238,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2012%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:42.874648Z",
+    "retrieved_at": "2026-07-12T06:56:10.303478Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 252456,
@@ -249,7 +249,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -259,7 +259,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2013%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:43.958179Z",
+    "retrieved_at": "2026-07-12T06:56:11.119718Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 369288,
@@ -270,7 +270,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -280,7 +280,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2014%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:45.107856Z",
+    "retrieved_at": "2026-07-12T06:56:12.041355Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 549484,
@@ -291,7 +291,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -301,7 +301,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2015%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:46.102873Z",
+    "retrieved_at": "2026-07-12T06:56:12.873382Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 310277,
@@ -312,7 +312,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -322,7 +322,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2016%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:48.392638Z",
+    "retrieved_at": "2026-07-12T06:56:13.813708Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 265401,
@@ -333,7 +333,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -343,7 +343,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2017%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:49.589991Z",
+    "retrieved_at": "2026-07-12T06:56:14.672411Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 347662,
@@ -354,7 +354,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -364,7 +364,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2018%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:51.300038Z",
+    "retrieved_at": "2026-07-12T06:56:15.816506Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 1383757,
@@ -375,7 +375,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -385,7 +385,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2019%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:52.606538Z",
+    "retrieved_at": "2026-07-12T06:56:16.882615Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 892073,
@@ -396,7 +396,7 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   },
   {
     "schema_version": "0.1.0",
@@ -406,7 +406,7 @@
     "publisher": "Comisión Nacional Bancaria y de Valores",
     "official_url": "https://www.cnbv.gob.mx/Anexos/Anexo%2020%20Fintech.pdf",
     "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-    "retrieved_at": "2026-07-06T00:35:53.517742Z",
+    "retrieved_at": "2026-07-12T06:56:17.718319Z",
     "http_status": 200,
     "content_type": "application/pdf",
     "content_length": 118179,
@@ -417,6 +417,6 @@
     "extraction_tool": "pdftotext version 26.06.0",
     "parser_version": "0.1.0",
     "schema_version_used": "0.1.0",
-    "resulting_git_commit": "f9621482886c5b017a34aae1da44c6a698860243"
+    "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
   }
 ]

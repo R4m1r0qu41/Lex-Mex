@@ -13,7 +13,6 @@ use anyhow::{Result, bail};
 use chrono::NaiveDate;
 use lex_core::{
     HeadingContext, Provision, ProvisionType, ReviewStatus, SCHEMA_VERSION, TemporalEvidence,
-    TemporalStatus,
 };
 use regex::Regex;
 
@@ -448,6 +447,7 @@ impl ProvisionBuilder {
             ProvisionType::Transitory => ("transitory", slug(&self.number)),
             ProvisionType::Annex => ("annex", slug(&self.number)),
         };
+        let text = self.blocks.join("\n\n");
         Provision {
             schema_version: SCHEMA_VERSION.to_owned(),
             id: format!("{instrument_id}:{kind}:{canonical_number}"),
@@ -456,11 +456,11 @@ impl ProvisionBuilder {
             label: self.label,
             number: self.number,
             heading_context: self.heading,
-            text: self.blocks.join("\n\n"),
+            text: text.clone(),
             publication_date,
             effective_from: None,
             effective_to: None,
-            temporal_status: TemporalStatus::Unknown,
+            temporal_status: crate::initial_temporal_status(&text),
             temporal_basis: None,
             temporal_confidence: None,
             review_status: ReviewStatus::NotAnalyzed,

@@ -7,7 +7,7 @@ provision_type: article
 number: "9o"
 aliases: ["LGTOC — Artículo 9o"]
 generated: true
-temporal_status: unknown
+temporal_status: effective
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf
 source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361

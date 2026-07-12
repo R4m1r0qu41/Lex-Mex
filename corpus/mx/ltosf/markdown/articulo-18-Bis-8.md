@@ -7,7 +7,7 @@ provision_type: article
 number: "18 Bis 8"
 aliases: ["LTOSF — Artículo 18 Bis 8"]
 generated: true
-temporal_status: unknown
+temporal_status: effective
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf
 source_sha256: bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667

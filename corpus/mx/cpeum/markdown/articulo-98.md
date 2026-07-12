@@ -1,0 +1,26 @@
+---
+id: urn:lex-mx:federal:constitution:cpeum:article:98
+instrument_id: urn:lex-mx:federal:constitution:cpeum
+instrument: CPEUM
+name: "Constitución Política de los Estados Unidos Mexicanos"
+provision_type: article
+number: "98"
+aliases: ["CPEUM — Artículo 98"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
+source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+---
+
+# Artículo 98
+
+Cuando la falta de una Ministra o Ministro de la Suprema Corte de Justicia de la Nación, Magistrada o Magistrado del Tribunal de Disciplina Judicial y Magistrada o Magistrado del Tribunal Electoral excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Senado de la República tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo. En caso de defunción, renuncia, destitución o ausencia definitiva de Magistradas o Magistrados de Circuito y Juezas o Jueces de Distrito, el órgano de administración judicial declarará vacante el cargo y deberá renovarse para un nuevo periodo en la elección inmediata posterior que corresponda. Párrafo reformado DOF 02-06-2026
+
+Las renuncias de las Ministras y los Ministros de la Suprema Corte de Justicia, Magistradas y Magistrados del Tribunal de Disciplina Judicial y Magistradas y Magistrados del Tribunal Electoral, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Senado de la República o, en sus recesos, por la Comisión Permanente.
+
+Las licencias de las personas servidoras públicas señaladas en el párrafo primero de este artículo, cuando no excedan de un mes, podrán ser concedidas por el Pleno de la Suprema Corte de Justicia de la Nación para el caso de Ministras y Ministros, por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes, por el Pleno de la Sala Superior del Tribunal Electoral para el caso de Magistradas y Magistrados Electorales y por el órgano de administración judicial para el caso de Magistradas y Magistrados de Circuito o Juezas y Jueces de Distrito. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Senado de la República o, en sus recesos, por la Comisión Permanente, salvo en el caso de Magistradas y Magistrados de Circuito o Juezas y Jueces de Distrito, que podrán concederse sin goce de sueldo por el órgano de administración judicial. Ninguna licencia podrá exceder del término de un año. Párrafo reformado DOF 02-06-2026
+
+Las personas juzgadoras que aspiren a un cargo de elección distinto al que ostenten deberán separarse del cargo mediante renuncia expresa e irrevocable, la cual informarán al órgano de administración judicial antes de su registro en el proceso correspondiente. El órgano de administración judicial comunicará de inmediato la vacante a la autoridad competente para que el cargo sea sujeto a elección. Párrafo adicionado DOF 02-06-2026
+
+Artículo reformado DOF 20-08-1928, 19-02-1951. Fe de erratas al artículo DOF 14-03-1951. Reformado DOF 25-10-1967, 31-12-1994, 22-08-1996, 15-09-2024

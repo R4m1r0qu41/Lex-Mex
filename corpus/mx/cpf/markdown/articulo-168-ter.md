@@ -7,7 +7,7 @@ provision_type: article
 number: "168 ter"
 aliases: ["CPF — Artículo 168 ter"]
 generated: true
-temporal_status: unknown
+temporal_status: effective
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf
 source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c

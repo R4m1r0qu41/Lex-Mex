@@ -7,7 +7,7 @@ provision_type: article
 number: "51"
 aliases: ["LNMASC-PENAL — Artículo 51"]
 generated: true
-temporal_status: unknown
+temporal_status: effective
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP.pdf
 source_sha256: 8a0aca9303ab941a600274fd68043576bd7a55bae4ec228a3479398de0fcb332

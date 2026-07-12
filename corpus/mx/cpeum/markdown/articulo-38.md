@@ -1,0 +1,40 @@
+---
+id: urn:lex-mx:federal:constitution:cpeum:article:38
+instrument_id: urn:lex-mx:federal:constitution:cpeum
+instrument: CPEUM
+name: "Constitución Política de los Estados Unidos Mexicanos"
+provision_type: article
+number: "38"
+aliases: ["CPEUM — Artículo 38"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
+source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+---
+
+# Artículo 38
+
+Los derechos o prerrogativas de los ciudadanos se suspenden:
+
+I. Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones que impone el artículo [36](articulo-36.md). Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señalare la ley;
+
+II. Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión;
+
+III. Durante la extinción de una pena corporal;
+
+IV. Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes; V. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal; Fracción reformada DOF 29-05-2023
+
+VI. Por sentencia ejecutoria que imponga como pena esa suspensión, y Fracción reformada DOF 29-05-2023
+
+VII. Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos.
+
+Por ser declarada como persona deudora alimentaria morosa.
+
+En los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público. Fracción adicionada DOF 29-05-2023
+
+La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos de ciudadano, y la manera de hacer la rehabilitación.
+
+Título Segundo
+
+Capítulo I De la Soberanía Nacional y de la Forma de Gobierno

@@ -1,0 +1,28 @@
+---
+id: urn:lex-mx:federal:constitution:cpeum:article:101
+instrument_id: urn:lex-mx:federal:constitution:cpeum
+instrument: CPEUM
+name: "Constitución Política de los Estados Unidos Mexicanos"
+provision_type: article
+number: "101"
+aliases: ["CPEUM — Artículo 101"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf
+source_sha256: ca63a23a4b7444ebdbdad93759fbf46bd14c069e587c5878decf89fc9c12ca8e
+---
+
+# Artículo 101
+
+Las Ministras y los Ministros de la Suprema Corte de Justicia, las Magistradas y los Magistrados de Circuito, las Juezas y los Jueces de Distrito, los respectivos secretarios, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial y las y los integrantes del Pleno del órgano de administración judicial, así como las Magistradas y los Magistrados de la Sala Superior y salas regionales del Tribunal Electoral, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, de las entidades federativas o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia. Párrafo reformado DOF 22-08-1996, 29-01-2016, 15-09-2024
+
+Las personas que hayan ocupado el cargo de Ministra o Ministro de la Suprema Corte de Justicia, Magistrada o Magistrado del Tribunal de Disciplina Judicial, así como Magistrada o Magistrado de la Sala Superior y salas regionales del Tribunal Electoral, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial de la Federación. Para el caso de Magistradas y Magistrados de Circuito y Juezas y Jueces de Distrito, este impedimento aplicará respecto del circuito judicial de su adscripción al momento de dejar el cargo, en los términos que establezca la ley. Párrafo reformado DOF 22-08-1996, 15-09-2024
+
+Durante dicho plazo, las personas que se hayan desempeñado como Ministras o Ministros de la Suprema Corte de Justicia de la Nación, Magistradas o Magistrados del Tribunal de Disciplina Judicial, Magistrados Electorales, Magistradas o Magistrados de Circuito y Juezas o Jueces de Distrito, no podrán ocupar los cargos señalados en la fracción VI del artículo [95](articulo-95.md) de esta Constitución. Párrafo reformado DOF 15-09-2024
+
+Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia.
+
+La infracción a lo previsto en los párrafos anteriores, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial de la Federación, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
+
+Artículo reformado DOF 10-08-1987, 31-12-1994

@@ -6,7 +6,7 @@
   "publisher": "Cámara de Diputados del H. Congreso de la Unión",
   "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
   "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum.htm",
-  "retrieved_at": "2026-07-12T06:02:49.670166Z",
+  "retrieved_at": "2026-07-12T06:55:26.914478Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "content_length": 3141703,
@@ -17,5 +17,5 @@
   "extraction_tool": "pdftotext version 26.06.0",
   "parser_version": "0.1.0",
   "schema_version_used": "0.1.0",
-  "resulting_git_commit": "994dbd7d92b941135255e7ae21a3f47ffeef73d7"
+  "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
 }
