@@ -454,6 +454,20 @@ pub fn parse_diputados(
     })
 }
 
+/// The original DOF publication date from the consolidated document's own
+/// header note ("Nueva Ley publicada en el Diario Oficial de la Federación
+/// el 16 de abril de 2025"). Deterministic: first match wins, and the
+/// header note always precedes any reform-decree publication line.
+#[must_use]
+pub fn extract_dof_publication(raw: &str) -> Option<NaiveDate> {
+    let note = Regex::new(
+        r"(?i)publicad[oa] en el Diario Oficial de la Federación el (\d{1,2})[oº]? de ([a-zá-úñ]+) de (\d{4})",
+    )
+    .ok()?;
+    let captures = note.captures(raw)?;
+    spanish_date(&captures[1], &captures[2].to_lowercase(), &captures[3])
+}
+
 struct ReformEvidenceBuilder {
     date: NaiveDate,
     ordinal: String,

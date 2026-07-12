@@ -75,7 +75,12 @@ pub struct SourceConfig {
     pub source_url: Url,
     pub reference_url: Option<Url>,
     pub publisher: String,
-    pub publication_date: String,
+    /// Original DOF publication date. Absent on a freshly scaffolded
+    /// adapter; the parser derives it deterministically from the
+    /// document's own "publicada en el Diario Oficial…" note, and
+    /// `batch run --freeze-counts` writes it back here.
+    #[serde(default)]
+    pub publication_date: Option<String>,
     /// Minimum article count. Absent while an instrument's count baseline
     /// has not been frozen yet (`batch run --freeze-counts` writes it).
     #[serde(default)]
@@ -241,6 +246,25 @@ impl BatchInstrument {
             .clone()
             .unwrap_or_else(|| self.slug.to_uppercase())
     }
+}
+
+/// Official title with a DOF-style all-caps first word normalized
+/// (`LEY Orgánica…` → `Ley Orgánica…`), matching the convention used for
+/// the vault's `name` frontmatter field.
+#[must_use]
+pub fn normalize_official_title(title: &str) -> String {
+    let mut words: Vec<String> = title.split_whitespace().map(str::to_owned).collect();
+    if let Some(first) = words.first_mut()
+        && first.chars().count() > 1
+        && first.chars().all(|character| !character.is_lowercase())
+        && first.chars().any(char::is_alphabetic)
+    {
+        let mut characters = first.chars();
+        if let Some(head) = characters.next() {
+            *first = head.to_string() + &characters.as_str().to_lowercase();
+        }
+    }
+    words.join(" ")
 }
 
 pub fn load_batch_manifest(path: &Path) -> Result<BatchManifest> {

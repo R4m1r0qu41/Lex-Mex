@@ -28,8 +28,8 @@ use lex_parse::{
     parse_diputados, parse_itf_dcg, validate_corpus,
 };
 use lex_source::{
-    SourceConfig, discover, fetch, fetch_annex, fetch_formal, load_config, sha256_hex,
-    write_acquisition, write_manifest,
+    SourceConfig, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest, load_config,
+    sha256_hex, write_acquisition, write_manifest,
 };
 use regex::Regex;
 
@@ -104,6 +104,41 @@ enum Command {
         #[command(subcommand)]
         command: ReviewCommand,
     },
+    /// Bulk ingestion driven by a `batches/*.json` manifest.
+    Batch {
+        #[command(subcommand)]
+        command: BatchCommand,
+    },
+    /// Adapter management for batch ingestion.
+    Adapter {
+        #[command(subcommand)]
+        command: AdapterCommand,
+    },
+}
+
+#[derive(Debug, Subcommand)]
+enum BatchCommand {
+    /// Run the structural pipeline (fetch through export, temporal
+    /// analysis deliberately skipped) for every instrument in a batch
+    /// manifest, isolating failures per instrument.
+    Run {
+        manifest: PathBuf,
+        /// Restrict to these slugs (comma-separated).
+        #[arg(long, value_delimiter = ',')]
+        only: Vec<String>,
+        /// After a successful parse, freeze machine-proposed count
+        /// baselines (and the derived publication date) into the adapter.
+        #[arg(long)]
+        freeze_counts: bool,
+        #[arg(long)]
+        keep_work: bool,
+    },
+}
+
+#[derive(Debug, Subcommand)]
+enum AdapterCommand {
+    /// Generate a Diputados adapter config from a batch-manifest entry.
+    Scaffold { batch: PathBuf, slug: String },
 }
 
 #[derive(Debug, Clone, Copy, ValueEnum)]
@@ -233,10 +268,7 @@ fn main() -> Result<()> {
             run_temporal_request(&context)?;
             if provider == TemporalProvider::Codex {
                 run_codex_temporal(&root, &context, &model)?;
-                run_export(&root, &context, ExportFormat::Markdown, None)?;
-                if let Some(vault) = &obsidian_vault {
-                    run_export(&root, &context, ExportFormat::Obsidian, Some(vault))?;
-                }
+                republish_exports(&root, &context, obsidian_vault.as_deref())?;
             }
         }
         Command::ImportTemporal {
@@ -247,10 +279,7 @@ fn main() -> Result<()> {
         } => {
             let context = instrument_context(&root, &instrument)?;
             run_temporal_import(&context, &response, &model, response_id)?;
-            run_export(&root, &context, ExportFormat::Markdown, None)?;
-            if let Some(vault) = &obsidian_vault {
-                run_export(&root, &context, ExportFormat::Obsidian, Some(vault))?;
-            }
+            republish_exports(&root, &context, obsidian_vault.as_deref())?;
         }
         Command::Validate { instrument } => {
             let context = instrument_context(&root, &instrument)?;
@@ -289,8 +318,51 @@ fn main() -> Result<()> {
             let context = instrument_context(&root, &instrument)?;
             run_review_command(&root, &context, obsidian_vault.as_deref(), command)?;
         }
+        Command::Batch { command } => {
+            run_batch_command(&root, obsidian_vault.as_deref(), command)?;
+        }
+        Command::Adapter { command } => match command {
+            AdapterCommand::Scaffold { batch, slug } => {
+                scaffold_adapter(&root, &batch, &slug)?;
+                preflight_adapter_uniqueness(&root)?;
+            }
+        },
     }
     Ok(())
+}
+
+fn republish_exports(
+    root: &Path,
+    context: &InstrumentContext,
+    obsidian_vault: Option<&Path>,
+) -> Result<()> {
+    run_export(root, context, ExportFormat::Markdown, None)?;
+    if let Some(vault) = obsidian_vault {
+        run_export(root, context, ExportFormat::Obsidian, Some(vault))?;
+    }
+    Ok(())
+}
+
+fn run_batch_command(
+    root: &Path,
+    obsidian_vault: Option<&Path>,
+    command: BatchCommand,
+) -> Result<()> {
+    match command {
+        BatchCommand::Run {
+            manifest,
+            only,
+            freeze_counts,
+            keep_work,
+        } => run_batch(
+            root,
+            &manifest,
+            &only,
+            freeze_counts,
+            keep_work,
+            obsidian_vault,
+        ),
+    }
 }
 
 /// One instrument's adapter configuration and working paths.
@@ -549,6 +621,308 @@ fn read_annex_documents(paths: &Paths, config: &SourceConfig) -> Result<Vec<(u32
         .collect()
 }
 
+fn find_adapter_path(root: &Path, slug: &str) -> Result<PathBuf> {
+    for path in adapter_paths(root)? {
+        if load_config(&path)?.slug == slug {
+            return Ok(path);
+        }
+    }
+    bail!("no adapter configuration found for instrument {slug:?} under adapters/")
+}
+
+/// Every adapter must have a unique slug, `short_name`, and `instrument_id`;
+/// with many instruments a collision would silently cross-wire corpora
+/// and vault folders.
+fn preflight_adapter_uniqueness(root: &Path) -> Result<()> {
+    let mut slugs: HashMap<String, PathBuf> = HashMap::new();
+    let mut short_names: HashMap<String, PathBuf> = HashMap::new();
+    let mut instrument_ids: HashMap<String, PathBuf> = HashMap::new();
+    for path in adapter_paths(root)? {
+        let config = load_config(&path)?;
+        for (map, key, kind) in [
+            (&mut slugs, config.slug.clone(), "slug"),
+            (&mut short_names, config.short_name.clone(), "short_name"),
+            (
+                &mut instrument_ids,
+                config.instrument_id.clone(),
+                "instrument_id",
+            ),
+        ] {
+            if let Some(existing) = map.insert(key.clone(), path.clone()) {
+                bail!(
+                    "duplicate adapter {kind} {key:?}: {} and {}",
+                    existing.display(),
+                    path.display()
+                );
+            }
+        }
+    }
+    Ok(())
+}
+
+/// Generate a Diputados adapter from a batch-manifest entry. Counts and
+/// the publication date start unfrozen (`null`); `batch run
+/// --freeze-counts` fills them from the first successful parse.
+fn scaffold_adapter(root: &Path, manifest_path: &Path, slug: &str) -> Result<PathBuf> {
+    let manifest = load_batch_manifest(manifest_path)?;
+    let instrument = manifest
+        .instruments
+        .iter()
+        .find(|entry| entry.slug == slug)
+        .with_context(|| format!("{slug:?} is not in batch {}", manifest.batch_id))?;
+    if instrument.adapter != "diputados" {
+        bail!(
+            "instrument {slug:?} uses adapter {:?}, which needs a hand-written config",
+            instrument.adapter
+        );
+    }
+    let adapter_path = root.join("adapters/diputados").join(format!("{slug}.json"));
+    if adapter_path.exists() {
+        bail!("adapter already exists at {}", adapter_path.display());
+    }
+    let (instrument_kind, urn_kind) = match instrument.instrument_type.as_str() {
+        "codigo" => ("code", "code"),
+        "reglamento" | "dcg" => ("regulation", "regulation"),
+        _ => ("statute", "statute"),
+    };
+    let reference_line = instrument
+        .ref_page
+        .as_ref()
+        .map_or_else(String::new, |url| {
+            format!(
+                "  \"reference_url\": {},\n",
+                serde_json::json!(url.as_str())
+            )
+        });
+    let contents = format!(
+        "{{\n  \"slug\": {slug_json},\n  \"instrument_id\": \"urn:lex-mx:federal:{urn_kind}:{slug}\",\n  \"instrument_type\": \"{instrument_kind}\",\n  \"parser\": \"diputados\",\n  \"official_title\": {title},\n  \"short_name\": {short_name},\n  \"operational_source\": \"camara_de_diputados\",\n  \"source_url\": {source_url},\n{reference_line}  \"publisher\": \"Cámara de Diputados del H. Congreso de la Unión\",\n  \"publication_date\": null,\n  \"expected_min_articles\": null,\n  \"expected_articles\": null,\n  \"expected_transitories\": null,\n  \"allow_article_gaps\": true,\n  \"formal_publication_urls\": {{}}\n}}\n",
+        slug_json = serde_json::json!(slug),
+        title = serde_json::json!(lex_source::normalize_official_title(&instrument.title)),
+        short_name = serde_json::json!(instrument.short_name()),
+        source_url = serde_json::json!(instrument.source_pdf.as_str()),
+    );
+    fs::write(&adapter_path, &contents)?;
+    load_config(&adapter_path)
+        .with_context(|| format!("scaffolded adapter is invalid: {}", adapter_path.display()))?;
+    println!("scaffolded {}", adapter_path.display());
+    Ok(adapter_path)
+}
+
+/// Freeze machine-proposed baselines into a scaffolded adapter by exact
+/// replacement of its `null` placeholder lines, so hand-written adapters
+/// (which have no placeholders) can never be rewritten. Idempotent.
+fn freeze_adapter_baseline(
+    adapter_path: &Path,
+    publication_date: Option<NaiveDate>,
+    article_count: usize,
+    transitory_count: usize,
+) -> Result<bool> {
+    let original = fs::read_to_string(adapter_path)?;
+    let mut updated = original.clone();
+    if let Some(date) = publication_date {
+        updated = updated.replace(
+            "\"publication_date\": null",
+            &format!("\"publication_date\": \"{}\"", date.format("%Y-%m-%d")),
+        );
+    }
+    if updated.contains("\"expected_min_articles\": null") {
+        updated = updated
+            .replace(
+                "\"expected_min_articles\": null",
+                &format!("\"expected_min_articles\": {article_count}"),
+            )
+            .replace(
+                "\"expected_articles\": null",
+                &format!("\"expected_articles\": {article_count}"),
+            )
+            .replace(
+                "\"expected_transitories\": null",
+                &format!(
+                    "\"expected_transitories\": {transitory_count},\n  \"count_baseline\": {{\n    \"provenance\": \"machine-proposed\",\n    \"parser_version\": \"{SCHEMA_VERSION}\",\n    \"proposed_at\": \"{}\"\n  }}",
+                    Utc::now().format("%Y-%m-%dT%H:%M:%SZ")
+                ),
+            );
+    }
+    if updated == original {
+        return Ok(false);
+    }
+    fs::write(adapter_path, &updated)?;
+    load_config(adapter_path)
+        .with_context(|| format!("frozen adapter is invalid: {}", adapter_path.display()))?;
+    Ok(true)
+}
+
+/// One instrument's structural pipeline for batch ingestion: fetch through
+/// export with temporal analysis deliberately skipped (deferred per batch
+/// by legal priority), freezing baselines when requested.
+fn run_batch_instrument(
+    root: &Path,
+    slug: &str,
+    freeze_counts: bool,
+    keep_work: bool,
+    obsidian_vault: Option<&Path>,
+) -> Result<()> {
+    let context = instrument_context(root, slug)?;
+    run_fetch(&context)?;
+    run_extract(&context)?;
+    run_parse(root, &context)?;
+    let report = run_validate(root, &context)?;
+    if !report.valid {
+        bail!("validation failed for {slug}");
+    }
+    if freeze_counts {
+        let adapter_path = find_adapter_path(root, slug)?;
+        let derived_date = if context.config.publication_date.is_none() {
+            let raw = fs::read_to_string(&context.paths.text)?;
+            Some(
+                lex_parse::extract_dof_publication(&raw)
+                    .with_context(|| format!("{slug}: no DOF publication note found to freeze"))?,
+            )
+        } else {
+            None
+        };
+        if freeze_adapter_baseline(
+            &adapter_path,
+            derived_date,
+            report.article_count,
+            report.transitory_count,
+        )? {
+            println!(
+                "froze machine-proposed baseline into {}",
+                adapter_path.display()
+            );
+            // Re-validate with the frozen expectations so the committed
+            // validation report carries the enforced counts, not the
+            // unfrozen warnings.
+            let context = instrument_context(root, slug)?;
+            let report = run_validate(root, &context)?;
+            if !report.valid {
+                bail!("validation failed for {slug} after freezing its baseline");
+            }
+        }
+    }
+    let context = instrument_context(root, slug)?;
+    run_export(root, &context, ExportFormat::Markdown, None)?;
+    if let Some(vault) = obsidian_vault {
+        run_export(root, &context, ExportFormat::Obsidian, Some(vault))?;
+    }
+    if !keep_work {
+        cleanup_work(&context)?;
+    }
+    Ok(())
+}
+
+fn run_batch(
+    root: &Path,
+    manifest_path: &Path,
+    only: &[String],
+    freeze_counts: bool,
+    keep_work: bool,
+    obsidian_vault: Option<&Path>,
+) -> Result<()> {
+    let manifest = load_batch_manifest(manifest_path)?;
+    let selected: Vec<_> = manifest
+        .instruments
+        .iter()
+        .filter(|instrument| only.is_empty() || only.contains(&instrument.slug))
+        .collect();
+    if selected.is_empty() {
+        bail!("no instruments selected from batch {}", manifest.batch_id);
+    }
+    for blocked in &manifest.blocked {
+        println!(
+            "blocked (not fetched): {} — {}",
+            blocked.slug, blocked.reason
+        );
+    }
+    // Scaffold missing Diputados adapters up front, then check global
+    // uniqueness before any network work.
+    let mut results: Vec<serde_json::Value> = Vec::new();
+    let mut runnable = Vec::new();
+    for instrument in &selected {
+        if find_adapter_path(root, &instrument.slug).is_ok() {
+            runnable.push(instrument);
+        } else if instrument.adapter == "diputados" {
+            match scaffold_adapter(root, manifest_path, &instrument.slug) {
+                Ok(_) => runnable.push(instrument),
+                Err(error) => results.push(serde_json::json!({
+                    "slug": instrument.slug,
+                    "status": "failed",
+                    "stage": "scaffold",
+                    "error": format!("{error:#}"),
+                })),
+            }
+        } else {
+            results.push(serde_json::json!({
+                "slug": instrument.slug,
+                "status": "skipped",
+                "reason": format!(
+                    "adapter {:?} requires a hand-written config",
+                    instrument.adapter
+                ),
+            }));
+        }
+    }
+    preflight_adapter_uniqueness(root)?;
+    for instrument in runnable {
+        println!("— {} —", instrument.slug);
+        match run_batch_instrument(
+            root,
+            &instrument.slug,
+            freeze_counts,
+            keep_work,
+            obsidian_vault,
+        ) {
+            Ok(()) => results.push(serde_json::json!({
+                "slug": instrument.slug,
+                "status": "ok",
+            })),
+            Err(error) => results.push(serde_json::json!({
+                "slug": instrument.slug,
+                "status": "failed",
+                "error": format!("{error:#}"),
+            })),
+        }
+    }
+    let failed: Vec<&str> = results
+        .iter()
+        .filter(|entry| entry["status"] == "failed")
+        .filter_map(|entry| entry["slug"].as_str())
+        .collect();
+    let report_path = root
+        .join(".work")
+        .join(format!("batch-report-{}.json", manifest.batch_id));
+    fs::create_dir_all(report_path.parent().expect("report parent"))?;
+    write_pretty_json(
+        &serde_json::json!({
+            "batch_id": manifest.batch_id,
+            "generated_at": Utc::now().to_rfc3339(),
+            "results": results,
+        }),
+        &report_path,
+    )?;
+    println!("batch report: {}", report_path.display());
+    for entry in &results {
+        println!(
+            "{}: {}{}",
+            entry["slug"].as_str().unwrap_or("?"),
+            entry["status"].as_str().unwrap_or("?"),
+            entry["error"]
+                .as_str()
+                .map(|error| format!(" — {error}"))
+                .unwrap_or_default()
+        );
+    }
+    if !failed.is_empty() {
+        bail!(
+            "batch {} had failures: {}",
+            manifest.batch_id,
+            failed.join(", ")
+        );
+    }
+    Ok(())
+}
+
 /// Parser options for a Diputados consolidated document, derived from the
 /// adapter: running-header lines default to the uppercased official title.
 fn diputados_options(config: &SourceConfig) -> DiputadosOptions {
@@ -626,7 +1000,18 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
     let manifest: SourceManifest = read_json(&paths.manifest)?;
     let raw = fs::read_to_string(&paths.text)
         .with_context(|| format!("failed to read {}", paths.text.display()))?;
-    let publication_date = NaiveDate::parse_from_str(&config.publication_date, "%Y-%m-%d")?;
+    let publication_date = match &config.publication_date {
+        Some(date) => NaiveDate::parse_from_str(date, "%Y-%m-%d")?,
+        // A scaffolded adapter has no date yet; derive it from the
+        // document's own DOF publication note. `batch run --freeze-counts`
+        // persists the derived date into the adapter.
+        None => lex_parse::extract_dof_publication(&raw).with_context(|| {
+            format!(
+                "adapter for {} has no publication_date and the document has no DOF note",
+                config.slug
+            )
+        })?,
+    };
     let extracted_text_sha256 = manifest
         .extracted_text_sha256
         .clone()

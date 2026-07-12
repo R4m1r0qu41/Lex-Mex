@@ -24,7 +24,8 @@ pub mod terms;
 
 pub use dcg::parse_dcg;
 pub use diputados::{
-    DiputadosDocument, DiputadosOptions, extract_reform_evidence, parse_diputados,
+    DiputadosDocument, DiputadosOptions, extract_dof_publication, extract_reform_evidence,
+    parse_diputados,
 };
 pub use html::extract_html_text;
 pub use itf::{ItfDocument, parse_itf_dcg};
