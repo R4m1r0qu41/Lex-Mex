@@ -1,0 +1,22 @@
+{
+  "slug": "lamp",
+  "instrument_id": "urn:lex-mx:federal:statute:lamp",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Amparo",
+  "short_name": "LAmp",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2013-04-02",
+  "expected_min_articles": 272,
+  "expected_articles": 272,
+  "expected_transitories": 11,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T04:48:41Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

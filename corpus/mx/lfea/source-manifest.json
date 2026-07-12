@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfea",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-07-12T04:48:44.303832Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 409700,
+  "etag": "\"64064-644854037c5c0\"",
+  "last_modified": "Wed, 26 Nov 2025 20:29:19 GMT",
+  "source_sha256": "102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842",
+  "extracted_text_sha256": "89d63142b7e42d6b3464733bfbc20993c1effa05d9812bef27b9232ef95bbe9f",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9c62148fe74f0a2ec32575e2a992a74006cfee37"
+}

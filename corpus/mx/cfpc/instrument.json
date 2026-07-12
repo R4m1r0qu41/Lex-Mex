@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:code:cfpc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "code",
+  "official_title": "Código Federal de Procedimientos Civiles",
+  "short_name": "CFPC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1943-02-24",
+  "latest_reform_date": "2021-06-07",
+  "retrieved_at": "2026-07-12T04:48:32.870553Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf",
+  "source_sha256": "db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299",
+  "extracted_text_sha256": "f3c9bcdd5738b3c9318b5cf2553ce11315dd44695b56fae23ccf778d5fc5a3a6",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

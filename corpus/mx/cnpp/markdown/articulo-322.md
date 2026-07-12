@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:code:cnpp:article:322
+instrument_id: urn:lex-mx:federal:code:cnpp
+instrument: CNPP
+name: "Código Nacional de Procedimientos Penales"
+provision_type: article
+number: "322"
+aliases: ["CNPP — Artículo 322"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf
+source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
+---
+
+> Título VI
+
+# Artículo 322
+
+Prórroga del plazo de la investigación complementaria De manera excepcional, el Ministerio Público podrá solicitar una prórroga del plazo de investigación complementaria para formular acusación, con la finalidad de lograr una mejor preparación del caso, fundando y motivando su petición. El Juez podrá otorgar la prórroga siempre y cuando el plazo solicitado, sumado al otorgado originalmente, no exceda los plazos señalados en el [artículo anterior](articulo-321.md).

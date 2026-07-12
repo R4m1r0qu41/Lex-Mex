@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:code:cnpp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-07-12T04:48:35.080620Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1704798,
+  "etag": "\"1a035e-644ee9e2e3ec0\"",
+  "last_modified": "Tue, 02 Dec 2025 02:11:47 GMT",
+  "source_sha256": "7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904",
+  "extracted_text_sha256": "a20efaee3b5f8a3cd6ebf96b370684bfe9ec9dec31ea9fa0c7b261d7cce0ca9c",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9c62148fe74f0a2ec32575e2a992a74006cfee37"
+}

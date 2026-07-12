@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-07-12T04:48:45.799281Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1205962,
+  "etag": "\"1266ca-616dc95bbe840\"",
+  "last_modified": "Wed, 24 Apr 2024 19:22:01 GMT",
+  "source_sha256": "cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361",
+  "extracted_text_sha256": "5a844fd6e5698b47183c7cd7643f80ceb6f39b764f2531a55c2216b61670ab49",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9c62148fe74f0a2ec32575e2a992a74006cfee37"
+}

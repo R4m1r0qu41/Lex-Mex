@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lamp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-07-12T04:48:40.601088Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1369391,
+  "etag": "\"14e52f-64160be155980\"",
+  "last_modified": "Fri, 17 Oct 2025 20:40:22 GMT",
+  "source_sha256": "05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d",
+  "extracted_text_sha256": "42ae5f0add42766f858cf713d31e744c308671aa3f72b237d55ef0ff13e4e17a",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9c62148fe74f0a2ec32575e2a992a74006cfee37"
+}

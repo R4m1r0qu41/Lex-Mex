@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:code:cfpc",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-07-12T04:48:32.870553Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1549659,
+  "etag": "\"17a55b-64b96c637fec0\"",
+  "last_modified": "Tue, 24 Feb 2026 19:20:03 GMT",
+  "source_sha256": "db545f3918f1c1907dac23d6431d5076c8de91af1fbf97dcf5b5b2a68b165299",
+  "extracted_text_sha256": "f3c9bcdd5738b3c9318b5cf2553ce11315dd44695b56fae23ccf778d5fc5a3a6",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9c62148fe74f0a2ec32575e2a992a74006cfee37"
+}

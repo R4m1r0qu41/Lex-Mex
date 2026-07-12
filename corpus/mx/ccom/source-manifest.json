@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:code:ccom",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-07-12T04:48:29.584949Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 2630704,
+  "etag": "\"282430-64ddba6454cc0\"",
+  "last_modified": "Wed, 25 Mar 2026 16:20:43 GMT",
+  "source_sha256": "b99bbf981434011b6351ef308922fea90f6f0f8777b113183cf1737840c5bbef",
+  "extracted_text_sha256": "23f9e6838f2f386550449cadf0cd8dea628bf8832b8f35330ba82f323a2a2d75",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9c62148fe74f0a2ec32575e2a992a74006cfee37"
+}

@@ -1,0 +1,9 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+  "valid": true,
+  "article_count": 88,
+  "transitory_count": 8,
+  "reference_count": 105,
+  "issues": []
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lbm",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Banco de México",
+  "short_name": "LBM",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1993-12-23",
+  "latest_reform_date": "2014-01-10",
+  "retrieved_at": "2026-07-12T04:48:42.703402Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/74.pdf",
+  "source_sha256": "14b84c537ed334d20f50824a46a9ce7fbbe826058b139daf112ab4087f566f71",
+  "extracted_text_sha256": "417301918e2b65fe735e5566c583b15108e99e4f48132fe10257d94418f7b0c4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

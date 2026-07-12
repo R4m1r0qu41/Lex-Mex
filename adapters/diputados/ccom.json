@@ -1,0 +1,22 @@
+{
+  "slug": "ccom",
+  "instrument_id": "urn:lex-mx:federal:code:ccom",
+  "instrument_type": "code",
+  "parser": "diputados",
+  "official_title": "Código de Comercio",
+  "short_name": "CCom",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1932-08-27",
+  "expected_min_articles": 1641,
+  "expected_articles": 1641,
+  "expected_transitories": 4,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T04:48:31Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ltosf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTOSF.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-07-12T04:48:47.774945Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 575248,
+  "etag": "\"8c710-64515099a4980\"",
+  "last_modified": "Thu, 04 Dec 2025 00:01:58 GMT",
+  "source_sha256": "bf9e443e89a5c0ba268e76f20923ae25195ef5c1ffbacecff36693ca228c3667",
+  "extracted_text_sha256": "77177409594e4845df8d6a0d48ded17cc76433c3b5e0fdfc01e4b36e48e0eae7",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9c62148fe74f0a2ec32575e2a992a74006cfee37"
+}

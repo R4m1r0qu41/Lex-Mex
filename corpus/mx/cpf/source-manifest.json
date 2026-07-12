@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:code:cpf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-07-12T04:48:37.600695Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 2794133,
+  "etag": "\"2aa295-64dca69eaec00\"",
+  "last_modified": "Tue, 24 Mar 2026 19:46:56 GMT",
+  "source_sha256": "a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c",
+  "extracted_text_sha256": "55a4f52cf949acdc94ce71a1fc548333e609ee070f49f9c43777821bea9db1b1",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9c62148fe74f0a2ec32575e2a992a74006cfee37"
+}

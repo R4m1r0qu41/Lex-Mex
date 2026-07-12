@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lamp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Amparo",
+  "short_name": "LAmp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2013-04-02",
+  "latest_reform_date": "2025-10-16",
+  "retrieved_at": "2026-07-12T04:48:40.601088Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf",
+  "source_sha256": "05560493ac2b17b9e77eeb9741843176ee0fde76f05e75f853465b13621be78d",
+  "extracted_text_sha256": "42ae5f0add42766f858cf713d31e744c308671aa3f72b237d55ef0ff13e4e17a",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

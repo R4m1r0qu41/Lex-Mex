@@ -1,0 +1,22 @@
+{
+  "slug": "cnpp",
+  "instrument_id": "urn:lex-mx:federal:code:cnpp",
+  "instrument_type": "code",
+  "parser": "diputados",
+  "official_title": "Código Nacional de Procedimientos Penales",
+  "short_name": "CNPP",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2014-03-05",
+  "expected_min_articles": 490,
+  "expected_articles": 490,
+  "expected_transitories": 13,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T04:48:36Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

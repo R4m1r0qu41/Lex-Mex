@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:code:cpf",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "code",
+  "official_title": "Código Penal Federal",
+  "short_name": "CPF",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1931-08-14",
+  "latest_reform_date": "2026-03-13",
+  "retrieved_at": "2026-07-12T04:48:37.600695Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf",
+  "source_sha256": "a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c",
+  "extracted_text_sha256": "55a4f52cf949acdc94ce71a1fc548333e609ee070f49f9c43777821bea9db1b1",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

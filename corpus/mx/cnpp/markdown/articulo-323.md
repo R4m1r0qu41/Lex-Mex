@@ -1,0 +1,24 @@
+---
+id: urn:lex-mx:federal:code:cnpp:article:323
+instrument_id: urn:lex-mx:federal:code:cnpp
+instrument: CNPP
+name: "Código Nacional de Procedimientos Penales"
+provision_type: article
+number: "323"
+aliases: ["CNPP — Artículo 323"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf
+source_sha256: 7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904
+---
+
+> Título VI
+
+# Artículo 323
+
+Plazo para declarar el cierre de la investigación Transcurrido el plazo para el cierre de la investigación, el Ministerio Público deberá cerrarla o solicitar justificadamente su prórroga al Juez de control, observándose los límites máximos previstos en el artículo [321](articulo-321.md).
+
+Si el Ministerio Público no declarara cerrada la investigación en el plazo fijado, o no solicita su prórroga, el imputado o la víctima u ofendido podrán solicitar al Juez de control que lo aperciba para que proceda a tal cierre.
+
+Transcurrido el plazo para el cierre de la investigación, ésta se tendrá por cerrada salvo que el Ministerio Público o el imputado hayan solicitado justificadamente prórroga del mismo al Juez.

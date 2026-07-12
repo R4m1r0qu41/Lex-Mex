@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:code:cnpp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "code",
+  "official_title": "Código Nacional de Procedimientos Penales",
+  "short_name": "CNPP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-03-05",
+  "latest_reform_date": "2025-11-28",
+  "retrieved_at": "2026-07-12T04:48:35.080620Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf",
+  "source_sha256": "7ceb0682c948d7d945e7e68b8d8699ceb795fc9a491aa62325db91ccf2309904",
+  "extracted_text_sha256": "a20efaee3b5f8a3cd6ebf96b370684bfe9ec9dec31ea9fa0c7b261d7cce0ca9c",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

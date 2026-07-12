@@ -1,0 +1,22 @@
+{
+  "slug": "cfpc",
+  "instrument_id": "urn:lex-mx:federal:code:cfpc",
+  "instrument_type": "code",
+  "parser": "diputados",
+  "official_title": "Código Federal de Procedimientos Civiles",
+  "short_name": "CFPC",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFPC.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1943-02-24",
+  "expected_min_articles": 630,
+  "expected_articles": 630,
+  "expected_transitories": 3,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-12T03:47:47Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}
