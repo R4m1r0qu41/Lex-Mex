@@ -144,30 +144,33 @@ fn parse_transitory_start<'a>(
     None
 }
 
-/// A letter article-suffix written past the separator after a low-ordinal
-/// base, `Artículo 4o.-A.-` (article "4o-A") and `Artículo 5o.-A.` — the
-/// letter binds only with no intervening space, so an ordinary body like
-/// `4o.- A los efectos…` (leading space) is never mistaken for a suffix.
-/// Returns the suffix letter and the remainder at the body separator.
-fn ordinal_letter_suffix(after: &str) -> Option<(char, &str)> {
-    for separator in [".-", "."] {
-        if let Some(rest) = after.strip_prefix(separator) {
-            let mut chars = rest.chars();
-            let letter = chars.next()?;
-            if letter.is_ascii_uppercase() && chars.next().is_none_or(|next| !next.is_alphabetic())
-            {
-                let remainder = &rest[letter.len_utf8()..];
-                if remainder.starts_with(['.', '-', ' ']) {
-                    return Some((letter, remainder));
-                }
-            }
-        }
+/// A single-letter article suffix in a heading that the base-number
+/// grammar does not fold in itself, either space-separated
+/// (`Artículo 2448 A.-`) or written past the separator after a low ordinal
+/// (`Artículo 4o.-A.-`). The letter must sit immediately before a body
+/// separator (`.`/`-`), so an ordinary body — `4o.- A los efectos…`
+/// (space before the letter) or `16. Se entenderá…` (letter starts a
+/// word) — is never mistaken for a suffix. Returns the suffix letter and
+/// the remainder at the body separator. The dash form (`2448-A`) is
+/// handled by the grammar and never reaches here.
+fn heading_letter_suffix(after: &str) -> Option<(char, &str)> {
+    let body = if let Some(rest) = after.strip_prefix(".-").or_else(|| after.strip_prefix('.')) {
+        rest
+    } else if after.starts_with(' ') {
+        after.trim_start_matches(' ')
+    } else {
+        return None;
+    };
+    let mut chars = body.chars();
+    let letter = chars.next()?;
+    if !letter.is_ascii_uppercase() || !matches!(chars.next(), Some('.' | '-')) {
+        return None;
     }
-    None
+    Some((letter, &body[letter.len_utf8()..]))
 }
 
-/// `Artículo 15-D.- body`, `ARTICULO 1o. body`, `Artículo 4o.-A.- body`
-/// → `(number, body)`.
+/// `Artículo 15-D.- body`, `ARTICULO 1o. body`, `Artículo 4o.-A.- body`,
+/// `Artículo 2448 A.- body` → `(number, body)`.
 fn parse_article_start(block: &str) -> Option<(String, &str)> {
     let rest = ["Artículo ", "ARTÍCULO ", "ARTICULO ", "Articulo "]
         .iter()
@@ -176,10 +179,7 @@ fn parse_article_start(block: &str) -> Option<(String, &str)> {
     let label = labels::match_label_at(rest)?;
     let mut number = label.raw().to_owned();
     let mut after = &rest[label.raw().len()..];
-    // `4o.-A` past-separator letter suffix, only for an ordinal base.
-    if label.raw().ends_with(['o', 'º', '°'])
-        && let Some((letter, remainder)) = ordinal_letter_suffix(after)
-    {
+    if let Some((letter, remainder)) = heading_letter_suffix(after) {
         number = format!("{number}-{letter}");
         after = remainder;
     }
@@ -189,6 +189,13 @@ fn parse_article_start(block: &str) -> Option<(String, &str)> {
         }
     }
     None
+}
+
+/// The leading base number of an article label (`70-A` → 70, `1o` → 1),
+/// for detecting a heading whose number regresses below the sequence.
+fn article_base(number: &str) -> Option<u64> {
+    let digits: String = number.chars().take_while(char::is_ascii_digit).collect();
+    digits.parse().ok()
 }
 
 struct HeadingPatterns {
@@ -255,6 +262,7 @@ fn is_page_furniture(line: &str, options: &DiputadosOptions, page_number: &Regex
 
 fn is_stop_marker(block: &str, options: &DiputadosOptions) -> bool {
     block.contains("ARTÍCULOS TRANSITORIOS DE")
+        || block.contains("ARTICULOS TRANSITORIOS DE")
         || options
             .stop_markers
             .iter()
@@ -262,9 +270,17 @@ fn is_stop_marker(block: &str, options: &DiputadosOptions) -> bool {
 }
 
 fn is_transitory_section_header(block: &str) -> bool {
+    // A trailing colon and a missing accent both occur (`ARTICULOS
+    // TRANSITORIOS`, `TRANSITORIOS:`).
+    let block = block.strip_suffix(':').unwrap_or(block).trim_end();
     matches!(
         block,
-        "DISPOSICIONES TRANSITORIAS" | "TRANSITORIOS" | "TRANSITORIO" | "ARTÍCULOS TRANSITORIOS"
+        "DISPOSICIONES TRANSITORIAS"
+            | "DISPOSICIONES TRANSITORIALES"
+            | "TRANSITORIOS"
+            | "TRANSITORIO"
+            | "ARTÍCULOS TRANSITORIOS"
+            | "ARTICULOS TRANSITORIOS"
     )
 }
 
@@ -443,6 +459,7 @@ pub fn parse_diputados(
         apartado: None,
     };
     let mut in_statute_transitories = false;
+    let mut last_article_base: Option<u64> = None;
 
     for block in blocks {
         if is_stop_marker(&block, options) {
@@ -476,6 +493,17 @@ pub fn parse_diputados(
                 current = Some(ProvisionBuilder::transitory(ordinal, body));
                 continue;
             }
+            // Some códigos number their enactment transitorios as articles
+            // ("Artículo 1o.- Este Código comenzará a regir…"); inside the
+            // transitory section these are transitorios, not a restart of
+            // the article sequence.
+            if let Some((number, body)) = parse_article_start(&block) {
+                if let Some(builder) = current.take() {
+                    provisions.push(builder.finish(&options.instrument_id, publication_date));
+                }
+                current = Some(ProvisionBuilder::transitory(&number, body));
+                continue;
+            }
         } else {
             if patterns.apply(&block, &mut heading) {
                 if let Some(builder) = current.take() {
@@ -484,11 +512,23 @@ pub fn parse_diputados(
                 continue;
             }
             if let Some((number, body)) = parse_article_start(&block) {
-                if let Some(builder) = current.take() {
-                    provisions.push(builder.finish(&options.instrument_id, publication_date));
+                let base = article_base(&number);
+                // A consolidated código quotes other laws' articles inside
+                // editorial notes ("…el artículo 54 de la citada Ley, a la
+                // letra señalaba: Artículo 54.- …"). A heading whose base
+                // number falls below the sequence position already reached
+                // is such a quote, not a new article; keep it in the
+                // current provision's body instead of restarting the count.
+                let regresses =
+                    matches!((base, last_article_base), (Some(b), Some(last)) if b < last);
+                if !regresses {
+                    if let Some(builder) = current.take() {
+                        provisions.push(builder.finish(&options.instrument_id, publication_date));
+                    }
+                    last_article_base = base.or(last_article_base);
+                    current = Some(ProvisionBuilder::article(number, body, heading.clone()));
+                    continue;
                 }
-                current = Some(ProvisionBuilder::article(number, body, heading.clone()));
-                continue;
             }
         }
 

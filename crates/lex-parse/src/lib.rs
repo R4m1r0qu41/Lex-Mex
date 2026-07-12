@@ -118,7 +118,9 @@ impl ReferencePatterns {
             )?,
             relative_article: Regex::new(r"(?i)\bartículo\s+(anterior|siguiente)\b")?,
             roman: Regex::new(r"\b[IVXLCDM]+\b")?,
-            number: Regex::new(r"(?i)\d{1,3}(?:-[A-Z])?(?:\s+(?:Bis|Ter|Quáter))?")?,
+            number: Regex::new(
+                r"(?i)(?:\d{1,3}(?:,\d{3})+|\d{1,4})(?:-[A-Z])?(?:\s+(?:Bis|Ter|Quáter))?",
+            )?,
             separator: Regex::new(
                 r"(?ix)^(?:
             [\s,;:/()\-]+ |
