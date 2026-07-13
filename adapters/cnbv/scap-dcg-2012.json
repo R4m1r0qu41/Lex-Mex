@@ -2,6 +2,7 @@
   "slug": "scap-dcg-2012",
   "instrument_id": "urn:lex-mx:federal:regulation:scap-dcg-2012",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lrascap",
   "parser": "itf-dcg",
   "official_title": "Disposiciones de carácter general aplicables a las actividades de las sociedades cooperativas de ahorro y préstamo",
   "short_name": "DCG-SCAP-2012",

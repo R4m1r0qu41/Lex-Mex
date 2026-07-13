@@ -2,6 +2,7 @@
   "slug": "cucb-dcg-2004",
   "instrument_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lmv",
   "parser": "itf-dcg",
   "official_title": "Disposiciones de carácter general aplicables a las casas de bolsa",
   "short_name": "DCG-CUCB-2004",

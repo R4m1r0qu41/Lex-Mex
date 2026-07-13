@@ -2,6 +2,7 @@
   "slug": "oaac-dcg-2009",
   "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgoaac",
   "parser": "itf-dcg",
   "official_title": "Disposiciones de carácter general aplicables a los almacenes generales de depósito, casas de cambio, uniones de crédito y sociedades financieras de objeto múltiple reguladas",
   "short_name": "DCG-OAAC-2009",

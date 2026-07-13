@@ -77,13 +77,13 @@
       "Ley de Proteccion y Defensa al Usuario de Servicios Financieros",
       "LPDUSF"
     ],
-    "CUB-DCG-2005": [
+    "DCG-CUB-2005": [
       "Disposiciones de carácter general aplicables a las instituciones de crédito",
       "Disposiciones de caracter general aplicables a las instituciones de credito",
       "Circular Única de Bancos",
       "Circular Unica de Bancos",
       "CUB",
-      "CUB-DCG-2005"
+      "DCG-CUB-2005"
     ],
     "LMV": [
       "Ley del Mercado de Valores",
@@ -94,33 +94,33 @@
       "Ley de Fondos de Inversion",
       "LFI"
     ],
-    "CUE-DCG-2003": [
+    "DCG-CUE-2003": [
       "Disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores",
       "Disposiciones de caracter general aplicables a las emisoras de valores y a otros participantes del mercado de valores",
       "Circular Única de Emisoras",
       "Circular Unica de Emisoras",
       "CUE",
-      "CUE-DCG-2003"
+      "DCG-CUE-2003"
     ],
-    "CUCB-DCG-2004": [
+    "DCG-CUCB-2004": [
       "Disposiciones de carácter general aplicables a las casas de bolsa",
       "Disposiciones de caracter general aplicables a las casas de bolsa",
       "Circular Única de Casas de Bolsa",
       "Circular Unica de Casas de Bolsa",
       "CUCB",
-      "CUCB-DCG-2004"
+      "DCG-CUCB-2004"
     ],
-    "FI-DCG-2014": [
+    "DCG-FI-2014": [
       "Disposiciones de carácter general aplicables a los fondos de inversión y a las personas que les prestan servicios",
       "Disposiciones de caracter general aplicables a los fondos de inversion y a las personas que les prestan servicios",
       "Circular Única de Fondos de Inversión",
       "Circular Unica de Fondos de Inversion",
-      "FI-DCG-2014"
+      "DCG-FI-2014"
     ],
-    "SERVINV-DCG-2013": [
+    "DCG-SERVINV-2013": [
       "Disposiciones de carácter general aplicables a las entidades financieras y demás personas que proporcionen servicios de inversión",
       "Disposiciones de caracter general aplicables a las entidades financieras y demas personas que proporcionen servicios de inversion",
-      "SERVINV-DCG-2013"
+      "DCG-SERVINV-2013"
     ],
     "LACP": [
       "Ley de Ahorro y Crédito Popular",
@@ -132,15 +132,17 @@
       "Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Prestamo",
       "LRASCAP"
     ],
-    "SOCAP-SOFIPO-DCG-2006": [
+    "DCG-SOCAP-SOFIPO-2006": [
       "Disposiciones de carácter general aplicables a las entidades de ahorro y crédito popular, organismos de integración, sociedades financieras comunitarias y organismos de integración financiera rural",
       "Disposiciones de caracter general aplicables a las entidades de ahorro y credito popular, organismos de integracion, sociedades financieras comunitarias y organismos de integracion financiera rural",
-      "SOCAP-SOFIPO-DCG-2006"
+      "Disposiciones de carácter general aplicables a las entidades de ahorro y crédito popular y organismos de integración a que se refiere la Ley de Ahorro y Crédito Popular",
+      "Disposiciones de caracter general aplicables a las entidades de ahorro y credito popular y organismos de integracion a que se refiere la Ley de Ahorro y Credito Popular",
+      "DCG-SOCAP-SOFIPO-2006"
     ],
-    "SCAP-DCG-2012": [
+    "DCG-SCAP-2012": [
       "Disposiciones de carácter general aplicables a las actividades de las sociedades cooperativas de ahorro y préstamo",
       "Disposiciones de caracter general aplicables a las actividades de las sociedades cooperativas de ahorro y prestamo",
-      "SCAP-DCG-2012"
+      "DCG-SCAP-2012"
     ],
     "LGOAAC": [
       "Ley General de Organizaciones y Actividades Auxiliares del Crédito",
@@ -152,10 +154,10 @@
       "Ley de Uniones de Credito",
       "LUC"
     ],
-    "OAAC-DCG-2009": [
+    "DCG-OAAC-2009": [
       "Disposiciones de carácter general aplicables a los almacenes generales de depósito, casas de cambio, uniones de crédito y sociedades financieras de objeto múltiple reguladas",
       "Disposiciones de caracter general aplicables a los almacenes generales de deposito, casas de cambio, uniones de credito y sociedades financieras de objeto multiple reguladas",
-      "OAAC-DCG-2009"
+      "DCG-OAAC-2009"
     ],
     "LISF": [
       "Ley de Instituciones de Seguros y de Fianzas",

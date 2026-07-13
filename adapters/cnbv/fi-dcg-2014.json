@@ -2,6 +2,7 @@
   "slug": "fi-dcg-2014",
   "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lfi",
   "parser": "itf-dcg",
   "official_title": "Disposiciones de carácter general aplicables a los fondos de inversión y a las personas que les prestan servicios",
   "short_name": "DCG-FI-2014",

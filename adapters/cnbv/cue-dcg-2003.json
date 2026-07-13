@@ -2,6 +2,7 @@
   "slug": "cue-dcg-2003",
   "instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lmv",
   "parser": "itf-dcg",
   "official_title": "Disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores",
   "short_name": "DCG-CUE-2003",

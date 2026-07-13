@@ -2,6 +2,7 @@
   "slug": "cub-dcg-2005",
   "instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lic",
   "parser": "itf-dcg",
   "official_title": "Disposiciones de carácter general aplicables a las instituciones de crédito",
   "short_name": "DCG-CUB-2005",

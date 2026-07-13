@@ -1523,6 +1523,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:5:reference:3332-3334:28:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:5",
+    "source_span": "28",
+    "start_char": 3332,
+    "end_char": 3334,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lraf",
+    "target_provision_id": "urn:lex-mx:federal:statute:lraf:article:28",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:5:reference:4237-4238:4:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:itf-dcg-2018:article:5",
     "source_span": "4",

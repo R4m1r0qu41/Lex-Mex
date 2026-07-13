@@ -2,6 +2,7 @@
   "slug": "servinv-dcg-2013",
   "instrument_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lmv",
   "parser": "itf-dcg",
   "official_title": "Disposiciones de carácter general aplicables a las casas de bolsa e instituciones de crédito en materia de servicios de inversión",
   "short_name": "DCG-SERVINV-2013",

@@ -2,6 +2,7 @@
   "slug": "socap-sofipo-dcg-2006",
   "instrument_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lacp",
   "parser": "itf-dcg",
   "official_title": "Disposiciones de carácter general aplicables a las entidades de ahorro y crédito popular, organismos de integración, sociedades financieras comunitarias y organismos de integración financiera rural",
   "short_name": "DCG-SOCAP-SOFIPO-2006",

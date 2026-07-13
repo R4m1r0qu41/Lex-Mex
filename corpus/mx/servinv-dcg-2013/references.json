@@ -1,6 +1,21 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:1:reference:1529-1532:225:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:1",
+    "source_span": "225",
+    "start_char": 1529,
+    "end_char": 1532,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:225",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:11:reference:228-229:4:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:11",
     "source_span": "4",
@@ -74,6 +89,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:11:reference:771-774:371:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:11",
+    "source_span": "371",
+    "start_char": 771,
+    "end_char": 774,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:371",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 743,
+        "end_char": 757
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:11:reference:1137-1138:3:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:11",
     "source_span": "3",
@@ -97,6 +134,28 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013",
     "target_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:5",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:13:reference:480-483:371:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:13",
+    "source_span": "371",
+    "start_char": 480,
+    "end_char": 483,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:371",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 452,
+        "end_char": 466
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -156,6 +215,28 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013",
     "target_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:5",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:16:reference:949-952:226:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:16",
+    "source_span": "226",
+    "start_char": 949,
+    "end_char": 952,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:226",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 921,
+        "end_char": 935
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -723,6 +804,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:28:reference:1045-1048:226:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:28",
+    "source_span": "226",
+    "start_char": 1045,
+    "end_char": 1048,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:226",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 1050,
+        "end_char": 1060
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:28:reference:1496-1497:5:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:28",
     "source_span": "5",
@@ -746,6 +849,28 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013",
     "target_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:5-bis",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:3:reference:680-683:226:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:3",
+    "source_span": "226",
+    "start_char": 680,
+    "end_char": 683,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:226",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VI",
+        "start_char": 685,
+        "end_char": 696
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -858,6 +983,112 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:41:reference:1081-1084:189:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:41",
+    "source_span": "189",
+    "start_char": 1081,
+    "end_char": 1084,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:189",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 1086,
+        "end_char": 1100
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:41:reference:1205-1208:138:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:41",
+    "source_span": "138",
+    "start_char": 1205,
+    "end_char": 1208,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:138",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 1210,
+        "end_char": 1220
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:41:reference:1222-1225:370:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:41",
+    "source_span": "370",
+    "start_char": 1222,
+    "end_char": 1225,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:370",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción V",
+        "start_char": 1227,
+        "end_char": 1237
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:41:reference:1239-1242:392:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:41",
+    "source_span": "392",
+    "start_char": 1239,
+    "end_char": 1242,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:392",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 1244,
+        "end_char": 1256
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso g",
+        "start_char": 1258,
+        "end_char": 1266
+      },
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XIII",
+        "start_char": 1315,
+        "end_char": 1328
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso e",
+        "start_char": 1330,
+        "end_char": 1338
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:43:reference:1338-1340:19:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:43",
     "source_span": "19",
@@ -888,6 +1119,95 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013",
     "target_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:24",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:44:reference:948-954:40-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:44",
+    "source_span": "40 Bis",
+    "start_char": 948,
+    "end_char": 954,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfi:article:40-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y VI",
+        "start_char": 956,
+        "end_char": 973
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:44:reference:1905-1908:106:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:44",
+    "source_span": "106",
+    "start_char": 1905,
+    "end_char": 1908,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "target_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:106",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:44:reference:1910-1913:107:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:44",
+    "source_span": "107",
+    "start_char": 1910,
+    "end_char": 1913,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "target_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:107",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:44:reference:1916-1919:108:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:44",
+    "source_span": "108",
+    "start_char": 1916,
+    "end_char": 1919,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+    "target_provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:108",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:45:reference:1324-1330:40-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:45",
+    "source_span": "40 Bis",
+    "start_char": 1324,
+    "end_char": 1330,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfi",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfi:article:40-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y VI",
+        "start_char": 1332,
+        "end_char": 1349
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
