@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lieps",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley del Impuesto Especial sobre Producción y Servicios",
+  "short_name": "REG-LIEPS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-12-04",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-13T21:39:23.920707Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIEPS.pdf",
+  "source_sha256": "cb15a70b51a87cff0f6d329d5e8a97617d71c955e46da65921037a77a83ca5f4",
+  "extracted_text_sha256": "46e60fd5f3f1da1279c106ee069359c1bd15d0d92e30993443795067a8df0e8b",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,24 @@
+---
+id: urn:lex-mx:federal:statute:lieps:article:14
+instrument_id: urn:lex-mx:federal:statute:lieps
+instrument: LIEPS
+name: "Ley del Impuesto Especial sobre Producción y Servicios"
+provision_type: article
+number: "14"
+aliases: ["LIEPS — Artículo 14"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf
+source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
+---
+
+> Título I · Capítulo III
+
+# Artículo 14
+
+Para calcular el impuesto tratándose de importación de bienes, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de las contribuciones y aprovechamientos que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado. Párrafo reformado DOF 03-12-1993
+
+Tratándose de bienes que se destinen a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, para calcular el impuesto especial sobre producción y servicios se considerará el valor en aduana a que se refiere la Ley Aduanera, adicionado del monto de las demás contribuciones y aprovechamientos que se tuvieran que pagar en caso de que se tratara de una importación definitiva, a excepción del impuesto al valor agregado. Párrafo adicionado DOF 11-12-2013
+
+En las importaciones de cigarros, otros tabacos labrados u otros productos que contengan nicotina en las que el impuesto se pague aplicando la cuota a que se refieren los párrafos segundo y tercero del inciso C) de la fracción I del artículo [2](articulo-2o.md)o. de esta Ley, se considerará la cantidad de cigarros importados, en el caso de otros tabacos labrados, la cantidad de gramos importados y en el caso de otros productos que contengan nicotina, la cantidad de miligramos importados. Tratándose de las importaciones de los bienes a que se refiere el inciso G) de la fracción I del artículo [2](articulo-2o.md)o. de esta Ley, los contribuyentes calcularán el impuesto por el total de litros importados de bebidas saborizadas o por el total de litros que se puedan obtener, de conformidad con las especificaciones del fabricante, por el total de concentrados, polvos, jarabes, esencias o extractos de sabores. Respecto de las importaciones de los bienes a que se refieren los incisos D) y H) de la fracción I del artículo [2](articulo-2o.md)o. de esta Ley, los contribuyentes calcularán el impuesto sobre el total de las unidades de medida y, en su caso, fracciones de dichas unidades importadas, según corresponda. Párrafo reformado DOF 26-12-1990, 31-12-1999, 01-01-2002, 23-12-2005, 27-11-2009, 11-12-2013, 18-11-2015, 09-12-2019, 07-11-2025 Reforma DOF 31-12-1999: Derogó del artículo el entonces párrafo tercero (antes adicionado DOF 31-12-1998)

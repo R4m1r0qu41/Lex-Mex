@@ -2,8 +2,8 @@
   "schema_version": "0.1.0",
   "instrument_id": "urn:lex-mx:federal:statute:lgtoc",
   "valid": true,
-  "article_count": 462,
+  "article_count": 463,
   "transitory_count": 3,
-  "reference_count": 556,
+  "reference_count": 555,
   "issues": []
 }

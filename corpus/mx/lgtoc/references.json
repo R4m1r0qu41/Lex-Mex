@@ -2490,21 +2490,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgtoc:article:228-a:reference:1448-1451:228:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-a",
-    "source_span": "228",
-    "start_char": 1448,
-    "end_char": 1451,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgtoc",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgtoc:article:228-j:reference:417-420:228:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:228-j",
     "source_span": "228",

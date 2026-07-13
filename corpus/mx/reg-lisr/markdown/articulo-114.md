@@ -1,0 +1,28 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lisr:article:114
+instrument_id: urn:lex-mx:federal:regulation:reg-lisr
+instrument: REG-LISR
+name: "Reglamento de la Ley del Impuesto sobre la Renta"
+provision_type: article
+number: "114"
+aliases: ["REG-LISR — Artículo 114"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf
+source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
+---
+
+> Título II · Capítulo VIII
+
+# Artículo 114
+
+Para efectos del artículo 76, fracción XI de la [Ley](articulo-1.md), las personas morales que distribuyan dividendos o utilidades respecto de acciones colocadas entre el gran público inversionista, conforme a las reglas generales que al efecto expida el [SAT](articulo-1.md), a personas residentes en México o en el extranjero, a que se refieren los artículos 140 y 164 fracción I de la Ley, estarán a lo siguiente: I. Enviarán el monto de los dividendos o utilidades distribuidas a la institución para el depósito de valores, autorizada de conformidad con la Ley del Mercado de Valores y emitirán un comprobante fiscal el cual deberá contener lo señalado en el artículo 76, fracción XI, inciso b) de la Ley;
+
+II. La institución para el depósito de valores, autorizada de conformidad con la Ley del Mercado de Valores, a su vez, entregará los dividendos o utilidades enviados por las referidas personas morales a las casas de bolsa o instituciones de crédito que tengan en custodia y administración las acciones. Asimismo, dicha institución para el depósito de valores proporcionará a estos intermediarios financieros copia del comprobante fiscal a que se refiere la fracción anterior, y
+
+III. Los intermediarios señalarán en los estados de cuenta correspondientes, la cuenta o cuentas fiscales de cuyos saldos provenga el dividendo o utilidad distribuido, el importe correspondiente por acción, de conformidad con lo señalado en el comprobante fiscal a que se refiere la fracción I de este artículo, así como el [Impuesto](articulo-1.md) sobre dividendos retenido de conformidad con los artículos 140, párrafo segundo y 164, fracción I de la Ley. Las personas físicas que perciban los dividendos o utilidades a que se refiere este artículo, deberán conservar el comprobante fiscal que emitan los intermediarios financieros para acreditar el Impuesto pagado por la sociedad que distribuyó los dividendos o utilidades.
+
+Cuando la institución para el depósito de valores, autorizada de conformidad con la Ley del Mercado de Valores sea el custodio de las acciones, dicha institución deberá emitir el comprobante fiscal respectivo con base en la información proporcionada por el emisor. Cuando los dividendos o utilidades se distribuyan a fideicomisos cuyos contratos estén celebrados de conformidad con las leyes mexicanas, la fiduciaria deberá emitir el comprobante fiscal respectivo cuando efectúe el pago de los dividendos o utilidades a las personas físicas. En este caso, los custodios deberán proporcionar una copia del comprobante fiscal emitido por el emisor, en términos de la fracción I de este artículo.
+
+Las personas morales que distribuyan dividendos o utilidades respecto de acciones colocadas entre el gran público inversionista realizarán la retención a que se refieren los artículos 140, párrafo segundo y 164, párrafo segundo, fracción I de la Ley, a través de casas de bolsa, instituciones de crédito, sociedades operadoras de fondos de inversión, instituciones para el depósito de valores que tengan en custodia y administración las acciones mencionadas, o cualquier otro intermediario del mercado de valores.

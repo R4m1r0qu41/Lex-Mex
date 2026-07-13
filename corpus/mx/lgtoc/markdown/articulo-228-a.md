@@ -26,7 +26,3 @@ c).- O bien el derecho a una parte alícuota del producto neto que resulte de la
 En el caso de los incisos b) y c), el derecho total de los tenedores de certificados de cada emisión será igual al porcentaje que represente en el momento de hacerse la emisión el valor total nominal de ella en relación con el valor comercial de los bienes, derechos o valores correspondientes fijado por el peritaje practicado en los términos del artículo [228](articulo-228.md) h. En caso de que al hacerse la adjudicación o venta de dichos bienes, derechos o valores, el valor comercial de éstos hubiere disminuido, sin ser inferior al importe nominal total de la emisión, la adjudicación o liquidación en efectivo se hará a los tenedores hasta por un valor igual al nominal de sus certificados; y si el valor comercial de la masa fiduciaria fuere inferior al nominal total de la emisión, tendrán derecho a la aplicación íntegra de los bienes o producto neto de la venta de los mismos.
 
 Artículo adicionado DOF 31-12-1946
-
-Artículo [228](articulo-228.md) a bis.- Los “certificados de vivienda” son títulos que representan el derecho, mediante el pago de lo totalidad de las cuotas estipuladas, a que se transmita la propiedad de una vivienda, gozándose entretanto del aprovechamiento directo del inmueble; y en caso de incumplimiento o abandono, a recuperar una parte de dichas cuotas de acuerdo con los valores de rescate que se fijen.
-
-Artículo adicionado DOF 30-12-1963

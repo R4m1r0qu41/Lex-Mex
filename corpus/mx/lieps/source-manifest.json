@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lieps",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lieps.htm",
+  "retrieved_at": "2026-07-13T21:38:59.510330Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1775862,
+  "etag": "\"1b18f6-6484db3a6d200\"",
+  "last_modified": "Tue, 13 Jan 2026 23:53:44 GMT",
+  "source_sha256": "32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4",
+  "extracted_text_sha256": "c4b6dac008c1dfa3cf9fd92a232ac948ad31e158d1a1304e4e81ca33832c8736",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "92774db405988a464bc2fd74c77655ca8aa8d080"
+}

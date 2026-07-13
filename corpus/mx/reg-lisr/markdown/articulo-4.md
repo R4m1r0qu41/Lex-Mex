@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lisr:article:4
+instrument_id: urn:lex-mx:federal:regulation:reg-lisr
+instrument: REG-LISR
+name: "Reglamento de la Ley del Impuesto sobre la Renta"
+provision_type: article
+number: "4"
+aliases: ["REG-LISR — Artículo 4"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf
+source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
+---
+
+> Título I
+
+# Artículo 4
+
+Para efectos de los artículos 2, párrafos sexto y séptimo y 168 de la [Ley](articulo-1.md), el término construcción de obras incluye: cimentaciones, estructuras, casas y edificios en general, terracerías, terraplenes, plantas industriales y eléctricas, bodegas, carreteras, puentes, caminos, vías férreas, presas, canales, gasoductos, oleoductos, acueductos, perforación de pozos, obras viales de urbanización, de drenaje y de desmonte, puertos, aeropuertos y similares, así como la proyección o demolición de bienes inmuebles.
+
+El cómputo de días de duración de los servicios a que se refiere el artículo 2, párrafos sexto y séptimo de la Ley se hará considerando la totalidad de días naturales comprendidos entre el inicio y la terminación de los servicios. En los casos en los que por la naturaleza de los servicios se considere que la duración de los mismos excederá de 183 días naturales en un periodo de doce meses, el contribuyente deberá cumplir con sus obligaciones conforme a lo dispuesto por el Título II o Título IV, Capítulo II de la Ley, según corresponda, desde el inicio de sus actividades.

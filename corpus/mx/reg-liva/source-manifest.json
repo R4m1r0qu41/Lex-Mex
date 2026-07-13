@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-liva",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIVA_250914.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIVA_250914.pdf",
+  "retrieved_at": "2026-07-13T21:33:00.944437Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 175773,
+  "etag": "\"2ae9d-563b487e8d740\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:09 GMT",
+  "source_sha256": "4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f",
+  "extracted_text_sha256": "bfbefb1134a76c0ed5acb790db86c98ec0f7582730f82f01d99235d4a9ad5fd9",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "92774db405988a464bc2fd74c77655ca8aa8d080"
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": "0.1.0",
+  "prompt_version": "temporal-v2",
+  "instrument_id": "urn:lex-mx:federal:statute:lieps",
+  "publication_date": "1980-12-30",
+  "latest_reform_date": "2025-11-07",
+  "relevant_provisions": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:primero",
+      "label": "Primero",
+      "text": "Esta Ley entrará en toda la República, el día primero de enero de 1981, con excepción de las disposiciones contenidas en los incisos A, B y C de la fracción I, del artículo 2o. de este ordenamiento, relativas a la enajenación e importación de aguas envasadas y refrescos en envases cerrados; jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos eléctricos o mecánicos; y concentrados, polvos, jarabes, esencias o extractos de sabores, destinados al consumidor final, que al diluirse permitan obtener refrescos; las cuales entrarán en vigor el primero de enero de 1982."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:segundo",
+      "label": "Segundo",
+      "text": "Al entrar en vigor la presente Ley, quedarán abrogadas las disposiciones siguientes:\n\nI.- Ley del Impuesto sobre Venta de Gasolina.\n\nII.- Ley del Impuesto sobre Seguros.\n\nIII.- Ley del Impuesto sobre Tabacos Labrados.\n\nIV.- Ley del Impuesto sobre Teléfonos.\n\nA partir del 1o. de enero de 1982 quedará abrogada la Ley del Impuesto sobre Compraventa de Primera Mano de Aguas Envasadas y Refrescos."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:tercero",
+      "label": "Tercero",
+      "text": "Al entrar en vigor la presente Ley, quedarán derogadas las leyes siguientes:\n\nI.- Ley del Impuesto sobre Producción y Consumo de Cerveza, a excepción de los artículos 10, fracciones II a XXV y XXVII a XXIX y 25, que continuarán en vigor hasta el 31 de diciembre de 1981, fecha a partir de la cual queda abrogada dicha Ley.\n\nII.- Ley Federal de Impuestos a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas, a excepción de los artículos 13 a 16, 52, 53, 54 y 56, que continuarán en vigor hasta el 31 de diciembre de 1981, fecha a partir de la cual queda abrogada dicha Ley.\n\nLos reglamentos de las leyes que se derogan se continuarán aplicando en lo relativo a los preceptos que quedan vigentes, sólo durante el año de 1981."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:cuarto",
+      "label": "Cuarto",
+      "text": "Las obligaciones derivadas de las disposiciones fiscales que queden abrogadas o derogadas, según sea el caso, a partir del 1o. de enero de 1981, que hubieran nacido por la realización, durante su vigencia, de las situaciones jurídicas o de hecho previstas de las mismas, deberán ser cumplidas en la forma y plazos establecidos en las citadas disposiciones."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:quinto",
+      "label": "Quinto",
+      "text": "No se pagará el impuesto establecido en esta Ley, cuando por la compraventa de primera mano, por el envasamiento, producción, venta, consumo o por los ingresos obtenidos de la prestación de servicios, ya se hayan causado los impuestos federales que se abrogan o derogan según el caso, o cuando la contraprestación fue exigible antes del 1o. de enero de 1981; si es exigible con posterioridad, en razón de que los actos o actividades fueren de carácter continuo, sólo se pagará el impuesto por la parte de la contraprestación correspondiente a los actos o actividades o los efectos de los mismos, que se realicen a partir de dicha fecha.\n\nEn las importaciones de bienes, no se pagará este impuesto por los introducidos en el país con anterioridad al 1o. de enero de 1981 en los términos del Código Aduanero de los Estados Unidos Mexicanos. Se pagará el impuesto establecido en esta Ley en la importación temporal que se convierta en definitiva con posterioridad a dicha fecha.\n\nLos importadores de bebidas alcohólicas que previa autorización de la Secretaría de Hacienda y Crédito Público, concedida en los términos de la Ley Federal de Impuestos a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas, hayan diferido el entero del impuesto hasta que las bebidas sean enajenadas en territorio nacional, pagarán el impuesto en los términos del Artículo Cuarto Transitorio de esta Ley."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:sexto",
+      "label": "Sexto",
+      "text": "A partir de la fecha en que entre en vigor esta Ley, quedan sin efecto las disposiciones administrativas de carácter general y las resoluciones a consultas, interpretaciones, autorizaciones o permisos otorgados a título particular, en materia de los impuestos establecidos en las leyes y reglamentos que se abrogan o derogan.\n\nDurante el año de 1981, lo dispuesto en el párrafo anterior no es aplicable a las disposiciones que quedan en vigor durante dicho año en los términos del Artículo Tercero Transitorio de esta Ley."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:septimo",
+      "label": "Séptimo",
+      "text": "Los contribuyentes del impuesto establecido en esta Ley, que durante 1981 cierren su ejercicio para efectos del impuesto sobre la renta, antes del 31 de diciembre de dicho año, presentarán su declaración del ejercicio conjuntamente con la que corresponda por este último impuesto, considerando únicamente los actos o actividades realizados entre el 1o. de enero de este año y el cierre del ejercicio mencionado. Las instituciones de seguros continuar n con el ejercicio que iniciaron conforme a la Ley del Impuesto sobre Seguros."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:octavo",
+      "label": "Octavo",
+      "text": "Durante el año de 1981, los contribuyentes que enajenen o importen cerveza, en lugar de la tasa del 21. 5%, establecida en el inciso D de la fracción I del artículo 2o., de esta Ley, aplicarán la tasa del 18% y además de una cuota fija de $0. 23 por litro de cerveza producida o importada. El impuesto se pagará en los términos de los artículos 5o. y 15 de este ordenamiento.\n\nLa parte del impuesto que se determine aplicando la cuota fija, tratándose de cerveza producida en el país, se calculará sobre el volumen de producción elaborado en el mes inmediato anterior, verificado por medio de los contadores oficiales automáticos, de acuerdo con los litros pasados a través de los mismos, descontándose la cerveza retornada a los cuartos fríos, que no hubiere salido de la fábrica. Tratándose de cerveza importada, la parte del impuesto que se determine aplicando la cuota fija, se calculará sobre el volumen de cerveza importada.\n\nPara los efectos de la aplicación de la tasa del 18%, del valor de la cerveza enajenada o importada, se excluirá el impuesto que resulte de aplicar la cuota fija."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:noveno",
+      "label": "Noveno",
+      "text": "Los contribuyentes que fabriquen cerveza deberán presentar ante la Secretaría de Hacienda y Crédito Público, dentro de los primeros quince días del mes de enero de los años de 1981 y 1982, una declaración pormenorizada en la que expresen las existencias de cerveza terminada al 31 de diciembre de 1980 y de 1981, respectivamente, indicando aquélla que se encuentre en cuartos fríos o salas de gobierno pendiente únicamente de ser envasada, así como la ya envasada que se encuentre en almacenes de la empresa. Dichas existencias deberán ser tomadas con intervención del personal fiscal comisionado en cada fábrica y respecto de la cerveza que esté pendiente de envasarse, debiendo indicarse el número de cocimiento de que proviene, fecha del mismo y demás datos de identificación, conforme a los libros oficiales."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:decimo",
+      "label": "Décimo",
+      "text": "Los contribuyentes que produzcan o envasen vinos de mesa, sidras, rompopes y brandies deberán presentar ante la Secretaría de Hacienda y Crédito Público, dentro de los primeros quince días del mes de enero de 1981, una declaración pormenorizada en la que expresen las existencias de productos terminados al 31 de diciembre de 1980, indicando aquéllos que se encuentren ya envasados, o en los almacenes de la empresa.\n\nLos contribuyentes obligados al pago del impuesto establecido en esta Ley, por la enajenación e importación de brandies que contengan más del 90% de aguardiente de uva, durante el año de 1981 aplicarán en vez de la tasa del 40% establecida en el inciso G, fracción I del artículo 2o. de esta Ley, la tasa del 37%."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:decimo-primero",
+      "label": "Décimo Primero",
+      "text": "En tanto se expida el reglamento, los importadores que introduzcan al país bebidas alcohólicas en recipientes mayores, requerirán autorización de la Secretaría de Hacienda y Crédito Público, para cumplir con los requisitos de información y control que señala la fracción V del artículo 13 de esta Ley.\n\nLos importadores, para adherir los marbetes a los envases menores en sus almacenes, bodegas o depósitos dentro de los quince días siguientes al día en que se retiren los bienes de la aduana, en tanto se expida el reglamento, requerirán autorización de la Secretaría de Hacienda y Crédito Público la cual no será necesaria cuando se esté gozando de autorización concedida para este efecto en los términos de la Ley Federal del Impuesto a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:decimosegundo",
+      "label": "Decimosegundo",
+      "text": "Durante 1981, los contribuyentes del impuesto establecido en esta Ley, por la enajenación de bienes, calcularán el impuesto aplicando la tasa correspondiente en los términos del artículo 2o. de esta Ley, al valor de enajenación señalado en el artículo 11 de este ordenamiento o sobre el precio máximo en que enajenaron sus productos durante los dos últimos meses de 1980, el que sea mayor."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:decimotercero",
+      "label": "Decimotercero",
+      "text": "En tanto el precio al público en el Distrito Federal, incluyendo impuesto de la gasolina NOVA no exceda de $2. 80, los contribuyentes de toda la República obligados al pago del impuesto por este concepto, en vez de efectuar pagos provisionales semanales, los harán quincenalmente, a más tardar los días 20 y 5o. de cada mes, o al siguiente día hábil, si aquéllos no lo fueran, respecto de las ventas realizadas en la quincena anterior, mediante declaración que presentarán en las oficinas autorizadas. Fe de erratas al párrafo DOF 17-04-1981\n\nMientras los pagos provisionales sean quincenales, las autoridades fiscales podrán presumir, salvo prueba en contrario, que los volúmenes de gasolina informados por Petróleos Mexicanos en los términos del artículo 21 de esta Ley, fueron adquiridos; y que el mismo volumen de gasolina, descontando la merma de 0. 74%; fue enajenado por el contribuyente, por partes iguales en cada una de las quincenas comprendidas en el informe."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lieps:transitory:decimocuarto",
+      "label": "Decimocuarto",
+      "text": "Durante el año de 1981, del rendimiento del impuesto por concepto de prestación de servicios telefónicos, se destinará el 40% a apoyar los programas de desarrollo de las empresas que se dedican al servicio telefónico a fin de que mejoren y amplíen dicho servicio incluyendo aquéllos de la Federación para las comunicaciones eléctricas de larga distancia y de telefonía rural. Este apoyo se hará a través del organismo que señale la Secretaría de Hacienda y Crédito Público y en la forma que la misma determine.\n\nMéxico, D. F., a 19 de diciembre de 1980.- José Murrat, D. P.- Graciliano Alpuche Pinzón, S. P.- David Jiménez González, D. S.- Mario Carballo Pazos, S. S.-Rúbricas.\n\nEn cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diecinueve días del mes de diciembre de mil novecientos ochenta.- José López Portillo.- Rúbrica.-El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica."
+    }
+  ],
+  "required_output_schema": "schemas/temporal-model-output-v2.schema.json"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-liva",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley del Impuesto al Valor Agregado",
+  "short_name": "REG-LIVA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-12-04",
+  "latest_reform_date": "2014-09-25",
+  "retrieved_at": "2026-07-13T21:33:00.944437Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIVA_250914.pdf",
+  "source_sha256": "4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f",
+  "extracted_text_sha256": "bfbefb1134a76c0ed5acb790db86c98ec0f7582730f82f01d99235d4a9ad5fd9",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

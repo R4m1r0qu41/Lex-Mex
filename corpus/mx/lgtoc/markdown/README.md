@@ -235,6 +235,7 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 227](articulo-227.md)
 - [Artículo 228](articulo-228.md)
 - [Artículo 228-a](articulo-228-a.md)
+- [Artículo 228-a bis](articulo-228-a-bis.md)
 - [Artículo 228-b](articulo-228-b.md)
 - [Artículo 228-c](articulo-228-c.md)
 - [Artículo 228-d](articulo-228-d.md)

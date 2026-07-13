@@ -1,0 +1,42 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lisr:article:225
+instrument_id: urn:lex-mx:federal:regulation:reg-lisr
+instrument: REG-LISR
+name: "Reglamento de la Ley del Impuesto sobre la Renta"
+provision_type: article
+number: "225"
+aliases: ["REG-LISR — Artículo 225"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf
+source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
+---
+
+> Título IV · Capítulo VI
+
+# Artículo 225
+
+Para efectos del artículo 133, último párrafo de la [Ley](articulo-1.md), las sociedades de inversión especializadas de fondos para el retiro calcularán para cada uno de sus inversionistas, el interés real acumulable proveniente de la subcuenta de aportaciones voluntarias a que se refiere la Ley de los Sistemas de Ahorro para el Retiro, conforme a lo siguiente:
+
+I. Determinarán diariamente y por separado:
+
+a) El interés nominal devengado a su favor, correspondiente a los instrumentos de deuda que estén gravados para sus inversionistas;
+
+b) El interés nominal devengado a su favor, por los instrumentos de deuda que estén exentos para sus inversionistas, y c) La ganancia por la enajenación de su cartera accionaria y la variación en la valuación de dicha cartera, al final de cada día.
+
+Los intereses devengados deberán incluir tanto los cobrados por la sociedad como la variación en la valuación diaria de los instrumentos de deuda, que no hayan sido incluidos como intereses devengados de días anteriores;
+
+II. Las sociedades determinarán los intereses nominales correspondientes a cada uno de sus inversionistas conforme a lo siguiente:
+
+a) El monto de los intereses nominales devengados diarios correspondiente a cada uno de sus inversionistas se calculará multiplicando la suma de los intereses nominales devengados diarios a favor de la sociedad, calculados conforme a la fracción I, incisos a) y b) de este artículo, por la participación diaria que en dicha sociedad tenga cada uno de sus inversionistas, y
+
+b) Para calcular los intereses nominales del ejercicio correspondientes a cada inversionista, las sociedades sumarán o restarán, según corresponda, los intereses nominales devengados diarios, a favor de cada uno de sus inversionistas, calculados conforme al inciso a) de esta fracción, correspondientes a cada uno de los días del ejercicio en los que dichos inversionistas hayan tenido participación en la sociedad de que se trate, y
+
+III. Para calcular los intereses reales acumulables de sus inversionistas, las sociedades a que se refiere este artículo estarán a lo siguiente:
+
+a) Restarán de los intereses nominales devengados diarios correspondientes a los instrumentos de deuda que estén gravados, calculados conforme a la fracción I, inciso a) del presente artículo, la cantidad que resulte de multiplicar el valor al final de cada día de la cartera de instrumentos de deuda gravados, por el factor que se obtenga de acuerdo con el artículo [227](articulo-227.md) de este Reglamento. El resultado que se obtenga serán los intereses acumulables diarios de los inversionistas;
+
+b) Los intereses reales acumulables diarios de cada uno de sus inversionistas se obtendrán multiplicando el resultado obtenido conforme al inciso anterior, por la participación que en dicha sociedad tenga cada uno de sus inversionistas al final de cada día, y
+
+c) Para determinar los intereses reales acumulables del ejercicio correspondientes a cada inversionista, las sociedades sumarán o restarán, según corresponda, los intereses reales acumulables diarios a favor de cada inversionista, correspondientes a cada uno de los días del ejercicio en el que dicho inversionista haya invertido en la sociedad de que se trate.

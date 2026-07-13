@@ -21,7 +21,7 @@ El aviso con efectos de protesto a que se refiere el penúltimo párrafo del art
 
 Salvo instrucción contraria del acreedor prendario, el Almacén General de Depósito deberá iniciar el procedimiento de remate público de los bienes o mercancías depositadas, transcurridos ocho días de la presentación del aviso a que se refiere el presente artículo.
 
-El Almacén General de Depósito publicará en el sistema electrónico a que se refiere el artículo 50 Bis del Código de Comercio, por lo menos cinco días hábiles con antelación, un aviso de venta de los bienes o mercancías depositadas, en el cual se señalará el lugar, día y hora en que se pretenda realizar el remate público, incluyendo además una descripción de los bienes o mercancías y una primera postura; haciendo la anotación correspondiente en el sistema criptográfico en que se haya emitido el certificado de depósito.
+El Almacén General de Depósito publicará en el sistema electrónico a que se refiere el artículo [50 Bis](../../ccom/markdown/articulo-50-Bis.md) del Código de Comercio, por lo menos cinco días hábiles con antelación, un aviso de venta de los bienes o mercancías depositadas, en el cual se señalará el lugar, día y hora en que se pretenda realizar el remate público, incluyendo además una descripción de los bienes o mercancías y una primera postura; haciendo la anotación correspondiente en el sistema criptográfico en que se haya emitido el certificado de depósito.
 
 El acreedor prendario podrá participar en el remate para adjudicarse los bienes con saldo a su crédito.
 

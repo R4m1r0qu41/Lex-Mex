@@ -1,0 +1,28 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lisr:article:8
+instrument_id: urn:lex-mx:federal:regulation:reg-lisr
+instrument: REG-LISR
+name: "Reglamento de la Ley del Impuesto sobre la Renta"
+provision_type: article
+number: "8"
+aliases: ["REG-LISR — Artículo 8"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf
+source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
+---
+
+> Título I
+
+# Artículo 8
+
+Para efectos del artículo 8, párrafo sexto de la [Ley](articulo-1.md), las casas de cambio y centros cambiarios para determinar las pérdidas cambiarias devengadas por la fluctuación de la moneda extranjera, podrán utilizar el tipo de cambio promedio de sus operaciones del día, calculado como sigue:
+
+I. Se sumarán los tipos de cambio promedios ponderados de venta y de compra y el resultado obtenido se dividirá entre dos;
+
+II. El tipo de cambio promedio ponderado de venta será el que resulte de dividir el ingreso total en pesos por venta de divisas del día entre el número de divisas vendidas en el mismo día, y
+
+III. El tipo de cambio promedio ponderado de compra será el que resulte de dividir el total de las erogaciones en pesos por la compra de divisas efectuadas en el día entre el número de divisas compradas en el mismo día. En el caso de que únicamente se hubieran realizado operaciones de venta de divisas durante el día, el tipo de cambio promedio de las operaciones será el resultado de la fracción II de este artículo. Cuando únicamente se hubieran realizado operaciones de compra de divisas durante el día, el tipo de cambio promedio de sus operaciones será el resultado de la fracción III de este artículo.
+
+Asimismo, en el caso de que no existan operaciones de compraventa de alguna divisa, pero se tengan que determinar las pérdidas cambiarias devengadas por la fluctuación en su valor, las casas de cambio o centros cambiarios deberán usar el tipo de cambio que publique el Banco de México a que se refiere el artículo 8 de la Ley, en el caso de dólares de los Estados Unidos de América; tratándose de divisas distintas del dólar de los Estados Unidos de América, deberán usar la tabla de equivalencias de las monedas con el dólar de los Estados Unidos de América elaborada por el Banco de México, publicada en el Diario Oficial de Federación en la primera semana del mes inmediato siguiente al día en el que se sufra la pérdida.
