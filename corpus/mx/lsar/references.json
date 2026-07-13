@@ -945,8 +945,9 @@
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
-    "resolution_status": "unresolved",
-    "reference_form": "direct"
+    "resolution_status": "stale_in_source",
+    "reference_form": "direct",
+    "note": "Cites LMV's 1975-vintage 'Artículo 16 Bis' series (información privilegiada); the modern LMV, fully rewritten 2005-12-30, has no such articles. LSAR's article 68 was never updated when LMV was replaced."
   },
   {
     "schema_version": "0.1.0",
@@ -960,8 +961,9 @@
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
-    "resolution_status": "unresolved",
-    "reference_form": "direct"
+    "resolution_status": "stale_in_source",
+    "reference_form": "direct",
+    "note": "Cites LMV's 1975-vintage 'Artículo 16 Bis' series (información privilegiada); the modern LMV, fully rewritten 2005-12-30, has no such articles. LSAR's article 68 was never updated when LMV was replaced."
   },
   {
     "schema_version": "0.1.0",
@@ -975,8 +977,9 @@
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
-    "resolution_status": "unresolved",
-    "reference_form": "direct"
+    "resolution_status": "stale_in_source",
+    "reference_form": "direct",
+    "note": "Cites LMV's 1975-vintage 'Artículo 16 Bis' series (información privilegiada); the modern LMV, fully rewritten 2005-12-30, has no such articles. LSAR's article 68 was never updated when LMV was replaced."
   },
   {
     "schema_version": "0.1.0",
@@ -990,8 +993,9 @@
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
-    "resolution_status": "unresolved",
-    "reference_form": "direct"
+    "resolution_status": "stale_in_source",
+    "reference_form": "direct",
+    "note": "Cites LMV's 1975-vintage 'Artículo 16 Bis' series (información privilegiada); the modern LMV, fully rewritten 2005-12-30, has no such articles. LSAR's article 68 was never updated when LMV was replaced."
   },
   {
     "schema_version": "0.1.0",

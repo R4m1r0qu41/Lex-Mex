@@ -326,6 +326,57 @@ pub fn extract_references(
     Ok(references)
 }
 
+/// One adapter-configured citation known to be permanently stale in its
+/// source law: the officially published text cites a target provision that
+/// has never existed (or existed only in an instrument version the source
+/// law was never updated to follow), confirmed by tracing the enactment/
+/// reform decree history rather than by an ingestion gap on this side.
+/// Matched against edges by suffix so the exact `urn:` prefix need not be
+/// repeated in adapter config, and applied by [`apply_known_stale_citations`]
+/// after normal resolution — never by hand-editing a committed
+/// `references.json`, which `link` would silently regress on its next run.
+#[derive(Debug, Clone, Copy)]
+pub struct KnownStaleCitation<'a> {
+    /// Suffix of the citing provision's canonical ID, for example
+    /// `":article:187"`.
+    pub source_provision_id_suffix: &'a str,
+    /// Suffix of the resolved (but nonexistent) `target_provision_id` this
+    /// citation points to, for example `"lraf:article:28-bis"`. Matching on
+    /// the already-resolved target ID rather than the raw source text
+    /// makes the match immune to the source law's own casing/spacing
+    /// inconsistencies (e.g. `"28 Bis"` vs `"16 bis 2"`).
+    pub target_provision_id_suffix: &'a str,
+    /// Human-readable explanation carried into the edge's `note`, for the
+    /// lawyer reading the corpus.
+    pub note: &'a str,
+}
+
+/// Override `resolution_status` (and set `note`) for every edge matching a
+/// configured [`KnownStaleCitation`], turning what would otherwise be a
+/// permanent `unresolved_internal_reference`/cross-instrument validation
+/// error into a disclosed `StaleInSource` warning. A no-op when
+/// `known_stale_citations` is empty, which is every instrument except the
+/// ones an adapter has explicitly configured.
+pub fn apply_known_stale_citations(
+    references: &mut [ReferenceEdge],
+    known_stale_citations: &[KnownStaleCitation<'_>],
+) {
+    for reference in references.iter_mut() {
+        let Some(known) = known_stale_citations.iter().find(|known| {
+            reference
+                .source_provision_id
+                .ends_with(known.source_provision_id_suffix)
+                && reference
+                    .target_provision_id
+                    .ends_with(known.target_provision_id_suffix)
+        }) else {
+            continue;
+        };
+        reference.resolution_status = ReferenceResolutionStatus::StaleInSource;
+        reference.note = Some(known.note.to_owned());
+    }
+}
+
 fn extract_source_references(
     source: ReferenceSource<'_>,
     neighbors: RelativeNeighbors<'_>,
@@ -751,6 +802,7 @@ fn reference_edge(
         confidence: 1.0,
         resolution_status,
         reference_form,
+        note: None,
     }
 }
 
@@ -1624,35 +1676,53 @@ fn validate_reference_target(
     } else {
         "internal"
     };
-    let (code, message) = match (&reference.resolution_status, target_exists) {
-        (ReferenceResolutionStatus::Resolved, false) => (
+    let issue = match (&reference.resolution_status, target_exists) {
+        (ReferenceResolutionStatus::Resolved, false) => error(
             "resolved_reference_target_missing",
             format!(
                 "resolved reference target does not exist: {}",
                 reference.target_provision_id
             ),
+            Some(reference.source_provision_id.clone()),
         ),
-        (ReferenceResolutionStatus::Unresolved, true) => (
+        (ReferenceResolutionStatus::Unresolved, true) => error(
             "reference_resolution_stale",
             format!(
                 "reference target exists but is marked unresolved: {}",
                 reference.target_provision_id
             ),
+            Some(reference.source_provision_id.clone()),
         ),
-        (ReferenceResolutionStatus::Unresolved, false) => (
+        (ReferenceResolutionStatus::Unresolved, false) => error(
             "unresolved_internal_reference",
             format!(
                 "{scope} reference target does not exist: {}",
                 reference.target_provision_id
             ),
+            Some(reference.source_provision_id.clone()),
         ),
         (ReferenceResolutionStatus::Resolved, true) => return,
+        // A citation known to be stale in the officially published source
+        // law itself (see `apply_known_stale_citations`): the target will
+        // essentially always be missing by definition, but this is
+        // disclosed provenance, not a parser or ingestion defect, so it
+        // warns instead of hard-failing validation regardless of
+        // `target_exists`.
+        (ReferenceResolutionStatus::StaleInSource, _) => ValidationIssue {
+            severity: Severity::Warning,
+            code: "known_stale_reference".to_owned(),
+            message: format!(
+                "known-stale citation to a target that does not exist in the current corpus: {} — {}",
+                reference.target_provision_id,
+                reference
+                    .note
+                    .as_deref()
+                    .unwrap_or("no note recorded for this known-stale citation"),
+            ),
+            provision_id: Some(reference.source_provision_id.clone()),
+        },
     };
-    issues.push(error(
-        code,
-        message,
-        Some(reference.source_provision_id.clone()),
-    ));
+    issues.push(issue);
 }
 
 fn char_slice(value: &str, start: usize, end: usize) -> Option<String> {
@@ -2514,5 +2584,132 @@ Ciudad de México, a 1 de octubre de 2025.
             "urn:lex-mx:federal:statute:lritf:amendment:2025-11-14:transitory:segundo"
         );
         assert_eq!(evidence[1].text, "La aplicación será gradual.");
+    }
+
+    /// The LIC art. 187 / LSAR art. 68 regression fixture: a citation the
+    /// officially published source law itself never corrected (LIC 187
+    /// cites a "28 Bis" that has never existed in the modern LRAF).
+    fn stale_candidate_edge() -> lex_core::ReferenceEdge {
+        lex_core::ReferenceEdge {
+            schema_version: "0.1.0".to_owned(),
+            id: "urn:lex-mx:federal:statute:lic:article:187:reference:0-6:28-bis:direct".to_owned(),
+            source_provision_id: "urn:lex-mx:federal:statute:lic:article:187".to_owned(),
+            source_span: "28 Bis".to_owned(),
+            start_char: 0,
+            end_char: 6,
+            target_instrument_id: "urn:lex-mx:federal:statute:lraf".to_owned(),
+            target_provision_id: "urn:lex-mx:federal:statute:lraf:article:28-bis".to_owned(),
+            qualifiers: Vec::new(),
+            basis: lex_core::Basis::ExpressCrossReference,
+            confidence: 1.0,
+            resolution_status: ReferenceResolutionStatus::Unresolved,
+            reference_form: ReferenceForm::Direct,
+            note: None,
+        }
+    }
+
+    const STALE_NOTE: &str = "test note: never corrected after LRAF's 2014 rewrite";
+
+    fn stale_known_citation() -> super::KnownStaleCitation<'static> {
+        super::KnownStaleCitation {
+            source_provision_id_suffix: ":article:187",
+            target_provision_id_suffix: "lraf:article:28-bis",
+            note: STALE_NOTE,
+        }
+    }
+
+    /// A configured known-stale citation overrides only the matching edge's
+    /// `resolution_status`/`note`; an edge whose source suffix does not
+    /// match is left as `Unresolved` with no note.
+    #[test]
+    fn known_stale_citation_overrides_matching_edge_only() {
+        let known_stale = [stale_known_citation()];
+
+        let mut unmatched = stale_candidate_edge();
+        unmatched.source_provision_id = "urn:lex-mx:federal:statute:lic:article:1".to_owned();
+        let mut unmatched_references = vec![unmatched];
+        super::apply_known_stale_citations(&mut unmatched_references, &known_stale);
+        assert_eq!(
+            unmatched_references[0].resolution_status,
+            ReferenceResolutionStatus::Unresolved
+        );
+        assert_eq!(unmatched_references[0].note, None);
+
+        let mut references = vec![stale_candidate_edge()];
+        super::apply_known_stale_citations(&mut references, &known_stale);
+        assert_eq!(
+            references[0].resolution_status,
+            ReferenceResolutionStatus::StaleInSource
+        );
+        assert_eq!(references[0].note.as_deref(), Some(STALE_NOTE));
+    }
+
+    /// The validator treats `StaleInSource` as a warning carrying the note,
+    /// never as an error — whether or not the target happens to exist,
+    /// since a genuinely stale citation's target essentially never does.
+    #[test]
+    fn stale_in_source_validates_as_warning_regardless_of_target_existence() {
+        use std::collections::HashMap;
+
+        let mut references = vec![stale_candidate_edge()];
+        super::apply_known_stale_citations(&mut references, &[stale_known_citation()]);
+
+        let mut issues = Vec::new();
+        super::validate_reference_target(
+            "urn:lex-mx:federal:statute:lic",
+            &references[0],
+            &HashMap::new(),
+            &HashSet::new(),
+            &mut issues,
+        );
+        assert_eq!(issues.len(), 1);
+        assert_eq!(issues[0].severity, lex_core::Severity::Warning);
+        assert_eq!(issues[0].code, "known_stale_reference");
+        assert!(issues[0].message.contains(STALE_NOTE));
+
+        // Even when the configured target happens to exist, StaleInSource
+        // still warns rather than errors: it is not gated on target_exists.
+        let target_provision = existing_target_provision();
+        let mut provisions_by_id = HashMap::new();
+        provisions_by_id.insert(target_provision.id.as_str(), &target_provision);
+        let mut issues_existing = Vec::new();
+        super::validate_reference_target(
+            "urn:lex-mx:federal:statute:lraf",
+            &references[0],
+            &provisions_by_id,
+            &HashSet::new(),
+            &mut issues_existing,
+        );
+        assert_eq!(issues_existing.len(), 1);
+        assert_eq!(issues_existing[0].severity, lex_core::Severity::Warning);
+        assert_eq!(issues_existing[0].code, "known_stale_reference");
+    }
+
+    fn existing_target_provision() -> lex_core::Provision {
+        lex_core::Provision {
+            schema_version: "0.1.0".to_owned(),
+            id: "urn:lex-mx:federal:statute:lraf:article:28-bis".to_owned(),
+            instrument_id: "urn:lex-mx:federal:statute:lraf".to_owned(),
+            provision_type: lex_core::ProvisionType::Article,
+            label: "Artículo 28 Bis".to_owned(),
+            number: "28 Bis".to_owned(),
+            heading_context: lex_core::HeadingContext {
+                libro: None,
+                title: None,
+                chapter: None,
+                section: None,
+                apartado: None,
+            },
+            text: String::new(),
+            publication_date: chrono::NaiveDate::from_ymd_opt(2014, 1, 10).unwrap(),
+            effective_from: None,
+            effective_to: None,
+            temporal_status: lex_core::TemporalStatus::Effective,
+            temporal_basis: None,
+            temporal_confidence: None,
+            review_status: lex_core::ReviewStatus::NotAnalyzed,
+            transitory_effects: Vec::new(),
+            amendment_marks: Vec::new(),
+        }
     }
 }

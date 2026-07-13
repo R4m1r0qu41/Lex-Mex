@@ -23,9 +23,10 @@ use lex_export::{
 };
 use lex_parse::{
     CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle, InstrumentContextPolicy,
-    ReferenceOptions, detect_glossary_terms, extract_html_text, extract_internal_references,
-    extract_pdf, extract_references, extract_term_usages, extract_terms, find_glossary_provision,
-    parse_dcg, parse_diputados, parse_itf_dcg, validate_corpus,
+    KnownStaleCitation, ReferenceOptions, apply_known_stale_citations, detect_glossary_terms,
+    extract_html_text, extract_internal_references, extract_pdf, extract_references,
+    extract_term_usages, extract_terms, find_glossary_provision, parse_dcg, parse_diputados,
+    parse_itf_dcg, validate_corpus,
 };
 use lex_source::{
     SourceConfig, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest, load_config,
@@ -1267,12 +1268,24 @@ fn extract_instrument_references(
         same_article_fractions: true,
         relative_references: true,
     };
-    extract_references(
+    let mut references = extract_references(
         provisions,
         Some((instrument.id.as_str(), instrument.official_title.as_str())),
         &options,
         &known_targets,
-    )
+    )?;
+    let known_stale_citations: Vec<KnownStaleCitation<'_>> = context
+        .config
+        .known_stale_citations
+        .iter()
+        .map(|known| KnownStaleCitation {
+            source_provision_id_suffix: known.source_provision_id_suffix.as_str(),
+            target_provision_id_suffix: known.target_provision_id_suffix.as_str(),
+            note: known.note.as_str(),
+        })
+        .collect();
+    apply_known_stale_citations(&mut references, &known_stale_citations);
+    Ok(references)
 }
 
 /// The hand-curated `adapters/diputados/instrument-aliases.json` table:

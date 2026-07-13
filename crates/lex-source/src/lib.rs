@@ -27,6 +27,28 @@ pub struct ExternalInstrument {
     pub instrument_id: String,
 }
 
+/// A citation this instrument's officially published text makes to a
+/// target provision confirmed, by tracing the actual enactment/reform
+/// decree history, to be permanently missing — not an ingestion gap. Wired
+/// into `link` via `lex_parse::apply_known_stale_citations` so the
+/// resulting edge is deterministically reproduced as
+/// `resolution_status: "stale_in_source"` (a validation warning) instead of
+/// the permanent hard error a dangling `unresolved` edge would otherwise
+/// produce, on every re-run — never hand-patched into the committed
+/// `references.json`.
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct KnownStaleCitation {
+    /// Suffix of the citing provision's canonical ID, for example
+    /// `":article:187"`.
+    pub source_provision_id_suffix: String,
+    /// Suffix of the resolved (but nonexistent) `target_provision_id` this
+    /// citation points to, for example `"lraf:article:28-bis"`.
+    pub target_provision_id_suffix: String,
+    /// Human-readable explanation of why this specific citation is stale,
+    /// carried into the edge's `note` for the lawyer reading the corpus.
+    pub note: String,
+}
+
 /// The instrument's glossary provision, when it has one. Glossaries
 /// commonly appear within the first articles of Mexican financial
 /// instruments, but not always.
@@ -156,6 +178,11 @@ pub struct SourceConfig {
     /// cross-instrument reference edges.
     #[serde(default)]
     pub external_instruments: Vec<ExternalInstrument>,
+    /// Citations confirmed permanently stale in this instrument's own
+    /// officially published text (see [`KnownStaleCitation`]). Empty for
+    /// every instrument except the ones this has been diagnosed for.
+    #[serde(default)]
+    pub known_stale_citations: Vec<KnownStaleCitation>,
     /// Public intermediate CA certificates (PEM, relative to the adapter
     /// file) for official hosts that serve an incomplete TLS chain, such as
     /// www.cnbv.gob.mx and www.dof.gob.mx. Each certificate still chains to

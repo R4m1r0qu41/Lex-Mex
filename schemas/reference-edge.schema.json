@@ -93,11 +93,16 @@
     },
     "resolution_status": {
       "type": "string",
-      "enum": ["resolved", "unresolved"]
+      "enum": ["resolved", "unresolved", "stale_in_source"]
     },
     "reference_form": {
       "type": "string",
       "enum": ["direct", "range_expansion", "relative"]
+    },
+    "note": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Human-readable explanation of why a stale_in_source edge's target does not exist in the current corpus. Absent for every other resolution_status."
     }
   }
 }

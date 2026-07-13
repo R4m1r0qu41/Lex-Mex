@@ -1,15 +1,15 @@
 {
   "schema_version": "0.1.0",
   "instrument_id": "urn:lex-mx:federal:statute:lic",
-  "valid": false,
+  "valid": true,
   "article_count": 489,
   "transitory_count": 19,
   "reference_count": 1106,
   "issues": [
     {
-      "severity": "error",
-      "code": "unresolved_internal_reference",
-      "message": "cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lraf:article:28-bis",
+      "severity": "warning",
+      "code": "known_stale_reference",
+      "message": "known-stale citation to a target that does not exist in the current corpus: urn:lex-mx:federal:statute:lraf:article:28-bis — Cites 'Artículo 28 Bis' of LRAF; no such article has existed in LRAF since its full 2014-01-10 rewrite (the same omnibus decree that added this LIC article). Never corrected.",
       "provision_id": "urn:lex-mx:federal:statute:lic:article:187"
     }
   ]

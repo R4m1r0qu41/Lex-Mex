@@ -9399,8 +9399,9 @@
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
-    "resolution_status": "unresolved",
-    "reference_form": "direct"
+    "resolution_status": "stale_in_source",
+    "reference_form": "direct",
+    "note": "Cites 'Artículo 28 Bis' of LRAF; no such article has existed in LRAF since its full 2014-01-10 rewrite (the same omnibus decree that added this LIC article). Never corrected."
   },
   {
     "schema_version": "0.1.0",

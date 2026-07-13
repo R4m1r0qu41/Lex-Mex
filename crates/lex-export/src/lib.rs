@@ -1133,6 +1133,7 @@ mod tests {
             confidence: 1.0,
             resolution_status: ReferenceResolutionStatus::Resolved,
             reference_form: ReferenceForm::Direct,
+            note: None,
         }
     }
 

@@ -19,5 +19,12 @@
     "proposed_at": "2026-07-12T08:06:06Z"
   },
   "allow_article_gaps": true,
-  "formal_publication_urls": {}
+  "formal_publication_urls": {},
+  "known_stale_citations": [
+    {
+      "source_provision_id_suffix": ":article:187",
+      "target_provision_id_suffix": "lraf:article:28-bis",
+      "note": "Cites 'Artículo 28 Bis' of LRAF; no such article has existed in LRAF since its full 2014-01-10 rewrite (the same omnibus decree that added this LIC article). Never corrected."
+    }
+  ]
 }

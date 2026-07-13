@@ -220,6 +220,14 @@ pub struct ReferenceQualifier {
 pub enum ReferenceResolutionStatus {
     Resolved,
     Unresolved,
+    /// The citation is permanently stale in the officially published
+    /// source law itself — not an ingestion gap. Set only through a
+    /// deterministic, adapter-configured override (see
+    /// `lex_parse::apply_known_stale_citations`), never by hand-editing a
+    /// committed `references.json`. The validator treats this as a warning
+    /// rather than the hard error an `Unresolved` edge to a missing target
+    /// would otherwise produce.
+    StaleInSource,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
@@ -249,6 +257,11 @@ pub struct ReferenceEdge {
     pub confidence: f32,
     pub resolution_status: ReferenceResolutionStatus,
     pub reference_form: ReferenceForm,
+    /// Human-readable explanation, for the lawyer reading the corpus, of
+    /// why a `StaleInSource` edge's target does not exist. Absent for
+    /// every other resolution status.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub note: Option<String>,
 }
 
 /// A term expressly defined by a glossary provision, anchored to the exact

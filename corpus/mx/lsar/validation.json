@@ -1,7 +1,7 @@
 {
   "schema_version": "0.1.0",
   "instrument_id": "urn:lex-mx:federal:statute:lsar",
-  "valid": false,
+  "valid": true,
   "article_count": 148,
   "transitory_count": 19,
   "reference_count": 77,
@@ -13,27 +13,27 @@
       "provision_id": "urn:lex-mx:federal:statute:lsar:article:100-bis"
     },
     {
-      "severity": "error",
-      "code": "unresolved_internal_reference",
-      "message": "cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lmv:article:16-bis-2",
+      "severity": "warning",
+      "code": "known_stale_reference",
+      "message": "known-stale citation to a target that does not exist in the current corpus: urn:lex-mx:federal:statute:lmv:article:16-bis-2 — Cites LMV's 1975-vintage 'Artículo 16 Bis' series (información privilegiada); the modern LMV, fully rewritten 2005-12-30, has no such articles. LSAR's article 68 was never updated when LMV was replaced.",
       "provision_id": "urn:lex-mx:federal:statute:lsar:article:68"
     },
     {
-      "severity": "error",
-      "code": "unresolved_internal_reference",
-      "message": "cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lmv:article:16-bis-3",
+      "severity": "warning",
+      "code": "known_stale_reference",
+      "message": "known-stale citation to a target that does not exist in the current corpus: urn:lex-mx:federal:statute:lmv:article:16-bis-3 — Cites LMV's 1975-vintage 'Artículo 16 Bis' series (información privilegiada); the modern LMV, fully rewritten 2005-12-30, has no such articles. LSAR's article 68 was never updated when LMV was replaced.",
       "provision_id": "urn:lex-mx:federal:statute:lsar:article:68"
     },
     {
-      "severity": "error",
-      "code": "unresolved_internal_reference",
-      "message": "cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lmv:article:16-bis-7",
+      "severity": "warning",
+      "code": "known_stale_reference",
+      "message": "known-stale citation to a target that does not exist in the current corpus: urn:lex-mx:federal:statute:lmv:article:16-bis-7 — Cites LMV's 1975-vintage 'Artículo 16 Bis' series (información privilegiada); the modern LMV, fully rewritten 2005-12-30, has no such articles. LSAR's article 68 was never updated when LMV was replaced.",
       "provision_id": "urn:lex-mx:federal:statute:lsar:article:68"
     },
     {
-      "severity": "error",
-      "code": "unresolved_internal_reference",
-      "message": "cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lmv:article:16-bis-8",
+      "severity": "warning",
+      "code": "known_stale_reference",
+      "message": "known-stale citation to a target that does not exist in the current corpus: urn:lex-mx:federal:statute:lmv:article:16-bis-8 — Cites LMV's 1975-vintage 'Artículo 16 Bis' series (información privilegiada); the modern LMV, fully rewritten 2005-12-30, has no such articles. LSAR's article 68 was never updated when LMV was replaced.",
       "provision_id": "urn:lex-mx:federal:statute:lsar:article:68"
     }
   ]
