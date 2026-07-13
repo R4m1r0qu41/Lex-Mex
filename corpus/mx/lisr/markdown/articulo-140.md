@@ -1,0 +1,48 @@
+---
+id: urn:lex-mx:federal:statute:lisr:article:140
+instrument_id: urn:lex-mx:federal:statute:lisr
+instrument: LISR
+name: "Ley del Impuesto sobre la Renta"
+provision_type: article
+number: "140"
+aliases: ["LISR — Artículo 140"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf
+source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
+---
+
+> Título IV · Capítulo VIII
+
+# Artículo 140
+
+Las personas físicas deberán acumular a sus demás ingresos, los percibidos por dividendos o utilidades. Dichas personas físicas podrán acreditar, contra el impuesto que se determine en su declaración anual, el impuesto sobre la renta pagado por la sociedad que distribuyó los dividendos o utilidades, siempre que quien efectúe el acreditamiento a que se refiere este párrafo considere como ingreso acumulable, además del dividendo o utilidad percibido, el monto del impuesto sobre la renta pagado por dicha sociedad correspondiente al dividendo o utilidad percibido y además cuenten con la constancia y el comprobante fiscal a que se refiere la fracción XI del artículo [76](articulo-76.md) de esta Ley. Para estos efectos, el impuesto pagado por la sociedad se determinará aplicando la tasa del artículo [9](articulo-9.md) de esta Ley, al resultado de multiplicar el dividendo o utilidad percibido por el factor de 1.4286.
+
+No obstante lo dispuesto en el párrafo anterior, las personas físicas estarán sujetas a una tasa adicional del 10% sobre los dividendos o utilidades distribuidos por las personas morales residentes en México. Estas últimas, estarán obligadas a retener el impuesto cuando distribuyan dichos dividendos o utilidades, y lo enterarán conjuntamente con el pago provisional del periodo que corresponda. El pago realizado conforme a este párrafo será definitivo.
+
+En los supuestos a que se refiere la fracción III de este artículo, el impuesto que retenga la persona moral se enterará a más tardar en la fecha en que se presente o debió presentarse la declaración del ejercicio correspondiente.
+
+Se entiende que el ingreso lo percibe el propietario del título valor y, en el caso de partes sociales, la persona que aparezca como titular de las mismas.
+
+Para los efectos de este artículo, también se consideran dividendos o utilidades distribuidos, los siguientes:
+
+I. Los intereses a que se refieren los artículos 85 y 123 de la Ley General de Sociedades Mercantiles y las participaciones en la utilidad que se paguen a favor de obligacionistas u otros, por sociedades mercantiles residentes en México o por sociedades nacionales de crédito.
+
+II. Los préstamos a los socios o accionistas, a excepción de aquéllos que reúnan los siguientes requisitos:
+
+a) Que sean consecuencia normal de las operaciones de la persona moral.
+
+b) Que se pacte a plazo menor de un año.
+
+c) Que el interés pactado sea igual o superior a la tasa que fije la Ley de Ingresos de la Federación para la prórroga de créditos fiscales.
+
+d) Que efectivamente se cumplan estas condiciones pactadas.
+
+III. Las erogaciones que no sean deducibles conforme a esta Ley y beneficien a los accionistas de personas morales.
+
+IV. Las omisiones de ingresos o las compras no realizadas e indebidamente registradas.
+
+V. La utilidad fiscal determinada, inclusive presuntivamente, por las autoridades fiscales.
+
+VI. La modificación a la utilidad fiscal derivada de la determinación de los ingresos acumulables y de las deducciones, autorizadas en operaciones celebradas entre partes relacionadas, hecha por dichas autoridades.

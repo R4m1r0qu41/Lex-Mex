@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lieps",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Impuesto Especial sobre Producción y Servicios",
+  "short_name": "LIEPS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1980-12-30",
+  "latest_reform_date": "2025-11-07",
+  "retrieved_at": "2026-07-13T21:38:59.510330Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf",
+  "source_sha256": "32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4",
+  "extracted_text_sha256": "c4b6dac008c1dfa3cf9fd92a232ac948ad31e158d1a1304e4e81ca33832c8736",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

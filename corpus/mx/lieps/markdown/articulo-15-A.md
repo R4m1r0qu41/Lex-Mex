@@ -1,0 +1,30 @@
+---
+id: urn:lex-mx:federal:statute:lieps:article:15-a
+instrument_id: urn:lex-mx:federal:statute:lieps
+instrument: LIEPS
+name: "Ley del Impuesto Especial sobre Producción y Servicios"
+provision_type: article
+number: "15-A"
+aliases: ["LIEPS — Artículo 15-A"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf
+source_sha256: 32639ede8448f91e6ddde556d4b8bceaf349b904bc21631f06e1c8a7a3d416f4
+---
+
+> Título I · Capítulo III
+
+# Artículo 15-A
+
+Las personas que introduzcan bienes a los regímenes aduaneros de importación temporal para elaboración, transformación o reparación en programas de maquila o de exportación; de depósito fiscal para someterse al proceso de ensamble y fabricación de vehículos; de elaboración, transformación o reparación en recinto fiscalizado, y de recinto fiscalizado estratégico, podrán aplicar un crédito fiscal consistente en una cantidad equivalente al 100% del impuesto especial sobre producción y servicios que deba pagarse por la importación, el cual será acreditable contra el impuesto especial sobre producción y servicios que deba pagarse por las citadas actividades, siempre que obtengan una certificación por parte del Servicio de Administración Tributaria. Para obtener dicha certificación, las empresas deberán acreditar que cumplen con los requisitos que permitan un adecuado control de las operaciones realizadas al amparo de los regímenes mencionados, de conformidad con las reglas de carácter general que al efecto emita dicho órgano.
+
+La certificación a que se refiere el párrafo anterior tendrá una vigencia de un año y podrá ser renovada por las empresas dentro de los treinta días anteriores a que venza el plazo de vigencia, siempre que acrediten que continúan cumpliendo con los requisitos para su certificación.
+
+El impuesto cubierto con el crédito fiscal previsto en este artículo, no será acreditable en forma alguna.
+
+El crédito fiscal a que se refiere este artículo no se considerará como ingreso acumulable para los efectos del impuesto sobre la renta.
+
+Las personas a que se refiere este artículo que no ejerzan la opción de certificarse, podrán no pagar el impuesto especial sobre producción y servicios por la introducción de los bienes a los regímenes aduaneros antes mencionados, siempre que garanticen el interés fiscal mediante fianza otorgada por institución autorizada, de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
+
+Artículo adicionado DOF 11-12-2013

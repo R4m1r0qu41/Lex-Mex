@@ -1,0 +1,23 @@
+{
+  "slug": "lieps",
+  "instrument_id": "urn:lex-mx:federal:statute:lieps",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley del Impuesto Especial sobre Producción y Servicios",
+  "short_name": "LIEPS",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lieps.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1980-12-30",
+  "expected_min_articles": 70,
+  "expected_articles": 70,
+  "expected_transitories": 14,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-13T21:39:01Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

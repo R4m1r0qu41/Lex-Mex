@@ -1,0 +1,30 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lisr:article:163
+instrument_id: urn:lex-mx:federal:regulation:reg-lisr
+instrument: REG-LISR
+name: "Reglamento de la Ley del Impuesto sobre la Renta"
+provision_type: article
+number: "163"
+aliases: ["REG-LISR — Artículo 163"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf
+source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
+---
+
+> Título IV · Capítulo I
+
+# Artículo 163
+
+Cuando por razones no imputables al trabajador, éste obtenga en una sola vez percepciones gravables correspondientes a varios meses, distintas de la gratificación anual, de la participación de utilidades, de las primas vacacionales o dominicales, el pago provisional se calculará conforme a lo siguiente:
+
+I. Se dividirá el monto total de la percepción mencionada entre el número de días a que corresponda y el resultado se multiplicará por 30.4;
+
+II. A la cantidad que se obtenga conforme a la fracción anterior se le adicionará el ingreso ordinario por la prestación de un servicio personal subordinado que perciba el trabajador en forma regular en el mes de que se trate y al resultado se le aplicará el procedimiento establecido en el artículo 96 de la [Ley](articulo-1.md);
+
+III. El [Impuesto](articulo-1.md) que se obtenga conforme a la fracción anterior se disminuirá con el Impuesto que correspondería al ingreso ordinario por la prestación de un servicio personal subordinado a que se refiere dicha fracción, calculando este último sin considerar las demás remuneraciones mencionadas en este artículo;
+
+IV. El pago provisional será la cantidad que resulte de aplicar al monto total de la percepción gravable a que se refiere este artículo, la tasa a que se refiere la fracción siguiente, y
+
+V. La tasa a que se refiere la fracción anterior, se calculará dividiendo el Impuesto que se determine en términos de la fracción III de este artículo entre la cantidad que resulte conforme a la fracción I del mismo. El cociente se multiplicará por cien y el producto se expresará en por ciento.

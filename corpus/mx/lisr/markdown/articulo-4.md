@@ -1,0 +1,26 @@
+---
+id: urn:lex-mx:federal:statute:lisr:article:4
+instrument_id: urn:lex-mx:federal:statute:lisr
+instrument: LISR
+name: "Ley del Impuesto sobre la Renta"
+provision_type: article
+number: "4"
+aliases: ["LISR — Artículo 4"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf
+source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
+---
+
+> Título I
+
+# Artículo 4
+
+Los beneficios de los tratados para evitar la doble tributación sólo serán aplicables a los contribuyentes que acrediten ser residentes en el país de que se trate y cumplan con las disposiciones del propio tratado y de las demás disposiciones de procedimiento contenidas en esta Ley, incluyendo la de presentar la información sobre su situación fiscal en los términos del artículo 32-H del Código Fiscal de la Federación o bien, la de presentar el dictamen de estados financieros cuando se esté obligado o se haya ejercido la opción a que se refiere el artículo 32-A del citado Código, y de designar representante legal. Párrafo reformado DOF 12-11-2021
+
+Además de lo previsto en el párrafo anterior, tratándose de operaciones entre partes relacionadas, las autoridades fiscales podrán solicitar al contribuyente residente en el extranjero que acredite la existencia de una doble tributación jurídica, a través de una manifestación bajo protesta de decir verdad firmada por su representante legal, en la que expresamente señale que los ingresos sujetos a imposición en México y respecto de los cuales se pretendan aplicar los beneficios del tratado para evitar la doble tributación, también se encuentran gravados en su país de residencia, para lo cual deberá indicar las disposiciones jurídicas aplicables, así como aquella documentación que el contribuyente considere necesaria para tales efectos.
+
+En los casos en que los tratados para evitar la doble tributación establezcan tasas de retención inferiores a las señaladas en esta Ley, las tasas establecidas en dichos tratados se podrán aplicar directamente por el retenedor; en el caso de que el retenedor aplique tasas mayores a las señaladas en los tratados, el residente en el extranjero tendrá derecho a solicitar la devolución por la diferencia que corresponda.
+
+Las constancias que expidan las autoridades extranjeras para acreditar la residencia surtirán efectos sin necesidad de legalización y solamente será necesario exhibir traducción autorizada cuando las autoridades fiscales así lo requieran.

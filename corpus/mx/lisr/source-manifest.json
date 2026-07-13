@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lisr",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lisr.htm",
+  "retrieved_at": "2026-07-13T20:49:25.488559Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 3021915,
+  "etag": "\"2e1c5b-617d1f3d9b9c0\"",
+  "last_modified": "Tue, 07 May 2024 00:06:07 GMT",
+  "source_sha256": "803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786",
+  "extracted_text_sha256": "a375e6e15f15d76cb89f96fdfa23ccd97245dba4cbcfc0e878708d5950a476f7",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "92774db405988a464bc2fd74c77655ca8aa8d080"
+}

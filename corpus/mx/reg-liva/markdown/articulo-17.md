@@ -1,0 +1,18 @@
+---
+id: urn:lex-mx:federal:regulation:reg-liva:article:17
+instrument_id: urn:lex-mx:federal:regulation:reg-liva
+instrument: REG-LIVA
+name: "Reglamento de la Ley del Impuesto al Valor Agregado"
+provision_type: article
+number: "17"
+aliases: ["REG-LIVA — Artículo 17"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIVA_250914.pdf
+source_sha256: 4f46c1f92fb5682281a7679836e517de95975786fa5326848a331c9eb946cc5f
+---
+
+# Artículo 17
+
+Para calcular la proporción a que se refieren las disposiciones que establece la Ley en materia de acreditamiento, se consideran incluidas en el valor de las actividades por las que se deba pagar el impuesto, los cargos que las líneas aéreas realicen por los servicios de transporte que presten amparados con boletos de avión expedidos por una línea aérea distinta. Dichos cargos no serán incluidos por quien los hubiera pagado, en el valor de las actividades por las que se deba pagar el impuesto ni en el valor total de sus actividades.

@@ -11,7 +11,7 @@
 //! component is part of the identifier.
 
 /// Qualifier words in rank order; rank is index + 1.
-const QUALIFIERS: [&str; 9] = [
+pub(crate) const QUALIFIERS: [&str; 9] = [
     "Bis",
     "Ter",
     "Quáter",
@@ -43,6 +43,14 @@ fn qualifier_rank(index: usize) -> u8 {
 // are vanishingly rare as article suffixes.
 const SUFFIX_LETTERS: &str = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZÁÉÍÓÚ";
 
+/// Two-letter suffix units from the pre-1994 Spanish alphabet, which some
+/// derogated-article ranges still number by (`Artículo 26-A` … `26-L`,
+/// `26-LL`, `26-M` … `26-P` in CFF/LIEPS): each pairs the single letter it
+/// immediately follows with its written form, so `letter_rank` can insert
+/// it right after that letter. `CH` (between `C` and `D`) would need the
+/// same entry if a document is found using it; none has been yet.
+const DIGRAPH_SUFFIXES: [(char, &str); 1] = [('L', "LL")];
+
 #[derive(Debug, Clone, PartialEq, Eq)]
 struct Component {
     /// Dot-separated numeric segments with thousands separators removed;
@@ -50,8 +58,9 @@ struct Component {
     number: Vec<u64>,
     /// `1o`, `2º`, `3°` ordinal mark (ignored for ordering).
     ordinal: bool,
-    /// Single-letter suffix as written (`15-D`).
-    letter: Option<char>,
+    /// Letter suffix as written (`15-D`), almost always one character but
+    /// occasionally a pre-1994 digraph (`26-LL`).
+    letter: Option<String>,
     /// Qualifier rank (`Bis` = 1 … `Nonies` = 8).
     qualifier: Option<u8>,
     /// Qualifier as written, for the raw form.
@@ -101,7 +110,7 @@ impl ArticleLabel {
             .map(|component| {
                 (
                     component.number.clone(),
-                    component.letter.map_or(0, letter_rank),
+                    component.letter.as_deref().map_or(0, letter_rank),
                     component.qualifier.unwrap_or(0),
                 )
             })
@@ -109,11 +118,34 @@ impl ArticleLabel {
     }
 }
 
-fn letter_rank(letter: char) -> u8 {
+fn letter_rank_of_char(letter: char) -> u8 {
     SUFFIX_LETTERS
         .chars()
         .position(|candidate| candidate == letter)
         .map_or(u8::MAX, |index| u8::try_from(index + 1).unwrap_or(u8::MAX))
+}
+
+/// Rank of a one- or two-character suffix unit, high enough for a `DIGRAPH_SUFFIXES`
+/// entry to sort right after the single letter it follows (`L` < `LL` <
+/// `M`), which shifts every later single letter's rank up by one slot for
+/// each digraph at or before it — invisible since ranks are only ever
+/// compared to each other, never stored.
+fn letter_rank(letter: &str) -> u8 {
+    if let Some((after, _)) = DIGRAPH_SUFFIXES
+        .iter()
+        .find(|(_, digraph)| *digraph == letter)
+    {
+        return letter_rank_of_char(*after).saturating_add(1);
+    }
+    let base = letter.chars().next().map_or(u8::MAX, letter_rank_of_char);
+    let shift = u8::try_from(
+        DIGRAPH_SUFFIXES
+            .iter()
+            .filter(|(after, _)| letter_rank_of_char(*after) < base)
+            .count(),
+    )
+    .unwrap_or(u8::MAX);
+    base.saturating_add(shift)
 }
 
 fn strip_accents(value: &str) -> String {
@@ -355,19 +387,35 @@ fn parse_component(cursor: &mut Cursor) -> Option<Component> {
     if cursor.peek() == Some('-') {
         cursor.position += 1;
         cursor.eat_inline_space();
-        match cursor.peek() {
-            Some(candidate)
-                if SUFFIX_LETTERS.contains(candidate)
-                    && cursor
-                        .rest()
+        let rest = cursor.rest();
+        let digraph = DIGRAPH_SUFFIXES
+            .iter()
+            .map(|(_, digraph)| *digraph)
+            .find(|digraph| {
+                rest.starts_with(digraph)
+                    && rest[digraph.len()..]
                         .chars()
-                        .nth(1)
-                        .is_none_or(|next| !is_letter(next)) =>
-            {
-                cursor.bump(candidate);
-                letter = Some(candidate);
+                        .next()
+                        .is_none_or(|next| !is_letter(next))
+            });
+        if let Some(digraph) = digraph {
+            cursor.position += digraph.len();
+            letter = Some(digraph.to_owned());
+        } else {
+            match cursor.peek() {
+                Some(candidate)
+                    if SUFFIX_LETTERS.contains(candidate)
+                        && cursor
+                            .rest()
+                            .chars()
+                            .nth(1)
+                            .is_none_or(|next| !is_letter(next)) =>
+                {
+                    cursor.bump(candidate);
+                    letter = Some(candidate.to_string());
+                }
+                _ => cursor.position = letter_start,
             }
-            _ => cursor.position = letter_start,
         }
     } else {
         cursor.position = letter_start;
@@ -461,6 +509,21 @@ mod tests {
         assert_eq!(full("168 Bis 10").slug(), "168-bis-10");
         assert_eq!(full("2 Bis 102").slug(), "2-bis-102");
         assert_eq!(full("32-Bis").slug(), "32-bis");
+    }
+
+    #[test]
+    fn ll_digraph_sorts_between_l_and_m() {
+        // CFF/LIEPS derogated-article ranges (`Artículo 26-A` … `26-L`,
+        // `26-LL`, `26-M` … `26-P`) number by the pre-1994 Spanish
+        // alphabet, where `LL` is its own letter between `L` and `M`. The
+        // single-letter grammar must not stop at the first `L` (as it
+        // correctly does for a qualifier word like `Bis`) and must not
+        // collapse `26-LL` onto the bare `26-L` id.
+        assert_eq!(full("26-LL").slug(), "26-ll");
+        assert_eq!(full("26-LL").canonical_slug(), "26-ll");
+        assert_ne!(full("26-LL").sort_key(), full("26-L").sort_key());
+        assert!(full("26-L").sort_key() < full("26-LL").sort_key());
+        assert!(full("26-LL").sort_key() < full("26-M").sort_key());
     }
 
     #[test]

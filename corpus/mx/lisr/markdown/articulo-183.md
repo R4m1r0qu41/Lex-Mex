@@ -1,0 +1,34 @@
+---
+id: urn:lex-mx:federal:statute:lisr:article:183
+instrument_id: urn:lex-mx:federal:statute:lisr
+instrument: LISR
+name: "Ley del Impuesto sobre la Renta"
+provision_type: article
+number: "183"
+aliases: ["LISR — Artículo 183"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf
+source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
+---
+
+> Título VI · Capítulo II
+
+# Artículo 183
+
+No se considerará que tienen establecimiento permanente en el país los residentes en el extranjero que proporcionen directa o indirectamente materias primas, maquinaria o equipo, para realizar las actividades de maquila a través de empresas con programa de maquila bajo la modalidad de albergue autorizado por la Secretaría de Economía, siempre que dichos residentes en el extranjero no sean partes relacionadas de la empresa con programa de maquila bajo la modalidad de albergue de que se trate, ni de una parte relacionada de dicha empresa. Lo dispuesto en el presente artículo será aplicable siempre que los residentes en el extranjero, por conducto de las empresas con programa de maquila bajo la modalidad de albergue con las que realicen operaciones de maquila cumplan, además de las obligaciones establecidas en las disposiciones fiscales y aduaneras, con lo siguiente:
+
+I. Solicitar su inscripción en el Registro Federal de Contribuyentes sin obligaciones fiscales.
+
+II. Presentar declaraciones de pagos provisionales y declaración anual, de conformidad con lo dispuesto en esta Ley y con las reglas que para tales efectos emita el Servicio de Administración Tributaria.
+
+III. Presentar anualmente ante las autoridades fiscales, a más tardar en el mes de junio del año siguiente del que se trate, declaración informativa de sus operaciones de maquila en términos de lo que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+IV. Presentar un aviso ante el Servicio de Administración Tributaria cuando dejen de realizar las actividades en los términos a que se refiere el presente artículo, dentro del mes siguiente en el que ocurra dicho supuesto.
+
+Para los efectos de este artículo, la jurisdicción fiscal del residente en el extranjero deberá tener en vigor un acuerdo amplio de intercambio de información con México, sin perjuicio del cumplimiento a los requisitos contenidos en el instrumento internacional aplicable.
+
+En ningún caso, los residentes en el extranjero podrán enajenar productos manufacturados en México que no se encuentren amparados con un pedimento de exportación ni podrán enajenar a la empresa con programa de maquila bajo la modalidad de albergue, la maquinaria, equipo, herramientas, moldes y troqueles y otros activos fijos similares e inventarios, de su propiedad, de sus partes relacionadas residentes en el extranjero o clientes extranjeros, ni antes ni durante el periodo en el que se aplique lo dispuesto en este artículo.
+
+Artículo reformado DOF 09-12-2019

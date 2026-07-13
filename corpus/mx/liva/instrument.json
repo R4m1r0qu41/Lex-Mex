@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:liva",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Impuesto al Valor Agregado",
+  "short_name": "LIVA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1978-12-29",
+  "latest_reform_date": "2021-11-12",
+  "retrieved_at": "2026-07-13T21:32:37.717161Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf",
+  "source_sha256": "f2b5b1770441a6a4e48f3ade408f9ff7a3e9c81bd5d529e52484f49e4a8e91a6",
+  "extracted_text_sha256": "054fddf27d62ca2550d093437a08b7cfc70e1c7f0e2430b7bd45cf4ed8dad747",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

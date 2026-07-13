@@ -1,0 +1,32 @@
+---
+id: urn:lex-mx:federal:statute:lisr:article:71
+instrument_id: urn:lex-mx:federal:statute:lisr
+instrument: LISR
+name: "Ley del Impuesto sobre la Renta"
+provision_type: article
+number: "71"
+aliases: ["LISR — Artículo 71"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf
+source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
+---
+
+> Título II · Capítulo VI
+
+# Artículo 71
+
+Las sociedades integradora e integradas determinarán los pagos provisionales a enterar en cada uno de los meses del ejercicio conforme a lo siguiente:
+
+I. Calcularán el pago provisional del periodo de que se trate conforme al procedimiento y reglas establecidos en el artículo [14](articulo-14.md) de esta Ley.
+
+II. Al resultado determinado conforme a lo establecido en la fracción anterior, se le aplicará la participación integrable correspondiente al ejercicio inmediato anterior, la cantidad obtenida se multiplicará por el factor de resultado fiscal integrado correspondiente al ejercicio inmediato anterior.
+
+III. El resultado de la fracción I de este artículo se multiplicará por la participación no integrable.
+
+IV. El pago provisional del periodo a enterar, será la cantidad que se obtenga de sumar los resultados obtenidos conforme a las fracciones II y III anteriores.
+
+V. Contra el impuesto del ejercicio a enterar en términos de lo dispuesto en el artículo [64](articulo-64.md) de esta Ley se podrán acreditar los pagos provisionales correspondientes al mismo, efectuados conforme al presente artículo.
+
+Tratándose del primer ejercicio en que el grupo aplique la opción a que se refiere este Capítulo, la sociedad integradora calculará el factor de resultado fiscal integrado en términos de lo dispuesto en la fracción III del artículo [64](articulo-64.md) de esta Ley que le hubiere correspondido al grupo en el ejercicio inmediato anterior de haber ejercido dicha opción. En este caso, el primer pago provisional del ejercicio comprenderá el primero, el segundo y el tercer mes del citado ejercicio.

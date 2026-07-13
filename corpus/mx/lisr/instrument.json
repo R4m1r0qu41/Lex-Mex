@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lisr",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Impuesto sobre la Renta",
+  "short_name": "LISR",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2013-12-11",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-07-13T20:49:25.488559Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf",
+  "source_sha256": "803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786",
+  "extracted_text_sha256": "a375e6e15f15d76cb89f96fdfa23ccd97245dba4cbcfc0e878708d5950a476f7",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lisr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:1",
+    "fraction": "I",
+    "start_char": 51,
+    "end_char": 96,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:term:impuesto",
+    "term": "Impuesto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lisr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:1",
+    "fraction": "II",
+    "start_char": 96,
+    "end_char": 139,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lisr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:1",
+    "fraction": "III",
+    "start_char": 139,
+    "end_char": 204,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lisr:term:sat",
+    "term": "SAT",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-lisr",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-lisr:article:1",
+    "fraction": "IV",
+    "start_char": 204,
+    "end_char": 254,
+    "basis": "express_definition"
+  }
+]

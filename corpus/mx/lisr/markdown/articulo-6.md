@@ -1,0 +1,28 @@
+---
+id: urn:lex-mx:federal:statute:lisr:article:6
+instrument_id: urn:lex-mx:federal:statute:lisr
+instrument: LISR
+name: "Ley del Impuesto sobre la Renta"
+provision_type: article
+number: "6"
+aliases: ["LISR — Artículo 6"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf
+source_sha256: 803c2875c09c751c1966b8eb4dca99f460b237da4ef67ee04b4fa325d8c2f786
+---
+
+> Título I
+
+# Artículo 6
+
+Cuando esta Ley prevenga el ajuste o la actualización de los valores de bienes o de operaciones, que por el transcurso del tiempo y con motivo de los cambios de precios en el país han variado, se estará a lo siguiente:
+
+I. Para calcular la modificación en el valor de los bienes o de las operaciones, en un periodo, se utilizará el factor de ajuste que corresponda conforme a lo siguiente:
+
+a) Cuando el periodo sea de un mes, se utilizará el factor de ajuste mensual que se obtendrá restando la unidad del cociente que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de que se trate, entre el mencionado índice del mes inmediato anterior.
+
+b) Cuando el periodo sea mayor de un mes se utilizará el factor de ajuste que se obtendrá restando la unidad del cociente que resulte de dividir el Índice Nacional de Precios al Consumidor del mes más reciente del periodo, entre el citado índice correspondiente al mes más antiguo de dicho periodo.
+
+II. Para determinar el valor de un bien o de una operación al término de un periodo, se utilizará el factor de actualización que se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes más reciente del periodo, entre el citado índice correspondiente al mes más antiguo de dicho periodo.

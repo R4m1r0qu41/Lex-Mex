@@ -1,0 +1,23 @@
+{
+  "slug": "lisr",
+  "instrument_id": "urn:lex-mx:federal:statute:lisr",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley del Impuesto sobre la Renta",
+  "short_name": "LISR",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lisr.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2013-12-11",
+  "expected_min_articles": 236,
+  "expected_articles": 236,
+  "expected_transitories": 2,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-13T20:49:28Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

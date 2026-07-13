@@ -1,5 +1,42 @@
 # Architecture decisions
 
+## 2026-07-13 — Two Diputados article-grammar gaps found ingesting the tax cluster
+
+Ingesting LISR, REG-LISR, LIVA, REG-LIVA, LIEPS, and REG-LIEPS (the six
+`batches/tax_T1_core.json` instruments planned alongside CFF but not yet
+ingested) surfaced two genuine `diputados`/`labels` grammar gaps, both
+caught by the `duplicate_id`/`reference_offsets_invalid` validation errors
+they produced rather than by silent corruption:
+
+- **A letter suffix followed by a qualifier word past the ordinal-plus-dot
+  separator** (`Artículo 1o.-A BIS.-`, LIVA's digital-services
+  intermediary article) was not recognized: `heading_letter_suffix` in
+  `diputados.rs` required the letter to sit immediately before `.`/`-`, so
+  it stopped at `A` and left ` BIS.-` glued onto the body, collapsing the
+  article onto the bare `article:1` id. Fixed by letting that function also
+  match a qualifier word (`labels::QUALIFIERS`) joined by a single space
+  after the letter, before the terminal separator.
+- **The pre-1994 Spanish `LL` digraph as a letter suffix** (`Artículo
+  26-A` … `26-L`, `26-LL`, `26-M` … `26-P`, LIEPS's derogated-article
+  range) was not recognized: the core grammar's single-letter match in
+  `labels::parse_component` requires the character after the candidate
+  letter not to be a letter itself (so `32-Bis` isn't misread as letter `B`
+  plus a stray word); `26-LL`'s second `L` tripped that guard, so the
+  label matched only `26`, again colliding with the bare article. Fixed by
+  trying a small `DIGRAPH_SUFFIXES` table (`LL` only, `CH` noted for when
+  it's next observed) before the single-letter match, and reworking
+  `letter_rank` to insert each digraph's rank right after the single
+  letter it follows, so `26-L` < `26-LL` < `26-M` sorts correctly.
+
+Both are narrow, evidenced fixes (one regression case each, added to
+`fixtures/diputados/codigo-sample.txt` and `labels.rs`'s own tests) rather
+than speculative generalizations. Re-parsing the committed LRITF corpus
+through the changed grammar reproduced it byte-for-byte (only provenance
+timestamps differed), confirming no behavior changed for existing
+instruments. All six new instruments validate with zero errors, counts
+frozen: LISR 236 arts/2 transitorios, REG-LISR 313/9, LIVA 79/5, REG-LIVA
+84/3, LIEPS 70/14, REG-LIEPS 19/2.
+
 ## 2026-07-12 — Old CNBV compilation format (2003–2015 DCGs)
 
 Ingesting the six older CNBV disposiciones (cue-2003, cucb-2004, cub-2005,

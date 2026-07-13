@@ -1,0 +1,23 @@
+{
+  "slug": "reg-lisr",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lisr",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Ley del Impuesto sobre la Renta",
+  "short_name": "REG-LISR",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2015-10-08",
+  "expected_min_articles": 313,
+  "expected_articles": 313,
+  "expected_transitories": 9,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-13T20:51:40Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

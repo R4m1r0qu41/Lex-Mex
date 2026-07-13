@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:liva",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/liva.htm",
+  "retrieved_at": "2026-07-13T21:32:37.717161Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1249332,
+  "etag": "\"131034-5d1145b3f9d00\"",
+  "last_modified": "Thu, 18 Nov 2021 18:30:44 GMT",
+  "source_sha256": "f2b5b1770441a6a4e48f3ade408f9ff7a3e9c81bd5d529e52484f49e4a8e91a6",
+  "extracted_text_sha256": "054fddf27d62ca2550d093437a08b7cfc70e1c7f0e2430b7bd45cf4ed8dad747",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "92774db405988a464bc2fd74c77655ca8aa8d080"
+}

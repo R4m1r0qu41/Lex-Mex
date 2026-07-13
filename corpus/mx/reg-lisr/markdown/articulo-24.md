@@ -1,0 +1,22 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lisr:article:24
+instrument_id: urn:lex-mx:federal:regulation:reg-lisr
+instrument: REG-LISR
+name: "Reglamento de la Ley del Impuesto sobre la Renta"
+provision_type: article
+number: "24"
+aliases: ["REG-LISR — Artículo 24"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf
+source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
+---
+
+> Título II · Capítulo I
+
+# Artículo 24
+
+Para efectos del artículo 22 de la [Ley](articulo-1.md), cuando se esté en el supuesto de que el saldo de la cuenta de utilidad fiscal neta a la fecha de adquisición, adicionado del monto de los reembolsos pagados, de la diferencia pendiente de disminuir a que se refiere el artículo 77, párrafo quinto de la Ley y de las pérdidas fiscales pendientes de disminuir, señalados en el artículo 22, fracción II, inciso b) de la Ley, sea mayor que la suma del saldo de la cuenta de utilidad fiscal neta a la fecha de la enajenación adicionado de las pérdidas disminuidas a que se refiere el artículo 22, fracción III, párrafo primero de la Ley, por la diferencia que se determine conforme a este párrafo, los contribuyentes estarán a lo siguiente:
+
+I. Cuando la diferencia determinada sea menor que el costo comprobado de adquisición, se considerará como monto original ajustado de las acciones a que se refiere el artículo 22, fracción I de la Ley, la cantidad que resulte de restar al costo comprobado de adquisición actualizado, la diferencia determinada en términos del párrafo primero de este artículo, y II. Cuando la diferencia determinada exceda del costo comprobado de adquisición, las acciones que se enajenan no tendrán costo promedio por acción y dicho excedente, considerado por acción, actualizado, se deberá disminuir del costo promedio por acción que se determine en la enajenación inmediata siguiente o siguientes, en términos del artículo 22, fracción III, párrafo tercero de la Ley. Dicho excedente se actualizará desde el mes de la enajenación y hasta el mes en que se disminuya.

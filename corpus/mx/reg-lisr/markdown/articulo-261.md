@@ -1,0 +1,28 @@
+---
+id: urn:lex-mx:federal:regulation:reg-lisr:article:261
+instrument_id: urn:lex-mx:federal:regulation:reg-lisr
+instrument: REG-LISR
+name: "Reglamento de la Ley del Impuesto sobre la Renta"
+provision_type: article
+number: "261"
+aliases: ["REG-LISR — Artículo 261"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISR_060516.pdf
+source_sha256: 0538fd2fa3da9705370350b1e25a1656cc681d2c489545334079e1b35360d6e3
+---
+
+> Título IV · Capítulo X
+
+# Artículo 261
+
+En el caso de fallecimiento de personas obligadas a presentar declaraciones en términos del artículo 150 de la [Ley](articulo-1.md), se procederá como sigue:
+
+I. Dentro de los noventa días siguientes a la fecha en que se discierna el cargo al albacea, éste deberá presentar la declaración por los ingresos a que se refiere el Título IV de la Ley, que hubiera percibido el autor de la sucesión desde el 1 de enero del año de su fallecimiento y hasta el momento de su muerte, a efecto de cubrir el [Impuesto](articulo-1.md) correspondiente, y
+
+II. Los ingresos a que se refiere el Título IV de la Ley, devengados hasta el momento de la muerte del autor de la sucesión que no hubiesen sido efectivamente percibidos en vida, se sujetarán a lo siguiente:
+
+a) Los comprendidos en el Título IV, Capítulos I y III de la Ley, así como los derivados de la prestación de servicios profesionales a que se refiere el Título IV, Capítulo II de la Ley, estarán exceptuados del pago del Impuesto para los herederos o legatarios por considerarse comprendidos en el artículo 93, fracción XXII de la Ley, y
+
+b) Tratándose de los ingresos a que se refiere el Título IV, Capítulos IV a IX de la Ley, así como los derivados de la realización de actividades empresariales, podrán considerarse como ingresos percibidos por el autor de la sucesión y declararse, excepto los señalados en el Título IV, Capítulo VII de la Ley, en términos de la fracción que antecede, o bien cuando los herederos o legatarios opten por acumularlos a sus demás ingresos conforme al artículo [146](articulo-146.md) de este Reglamento.
