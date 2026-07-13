@@ -1,0 +1,45 @@
+{
+  "schema_version": "0.1.0",
+  "prompt_version": "temporal-v2",
+  "instrument_id": "urn:lex-mx:federal:statute:lgoaac",
+  "publication_date": "1985-01-14",
+  "latest_reform_date": null,
+  "relevant_provisions": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgoaac:transitory:primero",
+      "label": "PRIMERO",
+      "text": "La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgoaac:transitory:segundo",
+      "label": "SEGUNDO",
+      "text": "Se deroga la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, publicada en el Diario Oficial de la Federación el 31 de mayo de 1941, en lo conducente a organizaciones auxiliares de crédito y a la actividad de personas o sociedades dedicadas a las operaciones de cambio de divisas extranjeras.\n\nLas sociedades que gocen de concesión con arreglo a la Ley que se deroga se reputarán concesionadas para operar en los términos de la presente Ley, de acuerdo al tipo de organización auxiliar del crédito que corresponda."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgoaac:transitory:tercero",
+      "label": "TERCERO",
+      "text": "Las personas o sociedades dedicadas a las operaciones de cambio de divisas extranjeras que actualmente operan con la conformidad de la Secretaría de Hacienda y Crédito Público, que se ajusten a lo establecido en la presente Ley, y presenten su solicitud dentro de un plazo de ciento veinte días hábiles, contados a partir de la fecha en que entre en vigor, recibirán la autorización a que se refiere esta Ley, previa comprobación ante la Secretaría de Hacienda y Crédito Público, del cumplimiento de los requisitos correspondientes. Quienes realicen en forma habitual y profesional operaciones de compra, venta y cambio de divisas, sin contar con la conformidad de dicha Secretaría, deberán solicitar la autorización de la mencionada Secretaría en un plazo no mayor de treinta días hábiles, cumpliendo con los requisitos señalados al efecto.\n\nLa falta de las solicitudes a que se refiere este precepto, dará lugar a que se aplique a quien se encuentre en tales supuestos, la multa prevista en el artículo 92 en relación con el artículo 81 de esta Ley y la negociación será clausurada administrativamente por la Comisión Nacional Bancaria y de Seguros."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgoaac:transitory:cuarto",
+      "label": "CUARTO",
+      "text": "En tanto la Secretaría de Hacienda y Crédito Público emite las disposiciones de carácter general a que se refiere el artículo 82, fracción IV de esta Ley, el capital mínimo pagado con que deberán contar las sociedades que pretendan operar como casas de cambio será de un millón de pesos moneda nacional."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgoaac:transitory:quinto",
+      "label": "QUINTO",
+      "text": "Para el trámite de las infracciones relacionadas con organizaciones auxiliares del crédito cometidas durante la vigencia de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, se seguirá observando lo dispuesto por los textos anteriormente aplicables de esta Ley."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgoaac:transitory:sexto",
+      "label": "SEXTO",
+      "text": "Las organizaciones auxiliares del crédito, deberán sujetarse a las disposiciones administrativas vigente (sic) emanadas de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, aplicables a las organizaciones auxiliares de crédito."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgoaac:transitory:septimo",
+      "label": "SÉPTIMO",
+      "text": "Las referencias que en otras leyes o disposiciones jurídicas se hagan a los preceptos de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, respecto a las organizaciones auxiliares de crédito y a la actividad de personas o sociedades dedicadas a las operaciones de cambio de divisas extranjeras, se entenderán referidas a las disposiciones aplicables de esta Ley y a las organizaciones auxiliares del crédito y a las casas de cambio, previstas en la misma.\n\nMéxico, D.F., a 20 de diciembre de 1984.- Enrique Soto Izquierdo, D.P.- Celso Humberto Delgado Ramírez, S.P.- Arturo Contreras Cuevas, D.S.- Rafael Armando Herrera Morales, S.S.- Rúbricas”.\n\nEn cumplimiento de lo dispuesto por la Fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiún días del mes de diciembre de mil novecientos ochenta y cuatro.- Miguel de la Madrid H. - Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog Flores.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica."
+    }
+  ],
+  "required_output_schema": "schemas/temporal-model-output-v2.schema.json"
+}

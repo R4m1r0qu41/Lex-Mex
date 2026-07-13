@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgoaac",
+  "valid": true,
+  "article_count": 262,
+  "transitory_count": 7,
+  "reference_count": 241,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "suffix_order",
+      "message": "article 45 Bis 1 does not sort after 45-T within the same base",
+      "provision_id": "urn:lex-mx:federal:statute:lgoaac:article:45-bis-1"
+    }
+  ]
+}

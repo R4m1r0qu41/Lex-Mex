@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:luc",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "official_url": "https://www.cnbv.gob.mx/Normatividad/Ley%20de%20Uniones%20de%20Cr%C3%A9dito.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-07-13T19:39:47.941826Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 819653,
+  "etag": "\"{300580FB-8FF5-4F08-8387-D750E4D1C71F},6\"",
+  "last_modified": "Mon, 29 Jun 2026 22:29:44 GMT",
+  "source_sha256": "27226943dfedfecf9d997d418972d0a5c1dbbf8dbbd273f5e715b4cf50073eb4",
+  "extracted_text_sha256": "a039550af75913bcac2384f6ef5e228bdfeed338de41d9ba818e640b2665c65b",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "840f33a7163cfe6d835b3dadc01bc0f4579befae"
+}

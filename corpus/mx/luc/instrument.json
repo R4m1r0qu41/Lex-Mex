@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:luc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Uniones de Crédito",
+  "short_name": "LUC",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publication_date": "2008-08-20",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-13T19:39:47.941826Z",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Ley%20de%20Uniones%20de%20Cr%C3%A9dito.pdf",
+  "source_sha256": "27226943dfedfecf9d997d418972d0a5c1dbbf8dbbd273f5e715b4cf50073eb4",
+  "extracted_text_sha256": "a039550af75913bcac2384f6ef5e228bdfeed338de41d9ba818e640b2665c65b",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

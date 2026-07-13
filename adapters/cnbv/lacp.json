@@ -1,0 +1,30 @@
+{
+  "slug": "lacp",
+  "instrument_id": "urn:lex-mx:federal:statute:lacp",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley de Ahorro y Crédito Popular",
+  "short_name": "LACP",
+  "operational_source": "cnbv",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Ley%20de%20Ahorro%20y%20Cr%C3%A9dito%20Popular.pdf",
+  "reference_url": null,
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "publication_date": "2001-06-04",
+  "expected_min_articles": 232,
+  "expected_articles": 232,
+  "expected_transitories": 16,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-13T19:35:00Z"
+  },
+  "allow_article_gaps": true,
+  "issuing_authorities": [],
+  "formal_publication_urls": {},
+  "annex_pdf_urls": [],
+  "definition_layout_articles": [],
+  "tls_intermediate_ca_pems": [
+    "globalsign-rsa-ov-ssl-ca-2018.pem",
+    "godaddy-secure-ca-g2.pem"
+  ]
+}

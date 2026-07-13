@@ -1,0 +1,123 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrascap:article:2",
+    "fraction": "I",
+    "start_char": 51,
+    "end_char": 111,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-proteccion-al-ahorro-cooperativo",
+    "term": "Comité de Protección al Ahorro Cooperativo",
+    "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrascap:article:2",
+    "fraction": "II",
+    "start_char": 111,
+    "end_char": 350,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:term:comite-de-supervision-auxiliar",
+    "term": "Comité de Supervisión Auxiliar",
+    "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrascap:article:2",
+    "fraction": "III",
+    "start_char": 350,
+    "end_char": 544,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:term:comite-tecnico",
+    "term": "Comité Técnico",
+    "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrascap:article:2",
+    "fraction": "IV",
+    "start_char": 544,
+    "end_char": 633,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:term:confederacion",
+    "term": "Confederación",
+    "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrascap:article:2",
+    "fraction": "V",
+    "start_char": 633,
+    "end_char": 731,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:term:federaciones",
+    "term": "Federaciones",
+    "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrascap:article:2",
+    "fraction": "VI",
+    "start_char": 731,
+    "end_char": 851,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:term:fondo-de-proteccion",
+    "term": "Fondo de Protección",
+    "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrascap:article:2",
+    "fraction": "VII",
+    "start_char": 851,
+    "end_char": 969,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:term:nivel-de-capitalizacion",
+    "term": "Nivel de Capitalización",
+    "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrascap:article:2",
+    "fraction": "VIII",
+    "start_char": 969,
+    "end_char": 1319,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrascap:article:2",
+    "fraction": "IX",
+    "start_char": 1319,
+    "end_char": 1383,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:term:sociedad-o-sociedad-cooperativa-de-ahorro-y-prestamo",
+    "term": "Sociedad o Sociedad Cooperativa de Ahorro y Préstamo",
+    "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrascap:article:2",
+    "fraction": "X",
+    "start_char": 1383,
+    "end_char": 2101,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrascap:term:udi",
+    "term": "UDI",
+    "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrascap:article:2",
+    "fraction": "XII",
+    "start_char": 2101,
+    "end_char": 2541,
+    "basis": "express_definition"
+  }
+]

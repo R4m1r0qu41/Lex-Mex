@@ -1,0 +1,30 @@
+{
+  "slug": "lrascap",
+  "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo",
+  "short_name": "LRASCAP",
+  "operational_source": "cnbv",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Ley%20para%20Regular%20las%20Actividades%20de%20las%20Sociedades%20Cooperativas%20de%20Ahorro%20y%20Pr%C3%A9stamo.pdf",
+  "reference_url": null,
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "publication_date": "2009-08-13",
+  "expected_min_articles": 144,
+  "expected_articles": 144,
+  "expected_transitories": 15,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-13T19:45:00Z"
+  },
+  "allow_article_gaps": true,
+  "issuing_authorities": [],
+  "formal_publication_urls": {},
+  "annex_pdf_urls": [],
+  "definition_layout_articles": [],
+  "tls_intermediate_ca_pems": [
+    "globalsign-rsa-ov-ssl-ca-2018.pem",
+    "godaddy-secure-ca-g2.pem"
+  ]
+}

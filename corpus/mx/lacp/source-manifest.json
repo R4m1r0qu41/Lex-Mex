@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lacp",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "official_url": "https://www.cnbv.gob.mx/Normatividad/Ley%20de%20Ahorro%20y%20Cr%C3%A9dito%20Popular.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-07-13T19:28:13.214026Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1411178,
+  "etag": "\"{CC1DC213-BD9E-48C7-8AFE-3F59A0F51EA8},9\"",
+  "last_modified": "Mon, 29 Jun 2026 22:25:15 GMT",
+  "source_sha256": "807cd63f32fcf2cc8f3c7187c22a14b19952c403e3ac53c04873f8fc96d4e702",
+  "extracted_text_sha256": "71684b4b6b9cd90d126ff4bd56993a688405c5fb93d3d75febbd0846f44466a5",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "840f33a7163cfe6d835b3dadc01bc0f4579befae"
+}

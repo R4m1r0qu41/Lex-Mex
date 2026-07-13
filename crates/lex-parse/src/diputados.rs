@@ -470,6 +470,7 @@ impl ProvisionBuilder {
     }
 }
 
+#[allow(clippy::too_many_lines)]
 pub fn parse_diputados(
     raw: &str,
     options: &DiputadosOptions,
@@ -491,12 +492,16 @@ pub fn parse_diputados(
     let mut in_statute_transitories = false;
     let mut last_article_base: Option<u64> = None;
     let mut seen_ordinals: std::collections::HashSet<String> = std::collections::HashSet::new();
+    // Gate the transitory-section switch on a real article having been
+    // parsed already (like itf-dcg's `body_started`): an índice echo of
+    // "Artículos Transitorios" before article 1 is not the real section.
+    let mut body_started = false;
 
     for block in blocks {
         if is_stop_marker(&block, options) {
             break;
         }
-        if is_transitory_section_header(&block) {
+        if body_started && is_transitory_section_header(&block) {
             // A statute has a single transitory section; a second header
             // is a reform decree's, so its transitorios (repeating
             // PRIMERO, SEGUNDO, …) do not belong to the instrument.
@@ -576,6 +581,7 @@ pub fn parse_diputados(
                     }
                     last_article_base = base.or(last_article_base);
                     current = Some(ProvisionBuilder::article(number, body, heading.clone()));
+                    body_started = true;
                     continue;
                 }
             }
@@ -603,14 +609,56 @@ pub fn parse_diputados(
 /// header note ("Nueva Ley publicada en el Diario Oficial de la Federación
 /// el 16 de abril de 2025"). Deterministic: first match wins, and the
 /// header note always precedes any reform-decree publication line.
+///
+/// The phrase tolerates a `del` contraction before the day (some headers
+/// read "...de la Federación **del** 4 de junio de 2001" instead of "el 4
+/// de..."), and whitespace between words is matched loosely (`\s+`) rather
+/// than a literal single space, because the phrase's own wrap point can
+/// fall anywhere — including mid-phrase ("...de la\nFederación...") — once
+/// pdftotext reflows a long header paragraph. Without both, the header
+/// note fails to match at all and the scan silently falls through to the
+/// first reform decree's own publication line instead (the LACP failure:
+/// its header uses "del" and wraps before "Federación", so the derived
+/// date was a 2005 amendment's, not the law's 2001 original).
 #[must_use]
 pub fn extract_dof_publication(raw: &str) -> Option<NaiveDate> {
     let note = Regex::new(
-        r"(?i)publicad[oa] en el Diario Oficial de la Federación el (\d{1,2})[oº]? de ([a-zá-úñ]+) de (\d{4})",
+        r"(?i)publicad[oa]\s+en\s+el\s+Diario\s+Oficial\s+de\s+la\s+Federaci[oó]n\s+(?:el|del)\s+(\d{1,2})[oº]?\s+de\s+([a-zá-úñ]+)\s+de\s+(\d{4})",
     )
     .ok()?;
     let captures = note.captures(raw)?;
     spanish_date(&captures[1], &captures[2].to_lowercase(), &captures[3])
+}
+
+#[cfg(test)]
+mod dof_publication_tests {
+    use chrono::NaiveDate;
+
+    use super::extract_dof_publication;
+
+    #[test]
+    fn matches_el_form_on_one_line() {
+        let raw = "Nueva Ley publicada en el Diario Oficial de la Federación \
+                   el 16 de abril de 2025.";
+        assert_eq!(
+            extract_dof_publication(raw),
+            NaiveDate::from_ymd_opt(2025, 4, 16)
+        );
+    }
+
+    #[test]
+    fn matches_del_form_wrapped_across_a_line_break() {
+        // The LACP header shape: "del" instead of "el" before the day, and
+        // the phrase itself wraps mid-way ("de la\nFederación").
+        let raw = "Publicada en el Diario Oficial de la\n                     \
+                   Federación del 4 de junio de 2001.\n                     \
+                   Actualizada con las reformas publicadas\n                     \
+                   en el propio Diario el 27 de enero de 2003.";
+        assert_eq!(
+            extract_dof_publication(raw),
+            NaiveDate::from_ymd_opt(2001, 6, 4)
+        );
+    }
 }
 
 struct ReformEvidenceBuilder {
@@ -801,5 +849,62 @@ mod tests {
             document.reform_evidence[0].provision_id,
             "urn:lex-mx:federal:code:sample:amendment:2020-07-01:transitory:vigesimo"
         );
+    }
+
+    #[test]
+    fn preamble_indice_transitorios_echo_is_skipped() {
+        // The índice (table of contents) some consolidated Diputados-style
+        // documents print before the first article can list "Artículos
+        // Transitorios" as its own isolated line (the LACP failure: a CNBV-
+        // hosted copy of the statute whose índice echoes this entry). That
+        // echo must not flip the parser into the transitory section before
+        // any real article exists — otherwise article 1 itself, and every
+        // article after it, gets swallowed as a "transitorio numbered as
+        // an article" and the instrument ends up with zero articles.
+        let raw = "LEY DE MUESTRA\n\
+                   \n\
+                   INDICE\n\
+                   \n\
+                   TITULO PRIMERO\n\
+                   Disposiciones Generales\n\
+                   \n\
+                   Capítulo Único\n\
+                   \n\
+                   Artículos Transitorios\n\
+                   \n\
+                   Exposición de Motivos\n\
+                   \n\
+                   LEY DE MUESTRA\n\
+                   \n\
+                   TITULO PRIMERO\n\
+                   Capítulo Único\n\
+                   \n\
+                   Artículo 1o.- Objeto real de la ley.\n\
+                   \n\
+                   Artículo 2o.- Segundo artículo real.\n\
+                   \n\
+                   TRANSITORIOS\n\
+                   \n\
+                   PRIMERO.- Entrará en vigor al día siguiente de su publicación.\n";
+        let document = parse_diputados(
+            raw,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+            NaiveDate::from_ymd_opt(2005, 2, 23).expect("valid date"),
+        )
+        .expect("índice echo is skipped, body parses");
+        let articles: Vec<&str> = document
+            .provisions
+            .iter()
+            .filter(|provision| provision.provision_type == ProvisionType::Article)
+            .map(|provision| provision.number.as_str())
+            .collect();
+        assert_eq!(articles, ["1o", "2o"]);
+        let transitories: Vec<&str> = document
+            .provisions
+            .iter()
+            .filter(|provision| provision.provision_type == ProvisionType::Transitory)
+            .map(|provision| provision.number.as_str())
+            .collect();
+        assert_eq!(transitories, ["PRIMERO"]);
     }
 }

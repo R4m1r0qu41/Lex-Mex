@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgoaac",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Organizaciones y Actividades Auxiliares del Crédito",
+  "short_name": "LGOAAC",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publication_date": "1985-01-14",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-13T19:39:45.438103Z",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Ley%20General%20de%20Organizaciones%20y%20Actividades%20Auxiliares%20del%20Cr%C3%A9dito.pdf",
+  "source_sha256": "2d317ada240faca996613696ca67e86b0ccecd3fad04d452a63d180508c02552",
+  "extracted_text_sha256": "61b3c60aaa3f5f43391ce80e1dc2519c496aea744d3e839e932903bee9a81be5",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

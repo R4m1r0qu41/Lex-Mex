@@ -1,0 +1,90 @@
+{
+  "schema_version": "0.1.0",
+  "prompt_version": "temporal-v2",
+  "instrument_id": "urn:lex-mx:federal:statute:lacp",
+  "publication_date": "2001-06-04",
+  "latest_reform_date": null,
+  "relevant_provisions": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:primero",
+      "label": "PRIMERO",
+      "text": "El artículo Primero del presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción de lo señalado en los artículos Transitorios siguientes.\n\nEl artículo Segundo del presente Decreto entrará en vigor a los dos años de su publicación en el Diario Oficial de la Federación.\n\nEl artículo Tercero del presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, con excepción del artículo 26 contenido en el mismo, el cual entrará en vigor a los dos años de su publicación en el Diario Oficial de la Federación."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:segundo",
+      "label": "SEGUNDO",
+      "text": "Las Sociedades de Ahorro y Préstamo, las Uniones de Crédito y las Sociedades Cooperativas que tengan intención de sujetarse a los términos establecidos en la Ley de Ahorro y Crédito Popular, deberán registrarse ante la Comisión Nacional Bancaria y de Valores en un término no mayor a seis meses contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación, manifestando al efecto su nombre, denominación, domicilio, número de socios y demás datos que sobre su actividad solicite dicho organismo."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:tercero",
+      "label": "TERCERO",
+      "text": "Las Sociedades de Ahorro y Préstamo, las Uniones de Crédito que capten depósitos de ahorro, así como las Sociedades Cooperativas de Ahorro y Préstamo y aquéllas que cuenten con secciones de ahorro y préstamo, constituidas con anterioridad al inicio de la vigencia de la Ley de Ahorro y Crédito Popular, contarán con un plazo de dos años a partir de la fecha que establece el primer párrafo del artículo PRIMERO Transitorio anterior para solicitar de la Comisión Nacional Bancaria y de Valores la autorización para operar como Entidad, sujetándose a lo dispuesto por el artículo OCTAVO Transitorio y debiendo obtener el dictamen favorable de alguna Federación, con arreglo a lo dispuesto por la Ley de Ahorro y Crédito Popular.\n\nConcluido el plazo anterior, las sociedades y las Uniones de Crédito que no hubieren obtenido la autorización referida deberán abstenerse de captar recursos, en caso contrario se ubicarán en los supuestos de infracción previstos por la Ley de Ahorro y Crédito Popular y por las disposiciones que resulten aplicables."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:cuarto",
+      "label": "CUARTO",
+      "text": "Las sociedades de ahorro y préstamo y las Uniones de Crédito que capten depósitos de ahorro continuarán sujetas a la supervisión y vigilancia de la Comisión Nacional Bancaria y de Valores, en términos de lo establecido en la Ley General de Organizaciones y Actividades Auxiliares del Crédito, hasta en tanto no se sujeten a lo señalado en el artículo TERCERO Transitorio."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:quinto",
+      "label": "QUINTO",
+      "text": "Los Organismos de Integración que sean autorizados conforme a la Ley de Ahorro y Crédito Popular dentro del plazo de un año a partir de la entrada en vigor de la misma, contarán con un plazo de dos años a partir de su autorización, para cumplir con el número mínimo de diez Entidades y cinco Federaciones afiliadas, en términos del artículo 53 de la misma ley, según se trate.\n\n(20)"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:sexto",
+      "label": "SEXTO",
+      "text": "Derogado.\n\n(3)"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:septimo",
+      "label": "SEPTIMO",
+      "text": "Derogado."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:octavo",
+      "label": "OCTAVO",
+      "text": "Para efectos de la fracción I del artículo 53 de la misma Ley, las Federaciones que soliciten (6)\n\nsu autorización dentro de un plazo de cuatro años contados a partir de la entrada en vigor de la Ley, deberán presentar los documentos en que, a juicio de la Comisión Nacional Bancaria y de Valores, se manifieste la intención de cuando menos ocho sociedades para afiliarse a dicha Federación, en el entendido de que al menos dos de las sociedades deberán cumplir los requisitos del artículo 10 de esta Ley, con excepción de las fracciones VIII y IX.\n\nLas Federaciones que obtengan la autorización de la Comisión en términos de este artículo, contarán (7)\n\ncon el plazo a que se refiere el cuarto párrafo de la fracción I del artículo 53 de esta Ley, para reunir el número mínimo de Entidades afiliadas."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:noveno",
+      "label": "NOVENO",
+      "text": "A partir de la fecha de inicio de vigencia establecida en el primer párrafo del artículo PRIMERO Transitorio, las Federaciones autorizadas administrarán de forma provisional los Fondos de Protección, hasta que dichas Federaciones formen parte de alguna Confederación autorizada o convengan con alguna de ellas el traspaso de los recursos que integran dichos fondos en los términos del Capítulo IV del Título Tercero de la Ley de Ahorro y Crédito Popular.\n\nConcluido un plazo de dos años a partir del inicio de vigencia de la Ley de Ahorro y Crédito Popular, las Federaciones que no se encuentren en los supuestos contemplados en el párrafo anterior, podrán solicitar a la Comisión Nacional Bancaria y de Valores una prórroga que no podrá exceder de dos años para continuar administrando el Fondo de Protección de sus Entidades, de lo contrario se ubicarán en la causal de revocación prevista por la fracción IX del artículo 60 de la Ley de Ahorro y Crédito Popular. En este último caso, la Comisión Nacional Bancaria y de Valores, con arreglo a las disposiciones de carácter general que emita al efecto, determinará el destino de los recursos que integran los Fondos de Protección respectivos.\n\n(20)"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:decimo",
+      "label": "DECIMO",
+      "text": "Derogado. (20)"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:decimo-primero",
+      "label": "DECIMO PRIMERO",
+      "text": "Derogado."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:decimo-segundo",
+      "label": "DECIMO SEGUNDO",
+      "text": "El Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, tomará las medidas pertinentes y proveerá lo necesario en términos de las disposiciones aplicables, para que la Comisión Nacional Bancaria y de Valores y la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros estén en posibilidad de cumplir con las funciones conferidas en la Ley de Ahorro y Crédito Popular."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:decimo-tercero",
+      "label": "DECIMO TERCERO",
+      "text": "Las solicitudes de autorización presentadas a la Secretaría de Hacienda y Crédito Público para constituir y operar Sociedades de Ahorro y Préstamo, y que no hayan sido resueltas con anterioridad a la entrada en vigor de la Ley de Ahorro y Crédito Popular, se entenderán resueltas en sentido negativo, por lo que los interesados correspondientes podrán iniciar el procedimiento para obtener la autorización a que se refiere el artículo 9º. de la misma Ley.\n\nLas solicitudes a que hace referencia el párrafo anterior serán devueltas a los interesados por la Secretaría de Hacienda y Crédito Público, dentro de un plazo que no excederá de cuarenta y cinco días naturales contados a partir de la publicación de este Decreto en el Diario Oficial de la Federación."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:decimo-cuarto",
+      "label": "DECIMO CUARTO",
+      "text": "Durante los dos años siguientes a la entrada en vigor de la Ley de Ahorro y Crédito Popular, la Comisión Nacional Bancaria y de Valores contará con un plazo de ciento ochenta días naturales para emitir la resolución a que se refiere el artículo 9° de la Ley citada, respecto de las solicitudes de autorización para operar como Entidad que le sean remitidas por las Federaciones."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:decimo-quinto",
+      "label": "DECIMO QUINTO",
+      "text": "La Comisión Nacional Bancaria y de Valores contará con un plazo de 180 días naturales contados a partir de la publicación de este Decreto para emitir todas las reglas y disposiciones de carácter general que deban ser formuladas según se señala en la Ley de Ahorro y Crédito Popular."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lacp:transitory:decimo-sexto",
+      "label": "DECIMO SEXTO",
+      "text": "Se derogan todas las disposiciones que se opongan a esta Ley.\n\nMéxico, D.F., a 30 de abril de 2001.- Dip. Ricardo García Cervantes, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Manuel Medellín Milán, Secretario.- Sen. Yolanda González Hernández, Secretaria.- Rúbricas.\n\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta y un días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica."
+    }
+  ],
+  "required_output_schema": "schemas/temporal-model-output-v2.schema.json"
+}

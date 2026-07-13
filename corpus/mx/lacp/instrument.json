@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lacp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley de Ahorro y Crédito Popular",
+  "short_name": "LACP",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publication_date": "2001-06-04",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-13T19:28:13.214026Z",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Ley%20de%20Ahorro%20y%20Cr%C3%A9dito%20Popular.pdf",
+  "source_sha256": "807cd63f32fcf2cc8f3c7187c22a14b19952c403e3ac53c04873f8fc96d4e702",
+  "extracted_text_sha256": "71684b4b6b9cd90d126ff4bd56993a688405c5fb93d3d75febbd0846f44466a5",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

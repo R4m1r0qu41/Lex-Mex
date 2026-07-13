@@ -1,0 +1,68 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:term:comision",
+    "term": "Comisión",
+    "instrument_id": "urn:lex-mx:federal:statute:luc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:luc:article:3",
+    "fraction": "I",
+    "start_char": 49,
+    "end_char": 109,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:term:control",
+    "term": "Control",
+    "instrument_id": "urn:lex-mx:federal:statute:luc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:luc:article:3",
+    "fraction": "II",
+    "start_char": 109,
+    "end_char": 598,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:term:grupo-empresarial",
+    "term": "Grupo empresarial",
+    "instrument_id": "urn:lex-mx:federal:statute:luc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:luc:article:3",
+    "fraction": "III",
+    "start_char": 598,
+    "end_char": 964,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:term:grupo-de-personas",
+    "term": "Grupo de personas",
+    "instrument_id": "urn:lex-mx:federal:statute:luc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:luc:article:3",
+    "fraction": "IV",
+    "start_char": 964,
+    "end_char": 1479,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:luc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:luc:article:3",
+    "fraction": "V",
+    "start_char": 1479,
+    "end_char": 1544,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:term:union-o-uniones",
+    "term": "Unión o uniones",
+    "instrument_id": "urn:lex-mx:federal:statute:luc",
+    "defining_provision_id": "urn:lex-mx:federal:statute:luc:article:3",
+    "fraction": "VI",
+    "start_char": 1544,
+    "end_char": 1590,
+    "basis": "express_definition"
+  }
+]

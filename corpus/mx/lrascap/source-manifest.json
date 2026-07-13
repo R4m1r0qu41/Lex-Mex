@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrascap",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "official_url": "https://www.cnbv.gob.mx/Normatividad/Ley%20para%20Regular%20las%20Actividades%20de%20las%20Sociedades%20Cooperativas%20de%20Ahorro%20y%20Pr%C3%A9stamo.pdf",
+  "reference_url": null,
+  "retrieved_at": "2026-07-13T19:39:42.741600Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 966506,
+  "etag": "\"{B08F72E2-5810-4551-AED1-075A33798D76},9\"",
+  "last_modified": "Mon, 29 Jun 2026 22:35:04 GMT",
+  "source_sha256": "d6b8f071f8e4840313f39e81e9533636aa575dbc3a4036ab781664f03edb3885",
+  "extracted_text_sha256": "4fd7172ebe4a0a96e784a8c29d5361b9e34ac416b61a487dc34c83759757598c",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "840f33a7163cfe6d835b3dadc01bc0f4579befae"
+}
