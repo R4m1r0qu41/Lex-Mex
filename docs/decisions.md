@@ -1,5 +1,61 @@
 # Architecture decisions
 
+## 2026-07-12 — CNBV amendment resolution, in-force status, corpus currency
+
+Ratified with JRH after the CNBV DCG batch surfaced how the `(N)` markers
+actually work. Full spec: `docs/cnbv-consolidated-disposiciones.md`. This
+extends the earlier "amendment markers on reform transitorios" entry below;
+it does not contradict it.
+
+- **Markers attach to *any* structural node**, not only articles/transitorios
+  — the denominación, a TÍTULO, a párrafo, a fracción. OAAC's compiled title
+  opens with `(18)`. The `itf-dcg` parser's `discard` errors on
+  cue/cub/cucb/fi were the parser being **provision-centric**, not the
+  documents being corrupt: a marker in a CONSIDERANDO or attribution block is
+  valid. Fix is attach-to-nearest-node, keeping the true error only for a body
+  marker with no legend entry.
+- **REFERENCIAS is the validation oracle.** Every body marker `N` must resolve
+  to a `REFERENCIAS[N]` legend entry (`{ acción, fecha_DOF }`); an unresolved
+  `N` is a hard error (anti-silent-loss), an orphaned legend entry a warning.
+  The body-marker set ⊆ legend key set is the invariant that verifies the
+  socap/oaac region-detection fix.
+- **Keep the marker → REFERENCIAS link; defer the marker → transitorio link.**
+  The authoritative, deterministic layer (integer key into a numbered legend)
+  is built and kept, so a reader sees what changed, when, and by which RM.
+  This refines the prior "keep the mention, no link" to "keep the *reference*
+  link." The modifying resolutions (RMs) are **not** corpus instruments — only
+  the final compiled text is; ingesting RM texts would balloon the corpus
+  (the CUB alone has hundreds of RMs). Wiring the transitorio link is a
+  future option, not a current requirement.
+- **DOF date is not a unique RM key.** Two RMs can share a DOF date (CUIFE
+  *11a* and *12a* both 08/01/2015) — an outlier, but the model accounts for
+  it: if the transitorio layer is ever wired in, a colliding date yields
+  attach-all-candidates + warning, never a machine-picked ordinal. Future aid:
+  a snapshot of the CNBV Normatividad "Resoluciones Modificatorias" listing
+  (carries ordinals + dates) disambiguates, and doubles as an update signal.
+- **In-force status: live vs. staged (design proposal, generalizes to all
+  instruments).** The useful signal is whether a provision is operative today.
+  Per-RM TRANSITORIOS blocks (already captured as `TemporalEvidence`) state
+  entry-into-force: default next-day, but OAAC stages provisions into 2027,
+  and deadlines get extended. Proposed statuses `live` / `staged` /
+  `staged_extended` / `unknown`, likely a **computed overlay** on `Effective`
+  (status = what the law says; liveness = whether *today* is past the
+  effective date) so the corpus stays date-stable. Touches `TemporalStatus` /
+  effect categories → schema-boundary path; shape awaits JRH sign-off.
+- **Corpus currency (new requirement).** The CNBV refreshes compiled PDFs on
+  new RMs, with the page lagging days (ITF-DCG-2018 refreshed a Thursday,
+  reflected later). A scheduled mechanism must re-acquire source hashes,
+  snapshot the RM listing, cross-check the latest REFERENCIAS date, and emit a
+  currency report to review — never auto-committing changed law. Subsumes the
+  ITF-DCG-2018 reform-re-ingest TODO as its first flagged case.
+- **Definitional remittance deferred to the cross-instrument pass.** A bare
+  glossary remittance ("Valores: a los considerados como tales por la Ley del
+  Mercado de Valores") resolves transitively to the target instrument's
+  glossary entry (LMV art. 2 fr. XXIV) by **lemma-join** — deterministic only
+  once LMV is in the corpus and the headword maps 1:1. Runs once after full
+  federal ingestion (near complete), then incrementally. Not built in the DCG
+  parser.
+
 ## 2026-07-12 — Amendment markers on CNBV reform transitorios
 
 CNBV consolidated disposiciones (DCGs) carry numbered `(N)` superscript
