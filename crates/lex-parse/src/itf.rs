@@ -852,7 +852,12 @@ mod tests {
             .map(|item| item.number.as_str())
             .collect();
         assert_eq!(numbers, ["1", "2", "15 Bis"]);
-        assert!(document.provisions.iter().any(|item| item.id.ends_with(":article:1")));
+        assert!(
+            document
+                .provisions
+                .iter()
+                .any(|item| item.id.ends_with(":article:1"))
+        );
     }
 
     #[test]
@@ -888,7 +893,10 @@ mod tests {
             .filter(|item| item.provision_type == ProvisionType::Article)
             .collect();
         assert_eq!(
-            articles.iter().map(|a| a.number.as_str()).collect::<Vec<_>>(),
+            articles
+                .iter()
+                .map(|a| a.number.as_str())
+                .collect::<Vec<_>>(),
             ["1", "2"]
         );
         // The índice (18)/(9) markers did not land on article 1, and the

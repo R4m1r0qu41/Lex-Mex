@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfjs",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFJS.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFJS.pdf",
+  "retrieved_at": "2026-07-13T19:03:03.047335Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 574197,
+  "etag": "\"8c2f5-610bffdbbb880\"",
+  "last_modified": "Wed, 07 Feb 2024 00:44:02 GMT",
+  "source_sha256": "694325ff5d428da51b8f87c5939c58b1e2e8590bd86f13ade6cd284c932cdfc3",
+  "extracted_text_sha256": "6754aa6c34ec298200d10701890e606f883d6fa563632ddc6c089f06a285ad81",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "92774db405988a464bc2fd74c77655ca8aa8d080"
+}
