@@ -6,7 +6,7 @@
   "publisher": "Cámara de Diputados del H. Congreso de la Unión",
   "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf",
   "reference_url": null,
-  "retrieved_at": "2026-07-12T06:57:00.167166Z",
+  "retrieved_at": "2026-07-13T22:47:17.196487Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "content_length": 1205962,
@@ -17,5 +17,5 @@
   "extraction_tool": "pdftotext version 26.06.0",
   "parser_version": "0.1.0",
   "schema_version_used": "0.1.0",
-  "resulting_git_commit": "69f441abd759f49f5bff9bc2e81716b226492c76"
+  "resulting_git_commit": "a0f4d62d06f71717b2f6e7b73cdbbeb54a7a7ccc"
 }

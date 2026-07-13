@@ -110,10 +110,24 @@ impl ArticleLabel {
 }
 
 fn letter_rank(letter: char) -> u8 {
+    let upper = letter.to_uppercase().next().unwrap_or(letter);
     SUFFIX_LETTERS
         .chars()
-        .position(|candidate| candidate == letter)
+        .position(|candidate| candidate == upper)
         .map_or(u8::MAX, |index| u8::try_from(index + 1).unwrap_or(u8::MAX))
+}
+
+/// True when `character` is a valid single-letter article suffix,
+/// matched case-insensitively against [`SUFFIX_LETTERS`]. Most statutes
+/// write the suffix uppercase (`15-D`), but LGTOC's Capítulo V Bis
+/// (`Artículo 228 a.-` … `228 v.-`, DOF 31-12-1946) uses lowercase
+/// throughout; both are the same grammar position, just cased
+/// differently by the drafter.
+#[must_use]
+pub(crate) fn is_suffix_letter(character: char) -> bool {
+    SUFFIX_LETTERS
+        .chars()
+        .any(|candidate| candidate.to_lowercase().eq(character.to_lowercase()))
 }
 
 fn strip_accents(value: &str) -> String {
@@ -357,7 +371,7 @@ fn parse_component(cursor: &mut Cursor) -> Option<Component> {
         cursor.eat_inline_space();
         match cursor.peek() {
             Some(candidate)
-                if SUFFIX_LETTERS.contains(candidate)
+                if is_suffix_letter(candidate)
                     && cursor
                         .rest()
                         .chars()
@@ -490,6 +504,21 @@ mod tests {
         assert_eq!(letter.slug(), "32-a");
         assert_eq!(full("32-B Bis").slug(), "32-b-bis");
         assert_eq!(full("15-D").slug(), "15-d");
+    }
+
+    #[test]
+    fn letter_suffix_is_case_insensitive() {
+        // LGTOC's Capítulo V Bis (`Artículo 228 a.-` … `228 v.-`, DOF
+        // 31-12-1946) writes its letter suffix lowercase; the diputados
+        // parser normalizes the heading to a hyphenated `228-a` form, so
+        // the shared grammar must parse that hyphenated lowercase form the
+        // same as an uppercase one — this is what `validate_article_order_
+        // by_label` re-parses to check ordering.
+        assert_eq!(full("228-a").slug(), "228-a");
+        assert_eq!(full("228-a").sort_key(), full("228-A").sort_key());
+        assert!(full("228").sort_key() < full("228-a").sort_key());
+        assert!(full("228-a").sort_key() < full("228-b").sort_key());
+        assert!(full("228-b").sort_key() < full("229").sort_key());
     }
 
     #[test]

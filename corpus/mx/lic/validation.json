@@ -1,9 +1,16 @@
 {
   "schema_version": "0.1.0",
   "instrument_id": "urn:lex-mx:federal:statute:lic",
-  "valid": true,
+  "valid": false,
   "article_count": 489,
   "transitory_count": 19,
-  "reference_count": 1049,
-  "issues": []
+  "reference_count": 1106,
+  "issues": [
+    {
+      "severity": "error",
+      "code": "unresolved_internal_reference",
+      "message": "cross-instrument reference target does not exist: urn:lex-mx:federal:statute:lraf:article:28-bis",
+      "provision_id": "urn:lex-mx:federal:statute:lic:article:187"
+    }
+  ]
 }

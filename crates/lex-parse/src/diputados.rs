@@ -145,13 +145,14 @@ fn parse_transitory_start<'a>(
 
 /// A single-letter article suffix in a heading that the base-number
 /// grammar does not fold in itself, either space-separated
-/// (`Artículo 2448 A.-`) or written past the separator after a low ordinal
-/// (`Artículo 4o.-A.-`). The letter must sit immediately before a body
-/// separator (`.`/`-`), so an ordinary body — `4o.- A los efectos…`
-/// (space before the letter) or `16. Se entenderá…` (letter starts a
-/// word) — is never mistaken for a suffix. Returns the suffix letter and
-/// the remainder at the body separator. The dash form (`2448-A`) is
-/// handled by the grammar and never reaches here.
+/// (`Artículo 2448 A.-`, or lowercase as LGTOC's Capítulo V Bis writes it,
+/// `Artículo 228 a.-` … `228 v.-`) or written past the separator after a
+/// low ordinal (`Artículo 4o.-A.-`). The letter must sit immediately
+/// before a body separator (`.`/`-`), so an ordinary body — `4o.- A los
+/// efectos…` (space before the letter) or `16. Se entenderá…` (letter
+/// starts a word) — is never mistaken for a suffix. Returns the suffix
+/// letter and the remainder at the body separator. The dash form
+/// (`2448-A`) is handled by the grammar and never reaches here.
 fn heading_letter_suffix(after: &str) -> Option<(char, &str)> {
     let body = if let Some(rest) = after.strip_prefix(".-").or_else(|| after.strip_prefix('.')) {
         rest
@@ -162,7 +163,7 @@ fn heading_letter_suffix(after: &str) -> Option<(char, &str)> {
     };
     let mut chars = body.chars();
     let letter = chars.next()?;
-    if !letter.is_ascii_uppercase() || !matches!(chars.next(), Some('.' | '-')) {
+    if !labels::is_suffix_letter(letter) || !matches!(chars.next(), Some('.' | '-')) {
         return None;
     }
     Some((letter, &body[letter.len_utf8()..]))
@@ -791,11 +792,14 @@ mod tests {
             .map(|provision| provision.number.as_str())
             .collect();
         // Letter suffixes, ordinal marks, ARTICULO capitalization,
-        // period-only separators, and the `2o.-A` past-separator letter
-        // suffix all survive as written.
+        // period-only separators, the `2o.-A` past-separator letter
+        // suffix, and LGTOC Capítulo V Bis's lowercase space-separated
+        // letter suffix (`228 a.-` … `228 v.-`) all survive as written.
         assert_eq!(
             articles,
-            ["1o", "2o", "2o-A", "15", "15-A", "15-B Bis", "16"]
+            [
+                "1o", "2o", "2o-A", "15", "15-A", "15-B Bis", "16", "16-a", "16-b"
+            ]
         );
         let letter_suffix = document
             .provisions
@@ -805,6 +809,28 @@ mod tests {
         assert_eq!(
             letter_suffix.id,
             "urn:lex-mx:federal:code:sample:article:15-a"
+        );
+        // LGTOC's lowercase letter suffix must be recognized as its own
+        // article (not folded into the base article's body), preserve its
+        // written case in `number`, and lowercase-fold to the same id
+        // shape as an uppercase suffix.
+        let lowercase_letter_suffix = document
+            .provisions
+            .iter()
+            .find(|provision| provision.number == "16-a")
+            .expect("16-a present");
+        assert_eq!(
+            lowercase_letter_suffix.id,
+            "urn:lex-mx:federal:code:sample:article:16-a"
+        );
+        let lowercase_letter_suffix_b = document
+            .provisions
+            .iter()
+            .find(|provision| provision.number == "16-b")
+            .expect("16-b present");
+        assert_eq!(
+            lowercase_letter_suffix_b.id,
+            "urn:lex-mx:federal:code:sample:article:16-b"
         );
         // Ordinal marks are dropped from the canonical id so a citation of
         // bare "2" resolves to article "2o"; the `2o.-A` heading yields a
