@@ -1,0 +1,550 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+  "valid": true,
+  "article_count": 232,
+  "transitory_count": 4,
+  "reference_count": 151,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no article-count baseline frozen; parse found 232 articles",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no transitory-count baseline frozen; parse found 4 transitories",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:14-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-1"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-2"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-3"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-4"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-5"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-6"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-7"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-8"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-9"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-10"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-11"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-12"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-13"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:25-bis-14"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis-1"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:27-bis-2"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:34-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:34-bis-1"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:34-bis-2"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:34-bis-3"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:34-bis-4"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:34-bis-5"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:62-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis-1"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis-2"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis-3"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis-4"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:63-bis-5"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-1"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-2"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-3"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-4"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-5"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-6"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-7"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-8"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-9"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-10"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-11"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-12"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-13"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-14"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-15"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-16"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-17"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-18"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-19"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-20"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-21"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-22"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-23"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-24"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-25"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-26"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-27"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-28"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-29"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-30"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-31"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-32"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-33"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-34"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-35"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-36"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-37"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-38"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-39"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-40"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-41"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-42"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-43"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-44"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-45"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-46"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-47"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-48"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-49"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:64-bis-50"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:66-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:66-bis-1"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:108-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:108-bis-1"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:article:108-bis-2"
+    }
+  ]
+}

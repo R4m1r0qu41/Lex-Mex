@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Disposiciones de carácter general aplicables a las instituciones de crédito",
+  "short_name": "DCG-CUB-2005",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publication_date": "2005-12-02",
+  "latest_reform_date": "2026-07-03",
+  "retrieved_at": "2026-07-13T01:27:35.052985Z",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf",
+  "source_sha256": "f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b",
+  "extracted_text_sha256": "6a5d6cce7612912400ba82f64b8c1909eaf88f1b89186688593c7a07ae8b416f",
+  "parser_version": "0.1.0",
+  "status": "in_force",
+  "issuing_authorities": [
+    "Comisión Nacional Bancaria y de Valores"
+  ]
+}

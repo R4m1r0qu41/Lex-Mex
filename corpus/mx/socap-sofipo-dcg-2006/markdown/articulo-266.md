@@ -1,0 +1,29 @@
+---
+id: urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:266
+instrument_id: urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006
+instrument: DCG-SOCAP-SOFIPO-2006
+name: "Disposiciones de carácter general aplicables a las entidades de ahorro y crédito popular, organismos de integración, sociedades financieras comunitarias y organismos de integración financiera rural"
+provision_type: article
+number: "266"
+aliases: ["DCG-SOCAP-SOFIPO-2006 — Artículo 266"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+amendment_marks: [1,65]
+source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20entidades%20de%20ahorro%20y%20cr%C3%A9dito%20popular%2C%20organismos%20de%20integraci%C3%B3n%2C%20sociedades%20financieras%20comunita.pdf
+source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
+---
+
+> Título QUINTO · Capítulo I
+
+# Artículo 266
+
+En adición a lo señalado en los artículos 63 y 70 de la Ley, así como en los estatutos sociales de la Federación o Confederación, el Contralor Normativo tendrá, según corresponda, las atribuciones siguientes:
+
+I. Revisar el funcionamiento de la Sociedad Financiera Popular, incluyendo el desempeño de directivos y funcionarios.
+
+II. Vigilar que los libros de actas de la asamblea general de afiliadas, Consejo de Administración, de las sesiones de que se trate, se lleven adecuadamente y conforme a las políticas, en su caso, aprobadas para ello.
+
+III. Contar con voto de calidad en su carácter de presidente del Consejo de Vigilancia;
+
+IV. Supervisar la situación financiera y administrativa de la Federación o Confederación, y V. Convocar a asamblea general de afiliadas.

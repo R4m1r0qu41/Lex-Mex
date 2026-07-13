@@ -1,0 +1,2729 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:1055-1063",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1055,
+    "end_char": 1063
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1:term-usage:6286-6294",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 6286,
+    "end_char": 6294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis:term-usage:2450-2458",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2450,
+    "end_char": 2458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis:term-usage:5035-5043",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 5035,
+    "end_char": 5043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis:term-usage:5752-5760",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 5752,
+    "end_char": 5760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis:term-usage:5789-5799",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisiones",
+    "start_char": 5789,
+    "end_char": 5799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis:term-usage:6183-6193",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisiones",
+    "start_char": 6183,
+    "end_char": 6193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis:term-usage:6516-6524",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:1-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 6516,
+    "end_char": 6524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2:term-usage:356-364",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 356,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2:term-usage:4223-4231",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4223,
+    "end_char": 4231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2:term-usage:4614-4622",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4614,
+    "end_char": 4622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2:term-usage:4718-4726",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4718,
+    "end_char": 4726
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2-bis:term-usage:325-333",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:2-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 325,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:3:term-usage:904-912",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 904,
+    "end_char": 912
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11:term-usage:349-357",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 349,
+    "end_char": 357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11:term-usage:1518-1526",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1518,
+    "end_char": 1526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11:term-usage:2194-2202",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2194,
+    "end_char": 2202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11:term-usage:2561-2569",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2561,
+    "end_char": 2569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11:term-usage:2797-2805",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2797,
+    "end_char": 2805
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11:term-usage:3354-3362",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3354,
+    "end_char": 3362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:12-bis:term-usage:115-123",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:12-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 115,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:12-bis-1:term-usage:63-71",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:12-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 63,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis:term-usage:1591-1599",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1591,
+    "end_char": 1599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis-1:term-usage:223-231",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:15-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 223,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:21:term-usage:340-348",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 340,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27:term-usage:3726-3734",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3726,
+    "end_char": 3734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:33:term-usage:999-1007",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 999,
+    "end_char": 1007
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:39:term-usage:1053-1061",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1053,
+    "end_char": 1061
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:47:term-usage:794-813",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:formador-de-mercado",
+    "span": "Formador de mercado",
+    "start_char": 794,
+    "end_char": 813
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:49:term-usage:475-483",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 475,
+    "end_char": 483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:53:term-usage:482-490",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 482,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:57:term-usage:309-317",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 309,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:59:term-usage:3793-3801",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3793,
+    "end_char": 3801
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63:term-usage:3441-3449",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3441,
+    "end_char": 3449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63:term-usage:3522-3530",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3522,
+    "end_char": 3530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70:term-usage:129-148",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:formador-de-mercado",
+    "span": "Formador de mercado",
+    "start_char": 129,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70:term-usage:289-308",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:formador-de-mercado",
+    "span": "Formador de mercado",
+    "start_char": 289,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70:term-usage:887-906",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:formador-de-mercado",
+    "span": "Formador de mercado",
+    "start_char": 887,
+    "end_char": 906
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:87:term-usage:3824-3832",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3824,
+    "end_char": 3832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:87:term-usage:4748-4756",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4748,
+    "end_char": 4756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:88:term-usage:666-674",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 666,
+    "end_char": 674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:107:term-usage:2149-2168",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comite-de-auditoria",
+    "span": "Comité de auditoría",
+    "start_char": 2149,
+    "end_char": 2168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:115:term-usage:171-179",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:115",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 171,
+    "end_char": 179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis:term-usage:993-1001",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 993,
+    "end_char": 1001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis:term-usage:2871-2879",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2871,
+    "end_char": 2879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-3:term-usage:4518-4526",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-3",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4518,
+    "end_char": 4526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-3:term-usage:4662-4670",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-3",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4662,
+    "end_char": 4670
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-4:term-usage:1487-1495",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1487,
+    "end_char": 1495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-8:term-usage:2142-2150",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-8",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2142,
+    "end_char": 2150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-8:term-usage:2282-2290",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-8",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2282,
+    "end_char": 2290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-8:term-usage:2454-2462",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-8",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2454,
+    "end_char": 2462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-9:term-usage:1095-1103",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-9",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1095,
+    "end_char": 1103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-9:term-usage:1261-1269",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-9",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1261,
+    "end_char": 1269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-9:term-usage:1739-1747",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-9",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1739,
+    "end_char": 1747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-9:term-usage:2967-2975",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-9",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2967,
+    "end_char": 2975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-10:term-usage:367-375",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 367,
+    "end_char": 375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-10:term-usage:903-911",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 903,
+    "end_char": 911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-11:term-usage:68-76",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 68,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-16:term-usage:768-776",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:117-bis-16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 768,
+    "end_char": 776
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:121:term-usage:2185-2193",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2185,
+    "end_char": 2193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:121:term-usage:2316-2324",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:121",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2316,
+    "end_char": 2324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:125:term-usage:1603-1611",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:125",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1603,
+    "end_char": 1611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:127:term-usage:2023-2031",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:127",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2023,
+    "end_char": 2031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:132:term-usage:2545-2553",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:132",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2545,
+    "end_char": 2553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:133:term-usage:601-609",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 601,
+    "end_char": 609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:133:term-usage:1134-1142",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1134,
+    "end_char": 1142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:133:term-usage:1375-1383",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1375,
+    "end_char": 1383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:133:term-usage:1686-1694",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:133",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1686,
+    "end_char": 1694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:140:term-usage:288-296",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 288,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:140:term-usage:604-612",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:140",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 604,
+    "end_char": 612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:141:term-usage:253-261",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:141",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 253,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:144:term-usage:2749-2757",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:144",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2749,
+    "end_char": 2757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:894-902",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 894,
+    "end_char": 902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:1519-1527",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1519,
+    "end_char": 1527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148:term-usage:2491-2499",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:148",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2491,
+    "end_char": 2499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:150-bis:term-usage:238-246",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:150-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 238,
+    "end_char": 246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:157:term-usage:903-911",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:157",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 903,
+    "end_char": 911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:158:term-usage:364-372",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:158",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 364,
+    "end_char": 372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:158:term-usage:663-671",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:158",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 663,
+    "end_char": 671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159:term-usage:862-870",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 862,
+    "end_char": 870
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159:term-usage:1738-1748",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisiones",
+    "start_char": 1738,
+    "end_char": 1748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159:term-usage:2697-2705",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2697,
+    "end_char": 2705
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159:term-usage:3523-3531",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3523,
+    "end_char": 3531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159:term-usage:3798-3806",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3798,
+    "end_char": 3806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159:term-usage:3975-3983",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:159",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3975,
+    "end_char": 3983
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160:term-usage:5991-5999",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 5991,
+    "end_char": 5999
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160:term-usage:6528-6536",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 6528,
+    "end_char": 6536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160:term-usage:7080-7088",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 7080,
+    "end_char": 7088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160:term-usage:7646-7654",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:160",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 7646,
+    "end_char": 7654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161:term-usage:737-745",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 737,
+    "end_char": 745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161:term-usage:2771-2781",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisiones",
+    "start_char": 2771,
+    "end_char": 2781
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis:term-usage:351-359",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 351,
+    "end_char": 359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis:term-usage:531-539",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 531,
+    "end_char": 539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis:term-usage:640-648",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 640,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis:term-usage:844-852",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 844,
+    "end_char": 852
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis:term-usage:893-901",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 893,
+    "end_char": 901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis:term-usage:1037-1045",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1037,
+    "end_char": 1045
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis:term-usage:1265-1273",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:161-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1265,
+    "end_char": 1273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:163:term-usage:1942-1950",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:163",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1942,
+    "end_char": 1950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:165:term-usage:652-660",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:165",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 652,
+    "end_char": 660
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:165:term-usage:995-1003",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:165",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 995,
+    "end_char": 1003
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:166:term-usage:356-364",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:166",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 356,
+    "end_char": 364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:167:term-usage:420-428",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:167",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 420,
+    "end_char": 428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:167:term-usage:963-971",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:167",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 963,
+    "end_char": 971
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:167:term-usage:1301-1309",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:167",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1301,
+    "end_char": 1309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:167:term-usage:1419-1427",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:167",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1419,
+    "end_char": 1427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:167:term-usage:1834-1842",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:167",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1834,
+    "end_char": 1842
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:168:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:168",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis:term-usage:481-489",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 481,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis:term-usage:544-552",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 544,
+    "end_char": 552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis:term-usage:813-821",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 813,
+    "end_char": 821
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis:term-usage:1047-1055",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1047,
+    "end_char": 1055
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis-5:term-usage:607-615",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:169-bis-5",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 607,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:170:term-usage:1757-1765",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:170",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1757,
+    "end_char": 1765
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:423-431",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 423,
+    "end_char": 431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:1723-1731",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1723,
+    "end_char": 1731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:1869-1904",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:firma-electronica-avanzada-o-fiable",
+    "span": "Firma Electrónica Avanzada o Fiable",
+    "start_char": 1869,
+    "end_char": 1904
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:2052-2060",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2052,
+    "end_char": 2060
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:2110-2118",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2110,
+    "end_char": 2118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:2521-2529",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2521,
+    "end_char": 2529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171:term-usage:2870-2878",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2870,
+    "end_char": 2878
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:232-240",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 232,
+    "end_char": 240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:766-774",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 766,
+    "end_char": 774
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:905-940",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:firma-electronica-avanzada-o-fiable",
+    "span": "Firma Electrónica Avanzada o Fiable",
+    "start_char": 905,
+    "end_char": 940
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:2790-2798",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2790,
+    "end_char": 2798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis:term-usage:3201-3209",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3201,
+    "end_char": 3209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:57-65",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 57,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:511-519",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 511,
+    "end_char": 519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:1620-1628",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1620,
+    "end_char": 1628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:1882-1890",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1882,
+    "end_char": 1890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1:term-usage:2406-2414",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:171-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2406,
+    "end_char": 2414
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173:term-usage:1601-1609",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:173",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1601,
+    "end_char": 1609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3171-3179",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3171,
+    "end_char": 3179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3716-3724",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3716,
+    "end_char": 3724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3910-3918",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3910,
+    "end_char": 3918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:3988-3996",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3988,
+    "end_char": 3996
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1:term-usage:4482-4490",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4482,
+    "end_char": 4490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-3:term-usage:54-62",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:174-bis-3",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 54,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:312-320",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 312,
+    "end_char": 320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:1142-1150",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1142,
+    "end_char": 1150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:2041-2049",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2041,
+    "end_char": 2049
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:2954-2962",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2954,
+    "end_char": 2962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:4525-4533",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4525,
+    "end_char": 4533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177:term-usage:4717-4725",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:177",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4717,
+    "end_char": 4725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3396-3415",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:capital-fundamental",
+    "span": "Capital fundamental",
+    "start_char": 3396,
+    "end_char": 3415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3426-3469",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:activos-ponderados-sujetos-a-riesgo-totales",
+    "span": "Activos ponderados sujetos a riesgo totales",
+    "start_char": 3426,
+    "end_char": 3469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3575-3618",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:activos-ponderados-sujetos-a-riesgo-totales",
+    "span": "Activos ponderados sujetos a riesgo totales",
+    "start_char": 3575,
+    "end_char": 3618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3746-3758",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:capital-neto",
+    "span": "Capital neto",
+    "start_char": 3746,
+    "end_char": 3758
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3796-3815",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:capital-fundamental",
+    "span": "Capital fundamental",
+    "start_char": 3796,
+    "end_char": 3815
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3818-3847",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:capital-basico-no-fundamental",
+    "span": "Capital básico no fundamental",
+    "start_char": 3818,
+    "end_char": 3847
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:3977-4020",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:activos-ponderados-sujetos-a-riesgo-totales",
+    "span": "Activos ponderados sujetos a riesgo totales",
+    "start_char": 3977,
+    "end_char": 4020
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:4201-4213",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:capital-neto",
+    "span": "Capital neto",
+    "start_char": 4201,
+    "end_char": 4213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:4340-4348",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4340,
+    "end_char": 4348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:4612-4620",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4612,
+    "end_char": 4620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:5201-5209",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 5201,
+    "end_char": 5209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180:term-usage:6671-6683",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:180",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:capital-neto",
+    "span": "Capital neto",
+    "start_char": 6671,
+    "end_char": 6683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:181:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:181",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:181:term-usage:283-291",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:181",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 283,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:183:term-usage:315-323",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:183",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 315,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:183:term-usage:838-846",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:183",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 838,
+    "end_char": 846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:185:term-usage:313-321",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 313,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:185:term-usage:422-430",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:185",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 422,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201:term-usage:45-53",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 45,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201:term-usage:1533-1541",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1533,
+    "end_char": 1541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201:term-usage:1989-1997",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1989,
+    "end_char": 1997
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201:term-usage:2156-2164",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:201",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2156,
+    "end_char": 2164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:202:term-usage:543-551",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:202",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 543,
+    "end_char": 551
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:203:term-usage:370-378",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:203",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 370,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:203:term-usage:600-608",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:203",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 600,
+    "end_char": 608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:203:term-usage:1045-1053",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:203",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1045,
+    "end_char": 1053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204:term-usage:80-88",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 80,
+    "end_char": 88
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204:term-usage:489-497",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 489,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204:term-usage:2352-2360",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2352,
+    "end_char": 2360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204:term-usage:2809-2817",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2809,
+    "end_char": 2817
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-1:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-2:term-usage:347-371",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:indice-de-capitalizacion",
+    "span": "Índice de capitalización",
+    "start_char": 347,
+    "end_char": 371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-2:term-usage:378-412",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:coeficiente-de-capital-fundamental",
+    "span": "Coeficiente de capital fundamental",
+    "start_char": 378,
+    "end_char": 412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-2:term-usage:419-448",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:coeficiente-de-capital-basico",
+    "span": "Coeficiente de capital básico",
+    "start_char": 419,
+    "end_char": 448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-3:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-3",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-3:term-usage:478-486",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-3",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 478,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-4:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-4:term-usage:173-181",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 173,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-5:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-5",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-5:term-usage:462-470",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-5",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 462,
+    "end_char": 470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7:term-usage:1055-1063",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1055,
+    "end_char": 1063
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7:term-usage:1172-1180",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1172,
+    "end_char": 1180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7:term-usage:2220-2228",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2220,
+    "end_char": 2228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7:term-usage:2674-2698",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:indice-de-capitalizacion",
+    "span": "Índice de capitalización",
+    "start_char": 2674,
+    "end_char": 2698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7:term-usage:2706-2735",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:coeficiente-de-capital-basico",
+    "span": "Coeficiente de capital básico",
+    "start_char": 2706,
+    "end_char": 2735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7:term-usage:2743-2777",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:coeficiente-de-capital-fundamental",
+    "span": "Coeficiente de capital fundamental",
+    "start_char": 2743,
+    "end_char": 2777
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8:term-usage:89-97",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 89,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8:term-usage:719-727",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 719,
+    "end_char": 727
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8:term-usage:748-756",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 748,
+    "end_char": 756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8:term-usage:995-1003",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 995,
+    "end_char": 1003
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8:term-usage:1074-1082",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1074,
+    "end_char": 1082
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8:term-usage:1573-1581",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1573,
+    "end_char": 1581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8:term-usage:1856-1864",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-8",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1856,
+    "end_char": 1864
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9:term-usage:256-264",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 256,
+    "end_char": 264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9:term-usage:2480-2488",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-9",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2480,
+    "end_char": 2488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-10:term-usage:90-98",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 90,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-10:term-usage:573-581",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 573,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-10:term-usage:602-610",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 602,
+    "end_char": 610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-10:term-usage:836-844",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 836,
+    "end_char": 844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-10:term-usage:929-937",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 929,
+    "end_char": 937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-10:term-usage:1996-2004",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-10",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1996,
+    "end_char": 2004
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-11:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-11:term-usage:268-276",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 268,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-11:term-usage:985-993",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 985,
+    "end_char": 993
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-11:term-usage:1208-1216",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1208,
+    "end_char": 1216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-11:term-usage:1510-1518",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-11",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1510,
+    "end_char": 1518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-14:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-14",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-14:term-usage:614-622",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-14",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 614,
+    "end_char": 622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-14:term-usage:920-928",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-14",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 920,
+    "end_char": 928
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-15:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-15",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-15:term-usage:158-166",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-15",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 158,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-15:term-usage:606-614",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-15",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 606,
+    "end_char": 614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-15:term-usage:1058-1066",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-15",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1058,
+    "end_char": 1066
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16:term-usage:936-944",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 936,
+    "end_char": 944
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16:term-usage:1031-1039",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1031,
+    "end_char": 1039
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16:term-usage:1172-1180",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1172,
+    "end_char": 1180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16:term-usage:1238-1246",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1238,
+    "end_char": 1246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16:term-usage:2532-2540",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2532,
+    "end_char": 2540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16:term-usage:2740-2748",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2740,
+    "end_char": 2748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16:term-usage:3325-3333",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3325,
+    "end_char": 3333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16:term-usage:3634-3642",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3634,
+    "end_char": 3642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16:term-usage:4104-4112",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-16",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4104,
+    "end_char": 4112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-17:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-17",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-17:term-usage:1167-1175",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-17",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1167,
+    "end_char": 1175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-17:term-usage:1368-1376",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-17",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1368,
+    "end_char": 1376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18:term-usage:151-159",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 151,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18:term-usage:479-487",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 479,
+    "end_char": 487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18:term-usage:771-779",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 771,
+    "end_char": 779
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18:term-usage:1346-1354",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1346,
+    "end_char": 1354
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18:term-usage:1410-1418",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1410,
+    "end_char": 1418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18:term-usage:1800-1808",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-18",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1800,
+    "end_char": 1808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-19:term-usage:155-163",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-19",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 155,
+    "end_char": 163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-20:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-20",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-21:term-usage:160-168",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-21",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 160,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-21:term-usage:244-252",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:204-bis-21",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 244,
+    "end_char": 252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:205:term-usage:854-862",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:205",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 854,
+    "end_char": 862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:1381-1389",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1381,
+    "end_char": 1389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:1840-1848",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1840,
+    "end_char": 1848
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:2097-2105",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2097,
+    "end_char": 2105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:2562-2570",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2562,
+    "end_char": 2570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:2678-2686",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2678,
+    "end_char": 2686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:2928-2936",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2928,
+    "end_char": 2936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206:term-usage:4257-4265",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 4257,
+    "end_char": 4265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis:term-usage:64-72",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 64,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis:term-usage:1745-1753",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1745,
+    "end_char": 1753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis:term-usage:1871-1879",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1871,
+    "end_char": 1879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis:term-usage:2687-2695",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2687,
+    "end_char": 2695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis:term-usage:2716-2724",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2716,
+    "end_char": 2724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-2:term-usage:545-553",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 545,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-2:term-usage:1260-1268",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1260,
+    "end_char": 1268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-2:term-usage:1520-1528",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1520,
+    "end_char": 1528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-2:term-usage:2574-2582",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2574,
+    "end_char": 2582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-3:term-usage:669-677",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-3",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 669,
+    "end_char": 677
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-4:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-4:term-usage:247-255",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 247,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-4:term-usage:676-684",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 676,
+    "end_char": 684
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-5:term-usage:1337-1345",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-5",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1337,
+    "end_char": 1345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-5:term-usage:2063-2071",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-5",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2063,
+    "end_char": 2071
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-7:term-usage:709-717",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:206-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 709,
+    "end_char": 717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:207:term-usage:370-378",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:207",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 370,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:208:term-usage:143-151",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:208",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 143,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:208:term-usage:1412-1420",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:208",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1412,
+    "end_char": 1420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:209:term-usage:143-151",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:209",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 143,
+    "end_char": 151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212:term-usage:1761-1769",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1761,
+    "end_char": 1769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212:term-usage:1791-1799",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1791,
+    "end_char": 1799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212-bis:term-usage:1782-1790",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1782,
+    "end_char": 1790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212-bis:term-usage:2541-2549",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:212-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2541,
+    "end_char": 2549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:179-187",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 179,
+    "end_char": 187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:2616-2624",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2616,
+    "end_char": 2624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:2853-2861",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2853,
+    "end_char": 2861
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:3177-3185",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3177,
+    "end_char": 3185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213:term-usage:3597-3605",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:213",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3597,
+    "end_char": 3605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:215:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:215",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:215:term-usage:600-608",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:215",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 600,
+    "end_char": 608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216:term-usage:53-61",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 53,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216:term-usage:1901-1909",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1901,
+    "end_char": 1909
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216:term-usage:2097-2105",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:216",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2097,
+    "end_char": 2105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:217:term-usage:638-646",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:217",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 638,
+    "end_char": 646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:217:term-usage:1525-1533",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:217",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1525,
+    "end_char": 1533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:217:term-usage:2402-2410",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:217",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2402,
+    "end_char": 2410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:217:term-usage:2478-2486",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:217",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2478,
+    "end_char": 2486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:218:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:article:218",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:segundo:term-usage:136-144",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 136,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:segundo:term-usage:181-189",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 181,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:segundo:term-usage:390-398",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 390,
+    "end_char": 398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:cuarto:term-usage:325-333",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 325,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:quinto:term-usage:101-109",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 101,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:quinto:term-usage:1206-1214",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 1206,
+    "end_char": 1214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:sexto:term-usage:101-109",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 101,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:sexto:term-usage:335-343",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 335,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:sexto:term-usage:631-639",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 631,
+    "end_char": 639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:octavo:term-usage:383-391",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:octavo",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 383,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:noveno:term-usage:2971-2979",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 2971,
+    "end_char": 2979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:noveno:term-usage:3454-3462",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3454,
+    "end_char": 3462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:noveno:term-usage:3823-3831",
+    "provision_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:transitory:noveno",
+    "term_id": "urn:lex-mx:federal:regulation:cucb-dcg-2004:term:comision",
+    "span": "Comisión",
+    "start_char": 3823,
+    "end_char": 3831
+  }
+]

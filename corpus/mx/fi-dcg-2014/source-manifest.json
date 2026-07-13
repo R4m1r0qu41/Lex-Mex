@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf",
+  "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+  "retrieved_at": "2026-07-13T01:27:11.578097Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1041107,
+  "etag": "\"{7FFC4A34-2921-4DBC-A1A2-3833048A3CAA},31\"",
+  "last_modified": "Wed, 08 Jul 2026 03:13:57 GMT",
+  "source_sha256": "30cec2bac3222c89d447b6e8adc7877ea45ece21dfc270ed8c963ea91649b6ee",
+  "extracted_text_sha256": "55649233999f442855167f8daf2245d1582d945d16f52cdae2419fa80a172fec",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "63952eb603e9067030b4dcb6cf707c11e33e3eac"
+}

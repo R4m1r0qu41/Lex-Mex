@@ -1,0 +1,46 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:auditor-externo-independiente",
+    "term": "Auditor Externo Independiente",
+    "instrument_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
+    "fraction": "II",
+    "start_char": 1291,
+    "end_char": 1692,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "term": "Enganche",
+    "instrument_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
+    "fraction": "XXXIV",
+    "start_char": 10325,
+    "end_char": 12521,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:informacion-sensible-o-informacion-sensible-del-usuario",
+    "term": "Información Sensible o Información Sensible del Usuario",
+    "instrument_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
+    "fraction": "XLV",
+    "start_char": 18791,
+    "end_char": 19262,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "term": "Sistema de Remuneración",
+    "instrument_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
+    "fraction": "LXX",
+    "start_char": 32190,
+    "end_char": 32858,
+    "basis": "express_definition"
+  }
+]

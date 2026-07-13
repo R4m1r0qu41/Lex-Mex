@@ -1,0 +1,30 @@
+{
+  "slug": "cub-dcg-2005",
+  "instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
+  "instrument_type": "regulation",
+  "parser": "itf-dcg",
+  "official_title": "Disposiciones de carácter general aplicables a las instituciones de crédito",
+  "short_name": "DCG-CUB-2005",
+  "operational_source": "cnbv",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf",
+  "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "publication_date": "2005-12-02",
+  "allow_article_gaps": true,
+  "issuing_authorities": [
+    "Comisión Nacional Bancaria y de Valores"
+  ],
+  "formal_publication_urls": {},
+  "annex_pdf_urls": [],
+  "definition_layout_articles": [],
+  "tls_intermediate_ca_pems": [
+    "globalsign-rsa-ov-ssl-ca-2018.pem",
+    "godaddy-secure-ca-g2.pem"
+  ],
+  "internal_reference_markers": [
+    "de estas disposiciones",
+    "de las presentes disposiciones",
+    "del presente instrumento",
+    "de este instrumento"
+  ]
+}

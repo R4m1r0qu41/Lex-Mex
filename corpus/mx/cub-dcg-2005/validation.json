@@ -1,0 +1,34 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
+  "valid": true,
+  "article_count": 705,
+  "transitory_count": 10,
+  "reference_count": 1125,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no article-count baseline frozen; parse found 705 articles",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no transitory-count baseline frozen; parse found 10 transitories",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "article_gap",
+      "message": "articles between 139 Bis 7 and 141 are absent (derogated, or a parse gap)",
+      "provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:141"
+    },
+    {
+      "severity": "warning",
+      "code": "article_gap",
+      "message": "articles between 249 and 251 are absent (derogated, or a parse gap)",
+      "provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:251"
+    }
+  ]
+}

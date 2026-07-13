@@ -1,0 +1,776 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:5056-5079",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 5056,
+    "end_char": 5079
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1:term-usage:5150-5173",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 5150,
+    "end_char": 5173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:51-bis:term-usage:440-463",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:51-bis",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 440,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55:term-usage:1224-1247",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1224,
+    "end_char": 1247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55:term-usage:1454-1477",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1454,
+    "end_char": 1477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55:term-usage:1629-1652",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1629,
+    "end_char": 1652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55:term-usage:1866-1889",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1866,
+    "end_char": 1889
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55:term-usage:2196-2219",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2196,
+    "end_char": 2219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55:term-usage:2309-2332",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2309,
+    "end_char": 2332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55:term-usage:2370-2393",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2370,
+    "end_char": 2393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55:term-usage:2640-2663",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2640,
+    "end_char": 2663
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55:term-usage:2949-2972",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2949,
+    "end_char": 2972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:73:term-usage:440-463",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 440,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:76:term-usage:1147-1170",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1147,
+    "end_char": 1170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:76:term-usage:1377-1400",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1377,
+    "end_char": 1400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:76:term-usage:1552-1575",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1552,
+    "end_char": 1575
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:76:term-usage:1865-1888",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1865,
+    "end_char": 1888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:76:term-usage:2174-2197",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2174,
+    "end_char": 2197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:78:term-usage:997-1020",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 997,
+    "end_char": 1020
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:78:term-usage:1326-1349",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1326,
+    "end_char": 1349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:78:term-usage:1439-1462",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1439,
+    "end_char": 1462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:78:term-usage:1500-1523",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1500,
+    "end_char": 1523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1:term-usage:11440-11448",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "span": "Enganche",
+    "start_char": 11440,
+    "end_char": 11448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1:term-usage:11661-11669",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "span": "Enganche",
+    "start_char": 11661,
+    "end_char": 11669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1:term-usage:13075-13083",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "span": "Enganche",
+    "start_char": 13075,
+    "end_char": 13083
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1:term-usage:14394-14402",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "span": "Enganche",
+    "start_char": 14394,
+    "end_char": 14402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1:term-usage:15307-15315",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "span": "Enganche",
+    "start_char": 15307,
+    "end_char": 15315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1:term-usage:15872-15880",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:102-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "span": "Enganche",
+    "start_char": 15872,
+    "end_char": 15880
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:108:term-usage:440-463",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 440,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:113:term-usage:2304-2327",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2304,
+    "end_char": 2327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:113:term-usage:2534-2557",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2534,
+    "end_char": 2557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:113:term-usage:2709-2732",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2709,
+    "end_char": 2732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:113:term-usage:3023-3046",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 3023,
+    "end_char": 3046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:113:term-usage:3332-3355",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 3332,
+    "end_char": 3355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:117:term-usage:1207-1230",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1207,
+    "end_char": 1230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:117:term-usage:1537-1560",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1537,
+    "end_char": 1560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:117:term-usage:1650-1673",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1650,
+    "end_char": 1673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:117:term-usage:1711-1734",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:117",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1711,
+    "end_char": 1734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1:term-usage:11434-11442",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "span": "Enganche",
+    "start_char": 11434,
+    "end_char": 11442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1:term-usage:11655-11663",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "span": "Enganche",
+    "start_char": 11655,
+    "end_char": 11663
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1:term-usage:13069-13077",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "span": "Enganche",
+    "start_char": 13069,
+    "end_char": 13077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1:term-usage:14388-14396",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "span": "Enganche",
+    "start_char": 14388,
+    "end_char": 14396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1:term-usage:15301-15309",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "span": "Enganche",
+    "start_char": 15301,
+    "end_char": 15309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1:term-usage:15866-15874",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:151-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:enganche",
+    "span": "Enganche",
+    "start_char": 15866,
+    "end_char": 15874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:157:term-usage:429-452",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:157",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 429,
+    "end_char": 452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:165:term-usage:1450-1473",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:165",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1450,
+    "end_char": 1473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:165:term-usage:1680-1703",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:165",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1680,
+    "end_char": 1703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:165:term-usage:1855-1878",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:165",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1855,
+    "end_char": 1878
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:168:term-usage:2532-2555",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:168",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2532,
+    "end_char": 2555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:168:term-usage:2842-2865",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:168",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2842,
+    "end_char": 2865
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:184:term-usage:1506-1529",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:184",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1506,
+    "end_char": 1529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:184:term-usage:1835-1858",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:184",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1835,
+    "end_char": 1858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:184:term-usage:1948-1971",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:184",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1948,
+    "end_char": 1971
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:184:term-usage:2009-2032",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:184",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2009,
+    "end_char": 2032
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:184:term-usage:2489-2512",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:184",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2489,
+    "end_char": 2512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209:term-usage:600-623",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 600,
+    "end_char": 623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis:term-usage:96-119",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 96,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis:term-usage:199-222",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 199,
+    "end_char": 222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis:term-usage:654-677",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 654,
+    "end_char": 677
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1:term-usage:3-26",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 3,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1:term-usage:251-274",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 251,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1:term-usage:459-482",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 459,
+    "end_char": 482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1:term-usage:599-622",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 599,
+    "end_char": 622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1:term-usage:1764-1787",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1764,
+    "end_char": 1787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1:term-usage:2647-2670",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2647,
+    "end_char": 2670
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1:term-usage:2722-2745",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2722,
+    "end_char": 2745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1:term-usage:3546-3569",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 3546,
+    "end_char": 3569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1:term-usage:3944-3967",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 3944,
+    "end_char": 3967
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-2:term-usage:74-97",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 74,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-2:term-usage:190-213",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 190,
+    "end_char": 213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-3:term-usage:238-261",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-3",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 238,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-4:term-usage:67-90",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 67,
+    "end_char": 90
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-4:term-usage:215-238",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 215,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-4:term-usage:442-465",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 442,
+    "end_char": 465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-4:term-usage:714-737",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-4",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 714,
+    "end_char": 737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-6:term-usage:503-526",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-6",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 503,
+    "end_char": 526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-6:term-usage:891-914",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-6",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 891,
+    "end_char": 914
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-6:term-usage:1147-1170",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-6",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1147,
+    "end_char": 1170
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-6:term-usage:2325-2348",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-6",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2325,
+    "end_char": 2348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-6:term-usage:2529-2552",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-6",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2529,
+    "end_char": 2552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-6:term-usage:2592-2615",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-6",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 2592,
+    "end_char": 2615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-7:term-usage:1172-1195",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:209-bis-7",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:sistema-de-remuneracion",
+    "span": "Sistema de Remuneración",
+    "start_char": 1172,
+    "end_char": 1195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:212:term-usage:7682-7711",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:212",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:auditor-externo-independiente",
+    "span": "Auditor Externo Independiente",
+    "start_char": 7682,
+    "end_char": 7711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:217:term-usage:34-67",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:217",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:auditor-externo-independiente",
+    "span": "Auditores Externos Independientes",
+    "start_char": 34,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:219:term-usage:135-168",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:219",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:auditor-externo-independiente",
+    "span": "Auditores Externos Independientes",
+    "start_char": 135,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:232:term-usage:97-130",
+    "provision_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:232",
+    "term_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:term:auditor-externo-independiente",
+    "span": "Auditores Externos Independientes",
+    "start_char": 97,
+    "end_char": 130
+  }
+]

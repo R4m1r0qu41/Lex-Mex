@@ -1,0 +1,29 @@
+{
+  "slug": "fi-dcg-2014",
+  "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+  "instrument_type": "regulation",
+  "parser": "itf-dcg",
+  "official_title": "Disposiciones de carácter general aplicables a los fondos de inversión y a las personas que les prestan servicios",
+  "short_name": "DCG-FI-2014",
+  "operational_source": "cnbv",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf",
+  "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "publication_date": "2014-11-24",
+  "issuing_authorities": [
+    "Comisión Nacional Bancaria y de Valores"
+  ],
+  "formal_publication_urls": {},
+  "annex_pdf_urls": [],
+  "definition_layout_articles": [],
+  "tls_intermediate_ca_pems": [
+    "globalsign-rsa-ov-ssl-ca-2018.pem",
+    "godaddy-secure-ca-g2.pem"
+  ],
+  "internal_reference_markers": [
+    "de estas disposiciones",
+    "de las presentes disposiciones",
+    "del presente instrumento",
+    "de este instrumento"
+  ]
+}

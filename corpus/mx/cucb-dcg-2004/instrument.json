@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:cucb-dcg-2004",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Disposiciones de carácter general aplicables a las casas de bolsa",
+  "short_name": "DCG-CUCB-2004",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publication_date": "2004-09-06",
+  "latest_reform_date": "2026-07-06",
+  "retrieved_at": "2026-07-13T01:27:16.366095Z",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf",
+  "source_sha256": "98762f18214a47011d5f4f3d4eb63bf776be8e1528cc08888adaf47fe2829e85",
+  "extracted_text_sha256": "80e27236d2005570a911100d226d43401c8329a885be785e7e619b7075bffe2a",
+  "parser_version": "0.1.0",
+  "status": "in_force",
+  "issuing_authorities": [
+    "Comisión Nacional Bancaria y de Valores"
+  ]
+}

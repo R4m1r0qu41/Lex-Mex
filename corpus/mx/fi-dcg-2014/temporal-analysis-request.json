@@ -1,0 +1,30 @@
+{
+  "schema_version": "0.1.0",
+  "prompt_version": "temporal-v2",
+  "instrument_id": "urn:lex-mx:federal:regulation:fi-dcg-2014",
+  "publication_date": "2014-11-24",
+  "latest_reform_date": "2026-07-07",
+  "relevant_provisions": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:transitory:primero",
+      "label": "PRIMERO",
+      "text": "Las presentes Disposiciones entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo previsto en el artículo Segundo Transitorio siguiente."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:transitory:segundo",
+      "label": "SEGUNDO",
+      "text": "Los artículos 80, 81 y 82, así como el Anexo 8 de estas Disposiciones entrarán en vigor el 1 de octubre de 2015.\n\nHasta en tanto se verifique la entrada en vigor de los artículos antes señalados, los fondos de inversión, las sociedades operadoras de fondos de inversión y las sociedades distribuidoras de acciones de fondos de inversión estarán obligados a presentar la información financiera que se indica en el artículo 74 y Anexo 7 de las “Disposiciones de carácter general aplicables a las sociedades de inversión y a las personas que les prestan servicios”, publicadas en el Diario Oficial de la Federación el 4 de diciembre de 2006 y sus respectivas modificaciones, con la periodicidad que se indica en los artículos 75 y 76 de dichas Disposiciones."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:transitory:tercero",
+      "label": "TERCERO",
+      "text": "Las “Disposiciones de carácter general aplicables a las sociedades de inversión y a las personas que les prestan servicios” publicadas en el Diario Oficial de la Federación el 4 de diciembre de 2006 y sus respectivas modificaciones, quedarán abrogadas cuando concluya el plazo de treinta y seis meses establecido en la fracción I, del artículo Trigésimo Octavo Transitorio del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras” publicado en el Diario Oficial de la Federación el 10 de enero de 2014."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:fi-dcg-2014:transitory:cuarto",
+      "label": "CUARTO",
+      "text": "Las sociedades operadoras de fondos de inversión que presten los servicios de administración de activos a las sociedades de inversión podrán optar por presentar la información financiera respecto de dichas sociedades de inversión, en los términos a que aluden los artículos 80, 81 y 82, así como Anexo 8 de las presentes Disposiciones, en sustitución de la información conforme a lo previsto en los artículos 74, 75 y 76, así como Anexo 7 de las “Disposiciones de carácter general aplicables a las sociedades de inversión y a las personas que les prestan servicios” publicadas en el Diario Oficial de la Federación el 4 de diciembre de 2006 y sus respectivas modificaciones."
+    }
+  ],
+  "required_output_schema": "schemas/temporal-model-output-v2.schema.json"
+}

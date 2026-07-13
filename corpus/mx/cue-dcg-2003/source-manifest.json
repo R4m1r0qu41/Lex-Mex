@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20emisoras%20de%20valores%20y%20a%20otros%20participantes%20del%20mercado%20de%20valores.pdf",
+  "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+  "retrieved_at": "2026-07-13T01:27:05.953644Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1110767,
+  "etag": "\"{BDD37252-61E9-4532-9331-C14A6AD36953},36\"",
+  "last_modified": "Fri, 03 Jul 2026 16:53:04 GMT",
+  "source_sha256": "b040dd53cd38f57ceaacd736fd04475ba82c840d063c62229302627d09f3f363",
+  "extracted_text_sha256": "e420bbe956e5a60d926981e0c4de9f9a365d72fc21544eab220a0f763573719a",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "63952eb603e9067030b4dcb6cf707c11e33e3eac"
+}

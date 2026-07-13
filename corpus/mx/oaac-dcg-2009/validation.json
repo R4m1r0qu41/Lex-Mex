@@ -1,0 +1,34 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+  "valid": true,
+  "article_count": 295,
+  "transitory_count": 8,
+  "reference_count": 294,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no article-count baseline frozen; parse found 295 articles",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no transitory-count baseline frozen; parse found 8 transitories",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "article_gap",
+      "message": "articles between 37 and 39 are absent (derogated, or a parse gap)",
+      "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:39"
+    },
+    {
+      "severity": "warning",
+      "code": "article_gap",
+      "message": "articles between 105 Bis 1 and 107 are absent (derogated, or a parse gap)",
+      "provision_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009:article:107"
+    }
+  ]
+}

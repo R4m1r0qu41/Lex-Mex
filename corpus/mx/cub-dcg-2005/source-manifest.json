@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20cr%C3%A9dito.pdf",
+  "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+  "retrieved_at": "2026-07-13T01:27:35.052985Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 4866388,
+  "etag": "\"{5F7B4801-1F20-4DF6-A770-14BB0D36AABE},153\"",
+  "last_modified": "Fri, 03 Jul 2026 20:49:57 GMT",
+  "source_sha256": "f38095eb6f1c47425df240797d8c37e83fee29168f71d04eb5838999b821585b",
+  "extracted_text_sha256": "6a5d6cce7612912400ba82f64b8c1909eaf88f1b89186688593c7a07ae8b416f",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "63952eb603e9067030b4dcb6cf707c11e33e3eac"
+}

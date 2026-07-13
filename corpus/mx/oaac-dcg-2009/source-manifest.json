@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:oaac-dcg-2009",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20almacenes%20generales%20de%20dep%C3%B3sito%2C%20casas%20de%20cambio%2C%20uniones%20de%20cr%C3%A9dito%20y%20sociedades%20financieras%20de%20objeto%20m%C3%BAltiple%20reguladas.pdf",
+  "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+  "retrieved_at": "2026-07-13T01:27:28.797233Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1789140,
+  "etag": "\"{2C7F09EA-6544-43F0-96EF-33B8316531A7},61\"",
+  "last_modified": "Wed, 08 Jul 2026 03:31:16 GMT",
+  "source_sha256": "8ac502b97188bd6e795781e9821be6e62ccdd8050cdd3be74aab52a888e67939",
+  "extracted_text_sha256": "f1fc1189a30e10129731ae73feead3f88bf92ae50027a9b3080c5011007d378d",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "63952eb603e9067030b4dcb6cf707c11e33e3eac"
+}

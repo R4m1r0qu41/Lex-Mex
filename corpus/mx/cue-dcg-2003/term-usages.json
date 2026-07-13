@@ -1,0 +1,2162 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:1:term-usage:6117-6121",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 6117,
+    "end_char": 6121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:1:term-usage:8936-8947",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 8936,
+    "end_char": 8947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:1:term-usage:15351-15362",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 15351,
+    "end_char": 15362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:1:term-usage:15436-15447",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 15436,
+    "end_char": 15447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:19-30",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 19,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:316-327",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 316,
+    "end_char": 327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:1399-1412",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripciones",
+    "start_char": 1399,
+    "end_char": 1412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:2620-2631",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 2620,
+    "end_char": 2631
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:3539-3544",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 3539,
+    "end_char": 3544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:4306-4325",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 4306,
+    "end_char": 4325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:4573-4599",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:ofertas-publicas-restringidas",
+    "span": "Oferta pública restringida",
+    "start_char": 4573,
+    "end_char": 4599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:4854-4873",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 4854,
+    "end_char": 4873
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:4994-5013",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 4994,
+    "end_char": 5013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:5066-5085",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 5066,
+    "end_char": 5085
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:5200-5219",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 5200,
+    "end_char": 5219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:5382-5401",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 5382,
+    "end_char": 5401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:5633-5652",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 5633,
+    "end_char": 5652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:5822-5841",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 5822,
+    "end_char": 5841
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:5944-5963",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 5944,
+    "end_char": 5963
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:6118-6137",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 6118,
+    "end_char": 6137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:6332-6361",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:ofertas-publicas-restringidas",
+    "span": "Ofertas públicas restringidas",
+    "start_char": 6332,
+    "end_char": 6361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:6378-6397",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 6378,
+    "end_char": 6397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:6558-6577",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 6558,
+    "end_char": 6577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:6771-6790",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 6771,
+    "end_char": 6790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:7569-7599",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:reestructuraciones-societarias",
+    "span": "Reestructuraciones societarias",
+    "start_char": 7569,
+    "end_char": 7599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:7721-7740",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 7721,
+    "end_char": 7740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:8389-8408",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 8389,
+    "end_char": 8408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:9027-9046",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 9027,
+    "end_char": 9046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:9059-9078",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 9059,
+    "end_char": 9078
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:9759-9778",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 9759,
+    "end_char": 9778
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:10047-10066",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:llamadas-de-capital",
+    "span": "Llamadas de capital",
+    "start_char": 10047,
+    "end_char": 10066
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:10168-10187",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 10168,
+    "end_char": 10187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:10417-10436",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 10417,
+    "end_char": 10436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:10543-10569",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:ofertas-publicas-restringidas",
+    "span": "Oferta pública restringida",
+    "start_char": 10543,
+    "end_char": 10569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:11064-11087",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:intermediario-colocador",
+    "span": "Intermediario Colocador",
+    "start_char": 11064,
+    "end_char": 11087
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2:term-usage:16319-16342",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:intermediario-colocador",
+    "span": "Intermediario Colocador",
+    "start_char": 16319,
+    "end_char": 16342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:3:term-usage:560-571",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 560,
+    "end_char": 571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:3:term-usage:780-791",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 780,
+    "end_char": 791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:3:term-usage:5366-5389",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:intermediario-colocador",
+    "span": "Intermediario Colocador",
+    "start_char": 5366,
+    "end_char": 5389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:3:term-usage:13188-13201",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripciones",
+    "start_char": 13188,
+    "end_char": 13201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:19-30",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 19,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:904-917",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripciones",
+    "start_char": 904,
+    "end_char": 917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:1309-1320",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 1309,
+    "end_char": 1320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:1720-1737",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estado financiero",
+    "start_char": 1720,
+    "end_char": 1737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:2204-2223",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 2204,
+    "end_char": 2223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:2453-2472",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 2453,
+    "end_char": 2472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:2608-2627",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 2608,
+    "end_char": 2627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:2734-2753",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 2734,
+    "end_char": 2753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:2868-2887",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 2868,
+    "end_char": 2887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:3050-3069",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 3050,
+    "end_char": 3069
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:3309-3328",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 3309,
+    "end_char": 3328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:3498-3517",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 3498,
+    "end_char": 3517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:3620-3639",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 3620,
+    "end_char": 3639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:3794-3813",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 3794,
+    "end_char": 3813
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:4835-4865",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:reestructuraciones-societarias",
+    "span": "Reestructuraciones societarias",
+    "start_char": 4835,
+    "end_char": 4865
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:4987-5006",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 4987,
+    "end_char": 5006
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4:term-usage:5650-5669",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 5650,
+    "end_char": 5669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:6:term-usage:1227-1238",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 1227,
+    "end_char": 1238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:138-149",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 138,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:4352-4378",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:ofertas-publicas-restringidas",
+    "span": "Oferta pública restringida",
+    "start_char": 4352,
+    "end_char": 4378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:4989-5008",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 4989,
+    "end_char": 5008
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:10566-10597",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:valores-respaldados-por-activos",
+    "span": "Valores respaldados por activos",
+    "start_char": 10566,
+    "end_char": 10597
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:12013-12018",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 12013,
+    "end_char": 12018
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:12032-12036",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 12032,
+    "end_char": 12036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:26575-26593",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:llamadas-de-capital",
+    "span": "Llamada de capital",
+    "start_char": 26575,
+    "end_char": 26593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:26889-26908",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:llamadas-de-capital",
+    "span": "Llamadas de capital",
+    "start_char": 26889,
+    "end_char": 26908
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:27019-27037",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:llamadas-de-capital",
+    "span": "Llamada de capital",
+    "start_char": 27019,
+    "end_char": 27037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:30868-30887",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 30868,
+    "end_char": 30887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:31477-31496",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:llamadas-de-capital",
+    "span": "Llamadas de capital",
+    "start_char": 31477,
+    "end_char": 31496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:79624-79685",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:certificados-bursatiles-fiduciarios-de-proyectos-de-inversion",
+    "span": "Certificados bursátiles fiduciarios de proyectos de inversión",
+    "start_char": 79624,
+    "end_char": 79685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:95311-95330",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 95311,
+    "end_char": 95330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:95843-95904",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:certificados-bursatiles-fiduciarios-de-proyectos-de-inversion",
+    "span": "Certificados bursátiles fiduciarios de proyectos de inversión",
+    "start_char": 95843,
+    "end_char": 95904
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7:term-usage:95940-95959",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:llamadas-de-capital",
+    "span": "Llamadas de capital",
+    "start_char": 95940,
+    "end_char": 95959
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:8:term-usage:769-780",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 769,
+    "end_char": 780
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:9:term-usage:1460-1471",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 1460,
+    "end_char": 1471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:9:term-usage:1497-1508",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 1497,
+    "end_char": 1508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:10:term-usage:983-994",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 983,
+    "end_char": 994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:10:term-usage:1157-1168",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 1157,
+    "end_char": 1168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:10:term-usage:1351-1362",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 1351,
+    "end_char": 1362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:11:term-usage:715-726",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 715,
+    "end_char": 726
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:11:term-usage:1944-1955",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 1944,
+    "end_char": 1955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:11:term-usage:2218-2229",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 2218,
+    "end_char": 2229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:11:term-usage:2304-2315",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 2304,
+    "end_char": 2315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:12:term-usage:3-8",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 3,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:12:term-usage:142-153",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 142,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:13-bis:term-usage:2192-2197",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:13-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 2192,
+    "end_char": 2197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:13-bis:term-usage:2360-2365",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:13-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 2360,
+    "end_char": 2365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:13-bis-1:term-usage:963-974",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:13-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 963,
+    "end_char": 974
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14:term-usage:34-65",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:actualizacion-de-la-inscripcion",
+    "span": "Actualización de la inscripción",
+    "start_char": 34,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14:term-usage:174-205",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:actualizacion-de-la-inscripcion",
+    "span": "Actualización de la inscripción",
+    "start_char": 174,
+    "end_char": 205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14:term-usage:1449-1480",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:actualizacion-de-la-inscripcion",
+    "span": "Actualización de la inscripción",
+    "start_char": 1449,
+    "end_char": 1480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14:term-usage:1507-1528",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:valores-estructurados",
+    "span": "Valores estructurados",
+    "start_char": 1507,
+    "end_char": 1528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14:term-usage:2699-2730",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:actualizacion-de-la-inscripcion",
+    "span": "Actualización de la inscripción",
+    "start_char": 2699,
+    "end_char": 2730
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14:term-usage:3118-3149",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:actualizacion-de-la-inscripcion",
+    "span": "Actualización de la inscripción",
+    "start_char": 3118,
+    "end_char": 3149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14:term-usage:3227-3246",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:llamadas-de-capital",
+    "span": "Llamadas de capital",
+    "start_char": 3227,
+    "end_char": 3246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14:term-usage:3387-3405",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:llamadas-de-capital",
+    "span": "Llamada de capital",
+    "start_char": 3387,
+    "end_char": 3405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14:term-usage:4789-4818",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:ofertas-publicas-restringidas",
+    "span": "Ofertas públicas restringidas",
+    "start_char": 4789,
+    "end_char": 4818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14:term-usage:4848-4879",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:actualizacion-de-la-inscripcion",
+    "span": "Actualización de la inscripción",
+    "start_char": 4848,
+    "end_char": 4879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:15-bis:term-usage:907-911",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 907,
+    "end_char": 911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:15-bis:term-usage:2863-2867",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:15-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 2863,
+    "end_char": 2867
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:15-bis-1:term-usage:2471-2475",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:15-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 2471,
+    "end_char": 2475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:15-bis-1:term-usage:2971-2975",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:15-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 2971,
+    "end_char": 2975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:15-bis-2:term-usage:280-291",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:15-bis-2",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 280,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:16:term-usage:4525-4546",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:experto-independiente",
+    "span": "Experto Independiente",
+    "start_char": 4525,
+    "end_char": 4546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:17-bis:term-usage:4372-4383",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:17-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 4372,
+    "end_char": 4383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:18:term-usage:68-72",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 68,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:19:term-usage:1430-1435",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1430,
+    "end_char": 1435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20:term-usage:32-55",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:intermediario-colocador",
+    "span": "Intermediario Colocador",
+    "start_char": 32,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20:term-usage:213-218",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 213,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20:term-usage:480-485",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 480,
+    "end_char": 485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20:term-usage:777-800",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:intermediario-colocador",
+    "span": "Intermediario Colocador",
+    "start_char": 777,
+    "end_char": 800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20:term-usage:1046-1051",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1046,
+    "end_char": 1051
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20:term-usage:1065-1069",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 1065,
+    "end_char": 1069
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20:term-usage:1142-1165",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:intermediario-colocador",
+    "span": "Intermediario Colocador",
+    "start_char": 1142,
+    "end_char": 1165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20:term-usage:1294-1299",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1294,
+    "end_char": 1299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:24:term-usage:237-242",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 237,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:24:term-usage:1208-1212",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 1208,
+    "end_char": 1212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:24-bis-1:term-usage:2514-2519",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:24-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 2514,
+    "end_char": 2519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:24-bis-1:term-usage:2597-2602",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:24-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 2597,
+    "end_char": 2602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:25:term-usage:1362-1381",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:formador-de-mercado",
+    "span": "Formador de mercado",
+    "start_char": 1362,
+    "end_char": 1381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:25:term-usage:2514-2518",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 2514,
+    "end_char": 2518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:26:term-usage:3-26",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:intermediario-colocador",
+    "span": "Intermediario Colocador",
+    "start_char": 3,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:26:term-usage:90-95",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 90,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:26:term-usage:159-164",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 159,
+    "end_char": 164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:26:term-usage:311-334",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:intermediario-colocador",
+    "span": "Intermediario Colocador",
+    "start_char": 311,
+    "end_char": 334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:26:term-usage:698-703",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 698,
+    "end_char": 703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:27:term-usage:1676-1680",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 1676,
+    "end_char": 1680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29:term-usage:3-8",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 3,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29:term-usage:510-515",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 510,
+    "end_char": 515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29:term-usage:530-534",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 530,
+    "end_char": 534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29:term-usage:548-553",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 548,
+    "end_char": 553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29:term-usage:630-635",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 630,
+    "end_char": 635
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29:term-usage:1033-1038",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1033,
+    "end_char": 1038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29:term-usage:1164-1169",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1164,
+    "end_char": 1169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29:term-usage:1556-1561",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1556,
+    "end_char": 1561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29:term-usage:1755-1760",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1755,
+    "end_char": 1760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29:term-usage:1766-1771",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1766,
+    "end_char": 1771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:98-103",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 98,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:2349-2368",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 2349,
+    "end_char": 2368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:2515-2534",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 2515,
+    "end_char": 2534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:3414-3433",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 3414,
+    "end_char": 3433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:3621-3647",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:ofertas-publicas-restringidas",
+    "span": "Oferta pública restringida",
+    "start_char": 3621,
+    "end_char": 3647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:3713-3774",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:certificados-bursatiles-fiduciarios-de-proyectos-de-inversion",
+    "span": "Certificados bursátiles fiduciarios de proyectos de inversión",
+    "start_char": 3713,
+    "end_char": 3774
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:4573-4592",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 4573,
+    "end_char": 4592
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:5768-5794",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:ofertas-publicas-restringidas",
+    "span": "Oferta pública restringida",
+    "start_char": 5768,
+    "end_char": 5794
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:5860-5921",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:certificados-bursatiles-fiduciarios-de-proyectos-de-inversion",
+    "span": "Certificados bursátiles fiduciarios de proyectos de inversión",
+    "start_char": 5860,
+    "end_char": 5921
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:18399-18425",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:ofertas-publicas-restringidas",
+    "span": "Oferta pública restringida",
+    "start_char": 18399,
+    "end_char": 18425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:18491-18552",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:certificados-bursatiles-fiduciarios-de-proyectos-de-inversion",
+    "span": "Certificados bursátiles fiduciarios de proyectos de inversión",
+    "start_char": 18491,
+    "end_char": 18552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:21434-21460",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:ofertas-publicas-restringidas",
+    "span": "Oferta pública restringida",
+    "start_char": 21434,
+    "end_char": 21460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:21526-21587",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:certificados-bursatiles-fiduciarios-de-proyectos-de-inversion",
+    "span": "Certificados bursátiles fiduciarios de proyectos de inversión",
+    "start_char": 21526,
+    "end_char": 21587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:31280-31285",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 31280,
+    "end_char": 31285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33:term-usage:31299-31303",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 31299,
+    "end_char": 31303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:34:term-usage:4400-4405",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 4400,
+    "end_char": 4405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:34:term-usage:4419-4423",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 4419,
+    "end_char": 4423
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35:term-usage:3808-3819",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 3808,
+    "end_char": 3819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35:term-usage:4044-4055",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 4044,
+    "end_char": 4055
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35:term-usage:4312-4323",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 4312,
+    "end_char": 4323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35:term-usage:4417-4422",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 4417,
+    "end_char": 4422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35:term-usage:4443-4447",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 4443,
+    "end_char": 4447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35-bis:term-usage:1326-1331",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1326,
+    "end_char": 1331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35-bis:term-usage:1352-1356",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 1352,
+    "end_char": 1356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35-bis-1:term-usage:2721-2725",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:35-bis-1",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 2721,
+    "end_char": 2725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:36:term-usage:8771-8782",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 8771,
+    "end_char": 8782
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:36:term-usage:9509-9513",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 9509,
+    "end_char": 9513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:37:term-usage:126-131",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 126,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:37:term-usage:6151-6156",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 6151,
+    "end_char": 6156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:37:term-usage:6170-6174",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 6170,
+    "end_char": 6174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:37:term-usage:7234-7238",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 7234,
+    "end_char": 7238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:38:term-usage:2339-2344",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 2339,
+    "end_char": 2344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:38:term-usage:2358-2362",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 2358,
+    "end_char": 2362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:40:term-usage:332-337",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 332,
+    "end_char": 337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:41:term-usage:474-478",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 474,
+    "end_char": 478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:43:term-usage:342-346",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 342,
+    "end_char": 346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:43:term-usage:553-557",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 553,
+    "end_char": 557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:44:term-usage:128-133",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 128,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:44:term-usage:342-347",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 342,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:44:term-usage:450-455",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 450,
+    "end_char": 455
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:45:term-usage:155-159",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 155,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:45:term-usage:426-431",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 426,
+    "end_char": 431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:45:term-usage:954-958",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 954,
+    "end_char": 958
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:46:term-usage:368-372",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 368,
+    "end_char": 372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:46:term-usage:707-711",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 707,
+    "end_char": 711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:48:term-usage:801-806",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 801,
+    "end_char": 806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:50:term-usage:96-101",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 96,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:50:term-usage:153-157",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 153,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:50:term-usage:13764-13790",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:ofertas-publicas-restringidas",
+    "span": "Oferta pública restringida",
+    "start_char": 13764,
+    "end_char": 13790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:50:term-usage:15327-15346",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:estados-financieros",
+    "span": "Estados financieros",
+    "start_char": 15327,
+    "end_char": 15346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:54:term-usage:3-8",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 3,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:54:term-usage:459-464",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 459,
+    "end_char": 464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:54:term-usage:714-719",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 714,
+    "end_char": 719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:56:term-usage:958-963",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 958,
+    "end_char": 963
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:56:term-usage:1032-1037",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1032,
+    "end_char": 1037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:56:term-usage:1393-1397",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 1393,
+    "end_char": 1397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:56:term-usage:2930-2935",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 2930,
+    "end_char": 2935
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:56:term-usage:3046-3050",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 3046,
+    "end_char": 3050
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:56:term-usage:3058-3079",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:formato-electronico",
+    "span": "Formatos Electrónicos",
+    "start_char": 3058,
+    "end_char": 3079
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:57:term-usage:27-32",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 27,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:58:term-usage:229-233",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 229,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:61:term-usage:237-241",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 237,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:66:term-usage:102-125",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:intermediario-colocador",
+    "span": "Intermediario Colocador",
+    "start_char": 102,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:66:term-usage:477-500",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:intermediario-colocador",
+    "span": "Intermediario Colocador",
+    "start_char": 477,
+    "end_char": 500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:69:term-usage:491-495",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 491,
+    "end_char": 495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:70:term-usage:184-188",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 184,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:72:term-usage:3-8",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 3,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:72:term-usage:315-320",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 315,
+    "end_char": 320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:73:term-usage:1129-1133",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 1129,
+    "end_char": 1133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74:term-usage:4-25",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:formato-electronico",
+    "span": "Formatos Electrónicos",
+    "start_char": 4,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74:term-usage:44-49",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 44,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74:term-usage:95-99",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 95,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74:term-usage:621-626",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 621,
+    "end_char": 626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74:term-usage:744-748",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 744,
+    "end_char": 748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74:term-usage:797-802",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 797,
+    "end_char": 802
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74:term-usage:922-943",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:formato-electronico",
+    "span": "Formatos Electrónicos",
+    "start_char": 922,
+    "end_char": 943
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77:term-usage:3-8",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 3,
+    "end_char": 8
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77:term-usage:241-245",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 241,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77:term-usage:389-393",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 389,
+    "end_char": 393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77:term-usage:1188-1193",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1188,
+    "end_char": 1193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77:term-usage:1588-1593",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1588,
+    "end_char": 1593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77:term-usage:1745-1749",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 1745,
+    "end_char": 1749
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77:term-usage:1850-1855",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1850,
+    "end_char": 1855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:84:term-usage:195-200",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 195,
+    "end_char": 200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:84:term-usage:573-578",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 573,
+    "end_char": 578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:84-bis:term-usage:382-387",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:84-bis",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 382,
+    "end_char": 387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:87:term-usage:1254-1269",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:auditor-externo",
+    "span": "Auditor Externo",
+    "start_char": 1254,
+    "end_char": 1269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:87:term-usage:1522-1527",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 1522,
+    "end_char": 1527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:88:term-usage:591-596",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 591,
+    "end_char": 596
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:quinta:term-usage:913-924",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:quinta",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 913,
+    "end_char": 924
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:quinta:term-usage:1227-1238",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:quinta",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:inscripcion",
+    "span": "Inscripción",
+    "start_char": 1227,
+    "end_char": 1238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena:term-usage:512-530",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:auditor-externo",
+    "span": "Auditores Externos",
+    "start_char": 512,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena:term-usage:889-904",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:auditor-externo",
+    "span": "Auditor Externo",
+    "start_char": 889,
+    "end_char": 904
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena:term-usage:1702-1717",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:auditor-externo",
+    "span": "Auditor Externo",
+    "start_char": 1702,
+    "end_char": 1717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena:term-usage:2217-2232",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:auditor-externo",
+    "span": "Auditor Externo",
+    "start_char": 2217,
+    "end_char": 2232
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena:term-usage:2418-2436",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:auditor-externo",
+    "span": "Auditores Externos",
+    "start_char": 2418,
+    "end_char": 2436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena:term-usage:2685-2700",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:auditor-externo",
+    "span": "Auditor Externo",
+    "start_char": 2685,
+    "end_char": 2700
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena:term-usage:3037-3042",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 3037,
+    "end_char": 3042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena:term-usage:3332-3337",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 3332,
+    "end_char": 3337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena:term-usage:3558-3562",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:sedi",
+    "span": "SEDI",
+    "start_char": 3558,
+    "end_char": 3562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena:term-usage:3570-3591",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:formato-electronico",
+    "span": "Formatos Electrónicos",
+    "start_char": 3570,
+    "end_char": 3591
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena:term-usage:3607-3612",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:bolsa",
+    "span": "Bolsa",
+    "start_char": 3607,
+    "end_char": 3612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena:term-usage:5071-5089",
+    "provision_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:transitory:novena",
+    "term_id": "urn:lex-mx:federal:regulation:cue-dcg-2003:term:auditor-externo",
+    "span": "Auditores Externos",
+    "start_char": 5071,
+    "end_char": 5089
+  }
+]

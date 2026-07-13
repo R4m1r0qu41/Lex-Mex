@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:cue-dcg-2003",
+  "valid": true,
+  "article_count": 114,
+  "transitory_count": 8,
+  "reference_count": 325,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no article-count baseline frozen; parse found 114 articles",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no transitory-count baseline frozen; parse found 8 transitories",
+      "provision_id": null
+    }
+  ]
+}

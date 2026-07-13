@@ -1,0 +1,31 @@
+---
+id: urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006:article:58
+instrument_id: urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006
+instrument: DCG-SOCAP-SOFIPO-2006
+name: "Disposiciones de carácter general aplicables a las entidades de ahorro y crédito popular, organismos de integración, sociedades financieras comunitarias y organismos de integración financiera rural"
+provision_type: article
+number: "58"
+aliases: ["DCG-SOCAP-SOFIPO-2006 — Artículo 58"]
+generated: true
+temporal_status: effective
+review_status: not_analyzed
+amendment_marks: [65]
+source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20entidades%20de%20ahorro%20y%20cr%C3%A9dito%20popular%2C%20organismos%20de%20integraci%C3%B3n%2C%20sociedades%20financieras%20comunita.pdf
+source_sha256: 0d3266aae786417efe6b68cdbc65c3bd4644534cc711b9a69c62ebed534ee640
+---
+
+> Capítulo III · Sección Segunda · Apartado C
+
+# Artículo 58
+
+Las Sociedades Financieras Populares podrán establecer en los manuales de crédito procesos de autorizaciones automáticas de créditos que permitan otorgar el crédito correspondiente a cualquier solicitante, siempre y cuando se reúnan las condiciones que se indican a continuación:
+
+I. Documentación mínima a ser entregada por tipo de crédito;
+
+II. Identificación del solicitante, así como finalidad para la cual se solicita el crédito o, en su caso, características de los depósitos que el solicitante mantenga en la Sociedad Financiera Popular;
+
+III. Monto máximo a otorgar según el resultado de la información entregada, y
+
+IV. Tasas de interés en función del riesgo que represente el solicitante dada la información aportada.
+
+Los funcionarios, Consejeros o miembros del Comité de Crédito, no podrán participar en ninguna etapa del proceso crediticio, cuando el crédito en cuestión pueda representar conflictos de intereses para dichas personas.

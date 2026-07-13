@@ -1,0 +1,30 @@
+{
+  "slug": "socap-sofipo-dcg-2006",
+  "instrument_id": "urn:lex-mx:federal:regulation:socap-sofipo-dcg-2006",
+  "instrument_type": "regulation",
+  "parser": "itf-dcg",
+  "official_title": "Disposiciones de carácter general aplicables a las entidades de ahorro y crédito popular, organismos de integración, sociedades financieras comunitarias y organismos de integración financiera rural",
+  "short_name": "DCG-SOCAP-SOFIPO-2006",
+  "operational_source": "cnbv",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20entidades%20de%20ahorro%20y%20cr%C3%A9dito%20popular%2C%20organismos%20de%20integraci%C3%B3n%2C%20sociedades%20financieras%20comunita.pdf",
+  "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "publication_date": "2006-12-18",
+  "allow_article_gaps": true,
+  "issuing_authorities": [
+    "Comisión Nacional Bancaria y de Valores"
+  ],
+  "formal_publication_urls": {},
+  "annex_pdf_urls": [],
+  "definition_layout_articles": [],
+  "tls_intermediate_ca_pems": [
+    "globalsign-rsa-ov-ssl-ca-2018.pem",
+    "godaddy-secure-ca-g2.pem"
+  ],
+  "internal_reference_markers": [
+    "de estas disposiciones",
+    "de las presentes disposiciones",
+    "del presente instrumento",
+    "de este instrumento"
+  ]
+}
