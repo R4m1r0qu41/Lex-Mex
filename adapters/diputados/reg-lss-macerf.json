@@ -2,6 +2,7 @@
   "slug": "reg-lss-macerf",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-macerf",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lss",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley del Seguro Social en Materia de Afiliación, Clasificación de Empresas, Recaudación y Fiscalización",
   "short_name": "REG-LSS-MACERF",

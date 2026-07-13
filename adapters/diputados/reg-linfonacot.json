@@ -2,6 +2,7 @@
   "slug": "reg-linfonacot",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonacot",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:linfonacot",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
   "short_name": "REG-LINFONACOT",

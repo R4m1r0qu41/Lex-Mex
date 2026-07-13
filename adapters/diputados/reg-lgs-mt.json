@@ -2,6 +2,7 @@
   "slug": "reg-lgs-mt",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mt",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgs",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley General de Salud en Materia de Trasplantes",
   "short_name": "REG-LGS-MT",

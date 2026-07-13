@@ -2,6 +2,7 @@
   "slug": "reg-ltf",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-ltf",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:ltf",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley de Tesorería de la Federación",
   "short_name": "REG-LTF",

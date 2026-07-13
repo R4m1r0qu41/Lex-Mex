@@ -2,6 +2,7 @@
   "slug": "reg-lgtrata",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgtrata",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgtrata",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos",
   "short_name": "REG-LGTRATA",

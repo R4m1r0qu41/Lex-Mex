@@ -2,6 +2,7 @@
   "slug": "reg-lfcpq",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfcpq",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lfcpq",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos",
   "short_name": "REG-LFCPQ",

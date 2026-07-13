@@ -2,6 +2,7 @@
   "slug": "reg-lgcc-rne",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgcc-rne",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgcc",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley General de Cambio Climático en Materia del Registro Nacional de Emisiones",
   "short_name": "REG-LGCC-RNE",

@@ -71,6 +71,13 @@ pub struct SourceConfig {
     pub parser: String,
     pub official_title: String,
     pub short_name: String,
+    /// For `instrument_type == "regulation"`: the `instrument_id` of the
+    /// single parent law this reglamento/DCG regulates. A reglamento
+    /// regulates exactly one law; leave absent when the official title does
+    /// not clearly name a single existing parent instrument (validation
+    /// downgrades that case to a warning rather than failing).
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub regulates: Option<String>,
     pub operational_source: String,
     pub source_url: Url,
     pub reference_url: Option<Url>,

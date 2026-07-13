@@ -2,6 +2,7 @@
   "slug": "reg-lac",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lac",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lac",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley de Aviación Civil",
   "short_name": "REG-LAC",

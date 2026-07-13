@@ -2,6 +2,7 @@
   "slug": "reg-lfpc",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpc",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lfpc",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley Federal de Protección al Consumidor",
   "short_name": "REG-LFPC",

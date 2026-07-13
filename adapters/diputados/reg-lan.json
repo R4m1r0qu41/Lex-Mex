@@ -2,6 +2,7 @@
   "slug": "reg-lan",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lan",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lan",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley de Aguas Nacionales",
   "short_name": "REG-LAN",

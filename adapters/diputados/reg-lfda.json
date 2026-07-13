@@ -2,6 +2,7 @@
   "slug": "reg-lfda",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfda",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lfda",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley Federal del Derecho de Autor",
   "short_name": "REG-LFDA",

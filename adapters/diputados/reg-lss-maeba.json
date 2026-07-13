@@ -2,6 +2,7 @@
   "slug": "reg-lss-maeba",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lss-maeba",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lss",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley del Seguro Social, en materia de administración y enajenación de bienes adjudicados con motivo de la aplicación del procedimiento administrativo de ejecución",
   "short_name": "REG-LSS-MAEBA",

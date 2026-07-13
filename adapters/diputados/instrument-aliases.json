@@ -1,0 +1,209 @@
+{
+  "schema_version": "0.1.0",
+  "description": "Hand-curated citation aliases per instrument short_name: official titles, accent-stripped variants, and colloquial names (e.g. Circular Única de Bancos). Folded from the retired vault linker (link_cross_references.py) on 2026-07-11.",
+  "aliases": {
+    "CCom": [
+      "Código de Comercio",
+      "Codigo de Comercio",
+      "CCom"
+    ],
+    "CCF": [
+      "Código Civil Federal",
+      "Codigo Civil Federal",
+      "CCF"
+    ],
+    "CPF": [
+      "Código Penal Federal",
+      "Codigo Penal Federal",
+      "CPF"
+    ],
+    "CFPC": [
+      "Código Federal de Procedimientos Civiles",
+      "Codigo Federal de Procedimientos Civiles",
+      "CFPC"
+    ],
+    "CNPP": [
+      "Código Nacional de Procedimientos Penales",
+      "Codigo Nacional de Procedimientos Penales",
+      "CNPP"
+    ],
+    "LAmp": [
+      "Ley de Amparo",
+      "LAmp"
+    ],
+    "LFEA": [
+      "Ley de Firma Electrónica Avanzada",
+      "Ley Federal de Firma Electrónica Avanzada",
+      "LFEA"
+    ],
+    "LRITF": [
+      "Ley para Regular las Instituciones de Tecnología Financiera",
+      "LRITF"
+    ],
+    "LGTOC": [
+      "Ley General de Títulos y Operaciones de Crédito",
+      "Ley General de Titulos y Operaciones de Credito",
+      "LGTOC"
+    ],
+    "LBM": [
+      "Ley del Banco de México",
+      "Ley del Banco de Mexico",
+      "LBM"
+    ],
+    "LTOSF": [
+      "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "LTOSF"
+    ],
+    "LIC": [
+      "Ley de Instituciones de Crédito",
+      "Ley de Instituciones de Credito",
+      "LIC"
+    ],
+    "LRAF": [
+      "Ley para Regular las Agrupaciones Financieras",
+      "LRAF"
+    ],
+    "LPAB": [
+      "Ley de Protección al Ahorro Bancario",
+      "Ley de Proteccion al Ahorro Bancario",
+      "LPAB"
+    ],
+    "LPDUSF": [
+      "Ley de Protección y Defensa al Usuario de Servicios Financieros",
+      "Ley de Proteccion y Defensa al Usuario de Servicios Financieros",
+      "LPDUSF"
+    ],
+    "CUB-DCG-2005": [
+      "Disposiciones de carácter general aplicables a las instituciones de crédito",
+      "Disposiciones de caracter general aplicables a las instituciones de credito",
+      "Circular Única de Bancos",
+      "Circular Unica de Bancos",
+      "CUB",
+      "CUB-DCG-2005"
+    ],
+    "LMV": [
+      "Ley del Mercado de Valores",
+      "LMV"
+    ],
+    "LFI": [
+      "Ley de Fondos de Inversión",
+      "Ley de Fondos de Inversion",
+      "LFI"
+    ],
+    "CUE-DCG-2003": [
+      "Disposiciones de carácter general aplicables a las emisoras de valores y a otros participantes del mercado de valores",
+      "Disposiciones de caracter general aplicables a las emisoras de valores y a otros participantes del mercado de valores",
+      "Circular Única de Emisoras",
+      "Circular Unica de Emisoras",
+      "CUE",
+      "CUE-DCG-2003"
+    ],
+    "CUCB-DCG-2004": [
+      "Disposiciones de carácter general aplicables a las casas de bolsa",
+      "Disposiciones de caracter general aplicables a las casas de bolsa",
+      "Circular Única de Casas de Bolsa",
+      "Circular Unica de Casas de Bolsa",
+      "CUCB",
+      "CUCB-DCG-2004"
+    ],
+    "FI-DCG-2014": [
+      "Disposiciones de carácter general aplicables a los fondos de inversión y a las personas que les prestan servicios",
+      "Disposiciones de caracter general aplicables a los fondos de inversion y a las personas que les prestan servicios",
+      "Circular Única de Fondos de Inversión",
+      "Circular Unica de Fondos de Inversion",
+      "FI-DCG-2014"
+    ],
+    "SERVINV-DCG-2013": [
+      "Disposiciones de carácter general aplicables a las entidades financieras y demás personas que proporcionen servicios de inversión",
+      "Disposiciones de caracter general aplicables a las entidades financieras y demas personas que proporcionen servicios de inversion",
+      "SERVINV-DCG-2013"
+    ],
+    "LACP": [
+      "Ley de Ahorro y Crédito Popular",
+      "Ley de Ahorro y Credito Popular",
+      "LACP"
+    ],
+    "LRASCAP": [
+      "Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo",
+      "Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Prestamo",
+      "LRASCAP"
+    ],
+    "SOCAP-SOFIPO-DCG-2006": [
+      "Disposiciones de carácter general aplicables a las entidades de ahorro y crédito popular, organismos de integración, sociedades financieras comunitarias y organismos de integración financiera rural",
+      "Disposiciones de caracter general aplicables a las entidades de ahorro y credito popular, organismos de integracion, sociedades financieras comunitarias y organismos de integracion financiera rural",
+      "SOCAP-SOFIPO-DCG-2006"
+    ],
+    "SCAP-DCG-2012": [
+      "Disposiciones de carácter general aplicables a las actividades de las sociedades cooperativas de ahorro y préstamo",
+      "Disposiciones de caracter general aplicables a las actividades de las sociedades cooperativas de ahorro y prestamo",
+      "SCAP-DCG-2012"
+    ],
+    "LGOAAC": [
+      "Ley General de Organizaciones y Actividades Auxiliares del Crédito",
+      "Ley General de Organizaciones y Actividades Auxiliares del Credito",
+      "LGOAAC"
+    ],
+    "LUC": [
+      "Ley de Uniones de Crédito",
+      "Ley de Uniones de Credito",
+      "LUC"
+    ],
+    "OAAC-DCG-2009": [
+      "Disposiciones de carácter general aplicables a los almacenes generales de depósito, casas de cambio, uniones de crédito y sociedades financieras de objeto múltiple reguladas",
+      "Disposiciones de caracter general aplicables a los almacenes generales de deposito, casas de cambio, uniones de credito y sociedades financieras de objeto multiple reguladas",
+      "OAAC-DCG-2009"
+    ],
+    "LISF": [
+      "Ley de Instituciones de Seguros y de Fianzas",
+      "LISF"
+    ],
+    "LSCS": [
+      "Ley sobre el Contrato de Seguro",
+      "Ley Sobre el Contrato de Seguro",
+      "LSCS",
+      "LCS"
+    ],
+    "CUSF-DCG-2014": [
+      "Circular Única de Seguros y Fianzas",
+      "Circular Unica de Seguros y Fianzas",
+      "CUSF",
+      "CUSF-DCG-2014"
+    ],
+    "LSAR": [
+      "Ley de los Sistemas de Ahorro para el Retiro",
+      "LSAR"
+    ],
+    "LFPIORPI": [
+      "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+      "Ley Federal para la Prevencion e Identificacion de Operaciones con Recursos de Procedencia Ilicita",
+      "LFPIORPI"
+    ],
+    "REG-LFPIORPI": [
+      "Reglamento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+      "Reglamento de la Ley Federal para la Prevencion e Identificacion de Operaciones con Recursos de Procedencia Ilicita",
+      "Reglamento de la LFPIORPI",
+      "REG-LFPIORPI"
+    ],
+    "CONSAR-CUF-DCG-2018": [
+      "Disposiciones de carácter general en materia financiera de los Sistemas de Ahorro para el Retiro",
+      "Disposiciones de caracter general en materia financiera de los Sistemas de Ahorro para el Retiro",
+      "Circular Única Financiera",
+      "Circular Unica Financiera",
+      "CUF",
+      "CONSAR-CUF-DCG-2018"
+    ],
+    "PLD-LIC115-DCG-2009": [
+      "Disposiciones de carácter general a que se refiere el artículo 115 de la Ley de Instituciones de Crédito",
+      "Disposiciones de caracter general a que se refiere el articulo 115 de la Ley de Instituciones de Credito",
+      "PLD-LIC115-DCG-2009"
+    ],
+    "DCG-IFPE-2021": [
+      "Disposiciones aplicables a las instituciones de fondos de pago electrónico",
+      "DCG-IFPE-2021"
+    ],
+    "DCG-ITF-2018": [
+      "Disposiciones de carácter general aplicables a las instituciones de tecnología financiera",
+      "DCG-ITF-2018"
+    ]
+  }
+}

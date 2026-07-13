@@ -2,6 +2,7 @@
   "slug": "reg-lce",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lce",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lce",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley de Comercio Exterior",
   "short_name": "REG-LCE",

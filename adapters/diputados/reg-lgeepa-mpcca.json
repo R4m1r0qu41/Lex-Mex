@@ -2,6 +2,7 @@
   "slug": "reg-lgeepa-mpcca",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-mpcca",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgeepa",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Prevención y Control de la Contaminación de la Atmósfera",
   "short_name": "REG-LGEEPA-MPCCA",

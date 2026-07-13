@@ -2,6 +2,7 @@
   "slug": "reg-lfea",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfea",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lfea",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley de Firma Electrónica Avanzada",
   "short_name": "REG-LFEA",

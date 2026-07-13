@@ -2,6 +2,7 @@
   "slug": "reg-lgn",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgn",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgn",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley de la Guardia Nacional",
   "short_name": "REG-LGN",

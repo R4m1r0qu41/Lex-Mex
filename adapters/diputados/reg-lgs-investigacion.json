@@ -2,6 +2,7 @@
   "slug": "reg-lgs-investigacion",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-investigacion",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgs",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley General de Salud en Materia de Investigación para la Salud",
   "short_name": "REG-LGS-INVESTIGACION",

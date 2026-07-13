@@ -1,5 +1,5 @@
 use std::{
-    collections::{HashMap, HashSet},
+    collections::{BTreeMap, HashMap, HashSet},
     fs,
     io::Write as _,
     path::{Path, PathBuf},
@@ -435,14 +435,18 @@ fn adapter_paths(root: &Path) -> Result<Vec<PathBuf>> {
 
 /// Instrument adapter configs are `adapters/<source>/<slug>.json`. A file
 /// whose name starts with `_` is shared configuration data (for example
-/// `_instrument-aliases.json`, `_named-offenses.json`), not an instrument
-/// adapter, and is never parsed as `SourceConfig`.
+/// `_named-offenses.json`), not an instrument adapter, and is never parsed
+/// as `SourceConfig`. `instrument-aliases.json` is the one shared config
+/// loaded directly by its own path (`extract_instrument_references`) rather
+/// than scanned, so it is excluded by name instead of the underscore
+/// convention now that cross-instrument linking depends on it.
 fn is_adapter_config(path: &Path) -> bool {
     path.extension()
         .is_some_and(|extension| extension == "json")
-        && !path
-            .file_name()
-            .is_some_and(|name| name.to_string_lossy().starts_with('_'))
+        && path.file_name().is_some_and(|name| {
+            let name = name.to_string_lossy();
+            !name.starts_with('_') && name != "instrument-aliases.json"
+        })
 }
 
 fn run_pipeline(
@@ -1230,11 +1234,26 @@ fn extract_instrument_references(
     if context.config.reference_policy.as_deref() == Some("internal") {
         return extract_internal_references(provisions);
     }
+    let siblings = read_sibling_corpora(root, &instrument.id)?;
     let mut known_targets: HashSet<String> =
         provisions.iter().map(|item| item.id.clone()).collect();
-    for (_, corpus) in read_sibling_corpora(root, &instrument.id)? {
+    for (_, corpus) in &siblings {
         known_targets.extend(corpus.provisions.iter().map(|item| item.id.clone()));
     }
+    let mut external_instruments: Vec<(String, String)> =
+        global_external_instruments(root, instrument, &siblings)?;
+    external_instruments.extend(
+        context
+            .config
+            .external_instruments
+            .iter()
+            .map(|external| (external.name_marker.clone(), external.instrument_id.clone())),
+    );
+    // `sentence_target` breaks position ties in favor of whichever marker
+    // comes first in this list, so a longer, more specific phrase (e.g.
+    // "ley del mercado de valores") must sort ahead of any shorter phrase it
+    // contains (a bare "ley ..." fragment) to win the tie.
+    external_instruments.sort_by_key(|(marker, _)| std::cmp::Reverse(marker.len()));
     let options = ReferenceOptions {
         policy: InstrumentContextPolicy::SentenceEarliestMarker {
             internal_markers: context
@@ -1242,12 +1261,7 @@ fn extract_instrument_references(
                 .internal_reference_markers
                 .clone()
                 .unwrap_or_else(|| self_reference_markers(&context.config.instrument_type)),
-            external_instruments: context
-                .config
-                .external_instruments
-                .iter()
-                .map(|external| (external.name_marker.clone(), external.instrument_id.clone()))
-                .collect(),
+            external_instruments,
         },
         transitory_citations: true,
         same_article_fractions: true,
@@ -1259,6 +1273,61 @@ fn extract_instrument_references(
         &options,
         &known_targets,
     )
+}
+
+/// The hand-curated `adapters/diputados/instrument-aliases.json` table:
+/// official-title phrases and colloquial names per instrument `short_name`.
+#[derive(Debug, serde::Deserialize)]
+struct InstrumentAliasTable {
+    #[allow(dead_code)]
+    schema_version: String,
+    #[allow(dead_code)]
+    description: String,
+    aliases: BTreeMap<String, Vec<String>>,
+}
+
+/// Build the global cross-instrument marker list from the alias table: one
+/// `(lowercase phrase, target instrument_id)` pair per descriptive-title
+/// phrase (a phrase containing a space) whose `short_name` resolves to an
+/// ingested instrument other than `instrument` itself. Bare acronyms (no
+/// space) are excluded — they are too likely to collide with ordinary
+/// prose — and a `short_name` with no ingested match is skipped rather than
+/// treated as an error, since the alias table intentionally covers
+/// instruments beyond the currently ingested corpus.
+fn global_external_instruments(
+    root: &Path,
+    instrument: &Instrument,
+    siblings: &[(String, Corpus)],
+) -> Result<Vec<(String, String)>> {
+    let alias_path = root.join("adapters/diputados/instrument-aliases.json");
+    if !alias_path.is_file() {
+        return Ok(Vec::new());
+    }
+    let table: InstrumentAliasTable = read_json(&alias_path)?;
+    let mut short_name_to_id: HashMap<&str, &str> = HashMap::new();
+    short_name_to_id.insert(instrument.short_name.as_str(), instrument.id.as_str());
+    for (_, sibling) in siblings {
+        short_name_to_id.insert(
+            sibling.instrument.short_name.as_str(),
+            sibling.instrument.id.as_str(),
+        );
+    }
+    let mut external = Vec::new();
+    for (short_name, phrases) in &table.aliases {
+        let Some(&target_id) = short_name_to_id.get(short_name.as_str()) else {
+            continue;
+        };
+        if target_id == instrument.id {
+            continue;
+        }
+        for phrase in phrases {
+            if !phrase.contains(' ') {
+                continue;
+            }
+            external.push((phrase.to_lowercase(), target_id.to_owned()));
+        }
+    }
+    Ok(external)
 }
 
 fn run_link(root: &Path, context: &InstrumentContext) -> Result<()> {
@@ -1640,11 +1709,14 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
     let corpus = read_corpus(paths)?;
     let mut external_targets = HashSet::new();
     let mut external_terms = HashSet::new();
+    let mut known_instrument_ids: HashSet<String> = HashSet::new();
+    known_instrument_ids.insert(corpus.instrument.id.clone());
     for (_, sibling) in read_sibling_corpora(root, &corpus.instrument.id)? {
         external_targets.extend(sibling.provisions.iter().map(|item| item.id.clone()));
         external_terms.extend(sibling.terms.iter().map(|term| term.id.clone()));
+        known_instrument_ids.insert(sibling.instrument.id.clone());
     }
-    let report = validate_corpus(
+    let mut report = validate_corpus(
         &CorpusView {
             instrument_id: &corpus.instrument.id,
             official_title: Some(corpus.instrument.official_title.as_str()),
@@ -1665,6 +1737,13 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
         &external_targets,
         &external_terms,
     );
+    report
+        .issues
+        .extend(validate_regulates(config, &known_instrument_ids));
+    report.valid = !report
+        .issues
+        .iter()
+        .any(|issue| issue.severity == lex_core::Severity::Error);
     write_validation(&report, &paths.corpus)?;
     println!(
         "validation: {}; {} articles, {} transitories, {} references, {} issues",
@@ -1675,6 +1754,51 @@ fn run_validate(root: &Path, context: &InstrumentContext) -> Result<lex_core::Va
         report.issues.len()
     );
     Ok(report)
+}
+
+/// Validate the adapter-only `regulates` (parent-law) field: a regulation
+/// must name an existing instrument among the corpus (self + siblings) when
+/// set, an unset value is a warning (not every regulation's parent law is
+/// resolvable from its title alone), and a non-regulation must never set it.
+fn validate_regulates(
+    config: &SourceConfig,
+    known_instrument_ids: &HashSet<String>,
+) -> Vec<lex_core::ValidationIssue> {
+    let mut issues = Vec::new();
+    let is_regulation = config.instrument_type == "regulation";
+    match (&config.regulates, is_regulation) {
+        (Some(target), true) if !known_instrument_ids.contains(target) => {
+            issues.push(lex_core::ValidationIssue {
+                severity: lex_core::Severity::Error,
+                code: "regulates_target_missing".to_owned(),
+                message: format!(
+                    "regulates names {target}, which is not in the corpus (self or siblings)"
+                ),
+                provision_id: None,
+            });
+        }
+        (None, true) => {
+            issues.push(lex_core::ValidationIssue {
+                severity: lex_core::Severity::Warning,
+                code: "regulates_unset".to_owned(),
+                message: "regulation has no regulates (parent-law) field set".to_owned(),
+                provision_id: None,
+            });
+        }
+        (Some(_), false) => {
+            issues.push(lex_core::ValidationIssue {
+                severity: lex_core::Severity::Error,
+                code: "regulates_on_non_regulation".to_owned(),
+                message: format!(
+                    "regulates is set but instrument_type is {:?}, not regulation",
+                    config.instrument_type
+                ),
+                provision_id: None,
+            });
+        }
+        _ => {}
+    }
+    issues
 }
 
 fn run_export(

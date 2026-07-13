@@ -2,6 +2,7 @@
   "slug": "reg-lgeepa-meia",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-meia",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgeepa",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Evaluación del Impacto Ambiental",
   "short_name": "REG-LGEEPA-MEIA",

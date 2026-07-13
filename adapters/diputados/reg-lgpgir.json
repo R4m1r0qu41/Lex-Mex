@@ -2,6 +2,7 @@
   "slug": "reg-lgpgir",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgpgir",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley General para la Prevención y Gestión Integral de los Residuos",
   "short_name": "REG-LGPGIR",

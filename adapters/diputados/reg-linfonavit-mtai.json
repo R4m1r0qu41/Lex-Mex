@@ -2,6 +2,7 @@
   "slug": "reg-linfonavit-mtai",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-linfonavit-mtai",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:linfonavit",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores en Materia de Transparencia y Acceso a la Información",
   "short_name": "REG-LINFONAVIT-MTAI",

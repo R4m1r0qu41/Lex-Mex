@@ -2,6 +2,7 @@
   "slug": "reg-lncm",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lncm",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lncm",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley de Navegación y Comercio Marítimos",
   "short_name": "REG-LNCM",

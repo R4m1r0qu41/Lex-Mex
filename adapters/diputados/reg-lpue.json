@@ -2,6 +2,7 @@
   "slug": "reg-lpue",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lpue",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lpue",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley de Puertos",
   "short_name": "REG-LPUE",

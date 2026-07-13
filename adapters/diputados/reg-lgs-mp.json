@@ -2,6 +2,7 @@
   "slug": "reg-lgs-mp",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mp",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgs",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley General de Salud en Materia de Publicidad",
   "short_name": "REG-LGS-MP",

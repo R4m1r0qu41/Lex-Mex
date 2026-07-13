@@ -2,6 +2,7 @@
   "slug": "reg-laero",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-laero",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:laero",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley de Aeropuertos",
   "short_name": "REG-LAERO",

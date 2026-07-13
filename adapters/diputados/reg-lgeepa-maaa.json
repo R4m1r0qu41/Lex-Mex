@@ -2,6 +2,7 @@
   "slug": "reg-lgeepa-maaa",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgeepa-maaa",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgeepa",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Autorregulación y Auditorías Ambientales",
   "short_name": "REG-LGEEPA-MAAA",

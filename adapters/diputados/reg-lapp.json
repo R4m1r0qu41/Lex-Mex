@@ -2,6 +2,7 @@
   "slug": "reg-lapp",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lapp",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lapp",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley de Asociaciones Público Privadas",
   "short_name": "REG-LAPP",

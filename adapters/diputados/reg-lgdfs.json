@@ -2,6 +2,7 @@
   "slug": "reg-lgdfs",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgdfs",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgdfs",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley General de Desarrollo Forestal Sustentable",
   "short_name": "REG-LGDFS",

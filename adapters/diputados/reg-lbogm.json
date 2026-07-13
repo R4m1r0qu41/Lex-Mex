@@ -2,6 +2,7 @@
   "slug": "reg-lbogm",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lbogm",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lbogm",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley de Bioseguridad de Organismos Genéticamente Modificados",
   "short_name": "REG-LBOGM",

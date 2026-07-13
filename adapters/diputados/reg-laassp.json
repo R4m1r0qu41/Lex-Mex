@@ -2,6 +2,7 @@
   "slug": "reg-laassp",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-laassp",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:laassp",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público",
   "short_name": "REG-LAASSP",

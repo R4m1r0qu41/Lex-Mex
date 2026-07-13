@@ -2,6 +2,7 @@
   "slug": "itf-dcg-2018",
   "instrument_id": "urn:lex-mx:federal:regulation:itf-dcg-2018",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lritf",
   "parser": "itf-dcg",
   "official_title": "Disposiciones de carácter general aplicables a las instituciones de tecnología financiera",
   "short_name": "DCG-ITF-2018",

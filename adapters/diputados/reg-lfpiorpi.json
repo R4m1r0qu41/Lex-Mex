@@ -2,6 +2,7 @@
   "slug": "reg-lfpiorpi",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfpiorpi",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lfpiorpi",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
   "short_name": "REG-LFPIORPI",

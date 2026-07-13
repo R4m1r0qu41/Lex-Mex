@@ -2,6 +2,7 @@
   "slug": "reg-lgs-mcsaeps",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lgs-mcsaeps",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lgs",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades, Establecimientos, Productos y Servicios",
   "short_name": "REG-LGS-MCSAEPS",
