@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfjs",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Juegos y Sorteos",
+  "short_name": "LFJS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1947-12-31",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-13T19:02:14.251883Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/109.pdf",
+  "source_sha256": "5ae2f5245fba7e584da7b7912f7a25342b8af171b291f52befe753a9139ac277",
+  "extracted_text_sha256": "9ae8af411cb637abcc466c5097a01b0ec131ac273f358b68a5b9c858281c19ad",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
