@@ -1,5 +1,49 @@
 # Architecture decisions
 
+## 2026-07-12 — Old CNBV compilation format (2003–2015 DCGs)
+
+Ingesting the six older CNBV disposiciones (cue-2003, cucb-2004, cub-2005,
+socap-sofipo-2006, oaac-2009, fi-2014) generalized the `itf-dcg` parser,
+which had been tuned to the 2018 vintage. The format diverges in several
+ways at once; each is handled additively so the committed itf-dcg-2018,
+scap-dcg-2012, and ifpe corpora stay byte-identical (verified by the itf
+fixture tests and a scap re-parse):
+
+- **Preamble/índice is skipped until the first article.** These documents
+  open with a table of contents that echoes a `TRANSITORIOS` heading and the
+  annex list — each with its own `(N)` markers — before Artículo 1. Region
+  transitions and marker accumulation are gated on `body_started`, set at
+  the first article heading; otherwise the índice `TRANSITORIOS` echo flips
+  the scanner into the transitorios region and every body marker strands
+  (the SOCAP/OAAC failure, ~1,600–3,200 stranded marks). Índice markers are
+  redundant with the same marker on the provision they annotate — still
+  recorded in the REFERENCIAS legend — so preamble markers are dropped.
+- **Ordinal article abbreviations** (`Artículo 1o.-` … `9o.-`, also `º`/`°`)
+  are accepted and normalized to the plain number (`1o` → `1`, as `8 ≡ 8o`).
+- **Feminine and singular transitorios** — the section heading in
+  `TRANSITORIO`/`TRANSITORIA`/`TRANSITORIAS` as well as `TRANSITORIOS`, and
+  feminine ordinals (`ÚNICA`, `PRIMERA`…) — because a "Disposición
+  Transitoria" is feminine.
+- **Attribution dates are accumulated across line wraps** that can split the
+  date itself (`… el 12 de enero de` / `2015)`); the date before the closing
+  paren resolves the section (its markers otherwise strand).
+- **A marker at the foot of a section attaches to that section's last
+  provision** before the section is flushed at a `TRANSITORIOS` heading;
+  a true remainder is heading-level marginalia and is dropped. Markers in a
+  trailing CONSIDERANDO or the REFERENCIAS legend are likewise marginalia,
+  dropped rather than errored. A structural mis-parse now surfaces through
+  the article-count/gap and legend-presence checks rather than a stranded
+  marker.
+- **Parenthesized legend numbers** (`(N)  text`) are accepted alongside the
+  bare `N)  text` form.
+- **`allow_article_gaps: true`** on each adapter: these compilations renumber
+  away derogated articles (e.g. cue has 15 Bis with no bare 15), a legitimate
+  gap, so the sequential-order check yields warnings, not errors.
+
+All six validate with zero errors, counts unfrozen (matching the
+scap/servinv precedent). Result: cue 114 arts, fi 232, cucb 337, oaac 295,
+socap 548, cub 705.
+
 ## 2026-07-12 — CNBV amendment resolution, in-force status, corpus currency
 
 Ratified with JRH after the CNBV DCG batch surfaced how the `(N)` markers

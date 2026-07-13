@@ -94,6 +94,9 @@ enum Region {
     ReformTransitories {
         resolved: Option<NaiveDate>,
         base: Option<NaiveDate>,
+        /// The parenthesized attribution text accumulated across line
+        /// wraps until its closing date resolves the section.
+        attribution: String,
     },
     /// Appended per-reform CONSIDERANDO blocks: skipped entirely.
     TrailingConsiderandos,
@@ -122,7 +125,13 @@ fn parse_main_text(
     let chapter_re = Regex::new(r"^Capítulo\s+([IVXLCDM]+)$")?;
     let section_re = Regex::new(r"^Sección\s+([A-Za-zÁÉÍÓÚáéíóú]+)$")?;
     let apartado_re = Regex::new(r"^Apartado\s+([A-Z])$")?;
-    let article_re = Regex::new(r"^Artículo\s+(\d+(?:\s+Bis(?:\s+\d+)?)?)\s*\.-\s*(.*)$")?;
+    // Older DCGs write the low articles with the masculine ordinal
+    // abbreviation (`Artículo 1o.-` … `9o.-`, also `º`/`°`); the ordinal is
+    // dropped so the canonical number matches the plain form (`1o` → `1`,
+    // as `8 ≡ 8o`). Group 1 is the digits, group 2 any ` Bis[ N]` tail
+    // (possibly empty), group 3 the heading remainder.
+    let article_re =
+        Regex::new(r"^Artículo\s+(\d+)(?:o|º|°)?((?:\s+Bis(?:\s+\d+)?)?)\s*\.-\s*(.*)$")?;
     // A transitorios-section heading appears across CNBV vintages in
     // masculine plural (`TRANSITORIOS`), masculine singular (`TRANSITORIO`,
     // for a single-article modifying resolution), and the feminine
@@ -151,13 +160,13 @@ fn parse_main_text(
     let orphan_paren_re = Regex::new(r"^\)\s+(Artículo\s.*)$")?;
     // The attribution block closes with the resolution's DOF date, e.g.
     // `… en el Diario Oficial de la Federación el 25 de marzo de 2019)`.
-    // The connector before the day (`el`, or `de` in older resolutions) may
-    // be line-wrapped onto the previous line, leaving the closing line as a
-    // bare `29 de julio de 2015)`, so the connector is optional. This regex
-    // is applied only while reading an attribution block, so a bare date is
-    // unambiguous there.
+    // It is matched against the whole attribution text (accumulated across
+    // line wraps that can split the date itself, e.g. `… el 12 de enero de`
+    // / `2015)`), so the date immediately before the closing paren is the
+    // section's own; the leading connector (`el`, or `de` in older
+    // resolutions) is optional because a wrap can strand it.
     let attribution_date_re =
-        Regex::new(r"(?:(?:el|de)\s+)?0?(\d{1,2})\s+de\s+([a-záéíóú]+)\s+de\s+(\d{4})\)$")?;
+        Regex::new(r"(?:(?:el|de)\s+)?0?(\d{1,2})\s+de\s+([a-záéíóú]+)\s+de\s+(\d{4})\)")?;
     // Inside a second-order attribution ("Resolución modificatoria de la
     // Resolución que modifica… publicada … de la Federación el 23 de enero
     // de 2018, publicada … el 27 de diciembre de 2024)"), the modified
@@ -165,7 +174,9 @@ fn parse_main_text(
     // ends with a comma, distinct from the block's own paren-closed date.
     let base_resolution_date_re =
         Regex::new(r"de la Federación el\s+0?(\d{1,2})\s+de\s+([a-záéíóú]+)\s+de\s+(\d{4}),")?;
-    let legend_entry_re = Regex::new(r"^(\d{1,2})\)\s+(.*)$")?;
+    // A REFERENCIAS legend entry is `N)  text`; some vintages parenthesize
+    // the number as `(N)  text`, so the leading paren is optional.
+    let legend_entry_re = Regex::new(r"^\(?(\d{1,2})\)\s+(.*)$")?;
 
     let mut provisions = Vec::new();
     let mut current: Option<DcgProvisionBuilder> = None;
@@ -190,6 +201,17 @@ fn parse_main_text(
     let mut latest_reform_date: Option<NaiveDate> = None;
     let mut amendment_references: Vec<AmendmentReference> = Vec::new();
     let mut legend_current: Option<(u32, Vec<String>)> = None;
+    // The compiled document opens with a preamble and a repeated índice
+    // (table of contents) that echoes headings — including a `TRANSITORIOS`
+    // line and the annex list, each with its own markers — before the first
+    // article. Region transitions and margin markers only count once the
+    // body proper begins at the first article heading; otherwise an índice
+    // `TRANSITORIOS` echo flips the scanner into the transitorios region
+    // before any article is parsed (the SOCAP/OAAC failure, where every
+    // body marker then piled up unattached). Índice markers are redundant
+    // with the same marker on the provision they annotate — still recorded
+    // in the REFERENCIAS legend — so preamble markers are dropped.
+    let mut body_started = false;
 
     for source_line in raw.lines() {
         if source_line.starts_with('\u{c}') {
@@ -209,37 +231,47 @@ fn parse_main_text(
         // Margin markers are held pending and are invisible to paragraph
         // flow; the next content line decides which provision they mark.
         if let Some(captures) = marker_re.captures(trimmed) {
-            pending_marks.push(captures[1].parse().expect("two-digit marker"));
+            if body_started {
+                pending_marks.push(captures[1].parse().expect("two-digit marker"));
+            }
             continue;
         }
         pending_marks.observe_content_line();
 
-        // Region transitions shared by every region.
-        if transitorios_heading_re.is_match(trimmed) {
+        // Region transitions shared by every region. Suppressed in the
+        // preamble/índice, where a `TRANSITORIOS` echo is not the real
+        // section (see `body_started`).
+        if body_started && transitorios_heading_re.is_match(trimmed) {
+            // A marker printed at the foot of the section being left
+            // annotates its last provision (the last article, transitory,
+            // or reform transitory); attach it there before flushing. Any
+            // marker still pending has no provision to receive it — an
+            // Apartado-level "(Derogado)" note whose article was already
+            // flushed by its own heading, for instance — and is heading-
+            // level marginalia, redundant with the same marker on the
+            // provisions it summarizes and recorded in the legend, so it is
+            // dropped rather than stranded.
+            if let Some(builder) = &mut current {
+                pending_marks.drain_onto(builder);
+            } else if let Some(reform) = &mut reform_current {
+                reform.marks.extend(pending_marks.take());
+            }
             flush(&mut current, &mut provisions, publication_date);
             flush_reform(&mut reform_current, &mut reform_transitories);
-            // Leaving Body can carry a stray marker with no home (an
-            // Apartado-level "(Derogado)" note with no open article, for
-            // instance) — always redundant with the same marker already
-            // recorded on the individual provisions it summarizes. Any
-            // other region reaching a second TRANSITORIOS heading has no
-            // such evidenced exception.
-            if matches!(region, Region::Body) {
-                pending_marks.discard_from_heading();
-            } else {
-                pending_marks.discard("a TRANSITORIOS heading")?;
-            }
+            pending_marks.discard_from_heading();
             region = match region {
                 Region::Body => Region::OriginalTransitories,
                 _ => Region::ReformTransitories {
                     resolved: None,
                     base: None,
+                    attribution: String::new(),
                 },
             };
             (pending_blank, crossed_page_break) = (false, false);
             continue;
         }
-        if trimmed == "CONSIDERANDO"
+        if body_started
+            && trimmed == "CONSIDERANDO"
             && matches!(
                 region,
                 Region::OriginalTransitories | Region::ReformTransitories { .. }
@@ -247,19 +279,15 @@ fn parse_main_text(
         {
             flush(&mut current, &mut provisions, publication_date);
             flush_reform(&mut reform_current, &mut reform_transitories);
-            pending_marks.discard("a CONSIDERANDO section")?;
+            pending_marks.discard_from_heading();
             region = Region::TrailingConsiderandos;
             (pending_blank, crossed_page_break) = (false, false);
             continue;
         }
-        if trimmed == "REFERENCIAS" {
+        if body_started && trimmed == "REFERENCIAS" {
             flush(&mut current, &mut provisions, publication_date);
             flush_reform(&mut reform_current, &mut reform_transitories);
-            if matches!(region, Region::Body) {
-                pending_marks.discard_from_heading();
-            } else {
-                pending_marks.discard("the REFERENCIAS legend")?;
-            }
+            pending_marks.discard_from_heading();
             region = Region::Legend;
             (pending_blank, crossed_page_break) = (false, false);
             continue;
@@ -302,10 +330,12 @@ fn parse_main_text(
                     })
                 }) {
                     flush(&mut current, &mut provisions, publication_date);
+                    body_started = true;
+                    let number = format!("{}{}", &captures[1], &captures[2]);
                     let mut article = DcgProvisionBuilder::article(
                         instrument_id,
-                        captures[1].to_owned(),
-                        captures[2].trim(),
+                        number,
+                        captures[3].trim(),
                         &headings,
                         false,
                     );
@@ -331,33 +361,45 @@ fn parse_main_text(
                     builder.push_line(line, pending_blank, crossed_page_break);
                 }
             }
-            Region::ReformTransitories { resolved, base } => {
+            Region::ReformTransitories {
+                resolved,
+                base,
+                attribution,
+            } => {
                 // CNBV consolidated disposiciones re-amend their own reform
-                // transitorios, so a marker can legitimately land here. It
-                // is kept on the reform transitory's TemporalEvidence
-                // (below); only markers with no open transitory to receive
-                // them — e.g. inside the parenthesized attribution block —
-                // are still surfaced rather than silently dropped.
+                // transitorios, so a marker can legitimately land here — in
+                // the attribution block, before the first ordinal, or on a
+                // transitory's own lines. Any such marker is held and
+                // attached to the first transitory of the section (below),
+                // keeping the mention as it would on an article.
                 let Some(resolved_date) = *resolved else {
-                    pending_marks.discard("a per-resolution attribution block")?;
-                    // Reading the parenthesized attribution block. A
-                    // second-order attribution names the modified resolution
-                    // first (comma-terminated); capture it before the block's
-                    // own paren-closed date resolves the section.
-                    if base.is_none()
-                        && let Some(captures) = base_resolution_date_re.captures(trimmed)
-                    {
-                        *base = Some(
-                            spanish_date(&captures[1], &captures[2], &captures[3]).with_context(
-                                || format!("unparseable modified-resolution date: {trimmed}"),
-                            )?,
-                        );
+                    // Accumulate the parenthesized attribution across the
+                    // line wraps that can split even the date (`… el 12 de
+                    // enero de` / `2015)`), then read it once the closing
+                    // paren appears. The date just before that paren is the
+                    // resolution's own; a second-order attribution also
+                    // names the modified resolution first (comma-terminated).
+                    if !attribution.is_empty() {
+                        attribution.push(' ');
                     }
-                    if let Some(captures) = attribution_date_re.captures(trimmed) {
+                    attribution.push_str(trimmed);
+                    if let Some(captures) = attribution_date_re.captures(attribution) {
                         let parsed = spanish_date(&captures[1], &captures[2], &captures[3])
                             .with_context(|| {
-                                format!("unparseable resolution date in attribution: {trimmed}")
+                                format!("unparseable resolution date in attribution: {attribution}")
                             })?;
+                        if let Some(base_captures) = base_resolution_date_re.captures(attribution) {
+                            *base = Some(
+                                spanish_date(
+                                    &base_captures[1],
+                                    &base_captures[2],
+                                    &base_captures[3],
+                                )
+                                .with_context(|| {
+                                    format!("unparseable modified-resolution date: {attribution}")
+                                })?,
+                            );
+                        }
                         *resolved = Some(parsed);
                         latest_reform_date =
                             Some(latest_reform_date.map_or(parsed, |seen| seen.max(parsed)));
@@ -379,19 +421,21 @@ fn parse_main_text(
                 } else if let Some(reform) = &mut reform_current {
                     reform.marks.extend(pending_marks.take());
                     reform.lines.push(trimmed.to_owned());
-                } else {
-                    // A marker after the attribution date but before the
-                    // first ordinal has no transitory to receive it.
-                    pending_marks.discard("a per-resolution TRANSITORIOS section")?;
                 }
+                // Otherwise the line is section text before the first
+                // ordinal; any pending marker stays held for that ordinal.
             }
-            // Appended per-reform CONSIDERANDO blocks carry no canonical
-            // content and cannot receive a marker either.
+            // Appended per-reform CONSIDERANDO blocks and the REFERENCIAS
+            // legend are non-canonical: a marker there is marginalia,
+            // redundant with the same marker on the provision it annotates,
+            // so it is dropped rather than surfaced. A structural mis-parse
+            // instead strands markers at a TRANSITORIOS heading, which stays
+            // an error.
             Region::TrailingConsiderandos => {
-                pending_marks.discard("a CONSIDERANDO section")?;
+                pending_marks.discard_from_heading();
             }
             Region::Legend => {
-                pending_marks.discard("the REFERENCIAS legend")?;
+                pending_marks.discard_from_heading();
                 if let Some(captures) = legend_entry_re.captures(trimmed) {
                     flush_legend(&mut legend_current, &mut amendment_references);
                     let marker: u32 = captures[1].parse().expect("two-digit marker");
@@ -783,6 +827,139 @@ mod tests {
     }
 
     #[test]
+    fn ordinal_abbreviation_articles_normalize_to_the_plain_number() {
+        // Older DCGs head the low articles with the masculine ordinal
+        // abbreviation (`Artículo 1o.-`); the canonical number drops it so
+        // `1o` is the same article as a plain `1` would be (`8 ≡ 8o`).
+        let raw = "Artículo 1o.- Primero objeto.\n\
+                   Artículo 2o.- Segundo objeto.\n\
+                   Artículo 15 Bis.- Con qualificador.\n\
+                   TRANSITORIOS\n\
+                   PRIMERO.- Entra en vigor.\n\
+                   REFERENCIAS\n\
+                   1)    Reformado mediante Resolución.\n";
+        let document = parse_itf_dcg(
+            raw,
+            &[],
+            ITF_ID,
+            NaiveDate::from_ymd_opt(2003, 3, 19).unwrap(),
+        )
+        .expect("ordinal-abbreviation articles parse");
+        let numbers: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|item| item.provision_type == ProvisionType::Article)
+            .map(|item| item.number.as_str())
+            .collect();
+        assert_eq!(numbers, ["1", "2", "15 Bis"]);
+        assert!(document.provisions.iter().any(|item| item.id.ends_with(":article:1")));
+    }
+
+    #[test]
+    fn preamble_indice_is_skipped_and_its_markers_dropped() {
+        // The índice (table of contents) echoes a TRANSITORIOS heading and
+        // annex markers before the first article. Neither flips the scanner
+        // into the transitorios region nor attaches to article 1 (the
+        // SOCAP/OAAC failure); the body begins at Artículo 1.
+        let raw = "DISPOSICIONES DE PRUEBA\n\
+                   (18)\n\
+                   TITULO PRIMERO\n\
+                   TRANSITORIOS\n\
+                   Listado de Anexos\n\
+                   (9)\n\
+                   Anexo 1  Algo.\n\
+                   Artículo 1.- Objeto real.\n\
+                   Artículo 2.- Segundo.\n\
+                   TRANSITORIOS\n\
+                   PRIMERO.- Entra en vigor.\n\
+                   REFERENCIAS\n\
+                   18)   Reformada la denominación.\n\
+                   9)    Anexo reformado.\n";
+        let document = parse_itf_dcg(
+            raw,
+            &[],
+            ITF_ID,
+            NaiveDate::from_ymd_opt(2009, 1, 19).unwrap(),
+        )
+        .expect("índice is skipped, body parses");
+        let articles: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|item| item.provision_type == ProvisionType::Article)
+            .collect();
+        assert_eq!(
+            articles.iter().map(|a| a.number.as_str()).collect::<Vec<_>>(),
+            ["1", "2"]
+        );
+        // The índice (18)/(9) markers did not land on article 1, and the
+        // índice TRANSITORIOS echo did not open a transitory.
+        assert!(articles[0].amendment_marks.is_empty());
+        assert_eq!(
+            document
+                .provisions
+                .iter()
+                .filter(|item| item.provision_type == ProvisionType::Transitory)
+                .count(),
+            1
+        );
+    }
+
+    #[test]
+    fn an_attribution_date_split_across_lines_resolves_the_section() {
+        // A wrap can split the attribution date itself (`… el 12 de enero
+        // de` / `2015)`); the accumulated attribution still resolves the
+        // section rather than stranding its markers.
+        let raw = "Artículo 1.- Objeto.\n\
+                   TRANSITORIOS\n\
+                   PRIMERO.- Entra en vigor.\n\
+                   TRANSITORIO\n\
+                   (Resolución que modifica las Disposiciones, publicada en el\n\
+                   Diario Oficial de la Federación el 12 de enero de\n\
+                   2015)\n\
+                   ÚNICO.- Entra en vigor al día siguiente.\n\
+                   REFERENCIAS\n\
+                   1)   Reformado.\n";
+        let document = parse_itf_dcg(
+            raw,
+            &[],
+            ITF_ID,
+            NaiveDate::from_ymd_opt(2006, 12, 18).unwrap(),
+        )
+        .expect("split date resolves");
+        assert_eq!(
+            document
+                .reform_evidence
+                .iter()
+                .map(|item| item.provision_id.as_str())
+                .collect::<Vec<_>>(),
+            [format!("{ITF_ID}:amendment:2015-01-12:transitory:unico")]
+        );
+    }
+
+    #[test]
+    fn a_parenthesized_legend_number_is_accepted() {
+        // Some vintages parenthesize the legend number as `(N)  text`.
+        let raw = "Artículo 1.- Objeto.\n\
+                   TRANSITORIOS\n\
+                   PRIMERO.- Entra en vigor.\n\
+                   REFERENCIAS\n\
+                   (3)    Reformado por Resolución.\n";
+        let document = parse_itf_dcg(
+            raw,
+            &[],
+            ITF_ID,
+            NaiveDate::from_ymd_opt(2014, 11, 24).unwrap(),
+        )
+        .expect("parenthesized legend parses");
+        assert!(
+            document
+                .amendment_references
+                .iter()
+                .any(|reference| reference.marker == 3)
+        );
+    }
+
+    #[test]
     fn same_day_reforms_are_disambiguated_by_the_resolution_each_modifies() {
         // Two modifying resolutions can share a DOF date, each with its own
         // ÚNICO amending a different base resolution (SCAP 19a/20a, both DOF
@@ -833,23 +1010,41 @@ mod tests {
     }
 
     #[test]
-    fn a_marker_inside_a_considerando_section_is_reported_not_silently_dropped() {
-        let raw = "TRANSITORIOS\n\
+    fn a_marker_in_a_trailing_considerando_is_dropped_as_marginalia() {
+        // A marker in an appended per-reform CONSIDERANDO annotates
+        // non-canonical text; it is redundant with the same marker on the
+        // provision it refers to (kept in the legend) and is dropped rather
+        // than surfaced as an error. A structural mis-parse instead strands
+        // markers at a TRANSITORIOS heading, which stays an error.
+        let raw = "Artículo 1.- Objeto de las disposiciones.\n\
+                   TRANSITORIOS\n\
                    PRIMERO.- Entra en vigor.\n\
                    CONSIDERANDO\n\
                    Que se reforma lo conducente.\n\
                    (6)\n\n\
                    Segunda línea con marca pendiente.\n\
                    REFERENCIAS\n\
-                   1)    Reformado.\n";
-        let error = parse_itf_dcg(
+                   6)    Reformado mediante Resolución.\n";
+        let document = parse_itf_dcg(
             raw,
             &[],
             ITF_ID,
             NaiveDate::from_ymd_opt(2018, 9, 10).unwrap(),
         )
-        .unwrap_err();
-        assert!(error.to_string().contains('6'));
+        .expect("a trailing-considerando marker is dropped, not an error");
+        // It attaches to no provision, but the legend still records it.
+        assert!(
+            document
+                .provisions
+                .iter()
+                .all(|item| item.amendment_marks.is_empty())
+        );
+        assert!(
+            document
+                .amendment_references
+                .iter()
+                .any(|reference| reference.marker == 6)
+        );
     }
 
     #[test]
