@@ -1,4 +1,4 @@
-use std::{collections::HashMap, fmt::Write as _, fs, path::Path};
+use std::{collections::HashMap, fmt::Write as _, fs, os::unix::fs::PermissionsExt, path::Path};
 
 use anyhow::{Context, Result};
 use lex_core::{
@@ -189,6 +189,10 @@ pub fn write_obsidian(
             );
         }
     }
+    // A prior export locks every file in this folder read-only (see
+    // `lock_instrument_dir`) so Obsidian can't be used to hand-edit
+    // canonical-looking notes; clear that bit before rewriting.
+    unlock_instrument_dir(&instrument_dir)?;
     fs::create_dir_all(&instrument_dir)?;
     let mut generated_files = Vec::with_capacity(corpus.provisions.len() + 1);
     for provision in &corpus.provisions {
@@ -212,10 +216,60 @@ pub fn write_obsidian(
         }),
         &instrument_dir.join("_lex-mex-export.json"),
     )?;
+    // Lock the folder back down now that every file for this instrument
+    // has been (re)written. Only this instrument's own export folder is
+    // touched: `Notas/`, `Revisiones/`, `Adjuntos/`, `Inicio.md`, and the
+    // shared `Corpus/Revisiones pendientes.md` below stay writable.
+    lock_instrument_dir(&instrument_dir)?;
     fs::write(
         output_dir.join("Corpus/Revisiones pendientes.md"),
         obsidian_review_queue(review_items),
     )?;
+    Ok(())
+}
+
+/// Clear the read-only bit on every regular file directly inside an
+/// instrument's vault export folder, so a previous export's lock (see
+/// `lock_instrument_dir`) doesn't reject this export's rewrite. A no-op
+/// when the folder doesn't exist yet (first export).
+fn unlock_instrument_dir(instrument_dir: &Path) -> Result<()> {
+    if !instrument_dir.is_dir() {
+        return Ok(());
+    }
+    for entry in fs::read_dir(instrument_dir)
+        .with_context(|| format!("failed to read {}", instrument_dir.display()))?
+    {
+        let path = entry?.path();
+        if !path.is_file() {
+            continue;
+        }
+        let mut permissions = fs::metadata(&path)?.permissions();
+        if permissions.readonly() {
+            permissions.set_mode(0o644);
+            fs::set_permissions(&path, permissions)
+                .with_context(|| format!("failed to unlock {}", path.display()))?;
+        }
+    }
+    Ok(())
+}
+
+/// Make every regular file directly inside an instrument's vault export
+/// folder read-only, so a person can't accidentally hand-edit
+/// canonical-looking notes in Obsidian. Canonical data lives only in the
+/// repo's `corpus/`; the vault is a rendered view.
+fn lock_instrument_dir(instrument_dir: &Path) -> Result<()> {
+    for entry in fs::read_dir(instrument_dir)
+        .with_context(|| format!("failed to read {}", instrument_dir.display()))?
+    {
+        let path = entry?.path();
+        if !path.is_file() {
+            continue;
+        }
+        let mut permissions = fs::metadata(&path)?.permissions();
+        permissions.set_mode(0o444);
+        fs::set_permissions(&path, permissions)
+            .with_context(|| format!("failed to lock {}", path.display()))?;
+    }
     Ok(())
 }
 
@@ -878,6 +932,49 @@ mod tests {
                 .join("Corpus/Revisiones pendientes.md")
                 .is_file()
         );
+    }
+
+    #[test]
+    fn locks_export_folder_read_only_and_can_still_republish() {
+        use std::os::unix::fs::PermissionsExt;
+
+        let temp = tempdir().unwrap();
+        let corpus = Corpus {
+            instrument: sample_instrument(),
+            provisions: vec![sample_provision()],
+            references: Vec::new(),
+            terms: Vec::new(),
+            term_usages: Vec::new(),
+            amendment_references: Vec::new(),
+        };
+        let targets = link_targets(&[(&corpus, "lritf")]);
+        let terms = term_targets(&[(&corpus, "lritf")], &targets);
+
+        write_obsidian(&corpus, &targets, &terms, &[], temp.path()).unwrap();
+
+        let instrument_dir = temp.path().join("Corpus/LRITF");
+        let provision_file = instrument_dir.join("transitorio-decima-primera.md");
+        let manifest_file = instrument_dir.join("_lex-mex-export.json");
+        for file in [&provision_file, &manifest_file] {
+            let mode = fs::metadata(file).unwrap().permissions().mode() & 0o777;
+            assert_eq!(mode, 0o444, "{} should be locked read-only", file.display());
+        }
+
+        // A second export over the same folder must succeed (the unlock
+        // step must clear the read-only bit before rewriting), not fail
+        // with a permission error, and must re-lock everything afterward.
+        write_obsidian(&corpus, &targets, &terms, &[], temp.path())
+            .expect("republishing a locked export folder must not fail");
+
+        for file in [&provision_file, &manifest_file] {
+            let mode = fs::metadata(file).unwrap().permissions().mode() & 0o777;
+            assert_eq!(
+                mode,
+                0o444,
+                "{} should be locked read-only again after republishing",
+                file.display()
+            );
+        }
     }
 
     #[test]
