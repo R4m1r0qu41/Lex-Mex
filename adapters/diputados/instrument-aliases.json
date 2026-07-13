@@ -2,6 +2,10 @@
   "schema_version": "0.1.0",
   "description": "Hand-curated citation aliases per instrument short_name: official titles, accent-stripped variants, and colloquial names (e.g. Circular Única de Bancos). Folded from the retired vault linker (link_cross_references.py) on 2026-07-11.",
   "aliases": {
+    "LFJS": [
+      "Ley Federal de Juegos y Sorteos",
+      "LFJS"
+    ],
     "CCom": [
       "Código de Comercio",
       "Codigo de Comercio",

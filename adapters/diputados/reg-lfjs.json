@@ -2,6 +2,7 @@
   "slug": "reg-lfjs",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lfjs",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lfjs",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley Federal de Juegos y Sorteos",
   "short_name": "REG-LFJS",
