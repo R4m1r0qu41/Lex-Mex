@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:servinv-dcg-2013",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Disposiciones de carácter general aplicables a las casas de bolsa e instituciones de crédito en materia de servicios de inversión",
+  "short_name": "DCG-SERVINV-2013",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publication_date": "2015-01-09",
+  "latest_reform_date": "2023-09-13",
+  "retrieved_at": "2026-07-13T00:25:30.885653Z",
+  "source_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20entidades%20financieras%20y%20dem%C3%A1s%20personas%20que%20proporcionen%20servicios%20de.pdf",
+  "source_sha256": "0b62b320e197b8b0d4b37f9baff931ff579975397c771c861c73db49d7f12450",
+  "extracted_text_sha256": "467d94f92b6bba527f5f86338487274a7e6a7d284c4dce0625568a82dda50682",
+  "parser_version": "0.1.0",
+  "status": "in_force",
+  "issuing_authorities": [
+    "Comisión Nacional Bancaria y de Valores"
+  ]
+}

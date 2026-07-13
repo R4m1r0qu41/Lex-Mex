@@ -1,0 +1,34 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013",
+  "valid": true,
+  "article_count": 56,
+  "transitory_count": 6,
+  "reference_count": 121,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no article-count baseline frozen; parse found 56 articles",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "counts_not_frozen",
+      "message": "no transitory-count baseline frozen; parse found 6 transitories",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:5-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:article:13-bis"
+    }
+  ]
+}

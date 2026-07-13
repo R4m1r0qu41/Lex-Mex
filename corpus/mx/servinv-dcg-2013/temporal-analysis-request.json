@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.1.0",
+  "prompt_version": "temporal-v2",
+  "instrument_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013",
+  "publication_date": "2015-01-09",
+  "latest_reform_date": "2023-09-13",
+  "relevant_provisions": [
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:transitory:primero",
+      "label": "PRIMERO",
+      "text": "Las normas contenidas en las presentes Disposiciones respecto de las casas de bolsa e instituciones de crédito entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, salvo por lo previsto en la fracción V del Apartado B del Anexo 14 cuya entrada en vigor será a partir del 1 de octubre de 2015."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:transitory:segundo",
+      "label": "SEGUNDO",
+      "text": "Las normas contenidas en los artículos 1, 2, 3, 6, 9, tercer párrafo, 11, segundo párrafo, 19, 20, 21, 22, 25, 32, 34, 35, 36 primero, segundo y tercer párrafos, 37, 38, 39, 40, 43, 46, 47, 48, 49, 50, así como Anexos 2, 8, primer párrafo, fracción I, 9, Apartado A, primer párrafo, fracciones III, V y VII, tercer párrafo, 13, 15 y 18 de estas Disposiciones respecto de las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, entidades que presten dichos servicios y asesores en inversiones, entrarán en vigor el 30 de junio de 2016."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:transitory:tercero",
+      "label": "TERCERO",
+      "text": "Las normas contenidas en los artículos 4, 5, 5 Bis, 7, 8, 9, primer, segundo y último párrafos, 10, 11, primer párrafo, 12, 13, 13 Bis, 14, 15, 16, 17, 18, 23, 24, primer párrafo, 26, 27, 28, 29, 30, 31, 33, 36, cuarto, quinto y último párrafos, 41, 42, 44, 45, 51, 52 y 53, así como Anexos 3, 4, 5, 5 Bis, 6, 7, 8, primer párrafo y fracciones II a VI y segundo y tercer párrafos; 9, Apartado A, primer párrafo, fracciones I, II, IV, VI, VII, primer y segundo párrafos, VIII, así como los Apartados B y C; 10, 11, 12, 14, 16 y 17 de estas Disposiciones, respecto de las sociedades operadoras de fondos de inversión, sociedades distribuidoras de acciones de fondos de inversión, entidades que presten dichos servicios y asesores en inversiones, entrarán en vigor el 1 de diciembre de 2016"
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:transitory:cuarto",
+      "label": "CUARTO",
+      "text": "Las “Disposiciones de carácter general aplicables a las casas de bolsa e instituciones de crédito en materia de servicios de inversión”, publicadas en el Diario Oficial de la Federación el 24 de abril de 2013, y sus respectivas modificaciones quedarán abrogadas el día siguiente al de la publicación en el Diario Oficial de la Federación de las presentes Disposiciones."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:transitory:quinto",
+      "label": "QUINTO",
+      "text": "Las normas contenidas en el artículo 24, segundo, tercero y último párrafos de estas Disposiciones respecto de los asesores en inversiones, entrarán en vigor el 31 de marzo de 2016."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013:transitory:sexto",
+      "label": "SEXTO",
+      "text": "Las normas contenidas en la fracción VI del Anexo 6 de estas Disposiciones respecto de las instituciones de crédito y casas de bolsa entrarán en vigor el 1 de enero de 2017."
+    }
+  ],
+  "required_output_schema": "schemas/temporal-model-output-v2.schema.json"
+}

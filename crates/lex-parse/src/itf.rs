@@ -36,6 +36,14 @@ use crate::dcg::{
 };
 use crate::{reform_evidence_item, spanish_date};
 
+/// Feminine ordinal forms used when transitorios are styled as
+/// "disposiciones transitorias" (`PRIMERA`, `SEGUNDA`, …). Masculine forms
+/// live in [`TRANSITORY_ORDINALS`]; the two are matched together.
+const FEMININE_TRANSITORY_ORDINALS: &[&str] = &[
+    "PRIMERA", "SEGUNDA", "TERCERA", "CUARTA", "QUINTA", "SEXTA", "SÉPTIMA", "OCTAVA", "NOVENA",
+    "DÉCIMA",
+];
+
 /// Everything the compiled main document yields besides annexes.
 #[derive(Debug)]
 pub struct ItfDocument {
@@ -77,18 +85,28 @@ enum Region {
     /// The original TRANSITORIOS section: canonical transitory provisions.
     OriginalTransitories,
     /// A per-resolution TRANSITORIOS section, attributed by the
-    /// parenthesized block after the heading. `None` while the attribution
-    /// block is still being read.
-    ReformTransitories(Option<NaiveDate>),
+    /// parenthesized block after the heading. `resolved` is the resolution's
+    /// own DOF date (the block's closing date), `None` while the block is
+    /// still being read. `base` is the DOF date of the resolution this one
+    /// modifies, present only for an amendment of an amendment ("Resolución
+    /// modificatoria de la Resolución que modifica…"); it distinguishes two
+    /// such resolutions published the same day (see [`finalize_reform`]).
+    ReformTransitories {
+        resolved: Option<NaiveDate>,
+        base: Option<NaiveDate>,
+    },
     /// Appended per-reform CONSIDERANDO blocks: skipped entirely.
     TrailingConsiderandos,
     /// The closing REFERENCIAS legend.
     Legend,
 }
 
-/// A reform transitory being accumulated: resolution date, ordinal, lines.
+/// A reform transitory being accumulated: resolution date, the DOF date of
+/// the resolution it modifies (if it is an amendment of an amendment),
+/// ordinal, lines, and markers.
 struct ReformTransitory {
     date: NaiveDate,
+    base_date: Option<NaiveDate>,
     ordinal: String,
     lines: Vec<String>,
     marks: Vec<u32>,
@@ -105,11 +123,21 @@ fn parse_main_text(
     let section_re = Regex::new(r"^Sección\s+([A-Za-zÁÉÍÓÚáéíóú]+)$")?;
     let apartado_re = Regex::new(r"^Apartado\s+([A-Z])$")?;
     let article_re = Regex::new(r"^Artículo\s+(\d+(?:\s+Bis(?:\s+\d+)?)?)\s*\.-\s*(.*)$")?;
-    // The per-resolution sections use ÚNICO for single-article resolutions
-    // and an en dash after the period in one resolution (`PRIMERO. –`).
+    // A transitorios-section heading appears across CNBV vintages in
+    // masculine plural (`TRANSITORIOS`), masculine singular (`TRANSITORIO`,
+    // for a single-article modifying resolution), and the feminine
+    // "disposiciones transitorias" forms (`TRANSITORIA`/`TRANSITORIAS`).
+    // All open the same region; the first is the original section and every
+    // later one is a per-resolution reform section (handled below).
+    let transitorios_heading_re = Regex::new(r"^TRANSITORI[OA]S?$")?;
+    // The per-resolution sections use ÚNICO/ÚNICA for single-article
+    // resolutions and an en dash after the period in one resolution
+    // (`PRIMERO. –`). Ordinals occur in both grammatical genders because a
+    // "Disposición Transitoria" is feminine (`PRIMERA`, `SEGUNDA`, …).
     let transitory_re = Regex::new(&format!(
-        r"^(ÚNICO|{})\s*\.\s*[-–]\s*(.*)$",
-        TRANSITORY_ORDINALS.join("|")
+        r"^(ÚNIC[OA]|{}|{})\s*\.\s*[-–]\s*(.*)$",
+        TRANSITORY_ORDINALS.join("|"),
+        FEMININE_TRANSITORY_ORDINALS.join("|"),
     ))?;
     let marker_re = amendment_marker_regex()?;
     // The one glyph-splitting artifact in the source PDF: article 21's
@@ -121,8 +149,22 @@ fn parse_main_text(
     // accepted if stripping it produces a real match — so this can never
     // alter a line that isn't actually a mis-rendered article heading.
     let orphan_paren_re = Regex::new(r"^\)\s+(Artículo\s.*)$")?;
+    // The attribution block closes with the resolution's DOF date, e.g.
+    // `… en el Diario Oficial de la Federación el 25 de marzo de 2019)`.
+    // The connector before the day (`el`, or `de` in older resolutions) may
+    // be line-wrapped onto the previous line, leaving the closing line as a
+    // bare `29 de julio de 2015)`, so the connector is optional. This regex
+    // is applied only while reading an attribution block, so a bare date is
+    // unambiguous there.
     let attribution_date_re =
-        Regex::new(r"el\s+0?(\d{1,2})\s+de\s+([a-záéíóú]+)\s+de\s+(\d{4})\)$")?;
+        Regex::new(r"(?:(?:el|de)\s+)?0?(\d{1,2})\s+de\s+([a-záéíóú]+)\s+de\s+(\d{4})\)$")?;
+    // Inside a second-order attribution ("Resolución modificatoria de la
+    // Resolución que modifica… publicada … de la Federación el 23 de enero
+    // de 2018, publicada … el 27 de diciembre de 2024)"), the modified
+    // resolution's date is the `de la Federación el <date>,` clause that
+    // ends with a comma, distinct from the block's own paren-closed date.
+    let base_resolution_date_re =
+        Regex::new(r"de la Federación el\s+0?(\d{1,2})\s+de\s+([a-záéíóú]+)\s+de\s+(\d{4}),")?;
     let legend_entry_re = Regex::new(r"^(\d{1,2})\)\s+(.*)$")?;
 
     let mut provisions = Vec::new();
@@ -143,7 +185,7 @@ fn parse_main_text(
     // belongs to; every context boundary either drains them onto a
     // receiving provision or explicitly discards them.
     let mut pending_marks = PendingMarks::default();
-    let mut reform_evidence: Vec<TemporalEvidence> = Vec::new();
+    let mut reform_transitories: Vec<ReformTransitory> = Vec::new();
     let mut reform_current: Option<ReformTransitory> = None;
     let mut latest_reform_date: Option<NaiveDate> = None;
     let mut amendment_references: Vec<AmendmentReference> = Vec::new();
@@ -173,9 +215,9 @@ fn parse_main_text(
         pending_marks.observe_content_line();
 
         // Region transitions shared by every region.
-        if trimmed == "TRANSITORIOS" {
+        if transitorios_heading_re.is_match(trimmed) {
             flush(&mut current, &mut provisions, publication_date);
-            flush_reform(&mut reform_current, instrument_id, &mut reform_evidence);
+            flush_reform(&mut reform_current, &mut reform_transitories);
             // Leaving Body can carry a stray marker with no home (an
             // Apartado-level "(Derogado)" note with no open article, for
             // instance) — always redundant with the same marker already
@@ -189,7 +231,10 @@ fn parse_main_text(
             }
             region = match region {
                 Region::Body => Region::OriginalTransitories,
-                _ => Region::ReformTransitories(None),
+                _ => Region::ReformTransitories {
+                    resolved: None,
+                    base: None,
+                },
             };
             (pending_blank, crossed_page_break) = (false, false);
             continue;
@@ -197,11 +242,11 @@ fn parse_main_text(
         if trimmed == "CONSIDERANDO"
             && matches!(
                 region,
-                Region::OriginalTransitories | Region::ReformTransitories(_)
+                Region::OriginalTransitories | Region::ReformTransitories { .. }
             )
         {
             flush(&mut current, &mut provisions, publication_date);
-            flush_reform(&mut reform_current, instrument_id, &mut reform_evidence);
+            flush_reform(&mut reform_current, &mut reform_transitories);
             pending_marks.discard("a CONSIDERANDO section")?;
             region = Region::TrailingConsiderandos;
             (pending_blank, crossed_page_break) = (false, false);
@@ -209,7 +254,7 @@ fn parse_main_text(
         }
         if trimmed == "REFERENCIAS" {
             flush(&mut current, &mut provisions, publication_date);
-            flush_reform(&mut reform_current, instrument_id, &mut reform_evidence);
+            flush_reform(&mut reform_current, &mut reform_transitories);
             if matches!(region, Region::Body) {
                 pending_marks.discard_from_heading();
             } else {
@@ -286,23 +331,34 @@ fn parse_main_text(
                     builder.push_line(line, pending_blank, crossed_page_break);
                 }
             }
-            Region::ReformTransitories(date) => {
+            Region::ReformTransitories { resolved, base } => {
                 // CNBV consolidated disposiciones re-amend their own reform
                 // transitorios, so a marker can legitimately land here. It
                 // is kept on the reform transitory's TemporalEvidence
                 // (below); only markers with no open transitory to receive
                 // them — e.g. inside the parenthesized attribution block —
                 // are still surfaced rather than silently dropped.
-                let Some(resolved) = *date else {
+                let Some(resolved_date) = *resolved else {
                     pending_marks.discard("a per-resolution attribution block")?;
-                    // Reading the parenthesized attribution block; its
-                    // final line carries the resolution's DOF date.
+                    // Reading the parenthesized attribution block. A
+                    // second-order attribution names the modified resolution
+                    // first (comma-terminated); capture it before the block's
+                    // own paren-closed date resolves the section.
+                    if base.is_none()
+                        && let Some(captures) = base_resolution_date_re.captures(trimmed)
+                    {
+                        *base = Some(
+                            spanish_date(&captures[1], &captures[2], &captures[3]).with_context(
+                                || format!("unparseable modified-resolution date: {trimmed}"),
+                            )?,
+                        );
+                    }
                     if let Some(captures) = attribution_date_re.captures(trimmed) {
                         let parsed = spanish_date(&captures[1], &captures[2], &captures[3])
                             .with_context(|| {
                                 format!("unparseable resolution date in attribution: {trimmed}")
                             })?;
-                        *date = Some(parsed);
+                        *resolved = Some(parsed);
                         latest_reform_date =
                             Some(latest_reform_date.map_or(parsed, |seen| seen.max(parsed)));
                     }
@@ -310,11 +366,12 @@ fn parse_main_text(
                     continue;
                 };
                 if let Some(captures) = transitory_re.captures(trimmed) {
-                    flush_reform(&mut reform_current, instrument_id, &mut reform_evidence);
+                    flush_reform(&mut reform_current, &mut reform_transitories);
                     // A marker preceding the ordinal marks this transitory,
                     // exactly as it would a new article heading.
                     reform_current = Some(ReformTransitory {
-                        date: resolved,
+                        date: resolved_date,
+                        base_date: *base,
                         ordinal: captures[1].to_owned(),
                         lines: vec![trimmed.to_owned()],
                         marks: pending_marks.take(),
@@ -347,7 +404,7 @@ fn parse_main_text(
         (pending_blank, crossed_page_break) = (false, false);
     }
     flush(&mut current, &mut provisions, publication_date);
-    flush_reform(&mut reform_current, instrument_id, &mut reform_evidence);
+    flush_reform(&mut reform_current, &mut reform_transitories);
     flush_legend(&mut legend_current, &mut amendment_references);
 
     if amendment_references.is_empty() {
@@ -356,26 +413,99 @@ fn parse_main_text(
     Ok(ItfDocument {
         provisions,
         amendment_references,
-        reform_evidence,
+        reform_evidence: finalize_reform(&reform_transitories, instrument_id),
         latest_reform_date,
     })
 }
 
-fn flush_reform(
-    current: &mut Option<ReformTransitory>,
-    instrument_id: &str,
-    evidence: &mut Vec<TemporalEvidence>,
-) {
-    if let Some(reform) = current.take() {
-        evidence.push(reform_evidence_item(
-            instrument_id,
-            reform.date,
-            &reform.ordinal,
-            "Resolución",
-            reform.lines.join(" "),
-            reform.marks,
-        ));
+fn flush_reform(current: &mut Option<ReformTransitory>, out: &mut Vec<ReformTransitory>) {
+    if let Some(mut reform) = current.take() {
+        // A single resolution's marker can print at several line positions
+        // within one reform transitory (once per amended paragraph); the
+        // mention is "amended by resolution N", so collapse repeats, as a
+        // provision's `BTreeSet`-backed marks already do.
+        reform.marks.sort_unstable();
+        reform.marks.dedup();
+        out.push(reform);
     }
+}
+
+/// Build reform temporal evidence, giving each transitory a canonical id
+/// `…:amendment:<dof-date>:transitory:<ordinal>`.
+///
+/// Two modifying resolutions can be published on the same DOF date, each
+/// with its own `ÚNICO` — for SCAP the 19a and 20a resolutions, both DOF
+/// 2024-12-27, one amending the resolution of 2018-01-23 and the other that
+/// of 2024-04-09 (an amendment of an amendment, each pushing its base
+/// resolution's entry into force forward). That collides the plain id, so a
+/// colliding group is disambiguated by the modified resolution's own DOF
+/// date (`…:modifies:<base>:transitory:<ordinal>`), which identifies each as
+/// the ÚNICO of a distinct resolution rather than an anonymous duplicate.
+/// If a colliding group cannot be told apart that way (no distinct base
+/// dates), it falls back to a stable occurrence suffix so ids stay unique.
+fn finalize_reform(
+    transitories: &[ReformTransitory],
+    instrument_id: &str,
+) -> Vec<TemporalEvidence> {
+    use std::collections::HashMap;
+
+    let base_id = |reform: &ReformTransitory| {
+        format!(
+            "{instrument_id}:amendment:{}:transitory:{}",
+            reform.date.format("%Y-%m-%d"),
+            crate::slug(&reform.ordinal),
+        )
+    };
+
+    // Group indices by the plain id they would take, preserving order.
+    let mut groups: HashMap<String, Vec<usize>> = HashMap::new();
+    for (index, reform) in transitories.iter().enumerate() {
+        groups.entry(base_id(reform)).or_default().push(index);
+    }
+
+    let mut evidence: Vec<Option<TemporalEvidence>> =
+        (0..transitories.len()).map(|_| None).collect();
+    for indices in groups.values() {
+        // A base date disambiguates a colliding group only if every member
+        // has one and they are all distinct.
+        let bases: Vec<Option<NaiveDate>> =
+            indices.iter().map(|&i| transitories[i].base_date).collect();
+        let distinct_bases = indices.len() > 1
+            && bases.iter().all(Option::is_some)
+            && bases.iter().collect::<std::collections::HashSet<_>>().len() == indices.len();
+
+        for (occurrence, &index) in indices.iter().enumerate() {
+            let reform = &transitories[index];
+            let mut item = reform_evidence_item(
+                instrument_id,
+                reform.date,
+                &reform.ordinal,
+                "Resolución",
+                reform.lines.join(" "),
+                reform.marks.clone(),
+            );
+            if indices.len() > 1 {
+                if distinct_bases {
+                    let base = reform.base_date.expect("checked all Some");
+                    let base = base.format("%Y-%m-%d");
+                    item.provision_id = item.provision_id.replacen(
+                        ":transitory:",
+                        &format!(":modifies:{base}:transitory:"),
+                        1,
+                    );
+                    item.label = format!("{} (modifica resolución DOF {base})", item.label);
+                } else if occurrence > 0 {
+                    item.provision_id = format!("{}-{}", item.provision_id, occurrence + 1);
+                    item.label = format!("{} (#{})", item.label, occurrence + 1);
+                }
+            }
+            evidence[index] = Some(item);
+        }
+    }
+    evidence
+        .into_iter()
+        .map(|item| item.expect("every index filled"))
+        .collect()
 }
 
 fn flush_legend(
@@ -586,6 +716,120 @@ mod tests {
             .find(|evidence| evidence.label.contains("ÚNICO"))
             .expect("the ÚNICO reform transitory is present");
         assert_eq!(unico.amendment_marks, vec![6]);
+    }
+
+    #[test]
+    fn singular_and_feminine_reform_sections_become_distinct_evidence() {
+        // Older CNBV compilations head a single-article modifying
+        // resolution `TRANSITORIO` (singular) or style it as a feminine
+        // "Disposición Transitoria" (`TRANSITORIA` / `ÚNICA`), and wrap the
+        // attribution's `el`/`de` connector onto the previous line so the
+        // date lands on a bare closing line. Each such section must open a
+        // reform region and produce its own date-attributed evidence — not
+        // collapse into repeated original `transitory:unico` provisions
+        // (the servinv-dcg-2013 duplicate_id failure).
+        let raw = "Artículo 1.- Objeto de las disposiciones.\n\
+                   TRANSITORIOS\n\
+                   PRIMERO.- Las presentes disposiciones entrarán en vigor.\n\
+                   TRANSITORIO\n\
+                   (Resolución que modifica las Disposiciones, publicada en el\n\
+                   Diario Oficial de la Federación el\n\
+                   29 de julio de 2015)\n\
+                   ÚNICO.- La presente Resolución entrará en vigor al día siguiente.\n\
+                   TRANSITORIA\n\
+                   (Resolución que modifica las Disposiciones, publicada en el\n\
+                   Diario Oficial de la Federación de\n\
+                   26 de octubre de 2015)\n\
+                   ÚNICA.- La presente Resolución entrará en vigor al día siguiente.\n\
+                   REFERENCIAS\n\
+                   1)    Reformado mediante Resolución.\n";
+        let document = parse_itf_dcg(
+            raw,
+            &[],
+            ITF_ID,
+            NaiveDate::from_ymd_opt(2018, 9, 10).unwrap(),
+        )
+        .expect("singular/feminine reform sections parse");
+
+        // Exactly one original transitory (PRIMERO); the reform ÚNICO/ÚNICA
+        // are evidence, not provisions, so no id collides.
+        let original_transitories: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|item| item.provision_type == ProvisionType::Transitory)
+            .map(|item| item.id.as_str())
+            .collect();
+        assert_eq!(
+            original_transitories,
+            [format!("{ITF_ID}:transitory:primero")]
+        );
+
+        let evidence_ids: Vec<_> = document
+            .reform_evidence
+            .iter()
+            .map(|item| item.provision_id.as_str())
+            .collect();
+        assert_eq!(
+            evidence_ids,
+            [
+                format!("{ITF_ID}:amendment:2015-07-29:transitory:unico"),
+                format!("{ITF_ID}:amendment:2015-10-26:transitory:unica"),
+            ]
+        );
+        assert_eq!(
+            document.latest_reform_date,
+            NaiveDate::from_ymd_opt(2015, 10, 26)
+        );
+    }
+
+    #[test]
+    fn same_day_reforms_are_disambiguated_by_the_resolution_each_modifies() {
+        // Two modifying resolutions can share a DOF date, each with its own
+        // ÚNICO amending a different base resolution (SCAP 19a/20a, both DOF
+        // 2024-12-27, amending the 2018-01-23 and 2024-04-09 resolutions).
+        // The plain id collides; each is disambiguated by the resolution it
+        // modifies, not flattened into an anonymous duplicate.
+        let raw = "Artículo 1.- Objeto.\n\
+                   TRANSITORIOS\n\
+                   PRIMERO.- Entra en vigor.\n\
+                   TRANSITORIO\n\
+                   (Resolución modificatoria de la Resolución que modifica las Disposiciones,\n\
+                   publicada en el Diario Oficial de la Federación el 23 de enero de 2018,\n\
+                   publicada en el citado medio de difusión el 27 de diciembre de 2024)\n\
+                   ÚNICO.- Entrará en vigor al día siguiente.\n\
+                   TRANSITORIO\n\
+                   (Resolución modificatoria de la Resolución que modifica las Disposiciones,\n\
+                   publicada en el Diario Oficial de la Federación el 9 de abril de 2024,\n\
+                   publicada en el citado medio de difusión el 27 de diciembre de 2024)\n\
+                   ÚNICO.- Entrará en vigor al día siguiente.\n\
+                   REFERENCIAS\n\
+                   1)    Reformado mediante Resolución.\n";
+        let document = parse_itf_dcg(
+            raw,
+            &[],
+            ITF_ID,
+            NaiveDate::from_ymd_opt(2018, 9, 10).unwrap(),
+        )
+        .expect("same-day reforms parse");
+
+        let ids: Vec<_> = document
+            .reform_evidence
+            .iter()
+            .map(|item| item.provision_id.as_str())
+            .collect();
+        assert_eq!(
+            ids,
+            [
+                format!("{ITF_ID}:amendment:2024-12-27:modifies:2018-01-23:transitory:unico"),
+                format!("{ITF_ID}:amendment:2024-12-27:modifies:2024-04-09:transitory:unico"),
+            ]
+        );
+        // Both keep the ÚNICO label, annotated with the modified resolution.
+        assert!(
+            document.reform_evidence[0]
+                .label
+                .contains("modifica resolución DOF 2018-01-23")
+        );
     }
 
     #[test]

@@ -6,7 +6,7 @@
   "publisher": "Comisión Nacional Bancaria y de Valores",
   "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20actividades%20de%20las%20sociedades%20cooperativas%20de%20ahorro%20y%20pr%C3%A9stamo.pdf",
   "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
-  "retrieved_at": "2026-07-12T17:58:24.981900Z",
+  "retrieved_at": "2026-07-13T00:24:25.036153Z",
   "http_status": 200,
   "content_type": "application/pdf",
   "content_length": 1684420,
@@ -17,5 +17,5 @@
   "extraction_tool": "pdftotext version 26.06.0",
   "parser_version": "0.1.0",
   "schema_version_used": "0.1.0",
-  "resulting_git_commit": "38e970561ba6a8926c606b3aaae64e994c10b89f"
+  "resulting_git_commit": "0e0e4f47315969b763483fefe057b6774bf13d35"
 }

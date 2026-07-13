@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:servinv-dcg-2013",
+  "operational_source": "cnbv",
+  "formal_publication_source": "dof",
+  "publisher": "Comisión Nacional Bancaria y de Valores",
+  "official_url": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20entidades%20financieras%20y%20dem%C3%A1s%20personas%20que%20proporcionen%20servicios%20de.pdf",
+  "reference_url": "https://www.cnbv.gob.mx/Paginas/Normatividad.aspx",
+  "retrieved_at": "2026-07-13T00:25:30.885653Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 359924,
+  "etag": "\"{8BEA67E1-541A-4ECE-83D0-A5C20CD55978},11\"",
+  "last_modified": "Tue, 19 Sep 2023 00:27:24 GMT",
+  "source_sha256": "0b62b320e197b8b0d4b37f9baff931ff579975397c771c861c73db49d7f12450",
+  "extracted_text_sha256": "467d94f92b6bba527f5f86338487274a7e6a7d284c4dce0625568a82dda50682",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "0e0e4f47315969b763483fefe057b6774bf13d35"
+}
