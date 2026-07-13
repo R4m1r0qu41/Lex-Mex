@@ -143,6 +143,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lsn:article:5:reference:1556-1559:167:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lsn:article:5",
+    "source_span": "167",
+    "start_char": 1556,
+    "end_char": 1559,
+    "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lsn:article:57:reference:342-344:58:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lsn:article:57",
     "source_span": "58",

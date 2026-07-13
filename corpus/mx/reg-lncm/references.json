@@ -2110,6 +2110,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lncm:article:657:reference:132-136:1915:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:657",
+    "source_span": "1915",
+    "start_char": 132,
+    "end_char": 136,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccf",
+    "target_provision_id": "urn:lex-mx:federal:code:ccf:article:1915",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lncm:article:66:reference:140-157:65:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lncm:article:66",
     "source_span": "artículo anterior",

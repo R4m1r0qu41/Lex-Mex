@@ -605,6 +605,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgn:article:39:reference:1366-1368:53:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:39",
+    "source_span": "53",
+    "start_char": 1366,
+    "end_char": 1368,
+    "target_instrument_id": "urn:lex-mx:federal:code:cnpp",
+    "target_provision_id": "urn:lex-mx:federal:code:cnpp:article:53",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgn:article:80:reference:74-91:79:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgn:article:80",
     "source_span": "artículo anterior",

@@ -397,6 +397,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpcf:article:1124:reference:839-841:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:code:cnpcf:article:1124",
+    "source_span": "15",
+    "start_char": 839,
+    "end_char": 841,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccf",
+    "target_provision_id": "urn:lex-mx:federal:code:ccf:article:15",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 843,
+        "end_char": 854
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpcf:article:1188:reference:310-314:1186:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpcf:article:1188",
     "source_span": "1186",

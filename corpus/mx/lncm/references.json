@@ -270,6 +270,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lncm:article:289:reference:1748-1752:1383:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lncm:article:289",
+    "source_span": "1383",
+    "start_char": 1748,
+    "end_char": 1752,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:1383",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lncm:article:292:reference:297-300:287:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lncm:article:292",
     "source_span": "287",

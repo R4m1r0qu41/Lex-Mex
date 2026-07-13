@@ -421,6 +421,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lscs:article:157:reference:976-979:122:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lscs:article:157",
+    "source_span": "122",
+    "start_char": 976,
+    "end_char": 979,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lisf",
+    "target_provision_id": "urn:lex-mx:federal:statute:lisf:article:122",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 947,
+        "end_char": 962
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lscs:article:162:reference:211-214:151:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lscs:article:162",
     "source_span": "151",
@@ -1140,6 +1162,21 @@
     "end_char": 651,
     "target_instrument_id": "urn:lex-mx:federal:statute:lscs",
     "target_provision_id": "urn:lex-mx:federal:statute:lscs:article:150-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lscs:article:20-bis:reference:83-85:56:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lscs:article:20-bis",
+    "source_span": "56",
+    "start_char": 83,
+    "end_char": 85,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lpdusf",
+    "target_provision_id": "urn:lex-mx:federal:statute:lpdusf:article:56",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

@@ -429,19 +429,20 @@ fn extract_reference_group(
         return Vec::new();
     }
     let pre_qualifiers = pre_number_qualifiers(source.text, header_start, patterns);
-    let context_end = accepted
-        .last()
-        .map_or(group.len(), |last| match options.policy {
-            InstrumentContextPolicy::WholeGroupPresence => group.len(),
-            InstrumentContextPolicy::SentenceEarliestMarker { .. } => {
-                last.end() + qualifier_boundary(&group[last.end()..])
-            }
-        });
-    let target_instrument_id = match group_target(&group[..context_end], &options.policy) {
-        GroupTarget::Internal => source.instrument_id,
-        GroupTarget::External(instrument_id) => instrument_id,
-        GroupTarget::Skip => return Vec::new(),
-    };
+    let last_end = accepted.last().map(regex::Match::end);
+    let context_end = last_end.map_or(group.len(), |end| match options.policy {
+        InstrumentContextPolicy::WholeGroupPresence => group.len(),
+        InstrumentContextPolicy::SentenceEarliestMarker { .. } => {
+            end + qualifier_boundary(&group[end..])
+        }
+    });
+    let max_marker_start = last_end.map_or(usize::MAX, |end| end + MARKER_LOOKAHEAD_CHARS);
+    let target_instrument_id =
+        match group_target(&group[..context_end], max_marker_start, &options.policy) {
+            GroupTarget::Internal => source.instrument_id,
+            GroupTarget::External(instrument_id) => instrument_id,
+            GroupTarget::Skip => return Vec::new(),
+        };
     let mut references = direct_reference_edges(
         source,
         target_instrument_id,
@@ -463,7 +464,15 @@ fn extract_reference_group(
     references
 }
 
-fn group_target<'a>(context: &str, policy: &'a InstrumentContextPolicy) -> GroupTarget<'a> {
+/// `max_marker_start` bounds `SentenceEarliestMarker` only: a marker whose
+/// match starts past this offset into `context` is out of range and cannot
+/// win (see `sentence_target`). `WholeGroupPresence` ignores it — that
+/// policy is preserved verbatim for the audited LRITF graph.
+fn group_target<'a>(
+    context: &str,
+    max_marker_start: usize,
+    policy: &'a InstrumentContextPolicy,
+) -> GroupTarget<'a> {
     let lower = context.to_lowercase();
     match policy {
         InstrumentContextPolicy::WholeGroupPresence => {
@@ -476,18 +485,38 @@ fn group_target<'a>(context: &str, policy: &'a InstrumentContextPolicy) -> Group
         InstrumentContextPolicy::SentenceEarliestMarker {
             internal_markers,
             external_instruments,
-        } => sentence_target(&lower, internal_markers, external_instruments),
+        } => sentence_target(
+            &lower,
+            max_marker_start,
+            internal_markers,
+            external_instruments,
+        ),
     }
 }
 
+/// Decide a citation group's target by the earliest in-range marker.
+///
+/// `lower` may extend all the way to the sentence's period — long enough to
+/// hold a marker of any length — but a candidate only counts if it *starts*
+/// at or before `max_marker_start`. That bound, not the string's length, is
+/// what keeps a law name from a later, unrelated clause of the same run-on
+/// sentence (who enforces the cited articles, say, rather than what governs
+/// them) from retroactively claiming numbers cited earlier in the sentence:
+/// filtering candidate positions lets a long official title anchored near
+/// the cited number still match in full, while rejecting anything whose
+/// match merely *starts* too far away. No in-range marker means the
+/// citation defaults to internal, which is correct precisely because
+/// nothing near the number said otherwise.
 fn sentence_target<'a>(
     lower: &str,
+    max_marker_start: usize,
     internal_markers: &[String],
     external_instruments: &'a [(String, String)],
 ) -> GroupTarget<'a> {
     let internal = internal_markers
         .iter()
         .filter_map(|marker| lower.find(marker.as_str()))
+        .filter(|position| *position <= max_marker_start)
         .min();
     let configured = external_instruments
         .iter()
@@ -496,6 +525,7 @@ fn sentence_target<'a>(
                 .find(marker.as_str())
                 .map(|position| (position, instrument_id.as_str()))
         })
+        .filter(|(position, _)| *position <= max_marker_start)
         .min_by_key(|(position, _)| *position);
     let generic = EXTERNAL_INSTRUMENT_MARKERS
         .iter()
@@ -511,6 +541,7 @@ fn sentence_target<'a>(
                     .then_some((position, trimmed.len()))
             })
         })
+        .filter(|(position, _)| *position <= max_marker_start)
         // A configured instrument name inside the same phrase (for example
         // "de la ley para regular…") supersedes the generic law marker.
         .filter(|(position, length)| {
@@ -545,11 +576,12 @@ fn extract_transitory_citations(
         let citation_end = captures.get(0).expect("citation match").end();
         let context = &source.text[citation_end..];
         let context = &context[..qualifier_boundary(context)];
-        let target_instrument_id = match group_target(context, &options.policy) {
-            GroupTarget::Internal => source.instrument_id,
-            GroupTarget::External(instrument_id) => instrument_id,
-            GroupTarget::Skip => continue,
-        };
+        let target_instrument_id =
+            match group_target(context, MARKER_LOOKAHEAD_CHARS, &options.policy) {
+                GroupTarget::Internal => source.instrument_id,
+                GroupTarget::External(instrument_id) => instrument_id,
+                GroupTarget::Skip => continue,
+            };
         let target_provision_id = format!(
             "{target_instrument_id}:transitory:{}",
             slug(ordinal.as_str())
@@ -942,6 +974,33 @@ fn qualifier_boundary(value: &str) -> usize {
         .find_map(|(index, character)| matches!(character, '.' | '\n').then_some(index))
         .unwrap_or(value.len())
 }
+
+/// How far past a citation's last cited number (or, for a transitory
+/// citation, past the ordinal) a law marker's match may *start* and still
+/// decide `sentence_target`'s target instrument. A run-on Mexican-statute
+/// sentence routinely tacks on an unrelated aside well beyond this distance
+/// — who enforces the cited articles, or an anaphoric mention of a
+/// *different* law tied to a later citation in the same sentence — and that
+/// aside must not retroactively claim numbers cited earlier in the
+/// sentence. Rejecting an out-of-range match by position (rather than
+/// truncating the text searched) still lets a long official title anchored
+/// near the number match in full even when the title itself runs past this
+/// bound. When no marker starts in range, the citation defaults to internal
+/// (see `sentence_target`'s fallback), which is correct precisely because
+/// nothing near the number said otherwise — and if the number does not
+/// exist in the citing instrument either, the existing dangling-internal-
+/// edge rule drops it rather than leaving a wrong cross-instrument edge.
+///
+/// Calibrated against the full committed corpus (3,982 sentence-scoped
+/// decisions audited): every confirmed false attribution starts at 96
+/// characters (a citation whose "Ley"/"Reglamento" shorthand is wrapped in
+/// quotation marks that break marker matching, so the search falls through
+/// to an unrelated law named 96 characters later) up to 277 (LIC article
+/// 117's LPDUSF misattribution); the farthest legitimate or pre-existing
+/// (or already-inert, `Skip`) marker position found anywhere in the corpus
+/// is 86 characters, a long chain of `fracción`/`párrafo` qualifiers ahead
+/// of the law name. 90 sits in the gap between them.
+const MARKER_LOOKAHEAD_CHARS: usize = 90;
 
 #[derive(Debug, Clone, Default)]
 pub struct CorpusExpectations {
@@ -1953,6 +2012,191 @@ mod tests {
             "{:?}",
             report.issues
         );
+    }
+
+    const LIC_ID: &str = "urn:lex-mx:federal:statute:lic";
+    const LPDUSF_ID: &str = "urn:lex-mx:federal:statute:lpdusf";
+    const LPAB_ID: &str = "urn:lex-mx:federal:statute:lpab";
+    const LAC_ID: &str = "urn:lex-mx:federal:statute:lac";
+    const CCF_ID: &str = "urn:lex-mx:federal:code:ccf";
+
+    /// The self-reference markers a Diputados statute carries in production
+    /// (`lex-cli`'s `self_reference_markers` for `"statute"`), replicated
+    /// here since this crate does not depend on lex-cli.
+    fn statute_internal_markers() -> Vec<String> {
+        [
+            "de esta ley",
+            "de la presente ley",
+            "esta ley",
+            "de este ordenamiento",
+            "del presente ordenamiento",
+        ]
+        .iter()
+        .map(|marker| (*marker).to_owned())
+        .collect()
+    }
+
+    fn statute_reference_options(external_instruments: Vec<(String, String)>) -> ReferenceOptions {
+        ReferenceOptions {
+            policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                internal_markers: statute_internal_markers(),
+                external_instruments,
+            },
+            transitory_citations: true,
+            same_article_fractions: true,
+            relative_references: true,
+        }
+    }
+
+    fn parse_statute_sample(
+        instrument_id: &str,
+        header: &str,
+        body: &str,
+    ) -> Vec<lex_core::Provision> {
+        let date = NaiveDate::from_ymd_opt(2014, 1, 10).unwrap();
+        let options = DiputadosOptions {
+            instrument_id: instrument_id.to_owned(),
+            header_lines: vec![header.to_owned()],
+            stop_markers: Vec::new(),
+        };
+        parse_diputados(body, &options, date)
+            .expect("sample parses")
+            .provisions
+    }
+
+    // Regression fixtures for a run-on-sentence misattribution bug: a bare
+    // list of the citing instrument's own articles, opened by a
+    // self-reference stated *before* the "artículo(s)" header (so outside
+    // the citation group entirely), followed much later in the same
+    // comma-heavy sentence by an unrelated aside naming a different law
+    // (who enforces the cited articles, or an anaphoric mention tied to a
+    // *different*, later citation) — must not retarget the earlier numbers
+    // to that later law. `sentence_target` used to pick the earliest marker
+    // found anywhere in the whole citation-to-next-period span; these
+    // fixtures pin it to a window near the cited number instead.
+
+    /// `lic:article:117` verbatim (trimmed after the first sentence): "48
+    /// Bis 5, 94 Bis y 96 Bis" are LIC's own articles, but "Ley de
+    /// Protección y Defensa al Usuario de Servicios Financieros" — naming
+    /// who supervises compliance, not what governs the cited articles —
+    /// appears 277 characters later in the same sentence and used to win.
+    #[test]
+    fn does_not_retarget_a_bare_article_list_to_a_law_named_much_later_in_the_sentence() {
+        let body = "Artículo 117.- La supervisión de las entidades reguladas por la presente \
+            Ley respecto de lo previsto por los artículos 48 Bis 5, 94 Bis y 96 Bis, párrafos \
+            segundo, tercero y cuarto, así como de las materias expresamente conferidas por \
+            otras Leyes, estará a cargo de la Comisión Nacional para la Protección y Defensa \
+            de los Usuarios de Servicios Financieros, quien la llevará a cabo sujetándose a lo \
+            previsto en la Ley de Protección y Defensa al Usuario de Servicios Financieros, en \
+            el Reglamento respectivo y en las demás disposiciones que resulten aplicables.\n";
+        let provisions = parse_statute_sample(LIC_ID, "LEY DE INSTITUCIONES DE CRÉDITO", body);
+        let mut known_targets: HashSet<String> =
+            provisions.iter().map(|item| item.id.clone()).collect();
+        for suffix in ["48-bis-5", "94-bis", "96-bis"] {
+            known_targets.insert(format!("{LIC_ID}:article:{suffix}"));
+        }
+        let options = statute_reference_options(vec![(
+            "ley de protección y defensa al usuario de servicios financieros".to_owned(),
+            LPDUSF_ID.to_owned(),
+        )]);
+        let references = extract_references(&provisions, None, &options, &known_targets).unwrap();
+
+        assert!(
+            !references
+                .iter()
+                .any(|edge| edge.target_instrument_id == LPDUSF_ID),
+            "{references:#?}"
+        );
+        for suffix in ["48-bis-5", "94-bis", "96-bis"] {
+            let target = format!("{LIC_ID}:article:{suffix}");
+            assert!(
+                references
+                    .iter()
+                    .any(|edge| edge.target_provision_id == target
+                        && edge.resolution_status == ReferenceResolutionStatus::Resolved),
+                "expected internal resolution for article {suffix}: {references:#?}"
+            );
+        }
+    }
+
+    /// `lic:article:148` (trimmed to the offending clause): "29 Bis 6" is
+    /// LIC's own article — reached here through a nested "en términos del
+    /// segundo párrafo del artículo 29 Bis 6" with no nearby self-reference
+    /// marker at all — but "Ley de Protección al Ahorro Bancario" appears
+    /// 148 characters later, describing a threshold for a *different*
+    /// concept (garantías), and used to win by default since it was the
+    /// only marker found in the old unbounded search.
+    #[test]
+    fn does_not_retarget_a_nested_self_reference_to_a_law_named_later_in_the_sentence() {
+        let body = "Artículo 148.- La resolución de una institución de banca múltiple \
+            procederá conforme a lo siguiente: cuando el Comité de Estabilidad Bancaria, en \
+            términos del segundo párrafo del artículo 29 Bis 6, determine un porcentaje igual \
+            o menor al cien por ciento de todas las operaciones que no sean consideradas \
+            obligaciones garantizadas en términos de la Ley de Protección al Ahorro Bancario.\n";
+        let provisions = parse_statute_sample(LIC_ID, "LEY DE INSTITUCIONES DE CRÉDITO", body);
+        let mut known_targets: HashSet<String> =
+            provisions.iter().map(|item| item.id.clone()).collect();
+        known_targets.insert(format!("{LIC_ID}:article:29-bis-6"));
+        let options = statute_reference_options(vec![(
+            "ley de protección al ahorro bancario".to_owned(),
+            LPAB_ID.to_owned(),
+        )]);
+        let references = extract_references(&provisions, None, &options, &known_targets).unwrap();
+
+        assert!(
+            !references
+                .iter()
+                .any(|edge| edge.target_instrument_id == LPAB_ID),
+            "{references:#?}"
+        );
+        assert!(
+            references.iter().any(|edge| {
+                edge.target_provision_id == format!("{LIC_ID}:article:29-bis-6")
+                    && edge.resolution_status == ReferenceResolutionStatus::Resolved
+            }),
+            "expected internal resolution for article 29 Bis 6: {references:#?}"
+        );
+    }
+
+    /// `lac:article:64` verbatim (trimmed after the first sentence): "62 y
+    /// 63 anteriores" refers to LAC's own preceding articles, but "Código
+    /// Civil Federal" — the law governing the *damages* a carrier must pay,
+    /// not what governs articles 62/63 — appears 169 characters later and
+    /// used to win. Not in the original bug report; found while calibrating
+    /// the fix's corpus-wide gap distribution.
+    #[test]
+    fn does_not_retarget_relative_self_references_across_a_liability_aside() {
+        let body = "Artículo 64.- En los casos de las indemnizaciones previstas en los \
+            artículos 62 y 63 anteriores, el concesionario o permisionario no gozará del \
+            beneficio de limitación de responsabilidad, y deberá cubrir los daños y \
+            perjuicios causados en términos del Código Civil Federal, si se comprueba que los \
+            daños se debieron a dolo o mala fe del propio concesionario o permisionario o de \
+            sus dependientes o empleados.\n";
+        let provisions = parse_statute_sample(LAC_ID, "LEY DE AVIACIÓN CIVIL", body);
+        let mut known_targets: HashSet<String> =
+            provisions.iter().map(|item| item.id.clone()).collect();
+        known_targets.insert(format!("{LAC_ID}:article:62"));
+        known_targets.insert(format!("{LAC_ID}:article:63"));
+        let options =
+            statute_reference_options(vec![("código civil federal".to_owned(), CCF_ID.to_owned())]);
+        let references = extract_references(&provisions, None, &options, &known_targets).unwrap();
+
+        assert!(
+            !references
+                .iter()
+                .any(|edge| edge.target_instrument_id == CCF_ID),
+            "{references:#?}"
+        );
+        for suffix in ["62", "63"] {
+            let target = format!("{LAC_ID}:article:{suffix}");
+            assert!(
+                references
+                    .iter()
+                    .any(|edge| edge.target_provision_id == target
+                        && edge.resolution_status == ReferenceResolutionStatus::Resolved),
+                "expected internal resolution for article {suffix}: {references:#?}"
+            );
+        }
     }
 
     #[test]

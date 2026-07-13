@@ -330,6 +330,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lft:article:13:reference:661-662:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lft:article:13",
+    "source_span": "2",
+    "start_char": 661,
+    "end_char": 662,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción X",
+        "start_char": 664,
+        "end_char": 674
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lft:article:130:reference:139-141:98:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lft:article:130",
     "source_span": "98",

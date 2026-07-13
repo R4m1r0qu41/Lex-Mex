@@ -2048,6 +2048,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:ccom:article:1399:reference:332-333:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:code:ccom:article:1399",
+    "source_span": "8",
+    "start_char": 332,
+    "end_char": 333,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:ccom:article:1400:reference:67-71:1061:direct",
     "source_provision_id": "urn:lex-mx:federal:code:ccom:article:1400",
     "source_span": "1061",
@@ -2728,6 +2743,21 @@
         "end_char": 133
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:ccom:article:1414-bis-7:reference:398-401:403:direct",
+    "source_provision_id": "urn:lex-mx:federal:code:ccom:article:1414-bis-7",
+    "source_span": "403",
+    "start_char": 398,
+    "end_char": 401,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:403",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -456,6 +456,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lapp:article:151:reference:1145-1148:282:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:151",
+    "source_span": "282",
+    "start_char": 1145,
+    "end_char": 1148,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lisf",
+    "target_provision_id": "urn:lex-mx:federal:statute:lisf:article:282",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lapp:article:16:reference:254-256:33:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lapp:article:16",
     "source_span": "33",

@@ -550,6 +550,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lss:article:159:reference:3098-3100:81:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lss:article:159",
+    "source_span": "81",
+    "start_char": 3098,
+    "end_char": 3100,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lsar",
+    "target_provision_id": "urn:lex-mx:federal:statute:lsar:article:81",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lss:article:163:reference:225-228:162:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lss:article:163",
     "source_span": "162",

@@ -1117,6 +1117,43 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo:reference:25-28:119:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo",
+    "source_span": "119",
+    "start_char": 25,
+    "end_char": 28,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic:article:119",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo:reference:31-34:120:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo",
+    "source_span": "120",
+    "start_char": 31,
+    "end_char": 34,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic:article:120",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XI",
+        "start_char": 244,
+        "end_char": 255
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo:reference:374-375:5:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lpdusf:transitory:segundo",
     "source_span": "5",

@@ -1155,6 +1155,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lbm:transitory:decimo-sexto:reference:43-46:132:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lbm:transitory:decimo-sexto",
+    "source_span": "132",
+    "start_char": 43,
+    "end_char": 46,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgtoc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgtoc:article:132",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lbm:transitory:decimo-tercero:reference:258-259:7:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lbm:transitory:decimo-tercero",
     "source_span": "7",

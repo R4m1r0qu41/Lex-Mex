@@ -143,6 +143,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8:reference:2514-2515:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:article:8",
+    "source_span": "2",
+    "start_char": 2514,
+    "end_char": 2515,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lmv",
+    "target_provision_id": "urn:lex-mx:federal:statute:lmv:article:2",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XIX",
+        "start_char": 2517,
+        "end_char": 2529
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:cuarto:reference:86-87:9:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lss-rfar:transitory:cuarto",
     "source_span": "9",

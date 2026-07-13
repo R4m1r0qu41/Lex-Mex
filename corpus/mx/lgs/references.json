@@ -5119,6 +5119,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:article:465-ter:reference:490-493:209:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgs:article:465-ter",
+    "source_span": "209",
+    "start_char": 490,
+    "end_char": 493,
+    "target_instrument_id": "urn:lex-mx:federal:code:cpf",
+    "target_provision_id": "urn:lex-mx:federal:code:cpf:article:209",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgs:article:467-bis:reference:205-208:245:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgs:article:467-bis",
     "source_span": "245",
@@ -5319,6 +5334,58 @@
         "end_char": 611
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:article:482:reference:649-652:194:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgs:article:482",
+    "source_span": "194",
+    "start_char": 649,
+    "end_char": 652,
+    "target_instrument_id": "urn:lex-mx:federal:code:cpf",
+    "target_provision_id": "urn:lex-mx:federal:code:cpf:article:194",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 654,
+        "end_char": 664
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:article:482:reference:666-669:195:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgs:article:482",
+    "source_span": "195",
+    "start_char": 666,
+    "end_char": 669,
+    "target_instrument_id": "urn:lex-mx:federal:code:cpf",
+    "target_provision_id": "urn:lex-mx:federal:code:cpf:article:195",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgs:article:482:reference:672-679:195-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgs:article:482",
+    "source_span": "195 bis",
+    "start_char": 672,
+    "end_char": 679,
+    "target_instrument_id": "urn:lex-mx:federal:code:cpf",
+    "target_provision_id": "urn:lex-mx:federal:code:cpf:article:195-bis",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

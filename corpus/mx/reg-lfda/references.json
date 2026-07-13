@@ -46,6 +46,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:165:reference:207-210:393:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:165",
+    "source_span": "393",
+    "start_char": 207,
+    "end_char": 210,
+    "target_instrument_id": "urn:lex-mx:federal:code:cfpc",
+    "target_provision_id": "urn:lex-mx:federal:code:cfpc:article:393",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lfda:article:169:reference:160-163:167:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:169",
     "source_span": "167",
@@ -102,6 +117,28 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfda:article:175:reference:115-117:75:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfda:article:175",
+    "source_span": "75",
+    "start_char": 115,
+    "end_char": 117,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:75",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 119,
+        "end_char": 136
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",

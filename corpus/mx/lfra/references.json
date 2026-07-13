@@ -31,6 +31,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfra:article:12:reference:411-415:1913:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfra:article:12",
+    "source_span": "1913",
+    "start_char": 411,
+    "end_char": 415,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccf",
+    "target_provision_id": "urn:lex-mx:federal:code:ccf:article:1913",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfra:article:14:reference:1060-1062:14:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfra:article:14",
     "source_span": "II",

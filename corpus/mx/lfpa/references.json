@@ -61,6 +61,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpa:article:35:reference:745-747:49:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfpa:article:35",
+    "source_span": "49",
+    "start_char": 745,
+    "end_char": 747,
+    "target_instrument_id": "urn:lex-mx:federal:code:ccom",
+    "target_provision_id": "urn:lex-mx:federal:code:ccom:article:49",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpa:article:41:reference:2015-2017:41:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfpa:article:41",
     "source_span": "II",
