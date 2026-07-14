@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-diputados",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Cámara de Diputados",
+  "short_name": "REG-DIPUTADOS",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2010-12-24",
+  "latest_reform_date": "2025-05-07",
+  "retrieved_at": "2026-07-14T21:02:19.826380Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+  "source_sha256": "6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1",
+  "extracted_text_sha256": "cb19ed715d4db636579e6198e8c61c4049c0a61c7b046ac297e16749b82d80b5",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

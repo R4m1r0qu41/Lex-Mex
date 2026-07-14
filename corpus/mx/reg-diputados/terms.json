@@ -1,0 +1,211 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:camara",
+    "term": "Cámara",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "I",
+    "start_char": 63,
+    "end_char": 124,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:conferencia",
+    "term": "Conferencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "II",
+    "start_char": 124,
+    "end_char": 220,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:constitucion",
+    "term": "Constitución",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "III",
+    "start_char": 220,
+    "end_char": 298,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:coordinador",
+    "term": "Coordinador",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "IV",
+    "start_char": 298,
+    "end_char": 386,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:estatuto",
+    "term": "Estatuto",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "V",
+    "start_char": 386,
+    "end_char": 509,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:gaceta",
+    "term": "Gaceta",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "VI",
+    "start_char": 509,
+    "end_char": 573,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:grupo-o-grupos",
+    "term": "Grupo o grupos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "VII",
+    "start_char": 573,
+    "end_char": 683,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:junta",
+    "term": "Junta",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "VIII",
+    "start_char": 683,
+    "end_char": 757,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:junta-directiva",
+    "term": "Junta Directiva",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "IX",
+    "start_char": 757,
+    "end_char": 833,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "X",
+    "start_char": 833,
+    "end_char": 912,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:mesa-directiva",
+    "term": "Mesa Directiva",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "XI",
+    "start_char": 912,
+    "end_char": 978,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:presidencia",
+    "term": "Presidencia",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "XII",
+    "start_char": 978,
+    "end_char": 1111,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:presidencia-de-la-junta-directiva",
+    "term": "Presidencia de la Junta Directiva",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "XIII",
+    "start_char": 1111,
+    "end_char": 1270,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:reglamento",
+    "term": "Reglamento",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "XIV",
+    "start_char": 1270,
+    "end_char": 1329,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "XV",
+    "start_char": 1329,
+    "end_char": 1408,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:secretaria-de-la-junta-directiva",
+    "term": "Secretaría de la Junta Directiva",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "XVI",
+    "start_char": 1408,
+    "end_char": 1501,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:sistema-electronico",
+    "term": "Sistema Electrónico",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "XVII",
+    "start_char": 1501,
+    "end_char": 1600,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:sitio-electronico-de-la-camara",
+    "term": "Sitio Electrónico de la Cámara",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "XVIII",
+    "start_char": 1600,
+    "end_char": 1719,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:term:vicepresidente",
+    "term": "Vicepresidente",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:2",
+    "fraction": "XIX",
+    "start_char": 1719,
+    "end_char": 1873,
+    "basis": "express_definition"
+  }
+]

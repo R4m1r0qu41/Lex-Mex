@@ -1,0 +1,23 @@
+{
+  "slug": "reg-diputados",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de la Cámara de Diputados",
+  "short_name": "REG-DIPUTADOS",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/reg_diputados.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2010-12-24",
+  "expected_min_articles": 323,
+  "expected_articles": 323,
+  "expected_transitories": 13,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-14T21:02:22Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}
