@@ -1,5 +1,41 @@
 # Architecture decisions
 
+## 2026-07-14 — Diputados split headings and same-day reform-decree identity
+
+Ingesting the Reglamento del Senado de la República exposed two independent
+layout boundaries in Cámara de Diputados consolidated PDFs that validation
+counts alone did not catch:
+
+- **A bare article heading followed by a numbered paragraph stays one
+  article.** The PDF prints `Artículo 1` on one line and `1. ...` on the next.
+  Collapsing both lines before parsing produced the false compound identifier
+  `Artículo 1 1`. When a line contains only a valid article heading and the
+  next line starts a dot-delimited paragraph numeral, the parser now supplies
+  the omitted heading/body separator while preserving that numeral in the
+  canonical text. Genuine compound headings such as `Artículo 15 Bis 1`
+  remain unchanged.
+- **Every `DECRETO` line is a hard reform-appendix boundary.** Page furniture
+  can otherwise join the preceding signature or errata page to the next
+  decree. Singular/plural `ARTÍCULO(S) TRANSITORIO(S)` headings, colon-ended
+  ordinals, signature blocks, and `Fe de erratas` pages are normalized
+  explicitly. Operative `ARTÍCULO ÚNICO` text remains outside temporal
+  evidence; only the decree's transitories enter
+  `reform-temporal-evidence.json`.
+- **Same-day decrees receive distinct temporal-evidence identities.** The
+  first decree published on a date retains the established
+  `:amendment:YYYY-MM-DD:transitory:<ordinal>` ID. A later decree on that same
+  date uses
+  `:amendment:YYYY-MM-DD:decree-N:transitory:<ordinal>`, where `N` is its
+  one-based source order for that date. This keeps existing non-colliding IDs
+  stable while preventing several same-day `ÚNICO` provisions from collapsing
+  onto one identity. Publication-date extraction still reads the first ten
+  characters after `:amendment:`.
+
+The Senate regulation now yields 313 articles, 4 original transitories, 47
+resolved canonical references, and 39 uniquely identified reform
+transitories. Temporal analysis remains deferred; this structural ingest
+creates no machine conclusion and no legal-review resolution.
+
 ## 2026-07-12 — Old CNBV compilation format (2003–2015 DCGs)
 
 Ingesting the six older CNBV disposiciones (cue-2003, cucb-2004, cub-2005,

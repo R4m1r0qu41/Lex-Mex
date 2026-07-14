@@ -151,6 +151,25 @@ pub fn write_markdown(
     output_dir: &Path,
 ) -> Result<()> {
     fs::create_dir_all(output_dir)?;
+    let mut generated_files: std::collections::HashSet<String> =
+        corpus.provisions.iter().map(markdown_filename).collect();
+    generated_files.insert("README.md".to_owned());
+    // This directory is a generated presentation target. Remove Markdown
+    // files no longer produced by the current canonical corpus so a parser
+    // correction cannot leave stale, contradictory provision notes behind.
+    for entry in fs::read_dir(output_dir)? {
+        let entry = entry?;
+        let path = entry.path();
+        let filename = entry.file_name();
+        if entry.file_type()?.is_file()
+            && path.extension().is_some_and(|extension| extension == "md")
+            && filename
+                .to_str()
+                .is_some_and(|name| !generated_files.contains(name))
+        {
+            fs::remove_file(path)?;
+        }
+    }
     for provision in &corpus.provisions {
         let filename = markdown_filename(provision);
         let content = standard_markdown(corpus, targets, terms, provision);
@@ -937,6 +956,35 @@ mod tests {
         assert!(obsidian.contains("[[Corpus/LRITF/articulo-48|48]], segundo párrafo"));
         assert!(obsidian.contains("[[Corpus/LRITF/articulo-54|54]]"));
         assert_eq!(corpus.provisions[0].text, canonical_text);
+    }
+
+    #[test]
+    fn standard_markdown_removes_stale_generated_notes() {
+        let temp = tempdir().unwrap();
+        let output = temp.path().join("markdown");
+        fs::create_dir_all(&output).unwrap();
+        fs::write(output.join("articulo-1-1.md"), "stale").unwrap();
+        fs::write(output.join("inspection.txt"), "keep").unwrap();
+        let corpus = Corpus {
+            instrument: sample_instrument(),
+            provisions: vec![sample_provision()],
+            references: Vec::new(),
+            terms: Vec::new(),
+            term_usages: Vec::new(),
+            amendment_references: Vec::new(),
+        };
+        let targets = link_targets(&[(&corpus, "lritf")]);
+        let terms = term_targets(&[(&corpus, "lritf")], &targets);
+
+        write_markdown(&corpus, &targets, &terms, &output).unwrap();
+
+        assert!(!output.join("articulo-1-1.md").exists());
+        assert!(output.join("transitorio-decima-primera.md").is_file());
+        assert!(output.join("README.md").is_file());
+        assert_eq!(
+            fs::read_to_string(output.join("inspection.txt")).unwrap(),
+            "keep"
+        );
     }
 
     fn sample_provision() -> Provision {

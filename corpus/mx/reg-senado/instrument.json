@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-senado",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento del Senado de la República",
+  "short_name": "REG-SENADO",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2010-06-04",
+  "latest_reform_date": "2024-12-06",
+  "retrieved_at": "2026-07-14T22:07:57.286319Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+  "source_sha256": "97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2",
+  "extracted_text_sha256": "b2e4fa64f9d14f69b978496ab08c5b8d73e36b0f7abdcecbd622c15f7d120707",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

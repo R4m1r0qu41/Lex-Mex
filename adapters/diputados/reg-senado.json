@@ -1,0 +1,23 @@
+{
+  "slug": "reg-senado",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-senado",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento del Senado de la República",
+  "short_name": "REG-SENADO",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/reg_senado.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2010-06-04",
+  "expected_min_articles": 313,
+  "expected_articles": 313,
+  "expected_transitories": 4,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-14T21:54:53Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

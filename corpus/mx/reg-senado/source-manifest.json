@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-senado",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/reg_senado.htm",
+  "retrieved_at": "2026-07-14T22:07:57.286319Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1220580,
+  "etag": "\"129fe4-62cb90a800d40\"",
+  "last_modified": "Tue, 28 Jan 2025 00:11:57 GMT",
+  "source_sha256": "97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2",
+  "extracted_text_sha256": "b2e4fa64f9d14f69b978496ab08c5b8d73e36b0f7abdcecbd622c15f7d120707",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "553baa6e3cf5cea2a1ec2a0f0011cf50f8bab9ac"
+}
