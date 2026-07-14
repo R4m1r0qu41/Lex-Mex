@@ -1,6 +1,6 @@
 # Architecture decisions
 
-## 2026-07-14 — Diputados split headings and same-day reform-decree identity
+## 2026-07-14 — Diputados split headings and reform-appendix identity
 
 Ingesting the Reglamento del Senado de la República exposed two independent
 layout boundaries in Cámara de Diputados consolidated PDFs that validation
@@ -14,13 +14,22 @@ counts alone did not catch:
   the omitted heading/body separator while preserving that numeral in the
   canonical text. Genuine compound headings such as `Artículo 15 Bis 1`
   remain unchanged.
-- **Every `DECRETO` line is a hard reform-appendix boundary.** Page furniture
+- **A true decree title is a hard reform-appendix boundary.** Page furniture
   can otherwise join the preceding signature or errata page to the next
-  decree. Singular/plural `ARTÍCULO(S) TRANSITORIO(S)` headings, colon-ended
-  ordinals, signature blocks, and `Fe de erratas` pages are normalized
-  explicitly. Operative `ARTÍCULO ÚNICO` text remains outside temporal
-  evidence; only the decree's transitories enter
+  decree. An uppercase `DECRETO` title (plus the documented older title-case
+  forms) opens that boundary; a wrapped legal sentence beginning `Decreto de
+  ...` does not. Likewise, a DOF publication phrase changes the containing
+  decree date only before its transitory section begins. The same phrase
+  inside a transitory remains canonical evidence instead of silently
+  re-dating that and all following transitories. Singular/plural `ARTÍCULO(S)
+  TRANSITORIO(S)` headings, colon-ended ordinals, signature blocks, and `Fe de
+  erratas` pages are normalized explicitly. Operative `ARTÍCULO ÚNICO` text
+  remains outside temporal evidence; only the decree's transitories enter
   `reform-temporal-evidence.json`.
+- **Numbered reform transitories are evidence headings.** Inside an explicit
+  transitory section, older `ARTICULO 1o.-` / `ARTICULO 2o.-` forms are parsed
+  as transitories, not discarded as operative decree articles. This preserves
+  the RGIC decree of October 21, 1966 alongside its ordinal-form peers.
 - **Same-day decrees receive distinct temporal-evidence identities.** The
   first decree published on a date retains the established
   `:amendment:YYYY-MM-DD:transitory:<ordinal>` ID. A later decree on that same
@@ -35,6 +44,12 @@ The Senate regulation now yields 313 articles, 4 original transitories, 47
 resolved canonical references, and 39 uniquely identified reform
 transitories. Temporal analysis remains deferred; this structural ingest
 creates no machine conclusion and no legal-review resolution.
+
+The RGIC exercises the combined rules: 214 articles, 2 original transitories,
+30 resolved references, and 23 reform transitories attributed to their actual
+DOF dates. Its 359 canonical paragraphs match the official extracted text
+after removing only configured running-page furniture. Temporal analysis is
+likewise deferred.
 
 ## 2026-07-12 — Old CNBV compilation format (2003–2015 DCGs)
 

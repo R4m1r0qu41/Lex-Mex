@@ -317,7 +317,7 @@ fn is_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
 
 fn is_immediate_structural(line: &str, options: &DiputadosOptions) -> bool {
     is_stop_marker(line, options)
-        || line.to_uppercase().starts_with("DECRETO ")
+        || is_decree_heading(line)
         || line.starts_with("LIBRO ")
         || line.starts_with("TÍTULO ")
         || line.starts_with("TITULO ")
@@ -327,6 +327,16 @@ fn is_immediate_structural(line: &str, options: &DiputadosOptions) -> bool {
         || line.starts_with("SECCION ")
         || line.starts_with("APARTADO ")
         || is_transitory_section_header(line)
+}
+
+/// A decree title, as opposed to a wrapped sentence whose next source line
+/// happens to begin with `Decreto de ...`. Diputados prints appendix decree
+/// titles in uppercase; the two title-case forms cover older consolidations
+/// without treating an embedded decree citation as a structural boundary.
+fn is_decree_heading(block: &str) -> bool {
+    block.starts_with("DECRETO ")
+        || block.starts_with("Decreto por el que ")
+        || block.starts_with("Decreto que ")
 }
 
 /// Line-level flush trigger, deliberately looser than the block-level
@@ -724,13 +734,17 @@ pub fn extract_reform_evidence(
             continue;
         }
         let uppercase = block.to_uppercase();
-        if uppercase.starts_with("DECRETO ") {
+        if is_decree_heading(&block) {
             flush_reform(&options.instrument_id, &mut current, &mut evidence);
             in_transitories = false;
             publication_date = None;
             decree_occurrence = None;
         }
-        if let Some(captures) = publication_re.captures(&block) {
+        // Wrapped decree titles can share a block with their publication
+        // note. Once the transitory section has begun, however, the same
+        // wording is a citation inside legal text and must not replace the
+        // containing decree's date or consume that transitory block.
+        if !in_transitories && let Some(captures) = publication_re.captures(&block) {
             publication_date = spanish_date(&captures[1], &captures[2], &captures[3]);
             if let Some(date) = publication_date {
                 let occurrence = decrees_by_date.entry(date).or_default();
@@ -756,11 +770,18 @@ pub fn extract_reform_evidence(
             in_transitories = false;
             continue;
         }
-        if let Some((ordinal, body)) = parse_transitory_start(&block, &ordinals) {
+        let transitory_start = parse_transitory_start(&block, &ordinals)
+            .map(|(ordinal, body)| (ordinal.to_owned(), body))
+            // Older decrees also number their transitories as articles
+            // (`ARTICULO 1o.-`, `ARTICULO 2o.-`). Once the appendix has
+            // entered a transitory section, these are evidence headings,
+            // not operative decree articles.
+            .or_else(|| parse_article_start(&block));
+        if let Some((ordinal, body)) = transitory_start {
             flush_reform(&options.instrument_id, &mut current, &mut evidence);
             let date = publication_date.ok_or_else(|| {
                 anyhow::anyhow!(
-                    "found reform transitory without its Diario Oficial publication date"
+                    "found reform transitory {ordinal:?} without its Diario Oficial publication date"
                 )
             })?;
             current = Some(ReformEvidenceBuilder {
@@ -770,7 +791,7 @@ pub fn extract_reform_evidence(
                         "found reform transitory without its containing decree identity"
                     )
                 })?,
-                ordinal: ordinal.to_owned(),
+                ordinal,
                 blocks: vec![body.to_owned()],
             });
         } else if let Some(builder) = &mut current {
@@ -929,6 +950,8 @@ mod tests {
                 "urn:lex-mx:federal:regulation:sample:amendment:2022-11-11:transitory:segundo",
                 "urn:lex-mx:federal:regulation:sample:amendment:2023-09-22:transitory:unico",
                 "urn:lex-mx:federal:regulation:sample:amendment:2023-09-22:decree-2:transitory:unico",
+                "urn:lex-mx:federal:regulation:sample:amendment:2024-01-02:transitory:1o",
+                "urn:lex-mx:federal:regulation:sample:amendment:2024-01-02:transitory:2o",
             ]
         );
         assert!(
@@ -941,6 +964,12 @@ mod tests {
                 .text
                 .contains("previsiones presupuestales necesarias")
         );
+        assert!(
+            evidence[1]
+                .text
+                .contains("Decreto de fecha 3 de enero de 2008")
+        );
+        assert!(evidence[1].provision_id.contains("2010-12-20"));
         assert!(!evidence[4].text.contains("reforma el artículo 10"));
         assert!(
             evidence

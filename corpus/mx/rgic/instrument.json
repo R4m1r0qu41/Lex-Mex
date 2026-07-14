@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:rgic",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos",
+  "short_name": "RGIC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1934-03-20",
+  "latest_reform_date": "2010-12-24",
+  "retrieved_at": "2026-07-14T22:38:27.827357Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf",
+  "source_sha256": "fff7e0e84270e4d5f9c103b0b792c5e05256d4c6957126d2a5c12509b6b383ec",
+  "extracted_text_sha256": "63a971f7e2e75de3c5a47b57e3a62a30295c6d981b5e74c30962b24271234106",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

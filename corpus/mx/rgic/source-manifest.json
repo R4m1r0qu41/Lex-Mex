@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:rgic",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/rgic.htm",
+  "retrieved_at": "2026-07-14T22:38:27.827357Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 650528,
+  "etag": "\"9ed20-5763b94042180\"",
+  "last_modified": "Wed, 19 Sep 2018 16:05:42 GMT",
+  "source_sha256": "fff7e0e84270e4d5f9c103b0b792c5e05256d4c6957126d2a5c12509b6b383ec",
+  "extracted_text_sha256": "63a971f7e2e75de3c5a47b57e3a62a30295c6d981b5e74c30962b24271234106",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "6747c949a119b8e42f2b2cfb22f0f7ae6f9a5f82"
+}
