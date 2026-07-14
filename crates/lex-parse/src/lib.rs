@@ -133,21 +133,66 @@ impl ReferencePatterns {
             )?,
             relative_article: Regex::new(r"(?i)\bartículo\s+(anterior|siguiente)\b")?,
             roman: Regex::new(r"\b[IVXLCDM]+\b")?,
-            number: Regex::new(
-                // A hyphenated qualifier (`156-Bis`) is tried before the
-                // single-letter suffix (`70-A`) so the letter rule does
-                // not swallow the `B` of `-Bis`; a letter may still carry
-                // a following space-separated qualifier (`15-B Bis`); and a
-                // qualifier may carry a compound trailing number
-                // (`95 Bis 3`, `168 Bis 10`). The trailing `\b` on each
-                // suffix keeps a following ordinal-paragraph word from
-                // matching as a truncated suffix: without it, `136 tercer
-                // párrafo` (no comma before the qualifier) let `Ter` consume
-                // the first three letters of `tercer`, fabricating a
-                // nonexistent `136-Ter` target and severing the rest of the
-                // citation list.
-                r"(?i)(?:\d{1,3}(?:,\d{3})+|\d{1,4})(?:-(?:Bis|Ter|Qu[áa]ter)\b(?:\s+\d{1,3})?|(?:-[A-Z])?(?:\s+(?:Bis|Ter|Qu[áa]ter)\b(?:\s+\d{1,3})?)?)",
-            )?,
+            // A hyphenated qualifier (`156-Bis`) is tried before the
+            // single-letter suffix (`70-A`) so the letter rule does not
+            // swallow the `B` of `-Bis`; a letter may still carry a
+            // following space-separated qualifier (`15-B Bis`); and a
+            // qualifier may carry a compound trailing number (`95 Bis 3`,
+            // `168 Bis 10`). The trailing `\b` on each suffix keeps a
+            // following ordinal-paragraph word from matching as a truncated
+            // suffix: without it, `136 tercer párrafo` (no comma before the
+            // qualifier) let `Ter` consume the first three letters of
+            // `tercer`, fabricating a nonexistent `136-Ter` target and
+            // severing the rest of the citation list. The same `\b` is
+            // required on the hyphenated letter branch too (`78-Terdecies`
+            // used to match as a phantom `78-T` before the qualifier
+            // alternation grew the Decies family — the qualifier branch is
+            // tried first and now matches the whole word, but the letter
+            // branch's own `\b` closes the gap for good).
+            //
+            // The final alternative is the space-separated single-letter
+            // suffix (`5 A,`, `304 B`, LGTOC's `228 h.`/`228 a.`) that a
+            // hyphen never introduces in running prose. Rust's `regex` has
+            // no lookahead, so two shapes are handled differently:
+            // - A permissive letter (any case except the five lowercase
+            //   Spanish connector words) is matched unconditionally by the
+            //   pattern, then rejected in `resolve_number_match` if it is
+            //   immediately followed by whitespace and a digit — the shape
+            //   of a list continuation (`133 Y 138`), not a suffix.
+            // - The lowercase connectors `a`/`e`/`o`/`u`/`y` double as
+            //   Spanish conjunctions ("35 o 147", "233 y, en su
+            //   oportunidad,"), so they only count as a suffix when the
+            //   pattern itself finds `.`/`;`/`)` immediately after —
+            //   consuming that terminator character sidesteps the missing
+            //   lookahead entirely, so no post-match check is needed for
+            //   this branch.
+            // The qualifier alternation is built from the shared
+            // `labels::QUALIFIERS` table (Bis..Novodecies) rather than
+            // hard-coded here, so a qualifier spelling only ever needs
+            // adding in one place. Sorted longest-first so `Terdecies`
+            // is offered before `Ter`; the `\b` after each qualifier
+            // makes this a belt-and-suspenders precaution rather than a
+            // load-bearing order, since a short prefix that fails the
+            // boundary check (`Ter` swallowing `Terdecies`) simply loses
+            // to the next alternative that reaches the full word.
+            number: Regex::new(&{
+                let mut qualifiers: Vec<&str> =
+                    labels::QUALIFIERS.iter().map(|(word, _)| *word).collect();
+                qualifiers.sort_by_key(|word| std::cmp::Reverse(word.chars().count()));
+                let qualifier_alt = qualifiers.join("|");
+                format!(
+                    // The letter branch's own separator is same-line
+                    // whitespace only (`[ \t]+`, not `\s+`): a citation
+                    // sitting right before a paragraph break (`artículo
+                    // 248\n\nV.- Al que...`, CPF's article 247) must never
+                    // let the next fracción's Roman-numeral heading read as
+                    // a phantom letter suffix (`248 V`) — a single capital
+                    // letter is exactly the shape those headings take, so
+                    // this branch is far more exposed to that than the
+                    // qualifier branch's multi-character words are.
+                    r"(?i)(?P<base>\d{{1,3}}(?:,\d{{3}})+|\d{{1,4}})(?:-(?:{qualifier_alt})\b(?:\s+\d{{1,3}})?|(?:-[A-Za-z]\b)?(?:\s+(?:{qualifier_alt})\b(?:\s+\d{{1,3}})?|[ \t]+(?P<letter>(?-i:[ABCDEFGHIJKLMNÑOPQRSTUVWXYZÁÉÍÓÚbcdfghijklmnñpqrstvwxzáéíóú]\b|[aeouy][.;)])))?)"
+                )
+            })?,
             separator: Regex::new(
                 r"(?ix)^(?:
             [\s,;:/()\-]+ |
@@ -729,8 +774,40 @@ fn extract_transitory_citations(
     references
 }
 
+/// Resolves one `patterns.number` match to the `regex::Match` that should
+/// actually represent the citation: the full match, or — when the match's
+/// only suffix is a permissive single letter (`captures.name("letter")`)
+/// immediately followed by whitespace and a digit, the shape of a list
+/// continuation (`133 Y 138`) rather than a genuine suffix — the `base`
+/// capture group alone, dropping the letter. Rust's `regex` crate has no
+/// lookahead to reject that shape while matching, so the rejection happens
+/// here instead, after the fact; the connector-letter branch (`a`/`e`/`o`/
+/// `u`/`y`) never reaches this rejection because the pattern itself already
+/// requires a `.`/`;`/`)` terminator immediately after it.
+fn resolve_number_match<'a>(group: &'a str, captures: &regex::Captures<'a>) -> regex::Match<'a> {
+    let full = captures.get(0).expect("number match always has group 0");
+    if captures.name("letter").is_none() {
+        return full;
+    }
+    let after = &group[full.end()..];
+    let trimmed = after.trim_start_matches(char::is_whitespace);
+    let letter_precedes_a_list_continuation = trimmed.len() < after.len()
+        && trimmed.starts_with(|character: char| character.is_ascii_digit());
+    if letter_precedes_a_list_continuation {
+        captures
+            .name("base")
+            .expect("number match always has the base capture")
+    } else {
+        full
+    }
+}
+
 fn accepted_numbers<'a>(group: &'a str, patterns: &ReferencePatterns) -> Vec<regex::Match<'a>> {
-    let candidates: Vec<_> = patterns.number.find_iter(group).collect();
+    let candidates: Vec<regex::Match<'a>> = patterns
+        .number
+        .captures_iter(group)
+        .map(|captures| resolve_number_match(group, &captures))
+        .collect();
     let Some(first) = candidates.first() else {
         return Vec::new();
     };
@@ -1926,8 +2003,9 @@ mod tests {
     use pretty_assertions::assert_eq;
 
     use super::{
-        DiputadosOptions, InstrumentContextPolicy, ReferenceOptions, extract_internal_references,
-        extract_references, extract_reform_evidence, parse_dcg, parse_diputados, validate_lritf,
+        DiputadosOptions, InstrumentContextPolicy, ReferenceOptions, ReferencePatterns,
+        accepted_numbers, extract_internal_references, extract_references, extract_reform_evidence,
+        parse_dcg, parse_diputados, validate_lritf,
     };
 
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");
@@ -2830,6 +2908,80 @@ mod tests {
             .find(|edge| edge.target_provision_id.ends_with(":article:136"))
             .expect("article 136 edge");
         assert_eq!(article_136.qualifiers[0].text, "tercer párrafo");
+    }
+
+    /// Test-only helper for `number_regex_recognizes_letter_and_decies_suffixes`:
+    /// the accepted citations' raw source text, in order.
+    fn accepted_number_strings<'a>(group: &'a str, patterns: &ReferencePatterns) -> Vec<&'a str> {
+        accepted_numbers(group, patterns)
+            .iter()
+            .map(regex::Match::as_str)
+            .collect()
+    }
+
+    /// Task #22: the `number` regex must recognize space-separated
+    /// single-letter suffixes (LGTOC's `228 h.`/`228 a.`, LSS's `304 B`,
+    /// pre-1994-style `5 A,`) and the full Decies-family qualifier
+    /// alternation (LAC's `78 Decies`..`78 Novodecies`, LAERO's all-caps
+    /// `73 DECIES`), while never treating a lowercase Spanish connector
+    /// (`y`/`o`/`a`/`e`/`u`) or a list-continuation letter (`133 Y 138`) as
+    /// a suffix. Exercised directly against `accepted_numbers` — the
+    /// regex/extraction layer — rather than through a full document parse,
+    /// since these are grammar-shape assertions, not corpus-resolution
+    /// ones.
+    #[test]
+    fn number_regex_recognizes_letter_and_decies_suffixes() {
+        let patterns = ReferencePatterns::new().expect("patterns compile");
+        let raws = |group: &'static str| accepted_number_strings(group, &patterns);
+
+        // Positive: space-separated single-letter suffixes. `accepted_numbers`
+        // takes the group text *after* the `artículo(s)` header match, so
+        // these fixtures start directly at the number, as the real caller
+        // (`extract_reference_group`) always passes them.
+        assert_eq!(raws("228 h."), ["228 h"]);
+        // A connector letter's terminator is consumed as part of the match
+        // itself (the only way to require "immediately followed by `.`"
+        // without lookahead); `canonical_article_id`'s `labels::canonical_slug`
+        // strips it back out when building the target id ("228-a").
+        assert_eq!(raws("228 a."), ["228 a."]);
+        assert_eq!(raws("228 h;"), ["228 h"]);
+        assert_eq!(raws("5 A,"), ["5 A"]);
+        assert_eq!(raws("304 B"), ["304 B"]);
+
+        // Negative: a lowercase connector without an immediate `.`/`;`/`)`
+        // terminator is not a suffix — it is the Spanish word "y"/"o".
+        assert_eq!(raws("233 y, en su oportunidad, renovado"), ["233"]);
+        assert_eq!(raws("54 o, en su caso,"), ["54"]);
+
+        // A citation list joined by "o"/"y" stays two plain numbers, not a
+        // fabricated `<n>-o`/`<n>-y` suffix.
+        assert_eq!(raws("35 o 147 Bis"), ["35", "147 Bis"]);
+        assert_eq!(raws("133 y 138"), ["133", "138"]);
+        // All-caps decree text: uppercase "Y" is a permissive letter at the
+        // regex level, but the post-match check drops it because it is
+        // immediately followed by whitespace and a digit.
+        assert_eq!(raws("133 Y 138"), ["133", "138"]);
+
+        // Positive: the Decies-family qualifiers, spelled out, all-caps,
+        // and hyphenated lowercase.
+        assert_eq!(raws("73 DECIES"), ["73 DECIES"]);
+        assert_eq!(raws("78 Quaterdecies"), ["78 Quaterdecies"]);
+        assert_eq!(raws("78-terdecies"), ["78-terdecies"]);
+
+        // Regressions: compound qualifiers, the phantom-Ter fix, and plain
+        // hyphenated forms stay exactly as before.
+        assert_eq!(raws("95 Bis 3"), ["95 Bis 3"]);
+        assert_eq!(raws("136 tercer párrafo"), ["136"]);
+        assert_eq!(raws("156-Bis"), ["156-Bis"]);
+        assert_eq!(raws("70-A"), ["70-A"]);
+
+        // Regression (found while relinking CPF's article 247): a citation
+        // sitting right before a paragraph break must not let the next
+        // fracción's Roman-numeral heading read as a phantom letter suffix.
+        // `248\n\nV.- Al que...` is the exact CPF 247 shape; the letter
+        // branch's separator is same-line whitespace only, so it must not
+        // cross the blank line to reach the `V`.
+        assert_eq!(raws("248\n\nV.- Al que en juicio"), ["248"]);
     }
 
     #[test]
