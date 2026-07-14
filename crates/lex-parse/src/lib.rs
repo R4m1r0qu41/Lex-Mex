@@ -1189,11 +1189,7 @@ fn validate_provisions(
                 Some(provision.id.clone()),
             ));
         }
-        if provision.text.contains("CÁMARA DE DIPUTADOS")
-            || provision
-                .text
-                .contains("Secretaría de Servicios Parlamentarios")
-        {
+        if contains_page_header_contamination(&provision.text) {
             issues.push(error(
                 "header_contamination",
                 "page header leaked into provision text".to_owned(),
@@ -1246,6 +1242,13 @@ fn validate_provisions(
             ProvisionType::Transitory => {}
         }
     }
+}
+
+fn contains_page_header_contamination(text: &str) -> bool {
+    text.lines().map(str::trim).any(|line| {
+        line.starts_with("CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN")
+            || line == "Secretaría de Servicios Parlamentarios"
+    })
 }
 
 /// Gap-tolerant article ordering for códigos. Every article number must
@@ -1699,8 +1702,9 @@ mod tests {
     use pretty_assertions::assert_eq;
 
     use super::{
-        DiputadosOptions, InstrumentContextPolicy, ReferenceOptions, extract_internal_references,
-        extract_references, extract_reform_evidence, parse_dcg, parse_diputados, validate_lritf,
+        DiputadosOptions, InstrumentContextPolicy, ReferenceOptions,
+        contains_page_header_contamination, extract_internal_references, extract_references,
+        extract_reform_evidence, parse_dcg, parse_diputados, validate_lritf,
     };
 
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");
@@ -1984,6 +1988,19 @@ mod tests {
                 .iter()
                 .any(|item| item.text.contains("reforma posterior"))
         );
+    }
+
+    #[test]
+    fn header_contamination_requires_standalone_page_furniture() {
+        assert!(!contains_page_header_contamination(
+            "La Secretaría de Servicios Parlamentarios presta apoyo a la Cámara."
+        ));
+        assert!(contains_page_header_contamination(
+            "Texto anterior.\nSecretaría de Servicios Parlamentarios\nTexto posterior."
+        ));
+        assert!(contains_page_header_contamination(
+            "CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN\nSecretaría General"
+        ));
     }
 
     #[test]

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:locg",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/locg.htm",
+  "retrieved_at": "2026-07-14T20:33:19.612184Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1059317,
+  "etag": "\"1029f5-6398420431f00\"",
+  "last_modified": "Wed, 09 Jul 2025 19:31:40 GMT",
+  "source_sha256": "30e92e19100dc26408ce0b130151f8c44fe25aeb113eff14f3515553330ba230",
+  "extracted_text_sha256": "3004d5078688a24125a9cffa01d4b0e75dd9bf74040356bfddc845af5bee9f13",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "92774db405988a464bc2fd74c77655ca8aa8d080"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:locg",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
+  "short_name": "LOCG",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1999-09-03",
+  "latest_reform_date": "2025-07-07",
+  "retrieved_at": "2026-07-14T20:33:19.612184Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf",
+  "source_sha256": "30e92e19100dc26408ce0b130151f8c44fe25aeb113eff14f3515553330ba230",
+  "extracted_text_sha256": "3004d5078688a24125a9cffa01d4b0e75dd9bf74040356bfddc845af5bee9f13",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

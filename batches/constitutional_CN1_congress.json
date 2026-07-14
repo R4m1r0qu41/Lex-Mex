@@ -1,0 +1,58 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "constitutional_CN1_congress",
+  "description": "CN1 constitutional and congressional instruments not already present at execution time.",
+  "notes": [
+    "Normalized from prompts/cluster-2-batches/lex-mex-cl2-batch-CN1.json for the repository Rust ingestion gate.",
+    "CPEUM is omitted because commit 00dc7b7a already ingested it before this operational manifest was created.",
+    "All sources were recorded from the official Cámara de Diputados LeyesBiblio index in the prepared cluster-2 source set."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "locg",
+      "title": "LEY Orgánica del Congreso General de los Estados Unidos Mexicanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/locg.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf"
+    },
+    {
+      "slug": "reg-diputados",
+      "title": "REGLAMENTO de la Cámara de Diputados",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/reg_diputados.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf"
+    },
+    {
+      "slug": "reg-senado",
+      "title": "REGLAMENTO del Senado de la República",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/reg_senado.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf"
+    },
+    {
+      "slug": "rgic",
+      "title": "REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/rgic.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf"
+    },
+    {
+      "slug": "ldofgg",
+      "title": "LEY del Diario Oficial de la Federación y Gacetas Gubernamentales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldofgg.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/75_100619.pdf"
+    }
+  ]
+}
