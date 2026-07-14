@@ -9,30 +9,23 @@ preserves their provenance, produces stable canonical records, validates model
 output, routes material legal uncertainty to a named reviewer, and publishes
 lawyer-readable Markdown and Obsidian views.
 
-The committed corpus contains three instruments. The consolidated **Ley para
-Regular las Instituciones de Tecnología Financiera (LRITF)** published by the
-Cámara de Diputados has 145 articles, 11 original transitory provisions, 19
-temporal determinations, 32 structured legal effects, and 126 validated
-reference edges. The jointly issued CNBV/Banco de México **Disposiciones
-aplicables a las instituciones de fondos de pago electrónico** of January 28,
-2021 (`ifpe-dcg-2021`) has 59 articles, 4 transitories, all 8 annexes
-acquired as the dedicated per-annex PDFs CNBV publishes alongside the main
-document, 4 temporal determinations, and 113 reference edges, including
-resolved cross-instrument citations of LRITF Articles 22, 29, 48, 54, 56, 58
-and its OCTAVA transitoria. The CNBV's general **Disposiciones de carácter
-general aplicables a las instituciones de tecnología financiera** of
-September 10, 2018 (`itf-dcg-2018`), compiled through six amending
-resolutions, has 105 articles (including 15 Bis and 15 Bis 1), 7 original
-transitories, 20 per-annex PDFs, 143 reference edges, 17 temporal
-determinations covering the original and every resolution's transitories,
-and the corpus's first structured amendment provenance: each provision
-records the compiled document's margin marks, resolved through the parsed
-REFERENCIAS legend. The glossaries are extracted as canonical defined terms
-(LRITF Article 4, IFPE DCG Article 1, ITF DCG Article 2 — the DCG glossaries
-expressly additive to the statute's), and every exact term usage links to
-its definition's block anchor. One legal review is pending: the ITF DCG's
-derogated transitory SÉPTIMO awaits lawyer confirmation of its derogation
-provenance.
+The committed corpus currently contains **132 federal instruments** acquired
+through the Rust ingestion gate: 31,945 articles, 1,165 original transitory
+provisions, 28 annexes, and 16,645 resolved reference edges. The normalization
+program is expanding the original LRITF/Fintech vertical slice across official
+Cámara de Diputados and CNBV consolidated sources while preserving source
+hashes, parser baselines, canonical JSON, validation reports, and generated
+Markdown for every instrument.
+
+Temporal analysis remains intentionally narrower than structural ingestion.
+The audited temporal corpus currently covers LRITF, `ifpe-dcg-2021`, and
+`itf-dcg-2018`; one legal review remains pending for the ITF DCG's derogated
+transitory SÉPTIMO. Newly normalized instruments stay `not_analyzed` until a
+separate schema-gated temporal pass is authorized.
+
+The active congressional batch (`constitutional_CN1_congress`) is complete
+through `locg`, `reg-diputados`, and `reg-senado`. Its next checkpoint is
+`rgic`, followed by `ldofgg` and a CN1 reverse-link validation pass.
 
 > [!IMPORTANT]
 > Lex-Mex is not an official publication, is not affiliated with the Mexican
@@ -170,7 +163,8 @@ marked `external_verification_required`, separately from legal ambiguity.
 
 ## Individual pipeline stages
 
-Each command takes an instrument slug (`lritf`, `ifpe-dcg-2021`, or `itf-dcg-2018`):
+Each command takes the slug of a configured instrument, for example `lritf`,
+`reg-senado`, or `itf-dcg-2018`:
 
 ```bash
 cargo run --locked -p lex-cli -- discover diputados
@@ -203,11 +197,10 @@ prompts/    versioned temporal-analysis prompts
 schemas/    versioned JSON Schemas for trusted boundaries
 ```
 
-See [`docs/project-status.md`](docs/project-status.md) for implemented and
-tested scope, known gaps, and suggested next steps. With the DCG-IFPE-2021
-ingested and its LRITF cross-references resolved, the next substantive work
-is relative-reference resolution and the defined-term layer, followed by the
-remaining MVP statutes.
+See [`docs/project-status.md`](docs/project-status.md) for the current corpus
+inventory, verification state, known gaps, and active checkpoint. The detailed
+normalization execution and recovery sequence is maintained in
+[`PLAN.md`](PLAN.md).
 
 ## Development
 
