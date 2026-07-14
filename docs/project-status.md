@@ -2,9 +2,9 @@
 
 - **Status date:** 2026-07-14
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 132
+- **Committed instruments:** 133
 - **Active ingestion batch:** `constitutional_CN1_congress`
-- **Next checkpoint:** `rgic`
+- **Next checkpoint:** `ldofgg`
 - **Current legal reviewer:** JRH
 
 ## 1. Current state
@@ -25,17 +25,17 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 132 |
-| Articles | 31,945 |
-| Original transitory provisions | 1,165 |
+| Instruments | 133 |
+| Articles | 32,159 |
+| Original transitory provisions | 1,167 |
 | Annexes | 28 |
-| Reference edges | 16,645 |
+| Reference edges | 16,675 |
 | Unresolved reference edges | 0 |
 | Canonical defined terms | 1,511 |
 | Canonical term usages | 31,164 |
-| Generated Markdown files | 33,270 |
+| Generated Markdown files | 33,487 |
 
-All 132 committed `validation.json` reports are valid. They contain 187
+All 133 committed `validation.json` reports are valid. They contain 187
 non-blocking review warnings: 162 suffixed-article ordering notices, 16
 unfrozen count baselines in previously admitted instruments, 7 article-gap
 notices, and 2 suffix-order notices. These warnings remain explicit; validity
@@ -102,13 +102,14 @@ per checkpoint:
 | 1 | `locg` | 151 articles / 8 transitories / 31 references / 0 issues | `97fa5cbc` |
 | 2 | `reg-diputados` | 323 / 13 / 40 / 0 | `553baa6e` |
 | 3 | `reg-senado` | 313 / 4 / 47 / 0 | `488057a5` |
-| 4 | `rgic` | Next | — |
+| 4 | `rgic` | 214 / 2 / 30 / 0 | `2e061724` |
 | 5 | `ldofgg` | Pending | — |
 
-Checkpoint 4 starts with a provisional source and parser pass, followed by
-manual inspection, frozen counts, relinking, validation, Markdown inspection,
-the required workspace regression checks, and a dedicated commit. Checkpoint 5
-then follows the same sequence. CN1 closes only after reverse relinking and
+Checkpoint 4 also isolated 23 uniquely identified RGIC reform transitories and
+added regression coverage for wrapped decree citations, embedded publication
+dates, and numbered reform transitories. Checkpoint 5 follows the same
+provisional inspection, frozen-count, relink, validation, Markdown, and
+regression sequence. CN1 closes only after reverse relinking and
 cross-instrument edge review; a successful forward batch run alone is not
 sufficient.
 
@@ -116,25 +117,26 @@ The full execution and recovery procedure is in [`../PLAN.md`](../PLAN.md).
 
 ## 5. Verification state
 
-Checkpoint 3 was verified on 2026-07-14 with:
+Checkpoint 4 was verified on 2026-07-14 with:
 
 - `cargo fmt --check`
 - `cargo clippy --workspace --all-targets -- -D warnings`
 - `cargo test --workspace`
 - `cargo run --locked -p lex-cli -- validate lritf`
 - `cargo run --locked -p lex-cli -- validate ifpe-dcg-2021`
-- `cargo run --locked -p lex-cli -- validate reg-senado`
+- `cargo run --locked -p lex-cli -- validate rgic`
 - the affected CN1 batch end-to-end run and canonical/Markdown inspection
 
-Results were clean for the required regressions. `reg-senado` validated at 313
-articles, 4 original transitories, 47 resolved references, and zero issues.
-Its 39 reform-transitory evidence records have unique identifiers, and its
-Markdown export contains exactly one index, 313 article notes, and 4 original
-transitory notes.
+Results were clean for the required regressions. `rgic` validated at 214
+articles, 2 original transitories, 30 resolved references, and zero issues.
+Its 23 reform-transitory evidence records have unique identifiers; all 359
+canonical paragraphs match the official extracted text after removing only
+configured running-page furniture. Its Markdown export contains exactly one
+index, 214 article notes, and 2 original transitory notes.
 
 ## 6. Known gaps and next actions
 
-The immediate action is checkpoint 4, `rgic`. After `ldofgg`, CN1 requires a
+The immediate action is checkpoint 5, `ldofgg`. It is followed by a CN1
 reverse-link pass because earlier instruments cannot discover later sibling
 targets during their initial parse.
 
@@ -146,7 +148,8 @@ Known engineering and corpus gaps remain:
 - 16 previously admitted instruments still carry unfrozen count warnings;
 - no automated Cámara/CNBV/DOF source-change monitor, candidate-version flow,
   or provision-level update diff exists;
-- `source-manifest.resulting_git_commit` is not populated automatically;
+- `source-manifest.resulting_git_commit` records the pre-ingestion HEAD rather
+  than the commit that ultimately contains the resulting corpus;
 - full CLI network flows and live model execution remain integration-tested
   manually rather than in hermetic CI;
 - temporal analysis and legal review remain deferred for the normalization
@@ -154,8 +157,7 @@ Known engineering and corpus gaps remain:
 
 The next operational sequence is therefore:
 
-1. ingest, inspect, freeze, validate, and commit `rgic`;
-2. repeat for `ldofgg`;
-3. reverse-relink and audit CN1 cross-instrument references;
-4. select and normalize the next prepared cluster-2 batch without silently
+1. ingest, inspect, freeze, validate, and commit `ldofgg`;
+2. reverse-relink and audit CN1 cross-instrument references;
+3. select and normalize the next prepared cluster-2 batch without silently
    expanding legal or temporal scope.

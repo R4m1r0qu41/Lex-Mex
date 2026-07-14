@@ -9,9 +9,9 @@ preserves their provenance, produces stable canonical records, validates model
 output, routes material legal uncertainty to a named reviewer, and publishes
 lawyer-readable Markdown and Obsidian views.
 
-The committed corpus currently contains **132 federal instruments** acquired
-through the Rust ingestion gate: 31,945 articles, 1,165 original transitory
-provisions, 28 annexes, and 16,645 resolved reference edges. The normalization
+The committed corpus currently contains **133 federal instruments** acquired
+through the Rust ingestion gate: 32,159 articles, 1,167 original transitory
+provisions, 28 annexes, and 16,675 resolved reference edges. The normalization
 program is expanding the original LRITF/Fintech vertical slice across official
 Cámara de Diputados and CNBV consolidated sources while preserving source
 hashes, parser baselines, canonical JSON, validation reports, and generated
@@ -24,8 +24,8 @@ transitory SÉPTIMO. Newly normalized instruments stay `not_analyzed` until a
 separate schema-gated temporal pass is authorized.
 
 The active congressional batch (`constitutional_CN1_congress`) is complete
-through `locg`, `reg-diputados`, and `reg-senado`. Its next checkpoint is
-`rgic`, followed by `ldofgg` and a CN1 reverse-link validation pass.
+through `locg`, `reg-diputados`, `reg-senado`, and `rgic`. Its final ingestion
+checkpoint is `ldofgg`, followed by a CN1 reverse-link validation pass.
 
 > [!IMPORTANT]
 > Lex-Mex is not an official publication, is not affiliated with the Mexican

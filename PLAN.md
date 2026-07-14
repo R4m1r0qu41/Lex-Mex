@@ -49,9 +49,10 @@ The audited starting point for this plan is local `main` at `488057a5ce979d62610
 - `locg` is committed and validates with 151 articles, 8 original transitories, and zero issues (`97fa5cbc`);
 - `reg-diputados` is committed and validates with 323 articles, 13 original transitories, and zero issues (`553baa6e`);
 - `reg-senado` is committed and validates with 313 articles, 4 original transitories, and zero issues (`488057a5`);
-- `rgic` and `ldofgg` are the remaining operational CN1 entries without adapters or corpus directories;
+- `rgic` is committed and validates with 214 articles, 2 original transitories, 30 references, 23 reform-transitory evidence records, and zero issues (`2e061724`);
+- `ldofgg` is the remaining operational CN1 entry without an adapter or corpus directory;
 - `.gitignore`, the two federal cluster plans, and 53 prepared cluster-2 manifests are an existing dirty source wave and must be preserved;
-- the Agent Vault active-run capsule is stale at checkpoint 3: it still names `reg-senado` as next even though `488057a5` completed it. Reconcile the capsule before using it for navigation or handoff.
+- the Agent Vault active-run capsule is stale at checkpoint 3: it still names `reg-senado` as next even though CN1 is now complete through `rgic`. Reconcile it through `2e061724` and set `ldofgg` as next before using the capsule for navigation or handoff.
 
 Do not assume these statements remain current. At every resumption, compare them with `git log`, `git status`, the operational manifest, adapter presence, corpus presence, validation files, and the active-run drift report.
 
@@ -60,8 +61,8 @@ Do not assume these statements remain current. At every resumption, compare them
 - [x] (2026-07-14 20:33Z) Ingested and committed `locg` at `97fa5cbc`; validation recorded zero issues.
 - [x] (2026-07-14 21:02Z) Ingested and committed `reg-diputados` at `553baa6e`; validation recorded zero issues.
 - [x] (2026-07-14 22:08Z) Ingested and committed `reg-senado` plus narrowly required parser fixtures and hardening at `488057a5`; validation recorded zero issues.
-- [ ] Reconcile the stale active-run capsule with HEAD `488057a5` and set `rgic` as the next action without silently re-baselining unrelated dirty state.
-- [ ] Ingest, inspect, freeze, relink, validate, and commit `rgic` as one reviewable unit.
+- [ ] Reconcile the stale active-run capsule through HEAD `2e061724` and set `ldofgg` as the next action without silently re-baselining unrelated dirty state.
+- [x] (2026-07-14 22:44Z) Ingested, inspected, froze, relinked, validated, and committed `rgic` with the required parser regression at `2e061724`.
 - [ ] Ingest, inspect, freeze, relink, validate, and commit `ldofgg` as one reviewable unit.
 - [ ] Close CN1 with a reverse-link validation pass and an updated plan checkpoint.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
@@ -70,7 +71,7 @@ Do not assume these statements remain current. At every resumption, compare them
 ## Surprises and discoveries
 
 - Observation: the active-run capsule is behind live repository state.
-  Evidence: checkpoint 3 names `reg-senado` as next, while HEAD `488057a5` contains `adapters/diputados/reg-senado.json` and a valid committed `corpus/mx/reg-senado/`.
+  Evidence: checkpoint 3 names `reg-senado` as next, while HEAD `2e061724` contains valid committed corpora through `rgic`.
 - Observation: the batch-report JSON literal contains the `results` member twice.
   Evidence: `run_batch` in `crates/lex-cli/src/main.rs` supplies two identical `"results": results` entries to `serde_json::json!`. Current reports look correct because the later identical value wins, but the duplicate is a maintenance defect and should be fixed separately with a regression test.
 - Observation: a successful batch run does not close reverse cross-instrument links.
@@ -107,9 +108,10 @@ At the start of the next session, inspect the live repository before running any
     git log -5 --oneline
     python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py discover --repo . --inject
 
-Preserve the dirty `.gitignore` and prepared `prompts/` source wave. Reconcile the active-run checkpoint through the reviewed checkpoint command so its completed milestones include `reg-senado` and its next action is `rgic`. If live HEAD, dirty state, or source digests have moved again, record that drift before changing the capsule.
+Preserve the dirty `.gitignore` and prepared `prompts/` source wave. Reconcile the active-run checkpoint through the reviewed checkpoint command so its completed milestones include `reg-senado` and `rgic`, and its next action is `ldofgg`. If live HEAD, dirty state, or source digests have moved again, record that drift before changing the capsule.
 
-For `rgic`, scaffold the adapter explicitly, then run a provisional structural pass without freezing counts:
+RGIC completed the following provisional structural sequence before its counts
+were frozen; retain it as the checkpoint audit trail:
 
     cargo run --locked -p lex-cli -- adapter scaffold batches/constitutional_CN1_congress.json rgic
     cargo run --locked -p lex-cli -- batch run batches/constitutional_CN1_congress.json --only rgic --keep-work
@@ -255,7 +257,7 @@ A human reviewer should be able to choose any admitted slug and verify all of th
 
 ## Outcomes and retrospective
 
-Current outcome: CN1 is partially complete through `reg-senado`; `rgic` is the next structural unit. The first resume must repair the stale active-run checkpoint. The batch-report duplicate key, missing batch reverse-link phase, and disconnected alias registry are flagged defects and are not fixed by this plan-only commit.
+Current outcome: CN1 is partially complete through `rgic`; `ldofgg` is the final structural unit. The external active-run capsule still requires reconciliation before it is used for navigation or handoff. The batch-report duplicate key, missing batch reverse-link phase, and disconnected alias registry remain flagged defects.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 
