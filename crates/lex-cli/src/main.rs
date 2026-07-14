@@ -934,6 +934,15 @@ fn run_batch(
 /// same phrase names a different instrument and stays external (via the
 /// generic external markers). "ordenamiento" is a kind-neutral
 /// self-reference used by both.
+///
+/// `"constitution"` has its own arm rather than falling into the ley-shaped
+/// default: CPEUM never calls itself a ley, only "esta Constitución"/"la
+/// presente Constitución". Without this arm the self-reference race in
+/// `sentence_target` has no internal candidate at all, so any correctly
+/// configured external law named later in the same run-on sentence wins by
+/// default — e.g. CPEUM art. 3's "...artículo 123 de esta Constitución, en
+/// los términos... que establezca la Ley Federal del Trabajo..." was
+/// silently retargeting the Constitution's own article 123 to LFT.
 fn self_reference_markers(instrument_type: &str) -> Vec<String> {
     let own = match instrument_type {
         "code" => ["de este código", "del presente código", "este código"].as_slice(),
@@ -944,7 +953,13 @@ fn self_reference_markers(instrument_type: &str) -> Vec<String> {
             "de estas disposiciones",
         ]
         .as_slice(),
-        // statute, constitution, and anything else are ley-shaped.
+        "constitution" => [
+            "de esta constitución",
+            "de la presente constitución",
+            "esta constitución",
+        ]
+        .as_slice(),
+        // statute and anything else are ley-shaped.
         _ => ["de esta ley", "de la presente ley", "esta ley"].as_slice(),
     };
     own.iter()
