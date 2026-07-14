@@ -2,8 +2,8 @@
   "schema_version": "0.1.0",
   "instrument_id": "urn:lex-mx:federal:statute:lac",
   "valid": true,
-  "article_count": 144,
+  "article_count": 154,
   "transitory_count": 4,
-  "reference_count": 56,
+  "reference_count": 46,
   "issues": []
 }

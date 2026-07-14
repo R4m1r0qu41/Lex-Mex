@@ -17,7 +17,7 @@ source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
 
 # Artículo 163
 
-La concesión de licencias a que se refiere el artículo 161, la hará el Ejecutivo de la Unión por conducto del Departamento o Secretaría que designe, sujetándose a las prevenciones de la ley reglamentaria respectiva, y a las siguientes:
+La concesión de licencias a que se refiere el artículo [161](articulo-161.md), la hará el Ejecutivo de la Unión por conducto del Departamento o Secretaría que designe, sujetándose a las prevenciones de la ley reglamentaria respectiva, y a las siguientes:
 
 I.- La venta de las armas comprendidas en el artículo [161](articulo-161.md), sólo podrá hacerse por establecimientos mercantiles provistos de licencia y nunca por particulares, y
 

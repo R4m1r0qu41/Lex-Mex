@@ -1,0 +1,45 @@
+{
+  "schema_version": "0.1.0",
+  "prompt_version": "temporal-v2",
+  "instrument_id": "urn:lex-mx:federal:statute:lgs",
+  "publication_date": "1984-02-07",
+  "latest_reform_date": null,
+  "relevant_provisions": [
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgs:transitory:primero",
+      "label": "Primero",
+      "text": "Esta Ley entrará en vigor a partir del primero de julio de mil novecientos ochenta y cuatro."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgs:transitory:segundo",
+      "label": "Segundo",
+      "text": "Se deroga el Código Sanitario de los Estados Unidos Mexicanos de 26 de febrero de 1973, publicado en el Diario Oficial de la Federación el 13 de marzo de 1973, a excepción de las disposiciones que conforme a esta Ley sean materia de salubridad local, hasta en tanto no se expidan las leyes de salud locales correspondientes. Se derogan las demás disposiciones legales en lo que se opongan a las de la presente Ley."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgs:transitory:tercero",
+      "label": "Tercero",
+      "text": "Se abrogan la Ley de Coordinación y Cooperación de Servicios Sanitarios en la República, publicada en el Diario Oficial de la Federación el 25 de agosto de 1934; la Ley que declara de utilidad pública la campaña contra el Paludismo y crea la Comisión de Saneamiento Antimalárico, publicada en el Diario Oficial de la Federación el 27 de septiembre de 1938, la Ley de la Dirección de Cooperación Interamericana de Salubridad Pública, publicada en el Diario Oficial de la Federación el 2 de marzo de 1945, y la ley que autoriza la creación de la Granja para Alienados Pacíficos en San Pedro del Monte, Guanajuato, publicada en el Diario Oficial de la Federación el 11 de junio de 1945."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgs:transitory:cuarto",
+      "label": "Cuarto",
+      "text": "En tanto se expidan las disposiciones administrativas derivadas de esta Ley, seguirán en vigor las que rigen actualmente, en lo que no la contravengan, y sus referencias al Código Sanitario de los Estados Unidos Mexicanos que se deroga se entienden hechas en lo aplicable a la presente Ley."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgs:transitory:quinto",
+      "label": "Quinto",
+      "text": "Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia del Código Sanitario de los Estados Unidos Mexicanos que se deroga, se tramitarán y resolverán conforme a las disposiciones del citado Código."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgs:transitory:sexto",
+      "label": "Sexto",
+      "text": "El Ejecutivo Federal, por conducto de la Secretaría de Salud, celebrará, en un plazo que no excederá de un año, contado a par tir de la fecha en que entre en vigor esta Ley, con los gobiernos de los Estados, los acuerdos de coordinación que respecto de aquellas materias que en los términos de esta Ley y demás disposiciones legales aplicables sean de interés común.\n\nEn el Distrito Federal, el Ejecutivo Federal determinará las bases de coordinación y de los convenios entre la Secretaría de Salud y el propio Departamento del Distrito Federal para los efectos del párrafo anterior."
+    },
+    {
+      "provision_id": "urn:lex-mx:federal:statute:lgs:transitory:septimo",
+      "label": "Séptimo",
+      "text": "Se concede un plazo de sesenta días naturales, contados a partir de la fecha en que entre en vigor esta Ley, para que los fabricantes y embotelladores de bebidas alcohólicas, fabricantes de productos de tabaco, fabricantes y expendedores de agentes de diagnóstico y de medicamentos, y, en general, todos los obligados conforme a esta Ley, incluyan en las etiquetas, contraetiquetas y envases, las leyendas que la misma establece.\n\nMéxico, D. F., a 26 de diciembre de 1983.- Luz Lajous, D. P.- Raúl Salinas Lozano, S. P.- Xóchitl Elena Llanera de Guillén, D. S.- Alberto E. Villanueva Sansores, S.S.- Rúbricas.\n\nEn cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y tres.- Miguel de la Madrid Hurtado.- Rúbrica.- El Secretario de Salubridad y Asistencia, Guillermo Soberón Acevedo.- Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- El Secretario de la Defensa Nacional, Juan Arévalo Gardoqui.- Rúbrica.- El Secretario de Marina, Miguel Angel Gómez Ortega.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Jesús Silva Herzog Flores.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Héctor Hernández Cervantes.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Rodolfo Félix Valdés.- Rúbrica.- El Secretario de Desarrollo Urbano y Ecológico, Marcelo Javelly Girard.- Rúbrica.- El Secretario de Educación Pública, Jesús Reyes Heroles.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Arsenio Farell Cubillas.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Ramón Aguirre Velázquez.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett Díaz.- Rúbrica. Fe de erratas al párrafo DOF 06-09-1984"
+    }
+  ],
+  "required_output_schema": "schemas/temporal-model-output-v2.schema.json"
+}

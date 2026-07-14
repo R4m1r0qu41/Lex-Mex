@@ -17,6 +17,6 @@ source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
 
 # Artículo 199 Ter
 
-A quien cometa el delito previsto en el artículo 466 de la Ley General de Salud con violencia, se impondrá de cinco a catorce años de prisión y hasta ciento veinte días multa.
+A quien cometa el delito previsto en el artículo [466](../../lgs/markdown/articulo-466.md) de la Ley General de Salud con violencia, se impondrá de cinco a catorce años de prisión y hasta ciento veinte días multa.
 
 Artículo adicionado DOF 14-06-2012

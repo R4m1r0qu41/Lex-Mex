@@ -10,13 +10,13 @@
   "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lac.htm",
   "publisher": "Cámara de Diputados del H. Congreso de la Unión",
   "publication_date": "1995-05-12",
-  "expected_min_articles": 144,
-  "expected_articles": 144,
+  "expected_min_articles": 154,
+  "expected_articles": 154,
   "expected_transitories": 4,
   "count_baseline": {
     "provenance": "machine-proposed",
     "parser_version": "0.1.0",
-    "proposed_at": "2026-07-12T08:04:13Z"
+    "proposed_at": "2026-07-14T15:23:57Z"
   },
   "allow_article_gaps": true,
   "formal_publication_urls": {}

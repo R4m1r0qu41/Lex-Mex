@@ -2,8 +2,8 @@
   "schema_version": "0.1.0",
   "instrument_id": "urn:lex-mx:federal:statute:lgs",
   "valid": true,
-  "article_count": 730,
+  "article_count": 731,
   "transitory_count": 7,
-  "reference_count": 368,
+  "reference_count": 367,
   "issues": []
 }

@@ -10,13 +10,13 @@
   "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgs.htm",
   "publisher": "Cámara de Diputados del H. Congreso de la Unión",
   "publication_date": "1984-02-07",
-  "expected_min_articles": 730,
-  "expected_articles": 730,
+  "expected_min_articles": 731,
+  "expected_articles": 731,
   "expected_transitories": 7,
   "count_baseline": {
     "provenance": "machine-proposed",
     "parser_version": "0.1.0",
-    "proposed_at": "2026-07-12T08:03:43Z"
+    "proposed_at": "2026-07-14T15:23:57Z"
   },
   "allow_article_gaps": true,
   "formal_publication_urls": {}

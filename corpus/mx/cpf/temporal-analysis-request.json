@@ -1,0 +1,9 @@
+{
+  "schema_version": "0.1.0",
+  "prompt_version": "temporal-v2",
+  "instrument_id": "urn:lex-mx:federal:code:cpf",
+  "publication_date": "1931-08-14",
+  "latest_reform_date": "2026-03-13",
+  "relevant_provisions": [],
+  "required_output_schema": "schemas/temporal-model-output-v2.schema.json"
+}

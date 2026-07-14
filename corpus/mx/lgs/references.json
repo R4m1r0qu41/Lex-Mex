@@ -5393,21 +5393,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:statute:lgs:article:60-nonies:reference:337-339:60:direct",
-    "source_provision_id": "urn:lex-mx:federal:statute:lgs:article:60-nonies",
-    "source_span": "60",
-    "start_char": 337,
-    "end_char": 339,
-    "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
-    "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:60",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgs:article:64-bis-1:reference:57-59:34:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgs:article:64-bis-1",
     "source_span": "34",

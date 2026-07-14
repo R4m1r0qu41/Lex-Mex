@@ -2,8 +2,8 @@
   "schema_version": "0.1.0",
   "instrument_id": "urn:lex-mx:federal:code:cpf",
   "valid": true,
-  "article_count": 552,
+  "article_count": 553,
   "transitory_count": 0,
-  "reference_count": 360,
+  "reference_count": 359,
   "issues": []
 }

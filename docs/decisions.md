@@ -1,5 +1,64 @@
 # Architecture decisions
 
+## 2026-07-14 — Article-grammar gap: the Decies qualifier family (past Nonies)
+
+`labels::QUALIFIERS` stopped at `Nonies` (rank 8), the last member of the
+classical Bis…Nonies Latin distributive-numeral family Diputados drafting
+has used for decades. LAC's DOF 03-05-2023 reform added ten further articles
+to Artículo 78 — `78 Decies` through `78 Novodecies` — extending past Nonies
+for the first time in this corpus. Since the grammar didn't recognize those
+qualifier words as headings, all ten were glued into `78-nonies`'s body text
+(it held 7,343 chars against its siblings' ~500-1,700). Grepping the corpus
+for the family found two further, smaller instances of the same defect:
+CPF's `199-nonies` and LGS's `60-nonies` each had a single glued `Decies`
+article (DOF 01-06-2021 and DOF 15-01-2026 respectively) — no instrument had
+gone past `Decies` except LAC.
+
+Fixed by extending `QUALIFIERS` to `[(&str, u8); 19]` (word, rank) pairs
+through rank 18 (`Novodecies`), using the exact spellings read off each
+instrument's text rather than derived from standard Latin — Spanish legal
+drafting isn't perfectly standard here: `Septdecies`, not `Septiesdecies`;
+`Quinquiesdecies`, not `Quindecies`. `qualifier_rank`'s separate
+index-to-rank match (a latent hazard: extending `QUALIFIERS` without also
+updating that function's arms would have silently mis-ranked or mis-fallen-
+through to `Nonies` via its `_ => 8` catch-all) is gone; rank now travels
+with each word in the same tuple, so there is no second place to keep in
+sync.
+
+Checked both `QUALIFIERS` consumers for the prefix-shadowing hazard this
+family introduces (`Ter` is a textual prefix of `Terdecies`, `Quater` of
+`Quaterdecies`, `Sexies` of `Sexiesdecies`): both `labels::parse_qualifier`
+and `diputados::heading_letter_suffix` already reject a candidate match
+unless the character immediately after it is a non-letter (a body separator,
+for the latter), so a short candidate tried before a longer one that starts
+with it is always rejected and the loop keeps scanning — declaration order
+in `QUALIFIERS` was never actually load-bearing for correctness here, only
+for which rank a duplicate-spelling entry contributes first (irrelevant,
+since duplicates always share a rank). Confirmed by a new
+`decies_family_prefix_does_not_shadow_shorter_qualifier` test and a
+diputados fixture case (`30 Ter` / `30 Decies` / `30 Undecies` / `30
+Terdecies` in sequence). Also confirmed (per the task, not fixed — out of
+scope, adjacent to a separate future citation-grammar task) that the
+cross-reference citation regex's `\b` boundary already keeps `Ter` from
+truncating `Terdecies` when citing across instruments; that regex still only
+recognizes `Bis|Ter|Quáter` and was deliberately left unextended.
+
+Re-parsed LAC (144→154 articles: +10, 0 removed, only `78-nonies` changed),
+CPF (552→553: +1, only `199-nonies` changed), and LGS (730→731: +1, only
+`60-nonies` changed) — frozen counts updated in each adapter, matching the
+LGTOC 462→463 precedent. All three validate with zero errors. Relinking
+removed ten (LAC), one (CPF), and one (LGS) junk self-edge references —
+`78`/`199`/`60` bare-number matches the reference extractor had picked out
+of the glued qualifier text, misresolving to the base article. Found one
+real cross-instrument citation this doesn't touch: REG-LAC's Artículo 43-bis
+cites "artículo 78 Quaterdecies de la Ley" in prose, but the citation regex
+(unextended, as above) doesn't recognize `Quaterdecies` as a qualifier, so
+it still isn't extracted as a structured reference — re-linked and
+re-validated REG-LAC to confirm this (byte-identical output, 0 issues, as
+expected). Re-parsing LRITF reproduced it byte-for-byte (only provenance
+timestamps differed); `validate lritf` and `validate ifpe-dcg-2021` both
+pass with zero issues.
+
 ## 2026-07-13 — Two Diputados article-grammar gaps found ingesting the tax cluster
 
 Ingesting LISR, REG-LISR, LIVA, REG-LIVA, LIEPS, and REG-LIEPS (the six

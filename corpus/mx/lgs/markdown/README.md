@@ -85,6 +85,7 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 60 Septies](articulo-60-Septies.md)
 - [Artículo 60 Octies](articulo-60-Octies.md)
 - [Artículo 60 Nonies](articulo-60-Nonies.md)
+- [Artículo 60 Decies](articulo-60-Decies.md)
 - [Artículo 61](articulo-61.md)
 - [Artículo 61 Bis](articulo-61-Bis.md)
 - [Artículo 62](articulo-62.md)

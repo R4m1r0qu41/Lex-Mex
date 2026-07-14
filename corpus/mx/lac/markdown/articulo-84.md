@@ -29,7 +29,7 @@ En la prestación de los servicios de transporte aéreo y servicios de navegaci�
 
 Las personas inspectoras verificadoras están facultadas para practicar actividades de vigilancia y verificación sobre aspectos específicos, en términos de los reglamentos y demás disposiciones jurídicas aplicables.
 
-Las personas inspectoras verificadoras deben exhibir credencial vigente con fotografía, expedida por la Agencia Federal de Aviación Civil que las acredite para desempeñar dicha función, así como dependiendo de la naturaleza de la vigilancia y verificación, la orden escrita a la que se refiere el artículo 63 de la Ley Federal de Procedimiento Administrativo, de la que debe dejar copia a la persona con quien se entienda la diligencia. Si esta se niega a recibirla, dicha circunstancia se asentará en el acta respectiva, sin que ello afecte la validez del acto.
+Las personas inspectoras verificadoras deben exhibir credencial vigente con fotografía, expedida por la Agencia Federal de Aviación Civil que las acredite para desempeñar dicha función, así como dependiendo de la naturaleza de la vigilancia y verificación, la orden escrita a la que se refiere el artículo [63](../../lfpa/markdown/articulo-63.md) de la Ley Federal de Procedimiento Administrativo, de la que debe dejar copia a la persona con quien se entienda la diligencia. Si esta se niega a recibirla, dicha circunstancia se asentará en el acta respectiva, sin que ello afecte la validez del acto.
 
 Las personas físicas o morales que sean sujetos de vigilancia y verificación, cubrirán el pago previsto en la Ley Federal de Derechos, que por este concepto se originen.
 

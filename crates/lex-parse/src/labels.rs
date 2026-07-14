@@ -6,36 +6,52 @@
 //! a base number with optional thousands separators or dotted segments,
 //! an optional ordinal mark (`1o`, `2º`), an optional single-letter
 //! suffix (`15-D`) that must never swallow a qualifier (`32-Bis`), and an
-//! optional qualifier (`Bis` … `Octies`). Secondary regulations use
+//! optional qualifier (`Bis` … `Novodecies`). Secondary regulations use
 //! compound identifiers such as `2 Bis 102`, where every trailing numeric
 //! component is part of the identifier.
 
-/// Qualifier words in rank order; rank is index + 1.
-pub(crate) const QUALIFIERS: [&str; 9] = [
-    "Bis",
-    "Ter",
-    "Quáter",
-    "Quater",
-    "Quinquies",
-    "Sexies",
-    "Septies",
-    "Octies",
-    "Nonies",
+/// Qualifier word forms paired with their rank (`Bis` = 1 … `Novodecies` =
+/// 18). Spelling variants of the same rank (`Quáter`/`Quater`) repeat the
+/// rank explicitly rather than through a parallel index-based lookup, so
+/// adding a form can never silently fall through to the wrong rank.
+///
+/// The Decies family (ranks 9-18: `Decies` … `Novodecies`) is DOF
+/// 03-05-2023's addition to LAC's Artículo 78, confirmed by grep against
+/// the corpus text (see `docs/decisions.md`); CPF and LGS each carry a
+/// single glued `Decies` (rank 9 only, no further family members). Every
+/// exact spelling here was read off the corpus text, not derived from
+/// standard Latin distributive numerals — Spanish legal drafting is not
+/// perfectly standard Latin (e.g. `Septdecies`, not `Septiesdecies`;
+/// `Quinquiesdecies`, not `Quindecies`).
+///
+/// Declaration order here does not need to place a longer form before a
+/// prefix it shares (`Ter` before `Terdecies`, `Quater` before
+/// `Quaterdecies`, `Sexies` before `Sexiesdecies`): `parse_qualifier`
+/// only accepts a candidate when the character immediately after the
+/// match is not itself a letter, so a short prefix can never swallow a
+/// longer word that starts with it — the loop below keeps scanning past a
+/// rejected short match to find the real (possibly longer) qualifier.
+pub(crate) const QUALIFIERS: [(&str, u8); 19] = [
+    ("Bis", 1),
+    ("Ter", 2),
+    ("Quáter", 3),
+    ("Quater", 3),
+    ("Quinquies", 4),
+    ("Sexies", 5),
+    ("Septies", 6),
+    ("Octies", 7),
+    ("Nonies", 8),
+    ("Decies", 9),
+    ("Undecies", 10),
+    ("Duodecies", 11),
+    ("Terdecies", 12),
+    ("Quaterdecies", 13),
+    ("Quinquiesdecies", 14),
+    ("Sexiesdecies", 15),
+    ("Septdecies", 16),
+    ("Octodecies", 17),
+    ("Novodecies", 18),
 ];
-
-/// Rank used for ordering; `Quáter` and `Quater` are the same qualifier.
-fn qualifier_rank(index: usize) -> u8 {
-    match index {
-        0 => 1,     // Bis
-        1 => 2,     // Ter
-        2 | 3 => 3, // Quáter / Quater
-        4 => 4,     // Quinquies
-        5 => 5,     // Sexies
-        6 => 6,     // Septies
-        7 => 7,     // Octies
-        _ => 8,     // Nonies
-    }
-}
 
 // Spanish collation order: `Ñ` is its own letter, sorting between `N`
 // and `O` (as it appears in law, e.g. LFT 353-N, 353-Ñ, 353-O). The
@@ -61,7 +77,7 @@ struct Component {
     /// Letter suffix as written (`15-D`), almost always one character but
     /// occasionally a pre-1994 digraph (`26-LL`).
     letter: Option<String>,
-    /// Qualifier rank (`Bis` = 1 … `Nonies` = 8).
+    /// Qualifier rank (`Bis` = 1 … `Novodecies` = 18).
     qualifier: Option<u8>,
     /// Qualifier as written, for the raw form.
     qualifier_text: Option<String>,
@@ -362,7 +378,7 @@ fn parse_qualifier(cursor: &mut Cursor) -> Option<(u8, String)> {
         return None;
     }
     let rest = cursor.rest();
-    for (index, qualifier) in QUALIFIERS.iter().enumerate() {
+    for (qualifier, rank) in QUALIFIERS {
         if rest.len() >= qualifier.len()
             && rest
                 .chars()
@@ -374,7 +390,7 @@ fn parse_qualifier(cursor: &mut Cursor) -> Option<(u8, String)> {
             let after = rest.chars().nth(qualifier.chars().count());
             if after.is_none_or(|next| !is_letter(next)) {
                 cursor.position += matched.len();
-                return Some((qualifier_rank(index), matched));
+                return Some((rank, matched));
             }
         }
     }
@@ -638,5 +654,72 @@ mod tests {
         let compound_prefix = full("2 Bis").sort_key();
         let compound = full("2 Bis 102").sort_key();
         assert!(compound_prefix < compound);
+    }
+
+    #[test]
+    fn decies_family_ranks_between_nonies_and_next_base() {
+        // LAC's DOF 03-05-2023 addition to Artículo 78 (`78 Decies` …
+        // `78 Novodecies`), plus CPF/LGS's single glued `Decies` articles.
+        // Every rank must sort strictly after `Nonies` and strictly before
+        // the next base article, in the family's own numeric order, using
+        // the exact spellings read off the corpus text (not standard Latin
+        // — `Septdecies`, not `Septiesdecies`; `Quinquiesdecies`, not
+        // `Quindecies`).
+        let nonies = full("78 Nonies").sort_key();
+        let family = [
+            "78 Decies",
+            "78 Undecies",
+            "78 Duodecies",
+            "78 Terdecies",
+            "78 Quaterdecies",
+            "78 Quinquiesdecies",
+            "78 Sexiesdecies",
+            "78 Septdecies",
+            "78 Octodecies",
+            "78 Novodecies",
+        ];
+        let next_base = full("79").sort_key();
+        let keys: Vec<_> = family.iter().map(|label| full(label).sort_key()).collect();
+        assert!(nonies < keys[0], "Nonies must sort before Decies");
+        for pair in keys.windows(2) {
+            assert!(
+                pair[0] < pair[1],
+                "{:?} must sort before {:?}",
+                pair[0],
+                pair[1]
+            );
+        }
+        assert!(
+            *keys.last().expect("family is non-empty") < next_base,
+            "Novodecies must sort before the next base article"
+        );
+    }
+
+    #[test]
+    fn decies_family_prefix_does_not_shadow_shorter_qualifier() {
+        // `Ter` is a textual prefix of `Terdecies`, `Quater` of
+        // `Quaterdecies`, `Sexies` of `Sexiesdecies`. Each must still parse
+        // as its own, distinct qualifier rather than truncating to the
+        // shorter word.
+        assert_eq!(full("78 Ter").raw(), "78 Ter");
+        let ter = full("78 Ter");
+        let terdecies = full("78 Terdecies");
+        assert_eq!(terdecies.raw(), "78 Terdecies");
+        assert_ne!(ter.sort_key(), terdecies.sort_key());
+        assert!(ter.sort_key() < terdecies.sort_key());
+
+        let quater = full("78 Quater");
+        let quaterdecies = full("78 Quaterdecies");
+        assert_eq!(quaterdecies.raw(), "78 Quaterdecies");
+        assert_ne!(quater.sort_key(), quaterdecies.sort_key());
+
+        let sexies = full("78 Sexies");
+        let sexiesdecies = full("78 Sexiesdecies");
+        assert_eq!(sexiesdecies.raw(), "78 Sexiesdecies");
+        assert_ne!(sexies.sort_key(), sexiesdecies.sort_key());
+
+        // A trailing word that happens to start with a qualifier's letters
+        // but continues past it must not be sliced off either.
+        assert_eq!(full("78 Terdecies").slug(), "78-terdecies");
     }
 }

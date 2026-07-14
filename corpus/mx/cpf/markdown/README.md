@@ -243,6 +243,7 @@ Fuente operativa: [camara_de_diputados](https://www.diputados.gob.mx/LeyesBiblio
 - [Artículo 199 Septies](articulo-199-Septies.md)
 - [Artículo 199 Octies](articulo-199-Octies.md)
 - [Artículo 199 Nonies](articulo-199-Nonies.md)
+- [Artículo 199 Decies](articulo-199-Decies.md)
 - [Artículo 200](articulo-200.md)
 - [Artículo 201](articulo-201.md)
 - [Artículo 201 BIS](articulo-201-BIS.md)

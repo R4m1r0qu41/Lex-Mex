@@ -172,7 +172,13 @@ fn heading_letter_suffix(after: &str) -> Option<(String, &str)> {
     }
     let after_letter = &body[letter.len_utf8()..];
     if let Some(rest) = after_letter.strip_prefix(' ') {
-        for qualifier in labels::QUALIFIERS {
+        // Boundary check (next char must be a body separator, not a
+        // letter) means a short qualifier that is a textual prefix of a
+        // longer one (`Ter` of `Terdecies`, `Quater` of `Quaterdecies`,
+        // `Sexies` of `Sexiesdecies`) can never falsely match here even
+        // though it is declared earlier in `labels::QUALIFIERS` — see
+        // that constant's doc comment.
+        for (qualifier, _rank) in labels::QUALIFIERS {
             if let Some((matched, tail)) = strip_prefix_ci(rest, qualifier)
                 && tail
                     .chars()
@@ -823,10 +829,46 @@ mod tests {
         assert_eq!(
             articles,
             [
-                "1o", "2o", "2o-A", "2o-A BIS", "15", "15-A", "15-B Bis", "16", "16-a", "16-b",
-                "26", "26-L", "26-LL", "26-M"
+                "1o",
+                "2o",
+                "2o-A",
+                "2o-A BIS",
+                "15",
+                "15-A",
+                "15-B Bis",
+                "16",
+                "16-a",
+                "16-b",
+                "26",
+                "26-L",
+                "26-LL",
+                "26-M",
+                "30",
+                "30 Ter",
+                "30 Decies",
+                "30 Undecies",
+                "30 Terdecies",
+                "31"
             ]
         );
+        // The Decies family (DOF 03-05-2023's addition to LAC's Artículo
+        // 78) must be recognized as its own headings, and `Ter` must not
+        // swallow `Terdecies` even though `Ter` is a textual prefix of it.
+        let terdecies = document
+            .provisions
+            .iter()
+            .find(|provision| provision.number == "30 Terdecies")
+            .expect("30 Terdecies present");
+        assert_eq!(
+            terdecies.id,
+            "urn:lex-mx:federal:code:sample:article:30-terdecies"
+        );
+        let ter = document
+            .provisions
+            .iter()
+            .find(|provision| provision.number == "30 Ter")
+            .expect("30 Ter present");
+        assert_eq!(ter.id, "urn:lex-mx:federal:code:sample:article:30-ter");
         let letter_suffix = document
             .provisions
             .iter()

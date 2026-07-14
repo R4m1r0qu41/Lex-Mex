@@ -17,7 +17,7 @@ source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
 
 # Artículo 195 bis
 
-Cuando por las circunstancias del hecho la posesión de alguno de los narcóticos señalados en el artículo [193](articulo-193.md), sin la autorización a que se refiere la Ley General de Salud, no pueda considerarse destinada a realizar alguna de las conductas a que se refiere el artículo [194](articulo-194.md), se aplicará pena de cuatro a siete años seis meses de prisión y de cincuenta a ciento cincuenta días multa.
+Cuando por las circunstancias del hecho la posesión de alguno de los narcóticos señalados en el artículo [193](../../lgs/markdown/articulo-193.md), sin la autorización a que se refiere la Ley General de Salud, no pueda considerarse destinada a realizar alguna de las conductas a que se refiere el artículo [194](articulo-194.md), se aplicará pena de cuatro a siete años seis meses de prisión y de cincuenta a ciento cincuenta días multa.
 
 El Ministerio Público Federal no procederá penalmente por este delito en contra de la persona que posea:
 

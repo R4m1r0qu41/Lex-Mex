@@ -2490,21 +2490,6 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:code:cpf:article:199-nonies:reference:308-311:199:direct",
-    "source_provision_id": "urn:lex-mx:federal:code:cpf:article:199-nonies",
-    "source_span": "199",
-    "start_char": 308,
-    "end_char": 311,
-    "target_instrument_id": "urn:lex-mx:federal:code:cpf",
-    "target_provision_id": "urn:lex-mx:federal:code:cpf:article:199",
-    "qualifiers": [],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cpf:article:199-quater:reference:1286-1289:199:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cpf:article:199-quater",
     "source_span": "199",
