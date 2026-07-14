@@ -2620,6 +2620,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:15:reference:5882-5884:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:15",
+    "source_span": "52",
+    "start_char": 5882,
+    "end_char": 5884,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:52",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:15:reference:7201-7204:112:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:15",
     "source_span": "112",
@@ -4505,6 +4520,21 @@
     "end_char": 2269,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
     "target_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:181",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:183:reference:567-570:172:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:183",
+    "source_span": "172",
+    "start_char": 567,
+    "end_char": 570,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:172",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -6451,6 +6481,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-12:reference:326-327:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-12",
+    "source_span": "1",
+    "start_char": 326,
+    "end_char": 327,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-12:reference:820-827:2-bis-4:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-12",
     "source_span": "2 Bis 4",
@@ -6608,6 +6653,21 @@
         "end_char": 946
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-15:reference:193-194:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:2-bis-15",
+    "source_span": "3",
+    "start_char": 193,
+    "end_char": 194,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:3",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -13615,6 +13675,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:319:reference:5848-5851:121:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:319",
+    "source_span": "121",
+    "start_char": 5848,
+    "end_char": 5851,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
+    "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:121",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 5824,
+        "end_char": 5834
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:319:reference:6595-6597:319:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:319",
     "source_span": "IX",
@@ -14384,6 +14466,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:323:reference:3081-3084:121:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:323",
+    "source_span": "121",
+    "start_char": 3081,
+    "end_char": 3084,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
+    "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:121",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 3057,
+        "end_char": 3067
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:324:reference:205-208:318:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:324",
     "source_span": "318",
@@ -14599,6 +14703,28 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:lic",
     "target_provision_id": "urn:lex-mx:federal:statute:lic:article:115",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:324:reference:6504-6507:121:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:324",
+    "source_span": "121",
+    "start_char": 6504,
+    "end_char": 6507,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
+    "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:121",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 6480,
+        "end_char": 6490
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -17416,6 +17542,21 @@
     "end_char": 110,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
     "target_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:54",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:56:reference:265-266:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:56",
+    "source_span": "1",
+    "start_char": 265,
+    "end_char": 266,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:1",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -20329,13 +20470,13 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2:reference:1407-1413:99-bis:direct",
+    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2:reference:1407-1409:99:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2",
-    "source_span": "99 Bis",
+    "source_span": "99",
     "start_char": 1407,
-    "end_char": 1413,
+    "end_char": 1409,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
-    "target_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis",
+    "target_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
@@ -20351,57 +20492,13 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2:reference:1413-1414:1:direct",
+    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2:reference:2466-2468:99:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2",
-    "source_span": "1",
-    "start_char": 1413,
-    "end_char": 1414,
-    "target_instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
-    "target_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:1",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 1382,
-        "end_char": 1393
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2:reference:2466-2472:99-bis:direct",
-    "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2",
-    "source_span": "99 Bis",
+    "source_span": "99",
     "start_char": 2466,
-    "end_char": 2472,
+    "end_char": 2468,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
-    "target_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción II",
-        "start_char": 2441,
-        "end_char": 2452
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2:reference:2472-2473:1:direct",
-    "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2",
-    "source_span": "1",
-    "start_char": 2472,
-    "end_char": 2473,
-    "target_instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
-    "target_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:1",
+    "target_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99",
     "qualifiers": [
       {
         "qualifier_type": "fraction",
@@ -20454,35 +20551,13 @@
   },
   {
     "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2:reference:5118-5124:99-bis:direct",
+    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2:reference:5118-5120:99:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2",
-    "source_span": "99 Bis",
+    "source_span": "99",
     "start_char": 5118,
-    "end_char": 5124,
+    "end_char": 5120,
     "target_instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
-    "target_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis",
-    "qualifiers": [
-      {
-        "qualifier_type": "fraction",
-        "text": "fracción III",
-        "start_char": 5092,
-        "end_char": 5104
-      }
-    ],
-    "basis": "express_cross_reference",
-    "confidence": 1.0,
-    "resolution_status": "resolved",
-    "reference_form": "direct"
-  },
-  {
-    "schema_version": "0.1.0",
-    "id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2:reference:5124-5125:1:direct",
-    "source_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99-bis-2",
-    "source_span": "1",
-    "start_char": 5124,
-    "end_char": 5125,
-    "target_instrument_id": "urn:lex-mx:federal:regulation:cub-dcg-2005",
-    "target_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:1",
+    "target_provision_id": "urn:lex-mx:federal:regulation:cub-dcg-2005:article:99",
     "qualifiers": [
       {
         "qualifier_type": "fraction",

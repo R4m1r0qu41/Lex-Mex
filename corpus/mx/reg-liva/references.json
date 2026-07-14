@@ -121,6 +121,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liva:article:14:reference:196-198:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:14",
+    "source_span": "16",
+    "start_char": 196,
+    "end_char": 198,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 168,
+        "end_char": 182
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liva:article:19:reference:289-290:5:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:19",
     "source_span": "5",
@@ -211,6 +233,28 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-liva",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:5",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liva:article:22-a:reference:714-716:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:22-a",
+    "source_span": "32",
+    "start_char": 714,
+    "end_char": 716,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "primer párrafo",
+        "start_char": 718,
+        "end_char": 732
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -398,6 +442,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liva:article:39:reference:201-203:32:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:39",
+    "source_span": "32",
+    "start_char": 201,
+    "end_char": 203,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lisr",
+    "target_provision_id": "urn:lex-mx:federal:statute:lisr:article:32",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 172,
+        "end_char": 187
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-liva:article:4:reference:30-31:1:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:4",
     "source_span": "1",
@@ -441,6 +507,28 @@
         "text": "fracción II",
         "start_char": 280,
         "end_char": 291
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-liva:article:51:reference:133-135:61:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-liva:article:51",
+    "source_span": "61",
+    "start_char": 133,
+    "end_char": 135,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ladua",
+    "target_provision_id": "urn:lex-mx:federal:statute:ladua:article:61",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VIII",
+        "start_char": 137,
+        "end_char": 150
       }
     ],
     "basis": "express_cross_reference",

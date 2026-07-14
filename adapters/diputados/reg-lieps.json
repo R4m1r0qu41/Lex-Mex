@@ -2,6 +2,7 @@
   "slug": "reg-lieps",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lieps",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lieps",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley del Impuesto Especial sobre Producción y Servicios",
   "short_name": "REG-LIEPS",

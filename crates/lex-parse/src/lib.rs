@@ -127,8 +127,14 @@ impl ReferencePatterns {
                 // not swallow the `B` of `-Bis`; a letter may still carry
                 // a following space-separated qualifier (`15-B Bis`); and a
                 // qualifier may carry a compound trailing number
-                // (`95 Bis 3`, `168 Bis 10`).
-                r"(?i)(?:\d{1,3}(?:,\d{3})+|\d{1,4})(?:-(?:Bis|Ter|Qu[áa]ter)(?:\s+\d{1,3})?|(?:-[A-Z])?(?:\s+(?:Bis|Ter|Qu[áa]ter)(?:\s+\d{1,3})?)?)",
+                // (`95 Bis 3`, `168 Bis 10`). The trailing `\b` on each
+                // suffix keeps a following ordinal-paragraph word from
+                // matching as a truncated suffix: without it, `136 tercer
+                // párrafo` (no comma before the qualifier) let `Ter` consume
+                // the first three letters of `tercer`, fabricating a
+                // nonexistent `136-Ter` target and severing the rest of the
+                // citation list.
+                r"(?i)(?:\d{1,3}(?:,\d{3})+|\d{1,4})(?:-(?:Bis|Ter|Qu[áa]ter)\b(?:\s+\d{1,3})?|(?:-[A-Z])?(?:\s+(?:Bis|Ter|Qu[áa]ter)\b(?:\s+\d{1,3})?)?)",
             )?,
             separator: Regex::new(
                 r"(?ix)^(?:
@@ -2464,6 +2470,58 @@ mod tests {
         let report = validate_lritf(&provisions, &references, 8, 1);
         assert!(report.valid, "{:?}", report.issues);
         assert_eq!(report.reference_count, references.len());
+    }
+
+    /// `lbm:article:64` verbatim (trimmed to the citing sentence): the
+    /// official text writes the post-number paragraph qualifier without a
+    /// comma ("136 tercer párrafo" rather than "136, tercer párrafo"). Before
+    /// the `\b` fix, the number regex's unbounded `Ter` alternative matched
+    /// the first three letters of "tercer", fabricating a nonexistent
+    /// "136-Ter" target in Código Fiscal de la Federación and breaking the
+    /// separator check so "137, 139 y 140" were dropped from the list
+    /// entirely instead of resolving to CFF's own articles.
+    #[test]
+    fn ordinal_paragraph_word_does_not_truncate_into_a_ter_suffix() {
+        const LBM_ID: &str = "urn:lex-mx:federal:statute:lbm";
+        const CFF_ID: &str = "urn:lex-mx:federal:code:cff";
+        let body = "Artículo 64.- A las notificaciones, trámite y resolución del recurso, les \
+            serán aplicables supletoriamente las disposiciones contenidas en los artículos 130, \
+            132, 134, 135, 136 tercer párrafo, 137, 139 y 140 del Código Fiscal de la Federación \
+            y las disposiciones reglamentarias aplicables a estos preceptos.\n";
+        let provisions = parse_statute_sample(LBM_ID, "LEY DEL BANCO DE MÉXICO", body);
+        let mut known_targets: HashSet<String> =
+            provisions.iter().map(|item| item.id.clone()).collect();
+        for number in ["130", "132", "134", "135", "136", "137", "139", "140"] {
+            known_targets.insert(format!("{CFF_ID}:article:{number}"));
+        }
+        let options = statute_reference_options(vec![(
+            "código fiscal de la federación".to_owned(),
+            CFF_ID.to_owned(),
+        )]);
+        let references = extract_references(&provisions, None, &options, &known_targets).unwrap();
+
+        assert!(
+            !references
+                .iter()
+                .any(|edge| edge.target_provision_id.ends_with(":article:136-ter")),
+            "{references:#?}"
+        );
+        for number in ["130", "132", "134", "135", "136", "137", "139", "140"] {
+            let target = format!("{CFF_ID}:article:{number}");
+            assert!(
+                references
+                    .iter()
+                    .any(|edge| edge.target_provision_id == target
+                        && edge.target_instrument_id == CFF_ID
+                        && edge.resolution_status == ReferenceResolutionStatus::Resolved),
+                "expected a resolved cross-instrument edge to CFF article {number}: {references:#?}"
+            );
+        }
+        let article_136 = references
+            .iter()
+            .find(|edge| edge.target_provision_id.ends_with(":article:136"))
+            .expect("article 136 edge");
+        assert_eq!(article_136.qualifiers[0].text, "tercer párrafo");
     }
 
     #[test]

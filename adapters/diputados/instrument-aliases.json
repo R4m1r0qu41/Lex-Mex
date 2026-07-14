@@ -6,6 +6,48 @@
       "Ley Federal de Juegos y Sorteos",
       "LFJS"
     ],
+    "LGSM": [
+      "Ley General de Sociedades Mercantiles",
+      "LGSM"
+    ],
+    "LFT": [
+      "Ley Federal del Trabajo",
+      "LFT"
+    ],
+    "LGRA": [
+      "Ley General de Responsabilidades Administrativas",
+      "LGRA"
+    ],
+    "LADUA": [
+      "Ley Aduanera",
+      "LADUA"
+    ],
+    "LFPRH": [
+      "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
+      "LFPRH"
+    ],
+    "LGS": [
+      "Ley General de Salud",
+      "LGS"
+    ],
+    "LOAPF": [
+      "Ley Orgánica de la Administración Pública Federal",
+      "Ley Organica de la Administracion Publica Federal",
+      "LOAPF"
+    ],
+    "LFPA": [
+      "Ley Federal de Procedimiento Administrativo",
+      "LFPA"
+    ],
+    "LGCG": [
+      "Ley General de Contabilidad Gubernamental",
+      "LGCG"
+    ],
+    "LOTFJA": [
+      "Ley Orgánica del Tribunal Federal de Justicia Administrativa",
+      "Ley Organica del Tribunal Federal de Justicia Administrativa",
+      "LOTFJA"
+    ],
     "CCom": [
       "Código de Comercio",
       "Codigo de Comercio",
@@ -210,6 +252,37 @@
     "DCG-ITF-2018": [
       "Disposiciones de carácter general aplicables a las instituciones de tecnología financiera",
       "DCG-ITF-2018"
+    ],
+    "CFF": [
+      "Código Fiscal de la Federación",
+      "Codigo Fiscal de la Federacion",
+      "CFF"
+    ],
+    "LISR": [
+      "Ley del Impuesto sobre la Renta",
+      "LISR"
+    ],
+    "LIVA": [
+      "Ley del Impuesto al Valor Agregado",
+      "LIVA"
+    ],
+    "LIEPS": [
+      "Ley del Impuesto Especial sobre Producción y Servicios",
+      "Ley del Impuesto Especial sobre Produccion y Servicios",
+      "LIEPS"
+    ],
+    "REG-LISR": [
+      "Reglamento de la Ley del Impuesto sobre la Renta",
+      "REG-LISR"
+    ],
+    "REG-LIVA": [
+      "Reglamento de la Ley del Impuesto al Valor Agregado",
+      "REG-LIVA"
+    ],
+    "REG-LIEPS": [
+      "Reglamento de la Ley del Impuesto Especial sobre Producción y Servicios",
+      "Reglamento de la Ley del Impuesto Especial sobre Produccion y Servicios",
+      "REG-LIEPS"
     ]
   }
 }

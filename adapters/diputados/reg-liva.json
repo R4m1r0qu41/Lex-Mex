@@ -2,6 +2,7 @@
   "slug": "reg-liva",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-liva",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:liva",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley del Impuesto al Valor Agregado",
   "short_name": "REG-LIVA",

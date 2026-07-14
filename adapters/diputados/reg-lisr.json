@@ -2,6 +2,7 @@
   "slug": "reg-lisr",
   "instrument_id": "urn:lex-mx:federal:regulation:reg-lisr",
   "instrument_type": "regulation",
+  "regulates": "urn:lex-mx:federal:statute:lisr",
   "parser": "diputados",
   "official_title": "Reglamento de la Ley del Impuesto sobre la Renta",
   "short_name": "REG-LISR",
@@ -19,5 +20,12 @@
     "proposed_at": "2026-07-13T20:51:40Z"
   },
   "allow_article_gaps": true,
+  "known_stale_citations": [
+    {
+      "source_provision_id_suffix": ":transitory:sexto",
+      "target_provision_id_suffix": "lisr:article:216-bis",
+      "note": "Transitorio Sexto expressly cites 'el artículo 216 Bis de la Ley del Impuesto sobre la Renta vigente hasta 2013' — the pre-2014-rewrite article numbering, in the same breath mapping it to current article 182 ('vigente a partir de 2014'). The committed LISR corpus is the consolidated post-2014 text only, so the historical target never resolves; this is a disclosed historical cross-reference, not an ingestion gap."
+    }
+  ],
   "formal_publication_urls": {}
 }

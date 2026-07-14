@@ -617,6 +617,72 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6398-6401:108:direct",
+    "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
+    "source_span": "108",
+    "start_char": 6398,
+    "end_char": 6401,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:108",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 6372,
+        "end_char": 6384
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6688-6695:113-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
+    "source_span": "113 Bis",
+    "start_char": 6688,
+    "end_char": 6695,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:113-bis",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 6850,
+        "end_char": 6862
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:code:cnpp:article:167:reference:6876-6879:108:direct",
+    "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:167",
+    "source_span": "108",
+    "start_char": 6876,
+    "end_char": 6879,
+    "target_instrument_id": "urn:lex-mx:federal:code:cff",
+    "target_provision_id": "urn:lex-mx:federal:code:cff:article:108",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 6850,
+        "end_char": 6862
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:code:cnpp:article:174:reference:1800-1803:155:direct",
     "source_provision_id": "urn:lex-mx:federal:code:cnpp:article:174",
     "source_span": "155",
