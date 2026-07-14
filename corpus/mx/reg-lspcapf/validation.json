@@ -5,5 +5,12 @@
   "article_count": 100,
   "transitory_count": 11,
   "reference_count": 28,
-  "issues": []
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "regulates_unset",
+      "message": "regulation has no regulates (parent-law) field set",
+      "provision_id": null
+    }
+  ]
 }

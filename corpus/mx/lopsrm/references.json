@@ -156,6 +156,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lopsrm:article:23:reference:745-747:50:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:23",
+    "source_span": "50",
+    "start_char": 745,
+    "end_char": 747,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:50",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lopsrm:article:24:reference:2812-2814:42:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lopsrm:article:24",
     "source_span": "42",

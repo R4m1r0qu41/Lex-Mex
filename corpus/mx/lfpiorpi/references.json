@@ -505,6 +505,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpiorpi:article:33-bis:reference:578-580:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:33-bis",
+    "source_span": "34",
+    "start_char": 578,
+    "end_char": 580,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:34",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XXXI",
+        "start_char": 582,
+        "end_char": 595
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfpiorpi:article:34:reference:401-403:26:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfpiorpi:article:34",
     "source_span": "26",

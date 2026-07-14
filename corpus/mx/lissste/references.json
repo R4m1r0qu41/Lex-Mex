@@ -672,6 +672,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lissste:article:78:reference:1099-1102:501:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lissste:article:78",
+    "source_span": "501",
+    "start_char": 1099,
+    "end_char": 1102,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lft",
+    "target_provision_id": "urn:lex-mx:federal:statute:lft:article:501",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lissste:article:8:reference:468-485:7:relative",
     "source_provision_id": "urn:lex-mx:federal:statute:lissste:article:8",
     "source_span": "artículo anterior",

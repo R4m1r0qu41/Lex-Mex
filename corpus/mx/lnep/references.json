@@ -299,6 +299,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lnep:transitory:decimo:reference:711-714:477:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lnep:transitory:decimo",
+    "source_span": "477",
+    "start_char": 711,
+    "end_char": 714,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgs",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgs:article:477",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lnep:transitory:quinto:reference:282-284:92:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lnep:transitory:quinto",
     "source_span": "92",

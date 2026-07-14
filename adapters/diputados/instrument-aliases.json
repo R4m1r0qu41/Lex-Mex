@@ -283,6 +283,39 @@
       "Reglamento de la Ley del Impuesto Especial sobre Producción y Servicios",
       "Reglamento de la Ley del Impuesto Especial sobre Produccion y Servicios",
       "REG-LIEPS"
+    ],
+    "CNPCF": [
+      "Código Nacional de Procedimientos Civiles y Familiares",
+      "Codigo Nacional de Procedimientos Civiles y Familiares",
+      "CNPCF"
+    ],
+    "LNEP": [
+      "Ley Nacional de Ejecución Penal",
+      "Ley Nacional de Ejecucion Penal",
+      "LNEP"
+    ],
+    "LNSIJPA": [
+      "Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "LNSIJPA"
+    ],
+    "LNMASC-PENAL": [
+      "Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal",
+      "Ley Nacional de Mecanismos Alternativos de Solucion de Controversias en Materia Penal",
+      "LNMASC-PENAL"
+    ],
+    "LFDO": [
+      "Ley Federal contra la Delincuencia Organizada",
+      "LFDO"
+    ],
+    "LFED": [
+      "Ley Nacional de Extinción de Dominio",
+      "Ley Nacional de Extincion de Dominio",
+      "LFED"
+    ],
+    "LFRCF": [
+      "Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "Ley de Fiscalizacion y Rendicion de Cuentas de la Federacion",
+      "LFRCF"
     ]
   }
 }

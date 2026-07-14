@@ -291,6 +291,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:article:21:reference:289-291:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lapp:article:21",
+    "source_span": "34",
+    "start_char": 289,
+    "end_char": 291,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:34",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lapp:article:23:reference:330-332:14:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lapp:article:23",
     "source_span": "14",
@@ -298,6 +313,21 @@
     "end_char": 332,
     "target_instrument_id": "urn:lex-mx:federal:statute:lapp",
     "target_provision_id": "urn:lex-mx:federal:statute:lapp:article:14",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:article:23:reference:418-420:34:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lapp:article:23",
+    "source_span": "34",
+    "start_char": 418,
+    "end_char": 420,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:34",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
@@ -329,6 +359,28 @@
     "target_instrument_id": "urn:lex-mx:federal:statute:lapp",
     "target_provision_id": "urn:lex-mx:federal:statute:lapp:article:14",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lapp:article:24:reference:1402-1404:41:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lapp:article:24",
+    "source_span": "41",
+    "start_char": 1402,
+    "end_char": 1404,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:41",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "quinto párrafo",
+        "start_char": 1787,
+        "end_char": 1801
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

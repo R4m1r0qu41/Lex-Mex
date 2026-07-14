@@ -1986,6 +1986,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:22:reference:113-116:128:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:luc:article:22",
+    "source_span": "128",
+    "start_char": 113,
+    "end_char": 116,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:128",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:22:reference:119-122:129:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:luc:article:22",
+    "source_span": "129",
+    "start_char": 119,
+    "end_char": 122,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:129",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:luc:article:22:reference:266-268:21:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:luc:article:22",
     "source_span": "21",
@@ -2816,6 +2846,21 @@
         "end_char": 1466
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:luc:article:67:reference:968-971:177:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:luc:article:67",
+    "source_span": "177",
+    "start_char": 968,
+    "end_char": 971,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:177",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -408,6 +408,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:145:reference:858-860:55:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:145",
+    "source_span": "55",
+    "start_char": 858,
+    "end_char": 860,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:55",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 829,
+        "end_char": 844
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:151:reference:172-189:150:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:151",
     "source_span": "artículo anterior",
@@ -660,6 +682,21 @@
     "end_char": 245,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lgpgir",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:25",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48:reference:960-964:69-b:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lgpgir:article:48",
+    "source_span": "69-B",
+    "start_char": 960,
+    "end_char": 964,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:69-b",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

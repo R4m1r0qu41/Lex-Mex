@@ -439,6 +439,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:laassp:article:33:reference:1944-1946:50:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:33",
+    "source_span": "50",
+    "start_char": 1944,
+    "end_char": 1946,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfprh",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfprh:article:50",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:laassp:article:34:reference:130-132:35:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:laassp:article:34",
     "source_span": "35",

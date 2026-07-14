@@ -16,6 +16,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lftse:article:10-bis:reference:348-350:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lftse:article:10-bis",
+    "source_span": "15",
+    "start_char": 348,
+    "end_char": 350,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lft",
+    "target_provision_id": "urn:lex-mx:federal:statute:lft:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lftse:article:102:reference:170-172:95:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lftse:article:102",
     "source_span": "95",

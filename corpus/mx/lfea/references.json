@@ -1,6 +1,21 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfea:article:11:reference:349-351:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfea:article:11",
+    "source_span": "19",
+    "start_char": 349,
+    "end_char": 351,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lfea:article:11:reference:1362-1363:11:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lfea:article:11",
     "source_span": "I",

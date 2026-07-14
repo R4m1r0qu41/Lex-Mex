@@ -1,6 +1,21 @@
 [
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:article:27:reference:962-964:37:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgsna:article:27",
+    "source_span": "37",
+    "start_char": 962,
+    "end_char": 964,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:37",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:statute:lgsna:article:35:reference:1075-1076:9:direct",
     "source_provision_id": "urn:lex-mx:federal:statute:lgsna:article:35",
     "source_span": "9",
@@ -53,6 +68,87 @@
         "end_char": 248
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:transitory:quinto:reference:2910-2912:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgsna:transitory:quinto",
+    "source_span": "16",
+    "start_char": 2910,
+    "end_char": 2912,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lotfja",
+    "target_provision_id": "urn:lex-mx:federal:statute:lotfja:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción VII",
+        "start_char": 2884,
+        "end_char": 2896
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:transitory:quinto:reference:3216-3218:37:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgsna:transitory:quinto",
+    "source_span": "37",
+    "start_char": 3216,
+    "end_char": 3218,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lotfja",
+    "target_provision_id": "urn:lex-mx:federal:statute:lotfja:article:37",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XI",
+        "start_char": 3366,
+        "end_char": 3377
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:transitory:quinto:reference:3391-3393:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgsna:transitory:quinto",
+    "source_span": "16",
+    "start_char": 3391,
+    "end_char": 3393,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lotfja",
+    "target_provision_id": "urn:lex-mx:federal:statute:lotfja:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XI",
+        "start_char": 3366,
+        "end_char": 3377
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lgsna:transitory:quinto:reference:3535-3537:52:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lgsna:transitory:quinto",
+    "source_span": "52",
+    "start_char": 3535,
+    "end_char": 3537,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lotfja",
+    "target_provision_id": "urn:lex-mx:federal:statute:lotfja:article:52",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

@@ -96,6 +96,18 @@ struct ReferencePatterns {
     /// deterministic target, so it stays unlinked.
     relative_article: Regex,
     roman: Regex,
+    /// Quoted single-word shorthand for "Ley": `"Ley"`, `“Ley”`, `'Ley'`,
+    /// `‘Ley’`. A regulation's own definitions article routinely establishes
+    /// this exact shorthand for its parent law (`Cuando en el mismo se
+    /// expresen los vocablos "Ley", "Reglamento" … se entenderá que se
+    /// refiere a la Ley …`); the embedded quote characters break every other
+    /// marker in this module, which either misattributes the citation to an
+    /// unrelated law named later in the same run-on sentence or silently
+    /// resolves it against the citing instrument's own numbering.
+    quoted_ley: Regex,
+    /// Quoted single-word shorthand for "Reglamento", the regulation-side
+    /// counterpart of `quoted_ley`.
+    quoted_reglamento: Regex,
 }
 
 impl ReferencePatterns {
@@ -154,6 +166,12 @@ impl ReferencePatterns {
                 r"(?i)\bfracci(?:ón|ones)\s+[IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)*\b",
             )?,
             subsection: Regex::new(r"(?i)\bincisos?\s+[a-z](?:\s*(?:,|y|o)\s*[a-z])*\b")?,
+            // Applied to an already-lowercased context, so the word itself
+            // needs no case-insensitive flag; only the quote characters vary
+            // (straight `"`/`'` and curly `“”`/`‘’`, sometimes both within
+            // the same instrument across different amendment decrees).
+            quoted_ley: Regex::new(r#"["“'‘]\s*ley\s*["”'’]"#)?,
+            quoted_reglamento: Regex::new(r#"["“'‘]\s*reglamento\s*["”'’]"#)?,
         })
     }
 }
@@ -185,6 +203,17 @@ pub enum InstrumentContextPolicy {
         internal_markers: Vec<String>,
         /// Lowercase official-name fragments mapped to instrument IDs.
         external_instruments: Vec<(String, String)>,
+        /// Lowercase word (`"ley"` or `"reglamento"`) this instrument's own
+        /// definitions article establishes as quoted shorthand for itself,
+        /// e.g. `"reglamento"` for a reglamento. `None` when not configured
+        /// — most statutes and códigos never quote a bare self-shorthand.
+        quoted_self_word: Option<String>,
+        /// Lowercase word (always `"ley"` in the confirmed cases) this
+        /// regulation's own definitions article establishes as quoted
+        /// shorthand for its `regulates` parent law, paired with the
+        /// parent's `instrument_id`. `Some` only for a regulation with
+        /// `regulates` set.
+        quoted_parent: Option<(String, String)>,
     },
 }
 
@@ -494,12 +523,16 @@ fn extract_reference_group(
         }
     });
     let max_marker_start = last_end.map_or(usize::MAX, |end| end + MARKER_LOOKAHEAD_CHARS);
-    let target_instrument_id =
-        match group_target(&group[..context_end], max_marker_start, &options.policy) {
-            GroupTarget::Internal => source.instrument_id,
-            GroupTarget::External(instrument_id) => instrument_id,
-            GroupTarget::Skip => return Vec::new(),
-        };
+    let target_instrument_id = match group_target(
+        &group[..context_end],
+        max_marker_start,
+        &options.policy,
+        patterns,
+    ) {
+        GroupTarget::Internal => source.instrument_id,
+        GroupTarget::External(instrument_id) => instrument_id,
+        GroupTarget::Skip => return Vec::new(),
+    };
     let mut references = direct_reference_edges(
         source,
         target_instrument_id,
@@ -529,6 +562,7 @@ fn group_target<'a>(
     context: &str,
     max_marker_start: usize,
     policy: &'a InstrumentContextPolicy,
+    patterns: &ReferencePatterns,
 ) -> GroupTarget<'a> {
     let lower = context.to_lowercase();
     match policy {
@@ -542,11 +576,18 @@ fn group_target<'a>(
         InstrumentContextPolicy::SentenceEarliestMarker {
             internal_markers,
             external_instruments,
+            quoted_self_word,
+            quoted_parent,
         } => sentence_target(
             &lower,
             max_marker_start,
             internal_markers,
             external_instruments,
+            quoted_self_word.as_deref(),
+            quoted_parent
+                .as_ref()
+                .map(|(word, instrument_id)| (word.as_str(), instrument_id.as_str())),
+            patterns,
         ),
     }
 }
@@ -564,17 +605,44 @@ fn group_target<'a>(
 /// match merely *starts* too far away. No in-range marker means the
 /// citation defaults to internal, which is correct precisely because
 /// nothing near the number said otherwise.
+///
+/// `quoted_self_word`/`quoted_parent` add two more candidate sources ahead of
+/// `configured`/`generic` in priority-neutral position-only competition: a
+/// quoted `"Ley"`/`"Reglamento"` shorthand a regulation's own definitions
+/// article establishes for itself or its parent law. Both the straight and
+/// curly quote glyphs seen in the corpus are recognized (see
+/// `ReferencePatterns::quoted_ley`/`quoted_reglamento`); without this, the
+/// embedded quote characters break every other marker, so the earliest
+/// unrelated law named later in the same run-on sentence would otherwise win
+/// (or, absent one, the citation would silently resolve against the citing
+/// instrument's own numbering).
 fn sentence_target<'a>(
     lower: &str,
     max_marker_start: usize,
     internal_markers: &[String],
     external_instruments: &'a [(String, String)],
+    quoted_self_word: Option<&str>,
+    quoted_parent: Option<(&str, &'a str)>,
+    patterns: &ReferencePatterns,
 ) -> GroupTarget<'a> {
+    let quoted_word_position = |word: &str| -> Option<usize> {
+        let regex = match word {
+            "ley" => &patterns.quoted_ley,
+            "reglamento" => &patterns.quoted_reglamento,
+            _ => return None,
+        };
+        regex
+            .find_iter(lower)
+            .map(|found| found.start())
+            .filter(|position| *position <= max_marker_start)
+            .min()
+    };
     let internal = internal_markers
         .iter()
         .filter_map(|marker| lower.find(marker.as_str()))
         .filter(|position| *position <= max_marker_start)
         .min();
+    let quoted_internal = quoted_self_word.and_then(quoted_word_position);
     let configured = external_instruments
         .iter()
         .filter_map(|(marker, instrument_id)| {
@@ -584,6 +652,9 @@ fn sentence_target<'a>(
         })
         .filter(|(position, _)| *position <= max_marker_start)
         .min_by_key(|(position, _)| *position);
+    let quoted_parent = quoted_parent.and_then(|(word, instrument_id)| {
+        quoted_word_position(word).map(|position| (position, instrument_id))
+    });
     let generic = EXTERNAL_INSTRUMENT_MARKERS
         .iter()
         .filter_map(|marker| {
@@ -611,7 +682,9 @@ fn sentence_target<'a>(
 
     let candidates = [
         internal.map(|position| (position, GroupTarget::Internal)),
+        quoted_internal.map(|position| (position, GroupTarget::Internal)),
         configured.map(|(position, id)| (position, GroupTarget::External(id))),
+        quoted_parent.map(|(position, id)| (position, GroupTarget::External(id))),
         generic.map(|position| (position, GroupTarget::Skip)),
     ];
     candidates
@@ -634,7 +707,7 @@ fn extract_transitory_citations(
         let context = &source.text[citation_end..];
         let context = &context[..qualifier_boundary(context)];
         let target_instrument_id =
-            match group_target(context, MARKER_LOOKAHEAD_CHARS, &options.policy) {
+            match group_target(context, MARKER_LOOKAHEAD_CHARS, &options.policy, patterns) {
                 GroupTarget::Internal => source.instrument_id,
                 GroupTarget::External(instrument_id) => instrument_id,
                 GroupTarget::Skip => continue,
@@ -866,6 +939,25 @@ const EXTERNAL_INSTRUMENT_MARKERS: &[&str] = &[
     "del mismo código",
     "del referido código",
     "del mencionado código",
+    // Same anaphoric family with "en" instead of "de"/"del" — equally
+    // common ("a falta de disposición en dicho Código …"), and previously
+    // missing entirely, so a citation phrased this way fell through this
+    // Skip check to whatever configured external instrument happened to be
+    // named next in the same run-on sentence (surfaced by lpdusf article 75:
+    // "el Código de Comercio, a excepción del artículo 1235 … en dicho
+    // Código, se aplicarán las disposiciones del Código Nacional de
+    // Procedimientos Civiles y Familiares" misattributed 1235 to CNPCF).
+    "en dicha ley",
+    "en esa ley",
+    "en la citada ley",
+    "en la misma ley",
+    "en la referida ley",
+    "en la mencionada ley",
+    "en dicho código",
+    "en el citado código",
+    "en el mismo código",
+    "en el referido código",
+    "en el mencionado código",
 ];
 
 fn has_internal_instrument_context(value: &str) -> bool {
@@ -1883,6 +1975,8 @@ mod tests {
                     "ley para regular las instituciones de tecnología financiera".to_owned(),
                     LRITF_ID.to_owned(),
                 )],
+                quoted_self_word: None,
+                quoted_parent: None,
             },
             transitory_citations: true,
             same_article_fractions: true,
@@ -2117,6 +2211,37 @@ mod tests {
             policy: InstrumentContextPolicy::SentenceEarliestMarker {
                 internal_markers: statute_internal_markers(),
                 external_instruments,
+                quoted_self_word: None,
+                quoted_parent: None,
+            },
+            transitory_citations: true,
+            same_article_fractions: true,
+            relative_references: true,
+        }
+    }
+
+    /// A reglamento's reference options: `"reglamento"` quoted means itself,
+    /// `"ley"` quoted means `parent_id` (its `regulates` parent law) — the
+    /// quoted-shorthand configuration `lex-cli` derives from
+    /// `instrument_type`/`regulates` for every regulation adapter.
+    fn regulation_reference_options(
+        external_instruments: Vec<(String, String)>,
+        parent_id: &str,
+    ) -> ReferenceOptions {
+        ReferenceOptions {
+            policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                internal_markers: [
+                    "de este reglamento",
+                    "del presente reglamento",
+                    "de este ordenamiento",
+                    "del presente ordenamiento",
+                ]
+                .iter()
+                .map(|marker| (*marker).to_owned())
+                .collect(),
+                external_instruments,
+                quoted_self_word: Some("reglamento".to_owned()),
+                quoted_parent: Some(("ley".to_owned(), parent_id.to_owned())),
             },
             transitory_citations: true,
             same_article_fractions: true,
@@ -2273,6 +2398,189 @@ mod tests {
                 "expected internal resolution for article {suffix}: {references:#?}"
             );
         }
+    }
+
+    const CNPCF_ID: &str = "urn:lex-mx:federal:code:cnpcf";
+
+    /// lpdusf article 75, fracción VIII verbatim: "el Código de Comercio, a
+    /// excepción del artículo 1235 y a falta de disposición en dicho
+    /// Código, se aplicarán las disposiciones del Código Nacional de
+    /// Procedimientos Civiles y Familiares" — Código de Comercio is named
+    /// *before* the "artículo" header (outside any group this module scans
+    /// backward for), so the forward-only context after "1235" holds only
+    /// the anaphoric "en dicho Código" and, further on, CNPCF. Before this
+    /// fix, `EXTERNAL_INSTRUMENT_MARKERS` only recognized the "de dicho
+    /// código" preposition, not "en dicho código", so the anaphoric Skip
+    /// marker never fired and CNPCF (in range but unrelated — it is what
+    /// applies "a falta de disposición" in this código, not what governs
+    /// article 1235) won by default, fabricating a hard validation error
+    /// (article 1235 does not exist in CNPCF's numbering).
+    #[test]
+    fn en_preposition_anaphoric_marker_skips_a_citation_instead_of_misattributing_it() {
+        let body = "Artículo 75.- El procedimiento arbitral se sujetará a lo siguiente: \
+            Se aplicará supletoriamente el Código de Comercio, a excepción del artículo 1235 y \
+            a falta de disposición en dicho Código, se aplicarán las disposiciones del Código \
+            Nacional de Procedimientos Civiles y Familiares.\n";
+        let provisions = parse_statute_sample(
+            LPDUSF_ID,
+            "LEY DE PROTECCIÓN Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS",
+            body,
+        );
+        let known_targets: HashSet<String> =
+            provisions.iter().map(|item| item.id.clone()).collect();
+        let options = statute_reference_options(vec![(
+            "código nacional de procedimientos civiles y familiares".to_owned(),
+            CNPCF_ID.to_owned(),
+        )]);
+        let references = extract_references(&provisions, None, &options, &known_targets).unwrap();
+
+        assert!(
+            !references.iter().any(|edge| edge.source_span == "1235"),
+            "article 1235 must stay unlinked (Skip), not misattributed to CNPCF: {references:#?}"
+        );
+    }
+
+    // Regression fixtures for the quoted-shorthand bug: reg-lan's own
+    // definitions article establishes that the bare quoted words "Ley" and
+    // "Reglamento" stand for the parent law (LAN) and for reg-lan itself,
+    // respectively. The embedded quote characters break every other marker
+    // in `sentence_target` (`lower.find("de la ley ")` never matches `de la
+    // "ley"`), so before this fix these citations either silently resolved
+    // against reg-lan's own numbering or, when an unrelated law happened to
+    // be named later in the same run-on sentence, misattributed to it.
+    // Fixtures are reg-lan's verbatim text (trimmed to the relevant
+    // sentence), confirmed against the committed corpus.
+
+    const REG_LAN_ID: &str = "urn:lex-mx:federal:regulation:reg-lan";
+    const LAN_ID: &str = "urn:lex-mx:federal:statute:lan";
+    const LFPA_ID: &str = "urn:lex-mx:federal:statute:lfpa";
+
+    /// reg-lan article 190 verbatim (first sentence): "el artículo 124 de la
+    /// 'Ley'" must resolve to `lan:article:124`, not `reg-lan:article:124` —
+    /// even though reg-lan happens to also have an article 124, so a
+    /// same-instrument fallback would silently "resolve" to the wrong
+    /// target instead of failing loudly.
+    #[test]
+    fn quoted_ley_shorthand_resolves_to_the_regulated_parent_law() {
+        let body = "Artículo 190.- La tramitación del recurso de revisión que establece el \
+            artículo 124 de la \"Ley\", se sujetará a las disposiciones de este \"Reglamento\" \
+            y, en lo no previsto, a las del Código Federal de Procedimientos Civiles.\n";
+        let provisions =
+            parse_statute_sample(REG_LAN_ID, "REGLAMENTO DE LA LEY DE AGUAS NACIONALES", body);
+        let mut known_targets: HashSet<String> =
+            provisions.iter().map(|item| item.id.clone()).collect();
+        known_targets.insert(format!("{LAN_ID}:article:124"));
+        let options = regulation_reference_options(
+            vec![(
+                "código federal de procedimientos civiles".to_owned(),
+                "urn:lex-mx:federal:code:cfpc".to_owned(),
+            )],
+            LAN_ID,
+        );
+        let references = extract_references(&provisions, None, &options, &known_targets).unwrap();
+
+        let article_124 = references
+            .iter()
+            .find(|edge| edge.source_span == "124")
+            .unwrap_or_else(|| panic!("no edge for article 124: {references:#?}"));
+        assert_eq!(
+            article_124.target_provision_id,
+            format!("{LAN_ID}:article:124")
+        );
+        assert_eq!(
+            article_124.resolution_status,
+            ReferenceResolutionStatus::Resolved
+        );
+        assert!(
+            !references
+                .iter()
+                .any(|edge| edge.target_instrument_id == REG_LAN_ID
+                    && edge.target_provision_id.ends_with(":article:124")),
+            "must not silently resolve to reg-lan's own coincidentally-numbered article 124: \
+             {references:#?}"
+        );
+    }
+
+    /// reg-lan article 153, fracción II verbatim: "el artículo 122 de la
+    /// 'Ley' y en la Ley Federal de Procedimiento Administrativo" — the
+    /// quoted "Ley" sits right after the number, so it must win over LFPA
+    /// (an unrelated, later-named law describing the inspection procedure,
+    /// not what governs article 122) even though LFPA is a configured
+    /// external instrument here. Uses curly quotes, as this exact sentence
+    /// does in the committed corpus.
+    #[test]
+    fn quoted_ley_shorthand_wins_over_a_later_named_unrelated_law() {
+        let body = "Artículo 153.- Se levantará acta circunstanciada de la visita de \
+            inspección, aplicando en lo conducente lo dispuesto en el artículo 122 de la \
+            \u{201c}Ley\u{201d} y en la Ley Federal de Procedimiento Administrativo, \
+            precisando las actividades que den origen a la descarga.\n";
+        let provisions =
+            parse_statute_sample(REG_LAN_ID, "REGLAMENTO DE LA LEY DE AGUAS NACIONALES", body);
+        let mut known_targets: HashSet<String> =
+            provisions.iter().map(|item| item.id.clone()).collect();
+        known_targets.insert(format!("{LAN_ID}:article:122"));
+        let options = regulation_reference_options(
+            vec![(
+                "ley federal de procedimiento administrativo".to_owned(),
+                LFPA_ID.to_owned(),
+            )],
+            LAN_ID,
+        );
+        let references = extract_references(&provisions, None, &options, &known_targets).unwrap();
+
+        let article_122 = references
+            .iter()
+            .find(|edge| edge.source_span == "122")
+            .unwrap_or_else(|| panic!("no edge for article 122: {references:#?}"));
+        assert_eq!(
+            article_122.target_provision_id,
+            format!("{LAN_ID}:article:122")
+        );
+        assert_eq!(
+            article_122.resolution_status,
+            ReferenceResolutionStatus::Resolved
+        );
+        assert!(
+            !references
+                .iter()
+                .any(|edge| edge.target_instrument_id == LFPA_ID),
+            "must not misattribute article 122 to LFPA: {references:#?}"
+        );
+    }
+
+    /// reg-lan transitorio noveno verbatim (third paragraph): "el artículo
+    /// 88 de la 'Ley' y en este 'Reglamento'" — "Ley" (parent, LAN) must win
+    /// over "Reglamento" (self) purely by appearing first in the sentence.
+    #[test]
+    fn quoted_ley_shorthand_resolves_inside_a_transitory_citing_both_quoted_words() {
+        let body = "Artículo 1o.- Objeto del reglamento.\n\
+            \n\
+            TRANSITORIOS\n\
+            \n\
+            NOVENO.- Transcurrido el plazo para la presentación del aviso a que se refiere el \
+            presente transitorio, se deberá tramitar, conforme a lo dispuesto en el artículo 88 \
+            de la \"Ley\" y en este \"Reglamento\", el permiso de descarga de aguas residuales a \
+            los cuerpos receptores a que se refiere la misma.\n";
+        let provisions =
+            parse_statute_sample(REG_LAN_ID, "REGLAMENTO DE LA LEY DE AGUAS NACIONALES", body);
+        let mut known_targets: HashSet<String> =
+            provisions.iter().map(|item| item.id.clone()).collect();
+        known_targets.insert(format!("{LAN_ID}:article:88"));
+        let options = regulation_reference_options(Vec::new(), LAN_ID);
+        let references = extract_references(&provisions, None, &options, &known_targets).unwrap();
+
+        let article_88 = references
+            .iter()
+            .find(|edge| edge.source_span == "88")
+            .unwrap_or_else(|| panic!("no edge for article 88: {references:#?}"));
+        assert_eq!(
+            article_88.target_provision_id,
+            format!("{LAN_ID}:article:88")
+        );
+        assert_eq!(
+            article_88.resolution_status,
+            ReferenceResolutionStatus::Resolved
+        );
     }
 
     #[test]

@@ -954,6 +954,22 @@ fn self_reference_markers(instrument_type: &str) -> Vec<String> {
         .collect()
 }
 
+/// Lowercase word (`"ley"`/`"reglamento"`) this instrument's own definitions
+/// article quotes as shorthand for itself — `None` when this instrument kind
+/// has no confirmed quoted self-shorthand convention. Only regulation and
+/// statute are wired: reg-lan's "Cuando en el mismo se expresen los vocablos
+/// 'Ley', 'Reglamento' … se entenderá que se refiere a la Ley …" is the
+/// confirmed regulation case; no código/DCG in the committed corpus has been
+/// found quoting a bare self-shorthand this way, so `"code"` and anything
+/// else stay unconfigured rather than guessed.
+fn quoted_self_word(instrument_type: &str) -> Option<String> {
+    match instrument_type {
+        "regulation" => Some("reglamento".to_owned()),
+        "statute" => Some("ley".to_owned()),
+        _ => None,
+    }
+}
+
 /// Parser options for a Diputados consolidated document, derived from the
 /// adapter: running-header lines default to the uppercased official title.
 fn diputados_options(config: &SourceConfig) -> DiputadosOptions {
@@ -1263,6 +1279,11 @@ fn extract_instrument_references(
                 .clone()
                 .unwrap_or_else(|| self_reference_markers(&context.config.instrument_type)),
             external_instruments,
+            quoted_self_word: quoted_self_word(&context.config.instrument_type),
+            quoted_parent: (context.config.instrument_type == "regulation")
+                .then(|| context.config.regulates.clone())
+                .flatten()
+                .map(|parent_id| ("ley".to_owned(), parent_id)),
         },
         transitory_citations: true,
         same_article_fractions: true,

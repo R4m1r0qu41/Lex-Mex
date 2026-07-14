@@ -413,6 +413,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:reference:2847-2849:73:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
+    "source_span": "73",
+    "start_char": 2847,
+    "end_char": 2849,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lgsm",
+    "target_provision_id": "urn:lex-mx:federal:statute:lgsm:article:73",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-laassp:article:153:reference:4193-4195:57:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:153",
     "source_span": "57",
@@ -488,6 +503,36 @@
         "end_char": 1191
       }
     ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:188:reference:152-154:15:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:188",
+    "source_span": "15",
+    "start_char": 152,
+    "end_char": 154,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:15",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:188:reference:962-966:17-a:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:188",
+    "source_span": "17-A",
+    "start_char": 962,
+    "end_char": 966,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfpa",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfpa:article:17-a",
+    "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",
@@ -598,6 +643,28 @@
         "text": "párrafo tercero",
         "start_char": 108,
         "end_char": 123
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laassp:article:4:reference:379-381:46:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laassp:article:4",
+    "source_span": "46",
+    "start_char": 379,
+    "end_char": 381,
+    "target_instrument_id": "urn:lex-mx:federal:statute:loapf",
+    "target_provision_id": "urn:lex-mx:federal:statute:loapf:article:46",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "último párrafo",
+        "start_char": 351,
+        "end_char": 365
       }
     ],
     "basis": "express_cross_reference",
