@@ -1,0 +1,56 @@
+{
+  "batch_id": "cl2_EV1_aguas_vida_silvestre",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "EV1 aguas vida silvestre",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgag",
+      "title": "LEY General de Aguas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgag.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAg.pdf",
+      "dof_publication": "11/12/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lgvs",
+      "title": "REGLAMENTO de la Ley General de Vida Silvestre",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGVS.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGVS.pdf",
+      "dof_publication": "30/11/2006",
+      "dof_last_reform": "17/04/2014"
+    },
+    {
+      "slug": "reg-lgeepa-moe",
+      "title": "REGLAMENTO de la Ley General del Equilibrio Ecológico y la Protección al Ambiente en Materia de Ordenamiento Ecológico",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MOE_311014.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MOE_311014.pdf",
+      "dof_publication": "08/08/2003",
+      "dof_last_reform": "28/09/2010"
+    },
+    {
+      "slug": "lgec",
+      "title": "LEY General de Economía Circular",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgec.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEC.pdf",
+      "dof_publication": "19/01/2026",
+      "dof_last_reform": null
+    }
+  ]
+}

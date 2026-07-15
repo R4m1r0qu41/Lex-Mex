@@ -1,0 +1,89 @@
+{
+  "batch_id": "cl2_EN1_electrico_planeacion",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "EN1 electrico planeacion",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lse",
+      "title": "LEY del Sector Eléctrico",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lse.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSE.pdf",
+      "dof_publication": "18/03/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lse",
+      "title": "REGLAMENTO de la Ley del Sector Eléctrico",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSE.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSE.pdf",
+      "dof_publication": "03/10/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lpte",
+      "title": "LEY de Planeación y Transición Energética",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpte.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPTE.pdf",
+      "dof_publication": "18/03/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lpte",
+      "title": "REGLAMENTO de la Ley de Planeación y Transición Energética",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPTE.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPTE.pdf",
+      "dof_publication": "03/10/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lcne",
+      "title": "LEY de la Comisión Nacional de Energía",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcne.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNE.pdf",
+      "dof_publication": "18/03/2025",
+      "dof_last_reform": "26/12/2025"
+    },
+    {
+      "slug": "lepecfe",
+      "title": "LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lepecfe.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPECFE.pdf",
+      "dof_publication": "18/03/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lepecfe",
+      "title": "REGLAMENTO de la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEPECFE.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEPECFE.pdf",
+      "dof_publication": "02/12/2025",
+      "dof_last_reform": "29/12/2025"
+    }
+  ]
+}

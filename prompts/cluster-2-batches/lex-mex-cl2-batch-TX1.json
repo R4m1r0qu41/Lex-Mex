@@ -1,0 +1,67 @@
+{
+  "batch_id": "cl2_TX1_sat_procedimiento",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "TX1 sat procedimiento",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lsat",
+      "title": "LEY del Servicio de Administración Tributaria",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf",
+      "dof_publication": "15/12/1995",
+      "dof_last_reform": "04/12/2018"
+    },
+    {
+      "slug": "lfdc",
+      "title": "LEY Federal de los Derechos del Contribuyente",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf",
+      "dof_publication": "23/06/2005",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lopdc",
+      "title": "LEY Orgánica de la Procuraduría de la Defensa del Contribuyente",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopdc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf",
+      "dof_publication": "04/09/2006",
+      "dof_last_reform": "11/05/2022"
+    },
+    {
+      "slug": "lfpca",
+      "title": "LEY Federal de Procedimiento Contencioso Administrativo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpca.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf",
+      "dof_publication": "01/12/2005",
+      "dof_last_reform": "09/06/2026"
+    },
+    {
+      "slug": "reg-cff",
+      "title": "REGLAMENTO del Código Fiscal de la Federación",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    }
+  ]
+}

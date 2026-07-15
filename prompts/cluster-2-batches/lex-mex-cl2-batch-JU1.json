@@ -1,0 +1,79 @@
+{
+  "batch_id": "cl2_JU1_poder_judicial_fiscalia",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "JU1 poder judicial fiscalia",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lopjf",
+      "title": "LEY Orgánica del Poder Judicial de la Federación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopjf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf",
+      "dof_publication": "20/12/2024",
+      "dof_last_reform": "28/11/2025"
+    },
+    {
+      "slug": "lcjpjf",
+      "title": "LEY de Carrera Judicial del Poder Judicial de la Federación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcjpjf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCJPJF.pdf",
+      "dof_publication": "02/01/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lfgr",
+      "title": "LEY de la Fiscalía General de la República",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfgr.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFGR.pdf",
+      "dof_publication": "20/05/2021",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "reg-lopgr",
+      "title": "REGLAMENTO de la Ley Orgánica de la Procuraduría General de la República",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGR.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGR.pdf",
+      "dof_publication": "23/07/2012",
+      "dof_last_reform": "21/09/2012",
+      "note": "Parent LOPGR abrogated (now Ley de la FGR); reglamento remains on the vigentes index."
+    },
+    {
+      "slug": "lfdefp",
+      "title": "LEY Federal de Defensoría Pública",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdefp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDefP.pdf",
+      "dof_publication": "28/05/1998",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "lgmasc",
+      "title": "LEY General de Mecanismos Alternativos de Solución de Controversias",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmasc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMASC.pdf",
+      "dof_publication": "26/01/2024",
+      "dof_last_reform": null
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "batch_id": "cl2_AD2_bienes_obras_servicios",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "AD2 bienes obras servicios",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lspm",
+      "title": "LEY del Servicio Postal Mexicano",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPM.pdf",
+      "dof_publication": "24/12/1986",
+      "dof_last_reform": "19/01/2023"
+    },
+    {
+      "slug": "lfaebsp",
+      "title": "LEY Federal para la Administración y Enajenación de Bienes del Sector Público",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfaebsp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAEBSP.pdf",
+      "dof_publication": "19/12/2002",
+      "dof_last_reform": "30/04/2024"
+    },
+    {
+      "slug": "reg-lfaebsp",
+      "title": "REGLAMENTO de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFAEBSP.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFAEBSP.pdf",
+      "dof_publication": "17/06/2003",
+      "dof_last_reform": "29/11/2006"
+    },
+    {
+      "slug": "reg-lopsrm",
+      "title": "REGLAMENTO de la Ley de Obras Públicas y Servicios Relacionados con las Mismas",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPSRM.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPSRM.pdf",
+      "dof_publication": "28/07/2010",
+      "dof_last_reform": "02/06/2022"
+    },
+    {
+      "slug": "lfar",
+      "title": "LEY Federal de Austeridad Republicana",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfar.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAR.pdf",
+      "dof_publication": "19/11/2019",
+      "dof_last_reform": "16/04/2025"
+    }
+  ]
+}

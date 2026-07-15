@@ -1,0 +1,68 @@
+{
+  "batch_id": "cl2_AD3_servicio_publico_laboral",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "AD3 servicio publico laboral",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lspcapf",
+      "title": "LEY del Servicio Profesional de Carrera en la Administración Pública Federal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf",
+      "dof_publication": "10/04/2003",
+      "dof_last_reform": "09/01/2006"
+    },
+    {
+      "slug": "lfremsp",
+      "title": "LEY Federal de Remuneraciones de los Servidores Públicos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfremsp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRemSP_190521.pdf",
+      "dof_publication": "19/05/2021",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "locfcrl",
+      "title": "LEY Orgánica del Centro Federal de Conciliación y Registro Laboral",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/locfcrl.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf",
+      "dof_publication": "06/01/2020",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-art121-122-lft",
+      "title": "REGLAMENTO de los Artículos 121 y 122 de la Ley Federal del Trabajo",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_Art121-122_LFT_050614.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_Art121-122_LFT_050614.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-laat",
+      "title": "REGLAMENTO de la Ley de Ayuda Alimentaria para los Trabajadores",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAAT_040615.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAAT_040615.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null,
+      "note": "Pairs with corpus LAAT (Ley de Ayuda Alimentaria para los Trabajadores, batch L1) — NOT Ley de Aeropuertos; the Reglamento de la Ley de Aeropuertos is still absent from the official regley index."
+    }
+  ]
+}

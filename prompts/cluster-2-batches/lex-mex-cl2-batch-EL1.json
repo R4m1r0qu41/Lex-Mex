@@ -1,0 +1,67 @@
+{
+  "batch_id": "cl2_EL1_electoral",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "EL1 electoral",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgipe",
+      "title": "LEY General de Instituciones y Procedimientos Electorales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgipe.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
+      "dof_publication": "23/05/2014",
+      "dof_last_reform": "02/06/2026"
+    },
+    {
+      "slug": "lgpp",
+      "title": "LEY General de Partidos Políticos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP.pdf",
+      "dof_publication": "23/05/2014",
+      "dof_last_reform": "24/11/2023"
+    },
+    {
+      "slug": "lgsmime",
+      "title": "LEY General del Sistema de Medios de Impugnación en Materia Electoral",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsmime.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSMIME.pdf",
+      "dof_publication": "22/11/1996",
+      "dof_last_reform": "24/11/2023"
+    },
+    {
+      "slug": "lgmime",
+      "title": "LEY General de los Medios de Impugnación en Materia Electoral",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmime.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMIME.pdf",
+      "dof_publication": "02/03/2023",
+      "dof_last_reform": "24/11/2023"
+    },
+    {
+      "slug": "lgmde",
+      "title": "LEY General en Materia de Delitos Electorales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmde.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMDE_200521.pdf",
+      "dof_publication": "23/05/2014",
+      "dof_last_reform": "20/05/2021"
+    }
+  ]
+}

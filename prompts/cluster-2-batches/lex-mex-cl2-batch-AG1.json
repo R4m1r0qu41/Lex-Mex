@@ -1,0 +1,78 @@
+{
+  "batch_id": "cl2_AG1_agrario",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "AG1 agrario",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lagra",
+      "title": "LEY Agraria",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lagra.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAgra.pdf",
+      "dof_publication": "26/02/1992",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "reg-lagra-mcdets",
+      "title": "REGLAMENTO de la Ley Agraria en Materia de Certificación de Derechos Ejidales y Titulación de Solares",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MCDETS.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MCDETS.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lagra-mopr",
+      "title": "REGLAMENTO de la Ley Agraria en Materia de Ordenamiento de la Propiedad Rural",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MOPR.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_MOPR.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lagra-fodmc",
+      "title": "REGLAMENTO de la Ley Agraria para Fomentar la Organización y Desarrollo de la Mujer Campesina",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_FODMC.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAgra_FODMC.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lota",
+      "title": "LEY Orgánica de los Tribunales Agrarios",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lota.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/159.pdf",
+      "dof_publication": "26/02/1992",
+      "dof_last_reform": "23/01/1998"
+    },
+    {
+      "slug": "lexp",
+      "title": "LEY de Expropiación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lexp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/35.pdf",
+      "dof_publication": "25/11/1936",
+      "dof_last_reform": "27/01/2012"
+    }
+  ]
+}

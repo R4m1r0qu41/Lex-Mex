@@ -1,0 +1,34 @@
+{
+  "batch_id": "cl2_PE2_delitos_materia_especial",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "PE2 delitos materia especial",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lfpsdmh",
+      "title": "LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpsdmh.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPSDMH.pdf",
+      "dof_publication": "12/01/2016",
+      "dof_last_reform": "12/11/2021"
+    },
+    {
+      "slug": "lfcsq",
+      "title": "LEY Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas Químicas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcsq.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCSQ.pdf",
+      "dof_publication": "09/06/2009",
+      "dof_last_reform": "14/11/2025"
+    }
+  ]
+}

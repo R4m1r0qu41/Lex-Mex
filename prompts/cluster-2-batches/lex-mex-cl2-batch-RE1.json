@@ -1,0 +1,101 @@
+{
+  "batch_id": "cl2_RE1_poblacion_migracion",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "RE1 poblacion migracion",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgp",
+      "title": "LEY General de Población",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGP.pdf",
+      "dof_publication": "07/01/1974",
+      "dof_last_reform": "16/07/2025"
+    },
+    {
+      "slug": "reg-lgp",
+      "title": "REGLAMENTO de la Ley General de Población",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGP.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGP.pdf",
+      "dof_publication": "14/04/2000",
+      "dof_last_reform": "29/11/2006"
+    },
+    {
+      "slug": "lmigra",
+      "title": "LEY de Migración",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmigra.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMigra.pdf",
+      "dof_publication": "25/05/2011",
+      "dof_last_reform": "15/01/2026"
+    },
+    {
+      "slug": "reg-lmigra",
+      "title": "REGLAMENTO de la Ley de Migración",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMigra.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMigra.pdf",
+      "dof_publication": "28/09/2012",
+      "dof_last_reform": "02/12/2013"
+    },
+    {
+      "slug": "lnac",
+      "title": "LEY de Nacionalidad",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnac.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/53.pdf",
+      "dof_publication": "23/01/1998",
+      "dof_last_reform": "23/04/2012"
+    },
+    {
+      "slug": "reg-lnac",
+      "title": "REGLAMENTO de la Ley de Nacionalidad",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNac.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LNac.pdf",
+      "dof_publication": "17/06/2009",
+      "dof_last_reform": "21/03/2013"
+    },
+    {
+      "slug": "lrpcap",
+      "title": "LEY sobre Refugiados, Protección Complementaria y Asilo Político",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpcap.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRPCAP.pdf",
+      "dof_publication": "27/01/2011",
+      "dof_last_reform": "18/02/2022"
+    },
+    {
+      "slug": "reg-lrpc",
+      "title": "REGLAMENTO de la Ley sobre Refugiados y Protección Complementaria",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRPC.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRPC.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null,
+      "note": "Parent renamed to Ley sobre Refugiados, Protección Complementaria y Asilo Político (lrpcap, this batch)."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "batch_id": "cl2_TR1_transparencia_datos",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "TR1 transparencia datos",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgtaip",
+      "title": "LEY General de Transparencia y Acceso a la Información Pública",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgtaip.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
+      "dof_publication": "20/03/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lftaipg",
+      "title": "REGLAMENTO de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFTAIPG.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFTAIPG.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null,
+      "note": "Parent LFTAIPG abrogated (now LGTAIP/LFTAIP regime); reglamento remains listed vigente."
+    },
+    {
+      "slug": "lgpdppso",
+      "title": "LEY General de Protección de Datos Personales en Posesión de Sujetos Obligados",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpdppso.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf",
+      "dof_publication": "20/03/2025",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "lfpdppp",
+      "title": "LEY Federal de Protección de Datos Personales en Posesión de los Particulares",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpdppp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
+      "dof_publication": "20/03/2025",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "reg-lfpdppp",
+      "title": "REGLAMENTO de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPDPPP.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPDPPP.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    }
+  ]
+}

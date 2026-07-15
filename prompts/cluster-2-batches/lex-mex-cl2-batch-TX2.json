@@ -1,0 +1,81 @@
+{
+  "batch_id": "cl2_TX2_ingresos_presupuesto",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "TX2 ingresos presupuesto",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [
+    {
+      "slug": "lif-2026",
+      "title": "LEY de Ingresos de la Federación para el Ejercicio Fiscal de 2026",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "BLOCKED",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lif_2026.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIF_2026.pdf",
+      "dof_publication": "07/11/2025",
+      "dof_last_reform": null,
+      "note": "Annual instrument (expires with FY2026); confirm temporal-model treatment before ingesting."
+    },
+    {
+      "slug": "pef-2026",
+      "title": "PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026",
+      "type": "decreto",
+      "adapter": "diputados",
+      "status": "BLOCKED",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/pef_2026.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/PEF_2026.pdf",
+      "dof_publication": "21/11/2025",
+      "dof_last_reform": null,
+      "note": "Annual decree (expires with FY2026); confirm temporal-model treatment before ingesting."
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "lfd",
+      "title": "LEY Federal de Derechos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfd.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+      "dof_publication": "31/12/1981",
+      "dof_last_reform": "28/12/2025"
+    },
+    {
+      "slug": "lgdp",
+      "title": "LEY Federal de Deuda Pública",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf",
+      "dof_publication": "31/12/1976",
+      "dof_last_reform": "30/01/2018"
+    },
+    {
+      "slug": "reg-lfprh",
+      "title": "REGLAMENTO de la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPRH.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPRH.pdf",
+      "dof_publication": "28/06/2006",
+      "dof_last_reform": "05/09/2007"
+    },
+    {
+      "slug": "lcmopfih",
+      "title": "LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcmopfih.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/30.pdf",
+      "dof_publication": "26/12/1990",
+      "dof_last_reform": null
+    }
+  ]
+}

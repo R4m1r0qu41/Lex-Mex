@@ -1,0 +1,78 @@
+{
+  "batch_id": "cl2_ED2_profesiones_deporte_juventud",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "ED2 profesiones deporte juventud",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lrart5-prof",
+      "title": "LEY Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart5_prof.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf",
+      "dof_publication": "26/05/1945",
+      "dof_last_reform": "19/01/2018"
+    },
+    {
+      "slug": "reg-lrart5c",
+      "title": "REGLAMENTO de la Ley Reglamentaria del Artículo 5o. Constitucional, Relativo al Ejercicio de las Profesiones en el Distrito Federal",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRArt5C_050418.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRArt5C_050418.pdf",
+      "dof_publication": "01/10/1945",
+      "dof_last_reform": "04/07/1951"
+    },
+    {
+      "slug": "lgcfd",
+      "title": "LEY General de Cultura Física y Deporte",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcfd.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCFD.pdf",
+      "dof_publication": "07/06/2013",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "reg-lgcfd",
+      "title": "REGLAMENTO de la Ley General de Cultura Física y Deporte",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCFD.pdf",
+      "dof_publication": "23/05/2014",
+      "dof_last_reform": "27/02/2015"
+    },
+    {
+      "slug": "limj",
+      "title": "LEY del Instituto Mexicano de la Juventud",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/limj.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIMJ.pdf",
+      "dof_publication": "06/01/1999",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "lperc",
+      "title": "LEY de Premios, Estímulos y Recompensas Civiles",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lperc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPERC.pdf",
+      "dof_publication": "31/12/1975",
+      "dof_last_reform": "01/04/2024"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "batch_id": "cl2_CU2_cine_libro_bibliotecas",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "CU2 cine libro bibliotecas",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lfca",
+      "title": "LEY Federal de Cine y el Audiovisual",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfca.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCA.pdf",
+      "dof_publication": "22/05/2026",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lfcine",
+      "title": "REGLAMENTO de la Ley Federal de Cinematografía",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCine.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCine.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lfll",
+      "title": "LEY de Fomento para la Lectura y el Libro",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfll.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFLL.pdf",
+      "dof_publication": "24/07/2008",
+      "dof_last_reform": "29/11/2023"
+    },
+    {
+      "slug": "reg-lfll",
+      "title": "REGLAMENTO de la Ley de Fomento para la Lectura y el Libro",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFLL.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFLL.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lgb",
+      "title": "LEY General de Bibliotecas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgb.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGB.pdf",
+      "dof_publication": "01/06/2021",
+      "dof_last_reform": "29/11/2023"
+    },
+    {
+      "slug": "lgt",
+      "title": "LEY General de Turismo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgt.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGT.pdf",
+      "dof_publication": "17/06/2009",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "reg-lgt",
+      "title": "REGLAMENTO de la Ley General de Turismo",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGT.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGT.pdf",
+      "dof_publication": "06/07/2015",
+      "dof_last_reform": "16/08/2017"
+    }
+  ]
+}

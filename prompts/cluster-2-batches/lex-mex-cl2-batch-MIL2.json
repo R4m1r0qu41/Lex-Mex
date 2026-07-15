@@ -1,0 +1,122 @@
+{
+  "batch_id": "cl2_MIL2_carrera_educacion",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "MIL2 carrera educacion",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "laam",
+      "title": "LEY de Ascensos de la Armada de México",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/laam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAAM.pdf",
+      "dof_publication": "25/06/2004",
+      "dof_last_reform": "17/12/2025"
+    },
+    {
+      "slug": "reg-laam",
+      "title": "REGLAMENTO de la Ley de Ascensos de la Armada de México",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAAM.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAAM.pdf",
+      "dof_publication": "09/11/2006",
+      "dof_last_reform": "22/09/2010"
+    },
+    {
+      "slug": "larefam",
+      "title": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/larefam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAREFAGN.pdf",
+      "dof_publication": "30/10/2003",
+      "dof_last_reform": "16/07/2025"
+    },
+    {
+      "slug": "reg-larefagn",
+      "title": "REGLAMENTO de la Ley de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional (Antes",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAREFAGN.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAREFAGN.pdf",
+      "dof_publication": "19/07/2004",
+      "dof_last_reform": "08/06/2009"
+    },
+    {
+      "slug": "ldefam",
+      "title": "LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldefam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDEFAGN.pdf",
+      "dof_publication": "15/03/1926",
+      "dof_last_reform": "16/07/2025"
+    },
+    {
+      "slug": "ldparm",
+      "title": "LEY de Disciplina para el Personal de la Armada de México",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldparm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/252.pdf",
+      "dof_publication": "13/12/2002",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lemefam",
+      "title": "LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lemefam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEMEFAGN.pdf",
+      "dof_publication": "23/12/2005",
+      "dof_last_reform": "16/07/2025"
+    },
+    {
+      "slug": "reg-lemefagn",
+      "title": "REGLAMENTO de la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional (Antes",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEMEFAGN.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEMEFAGN.pdf",
+      "dof_publication": "14/08/2006",
+      "dof_last_reform": "27/01/2012"
+    },
+    {
+      "slug": "len",
+      "title": "LEY de Educación Naval",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/len.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEN.pdf",
+      "dof_publication": "12/03/2019",
+      "dof_last_reform": "24/03/2023"
+    },
+    {
+      "slug": "reg-len",
+      "title": "REGLAMENTO de la Ley de Educación Naval",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEN_270120.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEN_270120.pdf",
+      "dof_publication": "27/01/2020",
+      "dof_last_reform": null
+    }
+  ]
+}

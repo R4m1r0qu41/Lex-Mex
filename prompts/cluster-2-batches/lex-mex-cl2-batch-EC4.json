@@ -1,0 +1,67 @@
+{
+  "batch_id": "cl2_EC4_zonas_infraestructura",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "EC4 zonas infraestructura",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lfzee",
+      "title": "LEY Federal de Zonas Económicas Especiales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfzee.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFZEE.pdf",
+      "dof_publication": "01/06/2016",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "reg-lfzee",
+      "title": "REGLAMENTO de la Ley Federal de Zonas Económicas Especiales",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFZEE_290917.pdf",
+      "dof_publication": "30/06/2016",
+      "dof_last_reform": "29/09/2017"
+    },
+    {
+      "slug": "lfiiedb",
+      "title": "LEY para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfiiedb.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIIEDB.pdf",
+      "dof_publication": "09/04/2026",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lfiiedb",
+      "title": "REGLAMENTO de la Ley para el Fomento de la Inversión en Infraestructura Estratégica para el Desarrollo con Bienestar Nuevo Reglamento",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFIIEDB.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFIIEDB.pdf",
+      "dof_publication": "08/05/2026",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "ltpcpimcp",
+      "title": "LEY para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltpcpimcp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LTPCPIMCP.pdf",
+      "dof_publication": "03/06/2021",
+      "dof_last_reform": "22/12/2023"
+    }
+  ]
+}

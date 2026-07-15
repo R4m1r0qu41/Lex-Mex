@@ -1,0 +1,100 @@
+{
+  "batch_id": "cl2_CU1_patrimonio_cultura",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "CU1 patrimonio cultura",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgcdc",
+      "title": "LEY General de Cultura y Derechos Culturales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgcdc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCDC.pdf",
+      "dof_publication": "19/06/2017",
+      "dof_last_reform": "15/01/2026"
+    },
+    {
+      "slug": "reg-lgcdc",
+      "title": "REGLAMENTO de la Ley General de Cultura y Derechos Culturales",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCDC_291118.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCDC_291118.pdf",
+      "dof_publication": "29/11/2018",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lfmzaah",
+      "title": "LEY Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfmzaah.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMZAAH.pdf",
+      "dof_publication": "06/05/1972",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "reg-lfmzaah",
+      "title": "REGLAMENTO de la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMZAAH_031220.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMZAAH_031220.pdf",
+      "dof_publication": "08/12/1975",
+      "dof_last_reform": "05/01/1993"
+    },
+    {
+      "slug": "loinah",
+      "title": "LEY Orgánica del Instituto Nacional de Antropología e Historia",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/loinah.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/170_171215.pdf",
+      "dof_publication": "03/02/1939",
+      "dof_last_reform": "17/12/2015"
+    },
+    {
+      "slug": "reg-loinah",
+      "title": "REGLAMENTO de la Ley Orgánica del Instituto Nacional de Antropología e Historia",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOINAH_240521.pdf",
+      "dof_publication": "24/05/2021",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "linbal",
+      "title": "LEY que crea el Instituto Nacional de Bellas Artes y Literatura",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/linbal.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/193_171215.pdf",
+      "dof_publication": "31/12/1946",
+      "dof_last_reform": "17/12/2015"
+    },
+    {
+      "slug": "loscm",
+      "title": "LEY Orgánica del Seminario de Cultura Mexicana",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/loscm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSCM.pdf",
+      "dof_publication": "31/12/1949",
+      "dof_last_reform": "11/05/2022"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "batch_id": "cl2_CN1_constitucion_congreso",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "CN1 constitucion congreso",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "cpeum",
+      "title": "CONSTITUCIÓN Política de los Estados Unidos Mexicanos",
+      "type": "constitucion",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/cpeum.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "dof_publication": "05/02/1917",
+      "dof_last_reform": "02/06/2026"
+    },
+    {
+      "slug": "locg",
+      "title": "LEY Orgánica del Congreso General de los Estados Unidos Mexicanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/locg.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCGEUM.pdf",
+      "dof_publication": "03/09/1999",
+      "dof_last_reform": "07/07/2025"
+    },
+    {
+      "slug": "reg-diputados",
+      "title": "REGLAMENTO de la Cámara de Diputados",
+      "type": "reglamento_legislativo",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/reg_diputados.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf",
+      "dof_publication": "24/12/2010",
+      "dof_last_reform": "07/05/2025"
+    },
+    {
+      "slug": "reg-senado",
+      "title": "REGLAMENTO del Senado de la República",
+      "type": "reglamento_legislativo",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/reg_senado.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Senado.pdf",
+      "dof_publication": "04/06/2010",
+      "dof_last_reform": "06/12/2024"
+    },
+    {
+      "slug": "rgic",
+      "title": "REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos",
+      "type": "reglamento_legislativo",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/rgic.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/219.pdf",
+      "dof_publication": "20/03/1934",
+      "dof_last_reform": "24/12/2010"
+    },
+    {
+      "slug": "ldofgg",
+      "title": "LEY del Diario Oficial de la Federación y Gacetas Gubernamentales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldofgg.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/75_100619.pdf",
+      "dof_publication": "24/12/1986",
+      "dof_last_reform": "10/06/2019"
+    }
+  ]
+}

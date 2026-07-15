@@ -1,0 +1,100 @@
+{
+  "batch_id": "cl2_EN2_hidrocarburos",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "EN2 hidrocarburos",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lsh",
+      "title": "LEY del Sector Hidrocarburos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsh.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSH.pdf",
+      "dof_publication": "18/03/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lsh",
+      "title": "REGLAMENTO de la Ley del Sector Hidrocarburos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSH.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSH.pdf",
+      "dof_publication": "03/10/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lepepm",
+      "title": "LEY de la Empresa Pública del Estado, Petróleos Mexicanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lepepm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEPEPM.pdf",
+      "dof_publication": "18/03/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lepepm",
+      "title": "REGLAMENTO de la Ley de la Empresa Pública del Estado, Petróleos Mexicanos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEPEPM.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEPEPM.pdf",
+      "dof_publication": "03/12/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lih",
+      "title": "LEY de Ingresos sobre Hidrocarburos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lih.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIH.pdf",
+      "dof_publication": "11/08/2014",
+      "dof_last_reform": "28/12/2025"
+    },
+    {
+      "slug": "reg-lih",
+      "title": "REGLAMENTO de la Ley de Ingresos sobre Hidrocarburos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIH.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIH.pdf",
+      "dof_publication": "31/10/2014",
+      "dof_last_reform": "22/05/2017"
+    },
+    {
+      "slug": "lfmped",
+      "title": "LEY del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfmped.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFMPED.pdf",
+      "dof_publication": "11/08/2014",
+      "dof_last_reform": "18/03/2025"
+    },
+    {
+      "slug": "lansi",
+      "title": "LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lansi.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LANSI.pdf",
+      "dof_publication": "11/08/2014",
+      "dof_last_reform": "11/05/2022"
+    }
+  ]
+}

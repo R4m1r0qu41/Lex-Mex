@@ -1,0 +1,57 @@
+{
+  "batch_id": "cl2_EV2_mar_pesca",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "EV2 mar pesca",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgpas",
+      "title": "LEY General de Pesca y Acuacultura Sustentables",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpas.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPAS.pdf",
+      "dof_publication": "24/07/2007",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "reg-lpesca",
+      "title": "REGLAMENTO de la Ley de Pesca",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPesca.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPesca.pdf",
+      "dof_publication": "29/09/1999",
+      "dof_last_reform": "28/01/2004",
+      "note": "Parent Ley de Pesca abrogated (now LGPAS); reglamento remains listed vigente."
+    },
+    {
+      "slug": "lfm",
+      "title": "LEY Federal del Mar",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/124.pdf",
+      "dof_publication": "08/01/1986",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lvzmm",
+      "title": "LEY de Vertimientos en las Zonas Marinas Mexicanas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lvzmm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LVZMM.pdf",
+      "dof_publication": "17/01/2014",
+      "dof_last_reform": "14/11/2025"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "batch_id": "cl2_EC1_competencia_inversion",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "EC1 competencia inversion",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lfce",
+      "title": "LEY Federal de Competencia Económica",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfce.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf",
+      "dof_publication": "23/05/2014",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "reg-lfce",
+      "title": "REGLAMENTO de la Ley Federal de Competencia Económica",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCE.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFCE.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lie",
+      "title": "LEY de Inversión Extranjera",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lie.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf",
+      "dof_publication": "27/12/1993",
+      "dof_last_reform": "27/05/2024"
+    },
+    {
+      "slug": "reg-liernie",
+      "title": "REGLAMENTO de la Ley de Inversión Extranjera y del Registro Nacional de Inversiones Extranjeras",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIERNIE_170816.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIERNIE_170816.pdf",
+      "dof_publication": "08/09/1998",
+      "dof_last_reform": "04/05/2009"
+    },
+    {
+      "slug": "lpcinecdi",
+      "title": "LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpcinecdi.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/63.pdf",
+      "dof_publication": "23/10/1996",
+      "dof_last_reform": "09/04/2012"
+    },
+    {
+      "slug": "lrsic",
+      "title": "LEY para Regular las Sociedades de Información Crediticia",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrsic.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSIC.pdf",
+      "dof_publication": "15/01/2002",
+      "dof_last_reform": "24/01/2024"
+    }
+  ]
+}

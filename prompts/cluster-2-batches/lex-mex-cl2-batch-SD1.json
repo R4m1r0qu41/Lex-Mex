@@ -1,0 +1,78 @@
+{
+  "batch_id": "cl2_SD1_desarrollo_social",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "SD1 desarrollo social",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgds",
+      "title": "LEY General de Desarrollo Social",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgds.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDS.pdf",
+      "dof_publication": "20/01/2004",
+      "dof_last_reform": "15/01/2026"
+    },
+    {
+      "slug": "reg-lgds",
+      "title": "REGLAMENTO de la Ley General de Desarrollo Social",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDS.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDS.pdf",
+      "dof_publication": "18/01/2006",
+      "dof_last_reform": "28/08/2008"
+    },
+    {
+      "slug": "lasoc",
+      "title": "LEY de Asistencia Social",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lasoc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LASoc.pdf",
+      "dof_publication": "02/09/2004",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "lgaas",
+      "title": "LEY General de la Alimentación Adecuada y Sostenible",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgaas.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAAS.pdf",
+      "dof_publication": "17/04/2024",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lviv",
+      "title": "LEY de Vivienda",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lviv.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LViv.pdf",
+      "dof_publication": "27/06/2006",
+      "dof_last_reform": "29/04/2026"
+    },
+    {
+      "slug": "lgahotdu",
+      "title": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgahotdu.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAHOTDU.pdf",
+      "dof_publication": "28/11/2016",
+      "dof_last_reform": "01/04/2024"
+    }
+  ]
+}

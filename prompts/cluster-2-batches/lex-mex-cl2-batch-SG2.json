@@ -1,0 +1,78 @@
+{
+  "batch_id": "cl2_SG2_seguridad_privada_armas",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "SG2 seguridad privada armas",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lfsp",
+      "title": "LEY Federal de Seguridad Privada",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSP.pdf",
+      "dof_publication": "06/07/2006",
+      "dof_last_reform": "17/10/2011"
+    },
+    {
+      "slug": "reg-lfsp",
+      "title": "REGLAMENTO de la Ley Federal de Seguridad Privada",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSP.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSP.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lfafe",
+      "title": "LEY Federal de Armas de Fuego y Explosivos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfafe.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFAFE.pdf",
+      "dof_publication": "11/01/1972",
+      "dof_last_reform": "29/05/2025"
+    },
+    {
+      "slug": "reg-lfafe",
+      "title": "REGLAMENTO de la Ley Federal de Armas de Fuego y Explosivos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFAFE.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFAFE.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lrpv",
+      "title": "LEY del Registro Público Vehicular",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrpv.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/269_200521.pdf",
+      "dof_publication": "01/09/2004",
+      "dof_last_reform": "20/05/2021"
+    },
+    {
+      "slug": "reg-lrpv",
+      "title": "REGLAMENTO de la Ley del Registro Público Vehicular",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRPV.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRPV.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "batch_id": "cl2_TP1_ferroviario_aeroespacial",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "TP1 ferroviario aeroespacial",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lrsf",
+      "title": "LEY Reglamentaria del Servicio Ferroviario",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrsf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRSF.pdf",
+      "dof_publication": "12/05/1995",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "lpeam",
+      "title": "LEY de Protección del Espacio Aéreo Mexicano",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpeam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEAM.pdf",
+      "dof_publication": "01/03/2023",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lpeam",
+      "title": "REGLAMENTO de la Ley de Protección del Espacio Aéreo Mexicano",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPEAM.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPEAM.pdf",
+      "dof_publication": "10/02/2026",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "laem",
+      "title": "LEY que crea la Agencia Espacial Mexicana",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/laem.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAEM.pdf",
+      "dof_publication": "30/07/2010",
+      "dof_last_reform": null
+    }
+  ]
+}

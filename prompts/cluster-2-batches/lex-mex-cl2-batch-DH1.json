@@ -1,0 +1,89 @@
+{
+  "batch_id": "cl2_DH1_igualdad_mujeres",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "DH1 igualdad mujeres",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lcndh",
+      "title": "LEY de la Comisión Nacional de los Derechos Humanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcndh.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNDH.pdf",
+      "dof_publication": "29/06/1992",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "lfped",
+      "title": "LEY Federal para Prevenir y Eliminar la Discriminación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfped.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf",
+      "dof_publication": "11/06/2003",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "lgimh",
+      "title": "LEY General para la Igualdad Sustantiva entre Mujeres y Hombres",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgimh.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGISMH.pdf",
+      "dof_publication": "02/08/2006",
+      "dof_last_reform": "15/01/2026"
+    },
+    {
+      "slug": "lgamvlv",
+      "title": "LEY General de Acceso de las Mujeres a una Vida Libre de Violencias",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgamvlv.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf",
+      "dof_publication": "01/02/2007",
+      "dof_last_reform": "15/01/2026"
+    },
+    {
+      "slug": "reg-lgamvlv",
+      "title": "REGLAMENTO de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAMVLV.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAMVLV.pdf",
+      "dof_publication": "11/03/2008",
+      "dof_last_reform": "25/11/2013"
+    },
+    {
+      "slug": "lppddhp",
+      "title": "LEY para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lppddhp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPPDDHP.pdf",
+      "dof_publication": "25/06/2012",
+      "dof_last_reform": "28/04/2022"
+    },
+    {
+      "slug": "reg-lppddhp",
+      "title": "REGLAMENTO de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPPDDHP.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPPDDHP.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    }
+  ]
+}

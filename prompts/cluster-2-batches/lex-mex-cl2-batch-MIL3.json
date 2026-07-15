@@ -1,0 +1,78 @@
+{
+  "batch_id": "cl2_MIL3_servicios_militares",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "MIL3 servicios militares",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lram",
+      "title": "LEY de Recompensas de la Armada de México",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lram.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRAM.pdf",
+      "dof_publication": "14/01/1985",
+      "dof_last_reform": "22/11/2021"
+    },
+    {
+      "slug": "lcacsam",
+      "title": "LEY para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcacsam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/268.pdf",
+      "dof_publication": "14/06/2004",
+      "dof_last_reform": "12/06/2009"
+    },
+    {
+      "slug": "lcacsefam",
+      "title": "LEY para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcacsefam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCACSEFAM.pdf",
+      "dof_publication": "09/02/2006",
+      "dof_last_reform": "03/05/2024"
+    },
+    {
+      "slug": "lissfam",
+      "title": "LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lissfam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSFAM.pdf",
+      "dof_publication": "09/07/2003",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lissfam",
+      "title": "REGLAMENTO de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISSFAM.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LISSFAM.pdf",
+      "dof_publication": "10/05/2013",
+      "dof_last_reform": "11/10/2018"
+    },
+    {
+      "slug": "luefa",
+      "title": "LEY que Crea la Universidad del Ejército y Fuerza Aérea",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/luefa.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/196.pdf",
+      "dof_publication": "29/12/1975",
+      "dof_last_reform": null
+    }
+  ]
+}

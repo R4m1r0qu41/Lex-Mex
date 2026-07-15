@@ -1,0 +1,112 @@
+{
+  "batch_id": "cl2_EC2_empresas_mipyme",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "EC2 empresas mipyme",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lcec",
+      "title": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcec.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCEC_120419.pdf",
+      "dof_publication": "20/01/2005",
+      "dof_last_reform": "12/04/2019"
+    },
+    {
+      "slug": "reg-lcec",
+      "title": "REGLAMENTO de la Ley de Cámaras Empresariales y sus Confederaciones",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LCEC.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LCEC.pdf",
+      "dof_publication": "09/02/2012",
+      "dof_last_reform": "13/02/2013"
+    },
+    {
+      "slug": "ldcmpme",
+      "title": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldcmpme.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDCMPME.pdf",
+      "dof_publication": "30/12/2002",
+      "dof_last_reform": "20/10/2023"
+    },
+    {
+      "slug": "reg-ldcmpme",
+      "title": "REGLAMENTO de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDCMPME_240518.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDCMPME_240518.pdf",
+      "dof_publication": "24/05/2006",
+      "dof_last_reform": "24/05/2018"
+    },
+    {
+      "slug": "lffmaa",
+      "title": "LEY Federal para el Fomento de la Microindustria y la Actividad Artesanal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lffmaa.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFMAA.pdf",
+      "dof_publication": "26/01/1988",
+      "dof_last_reform": "27/03/2023"
+    },
+    {
+      "slug": "liispcen",
+      "title": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/liispcen.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIISPCEN.pdf",
+      "dof_publication": "06/05/2015",
+      "dof_last_reform": "17/04/2024"
+    },
+    {
+      "slug": "lnetb",
+      "title": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lnetb.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LNETB.pdf",
+      "dof_publication": "16/07/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lfcc",
+      "title": "LEY de Fomento a la Confianza Ciudadana",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCC_200120.pdf",
+      "dof_publication": "20/01/2020",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lfmn",
+      "title": "REGLAMENTO de la Ley Federal Sobre Metrología y Normalización",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMN.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFMN.pdf",
+      "dof_publication": "14/01/1999",
+      "dof_last_reform": "28/11/2012",
+      "note": "Parent Ley Federal sobre Metrología y Normalización abrogated (now Ley de Infraestructura de la Calidad); reglamento remains listed vigente."
+    }
+  ]
+}

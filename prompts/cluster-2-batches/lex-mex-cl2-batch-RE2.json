@@ -1,0 +1,122 @@
+{
+  "batch_id": "cl2_RE2_exterior_religion_simbolos",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "RE2 exterior religion simbolos",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lsem",
+      "title": "LEY del Servicio Exterior Mexicano",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsem.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/96_190418.pdf",
+      "dof_publication": "04/01/1994",
+      "dof_last_reform": "19/04/2018"
+    },
+    {
+      "slug": "reg-lsem",
+      "title": "REGLAMENTO de la Ley del Servicio Exterior Mexicano",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSEM.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSEM.pdf",
+      "dof_publication": "28/04/2017",
+      "dof_last_reform": "02/11/2018"
+    },
+    {
+      "slug": "lcnp",
+      "title": "LEY para Conservar la Neutralidad del País",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcnp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/176_210618.pdf",
+      "dof_publication": "10/11/1939",
+      "dof_last_reform": "21/06/2018"
+    },
+    {
+      "slug": "lcid",
+      "title": "LEY de Cooperación Internacional para el Desarrollo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcid.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCID_061120.pdf",
+      "dof_publication": "06/04/2011",
+      "dof_last_reform": "06/11/2020"
+    },
+    {
+      "slug": "larcp",
+      "title": "LEY de Asociaciones Religiosas y Culto Público",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/larcp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LARCP.pdf",
+      "dof_publication": "15/07/1992",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "reg-larcp",
+      "title": "REGLAMENTO de la Ley de Asociaciones Religiosas y Culto Público",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LARCP.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LARCP.pdf",
+      "dof_publication": "06/11/2003",
+      "dof_last_reform": "28/09/2012"
+    },
+    {
+      "slug": "lebhn",
+      "title": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lebhn.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LEBHN.pdf",
+      "dof_publication": "08/02/1984",
+      "dof_last_reform": "21/07/2025"
+    },
+    {
+      "slug": "reg-lebhn",
+      "title": "REGLAMENTO de la Ley sobre el Escudo, la Bandera y el Himno Nacionales",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEBHN.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LEBHN.pdf",
+      "dof_publication": "09/09/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lupdecr",
+      "title": "LEY para el uso y protección de la denominación y del emblema de la Cruz Roja",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lupdecr.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LUPDECR.pdf",
+      "dof_publication": "23/03/2007",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lupdecr",
+      "title": "REGLAMENTO de la Ley para el Uso y Protección de la Denominación y del Emblema de la Cruz Roja",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LUPDECR.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LUPDECR.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    }
+  ]
+}

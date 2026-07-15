@@ -1,0 +1,78 @@
+{
+  "batch_id": "cl2_SA1_salud_especial",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "SA1 salud especial",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgct",
+      "title": "LEY General para el Control del Tabaco",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgct.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCT.pdf",
+      "dof_publication": "30/05/2008",
+      "dof_last_reform": "17/02/2022"
+    },
+    {
+      "slug": "reg-lgct",
+      "title": "REGLAMENTO de la Ley General para el Control del Tabaco",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCT.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCT.pdf",
+      "dof_publication": "31/05/2009",
+      "dof_last_reform": "09/10/2012"
+    },
+    {
+      "slug": "lgdocia",
+      "title": "LEY General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdocia.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDOCIA_070121.pdf",
+      "dof_publication": "07/01/2021",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lgs-mcsotcsh",
+      "title": "REGLAMENTO de la Ley General de Salud en Materia de Control Sanitario de la Disposición de Órganos, Tejidos y Cadáveres de Seres Humanos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSOTCSH.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSOTCSH.pdf",
+      "dof_publication": "09/07/1985",
+      "dof_last_reform": "26/11/1987"
+    },
+    {
+      "slug": "reg-lgs-mcspiumc",
+      "title": "REGLAMENTO de la Ley General de Salud en Materia de Control Sanitario para la Producción, Investigación y Uso Medicinal de la Cannabis y sus Derivados Farmacológicos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSPIUMC_120121.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSPIUMC_120121.pdf",
+      "dof_publication": "12/01/2021",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lgs-mpsam",
+      "title": "REGLAMENTO de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MPSAM_170718.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MPSAM_170718.pdf",
+      "dof_publication": "14/05/1986",
+      "dof_last_reform": "04/12/2009"
+    }
+  ]
+}

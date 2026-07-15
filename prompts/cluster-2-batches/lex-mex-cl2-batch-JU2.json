@@ -1,0 +1,93 @@
+{
+  "batch_id": "cl2_JU2_justicia_df_extradicion",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "JU2 justicia df extradicion",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [
+    {
+      "slug": "egdf",
+      "title": "ESTATUTO de Gobierno del Distrito Federal",
+      "type": "estatuto",
+      "adapter": "diputados",
+      "status": "BLOCKED",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/egdf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/10_270614.pdf",
+      "dof_publication": "26/07/1994",
+      "dof_last_reform": "27/06/2014",
+      "note": "Estatuto de Gobierno del Distrito Federal: transitional post-CDMX-Constitution status; confirm scope."
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "lopgjdf",
+      "title": "LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopgjdf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPGJDF.pdf",
+      "dof_publication": "20/06/2011",
+      "dof_last_reform": "24/02/2012",
+      "note": "Distrito Federal institution superseded by CDMX Fiscalía; still on the federal vigentes index."
+    },
+    {
+      "slug": "reg-lopgjdf",
+      "title": "REGLAMENTO de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOPGJDF.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null,
+      "note": "Reglamento of the DF Procuraduría; see lopgjdf note."
+    },
+    {
+      "slug": "lei",
+      "title": "LEY de Extradición Internacional",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lei.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/36_200521.pdf",
+      "dof_publication": "29/12/1975",
+      "dof_last_reform": "20/05/2021"
+    },
+    {
+      "slug": "lamn",
+      "title": "LEY de Amnistía",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamn.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmn.pdf",
+      "dof_publication": "22/04/2020",
+      "dof_last_reform": "14/06/2024"
+    },
+    {
+      "slug": "lamni",
+      "title": "LEY de Amnistía",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lamni.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/19.pdf",
+      "dof_publication": "22/01/1994",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lfppipp",
+      "title": "LEY Federal para la Protección a Personas que Intervienen en el Procedimiento Penal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppipp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPIPP_200521.pdf",
+      "dof_publication": "08/06/2012",
+      "dof_last_reform": "20/05/2021"
+    }
+  ]
+}

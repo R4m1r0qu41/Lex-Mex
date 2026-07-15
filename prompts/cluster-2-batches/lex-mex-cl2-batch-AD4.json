@@ -1,0 +1,67 @@
+{
+  "batch_id": "cl2_AD4_proteccion_civil_misc",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "AD4 proteccion civil misc",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgpc",
+      "title": "LEY General de Protección Civil",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPC.pdf",
+      "dof_publication": "06/06/2012",
+      "dof_last_reform": "21/12/2023"
+    },
+    {
+      "slug": "reg-lgpc",
+      "title": "REGLAMENTO de la Ley General de Protección Civil",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPC_091215.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPC_091215.pdf",
+      "dof_publication": "13/05/2014",
+      "dof_last_reform": "09/12/2015"
+    },
+    {
+      "slug": "lhheum",
+      "title": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lhheum.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LHHEUM.pdf",
+      "dof_publication": "28/10/2022",
+      "dof_last_reform": "29/11/2022"
+    },
+    {
+      "slug": "ldvuma",
+      "title": "LEY para Determinar el Valor de la Unidad de Medida y Actualización",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldvuma.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDVUMA_301216.pdf",
+      "dof_publication": "30/12/2016",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "ldcpdch",
+      "title": "LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldcpdch.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/177.pdf",
+      "dof_publication": "11/03/1995",
+      "dof_last_reform": null
+    }
+  ]
+}

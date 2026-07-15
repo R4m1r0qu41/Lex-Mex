@@ -1,0 +1,57 @@
+{
+  "batch_id": "cl2_TEL1_telecom_radiodifusion",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "TEL1 telecom radiodifusion",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lmtr",
+      "title": "LEY en Materia de Telecomunicaciones y Radiodifusión",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmtr.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMTR.pdf",
+      "dof_publication": "16/07/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lsprem",
+      "title": "LEY del Sistema Público de Radiodifusión del Estado Mexicano",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsprem.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSPREM.pdf",
+      "dof_publication": "14/07/2014",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "reg-lftr-mcsre",
+      "title": "REGLAMENTO de la Ley Federal de Telecomunicaciones y Radiodifusión en Materia de Capacidad Satelital como Reserva del Estado",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFTR_MCSRE.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFTR_MCSRE.pdf",
+      "dof_publication": "25/04/2024",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lfrt-mcpctrt",
+      "title": "REGLAMENTO de la Ley Federal de Radio y Televisión, en Materia de Concesiones, Permisos y Contenido de las Transmisiones de Radio y Televisión",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFRT_MCPCTRT.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFRT_MCPCTRT.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null,
+      "note": "Parent Ley Federal de Radio y Televisión abrogated; reglamento remains listed vigente."
+    }
+  ]
+}

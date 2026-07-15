@@ -1,0 +1,89 @@
+{
+  "batch_id": "cl2_AG2_desarrollo_rural",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "AG2 desarrollo rural",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "ldrs",
+      "title": "LEY de Desarrollo Rural Sustentable",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldrs.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDRS.pdf",
+      "dof_publication": "07/12/2001",
+      "dof_last_reform": "07/06/2024"
+    },
+    {
+      "slug": "reg-ldrs-moirsse",
+      "title": "REGLAMENTO de la Ley de Desarrollo Rural Sustentable en Materia de Organismos, Instancias de Representación, Sistemas y Servicios Especializados",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDRS_MOIRSSE.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LDRS_MOIRSSE.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lcpro",
+      "title": "LEY de Capitalización del Procampo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcpro.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/238.pdf",
+      "dof_publication": "31/12/2001",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lec",
+      "title": "LEY de Energía para el Campo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lec.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/246.pdf",
+      "dof_publication": "30/12/2002",
+      "dof_last_reform": "28/12/2012"
+    },
+    {
+      "slug": "reg-lecampo",
+      "title": "REGLAMENTO de la Ley de Energía para el Campo",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LECampo.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LECampo.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "ldsc",
+      "title": "LEY de Desarrollo Sustentable de la Cafeticultura",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSC.pdf",
+      "dof_publication": "19/12/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "ldsca",
+      "title": "LEY de Desarrollo Sustentable de la Caña de Azúcar",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldsca.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDSCA.pdf",
+      "dof_publication": "22/08/2005",
+      "dof_last_reform": "14/11/2025"
+    }
+  ]
+}

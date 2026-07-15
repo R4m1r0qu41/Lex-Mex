@@ -1,0 +1,100 @@
+{
+  "batch_id": "cl2_AG4_sanidad_agroalimentaria",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "AG4 sanidad agroalimentaria",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lfsa",
+      "title": "LEY Federal de Sanidad Animal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsa.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSA.pdf",
+      "dof_publication": "25/07/2007",
+      "dof_last_reform": "21/05/2024"
+    },
+    {
+      "slug": "reg-lfsa",
+      "title": "REGLAMENTO de la Ley Federal de Sanidad Animal",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSA.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lfsv",
+      "title": "LEY Federal de Sanidad Vegetal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfsv.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFSV.pdf",
+      "dof_publication": "05/01/1994",
+      "dof_last_reform": "11/05/2022"
+    },
+    {
+      "slug": "reg-lfsv",
+      "title": "REGLAMENTO de la Ley Federal de Sanidad Vegetal",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSV.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFSV.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lfpccs",
+      "title": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpccs.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCCS_110518.pdf",
+      "dof_publication": "15/06/2007",
+      "dof_last_reform": "11/05/2018"
+    },
+    {
+      "slug": "reg-lfpccs",
+      "title": "REGLAMENTO de la Ley Federal de Producción, Certificación y Comercio de Semillas",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPCCS.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPCCS.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lfvv",
+      "title": "LEY Federal de Variedades Vegetales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfvv.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFVV.pdf",
+      "dof_publication": "25/10/1996",
+      "dof_last_reform": "11/05/2022"
+    },
+    {
+      "slug": "reg-lfvv",
+      "title": "REGLAMENTO de la Ley Federal de Variedades Vegetales",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFVV.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFVV.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    }
+  ]
+}

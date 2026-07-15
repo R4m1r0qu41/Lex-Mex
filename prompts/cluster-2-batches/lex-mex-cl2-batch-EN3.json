@@ -1,0 +1,90 @@
+{
+  "batch_id": "cl2_EN3_renovables_nuclear",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "EN3 renovables nuclear",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lbio",
+      "title": "LEY de Biocombustibles",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lbio.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBio.pdf",
+      "dof_publication": "18/03/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lbio",
+      "title": "REGLAMENTO de la Ley de Biocombustibles",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBio.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LBio.pdf",
+      "dof_publication": "03/10/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lgeo",
+      "title": "LEY de Geotermia",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgeo.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGeo.pdf",
+      "dof_publication": "18/03/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lgeo",
+      "title": "REGLAMENTO de la Ley de Geotermia",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGeo.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGeo.pdf",
+      "dof_publication": "03/10/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lrart27-mn",
+      "title": "LEY Reglamentaria del Artículo 27 Constitucional en Materia Nuclear",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart27_mn.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/207.pdf",
+      "dof_publication": "04/02/1985",
+      "dof_last_reform": "09/04/2012"
+    },
+    {
+      "slug": "lrcdn",
+      "title": "LEY de Responsabilidad Civil por Daños Nucleares",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrcdn.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRCDN.pdf",
+      "dof_publication": "31/12/1974",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "reg-lspee-ma",
+      "title": "REGLAMENTO de la Ley del Servicio Público de Energía Eléctrica, en Materia de Aportaciones",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPEE_MA.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSPEE_MA.pdf",
+      "dof_publication": "10/11/1998",
+      "dof_last_reform": "03/10/2025",
+      "note": "Parent LSPEE abrogated (2025 electric framework); reglamento remains listed vigente."
+    }
+  ]
+}

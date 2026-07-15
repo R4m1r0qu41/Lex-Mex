@@ -1,0 +1,78 @@
+{
+  "batch_id": "cl2_SD2_economia_social",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "SD2 economia social",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "less",
+      "title": "LEY de la Economía Social y Solidaria",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/less.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LESS.pdf",
+      "dof_publication": "23/05/2012",
+      "dof_last_reform": "16/04/2025"
+    },
+    {
+      "slug": "lsss",
+      "title": "LEY de Sociedades de Solidaridad Social",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsss.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/71_240418.pdf",
+      "dof_publication": "27/05/1976",
+      "dof_last_reform": "24/04/2018"
+    },
+    {
+      "slug": "lgsc",
+      "title": "LEY General de Sociedades Cooperativas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgsc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSC.pdf",
+      "dof_publication": "03/08/1994",
+      "dof_last_reform": "16/04/2025"
+    },
+    {
+      "slug": "lsrlip",
+      "title": "LEY de Sociedades de Responsabilidad Limitada de Interés Público",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsrlip.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/70.pdf",
+      "dof_publication": "31/08/1934",
+      "dof_last_reform": "09/04/2012"
+    },
+    {
+      "slug": "lffaosc",
+      "title": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lffaosc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFAOSC.pdf",
+      "dof_publication": "09/02/2004",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "reg-lffarosc",
+      "title": "REGLAMENTO de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFFAROSC.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFFAROSC.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    }
+  ]
+}

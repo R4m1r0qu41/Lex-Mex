@@ -1,0 +1,67 @@
+{
+  "batch_id": "cl2_ED3_universidades",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "ED3 universidades",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lounam",
+      "title": "LEY Orgánica de la Universidad Nacional Autónoma de México",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lounam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/158.pdf",
+      "dof_publication": "06/01/1945",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "louam",
+      "title": "LEY Orgánica de la Universidad Autónoma Metropolitana",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/louam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/157.pdf",
+      "dof_publication": "17/12/1973",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "louaaan",
+      "title": "LEY Orgánica de la Universidad Autónoma Agraria Antonio Narro",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/louaaan.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOUAAAN.pdf",
+      "dof_publication": "26/04/2006",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "luach",
+      "title": "LEY que crea la Universidad Autónoma Chapingo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/luach.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/195.pdf",
+      "dof_publication": "30/12/1974",
+      "dof_last_reform": "30/12/1977"
+    },
+    {
+      "slug": "loipn",
+      "title": "LEY Orgánica del Instituto Politécnico Nacional",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/loipn.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/171.pdf",
+      "dof_publication": "29/12/1981",
+      "dof_last_reform": null
+    }
+  ]
+}

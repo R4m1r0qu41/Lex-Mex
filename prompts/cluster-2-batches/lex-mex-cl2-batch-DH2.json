@@ -1,0 +1,111 @@
+{
+  "batch_id": "cl2_DH2_ninez_grupos_vulnerables",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "DH2 ninez grupos vulnerables",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgdnna",
+      "title": "LEY General de los Derechos de Niñas, Niños y Adolescentes",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdnna.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDNNA.pdf",
+      "dof_publication": "04/12/2014",
+      "dof_last_reform": "15/01/2026"
+    },
+    {
+      "slug": "reg-lgdnna",
+      "title": "REGLAMENTO de la Ley General de los Derechos de Niñas, Niños y Adolescentes",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDNNA.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGDNNA.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "ldpam",
+      "title": "LEY de los Derechos de las Personas Adultas Mayores",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldpam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LDPAM.pdf",
+      "dof_publication": "25/06/2002",
+      "dof_last_reform": "14/06/2024"
+    },
+    {
+      "slug": "lgipd",
+      "title": "LEY General para la Inclusión de las Personas con Discapacidad",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgipd.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf",
+      "dof_publication": "30/05/2011",
+      "dof_last_reform": "14/06/2024"
+    },
+    {
+      "slug": "reg-lgipd",
+      "title": "REGLAMENTO de la Ley General para la Inclusión de las Personas con Discapacidad",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGIPD.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGIPD.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lgappcea",
+      "title": "LEY General para la Atención y Protección a Personas con la Condición del Espectro Autista",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgappcea.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAPPCEA_270516.pdf",
+      "dof_publication": "30/04/2015",
+      "dof_last_reform": "27/05/2016"
+    },
+    {
+      "slug": "reg-lgappcea",
+      "title": "REGLAMENTO de la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAPPCEA.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGAPPCEA.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lgpsacdii",
+      "title": "LEY General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpsacdii.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSACDII.pdf",
+      "dof_publication": "24/10/2011",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "reg-lgpsacdii",
+      "title": "REGLAMENTO de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSACDII_100516.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSACDII_100516.pdf",
+      "dof_publication": "22/08/2012",
+      "dof_last_reform": "10/05/2016"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "batch_id": "cl2_MN1_mineria",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "MN1 mineria",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lmin",
+      "title": "LEY de Minería",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmin.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMin.pdf",
+      "dof_publication": "26/06/1992",
+      "dof_last_reform": "08/05/2023"
+    },
+    {
+      "slug": "reg-lmin",
+      "title": "REGLAMENTO de la Ley Minera",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMin.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LMin.pdf",
+      "dof_publication": "12/10/2012",
+      "dof_last_reform": "27/12/2022"
+    },
+    {
+      "slug": "lrmnyut",
+      "title": "LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrmnyut.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/197.pdf",
+      "dof_publication": "26/01/1950",
+      "dof_last_reform": "12/01/1972"
+    },
+    {
+      "slug": "reg-lrmineras",
+      "title": "REGLAMENTO de la Ley que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias de las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRMineras.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LRMineras.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    }
+  ]
+}

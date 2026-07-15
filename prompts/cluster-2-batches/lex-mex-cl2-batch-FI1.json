@@ -1,0 +1,67 @@
+{
+  "batch_id": "cl2_FI1_autoridades_pagos",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "FI1 autoridades pagos",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lcnbv",
+      "title": "LEY de la Comisión Nacional Bancaria y de Valores",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcnbv.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCNBV.pdf",
+      "dof_publication": "28/04/1995",
+      "dof_last_reform": "11/05/2022"
+    },
+    {
+      "slug": "lsp",
+      "title": "LEY de Sistemas de Pagos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf",
+      "dof_publication": "12/12/2002",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "lmeum",
+      "title": "LEY Monetaria de los Estados Unidos Mexicanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lmeum.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMEUM.pdf",
+      "dof_publication": "27/07/1931",
+      "dof_last_reform": "19/01/2026"
+    },
+    {
+      "slug": "lcmm",
+      "title": "LEY de la Casa de Moneda de México",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcmm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LCMM.pdf",
+      "dof_publication": "20/01/1986",
+      "dof_last_reform": "11/05/2022"
+    },
+    {
+      "slug": "ltfccg",
+      "title": "LEY de Transparencia y de Fomento a la Competencia en el Crédito Garantizado",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/ltfccg.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/256.pdf",
+      "dof_publication": "30/12/2002",
+      "dof_last_reform": "10/01/2014"
+    }
+  ]
+}

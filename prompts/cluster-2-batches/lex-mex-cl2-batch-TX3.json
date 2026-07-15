@@ -1,0 +1,45 @@
+{
+  "batch_id": "cl2_TX3_impuestos_aduanas",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "TX3 impuestos aduanas",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lfisan",
+      "title": "LEY Federal del Impuesto sobre Automóviles Nuevos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfisan.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf",
+      "dof_publication": "30/12/1996",
+      "dof_last_reform": "28/12/2025"
+    },
+    {
+      "slug": "lisipl",
+      "title": "IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos)",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lisipl.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/79.pdf",
+      "dof_publication": "31/12/1968",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-ladua",
+      "title": "REGLAMENTO de la Ley Aduanera",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAdua.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAdua.pdf",
+      "dof_publication": "20/04/2015",
+      "dof_last_reform": "23/02/2026"
+    }
+  ]
+}

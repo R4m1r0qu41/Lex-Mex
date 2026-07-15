@@ -1,0 +1,78 @@
+{
+  "batch_id": "cl2_FI2_banca_desarrollo",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "FI2 banca desarrollo",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lonf",
+      "title": "LEY Orgánica de Nacional Financiera",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lonf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/162.pdf",
+      "dof_publication": "26/12/1986",
+      "dof_last_reform": "10/01/2014"
+    },
+    {
+      "slug": "loshf",
+      "title": "LEY Orgánica de Sociedad Hipotecaria Federal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/loshf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOSHF.pdf",
+      "dof_publication": "11/10/2001",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "lobb",
+      "title": "LEY Orgánica del Banco del Bienestar",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobb.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/164_190719.pdf",
+      "dof_publication": "01/06/2001",
+      "dof_last_reform": "19/07/2019"
+    },
+    {
+      "slug": "lobnce",
+      "title": "LEY Orgánica del Banco Nacional de Comercio Exterior",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnce.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNCE.pdf",
+      "dof_publication": "20/01/1986",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "lobnosp",
+      "title": "LEY Orgánica del Banco Nacional de Obras y Servicios Públicos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnosp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOBNOSP.pdf",
+      "dof_publication": "20/01/1986",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "lobnefaa",
+      "title": "LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lobnefaa.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/167.pdf",
+      "dof_publication": "13/01/1986",
+      "dof_last_reform": "10/01/2014"
+    }
+  ]
+}

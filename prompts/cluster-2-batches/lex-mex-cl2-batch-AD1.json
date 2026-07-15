@@ -1,0 +1,78 @@
+{
+  "batch_id": "cl2_AD1_planeacion_paraestatales",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "AD1 planeacion paraestatales",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lplan",
+      "title": "LEY de Planeación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lplan.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf",
+      "dof_publication": "05/01/1983",
+      "dof_last_reform": "15/01/2026"
+    },
+    {
+      "slug": "lfep",
+      "title": "LEY Federal de las Entidades Paraestatales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfep.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEP.pdf",
+      "dof_publication": "14/05/1986",
+      "dof_last_reform": "16/07/2025"
+    },
+    {
+      "slug": "reg-lfep",
+      "title": "REGLAMENTO de la Ley Federal de las Entidades Paraestatales",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEP.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEP.pdf",
+      "dof_publication": "26/01/1990",
+      "dof_last_reform": "07/04/1995"
+    },
+    {
+      "slug": "lfrpe",
+      "title": "LEY Federal de Responsabilidad Patrimonial del Estado",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf",
+      "dof_publication": "31/12/2004",
+      "dof_last_reform": "29/12/2023"
+    },
+    {
+      "slug": "lfrsp",
+      "title": "LEY Federal de Responsabilidades de los Servidores Públicos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRSP.pdf",
+      "dof_publication": "31/12/1982",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "lgbn",
+      "title": "LEY General de Bienes Nacionales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgbn.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGBN.pdf",
+      "dof_publication": "20/05/2004",
+      "dof_last_reform": "14/11/2025"
+    }
+  ]
+}

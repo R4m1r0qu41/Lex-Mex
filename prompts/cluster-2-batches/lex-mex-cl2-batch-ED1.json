@@ -1,0 +1,79 @@
+{
+  "batch_id": "cl2_ED1_educacion",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "ED1 educacion",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lge",
+      "title": "LEY General de Educación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lge.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf",
+      "dof_publication": "30/09/2019",
+      "dof_last_reform": "15/01/2026"
+    },
+    {
+      "slug": "lges",
+      "title": "LEY General de Educación Superior",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lges.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGES_200421.pdf",
+      "dof_publication": "20/04/2021",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lgscmm",
+      "title": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgscmm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSCMM_300919.pdf",
+      "dof_publication": "30/09/2019",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lrart3-mmce",
+      "title": "LEY Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart3_mmce.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt3_MMCE_300919.pdf",
+      "dof_publication": "30/09/2019",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lgife",
+      "title": "REGLAMENTO de la Ley General de la Infraestructura Física Educativa",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGIFE.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGIFE.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null,
+      "note": "Parent Ley General de la Infraestructura Física Educativa abrogated; reglamento remains listed vigente."
+    },
+    {
+      "slug": "lgmhcti",
+      "title": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgmhcti.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMHCTI.pdf",
+      "dof_publication": "08/05/2023",
+      "dof_last_reform": null
+    }
+  ]
+}

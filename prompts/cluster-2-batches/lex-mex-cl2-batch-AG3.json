@@ -1,0 +1,89 @@
+{
+  "batch_id": "cl2_AG3_organizaciones_productos",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "AG3 organizaciones productos",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "log",
+      "title": "LEY de Organizaciones Ganaderas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/log.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/57.pdf",
+      "dof_publication": "06/01/1999",
+      "dof_last_reform": "09/04/2012"
+    },
+    {
+      "slug": "reg-logan",
+      "title": "REGLAMENTO de la Ley de Organizaciones Ganaderas",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOGan.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LOGan.pdf",
+      "dof_publication": "24/12/1999",
+      "dof_last_reform": "10/01/2000"
+    },
+    {
+      "slug": "lpo",
+      "title": "LEY de Productos Orgánicos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpo.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPO.pdf",
+      "dof_publication": "07/02/2006",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "reg-lpo",
+      "title": "REGLAMENTO de la Ley de Productos Orgánicos",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPO.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPO.pdf",
+      "dof_publication": "01/04/2010",
+      "dof_last_reform": "08/04/2010"
+    },
+    {
+      "slug": "lcaaa",
+      "title": "LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lcaaa.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/23.pdf",
+      "dof_publication": "27/08/1932",
+      "dof_last_reform": "09/04/2012"
+    },
+    {
+      "slug": "lffpmn",
+      "title": "LEY Federal para el Fomento y Protección del Maíz Nativo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lffpmn.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFFPMN_130420.pdf",
+      "dof_publication": "13/04/2020",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lfiv",
+      "title": "LEY de Fomento a la Industria Vitivinícola",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfiv.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFIV_230518.pdf",
+      "dof_publication": "23/05/2018",
+      "dof_last_reform": null
+    }
+  ]
+}

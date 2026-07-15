@@ -1,0 +1,89 @@
+{
+  "batch_id": "cl2_MIL1_organica_justicia",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "MIL1 organica justicia",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "loefam",
+      "title": "LEY Orgánica del Ejército y Fuerza Aérea Mexicanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/loefam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOEFAM.pdf",
+      "dof_publication": "26/12/1986",
+      "dof_last_reform": "16/07/2025"
+    },
+    {
+      "slug": "loam",
+      "title": "LEY Orgánica de la Armada de México",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/loam.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAM.pdf",
+      "dof_publication": "07/11/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "oga",
+      "title": "ORDENANZA General de la Armada",
+      "type": "ordenanza",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/oga.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/218.pdf",
+      "dof_publication": "19/10/2000",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "cjm",
+      "title": "CÓDIGO de Justicia Militar",
+      "type": "codigo",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/cjm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CJM.pdf",
+      "dof_publication": "31/08/1933",
+      "dof_last_reform": "16/07/2025"
+    },
+    {
+      "slug": "cmpp",
+      "title": "CÓDIGO Militar de Procedimientos Penales",
+      "type": "codigo",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/cmpp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CMPP.pdf",
+      "dof_publication": "16/05/2016",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "lsm",
+      "title": "LEY del Servicio Militar",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSM.pdf",
+      "dof_publication": "11/09/1940",
+      "dof_last_reform": "18/05/2022"
+    },
+    {
+      "slug": "reg-lsm",
+      "title": "REGLAMENTO de la Ley del Servicio Militar",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSM_060647.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSM_060647.pdf",
+      "dof_publication": "10/11/1942",
+      "dof_last_reform": "12/07/1943"
+    }
+  ]
+}

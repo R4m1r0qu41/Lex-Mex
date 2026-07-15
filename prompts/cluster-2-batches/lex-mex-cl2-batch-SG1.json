@@ -1,0 +1,78 @@
+{
+  "batch_id": "cl2_SG1_seguridad_interior",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "SG1 seguridad interior",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lsint",
+      "title": "LEY de Seguridad Interior",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsint.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSInt_300519.pdf",
+      "dof_publication": "21/12/2017",
+      "dof_last_reform": "30/05/2019"
+    },
+    {
+      "slug": "lpf",
+      "title": "LEY de la Policía Federal",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lpf.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPF.pdf",
+      "dof_publication": "01/06/2009",
+      "dof_last_reform": "14/11/2025"
+    },
+    {
+      "slug": "reg-lpf",
+      "title": "REGLAMENTO de la Ley de la Policía Federal",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LPF_220814.pdf",
+      "dof_publication": "17/05/2010",
+      "dof_last_reform": "22/08/2014"
+    },
+    {
+      "slug": "lsniimsp",
+      "title": "LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsniimsp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSNIIMSP.pdf",
+      "dof_publication": "16/07/2025",
+      "dof_last_reform": null
+    },
+    {
+      "slug": "lgpsvd",
+      "title": "LEY General para la Prevención Social de la Violencia y la Delincuencia",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgpsvd.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPSVD_040521.pdf",
+      "dof_publication": "24/01/2012",
+      "dof_last_reform": "04/05/2021"
+    },
+    {
+      "slug": "reg-lgpsvd",
+      "title": "REGLAMENTO de la Ley General para la Prevención Social de la Violencia y la Delincuencia",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSVD_190914.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSVD_190914.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    }
+  ]
+}

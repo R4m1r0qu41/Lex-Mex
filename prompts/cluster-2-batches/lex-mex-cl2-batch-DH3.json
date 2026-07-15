@@ -1,0 +1,67 @@
+{
+  "batch_id": "cl2_DH3_victimas_pueblos_indigenas",
+  "cluster": "lex-mex-federal-cluster-2",
+  "description": "DH3 victimas pueblos indigenas",
+  "notes": [
+    "Second federal cluster: leyes y reglamentos vigentes missing from the corpus, resolved against the live Cámara de Diputados LeyesBiblio indexes on 2026-07-10.",
+    "BLOCKED entries require reviewer (JRH) confirmation before fetch."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lgv",
+      "title": "LEY General de Víctimas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgv.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGV.pdf",
+      "dof_publication": "09/01/2013",
+      "dof_last_reform": "01/04/2024"
+    },
+    {
+      "slug": "reg-lgv",
+      "title": "REGLAMENTO de la Ley General de Víctimas",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGV.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGV.pdf",
+      "dof_publication": null,
+      "dof_last_reform": null
+    },
+    {
+      "slug": "linpi",
+      "title": "LEY del Instituto Nacional de los Pueblos Indígenas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/linpi.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINPI.pdf",
+      "dof_publication": "04/12/2018",
+      "dof_last_reform": "29/12/2023"
+    },
+    {
+      "slug": "lgdlpi",
+      "title": "LEY General de Derechos Lingüísticos de los Pueblos Indígenas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgdlpi.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGDLPI.pdf",
+      "dof_publication": "13/03/2003",
+      "dof_last_reform": "18/10/2023"
+    },
+    {
+      "slug": "lfppcpcia",
+      "title": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfppcpcia.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPCPCIA.pdf",
+      "dof_publication": "17/01/2022",
+      "dof_last_reform": "14/11/2025"
+    }
+  ]
+}
