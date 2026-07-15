@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrfiyii-art105",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrfiyii_art105.htm",
+  "retrieved_at": "2026-07-15T03:05:38.754279Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 621851,
+  "etag": "\"97d1b-6451aacc01680\"",
+  "last_modified": "Thu, 04 Dec 2025 06:45:30 GMT",
+  "source_sha256": "b99f96ee0d44bd781d14cfdc7f94358bd6d3f6ed17c3bd3aadcf5d149873edeb",
+  "extracted_text_sha256": "34e6b8f137e02054a2ca1567de109faa54801c7a28b40f02ca046ecd928eca43",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "928077570cbf57fff3bb549bc7a343a2aa89d1f2"
+}

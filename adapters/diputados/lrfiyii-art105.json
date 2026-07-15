@@ -1,0 +1,30 @@
+{
+  "slug": "lrfiyii-art105",
+  "instrument_id": "urn:lex-mx:federal:statute:lrfiyii-art105",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
+  "short_name": "LRFIYII-ART105",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrfiyii_art105.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1995-05-11",
+  "header_lines": [
+    "LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS",
+    "ESTADOS UNIDOS MEXICANOS"
+  ],
+  "main_document_stop_markers": [
+    "México, D.F., a 24 de abril de 1995"
+  ],
+  "expected_min_articles": 74,
+  "expected_articles": 74,
+  "expected_transitories": 4,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-15T03:05:40Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

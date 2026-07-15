@@ -1,0 +1,105 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "constitutional_cn2_implementing_laws",
+  "description": "CN2 constitutional implementing statutes admitted from the prepared source inventory.",
+  "notes": [
+    "Normalized from prompts/cluster-2-batches/lex-mex-cl2-batch-CN2.json for the repository Rust ingestion gate.",
+    "All ten prepared entries were absent from adapters and corpus/mx when this operational manifest was created.",
+    "The prepared manifest contains no blocked entries and no expected_edges; none were invented during normalization.",
+    "All reference pages and consolidated PDF URLs were verified against the official Cámara de Diputados LeyesBiblio site on 2026-07-15; every PDF returned HTTP 200 with application/pdf.",
+    "Instrument order is preserved from the prepared cluster-2 plan."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lrfiyii-art105",
+      "title": "LEY Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrfiyii_art105.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf"
+    },
+    {
+      "slug": "lrart6-mdr",
+      "title": "LEY Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf"
+    },
+    {
+      "slug": "lrfv-art76",
+      "title": "LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrfv_art76.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/202.pdf"
+    },
+    {
+      "slug": "lrart76-fracvi",
+      "title": "LEY Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart76_fracvi.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf"
+    },
+    {
+      "slug": "lrfxiiib-art123",
+      "title": "LEY Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrfxiiib_art123.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf"
+    },
+    {
+      "slug": "lrfxviii-art73",
+      "title": "LEY Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrfxviii_art73.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf"
+    },
+    {
+      "slug": "lfcpo",
+      "title": "LEY Federal de Consulta Popular",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpo.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf"
+    },
+    {
+      "slug": "lfrm",
+      "title": "LEY Federal de Revocación de Mandato",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrm.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRM.pdf"
+    },
+    {
+      "slug": "lsct",
+      "title": "LEY sobre la Celebración de Tratados",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsct.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSCT.pdf"
+    },
+    {
+      "slug": "latime",
+      "title": "LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/latime.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf"
+    }
+  ]
+}

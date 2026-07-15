@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lrfiyii-art105",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
+  "short_name": "LRFIYII-ART105",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1995-05-11",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-15T03:05:38.754279Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFIyII_Art105.pdf",
+  "source_sha256": "b99f96ee0d44bd781d14cfdc7f94358bd6d3f6ed17c3bd3aadcf5d149873edeb",
+  "extracted_text_sha256": "34e6b8f137e02054a2ca1567de109faa54801c7a28b40f02ca046ecd928eca43",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
