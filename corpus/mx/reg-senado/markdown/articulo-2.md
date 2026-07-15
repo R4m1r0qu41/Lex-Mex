@@ -23,7 +23,7 @@ Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
 Gaceta: La Gaceta del Senado;
 
-Iniciativa preferente: Es la que presenta el Ejecutivo Federal en términos de lo señalado por el tercer párrafo del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos;
+Iniciativa preferente: Es la que presenta el Ejecutivo Federal en términos de lo señalado por el tercer párrafo del artículo [71](../../cpeum/markdown/articulo-71.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 Junta: La Junta de Coordinación Política;
 

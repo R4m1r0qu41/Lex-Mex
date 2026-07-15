@@ -19,6 +19,6 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 1. El proyecto de ley o decreto será firmado por el Presidente y un Secretario.
 
-2. La fórmula para su expedición será la siguiente: "La [Cámara](articulo-2.md) de Diputados del Honorable Congreso General de los Estados Unidos Mexicanos, en ejercicio de la facultad que le concede (la fracción que corresponda), del artículo 74 de la [Constitución](articulo-2.md) Política de los Estados Unidos Mexicanos, decreta: (Texto del decreto)".
+2. La fórmula para su expedición será la siguiente: "La [Cámara](articulo-2.md) de Diputados del Honorable Congreso General de los Estados Unidos Mexicanos, en ejercicio de la facultad que le concede (la fracción que corresponda), del artículo [74](../../cpeum/markdown/articulo-74.md) de la [Constitución](articulo-2.md) Política de los Estados Unidos Mexicanos, decreta: (Texto del decreto)".
 
 Sección Primera Discusión del Presupuesto de Egresos de la Federación

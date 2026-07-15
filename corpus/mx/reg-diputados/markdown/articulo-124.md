@@ -17,7 +17,7 @@ source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1
 
 # Artículo 124
 
-1. La [Cámara](articulo-2.md), conforme a lo dispuesto en los artículos 69 y 93 de la [Constitución](articulo-2.md) Política de los Estados Unidos Mexicanos, podrá citar a los servidores públicos, bajo protesta de decir verdad, para que:
+1. La [Cámara](articulo-2.md), conforme a lo dispuesto en los artículos [69](../../cpeum/markdown/articulo-69.md) y [93](../../cpeum/markdown/articulo-93.md) de la [Constitución](articulo-2.md) Política de los Estados Unidos Mexicanos, podrá citar a los servidores públicos, bajo protesta de decir verdad, para que:
 
 I. Den cuenta del estado que guarden sus respectivos ramos,
 

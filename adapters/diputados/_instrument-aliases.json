@@ -2,6 +2,36 @@
   "schema_version": "0.1.0",
   "description": "Hand-curated citation aliases per instrument short_name: official titles, accent-stripped variants, and colloquial names (e.g. Circular Única de Bancos). Folded from the retired vault linker (link_cross_references.py) on 2026-07-11.",
   "aliases": {
+    "CPEUM": [
+      "Constitución Política de los Estados Unidos Mexicanos",
+      "Constitucion Politica de los Estados Unidos Mexicanos",
+      "CPEUM"
+    ],
+    "LOCG": [
+      "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
+      "Ley Organica del Congreso General de los Estados Unidos Mexicanos",
+      "LOCG"
+    ],
+    "REG-DIPUTADOS": [
+      "Reglamento de la Cámara de Diputados",
+      "Reglamento de la Camara de Diputados",
+      "REG-DIPUTADOS"
+    ],
+    "REG-SENADO": [
+      "Reglamento del Senado de la República",
+      "Reglamento del Senado de la Republica",
+      "Reglamento del Senado",
+      "REG-SENADO"
+    ],
+    "RGIC": [
+      "Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos",
+      "RGIC"
+    ],
+    "LDOFGG": [
+      "Ley del Diario Oficial de la Federación y Gacetas Gubernamentales",
+      "Ley del Diario Oficial de la Federacion y Gacetas Gubernamentales",
+      "LDOFGG"
+    ],
     "CCom": [
       "Código de Comercio",
       "Codigo de Comercio",

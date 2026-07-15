@@ -35,15 +35,15 @@ h) Exigir orden al público asistente a las sesiones e imponerlo cuando hubiere 
 
 i) Solicitar el uso de la fuerza pública en los términos establecidos en esta ley;
 
-j) Requerir a los senadores faltistas a concurrir a las sesiones de la Cámara y aplicar, en su caso, las medidas y sanciones procedentes conforme a lo dispuesto por los artículos 63 y 64 de la Constitución Política de los Estados Unidos Mexicanos;
+j) Requerir a los senadores faltistas a concurrir a las sesiones de la Cámara y aplicar, en su caso, las medidas y sanciones procedentes conforme a lo dispuesto por los artículos [63](../../cpeum/markdown/articulo-63.md) y [64](../../cpeum/markdown/articulo-64.md) de la Constitución Política de los Estados Unidos Mexicanos;
 
 k) Dirigir las tareas de las secretarías generales, la Tesorería, las unidades administrativas y el Centro de Capacitación y Formación Permanente del servicio civil de carrera, con objeto de asegurar su buen desempeño y acordar con sus titulares los asuntos de su competencia. El Presidente de la Mesa Directiva, podrá delegar en los vicepresidentes y secretarios el ejercicio de la facultad establecida en el presente inciso, señalando expresamente, e informando al Pleno, a cuál de los integrantes de la Mesa Directiva le corresponde la función delegada;
 
 l) Otorgar poderes para actos de administración y para representar a la Cámara ante los tribunales en los juicios de cualquier naturaleza en que ésta sea parte; Inciso reformado DOF 02-04-2013
 
-m) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, en términos de lo dispuesto por el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos; Inciso reformado DOF 02-04-2013, 20-05-2014
+m) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, en términos de lo dispuesto por el artículo [94](../../cpeum/markdown/articulo-94.md) de la Constitución Política de los Estados Unidos Mexicanos; Inciso reformado DOF 02-04-2013, 20-05-2014
 
-n) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos; y Inciso adicionado DOF 20-05-2014
+n) Solicitar al Instituto Nacional Electoral la verificación del porcentaje requerido por la fracción IV del artículo [71](../../cpeum/markdown/articulo-71.md) de la Constitución Política de los Estados Unidos Mexicanos; y Inciso adicionado DOF 20-05-2014
 
 o) Las demás que le confieran esta Ley y el Reglamento. Inciso adicionado DOF 02-04-2013. Recorrido DOF 20-05-2014
 

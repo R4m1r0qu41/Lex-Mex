@@ -429,19 +429,20 @@ fn extract_reference_group(
         return Vec::new();
     }
     let pre_qualifiers = pre_number_qualifiers(source.text, header_start, patterns);
-    let context_end = accepted
-        .last()
-        .map_or(group.len(), |last| match options.policy {
-            InstrumentContextPolicy::WholeGroupPresence => group.len(),
-            InstrumentContextPolicy::SentenceEarliestMarker { .. } => {
-                last.end() + qualifier_boundary(&group[last.end()..])
-            }
-        });
-    let target_instrument_id = match group_target(&group[..context_end], &options.policy) {
-        GroupTarget::Internal => source.instrument_id,
-        GroupTarget::External(instrument_id) => instrument_id,
-        GroupTarget::Skip => return Vec::new(),
-    };
+    let last_end = accepted.last().map(regex::Match::end);
+    let context_end = last_end.map_or(group.len(), |end| match options.policy {
+        InstrumentContextPolicy::WholeGroupPresence => group.len(),
+        InstrumentContextPolicy::SentenceEarliestMarker { .. } => {
+            end + qualifier_boundary(&group[end..])
+        }
+    });
+    let max_marker_start = last_end.map_or(usize::MAX, |end| end + MARKER_LOOKAHEAD_CHARS);
+    let target_instrument_id =
+        match group_target(&group[..context_end], max_marker_start, &options.policy) {
+            GroupTarget::Internal => source.instrument_id,
+            GroupTarget::External(instrument_id) => instrument_id,
+            GroupTarget::Skip => return Vec::new(),
+        };
     let mut references = direct_reference_edges(
         source,
         target_instrument_id,
@@ -463,7 +464,11 @@ fn extract_reference_group(
     references
 }
 
-fn group_target<'a>(context: &str, policy: &'a InstrumentContextPolicy) -> GroupTarget<'a> {
+fn group_target<'a>(
+    context: &str,
+    max_marker_start: usize,
+    policy: &'a InstrumentContextPolicy,
+) -> GroupTarget<'a> {
     let lower = context.to_lowercase();
     match policy {
         InstrumentContextPolicy::WholeGroupPresence => {
@@ -476,18 +481,25 @@ fn group_target<'a>(context: &str, policy: &'a InstrumentContextPolicy) -> Group
         InstrumentContextPolicy::SentenceEarliestMarker {
             internal_markers,
             external_instruments,
-        } => sentence_target(&lower, internal_markers, external_instruments),
+        } => sentence_target(
+            &lower,
+            max_marker_start,
+            internal_markers,
+            external_instruments,
+        ),
     }
 }
 
 fn sentence_target<'a>(
     lower: &str,
+    max_marker_start: usize,
     internal_markers: &[String],
     external_instruments: &'a [(String, String)],
 ) -> GroupTarget<'a> {
     let internal = internal_markers
         .iter()
         .filter_map(|marker| lower.find(marker.as_str()))
+        .filter(|position| *position <= max_marker_start)
         .min();
     let configured = external_instruments
         .iter()
@@ -496,6 +508,7 @@ fn sentence_target<'a>(
                 .find(marker.as_str())
                 .map(|position| (position, instrument_id.as_str()))
         })
+        .filter(|(position, _)| *position <= max_marker_start)
         .min_by_key(|(position, _)| *position);
     let generic = EXTERNAL_INSTRUMENT_MARKERS
         .iter()
@@ -511,6 +524,7 @@ fn sentence_target<'a>(
                     .then_some((position, trimmed.len()))
             })
         })
+        .filter(|(position, _)| *position <= max_marker_start)
         // A configured instrument name inside the same phrase (for example
         // "de la ley para regular…") supersedes the generic law marker.
         .filter(|(position, length)| {
@@ -545,11 +559,12 @@ fn extract_transitory_citations(
         let citation_end = captures.get(0).expect("citation match").end();
         let context = &source.text[citation_end..];
         let context = &context[..qualifier_boundary(context)];
-        let target_instrument_id = match group_target(context, &options.policy) {
-            GroupTarget::Internal => source.instrument_id,
-            GroupTarget::External(instrument_id) => instrument_id,
-            GroupTarget::Skip => continue,
-        };
+        let target_instrument_id =
+            match group_target(context, MARKER_LOOKAHEAD_CHARS, &options.policy) {
+                GroupTarget::Internal => source.instrument_id,
+                GroupTarget::External(instrument_id) => instrument_id,
+                GroupTarget::Skip => continue,
+            };
         let target_provision_id = format!(
             "{target_instrument_id}:transitory:{}",
             slug(ordinal.as_str())
@@ -942,6 +957,12 @@ fn qualifier_boundary(value: &str) -> usize {
         .find_map(|(index, character)| matches!(character, '.' | '\n').then_some(index))
         .unwrap_or(value.len())
 }
+
+/// Maximum distance after the final citation number at which an instrument
+/// marker may begin. Filtering the marker's start, rather than truncating the
+/// sentence, preserves long official titles while preventing a later clause
+/// from retargeting an earlier citation.
+const MARKER_LOOKAHEAD_CHARS: usize = 90;
 
 #[derive(Debug, Clone, Default)]
 pub struct CorpusExpectations {
@@ -1714,8 +1735,14 @@ mod tests {
     const DCG_FIXTURE: &str = include_str!("../../../fixtures/ifpe-dcg-2021/parser-sample.txt");
     const DCG_ANNEX_1_FIXTURE: &str =
         include_str!("../../../fixtures/ifpe-dcg-2021/annex-1-sample.txt");
+    const MARKER_LOOKAHEAD_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reference-marker-lookahead-sample.txt");
     const DCG_ID: &str = "urn:lex-mx:federal:regulation:ifpe-dcg-2021";
     const LRITF_ID: &str = "urn:lex-mx:federal:statute:lritf";
+    const LOOKAHEAD_ID: &str = "urn:lex-mx:federal:statute:marker-lookahead-fixture";
+    const LOCG_ID: &str = "urn:lex-mx:federal:statute:locg";
+    const LPDUSF_ID: &str = "urn:lex-mx:federal:statute:lpdusf";
+    const RGIC_ID: &str = "urn:lex-mx:federal:regulation:rgic";
 
     /// The exact options the CLI derives for the committed LRITF adapter;
     /// the committed corpus is the byte-identity fixture for them.
@@ -1752,6 +1779,37 @@ mod tests {
                     "ley para regular las instituciones de tecnología financiera".to_owned(),
                     LRITF_ID.to_owned(),
                 )],
+            },
+            transitory_citations: true,
+            same_article_fractions: true,
+            relative_references: true,
+        }
+    }
+
+    fn marker_lookahead_options() -> ReferenceOptions {
+        ReferenceOptions {
+            policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                internal_markers: ["de esta ley", "de la presente ley", "esta ley"]
+                    .iter()
+                    .map(|marker| (*marker).to_owned())
+                    .collect(),
+                external_instruments: vec![
+                    (
+                        "ley orgánica del congreso general de los estados unidos mexicanos"
+                            .to_owned(),
+                        LOCG_ID.to_owned(),
+                    ),
+                    (
+                        "ley de protección y defensa al usuario de servicios financieros"
+                            .to_owned(),
+                        LPDUSF_ID.to_owned(),
+                    ),
+                    (
+                        "reglamento para el gobierno interior del congreso general de los estados unidos mexicanos"
+                            .to_owned(),
+                        RGIC_ID.to_owned(),
+                    ),
+                ],
             },
             transitory_citations: true,
             same_article_fractions: true,
@@ -1875,6 +1933,57 @@ mod tests {
             !references
                 .iter()
                 .any(|edge| edge.target_provision_id.contains("codigo"))
+        );
+    }
+
+    #[test]
+    fn bounds_late_markers_without_truncating_long_official_titles() {
+        let date = NaiveDate::from_ymd_opt(2026, 7, 14).unwrap();
+        let provisions = parse_diputados(
+            MARKER_LOOKAHEAD_FIXTURE,
+            &DiputadosOptions {
+                instrument_id: LOOKAHEAD_ID.to_owned(),
+                header_lines: Vec::new(),
+                stop_markers: Vec::new(),
+            },
+            date,
+        )
+        .unwrap()
+        .provisions;
+        let mut known_targets: HashSet<String> =
+            provisions.iter().map(|item| item.id.clone()).collect();
+        for suffix in ["48-bis-5", "94-bis", "96-bis"] {
+            known_targets.insert(format!("{LOOKAHEAD_ID}:article:{suffix}"));
+        }
+        known_targets.insert(format!("{LOCG_ID}:article:20"));
+        known_targets.insert(format!("{RGIC_ID}:article:89"));
+
+        let references = extract_references(
+            &provisions,
+            None,
+            &marker_lookahead_options(),
+            &known_targets,
+        )
+        .unwrap();
+
+        for suffix in ["48-bis-5", "94-bis", "96-bis"] {
+            assert!(references.iter().any(|edge| {
+                edge.target_provision_id == format!("{LOOKAHEAD_ID}:article:{suffix}")
+                    && edge.resolution_status == ReferenceResolutionStatus::Resolved
+            }));
+        }
+        assert!(references.iter().any(|edge| {
+            edge.target_provision_id == format!("{LOCG_ID}:article:20")
+                && edge.resolution_status == ReferenceResolutionStatus::Resolved
+        }));
+        assert!(references.iter().any(|edge| {
+            edge.target_provision_id == format!("{RGIC_ID}:article:89")
+                && edge.resolution_status == ReferenceResolutionStatus::Resolved
+        }));
+        assert!(
+            references
+                .iter()
+                .all(|edge| edge.target_instrument_id != LPDUSF_ID)
         );
     }
 

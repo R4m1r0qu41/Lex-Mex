@@ -127,6 +127,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:124:reference:55-57:69:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:124",
+    "source_span": "69",
+    "start_char": 55,
+    "end_char": 57,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:69",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:124:reference:60-62:93:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:124",
+    "source_span": "93",
+    "start_char": 60,
+    "end_char": 62,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:93",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-diputados:article:125:reference:129-146:124:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:125",
     "source_span": "artículo anterior",
@@ -359,6 +389,21 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:219:reference:308-310:74:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:219",
+    "source_span": "74",
+    "start_char": 308,
+    "end_char": 310,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:74",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-diputados:article:223:reference:667-684:222:relative",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:223",
     "source_span": "artículo anterior",
@@ -453,6 +498,43 @@
     "confidence": 1.0,
     "resolution_status": "resolved",
     "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:3:reference:1251-1253:35:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:3",
+    "source_span": "35",
+    "start_char": 1251,
+    "end_char": 1253,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:35",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:article:3:reference:1825-1827:71:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:3",
+    "source_span": "71",
+    "start_char": 1825,
+    "end_char": 1827,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:71",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "segundo párrafo",
+        "start_char": 1796,
+        "end_char": 1811
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
   },
   {
     "schema_version": "0.1.0",
@@ -636,6 +718,50 @@
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-diputados",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:article:262",
     "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:segundo:reference:1197-1199:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:segundo",
+    "source_span": "20",
+    "start_char": 1197,
+    "end_char": 1199,
+    "target_instrument_id": "urn:lex-mx:federal:statute:locg",
+    "target_provision_id": "urn:lex-mx:federal:statute:locg:article:20",
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso B",
+        "start_char": 1212,
+        "end_char": 1220
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:segundo:reference:1662-1664:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-diputados:transitory:segundo",
+    "source_span": "20",
+    "start_char": 1662,
+    "end_char": 1664,
+    "target_instrument_id": "urn:lex-mx:federal:statute:locg",
+    "target_provision_id": "urn:lex-mx:federal:statute:locg:article:20",
+    "qualifiers": [
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b",
+        "start_char": 1677,
+        "end_char": 1685
+      }
+    ],
     "basis": "express_cross_reference",
     "confidence": 1.0,
     "resolution_status": "resolved",

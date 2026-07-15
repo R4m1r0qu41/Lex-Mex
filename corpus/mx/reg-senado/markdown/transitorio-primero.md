@@ -19,4 +19,4 @@ El presente Reglamento se publicará en el Diario Oficial de la Federación y en
 
 Decreto de fecha 14 de diciembre de 2004, publicado en el Diario Oficial de la Federación el 30 de
 
-diciembre del mismo año, por el que se reformó el artículo 3, numeral 1, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+diciembre del mismo año, por el que se reformó el artículo [3](../../locg/markdown/articulo-3o.md), numeral 1, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.

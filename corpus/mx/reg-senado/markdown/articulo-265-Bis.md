@@ -17,7 +17,7 @@ source_sha256: 97c7f328d93e915310ceb64d00da908a56188e78088e49e997c1dd60b33a57c2
 
 # Artículo 265 Bis
 
-1. Para las comparecencias de las autoridades o servidores públicos a los que hace referencia el segundo párrafo del aparatado B del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, se estará a lo siguiente:
+1. Para las comparecencias de las autoridades o servidores públicos a los que hace referencia el segundo párrafo del aparatado B del artículo [102](../../cpeum/markdown/articulo-102.md) de la Constitución Política de los Estados Unidos Mexicanos, se estará a lo siguiente:
 
 I. Una vez que ingrese al lugar destinado para sesionar el servidor público compareciente, la Presidenta o el Presidente de la Comisión de Derechos Humanos y la que corresponda del Senado procederá a tomarle protesta correspondiente de decir verdad y le hará saber las responsabilidades de los servidores públicos que incurran en falsedad. II. Posteriormente la Presidenta o el Presidente de la Comisión de Derechos Humanos le otorgará el uso de la voz para que exponga de manera fundada y motivada su negativa para no dar cumplimiento a la recomendación que le emitió la Comisión Nacional de los Derechos Humanos.
 

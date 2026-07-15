@@ -29,13 +29,13 @@ IV. Convocatoria: Es la cita formal que realizan los órganos facultados para el
 
 V. Declaratoria de publicidad: Es el anuncio formal que hace el Presidente, ante el Pleno, informando que se ha publicado en la [Gaceta](articulo-2.md) un dictamen;
 
-VI. Dieta: Es la remuneración irrenunciable por el desempeño del cargo de Diputado Federal; VII. Diputado Independiente: La Diputada o el Diputado que emana de una contienda electoral y haya solicitado su registro ante la autoridad competente con tal carácter, en términos de lo dispuesto por el artículo 35 de la [Constitución](articulo-2.md) Política de los Estados Unidos Mexicanos. Fracción adicionada DOF 18-12-2015
+VI. Dieta: Es la remuneración irrenunciable por el desempeño del cargo de Diputado Federal; VII. Diputado Independiente: La Diputada o el Diputado que emana de una contienda electoral y haya solicitado su registro ante la autoridad competente con tal carácter, en términos de lo dispuesto por el artículo [35](../../cpeum/markdown/articulo-35.md) de la [Constitución](articulo-2.md) Política de los Estados Unidos Mexicanos. Fracción adicionada DOF 18-12-2015
 
 VIII. Gaceta Parlamentaria de la Cámara de Diputados: Es la publicación a través de la cual se difunden las actividades, comunicaciones, documentos o acuerdos que tienen que ver con la Cámara; Fracción recorrida DOF 18-12-2015
 
 IX. Iniciativa: Es el acto jurídico por el cual da inicio el proceso legislativo; Fracción recorrida DOF 18-12-2015
 
-X. Iniciativa preferente: Es la que presenta el Ejecutivo Federal en términos de lo señalado por el segundo párrafo del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos; Fracción adicionada DOF 31-12-2012. Recorrida DOF 18-12-2015
+X. Iniciativa preferente: Es la que presenta el Ejecutivo Federal en términos de lo señalado por el segundo párrafo del artículo [71](../../cpeum/markdown/articulo-71.md) de la Constitución Política de los Estados Unidos Mexicanos; Fracción adicionada DOF 31-12-2012. Recorrida DOF 18-12-2015
 
 XI. Legislatura: Es el periodo durante el cual funciona la Cámara, que será de tres años, contados a partir de su instalación; Fracción recorrida DOF 31-12-2012, 18-12-2015
 

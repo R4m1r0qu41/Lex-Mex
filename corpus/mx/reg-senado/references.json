@@ -300,6 +300,28 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-senado:article:2:reference:888-890:71:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:2",
+    "source_span": "71",
+    "start_char": 888,
+    "end_char": 890,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:71",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 860,
+        "end_char": 874
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-senado:article:202:reference:827-830:199:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:202",
     "source_span": "199",
@@ -532,6 +554,36 @@
   },
   {
     "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-senado:article:265-bis:reference:142-145:102:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:265-bis",
+    "source_span": "102",
+    "start_char": 142,
+    "end_char": 145,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:102",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-senado:article:276:reference:2281-2283:67:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:276",
+    "source_span": "67",
+    "start_char": 2281,
+    "end_char": 2283,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:67",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
     "id": "urn:lex-mx:federal:regulation:reg-senado:article:276:reference:2708-2711:108:direct",
     "source_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:276",
     "source_span": "108",
@@ -719,6 +771,21 @@
     "end_char": 2102,
     "target_instrument_id": "urn:lex-mx:federal:regulation:reg-senado",
     "target_provision_id": "urn:lex-mx:federal:regulation:reg-senado:article:4",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-senado:transitory:primero:reference:551-552:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-senado:transitory:primero",
+    "source_span": "3",
+    "start_char": 551,
+    "end_char": 552,
+    "target_instrument_id": "urn:lex-mx:federal:statute:locg",
+    "target_provision_id": "urn:lex-mx:federal:statute:locg:article:3",
     "qualifiers": [],
     "basis": "express_cross_reference",
     "confidence": 1.0,

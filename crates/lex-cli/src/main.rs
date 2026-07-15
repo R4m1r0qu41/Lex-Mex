@@ -1,5 +1,5 @@
 use std::{
-    collections::{HashMap, HashSet},
+    collections::{BTreeMap, HashMap, HashSet},
     fs,
     io::Write as _,
     path::{Path, PathBuf},
@@ -1230,11 +1230,20 @@ fn extract_instrument_references(
     if context.config.reference_policy.as_deref() == Some("internal") {
         return extract_internal_references(provisions);
     }
+    let siblings = read_sibling_corpora(root, &instrument.id)?;
     let mut known_targets: HashSet<String> =
         provisions.iter().map(|item| item.id.clone()).collect();
-    for (_, corpus) in read_sibling_corpora(root, &instrument.id)? {
+    for (_, corpus) in &siblings {
         known_targets.extend(corpus.provisions.iter().map(|item| item.id.clone()));
     }
+    let mut external_instruments = global_external_instruments(root, instrument, &siblings)?;
+    external_instruments.extend(context.config.external_instruments.iter().map(|external| {
+        (
+            external.name_marker.to_lowercase(),
+            external.instrument_id.clone(),
+        )
+    }));
+    let external_instruments = normalize_external_instruments(external_instruments)?;
     let options = ReferenceOptions {
         policy: InstrumentContextPolicy::SentenceEarliestMarker {
             internal_markers: context
@@ -1242,12 +1251,7 @@ fn extract_instrument_references(
                 .internal_reference_markers
                 .clone()
                 .unwrap_or_else(|| self_reference_markers(&context.config.instrument_type)),
-            external_instruments: context
-                .config
-                .external_instruments
-                .iter()
-                .map(|external| (external.name_marker.clone(), external.instrument_id.clone()))
-                .collect(),
+            external_instruments,
         },
         transitory_citations: true,
         same_article_fractions: true,
@@ -1259,6 +1263,105 @@ fn extract_instrument_references(
         &options,
         &known_targets,
     )
+}
+
+/// Hand-curated official-title and colloquial citation aliases, keyed by an
+/// instrument's stable `short_name`.
+#[derive(Debug, serde::Deserialize)]
+#[serde(deny_unknown_fields)]
+struct InstrumentAliasTable {
+    schema_version: String,
+    description: String,
+    aliases: BTreeMap<String, Vec<String>>,
+}
+
+/// Build cross-instrument markers for aliases whose targets are present in
+/// the committed corpus. Bare acronyms are excluded because they can collide
+/// with ordinary legal prose.
+fn global_external_instruments(
+    root: &Path,
+    instrument: &Instrument,
+    siblings: &[(String, Corpus)],
+) -> Result<Vec<(String, String)>> {
+    let alias_path = root.join("adapters/diputados/_instrument-aliases.json");
+    if !alias_path.is_file() {
+        return Ok(Vec::new());
+    }
+    let table: InstrumentAliasTable = read_json(&alias_path)?;
+    if table.schema_version != SCHEMA_VERSION {
+        bail!(
+            "unsupported instrument alias schema version {} in {}; expected {SCHEMA_VERSION}",
+            table.schema_version,
+            alias_path.display()
+        );
+    }
+    if table.description.trim().is_empty() {
+        bail!(
+            "instrument alias description is empty in {}",
+            alias_path.display()
+        );
+    }
+
+    let mut short_name_to_id = HashMap::new();
+    for candidate in
+        std::iter::once(instrument).chain(siblings.iter().map(|(_, corpus)| &corpus.instrument))
+    {
+        if let Some(existing) =
+            short_name_to_id.insert(candidate.short_name.clone(), candidate.id.clone())
+            && existing != candidate.id
+        {
+            bail!(
+                "instrument short_name {} maps to both {} and {}",
+                candidate.short_name,
+                existing,
+                candidate.id
+            );
+        }
+    }
+    resolve_global_aliases(&table, &instrument.id, &short_name_to_id)
+}
+
+fn resolve_global_aliases(
+    table: &InstrumentAliasTable,
+    own_instrument_id: &str,
+    short_name_to_id: &HashMap<String, String>,
+) -> Result<Vec<(String, String)>> {
+    let mut markers = Vec::new();
+    for (short_name, phrases) in &table.aliases {
+        let Some(target_id) = short_name_to_id.get(short_name) else {
+            continue;
+        };
+        if target_id == own_instrument_id {
+            continue;
+        }
+        for phrase in phrases.iter().filter(|phrase| phrase.contains(' ')) {
+            markers.push((phrase.clone(), target_id.clone()));
+        }
+    }
+    normalize_external_instruments(markers)
+}
+
+fn normalize_external_instruments(
+    instruments: impl IntoIterator<Item = (String, String)>,
+) -> Result<Vec<(String, String)>> {
+    let mut markers: HashMap<String, String> = HashMap::new();
+    for (marker, target_id) in instruments {
+        let marker = marker.to_lowercase();
+        if let Some(existing) = markers.insert(marker.clone(), target_id.clone())
+            && existing != target_id
+        {
+            bail!("instrument alias {marker:?} maps to both {existing} and {target_id}");
+        }
+    }
+    let mut external: Vec<_> = markers.into_iter().collect();
+    external.sort_by(|(left_marker, left_id), (right_marker, right_id)| {
+        right_marker
+            .len()
+            .cmp(&left_marker.len())
+            .then_with(|| left_marker.cmp(right_marker))
+            .then_with(|| left_id.cmp(right_id))
+    });
+    Ok(external)
 }
 
 fn run_link(root: &Path, context: &InstrumentContext) -> Result<()> {
@@ -1899,5 +2002,55 @@ impl Paths {
 
     fn annex_text(&self, number: usize) -> PathBuf {
         self.work.join(format!("annex-{number}.txt"))
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use std::collections::{BTreeMap, HashMap};
+
+    use super::{InstrumentAliasTable, resolve_global_aliases};
+
+    #[test]
+    fn global_aliases_include_only_descriptive_ingested_sibling_markers() {
+        let table = InstrumentAliasTable {
+            schema_version: "0.1.0".to_owned(),
+            description: "test aliases".to_owned(),
+            aliases: BTreeMap::from([
+                (
+                    "LOCG".to_owned(),
+                    vec![
+                        "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos"
+                            .to_owned(),
+                        "LOCG".to_owned(),
+                    ],
+                ),
+                (
+                    "RGIC".to_owned(),
+                    vec![
+                        "Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos"
+                            .to_owned(),
+                    ],
+                ),
+                (
+                    "NOT-INGESTED".to_owned(),
+                    vec!["Ley todavía no incorporada".to_owned()],
+                ),
+            ]),
+        };
+        let instruments = HashMap::from([
+            ("LOCG".to_owned(), "urn:test:locg".to_owned()),
+            ("RGIC".to_owned(), "urn:test:rgic".to_owned()),
+        ]);
+
+        let markers = resolve_global_aliases(&table, "urn:test:rgic", &instruments).unwrap();
+
+        assert_eq!(
+            markers,
+            vec![(
+                "ley orgánica del congreso general de los estados unidos mexicanos".to_owned(),
+                "urn:test:locg".to_owned(),
+            )]
+        );
     }
 }
