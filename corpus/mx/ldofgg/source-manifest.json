@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:ldofgg",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/75_100619.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/ldofgg.htm",
+  "retrieved_at": "2026-07-15T02:27:44.617826Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 373348,
+  "etag": "\"5b264-58afbd09e1a40\"",
+  "last_modified": "Mon, 10 Jun 2019 17:50:25 GMT",
+  "source_sha256": "2fc2a18634f230fef75fe9a4e16ab6e6d3c6e20c0b29aa5929bd839b475e16f3",
+  "extracted_text_sha256": "8ee4d9d7fde8c352f709e8f6556a72e3587871be3d216b4232ac7f9cfe503290",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "fabbb2c2844d989878eb27fa2dc2edb77d829172"
+}

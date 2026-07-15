@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:ldofgg",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Diario Oficial de la Federación y Gacetas Gubernamentales",
+  "short_name": "LDOFGG",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1986-12-24",
+  "latest_reform_date": "2019-05-31",
+  "retrieved_at": "2026-07-15T02:27:44.617826Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/75_100619.pdf",
+  "source_sha256": "2fc2a18634f230fef75fe9a4e16ab6e6d3c6e20c0b29aa5929bd839b475e16f3",
+  "extracted_text_sha256": "8ee4d9d7fde8c352f709e8f6556a72e3587871be3d216b4232ac7f9cfe503290",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:ldofgg:article:4:reference:138-155:3:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:ldofgg:article:4",
+    "source_span": "artículo anterior",
+    "start_char": 138,
+    "end_char": 155,
+    "target_instrument_id": "urn:lex-mx:federal:statute:ldofgg",
+    "target_provision_id": "urn:lex-mx:federal:statute:ldofgg:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

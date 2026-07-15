@@ -812,6 +812,9 @@ mod tests {
     const CODIGO_FIXTURE: &str = include_str!("../../../fixtures/diputados/codigo-sample.txt");
     const NUMBERED_PARAGRAPH_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/separate-heading-numbered-paragraph-sample.txt");
+    const ORIGINAL_TRANSITORY_SIGNATURE_FIXTURE: &str = include_str!(
+        "../../../fixtures/diputados/original-transitory-signature-boundary-sample.txt"
+    );
     const REFORM_VARIANTS_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-appendix-variants-sample.txt");
 
@@ -923,6 +926,35 @@ mod tests {
                 .starts_with("1. Este Reglamento")
         );
         assert_eq!(document.provisions[1].number, "15 Bis 1");
+    }
+
+    #[test]
+    fn configured_stop_marker_excludes_enactment_signatures_from_transitory() {
+        let mut options = options(
+            "urn:lex-mx:federal:statute:sample",
+            "Ley del Diario Oficial de la Federación y Gacetas Gubernamentales",
+        );
+        options.stop_markers = vec!["México, D. F., a 9 de diciembre de 1986".to_owned()];
+
+        let document = parse_diputados(
+            ORIGINAL_TRANSITORY_SIGNATURE_FIXTURE,
+            &options,
+            NaiveDate::from_ymd_opt(1986, 12, 24).expect("valid date"),
+        )
+        .expect("signature-boundary fixture parses");
+
+        let transitories: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|provision| provision.provision_type == ProvisionType::Transitory)
+            .collect();
+        assert_eq!(transitories.len(), 2);
+        assert_eq!(
+            transitories[1].text,
+            "Se derogan las disposiciones que se opongan a la presente ley."
+        );
+        assert!(!transitories[1].text.contains("Rúbrica"));
+        assert_eq!(document.reform_evidence.len(), 1);
     }
 
     #[test]

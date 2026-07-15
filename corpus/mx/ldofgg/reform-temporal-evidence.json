@@ -1,0 +1,37 @@
+[
+  {
+    "provision_id": "urn:lex-mx:federal:statute:ldofgg:amendment:2012-06-05:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2012-06-05",
+    "text": "El presente decreto entrará en vigor a los treinta días siguientes al de su publicación en el Diario Oficial de la Federación."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:ldofgg:amendment:2012-06-05:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2012-06-05",
+    "text": "Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:ldofgg:amendment:2012-06-05:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto DOF 2012-06-05",
+    "text": "La Secretaría de Gobernación realizará las acciones necesarias para que la implementación del presente Decreto se realice con los recursos aprobados a dicha dependencia, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:ldofgg:amendment:2019-05-31:transitory:primero",
+    "label": "Transitorio Primero — Decreto DOF 2019-05-31",
+    "text": "El presente Decreto entrará en vigor el 1o. de julio de 2019."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:ldofgg:amendment:2019-05-31:transitory:segundo",
+    "label": "Transitorio Segundo — Decreto DOF 2019-05-31",
+    "text": "La autoridad competente continuará con la venta de ejemplares del Diario Oficial de la Federación que tenga en existencia para tal fin al inicio de vigencia del presente ordenamiento."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:ldofgg:amendment:2019-05-31:transitory:tercero",
+    "label": "Transitorio Tercero — Decreto DOF 2019-05-31",
+    "text": "Se derogan todas aquellas disposiciones que se opongan a las contenidas en el presente Decreto."
+  },
+  {
+    "provision_id": "urn:lex-mx:federal:statute:ldofgg:amendment:2019-05-31:transitory:cuarto",
+    "label": "Transitorio Cuarto — Decreto DOF 2019-05-31",
+    "text": "La Secretaría de Gobernación realizará las acciones necesarias para que la implementación del presente Decreto se realice con los recursos aprobados a dicha dependencia, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirán recursos adicionales para tales efectos y no incrementarán su presupuesto regularizable."
+  }
+]
