@@ -1,0 +1,36 @@
+{
+  "slug": "lrart76-fracvi",
+  "instrument_id": "urn:lex-mx:federal:statute:lrart76-fracvi",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
+  "short_name": "LRART76-FRACVI",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart76_fracvi.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2007-08-31",
+  "header_lines": [
+    "LEY REGLAMENTARIA DE LA FRACCIÓN VI DEL ARTÍCULO 76 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS",
+    "UNIDOS MEXICANOS"
+  ],
+  "main_document_stop_markers": [
+    "México, D.F., a 8 de febrero de 2007"
+  ],
+  "external_instruments": [
+    {
+      "name_marker": "constitucional",
+      "instrument_id": "urn:lex-mx:federal:constitution:cpeum"
+    }
+  ],
+  "expected_min_articles": 25,
+  "expected_articles": 25,
+  "expected_transitories": 1,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-15T15:01:51Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

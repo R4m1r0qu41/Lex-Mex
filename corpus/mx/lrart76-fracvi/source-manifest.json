@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrart76-fracvi",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart76_fracvi.htm",
+  "retrieved_at": "2026-07-15T15:01:50.267573Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 285658,
+  "etag": "\"45bda-6451a01cde180\"",
+  "last_modified": "Thu, 04 Dec 2025 05:57:42 GMT",
+  "source_sha256": "bb06062d0e0454e928090853dd4071bfd19b713abe553033285147a67c323531",
+  "extracted_text_sha256": "7879ed40021c49ac411e0d50cf89620090373d5425945b4f7fa9fd4e377fcc15",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "93ea44b6bb769ca05b8d42d37c965605aac544fc"
+}
