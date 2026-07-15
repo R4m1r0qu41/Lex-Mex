@@ -245,6 +245,14 @@ impl HeadingPatterns {
         }
         true
     }
+
+    fn matches(&self, block: &str) -> bool {
+        self.libro.is_match(block)
+            || self.title.is_match(block)
+            || self.chapter.is_match(block)
+            || self.section.is_match(block)
+            || self.apartado.is_match(block)
+    }
 }
 
 fn is_page_furniture(line: &str, options: &DiputadosOptions, page_number: &Regex) -> bool {
@@ -315,18 +323,14 @@ fn is_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
     })
 }
 
-fn is_immediate_structural(line: &str, options: &DiputadosOptions) -> bool {
-    let upper = line.to_uppercase();
+fn is_immediate_structural(
+    line: &str,
+    options: &DiputadosOptions,
+    headings: &HeadingPatterns,
+) -> bool {
     is_stop_marker(line, options)
         || is_decree_heading(line)
-        || upper.starts_with("LIBRO ")
-        || upper.starts_with("TÍTULO ")
-        || upper.starts_with("TITULO ")
-        || upper.starts_with("CAPÍTULO ")
-        || upper.starts_with("CAPITULO ")
-        || upper.starts_with("SECCIÓN ")
-        || upper.starts_with("SECCION ")
-        || upper.starts_with("APARTADO ")
+        || headings.matches(line)
         || is_transitory_section_header(line)
 }
 
@@ -381,7 +385,12 @@ fn is_numbered_paragraph_start(line: &str) -> bool {
 /// blocks unless it coincides with page furniture (a paragraph continuing
 /// across a page boundary), and structural headings and provision starts
 /// always open a block of their own.
-fn normalized_blocks(raw: &str, options: &DiputadosOptions, ordinals: &[String]) -> Vec<String> {
+fn normalized_blocks(
+    raw: &str,
+    options: &DiputadosOptions,
+    ordinals: &[String],
+    headings: &HeadingPatterns,
+) -> Vec<String> {
     let page_number = Regex::new(r"^\d+\s+de\s+\d+$").expect("static regex");
     let amendment_mark_end =
         Regex::new(r"(?i)\bDOF\s+\d{2}-\d{2}-\d{4}[.,;:]?$").expect("static regex");
@@ -412,7 +421,7 @@ fn normalized_blocks(raw: &str, options: &DiputadosOptions, ordinals: &[String])
         }
         pending_blank = false;
         crossed_page_furniture = false;
-        if is_immediate_structural(line, options) {
+        if is_immediate_structural(line, options, headings) {
             flush_block(&mut current, &mut blocks);
             blocks.push(collapse_whitespace(line));
             continue;
@@ -530,7 +539,7 @@ pub fn parse_diputados(
 ) -> Result<DiputadosDocument> {
     let patterns = HeadingPatterns::new()?;
     let ordinals = transitory_ordinals();
-    let blocks = normalized_blocks(raw, options, &ordinals);
+    let blocks = normalized_blocks(raw, options, &ordinals, &patterns);
 
     let mut provisions = Vec::new();
     let mut current: Option<ProvisionBuilder> = None;
@@ -747,6 +756,7 @@ pub fn extract_reform_evidence(
     raw: &str,
     options: &DiputadosOptions,
 ) -> Result<Vec<TemporalEvidence>> {
+    let headings = HeadingPatterns::new()?;
     let ordinals = transitory_ordinals();
     let publication_re = Regex::new(
         r"(?i)publicad[oa] en el Diario Oficial de la Federación el (\d{1,2}) de ([a-zá-úñ]+) de (\d{4})",
@@ -761,7 +771,7 @@ pub fn extract_reform_evidence(
     let mut current: Option<ReformEvidenceBuilder> = None;
     let mut evidence = Vec::new();
 
-    for block in normalized_blocks(raw, options, &ordinals) {
+    for block in normalized_blocks(raw, options, &ordinals, &headings) {
         if !in_reform_appendix
             && block.contains("ARTÍCULOS TRANSITORIOS DE")
             && block.contains("DECRETO")
@@ -865,6 +875,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/separate-heading-numbered-paragraph-sample.txt");
     const TITLE_CASE_HEADING_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/title-case-heading-sample.txt");
+    const TITLE_CASE_WRAPPED_WORD_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/title-case-wrapped-word-sample.txt");
     const PAGE_BOUNDARY_AMENDMENT_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/page-boundary-amendment-mark-sample.txt");
     const ORIGINAL_TRANSITORY_SIGNATURE_FIXTURE: &str = include_str!(
@@ -1004,6 +1016,29 @@ mod tests {
             Some("Capítulo III")
         );
         assert_eq!(document.provisions[1].text, "Texto bajo el capítulo.");
+    }
+
+    #[test]
+    fn title_case_heading_word_inside_wrapped_sentence_stays_inline() {
+        let document = parse_diputados(
+            TITLE_CASE_WRAPPED_WORD_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:sample",
+                "Ley Reglamentaria de Muestra",
+            ),
+            NaiveDate::from_ymd_opt(2015, 11, 4).expect("valid date"),
+        )
+        .expect("wrapped title-case word fixture parses");
+
+        assert_eq!(document.provisions.len(), 1);
+        assert_eq!(
+            document.provisions[0].text,
+            "En el escrito por el que se solicite el inicio del procedimiento a que se refiere este Capítulo deberán señalarse:\n\nI. Nombre de la parte solicitante."
+        );
+        assert_eq!(
+            document.provisions[0].heading_context.chapter.as_deref(),
+            Some("Capítulo III")
+        );
     }
 
     #[test]

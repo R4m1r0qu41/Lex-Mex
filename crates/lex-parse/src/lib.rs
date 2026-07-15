@@ -433,7 +433,7 @@ fn extract_reference_group(
     let context_end = last_end.map_or(group.len(), |end| match options.policy {
         InstrumentContextPolicy::WholeGroupPresence => group.len(),
         InstrumentContextPolicy::SentenceEarliestMarker { .. } => {
-            end + qualifier_boundary(&group[end..])
+            end + instrument_context_boundary(&group[end..])
         }
     });
     let max_marker_start = last_end.map_or(usize::MAX, |end| end + MARKER_LOOKAHEAD_CHARS);
@@ -956,6 +956,19 @@ fn qualifier_boundary(value: &str) -> usize {
         .char_indices()
         .find_map(|(index, character)| matches!(character, '.' | '\n').then_some(index))
         .unwrap_or(value.len())
+}
+
+/// Find the sentence boundary used to classify a citation's governing
+/// instrument. Diputados writes ordinal article numbers as `6o.` or `1a.`;
+/// that dot belongs to the numeral and must not hide a following instrument
+/// name such as `de la Constitución Política...`.
+fn instrument_context_boundary(value: &str) -> usize {
+    for ordinal in ["o.", "a.", "O.", "A.", "º.", "ª."] {
+        if let Some(rest) = value.strip_prefix(ordinal) {
+            return ordinal.len() + qualifier_boundary(rest);
+        }
+    }
+    qualifier_boundary(value)
 }
 
 /// Maximum distance after the final citation number at which an instrument
@@ -1737,12 +1750,16 @@ mod tests {
         include_str!("../../../fixtures/ifpe-dcg-2021/annex-1-sample.txt");
     const MARKER_LOOKAHEAD_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reference-marker-lookahead-sample.txt");
+    const ORDINAL_TITLE_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reference-ordinal-title-sample.txt");
     const DCG_ID: &str = "urn:lex-mx:federal:regulation:ifpe-dcg-2021";
     const LRITF_ID: &str = "urn:lex-mx:federal:statute:lritf";
     const LOOKAHEAD_ID: &str = "urn:lex-mx:federal:statute:marker-lookahead-fixture";
     const LOCG_ID: &str = "urn:lex-mx:federal:statute:locg";
     const LPDUSF_ID: &str = "urn:lex-mx:federal:statute:lpdusf";
     const RGIC_ID: &str = "urn:lex-mx:federal:regulation:rgic";
+    const ORDINAL_TITLE_ID: &str = "urn:lex-mx:federal:statute:ordinal-title-fixture";
+    const CPEUM_ID: &str = "urn:lex-mx:federal:constitution:cpeum";
 
     /// The exact options the CLI derives for the committed LRITF adapter;
     /// the committed corpus is the byte-identity fixture for them.
@@ -1933,6 +1950,43 @@ mod tests {
             !references
                 .iter()
                 .any(|edge| edge.target_provision_id.contains("codigo"))
+        );
+    }
+
+    #[test]
+    fn ordinal_title_citation_keeps_following_external_instrument_context() {
+        let target = format!("{CPEUM_ID}:article:6");
+        let known_targets = HashSet::from([target.clone()]);
+        let references = extract_references(
+            &[],
+            Some((ORDINAL_TITLE_ID, ORDINAL_TITLE_FIXTURE.trim())),
+            &ReferenceOptions {
+                policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                    internal_markers: ["de esta ley", "de la presente ley", "esta ley"]
+                        .iter()
+                        .map(|marker| (*marker).to_owned())
+                        .collect(),
+                    external_instruments: vec![(
+                        "constitución política de los estados unidos mexicanos".to_owned(),
+                        CPEUM_ID.to_owned(),
+                    )],
+                },
+                transitory_citations: false,
+                same_article_fractions: false,
+                relative_references: false,
+            },
+            &known_targets,
+        )
+        .unwrap();
+
+        assert_eq!(references.len(), 1);
+        assert_eq!(references[0].source_provision_id, ORDINAL_TITLE_ID);
+        assert_eq!(references[0].source_span, "6");
+        assert_eq!(references[0].target_instrument_id, CPEUM_ID);
+        assert_eq!(references[0].target_provision_id, target);
+        assert_eq!(
+            references[0].resolution_status,
+            ReferenceResolutionStatus::Resolved
         );
     }
 
