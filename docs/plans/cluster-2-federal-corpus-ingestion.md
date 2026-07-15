@@ -57,8 +57,8 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `c07db349` (five commits ahead of remote
-`main` at `4355fdd7`):
+Verified against local `main` at `99d588de` (two commits ahead of remote
+`main` at `93ea44b6`):
 
 - `rgic` is committed and validates with 214 articles, 2 original
   transitories, 30 references, 23 reform-transitory evidence records, and zero
@@ -114,6 +114,17 @@ Verified against local `main` at `c07db349` (five commits ahead of remote
   title `Constitución General de la República` resolves to CPEUM, `artículo
   que precede` resolves to the previous article, and numeric ordinal paragraph
   qualifiers no longer truncate the following external-instrument context;
+- `lrart76-fracvi`, the fourth CN2 instrument, is committed at `99d588de` with
+  25 articles, 1 original transitory, 9 references, no defined terms, 4
+  reform-transitory evidence records, and zero validation issues; its source
+  SHA-256 is
+  `bb06062d0e0454e928090853dd4071bfd19b713abe553033285147a67c323531`
+  and extracted-text SHA-256 is
+  `7879ed40021c49ac411e0d50cf89620090373d5425945b4f7fa9fd4e377fcc15`;
+- its shared parser correction is isolated at `eee19102`: constitutional
+  adjectives between an article-list heading and its first number are
+  accepted, and noun-first paragraph qualifiers retain their exact source
+  spans and target anchors;
 - exactly 55 prepared prompt files are staged for operator review: 53 manifests
   under `prompts/cluster-2-batches/` and the two federal cluster plans;
 - `.gitignore`, `README.md`, and `docs/project-status.md` remain modified and
@@ -128,7 +139,7 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-Provisionally process `lrart76-fracvi`, the fourth entry in the reviewed CN2
+Provisionally process `lrfxiiib-art123`, the fifth entry in the reviewed CN2
 operational manifest. Inspect its official PDF, adapter boundaries, canonical
 structure, reform evidence, references, validation report, and representative
 Markdown before freezing any proposed counts.
@@ -147,6 +158,7 @@ Markdown before freezing any proposed counts.
 - [x] (2026-07-15 03:10Z) Ingested and committed `lrfiyii-art105` at `b7653e22` after isolating its parser hardening at `c1952e50`: 74 articles, 4 original transitories, 46 references, 45 reform-transitory evidence records, stable source hashes, and zero validation issues. The complete required gate passed, including both audited baseline validators and the new instrument validator.
 - [x] (2026-07-15 03:23Z) Ingested and committed `lrart6-mdr` at `7a62c205` after isolating two shared regressions at `42b8bb61`: 42 articles, 3 original transitories, 15 references, 3 defined terms, 6 reform-transitory evidence records, stable source hashes, and zero validation issues. The complete required gate passed with 82 workspace tests and both audited baseline validators.
 - [x] (2026-07-15 05:00Z) Ingested and committed `lrfv-art76` at `40d41362` after isolating its shared reference corrections at `92004dc2`: 15 articles, 1 original transitory, 10 reviewed references, stable source hashes, and zero validation issues. The complete gate passed with 84 workspace tests, both audited baseline validators, and the affected-instrument validator.
+- [x] (2026-07-15 15:05Z) Ingested and committed `lrart76-fracvi` at `99d588de` after isolating its constitutional article-list correction at `eee19102`: 25 articles, 1 original transitory, 9 reviewed references, 4 reform-transitory evidence records, stable source hashes, and zero validation issues. The complete gate passed with 85 workspace tests, both audited baseline validators, and the affected-instrument validator.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
@@ -198,6 +210,17 @@ Markdown before freezing any proposed counts.
   deterministic synonym for `artículo anterior`.
   Evidence: `lrfv-art76` Article 6 refers to Article 5 with that exact phrase;
   a focused fixture now preserves the source span and previous-article target.
+- Observation: a wrapped two-line Cámara running header must be excluded by
+  both exact physical lines.
+  Evidence: the provisional `lrart76-fracvi` parse otherwise appended header
+  text to Articles 3, 6, 13, and 20 and the original transitory, producing
+  spurious constitutional references until both lines were adapter-scoped.
+- Observation: constitutional article lists can place the adjective before
+  the first number and use noun-first paragraph qualifiers after later
+  numbers.
+  Evidence: `lrart76-fracvi` Article 25 cites `artículos constitucionales 109,
+  fracción I; 110, párrafo segundo y 114, párrafo primero`; a focused fixture
+  now preserves all three exact targets and qualifiers.
 
 ## Decision log
 
@@ -247,6 +270,13 @@ Markdown before freezing any proposed counts.
   constitutional citations; dedicated fixtures preserve exact source and
   qualifier spans while resolving only targets already present in the corpus.
   Date/author: 2026-07-15 / CN2 `lrfv-art76` execution.
+- Decision: keep the shorthand `constitucional` mapping adapter-scoped to
+  CPEUM for `lrart76-fracvi`; the shared parser accepts the adjective syntax
+  and noun-first qualifiers without globally assigning an instrument target.
+  Rationale: this resolves the official source's express citations while
+  avoiding a corpus-wide semantic reinterpretation of otherwise ambiguous
+  shorthand.
+  Date/author: 2026-07-15 / CN2 `lrart76-fracvi` execution.
 
 ## Milestone 1: reconcile state and finish CN1
 
@@ -414,13 +444,14 @@ A human reviewer should be able to choose any admitted slug and verify all of th
 ## Outcomes and retrospective
 
 Current outcome: CN1 is structurally and graphically closed at `942f201c`, and
-CN2 has three of 10 instruments committed through `40d41362`. All five CN1
-instruments plus `lrfiyii-art105`, `lrart6-mdr`, and `lrfv-art76` have reviewed
-canonical corpora and zero-issue validation. The three CN2 ingestions have
-added seven fixture-backed generic boundary corrections while preserving
-stable evidence IDs and canonical source text. Historical enactment-signature
+CN2 has four of 10 instruments committed through `99d588de`. All five CN1
+instruments plus `lrfiyii-art105`, `lrart6-mdr`, `lrfv-art76`, and
+`lrart76-fracvi` have reviewed canonical corpora and zero-issue validation.
+The four CN2 ingestions have added eight fixture-backed generic boundary
+corrections while preserving stable evidence IDs and canonical source text.
+Historical enactment-signature
 cleanup and corpus-wide relinking remain explicitly separate work;
-provisional ingestion of `lrart76-fracvi` is next.
+provisional ingestion of `lrfxiiib-art123` is next.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 
