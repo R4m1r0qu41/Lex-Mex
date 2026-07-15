@@ -57,7 +57,7 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `727aa5d1` (two commits ahead of remote
+Verified against local `main` at `942f201c` (four commits ahead of remote
 `main` at `8a3a0f9b`):
 
 - `rgic` is committed and validates with 214 articles, 2 original
@@ -68,29 +68,33 @@ Verified against local `main` at `727aa5d1` (two commits ahead of remote
   issues (`727aa5d1`);
 - all five operational CN1 entries now have committed adapters and canonical
   corpora;
-- the five-instrument reverse-link, validation, and Markdown pass completed
-  without canonical diffs, and every instrument remains valid with zero
-  issues, but the graph still contains zero cross-instrument edges despite
-  explicit sibling-title citations;
+- the reviewed global-alias linker and bounded marker search are committed at
+  `942f201c`; the implementation consumes the existing underscore-prefixed
+  registry, excludes bare acronyms and absent targets, rejects alias
+  collisions, and leaves canonical provision text unchanged;
+- the five-instrument reverse-link, validation, and Markdown pass added 22
+  resolved cross-instrument edges without removing or retargeting an existing
+  edge: 19 target CPEUM and 3 target LOCGEUM;
+- final CN1 reference counts are 41/47/51/31/1 for
+  `locg`/`reg-diputados`/`reg-senado`/`rgic`/`ldofgg`; every instrument
+  validates with zero issues and every added span and target was inspected;
 - exactly 55 prepared prompt files are staged for operator review: 53 manifests
   under `prompts/cluster-2-batches/` and the two federal cluster plans;
 - `.gitignore`, `README.md`, and `docs/project-status.md` remain modified and
   unstaged and must not be folded into the CN1 closure without operator review;
-- the Agent Vault active-run capsule was reconciled at checkpoint sequence 4,
-  bound to this plan, and advanced to LDOFGG before checkpoint 5 execution;
-- `fable/cross-linking` contains an existing global-alias and relinking
-  implementation beginning at `02088004`, based on pre-CN1 commit `92774db4`;
-  inspect and reconcile that divergent work before implementing another alias
-  solution on `main`.
+- the divergent `fable/cross-linking` work was reviewed selectively: the
+  global alias path from `02088004` and proximity fix from `a0f4d62d` were
+  reimplemented on current `main`; its bundled `regulates` schema work, bulk
+  relinks, and unrelated parser/export changes were not merged.
 
 Do not assume these statements remain current. At every resumption, compare them with `git log`, `git status`, the operational manifest, adapter presence, corpus presence, validation files, and the active-run drift report.
 
 ## Next action
 
-Review and reconcile the existing `fable/cross-linking` implementation against
-current `main`, then integrate or deliberately replace its global-alias path
-before claiming CN1 cross-instrument closure. Preserve the zero-diff relink
-baseline and add fixtures for the known LOCGEUM/RGIC citations.
+Normalize prepared batch CN2 into an operational manifest under `batches/`,
+preserving blocked entries, official-source boundaries, dependencies, and
+expected-edge notes. Admit one instrument at a time through the provisional
+parse and reviewed count-freeze sequence.
 
 ## Progress
 
@@ -101,7 +105,7 @@ baseline and add fixtures for the known LOCGEUM/RGIC citations.
 - [x] (2026-07-14 22:44Z) Ingested, inspected, froze, relinked, validated, and committed `rgic` with the required parser regression at `2e061724`.
 - [x] (2026-07-15 02:28Z) Ingested, inspected, froze, relinked, validated, and committed `ldofgg` at `727aa5d1`: 20 articles, 2 original transitories, 1 reference, 7 reform-transitory evidence records, and zero issues. Added a focused stop-marker fixture so enactment signatures do not contaminate its final transitory.
 - [x] (2026-07-15 02:31Z) Relinked, validated, and regenerated Markdown for all five CN1 instruments. Counts remained 31/40/47/30/1 references, every validation reported zero issues, and Git recorded no canonical diff.
-- [ ] Resolve the demonstrated cross-instrument recall gap, rerun the clean reverse-link baseline, and close CN1 with an updated plan checkpoint.
+- [x] (2026-07-15 02:46Z) Reviewed `fable/cross-linking`, selectively implemented the safe global-alias and bounded-marker paths at `942f201c`, added LOCGEUM/RGIC regression coverage, and closed CN1 after a five-instrument reverse relink produced 22 reviewed resolved edges and zero validation issues.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
@@ -111,8 +115,14 @@ baseline and add fixtures for the known LOCGEUM/RGIC citations.
   Evidence: checkpoint 3 names `reg-senado` as next, while documentation HEAD `8a3a0f9b` records valid committed corpora through `rgic`.
 - Observation: a successful batch run does not close reverse cross-instrument links.
   Evidence: each instrument extracts references against siblings present during its parse, but `run_batch` does not relink instruments processed earlier after a later target is added. A separate reverse relink pass is required unless batch orchestration is enhanced.
-- Observation: `adapters/diputados/_instrument-aliases.json` is not consumed by the current Rust linking path.
-  Evidence: repository search finds the alias file mentioned as folded configuration, but `external_instruments` in each `SourceConfig` is the only configured external-name input passed to reference extraction. All five CN1 adapters currently have empty `external_instruments` arrays. The closure pass emitted zero cross-instrument edges even though CN1 provisions contain at least 10 exact mentions of LOCGEUM's title and 4 exact mentions of RGIC's title. The divergent `fable/cross-linking` branch already implements a global alias input; cross-instrument completeness on `main` cannot be claimed until that work is reviewed and integrated or deliberately replaced.
+- Observation: exact sibling-title mentions do not necessarily imply an
+  article-level graph edge.
+  Evidence: after the registry became active, every CN1 citation containing a
+  resolvable article number acquired a reviewed edge, including three links to
+  LOCGEUM. Several RGIC title mentions describe whole-instrument continuing
+  effect without naming a target provision, so they correctly remain prose;
+  the regression fixture separately proves that an article-qualified RGIC
+  title resolves when present.
 - Observation: enactment signatures contaminate the final original transitory in many older committed Diputados corpora.
   Evidence: the provisional LDOFGG parse appended the 1986 congressional signatures and presidential promulgation block to Transitory Segundo; a repository-wide exact search found the same `Rúbrica` pattern in numerous existing final transitories, including `rgic` and `reg-senado`. LDOFGG is corrected narrowly with its existing adapter stop-marker boundary, but historical cleanup requires a separately reviewed canonical migration.
 
@@ -136,6 +146,14 @@ baseline and add fixtures for the known LOCGEUM/RGIC citations.
 - Decision: keep the LDOFGG signature correction instrument-scoped and defer the broader historical cleanup.
   Rationale: `main_document_stop_markers` is the accepted deterministic boundary for instrument-specific consolidated-document endings; changing the generic parser during checkpoint 5 would alter many committed canonical corpora without the required corpus-wide review.
   Date/author: 2026-07-15 / checkpoint 5 execution.
+- Decision: selectively reimplement the two safe linker mechanisms from
+  `fable/cross-linking` instead of merging or cherry-picking that branch.
+  Rationale: the branch diverged before CN1 and bundles a new `regulates`
+  field, broad adapter rewrites, bulk relinks, and unrelated parser/export
+  work. Current `main` already contains the same alias registry under its
+  intentionally ignored underscore filename, so consuming that file plus the
+  independently reviewed marker-start bound closes CN1 with a narrow diff.
+  Date/author: 2026-07-15 / checkpoint 6 execution.
 
 ## Milestone 1: reconcile state and finish CN1
 
@@ -302,13 +320,14 @@ A human reviewer should be able to choose any admitted slug and verify all of th
 
 ## Outcomes and retrospective
 
-Current outcome: all five CN1 instruments are structurally ingested through
-`ldofgg` at `727aa5d1`, and their reverse-link/validation/export pass is clean
-and deterministic. CN1 remains open because the graph emitted zero
-cross-instrument edges despite known sibling-title citations. The missing
-batch reverse-link phase, disconnected alias registry on `main`, and
-historical enactment-signature contamination remain flagged follow-ups; the
-existing `fable/cross-linking` implementation is the next review target.
+Current outcome: CN1 is structurally and graphically closed at `942f201c`.
+All five instruments have reviewed canonical corpora and zero-issue validation;
+the reverse-link pass added 22 exact, resolved presentation links while
+preserving canonical source text and every prior edge. The active alias
+registry and bounded marker-start rule now provide the deterministic mechanism
+required for later reverse-link passes. Historical enactment-signature cleanup
+and corpus-wide relinking remain explicitly separate work; CN2 normalization
+is next.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 
