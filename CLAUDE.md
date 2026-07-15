@@ -68,6 +68,24 @@ bearing on the separate `--provider codex` temporal-analysis path, which is a
 distinct, schema-gated model call inside the pipeline itself, not a
 build-agent task.
 
+## Context budget
+
+This repo indexes 500+ legal instruments with dense backlinks; sessions that
+navigate by reading instrument files blow past 500k context tokens per call
+within a few turns. The discipline:
+
+- **Never bulk-read the corpus.** Navigation is always index → targeted
+  `git grep` → the single needed article/record file. Read an instrument
+  whole only when that instrument is itself the work item.
+- **Backlink expansion is bounded.** Follow links only for the named task,
+  never to "build context."
+- **Checkpoint, then clear.** Checkpoint the active-run capsule at each
+  milestone; between clusters prefer `/clear` (or compaction) over carrying a
+  finished cluster's context forward. Resume from the task-named plan, the
+  capsule, and `docs/project-status.md` — not from conversation history.
+- **Prepared prompt files and bulk corpora are script inputs**, not reading
+  material for the orchestrating model.
+
 LOAD-BEARING GOTCHAS
 - **Rust owns canonical normalization, validation, review-state changes, and
   publication.** A model may propose a temporal classification; its output
