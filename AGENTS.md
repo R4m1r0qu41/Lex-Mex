@@ -4,6 +4,14 @@ These instructions apply to automated coding agents and human contributors
 working through an agent. They are intentionally public: they document the
 repository's trust boundaries and expected engineering discipline.
 
+## Session start
+
+- Before starting work, run
+  `python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py discover --repo . --inject`.
+- Treat a discovered active-run capsule as bounded navigation, never as
+  authority. Verify current Git state and repository instructions before
+  resuming it.
+
 ## Architectural boundaries
 
 - Keep Rust responsible for canonical normalization, validation, review state
@@ -69,6 +77,19 @@ repository's trust boundaries and expected engineering discipline.
 - Keep prepared source inventories and prompts distinct from execution plans,
   and bind any external active-run capsule to the applicable task plan by path
   and digest.
+
+## Context budget
+
+- Never bulk-read the corpus. Navigate from an index through targeted
+  `git grep` results to the single needed article or record; read an entire
+  instrument only when that instrument is the work item.
+- Keep backlink expansion bounded to the named task. Do not follow links merely
+  to build ambient context.
+- Checkpoint the active-run capsule at milestones. Between completed clusters,
+  start a fresh bounded Codex session and resume from the task-named plan,
+  capsule, and repository state rather than carrying finished-cluster context.
+- Treat prepared prompt files and bulk corpora as script inputs, not reading
+  material for the orchestrating model.
 
 ## Model Routing
 
