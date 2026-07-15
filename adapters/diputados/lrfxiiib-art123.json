@@ -1,0 +1,30 @@
+{
+  "slug": "lrfxiiib-art123",
+  "instrument_id": "urn:lex-mx:federal:statute:lrfxiiib-art123",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos",
+  "short_name": "LRFXIIIB-ART123",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrfxiiib_art123.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1983-12-30",
+  "header_lines": [
+    "LEY REGLAMENTARIA DE LA FRACCIÓN XIII BIS DEL APARTADO B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN",
+    "POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS"
+  ],
+  "main_document_stop_markers": [
+    "México, D.F., a 29 de diciembre de 1983"
+  ],
+  "expected_min_articles": 25,
+  "expected_articles": 25,
+  "expected_transitories": 4,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-15T16:00:49Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

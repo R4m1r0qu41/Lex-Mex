@@ -1,0 +1,62 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfxiiib-art123:reference:71-74:123:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfxiiib-art123",
+    "source_span": "123",
+    "start_char": 71,
+    "end_char": 74,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:123",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfxiiib-art123:article:2-bis:reference:105-106:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfxiiib-art123:article:2-bis",
+    "source_span": "1",
+    "start_char": 105,
+    "end_char": 106,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrfxiiib-art123",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrfxiiib-art123:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfxiiib-art123:article:3:reference:1578-1584:43-bis:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfxiiib-art123:article:3",
+    "source_span": "43 Bis",
+    "start_char": 1578,
+    "end_char": 1584,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lic",
+    "target_provision_id": "urn:lex-mx:federal:statute:lic:article:43-bis",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfxiiib-art123:article:4:reference:70-87:3:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfxiiib-art123:article:4",
+    "source_span": "artículo anterior",
+    "start_char": 70,
+    "end_char": 87,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrfxiiib-art123",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrfxiiib-art123:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]

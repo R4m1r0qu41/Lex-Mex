@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrfxiiib-art123",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrfxiiib_art123.htm",
+  "retrieved_at": "2026-07-15T16:00:48.505606Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 363348,
+  "etag": "\"58b54-6451a7180da00\"",
+  "last_modified": "Thu, 04 Dec 2025 06:28:56 GMT",
+  "source_sha256": "57ec1adca9a93f6403430d9a0e202d49216fa2c83997706c08d93b88cdd46dea",
+  "extracted_text_sha256": "9bac25113137ed36e0a842eafd262e3de89f8c0f34825e2447060a917d85a48c",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "1ef26c280b8c182fe87ff23171f1b26fabed26aa"
+}
