@@ -1,0 +1,30 @@
+{
+  "slug": "lrart6-mdr",
+  "instrument_id": "urn:lex-mx:federal:statute:lrart6-mdr",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Reglamentaria del artículo 6o., párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, en materia del Derecho de Réplica",
+  "short_name": "LRART6-MDR",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2015-11-04",
+  "header_lines": [
+    "LEY REGLAMENTARIA DEL ARTÍCULO 6o., PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS",
+    "MEXICANOS, EN MATERIA DEL DERECHO DE RÉPLICA"
+  ],
+  "main_document_stop_markers": [
+    "México, D.F., a 13 de octubre de 2015"
+  ],
+  "expected_min_articles": 42,
+  "expected_articles": 42,
+  "expected_transitories": 3,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-15T03:20:30Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

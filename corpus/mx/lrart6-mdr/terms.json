@@ -1,0 +1,35 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart6-mdr:term:agencia-de-noticias",
+    "term": "Agencia de noticias",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart6-mdr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart6-mdr:article:2",
+    "fraction": "I",
+    "start_char": 45,
+    "end_char": 255,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart6-mdr:term:derecho-de-replica",
+    "term": "Derecho de réplica",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart6-mdr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart6-mdr:article:2",
+    "fraction": "II",
+    "start_char": 255,
+    "end_char": 982,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrart6-mdr:term:productor-independiente",
+    "term": "Productor independiente",
+    "instrument_id": "urn:lex-mx:federal:statute:lrart6-mdr",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lrart6-mdr:article:2",
+    "fraction": "IV",
+    "start_char": 982,
+    "end_char": 1157,
+    "basis": "express_definition"
+  }
+]

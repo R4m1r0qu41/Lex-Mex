@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrart6-mdr",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrart6_mdr.htm",
+  "retrieved_at": "2026-07-15T03:20:28.772292Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 496450,
+  "etag": "\"79342-6451b7fedfa40\"",
+  "last_modified": "Thu, 04 Dec 2025 07:44:33 GMT",
+  "source_sha256": "b3013ac434856f46bc973c4178d55c6d5d440730a42f3d7f8ca225730e0d382c",
+  "extracted_text_sha256": "e7c915812ed8a49a288ace0ad3c8bebb5ed4d0901eeac84f46d6def7be3c5f4f",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "c47b45fb73fbdccd85a393ff1955886e80ba5cce"
+}
