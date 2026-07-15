@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lrfv-art76",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/202.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lrfv_art76.htm",
+  "retrieved_at": "2026-07-15T04:56:55.807657Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 204263,
+  "etag": "\"31de7-5763f920e9640\"",
+  "last_modified": "Wed, 19 Sep 2018 20:51:29 GMT",
+  "source_sha256": "89ae4eeddd5a5d6f2100bc85e9348f6f1fdc5f1acb92ef074c6a742a5cd2aad3",
+  "extracted_text_sha256": "fbef56a05118e87a378da61cdedc37c729b1a3edaa75e849ff128cf6c5d5fb09",
+  "extraction_tool": "pdftotext version 26.06.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "30712619e912219a348a640696c87a83a2951b4e"
+}

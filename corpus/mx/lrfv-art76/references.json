@@ -1,0 +1,185 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfv-art76:reference:48-50:76:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfv-art76",
+    "source_span": "76",
+    "start_char": 48,
+    "end_char": 50,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:76",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "Fracción V",
+        "start_char": 24,
+        "end_char": 34
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfv-art76:article:15:reference:159-161:19:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:15",
+    "source_span": "19",
+    "start_char": 159,
+    "end_char": 161,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:19",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfv-art76:article:15:reference:164-166:20:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:15",
+    "source_span": "20",
+    "start_char": 164,
+    "end_char": 166,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:20",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y III",
+        "start_char": 168,
+        "end_char": 186
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfv-art76:article:2:reference:860-862:40:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:2",
+    "source_span": "40",
+    "start_char": 860,
+    "end_char": 862,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:40",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfv-art76:article:2:reference:865-868:115:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:2",
+    "source_span": "115",
+    "start_char": 865,
+    "end_char": 868,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:115",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfv-art76:article:3:reference:73-90:2:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:3",
+    "source_span": "artículo anterior",
+    "start_char": 73,
+    "end_char": 90,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrfv-art76",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfv-art76:article:4:reference:218-235:3:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:4",
+    "source_span": "artículo anterior",
+    "start_char": 218,
+    "end_char": 235,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrfv-art76",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfv-art76:article:6:reference:40-60:5:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:6",
+    "source_span": "artículo que precede",
+    "start_char": 40,
+    "end_char": 60,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrfv-art76",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfv-art76:article:7:reference:432-433:5:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:7",
+    "source_span": "5",
+    "start_char": 432,
+    "end_char": 433,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrfv-art76",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:5",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfv-art76:article:9:reference:113-116:115:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfv-art76:article:9",
+    "source_span": "115",
+    "start_char": 113,
+    "end_char": 116,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:115",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 118,
+        "end_char": 130
+      },
+      {
+        "qualifier_type": "subsection",
+        "text": "inciso b",
+        "start_char": 132,
+        "end_char": 140
+      },
+      {
+        "qualifier_type": "paragraph",
+        "text": "2o. párrafo",
+        "start_char": 143,
+        "end_char": 154
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

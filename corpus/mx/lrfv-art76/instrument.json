@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lrfv-art76",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República",
+  "short_name": "LRFV-ART76",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1978-12-29",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-15T04:56:55.807657Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/202.pdf",
+  "source_sha256": "89ae4eeddd5a5d6f2100bc85e9348f6f1fdc5f1acb92ef074c6a742a5cd2aad3",
+  "extracted_text_sha256": "fbef56a05118e87a378da61cdedc37c729b1a3edaa75e849ff128cf6c5d5fb09",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
