@@ -212,11 +212,11 @@ impl HeadingPatterns {
         // verbatim and stored as printed.
         let numeral = "(?:[IVXLCDM]+|[A-ZÁÉÍÓÚÑ]+(?:\\s+[A-ZÁÉÍÓÚÑ]+)?)";
         Ok(Self {
-            libro: Regex::new(&format!("^LIBRO\\s+({numeral})$"))?,
-            title: Regex::new(&format!("^T[ÍI]TULO\\s+({numeral})$"))?,
-            chapter: Regex::new(&format!("^CAP[ÍI]TULO\\s+({numeral})$"))?,
-            section: Regex::new(&format!("^SECCI[ÓO]N\\s+({numeral})$"))?,
-            apartado: Regex::new(&format!("^APARTADO\\s+({numeral})$"))?,
+            libro: Regex::new(&format!("(?i)^LIBRO\\s+({numeral})$"))?,
+            title: Regex::new(&format!("(?i)^T[ÍI]TULO\\s+({numeral})$"))?,
+            chapter: Regex::new(&format!("(?i)^CAP[ÍI]TULO\\s+({numeral})$"))?,
+            section: Regex::new(&format!("(?i)^SECCI[ÓO]N\\s+({numeral})$"))?,
+            apartado: Regex::new(&format!("(?i)^APARTADO\\s+({numeral})$"))?,
         })
     }
 
@@ -316,16 +316,17 @@ fn is_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
 }
 
 fn is_immediate_structural(line: &str, options: &DiputadosOptions) -> bool {
+    let upper = line.to_uppercase();
     is_stop_marker(line, options)
         || is_decree_heading(line)
-        || line.starts_with("LIBRO ")
-        || line.starts_with("TÍTULO ")
-        || line.starts_with("TITULO ")
-        || line.starts_with("CAPÍTULO ")
-        || line.starts_with("CAPITULO ")
-        || line.starts_with("SECCIÓN ")
-        || line.starts_with("SECCION ")
-        || line.starts_with("APARTADO ")
+        || upper.starts_with("LIBRO ")
+        || upper.starts_with("TÍTULO ")
+        || upper.starts_with("TITULO ")
+        || upper.starts_with("CAPÍTULO ")
+        || upper.starts_with("CAPITULO ")
+        || upper.starts_with("SECCIÓN ")
+        || upper.starts_with("SECCION ")
+        || upper.starts_with("APARTADO ")
         || is_transitory_section_header(line)
 }
 
@@ -382,6 +383,8 @@ fn is_numbered_paragraph_start(line: &str) -> bool {
 /// always open a block of their own.
 fn normalized_blocks(raw: &str, options: &DiputadosOptions, ordinals: &[String]) -> Vec<String> {
     let page_number = Regex::new(r"^\d+\s+de\s+\d+$").expect("static regex");
+    let amendment_mark_end =
+        Regex::new(r"(?i)\bDOF\s+\d{2}-\d{2}-\d{4}[.,;:]?$").expect("static regex");
     let mut blocks = Vec::new();
     let mut current = String::new();
     let mut pending_blank = false;
@@ -399,6 +402,10 @@ fn normalized_blocks(raw: &str, options: &DiputadosOptions, ordinals: &[String])
             }
             pending_blank = false;
             continue;
+        }
+        if crossed_page_furniture && amendment_mark_end.is_match(&current) {
+            flush_block(&mut current, &mut blocks);
+            crossed_page_furniture = false;
         }
         if pending_blank && !crossed_page_furniture {
             flush_block(&mut current, &mut blocks);
@@ -662,6 +669,7 @@ pub fn extract_dof_publication(raw: &str) -> Option<NaiveDate> {
 struct ReformEvidenceBuilder {
     date: NaiveDate,
     decree_occurrence: usize,
+    transitory_section_occurrence: usize,
     ordinal: String,
     blocks: Vec<String>,
 }
@@ -674,6 +682,7 @@ fn flush_reform(
     if let Some(builder) = current.take() {
         let date = builder.date;
         let decree_occurrence = builder.decree_occurrence;
+        let transitory_section_occurrence = builder.transitory_section_occurrence;
         let ordinal = builder.ordinal;
         let text = builder
             .blocks
@@ -691,18 +700,44 @@ fn flush_reform(
             Vec::new(),
         );
         // A consolidated appendix can contain several decrees published on
-        // the same date, often each with an ÚNICO transitory. Preserve the
-        // established ID for the first decree and qualify later same-day
-        // decrees so every temporal-evidence identity remains unique.
-        if decree_occurrence > 1 {
+        // the same date, or several transitory sections inside one decree.
+        // Preserve the established ID for the first decree/section and
+        // qualify later occurrences so every evidence identity is unique.
+        if decree_occurrence > 1 || transitory_section_occurrence > 1 {
             let date = date.format("%Y-%m-%d");
             let base = format!(":amendment:{date}:");
-            let qualified = format!(":amendment:{date}:decree-{decree_occurrence}:");
+            let mut qualifiers = Vec::new();
+            if decree_occurrence > 1 {
+                qualifiers.push(format!("decree-{decree_occurrence}"));
+            }
+            if transitory_section_occurrence > 1 {
+                qualifiers.push(format!("section-{transitory_section_occurrence}"));
+            }
+            let qualified = format!(":amendment:{date}:{}:", qualifiers.join(":"));
             item.provision_id = item.provision_id.replacen(&base, &qualified, 1);
-            item.label = format!("Transitorio {ordinal} — Decreto {decree_occurrence} DOF {date}");
+            item.label = match (decree_occurrence, transitory_section_occurrence) {
+                (1, section) => format!(
+                    "Transitorio {ordinal} — Sección transitoria {section}, Decreto DOF {date}"
+                ),
+                (decree, 1) => {
+                    format!("Transitorio {ordinal} — Decreto {decree} DOF {date}")
+                }
+                (decree, section) => format!(
+                    "Transitorio {ordinal} — Decreto {decree}, sección transitoria {section} DOF {date}"
+                ),
+            };
         }
         evidence.push(item);
     }
+}
+
+fn is_reform_transitory_section_header(block: &str) -> bool {
+    if is_transitory_section_header(block) {
+        return true;
+    }
+    let uppercase = block.to_uppercase();
+    uppercase.starts_with("ARTÍCULOS TRANSITORIOS DEL DECRETO")
+        || uppercase.starts_with("ARTICULOS TRANSITORIOS DEL DECRETO")
 }
 
 /// Isolate the consolidated document's reform-decree appendix
@@ -720,13 +755,17 @@ pub fn extract_reform_evidence(
     let mut in_transitories = false;
     let mut publication_date: Option<NaiveDate> = None;
     let mut decree_occurrence: Option<usize> = None;
+    let mut transitory_section_occurrence = 0;
     let mut decrees_by_date: std::collections::HashMap<NaiveDate, usize> =
         std::collections::HashMap::new();
     let mut current: Option<ReformEvidenceBuilder> = None;
     let mut evidence = Vec::new();
 
     for block in normalized_blocks(raw, options, &ordinals) {
-        if block.contains("ARTÍCULOS TRANSITORIOS DE") && block.contains("DECRETO") {
+        if !in_reform_appendix
+            && block.contains("ARTÍCULOS TRANSITORIOS DE")
+            && block.contains("DECRETO")
+        {
             in_reform_appendix = true;
             continue;
         }
@@ -739,6 +778,7 @@ pub fn extract_reform_evidence(
             in_transitories = false;
             publication_date = None;
             decree_occurrence = None;
+            transitory_section_occurrence = 0;
         }
         // Wrapped decree titles can share a block with their publication
         // note. Once the transitory section has begun, however, the same
@@ -753,8 +793,12 @@ pub fn extract_reform_evidence(
             }
             continue;
         }
-        if is_transitory_section_header(&block) {
+        if is_reform_transitory_section_header(&block) {
+            if in_transitories {
+                flush_reform(&options.instrument_id, &mut current, &mut evidence);
+            }
             in_transitories = true;
+            transitory_section_occurrence += 1;
             continue;
         }
         if !in_transitories {
@@ -791,6 +835,7 @@ pub fn extract_reform_evidence(
                         "found reform transitory without its containing decree identity"
                     )
                 })?,
+                transitory_section_occurrence,
                 ordinal,
                 blocks: vec![body.to_owned()],
             });
@@ -799,6 +844,12 @@ pub fn extract_reform_evidence(
         }
     }
     flush_reform(&options.instrument_id, &mut current, &mut evidence);
+    let mut evidence_ids = std::collections::HashSet::new();
+    for item in &evidence {
+        if !evidence_ids.insert(item.provision_id.as_str()) {
+            bail!("duplicate reform evidence id {}", item.provision_id);
+        }
+    }
     Ok(evidence)
 }
 
@@ -812,11 +863,17 @@ mod tests {
     const CODIGO_FIXTURE: &str = include_str!("../../../fixtures/diputados/codigo-sample.txt");
     const NUMBERED_PARAGRAPH_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/separate-heading-numbered-paragraph-sample.txt");
+    const TITLE_CASE_HEADING_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/title-case-heading-sample.txt");
+    const PAGE_BOUNDARY_AMENDMENT_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/page-boundary-amendment-mark-sample.txt");
     const ORIGINAL_TRANSITORY_SIGNATURE_FIXTURE: &str = include_str!(
         "../../../fixtures/diputados/original-transitory-signature-boundary-sample.txt"
     );
     const REFORM_VARIANTS_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-appendix-variants-sample.txt");
+    const MULTIPLE_TRANSITORY_SECTIONS_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reform-multiple-transitory-sections-sample.txt");
 
     fn options(instrument_id: &str, title: &str) -> DiputadosOptions {
         DiputadosOptions {
@@ -929,6 +986,52 @@ mod tests {
     }
 
     #[test]
+    fn title_case_structural_heading_applies_to_the_following_article() {
+        let document = parse_diputados(
+            TITLE_CASE_HEADING_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:sample",
+                "Ley Reglamentaria de Muestra",
+            ),
+            NaiveDate::from_ymd_opt(1995, 5, 11).expect("valid date"),
+        )
+        .expect("title-case heading fixture parses");
+
+        assert_eq!(document.provisions.len(), 2);
+        assert_eq!(document.provisions[0].text, "Texto del artículo anterior.");
+        assert_eq!(
+            document.provisions[1].heading_context.chapter.as_deref(),
+            Some("Capítulo III")
+        );
+        assert_eq!(document.provisions[1].text, "Texto bajo el capítulo.");
+    }
+
+    #[test]
+    fn amendment_mark_closes_paragraph_across_wrapped_page_header() {
+        let options = DiputadosOptions {
+            instrument_id: "urn:lex-mx:federal:statute:sample".to_owned(),
+            header_lines: vec![
+                "LEY REGLAMENTARIA DE MUESTRA DE LOS".to_owned(),
+                "ESTADOS UNIDOS MEXICANOS".to_owned(),
+            ],
+            stop_markers: Vec::new(),
+        };
+        let document = parse_diputados(
+            PAGE_BOUNDARY_AMENDMENT_FIXTURE,
+            &options,
+            NaiveDate::from_ymd_opt(1995, 5, 11).expect("valid date"),
+        )
+        .expect("page-boundary fixture parses");
+
+        assert_eq!(document.provisions.len(), 2);
+        assert_eq!(
+            document.provisions[0].text,
+            "Primer párrafo. Párrafo reformado DOF 03-04-2025\n\nSegundo párrafo."
+        );
+        assert!(!document.provisions[0].text.contains("LEY REGLAMENTARIA"));
+    }
+
+    #[test]
     fn configured_stop_marker_excludes_enactment_signatures_from_transitory() {
         let mut options = options(
             "urn:lex-mx:federal:statute:sample",
@@ -1016,6 +1119,36 @@ mod tests {
         assert_eq!(
             evidence[6].label,
             "Transitorio Único — Decreto 2 DOF 2023-09-22"
+        );
+    }
+
+    #[test]
+    fn reform_decree_transitory_sections_receive_distinct_evidence_ids() {
+        let evidence = super::extract_reform_evidence(
+            MULTIPLE_TRANSITORY_SECTIONS_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:sample",
+                "Ley Reglamentaria de Muestra",
+            ),
+        )
+        .expect("multiple transitory sections parse");
+
+        let ids: Vec<&str> = evidence
+            .iter()
+            .map(|item| item.provision_id.as_str())
+            .collect();
+        assert_eq!(
+            ids,
+            [
+                "urn:lex-mx:federal:statute:sample:amendment:1996-11-22:transitory:primero",
+                "urn:lex-mx:federal:statute:sample:amendment:1996-11-22:transitory:segundo",
+                "urn:lex-mx:federal:statute:sample:amendment:1996-11-22:section-2:transitory:primero",
+                "urn:lex-mx:federal:statute:sample:amendment:1996-11-22:section-2:transitory:segundo",
+            ]
+        );
+        assert_eq!(
+            evidence[2].label,
+            "Transitorio PRIMERO — Sección transitoria 2, Decreto DOF 1996-11-22"
         );
     }
 }
