@@ -91,9 +91,9 @@ struct ReferencePatterns {
     /// `fracciones I, II, III y IV del presente artículo`.
     same_article_fraction: Regex,
     /// Position-relative citation of a neighboring provision: `artículo
-    /// anterior` / `artículo siguiente`. Singular only — the plural
-    /// (`los artículos anteriores`) names an open-ended set with no single
-    /// deterministic target, so it stays unlinked.
+    /// anterior`, `artículo siguiente`, or `artículo que precede`. Singular
+    /// only — the plural (`los artículos anteriores`) names an open-ended set
+    /// with no single deterministic target, so it stays unlinked.
     relative_article: Regex,
     roman: Regex,
 }
@@ -119,7 +119,7 @@ impl ReferencePatterns {
             same_article_fraction: Regex::new(
                 r"(?i)\bfracci(?:ón|ones)\s+([IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)*)\s+de(?:l\s+presente|\s+este)\s+artículo",
             )?,
-            relative_article: Regex::new(r"(?i)\bartículo\s+(anterior|siguiente)\b")?,
+            relative_article: Regex::new(r"(?i)\bartículo\s+(anterior|siguiente|que\s+precede)\b")?,
             roman: Regex::new(r"\b[IVXLCDM]+\b")?,
             number: Regex::new(
                 // A hyphenated qualifier (`156-Bis`) is tried before the
@@ -142,7 +142,7 @@ impl ReferencePatterns {
         )*$",
             )?,
             paragraph: Regex::new(
-                r"(?i)\b(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último)(?:\s+(?:,|y|o)\s+(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último))*\s+párrafos?\b",
+                r"(?i)\b(?:(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último)(?:\s+(?:,|y|o)\s+(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último))*|\d{1,2}[oaºª]\.?)\s+párrafos?\b",
             )?,
             fraction: Regex::new(
                 r"(?i)\bfracci(?:ón|ones)\s+[IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)*\b",
@@ -393,10 +393,10 @@ fn extract_relative_references(
     for captures in patterns.relative_article.captures_iter(source.text) {
         let phrase = captures.get(0).expect("relative match");
         let direction = captures.get(1).expect("direction capture");
-        let target = if direction.as_str().eq_ignore_ascii_case("anterior") {
-            neighbors.previous
-        } else {
+        let target = if direction.as_str().eq_ignore_ascii_case("siguiente") {
             neighbors.next
+        } else {
+            neighbors.previous
         };
         let Some(target) = target else {
             continue;
@@ -952,10 +952,29 @@ fn fraction_labels(text: &str) -> HashSet<&str> {
 }
 
 fn qualifier_boundary(value: &str) -> usize {
-    value
-        .char_indices()
-        .find_map(|(index, character)| matches!(character, '.' | '\n').then_some(index))
-        .unwrap_or(value.len())
+    for (index, character) in value.char_indices() {
+        if character == '\n' {
+            return index;
+        }
+        if character != '.' {
+            continue;
+        }
+
+        let before = &value[..index];
+        let mut preceding = before.chars().rev();
+        let ordinal_mark = preceding.next();
+        let preceding_digit = preceding.next();
+        let continues_numeric_ordinal =
+            matches!(ordinal_mark, Some('o' | 'a' | 'O' | 'A' | 'º' | 'ª'))
+                && preceding_digit.is_some_and(|character| character.is_ascii_digit());
+        let continues_heading_ordinal = index == ordinal_mark.map_or(0, char::len_utf8)
+            && matches!(ordinal_mark, Some('o' | 'a' | 'O' | 'A' | 'º' | 'ª'));
+        if continues_numeric_ordinal || continues_heading_ordinal {
+            continue;
+        }
+        return index;
+    }
+    value.len()
 }
 
 /// Find the sentence boundary used to classify a citation's governing
@@ -963,11 +982,6 @@ fn qualifier_boundary(value: &str) -> usize {
 /// that dot belongs to the numeral and must not hide a following instrument
 /// name such as `de la Constitución Política...`.
 fn instrument_context_boundary(value: &str) -> usize {
-    for ordinal in ["o.", "a.", "O.", "A.", "º.", "ª."] {
-        if let Some(rest) = value.strip_prefix(ordinal) {
-            return ordinal.len() + qualifier_boundary(rest);
-        }
-    }
     qualifier_boundary(value)
 }
 
@@ -1745,6 +1759,8 @@ mod tests {
     const REFERENCE_FIXTURE: &str = include_str!("../../../fixtures/lritf/reference-sample.txt");
     const RELATIVE_FIXTURE: &str =
         include_str!("../../../fixtures/lritf/relative-reference-sample.txt");
+    const RELATIVE_PRECEDES_FIXTURE: &str =
+        include_str!("../../../fixtures/lritf/relative-precedes-reference-sample.txt");
     const DCG_FIXTURE: &str = include_str!("../../../fixtures/ifpe-dcg-2021/parser-sample.txt");
     const DCG_ANNEX_1_FIXTURE: &str =
         include_str!("../../../fixtures/ifpe-dcg-2021/annex-1-sample.txt");
@@ -1752,6 +1768,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/reference-marker-lookahead-sample.txt");
     const ORDINAL_TITLE_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reference-ordinal-title-sample.txt");
+    const NUMERIC_ORDINAL_QUALIFIER_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reference-numeric-ordinal-qualifier-sample.txt");
     const DCG_ID: &str = "urn:lex-mx:federal:regulation:ifpe-dcg-2021";
     const LRITF_ID: &str = "urn:lex-mx:federal:statute:lritf";
     const LOOKAHEAD_ID: &str = "urn:lex-mx:federal:statute:marker-lookahead-fixture";
@@ -1987,6 +2005,45 @@ mod tests {
         assert_eq!(
             references[0].resolution_status,
             ReferenceResolutionStatus::Resolved
+        );
+    }
+
+    #[test]
+    fn numeric_ordinal_qualifier_keeps_external_instrument_context() {
+        let target = format!("{CPEUM_ID}:article:115");
+        let known_targets = HashSet::from([target.clone()]);
+        let references = extract_references(
+            &[],
+            Some((ORDINAL_TITLE_ID, NUMERIC_ORDINAL_QUALIFIER_FIXTURE.trim())),
+            &ReferenceOptions {
+                policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                    internal_markers: ["de esta ley", "de la presente ley", "esta ley"]
+                        .iter()
+                        .map(|marker| (*marker).to_owned())
+                        .collect(),
+                    external_instruments: vec![(
+                        "constitución general de la república".to_owned(),
+                        CPEUM_ID.to_owned(),
+                    )],
+                },
+                transitory_citations: false,
+                same_article_fractions: false,
+                relative_references: false,
+            },
+            &known_targets,
+        )
+        .unwrap();
+
+        assert_eq!(references.len(), 1);
+        assert_eq!(references[0].source_span, "115");
+        assert_eq!(references[0].target_provision_id, target);
+        assert_eq!(
+            references[0]
+                .qualifiers
+                .iter()
+                .map(|qualifier| qualifier.text.as_str())
+                .collect::<Vec<_>>(),
+            ["fracción III", "inciso b", "2o. párrafo"]
         );
     }
 
@@ -2390,6 +2447,22 @@ mod tests {
 
         let report = validate_lritf(&provisions, &references, 4, 2);
         assert!(report.valid, "{:?}", report.issues);
+    }
+
+    #[test]
+    fn resolves_article_that_precedes_as_previous_article() {
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let provisions = parse_lritf(RELATIVE_PRECEDES_FIXTURE, date).unwrap();
+        let references = extract_internal_references(&provisions).unwrap();
+        let relatives: Vec<_> = references
+            .iter()
+            .filter(|edge| edge.reference_form == ReferenceForm::Relative)
+            .collect();
+
+        assert_eq!(relatives.len(), 1);
+        assert!(relatives[0].source_provision_id.ends_with(":article:2"));
+        assert_eq!(relatives[0].source_span, "artículo que precede");
+        assert!(relatives[0].target_provision_id.ends_with(":article:1"));
     }
 
     #[test]
