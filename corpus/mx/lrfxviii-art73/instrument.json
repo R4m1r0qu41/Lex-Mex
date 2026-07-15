@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lrfxviii-art73",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la Facultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera",
+  "short_name": "LRFXVIII-ART73",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1982-12-27",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-15T17:01:25.777264Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf",
+  "source_sha256": "d946e7696c01236d288d0b36d4fa8a0ac61a937c6c4a1280a0913389852ec30b",
+  "extracted_text_sha256": "f3b2bf3c29ad7f5cbd9bb1c5f6661076a506d5f08c4e1e41c74939555b5c5b16",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

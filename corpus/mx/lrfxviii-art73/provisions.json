@@ -1,0 +1,65 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfxviii-art73:article:1",
+    "instrument_id": "urn:lex-mx:federal:statute:lrfxviii-art73",
+    "provision_type": "article",
+    "label": "Artículo 1o",
+    "number": "1o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El Banco de México al determinar el valor relativo de la moneda extranjera con la nacional, de conformidad con lo previsto en su Ley Orgánica, tomará en consideración como reglas generales, además de las existentes, los siguientes factores y criterios:\n\na) El equilibrio de la balanza de pagos;\n\nb) El desarrollo del comercio exterior del país;\n\nc) El mantenimiento del nivel adecuado de las reservas internacionales de divisas;\n\nd) El comportamiento del mercado de divisas;\n\ne) La obtención de divisas requeridas para el pago de los compromisos internacionales;\n\nf) El comportamiento de los niveles de precios y de las tasas de interés interno y externo; y\n\ng) La equidad entre acreedores y deudores de obligaciones denominadas en moneda extranjera, pagaderas en el Territorio Nacional.",
+    "publication_date": "1982-12-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "effective",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfxviii-art73:article:2",
+    "instrument_id": "urn:lex-mx:federal:statute:lrfxviii-art73",
+    "provision_type": "article",
+    "label": "Artículo 2o",
+    "number": "2o",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La valoración de los factores y criterios contenidos en las reglas del artículo anterior, tendrá por objeto promover el desarrollo equilibrado del país y el aseguramiento de la realización de los planes de desarrollo con justicia social.",
+    "publication_date": "1982-12-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "effective",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfxviii-art73:transitory:unico",
+    "instrument_id": "urn:lex-mx:federal:statute:lrfxviii-art73",
+    "provision_type": "transitory",
+    "label": "UNICO",
+    "number": "UNICO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.",
+    "publication_date": "1982-12-27",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "effective",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  }
+]

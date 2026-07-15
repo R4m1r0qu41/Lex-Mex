@@ -1,0 +1,39 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfxviii-art73:reference:52-54:73:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfxviii-art73",
+    "source_span": "73",
+    "start_char": 52,
+    "end_char": 54,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:73",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "Fracción XVIII",
+        "start_char": 24,
+        "end_char": 38
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lrfxviii-art73:article:2:reference:71-88:1:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lrfxviii-art73:article:2",
+    "source_span": "artículo anterior",
+    "start_char": 71,
+    "end_char": 88,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lrfxviii-art73",
+    "target_provision_id": "urn:lex-mx:federal:statute:lrfxviii-art73:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  }
+]
