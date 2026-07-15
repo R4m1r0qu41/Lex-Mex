@@ -1908,8 +1908,9 @@ fn latest_reform_date(raw: &str) -> Option<NaiveDate> {
     let regex = Regex::new(r"Última (?:r|R)eforma(?: publicada)? DOF (\d{2}-\d{2}-\d{4})")
         .expect("static regex");
     regex
-        .captures(raw)
-        .and_then(|captures| NaiveDate::parse_from_str(&captures[1], "%d-%m-%Y").ok())
+        .captures_iter(raw)
+        .filter_map(|captures| NaiveDate::parse_from_str(&captures[1], "%d-%m-%Y").ok())
+        .max()
 }
 
 fn cleanup_work(context: &InstrumentContext) -> Result<()> {
@@ -2009,7 +2010,21 @@ impl Paths {
 mod tests {
     use std::collections::{BTreeMap, HashMap};
 
-    use super::{InstrumentAliasTable, resolve_global_aliases};
+    use chrono::NaiveDate;
+
+    use super::{InstrumentAliasTable, latest_reform_date, resolve_global_aliases};
+
+    const STALE_RUNNING_HEADER_REFORM_DATE_FIXTURE: &str = include_str!(
+        "../../../fixtures/diputados/latest-reform-date-stale-running-header-sample.txt"
+    );
+
+    #[test]
+    fn latest_reform_date_uses_latest_matching_date() {
+        assert_eq!(
+            latest_reform_date(STALE_RUNNING_HEADER_REFORM_DATE_FIXTURE),
+            NaiveDate::from_ymd_opt(2025, 11, 14)
+        );
+    }
 
     #[test]
     fn global_aliases_include_only_descriptive_ingested_sibling_markers() {
