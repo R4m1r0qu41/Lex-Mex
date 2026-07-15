@@ -190,6 +190,84 @@ fn parse_article_start(block: &str) -> Option<(String, &str)> {
     None
 }
 
+/// Numeric value for a cardinal article heading such as `Artículo Primero`.
+/// Article labels elsewhere use numeric ordinal abbreviations (`1o`, `2o`),
+/// so this preserves the shared ordering and reference-ID convention while
+/// leaving the official provision text unchanged.
+fn ordinal_article_value(ordinal: &str) -> Option<u8> {
+    let normalized = ordinal
+        .to_uppercase()
+        .replace('Á', "A")
+        .replace('É', "E")
+        .replace('Í', "I")
+        .replace('Ó', "O")
+        .replace('Ú', "U")
+        .replace(' ', "");
+    let unit = |word| match word {
+        "PRIMERO" | "PRIMERA" => Some(1),
+        "SEGUNDO" | "SEGUNDA" => Some(2),
+        "TERCERO" | "TERCERA" => Some(3),
+        "CUARTO" | "CUARTA" => Some(4),
+        "QUINTO" | "QUINTA" => Some(5),
+        "SEXTO" | "SEXTA" => Some(6),
+        "SEPTIMO" | "SEPTIMA" => Some(7),
+        "OCTAVO" | "OCTAVA" => Some(8),
+        "NOVENO" | "NOVENA" => Some(9),
+        _ => None,
+    };
+    if let Some(value) = unit(&normalized) {
+        return Some(value);
+    }
+    match normalized.as_str() {
+        "UNDECIMO" | "UNDECIMA" => return Some(11),
+        "DUODECIMO" | "DUODECIMA" => return Some(12),
+        _ => {}
+    }
+    for (prefix, base) in [("DECIMO", 10), ("VIGESIMO", 20), ("TRIGESIMO", 30)] {
+        if normalized == prefix {
+            return Some(base);
+        }
+        if let Some(suffix) = normalized.strip_prefix(prefix)
+            && let Some(value) = unit(suffix)
+        {
+            return Some(base + value);
+        }
+    }
+    None
+}
+
+/// `Artículo Primero.- body` → `(1o, body)` when an older statute numbers
+/// its operative articles with ordinal words. These are distinct from
+/// decree-wrapper articles, which are filtered only when their body states an
+/// unmistakable promulgation or amendment action.
+fn parse_ordinal_article_start<'a>(
+    block: &'a str,
+    ordinals: &'a [String],
+) -> Option<(String, &'a str)> {
+    let after_prefix = ["Artículo ", "ARTÍCULO ", "Articulo ", "ARTICULO "]
+        .iter()
+        .find_map(|prefix| block.strip_prefix(prefix))?
+        .trim_start();
+    for ordinal in ordinals {
+        if let Some((matched, rest)) = strip_prefix_ci(after_prefix, ordinal) {
+            for separator in [".-", ".", "-"] {
+                if let Some(body) = rest.strip_prefix(separator) {
+                    let number = ordinal_article_value(matched)?;
+                    return Some((format!("{number}o"), body.trim()));
+                }
+            }
+        }
+    }
+    None
+}
+
+fn parse_statute_article_start<'a>(
+    block: &'a str,
+    ordinals: &'a [String],
+) -> Option<(String, &'a str)> {
+    parse_article_start(block).or_else(|| parse_ordinal_article_start(block, ordinals))
+}
+
 /// The leading base number of an article label (`70-A` → 70, `1o` → 1),
 /// for detecting a heading whose number regresses below the sequence.
 fn article_base(number: &str) -> Option<u64> {
@@ -297,30 +375,46 @@ fn is_transitory_section_header(block: &str) -> bool {
     )
 }
 
-/// A decree-wrapper article line using an ordinal word instead of a
-/// number: `Artículo Primero.- Se expide la Ley…` (promulgation) or
-/// `Artículo Segundo a Artículo Cuarto.- ……` (elided decree articles).
-/// Outside the transitory section these belong to the enacting decree,
-/// not the instrument, so they are dropped rather than folded into the
-/// preceding article. Inside the transitory section the same forms are
-/// transitorios and are handled there.
+/// A decree-wrapper article line using an ordinal word instead of a number:
+/// `Artículo Primero.- Se expide la Ley…` (promulgation) or `Artículos
+/// Segundo a Artículo Cuarto.- ……` (elided decree articles). An ordinal
+/// heading alone is insufficient because older statutes can use `Artículo
+/// Primero` and `Artículo Segundo` for their operative provisions.
 fn is_decree_article_wrapper(block: &str, ordinals: &[String]) -> bool {
-    let Some(rest) = [
-        "Artículo ",
-        "Artículos ",
-        "ARTÍCULO ",
-        "ARTÍCULOS ",
-        "ARTICULO ",
-        "ARTICULOS ",
+    let Some((rest, plural)) = [
+        ("Artículo ", false),
+        ("Artículos ", true),
+        ("ARTÍCULO ", false),
+        ("ARTÍCULOS ", true),
+        ("ARTICULO ", false),
+        ("ARTICULOS ", true),
     ]
     .iter()
-    .find_map(|prefix| block.strip_prefix(prefix)) else {
+    .find_map(|(prefix, plural)| block.strip_prefix(prefix).map(|rest| (rest, *plural))) else {
         return false;
     };
-    ordinals.iter().any(|ordinal| {
+    let Some((_, tail)) = ordinals.iter().find_map(|ordinal| {
         strip_prefix_ci(rest, ordinal)
-            .is_some_and(|(_, tail)| tail.chars().next().is_none_or(|c| !c.is_alphanumeric()))
-    })
+            .filter(|(_, tail)| tail.chars().next().is_none_or(|c| !c.is_alphanumeric()))
+    }) else {
+        return false;
+    };
+    if plural {
+        return true;
+    }
+    let body = tail
+        .trim_start_matches(['.', '-'])
+        .trim_start()
+        .to_uppercase();
+    [
+        "SE EXPIDE",
+        "SE REFORMA",
+        "SE ADICIONA",
+        "SE DEROGA",
+        "SE ABROGA",
+    ]
+    .iter()
+    .any(|action| body.starts_with(action))
 }
 
 fn is_immediate_structural(
@@ -622,7 +716,7 @@ pub fn parse_diputados(
                 }
                 continue;
             }
-            if let Some((number, body)) = parse_article_start(&block) {
+            if let Some((number, body)) = parse_statute_article_start(&block, &ordinals) {
                 let base = article_base(&number);
                 // A consolidated código quotes other laws' articles inside
                 // editorial notes ("…el artículo 54 de la citada Ley, a la
@@ -886,6 +980,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/reform-appendix-variants-sample.txt");
     const MULTIPLE_TRANSITORY_SECTIONS_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-multiple-transitory-sections-sample.txt");
+    const ORDINAL_STATUTE_ARTICLES_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/ordinal-statute-articles-sample.txt");
 
     fn options(instrument_id: &str, title: &str) -> DiputadosOptions {
         DiputadosOptions {
@@ -968,6 +1064,38 @@ mod tests {
             document.reform_evidence[0].provision_id,
             "urn:lex-mx:federal:code:sample:amendment:2020-07-01:transitory:vigesimo"
         );
+    }
+
+    #[test]
+    fn ordinal_word_statute_articles_are_not_dropped_as_decree_wrappers() {
+        let document = parse_diputados(
+            ORDINAL_STATUTE_ARTICLES_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:sample",
+                "Ley Reglamentaria de Muestra",
+            ),
+            NaiveDate::from_ymd_opt(1982, 12, 27).expect("valid date"),
+        )
+        .expect("ordinal statute-article fixture parses");
+
+        let articles: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|provision| provision.provision_type == ProvisionType::Article)
+            .collect();
+        assert_eq!(articles.len(), 2);
+        assert_eq!(articles[0].number, "1o");
+        assert_eq!(articles[0].text, "Regla operativa primera.");
+        assert_eq!(articles[1].number, "2o");
+        assert_eq!(articles[1].text, "Regla operativa segunda.");
+        let transitories: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|provision| provision.provision_type == ProvisionType::Transitory)
+            .collect();
+        assert_eq!(transitories.len(), 1);
+        assert_eq!(transitories[0].number, "UNICO");
+        assert_eq!(transitories[0].text, "Entrada en vigor.");
     }
 
     #[test]
