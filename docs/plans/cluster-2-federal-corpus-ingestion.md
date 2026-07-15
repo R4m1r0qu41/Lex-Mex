@@ -57,8 +57,8 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `b7653e22` (seven commits ahead of remote
-`main` at `8a3a0f9b`):
+Verified against local `main` at `7a62c205` (two commits ahead of remote
+`main` at `c47b45fb`):
 
 - `rgic` is committed and validates with 214 articles, 2 original
   transitories, 30 references, 23 reform-transitory evidence records, and zero
@@ -93,6 +93,17 @@ Verified against local `main` at `b7653e22` (seven commits ahead of remote
   `c1952e50` with fixtures for title-case structural headings, paragraph
   boundaries after page-wrapped amendment marks, and repeated transitory
   sections within one reform decree;
+- `lrart6-mdr`, the second CN2 instrument, is committed at `7a62c205` with
+  42 articles, 3 original transitories, 15 references, 3 defined terms, 6
+  reform-transitory evidence records, and zero validation issues; its source
+  SHA-256 is
+  `b3013ac434856f46bc973c4178d55c6d5d440730a42f3d7f8ca225730e0d382c`
+  and extracted-text SHA-256 is
+  `e7c915812ed8a49a288ace0ad3c8bebb5ed4d0901eeac84f46d6def7be3c5f4f`;
+- its shared parser/linker correction is isolated at `42b8bb61`: exact
+  heading grammar no longer mistakes a wrapped sentence beginning with
+  `Capítulo` for structure, and an ordinal dot such as `6o.` no longer hides
+  a following external-instrument marker;
 - exactly 55 prepared prompt files are staged for operator review: 53 manifests
   under `prompts/cluster-2-batches/` and the two federal cluster plans;
 - `.gitignore`, `README.md`, and `docs/project-status.md` remain modified and
@@ -106,7 +117,7 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-Provisionally process `lrart6-mdr`, the second entry in the reviewed CN2
+Provisionally process `lrfv-art76`, the third entry in the reviewed CN2
 operational manifest. Inspect its official PDF, adapter boundaries, canonical
 structure, reform evidence, references, validation report, and representative
 Markdown before freezing any proposed counts.
@@ -123,6 +134,7 @@ Markdown before freezing any proposed counts.
 - [x] (2026-07-15 02:46Z) Reviewed `fable/cross-linking`, selectively implemented the safe global-alias and bounded-marker paths at `942f201c`, added LOCGEUM/RGIC regression coverage, and closed CN1 after a five-instrument reverse relink produced 22 reviewed resolved edges and zero validation issues.
 - [x] (2026-07-15 03:10Z) Normalized prepared CN2 into `batches/constitutional_cn2_implementing_laws.json`, verified the 10 official Cámara source pairs, and advanced the pinned inventory to 28 manifests and 150 instruments.
 - [x] (2026-07-15 03:10Z) Ingested and committed `lrfiyii-art105` at `b7653e22` after isolating its parser hardening at `c1952e50`: 74 articles, 4 original transitories, 46 references, 45 reform-transitory evidence records, stable source hashes, and zero validation issues. The complete required gate passed, including both audited baseline validators and the new instrument validator.
+- [x] (2026-07-15 03:23Z) Ingested and committed `lrart6-mdr` at `7a62c205` after isolating two shared regressions at `42b8bb61`: 42 articles, 3 original transitories, 15 references, 3 defined terms, 6 reform-transitory evidence records, stable source hashes, and zero validation issues. The complete required gate passed with 82 workspace tests and both audited baseline validators.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
@@ -152,6 +164,18 @@ Markdown before freezing any proposed counts.
   Evidence: the 1996-11-22 appendix in `lrfiyii-art105` contains two such
   sections; date-plus-ordinal evidence IDs collided until later sections were
   deterministically qualified as `section-2`.
+- Observation: a title-case structural keyword can also be the first word of
+  a source line wrapped inside an ordinary legal sentence.
+  Evidence: Article 25 of `lrart6-mdr` wraps after `este`, leaving `Capítulo
+  deberán señalarse:` at the start of the next physical line; prefix-only
+  heading recognition introduced a false paragraph break until constrained
+  to the exact heading grammar.
+- Observation: the period in a Mexican ordinal article spelling is not a
+  sentence boundary for cross-instrument context.
+  Evidence: the title's `artículo 6o., ... de la Constitución` initially
+  targeted the statute's own Article 6; retaining context after the ordinal
+  dot correctly produces two reviewed CPEUM Article 6 edges, from the title
+  and Article 1.
 
 ## Decision log
 
@@ -187,6 +211,13 @@ Markdown before freezing any proposed counts.
   Rationale: this retains stable identifiers where unambiguous while making
   repeated ordinal labels unique without inventing legal-temporal conclusions.
   Date/author: 2026-07-15 / CN2 parser execution.
+- Decision: recognize an immediate structural heading only when the entire
+  physical line matches the accepted heading grammar, and treat `o.`, `a.`,
+  `º.`, and `ª.` immediately after a citation number as ordinal punctuation
+  when locating the governing instrument.
+  Rationale: both rules preserve official line-wrap semantics while keeping
+  true title-case headings and exact cross-instrument spans deterministic.
+  Date/author: 2026-07-15 / CN2 `lrart6-mdr` execution.
 
 ## Milestone 1: reconcile state and finish CN1
 
@@ -354,13 +385,13 @@ A human reviewer should be able to choose any admitted slug and verify all of th
 ## Outcomes and retrospective
 
 Current outcome: CN1 is structurally and graphically closed at `942f201c`, and
-CN2 is operational with its first of 10 instruments committed at `b7653e22`.
-All five CN1 instruments and `lrfiyii-art105` have reviewed canonical corpora
-and zero-issue validation. The first CN2 ingestion also hardened three generic
-Diputados boundaries with regression fixtures while preserving stable evidence
+CN2 has two of 10 instruments committed through `7a62c205`. All five CN1
+instruments plus `lrfiyii-art105` and `lrart6-mdr` have reviewed canonical
+corpora and zero-issue validation. The two CN2 ingestions have added five
+fixture-backed generic boundary corrections while preserving stable evidence
 IDs and canonical source text. Historical enactment-signature cleanup and
 corpus-wide relinking remain explicitly separate work; provisional ingestion
-of `lrart6-mdr` is next.
+of `lrfv-art76` is next.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 
