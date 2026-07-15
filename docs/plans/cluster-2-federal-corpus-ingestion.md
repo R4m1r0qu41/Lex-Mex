@@ -42,26 +42,53 @@ The relevant implementation surfaces are:
 
 `batch run` performs fetch, extract, parse, validation, optional count freezing, Markdown export, and optional Obsidian export. Parsing also extracts the current instrument's references and terms. The standalone `link <slug>` command recomputes references and terms for a previously parsed corpus against the siblings currently present.
 
-## Current baseline
+## Initial baseline
 
 The audited starting point for this plan is local `main` at `488057a5ce979d6261028e143ad7cbe6fab58fe7` (`Ingest Senate regulations and harden Diputados parsing`). At that commit:
 
 - `locg` is committed and validates with 151 articles, 8 original transitories, and zero issues (`97fa5cbc`);
 - `reg-diputados` is committed and validates with 323 articles, 13 original transitories, and zero issues (`553baa6e`);
 - `reg-senado` is committed and validates with 313 articles, 4 original transitories, and zero issues (`488057a5`);
-- `rgic` is committed and validates with 214 articles, 2 original transitories, 30 references, 23 reform-transitory evidence records, and zero issues (`2e061724`);
-- `ldofgg` is the remaining operational CN1 entry without an adapter or corpus directory;
-- `.gitignore`, the two federal cluster plans, and 53 prepared cluster-2 manifests are an existing dirty source wave and must be preserved;
-- the Agent Vault active-run capsule is stale at checkpoint 3: it still names `reg-senado` as next even though CN1 is now complete through `rgic`. Reconcile it through `2e061724` and set `ldofgg` as next before using the capsule for navigation or handoff.
+- `.gitignore`, the two federal cluster plans, and 53 prepared cluster-2
+  manifests are an existing dirty source wave and must be preserved.
+
+This initial baseline is immutable historical context. Later progress belongs
+in `Current checkpoint` and `Progress`, not in this list.
+
+## Current checkpoint
+
+Verified against local and remote `main` at `8a3a0f9b`:
+
+- `rgic` is committed and validates with 214 articles, 2 original
+  transitories, 30 references, 23 reform-transitory evidence records, and zero
+  issues (`2e061724`);
+- `ldofgg` is the remaining operational CN1 entry without an adapter or corpus
+  directory;
+- exactly 55 prepared prompt files are staged for operator review: 53 manifests
+  under `prompts/cluster-2-batches/` and the two federal cluster plans;
+- `.gitignore` remains modified and unstaged;
+- the Agent Vault active-run capsule is stale at checkpoint 3 and still names
+  `reg-senado` as next; reconcile it through `8a3a0f9b`, bind it to this plan's
+  path and digest, and set `ldofgg` as next before handoff use;
+- `fable/cross-linking` contains an existing global-alias and relinking
+  implementation beginning at `02088004`, based on pre-CN1 commit `92774db4`;
+  inspect and reconcile that divergent work before implementing another alias
+  solution on `main`.
 
 Do not assume these statements remain current. At every resumption, compare them with `git log`, `git status`, the operational manifest, adapter presence, corpus presence, validation files, and the active-run drift report.
+
+## Next action
+
+Reconcile the external active-run capsule through `8a3a0f9b`, preserve the
+55-file staged prompt wave and unstaged `.gitignore`, bind the capsule to this
+plan's committed path and current digest, and set `ldofgg` as checkpoint 5.
 
 ## Progress
 
 - [x] (2026-07-14 20:33Z) Ingested and committed `locg` at `97fa5cbc`; validation recorded zero issues.
 - [x] (2026-07-14 21:02Z) Ingested and committed `reg-diputados` at `553baa6e`; validation recorded zero issues.
 - [x] (2026-07-14 22:08Z) Ingested and committed `reg-senado` plus narrowly required parser fixtures and hardening at `488057a5`; validation recorded zero issues.
-- [ ] Reconcile the stale active-run capsule through HEAD `2e061724` and set `ldofgg` as the next action without silently re-baselining unrelated dirty state.
+- [ ] Reconcile the stale active-run capsule through HEAD `8a3a0f9b`, bind it to this task-named plan, and set `ldofgg` as the next action without silently re-baselining unrelated dirty state.
 - [x] (2026-07-14 22:44Z) Ingested, inspected, froze, relinked, validated, and committed `rgic` with the required parser regression at `2e061724`.
 - [ ] Ingest, inspect, freeze, relink, validate, and commit `ldofgg` as one reviewable unit.
 - [ ] Close CN1 with a reverse-link validation pass and an updated plan checkpoint.
@@ -71,13 +98,11 @@ Do not assume these statements remain current. At every resumption, compare them
 ## Surprises and discoveries
 
 - Observation: the active-run capsule is behind live repository state.
-  Evidence: checkpoint 3 names `reg-senado` as next, while HEAD `2e061724` contains valid committed corpora through `rgic`.
-- Observation: the batch-report JSON literal contains the `results` member twice.
-  Evidence: `run_batch` in `crates/lex-cli/src/main.rs` supplies two identical `"results": results` entries to `serde_json::json!`. Current reports look correct because the later identical value wins, but the duplicate is a maintenance defect and should be fixed separately with a regression test.
+  Evidence: checkpoint 3 names `reg-senado` as next, while documentation HEAD `8a3a0f9b` records valid committed corpora through `rgic`.
 - Observation: a successful batch run does not close reverse cross-instrument links.
   Evidence: each instrument extracts references against siblings present during its parse, but `run_batch` does not relink instruments processed earlier after a later target is added. A separate reverse relink pass is required unless batch orchestration is enhanced.
 - Observation: `adapters/diputados/_instrument-aliases.json` is not consumed by the current Rust linking path.
-  Evidence: repository search finds the alias file mentioned as folded configuration, but `external_instruments` in each `SourceConfig` is the only configured external-name input passed to reference extraction. Bulk adapters such as `locg`, `reg-diputados`, and `reg-senado` do not currently declare external instruments. Cross-instrument link completeness cannot be claimed until this gap is resolved and tested.
+  Evidence: repository search finds the alias file mentioned as folded configuration, but `external_instruments` in each `SourceConfig` is the only configured external-name input passed to reference extraction. Bulk adapters such as `locg`, `reg-diputados`, and `reg-senado` do not currently declare external instruments. The divergent `fable/cross-linking` branch already implements a global alias input; cross-instrument completeness on `main` cannot be claimed until that work is reviewed and integrated or deliberately replaced.
 
 ## Decision log
 
@@ -108,7 +133,12 @@ At the start of the next session, inspect the live repository before running any
     git log -5 --oneline
     python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py discover --repo . --inject
 
-Preserve the dirty `.gitignore` and prepared `prompts/` source wave. Reconcile the active-run checkpoint through the reviewed checkpoint command so its completed milestones include `reg-senado` and `rgic`, and its next action is `ldofgg`. If live HEAD, dirty state, or source digests have moved again, record that drift before changing the capsule.
+Preserve the unstaged `.gitignore` and the staged 55-file `prompts/` source
+wave. Reconcile the active-run checkpoint through the reviewed checkpoint
+command so its completed milestones include `reg-senado` and `rgic`, its plan
+binding names `docs/plans/cluster-2-federal-corpus-ingestion.md`, and its next
+action is `ldofgg`. If live HEAD, index state, dirty state, or source digests
+have moved again, record that drift before changing the capsule.
 
 RGIC completed the following provisional structural sequence before its counts
 were frozen; retain it as the checkpoint audit trail:
@@ -220,7 +250,7 @@ Before staging, prove scope explicitly:
     git status --short
     git diff --check
     git diff --stat
-    git diff -- adapters/ corpus/ crates/ fixtures/ docs/ batches/ PLAN.md
+    git diff -- adapters/ corpus/ crates/ fixtures/ docs/ batches/ PLANS.md
 
 Stage an exact reviewed path list. Never use a broad add command in the dirty worktree. Verify `git diff --cached --name-only` and `git diff --cached --check` before committing. Routine commit execution may route to the harness's approved mechanical model tier, but the parent session owns the path selection, semantic review, and message. Never push unless the operator separately requests it.
 
@@ -257,7 +287,7 @@ A human reviewer should be able to choose any admitted slug and verify all of th
 
 ## Outcomes and retrospective
 
-Current outcome: CN1 is partially complete through `rgic`; `ldofgg` is the final structural unit. The external active-run capsule still requires reconciliation before it is used for navigation or handoff. The batch-report duplicate key, missing batch reverse-link phase, and disconnected alias registry remain flagged defects.
+Current outcome: CN1 is partially complete through `rgic`; `ldofgg` is the final structural unit. The external active-run capsule still requires reconciliation before it is used for navigation or handoff. The missing batch reverse-link phase and disconnected alias registry on `main` remain flagged defects; the existing `fable/cross-linking` implementation must be reviewed before either is rebuilt.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 

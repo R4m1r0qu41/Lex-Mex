@@ -60,23 +60,43 @@ repository's trust boundaries and expected engineering discipline.
   environment configuration out of Git.
 - Preserve unrelated local changes and avoid destructive Git operations.
 
+## Execution planning
+
+- Read `PLANS.md` before work that spans multiple milestones, sessions, or
+  contributors, or that requires an explicit recovery and handoff sequence.
+- Keep living execution state in one task-named file under `docs/plans/`; do
+  not create a generic mutable root `PLAN.md`.
+- Keep prepared source inventories and prompts distinct from execution plans,
+  and bind any external active-run capsule to the applicable task plan by path
+  and digest.
+
 ## Model Routing
 
-Default model for substantive work: Claude Sonnet 5 (`claude-sonnet-5`),
-effort `medium`. Raise to `high` for parser/canonicalization changes,
-schema-boundary changes, or anything touching review-state transitions.
+Routing is provider-neutral and must stay inside the harness executing the
+work. Never invoke another provider's CLI for a routine validation or commit.
 
-Haiku (`claude-haiku-4-5-20251001`) is mandatory for purely mechanical work:
-all commits, and all invocations of `cargo fmt --check`,
-`cargo clippy --workspace --all-targets -- -D warnings`, `cargo test --workspace`,
-and `cargo run --locked -p lex-cli -- validate lritf` with pass/fail
-reporting. Writing a new fixture, adding a parser rule, or diagnosing a
-validation failure is judgment work and stays on Sonnet 5 — only running the
-command and reporting the result routes to Haiku.
+- Claude: substantive work defaults to Sonnet 5 (`claude-sonnet-5`), effort
+  `medium`; purely mechanical execution routes to Haiku
+  (`claude-haiku-4-5-20251001`).
+- Codex: ambiguous or open-ended substantive work stays on the Sol parent at
+  medium; exact mechanical execution routes to the project-local `mechanical`
+  agent (`gpt-5.6-luna`, low). Use `triage` (Luna medium), `worker` (Terra
+  medium), `worker_high` (Terra high), or `frontier_high` (Sol high) for the
+  corresponding bounded task class. Never run Luna high; `xhigh`, `max`, and
+  `ultra` require explicit operator approval for the specific invocation.
 
-Escalate to Opus only when Sonnet 5 has failed the same task twice, or the
-task is a genuine legal-temporal-modeling design call (new effect category,
-schema version bump). Start on Sonnet 5; escalate on evidence, not by default.
+Purely mechanical execution includes an already reviewed commit and running
+`cargo fmt --check`, `cargo clippy --workspace --all-targets -- -D warnings`,
+`cargo test --workspace`, or
+`cargo run --locked -p lex-cli -- validate lritf` with pass/fail reporting.
+Writing a fixture, adding a parser rule, diagnosing a validation failure,
+choosing commit contents, or resolving unexpected scope is judgment work and
+returns to the parent.
+
+Within Claude, escalate to Opus only when Sonnet 5 has failed the same task
+twice, or the task is a genuine legal-temporal-modeling design call (new effect
+category, schema version bump). Start on Sonnet 5; escalate on evidence, not by
+default.
 Note: this routing rule governs the coding-agent side only — it has no
 bearing on the separate `--provider codex` temporal-analysis path, which is
 a distinct, schema-gated model call inside the pipeline itself, not a
