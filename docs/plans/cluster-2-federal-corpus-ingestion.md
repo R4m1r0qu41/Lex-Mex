@@ -57,7 +57,7 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `942f201c` (four commits ahead of remote
+Verified against local `main` at `b7653e22` (seven commits ahead of remote
 `main` at `8a3a0f9b`):
 
 - `rgic` is committed and validates with 214 articles, 2 original
@@ -78,6 +78,21 @@ Verified against local `main` at `942f201c` (four commits ahead of remote
 - final CN1 reference counts are 41/47/51/31/1 for
   `locg`/`reg-diputados`/`reg-senado`/`rgic`/`ldofgg`; every instrument
   validates with zero issues and every added span and target was inspected;
+- prepared CN2 is normalized as
+  `batches/constitutional_cn2_implementing_laws.json`: all 10 entries retain
+  their verified official Cámara reference and PDF sources, none is blocked,
+  and no expected edge was invented where the prepared manifest supplied none;
+- the operational-manifest inventory is now 28 manifests and 150 instruments;
+- `lrfiyii-art105`, the first CN2 instrument, is committed at `b7653e22` with
+  74 articles, 4 original transitories, 46 references, 45 reform-transitory
+  evidence records, and zero validation issues; its source SHA-256 is
+  `b99f96ee0d44bd781d14cfdc7f94358bd6d3f6ed17c3bd3aadcf5d149873edeb`
+  and extracted-text SHA-256 is
+  `34e6b8f137e02054a2ca1567de109faa54801c7a28b40f02ca046ecd928eca43`;
+- the parser hardening required by that first instrument is isolated at
+  `c1952e50` with fixtures for title-case structural headings, paragraph
+  boundaries after page-wrapped amendment marks, and repeated transitory
+  sections within one reform decree;
 - exactly 55 prepared prompt files are staged for operator review: 53 manifests
   under `prompts/cluster-2-batches/` and the two federal cluster plans;
 - `.gitignore`, `README.md`, and `docs/project-status.md` remain modified and
@@ -91,10 +106,10 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-Normalize prepared batch CN2 into an operational manifest under `batches/`,
-preserving blocked entries, official-source boundaries, dependencies, and
-expected-edge notes. Admit one instrument at a time through the provisional
-parse and reviewed count-freeze sequence.
+Provisionally process `lrart6-mdr`, the second entry in the reviewed CN2
+operational manifest. Inspect its official PDF, adapter boundaries, canonical
+structure, reform evidence, references, validation report, and representative
+Markdown before freezing any proposed counts.
 
 ## Progress
 
@@ -106,6 +121,8 @@ parse and reviewed count-freeze sequence.
 - [x] (2026-07-15 02:28Z) Ingested, inspected, froze, relinked, validated, and committed `ldofgg` at `727aa5d1`: 20 articles, 2 original transitories, 1 reference, 7 reform-transitory evidence records, and zero issues. Added a focused stop-marker fixture so enactment signatures do not contaminate its final transitory.
 - [x] (2026-07-15 02:31Z) Relinked, validated, and regenerated Markdown for all five CN1 instruments. Counts remained 31/40/47/30/1 references, every validation reported zero issues, and Git recorded no canonical diff.
 - [x] (2026-07-15 02:46Z) Reviewed `fable/cross-linking`, selectively implemented the safe global-alias and bounded-marker paths at `942f201c`, added LOCGEUM/RGIC regression coverage, and closed CN1 after a five-instrument reverse relink produced 22 reviewed resolved edges and zero validation issues.
+- [x] (2026-07-15 03:10Z) Normalized prepared CN2 into `batches/constitutional_cn2_implementing_laws.json`, verified the 10 official Cámara source pairs, and advanced the pinned inventory to 28 manifests and 150 instruments.
+- [x] (2026-07-15 03:10Z) Ingested and committed `lrfiyii-art105` at `b7653e22` after isolating its parser hardening at `c1952e50`: 74 articles, 4 original transitories, 46 references, 45 reform-transitory evidence records, stable source hashes, and zero validation issues. The complete required gate passed, including both audited baseline validators and the new instrument validator.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
@@ -125,6 +142,16 @@ parse and reviewed count-freeze sequence.
   title resolves when present.
 - Observation: enactment signatures contaminate the final original transitory in many older committed Diputados corpora.
   Evidence: the provisional LDOFGG parse appended the 1986 congressional signatures and presidential promulgation block to Transitory Segundo; a repository-wide exact search found the same `Rúbrica` pattern in numerous existing final transitories, including `rgic` and `reg-senado`. LDOFGG is corrected narrowly with its existing adapter stop-marker boundary, but historical cleanup requires a separately reviewed canonical migration.
+- Observation: Diputados documents can use title-case structural headings and
+  place a new paragraph after an amendment mark separated by page furniture.
+  Evidence: the provisional `lrfiyii-art105` parse absorbed `Capítulo III` into
+  Article 70 and joined the following paragraph to a preceding `DOF` amendment
+  marker until focused fixtures reproduced both boundaries.
+- Observation: a single reform decree can contain more than one transitory
+  section and restart ordinal labels within the same publication date.
+  Evidence: the 1996-11-22 appendix in `lrfiyii-art105` contains two such
+  sections; date-plus-ordinal evidence IDs collided until later sections were
+  deterministically qualified as `section-2`.
 
 ## Decision log
 
@@ -154,6 +181,12 @@ parse and reviewed count-freeze sequence.
   intentionally ignored underscore filename, so consuming that file plus the
   independently reviewed marker-start bound closes CN1 with a narrow diff.
   Date/author: 2026-07-15 / checkpoint 6 execution.
+- Decision: preserve the established evidence IDs for the first transitory
+  section of a reform decree and qualify only later same-decree sections with
+  `section-N`; reject any remaining duplicate evidence ID.
+  Rationale: this retains stable identifiers where unambiguous while making
+  repeated ordinal labels unique without inventing legal-temporal conclusions.
+  Date/author: 2026-07-15 / CN2 parser execution.
 
 ## Milestone 1: reconcile state and finish CN1
 
@@ -320,14 +353,14 @@ A human reviewer should be able to choose any admitted slug and verify all of th
 
 ## Outcomes and retrospective
 
-Current outcome: CN1 is structurally and graphically closed at `942f201c`.
-All five instruments have reviewed canonical corpora and zero-issue validation;
-the reverse-link pass added 22 exact, resolved presentation links while
-preserving canonical source text and every prior edge. The active alias
-registry and bounded marker-start rule now provide the deterministic mechanism
-required for later reverse-link passes. Historical enactment-signature cleanup
-and corpus-wide relinking remain explicitly separate work; CN2 normalization
-is next.
+Current outcome: CN1 is structurally and graphically closed at `942f201c`, and
+CN2 is operational with its first of 10 instruments committed at `b7653e22`.
+All five CN1 instruments and `lrfiyii-art105` have reviewed canonical corpora
+and zero-issue validation. The first CN2 ingestion also hardened three generic
+Diputados boundaries with regression fixtures while preserving stable evidence
+IDs and canonical source text. Historical enactment-signature cleanup and
+corpus-wide relinking remain explicitly separate work; provisional ingestion
+of `lrart6-mdr` is next.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 
