@@ -142,7 +142,7 @@ impl ReferencePatterns {
         )*$",
             )?,
             paragraph: Regex::new(
-                r"(?i)\b(?:(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último)(?:\s+(?:,|y|o)\s+(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último))*|\d{1,2}[oaºª]\.?)\s+párrafos?\b",
+                r"(?i)\b(?:(?:(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último)(?:\s+(?:,|y|o)\s+(?:primer|primero|segundo|tercer|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último))*|\d{1,2}[oaºª]\.?)\s+párrafos?|párrafos?\s+(?:primero|segundo|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último)(?:\s*(?:,|y|o)\s*(?:primero|segundo|tercero|cuarto|quinto|sexto|séptimo|octavo|noveno|décimo|último))*)\b",
             )?,
             fraction: Regex::new(
                 r"(?i)\bfracci(?:ón|ones)\s+[IVXLCDM]+(?:\s*(?:,|y|o)\s*[IVXLCDM]+)*\b",
@@ -587,7 +587,11 @@ fn accepted_numbers<'a>(group: &'a str, patterns: &ReferencePatterns) -> Vec<reg
     let Some(first) = candidates.first() else {
         return Vec::new();
     };
-    if !group[..first.start()].trim().is_empty() {
+    let leading = group[..first.start()].trim();
+    if !leading.is_empty()
+        && !leading.eq_ignore_ascii_case("constitucional")
+        && !leading.eq_ignore_ascii_case("constitucionales")
+    {
         return Vec::new();
     }
     let mut accepted = vec![*first];
@@ -1770,6 +1774,9 @@ mod tests {
         include_str!("../../../fixtures/diputados/reference-ordinal-title-sample.txt");
     const NUMERIC_ORDINAL_QUALIFIER_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reference-numeric-ordinal-qualifier-sample.txt");
+    const CONSTITUTIONAL_ARTICLE_LIST_FIXTURE: &str = include_str!(
+        "../../../fixtures/diputados/reference-constitutional-article-list-sample.txt"
+    );
     const DCG_ID: &str = "urn:lex-mx:federal:regulation:ifpe-dcg-2021";
     const LRITF_ID: &str = "urn:lex-mx:federal:statute:lritf";
     const LOOKAHEAD_ID: &str = "urn:lex-mx:federal:statute:marker-lookahead-fixture";
@@ -2045,6 +2052,38 @@ mod tests {
                 .collect::<Vec<_>>(),
             ["fracción III", "inciso b", "2o. párrafo"]
         );
+    }
+
+    #[test]
+    fn constitutional_article_list_keeps_numbers_and_noun_first_qualifiers() {
+        let targets = [109, 110, 114].map(|number| format!("{CPEUM_ID}:article:{number}"));
+        let known_targets = targets.iter().cloned().collect();
+        let references = extract_references(
+            &[],
+            Some((ORDINAL_TITLE_ID, CONSTITUTIONAL_ARTICLE_LIST_FIXTURE.trim())),
+            &ReferenceOptions {
+                policy: InstrumentContextPolicy::SentenceEarliestMarker {
+                    internal_markers: Vec::new(),
+                    external_instruments: vec![("constitucional".to_owned(), CPEUM_ID.to_owned())],
+                },
+                transitory_citations: false,
+                same_article_fractions: false,
+                relative_references: false,
+            },
+            &known_targets,
+        )
+        .unwrap();
+
+        assert_eq!(
+            references
+                .iter()
+                .map(|reference| reference.target_provision_id.as_str())
+                .collect::<Vec<_>>(),
+            targets.iter().map(String::as_str).collect::<Vec<_>>()
+        );
+        assert_eq!(references[0].qualifiers[0].text, "fracción I");
+        assert_eq!(references[1].qualifiers[0].text, "párrafo segundo");
+        assert_eq!(references[2].qualifiers[0].text, "párrafo primero");
     }
 
     #[test]
