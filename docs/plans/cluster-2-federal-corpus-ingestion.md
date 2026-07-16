@@ -57,7 +57,7 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `614fe4a9` (15 commits ahead of remote
+Verified against local `main` at `1f262295` (17 commits ahead of remote
 `main` at `47004f56`):
 
 - `rgic` is committed and validates with 214 articles, 2 original
@@ -181,6 +181,11 @@ Verified against local `main` at `614fe4a9` (15 commits ahead of remote
   were absent from adapters, corpus, and prior operational manifests; none is
   blocked; the prepared source pairs and order are preserved; and the live
   Cámara recheck was recorded as inconclusive after a TLS handshake failure;
+- the unanalyzed temporal default is corrected at `1f262295`: ordinary
+  `not_analyzed` provisions now start `unknown`, express repeal notes remain
+  deterministically `repealed`, validation rejects the old unsupported
+  default, and the matching 30,124-provision canonical/Markdown migration
+  preserved every reviewed determination and passed all 144 corpus validators;
 - the 55 prepared prompt files are committed at `ca6a4649`: 53 manifests
   under `prompts/cluster-2-batches/` and the two federal cluster plans;
 - the worktree was clean before provisional `lfrm` ingestion; the prior
@@ -197,11 +202,10 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-Review and disposition the post-CN2 engineering audit before provisionally
-processing `lplan`. In particular, resolve the unsupported `effective`
-default for `not_analyzed` provisions and decide how batch completion will
-enforce reverse relinking and expected-edge recall rather than relying only on
-manual closure.
+After the operator switches to Terra high, implement and test the bounded
+batch-closure change: successful batch completion must reverse-relink the
+selected instruments and evaluate the manifest's `expected_edges` recall
+oracle. Stop for review before provisionally processing `lplan`.
 
 ## Progress
 
@@ -228,6 +232,7 @@ manual closure.
 - [x] (2026-07-16 19:21Z) Closed the ten-instrument CN2 reverse-link, validation, and Markdown pass at `34449eb6`. Final CN2 totals are 334 articles, 28 original transitories, 147 references, 11 defined terms, 108 term usages, and 96 reform-transitory evidence records. Every validator reports zero issues; the only reverse-pass canonical change preserved the official-title qualifier `párrafo primero` on the existing `lrart6-mdr` CPEUM Article 6 edge.
 - [x] (2026-07-16 20:18Z) Normalized and committed AD1 at `614fe4a9`, advancing the operational inventory to 29 manifests and 156 unique instruments. All six entries were absent, unblocked, and preserved in prepared order; the workspace tests, formatting, clippy, and both audited baseline validators passed. Live Cámara verification was inconclusive because the official host failed its TLS handshake.
 - [x] (2026-07-16 20:21Z) Audited the accumulated ingestion regressions after CN2. The 87-test workspace strongly covers parser and temporal primitives, but identified two correctness risks before further scale: freshly parsed, unanalyzed provisions default to `effective` even when consolidated text records SCJN invalidity, and batch success neither reverse-relinks earlier instruments nor evaluates the manifest's `expected_edges` recall oracle. Secondary debt remains in exact-title alias discovery, pre-ingestion commit provenance, and untested CLI orchestration.
+- [x] (2026-07-16 20:39Z) Corrected the unanalyzed temporal boundary at `1f262295`. Ordinary provisions now begin `unknown`; explicit source-text repeal notes remain deterministically `repealed`; and validation rejects an unanalyzed status that disagrees with that rule. The reviewed migration changed only temporal-status lines for 30,124 canonical provisions and matching Markdown across 144 corpora, retained 3,592 explicit repeals and all 22 reviewed states, passed 89 workspace tests and all required gates, and left every corpus validator valid.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
@@ -243,12 +248,14 @@ manual closure.
   but has no reader outside `lex-source`; `run_batch` returns success after
   per-instrument validation even when earlier instruments have not seen later
   sibling targets.
-- Observation: the structural parser currently assigns `effective` to every
-  non-repeal provision before temporal analysis.
-  Evidence: `initial_temporal_status` returns `Effective` by default, while
-  committed LFRM Articles 32, 59, and 61 retain express SCJN invalidity notes
-  and simultaneously export `temporal_status: effective` with
-  `review_status: not_analyzed`.
+- Observation: the former structural default assigned `effective` to every
+  non-repeal provision before temporal analysis; this is resolved at
+  `1f262295`.
+  Evidence: LFRM Articles 32, 59, and 61 exposed the contradiction by retaining
+  express SCJN invalidity notes while exporting `effective/not_analyzed`.
+  `initial_temporal_status` now returns `Unknown` for ordinary text, the
+  validator enforces that boundary, and the corpus-wide migration changed no
+  content beyond the matching canonical and presentation status fields.
 - Observation: exact official titles of committed siblings are not automatic
   cross-instrument markers.
   Evidence: global linking uses only the curated alias table plus per-adapter
