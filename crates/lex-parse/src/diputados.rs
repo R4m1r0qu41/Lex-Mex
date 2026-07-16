@@ -843,6 +843,18 @@ fn is_reform_transitory_section_header(block: &str) -> bool {
         || uppercase.starts_with("ARTICULOS TRANSITORIOS DEL DECRETO")
 }
 
+fn decree_publication_date(
+    block: &str,
+    publication_re: &Regex,
+    ordinals: &[String],
+) -> Option<NaiveDate> {
+    if is_provision_start(block, ordinals) {
+        return None;
+    }
+    let captures = publication_re.captures(block)?;
+    spanish_date(&captures[1], &captures[2].to_lowercase(), &captures[3])
+}
+
 /// Isolate the consolidated document's reform-decree appendix
 /// (`ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA`) into per-decree
 /// transitory evidence for temporal analysis.
@@ -858,6 +870,7 @@ pub fn extract_reform_evidence(
     let mut in_reform_appendix = false;
     let mut in_transitories = false;
     let mut publication_date: Option<NaiveDate> = None;
+    let mut decree_heading: Option<String> = None;
     let mut decree_occurrence: Option<usize> = None;
     let mut transitory_section_occurrence = 0;
     let mut decrees_by_date: std::collections::HashMap<NaiveDate, usize> =
@@ -881,20 +894,22 @@ pub fn extract_reform_evidence(
             flush_reform(&options.instrument_id, &mut current, &mut evidence);
             in_transitories = false;
             publication_date = None;
+            decree_heading = Some(block.clone());
             decree_occurrence = None;
             transitory_section_occurrence = 0;
         }
         // Wrapped decree titles can share a block with their publication
-        // note. Once the transitory section has begun, however, the same
-        // wording is a citation inside legal text and must not replace the
-        // containing decree's date or consume that transitory block.
-        if !in_transitories && let Some(captures) = publication_re.captures(&block) {
-            publication_date = spanish_date(&captures[1], &captures[2], &captures[3]);
-            if let Some(date) = publication_date {
-                let occurrence = decrees_by_date.entry(date).or_default();
-                *occurrence += 1;
-                decree_occurrence = Some(*occurrence);
-            }
+        // note. A decree's operative article can quote an earlier decree's
+        // publication date, so only title material—not a provision—may set
+        // the containing decree's date. Once the transitory section has
+        // begun, the same wording is likewise a citation inside legal text.
+        if !in_transitories
+            && let Some(date) = decree_publication_date(&block, &publication_re, &ordinals)
+        {
+            publication_date = Some(date);
+            let occurrence = decrees_by_date.entry(date).or_default();
+            *occurrence += 1;
+            decree_occurrence = Some(*occurrence);
             continue;
         }
         if is_reform_transitory_section_header(&block) {
@@ -929,7 +944,8 @@ pub fn extract_reform_evidence(
             flush_reform(&options.instrument_id, &mut current, &mut evidence);
             let date = publication_date.ok_or_else(|| {
                 anyhow::anyhow!(
-                    "found reform transitory {ordinal:?} without its Diario Oficial publication date"
+                    "found reform transitory {ordinal:?} without its Diario Oficial publication date after decree heading {:?}",
+                    decree_heading.as_deref().unwrap_or("<none>")
                 )
             })?;
             current = Some(ReformEvidenceBuilder {
@@ -978,6 +994,8 @@ mod tests {
     );
     const REFORM_VARIANTS_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-appendix-variants-sample.txt");
+    const REFORM_PUBLICATION_CITATION_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reform-publication-citation-sample.txt");
     const MULTIPLE_TRANSITORY_SECTIONS_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-multiple-transitory-sections-sample.txt");
     const ORDINAL_STATUTE_ARTICLES_FIXTURE: &str =
@@ -1282,6 +1300,21 @@ mod tests {
         assert_eq!(
             evidence[6].label,
             "Transitorio Único — Decreto 2 DOF 2023-09-22"
+        );
+    }
+
+    #[test]
+    fn reform_publication_citation_does_not_replace_containing_decree_date() {
+        let evidence = super::extract_reform_evidence(
+            REFORM_PUBLICATION_CITATION_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+        )
+        .expect("publication citation in the operative article does not strand a transitory");
+
+        assert_eq!(evidence.len(), 1);
+        assert_eq!(
+            evidence[0].provision_id,
+            "urn:lex-mx:federal:statute:sample:amendment:2015-12-18:transitory:primero"
         );
     }
 
