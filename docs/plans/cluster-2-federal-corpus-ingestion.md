@@ -57,7 +57,7 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `e10a49da4` (28 commits ahead of remote
+Verified against local `main` at `e503364bb` (30 commits ahead of remote
 `main` at `47004f56`):
 
 - `rgic` is committed and validates with 214 articles, 2 original
@@ -205,6 +205,11 @@ Verified against local `main` at `e10a49da4` (28 commits ahead of remote
   transitories, 2 resolved references, 5 defined terms with 39 usages, 5
   reform-transitory evidence records, frozen counts, stable source hashes, and
   zero validation issues; its 1990 signature boundary is adapter-scoped;
+- `lfrpe` is committed at `e503364bb` with 35 articles, 2 original
+  transitories, 6 resolved references, 21 reform-transitory evidence records,
+  frozen counts, stable source hashes, and zero validation issues; its 2004
+  enactment-signature boundary is adapter-scoped and removes the spurious CPEUM
+  Article 89 reference without changing shared parser behavior;
 - the 55 prepared prompt files are committed at `ca6a4649`: 53 manifests
   under `prompts/cluster-2-batches/` and the two federal cluster plans;
 - the worktree was clean before provisional `lfrm` ingestion; the prior
@@ -222,7 +227,7 @@ Do not assume these statements remain current. At every resumption, compare them
 ## Next action
 
 The operator accepted the bounded closure on 2026-07-16. Provisionally process
-next AD1 statute `lfrpe` through the Rust pipeline, inspect and freeze its
+next AD1 statute `lfrsp` through the Rust pipeline, inspect and freeze its
 structural baseline, and record any reusable deterministic parser, linker, or
 adapter learning before moving to the next AD1 instrument. Corpus-wide
 relinking and human expected-edge review remain separate work.
@@ -258,6 +263,7 @@ relinking and human expected-edge review remain separate work.
 - [x] (2026-07-16 21:36Z) Ingested and committed AD1 hub `lplan` at `2713decd6`: 48 articles, 5 original transitories, 7 resolved references, no terms, 64 reform-transitory evidence records, stable source hashes, and zero validation issues. The provisional parse exposed the original enactment-signature block after transitory QUINTO; the exact 1982 signature-date marker is configured only in the adapter, which removes that non-canonical text and its spurious CPEUM Article 89 edge. The frozen rerun, bounded closure, full 91-test workspace gate, and audited baseline validators passed.
 - [x] (2026-07-16 22:11Z) Ingested and committed `lfep` at `d168dd79c`: 69 articles (including 59 BIS), 8 original transitories, 27 resolved references, no terms, 111 reform-transitory evidence records, stable source hashes, and zero validation issues. The LFEP reform appendix revealed that an operative `ARTÍCULO ÚNICO` quoting an earlier uppercase DOF date could overwrite the containing decree's publication date and strand a later transitory. Parser correction `0cedabdc8` limits date recognition to decree-title material, normalizes valid month casing, preserves context in any future error, and adds a focused fixture. An LFEP adapter marker separately excludes the original 1986 enactment signatures and their spurious CPEUM Article 89 edge. The frozen rerun and full 92-test gate passed.
 - [x] (2026-07-16 22:50Z) Ingested and committed `reg-lfep` at `e10a49da4`: 46 articles, 3 original transitories, 2 resolved references, 5 defined terms with 39 usages, 5 reform-transitory evidence records, stable source hashes, and zero validation issues. The original third transitory ended before the exact 1990 enactment-signature block; that narrow boundary is adapter configuration, not a shared parser defect. The frozen rerun and full 92-test gate passed.
+- [x] (2026-07-16 23:09Z) Ingested and committed `lfrpe` at `e503364bb`: 35 articles, 2 original transitories, 6 resolved references, no terms, 21 reform-transitory evidence records, stable source hashes, and zero validation issues. The original second transitory ended before the exact 2004 enactment-signature block; that narrow adapter marker removes the spurious CPEUM Article 89 edge without a shared parser change. The frozen rerun and full 92-test gate passed.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
