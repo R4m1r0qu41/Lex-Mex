@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfcpo",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfcpo.htm",
+  "retrieved_at": "2026-07-16T17:14:06.696357Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 362563,
+  "etag": "\"58843-5c2b7b8df5100\"",
+  "last_modified": "Thu, 20 May 2021 00:07:00 GMT",
+  "source_sha256": "f4b823e5581b0e3e9737fe4d96171be41941bd7cc512ca0cfaf186047c0a05c2",
+  "extracted_text_sha256": "185ff62bb64c3b619cb1b6cfc57e68568666f2c85c9155c56791d31ff4ba799f",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "ca6a46494be224c6ff1dee351318b857e93c7640"
+}

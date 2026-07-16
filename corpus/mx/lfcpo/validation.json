@@ -1,0 +1,9 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfcpo",
+  "valid": true,
+  "article_count": 65,
+  "transitory_count": 6,
+  "reference_count": 15,
+  "issues": []
+}

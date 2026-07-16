@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfcpo",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Consulta Popular",
+  "short_name": "LFCPO",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-03-14",
+  "latest_reform_date": "2021-05-19",
+  "retrieved_at": "2026-07-16T17:14:06.696357Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCPo_190521.pdf",
+  "source_sha256": "f4b823e5581b0e3e9737fe4d96171be41941bd7cc512ca0cfaf186047c0a05c2",
+  "extracted_text_sha256": "185ff62bb64c3b619cb1b6cfc57e68568666f2c85c9155c56791d31ff4ba799f",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
