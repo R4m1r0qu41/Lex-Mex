@@ -57,7 +57,7 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `1f262295` (17 commits ahead of remote
+Verified against local `main` at `21863ef31` (18 commits ahead of remote
 `main` at `47004f56`):
 
 - `rgic` is committed and validates with 214 articles, 2 original
@@ -186,6 +186,10 @@ Verified against local `main` at `1f262295` (17 commits ahead of remote
   deterministically `repealed`, validation rejects the old unsupported
   default, and the matching 30,124-provision canonical/Markdown migration
   preserved every reviewed determination and passed all 144 corpus validators;
+- bounded batch closure is committed at `21863ef31`: after successful selected
+  instruments enter the corpus, the batch command reverse-links, validates,
+  republishes, and evaluates concrete expected-edge recall before it can
+  report success; the hermetic regression covers the complete closure path;
 - the 55 prepared prompt files are committed at `ca6a4649`: 53 manifests
   under `prompts/cluster-2-batches/` and the two federal cluster plans;
 - the worktree was clean before provisional `lfrm` ingestion; the prior
@@ -202,10 +206,9 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-Review the bounded batch-closure implementation before provisionally
-processing `lplan`. It must remain limited to successfully selected
-instruments; corpus-wide relinking and human expected-edge review remain
-separate work.
+Operator review of `21863ef31` is the next action. Do not provisionally
+process `lplan` until that review accepts the bounded closure; corpus-wide
+relinking and human expected-edge review remain separate work.
 
 ## Progress
 
@@ -233,7 +236,7 @@ separate work.
 - [x] (2026-07-16 20:18Z) Normalized and committed AD1 at `614fe4a9`, advancing the operational inventory to 29 manifests and 156 unique instruments. All six entries were absent, unblocked, and preserved in prepared order; the workspace tests, formatting, clippy, and both audited baseline validators passed. Live Cámara verification was inconclusive because the official host failed its TLS handshake.
 - [x] (2026-07-16 20:21Z) Audited the accumulated ingestion regressions after CN2. The 87-test workspace strongly covers parser and temporal primitives, but identified two correctness risks before further scale: freshly parsed, unanalyzed provisions default to `effective` even when consolidated text records SCJN invalidity, and batch success neither reverse-relinks earlier instruments nor evaluates the manifest's `expected_edges` recall oracle. Secondary debt remains in exact-title alias discovery, pre-ingestion commit provenance, and untested CLI orchestration.
 - [x] (2026-07-16 20:39Z) Corrected the unanalyzed temporal boundary at `1f262295`. Ordinary provisions now begin `unknown`; explicit source-text repeal notes remain deterministically `repealed`; and validation rejects an unanalyzed status that disagrees with that rule. The reviewed migration changed only temporal-status lines for 30,124 canonical provisions and matching Markdown across 144 corpora, retained 3,592 explicit repeals and all 22 reviewed states, passed 89 workspace tests and all required gates, and left every corpus validator valid.
-- [x] (2026-07-16 20:49Z) Implemented bounded batch closure: after successful selected instruments enter the corpus, `batch run` reverse-relinks, validates, and republishes them, then records `expected_edges` as satisfied, missing, deferred, or invalid in its report. Missing or malformed concrete expectations fail the batch; unavailable targets and sources not processed in the run remain explicit deferrals. The CLI regression covers whole-instrument and article-scoped checks, missing edges, unresolved edges, unavailable targets, partial runs, malformed syntax, and a full temporary-corpus reverse-link/validate/export closure.
+- [x] (2026-07-16 20:49Z) Implemented bounded batch closure at `21863ef31`: after successful selected instruments enter the corpus, `batch run` reverse-relinks, validates, and republishes them, then records `expected_edges` as satisfied, missing, deferred, or invalid in its report. Missing or malformed concrete expectations fail the batch; unavailable targets and sources not processed in the run remain explicit deferrals. The CLI regression covers whole-instrument and article-scoped checks, missing edges, unresolved edges, unavailable targets, partial runs, malformed syntax, and a full temporary-corpus reverse-link/validate/export closure. The full gate passed with 91 workspace tests and both audited baseline validators.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
