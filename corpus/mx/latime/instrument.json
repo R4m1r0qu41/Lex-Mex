@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:latime",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Sobre la Aprobación de Tratados Internacionales en Materia Económica",
+  "short_name": "LATIME",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2004-09-02",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-07-16T19:18:13.557506Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf",
+  "source_sha256": "2f9532986cf47aef5de1f50af5e758333d65b7fdab15489bb0c41c36bcb60133",
+  "extracted_text_sha256": "667fce0c913df660d7492a1bfcd84610317795d9af4f5177fe2ab5f7958a28e2",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
