@@ -1,0 +1,69 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "administration_ad1_planning_paraestatals",
+  "description": "AD1 federal planning and para-statal administration statutes and regulation admitted from the prepared source inventory.",
+  "notes": [
+    "Normalized from prompts/cluster-2-batches/lex-mex-cl2-batch-AD1.json for the repository Rust ingestion gate.",
+    "All six prepared entries were absent from adapters, corpus/mx, and existing operational batch manifests when this manifest was created.",
+    "The prepared manifest contains no blocked entries and no expected_edges; none were invented during normalization.",
+    "The prepared official Cámara de Diputados reference-page and consolidated-PDF URL pairs are preserved. A live recheck on 2026-07-16 was inconclusive because the Cámara host failed its TLS handshake.",
+    "Instrument order is preserved from the prepared cluster-2 plan; the LFEP parent statute precedes its regulation."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lplan",
+      "title": "LEY de Planeación",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lplan.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf"
+    },
+    {
+      "slug": "lfep",
+      "title": "LEY Federal de las Entidades Paraestatales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfep.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEP.pdf"
+    },
+    {
+      "slug": "reg-lfep",
+      "title": "REGLAMENTO de la Ley Federal de las Entidades Paraestatales",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEP.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEP.pdf"
+    },
+    {
+      "slug": "lfrpe",
+      "title": "LEY Federal de Responsabilidad Patrimonial del Estado",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf"
+    },
+    {
+      "slug": "lfrsp",
+      "title": "LEY Federal de Responsabilidades de los Servidores Públicos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRSP.pdf"
+    },
+    {
+      "slug": "lgbn",
+      "title": "LEY General de Bienes Nacionales",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgbn.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGBN.pdf"
+    }
+  ]
+}
