@@ -15,9 +15,8 @@ records every check as `satisfied`, `missing`, `deferred`, or `invalid`.
 Missing and malformed concrete expectations fail closure; a target absent from
 the committed corpus, or a source not processed in this run (including
 `--only`), remains explicitly deferred rather than producing an invented edge
-or a false pass. This remains
-a bounded batch check, not a substitute for the deferred corpus-wide relink
-and review program.
+or a false pass. This remains a bounded batch check, not a substitute for the
+deferred corpus-wide relink and review program.
 
 ## 2026-07-16 — Unanalyzed temporal status is unknown
 
