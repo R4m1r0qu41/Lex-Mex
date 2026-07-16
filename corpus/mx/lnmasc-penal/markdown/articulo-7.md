@@ -7,7 +7,7 @@ provision_type: article
 number: "7"
 aliases: ["LNMASC-PENAL — Artículo 7"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LNMASCMP.pdf
 source_sha256: 8a0aca9303ab941a600274fd68043576bd7a55bae4ec228a3479398de0fcb332

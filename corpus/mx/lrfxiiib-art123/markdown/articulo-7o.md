@@ -7,7 +7,7 @@ provision_type: article
 number: "7o"
 aliases: ["LRFXIIIB-ART123 — Artículo 7o"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRFXIIIB_Art123.pdf
 source_sha256: 57ec1adca9a93f6403430d9a0e202d49216fa2c83997706c08d93b88cdd46dea

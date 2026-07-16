@@ -7,7 +7,7 @@ provision_type: article
 number: "49"
 aliases: ["REG-LAERO — Artículo 49"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAero.pdf
 source_sha256: ce9204744d8b891c2d3f235544ce29902e70df09b9aa205e901ca25af82ec776

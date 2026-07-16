@@ -7,7 +7,7 @@ provision_type: article
 number: "1o"
 aliases: ["LRFXVIII-ART73 — Artículo 1o"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/204.pdf
 source_sha256: d946e7696c01236d288d0b36d4fa8a0ac61a937c6c4a1280a0913389852ec30b

@@ -7,7 +7,7 @@ provision_type: article
 number: "66"
 aliases: ["REG-LGS-MT — Artículo 66"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MT.pdf
 source_sha256: 9ff708994e8bad54142e90da50dd0ffe7c58b739b77d89c5c31a5162abfb1429

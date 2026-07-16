@@ -7,7 +7,7 @@ provision_type: article
 number: "75"
 aliases: ["REG-LFPC — Artículo 75"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPC_191219.pdf
 source_sha256: 2587146ec169db7ba3623f0df1d9097a9a0ddb70b1c5acbc4f0414afa84f0b0c

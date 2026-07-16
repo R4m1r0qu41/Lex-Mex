@@ -7,7 +7,7 @@ provision_type: article
 number: "63"
 aliases: ["LGMSV — Artículo 63"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGMSV.pdf
 source_sha256: 79f2b255a142d1756d7e8c13244af6dc8c4f2f474acaf0d669f2b156b022fc03

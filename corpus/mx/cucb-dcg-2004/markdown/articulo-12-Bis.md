@@ -7,7 +7,7 @@ provision_type: article
 number: "12 Bis"
 aliases: ["DCG-CUCB-2004 — Artículo 12 Bis"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [11]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20casas%20de%20bolsa.pdf

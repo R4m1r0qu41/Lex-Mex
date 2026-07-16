@@ -22,7 +22,9 @@ Temporal analysis remains intentionally narrower than structural ingestion.
 The audited temporal corpus currently covers LRITF, `ifpe-dcg-2021`, and
 `itf-dcg-2018`; one legal review remains pending for the ITF DCG's derogated
 transitory SÉPTIMO. Newly normalized instruments stay `not_analyzed` until a
-separate schema-gated temporal pass is authorized.
+separate schema-gated temporal pass is authorized: ordinary provisions carry
+`temporal_status: unknown`, while an express source-text repeal note is
+recorded deterministically as `repealed`.
 
 > [!IMPORTANT]
 > Lex-Mex is not an official publication, is not affiliated with the Mexican

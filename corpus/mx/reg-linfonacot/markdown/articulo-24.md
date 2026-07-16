@@ -7,7 +7,7 @@ provision_type: article
 number: "24"
 aliases: ["REG-LINFONACOT — Artículo 24"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LIFNCT.pdf
 source_sha256: 1462bbacad053d49c213e32c1859dd914c1415d2c37c6a22970bd87877a9c9bd

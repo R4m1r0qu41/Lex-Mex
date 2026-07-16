@@ -7,7 +7,7 @@ provision_type: article
 number: "1"
 aliases: ["DCG-SCAP-2012 — Artículo 1"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [2,11,15,20,21,26,34]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20actividades%20de%20las%20sociedades%20cooperativas%20de%20ahorro%20y%20pr%C3%A9stamo.pdf

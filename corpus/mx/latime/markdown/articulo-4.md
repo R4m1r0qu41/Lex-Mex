@@ -7,7 +7,7 @@ provision_type: article
 number: "4"
 aliases: ["LATIME — Artículo 4"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/271.pdf
 source_sha256: 2f9532986cf47aef5de1f50af5e758333d65b7fdab15489bb0c41c36bcb60133

@@ -7,7 +7,7 @@ provision_type: article
 number: "68 Bis"
 aliases: ["REG-LAPP — Artículo 68 Bis"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAPP_200217.pdf
 source_sha256: 4ff895e3a71cad0980a03360585d24750d7e165b6ea2537fc44c5c05f9142ce7

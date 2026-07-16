@@ -7,7 +7,7 @@ provision_type: article
 number: "63"
 aliases: ["LFTSE — Artículo 63"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf
 source_sha256: 2055ea67ac6fb6642ef90d1970e8ebf9870a0cb40c71930aa99d12dd446870fe

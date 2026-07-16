@@ -7,7 +7,7 @@ provision_type: article
 number: "9o"
 aliases: ["REG-LGEEPA-MEIA — Artículo 9o"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MEIA_311014.pdf
 source_sha256: c7790df38b773b04e4769459d5fd49cca5b7a5b4955f7618632117275259071f

@@ -7,7 +7,7 @@ provision_type: transitory
 number: "PRIMERO"
 aliases: ["REG-LFPIORPI — PRIMERO"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPIORPI.pdf
 source_sha256: 8072a83eb174130772570505982e2ed0e6a7f0687db64e5efc309dfb4d2902b9

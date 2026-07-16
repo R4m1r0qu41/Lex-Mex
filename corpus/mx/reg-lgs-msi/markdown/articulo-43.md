@@ -7,7 +7,7 @@ provision_type: article
 number: "43"
 aliases: ["REG-LGS-MSI — Artículo 43"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MSI.pdf
 source_sha256: 44746db892329cfe37f9f1642d6e385f18c3ecade102b2742aa5c7bf67168dc7

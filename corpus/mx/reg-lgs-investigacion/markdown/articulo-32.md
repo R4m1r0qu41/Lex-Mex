@@ -7,7 +7,7 @@ provision_type: article
 number: "32"
 aliases: ["REG-LGS-INVESTIGACION — Artículo 32"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MIS.pdf
 source_sha256: f135d534dcd7a2734bc7f44e9381e7173c7d8033e1df75a2d4fb132d956e848b

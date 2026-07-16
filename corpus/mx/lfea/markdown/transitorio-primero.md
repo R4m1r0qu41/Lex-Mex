@@ -7,7 +7,7 @@ provision_type: transitory
 number: "Primero"
 aliases: ["LFEA — Primero"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf
 source_sha256: 102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842

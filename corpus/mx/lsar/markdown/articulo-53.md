@@ -7,7 +7,7 @@ provision_type: article
 number: "53"
 aliases: ["LSAR — Artículo 53"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LSAR.pdf
 source_sha256: 02ff746c921b436a1ab6c74e5f1bc429976595b1b0f82cb8c5b50db1004128c1

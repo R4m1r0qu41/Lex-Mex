@@ -7,7 +7,7 @@ provision_type: article
 number: "4"
 aliases: ["REG-LFEA — Artículo 4"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEA.pdf
 source_sha256: 910ba43ef1ae54b3b12fe325f65c81056191fde641c52a10ba709f0f1a39021f

@@ -7,7 +7,7 @@ provision_type: transitory
 number: "SEGUNDO"
 aliases: ["REG-LGN — SEGUNDO"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGN_111220.pdf
 source_sha256: ea6e39560929f2e1998b2dabe0852fde0d684c69e5be49aab7f33433299bbeb0

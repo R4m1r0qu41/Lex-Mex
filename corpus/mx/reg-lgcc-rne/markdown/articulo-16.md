@@ -7,7 +7,7 @@ provision_type: article
 number: "16"
 aliases: ["REG-LGCC-RNE — Artículo 16"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCC_MRNE_281014.pdf
 source_sha256: 62420210c5aaffe687daf130a64ff506009625340c554bfb36d2f1b5dcac0192

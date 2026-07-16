@@ -7,7 +7,7 @@ provision_type: article
 number: "310"
 aliases: ["LFT — Artículo 310"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf
 source_sha256: 12f09393a1951a91c3f57f579bf611b034edf1a5f78cdbfb828e23ff3a9acbf7

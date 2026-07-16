@@ -7,7 +7,7 @@ provision_type: article
 number: "50"
 aliases: ["LDFEFM — Artículo 50"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LDFEFM.pdf
 source_sha256: 04c25edb67f0a8b6704cd7d56b7a4bb9f455c77a060199962317bbdb7c889247

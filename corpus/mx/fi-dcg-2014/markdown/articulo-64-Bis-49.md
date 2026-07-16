@@ -7,7 +7,7 @@ provision_type: article
 number: "64 Bis 49"
 aliases: ["DCG-FI-2014 — Artículo 64 Bis 49"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [19]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20los%20fondos%20de%20inversi%C3%B3n%20y%20a%20las%20personas%20que%20les%20prestan%20servicios.pdf

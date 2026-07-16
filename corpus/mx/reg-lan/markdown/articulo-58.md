@@ -7,7 +7,7 @@ provision_type: article
 number: "58"
 aliases: ["REG-LAN — Artículo 58"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAN_250814.pdf
 source_sha256: d89b6ae3d665f7e2719a8779000df6e294d5df33946baf9e94e8558262e9d399

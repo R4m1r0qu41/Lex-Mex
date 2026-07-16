@@ -7,7 +7,7 @@ provision_type: article
 number: "53"
 aliases: ["LTF — Artículo 53"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LTF.pdf
 source_sha256: ef712663724737ddfd8542c8104eeb983303f651b7cf8a76bba9d30539a7e6fa

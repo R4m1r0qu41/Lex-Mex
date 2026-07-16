@@ -7,7 +7,7 @@ provision_type: article
 number: "32"
 aliases: ["LGCG — Artículo 32"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCG.pdf
 source_sha256: cf7f5220f083bdcd8eed4104bbdf40299221f32cd5c51e17b1f03b033e677815

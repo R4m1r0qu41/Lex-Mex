@@ -7,7 +7,7 @@ provision_type: article
 number: "26"
 aliases: ["LFEA — Artículo 26"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEA.pdf
 source_sha256: 102031c59185ac31397dbd722281bc02046fd4f5db4af7fb9348ffeddcbb2842

@@ -7,7 +7,7 @@ provision_type: article
 number: "52"
 aliases: ["DCG-SERVINV-2013 — Artículo 52"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 amendment_marks: [3]
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20entidades%20financieras%20y%20dem%C3%A1s%20personas%20que%20proporcionen%20servicios%20de.pdf

@@ -7,7 +7,7 @@ provision_type: article
 number: "166"
 aliases: ["REG-DIPUTADOS — Artículo 166"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/Reg_Diputados.pdf
 source_sha256: 6fa1d25c31c4d8c2cc8074208b10a2f3ff35fecce26c1cc03ba18117cfec80d1

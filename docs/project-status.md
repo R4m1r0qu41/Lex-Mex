@@ -88,7 +88,10 @@ fixtures.
 
 Structural ingestion and temporal legal analysis are separate programs.
 Newly normalized instruments are committed with `review_status: not_analyzed`
-unless a distinct temporal run is authorized.
+unless a distinct temporal run is authorized. Their ordinary provisions start
+with `temporal_status: unknown`; only an express source-text repeal note starts
+`repealed`. Validation rejects an unanalyzed `effective` status so structural
+ingestion cannot silently make a legal-effectiveness determination.
 
 The audited temporal vertical slice currently consists of:
 

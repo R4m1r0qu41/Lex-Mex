@@ -7,7 +7,7 @@ provision_type: article
 number: "30"
 aliases: ["LRART6-MDR — Artículo 30"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt6_MDR.pdf
 source_sha256: b3013ac434856f46bc973c4178d55c6d5d440730a42f3d7f8ca225730e0d382c

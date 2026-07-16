@@ -7,7 +7,7 @@ provision_type: article
 number: "9o"
 aliases: ["LDOFGG — Artículo 9o"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/75_100619.pdf
 source_sha256: 2fc2a18634f230fef75fe9a4e16ab6e6d3c6e20c0b29aa5929bd839b475e16f3

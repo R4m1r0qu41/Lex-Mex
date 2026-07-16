@@ -7,7 +7,7 @@ provision_type: article
 number: "2o. Ter"
 aliases: ["LFDO — Artículo 2o. Ter"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCDO.pdf
 source_sha256: 6f9b44bd6bc8c19aad3747e9198f2c5543b0415afa4a3cd63b4bd995091932ad

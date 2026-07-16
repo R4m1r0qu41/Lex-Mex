@@ -7,7 +7,7 @@ provision_type: article
 number: "8"
 aliases: ["REG-LINFONAVIT-MTAI — Artículo 8"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LInfonavit_MTAI.pdf
 source_sha256: b52444aaf66a5f36e252e598494c117526e5d9737de08de41061168ea46addd9

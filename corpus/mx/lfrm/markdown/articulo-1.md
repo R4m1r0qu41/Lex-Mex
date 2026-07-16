@@ -7,7 +7,7 @@ provision_type: article
 number: "1"
 aliases: ["LFRM — Artículo 1"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRM.pdf
 source_sha256: eddfcf458c46cacee55392a138412b0d014bcc306c455d92ed94250efce4904c

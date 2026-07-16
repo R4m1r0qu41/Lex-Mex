@@ -7,7 +7,7 @@ provision_type: article
 number: "58"
 aliases: ["REG-LAASSP — Artículo 58"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAASSP.pdf
 source_sha256: 940a253624138d30b02fa48711786f4b2637c99bcb195ee0ada59748474ed76b

@@ -7,7 +7,7 @@ provision_type: article
 number: "38"
 aliases: ["LINS — Artículo 38"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LINS.pdf
 source_sha256: 40271b07f2d2236f7e4d722d2b61f35db2d82772543dcf4911097efe13697c5e

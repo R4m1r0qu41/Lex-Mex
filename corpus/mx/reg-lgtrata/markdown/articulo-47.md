@@ -7,7 +7,7 @@ provision_type: article
 number: "47"
 aliases: ["REG-LGTRATA — Artículo 47"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGPSEDMTP.pdf
 source_sha256: 1d398a90955ef45ccb7baf4d56534c676cde8325e8b109c4d32120909e783694

@@ -7,7 +7,7 @@ provision_type: article
 number: "7o"
 aliases: ["LPUE — Artículo 7o"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/65_071220.pdf
 source_sha256: 36f74d61a6190ff8005805ad80aa6cf90f7d5bf2209d24bdaf32f51d21214daf

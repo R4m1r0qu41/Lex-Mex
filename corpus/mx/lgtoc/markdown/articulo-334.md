@@ -7,7 +7,7 @@ provision_type: article
 number: "334"
 aliases: ["LGTOC — Artículo 334"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTOC.pdf
 source_sha256: cf8a5d05500ddbe21885db4a8f1128cf95b3aaab95b7982a47aa33baea652361

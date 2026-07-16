@@ -7,7 +7,7 @@ provision_type: article
 number: "164"
 aliases: ["REG-LFDA — Artículo 164"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFDA.pdf
 source_sha256: 2beb1a3a5c23de93f1588ce6d4e4c209e73a8d747f19e3165706f38abcee8fe3

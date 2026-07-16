@@ -7,7 +7,7 @@ provision_type: article
 number: "53"
 aliases: ["LOTFJA — Artículo 53"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LOTFJA.pdf
 source_sha256: b32c33fa4ed071dc8bea1ad69ce8510cdb05016967e9e4fcb60f10c6f2216628

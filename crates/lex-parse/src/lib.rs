@@ -742,12 +742,12 @@ fn reference_edge(
 }
 
 /// The temporal status a freshly parsed provision starts with, before any
-/// temporal determination is applied. A consolidated current text's
-/// provisions are in force (`Effective`) by default; a provision whose
-/// text is a repeal note — `(Se deroga)`, `Derogado` — is a derogado
-/// article and starts `Repealed`. A later temporal determination
-/// (reapplied from persisted results for the analyzed instruments)
-/// overrides this for the provisions it covers.
+/// temporal determination is applied. A consolidated current text proves the
+/// source wording, not the legal effectiveness of every provision it prints,
+/// so ordinary provisions start `Unknown`. An explicit repeal note —
+/// `(Se deroga)`, `Derogado` — is a narrow deterministic source fact and
+/// starts `Repealed`. A later temporal determination (reapplied from persisted
+/// results for analyzed instruments) overrides this initial state.
 pub(crate) fn initial_temporal_status(text: &str) -> lex_core::TemporalStatus {
     let head = text.trim_start().to_lowercase();
     if head.starts_with("(se deroga")
@@ -757,7 +757,7 @@ pub(crate) fn initial_temporal_status(text: &str) -> lex_core::TemporalStatus {
     {
         lex_core::TemporalStatus::Repealed
     } else {
-        lex_core::TemporalStatus::Effective
+        lex_core::TemporalStatus::Unknown
     }
 }
 
@@ -1247,6 +1247,19 @@ fn validate_provisions(
                 "page header leaked into provision text".to_owned(),
                 Some(provision.id.clone()),
             ));
+        }
+        if provision.review_status == lex_core::ReviewStatus::NotAnalyzed {
+            let expected = initial_temporal_status(&provision.text);
+            if provision.temporal_status != expected {
+                issues.push(error(
+                    "unanalyzed_temporal_status",
+                    format!(
+                        "not_analyzed provision must start {expected:?}, found {:?}",
+                        provision.temporal_status
+                    ),
+                    Some(provision.id.clone()),
+                ));
+            }
         }
         match provision.provision_type {
             ProvisionType::Article => {
@@ -1750,13 +1763,16 @@ mod tests {
     use std::collections::HashSet;
 
     use chrono::NaiveDate;
-    use lex_core::{ReferenceForm, ReferenceQualifierType, ReferenceResolutionStatus};
+    use lex_core::{
+        ReferenceForm, ReferenceQualifierType, ReferenceResolutionStatus, TemporalStatus,
+    };
     use pretty_assertions::assert_eq;
 
     use super::{
         DiputadosOptions, InstrumentContextPolicy, ReferenceOptions,
         contains_page_header_contamination, extract_internal_references, extract_references,
-        extract_reform_evidence, parse_dcg, parse_diputados, validate_lritf,
+        extract_reform_evidence, initial_temporal_status, parse_dcg, parse_diputados,
+        validate_lritf,
     };
 
     const FIXTURE: &str = include_str!("../../../fixtures/lritf/parser-sample.txt");
@@ -2268,6 +2284,41 @@ mod tests {
         let provisions = parse_lritf(FIXTURE, date).unwrap();
         let report = validate_lritf(&provisions, &[], 2, 2);
         assert!(report.valid, "{:?}", report.issues);
+    }
+
+    #[test]
+    fn unanalyzed_temporal_status_is_unknown_except_for_an_explicit_repeal_note() {
+        assert_eq!(
+            initial_temporal_status("La presente Ley es de orden público."),
+            TemporalStatus::Unknown
+        );
+        assert_eq!(
+            initial_temporal_status(
+                "[Texto invalidado.] Artículo declarado inválido por sentencia de la SCJN."
+            ),
+            TemporalStatus::Unknown
+        );
+        assert_eq!(
+            initial_temporal_status("(Se deroga)."),
+            TemporalStatus::Repealed
+        );
+    }
+
+    #[test]
+    fn validation_rejects_an_effective_status_without_temporal_analysis() {
+        let date = NaiveDate::from_ymd_opt(2018, 3, 9).unwrap();
+        let mut provisions = parse_lritf(FIXTURE, date).unwrap();
+        provisions[0].temporal_status = TemporalStatus::Effective;
+
+        let report = validate_lritf(&provisions, &[], 2, 2);
+
+        assert!(!report.valid, "{:?}", report.issues);
+        assert!(
+            report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "unanalyzed_temporal_status")
+        );
     }
 
     const GAPPED_CODIGO: &str = "Artículo 1o.- Uno.\n\nArtículo 2o.- Dos.\n\nArtículo 15.- Quince.\n\nArtículo 15-A.- Quince A.\n\nArtículo 17.- Diecisiete.\n\nTRANSITORIOS\n\nPRIMERO.- Entrará en vigor.\n";

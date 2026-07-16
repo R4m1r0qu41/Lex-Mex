@@ -7,7 +7,7 @@ provision_type: article
 number: "218"
 aliases: ["LISSSTE — Artículo 218"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf
 source_sha256: aa6e0e437331debd80d0086155e2d99885ea5e22cb13353c44eb0b1090f0b4d5

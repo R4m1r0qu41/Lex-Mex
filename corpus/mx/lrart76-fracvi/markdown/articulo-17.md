@@ -7,7 +7,7 @@ provision_type: article
 number: "17"
 aliases: ["LRART76-FRACVI — Artículo 17"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LRArt76_fracVI.pdf
 source_sha256: bb06062d0e0454e928090853dd4071bfd19b713abe553033285147a67c323531

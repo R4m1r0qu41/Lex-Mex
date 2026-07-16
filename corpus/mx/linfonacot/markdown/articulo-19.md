@@ -7,7 +7,7 @@ provision_type: article
 number: "19"
 aliases: ["LINFONACOT — Artículo 19"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNCT.pdf
 source_sha256: 78fb5069898e5e58096511208e3cfa308922eb1c5c68f68c4ecd80b20c6f422f

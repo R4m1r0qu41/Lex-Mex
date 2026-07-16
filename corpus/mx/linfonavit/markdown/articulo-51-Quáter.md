@@ -7,7 +7,7 @@ provision_type: article
 number: "51 Quáter"
 aliases: ["LINFONAVIT — Artículo 51 Quáter"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf
 source_sha256: 9ee6e5ef336dee5700726bd3c570d24f91fc458136e298ae2e3806bd12217912

@@ -7,7 +7,7 @@ provision_type: article
 number: "195"
 aliases: ["REG-LGS-MCSAEPS — Artículo 195"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGS_MCSAEPS_281204.pdf
 source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f

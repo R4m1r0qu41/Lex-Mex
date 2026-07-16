@@ -7,7 +7,7 @@ provision_type: article
 number: "39"
 aliases: ["LCPAF — Artículo 39"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LCPAF.pdf
 source_sha256: 9133f4bfc63f4f6ee32f3657ba4468c67b2eb9db46410ed893c85e693018a036

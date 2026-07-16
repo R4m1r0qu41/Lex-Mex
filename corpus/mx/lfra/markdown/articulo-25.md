@@ -7,7 +7,7 @@ provision_type: article
 number: "25"
 aliases: ["LFRA — Artículo 25"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRA.pdf
 source_sha256: 7211b1c71876d2ea4776c11dc1e045ebbb34b7e98b130f16c7864f75f5e90744

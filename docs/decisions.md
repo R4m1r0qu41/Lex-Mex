@@ -1,5 +1,34 @@
 # Architecture decisions
 
+## 2026-07-16 — Unanalyzed temporal status is unknown
+
+A consolidated current source establishes the wording the publisher presents;
+it does not, by itself, establish that every printed provision is legally
+effective. Consolidations may retain provisions affected by judicial
+invalidity, delayed commencement, or another temporal condition. The prior
+parser default introduced at `9429d2bb` therefore made an unsupported legal
+inference by assigning `effective` before temporal analysis.
+
+Freshly parsed ordinary provisions now start `unknown` while
+`review_status` remains `not_analyzed`. Only an explicit repeal note at the
+start of the source text (`Se deroga`, `Derogado`, and the existing narrow
+variants) starts `repealed`; that is a deterministic transcription of the
+publisher's express notation, not a model or reviewer conclusion. Persisted
+machine-accepted, review-required, and lawyer-verified temporal
+determinations continue to override the parser's initial state and retain
+their evidence hashes, bases, dates, confidence, and review history.
+
+Validation enforces this boundary: a `not_analyzed` provision must carry the
+deterministic initial status implied by its exact text, so a future parser,
+import, or hand edit cannot silently restore `effective` as an unanalyzed
+default. The one-time canonical migration changed 30,124 unanalyzed ordinary
+provisions across 144 corpora from `effective` to `unknown`, with matching
+generated Markdown. It left 3,592 explicit repeal notes, one pending reviewed
+repeal, and all 21 accepted or lawyer-verified effective determinations
+unchanged. This migration records no JRH legal-review decision and does not
+alter official source text, reference edges, terms, provenance, or temporal
+evidence.
+
 ## 2026-07-14 — Diputados split headings and reform-appendix identity
 
 Ingesting the Reglamento del Senado de la República exposed two independent

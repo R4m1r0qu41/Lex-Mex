@@ -7,7 +7,7 @@ provision_type: article
 number: "53"
 aliases: ["DCG-ITF-2018 — Artículo 53"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20instituciones%20de%20tecnolog%C3%ADa%20financiera.pdf
 source_sha256: 71787505c1b264e4e329816c009c4c1cf210f4e8889119412f83f6b1853998a2

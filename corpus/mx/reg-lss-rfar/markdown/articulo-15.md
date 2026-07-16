@@ -7,7 +7,7 @@ provision_type: article
 number: "15"
 aliases: ["REG-LSS-RFAR — Artículo 15"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_RFARGFA.pdf
 source_sha256: 4b4529ce2b1275ea9363ab78b6e2d504cd1106bc3d10fd70f09246c38b0cd31e

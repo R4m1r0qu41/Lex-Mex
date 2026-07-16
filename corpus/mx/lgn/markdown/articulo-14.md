@@ -7,7 +7,7 @@ provision_type: article
 number: "14"
 aliases: ["LGN — Artículo 14"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGN.pdf
 source_sha256: dfe63e9a5dca843a804e5d7878671e2899f2b088534d9ed9813e9878c20b12bd

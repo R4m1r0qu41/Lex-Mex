@@ -7,7 +7,7 @@ provision_type: article
 number: "10"
 aliases: ["REG-LGEEPA-MRETC — Artículo 10"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGEEPA_MRETC_311014.pdf
 source_sha256: 71c334347de911b670b7e920a44db19f2555f611203ec25d227733687972f424

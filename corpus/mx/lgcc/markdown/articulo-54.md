@@ -7,7 +7,7 @@ provision_type: article
 number: "54"
 aliases: ["LGCC — Artículo 54"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LGCC.pdf
 source_sha256: fa7447754261e46a344d4b49a9be0e1a5bd0eaf28c1ef12c721c124fe39e7b15

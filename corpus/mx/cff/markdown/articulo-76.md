@@ -7,7 +7,7 @@ provision_type: article
 number: "76"
 aliases: ["CFF — Artículo 76"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf
 source_sha256: be7427b20d3552775ab42018f8f87578078770095bf8cf46322c25e36ee3aa7d

@@ -7,7 +7,7 @@ provision_type: article
 number: "337"
 aliases: ["CPF — Artículo 337"]
 generated: true
-temporal_status: effective
+temporal_status: unknown
 review_status: not_analyzed
 source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf
 source_sha256: a2d80c4383c5fbc8453cf290c19b7853eb0a5a05d1e366572da384edfafda88c
