@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lsct",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSCT.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsct.htm",
+  "retrieved_at": "2026-07-16T19:15:47.451458Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 441197,
+  "etag": "\"6bb6d-6451bc6435940\"",
+  "last_modified": "Thu, 04 Dec 2025 08:04:13 GMT",
+  "source_sha256": "a48cb9fbc325567be8d5e1b131a59b45e0ef9b57dd350e81eadd48cba75ac201",
+  "extracted_text_sha256": "88c43373be482a7ef9a5649641479241ea8e83ad26c2c010608f3ad48610659c",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "7347c0567deb0db8515c9dab06971bb405e73f34"
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lsct",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley sobre la Celebración de Tratados",
+  "short_name": "LSCT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1992-01-02",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-16T19:15:47.451458Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSCT.pdf",
+  "source_sha256": "a48cb9fbc325567be8d5e1b131a59b45e0ef9b57dd350e81eadd48cba75ac201",
+  "extracted_text_sha256": "88c43373be482a7ef9a5649641479241ea8e83ad26c2c010608f3ad48610659c",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
