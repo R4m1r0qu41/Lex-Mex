@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfep",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEP.pdf",
+  "retrieved_at": "2026-07-16T22:49:17.136489Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 310048,
+  "etag": "\"4bb20-563b4878d49c0\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:03 GMT",
+  "source_sha256": "fa76340e597a2214f73b039f2a89465f9c1037f7d1630a852689124478621873",
+  "extracted_text_sha256": "940ea691556d6473aa4901b1263d1669083981787cba2ad92e7e5f771e13a097",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "98769ab27f5f11119820fcb617472202d6e587ca"
+}

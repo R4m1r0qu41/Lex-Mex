@@ -1,0 +1,353 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:1:term-usage:57-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 57,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:1:term-usage:76-99",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:entidades-paraestatales",
+    "span": "Entidades Paraestatales",
+    "start_char": 76,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:1:term-usage:252-255",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 252,
+    "end_char": 255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:2:term-usage:85-108",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:entidades-paraestatales",
+    "span": "Entidades Paraestatales",
+    "start_char": 85,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:2:term-usage:305-308",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 305,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:3:term-usage:81-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 81,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:4:term-usage:78-81",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 78,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:6:term-usage:306-309",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 306,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:6:term-usage:588-591",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 588,
+    "end_char": 591
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:7:term-usage:149-152",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 149,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:8:term-usage:860-863",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 860,
+    "end_char": 863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:9:term-usage:74-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 74,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:10:term-usage:131-134",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 131,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:12:term-usage:188-191",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 188,
+    "end_char": 191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:14:term-usage:262-265",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 262,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:18:term-usage:1391-1394",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 1391,
+    "end_char": 1394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:21:term-usage:100-103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 100,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:22:term-usage:934-937",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 934,
+    "end_char": 937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:25:term-usage:68-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 68,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:28:term-usage:126-129",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 126,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:34:term-usage:278-281",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 278,
+    "end_char": 281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:35:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:35:term-usage:160-168",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 160,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:36:term-usage:79-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 79,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:36:term-usage:110-118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 110,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:37:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:37:term-usage:424-432",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 424,
+    "end_char": 432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:37:term-usage:550-558",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 550,
+    "end_char": 558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:39:term-usage:212-215",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 212,
+    "end_char": 215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:39:term-usage:1217-1220",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 1217,
+    "end_char": 1220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:40:term-usage:24-32",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 24,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:40:term-usage:334-342",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 334,
+    "end_char": 342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:41:term-usage:114-122",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 114,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:42:term-usage:189-197",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 189,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:42:term-usage:588-591",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:ley",
+    "span": "Ley",
+    "start_char": 588,
+    "end_char": 591
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:43:term-usage:26-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 26,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:44:term-usage:65-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 65,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:45:term-usage:24-32",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:45",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 24,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:46:term-usage:151-159",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-lfep:term:registro",
+    "span": "Registro",
+    "start_char": 151,
+    "end_char": 159
+  }
+]

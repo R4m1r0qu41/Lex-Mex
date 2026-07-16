@@ -1,0 +1,26 @@
+{
+  "slug": "reg-lfep",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfep",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "main_document_stop_markers": [
+    "Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticinco días del mes de enero de mil novecientos; noventa"
+  ],
+  "official_title": "Reglamento de la Ley Federal de las Entidades Paraestatales",
+  "short_name": "REG-LFEP",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEP.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1990-01-26",
+  "expected_min_articles": 46,
+  "expected_articles": 46,
+  "expected_transitories": 3,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-16T22:49:19Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

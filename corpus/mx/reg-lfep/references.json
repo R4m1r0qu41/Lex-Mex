@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:1:reference:316-317:1:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:1",
+    "source_span": "1",
+    "start_char": 316,
+    "end_char": 317,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfep",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:1",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-lfep:article:13:reference:254-255:3:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:13",
+    "source_span": "3",
+    "start_char": 254,
+    "end_char": 255,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-lfep",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-lfep:article:3",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

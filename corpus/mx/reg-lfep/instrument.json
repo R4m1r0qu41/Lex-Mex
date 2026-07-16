@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-lfep",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Federal de las Entidades Paraestatales",
+  "short_name": "REG-LFEP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1990-01-26",
+  "latest_reform_date": "2010-11-23",
+  "retrieved_at": "2026-07-16T22:49:17.136489Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFEP.pdf",
+  "source_sha256": "fa76340e597a2214f73b039f2a89465f9c1037f7d1630a852689124478621873",
+  "extracted_text_sha256": "940ea691556d6473aa4901b1263d1669083981787cba2ad92e7e5f771e13a097",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
