@@ -57,7 +57,7 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `2713decd6` (23 commits ahead of remote
+Verified against local `main` at `d168dd79c` (26 commits ahead of remote
 `main` at `47004f56`):
 
 - `rgic` is committed and validates with 214 articles, 2 original
@@ -196,6 +196,11 @@ Verified against local `main` at `2713decd6` (23 commits ahead of remote
   instrument-scoped signature-date stop marker keeps the 1982 enactment
   signatures out of the fifth original transitory without altering shared
   parser behavior;
+- `lfep` is committed at `d168dd79c` with 69 articles (including 59 BIS), 8
+  original transitories, 27 resolved references, 111 reform-transitory
+  evidence records, frozen counts, stable source hashes, and zero validation
+  issues; parser correction `0cedabdc8` prevents a quoted publication date in
+  an operative reform article from overwriting the containing decree's date;
 - the 55 prepared prompt files are committed at `ca6a4649`: 53 manifests
   under `prompts/cluster-2-batches/` and the two federal cluster plans;
 - the worktree was clean before provisional `lfrm` ingestion; the prior
@@ -213,7 +218,7 @@ Do not assume these statements remain current. At every resumption, compare them
 ## Next action
 
 The operator accepted the bounded closure on 2026-07-16. Provisionally process
-next AD1 statute `lfep` through the Rust pipeline, inspect and freeze its
+next AD1 regulation `reg-lfep` through the Rust pipeline, inspect and freeze its
 structural baseline, and record any reusable deterministic parser, linker, or
 adapter learning before moving to the next AD1 instrument. Corpus-wide
 relinking and human expected-edge review remain separate work.
@@ -247,6 +252,7 @@ relinking and human expected-edge review remain separate work.
 - [x] (2026-07-16 20:49Z) Implemented bounded batch closure at `21863ef31`: after successful selected instruments enter the corpus, `batch run` reverse-relinks, validates, and republishes them, then records `expected_edges` as satisfied, missing, deferred, or invalid in its report. Missing or malformed concrete expectations fail the batch; unavailable targets and sources not processed in the run remain explicit deferrals. The CLI regression covers whole-instrument and article-scoped checks, missing edges, unresolved edges, unavailable targets, partial runs, malformed syntax, and a full temporary-corpus reverse-link/validate/export closure. The full gate passed with 91 workspace tests and both audited baseline validators.
 - [x] (2026-07-16 21:00Z) Operator accepted the bounded batch closure and set the scalable operating rule: treat each batch as a local-code learning loop. Record reusable parser/linker defects as fixtures and deterministic code changes, source-specific findings as adapter configuration, and operating discoveries in this plan before the next instrument relies on them. Refreshed the stale project-facing status and orientation documents; Git history retains the superseded checkpoint snapshots.
 - [x] (2026-07-16 21:36Z) Ingested and committed AD1 hub `lplan` at `2713decd6`: 48 articles, 5 original transitories, 7 resolved references, no terms, 64 reform-transitory evidence records, stable source hashes, and zero validation issues. The provisional parse exposed the original enactment-signature block after transitory QUINTO; the exact 1982 signature-date marker is configured only in the adapter, which removes that non-canonical text and its spurious CPEUM Article 89 edge. The frozen rerun, bounded closure, full 91-test workspace gate, and audited baseline validators passed.
+- [x] (2026-07-16 22:11Z) Ingested and committed `lfep` at `d168dd79c`: 69 articles (including 59 BIS), 8 original transitories, 27 resolved references, no terms, 111 reform-transitory evidence records, stable source hashes, and zero validation issues. The LFEP reform appendix revealed that an operative `ARTÍCULO ÚNICO` quoting an earlier uppercase DOF date could overwrite the containing decree's publication date and strand a later transitory. Parser correction `0cedabdc8` limits date recognition to decree-title material, normalizes valid month casing, preserves context in any future error, and adds a focused fixture. An LFEP adapter marker separately excludes the original 1986 enactment signatures and their spurious CPEUM Article 89 edge. The frozen rerun and full 92-test gate passed.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
