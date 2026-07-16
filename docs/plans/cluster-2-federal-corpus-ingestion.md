@@ -57,8 +57,8 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `015eb8ca` (two commits ahead of remote
-`main` at `57faf0b6`):
+Verified against local `main` at `f9506734` (two commits ahead of remote
+`main` at `47004f56`):
 
 - `rgic` is committed and validates with 214 articles, 2 original
   transitories, 30 references, 23 reform-transitory evidence records, and zero
@@ -145,21 +145,29 @@ Verified against local `main` at `015eb8ca` (two commits ahead of remote
   statute article headings normalize to numeric ordinal labels for stable
   ordering and references, while only unmistakable decree actions remain
   excluded as wrappers;
-- exactly 55 prepared prompt files are staged for operator review: 53 manifests
+- `lfcpo`, the seventh CN2 instrument, is committed at `f9506734` with 65
+  articles, 6 original transitories, 15 references, no defined terms, 2
+  reform-transitory evidence records, and zero validation issues; its source
+  SHA-256 is
+  `f4b823e5581b0e3e9737fe4d96171be41941bd7cc512ca0cfaf186047c0a05c2`
+  and extracted-text SHA-256 is
+  `185ff62bb64c3b619cb1b6cfc57e68568666f2c85c9155c56791d31ff4ba799f`;
+- the 55 prepared prompt files are committed at `ca6a4649`: 53 manifests
   under `prompts/cluster-2-batches/` and the two federal cluster plans;
 - `.gitignore`, `README.md`, and `docs/project-status.md` remain modified and
   unstaged, and `.claude/` remains untracked; these user-owned paths must not
   be folded into a corpus checkpoint without operator review;
 - the divergent `fable/cross-linking` work was reviewed selectively: the
   global alias path from `02088004` and proximity fix from `a0f4d62d` were
-  reimplemented on current `main`; its bundled `regulates` schema work, bulk
-  relinks, and unrelated parser/export changes were not merged.
+  reimplemented on current `main`; the branch will not be merged as a unit,
+  and any still-useful corpus or behavior must be reapplied as a bounded,
+  current-main ingestion or implementation change.
 
 Do not assume these statements remain current. At every resumption, compare them with `git log`, `git status`, the operational manifest, adapter presence, corpus presence, validation files, and the active-run drift report.
 
 ## Next action
 
-Provisionally process `lfcpo`, the seventh entry in the reviewed CN2
+Provisionally process `lfrm`, the eighth entry in the reviewed CN2
 operational manifest. Inspect its official PDF, adapter boundaries, canonical
 structure, reform evidence, references, validation report, and representative
 Markdown before freezing any proposed counts.
@@ -181,6 +189,8 @@ Markdown before freezing any proposed counts.
 - [x] (2026-07-15 15:05Z) Ingested and committed `lrart76-fracvi` at `99d588de` after isolating its constitutional article-list correction at `eee19102`: 25 articles, 1 original transitory, 9 reviewed references, 4 reform-transitory evidence records, stable source hashes, and zero validation issues. The complete gate passed with 85 workspace tests, both audited baseline validators, and the affected-instrument validator.
 - [x] (2026-07-15 16:04Z) Ingested and committed `lrfxiiib-art123` at `03ff3fbb` after isolating its latest-reform date correction at `8be59440`: 25 articles, 4 original transitories, 4 reviewed references, 19 reform-transitory evidence records, stable source hashes, and zero validation issues. The complete gate passed with 86 workspace tests, both audited baseline validators, and the affected-instrument validator.
 - [x] (2026-07-15 17:06Z) Ingested and committed `lrfxviii-art73` at `015eb8ca` after isolating its ordinal-word article correction at `5e03f735`: 2 articles, 1 original transitory, 2 reviewed references, no terms or reform evidence, stable source hashes, and zero validation issues. The complete gate passed with 87 workspace tests, both audited baseline validators, and the affected-instrument validator.
+- [x] (2026-07-16 17:15Z) Ingested and committed `lfcpo` at `f9506734`: 65 articles, 6 original transitories, 15 reviewed references, 2 reform-transitory evidence records, stable source hashes, and zero validation issues. An instrument-scoped stop marker excluded enactment signatures from the sixth transitory; the complete gate passed with 87 workspace tests and both audited baseline validators.
+- [x] (2026-07-16 17:18Z) Resolved the divergent-worktree integration policy: do not merge `fable/cross-linking` into `main` as a unit. Its 18 unique commits combine branch-only corpora with stale bulk relinks and conflicting parser, exporter, source, schema, and decision changes; preserve the branch as provenance and reapply only reviewed units on current `main`.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
@@ -254,6 +264,20 @@ Markdown before freezing any proposed counts.
   Evidence: `lrfxviii-art73` uses `ARTICULO PRIMERO` and `ARTICULO SEGUNDO`
   before `TRANSITORIO` and `ARTICULO UNICO`; the prior decree-wrapper
   heuristic dropped both operative articles and retained only the transitory.
+- Observation: LFCPo's final original transitory is followed immediately by
+  the 2014 legislative and promulgation signatures before the 2021 reform
+  appendix.
+  Evidence: the provisional parse appended both signature blocks to
+  Transitory Sexto and emitted a spurious CPEUM Article 89 edge; the accepted
+  instrument-scoped stop marker removed only those blocks while preserving
+  the 65/6 structure and both source hashes.
+- Observation: `fable/cross-linking` is not a mergeable feature branch in its
+  present form.
+  Evidence: it has 18 patch-unique commits and changes 369 files with about
+  130,000 inserted lines, including branch-only corpora, corpus-wide generated
+  relinks, and conflicting edits in the parser, exporter, source layer, CLI,
+  schema, and `docs/decisions.md`; `main` has independently advanced through
+  seven CN2 ingestions and already reimplemented two reviewed linker fixes.
 
 ## Decision log
 
@@ -283,6 +307,17 @@ Markdown before freezing any proposed counts.
   intentionally ignored underscore filename, so consuming that file plus the
   independently reviewed marker-start bound closes CN1 with a narrow diff.
   Date/author: 2026-07-15 / checkpoint 6 execution.
+- Decision: do not merge `fable/cross-linking` into `main`, now or after CN2,
+  and do not use a synthetic conflict-resolution merge to mark it integrated.
+  Rationale: the branch is an aggregate execution line, not one coherent
+  feature. A whole-branch merge would admit stale generated relinks and
+  obsolete shared-code states alongside useful new corpora, obscuring the
+  provenance and validation of each trusted boundary. Keep it as an archival
+  source and transplant or reimplement only bounded commits after verifying
+  them against current `main`; branch-only corpora should enter through the
+  normal one-instrument ingestion gate, and semantic/schema features require
+  their own fixtures and review.
+  Date/author: 2026-07-16 / divergent-worktree integration review.
 - Decision: preserve the established evidence IDs for the first transitory
   section of a reform decree and qualify only later same-decree sections with
   `section-N`; reject any remaining duplicate evidence ID.
@@ -490,15 +525,17 @@ A human reviewer should be able to choose any admitted slug and verify all of th
 ## Outcomes and retrospective
 
 Current outcome: CN1 is structurally and graphically closed at `942f201c`, and
-CN2 has six of 10 instruments committed through `015eb8ca`. All five CN1
+CN2 has seven of 10 instruments committed through `f9506734`. All five CN1
 instruments plus `lrfiyii-art105`, `lrart6-mdr`, `lrfv-art76`, and
-`lrart76-fracvi`, `lrfxiiib-art123`, and `lrfxviii-art73` have reviewed
-canonical corpora and zero-issue validation. The six CN2 ingestions have
-added ten fixture-backed generic boundary, metadata, and structural
-corrections while preserving stable evidence IDs and canonical source text.
+`lrart76-fracvi`, `lrfxiiib-art123`, `lrfxviii-art73`, and `lfcpo` have
+reviewed canonical corpora and zero-issue validation. The seven CN2
+ingestions have added ten fixture-backed generic corrections plus one
+instrument-scoped source boundary while preserving stable evidence IDs and
+canonical source text.
 Historical enactment-signature cleanup and corpus-wide relinking remain
-explicitly separate work;
-provisional ingestion of `lfcpo` is next.
+explicitly separate work; `fable/cross-linking` remains an archival source for
+bounded reapplication rather than a future merge candidate; provisional
+ingestion of `lfrm` is next.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 
