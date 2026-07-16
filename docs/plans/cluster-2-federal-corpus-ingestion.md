@@ -159,9 +159,10 @@ Verified against local `main` at `f9506734` (two commits ahead of remote
   be folded into a corpus checkpoint without operator review;
 - the divergent `fable/cross-linking` work was reviewed selectively: the
   global alias path from `02088004` and proximity fix from `a0f4d62d` were
-  reimplemented on current `main`; the branch will not be merged as a unit,
-  and any still-useful corpus or behavior must be reapplied as a bounded,
-  current-main ingestion or implementation change.
+  reimplemented on current `main`; its complete history is retained at the
+  annotated tag `archive/fable-cross-linking` (peeling to `e7ed6369`), and any
+  still-useful corpus or behavior must be reapplied as a bounded, current-main
+  ingestion or implementation change.
 
 Do not assume these statements remain current. At every resumption, compare them with `git log`, `git status`, the operational manifest, adapter presence, corpus presence, validation files, and the active-run drift report.
 
@@ -190,7 +191,7 @@ Markdown before freezing any proposed counts.
 - [x] (2026-07-15 16:04Z) Ingested and committed `lrfxiiib-art123` at `03ff3fbb` after isolating its latest-reform date correction at `8be59440`: 25 articles, 4 original transitories, 4 reviewed references, 19 reform-transitory evidence records, stable source hashes, and zero validation issues. The complete gate passed with 86 workspace tests, both audited baseline validators, and the affected-instrument validator.
 - [x] (2026-07-15 17:06Z) Ingested and committed `lrfxviii-art73` at `015eb8ca` after isolating its ordinal-word article correction at `5e03f735`: 2 articles, 1 original transitory, 2 reviewed references, no terms or reform evidence, stable source hashes, and zero validation issues. The complete gate passed with 87 workspace tests, both audited baseline validators, and the affected-instrument validator.
 - [x] (2026-07-16 17:15Z) Ingested and committed `lfcpo` at `f9506734`: 65 articles, 6 original transitories, 15 reviewed references, 2 reform-transitory evidence records, stable source hashes, and zero validation issues. An instrument-scoped stop marker excluded enactment signatures from the sixth transitory; the complete gate passed with 87 workspace tests and both audited baseline validators.
-- [x] (2026-07-16 17:18Z) Resolved the divergent-worktree integration policy: do not merge `fable/cross-linking` into `main` as a unit. Its 18 unique commits combine branch-only corpora with stale bulk relinks and conflicting parser, exporter, source, schema, and decision changes; preserve the branch as provenance and reapply only reviewed units on current `main`.
+- [x] (2026-07-16 17:18Z) Resolved the divergent-worktree integration policy: do not merge `fable/cross-linking` into `main` as a unit. Its 18 unique commits combine branch-only corpora with stale bulk relinks and conflicting parser, exporter, source, schema, and decision changes; preserve the history under `archive/fable-cross-linking` and reapply only reviewed units on current `main`.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
@@ -309,12 +310,13 @@ Markdown before freezing any proposed counts.
   Date/author: 2026-07-15 / checkpoint 6 execution.
 - Decision: do not merge `fable/cross-linking` into `main`, now or after CN2,
   and do not use a synthetic conflict-resolution merge to mark it integrated.
-  Rationale: the branch is an aggregate execution line, not one coherent
+  Rationale: the archived history is an aggregate execution line, not one coherent
   feature. A whole-branch merge would admit stale generated relinks and
   obsolete shared-code states alongside useful new corpora, obscuring the
   provenance and validation of each trusted boundary. Keep it as an archival
-  source and transplant or reimplement only bounded commits after verifying
-  them against current `main`; branch-only corpora should enter through the
+  source under the annotated tag `archive/fable-cross-linking` and transplant
+  or reimplement only bounded commits after verifying them against current
+  `main`; branch-only corpora should enter through the
   normal one-instrument ingestion gate, and semantic/schema features require
   their own fixtures and review.
   Date/author: 2026-07-16 / divergent-worktree integration review.
@@ -533,8 +535,8 @@ ingestions have added ten fixture-backed generic corrections plus one
 instrument-scoped source boundary while preserving stable evidence IDs and
 canonical source text.
 Historical enactment-signature cleanup and corpus-wide relinking remain
-explicitly separate work; `fable/cross-linking` remains an archival source for
-bounded reapplication rather than a future merge candidate; provisional
+explicitly separate work; `archive/fable-cross-linking` preserves the divergent
+history for bounded reapplication rather than a future merge; provisional
 ingestion of `lfrm` is next.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.

@@ -30,11 +30,10 @@ absorbed the other two) are archived, not merged, per the 2026-07-16
 divergent-worktree integration decision in
 `docs/plans/cluster-2-federal-corpus-ingestion.md`. Their local branches and
 worktree checkouts (`lex-mex-ancillary`, `lex-mex-linking`, `lex-mex-tax`)
-have been deleted; each is preserved as an annotated tag for provenance:
-
-- `archive/fable-cross-linking` (was `e7ed6369`) — superset, includes the two below
-- `archive/fable-lfjs-and-vault-export` (was `7cbf8500`)
-- `archive/fable-tax-ingestion` (was `4d958058`)
+have been deleted. Their complete history is preserved by the single annotated
+superset tag `archive/fable-cross-linking`, which peels to
+`e7ed63699f4577c78300ca379dbe431c6db1d424`; the absorbed LFJS/export and tax
+tips are ancestors of that commit.
 
 Reviewed units from this history are reimplemented on `main` individually as
 bounded, current-main changes when needed — never by merging or cherry-
