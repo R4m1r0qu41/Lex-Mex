@@ -1,0 +1,135 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lplan:article:16:reference:1712-1714:17:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lplan:article:16",
+    "source_span": "17",
+    "start_char": 1712,
+    "end_char": 1714,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lplan",
+    "target_provision_id": "urn:lex-mx:federal:statute:lplan:article:17",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción II",
+        "start_char": 1716,
+        "end_char": 1727
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lplan:article:34:reference:21-38:33:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lplan:article:34",
+    "source_span": "artículo anterior",
+    "start_char": 21,
+    "end_char": 38,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lplan",
+    "target_provision_id": "urn:lex-mx:federal:statute:lplan:article:33",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lplan:article:34:reference:867-869:25:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lplan:article:34",
+    "source_span": "25",
+    "start_char": 867,
+    "end_char": 869,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lplan",
+    "target_provision_id": "urn:lex-mx:federal:statute:lplan:article:25",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 923,
+        "end_char": 935
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lplan:article:34:reference:949-951:14:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lplan:article:34",
+    "source_span": "14",
+    "start_char": 949,
+    "end_char": 951,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lplan",
+    "target_provision_id": "urn:lex-mx:federal:statute:lplan:article:14",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción III",
+        "start_char": 923,
+        "end_char": 935
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lplan:article:38:reference:36-53:37:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lplan:article:38",
+    "source_span": "artículo anterior",
+    "start_char": 36,
+    "end_char": 53,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lplan",
+    "target_provision_id": "urn:lex-mx:federal:statute:lplan:article:37",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lplan:article:43:reference:42-59:42:relative",
+    "source_provision_id": "urn:lex-mx:federal:statute:lplan:article:43",
+    "source_span": "artículo anterior",
+    "start_char": 42,
+    "end_char": 59,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lplan",
+    "target_provision_id": "urn:lex-mx:federal:statute:lplan:article:42",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lplan:transitory:segundo:reference:61-62:6:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lplan:transitory:segundo",
+    "source_span": "6",
+    "start_char": 61,
+    "end_char": 62,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lplan",
+    "target_provision_id": "urn:lex-mx:federal:statute:lplan:article:6",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "párrafos segundo y tercero",
+        "start_char": 21,
+        "end_char": 47
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lplan",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPlan.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lplan.htm",
+  "retrieved_at": "2026-07-16T21:35:11.019894Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 496203,
+  "etag": "\"7924b-649915147a7c0\"",
+  "last_modified": "Fri, 30 Jan 2026 01:59:03 GMT",
+  "source_sha256": "5a909996d6ef791fa377611c040a212dcf838cbf54ba16a7d7d0baaa57ac9962",
+  "extracted_text_sha256": "35bef7a374936bbfa193f9a3be11bd59708b2813930aecdd6a35b9a68cdeaf86",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "858cbf4fe28058aa87720996c77b3b464ad62f69"
+}
