@@ -57,7 +57,7 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `34449eb6` (13 commits ahead of remote
+Verified against local `main` at `614fe4a9` (15 commits ahead of remote
 `main` at `47004f56`):
 
 - `rgic` is committed and validates with 214 articles, 2 original
@@ -82,7 +82,7 @@ Verified against local `main` at `34449eb6` (13 commits ahead of remote
   `batches/constitutional_cn2_implementing_laws.json`: all 10 entries retain
   their verified official Cámara reference and PDF sources, none is blocked,
   and no expected edge was invented where the prepared manifest supplied none;
-- the operational-manifest inventory is now 28 manifests and 150 instruments;
+- the operational-manifest inventory is now 29 manifests and 156 instruments;
 - `lrfiyii-art105`, the first CN2 instrument, is committed at `b7653e22` with
   74 articles, 4 original transitories, 46 references, 45 reform-transitory
   evidence records, and zero validation issues; its source SHA-256 is
@@ -176,6 +176,11 @@ Verified against local `main` at `34449eb6` (13 commits ahead of remote
   `34449eb6`: all 10 instruments validate with zero issues, and the sole
   canonical diff added the exact `párrafo primero` qualifier to the existing
   CPEUM Article 6 edge in the `lrart6-mdr` official title;
+- prepared AD1 is normalized at `614fe4a9` as
+  `batches/administration_ad1_planning_paraestatals.json`: all six entries
+  were absent from adapters, corpus, and prior operational manifests; none is
+  blocked; the prepared source pairs and order are preserved; and the live
+  Cámara recheck was recorded as inconclusive after a TLS handshake failure;
 - the 55 prepared prompt files are committed at `ca6a4649`: 53 manifests
   under `prompts/cluster-2-batches/` and the two federal cluster plans;
 - the worktree was clean before provisional `lfrm` ingestion; the prior
@@ -192,9 +197,11 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-Normalize prepared batch AD1 into an operational manifest, preserving its six
-instrument order and source evidence. Verify each official source pair and
-current adapter/corpus absence before provisionally processing `lplan`.
+Review and disposition the post-CN2 engineering audit before provisionally
+processing `lplan`. In particular, resolve the unsupported `effective`
+default for `not_analyzed` provisions and decide how batch completion will
+enforce reverse relinking and expected-edge recall rather than relying only on
+manual closure.
 
 ## Progress
 
@@ -219,6 +226,8 @@ current adapter/corpus absence before provisionally processing `lplan`.
 - [x] (2026-07-16 19:17Z) Ingested and committed `lsct` at `6a8348b6`: 11 articles, 1 original transitory, 6 reviewed references, 20 reform-transitory evidence records, stable source hashes, and zero validation issues. An instrument-scoped stop marker excluded the 1991 enactment signatures, and the explicit `Constitución` mapping recovered CPEUM Articles 76 and 133. The 2021 Fiscalía decree contributes 16 evidence records and the 2025 civil-procedure decree contributes 4. The complete gate passed with 87 workspace tests and both audited baseline validators.
 - [x] (2026-07-16 19:20Z) Ingested and committed `latime` at `e9619503`: 14 articles, 2 original transitories, 13 reviewed references, no terms or reform evidence, stable source hashes, and zero validation issues. An instrument-scoped stop marker excluded the 2004 enactment signatures, while a full-title LFT mapping recovered the exact Article 74 citation. The complete gate passed with 87 workspace tests and both audited baseline validators.
 - [x] (2026-07-16 19:21Z) Closed the ten-instrument CN2 reverse-link, validation, and Markdown pass at `34449eb6`. Final CN2 totals are 334 articles, 28 original transitories, 147 references, 11 defined terms, 108 term usages, and 96 reform-transitory evidence records. Every validator reports zero issues; the only reverse-pass canonical change preserved the official-title qualifier `párrafo primero` on the existing `lrart6-mdr` CPEUM Article 6 edge.
+- [x] (2026-07-16 20:18Z) Normalized and committed AD1 at `614fe4a9`, advancing the operational inventory to 29 manifests and 156 unique instruments. All six entries were absent, unblocked, and preserved in prepared order; the workspace tests, formatting, clippy, and both audited baseline validators passed. Live Cámara verification was inconclusive because the official host failed its TLS handshake.
+- [x] (2026-07-16 20:21Z) Audited the accumulated ingestion regressions after CN2. The 87-test workspace strongly covers parser and temporal primitives, but identified two correctness risks before further scale: freshly parsed, unanalyzed provisions default to `effective` even when consolidated text records SCJN invalidity, and batch success neither reverse-relinks earlier instruments nor evaluates the manifest's `expected_edges` recall oracle. Secondary debt remains in exact-title alias discovery, pre-ingestion commit provenance, and untested CLI orchestration.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
@@ -228,6 +237,29 @@ current adapter/corpus absence before provisionally processing `lplan`.
   Evidence: checkpoint 3 names `reg-senado` as next, while documentation HEAD `8a3a0f9b` records valid committed corpora through `rgic`.
 - Observation: a successful batch run does not close reverse cross-instrument links.
   Evidence: each instrument extracts references against siblings present during its parse, but `run_batch` does not relink instruments processed earlier after a later target is added. A separate reverse relink pass is required unless batch orchestration is enhanced.
+- Observation: the validation gate proves emitted-edge integrity, not citation
+  recall, and batch execution never consumes `BatchManifest.expected_edges`.
+  Evidence: `expected_edges` is deserialized and documented as a test oracle,
+  but has no reader outside `lex-source`; `run_batch` returns success after
+  per-instrument validation even when earlier instruments have not seen later
+  sibling targets.
+- Observation: the structural parser currently assigns `effective` to every
+  non-repeal provision before temporal analysis.
+  Evidence: `initial_temporal_status` returns `Effective` by default, while
+  committed LFRM Articles 32, 59, and 61 retain express SCJN invalidity notes
+  and simultaneously export `temporal_status: effective` with
+  `review_status: not_analyzed`.
+- Observation: exact official titles of committed siblings are not automatic
+  cross-instrument markers.
+  Evidence: global linking uses only the curated alias table plus per-adapter
+  overrides; LATIME therefore needs an instrument-scoped full-title mapping
+  for the already committed LFT target.
+- Observation: regression coverage is concentrated below the orchestration
+  boundary.
+  Evidence: the workspace has 65 parser tests, 13 temporal-core tests, 4
+  exporter tests, and 3 source tests, but only 2 CLI tests; fetch-through-
+  export batch flow, reverse closure, expected-edge evaluation, and source
+  manifest commit provenance have no hermetic orchestration regression.
 - Observation: exact sibling-title mentions do not necessarily imply an
   article-level graph edge.
   Evidence: after the registry became active, every CN1 citation containing a
