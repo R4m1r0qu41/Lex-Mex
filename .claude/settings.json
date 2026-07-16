@@ -1,0 +1,36 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py hook"
+          }
+        ]
+      }
+    ],
+    "PostCompact": [
+      {
+        "matcher": "manual|auto",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py hook"
+          }
+        ]
+      }
+    ],
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py hook"
+          }
+        ]
+      }
+    ]
+  }
+}
