@@ -57,7 +57,7 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `6a8348b6` (10 commits ahead of remote
+Verified against local `main` at `34449eb6` (13 commits ahead of remote
 `main` at `47004f56`):
 
 - `rgic` is committed and validates with 214 articles, 2 original
@@ -166,6 +166,16 @@ Verified against local `main` at `6a8348b6` (10 commits ahead of remote
   `a48cb9fbc325567be8d5e1b131a59b45e0ef9b57dd350e81eadd48cba75ac201`
   and extracted-text SHA-256 is
   `88c43373be482a7ef9a5649641479241ea8e83ad26c2c010608f3ad48610659c`;
+- `latime`, the tenth CN2 instrument, is committed at `e9619503` with 14
+  articles, 2 original transitories, 13 references, no defined terms or reform
+  evidence, and zero validation issues; its source SHA-256 is
+  `2f9532986cf47aef5de1f50af5e758333d65b7fdab15489bb0c41c36bcb60133`
+  and extracted-text SHA-256 is
+  `667fce0c913df660d7492a1bfcd84610317795d9af4f5177fe2ab5f7958a28e2`;
+- CN2 reverse linking, validation, and Markdown regeneration are closed at
+  `34449eb6`: all 10 instruments validate with zero issues, and the sole
+  canonical diff added the exact `párrafo primero` qualifier to the existing
+  CPEUM Article 6 edge in the `lrart6-mdr` official title;
 - the 55 prepared prompt files are committed at `ca6a4649`: 53 manifests
   under `prompts/cluster-2-batches/` and the two federal cluster plans;
 - the worktree was clean before provisional `lfrm` ingestion; the prior
@@ -182,10 +192,9 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-Provisionally process `latime`, the tenth and final entry in the reviewed CN2
-operational manifest. Inspect its official PDF, adapter boundaries, canonical
-structure, reform evidence, references, validation report, and representative
-Markdown before freezing any proposed counts.
+Normalize prepared batch AD1 into an operational manifest, preserving its six
+instrument order and source evidence. Verify each official source pair and
+current adapter/corpus absence before provisionally processing `lplan`.
 
 ## Progress
 
@@ -208,6 +217,8 @@ Markdown before freezing any proposed counts.
 - [x] (2026-07-16 17:18Z) Resolved the divergent-worktree integration policy: do not merge `fable/cross-linking` into `main` as a unit. Its 18 unique commits combine branch-only corpora with stale bulk relinks and conflicting parser, exporter, source, schema, and decision changes; preserve the history under `archive/fable-cross-linking` and reapply only reviewed units on current `main`.
 - [x] (2026-07-16 19:14Z) Ingested and committed `lfrm` at `0598a28f`: 61 articles, 5 original transitories, 27 reviewed references, 8 defined terms with 108 usages, no reform evidence, stable source hashes, and zero validation issues. An instrument-scoped stop marker excluded enactment signatures and SCJN judgment appendices from the fifth transitory; an explicit `Constitución` mapping recovered seven exact CPEUM edges while LGIPE citations remain deferred until that prepared target enters the corpus. The complete gate passed with 87 workspace tests and both audited baseline validators.
 - [x] (2026-07-16 19:17Z) Ingested and committed `lsct` at `6a8348b6`: 11 articles, 1 original transitory, 6 reviewed references, 20 reform-transitory evidence records, stable source hashes, and zero validation issues. An instrument-scoped stop marker excluded the 1991 enactment signatures, and the explicit `Constitución` mapping recovered CPEUM Articles 76 and 133. The 2021 Fiscalía decree contributes 16 evidence records and the 2025 civil-procedure decree contributes 4. The complete gate passed with 87 workspace tests and both audited baseline validators.
+- [x] (2026-07-16 19:20Z) Ingested and committed `latime` at `e9619503`: 14 articles, 2 original transitories, 13 reviewed references, no terms or reform evidence, stable source hashes, and zero validation issues. An instrument-scoped stop marker excluded the 2004 enactment signatures, while a full-title LFT mapping recovered the exact Article 74 citation. The complete gate passed with 87 workspace tests and both audited baseline validators.
+- [x] (2026-07-16 19:21Z) Closed the ten-instrument CN2 reverse-link, validation, and Markdown pass at `34449eb6`. Final CN2 totals are 334 articles, 28 original transitories, 147 references, 11 defined terms, 108 term usages, and 96 reform-transitory evidence records. Every validator reports zero issues; the only reverse-pass canonical change preserved the official-title qualifier `párrafo primero` on the existing `lrart6-mdr` CPEUM Article 6 edge.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
@@ -314,6 +325,13 @@ Markdown before freezing any proposed counts.
   transitories from the 2021 Fiscalía decree and 4 from the 2025
   civil-procedure harmonization decree without importing either decree's
   enactment signatures into canonical provision text.
+- Observation: LATIME's express external citations exercise three already
+  committed target classes without requiring a shared alias change.
+  Evidence: CPEUM Articles 93 and 89 resolve through accepted constitutional
+  titles, RGIC Articles 58 and 59 resolve through the global registry, and an
+  instrument-scoped full-title mapping resolves LFT Article 74; whole-law
+  mentions of LSCT and the foreign-trade law correctly remain prose because
+  they name no target provision.
 
 ## Decision log
 
@@ -562,17 +580,18 @@ A human reviewer should be able to choose any admitted slug and verify all of th
 ## Outcomes and retrospective
 
 Current outcome: CN1 is structurally and graphically closed at `942f201c`, and
-CN2 has nine of 10 instruments committed through `6a8348b6`. All five CN1
+CN2 is structurally and graphically closed at `34449eb6`. All five CN1
 instruments plus `lrfiyii-art105`, `lrart6-mdr`, `lrfv-art76`, and
-`lrart76-fracvi`, `lrfxiiib-art123`, `lrfxviii-art73`, `lfcpo`, `lfrm`, and
-`lsct` have reviewed canonical corpora and zero-issue validation. The nine CN2
-ingestions have added ten fixture-backed generic corrections plus reviewed
+`lrart76-fracvi`, `lrfxiiib-art123`, `lrfxviii-art73`, `lfcpo`, `lfrm`,
+`lsct`, and `latime` have reviewed canonical corpora and zero-issue
+validation. The ten CN2 ingestions have added ten fixture-backed generic corrections plus reviewed
 instrument-scoped source boundaries and aliases while preserving stable
 evidence IDs and canonical source text.
 Historical enactment-signature cleanup and corpus-wide relinking remain
 explicitly separate work; `archive/fable-cross-linking` preserves the divergent
-history for bounded reapplication rather than a future merge; provisional
-ingestion of `latime` is next.
+history for bounded reapplication rather than a future merge. The next
+prepared batch is AD1; corpus-wide closure remains deferred until the broader
+cluster target set is admitted.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 
