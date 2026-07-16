@@ -9,23 +9,20 @@ preserves their provenance, produces stable canonical records, validates model
 output, routes material legal uncertainty to a named reviewer, and publishes
 lawyer-readable Markdown and Obsidian views.
 
-The committed corpus currently contains **133 federal instruments** acquired
-through the Rust ingestion gate: 32,159 articles, 1,167 original transitory
-provisions, 28 annexes, and 16,675 resolved reference edges. The normalization
-program is expanding the original LRITF/Fintech vertical slice across official
-Cámara de Diputados and CNBV consolidated sources while preserving source
-hashes, parser baselines, canonical JSON, validation reports, and generated
-Markdown for every instrument.
+The committed corpus is acquired entirely through the Rust ingestion gate,
+each instrument carrying source hashes, parser baselines, canonical JSON,
+validation reports, and generated Markdown. The normalization program is
+expanding the original LRITF/Fintech vertical slice across official Cámara de
+Diputados and CNBV consolidated sources. See
+[`docs/project-status.md`](docs/project-status.md) for current corpus totals
+and the active ingestion checkpoint — those numbers change with nearly every
+commit and are not duplicated here.
 
 Temporal analysis remains intentionally narrower than structural ingestion.
 The audited temporal corpus currently covers LRITF, `ifpe-dcg-2021`, and
 `itf-dcg-2018`; one legal review remains pending for the ITF DCG's derogated
 transitory SÉPTIMO. Newly normalized instruments stay `not_analyzed` until a
 separate schema-gated temporal pass is authorized.
-
-The active congressional batch (`constitutional_CN1_congress`) is complete
-through `locg`, `reg-diputados`, `reg-senado`, and `rgic`. Its final ingestion
-checkpoint is `ldofgg`, followed by a CN1 reverse-link validation pass.
 
 > [!IMPORTANT]
 > Lex-Mex is not an official publication, is not affiliated with the Mexican
@@ -199,8 +196,9 @@ schemas/    versioned JSON Schemas for trusted boundaries
 
 See [`docs/project-status.md`](docs/project-status.md) for the current corpus
 inventory, verification state, known gaps, and active checkpoint. The detailed
-normalization execution and recovery sequence is maintained in
-[`PLAN.md`](PLAN.md).
+normalization execution and recovery sequence is maintained in the active
+[`cluster-2 federal corpus ingestion plan`](docs/plans/cluster-2-federal-corpus-ingestion.md).
+Planning conventions and the plan index are in [`PLANS.md`](PLANS.md).
 
 ## Development
 
