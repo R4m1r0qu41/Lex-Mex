@@ -14,9 +14,11 @@ each instrument carrying source hashes, parser baselines, canonical JSON,
 validation reports, and generated Markdown. The normalization program is
 expanding the original LRITF/Fintech vertical slice across official Cámara de
 Diputados and CNBV consolidated sources. See
-[`docs/project-status.md`](docs/project-status.md) for current corpus totals
-and the active ingestion checkpoint — those numbers change with nearly every
-commit and are not duplicated here.
+[`docs/project-status.md`](docs/project-status.md) for the current corpus
+totals and next work item, and the active
+[`cluster-2 plan`](docs/plans/cluster-2-federal-corpus-ingestion.md) for the
+authoritative ingestion inventory and recovery state. Those facts change with
+nearly every commit and are not duplicated here.
 
 Temporal analysis remains intentionally narrower than structural ingestion.
 The audited temporal corpus currently covers LRITF, `ifpe-dcg-2021`, and
@@ -178,6 +180,23 @@ cargo run --locked -p lex-cli -- export lritf --format markdown
 cargo run --locked -p lex-cli -- export lritf --format obsidian
 cargo run --locked -p lex-cli -- pipeline ifpe-dcg-2021
 ```
+
+## Federal-corpus ingestion loop
+
+Structural ingestion is deliberately cumulative: each instrument is first
+processed and inspected on its own, then its successful batch closure
+reverse-links the selected instruments, validates them, and regenerates their
+Markdown. This makes the Rust pipeline—not a model—the primary mechanism for
+the bulk of the work.
+
+When a batch exposes a repeatable problem, capture it at the narrowest durable
+layer before continuing: a parser or linker correction gets a regression
+fixture; a source-specific boundary or title mapping belongs in its adapter;
+and an operational or semantic choice is recorded in the cluster plan and,
+when durable, `docs/decisions.md`. Do not turn a one-off legal ambiguity into
+a generic rule. The next instrument should use the improved deterministic path
+and retain the earlier corpus unchanged unless its own reviewed diff requires
+otherwise.
 
 For `ifpe-dcg-2021`, fetch and extract also acquire the eight annex PDFs CNBV
 publishes alongside the main document (recorded in

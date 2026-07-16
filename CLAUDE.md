@@ -19,12 +19,12 @@ discover --repo . --inject` directly). A discovered capsule is bounded
 navigation, not authority — verify current Git state before resuming it.
 
 CURRENT SCOPE
-The initial vertical slice processes the consolidated Ley para Regular las
-Instituciones de Tecnología Financiera (LRITF). The committed corpus currently
-has no open structural issues or pending legal reviews. Next substantive work
-is regulation ingestion, starting with the CNBV disposiciones de carácter
-general, followed by cross-instrument reference resolution — see
-`docs/project-status.md` for exact scope and known gaps.
+The active program is the structural first pass over the federal laws and
+regulations in the cluster-2 inventory. CN1 and CN2 are closed; AD1 begins
+with `lplan`. The live totals, remaining inventory, and single next action are
+in `docs/project-status.md` and
+`docs/plans/cluster-2-federal-corpus-ingestion.md`; do not copy changing
+checkpoint facts into this orientation file.
 
 LAYOUT
 - `adapters/` — source-specific acquisition and parsing configuration.
@@ -51,27 +51,9 @@ Individual stages (`discover`, `fetch`, `extract`, `parse`, `link`, `validate`,
 
 ## Model routing
 
-Default model for substantive work in this repo: **Claude Sonnet 5**
-(`claude-sonnet-5`), effort `medium`. Raise to `high` for parser/
-canonicalization changes, schema-boundary changes, or anything touching
-review-state transitions.
-
-**Haiku (`claude-haiku-4-5-20251001`) is mandatory for purely mechanical work:**
-all commits, and all invocations of `cargo fmt --check`,
-`cargo clippy --workspace --all-targets -- -D warnings`, `cargo test --workspace`,
-and `cargo run --locked -p lex-cli -- validate lritf` with pass/fail
-reporting. Writing a new fixture, adding a parser rule, or diagnosing a
-validation failure is judgment work and stays on Sonnet 5 — only running the
-command and reporting the result routes to Haiku.
-
-Escalate to **Opus** only when Sonnet 5 has failed the same task twice, or the
-task is a genuine legal-temporal-modeling design call (new effect category,
-schema version bump). Start on Sonnet 5; escalate on evidence, not by default.
-
-Note: this routing rule governs the coding-agent side only — it has no
-bearing on the separate `--provider codex` temporal-analysis path, which is a
-distinct, schema-gated model call inside the pipeline itself, not a
-build-agent task.
+`AGENTS.md` is the sole current model-routing authority. This file intentionally
+does not duplicate provider, model, or effort settings because those change
+with the harness and must not drift from the repository rule.
 
 ## Context budget
 

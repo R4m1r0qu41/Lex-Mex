@@ -206,8 +206,10 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-Operator review of `21863ef31` is the next action. Do not provisionally
-process `lplan` until that review accepts the bounded closure; corpus-wide
+The operator accepted the bounded closure on 2026-07-16. Provisionally process
+AD1 hub `lplan` next through the Rust pipeline, inspect and freeze its
+structural baseline, and record any reusable deterministic parser, linker, or
+adapter learning before moving to the next AD1 instrument. Corpus-wide
 relinking and human expected-edge review remain separate work.
 
 ## Progress
@@ -237,6 +239,7 @@ relinking and human expected-edge review remain separate work.
 - [x] (2026-07-16 20:21Z) Audited the accumulated ingestion regressions after CN2. The 87-test workspace strongly covers parser and temporal primitives, but identified two correctness risks before further scale: freshly parsed, unanalyzed provisions default to `effective` even when consolidated text records SCJN invalidity, and batch success neither reverse-relinks earlier instruments nor evaluates the manifest's `expected_edges` recall oracle. Secondary debt remains in exact-title alias discovery, pre-ingestion commit provenance, and untested CLI orchestration.
 - [x] (2026-07-16 20:39Z) Corrected the unanalyzed temporal boundary at `1f262295`. Ordinary provisions now begin `unknown`; explicit source-text repeal notes remain deterministically `repealed`; and validation rejects an unanalyzed status that disagrees with that rule. The reviewed migration changed only temporal-status lines for 30,124 canonical provisions and matching Markdown across 144 corpora, retained 3,592 explicit repeals and all 22 reviewed states, passed 89 workspace tests and all required gates, and left every corpus validator valid.
 - [x] (2026-07-16 20:49Z) Implemented bounded batch closure at `21863ef31`: after successful selected instruments enter the corpus, `batch run` reverse-relinks, validates, and republishes them, then records `expected_edges` as satisfied, missing, deferred, or invalid in its report. Missing or malformed concrete expectations fail the batch; unavailable targets and sources not processed in the run remain explicit deferrals. The CLI regression covers whole-instrument and article-scoped checks, missing edges, unresolved edges, unavailable targets, partial runs, malformed syntax, and a full temporary-corpus reverse-link/validate/export closure. The full gate passed with 91 workspace tests and both audited baseline validators.
+- [x] (2026-07-16 21:00Z) Operator accepted the bounded batch closure and set the scalable operating rule: treat each batch as a local-code learning loop. Record reusable parser/linker defects as fixtures and deterministic code changes, source-specific findings as adapter configuration, and operating discoveries in this plan before the next instrument relies on them. Refreshed the stale project-facing status and orientation documents; Git history retains the superseded checkpoint snapshots.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
