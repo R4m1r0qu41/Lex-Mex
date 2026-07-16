@@ -1,0 +1,90 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "term": "Consejo General",
+    "instrument_id": "urn:lex-mx:federal:statute:lfrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfrm:article:6",
+    "fraction": "I",
+    "start_char": 61,
+    "end_char": 135,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:term:constitucion",
+    "term": "Constitución",
+    "instrument_id": "urn:lex-mx:federal:statute:lfrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfrm:article:6",
+    "fraction": "II",
+    "start_char": 135,
+    "end_char": 212,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:term:convocatoria",
+    "term": "Convocatoria",
+    "instrument_id": "urn:lex-mx:federal:statute:lfrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfrm:article:6",
+    "fraction": "III",
+    "start_char": 212,
+    "end_char": 317,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:term:formato",
+    "term": "Formato",
+    "instrument_id": "urn:lex-mx:federal:statute:lfrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfrm:article:6",
+    "fraction": "IV",
+    "start_char": 317,
+    "end_char": 380,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "term": "Instituto",
+    "instrument_id": "urn:lex-mx:federal:statute:lfrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfrm:article:6",
+    "fraction": "V",
+    "start_char": 380,
+    "end_char": 428,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "term": "Ley General",
+    "instrument_id": "urn:lex-mx:federal:statute:lfrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfrm:article:6",
+    "fraction": "VI",
+    "start_char": 428,
+    "end_char": 508,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:term:solicitud",
+    "term": "Solicitud",
+    "instrument_id": "urn:lex-mx:federal:statute:lfrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfrm:article:6",
+    "fraction": "VII",
+    "start_char": 508,
+    "end_char": 588,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:term:tribunal-electoral",
+    "term": "Tribunal Electoral",
+    "instrument_id": "urn:lex-mx:federal:statute:lfrm",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfrm:article:6",
+    "fraction": "VIII",
+    "start_char": 588,
+    "end_char": 690,
+    "basis": "express_definition"
+  }
+]

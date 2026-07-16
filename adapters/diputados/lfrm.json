@@ -1,0 +1,32 @@
+{
+  "slug": "lfrm",
+  "instrument_id": "urn:lex-mx:federal:statute:lfrm",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "main_document_stop_markers": [
+    "Ciudad de México, a 7 de septiembre de 2021"
+  ],
+  "external_instruments": [
+    {
+      "name_marker": "Constitución",
+      "instrument_id": "urn:lex-mx:federal:constitution:cpeum"
+    }
+  ],
+  "official_title": "Ley Federal de Revocación de Mandato",
+  "short_name": "LFRM",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrm.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2021-09-14",
+  "expected_min_articles": 61,
+  "expected_articles": 61,
+  "expected_transitories": 5,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-16T19:12:58Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

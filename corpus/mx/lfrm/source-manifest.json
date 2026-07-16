@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfrm",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRM.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrm.htm",
+  "retrieved_at": "2026-07-16T19:12:56.819307Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 608253,
+  "etag": "\"947fd-608b85c7d8ac0\"",
+  "last_modified": "Fri, 27 Oct 2023 20:16:19 GMT",
+  "source_sha256": "eddfcf458c46cacee55392a138412b0d014bcc306c455d92ed94250efce4904c",
+  "extracted_text_sha256": "e29e0de5ef0743baab59214fab2521eaae25b08a2d49810eb9e8f3039c5f3af4",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "fc1d0517b6f1adb53a9c64c878dfe4ad4b9825a9"
+}

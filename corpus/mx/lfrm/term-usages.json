@@ -1,0 +1,974 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:1:term-usage:73-85",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:constitucion",
+    "span": "Constitución",
+    "start_char": 73,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:3:term-usage:169-181",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:constitucion",
+    "span": "Constitución",
+    "start_char": 169,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:3:term-usage:280-291",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 280,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:4:term-usage:97-106",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 97,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:4:term-usage:131-149",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:tribunal-electoral",
+    "span": "Tribunal Electoral",
+    "start_char": 131,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:4:term-usage:233-242",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 233,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:6:term-usage:104-113",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 104,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:6:term-usage:299-314",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 299,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:8:term-usage:164-176",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:constitucion",
+    "span": "Constitución",
+    "start_char": 164,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:8:term-usage:583-594",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 583,
+    "end_char": 594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:10:term-usage:427-439",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:constitucion",
+    "span": "Constitución",
+    "start_char": 427,
+    "end_char": 439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:11:term-usage:86-95",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 86,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:11:term-usage:382-391",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 382,
+    "end_char": 391
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:11:term-usage:607-616",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 607,
+    "end_char": 616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:11:term-usage:959-974",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 959,
+    "end_char": 974
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:11:term-usage:1298-1305",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:formato",
+    "span": "Formato",
+    "start_char": 1298,
+    "end_char": 1305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:11:term-usage:1531-1540",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 1531,
+    "end_char": 1540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:12:term-usage:58-67",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 58,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:13:term-usage:367-378",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 367,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:13:term-usage:384-393",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 384,
+    "end_char": 393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:13:term-usage:704-713",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 704,
+    "end_char": 713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:13:term-usage:830-841",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 830,
+    "end_char": 841
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:14:term-usage:336-345",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 336,
+    "end_char": 345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:14:term-usage:462-473",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 462,
+    "end_char": 473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:16:term-usage:52-61",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 52,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:16:term-usage:536-545",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 536,
+    "end_char": 545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:16:term-usage:602-611",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 602,
+    "end_char": 611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:16:term-usage:658-673",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 658,
+    "end_char": 673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:17:term-usage:131-140",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 131,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:18:term-usage:50-59",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 50,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:19:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:convocatoria",
+    "span": "Convocatoria",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:19:term-usage:926-938",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:convocatoria",
+    "span": "Convocatoria",
+    "start_char": 926,
+    "end_char": 938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:20:term-usage:3-15",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:convocatoria",
+    "span": "Convocatoria",
+    "start_char": 3,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:20:term-usage:30-39",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 30,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:21:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:22:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:24:term-usage:716-727",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 716,
+    "end_char": 727
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:25:term-usage:159-168",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 159,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:26:term-usage:72-81",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 72,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:26:term-usage:96-111",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 96,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:26:term-usage:307-316",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 307,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:26:term-usage:855-866",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 855,
+    "end_char": 866
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:26:term-usage:938-947",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 938,
+    "end_char": 947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:27:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:27:term-usage:199-210",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 199,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:28:term-usage:137-152",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 137,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:28:term-usage:185-197",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:convocatoria",
+    "span": "Convocatoria",
+    "start_char": 185,
+    "end_char": 197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:29:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:29:term-usage:23-32",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 23,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:30:term-usage:33-42",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 33,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:30:term-usage:238-253",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 238,
+    "end_char": 253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:31:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:31",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:32:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:32:term-usage:96-108",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:convocatoria",
+    "span": "Convocatoria",
+    "start_char": 96,
+    "end_char": 108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:32:term-usage:252-261",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 252,
+    "end_char": 261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:32:term-usage:448-457",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 448,
+    "end_char": 457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:33:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:33:term-usage:247-256",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 247,
+    "end_char": 256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:33:term-usage:437-446",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 437,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:33:term-usage:592-604",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:constitucion",
+    "span": "Constitución",
+    "start_char": 592,
+    "end_char": 604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:33:term-usage:647-656",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 647,
+    "end_char": 656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:33:term-usage:1035-1044",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 1035,
+    "end_char": 1044
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:33:term-usage:1236-1248",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:convocatoria",
+    "span": "Convocatoria",
+    "start_char": 1236,
+    "end_char": 1248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:35:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:36:term-usage:70-79",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 70,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:36:term-usage:147-162",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 147,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:36:term-usage:851-866",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 851,
+    "end_char": 866
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:36:term-usage:897-906",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 897,
+    "end_char": 906
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:36:term-usage:958-973",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 958,
+    "end_char": 973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:37:term-usage:209-218",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 209,
+    "end_char": 218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:37:term-usage:1534-1549",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 1534,
+    "end_char": 1549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:39:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:40:term-usage:173-184",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 173,
+    "end_char": 184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:40:term-usage:350-362",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:convocatoria",
+    "span": "Convocatoria",
+    "start_char": 350,
+    "end_char": 362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:40:term-usage:460-472",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:convocatoria",
+    "span": "Convocatoria",
+    "start_char": 460,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:40:term-usage:496-511",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 496,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:41:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:41:term-usage:271-282",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 271,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:41:term-usage:300-309",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 300,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:41:term-usage:505-514",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 505,
+    "end_char": 514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:41:term-usage:848-859",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 848,
+    "end_char": 859
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:41:term-usage:1086-1097",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 1086,
+    "end_char": 1097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:45:term-usage:83-92",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 83,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:45:term-usage:348-359",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 348,
+    "end_char": 359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:46:term-usage:666-684",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:46",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:tribunal-electoral",
+    "span": "Tribunal Electoral",
+    "start_char": 666,
+    "end_char": 684
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:47:term-usage:460-471",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 460,
+    "end_char": 471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:50:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:51:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:55:term-usage:45-63",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:tribunal-electoral",
+    "span": "Tribunal Electoral",
+    "start_char": 45,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:55:term-usage:264-273",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 264,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:55:term-usage:385-397",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:constitucion",
+    "span": "Constitución",
+    "start_char": 385,
+    "end_char": 397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:56:term-usage:89-98",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 89,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:56:term-usage:290-305",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 290,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:57:term-usage:3-18",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:consejo-general",
+    "span": "Consejo General",
+    "start_char": 3,
+    "end_char": 18
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:57:term-usage:23-32",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 23,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:57:term-usage:285-303",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:tribunal-electoral",
+    "span": "Tribunal Electoral",
+    "start_char": 285,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:58:term-usage:109-127",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:tribunal-electoral",
+    "span": "Tribunal Electoral",
+    "start_char": 109,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:58:term-usage:412-430",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:tribunal-electoral",
+    "span": "Tribunal Electoral",
+    "start_char": 412,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:58:term-usage:627-636",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 627,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:59:term-usage:284-296",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:constitucion",
+    "span": "Constitución",
+    "start_char": 284,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:60:term-usage:219-237",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:tribunal-electoral",
+    "span": "Tribunal Electoral",
+    "start_char": 219,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:60:term-usage:388-400",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:constitucion",
+    "span": "Constitución",
+    "start_char": 388,
+    "end_char": 400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:61:term-usage:16-25",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 16,
+    "end_char": 25
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:61:term-usage:116-127",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:ley-general",
+    "span": "Ley General",
+    "start_char": 116,
+    "end_char": 127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:article:61:term-usage:192-210",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:tribunal-electoral",
+    "span": "Tribunal Electoral",
+    "start_char": 192,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:transitory:tercero:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:transitory:tercero:term-usage:178-190",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:convocatoria",
+    "span": "Convocatoria",
+    "start_char": 178,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrm:transitory:cuarto:term-usage:3-12",
+    "provision_id": "urn:lex-mx:federal:statute:lfrm:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfrm:term:instituto",
+    "span": "Instituto",
+    "start_char": 3,
+    "end_char": 12
+  }
+]
