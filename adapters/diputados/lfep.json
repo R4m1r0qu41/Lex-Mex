@@ -1,0 +1,26 @@
+{
+  "slug": "lfep",
+  "instrument_id": "urn:lex-mx:federal:statute:lfep",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "main_document_stop_markers": [
+    "México, D. F., a 25 de abril de 1986"
+  ],
+  "official_title": "Ley Federal de las Entidades Paraestatales",
+  "short_name": "LFEP",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfep.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1986-05-14",
+  "expected_min_articles": 69,
+  "expected_articles": 69,
+  "expected_transitories": 8,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-16T22:08:31Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

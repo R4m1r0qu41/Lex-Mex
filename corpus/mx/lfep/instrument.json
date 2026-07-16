@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfep",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de las Entidades Paraestatales",
+  "short_name": "LFEP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1986-05-14",
+  "latest_reform_date": "2025-07-16",
+  "retrieved_at": "2026-07-16T22:08:29.692494Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFEP.pdf",
+  "source_sha256": "c0f203a9c6ebb990db8a2a43559ecf19e904f7c0757d0f334f7f4fb044aa6a12",
+  "extracted_text_sha256": "02b7cdba897422dcb5274a1bb71ef5e1a9ba0e1a7dd3fc21ca3ddb92ba91edee",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
