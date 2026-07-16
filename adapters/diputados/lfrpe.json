@@ -1,0 +1,26 @@
+{
+  "slug": "lfrpe",
+  "instrument_id": "urn:lex-mx:federal:statute:lfrpe",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "main_document_stop_markers": [
+    "México, D.F., a 14 de diciembre de 2004"
+  ],
+  "official_title": "Ley Federal de Responsabilidad Patrimonial del Estado",
+  "short_name": "LFRPE",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2004-12-31",
+  "expected_min_articles": 35,
+  "expected_articles": 35,
+  "expected_transitories": 2,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-16T23:08:47Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

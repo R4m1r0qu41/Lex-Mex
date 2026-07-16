@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfrpe",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe.htm",
+  "retrieved_at": "2026-07-16T23:08:45.816735Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 391126,
+  "etag": "\"5f7d6-60f4062130080\"",
+  "last_modified": "Thu, 18 Jan 2024 23:04:18 GMT",
+  "source_sha256": "05390b6c1389b13c8004675b51e5da49bbdbba01c352e844ec1ccaf9b5abf1da",
+  "extracted_text_sha256": "72e9602c9db4f401e9823c756c27e06aca75a773db8b675eaad2e0faca402483",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "6dd97e153e13527cb7b00d4e24a70830a1efa834"
+}

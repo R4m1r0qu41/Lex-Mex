@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfrpe",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Responsabilidad Patrimonial del Estado",
+  "short_name": "LFRPE",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2004-12-31",
+  "latest_reform_date": "2023-12-29",
+  "retrieved_at": "2026-07-16T23:08:45.816735Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRPE.pdf",
+  "source_sha256": "05390b6c1389b13c8004675b51e5da49bbdbba01c352e844ec1ccaf9b5abf1da",
+  "extracted_text_sha256": "72e9602c9db4f401e9823c756c27e06aca75a773db8b675eaad2e0faca402483",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

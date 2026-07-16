@@ -1,0 +1,99 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrpe:article:1:reference:64-67:109:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfrpe:article:1",
+    "source_span": "109",
+    "start_char": 64,
+    "end_char": 67,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:109",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "sexto párrafo",
+        "start_char": 37,
+        "end_char": 50
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrpe:article:27:reference:60-62:21:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfrpe:article:27",
+    "source_span": "21",
+    "start_char": 60,
+    "end_char": 62,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfrpe",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfrpe:article:21",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrpe:article:5:reference:678-679:8:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfrpe:article:5",
+    "source_span": "8",
+    "start_char": 678,
+    "end_char": 679,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfrpe",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfrpe:article:8",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrpe:article:5:reference:682-684:11:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfrpe:article:5",
+    "source_span": "11",
+    "start_char": 682,
+    "end_char": 684,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfrpe",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfrpe:article:11",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrpe:article:6:reference:353-355:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfrpe:article:6",
+    "source_span": "16",
+    "start_char": 353,
+    "end_char": 355,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfrpe",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfrpe:article:16",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfrpe:article:8:reference:244-246:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfrpe:article:8",
+    "source_span": "16",
+    "start_char": 244,
+    "end_char": 246,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfrpe",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfrpe:article:16",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]
