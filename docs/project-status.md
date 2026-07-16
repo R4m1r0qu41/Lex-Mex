@@ -21,6 +21,25 @@ Diputados and CNBV sources; the earlier external-vault Python imports are not
 canonical. Obsidian remains a presentation target, with generated content
 confined to `Corpus/<instrument>/`.
 
+### Archived divergent branches
+
+`main` is the sole active line of development. The three parallel worktree
+branches that had diverged before CN1 (`fable/lfjs-and-vault-export`,
+`fable/tax-ingestion`, `fable/cross-linking`, the last of which had already
+absorbed the other two) are archived, not merged, per the 2026-07-16
+divergent-worktree integration decision in
+`docs/plans/cluster-2-federal-corpus-ingestion.md`. Their local branches and
+worktree checkouts (`lex-mex-ancillary`, `lex-mex-linking`, `lex-mex-tax`)
+have been deleted; each is preserved as an annotated tag for provenance:
+
+- `archive/fable-cross-linking` (was `e7ed6369`) — superset, includes the two below
+- `archive/fable-lfjs-and-vault-export` (was `7cbf8500`)
+- `archive/fable-tax-ingestion` (was `4d958058`)
+
+Reviewed units from this history are reimplemented on `main` individually as
+bounded, current-main changes when needed — never by merging or cherry-
+picking the archived branches directly.
+
 Current committed-corpus totals:
 
 | Artifact | Count |
@@ -113,7 +132,9 @@ regression sequence. CN1 closes only after reverse relinking and
 cross-instrument edge review; a successful forward batch run alone is not
 sufficient.
 
-The full execution and recovery procedure is in [`../PLAN.md`](../PLAN.md).
+The full execution and recovery procedure is in the
+[`cluster-2 federal corpus ingestion plan`](plans/cluster-2-federal-corpus-ingestion.md);
+the stable planning contract and index are in [`../PLANS.md`](../PLANS.md).
 
 ## 5. Verification state
 
