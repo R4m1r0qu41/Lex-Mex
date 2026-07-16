@@ -10,12 +10,12 @@ use anyhow::{Context, Result, bail};
 use chrono::{NaiveDate, Utc};
 use clap::{Parser, Subcommand, ValueEnum};
 use lex_core::{
-    Corpus, Instrument, InstrumentStatus, InstrumentType, ProvisionType, ReviewItem,
-    ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest, TemporalAnalysisMetadata,
-    TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence, TemporalModelBatch,
-    TemporalReviewResolution, TemporalStatus, TransitoryEffect, apply_temporal_determinations,
-    open_temporal_review, preserve_temporal_review_history, reapply_temporal_determinations,
-    resolve_temporal_review, route_temporal_analysis,
+    Corpus, Instrument, InstrumentStatus, InstrumentType, ProvisionType, ReferenceResolutionStatus,
+    ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest,
+    TemporalAnalysisMetadata, TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence,
+    TemporalModelBatch, TemporalReviewResolution, TemporalStatus, TransitoryEffect,
+    apply_temporal_determinations, open_temporal_review, preserve_temporal_review_history,
+    reapply_temporal_determinations, resolve_temporal_review, route_temporal_analysis,
 };
 use lex_export::{
     LinkTargets, TermTargets, link_targets, term_targets, write_canonical, write_markdown,
@@ -812,6 +812,318 @@ fn run_batch_instrument(
     Ok(())
 }
 
+#[derive(Debug, serde::Serialize)]
+struct BatchClosureReport {
+    status: String,
+    relinked: Vec<String>,
+    expected_edges: Vec<ExpectedEdgeCheck>,
+}
+
+#[derive(Debug, serde::Serialize)]
+struct ExpectedEdgeCheck {
+    expectation: String,
+    status: String,
+    detail: String,
+}
+
+#[derive(Debug)]
+struct ExpectedEdgeSpec {
+    source: String,
+    source_article: Option<String>,
+    target: String,
+}
+
+#[derive(Debug)]
+struct ExpectedEdgeCorpus {
+    slug: String,
+    short_name: String,
+    instrument_id: String,
+    references: Vec<(String, String, ReferenceResolutionStatus)>,
+}
+
+/// Close the bounded graph for the successfully processed instruments.  Their
+/// first parse could not see a later batch sibling, so this deliberately runs
+/// after every selected source has entered the corpus.
+fn run_batch_closure(
+    root: &Path,
+    successful_slugs: &[String],
+    expected_edges: &[String],
+    obsidian_vault: Option<&Path>,
+) -> Result<BatchClosureReport> {
+    for slug in successful_slugs {
+        let context = instrument_context(root, slug)?;
+        run_link(root, &context)?;
+    }
+    for slug in successful_slugs {
+        let context = instrument_context(root, slug)?;
+        let report = run_validate(root, &context)?;
+        if !report.valid {
+            bail!("validation failed for {slug} after batch reverse linking");
+        }
+        republish_exports(root, &context, obsidian_vault)?;
+    }
+
+    let corpora = expected_edge_corpora(root)?;
+    let selected: HashSet<&str> = successful_slugs.iter().map(String::as_str).collect();
+    let checks = evaluate_expected_edges(expected_edges, &selected, &corpora);
+    let status = if checks
+        .iter()
+        .any(|check| matches!(check.status.as_str(), "missing" | "invalid"))
+    {
+        "failed"
+    } else if successful_slugs.is_empty() {
+        "skipped"
+    } else {
+        "ok"
+    };
+    Ok(BatchClosureReport {
+        status: status.to_owned(),
+        relinked: successful_slugs.to_vec(),
+        expected_edges: checks,
+    })
+}
+
+fn expected_edge_corpora(root: &Path) -> Result<Vec<ExpectedEdgeCorpus>> {
+    read_committed_corpora(root).map(|corpora| {
+        corpora
+            .into_iter()
+            .map(|(slug, corpus)| ExpectedEdgeCorpus {
+                slug,
+                short_name: corpus.instrument.short_name,
+                instrument_id: corpus.instrument.id,
+                references: corpus
+                    .references
+                    .into_iter()
+                    .map(|edge| {
+                        (
+                            edge.source_provision_id,
+                            edge.target_instrument_id,
+                            edge.resolution_status,
+                        )
+                    })
+                    .collect(),
+            })
+            .collect()
+    })
+}
+
+fn parse_expected_edge(expectation: &str) -> Result<ExpectedEdgeSpec> {
+    let (source, target) = expectation
+        .split_once("->")
+        .context("expected edge must contain one '->'")?;
+    let source = source.trim();
+    let target = target.trim();
+    if source.is_empty() || target.is_empty() || target.contains("->") {
+        bail!("expected edge must have one non-empty source and target");
+    }
+    let article = Regex::new(r"(?i)^(?P<instrument>.+?)\s+art[ií]culo\s+(?P<article>.+)$")
+        .expect("expected-edge article selector regex");
+    let (source, source_article) = if let Some(captures) = article.captures(source) {
+        (
+            captures["instrument"].trim().to_owned(),
+            Some(captures["article"].trim().to_owned()),
+        )
+    } else {
+        (source.to_owned(), None)
+    };
+    if source.is_empty() || source_article.as_ref().is_some_and(String::is_empty) {
+        bail!("expected edge has an empty source selector");
+    }
+    Ok(ExpectedEdgeSpec {
+        source,
+        source_article,
+        target: target.to_owned(),
+    })
+}
+
+fn matching_expected_corpora<'a>(
+    selector: &str,
+    corpora: &'a [ExpectedEdgeCorpus],
+) -> Vec<&'a ExpectedEdgeCorpus> {
+    corpora
+        .iter()
+        .filter(|corpus| {
+            corpus.slug.eq_ignore_ascii_case(selector)
+                || corpus.short_name.eq_ignore_ascii_case(selector)
+        })
+        .collect()
+}
+
+fn evaluate_expected_edges(
+    expected_edges: &[String],
+    selected_slugs: &HashSet<&str>,
+    corpora: &[ExpectedEdgeCorpus],
+) -> Vec<ExpectedEdgeCheck> {
+    expected_edges
+        .iter()
+        .map(|expectation| {
+            let spec = match parse_expected_edge(expectation) {
+                Ok(spec) => spec,
+                Err(error) => {
+                    return ExpectedEdgeCheck {
+                        expectation: expectation.clone(),
+                        status: "invalid".to_owned(),
+                        detail: format!("{error:#}"),
+                    };
+                }
+            };
+            let sources = matching_expected_corpora(&spec.source, corpora);
+            let targets = matching_expected_corpora(&spec.target, corpora);
+            let source = match sources.as_slice() {
+                [] => {
+                    return ExpectedEdgeCheck {
+                        expectation: expectation.clone(),
+                        status: "invalid".to_owned(),
+                        detail: format!("source {:?} is not a committed corpus", spec.source),
+                    };
+                }
+                [source] => *source,
+                _ => {
+                    return ExpectedEdgeCheck {
+                        expectation: expectation.clone(),
+                        status: "invalid".to_owned(),
+                        detail: format!("source {:?} is ambiguous", spec.source),
+                    };
+                }
+            };
+            if !selected_slugs.contains(source.slug.as_str()) {
+                return ExpectedEdgeCheck {
+                    expectation: expectation.clone(),
+                    status: "deferred".to_owned(),
+                    detail: format!("source {} was not processed in this batch run", source.slug),
+                };
+            }
+            let target = match targets.as_slice() {
+                [] => {
+                    return ExpectedEdgeCheck {
+                        expectation: expectation.clone(),
+                        status: "deferred".to_owned(),
+                        detail: format!("target {:?} is not a committed corpus", spec.target),
+                    };
+                }
+                [target] => *target,
+                _ => {
+                    return ExpectedEdgeCheck {
+                        expectation: expectation.clone(),
+                        status: "invalid".to_owned(),
+                        detail: format!("target {:?} is ambiguous", spec.target),
+                    };
+                }
+            };
+            let source_provision_id = spec.source_article.as_ref().map(|article| {
+                format!(
+                    "{}:article:{}",
+                    source.instrument_id,
+                    lex_parse::labels::canonical_slug(article)
+                )
+            });
+            let resolved = source
+                .references
+                .iter()
+                .any(|(edge_source, edge_target, status)| {
+                    *status == ReferenceResolutionStatus::Resolved
+                        && edge_target == &target.instrument_id
+                        && source_provision_id
+                            .as_ref()
+                            .is_none_or(|expected_source| edge_source == expected_source)
+                });
+            ExpectedEdgeCheck {
+                expectation: expectation.clone(),
+                status: if resolved { "satisfied" } else { "missing" }.to_owned(),
+                detail: if resolved {
+                    format!("{} has a resolved edge to {}", source.slug, target.slug)
+                } else if let Some(article) = spec.source_article {
+                    format!(
+                        "{} Article {} has no resolved edge to {}",
+                        source.slug, article, target.slug
+                    )
+                } else {
+                    format!("{} has no resolved edge to {}", source.slug, target.slug)
+                },
+            }
+        })
+        .collect()
+}
+
+fn prepare_batch_instruments<'a>(
+    root: &Path,
+    manifest_path: &Path,
+    selected: &[&'a lex_source::BatchInstrument],
+    results: &mut Vec<serde_json::Value>,
+) -> Vec<&'a lex_source::BatchInstrument> {
+    let mut runnable = Vec::new();
+    for instrument in selected {
+        if find_adapter_path(root, &instrument.slug).is_ok() {
+            runnable.push(*instrument);
+        } else if instrument.adapter == "diputados" {
+            match scaffold_adapter(root, manifest_path, &instrument.slug) {
+                Ok(_) => runnable.push(*instrument),
+                Err(error) => results.push(serde_json::json!({
+                    "slug": instrument.slug,
+                    "status": "failed",
+                    "stage": "scaffold",
+                    "error": format!("{error:#}"),
+                })),
+            }
+        } else {
+            results.push(serde_json::json!({
+                "slug": instrument.slug,
+                "status": "skipped",
+                "reason": format!(
+                    "adapter {:?} requires a hand-written config",
+                    instrument.adapter
+                ),
+            }));
+        }
+    }
+    runnable
+}
+
+fn batch_closure_report(
+    root: &Path,
+    batch_id: &str,
+    failed: &[&str],
+    successful_slugs: &[String],
+    expected_edges: &[String],
+    obsidian_vault: Option<&Path>,
+) -> Result<(serde_json::Value, Option<String>)> {
+    if !failed.is_empty() {
+        return Ok((
+            serde_json::json!({
+                "status": "skipped",
+                "detail": "one or more instruments failed before reverse-link closure",
+            }),
+            None,
+        ));
+    }
+    match run_batch_closure(root, successful_slugs, expected_edges, obsidian_vault) {
+        Ok(closure) => {
+            let error = (closure.status == "failed").then(|| {
+                let missing: Vec<_> = closure
+                    .expected_edges
+                    .iter()
+                    .filter(|check| matches!(check.status.as_str(), "missing" | "invalid"))
+                    .map(|check| check.expectation.as_str())
+                    .collect();
+                format!(
+                    "batch {batch_id} did not satisfy expected edges: {}",
+                    missing.join(", ")
+                )
+            });
+            Ok((serde_json::to_value(closure)?, error))
+        }
+        Err(error) => Ok((
+            serde_json::json!({
+                "status": "failed",
+                "detail": format!("{error:#}"),
+            }),
+            Some(format!(
+                "batch {batch_id} reverse-link closure failed: {error:#}"
+            )),
+        )),
+    }
+}
+
 fn run_batch(
     root: &Path,
     manifest_path: &Path,
@@ -838,31 +1150,7 @@ fn run_batch(
     // Scaffold missing Diputados adapters up front, then check global
     // uniqueness before any network work.
     let mut results: Vec<serde_json::Value> = Vec::new();
-    let mut runnable = Vec::new();
-    for instrument in &selected {
-        if find_adapter_path(root, &instrument.slug).is_ok() {
-            runnable.push(instrument);
-        } else if instrument.adapter == "diputados" {
-            match scaffold_adapter(root, manifest_path, &instrument.slug) {
-                Ok(_) => runnable.push(instrument),
-                Err(error) => results.push(serde_json::json!({
-                    "slug": instrument.slug,
-                    "status": "failed",
-                    "stage": "scaffold",
-                    "error": format!("{error:#}"),
-                })),
-            }
-        } else {
-            results.push(serde_json::json!({
-                "slug": instrument.slug,
-                "status": "skipped",
-                "reason": format!(
-                    "adapter {:?} requires a hand-written config",
-                    instrument.adapter
-                ),
-            }));
-        }
-    }
+    let runnable = prepare_batch_instruments(root, manifest_path, &selected, &mut results);
     preflight_adapter_uniqueness(root)?;
     for instrument in runnable {
         println!("— {} —", instrument.slug);
@@ -889,6 +1177,19 @@ fn run_batch(
         .filter(|entry| entry["status"] == "failed")
         .filter_map(|entry| entry["slug"].as_str())
         .collect();
+    let successful_slugs: Vec<String> = results
+        .iter()
+        .filter(|entry| entry["status"] == "ok")
+        .filter_map(|entry| entry["slug"].as_str().map(str::to_owned))
+        .collect();
+    let (closure, closure_error) = batch_closure_report(
+        root,
+        &manifest.batch_id,
+        &failed,
+        &successful_slugs,
+        &manifest.expected_edges,
+        obsidian_vault,
+    )?;
     let report_path = root
         .join(".work")
         .join(format!("batch-report-{}.json", manifest.batch_id));
@@ -898,6 +1199,7 @@ fn run_batch(
             "batch_id": manifest.batch_id,
             "generated_at": Utc::now().to_rfc3339(),
             "results": results,
+            "closure": closure,
         }),
         &report_path,
     )?;
@@ -919,6 +1221,9 @@ fn run_batch(
             manifest.batch_id,
             failed.join(", ")
         );
+    }
+    if let Some(error) = closure_error {
+        bail!("{error}");
     }
     Ok(())
 }
@@ -1823,13 +2128,12 @@ fn build_link_targets(
     (targets, terms)
 }
 
-/// Read every committed corpus except `own_instrument_id`, keyed by its
-/// corpus directory slug.
-fn read_sibling_corpora(root: &Path, own_instrument_id: &str) -> Result<Vec<(String, Corpus)>> {
+/// Read every committed corpus, keyed by its corpus directory slug.
+fn read_committed_corpora(root: &Path) -> Result<Vec<(String, Corpus)>> {
     let corpus_root = root.join("corpus/mx");
-    let mut siblings = Vec::new();
+    let mut corpora = Vec::new();
     if !corpus_root.is_dir() {
-        return Ok(siblings);
+        return Ok(corpora);
     }
     let mut directories: Vec<_> = fs::read_dir(&corpus_root)?
         .collect::<Result<Vec<_>, _>>()?
@@ -1846,11 +2150,20 @@ fn read_sibling_corpora(root: &Path, own_instrument_id: &str) -> Result<Vec<(Str
             .to_owned();
         let paths = Paths::new(root, &slug);
         let corpus = read_corpus(&paths)?;
-        if corpus.instrument.id != own_instrument_id {
-            siblings.push((slug, corpus));
-        }
+        corpora.push((slug, corpus));
     }
-    Ok(siblings)
+    Ok(corpora)
+}
+
+/// Read every committed corpus except `own_instrument_id`, keyed by its
+/// corpus directory slug.
+fn read_sibling_corpora(root: &Path, own_instrument_id: &str) -> Result<Vec<(String, Corpus)>> {
+    read_committed_corpora(root).map(|corpora| {
+        corpora
+            .into_iter()
+            .filter(|(_, corpus)| corpus.instrument.id != own_instrument_id)
+            .collect()
+    })
 }
 
 fn read_all_review_queues(root: &Path) -> Result<Vec<ReviewItem>> {
@@ -2008,11 +2321,23 @@ impl Paths {
 
 #[cfg(test)]
 mod tests {
-    use std::collections::{BTreeMap, HashMap};
+    use std::{
+        collections::{BTreeMap, HashMap, HashSet},
+        fs,
+    };
 
-    use chrono::NaiveDate;
+    use chrono::{NaiveDate, Utc};
+    use lex_core::{
+        Corpus, HeadingContext, Instrument, InstrumentStatus, InstrumentType, Provision,
+        ProvisionType, ReferenceResolutionStatus, ReviewStatus, SCHEMA_VERSION, TemporalStatus,
+    };
+    use lex_export::write_canonical;
+    use url::Url;
 
-    use super::{InstrumentAliasTable, latest_reform_date, resolve_global_aliases};
+    use super::{
+        ExpectedEdgeCorpus, InstrumentAliasTable, Paths, evaluate_expected_edges,
+        latest_reform_date, read_corpus, resolve_global_aliases, run_batch_closure,
+    };
 
     const STALE_RUNNING_HEADER_REFORM_DATE_FIXTURE: &str = include_str!(
         "../../../fixtures/diputados/latest-reform-date-stale-running-header-sample.txt"
@@ -2067,5 +2392,230 @@ mod tests {
                 "urn:test:locg".to_owned(),
             )]
         );
+    }
+
+    #[test]
+    fn expected_edges_distinguish_recall_failures_from_deferred_targets() {
+        let corpora = vec![
+            ExpectedEdgeCorpus {
+                slug: "lic".to_owned(),
+                short_name: "LIC".to_owned(),
+                instrument_id: "urn:test:lic".to_owned(),
+                references: vec![
+                    (
+                        "urn:test:lic:article:115".to_owned(),
+                        "urn:test:ltosf".to_owned(),
+                        ReferenceResolutionStatus::Resolved,
+                    ),
+                    (
+                        "urn:test:lic:article:116".to_owned(),
+                        "urn:test:ltosf".to_owned(),
+                        ReferenceResolutionStatus::Unresolved,
+                    ),
+                ],
+            },
+            ExpectedEdgeCorpus {
+                slug: "ltosf".to_owned(),
+                short_name: "LTOSF".to_owned(),
+                instrument_id: "urn:test:ltosf".to_owned(),
+                references: Vec::new(),
+            },
+            ExpectedEdgeCorpus {
+                slug: "lraf".to_owned(),
+                short_name: "LRAF".to_owned(),
+                instrument_id: "urn:test:lraf".to_owned(),
+                references: Vec::new(),
+            },
+        ];
+        let selected = HashSet::from(["lic"]);
+        let expectations = vec![
+            "LIC -> LTOSF".to_owned(),
+            "LIC articulo 115 -> LTOSF".to_owned(),
+            "LIC articulo 116 -> LTOSF".to_owned(),
+            "LIC -> PLD family".to_owned(),
+            "LRAF -> LIC".to_owned(),
+            "not an edge".to_owned(),
+        ];
+
+        let checks = evaluate_expected_edges(&expectations, &selected, &corpora);
+
+        assert_eq!(
+            checks
+                .iter()
+                .map(|check| check.status.as_str())
+                .collect::<Vec<_>>(),
+            [
+                "satisfied",
+                "satisfied",
+                "missing",
+                "deferred",
+                "deferred",
+                "invalid",
+            ]
+        );
+    }
+
+    fn fixture_corpus(id: &str, title: &str, short_name: &str, text: &str) -> Corpus {
+        let date = NaiveDate::from_ymd_opt(2024, 1, 1).unwrap();
+        Corpus {
+            instrument: Instrument {
+                schema_version: SCHEMA_VERSION.to_owned(),
+                id: id.to_owned(),
+                jurisdiction: "mx".to_owned(),
+                level: "federal".to_owned(),
+                instrument_type: InstrumentType::Statute,
+                official_title: title.to_owned(),
+                short_name: short_name.to_owned(),
+                operational_source: "fixture".to_owned(),
+                formal_publication_source: "dof".to_owned(),
+                publication_date: date,
+                latest_reform_date: None,
+                retrieved_at: Utc::now(),
+                source_url: Url::parse("https://example.test/source.pdf").unwrap(),
+                source_sha256: "a".repeat(64),
+                extracted_text_sha256: "b".repeat(64),
+                parser_version: "test".to_owned(),
+                status: InstrumentStatus::InForce,
+                issuing_authorities: Vec::new(),
+                formal_publication_url: None,
+                formal_publication_code: None,
+                formal_source_sha256: None,
+                formal_extracted_text_sha256: None,
+            },
+            provisions: vec![Provision {
+                schema_version: SCHEMA_VERSION.to_owned(),
+                id: format!("{id}:article:1"),
+                instrument_id: id.to_owned(),
+                provision_type: ProvisionType::Article,
+                label: "Artículo 1".to_owned(),
+                number: "1".to_owned(),
+                heading_context: HeadingContext {
+                    libro: None,
+                    title: None,
+                    chapter: None,
+                    section: None,
+                    apartado: None,
+                },
+                text: text.to_owned(),
+                publication_date: date,
+                effective_from: None,
+                effective_to: None,
+                temporal_status: TemporalStatus::Unknown,
+                temporal_basis: None,
+                temporal_confidence: None,
+                review_status: ReviewStatus::NotAnalyzed,
+                transitory_effects: Vec::new(),
+                amendment_marks: Vec::new(),
+            }],
+            references: Vec::new(),
+            terms: Vec::new(),
+            term_usages: Vec::new(),
+            amendment_references: Vec::new(),
+        }
+    }
+
+    fn write_fixture_adapter(
+        root: &std::path::Path,
+        slug: &str,
+        id: &str,
+        title: &str,
+        short_name: &str,
+        external_instruments: &serde_json::Value,
+    ) {
+        let adapter_dir = root.join("adapters/diputados");
+        fs::create_dir_all(&adapter_dir).unwrap();
+        let config = serde_json::json!({
+            "slug": slug,
+            "instrument_id": id,
+            "instrument_type": "statute",
+            "parser": "diputados",
+            "official_title": title,
+            "short_name": short_name,
+            "operational_source": "camara_de_diputados",
+            "source_url": "https://example.test/source.pdf",
+            "reference_url": "https://example.test/reference.htm",
+            "publisher": "Fixture",
+            "publication_date": "2024-01-01",
+            "expected_min_articles": 1,
+            "expected_articles": 1,
+            "expected_transitories": 0,
+            "formal_publication_urls": {},
+            "external_instruments": external_instruments,
+        });
+        fs::write(
+            adapter_dir.join(format!("{slug}.json")),
+            serde_json::to_vec_pretty(&config).unwrap(),
+        )
+        .unwrap();
+    }
+
+    #[test]
+    fn batch_closure_reverse_links_validates_and_exports_selected_instruments() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        let source_id = "urn:test:source";
+        let target_id = "urn:test:target";
+        write_fixture_adapter(
+            root,
+            "source",
+            source_id,
+            "Ley Fuente",
+            "FUENTE",
+            &serde_json::json!([{
+                "name_marker": "Ley Destino",
+                "instrument_id": target_id,
+            }]),
+        );
+        write_fixture_adapter(
+            root,
+            "target",
+            target_id,
+            "Ley Destino",
+            "DESTINO",
+            &serde_json::json!([]),
+        );
+        write_canonical(
+            &fixture_corpus(
+                source_id,
+                "Ley Fuente",
+                "FUENTE",
+                "En términos del artículo 1 de la Ley Destino.",
+            ),
+            &root.join("corpus/mx/source"),
+        )
+        .unwrap();
+        write_canonical(
+            &fixture_corpus(target_id, "Ley Destino", "DESTINO", "Texto destino."),
+            &root.join("corpus/mx/target"),
+        )
+        .unwrap();
+
+        let closure = run_batch_closure(
+            root,
+            &["source".to_owned(), "target".to_owned()],
+            &["FUENTE articulo 1 -> DESTINO".to_owned()],
+            None,
+        )
+        .unwrap();
+
+        assert_eq!(closure.status, "ok");
+        assert_eq!(closure.expected_edges[0].status, "satisfied");
+        let source = read_corpus(&Paths::new(root, "source")).unwrap();
+        assert_eq!(source.references.len(), 1);
+        assert_eq!(source.references[0].target_instrument_id, target_id);
+        assert!(
+            root.join("corpus/mx/source/markdown/articulo-1.md")
+                .is_file()
+        );
+
+        let skipped = run_batch_closure(
+            root,
+            &[],
+            &["FUENTE articulo 1 -> DESTINO".to_owned()],
+            None,
+        )
+        .unwrap();
+        assert_eq!(skipped.status, "skipped");
+        assert_eq!(skipped.expected_edges[0].status, "deferred");
     }
 }

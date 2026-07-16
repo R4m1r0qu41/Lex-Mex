@@ -52,7 +52,7 @@
     "expected_edges": {
       "type": "array",
       "items": { "type": "string" },
-      "description": "Analyst-predicted cross-reference expectations, kept as a test oracle for the reference graph."
+      "description": "Analyst-predicted cross-reference recall expectations. Concrete entries use SOURCE -> TARGET or SOURCE articulo N -> TARGET, naming committed corpus slugs or short names. Unavailable targets are reported as deferred; missing or malformed concrete expectations fail batch closure."
     }
   }
 }

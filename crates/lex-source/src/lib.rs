@@ -199,8 +199,10 @@ pub struct BatchManifest {
     #[serde(default)]
     pub blocked: Vec<BlockedInstrument>,
     pub instruments: Vec<BatchInstrument>,
-    /// Analyst-predicted cross-reference expectations, kept as a test
-    /// oracle for the reference graph.
+    /// Analyst-predicted cross-reference expectations, kept as a recall
+    /// oracle for the reference graph. Concrete entries use
+    /// `SOURCE -> TARGET` or `SOURCE articulo N -> TARGET`, naming a corpus
+    /// slug or short name; unavailable targets remain explicitly deferred.
     #[serde(default)]
     pub expected_edges: Vec<String>,
 }

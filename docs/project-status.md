@@ -165,9 +165,14 @@ targets during their initial parse.
 
 Known engineering and corpus gaps remain:
 
-- batch execution does not yet perform reverse relinking automatically;
-- the shared instrument-alias registry is not yet wired into per-adapter
-  `external_instruments`, so cross-instrument recall requires explicit review;
+- batch execution now reverse-relinks, revalidates, and republishes the
+  successfully selected instruments before success; it evaluates concrete
+  `expected_edges` and records unavailable targets or sources not processed in
+  the run (including partial `--only` runs) as deferred. Corpus-wide relinking
+  and human recall review remain separate;
+- the shared instrument-alias registry is active for descriptive aliases whose
+  targets are committed; exact titles missing from that curated registry still
+  require an adapter-scoped mapping or a later registry expansion;
 - 16 previously admitted instruments still carry unfrozen count warnings;
 - no automated Cámara/CNBV/DOF source-change monitor, candidate-version flow,
   or provision-level update diff exists;

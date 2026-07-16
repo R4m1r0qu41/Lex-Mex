@@ -1,5 +1,24 @@
 # Architecture decisions
 
+## 2026-07-16 — Batch completion closes its bounded graph
+
+`batch run` now has a deterministic closure phase after every successfully
+processed selected instrument has entered the corpus. It reverse-relinks each
+such instrument against the complete committed sibling set, validates it, and
+regenerates Markdown (and an explicitly requested Obsidian target). A batch
+cannot report success if this bounded closure fails.
+
+`expected_edges` is now a recall oracle rather than an unused planning note.
+Concrete entries use `SOURCE -> TARGET` or `SOURCE articulo N -> TARGET`,
+where each name is a committed corpus slug or short name. The batch report
+records every check as `satisfied`, `missing`, `deferred`, or `invalid`.
+Missing and malformed concrete expectations fail closure; a target absent from
+the committed corpus, or a source not processed in this run (including
+`--only`), remains explicitly deferred rather than producing an invented edge
+or a false pass. This remains
+a bounded batch check, not a substitute for the deferred corpus-wide relink
+and review program.
+
 ## 2026-07-16 — Unanalyzed temporal status is unknown
 
 A consolidated current source establishes the wording the publisher presents;

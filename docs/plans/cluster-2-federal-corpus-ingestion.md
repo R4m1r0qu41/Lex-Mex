@@ -202,10 +202,10 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-After the operator switches to Terra high, implement and test the bounded
-batch-closure change: successful batch completion must reverse-relink the
-selected instruments and evaluate the manifest's `expected_edges` recall
-oracle. Stop for review before provisionally processing `lplan`.
+Review the bounded batch-closure implementation before provisionally
+processing `lplan`. It must remain limited to successfully selected
+instruments; corpus-wide relinking and human expected-edge review remain
+separate work.
 
 ## Progress
 
@@ -233,6 +233,7 @@ oracle. Stop for review before provisionally processing `lplan`.
 - [x] (2026-07-16 20:18Z) Normalized and committed AD1 at `614fe4a9`, advancing the operational inventory to 29 manifests and 156 unique instruments. All six entries were absent, unblocked, and preserved in prepared order; the workspace tests, formatting, clippy, and both audited baseline validators passed. Live Cámara verification was inconclusive because the official host failed its TLS handshake.
 - [x] (2026-07-16 20:21Z) Audited the accumulated ingestion regressions after CN2. The 87-test workspace strongly covers parser and temporal primitives, but identified two correctness risks before further scale: freshly parsed, unanalyzed provisions default to `effective` even when consolidated text records SCJN invalidity, and batch success neither reverse-relinks earlier instruments nor evaluates the manifest's `expected_edges` recall oracle. Secondary debt remains in exact-title alias discovery, pre-ingestion commit provenance, and untested CLI orchestration.
 - [x] (2026-07-16 20:39Z) Corrected the unanalyzed temporal boundary at `1f262295`. Ordinary provisions now begin `unknown`; explicit source-text repeal notes remain deterministically `repealed`; and validation rejects an unanalyzed status that disagrees with that rule. The reviewed migration changed only temporal-status lines for 30,124 canonical provisions and matching Markdown across 144 corpora, retained 3,592 explicit repeals and all 22 reviewed states, passed 89 workspace tests and all required gates, and left every corpus validator valid.
+- [x] (2026-07-16 20:49Z) Implemented bounded batch closure: after successful selected instruments enter the corpus, `batch run` reverse-relinks, validates, and republishes them, then records `expected_edges` as satisfied, missing, deferred, or invalid in its report. Missing or malformed concrete expectations fail the batch; unavailable targets and sources not processed in the run remain explicit deferrals. The CLI regression covers whole-instrument and article-scoped checks, missing edges, unresolved edges, unavailable targets, partial runs, malformed syntax, and a full temporary-corpus reverse-link/validate/export closure.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
@@ -240,14 +241,12 @@ oracle. Stop for review before provisionally processing `lplan`.
 
 - Observation: the active-run capsule is behind live repository state.
   Evidence: checkpoint 3 names `reg-senado` as next, while documentation HEAD `8a3a0f9b` records valid committed corpora through `rgic`.
-- Observation: a successful batch run does not close reverse cross-instrument links.
-  Evidence: each instrument extracts references against siblings present during its parse, but `run_batch` does not relink instruments processed earlier after a later target is added. A separate reverse relink pass is required unless batch orchestration is enhanced.
-- Observation: the validation gate proves emitted-edge integrity, not citation
-  recall, and batch execution never consumes `BatchManifest.expected_edges`.
-  Evidence: `expected_edges` is deserialized and documented as a test oracle,
-  but has no reader outside `lex-source`; `run_batch` returns success after
-  per-instrument validation even when earlier instruments have not seen later
-  sibling targets.
+- Observation: batch closure now covers only successful selected instruments,
+  not every committed corpus.
+  Evidence: the closure reverse-links, validates, republishes, and evaluates
+  expected edges for its successful source set; expectations with unavailable
+  targets or sources not processed in the run are reported as deferred. A
+  corpus-wide relink and human recall review remain intentionally separate.
 - Observation: the former structural default assigned `effective` to every
   non-repeal provision before temporal analysis; this is resolved at
   `1f262295`.
@@ -261,12 +260,11 @@ oracle. Stop for review before provisionally processing `lplan`.
   Evidence: global linking uses only the curated alias table plus per-adapter
   overrides; LATIME therefore needs an instrument-scoped full-title mapping
   for the already committed LFT target.
-- Observation: regression coverage is concentrated below the orchestration
-  boundary.
-  Evidence: the workspace has 65 parser tests, 13 temporal-core tests, 4
-  exporter tests, and 3 source tests, but only 2 CLI tests; fetch-through-
-  export batch flow, reverse closure, expected-edge evaluation, and source
-  manifest commit provenance have no hermetic orchestration regression.
+- Observation: regression coverage remains concentrated below the full
+  fetch-through-export orchestration boundary.
+  Evidence: the new CLI regression exercises expected-edge closure semantics,
+  while live-source acquisition and full batch execution remain intentionally
+  integration-tested manually against official hosts.
 - Observation: exact sibling-title mentions do not necessarily imply an
   article-level graph edge.
   Evidence: after the registry became active, every CN1 citation containing a
@@ -386,6 +384,13 @@ oracle. Stop for review before provisionally processing `lplan`.
 - Decision: a batch is not complete when only its newly added instruments validate.
   Rationale: instruments parsed earlier cannot acquire references to targets that did not yet exist; close each batch with reverse relinking and expected-edge review.
   Date/author: 2026-07-14 / execution-plan adaptation.
+- Decision: `batch run` closes only its successfully selected instrument set,
+  then treats concrete `expected_edges` as a deterministic recall gate.
+  Rationale: this repairs the default batch-success claim without triggering a
+  corpus-wide rewrite. Missing or malformed concrete expectations fail; an
+  unavailable target or a source not processed in the run remains an explicit
+  deferral for later review.
+  Date/author: 2026-07-16 / bounded batch-closure implementation.
 - Decision: parser or linker defects discovered during execution receive their own fixtures, focused implementation diff, validation, and commit.
   Rationale: `AGENTS.md` requires regression evidence and forbids mixing unreviewed semantic changes into canonical data commits.
   Date/author: 2026-07-14 / repository policy.
