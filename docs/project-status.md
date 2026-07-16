@@ -2,9 +2,9 @@
 
 - **Status date:** 2026-07-16
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 144
+- **Committed instruments:** 145
 - **Active ingestion batch:** `administration_ad1_planning_paraestatals`
-- **Next checkpoint:** `lplan`
+- **Next checkpoint:** `lfep`
 - **Current legal reviewer:** JRH
 
 ## Current state
@@ -23,15 +23,15 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 144 |
-| Articles | 32,513 |
-| Original transitory provisions | 1,197 |
+| Instruments | 145 |
+| Articles | 32,561 |
+| Original transitory provisions | 1,202 |
 | Annexes | 28 |
-| Reference edges | 16,845 |
+| Reference edges | 16,852 |
 | Unresolved reference edges | 0 |
-| Generated Markdown files | 33,882 |
+| Generated Markdown files | 33,936 |
 
-All 144 `validation.json` reports are valid. They contain 187 non-blocking
+All 145 `validation.json` reports are valid. They contain 187 non-blocking
 warnings: 162 suffixed-article ordering notices, 16 unfrozen count baselines,
 7 article-gap notices, and 2 suffix-order notices. Validity does not imply
 that temporal analysis or legal review has been performed.
@@ -40,19 +40,20 @@ that temporal analysis or legal review has been performed.
 
 The source inventory defines a 454-instrument Cámara universe (laws and
 regulations, excluding DCGs). The pre-cluster corpus held 128 instruments;
-CN1 and CN2 added 16 and are structurally closed. The current corpus therefore
-contains 144 of the 454 instruments.
+CN1 and CN2 added 16 and are structurally closed. AD1 has now added `lplan`;
+the current corpus therefore contains 145 of the 454 instruments.
 
 The cluster-2 first pass contains 326 instruments in 53 batches. Its state is:
 
 | State | Batches | Instruments |
 |---|---:|---:|
 | Structurally closed (CN1, CN2) | 2 | 16 |
-| Admitted, next to process (AD1) | 1 | 6 |
+| Completed within active AD1 batch | 1 | 1 |
+| Admitted, remaining in AD1 | 1 | 5 |
 | Prepared, not yet admitted | 50 | 301 |
 | Explicitly blocked | 2 | 3 |
 
-The remaining active workload is 307 instruments: 205 laws, 99 regulations,
+The remaining active workload is 306 instruments: 204 laws, 99 regulations,
 2 codes, and 1 ordinance. `egdf`, `lif-2026`, and `pef-2026` remain explicit
 deferrals pending reviewer direction; they are not silently treated as
 complete.
@@ -105,7 +106,7 @@ record; ITF DCG transitory SÉPTIMO remains pending formal-boundary review.
 - live network/model flows remain integration-tested manually rather than in
   hermetic CI.
 
-Next: provisionally ingest `lplan`, record any reusable deterministic learning,
+Next: provisionally ingest `lfep`, record any reusable deterministic learning,
 then inspect and freeze its structural baseline before continuing AD1.
 
 ## Archived divergent branches
