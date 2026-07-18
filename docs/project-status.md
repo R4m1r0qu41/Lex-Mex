@@ -31,8 +31,8 @@ Current committed-corpus totals:
 | Unresolved reference edges | 0 |
 | Generated Markdown files | 34,102 |
 
-All 148 `validation.json` reports are valid. They contain 185 non-blocking
-warnings: 162 suffixed-article ordering notices, 14 unfrozen count baselines,
+All 148 `validation.json` reports are valid. They contain 187 non-blocking
+warnings: 162 suffixed-article ordering notices, 16 unfrozen count baselines,
 7 article-gap notices, and 2 suffix-order notices. Validity does not imply
 that temporal analysis or legal review has been performed.
 

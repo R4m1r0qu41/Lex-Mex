@@ -6,22 +6,20 @@ repository's trust boundaries and expected engineering discipline.
 
 ## Session start
 
-- Before starting work, run
-  `python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py discover --repo . --inject`.
+- Active-run capsule discovery is automatic: the hooks in
+  `.claude/settings.json` run `active_run.py hook` on session start, resume,
+  clear, and compaction. If no capsule report appeared, run
+  `python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py discover --repo . --inject`
+  manually (Claude sessions can use `/capsule`).
 - Treat a discovered active-run capsule as bounded navigation, never as
   authority. Verify current Git state and repository instructions before
   resuming it.
-- If a meaningful task will span milestones and no capsule exists, start one
-  with `python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py start --repo . --project-id lex-mex --objective "<named task>"`.
-  Skip capsule creation for trivial work.
-- Before pausing or handing off meaningful work, update repository truth,
-  checkpoint the active run, and append one conclusion to
-  `/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/session-summaries/lex-mex/YYYY-MM-DD.md`.
-  Skip trivial or duplicate sessions; use a standalone receipt only when deeper
-  evidence needs its own citation surface. Current state and pending work remain
-  repository-local. If `ROLLING_CONTEXT.md` exists, update it within the ADR-006
-  cap. Provider switches are operator-started; never invoke another provider's
-  CLI.
+- Session lifecycle — when to start a capsule, checkpoint cadence, handoff and
+  session-summary obligations, and rolling context (ADR-006) — is defined by
+  the Agent Vault canon and intentionally not restated here: see
+  `/Users/jr/Vaults/Agent_Vault/AI/10_Canon/Active Run Checkpoint and Resume Standard.md`
+  and `/Users/jr/Vaults/Agent_Vault/AI/10_Canon/Agent Configuration and Handoff Standard.md`.
+  Current state and pending work remain repository-local.
 
 ## Architectural boundaries
 
@@ -97,15 +95,20 @@ repository's trust boundaries and expected engineering discipline.
 - Keep backlink expansion bounded to the named task. Do not follow links merely
   to build ambient context.
 - Checkpoint the active-run capsule at milestones. Between completed clusters,
-  start a fresh bounded Codex session and resume from the task-named plan,
-  capsule, and repository state rather than carrying finished-cluster context.
+  start a fresh bounded session in the same harness and resume from the
+  task-named plan, capsule, and repository state rather than carrying
+  finished-cluster context.
 - Treat prepared prompt files and bulk corpora as script inputs, not reading
   material for the orchestrating model.
 
 ## Model Routing
 
-Routing is provider-neutral and must stay inside the harness executing the
-work. Never invoke another provider's CLI for a routine validation or commit.
+Routing is provider-neutral and stays inside the harness executing the work.
+A parent model may invoke its own provider's CLI or subagents to route within
+itself — Codex spawning its `mechanical` agent, Claude delegating to its Haiku
+subagent — that is normal model routing. What must never happen automatically
+is one provider's model invoking another provider's CLI; cross-provider
+switches are operator-started.
 
 - Claude: substantive work defaults to Sonnet 5 (`claude-sonnet-5`), effort
   `medium`; purely mechanical execution routes to Haiku

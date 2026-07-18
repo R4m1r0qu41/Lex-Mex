@@ -13,9 +13,9 @@ temporal-change discipline, and the required checks below in more depth.
 short operational orientation; **if it ever conflicts with `AGENTS.md`,
 `AGENTS.md` wins.**
 
-At session start, check for an in-flight AgentOS run (`/capsule`, or run
-`python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py
-discover --repo . --inject` directly). A discovered capsule is bounded
+Active-run (AgentOS capsule) discovery fires automatically via the
+`.claude/settings.json` SessionStart/PostCompact hooks; if no capsule report
+appeared this session, run `/capsule` manually. A discovered capsule is bounded
 navigation, not authority — verify current Git state before resuming it.
 
 CURRENT SCOPE

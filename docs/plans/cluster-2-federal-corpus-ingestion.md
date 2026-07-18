@@ -60,167 +60,24 @@ in `Current checkpoint` and `Progress`, not in this list.
 Verified against local `main` at `e503364bb` (30 commits ahead of remote
 `main` at `47004f56`):
 
-- `rgic` is committed and validates with 214 articles, 2 original
-  transitories, 30 references, 23 reform-transitory evidence records, and zero
-  issues (`2e061724`);
-- `ldofgg` is committed and validates with 20 articles, 2 original
-  transitories, 1 reference, 7 reform-transitory evidence records, and zero
-  issues (`727aa5d1`);
-- all five operational CN1 entries now have committed adapters and canonical
-  corpora;
-- the reviewed global-alias linker and bounded marker search are committed at
-  `942f201c`; the implementation consumes the existing underscore-prefixed
-  registry, excludes bare acronyms and absent targets, rejects alias
-  collisions, and leaves canonical provision text unchanged;
-- the five-instrument reverse-link, validation, and Markdown pass added 22
-  resolved cross-instrument edges without removing or retargeting an existing
-  edge: 19 target CPEUM and 3 target LOCGEUM;
-- final CN1 reference counts are 41/47/51/31/1 for
-  `locg`/`reg-diputados`/`reg-senado`/`rgic`/`ldofgg`; every instrument
-  validates with zero issues and every added span and target was inspected;
-- prepared CN2 is normalized as
-  `batches/constitutional_cn2_implementing_laws.json`: all 10 entries retain
-  their verified official Cámara reference and PDF sources, none is blocked,
-  and no expected edge was invented where the prepared manifest supplied none;
-- the operational-manifest inventory is now 29 manifests and 156 instruments;
-- `lrfiyii-art105`, the first CN2 instrument, is committed at `b7653e22` with
-  74 articles, 4 original transitories, 46 references, 45 reform-transitory
-  evidence records, and zero validation issues; its source SHA-256 is
-  `b99f96ee0d44bd781d14cfdc7f94358bd6d3f6ed17c3bd3aadcf5d149873edeb`
-  and extracted-text SHA-256 is
-  `34e6b8f137e02054a2ca1567de109faa54801c7a28b40f02ca046ecd928eca43`;
-- the parser hardening required by that first instrument is isolated at
-  `c1952e50` with fixtures for title-case structural headings, paragraph
-  boundaries after page-wrapped amendment marks, and repeated transitory
-  sections within one reform decree;
-- `lrart6-mdr`, the second CN2 instrument, is committed at `7a62c205` with
-  42 articles, 3 original transitories, 15 references, 3 defined terms, 6
-  reform-transitory evidence records, and zero validation issues; its source
-  SHA-256 is
-  `b3013ac434856f46bc973c4178d55c6d5d440730a42f3d7f8ca225730e0d382c`
-  and extracted-text SHA-256 is
-  `e7c915812ed8a49a288ace0ad3c8bebb5ed4d0901eeac84f46d6def7be3c5f4f`;
-- its shared parser/linker correction is isolated at `42b8bb61`: exact
-  heading grammar no longer mistakes a wrapped sentence beginning with
-  `Capítulo` for structure, and an ordinal dot such as `6o.` no longer hides
-  a following external-instrument marker;
-- `lrfv-art76`, the third CN2 instrument, is committed at `40d41362` with 15
-  articles, 1 original transitory, 10 references, no defined terms or reform
-  evidence, and zero validation issues; its source SHA-256 is
-  `89ae4eeddd5a5d6f2100bc85e9348f6f1fdc5f1acb92ef074c6a742a5cd2aad3`
-  and extracted-text SHA-256 is
-  `fbef56a05118e87a378da61cdedc37c729b1a3edaa75e849ff128cf6c5d5fb09`;
-- its shared linker correction is isolated at `92004dc2`: the historical
-  title `Constitución General de la República` resolves to CPEUM, `artículo
-  que precede` resolves to the previous article, and numeric ordinal paragraph
-  qualifiers no longer truncate the following external-instrument context;
-- `lrart76-fracvi`, the fourth CN2 instrument, is committed at `99d588de` with
-  25 articles, 1 original transitory, 9 references, no defined terms, 4
-  reform-transitory evidence records, and zero validation issues; its source
-  SHA-256 is
-  `bb06062d0e0454e928090853dd4071bfd19b713abe553033285147a67c323531`
-  and extracted-text SHA-256 is
-  `7879ed40021c49ac411e0d50cf89620090373d5425945b4f7fa9fd4e377fcc15`;
-- its shared parser correction is isolated at `eee19102`: constitutional
-  adjectives between an article-list heading and its first number are
-  accepted, and noun-first paragraph qualifiers retain their exact source
-  spans and target anchors;
-- `lrfxiiib-art123`, the fifth CN2 instrument, is committed at `03ff3fbb` with
-  25 articles, 4 original transitories, 4 references, no defined terms, 19
-  reform-transitory evidence records, and zero validation issues; its source
-  SHA-256 is
-  `57ec1adca9a93f6403430d9a0e202d49216fa2c83997706c08d93b88cdd46dea`
-  and extracted-text SHA-256 is
-  `9bac25113137ed36e0a842eafd262e3de89f8c0f34825e2447060a917d85a48c`;
-- its shared metadata correction is isolated at `8be59440`: when a Cámara
-  consolidation contains more than one `Última Reforma` label, the canonical
-  latest-reform date is the maximum valid date rather than the first match;
-- `lrfxviii-art73`, the sixth CN2 instrument, is committed at `015eb8ca` with
-  2 articles, 1 original transitory, 2 references, no defined terms or
-  reform-transitory evidence, and zero validation issues; its source SHA-256
-  is `d946e7696c01236d288d0b36d4fa8a0ac61a937c6c4a1280a0913389852ec30b`
-  and extracted-text SHA-256 is
-  `f3b2bf3c29ad7f5cbd9bb1c5f6661076a506d5f08c4e1e41c74939555b5c5b16`;
-- its shared parser correction is isolated at `5e03f735`: ordinal-word
-  statute article headings normalize to numeric ordinal labels for stable
-  ordering and references, while only unmistakable decree actions remain
-  excluded as wrappers;
-- `lfcpo`, the seventh CN2 instrument, is committed at `f9506734` with 65
-  articles, 6 original transitories, 15 references, no defined terms, 2
-  reform-transitory evidence records, and zero validation issues; its source
-  SHA-256 is
-  `f4b823e5581b0e3e9737fe4d96171be41941bd7cc512ca0cfaf186047c0a05c2`
-  and extracted-text SHA-256 is
-  `185ff62bb64c3b619cb1b6cfc57e68568666f2c85c9155c56791d31ff4ba799f`;
-- `lfrm`, the eighth CN2 instrument, is committed at `0598a28f` with 61
-  articles, 5 original transitories, 27 references, 8 defined terms, 108 term
-  usages, no reform-transitory evidence, and zero validation issues; its
-  source SHA-256 is
-  `eddfcf458c46cacee55392a138412b0d014bcc306c455d92ed94250efce4904c`
-  and extracted-text SHA-256 is
-  `e29e0de5ef0743baab59214fab2521eaae25b08a2d49810eb9e8f3039c5f3af4`;
-- `lsct`, the ninth CN2 instrument, is committed at `6a8348b6` with 11
-  articles, 1 original transitory, 6 references, no defined terms, 20
-  reform-transitory evidence records, and zero validation issues; its source
-  SHA-256 is
-  `a48cb9fbc325567be8d5e1b131a59b45e0ef9b57dd350e81eadd48cba75ac201`
-  and extracted-text SHA-256 is
-  `88c43373be482a7ef9a5649641479241ea8e83ad26c2c010608f3ad48610659c`;
-- `latime`, the tenth CN2 instrument, is committed at `e9619503` with 14
-  articles, 2 original transitories, 13 references, no defined terms or reform
-  evidence, and zero validation issues; its source SHA-256 is
-  `2f9532986cf47aef5de1f50af5e758333d65b7fdab15489bb0c41c36bcb60133`
-  and extracted-text SHA-256 is
-  `667fce0c913df660d7492a1bfcd84610317795d9af4f5177fe2ab5f7958a28e2`;
-- CN2 reverse linking, validation, and Markdown regeneration are closed at
-  `34449eb6`: all 10 instruments validate with zero issues, and the sole
-  canonical diff added the exact `párrafo primero` qualifier to the existing
-  CPEUM Article 6 edge in the `lrart6-mdr` official title;
-- prepared AD1 is normalized at `614fe4a9` as
-  `batches/administration_ad1_planning_paraestatals.json`: all six entries
-  were absent from adapters, corpus, and prior operational manifests; none is
-  blocked; the prepared source pairs and order are preserved; and the live
-  Cámara recheck was recorded as inconclusive after a TLS handshake failure;
-- the unanalyzed temporal default is corrected at `1f262295`: ordinary
-  `not_analyzed` provisions now start `unknown`, express repeal notes remain
-  deterministically `repealed`, validation rejects the old unsupported
-  default, and the matching 30,124-provision canonical/Markdown migration
-  preserved every reviewed determination and passed all 144 corpus validators;
-- bounded batch closure is committed at `21863ef31`: after successful selected
-  instruments enter the corpus, the batch command reverse-links, validates,
-  republishes, and evaluates concrete expected-edge recall before it can
-  report success; the hermetic regression covers the complete closure path;
-- `lplan`, the AD1 hub, is committed at `2713decd6` with 48 articles, 5
-  original transitories, 7 resolved references, 64 reform-transitory evidence
-  records, frozen counts, stable source hashes, and zero validation issues; an
-  instrument-scoped signature-date stop marker keeps the 1982 enactment
-  signatures out of the fifth original transitory without altering shared
-  parser behavior;
-- `lfep` is committed at `d168dd79c` with 69 articles (including 59 BIS), 8
-  original transitories, 27 resolved references, 111 reform-transitory
-  evidence records, frozen counts, stable source hashes, and zero validation
-  issues; parser correction `0cedabdc8` prevents a quoted publication date in
-  an operative reform article from overwriting the containing decree's date;
-- `reg-lfep` is committed at `e10a49da4` with 46 articles, 3 original
-  transitories, 2 resolved references, 5 defined terms with 39 usages, 5
-  reform-transitory evidence records, frozen counts, stable source hashes, and
-  zero validation issues; its 1990 signature boundary is adapter-scoped;
-- `lfrpe` is committed at `e503364bb` with 35 articles, 2 original
-  transitories, 6 resolved references, 21 reform-transitory evidence records,
-  frozen counts, stable source hashes, and zero validation issues; its 2004
-  enactment-signature boundary is adapter-scoped and removes the spurious CPEUM
-  Article 89 reference without changing shared parser behavior;
-- the 55 prepared prompt files are committed at `ca6a4649`: 53 manifests
-  under `prompts/cluster-2-batches/` and the two federal cluster plans;
-- the worktree was clean before provisional `lfrm` ingestion; the prior
-  `.gitignore`, `README.md`, `docs/project-status.md`, and shared `.claude/`
-  changes were separately reviewed and committed outside the corpus commit;
-- the divergent `fable/cross-linking` work was reviewed selectively: the
-  global alias path from `02088004` and proximity fix from `a0f4d62d` were
-  reimplemented on current `main`; its complete history is retained at the
-  annotated tag `archive/fable-cross-linking` (peeling to `e7ed6369`), and any
-  still-useful corpus or behavior must be reapplied as a bounded, current-main
-  ingestion or implementation change.
+- CN1 (`locg`, `reg-diputados`, `reg-senado`, `rgic`, `ldofgg`) and CN2 (10
+  instruments) are committed and structurally closed; the CN2 reverse-link,
+  validation, and Markdown pass closed at `34449eb6`.
+- The active AD1 batch has committed `lplan`, `lfep`, `reg-lfep`, and
+  `lfrpe`; `lfrsp` and `lgbn` remain.
+- Per-instrument counts, source and extracted-text hashes, and validation
+  state are owned by each instrument's `corpus/mx/<slug>/validation.json` and
+  `source-manifest.json` and are not restated here. The dated `Progress` log
+  below is the append-only historical record of each ingestion and each
+  shared parser, linker, or adapter correction, with commit ids.
+- Shared-infrastructure milestones: the reviewed global-alias linker and
+  bounded marker search at `942f201c`, the unanalyzed temporal default
+  correction at `1f262295`, and bounded batch closure at `21863ef31`.
+- The 55 prepared prompt files are committed at `ca6a4649`: 53 manifests
+  under `prompts/cluster-2-batches/` and the two federal cluster plans.
+- The divergent `fable/cross-linking` history is retained at the annotated
+  tag `archive/fable-cross-linking` (peeling to `e7ed6369`) and is never
+  merged as a unit; see the decision log.
 
 Do not assume these statements remain current. At every resumption, compare them with `git log`, `git status`, the operational manifest, adapter presence, corpus presence, validation files, and the active-run drift report.
 
@@ -264,6 +121,7 @@ relinking and human expected-edge review remain separate work.
 - [x] (2026-07-16 22:11Z) Ingested and committed `lfep` at `d168dd79c`: 69 articles (including 59 BIS), 8 original transitories, 27 resolved references, no terms, 111 reform-transitory evidence records, stable source hashes, and zero validation issues. The LFEP reform appendix revealed that an operative `ARTÍCULO ÚNICO` quoting an earlier uppercase DOF date could overwrite the containing decree's publication date and strand a later transitory. Parser correction `0cedabdc8` limits date recognition to decree-title material, normalizes valid month casing, preserves context in any future error, and adds a focused fixture. An LFEP adapter marker separately excludes the original 1986 enactment signatures and their spurious CPEUM Article 89 edge. The frozen rerun and full 92-test gate passed.
 - [x] (2026-07-16 22:50Z) Ingested and committed `reg-lfep` at `e10a49da4`: 46 articles, 3 original transitories, 2 resolved references, 5 defined terms with 39 usages, 5 reform-transitory evidence records, stable source hashes, and zero validation issues. The original third transitory ended before the exact 1990 enactment-signature block; that narrow boundary is adapter configuration, not a shared parser defect. The frozen rerun and full 92-test gate passed.
 - [x] (2026-07-16 23:09Z) Ingested and committed `lfrpe` at `e503364bb`: 35 articles, 2 original transitories, 6 resolved references, no terms, 21 reform-transitory evidence records, stable source hashes, and zero validation issues. The original second transitory ended before the exact 2004 enactment-signature block; that narrow adapter marker removes the spurious CPEUM Article 89 edge without a shared parser change. The frozen rerun and full 92-test gate passed.
+- [x] (2026-07-18) Operator review of the lfrpe checkpoint found Article 35 contaminated with dot-redacted enactment-decree articles (`ARTÍCULO SEGUNDO.- .........`). The shared parser now recognizes an ordinal-word decree article whose body is only redaction dots as non-content decree apparatus, with fixture `fixtures/diputados/dot-redacted-decree-article-sample.txt`; the frozen rerun changed only Article 35's canonical text and Markdown, preserving both hashes and all counts. Adapter hygiene from the same review: scaffold now defaults `allow_article_gaps` to `false`, freeze writes only `expected_articles`, the validator treats an exact-only article baseline as frozen, and lfrpe's adapter drops gap tolerance and the redundant minimum. Documentation deduplication: this plan's checkpoint section defers per-instrument facts to `validation.json`/`source-manifest.json` and this log; AGENTS.md session-lifecycle rules point to Agent Vault canon, and the provider rule distinguishes within-provider routing from operator-started cross-provider switches; the project-status warning census is restored to the reproducible 187 (162/16/7/2). Full workspace gates and both audited baseline validators passed.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
