@@ -268,6 +268,33 @@ fn parse_statute_article_start<'a>(
     parse_article_start(block).or_else(|| parse_ordinal_article_start(block, ordinals))
 }
 
+/// A dot-redacted decree-appendix article: `ARTÍCULO SEGUNDO.- .........`
+/// The consolidated PDF sometimes replaces a non-substantive enactment-
+/// decree article (e.g. a repealing or budgetary clause) with redaction
+/// dots rather than omitting it, immediately after the statute's own
+/// numbered articles and before `TRANSITORIOS`. This is decree apparatus,
+/// not statute text: the body carries no legal content, only redaction
+/// dots, whitespace, or ellipsis characters. That empty-body test is what
+/// distinguishes it from a genuine ordinal-numbered statute article
+/// (`Artículo Primero.- Esta ley regula…`), whose substantive body must
+/// still reach [`parse_ordinal_article_start`] unfiltered.
+fn is_dot_redacted_decree_article(block: &str, ordinals: &[String]) -> bool {
+    let Some((_, body)) = parse_ordinal_article_start(block, ordinals) else {
+        return false;
+    };
+    !body.is_empty()
+        && body
+            .chars()
+            .all(|c| c == '.' || c == '…' || c.is_whitespace())
+}
+
+/// Either decree-wrapper form the main article loop discards outright:
+/// neither appended to the current provision's text nor started as a new
+/// one.
+fn is_dropped_decree_block(block: &str, ordinals: &[String]) -> bool {
+    is_decree_article_wrapper(block, ordinals) || is_dot_redacted_decree_article(block, ordinals)
+}
+
 /// The leading base number of an article label (`70-A` → 70, `1o` → 1),
 /// for detecting a heading whose number regresses below the sequence.
 fn article_base(number: &str) -> Option<u64> {
@@ -704,7 +731,7 @@ pub fn parse_diputados(
                 continue;
             }
         } else {
-            if is_decree_article_wrapper(&block, &ordinals) {
+            if is_dropped_decree_block(&block, &ordinals) {
                 if let Some(builder) = current.take() {
                     provisions.push(builder.finish(&options.instrument_id, publication_date));
                 }
@@ -1000,6 +1027,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/reform-multiple-transitory-sections-sample.txt");
     const ORDINAL_STATUTE_ARTICLES_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/ordinal-statute-articles-sample.txt");
+    const DOT_REDACTED_DECREE_ARTICLE_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/dot-redacted-decree-article-sample.txt");
 
     fn options(instrument_id: &str, title: &str) -> DiputadosOptions {
         DiputadosOptions {
@@ -1114,6 +1143,45 @@ mod tests {
         assert_eq!(transitories.len(), 1);
         assert_eq!(transitories[0].number, "UNICO");
         assert_eq!(transitories[0].text, "Entrada en vigor.");
+    }
+
+    #[test]
+    fn dot_redacted_decree_articles_are_dropped_not_appended_or_created() {
+        // Regression for the lfrpe defect: the consolidated PDF's dot-
+        // redacted enactment-decree articles ("ARTÍCULO SEGUNDO.- ........."
+        // / "ARTÍCULO TERCERO.- .........") between the last numbered
+        // statute article and TRANSITORIOS must neither be appended to that
+        // article's text nor create spurious ordinal-numbered articles.
+        let document = parse_diputados(
+            DOT_REDACTED_DECREE_ARTICLE_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+            NaiveDate::from_ymd_opt(2004, 12, 31).expect("valid date"),
+        )
+        .expect("dot-redacted decree article fixture parses");
+
+        let articles: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|provision| provision.provision_type == ProvisionType::Article)
+            .collect();
+        assert_eq!(articles.len(), 1);
+        assert_eq!(articles[0].number, "3");
+        assert_eq!(
+            articles[0].text,
+            "Texto sustantivo del último artículo numerado de la ley."
+        );
+        assert!(!articles[0].text.contains("ARTÍCULO SEGUNDO"));
+        assert!(!articles[0].text.contains("ARTÍCULO TERCERO"));
+
+        let transitories: Vec<_> = document
+            .provisions
+            .iter()
+            .filter(|provision| provision.provision_type == ProvisionType::Transitory)
+            .collect();
+        assert_eq!(transitories.len(), 2);
+        assert_eq!(transitories[0].number, "PRIMERO");
+        assert_eq!(transitories[1].number, "SEGUNDO");
+        assert_eq!(transitories[1].text, "Disposición transitoria segunda.");
     }
 
     #[test]

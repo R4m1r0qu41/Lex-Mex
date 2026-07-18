@@ -663,6 +663,9 @@ fn preflight_adapter_uniqueness(root: &Path) -> Result<()> {
 /// Generate a Diputados adapter from a batch-manifest entry. Counts and
 /// the publication date start unfrozen (`null`); `batch run
 /// --freeze-counts` fills them from the first successful parse.
+/// `allow_article_gaps` scaffolds `false`: gap tolerance is a deliberate
+/// per-instrument choice, made consciously by the operator after a first
+/// parse hard-errors on a genuine gap, not a blanket default.
 fn scaffold_adapter(root: &Path, manifest_path: &Path, slug: &str) -> Result<PathBuf> {
     let manifest = load_batch_manifest(manifest_path)?;
     let instrument = manifest
@@ -695,7 +698,7 @@ fn scaffold_adapter(root: &Path, manifest_path: &Path, slug: &str) -> Result<Pat
             )
         });
     let contents = format!(
-        "{{\n  \"slug\": {slug_json},\n  \"instrument_id\": \"urn:lex-mx:federal:{urn_kind}:{slug}\",\n  \"instrument_type\": \"{instrument_kind}\",\n  \"parser\": \"diputados\",\n  \"official_title\": {title},\n  \"short_name\": {short_name},\n  \"operational_source\": \"camara_de_diputados\",\n  \"source_url\": {source_url},\n{reference_line}  \"publisher\": \"Cámara de Diputados del H. Congreso de la Unión\",\n  \"publication_date\": null,\n  \"expected_min_articles\": null,\n  \"expected_articles\": null,\n  \"expected_transitories\": null,\n  \"allow_article_gaps\": true,\n  \"formal_publication_urls\": {{}}\n}}\n",
+        "{{\n  \"slug\": {slug_json},\n  \"instrument_id\": \"urn:lex-mx:federal:{urn_kind}:{slug}\",\n  \"instrument_type\": \"{instrument_kind}\",\n  \"parser\": \"diputados\",\n  \"official_title\": {title},\n  \"short_name\": {short_name},\n  \"operational_source\": \"camara_de_diputados\",\n  \"source_url\": {source_url},\n{reference_line}  \"publisher\": \"Cámara de Diputados del H. Congreso de la Unión\",\n  \"publication_date\": null,\n  \"expected_articles\": null,\n  \"expected_transitories\": null,\n  \"allow_article_gaps\": false,\n  \"formal_publication_urls\": {{}}\n}}\n",
         slug_json = serde_json::json!(slug),
         title = serde_json::json!(lex_source::normalize_official_title(&instrument.title)),
         short_name = serde_json::json!(instrument.short_name()),
@@ -711,6 +714,14 @@ fn scaffold_adapter(root: &Path, manifest_path: &Path, slug: &str) -> Result<Pat
 /// Freeze machine-proposed baselines into a scaffolded adapter by exact
 /// replacement of its `null` placeholder lines, so hand-written adapters
 /// (which have no placeholders) can never be rewritten. Idempotent.
+///
+/// Frozen adapters carry only `expected_articles` (an exact count) and
+/// `expected_transitories`; `expected_min_articles` is left for
+/// hand-written open-instrument adapters (e.g. `lritf.json`, which sets a
+/// minimum and no exact count while the law is still being amended) and is
+/// never written here. The `expected_articles` placeholder is the presence
+/// signal instead, so freezing tolerates adapters written with or without
+/// an `expected_min_articles` placeholder.
 fn freeze_adapter_baseline(
     adapter_path: &Path,
     publication_date: Option<NaiveDate>,
@@ -725,12 +736,8 @@ fn freeze_adapter_baseline(
             &format!("\"publication_date\": \"{}\"", date.format("%Y-%m-%d")),
         );
     }
-    if updated.contains("\"expected_min_articles\": null") {
+    if updated.contains("\"expected_articles\": null") {
         updated = updated
-            .replace(
-                "\"expected_min_articles\": null",
-                &format!("\"expected_min_articles\": {article_count}"),
-            )
             .replace(
                 "\"expected_articles\": null",
                 &format!("\"expected_articles\": {article_count}"),

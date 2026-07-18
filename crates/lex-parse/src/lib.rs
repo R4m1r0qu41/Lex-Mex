@@ -1170,15 +1170,20 @@ fn validate_counts(
             format!("expected at least {minimum} articles, found {article_count}"),
             None,
         )),
-        Some(_) => {}
-        None => issues.push(ValidationIssue {
+        _ => {}
+    }
+    // The article-count baseline is frozen once either a minimum or an
+    // exact count is set; only the total absence of both means no parse
+    // has ever been reviewed and accepted for this instrument.
+    if expectations.min_articles.is_none() && expectations.articles.is_none() {
+        issues.push(ValidationIssue {
             severity: Severity::Warning,
             code: "counts_not_frozen".to_owned(),
             message: format!(
                 "no article-count baseline frozen; parse found {article_count} articles"
             ),
             provision_id: None,
-        }),
+        });
     }
     if let Some(expected) = expectations.articles
         && article_count != expected
@@ -2378,6 +2383,32 @@ mod tests {
                 .iter()
                 .any(|issue| issue.code == "non_numeric_article"),
             "suffixed articles are first-class under the label grammar"
+        );
+    }
+
+    #[test]
+    fn exact_only_article_baseline_is_frozen_without_a_minimum() {
+        // A new-style frozen adapter (freeze_adapter_baseline writes only
+        // `expected_articles`, leaving `expected_min_articles` unset) must
+        // not carry a spurious counts_not_frozen warning: the article-count
+        // baseline is frozen once either the minimum or the exact count is
+        // set, not only when both are.
+        let report = validate_gapped(&crate::CorpusExpectations {
+            min_articles: None,
+            articles: Some(5),
+            transitories: Some(1),
+            annexes: 0,
+            require_chapter_context: false,
+            allow_article_gaps: true,
+        });
+        assert!(report.valid, "{:?}", report.issues);
+        assert!(
+            !report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "counts_not_frozen"),
+            "{:?}",
+            report.issues
         );
     }
 
