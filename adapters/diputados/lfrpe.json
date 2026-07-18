@@ -13,7 +13,6 @@
   "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrpe.htm",
   "publisher": "Cámara de Diputados del H. Congreso de la Unión",
   "publication_date": "2004-12-31",
-  "expected_min_articles": 35,
   "expected_articles": 35,
   "expected_transitories": 2,
   "count_baseline": {
@@ -21,6 +20,6 @@
     "parser_version": "0.1.0",
     "proposed_at": "2026-07-16T23:08:47Z"
   },
-  "allow_article_gaps": true,
+  "allow_article_gaps": false,
   "formal_publication_urls": {}
 }

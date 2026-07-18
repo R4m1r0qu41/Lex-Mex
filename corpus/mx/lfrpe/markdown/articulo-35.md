@@ -18,7 +18,3 @@ source_sha256: 05390b6c1389b13c8004675b51e5da49bbdbba01c352e844ec1ccaf9b5abf1da
 # Artículo 35
 
 Las cantidades que se obtengan con motivo de las sanciones económicas que las autoridades competentes impongan a los servidores públicos, en términos de lo dispuesto por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos se adicionarán, según corresponda, al monto de los recursos previstos para cubrir las obligaciones indemnizatorias derivadas de la responsabilidad patrimonial de los entes públicos federales.
-
-ARTÍCULO SEGUNDO.- .........
-
-ARTÍCULO TERCERO.- .........
