@@ -11,6 +11,17 @@ repository's trust boundaries and expected engineering discipline.
 - Treat a discovered active-run capsule as bounded navigation, never as
   authority. Verify current Git state and repository instructions before
   resuming it.
+- If a meaningful task will span milestones and no capsule exists, start one
+  with `python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py start --repo . --project-id lex-mex --objective "<named task>"`.
+  Skip capsule creation for trivial work.
+- Before pausing or handing off meaningful work, update repository truth,
+  checkpoint the active run, and append one conclusion to
+  `/Users/jr/Vaults/Agent_Vault/AI/60_Evaluations/session-summaries/lex-mex/YYYY-MM-DD.md`.
+  Skip trivial or duplicate sessions; use a standalone receipt only when deeper
+  evidence needs its own citation surface. Current state and pending work remain
+  repository-local. If `ROLLING_CONTEXT.md` exists, update it within the ADR-006
+  cap. Provider switches are operator-started; never invoke another provider's
+  CLI.
 
 ## Architectural boundaries
 
