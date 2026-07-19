@@ -57,14 +57,14 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `e503364bb` (30 commits ahead of remote
+Verified against local `main` at `e96019b43` (37 commits ahead of remote
 `main` at `47004f56`):
 
 - CN1 (`locg`, `reg-diputados`, `reg-senado`, `rgic`, `ldofgg`) and CN2 (10
   instruments) are committed and structurally closed; the CN2 reverse-link,
   validation, and Markdown pass closed at `34449eb6`.
-- The active AD1 batch has committed `lplan`, `lfep`, `reg-lfep`, and
-  `lfrpe`; `lfrsp` and `lgbn` remain.
+- The active AD1 batch has committed `lplan`, `lfep`, `reg-lfep`, `lfrpe`, and
+  `lfrsp`; only `lgbn` remains.
 - Per-instrument counts, source and extracted-text hashes, and validation
   state are owned by each instrument's `corpus/mx/<slug>/validation.json` and
   `source-manifest.json` and are not restated here. The dated `Progress` log
@@ -84,10 +84,10 @@ Do not assume these statements remain current. At every resumption, compare them
 ## Next action
 
 The operator accepted the bounded closure on 2026-07-16. Provisionally process
-next AD1 statute `lfrsp` through the Rust pipeline, inspect and freeze its
+final AD1 statute `lgbn` through the Rust pipeline, inspect and freeze its
 structural baseline, and record any reusable deterministic parser, linker, or
-adapter learning before moving to the next AD1 instrument. Corpus-wide
-relinking and human expected-edge review remain separate work.
+adapter learning before closing AD1. Corpus-wide relinking and human
+expected-edge review remain separate work.
 
 ## Progress
 
@@ -122,11 +122,20 @@ relinking and human expected-edge review remain separate work.
 - [x] (2026-07-16 22:50Z) Ingested and committed `reg-lfep` at `e10a49da4`: 46 articles, 3 original transitories, 2 resolved references, 5 defined terms with 39 usages, 5 reform-transitory evidence records, stable source hashes, and zero validation issues. The original third transitory ended before the exact 1990 enactment-signature block; that narrow boundary is adapter configuration, not a shared parser defect. The frozen rerun and full 92-test gate passed.
 - [x] (2026-07-16 23:09Z) Ingested and committed `lfrpe` at `e503364bb`: 35 articles, 2 original transitories, 6 resolved references, no terms, 21 reform-transitory evidence records, stable source hashes, and zero validation issues. The original second transitory ended before the exact 2004 enactment-signature block; that narrow adapter marker removes the spurious CPEUM Article 89 edge without a shared parser change. The frozen rerun and full 92-test gate passed.
 - [x] (2026-07-18) Operator review of the lfrpe checkpoint found Article 35 contaminated with dot-redacted enactment-decree articles (`ARTÍCULO SEGUNDO.- .........`). The shared parser now recognizes an ordinal-word decree article whose body is only redaction dots as non-content decree apparatus, with fixture `fixtures/diputados/dot-redacted-decree-article-sample.txt`; the frozen rerun changed only Article 35's canonical text and Markdown, preserving both hashes and all counts. Adapter hygiene from the same review: scaffold now defaults `allow_article_gaps` to `false`, freeze writes only `expected_articles`, the validator treats an exact-only article baseline as frozen, and lfrpe's adapter drops gap tolerance and the redundant minimum. Documentation deduplication: this plan's checkpoint section defers per-instrument facts to `validation.json`/`source-manifest.json` and this log; AGENTS.md session-lifecycle rules point to Agent Vault canon, and the provider rule distinguishes within-provider routing from operator-started cross-provider switches; the project-status warning census is restored to the reproducible 187 (162/16/7/2). Full workspace gates and both audited baseline validators passed.
+- [x] (2026-07-18) Wired Codex capsule discovery at `9629c187e`: trusted projects now load `.codex/hooks.json` for `SessionStart` startup/resume/clear/compact events, while AGENTS.md names the Claude and Codex hook surfaces without assigning provider-specific configuration to the other harness. Added a direct scaffold/freeze regression proving new adapters default to strict article ordering and freeze an exact-only baseline; refreshed the project-status date. The full gate passed with 95 workspace tests and both audited baseline validators.
+- [x] (2026-07-18) Ingested and committed `lfrsp` at `e96019b43`: 94 articles (`1o` through `93`, including `77 Bis`), 4 original transitories, 17 resolved references, no terms, 62 uniquely keyed reform-transitory evidence records, stable source hashes, and zero validation issues. The provisional strict-order failure required a reviewed `allow_article_gaps` opt-in for the official `1o`-style and suffixed labels. An exact 1982 signature-date stop marker excludes the legislative and promulgation signatures from original Transitory CUARTO and removes their spurious CPEUM Article 89 edge. All 98 provisions remain `not_analyzed`; only 50 express source-text repeal notes begin `repealed`. The frozen rerun, link, validation, Markdown export, full 95-test gate, and audited baseline validators passed.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
 ## Surprises and discoveries
 
+- Observation: a strict scaffold can deliberately fail before freezing when
+  the official instrument uses ordinal-style and suffixed article labels.
+  Evidence: LFRSP's first nine articles use `1o` through `9o` and it includes
+  `77 Bis`; the initial strict pass surfaced ordering errors until the reviewed
+  adapter opted into suffix-aware ordering. Its original Transitory CUARTO was
+  also followed by a unique 1982 signature block, whose exact adapter marker
+  removed only non-canonical signatures and the spurious CPEUM Article 89 edge.
 - Observation: the active-run capsule is behind live repository state.
   Evidence: checkpoint 3 names `reg-senado` as next, while documentation HEAD `8a3a0f9b` records valid committed corpora through `rgic`.
 - Observation: batch closure now covers only successful selected instruments,
@@ -260,6 +269,13 @@ relinking and human expected-edge review remain separate work.
 
 ## Decision log
 
+- Decision: allow suffix-aware article ordering for LFRSP and end its main
+  document at the exact 1982 legislative signature marker.
+  Rationale: the official consolidation uses `1o`-style and `77 Bis` labels,
+  while the material after original Transitory CUARTO is enactment signature
+  apparatus rather than canonical provision text. Both choices are
+  source-specific adapter configuration and require no shared parser change.
+  Date/author: 2026-07-18 / AD1 `lfrsp` execution.
 - Decision: structural ingestion precedes temporal analysis.
   Rationale: accepted repository decision dated 2026-07-11; the Rust pipeline is the sole ingestion gate and temporal review proceeds later by legal priority.
   Date/author: 2026-07-11 / JRH.
@@ -521,9 +537,9 @@ instrument-scoped source boundaries and aliases while preserving stable
 evidence IDs and canonical source text.
 Historical enactment-signature cleanup and corpus-wide relinking remain
 explicitly separate work; `archive/fable-cross-linking` preserves the divergent
-history for bounded reapplication rather than a future merge. The next
-prepared batch is AD1; corpus-wide closure remains deferred until the broader
-cluster target set is admitted.
+history for bounded reapplication rather than a future merge. AD1 has five of
+six instruments committed through `lfrsp`; `lgbn` is next, and corpus-wide
+closure remains deferred until the broader cluster target set is admitted.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 
