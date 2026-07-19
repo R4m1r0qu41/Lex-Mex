@@ -1,6 +1,6 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-07-16
+- **Status date:** 2026-07-18
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
 - **Committed instruments:** 148
 - **Active ingestion batch:** `administration_ad1_planning_paraestatals`

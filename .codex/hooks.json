@@ -1,0 +1,17 @@
+{
+  "description": "Discover the repository's active AgentOS run before Codex resumes work.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py hook",
+            "statusMessage": "Discovering active AgentOS run"
+          }
+        ]
+      }
+    ]
+  }
+}

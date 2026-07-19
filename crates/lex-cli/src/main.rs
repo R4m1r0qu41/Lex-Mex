@@ -2343,7 +2343,8 @@ mod tests {
 
     use super::{
         ExpectedEdgeCorpus, InstrumentAliasTable, Paths, evaluate_expected_edges,
-        latest_reform_date, read_corpus, resolve_global_aliases, run_batch_closure,
+        freeze_adapter_baseline, latest_reform_date, read_corpus, resolve_global_aliases,
+        run_batch_closure, scaffold_adapter,
     };
 
     const STALE_RUNNING_HEADER_REFORM_DATE_FIXTURE: &str = include_str!(
@@ -2356,6 +2357,61 @@ mod tests {
             latest_reform_date(STALE_RUNNING_HEADER_REFORM_DATE_FIXTURE),
             NaiveDate::from_ymd_opt(2025, 11, 14)
         );
+    }
+
+    #[test]
+    fn scaffolded_adapter_freezes_an_exact_only_count_baseline() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        let adapter_dir = root.join("adapters/diputados");
+        let batch_dir = root.join("batches");
+        fs::create_dir_all(&adapter_dir).unwrap();
+        fs::create_dir_all(&batch_dir).unwrap();
+        let manifest_path = batch_dir.join("sample.json");
+        let manifest = serde_json::json!({
+            "schema_version": "0.1.0",
+            "batch_id": "sample_batch",
+            "description": "Scaffold and freeze regression fixture.",
+            "instruments": [{
+                "slug": "sample-law",
+                "title": "LEY de Muestra",
+                "type": "ley",
+                "adapter": "diputados",
+                "status": "NEW",
+                "ref_page": "https://example.test/ref/sample-law.htm",
+                "source_pdf": "https://example.test/pdf/sample-law.pdf"
+            }]
+        });
+        fs::write(
+            &manifest_path,
+            serde_json::to_vec_pretty(&manifest).unwrap(),
+        )
+        .unwrap();
+
+        let adapter_path = scaffold_adapter(root, &manifest_path, "sample-law").unwrap();
+        let scaffolded = lex_source::load_config(&adapter_path).unwrap();
+        assert_eq!(scaffolded.expected_min_articles, None);
+        assert_eq!(scaffolded.expected_articles, None);
+        assert_eq!(scaffolded.expected_transitories, None);
+        assert!(!scaffolded.allow_article_gaps);
+        assert!(scaffolded.count_baseline.is_none());
+
+        let publication_date = NaiveDate::from_ymd_opt(1982, 12, 31).unwrap();
+        assert!(freeze_adapter_baseline(&adapter_path, Some(publication_date), 35, 2).unwrap());
+        let frozen = lex_source::load_config(&adapter_path).unwrap();
+        assert_eq!(frozen.publication_date.as_deref(), Some("1982-12-31"));
+        assert_eq!(frozen.expected_min_articles, None);
+        assert_eq!(frozen.expected_articles, Some(35));
+        assert_eq!(frozen.expected_transitories, Some(2));
+        assert!(!frozen.allow_article_gaps);
+        assert_eq!(
+            frozen
+                .count_baseline
+                .as_ref()
+                .map(|baseline| baseline.provenance.as_str()),
+            Some("machine-proposed")
+        );
+        assert!(!freeze_adapter_baseline(&adapter_path, Some(publication_date), 99, 99).unwrap());
     }
 
     #[test]

@@ -6,9 +6,11 @@ repository's trust boundaries and expected engineering discipline.
 
 ## Session start
 
-- Active-run capsule discovery is automatic: the hooks in
-  `.claude/settings.json` run `active_run.py hook` on session start, resume,
-  clear, and compaction. If no capsule report appeared, run
+- Active-run capsule discovery is automatic in harnesses with the repository
+  hooks enabled: Claude loads `.claude/settings.json`, and Codex loads
+  `.codex/hooks.json` for trusted projects. Both run `active_run.py hook` on
+  session start, resume, clear, and compaction. If no capsule report appeared,
+  run
   `python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py discover --repo . --inject`
   manually (Claude sessions can use `/capsule`).
 - Treat a discovered active-run capsule as bounded navigation, never as
