@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfrsp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRSP.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfrsp.htm",
+  "retrieved_at": "2026-07-19T02:33:38.450802Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 545975,
+  "etag": "\"854b7-6179671cc1f80\"",
+  "last_modified": "Sat, 04 May 2024 01:06:22 GMT",
+  "source_sha256": "b377014351dbf3e21a9a031fa24fb97658db1d78f6d44d7b20efa1840d49d599",
+  "extracted_text_sha256": "e594d4e75349cd4d8dbe19ef95ec7edd3bc802052d506bef2441fee8a1756da2",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "9629c187e21858044dfe4a0ced55b0ee75953e0f"
+}

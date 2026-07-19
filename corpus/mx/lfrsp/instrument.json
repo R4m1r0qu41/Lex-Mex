@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfrsp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Responsabilidades de los Servidores Públicos",
+  "short_name": "LFRSP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1982-12-31",
+  "latest_reform_date": "2024-04-01",
+  "retrieved_at": "2026-07-19T02:33:38.450802Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRSP.pdf",
+  "source_sha256": "b377014351dbf3e21a9a031fa24fb97658db1d78f6d44d7b20efa1840d49d599",
+  "extracted_text_sha256": "e594d4e75349cd4d8dbe19ef95ec7edd3bc802052d506bef2441fee8a1756da2",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
