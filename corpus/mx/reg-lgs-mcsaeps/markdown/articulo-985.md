@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 985
 
-El consomé de pollo deshidratado deberá contener un mínimo de 7% de carne deshidratada de pollo o gallina. En consomé reconstituido, un mínimo de 180 mg. de nitrógeno amínico total por litro. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+El consomé de pollo deshidratado deberá contener un mínimo de 7% de carne deshidratada de pollo o gallina. En consomé reconstituido, un mínimo de 180 mg. de nitrógeno amínico total por litro.

@@ -19,4 +19,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 Para los efectos del presente Título, se entiende por mole, al producto alimenticio elaborado a base de los siguientes ingredientes básicos: chiles secos o frescos, agua potable, aceites o grasas comestibles, harinas, féculas, almidones, especias y condimentos, sometidos a molienda, y sal yodatada así como otros ingredientes autorizados.
 
-Su presentación puede ser en pasta, polvo o líquido y se denominarán de acuerdo a la fórmula de composición, y al lugar geográfico de la región, cuando proceda. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+Su presentación puede ser en pasta, polvo o líquido y se denominarán de acuerdo a la fórmula de composición, y al lugar geográfico de la región, cuando proceda.

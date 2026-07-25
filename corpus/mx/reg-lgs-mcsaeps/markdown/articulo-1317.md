@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 1317
 
-El titular de la licencia sanitaria correspondiente, al igual que los responsables de las unidades de diagnóstico o tratamiento médico, deberán llevar un control de los pacientes atendidos expuestos a radiaciones. La Secretaría podrá solicitar en cualquier momento dicho control. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+El titular de la licencia sanitaria correspondiente, al igual que los responsables de las unidades de diagnóstico o tratamiento médico, deberán llevar un control de los pacientes atendidos expuestos a radiaciones. La Secretaría podrá solicitar en cualquier momento dicho control.

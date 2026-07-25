@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 6o
 
-La aplicación del presente Reglamento se entenderá hecha sin perjuicio de las demás disposiciones sobre la materia y las atribuciones conferidas a otras dependencias y entidades de la Administración Pública Federal o de los Gobiernos de las Entidades Federativas. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+La aplicación del presente Reglamento se entenderá hecha sin perjuicio de las demás disposiciones sobre la materia y las atribuciones conferidas a otras dependencias y entidades de la Administración Pública Federal o de los Gobiernos de las Entidades Federativas.

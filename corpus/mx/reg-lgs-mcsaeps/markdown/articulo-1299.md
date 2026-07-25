@@ -19,7 +19,7 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 Para los efectos de este Reglamento y de acuerdo con la radiotoxicidad relativa por unidad de actividad del radionúclido que contenga en los términos de las disposiciones aplicables, el material radiactivo se clasifica en dos grupos:
 
-Grupo "A", de alto riesgo para la salud, cuando el material contenga, solo o mezclado con elementos del grupo B, uno o más de los siguientes radionúclidos: REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS El actinio en sus isótopos: Ac-227 a Ac-228; el americio en sus isótopos: Am-241 y Am-243; el antimonio en sus isótopos: Sb-122, Sb-124 y Sb-125; el argón en su isótopo: Ar-41; el arsénico en sus isótopos: As-73, As-74, As-76 y As-77; el astatinio en su isótopo: At-211, el azufre en su isótopo: S-35;
+Grupo "A", de alto riesgo para la salud, cuando el material contenga, solo o mezclado con elementos del grupo B, uno o más de los siguientes radionúclidos: El actinio en sus isótopos: Ac-227 a Ac-228; el americio en sus isótopos: Am-241 y Am-243; el antimonio en sus isótopos: Sb-122, Sb-124 y Sb-125; el argón en su isótopo: Ar-41; el arsénico en sus isótopos: As-73, As-74, As-76 y As-77; el astatinio en su isótopo: At-211, el azufre en su isótopo: S-35;
 
 El bario en sus isótopos: Ba-131 y Ba-140; el berilio en su isótopo: Be-7; el berkelio en su isótopo: Bk- 249; el bismuto en sus isótopos: Bi-206, Bi-207, Bi-210 y Bi-212; el bromo en su isótopo: Br-82;
 
@@ -49,7 +49,7 @@ El oro en sus isótopos: Au-196, Au-198 y Au-199; el osmio en sus isótopos: Os-
 
 El paladio en sus isótopos: Pd-103 y Pd-109; la plata en sus isótopos: Ag-105 y Ag-111; la plata en su isótopo: meta-estable: Ag-110; el platino en sus isótopos: Pt-191, Pt-193 y Pt-197; el plomo en sus isótopos: Pb-203, Pb-210 y Pb-212; el plutonio en sus isótopos: Pu-238, Pu-239, Pu-240, Pu-241 y Pu- 242; el polonio en su isótopo: Po-210; el potasio en sus isótopos: K-42 y K-43; el praseodimio en sus isótopos: Pr-142 y Pr-143; el promedio en sus isótopos: Pm-147 y Pm-149; el protactinio en sus isótopos: Pa-230, Pa-231 y Pa-233;
 
-El radio en sus isótopos: Ra-223, Ra-224, Ra-226 y Ra-228; el radón en sus isótopos: Rn-220 y Rn- 222; el renio en sus isótopos: Re-183, Re-186 y Re-188; el rodio en su isótopo: Rh-105; en rubidio en su isótopo: Rb-86; el rutenio en sus isótopos: Ru-97, Ru-103, Ru-105 y Ru-106; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS El samario en sus isótopos: Sm-151 y Sm-153; el selenio en su isótopo: Se-75; el silicio en su isótopo: SI-31; el sodio en sus isótopos: Na-22 y Na-24;
+El radio en sus isótopos: Ra-223, Ra-224, Ra-226 y Ra-228; el radón en sus isótopos: Rn-220 y Rn- 222; el renio en sus isótopos: Re-183, Re-186 y Re-188; el rodio en su isótopo: Rh-105; en rubidio en su isótopo: Rb-86; el rutenio en sus isótopos: Ru-97, Ru-103, Ru-105 y Ru-106; El samario en sus isótopos: Sm-151 y Sm-153; el selenio en su isótopo: Se-75; el silicio en su isótopo: SI-31; el sodio en sus isótopos: Na-22 y Na-24;
 
 El talio en sus isótopos: TI-200, TI-201, TI-202 y TI-204; el tantalio en su isótopo: Ta-182; el tecnecio en sus isótopos: Tc-96, Tc-97 y Tc-99; el tecnecio en su isótopo metaestable: Tc-97; el telurio en sus isótopos: Te-127, Te-129 y Te-132; el telurio en sus isótopos metaestables: Te-125, Te-127, Te-129 y Te- 131; el terbio en su isótopo: Tb-160; el torio en sus isótopos: Th-227, Th-228, Th-230, Th-231 y Th-243; el tulio en sus isótopos: Tm-170 y Tm-171;
 
@@ -91,7 +91,7 @@ El osmio en su isótopo metaestable: Os-191; el oxígeno en su isótopo: O-15;
 
 El platino en sus isótopos metaestables: Pt-193 y Pt-197;
 
-El renio en su isótopo: Re-187; el rodio en su isótopo metaestable: Rh-103 y el rubidio en su isótopo: Rb-87; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS El samario en su isótopo: Sm-147;
+El renio en su isótopo: Re-187; el rodio en su isótopo metaestable: Rh-103 y el rubidio en su isótopo: Rb-87; El samario en su isótopo: Sm-147;
 
 El tecnecio en sus isótopos metaestables: Tc-96 y Tc-99;
 

@@ -27,4 +27,4 @@ III.- Proyecto, en su caso, de etiquetas, así como la presentación de los enva
 
 IV.- Tratándose de equipos, las disposiciones de su estructura, material, partes y funciones, y
 
-V.- Las demás que se señalen en este Reglamento y en la norma correspondiente. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+V.- Las demás que se señalen en este Reglamento y en la norma correspondiente.

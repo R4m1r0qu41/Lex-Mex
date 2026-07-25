@@ -21,4 +21,4 @@ Los vehículos destinados al transporte de productos perecederos, biológicos o 
 
 El compartimiento de los vehículos a que se refiere este artículo que contenga los productos mencionados, deberá ser de materiales resistentes a la corrosión, lisos, impermeables, no tóxicos y de fácil limpieza.
 
-Estos vehículos no podrán ser utilizados para transportar fertilizantes, plaguicidas, sustancias tóxicas ni radiactivas, así como otros productos que determine la Secretaría que puedan provocar contaminación o alteración. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+Estos vehículos no podrán ser utilizados para transportar fertilizantes, plaguicidas, sustancias tóxicas ni radiactivas, así como otros productos que determine la Secretaría que puedan provocar contaminación o alteración.

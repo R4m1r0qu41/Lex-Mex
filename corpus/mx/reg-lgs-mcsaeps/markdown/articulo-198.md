@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 198
 
-La expedición de los certificados de condición sanitaria se sujetará a lo dispuesto por el Capítulo I de este Título. Tratándose de los productos que se pretendan exportar, los certificados se otorgarán únicamente a petición del interesado y con el objeto de satisfacer exigencias de los países importadores. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+La expedición de los certificados de condición sanitaria se sujetará a lo dispuesto por el Capítulo I de este Título. Tratándose de los productos que se pretendan exportar, los certificados se otorgarán únicamente a petición del interesado y con el objeto de satisfacer exigencias de los países importadores.

@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 1305
 
-En todo establecimiento donde operen o utilicen fuentes abiertas de radiaciones ionizantes, deberán descontaminarse las áreas y equipos al final de cada jornada de trabajo. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+En todo establecimiento donde operen o utilicen fuentes abiertas de radiaciones ionizantes, deberán descontaminarse las áreas y equipos al final de cada jornada de trabajo.

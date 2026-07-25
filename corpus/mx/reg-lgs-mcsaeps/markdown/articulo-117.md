@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 117
 
-Para garantizar la condición sanitaria de los establecimientos, actividades, servicios y productos a que se refiere el presente ordenamiento, los establecimientos deberán contar con laboratorio propio autorizado por la autoridad competente o contratar los servicios de un laboratorio autorizado por la misma autoridad. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+Para garantizar la condición sanitaria de los establecimientos, actividades, servicios y productos a que se refiere el presente ordenamiento, los establecimientos deberán contar con laboratorio propio autorizado por la autoridad competente o contratar los servicios de un laboratorio autorizado por la misma autoridad.

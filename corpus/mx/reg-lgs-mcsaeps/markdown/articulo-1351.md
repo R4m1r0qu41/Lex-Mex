@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 1351
 
-En los transportes en que se preste servicio de dormitorio, los colchones de las camas para literas contarán con protección de material impermeable de fácil aseo. La ropa de cama deberá ser cambiada diariamente por otra limpia y desinfectada. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+En los transportes en que se preste servicio de dormitorio, los colchones de las camas para literas contarán con protección de material impermeable de fácil aseo. La ropa de cama deberá ser cambiada diariamente por otra limpia y desinfectada.

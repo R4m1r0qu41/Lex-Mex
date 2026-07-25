@@ -18,6 +18,10 @@
     "parser_version": "0.1.0",
     "proposed_at": "2026-07-12T08:04:01Z"
   },
+  "header_lines": [
+    "REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES,",
+    "ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS"
+  ],
   "allow_article_gaps": true,
   "formal_publication_urls": {}
 }

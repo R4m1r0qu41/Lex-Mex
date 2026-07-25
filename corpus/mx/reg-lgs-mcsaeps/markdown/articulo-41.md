@@ -23,7 +23,7 @@ I.- Se observarán las formalidades y requisitos exigidos por la Ley para las vi
 
 II.- La toma de muestras podrá realizarse en cualquiera de las etapas del proceso, pero deberán tomarse del mismo lote, producción o recipiente, procediéndose a identificar las muestras en envases que puedan ser cerrados y sellados;
 
-III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular; otra muestra podrá quedar en poder de la misma REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS persona a disposición de la Secretaría y tendrá el carácter de muestra testigo; la ultima será enviada por la Secretaría al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
+III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular; otra muestra podrá quedar en poder de la misma persona a disposición de la Secretaría y tendrá el carácter de muestra testigo; la ultima será enviada por la Secretaría al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
 
 III (sic DOF 18-01-1988).- El resultado del análisis oficial se notificará en forma fehaciente al interesado o titular de la autorización sanitaria de que se trate, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestras;
 

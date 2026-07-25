@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 1341
 
-Se requiere permiso sanitario para la descarga de aguas residuales industriales, el cual se otorgará siempre y cuando las sustancias nocivas para la salud contenidas en ellas, no rebasen los valores máximos permisibles de concentración que establezca la Secretaría, sin perjuicio de las facultades de la Secretaría de Desarrollo Urbano y Ecología. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+Se requiere permiso sanitario para la descarga de aguas residuales industriales, el cual se otorgará siempre y cuando las sustancias nocivas para la salud contenidas en ellas, no rebasen los valores máximos permisibles de concentración que establezca la Secretaría, sin perjuicio de las facultades de la Secretaría de Desarrollo Urbano y Ecología.

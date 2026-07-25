@@ -197,11 +197,12 @@ lex-mex search "juicio político" --instrument lfrsp
 lex-mex search "artículo 110" --instrument lfrsp,cpeum -- --ignore-case
 ```
 
-`search` delegates to ripgrep. It searches generated provision Markdown by
-default, supports `--scope canonical` or `--scope all`, and passes arguments
-after `--` directly to `rg` (for example `--json`, `--fixed-strings`, or
-context controls). `path` exposes absolute corpus paths for composition with
-other tools:
+`search` delegates to ripgrep. It searches canonical JSON by default so
+repeated Markdown front matter does not turn one instrument-title match into
+hundreds of false provision hits. Use `--scope markdown` for the generated
+presentation or `--scope all` for both. Arguments after `--` pass directly
+to `rg` (for example `--json`, `--fixed-strings`, or context controls).
+`path` exposes absolute corpus paths for composition with other tools:
 
 ```bash
 lex-mex path

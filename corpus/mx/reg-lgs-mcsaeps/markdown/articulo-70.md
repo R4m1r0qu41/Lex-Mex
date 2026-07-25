@@ -21,4 +21,4 @@ Los establecimientos dispondrán de un sistema de descarga de aguas servidas y p
 
 Los conductos de desagüe o albañales estarán construidos para resistir las descargas a las que estén sujetos.
 
-Los albañales deberán estar conectados a los servicios públicos de alcantarillado y en su defecto, será necesario que cuenten con fosa séptica y pozo de absorción o campo de subirrigación, siempre y cuando no se afecte ningún acuífero en explotación para consumo humano. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+Los albañales deberán estar conectados a los servicios públicos de alcantarillado y en su defecto, será necesario que cuenten con fosa séptica y pozo de absorción o campo de subirrigación, siempre y cuando no se afecte ningún acuífero en explotación para consumo humano.

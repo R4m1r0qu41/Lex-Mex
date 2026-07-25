@@ -19,7 +19,7 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 La acción popular a que se refiere el artículo 60 de la Ley podrá ejercitarse por cualquier persona, para lo cual deberá:
 
-I.- Denunciar los hechos por escrito o personalmente ante la oficina a que se refiere el [artículo anterior](articulo-19.md), o unidad administrativa correspondiente, en su caso; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS II.- Señalar el hecho, acto u omisión que a su juicio represente un riesgo o provoque un daño a la salud de la población, y
+I.- Denunciar los hechos por escrito o personalmente ante la oficina a que se refiere el [artículo anterior](articulo-19.md), o unidad administrativa correspondiente, en su caso; II.- Señalar el hecho, acto u omisión que a su juicio represente un riesgo o provoque un daño a la salud de la población, y
 
 III.- Proporcionar los datos que permiten identificar y localizar en forma indubitable la causa del riesgo o daño sanitario.
 

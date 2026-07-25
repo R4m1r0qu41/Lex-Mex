@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 221
 
-Los sistemas privados de abastecimiento a establecimientos, deberán disponer del Certificado de Condición Sanitaria de Agua dentro de los 15 días iniciales de su operación. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+Los sistemas privados de abastecimiento a establecimientos, deberán disponer del Certificado de Condición Sanitaria de Agua dentro de los 15 días iniciales de su operación.

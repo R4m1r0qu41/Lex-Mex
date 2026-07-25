@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 98
 
-Los responsables autorizados por la Secretaría tendrán la obligación de vigilar y supervisar que el proceso de los productos, la realización de actividades o la prestación de servicios se ajuste a los requisitos sanitarios establecidos en la Ley, en este Reglamento y los que disponga la Secretaría. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+Los responsables autorizados por la Secretaría tendrán la obligación de vigilar y supervisar que el proceso de los productos, la realización de actividades o la prestación de servicios se ajuste a los requisitos sanitarios establecidos en la Ley, en este Reglamento y los que disponga la Secretaría.

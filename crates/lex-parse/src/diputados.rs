@@ -451,6 +451,7 @@ fn is_immediate_structural(
 ) -> bool {
     is_stop_marker(line, options)
         || is_decree_heading(line)
+        || is_reform_regulation_heading(line)
         || headings.matches(line)
         || is_transitory_section_header(line)
 }
@@ -463,6 +464,14 @@ fn is_decree_heading(block: &str) -> bool {
     block.starts_with("DECRETO ")
         || block.starts_with("Decreto por el que ")
         || block.starts_with("Decreto que ")
+}
+
+/// A later regulation named in a Diputados reform appendix. The mixed
+/// uppercase-name/lowercase-connector form distinguishes publication headings
+/// (`REGLAMENTO de ...`, `REGLAMENTO en ...`) from the consolidated
+/// instrument's all-uppercase running title and ordinary prose.
+fn is_reform_regulation_heading(block: &str) -> bool {
+    block.starts_with("REGLAMENTO de ") || block.starts_with("REGLAMENTO en ")
 }
 
 /// Line-level flush trigger, deliberately looser than the block-level
@@ -798,6 +807,7 @@ pub fn extract_dof_publication(raw: &str) -> Option<NaiveDate> {
 
 struct ReformEvidenceBuilder {
     date: NaiveDate,
+    act_kind: &'static str,
     decree_occurrence: usize,
     transitory_section_occurrence: usize,
     ordinal: String,
@@ -811,6 +821,7 @@ fn flush_reform(
 ) {
     if let Some(builder) = current.take() {
         let date = builder.date;
+        let act_kind = builder.act_kind;
         let decree_occurrence = builder.decree_occurrence;
         let transitory_section_occurrence = builder.transitory_section_occurrence;
         let ordinal = builder.ordinal;
@@ -820,11 +831,17 @@ fn flush_reform(
             .filter(|block| !block.is_empty())
             .collect::<Vec<_>>()
             .join("\n\n");
+        let text = ["Dado en la Residencia", "Dado en la residencia"]
+            .iter()
+            .filter_map(|marker| text.find(marker))
+            .min()
+            .map_or(text.as_str(), |index| text[..index].trim_end())
+            .to_owned();
         let mut item = reform_evidence_item(
             instrument_id,
             date,
             &ordinal,
-            "Decreto",
+            act_kind,
             text,
             // Diputados reform decretos carry no CNBV amendment markers.
             Vec::new(),
@@ -847,13 +864,13 @@ fn flush_reform(
             item.provision_id = item.provision_id.replacen(&base, &qualified, 1);
             item.label = match (decree_occurrence, transitory_section_occurrence) {
                 (1, section) => format!(
-                    "Transitorio {ordinal} — Sección transitoria {section}, Decreto DOF {date}"
+                    "Transitorio {ordinal} — Sección transitoria {section}, {act_kind} DOF {date}"
                 ),
                 (decree, 1) => {
-                    format!("Transitorio {ordinal} — Decreto {decree} DOF {date}")
+                    format!("Transitorio {ordinal} — {act_kind} {decree} DOF {date}")
                 }
                 (decree, section) => format!(
-                    "Transitorio {ordinal} — Decreto {decree}, sección transitoria {section} DOF {date}"
+                    "Transitorio {ordinal} — {act_kind} {decree}, sección transitoria {section} DOF {date}"
                 ),
             };
         }
@@ -868,6 +885,29 @@ fn is_reform_transitory_section_header(block: &str) -> bool {
     let uppercase = block.to_uppercase();
     uppercase.starts_with("ARTÍCULOS TRANSITORIOS DEL DECRETO")
         || uppercase.starts_with("ARTICULOS TRANSITORIOS DEL DECRETO")
+}
+
+fn reform_act_heading_kind(block: &str) -> Option<&'static str> {
+    if is_decree_heading(block) {
+        Some("Decreto")
+    } else if is_reform_regulation_heading(block) {
+        Some("Reglamento")
+    } else {
+        None
+    }
+}
+
+fn is_reform_closing_furniture(uppercase: &str) -> bool {
+    [
+        "CIUDAD DE MÉXICO",
+        "MÉXICO, D",
+        "SALÓN DE SESIONES",
+        "SALON DE SESIONES",
+        "FE DE ERRATAS",
+        "DADO EN LA RESIDENCIA",
+    ]
+    .iter()
+    .any(|prefix| uppercase.starts_with(prefix))
 }
 
 fn decree_publication_date(
@@ -898,6 +938,7 @@ pub fn extract_reform_evidence(
     let mut in_transitories = false;
     let mut publication_date: Option<NaiveDate> = None;
     let mut decree_heading: Option<String> = None;
+    let mut act_kind: Option<&'static str> = None;
     let mut decree_occurrence: Option<usize> = None;
     let mut transitory_section_occurrence = 0;
     let mut decrees_by_date: std::collections::HashMap<NaiveDate, usize> =
@@ -917,11 +958,12 @@ pub fn extract_reform_evidence(
             continue;
         }
         let uppercase = block.to_uppercase();
-        if is_decree_heading(&block) {
+        if let Some(kind) = reform_act_heading_kind(&block) {
             flush_reform(&options.instrument_id, &mut current, &mut evidence);
             in_transitories = false;
             publication_date = None;
             decree_heading = Some(block.clone());
+            act_kind = Some(kind);
             decree_occurrence = None;
             transitory_section_occurrence = 0;
         }
@@ -950,12 +992,7 @@ pub fn extract_reform_evidence(
         if !in_transitories {
             continue;
         }
-        if uppercase.starts_with("CIUDAD DE MÉXICO")
-            || uppercase.starts_with("MÉXICO, D")
-            || uppercase.starts_with("SALÓN DE SESIONES")
-            || uppercase.starts_with("SALON DE SESIONES")
-            || uppercase.starts_with("FE DE ERRATAS")
-        {
+        if is_reform_closing_furniture(&uppercase) {
             flush_reform(&options.instrument_id, &mut current, &mut evidence);
             in_transitories = false;
             continue;
@@ -977,6 +1014,9 @@ pub fn extract_reform_evidence(
             })?;
             current = Some(ReformEvidenceBuilder {
                 date,
+                act_kind: act_kind.ok_or_else(|| {
+                    anyhow::anyhow!("found reform transitory without its containing act heading")
+                })?,
                 decree_occurrence: decree_occurrence.ok_or_else(|| {
                     anyhow::anyhow!(
                         "found reform transitory without its containing decree identity"
@@ -1023,12 +1063,16 @@ mod tests {
         include_str!("../../../fixtures/diputados/reform-appendix-variants-sample.txt");
     const REFORM_PUBLICATION_CITATION_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-publication-citation-sample.txt");
+    const REFORM_REGULATION_HEADINGS_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reform-appendix-regulation-headings-sample.txt");
     const MULTIPLE_TRANSITORY_SECTIONS_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-multiple-transitory-sections-sample.txt");
     const ORDINAL_STATUTE_ARTICLES_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/ordinal-statute-articles-sample.txt");
     const DOT_REDACTED_DECREE_ARTICLE_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/dot-redacted-decree-article-sample.txt");
+    const WRAPPED_RUNNING_HEADER_REGULATION_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/wrapped-running-header-regulation-sample.txt");
 
     fn options(instrument_id: &str, title: &str) -> DiputadosOptions {
         DiputadosOptions {
@@ -1281,6 +1325,38 @@ mod tests {
     }
 
     #[test]
+    fn configured_wrapped_running_header_never_enters_provision_text() {
+        let options = DiputadosOptions {
+            instrument_id: "urn:lex-mx:federal:regulation:sample".to_owned(),
+            header_lines: vec![
+                "REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES,"
+                    .to_owned(),
+                "ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS".to_owned(),
+            ],
+            stop_markers: Vec::new(),
+        };
+        let document = parse_diputados(
+            WRAPPED_RUNNING_HEADER_REGULATION_FIXTURE,
+            &options,
+            NaiveDate::from_ymd_opt(1988, 1, 18).expect("valid date"),
+        )
+        .expect("wrapped running-header fixture parses");
+
+        assert_eq!(document.provisions.len(), 2);
+        assert_eq!(document.provisions[0].text, "Texto inicial.");
+        assert_eq!(
+            document.provisions[1].text,
+            "Primer párrafo que continúa en la siguiente página."
+        );
+        assert!(
+            document
+                .provisions
+                .iter()
+                .all(|provision| !provision.text.contains("REGLAMENTO DE LA LEY GENERAL"))
+        );
+    }
+
+    #[test]
     fn configured_stop_marker_excludes_enactment_signatures_from_transitory() {
         let mut options = options(
             "urn:lex-mx:federal:statute:sample",
@@ -1383,6 +1459,41 @@ mod tests {
         assert_eq!(
             evidence[0].provision_id,
             "urn:lex-mx:federal:statute:sample:amendment:2015-12-18:transitory:primero"
+        );
+    }
+
+    #[test]
+    fn reform_regulation_headings_reset_dates_and_exclude_signatures() {
+        let evidence = super::extract_reform_evidence(
+            REFORM_REGULATION_HEADINGS_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:regulation:sample",
+                "Reglamento de Muestra",
+            ),
+        )
+        .expect("regulation headings in reform appendix parse");
+
+        let ids: Vec<&str> = evidence
+            .iter()
+            .map(|item| item.provision_id.as_str())
+            .collect();
+        assert_eq!(
+            ids,
+            [
+                "urn:lex-mx:federal:regulation:sample:amendment:1998-02-04:transitory:primero",
+                "urn:lex-mx:federal:regulation:sample:amendment:1999-08-09:transitory:primero",
+                "urn:lex-mx:federal:regulation:sample:amendment:2004-12-28:transitory:primero",
+            ]
+        );
+        assert!(
+            evidence
+                .iter()
+                .all(|item| item.label.contains("Reglamento DOF"))
+        );
+        assert!(
+            evidence
+                .iter()
+                .all(|item| !item.text.contains("Residencia"))
         );
     }
 

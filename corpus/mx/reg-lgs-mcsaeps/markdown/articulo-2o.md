@@ -37,7 +37,7 @@ II.- Establecimientos:
 
 a) Destinados al proceso de los productos que se enumeran en la fracción siguiente, y en su caso, a la utilización y disposición final de los mismos;
 
-b) Destinados al proceso, almacenamiento, distribución o destino final de plaguicidas y fertilizantes; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS c) Destinados al almacenamiento y distribución de gas licuado de petróleo (L.P.) y otros gases industriales de alta peligrosidad, en los aspectos sanitarios;
+b) Destinados al proceso, almacenamiento, distribución o destino final de plaguicidas y fertilizantes; c) Destinados al almacenamiento y distribución de gas licuado de petróleo (L.P.) y otros gases industriales de alta peligrosidad, en los aspectos sanitarios;
 
 d) Ubicados en las vías generales de comunicación, y
 
@@ -75,7 +75,7 @@ n) (Se deroga) Inciso derogado DOF 09-08-1999
 
 ñ) (Se deroga) Inciso derogado DOF 09-08-1999
 
-o) (Se deroga) REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS Inciso derogado DOF 09-08-1999
+o) (Se deroga) Inciso derogado DOF 09-08-1999
 
 p) (Se deroga) Inciso derogado DOF 09-08-1999
 

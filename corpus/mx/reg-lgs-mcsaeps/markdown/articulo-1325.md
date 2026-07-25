@@ -29,4 +29,4 @@ IV. Los requisitos para su embalaje y transportación;
 
 V. Las características de los contenedores y su señalización;
 
-VI. Los requisitos para obtener el permiso sanitario para la evacuación de efluentes radiactivos al medio ambiente, y REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS VII. Los demás aspectos, requisitos, condiciones y características que la Secretaría juzgue convenientes establecer, en materia de desechos radiactivos.
+VI. Los requisitos para obtener el permiso sanitario para la evacuación de efluentes radiactivos al medio ambiente, y VII. Los demás aspectos, requisitos, condiciones y características que la Secretaría juzgue convenientes establecer, en materia de desechos radiactivos.

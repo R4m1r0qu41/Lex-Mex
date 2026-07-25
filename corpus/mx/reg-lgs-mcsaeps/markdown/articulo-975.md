@@ -19,7 +19,7 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 Para los efectos del presente Reglamento los alimentos preparados envasados se clasifican en:
 
-I. Deshidratados; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS II. Condensados o concentrados;
+I. Deshidratados; II. Condensados o concentrados;
 
 III. Refrigerados o congelados, y
 

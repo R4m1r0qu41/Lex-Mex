@@ -17,7 +17,7 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 13
 
-Las normas que se desprendan de este Reglamento, y que conforme al mismo y a las demás disposiciones aplicables se expidan conjuntamente por la Secretaría y otras dependencias contendrán, en su caso, como mínimo lo siguiente: REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS I.- Definición del producto;
+Las normas que se desprendan de este Reglamento, y que conforme al mismo y a las demás disposiciones aplicables se expidan conjuntamente por la Secretaría y otras dependencias contendrán, en su caso, como mínimo lo siguiente: I.- Definición del producto;
 
 II.- Referencias;
 

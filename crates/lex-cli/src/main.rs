@@ -70,7 +70,7 @@ enum Command {
         /// Restrict the search to these instrument slugs (comma-separated).
         #[arg(long, value_delimiter = ',')]
         instrument: Vec<String>,
-        #[arg(long, value_enum, default_value = "markdown")]
+        #[arg(long, value_enum, default_value = "canonical")]
         scope: SearchScope,
         /// Additional arguments passed directly to `rg`; place them after `--`.
         #[arg(last = true, allow_hyphen_values = true)]
@@ -182,7 +182,7 @@ enum CorpusPathKind {
     Markdown,
 }
 
-#[derive(Debug, Clone, Copy, ValueEnum)]
+#[derive(Debug, Clone, Copy, ValueEnum, PartialEq, Eq)]
 enum SearchScope {
     /// Generated, human-readable provision Markdown.
     Markdown,
@@ -2553,6 +2553,7 @@ mod tests {
     };
 
     use chrono::{NaiveDate, Utc};
+    use clap::Parser;
     use lex_core::{
         Corpus, HeadingContext, Instrument, InstrumentStatus, InstrumentType, Provision,
         ProvisionType, ReferenceResolutionStatus, ReviewStatus, SCHEMA_VERSION, TemporalStatus,
@@ -2561,9 +2562,10 @@ mod tests {
     use url::Url;
 
     use super::{
-        ExpectedEdgeCorpus, InstrumentAliasTable, Paths, committed_instrument_index,
-        evaluate_expected_edges, freeze_adapter_baseline, latest_reform_date, read_corpus,
-        resolve_global_aliases, run_batch_closure, scaffold_adapter, selected_corpus_paths,
+        Cli, Command, ExpectedEdgeCorpus, InstrumentAliasTable, Paths, SearchScope,
+        committed_instrument_index, evaluate_expected_edges, freeze_adapter_baseline,
+        latest_reform_date, read_corpus, resolve_global_aliases, run_batch_closure,
+        scaffold_adapter, selected_corpus_paths,
     };
 
     const STALE_RUNNING_HEADER_REFORM_DATE_FIXTURE: &str = include_str!(
@@ -2666,6 +2668,18 @@ mod tests {
         assert_eq!(selected, vec![root.join("corpus/mx/second")]);
         assert!(selected_corpus_paths(root, &["missing".to_owned()]).is_err());
         assert!(selected_corpus_paths(root, &["../second".to_owned()]).is_err());
+    }
+
+    #[test]
+    fn consumer_search_defaults_to_canonical_records() {
+        let cli = Cli::try_parse_from(["lex-mex", "search", "control sanitario"]).unwrap();
+        assert!(matches!(
+            cli.command,
+            Command::Search {
+                scope: SearchScope::Canonical,
+                ..
+            }
+        ));
     }
 
     #[test]

@@ -37,7 +37,7 @@ g) Que la acción u omisión implique riesgo sanitario que involucre el desarrol
 
 II. Sanciones:
 
-a) En caso de que se realicen los supuestos de los incisos a), b), c) o d) se impondrá la sanción a que se refiere el artículo 421 de la Ley; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS b) En el caso del inciso e) se impondrá la sanción a que se refiere el artículo 420 de la Ley;
+a) En caso de que se realicen los supuestos de los incisos a), b), c) o d) se impondrá la sanción a que se refiere el artículo 421 de la Ley; b) En el caso del inciso e) se impondrá la sanción a que se refiere el artículo 420 de la Ley;
 
 c) En el caso del inciso f) se impondrá la sanción prevista en el artículo 419 de la Ley, y
 

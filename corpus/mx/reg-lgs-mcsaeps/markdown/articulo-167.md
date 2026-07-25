@@ -23,7 +23,9 @@ I.- (Se deroga) Fracción derogada DOF 09-08-1999
 
 II.- (Se deroga) Fracción derogada DOF 09-08-1999
 
-III.- (Se deroga) Fracción derogada DOF 09-08-1999 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS IV.- (Se deroga) Fracción derogada DOF 04-02-1998
+III.- (Se deroga) Fracción derogada DOF 09-08-1999
+
+IV.- (Se deroga) Fracción derogada DOF 04-02-1998
 
 V.- (Se deroga) Fracción derogada DOF 04-02-1998
 

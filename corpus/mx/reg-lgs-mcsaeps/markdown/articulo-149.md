@@ -33,7 +33,9 @@ E) (Se deroga) Inciso derogado DOF 09-08-1999
 
 F) (Se deroga) Inciso derogado DOF 09-08-1999
 
-G) (Se deroga) Inciso derogado DOF 09-08-1999 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS II.- Las muestras de los productos a que se refiere la fracción anterior, necesarias para la obtención de su registro sanitario;
+G) (Se deroga) Inciso derogado DOF 09-08-1999
+
+II.- Las muestras de los productos a que se refiere la fracción anterior, necesarias para la obtención de su registro sanitario;
 
 III.- (Se deroga) Fracción derogada DOF 04-02-1998
 

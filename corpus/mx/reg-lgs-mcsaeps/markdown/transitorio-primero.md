@@ -15,4 +15,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # PRIMERO
 
-Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.

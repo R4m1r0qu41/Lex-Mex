@@ -17,7 +17,7 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 213
 
-El contenido, expresado en miligramos por litro, de elementos, iones y sustancias, no excederá los límites permisibles que a continuación se expresan: REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS Alcalinidad Total expresada-Como CaC03 ................................................................. 400.00
+El contenido, expresado en miligramos por litro, de elementos, iones y sustancias, no excederá los límites permisibles que a continuación se expresan: Alcalinidad Total expresada-Como CaC03 ................................................................. 400.00
 
 Aluminio ........................................................................................................................... 0.20
 
@@ -69,6 +69,6 @@ Zinc ...........................................................................
 
 SAAM (Substancias Activas al Azul de Metileno) ............................................................. 0.5
 
-ECC (Extractables Carbón-Cloroformo) ............................................................................ 0.3 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS ECA (Extractables Carbón-Alcohol) .................................................................................. 1.5
+ECC (Extractables Carbón-Cloroformo) ............................................................................ 0.3 ECA (Extractables Carbón-Alcohol) .................................................................................. 1.5
 
 Los demás que señale la norma correspondiente.

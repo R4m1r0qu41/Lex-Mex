@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 64
 
-Corresponde a las autoridades sanitarias, como requisito para expedir la licencia sanitaria, comprobar que los establecimientos estén debidamente acondicionados para el uso a que se destinen o pretendan destinar, de acuerdo a su clasificación por categorías o por las características del proceso respectivo y atendiendo a lo que establezca en las normas aplicables. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+Corresponde a las autoridades sanitarias, como requisito para expedir la licencia sanitaria, comprobar que los establecimientos estén debidamente acondicionados para el uso a que se destinen o pretendan destinar, de acuerdo a su clasificación por categorías o por las características del proceso respectivo y atendiendo a lo que establezca en las normas aplicables.

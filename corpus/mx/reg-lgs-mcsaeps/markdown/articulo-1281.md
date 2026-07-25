@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 1281
 
-En la norma correspondiente se determinará las materias primas que podrán emplearse en la fabricación de envases desechables, así como los usos de sus tapas y empaques a los que dichos envases podrán destinarse. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+En la norma correspondiente se determinará las materias primas que podrán emplearse en la fabricación de envases desechables, así como los usos de sus tapas y empaques a los que dichos envases podrán destinarse.

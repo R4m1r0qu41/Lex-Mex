@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 84
 
-En los establecimientos dedicados al proceso de alimentos, en los centros hospitalarios y educativos, en los transportes colectivos y, en general, en sitios de reunión de la población, sólo podrán aplicarse los plaguicidas autorizados para su empleo en dichos lugares. La aplicación sólo podrá efectuarla personal que cuente con la autorización sanitaria correspondiente, sin perjuicio de lo que disponga la Secretaría de Desarrollo urbano y Ecología. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+En los establecimientos dedicados al proceso de alimentos, en los centros hospitalarios y educativos, en los transportes colectivos y, en general, en sitios de reunión de la población, sólo podrán aplicarse los plaguicidas autorizados para su empleo en dichos lugares. La aplicación sólo podrá efectuarla personal que cuente con la autorización sanitaria correspondiente, sin perjuicio de lo que disponga la Secretaría de Desarrollo urbano y Ecología.

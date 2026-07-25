@@ -31,7 +31,7 @@ V. Los métodos de medición de los niveles de radiación;
 
 VI. Los métodos de toma de muestras y análisis de contaminantes radiactivos;
 
-VII. Los métodos de calibración de equipos de medición de niveles de radiación; REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS VIII. Los límites máximos de emisión de radiaciones electromagnéticas ionizantes o no ionizantes, de aparatos y equipos industriales o domésticos que no se clasifiquen como fuentes, pero que puedan representar un riesgo a la salud humana;
+VII. Los métodos de calibración de equipos de medición de niveles de radiación; VIII. Los límites máximos de emisión de radiaciones electromagnéticas ionizantes o no ionizantes, de aparatos y equipos industriales o domésticos que no se clasifiquen como fuentes, pero que puedan representar un riesgo a la salud humana;
 
 IX. Los límites máximos de exposición a radiaciones electromagnéticas no ionizantes, para personal ocupacionalmente expuesto o población en general;
 

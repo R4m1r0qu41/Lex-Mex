@@ -17,6 +17,6 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 1268
 
-Para efectos de este Reglamento se entiende por: REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS I. Envase primario: Todo recipiente destinado a contener un producto y que entra, en contacto directo con el mismo, conservando su integridad física, química y sanitaria,
+Para efectos de este Reglamento se entiende por: I. Envase primario: Todo recipiente destinado a contener un producto y que entra, en contacto directo con el mismo, conservando su integridad física, química y sanitaria,
 
 II. Envase secundario: Es aquél que contiene al primario. Ocasionalmente agrupa los productos envasados con el fin de facilitar su manejo.

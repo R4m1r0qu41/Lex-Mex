@@ -43,4 +43,4 @@ a) Sustancias tóxicas, y
 
 b) Radiaciones ionizantes con fines médicos;
 
-IV.- Los responsables de los sistemas de abastecimiento de agua, y REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS V.- Los demás responsables o auxiliares sanitarios de los establecimientos del proceso o actividades que se establezcan en la Ley, este Reglamento u otras disposiciones aplicables.
+IV.- Los responsables de los sistemas de abastecimiento de agua, y V.- Los demás responsables o auxiliares sanitarios de los establecimientos del proceso o actividades que se establezcan en la Ley, este Reglamento u otras disposiciones aplicables.

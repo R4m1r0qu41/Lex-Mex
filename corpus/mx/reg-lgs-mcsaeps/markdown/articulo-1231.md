@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 1231
 
-Los recipientes utilizados para contener sustancias tóxicas, solas o mezcladas, no podrán utilizarse posteriormente, para contener productos destinados al consumo humano, directo o indirecto. REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+Los recipientes utilizados para contener sustancias tóxicas, solas o mezcladas, no podrán utilizarse posteriormente, para contener productos destinados al consumo humano, directo o indirecto.

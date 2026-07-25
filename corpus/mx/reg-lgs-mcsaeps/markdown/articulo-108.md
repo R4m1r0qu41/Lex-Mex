@@ -17,4 +17,4 @@ source_sha256: a952c5756e74797046decc1c7a80487ff423d2966fcffc2bf9dcd91c92b5539f
 
 # Artículo 108
 
-En el caso del gas licuado y gas natural, el responsable, el propietario o encargado del establecimiento, planta o red de distribución, deberá notificar de inmediato a la autoridad sanitaria de REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE CONTROL SANITARIO DE ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS cualquier irregularidad o accidente que ocurra en las instalaciones, que dé o pueda dar lugar a un escape de gas, independientemente del aviso que dé a otras autoridades competentes.
+En el caso del gas licuado y gas natural, el responsable, el propietario o encargado del establecimiento, planta o red de distribución, deberá notificar de inmediato a la autoridad sanitaria de cualquier irregularidad o accidente que ocurra en las instalaciones, que dé o pueda dar lugar a un escape de gas, independientemente del aviso que dé a otras autoridades competentes.
