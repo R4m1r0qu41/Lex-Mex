@@ -51,6 +51,9 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/maximasa-legal-integration.md`](docs/plans/maximasa-legal-integration.md)
+  — Use the selected federal corpus in Maximasa's compliance module, close
+  missing-instrument coverage, and design a standards-capable NOM/NMX boundary.
 - [`docs/plans/external-cli-metadata-ingestion-automation.md`](docs/plans/external-cli-metadata-ingestion-automation.md)
   — Expose selected committed corpus data to external projects, define the
   metadata portability boundary, and make structural ingestion resumable.
