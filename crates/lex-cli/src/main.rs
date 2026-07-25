@@ -36,7 +36,7 @@ use regex::Regex;
 #[derive(Debug, Parser)]
 #[command(name = "lex-mex", version, about = "Compile Mexican legal sources")]
 struct Cli {
-    #[arg(long, global = true, default_value = ".")]
+    #[arg(long, global = true, env = "LEX_MEX_ROOT", default_value = ".")]
     root: PathBuf,
     #[arg(
         long,
@@ -51,6 +51,31 @@ struct Cli {
 
 #[derive(Debug, Subcommand)]
 enum Command {
+    /// List the committed instruments available to consumer applications.
+    Instruments {
+        /// Emit a JSON array instead of tab-separated text.
+        #[arg(long)]
+        json: bool,
+    },
+    /// Print an absolute path that other command-line tools can consume.
+    Path {
+        /// Restrict the path to one committed instrument.
+        instrument: Option<String>,
+        #[arg(long, value_enum, default_value = "corpus")]
+        kind: CorpusPathKind,
+    },
+    /// Search committed legal text and metadata with ripgrep.
+    Search {
+        pattern: String,
+        /// Restrict the search to these instrument slugs (comma-separated).
+        #[arg(long, value_delimiter = ',')]
+        instrument: Vec<String>,
+        #[arg(long, value_enum, default_value = "markdown")]
+        scope: SearchScope,
+        /// Additional arguments passed directly to `rg`; place them after `--`.
+        #[arg(last = true, allow_hyphen_values = true)]
+        rg_args: Vec<String>,
+    },
     Discover {
         source: String,
     },
@@ -148,6 +173,25 @@ enum ExportFormat {
     Obsidian,
 }
 
+#[derive(Debug, Clone, Copy, ValueEnum)]
+enum CorpusPathKind {
+    Corpus,
+    Instrument,
+    Provisions,
+    References,
+    Markdown,
+}
+
+#[derive(Debug, Clone, Copy, ValueEnum)]
+enum SearchScope {
+    /// Generated, human-readable provision Markdown.
+    Markdown,
+    /// Canonical JSON and sidecar records, excluding generated Markdown.
+    Canonical,
+    /// Both canonical records and generated Markdown.
+    All,
+}
+
 #[derive(Debug, Clone, Copy, ValueEnum, PartialEq, Eq)]
 enum TemporalProvider {
     None,
@@ -237,12 +281,10 @@ fn main() -> Result<()> {
         .transpose()?;
 
     match cli.command {
-        Command::Discover { source } => {
-            let configs = discover_source_configs(&root, &source)?;
-            for config in &configs {
-                println!("{}", serde_json::to_string_pretty(&discover(config))?);
-            }
+        command @ (Command::Instruments { .. } | Command::Path { .. } | Command::Search { .. }) => {
+            run_consumer_command(&root, command)?;
         }
+        Command::Discover { source } => run_discover(&root, &source)?,
         Command::Fetch { instrument } => {
             let context = instrument_context(&root, &instrument)?;
             run_fetch(&context)?;
@@ -329,6 +371,181 @@ fn main() -> Result<()> {
         },
     }
     Ok(())
+}
+
+fn run_consumer_command(root: &Path, command: Command) -> Result<()> {
+    match command {
+        Command::Instruments { json } => run_instruments(root, json),
+        Command::Path { instrument, kind } => run_path(root, instrument.as_deref(), kind),
+        Command::Search {
+            pattern,
+            instrument,
+            scope,
+            rg_args,
+        } => run_search(root, &pattern, &instrument, scope, &rg_args),
+        _ => unreachable!("only consumer commands are routed to this function"),
+    }
+}
+
+fn run_discover(root: &Path, source: &str) -> Result<()> {
+    let configs = discover_source_configs(root, source)?;
+    for config in &configs {
+        println!("{}", serde_json::to_string_pretty(&discover(config))?);
+    }
+    Ok(())
+}
+
+#[derive(Debug, serde::Serialize)]
+struct InstrumentIndexEntry {
+    slug: String,
+    id: String,
+    short_name: String,
+    official_title: String,
+    instrument_type: InstrumentType,
+    status: InstrumentStatus,
+    publication_date: NaiveDate,
+    latest_reform_date: Option<NaiveDate>,
+    path: PathBuf,
+}
+
+fn committed_instrument_index(root: &Path) -> Result<Vec<InstrumentIndexEntry>> {
+    let corpus_root = root.join("corpus/mx");
+    if !corpus_root.is_dir() {
+        bail!(
+            "committed corpus directory does not exist: {}",
+            corpus_root.display()
+        );
+    }
+    let mut directories: Vec<_> = fs::read_dir(&corpus_root)?
+        .collect::<Result<Vec<_>, _>>()?
+        .into_iter()
+        .map(|entry| entry.path())
+        .filter(|path| path.join("instrument.json").is_file())
+        .collect();
+    directories.sort();
+
+    directories
+        .into_iter()
+        .map(|path| {
+            let slug = path
+                .file_name()
+                .and_then(|name| name.to_str())
+                .context("corpus directory name is not valid UTF-8")?
+                .to_owned();
+            let instrument: Instrument = read_json(&path.join("instrument.json"))?;
+            Ok(InstrumentIndexEntry {
+                slug,
+                id: instrument.id,
+                short_name: instrument.short_name,
+                official_title: instrument.official_title,
+                instrument_type: instrument.instrument_type,
+                status: instrument.status,
+                publication_date: instrument.publication_date,
+                latest_reform_date: instrument.latest_reform_date,
+                path,
+            })
+        })
+        .collect()
+}
+
+fn run_instruments(root: &Path, json: bool) -> Result<()> {
+    let instruments = committed_instrument_index(root)?;
+    if json {
+        println!("{}", serde_json::to_string_pretty(&instruments)?);
+    } else {
+        for instrument in instruments {
+            println!(
+                "{}\t{}\t{}\t{}",
+                instrument.slug,
+                instrument.short_name,
+                instrument.official_title,
+                instrument.path.display()
+            );
+        }
+    }
+    Ok(())
+}
+
+fn committed_instrument_path(root: &Path, slug: &str) -> Result<PathBuf> {
+    let mut components = Path::new(slug).components();
+    if !matches!(components.next(), Some(std::path::Component::Normal(_)))
+        || components.next().is_some()
+    {
+        bail!("instrument slug must be one path component, got {slug:?}");
+    }
+    let path = root.join("corpus/mx").join(slug);
+    if !path.join("instrument.json").is_file() {
+        bail!("no committed corpus found for instrument {slug:?}");
+    }
+    Ok(path)
+}
+
+fn selected_corpus_paths(root: &Path, instruments: &[String]) -> Result<Vec<PathBuf>> {
+    if instruments.is_empty() {
+        let corpus_root = root.join("corpus/mx");
+        if !corpus_root.is_dir() {
+            bail!(
+                "committed corpus directory does not exist: {}",
+                corpus_root.display()
+            );
+        }
+        Ok(vec![corpus_root])
+    } else {
+        instruments
+            .iter()
+            .map(|slug| committed_instrument_path(root, slug))
+            .collect()
+    }
+}
+
+fn run_path(root: &Path, instrument: Option<&str>, kind: CorpusPathKind) -> Result<()> {
+    let corpus = match instrument {
+        Some(slug) => committed_instrument_path(root, slug)?,
+        None if matches!(kind, CorpusPathKind::Corpus) => root.join("corpus/mx"),
+        None => bail!("--kind {kind:?} requires an instrument slug"),
+    };
+    let path = match kind {
+        CorpusPathKind::Corpus => corpus,
+        CorpusPathKind::Instrument => corpus.join("instrument.json"),
+        CorpusPathKind::Provisions => corpus.join("provisions.json"),
+        CorpusPathKind::References => corpus.join("references.json"),
+        CorpusPathKind::Markdown => corpus.join("markdown"),
+    };
+    if !path.exists() {
+        bail!("requested corpus path does not exist: {}", path.display());
+    }
+    println!("{}", path.display());
+    Ok(())
+}
+
+fn run_search(
+    root: &Path,
+    pattern: &str,
+    instruments: &[String],
+    scope: SearchScope,
+    rg_args: &[String],
+) -> Result<()> {
+    let paths = selected_corpus_paths(root, instruments)?;
+    let mut command = ProcessCommand::new("rg");
+    command.args(rg_args);
+    match scope {
+        SearchScope::Markdown => {
+            command.args(["--glob", "**/markdown/**/*.md"]);
+        }
+        SearchScope::Canonical => {
+            command.args(["--glob", "!**/markdown/**"]);
+        }
+        SearchScope::All => {}
+    }
+    command.arg("--").arg(pattern).args(paths);
+    let status = command.status().context(
+        "failed to execute ripgrep; install `rg` or use `lex-mex path` with another tool",
+    )?;
+    match status.code() {
+        Some(0 | 1) => Ok(()),
+        Some(code) => bail!("ripgrep failed with exit code {code}"),
+        None => bail!("ripgrep terminated by signal"),
+    }
 }
 
 fn republish_exports(
@@ -2243,7 +2460,9 @@ fn cleanup_work(context: &InstrumentContext) -> Result<()> {
 }
 
 fn absolute_root(root: &Path) -> Result<PathBuf> {
-    if root.is_absolute() {
+    if root == Path::new(".") {
+        std::env::current_dir().map_err(Into::into)
+    } else if root.is_absolute() {
         Ok(root.to_path_buf())
     } else {
         Ok(std::env::current_dir()?.join(root))
@@ -2342,9 +2561,9 @@ mod tests {
     use url::Url;
 
     use super::{
-        ExpectedEdgeCorpus, InstrumentAliasTable, Paths, evaluate_expected_edges,
-        freeze_adapter_baseline, latest_reform_date, read_corpus, resolve_global_aliases,
-        run_batch_closure, scaffold_adapter,
+        ExpectedEdgeCorpus, InstrumentAliasTable, Paths, committed_instrument_index,
+        evaluate_expected_edges, freeze_adapter_baseline, latest_reform_date, read_corpus,
+        resolve_global_aliases, run_batch_closure, scaffold_adapter, selected_corpus_paths,
     };
 
     const STALE_RUNNING_HEADER_REFORM_DATE_FIXTURE: &str = include_str!(
@@ -2412,6 +2631,41 @@ mod tests {
             Some("machine-proposed")
         );
         assert!(!freeze_adapter_baseline(&adapter_path, Some(publication_date), 99, 99).unwrap());
+    }
+
+    #[test]
+    fn consumer_index_and_selection_only_expose_committed_corpora() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        let first = fixture_corpus(
+            "urn:lex-mx:federal:statute:first",
+            "First Law",
+            "FIRST",
+            "first text",
+        );
+        let second = fixture_corpus(
+            "urn:lex-mx:federal:statute:second",
+            "Second Law",
+            "SECOND",
+            "second text",
+        );
+        write_canonical(&first, &root.join("corpus/mx/first")).unwrap();
+        write_canonical(&second, &root.join("corpus/mx/second")).unwrap();
+        fs::create_dir_all(root.join("corpus/mx/incomplete")).unwrap();
+
+        let index = committed_instrument_index(root).unwrap();
+        assert_eq!(
+            index
+                .iter()
+                .map(|entry| entry.slug.as_str())
+                .collect::<Vec<_>>(),
+            vec!["first", "second"]
+        );
+
+        let selected = selected_corpus_paths(root, &["second".to_owned()]).unwrap();
+        assert_eq!(selected, vec![root.join("corpus/mx/second")]);
+        assert!(selected_corpus_paths(root, &["missing".to_owned()]).is_err());
+        assert!(selected_corpus_paths(root, &["../second".to_owned()]).is_err());
     }
 
     #[test]

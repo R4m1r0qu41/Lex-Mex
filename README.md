@@ -63,15 +63,16 @@ The workspace is divided into five crates:
 
 - Stable Rust with `rustfmt` and Clippy (the checked-in toolchain file installs
   these components)
+- `rg` from ripgrep for the consumer `search` command
 - `pdftotext` from [Poppler](https://poppler.freedesktop.org/)
 - Network access to official source sites when fetching a source
 - Authenticated Codex CLI only when using `--temporal-provider codex`
 - Obsidian and its CLI only if you want the optional vault workflow
 
-On macOS, Poppler can be installed with Homebrew:
+On macOS, ripgrep and Poppler can be installed with Homebrew:
 
 ```bash
-brew install poppler
+brew install ripgrep poppler
 ```
 
 ## Quick start
@@ -180,6 +181,40 @@ cargo run --locked -p lex-cli -- export lritf --format markdown
 cargo run --locked -p lex-cli -- export lritf --format obsidian
 cargo run --locked -p lex-cli -- pipeline ifpe-dcg-2021
 ```
+
+## Use Lex-Mex from another project
+
+Install the CLI once, then point it at the authoritative Lex-Mex checkout from
+any working directory:
+
+```bash
+cargo install --locked --path crates/lex-cli
+export LEX_MEX_ROOT=/Users/jr/Dev/lex-mex
+
+lex-mex instruments
+lex-mex instruments --json
+lex-mex search "juicio político" --instrument lfrsp
+lex-mex search "artículo 110" --instrument lfrsp,cpeum -- --ignore-case
+```
+
+`search` delegates to ripgrep. It searches generated provision Markdown by
+default, supports `--scope canonical` or `--scope all`, and passes arguments
+after `--` directly to `rg` (for example `--json`, `--fixed-strings`, or
+context controls). `path` exposes absolute corpus paths for composition with
+other tools:
+
+```bash
+lex-mex path
+lex-mex path lfrsp --kind provisions
+rg '"temporal_status": "repealed"' \
+  "$(lex-mex path lfrsp --kind provisions)"
+```
+
+Pass `--root PATH` instead of `LEX_MEX_ROOT` when a per-command location is
+more convenient. Instrument filtering lets a consumer use only the relevant
+part of the corpus; deterministic copied subset bundles are a planned,
+separately versioned boundary rather than an implicit copy of repository
+internals.
 
 ## Federal-corpus ingestion loop
 

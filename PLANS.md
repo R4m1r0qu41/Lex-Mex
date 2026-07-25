@@ -51,6 +51,9 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Active
 
+- [`docs/plans/external-cli-metadata-ingestion-automation.md`](docs/plans/external-cli-metadata-ingestion-automation.md)
+  — Expose selected committed corpus data to external projects, define the
+  metadata portability boundary, and make structural ingestion resumable.
 - [`docs/plans/cluster-2-federal-corpus-ingestion.md`](docs/plans/cluster-2-federal-corpus-ingestion.md)
   — Complete the prepared cluster-2 federal corpus through the Rust ingestion
   gate, close reverse links, and validate publication output.
