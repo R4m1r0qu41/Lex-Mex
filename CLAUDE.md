@@ -1,6 +1,6 @@
 # Lex-Mex
 
-This is the Lex-Mex folder — an experimental, provenance-aware compiler and
+Inherits: `~/.claude/CLAUDE.md`. This is the Lex-Mex folder — an experimental, provenance-aware compiler and
 temporal-analysis pipeline for Mexican federal legal texts. It acquires
 official sources, preserves their provenance, produces stable canonical
 records, validates model output, routes material legal uncertainty to a named
