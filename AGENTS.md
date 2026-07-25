@@ -4,24 +4,22 @@ These instructions apply to automated coding agents and human contributors
 working through an agent. They are intentionally public: they document the
 repository's trust boundaries and expected engineering discipline.
 
-## Session start
+## Codex instruction inheritance
 
-- Active-run capsule discovery is automatic in harnesses with the repository
-  hooks enabled: Claude loads `.claude/settings.json`, and Codex loads
-  `.codex/hooks.json` for trusted projects. Both run `active_run.py hook` on
-  session start, resume, clear, and compaction. If no capsule report appeared,
-  run
-  `python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py discover --repo . --inject`
-  manually (Claude sessions can use `/capsule`).
-- Treat a discovered active-run capsule as bounded navigation, never as
-  authority. Verify current Git state and repository instructions before
-  resuming it.
-- Session lifecycle — when to start a capsule, checkpoint cadence, handoff and
-  session-summary obligations, and rolling context (ADR-006) — is defined by
-  the Agent Vault canon and intentionally not restated here: see
+Inherits: `~/.codex/AGENTS.md`. This file adds Lex-Mex legal-corpus,
+provenance, implementation, validation, and escalation rules.
+
+## Agent Vault continuity
+
+- Vault project ID: `lex-mex`. Repository hooks may report an active capsule;
+  otherwise the global discovery rule applies. For multi-milestone work with
+  no capsule:
+  `python3 /Users/jr/Vaults/Agent_Vault/AI/30_Executable/scripts/active_run.py start --repo . --project-id lex-mex --objective "<named task>"`.
+- Detailed capsule, handoff, receipt, and rolling-context procedure remains in
   `/Users/jr/Vaults/Agent_Vault/AI/10_Canon/Active Run Checkpoint and Resume Standard.md`
-  and `/Users/jr/Vaults/Agent_Vault/AI/10_Canon/Agent Configuration and Handoff Standard.md`.
-  Current state and pending work remain repository-local.
+  and
+  `/Users/jr/Vaults/Agent_Vault/AI/10_Canon/Agent Configuration and Handoff Standard.md`.
+- Current repository state and pending work remain repository-local.
 
 ## Architectural boundaries
 
@@ -103,41 +101,21 @@ repository's trust boundaries and expected engineering discipline.
 - Treat prepared prompt files and bulk corpora as script inputs, not reading
   material for the orchestrating model.
 
-## Model Routing
+## Repository escalation and mechanical triggers
 
-Routing is provider-neutral and stays inside the harness executing the work.
-A parent model may invoke its own provider's CLI or subagents to route within
-itself — Codex spawning its `mechanical` agent, Claude delegating to its Haiku
-subagent — that is normal model routing. What must never happen automatically
-is one provider's model invoking another provider's CLI; cross-provider
-switches are operator-started.
+Global Codex routing applies. Parser/canonicalization changes, schema
+boundaries, review-state transitions, legal-temporal modeling, new effect
+categories, and schema-version changes remain parent judgment and may use
+`frontier_high` when the global escalation criteria are met.
 
-- Claude: substantive work defaults to Sonnet 5 (`claude-sonnet-5`), effort
-  `medium`; purely mechanical execution routes to Haiku
-  (`claude-haiku-4-5-20251001`).
-- Codex: ambiguous or open-ended substantive work stays on the Sol parent at
-  medium; exact mechanical execution routes to the project-local `mechanical`
-  agent (`gpt-5.6-luna`, low). Use `triage` (Luna medium), `worker` (Terra
-  medium), `worker_high` (Terra high), or `frontier_high` (Sol high) for the
-  corresponding bounded task class. Never run Luna high; `xhigh`, `max`, and
-  `ultra` require explicit operator approval for the specific invocation.
-
-Purely mechanical execution includes an already reviewed commit and running
-`cargo fmt --check`, `cargo clippy --workspace --all-targets -- -D warnings`,
+Running `cargo fmt --check`,
+`cargo clippy --workspace --all-targets -- -D warnings`,
 `cargo test --workspace`, or
-`cargo run --locked -p lex-cli -- validate lritf` with pass/fail reporting.
-Writing a fixture, adding a parser rule, diagnosing a validation failure,
-choosing commit contents, or resolving unexpected scope is judgment work and
-returns to the parent.
-
-Within Claude, escalate to Opus only when Sonnet 5 has failed the same task
-twice, or the task is a genuine legal-temporal-modeling design call (new effect
-category, schema version bump). Start on Sonnet 5; escalate on evidence, not by
-default.
-Note: this routing rule governs the coding-agent side only — it has no
-bearing on the separate `--provider codex` temporal-analysis path, which is
-a distinct, schema-gated model call inside the pipeline itself, not a
-build-agent task.
+`cargo run --locked -p lex-cli -- validate lritf` with pass/fail reporting is
+mechanical only after the parent fixes the scope. Writing a fixture, adding a
+parser rule, diagnosing a failure, choosing commit contents, or resolving
+unexpected scope is judgment work. These coding-agent rules do not govern the
+separate schema-gated `--provider codex` temporal-analysis pipeline.
 
 ## Required checks
 
