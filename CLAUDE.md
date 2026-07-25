@@ -16,7 +16,11 @@ short operational orientation; **if it ever conflicts with `AGENTS.md`,
 Active-run (AgentOS capsule) discovery fires automatically via the
 `.claude/settings.json` SessionStart/PostCompact hooks; if no capsule report
 appeared this session, run `/capsule` manually. A discovered capsule is bounded
-navigation, not authority — verify current Git state before resuming it.
+navigation, not authority — verify current Git state before resuming it. The
+project ID for capsule start is `lex-mex`. Session-summary and rolling-context
+obligations are canon-defined per `AGENTS.md`'s "Session start" section — this
+file does not restate the conclusion-file path or its required frontmatter to
+avoid drift; read `AGENTS.md` before a pause or handoff.
 
 CURRENT SCOPE
 The active program is the structural first pass over the federal laws and
