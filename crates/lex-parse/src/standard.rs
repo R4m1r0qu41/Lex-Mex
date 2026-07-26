@@ -15,28 +15,32 @@ pub fn parse_standard_clauses(
 ) -> Result<Vec<StandardClause>> {
     let heading =
         Regex::new(r"(?m)^[ \t]*(\d+(?:\.\d+)*)(?:\.[ \t]+|[ \t]+)([^\r\n].*?)[ \t]*\r?$")?;
-    let mut matches = heading
+    let matches = heading
         .captures_iter(source_text)
         .filter_map(|captures| {
             let whole = captures.get(0)?;
             let number = captures.get(1)?.as_str();
-            let first = number.split('.').next()?.parse::<u32>().ok()?;
-            Some((whole.start(), number.to_owned(), first))
+            let order = clause_order(number)?;
+            Some((whole.start(), number.to_owned(), order))
         })
         .collect::<Vec<_>>();
-    let Some(first_body) = matches
+    let Some((first_body, body_end)) = matches
         .iter()
-        .position(|(_, number, first)| !number.contains('.') && matches!(*first, 0 | 1))
+        .enumerate()
+        .filter(|(_, (_, _, order))| order.len() == 1 && matches!(order[0], 0 | 1))
+        .map(|(start, _)| (start, monotonic_run_end(&matches, start)))
+        .max_by_key(|(start, end)| end - start)
     else {
         bail!("standard text has no numbered body beginning with clause 0 or 1");
     };
-    matches.drain(..first_body);
+    let matches = &matches[first_body..body_end];
+    let structural_end = matches.last().map_or(source_text.len(), |(start, _, _)| {
+        standard_body_end(source_text, *start)
+    });
 
     let mut clauses = Vec::with_capacity(matches.len());
     for (index, (start, number, _)) in matches.iter().enumerate() {
-        let end = matches
-            .get(index + 1)
-            .map_or(source_text.len(), |next| next.0);
+        let end = matches.get(index + 1).map_or(structural_end, |next| next.0);
         let (trimmed_start, trimmed_end) = trim_span(source_text, *start, end);
         let text = source_text[trimmed_start..trimmed_end].to_owned();
         clauses.push(StandardClause {
@@ -51,6 +55,29 @@ pub fn parse_standard_clauses(
         });
     }
     Ok(clauses)
+}
+
+fn standard_body_end(source_text: &str, last_clause_start: usize) -> usize {
+    let markers = Regex::new(
+        r"(?mi)^[ \t]*(?:SUFRAGIO[ \t]+EFECTIVO\b|TRANSITORIOS?\b|AP[ÉE]NDICE\b|ANEXO\b)",
+    )
+    .expect("standard end-marker regex must compile");
+    markers
+        .find(&source_text[last_clause_start..])
+        .map_or(source_text.len(), |marker| {
+            last_clause_start + marker.start()
+        })
+}
+
+fn monotonic_run_end(matches: &[(usize, String, Vec<u32>)], start: usize) -> usize {
+    let mut previous = &matches[start].2;
+    for (index, (_, _, order)) in matches.iter().enumerate().skip(start + 1) {
+        if order <= previous {
+            return index;
+        }
+        previous = order;
+    }
+    matches.len()
 }
 
 /// Validate the standards-specific identity, lifecycle, review separation,
@@ -267,6 +294,8 @@ mod tests {
     };
 
     const SAMPLE: &str = include_str!("../../../fixtures/standards/numbered-standard-sample.txt");
+    const INDEX_AND_APPENDIX_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/index-and-appendix-sample.txt");
 
     #[test]
     fn parses_numbered_standard_with_exact_spans() {
@@ -281,6 +310,23 @@ mod tests {
         );
         assert_eq!(clauses[6].label, "5.1 El establecimiento debe medir.");
         let report = validate_standard(&metadata, &clauses, SAMPLE);
+        assert!(report.valid, "{:#?}", report.issues);
+    }
+
+    #[test]
+    fn skips_index_and_stops_before_signature_and_appendix_numbering() {
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(INDEX_AND_APPENDIX_SAMPLE, &metadata).unwrap();
+        assert_eq!(
+            clauses
+                .iter()
+                .map(|clause| clause.number.as_str())
+                .collect::<Vec<_>>(),
+            vec!["1", "1.1", "1.2", "2", "2.1", "3", "3.1"]
+        );
+        assert!(!clauses[6].text.contains("Sufragio"));
+        assert!(!clauses[6].text.contains("APENDICE"));
+        let report = validate_standard(&metadata, &clauses, INDEX_AND_APPENDIX_SAMPLE);
         assert!(report.valid, "{:#?}", report.issues);
     }
 
