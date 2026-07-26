@@ -33,10 +33,10 @@ does not authorize temporal model execution, bulk canonical-data migration,
 automatic legal-review resolution, publication of unreviewed bundles, or
 cross-provider model invocation.
 
-The current implementation milestone does not copy corpus data into consumer
-projects. Consumers point the CLI at a Lex-Mex checkout through
-`LEX_MEX_ROOT` or `--root`. A copied subset needs a content-addressed bundle
-manifest and remains a later milestone.
+Consumers may point the CLI at a Lex-Mex checkout through `LEX_MEX_ROOT` or
+`--root`, or copy an explicit selected subset through the content-addressed
+bundle boundary. The bundle is derived only from committed, passing corpus
+artifacts and never overwrites an existing destination.
 
 ## Authoritative surfaces
 
@@ -79,8 +79,10 @@ baseline corpus validators pass.
 - [x] (2026-07-25) Passed formatting, warning-denying Clippy, 96 workspace
   tests, LRITF and IFPE baseline validation, diff checks, and CLI smoke tests
   from an external working directory.
-- [ ] Implement deterministic subset bundles after their manifest, compatibility
-  contract, and validation rules are reviewed.
+- [x] (2026-07-25) Implemented deterministic selected-instrument bundles with
+  canonical and canonical-plus-Markdown profiles, committed-state enforcement,
+  validation/source/file digests, excluded-target disclosure, and a versioned
+  manifest schema.
 - [ ] Implement the resumable ingestion state machine and exercise it first on
   `lgbn` with a bounded one-instrument run.
 
@@ -151,12 +153,14 @@ manifests, adapters, corpus presence, and receipts before resuming.
 
 ## Next action
 
-Use the reviewed design to specify the subset bundle manifest before changing
-canonical schemas or resuming `lgbn`.
+Exercise the bundle against Maximasa's selected federal instruments, then add
+the standards-specific metadata/parser boundary without changing the general
+AD1 next action (`lgbn`).
 
 ## Outcomes and retrospective
 
-M1 is complete: external consumers can enumerate, locate, and search selected
-committed corpora without running inside the Lex-Mex checkout. No canonical
-data changed. Portable copied bundles and unattended ingestion remain planned
-milestones.
+M1 and M2 are complete: external consumers can enumerate, locate, search, or
+copy a deterministic selected subset without running inside the Lex-Mex
+checkout. The bundle manifest exposes every included file digest and every
+resolved target omitted from the selection. No canonical data changed.
+Resumable unattended ingestion remains the next general automation milestone.

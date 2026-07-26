@@ -34,6 +34,8 @@ use lex_source::{
 };
 use regex::Regex;
 
+mod bundle;
+
 #[derive(Debug, Parser)]
 #[command(name = "lex-mex", version, about = "Compile Mexican legal sources")]
 struct Cli {
@@ -76,6 +78,11 @@ enum Command {
         /// Additional arguments passed directly to `rg`; place them after `--`.
         #[arg(last = true, allow_hyphen_values = true)]
         rg_args: Vec<String>,
+    },
+    /// Create a deterministic, portable subset of the committed corpus.
+    Bundle {
+        #[command(subcommand)]
+        command: bundle::BundleCommand,
     },
     Discover {
         source: String,
@@ -285,6 +292,7 @@ fn main() -> Result<()> {
         command @ (Command::Instruments { .. } | Command::Path { .. } | Command::Search { .. }) => {
             run_consumer_command(&root, command)?;
         }
+        Command::Bundle { command } => bundle::run_bundle_command(&root, command)?,
         Command::Discover { source } => run_discover(&root, &source)?,
         Command::Fetch { instrument } => {
             let context = instrument_context(&root, &instrument)?;

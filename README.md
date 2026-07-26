@@ -213,9 +213,22 @@ rg '"temporal_status": "repealed"' \
 
 Pass `--root PATH` instead of `LEX_MEX_ROOT` when a per-command location is
 more convenient. Instrument filtering lets a consumer use only the relevant
-part of the corpus; deterministic copied subset bundles are a planned,
-separately versioned boundary rather than an implicit copy of repository
-internals.
+part of the corpus. For a portable, content-addressed subset, create a bundle
+from explicit committed instruments:
+
+```bash
+lex-mex bundle create \
+  --instrument lgs,reg-csps,lfpc \
+  --profile canonical-markdown \
+  --output ./vendor/lex-mex
+```
+
+The command refuses unknown or duplicate slugs, selected corpus changes not
+represented by `HEAD`, a non-passing `validation.json`, and an existing output
+path. `bundle-manifest.json` records the canonical schema version, source and
+extracted-text hashes, validation and per-file SHA-256 digests, Git commit and
+commit time, and resolved cross-instrument targets omitted from the selection.
+Use `--profile canonical` when generated Markdown is not needed.
 
 ## Federal-corpus ingestion loop
 

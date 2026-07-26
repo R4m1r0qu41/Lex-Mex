@@ -82,10 +82,10 @@ instruments the application needs.
 
 ### Stage 2: deterministic subset bundles
 
-Add a future command shaped like:
+Create an explicit committed-corpus subset with:
 
-```text
-lex-mex bundle create --instrument cpeum,lritf --format canonical \
+```bash
+lex-mex bundle create --instrument cpeum,lritf --profile canonical \
   --output ./vendor/lex-mex
 ```
 
@@ -99,7 +99,11 @@ The bundle manifest must include:
 - validation result digests;
 - dependency policy for referenced but unbundled instruments.
 
-Profiles should include `canonical`, `markdown`, and `canonical+markdown`.
+The implemented profiles are `canonical` and `canonical-markdown`; the latter
+includes the same canonical records plus generated Markdown, so a presentation
+bundle can never omit its canonical authority. The command refuses to
+overwrite an existing path, requires passing committed validation reports,
+and emits the manifest path plus its SHA-256 digest.
 References to excluded instruments remain explicit edges; the bundle must not
 pretend those targets were included.
 

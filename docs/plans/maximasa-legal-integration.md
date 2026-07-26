@@ -168,7 +168,10 @@ analysis, not missing federal sanitary text.
   one-instrument `maximasa_federal_gap_1` batch. The general AD1 order is
   unchanged and `lgbn` remains its next item.
 - [ ] Complete the refreshed Q-001 package, then execute Q-002 through Q-010.
-- [ ] Specify and implement the selected-instrument bundle manifest.
+- [x] (2026-07-25) Implemented the selected-instrument bundle manifest and
+  CLI with canonical/canonical-plus-Markdown profiles, committed-state and
+  validation gates, per-file/source/validation hashes, and excluded-target
+  disclosure.
 - [ ] Add the federal workplace-safety regulation to a reviewed prepared batch.
 - [ ] Complete AD1–AD3 and ingest AD4 through the provisional-inspect-freeze
   sequence.
