@@ -982,14 +982,7 @@ fn is_reform_closing_furniture(uppercase: &str) -> bool {
     .any(|prefix| uppercase.starts_with(prefix))
 }
 
-fn decree_publication_date(
-    block: &str,
-    publication_re: &Regex,
-    ordinals: &[String],
-) -> Option<NaiveDate> {
-    if is_provision_start(block, ordinals) {
-        return None;
-    }
+fn decree_publication_date(block: &str, publication_re: &Regex) -> Option<NaiveDate> {
     let captures = publication_re.captures(block)?;
     spanish_date(&captures[1], &captures[2].to_lowercase(), &captures[3])
 }
@@ -1045,7 +1038,8 @@ pub fn extract_reform_evidence(
         // the containing decree's date. Once the transitory section has
         // begun, the same wording is likewise a citation inside legal text.
         if !in_transitories
-            && let Some(date) = decree_publication_date(&block, &publication_re, &ordinals)
+            && publication_date.is_none()
+            && let Some(date) = decree_publication_date(&block, &publication_re)
         {
             publication_date = Some(date);
             let occurrence = decrees_by_date.entry(date).or_default();
@@ -1137,6 +1131,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/reform-publication-citation-sample.txt");
     const REFORM_REGULATION_HEADINGS_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-appendix-regulation-headings-sample.txt");
+    const REFORM_WRAPPED_TITLE_ARTICLE_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reform-wrapped-title-article-sample.txt");
     const MULTIPLE_TRANSITORY_SECTIONS_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-multiple-transitory-sections-sample.txt");
     const ORDINAL_STATUTE_ARTICLES_FIXTURE: &str =
@@ -1147,6 +1143,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/wrapped-running-header-regulation-sample.txt");
     const SUBSTANTIVE_APPENDIX_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/substantive-appendix-sample.txt");
+    const ARTICLE_QUINTUS_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/article-quintus-sample.txt");
 
     fn options(instrument_id: &str, title: &str) -> DiputadosOptions {
         DiputadosOptions {
@@ -1230,6 +1228,25 @@ mod tests {
             document.reform_evidence[0].provision_id,
             "urn:lex-mx:federal:code:sample:amendment:2020-07-01:transitory:vigesimo"
         );
+    }
+
+    #[test]
+    fn parses_quintus_article_qualifier() {
+        let document = parse_diputados(
+            ARTICLE_QUINTUS_FIXTURE,
+            &options(
+                "urn:lex-mx:federal:statute:sample",
+                "Ley General de Muestra",
+            ),
+            NaiveDate::from_ymd_opt(2004, 5, 20).expect("valid date"),
+        )
+        .expect("quintus fixture parses");
+        let numbers = document
+            .provisions
+            .iter()
+            .map(|provision| provision.number.as_str())
+            .collect::<Vec<_>>();
+        assert_eq!(numbers, ["54 Quáter", "54 Quintus", "55"]);
     }
 
     #[test]
@@ -1570,6 +1587,25 @@ mod tests {
         assert_eq!(
             evidence[0].provision_id,
             "urn:lex-mx:federal:statute:sample:amendment:2015-12-18:transitory:primero"
+        );
+    }
+
+    #[test]
+    fn reform_wrapped_title_may_start_with_article_before_publication_date() {
+        let evidence = super::extract_reform_evidence(
+            REFORM_WRAPPED_TITLE_ARTICLE_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+        )
+        .expect("wrapped decree title preserves its publication date");
+
+        assert_eq!(evidence.len(), 1);
+        assert_eq!(
+            evidence[0].provision_id,
+            "urn:lex-mx:federal:statute:sample:amendment:2018-01-19:transitory:unico"
+        );
+        assert_eq!(
+            evidence[0].text,
+            "El presente Decreto entrará en vigor al día siguiente de su publicación."
         );
     }
 

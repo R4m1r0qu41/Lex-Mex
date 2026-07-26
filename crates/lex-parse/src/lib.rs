@@ -178,7 +178,7 @@ impl ReferencePatterns {
                 // a following space-separated qualifier (`15-B Bis`); and a
                 // qualifier may carry a compound trailing number
                 // (`95 Bis 3`, `168 Bis 10`).
-                r"(?i)(?:\d{1,3}(?:,\d{3})+|\d{1,4})(?:-(?:Bis|Ter|Qu[áa]ter)(?:\s+\d{1,3})?|(?:-[A-Z])?(?:\s+(?:Bis|Ter|Qu[áa]ter)(?:\s+\d{1,3})?)?)",
+                r"(?i)(?:\d{1,3}(?:,\d{3})+|\d{1,4})(?:-(?:Bis|Ter|Qu(?:[áa]ter|inquies|intus)|Sexies|Septies|Octies|Nonies)(?:\s+\d{1,3})?|(?:-[A-Z])?(?:\s+(?:Bis|Ter|Qu(?:[áa]ter|inquies|intus)|Sexies|Septies|Octies|Nonies)(?:\s+\d{1,3})?)?)",
             )?,
             separator: Regex::new(
                 r"(?ix)^(?:

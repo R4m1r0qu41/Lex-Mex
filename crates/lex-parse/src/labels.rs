@@ -10,13 +10,14 @@
 //! compound identifiers such as `2 Bis 102`, where every trailing numeric
 //! component is part of the identifier.
 
-/// Qualifier words in rank order; rank is index + 1.
-const QUALIFIERS: [&str; 9] = [
+/// Qualifier words in rank order; equivalent variants share a rank.
+const QUALIFIERS: [&str; 10] = [
     "Bis",
     "Ter",
     "Quáter",
     "Quater",
     "Quinquies",
+    "Quintus",
     "Sexies",
     "Septies",
     "Octies",
@@ -29,10 +30,10 @@ fn qualifier_rank(index: usize) -> u8 {
         0 => 1,     // Bis
         1 => 2,     // Ter
         2 | 3 => 3, // Quáter / Quater
-        4 => 4,     // Quinquies
-        5 => 5,     // Sexies
-        6 => 6,     // Septies
-        7 => 7,     // Octies
+        4 | 5 => 4, // Quinquies / Quintus
+        6 => 5,     // Sexies
+        7 => 6,     // Septies
+        8 => 7,     // Octies
         _ => 8,     // Nonies
     }
 }
@@ -546,5 +547,12 @@ mod tests {
         let compound_prefix = full("2 Bis").sort_key();
         let compound = full("2 Bis 102").sort_key();
         assert!(compound_prefix < compound);
+    }
+
+    #[test]
+    fn quintus_is_a_ranked_qualifier_after_quater() {
+        assert_eq!(full("54 Quintus").slug(), "54-quintus");
+        assert!(full("54 Quáter").sort_key() < full("54 Quintus").sort_key());
+        assert!(full("54 Quintus").sort_key() < full("55").sort_key());
     }
 }
