@@ -197,13 +197,16 @@ analysis, not missing federal sanitary text.
 - [x] (2026-07-25) Completed AD1 by landing two fixture-backed parser fixes at
   `74fb04e98` and committing the inspected, frozen, zero-error `lgbn` corpus
   at `736146bd8`.
-- [ ] Extend the standards compiler only as needed to publish committed
+- [x] (2026-07-26) Extended the standards compiler only as needed to publish committed
   standards records and expose them through the consumer CLI and deterministic
-  bundle boundary.
-- [ ] Ingest and individually inspect the five authorized NOMs in this order:
-  NOM-251, NOM-247, NOM-051, NOM-002-STPS, NOM-187.
-- [ ] Return a five-NOM locked bundle and candidate-only consumer evidence to
-  Maximasa, then run its validation/tests without promoting applicability.
+  bundle boundary at `0c880735c`, with follow-up trusted-boundary and parser
+  corrections committed before dependent standards.
+- [x] (2026-07-26) Ingested and individually inspected the five authorized
+  NOMs in order: NOM-251 (`0b49379e8`), NOM-247 (`4084597f5`), NOM-051
+  (`a44f8aa94`), NOM-002-STPS (`e6e396625`), and NOM-187 (`a8d54e340`).
+- [x] (2026-07-26) Returned the five-NOM, 20-file bundle lock and
+  candidate-only evidence to Maximasa at `0761ee1`; its five tests pass
+  without promoting applicability.
 
 ## Decisions and discoveries
 
@@ -344,16 +347,19 @@ defect, and ingested instrument. Stop on:
 
 ## Next action
 
-Extend the standards compiler only as needed to publish committed
-standards-specific records through the consumer CLI and deterministic bundle
-boundary. Then acquire and compile the five authorized NOMs in their recorded
-order, beginning with NOM-251-SSA1-2009.
+Resume the independent federal cluster-2 sequence at AD2 by normalizing its
+prepared inventory and provisionally ingesting `lspm`. For the Maximasa
+standards slice, incorporate the two missing NOM-247 modifications and the
+2020 NOM-051 modification before any current-obligation extraction.
 
 ## Outcomes and retrospective
 
-The full Maximasa return sequence is complete through Lex-Mex `83fa5d981` and
-Maximasa `01c4dc2`. The real consumer work closed the RCSPS source gap, exposed
-and fixed parser/search defects, proved the selected-corpus portability
-contract, and established a standards-specific compiler without claiming that
-any NOM/NMX is already ingested or current. Remaining work is explicitly
-human/fact gated or belongs to the independent cluster-2 ingestion plan.
+The full Maximasa return and five-standard sequence is complete through
+Lex-Mex `a8d54e340` and Maximasa `0761ee1`. The real consumer work closed the
+RCSPS source gap, exposed and fixed parser/search defects, proved both
+selected-corpus portability contracts, and published five standards without
+inferring legal applicability. NOM-187 and the other zero-warning standards
+are canonical candidate sources; NOM-247 and NOM-051 retain explicit
+unconsolidated-modification guards. Remaining work is human/fact gated, the
+targeted source-completion work for those two standards, or the independent
+cluster-2 ingestion plan.

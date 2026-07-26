@@ -1,10 +1,10 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-07-18
+- **Status date:** 2026-07-26
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 149
-- **Active ingestion batch:** `administration_ad1_planning_paraestatals`
-- **Next checkpoint:** `lgbn`
+- **Committed instruments:** 156 (151 federal corpus instruments plus 5 NOMs)
+- **Active ingestion batch:** `administration_ad2_public_service_mobility`
+- **Next checkpoint:** `lspm`
 - **Current legal reviewer:** JRH
 
 ## Current state
@@ -23,18 +23,21 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 149 |
-| Articles | 32,805 |
-| Original transitory provisions | 1,219 |
-| Annexes | 28 |
-| Reference edges | 16,904 |
+| Instruments | 156 |
+| Articles | 33,231 |
+| Original transitory provisions | 1,240 |
+| Annexes | 29 |
+| Standard clauses | 1,167 |
+| Reference edges | 17,173 |
 | Unresolved reference edges | 0 |
-| Generated Markdown files | 34,201 |
+| Generated Markdown files | 34,651 |
 
-All 149 `validation.json` reports are valid. They contain 187 non-blocking
-warnings: 162 suffixed-article ordering notices, 16 unfrozen count baselines,
-7 article-gap notices, and 2 suffix-order notices. Validity does not imply
-that temporal analysis or legal review has been performed.
+All 156 `validation.json` reports are valid. They contain 194 non-blocking
+warnings: 166 non-numeric/suffixed-article notices, 16 unfrozen count
+baselines, 7 article-gap notices, 2 suffix-order notices, and 3 warnings for
+official standard modifications not incorporated in the retained source
+text. Validity does not imply that temporal analysis or legal review has been
+performed.
 
 ## Federal structural first pass
 
@@ -57,6 +60,14 @@ The remaining prepared cluster-2 workload is 301 instruments. `egdf`,
 `lif-2026`, and `pef-2026` remain explicit
 deferrals pending reviewer direction; they are not silently treated as
 complete.
+
+The separate Maximasa standards sequence added NOM-251-SSA1-2009,
+NOM-247-SSA1-2008, NOM-051-SCFI-SSA1-2010, NOM-002-STPS-2010, and
+NOM-187-SSA1-SCFI-2002. NOM-247 carries two
+`standard_unconsolidated_modification` warnings and NOM-051 carries one;
+their retained clause text must not be used as current obligations until
+those modifications are incorporated. NOM-187's 2023 record is a systematic
+review with result `Modificación`, not a succession event.
 
 The active plan is
 [`cluster-2-federal-corpus-ingestion.md`](plans/cluster-2-federal-corpus-ingestion.md).
