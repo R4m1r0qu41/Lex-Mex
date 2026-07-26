@@ -11,11 +11,12 @@ use chrono::{NaiveDate, Utc};
 use clap::{Parser, Subcommand, ValueEnum};
 use lex_core::{
     Corpus, Instrument, InstrumentStatus, InstrumentType, ProvisionType, ReferenceResolutionStatus,
-    ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest,
-    TemporalAnalysisMetadata, TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence,
-    TemporalModelBatch, TemporalReviewResolution, TemporalStatus, TransitoryEffect,
-    apply_temporal_determinations, open_temporal_review, preserve_temporal_review_history,
-    reapply_temporal_determinations, resolve_temporal_review, route_temporal_analysis,
+    ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest, StandardKind,
+    StandardMetadata, StandardStatus, TemporalAnalysisMetadata, TemporalAnalysisRequest,
+    TemporalAnalysisResult, TemporalEvidence, TemporalModelBatch, TemporalReviewResolution,
+    TemporalStatus, TransitoryEffect, apply_temporal_determinations, open_temporal_review,
+    preserve_temporal_review_history, reapply_temporal_determinations, resolve_temporal_review,
+    route_temporal_analysis,
 };
 use lex_export::{
     LinkTargets, TermTargets, link_targets, term_targets, write_canonical, write_markdown,
@@ -191,7 +192,9 @@ enum ExportFormat {
 enum CorpusPathKind {
     Corpus,
     Instrument,
+    Standard,
     Provisions,
+    Clauses,
     References,
     Markdown,
 }
@@ -299,7 +302,7 @@ fn main() -> Result<()> {
             run_consumer_command(&root, command)?;
         }
         Command::Bundle { command } => bundle::run_bundle_command(&root, command)?,
-        Command::Standards { command } => standards::run_standards_command(command)?,
+        Command::Standards { command } => standards::run_standards_command(&root, command)?,
         Command::Discover { source } => run_discover(&root, &source)?,
         Command::Fetch { instrument } => {
             let context = instrument_context(&root, &instrument)?;
@@ -417,8 +420,8 @@ struct InstrumentIndexEntry {
     id: String,
     short_name: String,
     official_title: String,
-    instrument_type: InstrumentType,
-    status: InstrumentStatus,
+    instrument_type: String,
+    status: String,
     publication_date: NaiveDate,
     latest_reform_date: Option<NaiveDate>,
     path: PathBuf,
@@ -436,7 +439,9 @@ fn committed_instrument_index(root: &Path) -> Result<Vec<InstrumentIndexEntry>> 
         .collect::<Result<Vec<_>, _>>()?
         .into_iter()
         .map(|entry| entry.path())
-        .filter(|path| path.join("instrument.json").is_file())
+        .filter(|path| {
+            path.join("instrument.json").is_file() || path.join("standard.json").is_file()
+        })
         .collect();
     directories.sort();
 
@@ -448,20 +453,72 @@ fn committed_instrument_index(root: &Path) -> Result<Vec<InstrumentIndexEntry>> 
                 .and_then(|name| name.to_str())
                 .context("corpus directory name is not valid UTF-8")?
                 .to_owned();
-            let instrument: Instrument = read_json(&path.join("instrument.json"))?;
-            Ok(InstrumentIndexEntry {
-                slug,
-                id: instrument.id,
-                short_name: instrument.short_name,
-                official_title: instrument.official_title,
-                instrument_type: instrument.instrument_type,
-                status: instrument.status,
-                publication_date: instrument.publication_date,
-                latest_reform_date: instrument.latest_reform_date,
-                path,
-            })
+            if path.join("instrument.json").is_file() {
+                let instrument: Instrument = read_json(&path.join("instrument.json"))?;
+                Ok(InstrumentIndexEntry {
+                    slug,
+                    id: instrument.id,
+                    short_name: instrument.short_name,
+                    official_title: instrument.official_title,
+                    instrument_type: instrument_type_name(&instrument.instrument_type).to_owned(),
+                    status: instrument_status_name(&instrument.status).to_owned(),
+                    publication_date: instrument.publication_date,
+                    latest_reform_date: instrument.latest_reform_date,
+                    path,
+                })
+            } else {
+                let standard: StandardMetadata = read_json(&path.join("standard.json"))?;
+                Ok(InstrumentIndexEntry {
+                    slug,
+                    id: standard.id,
+                    short_name: standard.designation,
+                    official_title: standard.official_title,
+                    instrument_type: standard_kind_name(&standard.kind).to_owned(),
+                    status: standard_status_name(&standard.status).to_owned(),
+                    publication_date: standard.publication_date,
+                    latest_reform_date: None,
+                    path,
+                })
+            }
         })
         .collect()
+}
+
+fn instrument_type_name(value: &InstrumentType) -> &'static str {
+    match value {
+        InstrumentType::Constitution => "constitution",
+        InstrumentType::Code => "code",
+        InstrumentType::Statute => "statute",
+        InstrumentType::Regulation => "regulation",
+        InstrumentType::Guideline => "guideline",
+        InstrumentType::Circular => "circular",
+        InstrumentType::Other => "other",
+    }
+}
+
+fn instrument_status_name(value: &InstrumentStatus) -> &'static str {
+    match value {
+        InstrumentStatus::InForce => "in_force",
+        InstrumentStatus::PartiallyEffective => "partially_effective",
+        InstrumentStatus::Repealed => "repealed",
+        InstrumentStatus::Unknown => "unknown",
+    }
+}
+
+fn standard_kind_name(value: &StandardKind) -> &'static str {
+    match value {
+        StandardKind::Nom => "nom",
+        StandardKind::Nmx => "nmx",
+    }
+}
+
+fn standard_status_name(value: &StandardStatus) -> &'static str {
+    match value {
+        StandardStatus::Current => "current",
+        StandardStatus::Cancelled => "cancelled",
+        StandardStatus::Replaced => "replaced",
+        StandardStatus::Unknown => "unknown",
+    }
 }
 
 fn run_instruments(root: &Path, json: bool) -> Result<()> {
@@ -490,7 +547,7 @@ fn committed_instrument_path(root: &Path, slug: &str) -> Result<PathBuf> {
         bail!("instrument slug must be one path component, got {slug:?}");
     }
     let path = root.join("corpus/mx").join(slug);
-    if !path.join("instrument.json").is_file() {
+    if !path.join("instrument.json").is_file() && !path.join("standard.json").is_file() {
         bail!("no committed corpus found for instrument {slug:?}");
     }
     Ok(path)
@@ -523,7 +580,9 @@ fn run_path(root: &Path, instrument: Option<&str>, kind: CorpusPathKind) -> Resu
     let path = match kind {
         CorpusPathKind::Corpus => corpus,
         CorpusPathKind::Instrument => corpus.join("instrument.json"),
+        CorpusPathKind::Standard => corpus.join("standard.json"),
         CorpusPathKind::Provisions => corpus.join("provisions.json"),
+        CorpusPathKind::Clauses => corpus.join("clauses.json"),
         CorpusPathKind::References => corpus.join("references.json"),
         CorpusPathKind::Markdown => corpus.join("markdown"),
     };
@@ -2702,6 +2761,14 @@ mod tests {
         write_canonical(&first, &root.join("corpus/mx/first")).unwrap();
         write_canonical(&second, &root.join("corpus/mx/second")).unwrap();
         fs::create_dir_all(root.join("corpus/mx/incomplete")).unwrap();
+        let standard = root.join("corpus/mx/nom-999-test-2026");
+        fs::create_dir_all(&standard).unwrap();
+        fs::copy(
+            std::path::Path::new(env!("CARGO_MANIFEST_DIR"))
+                .join("../../fixtures/standards/numbered-standard-metadata.json"),
+            standard.join("standard.json"),
+        )
+        .unwrap();
 
         let index = committed_instrument_index(root).unwrap();
         assert_eq!(
@@ -2709,11 +2776,14 @@ mod tests {
                 .iter()
                 .map(|entry| entry.slug.as_str())
                 .collect::<Vec<_>>(),
-            vec!["first", "second"]
+            vec!["first", "nom-999-test-2026", "second"]
         );
 
         let selected = selected_corpus_paths(root, &["second".to_owned()]).unwrap();
         assert_eq!(selected, vec![root.join("corpus/mx/second")]);
+        let selected_standard =
+            selected_corpus_paths(root, &["nom-999-test-2026".to_owned()]).unwrap();
+        assert_eq!(selected_standard, vec![standard]);
         assert!(selected_corpus_paths(root, &["missing".to_owned()]).is_err());
         assert!(selected_corpus_paths(root, &["../second".to_owned()]).is_err());
     }

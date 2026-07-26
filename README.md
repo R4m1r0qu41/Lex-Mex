@@ -199,6 +199,8 @@ lex-mex instruments
 lex-mex instruments --json
 lex-mex search "juicio político" --instrument lfrsp
 lex-mex search "artículo 110" --instrument lfrsp,cpeum -- --ignore-case
+lex-mex path nom-251-ssa1-2009 --kind clauses
+lex-mex search "prácticas de higiene" --instrument nom-251-ssa1-2009
 ```
 
 `search` delegates to ripgrep. It searches canonical JSON by default so
@@ -233,6 +235,11 @@ path. `bundle-manifest.json` records the canonical schema version, source and
 extracted-text hashes, validation and per-file SHA-256 digests, Git commit and
 commit time, and resolved cross-instrument targets omitted from the selection.
 Use `--profile canonical` when generated Markdown is not needed.
+
+NOM/NMX records keep their standards-specific metadata and numbered clauses
+instead of being relabeled as statutes. `instruments`, `path`, `search`, and
+canonical bundles expose both record families while preserving that boundary;
+see `docs/standards-module.md`.
 
 ## Federal-corpus ingestion loop
 

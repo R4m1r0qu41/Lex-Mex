@@ -15,6 +15,9 @@ A compiled standard directory contains:
   registry locators, hashes, and separate legal/technical review states;
 - `clauses.json`: dot-numbered clauses with exact character spans into the
   unchanged extracted source text;
+- `extracted-text.txt`: the exact UTF-8 text used to compile and revalidate
+  clause spans, retained so committed standards do not depend on an untracked
+  work file;
 - `validation.json`: deterministic identity, lifecycle, clause order,
   uniqueness, and source-span checks.
 
@@ -44,6 +47,20 @@ inspection and exits unsuccessfully. This makes the output useful for a
 provisional-inspect-freeze ingestion sequence without representing the first
 machine parse as a reviewed legal or technical conclusion.
 
+After provisional inspection, compile the unchanged inputs into
+`corpus/mx/<standard-slug>/`. A committed standard remains distinct from a
+statute: its directory contains `standard.json` and `clauses.json`, never a
+synthetic `instrument.json` or `provisions.json`. Revalidate it with:
+
+```bash
+lex-mex standards validate nom-251-ssa1-2009
+```
+
+Committed standards are returned by `lex-mex instruments`, accepted by
+`lex-mex path` and `lex-mex search`, and supported by the canonical bundle
+profile. Use `--kind standard` or `--kind clauses` when requesting a specific
+standards path.
+
 ## Deliberate limits
 
 - No Maximasa NOM/NMX register entry is promoted merely because its
@@ -54,5 +71,5 @@ machine parse as a reviewed legal or technical conclusion.
 - Conformity-assessment text is a source fact, not a statement that a
   particular establishment must undergo it.
 - Joint NOM prefixes and multiple issuing authorities remain explicit.
-- The module does not yet publish standards into `corpus/mx/`; that step
-  follows a real official-source ingestion and representative output review.
+- Compilation does not infer applicability, legal approval, technical
+  approval, or conformity-assessment duties from publication into the corpus.

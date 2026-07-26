@@ -7,7 +7,9 @@ use std::{
 
 use anyhow::{Context, Result, bail};
 use clap::{Subcommand, ValueEnum};
-use lex_core::{Instrument, ReferenceEdge, ReferenceResolutionStatus, SCHEMA_VERSION};
+use lex_core::{
+    Instrument, ReferenceEdge, ReferenceResolutionStatus, SCHEMA_VERSION, StandardMetadata,
+};
 use lex_source::sha256_hex;
 use serde::Serialize;
 
@@ -25,6 +27,12 @@ const CANONICAL_FILES: &[&str] = &[
     "temporal-analysis-result.json",
     "review-queue.json",
     "reform-temporal-evidence.json",
+    "validation.json",
+];
+const STANDARD_CANONICAL_FILES: &[&str] = &[
+    "standard.json",
+    "clauses.json",
+    "extracted-text.txt",
     "validation.json",
 ];
 
@@ -200,9 +208,14 @@ fn selected_instrument_ids(root: &Path, slugs: &[String]) -> Result<HashSet<Stri
     slugs
         .iter()
         .map(|slug| {
-            let instrument: Instrument =
-                read_json(&root.join("corpus/mx").join(slug).join("instrument.json"))?;
-            Ok(instrument.id)
+            let directory = root.join("corpus/mx").join(slug);
+            if directory.join("instrument.json").is_file() {
+                let instrument: Instrument = read_json(&directory.join("instrument.json"))?;
+                Ok(instrument.id)
+            } else {
+                let standard: StandardMetadata = read_json(&directory.join("standard.json"))?;
+                Ok(standard.id)
+            }
         })
         .collect()
 }
@@ -214,6 +227,9 @@ fn collect_instrument(
     selected_ids: &HashSet<String>,
 ) -> Result<SelectedInstrument> {
     let source_dir = root.join("corpus/mx").join(slug);
+    if source_dir.join("standard.json").is_file() {
+        return collect_standard(source_dir, slug, profile);
+    }
     if !source_dir.join("instrument.json").is_file() {
         bail!("no committed corpus found for instrument {slug:?}");
     }
@@ -287,6 +303,63 @@ fn collect_instrument(
             files,
         },
         external_targets,
+    })
+}
+
+fn collect_standard(
+    source_dir: PathBuf,
+    slug: &str,
+    profile: BundleProfile,
+) -> Result<SelectedInstrument> {
+    if profile == BundleProfile::CanonicalMarkdown {
+        bail!("standard {slug} has no generated Markdown profile");
+    }
+    let standard: StandardMetadata = read_json(&source_dir.join("standard.json"))?;
+    let validation_path = source_dir.join("validation.json");
+    let validation: serde_json::Value = read_json(&validation_path)?;
+    if validation.get("valid").and_then(serde_json::Value::as_bool) != Some(true) {
+        bail!("standard {slug} does not have a passing validation.json");
+    }
+    let relative_files = STANDARD_CANONICAL_FILES
+        .iter()
+        .map(PathBuf::from)
+        .collect::<Vec<_>>();
+    for required in &relative_files {
+        if !source_dir.join(required).is_file() {
+            bail!(
+                "standard {slug} is missing required bundle file {}",
+                required.display()
+            );
+        }
+    }
+    let files = relative_files
+        .iter()
+        .map(|relative| {
+            let bytes = fs::read(source_dir.join(relative))?;
+            Ok(BundleFile {
+                path: Path::new("instruments")
+                    .join(slug)
+                    .join(relative)
+                    .to_string_lossy()
+                    .into_owned(),
+                sha256: sha256_hex(&bytes),
+                bytes: u64::try_from(bytes.len()).context("bundle file is too large")?,
+            })
+        })
+        .collect::<Result<Vec<_>>>()?;
+    let validation_sha256 = sha256_hex(&fs::read(validation_path)?);
+
+    Ok(SelectedInstrument {
+        source_dir,
+        manifest: BundleInstrument {
+            slug: slug.to_owned(),
+            id: standard.id,
+            source_sha256: standard.source_sha256,
+            extracted_text_sha256: standard.extracted_text_sha256,
+            validation_sha256,
+            files,
+        },
+        external_targets: BTreeSet::new(),
     })
 }
 
@@ -365,7 +438,8 @@ mod tests {
     use chrono::{NaiveDate, Utc};
     use lex_core::{
         Corpus, HeadingContext, Instrument, InstrumentStatus, InstrumentType, Provision,
-        ProvisionType, ReviewStatus, SCHEMA_VERSION, TemporalStatus,
+        ProvisionType, ReviewStatus, SCHEMA_VERSION, StandardKind, StandardMetadata,
+        StandardStatus, StandardValidationReport, TechnicalReviewStatus, TemporalStatus,
     };
     use lex_export::{write_canonical, write_validation};
     use url::Url;
@@ -404,6 +478,39 @@ mod tests {
                 "2026-07-25T12:00:00-06:00",
             )
             .is_err()
+        );
+    }
+
+    #[test]
+    fn selected_bundle_includes_standard_specific_canonical_files() {
+        let temporary = tempfile::tempdir().unwrap();
+        let root = temporary.path();
+        write_standard_fixture(root, "nom-999-test-2026");
+        let output = root.join("standard-out");
+
+        let manifest = create_bundle(
+            root,
+            &["nom-999-test-2026".to_owned()],
+            BundleProfile::Canonical,
+            &output,
+            "abc123",
+            "2026-07-25T12:00:00-06:00",
+        )
+        .unwrap();
+
+        assert_eq!(
+            manifest.instruments[0].id,
+            "urn:lex-mx:federal:nom:nom-999-test-2026"
+        );
+        assert!(
+            output
+                .join("instruments/nom-999-test-2026/standard.json")
+                .is_file()
+        );
+        assert!(
+            output
+                .join("instruments/nom-999-test-2026/extracted-text.txt")
+                .is_file()
         );
     }
 
@@ -480,5 +587,58 @@ mod tests {
         )
         .unwrap();
         fs::write(directory.join("source-manifest.json"), "{}\n").unwrap();
+    }
+
+    fn write_standard_fixture(root: &Path, slug: &str) {
+        let id = format!("urn:lex-mx:federal:nom:{slug}");
+        let directory = root.join("corpus/mx").join(slug);
+        fs::create_dir_all(&directory).unwrap();
+        let metadata = StandardMetadata {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: id.clone(),
+            kind: StandardKind::Nom,
+            designation: "NOM-999-TEST-2026".to_owned(),
+            official_title: "Norma de prueba".to_owned(),
+            issuing_authorities: vec!["Secretaría de Prueba".to_owned()],
+            regulatory_domains: vec!["fixture".to_owned()],
+            publication_date: NaiveDate::from_ymd_opt(2026, 7, 25).unwrap(),
+            effective_date: None,
+            cancellation_date: None,
+            status: StandardStatus::Current,
+            replaces: Vec::new(),
+            replaced_by: Vec::new(),
+            joint_prefixes: Vec::new(),
+            objective: None,
+            scope: None,
+            conformity_assessment: None,
+            official_dof_url: Url::parse("https://example.test/dof").unwrap(),
+            official_registry_url: Some(Url::parse("https://example.test/registry").unwrap()),
+            publisher: "Fixture".to_owned(),
+            retrieved_at: Utc::now(),
+            source_sha256: "a".repeat(64),
+            extracted_text_sha256: "b".repeat(64),
+            parser_version: "0.1.0".to_owned(),
+            legal_review_status: ReviewStatus::NotAnalyzed,
+            technical_review_status: TechnicalReviewStatus::NotAnalyzed,
+        };
+        let report = StandardValidationReport {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            standard_id: id,
+            valid: true,
+            clause_count: 0,
+            issues: Vec::new(),
+        };
+        fs::write(
+            directory.join("standard.json"),
+            serde_json::to_vec_pretty(&metadata).unwrap(),
+        )
+        .unwrap();
+        fs::write(directory.join("clauses.json"), "[]\n").unwrap();
+        fs::write(directory.join("extracted-text.txt"), "fixture\n").unwrap();
+        fs::write(
+            directory.join("validation.json"),
+            serde_json::to_vec_pretty(&report).unwrap(),
+        )
+        .unwrap();
     }
 }
