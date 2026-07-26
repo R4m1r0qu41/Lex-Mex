@@ -40,22 +40,21 @@ that temporal analysis or legal review has been performed.
 
 The source inventory defines a 454-instrument Cámara universe (laws and
 regulations, excluding DCGs). The pre-cluster corpus held 128 instruments;
-CN1 and CN2 added 16 and are structurally closed. AD1 has now added `lplan`,
-`lfep`, `reg-lfep`, `lfrpe`, and `lfrsp`; the current corpus therefore contains
-149 of the 454 instruments.
+CN1 and CN2 added 16 and are structurally closed. AD1 has now added all six
+instruments through `lgbn`. Together with the separate Maximasa federal-gap
+ingestion of `reg-csps`, the live corpus now contains 151 instruments.
 
 The cluster-2 first pass contains 326 instruments in 53 batches. Its state is:
 
 | State | Batches | Instruments |
 |---|---:|---:|
 | Structurally closed (CN1, CN2) | 2 | 16 |
-| Completed within active AD1 batch | 1 | 5 |
-| Admitted, remaining in AD1 | 1 | 1 |
+| Structurally complete AD1 batch | 1 | 6 |
 | Prepared, not yet admitted | 50 | 301 |
 | Explicitly blocked | 2 | 3 |
 
-The remaining active workload is 302 instruments: 201 laws, 98 regulations,
-2 codes, and 1 ordinance. `egdf`, `lif-2026`, and `pef-2026` remain explicit
+The remaining prepared cluster-2 workload is 301 instruments. `egdf`,
+`lif-2026`, and `pef-2026` remain explicit
 deferrals pending reviewer direction; they are not silently treated as
 complete.
 
@@ -107,9 +106,9 @@ record; ITF DCG transitory SÉPTIMO remains pending formal-boundary review.
 - live network/model flows remain integration-tested manually rather than in
   hermetic CI.
 
-Next: provisionally ingest `lgbn`, record any reusable deterministic learning,
-then inspect and freeze its structural baseline to complete AD1's individual
-ingestions.
+Next general cluster action: normalize AD2 and provisionally ingest `lspm`.
+The separately authorized five-NOM Maximasa sequence does not reorder that
+prepared federal batch.
 
 ## Archived divergent branches
 

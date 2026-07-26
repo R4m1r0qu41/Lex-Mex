@@ -32,8 +32,11 @@ The observable outcome is:
   source inventory and a reviewed cluster-2 batch placement before ingestion;
 - a selected-instrument bundle contract feeds Maximasa without copying the
   whole repository;
-- NOM/NMX support is specified as a separate standards-capable schema/parser
-  boundary and is not implemented by relabeling a statute or regulation.
+- NOM/NMX support remains a separate standards-capable schema/parser boundary
+  and publishes five reviewed official-source NOM compilations without
+  relabeling them as statutes or regulations;
+- Maximasa consumes and verifies the five-NOM bundle as candidates, without
+  inferring applicability or human legal/technical approval.
 
 ## Scope and exclusions
 
@@ -118,6 +121,14 @@ regulation headings in the reform appendix, preserve the 1,356-article /
 transitories under their correct 1998, 1999, and 2004 publication dates.
 The official PDF and extracted-text hashes remain unchanged.
 
+On 2026-07-25 the operator authorized the next real standards sequence after
+AD1 `lgbn`: NOM-251-SSA1-2009, NOM-247-SSA1-2008,
+NOM-051-SCFI/SSA1-2010, NOM-002-STPS-2010, and
+NOM-187-SSA1/SCFI-2002. The official Secretaría de Economía registry marks
+NOM-187 current and supplies a consolidated PDF incorporating the 2011 and
+2013 modifications. Its 2 January 2023 record is a systematic review with the
+result “Modificación,” not evidence that a successor entered into force.
+
 Primary official source discovery confirms:
 
 - current LGPC consolidated PDF:
@@ -183,6 +194,16 @@ analysis, not missing federal sanitary text.
 - [x] (2026-07-25) Returned the 20-instrument, 161-file bundle lock, exact
   query/extract/gap artifacts, and consumer validation to Maximasa at
   `01c4dc2`; the reproducible 11 MB payload remains outside that repository.
+- [x] (2026-07-25) Completed AD1 by landing two fixture-backed parser fixes at
+  `74fb04e98` and committing the inspected, frozen, zero-error `lgbn` corpus
+  at `736146bd8`.
+- [ ] Extend the standards compiler only as needed to publish committed
+  standards records and expose them through the consumer CLI and deterministic
+  bundle boundary.
+- [ ] Ingest and individually inspect the five authorized NOMs in this order:
+  NOM-251, NOM-247, NOM-051, NOM-002-STPS, NOM-187.
+- [ ] Return a five-NOM locked bundle and candidate-only consumer evidence to
+  Maximasa, then run its validation/tests without promoting applicability.
 
 ## Decisions and discoveries
 
@@ -210,6 +231,13 @@ analysis, not missing federal sanitary text.
   Rationale: the register explicitly marks those identifiers/titles
   unverified; source currency and cancellation/replacement chains are trusted
   data boundaries.
+
+- Decision: treat NOM-187-SSA1/SCFI-2002 as current for this ingestion only
+  from the official registry and its consolidated official PDF. Record the
+  2023 systematic review as lifecycle evidence, not as a succession event.
+  Rationale: the registry explicitly reports `Estado de la Norma: Vigente`,
+  supplies the consolidated text, and labels the 2023 event `Modificación`;
+  no replacement designation or effective successor is identified.
 
 - Discovery: structural validation alone did not detect an exact configured
   title split across two PDF running-header lines. The real consumer query
@@ -316,11 +344,10 @@ defect, and ingested instrument. Stop on:
 
 ## Next action
 
-JRH reviews the returned Maximasa candidate package while the operator supplies
-the missing permits, workforce, wastewater, waste, and emissions facts. Select
-one officially current NOM for the first provisional standards real-path
-exercise. Independently, the general federal ingestion sequence remains at
-AD1 `lgbn`; this client-specific sequence did not advance or reorder it.
+Extend the standards compiler only as needed to publish committed
+standards-specific records through the consumer CLI and deterministic bundle
+boundary. Then acquire and compile the five authorized NOMs in their recorded
+order, beginning with NOM-251-SSA1-2009.
 
 ## Outcomes and retrospective
 

@@ -57,14 +57,14 @@ in `Current checkpoint` and `Progress`, not in this list.
 
 ## Current checkpoint
 
-Verified against local `main` at `e96019b43` (37 commits ahead of remote
-`main` at `47004f56`):
+Verified against local `main` at `736146bd8`:
 
 - CN1 (`locg`, `reg-diputados`, `reg-senado`, `rgic`, `ldofgg`) and CN2 (10
   instruments) are committed and structurally closed; the CN2 reverse-link,
   validation, and Markdown pass closed at `34449eb6`.
-- The active AD1 batch has committed `lplan`, `lfep`, `reg-lfep`, `lfrpe`, and
-  `lfrsp`; only `lgbn` remains.
+- AD1 has committed all six instruments: `lplan`, `lfep`, `reg-lfep`,
+  `lfrpe`, `lfrsp`, and `lgbn`. Its individual-ingestion checkpoint is
+  complete; the next prepared general batch is AD2, beginning with `lspm`.
 - Per-instrument counts, source and extracted-text hashes, and validation
   state are owned by each instrument's `corpus/mx/<slug>/validation.json` and
   `source-manifest.json` and are not restated here. The dated `Progress` log
@@ -83,11 +83,10 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-The operator accepted the bounded closure on 2026-07-16. Provisionally process
-final AD1 statute `lgbn` through the Rust pipeline, inspect and freeze its
-structural baseline, and record any reusable deterministic parser, linker, or
-adapter learning before closing AD1. Corpus-wide relinking and human
-expected-edge review remain separate work.
+When general cluster-2 ingestion resumes, normalize prepared AD2 into an
+operational manifest and provisionally process its first instrument, `lspm`.
+The separately authorized five-NOM Maximasa sequence does not reorder AD2.
+Corpus-wide relinking and human expected-edge review remain separate work.
 
 ## Progress
 
@@ -124,6 +123,17 @@ expected-edge review remain separate work.
 - [x] (2026-07-18) Operator review of the lfrpe checkpoint found Article 35 contaminated with dot-redacted enactment-decree articles (`ARTÍCULO SEGUNDO.- .........`). The shared parser now recognizes an ordinal-word decree article whose body is only redaction dots as non-content decree apparatus, with fixture `fixtures/diputados/dot-redacted-decree-article-sample.txt`; the frozen rerun changed only Article 35's canonical text and Markdown, preserving both hashes and all counts. Adapter hygiene from the same review: scaffold now defaults `allow_article_gaps` to `false`, freeze writes only `expected_articles`, the validator treats an exact-only article baseline as frozen, and lfrpe's adapter drops gap tolerance and the redundant minimum. Documentation deduplication: this plan's checkpoint section defers per-instrument facts to `validation.json`/`source-manifest.json` and this log; AGENTS.md session-lifecycle rules point to Agent Vault canon, and the provider rule distinguishes within-provider routing from operator-started cross-provider switches; the project-status warning census is restored to the reproducible 187 (162/16/7/2). Full workspace gates and both audited baseline validators passed.
 - [x] (2026-07-18) Wired Codex capsule discovery at `9629c187e`: trusted projects now load `.codex/hooks.json` for `SessionStart` startup/resume/clear/compact events, while AGENTS.md names the Claude and Codex hook surfaces without assigning provider-specific configuration to the other harness. Added a direct scaffold/freeze regression proving new adapters default to strict article ordering and freeze an exact-only baseline; refreshed the project-status date. The full gate passed with 95 workspace tests and both audited baseline validators.
 - [x] (2026-07-18) Ingested and committed `lfrsp` at `e96019b43`: 94 articles (`1o` through `93`, including `77 Bis`), 4 original transitories, 17 resolved references, no terms, 62 uniquely keyed reform-transitory evidence records, stable source hashes, and zero validation issues. The provisional strict-order failure required a reviewed `allow_article_gaps` opt-in for the official `1o`-style and suffixed labels. An exact 1982 signature-date stop marker excludes the legislative and promulgation signatures from original Transitory CUARTO and removes their spurious CPEUM Article 89 edge. All 98 provisions remain `not_analyzed`; only 50 express source-text repeal notes begin `repealed`. The frozen rerun, link, validation, Markdown export, full 95-test gate, and audited baseline validators passed.
+- [x] (2026-07-25) Completed AD1 by ingesting and committing `lgbn` at
+  `736146bd8`: 158 articles, 16 original transitories, 84 references, no
+  terms, 58 reform-transitory evidence records, stable source hashes, and
+  zero validation errors. The provisional pass exposed a wrapped decree title
+  beginning `Artículo 5o.` before its publication line and the official
+  `Artículo 54 Quintus`; shared fixture-backed fixes landed at `74fb04e98`.
+  An LGBN-scoped 2004 signature stop marker removed promulgation furniture and
+  two spurious references. The frozen rerun, bounded closure, 105-test
+  workspace gate, audited validators, and affected-instrument validation
+  passed; the four remaining notices are reviewed suffix-order warnings for
+  Articles 54 Bis, Ter, Quáter, and Quintus.
 - [x] (2026-07-25) Executed the operator-approved Maximasa coverage
   amendment without advancing or reordering general AD1. The new
   `maximasa_federal_gap_1` batch ingested `reg-csps` from the official Cámara
@@ -564,9 +574,9 @@ instrument-scoped source boundaries and aliases while preserving stable
 evidence IDs and canonical source text.
 Historical enactment-signature cleanup and corpus-wide relinking remain
 explicitly separate work; `archive/fable-cross-linking` preserves the divergent
-history for bounded reapplication rather than a future merge. AD1 has five of
-six instruments committed through `lfrsp`; `lgbn` is next, and corpus-wide
-closure remains deferred until the broader cluster target set is admitted.
+history for bounded reapplication rather than a future merge. AD1 is complete
+through `lgbn`; AD2 begins with `lspm`, and corpus-wide closure remains
+deferred until the broader cluster target set is admitted.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 
