@@ -1,0 +1,2662 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "1",
+    "label": "1. Objetivo y campo de aplicación",
+    "text": "1. Objetivo y campo de aplicación\n\f      (Primera Sección)                        DIARIO OFICIAL                      Lunes 1 de marzo de 2010",
+    "start_char": 5576,
+    "end_char": 5718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "1.1",
+    "label": "1.1 Esta Norma Oficial Mexicana establece los requisitos mínimos de buenas prácticas de higiene que",
+    "text": "1.1 Esta Norma Oficial Mexicana establece los requisitos mínimos de buenas prácticas de higiene que\ndeben observarse en el proceso de alimentos, bebidas o suplementos alimenticios y sus materias primas a fin\nde evitar su contaminación a lo largo de su proceso.",
+    "start_char": 5723,
+    "end_char": 5983
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "1.2",
+    "label": "1.2 Esta Norma Oficial Mexicana es de observancia obligatoria para las personas físicas o morales que se",
+    "text": "1.2 Esta Norma Oficial Mexicana es de observancia obligatoria para las personas físicas o morales que se\ndedican al proceso de alimentos, bebidas o suplementos alimenticios, destinados a los consumidores en\nterritorio nacional.",
+    "start_char": 5988,
+    "end_char": 6215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "2",
+    "label": "2. Referencias",
+    "text": "2. Referencias\n   Esta Norma se complementa con la siguiente norma oficial mexicana o la que la sustituya:\n   Modificación a la NOM-127-SSA1-1994, Salud ambiental. Agua para uso y consumo humano. Límites\npermisibles de calidad y tratamientos a que debe someterse el agua para su potabilización.",
+    "start_char": 6219,
+    "end_char": 6513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3",
+    "label": "3. Definiciones",
+    "text": "3. Definiciones",
+    "start_char": 6517,
+    "end_char": 6532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.1",
+    "label": "3.1 Agua para uso y consumo humano (agua potable), agua que no contiene contaminantes objetables,",
+    "text": "3.1 Agua para uso y consumo humano (agua potable), agua que no contiene contaminantes objetables,\nquímicos o agentes infecciosos y que no causa efectos nocivos para la salud.",
+    "start_char": 6536,
+    "end_char": 6710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.2",
+    "label": "3.2 Alimentos preparados, los que se someten a un procedimiento mecánico como picado, mezclado,",
+    "text": "3.2 Alimentos preparados, los que se someten a un procedimiento mecánico como picado, mezclado,\nentre otros; físico-químico como calor húmedo o seco, de fritura, enfriamiento o congelación para su consumo.",
+    "start_char": 6715,
+    "end_char": 6920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.3",
+    "label": "3.3 Almacén o Bodega, sitio específico en donde se guarda, reúne o almacena mercancía, material de",
+    "text": "3.3 Almacén o Bodega, sitio específico en donde se guarda, reúne o almacena mercancía, material de\nenvase, empaque, materia prima, producto en proceso o terminado, para su conservación, custodia, futuro\nprocesamiento, suministro o venta.",
+    "start_char": 6924,
+    "end_char": 7161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.4",
+    "label": "3.4 Area de producción o elaboración, sitio en donde se realizan las operaciones para la transformación",
+    "text": "3.4 Area de producción o elaboración, sitio en donde se realizan las operaciones para la transformación\nde materias primas e insumos para la obtención de los productos a que se refiere la presente Norma.",
+    "start_char": 7165,
+    "end_char": 7368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.5",
+    "label": "3.5 Basura, cualquier material cuya calidad o características no permiten incluirle nuevamente en el",
+    "text": "3.5 Basura, cualquier material cuya calidad o características no permiten incluirle nuevamente en el\nproceso que la genera ni en cualquier otro, dentro del procesamiento de alimentos.",
+    "start_char": 7372,
+    "end_char": 7555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.6",
+    "label": "3.6 Conservación, acción de mantener un producto alimenticio en buen estado, guardándolo",
+    "text": "3.6 Conservación, acción de mantener un producto alimenticio en buen estado, guardándolo\ncuidadosamente, para que no pierda sus características a través del tiempo.",
+    "start_char": 7560,
+    "end_char": 7724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.7",
+    "label": "3.7 Contaminación, presencia de materia extraña, sustancias tóxicas o microorganismos, en cantidades",
+    "text": "3.7 Contaminación, presencia de materia extraña, sustancias tóxicas o microorganismos, en cantidades\nque rebasen los límites permisibles establecidos por la Secretaría de Salud o en cantidades tales que\nrepresenten un riesgo a la salud.",
+    "start_char": 7728,
+    "end_char": 7964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.8",
+    "label": "3.8 Contaminación cruzada, es la contaminación que se produce por la presencia de materia extraña,",
+    "text": "3.8 Contaminación cruzada, es la contaminación que se produce por la presencia de materia extraña,\nsustancias tóxicas o microorganismos procedentes de una etapa, un proceso o un producto diferente.",
+    "start_char": 7968,
+    "end_char": 8165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.9",
+    "label": "3.9 Corrosión, deterioro que sufre la hoja de lata, los envases o utensilios metálicos, como resultados del",
+    "text": "3.9 Corrosión, deterioro que sufre la hoja de lata, los envases o utensilios metálicos, como resultados del\ndiferencial de potencial de intercambio eléctrico producido por el sistema metal-producto-medio ambiente.",
+    "start_char": 8170,
+    "end_char": 8383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.10",
+    "label": "3.10 Desinfección, la reducción del número de microorganismos presentes, por medio de agentes",
+    "text": "3.10 Desinfección, la reducción del número de microorganismos presentes, por medio de agentes\nquímicos y/o métodos físicos, a un nivel que no comprometa la inocuidad o la aptitud del alimento, bebida o\nsuplemento alimenticio.",
+    "start_char": 8387,
+    "end_char": 8612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.11",
+    "label": "3.11 Desperdicio de alimento o bebida, alimento o bebida que fue servido en el plato o vaso del",
+    "text": "3.11 Desperdicio de alimento o bebida, alimento o bebida que fue servido en el plato o vaso del\ncomensal y que no fue consumido.",
+    "start_char": 8616,
+    "end_char": 8744
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.12",
+    "label": "3.12 Diagrama de flujo, representación secuencial de las fases u operaciones llevadas a cabo en la",
+    "text": "3.12 Diagrama de flujo, representación secuencial de las fases u operaciones llevadas a cabo en la\nproducción o elaboración de un determinado producto.",
+    "start_char": 8748,
+    "end_char": 8899
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.13",
+    "label": "3.13 Detergente, mezcla de sustancias de origen sintético, cuya función es abatir la tensión superficial del",
+    "text": "3.13 Detergente, mezcla de sustancias de origen sintético, cuya función es abatir la tensión superficial del\nagua, ejerciendo una acción humectante, emulsificante y dispersante, facilitando la eliminación de mugre y\nmanchas.",
+    "start_char": 8903,
+    "end_char": 9127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.14",
+    "label": "3.14 Distribución, acción de repartir algo (materia prima, producto, etc.) y de llevarlo al punto o lugar en",
+    "text": "3.14 Distribución, acción de repartir algo (materia prima, producto, etc.) y de llevarlo al punto o lugar en\nque se ha de utilizar.",
+    "start_char": 9131,
+    "end_char": 9262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.15",
+    "label": "3.15 Elaboración, transformación de un producto por medio del trabajo para determinado bien de",
+    "text": "3.15 Elaboración, transformación de un producto por medio del trabajo para determinado bien de\nconsumo.",
+    "start_char": 9266,
+    "end_char": 9369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.16",
+    "label": "3.16 Envase, todo recipiente destinado a contener un producto y que entra en contacto con el mismo,",
+    "text": "3.16 Envase, todo recipiente destinado a contener un producto y que entra en contacto con el mismo,\nconservando su integridad física, química y sanitaria.\n\f   Lunes 1 de marzo de 2010                   DIARIO OFICIAL                              (Primera Sección)",
+    "start_char": 9373,
+    "end_char": 9636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.17",
+    "label": "3.17 Envase primario, recipiente o envoltura que contiene y está en contacto directo con el producto,",
+    "text": "3.17 Envase primario, recipiente o envoltura que contiene y está en contacto directo con el producto,\nconservando su integridad física, química y sanitaria. El envase primario puede estar contenido en un envase\nsecundario.",
+    "start_char": 9641,
+    "end_char": 9863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.18",
+    "label": "3.18 Escamochar, acción de eliminar todos los residuos alimenticios de los platos, cubiertos, utensilios y",
+    "text": "3.18 Escamochar, acción de eliminar todos los residuos alimenticios de los platos, cubiertos, utensilios y\nrecipientes.",
+    "start_char": 9868,
+    "end_char": 9987
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.19",
+    "label": "3.19 Establecimientos, los locales y sus instalaciones, dependencias y anexos, estén cubiertos o",
+    "text": "3.19 Establecimientos, los locales y sus instalaciones, dependencias y anexos, estén cubiertos o\ndescubiertos, sean fijos o móviles, en los que se desarrolla el proceso de los productos, actividades y\nservicios a los que se refiere esta Norma.",
+    "start_char": 9991,
+    "end_char": 10234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.20",
+    "label": "3.20 Establecimientos de servicios de alimentos o bebidas, los locales y sus instalaciones,",
+    "text": "3.20 Establecimientos de servicios de alimentos o bebidas, los locales y sus instalaciones,\ndependencias y anexos, donde se elaboran o suministran alimentos o bebidas para su consumo inmediato,\ncomida para llevar o entregar a domicilio.",
+    "start_char": 10238,
+    "end_char": 10474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.21",
+    "label": "3.21 Expendio, área o establecimiento donde se exhiben o comercializan los productos objeto de esta",
+    "text": "3.21 Expendio, área o establecimiento donde se exhiben o comercializan los productos objeto de esta\nNorma.",
+    "start_char": 10478,
+    "end_char": 10584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.22",
+    "label": "3.22 Fábrica, establecimiento en donde se producen los productos artesanales o industrializados. No se",
+    "text": "3.22 Fábrica, establecimiento en donde se producen los productos artesanales o industrializados. No se\nconsideran como fábricas las panaderías y tortillerías para venta a granel al por menor.",
+    "start_char": 10588,
+    "end_char": 10779
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-23",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.23",
+    "label": "3.23 Fase, cualquier etapa u operación en la producción o elaboración de los productos.",
+    "text": "3.23 Fase, cualquier etapa u operación en la producción o elaboración de los productos.",
+    "start_char": 10783,
+    "end_char": 10870
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.24",
+    "label": "3.24 Fauna nociva, animales (insectos, aves, ratones, etc.) que pueden llegar a convertirse en vectores",
+    "text": "3.24 Fauna nociva, animales (insectos, aves, ratones, etc.) que pueden llegar a convertirse en vectores\npotenciales de enfermedades infecto-contagiosas o causantes de daños a instalaciones, equipo o productos\nen las diferentes etapas del proceso.",
+    "start_char": 10875,
+    "end_char": 11121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-25",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.25",
+    "label": "3.25 Inocuo, lo que no hace o causa daño a la salud.",
+    "text": "3.25 Inocuo, lo que no hace o causa daño a la salud.",
+    "start_char": 11125,
+    "end_char": 11177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-26",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.26",
+    "label": "3.26 Limpieza, acción que tiene por objeto quitar la suciedad.",
+    "text": "3.26 Limpieza, acción que tiene por objeto quitar la suciedad.",
+    "start_char": 11181,
+    "end_char": 11243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-27",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.27",
+    "label": "3.27 Lote, a la cantidad de producto, elaborado en un mismo ciclo, integrado por unidades homogéneas, e",
+    "text": "3.27 Lote, a la cantidad de producto, elaborado en un mismo ciclo, integrado por unidades homogéneas, e\nidentificado con un código específico.",
+    "start_char": 11247,
+    "end_char": 11389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-28",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.28",
+    "label": "3.28 Lubricantes grado alimenticio, lubricante adecuado para aplicaciones en equipo para",
+    "text": "3.28 Lubricantes grado alimenticio, lubricante adecuado para aplicaciones en equipo para\nprocesamiento de alimentos, bebidas o suplementos alimenticios.",
+    "start_char": 11393,
+    "end_char": 11545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-29",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.29",
+    "label": "3.29 Manipulación, acción o modo de regular y dirigir materiales, productos, vehículos, equipo y",
+    "text": "3.29 Manipulación, acción o modo de regular y dirigir materiales, productos, vehículos, equipo y\nmáquinas durante las operaciones de proceso, con operaciones manuales.",
+    "start_char": 11548,
+    "end_char": 11715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-30",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.30",
+    "label": "3.30 Materia prima, todas las sustancias que se emplean en la producción o elaboración y que forman",
+    "text": "3.30 Materia prima, todas las sustancias que se emplean en la producción o elaboración y que forman\nparte del producto terminado.",
+    "start_char": 11720,
+    "end_char": 11849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-31",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.31",
+    "label": "3.31 Material sanitario, al que no cede sustancias tóxicas a los productos que entran en contacto con él y",
+    "text": "3.31 Material sanitario, al que no cede sustancias tóxicas a los productos que entran en contacto con él y\nes de fácil limpieza y desinfección.",
+    "start_char": 11853,
+    "end_char": 11996
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-32",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.32",
+    "label": "3.32 Peligro, agente biológico, químico o físico presente en el alimento, bebida o suplemento alimenticio o",
+    "text": "3.32 Peligro, agente biológico, químico o físico presente en el alimento, bebida o suplemento alimenticio o\nbien la condición en que éste se halla, que puede causar un efecto adverso para la salud.",
+    "start_char": 12000,
+    "end_char": 12197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-33",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.33",
+    "label": "3.33 Plaga, a las plantas, hongos y fauna nociva que pueden llegar a convertirse en vectores potenciales",
+    "text": "3.33 Plaga, a las plantas, hongos y fauna nociva que pueden llegar a convertirse en vectores potenciales\nde enfermedades infecto-contagiosas o causantes de daños a instalaciones, equipo o productos en las\ndiferentes etapas de producción o elaboración.",
+    "start_char": 12202,
+    "end_char": 12453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-34",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.34",
+    "label": "3.34 Plaguicidas, sustancia o mezcla de sustancias utilizadas para prevenir, destruir, repeler o mitigar",
+    "text": "3.34 Plaguicidas, sustancia o mezcla de sustancias utilizadas para prevenir, destruir, repeler o mitigar\ncualquier forma de vida que sea nociva para la salud, los bienes del hombre o el ambiente.",
+    "start_char": 12457,
+    "end_char": 12652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-35",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.35",
+    "label": "3.35 Prácticas de Higiene, las medidas necesarias para garantizar la inocuidad de los productos.",
+    "text": "3.35 Prácticas de Higiene, las medidas necesarias para garantizar la inocuidad de los productos.",
+    "start_char": 12656,
+    "end_char": 12752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-36",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.36",
+    "label": "3.36 Procedimiento, documento que contiene las instrucciones necesarias para llevar a cabo de manera",
+    "text": "3.36 Procedimiento, documento que contiene las instrucciones necesarias para llevar a cabo de manera\nreproducible una operación o actividad.",
+    "start_char": 12756,
+    "end_char": 12896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-37",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.37",
+    "label": "3.37 Proceso, conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación,",
+    "text": "3.37 Proceso, conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación,\nconservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución,\nalmacenamiento y expendio o suministro al público de productos.",
+    "start_char": 12900,
+    "end_char": 13159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-38",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.38",
+    "label": "3.38 Producto a granel, producto que no se encuentra envasado al momento de su venta y que se pesa,",
+    "text": "3.38 Producto a granel, producto que no se encuentra envasado al momento de su venta y que se pesa,\nmide o cuenta en presencia del consumidor.\n\f           (Primera Sección)                       DIARIO OFICIAL                       Lunes 1 de marzo de 2010",
+    "start_char": 13163,
+    "end_char": 13419
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-39",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.39",
+    "label": "3.39 Producto preenvasado, los productos que fuera del punto de venta son colocados en un envase de",
+    "text": "3.39 Producto preenvasado, los productos que fuera del punto de venta son colocados en un envase de\ncualquier naturaleza, en ausencia del consumidor final, y la cantidad de producto contenido en él no puede ser\nalterada a menos que el envase sea abierto o modificado perceptiblemente.",
+    "start_char": 13425,
+    "end_char": 13709
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-40",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.40",
+    "label": "3.40 Rastreabilidad/rastreo de los productos, la capacidad para seguir el desplazamiento de un",
+    "text": "3.40 Rastreabilidad/rastreo de los productos, la capacidad para seguir el desplazamiento de un\nalimento, bebida o suplemento alimenticio a través de una o varias etapas especificadas de su proceso.",
+    "start_char": 13714,
+    "end_char": 13911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-41",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.41",
+    "label": "3.41 Recortes, partes del producto que resultan directamente inutilizables en la misma operación pero que",
+    "text": "3.41 Recortes, partes del producto que resultan directamente inutilizables en la misma operación pero que\npueden ser reprocesados siempre y cuando se garantice su inocuidad.",
+    "start_char": 13915,
+    "end_char": 14088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-42",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.42",
+    "label": "3.42 Registro, conjunto de información, electrónica o no, que incluye datos, textos, números o gráficos",
+    "text": "3.42 Registro, conjunto de información, electrónica o no, que incluye datos, textos, números o gráficos\nque es creado, restaurado, mantenido y archivado.",
+    "start_char": 14092,
+    "end_char": 14245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-43",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.43",
+    "label": "3.43 Residuos, basura, desechos o desperdicios de la materia prima o producto en proceso o de",
+    "text": "3.43 Residuos, basura, desechos o desperdicios de la materia prima o producto en proceso o de\ncualquier material cuyo poseedor o propietario desecha.",
+    "start_char": 14249,
+    "end_char": 14398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-44",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.44",
+    "label": "3.44 Riesgo, la probabilidad de que un factor biológico, químico o físico, cause un daño a la salud del",
+    "text": "3.44 Riesgo, la probabilidad de que un factor biológico, químico o físico, cause un daño a la salud del\nconsumidor.",
+    "start_char": 14402,
+    "end_char": 14517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-45",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.45",
+    "label": "3.45 Signos de descongelación, presencia de líquidos o líquido congelado en el fondo del empaque o",
+    "text": "3.45 Signos de descongelación, presencia de líquidos o líquido congelado en el fondo del empaque o\ncartón que contiene a los alimentos y se caracterizan por la aparición de cristales grandes de hielo que indican\nque el alimento ha sido descongelado y vuelto a congelar.",
+    "start_char": 14522,
+    "end_char": 14791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-46",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.46",
+    "label": "3.46 Sistema PEPS (primeras entradas-primeras salidas), serie de operaciones que consiste en",
+    "text": "3.46 Sistema PEPS (primeras entradas-primeras salidas), serie de operaciones que consiste en\ngarantizar la rotación de los productos de acuerdo a su fecha de recepción, su vida útil o vida de anaquel.",
+    "start_char": 14795,
+    "end_char": 14995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-47",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.47",
+    "label": "3.47 Sobrante, alimento o bebida preparada que no ha sido servido, que no es desperdicio, en",
+    "text": "3.47 Sobrante, alimento o bebida preparada que no ha sido servido, que no es desperdicio, en\nestablecimientos de servicios de alimentos y bebidas o expendio.",
+    "start_char": 14999,
+    "end_char": 15156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-48",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.48",
+    "label": "3.48 Superficie limpia, aquella que se encuentra de forma visible libre de cualquier sustancia o materia",
+    "text": "3.48 Superficie limpia, aquella que se encuentra de forma visible libre de cualquier sustancia o materia\ndiferente al material intrínseco del que está hecha.",
+    "start_char": 15161,
+    "end_char": 15318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:3-49",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "3.49",
+    "label": "3.49 Suplemento alimenticio, producto a base de hierbas, extractos vegetales, alimentos tradicionales,",
+    "text": "3.49 Suplemento alimenticio, producto a base de hierbas, extractos vegetales, alimentos tradicionales,\ndeshidratados o concentrados de frutas, adicionados o no, de vitaminas o minerales, que se puedan presentar\nen forma farmacéutica y cuya finalidad de uso sea incrementar la ingesta dietética total, complementarla o\nsuplir alguno de sus componentes.",
+    "start_char": 15322,
+    "end_char": 15673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "4",
+    "label": "4. Símbolos y abreviaturas",
+    "text": "4. Símbolos y abreviaturas\n   Cuando en esta Norma se haga referencia a los siguientes símbolos y abreviaturas se entiende por:\n    -                menos\n   min               minutos\n   o\n       C             grados Celsius\n   o\n       F             grados Fahrenheit\n   PEPS              primeras entradas-primeras salidas\n   HACCP             Análisis de peligros y de puntos críticos de control, por sus siglas en inglés (Hazard Analysis\n                     and Critical Control Points).",
+    "start_char": 15677,
+    "end_char": 16169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5",
+    "label": "5. Disposiciones generales",
+    "text": "5. Disposiciones generales\n    Los establecimientos que se dediquen al proceso de alimentos, bebidas o suplementos alimenticios,\ndeben cumplir con las disposiciones establecidas en este capítulo, según corresponda a las actividades que\nrealicen.",
+    "start_char": 16173,
+    "end_char": 16418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.1",
+    "label": "5.1 Instalaciones y áreas",
+    "text": "5.1 Instalaciones y áreas",
+    "start_char": 16422,
+    "end_char": 16447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.1.1",
+    "label": "5.1.1 Los establecimientos deben contar con instalaciones que eviten la contaminación de las materias",
+    "text": "5.1.1 Los establecimientos deben contar con instalaciones que eviten la contaminación de las materias\nprimas, alimentos, bebidas o suplementos alimenticios.",
+    "start_char": 16452,
+    "end_char": 16608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.1.2",
+    "label": "5.1.2. Los pisos, paredes y techos del área de producción o elaboración deben ser de fácil limpieza, sin",
+    "text": "5.1.2. Los pisos, paredes y techos del área de producción o elaboración deben ser de fácil limpieza, sin\ngrietas o roturas.\n\f   Lunes 1 de marzo de 2010                    DIARIO OFICIAL                              (Primera Sección)",
+    "start_char": 16613,
+    "end_char": 16846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.1.3",
+    "label": "5.1.3 Las puertas y ventanas de las áreas de producción o elaboración deben estar provistas de",
+    "text": "5.1.3 Las puertas y ventanas de las áreas de producción o elaboración deben estar provistas de\nprotecciones para evitar la entrada de lluvia, fauna nociva o plagas, excepto puertas y ventanas que se\nencuentran en el área de atención al cliente.",
+    "start_char": 16852,
+    "end_char": 17096
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.1.4",
+    "label": "5.1.4 Debe evitarse que las tuberías, conductos, rieles, vigas, cables, etc., pasen por encima de tanques y",
+    "text": "5.1.4 Debe evitarse que las tuberías, conductos, rieles, vigas, cables, etc., pasen por encima de tanques y\náreas de producción o elaboración donde el producto sin envasar esté expuesto. En donde existan, deben\nmantenerse en buenas condiciones de mantenimiento y limpios.",
+    "start_char": 17100,
+    "end_char": 17371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.2",
+    "label": "5.2 Equipo y utensilios",
+    "text": "5.2 Equipo y utensilios",
+    "start_char": 17375,
+    "end_char": 17398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.2.1",
+    "label": "5.2.1 Los equipos deben ser instalados en forma tal que el espacio entre ellos mismos, la pared, el techo y",
+    "text": "5.2.1 Los equipos deben ser instalados en forma tal que el espacio entre ellos mismos, la pared, el techo y\npiso, permita su limpieza y desinfección.",
+    "start_char": 17403,
+    "end_char": 17552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.2.2",
+    "label": "5.2.2 El equipo y los utensilios empleados en las áreas en donde se manipulen directamente materias",
+    "text": "5.2.2 El equipo y los utensilios empleados en las áreas en donde se manipulen directamente materias\nprimas, alimentos, bebidas o suplementos alimenticios sin envasar, y que puedan entrar en contacto con ellos,\ndeben ser lisos y lavables, sin roturas.",
+    "start_char": 17557,
+    "end_char": 17807
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.2.3",
+    "label": "5.2.3. Los materiales que puedan entrar en contacto directo con alimentos, bebidas, suplementos",
+    "text": "5.2.3. Los materiales que puedan entrar en contacto directo con alimentos, bebidas, suplementos\nalimenticios o sus materias primas, se deben poder lavar y desinfectar adecuadamente.",
+    "start_char": 17812,
+    "end_char": 17993
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.2.4",
+    "label": "5.2.4 En los equipos de refrigeración y congelación se debe evitar la acumulación de agua.",
+    "text": "5.2.4 En los equipos de refrigeración y congelación se debe evitar la acumulación de agua.",
+    "start_char": 17997,
+    "end_char": 18087
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-2-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.2.5",
+    "label": "5.2.5 Los equipos de refrigeración y congelación deben contar con un termómetro o con un dispositivo de",
+    "text": "5.2.5 Los equipos de refrigeración y congelación deben contar con un termómetro o con un dispositivo de\nregistro de temperatura en buenas condiciones de funcionamiento y colocado en un lugar accesible para su\nmonitoreo.",
+    "start_char": 18092,
+    "end_char": 18311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3",
+    "label": "5.3 Servicios",
+    "text": "5.3 Servicios",
+    "start_char": 18315,
+    "end_char": 18328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3.1",
+    "label": "5.3.1 Debe disponerse de agua potable, así como de instalaciones apropiadas para su almacenamiento y",
+    "text": "5.3.1 Debe disponerse de agua potable, así como de instalaciones apropiadas para su almacenamiento y\ndistribución.",
+    "start_char": 18333,
+    "end_char": 18447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3.2",
+    "label": "5.3.2 Las cisternas o tinacos para almacenamiento de agua deben estar protegidos contra la",
+    "text": "5.3.2 Las cisternas o tinacos para almacenamiento de agua deben estar protegidos contra la\ncontaminación, corrosión y permanecer tapados. Sólo se podrán abrir para su mantenimiento, limpieza o\ndesinfección y verificación siempre y cuando no exista riesgo de contaminar el agua.",
+    "start_char": 18451,
+    "end_char": 18728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3.3",
+    "label": "5.3.3 Las paredes internas de las cisternas o tinacos deben ser lisas. En caso de contar con respiradero,",
+    "text": "5.3.3 Las paredes internas de las cisternas o tinacos deben ser lisas. En caso de contar con respiradero,\néste debe tener un filtro o trampas o cualquier otro mecanismo que impida la contaminación del agua.",
+    "start_char": 18732,
+    "end_char": 18938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3.4",
+    "label": "5.3.4 El agua no potable que se utilice para la producción de vapor, refrigeración, sistema contra incendios",
+    "text": "5.3.4 El agua no potable que se utilice para la producción de vapor, refrigeración, sistema contra incendios\ny otros propósitos similares que no estén en contacto directo con la materia prima, alimentos, bebidas o\nsuplementos alimenticios, debe transportarse por tuberías completamente separadas e identificadas, sin que\nhaya ninguna conexión transversal ni sifonado de retroceso con las tuberías que conducen el agua potable.",
+    "start_char": 18942,
+    "end_char": 19368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3.5",
+    "label": "5.3.5 Para evitar plagas provenientes del drenaje, éste debe estar provisto de trampas contra olores, y",
+    "text": "5.3.5 Para evitar plagas provenientes del drenaje, éste debe estar provisto de trampas contra olores, y\ncoladeras o canaletas con rejillas, las cuales deben mantenerse libres de basura, sin estancamientos y en\nbuen estado. Cuando los drenajes no permitan el uso de estos dispositivos, se deberán establecer otras\nmedidas que cumplan con la misma finalidad.",
+    "start_char": 19373,
+    "end_char": 19729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3.6",
+    "label": "5.3.6 Los establecimientos deben disponer de un sistema de evacuación de efluentes o aguas residuales,",
+    "text": "5.3.6 Los establecimientos deben disponer de un sistema de evacuación de efluentes o aguas residuales,\nel cual debe estar libre de reflujos, fugas, residuos, desechos y fauna nociva.",
+    "start_char": 19734,
+    "end_char": 19916
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3.7",
+    "label": "5.3.7 Cuando se requiera, los drenajes deben estar provistos de trampas de grasa.",
+    "text": "5.3.7 Cuando se requiera, los drenajes deben estar provistos de trampas de grasa.",
+    "start_char": 19920,
+    "end_char": 20001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3.8",
+    "label": "5.3.8 Los baños deben contar con separaciones físicas completas, no tener comunicación directa ni",
+    "text": "5.3.8 Los baños deben contar con separaciones físicas completas, no tener comunicación directa ni\nventilación hacia el área de producción o elaboración y contar como mínimo con lo siguiente:\n   a)    Agua potable, retrete, lavabo que podrá ser de accionamiento manual, jabón o detergente, papel\n         higiénico y toallas desechables o secador de aire de accionamiento automático. El agua para el\n         retrete podrá ser no potable;\n   b)    Depósitos para basura con bolsa y tapadera oscilante o accionada por pedal;\n   c)    Rótulos o ilustraciones en donde se promueva la higiene personal, haciendo hincapié en el lavado de\n         manos después del uso de los sanitarios;",
+    "start_char": 20005,
+    "end_char": 20686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3.9",
+    "label": "5.3.9 La ventilación debe evitar el calor y condensación de vapor excesivos, así como la acumulación de",
+    "text": "5.3.9 La ventilación debe evitar el calor y condensación de vapor excesivos, así como la acumulación de\nhumo y polvo.\n\f      (Primera Sección)                       DIARIO OFICIAL                       Lunes 1 de marzo de 2010",
+    "start_char": 20690,
+    "end_char": 20916
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3.10",
+    "label": "5.3.10 Si se cuenta con instalaciones de aire acondicionado, se debe evitar que las tuberías y techos",
+    "text": "5.3.10 Si se cuenta con instalaciones de aire acondicionado, se debe evitar que las tuberías y techos\nprovoquen goteos sobre las áreas donde las materias primas, alimentos, bebidas o suplementos alimenticios\nestén expuestos.",
+    "start_char": 20921,
+    "end_char": 21145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3.11",
+    "label": "5.3.11 Se debe contar con iluminación que permita la realización de las operaciones de manera higiénica.",
+    "text": "5.3.11 Se debe contar con iluminación que permita la realización de las operaciones de manera higiénica.",
+    "start_char": 21149,
+    "end_char": 21253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-3-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.3.12",
+    "label": "5.3.12 Los focos y las lámparas que puedan contaminar alimentos, bebidas o suplementos alimenticios sin",
+    "text": "5.3.12 Los focos y las lámparas que puedan contaminar alimentos, bebidas o suplementos alimenticios sin\nenvasar, en caso de rotura o estallido, deben contar con protección o ser de material que impida su\nastillamiento.",
+    "start_char": 21258,
+    "end_char": 21476
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.4",
+    "label": "5.4 Almacenamiento",
+    "text": "5.4 Almacenamiento",
+    "start_char": 21480,
+    "end_char": 21498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.4.1",
+    "label": "5.4.1. Las condiciones de almacenamiento deben ser adecuadas al tipo de materia prima, alimentos,",
+    "text": "5.4.1. Las condiciones de almacenamiento deben ser adecuadas al tipo de materia prima, alimentos,\nbebidas o suplementos alimenticios que se manejen. Se debe contar con controles que prevengan la\ncontaminación de los productos.",
+    "start_char": 21502,
+    "end_char": 21728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.4.2",
+    "label": "5.4.2 El almacenamiento de detergentes y agentes de limpieza o agentes químicos y sustancias tóxicas,",
+    "text": "5.4.2 El almacenamiento de detergentes y agentes de limpieza o agentes químicos y sustancias tóxicas,\nse debe hacer en un lugar separado y delimitado de cualquier área de manipulación o almacenado de\nmaterias primas, alimentos, bebidas o suplementos alimenticios. Los recipientes, frascos, botes, bolsas de\ndetergentes y agentes de limpieza o agentes químicos y sustancias tóxicas, deben estar cerrados e\nidentificados.",
+    "start_char": 21732,
+    "end_char": 22151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.4.3",
+    "label": "5.4.3 Las materias primas, alimentos, bebidas o suplementos alimenticios, deben colocarse en mesas,",
+    "text": "5.4.3 Las materias primas, alimentos, bebidas o suplementos alimenticios, deben colocarse en mesas,\nestibas, tarimas, anaqueles, entrepaños, estructura o cualquier superficie limpia que evite su contaminación.",
+    "start_char": 22156,
+    "end_char": 22365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.4.4",
+    "label": "5.4.4 La colocación de materias primas, alimentos, bebidas o suplementos alimenticios se debe hacer de",
+    "text": "5.4.4 La colocación de materias primas, alimentos, bebidas o suplementos alimenticios se debe hacer de\ntal manera que permita la circulación del aire.",
+    "start_char": 22370,
+    "end_char": 22520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.4.5",
+    "label": "5.4.5 La estiba de productos debe realizarse evitando el rompimiento y exudación de empaques y",
+    "text": "5.4.5 La estiba de productos debe realizarse evitando el rompimiento y exudación de empaques y\nenvolturas.",
+    "start_char": 22524,
+    "end_char": 22630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.4.6",
+    "label": "5.4.6 Los implementos o utensilios tales como escobas, trapeadores, recogedores, fibras y cualquier otro",
+    "text": "5.4.6 Los implementos o utensilios tales como escobas, trapeadores, recogedores, fibras y cualquier otro\nempleado para la limpieza del establecimiento, deben almacenarse en un lugar específico de tal manera que\nse evite la contaminación de las materias primas, los alimentos, bebidas o suplementos alimenticios.",
+    "start_char": 22634,
+    "end_char": 22945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.5",
+    "label": "5.5 Control de operaciones",
+    "text": "5.5 Control de operaciones",
+    "start_char": 22949,
+    "end_char": 22975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.5.1",
+    "label": "5.5.1 Los establecimientos pueden instrumentar un Sistema de HACCP, en su caso se puede tomar como",
+    "text": "5.5.1 Los establecimientos pueden instrumentar un Sistema de HACCP, en su caso se puede tomar como\nguía el apéndice A de la presente norma. Cuando la norma oficial mexicana correspondiente al producto que\nse procesa en el establecimiento lo establezca, su instrumentación será obligatoria.",
+    "start_char": 22979,
+    "end_char": 23268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.5.2",
+    "label": "5.5.2 Los equipos de refrigeración se deben mantener a una temperatura máxima de 7°C.",
+    "text": "5.5.2 Los equipos de refrigeración se deben mantener a una temperatura máxima de 7°C.",
+    "start_char": 23272,
+    "end_char": 23357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.5.3",
+    "label": "5.5.3 Los equipos de congelación se deben mantener a una temperatura que permita la congelación del",
+    "text": "5.5.3 Los equipos de congelación se deben mantener a una temperatura que permita la congelación del\nproducto.",
+    "start_char": 23361,
+    "end_char": 23470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.5.4",
+    "label": "5.5.4 Se debe evitar la contaminación cruzada entre la materia prima, producto en elaboración y producto",
+    "text": "5.5.4 Se debe evitar la contaminación cruzada entre la materia prima, producto en elaboración y producto\nterminado.",
+    "start_char": 23475,
+    "end_char": 23590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.5.5",
+    "label": "5.5.5. Los alimentos, bebidas o suplementos alimenticios procesados no deben estar en contacto directo",
+    "text": "5.5.5. Los alimentos, bebidas o suplementos alimenticios procesados no deben estar en contacto directo\ncon los no procesados, aun cuando requieran de las mismas condiciones de temperatura o humedad para su\nconservación.",
+    "start_char": 23594,
+    "end_char": 23813
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.5.6",
+    "label": "5.5.6 El establecimiento periódicamente debe dar salida a productos y materiales inútiles, obsoletos o",
+    "text": "5.5.6 El establecimiento periódicamente debe dar salida a productos y materiales inútiles, obsoletos o\nfuera de especificaciones.",
+    "start_char": 23818,
+    "end_char": 23947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.6",
+    "label": "5.6 Control de materias primas",
+    "text": "5.6 Control de materias primas",
+    "start_char": 23951,
+    "end_char": 23981
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.6.1",
+    "label": "5.6.1 Los establecimientos que preparen o elaboren alimentos, bebidas o suplementos alimenticios deben",
+    "text": "5.6.1 Los establecimientos que preparen o elaboren alimentos, bebidas o suplementos alimenticios deben\ninspeccionar o clasificar sus materias primas e insumos antes de la producción o elaboración del producto.",
+    "start_char": 23986,
+    "end_char": 24195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.6.2",
+    "label": "5.6.2 No utilizar materias primas que ostenten fecha de caducidad vencida.",
+    "text": "5.6.2 No utilizar materias primas que ostenten fecha de caducidad vencida.",
+    "start_char": 24199,
+    "end_char": 24273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.6.3",
+    "label": "5.6.3 Tener identificadas sus materias primas, excepto aquellas cuya identificación sea evidente.",
+    "text": "5.6.3 Tener identificadas sus materias primas, excepto aquellas cuya identificación sea evidente.",
+    "start_char": 24277,
+    "end_char": 24374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.6.4",
+    "label": "5.6.4 Separar y eliminar del lugar las materias primas que evidentemente no sean aptas, a fin de evitar mal",
+    "text": "5.6.4 Separar y eliminar del lugar las materias primas que evidentemente no sean aptas, a fin de evitar mal\nuso, contaminaciones y adulteraciones.\n\f   Lunes 1 de marzo de 2010                   DIARIO OFICIAL                              (Primera Sección)",
+    "start_char": 24378,
+    "end_char": 24633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.6.5",
+    "label": "5.6.5 Cuando aplique, las materias primas deben mantenerse en envases cerrados para evitar su posible",
+    "text": "5.6.5 Cuando aplique, las materias primas deben mantenerse en envases cerrados para evitar su posible\ncontaminación.",
+    "start_char": 24638,
+    "end_char": 24754
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-6-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.6.6",
+    "label": "5.6.6 No aceptar materia prima cuando el envase no garantice su integridad.",
+    "text": "5.6.6 No aceptar materia prima cuando el envase no garantice su integridad.",
+    "start_char": 24758,
+    "end_char": 24833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-6-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.6.7",
+    "label": "5.6.7 No aceptar las materias primas enlistadas en la tabla No 1, cuando al corroborar sus características",
+    "text": "5.6.7 No aceptar las materias primas enlistadas en la tabla No 1, cuando al corroborar sus características\nalguna de éstas corresponda a la de rechazo.\n                          Tabla No 1: Características para la aceptación o rechazo\n    Materia prima/Parámetro                    Aceptación                             Rechazo\n Preenvasadas\n              Envase                     íntegro y en buen estado          rotos, rasgado, con fugas o con\n                                                                              evidencia de fauna nociva\n     Fecha de caducidad o de                      vigente                              vencida\n       consumo preferente\n Enlatadas\n               Latas                             íntegras                  abombadas, oxidadas, con fuga,\n                                                                                abolladas en costura y/o\n                                                                           engargolado o en cualquier parte\n                                                                             del cuerpo, cuando presente\n                                                                          abolladura en ángulo pronunciado\n                                                                           o la abolladura sea mayor de 1,5\n                                                                          cm de diámetro en presentaciones\n                                                                         inferiores a 1 kg, en presentaciones\n                                                                            mayores de 1 kg la abolladura\n                                                                            deberá ser mayor a 2,5 cm de\n                                                                                       diámetro.\n Congeladas\n             Apariencia                sin signos de descongelación        Con signos de descongelación\n Refrigeradas\n           Temperatura              4°C o menos, excepto los productos       mayor de 4°C, excepto los\n                                      de la pesca vivos, que pueden       productos de la pesca vivos, que\n                                             aceptarse a 7°C.                 pueden aceptarse a 7°C.\n Bebidas embotelladas\n             Apariencia                  libre de materia extraña         con materia extraña o con fugas\n                                       tapas íntegras y sin corrosión    oxidadas o con signos de violación\n Productos de origen vegetal\n             Apariencia                           fresca                   con mohos, coloración extraña,\n                                                                                  magulladuras\n                Olor                           característico                         Putrefacto\n Carnes frescas\n               Color:\n                Res                            rojo brillante                 verdosa o café obscuro,\n                                                                           descolorida en el tejido elástico\n              Cordero                               rojo\n               Cerdo                            rosa pálido\n      Grasa de origen animal           blanca o ligeramente amarilla\n              Textura                         firme y elástica                    viscosa, pegajosa\n                Olor                           característico                     putrefacto, agrio\n Aves\n\f    (Primera Sección)                      DIARIO OFICIAL                        Lunes 1 de marzo de 2010\n\n              Color                        característico                   verdosa, amoratada o con\n                                                                             diferentes coloraciones\n             Textura                            firme                  blanda y pegajosa bajo las alas o la\n                                                                                      piel\n              Olor                         característico                       putrefacto o rancio\nProductos de la pesca\nPescado\n              Color                     agallas rojo brillante               gris o verde en agallas\n           Apariencia             agallas húmedas, ojos saltones,        agallas secas, ojos hundidos y\n                                 limpios, transparentes y brillantes       opacos con bordes rojos\n             Textura                            firme                                 flácida\n              Olor                         característico                 agrio, putrefacto o amoniacal\nMoluscos\n              Color                        característico                        no característico\n             Textura                            firme                                viscosa\n              Olor                         característico                    putrefacto o amoniacal\n           Apariencia                         brillante                                mate\n  Vitalidad (productos vivos)    conchas cerradas o que se abren y     conchas abiertas, que no cierran al\n                                        cierran al contacto.                         tacto.\nCrustáceos\n              Color                        característico                        no característico\n             Textura                            firme                                 flácida\n              Olor                    característico al marisco              putrefacto o amoniacal\n           Apariencia                   articulaciones firmes             articulaciones con pérdida de\n                                                                       tensión y contracción, sin brillo, con\n                                                                          manchas obscuras entre las\n                                                                                  articulaciones\nCefalópodos\n              Color                        característico                        no característico\n             Textura                            firme                            flácida y viscosa\n              Olor                         característico                           putrefacto\nLeche y derivados\n                                a base de leche pasteurizada           que proceda        de     leche    sin\n                                                                       pasteurizar\nQuesos\n     Olor, color y textura                 característico              con manchas no propias del queso\n                                                                            o partículas extrañas, o\n                                                                          contaminado con hongos en\n                                                                            productos que no fueron\n                                                                                  inoculados.\nMantequilla\n              Olor                         característico               excepto los productos de la pesca\n                                                                       vivos, que pueden aceptarse a 7°C,\n                                                                                      rancio\n           Apariencia                      característica               con mohos o partículas extrañas\nHuevo fresco\n\f   Lunes 1 de marzo de 2010                   DIARIO OFICIAL                              (Primera Sección)\n\n                                      limpios y con cascarón entero        cascarón quebrado o manchado\n                                                                              con excremento o sangre\n Granos, harinas, productos de panificación, tortillas y otros productos secos\n            Apariencia                  sin mohos y con coloración         con mohos o coloración ajena al\n                                              característica                 producto o con infestaciones",
+    "start_char": 24837,
+    "end_char": 32845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-6-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.6.8",
+    "label": "5.6.8 Quedan excluidos de la aplicación del numeral 5.6.7 las fábricas de alimentos, bebidas o",
+    "text": "5.6.8 Quedan excluidos de la aplicación del numeral 5.6.7 las fábricas de alimentos, bebidas o\nsuplementos alimenticios, las cuales deben cumplir con el numeral 6.6.1.",
+    "start_char": 32850,
+    "end_char": 33017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-6-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.6.9",
+    "label": "5.6.9. Las materias primas, alimentos, bebidas o suplementos alimenticios, deben almacenarse de",
+    "text": "5.6.9. Las materias primas, alimentos, bebidas o suplementos alimenticios, deben almacenarse de\nacuerdo a su naturaleza e identificarse de manera tal que se permita aplicar un sistema de PEPS.",
+    "start_char": 33021,
+    "end_char": 33213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.7",
+    "label": "5.7 Control del envasado",
+    "text": "5.7 Control del envasado",
+    "start_char": 33217,
+    "end_char": 33241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.7.1",
+    "label": "5.7.1 Los envases y recipientes que entren en contacto directo con la materia prima, alimento, bebida o",
+    "text": "5.7.1 Los envases y recipientes que entren en contacto directo con la materia prima, alimento, bebida o\nsuplemento alimenticio, se deben almacenar protegidos de polvo, lluvia, fauna nociva y materia extraña.",
+    "start_char": 33245,
+    "end_char": 33452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.7.2",
+    "label": "5.7.2 Se debe asegurar que los envases se encuentren limpios, en su caso desinfectados y en buen",
+    "text": "5.7.2 Se debe asegurar que los envases se encuentren limpios, en su caso desinfectados y en buen\nestado antes de su uso.",
+    "start_char": 33456,
+    "end_char": 33576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.7.3",
+    "label": "5.7.3 Los materiales de envase primarios deben ser inocuos y proteger al producto de cualquier tipo de",
+    "text": "5.7.3 Los materiales de envase primarios deben ser inocuos y proteger al producto de cualquier tipo de\ncontaminación o daño exterior.",
+    "start_char": 33580,
+    "end_char": 33713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.7.4",
+    "label": "5.7.4 Los materiales de empaque y envases de materias primas no deben utilizarse para fines diferentes a",
+    "text": "5.7.4 Los materiales de empaque y envases de materias primas no deben utilizarse para fines diferentes a\nlos que fueron destinados originalmente, a menos que se eliminen las etiquetas, las leyendas y se habiliten\npara el nuevo uso en forma correcta.",
+    "start_char": 33718,
+    "end_char": 33967
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.7.5",
+    "label": "5.7.5 Los recipientes o envases vacíos que contuvieron medicamentos, plaguicidas, agentes de limpieza,",
+    "text": "5.7.5 Los recipientes o envases vacíos que contuvieron medicamentos, plaguicidas, agentes de limpieza,\nagentes de desinfección o cualquier sustancia tóxica, no deben ser reutilizados para alimentos, bebidas o\nsuplementos alimenticios y deben ser dispuestos de manera tal que no sean un riesgo de contaminación a las\nmaterias primas, productos y materiales de empaque.",
+    "start_char": 33971,
+    "end_char": 34338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.8",
+    "label": "5.8 Control del agua en contacto con los alimentos",
+    "text": "5.8 Control del agua en contacto con los alimentos",
+    "start_char": 34342,
+    "end_char": 34392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.8.1",
+    "label": "5.8.1. El agua que esté en contacto directo con alimentos, bebidas o suplementos alimenticios, materias",
+    "text": "5.8.1. El agua que esté en contacto directo con alimentos, bebidas o suplementos alimenticios, materias\nprimas, superficies en contacto con el mismo, envase primario o aquella para elaborar hielo debe ser potable y\ncumplir con los límites permisibles de cloro residual libre y de organismos coliformes totales y fecales\nestablecidos en la Modificación a la NOM-127-SSA1-1994, citada en al apartado de referencias, debiendo\nllevarse un registro diario del contenido de cloro residual libre.",
+    "start_char": 34397,
+    "end_char": 34886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.8.2",
+    "label": "5.8.2 En caso de que no se cuente con la documentación que demuestre el cumplimiento del punto",
+    "text": "5.8.2 En caso de que no se cuente con la documentación que demuestre el cumplimiento del punto\nanterior, se deberá utilizar una fuente alterna o tomar las medidas necesarias para hacerla potable antes de\nañadirla a los alimentos, bebidas o suplementos alimenticios o de transformarla en hielo para enfriar los\nalimentos, bebidas o suplementos alimenticios.",
+    "start_char": 34891,
+    "end_char": 35247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.8.3",
+    "label": "5.8.3. El vapor utilizado en superficies que estén en contacto directo con las materias primas, alimentos,",
+    "text": "5.8.3. El vapor utilizado en superficies que estén en contacto directo con las materias primas, alimentos,\nbebidas o suplementos alimenticios, no debe contener ninguna sustancia que pueda representar riesgo a la\nsalud o contaminar al producto.",
+    "start_char": 35252,
+    "end_char": 35495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.9",
+    "label": "5.9 Mantenimiento y limpieza",
+    "text": "5.9 Mantenimiento y limpieza",
+    "start_char": 35499,
+    "end_char": 35527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.9.1",
+    "label": "5.9.1 Los equipos y utensilios deben estar en buenas condiciones de funcionamiento.",
+    "text": "5.9.1 Los equipos y utensilios deben estar en buenas condiciones de funcionamiento.",
+    "start_char": 35531,
+    "end_char": 35614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.9.2",
+    "label": "5.9.2 Después del mantenimiento o reparación del equipo se debe inspeccionar con el fin de eliminar",
+    "text": "5.9.2 Después del mantenimiento o reparación del equipo se debe inspeccionar con el fin de eliminar\nresiduos de los materiales empleados para dicho objetivo. El equipo debe estar limpio y desinfectado previo a\nsu uso en el área de producción.",
+    "start_char": 35619,
+    "end_char": 35861
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.9.3",
+    "label": "5.9.3 Al lubricar los equipos se debe evitar la contaminación de los productos que se procesan.",
+    "text": "5.9.3 Al lubricar los equipos se debe evitar la contaminación de los productos que se procesan.",
+    "start_char": 35865,
+    "end_char": 35960
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.9.4",
+    "label": "5.9.4 Se deben emplear lubricantes grado alimenticio en equipos o partes que estén en contacto directo",
+    "text": "5.9.4 Se deben emplear lubricantes grado alimenticio en equipos o partes que estén en contacto directo\ncon el producto, materias primas, envase primario, producto en proceso o producto terminado sin envasar.",
+    "start_char": 35964,
+    "end_char": 36171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-9-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.9.5",
+    "label": "5.9.5 Las instalaciones (incluidos techo, puertas, paredes y piso), baños, cisternas, tinacos y mobiliario",
+    "text": "5.9.5 Las instalaciones (incluidos techo, puertas, paredes y piso), baños, cisternas, tinacos y mobiliario\ndeben mantenerse limpios.",
+    "start_char": 36175,
+    "end_char": 36307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-9-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.9.6",
+    "label": "5.9.6 Las uniones en las superficies de pisos o paredes recubiertas con materiales no continuos en las",
+    "text": "5.9.6 Las uniones en las superficies de pisos o paredes recubiertas con materiales no continuos en las\náreas de producción o elaboración de alimentos, bebidas o suplementos alimenticios deben permitir su\nlimpieza.",
+    "start_char": 36312,
+    "end_char": 36525
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-9-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.9.7",
+    "label": "5.9.7 Los baños deben estar limpios y desinfectados y no deben utilizarse como bodega o para fines",
+    "text": "5.9.7 Los baños deben estar limpios y desinfectados y no deben utilizarse como bodega o para fines\ndistintos para los que están destinados.\n\f      (Primera Sección)                          DIARIO OFICIAL                        Lunes 1 de marzo de 2010",
+    "start_char": 36530,
+    "end_char": 36782
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-9-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.9.8",
+    "label": "5.9.8 Los agentes de limpieza para los equipos y utensilios deben utilizarse de acuerdo a las instrucciones",
+    "text": "5.9.8 Los agentes de limpieza para los equipos y utensilios deben utilizarse de acuerdo a las instrucciones\ndel fabricante o de los procedimientos internos que garanticen su efectividad, evitando que entren en contacto\ndirecto con materias primas, producto en proceso, producto terminado sin envasar o material de empaque.",
+    "start_char": 36788,
+    "end_char": 37110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-9-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.9.9",
+    "label": "5.9.9 Los agentes de desinfección para los equipos y utensilios deben utilizarse de acuerdo a las",
+    "text": "5.9.9 Los agentes de desinfección para los equipos y utensilios deben utilizarse de acuerdo a las\ninstrucciones del fabricante o de los procedimientos internos que garanticen su efectividad.",
+    "start_char": 37115,
+    "end_char": 37305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-9-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.9.10",
+    "label": "5.9.10 La limpieza y desinfección deben satisfacer las necesidades del proceso y del producto de que se",
+    "text": "5.9.10 La limpieza y desinfección deben satisfacer las necesidades del proceso y del producto de que se\ntrate.",
+    "start_char": 37310,
+    "end_char": 37420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-9-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.9.11",
+    "label": "5.9.11. El equipo y los utensilios deben limpiarse de acuerdo con las necesidades específicas del proceso",
+    "text": "5.9.11. El equipo y los utensilios deben limpiarse de acuerdo con las necesidades específicas del proceso\ny del producto que se trate.",
+    "start_char": 37424,
+    "end_char": 37558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.10",
+    "label": "5.10 Control de plagas",
+    "text": "5.10 Control de plagas",
+    "start_char": 37562,
+    "end_char": 37584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.10.1",
+    "label": "5.10.1 El control de plagas es aplicable a todas las áreas del establecimiento incluyendo el transporte de",
+    "text": "5.10.1 El control de plagas es aplicable a todas las áreas del establecimiento incluyendo el transporte de\nalimentos, bebidas o suplementos alimenticios.",
+    "start_char": 37589,
+    "end_char": 37742
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.10.2",
+    "label": "5.10.2 No se debe permitir la presencia de animales domésticos, ni mascotas dentro de las áreas de",
+    "text": "5.10.2 No se debe permitir la presencia de animales domésticos, ni mascotas dentro de las áreas de\nproducción o elaboración de los productos.",
+    "start_char": 37746,
+    "end_char": 37887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.10.3",
+    "label": "5.10.3 Se deben tomar medidas preventivas para reducir las probabilidades de infestación y de esta forma",
+    "text": "5.10.3 Se deben tomar medidas preventivas para reducir las probabilidades de infestación y de esta forma\nlimitar el uso de plaguicidas.",
+    "start_char": 37892,
+    "end_char": 38027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.10.4",
+    "label": "5.10.4 Debe evitarse que en los patios del establecimiento existan condiciones que puedan ocasionar",
+    "text": "5.10.4 Debe evitarse que en los patios del establecimiento existan condiciones que puedan ocasionar\ncontaminación del producto y proliferación de plagas, tales como: equipo en desuso, desperdicios y chatarra,\nmaleza o hierbas, encharcamiento por drenaje insuficiente o inadecuado.",
+    "start_char": 38031,
+    "end_char": 38311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-10-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.10.5",
+    "label": "5.10.5 Los drenajes deben tener cubierta apropiada para evitar la entrada de plagas provenientes del",
+    "text": "5.10.5 Los drenajes deben tener cubierta apropiada para evitar la entrada de plagas provenientes del\nalcantarillado o áreas externas.",
+    "start_char": 38316,
+    "end_char": 38449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-10-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.10.6",
+    "label": "5.10.6 En las áreas de proceso no debe encontrarse evidencia de la presencia de plagas o fauna nociva.",
+    "text": "5.10.6 En las áreas de proceso no debe encontrarse evidencia de la presencia de plagas o fauna nociva.",
+    "start_char": 38453,
+    "end_char": 38555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-10-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.10.7",
+    "label": "5.10.7 Cada establecimiento debe tener un sistema o un plan para el control de plagas y erradicación de",
+    "text": "5.10.7 Cada establecimiento debe tener un sistema o un plan para el control de plagas y erradicación de\nfauna nociva, incluidos los vehículos de acarreo y reparto propios.",
+    "start_char": 38559,
+    "end_char": 38730
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-10-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.10.8",
+    "label": "5.10.8 En caso de que alguna plaga invada el establecimiento, deben adoptarse medidas de control para",
+    "text": "5.10.8 En caso de que alguna plaga invada el establecimiento, deben adoptarse medidas de control para\nsu eliminación por contratación de servicios de control de plagas o autoaplicación, en ambos casos se debe\ncontar con licencia sanitaria.",
+    "start_char": 38734,
+    "end_char": 38973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-10-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.10.9",
+    "label": "5.10.9 Los plaguicidas empleados deben contar con registro emitido por la autoridad competente.",
+    "text": "5.10.9 Los plaguicidas empleados deben contar con registro emitido por la autoridad competente.",
+    "start_char": 38977,
+    "end_char": 39072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-10-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.10.10",
+    "label": "5.10.10 Los plaguicidas deben mantenerse en un área, contenedor o mueble aislado y con acceso",
+    "text": "5.10.10 Los plaguicidas deben mantenerse en un área, contenedor o mueble aislado y con acceso\nrestringido, en recipientes claramente identificados y libres de cualquier fuga, de conformidad con lo que se\nestablece en las disposiciones legales aplicables.",
+    "start_char": 39077,
+    "end_char": 39331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-10-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.10.11",
+    "label": "5.10.11 En caso de contratar los servicios de una empresa, se debe contar con certificado o constancia del",
+    "text": "5.10.11 En caso de contratar los servicios de una empresa, se debe contar con certificado o constancia del\nservicio proporcionado por la misma. En el caso de autoaplicación, se debe llevar un registro. En ambos casos\ndebe constar el número de licencia sanitaria expedida por la autoridad correspondiente.",
+    "start_char": 39335,
+    "end_char": 39639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.11",
+    "label": "5.11 Manejo de residuos",
+    "text": "5.11 Manejo de residuos",
+    "start_char": 39643,
+    "end_char": 39666
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.11.1",
+    "label": "5.11.1 Se deben adoptar medidas para la remoción periódica y el almacenamiento de los residuos. No",
+    "text": "5.11.1 Se deben adoptar medidas para la remoción periódica y el almacenamiento de los residuos. No\ndeberá permitirse la acumulación de residuos, salvo en la medida en que sea inevitable para el\nfuncionamiento de las instalaciones.",
+    "start_char": 39670,
+    "end_char": 39900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-11-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.11.2",
+    "label": "5.11.2 Los residuos generados durante la producción o elaboración deben retirarse de las áreas de",
+    "text": "5.11.2 Los residuos generados durante la producción o elaboración deben retirarse de las áreas de\noperación cada vez que sea necesario o por lo menos una vez al día.",
+    "start_char": 39904,
+    "end_char": 40069
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-11-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.11.3",
+    "label": "5.11.3 Se debe contar con recipientes identificados y con tapa para los residuos.",
+    "text": "5.11.3 Se debe contar con recipientes identificados y con tapa para los residuos.",
+    "start_char": 40073,
+    "end_char": 40154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.12",
+    "label": "5.12 Salud e higiene del personal",
+    "text": "5.12 Salud e higiene del personal",
+    "start_char": 40158,
+    "end_char": 40191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.12.1",
+    "label": "5.12.1 Debe excluirse de cualquier operación en la que pueda contaminar al producto, a cualquier persona",
+    "text": "5.12.1 Debe excluirse de cualquier operación en la que pueda contaminar al producto, a cualquier persona\nque presente signos como: tos frecuente, secreción nasal, diarrea, vómito, fiebre, ictericia o lesiones en áreas\ncorporales que entren en contacto directo con los alimentos, bebidas o suplementos alimenticios. Solo podrá\nreincorporarse a sus actividades hasta que se encuentre sana o estos signos hayan desaparecido.",
+    "start_char": 40196,
+    "end_char": 40617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.12.2",
+    "label": "5.12.2 El personal debe presentarse aseado al área de trabajo, con ropa y calzado limpios.",
+    "text": "5.12.2 El personal debe presentarse aseado al área de trabajo, con ropa y calzado limpios.",
+    "start_char": 40621,
+    "end_char": 40711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-12-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.12.3",
+    "label": "5.12.3 Al iniciar la jornada de trabajo, la ropa de trabajo debe estar limpia e íntegra.",
+    "text": "5.12.3 Al iniciar la jornada de trabajo, la ropa de trabajo debe estar limpia e íntegra.",
+    "start_char": 40715,
+    "end_char": 40803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-12-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.12.4",
+    "label": "5.12.4 Al inicio de las labores, al regresar de cada ausencia y en cualquier momento cuando las manos",
+    "text": "5.12.4 Al inicio de las labores, al regresar de cada ausencia y en cualquier momento cuando las manos\npuedan estar sucias o contaminadas, toda persona que opere en las áreas de producción o elaboración, o que\nesté en contacto directo con materias primas, envase primario, alimentos, bebidas o suplementos alimenticios,\ndebe lavarse las manos, de la siguiente manera:\n\f   Lunes 1 de marzo de 2010                   DIARIO OFICIAL                                (Primera Sección)\n\n   a)   Enjuagarse las manos con agua, aplicar jabón o detergente. En caso de que el jabón o detergente\n        sea líquido debe aplicarse mediante un dosificador y no estar en recipientes destapados;\n   b)   Frotarse vigorosamente la superficie de las manos y entre los dedos. Para el lavado de las uñas se\n        puede utilizar cepillo. Cuando se utilice uniforme con mangas cortas, el lavado será hasta la altura de\n        los codos;\n   c)   Enjuagarse con agua limpia, cuidando que no queden restos de jabón o detergente. Posteriormente\n        puede utilizarse solución desinfectante;\n   d)   Secarse con toallas desechables o dispositivos de secado con aire caliente.",
+    "start_char": 40807,
+    "end_char": 41961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-12-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.12.5",
+    "label": "5.12.5 Si se emplean guantes, éstos deben mantenerse limpios e íntegros. El uso de guantes no exime el",
+    "text": "5.12.5 Si se emplean guantes, éstos deben mantenerse limpios e íntegros. El uso de guantes no exime el\nlavado de las manos antes de su colocación.",
+    "start_char": 41966,
+    "end_char": 42112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-12-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.12.6",
+    "label": "5.12.6 La ropa y objetos personales deberán guardarse fuera de las áreas de producción o elaboración de",
+    "text": "5.12.6 La ropa y objetos personales deberán guardarse fuera de las áreas de producción o elaboración de\nalimentos, bebidas o suplementos alimenticios.",
+    "start_char": 42117,
+    "end_char": 42267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-12-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.12.7",
+    "label": "5.12.7 No se permite fumar, comer, beber, escupir o mascar en las áreas donde se entra en contacto",
+    "text": "5.12.7 No se permite fumar, comer, beber, escupir o mascar en las áreas donde se entra en contacto\ndirecto con alimentos, bebidas o suplementos alimenticios, materias primas y envase primario. Evitar\nestornudar o toser sobre el producto.",
+    "start_char": 42272,
+    "end_char": 42509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.13",
+    "label": "5.13 Transporte",
+    "text": "5.13 Transporte",
+    "start_char": 42513,
+    "end_char": 42528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-13-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.13.1",
+    "label": "5.13.1 Los alimentos, bebidas o suplementos alimenticios, deben ser transportados en condiciones que",
+    "text": "5.13.1 Los alimentos, bebidas o suplementos alimenticios, deben ser transportados en condiciones que\neviten su contaminación.",
+    "start_char": 42533,
+    "end_char": 42658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-13-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.13.2",
+    "label": "5.13.2 Se deben proteger los alimentos, bebidas o suplementos alimenticios de la contaminación por",
+    "text": "5.13.2 Se deben proteger los alimentos, bebidas o suplementos alimenticios de la contaminación por\nplagas o de contaminantes físicos, químicos o biológicos durante el transporte.",
+    "start_char": 42662,
+    "end_char": 42840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-13-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.13.3",
+    "label": "5.13.3 Los alimentos, bebidas o suplementos alimenticios que requieren refrigeración o congelación deben",
+    "text": "5.13.3 Los alimentos, bebidas o suplementos alimenticios que requieren refrigeración o congelación deben\ntransportarse de tal forma que se mantengan las temperaturas específicas o recomendadas por el fabricante o\nproductor.",
+    "start_char": 42845,
+    "end_char": 43068
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-13-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.13.4",
+    "label": "5.13.4 Los vehículos deben estar limpios para evitar la contaminación de alimentos, bebidas o",
+    "text": "5.13.4 Los vehículos deben estar limpios para evitar la contaminación de alimentos, bebidas o\nsuplementos alimenticios.",
+    "start_char": 43072,
+    "end_char": 43191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.14",
+    "label": "5.14 Capacitación",
+    "text": "5.14 Capacitación",
+    "start_char": 43195,
+    "end_char": 43212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-14-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.14.1",
+    "label": "5.14.1 Todo el personal que opere en las áreas de producción o elaboración debe capacitarse en las",
+    "text": "5.14.1 Todo el personal que opere en las áreas de producción o elaboración debe capacitarse en las\nbuenas prácticas de higiene, por lo menos una vez al año.",
+    "start_char": 43216,
+    "end_char": 43372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:5-14-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "5.14.2",
+    "label": "5.14.2 La capacitación debe incluir:",
+    "text": "5.14.2 La capacitación debe incluir:\n   a)   Higiene personal, uso correcto de la indumentaria de trabajo y lavado de las manos;\n   b)   La naturaleza de los productos, en particular su capacidad para el desarrollo de los microorganismos\n        patógenos o de descomposición;\n   c)   La forma en que se procesan los alimentos, bebidas o suplementos alimenticios considerando la\n        probabilidad de contaminación;\n   d)   El grado y tipo de producción o de preparación posterior antes del consumo final;\n   e)   Las condiciones en las que se deban recibir y almacenar las materias primas, alimentos, bebidas o\n        suplementos alimenticios;\n   f)   El tiempo que se prevea que transcurrirá antes del consumo;\n   g)   Repercusión de un producto contaminado en la salud del consumidor, y\n   h)   El conocimiento de la presente NOM, según corresponda.",
+    "start_char": 43376,
+    "end_char": 44231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6",
+    "label": "6. Fábricas de alimentos, bebidas o suplementos alimenticios",
+    "text": "6. Fábricas de alimentos, bebidas o suplementos alimenticios\n   Las fábricas de alimentos, bebidas o suplementos alimenticios además de cumplir con lo establecido en el\ncapítulo 5, deben cumplir con este capítulo:",
+    "start_char": 44235,
+    "end_char": 44448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.1",
+    "label": "6.1 Instalaciones y áreas",
+    "text": "6.1 Instalaciones y áreas",
+    "start_char": 44452,
+    "end_char": 44477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.1.1",
+    "label": "6.1.1 Deberá disponerse de áreas específicas para el almacenamiento de materias primas, producto en",
+    "text": "6.1.1 Deberá disponerse de áreas específicas para el almacenamiento de materias primas, producto en\nelaboración, producto terminado, en cuarentena, devoluciones, productos rechazados o caducos.\n\f        (Primera Sección)                          DIARIO OFICIAL                   Lunes 1 de marzo de 2010",
+    "start_char": 44481,
+    "end_char": 44784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.1.2",
+    "label": "6.1.2 Se debe contar con un área específica para el depósito temporal de los residuos delimitada y",
+    "text": "6.1.2 Se debe contar con un área específica para el depósito temporal de los residuos delimitada y\nseparada del área de producción.",
+    "start_char": 44789,
+    "end_char": 44920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.1.3",
+    "label": "6.1.3 Los pisos, paredes y techos de las áreas de producción deben ser lisos, lavables y sin grietas o",
+    "text": "6.1.3 Los pisos, paredes y techos de las áreas de producción deben ser lisos, lavables y sin grietas o\nroturas. Los pisos deben tener declive suficiente hacia las coladeras para evitar encharcamientos.",
+    "start_char": 44925,
+    "end_char": 45126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.2",
+    "label": "6.2 Equipo y utensilios",
+    "text": "6.2 Equipo y utensilios",
+    "start_char": 45130,
+    "end_char": 45153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.2.1",
+    "label": "6.2.1 Los recipientes ubicados en las áreas de producción deben de identificarse y ser de material de fácil",
+    "text": "6.2.1 Los recipientes ubicados en las áreas de producción deben de identificarse y ser de material de fácil\nlimpieza.",
+    "start_char": 45158,
+    "end_char": 45275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.2.2",
+    "label": "6.2.2 Los equipos para proceso térmico deben contar con termómetro o dispositivo para registro de",
+    "text": "6.2.2 Los equipos para proceso térmico deben contar con termómetro o dispositivo para registro de\ntemperatura colocados en un lugar accesible para su monitoreo y lectura.",
+    "start_char": 45279,
+    "end_char": 45449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.3",
+    "label": "6.3 Servicios",
+    "text": "6.3 Servicios",
+    "start_char": 45453,
+    "end_char": 45466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.3.1",
+    "label": "6.3.1 Las tarjas para lavado de utensilios que tengan contacto directo con alimentos, materias primas,",
+    "text": "6.3.1 Las tarjas para lavado de utensilios que tengan contacto directo con alimentos, materias primas,\nproducto en producción, bebidas o suplementos alimenticios deben ser de uso exclusivo para este propósito.",
+    "start_char": 45470,
+    "end_char": 45679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.3.2",
+    "label": "6.3.2 Los artículos empleados para la limpieza deben lavarse en un lugar exclusivo para este fin.",
+    "text": "6.3.2 Los artículos empleados para la limpieza deben lavarse en un lugar exclusivo para este fin.",
+    "start_char": 45683,
+    "end_char": 45780
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.3.3",
+    "label": "6.3.3 Se debe contar con estaciones de lavado o de desinfección para el personal, accesibles al área de",
+    "text": "6.3.3 Se debe contar con estaciones de lavado o de desinfección para el personal, accesibles al área de\nproducción.",
+    "start_char": 45784,
+    "end_char": 45899
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.3.4",
+    "label": "6.3.4 Las estaciones de desinfección podrán tener instalación de agua.",
+    "text": "6.3.4 Las estaciones de desinfección podrán tener instalación de agua.",
+    "start_char": 45903,
+    "end_char": 45973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.3.5",
+    "label": "6.3.5 Las estaciones de lavado podrán ser de accionamiento manual y deben estar equipadas con agua,",
+    "text": "6.3.5 Las estaciones de lavado podrán ser de accionamiento manual y deben estar equipadas con agua,\njabón o detergente y desinfectante, toallas desechables o dispositivo de secado por aire caliente y/o depósito\npara toallas con tapa oscilante o con acción de pedal.",
+    "start_char": 45977,
+    "end_char": 46242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-3-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.3.6",
+    "label": "6.3.6 La dirección de la corriente de aire no debe ir nunca de un área sucia a un área limpia.",
+    "text": "6.3.6 La dirección de la corriente de aire no debe ir nunca de un área sucia a un área limpia.",
+    "start_char": 46246,
+    "end_char": 46340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.4",
+    "label": "6.4 Control de operaciones",
+    "text": "6.4 Control de operaciones",
+    "start_char": 46344,
+    "end_char": 46370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.4.1",
+    "label": "6.4.1 Las fábricas deben:",
+    "text": "6.4.1 Las fábricas deben:\n   a)     Identificar las fases de la operación;\n   b)     Generar los procedimientos de las fases de producción;\n   c)     Definir los controles que aseguren la inocuidad del producto en las fases de producción;\n   d)     Supervisar la aplicación de los procedimientos y controles mencionados para asegurar su eficacia;\n   e)     Actualizar los procedimientos de las fases de producción, al menos cuando cambien las operaciones\n          involucradas;\n   f)     Contar con procedimientos que aseguren un control eficaz de la temperatura cuando ésta sea\n          fundamental para la inocuidad de los productos.\n   g)     Monitorear las operaciones como la pasteurización, la cocción, la esterilización, la irradiación, la\n          desecación, el enfriamiento, la congelación, la preservación por medios químicos, la fermentación o\n          cualquier otra que pueda contribuir a la inocuidad del producto.",
+    "start_char": 46374,
+    "end_char": 47307
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.4.2",
+    "label": "6.4.2 Los procedimientos de las fases de producción en el que se detallen las instrucciones o acciones",
+    "text": "6.4.2 Los procedimientos de las fases de producción en el que se detallen las instrucciones o acciones\nnecesarias para llevarlas a cabo de manera reproducible y sistemática deben estar en idioma español.",
+    "start_char": 47311,
+    "end_char": 47514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.4.3",
+    "label": "6.4.3 Todos los instrumentos de control de proceso (medidores de tiempo, temperatura, presión, humedad",
+    "text": "6.4.3 Todos los instrumentos de control de proceso (medidores de tiempo, temperatura, presión, humedad\nrelativa, potenciómetros, flujo, masa, etc.), deben estar en buenas condiciones para evitar desviaciones de los\npatrones de operación.",
+    "start_char": 47519,
+    "end_char": 47756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.4.4",
+    "label": "6.4.4 Durante la fabricación de los alimentos, bebidas o suplementos alimenticios, éstos deben colocarse",
+    "text": "6.4.4 Durante la fabricación de los alimentos, bebidas o suplementos alimenticios, éstos deben colocarse\nen mesas, estibas, tarimas, anaqueles y entrepaños. Cuando por el volumen que se maneje no sea posible lo\nanterior, podrán colocarse sobre superficies limpias que eviten su contaminación.",
+    "start_char": 47760,
+    "end_char": 48052
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.4.5",
+    "label": "6.4.5 En la producción de alimentos, bebidas o suplementos alimenticios, se podrán utilizar dispositivos o",
+    "text": "6.4.5 En la producción de alimentos, bebidas o suplementos alimenticios, se podrán utilizar dispositivos o\nprocedimientos para reducir el riesgo de contaminación por cuerpos extraños, como fragmentos de vidrio o de\nmetal, polvo y sustancias químicas indeseables.",
+    "start_char": 48056,
+    "end_char": 48318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.4.6",
+    "label": "6.4.6 Los controles aplicados deben evitar que se utilicen materias primas en las que puedan existir",
+    "text": "6.4.6 Los controles aplicados deben evitar que se utilicen materias primas en las que puedan existir\npeligros que no puedan reducirse a niveles seguros por los procedimientos normales de inspección,\nclasificación o elaboración.",
+    "start_char": 48323,
+    "end_char": 48550
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.5",
+    "label": "6.5 Control del envasado",
+    "text": "6.5 Control del envasado",
+    "start_char": 48554,
+    "end_char": 48578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.5.1",
+    "label": "6.5.1 El envasado debe hacerse en condiciones tales que se evite la contaminación del producto.",
+    "text": "6.5.1 El envasado debe hacerse en condiciones tales que se evite la contaminación del producto.\n\f   Lunes 1 de marzo de 2010                       DIARIO OFICIAL                             (Primera Sección)",
+    "start_char": 48582,
+    "end_char": 48789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.5.2",
+    "label": "6.5.2 Los envases reutilizables deben ser de fácil limpieza para evitar la contaminación del producto.",
+    "text": "6.5.2 Los envases reutilizables deben ser de fácil limpieza para evitar la contaminación del producto.",
+    "start_char": 48794,
+    "end_char": 48896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.6",
+    "label": "6.6 Documentación y registros",
+    "text": "6.6 Documentación y registros",
+    "start_char": 48900,
+    "end_char": 48929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.6.1",
+    "label": "6.6.1 La fábrica debe contar con los registros e información que se indica en la tabla No. 2. El formato y",
+    "text": "6.6.1 La fábrica debe contar con los registros e información que se indica en la tabla No. 2. El formato y\ndiseño queda bajo la responsabilidad del fabricante y deberán cumplir con lo siguiente:\n   a)     Estar escritos en idioma español;\n   b)     Conservarse por lo menos por un tiempo equivalente a una y media veces la vida de anaquel del\n          producto;\n   c)     Cuando se elaboren por medios electrónicos, deben contar con respaldos que aseguren la\n          información y un control de acceso y correcciones no autorizadas, y\n   d)     Estar a disposición de la autoridad sanitaria cuando así lo requiera.\n                                     Tabla No 2: Documentos y registros\n    Actividad/Etapa            Documento                                   Información\n                          Especificaciones o   Valor de la especificación o cualidad del atributo a ser\n                          criterios de         evaluado.\n                          aceptación o rechazo\n                                               La evaluación se puede realizar en los laboratorios de la\n                                               empresa.\n                                                  Cuando la evaluación se haga por un tercero, éste deberá\n    Recepción de                                  emitir un certificado de calidad que respalde la evaluación.\n  materias primas y Registros, reportes o         El certificado de calidad, reporte o el registro deberá\n  material de envase                              contener al menos:\n    y/o empaque      certificados de\n                     calidad                      Nombre del producto o clave, fecha, proveedor u origen,\n                                                  cantidad, lote y marca (si es el caso), resultado de la\n                                                  evaluación, información que permita identificar a la persona\n                                                  que realizó la evaluación.\n                                                  Cuando se identifiquen con clave, ésta debe permitir la\n                                                  rastreabilidad del producto.\n                          Procedimiento           Ingredientes, cantidades, orden de adición, condiciones\n                          /método de              importantes para la realización de cada operación, controles\n                          fabricación             que deben aplicarse y descripción de las condiciones en que\n                                                  se deben llevar a cabo las fases de producción.\n                          Especificaciones de Especificación o cualidad del atributo a ser evaluado.\n                          aceptación o rechazo\n                          del producto\n                          terminado\n        Fabricación       Registros del control   Producto, lote, fecha, turno, si procede línea y máquina de\n                          de las fases de         envasado, valor de las variables de las fases de producción\n                          producción              (ej. Temperatura, tiempo, presión), información que permita\n                                                  identificar a la persona que realizó la medición.\n                          Producto terminado      Producto, lote, tamaño de lote, resultados de los análisis que\n                                                  se realizan para aceptación del lote, información que permita\n                                                  identificar a la persona que realizó la evaluación.\n                          Sistema de              Codificación que permita la rastreabilidad del producto.\n                          lotificación\n                          Registros de:           Producto, lote, cantidad, fecha.\n                   Entradas y salidas.\n  Almacenamiento y\n     Distribución  Temperatura de                 Fecha, hora, si procede número de equipo de refrigeración o\n                   refrigeración o                congelación, medición de la temperatura.\n                   congelación\n\n  Rechazos (producto Procedimiento                Manejo de producto que no cumpla especificaciones.\n\f        (Primera Sección)                        DIARIO OFICIAL                       Lunes 1 de marzo de 2010\n\n        fuera de            Registros             Producto, lote, cantidad, causa del rechazo, destino, nombre\n    especificaciones)                             de la persona que rechazó.\n                       Programa de                Calendarización donde se indique equipo o instrumento y\n       Equipo e        mantenimiento y            frecuencia.\n instrumentos para el calibración.\n  control de las fases\n    de producción      Registros, reportes o      Identificación del equipo o instrumento, serie, fecha y\n                       certificados.              operación realizada.\n                            Procedimientos         Productos de limpieza usados, concentraciones, enjuagues,\n                            específicos para       orden de aplicación.\n                            instalaciones, equipos\n                            y transporte.\n                            Programa.             Calendarización y frecuencia por área o por equipo, persona\n         Limpieza                                 responsable de llevarlo a cabo.\n                            Registro.             Area o equipo, fecha, hora o turno, información que permita\n                                                  identificar a la persona que lo realizó.\n                                                  Se puede manejar como una lista de cumplimiento o\n                                                  incumplimiento.\n                            Programa              Calendarización y frecuencia.\n                            Registros o           Area donde se aplicó, fecha y hora, información que permita\n   Control de plagas        certificados de       identificar a la persona o empresa que lo realizó, número de\n                            servicio.             licencia, productos utilizados y técnica de aplicación y de ser\n                                                  el caso croquis con la ubicación de estaciones de control y\n                                                  monitoreo.\n                            Programa.             Calendarización.\n                                                  Los temas a incluir serán los establecidos en el numeral\n   Capacitación del\n                                                  5.14.2.\n      personal\n                            Registros o           Fecha, participantes, capacitador         y   constancia    de\n                            constancias.          capacitación de los participantes.",
+    "start_char": 48934,
+    "end_char": 55708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.7",
+    "label": "6.7. Retiro de producto",
+    "text": "6.7. Retiro de producto",
+    "start_char": 55714,
+    "end_char": 55737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.7.1",
+    "label": "6.7.1 Se debe contar con un plan para retirar del mercado cualquier lote identificado de un producto que",
+    "text": "6.7.1 Se debe contar con un plan para retirar del mercado cualquier lote identificado de un producto que\nrepresente un peligro para la salud del consumidor.\n   El plan contendrá:\n   a)     Nombre y teléfono del responsable y contactos;\n   b)     Teléfono para dar información al consumidor.",
+    "start_char": 55741,
+    "end_char": 56031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.7.2",
+    "label": "6.7.2 Los productos retirados deben mantenerse bajo supervisión y resguardo, en un área específica e",
+    "text": "6.7.2 Los productos retirados deben mantenerse bajo supervisión y resguardo, en un área específica e\nidentificada de la empresa hasta que se determinen las acciones pertinentes.",
+    "start_char": 56035,
+    "end_char": 56212
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.7.3",
+    "label": "6.7.3 Se debe contar con registros de cada retiro que se realice que contenga al menos la siguiente",
+    "text": "6.7.3 Se debe contar con registros de cada retiro que se realice que contenga al menos la siguiente\ninformación:\n   a.     Fecha en que se detectó el incidente o problema;\n   b.     Causa del retiro;\n   c.     Producto involucrado (nombre y descripción);\n   d.     Lote del producto involucrado;\n   e.     El lugar donde fue distribuido en primer nivel;\n   f.     Cantidad de producto recuperado;\n   g.     Destino del producto recuperado (temporal y final), y\n   h.     Medidas preventivas y correctivas.",
+    "start_char": 56217,
+    "end_char": 56722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.8",
+    "label": "6.8 Higiene del personal",
+    "text": "6.8 Higiene del personal\n\f   Lunes 1 de marzo de 2010                    DIARIO OFICIAL                              (Primera Sección)",
+    "start_char": 56726,
+    "end_char": 56860
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.8.1",
+    "label": "6.8.1 El personal que entre en contacto directo con materias primas, envase primario, producto en",
+    "text": "6.8.1 El personal que entre en contacto directo con materias primas, envase primario, producto en\nproducción o fabricación y terminado sin envasar, equipos y utensilios, debe observar las indicaciones\nsiguientes:\n   a)   Presentarse aseado al área de trabajo, con ropa y calzado limpios, cabello corto o recogido y uñas\n        recortadas y sin esmalte;\n   b)   No se permite el uso de joyería, ni adornos en manos, cara incluyendo boca y lengua, orejas, cuello o\n        cabeza;\n   c)   Prescindir de plumas, lapiceros, termómetros, sujetadores u otros objetos desprendibles en los\n        bolsillos superiores de la vestimenta en las áreas de producción.\n   d)   El personal y los visitantes deben utilizar protección que cubra totalmente cabello, barba y bigote, así\n        como ropa protectora.",
+    "start_char": 56866,
+    "end_char": 57665
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.8.2",
+    "label": "6.8.2 Al inicio de la jornada de trabajo el cubrepelo y el cubreboca deben estar limpios y en buen estado.",
+    "text": "6.8.2 Al inicio de la jornada de trabajo el cubrepelo y el cubreboca deben estar limpios y en buen estado.",
+    "start_char": 57669,
+    "end_char": 57775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.9",
+    "label": "6.9 Información sobre el producto",
+    "text": "6.9 Información sobre el producto",
+    "start_char": 57779,
+    "end_char": 57812
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.9.1",
+    "label": "6.9.1 Los productos preenvasados deben contar con una clave para identificar el lote.",
+    "text": "6.9.1 Los productos preenvasados deben contar con una clave para identificar el lote.",
+    "start_char": 57816,
+    "end_char": 57901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:6-9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "6.9.2",
+    "label": "6.9.2 Los productos preenvasados para transporte o distribución deben estar identificados.",
+    "text": "6.9.2 Los productos preenvasados para transporte o distribución deben estar identificados.",
+    "start_char": 57905,
+    "end_char": 57995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7",
+    "label": "7. Establecimiento de servicio de alimentos o bebidas",
+    "text": "7. Establecimiento de servicio de alimentos o bebidas\n   Los establecimientos de servicios de alimentos o bebidas además de cumplir con lo establecido en el\ncapítulo 5, deben cumplir con este capítulo:",
+    "start_char": 57999,
+    "end_char": 58200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.1",
+    "label": "7.1 Equipo y utensilios",
+    "text": "7.1 Equipo y utensilios",
+    "start_char": 58204,
+    "end_char": 58227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.1.1",
+    "label": "7.1.1 Las barras de servicio para buffet y venta de alimentos preparados, deben contar con las",
+    "text": "7.1.1 Las barras de servicio para buffet y venta de alimentos preparados, deben contar con las\ninstalaciones necesarias para mantener los alimentos a las temperaturas señaladas en el punto 7.3.3 de este\nordenamiento.",
+    "start_char": 58232,
+    "end_char": 58448
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.2",
+    "label": "7.2. Instalaciones de Servicios",
+    "text": "7.2. Instalaciones de Servicios",
+    "start_char": 58452,
+    "end_char": 58483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.2.1",
+    "label": "7.2.1 Debe haber instalaciones para la limpieza de los alimentos, utensilios y equipos que dispongan de un",
+    "text": "7.2.1 Debe haber instalaciones para la limpieza de los alimentos, utensilios y equipos que dispongan de un\nabastecimiento suficiente de agua potable y usarse de forma tal que se evite la contaminación de las materias\nprimas, alimentos o bebidas.",
+    "start_char": 58488,
+    "end_char": 58733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.2.2",
+    "label": "7.2.2 En el área de elaboración debe contarse con una estación de lavado y desinfección de manos,",
+    "text": "7.2.2 En el área de elaboración debe contarse con una estación de lavado y desinfección de manos,\nprovista de jabón o detergente y desinfectante, secador de aire caliente o toallas desechables y depósito para\nbasura.",
+    "start_char": 58737,
+    "end_char": 58953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.3",
+    "label": "7.3 Control de la Temperatura",
+    "text": "7.3 Control de la Temperatura",
+    "start_char": 58957,
+    "end_char": 58986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.3.1",
+    "label": "7.3.1 La temperatura mínima interna de cocción de los alimentos debe ser de al menos:",
+    "text": "7.3.1 La temperatura mínima interna de cocción de los alimentos debe ser de al menos:\n   a)   63°C (145°F) para pescado; carne de res en trozo; y huevo de cascarón que ha sido quebrado para\n        cocinarse y de consumo inmediato a solicitud del consumidor.\n   b)   68°C (154°F) para carne de cerdo en trozo; carnes molidas de res, cerdo o pescado; carnes\n        inyectadas y huevo de cascarón que ha sido quebrado para cocinarse y exhibirse en una barra de\n        buffet.\n   c)   74°C (165°F) para embutidos de pescado, res, cerdo o pollo; rellenos de pescado, res, cerdo o aves;\n        carne de aves.",
+    "start_char": 58990,
+    "end_char": 59596
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.3.2",
+    "label": "7.3.2 Si se llegase a recalentar algún alimento preparado, debe alcanzar una temperatura de por lo menos",
+    "text": "7.3.2 Si se llegase a recalentar algún alimento preparado, debe alcanzar una temperatura de por lo menos\n74°C (165°F).",
+    "start_char": 59600,
+    "end_char": 59718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.3.3",
+    "label": "7.3.3 Los alimentos preparados y listos para servir y los que se encuentran en barras de exhibición,",
+    "text": "7.3.3 Los alimentos preparados y listos para servir y los que se encuentran en barras de exhibición,\ndeberán cumplir con lo siguiente:\n   a) Los que se sirven calientes mantenerse a una temperatura mayor a 60°C (140°F), y\n   b) Los que se sirven fríos a una temperatura de 7°C (45°F) o menos.",
+    "start_char": 59722,
+    "end_char": 60014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.4",
+    "label": "7.4 Control de la Manipulación",
+    "text": "7.4 Control de la Manipulación\n\f        (Primera Sección)                         DIARIO OFICIAL                      Lunes 1 de marzo de 2010",
+    "start_char": 60018,
+    "end_char": 60160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.4.1",
+    "label": "7.4.1 La manipulación de alimentos debe cumplir con lo señalado a continuación:",
+    "text": "7.4.1 La manipulación de alimentos debe cumplir con lo señalado a continuación:\n   a)     Conforme al tipo de alimentos que se manipulen para su preparación, éstos deben estar expuestos a\n          la temperatura ambiente el menor tiempo posible.\n   b)     La descongelación de los alimentos se debe efectuar por refrigeración, por cocción o bien por\n          exposición a microondas.\n   c)     Se debe evitar en todos los casos la descongelación a temperatura ambiente; en caso de aplicarse la\n          descongelación con agua, ésta debe ser a “chorro de agua fría” evitando estancamientos.\n   d)     Los alimentos que se descongelen no deben volverse a congelar.\n   e)     Los alimentos frescos se deben lavar individualmente.\n   f)     Los vegetales, frutas y sus partes se deben lavar con agua, jabón, estropajo o cepillo según el caso y\n          se deben desinfectar con cloro o cualquier otro desinfectante de uso alimenticio. De acuerdo al\n          producto que se emplee, se deben cumplir estrictamente con las instrucciones señaladas por el\n          fabricante.\n   g)     Cuando se utilicen vísceras para la preparación de alimentos, deben lavarse interna y externamente\n          y conservarse en refrigeración o congelación.",
+    "start_char": 60165,
+    "end_char": 61405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.4.2",
+    "label": "7.4.2 Los productos de la pesca frescos deben recibirse a una temperatura máxima de 4°C (39.2°F) o a",
+    "text": "7.4.2 Los productos de la pesca frescos deben recibirse a una temperatura máxima de 4°C (39.2°F) o a\nuna máxima de – 9°C (15.8°F) los congelados. Con excepción de los productos vivos que pueden recibirse a\n7°C (45°F).",
+    "start_char": 61409,
+    "end_char": 61626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.4.3",
+    "label": "7.4.3. Cualquier producto alimenticio o bebida rechazado debe estar marcado, separado del resto de los",
+    "text": "7.4.3. Cualquier producto alimenticio o bebida rechazado debe estar marcado, separado del resto de los\nalimentos o bebidas y eliminarse lo antes posible.",
+    "start_char": 61631,
+    "end_char": 61784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.4.4",
+    "label": "7.4.4 Cuando no se cuente con la documentación referida en el numeral 5.8.1 que demuestre la",
+    "text": "7.4.4 Cuando no se cuente con la documentación referida en el numeral 5.8.1 que demuestre la\npotabilidad del agua para elaborar hielo o preparar alimentos o bebidas que no van a ser sometidas a cocción,\nésta debe ser hervida, desinfectada o purificada.",
+    "start_char": 61788,
+    "end_char": 62040
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.4.5",
+    "label": "7.4.5 El agua y hielo potables deben mantenerse en recipientes lisos, lavables y con tapa.",
+    "text": "7.4.5 El agua y hielo potables deben mantenerse en recipientes lisos, lavables y con tapa.",
+    "start_char": 62044,
+    "end_char": 62134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.4.6",
+    "label": "7.4.6 El hielo destinado a enfriamiento de botellas, copas o tarros no debe utilizarse para consumo",
+    "text": "7.4.6 El hielo destinado a enfriamiento de botellas, copas o tarros no debe utilizarse para consumo\nhumano.",
+    "start_char": 62138,
+    "end_char": 62245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.4.7",
+    "label": "7.4.7 El hielo potable debe servirse únicamente con cucharones o pinzas específicas para este efecto. No",
+    "text": "7.4.7 El hielo potable debe servirse únicamente con cucharones o pinzas específicas para este efecto. No\nse permite el uso de utensilios de vidrio, ni el contacto directo con las manos.",
+    "start_char": 62249,
+    "end_char": 62434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.4.8",
+    "label": "7.4.8 En la exhibición de alimentos preparados, éstos deben permanecer cubiertos a fin de evitar su",
+    "text": "7.4.8 En la exhibición de alimentos preparados, éstos deben permanecer cubiertos a fin de evitar su\ncontaminación.",
+    "start_char": 62438,
+    "end_char": 62552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.4.9",
+    "label": "7.4.9 Se prohíbe el uso de desperdicios de alimentos para consumo humano.",
+    "text": "7.4.9 Se prohíbe el uso de desperdicios de alimentos para consumo humano.",
+    "start_char": 62556,
+    "end_char": 62629
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.4.10",
+    "label": "7.4.10 Los sobrantes de alimentos del día sólo podrán reutilizarse una sola vez, cuando se encuentren en",
+    "text": "7.4.10 Los sobrantes de alimentos del día sólo podrán reutilizarse una sola vez, cuando se encuentren en\nbuen estado y se utilicen en alimentos que van a ser sometidos a cocción.",
+    "start_char": 62633,
+    "end_char": 62811
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.4.11",
+    "label": "7.4.11 Cuando se proceda a probar la sazón de los alimentos o bebidas, se debe utilizar para este fin",
+    "text": "7.4.11 Cuando se proceda a probar la sazón de los alimentos o bebidas, se debe utilizar para este fin\nrecipientes o utensilios específicos o desechables.",
+    "start_char": 62816,
+    "end_char": 62969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.5",
+    "label": "7.5 Limpieza",
+    "text": "7.5 Limpieza",
+    "start_char": 62973,
+    "end_char": 62985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.5.1",
+    "label": "7.5.1 Debe realizarse la limpieza de equipo y utensilios al finalizar las actividades diarias o en los cambios",
+    "text": "7.5.1 Debe realizarse la limpieza de equipo y utensilios al finalizar las actividades diarias o en los cambios\nde turno. Además los que estén en contacto directo con los alimentos y bebidas deberán desinfectarse.",
+    "start_char": 62990,
+    "end_char": 63202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.5.2",
+    "label": "7.5.2 Los equipos desarmables que estén en contacto con los alimentos o bebidas para su lavado deberán",
+    "text": "7.5.2 Los equipos desarmables que estén en contacto con los alimentos o bebidas para su lavado deberán\ndesarmarse, lavarse y desinfectarse al final de la jornada.",
+    "start_char": 63206,
+    "end_char": 63368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.5.3",
+    "label": "7.5.3 En el caso de contar con triturador de alimentos, éste se debe mantener limpio, libre de restos de",
+    "text": "7.5.3 En el caso de contar con triturador de alimentos, éste se debe mantener limpio, libre de restos de\ncomida y con la protección adecuada.",
+    "start_char": 63372,
+    "end_char": 63513
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.5.4",
+    "label": "7.5.4 Las sillas, mesas, barra, pisos, paredes, techos, lámparas y demás equipo y mobiliario se deben",
+    "text": "7.5.4 Las sillas, mesas, barra, pisos, paredes, techos, lámparas y demás equipo y mobiliario se deben\nconservar en buen estado y limpios.",
+    "start_char": 63517,
+    "end_char": 63654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.5.5",
+    "label": "7.5.5 Las áreas de servicio y comedor deben cumplir con las siguientes disposiciones:",
+    "text": "7.5.5 Las áreas de servicio y comedor deben cumplir con las siguientes disposiciones:\n   a)     Los utensilios de servicio deben estar limpios;\n   b)     Al inicio del servicio, los manteles deben estar limpios;\n\f   Lunes 1 de marzo de 2010                     DIARIO OFICIAL                              (Primera Sección)\n\n   c)   En caso de utilizar servilletas de tela, éstas deben ser reemplazadas por servilletas limpias para cada\n        consumidor;\n   d)   Las superficies de las mesas se deben limpiar después de cada servicio, así como limpiar y\n        desinfectar al final de la jornada;\n   e)   Los cubiertos se deben manipular por los mangos y evitar tocar las partes que están en contacto con\n        los alimentos o bebidas;\n   f)   No se deben colocar los dedos en partes de vasos, tazas, platos, palillos y popotes que estarán en\n        contacto con los alimentos o bebidas o con la boca del comensal.",
+    "start_char": 63658,
+    "end_char": 64577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.5.6",
+    "label": "7.5.6 El lavado de loza y cubiertos se debe hacer mediante el siguiente procedimiento:",
+    "text": "7.5.6 El lavado de loza y cubiertos se debe hacer mediante el siguiente procedimiento:\n   a)   Escamochar, se debe realizar antes de iniciar el lavado.\n   b)   Lavar pieza por pieza con agua y detergente o jabón líquido o en pasta u otros similares para este\n        fin.\n   c)   Enjuagar con agua potable.\n   d)   Cuando proceda, desinfectar mediante inmersión en agua caliente a una temperatura de 75 a 82°C\n        por lo menos durante medio minuto o con yodo o cloro de acuerdo a las instrucciones del fabricante o\n        de procedimientos internos que garanticen su efectividad.",
+    "start_char": 64581,
+    "end_char": 65165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.5.7",
+    "label": "7.5.7 Los establecimientos podrán contar con un equipo mecánico para el lavado de loza. En caso de",
+    "text": "7.5.7 Los establecimientos podrán contar con un equipo mecánico para el lavado de loza. En caso de\ncontar con máquina lavaloza, ésta debe funcionar de acuerdo a las recomendaciones del fabricante.",
+    "start_char": 65169,
+    "end_char": 65365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.5.8",
+    "label": "7.5.8 El secado de vajillas, vasos o cubiertos que no se laven automáticamente se debe hacer a",
+    "text": "7.5.8 El secado de vajillas, vasos o cubiertos que no se laven automáticamente se debe hacer a\ntemperatura ambiente o se pueden emplear toallas de papel desechable. En el caso de que se utilicen trapos,\néstos deben estar limpios, ser de colores claros y exclusivos para este fin.",
+    "start_char": 65369,
+    "end_char": 65648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.5.9",
+    "label": "7.5.9 Los trapos y jergas deben lavarse y desinfectarse con la frecuencia requerida de manera que no",
+    "text": "7.5.9 Los trapos y jergas deben lavarse y desinfectarse con la frecuencia requerida de manera que no\nconstituyan una fuente de contaminación.",
+    "start_char": 65652,
+    "end_char": 65793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-5-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.5.10",
+    "label": "7.5.10 Se deben utilizar jergas y trapos exclusivos:",
+    "text": "7.5.10 Se deben utilizar jergas y trapos exclusivos:\n   a)   Para las superficies en contacto directo con los alimentos;\n   b)   Para la limpieza de mesas y superficies de trabajo;\n   c)   Para la limpieza de mesas en el área de comensales, y\n   d)   Para la limpieza de pisos e instalaciones.",
+    "start_char": 65797,
+    "end_char": 66090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.6",
+    "label": "7.6 Higiene del Personal",
+    "text": "7.6 Higiene del Personal",
+    "start_char": 66094,
+    "end_char": 66118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.6.1",
+    "label": "7.6.1 Al iniciar la jornada de trabajo, el uniforme o vestimenta debe estar limpio.",
+    "text": "7.6.1 Al iniciar la jornada de trabajo, el uniforme o vestimenta debe estar limpio.",
+    "start_char": 66122,
+    "end_char": 66205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.6.2",
+    "label": "7.6.2 El personal que prepare o sirva alimentos o bebidas debe presentarse aseado al área de trabajo, con",
+    "text": "7.6.2 El personal que prepare o sirva alimentos o bebidas debe presentarse aseado al área de trabajo, con\nel uniforme o vestimenta y calzado limpios. El personal que elabore los alimentos deberá adicionalmente traer\nel cabello corto o recogido, con uñas recortadas y sin esmalte, sin joyería y utilizar protección que cubra\ntotalmente cabello, barba, bigote y patilla recortada.",
+    "start_char": 66210,
+    "end_char": 66588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:7-6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "7.6.3",
+    "label": "7.6.3 Si el personal que elabora alimentos o bebidas manipula dinero, debe utilizar guante o protección de",
+    "text": "7.6.3 Si el personal que elabora alimentos o bebidas manipula dinero, debe utilizar guante o protección de\nplástico para evitar el contacto directo de las manos con el dinero.",
+    "start_char": 66593,
+    "end_char": 66768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8",
+    "label": "8. Expendio",
+    "text": "8. Expendio\n    Los expendios de alimentos, bebidas o suplementos alimenticios además de cumplir con lo establecido en\nel capítulo 5, en lo aplicable, deben cumplir con este capítulo:",
+    "start_char": 66772,
+    "end_char": 66955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.1",
+    "label": "8.1 Instalaciones y áreas",
+    "text": "8.1 Instalaciones y áreas",
+    "start_char": 66959,
+    "end_char": 66984
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.1.1",
+    "label": "8.1.1 Debe existir una separación entre las áreas de producción o elaboración y expendio.",
+    "text": "8.1.1 Debe existir una separación entre las áreas de producción o elaboración y expendio.",
+    "start_char": 66988,
+    "end_char": 67077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.1.2",
+    "label": "8.1.2 Los establecimientos que expenden diferentes tipos de productos deben evitar la contaminación",
+    "text": "8.1.2 Los establecimientos que expenden diferentes tipos de productos deben evitar la contaminación\ncruzada.",
+    "start_char": 67081,
+    "end_char": 67189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.2",
+    "label": "8.2 Control de operaciones",
+    "text": "8.2 Control de operaciones",
+    "start_char": 67193,
+    "end_char": 67219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.2.1",
+    "label": "8.2.1 En los exhibidores no deben estar en contacto directo los alimentos procesados de los no",
+    "text": "8.2.1 En los exhibidores no deben estar en contacto directo los alimentos procesados de los no\nprocesados, aun cuando requieran de las mismas condiciones de temperatura o humedad para su\nconservación.\n\f      (Primera Sección)                       DIARIO OFICIAL                        Lunes 1 de marzo de 2010",
+    "start_char": 67223,
+    "end_char": 67533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.2.2",
+    "label": "8.2.2 Los productos que se encuentren en exhibición para venta deben estar sujetos a una rotación",
+    "text": "8.2.2 Los productos que se encuentren en exhibición para venta deben estar sujetos a una rotación\nefectiva de existencias mediante un sistema PEPS.",
+    "start_char": 67538,
+    "end_char": 67685
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.2.3",
+    "label": "8.2.3 En los mostradores para exhibición y venta en donde se utilice hielo para conservar los productos,",
+    "text": "8.2.3 En los mostradores para exhibición y venta en donde se utilice hielo para conservar los productos,\ndebe mantenerse el nivel de hielo y contar con un sistema de drenaje de agua de deshielo.",
+    "start_char": 67689,
+    "end_char": 67883
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.2.4",
+    "label": "8.2.4 Los establecimientos y tiendas de autoservicio que expendan alimentos para consumo fuera del",
+    "text": "8.2.4 Los establecimientos y tiendas de autoservicio que expendan alimentos para consumo fuera del\nmismo, deben utilizar envases desechables.",
+    "start_char": 67887,
+    "end_char": 68028
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-2-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.2.5",
+    "label": "8.2.5 Las superficies de manipulación, corte y empaque deben lavarse y desinfectarse por lo menos al",
+    "text": "8.2.5 Las superficies de manipulación, corte y empaque deben lavarse y desinfectarse por lo menos al\ninicio y al final de cada turno.",
+    "start_char": 68033,
+    "end_char": 68166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.3",
+    "label": "8.3 Comportamiento del personal",
+    "text": "8.3 Comportamiento del personal",
+    "start_char": 68170,
+    "end_char": 68201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.3.1",
+    "label": "8.3.1 Los productos a granel deben ser despachados en forma que se evite el contacto directo con las",
+    "text": "8.3.1 Los productos a granel deben ser despachados en forma que se evite el contacto directo con las\nmanos.",
+    "start_char": 68204,
+    "end_char": 68311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.3.2",
+    "label": "8.3.2 Si el personal que expende alimentos o bebidas sin envasar manipula dinero, debe utilizar guante o",
+    "text": "8.3.2 Si el personal que expende alimentos o bebidas sin envasar manipula dinero, debe utilizar guante o\nprotección de plástico para evitar el contacto directo de las manos con el dinero.",
+    "start_char": 68316,
+    "end_char": 68503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.4",
+    "label": "8.4 Información al consumidor",
+    "text": "8.4 Información al consumidor",
+    "start_char": 68507,
+    "end_char": 68536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.4.1",
+    "label": "8.4.1 Los productos preenvasados para venta deben ostentar etiquetas que identifiquen al producto.",
+    "text": "8.4.1 Los productos preenvasados para venta deben ostentar etiquetas que identifiquen al producto.",
+    "start_char": 68540,
+    "end_char": 68638
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:8-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "8.4.2",
+    "label": "8.4.2 En el área de expendio de los productos refrigerados se debe ostentar de manera clara y visible un",
+    "text": "8.4.2 En el área de expendio de los productos refrigerados se debe ostentar de manera clara y visible un\nletrero donde figure la siguiente leyenda “Conserve el producto en refrigeración” o análoga.",
+    "start_char": 68643,
+    "end_char": 68840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "9",
+    "label": "9. Concordancia con normas internacionales",
+    "text": "9. Concordancia con normas internacionales\n   Esta Norma Oficial Mexicana concuerda parcialmente con el Código Internacional Recomendado de\nPrácticas. Principios Generales de Higiene de los Alimentos. CAC/RCP-1 (1969), Rev. 4 (2003).",
+    "start_char": 68844,
+    "end_char": 69077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10",
+    "label": "10. Bibliografía",
+    "text": "10. Bibliografía",
+    "start_char": 69081,
+    "end_char": 69097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.1",
+    "label": "10.1 Almeida C., Schuch D., Gelli D., Cuéllar J.A., Diez A.V., Escamilla J.A. Microbial Contamination of",
+    "text": "10.1 Almeida C., Schuch D., Gelli D., Cuéllar J.A., Diez A.V., Escamilla J.A. Microbial Contamination of\nstreet foods sold in Latin America and socioeconomic characteristics of their vendors and consumers. Pan\nAmerican Institute for Food Protection and Zoonoses Veterinary Public Health Program. World Health\nOrganization. 1996.",
+    "start_char": 69102,
+    "end_char": 69430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.2",
+    "label": "10.2    Center    of    Disease   Control.     Procedimiento     para      el     lavado     de    manos.",
+    "text": "10.2    Center    of    Disease   Control.     Procedimiento     para      el     lavado     de    manos.\nhttp://www.cdc.gov/ncidod/op/handwashing.htm.",
+    "start_char": 69435,
+    "end_char": 69586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.3",
+    "label": "10.3 Comisión del Codex Alimentarius “Código internacional. Recomendado de Prácticas. Principios",
+    "text": "10.3 Comisión del Codex Alimentarius “Código internacional. Recomendado de Prácticas. Principios\nGenerales de Higiene de los Alimentos”, CAC/RCP 1-1969, Rev. 4 (2003).",
+    "start_char": 69589,
+    "end_char": 69756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.4",
+    "label": "10.4 Instituto Nacional de la Nutrición Salvador Zubirán. Encuesta Urbana de Alimentación y Nutrición",
+    "text": "10.4 Instituto Nacional de la Nutrición Salvador Zubirán. Encuesta Urbana de Alimentación y Nutrición\n1995.",
+    "start_char": 69760,
+    "end_char": 69867
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.5",
+    "label": "10.5 Fernández, E. 2000. Microbiología e Inocuidad de los Alimentos. Editorial Universidad de Querétaro.",
+    "text": "10.5 Fernández, E. 2000. Microbiología e Inocuidad de los Alimentos. Editorial Universidad de Querétaro.\nMéxico.",
+    "start_char": 69870,
+    "end_char": 69982
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.6",
+    "label": "10.6 Food and Drug Administration. “Bad Bug Book” http://vm.cfsan.fda.gov",
+    "text": "10.6 Food and Drug Administration. “Bad Bug Book” http://vm.cfsan.fda.gov",
+    "start_char": 69986,
+    "end_char": 70059
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.7",
+    "label": "10.7 International Commission Microbiological Specifications of Foods. Ecología Microbiana de los",
+    "text": "10.7 International Commission Microbiological Specifications of Foods. Ecología Microbiana de los\nAlimentos. Ed. Acribia. España p. 697",
+    "start_char": 70064,
+    "end_char": 70199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.8",
+    "label": "10.8 Ley General de Salud, última Reforma. México, D.F.",
+    "text": "10.8 Ley General de Salud, última Reforma. México, D.F.",
+    "start_char": 70203,
+    "end_char": 70258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.9",
+    "label": "10.9 Organización Panamericana de la Salud. INNPAZ http://www.panalimentos.org",
+    "text": "10.9 Organización Panamericana de la Salud. INNPAZ http://www.panalimentos.org",
+    "start_char": 70262,
+    "end_char": 70340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.10",
+    "label": "10.10 Pan American Health Organization. Division of Disease Prevention and Control. Microbial",
+    "text": "10.10 Pan American Health Organization. Division of Disease Prevention and Control. Microbial\ncontamination of street foods sold in Latin America and socioeconomic characteristics of their vendors and\nconsumers. 1996 OPS/HCP/HCV/96.2",
+    "start_char": 70344,
+    "end_char": 70577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.11",
+    "label": "10.11 Reglamento de Control Sanitario de Productos y Servicios. México, D.F.",
+    "text": "10.11 Reglamento de Control Sanitario de Productos y Servicios. México, D.F.",
+    "start_char": 70581,
+    "end_char": 70657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.12",
+    "label": "10.12 Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades,",
+    "text": "10.12 Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades,\nEstablecimientos, Productos y Servicios. México, D.F.",
+    "start_char": 70661,
+    "end_char": 70806
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.13",
+    "label": "10.13 Sistema Nacional de Vigilancia Epidemiológica. http://www.dgepi.salud.gob.mx",
+    "text": "10.13 Sistema Nacional de Vigilancia Epidemiológica. http://www.dgepi.salud.gob.mx",
+    "start_char": 70810,
+    "end_char": 70892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:10-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "10.14",
+    "label": "10.14 U.S. Government printing office. Washington Office of the Federal Register. 1990. Code of Federal",
+    "text": "10.14 U.S. Government printing office. Washington Office of the Federal Register. 1990. Code of Federal\nRegulations. 21.110 Current Good Manufacturing Practices.\n\f    Lunes 1 de marzo de 2010                              DIARIO OFICIAL                                       (Primera Sección)",
+    "start_char": 70896,
+    "end_char": 71187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "11",
+    "label": "11. Observancia de la Norma",
+    "text": "11. Observancia de la Norma\n   La vigilancia del cumplimiento de la presente Norma corresponde a la Secretaría de Salud y a los\ngobiernos de las entidades federativas, en el ámbito de sus respectivas competencias.",
+    "start_char": 71193,
+    "end_char": 71406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-251-ssa1-2009",
+    "number": "12",
+    "label": "12. Vigencia",
+    "text": "12. Vigencia\n   La presente Norma Oficial Mexicana entrará en vigor con su carácter de obligatoria a los 270 días\nposteriores a la fecha de su publicación en el Diario Oficial de la Federación.\n    La presente Norma Oficial Mexicana cancela las normas oficiales mexicanas NOM-120-SSA1-1994,\nBienes y servicios. Prácticas de higiene y sanidad para el proceso de alimentos, bebidas no alcohólicas y\nalcohólicas y la NOM-093-SSA1-1994, Bienes y Servicios. Prácticas de higiene y sanidad en la preparación de\nalimentos que se ofrecen en establecimientos fijos, publicadas en el Diario Oficial de la Federación el 28 de\nagosto de 1995 y 4 de octubre de 1995, respectivamente.",
+    "start_char": 71411,
+    "end_char": 72081
+  }
+]

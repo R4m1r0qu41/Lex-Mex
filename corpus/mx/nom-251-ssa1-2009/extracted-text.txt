@@ -1,0 +1,1331 @@
+      (Primera Sección)                          DIARIO OFICIAL                         Lunes 1 de marzo de 2010
+
+
+                                    SECRETARIA DE SALUD
+NORMA Oficial Mexicana NOM-251-SSA1-2009, Prácticas de higiene para el proceso de alimentos, bebidas o
+suplementos alimenticios.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Salud.
+    MIGUEL ANGEL TOSCANO VELASCO, Comisionado Federal para la Protección contra Riesgos
+Sanitarios y Presidente del Comité Consultivo Nacional de Normalización de Regulación y Fomento Sanitario,
+con fundamento en los artículos 39 fracción XXI de la Ley Orgánica de la Administración Pública Federal; 4o.
+de la Ley Federal de Procedimiento Administrativo; 3 fracción XXIV, 13 apartado A fracciones I y II, 17 Bis
+fracciones II y III; 17 Bis 2; 194 fracción I, 195, 197, 199, 201, 205, 210, 214 y 215 de la Ley General de Salud;
+38 fracción II, 40 fracciones I y II, V, XI, XII y XIII, 41, 43 y 47 fracción IV de la Ley Federal sobre Metrología y
+Normalización; 1, 4, 8, 13, 15, 28, 30, 210 y quinto transitorio del Reglamento de Control Sanitario de
+Productos y Servicios; 28 del Reglamento de la Ley Federal sobre Metrología y Normalización; 2 literal C
+fracción X del Reglamento Interior de la Secretaría de Salud y 3 fracción I inciso c y d, fracción II, 10
+fracciones IV y VIII del Reglamento de la Comisión Federal para la Protección contra Riesgos Sanitarios, me
+permito ordenar la publicación en el Diario Oficial de la Federación de la Norma Oficial Mexicana NOM-251-
+SSA1-2009, Prácticas de higiene para el proceso de alimentos, bebidas o suplementos alimenticios.
+                                                CONSIDERANDO
+   Que en cumplimiento a lo previsto en el artículo 46 fracción I de la Ley Federal sobre Metrología y
+Normalización, el Subcomité de Productos y Servicios presentó en el año de 2007 al Comité Consultivo
+Nacional de Normalización de Regulación y Fomento Sanitario, el anteproyecto de norma oficial mexicana.
+    Que con fecha 10 de octubre de 2008, en cumplimiento del acuerdo del Comité y lo previsto en el artículo
+47 fracción I de la Ley Federal sobre Metrología y Normalización, se publicó el Proyecto de Norma Oficial
+Mexicana NOM-251-SSA1-2007, Prácticas de higiene para el proceso de alimentos, bebidas o suplementos
+alimenticios, en el Diario Oficial de la Federación, a efecto que dentro los sesenta días naturales posteriores a
+dicha publicación, los interesados presentaran sus comentarios al Comité Consultivo Nacional de
+Normalización de Regulación y Fomento Sanitario.
+   Que con fecha previa, fueron publicadas en el Diario Oficial de la Federación, las respuestas a los
+comentarios recibidos por el mencionado Comité, en los términos del artículo 47 fracción III de la Ley Federal
+sobre Metrología y Normalización.
+   Que en atención a las anteriores consideraciones, contando con la aprobación del Comité Consultivo
+Nacional de Normalización de regulación y Fomento Sanitario, se expide la siguiente:
+ NORMA OFICIAL MEXICANA NOM-251-SSA1-2009, PRACTICAS DE HIGIENE PARA EL PROCESO DE
+                 ALIMENTOS, BEBIDAS O SUPLEMENTOS ALIMENTICIOS
+                                                    PREFACIO
+    En la elaboración de la presente Norma Oficial Mexicana participaron los siguientes organismos e
+instituciones:
+   SECRETARIA DE SALUD
+
+   Comisión Federal para la Protección contra Riesgos Sanitarios
+   Sistema Federal Sanitario
+   CONFEDERACION DE CAMARAS INDUSTRIALES
+
+   CAMARA NACIONAL DE LA INDUSTRIA DE LA CERVEZA Y DE LA MALTA
+
+   CAMARA NACIONAL DE INDUSTRIALES DE LA LECHE
+
+   CAMARA NACIONAL DE LA INDUSTRIA DE LA TRANSFORMACION
+
+   CAMARA NACIONAL DE LA INDUSTRIA DE CONSERVAS ALIMENTICIAS
+
+   CAMARA NACIONAL DE LA INDUSTRIA DE RESTAURANTES Y ALIMENTOS CONDIMENTADOS
+
+   CAMARA NACIONAL DE LA INDUSTRIA PANIFICADORA Y SIMILARES DE MEXICO
+Lunes 1 de marzo de 2010                    DIARIO OFICIAL                   (Primera Sección)
+
+CAMARA NACIONAL DE LAS INDUSTRIAS PESQUERA Y ACUICOLA
+
+PROCURADURIA FEDERAL DEL CONSUMIDOR
+
+Unidad de Investigación Química-Biológica
+INSTITUTO POLITECNICO NACIONAL
+
+Escuela Nacional de Ciencias Biológicas
+INSTITUTO MEXICANO DEL SEGURO SOCIAL
+
+Coordinación de Guarderías
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO
+
+Facultad de Química
+Programa Universitario de Alimentos
+ASOCIACION NACIONAL DE TIENDAS DE AUTOSERVICIO Y DEPARTAMENTALES, A.C.
+
+ASOCIACION NACIONAL DE VITIVINICULTORES, A.C.
+
+ASOCIACION NACIONAL DE ESTABLECIMIENTOS TIPO INSPECCION FEDERAL, A.C.
+
+ASOCIACION NACIONAL DE FABRICANTES DE CHOCOLATES, DULCES Y SIMILARES, A.C.
+
+ASOCIACION NACIONAL DE LA INDUSTRIA DE PRODUCTOS NATURALES, A.C.
+
+ASOCIACION MEXICANA DE VENTAS DIRECTAS, A.C.
+
+ASOCIACION MEXICANA DE LA INDUSTRIA SALINERA, A.C.
+
+ASOCIACION NACIONAL DE PRODUCTORES DE REFRESCOS Y AGUAS CARBONATADAS, A.C.
+
+CONFEDERACION NACIONAL GANADERA
+
+CONFEDERACION NACIONAL DE PORCICULTORES
+
+CONSEJO MEXICANO DE LA CARNE
+
+ORGANIZACION MEXICANA DE CERTIFICACION DE GANADO BOVINO, A.C.
+
+SOCIEDAD DE NUTRIOLOGIA, A.C.
+
+SECRETARIA DE TURISMO
+
+UNION NACIONAL DE AVICULTORES
+
+                                                INDICE
+1.    Objetivo y campo de aplicación
+2.    Referencias
+3.    Definiciones
+4.    Símbolos y abreviaturas
+5.    Disposiciones generales
+6.    Fábricas de alimentos, bebidas o suplementos alimenticios
+7.    Establecimientos de servicios de alimentos o bebidas
+8.    Expendios
+9.    Concordancia con normas internacionales
+10.   Bibliografía
+11.   Observancia de la norma
+12.   Vigencia
+1. Objetivo y campo de aplicación
+      (Primera Sección)                        DIARIO OFICIAL                      Lunes 1 de marzo de 2010
+
+   1.1 Esta Norma Oficial Mexicana establece los requisitos mínimos de buenas prácticas de higiene que
+deben observarse en el proceso de alimentos, bebidas o suplementos alimenticios y sus materias primas a fin
+de evitar su contaminación a lo largo de su proceso.
+    1.2 Esta Norma Oficial Mexicana es de observancia obligatoria para las personas físicas o morales que se
+dedican al proceso de alimentos, bebidas o suplementos alimenticios, destinados a los consumidores en
+territorio nacional.
+   2. Referencias
+   Esta Norma se complementa con la siguiente norma oficial mexicana o la que la sustituya:
+   Modificación a la NOM-127-SSA1-1994, Salud ambiental. Agua para uso y consumo humano. Límites
+permisibles de calidad y tratamientos a que debe someterse el agua para su potabilización.
+   3. Definiciones
+   3.1 Agua para uso y consumo humano (agua potable), agua que no contiene contaminantes objetables,
+químicos o agentes infecciosos y que no causa efectos nocivos para la salud.
+    3.2 Alimentos preparados, los que se someten a un procedimiento mecánico como picado, mezclado,
+entre otros; físico-químico como calor húmedo o seco, de fritura, enfriamiento o congelación para su consumo.
+   3.3 Almacén o Bodega, sitio específico en donde se guarda, reúne o almacena mercancía, material de
+envase, empaque, materia prima, producto en proceso o terminado, para su conservación, custodia, futuro
+procesamiento, suministro o venta.
+   3.4 Area de producción o elaboración, sitio en donde se realizan las operaciones para la transformación
+de materias primas e insumos para la obtención de los productos a que se refiere la presente Norma.
+   3.5 Basura, cualquier material cuya calidad o características no permiten incluirle nuevamente en el
+proceso que la genera ni en cualquier otro, dentro del procesamiento de alimentos.
+    3.6 Conservación, acción de mantener un producto alimenticio en buen estado, guardándolo
+cuidadosamente, para que no pierda sus características a través del tiempo.
+   3.7 Contaminación, presencia de materia extraña, sustancias tóxicas o microorganismos, en cantidades
+que rebasen los límites permisibles establecidos por la Secretaría de Salud o en cantidades tales que
+representen un riesgo a la salud.
+   3.8 Contaminación cruzada, es la contaminación que se produce por la presencia de materia extraña,
+sustancias tóxicas o microorganismos procedentes de una etapa, un proceso o un producto diferente.
+    3.9 Corrosión, deterioro que sufre la hoja de lata, los envases o utensilios metálicos, como resultados del
+diferencial de potencial de intercambio eléctrico producido por el sistema metal-producto-medio ambiente.
+   3.10 Desinfección, la reducción del número de microorganismos presentes, por medio de agentes
+químicos y/o métodos físicos, a un nivel que no comprometa la inocuidad o la aptitud del alimento, bebida o
+suplemento alimenticio.
+   3.11 Desperdicio de alimento o bebida, alimento o bebida que fue servido en el plato o vaso del
+comensal y que no fue consumido.
+   3.12 Diagrama de flujo, representación secuencial de las fases u operaciones llevadas a cabo en la
+producción o elaboración de un determinado producto.
+   3.13 Detergente, mezcla de sustancias de origen sintético, cuya función es abatir la tensión superficial del
+agua, ejerciendo una acción humectante, emulsificante y dispersante, facilitando la eliminación de mugre y
+manchas.
+   3.14 Distribución, acción de repartir algo (materia prima, producto, etc.) y de llevarlo al punto o lugar en
+que se ha de utilizar.
+   3.15 Elaboración, transformación de un producto por medio del trabajo para determinado bien de
+consumo.
+   3.16 Envase, todo recipiente destinado a contener un producto y que entra en contacto con el mismo,
+conservando su integridad física, química y sanitaria.
+   Lunes 1 de marzo de 2010                   DIARIO OFICIAL                              (Primera Sección)
+
+   3.17 Envase primario, recipiente o envoltura que contiene y está en contacto directo con el producto,
+conservando su integridad física, química y sanitaria. El envase primario puede estar contenido en un envase
+secundario.
+    3.18 Escamochar, acción de eliminar todos los residuos alimenticios de los platos, cubiertos, utensilios y
+recipientes.
+   3.19 Establecimientos, los locales y sus instalaciones, dependencias y anexos, estén cubiertos o
+descubiertos, sean fijos o móviles, en los que se desarrolla el proceso de los productos, actividades y
+servicios a los que se refiere esta Norma.
+   3.20 Establecimientos de servicios de alimentos o bebidas, los locales y sus instalaciones,
+dependencias y anexos, donde se elaboran o suministran alimentos o bebidas para su consumo inmediato,
+comida para llevar o entregar a domicilio.
+   3.21 Expendio, área o establecimiento donde se exhiben o comercializan los productos objeto de esta
+Norma.
+   3.22 Fábrica, establecimiento en donde se producen los productos artesanales o industrializados. No se
+consideran como fábricas las panaderías y tortillerías para venta a granel al por menor.
+   3.23 Fase, cualquier etapa u operación en la producción o elaboración de los productos.
+    3.24 Fauna nociva, animales (insectos, aves, ratones, etc.) que pueden llegar a convertirse en vectores
+potenciales de enfermedades infecto-contagiosas o causantes de daños a instalaciones, equipo o productos
+en las diferentes etapas del proceso.
+   3.25 Inocuo, lo que no hace o causa daño a la salud.
+   3.26 Limpieza, acción que tiene por objeto quitar la suciedad.
+   3.27 Lote, a la cantidad de producto, elaborado en un mismo ciclo, integrado por unidades homogéneas, e
+identificado con un código específico.
+   3.28 Lubricantes grado alimenticio, lubricante adecuado para aplicaciones en equipo para
+procesamiento de alimentos, bebidas o suplementos alimenticios.
+  3.29 Manipulación, acción o modo de regular y dirigir materiales, productos, vehículos, equipo y
+máquinas durante las operaciones de proceso, con operaciones manuales.
+    3.30 Materia prima, todas las sustancias que se emplean en la producción o elaboración y que forman
+parte del producto terminado.
+   3.31 Material sanitario, al que no cede sustancias tóxicas a los productos que entran en contacto con él y
+es de fácil limpieza y desinfección.
+   3.32 Peligro, agente biológico, químico o físico presente en el alimento, bebida o suplemento alimenticio o
+bien la condición en que éste se halla, que puede causar un efecto adverso para la salud.
+    3.33 Plaga, a las plantas, hongos y fauna nociva que pueden llegar a convertirse en vectores potenciales
+de enfermedades infecto-contagiosas o causantes de daños a instalaciones, equipo o productos en las
+diferentes etapas de producción o elaboración.
+   3.34 Plaguicidas, sustancia o mezcla de sustancias utilizadas para prevenir, destruir, repeler o mitigar
+cualquier forma de vida que sea nociva para la salud, los bienes del hombre o el ambiente.
+   3.35 Prácticas de Higiene, las medidas necesarias para garantizar la inocuidad de los productos.
+   3.36 Procedimiento, documento que contiene las instrucciones necesarias para llevar a cabo de manera
+reproducible una operación o actividad.
+   3.37 Proceso, conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación,
+conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución,
+almacenamiento y expendio o suministro al público de productos.
+   3.38 Producto a granel, producto que no se encuentra envasado al momento de su venta y que se pesa,
+mide o cuenta en presencia del consumidor.
+           (Primera Sección)                       DIARIO OFICIAL                       Lunes 1 de marzo de 2010
+
+    3.39 Producto preenvasado, los productos que fuera del punto de venta son colocados en un envase de
+cualquier naturaleza, en ausencia del consumidor final, y la cantidad de producto contenido en él no puede ser
+alterada a menos que el envase sea abierto o modificado perceptiblemente.
+    3.40 Rastreabilidad/rastreo de los productos, la capacidad para seguir el desplazamiento de un
+alimento, bebida o suplemento alimenticio a través de una o varias etapas especificadas de su proceso.
+   3.41 Recortes, partes del producto que resultan directamente inutilizables en la misma operación pero que
+pueden ser reprocesados siempre y cuando se garantice su inocuidad.
+   3.42 Registro, conjunto de información, electrónica o no, que incluye datos, textos, números o gráficos
+que es creado, restaurado, mantenido y archivado.
+   3.43 Residuos, basura, desechos o desperdicios de la materia prima o producto en proceso o de
+cualquier material cuyo poseedor o propietario desecha.
+   3.44 Riesgo, la probabilidad de que un factor biológico, químico o físico, cause un daño a la salud del
+consumidor.
+    3.45 Signos de descongelación, presencia de líquidos o líquido congelado en el fondo del empaque o
+cartón que contiene a los alimentos y se caracterizan por la aparición de cristales grandes de hielo que indican
+que el alimento ha sido descongelado y vuelto a congelar.
+   3.46 Sistema PEPS (primeras entradas-primeras salidas), serie de operaciones que consiste en
+garantizar la rotación de los productos de acuerdo a su fecha de recepción, su vida útil o vida de anaquel.
+   3.47 Sobrante, alimento o bebida preparada que no ha sido servido, que no es desperdicio, en
+establecimientos de servicios de alimentos y bebidas o expendio.
+    3.48 Superficie limpia, aquella que se encuentra de forma visible libre de cualquier sustancia o materia
+diferente al material intrínseco del que está hecha.
+   3.49 Suplemento alimenticio, producto a base de hierbas, extractos vegetales, alimentos tradicionales,
+deshidratados o concentrados de frutas, adicionados o no, de vitaminas o minerales, que se puedan presentar
+en forma farmacéutica y cuya finalidad de uso sea incrementar la ingesta dietética total, complementarla o
+suplir alguno de sus componentes.
+   4. Símbolos y abreviaturas
+   Cuando en esta Norma se haga referencia a los siguientes símbolos y abreviaturas se entiende por:
+    -                menos
+   min               minutos
+   o
+       C             grados Celsius
+   o
+       F             grados Fahrenheit
+   PEPS              primeras entradas-primeras salidas
+   HACCP             Análisis de peligros y de puntos críticos de control, por sus siglas en inglés (Hazard Analysis
+                     and Critical Control Points).
+   5. Disposiciones generales
+    Los establecimientos que se dediquen al proceso de alimentos, bebidas o suplementos alimenticios,
+deben cumplir con las disposiciones establecidas en este capítulo, según corresponda a las actividades que
+realicen.
+   5.1 Instalaciones y áreas
+    5.1.1 Los establecimientos deben contar con instalaciones que eviten la contaminación de las materias
+primas, alimentos, bebidas o suplementos alimenticios.
+    5.1.2. Los pisos, paredes y techos del área de producción o elaboración deben ser de fácil limpieza, sin
+grietas o roturas.
+   Lunes 1 de marzo de 2010                    DIARIO OFICIAL                              (Primera Sección)
+
+    5.1.3 Las puertas y ventanas de las áreas de producción o elaboración deben estar provistas de
+protecciones para evitar la entrada de lluvia, fauna nociva o plagas, excepto puertas y ventanas que se
+encuentran en el área de atención al cliente.
+   5.1.4 Debe evitarse que las tuberías, conductos, rieles, vigas, cables, etc., pasen por encima de tanques y
+áreas de producción o elaboración donde el producto sin envasar esté expuesto. En donde existan, deben
+mantenerse en buenas condiciones de mantenimiento y limpios.
+   5.2 Equipo y utensilios
+    5.2.1 Los equipos deben ser instalados en forma tal que el espacio entre ellos mismos, la pared, el techo y
+piso, permita su limpieza y desinfección.
+    5.2.2 El equipo y los utensilios empleados en las áreas en donde se manipulen directamente materias
+primas, alimentos, bebidas o suplementos alimenticios sin envasar, y que puedan entrar en contacto con ellos,
+deben ser lisos y lavables, sin roturas.
+    5.2.3. Los materiales que puedan entrar en contacto directo con alimentos, bebidas, suplementos
+alimenticios o sus materias primas, se deben poder lavar y desinfectar adecuadamente.
+   5.2.4 En los equipos de refrigeración y congelación se debe evitar la acumulación de agua.
+    5.2.5 Los equipos de refrigeración y congelación deben contar con un termómetro o con un dispositivo de
+registro de temperatura en buenas condiciones de funcionamiento y colocado en un lugar accesible para su
+monitoreo.
+   5.3 Servicios
+    5.3.1 Debe disponerse de agua potable, así como de instalaciones apropiadas para su almacenamiento y
+distribución.
+   5.3.2 Las cisternas o tinacos para almacenamiento de agua deben estar protegidos contra la
+contaminación, corrosión y permanecer tapados. Sólo se podrán abrir para su mantenimiento, limpieza o
+desinfección y verificación siempre y cuando no exista riesgo de contaminar el agua.
+   5.3.3 Las paredes internas de las cisternas o tinacos deben ser lisas. En caso de contar con respiradero,
+éste debe tener un filtro o trampas o cualquier otro mecanismo que impida la contaminación del agua.
+   5.3.4 El agua no potable que se utilice para la producción de vapor, refrigeración, sistema contra incendios
+y otros propósitos similares que no estén en contacto directo con la materia prima, alimentos, bebidas o
+suplementos alimenticios, debe transportarse por tuberías completamente separadas e identificadas, sin que
+haya ninguna conexión transversal ni sifonado de retroceso con las tuberías que conducen el agua potable.
+    5.3.5 Para evitar plagas provenientes del drenaje, éste debe estar provisto de trampas contra olores, y
+coladeras o canaletas con rejillas, las cuales deben mantenerse libres de basura, sin estancamientos y en
+buen estado. Cuando los drenajes no permitan el uso de estos dispositivos, se deberán establecer otras
+medidas que cumplan con la misma finalidad.
+    5.3.6 Los establecimientos deben disponer de un sistema de evacuación de efluentes o aguas residuales,
+el cual debe estar libre de reflujos, fugas, residuos, desechos y fauna nociva.
+   5.3.7 Cuando se requiera, los drenajes deben estar provistos de trampas de grasa.
+   5.3.8 Los baños deben contar con separaciones físicas completas, no tener comunicación directa ni
+ventilación hacia el área de producción o elaboración y contar como mínimo con lo siguiente:
+   a)    Agua potable, retrete, lavabo que podrá ser de accionamiento manual, jabón o detergente, papel
+         higiénico y toallas desechables o secador de aire de accionamiento automático. El agua para el
+         retrete podrá ser no potable;
+   b)    Depósitos para basura con bolsa y tapadera oscilante o accionada por pedal;
+   c)    Rótulos o ilustraciones en donde se promueva la higiene personal, haciendo hincapié en el lavado de
+         manos después del uso de los sanitarios;
+   5.3.9 La ventilación debe evitar el calor y condensación de vapor excesivos, así como la acumulación de
+humo y polvo.
+      (Primera Sección)                       DIARIO OFICIAL                       Lunes 1 de marzo de 2010
+
+   5.3.10 Si se cuenta con instalaciones de aire acondicionado, se debe evitar que las tuberías y techos
+provoquen goteos sobre las áreas donde las materias primas, alimentos, bebidas o suplementos alimenticios
+estén expuestos.
+   5.3.11 Se debe contar con iluminación que permita la realización de las operaciones de manera higiénica.
+    5.3.12 Los focos y las lámparas que puedan contaminar alimentos, bebidas o suplementos alimenticios sin
+envasar, en caso de rotura o estallido, deben contar con protección o ser de material que impida su
+astillamiento.
+   5.4 Almacenamiento
+   5.4.1. Las condiciones de almacenamiento deben ser adecuadas al tipo de materia prima, alimentos,
+bebidas o suplementos alimenticios que se manejen. Se debe contar con controles que prevengan la
+contaminación de los productos.
+   5.4.2 El almacenamiento de detergentes y agentes de limpieza o agentes químicos y sustancias tóxicas,
+se debe hacer en un lugar separado y delimitado de cualquier área de manipulación o almacenado de
+materias primas, alimentos, bebidas o suplementos alimenticios. Los recipientes, frascos, botes, bolsas de
+detergentes y agentes de limpieza o agentes químicos y sustancias tóxicas, deben estar cerrados e
+identificados.
+    5.4.3 Las materias primas, alimentos, bebidas o suplementos alimenticios, deben colocarse en mesas,
+estibas, tarimas, anaqueles, entrepaños, estructura o cualquier superficie limpia que evite su contaminación.
+    5.4.4 La colocación de materias primas, alimentos, bebidas o suplementos alimenticios se debe hacer de
+tal manera que permita la circulación del aire.
+   5.4.5 La estiba de productos debe realizarse evitando el rompimiento y exudación de empaques y
+envolturas.
+   5.4.6 Los implementos o utensilios tales como escobas, trapeadores, recogedores, fibras y cualquier otro
+empleado para la limpieza del establecimiento, deben almacenarse en un lugar específico de tal manera que
+se evite la contaminación de las materias primas, los alimentos, bebidas o suplementos alimenticios.
+   5.5 Control de operaciones
+   5.5.1 Los establecimientos pueden instrumentar un Sistema de HACCP, en su caso se puede tomar como
+guía el apéndice A de la presente norma. Cuando la norma oficial mexicana correspondiente al producto que
+se procesa en el establecimiento lo establezca, su instrumentación será obligatoria.
+   5.5.2 Los equipos de refrigeración se deben mantener a una temperatura máxima de 7°C.
+   5.5.3 Los equipos de congelación se deben mantener a una temperatura que permita la congelación del
+producto.
+    5.5.4 Se debe evitar la contaminación cruzada entre la materia prima, producto en elaboración y producto
+terminado.
+   5.5.5. Los alimentos, bebidas o suplementos alimenticios procesados no deben estar en contacto directo
+con los no procesados, aun cuando requieran de las mismas condiciones de temperatura o humedad para su
+conservación.
+    5.5.6 El establecimiento periódicamente debe dar salida a productos y materiales inútiles, obsoletos o
+fuera de especificaciones.
+   5.6 Control de materias primas
+    5.6.1 Los establecimientos que preparen o elaboren alimentos, bebidas o suplementos alimenticios deben
+inspeccionar o clasificar sus materias primas e insumos antes de la producción o elaboración del producto.
+   5.6.2 No utilizar materias primas que ostenten fecha de caducidad vencida.
+   5.6.3 Tener identificadas sus materias primas, excepto aquellas cuya identificación sea evidente.
+   5.6.4 Separar y eliminar del lugar las materias primas que evidentemente no sean aptas, a fin de evitar mal
+uso, contaminaciones y adulteraciones.
+   Lunes 1 de marzo de 2010                   DIARIO OFICIAL                              (Primera Sección)
+
+   5.6.5 Cuando aplique, las materias primas deben mantenerse en envases cerrados para evitar su posible
+contaminación.
+   5.6.6 No aceptar materia prima cuando el envase no garantice su integridad.
+   5.6.7 No aceptar las materias primas enlistadas en la tabla No 1, cuando al corroborar sus características
+alguna de éstas corresponda a la de rechazo.
+                          Tabla No 1: Características para la aceptación o rechazo
+    Materia prima/Parámetro                    Aceptación                             Rechazo
+ Preenvasadas
+              Envase                     íntegro y en buen estado          rotos, rasgado, con fugas o con
+                                                                              evidencia de fauna nociva
+     Fecha de caducidad o de                      vigente                              vencida
+       consumo preferente
+ Enlatadas
+               Latas                             íntegras                  abombadas, oxidadas, con fuga,
+                                                                                abolladas en costura y/o
+                                                                           engargolado o en cualquier parte
+                                                                             del cuerpo, cuando presente
+                                                                          abolladura en ángulo pronunciado
+                                                                           o la abolladura sea mayor de 1,5
+                                                                          cm de diámetro en presentaciones
+                                                                         inferiores a 1 kg, en presentaciones
+                                                                            mayores de 1 kg la abolladura
+                                                                            deberá ser mayor a 2,5 cm de
+                                                                                       diámetro.
+ Congeladas
+             Apariencia                sin signos de descongelación        Con signos de descongelación
+ Refrigeradas
+           Temperatura              4°C o menos, excepto los productos       mayor de 4°C, excepto los
+                                      de la pesca vivos, que pueden       productos de la pesca vivos, que
+                                             aceptarse a 7°C.                 pueden aceptarse a 7°C.
+ Bebidas embotelladas
+             Apariencia                  libre de materia extraña         con materia extraña o con fugas
+                                       tapas íntegras y sin corrosión    oxidadas o con signos de violación
+ Productos de origen vegetal
+             Apariencia                           fresca                   con mohos, coloración extraña,
+                                                                                  magulladuras
+                Olor                           característico                         Putrefacto
+ Carnes frescas
+               Color:
+                Res                            rojo brillante                 verdosa o café obscuro,
+                                                                           descolorida en el tejido elástico
+              Cordero                               rojo
+               Cerdo                            rosa pálido
+      Grasa de origen animal           blanca o ligeramente amarilla
+              Textura                         firme y elástica                    viscosa, pegajosa
+                Olor                           característico                     putrefacto, agrio
+ Aves
+    (Primera Sección)                      DIARIO OFICIAL                        Lunes 1 de marzo de 2010
+
+              Color                        característico                   verdosa, amoratada o con
+                                                                             diferentes coloraciones
+             Textura                            firme                  blanda y pegajosa bajo las alas o la
+                                                                                      piel
+              Olor                         característico                       putrefacto o rancio
+Productos de la pesca
+Pescado
+              Color                     agallas rojo brillante               gris o verde en agallas
+           Apariencia             agallas húmedas, ojos saltones,        agallas secas, ojos hundidos y
+                                 limpios, transparentes y brillantes       opacos con bordes rojos
+             Textura                            firme                                 flácida
+              Olor                         característico                 agrio, putrefacto o amoniacal
+Moluscos
+              Color                        característico                        no característico
+             Textura                            firme                                viscosa
+              Olor                         característico                    putrefacto o amoniacal
+           Apariencia                         brillante                                mate
+  Vitalidad (productos vivos)    conchas cerradas o que se abren y     conchas abiertas, que no cierran al
+                                        cierran al contacto.                         tacto.
+Crustáceos
+              Color                        característico                        no característico
+             Textura                            firme                                 flácida
+              Olor                    característico al marisco              putrefacto o amoniacal
+           Apariencia                   articulaciones firmes             articulaciones con pérdida de
+                                                                       tensión y contracción, sin brillo, con
+                                                                          manchas obscuras entre las
+                                                                                  articulaciones
+Cefalópodos
+              Color                        característico                        no característico
+             Textura                            firme                            flácida y viscosa
+              Olor                         característico                           putrefacto
+Leche y derivados
+                                a base de leche pasteurizada           que proceda        de     leche    sin
+                                                                       pasteurizar
+Quesos
+     Olor, color y textura                 característico              con manchas no propias del queso
+                                                                            o partículas extrañas, o
+                                                                          contaminado con hongos en
+                                                                            productos que no fueron
+                                                                                  inoculados.
+Mantequilla
+              Olor                         característico               excepto los productos de la pesca
+                                                                       vivos, que pueden aceptarse a 7°C,
+                                                                                      rancio
+           Apariencia                      característica               con mohos o partículas extrañas
+Huevo fresco
+   Lunes 1 de marzo de 2010                   DIARIO OFICIAL                              (Primera Sección)
+
+                                      limpios y con cascarón entero        cascarón quebrado o manchado
+                                                                              con excremento o sangre
+ Granos, harinas, productos de panificación, tortillas y otros productos secos
+            Apariencia                  sin mohos y con coloración         con mohos o coloración ajena al
+                                              característica                 producto o con infestaciones
+
+   5.6.8 Quedan excluidos de la aplicación del numeral 5.6.7 las fábricas de alimentos, bebidas o
+suplementos alimenticios, las cuales deben cumplir con el numeral 6.6.1.
+   5.6.9. Las materias primas, alimentos, bebidas o suplementos alimenticios, deben almacenarse de
+acuerdo a su naturaleza e identificarse de manera tal que se permita aplicar un sistema de PEPS.
+   5.7 Control del envasado
+   5.7.1 Los envases y recipientes que entren en contacto directo con la materia prima, alimento, bebida o
+suplemento alimenticio, se deben almacenar protegidos de polvo, lluvia, fauna nociva y materia extraña.
+   5.7.2 Se debe asegurar que los envases se encuentren limpios, en su caso desinfectados y en buen
+estado antes de su uso.
+   5.7.3 Los materiales de envase primarios deben ser inocuos y proteger al producto de cualquier tipo de
+contaminación o daño exterior.
+    5.7.4 Los materiales de empaque y envases de materias primas no deben utilizarse para fines diferentes a
+los que fueron destinados originalmente, a menos que se eliminen las etiquetas, las leyendas y se habiliten
+para el nuevo uso en forma correcta.
+   5.7.5 Los recipientes o envases vacíos que contuvieron medicamentos, plaguicidas, agentes de limpieza,
+agentes de desinfección o cualquier sustancia tóxica, no deben ser reutilizados para alimentos, bebidas o
+suplementos alimenticios y deben ser dispuestos de manera tal que no sean un riesgo de contaminación a las
+materias primas, productos y materiales de empaque.
+   5.8 Control del agua en contacto con los alimentos
+    5.8.1. El agua que esté en contacto directo con alimentos, bebidas o suplementos alimenticios, materias
+primas, superficies en contacto con el mismo, envase primario o aquella para elaborar hielo debe ser potable y
+cumplir con los límites permisibles de cloro residual libre y de organismos coliformes totales y fecales
+establecidos en la Modificación a la NOM-127-SSA1-1994, citada en al apartado de referencias, debiendo
+llevarse un registro diario del contenido de cloro residual libre.
+    5.8.2 En caso de que no se cuente con la documentación que demuestre el cumplimiento del punto
+anterior, se deberá utilizar una fuente alterna o tomar las medidas necesarias para hacerla potable antes de
+añadirla a los alimentos, bebidas o suplementos alimenticios o de transformarla en hielo para enfriar los
+alimentos, bebidas o suplementos alimenticios.
+    5.8.3. El vapor utilizado en superficies que estén en contacto directo con las materias primas, alimentos,
+bebidas o suplementos alimenticios, no debe contener ninguna sustancia que pueda representar riesgo a la
+salud o contaminar al producto.
+   5.9 Mantenimiento y limpieza
+   5.9.1 Los equipos y utensilios deben estar en buenas condiciones de funcionamiento.
+    5.9.2 Después del mantenimiento o reparación del equipo se debe inspeccionar con el fin de eliminar
+residuos de los materiales empleados para dicho objetivo. El equipo debe estar limpio y desinfectado previo a
+su uso en el área de producción.
+   5.9.3 Al lubricar los equipos se debe evitar la contaminación de los productos que se procesan.
+   5.9.4 Se deben emplear lubricantes grado alimenticio en equipos o partes que estén en contacto directo
+con el producto, materias primas, envase primario, producto en proceso o producto terminado sin envasar.
+   5.9.5 Las instalaciones (incluidos techo, puertas, paredes y piso), baños, cisternas, tinacos y mobiliario
+deben mantenerse limpios.
+    5.9.6 Las uniones en las superficies de pisos o paredes recubiertas con materiales no continuos en las
+áreas de producción o elaboración de alimentos, bebidas o suplementos alimenticios deben permitir su
+limpieza.
+    5.9.7 Los baños deben estar limpios y desinfectados y no deben utilizarse como bodega o para fines
+distintos para los que están destinados.
+      (Primera Sección)                          DIARIO OFICIAL                        Lunes 1 de marzo de 2010
+
+    5.9.8 Los agentes de limpieza para los equipos y utensilios deben utilizarse de acuerdo a las instrucciones
+del fabricante o de los procedimientos internos que garanticen su efectividad, evitando que entren en contacto
+directo con materias primas, producto en proceso, producto terminado sin envasar o material de empaque.
+    5.9.9 Los agentes de desinfección para los equipos y utensilios deben utilizarse de acuerdo a las
+instrucciones del fabricante o de los procedimientos internos que garanticen su efectividad.
+    5.9.10 La limpieza y desinfección deben satisfacer las necesidades del proceso y del producto de que se
+trate.
+   5.9.11. El equipo y los utensilios deben limpiarse de acuerdo con las necesidades específicas del proceso
+y del producto que se trate.
+   5.10 Control de plagas
+    5.10.1 El control de plagas es aplicable a todas las áreas del establecimiento incluyendo el transporte de
+alimentos, bebidas o suplementos alimenticios.
+   5.10.2 No se debe permitir la presencia de animales domésticos, ni mascotas dentro de las áreas de
+producción o elaboración de los productos.
+    5.10.3 Se deben tomar medidas preventivas para reducir las probabilidades de infestación y de esta forma
+limitar el uso de plaguicidas.
+   5.10.4 Debe evitarse que en los patios del establecimiento existan condiciones que puedan ocasionar
+contaminación del producto y proliferación de plagas, tales como: equipo en desuso, desperdicios y chatarra,
+maleza o hierbas, encharcamiento por drenaje insuficiente o inadecuado.
+    5.10.5 Los drenajes deben tener cubierta apropiada para evitar la entrada de plagas provenientes del
+alcantarillado o áreas externas.
+   5.10.6 En las áreas de proceso no debe encontrarse evidencia de la presencia de plagas o fauna nociva.
+   5.10.7 Cada establecimiento debe tener un sistema o un plan para el control de plagas y erradicación de
+fauna nociva, incluidos los vehículos de acarreo y reparto propios.
+   5.10.8 En caso de que alguna plaga invada el establecimiento, deben adoptarse medidas de control para
+su eliminación por contratación de servicios de control de plagas o autoaplicación, en ambos casos se debe
+contar con licencia sanitaria.
+   5.10.9 Los plaguicidas empleados deben contar con registro emitido por la autoridad competente.
+    5.10.10 Los plaguicidas deben mantenerse en un área, contenedor o mueble aislado y con acceso
+restringido, en recipientes claramente identificados y libres de cualquier fuga, de conformidad con lo que se
+establece en las disposiciones legales aplicables.
+   5.10.11 En caso de contratar los servicios de una empresa, se debe contar con certificado o constancia del
+servicio proporcionado por la misma. En el caso de autoaplicación, se debe llevar un registro. En ambos casos
+debe constar el número de licencia sanitaria expedida por la autoridad correspondiente.
+   5.11 Manejo de residuos
+   5.11.1 Se deben adoptar medidas para la remoción periódica y el almacenamiento de los residuos. No
+deberá permitirse la acumulación de residuos, salvo en la medida en que sea inevitable para el
+funcionamiento de las instalaciones.
+   5.11.2 Los residuos generados durante la producción o elaboración deben retirarse de las áreas de
+operación cada vez que sea necesario o por lo menos una vez al día.
+   5.11.3 Se debe contar con recipientes identificados y con tapa para los residuos.
+   5.12 Salud e higiene del personal
+    5.12.1 Debe excluirse de cualquier operación en la que pueda contaminar al producto, a cualquier persona
+que presente signos como: tos frecuente, secreción nasal, diarrea, vómito, fiebre, ictericia o lesiones en áreas
+corporales que entren en contacto directo con los alimentos, bebidas o suplementos alimenticios. Solo podrá
+reincorporarse a sus actividades hasta que se encuentre sana o estos signos hayan desaparecido.
+   5.12.2 El personal debe presentarse aseado al área de trabajo, con ropa y calzado limpios.
+   5.12.3 Al iniciar la jornada de trabajo, la ropa de trabajo debe estar limpia e íntegra.
+   5.12.4 Al inicio de las labores, al regresar de cada ausencia y en cualquier momento cuando las manos
+puedan estar sucias o contaminadas, toda persona que opere en las áreas de producción o elaboración, o que
+esté en contacto directo con materias primas, envase primario, alimentos, bebidas o suplementos alimenticios,
+debe lavarse las manos, de la siguiente manera:
+   Lunes 1 de marzo de 2010                   DIARIO OFICIAL                                (Primera Sección)
+
+   a)   Enjuagarse las manos con agua, aplicar jabón o detergente. En caso de que el jabón o detergente
+        sea líquido debe aplicarse mediante un dosificador y no estar en recipientes destapados;
+   b)   Frotarse vigorosamente la superficie de las manos y entre los dedos. Para el lavado de las uñas se
+        puede utilizar cepillo. Cuando se utilice uniforme con mangas cortas, el lavado será hasta la altura de
+        los codos;
+   c)   Enjuagarse con agua limpia, cuidando que no queden restos de jabón o detergente. Posteriormente
+        puede utilizarse solución desinfectante;
+   d)   Secarse con toallas desechables o dispositivos de secado con aire caliente.
+    5.12.5 Si se emplean guantes, éstos deben mantenerse limpios e íntegros. El uso de guantes no exime el
+lavado de las manos antes de su colocación.
+    5.12.6 La ropa y objetos personales deberán guardarse fuera de las áreas de producción o elaboración de
+alimentos, bebidas o suplementos alimenticios.
+    5.12.7 No se permite fumar, comer, beber, escupir o mascar en las áreas donde se entra en contacto
+directo con alimentos, bebidas o suplementos alimenticios, materias primas y envase primario. Evitar
+estornudar o toser sobre el producto.
+   5.13 Transporte
+    5.13.1 Los alimentos, bebidas o suplementos alimenticios, deben ser transportados en condiciones que
+eviten su contaminación.
+   5.13.2 Se deben proteger los alimentos, bebidas o suplementos alimenticios de la contaminación por
+plagas o de contaminantes físicos, químicos o biológicos durante el transporte.
+    5.13.3 Los alimentos, bebidas o suplementos alimenticios que requieren refrigeración o congelación deben
+transportarse de tal forma que se mantengan las temperaturas específicas o recomendadas por el fabricante o
+productor.
+   5.13.4 Los vehículos deben estar limpios para evitar la contaminación de alimentos, bebidas o
+suplementos alimenticios.
+   5.14 Capacitación
+   5.14.1 Todo el personal que opere en las áreas de producción o elaboración debe capacitarse en las
+buenas prácticas de higiene, por lo menos una vez al año.
+   5.14.2 La capacitación debe incluir:
+   a)   Higiene personal, uso correcto de la indumentaria de trabajo y lavado de las manos;
+   b)   La naturaleza de los productos, en particular su capacidad para el desarrollo de los microorganismos
+        patógenos o de descomposición;
+   c)   La forma en que se procesan los alimentos, bebidas o suplementos alimenticios considerando la
+        probabilidad de contaminación;
+   d)   El grado y tipo de producción o de preparación posterior antes del consumo final;
+   e)   Las condiciones en las que se deban recibir y almacenar las materias primas, alimentos, bebidas o
+        suplementos alimenticios;
+   f)   El tiempo que se prevea que transcurrirá antes del consumo;
+   g)   Repercusión de un producto contaminado en la salud del consumidor, y
+   h)   El conocimiento de la presente NOM, según corresponda.
+   6. Fábricas de alimentos, bebidas o suplementos alimenticios
+   Las fábricas de alimentos, bebidas o suplementos alimenticios además de cumplir con lo establecido en el
+capítulo 5, deben cumplir con este capítulo:
+   6.1 Instalaciones y áreas
+   6.1.1 Deberá disponerse de áreas específicas para el almacenamiento de materias primas, producto en
+elaboración, producto terminado, en cuarentena, devoluciones, productos rechazados o caducos.
+        (Primera Sección)                          DIARIO OFICIAL                   Lunes 1 de marzo de 2010
+
+   6.1.2 Se debe contar con un área específica para el depósito temporal de los residuos delimitada y
+separada del área de producción.
+    6.1.3 Los pisos, paredes y techos de las áreas de producción deben ser lisos, lavables y sin grietas o
+roturas. Los pisos deben tener declive suficiente hacia las coladeras para evitar encharcamientos.
+   6.2 Equipo y utensilios
+    6.2.1 Los recipientes ubicados en las áreas de producción deben de identificarse y ser de material de fácil
+limpieza.
+   6.2.2 Los equipos para proceso térmico deben contar con termómetro o dispositivo para registro de
+temperatura colocados en un lugar accesible para su monitoreo y lectura.
+   6.3 Servicios
+   6.3.1 Las tarjas para lavado de utensilios que tengan contacto directo con alimentos, materias primas,
+producto en producción, bebidas o suplementos alimenticios deben ser de uso exclusivo para este propósito.
+   6.3.2 Los artículos empleados para la limpieza deben lavarse en un lugar exclusivo para este fin.
+   6.3.3 Se debe contar con estaciones de lavado o de desinfección para el personal, accesibles al área de
+producción.
+   6.3.4 Las estaciones de desinfección podrán tener instalación de agua.
+   6.3.5 Las estaciones de lavado podrán ser de accionamiento manual y deben estar equipadas con agua,
+jabón o detergente y desinfectante, toallas desechables o dispositivo de secado por aire caliente y/o depósito
+para toallas con tapa oscilante o con acción de pedal.
+   6.3.6 La dirección de la corriente de aire no debe ir nunca de un área sucia a un área limpia.
+   6.4 Control de operaciones
+   6.4.1 Las fábricas deben:
+   a)     Identificar las fases de la operación;
+   b)     Generar los procedimientos de las fases de producción;
+   c)     Definir los controles que aseguren la inocuidad del producto en las fases de producción;
+   d)     Supervisar la aplicación de los procedimientos y controles mencionados para asegurar su eficacia;
+   e)     Actualizar los procedimientos de las fases de producción, al menos cuando cambien las operaciones
+          involucradas;
+   f)     Contar con procedimientos que aseguren un control eficaz de la temperatura cuando ésta sea
+          fundamental para la inocuidad de los productos.
+   g)     Monitorear las operaciones como la pasteurización, la cocción, la esterilización, la irradiación, la
+          desecación, el enfriamiento, la congelación, la preservación por medios químicos, la fermentación o
+          cualquier otra que pueda contribuir a la inocuidad del producto.
+   6.4.2 Los procedimientos de las fases de producción en el que se detallen las instrucciones o acciones
+necesarias para llevarlas a cabo de manera reproducible y sistemática deben estar en idioma español.
+    6.4.3 Todos los instrumentos de control de proceso (medidores de tiempo, temperatura, presión, humedad
+relativa, potenciómetros, flujo, masa, etc.), deben estar en buenas condiciones para evitar desviaciones de los
+patrones de operación.
+   6.4.4 Durante la fabricación de los alimentos, bebidas o suplementos alimenticios, éstos deben colocarse
+en mesas, estibas, tarimas, anaqueles y entrepaños. Cuando por el volumen que se maneje no sea posible lo
+anterior, podrán colocarse sobre superficies limpias que eviten su contaminación.
+   6.4.5 En la producción de alimentos, bebidas o suplementos alimenticios, se podrán utilizar dispositivos o
+procedimientos para reducir el riesgo de contaminación por cuerpos extraños, como fragmentos de vidrio o de
+metal, polvo y sustancias químicas indeseables.
+    6.4.6 Los controles aplicados deben evitar que se utilicen materias primas en las que puedan existir
+peligros que no puedan reducirse a niveles seguros por los procedimientos normales de inspección,
+clasificación o elaboración.
+   6.5 Control del envasado
+   6.5.1 El envasado debe hacerse en condiciones tales que se evite la contaminación del producto.
+   Lunes 1 de marzo de 2010                       DIARIO OFICIAL                             (Primera Sección)
+
+   6.5.2 Los envases reutilizables deben ser de fácil limpieza para evitar la contaminación del producto.
+   6.6 Documentación y registros
+    6.6.1 La fábrica debe contar con los registros e información que se indica en la tabla No. 2. El formato y
+diseño queda bajo la responsabilidad del fabricante y deberán cumplir con lo siguiente:
+   a)     Estar escritos en idioma español;
+   b)     Conservarse por lo menos por un tiempo equivalente a una y media veces la vida de anaquel del
+          producto;
+   c)     Cuando se elaboren por medios electrónicos, deben contar con respaldos que aseguren la
+          información y un control de acceso y correcciones no autorizadas, y
+   d)     Estar a disposición de la autoridad sanitaria cuando así lo requiera.
+                                     Tabla No 2: Documentos y registros
+    Actividad/Etapa            Documento                                   Información
+                          Especificaciones o   Valor de la especificación o cualidad del atributo a ser
+                          criterios de         evaluado.
+                          aceptación o rechazo
+                                               La evaluación se puede realizar en los laboratorios de la
+                                               empresa.
+                                                  Cuando la evaluación se haga por un tercero, éste deberá
+    Recepción de                                  emitir un certificado de calidad que respalde la evaluación.
+  materias primas y Registros, reportes o         El certificado de calidad, reporte o el registro deberá
+  material de envase                              contener al menos:
+    y/o empaque      certificados de
+                     calidad                      Nombre del producto o clave, fecha, proveedor u origen,
+                                                  cantidad, lote y marca (si es el caso), resultado de la
+                                                  evaluación, información que permita identificar a la persona
+                                                  que realizó la evaluación.
+                                                  Cuando se identifiquen con clave, ésta debe permitir la
+                                                  rastreabilidad del producto.
+                          Procedimiento           Ingredientes, cantidades, orden de adición, condiciones
+                          /método de              importantes para la realización de cada operación, controles
+                          fabricación             que deben aplicarse y descripción de las condiciones en que
+                                                  se deben llevar a cabo las fases de producción.
+                          Especificaciones de Especificación o cualidad del atributo a ser evaluado.
+                          aceptación o rechazo
+                          del producto
+                          terminado
+        Fabricación       Registros del control   Producto, lote, fecha, turno, si procede línea y máquina de
+                          de las fases de         envasado, valor de las variables de las fases de producción
+                          producción              (ej. Temperatura, tiempo, presión), información que permita
+                                                  identificar a la persona que realizó la medición.
+                          Producto terminado      Producto, lote, tamaño de lote, resultados de los análisis que
+                                                  se realizan para aceptación del lote, información que permita
+                                                  identificar a la persona que realizó la evaluación.
+                          Sistema de              Codificación que permita la rastreabilidad del producto.
+                          lotificación
+                          Registros de:           Producto, lote, cantidad, fecha.
+                   Entradas y salidas.
+  Almacenamiento y
+     Distribución  Temperatura de                 Fecha, hora, si procede número de equipo de refrigeración o
+                   refrigeración o                congelación, medición de la temperatura.
+                   congelación
+
+  Rechazos (producto Procedimiento                Manejo de producto que no cumpla especificaciones.
+        (Primera Sección)                        DIARIO OFICIAL                       Lunes 1 de marzo de 2010
+
+        fuera de            Registros             Producto, lote, cantidad, causa del rechazo, destino, nombre
+    especificaciones)                             de la persona que rechazó.
+                       Programa de                Calendarización donde se indique equipo o instrumento y
+       Equipo e        mantenimiento y            frecuencia.
+ instrumentos para el calibración.
+  control de las fases
+    de producción      Registros, reportes o      Identificación del equipo o instrumento, serie, fecha y
+                       certificados.              operación realizada.
+                            Procedimientos         Productos de limpieza usados, concentraciones, enjuagues,
+                            específicos para       orden de aplicación.
+                            instalaciones, equipos
+                            y transporte.
+                            Programa.             Calendarización y frecuencia por área o por equipo, persona
+         Limpieza                                 responsable de llevarlo a cabo.
+                            Registro.             Area o equipo, fecha, hora o turno, información que permita
+                                                  identificar a la persona que lo realizó.
+                                                  Se puede manejar como una lista de cumplimiento o
+                                                  incumplimiento.
+                            Programa              Calendarización y frecuencia.
+                            Registros o           Area donde se aplicó, fecha y hora, información que permita
+   Control de plagas        certificados de       identificar a la persona o empresa que lo realizó, número de
+                            servicio.             licencia, productos utilizados y técnica de aplicación y de ser
+                                                  el caso croquis con la ubicación de estaciones de control y
+                                                  monitoreo.
+                            Programa.             Calendarización.
+                                                  Los temas a incluir serán los establecidos en el numeral
+   Capacitación del
+                                                  5.14.2.
+      personal
+                            Registros o           Fecha, participantes, capacitador         y   constancia    de
+                            constancias.          capacitación de los participantes.
+
+
+   6.7. Retiro de producto
+   6.7.1 Se debe contar con un plan para retirar del mercado cualquier lote identificado de un producto que
+represente un peligro para la salud del consumidor.
+   El plan contendrá:
+   a)     Nombre y teléfono del responsable y contactos;
+   b)     Teléfono para dar información al consumidor.
+   6.7.2 Los productos retirados deben mantenerse bajo supervisión y resguardo, en un área específica e
+identificada de la empresa hasta que se determinen las acciones pertinentes.
+    6.7.3 Se debe contar con registros de cada retiro que se realice que contenga al menos la siguiente
+información:
+   a.     Fecha en que se detectó el incidente o problema;
+   b.     Causa del retiro;
+   c.     Producto involucrado (nombre y descripción);
+   d.     Lote del producto involucrado;
+   e.     El lugar donde fue distribuido en primer nivel;
+   f.     Cantidad de producto recuperado;
+   g.     Destino del producto recuperado (temporal y final), y
+   h.     Medidas preventivas y correctivas.
+   6.8 Higiene del personal
+   Lunes 1 de marzo de 2010                    DIARIO OFICIAL                              (Primera Sección)
+
+    6.8.1 El personal que entre en contacto directo con materias primas, envase primario, producto en
+producción o fabricación y terminado sin envasar, equipos y utensilios, debe observar las indicaciones
+siguientes:
+   a)   Presentarse aseado al área de trabajo, con ropa y calzado limpios, cabello corto o recogido y uñas
+        recortadas y sin esmalte;
+   b)   No se permite el uso de joyería, ni adornos en manos, cara incluyendo boca y lengua, orejas, cuello o
+        cabeza;
+   c)   Prescindir de plumas, lapiceros, termómetros, sujetadores u otros objetos desprendibles en los
+        bolsillos superiores de la vestimenta en las áreas de producción.
+   d)   El personal y los visitantes deben utilizar protección que cubra totalmente cabello, barba y bigote, así
+        como ropa protectora.
+   6.8.2 Al inicio de la jornada de trabajo el cubrepelo y el cubreboca deben estar limpios y en buen estado.
+   6.9 Información sobre el producto
+   6.9.1 Los productos preenvasados deben contar con una clave para identificar el lote.
+   6.9.2 Los productos preenvasados para transporte o distribución deben estar identificados.
+   7. Establecimiento de servicio de alimentos o bebidas
+   Los establecimientos de servicios de alimentos o bebidas además de cumplir con lo establecido en el
+capítulo 5, deben cumplir con este capítulo:
+   7.1 Equipo y utensilios
+    7.1.1 Las barras de servicio para buffet y venta de alimentos preparados, deben contar con las
+instalaciones necesarias para mantener los alimentos a las temperaturas señaladas en el punto 7.3.3 de este
+ordenamiento.
+   7.2. Instalaciones de Servicios
+    7.2.1 Debe haber instalaciones para la limpieza de los alimentos, utensilios y equipos que dispongan de un
+abastecimiento suficiente de agua potable y usarse de forma tal que se evite la contaminación de las materias
+primas, alimentos o bebidas.
+   7.2.2 En el área de elaboración debe contarse con una estación de lavado y desinfección de manos,
+provista de jabón o detergente y desinfectante, secador de aire caliente o toallas desechables y depósito para
+basura.
+   7.3 Control de la Temperatura
+   7.3.1 La temperatura mínima interna de cocción de los alimentos debe ser de al menos:
+   a)   63°C (145°F) para pescado; carne de res en trozo; y huevo de cascarón que ha sido quebrado para
+        cocinarse y de consumo inmediato a solicitud del consumidor.
+   b)   68°C (154°F) para carne de cerdo en trozo; carnes molidas de res, cerdo o pescado; carnes
+        inyectadas y huevo de cascarón que ha sido quebrado para cocinarse y exhibirse en una barra de
+        buffet.
+   c)   74°C (165°F) para embutidos de pescado, res, cerdo o pollo; rellenos de pescado, res, cerdo o aves;
+        carne de aves.
+   7.3.2 Si se llegase a recalentar algún alimento preparado, debe alcanzar una temperatura de por lo menos
+74°C (165°F).
+   7.3.3 Los alimentos preparados y listos para servir y los que se encuentran en barras de exhibición,
+deberán cumplir con lo siguiente:
+   a) Los que se sirven calientes mantenerse a una temperatura mayor a 60°C (140°F), y
+   b) Los que se sirven fríos a una temperatura de 7°C (45°F) o menos.
+   7.4 Control de la Manipulación
+        (Primera Sección)                         DIARIO OFICIAL                      Lunes 1 de marzo de 2010
+
+   7.4.1 La manipulación de alimentos debe cumplir con lo señalado a continuación:
+   a)     Conforme al tipo de alimentos que se manipulen para su preparación, éstos deben estar expuestos a
+          la temperatura ambiente el menor tiempo posible.
+   b)     La descongelación de los alimentos se debe efectuar por refrigeración, por cocción o bien por
+          exposición a microondas.
+   c)     Se debe evitar en todos los casos la descongelación a temperatura ambiente; en caso de aplicarse la
+          descongelación con agua, ésta debe ser a “chorro de agua fría” evitando estancamientos.
+   d)     Los alimentos que se descongelen no deben volverse a congelar.
+   e)     Los alimentos frescos se deben lavar individualmente.
+   f)     Los vegetales, frutas y sus partes se deben lavar con agua, jabón, estropajo o cepillo según el caso y
+          se deben desinfectar con cloro o cualquier otro desinfectante de uso alimenticio. De acuerdo al
+          producto que se emplee, se deben cumplir estrictamente con las instrucciones señaladas por el
+          fabricante.
+   g)     Cuando se utilicen vísceras para la preparación de alimentos, deben lavarse interna y externamente
+          y conservarse en refrigeración o congelación.
+   7.4.2 Los productos de la pesca frescos deben recibirse a una temperatura máxima de 4°C (39.2°F) o a
+una máxima de – 9°C (15.8°F) los congelados. Con excepción de los productos vivos que pueden recibirse a
+7°C (45°F).
+    7.4.3. Cualquier producto alimenticio o bebida rechazado debe estar marcado, separado del resto de los
+alimentos o bebidas y eliminarse lo antes posible.
+   7.4.4 Cuando no se cuente con la documentación referida en el numeral 5.8.1 que demuestre la
+potabilidad del agua para elaborar hielo o preparar alimentos o bebidas que no van a ser sometidas a cocción,
+ésta debe ser hervida, desinfectada o purificada.
+   7.4.5 El agua y hielo potables deben mantenerse en recipientes lisos, lavables y con tapa.
+   7.4.6 El hielo destinado a enfriamiento de botellas, copas o tarros no debe utilizarse para consumo
+humano.
+   7.4.7 El hielo potable debe servirse únicamente con cucharones o pinzas específicas para este efecto. No
+se permite el uso de utensilios de vidrio, ni el contacto directo con las manos.
+   7.4.8 En la exhibición de alimentos preparados, éstos deben permanecer cubiertos a fin de evitar su
+contaminación.
+   7.4.9 Se prohíbe el uso de desperdicios de alimentos para consumo humano.
+   7.4.10 Los sobrantes de alimentos del día sólo podrán reutilizarse una sola vez, cuando se encuentren en
+buen estado y se utilicen en alimentos que van a ser sometidos a cocción.
+    7.4.11 Cuando se proceda a probar la sazón de los alimentos o bebidas, se debe utilizar para este fin
+recipientes o utensilios específicos o desechables.
+   7.5 Limpieza
+    7.5.1 Debe realizarse la limpieza de equipo y utensilios al finalizar las actividades diarias o en los cambios
+de turno. Además los que estén en contacto directo con los alimentos y bebidas deberán desinfectarse.
+   7.5.2 Los equipos desarmables que estén en contacto con los alimentos o bebidas para su lavado deberán
+desarmarse, lavarse y desinfectarse al final de la jornada.
+   7.5.3 En el caso de contar con triturador de alimentos, éste se debe mantener limpio, libre de restos de
+comida y con la protección adecuada.
+   7.5.4 Las sillas, mesas, barra, pisos, paredes, techos, lámparas y demás equipo y mobiliario se deben
+conservar en buen estado y limpios.
+   7.5.5 Las áreas de servicio y comedor deben cumplir con las siguientes disposiciones:
+   a)     Los utensilios de servicio deben estar limpios;
+   b)     Al inicio del servicio, los manteles deben estar limpios;
+   Lunes 1 de marzo de 2010                     DIARIO OFICIAL                              (Primera Sección)
+
+   c)   En caso de utilizar servilletas de tela, éstas deben ser reemplazadas por servilletas limpias para cada
+        consumidor;
+   d)   Las superficies de las mesas se deben limpiar después de cada servicio, así como limpiar y
+        desinfectar al final de la jornada;
+   e)   Los cubiertos se deben manipular por los mangos y evitar tocar las partes que están en contacto con
+        los alimentos o bebidas;
+   f)   No se deben colocar los dedos en partes de vasos, tazas, platos, palillos y popotes que estarán en
+        contacto con los alimentos o bebidas o con la boca del comensal.
+   7.5.6 El lavado de loza y cubiertos se debe hacer mediante el siguiente procedimiento:
+   a)   Escamochar, se debe realizar antes de iniciar el lavado.
+   b)   Lavar pieza por pieza con agua y detergente o jabón líquido o en pasta u otros similares para este
+        fin.
+   c)   Enjuagar con agua potable.
+   d)   Cuando proceda, desinfectar mediante inmersión en agua caliente a una temperatura de 75 a 82°C
+        por lo menos durante medio minuto o con yodo o cloro de acuerdo a las instrucciones del fabricante o
+        de procedimientos internos que garanticen su efectividad.
+   7.5.7 Los establecimientos podrán contar con un equipo mecánico para el lavado de loza. En caso de
+contar con máquina lavaloza, ésta debe funcionar de acuerdo a las recomendaciones del fabricante.
+   7.5.8 El secado de vajillas, vasos o cubiertos que no se laven automáticamente se debe hacer a
+temperatura ambiente o se pueden emplear toallas de papel desechable. En el caso de que se utilicen trapos,
+éstos deben estar limpios, ser de colores claros y exclusivos para este fin.
+   7.5.9 Los trapos y jergas deben lavarse y desinfectarse con la frecuencia requerida de manera que no
+constituyan una fuente de contaminación.
+   7.5.10 Se deben utilizar jergas y trapos exclusivos:
+   a)   Para las superficies en contacto directo con los alimentos;
+   b)   Para la limpieza de mesas y superficies de trabajo;
+   c)   Para la limpieza de mesas en el área de comensales, y
+   d)   Para la limpieza de pisos e instalaciones.
+   7.6 Higiene del Personal
+   7.6.1 Al iniciar la jornada de trabajo, el uniforme o vestimenta debe estar limpio.
+    7.6.2 El personal que prepare o sirva alimentos o bebidas debe presentarse aseado al área de trabajo, con
+el uniforme o vestimenta y calzado limpios. El personal que elabore los alimentos deberá adicionalmente traer
+el cabello corto o recogido, con uñas recortadas y sin esmalte, sin joyería y utilizar protección que cubra
+totalmente cabello, barba, bigote y patilla recortada.
+    7.6.3 Si el personal que elabora alimentos o bebidas manipula dinero, debe utilizar guante o protección de
+plástico para evitar el contacto directo de las manos con el dinero.
+   8. Expendio
+    Los expendios de alimentos, bebidas o suplementos alimenticios además de cumplir con lo establecido en
+el capítulo 5, en lo aplicable, deben cumplir con este capítulo:
+   8.1 Instalaciones y áreas
+   8.1.1 Debe existir una separación entre las áreas de producción o elaboración y expendio.
+   8.1.2 Los establecimientos que expenden diferentes tipos de productos deben evitar la contaminación
+cruzada.
+   8.2 Control de operaciones
+   8.2.1 En los exhibidores no deben estar en contacto directo los alimentos procesados de los no
+procesados, aun cuando requieran de las mismas condiciones de temperatura o humedad para su
+conservación.
+      (Primera Sección)                       DIARIO OFICIAL                        Lunes 1 de marzo de 2010
+
+   8.2.2 Los productos que se encuentren en exhibición para venta deben estar sujetos a una rotación
+efectiva de existencias mediante un sistema PEPS.
+   8.2.3 En los mostradores para exhibición y venta en donde se utilice hielo para conservar los productos,
+debe mantenerse el nivel de hielo y contar con un sistema de drenaje de agua de deshielo.
+   8.2.4 Los establecimientos y tiendas de autoservicio que expendan alimentos para consumo fuera del
+mismo, deben utilizar envases desechables.
+    8.2.5 Las superficies de manipulación, corte y empaque deben lavarse y desinfectarse por lo menos al
+inicio y al final de cada turno.
+   8.3 Comportamiento del personal
+  8.3.1 Los productos a granel deben ser despachados en forma que se evite el contacto directo con las
+manos.
+    8.3.2 Si el personal que expende alimentos o bebidas sin envasar manipula dinero, debe utilizar guante o
+protección de plástico para evitar el contacto directo de las manos con el dinero.
+   8.4 Información al consumidor
+   8.4.1 Los productos preenvasados para venta deben ostentar etiquetas que identifiquen al producto.
+    8.4.2 En el área de expendio de los productos refrigerados se debe ostentar de manera clara y visible un
+letrero donde figure la siguiente leyenda “Conserve el producto en refrigeración” o análoga.
+   9. Concordancia con normas internacionales
+   Esta Norma Oficial Mexicana concuerda parcialmente con el Código Internacional Recomendado de
+Prácticas. Principios Generales de Higiene de los Alimentos. CAC/RCP-1 (1969), Rev. 4 (2003).
+   10. Bibliografía
+    10.1 Almeida C., Schuch D., Gelli D., Cuéllar J.A., Diez A.V., Escamilla J.A. Microbial Contamination of
+street foods sold in Latin America and socioeconomic characteristics of their vendors and consumers. Pan
+American Institute for Food Protection and Zoonoses Veterinary Public Health Program. World Health
+Organization. 1996.
+    10.2    Center    of    Disease   Control.     Procedimiento     para      el     lavado     de    manos.
+http://www.cdc.gov/ncidod/op/handwashing.htm.
+  10.3 Comisión del Codex Alimentarius “Código internacional. Recomendado de Prácticas. Principios
+Generales de Higiene de los Alimentos”, CAC/RCP 1-1969, Rev. 4 (2003).
+   10.4 Instituto Nacional de la Nutrición Salvador Zubirán. Encuesta Urbana de Alimentación y Nutrición
+1995.
+  10.5 Fernández, E. 2000. Microbiología e Inocuidad de los Alimentos. Editorial Universidad de Querétaro.
+México.
+   10.6 Food and Drug Administration. “Bad Bug Book” http://vm.cfsan.fda.gov
+    10.7 International Commission Microbiological Specifications of Foods. Ecología Microbiana de los
+Alimentos. Ed. Acribia. España p. 697
+   10.8 Ley General de Salud, última Reforma. México, D.F.
+   10.9 Organización Panamericana de la Salud. INNPAZ http://www.panalimentos.org
+   10.10 Pan American Health Organization. Division of Disease Prevention and Control. Microbial
+contamination of street foods sold in Latin America and socioeconomic characteristics of their vendors and
+consumers. 1996 OPS/HCP/HCV/96.2
+   10.11 Reglamento de Control Sanitario de Productos y Servicios. México, D.F.
+   10.12 Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades,
+Establecimientos, Productos y Servicios. México, D.F.
+   10.13 Sistema Nacional de Vigilancia Epidemiológica. http://www.dgepi.salud.gob.mx
+   10.14 U.S. Government printing office. Washington Office of the Federal Register. 1990. Code of Federal
+Regulations. 21.110 Current Good Manufacturing Practices.
+    Lunes 1 de marzo de 2010                              DIARIO OFICIAL                                       (Primera Sección)
+
+    11. Observancia de la Norma
+   La vigilancia del cumplimiento de la presente Norma corresponde a la Secretaría de Salud y a los
+gobiernos de las entidades federativas, en el ámbito de sus respectivas competencias.
+    12. Vigencia
+   La presente Norma Oficial Mexicana entrará en vigor con su carácter de obligatoria a los 270 días
+posteriores a la fecha de su publicación en el Diario Oficial de la Federación.
+    La presente Norma Oficial Mexicana cancela las normas oficiales mexicanas NOM-120-SSA1-1994,
+Bienes y servicios. Prácticas de higiene y sanidad para el proceso de alimentos, bebidas no alcohólicas y
+alcohólicas y la NOM-093-SSA1-1994, Bienes y Servicios. Prácticas de higiene y sanidad en la preparación de
+alimentos que se ofrecen en establecimientos fijos, publicadas en el Diario Oficial de la Federación el 28 de
+agosto de 1995 y 4 de octubre de 1995, respectivamente.
+    Sufragio Efectivo. No Reelección.
+   México, D.F., a 8 de diciembre de 2009.- El Comisionado Federal y Presidente del Comité Consultivo
+Nacional de Normalización de Regulación y Fomento Sanitario, Miguel Angel Toscano Velasco.- Rúbrica.
+                                                           APENDICE A
+         SISTEMA DE ANALISIS DE PELIGROS Y DE PUNTOS CRITICOS DE CONTROL (HACCP) Y
+                              DIRECTRICES PARA SU APLICACION
+    PREAMBULO
+    En este apéndice se ofrecen orientaciones generales para la aplicación del sistema, a la vez que se
+reconoce que los detalles para la aplicación pueden variar según las circunstancias de la industria
+           1
+alimentaria .
+    El sistema de HACCP, que tiene fundamentos científicos y carácter sistemático, permite identificar peligros
+específicos y medidas para su control con el fin de garantizar la inocuidad de los alimentos. Es un instrumento
+para evaluar los peligros y establecer sistemas de control que se centran en la prevención en lugar de basarse
+principalmente en el ensayo del producto final. Todo sistema de HACCP es susceptible de cambios que
+pueden derivar de los avances en el diseño del equipo, los procedimientos de elaboración o el sector
+tecnológico.
+    El sistema HACCP puede aplicarse a lo largo de toda la cadena alimentaria, desde el productor primario
+hasta el consumidor final, y su aplicación deberá basarse en pruebas científicas de peligros para la salud
+humana, además de mejorar la inocuidad de los alimentos, la aplicación del sistema HACCP puede ofrecer
+otras ventajas significativas, facilitar asimismo la inspección por parte de las autoridades de reglamentación, y
+promover el comercio internacional al aumentar la confianza en la inocuidad de los alimentos.
+     Para que la aplicación del sistema de HACCP dé buenos resultados, es necesario que tanto la dirección
+como el personal se comprometan y participen plenamente. También se requiere un enfoque multidisciplinario
+en el cual se deberá incluir, cuando proceda, a expertos agrónomos, veterinarios, personal de producción,
+microbiólogos, especialistas en medicina y salud pública, tecnólogos en alimentos, expertos en salud
+ambiental, químicos e ingenieros, según el estudio de que se trate. La aplicación del sistema de HACCP es
+compatible con la aplicación de sistemas de gestión de calidad, como la serie ISO 9000, y es el método
+utilizado de preferencia para controlar la inocuidad de los alimentos en el marco de tales sistemas.
+   Si bien aquí se ha considerado la aplicación del sistema de HACCP a la inocuidad de los alimentos, el
+concepto puede aplicarse a otros aspectos de la calidad de los alimentos.
+    DEFINICIONES
+    Análisis de peligros: Proceso de recopilación y evaluación de información sobre los peligros y las
+condiciones que los originan para decidir cuáles son importantes con la inocuidad de los alimentos y, por
+tanto, planteados en el plan del sistema de HACCP.
+    Controlado: Condición obtenida por cumplimiento de los procedimientos y de los criterios marcados.
+
+
+1
+  Los principios del sistema de HACCP establecen los fundamentos de los requisitos para la aplicación del sistema de HACCP, mientras que
+las directrices ofrecen orientaciones generales para la aplicación práctica.
+      (Primera Sección)                       DIARIO OFICIAL                      Lunes 1 de marzo de 2010
+
+    Controlar: Adoptar todas las medidas necesarias para asegurar y mantener el cumplimiento de los
+criterios establecidos en el plan de HACCP.
+   Desviación: Situación existente cuando un límite crítico es incumplido.
+    Diagrama de flujo: Representación sistemática de la secuencia de fases u operaciones llevadas a cabo
+en la producción o elaboración de un determinado producto alimenticio.
+    Fase: Cualquier punto, procedimiento, operación o etapa de la cadena alimentaria, incluidas las materias
+primas, desde la producción primaria hasta el consumo final.
+   Límite crítico: Criterio que diferencia la aceptabilidad o inaceptabilidad del proceso en una determinada
+fase.
+   Medida correctiva: Acción que hay que realizar cuando los resultados de la vigilancia en los PCC indican
+pérdida en el control del proceso.
+   Medida de control: Cualquier medida y actividad que puede realizarse para prevenir o eliminar un peligro
+para la inocuidad de los alimentos o para reducirlo a un nivel aceptable.
+    Peligro: Agente biológico, químico o físico presente en el alimento, o bien la condición en que éste se
+halla, que puede causar un efecto adverso para la salud.
+    Plan de HACCP: Documento preparado de conformidad con los principios del sistema de HACCP, de tal
+forma que su cumplimiento asegura el control de los peligros que resultan significativos para la inocuidad de
+los alimentos en el segmento de la cadena alimentaria considerado.
+   Punto crítico de control (PCC): Fase en la que puede aplicarse un control y que es esencial para
+prevenir o eliminar un peligro relacionado con la inocuidad de los alimentos o para reducirlo a un nivel
+aceptable.
+    Sistema de HACCP: Sistema que permite identificar, evaluar y controlar peligros significativos para la
+inocuidad de los alimentos.
+   Validación: Constatación de que los elementos del plan de HACCP son efectivos.
+    Verificación: Aplicación de métodos, procedimientos, ensayos y otras evaluaciones, además de la
+vigilancia, para constatar el cumplimiento del plan de HACCP.
+   Vigilar: Llevar a cabo una secuencia planificada de observaciones o mediciones de los parámetros de
+control para evaluar si un PCC está bajo control.
+   PRINCIPIOS DEL SISTEMA DE HACCP
+   El Sistema de HACCP consiste en los siete principios siguientes:
+   PRINCIPIO 1
+   Realizar un análisis de peligros.
+   PRINCIPIO 2
+   Determinar los puntos críticos de control (PCC).
+   PRINCIPIO 3
+   Establecer un límite o límites críticos.
+   PRINCIPIO 4
+   Establecer un sistema de vigilancia del control de los PCC.
+   PRINCIPIO 5
+  Establecer las medidas correctivas que han de adoptarse cuando la vigilancia indica que un determinado
+PCC no está controlado.
+   PRINCIPIO 6
+    Establecer procedimientos de comprobación para confirmar que el Sistema de HACCP funciona
+eficazmente.
+   Lunes 1 de marzo de 2010                     DIARIO OFICIAL                               (Primera Sección)
+
+   PRINCIPIO 7
+   Establecer un sistema de documentación sobre todos los procedimientos y los registros apropiados para
+estos principios y su aplicación.
+   DIRECTRICES PARA LA APLICACION DEL SISTEMA DE HACCP
+    Antes de aplicar el sistema de HACCP a cualquier sector de la cadena alimentaria, es necesario que el
+sector cuente con programas, como buenas prácticas de higiene, conforme a los Principios Generales de
+Higiene de los Alimentos del Codex, los Códigos de Prácticas del Codex pertinentes, y requisitos apropiados
+en materia de inocuidad de los alimentos. Estos programas previos necesarios para el sistema de HACCP,
+incluida la capacitación, deben estar firmemente establecidos y en pleno funcionamiento, y haberse verificado
+adecuadamente para facilitar la aplicación eficaz de dicho sistema.
+    En todos los tipos de empresa del sector alimentario son necesarios el conocimiento y el compromiso por
+parte de la dirección para poder aplicar un sistema de HACCP eficaz. Tal eficacia también dependerá de que
+la dirección y los empleados posean el conocimiento y las aptitudes técnicas adecuados en relación con el
+sistema de HACCP.
+    En la identificación del peligro, en su evaluación y en las operaciones subsiguientes de diseño y aplicación
+de sistemas de HACCP deberán tenerse en cuenta los efectos de las materias primas, los ingredientes, las
+prácticas de fabricación de alimentos, la función de los procesos de fabricación en el control de los peligros, el
+uso final probable del producto, las categorías de consumidores afectadas y los datos epidemiológicos
+relativos a la inocuidad de los alimentos.
+    La finalidad del sistema de HACCP es que el control se centre en los puntos críticos de control (PCC). En
+el caso de que se identifique un peligro que debe controlarse pero no se encuentre ningún PCC, deberá
+considerarse la posibilidad de rediseñar la operación.
+    El sistema de HACCP deberá aplicarse a cada operación concreta por separado. Puede darse el caso de
+que los PCC identificados en un cierto ejemplo de algún código de prácticas de higiene del Codex no sean los
+únicos que se determinan para una aplicación concreta, o que sean de naturaleza diferente. Cuando se
+introduzca alguna modificación en el producto, en el proceso o en cualquier fase, será necesario examinar la
+aplicación del sistema de HACCP y realizar los cambios oportunos.
+    Cada empresa debe hacerse cargo de la aplicación de los principios del sistema de HACCP; no obstante,
+los gobiernos y las empresas son conscientes de que puede haber obstáculos que impidan la aplicación eficaz
+de dicho sistema por la propia empresa. Esto puede ocurrir sobre todo en las empresas pequeñas y/o menos
+desarrolladas. Aunque se reconoce que el HACCP ha de aplicarse con la flexibilidad apropiada, deben
+observarse los siete principios en los que se basa el sistema. Dicha flexibilidad ha de tomar en cuenta la
+naturaleza y envergadura de la actividad, incluidos los recursos humanos y financieros; la infraestructura, los
+procedimientos, los conocimientos y las limitaciones prácticas.
+     Las empresas pequeñas y/o menos desarrolladas no siempre disponen de los recursos y conocimientos
+especializados necesarios para formular y aplicar un plan de HACCP eficaz. En tales casos, deberá obtenerse
+asesoramiento especializado de otras fuentes, entre las que se pueden incluir asociaciones comerciales e
+industriales, expertos independientes y autoridades de reglamentación. Pueden ser de utilidad la literatura
+sobre el sistema de HACCP y, en particular, las guías concebidas específicamente para un cierto sector. Una
+guía al sistema de HACCP elaborada por expertos y pertinente al proceso o tipo de operación en cuestión
+puede ser una herramienta útil para las empresas al diseñar y aplicar sus planes de HACCP. Si las empresas
+utilizan dicha orientación elaborada por expertos sobre el sistema de HACCP, es fundamental que la misma
+sea específica para los alimentos y/o procesos considerados. En el documento FAO/OMS (en curso de
+elaboración) sobre los obstáculos para la aplicación del sistema de HACCP especialmente en las empresas
+pequeñas y menos desarrolladas se encontrará información más detallada sobre las dificultades para poner
+en práctica el sistema, en particular en tales empresas, y recomendaciones para superar dichos obstáculos.
+   No obstante, la eficacia de cualquier sistema de HACCP dependerá de que la dirección y los empleados
+posean el conocimiento y la práctica adecuados sobre el sistema de HACCP, y por tanto se requiere la
+capacitación constante de los empleados y la dirección a todos los niveles, según sea apropiado.
+      (Primera Sección)                         DIARIO OFICIAL                          Lunes 1 de marzo de 2010
+
+   APLICACION
+   La aplicación de los principios del sistema de HACCP consta de las siguientes operaciones, que se
+identifican en la secuencia lógica para la aplicación del sistema de HACCP (Diagrama 1).
+   1. Formación de un equipo de HACCP
+    La empresa alimentaria deberá asegurarse de que dispone de los conocimientos y competencia técnica
+adecuados para sus productos específicos a fin de formular un plan de HACCP eficaz. Para lograrlo, lo ideal
+es crear un equipo multidisciplinario. Cuando no se disponga de tal competencia técnica en la propia empresa
+deberá recabarse asesoramiento especializado de otras fuentes como, por ejemplo, asociaciones comerciales
+e industriales, expertos independientes y autoridades de reglamentación, así como de la literatura sobre el
+sistema de HACCP y la orientación para su uso (en particular guías para aplicar el sistema de HACCP en
+sectores específicos). Es posible que una persona adecuadamente capacitada que tenga acceso a tal
+orientación esté en condiciones de aplicar el sistema de HACCP en la empresa. Se debe determinar el ámbito
+de aplicación del plan de HACCP, que ha de describir el segmento de la cadena alimentaria afectado y las
+clases generales de peligros que han de abordarse (por ejemplo, si abarcará todas las clases de peligros o
+solamente algunas de ellas).
+
+   2. Descripción del producto
+
+   Deberá formularse una descripción completa del producto, que incluya tanto información pertinente a la
+inocuidad como, por ejemplo, su composición, estructura física/química (incluidos Aw, pH, etc.), tratamientos
+microbicidas/microbiostáticos aplicados (térmicos, de congelación, salmuerado, ahumado, etc.), envasado,
+duración, condiciones de almacenamiento y sistema de distribución. En las empresas de suministros de
+productos múltiples, por ejemplo empresas de servicios de comidas, puede resultar eficaz agrupar productos
+con características o fases de elaboración similares para la elaboración del plan de HACCP.
+
+   3. Determinación del uso al que ha de destinarse
+
+   El uso al que ha de destinarse deberá basarse en los usos previstos del producto por parte del usuario o
+consumidor final. En determinados casos, como en la alimentación en instituciones, habrá que tener en cuenta
+si se trata de grupos vulnerables de la población.
+
+   4. Elaboración de un diagrama de flujo
+
+   El equipo de HACCP (véase también el apartado 1 anterior) deberá construir un diagrama de flujo. Este ha
+de abarcar todas las fases de las operaciones relativas a un producto determinado. Se podrá utilizar el mismo
+diagrama para varios productos si su fabricación comparte fases de elaboración similares. Al aplicar el
+sistema de HACCP a una operación determinada, deberán tenerse en cuenta las fases anteriores y
+posteriores a dicha operación.
+
+   5. Confirmación in situ del diagrama de flujo
+
+   Deberán adoptarse medidas para confirmar la correspondencia entre el diagrama de flujo y la operación
+de elaboración en todas sus etapas y momentos, y modificarlo si procede. La confirmación del diagrama de
+flujo deberá estar a cargo de una persona o personas que conozcan suficientemente las actividades de
+elaboración.
+
+   6. Enumeración de todos los posibles riesgos relacionados con cada fase, ejecución de un análisis
+de peligros, y estudio de las medidas para controlar los peligros identificados
+
+   (VEASE EL PRINCIPIO 1)
+
+   El equipo de HACCP (véase también más arriba, “Formación de un equipo de HACCP”) deberá enumerar
+todos los peligros que puede razonablemente preverse que se producirán en cada fase, desde la producción
+primaria, la elaboración, la fabricación y la distribución hasta el punto de consumo.
+    Lunes 1 de marzo de 2010                               DIARIO OFICIAL                                         (Primera Sección)
+
+    Luego, el equipo de HACCP (véase también más arriba, “Formación de un equipo de HACCP”) deberá
+llevar a cabo un análisis de peligros para identificar, en relación con el plan de HACCP, cuáles son los peligros
+cuya eliminación o reducción a niveles aceptables resulta indispensable, por su naturaleza, para producir un
+alimento inocuo.
+
+    Al realizar un análisis de peligros, deberán incluirse, siempre que sea posible, los siguientes factores:
+
+    - la probabilidad de que surjan peligros y la gravedad de sus efectos perjudiciales para la salud;
+
+    - la evaluación cualitativa y/o cuantitativa de la presencia de peligros;
+
+    - la supervivencia o proliferación de los microorganismos involucrados;
+
+    - la producción o persistencia de toxinas, sustancias químicas o agentes físicos en los alimentos; y
+
+    - las condiciones que pueden originar lo anterior.
+
+    Deberá analizarse qué medidas de control, si las hubiera, se pueden aplicar en relación con cada peligro.
+
+    Puede que sea necesario aplicar más de una medida para controlar un peligro o peligros específicos, y
+que con una determinada medida se pueda controlar más de un peligro.
+    7. Determinación de los puntos críticos de control (PCC)
+                                     2
+    (VEASE EL PRINCIPIO 2)
+    Es posible que haya más de un PCC al que se aplican medidas de control para hacer frente a un peligro
+específico. La determinación de un PCC en el sistema de HACCP se puede facilitar con la aplicación de un
+árbol de decisiones, como por ejemplo el Diagrama 2, en el que se indique un enfoque de razonamiento
+lógico. El árbol de decisiones deberá aplicarse de manera flexible, considerando si la operación se refiere a la
+producción, el sacrificio, la elaboración, el almacenamiento, la distribución u otro fin, y deberá utilizarse con
+carácter orientativo en la determinación de los PCC. Este ejemplo de árbol de decisiones puede no ser
+aplicable a todas las situaciones, por lo cual podrán utilizarse otros enfoques. Se recomienda que se imparta
+capacitación en la aplicación del árbol de decisiones.
+    Si se identifica un peligro en una fase en la que el control es necesario para mantener la inocuidad, y no
+existe ninguna medida de control que pueda adoptarse en esa fase o en cualquier otra, el producto o el
+proceso deberá modificarse en esa fase, o en cualquier fase anterior o posterior, para incluir una medida de
+control.
+    8. Establecimiento de límites críticos para cada PCC
+    (VEASE EL PRINCIPIO 3)
+    Para cada punto crítico de control, deberán especificarse y validarse, si es posible, límites críticos. En
+determinados casos, para una determinada fase, se elaborará más de un límite crítico. Entre los criterios
+aplicados suelen figurar las mediciones de temperatura, tiempo, nivel de humedad, pH, Aw y cloro disponible,
+así como parámetros sensoriales como el aspecto y la textura.
+    Si se han utilizado guías al sistema de HACCP elaboradas por expertos para establecer los límites críticos,
+deberá ponerse cuidado para asegurar que esos límites sean plenamente aplicables a la actividad específica
+y al producto o grupos de productos en cuestión. Los límites críticos deberán ser mensurables.
+    9. Establecimiento de un sistema de vigilancia para cada PCC
+    (VEASE EL PRINCIPIO 4)
+   La vigilancia es la medición u observación programadas de un PCC en relación con sus límites críticos.
+Mediante los procedimientos de vigilancia deberá poderse detectar una pérdida de control en el PCC.
+Además, lo ideal es que la vigilancia proporcione esta información a tiempo como para hacer correcciones que
+permitan asegurar el control del proceso para impedir que se infrinjan los límites críticos. Cuando sea posible,
+
+
+
+
+2
+  Desde su publicación, el árbol de decisiones del Codex se ha utilizado muchas veces para fines de capacitación. En muchos casos, aunque
+ha sido útil para explicar la lógica y el nivel de comprensión que se necesitan para determinar los PCC, no es específico para todas las
+operaciones de la cadena alimentaria, por ejemplo el sacrificio, y, en consecuencia, deberá utilizarse teniendo en cuenta la opinión de los
+profesionales y, en algunos casos, debería modificarse.
+      (Primera Sección)                          DIARIO OFICIAL                    Lunes 1 de marzo de 2010
+
+los procesos deberán corregirse cuando los resultados de la vigilancia indiquen una tendencia a la pérdida de
+control en un PCC, y las correcciones deberán efectuarse antes de que ocurra una desviación.
+    Los datos obtenidos gracias a la vigilancia deberán ser evaluados por una persona designada que tenga
+los conocimientos y la competencia necesarios para aplicar medidas correctivas, cuando proceda. Si la
+vigilancia no es continua, su grado o frecuencia deberán ser suficientes como para garantizar que el PCC esté
+controlado. La mayoría de los procedimientos de vigilancia de los PCC deberán efectuarse con rapidez porque
+se referirán a procesos continuos y no habrá tiempo para ensayos analíticos prolongados. Con frecuencia se
+prefieren las mediciones físicas y químicas a los ensayos microbiológicos, porque pueden realizarse
+rápidamente y a menudo indican el control microbiológico del producto.
+    Todos los registros y documentos relacionados con la vigilancia de los PCC deberán estar firmados por la
+persona o personas que efectúan la vigilancia y por el funcionario o funcionarios de la empresa encargados de
+la revisión.
+   10. Establecimiento de medidas correctivas
+   (VEASE EL PRINCIPIO 5)
+    Con el fin de hacer frente a las desviaciones que puedan producirse, deberán formularse medidas
+correctivas específicas para cada PCC del sistema de HACCP.
+    Estas medidas deberán asegurar que el PCC vuelva a estar controlado. Las medidas adoptadas deberán
+incluir también un sistema adecuado de eliminación del producto afectado. Los procedimientos relativos a las
+desviaciones y la eliminación de los productos deberán documentarse en los registros de HACCP.
+   11. Establecimiento de procedimientos de comprobación
+   (VEASE EL PRINCIPIO 6)
+    Deberán establecerse procedimientos de comprobación. Para determinar si el sistema de HACCP
+funciona correctamente, podrán utilizarse métodos, procedimientos y ensayos de comprobación y verificación,
+en particular mediante muestreo aleatorio y análisis. La frecuencia de las comprobaciones deberá ser
+suficiente para confirmar que el sistema de HACCP está funcionando eficazmente.
+    La comprobación deberá efectuarla una persona distinta de la encargada de la vigilancia y las medidas
+correctivas. En caso de que algunas de las actividades de comprobación no se puedan llevar a cabo en la
+empresa, podrán ser realizadas por expertos externos o terceros calificados en nombre de la misma.
+   Entre las actividades de comprobación pueden citarse, a título de ejemplo, las siguientes:
+   - examen del sistema de HACCP y de sus registros;
+   - examen de las desviaciones y los sistemas de eliminación del producto;
+   - confirmación de que los PCC se mantienen bajo control.
+   Cuando sea posible, las actividades de validación deberán incluir medidas que confirmen la eficacia de
+todos los elementos del plan de HACCP.
+   12. Establecimiento de un sistema de documentación y registro
+   (VEASE EL PRINCIPIO 7)
+    Para aplicar un sistema de HACCP es fundamental que se apliquen prácticas de registro eficaces y
+precisas. Deberán documentarse los procedimientos del sistema de HACCP, y los sistemas de
+documentación y registro deberán ajustarse a la naturaleza y magnitud de la operación en cuestión y ser
+suficientes para ayudar a las empresas a comprobar que se realizan y mantienen los controles de HACCP. La
+orientación sobre el sistema de HACCP elaborada por expertos (por ejemplo, guías de HACCP específicas
+para un sector) puede utilizarse como parte de la documentación, siempre y cuando dicha orientación se
+refiera específicamente a los procedimientos de elaboración de alimentos de la empresa interesada.
+   Los ejemplos de documentación son:
+   - el análisis de peligros;
+   - la determinación de los PCC;
+   - la determinación de los límites críticos.
+   Como ejemplos de registros se pueden mencionar:
+   Lunes 1 de marzo de 2010                      DIARIO OFICIAL                            (Primera Sección)
+
+   - las actividades de vigilancia de los PCC;
+   - las desviaciones y las medidas correctivas correspondientes;
+   - los procedimientos de comprobación aplicados;
+   - las modificaciones al plan de HACCP.
+   Se adjunta como Diagrama 3 un ejemplo de hoja de trabajo del sistema de HACCP.
+    Un sistema de registro sencillo puede ser eficaz y fácil de enseñar a los trabajadores. Puede integrarse en
+las operaciones existentes y basarse en modelos de documentos ya disponibles, como las facturas de entrega
+y las listas de control utilizadas para registrar, por ejemplo, la temperatura de los productos.
+   CAPACITACION
+    La capacitación del personal de la industria, el gobierno y los medios académicos en los principios y las
+aplicaciones del sistema de HACCP y la mayor conciencia de los consumidores constituyen elementos
+esenciales para una aplicación eficaz del mismo. Para contribuir al desarrollo de una capacitación específica
+en apoyo de un plan de HACCP, deberán formularse instrucciones y procedimientos de trabajo que definan
+las tareas del personal operativo que se destacará en cada punto crítico de control.
+   La cooperación entre productor primario, industria, grupos comerciales, organizaciones de consumidores y
+autoridades competentes es de máxima importancia. Deberán ofrecerse oportunidades para la capacitación
+conjunta del personal de la industria y los organismos de control, con el fin de fomentar y mantener un diálogo
+permanente y de crear un clima de comprensión para la aplicación práctica del sistema de HACCP.
+
+
+
+
+                                                 DIAGRAMA 1
+(Primera Sección)   DIARIO OFICIAL   Lunes 1 de marzo de 2010
+Lunes 1 de marzo de 2010                  DIARIO OFICIAL                    (Primera Sección)
+
+
+
+                                           DIAGRAMA 2
+         EJEMPLO DE UNA SECUENCIA DE DECISIONES PARA IDENTIFICAR LOS PCC
+                           (responder a las preguntas por orden sucesivo)
+(Primera Sección)                     DIARIO OFICIAL             Lunes 1 de marzo de 2010
+
+
+
+
+                                       DIAGRAMA 3
+                    EJEMPLO DE HOJA DE TRABAJO DEL SISTEMA DE HACCP
+
+
+
+
+                            __________________________________
+
