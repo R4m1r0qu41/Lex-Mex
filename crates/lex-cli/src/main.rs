@@ -12,11 +12,11 @@ use clap::{Parser, Subcommand, ValueEnum};
 use lex_core::{
     Corpus, Instrument, InstrumentStatus, InstrumentType, ProvisionType, ReferenceResolutionStatus,
     ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest, StandardKind,
-    StandardMetadata, StandardStatus, TemporalAnalysisMetadata, TemporalAnalysisRequest,
-    TemporalAnalysisResult, TemporalEvidence, TemporalModelBatch, TemporalReviewResolution,
-    TemporalStatus, TransitoryEffect, apply_temporal_determinations, open_temporal_review,
-    preserve_temporal_review_history, reapply_temporal_determinations, resolve_temporal_review,
-    route_temporal_analysis,
+    StandardMetadata, StandardStatus, StandardTextBasis, TemporalAnalysisMetadata,
+    TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence, TemporalModelBatch,
+    TemporalReviewResolution, TemporalStatus, TransitoryEffect, apply_temporal_determinations,
+    open_temporal_review, preserve_temporal_review_history, reapply_temporal_determinations,
+    resolve_temporal_review, route_temporal_analysis,
 };
 use lex_export::{
     LinkTargets, TermTargets, link_targets, term_targets, write_canonical, write_markdown,
@@ -424,6 +424,10 @@ struct InstrumentIndexEntry {
     status: String,
     publication_date: NaiveDate,
     latest_reform_date: Option<NaiveDate>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    text_basis: Option<String>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    unconsolidated_modification_count: Option<usize>,
     path: PathBuf,
 }
 
@@ -464,6 +468,8 @@ fn committed_instrument_index(root: &Path) -> Result<Vec<InstrumentIndexEntry>> 
                     status: instrument_status_name(&instrument.status).to_owned(),
                     publication_date: instrument.publication_date,
                     latest_reform_date: instrument.latest_reform_date,
+                    text_basis: None,
+                    unconsolidated_modification_count: None,
                     path,
                 })
             } else {
@@ -476,7 +482,19 @@ fn committed_instrument_index(root: &Path) -> Result<Vec<InstrumentIndexEntry>> 
                     instrument_type: standard_kind_name(&standard.kind).to_owned(),
                     status: standard_status_name(&standard.status).to_owned(),
                     publication_date: standard.publication_date,
-                    latest_reform_date: None,
+                    latest_reform_date: standard
+                        .modifications
+                        .iter()
+                        .map(|source| source.publication_date)
+                        .max(),
+                    text_basis: Some(standard_text_basis_name(&standard.text_basis).to_owned()),
+                    unconsolidated_modification_count: Some(
+                        standard
+                            .modifications
+                            .iter()
+                            .filter(|source| !source.included_in_source)
+                            .count(),
+                    ),
                     path,
                 })
             }
@@ -518,6 +536,13 @@ fn standard_status_name(value: &StandardStatus) -> &'static str {
         StandardStatus::Cancelled => "cancelled",
         StandardStatus::Replaced => "replaced",
         StandardStatus::Unknown => "unknown",
+    }
+}
+
+fn standard_text_basis_name(value: &StandardTextBasis) -> &'static str {
+    match value {
+        StandardTextBasis::AsPublished => "as_published",
+        StandardTextBasis::OfficialConsolidated => "official_consolidated",
     }
 }
 

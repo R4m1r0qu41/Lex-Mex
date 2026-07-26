@@ -439,7 +439,8 @@ mod tests {
     use lex_core::{
         Corpus, HeadingContext, Instrument, InstrumentStatus, InstrumentType, Provision,
         ProvisionType, ReviewStatus, SCHEMA_VERSION, StandardKind, StandardMetadata,
-        StandardStatus, StandardValidationReport, TechnicalReviewStatus, TemporalStatus,
+        StandardStatus, StandardTextBasis, StandardValidationReport, TechnicalReviewStatus,
+        TemporalStatus,
     };
     use lex_export::{write_canonical, write_validation};
     use url::Url;
@@ -611,6 +612,9 @@ mod tests {
             objective: None,
             scope: None,
             conformity_assessment: None,
+            text_basis: StandardTextBasis::AsPublished,
+            modifications: Vec::new(),
+            systematic_review: None,
             source_url: Url::parse("https://example.test/source.pdf").unwrap(),
             official_dof_url: Url::parse("https://example.test/dof").unwrap(),
             official_registry_url: Some(Url::parse("https://example.test/registry").unwrap()),

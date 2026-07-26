@@ -50,6 +50,27 @@ pub enum TechnicalReviewStatus {
     TechnicalVerified,
 }
 
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum StandardTextBasis {
+    AsPublished,
+    OfficialConsolidated,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct StandardModificationSource {
+    pub publication_date: NaiveDate,
+    pub official_url: Url,
+    pub included_in_source: bool,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct StandardSystematicReview {
+    pub review_date: NaiveDate,
+    pub result: String,
+    pub report_url: Option<Url>,
+}
+
 /// Source-grounded identity and lifecycle facts for one NOM or NMX.
 ///
 /// This remains separate from [`Instrument`]: standards have designation,
@@ -77,6 +98,10 @@ pub struct StandardMetadata {
     pub objective: Option<String>,
     pub scope: Option<String>,
     pub conformity_assessment: Option<String>,
+    pub text_basis: StandardTextBasis,
+    #[serde(default)]
+    pub modifications: Vec<StandardModificationSource>,
+    pub systematic_review: Option<StandardSystematicReview>,
     pub source_url: Url,
     pub official_dof_url: Url,
     pub official_registry_url: Option<Url>,

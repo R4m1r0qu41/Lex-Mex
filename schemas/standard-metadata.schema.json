@@ -19,6 +19,9 @@
     "objective",
     "scope",
     "conformity_assessment",
+    "text_basis",
+    "modifications",
+    "systematic_review",
     "source_url",
     "official_dof_url",
     "official_registry_url",
@@ -86,6 +89,17 @@
     "objective": { "type": ["string", "null"] },
     "scope": { "type": ["string", "null"] },
     "conformity_assessment": { "type": ["string", "null"] },
+    "text_basis": { "enum": ["as_published", "official_consolidated"] },
+    "modifications": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/modification" }
+    },
+    "systematic_review": {
+      "oneOf": [
+        { "$ref": "#/$defs/systematic_review" },
+        { "type": "null" }
+      ]
+    },
     "source_url": { "type": "string", "format": "uri" },
     "official_dof_url": { "type": "string", "format": "uri" },
     "official_registry_url": {
@@ -107,6 +121,31 @@
     }
   },
   "$defs": {
+    "modification": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["publication_date", "official_url", "included_in_source"],
+      "properties": {
+        "publication_date": { "type": "string", "format": "date" },
+        "official_url": { "type": "string", "format": "uri" },
+        "included_in_source": { "type": "boolean" }
+      }
+    },
+    "systematic_review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["review_date", "result", "report_url"],
+      "properties": {
+        "review_date": { "type": "string", "format": "date" },
+        "result": { "type": "string", "minLength": 1 },
+        "report_url": {
+          "oneOf": [
+            { "type": "string", "format": "uri" },
+            { "type": "null" }
+          ]
+        }
+      }
+    },
     "sha256": {
       "type": "string",
       "pattern": "^[0-9a-f]{64}$"

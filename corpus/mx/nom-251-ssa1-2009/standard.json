@@ -23,6 +23,13 @@
   "objective": null,
   "scope": null,
   "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2025-01-07",
+    "result": "Confirmación",
+    "report_url": null
+  },
   "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/251ssa12009.pdf",
   "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5133449&fecha=01/03/2010",
   "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/nom-251-ssa1-2009/",

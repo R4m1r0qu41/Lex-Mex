@@ -3,7 +3,7 @@ use std::collections::HashSet;
 use anyhow::{Result, bail};
 use lex_core::{
     SCHEMA_VERSION, Severity, StandardClause, StandardKind, StandardMetadata, StandardStatus,
-    StandardValidationReport, ValidationIssue,
+    StandardTextBasis, StandardValidationReport, ValidationIssue,
 };
 use regex::Regex;
 
@@ -24,23 +24,30 @@ pub fn parse_standard_clauses(
             Some((whole.start(), number.to_owned(), order))
         })
         .collect::<Vec<_>>();
-    let Some((first_body, body_end)) = matches
+    let Some((selected, body_end)) = matches
         .iter()
         .enumerate()
         .filter(|(_, (_, _, order))| order.len() == 1 && matches!(order[0], 0 | 1))
-        .map(|(start, _)| (start, monotonic_run_end(&matches, start)))
-        .max_by_key(|(start, end)| end - start)
+        .map(|(start, _)| numbered_body_run(&matches, start))
+        .max_by_key(|(selected, _)| selected.len())
     else {
         bail!("standard text has no numbered body beginning with clause 0 or 1");
     };
-    let matches = &matches[first_body..body_end];
+    let numbering_end = matches
+        .get(body_end)
+        .map_or(source_text.len(), |(start, _, _)| *start);
+    let matches = selected
+        .into_iter()
+        .map(|index| matches[index].clone())
+        .collect::<Vec<_>>();
     let structural_end = matches.last().map_or(source_text.len(), |(start, _, _)| {
-        standard_body_end(source_text, *start)
+        standard_clause_end(source_text, *start, numbering_end)
     });
 
     let mut clauses = Vec::with_capacity(matches.len());
     for (index, (start, number, _)) in matches.iter().enumerate() {
-        let end = matches.get(index + 1).map_or(structural_end, |next| next.0);
+        let natural_end = matches.get(index + 1).map_or(structural_end, |next| next.0);
+        let end = standard_clause_end(source_text, *start, natural_end);
         let (trimmed_start, trimmed_end) = trim_span(source_text, *start, end);
         let text = source_text[trimmed_start..trimmed_end].to_owned();
         clauses.push(StandardClause {
@@ -57,27 +64,36 @@ pub fn parse_standard_clauses(
     Ok(clauses)
 }
 
-fn standard_body_end(source_text: &str, last_clause_start: usize) -> usize {
+fn standard_clause_end(source_text: &str, clause_start: usize, natural_end: usize) -> usize {
     let markers = Regex::new(
         r"(?mi)^[ \t]*(?:SUFRAGIO[ \t]+EFECTIVO\b|TRANSITORIOS?\b|AP[ÉE]NDICE\b|ANEXO\b)",
     )
     .expect("standard end-marker regex must compile");
     markers
-        .find(&source_text[last_clause_start..])
-        .map_or(source_text.len(), |marker| {
-            last_clause_start + marker.start()
-        })
+        .find(&source_text[clause_start..natural_end])
+        .map_or(natural_end, |marker| clause_start + marker.start())
 }
 
-fn monotonic_run_end(matches: &[(usize, String, Vec<u32>)], start: usize) -> usize {
+fn numbered_body_run(matches: &[(usize, String, Vec<u32>)], start: usize) -> (Vec<usize>, usize) {
+    let mut selected = vec![start];
     let mut previous = &matches[start].2;
+    let mut current_top = previous[0];
     for (index, (_, _, order)) in matches.iter().enumerate().skip(start + 1) {
-        if order <= previous {
-            return index;
+        if order.len() == 1 {
+            if order[0] <= current_top {
+                continue;
+            }
+            if order[0] != current_top + 1 {
+                continue;
+            }
+            current_top = order[0];
+        } else if order[0] != current_top || order <= previous {
+            continue;
         }
+        selected.push(index);
         previous = order;
     }
-    matches.len()
+    (selected, matches.len())
 }
 
 /// Validate the standards-specific identity, lifecycle, review separation,
@@ -164,6 +180,64 @@ fn validate_metadata(metadata: &StandardMetadata, issues: &mut Vec<ValidationIss
         issues.push(error(
             "standard_cancellation_date",
             "cancellation date cannot precede publication".to_owned(),
+            None,
+        ));
+    }
+    validate_standard_sources(metadata, issues);
+}
+
+fn validate_standard_sources(metadata: &StandardMetadata, issues: &mut Vec<ValidationIssue>) {
+    let included_modifications = metadata
+        .modifications
+        .iter()
+        .filter(|source| source.included_in_source)
+        .count();
+    match metadata.text_basis {
+        StandardTextBasis::AsPublished if included_modifications > 0 => {
+            issues.push(error(
+                "standard_text_basis",
+                "an as-published source cannot include later modifications".to_owned(),
+                None,
+            ));
+        }
+        StandardTextBasis::OfficialConsolidated
+            if included_modifications != metadata.modifications.len() =>
+        {
+            issues.push(error(
+                "standard_text_basis",
+                "an official consolidated source must include every recorded modification"
+                    .to_owned(),
+                None,
+            ));
+        }
+        _ => {}
+    }
+    for source in &metadata.modifications {
+        if source.publication_date <= metadata.publication_date {
+            issues.push(error(
+                "standard_modification_date",
+                "a modification must postdate the standard publication".to_owned(),
+                None,
+            ));
+        }
+        if !source.included_in_source {
+            issues.push(warning(
+                "standard_unconsolidated_modification",
+                format!(
+                    "source text does not incorporate modification published {}",
+                    source.publication_date
+                ),
+            ));
+        }
+    }
+    if metadata
+        .systematic_review
+        .as_ref()
+        .is_some_and(|review| review.review_date < metadata.publication_date)
+    {
+        issues.push(error(
+            "standard_systematic_review_date",
+            "systematic review cannot predate the standard publication".to_owned(),
             None,
         ));
     }
@@ -284,13 +358,22 @@ fn error(code: &str, message: String, provision_id: Option<String>) -> Validatio
     }
 }
 
+fn warning(code: &str, message: String) -> ValidationIssue {
+    ValidationIssue {
+        severity: Severity::Warning,
+        code: code.to_owned(),
+        message,
+        provision_id: None,
+    }
+}
+
 #[cfg(test)]
 mod tests {
     use super::{parse_standard_clauses, validate_standard};
     use chrono::{NaiveDate, Utc};
     use lex_core::{
-        ReviewStatus, SCHEMA_VERSION, StandardKind, StandardMetadata, StandardStatus,
-        TechnicalReviewStatus,
+        ReviewStatus, SCHEMA_VERSION, StandardKind, StandardMetadata, StandardModificationSource,
+        StandardStatus, StandardTextBasis, TechnicalReviewStatus,
     };
 
     const SAMPLE: &str = include_str!("../../../fixtures/standards/numbered-standard-sample.txt");
@@ -322,12 +405,29 @@ mod tests {
                 .iter()
                 .map(|clause| clause.number.as_str())
                 .collect::<Vec<_>>(),
-            vec!["1", "1.1", "1.2", "2", "2.1", "3", "3.1"]
+            vec!["1", "1.1", "1.2", "2", "2.1", "3", "3.1", "4"]
         );
         assert!(!clauses[6].text.contains("Sufragio"));
-        assert!(!clauses[6].text.contains("APENDICE"));
+        assert!(!clauses[7].text.contains("APENDICE"));
         let report = validate_standard(&metadata, &clauses, INDEX_AND_APPENDIX_SAMPLE);
         assert!(report.valid, "{:#?}", report.issues);
+    }
+
+    #[test]
+    fn current_designation_does_not_hide_unconsolidated_modification() {
+        let mut metadata = metadata();
+        metadata.modifications.push(StandardModificationSource {
+            publication_date: NaiveDate::from_ymd_opt(2026, 7, 26).unwrap(),
+            official_url: "https://example.test/dof/modification".parse().unwrap(),
+            included_in_source: false,
+        });
+        let clauses = parse_standard_clauses(SAMPLE, &metadata).unwrap();
+        let report = validate_standard(&metadata, &clauses, SAMPLE);
+        assert!(report.valid, "{:#?}", report.issues);
+        assert!(report.issues.iter().any(|issue| {
+            issue.code == "standard_unconsolidated_modification"
+                && issue.severity == lex_core::Severity::Warning
+        }));
     }
 
     fn metadata() -> StandardMetadata {
@@ -349,6 +449,9 @@ mod tests {
             objective: None,
             scope: None,
             conformity_assessment: None,
+            text_basis: StandardTextBasis::AsPublished,
+            modifications: Vec::new(),
+            systematic_review: None,
             source_url: "https://example.test/source.pdf".parse().unwrap(),
             official_dof_url: "https://example.test/dof".parse().unwrap(),
             official_registry_url: None,

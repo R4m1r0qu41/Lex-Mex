@@ -12,8 +12,10 @@ A compiled standard directory contains:
 
 - `standard.json`: designation, kind, issuers, domains, legal dates,
   current/cancelled/replaced status, replacement chain, the exact official
-  source-file locator, official DOF and registry locators, hashes, and
-  separate legal/technical review states;
+  source-file locator, whether its text is as-published or officially
+  consolidated, dated modification and systematic-review sources, official
+  DOF and registry locators, hashes, and separate legal/technical review
+  states;
 - `clauses.json`: dot-numbered clauses with exact character spans into the
   unchanged extracted source text;
 - `extracted-text.txt`: the exact UTF-8 text used to compile and revalidate
@@ -68,6 +70,10 @@ standards path.
   designation appears plausible.
 - `status: current` requires an official currency check, including
   cancellation or replacement publications where relevant.
+- A current designation does not imply current clause text. As-published
+  sources retain every known formal modification as an explicit
+  `included_in_source: false` warning; only an official compilation may use
+  `text_basis: official_consolidated`.
 - Applicability remains downstream and fact-specific.
 - Conformity-assessment text is a source fact, not a statement that a
   particular establishment must undergo it.
