@@ -14,20 +14,25 @@ pub fn parse_standard_clauses(
     metadata: &StandardMetadata,
 ) -> Result<Vec<StandardClause>> {
     let heading =
-        Regex::new(r"(?m)^[ \t]*(\d+(?:\.\d+)*)(?:\.[ \t]+|[ \t]+)([^\r\n].*?)[ \t]*\r?$")?;
+        Regex::new(r"(?m)^[ \t]*(\d+(?:\.\d+)*)(?:(\.)[ \t]+|[ \t]+)([^\r\n].*?)[ \t]*\r?$")?;
     let matches = heading
         .captures_iter(source_text)
         .filter_map(|captures| {
             let whole = captures.get(0)?;
             let number = captures.get(1)?.as_str();
             let order = clause_order(number)?;
-            Some((whole.start(), number.to_owned(), order))
+            let label = captures.get(3)?.as_str().trim_start();
+            let plausible_top_level =
+                captures.get(2).is_some() || label.chars().next().is_some_and(char::is_uppercase);
+            Some((whole.start(), number.to_owned(), order, plausible_top_level))
         })
         .collect::<Vec<_>>();
     let Some((selected, body_end)) = matches
         .iter()
         .enumerate()
-        .filter(|(_, (_, _, order))| order.len() == 1 && matches!(order[0], 0 | 1))
+        .filter(|(_, (_, _, order, plausible))| {
+            *plausible && order.len() == 1 && matches!(order[0], 0 | 1)
+        })
         .map(|(start, _)| numbered_body_run(&matches, start))
         .max_by_key(|(selected, _)| selected.len())
     else {
@@ -35,17 +40,19 @@ pub fn parse_standard_clauses(
     };
     let numbering_end = matches
         .get(body_end)
-        .map_or(source_text.len(), |(start, _, _)| *start);
+        .map_or(source_text.len(), |(start, _, _, _)| *start);
     let matches = selected
         .into_iter()
         .map(|index| matches[index].clone())
         .collect::<Vec<_>>();
-    let structural_end = matches.last().map_or(source_text.len(), |(start, _, _)| {
-        standard_clause_end(source_text, *start, numbering_end)
-    });
+    let structural_end = matches
+        .last()
+        .map_or(source_text.len(), |(start, _, _, _)| {
+            standard_clause_end(source_text, *start, numbering_end)
+        });
 
     let mut clauses = Vec::with_capacity(matches.len());
-    for (index, (start, number, _)) in matches.iter().enumerate() {
+    for (index, (start, number, _, _)) in matches.iter().enumerate() {
         let natural_end = matches.get(index + 1).map_or(structural_end, |next| next.0);
         let end = standard_clause_end(source_text, *start, natural_end);
         let (trimmed_start, trimmed_end) = trim_span(source_text, *start, end);
@@ -74,12 +81,18 @@ fn standard_clause_end(source_text: &str, clause_start: usize, natural_end: usiz
         .map_or(natural_end, |marker| clause_start + marker.start())
 }
 
-fn numbered_body_run(matches: &[(usize, String, Vec<u32>)], start: usize) -> (Vec<usize>, usize) {
+fn numbered_body_run(
+    matches: &[(usize, String, Vec<u32>, bool)],
+    start: usize,
+) -> (Vec<usize>, usize) {
     let mut selected = vec![start];
     let mut previous = &matches[start].2;
     let mut current_top = previous[0];
-    for (index, (_, _, order)) in matches.iter().enumerate().skip(start + 1) {
+    for (index, (_, _, order, plausible_top_level)) in matches.iter().enumerate().skip(start + 1) {
         if order.len() == 1 {
+            if !plausible_top_level {
+                continue;
+            }
             if order[0] <= current_top {
                 continue;
             }

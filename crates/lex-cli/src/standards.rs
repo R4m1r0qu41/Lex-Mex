@@ -123,6 +123,10 @@ fn validate_committed_standard(root: &Path, slug: &str) -> Result<()> {
     }
     let text =
         String::from_utf8(text_bytes).context("retained extracted standard text is not UTF-8")?;
+    let reparsed = parse_standard_clauses(&text, &metadata)?;
+    if serde_json::to_value(&reparsed)? != serde_json::to_value(&clauses)? {
+        bail!("committed standard clauses are stale for the current parser");
+    }
     let report = validate_standard(&metadata, &clauses, &text);
     println!(
         "standard validation: {}; {} clauses, {} issues",
