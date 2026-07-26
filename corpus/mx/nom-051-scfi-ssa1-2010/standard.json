@@ -1,0 +1,64 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-051-scfi-ssa1-2010",
+  "kind": "nom",
+  "designation": "NOM-051-SCFI/SSA1-2010",
+  "official_title": "Especificaciones generales de etiquetado para alimentos y bebidas no alcohólicas preenvasados-Información comercial y sanitaria",
+  "issuing_authorities": [
+    "Secretaría de Economía",
+    "Secretaría de Salud"
+  ],
+  "regulatory_domains": [
+    "alimentos",
+    "bebidas no alcohólicas",
+    "etiquetado",
+    "información comercial y sanitaria"
+  ],
+  "publication_date": "2010-04-05",
+  "effective_date": "2010-12-31",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-051-SCFI-1994"
+  ],
+  "joint_prefixes": [
+    "SCFI",
+    "SSA1"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "official_compilation",
+  "modifications": [
+    {
+      "publication_date": "2010-10-26",
+      "official_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5164608&fecha=26/10/2010",
+      "included_in_source": true
+    },
+    {
+      "publication_date": "2014-08-14",
+      "official_url": "https://www.dof.gob.mx/normasOficiales/5446/SEECO/SEECO.html",
+      "included_in_source": true
+    },
+    {
+      "publication_date": "2020-03-27",
+      "official_url": "https://www.dof.gob.mx/2020/SEECO/NOM_051.pdf",
+      "included_in_source": false
+    }
+  ],
+  "systematic_review": {
+    "review_date": "2025-01-07",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-051-SCFI-SSA1-2010_2025_ultima_revisi%C3%B3n.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/051scssa010a.pdf",
+  "official_dof_url": "https://diariooficial.gob.mx/nota_detalle.php?codigo=5137518&fecha=05%2F04%2F2010",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/nom-051-scfi-ssa1-2010/",
+  "publisher": "Secretaría de Economía y Secretaría de Salud",
+  "retrieved_at": "2026-07-26T06:57:29Z",
+  "source_sha256": "4e8d392af6bfd9ed048f442cc70ad1b9dd38d7c3d4c7a7dedca0084c0ade3909",
+  "extracted_text_sha256": "60d39c6bd3135d0b1c6131e64a1dcfbc46f855f4f2ec755a52fcb8ab4ceb6acf",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

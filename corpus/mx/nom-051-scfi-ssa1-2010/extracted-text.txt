@@ -1,0 +1,1462 @@
+   Lunes 5 de abril de 2010                     DIARIO OFICIAL
+
+
+                               SECRETARIA DE ECONOMIA
+NORMA Oficial Mexicana NOM-051-SCFI/SSA1-2010, Especificaciones generales de etiquetado para alimentos y
+bebidas no alcohólicas preenvasados-Información comercial y sanitaria.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Economía.
+NORMA OFICIAL MEXICANA NOM-051-SCFI/SSA1-2010, ESPECIFICACIONES GENERALES DE ETIQUETADO PARA
+ALIMENTOS Y BEBIDAS NO ALCOHOLICAS PREENVASADOS-INFORMACION COMERCIAL Y SANITARIA.
+
+La Secretaría de Economía y la Secretaría de Salud, por conducto de la Dirección General de Normas y de la
+Comisión Federal para la Protección contra Riesgos Sanitarios, con fundamento en los artículos 34 fracciones
+XIII y XXXI y 39 fracción XXI de la Ley Orgánica de la Administración Pública Federal; 4 de la Ley Federal de
+Procedimiento Administrativo; 3 fracción XXIV, 13 apartado A fracciones I, II y IX, 17 Bis fracción III y VI, 194,
+195, 210, 212, 213, 215, 216, 217 y 393 de la Ley General de Salud; 39 fracción V, 40 fracción XII, 47 fracción
+I de la Ley Federal sobre Metrología y Normalización, 28 y 31 del Reglamento de la Ley Federal sobre
+Metrología y Normalización; 25 del Reglamento de Control Sanitario de Productos y Servicios; 19 fracciones I,
+XIV y XV del Reglamento Interior de la Secretaría de Economía; 2 literal C fracción X del Reglamento Interior
+de la Secretaría de Salud y 3 fracción I inciso c y d y II y 10 fracciones IV y VIII del Reglamento de la Comisión
+Federal para la Protección contra Riesgos Sanitarios, y
+
+                                               CONSIDERANDO
+Que es responsabilidad del Gobierno Federal procurar las medidas que sean necesarias para garantizar que
+los productos que se comercialicen en territorio nacional cumplan con la información comercial que debe
+exhibirse en su etiqueta o envase, con el fin de garantizar una efectiva protección del consumidor;
+
+Que con fecha 20 de julio de 2009, el Comité Consultivo Nacional de Normalización de Seguridad al Usuario,
+Información Comercial y Prácticas de Comercio (CCNNSUICPC) y el Comité Consultivo Nacional de
+Normalización de Regulación y Fomento Sanitario (CCNNRFS), aprobaron la publicación del Proyecto de
+Norma Oficial Mexicana PROY-NOM-051-SCFI/SSA1-2009, “Especificaciones generales de etiquetado para
+alimentos y bebidas no alcohólicas preenvasados–Información comercial y sanitaria”, la cual se realizó en el
+Diario Oficial de la Federación el 26 de agosto de 2009, con objeto de que los interesados presentaran sus
+comentarios;
+
+Que la manifestación de impacto regulatorio a que hace referencia el artículo 45 de la Ley Federal sobre
+Metrología y Normalización, fue sometida a la consideración de la Comisión Federal de Mejora Regulatoria,
+emitiéndose el dictamen final aprobatorio por parte de dicha Comisión el 30 de julio de 2009.
+
+Que durante el plazo de 60 días naturales contados a partir de la fecha de publicación de dicho proyecto de
+Norma Oficial Mexicana, los interesados presentaron comentarios sobre el contenido del citado proyecto,
+mismos que fueron analizados por el CCNNSUICPC y el CCNNRFS, realizándose las modificaciones
+conducentes.
+Que con fecha 4 de febrero de 2010, los CCNNSUICPC y CCNNRFS aprobaron por unanimidad la norma
+referida;
+Que la Ley Federal sobre Metrología y Normalización establece que las normas oficiales mexicanas se
+constituyen como el instrumento idóneo para la protección de los intereses del consumidor, expide la
+siguiente:
+   NORMA OFICIAL MEXICANA NOM-051-SCFI/SSA1-2010, ESPECIFICACIONES GENERALES DE
+ ETIQUETADO PARA ALIMENTOS Y BEBIDAS NO ALCOHOLICAS PREENVASADOS-INFORMACION
+                            COMERCIAL Y SANITARIA
+México, D.F., a 18 de febrero de 2010.- El Director General de Normas y Presidente del Comité Consultivo
+Nacional de Normalización de Seguridad al Usuario, Información Comercial y Prácticas de Comercio,
+Francisco Ramos Gómez.- Rúbrica.- El Comisionado Federal para la Protección contra Riesgos Sanitarios y
+Presidente del Comité Consultivo Nacional de Normalización de Regulación y Fomento Sanitario, Miguel
+Angel Toscano Velasco.- Rúbrica.
+                                               DIARIO OFICIAL                       Lunes 5 de abril de 2010
+
+                                                 PREFACIO
+En la elaboración de la presente Norma Oficial Mexicana participaron las siguientes empresas e instituciones:
+   SECRETARIA DE ECONOMIA
+   Dirección General de Normas
+   Procuraduría Federal del Consumidor (PROFECO).
+   Dirección General de. Verificación y Vigilancia
+   Laboratorio Nacional de Protección al Consumidor.
+   SECRETARIA DE SALUD
+   Comisión Federal para la Protección contra Riesgos Sanitarios
+   Dirección General de Asuntos Jurídicos
+   1.    Aranal, S.A. de C.V.
+   2.    Arcor Saic.
+   3.    Asociación Internacional de la Goma de Mascar (International Chewing Gum Association, ICGA).
+   4.    Asociación de Almacenes Generales de Depósito, A.C.
+   5.    Asociación Mexicana de Nutriología.
+   6.    Asociación Nacional de Fabricantes de Productos Aromáticos (ANFPA).
+   7.    Asociación Nacional de Importadores y Exportadores de la República Mexicana, A.C. (ANIERM).
+   8.    Asociación Nacional de Industriales de Aceites y Mantecas Comestibles, A. C. (ANIAME).
+   9.    Asociación Nacional de Productores de Refrescos y Aguas Carbonatadas, A.C. (ANPRAC).
+   10.   Asociación Nacional de Tiendas de Autoservicio, A.C. (ANTAD).
+   11.   Barroso Abogados y Asociados, S.C.
+   12.   Beneo Group.
+   13.   Benermex, A.C.
+   14.   Bufete Químico, S.A. de C.V.
+   15.   Cámara Nacional de Industriales de la Leche (CANILEC).
+   16.   Calorie Control Council.
+   17.   Cámara Nacional de la Industria de Transformación (CANACINTRA).
+   18.   Cámara Nacional de Comercio, Servicios y Turismo de Ciudad Juárez (CANACO JUAREZ).
+   19.   Cámara Nacional de la Industria de Aceites y Grasas Comestibles (CANIAG).
+   20.   Cámara Nacional de la Industria Molinera de Trigo (CANIMOLT).
+   21.   Cámara Nacional del Maíz Industrializado (CANAMI).
+   22.   Casa Cuervo, S.A. de C.V.
+   23.   Comercializadora de Lácteos y Derivados, S.A. de C.V.
+   24.   Confederación de Cámaras Industriales de México (CONCAMIN).
+   25.   Consejo Mexicano de la Carne (COMECARNE).
+   26.   Consejo de Exportación de Productos Lácteos de Estados Unidos.
+   27.   Consejo Mexicano de la Industria de Productos de Consumo (CONMEXICO).
+   28.   Consejo Mexicano Vitivinícola.
+   29.   Consejo Nacional Agropecuario (CNA).
+   30.   Consejo para el Fomento de la Calidad de la Leche y sus Derivados, A.C. (COFOCALEC).
+   31.   Corporate Affairs Cargill México.
+Lunes 5 de abril de 2010                      DIARIO OFICIAL
+
+32.   Dirección de Supervisión Operativa del Fondo de Empresas Expropiadas del Sector Azucarero
+      (FEESA) /Promotora Azucarera, S.A. de C.V. (PROASA).
+33.   DSM Nutritional Products.
+34.   Dra. María del Carmen Durán Domínguez de Bazúa, Profesora de la Facultad de Química de la
+      UNAM.
+35.   Ganaderos Productores de Leche Pura, S.A. de C.V.
+36.   Grecargo, S.C.
+37.   Grupo BIMBO.
+38.   Hershey de México, S.A. de C.V.
+39.   Dr. Gabriel Eduardo Cuevas González Bravo
+      Instituto de Química, UNAM.
+40.   Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán (INCMNSZ).
+41.   Instituto Nacional de Salud Pública.
+42.   Kellog Company México.
+43.   Kraft Foods de México.
+44.   Liconsa, S.A. de C.V.
+45.   Logo Banuet Consultores.
+46.   Logre International Food Science Consulting.
+47.   Nacional de Alimentos y Helados, S.A. de C.V. (NAYHSA).
+48.   Ministerio de Economía, Industria y Comercio del Gobierno de Costa Rica.
+49.   Ministerio de Economía, Industria y Comercio del Gobierno de Guatemala.
+50.   Normalización y Certificación Electrónica, A.C. (NYCE).
+51.   Paralelo 20, S. P. R. de R.L.
+52.   Pepsico México.
+53.   Rich Products Corporation.
+54.   Terana, S.A.
+55.   Unión Nacional de Avicultores (UNA).
+56.   Unión Nacional de Cañeros.
+                                                 INDICE
+CAPITULOS
+1.-   Objetivo y campo de aplicación
+2.-   Referencias
+3.-   Definiciones, símbolos y abreviaturas
+4.-   Especificaciones
+5.-   Cálculos
+6.-   Declaración de propiedades
+7.-   Leyendas
+8.-   Verificación y vigilancia
+9.-   Evaluación de la conformidad
+10.- Bibliografía
+11.- Concordancia con Normas Internacionales
+      Artículos Transitorios
+                                                DIARIO OFICIAL                         Lunes 5 de abril de 2010
+
+    NORMA OFICIAL MEXICANA NOM-051-SCFI/SSA1-2010 ESPECIFICACIONES GENERALES DE
+ ETIQUETADO PARA ALIMENTOS Y BEBIDAS NO ALCOHOLICAS PREENVASADOS - INFORMACION
+                             COMERCIAL Y SANITARIA
+1          Objetivo y campo de aplicación
+1.1        Objetivo
+Esta Norma Oficial Mexicana tiene por objeto establecer la información comercial y sanitaria que debe
+contener el etiquetado de los alimentos y bebidas no alcohólicas preenvasados de fabricación nacional o
+extranjera, así como determinar las características de dicha información.
+1.2        Campo de aplicación
+Esta Norma Oficial Mexicana es aplicable a todos los alimentos y bebidas no alcohólicas preenvasados de
+fabricación nacional y extranjera destinados al consumidor en territorio nacional.
+La presente Norma Oficial Mexicana no se aplica a:
+      a)   Los alimentos y bebidas no alcohólicas preenvasados que estén sujetos a disposiciones de
+           información comercial y sanitaria contenidas en normas oficiales mexicanas específicas, o en alguna
+           otra reglamentación federal vigente que explícitamente excluya de su cumplimiento al presente
+           ordenamiento.
+      b)   Los productos a granel
+      c)   Los alimentos y bebidas no alcohólicas envasados en punto de venta.
+      d)   Los demás productos que determine la autoridad competente, conforme a sus atribuciones.
+2          Referencias
+      Esta Norma Oficial Mexicana se complementa con las siguientes normas vigentes o las que las sustituyan:
+      NOM-002-SCFI-2011      Productos preenvasados-Contenido neto-Tolerancias y métodos de verificación,
+                             publicada en el Diario Oficial de la Federación el 10 de agosto de 2012.
+      NOM-008-SCFI-2002      Sistema General de Unidades de Medida, publicada en el Diario Oficial de la
+                             Federación el 27 de noviembre de 2002.
+      NOM-030-SCFI-2006      Información comercial-Declaración de cantidad en la etiqueta-especificaciones,
+                             publicada en el Diario Oficial de la Federación el 6 de noviembre de 2006.
+      NOM-043-SSA2-2012      Servicios básicos de salud. Promoción y educación para la salud en materia
+                             alimentaria. Criterios para brindar orientación, publicada en el Diario Oficial de la
+                             Federación el 22 de enero de 2013.
+      NOM-086-SSA1-1994      Bienes y servicios - Alimentos y bebidas no alcohólicas con modificaciones en su
+                             composición. Especificaciones nutrimentales, publicada en el Diario Oficial de la
+                             Federación el 26 de junio de 1996.
+
+
+      [Modificación publicada en el DOF el 14 de agosto de 2014]
+
+
+
+3.         Definiciones, símbolos y abreviaturas
+3.1        Acuerdo
+Se entiende por Acuerdo al “Acuerdo por el que se determinan las sustancias permitidas como aditivos y
+coadyuvantes en alimentos, bebidas y suplementos alimenticios” de la Secretaría de Salud.
+3.2        Acuerdo por el que se emiten los Lineamientos de Etiquetado
+Acuerdo por el que se emiten los Lineamientos a que se refiere el artículo 25 del Reglamento de Control
+Sanitario de Productos y Servicios que deberán observar los productores de alimentos y bebidas no
+alcohólicas preenvasadas para efectos de la información que deberán ostentar en el área frontal de
+exhibición, así como los criterios y las características para la obtención y uso del distintivo nutrimental a que
+se refiere el artículo 25 Bis del Reglamento de Control Sanitario de Productos y Servicios.
+      Lunes 5 de abril de 2010                 DIARIO OFICIAL
+
+
+
+3.3        Aditivo
+Cualquier substancia permitida que, sin tener propiedades nutritivas, se incluya en la formulación de los
+productos y que actúe como estabilizante, conservador o modificador de sus características organolépticas,
+para favorecer ya sea su estabilidad, conservación, apariencia o aceptabilidad.
+3.4        Alimento
+Cualquier sustancia o producto, sólido, semisólido, natural o transformado, que proporciona al organismo
+elementos para su nutrición.
+3.5        Área frontal de exhibición
+Aquella superficie donde se encuentra, entre otra información, la denominación y la marca comercial del
+producto. A efecto de calcular dicha área, se estará a lo dispuesto en la NOM-030-SCFI-2006, Información
+comercial-Declaración de cantidad en la etiqueta-Especificaciones, y sus actualizaciones, aplicándosele lo
+correspondiente al término “superficie principal de exhibición”.
+3.6        Azúcares
+Todos los monosacáridos y disacáridos presentes en un alimento o bebida no alcohólica.
+3.7        Bebida no alcohólica
+Cualquier líquido natural o transformado, que proporciona al organismo elementos para su nutrición y que
+contiene menos de 2,0 por ciento en volumen de alcohol etílico.
+3.8        Coadyuvante de elaboración
+Sustancia o materia, excluidos aparatos y utensilios, que no se consume como ingrediente alimenticio por sí
+misma, y se emplea intencionadamente en la elaboración de materias primas, alimentos o sus ingredientes,
+para lograr alguna finalidad tecnológica durante el tratamiento o la elaboración, pudiendo dar lugar a la
+presencia no intencionada, pero inevitable, de residuos o derivados en el producto final.
+3.9        Consumidor
+Persona física o moral que adquiere o disfruta como destinatario final productos alimenticios y bebidas no
+alcohólicas preenvasados.
+3.10       Contenido
+Cantidad de producto preenvasado que por su naturaleza puede cuantificarse para su comercialización, por
+cuenta numérica de unidades de producto.
+3.11       Contenido neto
+Cantidad de producto preenvasado que permanece después de que se han hecho todas las deducciones de
+tara cuando sea el caso.
+3.12       Declaración de propiedades
+Cualquier texto o representación que afirme, sugiera o implique que un alimento o bebida no alcohólica
+preenvasado tiene cualidades especiales por su origen, propiedades nutrimentales, naturaleza, elaboración,
+composición u otra cualidad cualquiera, excepto la marca del producto y el nombre de los ingredientes.
+3.13       Declaración de propiedades nutrimentales.
+Cualquier texto o representación que afirme, sugiera o implique que un alimento o bebida no alcohólica
+preenvasado tiene propiedades nutrimentales particulares, no sólo en relación con su valor energético, o
+contenido de: proteínas, grasas o lípidos, carbohidratos o hidratos de carbono, o contenido de vitaminas y
+nutrimentos inorgánicos (minerales).
+No constituye declaración de propiedades nutrimentales:
+a) La mención de sustancias en la lista de ingredientes ni la denominación o marca del producto preenvasado;
+b) La mención de nutrimentos como parte obligatoria del etiquetado nutrimental, cuando la adición del mismo
+sea obligatoria, así como la correspondiente al etiquetado frontal nutrimental;
+c) La declaración cuantitativa o cualitativa en la etiqueta de propiedades nutrimentales de algunos nutrimentos
+o ingredientes, cuando ésta sea obligatoria, de conformidad con los ordenamientos jurídicos aplicables.
+3.14       Declaración nutrimental
+                                                DIARIO OFICIAL                        Lunes 5 de abril de 2010
+
+Relación o enumeración del contenido de nutrimentos de un alimento o bebida no alcohólica preenvasado.
+3.15     Embalaje
+Material que envuelve, contiene y protege los productos preenvasados, para efectos de su almacenamiento y
+transporte.
+3.16     Envase
+Cualquier recipiente, o envoltura en el cual está contenido el producto preenvasado para su venta al
+consumidor.
+3.17     Envase Familiar
+Aquél cuyo contenido sea igual o superior a la porción mínima de referencia para presentaciones familiares
+señalada en el Acuerdo por el que se emiten los Lineamientos de Etiquetado.
+3.18     Envase Individual
+Aquél cuyo contenido de producto sea menor al tamaño de la porción mínima de referencia para
+presentaciones familiares señalada en el Acuerdo por el que se emiten los Lineamientos de Etiquetado.
+3.19     Envase múltiple o colectivo
+A cualquier empaque, recipiente o envoltura en el que se encuentren contenidos dos o más unidades de
+producto preenvasado, iguales o diferentes, destinados para su venta al consumidor.
+3.20     Etiqueta
+Cualquier rótulo, marbete, inscripción, imagen u otra materia descriptiva o gráfica, escrita, impresa, estarcida,
+marcada, grabada en alto o bajo relieve, adherida, sobrepuesta o fijada al envase del producto preenvasado
+o, cuando no sea posible por las características del producto, al embalaje.
+3.21     Etiquetado Frontal Nutrimental
+Aquella declaración nutrimental situada en área frontal de exhibición, de conformidad con el Reglamento.
+3.22     Fecha de caducidad
+Fecha límite en que se considera que las características sanitarias y de calidad que debe reunir para su
+consumo un producto preenvasado, almacenado en las condiciones sugeridas por el responsable del
+producto, se reducen o eliminan de tal manera que después de esta fecha no debe comercializarse ni
+consumirse.
+3.23     Fecha de consumo preferente
+Fecha en que, bajo determinadas condiciones de almacenamiento, expira el periodo durante el cual el
+producto preenvasado es comercializable y mantiene las cualidades específicas que se le atribuyen tácita o
+explícitamente, pero después de la cual el producto preenvasado puede ser consumido.
+3.24     Fibra dietética
+Los polímeros de hidratos de carbono con tres o más unidades monoméricas, que no son hidrolizados por las
+enzimas endógenas del intestino delgado humano y que pertenecen a las categorías siguientes:
+                 Polímeros de carbohidratos comestibles que se encuentran naturalmente en los alimentos
+        en la forma en que se consumen;
+                Polímeros de carbohidratos obtenidos de materia prima alimentaria por medios físicos,
+        enzimáticos o químicos, y que se haya demostrado que tienen un efecto fisiológico beneficioso para la
+        salud mediante pruebas científicas generalmente aceptadas y aportadas a las autoridades
+        competentes;
+                  Polímeros de carbohidratos sintéticos que se haya demostrado que tienen un efecto
+        fisiológico beneficioso para la salud mediante pruebas científicas generalmente aceptadas aportadas
+        a las autoridades competentes.
+3.25     Función tecnológica
+     Lunes 5 de abril de 2010                    DIARIO OFICIAL
+
+El efecto que produce el uso de aditivos en los alimentos y bebidas no alcohólicas preenvasados, que
+proporciona o intensifica su aroma, color o sabor, y/o mejora su estabilidad y conservación, entre otros. Véase
+aditivo
+3.26      Hidratos de carbono disponibles o carbohidratos disponibles
+Los hidratos de carbono o carbohidratos excluyendo la fibra dietética.
+3.27      Información nutrimental
+Toda descripción destinada a informar al consumidor sobre las propiedades nutrimentales de un alimento o
+bebida no alcohólica preenvasado. Comprende dos aspectos:
+a) La declaración nutrimental obligatoria.
+b) La declaración nutrimental complementaria.
+En el etiquetado de los productos podrá utilizarse el término “Datos de nutrición” en lugar de “Información
+nutrimental”.
+3.28      Ingesta o ingestión Diaria Recomendada (IDR)
+Se obtiene sumando dos desviaciones típicas al promedio de los requerimientos de la necesidad de 97,5% de
+los individuos en la población. Si se desconoce la desviación típica, el Requerimiento Nutrimental Promedio
+(RNP) de una población se multiplica por 1,2, suponiendo un coeficiente de variación (desviación típica por
+100 dividida entre el promedio) de 10%. Donde RNP es el Requerimiento Nutrimental Promedio de una
+población que, en combinación con la varianza, describe la variación estadística de los requerimientos
+individuales.
+3.29      Ingesta o ingestión Diaria Sugerida (IDS)
+Se usa en lugar de la Ingesta Diaria Recomendada (IDR) en los casos que la información sobre
+requerimientos es insuficiente.
+3.30      Ingrediente
+Cualquier sustancia o producto, incluidos los aditivos, que se emplee en la fabricación, elaboración,
+preparación o tratamiento de un alimento o bebida no alcohólica y esté presente en el producto final,
+transformado o no.
+3.31      Ingrediente compuesto
+Mezcla previamente elaborada de sustancias y productos que constituye un producto terminado y que se
+emplea para la fabricación de otro distinto.
+3.32      Leyendas precautorias
+Cualquier texto o representación que prevenga al consumidor sobre la presencia de un ingrediente específico
+o sobre los daños a la salud que pueda originar el abuso en el consumo de éste.
+3.33      Lote
+La cantidad de un producto elaborado en un mismo ciclo, integrado por unidades homogéneas e identificado
+con un código específico.
+3.34      Masa drenada
+Cantidad de producto sólido o semisólido que representa el contenido de un envase, después de que el
+líquido ha sido removido por un método previamente establecido.
+3.35      Nombre de uso común
+Es el nombre que se le da a un alimento o bebida no alcohólica preenvasado de acuerdo a los usos y
+costumbres, tal es el caso de waffles, hot cakes, entre otros.
+3.36      Nutrimento
+Cualquier sustancia incluyendo a las proteínas, aminoácidos, grasas o lípidos, carbohidratos o hidratos de
+carbono, agua, vitaminas y nutrimentos inorgánicos (minerales) consumida normalmente como componente
+de un alimento o bebida no alcohólica que:
+a)        Proporciona energía; o
+b)        Es necesaria para el crecimiento, el desarrollo y el mantenimiento de la vida; o
+                                                DIARIO OFICIAL                            Lunes 5 de abril de 2010
+
+c)       Cuya carencia haga que se produzcan cambios químicos o fisiológicos característicos.
+3.37     Porción
+Cantidad de producto que se sugiere consumir o generalmente se consume en una ingestión, expresada en
+unidades del Sistema General de Unidades de Medida.
+3.38     Producto a granel
+Producto que debe pesarse, medirse o contarse en presencia del consumidor por no encontrarse
+preenvasado al momento de su venta.
+3.39     Producto preenvasado
+Los alimentos y bebidas no alcohólicas, que son colocados en un envase de cualquier naturaleza, en
+ausencia del consumidor, y la cantidad de producto contenido en él no puede ser alterada, a menos que el
+envase sea abierto o modificado perceptiblemente.
+3.40     Reglamento
+Reglamento de Control Sanitario de Productos y Servicios.
+3.41     Responsable de producto
+Persona física o moral que importe o elabore un producto o que haya ordenado su elaboración total o parcial a
+un tercero.
+3.42     Símbolo de la unidad de medida
+Signo convencional con que se designa la unidad de medida, de conformidad con la NOM-008-SCFI-2002,
+mencionada en el apartado de referencias.
+3.43     Superficie de información
+Cualquier área del envase o embalaje distinta de la superficie principal de exhibición.
+3.44     Superficie principal de exhibición
+Es aquella área donde se encuentra la denominación y la marca comercial del producto, y sus dimensiones se
+calculan conforme a la NOM-030-SCFI-2006, mencionada en el apartado de referencias.
+3.45     Unidad de medida
+Valor de una magnitud para la cual se admite por convención que su valor numérico es igual a 1 (véase
+Referencias).
+3.46     Valores Nutrimentales de Referencia (VNR)
+Conjunto de cifras que sirven como guía para valorar y planificar la ingestión de nutrimentos de poblaciones
+sanas y bien nutridas.
+3.47     Símbolos y Abreviaturas
+
+
+                       Símbolo                  Significado
+                       IDR                      Ingestión Diaria Recomendada
+                       IDS                      Ingestión Diaria Sugerida
+                       kJ                       Kilojoule
+                       kcal                     Kilocaloría
+                       L, l                     Litro
+                       m/m                      masa/masa
+                       mg                       Miligramos
+                       ml, mL                   Mililitros
+                       g                        Gramos
+                       µg                       Microgramo
+                       %                        Porciento
+                       VNR                      Valor Nutrimental de Referencia
+                       Cal                      Caloría (Equivalente a una kilocaloría)
+      Lunes 5 de abril de 2010                    DIARIO OFICIAL
+
+
+
+[Modificación publicada en el DOF el 14 de agosto de 2014]
+
+
+4           Especificaciones
+4.1         Requisitos generales del etiquetado
+4.1.1    La información contenida en las etiquetas de los alimentos y bebidas no alcohólicas preenvasados
+debe ser veraz y describirse y presentarse de forma tal que no induzca a error al consumidor con respecto a la
+naturaleza y características del producto.
+4.1.2   Los productos preenvasados deben presentarse con una etiqueta en la que se describa o se empleen
+palabras, ilustraciones u otras representaciones gráficas que se refieran al producto.
+Las etiquetas que contengan los productos preenvasados pueden incorporar la descripción gráfica o
+descriptiva de la sugerencia de uso, empleo o preparación, a condición de que aparezca una leyenda alusiva
+al respecto.
+4.1.3    Los alimentos y bebidas no alcohólicas preenvasados no deberán describirse ni presentarse con una
+etiqueta en los que se utilicen palabras, textos, diálogos, ilustraciones, imágenes, denominaciones de origen y
+otras descripciones que se refieran o sugieran, directa o indirectamente a cualquier otro producto con el que
+pueda confundirse, o que pueda inducir al consumidor a suponer que el alimento se relaciona en forma alguna
+con aquel otro producto.
+4.2       Salvo lo indicado en el siguiente párrafo, son requisitos obligatorios de información comercial y
+sanitaria los siguientes.
+
+A menos de que se trate de especias y de hierbas aromáticas, los productos pequeños en que la superficie
+más amplia sea inferior a 10 cm2 podrán quedar exentos de los requisitos: lista de ingredientes,
+instrucciones de uso, lote y fecha de caducidad o de consumo preferente.
+[Modificación publicada en el DOF el 26 de octubre de 2010]
+
+
+4.2.1       Nombre o denominación del alimento o bebida no alcohólica preenvasado
+4.2.1.1 El nombre o la denominación del producto preenvasado debe corresponder con la establecida en los
+ordenamientos jurídicos específicos; en ausencia de éstos, puede indicarse el nombre de uso común, o bien,
+emplearse una descripción de acuerdo con las características básicas de la composición y naturaleza del
+alimento o bebida no alcohólica preenvasado, que no induzca a error o engaño al consumidor. En el caso de
+que haya sido objeto de algún tipo de tratamiento, se puede indicar el nombre de éste, con excepción de
+aquellos que de acuerdo con los ordenamientos correspondientes sean de carácter obligatorio.
+4.2.2       Lista de ingredientes
+4.2.2.1 En la etiqueta de los productos preenvasados cuya comercialización se haga en forma individual,
+debe figurar una lista de ingredientes, la cual puede eximirse cuando se trate de productos de un solo
+ingrediente.
+4.2.2.1.1            La lista de ingredientes debe ir encabezada o precedida por el término Ingredientes:
+4.2.2.1.2         Los ingredientes del alimento o bebida no alcohólica preenvasado deben enumerarse por
+orden cuantitativo decreciente (m/m).
+4.2.2.1.3         Se debe declarar un ingrediente compuesto cuando constituya más del 5 por ciento del
+alimento o bebida no alcohólica y debe ir acompañado de una lista entre paréntesis de sus ingredientes
+constitutivos por orden cuantitativo decreciente (m/m), incluidos los aditivos que desempeñen una función
+tecnológica en el producto acabado o que se asocien a reacciones alérgicas.
+4.2.2.1.4       Se debe indicar en la lista de ingredientes el agua añadida por orden de predominio, excepto
+cuando ésta forme parte de un ingrediente compuesto y declarado como tal en la lista y la que se utilice en los
+procesos de cocción y reconstitución. No es necesario declarar el agua u otros ingredientes volátiles que se
+evaporan durante la fabricación.
+4.2.2.1.5         Cuando se trate de alimentos deshidratados o condensados, destinados a ser
+reconstituidos, pueden enumerarse sus ingredientes por orden cuantitativo decreciente (m/m) en el producto
+                                                   DIARIO OFICIAL                     Lunes 5 de abril de 2010
+
+reconstituido, siempre que se incluya una indicación como la que sigue: "ingredientes del producto cuando se
+prepara según las instrucciones de la etiqueta", u otras leyendas análogas.
+4.2.2.1.6        En la lista de ingredientes debe emplearse una denominación específica de acuerdo con lo
+previsto en el punto 4.2.2.1, incluyendo los ingredientes mencionados en 4.2.2.2.3, con excepción de los
+ingredientes cuyas denominaciones genéricas están señalados en la tabla 1.
+
+
+                              Tabla 1 Denominación genérica de ingredientes
+               Clases de Ingredientes                                  Denominación genérica
+ Aceites refinados distintos del aceite de oliva         Aceite seguido del término vegetal o animal, calificado
+                                                         con el término hidrogenado o parcialmente
+                                                         hidrogenado, según sea el caso.
+ Grasas refinadas                                        Grasas seguido del término vegetal o animal o mixta o
+                                                         compuesta, calificado con el término hidrogenado,
+                                                         según sea el caso.
+ Almidones, distintos a los almidones modificados Almidón
+ químicamente.
+ Todas las especies de pescado, cuando éste Pescado
+ constituya un ingrediente de otro alimento y
+ siempre que en la etiqueta y presentación del
+ producto preenvasado no se haga referencia a una
+ determinada especie de pescado.
+ Todos los tipos de carne de aves de corral, cuando Carne de ave
+ dicha carne constituya un ingrediente de otro
+ alimento y siempre que en la etiqueta y la
+ presentación del producto preenvasado no se haga
+ referencia a un tipo específico de carne de aves de
+ corral.
+ Todos los tipos de quesos, cuando el queso o una Queso o quesos o mezcla de quesos, según sea el
+ mezcla de quesos constituya un ingrediente de otro caso.
+ alimento y siempre que en la etiqueta y la
+ presentación del producto preenvasado no se haga
+ referencia a un tipo específico de queso.
+ Todas las especias y extractos de especias en Especia, especias o mezclas de especias según sea el
+ cantidad no superior al 2% en peso, solas o caso.
+ mezcladas en el producto preenvasado.
+ Todas las hierbas aromáticas o partes de hierbas Hierba aromática, Hierbas aromáticas o mezclas de
+ aromáticas en cantidad no superior al 2% en peso, hierbas aromáticas, según sea el caso.
+ solas o mezcladas en el producto preenvasado.
+ Todos los tipos de preparados de goma utilizados Goma de base o Goma base
+ en la fabricación de la goma base para el producto
+ goma de mascar.
+ Todos los tipos de sacarosa                             Azúcar
+ La dextrosa anhidra y la dextrosa monohidratada         Dextrosa o Glucosa
+ Todos los tipos de caseinatos                           Caseinatos
+ Productos lácteos que contienen un mínimo de 50 Proteína láctea
+ % de proteína láctea (m/m) en el extracto seco
+ Manteca de cacao         obtenida    por   presión    o Manteca de cacao
+ extracción o refinada.
+ Todas las frutas confitadas, sin exceder del 10% del Frutas confitadas
+ peso del producto preenvasado.
+ Todos los condimentos en cantidad no superior al Condimento, Condimentos o Mezcla de condimentos,
+ 2% en peso, solos o mezclados en el producto según sea el caso.
+      Lunes 5 de abril de 2010                     DIARIO OFICIAL
+
+                  Clases de Ingredientes                                 Denominación genérica
+ preenvasado.
+ Todos los tipos de microorganismos utilizados en la Cultivo láctico o cultivos lácticos
+ fermentación de lactosa, siempre que en la etiqueta
+ y la presentación de dicho producto no se haga
+ referencia a un tipo específico de microorganismo.
+ Suero de mantequilla, suero de queso, suero de Sólidos de la leche
+ leche, concentrado de proteína de leche, proteína
+ de suera o lactosa
+ Todas las especies de chile o mezclas                     Chile o Chiles o Mezcla de Chiles
+
+
+4.2.2.1.7       No obstante lo estipulado en el punto anterior, la manteca de cerdo, la grasa de bovino o
+sebo, se deben declarar siempre por sus denominaciones específicas.
+4.2.2.2              Coadyuvantes de elaboración y transferencia de aditivos
+4.2.2.2.1       Debe ser incluido en la lista de ingredientes todo aditivo que haya sido empleado en los
+ingredientes de un alimento o bebida no alcohólica preenvasado y que se transfiera a otro producto
+preenvasado en cantidad notable o suficiente para desempeñar en él una función tecnológica.
+4.2.2.2.2        Están exentos de su declaración en la lista de ingredientes los aditivos transferidos a los
+alimentos y bebidas no alcohólicas preenvasados que ya no cumplen una función tecnológica en el producto
+terminado, así como los coadyuvantes de elaboración, excepto aquellos que puedan causar hipersensibilidad.
+4.2.2.2.3          Se deben declarar todos aquellos ingredientes o aditivos que causen hipersensibilidad,
+intolerancia o alergia, de conformidad con los ordenamientos jurídicos correspondientes.
+Se ha comprobado que los siguientes alimentos e ingredientes causan hipersensibilidad y deben declararse
+siempre:
+           ●       Cereales que contienen gluten: por ejemplo trigo, centeno, cebada, avena, espelta o sus
+           cepas híbridas, y productos de éstos.
+           ●         Crustáceos y sus productos,
+           ●         Huevo y productos de los huevos,
+           ●         Pescado y productos pesqueros,
+           ●         Cacahuate y sus productos
+           ●         Soya y sus productos (excepto el aceite de soya).
+           ●         Leche y productos lácteos (incluida la lactosa),
+           ●         Nueces de árboles y sus derivados,
+           ●         Sulfito en concentraciones de 10 mg/kg o más.
+4.2.2.2.4        En la declaración de aditivos utilizados en la elaboración de los alimentos y bebidas no
+alcohólicas preenvasados debe utilizarse el nombre común o en su defecto, alguno de los sinónimos,
+establecidos en el Acuerdo.
+Las enzimas y saborizantes, saboreador o aromatizantes podrán ser declarados como denominaciones
+genéricas.
+Los saborizantes, saboreadores o aromatizantes podrán estar calificados con los términos “naturales”,
+“idénticos a los naturales”, “artificiales” o con una combinación de los mismos según corresponda.
+4.2.2.3.             Etiquetado cuantitativo de los ingredientes
+4.2.2.3.1         En todo alimento o bebida no alcohólica preenvasado que se venda como mezcla o
+combinación, se declarará el porcentaje del ingrediente, con respecto al peso o al volumen que corresponda
+del ingrediente, al momento de la elaboración del alimento (incluyendo los ingredientes compuestos o
+categorías de ingredientes), cuando este ingrediente:
+(a)        se enfatiza en la etiqueta como presente, por medio de palabras o imágenes o gráficos; o
+                                               DIARIO OFICIAL                         Lunes 5 de abril de 2010
+
+(b)     no figura en el nombre o denominación del alimento o bebida no alcohólica preenvasados y es
+esencial para caracterizar al mismo, ya que los consumidores asumen su presencia en el producto
+preenvasado y la omisión de la declaración cuantitativa de ingredientes engaña o lleva a error al consumidor.
+Tales declaraciones no se requieren cuando:
+(c)     el ingrediente es utilizado en pequeñas cantidades con el propósito de impartir sabor y/o aroma;
+Respecto al numeral 4.2.2.3.1 (a):
+(d)      La referencia en el nombre del alimento, ingrediente o categoría de ingredientes enfatizados en la
+etiqueta no requiera una declaración cuantitativa si es que:
+La referencia al ingrediente enfatizado no conduce a error o engaño, o crea una impresión errónea en el
+consumidor respecto a la naturaleza del alimento o bebida no alcohólica preenvasado, porque la variación en
+la cantidad del ingrediente o ingredientes entre productos no es necesaria para caracterizar al mismo o
+distinguirlo de similares.
+4.2.2.3.2       La información requerida en el numeral 4.2.2.3.1 será declarada en la etiqueta del producto
+como un porcentaje numérico.
+El porcentaje del ingrediente, por peso o volumen, según corresponda, se declarará en la etiqueta muy cerca
+de las palabras o imágenes o gráficos que enfaticen el ingrediente particular, o al lado del nombre común o
+denominación del alimento o bebida no alcohólica preenvasado, o adyacente al ingrediente que corresponda
+en la lista de ingredientes. Se declarará como un porcentaje mínimo cuando el énfasis sea sobre la presencia
+del ingrediente, y como un porcentaje máximo cuando el énfasis sea sobre el bajo nivel del ingrediente.
+Para alimentos que han perdido humedad luego de un tratamiento térmico u otro tratamiento, el porcentaje
+(con respecto al peso o al volumen) corresponderá a la cantidad del ingrediente o ingredientes usados, en
+relación con el producto terminado.
+4.2.3   Contenido neto y masa drenada
+4.2.3.1 Debe declararse el contenido neto y cuando aplique, la masa drenada en unidades del Sistema
+General de Unidades de Medida de conformidad a lo que establece la NOM-030-SCFI-2006,
+independientemente de que también pueda expresarse en otras unidades (véase Referencias).
+4.2.4   Nombre, denominación o razón social y domicilio fiscal.
+4.2.4.1 Para alimentos y bebidas no alcohólicas preenvasados, debe indicarse en la etiqueta el nombre,
+denominación o razón social y domicilio fiscal del responsable del producto de manera enunciativa mas no
+limitativa: calle, número, código postal y entidad federativa en que se encuentre.
+4.2.4.2. Para productos preenvasados importados debe indicarse en la etiqueta el nombre, denominación o
+razón social y domicilio fiscal del responsable del producto. Esta información puede incorporarse al producto
+preenvasado en territorio nacional, después del despacho aduanero y antes de la comercialización del
+producto.
+4.2.5   País de origen
+4.2.5.1 Los alimentos y bebidas no alcohólicas preenvasados nacionales o de procedencia extranjera deben
+incorporar la leyenda que identifique el país de origen de los productos, por ejemplo: "Hecho en..."; "Producto
+de ..."; "Fabricado en ...", u otras análogas, seguida del país de origen del producto, sujeto a lo dispuesto en
+los tratados internacionales de que los Estados Unidos Mexicanos sean parte. Se permite el uso de gentilicios
+y otros términos análogos, siempre y cuando sean precisos y no induzcan a error en cuanto al origen del
+producto. Por ejemplo: “Producto español”, “Producto estadounidense”, entre otros.
+4.2.6   Identificación del lote
+4.2.6.1 Cada envase debe llevar grabada o marcada de cualquier modo la identificación del lote al que
+pertenece, con una indicación en clave que permita su rastreabilidad.
+4.2.6.2 La identificación del lote que incorpore el fabricante en el producto preenvasado debe marcarse en
+forma indeleble y permanente, y no debe ser alterada u ocultada de forma alguna hasta que sea adquirido por
+el consumidor.
+4.2.6.3 La clave del lote debe ser precedida por cualquiera de las siguientes indicaciones: “LOTE”, “Lot”, “L”,
+“Lote”, “lote”, “lot”, “l”, “lt”, “LT”, “LOT”, o bien incluir una referencia al lugar donde aparece.
+4.2.7   Fecha de caducidad o de consumo preferente
+       Lunes 5 de abril de 2010                    DIARIO OFICIAL
+
+4.2.7.1 Si no está determinado de otra manera en una Norma Oficial Mexicana la fecha de caducidad o la
+fecha de consumo preferente deberá cumplir con lo siguiente:
+i)          El fabricante debe declararla en el envase o etiqueta, la cual debe consistir por lo menos de:
+-           El día y el mes para los productos de duración máxima de tres meses;
+-           El mes y el año para productos de duración superior a tres meses.
+            ii)      La fecha debe estar precedida por una leyenda que especifique que dicha fecha se refiere a
+            la fecha de caducidad o al consumo preferente.
+           -        Para el caso de fecha de caducidad, ésta debe indicarse anteponiendo alguna de las
+           siguientes leyendas, sus abreviaturas o leyendas análogas:
+           “Fecha de caducidad ___”, “Caducidad ____”, “Fech Cad ____”, CAD, Cad, cad, Fecha de expiración,
+           Expira, Exp, EXP, exp, Fecha de vencimiento, Vencimiento.
+           -        Para el caso de consumo preferente, ésta debe indicarse anteponiendo alguna de las
+           siguientes leyendas, sus abreviaturas o leyendas análogas:
+“Consumir preferentemente antes del____”, “Cons. Pref. antes del ___”. y “Cons Pref”.
+iii)        Las palabras prescritas en el apartado ii) deberán ir acompañadas de:
+•           la fecha misma; o
+•           una referencia al lugar donde aparece la fecha.
+Tratándose de productos de importación, cuando el codificado de la fecha de caducidad o de consumo
+preferente no corresponda al formato establecido en el numeral 4.2.7.1 inciso i), éste podrá ajustarse a efecto
+de cumplir con la formalidad establecida, o en su caso, la etiqueta o el envase debe contener la interpretación
+de la fecha señalada. En ninguno de estos casos los ajustes serán considerados como alteración.
+4.2.7.2 Al declarar la fecha de caducidad o de consumo preferente se debe indicar en la etiqueta cualquiera
+de las condiciones especiales que se requieran para la conservación del alimento o bebida no alcohólica
+preenvasado, si de su cumplimiento depende la validez de la fecha.
+Por ejemplo, se pueden incluir leyendas como: "manténgase en refrigeración"; "consérvese en congelación";
+"una vez descongelado no deberá volverse a congelar"; "una vez abierto, consérvese en refrigeración", u otras
+análogas.
+4.2.7.3 La fecha de caducidad o de consumo preferente que incorpore el fabricante en el producto
+preenvasado no puede ser alterada en ningún caso y bajo ninguna circunstancia.
+4.2.7.4 No se requerirá la declaración de fecha de caducidad o consumo preferente, para:
+●           Vinagre;
+●           Sal de calidad alimentaria;
+●           Azúcar sólido;
+●           Productos de confitería consistentes en azúcares aromatizados y/o coloreados;
+●           Goma de mascar.
+4.2.8       Información nutrimental.
+4.2.8.1 La declaración nutrimental en la etiqueta de los productos preenvasados es obligatoria, e
+independiente de las especificaciones del etiquetado frontal nutrimental.
+
+
+[Modificación publicada en el DOF el 14 de agosto de 2014]
+
+
+4.2.8.2                Nutrimentos que deben ser declarados.
+4.2.8.2.1       Es obligatorio declarar lo siguiente, con excepción de los alimentos y bebidas no alcohólicas
+preenvasados regulados por otros ordenamientos jurídicos aplicables:
+                                                   DIARIO OFICIAL                  Lunes 5 de abril de 2010
+
+        a)       Contenido energético;
+
+        b)       La cantidad de proteínas;
+        c)       La cantidad de hidratos de carbono o carbohidratos disponibles, indicando la cantidad
+                 correspondiente a azúcares;
+        d)       La cantidad de grasas o lípidos, especificando la cantidad que corresponda a grasa
+                 saturada;
+
+        e)       La cantidad de fibra dietética;
+
+        f)       La cantidad de sodio;
+        g)       La cantidad de cualquier otro nutrimento acerca del cual se haga una declaración de
+                 propiedades;
+        h)       La cantidad de cualquier otro nutrimento que se considere importante, regulado por los
+                 ordenamientos jurídicos aplicables.
+4.2.8.2.2        Cuando se haga una declaración específica de propiedades referente a la cantidad o tipo de
+hidrato de carbono o carbohidrato, podrán indicarse también las cantidades de almidón y/u otros
+constituyentes de hidratos de carbono.
+4.2.8.2.3       Cuando se haga una declaración de propiedades con respecto a la cantidad o el tipo de
+ácidos grasos o la cantidad de colesterol deben declararse las cantidades de: ácidos grasos trans, ácidos
+grasos monoinsaturados, ácidos grasos poliinsaturados y colesterol.
+4.2.8.2.4         Independientemente de lo establecido en el numeral 4.2.8.1, quedan exceptuados de incluir
+la información nutrimental los siguientes productos siempre y cuando no incluyan alguna declaración de
+propiedades:
+
+i. Productos que incluyan un solo ingrediente,
+ii. Hierbas, especias o mezcla de ellas,
+iii. Extractos de café, granos de café enteros o molidos descafeinados o no,
+iv. Infusiones de hierbas, té descafeinado o no, instantáneo y/o soluble que no contengan ingredientes
+añadidos,
+v. Vinagres fermentados y sucedáneos,
+vi. Aguas purificadas embotelladas, aguas minerales naturales,
+vii. Los productos en que la superficie más amplia sea inferior a 78 centímetros cuadrados, siempre que
+incluyan un número telefónico o página Web en la que el consumidor pueda obtener la información
+nutrimental. Por ejemplo, “Para información nutrimental llame, 01-800-123-4567”, “Información nutrimental
+disponible en (indicar página Web o número telefónico de atención a clientes) o leyendas análogas".
+
+En este caso, los productos no deberán incluir alguna declaración de propiedades en el producto mismo, su
+etiqueta o publicidad.
+
+[Modificación publicada en el DOF el 26 de octubre de 2010]
+
+
+
+
+4.2.8.3 Presentación de la información nutrimental
+4.2.8.3.1        La declaración nutrimental debe hacerse en las unidades que correspondan al Sistema
+General de Unidades de Medida NOM-008-SCFI-2002, citada en el capítulo de referencias. Adicionalmente,
+se pueden emplear otras unidades de medidas. Tratándose de fibra dietética, vitaminas y nutrimentos
+inorgánicos (minerales), éstos se deben sujetar a lo establecido en el inciso 4.2.8.3.5
+4.2.8.3.2         La declaración sobre el contenido energético (Calorías) debe expresarse ya sea en kJ (kcal)
+o en Cal (kJ) o en kJ por 100 g, o por 100 ml, o por porción en envases que contengan varias porciones, o por
+envase cuando éste contiene sólo una porción.
+   Lunes 5 de abril de 2010                    DIARIO OFICIAL
+
+
+[Modificación publicada en el DOF el 26 de octubre de 2010]
+
+
+4.2.8.3.3        La declaración sobre la cantidad de proteínas, hidratos de carbono (carbohidratos), lípidos
+(grasas), y sodio que contienen los alimentos y bebidas no alcohólicas preenvasados debe expresarse en
+unidades de medida por 100 g o por 100 mL o por porción o por envase, si éste contiene sólo una porción.
+4.2.8.3.4         La declaración numérica sobre fibra dietética, vitaminas y nutrimentos inorgánicos
+(minerales) debe expresarse en unidades de medida o en porcentaje de los valores nutrimentales de
+referencia, o en ambos por 100 g, o por 100 mL, o por porción en envases que contengan varias porciones, o
+por envase cuando éste contiene sólo una porción.
+4.2.8.3.5       Para estos casos, se debe emplear la siguiente tabla de ingestión diaria sugerida e ingestión
+diaria recomendada, para la población mexicana según corresponda.
+
+
+                  Tabla 2. Valores nutrimentales de referencia para la población mexicana
+              Nutrimento/unidad de medida                                        VNR
+                                                                     IDR                       IDS
+ Proteína g/kg de peso corporal                                        1
+ Fibra dietética g                                                    30
+ Vitamina A µg (equivalentes de retinol)                                                       568
+ Vitamina B1 µg (Tiamina)                                                                      800
+ Vitamina B2 µg (Riboflavina)                                                                  840
+ Vitamina B6 µg (Piridoxina)                                                                   930
+ Niacina mg (equivalente a Acido nicotínico)                                                    11
+ Acido fólico µg (Folacina)                                                                    380
+ Vitamina B12 µg (Cobalamina)                                                                   2,1
+ Vitamina C mg (Acido ascórbico)                                      60
+ Vitamina D µg                                                                                  5,6
+ (como colecalciferol)
+ Vitamina E mg (equivalente a tocoferol)                                                        11
+ Vitamina K. µg                                                                                 78
+ Acido pantoténico mg                                                                           4,0
+ Calcio mg                                                                                     900
+ Cobre µg                                                                                      650
+ Cromo µg                                                                                       22
+ Flúor mg                                                                                       2,2
+ Fósforo mg                                                          664
+ Hierro mg                                                                                      17
+ Magnesio mg                                                                                   248
+ Selenio µg                                                                                     41
+ Yodo µg                                                                                        99
+ Zinc mg                                                                                        10
+
+
+4.2.8.3.6        La información nutrimental puede presentarse de la siguiente manera o en cualquier otro
+formato que contenga la información requerida conforme lo indicado en la tabla 3:
+                                                DIARIO OFICIAL                       Lunes 5 de abril de 2010
+
+
+
+                            Tabla 3. Presentación de la información nutrimental
+                                                                    Por 100 g o 100 ml, o por porción o por
+             Información nutrimental/Datos de nutrición
+                                                                                    envase
+ Contenido energético/Calorías                                      _________ kJ (kcal)/Cal (Kj)/kJ
+ Proteínas                                                          _________ g
+ Grasas (lípidos)/Grasas totales                                    _________ g
+
+
+ Grasa saturada                                                     __________ g
+ Carbohidratos (hidratos de carbono)/Carbohidratos totales          _________ g
+
+
+ Azúcares                                                           g
+ Fibra dietética                                                    _________ g
+ Sodio                                                              _________ mg
+ Información adicional                                              _________ mg, µg o % de VNR
+[Modificación publicada en el DOF el 26 de octubre de 2010]
+
+
+4.2.8.3.7          Tolerancias y cumplimiento
+La Secretaría de Salud puede establecer límites de tolerancia en relación con las exigencias de salud pública,
+en materia de la información nutrimental. La estabilidad en almacén, la precisión de los análisis, el diverso
+grado de elaboración y la inestabilidad y variabilidad propias del nutrimento en el producto, dependiendo de si
+el nutrimento ha sido añadido al producto o se encuentra naturalmente presente en él, se regularán a través
+de normas oficiales mexicanas.
+4.2.8.3.8        Los valores de composición bromatológica que figuren en la declaración de nutrimentos del
+alimento o bebida no alcohólica preenvasado, deben ser valores medios ponderados derivados por análisis,
+bases de datos o tablas reconocidas internacionalmente.
+4.2.8.3.9         Se acepta la utilización de los siguientes parámetros de redondeo para la expresión de la
+información nutrimental, conforme corresponda al nutrimento respectivo:
+
+Nutrimento                                              Parámetro de redondeo
+Contenido Energético o                                  < 5 Cal-reportar 0
+Calorías                                                < 50 Cal-expresar en múltiplos de 5 Cal
+                                                        > 50 Cal-expresar en múltiplos de 10 Cal
+Grasas o lípidos                                        < 0.5 g-reportar 0
+                                                        < 5 g-expresar en múltiplos de .5 g
+                                                        > 5 g-redondear al entero más cercano
+Colesterol                                              < 2 mg-reportar 0
+                                                        2-5 mg-reportar “menos de 5 mg”
+                                                        > 5 mg-expresar en múltiplos de 5 mg
+Sodio                                                   < 5 mg-reportar 0
+                                                        5-140 mg-expresar en múltiplos de 5 mg
+Potasio                                                 > 140 mg-expresar en múltiplos de 10 mg
+Carbohidratos y sus                                     <0.5 g – reportar 0
+Componentes
+Fibra Dietética                                         < 1 g–reportar “contiene menos de 1 g” o “menos
+                                                        de 1 g”
+                                                        > 1 g redondear al entero más cercano
+Proteína                                                < 0.5 g–reportar 0
+                                                        < 1 g-reportar “contiene menos de 1 g” o “menos
+                                                        de 1 g” o
+                                                        > 1 g redondear al entero más cercano
+Vitaminas y Minerales                                   Expresar en porcentaje del VNR
+                                                        < 2% del VNR-reportar 0
+   Lunes 5 de abril de 2010                      DIARIO OFICIAL
+
+Nutrimento                                                 Parámetro de redondeo
+                                                     < 10% del VNR-expresar en múltiplos de 2%
+                                                     > 10%-50% del VNR-expresar en múltiplos de 5%
+                                                     > 50% de VNR-expresar en múltiplos de 10%
+[Se adicionó el inciso 4.2.8.3.9 mediante publicación en el DOF del 26 de octubre de 2010]
+
+
+
+4.2.9. Etiquetado frontal nutrimental.
+4.2.9.1 La declaración nutrimental frontal a que hace referencia el Acuerdo por el que se emiten los
+Lineamientos de Etiquetado, será obligatoria para el caso de las grasas saturadas, otras grasas, azúcares
+totales, sodio y energía. Esto con independencia de la declaración nutrimental a que hace referencia el
+apartado 4.2.8 de la presente norma oficial mexicana.
+Para efectos del párrafo anterior, se entenderá por azúcares totales lo establecido en el numeral 3.6.
+Asimismo, se entenderá por otras grasas, a la diferencia obtenida de las grasas totales y grasas saturadas.
+4.2.9.2 Las menciones obligatorias a que se refiere el artículo 25 del Reglamento, deberán sujetarse a las
+siguientes especificaciones y características:
+         I.       Las menciones obligatorias a expresarse en el etiquetado deberán estar contenidos en el
+         siguiente ícono:
+
+
+
+
+         II.     Las dimensiones mínimas son reguladas en función del área frontal de exhibición, de tal
+         forma que las menciones obligatorias deben ocupar por lo menos 0.5% de la misma por cada ícono
+         que haya de ser reportado pero nunca deberá ser menor a 0.6 cm de ancho y 0.9 cm de alto. En
+         todos los casos, cada ícono deberá guardar la proporción de dos tercios de ancho respecto de la
+         altura.
+         III.       La expresión de los nutrimentos y el aporte energético deberá sujetarse a lo siguiente:
+                a) Cumplir con el siguiente orden de izquierda a derecha: Grasa saturada, Otras grasas,
+                Azúcares totales, Sodio y Energía. Esto tal y como se muestra a continuación:
+
+
+
+
+                b) Representar el porcentaje del aporte calórico de grasa saturada, otras grasas y azúcares
+                totales en kilocalorías o Calorías debiendo usar la abreviatura “kcal” o “Cal” y el porcentaje con
+                el signo porcentual “%”, tal y como se muestra a continuación:
+                                               DIARIO OFICIAL                         Lunes 5 de abril de 2010
+
+             c) Reportar el contenido de sodio en miligramos debiendo usar la abreviatura "mg", o en su
+             caso “g” cuando se declare más de un millar, y el porcentaje con el signo porcentual “%”, tal y
+             como se muestra a continuación:
+
+
+
+
+             d) Expresar el contenido energético usando la palabra “Energía” seguido del número de
+             kilocalorías correspondientes, debiendo usar la abreviatura “kcal” o “Cal”, tal y como se muestra
+             a continuación:
+
+
+
+
+        IV.      Los envases de alimentos y bebidas no alcohólicas, considerados como individuales,
+        deberán realizar la declaración de Grasa saturada, Otras grasas, Azúcares totales, Sodio y Energía,
+        por el contenido total del envase, considerando lo dispuesto en las fracciones I, II y III de este inciso
+        4.2.9.2.
+        V.      Cuando se trate de un envase familiar, en el que el productor opte por declarar por porción,
+        deberá cumplir con lo siguiente:
+             a) La declaración se hará por porción, pieza o medida casera.
+             b) Se añadirá un ícono en el que se declaren las kilocalorías totales, el cual se ubicará al final
+             de los íconos a que hace mención el literal a) de la fracción III de este inciso 4.2.9.2.
+             c) Se deberá señalar el número de porciones contenidas en el envase, bajo el último de los
+             íconos mencionados.
+Lo anterior se representará de la siguiente manera:
+
+
+
+
+        VI.     Las menciones obligatorias a que hace referencia el inciso c) del artículo 25 del Reglamento,
+        deberán cumplir con lo siguiente:
+             a) Los criterios establecidos en la fracción III de este inciso 4.2.9.2, se deberán declarar por
+             envase.
+             b) Se añadirá un ícono en el que se declaren las kilocalorías por porción, el cual se ubicará al
+             final de los íconos a que hace mención el literal a) de la fracción III de este inciso 4.2.9.2.
+             c) Se deberá señalar el número de porciones contenidas en el envase, bajo el último de los
+             íconos mencionados.
+   Lunes 5 de abril de 2010                    DIARIO OFICIAL
+
+Lo anterior se representará de la siguiente manera:
+
+
+
+
+El presente numeral no le será aplicable a:
+
+         i)       Las bebidas saborizadas que sean consideradas de bajo contenido energético,
+
+         ii)      Aquellos productos envasados de manera individual cuyo contenido sea menor a la porción
+         de referencia señalada en el artículo noveno del Acuerdo por el que se emiten los Lineamientos de
+         Etiquetado.
+
+4.2.9.3 Para los envases comprendidos en las fracciones IV, V y VI del numeral 4.2.9.2, se deberá observar
+lo siguiente:
+
+
+
+         I.      Cuando el valor de un nutrimento sea igual a cero se deberá declarar en cero “0”, lo mismo
+         que su valor porcentual.
+
+         II.     Cuando el valor de un nutrimento sea menor a 5 kilocalorías se deberá declarar en cero “0”,
+         lo mismo que su valor porcentual.
+         III.    Para realizar el cálculo de conversión del gramaje de los nutrimentos a declarar, a su
+         equivalente en aporte energético, se deberá:
+
+
+              a) Multiplicar el contenido en gramos por el factor de conversión correspondiente:
+ Nutrimentos                  kcal/ Cal                Se multiplica el valor en gramos por el valor calórico
+                                                       indicado para cada nutrimento
+ Azúcares totales             4 kcal/Cal               gramos x 4 = valor expresado en kcal/Cal
+ Grasa saturada               9 kcal/Cal               gramos x 9 = valor expresado en kcal/Cal
+ Otras grasas                 9 kcal/Cal               gramos x 9 = valor expresado en kcal/Cal
+
+
+Para realizar el cálculo correspondiente a las pilas de “Energía” y “Energía por envase” se deberá considerar
+la suma del aporte energético de los siguientes nutrimentos:
+ Nutrimentos                                   Se multiplica el valor en gramos por el valor calórico indicado
+                                               para cada nutrimento
+ Proteínas                                     gramos x 4 = valor expresado en kcal/Cal
+ Grasas totales                                gramos x 9 = valor expresado en kcal/Cal
+ Carbohidratos disponibles                     gramos x 4 = valor expresado en kcal/Cal
+
+
+              b) Declarar el resultado obtenido en enteros conforme a los siguientes criterios:
+                    i)     Si el decimal que se va a descartar es igual o mayor que 0.5, se reporta en la
+                    unidad superior siguiente.
+                                                DIARIO OFICIAL                        Lunes 5 de abril de 2010
+
+                   ii)       Si el decimal que se va a descartar es menor que 0.5 se reporta la unidad inmediata
+                   inferior.
+        IV)       El productor podrá optar en declarar el aporte de sodio en enteros o con un decimal.
+        V)        En la declaración del valor porcentual de referencia se considerará lo siguiente:
+              a) Declarar el resultado obtenido en enteros conforme los siguientes criterios:
+                   i)     Si el decimal que se va a descartar es igual o mayor que 0.5, se reporta en la
+                   unidad superior siguiente.
+                   ii)    Si el decimal que se va a descartar es menor que 0.5 se reporta en la unidad
+                   inmediata inferior.
+        VI)      La leyenda que señala el contenido por envase, medida casera, pieza o porción se colocará
+        en la parte superior de los íconos obligatorios a que hace referencia los párrafos segundo y tercero
+        del artículo 25 del Reglamento, debiendo establecer algunas de las leyendas siguientes, según
+        aplique:
+              a) “Una medida casera de xx g o ml aporta”
+              b) “Una pieza de xx g o ml aporta”
+              c) “Una porción de xx g o ml aporta”
+              d) “Este envase aporta”
+Lo anterior se representará de la siguiente manera:
+
+
+                                       Una cucharada de 15 ml aporta:
+
+
+
+
+        VII.     Cuando se trate de productos que por su proceso de fabricación, se imposibilite obtener un
+        gramaje uniforme en los mismos, el productor podrá utilizar el término “aproximadamente” o “aprox.”
+        en la declaración del gramaje.
+        VIII.    En los alimentos destinados a ser reconstituidos o que requieran preparación antes de ser
+        consumidos, la información nutrimental debe ser declarada como se consume de acuerdo con las
+        instrucciones indicadas en la etiqueta.
+        IX.     La leyenda que hace referencia a la determinación de los porcentajes, con excepción del
+        contenido calórico del envase, se deberá colocar en la parte inferior de los íconos obligatorios y
+        deberá decir: “% de los nutrimentos diarios”
+Lo anterior se representará de la siguiente manera:
+   Lunes 5 de abril de 2010                    DIARIO OFICIAL
+
+
+
+                                         % de los nutrimentos diarios
+        X.      El color de los íconos los elegirá cada productor, debiéndose usar el mismo color en cada
+        uno de ellos. El color de la tipografía y las líneas de la forma deberán contrastar con el color elegido y
+        se deberán emplear colores contrastantes con el fondo del área en donde se ubiquen los íconos.
+        XI.       La ubicación de los íconos obligatorios a que hace referencia los párrafos segundo y tercero
+        del artículo 25 del Reglamento, deberá considerar lo siguiente:
+             a) Cuando el área frontal de exhibición mida más de 60 cm2 todos los íconos deberán ubicarse
+             en la misma.
+             b) Cuando el área frontal de exhibición mida entre 20 cm2 y 60 cm2, se deberá ubicar el ícono
+             de energía en el panel frontal y los otros cuatro íconos en los paneles laterales, y cuando no los
+             hubiera, en los posteriores. Si el productor lo desea podrá ubicar todos los íconos en el panel
+             frontal.
+             c) Cuando el área frontal de exhibición sea menor a 20 cm2, únicamente será necesario ubicar
+             el ícono de energía en el panel frontal.
+             d) Cuando el área frontal de exhibición sea menor a 10 cm2, únicamente será necesario ubicar
+             el ícono de energía en cualquier parte del envase.
+             e) Cuando el área frontal de exhibición sea menor a 5 cm2, no será necesaria declaración
+             alguna respecto a la información contenida en el Acuerdo por el que se emiten los Lineamientos
+             de Etiquetado.
+             f) Cuando el envase del producto tenga una única superficie de exhibición y sea menor a 78
+             cm2, sólo deberán declarar el ícono de Energía. El supuesto no será aplicable a aquellos
+             productos que compartan una sola etiqueta en un empaque múltiple o colectivo.
+4.2.9.4 Quedan exentos de declarar mediante etiquetado situado en el área frontal de exhibición, además de
+los enunciados en el párrafo segundo del artículo 25 del Reglamento, los siguientes:
+             a) Las hierbas, especias, condimentos o mezcla de ellas.
+             b) Los extractos de café puros, granos enteros, molidos, descafeinados o no, solubles o no
+             solubles.
+             c) Las infusiones de hierbas, té descafeinado o no, instantáneo y/o soluble que no contengan
+             ingredientes añadidos.
+             d) Los vinagres fermentados y sucedáneos.
+             e) Los productos y materias primas contenidos en envases destinados exclusivamente para su
+             uso y consumo por instituciones, los cuales deberán ostentar en el área frontal de exhibición la
+             leyenda "presentación institucional".
+             f) Los alimentos y bebidas no alcohólicas donde cada uno de los nutrimentos por porción
+             representen un aporte energético igual o menor a 1% de los nutrimentos diarios.
+             g) Los envases en los que se encuentren contenidos dos o más unidades de productos no
+             preenvasados de manera individual, diferentes y destinados para su venta conjunta al
+             consumidor.
+             h) Los envases que además de contener el alimento o bebida no alcohólica tengan como
+             propósito de servir de regalo o artículo decorativo en sí mismo.
+             i) Los productos cuya presentación individual indique la leyenda de “No etiquetado para su
+             venta individual”, o similar, y que se encuentren en un empaque múltiple o colectivo.
+             j) Aquellos envases cuyo contenido corresponda a más de un tipo de producto etiquetado de
+             manera individual, podrán no etiquetarse siempre que por lo menos el 70% de los productos
+             contenidos en el mismo se encuentren etiquetados conforme al apartado 4.2.9 de la presente
+             norma.
+                                                DIARIO OFICIAL                      Lunes 5 de abril de 2010
+
+             k) Los productos de venta a granel.
+Los productores de alimentos y bebidas no alcohólicas que se encuentren exentos de declarar mediante
+etiquetado situado en el área frontal de exhibición, y que estén interesados en utilizar dicho sistema de
+etiquetado tendrán que cumplir con las disposiciones de esta Norma.
+4.2.9.5 Para efectos de lo dispuesto en el artículo 25 del Reglamento, se entenderá como alimentos para
+lactantes y niños de corta edad, a las fórmulas para lactantes, fórmulas para lactantes para necesidades
+especiales de nutrición, fórmulas de continuación, fórmulas de continuación para necesidades especiales de
+nutrición, y los alimentos y bebidas no alcohólicas para lactantes y niños de corta edad.
+4.2.9.6 Para el caso de productos en envases retornables utilizados como contenedores para más de un tipo
+de producto o sabor, los productores estarán obligados únicamente a expresar, en la parte externa de la tapa
+el contenido calórico del total del producto.
+4.2.9.7 Para el etiquetado frontal nutrimental, los productores de alimentos y bebidas no alcohólicas deberán
+observar las cantidades de referencia previstas en el Acuerdo por el que se emiten los Lineamientos de
+Etiquetado.
+4.2.9.8 En caso de que el productor opte declarar por poción el contenido energético o el aporte energético
+de un producto, éste podrá optar de manera indistinta hacerlo por porción o medida casera, de acuerdo a lo
+establecido en el Acuerdo por el que se emiten los Lineamientos de Etiquetado.
+Cuando por sus características, la información nutrimental del producto se declare por medida casera, se
+deberá señalar el valor en gramos, miligramos o mililitros que le corresponda a la misma. El valor señalado de
+la medida casera, podrá o no coincidir con la porción de referencia.
+4.2.9.9 Para los productos de confitería, chocolate y productos similares a chocolate, en su presentación
+individual, cuyo producto sea claramente fraccionable o cuantificable, el productor podrá añadir el ícono
+correspondiente al contenido energético por porción, así como el número de porciones contenidas en el
+envase, tomando como base la porción de referencia o la unidad de medida casera contenidas en el Acuerdo
+por el que se emiten los Lineamientos.
+4.2.9.10 El etiquetado frontal nutrimental es obligatorio e independiente de las especificaciones de la
+declaración nutrimental.
+4.2.10   Declaración de propiedades nutrimentales
+4.2.10.1 No obstante lo establecido en la presente norma, toda declaración respecto de las propiedades
+nutrimentales debe sujetarse a lo dispuesto en la NOM-086-SSA1 (ver referencias).
+4.2.11   Presentación de los requisitos obligatorios
+4.2.11.1 Generalidades
+4.2.11.1.1      Las etiquetas que ostenten los productos preenvasados deben fijarse de manera tal que
+permanezcan disponibles hasta el momento del consumo en condiciones normales, y deben aplicarse por
+cada unidad, envase múltiple o colectivo.
+4.2.11.1.2        Cuando la información comercial obligatoria de los alimentos o bebidas no alcohólicas
+preenvasados que van destinados al consumidor final se encuentre en un envase múltiple o colectivo, no será
+necesario que dicha información aparezca en la superficie del producto individual. Sin embargo, la indicación
+del lote y la fecha de caducidad o de consumo preferente deben aparecer en los alimentos y bebidas no
+alcohólicas preenvasados individuales. Además, en los alimentos y bebidas no alcohólicas preenvasados se
+debe indicar siempre en lo individual la leyenda "No etiquetado para su venta individual", cuando éstos no
+tengan toda la información obligatoria o una frase equivalente.
+4.2.11.1.3        Los datos que deben aparecer en la etiqueta deben indicarse con caracteres claros, visibles,
+indelebles y en colores contrastantes, fáciles de leer por el consumidor en circunstancias normales de compra
+y uso.
+El dato relativo al lote, fecha de caducidad o de consumo preferente puede ser colocado en cualquier parte del
+envase.
+4.2.11.1.4       Cuando el envase esté cubierto por una envoltura, debe figurar en ésta toda la información
+aplicable, a menos de que la etiqueta del envase pueda leerse fácilmente a través de la envoltura exterior.
+      Lunes 5 de abril de 2010                      DIARIO OFICIAL
+
+4.2.11.1.5       Deben aparecer en la superficie principal de exhibición del producto cuando menos la
+marca, la declaración de cantidad y la denominación del alimento o bebida no alcohólica preenvasado y
+aquella cuya ubicación se haya especificado. El resto de la información a que se refiere esta Norma Oficial
+Mexicana, puede incorporarse en cualquier otra parte del envase.
+4.2.12 Idioma
+4.2.12.1 Los alimentos y bebidas no alcohólicas preenvasados deben ostentar la información obligatoria a que
+se refiere esta norma oficial mexicana en idioma español, sin perjuicio de que se exprese en otros idiomas.
+Cuando la información se exprese en otros idiomas debe aparecer también en español, cuando menos con el
+mismo tamaño y de manera igualmente ostensible.
+4.2.12.2 La presentación de información o representación gráfica adicional en la etiqueta a la señalada en
+esta Norma Oficial Mexicana, que puede estar presente en otro idioma, es facultativa y, en su caso, no debe
+sustituir, sino añadirse a los requisitos de etiquetado de la presente Norma, siempre y cuando dicha
+información resulte necesaria para evitar que se induzca a error o engaño al consumidor.
+
+
+[Publicación publicada en el DOF el 14 de agosto de 2014]
+
+
+4.3        Requisitos opcionales de información
+4.3.1      Información nutrimental complementaria
+El uso de información nutrimental complementaria, escrita o gráfica, en las etiquetas de los alimentos y
+bebidas no alcohólicas preenvasados es opcional y en ningún caso debe sustituir la declaración de los
+nutrimentos, excepto en los alimentos y bebidas no alcohólicas modificados en su composición, debiendo
+cumplir con la NOM 086 SSA1 (Ver referencias).
+4.3.1.1 Cuando se presente la declaración nutrimental complementaria, debe aplicarse cualquiera de los
+siguientes criterios:
+           a)       La inclusión de uno de los siguientes nutrimentos no obliga a incluir uno de los otros y sólo
+           se realiza sise tiene asignado un VNR y el contenido de la porción sea igual o esté por arriba del 2%
+           de la VNR referida (ya sea IDR o IDS).
+           Cuando el contenido de la porción sea inferior al 2% de la VNR, podrá declararse en cero.
+           Vitamina A (% VNR), Vitamina E (%VNR), Vitamina C (% VNR), Vitamina B1 (Tiamina) (% VNR),
+           Vitamina B2 (Riboflavina) (%VNR), Vitamina B6 (Piridoxina) (%VNR), Vitamina B12 (%VNR),
+           Vitamina D (%VNR), Vitamina K (%VNR), Acido pantoténico (%VNR), (Cobalamina) (%VNR), Acido
+           fólico (Folacina) (%VNR), Niacina (Acido nicotínico) (%VNR), Calcio (%VNR), Fósforo (% VNR),
+           Magnesio (%VNR), Hierro (%VNR), Zinc (%VNR), Yodo (%VNR). Cobre (%VNR), Cromo (%VNR),
+           Flúor (%VNR), Selenio (%VNR).
+                     [Modificación publicada en el DOF el 26 de octubre de 2010]
+b)         Todos o ninguno de los siguientes:
+                     Grasa poliinsaturada ___ g; grasa monoinsaturada __ g; ácidos grasos trans __ g; colesterol
+           ___ mg.
+           c)        La inclusión de uno de los siguientes no obliga a incluir a los otros:
+                     Almidones ___ g; polialcoholes ___ g; polidextrosas ___ g.
+           d)        Se elimina [Modificación publicada en el DOF el 26 de octubre de 2010]
+           e)        Número de porciones por presentación.
+4.3.1.2 La información nutrimental complementaria puede presentarse conforme a lo indicado en la tabla 4
+o en cualquier otro formato que contenga la información requerida.
+           [Modificación publicada en el DOF el 26 de octubre de 2010]
+
+
+4.3.1.3 Es optativo incluir información nutrimental complementaria basada en valores de referencia
+recomendados para poblaciones distintas a la mexicana, siempre que ésta se presente junto con la
+información indicada en 4.3.1.1 inciso a) y se le distinga claramente. Dicha información puede
+presentarse conforme a lo indicado en la tabla 4 o en cualquier otro formato que contenga la
+información requerida.
+                                                 DIARIO OFICIAL                     Lunes 5 de abril de 2010
+
+
+[Modificación publicada en el DOF el 26 de octubre de 2010]
+
+
+
+              Tabla 4-          Presentación de la declaración nutrimental complementaria
+      Nutrimentos/Porcentaje del VNR (Mex o                       Nutrimentos/Porcentaje del valor de
+      México)                                                     referencia (Nombre del país)
+      Vitamina A______ %                                          Vitamina A______ %
+      Vitamina B1 (Tiamina)______ %                               Vitamina B1 (Tiamina)_____ %
+      Vitamina B2 (Riboflavina)______ %                           Vitamina B2 (Riboflavina)______ %
+      Vitamina B6 (Piridoxina)______ %                            Vitamina B6 (Piridoxina)_____ %
+      Vitamina B12 (Cobalamina)______ %                           Vitamina B12 (Cobalamina)______ %
+      Vitamina C (Acido ascórbico)______ %                        Vitamina C (Acido ascórbico)______
+                                                                  %
+      Niacina (Acido nicotínico)______ %
+                                                                  Niacina (Acido nicotínico)______ %
+      Acido fólico (Folacina)______ %
+                                                                  Acido fólico (Folacina)______ %
+      Hierro______ %
+                                                                  Hierro______ %
+      ...
+                                                                  ...
+
+
+                               [Modificación publicada en el DOF el 26 de octubre de 2010]
+
+
+
+
+4.3.2       Instrucciones para el uso.
+La etiqueta debe contener las instrucciones de uso cuando sean necesarias sobre el modo de empleo,
+incluida la reconstitución, si es el caso, para asegurar una correcta utilización del alimento o bebida no
+alcohólica preenvasado.
+
+
+4.4         Información adicional
+En la etiqueta puede presentarse cualquier información o representación gráfica así como materia escrita,
+impresa o gráfica, siempre que no esté en contradicción con los requisitos obligatorios de la presente norma,
+incluidos los referentes a la declaración de propiedades establecidos en el apartado 4.1.1.
+4.4.1    Cuando se empleen designaciones de calidad, éstas deben ser fácilmente comprensibles, evitando
+ser equívocas o engañosas en forma alguna para el consumidor.
+4.4.2    Asimismo, en la etiqueta puede presentarse cualquier información o representación gráfica que
+indique que el envase que contiene el alimento o bebida no alcohólica preenvasado no afecta al ambiente,
+evitando que sea falsa o equívoca para el consumidor.
+4.5         Distintivo Nutrimental Voluntario
+4.5.1    Los interesados que deseen hacer uso del distintivo nutrimental a que hace referencia el artículo 25
+Bis del Reglamento, deberán cumplir con los criterios nutrimentales, dispuestos en el Acuerdo por el que se
+emiten los Lineamientos de Etiquetado, de acuerdo con el tipo de producto que se trate.
+4.5.2    Los interesados en colocar el distintivo nutrimental en sus envases deberán observar lo establecido
+en el “Apéndice normativo A” de esta norma oficial mexicana.
+La representación gráfica del distintivo nutrimental es la siguiente:
+      Lunes 5 de abril de 2010                    DIARIO OFICIAL
+
+
+
+
+[Modificación publicada en el DOF el 14 de agosto de 2014]
+
+
+
+
+5          Cálculos
+5.1        Cálculo de nutrimentos
+5.1.1      Cálculo de energía
+La cantidad de energía que debe declararse debe calcularse utilizando el siguiente factor de conversión:
+Carbohidratos disponibles 4 kcal/g 17 kJ/g
+Proteínas            4 kcal/g 17 kJ/g
+Grasas 9 kcal/g 37 kJ/g
+5.1.2      Cálculo de proteínas
+La cantidad de proteínas que ha de indicarse, debe calcularse utilizando la siguiente fórmula:
+Proteína = contenido total de nitrógeno Kjeldahl X 6,25
+5.1.3  Podrá usarse un factor diferente para el cálculo de proteína de acuerdo a lo establecido en el
+ordenamiento jurídico aplicable.
+6          Declaraciones de propiedades.
+Este apartado se basa en el principio de que ningún alimento y bebida no alcohólica preenvasado deberá
+describirse o presentarse en forma falsa, equívoca o engañosa, o de ninguna manera que pueda crear en el
+consumidor una impresión errónea en cuanto a su naturaleza.
+6.1        Se prohíbe el uso de las siguientes declaraciones:
+6.1.1      De propiedades.
+           ●        Declaraciones que hagan suponer que una alimentación equilibrada a base de alimentos
+           ordinarios no puede suministrar cantidades suficientes de todos los elementos nutritivos.
+           ●         Declaraciones que no pueden comprobarse.
+           ●         Declaraciones sobre la utilidad de un alimento o bebida no alcohólica, para prevenir, aliviar,
+           tratar o curar una enfermedad, trastorno o estado fisiológico.
+           ●        Declaraciones que pueden suscitar dudas sobre la inocuidad de alimentos o bebidas no
+           alcohólicas análogos, o puedan suscitar o provocar miedo en el consumidor.
+           ●        Declaraciones que afirmen que un determinado alimento constituye una fuente adecuada de
+           todos los nutrimentos esenciales.
+6.1.2      De propiedades potencialmente engañosas
+A continuación se presentan ejemplos de declaraciones de propiedades que pueden ser engañosas:
+           ●        Declaraciones de propiedades que carecen de sentido, incluidos los comparativos y
+           superlativos incompletos.
+           ●      Declaraciones de propiedades respecto a prácticas correctas de higiene o comercio, tales
+           como: "genuinidad", "salubridad", "sanidad", “sano”, “saludable”, excepto las señaladas en otros
+           ordenamientos jurídicos aplicables.
+                                                DIARIO OFICIAL                        Lunes 5 de abril de 2010
+
+
+
+6.2      Declaraciones de propiedades condicionales
+Se permiten las siguientes declaraciones de propiedades condicionadas a la particular condición asignada a
+cada una de ellas:
+         a)       Podrá indicarse que un alimento ha adquirido un valor nutritivo especial o superior gracias a
+         la adición de nutrimentos, tales como vitaminas, nutrimentos inorgánicos (minerales) y aminoácidos,
+         sólo si dicha adición ha sido hecha sobre la base de consideraciones nutrimentales de acuerdo con
+         el marco jurídico aplicable.
+         b)      Las indicaciones de que el alimento tiene cualidades nutricionales especiales gracias a la
+         reducción u omisión de un nutrimento, se deberán hacer sobre la base de consideraciones
+         nutrimentales y estar sujetas al marco jurídico aplicable.
+         c)       Términos como "natural" "puro", "fresco" y "de fabricación casera", "cultivado
+         orgánicamente" o "cultivado biológicamente", cuando se utilicen, deberán ajustarse al marco jurídico
+         aplicable. El uso de estos términos deberá estar en consonancia con las prohibiciones establecidas
+         en el punto 6.1.
+         d)      Podrá declararse la preparación ritual o religiosa de un alimento (ejemplo, Halal, Kosher),
+         siempre que se ajuste a las exigencias de las autoridades religiosas o del ritual competente.
+         e)      Declaraciones de propiedades que afirmen que el alimento tiene características especiales
+         cuando todos los alimentos de ese tipo tienen esas mismas características, si este hecho es
+         aparente en la declaración de propiedades.
+         f)      Podrán utilizarse declaraciones de propiedades que destaquen la ausencia o no adición de
+         determinadas sustancias a los alimentos, siempre que no sean engañosas y la sustancia:
+                  i. no esté sujeta a requisitos específicos en ninguna norma;
+                  ii. sea una de las que los consumidores esperan encontrar normalmente en el alimento;
+                iii. no haya sido sustituida por otra que confiera al alimento características equivalentes a
+         menos que la naturaleza de la sustitución se declare explícitamente con igual prominencia; y
+                  iv. sea un ingrediente cuya presencia o adición en el alimento esté permitida.
+         g)        Las declaraciones de propiedades que pongan de relieve la ausencia o no adición de uno o
+         más nutrimentos deberán considerarse como declaraciones de propiedades nutrimentales y, por
+         consiguiente, deberán ajustarse a la declaración obligatoria de nutrimentos, estipulada en el marco
+         jurídico aplicable.
+6.3      Declaraciones nutrimentales y saludables
+Este tipo de declaraciones podrán referirse al contenido calórico, proteínas, carbohidratos (hidratos de
+carbono), grasas (lípidos) y los derivados de las mismas, fibra dietética, sodio, vitaminas y nutrimentos
+inorgánicos (minerales) para los cuales se han establecido valores nutrimentales de referencia.
+Las declaraciones de propiedades que se definen a continuación están permitidas en los términos señalados
+en cada caso.
+6.3.1   Por declaración de propiedades relativas al contenido de nutrimentos se entiende una declaración de
+propiedades nutrimentales que describe el nivel de un determinado nutrimento contenido en un alimento.
+(Ejemplos: “Fuente de calcio”; “alto contenido de fibra y bajo en grasa”.)
+6.3.2   Por declaración de propiedades de comparación de nutrimentos se entiende una declaración de
+propiedades que compara los niveles de nutrimentos y/o el valor energético de dos o más alimentos.
+(Ejemplos: “reducido”; “menos que”; “menos”; “aumentado”; “más que”.)
+6.3.3    Declaración de propiedades saludables significa cualquier representación que declara, sugiere o
+implica que existe una relación entre un alimento, o un constituyente de dicho alimento, y la salud. Las
+declaraciones de propiedades saludables incluyen lo siguiente:
+6.3.3.1 Por declaración de función de los nutrimentos se entiende una declaración de propiedades
+nutrimentales que describe la función fisiológica del nutrimento en el crecimiento, el desarrollo y las funciones
+normales del organismo.
+Ejemplo: “El nutrimento A (nombrando un papel fisiológico del nutrimento A en el organismo respecto al
+mantenimiento de la salud y la promoción del crecimiento y del desarrollo normal). El alimento X es una fuente
+del/alto en el nutrimento A”.
+      Lunes 5 de abril de 2010                    DIARIO OFICIAL
+
+6.3.3.2 Otras Declaraciones de propiedades de función - Estas declaraciones de propiedades conciernen
+efectos benéficos específicos del consumo de alimentos o sus constituyentes en el contexto de una dieta total
+sobre las funciones o actividades biológicas normales del organismo. Tales declaraciones de propiedades se
+relacionan a una contribución positiva a la salud o a la mejora de una función o la modificación o preservación
+de la salud. Ejemplo: “La sustancia A (nombrando los efectos de la sustancia A sobre el mejoramiento o
+modificación de una función fisiológica o la actividad biológica asociada con la salud). El alimento Y contiene X
+gramos de sustancia A”.
+6.3.4    No se podrán hacer declaraciones de propiedades cuando se pretenda atribuir al producto
+características que no contiene o posee ni declaraciones asociadas a la disminución o reducción de riesgo de
+enfermedad.
+7          Leyendas
+7.1        Leyendas precautorias
+7.1.1    Las leyendas precautorias deben hacer referencia al ingrediente u origen del ingrediente que, basado
+en información científica reconocida, se asocie a riesgos reales o potenciales relacionados con la intolerancia
+digestiva, alergias o enfermedades metabólicas o toxicidad.
+7.1.2  Las leyendas precautorias específicas por producto, se establecerán en las normas oficiales
+mexicanas correspondientes u otros ordenamientos jurídicos.
+7.3      Se pueden incluir leyendas que promuevan una dieta recomendable y/o de orientación alimentaria,
+para lo cual puede consultarse la NOM-043-SSA2-2005 (véase Referencias).
+8          Verificación y Vigilancia
+La verificación y vigilancia de la presente Norma Oficial Mexicana se llevará a cabo por la Procuraduría
+Federal del Consumidor y la Comisión Federal para la Protección contra Riesgos Sanitarios, en el ámbito de
+sus respectivas competencias, de acuerdo con la Ley Federal de Protección al Consumidor, la Ley General de
+Salud y demás ordenamientos jurídicos aplicables.
+9          Evaluación de la conformidad
+Esta Norma Oficial Mexicana no es certificable y las Unidades de Verificación de información comercial
+acreditadas y aprobadas por la Secretaría de Economía podrán evaluar la conformidad de la misma, en
+términos de la Ley Federal sobre Metrología y Normalización.
+10         Bibliografía
+           -         Ley General de Salud.
+           -         Ley Federal de Protección al Consumidor.
+           -       Ley Federal sobre Metrología y Normalización, publicada en el Diario Oficial de la
+           Federación.
+           -         Reglamento de Control Sanitario de Productos y Servicios
+           -         Reglamento de la Ley Federal sobre Metrología y Normalización.
+           -       Acuerdo por el que se determinan las sustancias permitidas como aditivos y coadyuvantes
+           en alimentos, bebidas y suplementos alimenticios.- Codex Alimentarius VI-Normas y Directrices del
+           Codex para el etiquetado de los alimentos y aditivos alimentarios, 1987. FAO/OMS.
+           -         ISO/IEC Guide 37 1995 (E) Instructions for use of products of consumer interest.
+           -       Rosado, Jorge; Casanueva, Esther y Héctor, Bourges; Recomendaciones de ingestión de
+           nutrimentos para la población mexicana. Bases Fisiológicas; Médica Panamericana, 2005.
+11         Concordancia con Normas Internacionales
+Esta Norma Oficial Mexicana concuerda parcialmente con las normas Codex:
+           -      CODEX STAN 1-1985, Rev.1-1991. Norma General para el Etiquetado de los Productos
+           preenvasados, y sus respectivas enmiendas.
+           -       CAC/GL 1-1979, Rev. 1-1991. Directrices generales sobre declaraciones de propiedades, y
+           sus respectivas enmiendas.
+           -      CAC/GL 2-1985, Rev. 1-1993. Directrices sobre Etiquetado Nutricional, y sus respectivas
+           enmiendas.
+           -       CAC/GL 23-1997, Rev. 1-2004. Directrices para el uso de declaraciones nutricionales y
+           saludables, y sus respectivas enmiendas.
+                                                 DIARIO OFICIAL                     Lunes 5 de abril de 2010
+
+
+
+                                             Apéndice normativo A
+
+
+
+A.1      Introducción
+
+A.1.1    El presente Manual de uso para el logotipo del distintivo nutrimental en alimentos y bebidas no
+alcohólicas, busca la eficiencia en la administración de su imagen y se ha desarrollado para mantener su
+unidad a través de múltiples aplicaciones.
+
+A.1.2    El manual reúne las normas autorizadas de aplicación, con el propósito de manejar adecuadamente
+los elementos visuales distintivos del logotipo del distintivo nutrimental, como: composición, proporción y
+aplicaciones de color.
+
+A.1.3    Los interesados en hacer uso del distintivo nutrimental podrán seleccionar las alternativas más
+adecuadas a sus necesidades gráficas, de modo que el logotipo de dicho distintivo se respete en los términos
+de este manual.
+
+A.2      Elementos del Distintivo Nutrimental
+
+A.2.1. La relación y proporción entre los elementos del logotipo del distintivo nutrimental, se han definido a
+distancias específicas en la retícula y no pueden ser modificadas o alteradas de ninguna forma. En ningún
+caso deberán alterarse o modificarse las proporciones, la composición y la distribución de los elementos que
+conforman la identidad gráfica del distintivo nutrimental.
+
+A.2.2    La Figura 1 representa la retícula donde se muestra la correcta construcción así como las
+proporciones del logotipo.
+
+                                                     Figura 1
+      Lunes 5 de abril de 2010                    DIARIO OFICIAL
+
+El valor de “x” corresponde al valor del radio del primer circuito central. Esto tal y como se muestra en la
+Figura 2 de este apéndice.
+
+A.2.3      Está prohibido el uso de cualquiera de los elementos del logotipo del distintivo nutrimental, de manera
+aislada o de forma separada.
+
+A.3        Áreas de restricción
+                                                      Figura 2
+
+
+
+
+El valor de “x” corresponde al valor del radio del círculo central.
+A.3.2.1 El área libre no se contabilizará en el valor de la medida mínima prevista para el logotipo del distintivo
+nutrimental.
+A.3.2    El tamaño mínimo del logotipo es de 0.75 cm, esto con la intención de que no pierda nitidez en sus
+aplicaciones impresas.
+                                                      Figura 3
+
+
+
+
+A.3.4   El logotipo puede manejarse en diversos tamaños, procurando que sea legible, dependiendo de la
+pieza impresa de que se trate.
+                                                  DIARIO OFICIAL                     Lunes 5 de abril de 2010
+
+A.4      Colores y Fondo
+A.4.1    En la aplicación del logotipo se utilizarán colores contrastantes con el fondo del área donde se
+ubique, de manera que su lectura sea clara.
+A.4.2   La Figura 4 muestra la forma del logotipo del distintivo nutrimental, cuando éste tenga una aplicación
+de fondo contrastante.
+
+                                                      Figura 4
+
+
+
+
+A.4.3    El uso de efectos especiales como volúmenes, sombras o sobre imágenes que dificulten la lectura o
+identificación del distintivo nutrimental no está permitido.
+
+A.5. Uso incorrecto del distintivo nutrimental
+
+
+
+                                                      Figura 5
+
+
+
+
+A.5.1    El logotipo correspondiente al distintivo nutrimental deberá colocarse en cualquier parte del envase,
+de forma tal que no interfiera con lo señalado en las disposiciones jurídicas en materia de etiquetado e
+información comercial que le resulten aplicables a los alimentos y bebidas no alcohólicas.
+         Modificación publicada en el DOF el 14 de agosto de 2014]
+
+
+                                          ARTICULOS TRANSITORIOS
+
+
+PRIMERO:          La presente Norma Oficial Mexicana, entrará en vigor 270 días naturales después de su
+publicación en el Diario Oficial de la Federación.
+SEGUNDO:        Para aquellos alimentos o bebidas no alcohólicas preenvasados cuyo etiquetado no pueda
+modificarse para ostentar la información requerida por la NOM-051-SCFI/SSA1-2010 al momento de su
+   Lunes 5 de abril de 2010                    DIARIO OFICIAL
+
+entrada en vigor, las empresas interesadas podrán solicitar ante la Dirección General de Normas de la
+Secretaría de Economía, un plazo único para realizar las modificaciones que correspondan.
+La solicitud podrá presentarse a partir de la fecha de publicación de la NOM-051-SCFI/SSA1-2010 en el Diario
+Oficial de la Federación y hasta tres meses antes de su entrada en vigor y deberá acompañarse de la
+información técnica y económica que la justifique.
+La Dirección General de Normas y la Comisión Federal para la Protección contra Riesgos Sanitarios
+resolverán en forma coordinada las solicitudes que se presenten.
+TERCERO:          La presente Norma Oficial Mexicana cancela a la Norma Oficial Mexicana NOM-051-SCFI-
+1994, Especificaciones generales de etiquetado para alimentos y bebidas no alcohólicas preenvasados,
+publicada en el Diario Oficial de la Federación el 24 de enero de 1996.
+CUARTO:          La presente Norma Oficial Mexicana cancela la totalidad de los criterios, reglas, instructivos,
+manuales, circulares, lineamientos, procedimientos u otras disposiciones de carácter obligatorio derivados de
+la Norma Oficial Mexicana, NOM-051-SCFI-1994, Especificaciones generales de etiquetado para alimentos y
+bebidas no alcohólicas preenvasados, publicada en el Diario Oficial de la Federación el 24 de enero de 1996.
+
+
+México, D.F., a 18 de febrero de 2010.- El Director General de Normas y Presidente del Comité Consultivo
+Nacional de Normalización de Seguridad al Usuario, Información Comercial y Prácticas de Comercio,
+Francisco Ramos Gómez.- Rúbrica.- El Comisionado Federal para la Protección contra Riesgos Sanitarios y
+Presidente del Comité Consultivo Nacional de Normalización de Regulación y Fomento Sanitario, Miguel
+Angel Toscano Velasco.- Rúbrica.
+
