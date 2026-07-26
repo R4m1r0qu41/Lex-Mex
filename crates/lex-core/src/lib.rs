@@ -54,7 +54,7 @@ pub enum TechnicalReviewStatus {
 #[serde(rename_all = "snake_case")]
 pub enum StandardTextBasis {
     AsPublished,
-    OfficialConsolidated,
+    OfficialCompilation,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

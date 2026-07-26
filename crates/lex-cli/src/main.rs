@@ -542,7 +542,7 @@ fn standard_status_name(value: &StandardStatus) -> &'static str {
 fn standard_text_basis_name(value: &StandardTextBasis) -> &'static str {
     match value {
         StandardTextBasis::AsPublished => "as_published",
-        StandardTextBasis::OfficialConsolidated => "official_consolidated",
+        StandardTextBasis::OfficialCompilation => "official_compilation",
     }
 }
 

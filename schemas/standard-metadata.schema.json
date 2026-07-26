@@ -89,7 +89,7 @@
     "objective": { "type": ["string", "null"] },
     "scope": { "type": ["string", "null"] },
     "conformity_assessment": { "type": ["string", "null"] },
-    "text_basis": { "enum": ["as_published", "official_consolidated"] },
+    "text_basis": { "enum": ["as_published", "official_compilation"] },
     "modifications": {
       "type": "array",
       "items": { "$ref": "#/$defs/modification" }

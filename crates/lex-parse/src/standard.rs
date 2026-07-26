@@ -200,16 +200,6 @@ fn validate_standard_sources(metadata: &StandardMetadata, issues: &mut Vec<Valid
                 None,
             ));
         }
-        StandardTextBasis::OfficialConsolidated
-            if included_modifications != metadata.modifications.len() =>
-        {
-            issues.push(error(
-                "standard_text_basis",
-                "an official consolidated source must include every recorded modification"
-                    .to_owned(),
-                None,
-            ));
-        }
         _ => {}
     }
     for source in &metadata.modifications {
