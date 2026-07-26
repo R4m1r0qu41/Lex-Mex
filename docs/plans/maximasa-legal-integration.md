@@ -207,6 +207,23 @@ analysis, not missing federal sanitary text.
 - [x] (2026-07-26) Returned the five-NOM, 20-file bundle lock and
   candidate-only evidence to Maximasa at `0761ee1`; its five tests pass
   without promoting applicability.
+- [x] (2026-07-26) Checked platiica's individual NOM-247 and NOM-051 registry
+  pages (the same records the catalog
+  `https://platiica.economia.gob.mx/normalizacion/catalogo-mexicano-de-normaswd_asp-id29/`
+  resolves to) and the underlying DOF modification decrees against both
+  official domains (`diariooficial.gob.mx`, `www.dof.gob.mx`). NOM-247's two
+  decrees are narrow numeral-level amendments with no official consolidated
+  republication; NOM-051's 2020-03-27 decree is a full restatement of the
+  norm. Re-sourced NOM-051 from that 2020 PDF at `7cd482e5e`, landing a
+  fixture-backed parser fix first at `2e31f1106` after the refresh exposed a
+  real defect (a restarted, numbered Bibliografía reference list
+  coincidentally realigning with the outer top-level clause count — all five
+  previously-committed NOM corpora reparse byte-identical after the fix).
+  NOM-051 now carries zero `standard_unconsolidated_modification` warnings.
+  NOM-247's two warnings are left as the correct, currently unclearable
+  state: incorporating them would require Lex-Mex to perform its own legal
+  consolidation, which the NOM-187 precedent already rejected as out of
+  scope.
 
 ## Decisions and discoveries
 
@@ -259,6 +276,32 @@ analysis, not missing federal sanitary text.
   source gap but does not itself promote either regulation's matched
   provisions into Maximasa obligations. Authorized legal review and
   fact-specific applicability analysis remain required.
+
+- Decision: incorporating an unconsolidated NOM modification requires an
+  official consolidated/full-restatement text; Lex-Mex does not merge a
+  targeted DOF amendment decree's replacement language into a standard's
+  clauses itself. Checked against
+  `https://platiica.economia.gob.mx/normalizacion/catalogo-mexicano-de-normaswd_asp-id29/`
+  (the operator-supplied authoritative NOM/NMX catalog) and both DOF domains.
+  NOM-051's 2020-03-27 decree is a full restatement (same pattern as the
+  NOM-187 consolidated PDF already accepted) and was re-sourced at
+  `7cd482e5e`. NOM-247's 2011 and 2012 decrees are narrow numeral-level
+  amendments with no consolidated republication anywhere in that catalog, so
+  its two `standard_unconsolidated_modification` warnings stay in place.
+  Rationale: self-consolidating a decree's text would mean Lex-Mex
+  performing the legal consolidation no publisher has performed, which
+  conflicts with the NOM-187 precedent of only treating officially
+  consolidated text as current.
+
+- Discovery: the numbered-clause standard parser could misread a standard's
+  own Bibliografía reference list as continuing top-level clauses when that
+  list restarts its numbering at 1 and later happens to reach the value that
+  would follow the Bibliografía heading in the outer section count. Exposed
+  by NOM-051's 2020 source (a 157-entry numbered bibliography); fixed at
+  `2e31f1106` with a fixture distinguishing it from the legitimate case
+  (nested `N.1`, `N.2` bibliography sub-clauses, already present in NOM-247).
+  All five previously-committed NOM corpora reparse byte-identical, so the
+  fix needed no companion corpus changes.
 
 ## Milestones and gates
 
@@ -318,6 +361,15 @@ Produce a reviewed trusted-boundary proposal covering at least:
 This milestone changes schemas, Rust types, parsers, validators, fixtures,
 exporters, and documentation together or not at all.
 
+Operator-flagged future scope, not yet committed: (1) a small, reusable NOM
+consolidation workflow — review the platiica catalog record, check official
+DOF sources, and compile locally through the Rust pipeline once established
+— generalizable to other non-compiled norms beyond NOM-247, meant to stay
+lightweight rather than a large automation effort; (2) the platiica catalog
+record for a NOM also names the parent law(s)/regulation(s) it derives from,
+useful for backlinking and establishing competent authorities for audits and
+compliance — not yet modeled in `StandardMetadata`.
+
 ### M5 — Maximasa return handoff
 
 Return:
@@ -348,9 +400,12 @@ defect, and ingested instrument. Stop on:
 ## Next action
 
 Resume the independent federal cluster-2 sequence at AD2 by normalizing its
-prepared inventory and provisionally ingesting `lspm`. For the Maximasa
-standards slice, incorporate the two missing NOM-247 modifications and the
-2020 NOM-051 modification before any current-obligation extraction.
+prepared inventory and provisionally ingesting `lspm`. The Maximasa standards
+modification slice is closed for now: NOM-051 is re-sourced and
+zero-warning; NOM-247 has no viable official consolidated text and is left
+as correctly unconsolidated. Any further work on NOM-247, the flagged NOM
+consolidation workflow, or parent-law/regulation backlinking waits on
+operator direction rather than proceeding unprompted.
 
 ## Outcomes and retrospective
 
@@ -358,8 +413,16 @@ The full Maximasa return and five-standard sequence is complete through
 Lex-Mex `a8d54e340` and Maximasa `0761ee1`. The real consumer work closed the
 RCSPS source gap, exposed and fixed parser/search defects, proved both
 selected-corpus portability contracts, and published five standards without
-inferring legal applicability. NOM-187 and the other zero-warning standards
-are canonical candidate sources; NOM-247 and NOM-051 retain explicit
-unconsolidated-modification guards. Remaining work is human/fact gated, the
-targeted source-completion work for those two standards, or the independent
-cluster-2 ingestion plan.
+inferring legal applicability.
+
+The follow-up modification-incorporation slice re-sourced NOM-051 from its
+2020 official consolidated text (`7cd482e5e`) after a fixture-backed parser
+fix (`2e31f1106`) that the refresh's real content exposed; the corpus now
+carries 193 non-blocking warnings (down from 194), and NOM-051 has zero
+`standard_unconsolidated_modification` warnings. NOM-247 keeps both of its
+warnings by design: no official consolidated text exists for its two DOF
+decrees, and Lex-Mex does not perform its own legal consolidation. NOM-187
+and NOM-251 remain zero-warning canonical candidate sources; NOM-002-STPS is
+unaffected. Remaining work is human/fact gated, the operator-flagged NOM
+consolidation workflow and parent-law backlinking (not yet scoped), or the
+independent cluster-2 ingestion plan.

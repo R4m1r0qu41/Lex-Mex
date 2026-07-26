@@ -32,9 +32,9 @@ Current committed-corpus totals:
 | Unresolved reference edges | 0 |
 | Generated Markdown files | 34,651 |
 
-All 156 `validation.json` reports are valid. They contain 194 non-blocking
+All 156 `validation.json` reports are valid. They contain 193 non-blocking
 warnings: 166 non-numeric/suffixed-article notices, 16 unfrozen count
-baselines, 7 article-gap notices, 2 suffix-order notices, and 3 warnings for
+baselines, 7 article-gap notices, 2 suffix-order notices, and 2 warnings for
 official standard modifications not incorporated in the retained source
 text. Validity does not imply that temporal analysis or legal review has been
 performed.
@@ -64,10 +64,14 @@ complete.
 The separate Maximasa standards sequence added NOM-251-SSA1-2009,
 NOM-247-SSA1-2008, NOM-051-SCFI-SSA1-2010, NOM-002-STPS-2010, and
 NOM-187-SSA1-SCFI-2002. NOM-247 carries two
-`standard_unconsolidated_modification` warnings and NOM-051 carries one;
-their retained clause text must not be used as current obligations until
-those modifications are incorporated. NOM-187's 2023 record is a systematic
-review with result `Modificación`, not a succession event.
+`standard_unconsolidated_modification` warnings; its retained clause text
+must not be used as current obligations until those modifications are
+incorporated, and no official consolidated text exists to clear them (both
+are narrow numeral-level DOF decrees, not full republications). NOM-051 was
+refreshed from the official 2020-03-27 DOF publication, which is a full
+restatement of the standard rather than a targeted amendment; it now carries
+zero unconsolidated-modification warnings. NOM-187's 2023 record is a
+systematic review with result `Modificación`, not a succession event.
 
 The active plan is
 [`cluster-2-federal-corpus-ingestion.md`](plans/cluster-2-federal-corpus-ingestion.md).
