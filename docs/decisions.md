@@ -1,5 +1,72 @@
 # Architecture decisions
 
+## 2026-07-26 — How to read a platiica/DOF NOM record, for every future ingestion
+
+Operator-supplied methodology (verified against NOM-051-SCFI/SSA1-2010's
+registry record and DOF/SIDOF primary sources), recorded here because it
+governs every future NOM/NMX ingestion, not just this one.
+
+**A platiica registry record's `Historial Documental` mixes several
+distinct document kinds under one list; each needs different treatment:**
+
+- The NOM itself (the base PDF, which may be stale — NOM-051's stayed at
+  its 2014 state until this session's 2020 re-source).
+- `Procedimientos para la evaluación de la conformidad`: a separate,
+  complementary instrument (a compliance checklist), not part of the NOM's
+  own text. Not a modification.
+- `PROYECTO de Modificación`: never normative. Always excluded. Reliably
+  identified by starting with the literal word `PROYECTO` and by carrying
+  no vigencia/in-force date on the DOF page (shows as blank/`XXX`).
+- `MODIFICACIÓN`: an actual normative change to the standard's text.
+- `ACUERDO`: see below — do not assume scope from the type name.
+
+**`ACUERDO` is not a fixed category of change; it is the generic official
+name for any binding decision a competent authority publishes in DOF
+within its jurisdiction.** It can be substantive and close to NOM-level
+content (e.g. an ACUERDO determining permitted food additives — normative
+because that authority chose ACUERDO as the default publication vehicle
+rather than a full NOM modification), or it can touch only a modification's
+transitorio dates (as NOM-051's two 2025 ACUERDOs do), or it can itself
+read "ACUERDO por el que se modifican, adicionan y derogan ...". The name
+never tells you the scope — read what it actually says every time.
+
+**How to read a `MODIFICACIÓN`'s (or an ACUERDO's) own diff against a base
+text:** these decrees state their own substitution instructions verbatim,
+in the decree's own text, not as an editorial summary. A run of untouched
+numerals or phase labels followed by `...` means that span is unchanged;
+whatever numeral or label follows next is given in full, and that full
+text is the verbatim replacement (or addition, or derogation) for that
+specific numeral. Example, confirmed directly against DOF's page for the
+2025-07-31 ACUERDO (`https://diariooficial.gob.mx/nota_detalle.php?codigo=5764197&fecha=31/07/2025`):
+"PRIMERA FASE. ... SEGUNDA FASE. Del 1 de octubre de 2023 al 31 de
+diciembre de 2027 ..." — `PRIMERA FASE` is untouched; only `SEGUNDA FASE`
+(and, further down, `TERCERA FASE`) received new text. Applying this is
+mechanical substitution against the decree's own explicit instructions,
+not Lex-Mex performing its own legal consolidation — the distinction that
+kept NOM-247 out of scope for a self-consolidation still holds (no
+official consolidated *republication* exists for its decrees), but the
+per-numeral substitution mechanism itself is a legitimate, deterministic
+operation Lex-Mex can perform once a decree gives it explicitly.
+
+**`Bibliografía` splits into two kinds of entries, only one of which is a
+traceability chain:** cited Leyes, Reglamentos, and Acuerdos form a real
+parent-authority hierarchy (a NOM is issued under a Reglamento under a Ley,
+occasionally under a further Acuerdo) worth backlinking once the target is
+in the Lex-Mex corpus. ISO guides and academic citations are not normative
+and should be excluded from that hierarchy.
+
+**Finding that reopens NOM-247:** the earlier conclusion (2026-07-26,
+`maximasa-legal-integration.md`) that incorporating NOM-247's two 2011/2012
+modifications would require Lex-Mex to perform its own legal consolidation
+no longer holds as stated. Both decrees use the same
+unchanged-span-then-explicit-replacement convention described above. If
+that pattern is mechanically parseable the same way for NOM-247's finer,
+numeral-level scope, incorporating them is applying the decrees' own
+stated instructions, not synthesizing text Lex-Mex invented. Not yet
+implemented; see the standards-module note this same date for the
+concrete blocker found while attempting a NOM-051 pass under this
+methodology (transitorios have no structured representation at all in the
+current standards schema).
 ## 2026-07-16 — Batch completion closes its bounded graph
 
 `batch run` now has a deterministic closure phase after every successfully

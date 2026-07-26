@@ -64,6 +64,53 @@ Committed standards are returned by `lex-mex instruments`, accepted by
 profile. Use `--kind standard` or `--kind clauses` when requesting a specific
 standards path.
 
+## Reading an official-source record before ingesting
+
+A platiica registry record's `Historial Documental` lists several distinct
+document kinds together; classify each before treating anything as a
+modification (full rationale and worked example in `docs/decisions.md`,
+2026-07-26):
+
+- The NOM's own PDF — may be stale relative to later official texts.
+- `Procedimientos para la evaluación de la conformidad` — a separate
+  complementary instrument, not part of the NOM's text.
+- `PROYECTO de Modificación` — never normative; always excluded. Identify
+  it by the literal word `PROYECTO` and the absence of a vigencia date on
+  the DOF page.
+- `MODIFICACIÓN` — an actual normative text change.
+- `ACUERDO` — the generic name for any binding DOF-published decision, not
+  a fixed scope. It can be substantive (NOM-level) content, a transitorio
+  date change, or both under an "modifican, adicionan y derogan" heading.
+  Read its actual text every time; never infer scope from the type name.
+
+A `MODIFICACIÓN` or `ACUERDO` states its own diff verbatim: an untouched
+run of numerals or labels followed by `...` means that span is unchanged,
+and whatever numeral/label follows in full is the verbatim replacement,
+addition, or derogation text for that item. This is a deterministic
+substitution stated by the decree itself, not Lex-Mex performing its own
+legal consolidation — but it only applies when a target already exists to
+apply it to (a base text, or, for a transitorio-only ACUERDO, a
+transitorio provision already represented in the corpus).
+
+`Bibliografía` splits into a real Ley/Reglamento/Acuerdo parent-authority
+chain (worth backlinking once the target is committed) and non-normative
+entries (ISO guides, academic citations) that are not.
+
+## Known gap: transitorios have no structured representation
+
+`StandardClause` parsing stops at the `TRANSITORIOS` marker (or an
+`APÉNDICE`/`ANEXO` heading first); transitorio text is retained in
+`extracted-text.txt` but is not a clause, has no ID, and is not queryable.
+`StandardModificationSource` has no notion of one ACUERDO superseding
+another, or of a phase/transitorio's effective date changing independent
+of clause text. Found while attempting a NOM-051 pass under the reading
+procedure above: two 2025 ACUERDOs push its 2020 modification's final
+implementation phase from 2025-10-01 to 2028-01-01, and neither is
+represented anywhere in the committed corpus or its
+`standard_unconsolidated_modification` warning — the zero-warning state
+is correct for clause *text* but says nothing about transitorio currency.
+Not yet resolved; a schema/parser design is needed before it can be.
+
 ## Deliberate limits
 
 - No Maximasa NOM/NMX register entry is promoted merely because its
