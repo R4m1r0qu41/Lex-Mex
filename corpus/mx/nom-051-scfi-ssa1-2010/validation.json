@@ -2,13 +2,6 @@
   "schema_version": "0.1.0",
   "standard_id": "urn:lex-mx:federal:nom:nom-051-scfi-ssa1-2010",
   "valid": true,
-  "clause_count": 171,
-  "issues": [
-    {
-      "severity": "warning",
-      "code": "standard_unconsolidated_modification",
-      "message": "source text does not incorporate modification published 2020-03-27",
-      "provision_id": null
-    }
-  ]
+  "clause_count": 166,
+  "issues": []
 }
