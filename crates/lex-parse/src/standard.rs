@@ -24,13 +24,20 @@ pub fn parse_standard_clauses(
             let label = captures.get(3)?.as_str().trim_start();
             let plausible_top_level =
                 captures.get(2).is_some() || label.chars().next().is_some_and(char::is_uppercase);
-            Some((whole.start(), number.to_owned(), order, plausible_top_level))
+            let terminal_heading = order.len() == 1 && is_bibliography_heading(label);
+            Some((
+                whole.start(),
+                number.to_owned(),
+                order,
+                plausible_top_level,
+                terminal_heading,
+            ))
         })
         .collect::<Vec<_>>();
     let Some((selected, body_end)) = matches
         .iter()
         .enumerate()
-        .filter(|(_, (_, _, order, plausible))| {
+        .filter(|(_, (_, _, order, plausible, _))| {
             *plausible && order.len() == 1 && matches!(order[0], 0 | 1)
         })
         .map(|(start, _)| numbered_body_run(&matches, start))
@@ -40,19 +47,19 @@ pub fn parse_standard_clauses(
     };
     let numbering_end = matches
         .get(body_end)
-        .map_or(source_text.len(), |(start, _, _, _)| *start);
+        .map_or(source_text.len(), |(start, _, _, _, _)| *start);
     let matches = selected
         .into_iter()
         .map(|index| matches[index].clone())
         .collect::<Vec<_>>();
     let structural_end = matches
         .last()
-        .map_or(source_text.len(), |(start, _, _, _)| {
+        .map_or(source_text.len(), |(start, _, _, _, _)| {
             standard_clause_end(source_text, *start, numbering_end)
         });
 
     let mut clauses = Vec::with_capacity(matches.len());
-    for (index, (start, number, _, _)) in matches.iter().enumerate() {
+    for (index, (start, number, _, _, _)) in matches.iter().enumerate() {
         let natural_end = matches.get(index + 1).map_or(structural_end, |next| next.0);
         let end = standard_clause_end(source_text, *start, natural_end);
         let (trimmed_start, trimmed_end) = trim_span(source_text, *start, end);
@@ -73,7 +80,7 @@ pub fn parse_standard_clauses(
 
 fn standard_clause_end(source_text: &str, clause_start: usize, natural_end: usize) -> usize {
     let markers = Regex::new(
-        r"(?mi)^[ \t]*(?:SUFRAGIO[ \t]+EFECTIVO\b|M[ÉE]XICO,[ \t]+D\.?[ \t]*F\.?,[ \t]+A\b|TRANSITORIOS?\b|AP[ÉE]NDICE\b|ANEXO\b)",
+        r"(?mi)^[ \t]*(?:SUFRAGIO[ \t]+EFECTIVO\b|M[ÉE]XICO,[ \t]+D\.?[ \t]*F\.?,[ \t]+A\b|(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b|AP[ÉE]NDICE\b|ANEXO\b)",
     )
     .expect("standard end-marker regex must compile");
     markers
@@ -82,15 +89,18 @@ fn standard_clause_end(source_text: &str, clause_start: usize, natural_end: usiz
 }
 
 fn numbered_body_run(
-    matches: &[(usize, String, Vec<u32>, bool)],
+    matches: &[(usize, String, Vec<u32>, bool, bool)],
     start: usize,
 ) -> (Vec<usize>, usize) {
     let mut selected = vec![start];
     let mut previous = &matches[start].2;
     let mut current_top = previous[0];
-    for (index, (_, _, order, plausible_top_level)) in matches.iter().enumerate().skip(start + 1) {
+    let mut top_level_closed = false;
+    for (index, (_, _, order, plausible_top_level, terminal_heading)) in
+        matches.iter().enumerate().skip(start + 1)
+    {
         if order.len() == 1 {
-            if !plausible_top_level {
+            if top_level_closed || !plausible_top_level {
                 continue;
             }
             if order[0] <= current_top {
@@ -105,8 +115,34 @@ fn numbered_body_run(
         }
         selected.push(index);
         previous = order;
+        // A bibliography/references heading's own entries are legitimate
+        // nested clauses when they continue its number (e.g. `11.1`,
+        // `11.2`, ...), but some sources instead give the reference list
+        // its own independent numbering that restarts at 1. That
+        // restarted count can later coincidentally reach the value that
+        // would follow this heading in the outer top-level sequence, so
+        // only close the top-level run when the very next candidate is
+        // such a restart; nested `current_top.N` sub-clauses and any
+        // genuine following section keep parsing normally.
+        if *terminal_heading
+            && matches
+                .get(index + 1)
+                .is_some_and(|(.., next_order, _, _)| next_order.as_slice() == [1])
+        {
+            top_level_closed = true;
+        }
     }
     (selected, matches.len())
+}
+
+/// Whether a top-level heading label names the standard's bibliography or
+/// references section (`Bibliografía`, any accent/case variant). Its
+/// internal reference list is a numbered enumeration of sources, not
+/// sub-clauses, even when formatted as a numbered list.
+fn is_bibliography_heading(label: &str) -> bool {
+    let bibliografia = Regex::new(r"(?i)^bibliograf[ií]a\b")
+        .expect("bibliography-heading regex must compile");
+    bibliografia.is_match(label.trim_start())
 }
 
 /// Validate the standards-specific identity, lifecycle, review separation,
@@ -382,6 +418,32 @@ mod tests {
     const SAMPLE: &str = include_str!("../../../fixtures/standards/numbered-standard-sample.txt");
     const INDEX_AND_APPENDIX_SAMPLE: &str =
         include_str!("../../../fixtures/standards/index-and-appendix-sample.txt");
+    const BIBLIOGRAPHY_CONTINUATION_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/bibliography-continuation-sample.txt");
+
+    #[test]
+    fn stops_numbered_body_at_bibliography_and_articulos_transitorios() {
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(BIBLIOGRAPHY_CONTINUATION_SAMPLE, &metadata).unwrap();
+        // The bibliography's own restarted list (1., 2., ...) must not be
+        // read as clauses continuing the outer top-level count, even
+        // though its second entry coincidentally reaches the count that
+        // would follow clause "3" (Bibliografía) if the run continued.
+        assert_eq!(
+            clauses
+                .iter()
+                .map(|clause| clause.number.as_str())
+                .collect::<Vec<_>>(),
+            vec!["0", "1", "1.1", "1.2", "2", "2.1", "2.2", "3"]
+        );
+        let bibliography = clauses.last().unwrap();
+        assert_eq!(bibliography.number, "3");
+        assert!(bibliography.text.contains("Segunda referencia bibliográfica"));
+        assert!(!bibliography.text.contains("TRANSITORIOS"));
+        assert!(!bibliography.text.contains("ÚNICO"));
+        let report = validate_standard(&metadata, &clauses, BIBLIOGRAPHY_CONTINUATION_SAMPLE);
+        assert!(report.valid, "{:#?}", report.issues);
+    }
 
     #[test]
     fn parses_numbered_standard_with_exact_spans() {

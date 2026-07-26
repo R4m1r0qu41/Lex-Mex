@@ -1,0 +1,23 @@
+0. Introducción
+Texto introductorio.
+
+1. Objetivo y campo de aplicación
+Establece un ejemplo reproducible.
+
+1.1 Primer alcance del objetivo.
+1.2 Segundo alcance del objetivo.
+
+2. Referencias normativas
+No contiene referencias externas.
+
+2.1 Primera referencia normativa citada.
+2.2 Segunda referencia normativa citada.
+
+3. Bibliografía
+1.     Primera referencia bibliográfica citada.
+2.     Segunda referencia bibliográfica citada, que coincidiría con el
+       conteo externo si el analizador no se detuviera en esta cláusula.
+
+                                        ARTÍCULOS TRANSITORIOS
+ÚNICO. Entrará en vigor al día siguiente de su publicación en el Diario Oficial
+de la Federación.
