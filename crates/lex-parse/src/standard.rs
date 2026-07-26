@@ -73,7 +73,7 @@ pub fn parse_standard_clauses(
 
 fn standard_clause_end(source_text: &str, clause_start: usize, natural_end: usize) -> usize {
     let markers = Regex::new(
-        r"(?mi)^[ \t]*(?:SUFRAGIO[ \t]+EFECTIVO\b|TRANSITORIOS?\b|AP[ÉE]NDICE\b|ANEXO\b)",
+        r"(?mi)^[ \t]*(?:SUFRAGIO[ \t]+EFECTIVO\b|M[ÉE]XICO,[ \t]+D\.?[ \t]*F\.?,[ \t]+A\b|TRANSITORIOS?\b|AP[ÉE]NDICE\b|ANEXO\b)",
     )
     .expect("standard end-marker regex must compile");
     markers
@@ -411,6 +411,7 @@ mod tests {
             vec!["1", "1.1", "1.2", "2", "2.1", "3", "3.1", "4"]
         );
         assert!(!clauses[6].text.contains("Sufragio"));
+        assert!(!clauses[7].text.contains("México, D.F."));
         assert!(!clauses[7].text.contains("APENDICE"));
         let report = validate_standard(&metadata, &clauses, INDEX_AND_APPENDIX_SAMPLE);
         assert!(report.valid, "{:#?}", report.issues);
