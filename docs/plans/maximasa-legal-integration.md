@@ -22,9 +22,9 @@ The observable outcome is:
 
 - the stale Maximasa handoff uses the actual `lex-mex instruments`, `path`,
   and `search` interface;
-- the 18 currently identified federal instruments are validated and searched
-  by bounded domain queries, with results returned as candidates rather than
-  legal conclusions;
+- the selected federal instruments are validated and searched by bounded
+  domain queries, with results returned as candidates rather than legal
+  conclusions;
 - Ley General de Protección Civil and its regulation enter through prepared
   batch AD4, unless the operator explicitly approves a documented batch-order
   amendment;
@@ -167,7 +167,9 @@ analysis, not missing federal sanitary text.
   inspected, froze, linked, validated, and exported `reg-csps` through the
   one-instrument `maximasa_federal_gap_1` batch. The general AD1 order is
   unchanged and `lgbn` remains its next item.
-- [ ] Complete the refreshed Q-001 package, then execute Q-002 through Q-010.
+- [x] (2026-07-25) Refreshed Q-001 with `reg-csps`, executed Q-002 through
+  Q-009 against bounded instrument lists, and recorded Q-010 as source-blocked
+  rather than searching an empty or out-of-scope corpus.
 - [x] (2026-07-25) Implemented the selected-instrument bundle manifest and
   CLI with canonical/canonical-plus-Markdown profiles, committed-state and
   validation gates, per-file/source/validation hashes, and excluded-target
@@ -178,6 +180,9 @@ analysis, not missing federal sanitary text.
 - [x] (2026-07-25) Added the standards-specific metadata, numbered-clause,
   source-span validation, JSON Schema, fixture, and `standards compile`
   boundary without promoting unverified Maximasa register rows.
+- [x] (2026-07-25) Returned the 20-instrument, 161-file bundle lock, exact
+  query/extract/gap artifacts, and consumer validation to Maximasa at
+  `01c4dc2`; the reproducible 11 MB payload remains outside that repository.
 
 ## Decisions and discoveries
 
@@ -219,9 +224,10 @@ analysis, not missing federal sanitary text.
   `REGLAMENTO de/en ...` headings now reset act identity and publication
   date, and signature furniture is excluded.
 
-- Decision: do not promote the 1988 regulation's matched provisions into
-  Maximasa obligations until the 1999 replacement regulation is ingested or
-  an authorized legal reviewer resolves their temporal applicability.
+- Decision: ingestion of the 1999 replacement regulation closes the structural
+  source gap but does not itself promote either regulation's matched
+  provisions into Maximasa obligations. Authorized legal review and
+  fact-specific applicability analysis remain required.
 
 ## Milestones and gates
 
@@ -251,8 +257,8 @@ Implement the bundle contract from
 - explicit external reference targets omitted from the bundle;
 - deterministic ordering and reproducible manifest output.
 
-Verify bundle creation for the 18 Maximasa slugs without modifying canonical
-data.
+Verify bundle creation for the selected Maximasa slugs without modifying
+canonical data.
 
 ### M3 — Missing federal instruments
 
@@ -310,10 +316,17 @@ defect, and ingested instrument. Stop on:
 
 ## Next action
 
-Implement and validate the deterministic selected-instrument bundle for the
-Maximasa profile, then finish the refreshed Q-001 package and execute Q-002
-through Q-010 against the exact bundled corpus checkpoint.
+JRH reviews the returned Maximasa candidate package while the operator supplies
+the missing permits, workforce, wastewater, waste, and emissions facts. Select
+one officially current NOM for the first provisional standards real-path
+exercise. Independently, the general federal ingestion sequence remains at
+AD1 `lgbn`; this client-specific sequence did not advance or reorder it.
 
 ## Outcomes and retrospective
 
-Not yet complete.
+The full Maximasa return sequence is complete through Lex-Mex `83fa5d981` and
+Maximasa `01c4dc2`. The real consumer work closed the RCSPS source gap, exposed
+and fixed parser/search defects, proved the selected-corpus portability
+contract, and established a standards-specific compiler without claiming that
+any NOM/NMX is already ingested or current. Remaining work is explicitly
+human/fact gated or belongs to the independent cluster-2 ingestion plan.
