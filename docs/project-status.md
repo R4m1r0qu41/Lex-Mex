@@ -27,7 +27,7 @@ Current committed-corpus totals:
 | Articles | 33,231 |
 | Original transitory provisions | 1,240 |
 | Annexes | 29 |
-| Standard clauses | 1,167 |
+| Standard clauses | 1,162 |
 | Reference edges | 17,173 |
 | Unresolved reference edges | 0 |
 | Generated Markdown files | 34,651 |

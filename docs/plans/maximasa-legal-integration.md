@@ -224,6 +224,28 @@ analysis, not missing federal sanitary text.
   state: incorporating them would require Lex-Mex to perform its own legal
   consolidation, which the NOM-187 precedent already rejected as out of
   scope.
+- (2026-07-26) Flagged, not chased further: the refreshed NOM-051's two
+  `included_in_source: true` flags for the 2010-10-26 and 2014-08-14
+  modifications are carried forward from the prior metadata, not
+  independently re-derived against the new 2020 text. Both dates are
+  confirmed genuine targeted NOM-051 amendment decrees (fetched and read
+  directly), distinct from platiica's separately listed 2011-03-23 and
+  2012-01-17 "Procedimientos para la evaluación de la conformidad"
+  companion documents, which are correctly excluded from `modifications` as
+  administrative procedure instruments rather than textual amendments — as
+  are the 2019 draft (`PROYECTO de Modificación`, never finalized) and the
+  2025-05-09/2025-07-31 `ACUERDO` entries extending the 2020 modification's
+  phased-implementation deadlines (administrative timeline extensions, not
+  text changes; the retained transitorios still name the original,
+  now-superseded phase dates). A spot check for the exact numeral IDs the
+  2010 decree added (e.g. `4.2.8.3.9`, `4.3.1.3`) did not find them under
+  the same numbers in the 2020 text, but this is inconclusive rather than
+  contrary evidence: the 2020 restatement substantially renumbered the
+  standard around the new front-of-pack warning-seal system, and a
+  "para quedar como sigue" full restatement is written to be the complete
+  current text as of its date, not a selective one. Treat these two flags
+  as an assumption pending confirmation, not an independently verified
+  fact.
 
 ## Decisions and discoveries
 
@@ -301,7 +323,16 @@ analysis, not missing federal sanitary text.
   `2e31f1106` with a fixture distinguishing it from the legitimate case
   (nested `N.1`, `N.2` bibliography sub-clauses, already present in NOM-247).
   All five previously-committed NOM corpora reparse byte-identical, so the
-  fix needed no companion corpus changes.
+  fix needed no companion corpus changes. The load-bearing part: the buggy
+  parse validated clean (312 clauses, `valid`, 0 issues, consecutive
+  top-level numbering, correct nesting) — nothing in `validate_standard`
+  can detect a wrong-but-internally-consistent clause tree. It was only
+  overturned because `numbered_body_run`'s `max_by_key(selected.len())`
+  happened to prefer the correct run by a 166-vs-157 node margin, a
+  data-dependent margin, not a structural guarantee. The reusable check for
+  the next standard with a numbered bibliography: compare the parsed
+  top-level run's last clause number against the índice's own highest
+  section number before trusting a clean validation report.
 
 ## Milestones and gates
 
@@ -406,6 +437,11 @@ zero-warning; NOM-247 has no viable official consolidated text and is left
 as correctly unconsolidated. Any further work on NOM-247, the flagged NOM
 consolidation workflow, or parent-law/regulation backlinking waits on
 operator direction rather than proceeding unprompted.
+
+The five-NOM bundle already returned to Maximasa at `0761ee1` now pins the
+superseded NOM-051 source/extracted-text/validation digests and clause
+count; that handoff is stale for NOM-051 until a re-return is authorized.
+Not regenerated here because it was outside this action's approved scope.
 
 ## Outcomes and retrospective
 
