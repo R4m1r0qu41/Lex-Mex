@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgbn",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley General de Bienes Nacionales",
+  "short_name": "LGBN",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2004-05-20",
+  "latest_reform_date": "2025-11-14",
+  "retrieved_at": "2026-07-26T05:48:58.857045Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGBN.pdf",
+  "source_sha256": "ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5",
+  "extracted_text_sha256": "b21fe706673c1a3136ff80a19187c9ada084f06e04e35b3bf9f4c30c9dd78018",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

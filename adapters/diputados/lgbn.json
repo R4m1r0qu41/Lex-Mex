@@ -1,0 +1,25 @@
+{
+  "slug": "lgbn",
+  "instrument_id": "urn:lex-mx:federal:statute:lgbn",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley General de Bienes Nacionales",
+  "short_name": "LGBN",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGBN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgbn.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2004-05-20",
+  "expected_articles": 158,
+  "expected_transitories": 16,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-26T05:49:00Z"
+  },
+  "allow_article_gaps": false,
+  "formal_publication_urls": {},
+  "main_document_stop_markers": [
+    "México, D.F., a 23 de marzo de 2004.-"
+  ]
+}

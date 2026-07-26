@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lgbn",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGBN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lgbn.htm",
+  "retrieved_at": "2026-07-26T05:48:58.857045Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 868289,
+  "etag": "\"d3fc1-645021e6d61c0\"",
+  "last_modified": "Wed, 03 Dec 2025 01:27:43 GMT",
+  "source_sha256": "ea96e97cbea2fd1919af78b94cd3466ee20a77e05989be2d482d2eb8061618c5",
+  "extracted_text_sha256": "b21fe706673c1a3136ff80a19187c9ada084f06e04e35b3bf9f4c30c9dd78018",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "0ae89ee1deb0b7b79b0f53da5f5f4a5b4b433f12"
+}
