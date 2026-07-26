@@ -32,6 +32,10 @@ pub struct DiputadosOptions {
     /// appendix, in addition to the built-in appendix markers. LRITF's
     /// consolidated PDF, for example, ends at "ARTÍCULOS SEGUNDO A DÉCIMO".
     pub stop_markers: Vec<String>,
+    /// Headings that begin a substantive appendix belonging to the
+    /// instrument. Everything after the first matching heading is preserved
+    /// as one canonical annex provision.
+    pub annex_markers: Vec<String>,
 }
 
 #[derive(Debug)]
@@ -369,6 +373,7 @@ fn is_page_furniture(line: &str, options: &DiputadosOptions, page_number: &Regex
         || line == "Secretaría General"
         || line == "Secretaría de Servicios Parlamentarios"
         || line.starts_with("Última Reforma DOF ")
+        || (line.contains("DIARIO OFICIAL") && line.contains("PAGE"))
         || page_number.is_match(line)
 }
 
@@ -450,6 +455,10 @@ fn is_immediate_structural(
     headings: &HeadingPatterns,
 ) -> bool {
     is_stop_marker(line, options)
+        || options
+            .annex_markers
+            .iter()
+            .any(|marker| line.starts_with(marker))
         || is_decree_heading(line)
         || is_reform_regulation_heading(line)
         || headings.matches(line)
@@ -624,6 +633,22 @@ impl ProvisionBuilder {
         builder
     }
 
+    fn annex(number: &str, label: &str) -> Self {
+        Self {
+            provision_type: ProvisionType::Annex,
+            number: number.to_owned(),
+            label: label.to_owned(),
+            heading: HeadingContext {
+                libro: None,
+                title: None,
+                chapter: None,
+                section: None,
+                apartado: None,
+            },
+            blocks: Vec::new(),
+        }
+    }
+
     fn push_block(&mut self, value: &str) {
         let value = value.trim();
         if !value.is_empty() {
@@ -640,6 +665,19 @@ impl ProvisionBuilder {
             ProvisionType::Annex => ("annex", slug(&self.number)),
         };
         let text = self.blocks.join("\n\n");
+        let text = if self.provision_type == ProvisionType::Transitory {
+            if let Some(index) = ["Dado en la Residencia", "Dado en la residencia"]
+                .iter()
+                .filter_map(|marker| text.find(marker))
+                .min()
+            {
+                text[..index].trim_end().to_owned()
+            } else {
+                text
+            }
+        } else {
+            text
+        };
         Provision {
             schema_version: SCHEMA_VERSION.to_owned(),
             id: format!("{instrument_id}:{kind}:{canonical_number}"),
@@ -662,6 +700,7 @@ impl ProvisionBuilder {
     }
 }
 
+#[allow(clippy::too_many_lines)]
 pub fn parse_diputados(
     raw: &str,
     options: &DiputadosOptions,
@@ -681,12 +720,45 @@ pub fn parse_diputados(
         apartado: None,
     };
     let mut in_statute_transitories = false;
+    let mut in_substantive_annex = false;
     let mut last_article_base: Option<u64> = None;
     let mut seen_ordinals: std::collections::HashSet<String> = std::collections::HashSet::new();
 
     for block in blocks {
         if is_stop_marker(&block, options) {
             break;
+        }
+        if in_substantive_annex {
+            if let Some(builder) = &mut current {
+                builder.push_block(&block);
+            }
+            continue;
+        }
+        if options
+            .annex_markers
+            .iter()
+            .any(|marker| block.starts_with(marker))
+        {
+            if let Some(builder) = current.take() {
+                provisions.push(builder.finish(&options.instrument_id, publication_date));
+            }
+            let label = block
+                .split_once('.')
+                .map_or(block.as_str(), |(heading, _)| heading)
+                .trim();
+            current = Some(ProvisionBuilder::annex("1", label));
+            in_substantive_annex = true;
+            continue;
+        }
+        if in_statute_transitories
+            && !options.annex_markers.is_empty()
+            && (block.starts_with("Dado en la Residencia")
+                || block.starts_with("Dado en la residencia"))
+        {
+            if let Some(builder) = current.take() {
+                provisions.push(builder.finish(&options.instrument_id, publication_date));
+            }
+            continue;
         }
         if is_transitory_section_header(&block) {
             // A statute has a single transitory section; a second header
@@ -1073,12 +1145,15 @@ mod tests {
         include_str!("../../../fixtures/diputados/dot-redacted-decree-article-sample.txt");
     const WRAPPED_RUNNING_HEADER_REGULATION_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/wrapped-running-header-regulation-sample.txt");
+    const SUBSTANTIVE_APPENDIX_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/substantive-appendix-sample.txt");
 
     fn options(instrument_id: &str, title: &str) -> DiputadosOptions {
         DiputadosOptions {
             instrument_id: instrument_id.to_owned(),
             header_lines: vec![title.to_uppercase()],
             stop_markers: Vec::new(),
+            annex_markers: Vec::new(),
         }
     }
 
@@ -1155,6 +1230,40 @@ mod tests {
             document.reform_evidence[0].provision_id,
             "urn:lex-mx:federal:code:sample:amendment:2020-07-01:transitory:vigesimo"
         );
+    }
+
+    #[test]
+    fn preserves_configured_substantive_appendix_as_one_annex() {
+        let mut options = options(
+            "urn:lex-mx:federal:regulation:sample",
+            "Reglamento de Control Sanitario de Productos y Servicios",
+        );
+        options.annex_markers = vec!["APÉNDICE DEL REGLAMENTO DE CONTROL SANITARIO".to_owned()];
+        let document = parse_diputados(
+            SUBSTANTIVE_APPENDIX_FIXTURE,
+            &options,
+            NaiveDate::from_ymd_opt(1999, 8, 9).expect("valid date"),
+        )
+        .expect("substantive appendix fixture parses");
+
+        assert_eq!(document.provisions.len(), 3);
+        assert_eq!(
+            document.provisions[0].id,
+            format!("{}:article:1", options.instrument_id)
+        );
+        assert_eq!(
+            document.provisions[1].provision_type,
+            ProvisionType::Transitory
+        );
+        assert!(!document.provisions[1].text.contains("Residencia"));
+        assert_eq!(document.provisions[2].provision_type, ProvisionType::Annex);
+        assert_eq!(document.provisions[2].number, "1");
+        assert!(
+            document.provisions[2]
+                .text
+                .contains("I.1. Los establecimientos")
+        );
+        assert!(document.provisions[2].text.contains("ARTÍCULO 99."));
     }
 
     #[test]
@@ -1308,6 +1417,7 @@ mod tests {
                 "ESTADOS UNIDOS MEXICANOS".to_owned(),
             ],
             stop_markers: Vec::new(),
+            annex_markers: Vec::new(),
         };
         let document = parse_diputados(
             PAGE_BOUNDARY_AMENDMENT_FIXTURE,
@@ -1334,6 +1444,7 @@ mod tests {
                 "ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS".to_owned(),
             ],
             stop_markers: Vec::new(),
+            annex_markers: Vec::new(),
         };
         let document = parse_diputados(
             WRAPPED_RUNNING_HEADER_REGULATION_FIXTURE,

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+  "operational_source": "dof",
+  "formal_publication_source": "dof",
+  "publisher": "Diario Oficial de la Federación",
+  "official_url": "https://dof.gob.mx/nota_detalle_popup.php?codigo=4952317",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/norma/reglamento.htm",
+  "retrieved_at": "2026-07-26T03:45:47.040941Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "content_length": 475804,
+  "etag": null,
+  "last_modified": null,
+  "source_sha256": "5aaa4361b74b5d1174161876218054e52a3d4d2012d4fd9d0fc483312dc089ed",
+  "extracted_text_sha256": "acc74a3e07fd091bece2be6dd6a82e61fe7b10aad4a65eee05b64c0dc6d4a5e8",
+  "extraction_tool": "lex-parse html extractor 0.1.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "b9a668cefbcf16f37bcd2e4a949ee96ba0ec8691"
+}

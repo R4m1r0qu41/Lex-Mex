@@ -76,6 +76,54 @@ pub fn extract_pdf(
     })
 }
 
+/// Extract text from a legacy binary Microsoft Word document without
+/// altering the acquired source bytes. macOS provides `textutil`; other
+/// environments may provide `antiword`. The chosen executable and its
+/// version are recorded in the source manifest.
+pub fn extract_doc(doc_path: &Path, text_path: &Path) -> Result<Extraction> {
+    if let Some(parent) = text_path.parent() {
+        fs::create_dir_all(parent)?;
+    }
+
+    let textutil = Command::new("textutil")
+        .args(["-convert", "txt", "-stdout"])
+        .arg(doc_path)
+        .stdin(Stdio::null())
+        .output();
+    if let Ok(output) = textutil
+        && output.status.success()
+        && !output.stdout.iter().all(u8::is_ascii_whitespace)
+    {
+        let text = String::from_utf8(output.stdout)
+            .context("textutil produced non-UTF-8 output for Word source")?;
+        fs::write(text_path, &text)?;
+        return Ok(Extraction {
+            text,
+            tool_version: command_version("textutil", &["-help"])
+                .unwrap_or_else(|| "textutil (version unavailable)".to_owned()),
+        });
+    }
+
+    let antiword = Command::new("antiword")
+        .arg(doc_path)
+        .stdin(Stdio::null())
+        .output()
+        .context("failed to extract Word source; install textutil (macOS) or antiword")?;
+    if !antiword.status.success() {
+        bail!("antiword failed with status {}", antiword.status);
+    }
+    let text = String::from_utf8(antiword.stdout).context("antiword produced non-UTF-8 output")?;
+    if text.trim().is_empty() {
+        bail!("Word extraction produced empty output");
+    }
+    fs::write(text_path, &text)?;
+    Ok(Extraction {
+        text,
+        tool_version: command_version("antiword", &["-h"])
+            .unwrap_or_else(|| "antiword (version unavailable)".to_owned()),
+    })
+}
+
 struct ReferencePatterns {
     article: Regex,
     number: Regex,
@@ -1726,6 +1774,20 @@ fn pdftotext_version() -> String {
         .unwrap_or_else(|| "pdftotext (version unavailable)".to_owned())
 }
 
+fn command_version(command: &str, args: &[&str]) -> Option<String> {
+    let output = Command::new(command).args(args).output().ok()?;
+    let bytes = if output.stdout.is_empty() {
+        output.stderr
+    } else {
+        output.stdout
+    };
+    String::from_utf8(bytes)
+        .ok()?
+        .lines()
+        .find(|line| !line.trim().is_empty())
+        .map(|line| format!("{command}: {}", line.trim()))
+}
+
 fn error(code: &str, message: String, provision_id: Option<String>) -> ValidationIssue {
     ValidationIssue {
         severity: Severity::Error,
@@ -1816,6 +1878,7 @@ mod tests {
                 "LEY PARA REGULAR LAS INSTITUCIONES DE TECNOLOGÍA FINANCIERA".to_owned(),
             ],
             stop_markers: vec!["ARTÍCULOS SEGUNDO A DÉCIMO".to_owned()],
+            annex_markers: Vec::new(),
         }
     }
 
@@ -2116,6 +2179,7 @@ mod tests {
                 instrument_id: LOOKAHEAD_ID.to_owned(),
                 header_lines: Vec::new(),
                 stop_markers: Vec::new(),
+                annex_markers: Vec::new(),
             },
             date,
         )
@@ -2334,6 +2398,7 @@ mod tests {
             instrument_id: "urn:lex-mx:federal:code:sample".to_owned(),
             header_lines: vec!["CÓDIGO DE MUESTRA".to_owned()],
             stop_markers: Vec::new(),
+            annex_markers: Vec::new(),
         };
         let document = parse_diputados(GAPPED_CODIGO, &options, date).unwrap();
         crate::validate_corpus(

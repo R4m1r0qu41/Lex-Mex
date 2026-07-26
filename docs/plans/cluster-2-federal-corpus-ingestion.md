@@ -124,11 +124,31 @@ expected-edge review remain separate work.
 - [x] (2026-07-18) Operator review of the lfrpe checkpoint found Article 35 contaminated with dot-redacted enactment-decree articles (`ARTÍCULO SEGUNDO.- .........`). The shared parser now recognizes an ordinal-word decree article whose body is only redaction dots as non-content decree apparatus, with fixture `fixtures/diputados/dot-redacted-decree-article-sample.txt`; the frozen rerun changed only Article 35's canonical text and Markdown, preserving both hashes and all counts. Adapter hygiene from the same review: scaffold now defaults `allow_article_gaps` to `false`, freeze writes only `expected_articles`, the validator treats an exact-only article baseline as frozen, and lfrpe's adapter drops gap tolerance and the redundant minimum. Documentation deduplication: this plan's checkpoint section defers per-instrument facts to `validation.json`/`source-manifest.json` and this log; AGENTS.md session-lifecycle rules point to Agent Vault canon, and the provider rule distinguishes within-provider routing from operator-started cross-provider switches; the project-status warning census is restored to the reproducible 187 (162/16/7/2). Full workspace gates and both audited baseline validators passed.
 - [x] (2026-07-18) Wired Codex capsule discovery at `9629c187e`: trusted projects now load `.codex/hooks.json` for `SessionStart` startup/resume/clear/compact events, while AGENTS.md names the Claude and Codex hook surfaces without assigning provider-specific configuration to the other harness. Added a direct scaffold/freeze regression proving new adapters default to strict article ordering and freeze an exact-only baseline; refreshed the project-status date. The full gate passed with 95 workspace tests and both audited baseline validators.
 - [x] (2026-07-18) Ingested and committed `lfrsp` at `e96019b43`: 94 articles (`1o` through `93`, including `77 Bis`), 4 original transitories, 17 resolved references, no terms, 62 uniquely keyed reform-transitory evidence records, stable source hashes, and zero validation issues. The provisional strict-order failure required a reviewed `allow_article_gaps` opt-in for the official `1o`-style and suffixed labels. An exact 1982 signature-date stop marker excludes the legislative and promulgation signatures from original Transitory CUARTO and removes their spurious CPEUM Article 89 edge. All 98 provisions remain `not_analyzed`; only 50 express source-text repeal notes begin `repealed`. The frozen rerun, link, validation, Markdown export, full 95-test gate, and audited baseline validators passed.
+- [x] (2026-07-25) Executed the operator-approved Maximasa coverage
+  amendment without advancing or reordering general AD1. The new
+  `maximasa_federal_gap_1` batch ingested `reg-csps` from the official Cámara
+  binary Word source and original DOF HTML publication: 268 articles, five
+  original transitories, one substantive appendix, 185 references including
+  11 resolved LGS edges, stable source/formal hashes, and zero issues after
+  freezing and bounded closure. `lgbn` remains the next AD1 instrument.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
 ## Surprises and discoveries
 
+- Observation: Cámara's current federal-regulations index sometimes exposes
+  an official consolidation only as a legacy binary Word document.
+  Evidence: `reg-csps` source `n273.doc` is an OLE Word file with
+  `application/msword` content, while the original DOF publication is HTML.
+  The source layer now verifies the OLE signature, records the unchanged
+  source hash, and extracts text with a recorded `textutil`/`antiword` tool.
+- Observation: a substantive regulatory appendix cannot be treated as a
+  reform-decree appendix or appended to the final transitory.
+  Evidence: the RCSPS appendix contains binding numbered sanitary
+  specifications, including maize and nixtamalized-flour clauses. A focused
+  fixture now preserves it as one canonical annex, excludes enactment
+  signatures and Word page fields, and prevents appendix text that resembles
+  an article heading from restarting the operative sequence.
 - Observation: a strict scaffold can deliberately fail before freezing when
   the official instrument uses ordinal-style and suffixed article labels.
   Evidence: LFRSP's first nine articles use `1o` through `9o` and it includes
@@ -269,6 +289,13 @@ expected-edge review remain separate work.
 
 ## Decision log
 
+- Decision: admit `reg-csps` in a dedicated downstream-coverage batch while
+  preserving `lgbn` as the next general AD1 item.
+  Rationale: the operator explicitly authorized the full Maximasa sequence,
+  and Q-001 could not be responsibly completed while the regulation that
+  displaced material 1988 provisions was absent. The amendment is isolated,
+  source-backed, and does not claim that AD1 or a later prepared batch closed.
+  Date/author: 2026-07-25 / operator-approved Maximasa integration.
 - Decision: allow suffix-aware article ordering for LFRSP and end its main
   document at the exact 1982 legislative signature marker.
   Rationale: the official consolidation uses `1o`-style and `77 Bis` labels,

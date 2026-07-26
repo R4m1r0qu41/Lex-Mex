@@ -1,0 +1,46 @@
+{
+  "slug": "reg-csps",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento de Control Sanitario de Productos y Servicios",
+  "short_name": "RCSPS",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regla/n273.doc",
+  "source_format": "doc",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/norma/reglamento.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1999-08-09",
+  "latest_reform_date": "2022-09-08",
+  "expected_articles": 268,
+  "expected_transitories": 5,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-07-26T03:45:48Z"
+  },
+  "expected_annexes": 1,
+  "allow_article_gaps": true,
+  "external_instruments": [
+    {
+      "name_marker": "de la ley",
+      "instrument_id": "urn:lex-mx:federal:statute:lgs"
+    }
+  ],
+  "substantive_annex_markers": [
+    "APÉNDICE DEL REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS"
+  ],
+  "formal_source": {
+    "url": "https://dof.gob.mx/nota_detalle_popup.php?codigo=4952317",
+    "format": "html",
+    "publisher": "Diario Oficial de la Federación",
+    "publication_code": "DOF 09-08-1999"
+  },
+  "formal_publication_urls": {
+    "original": "https://dof.gob.mx/nota_detalle_popup.php?codigo=4952317"
+  },
+  "tls_intermediate_ca_pems": [
+    "../cnbv/globalsign-rsa-ov-ssl-ca-2018.pem",
+    "../cnbv/godaddy-secure-ca-g2.pem"
+  ]
+}

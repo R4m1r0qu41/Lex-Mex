@@ -11,11 +11,13 @@ use serde::{Deserialize, Serialize};
 use sha2::{Digest, Sha256};
 use url::Url;
 
-#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, Copy, Default, PartialEq, Eq, Serialize, Deserialize)]
 #[serde(rename_all = "snake_case")]
 pub enum SourceFormat {
+    #[default]
     Pdf,
     Html,
+    Doc,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -73,6 +75,11 @@ pub struct SourceConfig {
     pub short_name: String,
     pub operational_source: String,
     pub source_url: Url,
+    /// Byte format of the operational source. Existing adapters omit this
+    /// field and remain PDF-backed; legacy official Word documents opt in
+    /// explicitly with `doc`.
+    #[serde(default)]
+    pub source_format: SourceFormat,
     pub reference_url: Option<Url>,
     pub publisher: String,
     /// Original DOF publication date. Absent on a freshly scaffolded
@@ -81,6 +88,11 @@ pub struct SourceConfig {
     /// `batch run --freeze-counts` writes it back here.
     #[serde(default)]
     pub publication_date: Option<String>,
+    /// Latest consolidated reform date when the official operational source
+    /// index supplies it but the downloaded document does not print it.
+    /// This is an adapter fact, never inferred from retrieval time.
+    #[serde(default)]
+    pub latest_reform_date: Option<String>,
     /// Minimum article count. Absent while an instrument's count baseline
     /// has not been frozen yet (`batch run --freeze-counts` writes it).
     #[serde(default)]
@@ -142,6 +154,12 @@ pub struct SourceConfig {
     /// appendix, in addition to the parser's built-in appendix markers.
     #[serde(default)]
     pub main_document_stop_markers: Vec<String>,
+    /// Headings that begin a substantive appendix belonging to the
+    /// instrument itself. The generic Diputados parser preserves the
+    /// remainder as one canonical annex instead of attaching it to the last
+    /// transitory or mistaking its numbered clauses for articles.
+    #[serde(default)]
+    pub substantive_annex_markers: Vec<String>,
     /// The instrument's glossary provision, when it has one.
     #[serde(default)]
     pub glossary: Option<GlossaryConfig>,
@@ -284,7 +302,7 @@ pub fn discover(config: &SourceConfig) -> serde_json::Value {
         "operational_source": config.operational_source,
         "source_url": config.source_url,
         "reference_url": config.reference_url,
-        "format": "pdf",
+        "format": config.source_format,
     })
 }
 
@@ -292,7 +310,7 @@ pub fn fetch(config: &SourceConfig) -> Result<Acquisition> {
     fetch_resource(
         config,
         &config.source_url.clone(),
-        SourceFormat::Pdf,
+        config.source_format,
         &config.operational_source,
         &config.publisher,
     )
@@ -416,6 +434,14 @@ fn verify_format(bytes: &[u8], format: SourceFormat) -> Result<()> {
                 bail!("source is not an HTML document; refusing to parse unexpected content");
             }
         }
+        SourceFormat::Doc => {
+            // Legacy binary Microsoft Word files are OLE Compound Document
+            // files. Refuse OOXML, HTML error pages, or arbitrary downloads.
+            const OLE_MAGIC: &[u8; 8] = b"\xD0\xCF\x11\xE0\xA1\xB1\x1A\xE1";
+            if bytes.len() < OLE_MAGIC.len() || &bytes[..OLE_MAGIC.len()] != OLE_MAGIC {
+                bail!("source is not a binary Word document; refusing unexpected content");
+            }
+        }
     }
     Ok(())
 }
@@ -503,8 +529,8 @@ mod tests {
             }
             manifest_count += 1;
         }
-        assert_eq!(manifest_count, 29, "expected 29 committed batch manifests");
-        assert_eq!(slugs.len(), 156, "expected 156 unique instruments");
+        assert_eq!(manifest_count, 30, "expected 30 committed batch manifests");
+        assert_eq!(slugs.len(), 157, "expected 157 unique instruments");
     }
 
     #[test]
@@ -521,5 +547,7 @@ mod tests {
         assert!(verify_format(b"<html>", SourceFormat::Pdf).is_err());
         assert!(verify_format(b"\n\t <html>", SourceFormat::Html).is_ok());
         assert!(verify_format(b"%PDF-1.5", SourceFormat::Html).is_err());
+        assert!(verify_format(b"\xD0\xCF\x11\xE0\xA1\xB1\x1A\xE1rest", SourceFormat::Doc).is_ok());
+        assert!(verify_format(b"%PDF-1.5", SourceFormat::Doc).is_err());
     }
 }

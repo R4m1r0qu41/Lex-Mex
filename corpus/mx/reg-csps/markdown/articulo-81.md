@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:regulation:reg-csps:article:81
+instrument_id: urn:lex-mx:federal:regulation:reg-csps
+instrument: RCSPS
+name: "Reglamento de Control Sanitario de Productos y Servicios"
+provision_type: article
+number: "81"
+aliases: ["RCSPS — Artículo 81"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regla/n273.doc
+source_sha256: 70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef
+---
+
+> Título SÉPTIMO · Capítulo II
+
+# Artículo 81
+
+La Secretaría, en coordinación con las dependencias competentes, determinará lo salubre o insalubre de una zona de producción o extracción de productos de la pesca, así como del agua que se destine al abastecimiento de dichas zonas, de acuerdo con los resultados de los análisis físicos, químicos, microbiológicos y especiales de esas aguas.

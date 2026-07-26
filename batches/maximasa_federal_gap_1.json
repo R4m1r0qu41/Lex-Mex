@@ -1,0 +1,29 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "maximasa_federal_gap_1",
+  "description": "Downstream-blocking federal sanitary regulation admitted for the Maximasa legal-corpus integration.",
+  "notes": [
+    "Operator authorized the full Maximasa integration sequence on 2026-07-25, including closure of the 1999 replacement-regulation gap before subsequent applicability queries.",
+    "This documented batch-order amendment does not close or reorder AD1; lgbn remains the next instrument in the general cluster-2 sequence.",
+    "The Cámara de Diputados current-regulations index publishes this instrument as a legacy Word source and records reforms through 2022-09-08.",
+    "The original DOF publication is acquired separately as a formal HTML source."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "reg-csps",
+      "short_name": "RCSPS",
+      "title": "REGLAMENTO de Control Sanitario de Productos y Servicios",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/norma/reglamento.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regla/n273.doc",
+      "role": "regulation",
+      "parent_law": "lgs"
+    }
+  ],
+  "expected_edges": [
+    "reg-csps -> lgs"
+  ]
+}

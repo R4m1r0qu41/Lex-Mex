@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-csps",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regla/n273.doc",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/norma/reglamento.htm",
+  "retrieved_at": "2026-07-26T03:45:46.043824Z",
+  "http_status": 200,
+  "content_type": "application/msword",
+  "content_length": 465408,
+  "etag": "\"71a00-563b4944eab40\"",
+  "last_modified": "Fri, 26 Jan 2018 21:28:37 GMT",
+  "source_sha256": "70464807d63da08244e495f2ff0ac30b12b30119926b84cedc7930397fcb80ef",
+  "extracted_text_sha256": "48ccced9d78d2478cdf0b7cf419a8bc77e9db325d8378ec2980194fadec72a33",
+  "extraction_tool": "textutil: textutil: [command_option] [other_options] file...",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "b9a668cefbcf16f37bcd2e4a949ee96ba0ec8691"
+}

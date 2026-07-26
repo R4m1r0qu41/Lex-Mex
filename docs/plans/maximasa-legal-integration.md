@@ -127,13 +127,17 @@ Primary official source discovery confirms:
   source `https://www.diputados.gob.mx/LeyesBiblio/regla/n152.doc`;
 - the matching formal DOF publication is dated 2014-11-13.
 
-Q-001 is not ready for an applicability conclusion. It found direct current
-LGS candidates, including Articles 115, 194, and 201, but also established
-that the 1999 `Reglamento de Control Sanitario de Productos y Servicios`
-which displaced material parts of the 1988 regulation is absent from the
-corpus and prepared inventory. The 1988 provisions remain structural search
-leads with `unknown` temporal status until that coverage gap and legal review
-are resolved.
+Q-001 remains a candidate package rather than an applicability conclusion.
+The 1999 `Reglamento de Control Sanitario de Productos y Servicios` is now
+ingested as `reg-csps` through the operator-approved
+`maximasa_federal_gap_1` batch-order amendment. Its official Cámara Word
+source and original DOF HTML publication are independently hashed. The
+inspected frozen structure is 268 articles, five original transitories, one
+substantive appendix, 185 references, and zero validation issues. Direct
+current candidates now include LGS Articles 115, 194, and 201, RCSPS Article
+112, and exact maize/nixtamalized-flour clauses within Appendix IX. The
+remaining gate is human legal review and any fact-specific applicability
+analysis, not missing federal sanitary text.
 
 ## Progress
 
@@ -155,10 +159,15 @@ are resolved.
   added exact fixtures, reran its official-source pipeline, and inspected the
   canonical, temporal-evidence, validation, and representative Markdown
   diffs.
-- [ ] Rebaseline the Maximasa integration documents and add its root
-  `AGENTS.md` without overwriting the concurrent NOM/NMX research pass.
-- [ ] Record Q-001 as a preliminary candidate package plus a blocking
-  replacement-regulation coverage gap; then execute Q-002 through Q-010.
+- [x] (2026-07-25) Rebaselined the Maximasa integration documents, added its
+  root `AGENTS.md`, preserved the concurrent NOM/NMX research pass, and
+  committed the handoff at Maximasa `a9d1364`.
+- [x] (2026-07-25) Added binary Word-source acquisition/extraction and
+  substantive-appendix parsing with focused fixtures, then provisionally
+  inspected, froze, linked, validated, and exported `reg-csps` through the
+  one-instrument `maximasa_federal_gap_1` batch. The general AD1 order is
+  unchanged and `lgbn` remains its next item.
+- [ ] Complete the refreshed Q-001 package, then execute Q-002 through Q-010.
 - [ ] Specify and implement the selected-instrument bundle manifest.
 - [ ] Add the federal workplace-safety regulation to a reviewed prepared batch.
 - [ ] Complete AD1–AD3 and ingest AD4 through the provisional-inspect-freeze
@@ -297,10 +306,9 @@ defect, and ingested instrument. Stop on:
 
 ## Next action
 
-Commit the fixture-backed `reg-lgs-mcsaeps` correction and consumer-search
-default, then rebaseline the Maximasa integration authority and record Q-001
-as preliminary: current LGS candidates plus the missing 1999 replacement
-regulation as an explicit coverage/review gate.
+Implement and validate the deterministic selected-instrument bundle for the
+Maximasa profile, then finish the refreshed Q-001 package and execute Q-002
+through Q-010 against the exact bundled corpus checkpoint.
 
 ## Outcomes and retrospective
 

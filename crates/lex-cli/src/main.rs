@@ -23,13 +23,14 @@ use lex_export::{
 };
 use lex_parse::{
     CorpusExpectations, CorpusView, DiputadosOptions, GlossaryStyle, InstrumentContextPolicy,
-    ReferenceOptions, detect_glossary_terms, extract_html_text, extract_internal_references,
-    extract_pdf, extract_references, extract_term_usages, extract_terms, find_glossary_provision,
-    parse_dcg, parse_diputados, parse_itf_dcg, validate_corpus,
+    ReferenceOptions, detect_glossary_terms, extract_doc, extract_html_text,
+    extract_internal_references, extract_pdf, extract_references, extract_term_usages,
+    extract_terms, find_glossary_provision, parse_dcg, parse_diputados, parse_itf_dcg,
+    validate_corpus,
 };
 use lex_source::{
-    SourceConfig, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest, load_config,
-    sha256_hex, write_acquisition, write_manifest,
+    SourceConfig, SourceFormat, discover, fetch, fetch_annex, fetch_formal, load_batch_manifest,
+    load_config, sha256_hex, write_acquisition, write_manifest,
 };
 use regex::Regex;
 
@@ -590,7 +591,7 @@ struct InstrumentContext {
 
 fn instrument_context(root: &Path, slug: &str) -> Result<InstrumentContext> {
     let config = find_adapter(root, slug)?;
-    let paths = Paths::new(root, slug);
+    let paths = Paths::new(root, slug, config.source_format);
     Ok(InstrumentContext { config, paths })
 }
 
@@ -701,7 +702,7 @@ fn run_pipeline(
 
 fn run_fetch(context: &InstrumentContext) -> Result<()> {
     let acquisition = fetch(&context.config)?;
-    write_acquisition(&acquisition, &context.paths.pdf, &context.paths.manifest)?;
+    write_acquisition(&acquisition, &context.paths.source, &context.paths.manifest)?;
     println!(
         "fetched {} bytes; sha256 {}",
         acquisition.bytes.len(),
@@ -744,7 +745,25 @@ fn run_extract(context: &InstrumentContext) -> Result<()> {
     // paragraph merging across a page boundary; LRITF's parser never
     // reads them at all.
     let keep_page_breaks = matches!(context.config.parser.as_str(), "ifpe-dcg" | "itf-dcg");
-    let extraction = extract_pdf(&paths.pdf, &paths.text, keep_page_breaks)?;
+    let extraction = match context.config.source_format {
+        SourceFormat::Pdf => extract_pdf(&paths.source, &paths.text, keep_page_breaks)?,
+        SourceFormat::Doc => extract_doc(&paths.source, &paths.text)?,
+        SourceFormat::Html => {
+            let bytes = fs::read(&paths.source).with_context(|| {
+                format!("failed to read {}; run fetch first", paths.source.display())
+            })?;
+            let text = extract_html_text(&bytes);
+            if text.trim().is_empty() {
+                bail!("HTML source extraction produced empty output");
+            }
+            fs::write(&paths.text, &text)?;
+            lex_parse::Extraction {
+                text,
+                tool_version: concat!("lex-parse html extractor ", env!("CARGO_PKG_VERSION"))
+                    .to_owned(),
+            }
+        }
+    };
     let mut manifest: SourceManifest = read_json(&paths.manifest)?;
     manifest.extracted_text_sha256 = Some(sha256_hex(extraction.text.as_bytes()));
     manifest.extraction_tool = Some(extraction.tool_version);
@@ -1490,6 +1509,7 @@ fn diputados_options(config: &SourceConfig) -> DiputadosOptions {
         instrument_id: config.instrument_id.clone(),
         header_lines,
         stop_markers: config.main_document_stop_markers.clone(),
+        annex_markers: config.substantive_annex_markers.clone(),
     }
 }
 
@@ -1503,9 +1523,14 @@ fn parse_by_configured_parser(
     match config.parser.as_str() {
         "diputados" => {
             let document = parse_diputados(raw, &diputados_options(config), publication_date)?;
+            let formal_manifest = config
+                .formal_source
+                .as_ref()
+                .map(|_| read_json(&paths.formal_manifest))
+                .transpose()?;
             Ok(ParsedInstrument {
                 provisions: document.provisions,
-                formal_manifest: None,
+                formal_manifest,
                 amendment_references: Vec::new(),
                 reform_evidence: document.reform_evidence,
                 latest_reform_date: None,
@@ -1586,9 +1611,12 @@ fn run_parse(root: &Path, context: &InstrumentContext) -> Result<()> {
         operational_source: manifest.operational_source.clone(),
         formal_publication_source: manifest.formal_publication_source.clone(),
         publication_date,
-        latest_reform_date: parsed
-            .latest_reform_date
-            .or_else(|| latest_reform_date(&raw)),
+        latest_reform_date: match &config.latest_reform_date {
+            Some(date) => Some(NaiveDate::parse_from_str(date, "%Y-%m-%d")?),
+            None => parsed
+                .latest_reform_date
+                .or_else(|| latest_reform_date(&raw)),
+        },
         retrieved_at: manifest.retrieved_at,
         source_url: manifest.official_url,
         source_sha256: manifest.source_sha256,
@@ -2372,7 +2400,7 @@ fn read_committed_corpora(root: &Path) -> Result<Vec<(String, Corpus)>> {
             .and_then(|name| name.to_str())
             .context("corpus directory name is not valid UTF-8")?
             .to_owned();
-        let paths = Paths::new(root, &slug);
+        let paths = Paths::new(root, &slug, SourceFormat::Pdf);
         let corpus = read_corpus(&paths)?;
         corpora.push((slug, corpus));
     }
@@ -2484,7 +2512,7 @@ fn write_pretty_json<T: serde::Serialize>(value: &T, path: &Path) -> Result<()> 
 
 struct Paths {
     work: PathBuf,
-    pdf: PathBuf,
+    source: PathBuf,
     text: PathBuf,
     formal_source: PathBuf,
     formal_text: PathBuf,
@@ -2507,11 +2535,16 @@ struct Paths {
 }
 
 impl Paths {
-    fn new(root: &Path, slug: &str) -> Self {
+    fn new(root: &Path, slug: &str, source_format: SourceFormat) -> Self {
         let work = root.join(".work").join(slug);
         let corpus = root.join("corpus/mx").join(slug);
+        let source_extension = match source_format {
+            SourceFormat::Pdf => "pdf",
+            SourceFormat::Html => "html",
+            SourceFormat::Doc => "doc",
+        };
         Self {
-            pdf: work.join(format!("{slug}.pdf")),
+            source: work.join(format!("{slug}.{source_extension}")),
             text: work.join(format!("{slug}.txt")),
             formal_source: work.join(format!("{slug}-formal.html")),
             formal_text: work.join(format!("{slug}-formal.txt")),
@@ -2931,7 +2964,8 @@ mod tests {
 
         assert_eq!(closure.status, "ok");
         assert_eq!(closure.expected_edges[0].status, "satisfied");
-        let source = read_corpus(&Paths::new(root, "source")).unwrap();
+        let source =
+            read_corpus(&Paths::new(root, "source", lex_source::SourceFormat::Pdf)).unwrap();
         assert_eq!(source.references.len(), 1);
         assert_eq!(source.references[0].target_instrument_id, target_id);
         assert!(
