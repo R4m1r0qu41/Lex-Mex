@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+  "kind": "nom",
+  "designation": "NOM-002-STPS-2010",
+  "official_title": "Condiciones de seguridad-Prevención y protección contra incendios en los centros de trabajo",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "incendios",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2010-12-09",
+  "effective_date": "2011-06-09",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-002-STPS-2000"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2021-07-08",
+    "result": "Confirmación",
+    "report_url": null
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/002stps2010.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/normasOficiales/4228/stps/stps.htm",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-002-STPS-2010/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-26T07:00:31Z",
+  "source_sha256": "69f8cc91eb600d1d62daf422db92733b441ce836b47651a83bb9da0260d871c2",
+  "extracted_text_sha256": "74568ad5e77beedc49a4e3d682ef4ef8cb621716571e92bf38a064ceec3bdf80",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

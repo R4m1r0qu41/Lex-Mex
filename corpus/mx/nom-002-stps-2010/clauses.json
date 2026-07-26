@@ -1,0 +1,1342 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n   Establecer los requerimientos para la prevención y protección contra incendios en los centros de trabajo.",
+    "start_char": 5746,
+    "end_char": 5866
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n   La presente Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo.",
+    "start_char": 5870,
+    "end_char": 5991
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n  Para la correcta interpretación de esta Norma, deberán consultarse las siguientes normas oficiales\nmexicanas vigentes o las que las sustituyan:",
+    "start_char": 5995,
+    "end_char": 6155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "3.1",
+    "label": "3.1 NOM-017-STPS-2008, Equipo de protección personal - Selección, uso y manejo en los centros de",
+    "text": "3.1 NOM-017-STPS-2008, Equipo de protección personal - Selección, uso y manejo en los centros de\ntrabajo.",
+    "start_char": 6160,
+    "end_char": 6265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "3.2",
+    "label": "3.2 NOM-022-STPS-2008, Electricidad estática en los centros de trabajo - Condiciones de seguridad.",
+    "text": "3.2 NOM-022-STPS-2008, Electricidad estática en los centros de trabajo - Condiciones de seguridad.",
+    "start_char": 6269,
+    "end_char": 6367
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "3.3",
+    "label": "3.3 NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos",
+    "text": "3.3 NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos\nconducidos en tuberías.",
+    "start_char": 6371,
+    "end_char": 6499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "3.4",
+    "label": "3.4 NOM-029-STPS-2005, Mantenimiento de las instalaciones eléctricas en los centros de trabajo -",
+    "text": "3.4 NOM-029-STPS-2005, Mantenimiento de las instalaciones eléctricas en los centros de trabajo -\nCondiciones de seguridad.",
+    "start_char": 6503,
+    "end_char": 6625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "3.5",
+    "label": "3.5 NOM-003-SEGOB-2002, Señales y avisos para protección civil - Colores, formas y símbolos a utilizar.",
+    "text": "3.5 NOM-003-SEGOB-2002, Señales y avisos para protección civil - Colores, formas y símbolos a utilizar.",
+    "start_char": 6629,
+    "end_char": 6732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:3-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "3.6",
+    "label": "3.6 NOM-106-SCFI-2000, Características de diseño y condiciones de uso de la contraseña oficial.",
+    "text": "3.6 NOM-106-SCFI-2000, Características de diseño y condiciones de uso de la contraseña oficial.",
+    "start_char": 6736,
+    "end_char": 6831
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:3-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "3.7",
+    "label": "3.7 NOM-154-SCFI-2005, Equipos contra incendio - Extintores - Servicio de mantenimiento y recarga.",
+    "text": "3.7 NOM-154-SCFI-2005, Equipos contra incendio - Extintores - Servicio de mantenimiento y recarga.",
+    "start_char": 6835,
+    "end_char": 6933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n   Para efectos de la presente Norma, se establecen las definiciones siguientes:",
+    "start_char": 6937,
+    "end_char": 7033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.1",
+    "label": "4.1 Agente extintor; Agente extinguidor: Es la sustancia o mezcla de ellas que apaga un fuego, al",
+    "text": "4.1 Agente extintor; Agente extinguidor: Es la sustancia o mezcla de ellas que apaga un fuego, al\ncontacto con un material en combustión en la cantidad adecuada.\n\f        (Primera Sección)                        DIARIO OFICIAL                   Jueves 9 de diciembre de 2010",
+    "start_char": 7037,
+    "end_char": 7311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.2",
+    "label": "4.2 Alarma de incendio: Es la señal audible y/o visible, diferente a la utilizada en el centro de trabajo para",
+    "text": "4.2 Alarma de incendio: Es la señal audible y/o visible, diferente a la utilizada en el centro de trabajo para\notras funciones, que advierte sobre una emergencia de incendio. Las señales visibles deberán ser del tipo\nestroboscópico, es decir, con rápidos destellos de luz, de alta intensidad, en forma regular.",
+    "start_char": 7317,
+    "end_char": 7627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.3",
+    "label": "4.3 Areas del centro de trabajo: Son todos aquellos espacios destinados a las actividades",
+    "text": "4.3 Areas del centro de trabajo: Son todos aquellos espacios destinados a las actividades\nadministrativas, de proceso, almacenamiento o prestación de servicios.",
+    "start_char": 7631,
+    "end_char": 7791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.4",
+    "label": "4.4 Autoridad Laboral; Autoridad del Trabajo: Las unidades administrativas competentes de la",
+    "text": "4.4 Autoridad Laboral; Autoridad del Trabajo: Las unidades administrativas competentes de la\nSecretaría del Trabajo y Previsión Social que realizan funciones de inspección en materia de seguridad y\nsalud en el trabajo y las correspondientes de las entidades federativas y del Distrito Federal, que actúen en\nauxilio de aquéllas.",
+    "start_char": 7796,
+    "end_char": 8124
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.5",
+    "label": "4.5 Autoridad local de protección civil: La Autoridad de los sistemas de protección civil de las Entidades",
+    "text": "4.5 Autoridad local de protección civil: La Autoridad de los sistemas de protección civil de las Entidades\nFederativas, del Distrito Federal y de los Municipios y Delegaciones que forman parte del Sistema Nacional de\nProtección Civil.",
+    "start_char": 8128,
+    "end_char": 8362
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.6",
+    "label": "4.6 Brigada contra incendio: El grupo de trabajadores organizados en una Unidad interna de protección",
+    "text": "4.6 Brigada contra incendio: El grupo de trabajadores organizados en una Unidad interna de protección\ncivil, capacitados y adiestrados en operaciones básicas de prevención y protección contra incendio y atención\nde emergencias de incendio, tales como identificación de los riesgos de la situación de emergencia por\nincendio; manejo de equipos o sistemas contra incendio, al igual que en acciones de evacuación,\ncomunicación y primeros auxilios, entre otras.",
+    "start_char": 8368,
+    "end_char": 8825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.7",
+    "label": "4.7 Centro de trabajo: Todos aquellos lugares tales como edificios, locales, instalaciones y áreas, en los",
+    "text": "4.7 Centro de trabajo: Todos aquellos lugares tales como edificios, locales, instalaciones y áreas, en los\nque se realicen actividades de producción, comercialización, transporte y almacenamiento o prestación de\nservicios, o en el que laboren personas que estén sujetas a una relación de trabajo.",
+    "start_char": 8829,
+    "end_char": 9125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.8",
+    "label": "4.8 Combustible: Es todo aquel material susceptible de arder al mezclarse en las cantidades adecuadas",
+    "text": "4.8 Combustible: Es todo aquel material susceptible de arder al mezclarse en las cantidades adecuadas\ncon un comburente y ser sometido a una fuente de ignición, tales como: madera, papel, cartón, ciertos textiles\ny plásticos, diesel, aceites y combustóleo.",
+    "start_char": 9130,
+    "end_char": 9386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.9",
+    "label": "4.9 Equipo contra incendio: Es el aparato o dispositivo, automático o manual, instalado y disponible para",
+    "text": "4.9 Equipo contra incendio: Es el aparato o dispositivo, automático o manual, instalado y disponible para\ncontrolar y combatir incendios. Los equipos contra incendio se clasifican:\n   a)     Por su tipo en:\n          1)   Portátiles: Son aquellos que están diseñados para ser transportados y operados manualmente,\n               con un peso total menor o igual a 20 kilogramos, y que contienen un agente extintor, el cual\n               puede expelerse bajo presión con el fin de combatir o extinguir un fuego incipiente;\n          2)   Móviles: Son aquellos que están diseñados para ser transportados sobre ruedas, sin\n               locomoción propia, con un peso superior a 20 kilogramos, y que contienen un agente extintor, el\n               cual puede expelerse bajo presión con el fin de combatir o extinguir un fuego incipiente, y\n          3)   Fijos: Son aquellos instalados de manera permanente y que pueden ser de operación manual,\n               semiautomática o automática, con agentes extintores acordes con la clase de fuego que se\n               pretenda combatir. Estos incluyen los sistemas de extinción manual a base de agua\n               (mangueras); los sistemas de rociadores automáticos; los sistemas de aspersores; los\n               monitores; los cañones, y los sistemas de espuma, entre otros.\n   b)     Por el agente extintor que contienen, entre otros:\n          1)   Agente extintor químico húmedo: Son aquellos que se utilizan para extinguir fuegos tipo A, B,\n               C o K, y que normalmente consisten en una solución acuosa de sales orgánicas o inorgánicas, o\n               una combinación de éstas, y\n          2)   Agentes extintores especiales: Son productos que se utilizan para apagar fuegos clase D.",
+    "start_char": 9390,
+    "end_char": 11137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.10",
+    "label": "4.10 Explosivo: Es una sustancia, o mezcla de sustancias, sólida o líquida, que de manera espontánea,",
+    "text": "4.10 Explosivo: Es una sustancia, o mezcla de sustancias, sólida o líquida, que de manera espontánea,\npor reacción química de oxidación, puede producir gases a determinada temperatura, presión y velocidad, que\ncausan daños a las personas o al entorno de trabajo. Las sustancias pirotécnicas forman parte de esta\ndefinición, aun cuando no produzcan gases.",
+    "start_char": 11142,
+    "end_char": 11496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.11",
+    "label": "4.11 Fuego: Es la oxidación rápida de los materiales combustibles con desprendimiento de luz y calor.",
+    "text": "4.11 Fuego: Es la oxidación rápida de los materiales combustibles con desprendimiento de luz y calor.\nEste fenómeno consiste en una reacción química de transferencia electrónica, con una alta velocidad de\nreacción y con liberación de luz y calor. Se clasifica en las clases siguientes:\n   a)     Fuego clase A: Es aquel que se presenta en material combustible sólido, generalmente de\n          naturaleza orgánica, y que su combustión se realiza normalmente con formación de brasas;\n   b)     Fuego clase B: Es aquel que se presenta en líquidos combustibles e inflamables y gases\n          inflamables;\n   c)     Fuego clase C: Es aquel que involucra aparatos, equipos e instalaciones eléctricas energizadas;\n\f   Jueves 9 de diciembre de 2010               DIARIO OFICIAL                               (Primera Sección)\n\n   d)    Fuego clase D: Es aquel en el que intervienen metales combustibles, tales como el magnesio,\n         titanio, circonio, sodio, litio y potasio, y\n   e)    Fuego clase K: Es aquel que se presenta básicamente en instalaciones de cocina, que involucra\n         sustancias combustibles, tales como aceites y grasas vegetales o animales. Los fuegos clase K\n         ocurren en los depósitos de grasa semipolimerizada, y su comportamiento es distinto a otros\n         combustibles.",
+    "start_char": 11500,
+    "end_char": 12805
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.12",
+    "label": "4.12 Fuego incipiente: Es el fuego en su etapa inicial que puede ser controlado o extinguido, mediante",
+    "text": "4.12 Fuego incipiente: Es el fuego en su etapa inicial que puede ser controlado o extinguido, mediante\nextintores portátiles, sistemas fijos contra incendio u otros medios de supresión convencionales, sin la\nnecesidad de utilizar ropa y equipo de protección básico de bombero, tales como: chaquetón, botas, cascos o\nequipos de respiración.",
+    "start_char": 12810,
+    "end_char": 13149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.13",
+    "label": "4.13 Gas inflamable: Es aquel que tiene un rango inflamable con el aire a 20ºC y presión de referencia de",
+    "text": "4.13 Gas inflamable: Es aquel que tiene un rango inflamable con el aire a 20ºC y presión de referencia de\n101.3 kPa, entre otros, propano, hidrógeno, butano, pentano y etano.",
+    "start_char": 13153,
+    "end_char": 13327
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.14",
+    "label": "4.14 Incendio: Es el fuego que se desarrolla sin control en tiempo y espacio.",
+    "text": "4.14 Incendio: Es el fuego que se desarrolla sin control en tiempo y espacio.",
+    "start_char": 13331,
+    "end_char": 13408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.15",
+    "label": "4.15 Instrucciones de seguridad: Es la descripción de actividades, en orden lógico y secuencial, que",
+    "text": "4.15 Instrucciones de seguridad: Es la descripción de actividades, en orden lógico y secuencial, que\ndeberán seguir los trabajadores durante sus actividades para la prevención y protección contra incendios en\nlos centros de trabajo. Estas instrucciones pueden estar contenidas en documentos, tales como\nprocedimientos, manuales o guías, entre otros.",
+    "start_char": 13412,
+    "end_char": 13761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.16",
+    "label": "4.16 Líquido combustible: Es cualquier sustancia que tenga una presión de vapor igual o menor a 2",
+    "text": "4.16 Líquido combustible: Es cualquier sustancia que tenga una presión de vapor igual o menor a 2\n068.6 mm de Hg, a 20°C, una fluidez mayor a 300 en asfalto, y una temperatura de inflamación igual o mayor\na 37.8°C, entre otros, keroseno, gasóleos, alcohol mineral y petróleo bruto.",
+    "start_char": 13765,
+    "end_char": 14046
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.17",
+    "label": "4.17 Líquido inflamable: Es cualquier sustancia que tenga presión de vapor igual o menor a 2 068.6 mm",
+    "text": "4.17 Líquido inflamable: Es cualquier sustancia que tenga presión de vapor igual o menor a 2 068.6 mm\nde Hg, a 20°C, una fluidez mayor a 300 en asfalto, y una temperatura de inflamación menor a 37.8°C, entre\notros, barnices, lacas, gasolina, tolueno y pinturas a base de disolventes.",
+    "start_char": 14051,
+    "end_char": 14334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.18",
+    "label": "4.18 Lugar seguro: Es la zona o área seleccionada e identificada dentro o fuera del centro de trabajo, que",
+    "text": "4.18 Lugar seguro: Es la zona o área seleccionada e identificada dentro o fuera del centro de trabajo, que\nlos trabajadores y demás ocupantes del mismo deberán utilizar como zona de protección, en caso de alarma y\nevacuación por incendio, de acuerdo con lo establecido en el plan de atención a emergencias.",
+    "start_char": 14339,
+    "end_char": 14645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.19",
+    "label": "4.19 Mantenimiento a extintores: Es la revisión completa, interna y externa, del extintor y, en caso de",
+    "text": "4.19 Mantenimiento a extintores: Es la revisión completa, interna y externa, del extintor y, en caso de\nrequerirse, las pruebas, reparaciones, sustitución de partes y la recarga del agente extintor, a fin de que éste\nopere de manera efectiva y segura.",
+    "start_char": 14649,
+    "end_char": 14900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.20",
+    "label": "4.20 Material inflamable: Es todo aquel sólido, líquido o gas susceptible de arder con facilidad cuando",
+    "text": "4.20 Material inflamable: Es todo aquel sólido, líquido o gas susceptible de arder con facilidad cuando\nentra en contacto con una fuente de ignición o de calor, con rápida propagación de flama.",
+    "start_char": 14905,
+    "end_char": 15098
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.21",
+    "label": "4.21 Material pirofórico: Es todo sólido o líquido que al contacto con el aire, aun en pequeñas",
+    "text": "4.21 Material pirofórico: Es todo sólido o líquido que al contacto con el aire, aun en pequeñas\ncantidades, entra en ignición, es decir, reacciona en forma espontánea con desprendimiento de grandes\ncantidades de luz y calor.",
+    "start_char": 15102,
+    "end_char": 15326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.22",
+    "label": "4.22 Material resistente al fuego: Son los recubrimientos ignífugos o retardantes, así como los elementos",
+    "text": "4.22 Material resistente al fuego: Son los recubrimientos ignífugos o retardantes, así como los elementos\nde construcción, tales como paredes, techos o pisos, que pueden estar sujetos a la acción del fuego por un\ntiempo determinado sin entrar en combustión.",
+    "start_char": 15331,
+    "end_char": 15588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-23",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.23",
+    "label": "4.23 Medios de detección de incendio: Son elementos con sensores automáticos y alarma de incendio,",
+    "text": "4.23 Medios de detección de incendio: Son elementos con sensores automáticos y alarma de incendio,\nque responden a estímulos físicos y/o químicos, tales como calor, humo, flama o productos de la combustión,\ny pueden estar contenidos en dispositivos independientes o en sistemas.",
+    "start_char": 15592,
+    "end_char": 15870
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.24",
+    "label": "4.24 Plan de ayuda mutua: Es un conjunto de estrategias, acciones y recursos para la asistencia y",
+    "text": "4.24 Plan de ayuda mutua: Es un conjunto de estrategias, acciones y recursos para la asistencia y\ncooperación que acuerdan dos o más empresas u organizaciones, para la prevención y respuesta a\nemergencias por incendios.",
+    "start_char": 15874,
+    "end_char": 16093
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-25",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.25",
+    "label": "4.25 Prestador de servicio a extintores: Es la persona física o moral que realiza el servicio de",
+    "text": "4.25 Prestador de servicio a extintores: Es la persona física o moral que realiza el servicio de\nmantenimiento y/o recarga a extintores, verificada en la norma NOM-154-SCFI-2005, o las que la sustituyan,\npor una persona acreditada y aprobada para determinar la evaluación de la conformidad de la citada norma.",
+    "start_char": 16098,
+    "end_char": 16407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-26",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.26",
+    "label": "4.26 Prevención de incendios: Son todas aquellas acciones técnicas o administrativas que se",
+    "text": "4.26 Prevención de incendios: Son todas aquellas acciones técnicas o administrativas que se\ndesarrollan para evitar que en el centro de trabajo se presente un incendio.",
+    "start_char": 16411,
+    "end_char": 16579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-27",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.27",
+    "label": "4.27 Programas de Protección Civil: Son los instrumentos de planeación para definir y establecer",
+    "text": "4.27 Programas de Protección Civil: Son los instrumentos de planeación para definir y establecer\nacciones destinadas a la prevención de calamidades, incluyendo las emergencias de incendio y la atención de\nsu impacto en las empresas, industrias, instituciones u organismos del sector público, social y privado. Se\nbasan en un diagnóstico y se dividen en tres subprogramas: prevención, auxilio y apoyo. También son\n\f        (Primera Sección)                        DIARIO OFICIAL                     Jueves 9 de diciembre de 2010\n\nconsiderados por diferentes entidades federativas como programas internos, específicos o especiales de\nprotección civil.",
+    "start_char": 16584,
+    "end_char": 17233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-28",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.28",
+    "label": "4.28 Protección contra incendios: Son todas aquellas instalaciones, equipos o condiciones físicas que",
+    "text": "4.28 Protección contra incendios: Son todas aquellas instalaciones, equipos o condiciones físicas que\nse adoptan para que, en caso de requerirse, se utilicen en la atención de una emergencia de incendio.",
+    "start_char": 17237,
+    "end_char": 17440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-29",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.29",
+    "label": "4.29 Punto de inflamación: Es la temperatura mínima, corregida a la presión de referencia de 101.3 kPa,",
+    "text": "4.29 Punto de inflamación: Es la temperatura mínima, corregida a la presión de referencia de 101.3 kPa,\na la que una sustancia desprende vapores capaces de formar una mezcla inflamable en su superficie, y que\nno es suficiente para sostener la combustión.",
+    "start_char": 17445,
+    "end_char": 17699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-30",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.30",
+    "label": "4.30 Recarga del agente: Es el reemplazo total del agente extintor por uno nuevo y, en su caso,",
+    "text": "4.30 Recarga del agente: Es el reemplazo total del agente extintor por uno nuevo y, en su caso,\ncertificado.",
+    "start_char": 17704,
+    "end_char": 17812
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-31",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.31",
+    "label": "4.31 Ruta de evacuación: Es el recorrido horizontal o vertical, o la combinación de ambos, continuo y sin",
+    "text": "4.31 Ruta de evacuación: Es el recorrido horizontal o vertical, o la combinación de ambos, continuo y sin\nobstrucciones, que va desde cualquier punto del centro de trabajo hasta un lugar seguro en el exterior,\ndenominado punto de reunión, que incluye locales intermedios como salas, vestíbulos, balcones, patios y\notros recintos; así como sus componentes, tales como puertas, escaleras, rampas y pasillos. Consta de las\npartes siguientes:\n   a)     Acceso a la ruta de salida: Es la parte del recorrido que conduce desde cualquier lugar del centro\n          de trabajo hasta la ruta de salida;\n   b)     Ruta de salida: Es la parte del recorrido que proviene del acceso a la ruta de salida, separada de\n          otras áreas mediante elementos que proveen un trayecto protegido hacia la descarga de salida, y\n   c)     Descarga de salida: Es la parte final de la ruta de evacuación que lleva a una zona de seguridad en\n          el exterior, denominada punto de reunión.",
+    "start_char": 17817,
+    "end_char": 18787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-32",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.32",
+    "label": "4.32 Trabajos en caliente: Son todos aquellos procesos o actividades en que se manejen equipos que",
+    "text": "4.32 Trabajos en caliente: Son todos aquellos procesos o actividades en que se manejen equipos que\ngeneren flama, calor, chispa, arco eléctrico o incandescencia, tales como soldadura, corte, abrasión y\nfundición, entre otros.",
+    "start_char": 18791,
+    "end_char": 19016
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:4-33",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "4.33",
+    "label": "4.33 Unidad interna de protección civil: Es el órgano normativo y operativo, cuyo ámbito de acción se",
+    "text": "4.33 Unidad interna de protección civil: Es el órgano normativo y operativo, cuyo ámbito de acción se\ncircunscribe a las instalaciones de una institución, dependencia o entidad perteneciente a los sectores público,\nprivado o social, que tiene la responsabilidad de desarrollar y dirigir las acciones de protección civil, así como\nde elaborar, implementar y coordinar el programa interno correspondiente.",
+    "start_char": 19021,
+    "end_char": 19424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 19428,
+    "end_char": 19454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5.1",
+    "label": "5.1 Clasificar el riesgo de incendio del centro de trabajo o por áreas que lo integran, tales como plantas,",
+    "text": "5.1 Clasificar el riesgo de incendio del centro de trabajo o por áreas que lo integran, tales como plantas,\nedificios o niveles, de conformidad con lo establecido por el Apéndice A de la presente Norma.",
+    "start_char": 19459,
+    "end_char": 19661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5.2",
+    "label": "5.2 Contar con un croquis, plano o mapa general del centro de trabajo, o por áreas que lo integran,",
+    "text": "5.2 Contar con un croquis, plano o mapa general del centro de trabajo, o por áreas que lo integran,\nactualizado y colocado en los principales lugares de entrada, tránsito, reunión o puntos comunes de estancia\no servicios para los trabajadores, que contenga lo siguiente, según aplique:\n   a)     El nombre, denominación o razón social del centro de trabajo y su domicilio;\n   b)     La identificación de los predios colindantes;\n   c)     La identificación de las principales áreas o zonas del centro de trabajo con riesgo de incendio, debido\n          a la presencia de material inflamable, combustible, pirofórico o explosivo, entre otros;\n   d)     La ubicación de los medios de detección de incendio, así como de los equipos y sistemas contra\n          incendio;\n   e)     Las rutas de evacuación, incluyendo, al menos, la ruta de salida y la descarga de salida, además de\n          las salidas de emergencia, escaleras de emergencia y lugares seguros;\n   f)     La ubicación del equipo de protección personal para los integrantes de las brigadas contra incendio,\n          y\n   g)     La ubicación de materiales y equipo para prestar los primeros auxilios.",
+    "start_char": 19665,
+    "end_char": 20826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5.3",
+    "label": "5.3 Contar con las instrucciones de seguridad aplicables en cada área del centro de trabajo y difundirlas",
+    "text": "5.3 Contar con las instrucciones de seguridad aplicables en cada área del centro de trabajo y difundirlas\nentre los trabajadores, contratistas y visitantes, según corresponda (Véase la Guía de Referencia I,\nInstrucciones de Seguridad para la Prevención y Protección contra Incendios).",
+    "start_char": 20831,
+    "end_char": 21115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5.4",
+    "label": "5.4 Cumplir con las condiciones de prevención y protección contra incendios en el centro de trabajo, de",
+    "text": "5.4 Cumplir con las condiciones de prevención y protección contra incendios en el centro de trabajo, de\nacuerdo con lo establecido en el Capítulo 7 de la presente Norma.",
+    "start_char": 21119,
+    "end_char": 21288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5.5",
+    "label": "5.5 Contar con un plan de atención a emergencias de incendio, conforme al Capítulo 8 de esta Norma.",
+    "text": "5.5 Contar con un plan de atención a emergencias de incendio, conforme al Capítulo 8 de esta Norma.\n\f   Jueves 9 de diciembre de 2010               DIARIO OFICIAL                              (Primera Sección)",
+    "start_char": 21292,
+    "end_char": 21501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5.6",
+    "label": "5.6 Contar con brigadas contra incendio en los centros de trabajo clasificados con riesgo de incendio alto,",
+    "text": "5.6 Contar con brigadas contra incendio en los centros de trabajo clasificados con riesgo de incendio alto,\nen los términos del Capítulo 9 de la presente Norma.",
+    "start_char": 21507,
+    "end_char": 21667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5.7",
+    "label": "5.7 Desarrollar simulacros de emergencias de incendio al menos una vez al año, en el caso de centros de",
+    "text": "5.7 Desarrollar simulacros de emergencias de incendio al menos una vez al año, en el caso de centros de\ntrabajo clasificados con riesgo de incendio ordinario, y al menos dos veces al año para aquellos con riesgo de\nincendio alto, conforme a lo señalado en el Capítulo 10 de esta Norma (Véase la Guía de Referencia II,\nBrigadas de Emergencia y Consideraciones Generales sobre la Planeación de los Simulacros de Incendio).",
+    "start_char": 21672,
+    "end_char": 22092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5.8",
+    "label": "5.8 Elaborar un programa de capacitación anual teórico-práctico en materia de prevención de incendios y",
+    "text": "5.8 Elaborar un programa de capacitación anual teórico-práctico en materia de prevención de incendios y\natención de emergencias, conforme a lo previsto en el Capítulo 11 de esta Norma, así como capacitar a los\ntrabajadores y a los integrantes de las brigadas contra incendio, con base en dicho programa.",
+    "start_char": 22097,
+    "end_char": 22400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5.9",
+    "label": "5.9 Dotar del equipo de protección personal a los integrantes de las brigadas contra incendio,",
+    "text": "5.9 Dotar del equipo de protección personal a los integrantes de las brigadas contra incendio,\nconsiderando para tal efecto las funciones y riesgos a que estarán expuestos, de conformidad con lo previsto\nen la NOM-017-STPS-2008, o las que la sustituyan (Véase la Guía de Referencia III, Componentes y\nCaracterísticas Generales del Equipo de Protección Personal para los Integrantes de las Brigadas contra\nIncendio).",
+    "start_char": 22404,
+    "end_char": 22819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5.10",
+    "label": "5.10 Contar en las áreas de los centros de trabajo clasificadas con riesgo de incendio ordinario, con",
+    "text": "5.10 Contar en las áreas de los centros de trabajo clasificadas con riesgo de incendio ordinario, con\nmedios de detección y equipos contra incendio, y en las de riesgo de incendio alto, además de lo\nanteriormente señalado, con sistemas fijos de protección contra incendio y alarmas de incendio, para atender\nla posible dimensión de la emergencia de incendio, mismos que deberán ser acordes con la clase de fuego\nque pueda presentarse (Véanse la Guía de Referencia IV, Detectores de Incendio y la Guía de Referencia V,\nSistemas Fijos contra Incendio).",
+    "start_char": 22824,
+    "end_char": 23374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5.11",
+    "label": "5.11 Contar con alguno de los documentos que enseguida se señalan, tratándose de centros de trabajo",
+    "text": "5.11 Contar con alguno de los documentos que enseguida se señalan, tratándose de centros de trabajo\ncon riesgo de incendio alto:\n   a)    El acta y la minuta correspondientes a la verificación satisfactoria del cumplimiento de la presente\n         Norma, que emita la Secretaría del Trabajo y Previsión Social, en el marco de las evaluaciones\n         integrales del Programa de Autogestión en Seguridad y Salud en el Trabajo, o\n   b)    El dictamen de cumplimiento de esta Norma expedido por una unidad de verificación acreditada y\n         aprobada, o\n   c)    El acta circunstanciada que resulte de la revisión, verificación, inspección o vigilancia de las\n         condiciones para la prevención y protección contra incendios en los centros de trabajo, por parte de\n         la autoridad local de protección civil que corresponda al domicilio del centro de trabajo, en el marco\n         de los programas internos, específicos o especiales de protección civil.",
+    "start_char": 23378,
+    "end_char": 24341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:5-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "5.12",
+    "label": "5.12 Exhibir a la autoridad del trabajo, cuando ésta así lo solicite, los documentos que la presente Norma",
+    "text": "5.12 Exhibir a la autoridad del trabajo, cuando ésta así lo solicite, los documentos que la presente Norma\nle obligue a elaborar y poseer.",
+    "start_char": 24346,
+    "end_char": 24484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "6",
+    "label": "6. Obligaciones de los trabajadores",
+    "text": "6. Obligaciones de los trabajadores",
+    "start_char": 24488,
+    "end_char": 24523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "6.1",
+    "label": "6.1 Cumplir con las instrucciones de seguridad que dicte el patrón.",
+    "text": "6.1 Cumplir con las instrucciones de seguridad que dicte el patrón.",
+    "start_char": 24527,
+    "end_char": 24594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "6.2",
+    "label": "6.2 Cumplir con las medidas de prevención y protección contra incendios establecidas por el patrón.",
+    "text": "6.2 Cumplir con las medidas de prevención y protección contra incendios establecidas por el patrón.",
+    "start_char": 24598,
+    "end_char": 24697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "6.3",
+    "label": "6.3 Participar en las actividades de capacitación y entrenamiento proporcionadas por el patrón para la",
+    "text": "6.3 Participar en las actividades de capacitación y entrenamiento proporcionadas por el patrón para la\nprevención y protección contra incendios.",
+    "start_char": 24701,
+    "end_char": 24845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "6.4",
+    "label": "6.4 Auxiliar en la respuesta a emergencias de incendio que se presenten en el centro de trabajo, conforme",
+    "text": "6.4 Auxiliar en la respuesta a emergencias de incendio que se presenten en el centro de trabajo, conforme\na la capacitación y entrenamiento recibidos.",
+    "start_char": 24850,
+    "end_char": 25000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "6.5",
+    "label": "6.5 Cumplir con las instrucciones sobre el uso y cuidado del equipo de protección personal proporcionado",
+    "text": "6.5 Cumplir con las instrucciones sobre el uso y cuidado del equipo de protección personal proporcionado\npor el patrón a los integrantes de las brigadas contra incendio.",
+    "start_char": 25005,
+    "end_char": 25174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:6-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "6.6",
+    "label": "6.6 Participar en las brigadas contra incendio.",
+    "text": "6.6 Participar en las brigadas contra incendio.",
+    "start_char": 25178,
+    "end_char": 25225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:6-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "6.7",
+    "label": "6.7 Participar en los simulacros de emergencias de incendio.",
+    "text": "6.7 Participar en los simulacros de emergencias de incendio.",
+    "start_char": 25229,
+    "end_char": 25289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:6-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "6.8",
+    "label": "6.8 No bloquear, dañar, inutilizar o dar uso inadecuado a los equipos de protección personal para la",
+    "text": "6.8 No bloquear, dañar, inutilizar o dar uso inadecuado a los equipos de protección personal para la\natención a emergencias, croquis, planos, mapas, y señalamientos de evacuación, prevención y combate de\nincendios, entre otros.",
+    "start_char": 25294,
+    "end_char": 25521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:6-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "6.9",
+    "label": "6.9 Poner en práctica el procedimiento de alertamiento, en caso de detectar una situación de emergencia",
+    "text": "6.9 Poner en práctica el procedimiento de alertamiento, en caso de detectar una situación de emergencia\nde incendio.",
+    "start_char": 25526,
+    "end_char": 25642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7",
+    "label": "7. Condiciones de prevención y protección contra incendios",
+    "text": "7. Condiciones de prevención y protección contra incendios\n\f        (Primera Sección)                        DIARIO OFICIAL                     Jueves 9 de diciembre de 2010",
+    "start_char": 25646,
+    "end_char": 25819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.1",
+    "label": "7.1 Contar con instrucciones de seguridad aplicables en cada área del centro trabajo al alcance de los",
+    "text": "7.1 Contar con instrucciones de seguridad aplicables en cada área del centro trabajo al alcance de los\ntrabajadores, incluidas las relativas a la ejecución de trabajos en caliente en las áreas en las que se puedan\npresentar incendios, y supervisar que éstas se cumplan.",
+    "start_char": 25825,
+    "end_char": 26094
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.2",
+    "label": "7.2 Elaborar un programa anual de revisión mensual de los extintores, y vigilar que los extintores cumplan",
+    "text": "7.2 Elaborar un programa anual de revisión mensual de los extintores, y vigilar que los extintores cumplan\ncon las condiciones siguientes:\n   a)     Que se encuentren en la ubicación asignada en el plano a que se refiere el numeral 5.2, inciso d), y\n          que estén instalados conforme a lo previsto por el numeral 7.17 de esta Norma;\n   b)     Que su ubicación sea en lugares visibles, de fácil acceso y libres de obstáculos;\n   c)     Que se encuentren señalizados, de conformidad con lo que establece la NOM-026-STPS-2008 o la\n          NOM-003-SEGOB-2002, o las que las sustituyan;\n   d)     Que cuenten con el sello o fleje de garantía sin violar;\n   e)     Que la aguja del manómetro indique la presión en la zona verde (operable), en el caso de extintores\n          cuyo recipiente esté presurizado permanentemente y que contengan como agente extintor agua,\n          agua con aditivos, espuma, polvo químico seco, halones, agentes limpios o químicos húmedos;\n   f)     Que mantengan la capacidad nominal indicada por el fabricante en la etiqueta, en el caso de\n          extintores con bióxido de carbono como agente extintor;\n   g)     Que no hayan sido activados, de acuerdo con el dispositivo que el fabricante incluya en el extintor\n          para detectar su activación, en el caso de extintores que contengan como agente extintor polvo\n          químico seco, y que se presurizan al momento de operarlos, por medio de gas proveniente de\n          cartuchos o cápsulas, internas o externas;\n   h)     Que se verifiquen las condiciones de las ruedas de los extintores móviles;\n   i)     Que no existan daños físicos evidentes, tales como corrosión, escape de presión, obstrucción, golpes\n          o deformaciones;\n   j)     Que no existan daños físicos, tales como roturas, desprendimientos, protuberancias o perforaciones,\n          en mangueras, boquillas o palanca de accionamiento, que puedan propiciar su mal funcionamiento.\n          El extintor deberá ser puesto fuera de servicio, cuando presente daño que afecte su operación, o\n          dicho daño no pueda ser reparado, en cuyo caso deberá ser sustituido por otro de las mismas\n          características y condiciones de operación;\n   k)     Que la etiqueta, placa o grabado se encuentren legibles y sin alteraciones;\n   l)     Que la etiqueta cuente con la siguiente información vigente, después de cada mantenimiento:\n          1)   El nombre, denominación o razón social, domicilio y teléfono del prestador de servicios;\n          2)   La capacidad nominal en kilogramos o litros, y el agente extintor;\n          3)   Las instrucciones de operación, breves y de fácil comprensión, apoyadas mediante figuras o\n               símbolos;\n          4)   La clase de fuego a que está destinado el equipo;\n          5)   Las contraindicaciones de uso, cuando aplique;\n          6)   La contraseña oficial del cumplimiento con la normatividad vigente aplicable, de conformidad con\n               lo dispuesto por la Norma Oficial Mexicana NOM-106-SCFI-2000, o las que la sustituyan, en su\n               caso;\n          7)   El mes y año del último servicio de mantenimiento realizado, y\n          8)   La contraseña oficial de cumplimiento con la Norma NOM-154-SCFI-2005, o las que la\n               sustituyan, y el número de dictamen de cumplimiento con la misma, y\n   m)     Los extintores de polvo químico seco deberán contar además con el collarín que establece la NOM-\n          154-SCFI-2005, o las que la sustituyan.\n    No se requerirá la revisión de los aspectos contenidos en el numeral 7.2, inciso l), subincisos 7) y 8), e\ninciso m), en el caso de equipos de nueva adquisición.",
+    "start_char": 26098,
+    "end_char": 29762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.3",
+    "label": "7.3 Contar con el registro de los resultados de la revisión mensual a los extintores que al menos contenga:",
+    "text": "7.3 Contar con el registro de los resultados de la revisión mensual a los extintores que al menos contenga:\n   a)     La fecha de la revisión;\n   b)     El nombre o identificación del personal que realizó la revisión;\n\f   Jueves 9 de diciembre de 2010                   DIARIO OFICIAL                           (Primera Sección)\n\n   c)    Los resultados de la revisión mensual a los extintores;\n   d)    Las anomalías identificadas, y\n   e)    El seguimiento de las anomalías identificadas.",
+    "start_char": 29766,
+    "end_char": 30256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.4",
+    "label": "7.4 Establecer y dar seguimiento a un programa anual de revisión y pruebas a los equipos contra incendio,",
+    "text": "7.4 Establecer y dar seguimiento a un programa anual de revisión y pruebas a los equipos contra incendio,\na los medios de detección y, en su caso, a las alarmas de incendio y sistemas fijos contra incendio (Véase la\nGuía de Referencia VI, Recomendaciones sobre Periodos Máximos y Actividades Relativas a la Revisión y\nPrueba de Sistemas y Equipos contra Incendio).\n    Si derivado de dicha revisión y pruebas, se encontrara que existe daño o deterioro en los equipos,\nsistemas y medios de detección contra incendio, éstos se someterán al mantenimiento correspondiente por\npersonal capacitado para tal fin.",
+    "start_char": 30261,
+    "end_char": 30866
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.5",
+    "label": "7.5 Establecer y dar seguimiento a un programa anual de revisión a las instalaciones eléctricas de las",
+    "text": "7.5 Establecer y dar seguimiento a un programa anual de revisión a las instalaciones eléctricas de las\náreas del centro de trabajo, con énfasis en aquellas clasificadas como de riesgo de incendio alto, a fin de\nidentificar y corregir condiciones inseguras que puedan existir, el cual deberá comprender, al menos, los\nelementos siguientes:\n   a)    Tableros de distribución;\n   b)    Conductores;\n   c)    Canalizaciones, incluyendo los conductores y espacios libres en éstas;\n   d)    Cajas de conexiones;\n   e)    Contactos;\n   f)    Interruptores;\n   g)    Luminarias;\n   h)    Protecciones, incluyendo las de cortocircuito -fusibles, cuchillas desconectadoras, interruptor\n         automático, dispositivos termo-magnéticos, entre otros-, en circuitos alimentadores y derivados, y\n   i)    Puesta a tierra de equipos y circuitos.",
+    "start_char": 30870,
+    "end_char": 31702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.5.1",
+    "label": "7.5.1 Este programa deberá ser elaborado y aplicado por personal previamente capacitado y autorizado",
+    "text": "7.5.1 Este programa deberá ser elaborado y aplicado por personal previamente capacitado y autorizado\npor el patrón.",
+    "start_char": 31707,
+    "end_char": 31822
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.5.2",
+    "label": "7.5.2 Entre los aspectos a revisar dentro del programa a que se refiere este numeral, se deberán",
+    "text": "7.5.2 Entre los aspectos a revisar dentro del programa a que se refiere este numeral, se deberán\nconsiderar los denominados puntos calientes de la instalación eléctrica, aislamientos o conexiones rotas o\nflojas, expuestas o quemadas; sobrecargas (varias cargas en un solo tomacorriente); alteraciones, e\nimprovisaciones, entre otras.",
+    "start_char": 31828,
+    "end_char": 32161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.5.3",
+    "label": "7.5.3 Si derivado de dicha revisión, se encontrara que existe daño o deterioro en las instalaciones",
+    "text": "7.5.3 Si derivado de dicha revisión, se encontrara que existe daño o deterioro en las instalaciones\neléctricas, éstas se someterán al mantenimiento correspondiente por personal capacitado para tal fin, de\nconformidad con lo dispuesto por la NOM-029-STPS-2005, o las que la sustituyan.",
+    "start_char": 32166,
+    "end_char": 32450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.6",
+    "label": "7.6 Establecer y dar seguimiento a un programa anual de revisión a las instalaciones de gas licuado de",
+    "text": "7.6 Establecer y dar seguimiento a un programa anual de revisión a las instalaciones de gas licuado de\npetróleo y/o natural, a fin de identificar y corregir condiciones inseguras que puedan existir, mismo que deberá\ncontener, al menos, los elementos siguientes:\n   a)    La integridad de los elementos que componen la instalación, y\n   b)    La señalización de las tuberías de la instalación, misma que deberá conservarse visible y legible,\n         conforme a lo establecido por la NOM-026-STPS-2008, o las que la sustituyan.",
+    "start_char": 32455,
+    "end_char": 32981
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.6.1",
+    "label": "7.6.1 Este programa deberá ser elaborado y aplicado por personal previamente capacitado y autorizado",
+    "text": "7.6.1 Este programa deberá ser elaborado y aplicado por personal previamente capacitado y autorizado\npor el patrón.",
+    "start_char": 32986,
+    "end_char": 33101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.6.2",
+    "label": "7.6.2 Si derivado de la revisión, se encontrara que existen daños o deterioro en dichas instalaciones, éstas",
+    "text": "7.6.2 Si derivado de la revisión, se encontrara que existen daños o deterioro en dichas instalaciones, éstas\nse someterán al mantenimiento correspondiente por personal capacitado para tal fin.",
+    "start_char": 33106,
+    "end_char": 33298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.7",
+    "label": "7.7 Contar con el registro de resultados de los programas a que se refieren los numerales 7.4, 7.5 y 7.6,",
+    "text": "7.7 Contar con el registro de resultados de los programas a que se refieren los numerales 7.4, 7.5 y 7.6,\ncon al menos los datos siguientes:\n   a)    El nombre, denominación o razón social y domicilio completo del centro de trabajo;\n   b)    La fecha de la revisión;\n   c)    Las áreas revisadas;\n   d)    Las anomalías detectadas y acciones determinadas para su corrección y seguimiento, en su caso, y\n\f        (Primera Sección)                       DIARIO OFICIAL                   Jueves 9 de diciembre de 2010\n\n   e)     El nombre y puesto de los responsables de la revisión.",
+    "start_char": 33302,
+    "end_char": 33882
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.8",
+    "label": "7.8 Contar, en su caso, con la señalización que prohíba fumar, generar flama abierta o chispas e introducir",
+    "text": "7.8 Contar, en su caso, con la señalización que prohíba fumar, generar flama abierta o chispas e introducir\nobjetos incandescentes, cerillos, cigarrillos o, en su caso, utilizar teléfonos celulares, aparatos de\nradiocomunicación, u otros que puedan provocar ignición por no ser intrínsecamente seguros, en las áreas en\ndonde se produzcan, almacenen o manejen materiales inflamables o explosivos. Dicha señalización deberá\ncumplir con lo establecido por la NOM-026-STPS-2008 o la NOM-003-SEGOB-2002, o las que las sustituyan.",
+    "start_char": 33887,
+    "end_char": 34411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.9",
+    "label": "7.9 Contar con señalización en la proximidad de los elevadores, que prohíba su uso en caso de incendio,",
+    "text": "7.9 Contar con señalización en la proximidad de los elevadores, que prohíba su uso en caso de incendio,\nde conformidad con lo establecido en la NOM-003-SEGOB-2002, o las que la sustituyan.",
+    "start_char": 34415,
+    "end_char": 34603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.10",
+    "label": "7.10 Prohibir y evitar el bloqueo, daño, inutilización o uso inadecuado de los equipos y sistemas contra",
+    "text": "7.10 Prohibir y evitar el bloqueo, daño, inutilización o uso inadecuado de los equipos y sistemas contra\nincendio, los equipos de protección personal para la respuesta a emergencias, así como los señalamientos de\nevacuación, prevención y de equipos y sistemas contra incendio, entre otros.",
+    "start_char": 34608,
+    "end_char": 34897
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.11",
+    "label": "7.11 Establecer controles de acceso para los trabajadores y demás personas que ingresen a las áreas",
+    "text": "7.11 Establecer controles de acceso para los trabajadores y demás personas que ingresen a las áreas\ndonde se almacenen, procesen o manejen materiales inflamables o explosivos.",
+    "start_char": 34901,
+    "end_char": 35076
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.12",
+    "label": "7.12 Adoptar las medidas de seguridad para prevenir la generación y acumulación de electricidad estática",
+    "text": "7.12 Adoptar las medidas de seguridad para prevenir la generación y acumulación de electricidad estática\nen las áreas donde se manejen materiales inflamables o explosivos, de conformidad con lo establecido en la\nNOM-022-STPS-2008, o las que la sustituyan. Asimismo, controlar en dichas áreas el uso de herramientas,\nropa, zapatos y objetos personales que puedan generar chispa, flama abierta o altas temperaturas.",
+    "start_char": 35081,
+    "end_char": 35494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.13",
+    "label": "7.13 Contar con las medidas o procedimientos de seguridad, para el uso de equipos de calefacción,",
+    "text": "7.13 Contar con las medidas o procedimientos de seguridad, para el uso de equipos de calefacción,\ncalentadores, hornos, parrillas u otras fuentes de calor, en las áreas donde existan materiales inflamables o\nexplosivos, y supervisar que se cumplan.",
+    "start_char": 35499,
+    "end_char": 35747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.14",
+    "label": "7.14 Prohibir y evitar que se almacenen materiales o coloquen objetos que obstruyan e interfieran el",
+    "text": "7.14 Prohibir y evitar que se almacenen materiales o coloquen objetos que obstruyan e interfieran el\nacceso al equipo contra incendio o a los dispositivos de alarma de incendio o activación manual de los\nsistemas fijos contra incendio.",
+    "start_char": 35752,
+    "end_char": 35987
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.15",
+    "label": "7.15 Contar con rutas de evacuación que cumplan con las condiciones siguientes:",
+    "text": "7.15 Contar con rutas de evacuación que cumplan con las condiciones siguientes:\n   a)     Que estén señalizadas en lugares visibles, de conformidad con lo dispuesto por la NOM-026-STPS-\n          2008 o la NOM-003-SEGOB-2002, o las que las sustituyan;\n   b)     Que se encuentren libres de obstáculos que impidan la circulación de los trabajadores y demás\n          ocupantes;\n   c)     Que dispongan de dispositivos de iluminación de emergencia que permitan percibir el piso y\n          cualquier modificación en su superficie, cuando se interrumpa la energía eléctrica o falte iluminación\n          natural;\n   d)     Que la distancia por recorrer desde el punto más alejado del interior de una edificación, hacia\n          cualquier punto de la ruta de evacuación, no sea mayor de 40 m. En caso contrario, el tiempo\n          máximo de evacuación de los ocupantes a un lugar seguro deberá ser de tres minutos;\n   e)     Que las escaleras eléctricas sean consideradas parte de una ruta de evacuación, previo bloqueo de\n          la energía que las alimenta y de su movimiento;\n   f)     Que los elevadores no sean considerados parte de una ruta de evacuación y no se usen en caso de\n          incendio;\n   g)     Que los desniveles o escalones en los pasillos y corredores de las rutas de evacuación estén\n          señalizados, de conformidad con la NOM-026-STPS-2008 o la NOM-003-SEGOB-2002, o las que las\n          sustituyan, y\n   h)     Que en el recorrido de las escaleras de emergencia exteriores de los centros de trabajo de nueva\n          creación, las ventanas, fachadas de vidrio o cualquier otro tipo de aberturas, no representen un factor\n          de riesgo en su uso durante una situación de emergencia de incendio.",
+    "start_char": 35991,
+    "end_char": 37724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.16",
+    "label": "7.16 Contar con salidas normales y/o de emergencia que cumplan con las condiciones siguientes:",
+    "text": "7.16 Contar con salidas normales y/o de emergencia que cumplan con las condiciones siguientes:\n   a)     Que estén identificadas conforme a lo señalado en la NOM-026-STPS-2008 o la NOM-003-SEGOB-\n          2002, o las que las sustituyan;\n   b)     Que comuniquen a un descanso, en caso de acceder a una escalera;\n   c)     Que en las salidas de emergencia, las puertas abran en el sentido del flujo, salvo que sean\n          automáticas y corredizas;\n\f   Jueves 9 de diciembre de 2010                  DIARIO OFICIAL                                    (Primera Sección)\n\n   d)   Que las puertas sean de materiales resistentes al fuego y capaces de impedir el paso del humo entre\n        áreas de trabajo, en caso de quedar clasificados el área o centro de trabajo como de riesgo de\n        incendio alto, y se requiera impedir la propagación de un incendio hacia una ruta de evacuación o\n        áreas contiguas por presencia de materiales inflamables o explosivos;\n   e)   Que las puertas de emergencia cuenten con un mecanismo que permita abrirlas desde el interior,\n        mediante una operación simple de empuje;\n   f)   Que las puertas consideradas como salidas de emergencia estén libres de obstáculos, candados,\n        picaportes o cerraduras con seguros puestos durante las horas laborales, que impidan su utilización\n        en casos de emergencia, y\n   g)   Que cuando sus puertas sean consideradas como salidas de emergencia, y funcionen en forma\n        automática, o mediante dispositivos eléctricos o electrónicos, permitan la apertura manual, si llegara\n        a interrumpirse la energía eléctrica en situaciones de emergencia.",
+    "start_char": 37728,
+    "end_char": 39373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.17",
+    "label": "7.17 Instalar extintores en las áreas del centro de trabajo, de acuerdo con lo siguiente:",
+    "text": "7.17 Instalar extintores en las áreas del centro de trabajo, de acuerdo con lo siguiente:\n   a)   Contar con extintores conforme a la clase de fuego que se pueda presentar (Véanse la Guía de\n        Referencia VII, Extintores contra Incendio y la Guía de Referencia VIII Agentes Extintores);\n   b)   Colocar al menos un extintor por cada 300 metros cuadrados de superficie o fracción, si el grado de\n        riesgo es ordinario;\n   c)   Colocar al menos un extintor por cada 200 metros cuadrados de superficie o fracción, si el grado de\n        riesgo es alto;\n   d)   No exceder las distancias máximas de recorrido que se indican en la Tabla 1, por clase de fuego,\n        para acceder a cualquier extintor, tomando en cuenta las vueltas y rodeos necesarios:\n                                                       Tabla 1\n                                       Distancias máximas de recorrido\n                                      por tipo de riesgo y clase de fuego\n                   Riesgo de incendio                Distancia máxima al extintor (metros)\n                                                   Clases A, C y D           Clase B        Clase K\n                        Ordinario                          23                   15             10\n                        Alto                               23                  10*             10\n\n\n        * Los extintores para el tipo de riesgo de incendio alto y fuego clase B, se podrán ubicar a una distancia máxima\n        de 15 m, siempre que sean del tipo móvil.\n   e)   Los centros de trabajo o áreas que lo integran con sistemas automáticos de supresión, podrán contar\n        hasta con la mitad del número requerido de extintores que correspondan, de acuerdo con lo señalado\n        en los incisos b) y c) del presente numeral, siempre y cuando tengan una capacidad nominal de al\n        menos seis kilogramos o nueve litros;\n   f)   Colocarlos a una altura no mayor de 1.50 m, medidos desde el nivel del piso hasta la parte más alta\n        del extintor, y\n   g)   Protegerlos de daños y de las condiciones ambientales que puedan afectar su funcionamiento.",
+    "start_char": 39377,
+    "end_char": 41503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.18",
+    "label": "7.18 Proporcionar mantenimiento a los extintores como resultado de las revisiones mensuales. Dicho",
+    "text": "7.18 Proporcionar mantenimiento a los extintores como resultado de las revisiones mensuales. Dicho\nmantenimiento deberá estar garantizado conforme a lo establecido en la NOM-154-SCFI-2005, o las que la\nsustituyan, y habrá de proporcionarse al menos una vez por año. Cuando los extintores se sometan a\nmantenimiento, deberán ser reemplazados en su misma ubicación, por otros cuando menos del mismo tipo y\ncapacidad.",
+    "start_char": 41507,
+    "end_char": 41921
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:7-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "7.19",
+    "label": "7.19 Proporcionar la recarga a los extintores después de su uso y, en su caso, como resultado del",
+    "text": "7.19 Proporcionar la recarga a los extintores después de su uso y, en su caso, como resultado del\nmantenimiento, la cual deberá estar garantizada de acuerdo con lo establecido en la NOM-154-SCFI-2005, o\nlas que la sustituyan.",
+    "start_char": 41926,
+    "end_char": 42151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "8",
+    "label": "8. Plan de atención a emergencias de incendio",
+    "text": "8. Plan de atención a emergencias de incendio",
+    "start_char": 42155,
+    "end_char": 42200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "8.1",
+    "label": "8.1 El plan de atención a emergencias de incendio deberá contener, según aplique, lo siguiente:",
+    "text": "8.1 El plan de atención a emergencias de incendio deberá contener, según aplique, lo siguiente:\n   a)   La identificación y localización de áreas, locales o edificios y equipos de proceso, destinados a la\n        fabricación, almacenamiento o manejo de materias primas, subproductos, productos y desechos o\n        residuos que impliquen riesgo de incendio;\n\f        (Primera Sección)                        DIARIO OFICIAL                   Jueves 9 de diciembre de 2010\n\n   b)     La identificación de rutas de evacuación, salidas y escaleras de emergencia, zonas de menor riesgo\n          y puntos de reunión, entre otros;\n   c)     El procedimiento de alertamiento, en caso de ocurrir una emergencia de incendio, con base en el\n          mecanismo de detección implantado;\n   d)     Los procedimientos para la operación de los equipos, herramientas y sistemas fijos contra incendio, y\n          de uso del equipo de protección personal para los integrantes de las brigadas contra incendio;\n   e)     El procedimiento para la evacuación de los trabajadores, contratistas, patrones y visitantes, entre\n          otros, considerando a las personas con capacidades diferentes;\n   f)     Los integrantes de las brigadas contra incendio con responsabilidades y funciones a desarrollar;\n   g)     El equipo de protección personal para los integrantes de las brigadas contra incendio;\n   h)     El plan de ayuda mutua que se tenga con otros centros de trabajo;\n   i)     El procedimiento de solicitud de auxilio a cuerpos especializados para la atención a la emergencia\n          contra incendios, considerando el directorio de dichos cuerpos especializados de la localidad;\n   j)     Los procedimientos para el retorno a actividades normales de operación, para eliminar los riesgos\n          después de la emergencia, así como para la identificación de los daños;\n   k)     La periodicidad de los simulacros de emergencias de incendio por realizar;\n   l)     Los medios de difusión para todos los trabajadores sobre el contenido del plan de atención a\n          emergencias de incendio y de la manera en que ellos participarán en su ejecución, y\n   m)     Las instrucciones para atender emergencias de incendio.",
+    "start_char": 42204,
+    "end_char": 44411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "8.2",
+    "label": "8.2 Para centros de trabajo con riesgo de incendio alto, el plan de atención a emergencias de incendio",
+    "text": "8.2 Para centros de trabajo con riesgo de incendio alto, el plan de atención a emergencias de incendio\ndeberá contener, además de lo previsto en el numeral 8.1, lo siguiente:\n   a)     Las brigadas de primeros auxilios, de comunicación y de evacuación;\n   b)     Los procedimientos para realizar sus actividades, y\n   c)     Los recursos para desempeñar las funciones de las brigadas.",
+    "start_char": 44415,
+    "end_char": 44799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "9",
+    "label": "9. Brigadas contra incendio",
+    "text": "9. Brigadas contra incendio",
+    "start_char": 44803,
+    "end_char": 44830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "9.1",
+    "label": "9.1 Para determinar el número de integrantes de la(s) brigada(s) del centro de trabajo, se deberán",
+    "text": "9.1 Para determinar el número de integrantes de la(s) brigada(s) del centro de trabajo, se deberán\nconsiderar al menos:\n   a)     El número de trabajadores por turno del centro de trabajo;\n   b)     La asignación y rotación de trabajadores en los diferentes turnos, y\n   c)     Los resultados de los simulacros, con base en lo establecido en el numeral 10.3, incisos d), e), f) y g)\n          de la presente Norma, considerando los accidentes previsibles más graves que puedan llegar a\n          ocurrir en las diferentes áreas de las instalaciones.",
+    "start_char": 44834,
+    "end_char": 45383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "9.2",
+    "label": "9.2 Los integrantes de las brigadas deberán ser seleccionados entre los trabajadores que cuenten con",
+    "text": "9.2 Los integrantes de las brigadas deberán ser seleccionados entre los trabajadores que cuenten con\ndisposición para participar y con aptitud física y mental para desarrollar las funciones que se les asignen en el\nplan de atención a emergencias de incendio.",
+    "start_char": 45388,
+    "end_char": 45646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "9.3",
+    "label": "9.3 Las brigadas contra incendio deberán tener, al menos, las funciones siguientes:",
+    "text": "9.3 Las brigadas contra incendio deberán tener, al menos, las funciones siguientes:\n   a) Evaluar los riesgos de la situación de emergencia por incendio, a fin de tomar las decisiones y\nacciones que correspondan, a través del responsable de la brigada o, quien tome el mando a falta de éste, de\nacuerdo con el plan de atención a emergencias de incendio, y\n   b) Reconocer y operar los equipos, herramientas y sistemas fijos contra incendio, así como saber utilizar\nel equipo de protección personal contra incendio, de acuerdo con las instrucciones del fabricante, los\nprocedimientos establecidos y la capacitación proporcionada por el patrón o las personas capacitadas que\néste designe.",
+    "start_char": 45650,
+    "end_char": 46336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "10",
+    "label": "10. Simulacros de emergencias de incendio",
+    "text": "10. Simulacros de emergencias de incendio",
+    "start_char": 46340,
+    "end_char": 46381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "10.1",
+    "label": "10.1 Los simulacros de emergencias de incendio se deberán realizar por áreas o por todo el centro de",
+    "text": "10.1 Los simulacros de emergencias de incendio se deberán realizar por áreas o por todo el centro de\ntrabajo.",
+    "start_char": 46386,
+    "end_char": 46495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "10.2",
+    "label": "10.2 La planeación de los simulacros de emergencias de incendio deberá hacerse constar por escrito y",
+    "text": "10.2 La planeación de los simulacros de emergencias de incendio deberá hacerse constar por escrito y\ncontener al menos:\n\f   Jueves 9 de diciembre de 2010               DIARIO OFICIAL                               (Primera Sección)\n\n   a)   Los nombres de los encargados de coordinar el simulacro y de establecer las medidas de seguridad\n        por adoptar durante el mismo;\n   b)   La fecha y hora de ejecución;\n   c)   El alcance del simulacro: integral o por áreas del centro de trabajo, con o sin previo aviso, personal\n        involucrado, entre otros;\n   d)   La determinación del tipo de escenarios de emergencia más críticos que se pudieran presentar,\n        tomando en cuenta principalmente el tipo y cantidad de materiales inflamables o explosivos, las\n        características, el riesgo de incendio y la naturaleza de las áreas del centro de trabajo, así como las\n        funciones y actividades que realizará el personal involucrado;\n   e)   La secuencia de acciones por realizar durante el simulacro, y\n   f)   En su caso, la participación de los cuerpos especializados de la localidad para la atención a la\n        emergencia, de existir éstos, y si así lo prevé el tipo de escenario de emergencia planeado.",
+    "start_char": 46499,
+    "end_char": 47721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "10.3",
+    "label": "10.3 Los resultados de los simulacros de emergencias de incendio se deberán registrar con al menos la",
+    "text": "10.3 Los resultados de los simulacros de emergencias de incendio se deberán registrar con al menos la\ninformación siguiente:\n   a)   El nombre, denominación o razón social del centro de trabajo donde se desarrolló el simulacro,\n        incluyendo el domicilio completo;\n   b)   Las áreas del centro de trabajo en las que se realizó el simulacro;\n   c)   El número de personas que intervinieron;\n   d)   Los recursos utilizados durante el simulacro;\n   e)   La detección de desviaciones en las acciones planeadas;\n   f)   Las recomendaciones para actualizar el plan de atención a emergencias de incendio;\n   g)   La duración del simulacro, y\n   h)   Los nombres de los encargados de coordinarlo.",
+    "start_char": 47726,
+    "end_char": 48420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "11",
+    "label": "11. Capacitación",
+    "text": "11. Capacitación",
+    "start_char": 48424,
+    "end_char": 48440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "11.1",
+    "label": "11.1 Los trabajadores deberán ser capacitados para prevenir incendios en el centro de trabajo, de acuerdo",
+    "text": "11.1 Los trabajadores deberán ser capacitados para prevenir incendios en el centro de trabajo, de acuerdo\ncon los riesgos de incendio que se pueden presentar en sus áreas o puestos de trabajo, en los aspectos\nbásicos de riesgos de incendio y conceptos del fuego.",
+    "start_char": 48444,
+    "end_char": 48706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:11-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "11.2",
+    "label": "11.2 Los trabajadores deberán recibir entrenamiento teórico-práctico, según aplique, para:",
+    "text": "11.2 Los trabajadores deberán recibir entrenamiento teórico-práctico, según aplique, para:\n   a)   Manejar los extintores y/o sistemas fijos contra incendio;\n   b)   Actuar conforme al plan de atención a emergencias de incendio;\n   c)   Actuar y responder en casos de emergencia de incendio, así como para prevenir riesgos de incendio\n        en las áreas de trabajo donde se almacenen, procesen y manejen materiales inflamables o\n        explosivos, en lo referente a:\n        1)   Instalaciones eléctricas;\n        2)   Instalaciones de aprovechamiento de gas licuado de petróleo o natural;\n        3)   Prevención de actos inseguros que puedan propiciar incendios;\n        4)   Medidas de prevención de incendios, y\n        5)   Orden y limpieza.\n   d)   Participar en el plan de ayuda mutua que se tenga con otros centros de trabajo;\n   e)   Identificar un fuego incipiente y combatirlo, así como activar el procedimiento de alertamiento, y\n   f)   Conducir a visitantes del centro de trabajo en simulacros o en casos de emergencia de incendios, a\n        un lugar seguro.",
+    "start_char": 48710,
+    "end_char": 49786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:11-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "11.3",
+    "label": "11.3 Los brigadistas de los centros de trabajo clasificados con riesgo de incendio alto, deberán ser",
+    "text": "11.3 Los brigadistas de los centros de trabajo clasificados con riesgo de incendio alto, deberán ser\ncapacitados, además de lo establecido en los numerales 11.1 y 11.2, en la aplicación de las instrucciones\npara atender emergencias de incendio, en apego al plan de atención a emergencias de incendio, con los\ntemas siguientes:\n\f        (Primera Sección)                       DIARIO OFICIAL                     Jueves 9 de diciembre de 2010\n\n   a)     El contenido del plan de atención a emergencias de incendio, establecido en el Capítulo 8 de esta\n          Norma;\n   b)     Las estrategias, tácticas y técnicas para la extinción de fuegos incipientes o, en su caso, incendios,\n          de acuerdo con las emergencias potenciales del centro de trabajo y el plan de atención a\n          emergencias de incendio;\n   c)     Los procedimientos básicos de rescate y de primeros auxilios;\n   d)     La comunicación interna con trabajadores y brigadistas, y externa con grupos de auxilio;\n   e)     La coordinación de las brigadas con grupos externos de auxilio, para la atención de las situaciones\n          de emergencia;\n   f)     El funcionamiento, uso y mantenimiento de los equipos contra incendio;\n   g)     Las verificaciones de equipos para protección y combate de incendios, así como para el equipo de\n          primeros auxilios, y\n   h)     El manejo seguro de materiales inflamables o explosivos, en casos de emergencias, considerando\n          los aspectos siguientes:\n          1)   Las propiedades y características de dichos materiales, mismas que pueden ser consultadas en\n               sus respectivas hojas de datos de seguridad;\n          2)   Los riesgos por reactividad;\n          3)   Los riesgos a la salud;\n          4)   Los medios, técnicas y precauciones especiales para la extinción;\n          5)   Las contraindicaciones del combate de incendios, y\n          6)   Los métodos de mitigación para controlar la sustancia.",
+    "start_char": 49790,
+    "end_char": 51736
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:11-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "11.4",
+    "label": "11.4 El responsable de la brigada y quien sea designado para suplirle en sus ausencias, deberán recibir",
+    "text": "11.4 El responsable de la brigada y quien sea designado para suplirle en sus ausencias, deberán recibir\nademás capacitación en la toma de decisiones y acciones por adoptar, dependiendo de la magnitud y clase de\nfuego.",
+    "start_char": 51740,
+    "end_char": 51957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:11-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "11.5",
+    "label": "11.5 El programa anual de capacitación deberá contener, al menos, la información siguiente:",
+    "text": "11.5 El programa anual de capacitación deberá contener, al menos, la información siguiente:\n   a)     Los puestos de trabajo involucrados en la capacitación;\n   b)     Los temas de la capacitación de acuerdo con los numerales 11.1, 11.2 y 11.3;\n    c) Los tiempos de duración de los cursos, pláticas o actividades de capacitación y su periodo de\nejecución, y\n   d)     El nombre del responsable del programa.",
+    "start_char": 51961,
+    "end_char": 52369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "12",
+    "label": "12. Unidades de verificación",
+    "text": "12. Unidades de verificación",
+    "start_char": 52373,
+    "end_char": 52401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "12.1",
+    "label": "12.1 El patrón tendrá la opción de contratar unidades de verificación acreditadas y aprobadas, según lo",
+    "text": "12.1 El patrón tendrá la opción de contratar unidades de verificación acreditadas y aprobadas, según lo\nestablecido en la Ley Federal sobre Metrología y Normalización, para verificar o evaluar el cumplimiento con\nla presente Norma.",
+    "start_char": 52406,
+    "end_char": 52637
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "12.2",
+    "label": "12.2 El patrón podrá consultar el directorio vigente de las unidades de verificación acreditadas y",
+    "text": "12.2 El patrón podrá consultar el directorio vigente de las unidades de verificación acreditadas y\naprobadas por la Secretaría del Trabajo y Previsión Social, en la siguiente dirección electrónica:\nwww.stps.gob.mx.",
+    "start_char": 52641,
+    "end_char": 52855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:12-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "12.3",
+    "label": "12.3 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los",
+    "text": "12.3 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los\ncriterios de cumplimiento establecidos en el procedimiento para la evaluación de la conformidad del Capítulo\n13 de la presente Norma.",
+    "start_char": 52860,
+    "end_char": 53097
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:12-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "12.4",
+    "label": "12.4 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento de esta Norma",
+    "text": "12.4 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento de esta Norma\ndeberán emitir un dictamen, el cual habrá de contener:\n   a)     Datos del centro de trabajo:\n          1)   El nombre, denominación o razón social;\n          2)   El domicilio completo, y\n          3)   El nombre y firma del representante legal;\n\f   Jueves 9 de diciembre de 2010                   DIARIO OFICIAL                                  (Primera Sección)\n\n   b)   Datos de la unidad de verificación:\n         1)   El nombre, denominación o razón social;\n         2)   El número de registro otorgado por la entidad de acreditación;\n         3)   El número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;\n         4)   La fecha en que se otorgó la acreditación y aprobación;\n         5)   El resultado de la verificación;\n         6)   El nombre y firma del responsable de emitir el dictamen;\n         7)   El lugar y fecha de la firma del dictamen, y\n         8)   La vigencia del dictamen.",
+    "start_char": 53101,
+    "end_char": 54125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:12-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "12.5",
+    "label": "12.5 La vigencia de los dictámenes de cumplimiento de la presente Norma emitidos por las unidades de",
+    "text": "12.5 La vigencia de los dictámenes de cumplimiento de la presente Norma emitidos por las unidades de\nverificación será de tres años.",
+    "start_char": 54130,
+    "end_char": 54262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "13",
+    "label": "13. Procedimiento para la evaluación de la conformidad",
+    "text": "13. Procedimiento para la evaluación de la conformidad",
+    "start_char": 54266,
+    "end_char": 54320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:13-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "13.1",
+    "label": "13.1 Este procedimiento para la evaluación de la conformidad aplica tanto para la autoridad laboral, en",
+    "text": "13.1 Este procedimiento para la evaluación de la conformidad aplica tanto para la autoridad laboral, en\nejercicio de sus facultades de vigilancia o al verificar el cumplimiento de la Norma, en el marco de las\nevaluaciones integrales del Programa de Autogestión en Seguridad y Salud en el Trabajo, así como para las\nunidades de verificación.",
+    "start_char": 54325,
+    "end_char": 54665
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:13-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "13.2",
+    "label": "13.2 Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se realiza,",
+    "text": "13.2 Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se realiza,\nsegún aplique, mediante la constatación física, revisión documental, registros o entrevista, de conformidad con\nlo siguiente:\n                    Tipo de\n  Disposición                               Criterio de aceptación                         Observaciones\n                   evaluación\n\n 5.1, A.1 y A.2   Documental    El patrón cumple cuando:                         Es válido que el patrón determine el\n                                 Presenta evidencia documental de la riesgo de incendio de manera integral o\n                                    clasificación del riesgo de incendio del por áreas que lo integran, tales como\n                                    centro de trabajo, o por áreas que lo plantas, edificios o niveles.\n                                    integran, la cual contiene:                  Se podrán evidenciar los inventarios de\n                                     El nombre, denominación o razón materiales, sustancias o productos que\n                                          social o identificación específica del se almacenen, procesen y manejen en el\n                                          centro de trabajo;                     centro de trabajo, exhibiendo los\n                                     El domicilio completo del centro de registros de las adquisiciones y/o\n                                          trabajo;                               existencias de éstos.\n                                         La descripción general del proceso\n                                          productivo, así como los materiales\n                                          y cantidades que se emplean en\n                                          dichos procesos;\n                                         El número máximo de trabajadores\n                                          por turnos de trabajo o, en su caso,\n                                          los ubicados en locales, edificios o\n                                          niveles del centro de trabajo;\n                                         El número máximo estimado de\n                                          personas externas al centro de\n                                          trabajo que concurren a éste, tales\n                                          como contratistas y visitantes;\n                                         La superficie construida en metros\n                                          cuadrados;\n                                         El desglose del inventario máximo\n                                          que se haya registrado en el\n                                          transcurso de un año, de los\n                                          materiales, sustancias o productos\n                                          que se almacenen, procesen y\n                                          manejen en el centro de trabajo, y la\n                                          clasificación correspondiente en\n                                          cada caso, según lo establecido en\n                                          la Tabla A.1;\n\f      (Primera Sección)                     DIARIO OFICIAL                   Jueves 9 de diciembre de 2010\n\n                                  El desglose de inventarios y la\n                                   clasificación correspondiente para\n                                   cada una de las áreas que integran\n                                   el centro de trabajo, cuando la\n                                   clasificación se haya efectuado de\n                                   manera independiente;\n                                  El cálculo desarrollado para la\n                                   determinación final del riesgo de\n                                   incendio;\n                                  La fecha de realización de la\n                                   determinación final del riesgo de\n                                   incendio;\n                                  El tipo de riesgo de incendio\n                                   (ordinario o alto), y\n                                  El nombre(s) de la(s) persona(s)\n                                   responsable(s) de la clasificación\n                                   realizada.\n5.2             Física    El patrón cumple cuando, al realizar un Es válido que se cuente en el centro de\n                          recorrido por el centro de trabajo, se constata trabajo con un solo croquis, plano o\n                          que:                                            mapa del centro de trabajo.\n                             Se cuenta con un croquis, plano o mapa\n                              general del centro de trabajo, o por áreas\n                              que lo integran, tales como plantas,\n                              edificios o niveles, actualizado y colocado\n                              en los principales lugares de entrada,\n                              tránsito, reunión o puntos comunes de\n                              estancia o servicios para los trabajadores,\n                              y\n                             El croquis, plano o mapa contiene, al\n                              menos, los datos siguientes:\n                                  El nombre, denominación o razón\n                                   social del centro de trabajo y su\n                                   domicilio;\n                                  La identificación de los predios\n                                   colindantes;\n                                  La identificación de las principales\n                                   áreas o zonas del centro de trabajo\n                                   con riesgo de incendio, debido a la\n                                   presencia de material inflamable,\n                                   combustible, pirofórico o explosivo,\n                                   entre otros;\n                                  La ubicación de los medios de\n                                   detección de incendio, así como de\n                                   los equipos y sistemas contra\n                                   incendio;\n                                  Las     rutas    de     evacuación,\n                                   incluyendo, al menos, la ruta de\n                                   salida y la descarga de salida,\n                                   además      de  las    salidas   de\n                                   emergencia,       escaleras      de\n                                   emergencia y lugares seguros;\n                                  La ubicación del equipo de\n                                   protección   personal   para   los\n                                   integrantes de las brigadas contra\n                                   incendio, y\n                                  La ubicación de materiales y equipo\n                                   para prestar los primeros auxilios.\n\f  Jueves 9 de diciembre de 2010                 DIARIO OFICIAL                                      (Primera Sección)\n\n5.3            Documental     El patrón cumple cuando:                      Los elementos de difusión pueden ser\n                                                                            folletos, trípticos, carteles, videos o\n                                 Presenta evidencia documental de que\n                                                                            pláticas documentadas, entre otros,\n                                  cuenta con las instrucciones de seguridad\n                                                                            asociados con los riesgos de incendio de\n                                  aplicables en cada área del centro de\n                                  trabajo, y                                las áreas del centro de trabajo.\n\n                                 Demuestra que difunde las instrucciones\n                                  de seguridad aplicables en cada área del\n                                  centro de trabajo, entre trabajadores,\n                                  contratistas   y     visitantes,  según\n                                  corresponda.\n               Entrevista     El patrón cumple cuando al entrevistar a los\n                              trabajadores, seleccionados de acuerdo con\n                              el criterio muestral de la Tabla 2, del numeral\n                              13.4, se constata que éstos conocen las\n                              instrucciones aplicables en el centro de\n                              trabajo.\n\n5.4 y 7        Documental     El patrón cumple cuando presenta evidencia\n                              documental de que:\n                                 Cuenta con instrucciones de seguridad\n                                  aplicables en cada área del centro trabajo\n                                  al alcance de los trabajadores, incluidas\n                                  las relativas a la ejecución de trabajos en\n                                  caliente en las áreas en las que se\n                                  puedan presentar incendios, y supervisa\n                                  que éstas se cumplan;\n                                 Elabora un programa anual de revisión Para los de equipos de nueva\n                                  mensual de los extintores, y vigila que los adquisición no se requerirá la revisión de\n                                  extintores cumplan con las condiciones los aspectos contenidos en el numeral\n                                  siguientes:                                 7.2, inciso l), sub incisos 7) y 8), e inciso\n                                                                              m).\n                                   Que se encuentren en la ubicación\n                                       asignada en el plano a que se\n                                       refiere el numeral 5.2, inciso d);\n                                      Que su ubicación sea en lugares\n                                       visibles, de fácil acceso y libres de\n                                       obstáculos;\n                                      Que se encuentren señalizados, de\n                                       conformidad con lo que establece la\n                                       NOM-026-STPS-2008 o la NOM-\n                                       003-SEGOB-2002, o las que las\n                                       sustituyan;\n                                      Que cuenten con el sello o fleje de\n                                       garantía sin violar;\n                                      Que la aguja del manómetro indique\n                                       la presión en la zona verde\n                                       (operable), en el caso de extintores\n                                       cuyo recipiente esté presurizado\n                                       permanentemente y que contengan\n                                       como agente extintor agua, agua\n                                       con aditivos, espuma, polvo químico\n                                       seco, halones, agentes limpios o\n                                       químicos húmedos;\n                                      Que mantengan la capacidad\n                                       nominal indicada por el fabricante en\n                                       la etiqueta, en el caso de extintores\n                                       con bióxido de carbono como agente\n                                       extintor;\n\f(Primera Sección)                DIARIO OFICIAL                  Jueves 9 de diciembre de 2010\n\n                       Que no hayan sido activados, de\n                        acuerdo con el dispositivo que el\n                        fabricante incluya en el extintor para\n                        detectar su activación, en el caso de\n                        extintores que contengan como\n                        agente extintor polvo químico seco,\n                        y que se presurizan al momento de\n                        operarlos por medio de gas\n                        proveniente     de    cartuchos      o\n                        cápsulas, internas o externas;\n                       Que se verifiquen las condiciones de\n                        las ruedas de los extintores móviles;\n                       Que no existan daños físicos\n                        evidentes, tales como corrosión,\n                        escape de presión, obstrucción,\n                        golpes o deformaciones;\n\n                       Que no existan daños físicos, tales\n                        como     roturas, desprendimientos,\n                        protuberancias o perforaciones, en\n                        mangueras, boquillas o palanca de\n                        accionamiento, que puedan propiciar\n                        su mal funcionamiento;\n                       Que el extintor sea puesto fuera de\n                        servicio cuando presente daño que\n                        afecte su operación, o dicho daño no\n                        pueda ser reparado, en cuyo caso\n                        sea sustituido por otro de las\n                        mismas        características      y\n                        condiciones de operación;\n                       Que la etiqueta, placa o grabado se\n                        encuentren     legibles     y   sin\n                        alteraciones;\n                       Que la etiqueta cuente con la\n                        siguiente   información   vigente,\n                        después de cada mantenimiento:\n                        ●    El nombre, denominación o\n                             razón social, domicilio y\n                             teléfono del prestador de\n                             servicios;\n                        ●    La capacidad nominal en\n                             kilogramos o litros y el agente\n                             extintor;\n                        ●    Las instrucciones de operación,\n                             breves y de fácil comprensión,\n                             apoyadas mediante figuras o\n                             símbolos;\n                        ●    La clase de fuego a que está\n                             destinado el equipo;\n                        ●    Las contraindicaciones de uso,\n                             cuando aplique;\n                        ●    La contraseña oficial del\n                             cumplimiento       con       la\n                             normatividad vigente aplicable,\n                             de    conformidad    con     lo\n                             dispuesto por la Norma Oficial\n                             Mexicana       NOM-106-SCFI-\n                             2000, o las que la sustituyan,\n                             en su caso;\n                        ●    El mes y año del último servicio\n\fJueves 9 de diciembre de 2010                 DIARIO OFICIAL                                   (Primera Sección)\n\n                                          de mantenimiento realizado, y\n                                     ●    La contraseña       oficial de\n                                          cumplimiento con la Norma\n                                          NOM-154-SCFI-2005, o las que\n                                          la sustituyan, y el número de\n                                          dictamen de cumplimiento con\n                                          la misma;\n                               Cuenten los extintores de polvo químico\n                                seco con el collarín que establece la\n                                NOM-154-SCFI-2005, o las que la\n                                sustituyan;\n                               Establezca y dé seguimiento a un El programa anual de revisión y pruebas\n                                programa anual de revisión y pruebas a a los sistemas de detección y de equipos\n                                los equipos contra incendio, a los medios fijos contra incendio, sólo será requerido\n                                de detección y, en su caso, a las alarmas para áreas de los centros de trabajo\n                                de incendio y sistemas fijos contra clasificadas con riesgo de incendio alto.\n                                incendio;\n                               Someta a mantenimiento a los equipos,\n                                sistemas y medios de detección contra\n                                incendio, por personal capacitado para tal\n                                fin, cuando derivado de la revisión y\n                                pruebas, se encontrara que existe daño o\n                                deterioro en los mismos;\n                               Establezca y dé seguimiento a un\n                                programa anual de revisión a las\n                                instalaciones eléctricas de las áreas del\n                                centro de trabajo, con énfasis en aquéllas\n                                clasificadas como de riesgo de incendio\n                                alto, a fin de identificar y corregir\n                                condiciones inseguras que puedan existir,\n                                el cual comprenda, al menos, los\n                                elementos siguientes:\n                                    Tableros de distribución;\n                                    Conductores;\n                                    Canalizaciones, incluyendo    los\n                                     conductores y espacios libres en\n                                     éstas;\n                                    Cajas de conexiones;\n                                    Contactos;\n                                    Interruptores;\n                                    Luminarias;\n                                    Protecciones, incluyendo las de\n                                     cortocircuito  -fusibles,    cuchillas\n                                     desconectadoras,           interruptor\n                                     automático,   dispositivos     termo-\n                                     magnéticos, entre otros-, en circuitos\n                                     alimentadores y derivados, y\n                                    Puesta a      tierra   de   equipos   y\n                                     circuitos;\n                               El programa anual de revisión a las\n                                instalaciones eléctricas:\n                                    Sea elaborado y aplicado por\n                                     personal previamente capacitado y\n                                     autorizado por el patrón;\n                                    Comprenda la revisión de los\n                                     aspectos      siguientes:     puntos\n                                     calientes de la instalación eléctrica,\n                                     aislamientos o conexiones rotas o\n                                     flojas, expuestas o quemadas;\n\f(Primera Sección)                       DIARIO OFICIAL                   Jueves 9 de diciembre de 2010\n\n                               sobrecargas (varias cargas en un\n                               solo tomacorriente); alteraciones, e\n                               improvisaciones, entre otras, y\n                              Se sometan las instalaciones\n                               eléctricas con daños o deterioro, al\n                               mantenimiento correspondiente, por\n                               personal capacitado para tal fin, de\n                               conformidad con lo dispuesto por la\n                               NOM-029-STPS-2005, o las que la\n                               sustituyan;\n                         Establezca y dé seguimiento a un\n                          programa anual de revisión a las\n                          instalaciones de gas licuado de petróleo\n                          y/o natural, a fin de identificar y corregir\n                          condiciones inseguras que puedan existir,\n                          mismo que contenga, al menos, los\n                          elementos siguientes:\n                              La integridad de los elementos que\n                               componen la instalación, y\n                              La señalización de las tuberías de la\n                               instalación, conforme a lo establecido\n                               por la NOM-026-STPS-2008, o las\n                               que la sustituyan, la cual se conserva\n                               visible y legible;\n                         El programa anual de revisión a las\n                          instalaciones de gas licuado de petróleo\n                          y/o natural:\n                              Sea elaborado y aplicado por\n                               personal previamente capacitado y\n                               autorizado por el patrón, y\n                              Se sometan las instalaciones de gas\n                               licuado de petróleo y/o natural con\n                               daños o deterioro, al mantenimiento\n                               correspondiente, por personal\n                               capacitado para tal fin.\n          Registros   El patrón cumple cuando cuenta con los\n                      registros de:\n                         Los resultados de la revisión mensual a\n                          los extintores, que al menos contenga:\n                              La fecha de la revisión;\n                              El nombre o identificación          del\n                               personal que realizó la revisión;\n                              Los resultados de la          revisión\n                               mensual a los extintores;\n                              Las anomalías identificadas, y\n                              El seguimiento de las anomalías\n                               identificadas.\n                         Los resultados de los programas anuales\n                          de revisión a que se refieren los\n                          numerales 7.4, 7.5 y 7.6, que al menos\n                          contengan:\n                              El nombre, denominación o razón\n                               social y domicilio completo del\n                               centro de trabajo;\n                              La fecha de la revisión;\n                              Las áreas revisadas;\n                              Las     anomalías detectadas  y\n                               acciones determinadas para su\n                               corrección y seguimiento, en su\n                               caso, y\n                              El   nombre     y   puesto    de    los\n\fJueves 9 de diciembre de 2010                 DIARIO OFICIAL                               (Primera Sección)\n\n                                     responsables de la revisión.\n             Física         El patrón cumple cuando, al realizar un\n                            recorrido por el centro de trabajo, se constata\n                            que:\n                               Se cuenta, con la señalización que\n                                prohíba fumar, generar flama abierta o\n                                chispas      e      introducir      objetos\n                                incandescentes, cerillos, cigarrillos o, en\n                                su caso, utilizar teléfonos celulares,\n                                aparatos de radiocomunicación, u otros\n                                que puedan provocar ignición por no ser\n                                intrínsecamente seguros, en las áreas en\n                                donde se produzcan, almacenen o\n                                manejen     materiales    inflamables     o\n                                explosivos,   así    como      que    dicha\n                                señalización cumpla con lo establecido por\n                                la NOM-026-STPS-2008 o la NOM-003-\n                                SEGOB-2002, o las que las sustituyan;\n                               Se cuenta, en su caso, con señalización\n                                en la proximidad de los elevadores, que\n                                prohíba su uso en caso de incendio, de\n                                conformidad con lo establecido en la\n                                NOM-003-SEGOB-2002, o las que la\n                                sustituyan;\n                               Se prohíbe y evita el bloqueo, daño,\n                                inutilización o uso inadecuado de los\n                                equipos y sistemas contra incendio, los\n                                equipos de protección personal para la\n                                respuesta a emergencias, así como los\n                                señalamientos de evacuación, prevención\n                                y de equipos y sistemas contra incendio,\n                                entre otros;\n                               Se establecen controles de acceso para Los controles de acceso a las áreas con\n                                los trabajadores y demás personas que riesgo de incendio donde se almacenen,\n                                ingresen a las áreas donde se procesen               o    manejen    materiales\n                                almacenen,      procesen     o   manejen inflamables o explosivos, pueden\n                                materiales inflamables o explosivos;     consistir en puertas con cerrojos,\n                               Se adoptan las medidas de seguridad candados, acordonamiento, entre otras\n                                para    prevenir     la    generación  y medidas y, adicionalmente, contar con\n                                acumulación de electricidad estática en supervisión y señalización de acceso\n                                las áreas donde se manejen materiales sólo para personal designado.\n                                inflamables o explosivos, de conformidad\n                                con lo establecido en la NOM-022-STPS-\n                                2008, o las que la sustituyan;\n                               Se controla en dichas áreas el uso de\n                                herramientas, ropa, zapatos y objetos\n                                personales que puedan generar chispa,\n                                flama abierta o altas temperaturas;\n                               Se cuenta con las medidas o\n                                procedimientos de seguridad, para el uso\n                                de equipos de calefacción, calentadores,\n                                hornos, parrillas u otras fuentes de calor,\n                                en las áreas donde existan materiales\n                                inflamables o explosivos, y se supervisa\n                                que se cumplan;\n                               Se prohíbe y evita que se almacenen\n                                materiales o coloquen objetos que\n                                obstruyan e interfieran el acceso al\n                                equipo contra incendio o a los\n                                dispositivos de alarma de incendio o\n                                activación manual de los sistemas fijos\n                                contra incendio;\n\f(Primera Sección)                    DIARIO OFICIAL                   Jueves 9 de diciembre de 2010\n\n                       Se cuenta con rutas de evacuación que\n                        cumplan con las condiciones siguientes:\n                         Que estén señalizadas, en lugares\n                            visibles, de conformidad con lo\n                            dispuesto por la NOM-026-STPS-\n                            2008 o la NOM-003-SEGOB-2002, o\n                            las que las sustituyan;\n                         Que se encuentren libres de\n                            obstáculos       que     impidan       la\n                            circulación de los trabajadores y\n                            demás ocupantes;\n                         Que dispongan de dispositivos de Los dispositivos de iluminación de\n                            iluminación de emergencia que emergencia sólo se requerirán cuando\n                            permitan percibir el piso y cualquier las señales no sean de materiales\n                            modificación en su superficie, fotoluminiscentes.\n                            cuando se interrumpa la energía\n                            eléctrica o falte iluminación natural;\n                           Que la distancia por recorrer desde\n                            el punto más alejado del interior de\n                            una edificación, hacia cualquier\n                            punto de la ruta de evacuación, no\n                            sea mayor de 40 m. En caso\n                            contrario, el tiempo máximo de\n                            evacuación de los ocupantes a un\n                            lugar seguro sea de tres minutos;\n                           Que las escaleras eléctricas sean\n                            consideradas parte de una ruta de\n                            evacuación, previo bloqueo de la\n                            energía que las alimenta y de su\n                            movimiento;\n                           Que los elevadores eléctricos no\n                            sean considerados parte de una ruta\n                            de evacuación y no se usen en caso\n                            de incendio;\n                           Que los desniveles o escalones en\n                            los pasillos y corredores de las rutas\n                            de evacuación estén señalizados de\n                            conformidad con la NOM-026-STPS-\n                            2008 o la NOM-003-SEGOB-2002, o\n                            las que las sustituyan, y\n\n                           Que en el recorrido de las escaleras\n                            de emergencia exteriores de los\n                            centros de trabajo de nueva\n                            creación, las ventanas, fachadas de\n                            vidrio o cualquier otro tipo de\n                            aberturas, no representen un factor\n                            de riesgo en su uso durante una\n                            situación    de    emergencia     de\n                            incendio;\n\n                       Se cuenta con salidas normales y/o de Las salidas de emergencia no se\n                        emergencia que cumplan con las requerirán cuando las salidas normales\n                        condiciones siguientes:               realicen esta función.\n\n                           Que estén identificadas conforme a En caso de que por razones de\n                            lo señalado en la NOM-026-STPS- seguridad u otras similares una salida de\n                            2008 o la NOM-003-SEGOB-2002, o emergencia       no    deba     utilizarse\n                            las que las sustituyan;            regularmente como medio de ingreso-\n                                                               egreso a un edificio o local, puede\n                           Que comuniquen a un descanso, en\n                                                               utilizarse un dispositivo de alarma\n\fJueves 9 de diciembre de 2010                 DIARIO OFICIAL                                    (Primera Sección)\n\n                                     caso de acceder a una escalera;            automática para indicar que se ha\n                                                                                abierto dicha salida.\n                                    Que en las salidas de emergencia,\n                                     las puertas abran en el sentido del\n                                     flujo, salvo que sean automáticas y\n                                     corredizas;\n                                    Que las puertas sean de materiales\n                                     resistentes al fuego y capaces de\n                                     impedir el paso del humo entre\n                                     áreas de trabajo, en caso de quedar\n                                     clasificados el área o centro de\n                                     trabajo como de riesgo de incendio\n                                     alto, y se requiera impedir la\n                                     propagación de un incendio hacia\n                                     una ruta de evacuación o áreas\n                                     contiguas     por    presencia    de\n                                     materiales inflamables o explosivos;\n\n                                    Que las puertas de emergencia\n                                     cuenten con un mecanismo que\n                                     permita abrirlas desde el interior,\n                                     mediante una operación simple de\n                                     empuje;\n                                    Que las puertas consideradas cómo\n                                     salidas de emergencia estén libres\n                                     de obstáculos, candados, picaportes\n                                     o cerraduras con seguros puestos\n                                     durante las horas laborales, que\n                                     impidan su utilización en casos de\n                                     emergencia, y\n                                    Que cuando sus puertas sean\n                                     consideradas como salidas de\n                                     emergencia, y funcionen en forma\n                                     automática, o mediante dispositivos\n                                     eléctricos o electrónicos, permitan la\n                                     apertura manual, si llega a\n                                     interrumpirse la energía eléctrica en\n                                     situaciones de emergencia;\n                               Se tienen instalados extintores en las\n                                áreas del centro de trabajo, conforme a lo\n                                siguiente:\n                                    Acordes con la clase de fuego que\n                                     se pueda presentar;\n                                    Colocados al menos uno por cada\n                                     300 metros cuadrados de superficie\n                                     o fracción, si su grado de riesgo es\n                                     ordinario;\n                                    Colocados al menos uno por cada\n                                     200 metros cuadrados de superficie o\n                                     fracción, si su grado de riesgo es alto;\n                                    Colocados sin exceder las distancias\n                                     máximas de recorrido que se indican\n                                     en la Tabla 1 del numeral 7.17,\n                                     inciso d), de la presente Norma, por\n                                     clase de fuego, para acceder a ellos,\n                                     tomando en cuenta las vueltas y\n                                     rodeos necesarios;\n\f     (Primera Sección)                        DIARIO OFICIAL                     Jueves 9 de diciembre de 2010\n\n                                    Colocados a una altura no mayor de\n                                     1.50 m, medidos desde el nivel del\n                                     piso hasta la parte más alta del\n                                     extintor, y\n                                    Protegidos de daños y de las\n                                     condiciones     ambientales    que\n                                     puedan afectar su funcionamiento;\n                               Se tienen instalados al menos la mitad\n                                del número requerido de extintores que le\n                                correspondan, de acuerdo con lo\n                                señalado en el numeral 7.17, incisos b) y\n                                c), de la presente Norma, siempre y\n                                cuando tengan una capacidad nominal de\n                                al menos seis kilogramos o nueve litros,\n                                en el caso de que los centros de trabajo o\n                                las áreas que lo integran cuenten con\n                                sistemas automáticos de supresión;\n                               Se proporciona mantenimiento a los\n                                extintores como resultado de las\n                                revisiones   mensuales,      garantizado\n                                conforme a lo establecido en la NOM-\n                                154-SCFI-2005, o las que la sustituyan, y\n                                al menos una vez por año;\n                               Se reemplacen los extintores que se\n                                sometan a mantenimiento en su misma\n                                ubicación, por otros cuando menos del\n                                mismo tipo y capacidad, y\n                             Se proporcione la recarga a los extintores\n                              después de su uso y, en su caso, como\n                              resultado del mantenimiento, garantizada\n                              de acuerdo con lo establecido en la NOM-\n                              154-SCFI-2005, o las que la sustituyan.\n5.5 y 8        Documental   El patrón cumple cuando:                     Se considerarán cumplidos los requisitos\n                               Presenta evidencia documental de que del Capítulo 8, cuando el Plan de\n                                cuenta con el plan de atención a Contingencias vigente y autorizado por\n                                emergencias de incendio que contenga, la Autoridad Competente de Protección\n                                según aplique, lo siguiente:             Civil,    contenga     los      requisitos\n                                                                         establecidos en dicho capítulo.\n                                 La identificación y localización de\n                                    áreas, locales o edificios y equipos\n                                    de proceso, destinados a la\n                                    fabricación,     almacenamiento    o\n                                    manejo      de     materias  primas,\n                                    subproductos, productos y desechos\n                                    o residuos que impliquen riesgo de\n                                    incendio;\n                                    La identificación de rutas de\n                                     evacuación, salidas y escaleras de\n                                     emergencia, zonas de menor riesgo\n                                     y puntos de reunión, entre otros;\n                                    El procedimiento de alertamiento, en\n                                     caso de ocurrir una emergencia de\n                                     incendio, con base en el mecanismo\n                                     de detección implantado;\n                                    Los    procedimientos     para    la\n                                     operación    de     los     equipos,\n                                     herramientas y sistemas fijos contra\n                                     incendio, y de uso del equipo de\n\f  Jueves 9 de diciembre de 2010                DIARIO OFICIAL                               (Primera Sección)\n\n                                      protección   personal   para   los\n                                      integrantes de las brigadas contra\n                                      incendio;\n                                     El procedimiento para la evacuación\n                                      de los trabajadores, contratistas,\n                                      patrones, y visitantes, entre otros,\n                                      considerando a las personas con\n                                      capacidades diferentes;\n                                     Los integrantes de las brigadas\n                                      contra         incendio      con\n                                      responsabilidades y funciones a\n                                      desarrollar;\n                                     El equipo de protección personal\n                                      para los integrantes de las brigadas\n                                      contra incendio;\n                                     El plan de ayuda mutua que se\n                                      tenga con otros centros de trabajo,\n                                      en su caso;\n                                     El procedimiento de solicitud de\n                                      auxilio a cuerpos especializados\n                                      para la atención a la emergencia\n                                      contra incendios, considerando el\n                                      directorio  de     dichos    cuerpos\n                                      especializados de la localidad;\n                                     Los procedimientos para el retorno a\n                                      actividades normales de operación,\n                                      para eliminar los riesgos después de\n                                      la emergencia, así como para la\n                                      identificación de los daños;\n                                     La periodicidad de los simulacros de\n                                      emergencias de incendio por\n                                      realizar;\n                                     Los medios de difusión para todos\n                                      los trabajadores sobre el contenido\n                                      del plan de atención a emergencias\n                                      de incendio y de la manera en que\n                                      ellos participarán en su ejecución, y\n                                     Las instrucciones para       atender\n                                      emergencias de incendio;\n                                 En el caso de los centros de trabajo con\n                                  riesgo de incendio alto, el plan de\n                                  atención a emergencias de incendio,\n                                  además de lo requerido en el punto\n                                  anterior correspondiente al numeral 8.1,\n                                  contiene lo siguiente:\n                                     Las brigadas de primeros auxilios,\n                                      de comunicación y de evacuación;\n                                     Los procedimientos para realizar sus\n                                      actividades, y\n                                     Los recursos para desempeñar las\n                                      funciones de las brigadas.\n5.6 y 9        Documental     El patrón cumple cuando presenta evidencia Esta obligación aplica exclusivamente a\n                              documental de que tiene integrada(s) la(s) centros de trabajo clasificados con\n                              brigada(s) contra incendio, de acuerdo con lo riesgo de incendio alto.\n                              siguiente:\n                                 Se consideró, para determinar el número\n                                  de integrantes de la(s) brigada(s) del\n                                  centro de trabajo, al menos:\n                                     El número de trabajadores por turno\n\f     (Primera Sección)                        DIARIO OFICIAL                   Jueves 9 de diciembre de 2010\n\n                                     del centro de trabajo;\n                                    La asignación y rotación de\n                                     trabajadores en los diferentes\n                                     turnos, y\n                                 Los resultados de los simulacros con\n                                     base en lo establecido en el numeral\n                                     10.3, incisos d), e), f) y g) de la\n                                     presente Norma, considerando los\n                                     accidentes previsibles más graves\n                                     que puedan llegar a ocurrir en las\n                                     diferentes      áreas     de     las\n                                     instalaciones;\n                               Los integrantes de las brigadas se\n                                seleccionan entre los trabajadores que\n                                cuenten con disposición para participar y\n                                con aptitud física y mental para\n                                desarrollar las funciones que se les\n                                asignen en el plan de atención a\n                                emergencias de incendio, y\n                               Las brigadas contra incendio tienen, al\n                                menos, las funciones siguientes:\n                                    Evaluar los riesgos de la situación\n                                     de emergencia por incendio, a fin de\n                                     tomar las decisiones y acciones que\n                                     correspondan,     a    través    del\n                                     responsable de la brigada o, quien\n                                     tome el mando a falta de éste, de\n                                     acuerdo con el plan de atención a\n                                     emergencias de incendio, y\n                                    Reconocer y operar los equipos,\n                                     herramientas y sistemas fijos contra\n                                     incendio, así como saber utilizar el\n                                     equipo de protección personal\n                                     contra incendio, de acuerdo con las\n                                     instrucciones del fabricante, los\n                                     procedimientos establecidos y la\n                                     capacitación impartida por el patrón\n                                     o las personas capacitadas que éste\n                                     designe.\n5.7 y 10       Documental   El patrón cumple cuando presenta evidencia Es válido que los simulacros de\n                            documental de que la planeación por áreas o emergencias de incendio se realicen por\n                            por todo el centro de trabajo de los áreas o por todo el centro de trabajo.\n                            simulacros de emergencias de incendio,\n                            contiene al menos:\n                               Los nombres de los encargados de\n                                coordinar el simulacro y de establecer las\n                                medidas de seguridad por adoptar\n                                durante el mismo;\n                               La fecha y hora de ejecución;\n                               El alcance del simulacro: integral o por\n                                áreas del centro de trabajo, con o sin\n                                previo aviso, personal involucrado, entre\n                                otros;\n                               La determinación del tipo de escenarios\n                                de emergencia más críticos que se\n                                pudieran presentar, tomando en cuenta\n                                principalmente el tipo y cantidad de\n                                materiales inflamables o explosivos, las\n                                características, el riesgo de incendio y la\n                                naturaleza de las áreas del centro de\n\f Jueves 9 de diciembre de 2010                 DIARIO OFICIAL                                (Primera Sección)\n\n                                 trabajo, así como las funciones y\n                                 actividades que realizará el personal\n                                 involucrado;\n                                La secuencia de acciones por realizar\n                                 durante el simulacro, y\n                                En su caso, la participación de los\n                                 cuerpos especializados de la localidad\n                                 para la atención a la emergencia, de\n                                 existir éstos, y si así lo prevé el tipo de\n                                 escenario de emergencia planeado.\n              Registros      El patrón cumple cuando presenta evidencia\n                             del registro de los resultados de los\n                             simulacros de emergencias de incendio,\n                             realizados al menos una vez al año, en el\n                             caso de centros de trabajo clasificados con\n                             riesgo de incendio ordinario, o al menos dos\n                             veces al año, tratándose de centros de\n                             trabajo con riesgo de incendio alto, que\n                             contenga al menos, la información siguiente:\n                                El nombre, denominación o razón social\n                                 del centro de trabajo donde se desarrolló\n                                 el simulacro, incluyendo el domicilio\n                                 completo;\n                                Las áreas del centro de trabajo en las que\n                                 se realizó el simulacro;\n                                El número de personas que intervinieron;\n                                Los recursos      utilizados   durante   el\n                                 simulacro;\n                                La detección de desviaciones en las\n                                 acciones planeadas;\n                                Las recomendaciones para actualizar el\n                                 plan de atención a emergencias de\n                                 incendio;\n                                La duración del simulacro, y\n                                Los nombres de los encargados de\n                                 coordinarlo.\n5.8 y 11      Documental     El patrón cumple cuando presenta evidencia El cumplimiento a lo previsto por los\n                             documental de que:                         numerales 5.8 y 11, se puede acreditar\n                              Cuenta con un programa de capacitación de manera documental o por medio de\n                                 anual teórico-práctico en materia de entrevistas, a elección del patrón.\n                                 prevención de incendios y atención de\n                                 emergencias;\n                                Capacita a los trabajadores en los La acreditación de manera documental,\n                                 aspectos básicos de riesgos de incendio podrá efectuarse por medio de\n                                 y conceptos del fuego;                   programas de capacitación, certificados,\n                                Proporciona       a    los  trabajadores constancias       de       habilidades,\n                                 entrenamiento teórico-práctico, según reconocimientos o diplomas de los\n                                 aplique, para:                           cursos recibidos, así como videos y\n                                                                          fotografías.\n                                  Manejar los extintores y/o sistemas\n                                      fijos contra incendio;\n                                     Actuar conforme al plan de atención Se considerará que se cumple con la\n                                      a emergencias de incendio;           capacitación, cuando    presente    el\n                                     Actuar y responder en casos de programa correspondiente y éste se\n                                      emergencia de incendio, así como encuentre en ejecución, siempre que el\n                                      para prevenir riesgos de incendio en avance cubra lo programado a la fecha\n                                      las áreas de trabajo donde se en que se realice la vigilancia o\n                                      almacenen, procesen y manejen evaluación de la conformidad.\n                                      materiales inflamables o explosivos,\n                                      en lo referente a:\n\f(Primera Sección)                     DIARIO OFICIAL                      Jueves 9 de diciembre de 2010\n\n                             ●    Instalaciones eléctricas;        El entrenamiento sobre el manejo de los\n                             ●    Instalaciones                 de extintores y/o sistemas contra incendio a\n                                  aprovechamiento de gas licuado que se refiere el inciso a), del numeral\n                                  de petróleo o natural;           11.2, podrá efectuarse en seco sin la\n                                                                   descarga del agente de extinción, o en\n                             ●    Prevención de actos inseguros\n                                  que puedan propiciar incendios; frío cuando no sea factible realizarlo en\n                                                                   condiciones de fuego real.\n                             ●    Medidas de prevención de\n                                  incendios, y\n                             ●    Orden y limpieza;\n                            Participar en el plan de ayuda mutua\n                             que se tenga con otros centros de\n                             trabajo, en su caso;\n                            Identificar un fuego incipiente y\n                             combatirlo, así como activar el\n                             procedimiento de alertamiento, y\n                            Conducir a visitantes del centro de\n                             trabajo en simulacros o en casos de\n                             emergencia de incendios a un lugar\n                             seguro;\n                       Proporciona a los brigadistas de los\n                        centros de trabajo clasificados con riesgo\n                        de incendio alto, capacitación adicional\n                        en la aplicación de las instrucciones para\n                        atender emergencias de incendio, en\n                        apego al plan de atención a emergencias\n                        de incendio, con los temas siguientes:\n                            El contenido del plan de atención a\n                             emergencias        de      incendio,\n                             establecido en el Capítulo 8 de la\n                             presente Norma;\n                            Las estrategias, tácticas y técnicas\n                             para la extinción de fuegos\n                             incipientes o, en su caso, incendios,\n                             de acuerdo con las emergencias\n                             potenciales del centro de trabajo y el\n                             plan de atención a emergencias de\n                             incendio;\n                            Los procedimientos básicos         de\n                             rescate y de primeros auxilios;\n                            La    comunicación     interna    con\n                             trabajadores y brigadistas, y externa\n                             con grupos de auxilio;\n                            La coordinación de las brigadas con\n                             grupos externos de auxilio para la\n                             atención de las situaciones de\n                             emergencia;\n                            El    funcionamiento,     uso     y\n                             mantenimiento de los equipos contra\n                             incendio;\n                            Las verificaciones de equipos para\n                             protección y combate de incendios,\n                             así como para el equipo de primeros\n                             auxilios, y\n                            El manejo seguro de materiales\n                             inflamables o explosivos, en casos\n                             de emergencias, considerando los\n                             aspectos siguientes:\n                             ●    Las         propiedades      y\n                                  características    de   dichos\n\f Jueves 9 de diciembre de 2010                 DIARIO OFICIAL                                  (Primera Sección)\n\n                                           materiales,    mismas     que\n                                           pueden ser consultadas en sus\n                                           respectivas hojas de datos de\n                                           seguridad;\n                                      ●    Los riesgos por reactividad;\n                                      ●    Los riesgos a la salud;\n                                      ●    Los     medios, técnicas   y\n                                           precauciones especiales para\n                                           la extinción;\n                                      ●    Las contraindicaciones         del\n                                           combate de incendios, y\n                                      ●    Los métodos de mitigación\n                                           para controlar la sustancia, y\n                                     El responsable de la brigada y quien\n                                      sea designado para suplirle en sus\n                                      ausencias,     reciban      además\n                                      capacitación en la toma de\n                                      decisiones y acciones por adoptar,\n                                      dependiendo de la magnitud y clase\n                                      de fuego.\n                                El programa anual de capacitación\n                                 contiene, al menos, la información\n                                 siguiente:\n                                     Los puestos de trabajo involucrados\n                                      en la capacitación;\n                                     Los temas de la capacitación, de\n                                      acuerdo con los numerales 11.1,\n                                      11.2 y 11.3 de esta Norma;\n                                     Los tiempos de duración de los\n                                      cursos, pláticas o actividades de\n                                      capacitación y su periodo de\n                                      ejecución, y\n                                     El nombre del       responsable del\n                                      programa.\n              Entrevista     El patrón cumple cuando al entrevistar a los\n                             trabajadores, seleccionados de acuerdo con\n                             el criterio muestral de la Tabla 2 del numeral\n                             13.4, así como a dos integrantes de la(s)\n                             brigada(s) contra incendio, en su caso, se\n                             constata que poseen conocimientos sobre los\n                             temas en los que fueron capacitados.\n5.9           Física         El patrón cumple cuando, al realizar un\n                             recorrido por el centro de trabajo, se constata\n                             que los integrantes de la(s) brigada(s) contra\n                             incendio cuentan con el equipo de protección\n                             personal contra incendio, seleccionado de\n                             conformidad con lo previsto en la NOM-017-\n                             STPS-2008, o las que la sustituyan.\n5.10          Física         El patrón cumple cuando, al realizar un Para los centros de trabajo de riesgo de\n                             recorrido por el centro de trabajo, se constata incendio ordinario, se puede contar con\n                             que en las áreas clasificadas con riesgo de dispositivos independientes o sistemas\n                             incendio ordinario, se cuenta con medios de de detección, así como equipos o\n                             detección y equipo contra incendio, y en las sistemas contra incendio.\n                             de riesgo de incendio alto, además de lo\n                             anteriormente señalado, con sistemas fijos de\n                             protección contra incendio y alarmas de\n                             incendio, para atender la posible dimensión\n                             de la emergencia de incendio, mismos que\n                             son acordes con la clase de fuego que pueda\n                             presentarse.\n5.11          Documental     Se considera que se cumple con esta norma, Esta      obligación   aplica   únicamente\n\f      (Primera Sección)                         DIARIO OFICIAL                       Jueves 9 de diciembre de 2010\n\n                              cuando el patrón presente:                       tratándose de centros de trabajo con\n                                 El acta y la minuta correspondientes a la riesgo de incendio alto.\n                                  verificación satisfactoria del cumplimiento\n                                  de la presente Norma, que emita la\n                                  Secretaría del Trabajo y Previsión Social,\n                                  en el marco de las evaluaciones\n                                  integrales del Programa de Autogestión\n                                  en Seguridad y Salud en el Trabajo, o\n                                 El dictamen de cumplimiento de esta\n                                  Norma expedido por una unidad de\n                                  verificación acreditada y aprobada, o\n                                 El acta circunstanciada que resulte de la\n                                  revisión, verificación, inspección o\n                                  vigilancia de las condiciones para la\n                                  prevención y protección contra incendios\n                                  en los centros de trabajo, por parte de la\n                                  autoridad local de protección civil que\n                                  corresponda al domicilio del centro de\n                                  trabajo, en el marco de los programas\n                                  internos, específicos o especiales de\n                                  protección civil.",
+    "start_char": 54670,
+    "end_char": 118649
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:13-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "13.3",
+    "label": "13.3 Para la selección de trabajadores por entrevistar (Véase Guía de Referencia IX, Modelo de",
+    "text": "13.3 Para la selección de trabajadores por entrevistar (Véase Guía de Referencia IX, Modelo de\nCuestionario para las Entrevistas a Trabajadores y Brigadistas), a efecto de constatar el cumplimiento de las\ndisposiciones previstas en el presente procedimiento para la evaluación de la conformidad, se aplicará el\ncriterio de muestreo contenido en la Tabla 2 siguiente:\n                                                    Tabla 2\n                                     Muestreo por Selección Aleatoria\n                 Número total de trabajadores                Número de trabajadores por entrevistar\n                              1-10                                                   1\n                             11-50                                                   2\n                            51-250                                   3 por cada 100 trabajadores\n                          Más de 250                       3 por cada 100 trabajadores hasta un máximo\n                                                                              de 15",
+    "start_char": 118654,
+    "end_char": 119708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:13-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "13.4",
+    "label": "13.4 Las actas y minutas correspondientes a la verificación satisfactoria del cumplimiento de la presente",
+    "text": "13.4 Las actas y minutas correspondientes a la verificación satisfactoria del cumplimiento de la presente\nNorma, por parte de la inspección federal del trabajo, en el marco de las evaluaciones integrales del Programa\nde Autogestión en Seguridad y Salud en el Trabajo, comprobarán el cumplimiento de la Norma, en tanto el\ncentro de trabajo no cause baja definitiva del Programa.",
+    "start_char": 119714,
+    "end_char": 120091
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:13-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "13.5",
+    "label": "13.5 Las actas circunstanciadas que resulten de la revisión, verificación, inspección o vigilancia de las",
+    "text": "13.5 Las actas circunstanciadas que resulten de la revisión, verificación, inspección o vigilancia de las\ncondiciones para la prevención y protección contra incendios en los centros de trabajo, expedidas por la\nautoridad local de protección civil, en el marco de los programas internos, específicos o especiales de\nprotección civil, comprobarán el cumplimiento de la presente Norma, dentro de los tres años siguientes a su\nemisión.",
+    "start_char": 120096,
+    "end_char": 120527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:13-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "13.6",
+    "label": "13.6 Las evidencias de tipo documental o los registros que obren en el centro de trabajo podrán exhibirse",
+    "text": "13.6 Las evidencias de tipo documental o los registros que obren en el centro de trabajo podrán exhibirse\nde manera impresa o en medios magnéticos, y deberán conservarse durante tres años.",
+    "start_char": 120531,
+    "end_char": 120719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "14",
+    "label": "14. Vigilancia",
+    "text": "14. Vigilancia",
+    "start_char": 120723,
+    "end_char": 120737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:14-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "14.1",
+    "label": "14.1 La vigilancia del cumplimiento de la presente Norma corresponde a la Secretaría del Trabajo y",
+    "text": "14.1 La vigilancia del cumplimiento de la presente Norma corresponde a la Secretaría del Trabajo y\nPrevisión Social en su ámbito de competencia.",
+    "start_char": 120741,
+    "end_char": 120885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "15",
+    "label": "15. Bibliografía",
+    "text": "15. Bibliografía",
+    "start_char": 120889,
+    "end_char": 120905
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:15-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "15.1",
+    "label": "15.1 Lineamientos Generales de Operación del Programa de Autogestión en Seguridad y Salud en el",
+    "text": "15.1 Lineamientos Generales de Operación del Programa de Autogestión en Seguridad y Salud en el\nTrabajo. Secretaría del Trabajo y Previsión Social.\n\f   Jueves 9 de diciembre de 2010               DIARIO OFICIAL                               (Primera Sección)",
+    "start_char": 120909,
+    "end_char": 121167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:15-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "15.2",
+    "label": "15.2 NFPA 10 Standard for Portable Fire Extinguishers 2002 Edition. National Fire Protection Association.",
+    "text": "15.2 NFPA 10 Standard for Portable Fire Extinguishers 2002 Edition. National Fire Protection Association.",
+    "start_char": 121172,
+    "end_char": 121277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:15-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "15.3",
+    "label": "15.3 NMX-J-604-ANCE-2008, Instalaciones eléctricas - Métodos de diagnóstico y reacondicionamiento de",
+    "text": "15.3 NMX-J-604-ANCE-2008, Instalaciones eléctricas - Métodos de diagnóstico y reacondicionamiento de\ninstalaciones eléctricas en operación - Especificaciones. Declaratoria de vigencia en el Diario Oficial de la\nFederación de 12 de diciembre de 2008.",
+    "start_char": 121282,
+    "end_char": 121531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:15-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "15.4",
+    "label": "15.4 Organización Internacional del Trabajo; Reglamento - tipo de seguridad en los establecimientos",
+    "text": "15.4 Organización Internacional del Trabajo; Reglamento - tipo de seguridad en los establecimientos\nindustriales para guía de los gobiernos y la industria, capítulo III (Prevención y protección contra incendios),\nGinebra, 1950.",
+    "start_char": 121535,
+    "end_char": 121762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:15-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "15.5",
+    "label": "15.5 Términos de Referencia para la Elaboración de Programas Internos de Protección Civil. TRPC-001-",
+    "text": "15.5 Términos de Referencia para la Elaboración de Programas Internos de Protección Civil. TRPC-001-\n1998. Gaceta Oficial del Distrito Federal de 9 de septiembre de 1998.",
+    "start_char": 121766,
+    "end_char": 121936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:15-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "15.6",
+    "label": "15.6 Manual de Seguridad contra Incendios. Fundación MAPFRE, Edición 2003.",
+    "text": "15.6 Manual de Seguridad contra Incendios. Fundación MAPFRE, Edición 2003.",
+    "start_char": 121940,
+    "end_char": 122014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:15-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "15.7",
+    "label": "15.7 Manual de Protección contra Incendios. National Fire Protection Association. Ed. MAPFRE,",
+    "text": "15.7 Manual de Protección contra Incendios. National Fire Protection Association. Ed. MAPFRE,\nDecimoséptima Edición. Artur E. Cote.",
+    "start_char": 122018,
+    "end_char": 122149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:15-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "15.8",
+    "label": "15.8 NFPA 101: Código de Seguridad Humana. National Fire Protection Association. Edición 2007.",
+    "text": "15.8 NFPA 101: Código de Seguridad Humana. National Fire Protection Association. Edición 2007.",
+    "start_char": 122153,
+    "end_char": 122247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:clause:16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "number": "16",
+    "label": "16. Concordancia con normas internacionales",
+    "text": "16. Concordancia con normas internacionales\n   Esta Norma no concuerda con ninguna norma internacional por no existir referencia alguna al momento de\nsu elaboración.",
+    "start_char": 122251,
+    "end_char": 122416
+  }
+]
