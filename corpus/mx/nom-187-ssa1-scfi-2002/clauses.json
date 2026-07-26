@@ -1,0 +1,3442 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "1",
+    "label": "1. Objetivo y campo de aplicación",
+    "text": "1. Objetivo y campo de aplicación",
+    "start_char": 6084,
+    "end_char": 6117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "1.1",
+    "label": "1.1 Esta Norma Oficial Mexicana tiene por objeto establecer las especificaciones sanitarias que deben",
+    "text": "1.1 Esta Norma Oficial Mexicana tiene por objeto establecer las especificaciones sanitarias que deben\ncumplir la masa, tortillas, tostadas, harinas preparadas para su elaboración y establecimientos donde se\nprocesan. Asimismo, establece la información comercial que debe figurar en las etiquetas de los\nproductos.",
+    "start_char": 6118,
+    "end_char": 6431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "1.2",
+    "label": "1.2 Esta Norma Oficial Mexicana es de observancia obligatoria en el territorio nacional para las personas",
+    "text": "1.2 Esta Norma Oficial Mexicana es de observancia obligatoria en el territorio nacional para las personas\nfísicas o morales que se dedican a su proceso e importación.",
+    "start_char": 6432,
+    "end_char": 6598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "1.3",
+    "label": "1.3 Quedan excluidas las botanas.",
+    "text": "1.3 Quedan excluidas las botanas.",
+    "start_char": 6599,
+    "end_char": 6632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "2",
+    "label": "2. Referencias",
+    "text": "2. Referencias\nEsta Norma se complementa con las siguientes Normas Oficiales Mexicanas o las que la sustituyan:",
+    "start_char": 6634,
+    "end_char": 6745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "2.1",
+    "label": "2.1 Norma Oficial Mexicana NOM-050-SCFI-2004 Información comercial-Etiquetado general de productos.",
+    "text": "2.1 Norma Oficial Mexicana NOM-050-SCFI-2004 Información comercial-Etiquetado general de productos.",
+    "start_char": 6746,
+    "end_char": 6845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "2.2",
+    "label": "2.2 Norma Oficial Mexicana NOM-051-SCFI/SSA1-2010, Especificaciones generales de etiquetado para",
+    "text": "2.2 Norma Oficial Mexicana NOM-051-SCFI/SSA1-2010, Especificaciones generales de etiquetado para\nalimentos y bebidas no alcohólicas preenvasados-Información comercial y sanitaria.",
+    "start_char": 6846,
+    "end_char": 7025
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "2.3",
+    "label": "2.3 Norma Oficial Mexicana NOM-086-SSA1-1994 Bienes y servicios. Alimentos y bebidas no alcohólicas",
+    "text": "2.3 Norma Oficial Mexicana NOM-086-SSA1-1994 Bienes y servicios. Alimentos y bebidas no alcohólicas\ncon modificaciones en su composición. Especificaciones nutrimentales.",
+    "start_char": 7026,
+    "end_char": 7195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "2.4",
+    "label": "2.4 Norma Oficial Mexicana NOM-110-SSA1-1994 Bienes y servicios. Preparación y dilución de muestras",
+    "text": "2.4 Norma Oficial Mexicana NOM-110-SSA1-1994 Bienes y servicios. Preparación y dilución de muestras\nde alimentos para su análisis microbiológico.",
+    "start_char": 7196,
+    "end_char": 7341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:2-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "2.5",
+    "label": "2.5 Norma Oficial Mexicana NOM-113-SSA1-1994 Bienes y servicios. Método para la cuenta de",
+    "text": "2.5 Norma Oficial Mexicana NOM-113-SSA1-1994 Bienes y servicios. Método para la cuenta de\nmicroorganismos coliformes totales en placa.",
+    "start_char": 7342,
+    "end_char": 7476
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:2-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "2.6",
+    "label": "2.6 Norma Oficial Mexicana NOM-117-SSA1-1994 Bienes y servicios. Método de prueba para la",
+    "text": "2.6 Norma Oficial Mexicana NOM-117-SSA1-1994 Bienes y servicios. Método de prueba para la\ndeterminación de cadmio, arsénico, plomo, estaño, cobre, fierro, zinc y mercurio en alimentos, agua\npotable y agua purificada por espectrometría de absorción atómica.",
+    "start_char": 7477,
+    "end_char": 7733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:2-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "2.7",
+    "label": "2.7 Norma Oficial Mexicana NOM-127-SSA1-1994 Salud ambiental, agua para uso y consumo humano-",
+    "text": "2.7 Norma Oficial Mexicana NOM-127-SSA1-1994 Salud ambiental, agua para uso y consumo humano-\nLímites permisibles de calidad y tratamientos a que debe someterse el agua para su potabilización.",
+    "start_char": 7734,
+    "end_char": 7926
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:2-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "2.8",
+    "label": "2.8 Norma Oficial Mexicana NOM-247-SSA1-2008, Productos y servicios. Cereales y sus productos.",
+    "text": "2.8 Norma Oficial Mexicana NOM-247-SSA1-2008, Productos y servicios. Cereales y sus productos.\nCereales, harinas de cereales, sémolas o semolinas. Alimentos a base de: cereales, semillas comestibles,\nde harinas, sémolas o semolinas o sus mezclas. Productos de panificación. Disposiciones y\nespecificaciones sanitarias y nutrimentales. Métodos de prueba.",
+    "start_char": 7927,
+    "end_char": 8280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:2-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "2.9",
+    "label": "2.9 Norma Oficial Mexicana NOM-251-SSA1-2009, Prácticas de higiene para el proceso de alimentos,",
+    "text": "2.9 Norma Oficial Mexicana NOM-251-SSA1-2009, Prácticas de higiene para el proceso de alimentos,\nbebidas o suplementos alimenticios.\n[Modificación publicada en el DOF el 1° de febrero de 2011]",
+    "start_char": 8281,
+    "end_char": 8473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3",
+    "label": "3. Definiciones",
+    "text": "3. Definiciones\nPara fines de esta Norma se entiende por:",
+    "start_char": 8476,
+    "end_char": 8533
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.1",
+    "label": "3.1 Aditivo alimentario (Aditivo): cualquier sustancia que en cuanto tal no se consume normalmente",
+    "text": "3.1 Aditivo alimentario (Aditivo): cualquier sustancia que en cuanto tal no se consume normalmente\ncomo alimento, ni tampoco se usa como ingrediente básico en alimentos, tenga o no valor nutritivo, y cuya\nadición al producto con fines tecnológicos en sus fases de producción, elaboración, preparación,\ntratamiento, envasado, empaquetado, transporte o almacenamiento, resulte o pueda preverse\nrazonablemente que resulte (directa o indirectamente) por sí o sus subproductos, en un componente del\nproducto o un elemento que afecte a sus características (incluidos los organolépticos). Esta definición no\nincluye \"contaminantes\" o sustancias añadidas al producto para mantener o mejorar las cualidades\nnutricionales.\n\n   [Modificación publicada en el DOF el 3 de enero d e 2013]",
+    "start_char": 8538,
+    "end_char": 9312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.2",
+    "label": "3.2 Alimentos y bebidas no alcohólicas con modificaciones en su composición, aquéllos a los que",
+    "text": "3.2 Alimentos y bebidas no alcohólicas con modificaciones en su composición, aquéllos a los que\nse les disminuyen, eliminan o adicionan uno o más de sus nutrimentos, tales como hidratos de carbono,\nproteínas, lípidos, vitaminas, minerales o fibras dietéticas.\n\f   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                          (Segunda Sección)      4",
+    "start_char": 9313,
+    "end_char": 9686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.3",
+    "label": "3.3 Aflatoxinas, a los metabolitos secundarios producidos por varios mohos, cuya estructura química es",
+    "text": "3.3 Aflatoxinas, a los metabolitos secundarios producidos por varios mohos, cuya estructura química es\nheterocíclica, pertenecientes al grupo de las bisfurano cumarinas. Poseen toxicidad aguda y crónica, así\ncomo efectos mutagénicos y carcinogénicos en animales y el hombre.",
+    "start_char": 9687,
+    "end_char": 9961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.4",
+    "label": "3.4 Bitácora o registro, al documento controlado que provee evidencia objetiva y auditable de las",
+    "text": "3.4 Bitácora o registro, al documento controlado que provee evidencia objetiva y auditable de las\nactividades ejecutadas o resultados obtenidos durante el proceso del producto y su análisis.",
+    "start_char": 9962,
+    "end_char": 10152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.5",
+    "label": "3.5 Botanas, a los productos de pasta de harinas, de cereales, leguminosas, tubérculos o féculas; así",
+    "text": "3.5 Botanas, a los productos de pasta de harinas, de cereales, leguminosas, tubérculos o féculas; así\ncomo de granos, frutas, frutos, semillas o leguminosas con o sin cáscara o cutícula, tubérculos; productos\nnixtamalizados y piel de cerdo, que pueden estar fritos, horneados, explotados, cubiertos, extruidos o\ntostados; adicionados o no con sal y otros ingredientes opcionales y aditivos para alimentos.",
+    "start_char": 10153,
+    "end_char": 10558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.6",
+    "label": "3.6 Buenas prácticas de fabricación, al conjunto de lineamientos y actividades relacionadas entre sí,",
+    "text": "3.6 Buenas prácticas de fabricación, al conjunto de lineamientos y actividades relacionadas entre sí,\ndestinadas a garantizar que los productos tengan y mantengan las especificaciones sanitarias requeridas\npara su uso o consumo. En particular en el caso de los aditivos se refiere a la cantidad mínima necesaria\npara lograr el efecto deseado.",
+    "start_char": 10559,
+    "end_char": 10901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.7",
+    "label": "3.7 Coadyuvante de elaboración, a la sustancia o materia, excluidos aparatos, utensilios y los aditivos,",
+    "text": "3.7 Coadyuvante de elaboración, a la sustancia o materia, excluidos aparatos, utensilios y los aditivos,\nque no se consume como ingrediente alimenticio por sí misma, y se emplea intencionalmente en la\nelaboración de materias primas, alimentos o sus ingredientes, para lograr una finalidad tecnológica\ndurante el tratamiento o la elaboración, que puede dar lugar a la presencia no intencionada, pero\ninevitable, de residuos o derivados en el producto final.",
+    "start_char": 10902,
+    "end_char": 11358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.8",
+    "label": "3.8 Consumidor, persona física o moral que adquiere o disfruta como destinatario final productos",
+    "text": "3.8 Consumidor, persona física o moral que adquiere o disfruta como destinatario final productos\nalimenticios y bebidas no alcohólicas preenvasados.",
+    "start_char": 11360,
+    "end_char": 11508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.9",
+    "label": "3.9 Embalaje, material que envuelve, contiene y protege los productos preenvasados, para efectos de",
+    "text": "3.9 Embalaje, material que envuelve, contiene y protege los productos preenvasados, para efectos de\nsu almacenamiento y transporte.",
+    "start_char": 11509,
+    "end_char": 11640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.10",
+    "label": "3.10 Envase, cualquier recipiente, o envoltura en el cual está contenido el producto preenvasado para su",
+    "text": "3.10 Envase, cualquier recipiente, o envoltura en el cual está contenido el producto preenvasado para su\nventa al consumidor.",
+    "start_char": 11641,
+    "end_char": 11766
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.11",
+    "label": "3.11 Envase múltiple o colectivo, cualquier recipiente o envoltura en el que se encuentran contenidos",
+    "text": "3.11 Envase múltiple o colectivo, cualquier recipiente o envoltura en el que se encuentran contenidos\ndos o más unidades de producto preenvasado iguales o diferentes, destinadas para su venta al\nconsumidor en dicha presentación.",
+    "start_char": 11767,
+    "end_char": 11995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.12",
+    "label": "3.12 Etiqueta, cualquier rótulo, marbete, inscripción, imagen u otra materia descriptiva o gráfica, escrita,",
+    "text": "3.12 Etiqueta, cualquier rótulo, marbete, inscripción, imagen u otra materia descriptiva o gráfica, escrita,\nimpresa, estarcida, marcada, grabada en alto o bajo relieve, adherida, sobrepuesta o fijada al envase del\nproducto preenvasado o, cuando no sea posible por las características del producto al embalaje.",
+    "start_char": 11996,
+    "end_char": 12306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.13",
+    "label": "3.13 Establecimiento, a los locales y sus instalaciones, sus dependencias y anexos cubiertos o",
+    "text": "3.13 Establecimiento, a los locales y sus instalaciones, sus dependencias y anexos cubiertos o\ndescubiertos, sean fijos o móviles, en los que se desarrolla el proceso de los productos, actividades y\nservicios objeto de esta norma, tales como: molinos de nixtamal, tortillerías, frituras de tostadas y harinas\npara prepararlas.",
+    "start_char": 12307,
+    "end_char": 12633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.14",
+    "label": "3.14 Fecha de caducidad, fecha límite en que se considera que las características sanitarias y de calidad",
+    "text": "3.14 Fecha de caducidad, fecha límite en que se considera que las características sanitarias y de calidad\nque debe reunir para su consumo un producto preenvasado, almacenado en las condiciones sugeridas\npor el responsable del producto, se reducen o eliminan de tal manera que después de esta fecha no debe\ncomercializarse ni consumirse.",
+    "start_char": 12634,
+    "end_char": 12970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.15",
+    "label": "3.15 Freír, a la operación que consiste en sumergir total o parcialmente un producto en aceite o grasa",
+    "text": "3.15 Freír, a la operación que consiste en sumergir total o parcialmente un producto en aceite o grasa\ncomestible caliente, a una temperatura tal que permita alcanzar las características sensoriales deseadas.",
+    "start_char": 12971,
+    "end_char": 13179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.16",
+    "label": "3.16 Harina de maíz nixtamalizado, al producto deshidratado que se obtiene de la molienda de los",
+    "text": "3.16 Harina de maíz nixtamalizado, al producto deshidratado que se obtiene de la molienda de los\ngranos de maíz nixtamalizado.",
+    "start_char": 13180,
+    "end_char": 13306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.17",
+    "label": "3.17 Harina integral, al producto obtenido de la molienda del grano de cereal que conserva su cáscara y",
+    "text": "3.17 Harina integral, al producto obtenido de la molienda del grano de cereal que conserva su cáscara y\nsus otros constituyentes.",
+    "start_char": 13307,
+    "end_char": 13436
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.18",
+    "label": "3.18 Harina o harina de trigo, a la obtenida de la molienda del grano de trigo maduro, entero, quebrado,",
+    "text": "3.18 Harina o harina de trigo, a la obtenida de la molienda del grano de trigo maduro, entero, quebrado,\nsano y seco del género Triticum, L.; de las especies de T. vulgare, T. compactum y T. durum o mezclas\nde éstas, limpio, sano en el que se elimina gran parte del salvado y germen, hasta obtener una harina de\nfinura adecuada.\n\f   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                        (Segunda Sección)      5",
+    "start_char": 13437,
+    "end_char": 13877
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.19",
+    "label": "3.19 Harina preparada para elaborar masa, tortillas o tostadas, al producto resultante de la mezcla de",
+    "text": "3.19 Harina preparada para elaborar masa, tortillas o tostadas, al producto resultante de la mezcla de\nharina de trigo o de maíz nixtamalizado u otros cereales integrales o no, con ingredientes opcionales y\naditivos para alimentos, y que se prepara conforme a las instrucciones del fabricante.",
+    "start_char": 13878,
+    "end_char": 14171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.20",
+    "label": "3.20 Ingredientes opcionales, a los que se pueden adicionar a la masa, tales como: chiles, condimentos,",
+    "text": "3.20 Ingredientes opcionales, a los que se pueden adicionar a la masa, tales como: chiles, condimentos,\nespecias, harinas de cereales o leguminosas.",
+    "start_char": 14172,
+    "end_char": 14320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.21",
+    "label": "3.21 Inocuo, al que no causa daño a la salud.",
+    "text": "3.21 Inocuo, al que no causa daño a la salud.",
+    "start_char": 14321,
+    "end_char": 14366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.22",
+    "label": "3.22 Límite máximo, a la cantidad establecida de aditivos, microorganismos, parásitos, materia extraña,",
+    "text": "3.22 Límite máximo, a la cantidad establecida de aditivos, microorganismos, parásitos, materia extraña,\nplaguicidas, radionúclidos, biotoxinas, residuos de medicamentos, metales pesados y metaloides, entre\notros, que no se deben exceder en un alimento, bebida o materia prima.",
+    "start_char": 14367,
+    "end_char": 14643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-23",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.23",
+    "label": "3.23 Lote, la cantidad de un producto elaborado en un mismo ciclo, integrado por unidades homogéneas",
+    "text": "3.23 Lote, la cantidad de un producto elaborado en un mismo ciclo, integrado por unidades homogéneas\ne identificado con un código específico.",
+    "start_char": 14644,
+    "end_char": 14785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.24",
+    "label": "3.24 Maíz nixtamalizado o nixtamal, al maíz sano y limpio que ha sido sometido a cocción parcial con",
+    "text": "3.24 Maíz nixtamalizado o nixtamal, al maíz sano y limpio que ha sido sometido a cocción parcial con\nagua en presencia de hidróxido de calcio (cal), u otro material alcalino.",
+    "start_char": 14786,
+    "end_char": 14960
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-25",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.25",
+    "label": "3.25 Masa, al producto obtenido de la molienda húmeda de granos de maíz nixtamalizado o pasta que se",
+    "text": "3.25 Masa, al producto obtenido de la molienda húmeda de granos de maíz nixtamalizado o pasta que se\nforma a partir de harina de maíz nixtamalizado, harina de trigo, harinas integrales o sus combinaciones y\nagua. Pudiendo estar mezclada con ingredientes opcionales y aditivos permitidos para alimentos.",
+    "start_char": 14961,
+    "end_char": 15263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-26",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.26",
+    "label": "3.26 Materia extraña, al material orgánico o inorgánico, ligero o pesado, cuya presencia en el producto",
+    "text": "3.26 Materia extraña, al material orgánico o inorgánico, ligero o pesado, cuya presencia en el producto\nno es deseable y que por arriba de un límite máximo se estima contaminante, considerándose entre otros:\nexcretas, pelos de cualquier especie, fragmentos de insectos, material plástico y otros objetos.",
+    "start_char": 15264,
+    "end_char": 15568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-27",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.27",
+    "label": "3.27 Metal pesado o metaloide, a los elementos químicos que causan efectos indeseables en el",
+    "text": "3.27 Metal pesado o metaloide, a los elementos químicos que causan efectos indeseables en el\nmetabolismo aun en concentraciones bajas. Su toxicidad depende de las dosis en que se ingieran así\ncomo de su acumulación en el organismo.",
+    "start_char": 15569,
+    "end_char": 15800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-28",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.28",
+    "label": "3.28 Métodos de prueba, a los procedimientos analíticos utilizados en el laboratorio para comprobar que",
+    "text": "3.28 Métodos de prueba, a los procedimientos analíticos utilizados en el laboratorio para comprobar que\nun producto satisface las especificaciones que establece esta Norma.",
+    "start_char": 15801,
+    "end_char": 15973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-29",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.29",
+    "label": "3.29 Plaguicidas, a cualquier sustancia o mezcla de sustancias utilizadas para prevenir, destruir, repeler",
+    "text": "3.29 Plaguicidas, a cualquier sustancia o mezcla de sustancias utilizadas para prevenir, destruir, repeler\no mitigar cualquier forma de vida que sea nociva para la salud, los bienes del hombre o del ambiente,\nexcepto la que exista sobre o dentro del ser humano y los protozoarios, virus, bacterias, hongos y otros\nmicroorganismos similares sobre o dentro de los animales.",
+    "start_char": 15974,
+    "end_char": 16345
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-30",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.30",
+    "label": "3.30 Proceso, al conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación,",
+    "text": "3.30 Proceso, al conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación,\nconservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución,\nalmacenamiento y expendio o suministro al público de productos.",
+    "start_char": 16346,
+    "end_char": 16608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-31",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.31",
+    "label": "3.31 Productos a granel, al producto que debe pesarse, medirse o contarse en presencia del consumidor",
+    "text": "3.31 Productos a granel, al producto que debe pesarse, medirse o contarse en presencia del consumidor\npor no encontrarse preenvasado al momento de su venta.",
+    "start_char": 16609,
+    "end_char": 16765
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-32",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.32",
+    "label": "3.32 Producto preenvasado, alimentos y bebidas no alcohólicas que son colocados en un envase de",
+    "text": "3.32 Producto preenvasado, alimentos y bebidas no alcohólicas que son colocados en un envase de\ncualquier naturaleza, en ausencia del consumidor, y la cantidad de producto contenido en él no puede ser\nalterada, a menos que el envase sea abierto o modificado perceptiblemente.",
+    "start_char": 16766,
+    "end_char": 17041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-33",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.33",
+    "label": "3.33 Tortilla, al producto elaborado con masa que puede ser mezclada con ingredientes opcionales,",
+    "text": "3.33 Tortilla, al producto elaborado con masa que puede ser mezclada con ingredientes opcionales,\nsometido a cocción.",
+    "start_char": 17042,
+    "end_char": 17159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:3-34",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "3.34",
+    "label": "3.34 Tostada, al producto elaborado a partir de tortilla o masa que puede ser mezclada con ingredientes",
+    "text": "3.34 Tostada, al producto elaborado a partir de tortilla o masa que puede ser mezclada con ingredientes\nopcionales, sometido a un proceso de horneado, freído, deshidratado o cualquier otro, hasta obtener una\nconsistencia rígida y crujiente.\n[Modificación publicada en el DOF el 1° de febrero de 2011]",
+    "start_char": 17160,
+    "end_char": 17460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "4",
+    "label": "4. Símbolos y abreviaturas",
+    "text": "4. Símbolos y abreviaturas\n\f   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                           (Segunda Sección)       6\nCuando en esta Norma se haga referencia a los siguientes símbolos y abreviaturas se entiende por:\n\n    AGL                    ácidos grasos libres\n    BPF                    buenas prácticas de fabricación\n    Cm                     centímetros\n    ºC                     grados Celsius\n    g                      gramo\n    kg                     kilogramo\n    µg                     microgramo\n    meq                    miliequivalente\n    min                    minutos\n    mg                     miligramo\n    mL                     mililitro\n    m/m                    masa sobre masa\n    N                      normal\n    %                      por ciento\n    UFC                    unidades formadoras de colonias\n    Vol                    volumen\n    kJ                     kilojoule\n    kcal                   kilocaloría\n    v/v                    volumen por volumen\n\nCuando en la presente Norma se mencione al:\nAcuerdo, debe entenderse que se trata del Acuerdo por el que se determinan las sustancias permitidas\ncomo aditivos y coadyuvantes, y sus modificaciones.\nCICOPLAFEST, debe entenderse que se trata de la Comisión Intersecretarial para el Control del Proceso\ny uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas.\nReglamento, debe entenderse que se trata del Reglamento de Control Sanitario de Productos y\nServicios.\n[Adición publicada en el DOF el 1° de febrero de 2011]\n\nSecretaría, debe entenderse que se trata de la Secretaría de Salud.\nAcuerdo, debe entenderse que se trata del Acuerdo por el que se determinan los aditivos y coadyuvantes\nen alimentos, bebidas y suplementos alimenticios, su uso y disposiciones sanitarias.\n[Adición publicada en el DOF el 3 de enero de 2013]",
+    "start_char": 17463,
+    "end_char": 19309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "5",
+    "label": "5. Clasificación",
+    "text": "5. Clasificación",
+    "start_char": 19312,
+    "end_char": 19328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "5.1",
+    "label": "5.1 Los productos objeto de esta Norma se clasifican en:",
+    "text": "5.1 Los productos objeto de esta Norma se clasifican en:",
+    "start_char": 19329,
+    "end_char": 19385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:5-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "5.1.1",
+    "label": "5.1.1 Masa",
+    "text": "5.1.1 Masa",
+    "start_char": 19386,
+    "end_char": 19396
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:5-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "5.1.2",
+    "label": "5.1.2 Tortillas o tortillas integrales",
+    "text": "5.1.2 Tortillas o tortillas integrales",
+    "start_char": 19397,
+    "end_char": 19435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:5-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "5.1.3",
+    "label": "5.1.3 Tostadas o tostadas integrales",
+    "text": "5.1.3 Tostadas o tostadas integrales",
+    "start_char": 19436,
+    "end_char": 19472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:5-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "5.1.4",
+    "label": "5.1.4 Harinas preparadas para elaborar masa, tortillas o tortillas integrales, tostadas o tostadas integrales.",
+    "text": "5.1.4 Harinas preparadas para elaborar masa, tortillas o tortillas integrales, tostadas o tostadas integrales.",
+    "start_char": 19473,
+    "end_char": 19583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6",
+    "label": "6. Especificaciones",
+    "text": "6. Especificaciones\nLos productos objeto de esta Norma y los establecimientos donde se elaboren deben ajustarse a las\nsiguientes especificaciones:",
+    "start_char": 19584,
+    "end_char": 19730
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.1",
+    "label": "6.1 Generales",
+    "text": "6.1 Generales",
+    "start_char": 19731,
+    "end_char": 19744
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.1.1",
+    "label": "6.1.1 Los establecimientos donde se procesen los productos objeto de esta norma, deben aplicar las",
+    "text": "6.1.1 Los establecimientos donde se procesen los productos objeto de esta norma, deben aplicar las\nprácticas de higiene establecidas en la NOM-251-SSA1-2009, citada en el apartado de referencias.",
+    "start_char": 19746,
+    "end_char": 19941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.1.2",
+    "label": "6.1.2 El agua utilizada para la elaboración de estos productos debe ser potable o cumplir según el caso,",
+    "text": "6.1.2 El agua utilizada para la elaboración de estos productos debe ser potable o cumplir según el caso,\ncon lo establecido en la NOM-127-SSA1-1994, citada en el apartado de referencias.\n[Modificación publicada en el DOF el 1° de febrero de 2011]\n\f   Lunes 18 de agosto de 2003                  DIARIO OFICIAL                         (Segunda Sección)   7",
+    "start_char": 19942,
+    "end_char": 20297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.1.3",
+    "label": "6.1.3 El proveedor de las materias primas y los establecimientos donde se procesen o comercialicen los",
+    "text": "6.1.3 El proveedor de las materias primas y los establecimientos donde se procesen o comercialicen los\nproductos objeto de esta Norma, cada uno en el ámbito de su responsabilidad sólo podrán utilizar\nplaguicidas autorizados por la Secretaría de Salud en el marco de coordinación de la CICOPLAFEST.",
+    "start_char": 20298,
+    "end_char": 20595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.1.4",
+    "label": "6.1.4 Control documental del proceso",
+    "text": "6.1.4 Control documental del proceso",
+    "start_char": 20596,
+    "end_char": 20632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-1-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.1.4.1",
+    "label": "6.1.4.1 El proceso de los productos objeto de esta Norma, debe documentarse en bitácoras o registros,",
+    "text": "6.1.4.1 El proceso de los productos objeto de esta Norma, debe documentarse en bitácoras o registros,\nde manera que garantice los requisitos establecidos. Los registros o bitácoras, incluyendo las que se\nelaboren por medios electrónicos deben:\na) Contar con respaldos o sistemas que aseguren la veracidad de la información y un procedimiento para\nla prevención de acceso y correcciones no controladas.\nb) Para el caso de las tostadas y harinas para preparar tortillas, preenvasadas o a granel deben\nconservarse por lo menos 6 meses.\nEn el caso de las tortillas deben conservarse por lo menos 60 días, y\nPara las tortillas y tostadas a granel, por lo menos 15 días.\nDicha información debe estar a disposición de la autoridad sanitaria cuando así lo requiera.\nDe conformidad con el trámite SSA-04-015. Conservación de información sobre el proceso de producción.\nc) El diseño del formato queda bajo la responsabilidad del fabricante.",
+    "start_char": 20633,
+    "end_char": 21563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-1-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.1.4.2",
+    "label": "6.1.4.2 Para el control de plagas, se debe llevar un registro en el que se indique lo siguiente:",
+    "text": "6.1.4.2 Para el control de plagas, se debe llevar un registro en el que se indique lo siguiente:\na) Por contratación: Comprobante proporcionado por la empresa responsable que incluya: nombre y tipo\ndel servicio proporcionado y sustancias usadas (en su caso), número de licencia de la empresa que\naplica, expedida por la autoridad sanitaria correspondiente, responsable técnico y fecha.\nb) Por autoaplicación: Aprobación del responsable técnico por la autoridad sanitaria correspondiente,\nnombre y tipo del procedimiento aplicado y sustancias usadas (en su caso), responsable técnico y fecha.",
+    "start_char": 21564,
+    "end_char": 22155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-1-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.1.4.3",
+    "label": "6.1.4.3 Se debe llevar un registro de las actividades de limpieza y desinfección, en su caso, del equipo,",
+    "text": "6.1.4.3 Se debe llevar un registro de las actividades de limpieza y desinfección, en su caso, del equipo,\nutensilios, instalaciones o materia prima, que se desarrollen conforme al manual de procedimientos,\nindicando fecha, hora y responsable, o debe hacer figurar como mínimo el nombre de los productos\nusados, concentraciones, tiempo de contacto y tipo de enjuagues.",
+    "start_char": 22156,
+    "end_char": 22523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-1-4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.1.4.4",
+    "label": "6.1.4.4 Con la finalidad de orientar las actividades de verificación del cumplimiento de esta Norma, se",
+    "text": "6.1.4.4 Con la finalidad de orientar las actividades de verificación del cumplimiento de esta Norma, se\ndebe contar con un diagrama de bloque en el que se describa el proceso de elaboración de los productos\nobjeto de esta Norma.",
+    "start_char": 22524,
+    "end_char": 22752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2",
+    "label": "6.2 Específicas",
+    "text": "6.2 Específicas",
+    "start_char": 22753,
+    "end_char": 22768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.1",
+    "label": "6.2.1 Personal",
+    "text": "6.2.1 Personal",
+    "start_char": 22769,
+    "end_char": 22783
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.1.1",
+    "label": "6.2.1.1 El personal debe presentarse aseado al área de trabajo y con ropa limpia. Durante el tiempo que",
+    "text": "6.2.1.1 El personal debe presentarse aseado al área de trabajo y con ropa limpia. Durante el tiempo que\nduren sus labores debe usar uniforme limpio, bata o mandil y una protección que cubra totalmente el\ncabello. El personal que está en contacto directo con el producto, que lo manipule antes de su envasado o\nque tenga barba o bigote debe usar cubreboca.",
+    "start_char": 22784,
+    "end_char": 23139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.1.2",
+    "label": "6.2.1.2 Lavarse las manos con agua y jabón, secarse con toallas desechables o secador de manos, antes",
+    "text": "6.2.1.2 Lavarse las manos con agua y jabón, secarse con toallas desechables o secador de manos, antes\nde iniciar el trabajo y después de cada ausencia en el mismo y en cualquier momento en que las manos\nestén sucias.",
+    "start_char": 23140,
+    "end_char": 23356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.1.3",
+    "label": "6.2.1.3 El personal que está en contacto directo con el producto o que lo manipule debe mantener las",
+    "text": "6.2.1.3 El personal que está en contacto directo con el producto o que lo manipule debe mantener las\nuñas cortas, limpias y libres de esmalte para uñas y el rostro sin maquillaje.",
+    "start_char": 23357,
+    "end_char": 23536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.1.4",
+    "label": "6.2.1.4 No deben trabajar en el área de proceso o venta personal que presente enfermedades",
+    "text": "6.2.1.4 No deben trabajar en el área de proceso o venta personal que presente enfermedades\ncontagiosas. Las cortadas o heridas sobre la piel deben cubrirse apropiadamente con material\nimpermeable.",
+    "start_char": 23537,
+    "end_char": 23733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-1-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.1.5",
+    "label": "6.2.1.5 El personal que manipule dinero no debe tocar directamente con las manos el producto para lo",
+    "text": "6.2.1.5 El personal que manipule dinero no debe tocar directamente con las manos el producto para lo\ncual debe aplicar cualquiera de las siguientes indicaciones:\n    a)    Usar guantes desechables o bolsas de plástico cuando se manipule el producto y quitárselo cuando\n          manipule dinero. Los guantes o bolsas deben sustituirse al menos en cada reanudación de\n          operaciones o cuando se hayan deteriorado.\n   b)   Asignar una persona para manipular el dinero y que ésta no tenga contacto directo con el\n        producto.",
+    "start_char": 23734,
+    "end_char": 24268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-1-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.1.6",
+    "label": "6.2.1.6 El personal debe estar capacitado y cumplir con las buenas prácticas de higiene. Los",
+    "text": "6.2.1.6 El personal debe estar capacitado y cumplir con las buenas prácticas de higiene. Los\nresponsables del proceso deben contar con la evidencia documental de dicha capacitación.",
+    "start_char": 24269,
+    "end_char": 24450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.2",
+    "label": "6.2.2 Instalaciones físicas",
+    "text": "6.2.2 Instalaciones físicas",
+    "start_char": 24451,
+    "end_char": 24478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.2.1",
+    "label": "6.2.2.1 Los establecimientos deben proveerse de instalaciones sanitarias para lavarse las manos en el",
+    "text": "6.2.2.1 Los establecimientos deben proveerse de instalaciones sanitarias para lavarse las manos en el\nárea de elaboración y venta.\n\f   Lunes 18 de agosto de 2003                    DIARIO OFICIAL                          (Segunda Sección)       8",
+    "start_char": 24479,
+    "end_char": 24725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.2.2",
+    "label": "6.2.2.2 No debe tener comunicación directa con habitaciones.",
+    "text": "6.2.2.2 No debe tener comunicación directa con habitaciones.",
+    "start_char": 24726,
+    "end_char": 24786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.2.3",
+    "label": "6.2.2.3 No debe utilizarse como habitación o dormitorio ni permitirse la presencia de animales de ningún tipo.",
+    "text": "6.2.2.3 No debe utilizarse como habitación o dormitorio ni permitirse la presencia de animales de ningún tipo.",
+    "start_char": 24787,
+    "end_char": 24897
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.2.4",
+    "label": "6.2.2.4 Los establecimientos que expendan además otros alimentos, deben tener áreas o secciones",
+    "text": "6.2.2.4 Los establecimientos que expendan además otros alimentos, deben tener áreas o secciones\nespecíficas y delimitadas para su almacenamiento y exhibición.",
+    "start_char": 24898,
+    "end_char": 25056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.3",
+    "label": "6.2.3 Instalaciones sanitarias",
+    "text": "6.2.3 Instalaciones sanitarias",
+    "start_char": 25057,
+    "end_char": 25087
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.3.1",
+    "label": "6.2.3.1 Los servicios sanitarios no deben usarse como bodega, ni para otros fines distintos a los que",
+    "text": "6.2.3.1 Los servicios sanitarios no deben usarse como bodega, ni para otros fines distintos a los que\nestán destinados.",
+    "start_char": 25088,
+    "end_char": 25207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.4",
+    "label": "6.2.4 Proceso",
+    "text": "6.2.4 Proceso",
+    "start_char": 25208,
+    "end_char": 25221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.4.1",
+    "label": "6.2.4.1 Expendios a granel.",
+    "text": "6.2.4.1 Expendios a granel.",
+    "start_char": 25222,
+    "end_char": 25249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-4-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.4.1.1",
+    "label": "6.2.4.1.1 Las mesas y mostradores que se utilicen en el expendio de masa, tortillas y tostadas deben",
+    "text": "6.2.4.1.1 Las mesas y mostradores que se utilicen en el expendio de masa, tortillas y tostadas deben\nestar limpias y ser de superficies lisas, de material inocuo e impermeable, con la finalidad de facilitar su\nlimpieza.",
+    "start_char": 25250,
+    "end_char": 25469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-4-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.4.1.2",
+    "label": "6.2.4.1.2 Para la protección de la masa y las tortillas, se deben emplear recipientes o lienzos limpios.",
+    "text": "6.2.4.1.2 Para la protección de la masa y las tortillas, se deben emplear recipientes o lienzos limpios.",
+    "start_char": 25470,
+    "end_char": 25574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-4-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.4.1.3",
+    "label": "6.2.4.1.3 Sólo se permite reprocesar masa, tortillas y tostadas que en la línea de producción hayan",
+    "text": "6.2.4.1.3 Sólo se permite reprocesar masa, tortillas y tostadas que en la línea de producción hayan\npresentado lo siguiente:\na) Cambios en su forma como: dobladas, quebradas o agujeradas.\nb) No haber sido expuestas a contaminación (polvo, grasa de la maquinaria, contacto con el piso, entre otros).\nc) Se debe asegurar que reúnan las características de olor, color y sabor propios; que indican que son\naptas para su reproceso.\nd) El desperdicio o residuo que quede en las tolvas de la maquinaria al terminar la jornada no se debe\nincorporar al proceso del día siguiente.",
+    "start_char": 25575,
+    "end_char": 26145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5",
+    "label": "6.2.5 Materia prima",
+    "text": "6.2.5 Materia prima",
+    "start_char": 26146,
+    "end_char": 26165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.1",
+    "label": "6.2.5.1 Todas las materias primas que sean empleadas en la elaboración de los productos, deben cumplir",
+    "text": "6.2.5.1 Todas las materias primas que sean empleadas en la elaboración de los productos, deben cumplir\ncon los ordenamientos legales aplicables.",
+    "start_char": 26166,
+    "end_char": 26310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.2",
+    "label": "6.2.5.2 No deben emplearse materias primas que no sean aptas para el consumo humano o en mal",
+    "text": "6.2.5.2 No deben emplearse materias primas que no sean aptas para el consumo humano o en mal\nestado (con palomillas, gorgojos u otras plagas).",
+    "start_char": 26311,
+    "end_char": 26453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.3",
+    "label": "6.2.5.3 Para la nixtamalización del maíz se debe utilizar hidróxido de calcio u óxido de calcio (cal), que",
+    "text": "6.2.5.3 Para la nixtamalización del maíz se debe utilizar hidróxido de calcio u óxido de calcio (cal), que\ncumpla con las siguientes especificaciones:",
+    "start_char": 26454,
+    "end_char": 26604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.3.1",
+    "label": "6.2.5.3.1. El hidróxido de calcio (cal) que se emplee en la industria alimentaria debe cumplir con las",
+    "text": "6.2.5.3.1. El hidróxido de calcio (cal) que se emplee en la industria alimentaria debe cumplir con las\nsiguientes especificaciones sanitarias:",
+    "start_char": 26605,
+    "end_char": 26747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-3-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.3.1.1",
+    "label": "6.2.5.3.1.1 Características Químicas",
+    "text": "6.2.5.3.1.1 Características Químicas\n\n                                              Tabla 1. Químicas\n Nombre químico                          Hidróxido de calcio                     Oxido de calcio\n Fórmula química                         Ca(OH)2                                 CaO\n Peso molecular                          74,10                                   56,07",
+    "start_char": 26748,
+    "end_char": 27118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-3-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.3.1.2",
+    "label": "6.2.5.3.1.2 Características Fisicoquímicas",
+    "text": "6.2.5.3.1.2 Características Fisicoquímicas\n\n                                         Tabla 2. Fisicoquímicas\n      Especificación                                                Límite máximo\n      Hidróxido de calcio u Oxido de calcio                         90% Mínimo\n      Hidróxido de magnesio                                         5%\n      Plomo                                                         8 mg/kg\n      Flúor                                                         40 mg/kg\n      Arsénico                                                      3 mg/kg",
+    "start_char": 27120,
+    "end_char": 27689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.4",
+    "label": "6.2.5.4 La deshidratación a que se someten las tortillas que se utilicen para elaborar tostadas no debe",
+    "text": "6.2.5.4 La deshidratación a que se someten las tortillas que se utilicen para elaborar tostadas no debe\nhacerse en áreas descubiertas o a la intemperie que las expongan en contacto con materiales extraños o\nfauna nociva.",
+    "start_char": 27691,
+    "end_char": 27911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.5",
+    "label": "6.2.5.5 La masa debe estar limpia, fresca y haber sido elaborada en el transcurso del día, no debe",
+    "text": "6.2.5.5 La masa debe estar limpia, fresca y haber sido elaborada en el transcurso del día, no debe\npresentar sabores o aromas agrios.",
+    "start_char": 27912,
+    "end_char": 28045
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.6",
+    "label": "6.2.5.6 Se debe llevar un control documental de las materias primas durante su almacenamiento,",
+    "text": "6.2.5.6 Se debe llevar un control documental de las materias primas durante su almacenamiento,\nindicando fecha y nombre del responsable. En el caso del maíz se debe llevar registro de humedad\nrelativa y temperatura.\n\f   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                           (Segunda Sección)       9",
+    "start_char": 28046,
+    "end_char": 28377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.7",
+    "label": "6.2.5.7 Se debe llevar un registro de los resultados de los análisis de las materias primas conforme a los",
+    "text": "6.2.5.7 Se debe llevar un registro de los resultados de los análisis de las materias primas conforme a los\nrequisitos sanitarios establecidos en los ordenamientos legales aplicables, que incluya cuando menos la\nsiguiente información:\n    a)   Proveedor u origen, nombre de la materia prima, condiciones de almacenamiento y\n         conservación, identificación del lote al que se realizó el análisis, fecha y laboratorio responsable,\n         o\n   b)    El certificado de calidad sanitaria correspondiente que avale la inocuidad de la materia prima.\nEn el caso de que las materias primas que se adquieran en tiendas de autoservicio o pequeños comercios\ncomo tiendas de abarrotes, el registro debe incluir, al menos lo siguiente: fecha de ingreso, proveedor e\nidentificación del lote.",
+    "start_char": 28378,
+    "end_char": 29161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.8",
+    "label": "6.2.5.8 En los molinos de nixtamal se debe llevar un registro de los aditivos que se empleen durante la",
+    "text": "6.2.5.8 En los molinos de nixtamal se debe llevar un registro de los aditivos que se empleen durante la\npreparación de la masa elaborada a partir de maíz nixtamalizado, en donde figure al menos la siguiente\ninformación: Identificación del lote, nombre del aditivo, concentración de uso, fecha y nombre del\nresponsable.",
+    "start_char": 29162,
+    "end_char": 29480
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.9",
+    "label": "6.2.5.9 El responsable de la elaboración de la masa en los molinos de nixtamal debe informar a las",
+    "text": "6.2.5.9 El responsable de la elaboración de la masa en los molinos de nixtamal debe informar a las\ntortillerías los aditivos empleados durante la elaboración de la masa.",
+    "start_char": 29481,
+    "end_char": 29650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.9.1",
+    "label": "6.2.5.9.1 Punto de venta.",
+    "text": "6.2.5.9.1 Punto de venta.",
+    "start_char": 29651,
+    "end_char": 29676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-5-9-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.5.9.1.1",
+    "label": "6.2.5.9.1.1 En los establecimientos dedicados a la venta de tortillas de maíz a granel, se debe cumplir con",
+    "text": "6.2.5.9.1.1 En los establecimientos dedicados a la venta de tortillas de maíz a granel, se debe cumplir con\nlo siguiente:\n   a)    El papel que se utilice para envolver el producto debe cumplir con lo señalado en el apartado 10\n         de este ordenamiento y debe contener en forma impresa o mediante etiquetas de manera clara y\n         veraz los aditivos empleados durante la elaboración de la masa, conforme a lo señalado en el\n         numeral 6.2.5.9.\n   b)    Debe figurar una lista de ingredientes de la siguiente manera:\n         \"Ingredientes\": en la que se incluirá además el nombre genérico de los aditivos (emulsificantes,\n         estabilizantes, gelificantes, espesantes y colorantes), o\n   c)    Deben existir letreros en los que se incluya dicha lista de ingredientes en lugares visibles para el\n         consumidor.",
+    "start_char": 29677,
+    "end_char": 30510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.6",
+    "label": "6.2.6 Servicios",
+    "text": "6.2.6 Servicios",
+    "start_char": 30511,
+    "end_char": 30526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.6.1",
+    "label": "6.2.6.1 El local debe tener recipientes para desperdicios con tapa, en cantidad y tamaño suficiente, de",
+    "text": "6.2.6.1 El local debe tener recipientes para desperdicios con tapa, en cantidad y tamaño suficiente, de\nacuerdo a las necesidades.",
+    "start_char": 30527,
+    "end_char": 30657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.7",
+    "label": "6.2.7 Transporte",
+    "text": "6.2.7 Transporte",
+    "start_char": 30658,
+    "end_char": 30674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.7.1",
+    "label": "6.2.7.1 Cuando la masa requiera ser transportada se debe evitar que entre en contacto dentro o fuera del",
+    "text": "6.2.7.1 Cuando la masa requiera ser transportada se debe evitar que entre en contacto dentro o fuera del\nvehículo con materiales extraños (polvo, agua, grasas, etc.), fauna nociva, para lo cual se deben emplear\nrecipientes o lienzos limpios.",
+    "start_char": 30675,
+    "end_char": 30916
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-2-7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.2.7.2",
+    "label": "6.2.7.2 El área del vehículo destinado al transporte de masa, debe mantenerse limpio y lavarse",
+    "text": "6.2.7.2 El área del vehículo destinado al transporte de masa, debe mantenerse limpio y lavarse\ndiariamente con agua y jabón.",
+    "start_char": 30917,
+    "end_char": 31041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3",
+    "label": "6.3. Los productos objeto de esta Norma deben cumplir con lo siguiente:",
+    "text": "6.3. Los productos objeto de esta Norma deben cumplir con lo siguiente:",
+    "start_char": 31042,
+    "end_char": 31113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.1",
+    "label": "6.3.1 Físicas",
+    "text": "6.3.1 Físicas",
+    "start_char": 31114,
+    "end_char": 31127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.1.1",
+    "label": "6.3.1.1 La humedad de las harinas para elaborar tortillas no debe ser superior al 15%.",
+    "text": "6.3.1.1 La humedad de las harinas para elaborar tortillas no debe ser superior al 15%.",
+    "start_char": 31128,
+    "end_char": 31214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.1.2",
+    "label": "6.3.1.2 Materia extraña",
+    "text": "6.3.1.2 Materia extraña\n\n\n                                Tabla 3. Especificaciones de materia extraña\n     Producto                            Límite máximo\n     Masa, tortillas, tostadas        y No más de 50 fragmentos de insectos, no más de un pelo de\n     harinas para prepararlas.          roedor y estar exentos de insectos enteros y excretas, así\n\f   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                    (Segunda Sección)   10\n                                        como de cualquier otra materia extraña que represente un\n                                        riesgo a la salud, en 50g de productos.",
+    "start_char": 31215,
+    "end_char": 31852
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.2",
+    "label": "6.3.2 Químicas",
+    "text": "6.3.2 Químicas",
+    "start_char": 31855,
+    "end_char": 31869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.2.1",
+    "label": "6.3.2.1 Los aceites o grasas utilizados durante el freído de los productos, deben eliminarse cuando",
+    "text": "6.3.2.1 Los aceites o grasas utilizados durante el freído de los productos, deben eliminarse cuando\npresenten cualquiera de las siguientes características:",
+    "start_char": 31870,
+    "end_char": 32025
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-2-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.2.1.1",
+    "label": "6.3.2.1.1 Color obscuro,",
+    "text": "6.3.2.1.1 Color obscuro,",
+    "start_char": 32026,
+    "end_char": 32050
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-2-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.2.1.2",
+    "label": "6.3.2.1.2 Sabor desagradable,",
+    "text": "6.3.2.1.2 Sabor desagradable,",
+    "start_char": 32051,
+    "end_char": 32080
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-2-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.2.1.3",
+    "label": "6.3.2.1.3 Olor desagradable, o",
+    "text": "6.3.2.1.3 Olor desagradable, o",
+    "start_char": 32081,
+    "end_char": 32111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-2-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.2.1.4",
+    "label": "6.3.2.1.4 Formación de espuma (siempre y cuando no se utilicen antiespumantes).",
+    "text": "6.3.2.1.4 Formación de espuma (siempre y cuando no se utilicen antiespumantes).\n\n\n\n\n                                    Tabla 4. Especificaciones químicas\n                  Producto                            Límite                 máximo\n                                                      % AGL*\n                  Aceites                             2,0\n                  Grasas                              2,5\n                    * Expresado como ácido oleico",
+    "start_char": 32112,
+    "end_char": 32577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.3",
+    "label": "6.3.3 Microbiológicas",
+    "text": "6.3.3 Microbiológicas\n\n\n                                 Tabla 5. Especificaciones microbiológicas\n               Producto                                    Límite       máximo        de\n                                                           Coliformes totales (UFC/g)\n               Masa                                        2000\n               Tortillas                                    30\n               Harinas para preparar tortillas de trigo    150\n               Harinas de maíz nixtamalizado para preparar 100\n               tortillas y tostadas\n               Harinas integrales para preparar tortillas  500",
+    "start_char": 32581,
+    "end_char": 33207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.4",
+    "label": "6.3.4 Contaminantes",
+    "text": "6.3.4 Contaminantes",
+    "start_char": 33210,
+    "end_char": 33229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.4.1",
+    "label": "6.3.4.1 Aflatoxinas",
+    "text": "6.3.4.1 Aflatoxinas\n\n\n                                 Tabla 6. Especificaciones de Aflatoxinas\n                 Producto                                        Límite       máximo\n                                                                 (µg/kg)\n                 Masa\n                 Tortillas de maíz nixtamalizado\n                 Tostadas de maíz nixtamalizado              12\n                 Harinas de maíz nixtamalizado para preparar\n                 tortillas y tostadas\n                 Tortillas de trigo\n                                                             20\n                 Tortillas integrales\n\f   Lunes 18 de agosto de 2003                  DIARIO OFICIAL                       (Segunda Sección)   11\n                Harinas para preparar tortillas de trigo\n                Harinas integrales para preparar tortillas",
+    "start_char": 33230,
+    "end_char": 34079
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.4.2",
+    "label": "6.3.4.2 Metales pesados o metaloides",
+    "text": "6.3.4.2 Metales pesados o metaloides",
+    "start_char": 34082,
+    "end_char": 34118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-4-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.4.2.1",
+    "label": "6.3.4.2.1 El fabricante de los productos objeto de esta Norma, debe establecer mecanismos que permitan",
+    "text": "6.3.4.2.1 El fabricante de los productos objeto de esta Norma, debe establecer mecanismos que permitan\ndeterminar la presencia y cantidad de plomo y cadmio que correspondan en las materias primas, en el\nproducto en proceso de elaboración o en el producto terminado. La información generada debe estar a\ndisposición de la Secretaría cuando ésta así lo requiera.",
+    "start_char": 34119,
+    "end_char": 34479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.4.3",
+    "label": "6.3.4.3 Se debe llevar registro de los resultados de los análisis del lote seleccionado del producto",
+    "text": "6.3.4.3 Se debe llevar registro de los resultados de los análisis del lote seleccionado del producto\nterminado, conforme a las especificaciones establecidas en esta Norma, que incluyan además nombre del\nproducto, laboratorio, responsable y fecha.",
+    "start_char": 34480,
+    "end_char": 34726
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.5",
+    "label": "6.3.5 En la elaboración de los productos objeto de esta norma se pueden emplear los aditivos",
+    "text": "6.3.5 En la elaboración de los productos objeto de esta norma se pueden emplear los aditivos\nestablecidos en el Acuerdo, bajo las especificaciones establecidas en el mismo.\n[Modificación publicada en el DOF el 3 de enero de 2013]",
+    "start_char": 34727,
+    "end_char": 34956
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.6",
+    "label": "6.3.6 Especificaciones nutrimentales",
+    "text": "6.3.6 Especificaciones nutrimentales",
+    "start_char": 34959,
+    "end_char": 34995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.6.1",
+    "label": "6.3.6.1 Los productos objeto de esta norma elaborados con harina de trigo, no deben ser adicionados con",
+    "text": "6.3.6.1 Los productos objeto de esta norma elaborados con harina de trigo, no deben ser adicionados con\nácido fólico.",
+    "start_char": 34996,
+    "end_char": 35113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:6-3-6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "6.3.6.2",
+    "label": "6.3.6.2 Los productos objeto de esta norma que hayan sido modificados en su composición con otros",
+    "text": "6.3.6.2 Los productos objeto de esta norma que hayan sido modificados en su composición con otros\nnutrimentos, deben sujetarse a lo establecido en la NOM-086-SSA1-1994, señalada en el apartado de\nreferencias.",
+    "start_char": 35114,
+    "end_char": 35322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "7",
+    "label": "7. Muestreo",
+    "text": "7. Muestreo\nEl procedimiento de muestreo para los productos objeto de esta norma, debe sujetarse a lo que al\nrespecto establece la Ley General de Salud y otras disposiciones que al efecto se emitan.",
+    "start_char": 35323,
+    "end_char": 35521
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8",
+    "label": "8. Métodos de prueba",
+    "text": "8. Métodos de prueba",
+    "start_char": 35522,
+    "end_char": 35542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1",
+    "label": "8.1 Para la verificación oficial de las especificaciones sanitarias que se establecen en esta norma, se",
+    "text": "8.1 Para la verificación oficial de las especificaciones sanitarias que se establecen en esta norma, se\ndeben aplicar los métodos de prueba señalados a continuación:",
+    "start_char": 35543,
+    "end_char": 35708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.1",
+    "label": "8.1.1 Para la determinación de coliformes totales se deben aplicar los métodos de prueba establecidos en",
+    "text": "8.1.1 Para la determinación de coliformes totales se deben aplicar los métodos de prueba establecidos en\nlas normas NOM-110-SSA1-1994 y NOM-113-SSA1-1994, citadas en el apartado de referencias y para la\ndeterminación de metales pesados se deben aplicar los métodos de prueba establecidos en la norma\nNOM-117-SSA1-1994, citada en el apartado de referencias.\n[Modificación publicada en el DOF el 1° de febrero de 2011]",
+    "start_char": 35710,
+    "end_char": 36126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.2",
+    "label": "8.1.2 Para las determinaciones establecidas en esta norma, se deben aplicar las precauciones de",
+    "text": "8.1.2 Para las determinaciones establecidas en esta norma, se deben aplicar las precauciones de\nseguridad, señaladas a continuación.",
+    "start_char": 36128,
+    "end_char": 36260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.2.1",
+    "label": "8.1.2.1 El analista debe consultar siempre la información respecto a la exposición y manejo seguro de los",
+    "text": "8.1.2.1 El analista debe consultar siempre la información respecto a la exposición y manejo seguro de los\nreactivos químicos especificados en estos métodos, para emplear el equipo de seguridad apropiado como\nbata de laboratorio, guantes de látex, anteojos de seguridad, mascarilla, etc., y trabajar cuando así se\nrequiera bajo campana de extracción.",
+    "start_char": 36261,
+    "end_char": 36610
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.2.2",
+    "label": "8.1.2.2 Para la aplicación de los siguientes métodos analíticos se debe cumplir con las Buenas Prácticas",
+    "text": "8.1.2.2 Para la aplicación de los siguientes métodos analíticos se debe cumplir con las Buenas Prácticas\nde Laboratorio.",
+    "start_char": 36611,
+    "end_char": 36731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.3",
+    "label": "8.1.3 Para la toma y manejo de muestras para el análisis microbiológico y de aflatoxinas en tortillas a",
+    "text": "8.1.3 Para la toma y manejo de muestras para el análisis microbiológico y de aflatoxinas en tortillas a\ngranel, se debe aplicar el siguiente procedimiento:",
+    "start_char": 36732,
+    "end_char": 36887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.3.1",
+    "label": "8.1.3.1 El producto debe ser muestreado por los mismos despachadores y bajo las condiciones normales",
+    "text": "8.1.3.1 El producto debe ser muestreado por los mismos despachadores y bajo las condiciones normales\nde operación, debe tomarse directamente del recipiente que se utilice para su resguardo temporal\n(canastos o mesas de recepción) e introducirse en bolsas de plástico limpias y nuevas, las cuales sólo se\ndeben abrir en el momento en que se introduzca el producto y cerrarse de inmediato.",
+    "start_char": 36888,
+    "end_char": 37275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.3.2",
+    "label": "8.1.3.2 El producto que se muestre en caliente debe enfriarse a temperatura ambiente dentro del",
+    "text": "8.1.3.2 El producto que se muestre en caliente debe enfriarse a temperatura ambiente dentro del\nrecipiente de muestreo y cerrarse posteriormente. El producto no debe manipularse para acelerar su\nenfriamiento.",
+    "start_char": 37276,
+    "end_char": 37484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.3.3",
+    "label": "8.1.3.3 En el caso de que la muestra se resguarde en papel, se debe mantener en las mismas",
+    "text": "8.1.3.3 En el caso de que la muestra se resguarde en papel, se debe mantener en las mismas\ncondiciones e introducirla en las bolsas de plástico.\n\f   Lunes 18 de agosto de 2003                    DIARIO OFICIAL                      (Segunda Sección)   12",
+    "start_char": 37485,
+    "end_char": 37738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.3.4",
+    "label": "8.1.3.4 Las muestras deben entregarse al Laboratorio bajo condiciones de refrigeración (Temperatura",
+    "text": "8.1.3.4 Las muestras deben entregarse al Laboratorio bajo condiciones de refrigeración (Temperatura\nmáx. 7°C).",
+    "start_char": 37739,
+    "end_char": 37849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.3.5",
+    "label": "8.1.3.5 El análisis microbiológico debe efectuarse dentro de un lapso no mayor a las 24 horas de haberse",
+    "text": "8.1.3.5 El análisis microbiológico debe efectuarse dentro de un lapso no mayor a las 24 horas de haberse\nrealizado la toma de muestra, en caso de que esto no sea posible debe mantenerse en refrigeración,\nademás el laboratorista deberá señalar en el reporte de resultados, la fecha y hora en que se efectuó la\ntoma de muestra y en que se realizaron los análisis correspondientes.",
+    "start_char": 37850,
+    "end_char": 38228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.4",
+    "label": "8.1.4 Para la determinación de humedad en harinas para elaborar tortillas se debe aplicar el método para",
+    "text": "8.1.4 Para la determinación de humedad en harinas para elaborar tortillas se debe aplicar el método para\nla determinación de humedad y sólidos totales en harinas, establecido en el numeral 2 del apéndice\nnormativo C de la NOM-247-SSA1-2008, citada en apartado de referencias.\n[Modificación publicada en el DOF el 1° de febrero de 2011]",
+    "start_char": 38231,
+    "end_char": 38566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5",
+    "label": "8.1.5 Para la determinación de materia extraña en tortillas, harinas preparadas para elaborar tortillas y",
+    "text": "8.1.5 Para la determinación de materia extraña en tortillas, harinas preparadas para elaborar tortillas y\ntostadas se debe aplicar el siguiente método:",
+    "start_char": 38568,
+    "end_char": 38719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.1",
+    "label": "8.1.5.1 Preparación de la muestra",
+    "text": "8.1.5.1 Preparación de la muestra",
+    "start_char": 38720,
+    "end_char": 38753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.1.1",
+    "label": "8.1.5.1.1 Fragmentar manualmente o cortar 500g de la muestra en trozos de aproximadamente 5 cm,",
+    "text": "8.1.5.1.1 Fragmentar manualmente o cortar 500g de la muestra en trozos de aproximadamente 5 cm,\nmezclar bien y dividirla en cuatro porciones (A, B, C, D) tomar los dos extremos opuestos (A y D) mezclar,\nseparar una parte y desechar el resto, reunir los dos cuartos restantes (B y C) y se procederá como se\nindicó anteriormente, repetir el procedimiento hasta obtener la cantidad de muestra necesaria.",
+    "start_char": 38754,
+    "end_char": 39154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.2",
+    "label": "8.1.5.2 Principio del método",
+    "text": "8.1.5.2 Principio del método",
+    "start_char": 39155,
+    "end_char": 39183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.2.1",
+    "label": "8.1.5.2.1 La materia extraña se separa por flotación y posteriormente se filtra para su observación al",
+    "text": "8.1.5.2.1 La materia extraña se separa por flotación y posteriormente se filtra para su observación al\nmicroscopio.",
+    "start_char": 39184,
+    "end_char": 39299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.3",
+    "label": "8.1.5.3 Equipo",
+    "text": "8.1.5.3 Equipo",
+    "start_char": 39300,
+    "end_char": 39314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.3.1",
+    "label": "8.1.5.3.1 Balanza granataria con una precisión de 0,1 g",
+    "text": "8.1.5.3.1 Balanza granataria con una precisión de 0,1 g",
+    "start_char": 39315,
+    "end_char": 39370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.3.2",
+    "label": "8.1.5.3.2 Equipo de filtración al vacío",
+    "text": "8.1.5.3.2 Equipo de filtración al vacío",
+    "start_char": 39371,
+    "end_char": 39410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.3.3",
+    "label": "8.1.5.3.3 Microscopio binocular estereoscópico con objetivos que pueden ser de 3, 6, 7 y 10 X y oculares",
+    "text": "8.1.5.3.3 Microscopio binocular estereoscópico con objetivos que pueden ser de 3, 6, 7 y 10 X y oculares\napareados de amplio campo visual de 10, 30 y 100X respectivamente.",
+    "start_char": 39411,
+    "end_char": 39582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.3.4",
+    "label": "8.1.5.3.4 Lámpara para el microscopio o luz natural equivalente",
+    "text": "8.1.5.3.4 Lámpara para el microscopio o luz natural equivalente",
+    "start_char": 39583,
+    "end_char": 39646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.3.5",
+    "label": "8.1.5.3.5 Parrilla de calentamiento con agitación magnética",
+    "text": "8.1.5.3.5 Parrilla de calentamiento con agitación magnética",
+    "start_char": 39647,
+    "end_char": 39706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.4",
+    "label": "8.1.5.4 Materiales",
+    "text": "8.1.5.4 Materiales",
+    "start_char": 39707,
+    "end_char": 39725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.4.1",
+    "label": "8.1.5.4.1 Vaso de precipitados de 1000 o 2000 mL.",
+    "text": "8.1.5.4.1 Vaso de precipitados de 1000 o 2000 mL.",
+    "start_char": 39726,
+    "end_char": 39775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.4.2",
+    "label": "8.1.5.4.2 Matraz trampa de Wildman, formado por un matraz Erlenmeyer de 1 o 2 L, provisto de una",
+    "text": "8.1.5.4.2 Matraz trampa de Wildman, formado por un matraz Erlenmeyer de 1 o 2 L, provisto de una\nvarilla metálica con un tapón de hule en un extremo (tapón émbolo)",
+    "start_char": 39776,
+    "end_char": 39939
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.4.3",
+    "label": "8.1.5.4.3 Embudo de Hirsch o Buchner para filtración al vacío",
+    "text": "8.1.5.4.3 Embudo de Hirsch o Buchner para filtración al vacío",
+    "start_char": 39940,
+    "end_char": 40001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.4.4",
+    "label": "8.1.5.4.4 Caja de Petri",
+    "text": "8.1.5.4.4 Caja de Petri",
+    "start_char": 40002,
+    "end_char": 40025
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.4.5",
+    "label": "8.1.5.4.5 Tamiz plano de malla No. 230 de acero inoxidable",
+    "text": "8.1.5.4.5 Tamiz plano de malla No. 230 de acero inoxidable",
+    "start_char": 40026,
+    "end_char": 40084
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.4.6",
+    "label": "8.1.5.4.6 Papel de filtración rápida del No. 8 rayado para conteo con líneas paralelas de aproximadamente",
+    "text": "8.1.5.4.6 Papel de filtración rápida del No. 8 rayado para conteo con líneas paralelas de aproximadamente\n5 mm de separación",
+    "start_char": 40085,
+    "end_char": 40209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.5",
+    "label": "8.1.5.5 Reactivos",
+    "text": "8.1.5.5 Reactivos",
+    "start_char": 40210,
+    "end_char": 40227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.5.1",
+    "label": "8.1.5.5.1 Todos los reactivos deben ser grado analítico a menos que se indique otra especificación y por",
+    "text": "8.1.5.5.1 Todos los reactivos deben ser grado analítico a menos que se indique otra especificación y por\nagua se entiende agua destilada.",
+    "start_char": 40228,
+    "end_char": 40365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.5.2",
+    "label": "8.1.5.5.2 Etanol al 40 y 60%. (C2H6O)",
+    "text": "8.1.5.5.2 Etanol al 40 y 60%. (C2H6O)",
+    "start_char": 40366,
+    "end_char": 40403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.5.3",
+    "label": "8.1.5.5.3 Acido clorhídrico (HCl) de 36,5 a 38% de pureza.",
+    "text": "8.1.5.5.3 Acido clorhídrico (HCl) de 36,5 a 38% de pureza.",
+    "start_char": 40404,
+    "end_char": 40462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.5.4",
+    "label": "8.1.5.5.4 Aceite mineral. Aceite de parafina, blanco y ligero. Con un peso específico de 0,840-0,860",
+    "text": "8.1.5.5.4 Aceite mineral. Aceite de parafina, blanco y ligero. Con un peso específico de 0,840-0,860\n(24ºC)",
+    "start_char": 40463,
+    "end_char": 40570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.5.5",
+    "label": "8.1.5.5.5 Isopropanol (2-propanol) (C3H8O)",
+    "text": "8.1.5.5.5 Isopropanol (2-propanol) (C3H8O)",
+    "start_char": 40571,
+    "end_char": 40613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.5.6",
+    "label": "8.1.5.5.6 Emulsificante: Igepal (Di-alquil-fenoxi-polietilen-oxietanol) o Tween",
+    "text": "8.1.5.5.6 Emulsificante: Igepal (Di-alquil-fenoxi-polietilen-oxietanol) o Tween",
+    "start_char": 40614,
+    "end_char": 40693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.5.7",
+    "label": "8.1.5.5.7 Mezcla de Glicerina: Etanol 1:3 (v/v) opcional.",
+    "text": "8.1.5.5.7 Mezcla de Glicerina: Etanol 1:3 (v/v) opcional.",
+    "start_char": 40694,
+    "end_char": 40751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.5.8",
+    "label": "8.1.5.5.8 Mezclar un volumen de glicerina con 3 volúmenes de etanol.",
+    "text": "8.1.5.5.8 Mezclar un volumen de glicerina con 3 volúmenes de etanol.",
+    "start_char": 40752,
+    "end_char": 40820
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.5.9",
+    "label": "8.1.5.5.9 Isopropanol al 40% (v/v)",
+    "text": "8.1.5.5.9 Isopropanol al 40% (v/v)\nDiluir 40 mL de isopropanol con agua y llevar a un volumen de 100 mL",
+    "start_char": 40821,
+    "end_char": 40924
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.6",
+    "label": "8.1.5.6 Procedimiento",
+    "text": "8.1.5.6 Procedimiento\n\f   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                          (Segunda Sección)   13",
+    "start_char": 40925,
+    "end_char": 41058
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.6.1",
+    "label": "8.1.5.6.1 Pesar por duplicado 50 g de muestra en un vaso de precipitación de 1 o 2 L, adicionar 500 mL",
+    "text": "8.1.5.6.1 Pesar por duplicado 50 g de muestra en un vaso de precipitación de 1 o 2 L, adicionar 500 mL\nde agua caliente (55-70ºC) y 40 mL de HCl. Para producto que contiene alto contenido de grasa,\nadicionar 20 mL de emulsificante (esta adición es optativa).",
+    "start_char": 41059,
+    "end_char": 41317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.6.2",
+    "label": "8.1.5.6.2 Colocar en una parrilla de agitación magnética, calentar la mezcla hasta ebullición agitando",
+    "text": "8.1.5.6.2 Colocar en una parrilla de agitación magnética, calentar la mezcla hasta ebullición agitando\nsuavemente. Hervir durante 20 minutos.",
+    "start_char": 41318,
+    "end_char": 41459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.6.3",
+    "label": "8.1.5.6.3 Transferir el contenido del vaso a un tamiz de malla No. 230 y lavar con una fuerte corriente de",
+    "text": "8.1.5.6.3 Transferir el contenido del vaso a un tamiz de malla No. 230 y lavar con una fuerte corriente de\nagua, hasta que salga clara.",
+    "start_char": 41460,
+    "end_char": 41595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.6.4",
+    "label": "8.1.5.6.4 Lavar los remanentes del tamiz recibiendo el contenido del tamiz en un matraz trampa de",
+    "text": "8.1.5.6.4 Lavar los remanentes del tamiz recibiendo el contenido del tamiz en un matraz trampa de\nWildman.",
+    "start_char": 41596,
+    "end_char": 41702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.6.5",
+    "label": "8.1.5.6.5 Llevar a un volumen de 800 mL con isopropanol al 40% y adicionar 30 mL de HCl. Colocar el",
+    "text": "8.1.5.6.5 Llevar a un volumen de 800 mL con isopropanol al 40% y adicionar 30 mL de HCl. Colocar el\nmatraz sobre una parrilla de agitación magnética.",
+    "start_char": 41703,
+    "end_char": 41852
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-6-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.6.6",
+    "label": "8.1.5.6.6 Subir la varilla de agitación arriba del nivel del líquido sosteniéndola con una pinza. Hervir la",
+    "text": "8.1.5.6.6 Subir la varilla de agitación arriba del nivel del líquido sosteniéndola con una pinza. Hervir la\nmuestra 5 minutos con agitación constante.",
+    "start_char": 41853,
+    "end_char": 42003
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-6-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.6.7",
+    "label": "8.1.5.6.7 Adicionar 50 mL de aceite mineral y agitar 3 min. Quitar el matraz de la palomilla y llenarlo con",
+    "text": "8.1.5.6.7 Adicionar 50 mL de aceite mineral y agitar 3 min. Quitar el matraz de la palomilla y llenarlo con\nisopropanol al 40%. Dejar reposar 10 min. Entrampar, filtrar y enjuagar el cuello del matraz con\nisopropanol o etanol.",
+    "start_char": 42004,
+    "end_char": 42230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-6-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.6.8",
+    "label": "8.1.5.6.8 Filtrar en el papel para conteo. Adicionar nuevamente 50 mL de aceite mineral, mezclar durante",
+    "text": "8.1.5.6.8 Filtrar en el papel para conteo. Adicionar nuevamente 50 mL de aceite mineral, mezclar durante\n1 minuto, dejar reposar 10 minutos y entrampar, enjuagar el cuello del matraz y filtrar. Colocar el filtro con\nel residuo en una caja de Petri. Examinar al microscopio utilizando una luz suficientemente fuerte para\nque muestre los detalles en el papel filtro.",
+    "start_char": 42231,
+    "end_char": 42595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-6-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.6.9",
+    "label": "8.1.5.6.9 Contar explorando con una aguja de disección sobre toda la superficie del papel, línea por línea,",
+    "text": "8.1.5.6.9 Contar explorando con una aguja de disección sobre toda la superficie del papel, línea por línea,\nvoltear y explorar cada pieza del material, pues algunos fragmentos son irreconocibles a menos que se\nmuevan. No contar material dudoso.",
+    "start_char": 42596,
+    "end_char": 42840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.5.7",
+    "label": "8.1.5.7 Expresión de resultados",
+    "text": "8.1.5.7 Expresión de resultados\n\n\n\n\n                           Reportar la materia extraña encontrada en 50 g de\n                           muestra",
+    "start_char": 42841,
+    "end_char": 42988
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6",
+    "label": "8.1.6 Para la determinación del índice de acidez en los aceites y grasas que se utilizan en la fritura de los",
+    "text": "8.1.6 Para la determinación del índice de acidez en los aceites y grasas que se utilizan en la fritura de los\nproductos objeto de esta Norma, se debe aplicar el siguiente método:",
+    "start_char": 42991,
+    "end_char": 43169
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.1",
+    "label": "8.1.6.1 Principio del método",
+    "text": "8.1.6.1 Principio del método",
+    "start_char": 43170,
+    "end_char": 43198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.1.1",
+    "label": "8.1.6.1.1 Se basa en la determinación de los ácidos grasos libres presentes en la muestra, por medio de",
+    "text": "8.1.6.1.1 Se basa en la determinación de los ácidos grasos libres presentes en la muestra, por medio de\nsu valoración con una solución estandarizada de NaOH.",
+    "start_char": 43199,
+    "end_char": 43356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.2",
+    "label": "8.1.6.2 Equipo",
+    "text": "8.1.6.2 Equipo",
+    "start_char": 43357,
+    "end_char": 43371
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.2.1",
+    "label": "8.1.6.2.1 Balanza analítica con una precisión de 0,1 mg",
+    "text": "8.1.6.2.1 Balanza analítica con una precisión de 0,1 mg",
+    "start_char": 43372,
+    "end_char": 43427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.2.2",
+    "label": "8.1.6.2.2 Baño de vapor.",
+    "text": "8.1.6.2.2 Baño de vapor.",
+    "start_char": 43428,
+    "end_char": 43452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.3",
+    "label": "8.1.6.3 Materiales",
+    "text": "8.1.6.3 Materiales",
+    "start_char": 43453,
+    "end_char": 43471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.3.1",
+    "label": "8.1.6.3.1 Matraces Erlenmeyer de 250 mL",
+    "text": "8.1.6.3.1 Matraces Erlenmeyer de 250 mL",
+    "start_char": 43472,
+    "end_char": 43511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.3.2",
+    "label": "8.1.6.3.2 Bureta de 50 mL con divisiones de 0,1 mL",
+    "text": "8.1.6.3.2 Bureta de 50 mL con divisiones de 0,1 mL",
+    "start_char": 43512,
+    "end_char": 43562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.4",
+    "label": "8.1.6.4 Reactivos",
+    "text": "8.1.6.4 Reactivos",
+    "start_char": 43563,
+    "end_char": 43580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.4.1",
+    "label": "8.1.6.4.1 Todos los reactivos deben ser grado analítico a menos que se indique otra especificación y por",
+    "text": "8.1.6.4.1 Todos los reactivos deben ser grado analítico a menos que se indique otra especificación y por\nagua se entiende agua destilada.",
+    "start_char": 43581,
+    "end_char": 43718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.4.2",
+    "label": "8.1.6.4.2 Solución indicadora de fenolftaleína al 1% en etanol.",
+    "text": "8.1.6.4.2 Solución indicadora de fenolftaleína al 1% en etanol.",
+    "start_char": 43719,
+    "end_char": 43782
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.4.3",
+    "label": "8.1.6.4.3 Soluciones valoradas de hidróxido de sodio (NaOH) 0,1, 0,25 o 1,0 N.",
+    "text": "8.1.6.4.3 Soluciones valoradas de hidróxido de sodio (NaOH) 0,1, 0,25 o 1,0 N.",
+    "start_char": 43783,
+    "end_char": 43861
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.4.4",
+    "label": "8.1.6.4.4 Etanol al 95% (C2H6O) neutralizado. Agregar unas gotas de solución indicadora de fenolftaleína",
+    "text": "8.1.6.4.4 Etanol al 95% (C2H6O) neutralizado. Agregar unas gotas de solución indicadora de fenolftaleína\ny adicionar gota a gota solución estándar de NaOH 0,1 N hasta la aparición de la primera coloración rosa\nque persista por 30 segundos.",
+    "start_char": 43862,
+    "end_char": 44101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.5",
+    "label": "8.1.6.5 Procedimiento",
+    "text": "8.1.6.5 Procedimiento\n\f   Lunes 18 de agosto de 2003                    DIARIO OFICIAL                            (Segunda Sección)   14",
+    "start_char": 44102,
+    "end_char": 44238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.5.1",
+    "label": "8.1.6.5.1 Homogeneizar manualmente la muestra. La cantidad de muestra empleada en esta determinación",
+    "text": "8.1.6.5.1 Homogeneizar manualmente la muestra. La cantidad de muestra empleada en esta determinación\nserá de acuerdo con la siguiente tabla.\n                                      Tabla 11. Cantidad de muestra\n Intervalo de % AGL             g de muestra                mL de etanol            Normalidad de NaOH\n 0,00 a 0,2                     56,4  0,2                  50                      0,1\n 0,2 a 1,0                      28,2  0,2                  50                      0,1\n 1,0 a 30,0                     7,05  0,05                 75                      0,25\n 30,0 a 50,0                    7,05  0,05                 100                     0,25 o 1,0\n 50,0 a 100                     3,525  0,001               100                     1,0",
+    "start_char": 44239,
+    "end_char": 44998
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.5.2",
+    "label": "8.1.6.5.2 A la muestra pesada contenida en un matraz Erlenmeyer, se le adicionan los mililitros de etanol",
+    "text": "8.1.6.5.2 A la muestra pesada contenida en un matraz Erlenmeyer, se le adicionan los mililitros de etanol\nindicados en la tabla anterior. Mezclar, si la disolución no es completa en frío, calentar suavemente el\nmatraz en baño de vapor y agregar 2 mL de solución indicadora de fenolftaleína.",
+    "start_char": 45001,
+    "end_char": 45291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.5.3",
+    "label": "8.1.6.5.3 Titular con la solución estándar de NaOH respectiva, agitar hasta la aparición de la primera",
+    "text": "8.1.6.5.3 Titular con la solución estándar de NaOH respectiva, agitar hasta la aparición de la primera\ncoloración rosa que persista por 30 segundos.",
+    "start_char": 45292,
+    "end_char": 45440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.6",
+    "label": "8.1.6.6 Cálculos",
+    "text": "8.1.6.6 Cálculos\n\n\n                                                        .                             ,",
+    "start_char": 45441,
+    "end_char": 45547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.6.1",
+    "label": "8.1.6.6.1      %                á",
+    "text": "8.1.6.6.1      %                á",
+    "start_char": 45548,
+    "end_char": 45581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-6-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.6.7",
+    "label": "8.1.6.7 Expresión de resultados",
+    "text": "8.1.6.7 Expresión de resultados\n\n\n\n\n                       % de Acidos Grasos Libres expresados como ácido oleico",
+    "start_char": 45584,
+    "end_char": 45697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.7",
+    "label": "8.1.7 Para la determinación de aflatoxinas en masa, tortillas, tostadas y harinas preparadas para elaborar",
+    "text": "8.1.7 Para la determinación de aflatoxinas en masa, tortillas, tostadas y harinas preparadas para elaborar\ntortillas se debe aplicar cualquiera de los métodos de prueba establecidos en la NOM-247-SSA1-2008,\ncitada en el apartado de referencias. En el caso de la masa y las tortillas se debe aplicar previamente el\nsiguiente procedimiento de preparación de la muestra:\n[Modificación publicada en el DOF el 1° de febrero de 2011]",
+    "start_char": 45702,
+    "end_char": 46129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.7.1",
+    "label": "8.1.7.1 Preparación de la muestra.",
+    "text": "8.1.7.1 Preparación de la muestra.",
+    "start_char": 46132,
+    "end_char": 46166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-7-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.7.1.1",
+    "label": "8.1.7.1.1 Para la determinación de aflatoxinas en tortillas.",
+    "text": "8.1.7.1.1 Para la determinación de aflatoxinas en tortillas.",
+    "start_char": 46167,
+    "end_char": 46227
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-7-1-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.7.1.1.1",
+    "label": "8.1.7.1.1.1 Pesar en balanza granataria la muestra completa al recibirla (peso inicial).",
+    "text": "8.1.7.1.1.1 Pesar en balanza granataria la muestra completa al recibirla (peso inicial).",
+    "start_char": 46228,
+    "end_char": 46316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-7-1-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.7.1.1.2",
+    "label": "8.1.7.1.1.2 Separar todas las tortillas que conforman la muestra, cortar el producto en tiras y dejar secar a",
+    "text": "8.1.7.1.1.2 Separar todas las tortillas que conforman la muestra, cortar el producto en tiras y dejar secar a\ntemperatura ambiente o en estufa de secado máximo a 60ºC, siempre y cuando no modifique las\ncaracterísticas de la muestra, hasta obtener un producto quebradizo.",
+    "start_char": 46317,
+    "end_char": 46587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-7-1-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.7.1.1.3",
+    "label": "8.1.7.1.1.3 Pesar el producto seco en balanza granataria (peso final).",
+    "text": "8.1.7.1.1.3 Pesar el producto seco en balanza granataria (peso final).",
+    "start_char": 46588,
+    "end_char": 46658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-7-1-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.7.1.1.4",
+    "label": "8.1.7.1.1.4 Calcular el contenido de humedad de la muestra, aplicando la siguiente fórmula:",
+    "text": "8.1.7.1.1.4 Calcular el contenido de humedad de la muestra, aplicando la siguiente fórmula:\n\n\n                                                                           100\n                                %\n\f   Lunes 18 de agosto de 2003                  DIARIO OFICIAL                        (Segunda Sección)   15",
+    "start_char": 46659,
+    "end_char": 46974
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-7-1-1-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.7.1.1.5",
+    "label": "8.1.7.1.1.5 Moler la muestra y pasarla a través de malla 20, mezclar y pesar la cantidad establecida en la",
+    "text": "8.1.7.1.1.5 Moler la muestra y pasarla a través de malla 20, mezclar y pesar la cantidad establecida en la\nNOM-247-SSA1-2008, citada en el apartado de referencias y continuar con lo especificado en el mismo.\n[Modificación publicada en el DOF el 1° de febrero de 2011]",
+    "start_char": 46979,
+    "end_char": 47246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-7-1-1-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.7.1.1.6",
+    "label": "8.1.7.1.1.6 Reportar el contenido de aflatoxinas en g/kg con base a la humedad calculada en el producto",
+    "text": "8.1.7.1.1.6 Reportar el contenido de aflatoxinas en g/kg con base a la humedad calculada en el producto\noriginal, de la siguiente manera:\n\n\n\n\n                                                                        á       %\n                                                              100",
+    "start_char": 47248,
+    "end_char": 47538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.8",
+    "label": "8.1.8 Para la determinación de aflatoxinas en tostadas y harinas preparadas para elaborar tortilla, se debe",
+    "text": "8.1.8 Para la determinación de aflatoxinas en tostadas y harinas preparadas para elaborar tortilla, se debe\naplicar cualquiera de los métodos de prueba establecidos en la NOM-247-SSA1-2008, citada en el\napartado de referencias.\n[Modificación publicada en el DOF el 1° de febrero de 2011]",
+    "start_char": 47542,
+    "end_char": 47829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9",
+    "label": "8.1.9 Para la determinación de pureza y metales pesados del hidróxido de calcio u óxido de calcio y óxido",
+    "text": "8.1.9 Para la determinación de pureza y metales pesados del hidróxido de calcio u óxido de calcio y óxido\nde calcio y magnesio en cal viva y cal hidratada, se debe aplicar el método señalado a continuación y el\nmétodo establecido en la NOM-117-SSA1-1994, señalada en el apartado de referencias:",
+    "start_char": 47831,
+    "end_char": 48125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.1",
+    "label": "8.1.9.1 Principio del método",
+    "text": "8.1.9.1 Principio del método",
+    "start_char": 48126,
+    "end_char": 48154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.1.1",
+    "label": "8.1.9.1.1 Este método involucra a aquellos compuestos con alto contenido de calcio, como cal viva y la cal",
+    "text": "8.1.9.1.1 Este método involucra a aquellos compuestos con alto contenido de calcio, como cal viva y la cal\nhidratada.",
+    "start_char": 48155,
+    "end_char": 48272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.1.2",
+    "label": "8.1.9.1.2 La muestra se hace reaccionar en agua y se dispersa en ella. La cal se solubiliza por la reacción",
+    "text": "8.1.9.1.2 La muestra se hace reaccionar en agua y se dispersa en ella. La cal se solubiliza por la reacción\ncon el azúcar, formando el sucrato de calcio, el cual se cuantifica por titulación con una solución ácida\nestandarizada, usando como indicador a la fenoftaleína.",
+    "start_char": 48273,
+    "end_char": 48542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.2",
+    "label": "8.1.9.2 Equipo",
+    "text": "8.1.9.2 Equipo",
+    "start_char": 48543,
+    "end_char": 48557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.2.1",
+    "label": "8.1.9.2.1 Balanza analítica con precisión de 0,1 mg",
+    "text": "8.1.9.2.1 Balanza analítica con precisión de 0,1 mg",
+    "start_char": 48558,
+    "end_char": 48609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.2.2",
+    "label": "8.1.9.2.2 Estufa de secado que alcance hasta 250ºC",
+    "text": "8.1.9.2.2 Estufa de secado que alcance hasta 250ºC",
+    "start_char": 48610,
+    "end_char": 48660
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.3",
+    "label": "8.1.9.3 Materiales",
+    "text": "8.1.9.3 Materiales",
+    "start_char": 48661,
+    "end_char": 48679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.3.1",
+    "label": "8.1.9.3.1 Papel filtro, conforme a los requerimientos de cada especificación",
+    "text": "8.1.9.3.1 Papel filtro, conforme a los requerimientos de cada especificación",
+    "start_char": 48680,
+    "end_char": 48756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.3.2",
+    "label": "8.1.9.3.2 Material común de laboratorio.",
+    "text": "8.1.9.3.2 Material común de laboratorio.",
+    "start_char": 48757,
+    "end_char": 48797
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4",
+    "label": "8.1.9.4 Reactivos",
+    "text": "8.1.9.4 Reactivos",
+    "start_char": 48798,
+    "end_char": 48815
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.1",
+    "label": "8.1.9.4.1 Los reactivos que a continuación se indican deben ser grado analítico a menos que se indique",
+    "text": "8.1.9.4.1 Los reactivos que a continuación se indican deben ser grado analítico a menos que se indique\notra especificación y por agua se entiende agua destilada.",
+    "start_char": 48816,
+    "end_char": 48977
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.2",
+    "label": "8.1.9.4.2 Solución estándar de ácido clorhídrico (HCl) 0,1782 N",
+    "text": "8.1.9.4.2 Solución estándar de ácido clorhídrico (HCl) 0,1782 N",
+    "start_char": 48978,
+    "end_char": 49041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.2.1",
+    "label": "8.1.9.4.2.1 Preparar la solución diluyendo 15,7 mL de HCl concentrado, densidad de 1,19, en un litro de",
+    "text": "8.1.9.4.2.1 Preparar la solución diluyendo 15,7 mL de HCl concentrado, densidad de 1,19, en un litro de\nagua destilada fría libre de CO2. Esta solución está intencionalmente un poco más concentrada de lo\nnecesario.\n8.1.9 4.2.2 Estandarización de la solución de HCl con carbonato de sodio (Na2CO3)",
+    "start_char": 49042,
+    "end_char": 49338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-2-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.2.2.1",
+    "label": "8.1.9.4.2.2.1 Pesar cuidadosamente, en un matraz Erlenmeyer 0,85 g de (Na2CO3) puro, anhidro y",
+    "text": "8.1.9.4.2.2.1 Pesar cuidadosamente, en un matraz Erlenmeyer 0,85 g de (Na2CO3) puro, anhidro y\nsecado por 4 horas a 250ºC.",
+    "start_char": 49339,
+    "end_char": 49461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-2-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.2.2.2",
+    "label": "8.1.9.4.2.2.2 Mezclar con 75 mL de agua destilada. Después de disolver el Na2CO3, agregar 2 o 3 gotas",
+    "text": "8.1.9.4.2.2.2 Mezclar con 75 mL de agua destilada. Después de disolver el Na2CO3, agregar 2 o 3 gotas\ndel indicador anaranjado de metilo, titular con el ácido estándar hasta que el indicador se torne\ncompletamente rosa, (esta titulación también se puede llevar a cabo potenciométricamente, con la ayuda\nde un electrodo de vidrio y otro de Calomel) después agregar aproximadamente un mL de ácido en\nexceso. Hervir suavemente la solución acidificada, durante 5 min para eliminar el CO2.",
+    "start_char": 49462,
+    "end_char": 49946
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-2-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.2.2.3",
+    "label": "8.1.9.4.2.2.3 Dejar que la solución se enfríe a temperatura ambiente. Agregar la solución de hidróxido de",
+    "text": "8.1.9.4.2.2.3 Dejar que la solución se enfríe a temperatura ambiente. Agregar la solución de hidróxido de\nsodio (NaOH) 0,3 N estandarizada, hasta que el indicador de la solución se torne a color amarillo. Titular\ncon HCl estándar hasta la aparición de un ligero color rosa y calcular la normalidad con la siguiente\necuación:\n\f   Lunes 18 de agosto de 2003                     DIARIO OFICIAL                        (Segunda Sección)   16\n\n\n\n\n                                                        1000\n                                                       52,994\n\n\n\nDonde:\nN = Normalidad de la solución de HCl.\nW = Gramos de carbonato de potasio.\nV = Mililitros de HCl gastados en la titulación.\n52,994 = Peso equivalente del carbonato de calcio.",
+    "start_char": 49947,
+    "end_char": 50694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-2-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.2.2.4",
+    "label": "8.1.9.4.2.2.4 Ajustar la normalidad de la solución a 0,1782 N, según sea el caso, adicionando agua",
+    "text": "8.1.9.4.2.2.4 Ajustar la normalidad de la solución a 0,1782 N, según sea el caso, adicionando agua\nhervida y fría libre de CO2 si la solución es más concentrada, o HCl concentrado si la solución es más\ndiluida, de manera que 0,85 g de Na2CO3 sean neutralizados con 90 mL de la solución estándar de HCl.",
+    "start_char": 50695,
+    "end_char": 50997
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-2-2-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.2.2.5",
+    "label": "8.1.9.4.2.2.5 De acuerdo con esto, un mL de este HCl, titulará 0,005 g de CaO; y 0,0066 g de hidróxido de",
+    "text": "8.1.9.4.2.2.5 De acuerdo con esto, un mL de este HCl, titulará 0,005 g de CaO; y 0,0066 g de hidróxido de\ncalcio Ca(OH)2 expresado de otra manera: un mL de HCl 0,01782 N equivale a 1% de CaO y a 1,32% de\nCa(OH)2 considerando que el peso de la muestra es de 0,5 g.",
+    "start_char": 50998,
+    "end_char": 51261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.2.3",
+    "label": "8.1.9.4.2.3 Estandarización de HCl con NaOH.",
+    "text": "8.1.9.4.2.3 Estandarización de HCl con NaOH.",
+    "start_char": 51262,
+    "end_char": 51306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-2-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.2.3.1",
+    "label": "8.1.9.4.2.3.1 Agregar en un matraz Erlenmeyer 25 mL de una solución 0,3 N de NaOH, agregar 2 gotas",
+    "text": "8.1.9.4.2.3.1 Agregar en un matraz Erlenmeyer 25 mL de una solución 0,3 N de NaOH, agregar 2 gotas\ndel indicador de fenolftaleína al 4% y diluir aproximadamente 100 mL con agua hervida libre de CO2 y fría.\nTitular con el ácido estandarizado hasta desaparición del color rosa.",
+    "start_char": 51307,
+    "end_char": 51582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-2-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.2.3.2",
+    "label": "8.1.9.4.2.3.2 Calcular la normalidad del HCl de la siguiente manera:",
+    "text": "8.1.9.4.2.3.2 Calcular la normalidad del HCl de la siguiente manera:\n\n\n\n\nDonde:\nV1 = mL de la solución de NaOH\nN1 = Normalidad de la solución de NaOH\nV2 = mL de HCl\nN2 = Normalidad del HCl",
+    "start_char": 51583,
+    "end_char": 51771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.3",
+    "label": "8.1.9.4.3 Indicador anaranjado de metilo al 0,1% en agua",
+    "text": "8.1.9.4.3 Indicador anaranjado de metilo al 0,1% en agua",
+    "start_char": 51774,
+    "end_char": 51830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.4",
+    "label": "8.1.9.4.4 Indicador de fenolftaleína al 4%",
+    "text": "8.1.9.4.4 Indicador de fenolftaleína al 4%\nDisolver 4 g de fenolftaleína seca (secada a 105ºC) en 100 mL de alcohol etílico al 95%.",
+    "start_char": 51831,
+    "end_char": 51962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.5",
+    "label": "8.1.9.4.5 Solución de hidróxido de sodio 0,3 N.",
+    "text": "8.1.9.4.5 Solución de hidróxido de sodio 0,3 N.",
+    "start_char": 51963,
+    "end_char": 52010
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.5.1",
+    "label": "8.1.9.4.5.1 Disolver 12 g de hidróxido de sodio en un litro de agua hervida fría libre de CO2.",
+    "text": "8.1.9.4.5.1 Disolver 12 g de hidróxido de sodio en un litro de agua hervida fría libre de CO2.",
+    "start_char": 52011,
+    "end_char": 52105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.5.2",
+    "label": "8.1.9.4.5.2 Agregar 10 mL de una solución saturada recientemente preparada y filtrada de hidróxido de",
+    "text": "8.1.9.4.5.2 Agregar 10 mL de una solución saturada recientemente preparada y filtrada de hidróxido de\nbario Ba(OH)2 (el hidróxido de bario precipita al carbonato como carbonato de bario insoluble), agitar la\nsolución frecuentemente por varias horas y filtrar. Guardar la solución en un matraz protegido del CO2 del\naire por medio de un tubo empacado con ascarita.",
+    "start_char": 52106,
+    "end_char": 52469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.5.3",
+    "label": "8.1.9.4.5.3 Estandarizar la solución empleando un estándar de preferencia de ácido benzoico o ftalato",
+    "text": "8.1.9.4.5.3 Estandarizar la solución empleando un estándar de preferencia de ácido benzoico o ftalato\nácido de potasio de la siguiente manera:",
+    "start_char": 52470,
+    "end_char": 52612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-5-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.5.3.1",
+    "label": "8.1.9.4.5.3.1 Secar el estándar del ftalato ácido de potasio (polvo fino de aproximadamente 10 mallas) por",
+    "text": "8.1.9.4.5.3.1 Secar el estándar del ftalato ácido de potasio (polvo fino de aproximadamente 10 mallas) por\ndos horas a 100ºC. Poner en un recipiente cerrado a enfriar en el desecador.\n\f   Lunes 18 de agosto de 2003                    DIARIO OFICIAL                      (Segunda Sección)   17",
+    "start_char": 52613,
+    "end_char": 52905
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.5.4",
+    "label": "8.1.9.4.5.4 Pesar exactamente alrededor de 1 g del estándar seco y transferir a un matraz Erlenmeyer de",
+    "text": "8.1.9.4.5.4 Pesar exactamente alrededor de 1 g del estándar seco y transferir a un matraz Erlenmeyer de\n500 mL.",
+    "start_char": 52906,
+    "end_char": 53017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.5.5",
+    "label": "8.1.9.4.5.5 Adicionar 50 mL de agua destilada hervida libre de CO2 fría y agitar suavemente para",
+    "text": "8.1.9.4.5.5 Adicionar 50 mL de agua destilada hervida libre de CO2 fría y agitar suavemente para\ndisolverlo. Agregar 3 gotas del indicador de fenoftaleína y titular con la solución de hidróxido de sodio,\nhasta que aparezca el primer color rosado.",
+    "start_char": 53019,
+    "end_char": 53265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.5.6",
+    "label": "8.1.9.4.5.6 Calcular la normalidad de la siguiente manera:",
+    "text": "8.1.9.4.5.6 Calcular la normalidad de la siguiente manera:\n\n\n\n\n                                                        1000\n                                                       204.228\n\n\n\nDonde:\nN = Normalidad de la solución de NaOH\nW = Gramos del ftalato ácido de potasio\nV = Mililitros de NaOH usados en la titulación\n204,228 = peso equivalente del ftalato ácido de potasio",
+    "start_char": 53266,
+    "end_char": 53643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.6",
+    "label": "8.1.9.4.6 Solución de sacarosa (puede emplearse azúcar pura de caña)",
+    "text": "8.1.9.4.6 Solución de sacarosa (puede emplearse azúcar pura de caña)",
+    "start_char": 53646,
+    "end_char": 53714
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.6.1",
+    "label": "8.1.9.4.6.1 Para cada muestra usar 20 g de azúcar refinada disuelta en 40 mL de agua destilada fría y",
+    "text": "8.1.9.4.6.1 Para cada muestra usar 20 g de azúcar refinada disuelta en 40 mL de agua destilada fría y\nlibre de CO2, una vez disuelta, agregue 2 gotas de fenoftaleína y posteriormente agregar gota a gota\nsolución de hidróxido de sodio 0,1N con agitación constante hasta que persista un ligero color rosa.",
+    "start_char": 53715,
+    "end_char": 54018
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-4-6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.4.6.2",
+    "label": "8.1.9.4.6.2 La solución de azúcar no debe almacenarse por más de 2 días.",
+    "text": "8.1.9.4.6.2 La solución de azúcar no debe almacenarse por más de 2 días.",
+    "start_char": 54019,
+    "end_char": 54091
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.5",
+    "label": "8.1.9.5 Procedimiento",
+    "text": "8.1.9.5 Procedimiento",
+    "start_char": 54092,
+    "end_char": 54113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.5.1",
+    "label": "8.1.9.5.1 Procedimiento para óxido de calcio (CaO) o cal viva",
+    "text": "8.1.9.5.1 Procedimiento para óxido de calcio (CaO) o cal viva",
+    "start_char": 54114,
+    "end_char": 54175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-5-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.5.1.1",
+    "label": "8.1.9.5.1.1 Pesar lo más rápido posible 0,5 g de CaO finamente pulverizado; depositar en un matraz",
+    "text": "8.1.9.5.1.1 Pesar lo más rápido posible 0,5 g de CaO finamente pulverizado; depositar en un matraz\nErlenmeyer que contenga 10 mL de agua destilada, tape inmediatamente.",
+    "start_char": 54176,
+    "end_char": 54344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-5-1-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.5.1.1.1",
+    "label": "8.1.9.5.1.1.1 Precaución: El agua no debe agregarse a la muestra, especialmente en el caso del CaO,",
+    "text": "8.1.9.5.1.1.1 Precaución: El agua no debe agregarse a la muestra, especialmente en el caso del CaO,\nporque el material tiende a formar grumos y terrones que dificultan la disolución completa del material en\nla solución de azúcar. Por otra parte, si la cal se agrega al agua, se presentará una mayor dispersión de\nlas partículas finas dando como resultado una disolución más rápida de la muestra. En el caso del CaO es\nposible que ocurra la reacción de apagado y facilite la dispersión en la solución.",
+    "start_char": 54345,
+    "end_char": 54845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-5-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.5.1.2",
+    "label": "8.1.9.5.1.2 Poner el matraz sobre una placa caliente, teniendo cuidado de retirar el tapón; rápidamente",
+    "text": "8.1.9.5.1.2 Poner el matraz sobre una placa caliente, teniendo cuidado de retirar el tapón; rápidamente\nagregue 50 mL de agua hirviendo libre de CO2. Agitar el matraz y hervir activamente durante un minuto\n(para que el apagado o hidratado de la cal se complete). Retirar de la placa caliente y tapar el matraz;\nponer dentro de un balde con agua fría a que alcance la temperatura ambiente.",
+    "start_char": 54846,
+    "end_char": 55234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-5-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.5.1.3",
+    "label": "8.1.9.5.1.3 Agregar 50 mL de la solución azucarada neutralizada. Tapar, agitar y dejar que reaccione",
+    "text": "8.1.9.5.1.3 Agregar 50 mL de la solución azucarada neutralizada. Tapar, agitar y dejar que reaccione\ndurante 15 min. El tiempo de reacción no debe ser menor a 10 min ni mayor a 20 min. Agitar a intervalos\nde 5 min durante la reacción. Quite el tapón y agregue de 4 a 5 gotas del indicador de fenolftaleína al 4%.\nLavar las paredes del matraz y el tapón con agua destilada.",
+    "start_char": 55235,
+    "end_char": 55607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-5-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.5.1.4",
+    "label": "8.1.9.5.1.4 Titular rápidamente con la solución de HCl estándar, usando una bureta de 100 mL. Anote los",
+    "text": "8.1.9.5.1.4 Titular rápidamente con la solución de HCl estándar, usando una bureta de 100 mL. Anote los\nmL de HCl consumidos, cuando desaparezca por primera vez el color rosa.",
+    "start_char": 55608,
+    "end_char": 55783
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.5.2",
+    "label": "8.1.9.5.2 Procedimiento para cal hidratada Ca(OH)2 o cal apagada.",
+    "text": "8.1.9.5.2 Procedimiento para cal hidratada Ca(OH)2 o cal apagada.",
+    "start_char": 55784,
+    "end_char": 55849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-5-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.5.2.1",
+    "label": "8.1.9.5.2.1 El procedimiento para determinar los contenidos de hidróxido de calcio es el mismo que se usa",
+    "text": "8.1.9.5.2.1 El procedimiento para determinar los contenidos de hidróxido de calcio es el mismo que se usa\npara la determinación del CaO; con la diferencia de que se usa agua destilada libre de CO2 y fría.\nOmitiendo los procesos de ebullición, calentamiento y enfriamiento.",
+    "start_char": 55850,
+    "end_char": 56122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.6",
+    "label": "8.1.9.6 Cálculos",
+    "text": "8.1.9.6 Cálculos",
+    "start_char": 56123,
+    "end_char": 56139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.6.1",
+    "label": "8.1.9.6.1 Los cálculos para CaO son:",
+    "text": "8.1.9.6.1 Los cálculos para CaO son:\n\n\n\n                                                                   0,5\n                                                   %\n\f   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                         (Segunda Sección)      18\n\n\nDonde:\nW = Peso de la muestra en gramos\nV = mL de HCl estándar (0,1782 N) utilizados\n0,5 g de CaO equivalen a un mL de ácido estándar x 100, o un mL de un HCl estándar equivale al 1% de\nCaO si exactamente se usaron 0,5 g de muestra.",
+    "start_char": 56140,
+    "end_char": 56652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-9-6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.9.6.2",
+    "label": "8.1.9.6.2 Cálculos para Ca(OH)2",
+    "text": "8.1.9.6.2 Cálculos para Ca(OH)2\n\n\n                                                                              0,66\n                                ó                         %\n\n\n\n\nDonde:\nV = mL de HCl estándar (0,1782 N)\nW = Peso de la muestra en gramos\n0,66 = Gramos de Ca(OH)2 equivalentes a un mL de ácido estándar x 100, o\n1 mL de HCl estándar = 1,32% de Ca(OH)2, cuando se usan exactamente 0,5 g de muestra.",
+    "start_char": 56653,
+    "end_char": 57066
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10",
+    "label": "8.1.10 Determinación del óxido de calcio y magnesio, en cal viva (CaO) y cal hidratada Ca(OH)2",
+    "text": "8.1.10 Determinación del óxido de calcio y magnesio, en cal viva (CaO) y cal hidratada Ca(OH)2",
+    "start_char": 57068,
+    "end_char": 57162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.1",
+    "label": "8.1.10.1 Principio del método",
+    "text": "8.1.10.1 Principio del método",
+    "start_char": 57164,
+    "end_char": 57193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.1.1",
+    "label": "8.1.10.1.1 El calcio y el magnesio son determinados por la titulación con EDTA (ácido etilendiamino",
+    "text": "8.1.10.1.1 El calcio y el magnesio son determinados por la titulación con EDTA (ácido etilendiamino\ntetraacético), después de la separación del sílice y del grupo hidróxido de amonio durante un análisis de\nrutina de CaO y Ca(OH)2. Los ensayos también pueden realizarse después de una descomposición\ndirecta con ácido clorhídrico, seguida por eliminación del sílice e insolubles.",
+    "start_char": 57194,
+    "end_char": 57572
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.1.2",
+    "label": "8.1.10.1.2 En el caso de que se encuentren presentes interferencias en cantidades que puedan causar",
+    "text": "8.1.10.1.2 En el caso de que se encuentren presentes interferencias en cantidades que puedan causar\nproblemas, éstas pueden ser suprimidas por la adición de agentes que enmascaran o formen complejos,\ncomo la trietanolamina.",
+    "start_char": 57573,
+    "end_char": 57796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.1.3",
+    "label": "8.1.10.1.3 Para la determinación de calcio, la solución se ajusta a un pH de 12,0 a 12,5 con solución de",
+    "text": "8.1.10.1.3 Para la determinación de calcio, la solución se ajusta a un pH de 12,0 a 12,5 con solución de\nhidróxido de potasio y titulada con EDTA a un vire azul, usando como indicador azul de hidroxinaftol.",
+    "start_char": 57797,
+    "end_char": 58003
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.1.4",
+    "label": "8.1.10.1.4 Tanto el óxido de calcio (CaO) como el óxido de magnesio (MgO), son titulados en una",
+    "text": "8.1.10.1.4 Tanto el óxido de calcio (CaO) como el óxido de magnesio (MgO), son titulados en una\nsolución reguladora amoniacal (NH3.NH4Cl) ajustada a un pH de 10,0 a 10,5, usando Calmagita [Acido 1-\n(hidroxil-4-metil-2-fenilazo)-2-naftol-4-sulfónico] como indicador. El óxido de magnesio se calcula restando\nel EDTA equivalente al óxido de calcio presente, del EDTA equivalente al CaO+MgO.",
+    "start_char": 58004,
+    "end_char": 58392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.2",
+    "label": "8.1.10.2 Equipo",
+    "text": "8.1.10.2 Equipo",
+    "start_char": 58395,
+    "end_char": 58410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.2.1",
+    "label": "8.1.10.2.1 Estufa eléctrica",
+    "text": "8.1.10.2.1 Estufa eléctrica",
+    "start_char": 58411,
+    "end_char": 58438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.2.2",
+    "label": "8.1.10.2.2 Balanza analítica con sensibilidad de 0,1 mg",
+    "text": "8.1.10.2.2 Balanza analítica con sensibilidad de 0,1 mg",
+    "start_char": 58439,
+    "end_char": 58494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.3",
+    "label": "8.1.10.3 Materiales",
+    "text": "8.1.10.3 Materiales",
+    "start_char": 58495,
+    "end_char": 58514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.3.1",
+    "label": "8.1.10.3.1 Material común de laboratorio",
+    "text": "8.1.10.3.1 Material común de laboratorio",
+    "start_char": 58515,
+    "end_char": 58555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.3.2",
+    "label": "8.1.10.3.2 Papel filtro Whatman No. 41",
+    "text": "8.1.10.3.2 Papel filtro Whatman No. 41",
+    "start_char": 58556,
+    "end_char": 58594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4",
+    "label": "8.1.10.4 Reactivos",
+    "text": "8.1.10.4 Reactivos",
+    "start_char": 58595,
+    "end_char": 58613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.1",
+    "label": "8.1.10.4.1 Todos los reactivos deben ser grado analítico, a menos que se indique otra especificación y por",
+    "text": "8.1.10.4.1 Todos los reactivos deben ser grado analítico, a menos que se indique otra especificación y por\nagua se entiende agua destilada.",
+    "start_char": 58614,
+    "end_char": 58753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.2",
+    "label": "8.1.10.4.2 Solución de la sal disódica del ácido etilén diaminotetraacético o EDTA (C10 H14 N2 Na2",
+    "text": "8.1.10.4.2 Solución de la sal disódica del ácido etilén diaminotetraacético o EDTA (C10 H14 N2 Na2\nO8.2H2O) al 0,4%\nDisolver 4,0 g de la sal disódica del ácido etilén diaminotetraacético en un matraz volumétrico de un litro\ny llevar al volumen con agua destilada.",
+    "start_char": 58754,
+    "end_char": 59017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.3",
+    "label": "8.1.10.4.3 Solución de hidróxido de potasio KOH (1,0 N)",
+    "text": "8.1.10.4.3 Solución de hidróxido de potasio KOH (1,0 N)\n\f   Lunes 18 de agosto de 2003                     DIARIO OFICIAL                         (Segunda Sección)   19\nDisolver 56,0 g de hidróxido de potasio en un matraz volumétrico de un litro y llevar al volumen con agua\ndestilada.",
+    "start_char": 59018,
+    "end_char": 59303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.4",
+    "label": "8.1.10.4.4 Solución reguladora amoniacal (NH3 .NH4Cl)",
+    "text": "8.1.10.4.4 Solución reguladora amoniacal (NH3 .NH4Cl)",
+    "start_char": 59304,
+    "end_char": 59357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.4.1",
+    "label": "8.1.10.4.4.1 Disolver 67,5 g de cloruro de amonio (NH4Cl) en 300 mL de agua destilada, añadir 570 mL de",
+    "text": "8.1.10.4.4.1 Disolver 67,5 g de cloruro de amonio (NH4Cl) en 300 mL de agua destilada, añadir 570 mL de\nhidróxido de amonio (NH4OH) y diluir a un litro.",
+    "start_char": 59358,
+    "end_char": 59510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.5",
+    "label": "8.1.10.4.5 Acido clorhídrico (HCl) (1+1 v/v)",
+    "text": "8.1.10.4.5 Acido clorhídrico (HCl) (1+1 v/v)\nDiluir un volumen de ácido clorhídrico concentrado (Densidad de 1,19) con un volumen de agua destilada.",
+    "start_char": 59511,
+    "end_char": 59659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.6",
+    "label": "8.1.10.4.6 Acido clorhídrico (1+9 v/v)",
+    "text": "8.1.10.4.6 Acido clorhídrico (1+9 v/v)\nDiluir un volumen de ácido clorhídrico concentrado (Densidad de 1,19) con nueve volúmenes iguales de\nagua destilada.",
+    "start_char": 59660,
+    "end_char": 59815
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.7",
+    "label": "8.1.10.4.7 Trietanolamina (2,2’,2” Nitrilotrietanol, C6 H15NO3) solución (1+2 v/v)",
+    "text": "8.1.10.4.7 Trietanolamina (2,2’,2” Nitrilotrietanol, C6 H15NO3) solución (1+2 v/v)\nDiluir un volumen de trietanolamina en dos volúmenes de agua.",
+    "start_char": 59816,
+    "end_char": 59960
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.8",
+    "label": "8.1.10.4.8 Solución estandarizada de calcio (1,0 mg de CaO/mL)",
+    "text": "8.1.10.4.8 Solución estandarizada de calcio (1,0 mg de CaO/mL)\nPesar 1,785 g de carbonato de calcio grado reactivo analítico, disolver en HCl (1+9) y diluir a un litro con\nagua destilada.",
+    "start_char": 59961,
+    "end_char": 60148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.9",
+    "label": "8.1.10.4.9 Solución estandarizada de magnesio (1,0 mg de MgO/mL)",
+    "text": "8.1.10.4.9 Solución estandarizada de magnesio (1,0 mg de MgO/mL)\nDisolver 0,603 g de magnesio metálico con HCl concentrado y diluir a un litro con agua destilada.",
+    "start_char": 60149,
+    "end_char": 60311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.10",
+    "label": "8.1.10.4.10 Azul de hidroxinaftol (Indicador de calcio)",
+    "text": "8.1.10.4.10 Azul de hidroxinaftol (Indicador de calcio)\nSal disódica del ácido 1-(2-naftol azo-3,6 disulfónico) 2 naftol-4-sulfónico.",
+    "start_char": 60312,
+    "end_char": 60445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.11",
+    "label": "8.1.10.4.11 Calmagita (Indicador de magnesio + calcio)",
+    "text": "8.1.10.4.11 Calmagita (Indicador de magnesio + calcio)\nAcido 1-(hidroxil-4-metil-2-fenilazo)-2 naftol-4-sulfónico.",
+    "start_char": 60446,
+    "end_char": 60560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.12",
+    "label": "8.1.10.4.12 Estandarización de la solución de EDTA",
+    "text": "8.1.10.4.12 Estandarización de la solución de EDTA",
+    "start_char": 60561,
+    "end_char": 60611
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.12.1",
+    "label": "8.1.10.4.12.1 Calcio (Ca)",
+    "text": "8.1.10.4.12.1 Calcio (Ca)",
+    "start_char": 60612,
+    "end_char": 60637
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-12-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.12.1.1",
+    "label": "8.1.10.4.12.1.1 Tomar una alícuota de 10 mL de la solución de calcio 1,0 N en un matraz Erlenmeyer y",
+    "text": "8.1.10.4.12.1.1 Tomar una alícuota de 10 mL de la solución de calcio 1,0 N en un matraz Erlenmeyer y\nañadir 100 mL de agua destilada. Para prevenir la precipitación de calcio, añadir aproximadamente 10 mL\nde la solución titulante de EDTA. Ajustar a pH 12 - 12,5 con aproximadamente 15 mL de solución de KOH\n1,0 N, añadir de 2 a 3 mg de indicador azul de hidroxinaftol y completar la titulación a un punto final azul\nprofundo, que permanezca estable por al menos 30 segundos (Ver Nota).\nTitular tres o más alícuotas y utilizar el promedio para calcular el valor de CaO de la solución.\n\n\n\n                                                  10                á\n                                                                                ó",
+    "start_char": 60638,
+    "end_char": 61376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.12.2",
+    "label": "8.1.10.4.12.2 Magnesio (Mg)",
+    "text": "8.1.10.4.12.2 Magnesio (Mg)",
+    "start_char": 61381,
+    "end_char": 61408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-4-12-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.4.12.2.1",
+    "label": "8.1.10.4.12.2.1 Tomar una alícuota de 10 mL de la solución estándar de MgO 1,0 N (1,0 mg de Mg/mL) en",
+    "text": "8.1.10.4.12.2.1 Tomar una alícuota de 10 mL de la solución estándar de MgO 1,0 N (1,0 mg de Mg/mL) en\nun matraz Erlenmeyer y añadir 100 mL de agua destilada. Ajustar a pH 10 con aproximadamente 10 mL\nde la solución reguladora amoniacal y añadir de 3 a 4 mg de indicador Calmagita. Titular con la solución\nde EDTA, observando el vire de color rojo al punto final azul profundo (Ver Nota).\nTitular tres o más alícuotas y emplear el promedio para calcular el valor de MgO de la solución.\n\n\n                                                  10                 á\n                                                  ó                                  ó\n\f   Lunes 18 de agosto de 2003                  DIARIO OFICIAL                         (Segunda Sección)   20\n\n\n\nNota: La cantidad de indicador empleada variará de acuerdo a la preferencia del analista, se considera\nque la dosis apropiada será aquella que ayude a la detección clara del punto final. El uso de un agitador\nmagnético con luz será de gran ayuda para detectar el cambio de color.",
+    "start_char": 61409,
+    "end_char": 62446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.5",
+    "label": "8.1.10.5 Procedimiento",
+    "text": "8.1.10.5 Procedimiento",
+    "start_char": 62448,
+    "end_char": 62470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.5.1",
+    "label": "8.1.10.5.1 La muestra debe estar seca, pulverizada y pasarla a través de un tamiz con malla No. 50.",
+    "text": "8.1.10.5.1 La muestra debe estar seca, pulverizada y pasarla a través de un tamiz con malla No. 50.",
+    "start_char": 62471,
+    "end_char": 62570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.5.2",
+    "label": "8.1.10.5.2 Pesar 0,5 g de la muestra preparada como se indicó y pasarla a un matraz Erlenmeyer",
+    "text": "8.1.10.5.2 Pesar 0,5 g de la muestra preparada como se indicó y pasarla a un matraz Erlenmeyer\nde 250 mL y añadir 10 mL de ácido clorhídrico (1+1).",
+    "start_char": 62571,
+    "end_char": 62718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.5.3",
+    "label": "8.1.10.5.3 Calentar y evaporar cuidadosamente hasta sequedad, retirar el matraz y dejar enfriar a",
+    "text": "8.1.10.5.3 Calentar y evaporar cuidadosamente hasta sequedad, retirar el matraz y dejar enfriar a\ntemperatura ambiente.",
+    "start_char": 62719,
+    "end_char": 62838
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.5.4",
+    "label": "8.1.10.5.4 Disolver el residuo con 25 mL de ácido clorhídrico (1+9), diluir a 100 mL con agua destilada.",
+    "text": "8.1.10.5.4 Disolver el residuo con 25 mL de ácido clorhídrico (1+9), diluir a 100 mL con agua destilada.",
+    "start_char": 62839,
+    "end_char": 62943
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.5.5",
+    "label": "8.1.10.5.5 Calentar a baja temperatura, aproximadamente durante 15 min y enfriar. Filtrar la solución y",
+    "text": "8.1.10.5.5 Calentar a baja temperatura, aproximadamente durante 15 min y enfriar. Filtrar la solución y\npasarla a un matraz volumétrico de 250 mL y llevar al volumen con agua destilada. Agitar muy bien para\nasegurar que la solución sea homogénea (Solución I).",
+    "start_char": 62944,
+    "end_char": 63203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.5.6",
+    "label": "8.1.10.5.6 Determinación de óxido de calcio",
+    "text": "8.1.10.5.6 Determinación de óxido de calcio",
+    "start_char": 63204,
+    "end_char": 63247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-5-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.5.6.1",
+    "label": "8.1.10.5.6.1 De la Solución I, tomar una alícuota de 20 mL y transferirla a un matraz Erlenmeyer",
+    "text": "8.1.10.5.6.1 De la Solución I, tomar una alícuota de 20 mL y transferirla a un matraz Erlenmeyer\nde 500 mL. Diluir a aproximadamente 150 mL con agua destilada, ajustar el pH a 12, con\naproximadamente 30 mL de la solución de hidróxido de potasio 1,0 N y agitar, añadir aproximadamente\nde 2 a 3 mg del indicador azul de hidroxinaftol y titular con la solución de EDTA hasta que una gota\nprovoque el vire de color rojo a azul claro que es el punto final.",
+    "start_char": 63248,
+    "end_char": 63699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.5.7",
+    "label": "8.1.10.5.7 Determinación de óxido de magnesio",
+    "text": "8.1.10.5.7 Determinación de óxido de magnesio",
+    "start_char": 63700,
+    "end_char": 63745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-5-7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.5.7.1",
+    "label": "8.1.10.5.7.1 De la Solución I, tomar una alícuota de 20 mL y transferirla a un matraz Erlenmeyer de 500",
+    "text": "8.1.10.5.7.1 De la Solución I, tomar una alícuota de 20 mL y transferirla a un matraz Erlenmeyer de 500\nmL, diluir a aproximadamente 100 mL con agua destilada. Ajustar el pH a 10 con aproximadamente\n20 mL de la solución reguladora amoniacal y agitar, en caso de existir interferencias será necesario\nadicionar 10 mL de solución de trietanolamina (1+2), añadir aproximadamente 4 mg del indicador\nCalmagita (Ver Nota). Titular con la solución de EDTA agregando aproximadamente el volumen gastado\nde solución equivalente a la titulación de calcio y continuar la titulación poco a poco hasta que una última\ngota adicionada dé el vire al color azul, tomar la lectura.",
+    "start_char": 63746,
+    "end_char": 64408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.6",
+    "label": "8.1.10.6 Cálculos",
+    "text": "8.1.10.6 Cálculos",
+    "start_char": 64409,
+    "end_char": 64426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.6.1",
+    "label": "8.1.10.6.1 Calcio",
+    "text": "8.1.10.6.1 Calcio\n\n\n                                                     ó                      ó                    1,25\n     %",
+    "start_char": 64427,
+    "end_char": 64555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:8-1-10-6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "8.1.10.6.2",
+    "label": "8.1.10.6.2 Magnesio",
+    "text": "8.1.10.6.2 Magnesio\nmL EDTA equivalentes a MgO = (mL totales empleados en la titulación de Ca y Mg) - (mL de solución\nEDTA empleados en la titulación de CaO)\n\n\n                                                                        ó                       1,25\n     %\n\n\n\n\nDonde:\n1,25 = Factor de dilución",
+    "start_char": 64558,
+    "end_char": 64862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "9",
+    "label": "9. Etiquetado",
+    "text": "9. Etiquetado\n\f   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                       (Segunda Sección)   21\nLas etiquetas de los productos objeto de esta norma, además de cumplir con lo establecido en el\nReglamento, y con las especificaciones generales establecidas en la NOM-051-SCFI/SSA1-2010, citada\nen el apartado de referencias, deben cumplir con lo siguiente:",
+    "start_char": 64865,
+    "end_char": 65245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "9.1",
+    "label": "9.1 Cuando los productos objeto de esta norma, se modifiquen en su composición, deben cumplir con la",
+    "text": "9.1 Cuando los productos objeto de esta norma, se modifiquen en su composición, deben cumplir con la\ndenominación correspondiente establecida en la NOM-086-SSA1-1994, citada en el apartado de\nreferencias, con el mismo tipo y tamaño de letra.",
+    "start_char": 65246,
+    "end_char": 65487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "9.2",
+    "label": "9.2 En las tortillas debe declararse la fecha de caducidad.",
+    "text": "9.2 En las tortillas debe declararse la fecha de caducidad.",
+    "start_char": 65488,
+    "end_char": 65547
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "9.3",
+    "label": "9.3 Deben ostentar las siguientes leyendas de conservación, según corresponda:",
+    "text": "9.3 Deben ostentar las siguientes leyendas de conservación, según corresponda:",
+    "start_char": 65548,
+    "end_char": 65626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:9-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "9.3.1",
+    "label": "9.3.1 Las tostadas, tortillas de harina de trigo y harinas para preparar tortillas: “Consérvese en un lugar",
+    "text": "9.3.1 Las tostadas, tortillas de harina de trigo y harinas para preparar tortillas: “Consérvese en un lugar\nfresco y seco”, o una equivalente.",
+    "start_char": 65627,
+    "end_char": 65769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:9-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "9.3.2",
+    "label": "9.3.2 Para el caso de las tortillas, se debe incluir la leyenda: “Una vez abierto el paquete, se recomienda",
+    "text": "9.3.2 Para el caso de las tortillas, se debe incluir la leyenda: “Una vez abierto el paquete, se recomienda\nmantener en refrigeración”, o alguna equivalente.",
+    "start_char": 65770,
+    "end_char": 65927
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "9.4",
+    "label": "9.4 Deben describirse en forma gráfica o escrita, cuando se requieran, las instrucciones de preparación, o",
+    "text": "9.4 Deben describirse en forma gráfica o escrita, cuando se requieran, las instrucciones de preparación, o\ninstrucciones de uso o consumo especial derivadas del diseño del envase.",
+    "start_char": 65928,
+    "end_char": 66107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:9-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "9.5",
+    "label": "9.5 En el caso de que los productos objeto de esta norma contengan o incluyan productos preenvasados",
+    "text": "9.5 En el caso de que los productos objeto de esta norma contengan o incluyan productos preenvasados\ncomo parte de promociones u obsequios, tales como salsas y aderezos, deben incluir en el envase del\nproducto de promoción u obsequio, cuando menos, lista de ingredientes, identificación del responsable\ndel proceso y lote, conforme a las disposiciones en la materia.",
+    "start_char": 66108,
+    "end_char": 66474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:9-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "9.6",
+    "label": "9.6 La etiqueta del hidróxido de calcio, además de cumplir con lo establecido en la NOM-050-SCFI-2004,",
+    "text": "9.6 La etiqueta del hidróxido de calcio, además de cumplir con lo establecido en la NOM-050-SCFI-2004,\nseñalada en el apartado de referencias, debe incluir sin perjuicio de otros ordenamientos vigentes la\ninformación del modo de manejo, advertencias, precauciones y primeros auxilios, mediante la hoja de\ndatos de seguridad que deberá proporcionar el proveedor.",
+    "start_char": 66475,
+    "end_char": 66836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:9-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "9.7",
+    "label": "9.7 Cálculos de proteínas",
+    "text": "9.7 Cálculos de proteínas\nUtilizar las siguientes fórmulas:\n   i)   Para productos derivados del trigo:\n        Proteína = contenido total de nitrógeno Kjeldahl x 5.7\n   ii) Para productos derivados de otros cereales y mezclas de cereales\n        Proteína = contenido total de nitrógeno Kjeldahl x 6.25\n\n\n[Modificación del capítulo de etiquetado publicada en el DOF el 1° de febrero de 2011]",
+    "start_char": 66837,
+    "end_char": 67228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "10",
+    "label": "10. Envase y embalaje",
+    "text": "10. Envase y embalaje",
+    "start_char": 67230,
+    "end_char": 67251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "10.1",
+    "label": "10.1 Envase",
+    "text": "10.1 Envase",
+    "start_char": 67252,
+    "end_char": 67263
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:10-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "10.1.1",
+    "label": "10.1.1 Los productos objeto de esta norma se deben envasar o envolver según corresponda, en",
+    "text": "10.1.1 Los productos objeto de esta norma se deben envasar o envolver según corresponda, en\nrecipientes o materiales de tipo sanitario, elaborados con materiales inocuos y resistentes a distintas\netapas del proceso, de tal manera que no reaccionen con el producto o alteren las características físicas,\nquímicas\ny sensoriales.",
+    "start_char": 67264,
+    "end_char": 67590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "10.2",
+    "label": "10.2 Embalaje",
+    "text": "10.2 Embalaje",
+    "start_char": 67591,
+    "end_char": 67604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:10-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "10.2.1",
+    "label": "10.2.1 Se debe usar material resistente, que ofrezca la protección adecuada a los envases para impedir",
+    "text": "10.2.1 Se debe usar material resistente, que ofrezca la protección adecuada a los envases para impedir\nsu deterioro exterior, a la vez que faciliten su manipulación, almacenamiento y distribución.",
+    "start_char": 67605,
+    "end_char": 67801
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "11",
+    "label": "11. Concordancia con normas internacionales y mexicanas",
+    "text": "11. Concordancia con normas internacionales y mexicanas",
+    "start_char": 67802,
+    "end_char": 67857
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "11.1",
+    "label": "11.1 Esta Norma no es equivalente con normas internacionales o mexicanas.",
+    "text": "11.1 Esta Norma no es equivalente con normas internacionales o mexicanas.",
+    "start_char": 67858,
+    "end_char": 67931
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12",
+    "label": "12. Bibliografía",
+    "text": "12. Bibliografía",
+    "start_char": 67932,
+    "end_char": 67948
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.1",
+    "label": "12.1 Ley Federal sobre Metrología y Normalización.",
+    "text": "12.1 Ley Federal sobre Metrología y Normalización.\n\f   Lunes 18 de agosto de 2003                    DIARIO OFICIAL                          (Segunda Sección)   22",
+    "start_char": 67949,
+    "end_char": 68112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.2",
+    "label": "12.2 Secretaría de Comercio y Fomento Industrial. 1993. NOM-008-SCFI-1993, Sistema General de",
+    "text": "12.2 Secretaría de Comercio y Fomento Industrial. 1993. NOM-008-SCFI-1993, Sistema General de\nUnidades de Medida. Diario Oficial de la Federación. México, D.F.",
+    "start_char": 68113,
+    "end_char": 68272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.3",
+    "label": "12.3 Secretaría de Comercio y Fomento Industrial. 1977. NOM-Z-13 1977, Guía para la Redacción,",
+    "text": "12.3 Secretaría de Comercio y Fomento Industrial. 1977. NOM-Z-13 1977, Guía para la Redacción,\nEstructuración y Presentación de las Normas Oficiales Mexicanas. México, D.F.",
+    "start_char": 68273,
+    "end_char": 68445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.4",
+    "label": "12.4 Ley General de Salud.",
+    "text": "12.4 Ley General de Salud.",
+    "start_char": 68446,
+    "end_char": 68472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.5",
+    "label": "12.5 Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades,",
+    "text": "12.5 Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades,\nEstablecimientos, Productos y Servicios.",
+    "start_char": 68473,
+    "end_char": 68604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.6",
+    "label": "12.6 Reglamento de Control Sanitario de Productos y Servicios.",
+    "text": "12.6 Reglamento de Control Sanitario de Productos y Servicios.",
+    "start_char": 68605,
+    "end_char": 68667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.7",
+    "label": "12.7 Acuerdo por el que se determinan las sustancias permitidas como aditivos y coadyuvantes.",
+    "text": "12.7 Acuerdo por el que se determinan las sustancias permitidas como aditivos y coadyuvantes.",
+    "start_char": 68668,
+    "end_char": 68761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.8",
+    "label": "12.8 American Society for Testing and Minerals. Annual Book. (1996). Sec. 4 Vol. 4.01. p. 30-31.",
+    "text": "12.8 American Society for Testing and Minerals. Annual Book. (1996). Sec. 4 Vol. 4.01. p. 30-31.",
+    "start_char": 68762,
+    "end_char": 68858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.9",
+    "label": "12.9 Bello A.B., Serna S.S.O., Waniska R.D. and Rooney L.W. 1991. Methods to prepare and evaluate",
+    "text": "12.9 Bello A.B., Serna S.S.O., Waniska R.D. and Rooney L.W. 1991. Methods to prepare and evaluate\nwheat tortillas. Cereal foods world. 36(3) 315-318.",
+    "start_char": 68859,
+    "end_char": 69008
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.10",
+    "label": "12.10 Capparelli E. and Mata L. 1975. Microflora of maize prepared as tortillas. Applied Microbiology 29(6)",
+    "text": "12.10 Capparelli E. and Mata L. 1975. Microflora of maize prepared as tortillas. Applied Microbiology 29(6)\n802-806.",
+    "start_char": 69009,
+    "end_char": 69125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.11",
+    "label": "12.11 Comisión Internacional de Especificaciones Microbiológicas para alimentos (ICMSF). 1985.",
+    "text": "12.11 Comisión Internacional de Especificaciones Microbiológicas para alimentos (ICMSF). 1985.\nEcología Microbiana de los Alimentos Vol. 1. Editorial Acribia, S.A. de C.V. Zaragoza, España.",
+    "start_char": 69126,
+    "end_char": 69315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.12",
+    "label": "12.12 FAO, OMS, PNUMA. 1987. Segunda Conferencia Internacional Mixta FAO/OMS/PNUMA sobre",
+    "text": "12.12 FAO, OMS, PNUMA. 1987. Segunda Conferencia Internacional Mixta FAO/OMS/PNUMA sobre\nMicotoxinas. Bangkok, Tailandia, 28 de septiembre-3 de octubre.",
+    "start_char": 69316,
+    "end_char": 69468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.13",
+    "label": "12.13 Food and Agriculture Organization of the United National. 1990. Codex Alimentarius Abridged",
+    "text": "12.13 Food and Agriculture Organization of the United National. 1990. Codex Alimentarius Abridged\nVersion, Summarized and Edited By Barry L. Smith. Divission 3- Food Additives.",
+    "start_char": 69469,
+    "end_char": 69645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.14",
+    "label": "12.14 Lewis Richard J. 1989. Food Additives Handbook.",
+    "text": "12.14 Lewis Richard J. 1989. Food Additives Handbook.",
+    "start_char": 69646,
+    "end_char": 69699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.15",
+    "label": "12.15 Machorro V.L. y Valdivia L.A. Cambios cuantitativos en las aflatoxinas durante el proceso de la",
+    "text": "12.15 Machorro V.L. y Valdivia L.A. Cambios cuantitativos en las aflatoxinas durante el proceso de la\nnixtamalización y elaboración de la tortilla. Tecnol. Aliment. (Méx.) 19(4) 10-14.",
+    "start_char": 69700,
+    "end_char": 69884
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.16",
+    "label": "12.16 Normas ASTM. 1992. Capítulo 28 p. 22, 23, 30.",
+    "text": "12.16 Normas ASTM. 1992. Capítulo 28 p. 22, 23, 30.",
+    "start_char": 69885,
+    "end_char": 69936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.17",
+    "label": "12.17 Organización de las Naciones Unidas para la Agricultura y la Alimentación. 1996. Comisión del",
+    "text": "12.17 Organización de las Naciones Unidas para la Agricultura y la Alimentación. 1996. Comisión del\nCodex Alimentarius. Programa Conjunto FAO/OMS sobre Normas Alimentarias. Comité del Codex sobre\nAditivos Alimentarios y Contaminantes de los Alimentos. Manila, Filipinas.",
+    "start_char": 69937,
+    "end_char": 70207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.18",
+    "label": "12.18 Price R.L. and Jorgensen K.V. 1985. Effects of processing on aflatoxin levels and on mutagenic",
+    "text": "12.18 Price R.L. and Jorgensen K.V. 1985. Effects of processing on aflatoxin levels and on mutagenic\npotential of tortillas made from naturally contaminated corn. J. of food science Vol. 50 p 347-349.",
+    "start_char": 70208,
+    "end_char": 70408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.19",
+    "label": "12.19 Summary of Evaluations Performed by Joint FAO/WHO Expert Committe on Food Additives and",
+    "text": "12.19 Summary of Evaluations Performed by Joint FAO/WHO Expert Committe on Food Additives and\nContaminants (JECFA). 1994.",
+    "start_char": 70409,
+    "end_char": 70530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.20",
+    "label": "12.20 Torreblanca R.A. and Bourges R.H. 1986. Aflatoxin in maize and tortillas in Mexico. Aflatoxin in",
+    "text": "12.20 Torreblanca R.A. and Bourges R.H. 1986. Aflatoxin in maize and tortillas in Mexico. Aflatoxin in\nmaize. A proceedings of the workshop. El Batan.",
+    "start_char": 70531,
+    "end_char": 70681
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.21",
+    "label": "12.21 Trejo G.A., Feria M.A. and Wild A.C. 1982. The role of lime in the alkaline tretment of corn for tortilla",
+    "text": "12.21 Trejo G.A., Feria M.A. and Wild A.C. 1982. The role of lime in the alkaline tretment of corn for tortilla\npreparation. Advances in chemestry series, No. 198 Modification of proteins.",
+    "start_char": 70682,
+    "end_char": 70870
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:12-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "12.22",
+    "label": "12.22 Ulloa S.M. and Schroeder M.W. 1969. Wate on Aflatoxin Descomposition in the Process of Making",
+    "text": "12.22 Ulloa S.M. and Schroeder M.W. 1969. Wate on Aflatoxin Descomposition in the Process of Making\nTortillas from Corn. Cereal Chemistry 46(4). p 397-400.",
+    "start_char": 70871,
+    "end_char": 71026
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "13",
+    "label": "13. Observancia de la norma",
+    "text": "13. Observancia de la norma",
+    "start_char": 71027,
+    "end_char": 71054
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:13-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "13.1",
+    "label": "13.1 La vigilancia en el cumplimiento de la presente norma corresponde a la Secretaría de Salud, a los",
+    "text": "13.1 La vigilancia en el cumplimiento de la presente norma corresponde a la Secretaría de Salud, a los\ngobiernos de las entidades federativas, en sus respectivos ámbitos de competencias, y a los organismos\nde tercera parte habilitados para tal efecto.",
+    "start_char": 71055,
+    "end_char": 71306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:13-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "13.2",
+    "label": "13.2 La vigilancia en el cumplimiento de las especificaciones comerciales señaladas en el numeral 9.1 de",
+    "text": "13.2 La vigilancia en el cumplimiento de las especificaciones comerciales señaladas en el numeral 9.1 de\nla presente norma, corresponde a la Secretaría de Economía, a la Procuraduría Federal del Consumidor,\ny a los organismos de tercera parte habilitados para tal efecto.",
+    "start_char": 71307,
+    "end_char": 71578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+    "number": "14",
+    "label": "14. Vigencia",
+    "text": "14. Vigencia\nLa presente Norma Oficial Mexicana entrará en vigor a los 180 días naturales contados a partir del día\nsiguiente al de su publicación en el Diario Oficial de la Federación.\nLas especificaciones establecidas en el apartado de etiquetado entrarán en vigor en planta a los 180 días\nnaturales contados a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.",
+    "start_char": 71579,
+    "end_char": 71976
+  }
+]

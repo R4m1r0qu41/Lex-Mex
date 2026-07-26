@@ -1,0 +1,56 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-187-ssa1-scfi-2002",
+  "kind": "nom",
+  "designation": "NOM-187-SSA1/SCFI-2002",
+  "official_title": "Productos y servicios. Masa, tortillas, tostadas y harinas preparadas para su elaboración y establecimientos donde se procesan. Especificaciones sanitarias. Información comercial. Métodos de prueba",
+  "issuing_authorities": [
+    "Secretaría de Salud",
+    "Secretaría de Economía"
+  ],
+  "regulatory_domains": [
+    "harinas preparadas",
+    "masa",
+    "tortillas",
+    "tostadas"
+  ],
+  "publication_date": "2003-08-18",
+  "effective_date": "2004-02-14",
+  "cancellation_date": null,
+  "status": "current",
+  "joint_prefixes": [
+    "SSA1",
+    "SCFI"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "official_compilation",
+  "modifications": [
+    {
+      "publication_date": "2011-02-01",
+      "official_url": "https://diariooficial.gob.mx/nota_detalle.php?codigo=5176284&fecha=01%2F02%2F2011",
+      "included_in_source": true
+    },
+    {
+      "publication_date": "2013-01-03",
+      "official_url": "https://diariooficial.gob.mx/nota_detalle.php?codigo=5284032&fecha=03%2F01%2F2013",
+      "included_in_source": true
+    }
+  ],
+  "systematic_review": {
+    "review_date": "2023-01-02",
+    "result": "Modificación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-187-SSA1-SCFI-2002_2023_ultima_revision.PDF"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/187sscfi02mod.pdf",
+  "official_dof_url": "https://diariooficial.gob.mx/nota_detalle.php?codigo=691995&fecha=18%2F08%2F2003",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/nom-187-ssa1-scfi-2002/",
+  "publisher": "Secretaría de Salud y Secretaría de Economía",
+  "retrieved_at": "2026-07-26T07:04:48Z",
+  "source_sha256": "7840e2dee4da736a94f8543c9e7894e971a7299a3b27e2a1d13b5e707decffdf",
+  "extracted_text_sha256": "af75dd5cb6b606be5a91c5834a4119189808875016317e61d4f3287396bfcddc",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

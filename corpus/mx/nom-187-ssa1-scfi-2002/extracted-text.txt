@@ -1,0 +1,1162 @@
+   Lunes 18 de agosto de 2003                    DIARIO OFICIAL                            (Segunda Sección)   1
+
+SECRETARIA DE SALUD
+NORMA Oficial Mexicana NOM-187-SSA1/SCFI-2002, Productos y servicios. Masa, tortillas,
+tostadas y harinas preparadas para su elaboración y establecimientos donde se procesan.
+Especificaciones sanitarias. Información comercial. Métodos de prueba.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Salud.
+NORMA OFICIAL MEXICANA NM-187-SSA1/SCFI-2002, PRODUCTOS Y SERVICIOS. MASA, TORTILLAS,
+TOSTADAS Y HARINAS PREPARADAS PARA SU ELABORACION Y ESTABLECIMIENTOS DONDE SE
+PROCESAN. ESPECIFICACIONES SANITARIAS. INFORMACION COMERCIAL. METODOS DE PRUEBA.
+ERNESTO ENRIQUEZ RUBIO, Presidente del Comité Consultivo Nacional de Normalización de
+Regulación y Fomento Sanitario, con fundamento en los artículos 34 y 39 de la Ley Orgánica de la
+Administración Pública Federal; 4o. de la Ley Federal de Procedimiento Administrativo; 3o. fracciones
+XXII y XXIV, 13 apartado A) fracciones I y II, 194 fracción I, 197, 199, 201, 205, 210, 214 y demás
+aplicables de la Ley General de Salud; 38 fracción II, 39, 40 fracciones I, II, V, XI, XII, 41, 43 y 47 fracción
+IV de la Ley Federal sobre Metrología y Normalización; 28 y 31 y 34 del Reglamento de la Ley Federal
+sobre Metrología y Normalización; 4o., 15, 25, 30, 112 fracción I incisos a) y e), 113 y 116 y demás
+aplicables del Reglamento de Control Sanitario de Productos y Servicios; 2 literal C fracción II, 34 y 36
+fracción V del Reglamento Interior
+de la Secretaría de Salud; 23 fracciones I y XV del Reglamento Interior de la Secretaría de Economía, y 2
+fracciones II y III, 7 fracción XVI, y 11 fracciones I y II del Decreto por el que se crea la Comisión Federal
+para la Protección contra Riesgos Sanitarios, me permito ordenar la publicación en el Diario Oficial de la
+Federación de la siguiente Norma Oficial Mexicana NOM-187-SSA1/SCFI-2002, Productos y Servicios.
+Masa, tortillas, tostadas y harinas preparadas para su elaboración y establecimientos donde se procesan.
+Especificaciones sanitarias. Información comercial. Métodos de prueba.
+
+
+                                              CONSIDERANDO
+
+
+Que con fecha 11 de marzo de 1999, en cumplimiento a lo previsto en el artículo 46 fracción I de la Ley
+Federal sobre Metrología y Normalización, la Dirección General de Calidad Sanitaria de Bienes y
+Servicios, ahora la Dirección General de Control Sanitario de Productos y Servicios presentó al Comité
+Consultivo Nacional de Normalización de Regulación y Fomento Sanitario, el anteproyecto de
+modificación de la presente Norma Oficial Mexicana.
+Que con fecha 7 de mayo de 2002, en cumplimiento del acuerdo del Comité y lo previsto en el artículo 47
+fracción I de la Ley Federal sobre Metrología y Normalización, se publicó el Proyecto de Norma Oficial
+Mexicana NOM-187-SSA1-2002, Productos y Servicios. Masa, tortillas, tostadas y harinas preparadas
+para su elaboración y establecimientos donde se procesan. Especificaciones sanitarias, en el Diario
+Oficial de la Federación, a efecto de que dentro de los siguientes sesenta días naturales posteriores a
+dicha publicación, los interesados presentaran sus comentarios al Comité Consultivo Nacional de
+Normalización de Regulación y Fomento Sanitario.
+Que con fecha previa fueron publicadas en el Diario Oficial de la Federación las respuestas a los
+comentarios recibidos por el mencionado Comité, en términos del artículo 47 fracción III de la Ley Federal
+sobre Metrología y Normalización.
+Que en atención a las anteriores consideraciones, contando con la aprobación del Comité Consultivo
+Nacional de Normalización de Regulación y Fomento Sanitario, se expide la siguiente:
+
+
+NORMA OFICIAL MEXICANA NOM-187-SSA1/SCFI-2002, PRODUCTOS Y SERVICIOS. MASA,
+TORTILLAS, TOSTADAS Y HARINAS PREPARADAS PARA SU ELABORACION Y
+ESTABLECIMIENTOS DONDE SE PROCESAN. ESPECIFICACIONES SANITARIAS. INFORMACION
+COMERCIAL. METODOS DE PRUEBA
+   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                           (Segunda Sección)      2
+                                                 PREFACIO
+En la elaboración de la presente Norma participaron los siguientes organismos e instituciones:
+
+SECRETARIA DE SALUD
+Dirección General de Control Sanitario de Productos y Servicios
+Instituto de Servicios de Salud Pública del Distrito Federal. Servicios de Salud Pública del Distrito Federal
+Laboratorio Nacional de Salud Pública
+Instituto de Investigaciones de Ciencias Médicas y Nutrición, Salvador Zubirán
+SECRETARIA DE ECONOMIA
+Dirección General de Política de Comercio Interior y Abasto
+PROCURADURIA FEDERAL DEL CONSUMIDOR
+Coordinación General de Investigación
+INSTITUTO POLITECNICO NACIONAL
+Escuela Nacional de Ciencias Biológicas
+Unidad Profesional Interdisciplinaria de Biotecnología
+CAMARA NACIONAL DE LA INDUSTRIA DE LA TRANSFORMACION
+Alimentos Típicos Mexicanos GAVI (Sección 17)
+Fabricantes de Materiales para la Construcción (Sección 36)
+CAMARA NACIONAL DEL MAIZ INDUSTRIALIZADO
+ASOCIACION NACIONAL DE FABRICANTES DE CAL, A.C.
+ASOCIACION MEXICANA DE ESTUDIOS PARA LA DEFENSA DEL CONSUMIDOR
+ASOCIACION NACIONAL DE TIENDAS DE AUTOSERVICIO Y DEPARTAMENTALES, A.C.
+GRUPO BERTRAN
+GRUPO CALIDRA
+GRUPO BIMBO, S.A. DE C.V.
+MAIZ INDUSTRIALIZADO DEL CENTRO, S.A. DE C.V.
+GRUPO INDUSTRIAL MASECA, S.A. DE C.V.
+CONSEJO EMPRESARIAL DE LA INDUSTRIA DEL MAIZ Y SUS DERIVADOS, A.C.
+CLUB CADENA MAIZ, TORTILLA GUERRERO, S.A. DE C.V.
+CAMARA REGIONAL DE PRODUCTORES DE TORTILLAS, TLAXCALA, VERACRUZ Y PUEBLA
+
+
+
+
+INDICE
+   1.    Objetivo y campo de aplicación
+   2.    Referencias
+   3.    Definiciones
+   4.    Símbolos y abreviaturas
+   5.    Clasificación
+   6.    Especificaciones
+   7.    Muestreo
+   8.    Métodos de prueba
+   9.    Etiquetado
+   10.   Envase y embalaje
+   11.   Concordancia con normas internacionales y mexicanas
+   12.   Bibliografía
+   13.   Observancia de la norma
+   14.   Vigencia
+   Lunes 18 de agosto de 2003                  DIARIO OFICIAL                         (Segunda Sección)      3
+1. Objetivo y campo de aplicación
+1.1 Esta Norma Oficial Mexicana tiene por objeto establecer las especificaciones sanitarias que deben
+cumplir la masa, tortillas, tostadas, harinas preparadas para su elaboración y establecimientos donde se
+procesan. Asimismo, establece la información comercial que debe figurar en las etiquetas de los
+productos.
+1.2 Esta Norma Oficial Mexicana es de observancia obligatoria en el territorio nacional para las personas
+físicas o morales que se dedican a su proceso e importación.
+1.3 Quedan excluidas las botanas.
+
+2. Referencias
+Esta Norma se complementa con las siguientes Normas Oficiales Mexicanas o las que la sustituyan:
+2.1 Norma Oficial Mexicana NOM-050-SCFI-2004 Información comercial-Etiquetado general de productos.
+2.2 Norma Oficial Mexicana NOM-051-SCFI/SSA1-2010, Especificaciones generales de etiquetado para
+alimentos y bebidas no alcohólicas preenvasados-Información comercial y sanitaria.
+2.3 Norma Oficial Mexicana NOM-086-SSA1-1994 Bienes y servicios. Alimentos y bebidas no alcohólicas
+con modificaciones en su composición. Especificaciones nutrimentales.
+2.4 Norma Oficial Mexicana NOM-110-SSA1-1994 Bienes y servicios. Preparación y dilución de muestras
+de alimentos para su análisis microbiológico.
+2.5 Norma Oficial Mexicana NOM-113-SSA1-1994 Bienes y servicios. Método para la cuenta de
+microorganismos coliformes totales en placa.
+2.6 Norma Oficial Mexicana NOM-117-SSA1-1994 Bienes y servicios. Método de prueba para la
+determinación de cadmio, arsénico, plomo, estaño, cobre, fierro, zinc y mercurio en alimentos, agua
+potable y agua purificada por espectrometría de absorción atómica.
+2.7 Norma Oficial Mexicana NOM-127-SSA1-1994 Salud ambiental, agua para uso y consumo humano-
+Límites permisibles de calidad y tratamientos a que debe someterse el agua para su potabilización.
+2.8 Norma Oficial Mexicana NOM-247-SSA1-2008, Productos y servicios. Cereales y sus productos.
+Cereales, harinas de cereales, sémolas o semolinas. Alimentos a base de: cereales, semillas comestibles,
+de harinas, sémolas o semolinas o sus mezclas. Productos de panificación. Disposiciones y
+especificaciones sanitarias y nutrimentales. Métodos de prueba.
+2.9 Norma Oficial Mexicana NOM-251-SSA1-2009, Prácticas de higiene para el proceso de alimentos,
+bebidas o suplementos alimenticios.
+[Modificación publicada en el DOF el 1° de febrero de 2011]
+
+
+3. Definiciones
+Para fines de esta Norma se entiende por:
+    3.1 Aditivo alimentario (Aditivo): cualquier sustancia que en cuanto tal no se consume normalmente
+como alimento, ni tampoco se usa como ingrediente básico en alimentos, tenga o no valor nutritivo, y cuya
+adición al producto con fines tecnológicos en sus fases de producción, elaboración, preparación,
+tratamiento, envasado, empaquetado, transporte o almacenamiento, resulte o pueda preverse
+razonablemente que resulte (directa o indirectamente) por sí o sus subproductos, en un componente del
+producto o un elemento que afecte a sus características (incluidos los organolépticos). Esta definición no
+incluye "contaminantes" o sustancias añadidas al producto para mantener o mejorar las cualidades
+nutricionales.
+
+   [Modificación publicada en el DOF el 3 de enero d e 2013]
+3.2 Alimentos y bebidas no alcohólicas con modificaciones en su composición, aquéllos a los que
+se les disminuyen, eliminan o adicionan uno o más de sus nutrimentos, tales como hidratos de carbono,
+proteínas, lípidos, vitaminas, minerales o fibras dietéticas.
+   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                          (Segunda Sección)      4
+3.3 Aflatoxinas, a los metabolitos secundarios producidos por varios mohos, cuya estructura química es
+heterocíclica, pertenecientes al grupo de las bisfurano cumarinas. Poseen toxicidad aguda y crónica, así
+como efectos mutagénicos y carcinogénicos en animales y el hombre.
+3.4 Bitácora o registro, al documento controlado que provee evidencia objetiva y auditable de las
+actividades ejecutadas o resultados obtenidos durante el proceso del producto y su análisis.
+3.5 Botanas, a los productos de pasta de harinas, de cereales, leguminosas, tubérculos o féculas; así
+como de granos, frutas, frutos, semillas o leguminosas con o sin cáscara o cutícula, tubérculos; productos
+nixtamalizados y piel de cerdo, que pueden estar fritos, horneados, explotados, cubiertos, extruidos o
+tostados; adicionados o no con sal y otros ingredientes opcionales y aditivos para alimentos.
+3.6 Buenas prácticas de fabricación, al conjunto de lineamientos y actividades relacionadas entre sí,
+destinadas a garantizar que los productos tengan y mantengan las especificaciones sanitarias requeridas
+para su uso o consumo. En particular en el caso de los aditivos se refiere a la cantidad mínima necesaria
+para lograr el efecto deseado.
+3.7 Coadyuvante de elaboración, a la sustancia o materia, excluidos aparatos, utensilios y los aditivos,
+que no se consume como ingrediente alimenticio por sí misma, y se emplea intencionalmente en la
+elaboración de materias primas, alimentos o sus ingredientes, para lograr una finalidad tecnológica
+durante el tratamiento o la elaboración, que puede dar lugar a la presencia no intencionada, pero
+inevitable, de residuos o derivados en el producto final.
+
+3.8 Consumidor, persona física o moral que adquiere o disfruta como destinatario final productos
+alimenticios y bebidas no alcohólicas preenvasados.
+3.9 Embalaje, material que envuelve, contiene y protege los productos preenvasados, para efectos de
+su almacenamiento y transporte.
+3.10 Envase, cualquier recipiente, o envoltura en el cual está contenido el producto preenvasado para su
+venta al consumidor.
+3.11 Envase múltiple o colectivo, cualquier recipiente o envoltura en el que se encuentran contenidos
+dos o más unidades de producto preenvasado iguales o diferentes, destinadas para su venta al
+consumidor en dicha presentación.
+3.12 Etiqueta, cualquier rótulo, marbete, inscripción, imagen u otra materia descriptiva o gráfica, escrita,
+impresa, estarcida, marcada, grabada en alto o bajo relieve, adherida, sobrepuesta o fijada al envase del
+producto preenvasado o, cuando no sea posible por las características del producto al embalaje.
+3.13 Establecimiento, a los locales y sus instalaciones, sus dependencias y anexos cubiertos o
+descubiertos, sean fijos o móviles, en los que se desarrolla el proceso de los productos, actividades y
+servicios objeto de esta norma, tales como: molinos de nixtamal, tortillerías, frituras de tostadas y harinas
+para prepararlas.
+3.14 Fecha de caducidad, fecha límite en que se considera que las características sanitarias y de calidad
+que debe reunir para su consumo un producto preenvasado, almacenado en las condiciones sugeridas
+por el responsable del producto, se reducen o eliminan de tal manera que después de esta fecha no debe
+comercializarse ni consumirse.
+3.15 Freír, a la operación que consiste en sumergir total o parcialmente un producto en aceite o grasa
+comestible caliente, a una temperatura tal que permita alcanzar las características sensoriales deseadas.
+3.16 Harina de maíz nixtamalizado, al producto deshidratado que se obtiene de la molienda de los
+granos de maíz nixtamalizado.
+3.17 Harina integral, al producto obtenido de la molienda del grano de cereal que conserva su cáscara y
+sus otros constituyentes.
+3.18 Harina o harina de trigo, a la obtenida de la molienda del grano de trigo maduro, entero, quebrado,
+sano y seco del género Triticum, L.; de las especies de T. vulgare, T. compactum y T. durum o mezclas
+de éstas, limpio, sano en el que se elimina gran parte del salvado y germen, hasta obtener una harina de
+finura adecuada.
+   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                        (Segunda Sección)      5
+3.19 Harina preparada para elaborar masa, tortillas o tostadas, al producto resultante de la mezcla de
+harina de trigo o de maíz nixtamalizado u otros cereales integrales o no, con ingredientes opcionales y
+aditivos para alimentos, y que se prepara conforme a las instrucciones del fabricante.
+3.20 Ingredientes opcionales, a los que se pueden adicionar a la masa, tales como: chiles, condimentos,
+especias, harinas de cereales o leguminosas.
+3.21 Inocuo, al que no causa daño a la salud.
+3.22 Límite máximo, a la cantidad establecida de aditivos, microorganismos, parásitos, materia extraña,
+plaguicidas, radionúclidos, biotoxinas, residuos de medicamentos, metales pesados y metaloides, entre
+otros, que no se deben exceder en un alimento, bebida o materia prima.
+3.23 Lote, la cantidad de un producto elaborado en un mismo ciclo, integrado por unidades homogéneas
+e identificado con un código específico.
+3.24 Maíz nixtamalizado o nixtamal, al maíz sano y limpio que ha sido sometido a cocción parcial con
+agua en presencia de hidróxido de calcio (cal), u otro material alcalino.
+3.25 Masa, al producto obtenido de la molienda húmeda de granos de maíz nixtamalizado o pasta que se
+forma a partir de harina de maíz nixtamalizado, harina de trigo, harinas integrales o sus combinaciones y
+agua. Pudiendo estar mezclada con ingredientes opcionales y aditivos permitidos para alimentos.
+3.26 Materia extraña, al material orgánico o inorgánico, ligero o pesado, cuya presencia en el producto
+no es deseable y que por arriba de un límite máximo se estima contaminante, considerándose entre otros:
+excretas, pelos de cualquier especie, fragmentos de insectos, material plástico y otros objetos.
+3.27 Metal pesado o metaloide, a los elementos químicos que causan efectos indeseables en el
+metabolismo aun en concentraciones bajas. Su toxicidad depende de las dosis en que se ingieran así
+como de su acumulación en el organismo.
+3.28 Métodos de prueba, a los procedimientos analíticos utilizados en el laboratorio para comprobar que
+un producto satisface las especificaciones que establece esta Norma.
+3.29 Plaguicidas, a cualquier sustancia o mezcla de sustancias utilizadas para prevenir, destruir, repeler
+o mitigar cualquier forma de vida que sea nociva para la salud, los bienes del hombre o del ambiente,
+excepto la que exista sobre o dentro del ser humano y los protozoarios, virus, bacterias, hongos y otros
+microorganismos similares sobre o dentro de los animales.
+3.30 Proceso, al conjunto de actividades relativas a la obtención, elaboración, fabricación, preparación,
+conservación, mezclado, acondicionamiento, envasado, manipulación, transporte, distribución,
+almacenamiento y expendio o suministro al público de productos.
+3.31 Productos a granel, al producto que debe pesarse, medirse o contarse en presencia del consumidor
+por no encontrarse preenvasado al momento de su venta.
+3.32 Producto preenvasado, alimentos y bebidas no alcohólicas que son colocados en un envase de
+cualquier naturaleza, en ausencia del consumidor, y la cantidad de producto contenido en él no puede ser
+alterada, a menos que el envase sea abierto o modificado perceptiblemente.
+3.33 Tortilla, al producto elaborado con masa que puede ser mezclada con ingredientes opcionales,
+sometido a cocción.
+3.34 Tostada, al producto elaborado a partir de tortilla o masa que puede ser mezclada con ingredientes
+opcionales, sometido a un proceso de horneado, freído, deshidratado o cualquier otro, hasta obtener una
+consistencia rígida y crujiente.
+[Modificación publicada en el DOF el 1° de febrero de 2011]
+
+
+4. Símbolos y abreviaturas
+   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                           (Segunda Sección)       6
+Cuando en esta Norma se haga referencia a los siguientes símbolos y abreviaturas se entiende por:
+
+    AGL                    ácidos grasos libres
+    BPF                    buenas prácticas de fabricación
+    Cm                     centímetros
+    ºC                     grados Celsius
+    g                      gramo
+    kg                     kilogramo
+    µg                     microgramo
+    meq                    miliequivalente
+    min                    minutos
+    mg                     miligramo
+    mL                     mililitro
+    m/m                    masa sobre masa
+    N                      normal
+    %                      por ciento
+    UFC                    unidades formadoras de colonias
+    Vol                    volumen
+    kJ                     kilojoule
+    kcal                   kilocaloría
+    v/v                    volumen por volumen
+
+Cuando en la presente Norma se mencione al:
+Acuerdo, debe entenderse que se trata del Acuerdo por el que se determinan las sustancias permitidas
+como aditivos y coadyuvantes, y sus modificaciones.
+CICOPLAFEST, debe entenderse que se trata de la Comisión Intersecretarial para el Control del Proceso
+y uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas.
+Reglamento, debe entenderse que se trata del Reglamento de Control Sanitario de Productos y
+Servicios.
+[Adición publicada en el DOF el 1° de febrero de 2011]
+
+Secretaría, debe entenderse que se trata de la Secretaría de Salud.
+Acuerdo, debe entenderse que se trata del Acuerdo por el que se determinan los aditivos y coadyuvantes
+en alimentos, bebidas y suplementos alimenticios, su uso y disposiciones sanitarias.
+[Adición publicada en el DOF el 3 de enero de 2013]
+
+
+5. Clasificación
+5.1 Los productos objeto de esta Norma se clasifican en:
+5.1.1 Masa
+5.1.2 Tortillas o tortillas integrales
+5.1.3 Tostadas o tostadas integrales
+5.1.4 Harinas preparadas para elaborar masa, tortillas o tortillas integrales, tostadas o tostadas integrales.
+6. Especificaciones
+Los productos objeto de esta Norma y los establecimientos donde se elaboren deben ajustarse a las
+siguientes especificaciones:
+6.1 Generales
+
+6.1.1 Los establecimientos donde se procesen los productos objeto de esta norma, deben aplicar las
+prácticas de higiene establecidas en la NOM-251-SSA1-2009, citada en el apartado de referencias.
+6.1.2 El agua utilizada para la elaboración de estos productos debe ser potable o cumplir según el caso,
+con lo establecido en la NOM-127-SSA1-1994, citada en el apartado de referencias.
+[Modificación publicada en el DOF el 1° de febrero de 2011]
+   Lunes 18 de agosto de 2003                  DIARIO OFICIAL                         (Segunda Sección)   7
+6.1.3 El proveedor de las materias primas y los establecimientos donde se procesen o comercialicen los
+productos objeto de esta Norma, cada uno en el ámbito de su responsabilidad sólo podrán utilizar
+plaguicidas autorizados por la Secretaría de Salud en el marco de coordinación de la CICOPLAFEST.
+6.1.4 Control documental del proceso
+6.1.4.1 El proceso de los productos objeto de esta Norma, debe documentarse en bitácoras o registros,
+de manera que garantice los requisitos establecidos. Los registros o bitácoras, incluyendo las que se
+elaboren por medios electrónicos deben:
+a) Contar con respaldos o sistemas que aseguren la veracidad de la información y un procedimiento para
+la prevención de acceso y correcciones no controladas.
+b) Para el caso de las tostadas y harinas para preparar tortillas, preenvasadas o a granel deben
+conservarse por lo menos 6 meses.
+En el caso de las tortillas deben conservarse por lo menos 60 días, y
+Para las tortillas y tostadas a granel, por lo menos 15 días.
+Dicha información debe estar a disposición de la autoridad sanitaria cuando así lo requiera.
+De conformidad con el trámite SSA-04-015. Conservación de información sobre el proceso de producción.
+c) El diseño del formato queda bajo la responsabilidad del fabricante.
+6.1.4.2 Para el control de plagas, se debe llevar un registro en el que se indique lo siguiente:
+a) Por contratación: Comprobante proporcionado por la empresa responsable que incluya: nombre y tipo
+del servicio proporcionado y sustancias usadas (en su caso), número de licencia de la empresa que
+aplica, expedida por la autoridad sanitaria correspondiente, responsable técnico y fecha.
+b) Por autoaplicación: Aprobación del responsable técnico por la autoridad sanitaria correspondiente,
+nombre y tipo del procedimiento aplicado y sustancias usadas (en su caso), responsable técnico y fecha.
+6.1.4.3 Se debe llevar un registro de las actividades de limpieza y desinfección, en su caso, del equipo,
+utensilios, instalaciones o materia prima, que se desarrollen conforme al manual de procedimientos,
+indicando fecha, hora y responsable, o debe hacer figurar como mínimo el nombre de los productos
+usados, concentraciones, tiempo de contacto y tipo de enjuagues.
+6.1.4.4 Con la finalidad de orientar las actividades de verificación del cumplimiento de esta Norma, se
+debe contar con un diagrama de bloque en el que se describa el proceso de elaboración de los productos
+objeto de esta Norma.
+6.2 Específicas
+6.2.1 Personal
+6.2.1.1 El personal debe presentarse aseado al área de trabajo y con ropa limpia. Durante el tiempo que
+duren sus labores debe usar uniforme limpio, bata o mandil y una protección que cubra totalmente el
+cabello. El personal que está en contacto directo con el producto, que lo manipule antes de su envasado o
+que tenga barba o bigote debe usar cubreboca.
+6.2.1.2 Lavarse las manos con agua y jabón, secarse con toallas desechables o secador de manos, antes
+de iniciar el trabajo y después de cada ausencia en el mismo y en cualquier momento en que las manos
+estén sucias.
+6.2.1.3 El personal que está en contacto directo con el producto o que lo manipule debe mantener las
+uñas cortas, limpias y libres de esmalte para uñas y el rostro sin maquillaje.
+6.2.1.4 No deben trabajar en el área de proceso o venta personal que presente enfermedades
+contagiosas. Las cortadas o heridas sobre la piel deben cubrirse apropiadamente con material
+impermeable.
+6.2.1.5 El personal que manipule dinero no debe tocar directamente con las manos el producto para lo
+cual debe aplicar cualquiera de las siguientes indicaciones:
+    a)    Usar guantes desechables o bolsas de plástico cuando se manipule el producto y quitárselo cuando
+          manipule dinero. Los guantes o bolsas deben sustituirse al menos en cada reanudación de
+          operaciones o cuando se hayan deteriorado.
+   b)   Asignar una persona para manipular el dinero y que ésta no tenga contacto directo con el
+        producto.
+6.2.1.6 El personal debe estar capacitado y cumplir con las buenas prácticas de higiene. Los
+responsables del proceso deben contar con la evidencia documental de dicha capacitación.
+6.2.2 Instalaciones físicas
+6.2.2.1 Los establecimientos deben proveerse de instalaciones sanitarias para lavarse las manos en el
+área de elaboración y venta.
+   Lunes 18 de agosto de 2003                    DIARIO OFICIAL                          (Segunda Sección)       8
+6.2.2.2 No debe tener comunicación directa con habitaciones.
+6.2.2.3 No debe utilizarse como habitación o dormitorio ni permitirse la presencia de animales de ningún tipo.
+6.2.2.4 Los establecimientos que expendan además otros alimentos, deben tener áreas o secciones
+específicas y delimitadas para su almacenamiento y exhibición.
+6.2.3 Instalaciones sanitarias
+6.2.3.1 Los servicios sanitarios no deben usarse como bodega, ni para otros fines distintos a los que
+están destinados.
+6.2.4 Proceso
+6.2.4.1 Expendios a granel.
+6.2.4.1.1 Las mesas y mostradores que se utilicen en el expendio de masa, tortillas y tostadas deben
+estar limpias y ser de superficies lisas, de material inocuo e impermeable, con la finalidad de facilitar su
+limpieza.
+6.2.4.1.2 Para la protección de la masa y las tortillas, se deben emplear recipientes o lienzos limpios.
+6.2.4.1.3 Sólo se permite reprocesar masa, tortillas y tostadas que en la línea de producción hayan
+presentado lo siguiente:
+a) Cambios en su forma como: dobladas, quebradas o agujeradas.
+b) No haber sido expuestas a contaminación (polvo, grasa de la maquinaria, contacto con el piso, entre otros).
+c) Se debe asegurar que reúnan las características de olor, color y sabor propios; que indican que son
+aptas para su reproceso.
+d) El desperdicio o residuo que quede en las tolvas de la maquinaria al terminar la jornada no se debe
+incorporar al proceso del día siguiente.
+6.2.5 Materia prima
+6.2.5.1 Todas las materias primas que sean empleadas en la elaboración de los productos, deben cumplir
+con los ordenamientos legales aplicables.
+6.2.5.2 No deben emplearse materias primas que no sean aptas para el consumo humano o en mal
+estado (con palomillas, gorgojos u otras plagas).
+6.2.5.3 Para la nixtamalización del maíz se debe utilizar hidróxido de calcio u óxido de calcio (cal), que
+cumpla con las siguientes especificaciones:
+6.2.5.3.1. El hidróxido de calcio (cal) que se emplee en la industria alimentaria debe cumplir con las
+siguientes especificaciones sanitarias:
+6.2.5.3.1.1 Características Químicas
+
+                                              Tabla 1. Químicas
+ Nombre químico                          Hidróxido de calcio                     Oxido de calcio
+ Fórmula química                         Ca(OH)2                                 CaO
+ Peso molecular                          74,10                                   56,07
+
+6.2.5.3.1.2 Características Fisicoquímicas
+
+                                         Tabla 2. Fisicoquímicas
+      Especificación                                                Límite máximo
+      Hidróxido de calcio u Oxido de calcio                         90% Mínimo
+      Hidróxido de magnesio                                         5%
+      Plomo                                                         8 mg/kg
+      Flúor                                                         40 mg/kg
+      Arsénico                                                      3 mg/kg
+
+6.2.5.4 La deshidratación a que se someten las tortillas que se utilicen para elaborar tostadas no debe
+hacerse en áreas descubiertas o a la intemperie que las expongan en contacto con materiales extraños o
+fauna nociva.
+6.2.5.5 La masa debe estar limpia, fresca y haber sido elaborada en el transcurso del día, no debe
+presentar sabores o aromas agrios.
+6.2.5.6 Se debe llevar un control documental de las materias primas durante su almacenamiento,
+indicando fecha y nombre del responsable. En el caso del maíz se debe llevar registro de humedad
+relativa y temperatura.
+   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                           (Segunda Sección)       9
+6.2.5.7 Se debe llevar un registro de los resultados de los análisis de las materias primas conforme a los
+requisitos sanitarios establecidos en los ordenamientos legales aplicables, que incluya cuando menos la
+siguiente información:
+    a)   Proveedor u origen, nombre de la materia prima, condiciones de almacenamiento y
+         conservación, identificación del lote al que se realizó el análisis, fecha y laboratorio responsable,
+         o
+   b)    El certificado de calidad sanitaria correspondiente que avale la inocuidad de la materia prima.
+En el caso de que las materias primas que se adquieran en tiendas de autoservicio o pequeños comercios
+como tiendas de abarrotes, el registro debe incluir, al menos lo siguiente: fecha de ingreso, proveedor e
+identificación del lote.
+6.2.5.8 En los molinos de nixtamal se debe llevar un registro de los aditivos que se empleen durante la
+preparación de la masa elaborada a partir de maíz nixtamalizado, en donde figure al menos la siguiente
+información: Identificación del lote, nombre del aditivo, concentración de uso, fecha y nombre del
+responsable.
+6.2.5.9 El responsable de la elaboración de la masa en los molinos de nixtamal debe informar a las
+tortillerías los aditivos empleados durante la elaboración de la masa.
+6.2.5.9.1 Punto de venta.
+6.2.5.9.1.1 En los establecimientos dedicados a la venta de tortillas de maíz a granel, se debe cumplir con
+lo siguiente:
+   a)    El papel que se utilice para envolver el producto debe cumplir con lo señalado en el apartado 10
+         de este ordenamiento y debe contener en forma impresa o mediante etiquetas de manera clara y
+         veraz los aditivos empleados durante la elaboración de la masa, conforme a lo señalado en el
+         numeral 6.2.5.9.
+   b)    Debe figurar una lista de ingredientes de la siguiente manera:
+         "Ingredientes": en la que se incluirá además el nombre genérico de los aditivos (emulsificantes,
+         estabilizantes, gelificantes, espesantes y colorantes), o
+   c)    Deben existir letreros en los que se incluya dicha lista de ingredientes en lugares visibles para el
+         consumidor.
+6.2.6 Servicios
+6.2.6.1 El local debe tener recipientes para desperdicios con tapa, en cantidad y tamaño suficiente, de
+acuerdo a las necesidades.
+6.2.7 Transporte
+6.2.7.1 Cuando la masa requiera ser transportada se debe evitar que entre en contacto dentro o fuera del
+vehículo con materiales extraños (polvo, agua, grasas, etc.), fauna nociva, para lo cual se deben emplear
+recipientes o lienzos limpios.
+6.2.7.2 El área del vehículo destinado al transporte de masa, debe mantenerse limpio y lavarse
+diariamente con agua y jabón.
+6.3. Los productos objeto de esta Norma deben cumplir con lo siguiente:
+6.3.1 Físicas
+6.3.1.1 La humedad de las harinas para elaborar tortillas no debe ser superior al 15%.
+6.3.1.2 Materia extraña
+
+
+                                Tabla 3. Especificaciones de materia extraña
+     Producto                            Límite máximo
+     Masa, tortillas, tostadas        y No más de 50 fragmentos de insectos, no más de un pelo de
+     harinas para prepararlas.          roedor y estar exentos de insectos enteros y excretas, así
+   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                    (Segunda Sección)   10
+                                        como de cualquier otra materia extraña que represente un
+                                        riesgo a la salud, en 50g de productos.
+
+
+6.3.2 Químicas
+6.3.2.1 Los aceites o grasas utilizados durante el freído de los productos, deben eliminarse cuando
+presenten cualquiera de las siguientes características:
+6.3.2.1.1 Color obscuro,
+6.3.2.1.2 Sabor desagradable,
+6.3.2.1.3 Olor desagradable, o
+6.3.2.1.4 Formación de espuma (siempre y cuando no se utilicen antiespumantes).
+
+
+
+
+                                    Tabla 4. Especificaciones químicas
+                  Producto                            Límite                 máximo
+                                                      % AGL*
+                  Aceites                             2,0
+                  Grasas                              2,5
+                    * Expresado como ácido oleico
+
+
+
+6.3.3 Microbiológicas
+
+
+                                 Tabla 5. Especificaciones microbiológicas
+               Producto                                    Límite       máximo        de
+                                                           Coliformes totales (UFC/g)
+               Masa                                        2000
+               Tortillas                                    30
+               Harinas para preparar tortillas de trigo    150
+               Harinas de maíz nixtamalizado para preparar 100
+               tortillas y tostadas
+               Harinas integrales para preparar tortillas  500
+
+
+6.3.4 Contaminantes
+6.3.4.1 Aflatoxinas
+
+
+                                 Tabla 6. Especificaciones de Aflatoxinas
+                 Producto                                        Límite       máximo
+                                                                 (µg/kg)
+                 Masa
+                 Tortillas de maíz nixtamalizado
+                 Tostadas de maíz nixtamalizado              12
+                 Harinas de maíz nixtamalizado para preparar
+                 tortillas y tostadas
+                 Tortillas de trigo
+                                                             20
+                 Tortillas integrales
+   Lunes 18 de agosto de 2003                  DIARIO OFICIAL                       (Segunda Sección)   11
+                Harinas para preparar tortillas de trigo
+                Harinas integrales para preparar tortillas
+
+
+6.3.4.2 Metales pesados o metaloides
+6.3.4.2.1 El fabricante de los productos objeto de esta Norma, debe establecer mecanismos que permitan
+determinar la presencia y cantidad de plomo y cadmio que correspondan en las materias primas, en el
+producto en proceso de elaboración o en el producto terminado. La información generada debe estar a
+disposición de la Secretaría cuando ésta así lo requiera.
+6.3.4.3 Se debe llevar registro de los resultados de los análisis del lote seleccionado del producto
+terminado, conforme a las especificaciones establecidas en esta Norma, que incluyan además nombre del
+producto, laboratorio, responsable y fecha.
+6.3.5 En la elaboración de los productos objeto de esta norma se pueden emplear los aditivos
+establecidos en el Acuerdo, bajo las especificaciones establecidas en el mismo.
+[Modificación publicada en el DOF el 3 de enero de 2013]
+
+
+6.3.6 Especificaciones nutrimentales
+6.3.6.1 Los productos objeto de esta norma elaborados con harina de trigo, no deben ser adicionados con
+ácido fólico.
+6.3.6.2 Los productos objeto de esta norma que hayan sido modificados en su composición con otros
+nutrimentos, deben sujetarse a lo establecido en la NOM-086-SSA1-1994, señalada en el apartado de
+referencias.
+7. Muestreo
+El procedimiento de muestreo para los productos objeto de esta norma, debe sujetarse a lo que al
+respecto establece la Ley General de Salud y otras disposiciones que al efecto se emitan.
+8. Métodos de prueba
+8.1 Para la verificación oficial de las especificaciones sanitarias que se establecen en esta norma, se
+deben aplicar los métodos de prueba señalados a continuación:
+
+8.1.1 Para la determinación de coliformes totales se deben aplicar los métodos de prueba establecidos en
+las normas NOM-110-SSA1-1994 y NOM-113-SSA1-1994, citadas en el apartado de referencias y para la
+determinación de metales pesados se deben aplicar los métodos de prueba establecidos en la norma
+NOM-117-SSA1-1994, citada en el apartado de referencias.
+[Modificación publicada en el DOF el 1° de febrero de 2011]
+
+8.1.2 Para las determinaciones establecidas en esta norma, se deben aplicar las precauciones de
+seguridad, señaladas a continuación.
+8.1.2.1 El analista debe consultar siempre la información respecto a la exposición y manejo seguro de los
+reactivos químicos especificados en estos métodos, para emplear el equipo de seguridad apropiado como
+bata de laboratorio, guantes de látex, anteojos de seguridad, mascarilla, etc., y trabajar cuando así se
+requiera bajo campana de extracción.
+8.1.2.2 Para la aplicación de los siguientes métodos analíticos se debe cumplir con las Buenas Prácticas
+de Laboratorio.
+8.1.3 Para la toma y manejo de muestras para el análisis microbiológico y de aflatoxinas en tortillas a
+granel, se debe aplicar el siguiente procedimiento:
+8.1.3.1 El producto debe ser muestreado por los mismos despachadores y bajo las condiciones normales
+de operación, debe tomarse directamente del recipiente que se utilice para su resguardo temporal
+(canastos o mesas de recepción) e introducirse en bolsas de plástico limpias y nuevas, las cuales sólo se
+deben abrir en el momento en que se introduzca el producto y cerrarse de inmediato.
+8.1.3.2 El producto que se muestre en caliente debe enfriarse a temperatura ambiente dentro del
+recipiente de muestreo y cerrarse posteriormente. El producto no debe manipularse para acelerar su
+enfriamiento.
+8.1.3.3 En el caso de que la muestra se resguarde en papel, se debe mantener en las mismas
+condiciones e introducirla en las bolsas de plástico.
+   Lunes 18 de agosto de 2003                    DIARIO OFICIAL                      (Segunda Sección)   12
+8.1.3.4 Las muestras deben entregarse al Laboratorio bajo condiciones de refrigeración (Temperatura
+máx. 7°C).
+8.1.3.5 El análisis microbiológico debe efectuarse dentro de un lapso no mayor a las 24 horas de haberse
+realizado la toma de muestra, en caso de que esto no sea posible debe mantenerse en refrigeración,
+además el laboratorista deberá señalar en el reporte de resultados, la fecha y hora en que se efectuó la
+toma de muestra y en que se realizaron los análisis correspondientes.
+
+
+8.1.4 Para la determinación de humedad en harinas para elaborar tortillas se debe aplicar el método para
+la determinación de humedad y sólidos totales en harinas, establecido en el numeral 2 del apéndice
+normativo C de la NOM-247-SSA1-2008, citada en apartado de referencias.
+[Modificación publicada en el DOF el 1° de febrero de 2011]
+
+8.1.5 Para la determinación de materia extraña en tortillas, harinas preparadas para elaborar tortillas y
+tostadas se debe aplicar el siguiente método:
+8.1.5.1 Preparación de la muestra
+8.1.5.1.1 Fragmentar manualmente o cortar 500g de la muestra en trozos de aproximadamente 5 cm,
+mezclar bien y dividirla en cuatro porciones (A, B, C, D) tomar los dos extremos opuestos (A y D) mezclar,
+separar una parte y desechar el resto, reunir los dos cuartos restantes (B y C) y se procederá como se
+indicó anteriormente, repetir el procedimiento hasta obtener la cantidad de muestra necesaria.
+8.1.5.2 Principio del método
+8.1.5.2.1 La materia extraña se separa por flotación y posteriormente se filtra para su observación al
+microscopio.
+8.1.5.3 Equipo
+8.1.5.3.1 Balanza granataria con una precisión de 0,1 g
+8.1.5.3.2 Equipo de filtración al vacío
+8.1.5.3.3 Microscopio binocular estereoscópico con objetivos que pueden ser de 3, 6, 7 y 10 X y oculares
+apareados de amplio campo visual de 10, 30 y 100X respectivamente.
+8.1.5.3.4 Lámpara para el microscopio o luz natural equivalente
+8.1.5.3.5 Parrilla de calentamiento con agitación magnética
+8.1.5.4 Materiales
+8.1.5.4.1 Vaso de precipitados de 1000 o 2000 mL.
+8.1.5.4.2 Matraz trampa de Wildman, formado por un matraz Erlenmeyer de 1 o 2 L, provisto de una
+varilla metálica con un tapón de hule en un extremo (tapón émbolo)
+8.1.5.4.3 Embudo de Hirsch o Buchner para filtración al vacío
+8.1.5.4.4 Caja de Petri
+8.1.5.4.5 Tamiz plano de malla No. 230 de acero inoxidable
+8.1.5.4.6 Papel de filtración rápida del No. 8 rayado para conteo con líneas paralelas de aproximadamente
+5 mm de separación
+8.1.5.5 Reactivos
+8.1.5.5.1 Todos los reactivos deben ser grado analítico a menos que se indique otra especificación y por
+agua se entiende agua destilada.
+8.1.5.5.2 Etanol al 40 y 60%. (C2H6O)
+8.1.5.5.3 Acido clorhídrico (HCl) de 36,5 a 38% de pureza.
+8.1.5.5.4 Aceite mineral. Aceite de parafina, blanco y ligero. Con un peso específico de 0,840-0,860
+(24ºC)
+8.1.5.5.5 Isopropanol (2-propanol) (C3H8O)
+8.1.5.5.6 Emulsificante: Igepal (Di-alquil-fenoxi-polietilen-oxietanol) o Tween
+8.1.5.5.7 Mezcla de Glicerina: Etanol 1:3 (v/v) opcional.
+8.1.5.5.8 Mezclar un volumen de glicerina con 3 volúmenes de etanol.
+8.1.5.5.9 Isopropanol al 40% (v/v)
+Diluir 40 mL de isopropanol con agua y llevar a un volumen de 100 mL
+8.1.5.6 Procedimiento
+   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                          (Segunda Sección)   13
+8.1.5.6.1 Pesar por duplicado 50 g de muestra en un vaso de precipitación de 1 o 2 L, adicionar 500 mL
+de agua caliente (55-70ºC) y 40 mL de HCl. Para producto que contiene alto contenido de grasa,
+adicionar 20 mL de emulsificante (esta adición es optativa).
+8.1.5.6.2 Colocar en una parrilla de agitación magnética, calentar la mezcla hasta ebullición agitando
+suavemente. Hervir durante 20 minutos.
+8.1.5.6.3 Transferir el contenido del vaso a un tamiz de malla No. 230 y lavar con una fuerte corriente de
+agua, hasta que salga clara.
+8.1.5.6.4 Lavar los remanentes del tamiz recibiendo el contenido del tamiz en un matraz trampa de
+Wildman.
+8.1.5.6.5 Llevar a un volumen de 800 mL con isopropanol al 40% y adicionar 30 mL de HCl. Colocar el
+matraz sobre una parrilla de agitación magnética.
+8.1.5.6.6 Subir la varilla de agitación arriba del nivel del líquido sosteniéndola con una pinza. Hervir la
+muestra 5 minutos con agitación constante.
+8.1.5.6.7 Adicionar 50 mL de aceite mineral y agitar 3 min. Quitar el matraz de la palomilla y llenarlo con
+isopropanol al 40%. Dejar reposar 10 min. Entrampar, filtrar y enjuagar el cuello del matraz con
+isopropanol o etanol.
+8.1.5.6.8 Filtrar en el papel para conteo. Adicionar nuevamente 50 mL de aceite mineral, mezclar durante
+1 minuto, dejar reposar 10 minutos y entrampar, enjuagar el cuello del matraz y filtrar. Colocar el filtro con
+el residuo en una caja de Petri. Examinar al microscopio utilizando una luz suficientemente fuerte para
+que muestre los detalles en el papel filtro.
+8.1.5.6.9 Contar explorando con una aguja de disección sobre toda la superficie del papel, línea por línea,
+voltear y explorar cada pieza del material, pues algunos fragmentos son irreconocibles a menos que se
+muevan. No contar material dudoso.
+8.1.5.7 Expresión de resultados
+
+
+
+
+                           Reportar la materia extraña encontrada en 50 g de
+                           muestra
+
+
+8.1.6 Para la determinación del índice de acidez en los aceites y grasas que se utilizan en la fritura de los
+productos objeto de esta Norma, se debe aplicar el siguiente método:
+8.1.6.1 Principio del método
+8.1.6.1.1 Se basa en la determinación de los ácidos grasos libres presentes en la muestra, por medio de
+su valoración con una solución estandarizada de NaOH.
+8.1.6.2 Equipo
+8.1.6.2.1 Balanza analítica con una precisión de 0,1 mg
+8.1.6.2.2 Baño de vapor.
+8.1.6.3 Materiales
+8.1.6.3.1 Matraces Erlenmeyer de 250 mL
+8.1.6.3.2 Bureta de 50 mL con divisiones de 0,1 mL
+8.1.6.4 Reactivos
+8.1.6.4.1 Todos los reactivos deben ser grado analítico a menos que se indique otra especificación y por
+agua se entiende agua destilada.
+8.1.6.4.2 Solución indicadora de fenolftaleína al 1% en etanol.
+8.1.6.4.3 Soluciones valoradas de hidróxido de sodio (NaOH) 0,1, 0,25 o 1,0 N.
+8.1.6.4.4 Etanol al 95% (C2H6O) neutralizado. Agregar unas gotas de solución indicadora de fenolftaleína
+y adicionar gota a gota solución estándar de NaOH 0,1 N hasta la aparición de la primera coloración rosa
+que persista por 30 segundos.
+8.1.6.5 Procedimiento
+   Lunes 18 de agosto de 2003                    DIARIO OFICIAL                            (Segunda Sección)   14
+8.1.6.5.1 Homogeneizar manualmente la muestra. La cantidad de muestra empleada en esta determinación
+será de acuerdo con la siguiente tabla.
+                                      Tabla 11. Cantidad de muestra
+ Intervalo de % AGL             g de muestra                mL de etanol            Normalidad de NaOH
+ 0,00 a 0,2                     56,4  0,2                  50                      0,1
+ 0,2 a 1,0                      28,2  0,2                  50                      0,1
+ 1,0 a 30,0                     7,05  0,05                 75                      0,25
+ 30,0 a 50,0                    7,05  0,05                 100                     0,25 o 1,0
+ 50,0 a 100                     3,525  0,001               100                     1,0
+
+
+8.1.6.5.2 A la muestra pesada contenida en un matraz Erlenmeyer, se le adicionan los mililitros de etanol
+indicados en la tabla anterior. Mezclar, si la disolución no es completa en frío, calentar suavemente el
+matraz en baño de vapor y agregar 2 mL de solución indicadora de fenolftaleína.
+8.1.6.5.3 Titular con la solución estándar de NaOH respectiva, agitar hasta la aparición de la primera
+coloración rosa que persista por 30 segundos.
+8.1.6.6 Cálculos
+
+
+                                                        .                             ,
+8.1.6.6.1      %                á
+
+
+8.1.6.7 Expresión de resultados
+
+
+
+
+                       % de Acidos Grasos Libres expresados como ácido oleico
+
+
+
+
+8.1.7 Para la determinación de aflatoxinas en masa, tortillas, tostadas y harinas preparadas para elaborar
+tortillas se debe aplicar cualquiera de los métodos de prueba establecidos en la NOM-247-SSA1-2008,
+citada en el apartado de referencias. En el caso de la masa y las tortillas se debe aplicar previamente el
+siguiente procedimiento de preparación de la muestra:
+[Modificación publicada en el DOF el 1° de febrero de 2011]
+
+
+8.1.7.1 Preparación de la muestra.
+8.1.7.1.1 Para la determinación de aflatoxinas en tortillas.
+8.1.7.1.1.1 Pesar en balanza granataria la muestra completa al recibirla (peso inicial).
+8.1.7.1.1.2 Separar todas las tortillas que conforman la muestra, cortar el producto en tiras y dejar secar a
+temperatura ambiente o en estufa de secado máximo a 60ºC, siempre y cuando no modifique las
+características de la muestra, hasta obtener un producto quebradizo.
+8.1.7.1.1.3 Pesar el producto seco en balanza granataria (peso final).
+8.1.7.1.1.4 Calcular el contenido de humedad de la muestra, aplicando la siguiente fórmula:
+
+
+                                                                           100
+                                %
+   Lunes 18 de agosto de 2003                  DIARIO OFICIAL                        (Segunda Sección)   15
+
+
+
+
+8.1.7.1.1.5 Moler la muestra y pasarla a través de malla 20, mezclar y pesar la cantidad establecida en la
+NOM-247-SSA1-2008, citada en el apartado de referencias y continuar con lo especificado en el mismo.
+[Modificación publicada en el DOF el 1° de febrero de 2011]
+
+8.1.7.1.1.6 Reportar el contenido de aflatoxinas en g/kg con base a la humedad calculada en el producto
+original, de la siguiente manera:
+
+
+
+
+                                                                        á       %
+                                                              100
+
+
+
+8.1.8 Para la determinación de aflatoxinas en tostadas y harinas preparadas para elaborar tortilla, se debe
+aplicar cualquiera de los métodos de prueba establecidos en la NOM-247-SSA1-2008, citada en el
+apartado de referencias.
+[Modificación publicada en el DOF el 1° de febrero de 2011]
+
+8.1.9 Para la determinación de pureza y metales pesados del hidróxido de calcio u óxido de calcio y óxido
+de calcio y magnesio en cal viva y cal hidratada, se debe aplicar el método señalado a continuación y el
+método establecido en la NOM-117-SSA1-1994, señalada en el apartado de referencias:
+8.1.9.1 Principio del método
+8.1.9.1.1 Este método involucra a aquellos compuestos con alto contenido de calcio, como cal viva y la cal
+hidratada.
+8.1.9.1.2 La muestra se hace reaccionar en agua y se dispersa en ella. La cal se solubiliza por la reacción
+con el azúcar, formando el sucrato de calcio, el cual se cuantifica por titulación con una solución ácida
+estandarizada, usando como indicador a la fenoftaleína.
+8.1.9.2 Equipo
+8.1.9.2.1 Balanza analítica con precisión de 0,1 mg
+8.1.9.2.2 Estufa de secado que alcance hasta 250ºC
+8.1.9.3 Materiales
+8.1.9.3.1 Papel filtro, conforme a los requerimientos de cada especificación
+8.1.9.3.2 Material común de laboratorio.
+8.1.9.4 Reactivos
+8.1.9.4.1 Los reactivos que a continuación se indican deben ser grado analítico a menos que se indique
+otra especificación y por agua se entiende agua destilada.
+8.1.9.4.2 Solución estándar de ácido clorhídrico (HCl) 0,1782 N
+8.1.9.4.2.1 Preparar la solución diluyendo 15,7 mL de HCl concentrado, densidad de 1,19, en un litro de
+agua destilada fría libre de CO2. Esta solución está intencionalmente un poco más concentrada de lo
+necesario.
+8.1.9 4.2.2 Estandarización de la solución de HCl con carbonato de sodio (Na2CO3)
+8.1.9.4.2.2.1 Pesar cuidadosamente, en un matraz Erlenmeyer 0,85 g de (Na2CO3) puro, anhidro y
+secado por 4 horas a 250ºC.
+8.1.9.4.2.2.2 Mezclar con 75 mL de agua destilada. Después de disolver el Na2CO3, agregar 2 o 3 gotas
+del indicador anaranjado de metilo, titular con el ácido estándar hasta que el indicador se torne
+completamente rosa, (esta titulación también se puede llevar a cabo potenciométricamente, con la ayuda
+de un electrodo de vidrio y otro de Calomel) después agregar aproximadamente un mL de ácido en
+exceso. Hervir suavemente la solución acidificada, durante 5 min para eliminar el CO2.
+8.1.9.4.2.2.3 Dejar que la solución se enfríe a temperatura ambiente. Agregar la solución de hidróxido de
+sodio (NaOH) 0,3 N estandarizada, hasta que el indicador de la solución se torne a color amarillo. Titular
+con HCl estándar hasta la aparición de un ligero color rosa y calcular la normalidad con la siguiente
+ecuación:
+   Lunes 18 de agosto de 2003                     DIARIO OFICIAL                        (Segunda Sección)   16
+
+
+
+
+                                                        1000
+                                                       52,994
+
+
+
+Donde:
+N = Normalidad de la solución de HCl.
+W = Gramos de carbonato de potasio.
+V = Mililitros de HCl gastados en la titulación.
+52,994 = Peso equivalente del carbonato de calcio.
+8.1.9.4.2.2.4 Ajustar la normalidad de la solución a 0,1782 N, según sea el caso, adicionando agua
+hervida y fría libre de CO2 si la solución es más concentrada, o HCl concentrado si la solución es más
+diluida, de manera que 0,85 g de Na2CO3 sean neutralizados con 90 mL de la solución estándar de HCl.
+8.1.9.4.2.2.5 De acuerdo con esto, un mL de este HCl, titulará 0,005 g de CaO; y 0,0066 g de hidróxido de
+calcio Ca(OH)2 expresado de otra manera: un mL de HCl 0,01782 N equivale a 1% de CaO y a 1,32% de
+Ca(OH)2 considerando que el peso de la muestra es de 0,5 g.
+8.1.9.4.2.3 Estandarización de HCl con NaOH.
+8.1.9.4.2.3.1 Agregar en un matraz Erlenmeyer 25 mL de una solución 0,3 N de NaOH, agregar 2 gotas
+del indicador de fenolftaleína al 4% y diluir aproximadamente 100 mL con agua hervida libre de CO2 y fría.
+Titular con el ácido estandarizado hasta desaparición del color rosa.
+8.1.9.4.2.3.2 Calcular la normalidad del HCl de la siguiente manera:
+
+
+
+
+Donde:
+V1 = mL de la solución de NaOH
+N1 = Normalidad de la solución de NaOH
+V2 = mL de HCl
+N2 = Normalidad del HCl
+
+
+8.1.9.4.3 Indicador anaranjado de metilo al 0,1% en agua
+8.1.9.4.4 Indicador de fenolftaleína al 4%
+Disolver 4 g de fenolftaleína seca (secada a 105ºC) en 100 mL de alcohol etílico al 95%.
+8.1.9.4.5 Solución de hidróxido de sodio 0,3 N.
+8.1.9.4.5.1 Disolver 12 g de hidróxido de sodio en un litro de agua hervida fría libre de CO2.
+8.1.9.4.5.2 Agregar 10 mL de una solución saturada recientemente preparada y filtrada de hidróxido de
+bario Ba(OH)2 (el hidróxido de bario precipita al carbonato como carbonato de bario insoluble), agitar la
+solución frecuentemente por varias horas y filtrar. Guardar la solución en un matraz protegido del CO2 del
+aire por medio de un tubo empacado con ascarita.
+8.1.9.4.5.3 Estandarizar la solución empleando un estándar de preferencia de ácido benzoico o ftalato
+ácido de potasio de la siguiente manera:
+8.1.9.4.5.3.1 Secar el estándar del ftalato ácido de potasio (polvo fino de aproximadamente 10 mallas) por
+dos horas a 100ºC. Poner en un recipiente cerrado a enfriar en el desecador.
+   Lunes 18 de agosto de 2003                    DIARIO OFICIAL                      (Segunda Sección)   17
+8.1.9.4.5.4 Pesar exactamente alrededor de 1 g del estándar seco y transferir a un matraz Erlenmeyer de
+500 mL.
+ 8.1.9.4.5.5 Adicionar 50 mL de agua destilada hervida libre de CO2 fría y agitar suavemente para
+disolverlo. Agregar 3 gotas del indicador de fenoftaleína y titular con la solución de hidróxido de sodio,
+hasta que aparezca el primer color rosado.
+8.1.9.4.5.6 Calcular la normalidad de la siguiente manera:
+
+
+
+
+                                                        1000
+                                                       204.228
+
+
+
+Donde:
+N = Normalidad de la solución de NaOH
+W = Gramos del ftalato ácido de potasio
+V = Mililitros de NaOH usados en la titulación
+204,228 = peso equivalente del ftalato ácido de potasio
+
+
+8.1.9.4.6 Solución de sacarosa (puede emplearse azúcar pura de caña)
+8.1.9.4.6.1 Para cada muestra usar 20 g de azúcar refinada disuelta en 40 mL de agua destilada fría y
+libre de CO2, una vez disuelta, agregue 2 gotas de fenoftaleína y posteriormente agregar gota a gota
+solución de hidróxido de sodio 0,1N con agitación constante hasta que persista un ligero color rosa.
+8.1.9.4.6.2 La solución de azúcar no debe almacenarse por más de 2 días.
+8.1.9.5 Procedimiento
+8.1.9.5.1 Procedimiento para óxido de calcio (CaO) o cal viva
+8.1.9.5.1.1 Pesar lo más rápido posible 0,5 g de CaO finamente pulverizado; depositar en un matraz
+Erlenmeyer que contenga 10 mL de agua destilada, tape inmediatamente.
+8.1.9.5.1.1.1 Precaución: El agua no debe agregarse a la muestra, especialmente en el caso del CaO,
+porque el material tiende a formar grumos y terrones que dificultan la disolución completa del material en
+la solución de azúcar. Por otra parte, si la cal se agrega al agua, se presentará una mayor dispersión de
+las partículas finas dando como resultado una disolución más rápida de la muestra. En el caso del CaO es
+posible que ocurra la reacción de apagado y facilite la dispersión en la solución.
+8.1.9.5.1.2 Poner el matraz sobre una placa caliente, teniendo cuidado de retirar el tapón; rápidamente
+agregue 50 mL de agua hirviendo libre de CO2. Agitar el matraz y hervir activamente durante un minuto
+(para que el apagado o hidratado de la cal se complete). Retirar de la placa caliente y tapar el matraz;
+poner dentro de un balde con agua fría a que alcance la temperatura ambiente.
+8.1.9.5.1.3 Agregar 50 mL de la solución azucarada neutralizada. Tapar, agitar y dejar que reaccione
+durante 15 min. El tiempo de reacción no debe ser menor a 10 min ni mayor a 20 min. Agitar a intervalos
+de 5 min durante la reacción. Quite el tapón y agregue de 4 a 5 gotas del indicador de fenolftaleína al 4%.
+Lavar las paredes del matraz y el tapón con agua destilada.
+8.1.9.5.1.4 Titular rápidamente con la solución de HCl estándar, usando una bureta de 100 mL. Anote los
+mL de HCl consumidos, cuando desaparezca por primera vez el color rosa.
+8.1.9.5.2 Procedimiento para cal hidratada Ca(OH)2 o cal apagada.
+8.1.9.5.2.1 El procedimiento para determinar los contenidos de hidróxido de calcio es el mismo que se usa
+para la determinación del CaO; con la diferencia de que se usa agua destilada libre de CO2 y fría.
+Omitiendo los procesos de ebullición, calentamiento y enfriamiento.
+8.1.9.6 Cálculos
+8.1.9.6.1 Los cálculos para CaO son:
+
+
+
+                                                                   0,5
+                                                   %
+   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                         (Segunda Sección)      18
+
+
+Donde:
+W = Peso de la muestra en gramos
+V = mL de HCl estándar (0,1782 N) utilizados
+0,5 g de CaO equivalen a un mL de ácido estándar x 100, o un mL de un HCl estándar equivale al 1% de
+CaO si exactamente se usaron 0,5 g de muestra.
+8.1.9.6.2 Cálculos para Ca(OH)2
+
+
+                                                                              0,66
+                                ó                         %
+
+
+
+
+Donde:
+V = mL de HCl estándar (0,1782 N)
+W = Peso de la muestra en gramos
+0,66 = Gramos de Ca(OH)2 equivalentes a un mL de ácido estándar x 100, o
+1 mL de HCl estándar = 1,32% de Ca(OH)2, cuando se usan exactamente 0,5 g de muestra.
+
+8.1.10 Determinación del óxido de calcio y magnesio, en cal viva (CaO) y cal hidratada Ca(OH)2
+
+8.1.10.1 Principio del método
+8.1.10.1.1 El calcio y el magnesio son determinados por la titulación con EDTA (ácido etilendiamino
+tetraacético), después de la separación del sílice y del grupo hidróxido de amonio durante un análisis de
+rutina de CaO y Ca(OH)2. Los ensayos también pueden realizarse después de una descomposición
+directa con ácido clorhídrico, seguida por eliminación del sílice e insolubles.
+8.1.10.1.2 En el caso de que se encuentren presentes interferencias en cantidades que puedan causar
+problemas, éstas pueden ser suprimidas por la adición de agentes que enmascaran o formen complejos,
+como la trietanolamina.
+8.1.10.1.3 Para la determinación de calcio, la solución se ajusta a un pH de 12,0 a 12,5 con solución de
+hidróxido de potasio y titulada con EDTA a un vire azul, usando como indicador azul de hidroxinaftol.
+8.1.10.1.4 Tanto el óxido de calcio (CaO) como el óxido de magnesio (MgO), son titulados en una
+solución reguladora amoniacal (NH3.NH4Cl) ajustada a un pH de 10,0 a 10,5, usando Calmagita [Acido 1-
+(hidroxil-4-metil-2-fenilazo)-2-naftol-4-sulfónico] como indicador. El óxido de magnesio se calcula restando
+el EDTA equivalente al óxido de calcio presente, del EDTA equivalente al CaO+MgO.
+
+
+8.1.10.2 Equipo
+8.1.10.2.1 Estufa eléctrica
+8.1.10.2.2 Balanza analítica con sensibilidad de 0,1 mg
+8.1.10.3 Materiales
+8.1.10.3.1 Material común de laboratorio
+8.1.10.3.2 Papel filtro Whatman No. 41
+8.1.10.4 Reactivos
+8.1.10.4.1 Todos los reactivos deben ser grado analítico, a menos que se indique otra especificación y por
+agua se entiende agua destilada.
+8.1.10.4.2 Solución de la sal disódica del ácido etilén diaminotetraacético o EDTA (C10 H14 N2 Na2
+O8.2H2O) al 0,4%
+Disolver 4,0 g de la sal disódica del ácido etilén diaminotetraacético en un matraz volumétrico de un litro
+y llevar al volumen con agua destilada.
+8.1.10.4.3 Solución de hidróxido de potasio KOH (1,0 N)
+   Lunes 18 de agosto de 2003                     DIARIO OFICIAL                         (Segunda Sección)   19
+Disolver 56,0 g de hidróxido de potasio en un matraz volumétrico de un litro y llevar al volumen con agua
+destilada.
+8.1.10.4.4 Solución reguladora amoniacal (NH3 .NH4Cl)
+8.1.10.4.4.1 Disolver 67,5 g de cloruro de amonio (NH4Cl) en 300 mL de agua destilada, añadir 570 mL de
+hidróxido de amonio (NH4OH) y diluir a un litro.
+8.1.10.4.5 Acido clorhídrico (HCl) (1+1 v/v)
+Diluir un volumen de ácido clorhídrico concentrado (Densidad de 1,19) con un volumen de agua destilada.
+8.1.10.4.6 Acido clorhídrico (1+9 v/v)
+Diluir un volumen de ácido clorhídrico concentrado (Densidad de 1,19) con nueve volúmenes iguales de
+agua destilada.
+8.1.10.4.7 Trietanolamina (2,2’,2” Nitrilotrietanol, C6 H15NO3) solución (1+2 v/v)
+Diluir un volumen de trietanolamina en dos volúmenes de agua.
+8.1.10.4.8 Solución estandarizada de calcio (1,0 mg de CaO/mL)
+Pesar 1,785 g de carbonato de calcio grado reactivo analítico, disolver en HCl (1+9) y diluir a un litro con
+agua destilada.
+8.1.10.4.9 Solución estandarizada de magnesio (1,0 mg de MgO/mL)
+Disolver 0,603 g de magnesio metálico con HCl concentrado y diluir a un litro con agua destilada.
+8.1.10.4.10 Azul de hidroxinaftol (Indicador de calcio)
+Sal disódica del ácido 1-(2-naftol azo-3,6 disulfónico) 2 naftol-4-sulfónico.
+8.1.10.4.11 Calmagita (Indicador de magnesio + calcio)
+Acido 1-(hidroxil-4-metil-2-fenilazo)-2 naftol-4-sulfónico.
+8.1.10.4.12 Estandarización de la solución de EDTA
+8.1.10.4.12.1 Calcio (Ca)
+8.1.10.4.12.1.1 Tomar una alícuota de 10 mL de la solución de calcio 1,0 N en un matraz Erlenmeyer y
+añadir 100 mL de agua destilada. Para prevenir la precipitación de calcio, añadir aproximadamente 10 mL
+de la solución titulante de EDTA. Ajustar a pH 12 - 12,5 con aproximadamente 15 mL de solución de KOH
+1,0 N, añadir de 2 a 3 mg de indicador azul de hidroxinaftol y completar la titulación a un punto final azul
+profundo, que permanezca estable por al menos 30 segundos (Ver Nota).
+Titular tres o más alícuotas y utilizar el promedio para calcular el valor de CaO de la solución.
+
+
+
+                                                  10                á
+                                                                                ó
+
+
+
+
+8.1.10.4.12.2 Magnesio (Mg)
+8.1.10.4.12.2.1 Tomar una alícuota de 10 mL de la solución estándar de MgO 1,0 N (1,0 mg de Mg/mL) en
+un matraz Erlenmeyer y añadir 100 mL de agua destilada. Ajustar a pH 10 con aproximadamente 10 mL
+de la solución reguladora amoniacal y añadir de 3 a 4 mg de indicador Calmagita. Titular con la solución
+de EDTA, observando el vire de color rojo al punto final azul profundo (Ver Nota).
+Titular tres o más alícuotas y emplear el promedio para calcular el valor de MgO de la solución.
+
+
+                                                  10                 á
+                                                  ó                                  ó
+   Lunes 18 de agosto de 2003                  DIARIO OFICIAL                         (Segunda Sección)   20
+
+
+
+Nota: La cantidad de indicador empleada variará de acuerdo a la preferencia del analista, se considera
+que la dosis apropiada será aquella que ayude a la detección clara del punto final. El uso de un agitador
+magnético con luz será de gran ayuda para detectar el cambio de color.
+
+8.1.10.5 Procedimiento
+8.1.10.5.1 La muestra debe estar seca, pulverizada y pasarla a través de un tamiz con malla No. 50.
+8.1.10.5.2 Pesar 0,5 g de la muestra preparada como se indicó y pasarla a un matraz Erlenmeyer
+de 250 mL y añadir 10 mL de ácido clorhídrico (1+1).
+8.1.10.5.3 Calentar y evaporar cuidadosamente hasta sequedad, retirar el matraz y dejar enfriar a
+temperatura ambiente.
+8.1.10.5.4 Disolver el residuo con 25 mL de ácido clorhídrico (1+9), diluir a 100 mL con agua destilada.
+8.1.10.5.5 Calentar a baja temperatura, aproximadamente durante 15 min y enfriar. Filtrar la solución y
+pasarla a un matraz volumétrico de 250 mL y llevar al volumen con agua destilada. Agitar muy bien para
+asegurar que la solución sea homogénea (Solución I).
+8.1.10.5.6 Determinación de óxido de calcio
+8.1.10.5.6.1 De la Solución I, tomar una alícuota de 20 mL y transferirla a un matraz Erlenmeyer
+de 500 mL. Diluir a aproximadamente 150 mL con agua destilada, ajustar el pH a 12, con
+aproximadamente 30 mL de la solución de hidróxido de potasio 1,0 N y agitar, añadir aproximadamente
+de 2 a 3 mg del indicador azul de hidroxinaftol y titular con la solución de EDTA hasta que una gota
+provoque el vire de color rojo a azul claro que es el punto final.
+8.1.10.5.7 Determinación de óxido de magnesio
+8.1.10.5.7.1 De la Solución I, tomar una alícuota de 20 mL y transferirla a un matraz Erlenmeyer de 500
+mL, diluir a aproximadamente 100 mL con agua destilada. Ajustar el pH a 10 con aproximadamente
+20 mL de la solución reguladora amoniacal y agitar, en caso de existir interferencias será necesario
+adicionar 10 mL de solución de trietanolamina (1+2), añadir aproximadamente 4 mg del indicador
+Calmagita (Ver Nota). Titular con la solución de EDTA agregando aproximadamente el volumen gastado
+de solución equivalente a la titulación de calcio y continuar la titulación poco a poco hasta que una última
+gota adicionada dé el vire al color azul, tomar la lectura.
+8.1.10.6 Cálculos
+8.1.10.6.1 Calcio
+
+
+                                                     ó                      ó                    1,25
+     %
+
+
+8.1.10.6.2 Magnesio
+mL EDTA equivalentes a MgO = (mL totales empleados en la titulación de Ca y Mg) - (mL de solución
+EDTA empleados en la titulación de CaO)
+
+
+                                                                        ó                       1,25
+     %
+
+
+
+
+Donde:
+1,25 = Factor de dilución
+
+
+9. Etiquetado
+   Lunes 18 de agosto de 2003                   DIARIO OFICIAL                       (Segunda Sección)   21
+Las etiquetas de los productos objeto de esta norma, además de cumplir con lo establecido en el
+Reglamento, y con las especificaciones generales establecidas en la NOM-051-SCFI/SSA1-2010, citada
+en el apartado de referencias, deben cumplir con lo siguiente:
+9.1 Cuando los productos objeto de esta norma, se modifiquen en su composición, deben cumplir con la
+denominación correspondiente establecida en la NOM-086-SSA1-1994, citada en el apartado de
+referencias, con el mismo tipo y tamaño de letra.
+9.2 En las tortillas debe declararse la fecha de caducidad.
+9.3 Deben ostentar las siguientes leyendas de conservación, según corresponda:
+9.3.1 Las tostadas, tortillas de harina de trigo y harinas para preparar tortillas: “Consérvese en un lugar
+fresco y seco”, o una equivalente.
+9.3.2 Para el caso de las tortillas, se debe incluir la leyenda: “Una vez abierto el paquete, se recomienda
+mantener en refrigeración”, o alguna equivalente.
+9.4 Deben describirse en forma gráfica o escrita, cuando se requieran, las instrucciones de preparación, o
+instrucciones de uso o consumo especial derivadas del diseño del envase.
+9.5 En el caso de que los productos objeto de esta norma contengan o incluyan productos preenvasados
+como parte de promociones u obsequios, tales como salsas y aderezos, deben incluir en el envase del
+producto de promoción u obsequio, cuando menos, lista de ingredientes, identificación del responsable
+del proceso y lote, conforme a las disposiciones en la materia.
+9.6 La etiqueta del hidróxido de calcio, además de cumplir con lo establecido en la NOM-050-SCFI-2004,
+señalada en el apartado de referencias, debe incluir sin perjuicio de otros ordenamientos vigentes la
+información del modo de manejo, advertencias, precauciones y primeros auxilios, mediante la hoja de
+datos de seguridad que deberá proporcionar el proveedor.
+9.7 Cálculos de proteínas
+Utilizar las siguientes fórmulas:
+   i)   Para productos derivados del trigo:
+        Proteína = contenido total de nitrógeno Kjeldahl x 5.7
+   ii) Para productos derivados de otros cereales y mezclas de cereales
+        Proteína = contenido total de nitrógeno Kjeldahl x 6.25
+
+
+[Modificación del capítulo de etiquetado publicada en el DOF el 1° de febrero de 2011]
+
+10. Envase y embalaje
+10.1 Envase
+10.1.1 Los productos objeto de esta norma se deben envasar o envolver según corresponda, en
+recipientes o materiales de tipo sanitario, elaborados con materiales inocuos y resistentes a distintas
+etapas del proceso, de tal manera que no reaccionen con el producto o alteren las características físicas,
+químicas
+y sensoriales.
+10.2 Embalaje
+10.2.1 Se debe usar material resistente, que ofrezca la protección adecuada a los envases para impedir
+su deterioro exterior, a la vez que faciliten su manipulación, almacenamiento y distribución.
+11. Concordancia con normas internacionales y mexicanas
+11.1 Esta Norma no es equivalente con normas internacionales o mexicanas.
+12. Bibliografía
+12.1 Ley Federal sobre Metrología y Normalización.
+   Lunes 18 de agosto de 2003                    DIARIO OFICIAL                          (Segunda Sección)   22
+12.2 Secretaría de Comercio y Fomento Industrial. 1993. NOM-008-SCFI-1993, Sistema General de
+Unidades de Medida. Diario Oficial de la Federación. México, D.F.
+12.3 Secretaría de Comercio y Fomento Industrial. 1977. NOM-Z-13 1977, Guía para la Redacción,
+Estructuración y Presentación de las Normas Oficiales Mexicanas. México, D.F.
+12.4 Ley General de Salud.
+12.5 Reglamento de la Ley General de Salud en Materia de Control Sanitario de Actividades,
+Establecimientos, Productos y Servicios.
+12.6 Reglamento de Control Sanitario de Productos y Servicios.
+12.7 Acuerdo por el que se determinan las sustancias permitidas como aditivos y coadyuvantes.
+12.8 American Society for Testing and Minerals. Annual Book. (1996). Sec. 4 Vol. 4.01. p. 30-31.
+12.9 Bello A.B., Serna S.S.O., Waniska R.D. and Rooney L.W. 1991. Methods to prepare and evaluate
+wheat tortillas. Cereal foods world. 36(3) 315-318.
+12.10 Capparelli E. and Mata L. 1975. Microflora of maize prepared as tortillas. Applied Microbiology 29(6)
+802-806.
+12.11 Comisión Internacional de Especificaciones Microbiológicas para alimentos (ICMSF). 1985.
+Ecología Microbiana de los Alimentos Vol. 1. Editorial Acribia, S.A. de C.V. Zaragoza, España.
+12.12 FAO, OMS, PNUMA. 1987. Segunda Conferencia Internacional Mixta FAO/OMS/PNUMA sobre
+Micotoxinas. Bangkok, Tailandia, 28 de septiembre-3 de octubre.
+12.13 Food and Agriculture Organization of the United National. 1990. Codex Alimentarius Abridged
+Version, Summarized and Edited By Barry L. Smith. Divission 3- Food Additives.
+12.14 Lewis Richard J. 1989. Food Additives Handbook.
+12.15 Machorro V.L. y Valdivia L.A. Cambios cuantitativos en las aflatoxinas durante el proceso de la
+nixtamalización y elaboración de la tortilla. Tecnol. Aliment. (Méx.) 19(4) 10-14.
+12.16 Normas ASTM. 1992. Capítulo 28 p. 22, 23, 30.
+12.17 Organización de las Naciones Unidas para la Agricultura y la Alimentación. 1996. Comisión del
+Codex Alimentarius. Programa Conjunto FAO/OMS sobre Normas Alimentarias. Comité del Codex sobre
+Aditivos Alimentarios y Contaminantes de los Alimentos. Manila, Filipinas.
+12.18 Price R.L. and Jorgensen K.V. 1985. Effects of processing on aflatoxin levels and on mutagenic
+potential of tortillas made from naturally contaminated corn. J. of food science Vol. 50 p 347-349.
+12.19 Summary of Evaluations Performed by Joint FAO/WHO Expert Committe on Food Additives and
+Contaminants (JECFA). 1994.
+12.20 Torreblanca R.A. and Bourges R.H. 1986. Aflatoxin in maize and tortillas in Mexico. Aflatoxin in
+maize. A proceedings of the workshop. El Batan.
+12.21 Trejo G.A., Feria M.A. and Wild A.C. 1982. The role of lime in the alkaline tretment of corn for tortilla
+preparation. Advances in chemestry series, No. 198 Modification of proteins.
+12.22 Ulloa S.M. and Schroeder M.W. 1969. Wate on Aflatoxin Descomposition in the Process of Making
+Tortillas from Corn. Cereal Chemistry 46(4). p 397-400.
+13. Observancia de la norma
+13.1 La vigilancia en el cumplimiento de la presente norma corresponde a la Secretaría de Salud, a los
+gobiernos de las entidades federativas, en sus respectivos ámbitos de competencias, y a los organismos
+de tercera parte habilitados para tal efecto.
+13.2 La vigilancia en el cumplimiento de las especificaciones comerciales señaladas en el numeral 9.1 de
+la presente norma, corresponde a la Secretaría de Economía, a la Procuraduría Federal del Consumidor,
+y a los organismos de tercera parte habilitados para tal efecto.
+14. Vigencia
+La presente Norma Oficial Mexicana entrará en vigor a los 180 días naturales contados a partir del día
+siguiente al de su publicación en el Diario Oficial de la Federación.
+Las especificaciones establecidas en el apartado de etiquetado entrarán en vigor en planta a los 180 días
+naturales contados a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+México, D.F., a 31 de enero de 2003.- El Presidente del Comité Consultivo Nacional de Normalización de
+Regulación y Fomento Sanitario, Ernesto Enríquez Rubio.- Rúbrica.- El Presidente del Comité
+Consultivo Nacional de Normalización de Información Comercial, Seguridad al Usuario y Prácticas de
+Comercio, Miguel Aguilar Romo.- Rúbrica.
+
