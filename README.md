@@ -59,6 +59,10 @@ The workspace is divided into five crates:
 | `lex-export` | JSON, Markdown, and Obsidian publication |
 | `lex-cli` | Commands and end-to-end pipeline orchestration |
 
+NOM/NMX inputs use a separate standards compiler instead of being represented
+as statutes or articles. See [`docs/standards-module.md`](docs/standards-module.md)
+for its metadata, clause, validation, and review-state boundaries.
+
 ## Prerequisites
 
 - Stable Rust with `rustfmt` and Clippy (the checked-in toolchain file installs

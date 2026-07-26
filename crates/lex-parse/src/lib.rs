@@ -20,6 +20,7 @@ pub mod diputados;
 pub mod html;
 pub mod itf;
 pub mod labels;
+pub mod standard;
 pub mod terms;
 
 pub use dcg::parse_dcg;
@@ -29,6 +30,7 @@ pub use diputados::{
 };
 pub use html::extract_html_text;
 pub use itf::{ItfDocument, parse_itf_dcg};
+pub use standard::{parse_standard_clauses, validate_standard};
 pub use terms::{
     GlossaryStyle, detect_glossary_terms, extract_term_usages, extract_terms,
     find_glossary_provision,

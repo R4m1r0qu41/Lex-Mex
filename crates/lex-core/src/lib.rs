@@ -28,6 +28,91 @@ pub enum InstrumentType {
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
 #[serde(rename_all = "snake_case")]
+pub enum StandardKind {
+    Nom,
+    Nmx,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum StandardStatus {
+    Current,
+    Cancelled,
+    Replaced,
+    Unknown,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum TechnicalReviewStatus {
+    NotAnalyzed,
+    ReviewRequired,
+    TechnicalVerified,
+}
+
+/// Source-grounded identity and lifecycle facts for one NOM or NMX.
+///
+/// This remains separate from [`Instrument`]: standards have designation,
+/// technical-review, replacement-chain, and conformity-assessment semantics
+/// that statutes and regulations do not.
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct StandardMetadata {
+    pub schema_version: String,
+    pub id: String,
+    pub kind: StandardKind,
+    pub designation: String,
+    pub official_title: String,
+    pub issuing_authorities: Vec<String>,
+    pub regulatory_domains: Vec<String>,
+    pub publication_date: NaiveDate,
+    pub effective_date: Option<NaiveDate>,
+    pub cancellation_date: Option<NaiveDate>,
+    pub status: StandardStatus,
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub replaces: Vec<String>,
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub replaced_by: Vec<String>,
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub joint_prefixes: Vec<String>,
+    pub objective: Option<String>,
+    pub scope: Option<String>,
+    pub conformity_assessment: Option<String>,
+    pub official_dof_url: Url,
+    pub official_registry_url: Option<Url>,
+    pub publisher: String,
+    pub retrieved_at: DateTime<Utc>,
+    pub source_sha256: String,
+    pub extracted_text_sha256: String,
+    pub parser_version: String,
+    pub legal_review_status: ReviewStatus,
+    pub technical_review_status: TechnicalReviewStatus,
+}
+
+/// One numbered clause in a compiled standard, anchored to the unchanged
+/// extracted source text rather than represented as a legal article.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct StandardClause {
+    pub schema_version: String,
+    pub id: String,
+    pub standard_id: String,
+    pub number: String,
+    pub label: String,
+    pub text: String,
+    pub start_char: usize,
+    pub end_char: usize,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct StandardValidationReport {
+    pub schema_version: String,
+    pub standard_id: String,
+    pub valid: bool,
+    pub clause_count: usize,
+    pub issues: Vec<ValidationIssue>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
 pub enum InstrumentStatus {
     InForce,
     PartiallyEffective,

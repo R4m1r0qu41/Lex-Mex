@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lex-mex.example/schemas/standard-clause.schema.json",
+  "title": "Lex-Mex numbered NOM/NMX clause",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "standard_id",
+    "number",
+    "label",
+    "text",
+    "start_char",
+    "end_char"
+  ],
+  "properties": {
+    "schema_version": { "const": "0.1.0" },
+    "id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:federal:(nom|nmx):[a-z0-9-]+:clause:[0-9-]+$"
+    },
+    "standard_id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:federal:(nom|nmx):[a-z0-9-]+$"
+    },
+    "number": {
+      "type": "string",
+      "pattern": "^[0-9]+(?:\\.[0-9]+)*$"
+    },
+    "label": { "type": "string", "minLength": 1 },
+    "text": { "type": "string", "minLength": 1 },
+    "start_char": { "type": "integer", "minimum": 0 },
+    "end_char": { "type": "integer", "minimum": 1 }
+  }
+}

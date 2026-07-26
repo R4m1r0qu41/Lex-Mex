@@ -35,6 +35,7 @@ use lex_source::{
 use regex::Regex;
 
 mod bundle;
+mod standards;
 
 #[derive(Debug, Parser)]
 #[command(name = "lex-mex", version, about = "Compile Mexican legal sources")]
@@ -83,6 +84,11 @@ enum Command {
     Bundle {
         #[command(subcommand)]
         command: bundle::BundleCommand,
+    },
+    /// Compile and validate NOM/NMX records through their separate boundary.
+    Standards {
+        #[command(subcommand)]
+        command: standards::StandardsCommand,
     },
     Discover {
         source: String,
@@ -293,6 +299,7 @@ fn main() -> Result<()> {
             run_consumer_command(&root, command)?;
         }
         Command::Bundle { command } => bundle::run_bundle_command(&root, command)?,
+        Command::Standards { command } => standards::run_standards_command(command)?,
         Command::Discover { source } => run_discover(&root, &source)?,
         Command::Fetch { instrument } => {
             let context = instrument_context(&root, &instrument)?;

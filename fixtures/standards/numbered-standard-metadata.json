@@ -1,0 +1,29 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-999-test-2026",
+  "kind": "nom",
+  "designation": "NOM-999-TEST-2026",
+  "official_title": "Norma Oficial Mexicana de prueba para el compilador",
+  "issuing_authorities": [
+    "Secretaría de Prueba"
+  ],
+  "regulatory_domains": [
+    "fixture"
+  ],
+  "publication_date": "2026-07-25",
+  "effective_date": null,
+  "cancellation_date": null,
+  "status": "unknown",
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "official_dof_url": "https://example.test/dof/nom-999",
+  "official_registry_url": null,
+  "publisher": "Fixture",
+  "retrieved_at": "2026-07-25T12:00:00Z",
+  "source_sha256": "e4d2783baccf61d9ed608159aede09f508610b58d47cf8cda3cef38c3c068dc0",
+  "extracted_text_sha256": "e4d2783baccf61d9ed608159aede09f508610b58d47cf8cda3cef38c3c068dc0",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lex-mex.example/schemas/standard-validation.schema.json",
+  "title": "Lex-Mex NOM/NMX validation report",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "standard_id", "valid", "clause_count", "issues"],
+  "properties": {
+    "schema_version": { "const": "0.1.0" },
+    "standard_id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:federal:(nom|nmx):[a-z0-9-]+$"
+    },
+    "valid": { "type": "boolean" },
+    "clause_count": { "type": "integer", "minimum": 0 },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["severity", "code", "message", "provision_id"],
+        "properties": {
+          "severity": { "enum": ["warning", "error"] },
+          "code": { "type": "string", "minLength": 1 },
+          "message": { "type": "string", "minLength": 1 },
+          "provision_id": { "type": ["string", "null"] }
+        }
+      }
+    }
+  }
+}

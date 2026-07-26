@@ -175,8 +175,9 @@ analysis, not missing federal sanitary text.
 - [ ] Add the federal workplace-safety regulation to a reviewed prepared batch.
 - [ ] Complete AD1–AD3 and ingest AD4 through the provisional-inspect-freeze
   sequence.
-- [ ] Produce the standards-module ADR/schema proposal from the verified
-  Maximasa NOM/NMX inventory.
+- [x] (2026-07-25) Added the standards-specific metadata, numbered-clause,
+  source-span validation, JSON Schema, fixture, and `standards compile`
+  boundary without promoting unverified Maximasa register rows.
 
 ## Decisions and discoveries
 

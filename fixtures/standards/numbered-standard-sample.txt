@@ -1,0 +1,31 @@
+NORMA OFICIAL MEXICANA NOM-999-TEST-2026
+
+PREFACIO
+Texto editorial que no es una cláusula.
+
+0. Introducción
+Esta norma demuestra la separación entre artículos y cláusulas técnicas.
+
+1. Objetivo y campo de aplicación
+Establece un ejemplo reproducible.
+
+2. Referencias normativas
+No contiene referencias externas.
+
+3. Términos y definiciones
+Se aplican las definiciones de esta norma.
+
+4. Símbolos y abreviaturas
+No se establecen símbolos adicionales.
+
+5. Especificaciones
+Las especificaciones se verifican de forma determinista.
+
+5.1 El establecimiento debe medir.
+La medición se conserva por cinco años.
+
+5.2 El establecimiento debe documentar.
+El documento identifica el equipo utilizado.
+
+6. Procedimiento de evaluación de la conformidad
+La evaluación requiere evidencia técnica.
