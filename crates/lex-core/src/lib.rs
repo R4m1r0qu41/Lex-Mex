@@ -77,6 +77,7 @@ pub struct StandardMetadata {
     pub objective: Option<String>,
     pub scope: Option<String>,
     pub conformity_assessment: Option<String>,
+    pub source_url: Url,
     pub official_dof_url: Url,
     pub official_registry_url: Option<Url>,
     pub publisher: String,

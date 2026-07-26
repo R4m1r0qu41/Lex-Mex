@@ -17,6 +17,7 @@
   "objective": null,
   "scope": null,
   "conformity_assessment": null,
+  "source_url": "https://example.test/source.pdf",
   "official_dof_url": "https://example.test/dof/nom-999",
   "official_registry_url": null,
   "publisher": "Fixture",

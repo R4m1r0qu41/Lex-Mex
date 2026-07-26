@@ -303,6 +303,7 @@ mod tests {
             objective: None,
             scope: None,
             conformity_assessment: None,
+            source_url: "https://example.test/source.pdf".parse().unwrap(),
             official_dof_url: "https://example.test/dof".parse().unwrap(),
             official_registry_url: None,
             publisher: "Fixture".to_owned(),

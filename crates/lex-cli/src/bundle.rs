@@ -611,6 +611,7 @@ mod tests {
             objective: None,
             scope: None,
             conformity_assessment: None,
+            source_url: Url::parse("https://example.test/source.pdf").unwrap(),
             official_dof_url: Url::parse("https://example.test/dof").unwrap(),
             official_registry_url: Some(Url::parse("https://example.test/registry").unwrap()),
             publisher: "Fixture".to_owned(),

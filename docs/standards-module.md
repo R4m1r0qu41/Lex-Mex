@@ -11,8 +11,9 @@ official publisher adapter establishes stable acquisition rules.
 A compiled standard directory contains:
 
 - `standard.json`: designation, kind, issuers, domains, legal dates,
-  current/cancelled/replaced status, replacement chain, official DOF and
-  registry locators, hashes, and separate legal/technical review states;
+  current/cancelled/replaced status, replacement chain, the exact official
+  source-file locator, official DOF and registry locators, hashes, and
+  separate legal/technical review states;
 - `clauses.json`: dot-numbered clauses with exact character spans into the
   unchanged extracted source text;
 - `extracted-text.txt`: the exact UTF-8 text used to compile and revalidate

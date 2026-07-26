@@ -19,6 +19,7 @@
     "objective",
     "scope",
     "conformity_assessment",
+    "source_url",
     "official_dof_url",
     "official_registry_url",
     "publisher",
@@ -85,6 +86,7 @@
     "objective": { "type": ["string", "null"] },
     "scope": { "type": ["string", "null"] },
     "conformity_assessment": { "type": ["string", "null"] },
+    "source_url": { "type": "string", "format": "uri" },
     "official_dof_url": { "type": "string", "format": "uri" },
     "official_registry_url": {
       "oneOf": [
