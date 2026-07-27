@@ -1,5 +1,40 @@
 # Architecture decisions
 
+## 2026-07-27 — Scope 2 staged, not started; Maximasa NOM slice closed for now
+
+Decision: land Scope 1 (below), then explicitly stage Scope 2 (the
+decree-diff engine) as recorded future scope under M4 in
+`docs/plans/maximasa-legal-integration.md` rather than beginning it in the
+same session. Operator instruction: finish the current Maximasa NOM
+ingestion/processing slice first; plan Scope 2 separately later.
+
+Closing this slice required two things beyond Scope 1's own code:
+
+1. `docs/project-status.md` and `docs/standards-module.md` gaps a review
+   pass caught before Scope 1 could be called done: the new
+   `transitories.json` artifact class wasn't reflected in the corpus
+   totals table, and two facts needed verification rather than assumption
+   — that standards' lack of a Markdown export profile genuinely leaves
+   `Generated Markdown files` unaffected, and that NOM-002-STPS's
+   `2000-09-08` asserted date is a verified predecessor-publication
+   citation in the transitorio's own text, not another signature-block
+   leak like the one just fixed in NOM-051.
+2. A second mechanical bundle refresh in Maximasa: `transitories.json`
+   becoming a required `bundle create` output file changed the five-NOM
+   bundle from 4 files/standard (20 total) to 5 (25 total). Regenerated
+   `nom-bundle-manifest.json` at Lex-Mex `a3a48296f`, reran
+   `build_demo_data.py`, and updated Maximasa's hardcoded bundle-lock test
+   expectations (`selected_files_checked` 20→25, new sha256) — all 14
+   Maximasa tests pass with every locked file verified against the live
+   corpus. No NOM was rechecked against its official source; this is the
+   same standing mechanical-only refresh authorized 2026-07-26 ("update
+   HEAD and hashes, but do not recheck the NOMs"), triggered by a new
+   required file rather than new corpus content. Also added the now-
+   machine-visible NOM-051 transitorio-staleness fact (see Scope 1's
+   finding below) to `nom-candidate-package.yaml` and `OPEN_QUESTIONS.md`
+   O-7, since it was flagged pending and this refresh was the natural
+   point to fold it in.
+
 ## 2026-07-27 — Standards transitorio inspection (Scope 1)
 
 Operator-scoped, bounded implementation: two sub-scopes were carved out of

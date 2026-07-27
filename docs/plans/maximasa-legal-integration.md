@@ -246,6 +246,29 @@ analysis, not missing federal sanitary text.
   current text as of its date, not a selective one. Treat these two flags
   as an assumption pending confirmation, not an independently verified
   fact.
+- [x] (2026-07-27) Landed Scope 1 (standards transitorio inspection):
+  `StandardTransitory` type, parser, validator, CLI/bundle wiring, schema,
+  and doc updates at `6c7015644`/`bc3ecf906`/`4e0794480`, with three real
+  parser defects found and fixed against NOM-051's actual retained text and
+  a 10-block backfill across all five committed NOMs (zero clause-count
+  regression). Full detail in `docs/decisions.md` 2026-07-27 and
+  `docs/standards-module.md`'s "Standards transitorio inspection" section.
+- [x] (2026-07-27) Mechanically refreshed the Maximasa five-NOM bundle again
+  to pick up `transitories.json` becoming a required canonical bundle file
+  (4→5 files per standard, 20→25 total): regenerated
+  `nom-bundle-manifest.json` via `lex-mex bundle create` at Lex-Mex
+  `a3a48296f`, reran Maximasa's `build_demo_data.py`, updated the hardcoded
+  bundle-lock test expectations (`selected_files_checked` 20→25, new
+  sha256), and confirmed all 14 Maximasa tests pass with every locked file
+  verified against the live corpus. No NOM was rechecked against its
+  official source — this was the standing mechanical-only refresh per
+  operator instruction. Also added a note to
+  `nom-candidate-package.yaml`/`OPEN_QUESTIONS.md` O-7 recording NOM-051's
+  now-machine-visible stale transitorio phase date (2025-10-01 vs.
+  2028-01-01).
+- [x] (2026-07-27) Staged Scope 2 (decree-diff engine) as recorded future
+  scope under M4 rather than starting it; the Maximasa NOM ingestion and
+  processing slice is closed for now pending further operator direction.
 
 ## Decisions and discoveries
 
@@ -399,7 +422,24 @@ DOF sources, and compile locally through the Rust pipeline once established
 lightweight rather than a large automation effort; (2) the platiica catalog
 record for a NOM also names the parent law(s)/regulation(s) it derives from,
 useful for backlinking and establishing competent authorities for audits and
-compliance — not yet modeled in `StandardMetadata`.
+compliance — not yet modeled in `StandardMetadata`; (3) **Scope 2 — decree-
+diff engine**, staged 2026-07-27, not started. Standards transitorio
+inspection ("Scope 1," `docs/decisions.md` 2026-07-27) landed first and is
+closed: `StandardTransitory` blocks with span-addressable text and a
+regex-scanned `asserted_dates` field, reusing the statute ordinal
+recognizer, deliberately not a structural parse. Scope 2 is the harder
+follow-on: parse a MODIFICACIÓN/ACUERDO decree's own ellipsis-diff
+("unchanged span ... replacement in full") into a deterministic
+substitution, apply it to a target clause or transitorio already in the
+corpus, and track ACUERDO supersession chains (e.g. NOM-051's two 2025
+ACUERDOs moving `transitory:segundo`'s phase date from 2025-10-01 to
+2028-01-01 — currently machine-visible as stale via `asserted_dates` but
+not resolved). It needs a new `derived_consolidation` text-basis variant
+distinct from `as_published`/`official_compilation`, and a retained-text
+strategy for derogation-caused span shifts. Not scoped in code; do not
+start without a fresh planning pass and operator sign-off on the trusted-
+boundary shape first — this is exactly the kind of schema/parser/validator/
+fixture change M4 requires landing together.
 
 ### M5 — Maximasa return handoff
 
@@ -431,17 +471,21 @@ defect, and ingested instrument. Stop on:
 ## Next action
 
 Resume the independent federal cluster-2 sequence at AD2 by normalizing its
-prepared inventory and provisionally ingesting `lspm`. The Maximasa standards
-modification slice is closed for now: NOM-051 is re-sourced and
-zero-warning; NOM-247 has no viable official consolidated text and is left
-as correctly unconsolidated. Any further work on NOM-247, the flagged NOM
+prepared inventory and provisionally ingesting `lspm`. The Maximasa NOM
+ingestion and processing slice is closed for now: NOM-051 is re-sourced and
+zero-warning, transitorio inspection (Scope 1) is landed and backfilled
+across all five standards, and the Maximasa bundle/candidate-package/test
+lock are all refreshed and passing against the current Lex-Mex HEAD.
+NOM-247 has no viable official consolidated text and is left as correctly
+unconsolidated. Scope 2 (decree-diff engine) is staged as recorded future
+scope, not started. Any further work on NOM-247, Scope 2, the flagged NOM
 consolidation workflow, or parent-law/regulation backlinking waits on
 operator direction rather than proceeding unprompted.
 
-The five-NOM bundle already returned to Maximasa at `0761ee1` now pins the
-superseded NOM-051 source/extracted-text/validation digests and clause
-count; that handoff is stale for NOM-051 until a re-return is authorized.
-Not regenerated here because it was outside this action's approved scope.
+The five-NOM bundle returned to Maximasa is current as of Lex-Mex
+`a3a48296f` (mechanically refreshed 2026-07-27 to pick up the new
+`transitories.json` canonical file); Maximasa's 14-test suite passes with
+every locked file verified against the live corpus.
 
 ## Outcomes and retrospective
 
@@ -462,3 +506,14 @@ and NOM-251 remain zero-warning canonical candidate sources; NOM-002-STPS is
 unaffected. Remaining work is human/fact gated, the operator-flagged NOM
 consolidation workflow and parent-law backlinking (not yet scoped), or the
 independent cluster-2 ingestion plan.
+
+Standards transitorio inspection (Scope 1) followed, adding addressable
+`StandardTransitory` blocks and a narrow `asserted_dates` scan for all five
+standards without attempting a structural parse of transitorio content.
+It made one fact machine-visible that clause-level validation cannot see:
+NOM-051's transitorio SEGUNDO still asserts its original 2020 phase date
+even though two later ACUERDOs moved it — text currency and transitorio-
+date currency are separate claims. Closing that gap is Scope 2 (the
+decree-diff engine), staged as future scope rather than started. The
+Maximasa bundle/candidate-package/test lock were refreshed mechanically to
+match, closing the Maximasa NOM ingestion and processing slice for now.
