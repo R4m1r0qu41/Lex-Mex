@@ -1,0 +1,41 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO.- La presente Norma Oficial Mexicana entrará en vigor a los seis meses siguientes a su\npublicación en el Diario Oficial de la Federación.\n   Los centros de trabajo con riesgo de incendio alto, deberán contar con cualquiera de los documentos a\nque se refiere el numeral 5.11 de la presente Norma, a partir del primero de enero de dos mil catorce.",
+    "start_char": 122480,
+    "end_char": 122833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO.- Durante el periodo señalado en el artículo anterior, los patrones cumplirán con lo establecido\nen la NOM-002-STPS-2000, Condiciones de seguridad-Prevención, protección y combate de incendios en los\ncentros de trabajo, o bien realizarán las adaptaciones para observar las disposiciones de la presente Norma\nOficial Mexicana y, en este último caso, las autoridades del trabajo proporcionarán, a petición de los patrones\ninteresados, asesoría y orientación para instrumentar su cumplimiento, sin que se hagan acreedores a\nsanciones por el incumplimiento de la Norma en vigor.",
+    "start_char": 122838,
+    "end_char": 123420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "ordinal": "TERCERO",
+    "text": "TERCERO.- A partir de la fecha en que entre en vigor la presente Norma Oficial Mexicana, quedará sin\nefectos la NOM-002-STPS-2000, Condiciones de seguridad-Prevención, protección y combate de incendios\nen los centros de trabajo, publicada en el Diario Oficial de la Federación de 8 de septiembre de 2000.",
+    "start_char": 123425,
+    "end_char": 123729,
+    "asserted_dates": [
+      "2000-09-08"
+    ]
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-stps-2010:transitory:cuarto",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
+    "ordinal": "CUARTO",
+    "text": "CUARTO.- La Secretaría del Trabajo y Previsión Social, por conducto de la Dirección General de\nSeguridad y Salud en el Trabajo, promoverá las acciones de coordinación necesarias, a efecto de que la\nautoridad local de protección civil utilice el procedimiento para la evaluación de la conformidad de la presente\nNorma, en el ejercicio de sus facultades de supervisión de las condiciones para la prevención y protección\ncontra incendios en los centros de trabajo, en el marco de los programas internos, específicos o especiales de\nprotección civil.\n    De igual forma, promoverá las acciones de coordinación conducentes para que las actas y minutas\ncorrespondientes a la verificación satisfactoria del cumplimiento de la presente Norma que emita la Secretaría\ndel Trabajo y Previsión Social, en el marco de las evaluaciones integrales del Programa de Autogestión en\nSeguridad y Salud en el Trabajo, así como los dictámenes de cumplimiento de la misma, expedidos por\nunidades de verificación acreditadas y aprobadas, sean reconocidos por parte de la autoridad local de\nprotección civil, para acreditar el cumplimiento de las disposiciones de prevención y protección contra\nincendios en los centros de trabajo, en el marco de los programas internos, específicos o especiales de\nprotección civil.",
+    "start_char": 123734,
+    "end_char": 125025
+  }
+]
