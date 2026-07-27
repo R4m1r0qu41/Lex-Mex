@@ -146,6 +146,26 @@ staleness checkable rather than invisible. Closing it (applying an
 ACUERDO's own stated date substitution to a transitorio) is Scope 2, the
 decree-diff engine, not yet built.
 
+Not every `asserted_date` belongs to the standard itself: NOM-002-STPS-2010's
+`transitory:tercero` asserts `2000-09-08`, which is its predecessor
+NOM-002-STPS-2000's own DOF publication date, stated verbatim in the
+derogation clause ("quedará sin efectos la NOM-002-STPS-2000 ... publicada
+... de 8 de septiembre de 2000") — correct extraction, not contamination,
+but a reminder that `asserted_dates` records every date phrase found, not
+only ones about this standard's own timing.
+
+**Known boundary, not yet hit:** the ordinal recognizer accepts `ÚNICO`/
+`ÚNICA` and any statute-style ordinal, and `validate_transitories`
+deliberately does not check ordering or sequence gaps (unlike clause
+validation). A retained text whose TRANSITORIOS section restarts — e.g. a
+later decree's own transitorios concatenated after the base standard's,
+producing `PRIMERO ... SEGUNDO ... PRIMERO ...` — will currently surface as
+a `standard_transitory_duplicate` validation error rather than being split
+into separate decree-scoped groups. None of the five committed standards
+hit this today; it is the first failure mode Scope 2 (decree-diff engine)
+will need to resolve, since that is exactly the shape a retained text
+gains once a modifying decree's transitorios are appended.
+
 ## Deliberate limits
 
 - No Maximasa NOM/NMX register entry is promoted merely because its

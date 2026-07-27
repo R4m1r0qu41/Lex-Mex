@@ -1,6 +1,6 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-07-26
+- **Status date:** 2026-07-27
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
 - **Committed instruments:** 156 (151 federal corpus instruments plus 5 NOMs)
 - **Active ingestion batch:** `administration_ad2_public_service_mobility`
@@ -28,6 +28,7 @@ Current committed-corpus totals:
 | Original transitory provisions | 1,240 |
 | Annexes | 29 |
 | Standard clauses | 1,162 |
+| Standard transitory provisions | 10 |
 | Reference edges | 17,173 |
 | Unresolved reference edges | 0 |
 | Generated Markdown files | 34,651 |
@@ -72,6 +73,15 @@ refreshed from the official 2020-03-27 DOF publication, which is a full
 restatement of the standard rather than a targeted amendment; it now carries
 zero unconsolidated-modification warnings. NOM-187's 2023 record is a
 systematic review with result `Modificación`, not a succession event.
+
+All five NOMs were backfilled with `transitories.json` (10 addressable
+transitorio blocks total: 6 for NOM-051, 4 for NOM-002-STPS; NOM-251,
+NOM-247, and NOM-187 have none — their retained as-published texts never
+reach a transitorios section). This is a lightweight span-and-date
+inspection, not a structural parse; see "Standards transitorio inspection"
+in `docs/standards-module.md`. Standards have no Markdown export profile
+(`collect_standard` bails on `CanonicalMarkdown`), so `Generated Markdown
+files` above is unaffected by this addition.
 
 The active plan is
 [`cluster-2-federal-corpus-ingestion.md`](plans/cluster-2-federal-corpus-ingestion.md).
