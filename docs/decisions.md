@@ -1,5 +1,53 @@
 # Architecture decisions
 
+## 2026-07-27 — Standards transitorio inspection (Scope 1)
+
+Operator-scoped, bounded implementation: two sub-scopes were carved out of
+the transitorio/decree-diff idea flagged 2026-07-26 (see below) — "Scope 1"
+(transitorio inspection, lightweight, this entry) and "Scope 2" (the
+decree-diff engine, not started). Explicitly *not* a full structural parse
+of transitorio content: some standards' or statutes' transitorios are long
+and complex (heavily amended instruments especially), and the goal was
+addressability plus date-scanning, not understanding everything a
+transitorio says.
+
+`StandardTransitory` (`lex-core`), `parse_standard_transitories`
+(`lex-parse/standard.rs`), and `transitories.json` (new committed file per
+standard, required by `bundle create`, addressable via
+`lex-mex path --kind transitories`) landed together with
+`schemas/standard-transitory.schema.json`. The ordinal recognizer
+(`transitory_ordinals`, `parse_transitory_start`) is not new code: it
+already existed in `diputados.rs` for statute transitories and was made
+`pub(crate)` for reuse rather than reimplemented — the "always serialized"
+peculiarity the operator named was already solved there.
+
+Backfilled `transitories.json` for all five already-committed NOMs by
+recompiling from their already-retained source/text (no new official-source
+research); all five reparsed with clause counts and issue counts
+byte-identical to their committed state before this landed.
+
+Three parser defects surfaced compiling this against NOM-051's real
+retained text (fixtures added for each, see `docs/standards-module.md`
+"Standards transitorio inspection" for detail): the índice's repeated
+TRANSITORIOS heading matched first instead of the real section (same
+class of bug as the Bibliografía heading fix, 2026-07-26); an untrimmed
+line with leading indentation was passed to the ordinal recognizer, which
+requires the ordinal at position 0; and the signature-block marker didn't
+recognize the post-2016 "Ciudad de México, a ..." dateline (only the
+pre-CDMX-renaming "México, D.F., a ..." form), letting a decree's closing
+signature and its own sign-off date bleed into the last transitorio's
+text and asserted dates.
+
+**Finding:** NOM-051's `transitory:segundo` still asserts the original
+2020 decree's `2025-10-01` phase-three date. Two 2025 ACUERDOs (see the
+2026-07-26 entry) pushed the real date to `2028-01-01`; neither is part of
+the retained source, and nothing before this landed could represent or
+surface that staleness at all. This doesn't close the gap — reading the
+current true date still requires knowing about both ACUERDOs — but it
+makes the staleness checkable against the retained text for the first
+time, and is the addressable prerequisite Scope 2 needs ("replace
+transitorio SEGUNDO's date" requires SEGUNDO to be an addressable object).
+
 ## 2026-07-26 — How to read a platiica/DOF NOM record, for every future ingestion
 
 Operator-supplied methodology (verified against NOM-051-SCFI/SSA1-2010's

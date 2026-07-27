@@ -18,6 +18,9 @@ A compiled standard directory contains:
   states;
 - `clauses.json`: dot-numbered clauses with exact character spans into the
   unchanged extracted source text;
+- `transitories.json`: ordinal-labeled blocks from the TRANSITORIOS section
+  (`PRIMERO`, `SEGUNDO`, ...), addressable by exact span but deliberately
+  not deeply parsed — see "Standards transitorio inspection" below;
 - `extracted-text.txt`: the exact UTF-8 text used to compile and revalidate
   clause spans, retained so committed standards do not depend on an untracked
   work file;
@@ -26,7 +29,8 @@ A compiled standard directory contains:
 
 The external contracts are
 `schemas/standard-metadata.schema.json`,
-`schemas/standard-clause.schema.json`, and
+`schemas/standard-clause.schema.json`,
+`schemas/standard-transitory.schema.json`, and
 `schemas/standard-validation.schema.json`. Standard metadata never self-awards
 `lawyer_verified` or `technical_verified`; those values record actual reviewed
 state supplied through an audited future workflow.
@@ -61,8 +65,8 @@ lex-mex standards validate nom-251-ssa1-2009
 
 Committed standards are returned by `lex-mex instruments`, accepted by
 `lex-mex path` and `lex-mex search`, and supported by the canonical bundle
-profile. Use `--kind standard` or `--kind clauses` when requesting a specific
-standards path.
+profile. Use `--kind standard`, `--kind clauses`, or `--kind transitories`
+when requesting a specific standards path.
 
 ## Reading an official-source record before ingesting
 
@@ -96,20 +100,51 @@ transitorio provision already represented in the corpus).
 chain (worth backlinking once the target is committed) and non-normative
 entries (ISO guides, academic citations) that are not.
 
-## Known gap: transitorios have no structured representation
+## Standards transitorio inspection
 
-`StandardClause` parsing stops at the `TRANSITORIOS` marker (or an
-`APÉNDICE`/`ANEXO` heading first); transitorio text is retained in
-`extracted-text.txt` but is not a clause, has no ID, and is not queryable.
-`StandardModificationSource` has no notion of one ACUERDO superseding
-another, or of a phase/transitorio's effective date changing independent
-of clause text. Found while attempting a NOM-051 pass under the reading
-procedure above: two 2025 ACUERDOs push its 2020 modification's final
-implementation phase from 2025-10-01 to 2028-01-01, and neither is
-represented anywhere in the committed corpus or its
-`standard_unconsolidated_modification` warning — the zero-warning state
-is correct for clause *text* but says nothing about transitorio currency.
-Not yet resolved; a schema/parser design is needed before it can be.
+`parse_standard_transitories` (in `crates/lex-parse/src/standard.rs`) turns
+a standard's TRANSITORIOS section into addressable `StandardTransitory`
+blocks (mirroring statutes' `ProvisionType::Transitory`, reusing the same
+ordinal recognizer from `diputados.rs` — masculine/feminine forms,
+`Artículo Primero`-prefixed forms, joined compounds). This is deliberately
+lightweight, not a structural parse: each block's internal content (phased
+criteria, tables, cross-references) stays as opaque retained text. The one
+thing extracted from it is `asserted_dates` — every "N de MES de AAAA"
+phrase found in the block's raw text, in order, via a plain regex scan. An
+`asserted_date` is not a claim about what the date means (entry into
+force, phase boundary, deadline, ...); reading the surrounding text is
+still required for that.
+
+Absence is not an error: a standard whose retained text has no
+recognizable TRANSITORIOS section yields an empty `transitories.json`
+(true for NOM-251, NOM-247, and NOM-187 — their retained as-published PDFs
+end at appendices/annexes without ever reaching a transitorios section).
+
+Three defects surfaced compiling this against NOM-051's real retained
+text, all fixed with regression fixtures (`fixtures/standards/
+indexed-transitorios-sample.txt`, `cdmx-signature-sample.txt`,
+`transitorios-with-dates-sample.txt`): the índice repeats the TRANSITORIOS
+heading before the real section (the same false-first-match hazard as the
+Bibliografía heading for clauses — fixed by scanning candidates from the
+last occurrence and requiring an actual ordinal start to follow); the
+line-matching regex was passing an untrimmed line (with its leading
+indentation) to the ordinal recognizer, which never matches with
+leading whitespace present; and the signature-block marker recognized
+only the pre-2016 "México, D.F., a ..." dateline, not the post-CDMX-
+renaming "Ciudad de México, a ..." form, letting a decree's closing
+signature (and its own sign-off date) bleed into the last transitorio.
+
+**Concrete finding, now machine-visible for the first time:** NOM-051's
+`transitory:segundo` still asserts `2025-10-01` as its third
+implementation-phase start date — the original 2020 decree's own text,
+retained unchanged. Two 2025 ACUERDOs (not part of the retained source;
+see `docs/decisions.md` 2026-07-26) since pushed that date to `2028-01-01`.
+Zero `standard_unconsolidated_modification` warnings is correct for clause
+*text* currency; it says nothing about transitorio-date currency, and
+transitorio inspection does not yet close that gap — it only makes the
+staleness checkable rather than invisible. Closing it (applying an
+ACUERDO's own stated date substitution to a transitorio) is Scope 2, the
+decree-diff engine, not yet built.
 
 ## Deliberate limits
 
