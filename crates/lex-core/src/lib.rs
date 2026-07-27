@@ -128,6 +128,28 @@ pub struct StandardClause {
     pub end_char: usize,
 }
 
+/// One ordinal-labeled transitory provision from a standard's TRANSITORIOS
+/// section, addressable but deliberately not deeply parsed: a standard's
+/// transitorios can be long and structurally complex (phased criteria,
+/// tables, cross-references), and this stays a lightweight inspection
+/// rather than a full clause-style structural parse of that complexity.
+/// `asserted_dates` is a raw scan of the retained text for "N de MES de
+/// AAAA" phrases, in order of appearance -- not a claim about what each
+/// date means (entry into force, phase boundary, deadline, ...); that
+/// requires reading the surrounding text.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct StandardTransitory {
+    pub schema_version: String,
+    pub id: String,
+    pub standard_id: String,
+    pub ordinal: String,
+    pub text: String,
+    pub start_char: usize,
+    pub end_char: usize,
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub asserted_dates: Vec<NaiveDate>,
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct StandardValidationReport {
     pub schema_version: String,

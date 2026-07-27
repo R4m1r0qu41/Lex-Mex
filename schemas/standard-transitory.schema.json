@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lex-mex.example/schemas/standard-transitory.schema.json",
+  "title": "Lex-Mex NOM/NMX transitory provision",
+  "description": "An ordinal-labeled block from a standard's TRANSITORIOS section. Deliberately lightweight: addressable by ordinal and exact span, with any 'N de MES de AAAA' date phrases found in its text recorded verbatim -- not a structural parse of its internal content (phased criteria, tables, cross-references stay as retained text).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "standard_id",
+    "ordinal",
+    "text",
+    "start_char",
+    "end_char"
+  ],
+  "properties": {
+    "schema_version": { "const": "0.1.0" },
+    "id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:federal:(nom|nmx):[a-z0-9-]+:transitory:[a-z0-9-]+$"
+    },
+    "standard_id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:federal:(nom|nmx):[a-z0-9-]+$"
+    },
+    "ordinal": { "type": "string", "minLength": 1 },
+    "text": { "type": "string", "minLength": 1 },
+    "start_char": { "type": "integer", "minimum": 0 },
+    "end_char": { "type": "integer", "minimum": 1 },
+    "asserted_dates": {
+      "type": "array",
+      "items": { "type": "string", "format": "date" },
+      "default": []
+    }
+  }
+}

@@ -5,8 +5,8 @@ use std::{
 
 use anyhow::{Context, Result, bail};
 use clap::Subcommand;
-use lex_core::{StandardClause, StandardMetadata};
-use lex_parse::{parse_standard_clauses, validate_standard};
+use lex_core::{StandardClause, StandardMetadata, StandardTransitory};
+use lex_parse::{parse_standard_clauses, parse_standard_transitories, validate_standard};
 use lex_source::sha256_hex;
 
 #[derive(Debug, Subcommand)]
@@ -83,17 +83,20 @@ fn compile_standard(
     }
     let text = String::from_utf8(text_bytes).context("extracted standard text is not UTF-8")?;
     let clauses = parse_standard_clauses(&text, &metadata)?;
-    let report = validate_standard(&metadata, &clauses, &text);
+    let transitories = parse_standard_transitories(&text, &metadata)?;
+    let report = validate_standard(&metadata, &clauses, &transitories, &text);
 
     fs::create_dir_all(output)?;
     write_json(&metadata, &output.join("standard.json"))?;
     write_json(&clauses, &output.join("clauses.json"))?;
+    write_json(&transitories, &output.join("transitories.json"))?;
     write_json(&report, &output.join("validation.json"))?;
     fs::write(output.join("extracted-text.txt"), text.as_bytes())?;
     println!(
-        "standard validation: {}; {} clauses, {} issues",
+        "standard validation: {}; {} clauses, {} transitories, {} issues",
         if report.valid { "valid" } else { "invalid" },
         report.clause_count,
+        transitories.len(),
         report.issues.len()
     );
     if !report.valid {
@@ -116,6 +119,7 @@ fn validate_committed_standard(root: &Path, slug: &str) -> Result<()> {
     let corpus = root.join("corpus/mx").join(slug);
     let metadata: StandardMetadata = read_json(&corpus.join("standard.json"))?;
     let clauses: Vec<StandardClause> = read_json(&corpus.join("clauses.json"))?;
+    let transitories: Vec<StandardTransitory> = read_json(&corpus.join("transitories.json"))?;
     let text_bytes = fs::read(corpus.join("extracted-text.txt"))
         .with_context(|| format!("failed to read retained text for standard {slug}"))?;
     if sha256_hex(&text_bytes) != metadata.extracted_text_sha256 {
@@ -127,11 +131,16 @@ fn validate_committed_standard(root: &Path, slug: &str) -> Result<()> {
     if serde_json::to_value(&reparsed)? != serde_json::to_value(&clauses)? {
         bail!("committed standard clauses are stale for the current parser");
     }
-    let report = validate_standard(&metadata, &clauses, &text);
+    let reparsed_transitories = parse_standard_transitories(&text, &metadata)?;
+    if serde_json::to_value(&reparsed_transitories)? != serde_json::to_value(&transitories)? {
+        bail!("committed standard transitories are stale for the current parser");
+    }
+    let report = validate_standard(&metadata, &clauses, &transitories, &text);
     println!(
-        "standard validation: {}; {} clauses, {} issues",
+        "standard validation: {}; {} clauses, {} transitories, {} issues",
         if report.valid { "valid" } else { "invalid" },
         report.clause_count,
+        transitories.len(),
         report.issues.len()
     );
     if !report.valid {

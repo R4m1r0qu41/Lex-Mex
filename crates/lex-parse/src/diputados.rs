@@ -50,7 +50,7 @@ pub struct DiputadosDocument {
 /// prefix matching never truncates a compound (`DÉCIMA PRIMERA` before
 /// `DÉCIMA`). Includes accentless variants because older códigos print
 /// `DECIMO` without the accent.
-fn transitory_ordinals() -> Vec<String> {
+pub(crate) fn transitory_ordinals() -> Vec<String> {
     let units_m = [
         "PRIMERO", "SEGUNDO", "TERCERO", "CUARTO", "QUINTO", "SEXTO", "SÉPTIMO", "SEPTIMO",
         "OCTAVO", "NOVENO",
@@ -127,7 +127,7 @@ fn strip_prefix_ci<'a>(haystack: &'a str, needle: &str) -> Option<(&'a str, &'a 
 /// article-prefixed form many códigos use (`Artículo Primero.- body`),
 /// matching the ordinal case-insensitively. Returns the ordinal exactly
 /// as written and the body.
-fn parse_transitory_start<'a>(
+pub(crate) fn parse_transitory_start<'a>(
     block: &'a str,
     ordinals: &'a [String],
 ) -> Option<(&'a str, &'a str)> {

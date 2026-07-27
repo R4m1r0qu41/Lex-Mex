@@ -3,9 +3,14 @@ use std::collections::HashSet;
 use anyhow::{Result, bail};
 use lex_core::{
     SCHEMA_VERSION, Severity, StandardClause, StandardKind, StandardMetadata, StandardStatus,
-    StandardTextBasis, StandardValidationReport, ValidationIssue,
+    StandardTextBasis, StandardTransitory, StandardValidationReport, ValidationIssue,
 };
 use regex::Regex;
+
+use crate::{
+    diputados::{parse_transitory_start, transitory_ordinals},
+    slug, spanish_date,
+};
 
 /// Parse the numbered body of a NOM/NMX without treating its clauses as
 /// statute articles. Character offsets address the unchanged extracted text.
@@ -78,10 +83,113 @@ pub fn parse_standard_clauses(
     Ok(clauses)
 }
 
+/// Parse a standard's TRANSITORIOS section into addressable, ordinal-labeled
+/// blocks without attempting to understand their internal structure.
+/// Deliberately lightweight: some standards' transitorios are long and
+/// structurally complex (phased criteria, tables, cross-references), and a
+/// full clause-style structural parse of that would risk exactly the
+/// runaway complexity this stays clear of. Each block's raw text is scanned
+/// for "N de MES de AAAA" date phrases; those are recorded as
+/// `asserted_dates` without any claim about what they mean (entry into
+/// force, phase boundary, deadline, ...) -- reading the surrounding text is
+/// still required for that. Returns an empty vector for a standard with no
+/// recognizable TRANSITORIOS section, which is not an error: absence is
+/// reported by the caller if it matters.
+pub fn parse_standard_transitories(
+    source_text: &str,
+    metadata: &StandardMetadata,
+) -> Result<Vec<StandardTransitory>> {
+    let heading_marker =
+        Regex::new(r"(?mi)^[ \t]*(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b.*\r?$")?;
+    let ordinals = transitory_ordinals();
+    let line_start = Regex::new(r"(?m)^[ \t]*(\S.*)$")?;
+    // A standard's índice repeats every section heading, including
+    // TRANSITORIOS, before the real body -- the same false-first-match
+    // hazard the bibliography heading has. Try candidates from the last
+    // occurrence backwards and take the first one whose section actually
+    // contains a recognized ordinal start; an índice mention never does,
+    // since it is a bare heading with no transitory text following it.
+    let mut heading_ends = heading_marker
+        .find_iter(source_text)
+        .map(|found| found.end())
+        .collect::<Vec<_>>();
+    heading_ends.reverse();
+    let Some((section, section_offset)) = heading_ends.into_iter().find_map(|heading_end| {
+        let section_end = section_end_marker(source_text, heading_end);
+        let candidate = &source_text[heading_end..section_end];
+        line_start
+            .captures_iter(candidate)
+            .any(|captures| parse_transitory_start(&captures[1], &ordinals).is_some())
+            .then_some((candidate, heading_end))
+    }) else {
+        return Ok(Vec::new());
+    };
+
+    let starts = line_start
+        .captures_iter(section)
+        .filter_map(|captures| {
+            let line = captures.get(1).expect("group 1 always matches with the line");
+            parse_transitory_start(line.as_str(), &ordinals)
+                .map(|(ordinal, _)| (line.start(), ordinal.to_owned()))
+        })
+        .collect::<Vec<_>>();
+
+    // `\s+` (not `[ \t]+`) between tokens: `pdftotext -layout` output wraps
+    // long lines, and a date phrase can fall across that wrap (".. el 1 de
+    // octubre\nde 2023." is a real occurrence, not a contrived one).
+    let date_phrase =
+        Regex::new(r"(?i)(\d{1,2})[oº]?\s+de\s+([a-zá-úñ]+)\s+de\s+(\d{4})")?;
+    let mut transitories = Vec::with_capacity(starts.len());
+    for (index, (start, ordinal)) in starts.iter().enumerate() {
+        let natural_end = starts.get(index + 1).map_or(section.len(), |next| next.0);
+        let (trimmed_start, trimmed_end) = trim_span(section, *start, natural_end);
+        let text = section[trimmed_start..trimmed_end].to_owned();
+        let asserted_dates = date_phrase
+            .captures_iter(&text)
+            .filter_map(|captures| {
+                spanish_date(&captures[1], &captures[2].to_lowercase(), &captures[3])
+            })
+            .collect();
+        let absolute_start = section_offset + trimmed_start;
+        let absolute_end = section_offset + trimmed_end;
+        transitories.push(StandardTransitory {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: format!("{}:transitory:{}", metadata.id, slug(ordinal)),
+            standard_id: metadata.id.clone(),
+            ordinal: ordinal.clone(),
+            text,
+            start_char: source_text[..absolute_start].chars().count(),
+            end_char: source_text[..absolute_end].chars().count(),
+            asserted_dates,
+        });
+    }
+    Ok(transitories)
+}
+
+/// A closing dateline ("México, D.F., a ..." pre-2016; "Ciudad de México, a
+/// ..." after the Distrito Federal/CDMX renaming) or a `SUFRAGIO EFECTIVO`
+/// line, either of which opens a decree's signature block.
+const SIGNATURE_MARKERS: &str =
+    r"SUFRAGIO[ \t]+EFECTIVO\b|(?:CIUDAD[ \t]+DE[ \t]+)?M[ÉE]XICO,[ \t]+(?:D\.?[ \t]*F\.?,[ \t]+)?A\b";
+
+/// End of a section that opened at `TRANSITORIOS`-marker byte offset
+/// `section_start`: the next `APÉNDICE`/`ANEXO`/signature marker, or the
+/// rest of the text if none follows (the common case -- transitorios are
+/// ordinarily a standard's last section).
+fn section_end_marker(source_text: &str, section_start: usize) -> usize {
+    let markers = Regex::new(&format!(
+        r"(?mi)^[ \t]*(?:{SIGNATURE_MARKERS}|AP[ÉE]NDICE\b|ANEXO\b)"
+    ))
+    .expect("standard section end-marker regex must compile");
+    markers
+        .find(&source_text[section_start..])
+        .map_or(source_text.len(), |marker| section_start + marker.start())
+}
+
 fn standard_clause_end(source_text: &str, clause_start: usize, natural_end: usize) -> usize {
-    let markers = Regex::new(
-        r"(?mi)^[ \t]*(?:SUFRAGIO[ \t]+EFECTIVO\b|M[ÉE]XICO,[ \t]+D\.?[ \t]*F\.?,[ \t]+A\b|(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b|AP[ÉE]NDICE\b|ANEXO\b)",
-    )
+    let markers = Regex::new(&format!(
+        r"(?mi)^[ \t]*(?:{SIGNATURE_MARKERS}|(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b|AP[ÉE]NDICE\b|ANEXO\b)"
+    ))
     .expect("standard end-marker regex must compile");
     markers
         .find(&source_text[clause_start..natural_end])
@@ -151,11 +259,13 @@ fn is_bibliography_heading(label: &str) -> bool {
 pub fn validate_standard(
     metadata: &StandardMetadata,
     clauses: &[StandardClause],
+    transitories: &[StandardTransitory],
     source_text: &str,
 ) -> StandardValidationReport {
     let mut issues = Vec::new();
     validate_metadata(metadata, &mut issues);
     validate_clauses(metadata, clauses, source_text, &mut issues);
+    validate_transitories(metadata, transitories, source_text, &mut issues);
     StandardValidationReport {
         schema_version: SCHEMA_VERSION.to_owned(),
         standard_id: metadata.id.clone(),
@@ -369,6 +479,58 @@ fn validate_clauses(
     }
 }
 
+/// Identity, uniqueness, and exact-span checks for transitorios. No absence
+/// or ordering check: an empty list is not itself an error (some retained
+/// texts genuinely lack a recognizable TRANSITORIOS section), and ordinal
+/// sequencing is deliberately not enforced -- this stays a lightweight
+/// inspection, not a structural parse.
+fn validate_transitories(
+    metadata: &StandardMetadata,
+    transitories: &[StandardTransitory],
+    source_text: &str,
+    issues: &mut Vec<ValidationIssue>,
+) {
+    let source_chars = source_text.chars().collect::<Vec<_>>();
+    let mut ids = HashSet::new();
+    let mut ordinals = HashSet::new();
+    for transitory in transitories {
+        if transitory.standard_id != metadata.id {
+            issues.push(error(
+                "standard_transitory_instrument",
+                "transitory points to a different standard".to_owned(),
+                Some(transitory.id.clone()),
+            ));
+        }
+        if !ids.insert(&transitory.id) || !ordinals.insert(&transitory.ordinal) {
+            issues.push(error(
+                "standard_transitory_duplicate",
+                "duplicate transitory identifier or ordinal".to_owned(),
+                Some(transitory.id.clone()),
+            ));
+        }
+        if transitory.start_char >= transitory.end_char
+            || transitory.end_char > source_chars.len()
+        {
+            issues.push(error(
+                "standard_transitory_span",
+                "transitory character span is outside the extracted text".to_owned(),
+                Some(transitory.id.clone()),
+            ));
+            continue;
+        }
+        let anchored = source_chars[transitory.start_char..transitory.end_char]
+            .iter()
+            .collect::<String>();
+        if anchored != transitory.text {
+            issues.push(error(
+                "standard_transitory_span",
+                "transitory text does not match its exact extracted-text span".to_owned(),
+                Some(transitory.id.clone()),
+            ));
+        }
+    }
+}
+
 fn clause_order(number: &str) -> Option<Vec<u32>> {
     number.split('.').map(|part| part.parse().ok()).collect()
 }
@@ -408,7 +570,7 @@ fn warning(code: &str, message: String) -> ValidationIssue {
 
 #[cfg(test)]
 mod tests {
-    use super::{parse_standard_clauses, validate_standard};
+    use super::{parse_standard_clauses, parse_standard_transitories, validate_standard};
     use chrono::{NaiveDate, Utc};
     use lex_core::{
         ReviewStatus, SCHEMA_VERSION, StandardKind, StandardMetadata, StandardModificationSource,
@@ -420,6 +582,107 @@ mod tests {
         include_str!("../../../fixtures/standards/index-and-appendix-sample.txt");
     const BIBLIOGRAPHY_CONTINUATION_SAMPLE: &str =
         include_str!("../../../fixtures/standards/bibliography-continuation-sample.txt");
+    const TRANSITORIOS_WITH_DATES_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/transitorios-with-dates-sample.txt");
+    const INDEXED_TRANSITORIOS_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/indexed-transitorios-sample.txt");
+    const CDMX_SIGNATURE_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/cdmx-signature-sample.txt");
+
+    #[test]
+    fn transitory_text_excludes_a_ciudad_de_mexico_signature_block() {
+        // The signature-block marker previously recognized only the
+        // pre-2016 "México, D.F., a ..." dateline; the modern "Ciudad de
+        // México, a ..." form (used since the Distrito Federal/CDMX
+        // renaming) fell through and bled into the last transitory's text
+        // -- found compiling NOM-051's real retained text, whose transitory
+        // SEXTO absorbed its decree's closing signature and the decree's
+        // own sign-off date as a false-positive asserted date.
+        let metadata = metadata();
+        let transitories = parse_standard_transitories(CDMX_SIGNATURE_SAMPLE, &metadata).unwrap();
+        assert_eq!(transitories.len(), 1);
+        assert!(!transitories[0].text.contains("Director General"));
+        assert!(!transitories[0].text.contains("Rúbrica"));
+        assert_eq!(
+            transitories[0].asserted_dates,
+            vec![NaiveDate::from_ymd_opt(2025, 10, 1).unwrap()]
+        );
+    }
+
+    #[test]
+    fn transitory_parsing_skips_the_index_mention_and_finds_the_real_section() {
+        let metadata = metadata();
+        // The índice repeats "ARTÍCULOS TRANSITORIOS" as a bare heading
+        // with no ordinal content directly beneath it -- the same
+        // false-first-match hazard the bibliography heading has for
+        // clauses. Reproduces the real defect found compiling NOM-051's
+        // retained text, where its índice occurrence (line 220) preceded
+        // the real section (line 1735) and was matched first.
+        let transitories = parse_standard_transitories(INDEXED_TRANSITORIOS_SAMPLE, &metadata).unwrap();
+        assert_eq!(
+            transitories
+                .iter()
+                .map(|t| t.ordinal.as_str())
+                .collect::<Vec<_>>(),
+            vec!["PRIMERO", "SEGUNDO"]
+        );
+        assert_eq!(
+            transitories[0].asserted_dates,
+            vec![NaiveDate::from_ymd_opt(2025, 10, 1).unwrap()]
+        );
+        assert!(transitories[1].asserted_dates.is_empty());
+    }
+
+    #[test]
+    fn parses_ordinal_transitories_and_scans_their_dates() {
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(TRANSITORIOS_WITH_DATES_SAMPLE, &metadata).unwrap();
+        assert_eq!(
+            clauses
+                .iter()
+                .map(|clause| clause.number.as_str())
+                .collect::<Vec<_>>(),
+            vec!["1", "2"]
+        );
+        assert!(!clauses[1].text.contains("TRANSITORIOS"));
+
+        let transitories =
+            parse_standard_transitories(TRANSITORIOS_WITH_DATES_SAMPLE, &metadata).unwrap();
+        assert_eq!(
+            transitories
+                .iter()
+                .map(|t| t.ordinal.as_str())
+                .collect::<Vec<_>>(),
+            vec!["PRIMERO", "SEGUNDO", "TERCERO"]
+        );
+        assert_eq!(
+            transitories[0].asserted_dates,
+            vec![NaiveDate::from_ymd_opt(2025, 10, 1).unwrap()]
+        );
+        assert_eq!(
+            transitories[1].asserted_dates,
+            vec![
+                NaiveDate::from_ymd_opt(2023, 9, 30).unwrap(),
+                NaiveDate::from_ymd_opt(2023, 10, 1).unwrap(),
+            ]
+        );
+        assert_eq!(
+            transitories[2].asserted_dates,
+            vec![NaiveDate::from_ymd_opt(2021, 3, 31).unwrap()]
+        );
+        assert_eq!(
+            transitories[0].id,
+            format!("{}:transitory:primero", metadata.id)
+        );
+
+        let report = validate_standard(
+            &metadata,
+            &clauses,
+            &transitories,
+            TRANSITORIOS_WITH_DATES_SAMPLE,
+        );
+        assert!(report.valid, "{:#?}", report.issues);
+    }
 
     #[test]
     fn stops_numbered_body_at_bibliography_and_articulos_transitorios() {
@@ -441,7 +704,18 @@ mod tests {
         assert!(bibliography.text.contains("Segunda referencia bibliográfica"));
         assert!(!bibliography.text.contains("TRANSITORIOS"));
         assert!(!bibliography.text.contains("ÚNICO"));
-        let report = validate_standard(&metadata, &clauses, BIBLIOGRAPHY_CONTINUATION_SAMPLE);
+        let transitories =
+            parse_standard_transitories(BIBLIOGRAPHY_CONTINUATION_SAMPLE, &metadata).unwrap();
+        assert_eq!(transitories.len(), 1);
+        assert_eq!(transitories[0].ordinal, "ÚNICO");
+        assert!(transitories[0].text.contains("Entrará en vigor"));
+        assert!(transitories[0].asserted_dates.is_empty());
+        let report = validate_standard(
+            &metadata,
+            &clauses,
+            &transitories,
+            BIBLIOGRAPHY_CONTINUATION_SAMPLE,
+        );
         assert!(report.valid, "{:#?}", report.issues);
     }
 
@@ -457,7 +731,9 @@ mod tests {
             vec!["0", "1", "2", "3", "4", "5", "5.1", "5.2", "6"]
         );
         assert_eq!(clauses[6].label, "5.1 El establecimiento debe medir.");
-        let report = validate_standard(&metadata, &clauses, SAMPLE);
+        let transitories = parse_standard_transitories(SAMPLE, &metadata).unwrap();
+        assert!(transitories.is_empty());
+        let report = validate_standard(&metadata, &clauses, &transitories, SAMPLE);
         assert!(report.valid, "{:#?}", report.issues);
     }
 
@@ -475,7 +751,16 @@ mod tests {
         assert!(!clauses[6].text.contains("Sufragio"));
         assert!(!clauses[7].text.contains("México, D.F."));
         assert!(!clauses[7].text.contains("APENDICE"));
-        let report = validate_standard(&metadata, &clauses, INDEX_AND_APPENDIX_SAMPLE);
+        let transitories = parse_standard_transitories(INDEX_AND_APPENDIX_SAMPLE, &metadata).unwrap();
+        // This fixture has no TRANSITORIOS heading at all -- just a bare
+        // signature/date line -- so no transitorios should be recognized.
+        assert!(transitories.is_empty());
+        let report = validate_standard(
+            &metadata,
+            &clauses,
+            &transitories,
+            INDEX_AND_APPENDIX_SAMPLE,
+        );
         assert!(report.valid, "{:#?}", report.issues);
     }
 
@@ -488,7 +773,8 @@ mod tests {
             included_in_source: false,
         });
         let clauses = parse_standard_clauses(SAMPLE, &metadata).unwrap();
-        let report = validate_standard(&metadata, &clauses, SAMPLE);
+        let transitories = parse_standard_transitories(SAMPLE, &metadata).unwrap();
+        let report = validate_standard(&metadata, &clauses, &transitories, SAMPLE);
         assert!(report.valid, "{:#?}", report.issues);
         assert!(report.issues.iter().any(|issue| {
             issue.code == "standard_unconsolidated_modification"

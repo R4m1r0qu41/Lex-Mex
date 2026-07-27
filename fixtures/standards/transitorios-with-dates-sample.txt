@@ -1,0 +1,16 @@
+1. Objetivo y campo de aplicación
+Establece un ejemplo reproducible con transitorios fechados.
+
+2. Especificaciones
+Contenido de especificaciones.
+
+TRANSITORIOS
+
+PRIMERO. La presente modificación entrará en vigor el 1 de octubre de 2025.
+
+SEGUNDO. Para efectos de evaluación se establecen fases; la primera fase
+concluye el 30 de septiembre de 2023 y la segunda inicia el 1 de octubre
+de 2023.
+
+TERCERO. Los responsables podrán presentar documentación alternativa hasta
+el 31 de marzo de 2021.

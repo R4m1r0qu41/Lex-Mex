@@ -32,6 +32,7 @@ const CANONICAL_FILES: &[&str] = &[
 const STANDARD_CANONICAL_FILES: &[&str] = &[
     "standard.json",
     "clauses.json",
+    "transitories.json",
     "extracted-text.txt",
     "validation.json",
 ];
@@ -513,6 +514,11 @@ mod tests {
                 .join("instruments/nom-999-test-2026/extracted-text.txt")
                 .is_file()
         );
+        assert!(
+            output
+                .join("instruments/nom-999-test-2026/transitories.json")
+                .is_file()
+        );
     }
 
     fn write_fixture(root: &Path, slug: &str) {
@@ -639,6 +645,7 @@ mod tests {
         )
         .unwrap();
         fs::write(directory.join("clauses.json"), "[]\n").unwrap();
+        fs::write(directory.join("transitories.json"), "[]\n").unwrap();
         fs::write(directory.join("extracted-text.txt"), "fixture\n").unwrap();
         fs::write(
             directory.join("validation.json"),
