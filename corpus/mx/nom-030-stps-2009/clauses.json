@@ -1,0 +1,702 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n   Establecer las funciones y actividades que deberán realizar los servicios preventivos de seguridad y salud\nen el trabajo para prevenir accidentes y enfermedades de trabajo.",
+    "start_char": 5104,
+    "end_char": 5291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n   La presente Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo.",
+    "start_char": 5295,
+    "end_char": 5416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3",
+    "label": "3. Definiciones",
+    "text": "3. Definiciones\n   Para efectos de la presente Norma, se establecen las definiciones siguientes:",
+    "start_char": 5420,
+    "end_char": 5516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.1",
+    "label": "3.1 Acciones preventivas y correctivas: Son aquellas que se establecen a partir de los resultados del",
+    "text": "3.1 Acciones preventivas y correctivas: Son aquellas que se establecen a partir de los resultados del\ndiagnóstico de seguridad y salud en el trabajo, y que se refieren al listado de requerimientos en la materia,\ntales como: estudios; programas; procedimientos; medidas de seguridad; acciones de reconocimiento,\nevaluación y control de los agentes contaminantes del medio ambiente laboral; seguimiento a la salud de los\ntrabajadores; equipo de protección personal; capacitación; autorizaciones, y registros administrativos.",
+    "start_char": 5521,
+    "end_char": 6043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.2",
+    "label": "3.2 Autoridad Laboral; Autoridad del Trabajo: Las unidades administrativas competentes de la",
+    "text": "3.2 Autoridad Laboral; Autoridad del Trabajo: Las unidades administrativas competentes de la\nSecretaría del Trabajo y Previsión Social que realizan funciones de inspección en materia de seguridad y\nsalud en el trabajo y las correspondientes de las entidades federativas y del Distrito Federal, que actúen en\nauxilio de aquéllas.",
+    "start_char": 6048,
+    "end_char": 6376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.3",
+    "label": "3.3 Centro de trabajo: Todos aquellos lugares tales como edificios, locales, instalaciones y áreas, en los",
+    "text": "3.3 Centro de trabajo: Todos aquellos lugares tales como edificios, locales, instalaciones y áreas, en los\nque se realicen actividades de producción, comercialización, transporte y almacenamiento o prestación de\nservicios, o en el que laboren personas que estén sujetas a una relación de trabajo.",
+    "start_char": 6380,
+    "end_char": 6676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.4",
+    "label": "3.4 Diagnóstico de seguridad y salud en el trabajo: Es la identificación de las condiciones físicas",
+    "text": "3.4 Diagnóstico de seguridad y salud en el trabajo: Es la identificación de las condiciones físicas\npeligrosas o inseguras; de los agentes capaces de modificar las condiciones del medio ambiente laboral; de\nlos peligros circundantes al centro de trabajo, así como de los requerimientos normativos en materia de\nseguridad y salud en el trabajo que resulten aplicables.",
+    "start_char": 6681,
+    "end_char": 7048
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.5",
+    "label": "3.5 Exhibir: Es la presentación a la autoridad laboral de documentos, registros e información, cuando ésta",
+    "text": "3.5 Exhibir: Es la presentación a la autoridad laboral de documentos, registros e información, cuando ésta\nasí lo solicite, para su revisión y constatación de cumplimiento con la presente Norma.",
+    "start_char": 7053,
+    "end_char": 7247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.6",
+    "label": "3.6 Material y sustancia química peligrosa: Son aquellos con características físicas, químicas o",
+    "text": "3.6 Material y sustancia química peligrosa: Son aquellos con características físicas, químicas o\nbiológicas intrínsecas que han sido clasificados como peligrosos para la salud de los trabajadores por su\nirritabilidad, toxicidad, inflamabilidad, explosividad, corrosividad, reactividad o acción biológica.",
+    "start_char": 7253,
+    "end_char": 7557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.7",
+    "label": "3.7 Personal ocupacionalmente expuesto, POE: Es aquel trabajador que en ejercicio y con motivo de su",
+    "text": "3.7 Personal ocupacionalmente expuesto, POE: Es aquel trabajador que en ejercicio y con motivo de su\nocupación, desempeña una actividad que se considera peligrosa.",
+    "start_char": 7561,
+    "end_char": 7724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.8",
+    "label": "3.8 Peligro: Son las características o propiedades intrínsecas de los agentes o condiciones presentes en",
+    "text": "3.8 Peligro: Son las características o propiedades intrínsecas de los agentes o condiciones presentes en\nel ambiente laboral. Su grado de peligrosidad se obtiene al evaluar la potencialidad del efecto que pueden\ngenerar o provocar dichas características o propiedades de los agentes o condiciones.",
+    "start_char": 7729,
+    "end_char": 8026
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.9",
+    "label": "3.9 Procedimientos; instructivos: Son los medios escritos o dispositivos de almacenamiento de datos",
+    "text": "3.9 Procedimientos; instructivos: Son los medios escritos o dispositivos de almacenamiento de datos\ndel sistema de control interno del centro de trabajo creados para proveer información detallada, ordenada,\nsistemática e integral del desarrollo de las actividades laborales y/o emergencias.",
+    "start_char": 8031,
+    "end_char": 8321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.10",
+    "label": "3.10 Programa de seguridad y salud en el trabajo: Documento que contiene el conjunto de acciones",
+    "text": "3.10 Programa de seguridad y salud en el trabajo: Documento que contiene el conjunto de acciones\npreventivas y correctivas por instrumentar para evitar riesgos en los centros de trabajo, que puedan afectar la\nvida, salud e integridad física de los trabajadores o causar daños en sus instalaciones.",
+    "start_char": 8326,
+    "end_char": 8623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.11",
+    "label": "3.11 Responsable de seguridad y salud en el trabajo: Es el patrón o la persona designada por él, para",
+    "text": "3.11 Responsable de seguridad y salud en el trabajo: Es el patrón o la persona designada por él, para\nprestar los servicios preventivos de seguridad y salud en el trabajo.",
+    "start_char": 8627,
+    "end_char": 8798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.12",
+    "label": "3.12 Riesgo: Es la correlación de la peligrosidad de un agente o condición física y la exposición de los",
+    "text": "3.12 Riesgo: Es la correlación de la peligrosidad de un agente o condición física y la exposición de los\ntrabajadores con la posibilidad de causar efectos adversos para su salud o vida, o dañar al centro de trabajo.\nComo expresión, el riesgo es igual al peligro por la exposición del trabajador.",
+    "start_char": 8803,
+    "end_char": 9098
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.13",
+    "label": "3.13 Riesgo grave; riesgo inminente: Es aquel que tiene una alta probabilidad de materializarse en un",
+    "text": "3.13 Riesgo grave; riesgo inminente: Es aquel que tiene una alta probabilidad de materializarse en un\nfuturo inmediato y supone un daño grave para la salud de los trabajadores.",
+    "start_char": 9103,
+    "end_char": 9279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.14",
+    "label": "3.14 Seguridad y salud en el trabajo: Son los programas, procedimientos, medidas y acciones de",
+    "text": "3.14 Seguridad y salud en el trabajo: Son los programas, procedimientos, medidas y acciones de\nreconocimiento, evaluación y control que se aplican en los centros laborales para prevenir accidentes y\nenfermedades de trabajo, con el objeto de preservar la vida, salud e integridad física de los trabajadores, así\ncomo de evitar cualquier posible deterioro al centro de trabajo.",
+    "start_char": 9283,
+    "end_char": 9658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:3-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "3.15",
+    "label": "3.15 Servicios preventivos de seguridad y salud en el trabajo: Son aquellos prestados por personal",
+    "text": "3.15 Servicios preventivos de seguridad y salud en el trabajo: Son aquellos prestados por personal\ncapacitado -interno, externo o mixto-, cuyo propósito principal es prevenir los accidentes y enfermedades de\ntrabajo, mediante el cumplimiento de la normatividad en materia de seguridad y salud en el trabajo. Se\n\f     Martes 22 de diciembre de 2009             DIARIO OFICIAL                                (Tercera Sección)\n\nentiende por internos, los prestados por el patrón o personal del centro de trabajo; externos, los prestados por\npersonal independiente al centro de trabajo, y mixtos, los prestados tanto por personal interno como por\npersonal independiente al centro de trabajo.",
+    "start_char": 9663,
+    "end_char": 10350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "4",
+    "label": "4. Obligaciones del patrón",
+    "text": "4. Obligaciones del patrón",
+    "start_char": 10356,
+    "end_char": 10382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "4.1",
+    "label": "4.1 Designar a un responsable de seguridad y salud en el trabajo interno o externo, para llevar a cabo las",
+    "text": "4.1 Designar a un responsable de seguridad y salud en el trabajo interno o externo, para llevar a cabo las\nfunciones y actividades preventivas de seguridad y salud en el centro de trabajo a que se refiere el Capítulo 5.",
+    "start_char": 10386,
+    "end_char": 10605
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:4-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "4.1.1",
+    "label": "4.1.1 El patrón podrá asumir las funciones y actividades preventivas de seguridad y salud a que se refiere",
+    "text": "4.1.1 El patrón podrá asumir las funciones y actividades preventivas de seguridad y salud a que se refiere\nel Capítulo 5, en el caso de centros de trabajo que cuenten con menos de cien trabajadores.",
+    "start_char": 10610,
+    "end_char": 10808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "4.2",
+    "label": "4.2 Proporcionar al responsable de seguridad y salud en el trabajo:",
+    "text": "4.2 Proporcionar al responsable de seguridad y salud en el trabajo:\n         a)   El acceso a las diferentes áreas del centro de trabajo para identificar los factores de peligro y la\n              exposición de los trabajadores a ellos;\n         b)   La información relacionada con la seguridad y salud en el trabajo de los procesos, puestos de\n              trabajo y actividades desarrolladas por los trabajadores, y\n         c)   Los medios y facilidades para establecer las medidas de seguridad y salud en el trabajo para la\n              prevención de los accidentes y enfermedades laborales.",
+    "start_char": 10813,
+    "end_char": 11410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "4.3",
+    "label": "4.3 Contar con un diagnóstico integral o por área de trabajo de las condiciones de seguridad y salud del",
+    "text": "4.3 Contar con un diagnóstico integral o por área de trabajo de las condiciones de seguridad y salud del\ncentro laboral, de acuerdo con lo que establece el Capítulo 6. El diagnóstico integral comprenderá a las\ndiversas áreas, secciones o procesos que conforman al centro de trabajo, en tanto que el relativo al área de\ntrabajo, se referirá de manera exclusiva a cada una de ellas.",
+    "start_char": 11415,
+    "end_char": 11795
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "4.4",
+    "label": "4.4 Contar con un programa de seguridad y salud en el trabajo, elaborado con base en el diagnóstico a",
+    "text": "4.4 Contar con un programa de seguridad y salud en el trabajo, elaborado con base en el diagnóstico a\nque se refiere el Capítulo 6. El programa deberá actualizarse al menos una vez al año.",
+    "start_char": 11799,
+    "end_char": 11987
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:4-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "4.4.1",
+    "label": "4.4.1 Los centros de trabajo que cuenten con menos de cien trabajadores deberán elaborar una relación",
+    "text": "4.4.1 Los centros de trabajo que cuenten con menos de cien trabajadores deberán elaborar una relación\nde acciones preventivas y correctivas de seguridad y salud en el trabajo, de acuerdo con las actividades que\ndesarrollen. La relación de acciones preventivas y correctivas deberá actualizarse al menos una vez al año.",
+    "start_char": 11991,
+    "end_char": 12309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "4.5",
+    "label": "4.5 Comunicar a la comisión de seguridad e higiene y/o a los trabajadores, según aplique, el diagnóstico",
+    "text": "4.5 Comunicar a la comisión de seguridad e higiene y/o a los trabajadores, según aplique, el diagnóstico\nintegral o por área de trabajo de las condiciones de seguridad y salud y el contenido del programa de\nseguridad y salud en el trabajo o de la relación de acciones preventivas y correctivas de seguridad y salud en\nel trabajo.",
+    "start_char": 12315,
+    "end_char": 12644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "4.6",
+    "label": "4.6 Contar con los reportes de seguimiento de los avances en la instauración del programa de seguridad y",
+    "text": "4.6 Contar con los reportes de seguimiento de los avances en la instauración del programa de seguridad y\nsalud en el trabajo o de la relación de acciones preventivas y correctivas de seguridad y salud en el trabajo,\nsegún aplique.",
+    "start_char": 12649,
+    "end_char": 12879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "4.7",
+    "label": "4.7 Capacitar al personal de la empresa que forme parte de los servicios preventivos de seguridad y salud",
+    "text": "4.7 Capacitar al personal de la empresa que forme parte de los servicios preventivos de seguridad y salud\nen el trabajo, en las funciones y actividades que establece la presente Norma.",
+    "start_char": 12883,
+    "end_char": 13067
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "4.8",
+    "label": "4.8 Conservar la documentación a que hace referencia la presente Norma al menos por dos años.",
+    "text": "4.8 Conservar la documentación a que hace referencia la presente Norma al menos por dos años.",
+    "start_char": 13071,
+    "end_char": 13164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "4.9",
+    "label": "4.9 Exhibir a la autoridad del trabajo, cuando ésta así lo solicite, los documentos y registros que la",
+    "text": "4.9 Exhibir a la autoridad del trabajo, cuando ésta así lo solicite, los documentos y registros que la\npresente Norma le obligue a elaborar o poseer.",
+    "start_char": 13168,
+    "end_char": 13317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "5",
+    "label": "5. Funciones y actividades del responsable de seguridad y salud en el trabajo",
+    "text": "5. Funciones y actividades del responsable de seguridad y salud en el trabajo",
+    "start_char": 13321,
+    "end_char": 13398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "5.1",
+    "label": "5.1 Elaborar el diagnóstico de seguridad y salud en el trabajo, de acuerdo con lo establecido en el Capítulo",
+    "text": "5.1 Elaborar el diagnóstico de seguridad y salud en el trabajo, de acuerdo con lo establecido en el Capítulo\n6.",
+    "start_char": 13404,
+    "end_char": 13515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "5.2",
+    "label": "5.2 Elaborar el programa de seguridad y salud en el trabajo o la relación de acciones preventivas y",
+    "text": "5.2 Elaborar el programa de seguridad y salud en el trabajo o la relación de acciones preventivas y\ncorrectivas de seguridad y salud en el trabajo, priorizándolas para su atención, con base en el riesgo\ninvolucrado.",
+    "start_char": 13520,
+    "end_char": 13735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "5.3",
+    "label": "5.3 Establecer los mecanismos de respuesta inmediata cuando se detecte un riesgo grave e inminente.",
+    "text": "5.3 Establecer los mecanismos de respuesta inmediata cuando se detecte un riesgo grave e inminente.",
+    "start_char": 13741,
+    "end_char": 13840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "5.4",
+    "label": "5.4 Incorporar en el programa de seguridad y salud en el trabajo o en la relación de acciones preventivas y",
+    "text": "5.4 Incorporar en el programa de seguridad y salud en el trabajo o en la relación de acciones preventivas y\ncorrectivas de seguridad y salud en el trabajo, las acciones y programas de promoción para la salud de los\ntrabajadores y para la prevención integral de las adicciones que recomienden o dicten las autoridades\ncompetentes.",
+    "start_char": 13845,
+    "end_char": 14174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "5.5",
+    "label": "5.5 Incorporar en el programa de seguridad y salud en el trabajo o en la relación de acciones preventivas y",
+    "text": "5.5 Incorporar en el programa de seguridad y salud en el trabajo o en la relación de acciones preventivas y\ncorrectivas de seguridad y salud en el trabajo, las acciones para la atención de emergencias y contingencias\nsanitarias que recomienden o dicten las autoridades competentes.",
+    "start_char": 14179,
+    "end_char": 14460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "5.6",
+    "label": "5.6 Establecer los procedimientos, instructivos, guías o registros necesarios para dar cumplimiento al",
+    "text": "5.6 Establecer los procedimientos, instructivos, guías o registros necesarios para dar cumplimiento al\nprograma de seguridad y salud en el trabajo o a la relación de acciones preventivas y correctivas de seguridad\ny salud en el trabajo.",
+    "start_char": 14465,
+    "end_char": 14701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "5.7",
+    "label": "5.7 Realizar el seguimiento de los avances en la instauración del programa de seguridad y salud en el",
+    "text": "5.7 Realizar el seguimiento de los avances en la instauración del programa de seguridad y salud en el\ntrabajo o de la relación de acciones preventivas y correctivas de seguridad y salud en el trabajo y reportar por\nescrito los resultados al patrón, al menos una vez al año.\n\f        (Tercera Sección)                       DIARIO OFICIAL                 Martes 22 de diciembre de 2009",
+    "start_char": 14706,
+    "end_char": 15090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "5.8",
+    "label": "5.8 Registrar los resultados del seguimiento del programa de seguridad y salud en el trabajo o de la",
+    "text": "5.8 Registrar los resultados del seguimiento del programa de seguridad y salud en el trabajo o de la\nrelación de acciones preventivas y correctivas de seguridad y salud en el trabajo.",
+    "start_char": 15096,
+    "end_char": 15279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "5.9",
+    "label": "5.9 Verificar que, con la instauración del programa de seguridad y salud en el trabajo o de la relación de",
+    "text": "5.9 Verificar que, con la instauración del programa de seguridad y salud en el trabajo o de la relación de\nacciones preventivas y correctivas de seguridad y salud en el trabajo, se cumpla con el objeto de su aplicación\ny, en su caso, realizar las adecuaciones que se requieran tanto al diagnóstico como al programa o a la\nrelación.",
+    "start_char": 15284,
+    "end_char": 15615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "6",
+    "label": "6. Diagnóstico de seguridad y salud en el trabajo",
+    "text": "6. Diagnóstico de seguridad y salud en el trabajo",
+    "start_char": 15619,
+    "end_char": 15668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "6.1",
+    "label": "6.1 El diagnóstico integral o por área de trabajo sobre las condiciones de seguridad y salud en el centro",
+    "text": "6.1 El diagnóstico integral o por área de trabajo sobre las condiciones de seguridad y salud en el centro\nlaboral, deberá considerar al menos la identificación de lo siguiente:\n   a)     Las condiciones físicas peligrosas o inseguras que puedan representar un riesgo en las\n          instalaciones, procesos, maquinaria, equipo, herramientas, medios de transporte, materiales y\n          energía;\n   b)     Los agentes físicos, químicos y biológicos capaces de modificar las condiciones del medio ambiente\n          del centro de trabajo que, por sus propiedades, concentración, nivel y tiempo de exposición o acción,\n          pueden alterar la salud de los trabajadores, así como las fuentes que los generan;\n   c)     Los peligros circundantes al centro de trabajo que lo puedan afectar, cuando sea posible, y\n   d)     Los requerimientos normativos en materia de seguridad y salud en el trabajo que resulten aplicables.",
+    "start_char": 15672,
+    "end_char": 16595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "6.2",
+    "label": "6.2 El diagnóstico de seguridad y salud en los centros de trabajo que cuenten con menos de cien",
+    "text": "6.2 El diagnóstico de seguridad y salud en los centros de trabajo que cuenten con menos de cien\ntrabajadores, podrá ser integral y contener al menos lo previsto en el numeral 6.1, inciso d).",
+    "start_char": 16600,
+    "end_char": 16790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "7",
+    "label": "7. Programa de seguridad y salud en el trabajo o relación de acciones preventivas y correctivas de",
+    "text": "7. Programa de seguridad y salud en el trabajo o relación de acciones preventivas y correctivas de\nseguridad y salud en el trabajo",
+    "start_char": 16794,
+    "end_char": 16924
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "7.1",
+    "label": "7.1 El programa de seguridad y salud en el trabajo, deberá contener al menos:",
+    "text": "7.1 El programa de seguridad y salud en el trabajo, deberá contener al menos:\n   a)     La acción preventiva o correctiva por instrumentar por cada aspecto identificado;\n   b)     Las acciones y programas de promoción para la salud de los trabajadores y para la prevención\n          integral de las adicciones que recomienden o dicten las autoridades competentes;\n   c)     Las acciones para la atención de emergencias y contingencias sanitarias que recomienden o dicten\n          las autoridades competentes;\n   d)     Las fechas de inicio y término programadas para instrumentar las acciones preventivas o correctivas\n          y para la atención de emergencias, y\n   e)     El responsable de la ejecución de cada acción preventiva o correctiva y para la atención de\n          emergencias.",
+    "start_char": 16928,
+    "end_char": 17719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "7.2",
+    "label": "7.2 La relación de acciones preventivas y correctivas de seguridad y salud en los centros de trabajo que",
+    "text": "7.2 La relación de acciones preventivas y correctivas de seguridad y salud en los centros de trabajo que\ncuenten con menos de cien trabajadores, deberá contener al menos lo previsto en el numeral 7.1, incisos a),\nb), c) y d).",
+    "start_char": 17724,
+    "end_char": 17949
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "8",
+    "label": "8. Unidades de verificación",
+    "text": "8. Unidades de verificación",
+    "start_char": 17953,
+    "end_char": 17980
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "8.1",
+    "label": "8.1 El patrón tendrá la opción de contratar unidades de verificación acreditadas y aprobadas, según lo",
+    "text": "8.1 El patrón tendrá la opción de contratar unidades de verificación acreditadas y aprobadas, según lo\nestablecido en la Ley Federal sobre Metrología y Normalización, para verificar o evaluar el cumplimiento con\nla presente Norma.",
+    "start_char": 17985,
+    "end_char": 18215
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "8.2",
+    "label": "8.2 El patrón podrá consultar el directorio vigente de las unidades de verificación acreditadas y aprobadas",
+    "text": "8.2 El patrón podrá consultar el directorio vigente de las unidades de verificación acreditadas y aprobadas\npor la Secretaría del Trabajo y Previsión Social, en la siguiente dirección electrónica: www.stps.gob.mx.",
+    "start_char": 18220,
+    "end_char": 18433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "8.3",
+    "label": "8.3 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los",
+    "text": "8.3 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los\ncriterios de cumplimiento establecidos en el procedimiento para la evaluación de la conformidad del Capítulo\n9.",
+    "start_char": 18438,
+    "end_char": 18652
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:8-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "8.4",
+    "label": "8.4 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento de esta Norma",
+    "text": "8.4 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento de esta Norma\ndeberán emitir un dictamen, el cual habrá de contener:\n   a)     Datos del centro de trabajo:\n          1)   Nombre, denominación o razón social;\n          2)   Domicilio completo, y\n          3)   Nombre y firma del representante legal.\n   b)     Datos de la unidad de verificación:\n          1)   Nombre, denominación o razón social;\n          2)   Número de registro otorgado por la entidad de acreditación;\n          3)   Número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;\n          4)   Fecha en que se otorgó la acreditación y aprobación;\n\f   Martes 22 de diciembre de 2009              DIARIO OFICIAL                               (Tercera Sección)\n\n         5)   Determinación del grado de cumplimiento del centro de trabajo con la presente Norma y, en su\n              caso, las salvedades que determine;\n         6) Resultado de la verificación;\n         7) Nombre y firma del responsable de emitir el dictamen;\n         8) Lugar y fecha de la firma del dictamen, y\n         9) Vigencia del dictamen.",
+    "start_char": 18656,
+    "end_char": 19794
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:8-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "8.5",
+    "label": "8.5 La vigencia del dictamen emitido por las unidades de verificación será de dos años, siempre y cuando",
+    "text": "8.5 La vigencia del dictamen emitido por las unidades de verificación será de dos años, siempre y cuando\nno se modifiquen las condiciones que sirvieron de base para su emisión.",
+    "start_char": 19799,
+    "end_char": 19975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "9",
+    "label": "9. Procedimiento para la evaluación de la conformidad",
+    "text": "9. Procedimiento para la evaluación de la conformidad",
+    "start_char": 19980,
+    "end_char": 20033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "9.1",
+    "label": "9.1 Este procedimiento para la evaluación de la conformidad aplica tanto para las visitas de verificación",
+    "text": "9.1 Este procedimiento para la evaluación de la conformidad aplica tanto para las visitas de verificación\nque realicen las unidades de verificación como para las visitas de inspección desarrolladas por la autoridad\nlaboral.",
+    "start_char": 20038,
+    "end_char": 20261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "9.2",
+    "label": "9.2 El procedimiento para la evaluación de la conformidad de la presente Norma se realizará por medio de",
+    "text": "9.2 El procedimiento para la evaluación de la conformidad de la presente Norma se realizará por medio de\nrevisiones documentales, de registros que obren en el centro de trabajo o a través de entrevistas, según\naplique, conforme a lo siguiente:\n    Disposición           Tipo de                  Criterio de aceptación                  Observaciones\n                      comprobación\n  4.1               Documental         El patrón cumple cuando presenta evidencia Puede               presentar\n                                       documental de que cuenta con un documento                             de\n                                       responsable de seguridad y salud en el nombramiento (interno\n                                       trabajo que lleve a cabo las funciones y o mixto) o contratación\n                                       actividades establecidas en el Capítulo 5.      (externo).\n  4.1.1             Entrevista         El patrón cumple cuando, mediante Esta disposición sólo\n                                       entrevista, se constate que él asume las aplica en los centros\n                                       funciones y actividades preventivas de de trabajo con menos\n                                       seguridad y salud a que se refiere el Capítulo de cien trabajadores.\n                                       5.\n  4.2               Documental         El patrón cumple cuando presenta evidencia Si el responsable de\n                                       documental de que al responsable de seguridad y salud en el\n                                       seguridad y salud en el trabajo se le trabajo es el patrón, no\n                                       proporcionan:                                   se requiere documento\n                                        Las facilidades para ingresar a las alguno para demostrar\n                                            diferentes áreas del centro de trabajo el cumplimiento con\n                                            para identificar los factores de peligro y esta disposición.\n                                            la exposición de los trabajadores;         En caso contrario, el\n                                        La información relacionada con la documento                         de\n                                            seguridad y salud en el trabajo de los designación para el\n                                            procesos, puestos de trabajo y responsable                       de\n                                            actividades    desarrolladas    por    los seguridad y salud en el\n                                            trabajadores, y                            trabajo,     habrá    de\n                                                                                       especificar    que     al\n                                        Los medios y facilidades necesarios para\n                                                                                       responsable           de\n                                            establecer las medidas de seguridad y\n                                                                                       seguridad y salud en el\n                                            salud en el trabajo para la prevención de\n                                                                                       trabajo       se       le\n                                            los accidentes y enfermedades de\n                                                                                       proporcionen         los\n                                            trabajo.\n                                                                                       elementos a que se\n                                                                                       refiere el numeral 4.2.\n\n 4.3 y 6.1         Documental          El patrón cumple cuando presenta un El               patrón    podrá\n                                       diagnóstico integral o por áreas de trabajo de apoyarse y presentar\n                                       las condiciones de seguridad y salud del como evidencias del\n                                       centro laboral, elaborado de acuerdo con lo cumplimiento de las\n                                       que establece el numeral 6.1, que al menos obligaciones\n                                       identifique:                                   establecidas en los\n                                         Las condiciones físicas peligrosas o numerales 4.3 y 6.1 de\n                                             inseguras que puedan representar un la presente Norma, el\n                                             riesgo en las instalaciones, procesos, reporte “Resultados de\n                                             maquinaria,     equipo,   herramientas, la    Evaluación   del\n                                             medios de transporte, materiales y Cumplimiento de la\n                                             energía;                                 Normatividad       en\n\f     (Tercera Sección)                    DIARIO OFICIAL                  Martes 22 de diciembre de 2009\n\n Disposición          Tipo de                Criterio de aceptación                   Observaciones\n                   comprobación\n                                      Los agentes físicos, químicos o Seguridad y Salud en\n                                       biológicos capaces de modificar las el Trabajo”, que se\n                                       condiciones del medio ambiente del obtiene del recuadro\n                                       centro de trabajo que, por sus “Documento                        de\n                                       propiedades, concentración, nivel y resultados”,           en     la\n                                       tiempo de exposición o acción, pueden pantalla        “Resultados\n                                       alterar la salud de los trabajadores, así de la evaluación”, del\n                                       como las fuentes que los generan;         módulo       informático\n                                    Los peligros circundantes al centro de “Evaluación                del\n                                       trabajo que lo puedan afectar, cuando Cumplimiento de la\n                                       sea posible, y                            Normatividad           en\n                                                                                 Seguridad y Salud en\n                                    Los requerimientos normativos en\n                                                                                 el Trabajo”, contenido\n                                       materia de seguridad y salud en el\n                                                                                 en      la      dirección\n                                       trabajo que le resulten aplicables.\n                                                                                 electrónica\n                                                                                 www.stps.gob.mx.\n4.4 y 4.4.1       Documental      El patrón cumple cuando presenta un\n                                  programa o una relación de acciones\n                                  preventivas y correctivas de seguridad y\n                                  salud, actualizado al menos una vez al año.\n4.4 y 7.1         Documental      El patrón cumple cuando presenta un El                patrón       podrá\n                                  programa de seguridad y salud en el trabajo, apoyarse y presentar\n                                  elaborado con base en el diagnóstico a que como evidencias del\n                                  se refiere el Capítulo 6, que al menos cumplimiento de las\n                                  contenga:                                      obligaciones\n                                    La acción preventiva o correctiva por establecidas en los\n                                       instrumentar      por    cada    aspecto numerales 4.4 y 7.1 de\n                                       identificado;                             la presente Norma, el\n                                    Las acciones y programas de reporte “Programa de\n                                       promoción para la salud de los Seguridad y Salud en\n                                       trabajadores y para la prevención el Trabajo”, que se\n                                       integral de las adicciones que obtiene del recuadro\n                                       recomienden o dicten las autoridades “Programa                   de\n                                       competentes;                              actividades”, en la\n                                    Las acciones para la atención de pantalla               “Resultados\n                                       emergencias y contingencias sanitarias de la evaluación”, del\n                                       que recomienden o dicten las módulo                    informático\n                                       autoridades competentes;                  “Evaluación           del\n                                    Las fechas de inicio y término              Cumplimiento      de    la\n                                       programadas para instrumentar las Normatividad                   en\n                                       acciones preventivas o correctivas y Seguridad y Salud en\n                                       para la atención de emergencias, y        el Trabajo”, o bien el\n                                                                                 reporte       “Programa\n                                    El responsable de la ejecución de cada\n                                                                                 para el Cumplimiento\n                                       acción preventiva o correctiva y para la\n                                                                                 de la Normatividad en\n                                       atención de emergencias.\n                                                                                 Seguridad y Salud en\n                                                                                 el Trabajo”, que se\n                                                                                 obtiene del recuadro\n                                                                                 “Programación          de\n                                                                                 fechas                   y\n                                                                                 responsables”, en la\n                                                                                 pantalla “Compromisos\n                                                                                 Programáticos para el\n                                                                                 Cumplimiento de la\n                                                                                 Normatividad           en\n                                                                                 Seguridad y Salud en\n                                                                                 el Trabajo”, del módulo\n                                                                                 informático\n                                                                                 “Elaboración           de\n                                                                                 Programas              de\n                                                                                 Seguridad y Salud en\n                                                                                 el Trabajo”, ambos\n                                                                                 contenidos       en     la\n                                                                                 dirección    electrónica\n                                                                                 www.stps.gob.mx.\n\f Martes 22 de diciembre de 2009            DIARIO OFICIAL                               (Tercera Sección)\n\n Disposición          Tipo de                  Criterio de aceptación                 Observaciones\n                   comprobación\n4.4.1 y 7.2      Documental         El patrón cumple cuando presenta una El              patrón      podrá\n                                    relación     de    acciones  preventivas    y apoyarse y presentar\n                                    correctivas de seguridad y salud en el como evidencias del\n                                    trabajo, elaborada con base en el diagnóstico cumplimiento de las\n                                    a que se refiere el Capítulo 6, que al menos obligaciones\n                                    contenga:                                     establecidas en los\n                                                                                  numerales 4.4.1 y 7.2\n                                       La acción preventiva o correctiva por\n                                                                                  de la presente Norma,\n                                          instrumentar      por  cada    aspecto\n                                                                                  el reporte “Programa\n                                          identificado;\n                                                                                  de Seguridad y Salud\n                                       Las acciones y programas de en el Trabajo”, que se\n                                          promoción para la salud de los obtiene del recuadro\n                                          trabajadores y para la prevención “Programa                   de\n                                          integral de las adicciones que actividades”, en la\n                                          recomienden o dicten las autoridades pantalla       “Resultados\n                                          competentes;                            de la evaluación”, del\n                                       Las acciones para la atención de módulo                informático\n                                          emergencias y contingencias sanitarias  “Evaluación          del\n                                          que recomienden o dicten las            Cumplimiento      de   la\n                                          autoridades competentes, y              Normatividad          en\n                                                                                  Seguridad y Salud en\n                                       Las fechas de inicio y término el Trabajo”, o bien el\n                                          programadas para instrumentar las reporte             “Programa\n                                          acciones preventivas o correctivas y para el Cumplimiento\n                                          para la atención de emergencias.        de la Normatividad en\n                                                                                  Seguridad y Salud en\n                                                                                  el Trabajo”, que se\n                                                                                  obtiene del recuadro\n                                                                                  “Programación         de\n                                                                                  fechas                  y\n                                                                                  responsables”, en la\n                                                                                  pantalla “Compromisos\n                                                                                  Programáticos para el\n                                                                                  Cumplimiento de la\n                                                                                  Normatividad          en\n                                                                                  Seguridad y Salud en\n                                                                                  el Trabajo”, del módulo\n                                                                                  informático\n                                                                                  “Elaboración          de\n                                                                                  Programas             de\n                                                                                  Seguridad y Salud en\n                                                                                  el Trabajo”, ambos\n                                                                                  contenidos      en     la\n                                                                                  dirección    electrónica\n                                                                                  www.stps.gob.mx.\n4.5              Documental       o El patrón cumple cuando demuestra que Es válido que se\n                 entrevista         comunica a la comisión de seguridad e presente                  como\n                                    higiene y/o a los trabajadores, según aplique, evidencia documental\n                                    el diagnóstico integral o por áreas de trabajo del      cumplimiento,\n                                    de las condiciones de seguridad y salud y el folletos,        videos,\n                                    contenido del programa de seguridad y salud carteles o cualquier\n                                    en el trabajo o de la relación de acciones otra documentación.\n                                    preventivas y correctivas de seguridad y\n                                    salud en el trabajo.\n\f      (Tercera Sección)                   DIARIO OFICIAL                 Martes 22 de diciembre de 2009\n\n Disposición           Tipo de               Criterio de aceptación                  Observaciones\n                    comprobación\n                                                                                 Para      acreditar   el\n                                                                                 cumplimiento mediante\n                                                                                 entrevista, se tendrá\n                                                                                 por aceptado cuando\n                                                                                 el 90 por ciento del\n                                                                                 personal entrevistado\n                                                                                 conozca el diagnóstico\n                                                                                 de las condiciones de\n                                                                                 seguridad y salud y el\n                                                                                 programa de seguridad\n                                                                                 y salud en el trabajo o\n                                                                                 la relación de acciones\n                                                                                 preventivas           y\n                                                                                 correctivas          de\n                                                                                 seguridad y salud en el\n                                                                                 trabajo.\n\n4.6                Registros       El patrón cumple cuando presenta los El             patrón      podrá\n                                   reportes de seguimiento de los avances en la apoyarse y presentar\n                                   instauración del programa de seguridad y como evidencias del\n                                   salud en el trabajo o de la relación de cumplimiento de las\n                                   acciones preventivas y correctivas de obligaciones\n                                   seguridad y salud en el trabajo, según establecidas en el\n                                   aplique.                                     numeral 4.6 de la\n                                                                                presente Norma, el\n                                                                                reporte “Seguimiento\n                                                                                del Programa para el\n                                                                                Cumplimiento de la\n                                                                                Normatividad          en\n                                                                                Seguridad y Salud en\n                                                                                el Trabajo”, que se\n                                                                                obtiene del recuadro\n                                                                                “Seguimiento          de\n                                                                                Cumplimiento          de\n                                                                                Indicadores”, en la\n                                                                                pantalla “Seguimiento\n                                                                                del Programa para el\n                                                                                Cumplimiento de la\n                                                                                Normatividad          en\n                                                                                Seguridad y Salud en\n                                                                                el Trabajo”, del módulo\n                                                                                informático\n                                                                                “Elaboración          de\n                                                                                Programas             de\n                                                                                Seguridad y Salud en\n                                                                                el Trabajo”, contenido\n                                                                                en      la     dirección\n                                                                                electrónica\n                                                                                www.stps.gob.mx\n\f   Martes 22 de diciembre de 2009               DIARIO OFICIAL                               (Tercera Sección)\n\n   Disposición          Tipo de                    Criterio de aceptación                  Observaciones\n                     comprobación\n 4.7               Documental           El patrón cumple cuando demuestra que al El           patrón      podrá\n                                        personal de la empresa que forme parte de presentar               como\n                                        los servicios preventivos de seguridad y salud evidencia            del\n                                        en el trabajo, se le capacita en las funciones cumplimiento de la\n                                        y actividades que establece la presente capacitación,                los\n                                        Norma.                                         diplomas, certificados,\n                                                                                       constancias            de\n                                                                                       habilidades,         sus\n                                                                                       programas              de\n                                                                                       capacitación, así como\n                                                                                       las         constancias\n                                                                                       obtenidas por haber\n                                                                                       cursado los talleres en\n                                                                                       la     modalidad       e-\n                                                                                       learning,    del    Aula\n                                                                                       Virtual del Programa\n                                                                                       de Capacitación a\n                                                                                       Distancia           para\n                                                                                       Trabajadores,\n                                                                                       PROCADIST, en la\n                                                                                       dirección    electrónica\n                                                                                       www.stps.gob.mx.",
+    "start_char": 20266,
+    "end_char": 46251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "9.3",
+    "label": "9.3 La documentación a que hace referencia la presente Norma, se deberá conservar al menos por dos",
+    "text": "9.3 La documentación a que hace referencia la presente Norma, se deberá conservar al menos por dos\naños.",
+    "start_char": 46257,
+    "end_char": 46361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "9.4",
+    "label": "9.4 Las evidencias de tipo documental o los registros que obren en el centro de trabajo podrán exhibirse",
+    "text": "9.4 Las evidencias de tipo documental o los registros que obren en el centro de trabajo podrán exhibirse\nde manera impresa o en medios magnéticos.",
+    "start_char": 46366,
+    "end_char": 46512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:9-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "9.5",
+    "label": "9.5 Se considerará que cumplen con la presente Norma, los centros de trabajo que permanezcan",
+    "text": "9.5 Se considerará que cumplen con la presente Norma, los centros de trabajo que permanezcan\nincorporados al Programa de Autogestión en Seguridad y Salud en el Trabajo, PASST, y que hayan obtenido\nalguno de los reconocimientos de “Empresa Segura”, otorgado por la Secretaría del Trabajo y Previsión\nSocial. Para tales efectos, bastará exhibir el reconocimiento otorgado. Corresponderá a la Autoridad Laboral\nconstatar que la empresa permanece incorporada en dicho programa.",
+    "start_char": 46517,
+    "end_char": 46990
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:9-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "9.6",
+    "label": "9.6 Se considerará que cumplen con la presente Norma, los centros de trabajo que cuenten con la",
+    "text": "9.6 Se considerará que cumplen con la presente Norma, los centros de trabajo que cuenten con la\nacreditación de su Sistema de Administración y Seguridad en el Trabajo, expedida por la Secretaría del\nTrabajo y Previsión Social, a que se refiere el artículo 72, penúltimo párrafo, de la Ley del Seguro Social. Para\ntales efectos, bastará exhibir la acreditación respectiva.",
+    "start_char": 46995,
+    "end_char": 47366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "10",
+    "label": "10. Vigilancia",
+    "text": "10. Vigilancia\n    La vigilancia del cumplimiento de la presente Norma corresponde a la Secretaría del Trabajo y Previsión\nSocial.",
+    "start_char": 47371,
+    "end_char": 47501
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "11",
+    "label": "11. Bibliografía",
+    "text": "11. Bibliografía",
+    "start_char": 47506,
+    "end_char": 47522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "11.1",
+    "label": "11.1 Convenio número 155, sobre seguridad y salud de los trabajadores y medio ambiente de trabajo,",
+    "text": "11.1 Convenio número 155, sobre seguridad y salud de los trabajadores y medio ambiente de trabajo,\n1981. Organización Internacional del Trabajo. Ratificado por México el 1 de febrero de 1984. Publicado en el\nDiario Oficial de la Federación de 6 de marzo de 1984 y su fe de erratas de 5 de abril de 1984.",
+    "start_char": 47527,
+    "end_char": 47830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:11-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "11.2",
+    "label": "11.2 Convenio número 160, sobre estadísticas del trabajo, 1985. Organización Internacional del Trabajo.",
+    "text": "11.2 Convenio número 160, sobre estadísticas del trabajo, 1985. Organización Internacional del Trabajo.\nRatificado por México el 18 de abril de 1988. Publicado en el Diario Oficial de la Federación de 22 de junio de\n1988 y su fe de erratas.",
+    "start_char": 47835,
+    "end_char": 48075
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:11-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "11.3",
+    "label": "11.3 Convenio número 161, sobre los servicios de salud en el trabajo, 1985. Organización Internacional",
+    "text": "11.3 Convenio número 161, sobre los servicios de salud en el trabajo, 1985. Organización Internacional\ndel Trabajo. Ratificado por México el 17 de febrero de 1987. Publicado en el Diario Oficial de la Federación de\n13 de abril de 1987.",
+    "start_char": 48080,
+    "end_char": 48315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:11-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "11.4",
+    "label": "11.4 Convenio número 171, sobre el trabajo nocturno, 1990. Organización Internacional del Trabajo.",
+    "text": "11.4 Convenio número 171, sobre el trabajo nocturno, 1990. Organización Internacional del Trabajo.",
+    "start_char": 48320,
+    "end_char": 48418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:11-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "11.5",
+    "label": "11.5 Ley Federal del Trabajo.",
+    "text": "11.5 Ley Federal del Trabajo.",
+    "start_char": 48423,
+    "end_char": 48452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:11-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "11.6",
+    "label": "11.6 Ley del Seguro Social.",
+    "text": "11.6 Ley del Seguro Social.",
+    "start_char": 48457,
+    "end_char": 48484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:11-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "11.7",
+    "label": "11.7 Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo.",
+    "text": "11.7 Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo.",
+    "start_char": 48489,
+    "end_char": 48563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:11-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "11.8",
+    "label": "11.8 Occupational Health for Europeans, Finnish Institute of Occupational Health, Helsinki, 1999.",
+    "text": "11.8 Occupational Health for Europeans, Finnish Institute of Occupational Health, Helsinki, 1999.",
+    "start_char": 48568,
+    "end_char": 48665
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-030-stps-2009:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+    "number": "12",
+    "label": "12 Concordancia con normas internacionales",
+    "text": "12 Concordancia con normas internacionales\n    Esta Norma no concuerda con ninguna norma internacional por no existir referencia alguna al momento de\nsu elaboración.\n\f        (Tercera Sección)                       DIARIO OFICIAL                 Martes 22 de diciembre de 2009",
+    "start_char": 48670,
+    "end_char": 48946
+  }
+]

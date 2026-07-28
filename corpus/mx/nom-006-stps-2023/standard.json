@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-006-stps-2023",
+  "kind": "nom",
+  "designation": "NOM-006-STPS-2023",
+  "official_title": "Almacenamiento y manejo de materiales mediante el uso de maquinaria-Condiciones de seguridad en el trabajo",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "almacenamiento y manejo de materiales",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2024-03-07",
+  "effective_date": "2024-09-03",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-006-STPS-2014"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": null,
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/NOM-006-STPS-2023.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/normasOficiales/9412/stps/stps.html",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-006-STPS-2023/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "978e69894a28672906547dd073d83a8a06d50c576a45c1747b6a2872abea77a5",
+  "extracted_text_sha256": "0709a9283fb9e35583e04246a8b34189bb7c94d53038012e38fbd36c194064bc",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

@@ -1,0 +1,992 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n    Establecer las condiciones de seguridad e higiene, los niveles y tiempos máximos permisibles de\nexposición a condiciones térmicas extremas, que por sus características, tipo de actividades, nivel, tiempo\ny frecuencia de exposición, sean capaces de alterar la salud de los trabajadores.",
+    "start_char": 4888,
+    "end_char": 5189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n    Esta Norma aplica en todos los centros de trabajo del territorio nacional en los que exista exposición de los\ntrabajadores a condiciones térmicas, provocadas por fuentes que generen que la temperatura corporal de los\ntrabajadores sea inferior a 36°C o superior a 38°C.",
+    "start_char": 5193,
+    "end_char": 5488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n    Para la correcta interpretación de esta Norma deben consultarse las siguientes normas oficiales mexicanas\nvigentes:\n   NOM-017-STPS-2001           Equipo de protección personal - Selección, uso y manejo en los centros\n                               de trabajo.\n   NOM-026-STPS-1998           Colores y señales de seguridad e higiene, e identificación de riesgos por\n                               fluidos conducidos en tuberías.",
+    "start_char": 5492,
+    "end_char": 5939
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n   Para los efectos de la presente Norma, se establecen las siguientes definiciones:",
+    "start_char": 5943,
+    "end_char": 6043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.1",
+    "label": "4.1 Autoridad del trabajo; autoridad laboral: las unidades administrativas competentes de la Secretaría",
+    "text": "4.1 Autoridad del trabajo; autoridad laboral: las unidades administrativas competentes de la Secretaría\ndel Trabajo y Previsión Social, que realicen funciones de inspección en materia de seguridad e higiene en el\ntrabajo y las correspondientes en las entidades federativas y el Distrito Federal, que actúen en auxilio\nde aquéllas.",
+    "start_char": 6048,
+    "end_char": 6378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.2",
+    "label": "4.2 Calor convectivo: es la cantidad de energía calorífica que se transmite a través de fluidos y que recibe",
+    "text": "4.2 Calor convectivo: es la cantidad de energía calorífica que se transmite a través de fluidos y que recibe\no cede el cuerpo humano por efecto del medio ambiente laboral.",
+    "start_char": 6382,
+    "end_char": 6553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.3",
+    "label": "4.3 Calor radiante: es la cantidad de energía calorífica que se emite o se gana a través de energía",
+    "text": "4.3 Calor radiante: es la cantidad de energía calorífica que se emite o se gana a través de energía\nelectromagnética.",
+    "start_char": 6558,
+    "end_char": 6675
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.4",
+    "label": "4.4 Condición térmica abatida: es la situación ambiental capaz de producir pérdida de calor en el cuerpo",
+    "text": "4.4 Condición térmica abatida: es la situación ambiental capaz de producir pérdida de calor en el cuerpo\nhumano, debido a las bajas temperaturas, que puede romper el equilibrio térmico del trabajador y tiende a\ndisminuir su temperatura corporal central.",
+    "start_char": 6679,
+    "end_char": 6932
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.5",
+    "label": "4.5 Condición térmica elevada: es la situación ambiental capaz de transmitir calor hacia el cuerpo",
+    "text": "4.5 Condición térmica elevada: es la situación ambiental capaz de transmitir calor hacia el cuerpo\nhumano o evitar que el cuerpo humano transmita calor hacia el medio en tal magnitud que pueda romper el\nequilibrio térmico del trabajador, y tienda a incrementar su temperatura corporal central.",
+    "start_char": 6936,
+    "end_char": 7229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.6",
+    "label": "4.6 Condición térmica extrema: es la situación ambiental capaz de permitir una ganancia o una pérdida",
+    "text": "4.6 Condición térmica extrema: es la situación ambiental capaz de permitir una ganancia o una pérdida\nde calor en el cuerpo humano en tal magnitud que modifique el equilibrio térmico del trabajador y que ocasione\nun incremento o decremento en su temperatura corporal central, capaz de alterar su salud.",
+    "start_char": 7234,
+    "end_char": 7536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.7",
+    "label": "4.7 Estrategia de medición ambiental: es el conjunto de criterios a partir del reconocimiento, que sirven",
+    "text": "4.7 Estrategia de medición ambiental: es el conjunto de criterios a partir del reconocimiento, que sirven\npara definir el número de mediciones, lugares, tiempo y frecuencia en que se practicarán, para obtener\ninformación representativa de la exposición del trabajador a condiciones térmicas extremas.",
+    "start_char": 7541,
+    "end_char": 7841
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.8",
+    "label": "4.8 Evaluación: es el resultado de comparar la cuantificación de los factores que modifican el medio",
+    "text": "4.8 Evaluación: es el resultado de comparar la cuantificación de los factores que modifican el medio\nambiente laboral con los patrones de referencia.\n\f   Viernes 14 de junio de 2002                DIARIO OFICIAL                    (Cuarta Sección)          3",
+    "start_char": 7844,
+    "end_char": 8102
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.9",
+    "label": "4.9 Fuentes: maquinaria, equipos o materiales capaces de generar condiciones térmicas extremas en el",
+    "text": "4.9 Fuentes: maquinaria, equipos o materiales capaces de generar condiciones térmicas extremas en el\nmedio ambiente de trabajo.",
+    "start_char": 8106,
+    "end_char": 8233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.10",
+    "label": "4.10 Grupo de exposición homogénea: son todos los trabajadores expuestos a condiciones térmicas",
+    "text": "4.10 Grupo de exposición homogénea: son todos los trabajadores expuestos a condiciones térmicas\nsemejantes, tomando en cuenta el tiempo de exposición, el régimen de actividades, y el nivel térmico en el\ncentro de trabajo.",
+    "start_char": 8237,
+    "end_char": 8458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.11",
+    "label": "4.11 Indice de temperatura de globo bulbo húmedo: es la interrelación entre la temperatura de globo,",
+    "text": "4.11 Indice de temperatura de globo bulbo húmedo: es la interrelación entre la temperatura de globo,\ntemperatura del aire y la humedad relativa, que permite estimar la exposición a temperaturas elevadas.",
+    "start_char": 8462,
+    "end_char": 8665
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.12",
+    "label": "4.12 Indice de viento frío: es la interrelación entre la temperatura y velocidad del aire, que permite",
+    "text": "4.12 Indice de viento frío: es la interrelación entre la temperatura y velocidad del aire, que permite\nestimar la exposición a temperaturas abatidas.",
+    "start_char": 8670,
+    "end_char": 8819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.13",
+    "label": "4.13 Límite Máximo Permisible de Exposición (LMPE): es el nivel máximo de los indicadores térmicos",
+    "text": "4.13 Límite Máximo Permisible de Exposición (LMPE): es el nivel máximo de los indicadores térmicos\ndel régimen de trabajo y del tiempo de exposición que se relacionan con el medio ambiente laboral, y que no\ndeben superarse durante la exposición de los trabajadores en periodos de trabajo definidos.",
+    "start_char": 8824,
+    "end_char": 9122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.14",
+    "label": "4.14 Temperatura de bulbo húmedo natural: es la temperatura que registra el termómetro cuando,",
+    "text": "4.14 Temperatura de bulbo húmedo natural: es la temperatura que registra el termómetro cuando,\nhumedecido su bulbo, permite la evaporación del agua sobre él, al estar expuesto al movimiento natural del\naire y al contenido de su humedad.",
+    "start_char": 9127,
+    "end_char": 9363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.15",
+    "label": "4.15 Temperatura de bulbo húmedo ventilado: es la temperatura que registra el termómetro cuando,",
+    "text": "4.15 Temperatura de bulbo húmedo ventilado: es la temperatura que registra el termómetro cuando,\nhumedecido su bulbo, permite la evaporación del agua sobre él, a una velocidad del aire que depende\nexclusivamente del tipo de psicrómetro utilizado.",
+    "start_char": 9367,
+    "end_char": 9613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.16",
+    "label": "4.16 Temperatura de bulbo seco: es la temperatura que registra el termómetro cuando el bulbo está en",
+    "text": "4.16 Temperatura de bulbo seco: es la temperatura que registra el termómetro cuando el bulbo está en\ncontacto con el aire del medio ambiente, y esté protegido de la radiación directa de la fuente que genera la\ncondición térmica.",
+    "start_char": 9617,
+    "end_char": 9845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.17",
+    "label": "4.17 Temperatura de globo: es el nivel termométrico que se registra cuando se establece el equilibrio",
+    "text": "4.17 Temperatura de globo: es el nivel termométrico que se registra cuando se establece el equilibrio\nentre la relación del calor convectivo y el calor radiante en el termómetro de globo.",
+    "start_char": 9850,
+    "end_char": 10037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:4-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "4.18",
+    "label": "4.18 Trabajador expuesto; personal ocupacionalmente expuesto (POE): son los trabajadores",
+    "text": "4.18 Trabajador expuesto; personal ocupacionalmente expuesto (POE): son los trabajadores\nexpuestos a una condición térmica extrema durante el desarrollo de sus actividades laborales.",
+    "start_char": 10041,
+    "end_char": 10223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 10227,
+    "end_char": 10253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "5.1",
+    "label": "5.1 Mostrar a la autoridad del trabajo, cuando ésta así lo solicite, los documentos que la presente Norma le",
+    "text": "5.1 Mostrar a la autoridad del trabajo, cuando ésta así lo solicite, los documentos que la presente Norma le\nobligue a elaborar o poseer.",
+    "start_char": 10258,
+    "end_char": 10395
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "5.2",
+    "label": "5.2 Informar a los trabajadores de los riesgos de trabajo por exposición a temperaturas extremas y mostrar",
+    "text": "5.2 Informar a los trabajadores de los riesgos de trabajo por exposición a temperaturas extremas y mostrar\na la autoridad del trabajo evidencias como pueden ser las constancias de habilidades, circulares, folletos,\ncarteles, o a través de opiniones de los trabajadores, que acrediten que han sido informados de\nlos riesgos.",
+    "start_char": 10400,
+    "end_char": 10723
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "5.3",
+    "label": "5.3 Realizar el reconocimiento, evaluación y control, según lo establecido en el Capítulo 7.",
+    "text": "5.3 Realizar el reconocimiento, evaluación y control, según lo establecido en el Capítulo 7.",
+    "start_char": 10727,
+    "end_char": 10819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "5.4",
+    "label": "5.4 Elaborar por escrito y mantener actualizado un informe que contenga el registro del reconocimiento,",
+    "text": "5.4 Elaborar por escrito y mantener actualizado un informe que contenga el registro del reconocimiento,\nevaluación y control de las áreas, de acuerdo a lo establecido en el Capítulo 11.",
+    "start_char": 10823,
+    "end_char": 11008
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "5.5",
+    "label": "5.5 Aplicar el método para determinar el tiempo de exposición de los trabajadores, considerando el tipo de",
+    "text": "5.5 Aplicar el método para determinar el tiempo de exposición de los trabajadores, considerando el tipo de\ncondición térmica extrema a la que se expongan, de conformidad con lo que se establece en los capítulos 9 y\n10, según sea el caso.",
+    "start_char": 11013,
+    "end_char": 11250
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "5.6",
+    "label": "5.6 Proporcionar al       POE     el   equipo   de   protección   personal,    según   se   establece   en   la",
+    "text": "5.6 Proporcionar al       POE     el   equipo   de   protección   personal,    según   se   establece   en   la\nNOM-017-STPS-2001.",
+    "start_char": 11253,
+    "end_char": 11383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "5.7",
+    "label": "5.7 Señalar y restringir el acceso a las áreas de exposición a condiciones térmicas extremas, según lo",
+    "text": "5.7 Señalar y restringir el acceso a las áreas de exposición a condiciones térmicas extremas, según lo\nestablecido en la NOM-026-STPS-1998.",
+    "start_char": 11387,
+    "end_char": 11526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "5.8",
+    "label": "5.8 Proporcionar capacitación y adiestramiento al POE en materia de seguridad e higiene, donde se",
+    "text": "5.8 Proporcionar capacitación y adiestramiento al POE en materia de seguridad e higiene, donde se\nincluyan los niveles máximos permisibles y las medidas de control establecidas en el Apartado 5.3, de acuerdo\na la actividad que desempeñen, a fin de evitar daños a la salud, derivados de la exposición a condiciones\ntérmicas extremas.",
+    "start_char": 11531,
+    "end_char": 11863
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "5.9",
+    "label": "5.9 Llevar a cabo la vigilancia a la salud del POE, según lo que establezcan las normas oficiales",
+    "text": "5.9 Llevar a cabo la vigilancia a la salud del POE, según lo que establezcan las normas oficiales\nmexicanas que al respecto emita la Secretaría de Salud. En caso de no existir normatividad de dicha\nSecretaría, el médico de la empresa determinará el contenido de los exámenes médicos y la vigilancia a la\nsalud, según lo establecido en el Apéndice B.\n\f   4         (Cuarta Sección)                  DIARIO OFICIAL            Viernes 14 de junio de 2002",
+    "start_char": 11868,
+    "end_char": 12319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:5-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "5.10",
+    "label": "5.10 En los centros de trabajo en que las condiciones climáticas pueden provocar que la temperatura",
+    "text": "5.10 En los centros de trabajo en que las condiciones climáticas pueden provocar que la temperatura\ncorporal del trabajador sea inferior a 36°C o superior a 38°C, cumplir únicamente con lo establecido en los\nApartados 5.1, 5.2, 5.6 y 5.9.",
+    "start_char": 12324,
+    "end_char": 12562
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "6",
+    "label": "6. Obligaciones del personal ocupacionalmente expuesto",
+    "text": "6. Obligaciones del personal ocupacionalmente expuesto",
+    "start_char": 12566,
+    "end_char": 12620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "6.1",
+    "label": "6.1 Colaborar en las actividades derivadas del reconocimiento, evaluación y control que se requieran.",
+    "text": "6.1 Colaborar en las actividades derivadas del reconocimiento, evaluación y control que se requieran.",
+    "start_char": 12624,
+    "end_char": 12725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "6.2",
+    "label": "6.2 Participar en las actividades de capacitación y adiestramiento en materia de seguridad e higiene,",
+    "text": "6.2 Participar en las actividades de capacitación y adiestramiento en materia de seguridad e higiene,\nestablecidas por el patrón.",
+    "start_char": 12729,
+    "end_char": 12858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "6.3",
+    "label": "6.3 Someterse a los exámenes médicos para valorar los riesgos a su salud, con motivo de la exposición a",
+    "text": "6.3 Someterse a los exámenes médicos para valorar los riesgos a su salud, con motivo de la exposición a\ncondiciones térmicas extremas, y proporcionar verazmente la información que le solicite el médico que realice\ndicho examen.",
+    "start_char": 12863,
+    "end_char": 13090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "6.4",
+    "label": "6.4 En caso de tener síntomas de aumento o decremento de su temperatura corporal, debe notificarlo",
+    "text": "6.4 En caso de tener síntomas de aumento o decremento de su temperatura corporal, debe notificarlo\nal patrón.",
+    "start_char": 13095,
+    "end_char": 13204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7",
+    "label": "7. Reconocimiento, evaluación y control",
+    "text": "7. Reconocimiento, evaluación y control",
+    "start_char": 13208,
+    "end_char": 13247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.1",
+    "label": "7.1 Reconocimiento.",
+    "text": "7.1 Reconocimiento.",
+    "start_char": 13251,
+    "end_char": 13270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.1.1",
+    "label": "7.1.1 Identificar y registrar en un plano de vista de planta del centro de trabajo, todas las fuentes que",
+    "text": "7.1.1 Identificar y registrar en un plano de vista de planta del centro de trabajo, todas las fuentes que\ngeneren condiciones térmicas extremas.",
+    "start_char": 13274,
+    "end_char": 13418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.1.2",
+    "label": "7.1.2 Determinar si en el área donde se ubican las fuentes, el POE se localiza en un lugar cerrado o",
+    "text": "7.1.2 Determinar si en el área donde se ubican las fuentes, el POE se localiza en un lugar cerrado o\nabierto y si existe ventilación natural o artificial.",
+    "start_char": 13422,
+    "end_char": 13576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.1.3",
+    "label": "7.1.3 Elaborar una relación del POE, incluyendo áreas, puestos de trabajo, tiempos y frecuencia de",
+    "text": "7.1.3 Elaborar una relación del POE, incluyendo áreas, puestos de trabajo, tiempos y frecuencia de\nla exposición.",
+    "start_char": 13581,
+    "end_char": 13694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.1.4",
+    "label": "7.1.4 Describir las actividades y ciclos de trabajo que realiza el POE en cada puesto de trabajo.",
+    "text": "7.1.4 Describir las actividades y ciclos de trabajo que realiza el POE en cada puesto de trabajo.",
+    "start_char": 13698,
+    "end_char": 13795
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.2",
+    "label": "7.2 Evaluación.",
+    "text": "7.2 Evaluación.",
+    "start_char": 13799,
+    "end_char": 13814
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.2.1",
+    "label": "7.2.1 Aplicar el procedimiento de evaluación para las condiciones térmicas extremas encontradas,",
+    "text": "7.2.1 Aplicar el procedimiento de evaluación para las condiciones térmicas extremas encontradas,\nconforme a lo establecido en los capítulos 9 o 10, según sea el caso.",
+    "start_char": 13818,
+    "end_char": 13984
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.2.2",
+    "label": "7.2.2 Medir la temperatura axilar del POE al inicio y al término de cada ciclo de exposición.",
+    "text": "7.2.2 Medir la temperatura axilar del POE al inicio y al término de cada ciclo de exposición.",
+    "start_char": 13988,
+    "end_char": 14081
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.2.3",
+    "label": "7.2.3 Con la información obtenida en el Apartado 7.1.4, en caso de exposición a condiciones térmicas",
+    "text": "7.2.3 Con la información obtenida en el Apartado 7.1.4, en caso de exposición a condiciones térmicas\nelevadas, determinar el régimen de trabajo del POE, según lo establecido en la Tabla A1.",
+    "start_char": 14086,
+    "end_char": 14275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.2.4",
+    "label": "7.2.4 Registrar en una hoja de campo o sistema electrónico, por cada trabajador expuesto o grupo de",
+    "text": "7.2.4 Registrar en una hoja de campo o sistema electrónico, por cada trabajador expuesto o grupo de\nexposición homogénea a condiciones térmicas extremas, los siguientes datos:\n   a)   área evaluada;\n   b)   condición térmica extrema evaluada;\n   c)   fecha de la evaluación;\n   d)   nombre del trabajador o grupo evaluado;\n   e)   puesto de trabajo evaluado;\n   f)   tiempo y ciclos de exposición;\n   g)   actividades específicas que realiza el POE en cada ciclo de exposición;\n   h)   si se utiliza equipo de protección personal, describirlo;\n   i)   si existen controles técnicos o administrativos, describirlos;\n   j)   en caso de utilizar equipo de medición electrónico registrar:\n        1)    marca y modelo;\n        2)    número de serie;\n        3)    documento que avale la calibración de los instrumentos de medición, de conformidad con los\n              procedimientos establecidos en la Ley Federal sobre Metrología y Normalización;\n   k)   nombre y firma del evaluador.",
+    "start_char": 14279,
+    "end_char": 15261
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.3",
+    "label": "7.3 Control.",
+    "text": "7.3 Control.\n\f   Viernes 14 de junio de 2002                    DIARIO OFICIAL               (Cuarta Sección)            5",
+    "start_char": 15265,
+    "end_char": 15387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.3.1",
+    "label": "7.3.1 Cuando el resultado del índice de temperatura de globo bulbo húmedo (Itgbh) o el índice de viento frío",
+    "text": "7.3.1 Cuando el resultado del índice de temperatura de globo bulbo húmedo (Itgbh) o el índice de viento frío\n(Ivf), el régimen de trabajo y el tiempo de exposición, indiquen que la exposición de los trabajadores excede los\nLMPE establecidos en las tablas 1 o 2, o la temperatura axilar del trabajador supere los 38°C o esté por abajo\nde 36°C, se deben aplicar medidas de control, a fin de prevenir daños a la salud del POE.\nEn tanto se establezcan dichas medidas de control, los patrones deben adoptar medidas preventivas\ninmediatas que garanticen que no se sigan presentando este tipo de exposiciones, tomando en consideración\nlo siguiente:\n   a)    las características fisiológicas de los trabajadores expuestos;\n   b)    el régimen de trabajo, nivel, tiempo y frecuencia de la exposición;\n   c)    las características de los lugares donde se realiza el trabajo;\n   d)    las características del proceso;\n   e)    las características de las fuentes;\n   f)    las condiciones climatológicas del lugar, por área geográfica y estacionalidad.",
+    "start_char": 15394,
+    "end_char": 16434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.3.2",
+    "label": "7.3.2 Las medidas de control y las medidas preventivas inmediatas mencionadas en el apartado anterior,",
+    "text": "7.3.2 Las medidas de control y las medidas preventivas inmediatas mencionadas en el apartado anterior,\ndeben registrarse en el informe establecido en el Capítulo 11, según sea el caso, y deben ser verificadas por\nel patrón mediante una evaluación posterior al término de su implementación.",
+    "start_char": 16439,
+    "end_char": 16728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.3.3",
+    "label": "7.3.3 Los trabajadores que por primera vez vayan a ser expuestos a condiciones térmicas elevadas, deben",
+    "text": "7.3.3 Los trabajadores que por primera vez vayan a ser expuestos a condiciones térmicas elevadas, deben\ncontar con un periodo continuo mínimo de aclimatación de 6 días, iniciando con el 50% de la exposición total\npermisible durante el primer día, siguiendo con incrementos diarios de 10%, hasta llegar al 100% de la\nexposición total permisible el sexto día. Estos periodos de aclimatación deben ser registrados en el informe de\nevaluación.",
+    "start_char": 16732,
+    "end_char": 17171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.3.4",
+    "label": "7.3.4 Los trabajadores que han estado aclimatados a condiciones térmicas elevadas y que regresen de",
+    "text": "7.3.4 Los trabajadores que han estado aclimatados a condiciones térmicas elevadas y que regresen de\nnueve o más días consecutivos de ausencia, deben someterse a un periodo continuo mínimo de aclimatación\nde 4 días. El periodo de aclimatación, debe iniciar con el 50% de la exposición total permisible el primer día,\nsiguiendo con dos incrementos diarios de 20% y uno de 10% hasta llegar al 100% de la exposición total\npermisible el cuarto día. Estos periodos de aclimatación deben ser registrados en el informe de evaluación.",
+    "start_char": 17176,
+    "end_char": 17701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.3.5",
+    "label": "7.3.5 En las áreas o puestos de trabajo donde el índice de temperatura de globo bulbo húmedo supere los",
+    "text": "7.3.5 En las áreas o puestos de trabajo donde el índice de temperatura de globo bulbo húmedo supere los\n32.2°C, sólo se permitirá una exposición momentánea, siempre y cuando el trabajador se encuentre\ndebidamente protegido de la radiación calorífica y una persona vigile continuamente su actividad.",
+    "start_char": 17705,
+    "end_char": 18003
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-3-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.3.6",
+    "label": "7.3.6 En las áreas o puestos de trabajo donde el índice de viento frío sea inferior a -57°C, todo el cuerpo",
+    "text": "7.3.6 En las áreas o puestos de trabajo donde el índice de viento frío sea inferior a -57°C, todo el cuerpo\ndel POE debe contar con equipo de protección personal que lo mantenga aislado de las condiciones térmicas\nabatidas y equipado con un tubo de respiración que pase bajo la ropa y bajo la pierna para calentar el aire.",
+    "start_char": 18008,
+    "end_char": 18330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-3-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.3.7",
+    "label": "7.3.7 Cuando la temperatura corporal sea igual o mayor a 38°C, se debe retirar de la exposición al",
+    "text": "7.3.7 Cuando la temperatura corporal sea igual o mayor a 38°C, se debe retirar de la exposición al\ntrabajador y someterlo a vigilancia médica.",
+    "start_char": 18335,
+    "end_char": 18477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:7-3-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "7.3.8",
+    "label": "7.3.8 Cuando la temperatura corporal sea igual o menor a 36°C, se debe retirar de la exposición al POE y",
+    "text": "7.3.8 Cuando la temperatura corporal sea igual o menor a 36°C, se debe retirar de la exposición al POE y\nsometerlo a vigilancia médica.",
+    "start_char": 18481,
+    "end_char": 18616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "8",
+    "label": "8. Límites máximos permisibles de exposición",
+    "text": "8. Límites máximos permisibles de exposición",
+    "start_char": 18620,
+    "end_char": 18664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "8.1",
+    "label": "8.1 Condiciones térmicas elevadas. En la Tabla 1 se establecen los tiempos máximos permisibles de",
+    "text": "8.1 Condiciones térmicas elevadas. En la Tabla 1 se establecen los tiempos máximos permisibles de\nexposición y el tiempo mínimo de recuperación para jornadas de trabajo de ocho horas.\n                                                      TABLA 1\n        LIMITES MAXIMOS PERMISIBLES DE EXPOSICION A CONDICIONES TERMICAS ELEVADAS\n         Temperatura máxima en °C de Itgbh\n                 Régimen de trabajo                         Porcentaje del tiempo de exposición y de\n        Ligero       Moderado               Pesado                        no exposición\n         30.0          26.7                  25.0       100% de exposición\n         30.6          27.8                  25.9       75% de exposición\n                                                        25% de recuperación en cada hora\n         31.7             29.4                 27.8     50% de exposición\n                                                        50% de recuperación en cada hora\n         32.2             31.1                 30.0     25% de exposición\n                                                        75% de recuperación en cada hora\n\f   6          (Cuarta Sección)                    DIARIO OFICIAL       Viernes 14 de junio de 2002",
+    "start_char": 18668,
+    "end_char": 19891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "8.2",
+    "label": "8.2 Condiciones térmicas abatidas. En la Tabla 2 se relacionan las temperaturas del índice de viento frío,",
+    "text": "8.2 Condiciones térmicas abatidas. En la Tabla 2 se relacionan las temperaturas del índice de viento frío,\ntiempo de exposición máxima diaria y el tiempo de no exposición.\n                                         TABLA 2\n        LIMITES MAXIMOS PERMISIBLES DE EXPOSICION A CONDICIONES TERMICAS ABATIDAS\n              Temperatura en °C                                Exposición máxima diaria\n   de 0 a -18                               8 horas.\n   Menores de -18 a -34                     4 horas; sujeto a periodos continuos máximos de exposición de\n                                            una hora; después de cada exposición, se debe tener un tiempo\n                                            de no exposición al menos igual al tiempo de exposición.\n   Menores de -34 a -57                     1 hora; sujeto a periodos continuos máximos de 30 minutos;\n                                            después de cada exposición, se debe tener un tiempo de no\n                                            exposición al menos 8 veces mayor que el tiempo de exposición.\n   Menores de -57                           5 minutos.",
+    "start_char": 19897,
+    "end_char": 21020
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9",
+    "label": "9. Método de evaluación para condiciones térmicas elevadas",
+    "text": "9. Método de evaluación para condiciones térmicas elevadas",
+    "start_char": 21024,
+    "end_char": 21082
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.1",
+    "label": "9.1 Principio del método: consiste en aplicar el índice de temperatura de globo bulbo húmedo (Itgbh), medir",
+    "text": "9.1 Principio del método: consiste en aplicar el índice de temperatura de globo bulbo húmedo (Itgbh), medir\nla temperatura axilar del trabajador expuesto, la humedad relativa, la velocidad del aire y determinar el\nrégimen de trabajo.",
+    "start_char": 21087,
+    "end_char": 21320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.2",
+    "label": "9.2 Instrumentación y equipo. Características con las que deben contar los instrumentos de medición y",
+    "text": "9.2 Instrumentación y equipo. Características con las que deben contar los instrumentos de medición y\nequipo para evaluar las condiciones térmicas extremas. Se pueden utilizar instrumentos de medición\nelectrónicos con igual o mayor precisión.",
+    "start_char": 21325,
+    "end_char": 21567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.2.1",
+    "label": "9.2.1 Termómetros de mercurio:",
+    "text": "9.2.1 Termómetros de mercurio:\n   a)    de bulbo seco:\n         1)     con bulbo sensor de 30 ± 5 mm, de 6 ±1 mm de diámetro externo;\n         2)     intervalo de medición de 10°C a 60°C;\n         3)     exactitud de medición de 1°C;\n   b)    de bulbo húmedo:\n         1)     con bulbo sensor de 30 ± 5 mm, de 6 ±1 mm de diámetro externo;\n         2)     intervalo de medición de 5°C a 40°C;\n         3)     exactitud de medición de 0.5°C;\n         4)     el bulbo sensor del termómetro debe estar cubierto totalmente con una funda o malla blanca de\n                algodón, de un material absorbente (de algodón u otro material con las mismas características\n                de humectación);\n         5)     longitud del termómetro cubierto por la funda o malla de algodón: 20 mm. La parte más baja de\n                la funda debe estar sumergida en un recipiente con agua destilada. La longitud libre de la funda\n                en el aire debe ser de 20 mm a 30 mm (separación entre el borde superior del recipiente de\n                agua y el bulbo del termómetro);\n         6)     vaso de precipitado;\n         7)     gotero;\n   c)    de globo:\n         1)     con bulbo sensor de 30 ± 5 mm, de 6 ±1 mm de diámetro externo;\n         2)     intervalo de medición de 20°C a 120°C;\n         3)     exactitud de medición de 1°C;\n         4)     con una esfera de cobre en cuyo centro se localice el bulbo sensor del termómetro; con\n                diámetro exterior de 150 mm; un espesor menor o igual a 1 mm y la superficie exterior pintada\n                de color negro mate, con un coeficiente promedio de emisión de 0.95 (negro mate).",
+    "start_char": 21571,
+    "end_char": 23213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.2.2",
+    "label": "9.2.2 Tripié para soporte de los termómetros.",
+    "text": "9.2.2 Tripié para soporte de los termómetros.",
+    "start_char": 23217,
+    "end_char": 23262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.2.3",
+    "label": "9.2.3 Anemómetro a elegir, según la velocidad del aire:",
+    "text": "9.2.3 Anemómetro a elegir, según la velocidad del aire:\n   a)    anemómetro de copa o veleta con un rango de medición de 0.05 a 150 m/s;\n   b)    termoanemómetro con un rango de medición de 0.03 a 300 m/s.\n\f   Viernes 14 de junio de 2002                DIARIO OFICIAL                 (Cuarta Sección)            7",
+    "start_char": 23266,
+    "end_char": 23579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.2.4",
+    "label": "9.2.4 Estabilización de los instrumentos de medición:",
+    "text": "9.2.4 Estabilización de los instrumentos de medición:\n   a)   los termómetros de globo y bulbo húmedo deben permanecer al menos 30 minutos expuestos en el\n        área de trabajo antes de efectuar la lectura;\n   b)   el termómetro de bulbo húmedo debe humedecerse directamente con agua destilada durante al\n        menos 30 minutos antes de efectuar las mediciones y dejando la malla de algodón inmersa en el\n        agua destilada, de tal manera que siga absorbiendo agua por capilaridad;\n   c)   en el caso de instrumentos electrónicos de mayor precisión, su permanencia debe ser de acuerdo al\n        tiempo de estabilización recomendado por el fabricante.",
+    "start_char": 23584,
+    "end_char": 24243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.3",
+    "label": "9.3 Estrategia de evaluación de las condiciones térmicas elevadas.",
+    "text": "9.3 Estrategia de evaluación de las condiciones térmicas elevadas.",
+    "start_char": 24247,
+    "end_char": 24313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.3.1",
+    "label": "9.3.1 Durante la evaluación, se deben excluir las áreas donde no exista POE y aquéllas en las que el",
+    "text": "9.3.1 Durante la evaluación, se deben excluir las áreas donde no exista POE y aquéllas en las que el\níndice de temperatura de globo bulbo húmedo sea igual o menor al LMPE del régimen de trabajo.",
+    "start_char": 24318,
+    "end_char": 24512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.3.2",
+    "label": "9.3.2 Para cada trabajador o grupo de exposición homogénea en puestos fijos se debe:",
+    "text": "9.3.2 Para cada trabajador o grupo de exposición homogénea en puestos fijos se debe:\n   a)   describir las actividades que desarrolla el POE y determinar el régimen de trabajo (ligero, moderado o\n        pesado) de acuerdo al tipo de actividad que se desarrolla, según lo establecido en la Tabla A.1;\n   b)   medir la temperatura axilar del POE en su puesto de trabajo, antes y después de su jornada, así\n        como la duración de la exposición;\n   c)   la evaluación del índice de temperatura de globo bulbo húmedo se debe realizar lo más cerca posible\n        del POE, sin que la presencia del evaluador interrumpa sus actividades;\n   d)   la evaluación consiste en medir y promediar a tres diferentes alturas la temperatura de globo bulbo\n        húmedo, colocando los instrumentos de medición en:\n        1)   la primera medición, a una altura de 0.10 m ### 0.05 m (región de los tobillos), en relación al\n             plano de sustentación del trabajador;\n        2)   la segunda medición a la altura de la región abdominal a 0.60 m ### 0.05 m, en relación al\n             plano de sustentación del trabajador sentado, y de 1.10 m ### 0.05 m si la actividad es\n             desarrollada\n             de pie;\n        3)   la tercera medición, a la altura de la región superior de la cabeza a 1.10 m ### 0.05 m en\n             relación al plano de sustentación del trabajador sentado, y de 1.70 m ### 0.05 m si desarrolla\n             sus actividades de pie;\n   e)   cuando se realicen evaluaciones a alturas diferentes a las establecidas, se deben registrar y\n        fundamentar las causas que las originaron;\n   f)   la medición se debe realizar al inicio y al final de todos los ciclos de exposición que se generen\n        durante una hora continua de actividades;\n   g)   los resultados obtenidos se deben comparar con los LMPE establecidos en la Tabla 1.",
+    "start_char": 24516,
+    "end_char": 26381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.3.3",
+    "label": "9.3.3 En el caso de tener un grupo de exposición homogénea, se debe ubicar el equipo de medición en el",
+    "text": "9.3.3 En el caso de tener un grupo de exposición homogénea, se debe ubicar el equipo de medición en el\ncentro geométrico del grupo, y realizar la evaluación como se describió en el Apartado 9.3.2.",
+    "start_char": 26385,
+    "end_char": 26581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.3.4",
+    "label": "9.3.4 Para un trabajador o grupo de exposición homogénea en movimiento, se debe proceder según se",
+    "text": "9.3.4 Para un trabajador o grupo de exposición homogénea en movimiento, se debe proceder según se\nestablece en el Apartado 9.3.2, repitiéndose en tres ocasiones:\n   a)   la primera medición se realizará en el lugar donde se inicia la actividad sujeta a exposición;\n   b)   la segunda medición a la mitad de su trayectoria;\n   c)   una tercera medición se realiza al concluir su actividad.\n   En este tipo de exposición homogénea en movimiento, en cada una de las tres mediciones se deben\ncomparar los resultados con la Tabla 1.",
+    "start_char": 26585,
+    "end_char": 27112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.3.5",
+    "label": "9.3.5 Si se tienen diferentes regímenes de trabajo, en cada uno de éstos se debe proceder según lo",
+    "text": "9.3.5 Si se tienen diferentes regímenes de trabajo, en cada uno de éstos se debe proceder según lo\nestablecido en el Apartado 9.3.2.\n\f   8          (Cuarta Sección)                               DIARIO OFICIAL                Viernes 14 de junio de 2002",
+    "start_char": 27116,
+    "end_char": 27368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.4",
+    "label": "9.4 Determinación del índice de temperatura de globo bulbo húmedo.",
+    "text": "9.4 Determinación del índice de temperatura de globo bulbo húmedo.",
+    "start_char": 27373,
+    "end_char": 27439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.4.1",
+    "label": "9.4.1 Una vez concluidas las evaluaciones, se registran los valores obtenidos y se calcula el índice de la",
+    "text": "9.4.1 Una vez concluidas las evaluaciones, se registran los valores obtenidos y se calcula el índice de la\ntemperatura de globo bulbo húmedo por cada punto evaluado mediante la ecuación (1) si la medición se\nrealiza en interiores o exteriores sin carga solar, y mediante la ecuación (2) si la medición se realiza en\nexteriores con carga solar:\n\n    I tgbh = 0.7 tbbhn + 0.3 t g               (1)\n    I tg bh = 0.7 tbhn + 0.2 t g + 0.1 t s                         (2)",
+    "start_char": 27444,
+    "end_char": 27910
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:9-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "9.4.2",
+    "label": "9.4.2 Para obtener             la   temperatura       de     globo     bulbo     húmedo        promedio,   se   debe   aplicar   la",
+    "text": "9.4.2 Para obtener             la   temperatura       de     globo     bulbo     húmedo        promedio,   se   debe   aplicar   la\nsiguiente ecuación:\n\n                                                 I tg bh cabeza + 2 I tg bh abdomen + I tg bh tobillos \n                           I tg bh promedio   =                                                        \n                                                                          4                            \n   Donde:\n   I tgbh cabeza:             Es el índice de temperatura de globo bulbo húmedo, medido en la región de la cabeza.\n   I tgbh abdomen:            Es el índice de temperatura de globo bulbo húmedo, medido en la región del abdomen.\n   I tgbh tobillos:           Es el índice de temperatura de globo bulbo húmedo medido, en la región de\n                              los tobillos.",
+    "start_char": 27915,
+    "end_char": 28772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "10",
+    "label": "10. Método de evaluación para condiciones térmicas abatidas",
+    "text": "10. Método de evaluación para condiciones térmicas abatidas",
+    "start_char": 28776,
+    "end_char": 28835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "10.1",
+    "label": "10.1 Instrumentos de medición que se requieren para evaluar las condiciones térmicas abatidas.",
+    "text": "10.1 Instrumentos de medición que se requieren para evaluar las condiciones térmicas abatidas.",
+    "start_char": 28839,
+    "end_char": 28933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:10-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "10.1.1",
+    "label": "10.1.1 Termómetro de mercurio de bulbo seco:",
+    "text": "10.1.1 Termómetro de mercurio de bulbo seco:\n   a)     con bulbo sensor de 30 ± 5 mm, de 6 ±1 mm de diámetro externo;\n   b)     intervalo de medición -60°C a 20°C;\n   c)     exactitud de medición de 0.5°C.",
+    "start_char": 28937,
+    "end_char": 29142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:10-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "10.1.2",
+    "label": "10.1.2 Anemómetro de copa o veleta.",
+    "text": "10.1.2 Anemómetro de copa o veleta.",
+    "start_char": 29146,
+    "end_char": 29181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "10.2",
+    "label": "10.2 Se deben excluir aquellas áreas donde no exista POE.",
+    "text": "10.2 Se deben excluir aquellas áreas donde no exista POE.",
+    "start_char": 29185,
+    "end_char": 29242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "10.3",
+    "label": "10.3 Para cada trabajador o grupo de exposición homogénea en puestos fijos se debe:",
+    "text": "10.3 Para cada trabajador o grupo de exposición homogénea en puestos fijos se debe:\n   a)     describir las actividades que desarrolla el POE;\n   b)     medir la temperatura axilar del POE en su puesto de trabajo, antes y después de su exposición, así\n          como la duración de la exposición;\n   c)     la evaluación del índice de viento frío se debe realizar lo más cerca posible del trabajador, sin que la\n          presencia del evaluador interrumpa la actividad del POE;\n   d)     la evaluación consiste en medir y correlacionar la temperatura de bulbo seco y la velocidad del aire\n          para calcular el índice de viento frío de acuerdo a la Tabla A. 2;\n   e)     los instrumentos de medición se deben colocar a una altura de 1.40 ### 0.10 metros y se deben\n          tomar tres lecturas: al inicio, a la mitad y al final de cada ciclo de exposición;\n   f)     cuando se realicen evaluaciones a diferentes alturas, se deben registrar y fundamentar las causas\n          que las originaron.",
+    "start_char": 29246,
+    "end_char": 30247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "10.4",
+    "label": "10.4 Análisis de resultados.",
+    "text": "10.4 Análisis de resultados.",
+    "start_char": 30251,
+    "end_char": 30279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:10-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "10.4.1",
+    "label": "10.4.1 Con los valores obtenidos se determina el valor del índice de viento frío promedio, como se indica a",
+    "text": "10.4.1 Con los valores obtenidos se determina el valor del índice de viento frío promedio, como se indica a\ncontinuación:\n\n                                                      I vf inicial + I vf a la mitad + I vf al final   \n                                    I vf promedio =                                                   \n                                                                              3                         \n   Donde:\n          I vf inicial :                  Es el valor promedio del índice del viento frío inicial.\n          I vf a la mitad:                Es el valor promedio del índice del viento frío a la mitad.\n\f   Viernes 14 de junio de 2002                   DIARIO OFICIAL                   (Cuarta Sección)       9\n\n        I vf al final:            Es el valor promedio del índice del viento frío final.",
+    "start_char": 30283,
+    "end_char": 31134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:10-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "10.4.2",
+    "label": "10.4.2 Localización de los puntos evaluados. Una vez determinado el valor del Indice de viento frío",
+    "text": "10.4.2 Localización de los puntos evaluados. Una vez determinado el valor del Indice de viento frío\npromedio, todos los puntos de medición de la zona evaluada se deben identificar con un número progresivo y\nregistrarse en un plano de vista de planta.",
+    "start_char": 31139,
+    "end_char": 31389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:10-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "10.4.3",
+    "label": "10.4.3 Con el resultado del índice de viento frío promedio, se debe determinar el tiempo máximo de",
+    "text": "10.4.3 Con el resultado del índice de viento frío promedio, se debe determinar el tiempo máximo de\nexposición del POE según lo establecido en la Tabla 2.",
+    "start_char": 31393,
+    "end_char": 31546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "11",
+    "label": "11. Registros",
+    "text": "11. Registros\n   Los registros de las condiciones térmicas extremas deben de contener, al menos, lo siguiente:\n   a)   informe descriptivo de las condiciones de operación bajo las cuales se realizó la evaluación;\n   b)   plano de distribución de las zonas, áreas y departamentos evaluados en el que se indique la\n        ubicación de las fuentes, los puntos de medición y el POE;\n   c)   la temperatura axilar del POE;\n   d)   los informes del reconocimiento, evaluación y control, señalados en el Capítulo 7;\n   e)   las medidas preventivas de seguridad e higiene para proteger al POE;\n   f)   nombre y firma del responsable del estudio de evaluación.",
+    "start_char": 31550,
+    "end_char": 32202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "12",
+    "label": "12. Unidades de verificación y laboratorios de pruebas",
+    "text": "12. Unidades de verificación y laboratorios de pruebas",
+    "start_char": 32206,
+    "end_char": 32260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "12.1",
+    "label": "12.1 El patrón tendrá la opción de contratar una unidad de verificación o un laboratorio de pruebas,",
+    "text": "12.1 El patrón tendrá la opción de contratar una unidad de verificación o un laboratorio de pruebas,\nacreditado y aprobado, en los términos de la Ley Federal sobre Metrología y Normalización, para verificar el\ngrado de cumplimiento de la presente Norma.",
+    "start_char": 32264,
+    "end_char": 32517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "12.2",
+    "label": "12.2 Las unidades de verificación podrán verificar el grado de cumplimiento de los apartados 5.2 al 5.10.",
+    "text": "12.2 Las unidades de verificación podrán verificar el grado de cumplimiento de los apartados 5.2 al 5.10.",
+    "start_char": 32521,
+    "end_char": 32626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:12-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "12.3",
+    "label": "12.3 Los laboratorios de pruebas podrán evaluar el contenido del Apartado 7.2.",
+    "text": "12.3 Los laboratorios de pruebas podrán evaluar el contenido del Apartado 7.2.",
+    "start_char": 32630,
+    "end_char": 32708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:12-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "12.4",
+    "label": "12.4 Las unidades de verificación y los laboratorios de pruebas, deben entregar al patrón sus dictámenes e",
+    "text": "12.4 Las unidades de verificación y los laboratorios de pruebas, deben entregar al patrón sus dictámenes e\ninformes de resultados, consignando lo siguiente:\n   12.4.1Para el dictamen de las unidades de verificación:\n   a)   datos del centro de trabajo evaluado:\n        1)      nombre, denominación o razón social;\n        2)      domicilio completo;\n   b)   datos de la unidad de verificación:\n        1)      nombre, denominación o razón social de la unidad de verificación;\n        2)      domicilio completo;\n        3)      número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;\n        4)      clave y nombre de las normas verificadas;\n        5)      resultado de la verificación;\n        6)      lugar y fecha de la firma del dictamen;\n        7)      nombre y firma del representante legal;\n        8)      vigencia del dictamen.",
+    "start_char": 32713,
+    "end_char": 33576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:12-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "12.4.2",
+    "label": "12.4.2 Para el informe de resultados de los laboratorios de pruebas:",
+    "text": "12.4.2 Para el informe de resultados de los laboratorios de pruebas:\n   a)   datos del centro de trabajo evaluado:\n        1)      nombre, denominación o razón social;\n        2)      domicilio completo.\n   b)   datos del laboratorio de pruebas:\n        1)      nombre, denominación o razón social;\n        2)      domicilio completo;\n        3)      número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;\n        4)      nombre y firma del signatario autorizado;\n        5)      lugar y fecha de la firma;\n        6)      conclusiones de la evaluación;\n\f   10            (Cuarta Sección)                     DIARIO OFICIAL           Viernes 14 de junio de 2002\n\n            7)   contenido de los estudios, de acuerdo a lo establecido en los capítulos 9 y 10, según sea\n                 el caso.",
+    "start_char": 33580,
+    "end_char": 34400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:12-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "12.5",
+    "label": "12.5 La vigencia de los dictámenes emitidos por las unidades de verificación y de los informes de",
+    "text": "12.5 La vigencia de los dictámenes emitidos por las unidades de verificación y de los informes de\nresultados de los laboratorios de pruebas será de dos años, mientras se mantengan las condiciones\nde trabajo que sirvieron de referencia para su emisión.",
+    "start_char": 34405,
+    "end_char": 34656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "13",
+    "label": "13. Vigilancia",
+    "text": "13. Vigilancia\n    La vigilancia del cumplimiento de esta Norma Oficial Mexicana corresponde a la Secretaría del Trabajo\ny Previsión Social.",
+    "start_char": 39711,
+    "end_char": 39851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "14",
+    "label": "14. Bibliografía",
+    "text": "14. Bibliografía\n   a)   Constitución Política de los Estados Unidos Mexicanos, artículo 123, Apartado \"A\", fracción XV.\n   b)   Ley Federal del Trabajo, artículos 132, 512 y 527.\n   c)   Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, Título Tercero,\n        Capítulo VI.\n   d)   NOM-008-SCFI-1993, Sistema general de unidades de medida.\n   e)   NOM-011-SCFI-1993,       Instrumentos    de   medición-termómetros     de   líquido   en   vidrio    para\n        usos generales.\n   f)   ISO 7243 Hot Environments-Estimation of the Heat Stress on Working Man, based on the\n        Wbgt-index (wet bulb globe temperature 1992).\n   g)   Work In the Cold-Review of Methods for Assessment of Cold Exposure. Ingvar Holmer. Int Arch\n        Occup Environ Healt (1993).\n   h)   Comparison of Heat Stress Index. Richard S. Brief and Robert G. Confer. American Industrial Hygiene\n        Association Journal (1971).\n   i)   Problemas Relacionados con el Trabajo en Condiciones de Sobrecarga Térmica. Organización\n        Mundial de la Salud. Serie de Informes Técnicos.\n   j)   Ergonomics Guide to Assessment of Metabolic and Cardiac Cost of Physical Work. American\n        Industrial Hygiene Association (1971).\n   k)   Evaluación de la Sobrecarga Térmica en el Ambiente de Trabajo (Och/77.1).\n   l)   Organización Mundial de la Salud. B. Golelzer. O.M.S.",
+    "start_char": 39855,
+    "end_char": 41221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "15",
+    "label": "15. Concordancia con normas internacionales",
+    "text": "15. Concordancia con normas internacionales",
+    "start_char": 41225,
+    "end_char": 41268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-015-stps-2001:clause:15-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+    "number": "15.1",
+    "label": "15.1 La presente Norma coincide de manera parcial con algunos aspectos de la norma internacional ISO",
+    "text": "15.1 La presente Norma coincide de manera parcial con algunos aspectos de la norma internacional ISO\n7243 Hot Environments-Estimation of the Heat Stress on Working Man, based on the Wbgt-index (wet bulb\nglobe temperature 1992).",
+    "start_char": 41272,
+    "end_char": 41499
+  }
+]

@@ -1,0 +1,1022 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n       Establecer los elementos para identificar, analizar, prevenir y controlar los factores de riesgo ergonómico en los centros de\n   trabajo derivados del manejo manual de cargas, a efecto de prevenir alteraciones a la salud de los trabajadores.",
+    "start_char": 6908,
+    "end_char": 7168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n       La presente Norma Oficial Mexicana rige en todo el territorio nacional y aplica en todos los centros de trabajo donde existan\n   trabajadores cuya actividad implique realizar manejo manual de cargas de forma cotidiana (más de una vez al día).",
+    "start_char": 7175,
+    "end_char": 7447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "2.1",
+    "label": "2.1 Esta Norma no aplica en actividades de manejo manual de cargas menores a 3 kg.",
+    "text": "2.1 Esta Norma no aplica en actividades de manejo manual de cargas menores a 3 kg.",
+    "start_char": 7454,
+    "end_char": 7536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n       Para la correcta interpretación de la presente Norma se deberán consultar las siguientes normas oficiales mexicanas vigentes,\n   o las que las sustituyan:",
+    "start_char": 7543,
+    "end_char": 7719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "3.1",
+    "label": "3.1 NOM-017-STPS-2008, Equipo de protección personal-Selección, uso y manejo en los centros de trabajo.",
+    "text": "3.1 NOM-017-STPS-2008, Equipo de protección personal-Selección, uso y manejo en los centros de trabajo.",
+    "start_char": 7726,
+    "end_char": 7829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "3.2",
+    "label": "3.2 NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo - Funciones y actividades.",
+    "text": "3.2 NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo - Funciones y actividades.",
+    "start_char": 7836,
+    "end_char": 7942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n      Para efectos de esta Norma, se consideran las definiciones siguientes:",
+    "start_char": 7949,
+    "end_char": 8041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.1",
+    "label": "4.1 Autoridad laboral: Las unidades administrativas competentes de la Secretaría del Trabajo y Previsión Social que realizan",
+    "text": "4.1 Autoridad laboral: Las unidades administrativas competentes de la Secretaría del Trabajo y Previsión Social que realizan\n   funciones de inspección y vigilancia en materia de seguridad y salud en el trabajo, y las correspondientes de las entidades\n   federativas, que actúen en auxilio de aquéllas.",
+    "start_char": 8048,
+    "end_char": 8350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.2",
+    "label": "4.2 Centro de trabajo: El lugar o lugares, tales como edificios, locales, instalaciones y áreas, donde se realicen actividades de",
+    "text": "4.2 Centro de trabajo: El lugar o lugares, tales como edificios, locales, instalaciones y áreas, donde se realicen actividades de\n   explotación, aprovechamiento, producción, comercialización, transporte y almacenamiento o prestación de servicios, en los que\n   laboren personas que estén sujetas a una relación de trabajo.",
+    "start_char": 8357,
+    "end_char": 8680
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.3",
+    "label": "4.3 Condiciones inseguras: Aquéllas que derivan de la inobservancia o desatención de los procedimientos o medidas de",
+    "text": "4.3 Condiciones inseguras: Aquéllas que derivan de la inobservancia o desatención de los procedimientos o medidas de\n   seguridad, y que pueden conllevar la ocurrencia de incidentes, accidentes y enfermedades de trabajo o daños materiales al centro\n   de trabajo.",
+    "start_char": 8688,
+    "end_char": 8951
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.4",
+    "label": "4.4 Diagnóstico de seguridad y salud en el trabajo: La identificación de las condiciones inseguras o peligrosas; de los",
+    "text": "4.4 Diagnóstico de seguridad y salud en el trabajo: La identificación de las condiciones inseguras o peligrosas; de los\n   agentes físicos, químicos o biológicos o de los factores de riesgo ergonómico o psicosocial capaces de modificar las condiciones\n   del ambiente laboral; de los peligros circundantes al centro de trabajo, así como de los requerimientos normativos en materia de\n   seguridad y salud en el trabajo que resulten aplicables.",
+    "start_char": 8959,
+    "end_char": 9402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.5",
+    "label": "4.5 Empujar, jalar o arrastrar (tracción) cargas: Aquellas actividades o tareas en las que se empuja o arrastra una carga, en",
+    "text": "4.5 Empujar, jalar o arrastrar (tracción) cargas: Aquellas actividades o tareas en las que se empuja o arrastra una carga, en\n   forma manual, con o sin la ayuda de equipos auxiliares, en donde la dirección de la fuerza resultante fundamental es horizontal.\n   Durante la tracción, la fuerza es dirigida hacia el cuerpo y en el empuje, se aleja del cuerpo.",
+    "start_char": 9410,
+    "end_char": 9766
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.6",
+    "label": "4.6 Equipos auxiliares: Los vehículos de una, dos o más ruedas, sin locomoción propia, que se utilizan como apoyo para la",
+    "text": "4.6 Equipos auxiliares: Los vehículos de una, dos o más ruedas, sin locomoción propia, que se utilizan como apoyo para la\n   carga manual en el transporte de material a granel o empaquetado a distancias relativamente cortas, que son soportados\n   parcialmente y/o impulsados por los trabajadores. Para efectos de esta Norma, quedan incluidos como tales las carretillas, diablos\n   y patines, entre otros.",
+    "start_char": 9773,
+    "end_char": 10177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.7",
+    "label": "4.7 Estibar: La acción de apilar materiales o contenedores uno encima de otro, de forma ordenada, a nivel del piso, en",
+    "text": "4.7 Estibar: La acción de apilar materiales o contenedores uno encima de otro, de forma ordenada, a nivel del piso, en\n   tarimas, estructuras o plataformas.\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                                         23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                                  Page 3 of 43",
+    "start_char": 10185,
+    "end_char": 10612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.8",
+    "label": "4.8 Estimación simple del nivel de riesgo; Evaluación rápida: La valoración inicial de las condiciones en que se realiza el",
+    "text": "4.8 Estimación simple del nivel de riesgo; Evaluación rápida: La valoración inicial de las condiciones en que se realiza el\n   manejo manual de cargas, a fin de identificar en forma cualitativa, el nivel de riesgo al que están expuestos los trabajadores.",
+    "start_char": 10621,
+    "end_char": 10875
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.9",
+    "label": "4.9 Evaluación específica del nivel de riesgo: Aquella evaluación de los factores de riesgo ergonómico para determinar la",
+    "text": "4.9 Evaluación específica del nivel de riesgo: Aquella evaluación de los factores de riesgo ergonómico para determinar la\n   magnitud del riesgo derivado de las actividades o tareas de manejo manual de cargas, haciendo uso de métodos que permiten\n   realizar una valoración del riesgo detallada de las condiciones en las que se desarrollan las actividades, tales como: método de\n   levantamiento simple de cargas; método de levantamiento compuesto de cargas; método de levantamiento variable; método de la\n   ecuación de NIOSH, o método de evaluación de actividades para empujar o jalar cargas de acuerdo con la norma ISO-\n   11228-2:2007, entre otros métodos científicamente validados.",
+    "start_char": 10883,
+    "end_char": 11569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.10",
+    "label": "4.10 Fatiga; Fatiga de trabajo: La manifestación mental o física, local o general no-patológica de sobre esfuerzo físico o",
+    "text": "4.10 Fatiga; Fatiga de trabajo: La manifestación mental o física, local o general no-patológica de sobre esfuerzo físico o\n   esfuerzo excesivo, completamente reversible con el descanso.",
+    "start_char": 11576,
+    "end_char": 11762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.11",
+    "label": "4.11 Factores de riesgo ergonómico: Aquéllos que pueden conllevar sobre esfuerzo físico, movimientos repetitivos o",
+    "text": "4.11 Factores de riesgo ergonómico: Aquéllos que pueden conllevar sobre esfuerzo físico, movimientos repetitivos o\n   posturas forzadas en el trabajo desarrollado, con la consecuente fatiga, errores, accidentes y enfermedades de trabajo, derivado\n   del diseño de las instalaciones, maquinaria, equipo, herramientas o puesto de trabajo.",
+    "start_char": 11770,
+    "end_char": 12106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.12",
+    "label": "4.12 Levantar y bajar cargas: Aquellas actividades o tareas realizadas de forma manual, sin ayuda de maquinaria, que",
+    "text": "4.12 Levantar y bajar cargas: Aquellas actividades o tareas realizadas de forma manual, sin ayuda de maquinaria, que\n   producen un momento-fuerza sobre la columna vertebral, y/o extremidades superiores e inferiores, sin importar la dirección. En el\n   levantamiento la fuerza se realiza contra la gravedad y, a favor de ella, al bajar la carga.",
+    "start_char": 12114,
+    "end_char": 12459
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.13",
+    "label": "4.13 Trastorno músculo-esquelético laboral: Aquella lesión y enfermedad del sistema osteomuscular y del tejido conjuntivo",
+    "text": "4.13 Trastorno músculo-esquelético laboral: Aquella lesión y enfermedad del sistema osteomuscular y del tejido conjuntivo\n   causadas por la exposición laboral a factores de riesgo ergonómico.",
+    "start_char": 12466,
+    "end_char": 12658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.14",
+    "label": "4.14 Manejo manual de cargas; Carga manual: La actividad que desarrolla uno o varios trabajadores para levantar, bajar,",
+    "text": "4.14 Manejo manual de cargas; Carga manual: La actividad que desarrolla uno o varios trabajadores para levantar, bajar,\n   empujar, jalar, transportar y/o estibar materiales, empleando su fuerza física utilizando o no equipo auxiliar. Se considera como\n   carga aquélla con una masa mayor o igual a 3 kg.",
+    "start_char": 12665,
+    "end_char": 12969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.15",
+    "label": "4.15 Maquinaria: El conjunto de máquinas, vehículos o equipos que se emplean para levantar, bajar, jalar, trasladar,",
+    "text": "4.15 Maquinaria: El conjunto de máquinas, vehículos o equipos que se emplean para levantar, bajar, jalar, trasladar,\n   transportar y/o estibar materiales. Para efectos de la presente Norma, quedan incluidos como tales los polipastos, malacates,\n   montacargas, grúas, transportadores, cargadores frontales o una combinación de éstos.",
+    "start_char": 12977,
+    "end_char": 13311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.16",
+    "label": "4.16 Medidas de control: Aquellas medidas de prevención y/o corrección de naturaleza técnica o administrativa que se",
+    "text": "4.16 Medidas de control: Aquellas medidas de prevención y/o corrección de naturaleza técnica o administrativa que se\n   adoptan para reducir o eliminar el sobre esfuerzo físico por el trabajo desarrollado.",
+    "start_char": 13318,
+    "end_char": 13523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.17",
+    "label": "4.17 Modo seguro; manera segura: La realización de actividades cumpliendo con los procedimientos y medidas de",
+    "text": "4.17 Modo seguro; manera segura: La realización de actividades cumpliendo con los procedimientos y medidas de\n   seguridad determinadas por las normas oficiales mexicanas y las dispuestas por el patrón.",
+    "start_char": 13530,
+    "end_char": 13732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.18",
+    "label": "4.18 Nivel de riesgo: La jerarquización de la probabilidad de que ocurra un daño.",
+    "text": "4.18 Nivel de riesgo: La jerarquización de la probabilidad de que ocurra un daño.",
+    "start_char": 13739,
+    "end_char": 13820
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.19",
+    "label": "4.19 Personal ocupacionalmente expuesto: Aquellos trabajadores que en ejercicio y con motivo de su ocupación están",
+    "text": "4.19 Personal ocupacionalmente expuesto: Aquellos trabajadores que en ejercicio y con motivo de su ocupación están\n   expuestos a factores de riesgo ergonómico, derivados de la ejecución de actividades que involucren manejo manual de cargas.",
+    "start_char": 13827,
+    "end_char": 14068
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.20",
+    "label": "4.20 Período de descanso: El tiempo que se otorga después de realizar una actividad o entre un grupo de actividades de",
+    "text": "4.20 Período de descanso: El tiempo que se otorga después de realizar una actividad o entre un grupo de actividades de\n   manejo manual de cargas (el tiempo se calcula en minutos).",
+    "start_char": 14074,
+    "end_char": 14254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.21",
+    "label": "4.21 Período de recuperación: El tiempo que permite la restauración de la función músculo esquelética del trabajador, y que",
+    "text": "4.21 Período de recuperación: El tiempo que permite la restauración de la función músculo esquelética del trabajador, y que\n   se otorga cuando existen evidencias que denotan una afectación de la salud del trabajador debido al manejo manual de cargas o\n   cuando se presenta un trastorno músculo-esquelético laboral.",
+    "start_char": 14261,
+    "end_char": 14577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.22",
+    "label": "4.22 Riesgo: La correlación de la peligrosidad de uno o varios factores y la exposición de los trabajadores con la posibilidad",
+    "text": "4.22 Riesgo: La correlación de la peligrosidad de uno o varios factores y la exposición de los trabajadores con la posibilidad\n   de causar efectos adversos para su vida, integridad física o salud, o dañar al centro de trabajo.",
+    "start_char": 14584,
+    "end_char": 14811
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-23",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.23",
+    "label": "4.23 Servicios Preventivos de Seguridad y Salud en el Trabajo: Aquéllos prestados por personal capacitado, ya sea",
+    "text": "4.23 Servicios Preventivos de Seguridad y Salud en el Trabajo: Aquéllos prestados por personal capacitado, ya sea\n   interno, externo o mixto, cuyo propósito principal es prevenir los accidentes y enfermedades de trabajo, mediante el cumplimiento\n   de la normativa en materia de seguridad y salud en el trabajo. Se entiende por internos, los proporcionados por el patrón o\n   personal del centro de trabajo; externos, los prestados por personal independiente al centro de trabajo, y mixtos, los\n   proporcionados tanto por personal interno como por personal independiente al centro de trabajo.",
+    "start_char": 14819,
+    "end_char": 15413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.24",
+    "label": "4.24 Sobre esfuerzo físico: La consecuencia de aplicar una fuerza que supera la capacidad del trabajador, excediendo los",
+    "text": "4.24 Sobre esfuerzo físico: La consecuencia de aplicar una fuerza que supera la capacidad del trabajador, excediendo los\n   límites de fuerza, frecuencia, duración y/o postura, para realizar carga manual (levantar, bajar, empujar, jalar, transportar y/o\n   estibar materiales) y que puede provocar un trastorno músculo-esquelético laboral.",
+    "start_char": 15421,
+    "end_char": 15760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-25",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.25",
+    "label": "4.25 Transportar cargas: Aquellas actividades o tareas que consisten en mover una carga horizontalmente mientras se",
+    "text": "4.25 Transportar cargas: Aquellas actividades o tareas que consisten en mover una carga horizontalmente mientras se\n   sostiene únicamente mediante la fuerza humana (de forma manual).",
+    "start_char": 15767,
+    "end_char": 15950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:4-26",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "4.26",
+    "label": "4.26 Vigilancia a la salud de los trabajadores: La actividad sistemática realizada por el médico, cuya finalidad es verificar",
+    "text": "4.26 Vigilancia a la salud de los trabajadores: La actividad sistemática realizada por el médico, cuya finalidad es verificar\n   las condiciones de salud del personal al inicio de su vida laboral, a fin de determinar si existe algún impedimento para\n   desempeñar el puesto, así como vigilar periódicamente si su salud ha sufrido alteraciones que requieran una nueva valoración\n   para continuar desempeñando sus actividades.",
+    "start_char": 15958,
+    "end_char": 16383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 16390,
+    "end_char": 16416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "5.1",
+    "label": "5.1 Contar con el análisis de los factores de riesgo ergonómico debido al manejo manual de cargas, con base en lo dispuesto",
+    "text": "5.1 Contar con el análisis de los factores de riesgo ergonómico debido al manejo manual de cargas, con base en lo dispuesto\n   por el Capítulo 7 de la presente Norma.",
+    "start_char": 16424,
+    "end_char": 16590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "5.2",
+    "label": "5.2 Adoptar medidas de prevención y/o control para reducir o eliminar los factores de riesgo ergonómico en el centro de",
+    "text": "5.2 Adoptar medidas de prevención y/o control para reducir o eliminar los factores de riesgo ergonómico en el centro de\n   trabajo debido al manejo manual de cargas, de acuerdo con lo establecido por el Capítulo 8 de esta Norma.",
+    "start_char": 16598,
+    "end_char": 16826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "5.3",
+    "label": "5.3 Efectuar la vigilancia a la salud de los trabajadores ocupacionalmente expuestos conforme a lo dispuesto por el Capítulo 9",
+    "text": "5.3 Efectuar la vigilancia a la salud de los trabajadores ocupacionalmente expuestos conforme a lo dispuesto por el Capítulo 9\n   de la presente Norma.",
+    "start_char": 16834,
+    "end_char": 16985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "5.4",
+    "label": "5.4 Informar a los trabajadores sobre las posibles alteraciones a la salud por el manejo manual de cargas.",
+    "text": "5.4 Informar a los trabajadores sobre las posibles alteraciones a la salud por el manejo manual de cargas.\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                                       23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                                    Page 4 of 43",
+    "start_char": 16992,
+    "end_char": 17368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "5.5",
+    "label": "5.5 Proporcionar capacitación y adiestramiento al personal ocupacionalmente expuesto sobre los procedimientos de seguridad",
+    "text": "5.5 Proporcionar capacitación y adiestramiento al personal ocupacionalmente expuesto sobre los procedimientos de seguridad\n   y las prácticas de trabajo seguro, y en su caso, en las medidas de prevención y/ o control, de conformidad con lo señalado por el\n   Capítulo 10 de esta Norma.",
+    "start_char": 17379,
+    "end_char": 17664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "5.6",
+    "label": "5.6 Llevar los registros sobre las medidas preventivas adoptadas y los exámenes médicos practicados.",
+    "text": "5.6 Llevar los registros sobre las medidas preventivas adoptadas y los exámenes médicos practicados.",
+    "start_char": 17671,
+    "end_char": 17771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "6",
+    "label": "6. Obligaciones de los trabajadores",
+    "text": "6. Obligaciones de los trabajadores",
+    "start_char": 17778,
+    "end_char": 17813
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "6.1",
+    "label": "6.1 Observar las medidas de prevención y/o control, así como los procedimientos de seguridad y las prácticas de trabajo",
+    "text": "6.1 Observar las medidas de prevención y/o control, así como los procedimientos de seguridad y las prácticas de trabajo\n   seguro que dispone esta Norma, y/o que establezca el patrón para la prevención de riesgos.",
+    "start_char": 17820,
+    "end_char": 18033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "6.2",
+    "label": "6.2 Dar aviso de inmediato al patrón y/o a la comisión de seguridad e higiene sobre las condiciones inseguras que adviertan",
+    "text": "6.2 Dar aviso de inmediato al patrón y/o a la comisión de seguridad e higiene sobre las condiciones inseguras que adviertan\n   durante el desarrollo de sus actividades.",
+    "start_char": 18040,
+    "end_char": 18208
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "6.3",
+    "label": "6.3 Mantener ordenados, limpios y libres de obstáculos sus lugares de trabajo y áreas comunes.",
+    "text": "6.3 Mantener ordenados, limpios y libres de obstáculos sus lugares de trabajo y áreas comunes.",
+    "start_char": 18215,
+    "end_char": 18309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "6.4",
+    "label": "6.4 Desempeñar su trabajo de manera segura para evitar riesgos.",
+    "text": "6.4 Desempeñar su trabajo de manera segura para evitar riesgos.",
+    "start_char": 18316,
+    "end_char": 18379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "6.5",
+    "label": "6.5 Participar en la capacitación, adiestramiento y eventos de información que proporcione el patrón.",
+    "text": "6.5 Participar en la capacitación, adiestramiento y eventos de información que proporcione el patrón.",
+    "start_char": 18386,
+    "end_char": 18487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:6-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "6.6",
+    "label": "6.6 Informar al patrón sobre las afectaciones a su salud o sus posibles limitaciones para la realización de sus actividades.",
+    "text": "6.6 Informar al patrón sobre las afectaciones a su salud o sus posibles limitaciones para la realización de sus actividades.",
+    "start_char": 18494,
+    "end_char": 18618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:6-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "6.7",
+    "label": "6.7 Cumplir con someterse a los exámenes médicos que determinan la presente Norma y/o el médico de la empresa conforme",
+    "text": "6.7 Cumplir con someterse a los exámenes médicos que determinan la presente Norma y/o el médico de la empresa conforme\n   a lo dispuesto en el Capítulo 9 de la presente Norma.",
+    "start_char": 18626,
+    "end_char": 18801
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "7",
+    "label": "7. Análisis de los factores de riesgo ergonómico debido al manejo manual de cargas",
+    "text": "7. Análisis de los factores de riesgo ergonómico debido al manejo manual de cargas",
+    "start_char": 18808,
+    "end_char": 18890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "7.1",
+    "label": "7.1 El análisis de los factores de riesgo ergonómico debido al manejo manual de cargas que elaboren los centros de trabajo",
+    "text": "7.1 El análisis de los factores de riesgo ergonómico debido al manejo manual de cargas que elaboren los centros de trabajo\n   deberá estar integrado por:\n      a)   La identificación de las actividades que conlleven factores de riesgo ergonómico debido a manejo manual de cargas, es\n           decir, que implique levantar, bajar, transportar, empujar, jalar y/o estibar materiales, conforme al numeral 7.2 de la\n           presente Norma;\n      b)   La estimación simple del nivel de riesgo o evaluación rápida de las actividades identificadas, de acuerdo con lo señalado\n           en el numeral 7.3 de esta Norma, y\n      c)   La evaluación específica del nivel de riesgo, cuando el resultado de la evaluación rápida no permita determinar el nivel de\n           riesgo o condiciones aceptables y/o cuando a pesar de la implementación de medidas correctivas siga existiendo algún\n           peligro para el trabajador.\n           Los centros de trabajo podrán aplicar una evaluación específica directamente, en ese caso no será necesario realizar la\n           estimación del nivel de riesgo a que se refiere el inciso anterior.\n           Ver Guía de referencia I.",
+    "start_char": 18897,
+    "end_char": 20064
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "7.2",
+    "label": "7.2 La identificación de los factores de riesgo ergonómico debido al manejo manual de cargas deberá considerar, al menos, lo",
+    "text": "7.2 La identificación de los factores de riesgo ergonómico debido al manejo manual de cargas deberá considerar, al menos, lo\n   siguiente:\n      a)   La identificación de la actividad, tarea o puesto de trabajo que conllevan manejo manual de cargas: levantar, bajar,\n           empujar, jalar, transportar y/o estibar materiales;\n      b)   La descripción de las actividades;\n      c)   Los trabajadores involucrados en la realización de estas actividades (personal ocupacionalmente expuesto);\n      d)   La frecuencia con que se realiza la actividad, y\n      e)   El tiempo de duración de las actividades.",
+    "start_char": 20072,
+    "end_char": 20678
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "7.3",
+    "label": "7.3 La estimación del nivel de riesgo debido al manejo manual de cargas de las actividades identificadas en el numeral",
+    "text": "7.3 La estimación del nivel de riesgo debido al manejo manual de cargas de las actividades identificadas en el numeral\n   anterior, deberá realizarse:\n      a)   Conforme al Apéndice I, para actividades que impliquen levantar, bajar, o transportar cargas, o\n      b)   De acuerdo con el Apéndice II, para actividades que impliquen empujar y jalar o arrastrar materiales, con o sin la ayuda\n           de equipo auxiliar.\n           Ver Guía de referencia I.",
+    "start_char": 20685,
+    "end_char": 21142
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "7.4",
+    "label": "7.4 El análisis de los factores de riesgo ergonómico debido al manejo manual de cargas deberá constar en un informe que",
+    "text": "7.4 El análisis de los factores de riesgo ergonómico debido al manejo manual de cargas deberá constar en un informe que\n   contenga lo siguiente:\n      a)   Datos del centro de trabajo:\n           1)   Nombre, denominación o razón social;\n\n\n           2)   Domicilio completo, y\n           3)   Actividad principal;\n      b)   Las actividades realizadas en el centro de trabajo que conllevan exposición a factores de riesgo ergonómico debido al\n           manejo manual de cargas sujetas al análisis;\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                                         23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                                    Page 5 of 43\n\n\n\n      c)   El resultado de la estimación del riesgo a que se refiere el numeral 7.3 y, en su caso, el resultado de la evaluación\n           específica, cuando se determine que no se requiere esta evaluación, señalar porqué se llegó a esa conclusión;\n      d)   Las conclusiones derivadas de la identificación y análisis;\n      e)   Las recomendaciones y acciones de prevención y/o control, y\n      f)   Los datos del responsable de la elaboración:\n           1)   Nombre completo;\n           2)   Número de cédula profesional, y\n           3)   La información de los documentos que avalen su capacitación, en el análisis de factores de riesgo ergonómico\n                debido al manejo manual de cargas cuando se realice una evaluación específica.",
+    "start_char": 21149,
+    "end_char": 22673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "7.5",
+    "label": "7.5 El análisis de los factores de riesgo ergonómico debido al manejo manual de cargas deberá estar disponible para los",
+    "text": "7.5 El análisis de los factores de riesgo ergonómico debido al manejo manual de cargas deberá estar disponible para los\n   trabajadores que participen o realicen actividades de manejo manual de cargas.",
+    "start_char": 22681,
+    "end_char": 22882
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:7-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "7.6",
+    "label": "7.6 El análisis de los factores de riesgo ergonómico debido al manejo manual de cargas deberá revisarse, actualizarse o",
+    "text": "7.6 El análisis de los factores de riesgo ergonómico debido al manejo manual de cargas deberá revisarse, actualizarse o\n   modificarse cuando:\n      a)   Se modifiquen las condiciones en las que se realiza la actividad, y/o\n      b)   Se detecte alguna alteración a la salud de los trabajadores ocupacionalmente expuestos o se presente un trastorno\n           músculo-esquelético laboral.",
+    "start_char": 22888,
+    "end_char": 23276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:7-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "7.7",
+    "label": "7.7 El análisis de los factores de riesgo ergonómico debido al manejo manual de cargas deberá integrarse al diagnóstico de",
+    "text": "7.7 El análisis de los factores de riesgo ergonómico debido al manejo manual de cargas deberá integrarse al diagnóstico de\n   seguridad y salud en el trabajo, a que se refiere la NOM-030-STPS-2009, o las que la sustituyan.",
+    "start_char": 23283,
+    "end_char": 23505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "8",
+    "label": "8. Medidas de prevención y/o control de los factores de riesgo ergonómico por el manejo manual de cargas",
+    "text": "8. Medidas de prevención y/o control de los factores de riesgo ergonómico por el manejo manual de cargas",
+    "start_char": 23512,
+    "end_char": 23616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "8.1",
+    "label": "8.1 Las actividades de manejo manual de cargas deberán ser realizadas por trabajadores que cuenten con aptitud física",
+    "text": "8.1 Las actividades de manejo manual de cargas deberán ser realizadas por trabajadores que cuenten con aptitud física\n   avalada por un médico o a través de una institución de seguridad social o privada.",
+    "start_char": 23623,
+    "end_char": 23826
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "8.2",
+    "label": "8.2 Para desarrollar actividades que involucren manejo manual de cargas, se deberá contar con un procedimiento de",
+    "text": "8.2 Para desarrollar actividades que involucren manejo manual de cargas, se deberá contar con un procedimiento de\n   seguridad, que contemple:\n      a)   La descripción de la técnica adecuada para realizar las actividades de forma segura, considerando: la fuerza aplicada;\n           distancias: horizontal y vertical; cantidad de movimientos por minuto (frecuencia); el tiempo total de la actividad\n           (duración), y posturas con que deberán efectuarse las actividades;\n      b)   Las medidas de seguridad y, en su caso, de control que se deberán aplicar en el desarrollo las actividades;\n      c)   Las características de la carga, por ejemplo, dimensiones, agarre, forma, peso, estabilidad;\n      d)   Las condiciones del ambiente que puedan incrementar el esfuerzo del trabajador y/o generar una situación de peligro;\n      e)   La trayectoria para el transporte de las cargas, en su caso, subiendo o bajando escaleras, rampas inclinadas,\n           plataformas, vehículos, tránsito sobre superficies resbalosas o con obstáculos que puedan generar riesgo de caídas, y\n      f)   Las características de materiales que se manejen, en su caso, con énfasis en los peligrosos tales como: tóxicos,\n           irritantes, corrosivos, inflamables, explosivos, reactivos, con riesgo biológico, temperatura elevada o abatida, entre otros.",
+    "start_char": 23833,
+    "end_char": 25172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "8.3",
+    "label": "8.3 Para realizar actividades que impliquen manejo manual de cargas se deberán adoptar las medidas de prevención o de",
+    "text": "8.3 Para realizar actividades que impliquen manejo manual de cargas se deberán adoptar las medidas de prevención o de\n   seguridad siguientes:\n      a)   Medidas de seguridad generales:\n\n\n           1)   Supervisar que se realicen en condiciones seguras, con base en el procedimiento a que alude el numeral 8.2, de\n                esta Norma;\n           2)   Realizar ejercicios o movimientos de calentamiento antes de iniciar las actividades;\n           3)   Mantener las áreas de tránsito y de trabajo libres de obstáculos;\n           4)   Conservar orden y limpieza en el lugar de trabajo;\n           5)   Establecer, en su caso, períodos de descanso;\n           6)   Asegurar que la carga tenga elementos de sujeción, según aplique;\n           7)   Revisar que las actividades aledañas o cercanas no impliquen un riesgo para el trabajador que las realiza;\n           8)   Aplicar las medidas de seguridad que se requieran conforme a los materiales, procesos, equipos, herramienta y\n                maquinaria que se utilicen, y\n           9)   Proporcionar la ropa y el equipo de protección personal, conforme a lo previsto por la NOM-017-STPS-2008, o las\n                que la sustituyan, tal como respiradores y guantes, a los trabajadores que realicen actividades de carga de:\n                 I.    Materiales o contenedores con aristas cortantes, rebabas, astillas, puntas agudas, clavos u otros salientes\n                       peligrosos;\n                 II.   Materiales con temperaturas extremas, y/o\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                                          23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                                           Page 6 of 43\n\n\n\n                   III.   Contenedores con sustancias irritantes, corrosivas o tóxicas.\n     b)    Medidas de seguridad para el levantamiento y transporte de cargas:\n              1)   Prohibir que las mujeres en estado de gestación, y durante las primeras 10 semanas posteriores al parto, realicen\n                   actividades de manejo de materiales de forma manual que impliquen cargas de más de 10 kg, posturas forzadas, o\n                   con movimientos repetitivos por períodos prolongados, que impliquen esfuerzo abdominal o de miembros inferiores.\n                   La masa máxima real que podrán cargar deberá determinarse considerando su estado de salud avalado por un\n                   médico, así como factores tales como frecuencia, distancia, posición de la carga, agarre, masa acumulada, entre\n                   otros.\n              2)   Verificar que para levantar y/o bajar cargas no rebasen las masas que señala la Tabla 1 siguiente:\n                                                                      Tabla 1\n                                Masa máxima que puede levantar o bajar un trabajador por edad y género\n\n       Masa\n                                                                    Edad\n      máxima                      Género\n                                                                  (en años)\n          kg\n\n                                Femenino\n          7                                                    Menores de 18\n                                Masculino\n          15                    Femenino                       Mayores de 45*\n          20                    Femenino                        Entre 18 y 45\n                                Masculino                      Mayores de 45*\n          25                    Masculino                       Entre 18 a 45\n\n\n                   La masa máxima real que podrán levantar y/o bajar cargas los trabajadores deberá determinarse a partir de los\n                   valores indicados en la Tabla 1, considerando factores tales como frecuencia, distancia, posición de la carga,\n                   agarre, masa acumulada, entre otros, pero no deberá rebasar el límite indicado en esta Tabla 1.\n\n\n                   (*) La masa máxima que podrán levantar y/o bajar los trabajadores mayores de 45 años, deberá determinarse previa\n                    evaluación de la aptitud física realizada por un médico. Si su condición física lo permite y el médico lo avala, podrán\n                    cargar hasta el límite máximo correspondiente a los trabajadores de entre 18 y 45 años de edad.\n              3)   Efectuar el manejo manual de materiales cuyo peso sea superior a lo que determina la Tabla 1 o su longitud dificulte\n                   el transporte, mediante:\n                   I.     La integración de grupos de carga considerando que la capacidad de carga de un equipo de dos personas\n                           será dos terceras partes de la suma de sus capacidades individuales, y para un equipo de tres personas, la\n                           capacidad de carga será la mitad de la suma de sus capacidades individuales, y asegurar que exista\n                           coordinación y comunicación entre los miembros de éste;\n                   II.    La utilización de equipos auxiliares manuales (carretillas, diablos, patines, etc.), o bien utilizar maquinaria, o\n                   III.   La división de las cargas en bultos, envases, sacos o paquetes más pequeños y ligeros.\n              4)   Trasladar los barriles o tambos, a través del uso de maquinaria o equipo auxiliar, cuando se trasporten rodando o\n                   cuando se trasladen girando sobre su base y el resultado del análisis así lo indique, y\n              5)   Asegurar que en ningún caso se exceda de 10,000 kg/jornada de 8 horas de masa acumulada total de transporte\n                   manual de cargas para distancias menores a 10 m, o de 6,000 kg/jornada de 8 horas de masa acumulada total de\n                   transporte manual de cargas en una distancia no mayor a 20 m;\n     c)    Medidas de seguridad para empujar o jalar de cargas, con o sin ayuda de equipo auxiliar:\n              1)   Asegurar la estabilidad de la carga durante su traslado;\n              2)   Tener una visión completa sobre y alrededor de la carga;\n              3)   Verificar que la carga no exceda la capacidad nominal del equipo auxiliar que se utilice;\n              4)   Revisar que el equipo auxiliar se encuentre en condiciones seguras de operación antes del inicio de las actividades;\n              5)   Comprobar antes de realizar la actividad que la superficie del suelo no se encuentra en malas condiciones o\n                   represente un riesgo para la operación de las ruedas del equipo auxiliar que se utilice;\n              6)   Asegurar la compatibilidad entre las características de las ruedas y el tipo de superficie del suelo;\n              7)   Revisar, de forma previa, que el espacio para girar o maniobrar corresponda a las dimensiones de la carga, en\n                   especial en pasillos angostos;\n              8)   Asegurar que la ropa o el equipo de protección personal permite realizar con seguridad el movimiento;\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                                                 23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                                   Page 7 of 43\n\n\n\n           9)   Evitar paradas y maniobras frecuentes, cuando se esté jalando o empujando un objeto, así como movimientos\n                bruscos y de larga duración;\n           10) Evitar la aplicación de fuerzas iniciales y sostenidas de forma frecuente y de tiempo prolongado;\n           11) Evitar trayectorias por pisos ranurados, deteriorados o resbalosos;\n           12) Evitar rampas, pendientes o superficies desniveladas en la trayectoria, cuando esto no sea posible, jalar el equipo\n               con ruedas, como el diablo, patín o carretilla en el mismo sentido del ascenso al subir una pendiente, y en sentido\n               opuesto al del descenso al bajar, con el objeto de evitar que la carga represente un riesgo, y\n           13) Eliminar los obstáculos y objetos que pueden representar peligro de tropiezo;",
+    "start_char": 25179,
+    "end_char": 33317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:8-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "8.4",
+    "label": "8.4 Los centros de trabajo deberán adoptar medidas de control sólo en aquellos casos en que el análisis de los factores de",
+    "text": "8.4 Los centros de trabajo deberán adoptar medidas de control sólo en aquellos casos en que el análisis de los factores de\n   riesgo ergonómico así lo indique. Las medidas de control técnicas y/o administrativas de los factores de riesgo ergonómico\n   deberán aplicarse mediante un Programa de ergonomía para el manejo manual de cargas, que para tal efecto se elabore.",
+    "start_char": 33325,
+    "end_char": 33693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:8-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "8.5",
+    "label": "8.5 El programa de ergonomía para el manejo manual de cargas deberá contener:",
+    "text": "8.5 El programa de ergonomía para el manejo manual de cargas deberá contener:\n      a)   Los puestos de trabajo sujetos al programa;\n      b)   Las medidas de control técnicas y/o administrativas que deberán adoptarse;\n\n\n      c)   Las fechas programadas para su su ejecución; mismas que no deberán ser mayor a un año;\n      d)   El control de los avances de la implementación del programa;\n      e)   El responsable de su ejecución, y\n      f)   La evaluación posterior a la aplicación de las medidas de control.",
+    "start_char": 33700,
+    "end_char": 34213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:8-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "8.6",
+    "label": "8.6 Las medidas de control administrativas se deberán adoptar con el fin de proteger la salud del personal ocupacionalmente",
+    "text": "8.6 Las medidas de control administrativas se deberán adoptar con el fin de proteger la salud del personal ocupacionalmente\n   expuesto, y podrán contemplar, entre otras, las siguientes:\n      1)   La limitación de los tiempos y frecuencias en los que se realizan las actividades;\n      2)   La programación de períodos de descanso;\n      3)   La reprogramación y diversificación de actividades, o\n      4)   La rotación de actividades.",
+    "start_char": 34220,
+    "end_char": 34656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:8-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "8.7",
+    "label": "8.7 Las medidas de control técnicas por adoptar podrán comprender, entre otras, las siguientes:",
+    "text": "8.7 Las medidas de control técnicas por adoptar podrán comprender, entre otras, las siguientes:\n      a)   La modificación de los procedimientos de trabajo;\n      b)   La modificación, adecuación o sustitución de las instalaciones, procesos, maquinaria y equipos, y\n      c)   El acondicionamiento, redistribución física de las instalaciones, procesos, maquinaria y equipos.",
+    "start_char": 34663,
+    "end_char": 35037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "9",
+    "label": "9. Vigilancia a la salud de los trabajadores",
+    "text": "9. Vigilancia a la salud de los trabajadores",
+    "start_char": 35044,
+    "end_char": 35088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "9.1",
+    "label": "9.1 La vigilancia a la salud del personal ocupacionalmente expuesto se deberá realizar por medio de un programa que para tal",
+    "text": "9.1 La vigilancia a la salud del personal ocupacionalmente expuesto se deberá realizar por medio de un programa que para tal\n   efecto se elabore.",
+    "start_char": 35095,
+    "end_char": 35241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "9.2",
+    "label": "9.2 El programa para la vigilancia a la salud de los trabajadores ocupacionalmente expuestos deberá considerar al menos, lo",
+    "text": "9.2 El programa para la vigilancia a la salud de los trabajadores ocupacionalmente expuestos deberá considerar al menos, lo\n   siguiente:\n      a)   La aplicación de exámenes médicos iniciales para integrar la historia clínica laboral;\n      b)   La práctica de exámenes médicos de acuerdo con la actividad específica de los trabajadores, sujeta al seguimiento\n           clínico anual o a la evidencia de signos o síntomas que denoten un posible trastorno músculo-esquelético laboral.\n           La detección y análisis de trabajadores que presentan signos o síntomas debido a un posible trastorno músculo-\n           esquelético laboral, se podrá realizar mediante la aplicación del Cuestionario Nórdico de Kuorinka (Nordic questionnaires\n           for the analysis of musculoskeletal symptoms, ver Guía de referencia II).\n           Los exámenes médicos deberán efectuarse de conformidad con lo establecido por las normas oficiales mexicanas que al\n           respecto emitan la Secretaría de Salud y/o la Secretaría del Trabajo y Previsión Social, y a falta de éstas, los que indique\n           la institución de seguridad social o de salud, el médico de la empresa, o la institución privada que le preste el servicio\n           médico al centro de trabajo, y\n      c)   La aplicación de las acciones preventivas y correctivas para la protección de la salud de los trabajadores que realizan\n           actividades o tareas del manejo manual de cargas, deberá efectuarse con base en los factores de riesgo ergonómico\n           evaluados y como resultado de los exámenes médicos practicados.",
+    "start_char": 35249,
+    "end_char": 36844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "9.3",
+    "label": "9.3 La vigilancia a la salud de los trabajadores deberá ser efectuada por un médico, con conocimientos en medicina del",
+    "text": "9.3 La vigilancia a la salud de los trabajadores deberá ser efectuada por un médico, con conocimientos en medicina del\n   trabajo.",
+    "start_char": 36852,
+    "end_char": 36982
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "9.4",
+    "label": "9.4 Los exámenes médicos practicados y su registro, así como las acciones preventivas y correctivas para la vigilancia a la",
+    "text": "9.4 Los exámenes médicos practicados y su registro, así como las acciones preventivas y correctivas para la vigilancia a la\n   salud de los trabajadores, se integrarán en un expediente clínico que deberá conservarse por un período mínimo de cinco años.",
+    "start_char": 36990,
+    "end_char": 37242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:9-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "9.5",
+    "label": "9.5 El médico deberá determinar la aptitud física de los trabajadores para realizar actividades que conlleven carga manual, y",
+    "text": "9.5 El médico deberá determinar la aptitud física de los trabajadores para realizar actividades que conlleven carga manual, y\n   en su caso, determinar el período de recuperación.",
+    "start_char": 37249,
+    "end_char": 37428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "10",
+    "label": "10. Capacitación y adiestramiento",
+    "text": "10. Capacitación y adiestramiento",
+    "start_char": 37435,
+    "end_char": 37468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "10.1",
+    "label": "10.1 Al personal ocupacionalmente expuesto a los factores de riesgo ergonómico referido al sobreesfuerzo físico por el",
+    "text": "10.1 Al personal ocupacionalmente expuesto a los factores de riesgo ergonómico referido al sobreesfuerzo físico por el\n   manejo manual de cargas, se le deberá proporcionar capacitación, con énfasis en la prevención de riesgos, y con base en las\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                                         23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                                 Page 8 of 43\n\n\n\n   tareas asignadas. La capacitación y adiestramiento proporcionados a los trabajadores deberá consistir en una instrucción teórica,\n   entrenamiento práctico y evaluación de los conocimientos y habilidades adquiridos, y considerar lo siguiente:\n      a)   Los efectos a la salud que puede ocasionar la exposición a los factores de riesgo ergonómico debido al manejo manual\n           de cargas;\n      b)   La forma de reconocer factores de riesgo ergonómico por el manejo manual de cargas, así como riesgos adicionales\n           presentes en el lugar de trabajo;\n\n\n      c)   El contenido de la presente Norma, con énfasis en la aplicación de las medidas de seguridad, y en su caso, medidas de\n           control derivadas del análisis de los factores de riesgo ergonómico originados por el manejo manual de cargas, y\n      d)   La manera de realizar sus actividades en forma segura, a través de los procedimientos de seguridad y/o prácticas\n           seguras.",
+    "start_char": 37474,
+    "end_char": 38955
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "10.2",
+    "label": "10.2 A los trabajadores de nuevo ingreso o que realizarán el manejo manual de cargas por vez primera, se les deberá",
+    "text": "10.2 A los trabajadores de nuevo ingreso o que realizarán el manejo manual de cargas por vez primera, se les deberá\n   proporcionar capacitación y adiestramiento previo al inicio de sus actividades.",
+    "start_char": 38962,
+    "end_char": 39160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "10.3",
+    "label": "10.3 La capacitación y adiestramiento deberá reforzarse por lo menos cada dos años o antes cuando se presente cualquiera",
+    "text": "10.3 La capacitación y adiestramiento deberá reforzarse por lo menos cada dos años o antes cuando se presente cualquiera\n   de las circunstancias siguientes:\n      a)   Se introduzcan herramientas, equipo nuevo o se modifiquen las condiciones en las que se desarrollan las actividades;\n      b)   Se evidencien condiciones inseguras en el desarrollo de las actividades o trabajos, y que pudieran derivar en la presencia\n           de factores de riesgo ergonómico por el manejo manual de cargas, y\n      c)   Así lo sugiera la última evaluación aplicada a los trabajadores.",
+    "start_char": 39168,
+    "end_char": 39741
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "10.4",
+    "label": "10.4 Los centros de trabajo deberán llevar el registro de la capacitación y adiestramiento que proporcione al personal",
+    "text": "10.4 Los centros de trabajo deberán llevar el registro de la capacitación y adiestramiento que proporcione al personal\n   ocupacionalmente expuesto, el cual deberá contener, al menos, lo siguiente:\n      a)   El nombre y puesto de los trabajadores a los que se les proporcionó;\n      b)   La fecha en que se proporcionó la capacitación;\n      c)   Los temas impartidos, y\n      d)   El nombre del instructor y, en su caso, número de registro como agente capacitador ante la Secretaría del Trabajo y\n           Previsión Social.",
+    "start_char": 39748,
+    "end_char": 40275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "11",
+    "label": "11. Unidades de verificación",
+    "text": "11. Unidades de verificación",
+    "start_char": 40282,
+    "end_char": 40310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "11.1",
+    "label": "11.1 El patrón tendrá la opción de contratar una unidad de verificación acreditada y aprobada, en los términos de la Ley",
+    "text": "11.1 El patrón tendrá la opción de contratar una unidad de verificación acreditada y aprobada, en los términos de la Ley\n   Federal sobre Metrología y Normalización y su Reglamento, para verificar el grado de cumplimiento con esta Norma.",
+    "start_char": 40317,
+    "end_char": 40554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:11-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "11.2",
+    "label": "11.2 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los criterios de",
+    "text": "11.2 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los criterios de\n   cumplimiento que prevé el procedimiento para la evaluación de la conformidad, de acuerdo con lo señalado en el Capítulo 12 de\n   la misma.",
+    "start_char": 40562,
+    "end_char": 40820
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:11-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "11.3",
+    "label": "11.3 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento con esta Norma deberán emitir un",
+    "text": "11.3 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento con esta Norma deberán emitir un\n   dictamen, el cual habrá de contener:\n      a)   Datos del centro de trabajo verificado:\n           1)   El nombre, denominación o razón social;\n           2)   El Registro Federal de Contribuyentes;\n           3)   El domicilio completo;\n           4)   El teléfono, y\n           5)   Su actividad principal;\n      b)   Datos de la unidad de verificación:\n           1)   El nombre, denominación o razón social;\n           2)   El número de acreditación;\n           3)   El número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social, y\n           4)   Su domicilio completo, y\n      c)   Datos del dictamen:\n           1)   La clave y nombre de la norma;\n           2)   El nombre del verificador evaluado y aprobado;\n           3)   La fecha de verificación;\n           4)   El número de dictamen;\n           5)   La vigencia del dictamen;\n           6)   El lugar de emisión del dictamen;\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                                       23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                                              Page 9 of 43\n\n\n\n\n            7)    La fecha de emisión del dictamen, y\n            8)    El número de registro del dictamen emitido por la Secretaría del Trabajo y Previsión Social al rendirse el informe\n                  respectivo.",
+    "start_char": 40828,
+    "end_char": 42361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:11-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "11.4",
+    "label": "11.4 La vigencia de los dictámenes emitidos por las unidades de verificación será de dos años, siempre y cuando no sean",
+    "text": "11.4 La vigencia de los dictámenes emitidos por las unidades de verificación será de dos años, siempre y cuando no sean\n   modificadas las condiciones que sirvieron para su emisión.",
+    "start_char": 42367,
+    "end_char": 42548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "12",
+    "label": "12. Procedimiento para la evaluación de la conformidad",
+    "text": "12. Procedimiento para la evaluación de la conformidad",
+    "start_char": 42555,
+    "end_char": 42609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "12.1",
+    "label": "12.1 Este procedimiento para la evaluación de la conformidad aplica tanto a las visitas de inspección desarrolladas por la",
+    "text": "12.1 Este procedimiento para la evaluación de la conformidad aplica tanto a las visitas de inspección desarrolladas por la\n   autoridad laboral, como a las visitas de verificación que realicen las unidades de verificación.",
+    "start_char": 42616,
+    "end_char": 42838
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "12.2",
+    "label": "12.2 El dictamen de verificación vigente deberá estar a disposición de la autoridad laboral cuando ésta lo solicite.",
+    "text": "12.2 El dictamen de verificación vigente deberá estar a disposición de la autoridad laboral cuando ésta lo solicite.",
+    "start_char": 42845,
+    "end_char": 42961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:12-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "12.3",
+    "label": "12.3 Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se realizará, según aplique,",
+    "text": "12.3 Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se realizará, según aplique,\n   mediante la constatación física, revisión documental, registros o entrevistas, de conformidad con lo siguiente:\n                           Tipo de\n      Disposición                                 Criterio de aceptación                      Observaciones               Riesgo\n                        comprobación\n    5.1, 7.1 a 7.4,   Documental         El patrón cumple cuando            presenta\n    7.6 y 7.7                            evidencia documental de que:\n                                                                                       Los      documentos        para\n                                         Ø Cuenta con el análisis de los factores demostrar la capacitación en\n                                             de riesgo ergonómico debido al el análisis de factores de\n                                             manejo manual de cargas, el cual riesgo ergonómico debido al\n                                             está integrado por:                        manejo manual de cargas\n                                                                                        cuando     se    realice   una\n                                             ü La       identificación     de      las evaluación           específica,\n                                                 actividades      que       conllevan deberán ser constancias o\n                                                 factores de riesgo ergonómico certificados de cursos sobre\n                                                 debido a manejo manual de métodos                   de     evaluación\n                                                 cargas, es decir, que implican ergonómica             emitidas     por\n                                                 levantar,     bajar,    transportar, instituciones de educación\n                                                 empujar y/o jalar cargas;              superior,      colegios       o\n                                                                                        asociaciones                 de\n                                             ü La estimación del nivel de riesgo profesionistas, también será\n                                                 de las actividades identificadas, y válido       presentar     cédulas\n                                             ü La evaluación especifica del profesionales relacionadas\n                                                                                        con ergonomía.\n                                                 riesgo, cuando el resultado de la\n                                                 estimación del riesgo no permita\n                                                 estimar el riesgo o determinar\n                                                 condiciones      aceptables       y/o\n                                                 cuando      a     pesar     de      la\n                                                 implementación       de     medidas\n                                                 correctivas siga existiendo algún\n                                                 peligro para el trabajador;\n\n                                         Ø La identificación de los factores de\n                                             riesgo ergonómico debido al manejo\n                                             manual de cargas considera, al\n                                             menos, lo siguiente:\n\n                                             ü La identificación de la actividad,\n                                                 tarea o puesto de trabajo que\n                                                 conllevan manejo manual de\n                                                 cargas: levantar, bajar, empujar,\n                                                 jalar, transportar y/o estibar\n                                                 materiales;\n\n                                             ü La descripción de las actividades;\n                                             ü Los trabajadores involucrados en\n                                                 la     realización    de      estas\n                                                 actividades;\n\n\n\n\n                                             ü La frecuencia con que se realiza\n                                                 la actividad, y\n\n                                             ü El tiempo de duración de las\n                                                 actividades;\n\n                                         Ø La estimación del nivel de riesgo\n                                             debido al manejo manual de cargas\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                                                   23/11/2018\n\fDOF - Diario Oficial de la Federación                                               Page 10 of 43\n\n\n\n                                  de las actividades identificadas en el\n                                  numeral anterior, se realiza:\n\n                                  ü Conforme al Apéndice I, para\n                                      actividades     que         implican\n                                      levantar, bajar, o       transportar\n                                      cargas, o\n\n                                  ü De acuerdo con el Apéndice II,\n                                      para actividades que implican\n                                      empujar y jalar materiales, con o\n                                      sin la ayuda de equipo auxiliar;\n\n                               Ø Cuenta con un informe del análisis de\n                                  los factores de riesgo ergonómico\n                                  debido al manejo manual de cargas,\n                                  el cual contiene:\n\n                                  ü Datos del centro de trabajo:\n                                      · Nombre, denominación o razón\n                                          social;\n\n                                      · Domicilio completo, y\n                                      · Actividad principal;\n                               Las actividades realizadas en el centro\n                               de trabajo que conllevan exposición a\n                               factores de riesgo ergonómico debido al\n                               manejo manual de cargas sujetas al\n                               análisis;\n\n\n\n\n                                   ü El resultado de la estimación del\n                                      riesgo a que se refiere el numeral\n                                      7.3 y, en su caso, el resultado de\n                                      la evaluación específica, cuando\n                                      se determine que no se requiere\n                                      esta evaluación, señala porqué\n                                      se llegó a esa conclusión;\n\n                                   ü Las conclusiones derivadas de la\n                                      identificación y análisis;\n\n                                   ü Las recomendaciones y acciones\n                                      de prevención y/o control, y\n\n                                   ü Los datos del responsable de la\n                                      elaboración:\n\n                                      · Nombre completo;\n                                      · Número de cédula profesional,\n                                          y\n\n                                      · La     información    de     los\n                                          documentos que avalen su\n                                          competencia, en el análisis\n                                          de     factores  de    riesgo\n                                          ergonómico debido al manejo\n                                          manual de cargas cuando se\n                                          realice     una   evaluación\n                                          específica;\n\n                               Ø El análisis de los factores de riesgo\n                                   ergonómico debido al manejo manual\n                                   de cargas se revisa, actualiza o\n                                   modifica cuando:\n\n                                   ü Se modifican las condiciones en\n                                      las que se realiza la actividad,\n                                      y/o\n\n                                   ü Se detecta alguna alteración a la\n                                      salud    de   los    trabajadores\n                                      ocupacionalmente expuestos o\n                                      se    presenta    un     trastorno\n                                      músculo-esquelético laboral, y\n                               El análisis de los factores de riesgo\n                               ergonómico debido al manejo manual de\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true     23/11/2018\n\fDOF - Diario Oficial de la Federación                                               Page 11 of 43\n\n\n\n                                  cargas está integrado al diagnóstico de\n                                  seguridad y salud en el trabajo, a que se\n                                  refiere la NOM-030-STPS-2009, o las\n                                  que la sustituyan.\n\n\n\n    5.1 y 7.5        Física o     El patrón cumple cuando al realizar un\n                                  recorrido en el centro de trabajo se\n                     Entrevista\n                                  constata que el análisis de los factores\n                                  de riesgo ergonómico debido al manejo\n                                  manual de cargas está disponible para\n                                  los trabajadores que participan o\n                                  realizan actividades de manejo manual\n                                  de cargas.\n    5.2, 8.1 y 8.2   Documental   El patrón cumple cuando           presenta\n                                  evidencia documental de que:\n                                  Ø Realiza las actividades de manejo\n                                     manual de cargas con trabajadores\n                                     que cuentan con aptitud física\n                                     avalada por un médico o a través de\n                                     una institución de seguridad social o\n                                     privada, y\n                                  Ø Cuenta con un procedimiento de\n                                     seguridad      para      desarrollar\n                                     actividades que involucran manejo\n                                     manual de cargas, que contempla:\n                                     ü La descripción de la técnica\n                                         adecuada para realizar las\n                                         actividades de forma segura,\n                                         considerando:     la    intensidad,\n                                         distancias: horizontal y/o vertical,\n                                         repetición, frecuencia, duración,\n                                         y posturas con que deben\n                                         efectuarse las actividades;\n\n\n\n                                     ü Las medidas de seguridad y, en\n                                         su caso, de control por aplicar en\n                                         el desarrollo de las actividades,\n\n                                     ü Las características de la carga,\n                                         por     ejemplo,    dimensiones,\n                                         agarre, forma, peso, estabilidad;\n\n                                     ü La posición de los materiales o\n                                         contenedores a manejar, con\n                                         respecto a la de los trabajadores:\n                                         levantamiento o descenso de la\n                                         carga al piso, o a una cierta\n                                         altura;\n\n                                     ü Las condiciones del ambiente\n                                         que puedan incrementar             el\n                                         esfuerzo del trabajador;\n\n                                     ü La trayectoria para el transporte\n                                         de las cargas, en su caso,\n                                         subiendo o bajando escaleras,\n                                         rampas inclinadas, plataformas,\n                                         vehículos,     tránsito   sobre\n                                         superficies resbalosas o con\n                                         obstáculos que puedan generar\n                                         riesgo de caídas, y\n\n                                     ü Las características de materiales\n                                         que se manejen, en su caso, con\n                                         énfasis en los peligrosos tales\n                                         como:       tóxicos,      irritantes,\n                                         corrosivos,           inflamables,\n                                         explosivos, reactivos, con riesgo\n                                         biológico, temperatura elevada o\n                                         abatida, entre otros.\n\n\n\n                     Física\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true     23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                      Page 12 of 43\n\n\n\n    5.2, 8.3, 8.4, 8.6         El patrón cumple cuando al realizar un\n    y 8.7                      recorrido en el centro de trabajo se\n                               constata que para reducir o eliminar los\n                               factores de riesgo ergonómico debido al\n                               manejo de materiales de forma manual\n                               adopta las medidas de prevención y/o\n                               seguridad siguientes:\n                              Ø Las medidas de seguridad generales\n                                  siguientes:\n                                  ü Supervisa que se realicen en\n                                      condiciones seguras, con base\n                                      en el procedimiento a que alude\n                                      el numeral 8.2, de esta Norma;\n                                  ü Mantiene las áreas de tránsito y\n                                      de trabajo libres de obstáculos;\n                                  ü Conserva orden y limpieza en el\n                                      lugar de trabajo;\n                                  ü Establece, en su caso, períodos\n                                      de descanso;\n\n\n\n                                  ü Asegura que la carga tenga\n                                      elementos de sujeción;\n                                  ü Revisa       que las actividades\n                                      aledañas no impliquen un riesgo\n                                      para el trabajador que las realiza,\n                                      y\n                                  ü Aplica las medidas de seguridad\n                                      que se requieren conforme a los\n                                      materiales, procesos, equipos,\n                                      herramienta y maquinaria que se\n                                      utilizan;\n                               Ø Las medidas de seguridad para el\n                                  levantamiento      y    transporte     de\n                                  cargas:\n                                  ü Prohíbe que las mujeres en\n                                      estado de gestación, y durante\n                                      las    primeras    10  semanas\n                                      posteriores al parto, realicen\n                                      actividades de manejo de cargas\n                                      de forma manual que implican\n                                      cargas de más de 10 kg, y\n                                      determina la masa máxima real\n                                      que podrán cargar considerando\n                                      su estado de salud, así como\n                                      factores tales como frecuencia,\n                                      distancia, posición de la carga,\n                                      agarre, masa acumulada, entre\n                                      otros;\n                                  ü Verifica que las cargas no\n                                      rebasan las masas que señala la\n                                      Tabla 1 de esta Norma;\n                                  ü Determina la masa máxima real La masa máxima que podrán\n                                      que cargan los trabajadores a     levantar     y/o     bajar   los\n                                      partir de los valores indicados entrabajadores mayores de 45\n                                      la Tabla 1, considerando factores años, deberá determinarse\n                                      tales como frecuencia, distancia, previa evaluación de la\n                                      posición de la carga, agarre,     aptitud física realizada por un\n                                      masa acumulada, entre otros, y    médico, si su condición física\n                                      en ningún caso rebasa el límite   lo permite y el médico lo\n                                      indicado en la Tabla 1.           avala, podrán cargar hasta el\n                                                                        límite       máximo        para\n                                  ü   Efectúa el manejo manual de trabajadores de entre 18 y 45\n                                      cargas cuya masa sea superior a años de edad.\n                                      lo que determina la Tabla 1 o su\n                                      longitud dificulta el transporte,\n                                      mediante:\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                            23/11/2018\n\fDOF - Diario Oficial de la Federación                                               Page 13 of 43\n\n\n\n                                      ·La integración de grupos de\n                                            carga (considerando que la\n                                            capacidad de carga de un\n                                            equipo de dos personas será\n                                            dos terceras partes de la\n                                            suma de sus capacidades\n                                            individuales, y para un\n                                            equipo de tres personas, la\n                                            capacidad de carga será la\n                                            mitad de la suma de sus\n                                            capacidades     individuales,\n                                            por ejemplo, para dos\n                                            personas la capacidad de\n                                            carga no sería de 50 kg,\n                                            serian aproximadamente 34\n                                            kg) y asegurar que exista\n                                            coordinación y comunicación\n                                            entre los miembros de éste;\n\n                                      ·La      utilización de equipos\n                                            auxiliares           manuales\n                                            (carretillas, diablos, patines,\n                                            etc.),     o    bien    utilizar\n                                            maquinaria, o\n\n                                      ·La división de las cargas en\n                                            bultos, envases, sacos o\n                                            paquetes más pequeños y\n                                            ligeros.\n\n                                  ü Traslada los barriles o tambos, a\n                                      través del uso de maquinaria o\n                                      equipo auxiliar, cuando se\n                                      trasportan rodando y superan\n                                      una masa de 400 kg o cuando se\n                                      trasladan girando sobre su base\n                                      y su masa es mayor a 80 kg;\n                               Proporciona la ropa y el equipo de\n                               protección personal, conforme a lo\n                               previsto por la NOM-017-STPS-2008, o\n                               las que la sustituyan, a los trabajadores\n                               que realizan actividades de carga de:\n\n\n\n\n                                      ·Materiales o contenedores con\n                                            aristas cortantes, rebabas,\n                                            astillas,   puntas  agudas,\n                                            clavos u otros salientes\n                                            peligrosos;\n\n                                      ·Materiales con temperaturas\n                                            extremas, y/o\n\n                                      ·Contenedores con sustancias\n                                            irritantes,     corrosivas     o\n                                            tóxicas;\n                                  ü Asegura que en ningún caso se\n                                      exceda de 10,000 kg/día de\n                                      masa     acumulada     total  de\n                                      levantamiento     y    transporte\n                                      manual de cargas, cualquiera\n                                      que sea la duración de la\n                                      actividad y sin exceder jornadas\n                                      de trabajo de 8 horas;\n                               Ø Las medidas de seguridad para\n                                  empujar o jalar de cargas, con o sin\n                                  ayuda de equipo auxiliar:\n\n                                   ü Asegura la estabilidad de la\n                                       carga durante su traslado;\n                                   ü Tiene una visión completa sobre\n                                       y alrededor de la carga;\n                                   ü Verifica que la carga no exceda\n                                       la capacidad nominal de las\n                                       ruedas del equipo auxiliar que se\n                                       utilice;\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true     23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                       Page 14 of 43\n\n\n\n                                  ü Revisa que el equipo auxiliar se\n                                      encuentra       en     condiciones\n                                      seguras de operación antes del\n                                      inicio de las actividades;\n                                  ü Comprueba antes de realizar la\n                                      actividad que la superficie del\n                                      suelo no se encuentra en malas\n                                      condiciones o represente un\n                                      problema para la operación de\n                                      las ruedas del equipo auxiliar\n                                      que se utiliza;\n\n\n\n                                  ü Revisa, de forma previa, que el\n                                      espacio para girar o maniobrar\n                                      es adecuado, en especial en\n                                      pasillos angostos;\n                                  ü Asegura que la ropa o el equipo\n                                      de protección personal permita\n                                      realizar  con   seguridad   el\n                                      movimiento;\n                                  ü Jala el equipo con ruedas, como\n                                      el diablo, patín o carretilla en el\n                                      mismo sentido del ascenso al\n                                      subir una pendiente, y en sentido\n                                      opuesto al del descenso al bajar,\n                                      con el objeto de evitar que la\n                                      carga represente un riesgo;\n                                  ü Evita     paradas y maniobras\n                                      frecuentes, cuando se esté\n                                      jalando o empujando un objeto,\n                                      el esfuerzo aplicado es continuo\n                                      evitando movimientos bruscos y\n                                      de larga duración;\n                                  ü Evita la aplicación de fuerzas\n                                      iniciales y sostenidas de forma\n                                      frecuente     y      de       tiempo\n                                      prolongado, con el fin de\n                                      disminuir o evitar la fatiga;\n                                  ü Evita    trayectorias por pisos\n                                      ranurados,     deteriorados o\n                                      resbalosos;\n                                  ü Evita rampas, pendientes o\n                                      superficies desniveladas en la\n                                      trayectoria, y\n\n\n\n                                  ü Elimina los obstáculos y objetos\n                                      que pueden representar peligro\n                                                                       Se da cumplimiento con esta\n                                      de tropiezo;\n                                                                       disposición    cuando,      en\n                               Ø Las medidas de control sólo en congruencia con el resultado\n                                 aquellos casos en que el análisis de del análisis de los factores de\n                                 los factores de riesgo ergonómico así riesgo ergonómico, el patrón\n                                 lo indique. Las medidas de control adopta una o varias medidas\n                                 técnicas y/o administrativas de los de las siguientes:\n                                  factores de riesgo ergonómico las          Ø Las medidas de control\n                                  aplica mediante un Programa de\n                                                                                administrativas\n                                  ergonomía, que para tal efecto\n                                                                                contemplan, entre otras,\n                                  elaboró.\n                                                                                las siguientes:\n\n                                                                                ü La limitación de los\n                                                                                   tiempos y frecuencias\n                                                                                   en los que se realizan\n                                                                                   las actividades;\n\n                                                                                ü La programación de\n                                                                                   períodos de descanso;\n\n                                                                                ü La reprogramación y\n                                                                                   diversificación    de\n                                                                                   actividades, o\n\n                                                                                ü La       rotación   de\n                                                                                   actividades.\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                             23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                          Page 15 of 43\n\n\n\n\n                                                                             Ø Las medidas de control\n                                                                                técnicas      por   adoptar\n                                                                                podrán comprender, entre\n                                                                                otras, las siguientes:\n\n                                                                                ü La modificación de los\n                                                                                    procedimientos       de\n                                                                                    trabajo;\n\n                                                                                ü La          modificación,\n                                                                                    adecuación            o\n                                                                                    sustitución    de   las\n                                                                                    instalaciones,\n                                                                                    procesos, maquinaria\n                                                                                    y equipos, y\n\n                                                                                ü El acondicionamiento,\n                                                                                    redistribución física de\n                                                                                    las       instalaciones,\n                                                                                    procesos, maquinaria\n                                                                                    y equipos.\n\n\n\n\n    5.2 y 8.5   Documental     El patrón cumple cuando presenta\n                               evidencia documental de que el\n                               programa de ergonomía contiene:\n                               Ø Los puestos de trabajo sujetos al\n                                  programa;\n                               Ø Las medidas de control técnicas y/o\n                                  administrativas por adoptarse;\n                               Ø Las fechas programadas para su\n                                  realización;\n                               Ø El control de los avances de la\n                                  implementación del programa;\n                               Ø El responsable de su ejecución, y\n                               Ø La evaluación posterior a la\n                                  aplicación de las medidas de control.\n\n\n\n    5.3 y 9     Documental     El patrón cumple cuando          presenta\n                               evidencia documental de que:\n                               Ø Cuenta con un programa para\n                                  realizar la vigilancia a la salud de los\n                                  trabajadores          ocupacionalmente\n                                  expuestos;\n                               Ø El programa para la vigilancia a la\n                                  salud     de    los      trabajadores\n                                  ocupacionalmente            expuestos\n                                  considera al menos, lo siguiente:\n                                  ü La aplicación de exámenes\n                                      médicos iniciales para integrar la\n                                      historia clínica laboral;\n                                  ü La       práctica  de    exámenes\n                                      médicos de acuerdo con la\n                                      actividad específica de los\n                                      trabajadores,      sujeta      al\n                                      seguimiento clínico anual o a la\n                                      evidencia de signos o síntomas\n                                      que denoten un posible trastorno\n                                      músculo-esquelético laboral;\n                                  ü Los       exámenes médicos se\n                                      efectúan de conformidad con lo\n                                      establecido por las normas\n                                      oficiales mexicanas que al\n                                      respecto emitan la Secretaría de\n                                      Salud y/o la Secretaría del\n                                      Trabajo y Previsión Social, y a\n                                      falta de éstas, los que indique la\n                                      institución de seguridad social o\n                                      de salud, el médico de la\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                                23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                        Page 16 of 43\n\n\n\n                                      empresa, o la institución privada\n                                      que le preste el servicio médico\n                                      al centro de trabajo, y\n                                  ü La aplicación de las acciones\n                                      preventivas y correctivas para la\n                                      protección de la salud de los\n                                      trabajadores, con base en los\n                                      factores de riesgo ergonómico\n                                      detectados y como resultado de\n                                      los      exámenes        médicos\n                                      practicados;\n\n\n\n                               Ø La vigilancia a la salud de los Los          documentos       para\n                                 trabajadores es efectuada por un demostrar que el médico\n                                 médico, con conocimientos en cuenta con conocimientos en\n                                 medicina del trabajo;               medicina del trabajo, deberán\n                                                                     ser constancias o certificados\n                               Ø Los exámenes médicos practicados y de cursos emitidas por\n                                 su registro, así como las acciones instituciones de educación\n                                 preventivas y correctivas para la superior.\n                                 vigilancia a la salud de los\n                                 trabajadores, se integran en un\n                                 expediente clínico que conserva por\n                                 un período mínimo de cinco años, y\n\n                               Ø Un médico determina la aptitud física\n                                  de los trabajadores para realizar\n                                  actividades que conllevan carga\n                                  manual, y en su caso, determina el\n                                  período de recuperación.\n    5.4         Documental     El patrón cumple cuando presenta            La       información    puede\n                               evidencia de que informa a los              proporcionarse en folletos,\n                Física\n                               trabajadores    sobre   las   posibles      trípticos o carteles, o bien a\n                               alteraciones a la salud por el manejo       través         de      pláticas\n                               manual de cargas.                           informativas.\n\n\n\n    5.5 y 10    Documental     El patrón cumple cuando        presenta La    capacitación     deberá\n                               evidencia documental de que:            evidenciarse a través de la\n                Entrevista\n                                                                       constancia de habilidades\n                               Ø Proporciona       capacitación      y\n                                 adiestramiento       al      personal\n                                 ocupacionalmente expuesto sobre\n                                 los procedimientos de seguridad y\n                                 las prácticas de trabajo seguro, y en\n                                 su caso, en las medidas de\n                                 prevención y/o control;\n\n                               Ø La capacitación tiene énfasis en la\n                                  prevención de riesgos, y con base en\n                                  las tareas asignadas;\n\n                               Ø La capacitación y adiestramiento\n                                  consiste en una instrucción teórica,\n                                  entrenamiento práctico y evaluación\n                                  de los conocimientos y habilidades\n                                  adquiridos, y considera lo siguiente:\n\n                                  ü Los efectos a la salud que puede\n                                      ocasionar la exposición a los\n                                      factores de riesgo ergonómico\n                                      debido al manejo manual de\n                                      materiales;\n\n                                  ü La forma de reconocer factores\n                                      de riesgo ergonómico por el\n                                      manejo manual de cargas, así\n                                      como      riesgos      adicionales\n                                      presentes en el lugar de trabajo;\n\n                                  ü El contenido de la presente\n                                      Norma, con énfasis en la\n                                      aplicación de las medidas de\n                                      seguridad, y en su caso, medidas\n                                      de control derivadas del análisis\n                                      de los factores de riesgo\n                                      ergonómico, y\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                              23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                                Page 17 of 43\n\n\n\n                                           ü La manera de realizar sus\n                                               actividades en forma segura, a\n                                               través de los procedimientos de\n                                               seguridad y/o prácticas seguras.\n\n\n\n\n                                        Ø La capacitación y adiestramiento se\n                                            refuerza por lo menos cada dos años\n                                            o antes cuando se presenta\n                                            cualquiera de las circunstancias\n                                            siguientes:\n\n                                            ü Se     introducen herramientas,\n                                               equipo nuevo o se modifican las\n                                               condiciones en las que se\n                                               desarrollan las actividades;\n\n                                            ü Se      evidencian    condiciones\n                                               inseguras en el desarrollo de las\n                                               actividades o trabajos, y que\n                                               pudieran derivar en la presencia\n                                               de      factores   de      riesgo\n                                               ergonómico,\n\n                                            ü Así     lo  sugiera    la   última\n                                               evaluación    aplicada   a     los\n                                               trabajadores.\n\n                                        Ø Lleva el registro de la capacitación y\n                                            adiestramiento que proporciona al\n                                            personal           ocupacionalmente\n                                            expuesto, el cual contiene, al menos,\n                                            lo siguiente:\n\n                                            ü El nombre y puesto de los\n                                               trabajadores a los que se les\n                                               proporcionó;\n\n                                            ü La fecha en que se proporcionó\n                                               la capacitación;\n\n                                            ü Los temas impartidos, y\n                                        El nombre del instructor y, en su caso,\n                                        número de registro como agente capacitador\n                                        ante la Secretaría del Trabajo y Previsión\n                                        Social.\n    5.6                Registro         El patrón cumple cuando presenta\n                                        evidencias de que lleva el registro sobre\n                                        las medidas preventivas adoptadas y los\n                                        exámenes médicos practicados.",
+    "start_char": 42967,
+    "end_char": 85952
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:12-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "12.4",
+    "label": "12.4 Para la selección de trabajadores por entrevistar, con el propósito de constatar el cumplimiento de las disposiciones que",
+    "text": "12.4 Para la selección de trabajadores por entrevistar, con el propósito de constatar el cumplimiento de las disposiciones que\n   dispone el presente procedimiento para la evaluación de la conformidad, se aplicará el criterio muestral contenido en la Tabla 2\n   siguiente:\n                                                                  Tabla 2\n                                                    Muestreo por selección aleatoria\n                                                           Número de trabajadores por\n           Número total de trabajadores\n                                                                  entrevistar\n\n                          1-15                                              1\n                         16-50                                              2\n                         51-105                                             3\n\n                                                        1 por cada 35 trabajadores hasta un\n                       Más de 105\n                                                                   máximo de 15",
+    "start_char": 85960,
+    "end_char": 87037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:12-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "12.5",
+    "label": "12.5 Las evidencias de tipo documental o los registros a que alude esta Norma podrán exhibirse de manera impresa o en",
+    "text": "12.5 Las evidencias de tipo documental o los registros a que alude esta Norma podrán exhibirse de manera impresa o en\n   medios informáticos o digitales, y se deberán conservar al menos durante un año.",
+    "start_char": 87045,
+    "end_char": 87246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "13",
+    "label": "13. Vigilancia",
+    "text": "13. Vigilancia\n      La vigilancia del cumplimiento de la presente Norma Oficial Mexicana corresponde a la Secretaría del Trabajo y Previsión\n   Social.\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018&print=true                                       23/11/2018\n\fDOF - Diario Oficial de la Federación                                                                                  Page 18 of 43",
+    "start_char": 87253,
+    "end_char": 87674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14",
+    "label": "14. Bibliografía",
+    "text": "14. Bibliografía",
+    "start_char": 87684,
+    "end_char": 87700
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.1",
+    "label": "14.1 Manual handling assessment charts (the MAC tool). Health and Safety Executive.",
+    "text": "14.1 Manual handling assessment charts (the MAC tool). Health and Safety Executive.",
+    "start_char": 87707,
+    "end_char": 87790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.2",
+    "label": "14.2 Norma Internacional ISO 11228-1:2003, Ergonomics-Manual handling-Part 1: Lifting and carrying.",
+    "text": "14.2 Norma Internacional ISO 11228-1:2003, Ergonomics-Manual handling-Part 1: Lifting and carrying.",
+    "start_char": 87797,
+    "end_char": 87896
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.3",
+    "label": "14.3 Norma Internacional ISO 11228-2:2003, Ergonomics-Manual handling-Part 2 Pushing and pulling.",
+    "text": "14.3 Norma Internacional ISO 11228-2:2003, Ergonomics-Manual handling-Part 2 Pushing and pulling.",
+    "start_char": 87903,
+    "end_char": 88000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.4",
+    "label": "14.4 Norma Internacional ISO 6385-2016, Ergonomic principles in the design of work systems.",
+    "text": "14.4 Norma Internacional ISO 6385-2016, Ergonomic principles in the design of work systems.",
+    "start_char": 88007,
+    "end_char": 88098
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.5",
+    "label": "14.5 NTP 177: La carga física de trabajo: definición y evaluación. Instituto Nacional de Seguridad e Higiene en el Trabajo,",
+    "text": "14.5 NTP 177: La carga física de trabajo: definición y evaluación. Instituto Nacional de Seguridad e Higiene en el Trabajo,\n   Ministerio del Trabajo y Asuntos Sociales. España, 1986.",
+    "start_char": 88105,
+    "end_char": 88288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.6",
+    "label": "14.6 NTP 176: Evaluación de las condiciones de trabajo: Método de los perfiles de puestos. Instituto Nacional de Seguridad e",
+    "text": "14.6 NTP 176: Evaluación de las condiciones de trabajo: Método de los perfiles de puestos. Instituto Nacional de Seguridad e\n   Higiene en el Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 1986.",
+    "start_char": 88295,
+    "end_char": 88502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.7",
+    "label": "14.7 NTP 477: Levantamiento manual de cargas: ecuación del NIOSH. Instituto Nacional de Seguridad e Higiene en el",
+    "text": "14.7 NTP 477: Levantamiento manual de cargas: ecuación del NIOSH. Instituto Nacional de Seguridad e Higiene en el\n   Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 1998.",
+    "start_char": 88509,
+    "end_char": 88691
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.8",
+    "label": "14.8 NTP 451: Evaluación de las condiciones de trabajo: métodos generales. Instituto Nacional de Seguridad e Higiene en el",
+    "text": "14.8 NTP 451: Evaluación de las condiciones de trabajo: métodos generales. Instituto Nacional de Seguridad e Higiene en el\n   Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 1997.",
+    "start_char": 88698,
+    "end_char": 88889
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.9",
+    "label": "14.9 NTP 387: Evaluación de las condiciones de trabajo: método del análisis ergonómico del puesto de trabajo. Instituto",
+    "text": "14.9 NTP 387: Evaluación de las condiciones de trabajo: método del análisis ergonómico del puesto de trabajo. Instituto\n   Nacional de Seguridad e Higiene en el Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 1995.",
+    "start_char": 88896,
+    "end_char": 89122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.10",
+    "label": "14.10 Organización Internacional del Trabajo, Enciclopedia de Salud y Seguridad en el Trabajo. Ed. Ministerio de Trabajo y",
+    "text": "14.10 Organización Internacional del Trabajo, Enciclopedia de Salud y Seguridad en el Trabajo. Ed. Ministerio de Trabajo y\n   Asuntos Sociales. 2012. España.",
+    "start_char": 89129,
+    "end_char": 89286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.11",
+    "label": "14.11 Reglamento Federal de Seguridad y Salud en el Trabajo, Diario Oficial de la Federación de 13 de noviembre de 2014.",
+    "text": "14.11 Reglamento Federal de Seguridad y Salud en el Trabajo, Diario Oficial de la Federación de 13 de noviembre de 2014.\n   México.",
+    "start_char": 89292,
+    "end_char": 89423
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.12",
+    "label": "14.12 Risk assessment of pushing and pulling (RAPP) tool. Health and Safety Executive.",
+    "text": "14.12 Risk assessment of pushing and pulling (RAPP) tool. Health and Safety Executive.",
+    "start_char": 89430,
+    "end_char": 89516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:14-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "14.13",
+    "label": "14.13 Standardised Nordic questionnaires for the analysis of musculoskeletal symptoms. Kuorinka, I., Jonsson, B., Kilbom, A.,",
+    "text": "14.13 Standardised Nordic questionnaires for the analysis of musculoskeletal symptoms. Kuorinka, I., Jonsson, B., Kilbom, A.,\n   Vinterberg, H., Biering-Sorensen, F., Andersson, G., Jorgensen K., 1987.",
+    "start_char": 89524,
+    "end_char": 89725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:clause:15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "number": "15",
+    "label": "15. Concordancia con normas internacionales",
+    "text": "15. Concordancia con normas internacionales\n      Esta Norma Oficial Mexicana no es equivalente con ninguna norma internacional.",
+    "start_char": 89732,
+    "end_char": 89860
+  }
+]

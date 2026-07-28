@@ -1,0 +1,1371 @@
+        (Segunda Sección)                        DIARIO OFICIAL                        Viernes 1 de abril de 2016
+
+
+             SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+NORMA Oficial Mexicana NOM-022-STPS-2015, Electricidad estática en los centros de trabajo-Condiciones de
+seguridad.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría del Trabajo y
+Previsión Social.
+    JESÚS ALFONSO NAVARRETE PRIDA, Secretario del Trabajo y Previsión Social, con fundamento en los
+artículos 40, fracciones I y XI, de la Ley Orgánica de la Administración Pública Federal; 512, 523, fracción I,
+524 y 527, último párrafo, de la Ley Federal del Trabajo; 1o., 3o., fracción XI, 38, fracción II, 40, fracción VII,
+41, 47, fracción IV, 51, primer párrafo, 62, 68 y 87 de la Ley Federal sobre Metrología y Normalización; 28 del
+Reglamento de la Ley Federal sobre Metrología y Normalización; 5, fracción III, 7 fracciones I, III, VI, VII, X, XI,
+XII, XIV, XV, XIX y XX, 10 y 29, del Reglamento Federal de Seguridad y Salud en el Trabajo, y 5, fracción III, y
+24 del Reglamento Interior de la Secretaría del Trabajo y Previsión Social, y
+                                                CONSIDERANDO
+    Que conforme a lo previsto por el artículo 46, fracción I, de la Ley Federal sobre Metrología y
+Normalización, la Secretaría del Trabajo y Previsión Social presentó ante el Comité Consultivo Nacional de
+Normalización de Seguridad y Salud en el Trabajo, en su Décima Segunda Sesión Ordinaria, celebrada el 9
+de diciembre de 2014, el Proyecto de modificación de la Norma Oficial Mexicana NOM-022-STPS-2008,
+Electricidad estática en los centros de trabajo-Condiciones de seguridad, para quedar como PROY-NOM-022-
+STPS-2014, Electricidad estática en los centros de trabajo-Condiciones de seguridad, y que el citado Comité
+lo consideró procedente y acordó que se publicara como Proyecto en el Diario Oficial de la Federación;
+   Que de acuerdo con lo que determinan los artículos 69-E y 69-H, de la Ley Federal de Procedimiento
+Administrativo, el Proyecto correspondiente fue sometido a la consideración de la Comisión Federal de Mejora
+Regulatoria, quien dictaminó favorablemente en relación con el mismo;
+   Que de conformidad con lo señalado por el artículo 47, fracción I, de la Ley Federal sobre Metrología y
+Normalización, se publicó para consulta pública por sesenta días naturales en el Diario Oficial de la
+Federación de 6 de enero de 2015, el Proyecto de modificación de la Norma Oficial Mexicana NOM-022-
+STPS-2008, Electricidad estática en los centros de trabajo-Condiciones de seguridad, para quedar como
+PROY-NOM-022-STPS-2014, Electricidad estática en los centros de trabajo-Condiciones de seguridad, a
+efecto de que en dicho periodo los interesados presentaran sus comentarios al Comité Consultivo Nacional de
+Normalización de Seguridad y Salud en el Trabajo;
+     Que habiendo recibido comentarios de diez promoventes, el Comité referido procedió a su estudio y
+resolvió oportunamente sobre los mismos, por lo que esta dependencia publicó las respuestas respectivas en
+el Diario Oficial de la Federación de 20 de agosto de 2015, con base en lo que dispone el artículo 47, fracción
+III, de la Ley Federal sobre Metrología y Normalización;
+    Que derivado de la incorporación de los comentarios presentados al Proyecto modificación de la Norma
+Oficial Mexicana NOM-022-STPS-2008, Electricidad estática en los centros de trabajo-Condiciones de
+seguridad, para quedar como PROY-NOM-022-STPS-2014, Electricidad estática en los centros de trabajo-
+Condiciones de seguridad, así como de la revisión final del propio proyecto, se realizaron diversas
+modificaciones con el propósito de dar claridad, congruencia y certeza jurídica en cuanto a las disposiciones
+que aplican en los centros de trabajo, y
+   Que en atención a las anteriores consideraciones, y toda vez que el Comité Consultivo Nacional de
+Normalización de Seguridad y Salud en el Trabajo, en su Tercera Sesión Ordinaria de 2015, otorgó la
+aprobación respectiva, se expide la siguiente:
+NORMA OFICIAL MEXICANA NOM-022-STPS-2015, ELECTRICIDAD ESTÁTICA EN LOS CENTROS DE
+                      TRABAJO-CONDICIONES DE SEGURIDAD
+                                                     ÍNDICE
+   1.     Objetivo
+   2.     Campo de aplicación
+   3.     Referencias
+   4.     Definiciones
+   5.     Obligaciones del patrón
+   6.     Obligaciones de los trabajadores
+   Viernes 1 de abril de 2016                    DIARIO OFICIAL                           (Segunda Sección)
+
+   7.    Condiciones de seguridad
+   8.    Sistema de protección contra descargas eléctricas atmosféricas
+   9.    Medición de la resistencia a tierra de la red de puesta a tierra
+   10.   Capacitación y adiestramiento
+   11.   Unidades de verificación y laboratorios de prueba
+   12.   Procedimiento para la Evaluación de la Conformidad
+   13.   Vigilancia
+   14.   Bibliografía
+   15.   Concordancia con normas internacionales
+         TRANSITORIOS
+         GUÍA DE REFERENCIA I. Ejemplos de instalaciones donde se presenta la generación de electricidad
+         estática y medidas tendientes a prevenir accidentes, y casos ejemplo en los que se sugiere
+         considerar la instalación de un sistema de protección contra descargas atmosféricas
+   1. Objetivo
+   Establecer las condiciones de seguridad en los centros de trabajo para prevenir los riesgos por electricidad
+estática, así como por descargas eléctricas atmosféricas.
+   2. Campo de aplicación
+   2.1 Esta Norma rige en todo el territorio nacional y aplica en las áreas de los centros de trabajo donde se
+almacenen, manejen o transporten sustancias inflamables o explosivas, o en aquellas en que, por la
+naturaleza de sus procesos, materiales y equipos, sean capaces de almacenar o generar cargas eléctricas
+estáticas.
+     2.2 La presente Norma no aplica en vehículos automotores, ferroviarios, embarcaciones y/o aeronaves
+utilizados para el transporte terrestre, marítimo, fluvial o aéreo, competencia de la Secretaría de
+Comunicaciones y Transportes.
+   3. Referencias
+    Para la correcta aplicación de esta Norma se deberán consultar las siguientes normas oficiales mexicanas
+y la norma mexicana, vigentes o las que las sustituyan:
+   3.1 NOM-002-STPS-2010, Condiciones de seguridad - Prevención y protección contra incendios en los
+centros de trabajo.
+    3.2 NOM-017-STPS-2008, Equipo de protección personal - Selección, uso y manejo en los centros de
+trabajo.
+   3.3 NOM-018-STPS-2000, Sistema para la identificación y comunicación de peligros y riesgos por
+sustancias químicas peligrosas en los centros de trabajo.
+   3.4 NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos
+conducidos en tuberías.
+   3.5 NMX-J-549-ANCE-2005, Sistema de protección contra tormentas eléctricas - Especificaciones,
+materiales y métodos de medición.
+   4. Definiciones
+   Para efectos de la presente Norma, se consideran las definiciones siguientes:
+    4.1 Autoridad laboral: Las unidades administrativas competentes de la Secretaría del Trabajo y Previsión
+Social que realizan funciones de inspección y vigilancia en materia de seguridad y salud en el trabajo, y las
+correspondientes de las entidades federativas y de la Ciudad de México, que actúen en auxilio de aquéllas.
+    4.2 Carga eléctrica estática: La propiedad física de la materia que se manifiesta por la pérdida o
+ganancia de electrones, generalmente en materiales aislantes de la electricidad, o materiales conductores
+aislados de tierra, que han estado en contacto o bajo presión.
+   4.3 Conexión a tierra; Puesta a tierra: La acción y efecto de conectar eléctricamente uno o más
+elementos de un equipo o circuito a un electrodo o a un sistema de puesta a tierra, de tal forma que se
+encuentren a potencial eléctrico cero (0).
+        (Segunda Sección)                       DIARIO OFICIAL                        Viernes 1 de abril de 2016
+
+    4.4 Corriente de rayo: La corriente que circula al punto en donde el rayo hace contacto con la tierra (a
+una estructura o a los elementos constitutivos del sistema de protección contra descargas eléctricas
+atmosféricas), asociada con el proceso súbito de neutralización de la carga de la nube, a través de un flujo de
+electrones en el canal ionizado mediante el que se realiza el movimiento de la carga de la nube a tierra,
+formado por descargas discontinuas en aire.
+   4.5 Descarga eléctrica: El flujo de corriente generada entre dos cuerpos con diferencia de potencial
+cuando se rompe el dieléctrico del aire entre ambos.
+     4.6 Descarga eléctrica atmosférica: La transferencia de cargas eléctricas entre nube y nube, o nube a
+tierra.
+   4.7 Densidad del rayo a tierra: El número de rayos que inciden a tierra por kilómetro cuadrado por año,
+en una región específica.
+    4.8 Electricidad estática: Las cargas eléctricas que se generan y almacenan en los materiales sólidos,
+partículas o fluidos.
+   4.9 Electrodo(s) de puesta a tierra; Electrodo(s) de la red de puesta a tierra: El (los) elemento(s)
+metálico(s) enterrado(s) que establece(n) una conexión eléctrica a tierra.
+    4.10 Pararrayos; Terminal aérea: Los elementos metálicos cuya función es ofrecer un punto de
+incidencia para recibir la descarga atmosférica.
+    4.11 Red de puesta a tierra; Sistema de puesta a tierra: El conjunto de conductores y conexiones,
+electrodo o electrodos, accesorios y otros elementos metálicos enterrados que interconectados entre sí tienen
+por objeto drenar a tierra las corrientes de un rayo y las generadas por las cargas eléctricas estáticas.
+     4.12 Sistema de protección contra descargas eléctricas atmosféricas: El conjunto de elementos
+utilizados para proteger un área contra el efecto de las descargas eléctricas atmosféricas. Este conjunto está
+compuesto de un sistema externo y de un sistema interno de protección, con base en lo siguiente:
+   a)     Sistema externo de protección contra descargas eléctricas atmosféricas; Sistema de
+          pararrayos: El conjunto de elementos para interceptar (terminales aéreas), conducir (conductores
+          de bajada) y disipar (red de puesta a tierra) en forma eficiente la corriente de rayo, y
+   b)     Sistema interno de protección contra descargas eléctricas atmosféricas: El conjunto de
+          elementos formado por todas aquellas medidas de protección que permiten reducir el riesgo de daño
+          a los trabajadores e instalaciones del centro de trabajo, mediante la puesta a tierra, unión
+          equipotencial, blindaje electromagnético, y supresores para sobretensiones.
+   4.13 Unión eléctrica; Conexión equipotencial: La conexión permanente de partes metálicas para formar
+una trayectoria eléctricamente conductora que asegure la continuidad y capacidad de conducir, de forma que
+se encuentren al mismo potencial eléctrico.
+   5. Obligaciones del patrón
+    5.1 Establecer las condiciones de seguridad para controlar la generación y/o acumulación de las cargas
+eléctricas estáticas en las áreas del centro de trabajo, conforme a lo que prevé el Capítulo 7 de esta Norma.
+    5.2 Instalar un sistema de protección contra descargas eléctricas atmosféricas en las áreas o instalaciones
+de los centros de trabajo donde se almacenen, manejen o transporten sustancias inflamables o explosivas, de
+acuerdo con lo determinado en el Capítulo 8 de la presente Norma.
+    5.3 Medir la resistencia a tierra de la red de puesta a tierra, de conformidad con lo que señala el Capítulo 9
+de esta Norma, comprobar la continuidad en los puntos de conexión a tierra, y en su caso, medir la humedad
+relativa cuando ésta sea una medida para controlar la generación y acumulación de cargas eléctricas
+estáticas, con base en lo dispuesto por el numeral 7.3 de la presente Norma.
+   5.4 Informar a todos los trabajadores y a la Comisión de Seguridad e Higiene, sobre los riesgos que
+representa la electricidad estática y la manera de evitarlos, en su caso, considerar a los contratistas,
+proveedores y visitantes.
+   5.5 Capacitar y adiestrar a los trabajadores sobre las técnicas para descargar o evitar la generación y
+acumulación de electricidad estática, conforme a lo que establece el Capítulo 10 de esta Norma.
+    5.6 Registrar los valores de la resistencia de la red de puesta a tierra, la comprobación de la continuidad
+eléctrica y, en su caso, de la humedad relativa, de acuerdo con lo previsto por los numerales 9.5 y 7.3, inciso
+a), respectivamente, de la presente Norma.
+   5.7 Exhibir ante la autoridad laboral, cuando así lo solicite, la información y documentación que esta
+Norma le obligue a elaborar o poseer.
+   Viernes 1 de abril de 2016                  DIARIO OFICIAL                               (Segunda Sección)
+
+   6. Obligaciones de los trabajadores
+   6.1 Observar las medidas de seguridad previstas en la presente Norma, así como las que se establezcan
+en el centro de trabajo para la prevención de riesgos por generación y acumulación de electricidad estática.
+   6.2 Participar en la capacitación y adiestramiento que el patrón les proporcione.
+    6.3 Notificar al patrón, de conformidad con el procedimiento que para tal efecto se establezca, cualquier
+situación anormal que detecten en los sistemas de puesta a tierra y sistema de protección contra descargas
+eléctricas atmosféricas.
+   7. Condiciones de seguridad
+   7.1 Las condiciones de seguridad para controlar la generación y/o acumulación de electricidad estática, se
+deberán determinar con base en lo siguiente:
+   a)   La naturaleza del trabajo (se refiere a las etapas del proceso, los equipos, la existencia de fricción, la
+        velocidad de conducción o vertido de fluidos y los tipos de procedimientos de trabajo, entre otras
+        características);
+   b)   Las características fisicoquímicas de las sustancias (temperatura, punto de inflamación, límite de
+        explosividad, viscosidad, conductividad específica de la sustancia, densidad, entre otras), que se
+        manejen, almacenen o transporten;
+   c)   Las características del ambiente en lo que se refiere a humedad relativa y temperatura, y
+   d)   Las características de los materiales de construcción de la maquinaria, equipo e inmueble.
+    7.2 Para controlar la generación o acumulación de electricidad estática se deberán adoptar, según
+apliquen, las medidas de seguridad siguientes:
+   a)   Instalar sistemas de puesta a tierra, dispositivos o equipos para controlar la electricidad estática, en
+        función de los tipos de procesos e instalaciones con que se cuente, tales como: ionizadores;
+        neutralizadores o eliminadores de electricidad estática; dispositivos con conexión a tierra; cepillos
+        mecánicos conectados a tierra; barras de disipación de electricidad estática, o mediante la aplicación
+        de tratamientos a bandas, entre otros;
+   b)   Asegurar la unión eléctrica o conexión equipotencial entre máquinas, equipos, contenedores y
+        componentes metálicos;
+   c)   Realizar la medición de la resistencia a tierra de la red de puesta a tierra, conforme a lo señalado por
+        el Capítulo 9 de la presente Norma, y la comprobación de la continuidad en los puntos de conexión a
+        tierra, al menos cada doce meses. Los valores deberán cumplir con lo siguiente:
+        1)   Tener un valor menor o igual a 10 ohms, para la resistencia a tierra del (los) electrodo(s) en
+             sistemas de pararrayos o sistema de protección contra descargas eléctricas atmosféricas;
+        2)   Tener un valor menor o igual a 25 ohms, para la resistencia a tierra de la red de puesta a tierra, y
+        3)   Existir continuidad eléctrica en los puntos de conexión a tierra del equipo que pueda generar o
+             almacenar electricidad estática. En la Guía de referencia I, se indican de manera ilustrativa los
+             puntos a inspeccionar y la forma de medir la continuidad eléctrica de las conexiones;
+   d)   Colocar pisos antiestáticos o conductivos;
+   e)   Humidificar el ambiente manteniendo una humedad relativa superior a 65%. Esta disposición no
+        aplica para aquellos casos en que, por la naturaleza de las sustancias, la humedad del aire
+        represente un peligro por reacción con la sustancia, en cuyo caso el control de la acumulación de la
+        electricidad estática se deberá realizar por otros medios;
+   f)   Ionizar el aire en la proximidad del equipo, contenedor u objeto cargados, y/o
+   g)   Aumentar la conductividad de los materiales susceptibles de generar y acumular cargas eléctricas
+        estáticas, mediante el agregado de aditivos conductivos (por ejemplo, negro de humo, aditivos de
+        carbono, grafito y otros productos conductores de la electricidad).
+   7.3 En las áreas de trabajo cerradas donde la humedad relativa sea la medida o una de las medidas
+adoptadas para controlar la acumulación de electricidad estática se deberá realizar lo siguiente:
+   a)   Mantener la humedad relativa en un nivel superior a 65%;
+   b)   Medir la humedad relativa y registrar su valor, al menos cada doce meses y/o cuando se realicen
+        modificaciones al área de trabajo que puedan afectar esta condición, y
+        (Segunda Sección)                        DIARIO OFICIAL                       Viernes 1 de abril de 2016
+
+   c)     Monitorear, en su caso, la humedad relativa de las áreas o procesos de manera continua cuando
+          constituya una medida de seguridad contra peligro de incendio o explosión. El monitoreo deberá
+          realizarse mediante equipos que cuenten con alarma que indique que la humedad relativa ha
+          descendido a niveles inferiores al establecido en el inciso a) del presente numeral.
+          El equipo que se utilice para la medición y/o monitoreo de la humedad relativa deberá contar con
+          certificado de calibración vigente, en los términos que dispone la Ley Federal sobre Metrología y
+          Normalización.
+     7.4 En las áreas de trabajo donde la presencia de electricidad estática en el cuerpo del trabajador
+represente un riesgo, se deberán colocar materiales antiestáticos o conductivos, o dispositivos para drenar a
+tierra las corrientes que se hayan acumulado en él.
+   7.5 En las zonas donde se manejen, almacenen o transporten sustancias inflamables o explosivas,
+deberán conectarse a tierra las partes metálicas que no estén destinadas a conducir energía eléctrica y que
+no se encuentren ya inherentemente conectados a tierra, tales como tanques metálicos, cajas metálicas de
+equipos, maquinaria y tuberías.
+   8. Sistema de protección contra descargas eléctricas atmosféricas
+   8.1 Los centros de trabajo o áreas que se clasifiquen como riesgo de incendio alto de acuerdo con lo
+establecido por la NOM-002-STPS-2010, o las que la sustituyan, deberán instalar un sistema de protección
+contra descargas eléctricas atmosféricas, tal como el sistema de pararrayos.
+   Para el diseño e instalación del sistema de protección contra descargas eléctricas atmosféricas, puede
+consultarse la Norma Mexicana NMX-J-549-ANCE-2005, o las que la sustituyan.
+   En la Guía de referencia I, se presentan algunos ejemplos en los que se sugiere considerar la instalación
+de un sistema de protección contra descargas eléctricas atmosféricas.
+    8.2 Para seleccionar un sistema externo de protección contra descargas eléctricas atmosféricas, ya sea
+con terminales aéreas convencionales o terminales aéreas de tecnologías alternativas, se deberán considerar,
+al menos, los factores siguientes:
+   a)     El arreglo general del centro de trabajo (planta, cortes y elevaciones);
+   b)     Las sustancias inflamables o explosivas que se almacenen, manejen o transporten en el centro de
+          trabajo, en cuanto a su inflamabilidad o explosividad, y la tendencia a generar y acumular cargas
+          eléctricas estáticas, por sus características fisicoquímicas y las de los contenedores y/o tuberías, así
+          como la naturaleza de los procesos a que están sujetas, y las condiciones presentes del ambiente;
+   c)     La densidad del rayo a tierra de la región, y
+   d)     La zona de protección del sistema.
+   8.3 El centro de trabajo deberá contar con un estudio que demuestre que el área de cobertura del sistema
+externo de protección contra descargas eléctricas atmosféricas comprende el edificio, local o zona de riesgo
+en la que se manejan las sustancias inflamables o explosivas. El estudio deberá ser elaborado por un
+ingeniero electricista o afín, y contener, al menos, lo siguiente:
+   a)     Tipo y características del sistema instalado;
+   b)     Altura de las terminales aéreas que sobresalen de cualquiera de las estructuras circundantes;
+   c)     Ubicación del sistema;
+   d)     Área de cobertura de protección con la metodología utilizada para su cálculo, y
+   e)     Nombre y firma de quien lo elaboró, así como número de cédula profesional.
+   8.4 Para reducir el riesgo de choque eléctrico derivado de la circulación de la corriente de rayo en los
+conductores de bajada y en los elementos de la red de puesta a tierra del sistema externo de protección
+contra descargas eléctricas atmosféricas, se deberá adoptar lo siguiente:
+   a)     Instalar un arreglo del sistema de puesta a tierra y proveer una superficie de alta resistividad en la
+          zona de tránsito de trabajadores, tal como grava triturada de 0.10 metros de espesor como mínimo,
+          entre el terreno natural y los elementos del sistema de puesta a tierra;
+   b)     Proveer una canalización no metálica con resistencia a la intemperie sobre la superficie del conductor
+          de bajada con el objeto de reducir la posibilidad de contacto accidental o incidental de los
+          trabajadores;
+   Viernes 1 de abril de 2016                   DIARIO OFICIAL                               (Segunda Sección)
+
+   c)    Colocar en la canalización avisos de precaución que indiquen el “PELIGRO: EVENTUAL
+         CORRIENTE DE RAYO”, conforme a lo dispuesto por la NOM-026-STPS-2008, o las que la
+         sustituyan;
+   d)    Unir eléctricamente al sistema de puesta a tierra (por debajo del nivel de piso) todos los elementos
+         metálicos y acero de refuerzo de la estructura a proteger, mediante electrodos de puesta a tierra
+         horizontales colocados a una profundidad mínima de 0.60 metros, y
+   e)    Instalar el conductor de bajada de tal forma que su recorrido sea lo más corto posible y se eviten
+         cruces con instalaciones eléctricas.
+    8.5 Los trabajadores que realicen actividades en lugares en los que exista exposición a la incidencia de
+descargas atmosféricas, y no estén protegidos contra este riesgo, tales como azoteas de edificios que
+sobresalen en altura con respecto a otras estructuras contiguas, postes o torres de alumbrado o cableado,
+plataformas elevadas, antenas, entre otros, deberán suspender la actividad tan pronto se aproxime una
+tormenta eléctrica.
+   8.6 La red de puesta a tierra de los sistemas de pararrayos deberá interconectarse con otras redes de
+puesta a tierra, tales como las de motores, subestaciones o sistema eléctrico en general.
+    8.7 Los electrodos de la red de puesta a tierra de los sistemas de pararrayos deberán permitir su
+desconexión cuando se realice la medición a que se refiere el Capítulo 9 de esta Norma. Para ello, los
+electrodos deberán contar con medios que permitan su desconexión y que eviten falsos contactos.
+   8.8 Queda prohibido utilizar pararrayos que estén fabricados o funcionen a base de materiales radiactivos.
+   9. Medición de la resistencia a tierra de la red de puesta a tierra
+   9.1 La medición de la resistencia a tierra de la red de puesta a tierra se deberá realizar aplicando el
+método de caída de tensión, de conformidad con lo que prevé el numeral 9.4 de la presente Norma. Esta
+medición deberá efectuarse tomando en consideración la condición más desfavorable en cuanto al grado de
+humedad del terreno en el que se ha instalado la red de puesta a tierra.
+    9.2 Para realizar la medición de la resistencia a tierra de la red de puesta a tierra se deberá contar con los
+instrumentos siguientes:
+   a)    Equipo de medición de resistencia de tierra con las características siguientes:
+         1)   Intervalo de frecuencia de 90 Hz a 200 Hz o mayor, y
+         2)   Con capacidad de proveer corriente con valores de al menos 0.1 mA;
+   b)    Accesorios provistos por el fabricante del equipo de medición o, en caso de no contar con accesorios
+         para el equipo de medición, utilizar cable o cordón aislado de cobre de forro apropiado a las
+         condiciones de uso con una designación de uso más común de 2.08 mm2 (14 AWG) o 1.307 mm2
+         (16 AWG), con accesorios en sus extremos para la correcta conexión al equipo y electrodos
+         auxiliares con una longitud mínima de 50 centímetros y un diámetro mínimo de 13 milímetros de
+         alguno de los materiales siguientes: acero inoxidable, acero con recubrimiento de cobre o acero
+         galvanizado;
+   c)    Óhmetro o medidor de resistencia a tierra para comprobar la continuidad de las conexiones a tierra,
+         con una resolución de al menos 1 ohm;
+   d)    Voltímetro con resolución de al menos 1 volt, y
+   e)    Flexómetro o instrumento similar de medición de longitud.
+    9.3 El óhmetro o medidor de resistencia a tierra y el voltímetro deberán contar con certificado de
+calibración vigente, en los términos de lo determinado por la Ley Federal sobre Metrología y Normalización.
+    9.4 La medición de la resistencia a tierra de la red de puesta a tierra se deberá realizar conforme a lo
+siguiente:
+   a)    Verificar que el electrodo bajo prueba (que corresponde a la red de puesta a tierra) esté
+         desconectado de la red de puesta a tierra, considerando lo siguiente:
+         1)   Realizar la desconexión de la red de puesta a tierra, con los equipos eléctricos desenergizados,
+              y
+         2)   Efectuar la medición de la resistencia a tierra desconectando cada electrodo de forma individual,
+              cuando ésta se realice en condiciones de operación normal, a fin de no desproteger a los
+              trabajadores;
+        (Segunda Sección)                        DIARIO OFICIAL                        Viernes 1 de abril de 2016
+
+   b)     Ajustar a cero la aguja del instrumento de medición analógico o verificar que la fuente de poder del
+          equipo digital tenga suficiente energía para realizar el conjunto de mediciones;
+   c)     Aplicar el método de caída de tensión de la manera siguiente:
+          1)   Hacer circular una corriente entre dos electrodos: uno llamado C1 (que corresponde a la red de
+               puesta a tierra) y un electrodo auxiliar denominado C2, mismo que se introduce al terreno a una
+               distancia mínima de 20 metros de C1. Para realizar la primera medición se introduce en el
+               terreno otro electrodo auxiliar llamado P1, a un metro de distancia de C1, entre el electrodo bajo
+               prueba C1 y el electrodo auxiliar C2;
+          2)   Desplazar el electrodo auxiliar P1 de manera lineal a 3 metros de la primera medición y en
+               dirección al electrodo auxiliar C2 para realizar la segunda medición, y
+          3)   Realizar las mediciones siguientes desplazando el electrodo auxiliar P1 cada 3 metros hasta
+               complementar 19 metros. En la Figura 1 se muestra la colocación de los electrodos de la red de
+               puesta a tierra, y auxiliares;
+   d)     Registrar los valores obtenidos de las mediciones;
+   e)     Elaborar una gráfica con base en los valores registrados, similar a la que se ilustra en la parte inferior
+          de la Figura 1 siguiente;
+
+
+
+
+          D1       Distancia entre el electrodo de la red de puesta a tierra C1 y el electrodo auxiliar P1.
+          DT       Distancia entre el electrodo de la red de puesta a tierra C1 y el electrodo auxiliar C2.
+          Figura 1 – Posición de electrodos y gráfica de valores de resistencia eléctrica vs. distancia
+   f)     Obtener el valor de la resistencia a tierra de la red de puesta a tierra de la intersección del eje de
+          resistencia con la parte paralela de la curva al eje de las distancias;
+   g)     Repetir las mediciones alejando el electrodo C2 del electrodo C1, cuando la curva obtenida no
+          presente un tramo paralelo, hasta obtener valores paralelos al eje de las distancias, y
+   h)     Verificar que los valores de la resistencia a tierra, de la red de puesta a tierra que se obtengan en
+          esta prueba, sean menores o iguales a 10 ohms para el (los) electrodo(s) del sistema de pararrayos,
+          y/o tener un valor menor o igual a 25 ohms para la resistencia a tierra de la red de puesta a tierra.
+    9.5 El resultado de las mediciones tendrá que registrarse, dicho registro deberá contener, como mínimo,
+lo siguiente:
+   Viernes 1 de abril de 2016                   DIARIO OFICIAL                               (Segunda Sección)
+
+   a)   Los datos del centro de trabajo:
+        1)   Nombre o razón social del centro de trabajo;
+        2)   Domicilio del centro de trabajo;
+        3)   Fecha de realización de la medición, y
+        4)   Nombre y firma de la persona que realizó la medición;
+   b)   Los datos de los instrumentos de medición:
+        1)   Nombre genérico del instrumento utilizado;
+        2)   Características del equipo de medición utilizado (modelo, número de serie, intervalos de
+             medición, precisión, exactitud, etc.), y
+        3)   Copia del certificado de calibración vigente del instrumento utilizado;
+   c)   Los valores de las mediciones:
+        1)   Valores de resistencia a tierra de la red de puesta a tierra y/o de la resistencia a tierra del (los)
+             electrodo(s) del sistema de pararrayos, y
+        2)   Indicación de si existe continuidad eléctrica de los puntos de conexión del sistema;
+   d)   El croquis en el que se muestre los puntos de medición del sistema de puesta a tierra y, en su caso,
+        del (los) electrodo(s) del sistema pararrayos, y
+   e)   Las características del sistema de pararrayos utilizado, en su caso, con al menos lo siguiente:
+        1)   Tipo de sistema de pararrayos;
+        2)   Altura de las terminales aéreas;
+        3)   Ubicación, y
+        4)   Área de cobertura de protección.
+   10. Capacitación y adiestramiento
+   10.1 A los trabajadores involucrados en actividades en las que se genere o acumule electricidad estática,
+en la instalación, revisión de sistemas de puesta a tierra y sistemas de pararrayos, así como en la
+determinación de la resistencia a tierra y continuidad de las redes, se les deberá proporcionar capacitación y
+adiestramiento para llevar a cabo estas actividades y prevenir los riesgos derivados de estas actividades, la
+cual comprenderá, al menos, lo siguiente:
+   a)   Los fundamentos técnicos sobre la generación y acumulación de cargas eléctricas estáticas;
+   b)   Los procesos en los que ocurre la generación y acumulación de cargas eléctricas estáticas, con
+        énfasis en los que se llevan a cabo en su centro de trabajo, y los mecanismos físicos por los cuales
+        se da en cada caso este fenómeno;
+   c)   Los materiales sólidos y fluidos, aislantes, semiconductores y conductores, susceptibles de cargarse
+        electrostáticamente;
+   d)   Los riesgos ocasionados por la electricidad estática, los métodos disponibles para su control,
+        disipación y descarga;
+   e)   Los riesgos derivados de descargas eléctricas atmosféricas y las medidas de seguridad                para
+        evitarlos;
+   f)   Las medidas de seguridad que señala esta Norma para prevenir los riesgos por generación y
+        acumulación de electricidad estática;
+   g)   Las condiciones de seguridad implementadas en el centro de trabajo, de manera adicional a lo
+        dispuesto por la presente Norma;
+   h)   Los procedimientos, en su caso, para llevar a cabo la instalación, revisión de sistemas de puesta a
+        tierra y sistemas de pararrayos, así como para la determinación de la resistencia a tierra y
+        continuidad de las redes, e
+   i)   El uso adecuado del equipo de protección personal que se le suministre para el desarrollo de sus
+        actividades, de conformidad con lo dispuesto por la NOM-017-STPS-2008, o las que la sustituyan.
+        (Segunda Sección)                         DIARIO OFICIAL                   Viernes 1 de abril de 2016
+
+  10.2 La capacitación y adiestramiento que se proporcione a los trabajadores deberá reforzarse por lo
+menos cada dos años.
+    10.3 Los centros de trabajo deberán llevar el registro de la capacitación y adiestramiento que proporcionen
+a los trabajadores, el cual deberá contener, al menos, lo siguiente:
+   a)     El nombre y puesto de los trabajadores a los que se les proporcionó;
+   b)     La fecha en que se proporcionó la capacitación y el adiestramiento;
+   c)     Los temas impartidos, y
+   d)     El nombre del instructor y, en su caso, número de registro como agente capacitador ante la
+          Secretaría del Trabajo y Previsión Social.
+   11. Unidades de verificación y laboratorios de prueba
+    11.1 El patrón tendrá la opción de contratar una unidad de verificación y/o un laboratorio de pruebas,
+acreditados y aprobados en los términos de lo que establece la Ley Federal sobre Metrología y Normalización
+y su Reglamento.
+   11.2 Las unidades de verificación contratadas a petición de parte deberán verificar el grado de
+cumplimiento con esta Norma, conforme a lo previsto por el procedimiento para la evaluación de la
+conformidad del Capítulo 12 de la presente Norma, y en su caso emitir un dictamen de cumplimiento, el cual
+habrá de contener:
+   a)     Datos del centro de trabajo verificado:
+          1)   Nombre, denominación o razón social;
+          2)   Registro Federal de Contribuyentes;
+          3)   Domicilio completo;
+          4)   Teléfono, y
+          5)   Actividad principal;
+   b)     Datos del organismo privado:
+          1)   Nombre, denominación o razón social;
+          2)   Número de acreditación;
+          3)   Número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social, y
+          4)   Domicilio completo, y
+   c)     Datos del dictamen:
+          1)   Clave de la norma;
+          2)   Nombre del verificador evaluado y aprobado;
+          3)   Servicios prestados: elaboración, ejecución y validación, en el caso de dictámenes con reporte
+               de servicios;
+          4)   Fecha de verificación;
+          5)   Número de dictamen;
+          6)   Vigencia del dictamen;
+          7)   Lugar de emisión del dictamen, y
+          8)   Fecha de emisión del dictamen.
+   11.3 Los laboratorios de prueba sólo podrán evaluar lo que determinan los numerales 5.3 y 7.2 inciso c), el
+Capítulo 9, y en su caso, lo señalado por el numeral 7.3 de esta Norma.
+    11.4 Los laboratorios de prueba deberán emitir un informe de resultados que incluya el registro, de
+acuerdo con lo que dispone el numeral 9.5 de la presente Norma y, en su caso, el resultado de la medición de
+la humedad relativa. El informe de resultados deberá contener:
+   Viernes 1 de abril de 2016                       DIARIO OFICIAL                               (Segunda Sección)
+
+   a)      Datos del centro de trabajo evaluado:
+           1)   Nombre, denominación o razón social;
+           2)   Registro Federal de Contribuyentes;
+           3)   Domicilio completo;
+           4)   Teléfono, y
+           5)   Actividad principal;
+   b)      Datos del organismo privado:
+           1)   Denominación o razón social;
+           2)   Número de acreditación;
+           3)   Número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social, y
+           4)   Domicilio completo, y
+   c)      Datos del informe de resultados:
+           1)   Clave de la norma, el procedimiento para la medición de la resistencia a tierra del (los)
+                electrodo(s) del sistema de pararrayos y de la red de puesta a tierra, de conformidad con lo
+                establecido en los numerales 9.1 y 9.4 de esta Norma, la comprobación de la continuidad en los
+                puntos de conexión a tierra y, en su caso, la medición y/o monitoreo de la humedad relativa;
+           2)   Nombre del signatario evaluado y aprobado;
+           3)   Equipo utilizado y su número de serie, con base en lo que prevén los numerales 9.2 y 9.3 de la
+                presente Norma;
+           4)   Fecha en que se realizó la medición de la resistencia a tierra del (los) electrodo(s) del sistema de
+                pararrayos y de la red de puesta a tierra, y comprobó la continuidad en los puntos de conexión a
+                tierra y, en su caso, la medición y/o monitoreo de la humedad relativa;
+           5)   Los resultados de las mediciones conforme a lo determinado por el numeral 9.5 de esta Norma;
+           6)   Número del informe de resultados;
+           7)   Vigencia del informe de resultados;
+           8)   Lugar de emisión del informe de resultados, y
+           9)   Fecha de emisión del informe de resultados.
+   11.5 La vigencia del dictamen de verificación y del informe de resultados cuando éstos sean favorables,
+será de un año, siempre y cuando no sean modificadas las condiciones que sirvieron para su emisión.
+    11.6 El directorio de las unidades de verificación y laboratorios de prueba que están aprobados por la
+dependencia, se puede consultar la página de la Secretaría del Trabajo y Previsión Social, vía Internet, en la
+dirección electrónica: http://organismosprivados.stps.gob.mx/organismosprivados/index.html.
+   12. Procedimiento para la Evaluación de la Conformidad
+    12.1 El procedimiento para la evaluación de la conformidad aplica tanto a las visitas de inspección
+desarrolladas por la autoridad laboral, como a las visitas de verificación que realicen las unidades de
+verificación.
+    12.2 El informe de resultados y el dictamen de verificación vigente, en su caso, deberán estar a
+disposición de la autoridad laboral cuando ésta lo solicite.
+   12.3 Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se realizarán,
+según aplique, mediante la constatación física, revisión documental, registros o entrevistas, de conformidad
+con lo siguiente:
+                        Tipo de
+   Disposición                                    Criterio de aceptación                 Observaciones     Riesgo
+                       evaluación
+
+ 5.1 y 7            Física             El patrón cumple cuando, al realizar un                           Grave
+                                       recorrido por el centro de trabajo, se constata
+                                       que establece condiciones de seguridad para
+                                       controlar la generación y acumulación de las
+                                       cargas eléctricas estáticas en las áreas del
+                                       centro de trabajo.
+(Segunda Sección)                     DIARIO OFICIAL                            Viernes 1 de abril de 2016
+
+           Documental   El patrón cumple cuando presenta evidencia
+                        documental de que determina las condiciones
+                        de seguridad para controlar la generación y/o
+                        acumulación de electricidad estática, con base
+                        en:
+                            La naturaleza del trabajo (se refiere a las
+                             etapas del proceso, los equipos, la
+                             existencia de fricción, la velocidad de
+                             conducción o vertido de fluidos y los tipos
+                             de procedimientos de trabajo, entre otras
+                             características);
+                            Las características fisicoquímicas de las
+                             sustancias    (temperatura,    punto   de
+                             inflamación, límite de explosividad,
+                             viscosidad, conductividad específica de la
+                             sustancia, densidad, entre otras), que se
+                             manejan, almacenan o transportan;
+                            Las características del ambiente en lo que
+                             se refiere a humedad relativa y
+                             temperatura, y
+                            Las características de los materiales de
+                             construcción de la maquinaria, equipo e
+                             inmueble.
+           Física       El patrón cumple cuando, al realizar un                                  Grave
+                        recorrido por el centro de trabajo, se constata
+                        que para controlar la generación o acumulación
+                        de electricidad estática se aplica, entre otras,
+                        las medidas de seguridad siguientes:
+                            Instala sistemas de puesta a tierra,
+                             dispositivos o equipos para controlar la
+                             electricidad estática, en función de los
+                             tipos de procesos e instalaciones con que
+                             se cuenta, tales como: ionizadores;       Esta disposición no
+                             neutralizadores     o   eliminadores   de aplica para aquellos
+                             electricidad estática; dispositivos con   casos en que por la
+                             conexión a tierra; cepillos mecánicos     naturaleza de las
+                             conectados a tierra; barras de disipación sustancias,        la
+                             de electricidad estática, o mediante la   humedad del aire
+                             aplicación de tratamientos a bandas, entrerepresente        un
+                             otros;                                    peligro por reacción
+                            Asegura la unión eléctrica o conexión con la sustancia, en
+                             equipotencial entre máquinas, equipos, cuyo caso el control
+                             contenedores y componentes metálicos;     de la acumulación
+                                                                       de la electricidad
+                            Coloca pisos antiestáticos o conductivos;
+                                                                       estática se deberá
+                            Humidifica el ambiente manteniendo una realizar por otros
+                             humedad relativa superior a 65%;          medios
+                            Ioniza el aire en la proximidad del equipo,
+                             contenedor u objeto cargados, y/o
+                            Aumenta la conductividad de los
+                             materiales susceptibles de generar y
+                             acumular cargas eléctricas estáticas,
+                             mediante el agregado de aditivos
+                             conductivos (por ejemplo, negro de humo,
+                             aditivos de carbono, grafito y otros
+                             productos conductores de la electricidad).
+
+           Documental   El patrón cumple cuando presenta evidencia Esta disposición no Grave
+                                                                           aplica   para   los
+Viernes 1 de abril de 2016                DIARIO OFICIAL                                             (Segunda Sección)
+
+                             documental de que:                                      centros de trabajo
+                                                                                     cuya red de puesta
+                                Realiza la medición de la resistencia a
+                                                                                     a tierra cubra áreas
+                                 tierra de la red de puesta a tierra y
+                                                                                     mayores a 100 000
+                                 comprueba la continuidad en los puntos
+                                                                                     m2,     para    ello   el
+                                 de conexión a tierra, al menos cada doce
+                                                                                     patrón            deberá
+                                 meses;
+                                                                            comprobar
+                                Los valores, la resistencia a tierra de la mediante   planos
+                                 red de puesta a tierra y la continuidad en que   el  sistema
+                                 los puntos de conexión a tierra cumplen comprende       dicha
+                                 con lo siguiente:                                   área
+                                     Tienen un valor menor o igual a 10
+                                      ohms, para la resistencia a tierra del
+                                      (los) electrodo(s) en sistemas de
+                                      pararrayos o sistema de protección
+                                      contra         descargas          eléctricas
+                                      atmosféricas;
+
+                                     Tienen un valor menor o igual a 25
+                                      ohms, para la resistencia a tierra de
+                                      la red de puesta a tierra, y
+
+                                     Existe continuidad eléctrica en los
+                                      puntos de conexión a tierra del
+                                      equipo      que     pueda    generar      o
+                                      almacenar electricidad estática, y
+
+                                En las áreas de trabajo cerradas donde la
+                                 humedad relativa es la medida o una de
+                                 las medidas adoptadas para controlar la
+                                 acumulación      de     electricidad    estática,
+                                 realiza lo siguiente:
+                                                                                     Esta disposición no
+                                     Mantiene la humedad relativa en un
+                                                                                     aplica para aquellos
+                                      nivel superior a 65%;
+                                                                            casos en que por la
+                                     Mide la humedad relativa y registra naturaleza de las
+                                      su valor, al menos cada doce meses, y sustancias,      la
+                                     Monitorea, en su caso, la humedad humedad del aire
+                                      relativa de las áreas o procesos de represente un
+                                      manera continua cuando constituye peligro por reacción
+                                      una medida de seguridad contra con la sustancia, en
+                                      peligro de incendio o explosión;               cuyo caso el control
+                                                                                     de la acumulación
+                                El monitoreo se realiza mediante equipos
+                                                                                     de     la   electricidad
+                                 que cuentan con alarma que indique que
+                                                                                     estática se deberá
+                                 la humedad relativa ha descendido a
+                                                                                     realizar    por    otros
+                                 niveles inferiores al 65%, y
+                                                                                     medios.
+                                El equipo que se utiliza en la medición y/o
+                                 monitoreo de la humedad relativa cuenta
+                                 con certificado de calibración vigente, en
+                                 los términos que dispone la Ley Federal
+                                 sobre Metrología y Normalización.
+
+               Física        El patrón cumple cuando, al realizar un
+                             recorrido por el centro de trabajo, se constata
+                             que:
+     (Segunda Sección)                    DIARIO OFICIAL                            Viernes 1 de abril de 2016
+
+                                En las áreas de trabajo donde la
+                                 presencia de electricidad estática en el
+                                 cuerpo del trabajador represente un
+                                 riesgo, se deberán colocar materiales
+                                 antiestáticos o conductivos, o dispositivos
+                                 para drenar a tierra las corrientes que se
+                                 hayan acumulado en él, y
+                                En las zonas donde se manejan,
+                                 almacenan o transportan sustancias
+                                 inflamables o explosivas, se conectan a
+                                 tierra las partes metálicas que no están
+                                 destinadas a conducir energía eléctrica y
+                                 que no se encuentran ya inherentemente
+                                 conectadas a tierra, tales como tanques
+                                 metálicos, cajas metálicas de equipos,
+                                 maquinaria y tuberías.
+
+5.2 y 8         Física       El patrón cumple cuando, al realizar un    Esta      disposición
+                             recorrido por el centro de trabajo se constata
+                                                                        sólo aplica cuando
+                             que instala un sistema de protección contrael centro de trabajo
+                             descargas eléctricas atmosféricas, tal como el
+                                                                        o sus áreas se
+                             sistema de pararrayos, cuando el centro de clasifiquen    como
+                             trabajo o sus áreas se clasifican como riesgo
+                                                                        riesgo de incendio
+                             de incendio alto de acuerdo con lo establecido
+                                                                        alto de acuerdo con
+                             por la NOM-002-STPS-2010, o las que la     lo dispuesto por la
+                             sustituyan.                                NOM-002-STPS-
+                Documental   El patrón cumple cuando presenta evidencia 2010, o las que la Grave
+                             documental de que:                         sustituyan.
+
+                                Considera para seleccionar un sistema        Para identificar si
+                                 externo de protección contra descargas       una sustancia es
+                                 eléctricas atmosféricas, ya sea con          inflamable           o
+                                 terminales aéreas convencionales o           explosiva          se
+                                 terminales    aéreas   de   tecnologías      deberán consultar
+                                 alternativas, al menos, los factores         las hojas de datos
+                                 siguientes:                                  de         seguridad
+                                                                              previstas por la
+                                     El arreglo general del centro de
+                                                                              NOM-018-STPS-
+                                      trabajo (planta, cortes y elevaciones);
+                                                                              2000, o las que la
+                                     Las    sustancias      inflamables    o sustituyan
+                                      explosivas que se almacenen,
+                                                                              La         selección,
+                                      manejen o transporten en el centro
+                                                                              diseño e instalación
+                                      de trabajo, en cuanto a su
+                                                                              del sistema externo
+                                      inflamabilidad o explosividad, y la
+                                                                              de         protección
+                                      tendencia a generar y acumular
+                                                                              contra     descargas
+                                      cargas eléctricas estáticas, por sus
+                                      características fisicoquímicas y las de eléctricas
+                                      los contenedores y/o tuberías, así atmosféricas,          así
+                                      como la naturaleza de los procesos a    como                la
+                                      que están sujetas, y las condiciones determinación de su
+                                      presentes del ambiente;                 zona de protección
+                                                                              se podrá realizar
+                                     La densidad del rayo a tierra de la conforme          a     lo
+                                      región, y                               dispuesto por       la
+                                     La zona de protección del sistema;      norma mexicana
+
+                                Cuenta con un estudio que demuestra que       NMX-J-549-ANCE-
+                                 el área de cobertura del sistema externo      2005, Sistema de
+                                 de protección contra descargas eléctricas     protección   contra
+                                 atmosféricas comprende el edificio, local o   tormentas eléctricas
+                                 zona de riesgo en la que se manejan las
+Viernes 1 de abril de 2016                DIARIO OFICIAL                                    (Segunda Sección)
+
+                                 sustancias inflamables o explosivas, y         - Especificaciones,
+                                                                                materiales        y
+                                 El estudio sobre el área de cobertura del
+                                  sistema externo de protección contra          métodos          de
+                                  descargas eléctricas atmosféricas fue         medición, o las que
+                                  elaborado por un ingeniero electricista o     la sustituyan.
+                                  afín, y contiene, al menos, lo siguiente: Está           norma
+                                   Tipo y características del sistema      mexicana   puede  ser
+                                        instalado;                          consultada         de
+                                                                            manera gratuita en
+                                   Altura de las terminales aéreas que
+                                                                            las instalaciones del
+                                        sobresalen de cualquiera de las
+                                                                            Organismo
+                                        estructuras circundantes;
+                                                                            Nacional           de
+                                   Ubicación del sistema;                  Normalización
+                                   Área de cobertura de protección con (Asociación            de
+                                        la metodología utilizada para su    Normalización        y
+                                        cálculo, y                          Certificación,  A.C.,
+                                                                            ANCE)               o,
+                                   Nombre y firma de quien lo elaboró,
+                                                                            directamente en la
+                                        así como número de cédula
+                                                                            dirección
+                                        profesional.
+                                                                            electrónica
+               Física        El patrón cumple cuando, al realizar un http://www.ance.org
+                             recorrido por el centro de trabajo se constata .mx/NormalizacionO
+                             que:                                           nLine/Index.aspx.
+
+                                Para reducir el riesgo de choque eléctrico
+                                 derivado de la circulación de la corriente
+                                 en los conductores de bajada y en los
+                                 elementos de la red de puesta a tierra del
+                                 sistema externo de protección contra
+                                 descargas eléctricas atmosféricas, adopta
+                                 lo siguiente:
+
+                                     Instala un arreglo del sistema de
+                                      puesta a tierra y proveer una
+                                      superficie de alta resistividad en la
+                                      zona de tránsito de trabajadores, tal
+                                      como grava triturada de 0.10 metros
+                                      de espesor como mínimo, entre el
+                                      terreno natural y los elementos del
+                                      sistema de puesta a tierra;
+
+                                     Provee una canalización no metálica
+                                      con resistencia a la intemperie sobre
+                                      la superficie del conductor de bajada
+                                      con el objeto de reducir la posibilidad
+                                      de contacto accidental o incidental de
+                                      los trabajadores;
+
+                                     Coloca en la canalización avisos de
+                                      precaución que indiquen “PELIGRO:
+                                      EVENTUAL       CORRIENTE        DE
+                                      RAYO”, conforme a lo dispuesto por
+                                      la NOM-026-STPS-2008, o las que la
+                                      sustituyan;
+
+                                     Une eléctricamente al sistema de
+                                      puesta a tierra (por debajo del nivel
+                                      de piso) todos los elementos
+                                      metálicos y acero de refuerzo de la
+                                      estructura a proteger, mediante
+                                      electrodos de puesta a tierra
+                                      horizontales   colocados    a    una
+     (Segunda Sección)                     DIARIO OFICIAL                         Viernes 1 de abril de 2016
+
+                                        profundidad mínima de 0.60 metros, e
+                                       Instala el conductor de bajada de tal
+                                        forma que su recorrido es lo más
+                                        corto posible y se evitan cruces con
+                                        instalaciones eléctricas;
+                                 La red de puesta a tierra de los sistemas
+                                  de pararrayos está interconectada, en su
+                                  caso, con otras redes de puesta a tierra,
+                                  tales como las de motores, subestaciones
+                                  o sistema eléctrico en general;
+                                 Los electrodos de la red de puesta a tierra
+                                  de los sistemas de pararrayos permiten su
+                                  desconexión cuando se realiza la
+                                  medición de la resistencia de la red de
+                                  puesta a tierra y cuentan con medios que
+                                  permiten su desconexión y que evitan
+                                  falsos contactos, y
+                                 Utiliza pararrayos que no están fabricados
+                                  o no funcionan a base de materiales
+                                  radiactivos.
+                Entrevista   El patrón cumple cuando, al entrevistar a los
+                             trabajadores seleccionados de acuerdo con el
+                             criterio muestral de la Tabla 2 del numeral 12.4,
+                             se constata que aquellos trabajadores que
+                             realizan actividades en lugares en los que
+                             existe exposición a la incidencia de descargas
+                             atmosféricas, y no están protegidos contra este
+                             riesgo, tales como azoteas de edificios que
+                             sobresalen en altura con respecto a otras
+                             estructuras contiguas, postes o torres de
+                             alumbrado o cableado, plataformas elevadas,
+                             antenas, entre otros, suspenden la actividad
+                             tan pronto se aproxima una tormenta eléctrica.
+5.3 y 9         Documental   El patrón cumple cuando presenta evidencia                             Grave
+                             documental de que:
+                              Mide la resistencia a tierra de la red de
+                                 puesta a tierra y comprueba la continuidad
+                                 en los puntos de conexión a tierra y, en su
+                                 caso, la humedad relativa cuando ésta es
+                                 una medida para controlar la generación y
+                                 acumulación      de     cargas    eléctricas
+                                 estáticas, con base en lo dispuesto por el
+                                 numeral 7.3 de la presente Norma, y
+                              La medición de la resistencia a tierra de la
+                                 red de puesta a tierra se realiza aplicando
+                                 el método de caída de tensión, de
+                                 conformidad con lo que prevé el numeral
+                                 9.4 de esta Norma, y esta medición se
+                                 efectúa tomando en consideración la
+                                 condición más desfavorable en cuanto al
+                                 grado de humedad del terreno en el que
+                                 está instalada la red de puesta a tierra.
+                Física       El patrón cumple cuando, al realizar un         La demostración del
+                             recorrido por el centro de trabajo se constata  cumplimiento     con
+                             que para realizar la medición de la resistencia a
+                                                                             este requerimiento
+                             tierra de la red de puesta a tierra cuenta con los
+                                                                             puede     efectuarse
+                             instrumentos siguientes:                        también
+                                                                             presentando
+                                 Equipo de medición de resistencia de
+                                                                             original o copia de
+                                  tierra con las características siguientes:
+                                                                             las especificaciones
+Viernes 1 de abril de 2016                DIARIO OFICIAL                               (Segunda Sección)
+
+                                     Intervalo de frecuencia de 90 Hz a técnicas de los
+                                      200 Hz o mayor, y                      equipos,
+                                                                             instrumentos,
+                                  Con capacidad de proveer corriente
+                                                                             electrodos       y
+                                      con valores de al menos 0.1 mA;
+                                                                             accesorios que se
+                                Accesorios provistos por el fabricante del emplearon      para
+                                 equipo de medición o, en caso de no realizar la medición
+                                 contar con accesorios para el equipo de de la resistencia de
+                                 medición, utiliza cable o cordón aislado de la red de puesta a
+                                 cobre de forro apropiado a las condiciones tierra,
+                                 de uso con una designación de uso más proporcionadas por
+                                 común de 2.08 mm2 (14 AWG) o 1.307 el fabricante.
+                                 mm2 (16 AWG), con accesorios en sus
+                                 extremos para la correcta conexión al
+                                 equipo y electrodos auxiliares con una
+                                 longitud mínima de 50 centímetros y un
+                                 diámetro mínimo de 13 milímetros de
+                                 alguno de los materiales siguientes: acero
+                                 inoxidable, acero con recubrimiento de
+                                 cobre o acero galvanizado;
+
+                                Óhmetro o medidor de resistencia a tierra
+                                 para comprobar la continuidad de las
+                                 conexiones a tierra, con una resolución de
+                                 al menos 1 ohm;
+
+                                Voltímetro con resolución de al menos 1
+                                 volt, y
+
+                                Flexómetro o instrumento        similar   de
+                                 medición de longitud.
+
+               Documental    El patrón cumple cuando presenta evidencia                           Grave
+                             documental de que:
+
+                                El óhmetro o medidor de resistencia a
+                                 tierra y el voltímetro cuentan con
+                                 certificado de calibración vigente, en los
+                                 términos de lo determinado por la Ley
+                                 Federal sobre Metrología y Normalización, y
+
+                                Se realiza la medición de la resistencia a
+                                 tierra de la red de puesta a tierra conforme
+                                 a lo siguiente:
+
+                                    Verifica que el electrodo bajo prueba
+                                     (que corresponde a la red de puesta
+                                     a tierra) está desconectado de la red
+                                     de puesta a tierra, considerando lo
+                                     siguiente:
+
+                                     o     Realiza la desconexión de la red
+                                           de puesta a tierra, con los
+                                           equipos               eléctricos
+                                           desenergizados, y
+
+                                     o     Efectúa la medición de la
+                                           resistencia       a        tierra
+                                           desconectando cada electrodo
+                                           de forma individual, cuando ésta
+                                           se realiza en condiciones de
+(Segunda Sección)           DIARIO OFICIAL                         Viernes 1 de abril de 2016
+
+                             operación normal, a fin de no
+                             desproteger a los trabajadores;
+
+                       Ajusta a cero la aguja del instrumento
+                        de medición analógico o verifica que
+                        la fuente de poder del equipo digital
+                        tiene suficiente energía para realizar
+                        el conjunto de mediciones;
+
+                       Aplica el método de caída de tensión
+                        de la manera siguiente:
+
+                        o    Hace circular una corriente entre
+                             dos electrodos: uno llamado C1
+                             (que corresponde a la red de
+                             puesta a tierra) y un electrodo
+                             auxiliar C2, mismo que introduce
+                             al terreno a una distancia
+                             mínima de 20 metros de C1.
+                             Para     realizar    la  primera
+                             medición introduce en el terreno
+                             otro       electrodo      auxiliar
+                             denominado P1, a un metro de
+                             distancia de C1, entre el
+                             electrodo bajo prueba C1 y el
+                             electrodo auxiliar C2;
+
+                        o    Desplaza el electrodo auxiliar P1
+                             de manera lineal a 3 metros de
+                             la primera medición y en
+                             dirección al electrodo auxiliar C2
+                             para    realizar    la   segunda
+                             medición, y
+
+                        o    Realiza         las      mediciones
+                             siguientes        desplazando    el
+                             electrodo auxiliar P1 cada 3
+                             metros hasta complementar 19
+                             metros. En la Figura 1 se
+                             muestra la colocación de los
+                             electrodos de la red de puesta a
+                             tierra, y auxiliares;
+
+                       Registra los valores obtenidos de las
+                        mediciones;
+
+                       Elabora una gráfica con base en los
+                        valores registrados, similar a la que
+                        se ilustra en la parte inferior de la
+                        Figura 1;
+
+                       Obtiene el valor de la resistencia a
+                        tierra de la red de puesta a tierra de
+                        la intersección del eje de resistencia
+                        con la parte paralela de la curva al
+                        eje de las distancias;
+                       Repite las mediciones alejando el
+                        electrodo C2 del electrodo C1,
+                        cuando la curva obtenida no presenta
+                        un tramo paralelo, hasta que obtiene
+                        valores paralelos al eje de las
+                        distancias, y
+                       Verifica   que   los   valores   de   la
+ Viernes 1 de abril de 2016                  DIARIO OFICIAL                                  (Segunda Sección)
+
+                                       resistencia a tierra, de la red de
+                                       puesta a tierra que se obtienen en
+                                       esta prueba, son menores o iguales a
+                                       10 ohms para el (los) electrodo(s) del
+                                       sistema de pararrayos, y/o tienen un
+                                       valor menor o igual a 25 ohms para
+                                       la resistencia a tierra de la red de
+                                       puesta a tierra.
+5.4             Documental    El patrón cumple cuando presenta evidencia         La evidencia para
+                              documental de que informa sobre los riesgos        dar     cumplimiento
+                              que representa la electricidad estática y la       con la información
+                              manera de evitarlos:                               que      el   patrón
+                                 A todos los trabajadores y                     proporciona a los
+                                                                                 trabajadores puede
+                                 A la Comisión de Seguridad e Higiene.
+                                                                                 ser a través de
+                                                                                 folletos, boletines,
+                                                                                 y/o carteles.
+5.5 y 10        Documental    El patrón cumple cuando presenta evidencia La              evidencia
+                              documental de que:                             documental       para
+                               Capacita y adiestra a los trabajadores       dar  cumplimiento    a
+                                  sobre las técnicas para descargar o evitar esta  obligación  son
+                                  la    generación     y   acumulación   de las constancias de
+                                  electricidad estática, y                   competencias         o
+                                                                             habilidades
+                               A los trabajadores involucrados en
+                                                                             laborales          en
+                                  actividades en las que se genera o
+                                                                             términos     de     lo
+                                  acumula electricidad estática, en la
+                                                                             dispuesto por la Ley
+                                  instalación, revisión de sistemas de
+                                                                             Federal del Trabajo.
+                                  puesta a tierra y sistemas de pararrayos,
+                                  así como en la determinación de la
+                                  resistencia a tierra y continuidad de las
+                                  redes, se les proporciona capacitación y
+                                  adiestramiento para prevenir los riesgos
+                                  derivados de estas actividades, la cual
+                                  comprende, al menos, los temas
+                                  siguientes:
+                                      Los fundamentos técnicos sobre la
+                                       generación y acumulación de cargas
+                                       eléctricas estáticas;
+                                      Los procesos en los que ocurre la
+                                       generación y acumulación de cargas
+                                       eléctricas estáticas, con énfasis en
+                                       los que se llevan a cabo en su centro
+                                       de trabajo, y los mecanismos físicos
+                                       por los cuales se da en cada caso
+                                       este fenómeno;
+
+                                      Los materiales sólidos y fluidos,
+                                       aislantes,     semiconductores       y
+                                       conductores,      susceptibles      de
+                                       cargarse electrostáticamente;
+
+                                      Los riesgos ocasionados por la
+                                       electricidad estática, los métodos
+                                       disponibles    para    su      control,
+                                       disipación y descarga;
+
+                                      Los riesgos derivados de descargas
+                                       eléctricas atmosféricas y las medidas
+                                       de seguridad para evitarlos;
+
+                                      Las    medidas   de     seguridad   que
+     (Segunda Sección)                   DIARIO OFICIAL                       Viernes 1 de abril de 2016
+
+                                     señala esta Norma para prevenir los
+                                     riesgos    por     generación        y
+                                     acumulación de electricidad estática;
+
+                                    Las condiciones de seguridad
+                                     implementadas en el centro de
+                                     trabajo, de manera adicional a lo
+                                     dispuesto por la presente Norma;
+
+                                    Los procedimientos, en su caso, para
+                                     llevar a cabo la instalación, revisión
+                                     de sistemas de puesta a tierra y
+                                     sistemas de pararrayos, así como
+                                     para la determinación de la
+                                     resistencia a tierra y continuidad, y
+
+                                    El uso adecuado del equipo de
+                                     protección personal que se le
+                                     suministre para el desarrollo de sus
+                                     actividades, de conformidad con lo
+                                     dispuesto por la NOM-017-STPS-
+                                     2008, o las que la sustituyan, y
+
+                               La capacitación y adiestramiento que se
+                                proporciona a los trabajadores se refuerza
+                                por lo menos cada dos años.
+
+                Registro   El patrón cumple cuando presenta evidencia de
+                           que cuenta con el registro de la capacitación y
+                           adiestramiento que proporcionan a los
+                           trabajadores, el cual contiene, al menos, lo
+                           siguiente:
+
+                               El nombre y puesto de los trabajadores a
+                                los que se les proporcionó;
+
+                               La fecha en que se proporcionó la
+                                capacitación y adiestramiento;
+
+                               Los temas impartidos, y
+
+                               El nombre del instructor y, en su caso,
+                                número de registro como agente
+                                capacitador ante la Secretaría del Trabajo
+                                y Previsión Social.
+
+5.6 y 9.5       Registro   El patrón cumple cuando presenta evidencia de
+                           que cuenta con los registros de los valores de
+                           la resistencia a tierra de la red de puesta a
+                           tierra, la comprobación de la continuidad
+                           eléctrica y, en su caso, de la humedad relativa.
+                           El registro contiene, como mínimo, lo siguiente:
+
+                               Los datos del centro de trabajo:
+
+                                    Nombre o razón social del centro de
+                                     trabajo;
+
+                                    Domicilio del centro de trabajo;
+
+                                    Fecha de realización de la medición, y
+
+                                    Nombre y firma de la persona que
+   Viernes 1 de abril de 2016                       DIARIO OFICIAL                                     (Segunda Sección)
+
+                                                realizó la medición;
+
+                                           Los datos        de   los    instrumentos   de
+                                            medición:
+
+                                               Nombre genérico del instrumento
+                                                utilizado;
+
+                                               Características    del     equipo de
+                                                medición utilizado (modelo, número
+                                                de serie, intervalos de medición,
+                                                precisión, exactitud, etc.), y
+
+                                               Copia del certificado de calibración
+                                                vigente del instrumento utilizado;
+
+                                           Los valores de las mediciones:
+
+                                               Valores de resistencia a tierra de la
+                                                red de puesta a tierra y/o de la
+                                                resistencia a tierra del (los)
+                                                electrodo(s)  del   sistema   de
+                                                pararrayos, e
+
+                                               Indicación de si existe continuidad
+                                                eléctrica de los puntos de conexión
+                                                del sistema;
+
+                                           El croquis en el que se muestre los puntos
+                                            de medición del sistema de puesta a tierra
+                                            y, en su caso, del (los) electrodo(s) del
+                                            sistema pararrayos;
+
+                                           Las características del sistema de
+                                            pararrayos utilizado, en su caso, con, al
+                                            menos, lo siguiente:
+
+                                               Tipo de sistema pararrayos;
+
+                                               Altura de las terminales aéreas;
+
+                                               Ubicación, y
+
+                                               Área de cobertura de protección, y
+
+                                           El valor de la humedad relativa,        en su
+                                            caso.
+
+    12.4 Para la selección de trabajadores por entrevistar, con el propósito de constatar el cumplimiento de las
+disposiciones que dispone el presente procedimiento para la evaluación de la conformidad, se aplicará el
+criterio muestral contenido en la Tabla 2 siguiente:
+                                                         Tabla 2
+                                           Muestreo por selección aleatoria
+
+                     Número total de trabajadores                       Número de trabajadores por entrevistar
+
+                                   1-15                                                      1
+
+                                  16-50                                                      2
+
+                                  51-105                                                     3
+
+                                                                    1 por cada 35 trabajadores hasta un máximo
+                                Más de 105
+                                                                                        de 15
+         (Segunda Sección)                     DIARIO OFICIAL                      Viernes 1 de abril de 2016
+
+  12.5 Las evidencias de tipo documental o los registros a que alude esta Norma podrán exhibirse de
+manera impresa o en medios magnéticos, y se deberán conservar al menos durante un año.
+   13. Vigilancia
+   La vigilancia del cumplimiento de la presente Norma Oficial Mexicana corresponde a la Secretaría del
+Trabajo y Previsión Social.
+   14. Bibliografía
+   14.1 Ministerio de Trabajo y Asuntos Sociales, España. Instituto Nacional de Seguridad e Higiene en el
+Trabajo. NTP 567: Protección frente a cargas electrostáticas. 2000.
+   14.2 NFPA 77, Recommended Practice on Static Electricity. 2007 Edition.
+   14.3 NFPA 780, Standard for the Installation of Lightning Protection Systems. 2014 Edition.
+   14.4 NFPA 30, Flammable and Combustible Liquids Code. 2000 Edition.
+   14.5 Industrial Accident Prevention Association. A Health and Safety Guideline for Your Workplace. Static
+Electricity. 2008.
+   14.6 NOM-001-SEDE-2012, Instalaciones Eléctricas (Utilización).
+   15. Concordancia con normas internacionales
+   Esta Norma Oficial Mexicana no concuerda con ninguna norma internacional, por no existir referencia
+alguna al momento de su elaboración.
+                                              TRANSITORIOS
+   PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a los seis meses siguientes a su
+publicación en el Diario Oficial de la Federación.
+    SEGUNDO. Durante el lapso señalado en el artículo anterior, los patrones cumplirán con la Norma Oficial
+Mexicana NOM-022-STPS-2008, Electricidad estática en los centros de trabajo - Condiciones de seguridad, o
+bien realizarán las adaptaciones para observar las disposiciones de esta Norma Oficial Mexicana y, en este
+último caso, la autoridad laboral proporcionará, previa solicitud por escrito de parte de los patrones
+interesados, asesoría y asistencia técnica en los términos que establece el Reglamento Federal de Inspección
+Federal del Trabajo y Aplicación de Sanciones, a efecto de instrumentar su cumplimiento, sin que los patrones
+se hagan acreedores a sanciones por el incumplimiento de la Norma en vigor.
+    TERCERO. A partir de la fecha en que entre en vigor la presente Norma quedará sin efectos la Norma
+Oficial Mexicana NOM-022-STPS-2008, Electricidad estática en los centros de trabajo - Condiciones de
+seguridad, publicada en el Diario Oficial de la Federación el 7 de noviembre de 2008.
+   Ciudad de México, a los diecisiete días del mes de marzo de dos mil dieciséis.- El Secretario del Trabajo y
+Previsión Social, Jesús Alfonso Navarrete Prida.- Rúbrica.
+
+                                           GUÍA DE REFERENCIA I
+
+     Ejemplos de instalaciones donde se presenta la generación de electricidad estática y medidas
+  tendientes a prevenir accidentes, y ejemplos en los que se sugiere considerar la instalación de un
+                             sistema de protección contra descargas atmosféricas
+
+   El contenido de esta guía es un complemento para la mejor comprensión de la presente Norma y no es de
+cumplimiento obligatorio.
+
+   En esta guía, se mencionan algunos ejemplos de instalaciones, equipos o procesos que pueden ser
+susceptibles de acumular o generar electricidad estática, y algunas de las medidas de seguridad que se
+recomienda considerar para la prevención de accidentes derivados de la generación y acumulación de
+electricidad estática.
+
+   I.1     Instalaciones, equipos o procesos en los que se pueden generar o acumular cargas eléctricas
+estáticas:
+   Viernes 1 de abril de 2016                    DIARIO OFICIAL                                 (Segunda Sección)
+
+   a)    La banda transportadora o banda de transmisión por polea, y partes en movimiento de maquinaria,
+         en las que se presenta contacto y fricción;
+
+   b)    El material laminado o tejido, tal como metal, papel, tela, etc., al pasar entre rodillos;
+
+   c)    Los equipos como ventiladores, bombas, secadoras, motores, entre otros;
+
+   d)    Las tuberías donde se transporten sustancias inflamables o explosivas, así como sus accesorios;
+
+   e)    Las instalaciones habilitadas para pintar o barnizar por pulverización, así como los objetos que han
+         de ser pintados o barnizados y las paredes de las cabinas, cubículos y recipientes, y el sistema de
+         aspiración;
+
+   f)    Los equipos utilizados en procesos de trasvase de sustancias inflamables y explosivas, por ejemplo,
+         trasvase de líquidos no conductores a través de tubería, al caer a chorro libre; asimismo cuando el
+         aire u otros gases burbujean a través de líquidos;
+
+   g)    Los gases que salen a gran velocidad por una boquilla, especialmente si arrastran líquido o
+         partículas sólidas;
+
+   h)    El transporte neumático y paso a través de tolvas de producto granulado o pulverizado, tal como
+         semillas, almidón en polvo, polvos metálicos, etc.;
+
+   i)    Las operaciones de llenado de contenedores y mezclado, filtrado y agitación, de sustancias
+         químicas, pudiendo acumularse la electricidad estática en la propia sustancia involucrada en alguna
+         de estas operaciones, así como extrusión de películas plásticas, y
+
+   j)    El uso de calzado dieléctrico, como el calzado aislante de suelas de goma y sintéticas, y vestimenta
+         de fibras como la seda, lana, tejido acrílico, rayón y fibras sintéticas en general.
+
+
+
+
+Figura I.1 – Ejemplo de algunos equipos en los que pueden generarse y acumularse cargas eléctricas
+                                              estáticas.
+
+   I.2 Consideraciones generales sobre las medidas de seguridad para prevenir accidentes por
+generación y acumulación de electricidad estática:
+
+   I.2.1 Uno de los primeros aspectos que deberán considerarse para prevenir accidentes por la electricidad
+estática es evaluar los riesgos que ésta puede implicar para los trabajadores y el propio centro de trabajo, en
+cuanto a:
+
+   a)    Identificación de los sitios, equipos, maquinaria, procesos, etc., donde las cargas eléctricas estáticas
+         pueden generarse y acumularse, algunos de los cuales se mencionan en el numeral I.1 de esta guía,
+         y
+
+   b)    Evaluación de los riesgos debido al peligro de incendio o explosión, o cualquier otro de distinta
+         naturaleza, relacionados con la generación y acumulación de electricidad estática.
+
+   En ocasiones, puede ser conveniente medir la carga eléctrica estática, empleando un instrumento
+apropiado como un voltímetro para un material conductor de la electricidad, y un voltímetro electrostático de
+        (Segunda Sección)                        DIARIO OFICIAL                       Viernes 1 de abril de 2016
+
+no-contacto, o medidor de campo eléctrico, para materiales no conductores. Este último instrumento detecta la
+intensidad del campo eléctrico a partir de la carga neta sobre o en el material no conductor.
+
+   I.2.2 Por lo que toca a los riesgos de ignición derivados de la electricidad estática, éstos pueden ser
+controlados mediante las siguientes medidas de seguridad:
+
+   a)     Remover la mezcla inflamable del área donde la electricidad estática pueda causar una descarga
+          eléctrica capaz de provocar la ignición de dicha mezcla;
+
+   b)     Reducir la generación o acumulación de cargas eléctricas estáticas, o ambos, por medio de cambios
+          en el proceso o materiales, y
+
+   c)     Neutralizar las cargas eléctricas estáticas, cuyos principales medios son la conexión a tierra de
+          materiales conductores y la ionización del aire.
+
+    I.2.3 Entre las medidas de control de electricidad estática, se tienen los mencionados a continuación; la
+figura I.2 ilustra algunas de estas medidas:
+
+   a)     Conexión a tierra de los componentes metálicos de maquinaria, contenedores, tubería, tolvas, entre
+          otros equipos;
+
+   b)     Conexión equipotencial entre máquinas, equipos, tuberías, contenedores y componentes metálicos;
+
+   c)     Humidificación del ambiente o de los materiales susceptibles de acumular cargas eléctricas estáticas;
+
+   d)     Ionización del aire en las proximidades del objeto cargado, a efecto de que el aire se haga lo
+          suficientemente conductor para disipar las cargas eléctricas estáticas. Los dispositivos empleados
+          suelen denominarse ionizadores, neutralizadores o eliminadores de electricidad estática;
+
+   e)     Incremento de la conductividad de los materiales agregando aditivos como el negro de humo a la
+          goma de neumáticos, mangueras y bandas o cintas transportadoras y de carbono, grafito y otros
+          productos conductores para reducir la resistencia eléctrica de asfaltos y suelos sintéticos;
+
+   f)     Uso de calzado conductivo o antiestático, así como de brazaletes o muñequeras y tobilleras
+          aplicados al personal, y conectados por cable a una puesta a tierra; asimismo, empleo de materiales
+          conductivos en pisos;
+
+   g)     Reducción de la velocidad de flujo de un líquido transportado por tubería, lo cual tiende a reducir a su
+          vez la velocidad de generación de electricidad estática;
+
+   h)     Extender la tubería de vertido de líquidos inflamables por la parte superior de un tanque, de forma
+          que esta tubería termine dentro de una distancia de 150 mm del fondo del tanque, para disminuir el
+          impacto de la distancia de caída y la salpicadura, lo cual tiende a disminuir la generación de
+          electricidad estática;
+
+   i)     Reducción de la concentración de oxígeno, o inertización. Por ejemplo, los valores de la
+          concentración de oxígeno por debajo de las cuales no se presenta ignición de las sustancias
+          indicadas a continuación son: acetona 13.5 %; disulfuro de carbono e hidrógeno 5.0 %; polvo de
+          harina de guisantes 15 % y polvo de aluminio 5 %. El gas más utilizado para la inertización es el
+          nitrógeno;
+
+   j)     Implementación de ventilación para impedir la formación de atmósferas inflamables o explosivas; en
+          la implementación de sistemas de ventilación deberán tomarse precauciones, ya que éstos pueden
+          constituir en sí mismos una fuente de generación y acumulación de cargas eléctricas estáticas;
+
+   k)     Transporte neumático de material granulado o pulverizado mediante tuberías metálicas conectadas a
+          tierra y los equipos a los cuales se conecta la tubería deberían ser metálicos y aterrizados para
+          disipar las cargas eléctricas estáticas que puedan generarse;
+Viernes 1 de abril de 2016                  DIARIO OFICIAL                             (Segunda Sección)
+
+
+
+
+a) Ejemplo de conexión equipotencial y puesta a tierra en el trasvase de líquidos inflamables.
+
+
+
+
+b) Ejemplo de neutralizadores estáticos en la proximidad de rodillo y lámina.
+        (Segunda Sección)                         DIARIO OFICIAL                    Viernes 1 de abril de 2016
+
+
+
+
+   c) Sistema a tierra típico para despacho de solvente de bajo volumen vía conector de tambo.
+
+
+
+
+   d) Sistema a tierra típico para despacho de solvente de bajo volumen vía bomba de tambo.
+   Figura I.2 – Ejemplo de algunas formas para proveer conexión equipotencial y conexión a tierra.
+   Para obtener mayor información de tipos, materiales y accesorios de puesta a tierra, se recomienda
+consultar la NOM-001-SEDE-2012, o las que la sustituyan.
+    I.3 Casos ejemplo adicionales a los determinados en esta Norma, en los que se sugiere considerar
+la instalación de un sistema de protección.
+   I.3.1 Algunos de los casos en los que la instalación de un sistema de protección contra descargas
+atmosféricas debiera ser considerada, tales como los indicados a continuación:
+   a)     Lugares en los que se reúne a grandes multitudes;
+   b)     Continuidad de servicios críticos;
+   c)     Alta densidad de rayos a tierra;
+   d)     Edificios o estructuras altas y aisladas, y
+   e)     Locales o edificios que contienen un patrimonio cultural irremplazable.
+                                     ________________________________
+

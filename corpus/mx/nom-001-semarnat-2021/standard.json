@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+  "kind": "nom",
+  "designation": "NOM-001-SEMARNAT-2021",
+  "official_title": "Que establece los límites permisibles de contaminantes en las descargas de aguas residuales en cuerpos receptores propiedad de la nación",
+  "issuing_authorities": [
+    "Secretaría de Medio Ambiente y Recursos Naturales"
+  ],
+  "regulatory_domains": [
+    "descargas de aguas residuales",
+    "cuerpos receptores nacionales",
+    "medio ambiente"
+  ],
+  "publication_date": "2022-03-11",
+  "effective_date": "2023-03-11",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-001-SEMARNAT-1996"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": null,
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/001semarnat2021.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5645374&fecha=11/03/2022",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-001-SEMARNAT-2021/",
+  "publisher": "Secretaría de Medio Ambiente y Recursos Naturales",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "cd84709ee92dd827bfd52f59333e09377cb59132af1a1be0b91bd41c68198dbe",
+  "extracted_text_sha256": "9d3ccf817cded92466a7835566485c91e799407ce8d7bbca28ef670861bba197",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "ordinal": "Primero",
+    "text": "Primero. La presente Norma Oficial Mexicana entrará en vigor a los dos meses posteriores a su\npublicación en el Diario Oficial de la Federación.",
+    "start_char": 50075,
+    "end_char": 50219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "ordinal": "Segundo",
+    "text": "Segundo. Durante el lapso señalado en el artículo anterior, los patrones cumplirán con la Norma Oficial\nMexicana NOM-025-STPS-1999, Condiciones de iluminación en los centros de trabajo, y en su caso,\nrealizarán las adaptaciones para observar las disposiciones de la presente Norma Oficial Mexicana y, en este\núltimo caso, las autoridades del trabajo proporcionarán a petición de los patrones interesados, asesoría y\norientación para instrumentar su cumplimiento, sin que los patrones se hagan acreedores a sanciones por el\nincumplimiento de la Norma vigente.",
+    "start_char": 50224,
+    "end_char": 50782
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "ordinal": "Tercero",
+    "text": "Tercero. Con la entrada en vigor de la presente Norma se cancela la Norma Oficial Mexicana NOM-025-\nSTPS-1999, Condiciones de iluminación en los centros de trabajo, publicada en el Diario Oficial de la\nFederación el 23 de diciembre de 1999.\n    Dado en la Ciudad de México, a los veintinueve días del mes de diciembre de dos mil ocho.- El Secretario\ndel Trabajo y Previsión Social, Javier Lozano Alarcón.- Rúbrica.\n\f   Martes 30 de diciembre de 2008               DIARIO OFICIAL                              (Primera Sección)\n\n                                          GUIA DE REFERENCIA “I”\n                       METODOS PARA EVALUAR LOS NIVELES DE ILUMINACION\n   El contenido de esta guía es un complemento para la mejor comprensión de la Norma y no es de\ncumplimiento obligatorio.\n   METODO IES\n   Se utiliza para evaluar el nivel de iluminación promedio en el área de trabajo, con base en la geometría del\nárea y la disposición de las luminarias, cuando:\n   •     El área sea regular y las luminarias se hallen simétricamente espaciadas en dos o más filas.\n   •     El área sea regular con una luminaria colocada simétricamente.\n   •     El área sea regular con una fila de luminarias.\n   •     El área sea regular con una o más lámparas continuas.\n   •     El área es regular con una fila de luminarias continuas.\n   •     El área es regular con techo luminoso.\n    Con este método, las mediciones se toman en unos pocos puntos del lugar de trabajo considerado\nrepresentativo de las mediciones que podrían llevarse a cabo en otros puntos de igual condición, con base en\nla regularidad del área del lugar y la simetría en la distribución de las luminarias.\n   METODO DE LA CONSTANTE DEL SALON\n    Se utiliza para evaluar el nivel de iluminación promedio en el lugar de trabajo a partir de cierto número de\nmediciones y puntos de medición en función de la constante del salón, K, que viene dada por donde L es el\nlargo del salón, A el ancho y h la altura de las luminarias sobre el plano útil.\n                                          K=(A*L)/[h(A+L)]\n                  Constante del Salón                               No. Mínimo de Puntos de Medición\n                           <1                                                      4\n                         1y<2                                                      9\n                         2y<3                                                      16\n                           ≥3                                                      25\n\n\n   DETERMINACION DE LA ILUMINACION PROMEDIO (Ep):\n   Cuando se realizan mediciones con el propósito de verificar los valores correspondientes a una instalación\nnueva, se deben tomar las precauciones necesarias para que las evaluaciones se lleven a cabo en\ncondiciones apropiadas (tensión nominal de alimentación, temperatura ambiente, elección de lámparas, etc.) o\npara que las lecturas del medidor de iluminancia se corrijan teniendo en cuenta estas condiciones.\n    El cálculo del nivel promedio de iluminación para el método de la constante del salón, se realiza con la\nsiguiente expresión:\n                                                  Ep=1/N (ΣEi)\n   Donde:\n   Ep = Nivel promedio en lux.\n   Ei = Nivel de iluminación Medido en lux en cada punto.\n   N = Número de medidas realizadas.\n   Método de evaluación en plano de trabajo: aplicable a tareas específicas, en especial aquellas que\nrequieren niveles mayores de iluminación por la dificultad del tamaño, contraste y tiempo de la tarea.\n                                       ___________________________",
+    "start_char": 50786,
+    "end_char": 54352,
+    "asserted_dates": [
+      "1999-12-23",
+      "2008-12-30"
+    ]
+  }
+]

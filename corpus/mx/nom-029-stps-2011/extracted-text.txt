@@ -1,0 +1,2906 @@
+   Jueves 29 de diciembre de 2011                DIARIO OFICIAL                             (Novena Sección)    1
+
+
+                        NOVENA SECCION
+            SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+NORMA Oficial Mexicana NOM-029-STPS-2011, Mantenimiento de las instalaciones eléctricas en los centros de
+trabajo-Condiciones de seguridad.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría del Trabajo
+y Previsión Social.
+    ROSALINDA VELEZ JUAREZ, Secretaria del Trabajo y Previsión Social, con fundamento en los artículos
+16 y 40, fracciones I y XI, de la Ley Orgánica de la Administración Pública Federal; 512, 523, fracción I, 524 y
+527, último párrafo, de la Ley Federal del Trabajo; 3o., fracción XI, 38, fracción II, 40, fracción VII, 47, fracción
+IV, y 51, cuarto párrafo, de la Ley Federal sobre Metrología y Normalización; 28 del Reglamento de la Ley
+Federal sobre Metrología y Normalización; 4o., 17, fracción I, y del 47 al 49 del Reglamento Federal de
+Seguridad, Higiene y Medio Ambiente de Trabajo, y 19 del Reglamento Interior de la Secretaría del Trabajo
+y Previsión Social, y
+                                                CONSIDERANDO
+   Que con fecha 9 de agosto de 2011, en cumplimiento de lo previsto por el artículo 46, fracción I, de la Ley
+Federal sobre Metrología y Normalización, la Secretaría del Trabajo y Previsión Social presentó ante el
+Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo, el Anteproyecto de
+Modificación de la presente Norma Oficial Mexicana, y que el citado Comité lo consideró correcto y acordó
+que se publicara como Proyecto en el Diario Oficial de la Federación;
+   Que con objeto de cumplir con lo dispuesto en los artículos 69-E y 69-H, de la Ley Federal de
+Procedimiento Administrativo, el Anteproyecto correspondiente fue sometido a la consideración de la
+Comisión Federal de Mejora Regulatoria, la que dictaminó favorablemente en relación con el mismo;
+    Que con fecha 21 de septiembre de 2011, en cumplimiento del Acuerdo por el que se establece la
+organización y Reglas de Operación del Comité Consultivo Nacional de Normalización de Seguridad y Salud
+en el Trabajo, y de lo previsto por el artículo 47, fracción I, de la Ley Federal sobre Metrología y
+Normalización, se publicó en el Diario Oficial de la Federación el Proyecto de modificación de la Norma Oficial
+Mexicana NOM-029-STPS-2005, Mantenimiento de las instalaciones eléctricas en los centros de
+trabajo-Condiciones de seguridad, para quedar como PROY-NOM-029-STPS-2011, Operación y
+mantenimiento de las instalaciones eléctricas en los centros de trabajo - Condiciones de seguridad, a efecto
+de que, dentro de los 60 días naturales siguientes a dicha publicación, los interesados presentaran sus
+comentarios al Comité;
+    Que habiendo recibido comentarios de 14 promoventes, el Comité referido procedió a su estudio y resolvió
+oportunamente sobre los mismos, publicando esta dependencia las respuestas respectivas en el Diario Oficial
+de la Federación de 13 de diciembre de 2011, en cumplimiento a lo previsto por el artículo 47, fracción III, de
+la Ley Federal sobre Metrología y Normalización;
+    Que derivado de la incorporación de los comentarios presentados al Proyecto de modificación de la Norma
+Oficial Mexicana NOM-029-STPS-2005, Mantenimiento de las instalaciones eléctricas en los centros de
+trabajo-Condiciones de seguridad, para quedar como PROY-NOM-029-STPS-2011, Operación y
+mantenimiento de las instalaciones eléctricas en los centros de trabajo-Condiciones de seguridad, así como
+de la revisión final del propio proyecto, se realizaron diversas modificaciones con el propósito de dar claridad,
+congruencia y certeza jurídica en cuanto a las disposiciones que aplican en los centros de trabajo, y
+   Que en atención a las anteriores consideraciones y toda vez que el Comité Consultivo Nacional de
+Normalización de Seguridad y Salud en el Trabajo otorgó la aprobación respectiva, se expide la siguiente:
+    NORMA OFICIAL MEXICANA NOM-029-STPS-2011, MANTENIMIENTO DE LAS INSTALACIONES
+          ELECTRICAS EN LOS CENTROS DE TRABAJO-CONDICIONES DE SEGURIDAD
+                                                      INDICE
+   1.    Objetivo
+   2.    Campo de aplicación
+   3.    Referencias
+   4.    Definiciones
+   2     (Novena Sección)                      DIARIO OFICIAL                 Jueves 29 de diciembre de 2011
+
+   5.     Obligaciones del patrón
+
+   6.     Obligaciones de los trabajadores
+
+   7.     Plan de trabajo y determinación de riesgos potenciales
+
+   8.     Procedimientos de seguridad para realizar actividades de mantenimiento de las instalaciones
+          eléctricas
+
+   9.     Medidas de seguridad generales para realizar trabajos de mantenimiento de las instalaciones
+          eléctricas
+
+   10.    Condiciones de seguridad en el mantenimiento de las instalaciones eléctricas
+
+   11.    Medidas de seguridad para realizar trabajos de mantenimiento de las instalaciones eléctricas aéreas
+          y subterráneas
+
+   12.    Medidas de seguridad para realizar trabajos de mantenimiento de las instalaciones eléctricas
+          energizadas
+
+   13.    Plan de atención a emergencias
+
+   14.    Capacitación
+
+   15.    Unidades de verificación
+
+   16.    Procedimiento para la evaluación de la conformidad
+
+   17.    Vigilancia
+
+   18.    Bibliografía
+
+   19.    Concordancia con normas internacionales
+
+          TRANSITORIOS
+
+          Guía de Referencia I Medidas de seguridad para actividades básicas de mantenimiento a
+          instalaciones eléctricas con tensiones menores a 600 V
+
+
+
+   1. Objetivo
+
+    Establecer las condiciones de seguridad para la realización de actividades de mantenimiento de las
+instalaciones eléctricas en los centros de trabajo, a fin de evitar accidentes al personal responsable de
+llevarlas a cabo y a personas ajenas a dichas actividades que pudieran estar expuestas.
+
+   2. Campo de aplicación
+
+    La presente Norma aplica en todos los centros de trabajo del territorio nacional en donde se realicen
+actividades de mantenimiento de las instalaciones eléctricas permanentes o provisionales, las que se
+desarrollen en las líneas eléctricas aéreas y subterráneas, así como las que se lleven a cabo con líneas
+energizadas.
+
+   3. Referencias
+
+  Para la correcta interpretación de esta Norma, se deberán consultar las siguientes normas oficiales
+mexicanas vigentes o las que las sustituyan:
+
+   3.1 NOM-001-SEDE-2005, Instalaciones Eléctricas (utilización).
+
+    3.2 NOM-017-STPS-2008, Equipo de protección personal - Selección, uso y manejo en los centros de
+trabajo.
+
+     3.3 NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por
+fluidos conducidos en tuberías.
+   Jueves 29 de diciembre de 2011              DIARIO OFICIAL                          (Novena Sección)   3
+
+   4. Definiciones
+
+   Para efectos de la presente Norma, se establecen las definiciones siguientes:
+
+    4.1 Autoridad del trabajo; autoridad laboral: Las unidades administrativas competentes de la Secretaría
+del Trabajo y Previsión Social que realizan funciones de inspección en materia de seguridad y salud en el
+trabajo, y las correspondientes de las entidades federativas y del Distrito Federal, que actúen en auxilio de
+aquéllas.
+
+    4.2 Autorización: El acto mediante el cual el patrón, o una persona responsable del mantenimiento de las
+instalaciones eléctricas designada por él, aprueba por escrito que los trabajadores capacitados realicen dichos
+trabajos en altura, espacios confinados o subestaciones, así como a los que manejen instalaciones eléctricas
+energizadas.
+
+   4.3 Centros de trabajo: Todos aquellos lugares, tales como edificios, locales, instalaciones y áreas donde
+se realicen actividades de producción, comercialización, transporte y almacenamiento, o de prestación de
+servicios, o en los que laboren personas que estén sujetas a una relación de trabajo.
+
+    4.4 Cerrar el circuito: El restablecimiento de las conexiones eléctricas que energizan una instalación
+eléctrica.
+
+    4.5 Comprobación de ausencia de tensión eléctrica: La verificación realizada para determinar si una
+instalación eléctrica o parte de ella ha sido desenergizada.
+
+   4.6 Despacho; centro de maniobras: El lugar desde el que se asume el control permanente del estado
+de la red o instalación eléctrica y se ordenan las maniobras que deberán efectuarse para lograr que la
+operación sea lo más segura posible.
+
+   4.7 Elementos con tensión eléctrica: Aquéllos que tienen potencial eléctrico, es decir, que se
+encuentran energizados.
+
+    4.8 Equipo de protección personal (EPP): El conjunto de elementos y dispositivos de uso personal para
+proteger al trabajador de accidentes y enfermedades, que pudieran ser causados por agentes o factores
+generados con motivo de la realización de sus actividades de trabajo. Cuando en el análisis de riesgo se
+establezca la necesidad de utilizar ropa de trabajo con características específicas de protección, ésta será
+considerada como equipo de protección personal.
+
+    4.9 Espacio confinado: Aquel lugar lo suficientemente amplio, con ventilación natural deficiente,
+configurado de tal manera que una persona puede desempeñar una determinada tarea en su interior, que
+tiene medios limitados o restringidos para su acceso o salida, que no está diseñado para ser ocupado por una
+persona en forma continua y en el cual se realizan trabajos específicos ocasionalmente.
+
+  4.10 Etiqueta de seguridad; bloqueo: El medio mecánico, eléctrico o visual que prohíbe se realicen
+maniobras en una instalación eléctrica o en un elemento de la misma.
+
+   4.11 Exhibir: La acción de presentar los registros y/o documentos, mediante cualquier medio, electrónico
+o impreso, a la autoridad laboral que lo solicite, a fin de constatar el cumplimiento de los requisitos que
+establece esta Norma.
+
+    4.12 Instalación eléctrica: El conjunto de dispositivos tales como, conductores, transformadores,
+protecciones, y demás accesorios destinados a generar, transmitir o distribuir la energía eléctrica.
+
+    4.13 Jefe de trabajo: La persona que dirige un trabajo de mantenimiento de las instalaciones eléctricas
+por designación o delegación de sus superiores, siendo responsable del mismo.
+
+    4.14 Líneas eléctricas: Todos aquellos conductores, materiales y equipos que integran las instalaciones
+eléctricas aéreas y subterráneas conductoras de energía eléctrica.
+
+    4.15 Mantenimiento de las instalaciones eléctricas: Todas aquellas actividades relacionadas con la
+revisión, montaje, desmontaje, manipulación y servicios proporcionados a las instalaciones eléctricas para
+la conservación de sus características operativas y de diseño en forma segura y confiable.
+   4   (Novena Sección)                         DIARIO OFICIAL                  Jueves 29 de diciembre de 2011
+
+   4.16 Operable a distancia: El elemento capaz de ser accionado sin que el operador se exponga al
+contacto con las partes energizadas.
+   4.17 Partes vivas: Los componentes eléctricos, tales como barras, terminales, conductores, entre otros,
+que se encuentran expuestos, sin aislar y energizados.
+   4.18 Patrón: La persona física o moral que utiliza los servicios de uno o varios trabajadores, en cuyo
+centro de trabajo cuenta con instalaciones eléctricas permanentes o provisionales, y que es responsable de
+sus condiciones de seguridad.
+    4.19 Persona capacitada: Aquel trabajador cuya capacitación y adiestramiento han sido comprobados en
+términos de la legislación vigente o por medio de un proceso de certificación, para intervenir en el diseño,
+cálculo, construcción o mantenimiento de una determinada instalación eléctrica.
+    4.20 Personal autorizado: La persona o personas que conocen y aplican los procedimientos de
+seguridad en el mantenimiento de las instalaciones eléctricas y cuentan con la autorización por escrito del
+patrón para realizar estas actividades.
+     4.21 Personal expuesto: La persona o personas que al realizar un trabajo de mantenimiento de una
+instalación eléctrica pueden recibir una descarga eléctrica o sus efectos, como consecuencia de un contacto,
+falla o aproximación a elementos energizados.
+    4.22 Procedimiento de seguridad: La forma detallada y secuencial de llevar a cabo una actividad. Se
+expresa en documentos que contienen el objeto y el campo de aplicación de la actividad; la forma en que ésta
+deberá realizarse; la identificación de peligros, riesgos potenciales, posibles lesiones, así como el equipo de
+protección a utilizar; las funciones y/o responsabilidades de los trabajadores que intervienen, al igual que los
+materiales, equipos o implementos de trabajo que habrán de utilizarse, controlarse y registrarse.
+    4.23 Puesta a tierra eficaz: El contacto físico intencional al terreno, a través de una conexión o
+conexiones de conductores de impedancia suficientemente baja, y de capacidad adecuada de conducción
+de corriente eléctrica, para eliminar la formación de sobretensiones eléctricas y conducir a tierra las corrientes
+de falla, inducción o descargas atmosféricas, a fin de evitar daños a las personas o a los equipos conectados.
+    4.24 Riesgo grave: Aquél que compromete la integridad física y/o la vida de los trabajadores que realizan
+las labores de mantenimiento de las instalaciones eléctricas, debido a que puede conllevar un choque
+eléctrico y/o quemaduras por arco eléctrico, con motivo de la omisión en el cumplimiento de las condiciones
+de seguridad previstas en esta Norma, y que requiere de atención urgente.
+    4.25 Riesgo potencial: Aquél que se puede producir por los efectos de la exposición del trabajador a la
+corriente eléctrica, tales como choque eléctrico y quemaduras por arco eléctrico.
+    4.26 Zona de trabajo: El lugar donde se desarrollan actividades de mantenimiento de las instalaciones
+eléctricas por los trabajadores.
+   5. Obligaciones del patrón
+    5.1 Prohibir que menores de 16 años y mujeres gestantes realicen actividades de mantenimiento de las
+instalaciones eléctricas.
+    5.2 Contar con el plan de trabajo para los trabajadores que realizan actividades de mantenimiento de las
+instalaciones eléctricas, de conformidad con lo dispuesto en el Capítulo 7 de la presente Norma.
+    5.3 Contar con el diagrama unifilar actualizado de la instalación eléctrica del centro de trabajo, con base en
+lo dispuesto por la NOM-001-SEDE-2005, o las que la sustituyan, y con el cuadro general de cargas
+instaladas por circuito derivado, el cual deberá estar disponible para el personal que realice el mantenimiento
+de dichas instalaciones.
+    5.4 Contar con los procedimientos de seguridad para las actividades de mantenimiento de las
+instalaciones eléctricas; la selección y uso del equipo de trabajo, maquinaria, herramientas e implementos de
+protección aislante, y la colocación del sistema de puesta a tierra temporal, de acuerdo con lo establecido en
+el Capítulo 8 de esta Norma.
+   Jueves 29 de diciembre de 2011              DIARIO OFICIAL                          (Novena Sección)   5
+
+   5.5 Realizar las actividades de mantenimiento de las instalaciones eléctricas sólo con personal capacitado.
+    5.6 Proporcionar al personal que desarrolle las actividades de mantenimiento de las instalaciones
+eléctricas, el equipo de trabajo, maquinaria, herramientas e implementos de protección aislante que
+garanticen su seguridad, según el nivel de tensión o corriente de alimentación de la instalación eléctrica.
+    5.7 Elaborar y dar seguimiento a un programa de revisión y conservación del equipo de trabajo,
+maquinaria, herramientas e implementos de protección aislante utilizados en las actividades de mantenimiento
+de las instalaciones eléctricas, el cual deberá contener al menos, las fechas de realización, el responsable de
+su cumplimiento y el resultado de su ejecución.
+    5.8 Contar con procedimientos de revisión, conservación, almacenamiento y reemplazo del equipo de
+trabajo, maquinaria, herramientas e implementos de protección aislante, para realizar las actividades
+de mantenimiento de las instalaciones eléctricas.
+    5.9 Proporcionar a los trabajadores que realizan actividades de mantenimiento de las instalaciones
+eléctricas, el equipo de protección personal, conforme a lo dispuesto por la NOM-017-STPS-2008, o las que
+la sustituyan.
+    5.10 Contar con procedimientos para el uso, revisión, reposición, limpieza, limitaciones, resguardo y
+disposición final del equipo de protección personal, basados en la información del fabricante, y de conformidad
+con lo que señala la NOM-017-STPS-2008, o las que la sustituyan.
+    5.11 Cumplir, según aplique, con las medidas y condiciones de seguridad establecidas en los capítulos
+del 9 al 12 de la presente Norma, para realizar actividades de mantenimiento de las instalaciones eléctricas.
+   5.12 Disponer en las zonas de trabajo de al menos un extintor, accesible en todo momento, de la
+capacidad y tipo de fuego que se pueda presentar, de acuerdo con la determinación de riesgos potenciales a
+que se refiere el numeral 7.2 de esta Norma.
+    5.13 Autorizar por escrito a trabajadores capacitados para realizar actividades de mantenimiento de las
+instalaciones eléctricas en altura, espacios confinados o subestaciones, así como a los que manejen
+partes vivas.
+    5.14 Informar a los trabajadores que realicen actividades de mantenimiento de las instalaciones eléctricas,
+sobre los riesgos a los que están expuestos y de las medidas de seguridad que deberán adoptar para la
+actividad a desarrollar en la zona de trabajo.
+    5.15 Contar con un plan de atención a emergencias, disponible para su consulta y aplicación, con base en
+lo establecido en el Capítulo 13 de la presente Norma.
+   5.16 Contar con un botiquín de primeros auxilios que contenga el manual y los materiales de curación
+necesarios para atender los posibles casos de emergencia, identificados de acuerdo con los riesgos a que
+estén expuestos los trabajadores, y para atender a los lesionados o accidentados por efectos de la
+energía eléctrica.
+   5.17 Proporcionar capacitación y adiestramiento a los trabajadores que realicen actividades de
+mantenimiento de las instalaciones eléctricas del centro de trabajo, con base en los procedimientos
+de seguridad que para tal efecto se elaboren, conforme a lo dispuesto en el Capítulo 14 de esta Norma.
+   5.18 Supervisar que los contratistas cumplan con lo establecido en la presente Norma, cuando el patrón
+convenga servicios con ellos para realizar trabajos de mantenimiento de las instalaciones eléctricas.
+   5.19 Contar con registros de los resultados del mantenimiento llevado a cabo a las instalaciones eléctricas,
+que al menos consideren el nombre del responsable de realizar el trabajo; las actividades desarrolladas y sus
+resultados, así como las fechas en que se realizaron dichos trabajos.
+   5.20 Exhibir los documentos que esta Norma le obligue a elaborar o poseer.
+   6. Obligaciones de los trabajadores
+    6.1 Revisar antes del inicio de sus actividades, que el equipo de trabajo, maquinaria, herramientas e
+implementos de protección aislante utilizados en las actividades de mantenimiento de las instalaciones
+eléctricas, se encuentren en condiciones de seguridad y operación, y reportar inmediatamente al patrón o a la
+comisión de seguridad e higiene cualquier anomalía detectada que lo ponga en riesgo durante su uso.
+   6    (Novena Sección)                            DIARIO OFICIAL               Jueves 29 de diciembre de 2011
+
+   6.2 Cumplir con los procedimientos de seguridad establecidos para realizar sus actividades.
+   6.3 Participar en la capacitación y adiestramiento que el patrón les proporcione.
+    6.4 Participar en las actividades en las que se les informe sobre los riesgos a los que están expuestos y
+las medidas de seguridad que deberán adoptar para el desarrollo de su trabajo.
+   6.5 Utilizar el equipo de protección personal proporcionado por el patrón, de conformidad con los
+procedimientos de uso, revisión, reposición, limpieza, mantenimiento, resguardo y disposición final.
+   6.6 Abstenerse de realizar actividades que puedan tener como consecuencia accidentes y/o daños
+materiales, que contravengan a lo dispuesto por la presente Norma y a lo establecido por el patrón.
+    6.7 Avisar por escrito al patrón y a la comisión de seguridad e higiene, de los incidentes, accidentes,
+condiciones y actos inseguros, o sobre situaciones de emergencia, real o potencial, detectados durante la
+ejecución de sus actividades.
+   6.8 Seguir las instrucciones que el patrón establezca, en caso de emergencia, conforme al plan de
+atención a emergencias.
+   6.9 Participar en las entrevistas que realice la autoridad laboral o, en su caso, la unidad de verificación.
+   7. Plan de trabajo y determinación de riesgos potenciales
+    7.1 Por cada actividad de mantenimiento de las instalaciones eléctricas se deberá contar con un plan de
+trabajo que considere:
+   a)    La descripción de la actividad por desarrollar;
+   b)    El nombre del jefe de trabajo;
+   c)    El nombre de los trabajadores que intervienen en la actividad;
+   d)    El tiempo estimado para realizar la actividad;
+   e)    El lugar donde se desarrollará la actividad;
+   f)    En su caso, la autorización, la cual deberá contener al menos:
+         1)   El nombre del trabajador autorizado;
+         2)   El nombre y firma del patrón o de la persona que éste designe para otorgar la autorización;
+         3)   El tipo de trabajo por desarrollar;
+         4)   El área o lugar donde se desarrollará la actividad;
+         5)   La fecha y hora de inicio de las actividades, y
+         6)   El tiempo estimado de terminación;
+   g)    Los riesgos potenciales determinados con base en lo dispuesto en el numeral 7.2;
+   h)    El equipo de protección personal y los equipos de trabajo, maquinaria, herramientas e implementos
+         de protección aislante que se requieran para realizar la actividad;
+   i)    Las medidas de seguridad que se requieran, de acuerdo con los riesgos que se puedan presentar al
+         desarrollar el trabajo, y
+   j)    Los procedimientos de seguridad para realizar las actividades.
+   7.2 Para la determinación de los riesgos potenciales se deberá considerar, según aplique, lo siguiente:
+   a)    La exposición del trabajador a los peligros relacionados con:
+         1)   Las instalaciones inmediatas a la zona de trabajo;
+         2)   Los peligros identificados fuera de la zona de trabajo, y
+         3)   Los peligros originados por otro tipo de actividades en las inmediaciones del lugar donde se
+              realizará el trabajo;
+   Jueves 29 de diciembre de 2011              DIARIO OFICIAL                          (Novena Sección)   7
+
+   b)   Las consecuencias por las actividades a realizar en las inmediaciones del lugar donde se realizará el
+        trabajo;
+
+   c)   La ubicación del equipo eléctrico, la zona y distancias de seguridad, de acuerdo con la tensión
+        eléctrica y las fallas probables;
+
+   d)   Las características de los equipos de trabajo, maquinaria, herramientas e implementos de protección
+        aislante a utilizar, y los movimientos a realizar para evitar actos o condiciones inseguras;
+
+   e)   Las partes del equipo que requieran protección física para evitar el contacto con partes vivas, tales
+        como líneas energizadas y bancos de capacitores, entre otros;
+
+   f)   Las maniobras necesarias a realizar antes y después del mantenimiento de las instalaciones
+        eléctricas, en especial las relacionadas con la apertura o cierre de los dispositivos de protección y/o
+        de los medios de conexión y desconexión;
+
+   g)   El equipo de protección personal y los equipos de trabajo, maquinaria, herramientas e implementos
+        de protección aislante con que se cuenta y los que se requieran para el tipo de instalaciones
+        eléctricas a las que se dará mantenimiento;
+
+   h)   Los procedimientos de seguridad con que se cuenta para realizar las actividades;
+
+   i)   Las instalaciones temporales y su impacto en las operaciones y actividades a realizar, en su caso, y
+
+   j)   La frecuencia con la que se ejecuta la actividad.
+
+   7.3 El plan de trabajo deberá:
+
+   a)   Proporcionarse al trabajador que realizará la actividad, y
+
+   b)   Ser aprobado por el patrón o por el responsable de los servicios preventivos de seguridad y salud en
+        el trabajo o por el jefe de trabajo.
+
+    7.4 El plan de trabajo se deberá revisar y, en su caso, actualizar cuando se modifiquen los procedimientos
+de seguridad, o se realice cualquier cambio en su contenido que altere las condiciones en las que se ejecuta
+el mantenimiento de las instalaciones eléctricas.
+
+   8. Procedimientos de seguridad para realizar actividades de mantenimiento de las instalaciones
+eléctricas
+
+    8.1 Los procedimientos de seguridad para realizar las actividades de mantenimiento de las instalaciones
+eléctricas deberán contemplar, según aplique, lo siguiente:
+
+   a)   La indicación para que toda instalación eléctrica se considere energizada hasta que se realice la
+        comprobación de ausencia de tensión eléctrica, mediante equipos o instrumentos de medición
+        destinados para tal efecto; se efectúe la puesta a tierra para la liberación de energía almacenada, y
+        la instalación eléctrica sea puesta a tierra eficaz;
+
+   b)   Las instrucciones para comprobar de forma segura la presencia o ausencia de la tensión eléctrica en
+        equipos o instalaciones eléctricas a revisar, por medio del equipo de medición o instrumentos que se
+        requieran;
+
+   c)   La indicación para la revisión y ajuste de la coordinación de protecciones;
+
+   d)   Las instrucciones para bloquear equipos o colocar señalización, candados, o cualquier otro
+        dispositivo, a efecto de garantizar que el circuito permanezca desenergizado cuando se realizan
+        actividades de mantenimiento;
+
+   e)   Las instrucciones para verificar, antes de realizar actividades de mantenimiento, que los dispositivos
+        de protección, en su caso, estén en condiciones de funcionamiento;
+
+   f)   Las instrucciones para verificar que la puesta a tierra fija cumple con su función, o para colocar
+        puestas a tierra temporales, antes de realizar actividades de mantenimiento;
+   8    (Novena Sección)                       DIARIO OFICIAL                   Jueves 29 de diciembre de 2011
+
+   g)    Las medidas de seguridad por aplicar, en su caso, cuando no se concluyan las actividades de
+         mantenimiento de las instalaciones eléctricas en la jornada laboral, a fin de evitar lesiones
+         al personal;
+   h)    Las instrucciones para realizar una revisión del área de trabajo donde se efectuó el mantenimiento,
+         después de haber realizado los trabajos, con el objeto de asegurarse que ha quedado libre de equipo
+         de trabajo, maquinaria, herramientas e implementos de protección aislante, e
+   i)    Las instrucciones para que al término de dicha revisión, se retiren, en su caso, los candados, señales
+         o cualquier otro dispositivo utilizado para bloquear la energía y finalmente cerrar el circuito.
+    8.2 Los procedimientos de seguridad para el desarrollo de las actividades de mantenimiento de las
+instalaciones eléctricas, deberán contener lo siguiente:
+   a)    El diagrama unifilar con el cuadro general de cargas correspondiente a la zona donde se realizará el
+         mantenimiento, y
+   b)    La autorización por escrito otorgada a los trabajadores, en su caso.
+   8.3 Los procedimientos para la selección y uso del equipo de trabajo, maquinaria, herramientas e
+implementos de protección aislante, deberán contemplar lo siguiente:
+   a)    La selección de acuerdo con las tensiones eléctricas de operación del circuito, en caso de trabajar
+         con partes vivas;
+   b)    La forma de entregarlos a los trabajadores y/o que estén disponibles para su consulta;
+   c)    Las instrucciones para su uso en forma segura;
+   d)    Las instrucciones para su almacenamiento, transporte o reemplazo, y
+   e)    Las instrucciones para su revisión y mantenimiento.
+  8.4 El procedimiento para la colocación del sistema de puesta a tierra temporal deberá contemplar, al
+menos, que:
+   a)    Se empleen conductores, elementos y dispositivos específicamente diseñados para este fin y de la
+         capacidad de conducción adecuada;
+   b)    Se conecte la puesta a tierra lo más cerca posible del lugar de trabajo y en ambas partes del mismo
+         para que sea más efectiva;
+   c)    Se respete la secuencia para conectar y desconectar la puesta a tierra de la manera siguiente:
+         1)   Conexión: Se conecten los conductores de puesta a tierra al sistema de tierras y, a continuación,
+              a la instalación por proteger, mediante pértigas o dispositivos especiales, tales como
+              conductores de líneas, electroductos, entre otros, y
+         2)   Desconexión: Se proceda a la inversa, es decir, primeramente se retiren de la instalación los
+              conductores de la puesta a tierra y a continuación se desconecten del electrodo de puesta
+              a tierra;
+   d)    Se asegure que todas las cuchillas de seccionadores de puesta a tierra queden en posición de
+         cerrado, cuando la puesta a tierra se hace por medio de estos equipos;
+   e)    Se compruebe que la puesta a tierra temporal tenga contacto eléctrico, tanto con las partes metálicas
+         que se deseen poner a tierra, como con el sistema de puesta a tierra;
+   f)    Se impida que en el transcurso de las actividades de conexión de la puesta a tierra, el trabajador esté
+         en contacto simultáneo con dos circuitos de puesta a tierra que no estén unidos eléctricamente, ya
+         que éstos pueden encontrarse a potenciales diferentes;
+   g)    Se verifique que las partes metálicas no conductoras de máquinas, equipos y aparatos con las que
+         pueda tener contacto el trabajador de manera accidental, estén puestas a tierra, especialmente las
+         de tipo móvil;
+   Jueves 29 de diciembre de 2011                DIARIO OFICIAL                         (Novena Sección)   9
+
+   h)    Se coloque un puente conductor puesto a tierra en la zona de trabajo antes de efectuar la
+         desconexión de la puesta a tierra en servicio. El trabajador que realice esta actividad deberá estar
+         aislado para evitar formar parte del circuito eléctrico, e
+   i)    Se suspenda el trabajo durante el tiempo de tormentas eléctricas y pruebas de líneas, cuando se
+         trabaje en el sistema de tierras de una instalación.
+   9. Medidas de seguridad generales para realizar trabajos de mantenimiento de las instalaciones
+eléctricas
+    9.1 Efectuar con personal autorizado y capacitado los trabajos de mantenimiento de las instalaciones
+eléctricas en lugares peligrosos, tales como altura, espacios confinados, subestaciones y líneas energizadas.
+   9.2 Delimitar la zona de trabajo para realizar actividades de mantenimiento de las instalaciones eléctricas,
+o sus proximidades, y colocar señales de seguridad que:
+   a)    Indiquen a personas no autorizadas la prohibición de:
+         1)   Entrar a la subestación o energizar el equipo o máquinas eléctricas, y
+         2)   Operar, manejar o tocar los dispositivos eléctricos;
+   b)    Identifiquen los dispositivos de enclavamiento de uno a cuatro candados, y
+   c)    Definan el área en mantenimiento mediante la colocación de:
+         1)   Cintas, cuerdas o cadenas de plástico de color rojo o anaranjado y mosquetones para su
+              enganche;
+         2)   Barreras extendibles de color rojo o anaranjado provistas de cuerdas en sus extremos para su
+              sujeción;
+         3)   Banderolas;
+         4)   Estandartes;
+         5)   Distintivos de color rojo para la señalización de la zona de trabajo, o
+         6)   Tarjetas de libranza con información de quién realiza, quién autoriza, cuándo se inició y cuándo
+              finalizará el trabajo por realizar.
+   9.3 Utilizar para el mantenimiento de las instalaciones eléctricas, conforme al trabajo por desarrollar,
+según aplique, equipo de trabajo, maquinaria, herramientas e implementos de protección aislante y, de ser
+necesario, uno o más de los equipos o materiales siguientes:
+   a)    Tarimas o alfombras aislantes;
+   b)    Vainas y caperuzas aislantes;
+   c)    Comprobadores o discriminadores de tensión eléctrica, de la clase y tensión adecuadas al sistema;
+   d)    Herramientas aisladas;
+   e)    Material de señalización, tales como discos, barreras o banderines, entre otros;
+   f)    Lámparas portátiles, o
+   g)    Transformadores de aislamiento.
+  9.4 Comprobar, para la realización de trabajos de mantenimiento de las instalaciones eléctricas, al
+menos que:
+   a)    Las instalaciones eléctricas se encuentren de conformidad con el diagrama unifilar y el plan de
+         trabajo;
+   b)    Se evite trabajar con conductores o equipos energizados y, en caso de que sea estrictamente
+         necesario, realizarlo si se cuenta con el equipo de protección personal y las herramientas o
+         implementos de trabajo requeridos;
+   10   (Novena Sección)                         DIARIO OFICIAL                 Jueves 29 de diciembre de 2011
+
+   c)   Se prohíba a los trabajadores usar alhajas o elementos metálicos durante la ejecución de las
+        actividades;
+   d)   Se aplique el procedimiento correspondiente a conductores o equipo energizado, antes de efectuar
+        cualquier operación para:
+        1)   Interrumpir el flujo de corriente eléctrica;
+        2)   Verificar con equipo de medición la ausencia de tensión eléctrica en los conductores o equipo
+             eléctrico;
+        3)   Poner a tierra y en cortocircuito los conductores y equipo eléctrico;
+        4)   Aplicar otras medidas preventivas necesarias, como la colocación de candados o avisos, que
+             impidan el restablecimiento de la corriente eléctrica, y
+        5)   Proteger los elementos con tensión situados en las inmediaciones, contra el contacto accidental;
+   e)   Se mantenga legible la identificación de tableros, gabinetes, interruptores, transformadores, entre
+        otros, así como sus características eléctricas;
+   f)   Se cuente con las herramientas y equipo de protección personal adecuados a cada tarea, tales
+        como: guantes dieléctricos, esteras y mantas aislantes, en número suficiente y de acuerdo con el
+        potencial eléctrico en el que se va a trabajar;
+   g)   Se impida desplazar los aparatos eléctricos portátiles mientras estén conectados a la fuente de
+        energía;
+   h)   Se evite emplear herramientas y aparatos eléctricos portátiles en atmósferas inflamables o
+        explosivas, a menos que cumplan con las especificaciones del equipo a prueba de explosión;
+   i)   Se apliquen los procedimientos de seguridad que se requieran, con base en lo establecido en el
+        Capítulo 8 de esta Norma;
+   j)   Se cumpla, cuando se empleen a la intemperie aparatos de conexión de tipo abierto, con lo siguiente:
+        1)   Proteger a todos los elementos bajo tensión eléctrica contra contactos accidentales, mediante
+             cubiertas o bien colocándolos a una altura tal que no represente un riesgo de contacto
+             accidental;
+        2)   Conservar las distancias de seguridad del espacio de trabajo en torno a los elementos con
+             tensión o energizados, según lo dispuesto por la NOM-001-SEDE-2005, o las que la sustituyan, y
+        3)   Proteger los aparatos de conexión, transformadores y demás aparatos eléctricos energizados,
+             con cercas metálicas que se encuentren puestas a tierra;
+   k)   Sean puestos a tierra el armazón de las herramientas y los aparatos de mano y portátiles, excepto el
+        de las herramientas con doble aislamiento;
+   l)   Se someta el sistema de puesta a tierra de toda la instalación eléctrica a la prueba de resistencia a
+        tierra y de continuidad, al menos una vez por año, y se registren sus valores;
+   m)   Se realice una revisión en todo el circuito o red eléctrica en el que se efectuó el mantenimiento,
+        después de haber realizado los trabajos;
+   n)   Se energicen los circuitos, conductores o equipos, después de haber efectuado cualquier trabajo,
+        únicamente por orden del jefe de trabajo, y
+   o)   Se provea de un interruptor de protección de falla a tierra para proteger a los trabajadores, cuando
+        realicen actividades de mantenimiento.
+    9.5 Cumplir, cuando se utilicen herramientas o lámparas portátiles en el mantenimiento de las
+instalaciones eléctricas de baja tensión, con las condiciones de seguridad siguientes:
+   a)   Se cuente con cables de alimentación de las herramientas o lámparas portátiles perfectamente
+        aislados y en buen estado;
+Jueves 29 de diciembre de 2011              DIARIO OFICIAL                          (Novena Sección)    11
+
+b)   Se utilicen tensiones de alimentación de 24 volts o menos, en el caso de las herramientas y lámparas
+     portátiles para los trabajos en zanjas, pozos, galerías y calderas, entre otros;
+
+c)   Se provean las lámparas portátiles con mango aislante, dispositivo protector de la bombilla y
+     conductor de aislamiento de uso rudo o extra rudo, y
+
+d)   Se cumpla con al menos una de las condiciones siguientes, en aquellos casos en que la herramienta
+     portátil tenga que funcionar con una tensión eléctrica superior a los 24 volts:
+
+     1)   Usar guantes dieléctricos aislantes;
+
+     2)   Disponer de doble aislamiento en la herramienta portátil;
+
+     3)   Contar con conexión de puesta a tierra;
+
+     4)   Contar con protección de los defectos de aislamiento de la herramienta, mediante relevadores
+          diferenciales, o
+
+     5)   Utilizar transformadores de aislamiento.
+
+10. Condiciones de seguridad en el mantenimiento de las instalaciones eléctricas
+
+10.1 En el equipo eléctrico motivo del mantenimiento se deberá cumplir, según aplique, que:
+
+a)   Los interruptores estén contenidos en envolventes que imposibiliten, en cualquier caso, el contacto
+     accidental de personas y objetos;
+
+b)   Se realice la apertura y cierre de cuchillas, seccionadores, cuchillas-fusibles y otros dispositivos
+     similares, por personal autorizado, utilizando equipo de protección personal y de seguridad, de
+     acuerdo con los riesgos potenciales identificados.
+
+     Ejemplo del equipo de protección personal son: guantes dieléctricos, según la clase y de acuerdo con
+     la tensión eléctrica; protección ocular; casco de seguridad; ropa de trabajo, y botas dieléctricas, entre
+     otros, y
+
+c)   Se efectúe la conexión de alguna instalación eléctrica -nueva o provisional-, o equipo a líneas o
+     circuitos energizados, invariablemente con el circuito desenergizado. En caso de no poder
+     desenergizar el circuito, se deberá aplicar el procedimiento para trabajos con línea energizada que
+     para tal efecto se elabore.
+
+10.2 En las instalaciones eléctricas se deberá verificar, según aplique, que:
+
+a)   Todos los equipos destinados al uso y distribución de la energía eléctrica cuenten con información
+     para identificar las características eléctricas y la distancia de seguridad para las tensiones eléctricas
+     presentes, ya sea en una placa, en etiquetas adheridas o marcada sobre el equipo;
+
+b)   En lugares en los que el contacto con equipos eléctricos o la proximidad de éstos pueda entrañar
+     peligro para los trabajadores, se cuente con las señalizaciones de seguridad, conforme a lo dispuesto
+     por la NOM-026-STPS-2008, o las que la sustituyan, para indicar los riesgos y para el uso del equipo
+     de protección personal;
+
+c)   Los elementos energizados se encuentren fuera del alcance de los trabajadores;
+
+d)   Se delimite la zona de trabajo mediante la utilización, entre otros, de los medios siguientes:
+
+     1)   Barreras protectoras;
+
+     2)   Resguardos;
+
+     3)   Cintas delimitadoras, y
+
+     4)   Control de acceso;
+
+e)   Se manipulen los conductores energizados con guantes dieléctricos o con herramienta aislada,
+     diseñada para el nivel de tensión eléctrica que se maneje;
+   12   (Novena Sección)                       DIARIO OFICIAL                  Jueves 29 de diciembre de 2011
+
+   f)   Se proteja contra daños a todos los cables, especialmente los expuestos a cargas de vehículos o
+        equipos mecánicos pesados;
+   g)   Se cumpla, en las cubiertas del equipo o de los dispositivos fijos, que su apertura interrumpa la
+        tensión eléctrica, por medio de una herramienta o llave especial;
+   h)   Se protejan eficazmente los cables desnudos y otros elementos descubiertos energizados, cuando
+        se instalen, mediante cercas o pantallas de protección, o se cumpla con las distancias de seguridad a
+        que se refiere la NOM-001-SEDE-2005, o las que la sustituyan;
+   i)   Se prohíba el uso de elementos metálicos tales como flexómetros, varillas, tubos, perfiles, así como
+        de equipos de radiocomunicación con antena, en las inmediaciones de las instalaciones eléctricas
+        energizadas;
+
+   j)   Se evite almacenar materiales de cualquier tipo sobre las instalaciones eléctricas, y
+   k)   Se mantenga libre de obstáculos el acceso a los tableros o puntos de conexión o desconexión de la
+        instalación eléctrica.
+   10.3 En las subestaciones eléctricas se deberán adoptar, al menos, las medidas de seguridad siguientes:
+   a)   Se obtenga la autorización para realizar trabajos en la subestación;
+   b)   Se use el equipo de protección personal necesario para realizar los trabajos en la subestación;
+   c)   Se realicen las actividades de mantenimiento en la subestación eléctrica, al menos con dos
+        trabajadores;
+   d)   Se considere que todo el equipo que se localice en la subestación eléctrica está energizado, hasta
+        que no se compruebe la ausencia de tensión eléctrica y que esté puesto a tierra efectivamente, antes
+        de iniciar el mantenimiento;
+   e)   Se apliquen los procedimientos de seguridad establecidos para el mantenimiento y los que se
+        requieran, de conformidad con lo establecido en el Capítulo 8 de la presente Norma;
+   f)   Se respeten los avisos de seguridad;
+   g)   Se manejen equipos de calibración y prueba que cuenten con certificado vigente de calibración;
+   h)   Se mantengan las palancas de acción manual, puertas de acceso, gabinetes de equipo de control,
+        entre otros, según sea el caso, con candado o con una etiqueta de seguridad que indique que están
+        siendo operados o se está ejecutando en ellos algún trabajo;
+   i)   Se asegure que las partes vivas de la subestación eléctrica están fuera del alcance del personal o
+        protegidas por pantallas, enrejados, rejillas u otros medios similares, y
+
+   j)   Se identifique la salida de emergencia y asegure que las puertas abran:
+        1)   Hacia afuera o sean corredizas;
+        2)   Fácilmente desde el interior, y que se encuentren libres de obstáculos, y
+        3)   Desde el exterior únicamente con una llave especial o controlada.
+   10.4 En los equipos o dispositivos de las instalaciones eléctricas provisionales objeto del mantenimiento,
+se deberá comprobar que:
+   a)   Se apliquen las medidas de seguridad, en caso de contar con líneas energizadas sin aislar próximas
+        a muros;
+
+   b)   Se revise que estén desenergizados y puestos a tierra;
+   c)   Se verifique que no existen daños en los aislamientos de los conductores;
+   d)   Cuenten los empalmes con la resistencia mecánica para mantener la continuidad del circuito, y
+   e)   Se mantenga la continuidad eléctrica en todas las soldaduras o uniones.
+   Jueves 29 de diciembre de 2011             DIARIO OFICIAL                          (Novena Sección)    13
+
+   10.5 Para la realización de trabajos dentro del perímetro de las instalaciones eléctricas, se deberá
+comprobar que:
+   a)   Se conserve la distancia de seguridad que corresponda a la tensión eléctrica de la instalación, antes
+        de efectuar cualquier maniobra de mantenimiento a los conductores o instalaciones eléctricas. Para
+        establecer la distancia de seguridad, se deberá aplicar lo establecido en la NOM-001-SEDE-2005,
+        o las que la sustituyan;
+   b)   Se impida hacer maniobras de mantenimiento a una distancia menor de trabajo en un conductor o
+        instalación eléctrica, mientras no se tenga desenergizado dicho conductor o instalación eléctrica,
+        o no sean aplicadas las medidas de seguridad indicadas en esta Norma, y
+   c)   Se adopten las medidas de seguridad e indiquen las instrucciones específicas para prevenir los
+        riesgos de trabajo, cuando no sea posible desconectar un conductor o equipo de una instalación
+        eléctrica, en cuya proximidad se vayan a efectuar maniobras de mantenimiento. Dichas medidas
+        deberán incluir al menos lo siguiente:
+        1)   Colocar protecciones aislantes, candados o etiquetas de seguridad en los conductores e
+             instalaciones energizados, según corresponda, y
+        2)   Controlar, en su caso, el desplazamiento del equipo móvil empleado para dar mantenimiento en
+             las inmediaciones de conductores o equipos de una instalación eléctrica que no puedan ser
+             desconectados, a fin de evitar el riesgo por contacto.
+    10.6 Para instalaciones eléctricas provisionales, se deberán seguir, al menos, las medidas de seguridad
+siguientes:
+   a)   Solicitar por escrito al jefe de trabajo del centro de maniobras o despacho, autorización para colocar
+        instalaciones eléctricas provisionales;
+   b)   Informar por escrito al jefe de trabajo del centro de maniobras o despacho, de todas aquellas
+        modificaciones provisionales efectuadas y etiquetas colocadas, con el propósito de que sean
+        retiradas o convertidas en instalaciones permanentes;
+   c)   Emplear las instalaciones eléctricas provisionales únicamente para el fin que fueron diseñadas;
+   d)   Retirar las instalaciones provisionales al término del propósito para el cual fueron colocadas,
+        conforme a lo dispuesto por la NOM-001-SEDE-2005, o las que la sustituyan, y
+   e)   Retirar las puestas a tierra conforme a lo dispuesto por la NOM-001-SEDE-2005, o las que la
+        sustituyan.
+   11. Medidas de seguridad para realizar trabajos de mantenimiento de las instalaciones eléctricas
+aéreas y subterráneas
+   11.1 Aplicar los procedimientos que correspondan con base en lo dispuesto en el Capítulo 8 de la presente
+Norma.
+   11.2 Verificar que se cumpla, además de las medidas generales de seguridad establecidas en el Capítulo
+9 de esta Norma, que se:
+   a)   Realicen las actividades de mantenimiento de las instalaciones eléctricas únicamente con personal
+        autorizado y capacitado para tal fin;
+   b)   Efectúe la desconexión de líneas o equipos de la fuente de energía eléctrica, abriendo primero los
+        equipos diseñados para operar con carga;
+   c)   Ejecute para la apertura o cierre de cuchillas energizadas de operación en grupo, lo siguiente:
+        1)   Verificar que el maneral se encuentre conmutado a tierra;
+        2)   Usar equipo de protección personal adecuado a la actividad, y
+        3)   Utilizar tapetes aislantes, mantas o cubiertas aislantes, en caso de que exista humedad excesiva
+             en el suelo;
+14   (Novena Sección)                       DIARIO OFICIAL                   Jueves 29 de diciembre de 2011
+
+d)   Verifique la ausencia de tensión eléctrica antes de iniciar el trabajo; se pongan en corto circuito y a
+     tierra, ambos lados de las líneas, lo más cerca posible del lugar de trabajo, y se asegure que las
+     puestas a tierra tengan el calibre adecuado para conducir con seguridad una falla a tierra, mantengan
+     continuidad eléctrica y una impedancia suficientemente baja;
+e)   Coloquen barreras de protección y señales o avisos de seguridad en la zona de trabajo donde se
+     ubiquen los dispositivos de conexión/desconexión y/o protección;
+f)   Coloque, a la altura del dispositivo de seccionamiento o sobre la manija del dispositivo, un aviso
+     preventivo con la leyenda: “Peligro, no energizar”, y bloqueos físicos como candados, cuando se
+     abran interruptores, restauradores y cuchillas que se localicen en vía pública o se trate de equipo
+     operable a distancia;
+g)   Verifique que todas las posibles fuentes de alimentación en la zona de trabajo estén abiertas;
+h)   Coloquen cubiertas protectoras para el poste y/o para el conductor, de acuerdo con el nivel de
+     tensión eléctrica que corresponda, en caso de instalar o remover un poste entre líneas energizadas o
+     cerca de ellas. Los trabajadores deberán usar guantes dieléctricos para la tensión eléctrica requerida,
+     además de guantes de carnaza o de piel para manipular el poste;
+i)   Ponga a tierra la estructura metálica del camión utilizado para colocar o remover un poste entre
+     líneas energizadas o cerca de ellas. Los trabajadores no deberán tocar el vehículo mientras estén
+     parados en el suelo, a menos que se hayan terminado las maniobras o se detenga la actividad;
+j)   Realice, para reemplazar los fusibles en las líneas de alta tensión, lo siguiente:
+     1)   Se verifique la ausencia de tensión eléctrica antes de iniciar el trabajo y, en su caso, se pongan
+          en corto circuito y a tierra, ambos lados de las líneas, lo más cerca posible del lugar de trabajo;
+     2)   Se verifique que se haya corregido la falla;
+     3)   Se mantenga la distancia de seguridad. Los cortacircuitos fusibles al estar abiertos del lado de la
+          carga se consideran energizados y para reemplazarlos se requiere que sean puestos a tierra;
+     4)   Se incline la cabeza ligeramente hacia abajo al momento de cerrar un cortacircuito fusible, para
+          protegerse del arco eléctrico y posibles proyecciones de partículas que puedan producirse. Se
+          deberá utilizar para esta actividad casco de seguridad con barboquejo para usos eléctricos,
+          botas de seguridad sin casquillo metálico, guantes dieléctricos, ropa de trabajo de algodón y
+          lentes de seguridad, y
+     5)   Se verifique la continuidad de las conexiones de puesta a tierra y de los conductores de puesta a
+          tierra;
+k)   Cuente en el carrete que suministra el conductor, con una puesta a tierra, en caso de tender un
+     conductor cerca de otro(s) conductor(es) energizado(s). El trabajador que atiende el carrete deberá
+     trabajar en una plataforma aislada y usar guantes aislantes, de acuerdo con el nivel de tensión;
+l)   Verifique en las líneas montadas sobre los mismos apoyos, en todo o parte de su recorrido, que:
+     1)   Se prohíba realizar trabajos y maniobras en una línea por el procedimiento llamado de “hora
+          convenida”;
+     2)   Se evite realizar trabajos o éstos se suspendan cuando haya tormentas eléctricas, y
+     3)   Se impida realizar trabajos en una línea con dos o más circuitos estando uno de ellos con
+          tensión eléctrica, si para su ejecución es necesario mover los conductores, aisladores o soportes
+          mecánicos, de forma que se pudiera entrar en contacto con el otro circuito, y
+m)   Asegure que no quede ningún trabajador en la línea, ni depositadas herramientas en el lugar de
+     trabajo al terminar las actividades y antes de retirar las conexiones de puesta a tierra. Después se
+     deberá proceder a quitar las conexiones de puesta a tierra, en sentido inverso al seguido en su
+     colocación.
+   Jueves 29 de diciembre de 2011               DIARIO OFICIAL                        (Novena Sección)    15
+
+  11.3 Para los trabajos de mantenimiento en líneas subterráneas se deberán adoptar, según aplique, las
+medidas de seguridad previstas en el numeral 11.2 de la presente Norma, así como las siguientes:
+
+   a)   Identificar la ubicación de los equipos conforme lo indiquen los planos;
+
+   b)   Ubicar las trayectorias, circuitos de alimentación, transformadores, seccionadores e interruptores;
+
+   c)   Determinar las medidas preventivas para realizar las tareas en función de los riesgos presentes al
+        momento de efectuar los trabajos, y
+
+   d)   Verificar el estado y la continuidad eléctrica de las conexiones de puesta a tierra y de los conductores
+        de puesta a tierra.
+
+   12. Medidas de seguridad para realizar trabajos de mantenimiento de las instalaciones eléctricas
+energizadas
+
+    12.1 Cumplir con lo establecido en los procedimientos de seguridad a que se refieren los numerales 8.1 al
+8.3 de esta Norma, para realizar trabajos de mantenimiento de las instalaciones eléctricas energizadas, así
+como con las instrucciones de seguridad siguientes:
+
+   a)   Efectuar la actividad por trabajadores autorizados y capacitados;
+
+   b)   Cumplir con la técnica descrita en los procedimientos del plan de trabajo y utilizar las herramientas e
+        implementos necesarios para efectuar la actividad, así como el equipo de protección personal
+        adecuado al riesgo;
+
+   c)   Seguir la secuencia de ejecución de las maniobras, tales como la conexión y/o desconexión de
+        dispositivos de seccionamiento y protección, el traslado de líneas, la colocación de puentes
+        provisionales, el aislamiento de redes, entre otras;
+
+   d)   Utilizar los medios de comunicación, en su caso, con la subestación, el centro de maniobras o el jefe
+        de trabajo;
+
+   e)   Realizar la entrega y recepción de la zona de trabajo para el inicio y término de las actividades,
+        respectivamente, y
+
+   f)   Contar con supervisión permanente en la ejecución de los trabajos.
+
+   12.2 Cumplir, para la ejecución de los trabajos de mantenimiento de las instalaciones eléctricas
+energizadas, con lo siguiente:
+
+   a)   Realizar una reunión previa al inicio de las actividades, en la zona de trabajo, a fin de efectuar un
+        análisis de las condiciones del lugar, considerando, al menos lo siguiente:
+
+        1)   Las redes cercanas a la zona de trabajo;
+
+        2)   La ubicación correcta del vehículo, y
+
+        3)   La puesta a tierra del vehículo;
+
+   b)   Prohibir efectuar trabajos de línea energizada en circuitos en falla, en días lluviosos o cuando no se
+        cuente con el material y equipo necesario;
+
+   c)   Contar con un programa para la revisión y mantenimiento de vehículos, equipos y herramientas, a fin
+        de comprobar que cumplen con el nivel de aislamiento requerido;
+
+   d)   Verificar que los equipos de protección y/o seccionamiento automático o los operables a distancia se
+        encuentren, de manera tal, que se puedan efectuar trabajos con línea energizada;
+
+   e)   Utilizar siempre el equipo de protección personal y equipo para trabajo de línea energizada de la
+        clase que corresponda de acuerdo con el nivel de tensión eléctrica de la instalación donde se
+        efectuará el trabajo, y
+
+   f)   Efectuar el trabajo en una fase a la vez manteniendo las demás alejadas y/o cubiertas.
+   16   (Novena Sección)                         DIARIO OFICIAL                  Jueves 29 de diciembre de 2011
+
+   13. Plan de atención a emergencias
+
+   13.1 El plan de atención a emergencias deberá contener, al menos, lo siguiente:
+
+   a)    El responsable de implementar el plan;
+
+   b)    Los equipos o aparatos necesarios para la ejecución del plan;
+
+   c)    Los procedimientos para:
+
+         1)   La comunicación de la emergencia, junto con el directorio de los servicios de auxilio para la
+              emergencia, rescate y hospitales, entre otros;
+
+         2)   La suspensión de las actividades, que incluyan las acciones inmediatas para la desconexión de
+              la fuente de energía;
+
+         3)   La eliminación de los riesgos durante y después de la emergencia;
+
+         4)   El uso de los sistemas y equipo de rescate, en su caso;
+
+         5)   La atención y traslado de las víctimas a lugares de atención médica, que al menos indiquen:
+
+              i)     Las instrucciones específicas en un lugar visible, de qué hacer en caso de accidente;
+
+              ii)    Las instrucciones para retirar al lesionado del peligro inmediato; la colocación de la víctima
+                     en un lugar seguro; la aplicación de los primeros auxilios, en su caso; la aplicación de las
+                     técnicas de reanimación cardiopulmonar (RCP), y las correspondientes para llamar a los
+                     servicios de auxilio, y
+
+              iii)   Los hospitales o unidades médicas más próximos para trasladar a la víctima, y
+
+         6)   La reanudación de actividades, en su caso, y
+
+   d)    La capacitación y adiestramiento de los trabajadores en relación con el contenido del plan de
+         atención a emergencias.
+
+   14. Capacitación
+
+    14.1 A los trabajadores que realicen el mantenimiento de las instalaciones eléctricas del centro de trabajo
+se les deberá proporcionar capacitación, adiestramiento e información, de acuerdo con las tareas asignadas y
+el plan de atención a emergencias.
+
+   14.2 La capacitación de los trabajadores que realicen el mantenimiento de las instalaciones eléctricas,
+deberá considerar, al menos lo siguiente:
+
+   a)    La información sobre los riesgos de trabajo relacionados con el mantenimiento de las instalaciones
+         eléctricas;
+
+   b)    La descripción general sobre los efectos en el organismo ocasionados por una descarga eléctrica o
+         sus efectos, como consecuencia de un contacto, falla o aproximación a elementos energizados, con
+         énfasis en las condiciones que deberán evitarse para prevenir lesiones o daños a la salud;
+
+   c)    Los procedimientos de seguridad para realizar el mantenimiento de las instalaciones eléctricas, a que
+         se refiere el Capítulo 8 de la presente Norma;
+
+   d)    Las medidas de seguridad establecidas en esta Norma, aplicables a las actividades por realizar, y
+         que se deberán adoptar en la ejecución de las actividades o trabajos de mantenimiento de las
+         instalaciones eléctricas;
+
+   e)    El uso, mantenimiento, conservación, almacenamiento y reposición del equipo de protección
+         personal, de acuerdo con lo establecido en la NOM-017-STPS-2008, o las que la sustituyan;
+
+   f)    Los temas teórico-prácticos sobre la forma segura de manejar, dar mantenimiento, revisar y
+         almacenar la maquinaria, equipo, herramientas, materiales e implementos de trabajo;
+   Jueves 29 de diciembre de 2011                DIARIO OFICIAL                        (Novena Sección)   17
+
+   g)    Las condiciones bajo las cuales la maquinaria, equipo, herramientas, materiales e implementos de
+         trabajo deberán ser puestos fuera de servicio para su reparación o reemplazo;
+
+   h)    Las condiciones climáticas u otros factores desfavorables que obligarían a interrumpir los trabajos, e
+
+   i)    El contenido del plan de atención a emergencias y otras acciones que se desprendan de las
+         situaciones de emergencia, que pudieran presentarse durante la realización de los trabajos de
+         mantenimiento de las instalaciones eléctricas.
+
+   15. Unidades de verificación
+
+    15.1 El patrón tendrá la opción de contratar una unidad de verificación acreditada y aprobada, en los
+términos de la Ley Federal sobre Metrología y Normalización y su Reglamento, para verificar el grado de
+cumplimiento con la presente Norma.
+
+    15.2 Las unidades de verificación que evalúen la conformidad con esta Norma, deberán aplicar los
+criterios de cumplimiento establecidos en el procedimiento para la evaluación de la conformidad del Capítulo
+16 de esta Norma.
+
+   15.3 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento de la presente
+Norma deberán emitir un dictamen, el cual habrá de contener:
+
+   a)    Datos del patrón:
+
+         1)   El nombre, denominación o razón social;
+
+         2)   El domicilio completo, y
+
+         3)   El nombre y firma del patrón y, en su caso, del representante legal, y
+
+   b)    Datos de la unidad de verificación:
+
+         1)   El nombre, denominación o razón social;
+
+         2)   El número de registro otorgado por la entidad de acreditación;
+
+         3)   El número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;
+
+         4)   Las fechas en que se otorgó la acreditación y aprobación;
+
+         5)   El resultado de la verificación;
+
+         6)   El nombre y firma del responsable de emitir el dictamen;
+
+         7)   El lugar y fecha de la firma del dictamen;
+
+         8)   La vigencia del dictamen, y
+
+         9)   El número de registro del dictamen otorgado por la Secretaría del Trabajo y Previsión Social, al
+              rendirse el informe respectivo.
+
+   15.4 La vigencia de los dictámenes emitidos por las unidades de verificación será de un año, siempre y
+cuando no sean modificadas las condiciones que sirvieron para su emisión.
+
+   16. Procedimiento para la evaluación de la conformidad
+
+    16.1 Este procedimiento para la evaluación de la conformidad aplica tanto a las visitas de inspección
+desarrolladas por la autoridad del trabajo, como a las visitas de verificación que realicen las unidades de
+verificación.
+
+    16.2 El dictamen de verificación vigente deberá estar a disposición de la autoridad del trabajo cuando ésta
+lo solicite.
+
+    16.3 Los aspectos a verificar durante la evaluación de la conformidad de esta Norma se realizará, según
+aplique, mediante la constatación física, revisión documental, registros o entrevistas, de conformidad
+con lo siguiente:
+  18   (Novena Sección)                       DIARIO OFICIAL                     Jueves 29 de diciembre de 2011
+
+                    Tipo de
+  Disposición                             Criterio de aceptación                 Observaciones         Riesgo
+                   evaluación
+
+5.1             Entrevista      El patrón cumple cuando, al entrevistar a los                        Grave
+                                trabajadores, seleccionados de acuerdo con
+                                el criterio muestral de la Tabla 1, del
+                                numeral 16.4, se constata que en el centro
+                                de trabajo se prohíbe que menores de 16
+                                años y mujeres gestantes realicen
+                                actividades de mantenimiento de las
+                                instalaciones eléctricas.
+
+                Física          El patrón cumple cuando, al realizar un                              Grave
+                                recorrido por el centro de trabajo, se
+                                constata que no existen menores de 16
+                                años y mujeres gestantes realizando
+                                actividades de mantenimiento de las
+                                instalaciones eléctricas.
+
+5.2 y 7.1       Documental      El patrón cumple cuando:
+
+                                     Presenta evidencia documental de
+                                      que cuenta con un plan de trabajo por
+                                      cada actividad de mantenimiento de
+                                      las instalaciones eléctricas para los
+                                      trabajadores que realizan dichos
+                                      trabajos;
+
+                                     El plan de trabajo considera:
+
+                                         La descripción de la actividad por
+                                          desarrollar;
+
+                                         El nombre del jefe de trabajo;
+
+                                         El nombre de los trabajadores que
+                                          intervienen en la actividad;
+
+                                         El tiempo estimado para realizar
+                                          la actividad;
+
+                                         El lugar donde se desarrollará la
+                                          actividad;
+
+                                         En su caso, la autorización,
+                                          misma que contiene al menos:
+
+                                          o   El nombre      del   trabajador
+                                              autorizado;
+
+                                          o   El nombre y firma del patrón o
+                                              de la persona que éste
+                                              designe para otorgar la
+                                              autorización;
+
+                                          o   El tipo de       trabajo     por
+                                              desarrollar;
+
+                                          o   El área o lugar donde se
+                                              desarrollará la actividad;
+
+                                          o   La fecha y hora de inicio de
+                                              las actividades, y
+
+                                          o   El   tiempo     estimado     de
+                                              terminación;
+  Jueves 29 de diciembre de 2011                    DIARIO OFICIAL                                (Novena Sección)   19
+
+                    Tipo de
+  Disposición                                 Criterio de aceptación                        Observaciones       Riesgo
+                   evaluación
+
+                                            Los      riesgos      potenciales
+                                             determinados con base en lo
+                                             dispuesto en el numeral 7.2;
+
+                                            El equipo de protección personal y
+                                             los     equipos        de    trabajo,
+                                             maquinaria,       herramientas     e
+                                             implementos        de     protección
+                                             aislante que se requieren para
+                                             realizar la actividad;
+
+                                            Las medidas de seguridad que se
+                                             requieren, de acuerdo con los
+                                             riesgos que se pueden presentar
+                                             al desarrollar el trabajo, y
+
+                                            Los procedimientos de seguridad
+                                             para realizar las actividades.
+
+5.2 y 7.2        Documental        El patrón cumple cuando presenta evidencia
+                                   documental de que para la determinación de
+                                   los riesgos potenciales considera, según
+                                   aplique, lo siguiente:
+
+                                        La exposición del trabajador a los
+                                         peligros relacionados con:
+
+                                          Las instalaciones inmediatas a la
+                                             zona de trabajo;
+
+                                          Los peligros identificados fuera de
+                                             la zona de trabajo, y
+
+                                          Los peligros originados por otro
+                                             tipo     de      actividades      en     las
+                                             inmediaciones del lugar donde se
+                                             realiza el trabajo;
+
+                                        Las consecuencias por las actividades
+                                         a realizar en las inmediaciones del
+                                         lugar donde se realiza el trabajo;
+
+                                        La ubicación del equipo eléctrico, la
+                                         zona y distancias de seguridad, de
+                                         acuerdo con la tensión eléctrica y las
+                                         fallas probables;
+
+                                        Las características de los equipos de
+                                         trabajo, maquinaria, herramientas e
+                                         implementos de protección aislante a
+                                         utilizar, y los movimientos a realizar
+                                         para     evitar     actos    o     condiciones
+                                         inseguras;
+
+                                        Las partes del equipo que requieren
+                                         protección        física    para    evitar    el
+                                         contacto con partes vivas, tales como
+                                         líneas     energizadas       y     bancos    de
+                                         capacitores, entre otros;
+  20    (Novena Sección)                           DIARIO OFICIAL                              Jueves 29 de diciembre de 2011
+
+                       Tipo de
+  Disposición                                  Criterio de aceptación                          Observaciones         Riesgo
+                      evaluación
+
+                                        Las maniobras necesarias a realizar
+                                         antes y después del mantenimiento de
+                                         las    instalaciones            eléctricas,     en
+                                         especial      las    relacionadas         con    la
+                                         apertura o cierre de los dispositivos de
+                                         protección y/o de los medios de
+                                         conexión y desconexión;
+
+                                        El equipo de protección personal y los
+                                         equipos       de     trabajo,         maquinaria,
+                                         herramientas         e     implementos          de
+                                         protección aislante con que se cuente
+                                         y los que se requieren para el tipo de
+                                         instalaciones eléctricas a las que se
+                                         de mantenimiento;
+
+                                        Los procedimientos de seguridad con
+                                         que se cuente para realizar las
+                                         actividades;
+
+                                        Las instalaciones temporales y su
+                                         impacto       en     las    operaciones          y
+                                         actividades a realizar, en su caso, y
+
+                                        La frecuencia con la que se ejecuta la
+                                         actividad.
+
+5.2, 7.3 a)         Entrevista     El patrón cumple cuando al entrevistar a los
+                                   trabajadores, seleccionados de acuerdo con
+                                   el criterio muestral de la Tabla 1, del
+                                   numeral 16.4, se constata que el plan de
+                                   trabajo se proporciona al trabajador que
+                                   realiza la actividad.
+
+                    Física         El patrón cumple cuando, al realizar un
+                                   recorrido por el centro laboral, se constata
+                                   que el plan de trabajo se proporciona al
+                                   trabajador que realiza la actividad.
+
+5.2, 7.3 b) y 7.4   Documental     El patrón cumple cuando presenta evidencia
+                                   documental de que el plan de trabajo:
+
+                                        Es aprobado por el patrón o por el
+                                         responsable          de         los      servicios
+                                         preventivos de seguridad y salud en el
+                                         trabajo o por el jefe de trabajo, y
+
+                                        Se revisa y, en su caso, actualiza
+                                         cuando          se         modifican            los
+                                         procedimientos de seguridad, o se
+                                         realiza      cualquier     cambio         en    su
+                                         contenido que altera las condiciones
+                                         en     las      que        se         ejecuta    el
+                                         mantenimiento de las instalaciones
+                                         eléctricas.
+  Jueves 29 de diciembre de 2011                DIARIO OFICIAL                             (Novena Sección)   21
+
+                    Tipo de
+  Disposición                                Criterio de aceptación                  Observaciones       Riesgo
+                   evaluación
+
+5.3              Documental        El patrón cumple cuando:
+
+                                        Presenta evidencia documental de
+                                         que cuenta con el diagrama unifilar
+                                         actualizado de la instalación eléctrica
+                                         del centro de trabajo, con base en lo
+                                         dispuesto por la NOM-001-SEDE-
+                                         2005, o las que la sustituyan, y con el
+                                         cuadro general de cargas instaladas
+                                         por circuito derivado, y
+
+                                        El diagrama     unifilar    contiene   lo
+                                         siguiente:
+
+                                          La superficie en metros cuadrados
+                                           del edificio u otra estructura
+                                           alimentada por cada alimentador;
+
+                                          La carga total conectada antes de
+                                           aplicar los factores de demanda;
+
+                                          Los    factores      de      demanda
+                                           aplicados;
+
+                                          La carga calculada después de
+                                           aplicar los factores de demanda;
+
+                                          El tipo, tamaño nominal y longitud
+                                           de los conductores utilizados, y
+
+                                          La caída de tensión de cada
+                                           circuito  derivado y  circuito
+                                           alimentador.
+
+                 Entrevista        El patrón cumple cuando al entrevistar a los
+                                   trabajadores, seleccionados de acuerdo con
+                                   el criterio muestral de la Tabla 1, del
+                                   numeral 16.4, se constata que el diagrama
+                                   unifilar está disponible para el personal que
+                                   realiza el mantenimiento de las instalaciones
+                                   eléctricas.
+
+5.4 y 8          Documental        El patrón cumple cuando presenta evidencia
+                                   documental de que:
+
+                                        Cuenta con los procedimientos de
+                                         seguridad para:
+
+                                          Las actividades de mantenimiento
+                                           de las instalaciones eléctricas;
+
+                                          La selección y uso del equipo de
+                                           trabajo, maquinaria, herramientas
+                                           e implementos de protección
+                                           aislante, y
+
+                                          La colocación del sistema de
+                                           puesta a tierra temporal;
+
+                                        Los procedimientos de seguridad para
+                                         realizar      las  actividades    de
+                                         mantenimiento de las instalaciones
+                                         eléctricas contemplan, según aplique,
+                                         lo siguiente:
+22   (Novena Sección)                  DIARIO OFICIAL                                     Jueves 29 de diciembre de 2011
+
+                  Tipo de
+Disposición                       Criterio de aceptación                                  Observaciones         Riesgo
+                 evaluación
+
+                                 La    indicación              para    que        toda
+                                  instalación eléctrica se considera
+                                  energizada hasta que se realice la
+                                  comprobación de ausencia de
+                                  tensión         eléctrica,                mediante
+                                  equipos         o         instrumentos            de
+                                  medición        destinados                para    tal
+                                  efecto; se efectúa la puesta a
+                                  tierra para la liberación de energía
+                                  almacenada,               y     la    instalación
+                                  eléctrica es puesta a tierra eficaz;
+
+                                 Las instrucciones para comprobar
+                                  de forma segura la presencia o
+                                  ausencia de la tensión eléctrica en
+                                  equipos o instalaciones eléctricas
+                                  a revisar, por medio del equipo de
+                                  medición o instrumentos que se
+                                  requieran;
+
+                                 La indicación para la revisión y
+                                  ajuste    de        la        coordinación        de
+                                  protecciones;
+
+                                 Las instrucciones para bloquear
+                                  equipos o colocar señalización,
+                                  candados,            o         cualquier         otro
+                                  dispositivo, a efecto de garantizar
+                                  que      el     circuito             permanezca
+                                  desenergizado cuando se realizan
+                                  actividades de mantenimiento;
+
+                                 Las instrucciones para verificar,
+                                  antes de realizar actividades de
+                                  mantenimiento,                       que          los
+                                  dispositivos de protección, en su
+                                  caso,     están               en     condiciones
+                                  de funcionamiento;
+
+                                 Las instrucciones para verificar
+                                  que la puesta a tierra fija cumple
+                                  con su función, o para colocar
+                                  puestas a tierra temporales, antes
+                                  de            realizar                actividades
+                                  de mantenimiento;
+
+                                 Las medidas de seguridad por
+                                  aplicar, en su caso, cuando no se
+                                  concluyen           las        actividades        de
+                                  mantenimiento                        de           las
+                                  instalaciones             eléctricas        en     la
+                                  jornada laboral, a fin de evitar
+                                  lesiones al personal;
+Jueves 29 de diciembre de 2011                 DIARIO OFICIAL                                     (Novena Sección)   23
+
+                  Tipo de
+Disposición                              Criterio de aceptación                             Observaciones       Riesgo
+                 evaluación
+
+                                        Las instrucciones para realizar
+                                         una revisión del área de trabajo
+                                         donde          se            efectuó          el
+                                         mantenimiento, después de haber
+                                         realizado los trabajos, con el
+                                         objeto de asegurarse que ha
+                                         quedado        libre     de       equipo     de
+                                         trabajo, maquinaria, herramientas
+                                         e     implementos            de    protección
+                                         aislante, y
+
+                                        Las instrucciones para que al
+                                         término de dicha revisión, se
+                                         retiren, en su caso, los candados,
+                                         señales        o        cualquier          otro
+                                         dispositivo utilizado para bloquear
+                                         la energía y, finalmente, cerrar
+                                         el circuito;
+
+                                    Los procedimientos de seguridad para
+                                     el desarrollo de las actividades de
+                                     mantenimiento de las instalaciones
+                                     eléctricas, contienen lo siguiente:
+
+                                        El diagrama unifilar con el cuadro
+                                         general                de               cargas
+                                         correspondiente a la zona donde
+                                         se realiza el mantenimiento, y
+
+                                        La      autorización          por       escrito
+                                         otorgada a los trabajadores, en su
+                                         caso;
+
+                                    Los procedimientos para la selección
+                                     y   uso     del     equipo            de    trabajo,
+                                     maquinaria,            herramientas               e
+                                     implementos de protección aislante,
+                                     contemplan lo siguiente:
+
+                                        La selección de acuerdo con las
+                                         tensiones eléctricas de operación
+                                         del circuito, en caso de trabajar
+                                         con partes vivas;
+
+                                        La forma de entregarlos a los
+                                         trabajadores           y/o        que     están
+                                         disponibles para su consulta;
+
+                                        Las instrucciones para su uso en
+                                         forma segura;
+
+                                        Las      instrucciones             para      su
+                                         almacenamiento,              transporte       o
+                                         reemplazo, y
+
+                                        Las instrucciones para su revisión
+                                         y mantenimiento, y
+24   (Novena Sección)                     DIARIO OFICIAL                     Jueves 29 de diciembre de 2011
+
+                  Tipo de
+Disposición                           Criterio de aceptación                 Observaciones         Riesgo
+                 evaluación
+
+                                 El procedimiento para la colocación
+                                  del sistema de puesta a tierra
+                                  temporal contempla, al menos, que:
+
+                                     Se      emplean     conductores,
+                                      elementos      y     dispositivos
+                                      específicamente diseñados para
+                                      este fin y de la capacidad de
+                                      conducción adecuada;
+
+                                     Se conecta la puesta a tierra lo
+                                      más cerca posible del lugar de
+                                      trabajo y en ambas partes del
+                                      mismo para que sea más efectiva;
+
+                                     Se respeta la secuencia para
+                                      conectar y desconectar la puesta
+                                      a tierra de la manera siguiente:
+
+                                      o   Conexión: Se conectan los
+                                          conductores de puesta a tierra
+                                          al sistema de tierras y, a
+                                          continuación, a la instalación
+                                          por     proteger,      mediante
+                                          pértigas     o      dispositivos
+                                          especiales a la instalación a
+                                          proteger,      tales      como
+                                          conductores de líneas o
+                                          electroductos, entre otros, y
+
+                                      o   Desconexión: Se procede a la
+                                          inversa,        es       decir,
+                                          primeramente se retiran de la
+                                          instalación los conductores de
+                                          la puesta a tierra y a
+                                          continuación se desconectan
+                                          del electrodo de puesta a
+                                          tierra;
+
+                                     Se asegura que todas las
+                                      cuchillas de seccionadores de
+                                      puesta a tierra quedan en posición
+                                      de cerrado, cuando la puesta a
+                                      tierra se hace por medio de estos
+                                      equipos;
+
+                                     Se comprueba que la puesta a
+                                      tierra temporal tenga contacto
+                                      eléctrico, tanto con las partes
+                                      metálicas que se desean poner a
+                                      tierra, como con el sistema de
+                                      puesta a tierra;
+
+                                     Se impida que en el transcurso de
+                                      las actividades de conexión de la
+                                      puesta a tierra, el trabajador está
+                                      en contacto simultáneo con dos
+                                      circuitos de puesta a tierra que no
+                                      estén unidos eléctricamente, ya
+                                      que éstos pueden encontrarse a
+                                      potenciales diferentes;
+ Jueves 29 de diciembre de 2011                   DIARIO OFICIAL                                           (Novena Sección)     25
+
+                   Tipo de
+  Disposición                                 Criterio de aceptación                              Observaciones           Riesgo
+                  evaluación
+
+                                             Se verifica que las partes
+                                              metálicas no conductoras de
+                                              máquinas, equipos y aparatos con
+                                              las que pueda tener contacto el
+                                              trabajador de manera accidental,
+                                              están     puestas      a    tierra,
+                                              especialmente las de tipo móvil;
+
+                                             Se coloca un puente conductor El                      trabajador    que
+                                              puesto a tierra en la zona de realiza esta actividad
+                                              trabajo    antes        de     efectuar    la está aislado para evitar
+                                              desconexión de la puesta a tierra formar parte del circuito
+                                              en servicio, y                                  eléctrico.
+
+                                             Se suspenda el trabajo durante el
+                                              tiempo de tormentas eléctricas y
+                                              pruebas de líneas, cuando se
+                                              trabaja en el sistema de tierras de
+                                              una instalación.
+
+5.5             Documental        El patrón cumple cuando presenta evidencia                                            Grave
+                                  documental de que realiza las actividades
+                                  de    mantenimiento       de      las     instalaciones
+                                  eléctricas sólo con personal capacitado.
+
+5.6                               El patrón cumple cuando:
+
+                Física                  Al realizar un recorrido por el centro                                         Grave
+                                         de      trabajo,      se         constata      que
+                                         proporciona al personal que desarrolla
+                                         las actividades de mantenimiento de
+                                         las instalaciones eléctricas, el equipo
+                                         de trabajo, maquinaria, herramientas
+                                         e implementos de protección aislante
+                                         que garanticen su seguridad, según el
+                                         nivel    de    tensión       o     corriente    de
+                                         alimentación          de     la       instalación
+                                         eléctrica, o
+
+                Entrevista              Al entrevistar a los trabajadores,                                             Grave
+                                         seleccionados de acuerdo con el
+                                         criterio muestral de la Tabla 1, del
+                                         numeral       16.4,     se       constata      que
+                                         proporciona al personal que desarrolla
+                                         las actividades de mantenimiento de
+                                         las instalaciones eléctricas, el equipo
+                                         de trabajo, maquinaria, herramientas
+                                         e implementos de protección aislante
+                                         que garanticen su seguridad, según el
+                                         nivel    de    tensión       o     corriente    de
+                                         alimentación          de     la       instalación
+                                         eléctrica.
+ 26   (Novena Sección)                         DIARIO OFICIAL                                      Jueves 29 de diciembre de 2011
+
+                   Tipo de
+  Disposición                             Criterio de aceptación                                   Observaciones             Riesgo
+                  evaluación
+
+5.7             Documental     El patrón cumple cuando presenta evidencia
+                               documental de que:
+
+                                    Elabora    y       da       seguimiento       a    un
+                                     programa de revisión y conservación
+                                     del equipo de trabajo, maquinaria,
+                                     herramientas            e     implementos          de
+                                     protección aislante utilizados en las
+                                     actividades de mantenimiento de las
+                                     instalaciones eléctricas, y
+
+                                    El     programa              de     revisión         y
+                                     conservación del equipo de trabajo,
+                                     maquinaria,                 herramientas            e
+                                     implementos de protección aislante
+                                     contiene al menos:
+
+                                      Las fechas de realización,
+
+                                      El          responsable               de          su
+                                          cumplimiento, y
+
+                                      El resultado de su ejecución.
+
+5.8             Documental     El patrón cumple cuando presenta evidencia
+                               documental       de           que       cuenta           con
+                               procedimientos de revisión, conservación,
+                               almacenamiento y reemplazo del equipo de
+                               trabajo,    maquinaria,             herramientas          e
+                               implementos de protección aislante, para
+                               realizar las actividades de mantenimiento de
+                               las instalaciones eléctricas.
+
+5.9                            El patrón cumple cuando:                                       Es     válido    que    el
+                                                                                              patrón presente otra
+                Física              Al realizar un recorrido por el centro                                                Grave
+                                                                                              metodología, diferente
+                                     de   trabajo,      se        constata    que        se
+                                                                                              a la contenida en la
+                                     proporciona a los trabajadores que
+                                                                                              NOM-017-STPS-2008,
+                                     realizan actividades de mantenimiento
+                                                                                              para     seleccionar    el
+                                     de las instalaciones eléctricas, el
+                                                                                              equipo de protección
+                                     equipo     de       protección           personal,
+                                                                                              personal        de     los
+                                     conforme       a    lo       dispuesto       por    la
+                                                                                              trabajadores           que
+                                     NOM-017-STPS-2008, o las que la
+                                                                                              realizan actividades de
+                                     sustituyan, o
+                                                                        mantenimiento de las
+                Entrevista          Al entrevistar a los trabajadores, instalaciones        Grave
+                                     seleccionados de acuerdo con el eléctricas, por ejemplo
+                                     criterio muestral de la Tabla 1, del la                   contenida en la
+                                     numeral       16.4,         se    constata         que NFPA-70E, Standard
+                                     proporciona a los trabajadores que for electrical safety in
+                                     realizan actividades de mantenimiento the workplace, 2010
+                                     de las instalaciones eléctricas, el edition.
+                                     equipo  de    protección   personal
+                                     conforme a lo dispuesto por la NOM-
+                                     017-STPS-2008,               o    las    que        la
+                                     sustituyan.
+ Jueves 29 de diciembre de 2011                 DIARIO OFICIAL                                           (Novena Sección)   27
+
+                   Tipo de
+  Disposición                               Criterio de aceptación                                 Observaciones       Riesgo
+                  evaluación
+
+5.10            Documental        El patrón cumple cuando presenta evidencia
+                                  documental       de        que            cuenta           con
+                                  procedimientos     para          el       uso,     revisión,
+                                  reposición, limpieza, limitaciones, resguardo
+                                  y disposición final del equipo de protección
+                                  personal, basados en la información del
+                                  fabricante, y de conformidad con lo que
+                                  señala la NOM-017-STPS-2008, o las que la
+                                  sustituyan.
+
+5.11 y 9        Física            El patrón cumple cuando, al efectuar un
+                                  recorrido por el centro de trabajo, se
+                                  constata que para realizar actividades de
+                                  mantenimiento         de         las           instalaciones
+                                  eléctricas se adoptan, según aplique, las
+                                  medidas de seguridad siguientes
+
+                                       Efectúa con personal autorizado y                                           Grave
+                                        capacitado           los            trabajos         de
+                                        mantenimiento de las instalaciones
+                                        eléctricas en lugares peligrosos, tales
+                                        como altura, espacios confinados,
+                                        subestaciones y líneas energizadas;
+
+                                       Delimita la zona de trabajo para                                            Grave
+                                        realizar actividades de mantenimiento
+                                        de las instalaciones eléctricas, o en
+                                        sus proximidades, y coloca señales de
+                                        seguridad que:
+
+                                         Indican a personas no autorizadas
+                                            la prohibición de:
+
+                                            o   Entrar a la subestación o
+                                                energizar                   el         equipo
+                                                o máquinas eléctricas, y
+
+                                            o   Operar, manejar o tocar los
+                                                dispositivos eléctricos;
+
+                                         Identifican        los         dispositivos        de
+                                            enclavamiento de uno a cuatro
+                                            candados, y
+
+                                         Definen el área en mantenimiento
+                                            mediante la colocación de:
+
+                                            o   Cintas, cuerdas o cadenas de
+                                                plástico       de           color     rojo    o
+                                                anaranjado              y    mosquetones
+                                                para su enganche;
+
+                                            o   Barreras extendibles de color
+                                                rojo o anaranjado provistas de
+                                                cuerdas en sus extremos para
+                                                su sujeción;
+
+                                            o   Banderolas;
+28   (Novena Sección)                       DIARIO OFICIAL                               Jueves 29 de diciembre de 2011
+
+                  Tipo de
+Disposición                           Criterio de aceptación                             Observaciones         Riesgo
+                 evaluación
+
+                                      o     Estandartes;
+
+                                      o     Distintivos de color rojo para
+                                            la señalización de la zona de
+                                            trabajo, o
+
+                                   o              Tarjetas de libranza con
+                                      información        de     quién       realiza,
+                                      quién autoriza, cuándo se inició y
+                                      cuándo finalizará el trabajo por
+                                      realizar;
+
+                                 Utiliza para el mantenimiento de las                                       Grave
+                                  instalaciones eléctricas, conforme al
+                                  trabajo por desarrollar, según aplique,
+                                  equipo      de     trabajo,         maquinaria,
+                                  herramientas       e     implementos             de
+                                  protección       aislante      y,       de      ser
+                                  necesario, uno o más de los equipos o
+                                  materiales siguientes:
+
+                                     Tarimas o alfombras aislantes;
+
+                                     Vainas y caperuzas aislantes;
+
+                                     Comprobadores o discriminadores
+                                      de tensión eléctrica, de la clase y
+                                      tensión adecuadas al sistema;
+
+                                     Herramientas aisladas;
+
+                                     Material de señalización, tales
+                                      como         discos,       barreras           o
+                                      banderines, entre otros;
+
+                                     Lámparas portátiles, o
+
+                                     Transformadores de aislamiento;
+
+                                 Comprueba, para la realización de
+                                  trabajos de mantenimiento de las
+                                  instalaciones eléctricas, al menos que:
+
+                                   Las instalaciones eléctricas se
+                                      encuentran de conformidad con el
+                                      diagrama       unifilar        y    el     plan
+                                      de trabajo;
+
+                                   Se evita trabajar con conductores                                        Grave
+                                      o equipos energizados y, en caso
+                                      de      que        sea     estrictamente
+                                      necesario, se realiza si se cuenta
+                                      con     el    equipo      de       protección
+                                      personal y las herramientas o
+                                      implementos               de             trabajo
+                                      requeridos;
+Jueves 29 de diciembre de 2011           DIARIO OFICIAL                            (Novena Sección)   29
+
+                  Tipo de
+Disposición                          Criterio de aceptación                  Observaciones       Riesgo
+                 evaluación
+
+                                  Se prohíbe a los trabajadores que                          Grave
+                                   usen      alhajas  o    elementos
+                                   metálicos durante la ejecución de
+                                   las actividades;
+                                  Se    aplica   el    procedimiento
+                                   correspondiente a conductores o
+                                   equipo energizado, antes de
+                                   efectuar cualquier operación para:
+                                     o   Interrumpir el flujo de corriente
+                                         eléctrica;
+                                     o   Verificar con equipo de
+                                         medición     la     ausencia
+                                         de tensión eléctrica en los
+                                         conductores     o     equipo
+                                         eléctrico;
+                                     o   Poner     a     tierra  y   en
+                                         cortocircuito los conductores y
+                                         equipo eléctrico;
+                                     o   Aplicar      otras      medidas
+                                         preventivas necesarias, como
+                                         la colocación de candados o
+                                         avisos,    que     impidan   el
+                                         restablecimiento       de    la
+                                         corriente eléctrica, y
+                                     o   Proteger los elementos con
+                                         tensión situados en las
+                                         inmediaciones,    contra el
+                                         contacto accidental;
+                                  Se       mantiene    legible     la
+                                   identificación    de      tableros,
+                                   gabinetes,           interruptores,
+                                   transformadores, entre otros, así
+                                   como        sus     características
+                                   eléctricas;
+                                  Se cuenta con las herramientas y                           Grave
+                                   equipo de protección personal
+                                   adecuados a cada tarea, tales
+                                   como:      guantes      dieléctricos,
+                                   esteras y mantas aislantes, en
+                                   número suficiente y de acuerdo
+                                   con el potencial eléctrico en el que
+                                   se va a trabajar;
+                                  Se impide desplazar los aparatos                           Grave
+                                   eléctricos  portátiles  mientras
+                                   están conectados a la fuente de
+                                   energía;
+                                  Se evita emplear herramientas y                            Grave
+                                   aparatos eléctricos portátiles en
+                                   atmósferas      inflamables     o
+                                   explosivas, a menos que cumplan
+                                   con las especificaciones del
+                                   equipo a prueba de explosión;
+                                  Se aplican los procedimientos de
+                                   seguridad que se requieren, con
+                                   base en lo establecido en el
+                                   Capítulo 8 de esta Norma;
+30   (Novena Sección)                 DIARIO OFICIAL                    Jueves 29 de diciembre de 2011
+
+                  Tipo de
+Disposición                       Criterio de aceptación                Observaciones         Riesgo
+                 evaluación
+
+                               Se cumple, cuando se emplean a                              Grave
+                                la    intemperie aparatos    de
+                                conexión de tipo abierto, con lo
+                                siguiente:
+
+                                  o   Protegen     a    todos    los
+                                      elementos      bajo    tensión
+                                      eléctrica contra contactos
+                                      accidentales,        mediante
+                                      cubiertas o bien colocándolos
+                                      a una altura tal que no
+                                      representa un riesgo de
+                                      contacto accidental;
+
+                                  o   Conservan las distancias de
+                                      seguridad     del    espacio
+                                      de trabajo en torno a los
+                                      elementos con tensión o
+                                      energizados,     según    lo
+                                      dispuesto por la NOM-001-
+                                      SEDE-2005, o las que la
+                                      sustituyan, y
+
+                                  o   Protegen los aparatos de
+                                      conexión, transformadores y
+                                      demás aparatos eléctricos
+                                      energizados,      con cercas
+                                      metálicas que se encuentran
+                                      puestas a tierra;
+
+                               Están puestos a tierra el armazón                           Grave
+                                de las herramientas y los aparatos
+                                de mano y portátiles, excepto el
+                                de las herramientas con doble
+                                aislamiento;
+
+                                 Se somete el sistema de puesta a                          Grave
+                                  tierra de toda la instalación
+                                  eléctrica   a    la   prueba     de
+                                  resistencia     a       tierra    y
+                                  de continuidad, al menos una vez
+                                  por año, y se registran su valores;
+
+                               Se realiza una revisión en todo el
+                                circuito o red eléctrica en el que
+                                se efectuó el mantenimiento,
+                                después de haber realizado los
+                                trabajos;
+
+                               Se    energizan    los   circuitos,
+                                conductores o equipos, después
+                                de haber efectuado cualquier
+                                trabajo, únicamente por orden del
+                                jefe de trabajo, y
+
+                               Se provee de un interruptor de
+                                protección de falla a tierra para
+                                proteger a los trabajadores,
+                                cuando realicen actividades de
+                                mantenimiento, y
+ Jueves 29 de diciembre de 2011                DIARIO OFICIAL                           (Novena Sección)   31
+
+                   Tipo de
+  Disposición                               Criterio de aceptación                Observaciones       Riesgo
+                  evaluación
+
+                                      Cumple,     cuando     se      utilizan
+                                       herramientas o lámparas portátiles en
+                                       el mantenimiento de las instalaciones
+                                       eléctricas de baja tensión, con las
+                                       condiciones de seguridad siguientes:
+
+                                          Se cuenta con cables de
+                                           alimentación de las herramientas
+                                           o       lámparas        portátiles
+                                           perfectamente aislados y en
+                                           buen estado;
+
+                                          Se     utilizan    tensiones      de
+                                           alimentación de 24 volts o menos,
+                                           en el caso de las herramientas y
+                                           lámparas portátiles para los
+                                           trabajos     en   zanjas,    pozos,
+                                           galerías y calderas, entre otros;
+
+                                        Se proveen las lámparas portátiles
+                                         con mango aislante, dispositivo
+                                         protector de la bombilla y
+                                         conductor de aislamiento de uso
+                                         rudo o extra rudo, y
+
+                                          Se cumple con al menos una de
+                                           las condiciones siguientes, en
+                                           aquellos casos en que la
+                                           herramienta portátil tenga que
+                                           funcionar    con      una    tensión
+                                           eléctrica superior a los 24 volts:
+
+                                           o   Usar guantes        dieléctricos
+                                               aislantes;
+
+                                           o   Disponer de doble aislamiento
+                                               en la herramienta portátil;
+
+                                           o   Contar con conexión          de
+                                               puesta a tierra;
+
+                                           o   Contar con protección de los
+                                               defectos de aislamiento de la
+                                               herramienta,         mediante
+                                               relevadores diferenciales, o
+
+                                          o        Utilizar transformadores
+                                           de aislamiento.
+
+5.11 y 10       Física            El patrón cumple cuando, al efectuar un
+                                  recorrido por el centro de trabajo, se
+                                  constata que para realizar actividades de
+                                  mantenimiento     de    las    instalaciones
+                                  eléctricas se cuenta con las condiciones de
+                                  seguridad siguientes:
+
+                                      En el equipo eléctrico motivo del
+                                       mantenimiento, según aplique:
+
+                                        Los interruptores están contenidos
+                                         en envolventes que imposibilitan,
+                                         en cualquier caso, el contacto
+                                         accidental de personas y objetos;
+32   (Novena Sección)                       DIARIO OFICIAL                                     Jueves 29 de diciembre de 2011
+
+                  Tipo de
+Disposición                           Criterio de aceptación                                    Observaciones               Riesgo
+                 evaluación
+
+                                   Se realiza la apertura y cierre de Ejemplo del equipo de Grave
+                                      cuchillas,                  seccionadores, protección                  personal
+                                      cuchillas-fusibles                y          otros son:                 guantes
+                                      dispositivos              similares,            por dieléctricos, según la
+                                      personal        autorizado,           utilizando clase y de acuerdo con
+                                      equipo de protección personal y la                         tensión     eléctrica;
+                                      de seguridad, de acuerdo con los protección                              ocular;
+                                      riesgos potenciales identificados, casco                       de     seguridad;
+                                      y                                                     ropa de trabajo y botas
+                                                                                            dieléctricas,        entre
+                                   Se efectúa la conexión de alguna                                                      Grave
+                                                                                            otros.
+                                      instalación      eléctrica            -nueva      o
+                                      provisional-, o equipo a líneas
+                                      o        circuitos              energizados,
+                                      invariablemente con el circuito
+                                      desenergizado. En caso de no
+                                      poder desenergizar el circuito, se
+                                      aplica     el    procedimiento               para
+                                      trabajos con línea energizada que
+                                      para tal efecto se elabore;
+
+                                 En las instalaciones eléctricas se
+                                  verifica, según aplique, que:
+
+                                     Todos los equipos destinados al
+                                      uso y distribución de la energía
+                                      eléctrica cuentan con información
+                                      para identificar las características
+                                      eléctricas      y     la     distancia           de
+                                      seguridad        para       las       tensiones
+                                      eléctricas      presentes,             en       una
+                                      placa, en etiquetas adheridas o
+                                      marcada sobre el equipo;
+
+                                     Los lugares en los que el contacto
+                                      con      equipos          eléctricos        o    la
+                                      proximidad           de      éstos          puede
+                                      entrañar         peligro          para          los
+                                      trabajadores, se cuenta con las
+                                      señalizaciones             de         seguridad,
+                                      conforme a lo dispuesto por la
+                                      NOM-026-STPS-2008, o las que
+                                      la sustituyan, para indicar los
+                                      riesgos y para el uso del equipo
+                                      de protección personal;
+
+                                     Los elementos energizados se
+                                      encuentran fuera del alcance de
+                                      los trabajadores;
+
+                                     Se delimita la zona de trabajo
+                                      mediante        la    utilización,          entre
+                                      otros, de los medios siguientes:
+
+                                      o     Barreras protectoras;
+
+                                      o     Resguardos;
+Jueves 29 de diciembre de 2011                  DIARIO OFICIAL                                   (Novena Sección)   33
+
+                  Tipo de
+Disposición                               Criterio de aceptación                           Observaciones       Riesgo
+                 evaluación
+
+                                          o     Cintas delimitadoras, y
+
+                                          o     Control de acceso;
+
+                                         Se manipulan los conductores
+                                          energizados                con         guantes
+                                          dieléctricos o con herramienta
+                                          aislada, diseñada para el nivel de
+                                          tensión eléctrica que se maneje;
+
+                                         Se protege contra daños a todos
+                                          los       cables,    especialmente         los
+                                          expuestos a cargas de vehículos
+                                          o equipos mecánicos pesados;
+
+                                         Se cumple, en las cubiertas del
+                                          equipo o de los dispositivos fijos,
+                                          que su apertura interrumpa la
+                                          tensión eléctrica, por medio de
+                                          una herramienta o llave especial;
+
+                                         Se        protegen     eficazmente         los                    Grave
+                                          cables         desnudos            y     otros
+                                          elementos                        descubiertos
+                                          energizados, cuando se instalan,
+                                          mediante cercas o pantallas de
+                                          protección, o se cumple con las
+                                          distancias de seguridad a que se
+                                          refiere la NOM-001-SEDE-2005, o
+                                          las que la sustituyan;
+
+                                         Se prohíbe el uso de elementos                                    Grave
+                                          metálicos tales como flexómetros,
+                                          varillas, tubos, perfiles, así como
+                                          de equipos de radiocomunicación
+                                          con antena, en las inmediaciones
+                                          de las instalaciones eléctricas
+                                          energizadas;
+
+                                         Se evita almacenar materiales de
+                                          cualquier           tipo         sobre     las
+                                          instalaciones eléctricas, y
+
+                                         Se mantiene libre de obstáculos el
+                                          acceso a los tableros o puntos de
+                                          conexión o desconexión de la
+                                          instalación eléctrica;
+
+                                    En       las     subestaciones           eléctricas                    Grave
+                                     adopta, al menos, las medidas de
+                                     seguridad siguientes:
+
+                                         Se obtiene la autorización para
+                                          realizar        trabajos            en      la
+                                          subestación;
+
+                                         Se usa el equipo de protección
+                                          personal necesario para realizar
+                                          los trabajos en la subestación;
+34   (Novena Sección)                   DIARIO OFICIAL                                Jueves 29 de diciembre de 2011
+
+                  Tipo de
+Disposición                       Criterio de aceptación                              Observaciones         Riesgo
+                 evaluación
+
+                                 Se realizan las actividades de
+                                  mantenimiento en la subestación
+                                  eléctrica,        al   menos           con    dos
+                                  trabajadores;
+
+                               Se considera que todo el equipo
+                                  que se localice en la subestación
+                                  eléctrica está energizado, hasta
+                                  que no se compruebe la ausencia
+                                  de tensión eléctrica y que está
+                                  puesto       a     tierra        efectivamente,
+                                  antes de iniciar el mantenimiento;
+
+                                 Se aplican los procedimientos de
+                                  seguridad establecidos para el
+                                  mantenimiento           y        los    que    se
+                                  requieran, de conformidad con lo
+                                  establecido en el Capítulo 8 de la
+                                  presente Norma;
+
+                                 Se     respetan         los        avisos     de
+                                  seguridad;
+
+                                 Se       manejan                 equipos      de
+                                  calibración y prueba que cuentan
+                                  con      certificado              vigente     de
+                                  calibración;
+
+                                 Se     mantienen             las        palancas
+                                  de acción manual, puertas de
+                                  acceso,          gabinetes         de    equipo
+                                  de control, entre otros, según sea
+                                  el caso, con candado o con una
+                                  etiqueta de seguridad que indica
+                                  que están siendo operados o se
+                                  está ejecutando en ellos algún
+                                  trabajo;
+
+                                 Se asegura que las partes vivas
+                                  de la subestación eléctrica están
+                                  fuera del alcance del personal o
+                                  protegidas             por             pantallas,
+                                  enrejados, rejillas u otros medios
+                                  similares, y
+
+                                 Se     identifica           la     salida     de
+                                  emergencia y asegura que las
+                                  puertas abren:
+
+                                  o     Hacia afuera o son corredizas;
+
+                                  o     Fácilmente desde el interior, y
+                                        que se encuentran libres de
+                                        obstáculos, y
+
+                                  o     Desde el exterior únicamente
+                                        con    una       llave       especial    o
+                                        controlada;
+Jueves 29 de diciembre de 2011               DIARIO OFICIAL                           (Novena Sección)   35
+
+                  Tipo de
+Disposición                              Criterio de aceptación                 Observaciones       Riesgo
+                 evaluación
+
+                                    En los equipos o dispositivos de las                        Grave
+                                     instalaciones eléctricas provisionales
+                                     objeto del mantenimiento, comprueba
+                                     que:
+                                        Se aplican las medidas de
+                                         seguridad, en caso de contar con
+                                         líneas energizadas sin aislar
+                                         próximas a muros;
+                                        Se     revisa     que       están
+                                         desenergizados y puestos a tierra;
+                                        Se verifica que no existan daños
+                                         en los aislamientos de los
+                                         conductores;
+                                        Cuentan los empalmes con la
+                                         resistencia mecánica   para
+                                         mantener la continuidad del
+                                         circuito, y
+                                        Se mantiene la continuidad
+                                         eléctrica en todas las soldaduras
+                                         o uniones;
+                                    Para la realización de trabajos dentro
+                                     del perímetro de las instalaciones
+                                     eléctricas, comprueba que:
+                                        Se conserva la distancia de                             Grave
+                                         seguridad      que    corresponda
+                                         a la tensión eléctrica de la
+                                         instalación, antes de efectuar
+                                         cualquier        maniobra       de
+                                         mantenimiento a los conductores
+                                         o      instalaciones    eléctricas.
+                                         Para establecer la distancia de
+                                         seguridad, aplica lo establecido
+                                         en la NOM-001-SEDE-2005, o las
+                                         que la sustituyan;
+                                        Se impide hacer maniobras de                            Grave
+                                         mantenimiento a una distancia
+                                         menor de trabajo en un conductor
+                                         o instalación eléctrica, mientras no
+                                         se tenga desenergizado dicho
+                                         conductor o instalación eléctrica, o
+                                         no sean aplicadas las medidas de
+                                         seguridad indicadas en esta
+                                         Norma, y
+                                        Se adoptan las medidas de
+                                         seguridad     e     indican     las
+                                         instrucciones específicas para
+                                         prevenir los riesgos de trabajo,
+                                         cuando      no     sea      posible
+                                         desconectar un conductor o
+                                         equipo     de   una     instalación
+                                         eléctrica, en cuya proximidad se
+                                         vayan a efectuar maniobras de
+                                         mantenimiento. Dichas medidas
+                                         incluyen al menos lo siguiente:
+                                         o   Colocar          protecciones
+                                             aislantes,    candados      o
+                                             etiquetas de seguridad en los
+                                             conductores e instalaciones
+                                             energizados,           según
+                                             corresponda, y
+ 36    (Novena Sección)                       DIARIO OFICIAL                                      Jueves 29 de diciembre de 2011
+
+                    Tipo de
+  Disposición                             Criterio de aceptación                                  Observaciones         Riesgo
+                   evaluación
+
+                                          o   Controlar, en su caso, el
+                                              desplazamiento               del       equipo
+                                              móvil         empleado            para       dar
+                                              mantenimiento                     en         las
+                                              inmediaciones de conductores
+                                              o equipos de una instalación
+                                              eléctrica que no puedan ser
+                                              desconectados, a fin de evitar
+                                              el riesgo por contacto, y
+
+                                     Para         instalaciones                 eléctricas
+                                      provisionales, sigue, al menos, las
+                                      medidas de seguridad siguientes:
+
+                                         Se solicita por escrito al jefe de
+                                          trabajo del centro de maniobras o
+                                          despacho,             autorización             para
+                                          colocar      instalaciones             eléctricas
+                                          provisionales;
+
+                                         Se informa por escrito al jefe de
+                                          trabajo del centro de maniobras o
+                                          despacho,         de          todas     aquellas
+                                          modificaciones                   provisionales
+                                          efectuadas y etiquetas colocadas,
+                                          con el propósito de que sean
+                                          retiradas         o      convertidas              en
+                                          instalaciones permanentes;
+
+                                         Emplea             las           instalaciones
+                                          eléctricas                       provisionales
+                                          únicamente para el fin que fueron
+                                          diseñadas;
+
+                                         Retira            las            instalaciones
+                                          provisionales            al     término          del
+                                          propósito para el cual fueron
+                                          colocadas,            conforme             a      lo
+                                          dispuesto por la NOM-001-SEDE-
+                                          2005, o las que la sustituyan, y
+
+                                         Retira      las       puestas          a       tierra                       Grave
+                                          conforme a lo dispuesto por la
+                                          NOM-001-SEDE-2005, o las que
+                                          la sustituyan.
+
+5.11 y 11.1     Física          El patrón cumple cuando demuestra que
+                                para realizar trabajos de mantenimiento de
+                                las   instalaciones     eléctricas              aéreas       y
+                                subterráneas se aplican los procedimientos
+                                que correspondan con base en lo dispuesto
+                                en el Capítulo 8 de la presente Norma.
+ Jueves 29 de diciembre de 2011                DIARIO OFICIAL                          (Novena Sección)   37
+
+                   Tipo de
+  Disposición                               Criterio de aceptación               Observaciones       Riesgo
+                  evaluación
+
+5.11 y 11.2     Física            El patrón cumple cuando, al efectuar un
+                                  recorrido por el centro laboral, se constata
+                                  que para realizar trabajos de mantenimiento
+                                  de las instalaciones eléctricas aéreas y
+                                  subterráneas se cumple con las medidas de
+                                  seguridad siguientes:
+
+                                      Se verifica que se cumple, además de
+                                       las medidas generales de seguridad
+                                       establecidas en el Capítulo 9 de esta
+                                       Norma, que se:
+
+                                          Realizan las actividades de                            Grave
+                                           mantenimiento        de         las
+                                           instalaciones           eléctricas
+                                           únicamente     con       personal
+                                           autorizado y capacitado para tal
+                                           fin;
+
+                                          Efectúa la desconexión de líneas                       Grave
+                                           o equipos de la fuente de energía
+                                           eléctrica, abriendo primero los
+                                           equipos diseñados para operar
+                                           con carga;
+
+                                          Ejecuta para la apertura o cierre                      Grave
+                                           de cuchillas energizadas de
+                                           operación en grupo, lo siguiente:
+
+                                           o   Se verifica que el maneral se
+                                               encuentra conmutado a tierra;
+
+                                           o   Se usa equipo de protección
+                                               personal adecuado a la
+                                               actividad, y
+
+                                           o   Se utilizan tapetes aislantes,
+                                               mantas o cubiertas aislantes,
+                                               en caso de que exista
+                                               humedad excesiva en el
+                                               suelo;
+
+                                          Verifica la ausencia de tensión                        Grave
+                                           eléctrica antes de iniciar el
+                                           trabajo; se ponen en corto circuito
+                                           y a tierra, ambos lados de las
+                                           líneas, lo más cerca posible del
+                                           lugar de trabajo, y se asegura que
+                                           las puestas a tierra tienen el
+                                           calibre adecuado para conducir
+                                           con seguridad una falla a tierra,
+                                           mantienen continuidad eléctrica y
+                                           una impedancia suficientemente
+                                           baja;
+
+                                          Colocan barreras de protección y
+                                           señales o avisos de seguridad en
+                                           la zona de trabajo donde se
+                                           ubican    los   dispositivos  de
+                                           conexión/desconexión,        y/o
+                                           protección;
+38   (Novena Sección)                  DIARIO OFICIAL                                     Jueves 29 de diciembre de 2011
+
+                  Tipo de
+Disposición                       Criterio de aceptación                                     Observaciones             Riesgo
+                 evaluación
+
+                                 Coloca, a la altura del dispositivo                                                Grave
+                                  de seccionamiento o sobre la
+                                  manija del dispositivo, un aviso
+                                  preventivo          con          la     leyenda:
+                                  “Peligro, no energizar”, y bloqueos
+                                  físicos como candados, cuando se
+                                  abren interruptores, restauradores
+                                  y cuchillas que se localizan en vía
+                                  pública o se trata de equipo
+                                  operable a distancia;
+
+                                 Verifica que todas las posibles                                                    Grave
+                                  fuentes de alimentación en la
+                                  zona de trabajo están abiertas;
+
+                                 Colocan          cubiertas            protectoras Los trabajadores usan Grave
+                                  para      el     poste          y/o     para    el guantes          dieléctricos
+                                  conductor, de acuerdo con el nivel para                        la       tensión
+                                  de       tensión           eléctrica           que eléctrica         requerida,
+                                  corresponda, en caso de instalar o además de guantes de
+                                  remover un poste entre líneas carnaza o de piel para
+                                  energizadas o cerca de ellas;                        manipular el poste.
+
+                                 Pone      a       tierra        la     estructura Los       trabajadores     no Grave
+                                  metálica del camión utilizado para tocan                       el      vehículo
+                                  colocar o remover un poste entre mientras están parados
+                                  líneas energizadas o cerca de en el suelo, a menos
+                                  ellas;                                               que       se          hayan
+                                                                                       terminado               las
+                                 Realiza         para       reemplazar          los                                 Grave
+                                                                                       maniobras         o      se
+                                  fusibles en las líneas de alta
+                                                                                       detenga la actividad.
+                                  tensión, lo siguiente:
+
+                                  o    Se verifica la ausencia de
+                                       tensión       eléctrica           antes    de
+                                       iniciar el trabajo y, en su caso,
+                                       se ponen en corto circuito y a
+                                       tierra, ambos lados de las
+                                       líneas, lo más cerca posible
+                                       del lugar de trabajo;
+
+                                  o    Se        verifica     que        se     haya
+                                       corregido la falla;
+
+                                  o    Se mantiene la distancia de
+                                       seguridad. Los cortacircuitos
+                                       fusibles al estar abiertos del
+                                       lado        de        la         carga     se
+                                       consideran            energizados           y
+                                       para reemplazarlos se ponen
+                                       a tierra;
+Jueves 29 de diciembre de 2011           DIARIO OFICIAL                                                  (Novena Sección)         39
+
+                  Tipo de
+Disposición                          Criterio de aceptación                                    Observaciones                Riesgo
+                 evaluación
+
+                                     o   Se       inclina             la      cabeza Se utiliza para esta
+                                         ligeramente hacia abajo al actividad                              casco     de
+                                         momento             de         cerrar       un seguridad                  con
+                                         cortacircuito            fusible,          para barboquejo para usos
+                                         protegerse del arco eléctrico y eléctricos,                       botas     de
+                                         posibles       proyecciones                 de seguridad sin casquillo
+                                         partículas              que          puedan metálico,                  guantes
+                                         producirse, y                                     dieléctricos,    ropa     de
+                                                                                           trabajo de algodón y
+                                     o   Se verifica la continuidad de
+                                                                                           lentes de seguridad.
+                                         las conexiones de puesta a
+                                         tierra y de los conductores de
+                                         puesta a tierra;
+
+                                    Cuenta       en        el        carrete       que El       trabajador        que Grave
+                                     suministra el conductor, con una atiende el carrete debe
+                                     puesta a tierra, en caso de tender trabajar                           en      una
+                                     un conductor cerca de otro(s) plataforma                              aislada    y
+                                     conductor(es) energizado(s);                          usar guantes aislantes,
+                                                                                           de acuerdo con el nivel
+                                    Verifica en las líneas montadas                                                      Grave
+                                                                                           de tensión.
+                                     sobre los mismos apoyos, en todo
+                                     o parte de su recorrido, que:
+
+                                     o   Se prohíbe realizar trabajos y
+                                         maniobras en una línea por el
+                                         procedimiento                llamado        de
+                                         “hora convenida”;
+
+                                     o   Se evita realizar trabajos o
+                                         éstos se suspenden cuando
+                                         existen tormentas eléctricas, y
+
+                                     o   Se impide realizar trabajos en
+                                         una línea con dos o más
+                                         circuitos estando uno de ellos
+                                         con tensión eléctrica, si para
+                                         su ejecución es necesario
+                                         mover         los            conductores,
+                                         aisladores               o          soportes
+                                         mecánicos, de forma que se
+                                         pueda entrar en contacto con
+                                         el otro circuito, y
+
+                                    Asegura que no queda ningún                                                          Grave
+                                     trabajador        en        la        línea,     ni
+                                     depositadas herramientas en el
+                                     lugar de trabajo, al terminar las
+                                     actividades y antes de retirar las
+                                     conexiones de puesta a tierra, y
+                                     que posteriormente se procede a
+                                     quitar las conexiones de puesta
+                                     a tierra, en sentido inverso al
+                                     seguido en su colocación.
+ 40    (Novena Sección)                         DIARIO OFICIAL                         Jueves 29 de diciembre de 2011
+
+                    Tipo de
+  Disposición                              Criterio de aceptación                      Observaciones         Riesgo
+                   evaluación
+
+5.11 y 11.3     Física          El patrón cumple cuando demuestra que
+                                para trabajos de mantenimiento de líneas
+                                subterráneas se cumple con las medidas de
+                                seguridad siguientes:
+
+                                     Según      aplique,     se     emplean     las
+                                      previstas en el numeral 11.2 de la
+                                      presente Norma;
+
+                                     Se identifica la ubicación de los
+                                      equipos       conforme          lo    indican
+                                      los planos;
+
+                                     Se ubican las trayectorias, circuitos de
+                                      alimentación,                transformadores,
+                                      seccionadores e interruptores;
+
+                                     Se        determinan          las    medidas
+                                      preventivas para realizar las tareas en
+                                      función de los riesgos presentes al
+                                      momento de efectuar los trabajos, y
+
+                                     Se verifica el estado y la continuidad
+                                      eléctrica de las conexiones de puesta
+                                      a tierra y de los conductores de
+                                      puesta a tierra.
+
+5.11 y 12       Física          El patrón cumple cuando, al efectuar un
+                                recorrido por el centro laboral, se constata
+                                que los trabajos de mantenimiento de las
+                                instalaciones    eléctricas    energizadas,      se
+                                realizan con las medidas de seguridad
+                                siguientes:
+
+                                     Se cumple con lo establecido en los
+                                      procedimientos de seguridad a que se
+                                      refieren los numerales 8.1 al 8.3 de
+                                      esta Norma;
+
+                                     Se cumple con las instrucciones de
+                                      seguridad siguientes:
+
+                                          Se     efectúa     la     actividad   por                       Grave
+                                           trabajadores        autorizados        y
+                                           capacitados;
+
+                                          Se cumple con la técnica descrita                               Grave
+                                           en los procedimientos del plan de
+                                           trabajo y utilizan las herramientas
+                                           e implementos necesarios para
+                                           efectuar la actividad, así como el
+                                           equipo de protección personal
+                                           adecuado al riesgo;
+Jueves 29 de diciembre de 2011                  DIARIO OFICIAL                                        (Novena Sección)   41
+
+                  Tipo de
+Disposición                               Criterio de aceptación                                Observaciones       Riesgo
+                 evaluación
+
+                                         Se     sigue         la        secuencia        de
+                                          ejecución de las maniobras, tales
+                                          como la conexión y/o desconexión
+                                          de dispositivos de seccionamiento
+                                          y protección, el traslado de líneas,
+                                          la     colocación               de         puentes
+                                          provisionales, el aislamiento de
+                                          redes, entre otras;
+
+                                         Se     utilizan       los         medios        de
+                                          comunicación, en su caso, con la
+                                          subestación,              el      centro        de
+                                          maniobras o el jefe de trabajo;
+
+                                         Se realiza la entrega y recepción
+                                          de la zona de trabajo para el inicio
+                                          y término de las actividades,
+                                          respectivamente, y
+
+                                         Se     cuenta             con        supervisión
+                                          permanente en la ejecución de los
+                                          trabajos;
+
+                                    Se realiza una reunión previa al inicio
+                                     de las actividades en la zona de
+                                     trabajo, a fin de efectuar un análisis
+                                     de    las       condiciones               del     lugar,
+                                     considerando, al menos lo siguiente:
+
+                                         Las redes cercanas a la zona de
+                                          trabajo;
+
+                                         La      ubicación               correcta       del
+                                          vehículo, y
+
+                                         La puesta a tierra del vehículo;
+
+                                    Se prohíbe efectuar trabajos de línea
+                                     energizada en circuitos en falla, en
+                                     días lluviosos o cuando no se cuenta
+                                     con el material y equipo necesario;
+
+                                    Se cuenta con un programa para la
+                                     revisión        y      mantenimiento                 de
+                                     vehículos, equipos y herramientas, a
+                                     fin de comprobar que cumplen con el
+                                     nivel de aislamiento requerido;
+
+                                    Se    verifica      que        los     equipos       de
+                                     protección          y/o             seccionamiento
+                                     automático o los operables a distancia
+                                     se encuentran, de manera tal, que se
+                                     pueden efectuar trabajos con línea
+                                     energizada;
+ 42    (Novena Sección)                          DIARIO OFICIAL                                Jueves 29 de diciembre de 2011
+
+                    Tipo de
+  Disposición                              Criterio de aceptación                              Observaciones         Riesgo
+                   evaluación
+
+                                     Se utiliza siempre el equipo de                                              Grave
+                                      protección personal y equipo para
+                                      trabajo de línea energizada de la
+                                      clase que corresponda de acuerdo
+                                      con el nivel de tensión eléctrica de la
+                                      instalación       donde        se    efectúa        el
+                                      trabajo, y
+
+                                     Se efectúa el trabajo en una fase a la
+                                      vez manteniendo las demás alejadas
+                                      y/o cubiertas.
+
+5.12                            El patrón cumple cuando:
+
+                Física               Al realizar un recorrido por el centro                                       Grave
+                                      laboral, se constata que dispone en
+                                      las zonas de trabajo, de al menos un
+                                      extintor, accesible en todo momento, o
+
+                Documental           Presenta evidencias de que el extintor
+                                      corresponde a la capacidad y tipo de
+                                      fuego que se pueda presentar en la
+                                      zona de trabajo, de acuerdo con
+                                      la      determinación               de        riesgos
+                                      potenciales       a    que      se       refiere    el
+                                      numeral 7.2 de la presente Norma.
+
+5.13            Documental      El patrón cumple cuando presenta evidencia                                         Grave
+                                documental de que autoriza por escrito a
+                                trabajadores       capacitados        para          realizar
+                                actividades      de    mantenimiento                de   las
+                                instalaciones eléctricas en altura, espacios
+                                confinados o subestaciones, así como a los
+                                que   manejan         partes    vivas          de    dichas
+                                instalaciones.
+
+5.14            Documental      El patrón cumple cuando presenta evidencia
+                                documental       de     que      informa            a    los
+                                trabajadores que realizan actividades de
+                                mantenimiento          de      las        instalaciones
+                                eléctricas, sobre los riesgos a los que están
+                                expuestos y de las medidas de seguridad
+                                que deben adoptar para la actividad a
+                                desarrollar en la zona de trabajo.
+
+5.15 y 13       Documental      El patrón cumple cuando:
+
+                                     Presenta evidencia documental de
+                                      que cuenta con un plan de atención a
+                                      emergencias,          disponible          para     su
+                                      consulta y aplicación;
+
+                                     El plan de atención a emergencias
+                                      contiene, al menos, lo siguiente:
+
+                                          El responsable de implementar el
+                                           plan;
+Jueves 29 de diciembre de 2011             DIARIO OFICIAL                                        (Novena Sección)   43
+
+                  Tipo de
+Disposición                          Criterio de aceptación                                Observaciones       Riesgo
+                 evaluación
+
+                                    Los        equipos          o         aparatos
+                                     necesarios        para      la        ejecución
+                                     del plan;
+
+                                    Los procedimientos para:
+
+                                     o     La       comunicación             de       la
+                                           emergencia,          junto        con      el
+                                           directorio de los servicios de
+                                           auxilio para la emergencia,
+                                           rescate y hospitales, entre
+                                           otros;
+
+                                     o     La       suspensión             de        las
+                                           actividades, que incluyan las
+                                           acciones inmediatas               para la
+                                           desconexión de la fuente de
+                                           energía;
+
+                                     o     La eliminación de los riesgos
+                                           durante      y después               de    la
+                                           emergencia;
+
+                                     o     El uso de los sistemas y
+                                           equipo de rescate, en su
+                                           caso;
+
+                                     o     La atención y traslado de las
+                                           víctimas a lugares de atención
+                                           médica,       que          al      menos
+                                           indiquen:      las      instrucciones
+                                           específicas        en        un        lugar
+                                           visible, de qué hacer en caso
+                                           de           accidente;                   las
+                                           instrucciones para retirar al
+                                           lesionado            del           peligro
+                                           inmediato; la colocación de la
+                                           víctima en un lugar seguro; la
+                                           aplicación de los primeros
+                                           auxilios,    en      su         caso;      la
+                                           aplicación de las técnicas de
+                                           reanimación          cardiopulmonar
+                                           (RCP), y las correspondientes
+                                           para llamar a los servicios de
+                                           auxilio, y los hospitales o
+                                           unidades          médicas               más
+                                           próximos para trasladar a la
+                                           víctima, y
+
+                                     o     La reanudación de actividades,
+                                           en su caso, y
+
+                                  La capacitación y adiestramiento
+                                     de los trabajadores en relación
+                                     con el contenido del plan de
+                                     atención a emergencias.
+ 44    (Novena Sección)                     DIARIO OFICIAL                     Jueves 29 de diciembre de 2011
+
+                    Tipo de
+  Disposición                            Criterio de aceptación                Observaciones         Riesgo
+                   evaluación
+
+5.16            Física          El patrón cumple cuando, al realizar un
+                                recorrido por el centro de trabajo, se
+                                constata que cuenta con un botiquín de
+                                primeros auxilios que contiene el manual y
+                                los materiales de curación necesarios para
+                                atender los posibles casos de emergencia,
+                                identificados de acuerdo con los riesgos a
+                                que están expuestos los trabajadores,
+                                y para atender a los lesionados o
+                                accidentados por efectos de la energía
+                                eléctrica.
+
+5.17 y 14       Documental      El patrón cumple cuando presenta evidencia
+                                documental de que:
+
+                                    Proporciona        capacitación     y
+                                     adiestramiento a los trabajadores que
+                                     realizan actividades de mantenimiento
+                                     de las instalaciones eléctricas del
+                                     centro de trabajo, con base en los
+                                     procedimientos de seguridad que para
+                                     tal efecto se elaboren;
+
+                                    Proporciona             capacitación,
+                                     adiestramiento e información, de
+                                     acuerdo con las tareas asignadas y el
+                                     plan de atención a emergencias, y
+
+                                    La capacitación considera, al menos
+                                     lo siguiente:
+
+                                        La información sobre los riesgos
+                                         de trabajo relacionados con el
+                                         mantenimiento          de     las
+                                         instalaciones eléctricas;
+
+                                        La descripción general sobre los
+                                         efectos    en     el   organismo
+                                         ocasionados por una descarga
+                                         eléctrica o sus efectos, como
+                                         consecuencia de un contacto, falla
+                                         o aproximación a elementos
+                                         energizados, con énfasis en las
+                                         condiciones que deberán evitarse
+                                         para prevenir lesiones o daños a
+                                         la salud;
+
+                                        Los procedimientos de seguridad
+                                         para realizar el mantenimiento de
+                                         las instalaciones eléctricas, a que
+                                         se refiere el Capítulo 8 de la
+                                         presente Norma;
+
+                                        Las medidas de seguridad
+                                         establecidas en esta Norma
+                                         aplicables a las actividades por
+                                         realizar, y en la ejecución de los
+                                         trabajos de mantenimiento de las
+                                         instalaciones eléctricas;
+ Jueves 29 de diciembre de 2011                     DIARIO OFICIAL                                          (Novena Sección)   45
+
+                   Tipo de
+  Disposición                                 Criterio de aceptación                                  Observaciones       Riesgo
+                  evaluación
+
+                                             El          uso,                 mantenimiento,
+                                              conservación, almacenamiento y
+                                              reposición                del      equipo         de
+                                              protección personal, de acuerdo
+                                              con        lo     establecido                en    la
+                                              NOM-017-STPS-2008, o las que
+                                              la sustituyan;
+
+                                             Los temas teórico-prácticos sobre
+                                              la forma segura de manejar, dar
+                                              mantenimiento,                     revisar          y
+                                              almacenar la maquinaria, equipo,
+                                              herramientas,                   materiales         e
+                                              implementos de trabajo;
+
+                                             Las condiciones bajo las cuales la
+                                              maquinaria, equipo, herramientas,
+                                              materiales            e     implementos            de
+                                              trabajo serán puestos fuera de
+                                              servicio para su reparación o
+                                              reemplazo;
+
+                                             Las condiciones climáticas u otros
+                                              factores          desfavorables                   que
+                                              obligarían            a         interrumpir       los
+                                              trabajos, y
+
+                                         El contenido del plan de atención
+                                              a emergencias y otras acciones
+                                              que       se      desprendan                 de   las
+                                              situaciones de emergencia, que
+                                              pudieran presentarse durante la
+                                              realización de los trabajos de
+                                              mantenimiento                         de          las
+                                              instalaciones eléctricas.
+
+5.18            Física            El patrón cumple cuando, al realizar un                                              Grave
+                                  recorrido por el centro laboral, se constata
+                                  que, en caso de haber convenido servicios
+                                  con contratistas para realizar trabajos de
+                                  mantenimiento           de            las         instalaciones
+                                  eléctricas, supervisa que éstos cumplen con
+                                  lo establecido en la presente Norma.
+
+5.19            Registros         El patrón cumple cuando cuenta con los
+                                  registros        de         los         resultados            del
+                                  mantenimiento          llevado          a     cabo        a   las
+                                  instalaciones      eléctricas,              que     al    menos
+                                  consideren el nombre del responsable de
+                                  realizar    el        trabajo;          las        actividades
+                                  desarrolladas y sus resultados, así como las
+                                  fechas en que se realizaron dichos trabajos.
+   46   (Novena Sección)                      DIARIO OFICIAL                 Jueves 29 de diciembre de 2011
+
+   16.4 Para la selección de trabajadores por entrevistar para constatar el cumplimiento de las disposiciones
+previstas en el presente procedimiento para la evaluación de la conformidad, se aplicará el criterio muestral
+contenido en la Tabla 1 siguiente:
+                                                    Tabla 1
+                                       Muestreo por selección aleatoria
+
+                                                              Número de trabajadores por
+                  Número total de trabajadores
+                                                                     entrevistar
+
+                               1-15                                         1
+
+                              16-50                                         2
+
+                              51-105                                        3
+
+                                                           1 por cada 35 trabajadores hasta un
+                           Más de 105
+                                                                      máximo de 15
+
+
+   16.5 Las evidencias de tipo documental o los registros que obren en el centro de trabajo podrán exhibirse
+de manera impresa o en medios magnéticos, y deberán conservarse al menos durante un año.
+   17. Vigilancia
+   La vigilancia del cumplimiento de esta Norma Oficial Mexicana corresponde a la Secretaría del Trabajo
+y Previsión Social.
+   18. Bibliografía
+   18.1 NFPA 70E Standard for electrical safety in the workplace, 2010 edition.
+   18.2 Elementos de diseño de instalaciones eléctricas industriales. Gilberto Enríquez Harper. Editorial
+Limusa, S.A. de C.V.
+   18.3 Fundamentos de instalaciones eléctricas de media y alta tensión. Gilberto Enríquez Harper. Editorial
+Limusa, S.A. de C.V.
+   19. Concordancia con Normas Internacionales
+    La presente Norma Oficial Mexicana no concuerda con ninguna norma internacional, por no existir
+referencia alguna al momento de su elaboración.
+                                              TRANSITORIOS
+   PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a los tres meses siguientes a su
+publicación en el Diario Oficial de la Federación.
+    SEGUNDO. Durante el lapso señalado en el artículo anterior, los patrones cumplirán con la Norma
+Oficial Mexicana NOM-029-STPS-2005, Mantenimiento de las instalaciones eléctricas en los centros de
+trabajo-Condiciones de seguridad, o bien realizarán las adaptaciones para observar las disposiciones de la
+Norma Oficial Mexicana NOM-029-STPS-2011, Mantenimiento de las instalaciones eléctricas en los centros
+de trabajo-Condiciones de seguridad.
+   En este último caso, las autoridades laborales proporcionarán a petición de los patrones interesados,
+asesoría y orientación para instrumentar su cumplimiento, sin que los patrones se hagan acreedores a
+sanciones por el incumplimiento de la Norma en vigor.
+    TERCERO. A partir de la fecha en que entre en vigor esta Norma quedará sin efectos la Norma
+Oficial Mexicana NOM-029-STPS-2005, Mantenimiento de las instalaciones eléctricas en los centros de
+trabajo-Condiciones de seguridad, publicada en el Diario Oficial de la Federación de 31 de mayo de 2005.
+    Dado en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de diciembre de dos
+mil once.- La Secretaria del Trabajo y Previsión Social, Rosalinda Vélez Juárez.- Rúbrica.
+   Jueves 29 de diciembre de 2011                     DIARIO OFICIAL                     (Novena Sección)       47
+
+                                                      Guía de Referencia I
+        Medidas de seguridad para actividades básicas de mantenimiento a instalaciones eléctricas
+                                   con tensiones menores a 600 V
+   El contenido de esta guía es un complemento para la mejor comprensión de la presente Norma, y no es
+de cumplimiento obligatorio.
+   En la Tabla I.1 se indican las medidas de seguridad que pueden adoptarse cuando se realicen actividades
+básicas de mantenimiento a instalaciones eléctricas con tensiones menores a 600V.
+                                                           Tabla I.1
+        Medidas de seguridad para actividades básicas de mantenimiento a instalaciones eléctricas
+                                   con tensiones menores a 600 V
+                                                                Medida de Seguridad
+                                  Contar  Disponer     de Desenergizar Verificar la Disponer   del Usar equipo
+                                  con     instrucciones o o desconectar ausencia    equipo      de de protección
+                                  orden o procedimientos el circuito    de          trabajo,       personal
+  No.        Actividad            plan de de seguridad                  potencial maquinaria,      adecuado
+                                  trabajo                                           herramientas e
+                                                                                    implementos
+                                                                                    de protección
+                                                                                    aislante
+   1    Realizar revisiones
+        de las instalaciones         x            x                                                         x
+        eléctricas
+   2    Sustituir fusibles           x            x                x                                        x
+   3    Cambiar        una
+                                     x            x                x                                        x
+        lámpara o foco
+   4    Sustituir          una
+        balastra      de   una       x            x                x          x                             x
+        lámpara
+   5    Comprobar tensión
+        eléctrica de un              x            x                           x                             x
+        contacto
+   6    Reemplazar           un
+                                     x            x                x          x                             x
+        interruptor
+   7    Reubicar             un
+                                     x            x                x          x           x                 x
+        interruptor
+   8    Comprobar            la
+                                     x            x                                                         x
+        puesta a tierra
+   9    Reemplazar
+        conductores en mal           x            x                x          x           x                 x
+        estado
+  10    Limpieza     exterior
+        de las cajas de
+        conexión          de         x            x                                       x                 x
+        contactos           e
+        interruptores
+  11    Trabajos             en
+        tableros             de      x            x                x          x                             x
+        distribución
+  12    Mediciones
+        eléctricas,
+        calibración,                 x            x                                                         x
+        localización         de
+        fallas
+  13    Reemplazar           un
+                                     x            x                x          x                             x
+        motor o bomba
+  14    Realizar empalmes
+                                     x            x                x          x           x                 x
+        en líneas o circuitos
+  15    Apertura y revisión
+        de       elementos           x            x                           x           x                 x
+        de protección
+48    (Novena Sección)                                DIARIO OFICIAL                Jueves 29 de diciembre de 2011
+
+                                                       Cont…Tabla I.1
+
+ Medidas de seguridad para actividades básicas de mantenimiento a instalaciones eléctricas con
+                                 tensiones menores a 600 V
+
+                                                                    Medida de Seguridad
+
+                                      Emplear            Utilizar       Mantener las No        tocar Realizar     las
+                                      instrumentos de herramientas      distancias de la       parte actividades sólo
+No.            Actividad              medición         de adecuadas     seguridad     conductora     con    personal
+                                      acuerdo con el                                  de energía     capacitado
+                                      nivel de tensión
+                                      que se maneje
+
+1     Realizar      revisiones   de
+      las            instalaciones              x                            X             x                x
+      eléctricas
+
+2     Sustituir fusibles                        x               x                                           x
+
+3     Cambiar una lámpara o
+                                                x               x                                           x
+      foco
+
+4     Sustituir una balastra de
+                                                x               x                                           x
+      una lámpara
+
+5     Comprobar            tensión
+                                                x               x                                           x
+      eléctrica de un contacto
+
+6     Reemplazar                 un
+                                                x               x                                           x
+      interruptor
+
+7     Reubicar un interruptor                   x               x                                           x
+
+8     Comprobar la puesta a
+                                                x               x                          x                x
+      tierra
+
+9     Reemplazar conductores
+                                                x               x            X             x                x
+      en mal estado
+
+10    Limpieza exterior de las
+      cajas de conexión de                      x               x                          x                x
+      contactos e interruptores
+
+11    Trabajos en tableros de
+                                                x               x                                           x
+      distribución
+
+12    Mediciones        eléctricas,
+      calibración,     localización             x               x                          x                x
+      de fallas
+
+13    Reemplazar un motor o
+                                                x               x                                           x
+      bomba
+
+14    Realizar empalmes en
+                                                x               x                          x                x
+      líneas o circuitos
+
+15    Apertura y revisión de
+                                                x                             x            x                x
+      elementos de protección
+
+                                                    _____________________
+

@@ -1,0 +1,38 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+  "kind": "nom",
+  "designation": "NOM-017-STPS-2024",
+  "official_title": "Equipo de protección personal-Selección, uso y manejo en los centros de trabajo",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "equipo de protección personal",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2025-03-28",
+  "effective_date": "2025-09-28",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-017-STPS-2008"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": null,
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/NOM-017-STPS-2024.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5753280&fecha=28/03/2025",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-017-STPS-2024/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "4244e5c4646f60ac76d722c1fb1167d05f96038c383d11fc0cfb64de33f34ede",
+  "extracted_text_sha256": "72e35f5eb4fb0f988d0fe91b65731260cefe418cce572b367aed3cf44cc9d355",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

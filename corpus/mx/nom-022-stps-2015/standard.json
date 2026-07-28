@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+  "kind": "nom",
+  "designation": "NOM-022-STPS-2015",
+  "official_title": "Electricidad estática en los centros de trabajo-Condiciones de seguridad",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "electricidad estática",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2016-04-01",
+  "effective_date": "2016-10-01",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-022-STPS-2008"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2026-05-13",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-022-STPS-2015_2026_ultima_revision.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/022stps2015.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5435581&fecha=01/04/2016",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-022-STPS-2015/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "cd9811f6f83bd1ac523a0a7d006a579a3146c2131bc50ac2897e283c53ae2c22",
+  "extracted_text_sha256": "61e9ad299aaddefce07ada25439781c76f22c22f9e9b421f3a562a53349b5b13",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

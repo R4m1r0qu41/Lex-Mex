@@ -1,0 +1,14 @@
+{
+  "schema_version": "0.1.0",
+  "standard_id": "urn:lex-mx:federal:nom:nom-020-stps-2011",
+  "valid": true,
+  "clause_count": 162,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "standard_unconsolidated_modification",
+      "message": "source text does not incorporate modification published 2014-12-09",
+      "provision_id": null
+    }
+  ]
+}

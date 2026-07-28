@@ -1,0 +1,38 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a partir del 2 de enero de 2020.",
+    "start_char": 89939,
+    "end_char": 90032,
+    "asserted_dates": [
+      "2020-01-02"
+    ]
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO. Los numerales 5.1, 8.3 inciso b) numeral 2, 8.4, 8.5, así como el Capítulo 7, entrarán en vigor a partir del 4 de\n   enero de 2023. Las medidas de control que se hayan emitido en el 2020, a que se refieren los numerales 8.6 y 8.7, deberán\n   ajustarse conforme a lo dispuesto en este artículo.",
+    "start_char": 90040,
+    "end_char": 90342,
+    "asserted_dates": [
+      "2023-01-04"
+    ]
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+    "ordinal": "TERCERO",
+    "text": "TERCERO. A partir de la fecha de entrada en vigor de esta Norma quedarán sin efectos los numerales 4.7, 4.12, 5.3, 5.4\n   inciso b), 5.6, 5.9, 6.7, 11.3, así como los Capítulos 8 y 10 de la Norma Oficial Mexicana NOM-006-STPS-2014, Manejo y\n   almacenamiento de materiales - Condiciones de seguridad y salud en el trabajo, publicada en el Diario Oficial de la Federación de\n   11 de septiembre de 2014.",
+    "start_char": 90350,
+    "end_char": 90752,
+    "asserted_dates": [
+      "2014-09-11"
+    ]
+  }
+]

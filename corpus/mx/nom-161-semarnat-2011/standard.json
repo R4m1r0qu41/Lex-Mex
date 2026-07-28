@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-161-semarnat-2011",
+  "kind": "nom",
+  "designation": "NOM-161-SEMARNAT-2011",
+  "official_title": "Que establece los criterios para clasificar a los Residuos de Manejo Especial y determinar cuáles están sujetos a Plan de Manejo",
+  "issuing_authorities": [
+    "Secretaría de Medio Ambiente y Recursos Naturales"
+  ],
+  "regulatory_domains": [
+    "residuos de manejo especial",
+    "planes de manejo",
+    "medio ambiente"
+  ],
+  "publication_date": "2013-02-01",
+  "effective_date": "2013-07-31",
+  "cancellation_date": null,
+  "status": "current",
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2023-03-28",
+    "result": "Modificación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-161-SEMARNAT-2011_2023_ultima_revision.PDF"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/161semarnat2013.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5286505&fecha=01/02/2013",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-161-SEMARNAT-2011/",
+  "publisher": "Secretaría de Medio Ambiente y Recursos Naturales",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "29448584aeff145c1e1e76a071e8ec12aac971affc700e4abec4419279f95ff8",
+  "extracted_text_sha256": "6a1fb030c63b4bb16696fafe36a371898b6c55b89c99f5437cbc8ee9cfd31fec",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

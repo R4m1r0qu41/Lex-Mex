@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a los seis meses siguientes de su publicación en el Diario\n      Oficial de la Federación.",
+    "start_char": 81477,
+    "end_char": 81628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO. Durante el lapso señalado en el artículo anterior, los patrones cumplirán con la Norma Oficial Mexicana NOM-017-\n      STPS-2008, Equipo de protección personal-Selección, uso y manejo en los centros de trabajo, o bien realizarán las adaptaciones\n      para observar las disposiciones de la presente Norma Oficial Mexicana y, en este último caso, las autoridades laborales\n      proporcionarán a petición de los patrones interesados, asesoría y orientación para instrumentar su cumplimiento, sin que los\n      patrones se hagan acreedores a sanciones por el incumplimiento de la Norma en vigor.",
+    "start_char": 81639,
+    "end_char": 82241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "ordinal": "TERCERO",
+    "text": "TERCERO. A partir de la fecha en que entre en vigor la presente Norma quedará sin efectos la Norma Oficial Mexicana NOM-\n      017-STPS-2008, Equipo de protección personal - Selección, uso y manejo en los centros de trabajo, publicada en el Diario Oficial\n      de la Federación del 9 de diciembre de 2008.",
+    "start_char": 82252,
+    "end_char": 82558,
+    "asserted_dates": [
+      "2008-12-09"
+    ]
+  }
+]

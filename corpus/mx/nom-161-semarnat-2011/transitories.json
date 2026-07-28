@@ -1,0 +1,50 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-161-semarnat-2011:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-161-semarnat-2011",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO.- La presente Norma entrará en vigor a los 180 días naturales contados a partir del día\nsiguiente de su publicación en el Diario Oficial de la Federación.",
+    "start_char": 28118,
+    "end_char": 28280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-161-semarnat-2011:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-161-semarnat-2011",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO.- Los Programas o Planes de Manejo en operación previo a la emisión del Diagnóstico Básico\nEstatal para la Gestión Integral de Residuos y la presente Norma, así como los Planes de Manejo de\naplicación nacional reconocidos por la Secretaría, podrán ser automáticamente registrados por las Entidades\nFederativas.",
+    "start_char": 28285,
+    "end_char": 28603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-161-semarnat-2011:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-161-semarnat-2011",
+    "ordinal": "TERCERO",
+    "text": "TERCERO.- Los programas voluntarios de manejo que se implementen para aquellos Residuos de Manejo\nEspecial no sujetos a un Plan de Manejo, podrán formularse de conformidad con los elementos y\nprocedimientos contenidos en la presente Norma.",
+    "start_char": 28607,
+    "end_char": 28846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-161-semarnat-2011:transitory:cuarto",
+    "standard_id": "urn:lex-mx:federal:nom:nom-161-semarnat-2011",
+    "ordinal": "CUARTO",
+    "text": "CUARTO.- Una vez que la presente Norma inicie su vigencia en términos de lo señalado en el Transitorio\nPrimero, los sujetos obligados deberán formular y presentar ante la autoridad competente el Plan de Manejo\ncorrespondiente, en el cual en adición a los elementos señalados en el apartado nueve e independientemente\nde su modalidad, podrá establecer la gradualidad para la incorporación de los distintos tipos de residuos a los\ncuales se encuentran obligados, en un plazo máximo de cinco años a partir de su presentación.",
+    "start_char": 28851,
+    "end_char": 29373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-161-semarnat-2011:transitory:quinto",
+    "standard_id": "urn:lex-mx:federal:nom:nom-161-semarnat-2011",
+    "ordinal": "QUINTO",
+    "text": "QUINTO.- Una vez que la presente Norma inicie su vigencia en términos de lo señalado en el Transitorio\nPrimero, la Secretaría deberán formular y presentar ante las Entidades Federativas el procedimiento para la\ninclusión o exclusión de residuos al Listado de Residuos sujetos a Plan de Manejo señalados en los apartados\nocho y diez inciso tres, en un plazo máximo de un año.\n   México, Distrito Federal, a los once días del mes de enero de dos mil trece.- El Subsecretario de Fomento\ny Normatividad Ambiental de la Secretaría de Medio Ambiente y Recursos Naturales y Presidente del Comité\nConsultivo Nacional de Normalización de Medio Ambiente y Recursos Naturales, Cuauhtémoc Ochoa\nFernández.- Rúbrica.\n\f       (Primera Sección)                        DIARIO OFICIAL                    Viernes 1 de febrero de 2013",
+    "start_char": 29378,
+    "end_char": 30193,
+    "asserted_dates": [
+      "2013-02-01"
+    ]
+  }
+]

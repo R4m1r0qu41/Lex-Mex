@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-033-stps-2015",
+  "kind": "nom",
+  "designation": "NOM-033-STPS-2015",
+  "official_title": "Condiciones de seguridad para realizar trabajos en espacios confinados",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "espacios confinados",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2015-08-31",
+  "effective_date": "2015-11-30",
+  "cancellation_date": null,
+  "status": "current",
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2025-09-12",
+    "result": "Confirmación",
+    "report_url": null
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/033stps2015.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5405659&fecha=31/08/2015",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-033-STPS-2015/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "030d17245c6bfcf21a24aa5f5a80d0548da70100c739b4596f1d4fa3ea4f63ba",
+  "extracted_text_sha256": "998acc497804ece6d1a47e1fda599990c5d3ac3fa2226fe02471de5f75eeac91",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

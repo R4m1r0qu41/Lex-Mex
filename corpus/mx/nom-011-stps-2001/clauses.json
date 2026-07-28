@@ -1,0 +1,1052 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n   Establecer las condiciones de seguridad e higiene en los centros de trabajo donde se genere ruido que por\nsus características, niveles y tiempo de acción, sea capaz de alterar la salud de los trabajadores; los niveles\nmáximos y los tiempos máximos permisibles de exposición por jornada de trabajo, su correlación y la\nimplementación de un programa de conservación de la audición.",
+    "start_char": 4985,
+    "end_char": 5379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n   Esta Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo en los que exista\nexposición del trabajador a ruido.",
+    "start_char": 5383,
+    "end_char": 5549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n    Para la correcta interpretación de esta Norma deben consultarse las siguientes normas oficiales mexicanas\nvigentes:\n   NOM-017-STPS-1993,          Relativa al equipo de protección personal para los trabajadores en los centros\n                               de trabajo.\n   NOM-026-STPS-1998,          Colores y señales de seguridad e higiene e identificación de riesgos por fluidos\n                               conducidos en tuberías.",
+    "start_char": 5553,
+    "end_char": 6007
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4",
+    "label": "4. Definiciones, magnitudes, abreviaturas y unidades",
+    "text": "4. Definiciones, magnitudes, abreviaturas y unidades",
+    "start_char": 6011,
+    "end_char": 6063
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1",
+    "label": "4.1. Definiciones",
+    "text": "4.1. Definiciones\n   Para efectos de esta Norma, se establecen las siguientes definiciones:",
+    "start_char": 6067,
+    "end_char": 6158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.1",
+    "label": "4.1.1. Audiómetro: es un generador electroacústico de sonidos, utilizado para determinar el umbral de",
+    "text": "4.1.1. Audiómetro: es un generador electroacústico de sonidos, utilizado para determinar el umbral de\naudición de la persona bajo evaluación.",
+    "start_char": 6162,
+    "end_char": 6303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.2",
+    "label": "4.1.2. Autoridad del trabajo; autoridad laboral: las unidades administrativas competentes de la",
+    "text": "4.1.2. Autoridad del trabajo; autoridad laboral: las unidades administrativas competentes de la\nSecretaría del Trabajo y Previsión Social, que realicen funciones de inspección en materia de seguridad e\nhigiene en el trabajo y las correspondientes de las entidades federativas y del Distrito Federal, que actúen en\nauxilio de aquéllas.",
+    "start_char": 6308,
+    "end_char": 6642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.3",
+    "label": "4.1.3. Banda de octava: es el intervalo de frecuencia del espectro acústico donde el límite superior del",
+    "text": "4.1.3. Banda de octava: es el intervalo de frecuencia del espectro acústico donde el límite superior del\nintervalo es el doble del límite inferior, agrupado en un filtro electrónico normalizado, cuya frecuencia central\ndenomina la banda.",
+    "start_char": 6647,
+    "end_char": 6884
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.4",
+    "label": "4.1.4. Calibrador acústico normalizado; calibrador acústico: es un instrumento utilizado para verificar,",
+    "text": "4.1.4. Calibrador acústico normalizado; calibrador acústico: es un instrumento utilizado para verificar,\nen el lugar de la medición, la exactitud de la respuesta acústica de los instrumentos de medición acústica, y\nque satisface las especificaciones de alguna norma de referencia declarada por el fabricante.",
+    "start_char": 6888,
+    "end_char": 7196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.5",
+    "label": "4.1.5. Condiciones normales de operación: es la situación en que se realizan las actividades y que",
+    "text": "4.1.5. Condiciones normales de operación: es la situación en que se realizan las actividades y que\nrepresentan una jornada laboral típica en cada centro de trabajo.",
+    "start_char": 7200,
+    "end_char": 7364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.6",
+    "label": "4.1.6. Decibel: es una unidad de relación entre dos cantidades utilizada en acústica, y que se caracteriza",
+    "text": "4.1.6. Decibel: es una unidad de relación entre dos cantidades utilizada en acústica, y que se caracteriza\npor el empleo de una escala logarítmica de base 10. Se expresa en dB.",
+    "start_char": 7369,
+    "end_char": 7545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.7",
+    "label": "4.1.7. Diagnóstico anatomo-funcional: es un diagnóstico médico basado en el análisis de las",
+    "text": "4.1.7. Diagnóstico anatomo-funcional: es un diagnóstico médico basado en el análisis de las\ncaracterísticas anatómicas y funcionales del trabajador derivadas de una enfermedad.\n\f   Miércoles 17 de abril de 2002                   DIARIO OFICIAL                  (Segunda Sección)   103",
+    "start_char": 7549,
+    "end_char": 7833
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.8",
+    "label": "4.1.8. Diagnóstico etiológico: es el diagnóstico médico que establece las causas de una enfermedad.",
+    "text": "4.1.8. Diagnóstico etiológico: es el diagnóstico médico que establece las causas de una enfermedad.",
+    "start_char": 7838,
+    "end_char": 7937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.9",
+    "label": "4.1.9. Diagnóstico nosológico: es el diagnóstico médico basado en los signos y síntomas manifestados",
+    "text": "4.1.9. Diagnóstico nosológico: es el diagnóstico médico basado en los signos y síntomas manifestados\npor el enfermo.",
+    "start_char": 7942,
+    "end_char": 8058
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.10",
+    "label": "4.1.10. Espectro acústico: es la representación del nivel de presión acústica de los componentes en",
+    "text": "4.1.10. Espectro acústico: es la representación del nivel de presión acústica de los componentes en\nfrecuencia de un sonido complejo, que puede medirse en bandas de octava u otras representaciones de filtros\nnormalizados. Se expresa en dB, ya sea por banda de octava, total o de la representación seleccionada.",
+    "start_char": 8063,
+    "end_char": 8373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.11",
+    "label": "4.1.11. Exposición a ruido: es la interrelación del agente físico ruido y el trabajador en el ambiente",
+    "text": "4.1.11. Exposición a ruido: es la interrelación del agente físico ruido y el trabajador en el ambiente\nlaboral.",
+    "start_char": 8377,
+    "end_char": 8488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.12",
+    "label": "4.1.12. Frecuencia: es el número de ciclos por unidad de tiempo. Su unidad es el Hertz (Hz).",
+    "text": "4.1.12. Frecuencia: es el número de ciclos por unidad de tiempo. Su unidad es el Hertz (Hz).",
+    "start_char": 8492,
+    "end_char": 8584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.13",
+    "label": "4.1.13. Medidas administrativas: manera de cumplir con los límites máximos permisibles de exposición,",
+    "text": "4.1.13. Medidas administrativas: manera de cumplir con los límites máximos permisibles de exposición,\nmodificando el tiempo y frecuencia de permanencia del trabajador en cada zona de exposición.\n    4 . 1 . 1 4 . Medidor personal de exposición a ruido normalizado; medidor personal de exposición a\nruido: instrumento que integra una función del nivel de presión acústica durante un periodo de medición\nestablecido, el cual puede ser hasta de 8 horas, y que satisface las especificaciones de alguna norma de\nreferencia declarada por el fabricante.",
+    "start_char": 8587,
+    "end_char": 9133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.15",
+    "label": "4.1.15. Medio sistematizado: es un método o procedimiento empleado para estructurar y organizar la",
+    "text": "4.1.15. Medio sistematizado: es un método o procedimiento empleado para estructurar y organizar la\ninformación registrada a través de un ordenador y procesador de información electrónico.",
+    "start_char": 9138,
+    "end_char": 9325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.16",
+    "label": "4.1.16. Monitoreo de efecto a la salud: es la medida y evaluación de daño a la salud, debido a la",
+    "text": "4.1.16. Monitoreo de efecto a la salud: es la medida y evaluación de daño a la salud, debido a la\nexposición a ruido en tejidos y órganos.",
+    "start_char": 9329,
+    "end_char": 9467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.17",
+    "label": "4.1.17. Nivel: es el logaritmo de la razón de dos cantidades del mismo tipo, siendo la del denominador",
+    "text": "4.1.17. Nivel: es el logaritmo de la razón de dos cantidades del mismo tipo, siendo la del denominador\nusada como referencia. Se expresa en dB.",
+    "start_char": 9471,
+    "end_char": 9614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.18",
+    "label": "4.1.18. Nivel de exposición a ruido (NER): es el nivel sonoro “A” promedio referido a una exposición de",
+    "text": "4.1.18. Nivel de exposición a ruido (NER): es el nivel sonoro “A” promedio referido a una exposición de\n8 horas.",
+    "start_char": 9618,
+    "end_char": 9730
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.19",
+    "label": "4.1.19. Nivel de presión acústica (NPA): es igual a 20 veces el logaritmo decimal de la relación entre una",
+    "text": "4.1.19. Nivel de presión acústica (NPA): es igual a 20 veces el logaritmo decimal de la relación entre una\npresión acústica instantánea y una presión acústica de referencia determinada, según se expresa en la\nsiguiente ecuación:\n                                                                p\n                                              NPA = 20 log10\n                                                                p0\n   donde:\n   p    es la presión acústica instantánea\n   po   es la presión acústica de referencia = 20 µPa",
+    "start_char": 9735,
+    "end_char": 10264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.20",
+    "label": "4.1.20. Nivel de ruido efectivo en ponderación A (NRE): es el valor de ruido no atenuado por el equipo",
+    "text": "4.1.20. Nivel de ruido efectivo en ponderación A (NRE): es el valor de ruido no atenuado por el equipo\nde protección auditiva.",
+    "start_char": 10268,
+    "end_char": 10394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.21",
+    "label": "4.1.21. Nivel sonoro \"A\" (NSA): es el nivel de presión acústica instantánea medido con la red",
+    "text": "4.1.21. Nivel sonoro \"A\" (NSA): es el nivel de presión acústica instantánea medido con la red\nde ponderación “A” de un sonómetro normalizado.",
+    "start_char": 10398,
+    "end_char": 10539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.22",
+    "label": "4.1.22. Nivel sonoro continuo equivalente “A” (NSCEA,T): es la energía media integrada a través de la",
+    "text": "4.1.22. Nivel sonoro continuo equivalente “A” (NSCEA,T): es la energía media integrada a través de la\nred de ponderación “A” a lo largo del periodo de medición, según se expresa en la siguiente ecuación:\n\n                                                        1  t 2 p 2a (t ) \n                                     NSCE A,T = 10 log            ∫ 2 dt \n                                                        t 2 - t1  t 1 po  \n   donde:\n   pA   es la presión acústica “A” instantánea\n   p0   es la presión acústica de referencia = 20 µPa\n   T    es el tiempo total de medición = t2 - t1\n   t1   es el tiempo inicial de medición\n   t2   es el tiempo final de medición\n   NOTA: cuando T es igual a 8 horas, el NSCEA,T es igual al NER.",
+    "start_char": 10544,
+    "end_char": 11293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-23",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.23",
+    "label": "4.1.23. Nivel sonoro criterio: es el NSA de 90 dB(A) para una jornada laboral de 8 horas.",
+    "text": "4.1.23. Nivel sonoro criterio: es el NSA de 90 dB(A) para una jornada laboral de 8 horas.\n\f   104    (Segunda Sección)                    DIARIO OFICIAL                 Miércoles 17 de abril de 2002",
+    "start_char": 11297,
+    "end_char": 11495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.24",
+    "label": "4.1.24. Observador: es la persona que efectúa la medición de los niveles de ruido: NSA, NSCEA,T y NPA",
+    "text": "4.1.24. Observador: es la persona que efectúa la medición de los niveles de ruido: NSA, NSCEA,T y NPA\ny registra su magnitud.",
+    "start_char": 11501,
+    "end_char": 11626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-25",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.25",
+    "label": "4.1.25. Pantalla contra viento: es un accesorio que se adapta sobre el micrófono del equipo de medición",
+    "text": "4.1.25. Pantalla contra viento: es un accesorio que se adapta sobre el micrófono del equipo de medición\nde ruido, para minimizar las variaciones en la medición causadas por la incidencia del viento sobre\nel micrófono.",
+    "start_char": 11631,
+    "end_char": 11848
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-26",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.26",
+    "label": "4.1.26. Periodo de observación: es el tiempo durante el cual el observador mide los niveles de ruido.",
+    "text": "4.1.26. Periodo de observación: es el tiempo durante el cual el observador mide los niveles de ruido.",
+    "start_char": 11852,
+    "end_char": 11953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-27",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.27",
+    "label": "4.1.27. Porcentaje de dosis (D): número que proporciona el medidor personal de exposición a ruido y que",
+    "text": "4.1.27. Porcentaje de dosis (D): número que proporciona el medidor personal de exposición a ruido y que\nresulta de la integración de los niveles sonoros “A”, durante el periodo de medición T.",
+    "start_char": 11957,
+    "end_char": 12148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-28",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.28",
+    "label": "4.1.28. Presión acústica de referencia: es el valor de la medición de ruido en aire, que equivale",
+    "text": "4.1.28. Presión acústica de referencia: es el valor de la medición de ruido en aire, que equivale\na 20 µPa.",
+    "start_char": 12152,
+    "end_char": 12259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-29",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.29",
+    "label": "4.1.29. Puesto fijo de trabajo: es el lugar específico en que el trabajador realiza un conjunto de",
+    "text": "4.1.29. Puesto fijo de trabajo: es el lugar específico en que el trabajador realiza un conjunto de\nactividades durante un tiempo, de tal manera que el trabajador permanece relativamente estacionario en\nrelación a su lugar de trabajo.",
+    "start_char": 12264,
+    "end_char": 12497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-30",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.30",
+    "label": "4.1.30. Reconocimiento: es la actividad previa a la evaluación, cuyo objetivo es recabar información",
+    "text": "4.1.30. Reconocimiento: es la actividad previa a la evaluación, cuyo objetivo es recabar información\nconfiable que permita determinar el método de evaluación a emplear y jerarquizar las zonas del local de\ntrabajo donde se efectuará la evaluación.",
+    "start_char": 12502,
+    "end_char": 12748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-31",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.31",
+    "label": "4.1.31. Redes de ponderación: son filtros electrónicos normalizados de corrección en frecuencia, que",
+    "text": "4.1.31. Redes de ponderación: son filtros electrónicos normalizados de corrección en frecuencia, que\naproxima su respuesta a los niveles fisiológicos de la curva de audición humana y que están incluidos en el\ninstrumento de medición de sonidos.",
+    "start_char": 12753,
+    "end_char": 12997
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-32",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.32",
+    "label": "4.1.32. Respuesta dinámica: es la velocidad de respuesta normalizada que puede ser elegida en los",
+    "text": "4.1.32. Respuesta dinámica: es la velocidad de respuesta normalizada que puede ser elegida en los\ninstrumentos de medición de sonido, para los cambios de presión acústica. Se denomina: Lenta, Rápida,\nImpulso o Pico.",
+    "start_char": 13002,
+    "end_char": 13217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-33",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.33",
+    "label": "4.1.33. Ruido: son los sonidos cuyos niveles de presión acústica, en combinación con el tiempo de",
+    "text": "4.1.33. Ruido: son los sonidos cuyos niveles de presión acústica, en combinación con el tiempo de\nexposición de los trabajadores a ellos, pueden ser nocivos a la salud del trabajador.",
+    "start_char": 13221,
+    "end_char": 13404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-34",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.34",
+    "label": "4.1.34. Ruido estable: es aquel que se registra con variaciones en su nivel sonoro “A” dentro de un",
+    "text": "4.1.34. Ruido estable: es aquel que se registra con variaciones en su nivel sonoro “A” dentro de un\nintervalo de 5 dB(A).",
+    "start_char": 13409,
+    "end_char": 13530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-35",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.35",
+    "label": "4.1.35. Ruido impulsivo: es aquel ruido inestable que se registra durante un periodo menor a un segundo.",
+    "text": "4.1.35. Ruido impulsivo: es aquel ruido inestable que se registra durante un periodo menor a un segundo.",
+    "start_char": 13534,
+    "end_char": 13638
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-36",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.36",
+    "label": "4.1.36. Ruido inestable: es aquel que se registra con variaciones en su nivel sonoro “A” con un intervalo",
+    "text": "4.1.36. Ruido inestable: es aquel que se registra con variaciones en su nivel sonoro “A” con un intervalo\nmayor a 5 dB(A).",
+    "start_char": 13641,
+    "end_char": 13763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-37",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.37",
+    "label": "4.1.37. Sonido: es una vibración acústica capaz de producir una sensación audible.",
+    "text": "4.1.37. Sonido: es una vibración acústica capaz de producir una sensación audible.",
+    "start_char": 13767,
+    "end_char": 13849
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-38",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.38",
+    "label": "4.1.38. Sonómetro normalizado; sonómetro: es un instrumento para medir el nivel de presión acústica y",
+    "text": "4.1.38. Sonómetro normalizado; sonómetro: es un instrumento para medir el nivel de presión acústica y\nque satisface las especificaciones de alguna norma de referencia declarada por el fabricante.",
+    "start_char": 13853,
+    "end_char": 14048
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-39",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.39",
+    "label": "4.1.39. Sonómetro integrador normalizado; sonómetro integrador: es un instrumento que integra una",
+    "text": "4.1.39. Sonómetro integrador normalizado; sonómetro integrador: es un instrumento que integra una\nfunción del nivel de presión acústica durante el periodo de medición y que satisface las especificaciones de\nalguna norma de referencia declarada por el fabricante.",
+    "start_char": 14052,
+    "end_char": 14314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-40",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.40",
+    "label": "4.1.40. Tasa de intercambio: es la razón de cambio del nivel sonoro “A” para conservar la cantidad de",
+    "text": "4.1.40. Tasa de intercambio: es la razón de cambio del nivel sonoro “A” para conservar la cantidad de\nenergía acústica recibida por un trabajador, cuando la duración de la exposición se duplica o se reduce a la\nmitad. La razón de cambio es igual a 3 dB(A).",
+    "start_char": 14318,
+    "end_char": 14574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-1-41",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.1.41",
+    "label": "4.1.41. Tiempo máximo permisible de exposición (TMPE): es el tiempo bajo el cual la mayoría de los",
+    "text": "4.1.41. Tiempo máximo permisible de exposición (TMPE): es el tiempo bajo el cual la mayoría de los\ntrabajadores pueden permanecer expuestos sin sufrir daños a la salud.",
+    "start_char": 14579,
+    "end_char": 14747
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "4.2",
+    "label": "4.2. Magnitudes, abreviaturas y unidades",
+    "text": "4.2. Magnitudes, abreviaturas y unidades\n                               MAGNITUD                         ABREVIATURA                UNIDAD\n Nivel de exposición a ruido                                NER                   dB (A)\n Nivel de presión acústica                                  NPA                   dB\n Nivel sonoro “A”                                           NSA                   dB (A)\n Nivel sonoro continuo equivalente “A”                      NSCEA,T               dB (A)\n Tiempo máximo permisible de exposición                     TMPE                  horas o minutos\n   NOTA: dB y dB(A) están referidos a 20 µPa",
+    "start_char": 14751,
+    "end_char": 15384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón\n\f   Miércoles 17 de abril de 2002                 DIARIO OFICIAL                       (Segunda Sección)    105",
+    "start_char": 15389,
+    "end_char": 15527
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "5.1",
+    "label": "5.1. Mostrar a la autoridad del trabajo, cuando ésta así se lo solicite, la documentación que la presente",
+    "text": "5.1. Mostrar a la autoridad del trabajo, cuando ésta así se lo solicite, la documentación que la presente\nNorma le obligue a elaborar o poseer.",
+    "start_char": 15532,
+    "end_char": 15675
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "5.2",
+    "label": "5.2. Contar con el reconocimiento y evaluación de todas las áreas del centro de trabajo donde haya",
+    "text": "5.2. Contar con el reconocimiento y evaluación de todas las áreas del centro de trabajo donde haya\ntrabajadores y cuyo NSA sea igual o superior a 80 dB(A), incluyendo sus características y componentes de\nfrecuencia, conforme a lo establecido en los apéndices B y C.",
+    "start_char": 15680,
+    "end_char": 15945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "5.3",
+    "label": "5.3. Verificar que ningún trabajador se exponga a niveles de ruido mayores a los límites máximos",
+    "text": "5.3. Verificar que ningún trabajador se exponga a niveles de ruido mayores a los límites máximos\npermisibles de exposición a ruido establecidos en el Apéndice A. En ningún caso, debe haber exposición sin\nequipo de protección personal auditiva a más de 105 dB(A).",
+    "start_char": 15949,
+    "end_char": 16211
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "5.4",
+    "label": "5.4. Proporcionar el equipo de protección personal auditiva, de acuerdo a lo establecido en la",
+    "text": "5.4. Proporcionar el equipo de protección personal auditiva, de acuerdo a lo establecido en la\nNOM-017-STPS-1993, a todos los trabajadores expuestos a NSA igual o superior a 85 dB(A).",
+    "start_char": 16214,
+    "end_char": 16397
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "5.5",
+    "label": "5.5. El programa de conservación de la audición aplica en las áreas del centro de trabajo donde se",
+    "text": "5.5. El programa de conservación de la audición aplica en las áreas del centro de trabajo donde se\nencuentren trabajadores expuestos a niveles de 85 dB(A) y mayores.",
+    "start_char": 16401,
+    "end_char": 16566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "5.6",
+    "label": "5.6. Implantar, conservar y mantener actualizado el programa de conservación de la audición, necesario",
+    "text": "5.6. Implantar, conservar y mantener actualizado el programa de conservación de la audición, necesario\npara el control y prevención de las alteraciones de la salud de los trabajadores, según lo establecido en el\ncapítulo 8.",
+    "start_char": 16570,
+    "end_char": 16793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "5.7",
+    "label": "5.7. Vigilar la salud de los trabajadores expuestos a ruido e informar a cada trabajador sus resultados.",
+    "text": "5.7. Vigilar la salud de los trabajadores expuestos a ruido e informar a cada trabajador sus resultados.",
+    "start_char": 16797,
+    "end_char": 16901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "5.8",
+    "label": "5.8. Informar a los trabajadores y a la comisión de seguridad e higiene del centro de trabajo, de las",
+    "text": "5.8. Informar a los trabajadores y a la comisión de seguridad e higiene del centro de trabajo, de las\nposibles alteraciones a la salud por la exposición a ruido, y orientarlos sobre la forma de evitarlas o atenuarlas.",
+    "start_char": 16905,
+    "end_char": 17122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "6",
+    "label": "6. Obligaciones del trabajador",
+    "text": "6. Obligaciones del trabajador",
+    "start_char": 17126,
+    "end_char": 17156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "6.1",
+    "label": "6.1. Colaborar en los procedimientos de evaluación y observar las medidas del Programa de Conservación",
+    "text": "6.1. Colaborar en los procedimientos de evaluación y observar las medidas del Programa de Conservación\nde la Audición.",
+    "start_char": 17161,
+    "end_char": 17279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "6.2",
+    "label": "6.2. Someterse a los exámenes médicos necesarios de acuerdo al Programa de Conservación",
+    "text": "6.2. Someterse a los exámenes médicos necesarios de acuerdo al Programa de Conservación\nde la Audición.",
+    "start_char": 17284,
+    "end_char": 17387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "6.3",
+    "label": "6.3. Utilizar el equipo de protección personal auditiva proporcionado por el patrón, de acuerdo a las",
+    "text": "6.3. Utilizar el equipo de protección personal auditiva proporcionado por el patrón, de acuerdo a las\ninstrucciones para su uso, mantenimiento, limpieza, cuidado, reemplazo y limitaciones.",
+    "start_char": 17392,
+    "end_char": 17580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "7",
+    "label": "7. Límites máximos permisibles de exposición a ruido",
+    "text": "7. Límites máximos permisibles de exposición a ruido",
+    "start_char": 17584,
+    "end_char": 17636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "7.1",
+    "label": "7.1. Los límites máximos permisibles de exposición a ruido se establecen en el Apéndice A.",
+    "text": "7.1. Los límites máximos permisibles de exposición a ruido se establecen en el Apéndice A.",
+    "start_char": 17640,
+    "end_char": 17730
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "7.2",
+    "label": "7.2. Cálculo para el tiempo de exposición. Cuando el NER en los centros de trabajo, esté entre dos de las",
+    "text": "7.2. Cálculo para el tiempo de exposición. Cuando el NER en los centros de trabajo, esté entre dos de las\nmagnitudes consignadas en la Tabla A.1, (90 y 105 dB “A”), el tiempo máximo permisible de exposición, se\ndebe calcular con la ecuación siguiente:\n                                                             8\n                                               TMPE =       NER - 90\n\n                                                        2     3",
+    "start_char": 17734,
+    "end_char": 18182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "7.3",
+    "label": "7.3. Cuando el NER sea superior a 105 dB(A) se deben implementar una o más de las medidas de control",
+    "text": "7.3. Cuando el NER sea superior a 105 dB(A) se deben implementar una o más de las medidas de control\ndescritas en el inciso a) del Apartado 8.7.1.",
+    "start_char": 18189,
+    "end_char": 18335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8",
+    "label": "8. Programa de conservación de la audición",
+    "text": "8. Programa de conservación de la audición\n    El programa debe tomar en cuenta la naturaleza del trabajo; las características de las fuentes emisoras\n(magnitud y componentes de frecuencia del ruido); el tiempo y la frecuencia de exposición de los trabajadores;\nlas posibles alteraciones a la salud, y los métodos generales y específicos de prevención y control.",
+    "start_char": 18339,
+    "end_char": 18701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.1",
+    "label": "8.1. El programa de conservación de la audición debe incluir los elementos siguientes:",
+    "text": "8.1. El programa de conservación de la audición debe incluir los elementos siguientes:\n   a)    evaluación del NSA promedio o del NSCEA,T y la determinación del NER;\n   b)    evaluación del NPA en bandas de octava;\n   c)    equipo de protección personal auditiva;\n   d)    capacitación y adiestramiento;\n   e)    vigilancia a la salud;\n   f)    control;\n   g)    documentación correspondiente a cada uno de los elementos indicados.",
+    "start_char": 18705,
+    "end_char": 19136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.2",
+    "label": "8.2. Evaluación del NSA promedio o del NSCEA,t y la determinación del NER. Los requisitos de la",
+    "text": "8.2. Evaluación del NSA promedio o del NSCEA,t y la determinación del NER. Los requisitos de la\nevaluación del NSA promedio o del NSCEA,T deben cumplir con lo establecido en el Apéndice B y conforme al\nesquema siguiente:\n\f   106   (Segunda Sección)                      DIARIO OFICIAL                  Miércoles 17 de abril de 2002",
+    "start_char": 19140,
+    "end_char": 19471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.2.1",
+    "label": "8.2.1. Reconocimiento:",
+    "text": "8.2.1. Reconocimiento:\n   a)    identificar las áreas y fuentes emisoras, usando durante el recorrido un sonómetro para conocer el\n         NSA instantáneo;\n   b)    identificar a los trabajadores con exposición potencial a ruido;\n   c)    seleccionar el método para efectuar la evaluación de la exposición a ruido en las áreas de trabajo;\n   d)    determinar la instrumentación de acuerdo al método seleccionado para efectuar la evaluación de la\n         exposición a ruido en las áreas de trabajo.",
+    "start_char": 19476,
+    "end_char": 19975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.2.2",
+    "label": "8.2.2. Evaluación:",
+    "text": "8.2.2. Evaluación:\n   a)    emplear los métodos de evaluación e instrumentos de medición establecidos en el Apéndice B;\n   b)    determinar los NER, aplicando cualquiera de los métodos establecidos en el Apéndice B;\n   c)    asentar los resultados en la documentación del programa de conservación de la audición;\n   d)    cuando las exposiciones a ruido igualen o excedan el NER de 80 dB(A), el reconocimiento y\n         evaluación del NER se repetirá cada dos años o dentro de los noventa días posteriores a un cambio\n         de producción, procesos, equipos, controles u otros cambios, que puedan ocasionar variaciones en\n         los resultados del estudio anterior.",
+    "start_char": 19979,
+    "end_char": 20649
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.3",
+    "label": "8.3. Evaluación del NPA en bandas de octava.",
+    "text": "8.3. Evaluación del NPA en bandas de octava.",
+    "start_char": 20653,
+    "end_char": 20697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.3.1",
+    "label": "8.3.1. La evaluación de los NPA debe cumplir con lo establecido en el Apéndice C y conforme al",
+    "text": "8.3.1. La evaluación de los NPA debe cumplir con lo establecido en el Apéndice C y conforme al\nesquema siguiente:",
+    "start_char": 20701,
+    "end_char": 20814
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-3-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.3.1.1",
+    "label": "8.3.1.1. Reconocimiento: identificar las áreas con NSA mayor o igual a 80 dB(A) y en donde la exposición a",
+    "text": "8.3.1.1. Reconocimiento: identificar las áreas con NSA mayor o igual a 80 dB(A) y en donde la exposición a\nruido de los trabajadores sea representativa.",
+    "start_char": 20819,
+    "end_char": 20971
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-3-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.3.1.2",
+    "label": "8.3.1.2. Evaluación:",
+    "text": "8.3.1.2. Evaluación:\n   a)    emplear los métodos de evaluación e instrumentos de medición señalados en el Apéndice C;\n   b)    cuantificar los NPA y asentar los resultados en la documentación del programa;\n   c)    el reconocimiento y evaluación de los NPA se repetirá cada dos años o dentro de los noventa días\n         posteriores a un cambio de producción, procesos, equipos, controles u otros cambios, que puedan\n         ocasionar variaciones en los resultados del estudio.",
+    "start_char": 20975,
+    "end_char": 21454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.4",
+    "label": "8.4. Equipo de protección personal auditiva.",
+    "text": "8.4. Equipo de protección personal auditiva.",
+    "start_char": 21458,
+    "end_char": 21502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.4.1",
+    "label": "8.4.1. Cuando se utilice equipo de protección personal auditiva, se debe considerar el factor de reducción",
+    "text": "8.4.1. Cuando se utilice equipo de protección personal auditiva, se debe considerar el factor de reducción\nR o nivel de ruido efectivo en ponderación A (NRE) que proporcione dicho equipo, mismo que debe contar con\nla debida certificación. En caso de no existir un organismo de certificación el fabricante o proveedor debe\nexpedir la garantía del equipo de protección personal estableciendo el nivel de atenuación de ruido.",
+    "start_char": 21507,
+    "end_char": 21929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.4.2",
+    "label": "8.4.2. Para determinar el factor de reducción R o el NRE, se debe utilizar cualquiera de los métodos",
+    "text": "8.4.2. Para determinar el factor de reducción R o el NRE, se debe utilizar cualquiera de los métodos\nestablecidos en el Apéndice D.",
+    "start_char": 21933,
+    "end_char": 22064
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.4.3",
+    "label": "8.4.3. Contar con los procedimientos siguientes:",
+    "text": "8.4.3. Contar con los procedimientos siguientes:\n   a)    de selección técnica y médica;\n   b)    de capacitación de los trabajadores en su uso, mantenimiento, limpieza, cuidado, reemplazo\n         y limitaciones;\n   c)    de supervisión de su uso por parte de los trabajadores.",
+    "start_char": 22068,
+    "end_char": 22346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.4.4",
+    "label": "8.4.4. Toda persona que ingrese a las áreas con señalamientos de uso obligatorio de equipo de protección",
+    "text": "8.4.4. Toda persona que ingrese a las áreas con señalamientos de uso obligatorio de equipo de protección\npersonal auditiva deberá ingresar con dicho equipo.",
+    "start_char": 22350,
+    "end_char": 22506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.5",
+    "label": "8.5. Capacitación y adiestramiento.",
+    "text": "8.5. Capacitación y adiestramiento.",
+    "start_char": 22510,
+    "end_char": 22545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.5.1",
+    "label": "8.5.1. Los trabajadores expuestos a NER iguales o superiores a 80 dB(A) deben ser instruidos respecto a",
+    "text": "8.5.1. Los trabajadores expuestos a NER iguales o superiores a 80 dB(A) deben ser instruidos respecto a\nlas medidas de control, mediante un programa de capacitación acerca de los efectos a la salud, niveles\nmáximos permisibles de exposición, medidas de protección y de exámenes audiométricos y sitios de trabajo\nque presenten condiciones críticas de exposición.",
+    "start_char": 22550,
+    "end_char": 22911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.5.2",
+    "label": "8.5.2. La información proporcionada en el programa de capacitación debe ser actualizada, incluyendo",
+    "text": "8.5.2. La información proporcionada en el programa de capacitación debe ser actualizada, incluyendo\nprácticas de trabajo y del uso, cuidado, mantenimiento, limpieza, reemplazo y limitaciones de los equipos de\nprotección auditiva.\n\f   Miércoles 17 de abril de 2002               DIARIO OFICIAL                       (Segunda Sección)   107",
+    "start_char": 22916,
+    "end_char": 23254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.6",
+    "label": "8.6. Vigilancia a la salud.",
+    "text": "8.6. Vigilancia a la salud.\n    El patrón debe llevar a cabo exámenes médicos anuales específicos a cada trabajador expuesto a niveles\nde ruido de 85 dB(A) y mayores, según lo que establezcan las normas oficiales mexicanas que al respecto\nemita la Secretaría de Salud y observar las medidas que en esas normas se establezcan. En caso de no\nexistir normatividad de la Secretaría de Salud, el médico de empresa determinará el tipo de exámenes\nmédicos que se realizarán, su periodicidad y las medidas a aplicar, tomando en cuenta la susceptibilidad del\ntrabajador. Se podrá usar la Guía de Referencia I, no obligatoria.",
+    "start_char": 23259,
+    "end_char": 23875
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.7",
+    "label": "8.7. Control.",
+    "text": "8.7. Control.",
+    "start_char": 23879,
+    "end_char": 23892
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.7.1",
+    "label": "8.7.1. Cuando el NER supere los límites máximos permisibles de exposición establecidos en la Tabla A.1,",
+    "text": "8.7.1. Cuando el NER supere los límites máximos permisibles de exposición establecidos en la Tabla A.1,\nse deben aplicar una o varias de las medidas de control siguientes, para mantener la exposición dentro\nde lo permisible:\n   a)   medidas técnicas de control, consistentes en:\n        1)    efectuar labores de mantenimiento preventivo y correctivo de las fuentes generadoras de ruido;\n        2)    sustitución o modificación de equipos o procesos;\n        3)    reducción de las fuerzas generadoras del ruido;\n        4)    modificar los componentes de frecuencia con mayor posibilidad de daño a la salud\n              de los trabajadores;\n        5)    distribución planificada y adecuada, del equipo en la planta;\n        6)    acondicionamiento acústico de las superficies interiores de los recintos;\n        7)    instalación de cabinas, envolventes o barreras totales o parciales, interpuestas entre las fuentes\n              sonoras y los receptores;\n        8)    tratamiento de las trayectorias de propagación del ruido y de las vibraciones, por aislamientos\n              de las máquinas y elementos;\n   b)   Implementar medidas administrativas de control, como:\n        1)    manejo de los tiempos de exposición;\n        2)    programación de la producción;\n        3)    otros métodos administrativos.",
+    "start_char": 23897,
+    "end_char": 25213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.7.2",
+    "label": "8.7.2. Las medidas de control que se adopten deben de estar sustentadas por escrito, en un análisis",
+    "text": "8.7.2. Las medidas de control que se adopten deben de estar sustentadas por escrito, en un análisis\ntécnico para su implementación, así como en una evaluación que se practique dentro de los 30 días\nposteriores a su aplicación, para verificar su efectividad.",
+    "start_char": 25217,
+    "end_char": 25474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.7.3",
+    "label": "8.7.3. Se debe tener especial cuidado de que las medidas de control que se adopten no produzcan nuevos",
+    "text": "8.7.3. Se debe tener especial cuidado de que las medidas de control que se adopten no produzcan nuevos\nriesgos a los trabajadores.",
+    "start_char": 25479,
+    "end_char": 25609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.7.4",
+    "label": "8.7.4. En la entrada de las áreas donde los NSA sean iguales o superiores a 85 dB(A), deben colocarse",
+    "text": "8.7.4. En la entrada de las áreas donde los NSA sean iguales o superiores a 85 dB(A), deben colocarse\nseñalamientos de uso obligatorio de equipo de protección personal auditiva, según lo establecido en la\nNOM-026-STPS-1998.",
+    "start_char": 25613,
+    "end_char": 25836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.8",
+    "label": "8.8. Documentación del programa de conservación de la audición.",
+    "text": "8.8. Documentación del programa de conservación de la audición.",
+    "start_char": 25840,
+    "end_char": 25903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.8.1",
+    "label": "8.8.1. El patrón debe conservar la documentación del programa de conservación de la audición, con la",
+    "text": "8.8.1. El patrón debe conservar la documentación del programa de conservación de la audición, con la\ninformación registrada durante los últimos 5 años.",
+    "start_char": 25908,
+    "end_char": 26059
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.8.2",
+    "label": "8.8.2. El patrón debe elaborar un cronograma de actividades para el desarrollo de la implementación del",
+    "text": "8.8.2. El patrón debe elaborar un cronograma de actividades para el desarrollo de la implementación del\nprograma de conservación de la audición.",
+    "start_char": 26063,
+    "end_char": 26207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:8-8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "8.8.3",
+    "label": "8.8.3. La documentación del programa de conservación de la audición debe contener los siguientes",
+    "text": "8.8.3. La documentación del programa de conservación de la audición debe contener los siguientes\nregistros:\n   a)   los estudios de reconocimiento, evaluación y determinación de los NSA, NSCEA,T, NER y NPA,\n        conforme a lo establecido en los apartados B.7 y C.7;\n   b)   equipo de protección auditiva, conforme a lo señalado en el Apartado 8.4.3;\n   c)   programa de capacitación y adiestramiento, según los establecido en el Apartado 8.5;\n   d)   vigilancia a la salud conforme al Apartado 8.6;\n   e)   medidas técnicas y administrativas de control adoptadas, incluyendo los estudios solicitados en el\n        Apartado 8.7.2;\n\f   108   (Segunda Sección)                       DIARIO OFICIAL                Miércoles 17 de abril de 2002\n\n   f)    conclusiones;\n   g)    los documentos que amparen el cumplimiento de los apartados 5.2 y 5.7.",
+    "start_char": 26212,
+    "end_char": 27058
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "9",
+    "label": "9. Centros de trabajo de nueva creación o modificación de procesos en los centros de trabajo existentes",
+    "text": "9. Centros de trabajo de nueva creación o modificación de procesos en los centros de trabajo existentes",
+    "start_char": 27062,
+    "end_char": 27165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "9.1",
+    "label": "9.1. Los centros de trabajo de nueva creación deben ser planeados, instalados, organizados y puestos en",
+    "text": "9.1. Los centros de trabajo de nueva creación deben ser planeados, instalados, organizados y puestos en\nfuncionamiento de modo que la exposición a ruido de los trabajadores no exceda los límites máximos\npermisibles de exposición, establecidos en el Apéndice A.",
+    "start_char": 27169,
+    "end_char": 27429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "9.2",
+    "label": "9.2. Cualquier modificación a un proceso en un centro de trabajo debe ser planeada, instalada, organizada",
+    "text": "9.2. Cualquier modificación a un proceso en un centro de trabajo debe ser planeada, instalada, organizada\ny puesta en funcionamiento de modo que la exposición a ruido de los trabajadores no exceda los límites\nmáximos permisibles de exposición establecidos en el Apéndice A.",
+    "start_char": 27433,
+    "end_char": 27706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "9.3",
+    "label": "9.3. Para dar cumplimiento a los Apartados 9.1 y 9.2, las medidas de control deben estar sustentadas",
+    "text": "9.3. Para dar cumplimiento a los Apartados 9.1 y 9.2, las medidas de control deben estar sustentadas\npor escrito, con un análisis técnico para su implantación y en una evaluación posterior para verificar\nsu efectividad.",
+    "start_char": 27710,
+    "end_char": 27929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "10",
+    "label": "10. Unidades de verificación y laboratorios de pruebas",
+    "text": "10. Unidades de verificación y laboratorios de pruebas",
+    "start_char": 27933,
+    "end_char": 27987
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "10.1",
+    "label": "10.1. El patrón tendrá la opción de contratar una unidad de verificación o laboratorio de pruebas acreditado",
+    "text": "10.1. El patrón tendrá la opción de contratar una unidad de verificación o laboratorio de pruebas acreditado\ny aprobado, según lo establecido en la Ley Federal sobre Metrología y Normalización, para verificar o evaluar\nesta Norma.",
+    "start_char": 27991,
+    "end_char": 28221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "10.2",
+    "label": "10.2. Los laboratorios de pruebas podrán evaluar los apartados 8.2 y 8.3 referente al reconocimiento",
+    "text": "10.2. Los laboratorios de pruebas podrán evaluar los apartados 8.2 y 8.3 referente al reconocimiento\ny evaluación.",
+    "start_char": 28226,
+    "end_char": 28340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "10.3",
+    "label": "10.3. Las unidades de verificación, podrán verificar el cumplimiento de esta Norma, con base en lo",
+    "text": "10.3. Las unidades de verificación, podrán verificar el cumplimiento de esta Norma, con base en lo\nestablecido en los apartados 5.2 a 5.8.",
+    "start_char": 28344,
+    "end_char": 28482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "10.4",
+    "label": "10.4. Las unidades de verificación o laboratorios de pruebas deben entregar al patrón sus dictámenes e",
+    "text": "10.4. Las unidades de verificación o laboratorios de pruebas deben entregar al patrón sus dictámenes e\ninformes de resultados consignando la siguiente información:",
+    "start_char": 28487,
+    "end_char": 28650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:10-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "10.4.1",
+    "label": "10.4.1. Para el dictamen de las unidades de verificación:",
+    "text": "10.4.1. Para el dictamen de las unidades de verificación:\n   a)    datos del centro de trabajo evaluado:\n         1)   nombre, denominación o razón social;\n         2)   domicilio completo.\n   b)    datos de la unidad de verificación:\n         1)   nombre, denominación o razón social de la unidad de verificación;\n         2)   número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;\n         3)   clave y nombre de la norma verificada;\n         4)   resultado de la verificación;\n         5)   nombre y firma del representante autorizado;\n         6)   lugar y fecha de la expedición del dictamen;\n         7)   vigencia del dictamen.",
+    "start_char": 28654,
+    "end_char": 29314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:10-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "10.4.2",
+    "label": "10.4.2. Para el informe de resultados de los laboratorios de pruebas:",
+    "text": "10.4.2. Para el informe de resultados de los laboratorios de pruebas:\n   a)    datos del centro de trabajo evaluado:\n         1)   nombre, denominación o razón social;\n         2)   domicilio completo.\n   b)    datos del laboratorio de prueba:\n         1)   nombre, denominación o razón social;\n         2)   número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;\n         3)   nombre y firma del signatario autorizado;\n         4)   lugar y fecha de la expedición del informe;\n         5)   conclusiones de la evaluación;\n         6)   contenido de los estudios, de acuerdo a lo establecido en los apartados B.7 y C.7.",
+    "start_char": 29318,
+    "end_char": 29962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:10-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "10.5",
+    "label": "10.5. La vigencia de los dictámenes emitidos por las unidades de verificación y de los informes de",
+    "text": "10.5. La vigencia de los dictámenes emitidos por las unidades de verificación y de los informes de\nresultados de los laboratorios de pruebas será de dos años, a menos que se modifique la maquinaría, el\n\f   Miércoles 17 de abril de 2002                 DIARIO OFICIAL                       (Segunda Sección)    109\n\nequipo, su distribución o las condiciones de operación, de tal manera que puedan ocasionar variaciones en los\nresultados de la evaluación del ruido.",
+    "start_char": 29966,
+    "end_char": 30429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "11",
+    "label": "11. Vigilancia",
+    "text": "11. Vigilancia\n   La vigilancia del cumplimiento de esta Norma Oficial Mexicana, corresponde a la Secretaría del Trabajo y\nPrevisión Social.",
+    "start_char": 81983,
+    "end_char": 82123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "12",
+    "label": "12. Bibliografía",
+    "text": "12. Bibliografía\n   Ley Federal del Trabajo.\n   Ley Federal sobre Metrología y Normalización.\n   Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo.\n   NOM-008-SCFI-1993, Sistema general de unidades de medida.\n    ISO 1999: 1990 (E) Acoustics - Determination of occupational noise exposure and estimation\nof noise-induced hearing impairment.\n   ISO 6189: 1983 (E) Acoustics - Pure tone air conduction threshold audiometry for hearing conservation\npurposes.\n   ISO 9612: 1997 (E) Acoustics - Guidelines for the measurement and assessment of exposure to noise in a\nworking environment.\n   IEC 651: 1979, Sound Level Meters.\n   IEC 804: 1985, Integrating-averaging Sound Level Meters.\n   IEC 942: 1988, Sound Calibrators.\n   IEC 1252: 1993, Electroacoustics - Specifications for Personal Sound Exposure Meters.\n   OSHA 1910.95 - Occupational Noise Exposure - Code of Federal Regulations, Title 29, Chapter XVII, Part\n1910, Subpart G, 36 FR 10466, May 29, 1971; Amended 48 FR 9776-9785, March 8, 1983. Estados Unidos de\nAmérica.\n   CAN/CSA-Z107.56-M86 Procedures for the Measurement of Occupational Noise Exposure. Canadá.\n   COVENIN 1565: 1995 (3a. Revisión) Norma Venezolana - Ruido Ocupacional - Programa de Conservación\nAuditiva, Niveles Permisibles y Criterios de Evaluación. Venezuela.\n   National Institute for Occupational Safety and Health 1990. A practical guide to efective hearing\nconservation programs in the workplace. U.S. Department of Health and Human Services. Public Health\nService. Centers for Disease Control. Estados Unidos de América.\n   National Institute for Occupational Safety and Health 1994. The NIOSH compendium of hearing protection\ndevices. U.S. Department of Health and Human Services. Public Health Service. Centers for Disease Control.\nEstados Unidos de América.\n   National Institute for Occupational Safety and Health 1996. Criteria for a recommended standard (draft\ndocument). Occupational noise exposure - revised criteria 1996. U.S. Department of Health and Human\nServices. Public Health Service. Centers for Disease Control. Estados Unidos de América.\n   National Institute for Occupational Safety and Health 1997. Preventing occupational hearing loss: a\npractical guide. U.S. Department of Health and Human Services. Public Health Service. Centers for Disease\nControl. Estados Unidos de América.\n   Serré, R. 1989. Dictionary of Noise and Noise Control. Elsevier, Holanda.\n   Harris, C. M. 1995. Manual de Medidas Acústicas y Control de Ruido. McGraw-Hill/Interamericana de\nEspaña, S.A. México.\n   Becker, J.P.1986. Medición de ruido. Seminario de Congreso Nacional de Seguridad. Asociación Mexicana\nde Seguridad e Higiene, A.C., México.\n   Becker, J.P. 1987. Programa de Conservación de la Audición. Seminario de Congreso Nacional de\nSeguridad. Asociación Mexicana de Seguridad e Higiene, A.C., México.\n\f   Miércoles 17 de abril de 2002                 DIARIO OFICIAL                    (Segunda Sección)   127\n\n    Becker, J.P. 1990. Análisis Comparativo de los Métodos de Evaluación de la Atenuación de los Protectores\nAuditivos. Sexto Encuentro Nacional de Médicos Supervisores de los Servicios Preventivos de Medicina del\nTrabajo en las Empresas. Secretaría del Trabajo y Previsión Social, México.\n    Becker, J.P. 1992. Manual de Ruido Industrial. Diplomado de Higiene Industrial, Celanese Mexicana, S.A.\nde C.V. Ergon, México.\n    Becker, J.P. 1996. La justificación del cambio (¿Realmente la Legislación Protege a los Trabajadores de\nRuido?), México.\n    Royster, J. D. y Royster L. H. 1990. Hearing Conservation Programs. Lewis Publishers, Inc. Estados\nUnidos de América.\n    Ortiz G., J. A. 1990 Selección Objetiva de Protectores Auditivos. Congreso Nacional de Seguridad.\nAsociación Mexicana de Higiene y Seguridad, A.C. México.\n    Ortiz G., J. A. 1992 Niveles de Presión Acústica en Ambientes Laborales. Congreso Nacional de Acústica.\nSociedad Mexicana de Acústica, A.C. México.\n    Ortiz G., J. A. et al 1993 Trauma Acústico. Evaluación, Prevención y Control. Noveno Encuentro Nacional\nde Médicos Supervisores de los Servicios Preventivos de Medicina del Trabajo en las Empresas. Secretaría\ndel Trabajo y Previsión Social, México.\n    Ortiz G., J. A. 1993 El Espectro Acústico en las Evaluaciones de Ruido. Congreso Nacional de Acústica.\nSociedad Mexicana de Acústica, A.C. México.\n    Zárate P., J. y Ortiz G., J. A. 1994 Niveles Sonoros en el Ambiente Laboral de la Industria Mexicana.\nCongreso Nacional de Acústica. Sociedad Mexicana de Acústica, A.C. México.\n    Berger, E.H., W. D. Ward, J. C. Morrill y L. H. Royster, Eds. 1986. Noise and Hearing Conservation\nManual. 4a. Edición. American Industrial Hygiene Association. Estados Unidos de América.",
+    "start_char": 82127,
+    "end_char": 86851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-011-stps-2001:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+    "number": "13",
+    "label": "13. Concordancia con normas internacionales",
+    "text": "13. Concordancia con normas internacionales\n    Esta Norma Oficial Mexicana no concuerda con ninguna norma internacional, por no existir referencia\nalguna al momento de su elaboración.",
+    "start_char": 86856,
+    "end_char": 87040
+  }
+]

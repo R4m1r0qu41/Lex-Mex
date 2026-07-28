@@ -1,0 +1,2415 @@
+   Lunes 31 de agosto de 2015                   DIARIO OFICIAL                              (Segunda Sección)
+
+
+            SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+NORMA Oficial Mexicana NOM-033-STPS-2015, Condiciones de seguridad para realizar trabajos en espacios
+confinados.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría del Trabajo y
+Previsión Social.
+    JESÚS ALFONSO NAVARRETE PRIDA, Secretario del Trabajo y Previsión Social, con fundamento en los
+artículos 40, fracciones I y XI, de la Ley Orgánica de la Administración Pública Federal; 132, fracciones XVI y
+XVII, 475 Bis, 512, 523, fracción I, 524 y 527, último párrafo, de la Ley Federal del Trabajo; 1o., 3o., fracción
+XI, 38, fracción II, 40, fracción VII, 41, 47, fracción IV, 62, 68 y 87 de la Ley Federal sobre Metrología y
+Normalización; 28 del Reglamento de la Ley Federal sobre Metrología y Normalización; 5, fracción III, 7
+fracciones I, III, VI, VII, X, XI, XII, XIV, XV, XIX, y XX, 10 y 25, del Reglamento Federal de Seguridad y Salud
+en el Trabajo, y 24 del Reglamento Interior de la Secretaría del Trabajo y Previsión Social, y
+                                               CONSIDERANDO
+   Que conforme a lo previsto por el artículo 46, fracción I, de la Ley Federal sobre Metrología y
+Normalización, la Secretaría del Trabajo y Previsión Social presentó ante el Comité Consultivo Nacional de
+Normalización de Seguridad y Salud en el Trabajo, en su Séptima Sesión Ordinaria, celebrada el 12 de agosto
+de 2014, el Anteproyecto de Norma Oficial Mexicana PROY-NOM-033-STPS-2014, Condiciones de seguridad
+para realizar trabajos en espacios confinados, y que el citado Comité lo consideró procedente y acordó que se
+publicara como Proyecto en el Diario Oficial de la Federación;
+   Que de acuerdo con lo que determinan los artículos 69-E y 69-H, de la Ley Federal de Procedimiento
+Administrativo, el Proyecto correspondiente fue sometido a la consideración de la Comisión Federal de Mejora
+Regulatoria, quien dictaminó favorablemente en relación con el mismo;
+   Que de conformidad con lo señalado por el artículo 47, fracción I, de la Ley Federal sobre Metrología y
+Normalización, se publicó para consulta pública por sesenta días en el Diario Oficial de la Federación de 4 de
+noviembre de 2014, el Proyecto de Norma Oficial Mexicana PROY-NOM-033-STPS-2014, Condiciones de
+seguridad para realizar trabajos en espacios confinados, a efecto de que en dicho periodo los interesados
+presentaran sus comentarios al Comité Consultivo Nacional de Normalización de Seguridad y Salud en el
+Trabajo;
+    Que habiendo recibido comentarios de doce promoventes, el Comité referido procedió a su estudio y
+resolvió oportunamente sobre los mismos, por lo que esta dependencia publicó las respuestas respectivas en
+el Diario Oficial de la Federación de 8 de mayo de 2015, con base en lo que dispone el artículo 47, fracción III,
+de la Ley Federal sobre Metrología y Normalización;
+    Que derivado de la incorporación de los comentarios presentados al Proyecto de Norma Oficial Mexicana
+PROY-NOM-033-STPS-2014, Condiciones de seguridad para realizar trabajos en espacios confinados, así
+como de la revisión final del propio proyecto, se realizaron diversas modificaciones con el propósito de dar
+claridad, congruencia y certeza jurídica en cuanto a las disposiciones que aplican en los centros de trabajo, y
+   Que en atención a las anteriores consideraciones, y toda vez que el Comité Consultivo Nacional de
+Normalización de Seguridad y Salud en el Trabajo otorgó la aprobación respectiva, se expide la siguiente:
+ NORMA OFICIAL MEXICANA NOM-033-STPS-2015, CONDICIONES DE SEGURIDAD PARA REALIZAR
+                        TRABAJOS EN ESPACIOS CONFINADOS
+                                                    ÍNDICE
+   1.    Objetivo
+   2.    Campo de aplicación
+   3.    Referencias
+   4.    Definiciones
+   5.    Obligaciones del patrón
+   6.    Obligaciones de los trabajadores
+   7.    Clasificación del espacio confinado y análisis de riesgos
+   8.    Requerimientos administrativos para realizar trabajos en espacios confinados
+   9.    Medidas de seguridad para realizar trabajos en espacios confinados
+       (Segunda Sección)                       DIARIO OFICIAL                      Lunes 31 de agosto de 2015
+
+   10. Plan de atención a emergencias y rescate
+   11. Capacitación
+   12. Unidades de verificación
+   13. Procedimiento para la evaluación de la conformidad
+   14. Vigilancia
+   15. Bibliografía
+   16. Concordancia con normas internacionales
+        TRANSITORIOS
+   1. Objetivo
+    Establecer las condiciones de seguridad para proteger la integridad física y la vida de los trabajadores que
+realizan trabajos en espacios confinados, así como prevenir alteraciones a su salud.
+   2. Campo de aplicación
+    2.1 La presente Norma Oficial Mexicana rige en todo el territorio nacional y aplica en todos los centros de
+trabajo donde se realicen trabajos en espacios confinados.
+    2.2 Esta Norma no aplica en actividades de buceo y en minas subterráneas, salvo que dentro de sus
+instalaciones se cuente con espacios confinados.
+   3. Referencias
+  Para la correcta interpretación de esta Norma, deberán consultarse las siguientes normas oficiales
+mexicanas y las normas mexicanas vigentes, o las que las sustituyan:
+   3.1 NOM-004-STPS-1999, Sistemas de protección y dispositivos de seguridad en la maquinaria y equipo
+que se utilice en los centros de trabajo.
+   3.2 NOM-009-STPS-2011, Condiciones de seguridad para realizar trabajos en altura.
+  3.3 NOM-010-STPS-1999, Condiciones de seguridad e higiene en los centros de trabajo donde se
+manejen, transporten, procesen o almacenen sustancias químicas capaces de generar contaminación en el
+medio ambiente laboral.
+    3.4 NOM-017-STPS-2008, Equipo de protección personal-Selección, uso y manejo en los centros de
+trabajo.
+   3.5 NOM-018-STPS-2000, Sistema para la identificación y comunicación de peligros y riesgos por
+sustancias químicas peligrosas en los centros de trabajo.
+   3.6 NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos
+conducidos en tuberías.
+   3.7 NOM-027-STPS-2008, Actividades de soldadura y corte-Condiciones de seguridad e higiene.
+   3.8 NOM-029-STPS-2011, Mantenimiento de las instalaciones eléctricas en los centros de trabajo-
+Condiciones de seguridad.
+   3.9 NOM-116-STPS-2009, Seguridad-Equipo de protección personal-Respiradores purificadores de aire de
+presión negativa contra partículas nocivas-Especificaciones y métodos de prueba.
+   3.10 NMX-S-002-SCFI-2004 Seguridad-Respiradores purificadores de aire de cartuchos químicos-
+Especificaciones y métodos de prueba.
+    3.11 NMX-S-054-SCFI-2013 Seguridad-Respiradores purificadores de aire de presión negativa contra
+partículas nocivas-Especificaciones y métodos de prueba.
+   4. Definiciones
+   Para efectos de esta Norma, se consideran las definiciones siguientes:
+    4.1 Análisis de riesgos: La aplicación de uno o más métodos específicos para identificar, evaluar y
+determinar medidas de prevención y control de los riesgos significativos asociados con las condiciones y
+actividades que se desarrollan en espacios confinados.
+   Lunes 31 de agosto de 2015                 DIARIO OFICIAL                             (Segunda Sección)
+
+   4.2 Atmósfera peligrosa: Aquella que puede exponer a una persona a riesgo de muerte, incapacidad,
+deterioro de la capacidad de auto-rescate, lesión o enfermedad grave por alguna de las siguientes causas:
+gases, vapores o nieblas inflamables por arriba del 10% del límite inferior de inflamabilidad; partículas
+combustibles en el aire en una concentración que pueda representar riesgo de incendio o explosión;
+concentración de oxígeno en el aire por debajo del 19.5% o por arriba del 23.5% en volumen; concentración
+de cualquier sustancia química peligrosa por arriba del nivel de acción, conforme a lo previsto por la NOM-
+010-STPS-1999 o las que la sustituyan, o cualquier otra condición atmosférica que constituye un peligro
+inmediato para la vida o la salud.
+    4.3 Atmósfera respirable: Aquella que presenta una concentración de oxígeno entre 19.5% y 23.5% en
+volumen y, en su caso, concentraciones de sustancias químicas peligrosas por debajo del nivel de acción.
+    4.4 Autoridad laboral: Las unidades administrativas competentes de la Secretaría del Trabajo y Previsión
+Social que realizan funciones de inspección en materia de seguridad y salud en el trabajo, y las
+correspondientes de las entidades federativas, que actúen en auxilio de aquéllas.
+    4.5 Centro de Trabajo: El lugar o lugares, tales como edificios, locales, instalaciones y áreas, donde se
+realicen actividades de explotación, aprovechamiento, producción, comercialización, transporte y
+almacenamiento o prestación de servicios, en los que laboren personas que estén sujetas a una relación de
+trabajo.
+   4.6 Contaminantes del ambiente laboral: Los agentes físicos, químicos y biológicos capaces de
+modificar las condiciones ambientales del lugar de trabajo, que por sus propiedades, concentración, nivel, así
+como tiempo de exposición o acción pueden alterar la salud de los trabajadores expuestos.
+    4.7 Contratista: La persona física o moral que labora temporalmente en un centro de trabajo y asume
+contractualmente ante el patrón, el compromiso de realizar la totalidad o parte de los trabajos, según el
+alcance que determina el contrato, empleando equipo, maquinaria y/o mano de obra, propios o subcontratados.
+    4.8 Deficiencia de oxígeno: La concentración de oxígeno que se encuentra por debajo de 19.5% en
+volumen.
+   4.9 Equipo de protección personal: El conjunto de elementos y dispositivos diseñados específicamente
+para proteger al trabajador contra accidentes y enfermedades de trabajo.
+   4.10 Equipo de respiración autónomo: El dispositivo diseñado para el suministro de aire respirable, en el
+que la fuente es portada por el usuario.
+    4.11 Espacio confinado: El lugar sin ventilación natural, o con ventilación natural deficiente, en el que
+una o más personas puedan desempeñar una determinada tarea en su interior, con medios limitados o
+restringidos para su acceso o salida, que no está diseñado para ser ocupado en forma continua.
+   4.12 Inmediatamente peligroso para la vida o la salud, IPVS: La concentración de una sustancia tóxica
+que representa una amenaza inmediata para la vida, y/o que puede producir efectos adversos irreversibles
+para la salud, o que puede afectar la capacidad de una persona para escapar de una atmósfera peligrosa.
+   4.13 Límite inferior de inflamabilidad; explosividad inferior: La concentración mínima de cualquier
+vapor o gas, en porcentaje por volumen de aire, que se inflama o explota si hay una fuente de ignición
+presente a la temperatura ambiente.
+    4.14 Medio de respiración alterno: El dispositivo que le suministra al trabajador una cantidad definida de
+aire respirable para escape en caso de emergencia.
+    4.15 Monitoreo: Es el muestreo de modo continuo que se realiza durante el desarrollo de los trabajos en
+el espacio confinado.
+    4.16 Muestreo: La medición de la concentración de contaminantes del ambiente laboral químicos, de
+oxígeno y de sustancias inflamables o explosivas en el espacio confinado, por medio del uso de equipo de
+medición de lectura directa.
+    4.17 Nivel de acción (NA): La mitad del valor límite de exposición (VLE) promedio ponderado en tiempo,
+de las sustancias químicas peligrosas, de acuerdo con lo señalado en el Apéndice I, de la NOM-010-STPS-1999,
+o las que la sustituyan.
+   4.18 Respirador con línea de suministro de aire; Equipo de protección respiratoria con línea de
+suministro de aire o equipo: El dispositivo que suministra aire respirable al usuario a una presión mayor a la
+atmosférica, desde una fuente que no es portada por el usuario.
+       (Segunda Sección)                        DIARIO OFICIAL                     Lunes 31 de agosto de 2015
+
+    4.19 Responsable de los trabajos: El trabajador designado para supervisar, previo y durante la ejecución
+de las actividades en los espacios confinados, que se cumple con las condiciones para realizar los trabajos de
+manera segura.
+    4.20 Riesgo: La correlación de la peligrosidad de uno o varios factores y la exposición de los trabajadores
+con la posibilidad de causar efectos adversos para su vida, integridad física o salud, o dañar al centro de
+trabajo.
+    4.21 Riesgo grave: Aquel que puede comprometer la vida, integridad física o salud de los trabajadores, o
+producir daños a las instalaciones del centro de trabajo, al no existir las condiciones de seguridad
+correspondientes.
+     4.22 Sustancias químicas peligrosas: Aquellas que por sus propiedades físicas y químicas al ser
+manejadas, transportadas, almacenadas o procesadas, presentan la posibilidad de riesgos de explosividad,
+inflamabilidad, combustibilidad, reactividad, corrosividad, radiactividad, toxicidad o irritabilidad, y que al
+ingresar al organismo por vía respiratoria, cutánea o digestiva, pueden provocar a los trabajadores
+intoxicación, quemaduras o lesiones orgánicas, según el nivel, concentración de la sustancia y tiempo de
+exposición.
+    4.23 Vigía: El trabajador designado para permanecer en todo momento en el exterior del espacio
+confinado cuando, se desarrolle alguna actividad en su interior, con el fin de mantener contacto y/o
+comunicación con los trabajadores que realizan las actividades, asistirlos y alertar al responsable de los
+trabajos, en caso de ocurrir una emergencia.
+   5. Obligaciones del patrón
+   5.1 Identificar los espacios confinados en donde se requiere el acceso del trabajador para realizar
+cualquier tipo de actividad.
+    5.2 Clasificar el espacio confinado y contar con un análisis de riesgos previo al acceso de los trabajadores,
+realizado por personal capacitado específicamente para ello, que contemple, según aplique, los riesgos por
+atmósferas peligrosas, por agentes físicos o biológicos, así como los relativos a las actividades por
+desarrollar, de conformidad con lo que dispone el Capítulo 7 de la presente Norma.
+   5.3 Contar con procedimientos de seguridad para: las actividades a desarrollar; el uso de equipos y
+herramientas, y el muestreo y monitoreo para detectar atmósferas peligrosas, con base en lo establecido en el
+Capítulo 8 de esta Norma.
+   5.4 Disponer de un plan de trabajo específico para realizar trabajos en espacios confinados, conforme a lo
+que prevé el numeral 8.5 de la presente Norma.
+   5.5 Expedir autorizaciones por escrito a los trabajadores, para la realización de trabajos en espacios
+confinados, conforme a lo que determina el numeral 8.6 de esta Norma.
+   5.6 Adoptar las medidas de seguridad para realizar trabajos en espacios confinados, de acuerdo con lo
+determinado por el Capítulo 9 de esta Norma.
+   5.7 Designar a un responsable de los trabajos en espacios confinados y, al menos, un vigía, que cumplan
+con lo que señalan los numerales 9.5 y 9.6 respectivamente, de la presente Norma.
+    5.8 Proveer iluminación al interior de los espacios confinados, de conformidad con las actividades por
+desarrollar, que permita efectuar los trabajos en forma segura, mediante lámparas o equipo portátil y/o
+sistemas de iluminación.
+    5.9 Proporcionar a los trabajadores el equipo de protección personal requerido, con base en la
+clasificación del espacio confinado, el análisis de riesgos, y la actividad por desarrollar, conforme a lo
+dispuesto por la NOM-017-STPS-2008, o las que la sustituyan.
+    5.10 Disponer de un plan de atención a emergencias y rescate que contemple el rescate de posibles
+trabajadores accidentados, y que incluya el equipo necesario, de acuerdo con lo que establece el Capítulo 10
+de esta Norma.
+   5.11 Proporcionar información y capacitación a los trabajadores que realizan actividades en espacios
+confinados, de conformidad con el trabajo a desarrollar, su clasificación y el resultado del análisis de riesgos,
+con base en lo previsto por el Capítulo 11 de la presente Norma.
+   5.12 Comprobar que los contratistas cumplan con lo señalado en la presente Norma, cuando el patrón
+convenga los servicios de terceros para realizar trabajos en espacios confinados.
+   Lunes 31 de agosto de 2015                   DIARIO OFICIAL                              (Segunda Sección)
+
+   5.13 Llevar los registros del personal autorizado para el desarrollo de los trabajos en espacios confinados;
+de su ingreso y salida de dichos espacios; de sus tiempos de permanencia, y del muestreo y/o monitoreo de
+su atmósfera.
+   6. Obligaciones de los trabajadores
+   6.1 Observar las medidas de seguridad que dispone esta Norma, así como las que establezca el patrón
+para la prevención de riesgos en el desarrollo de trabajos en espacios confinados.
+    6.2 Dar aviso de inmediato al patrón y/o a la comisión de seguridad e higiene sobre las condiciones
+inseguras que adviertan durante el desarrollo de sus actividades, así como de los accidentes de trabajo que
+ocurran.
+   6.3 Utilizar y conservar en buen estado el equipo de protección personal proporcionado por el patrón.
+   6.4 Realizar pruebas de ajuste, cuando utilicen como equipo de protección personal respiradores con línea
+de suministro de aire o equipo de respiración autónomo.
+   6.5 Operar de modo seguro la maquinaria, equipo y herramientas que tengan asignados.
+   6.6 Conducirse durante el desarrollo de los trabajos de manera segura para evitar riesgos.
+   6.7 Participar en la capacitación, adiestramiento y eventos de información que proporcione el patrón.
+   6.8 Informar al patrón sobre las afectaciones a su salud o sus posibles limitaciones para la realización de
+sus actividades en el espacio confinado.
+   7. Clasificación del espacio confinado y análisis de riesgos
+    7.1 El trabajo en espacios confinados deberá evitarse preferentemente, sólo se deberá ingresar a su
+interior para realizar actividades en aquellos casos en los que se no se pueda realizar la actividad desde el
+exterior y, en todo caso, se deberá cumplir íntegramente con lo dispuesto por la presente Norma.
+    7.2 Previo al inicio de los trabajos en el espacio confinado, se deberá realizar un muestreo para determinar
+la existencia o inexistencia de una atmósfera peligrosa, de acuerdo con lo establecido por el numeral 8.4 de la
+presente Norma.
+   7.3 A partir de los resultados del muestreo a que se refiere el numeral 7.2, se deberán clasificar en Tipo I o
+Tipo II los espacios confinados, de conformidad con lo que prevé la Tabla 1 de esta Norma.
+    Para realizar la clasificación de los espacios confinados se deberá tomar como referencia los valores límite
+de exposición determinados por la NOM-010-STPS-1999, o las que las sustituyan, así como la información de
+las hojas de datos de seguridad respectivas, con base en lo que señala la NOM-018-STPS-2000, o las que la
+sustituyan.
+                                                    Tabla 1
+                                        Tipos de espacios confinados
+               Criterio                              Tipo I                               Tipo II
+            Característica            Riesgo potencial        a   la   salud Riesgo grave o inminente a la
+                                      mínimo                                 salud de los trabajadores
+    Concentración de oxígeno en       Entre 19.5 y 23.5%                     Menor a 19.5%, o mayor a 23.5%
+            porcentaje
+  Características de inflamabilidad   Menor que el 10% del límite Mayor o igual que el 10% del
+                                      inferior de inflamabilidad y/o límite inferior de inflamabilidad y/o
+                                      explosividad                   explosividad
+    Toxicidad o peligro a la salud    Menor que el nivel de acción (0.5 Mayor o igual al nivel de acción
+           (concentración)            VLE)                              (0.5 VLE)
+
+
+   Para el propósito de la presente Norma, el espacio confinado deberá clasificarse en los tipos siguientes:
+   a)    Espacio confinado Tipo I: Aquél en el que no existe riesgo por deficiencia o enriquecimiento de
+         oxígeno, ni atmósferas explosivas o inflamables, y en el que las concentraciones de sustancias
+         químicas peligrosas son inferiores al nivel de acción. Se clasificará el espacio confinado en este tipo
+         si se cumplen los tres criterios anteriores indicados en la Tabla 1, o
+        (Segunda Sección)                         DIARIO OFICIAL                     Lunes 31 de agosto de 2015
+
+   b)     Espacio confinado Tipo II: Aquel que tiene el potencial de causar lesiones y/o enfermedades de
+          trabajo, e incluso puede ser inmediatamente peligroso para la vida y la salud. En éstos se puede
+          presentar una atmósfera peligrosa. Se clasificará el espacio confinado en este tipo si se cumple, al
+          menos, uno de los criterios anteriores mostrados en la Tabla 1.
+    7.4 Para cada espacio confinado donde se desarrollen trabajos, y para cada trabajo por desarrollar en
+dichos espacios se deberá realizar un análisis de riesgos.
+   7.5 El análisis de riesgos deberá considerar, al menos, lo siguiente:
+   a)     La descripción de las actividades por desarrollar;
+   b)     Los riesgos por atmósferas peligrosas:
+          1)   Asfixia, debido a deficiencia de oxígeno;
+          2)   Incendio o explosión, por enriquecimiento de oxígeno o por sustancias con concentraciones o
+               con porcentaje mayor o igual que el 10% del límite inferior de inflamabilidad y/o explosividad, y
+          3)   Intoxicación, con motivo de concentraciones de sustancias químicas peligrosas, conforme a la
+               información de las hojas de datos de seguridad respectivas, de acuerdo con lo dispuesto por la
+               NOM-018-STPS-2000, o las que la sustituyan:
+               I.-   Por los materiales que se introducen para efectuar las actividades;
+               II.- Por los productos o desechos que se generan por el trabajo que se lleva a cabo;
+               III.- Por áreas o procesos adyacentes en los que se manejen, procesen o almacenen sustancias
+                     tóxicas, y
+               IV.- Por las sustancias químicas peligrosas que contiene o contuvo el espacio confinado;
+   c)     Los riesgos por agentes físicos:
+          1)   Ruido;
+          2)   Iluminación;
+          3)   Vibraciones, y
+          4)   Condiciones térmicas elevadas o abatidas;
+   d)     Los riesgos por agentes biológicos, tales como la presencia de fauna nociva o agentes biológicos
+          peligrosos;
+   e)     Los riesgos mecánicos, eléctricos o neumáticos;
+   f)     Los riesgos derivados de las actividades a desarrollar que contemplen, según aplique, lo siguiente:
+          1)   La maquinaria, equipo, herramientas y materiales en el lugar de trabajo, con énfasis en las
+               características y condiciones de seguridad y operación en que se deberán encontrar;
+          2)   Los peligros y factores de riesgo existentes por las actividades a desarrollar y los que se originen
+               en las inmediaciones del espacio confinado por otras actividades, tales como conexión de la
+               energía, operación de maquinaria o equipo, restablecimiento de flujo de sustancias,
+               inundaciones, entre otras, y
+          3)   La realización de trabajos en altura;
+   g)     Los riesgos derivados de las características del espacio confinado, entre otros:
+          1)   Por las condiciones en las que se encuentran las superficies del espacio confinado: inestables,
+               húmedas, resbalosas, entre otras, y
+          2)   Por la existencia de material granulado finamente dividido o de tal forma que pueda ocasionar el
+               riesgo de hundimiento o inmersión en dicho material;
+   h)     El tiempo estimado de duración de las actividades por desarrollar;
+   i)     El tiempo máximo de permanencia del trabajador en el espacio confinado, y
+   j)     Las posibles situaciones de emergencia que puedan presentarse durante el desarrollo de los trabajos
+          en el espacio confinado.
+   Lunes 31 de agosto de 2015                  DIARIO OFICIAL                            (Segunda Sección)
+
+    7.6 El análisis de riesgos deberá considerar los casos en los que un espacio confinado clasificado
+inicialmente como Tipo I, puede convertirse en un espacio confinado Tipo II, como consecuencia de las
+actividades que en él se desarrollen.
+   7.7 A partir del resultado del análisis de riesgos se deberán determinar las medidas de prevención y
+control aplicables a los riesgos detectados, las cuales deberán contemplar las medidas de seguridad
+establecidas en el Capítulo 9 de la presente Norma.
+   7.8 El análisis de riesgos deberá estar:
+   a)   Disponible para consulta de los trabajadores que participen o realicen actividades en espacios
+        confinados, y
+   b)   Aprobado y firmado por el patrón, o su representante, y el responsable de los servicios preventivos
+        de seguridad y salud en el trabajo.
+   7.9 El análisis de riesgos deberá revisarse, actualizarse o modificarse cuando:
+   a)   Se introduzcan herramientas, equipo o sustancias nuevas;
+   b)   Se modifiquen las condiciones del interior del espacio confinado;
+   c)   Haya ocurrido un incidente o accidente, o
+   d)   Se detecte algún riesgo no previsto en los procedimientos de seguridad.
+   8. Requerimientos administrativos para realizar trabajos en espacios confinados
+   8.1 Para desarrollar las actividades en los espacios confinados se deberá contar con procedimientos de
+seguridad, disponibles para los trabajadores involucrados en éstas, y actualizados, para:
+   a)   Las actividades a desarrollar;
+   b)   El uso de equipos y herramientas, y
+   c)   El muestreo y monitoreo para detectar atmósferas peligrosas.
+   8.2 El procedimiento de seguridad para las actividades a desarrollar en los espacios confinados deberá
+considerar lo siguiente:
+   a)   Los mecanismos de comunicación entre el personal que realiza las actividades en el espacio
+        confinado y el vigía;
+   b)   La forma de mantener una atmósfera respirable, o de lo contrario, la obligatoriedad de utilizar equipo
+        de protección respiratoria con línea de suministro de aire o equipo de respiración autónomo. Cuando
+        se emplee un respirador con línea de suministro de aire se deberá contar con un medio de
+        respiración alterno para escape en caso de emergencia;
+   c)   La información, en su caso, de las hojas de datos de seguridad de las sustancias químicas peligrosas
+        que se manejan, de conformidad con lo que establece la NOM-018-STPS-2000, o las que la
+        sustituyan;
+   d)   Las medidas específicas de seguridad que se deberán adoptar, adicionales a las que determina el
+        Capítulo 9 de esta Norma;
+   e)   Los criterios para evitar o interrumpir las actividades, cuando se comprometa la seguridad o salud de
+        los trabajadores;
+   f)   El tiempo estimado de duración de las actividades por desarrollar y el tiempo máximo de
+        permanencia;
+   g)   La aplicación, antes del inicio de las actividades, de medios de bloqueo de flujo de sustancias, tales
+        como los conducidos en tuberías y/o de energía, a través del uso de tarjetas y candados, así como
+        de equipos o dispositivos, con base en lo señalado por la NOM-004-STPS-1999 y la NOM-029-
+        STPS-2011, o las que las sustituyan, y
+   h)   El plan de atención a emergencias y rescate para posibles trabajadores accidentados.
+        (Segunda Sección)                         DIARIO OFICIAL                         Lunes 31 de agosto de 2015
+
+    8.3 Los procedimientos de seguridad para el uso de los equipos y herramientas en las actividades que se
+desarrollan en espacios confinados deberán considerar las indicaciones del fabricante y contemplar lo
+siguiente:
+   a)     Las instrucciones para verificar su correcto funcionamiento;
+   b)     El uso, manejo, limitaciones, revisión y mantenimiento del equipo de protección personal y la
+          información sobre la capacidad o grado de protección que éste ofrece, así como las condiciones en
+          las que no proporciona protección o donde no se deberán usar;
+   c)     Las acciones que se deberán realizar antes, durante y después del uso del equipo de protección
+          personal, para comprobar que continúa proporcionando la protección para la cual fue diseñado;
+   d)     La verificación de que cuando el trabajador esté expuesto a contaminantes del ambiente laboral, el
+          equipo de protección personal que utilice esté diseñado para proteger al trabajador contra dicho
+          agente;
+   e)     El modo seguro de utilizar los equipos y herramientas;
+   f)     La manera en que se deberá realizar la descontaminación o desinfección del equipo de protección
+          personal, según aplique, después de cada jornada de uso, conforme a las instrucciones del
+          fabricante;
+   g)     El mecanismo a seguir para reemplazar o reparar inmediatamente el equipo de protección personal
+          cuando derivado de su revisión muestre algún deterioro, que impida su óptimo funcionamiento, y
+   h)     La forma correcta de realizar el almacenamiento del equipo de protección personal, y en su caso, su
+          disposición final.
+    8.4 El muestreo y monitoreo para detectar atmósferas peligrosas en el espacio confinado deberán
+realizarse de acuerdo con un procedimiento, que incluya lo siguiente:
+   a)     El equipo de medición requerido para llevar a cabo el muestreo y monitoreo, que deberá cumplir las
+          características siguientes:
+          1)   Ser de lectura directa;
+          2)   Contar con alarma de peligro por la detección de una atmósfera peligrosa;
+          3)   Estar protegido contra emisiones electromagnéticas o interferencias de radiofrecuencia, y
+          4)   Ser a prueba de explosión o intrínsecamente seguro;
+   b)     La calibración del equipo de medición de lectura directa de conformidad con las instrucciones o
+          manuales del fabricante;
+   c)     Las pruebas de funcionamiento que deberán realizarse al equipo de medición de lectura directa,
+          antes de su uso, a fin de comprobar su correcto desempeño, con base en las instrucciones del
+          fabricante;
+   d)     La forma en que deberá tomarse la muestra inicial, desde el exterior del espacio confinado;
+   e)     La toma de muestras en varias zonas del espacio confinado, que incluyan, al menos, la parte
+          superior, media y fondo del espacio confinado, a efecto de determinar lo siguiente:
+          1)   El porcentaje de oxígeno;
+          2)   El porcentaje del límite inferior de inflamabilidad y/o explosividad, y
+          3)   Las concentraciones de contaminantes del ambiente laboral tóxicos, y
+   f)     El tiempo y frecuencia para realizar el muestreo mientras se realiza el trabajo, conforme lo determine
+          el patrón, de acuerdo con el análisis de riesgos, para los espacios Tipo I, y el muestreo y monitoreo
+          continuo tratándose de los espacios clasificados como Tipo II.
+    8.5 El plan de trabajo para llevar a cabo las actividades en el espacio confinado deberá contener lo
+siguiente:
+   a)     La descripción de la actividad por desarrollar;
+   b)     El nombre del responsable de los trabajos y del vigía;
+   c)     El nombre de los trabajadores que intervienen en la actividad, que cuenten con la capacitación
+          requerida para efectuar los trabajos, de conformidad con lo que dispone el Capítulo 11 de la
+          presente Norma;
+Lunes 31 de agosto de 2015                   DIARIO OFICIAL                             (Segunda Sección)
+
+d)   El tiempo estimado para realizar la actividad, señalando la hora de inicio y término;
+e)   El lugar donde se desarrollará la actividad;
+f)   La autorización requerida para realizar los trabajos, con base en lo establecido en el numeral 8.6 de
+     esta Norma;
+g)   Los riesgos determinados conforme a lo que prevé el numeral 7.5, de la presente Norma;
+h)   El equipo de protección personal y los equipos, maquinaria, herramientas de trabajo que se requieran
+     para realizar la actividad;
+i)   Las medidas de seguridad que se requieran, de acuerdo con los riesgos que se puedan presentar al
+     desarrollar el trabajo, y
+j)   Los procedimientos de seguridad para realizar las actividades.
+8.6 La autorización para desarrollar trabajos en espacios confinados deberá contener lo siguiente:
+a)   La identificación, ubicación y la clasificación del espacio confinado;
+b)   La fecha y hora de vencimiento de la autorización, que sólo será válida hasta por un turno de trabajo.
+     La autorización se deberá actualizar para cada turno adicional que se requiera;
+c)   Los riesgos identificados, de conformidad con el análisis de riesgos, a que alude el Capítulo 7 de esta
+     Norma;
+d)   La verificación de que ha realizado el aislamiento del espacio confinado considerando, según
+     aplique:
+     1)   El sellado y/o desconexión de las fuentes de energía, fluidos, entre otros;
+     2)   El bloqueo de los equipos o dispositivos eléctricos, con base en lo determinado por la NOM-029-
+          STPS-2011, o las que la sustituyan, y
+     3)   El bloqueo mecánico de equipos, herramientas, conforme a lo que señala la NOM-004-STPS-1999,
+          o las que la sustituyan;
+e)   Las lecturas iniciales de las concentraciones en el espacio confinado, realizadas previo al inicio de
+     las actividades, que indiquen:
+     1)   El porcentaje de oxígeno;
+     2)   El porcentaje del límite inferior de inflamabilidad y/o explosividad, y
+     3)   Las concentraciones de sustancias tóxicas;
+f)   La frecuencia para realizar el muestreo mientras se realiza el trabajo, de acuerdo con lo que
+     determine el patrón para los espacios Tipo I, y el muestreo y monitoreo continuo tratándose de los
+     espacios clasificados como Tipo II;
+g)   La verificación de que el trabajador cuenta con la capacitación requerida para efectuar los trabajos, y
+     sobre la identificación y control de peligros y riesgos;
+h)   Los procedimientos de emergencia y la ubicación del equipo de primeros auxilios y/o rescate;
+i)   El equipo de protección personal requerido, de conformidad con el riesgo al que están expuestos los
+     trabajadores;
+j)   Las instalaciones, herramientas y/o equipos eléctricos a prueba de explosión que se requieran, en su
+     caso;
+k)   El tiempo máximo de permanencia del trabajador en el espacio confinado determinado con base en
+     el análisis de riesgos;
+l)   La hora de entrada y salida del (los) trabajador(es);
+m)   El visto bueno del médico o del responsable de los trabajos sobre la aptitud física del trabajador que
+     ingresará al espacio confinado;
+n)   El nombre y firma del vigía;
+o)   El nombre y firma del responsable de los trabajos, y
+p)   El nombre y firma de la persona que autoriza los trabajos.
+        (Segunda Sección)                        DIARIO OFICIAL                     Lunes 31 de agosto de 2015
+
+   9. Medidas de seguridad para realizar trabajos en espacios confinados
+    9.1 Para realizar trabajos en espacios confinados se deberán adoptar las medidas generales de seguridad
+siguientes:
+   a)     Señalizar la entrada a todos los accesos a los espacios confinados en los que se estén realizando
+          trabajos, conforme a lo dispuesto por la NOM-026-STPS-2008, o las que la sustituyan;
+   b)     Delimitar y controlar el acceso al espacio confinado, así como colocar de forma visible, a la entrada a
+          dicho espacio, la autorización que se haya emitido para la realización de los trabajos correspondientes;
+   c)     Realizar trabajos en espacios confinados, únicamente con trabajadores capacitados y autorizados
+          para ello;
+   d)     Contar con mecanismos de comunicación entre el personal que realiza las actividades en el espacio
+          confinado y el vigía;
+   e)     Disponer, en su caso, de instrucciones específicas para desarrollar trabajos en caliente, que incluyan
+          las medidas de seguridad necesarias y las condiciones bajo las cuales no pueden realizarse;
+   f)     Proveer a los trabajadores de un sistema de protección personal para interrumpir caídas de altura;
+          cuando exista el riesgo de caída de altura, de acuerdo con lo que establece la NOM-009-STPS-2011,
+          o las que la sustituyan;
+   g)     Proporcionar a los trabajadores, como mínimo arnés y línea de rescate para poder extraerlos en caso
+          de emergencia, de forma que estos elementos no constituyan un factor de riesgo, y si así lo
+          determina el análisis de riesgos;
+   h)     Realizar las actividades de soldadura o corte, de conformidad con lo previsto por la NOM-027-STPS-2008,
+          o las que la sustituyan;
+   i)     Cumplir con lo que determina la NOM-029-STPS-2011, o las que la sustituyan, cuando se realicen
+          actividades de mantenimiento a las instalaciones eléctricas dentro del espacio confinado;
+   j)     Dotar a los trabajadores de equipos portátiles para detectar deficiencia de oxígeno, atmósferas
+          inflamables o explosivas, y concentración de contaminantes del ambiente laboral químicos, con base
+          en lo siguiente:
+          1)   Para espacios confinados Tipo I, al menos a uno de los trabajadores. En los casos en que
+               laboren simultáneamente varios grupos de trabajo, con condiciones ambientales distintas, se
+               deberá dotar al menos a un trabajador de cada grupo, con dichos equipos portátiles, y
+          2)   Para espacios confinados Tipo II, se les deberá proporcionar a todos los trabajadores;
+   k)     Utilizar instalaciones, herramientas, luminarias y equipos eléctricos a prueba de explosión, en los
+          espacios confinados donde potencialmente exista presencia o residuos de sustancias inflamables o
+          explosivas;
+   l)     Emplear, en su caso, luminarias de tipo personal con tensiones de seguridad de bajo voltaje, hasta
+          24 volts;
+   m)     Comprobar, en su caso, que se cuente con sistemas de tierras o elementos para drenar la
+          electricidad estática de los equipos y de los trabajadores, en los espacios confinados donde exista
+          riesgo de incendio o explosión;
+   n)     Realizar el muestreo inicial de las concentraciones en la atmósfera del espacio confinado, conforme
+          al procedimiento a que se refiere el numeral 8.4 de la presente Norma;
+   o)     Realizar la comparación de las concentraciones existentes en el espacio confinado con los valores
+          límite de exposición señalados por la NOM-010-STPS-1999, o las que la sustituyan, siempre y
+          cuando se pueda realizar la medición con el equipo de lectura directa, con el objeto de verificar que
+          éstas se encuentran por debajo del nivel de acción y permitan el desarrollo de las actividades de
+          modo seguro;
+   p)     Utilizar equipo de protección respiratoria con línea de suministro de aire o equipo de respiración
+          autónomo, así como el equipo de protección personal adicional con el nivel mayor de protección, de
+          acuerdo con el análisis de riesgos que dispone el numeral 7.4 de esta Norma, cuando no pueda
+          darse cumplimiento a la comparación indicada en el inciso o) de este numeral;
+   Lunes 31 de agosto de 2015                  DIARIO OFICIAL                               (Segunda Sección)
+
+   q)   Mantener una atmósfera respirable por medio de sistemas de ventilación natural o forzada y, cuando
+        esto no sea posible, utilizar equipo de protección respiratoria con línea de suministro de aire o equipo
+        de respiración autónomo, de conformidad con lo establecido por los numerales 9.2, 9.3 y 9.4;
+   r)   Establecer los criterios para interrumpir los trabajos, cuando se presente alguna condición que pueda
+        generar un riesgo;
+   s)   Cancelar la autorización para realizar los trabajos una vez que éstos terminen o se suspendan, en
+        este último caso las actividades podrán reanudarse cuando el responsable de los trabajos verifique
+        que se mantienen las condiciones que indica la autorización, con base en lo que prevé el numeral 8.6
+        de la presente Norma;
+   t)   Interrumpir y prohibir los trabajos cuando en el espacio confinado el porcentaje de inflamabilidad y/o
+        explosividad sea mayor o igual al 10% del límite inferior;
+   u)   Prohibir el acceso al espacio confinado a los trabajadores no aptos para realizar este tipo de
+        actividad (que no tengan el visto bueno del médico o del responsable de los trabajos sobre la aptitud
+        física);
+   v)   Prohibir que se realicen los trabajos cuando no se cuente con los procedimientos de seguridad; no se
+        apliquen las medidas de seguridad, no se cuente con el equipo de protección personal necesario, no
+        se cuente con los materiales, herramientas o equipos necesarios para desarrollar la actividad o se
+        presente cualquier otra anomalía que comprometa la seguridad de los trabajadores;
+   w)   Prohibir que los trabajadores excedan el tiempo máximo de permanencia indicado en la autorización
+        correspondiente;
+   x)   Prohibir que se realice cualquier trabajo en espacios confinados de manera individual, y que su
+        duración exceda un turno de trabajo u ocho horas;
+   y)   Prohibir que menores de 18 años y mujeres en estado de gestación realicen actividades en espacios
+        confinados, y
+   z)   Prohibir que se introduzca maquinaria o equipos de combustión interna al interior de los espacios
+        confinados.
+   9.2 Para realizar las actividades en forma segura en espacios confinados clasificados como Tipo II se
+deberán adoptar las medidas de control técnicas y/o administrativas que correspondan.
+   9.3 Las medidas técnicas de control a que alude el numeral 9.2 de esta Norma deberán comprender,
+según apliquen, las siguientes:
+   a)   Determinar el método por utilizar para la ventilación y/o purga del espacio confinado, conforme al
+        análisis de riesgos, el trabajo por realizar y las características del mismo, evitando contaminar otras
+        áreas del centro de trabajo;
+   b)   Controlar la atmósfera del espacio confinado mediante ventilación y/o purga;
+   c)   Implementar, en su caso, un proceso de limpieza del espacio confinado;
+   d)   Ubicar los controles de los ventiladores a una distancia segura del espacio confinado;
+   e)   Establecer los casos en los que se utilice la ventilación continua, e instalar, en su caso, un dispositivo
+        de advertencia audible para alertar de la ocurrencia de una falla en la ventilación;
+   f)   Verificar, en su caso, que el sistema de ventilación no bloquea el acceso al espacio confinado o limita
+        la comunicación entre el personal que realiza las actividades en el espacio confinado y el vigía;
+   g)   Evitar la recirculación de aire contaminado al interior del espacio confinado;
+   h)   Prohibir que la ventilación se realice a través del uso de oxígeno puro, e indicarlo en el procedimiento
+        de seguridad determinado en el numeral 8.2, de la presente Norma;
+   i)   Efectuar la medición de las concentraciones de la atmósfera del espacio confinado de acuerdo con el
+        procedimiento para la toma de mediciones para detectar atmósferas peligrosas que señala el
+        numeral 8.4, después de realizar la ventilación o purga, y
+   j)   Verificar que los niveles de concentración se encuentren por debajo del nivel de acción, la
+        concentración de oxígeno esté en el rango de 19.5% a 23.5%, y el porcentaje de inflamabilidad sea
+        menor al 10% del límite inferior de inflamabilidad y/o explosividad.
+        (Segunda Sección)                         DIARIO OFICIAL                      Lunes 31 de agosto de 2015
+
+   9.4 En los espacios confinados Tipo II, donde no sea posible mantener atmósferas respirables, se deberán
+adoptar las medidas administrativas de control siguientes:
+   a)     Revisar los tiempos de duración de las actividades, y en su caso, reprogramar las actividades y/o
+          redefinir los tiempos de duración de los trabajos; y
+   b)     Contar y dar seguimiento a un programa de protección respiratoria, que contenga los elementos
+          siguientes:
+          1)   El registro de las mediciones de las concentraciones en el interior del espacio confinado;
+          2)   El suministro de equipo de protección respiratoria de alta eficiencia, y en caso de la existencia de
+               un alta concentración o una concentración inmediatamente peligrosa para la vida y/o la salud,
+               equipo de respiración autónomo o respirador con línea de suministro de aire;
+          3)   Las evaluaciones médicas del personal que requiere utilizar respiradores para el ingreso al
+               espacio confinado, que permitan determinar:
+               I.-   La aptitud del trabajador para usar respiradores de presión negativa y positiva, según
+                     aplique;
+               II.- La capacidad del trabajador para ver y oír advertencias, de conformidad con el sistema de
+                    comunicación y/o alarma con que se cuente, tales como: luces intermitentes, timbres o
+                    sirenas, entre otros;
+               III.- La aptitud del trabajador para llevar a cabo las tareas asignadas, y
+               IV.- La existencia de cualquier enfermedad o anomalía que podrían dificultar el uso del equipo
+                    de protección respiratoria o el desarrollo de las actividades en el interior del espacio
+                    confinado;
+          4)   Los criterios para la selección de los filtros y cartuchos, con base en lo dispuesto por la NOM-
+               116-STPS-2009 y/o las normas mexicanas NMX-S-002-SCFI-2004 y NMX-S-054-SCFI-2013,
+               sobre respiradores, o las que las sustituyan;
+          5)   El procedimiento de revisión de ajuste y prueba de hermeticidad de los respiradores;
+          6)   Las instrucciones para el uso normal y en situaciones de emergencia de los respiradores;
+          7)   Las instrucciones para revisar la calidad, cantidad y flujo del aire que deberá suministrarse al
+               trabajador, en caso de utilizar equipos de respiración autónomos o respiradores con línea de
+               suministro de aire;
+          8)   Las instrucciones de mantenimiento, limpieza, desinfección, cuidado, almacenamiento,
+               inspección, reparación, reemplazo y disposición final de los respiradores, y
+          9)   La capacitación e información al personal que requiere utilizar equipo de protección respiratoria,
+               que incluya las limitaciones para su uso.
+   9.5 El responsable de los trabajos en el espacio confinado deberá cumplir con lo siguiente:
+   a)     Contar con la capacitación requerida para realizar las funciones que determina este numeral;
+   b)     Asegurar que el vigía, que se ubicará en el exterior del espacio, permanezca en todo momento
+          mientras haya personal en el espacio confinado;
+   c)     Comprobar antes del inicio de las actividades, según aplique, que se coloquen medios de bloqueo de
+          energía, fluidos, presión, entre otras, por medio del uso de tarjetas y candados, así como de equipos
+          o dispositivos, conforme a lo que establece la NOM-004-STPS-1999 y la NOM-029-STPS-2011, o las
+          que las sustituyan;
+   d)     Elaborar y/o tramitar la autorización para realizar los trabajos en espacios confinados, así como
+          cancelarla una vez que éstos terminen o se suspendan;
+   e)     Verificar, según aplique, que los trabajadores cuenten con el plan de trabajo y la autorización a que
+          se refieren los numerales 8.5 y 8.6 de esta Norma, respectivamente, y que la autorización se coloque
+          en la entrada del espacio confinado;
+   f)     Supervisar que los trabajos se realicen de modo seguro, de acuerdo con lo previsto por la presente
+          Norma;
+   g)     Vigilar que se evalúen durante el desarrollo de los trabajos las condiciones ambientales de los
+          espacios confinados, con la finalidad de verificar que éstas permitan el desarrollo de las actividades
+          de manera segura;
+   Lunes 31 de agosto de 2015                    DIARIO OFICIAL                            (Segunda Sección)
+
+   h)   Verificar que se cuente con los procedimientos de seguridad, a que alude el Capítulo 8 de esta
+        Norma;
+   i)   Comprobar que se realicen las pruebas o verificaciones a los equipos de medición antes de su uso;
+   j)   Revisar que los recursos para la atención a emergencias estén disponibles antes del inicio de los
+        trabajos en el espacio confinado, y
+   k)   Supervisar que se implemente el plan de atención a emergencias y rescate.
+   9.6 El vigía de los trabajos en el espacio confinado deberá cumplir con lo siguiente:
+   a)   Tener la capacitación requerida para realizar las funciones que determina el presente numeral;
+   b)   Permanecer en todo momento durante la realización de los trabajos fuera del espacio confinado,
+        junto a la entrada, en comunicación con el personal que realiza las actividades en el espacio
+        confinado;
+   c)   Interrumpir los trabajos u ordenar la evacuación del espacio confinado, cuando se presente alguna
+        condición que pueda generar un riesgo grave o inminente, o cualquier otra que ponga en riesgo a los
+        trabajadores o complique la salida de éstos;
+   d)   Mantener un control del número de trabajadores que ingresen al espacio confinado y comprobar que
+        todos salgan una vez que terminen las actividades;
+   e)   Asegurar que no se excedan los tiempos de permanencia en el espacio confinado, y
+   f)   Alertar sobre la ocurrencia de una emergencia al responsable de los trabajos.
+   10. Plan de atención a emergencias y rescate
+   10.1 El plan de atención a emergencias y rescate deberá considerar las situaciones de emergencia que
+puedan presentarse durante los trabajos en el espacio confinado, detectadas en el análisis de riesgos.
+   10.2 El plan de atención a emergencias y rescate deberá contener, al menos, lo siguiente:
+   a)   El alcance del plan de conformidad con los trabajos que se realizan, el tipo de espacio confinado y el
+        análisis de riesgos;
+   b)   Las condiciones en las que el personal de emergencia y de rescate, tanto interno como externo,
+        puede o no ingresar al espacio confinado;
+   c)   El responsable de implementar el plan;
+   d)   Los recursos humanos y materiales para su ejecución, señalando los nombres de los trabajadores
+        designados y capacitados para la aplicación del plan, así como la función que cada uno tiene
+        asignada;
+   e)   La capacitación requerida de los trabajadores en relación con el contenido del plan que considere el
+        tipo de espacio confinado;
+   f)   El equipo de protección personal y de rescate requerido para la atención a emergencias;
+   g)   El inventario de los recursos materiales requeridos y disponibles para enfrentar situaciones de
+        emergencia, y
+   h)   Los procedimientos para:
+        1)   El alertamiento, en caso de ocurrir una emergencia;
+        2)   La comunicación interna y externa en caso de ocurrir una emergencia, junto con el directorio de
+             los servicios de auxilio para la emergencia (bomberos, hospitales y rescate), así como, en su
+             caso, el directorio de los centros de información de manejo de sustancias químicas en casos de
+             emergencia;
+        3)   La interrupción del funcionamiento de la maquinaria y equipo;
+        4)   La suspensión de las actividades;
+        5)   El rescate de trabajadores accidentados;
+        6)   La evacuación de los trabajadores que se encuentren en riesgo, de acuerdo con la(s)
+             situación(es) de emergencia que puedan presentarse, incluidos los trabajadores y personas con
+             discapacidad que no laboran en el espacio confinado y que se presuma se encuentran en riesgo;
+        7)   Los primeros auxilios, y
+        8)   La eliminación de los riesgos después de la emergencia, en su caso.
+        (Segunda Sección)                        DIARIO OFICIAL                     Lunes 31 de agosto de 2015
+
+   11. Capacitación
+    11.1 La información que se proporcione a los trabajadores deberá contemplar el resultado del análisis de
+riesgos de cada uno de los espacios confinados.
+    11.2 A los trabajadores involucrados en la realización de actividades en espacios confinados se les deberá
+proporcionar capacitación, con énfasis en la prevención de riesgos, con base en el tipo de espacio confinado y
+las tareas asignadas, así como sobre el plan de atención a emergencias y rescate.
+    11.3 La capacitación y adiestramiento proporcionados a los trabajadores deberá consistir en una
+instrucción teórica, entrenamiento práctico y evaluación de los conocimientos y habilidades adquiridos, y
+considerar lo siguiente:
+   a)     El contenido de la presente Norma, con énfasis en la aplicación de las medidas de seguridad;
+   b)     Los peligros y riesgos presentes en el espacio confinado;
+   c)     Los riesgos derivados de las propiedades de las sustancias químicas presentes en el espacio confinado;
+   d)     Los efectos que pueden ocasionar la exposición a las sustancias químicas y los correspondientes
+          peligros físicos y a la salud;
+   e)     La forma de trabajar en forma segura, los procedimientos de seguridad y las autorizaciones
+          requeridas para desarrollar la actividad;
+   f)     La forma correcta de operar, revisar y resguardar, en su caso, los equipos de ventilación que se
+          instalen o se utilicen para los trabajos en espacios confinados;
+   g)     El programa de protección respiratoria, en su caso;
+   h)     El uso del equipo de protección respiratoria, que incluya las limitaciones para su uso;
+   i)     El correcto uso del equipo de protección personal, conforme a lo que determina la NOM-017-STPS-2008,
+          o las que la sustituyan;
+   j)     El uso, manejo y lectura de equipo de medición personal, y
+   k)     La aplicación del plan de atención a emergencias y rescate, incluyendo la realización de simulacros
+          sobre las posibles situaciones de emergencia que puedan presentarse, previstas en el análisis de
+          riesgos.
+    11.4 De forma adicional a lo dispuesto en los numerales 11.2 y 11.3, al responsable y al vigía de los
+trabajos en espacios confinados, se les deberá capacitar, adiestrar y evaluar en los temas siguientes:
+   a)    El procedimiento para el muestreo de las concentraciones de la atmósfera del espacio confinado;
+   b)    La evaluación de las concentraciones obtenidas;
+   c)    Los casos en los que se deberán suspender las actividades, y
+   d)    Las acciones específicas que deberán desarrollar para la atención de emergencias y rescate.
+    11.5 A los trabajadores que sean miembros del equipo o brigada de rescate se les deberá capacitar de
+modo específico en el plan de atención a emergencias y rescate, con énfasis en el uso de equipo de
+protección personal y de rescate, así como en la aplicación de los procedimientos a que se refiere dicho plan.
+   11.6 La capacitación y adiestramiento deberá reforzarse por lo menos una vez al año o antes cuando se
+presente cualquiera de las circunstancias siguientes:
+   a)     Se introduzcan herramientas, equipo nuevo o se modifiquen las condiciones del interior del espacio
+          confinado;
+   b)     Haya ocurrido un incidente o accidente;
+   c)     Se evidencie una operación insegura del equipo, o
+   d)     Así lo sugiera la última evaluación aplicada a los trabajadores que realizan actividades en espacios
+          confinados.
+   Lunes 31 de agosto de 2015                     DIARIO OFICIAL                          (Segunda Sección)
+
+    11.7 Los centros de trabajo deberán llevar el registro de la capacitación y adiestramiento que proporcionen
+a los trabajadores, el cual deberá contener, al menos, lo siguiente:
+   a)    El nombre y puesto de los trabajadores a los que se les proporcionó;
+   b)    La fecha en que se proporcionó la capacitación;
+   c)    Los temas impartidos, y
+   d)    El nombre del instructor y, tratándose de agentes capacitadores externos al centro de trabajo, el
+         número de registro ante la Secretaría del Trabajo y Previsión Social.
+   12. Unidades de verificación
+    12.1 El patrón tendrá la opción de contratar una unidad de verificación acreditada y aprobada, en los
+términos de la Ley Federal sobre Metrología y Normalización y su Reglamento, para verificar el grado de
+cumplimiento con esta Norma.
+    12.2 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los
+criterios de cumplimiento que prevé el procedimiento para la evaluación de la conformidad, de acuerdo con lo
+señalado en el Capítulo 13 de la misma.
+   12.3 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento con esta Norma
+deberán emitir un dictamen, el cual habrá de contener:
+   a)   Datos del centro de trabajo verificado:
+         1)   El nombre, denominación o razón social;
+         2)   El Registro Federal de Contribuyentes;
+         3)   El domicilio completo;
+         4)   El teléfono, y
+         5)   Su actividad principal;
+   b)   Datos de la unidad de verificación:
+         1)   El nombre, denominación o razón social;
+         2)   El número de acreditación;
+         3)   El número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social, y
+         4)   Su domicilio completo, y
+   c)   Datos del dictamen:
+         1)   La clave y nombre de la norma;
+         2)   El nombre del verificador evaluado y aprobado;
+         3)   La fecha de verificación;
+         4)   El número de dictamen;
+         5)   La vigencia del dictamen;
+         6)   El lugar de emisión del dictamen;
+         7)   La fecha de emisión del dictamen, y
+         8)   El número de registro del dictamen emitido por la Secretaría del Trabajo y Previsión Social, al
+              rendirse el informe respectivo.
+   12.4 La vigencia de los dictámenes emitidos por las unidades de verificación será de un año, siempre y
+cuando no sean modificadas las condiciones que sirvieron para su emisión.
+   13. Procedimiento para la evaluación de la conformidad
+    13.1 Este procedimiento para la evaluación de la conformidad aplica tanto a las visitas de inspección
+desarrolladas por la autoridad laboral, como a las visitas de verificación que realicen las unidades de
+verificación.
+    13.2 El dictamen de verificación vigente deberá estar a disposición de la autoridad laboral cuando ésta lo
+solicite.
+   13.3 Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se realizará,
+según aplique, mediante la constatación física, revisión documental, registros o entrevistas, de conformidad
+con lo siguiente:
+      (Segunda Sección)                      DIARIO OFICIAL                         Lunes 31 de agosto de 2015
+
+                   Tipo de
+Disposición                            Criterio de aceptación               Observaciones             Riesgo
+                comprobación
+
+5.1            Documental      El patrón cumple cuando presenta           Este    requerimiento
+                               evidencia documental de que identifica     se cumple mediante
+                               los espacios confinados en donde se        un listado que indica
+                               requiere el acceso del trabajador para     los          espacios
+                               realizar cualquier tipo de actividad.      confinados del centro
+                                                                          de trabajo donde se
+                                                                          requiere el acceso
+                                                                          del trabajador.
+5.2 y 7        Documental      El patrón cumple cuando        presenta
+                               evidencia documental de que:
+                                                                                                  Grave
+                                  Clasifica el espacio confinado y
+                                   cuenta con un análisis de riesgos
+                                   previo     al    acceso    de    los
+                                   trabajadores, que contempla, según
+                                   aplique, los riesgos por atmósferas
+                                   peligrosas, por agentes físicos o
+                                   biológicos, así como los relativos a
+                                   las actividades por desarrollar,
+                                  Realiza     un     muestreo     para                           Grave
+                                   determinar      la   existencia    o
+                                   inexistencia de una atmósfera
+                                   peligrosa, previo al inicio de los
+                                   trabajos en el espacio confinado, de
+                                   acuerdo con lo establecido por el
+                                   numeral 8.4 de la presente Norma;
+                                  Toma como referencia para realizar
+                                   la clasificación de los espacios
+                                   confinados, los valores límite de
+                                   exposición determinados por la
+                                   NOM-010-STPS-1999, o las que las
+                                   sustituyan, así como la información
+                                   de las hojas de datos de seguridad
+                                   respectivas, con base en lo que
+                                   señala la NOM-018-STPS-2000, o
+                                   las que la sustituyan;
+
+                                  Clasifica en Tipo I o Tipo II los                              Grave
+                                   espacios confinados, a partir de los
+                                   resultados del muestreo a que se
+                                   refiere   el   numeral    7.2     de
+                                   conformidad con lo que prevé la
+                                   Tabla 1 de esta Norma, de la
+                                   manera siguiente:
+                                       En Tipo I al espacio confinado
+                                        en el que no existe riesgo por
+                                        deficiencia o enriquecimiento
+                                        de oxígeno, ni atmósferas
+                                        explosivas o inflamables, y en
+                                        el que las concentraciones de
+                                        sustancias            químicas
+                                        peligrosas son inferiores al
+                                        nivel de acción. Se clasificará
+                                        el espacio confinado en este
+                                        tipo si se cumplen los tres
+                                        criterios de la Tabla 1 de la
+                                        presente Norma, y
+Lunes 31 de agosto de 2015                  DIARIO OFICIAL                        (Segunda Sección)
+
+                                     En Tipo II al espacio confinado
+                                      que   tiene el         potencial de
+                                      causar          lesiones              y/o
+                                      enfermedades de trabajo, e
+                                      incluso     puede         ser
+                                      inmediatamente peligroso para
+                                      la vida y la salud. En éstos se
+                                      puede          presentar              una
+                                      atmósfera        peligrosa.           Se
+                                      clasificará           el        espacio
+                                      confinado en este tipo si, al
+                                      menos, se cumple uno de los
+                                      criterios de la Tabla 1 de esta
+                                      Norma;
+
+                                Realiza un análisis de riesgos para                Grave
+                                 cada espacio confinado donde se
+                                 desarrollan trabajos, y para cada
+                                 trabajo por efectuar en dichos
+                                 espacios confinados;
+
+                                El análisis de riesgos es elaborado
+                                 por personal         que cuenta con
+                                 capacitación       sobre        análisis    de
+                                 riesgos en espacios confinados;
+
+                                El análisis de riesgos considera, al               Grave
+                                 menos, lo siguiente:
+
+                                     La        descripción         de      las
+                                      actividades por desarrollar;
+
+                                     Los riesgos por atmósferas
+                                      peligrosas:
+
+                                      o     Asfixia,     debido     a
+                                            deficiencia de oxígeno;
+
+                                      o     Incendio o explosión, por
+                                            enriquecimiento         de
+                                            oxígeno o por sustancias
+                                            con concentraciones con
+                                            porcentaje mayor o igual
+                                            que el 10% del límite
+                                            inferior de inflamabilidad
+                                            y/o explosividad, e
+
+                                      o     Intoxicación, con motivo
+                                            de concentraciones de
+                                            sustancias        químicas
+                                            peligrosas, conforme a la
+                                            información de las hojas
+                                            de datos de seguridad
+                                            respectivas, de acuerdo
+                                            con lo dispuesto por la
+                                            NOM-018-STPS-2000, o
+                                            las que la sustituyan;
+
+                                                   Por los materiales
+                                                    que se introducen
+                                                    para efectuar las
+(Segunda Sección)           DIARIO OFICIAL                Lunes 31 de agosto de 2015
+
+                                 actividades;
+                                Por los productos o
+                                 desechos que se
+                                 generan    por     el
+                                 trabajo que se lleva
+                                 a cabo;
+                                Por     áreas       o
+                                 procesos
+                                 adyacentes en los
+                                 que se manejen,
+                                 procesen            o
+                                 almacenen
+                                 sustancias tóxicas, y
+                                Por las sustancias
+                                 químicas peligrosas
+                                 que    contiene   o
+                                 contuvo el espacio
+                                 confinado;
+                       Los riesgos     por     agentes
+                        físicos:
+                        o   Ruido;
+                        o   Iluminación;
+                        o   Vibraciones, y
+                        o   Condiciones      térmicas
+                            elevadas o abatidas;
+                       Los riesgos por agentes
+                        biológicos, tales como la
+                        presencia de fauna nociva o
+                        agentes biológicos peligrosos;
+                       Los      riesgos   mecánicos,
+                        eléctricos o neumáticos;
+                       Los riesgos derivados de las
+                        actividades a desarrollar que
+                        contemplan, según aplique, lo
+                        siguiente:
+                        o   La maquinaria, equipo,
+                            herramientas y materiales
+                            en el lugar de trabajo,
+                            con énfasis en las
+                            características         y
+                            condiciones de seguridad
+                            y operación en que se
+                            deben encontrar;
+                        o   Los peligros y factores de
+                            riesgo existentes por las
+                            actividades a desarrollar
+                            y los que se originen en
+                            las inmediaciones del
+                            espacio confinado por
+                            otras actividades, tales
+                            como conexión de la
+                            energía, operación de
+                            maquinaria o equipo,
+                            restablecimiento de flujo
+                            de              sustancias,
+                            inundaciones,        entre
+                            otras, y
+                        o   La realización de trabajos
+                            en altura;
+
+                       Los riesgos derivados de las
+                        características del espacio
+                        confinado, entre otros:
+                        o   Por las condiciones en
+Lunes 31 de agosto de 2015                 DIARIO OFICIAL                 (Segunda Sección)
+
+                                           las que se encuentran las
+                                           superficies del espacio
+                                           confinado:      inestables,
+                                           húmedas,       resbalosas,
+                                           entre otras, y
+                                      o    Por la existencia de
+                                           material       granulado
+                                           finamente dividido o de
+                                           tal forma que pueda
+                                           ocasionar el riesgo de
+                                           hundimiento o inmersión
+                                           en dicho material;
+                                     El   tiempo      estimado de
+                                      duración de las actividades
+                                      por desarrollar;
+                                     El    tiempo     máximo    de
+                                      permanencia del trabajador en
+                                      el espacio confinado, y
+                                     Las posibles situaciones de
+                                      emergencia      que     puedan
+                                      presentarse      durante      el
+                                      desarrollo de los trabajos en el
+                                      espacio confinado;
+                                El análisis de riesgos considera los       Grave
+                                 casos en los que un espacio
+                                 confinado clasificado inicialmente
+                                 como Tipo I, puede convertirse en
+                                 un espacio confinado Tipo II, como
+                                 consecuencia de las actividades
+                                 que en él se desarrollan;
+                                El análisis de riesgos está:
+                                     Disponible       para      los
+                                      trabajadores que participan o
+                                      realizan    actividades     en
+                                      espacios confinados, y
+                                     Aprobado y firmado por el
+                                      patrón, o su representante, y
+                                      el responsable de los servicios
+                                      preventivos de seguridad y
+                                      salud en el trabajo;
+                                El análisis de riesgos se revisa,
+                                 actualiza o modifica cuando:
+                                     Se introducen herramientas,
+                                      equipo o sustancias nuevas;
+                                     Se modifican las condiciones
+                                      del   interior del  espacio
+                                      confinado;
+                                     Ocurrió    un     incidente    o
+                                      accidente, o
+                                     Se detecta algún riesgo no
+                                      previsto en los procedimientos
+                                      de seguridad, y
+
+                                A partir del resultado del análisis de
+                                 riesgos determina las medidas de
+                                 prevención y control aplicables a
+                                 los riesgos detectados, las cuales
+                                 contemplan      las    medidas      de
+                                 seguridad establecidas en el
+                                 Capítulo 9 de la presente Norma.
+      (Segunda Sección)                    DIARIO OFICIAL                  Lunes 31 de agosto de 2015
+
+5.2 y 7.6 a)   Física       El patrón cumple cuando, al realizar un
+                            recorrido por el centro de trabajo, se
+                            constata que el análisis de riesgos está
+                            disponible para consulta de los
+                            trabajadores que participan o realizan
+                            actividades en espacios confinados.
+               Entrevista   El patrón cumple cuando, al entrevistar a
+                            los trabajadores seleccionados de
+                            acuerdo con el criterio muestral de la
+                            Tabla 2 del numeral 13.4, se constata
+                            que el análisis de riesgos está disponible
+                            para consulta de los trabajadores que
+                            participan o realizan actividades en
+                            espacios confinados.
+5.3, 8.1, 8.2, Documental   El patrón cumple cuando          presenta
+8.3 y 8.4                   evidencia documental de que:
+                                Cuenta con procedimientos         de
+                                 seguridad, actualizados, para:
+                                     Las actividades a desarrollar;
+                                     El   uso   de      equipos       y
+                                      herramientas, y
+                                     El muestreo y monitoreo para
+                                      detectar         atmósferas
+                                      peligrosas;
+                                El procedimiento de seguridad para
+                                 las actividades a desarrollar en los
+                                 espacios confinados considera lo
+                                 siguiente:
+                                     Los       mecanismos      de
+                                      comunicación        entre  el
+                                      personal que realiza las
+                                      actividades en el espacio
+                                      confinado y el vigía;
+                                     La forma de mantener una
+                                      atmósfera respirable, o de lo
+                                      contrario, la obligatoriedad de
+                                      utilizar equipo de protección
+                                      respiratoria con línea de
+                                      suministro de aire o equipo de
+                                      respiración autónomo. Cuando
+                                      se emplea un respirador con
+                                      línea de suministro de aire se
+                                      cuenta con un medio de
+                                      respiración     alterno    para
+                                      escape       en     caso     de
+                                      emergencia;
+                                     La información, en su caso, de
+                                      las hojas de datos de
+                                      seguridad de las sustancias
+                                      químicas peligrosas que se
+                                      manejan, de conformidad con
+                                      lo que establece la NOM-018-
+                                      STPS-2000, o las que la
+                                      sustituyan;
+
+                                     Las medidas específicas de
+                                      seguridad    por     adoptar,
+                                      adicionales  a    las    que
+                                      determina el Capítulo 9 de
+                                      esta Norma;
+                                     Los criterios para evitar o
+                                      interrumpir las actividades,
+                                      cuando se compromete la
+Lunes 31 de agosto de 2015                DIARIO OFICIAL                (Segunda Sección)
+
+                                     seguridad o salud de         los
+                                     trabajadores;
+                                    El   tiempo    estimado  de
+                                     duración de las actividades
+                                     por desarrollar y el tiempo
+                                     máximo de permanencia;
+                                    La aplicación, antes del inicio
+                                     de las actividades, de medios
+                                     de bloqueo de flujo de
+                                     sustancias, tales como los
+                                     conducidos en tuberías y/o de
+                                     energía, a través del uso de
+                                     tarjetas y candados, así como
+                                     de equipos o dispositivos, con
+                                     base en lo señalado por la
+                                     NOM-004-STPS-1999 y la
+                                     NOM-029-STPS-2011, o las
+                                     que las sustituyan, y
+                                    El plan de atención a
+                                     emergencias y rescate para
+                                     posibles       trabajadores
+                                     accidentados;
+                                Los procedimientos de seguridad
+                                 para el uso de los equipos y
+                                 herramientas en las actividades que
+                                 se    desarrollan   en     espacios
+                                 confinados consideran:
+                                    Las       indicaciones      del
+                                     fabricante;
+                                    Las       instrucciones     para
+                                     verificar       su      correcto
+                                     funcionamiento;
+                                    El uso, manejo, limitaciones,
+                                     revisión y mantenimiento del
+                                     equipo de protección personal
+                                     y la información sobre la
+                                     capacidad    o    grado     de
+                                     protección que éste ofrece, así
+                                     como las condiciones en las
+                                     que no proporciona protección
+                                     o donde no se use;
+                                    Las acciones por realizar
+                                     antes, durante y después del
+                                     uso del equipo de protección
+                                     personal, para comprobar que
+                                     continúa proporcionando la
+                                     protección para la cual fue
+                                     diseñado;
+
+                                    La verificación de que cuando
+                                     el trabajador está expuesto a
+                                     contaminantes del ambiente
+                                     laboral,    el    equipo     de
+                                     protección personal que utilice
+                                     esté diseñado para proteger al
+                                     trabajador     contra    dicho
+                                     agente;
+                                    El modo seguro de utilizar los
+                                     equipos y herramientas;
+(Segunda Sección)                 DIARIO OFICIAL                          Lunes 31 de agosto de 2015
+
+                            La manera de realizar la
+                             descontaminación              o
+                             desinfección del equipo de
+                             protección personal, según
+                             aplique, después de cada
+                             jornada de uso, conforme a las
+                             instrucciones del fabricante;
+                            El mecanismo a seguir para
+                             reemplazar      o     reparar
+                             inmediatamente el equipo de
+                             protección personal cuando
+                             derivado de su revisión
+                             muestra algún deterioro, que
+                             impide       su        óptimo
+                             funcionamiento, y
+                            La forma correcta de realizar
+                             el almacenamiento del equipo
+                             de protección personal, y en
+                             su caso, su disposición final, y
+                       El procedimiento para el muestreo
+                        y    monitoreo      para     detectar
+                        atmósferas peligrosas en el espacio
+                        confinado incluye lo siguiente:
+                            El    equipo    de    medición  Esta disposición se
+                             requerido para llevar a cabo el cumple cuando el
+                             muestreo y monitoreo, que       patrón cuenta con la
+                             cumpla las características      garantía              del
+                             siguientes:                     fabricante      o     un
+                                                             certificado     emitido
+                             o    Ser de lectura directa;
+                                                             por       éste,      que
+                             o    Contar con alarma de indiquen            que      el
+                                  peligro por la detección equipo cumple con
+                                  de      una     atmósfera las       características
+                                  peligrosa;                 señaladas en este
+                                                             numeral.
+                             o    Estar protegido contra
+                                  emisiones
+                                  electromagnéticas        o
+                                  interferencias          de
+                                  radiofrecuencia, y
+                             o    Ser     a   prueba    de
+                                  explosión               o
+                                  intrínsecamente seguro;
+                            La calibración del equipo de
+                             medición de lectura directa de
+                             conformidad       con       las
+                             instrucciones o manuales del
+                             fabricante;
+
+                            Las         pruebas           de
+                             funcionamiento que realizan al
+                             equipo de medición de lectura
+                             directa, antes de su uso, a fin
+                             de comprobar su correcto
+                             desempeño, con base en las
+                             instrucciones del fabricante;
+                            La forma de tomarse la
+                             muestra inicial, desde el
+                             exterior del espacio confinado;
+                            La toma de muestras en varias
+                             zonas del espacio confinado,
+  Lunes 31 de agosto de 2015                  DIARIO OFICIAL                (Segunda Sección)
+
+                                         que incluyan, al menos, la
+                                         parte superior, media y fondo
+                                         del espacio confinado, a
+                                         efecto de determinar:
+                                         o    El porcentaje de oxígeno;
+                                         o    El porcentaje del límite
+                                              inferior de inflamabilidad
+                                              y/o explosividad, y
+                                         o    Las concentraciones de
+                                              contaminantes         del
+                                              ambiente laboral tóxicos,
+                                              y
+                                        El tiempo y frecuencia para
+                                         realizar el muestreo mientras
+                                         se realiza el trabajo, conforme
+                                         lo que él determinó, de
+                                         acuerdo con el análisis de
+                                         riesgo, para los espacios Tipo
+                                         I, y el muestreo y monitoreo
+                                         continuo tratándose de los
+                                         espacios clasificados como
+                                         Tipo II.
+
+5.3 y 8.1      Física          El patrón cumple cuando, al realizar un
+                               recorrido por el centro de trabajo, se
+                               constata que los procedimientos de
+                               seguridad para las actividades a
+                               desarrollar; el uso de equipos y
+                               herramientas, y el muestreo y monitoreo
+                               para detectar atmósferas peligrosas
+                               están disponibles para los trabajadores
+                               involucrados en las actividades en
+                               espacios confinados.
+
+               Entrevista      El patrón cumple cuando, al entrevistar a
+                               los trabajadores seleccionados de
+                               acuerdo con el criterio muestral de la
+                               Tabla 2 del numeral 13.4, se constata
+                               que los procedimientos de seguridad
+                               para las actividades a desarrollar; el uso
+                               de equipos y herramientas, y el
+                               muestreo y monitoreo para detectar
+                               atmósferas peligrosas están disponibles
+                               para los trabajadores involucrados en las
+                               actividades en espacios confinados.
+
+5.4 y 8.5      Documental      El patrón cumple cuando          presenta
+                               evidencia documental de que:
+                                   Dispone de un plan de trabajo
+                                    específico para realizar trabajos en
+                                    espacios confinados, y
+                                   El plan de trabajo para llevar a cabo
+                                    las actividades en el espacio
+                                    confinado contiene lo siguiente:
+                                        La descripción de la actividad
+                                         por desarrollar;
+                                        El nombre del responsable de
+                                         los trabajos y del vigía;
+                                        El nombre de los trabajadores
+                                         que   intervienen    en     la
+      (Segunda Sección)                   DIARIO OFICIAL                Lunes 31 de agosto de 2015
+
+                                     actividad, y que cuentan con la
+                                     capacitación requerida para
+                                     efectuar los trabajos, de
+                                     conformidad con lo que
+                                     dispone el Capítulo 11 de la
+                                     presente Norma;
+                                    El tiempo estimado para
+                                     realizar la actividad, señalando
+                                     la hora de inicio y término;
+                                    El lugar donde se desarrolla la
+                                     actividad;
+                                    La autorización requerida para
+                                     realizar los trabajos, con base
+                                     en lo establecido en el
+                                     numeral 8.6 de esta Norma;
+                                    Los riesgos determinados
+                                     conforme a lo que prevé el
+                                     numeral 7.5, de la presente
+                                     Norma;
+                                    El equipo de protección
+                                     personal y los equipos,
+                                     maquinaria, herramientas de
+                                     trabajo que se requieran para
+                                     realizar la actividad;
+                                    Las medidas de seguridad que
+                                     se requieran, de acuerdo con
+                                     los riesgos que se puedan
+                                     presentar al desarrollar el
+                                     trabajo, y
+                                    Los      procedimientos  de
+                                     seguridad para realizar las
+                                     actividades.
+
+5.5 y 8.6      Documental   El patrón cumple cuando        presenta                Grave
+                            evidencia documental de que:
+                               Expide autorizaciones por escrito a
+                                los trabajadores, para la realización
+                                de trabajos en espacios confinados,
+                                y
+                               La autorización para desarrollar
+                                trabajos en espacios confinados
+                                contiene lo siguiente:
+
+                                    La identificación, ubicación y
+                                     la clasificación del espacio
+                                     confinado;
+
+                                    La     fecha   y    hora    de
+                                     vencimiento de la autorización,
+                                     que sólo es válida hasta por
+                                     un turno de trabajo, la
+                                     autorización se actualiza para
+                                     cada turno adicional que se
+                                     requiera;
+                                    Los riesgos identificados, de
+                                     conformidad con el análisis de
+                                     riesgos, a que alude el
+                                     Capítulo 7 de esta Norma;
+                                    La verificación de que se
+                                     realizó el aislamiento del
+Lunes 31 de agosto de 2015           DIARIO OFICIAL                 (Segunda Sección)
+
+                                 espacio            confinado
+                                 considerando, según aplique:
+
+                                 o    El        sellado       y/o
+                                      desconexión       de    las
+                                      fuentes      de    energía,
+                                      fluidos, entre otros;
+
+                                 o    El bloqueo de los equipos
+                                      o dispositivos eléctricos,
+                                      con     base      en    lo
+                                      determinado por la NOM-
+                                      029-STPS-2011, o las
+                                      que la sustituyan, y
+                                 o    El bloqueo mecánico de
+                                      equipos,     herramientas,
+                                      conforme a lo que señala
+                                      la NOM-004-STPS-1999,
+                                      o las que la sustituyan;
+
+                                Las lecturas iniciales de las
+                                 concentraciones en el espacio
+                                 confinado, realizadas previo al
+                                 inicio de las actividades, que
+                                 indican:
+
+                                 o    El porcentaje de oxígeno;
+
+                                 o    El porcentaje del límite
+                                      inferior de inflamabilidad
+                                      y/o explosividad, y
+
+                                 o    Las concentraciones de
+                                      sustancias tóxicas;
+
+                                La frecuencia para realizar el
+                                 muestreo mientras se realiza
+                                 el trabajo, de acuerdo con lo
+                                 determinado por él, para los
+                                 espacios Tipo I, y el muestreo
+                                 y       monitoreo     continuo
+                                 tratándose de los espacios
+                                 clasificados como Tipo II;
+
+                                La verificación de que el
+                                 trabajador cuenta con la
+                                 capacitación requerida para
+                                 efectuar los trabajos, y sobre
+                                 la identificación y control de
+                                 peligros y riesgos;
+                                Los     procedimientos    de
+                                 emergencia y la ubicación del
+                                 equipo de primeros auxilios
+                                 y/o rescate;
+                                El equipo de protección
+                                 personal      requerido, de
+                                 conformidad con el riesgo al
+                                 que están expuestos los
+                                 trabajadores;
+                                Las              instalaciones,
+                                 herramientas    y/o    equipos
+                                 eléctricos  a     prueba    de
+                                 explosión que se requieran, en
+     (Segunda Sección)                 DIARIO OFICIAL                Lunes 31 de agosto de 2015
+
+                                  su caso;
+                                 El    tiempo     máximo     de
+                                  permanencia del trabajador en
+                                  el      espacio      confinado
+                                  determinado con base en el
+                                  análisis de riesgos;
+                                 La hora de entrada y salida del
+                                  (los) trabajador(es);
+                                 El visto bueno del médico o
+                                  del    responsable     de    los
+                                  trabajos sobre la aptitud física
+                                  del trabajador que ingresará al
+                                  espacio confinado;
+                                 El nombre y firma del vigía;
+                                 El nombre y firma del
+                                  responsable de los trabajos, y
+                                 El nombre y firma de la
+                                  persona que autoriza los
+                                  trabajos.
+
+5.6, 9.1, 9.2 y Física   El patrón cumple cuando, al realizar un                Grave
+9.3                      recorrido por el centro de trabajo, se
+                         constata que:
+                            Adopta para realizar trabajos en
+                             espacios confinados las medidas
+                             generales de seguridad siguientes:
+                                 Señaliza la entrada a todos los
+                                  accesos a los espacios
+                                  confinados en los que se
+                                  estén realizando trabajos,
+                                  conforme a lo dispuesto por la
+                                  NOM-026-STPS-2008, o las
+                                  que la sustituyan;
+                                 Delimita y controla el acceso
+                                  al espacio confinado;
+
+                                 Coloca de forma visible, a la
+                                  entrada a dicho espacio, la
+                                  autorización que se haya
+                                  emitido para la realización de
+                                  los trabajos correspondientes;
+                                 Cuenta con mecanismos de
+                                  comunicación        entre el
+                                  personal que realiza las
+                                  actividades en el espacio
+                                  confinado y el vigía;
+                                 Provee a los trabajadores de
+                                  un sistema de protección
+                                  personal     para    interrumpir
+                                  caídas de altura; cuando
+                                  existe el riesgo de caída de
+                                  altura, de acuerdo con lo que
+                                  establece la NOM-009-STPS-
+                                  2011, o las que la sustituyan;
+                                 Proporciona        a      los
+                                  trabajadores, como mínimo
+                                  arnés y línea de rescate para
+                                  poder extraerlos en caso de
+                                  emergencia, de forma que
+                                  estos       elementos      no
+Lunes 31 de agosto de 2015            DIARIO OFICIAL                                   (Segunda Sección)
+
+                                 constituyen un factor de
+                                 riesgo, y si así lo determina el
+                                 análisis de riesgos;
+                                Realiza las actividades de
+                                 soldadura     o     corte de
+                                 conformidad con lo previsto
+                                 por la NOM-027-STPS-2008, o
+                                 las que la sustituyan;
+                                Cumple con lo que determina
+                                 la NOM-029-STPS-2011, o las
+                                 que la sustituyan, cuando se
+                                 realizan     actividades     de
+                                 mantenimiento         a     las
+                                 instalaciones eléctricas dentro
+                                 del espacio confinado;
+                                Dota a los trabajadores de
+                                 equipos       portátiles    para
+                                 detectar      deficiencia     de
+                                 oxígeno,              atmósferas
+                                 inflamables o explosivas, y
+                                 concentración                 de
+                                 contaminantes del ambiente
+                                 laboral químicos, con base en
+                                 lo siguiente:
+                                 o    Para espacios confinados
+                                      Tipo I, al menos a uno de
+                                      los trabajadores. En los
+                                      casos en que laboran
+                                      simultáneamente varios
+                                      grupos de trabajo, con
+                                      condiciones ambientales
+                                      distintas, dota al menos a
+                                      un trabajador de cada
+                                      grupo,      con     dichos
+                                      equipos portátiles, y
+                                 o    Para espacios confinados
+                                      Tipo II, se les proporciona
+                                      a todos los trabajadores;
+
+                                Utiliza            instalaciones,Esta disposición se
+                                 herramientas, luminarias y       cumple cuando el
+                                 equipos eléctricos a prueba de   patrón cuenta con la
+                                 explosión, en los espacios       garantía            del
+                                 confinados                 donde fabricante      o    un
+                                 potencialmente             existecertificado     emitido
+                                 presencia o residuos de          por      éste,     que
+                                 sustancias     inflamables      oindiquen que las
+                                 explosivas;                      instalaciones,
+                                                                  herramientas,
+                                Emplea,       en    su     caso,
+                                                                  luminarias, equipos
+                                 luminarias de tipo personal
+                                                                  eléctricos     son    a
+                                 con tensiones de seguridad de
+                                                                  prueba de explosión.
+                                 bajo voltaje, hasta 24 volts;
+                                Comprueba, en su caso, que
+                                 se cuenta con sistemas de
+                                 tierras o elementos para
+                                 drenar la electricidad estática
+                                 de los equipos y de los
+                                 trabajadores, en los espacios
+                                 confinados     donde     existe
+                                 riesgo de incendio o explosión;
+                                Utiliza equipo de protección
+                                 respiratoria con línea de
+                                 suministro de aire o equipo de
+(Segunda Sección)            DIARIO OFICIAL                Lunes 31 de agosto de 2015
+
+                        respiración autónomo, así
+                        como el equipo de protección
+                        personal adicional con el nivel
+                        mayor de protección, de
+                        acuerdo con el análisis de
+                        riesgos    que     dispone   el
+                        numeral 7.4 de esta Norma,
+                        cuando no pueda darse
+                        cumplimiento          a      la
+                        comparación indicada en el
+                        inciso o) de este numeral;
+                       Mantiene      una    atmósfera
+                        respirable por medio de
+                        sistemas de ventilación natural
+                        o forzada y, cuando esto no es
+                        posible, utiliza equipo de
+                        protección respiratoria con
+                        línea de suministro de aire o
+                        equipo      de      respiración
+                        autónomo, de conformidad
+                        con lo establecido por los
+                        numerales 9.2, 9.3 y 9.4;
+                       Cancela la autorización para
+                        realizar los trabajos una vez
+                        que éstos terminan o se
+                        suspenden, en este último
+                        caso las actividades sólo se
+                        reanudan        cuando      el
+                        responsable de los trabajos
+                        verifica que se mantienen las
+                        condiciones que indica la
+                        autorización, con base en lo
+                        que prevé el numeral 8.6 de la
+                        presente Norma;
+
+                       Interrumpe y prohíbe los
+                        trabajos cuando en el espacio
+                        confinado el porcentaje de
+                        inflamabilidad y/o explosividad
+                        es mayor o igual al 10% del
+                        límite inferior;
+                       Prohíbe el acceso al espacio
+                        confinado a los trabajadores
+                        no aptos para realizar este tipo
+                        de actividad (que no tengan el
+                        visto bueno del médico o del
+                        responsable de los trabajos
+                        sobre la aptitud física);
+                       Prohíbe que se realicen
+                        trabajos cuando no se cuenta
+                        con los procedimientos de
+                        seguridad; no se aplican las
+                        medidas de seguridad, no se
+                        cuenta con el equipo de
+                        protección personal necesario,
+                        no se cuenta con los
+                        materiales, herramientas o
+                        equipos     necesarios    para
+                        desarrollar la actividad o se
+                        presenta      cualquier    otra
+                        anomalía que compromete la
+                        seguridad de los trabajadores;
+Lunes 31 de agosto de 2015                DIARIO OFICIAL              (Segunda Sección)
+
+                                    Prohíbe que los trabajadores
+                                     excedan el tiempo máximo de
+                                     permanencia indicado en la
+                                     autorización correspondiente;
+                                    Prohíbe     que    se  realice
+                                     cualquier trabajo en espacios
+                                     confinados      de    manera
+                                     individual, y que su duración
+                                     exceda un turno de trabajo u
+                                     ocho horas;
+                                    Prohíbe que menores de 18
+                                     años y mujeres en estado de
+                                     gestación realicen actividades
+                                     en espacios confinados, y
+                                    Prohíbe que se introduzca
+                                     maquinaria o equipos de
+                                     combustión interna al interior
+                                     de los espacios confinados;
+                                Para realizar las actividades en
+                                 forma    segura     en    espacios
+                                 confinados clasificados como Tipo
+                                 II adopta medidas de control
+                                 técnicas y/o administrativas que
+                                 correspondan, y
+                                Las medidas técnicas de control a
+                                 que alude el numeral 9.2 de esta
+                                 Norma       comprenden,   según
+                                 apliquen, las siguientes:
+                                    Controla la atmósfera del
+                                     espacio confinado mediante
+                                     ventilación y/o purga;
+
+                                    Implementa, en su caso, un
+                                     proceso de limpieza del
+                                     espacio confinado;
+
+                                    Ubica los controles de los
+                                     ventiladores a una distancia
+                                     segura del espacio confinado;
+
+                                    Instala, en su caso, un
+                                     dispositivo de advertencia
+                                     audible para alertar de la
+                                     ocurrencia de una falla en la
+                                     ventilación;
+
+                                    Verifica, en su caso, que el
+                                     sistema de ventilación no
+                                     bloquea el acceso al espacio
+                                     confinado     o      limita la
+                                     comunicación        entre   el
+                                     personal que realiza las
+                                     actividades en el espacio
+                                     confinado y el vigía;
+
+                                    Evita la recirculación de aire
+                                     contaminado al interior del
+                                     espacio confinado;
+
+                                    Prohíbe que la ventilación se
+                                     realice a través del uso de
+                                     oxígeno puro, y
+     (Segunda Sección)                      DIARIO OFICIAL                  Lunes 31 de agosto de 2015
+
+                                      Efectúa la medición de las
+                                       concentraciones         de      la
+                                       atmósfera        del       espacio
+                                       confinado de acuerdo con el
+                                       procedimiento para la toma de
+                                       mediciones       para     detectar
+                                       atmósferas peligrosas que
+                                       señala     el     numeral     8.4,
+                                       después       de     realizar   la
+                                       ventilación o purga.
+
+5.6     y    9.1 Documental   El patrón cumple cuando          presenta                Grave
+incisos      c);              evidencia documental de que:
+e); n); o) y r)
+                                 Realiza trabajos en espacios
+                                  confinados,     únicamente   con
+                                  trabajadores     capacitados   y
+                                  autorizados para ello;
+
+                                 Dispone,      en    su    caso,    de
+                                  instrucciones     específicas    para
+                                  desarrollar trabajos en caliente, que
+                                  incluyen las medidas de seguridad
+                                  necesarias y las condiciones bajo
+                                  las cuales no pueden realizarse;
+
+                                 Realiza el muestreo inicial de las
+                                  concentraciones en la atmósfera
+                                  del espacio confinado, conforme al
+                                  procedimiento a que se refiere el
+                                  numeral 8.4 de la presente Norma;
+
+                                 Realiza la comparación de las
+                                  concentraciones existentes en el
+                                  espacio confinado con los valores
+                                  límite de exposición señalados por
+                                  la NOM-010-STPS-1999, o las que
+                                  la sustituyan, siempre y cuando se
+                                  pueda realizar la medición con el
+                                  equipo de lectura directa, con el
+                                  objeto de verificar que éstas se
+                                  encuentran por debajo del nivel de
+                                  acción y permitan el desarrollo de
+                                  las actividades de modo seguro, y
+
+                                 Establece     los   criterios  para
+                                  interrumpir los trabajos, cuando se
+                                  presente alguna condición que
+                                  pueda generar un riesgo.
+
+5.6    y    9.3 Documental    El patrón cumple cuando presenta                         Grave
+incisos     a);               evidencia documental de que para las
+e); h) y j)                   medidas técnicas de control:
+
+                                 Determina el método por utilizar
+                                  para la ventilación y/o purga del
+                                  espacio confinado, conforme al
+                                  análisis de riesgos, el trabajo por
+                                  realizar y las características del
+                                  mismo, evitando contaminar otras
+                                  áreas del centro de trabajo;
+
+                                 Establece los casos en los que se
+                                  utiliza la ventilación continua,
+  Lunes 31 de agosto de 2015                  DIARIO OFICIAL                 (Segunda Sección)
+
+                                   Indica en el procedimiento de
+                                    seguridad determinado en el
+                                    numeral 8.2, de la presente Norma
+                                    que se prohíbe que la ventilación se
+                                    realice a través del uso de oxígeno
+                                    puro, y
+
+                                   Verifica que los niveles de
+                                    concentración se encuentran por
+                                    debajo del nivel de acción, la
+                                    concentración de oxígeno esté en
+                                    el rango de 19.5% a 23.5%, y el
+                                    porcentaje de inflamabilidad sea
+                                    menor al 10% del límite inferior de
+                                    inflamabilidad y/o explosividad.
+
+5.6 y 9.4      Documental      El patrón cumple cuando presenta                Grave
+                               evidencia documental de que en los
+                               espacios confinados Tipo II, donde no es
+                               posible       mantener         atmósferas
+                               respirables,    adopta     las   medidas
+                               administrativas de control siguientes:
+
+                                   Revisa los tiempos de duración de
+                                    las actividades, y en su caso,
+                                    reprograma las actividades y/o
+                                    redefine los tiempos de duración de
+                                    los trabajos; y
+
+                                   Cuenta y da seguimiento a un
+                                    programa        de    protección
+                                    respiratoria, que contiene los
+                                    elementos siguientes:
+                                        El registro de las mediciones
+                                         de las concentraciones en el
+                                         interior del espacio confinado;
+                                        El suministro de equipo de
+                                         protección respiratoria de alta
+                                         eficiencia, y en caso de la
+                                         existencia    de     un      alta
+                                         concentración       o        una
+                                         concentración inmediatamente
+                                         peligrosa para la vida y/o la
+                                         salud, equipo de respiración
+                                         autónomo o respirador con
+                                         línea de suministro de aire;
+                                        Las evaluaciones médicas del
+                                         personal que requiere utilizar
+                                         respiradores para el ingreso al
+                                         espacio     confinado,     que
+                                         permitan determinar:
+                                         o    La aptitud del trabajador
+                                              para usar respiradores de
+                                              presión     negativa     y
+                                              positiva, según aplique;
+                                         o    La      capacidad     del
+                                              trabajador para ver y oír
+                                              advertencias,         de
+                                              conformidad     con    el
+                                              sistema de comunicación
+                                              y/o alarma con que se
+    (Segunda Sección)                    DIARIO OFICIAL                Lunes 31 de agosto de 2015
+
+                                         cuente, tales como: luces
+                                         intermitentes, timbres o
+                                         sirenas, entre otros;
+                                    o    La aptitud del trabajador
+                                         para llevar a cabo las
+                                         tareas asignadas, y
+                                    o    La       existencia     de
+                                         cualquier enfermedad o
+                                         anomalía que podrían
+                                         dificultar el uso del
+                                         equipo de protección
+                                         respiratoria      o      el
+                                         desarrollo      de     las
+                                         actividades en el interior
+                                         del espacio confinado;
+                                   Los criterios para la selección
+                                    de los filtros y cartuchos, con
+                                    base en lo dispuesto por la
+                                    NOM-116-STPS-2009 y/o las
+                                    normas mexicanas NMX-S-
+                                    002-SCFI-2004 y NMX-S-054-
+                                    SCFI-2013,                sobre
+                                    respiradores, o las que las
+                                    sustituyan;
+
+                                   El procedimiento de revisión
+                                    de ajuste y prueba de
+                                    hermeticidad     de      los
+                                    respiradores;
+                                   Las instrucciones para el uso
+                                    normal y en situaciones de
+                                    emergencia        de       los
+                                    respiradores;
+                                   Las instrucciones para revisar
+                                    la calidad, cantidad y flujo del
+                                    aire que deberá suministrarse
+                                    al trabajador, en caso de
+                                    utilizar equipos de respiración
+                                    autónomo o respiradores con
+                                    línea de suministro de aire;
+                                   Las       instrucciones       de
+                                    mantenimiento,         limpieza,
+                                    desinfección,           cuidado,
+                                    almacenamiento, inspección,
+                                    reparación,      reemplazo     y
+                                    disposición     final  de    los
+                                    respiradores, y
+                                   La capacitación e información
+                                    al personal que requiere
+                                    utilizar equipo de protección
+                                    respiratoria, que incluya las
+                                    limitaciones para su uso.
+5.7, 9.5 a) y Documental   El patrón cumple cuando        presenta
+9.6 a)                     evidencia documental de que:
+                              Designa a un responsable de los
+                               trabajos y, al menos, un vigía, y
+                              El responsable de los trabajos y, el
+                               (los) vigía(s) cuentan con la
+                               capacitación     requerida     para
+                               realizar las funciones a que se
+                               refieren los numerales 9.5 y 9.6
+                               respectivamente.
+  Lunes 31 de agosto de 2015                 DIARIO OFICIAL                 (Segunda Sección)
+
+5.7, 9.5 y 9.6   Física        El patrón cumple cuando, al realizar un        Grave
+                               recorrido por el centro de trabajo, se
+                               constata que:
+                                  El responsable de los trabajos en el
+                                   espacio confinado cumple con lo
+                                   siguiente:
+                                       Asegura que el vigía, se
+                                        ubique y permanezca en el
+                                        exterior del espacio, en todo
+                                        momento,      mientras   haya
+                                        personal     en   el   espacio
+                                        confinado;
+                                       Comprueba antes del inicio de
+                                        las actividades, según aplique,
+                                        que se coloquen medios de
+                                        bloqueo de energía, fluidos,
+                                        presión, entre otras, por medio
+                                        del uso de tarjetas y
+                                        candados, así como de
+                                        equipos      o      dispositivos,
+                                        conforme a lo que establece la
+                                        NOM-004-STPS-1999 y la
+                                        NOM-029-STPS-2011, o las
+                                        que las sustituyan;
+
+                                       Elabora     y/o  tramita     la
+                                        autorización para realizar los
+                                        trabajos      en     espacios
+                                        confinados, y la cancela una
+                                        vez que éstos terminan o se
+                                        suspenden;
+                                       Verifica, según aplique, que
+                                        los trabajadores cuentan con
+                                        el plan de trabajo y la
+                                        autorización a que se refieren
+                                        los numerales 8.5 y 8.6 de
+                                        esta Norma, respectivamente,
+                                        y que la autorización se coloca
+                                        en la entrada del espacio
+                                        confinado;
+                                       Supervisa que los trabajos se
+                                        realicen de modo seguro, de
+                                        acuerdo con lo previsto por la
+                                        presente Norma;
+                                       Vigila que se evalúen durante
+                                        el desarrollo de los trabajos
+                                        las condiciones ambientales
+                                        de los espacios confinados,
+                                        con la finalidad de verificar
+                                        que     éstas   permiten    el
+                                        desarrollo de las actividades
+                                        de manera segura;
+                                       Verifica que se cuenta con los
+                                        procedimientos de seguridad,
+                                        a que alude el Capítulo 8 de
+                                        esta Norma;
+                                       Comprueba que se realicen
+                                        las pruebas o verificaciones a
+                                        los equipos de medición antes
+                                        de su uso;
+(Segunda Sección)                    DIARIO OFICIAL                  Lunes 31 de agosto de 2015
+
+                               Revisa que los recursos para
+                                la atención a emergencias
+                                están disponibles antes del
+                                inicio de los trabajos en el
+                                espacio confinado, y
+                               Supervisa que se implemente
+                                el plan de atención a
+                                emergencias y rescate, y
+                          El (los) vigía(s) de los trabajos en el
+                           espacio confinado cumple(n) con lo
+                           siguiente:
+                               Permanece en todo momento
+                                durante la realización de los
+                                trabajos fuera del espacio
+                                confinado, junto a la entrada,
+                                en comunicación con el
+                                personal que realiza las
+                                actividades en el espacio
+                                confinado;
+
+                               Interrumpe los trabajos u
+                                ordena la evacuación del
+                                espacio confinado, cuando se
+                                presenta alguna condición que
+                                puede generar un riesgo grave
+                                o inminente, o cualquier otra
+                                que ponga en riesgo a los
+                                trabajadores o complica la
+                                salida de éstos;
+                               Mantiene un control del
+                                número de trabajadores que
+                                ingresan al espacio confinado
+                                y comprueba que todos salen
+                                una vez que terminan las
+                                actividades;
+                               Asegura que no se exceden
+                                los tiempos de permanencia
+                                en el espacio confinado, y
+                               Alerta sobre la ocurrencia de
+                                una       emergencia         al
+                                responsable de los trabajos.
+         Entrevista   El patrón cumple cuando, al entrevistar                   Grave
+                      al responsable de los trabajos y, al (los)
+                      un vigía(s) se constata que:
+                          El responsable de los trabajos en el
+                           espacio confinado cumple con lo
+                           siguiente:
+                               Asegura que el vigía, se
+                                ubique y permanezca en el
+                                exterior del espacio, mientras
+                                haya personal en el espacio
+                                confinado;
+                               Comprueba antes del inicio de
+                                las actividades, según aplique,
+                                que se coloquen medios de
+                                bloqueo de energía, fluidos,
+                                presión, entre otras, por medio
+                                del uso de tarjetas y
+                                candados, así como de
+                                equipos      o     dispositivos,
+Lunes 31 de agosto de 2015                 DIARIO OFICIAL                  (Segunda Sección)
+
+                                      conforme a lo que establece la
+                                      NOM-004-STPS-1999 y la
+                                      NOM-029-STPS-2011, o las
+                                      que las sustituyan;
+                                     Elabora     y/o  tramita     la
+                                      autorización para realizar los
+                                      trabajos      en     espacios
+                                      confinados, y la cancela una
+                                      vez que éstos terminan o se
+                                      suspenden;
+                                     Verifica, según aplique, que
+                                      los trabajadores cuentan con
+                                      el plan de trabajo y la
+                                      autorización a que se refieren
+                                      los numerales 8.5 y 8.6 de
+                                      esta Norma, respectivamente,
+                                      y que la autorización se coloca
+                                      en la entrada del espacio
+                                      confinado;
+
+                                     Supervisa que los trabajos se
+                                      realicen de modo seguro, de
+                                      acuerdo con lo previsto por la
+                                      presente Norma;
+                                     Vigila que se evalúen durante
+                                      el desarrollo de los trabajos
+                                      las condiciones ambientales
+                                      de los espacios confinados,
+                                      con la finalidad de verificar
+                                      que     éstas   permiten    el
+                                      desarrollo de las actividades
+                                      de manera segura;
+                                     Verifica que se cuenta con los
+                                      procedimientos de seguridad,
+                                      a que alude el Capítulo 8 de
+                                      esta Norma;
+                                     Comprueba que se realicen
+                                      las pruebas o verificaciones a
+                                      los equipos de medición antes
+                                      de su uso;
+                                     Revisa que los recursos para
+                                      la atención a emergencias
+                                      están disponibles antes del
+                                      inicio de los trabajos en el
+                                      espacio confinado, y
+                                     Supervisa que se implemente
+                                      el plan de atención a
+                                      emergencias y rescate, y
+                                El (los) vigía(s) de los trabajos en el
+                                 espacio confinado cumple(n) con lo
+                                 siguiente:
+                                     Permanece en todo momento
+                                      durante la realización de los
+                                      trabajos fuera del espacio
+                                      confinado, junto a la entrada,
+                                      en comunicación con el
+                                      personal que realiza las
+                                      actividades en el espacio
+                                      confinado;
+                                     Interrumpe los trabajos u
+                                      ordena la evacuación del
+                                      espacio confinado, cuando se
+                                      presenta alguna condición que
+      (Segunda Sección)                   DIARIO OFICIAL               Lunes 31 de agosto de 2015
+
+                                     puede generar un riesgo grave
+                                     o inminente, o cualquier otra
+                                     que ponga en riesgo a los
+                                     trabajadores o complica la
+                                     salida de éstos;
+                                    Mantiene un control del
+                                     número de trabajadores que
+                                     ingresan al espacio confinado
+                                     y comprueba que todos salen
+                                     una vez que terminan las
+                                     actividades;
+                                    Asegura que no se exceden
+                                     los tiempos de permanencia
+                                     en el espacio confinado, y
+                                    Alerta sobre la ocurrencia de
+                                     una       emergencia         al
+                                     responsable de los trabajos.
+
+5.8            Física       El patrón cumple cuando, al realizar un
+                            recorrido por el centro de trabajo, se
+                            constata que provee iluminación al
+                            interior de los espacios confinados, de
+                            conformidad con las actividades por
+                            desarrollar, que permite efectuar los
+                            trabajos en forma segura, mediante
+                            lámparas o equipo portátil y/o sistemas
+                            de iluminación.
+
+5.9            Documental   El patrón cumple cuando presenta                      Grave
+                            evidencia      documental     de    que
+                            proporciona a los trabajadores el equipo
+                            de protección personal requerido, con
+                            base en la clasificación del espacio
+                            confinado, el análisis de riesgos, y la
+                            actividad por desarrollar conforme a lo
+                            dispuesto por la NOM-017-STPS-2008,
+                            o las que la sustituyan.
+
+5.10 y 10      Documental   El patrón cumple cuando        presenta               Grave
+                            evidencia documental de que:
+
+                               Dispone de un plan de atención a
+                                emergencias      y   rescate que
+                                contempla el rescate de posibles
+                                trabajadores accidentados, y que
+                                incluye el equipo necesario;
+
+                               El plan de atención a emergencias
+                                y rescate considera las situaciones
+                                de    emergencia       que  puedan
+                                presentarse durante los trabajos en
+                                el espacio confinado, detectadas en
+                                el análisis de riesgos, y
+
+                               El plan de atención a emergencias
+                                y rescate contiene, al menos, lo
+                                siguiente:
+
+                                    El alcance del plan de
+                                     conformidad con los trabajos
+                                     que se realizan, el tipo de
+                                     espacio confinado y el análisis
+                                     de riesgos;
+
+                                    Las condiciones en las que el
+Lunes 31 de agosto de 2015           DIARIO OFICIAL               (Segunda Sección)
+
+                                 personal de emergencia y de
+                                 rescate, tanto interno como
+                                 externo, puede o no ingresar
+                                 al espacio confinado;
+
+                                El     responsable         de
+                                 implementar el plan;
+
+                                Los recursos humanos y
+                                 materiales para su ejecución,
+                                 señalando los nombres de los
+                                 trabajadores designados y
+                                 capacitados para la aplicación
+                                 del plan, así como la función
+                                 que cada uno tiene asignada;
+
+                                La capacitación requerida de
+                                 los trabajadores en relación
+                                 con el contenido del plan que
+                                 considera el tipo de espacio
+                                 confinado;
+                                El equipo de protección
+                                 personal   y    de    rescate
+                                 requerido para la atención a
+                                 emergencias;
+                                El inventario de los recursos
+                                 materiales     requeridos    y
+                                 disponibles para enfrentar
+                                 situaciones de emergencia, y
+                                Los procedimientos para:
+                                 o   El alertamiento, en caso
+                                     de       ocurrir     una
+                                     emergencia;
+                                 o   La comunicación interna
+                                     y externa en caso de
+                                     ocurrir una emergencia,
+                                     junto con el directorio de
+                                     los servicios de auxilio
+                                     para     la    emergencia
+                                     (bomberos, hospitales y
+                                     rescate), así como, en su
+                                     caso, el directorio de los
+                                     centros de información de
+                                     manejo de sustancias
+                                     químicas en casos de
+                                     emergencia;
+                                 o   La     interrupción  del
+                                     funcionamiento de la
+                                     maquinaria y equipo;
+                                 o   La suspensión de las
+                                     actividades;
+                                 o   El       rescate       de
+                                     trabajadores
+                                     accidentados;
+                                 o   La evacuación de los
+                                     trabajadores     que   se
+                                     encuentren en riesgo, de
+                                     acuerdo       con    la(s)
+                                     situación(es)          de
+     (Segunda Sección)                   DIARIO OFICIAL                       Lunes 31 de agosto de 2015
+
+                                         emergencia que puedan
+                                         presentarse, incluidos los
+                                         trabajadores y personas
+                                         con discapacidad que no
+                                         laboran en el espacio
+                                         confinado y que se
+                                         presuma se encuentran
+                                         en riesgo;
+                                    o    Los primeros auxilios, y
+                                    o    La eliminación de los
+                                         riesgos después de la
+                                         emergencia, en su caso.
+
+5.11 y 11     Documental   El patrón cumple cuando         presenta La          evidencia
+                           evidencia documental de que:             documental para dar
+                                                                    cumplimiento a esta
+                              Proporciona       información      y
+                                                                    obligación son las
+                               capacitación a los trabajadores que
+                                                                    constancias       de
+                               realizan actividades en espacios
+                                                                    competencias        o
+                               confinados, de conformidad con el
+                                                                    habilidades
+                               trabajo      a    desarrollar,    su
+                                                                    laborales.
+                               clasificación y el resultado del
+                               análisis de riesgos;
+                              La información que se proporciona
+                               a los trabajadores contempla el
+                               resultado del análisis de riesgos de
+                               cada uno de los espacios
+                               confinados;
+                              A los trabajadores involucrados en
+                               la realización de actividades en
+                               espacios     confinados    se    les
+                               proporciona     capacitación,   con
+                               énfasis en la prevención de riesgos,
+                               con base en el tipo de espacio
+                               confinado y las tareas asignadas,
+                               así como sobre el plan de atención
+                               a emergencias y rescate;
+                              La capacitación y adiestramiento
+                               proporcionados a los trabajadores
+                               consiste en una instrucción teórica,
+                               entrenamiento práctico y evaluación
+                               de los conocimientos y habilidades
+                               adquiridos, y considera lo siguiente:
+                                   El contenido de la presente
+                                    Norma, con énfasis en la
+                                    aplicación de las medidas de
+                                    seguridad;
+                                   Los    peligros    y    riesgos
+                                    presentes en       el   espacio
+                                    confinado;
+                                   Los riesgos derivados de las
+                                    propiedades de las sustancias
+                                    químicas presentes en el
+                                    espacio confinado;
+                                   Los efectos que pueden
+                                    ocasionar la exposición a las
+                                    sustancias químicas y los
+                                    correspondientes      peligros
+                                    físicos y a la salud;
+                                   La forma de trabajar en forma
+                                    segura, los procedimientos de
+                                    seguridad y las autorizaciones
+                                    requeridas para desarrollar la
+                                    actividad;
+                                   La forma correcta de operar,
+Lunes 31 de agosto de 2015                DIARIO OFICIAL                (Segunda Sección)
+
+                                     revisar y resguardar, en su
+                                     caso,      los    equipos     de
+                                     ventilación que se instalan o
+                                     se utilizan para los trabajos en
+                                     espacios confinados;
+                                    El programa de protección
+                                     respiratoria, en su caso;
+                                    El uso del equipo de
+                                     protección respiratoria, que
+                                     incluye las limitaciones para
+                                     su uso;
+
+                                    El correcto uso del equipo de
+                                     protección personal, conforme
+                                     a lo que determina la NOM-
+                                     017-STPS-2008, o las que la
+                                     sustituyan;
+                                    El uso, manejo y lectura de
+                                     equipo de medición personal,
+                                     y
+                                    La aplicación del plan de
+                                     atención a emergencias y
+                                     rescate,       incluyendo     la
+                                     realización     de    simulacros
+                                     sobre las posibles situaciones
+                                     de emergencia que puedan
+                                     presentarse, previstas en el
+                                     análisis de riesgos;
+                                De forma adicional a lo dispuesto
+                                 en los numerales 11.2 y 11.3, al
+                                 responsable y al vigía de los
+                                 trabajos en espacios confinados, se
+                                 les deberá capacitar, adiestrar y
+                                 evaluar en los temas siguientes:
+                                    El procedimiento para el
+                                     muestreo        de      las
+                                     concentraciones    de    la
+                                     atmósfera     del   espacio
+                                     confinado;
+                                    La   evaluación     de     las
+                                     concentraciones obtenidas;
+                                    Los casos en los que se
+                                     deberán      suspender las
+                                     actividades, y
+                                    Las acciones específicas que
+                                     deberán desarrollar para la
+                                     atención de emergencias y
+                                     rescate;
+                                A los trabajadores que sean
+                                 miembros del equipo o brigada de
+                                 rescate se les capacita de modo
+                                 específico en el plan de atención a
+                                 emergencias y rescate, con énfasis
+                                 en el uso de equipo de protección
+                                 personal y de rescate, así como en
+                                 la aplicación de los procedimientos
+                                 a que se refiere dicho plan, y
+                                La capacitación y adiestramiento se
+                                 refuerza por lo menos una vez al
+                                 año o antes cuando se presenta
+                                 cualquiera de las circunstancias
+                                 siguientes:
+                                    Se introducen herramientas,
+                                     equipo nuevo o se modifican
+                                     las condiciones del interior del
+                                     espacio confinado;
+        (Segunda Sección)                        DIARIO OFICIAL                          Lunes 31 de agosto de 2015
+
+                                           Ha ocurrido un incidente o
+                                            accidente;
+                                           Se evidencia una operación
+                                            insegura del equipo, o
+                                           Así lo sugiere la última
+                                            evaluación aplicada a los
+                                            trabajadores que    realizan
+                                            actividades  en    espacios
+                                            confinados.
+ 5.11 y 11.7     Registro         El patrón cumple cuando presenta
+                                  evidencia de que cuenta con el registro
+                                  sobre la capacitación y adiestramiento
+                                  que proporciona a los trabajadores, el
+                                  cual contiene, al menos, lo siguiente:
+                                      El nombre y puesto de los
+                                       trabajadores a los que se les
+                                       proporcionó;
+                                      La fecha en que se proporcionó la
+                                       capacitación;
+                                      Los temas impartidos, y
+                                      El nombre del instructor y,
+                                       tratándose        de       agentes
+                                       capacitadores externos al centro de
+                                       trabajo, el número de registro ante
+                                       la Secretaría del Trabajo y
+                                       Previsión Social.
+ 5.12            Documental       El patrón cumple cuando presenta            Esta disposición se
+                                  evidencia     documental     de    que      cumple a través de
+                                  comprueba que los contratistas cumplen      un documento que
+                                  con lo señalado en la presente Norma,       contiene los aspectos
+                                  cuando el patrón conviene los servicios     a verificar señalados
+                                  de terceros para realizar trabajos en       en el procedimiento
+                                  espacios confinados.                        para la evaluación de
+                                                                              la conformidad, de
+                                                                              acuerdo      con    lo
+                                                                              establecido en      el
+                                                                              numeral 13.3 de esta
+                                                                              Norma, o bien a
+                                                                              través      de     un
+                                                                              dictamen emitido por
+                                                                              una      unidad    de
+                                                                              verificación de que el
+                                                                              tercero cumple con lo
+                                                                              señalado      en    la
+                                                                              presente Norma.
+ 5.13            Registro         El patrón cumple cuando presenta
+                                  evidencia de que cuenta con los
+                                  registros del personal autorizado para el
+                                  desarrollo de los trabajos en espacios
+                                  confinados; de su ingreso y salida de
+                                  dichos espacios; sus tiempos de
+                                  permanencia, y el muestreo y/o
+                                  monitoreo de la atmósfera.
+
+
+
+    13.4 Para la selección de trabajadores por entrevistar, con el propósito de constatar el cumplimiento de las
+disposiciones que dispone el presente procedimiento para la evaluación de la conformidad, se aplicará el
+criterio muestral contenido en la Tabla 2 siguiente:
+                                                     Tabla 2
+                                      Muestreo por selección aleatoria
+                  Número total de trabajadores           Número de trabajadores por entrevistar
+                              1-15                                               1
+   Lunes 31 de agosto de 2015                 DIARIO OFICIAL                             (Segunda Sección)
+
+                                16-50                                    2
+                                51-105                                   3
+                          Más de 105                    1 por cada 35 trabajadores hasta un
+                                                                   máximo de 15
+  13.5 Las evidencias de tipo documental o los registros a que alude esta Norma podrán exhibirse de
+manera impresa o en medios magnéticos, y se deberán conservar al menos durante un año.
+   14. Vigilancia
+   La vigilancia del cumplimiento de la presente Norma Oficial Mexicana corresponde a la Secretaría del
+Trabajo y Previsión Social.
+   15. Bibliografía
+    15.1 A Guide to Safety in Confined Spaces, National Institute for Occupational Safety and Health, NIOSH,
+July 1987. U.S. Department of Health, Education and Welfare.
+   15.2 Confined Spaces Guideline, Health and Safety Guidelines. Ministry of Labour, July 2011. Ontario,
+Canada.
+   15.3 Manual de Seguridad en el Trabajo. Fundación MAPFRE, 2011. España.
+   15.4 NIOSH Pocket Guide to Chemical Hazards, National Institute for Occupational Safety and Health,
+NIOSH, September 2007. U.S. Department of Health and Human Services.
+   15.5 Norma Regulamentadora No. 33: NR-33 Segurança e Saúde nos Trabalhos em Espaços Confinados,
+Ministério do Trabalho e Emprego. Brasil.
+   15.6 NTP 223: Trabajos en recintos confinados, Instituto Nacional de Seguridad e Higiene en el Trabajo,
+Ministerio del Trabajo y Asuntos Sociales. España.
+   15.7 Reglamento Federal de Seguridad y Salud en el Trabajo, publicado en el Diario Oficial de la
+Federación de 13 de noviembre de 2014. México.
+   15.8 Safe work in confined spaces, Confined Spaces Regulations 1997, Approved Code of Practice,
+Regulations and Guidance. Health and Safety Executive, 2009. Great Britain.
+   15.9 Working in Confined Spaces. Criteria for a Recommended Standard…, National Institute for
+Occupational Safety and Health, NIOSH, December 1979. U.S. Department of Health, Education and Welfare.
+   16. Concordancia con normas internacionales
+   Esta Norma Oficial Mexicana no concuerda con ninguna norma internacional, por no existir referencia
+alguna al momento de su elaboración.
+                                             TRANSITORIOS
+   PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a los tres meses siguientes a su
+publicación en el Diario Oficial de la Federación.
+    SEGUNDO. Durante el lapso establecido en el artículo anterior, los patrones deberán cumplir con las
+disposiciones específicas para realizar trabajos en espacios confinados contenidas en las normas oficiales
+mexicanas NOM-005-STPS-1998, Relativa a las condiciones de seguridad e higiene en los centros de trabajo
+para el manejo, transporte y almacenamiento de sustancias químicas peligrosas, y la NOM-027-STPS-2008,
+Actividades de soldadura y corte-Condiciones de seguridad e higiene, o bien podrán cumplir con la NOM-033-
+STPS-2015, Condiciones de seguridad para realizar trabajos en espacios confinados.
+    En caso de optar por dar cumplimiento a la NOM-033-STPS-2015, Condiciones de seguridad para realizar
+trabajos en espacios confinados, los patrones interesados deberán informar, de manera previa, a la autoridad
+laboral esta decisión y podrán solicitar una inspección de asesoría y asistencia técnica para instrumentar su
+cumplimiento, en los términos de los artículos 18 y 19 del Reglamento General de Inspección del Trabajo y
+Aplicación de Sanciones, sin que se hagan acreedores a sanciones por el incumplimiento de la Norma en
+vigor.
+    TERCERO. A partir de la fecha en que entre en vigor esta Norma quedarán sin efecto los numerales 8
+inciso g), subinciso 5), y 9.10 de la NOM-005-STPS-1998, Relativa a las condiciones de seguridad e higiene
+       (Segunda Sección)                       DIARIO OFICIAL                      Lunes 31 de agosto de 2015
+
+en los centros de trabajo para el manejo, transporte y almacenamiento de sustancias químicas peligrosas,
+publicada en el Diario Oficial de la Federación de 2 de febrero de 1999, así como los numerales 9.2 y 10.5 de
+la NOM-027-STPS-2008, Actividades de soldadura y corte-Condiciones de seguridad e higiene, publicada en
+el Diario Oficial de la Federación de 7 de noviembre de 2008.
+   México, Distrito Federal, a los treinta días del mes de julio de dos mil quince.- El Secretario del Trabajo y
+Previsión Social, Jesús Alfonso Navarrete Prida.- Rúbrica.
+

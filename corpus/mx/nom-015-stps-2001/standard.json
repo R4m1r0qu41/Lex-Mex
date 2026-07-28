@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-015-stps-2001",
+  "kind": "nom",
+  "designation": "NOM-015-STPS-2001",
+  "official_title": "Condiciones térmicas elevadas o abatidas-Condiciones de seguridad e higiene",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "condiciones térmicas",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2002-06-14",
+  "effective_date": "2002-12-11",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-015-STPS-1993"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2022-12-13",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-015-STPS-2001_2022_ultima_revision.PDF"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/015stps.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=728016&fecha=14/06/2002",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-015-STPS-2001/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "0e05688e2cef471613d468c393d8d43ef4f9d5609107790c81198a1fc0f03d0a",
+  "extracted_text_sha256": "bab448ba72d347cf0790b52bf3300b22641f1735b95fed73e995697e88803d8b",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

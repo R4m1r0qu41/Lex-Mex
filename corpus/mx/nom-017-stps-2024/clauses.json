@@ -1,0 +1,512 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n         Establecer los requisitos mínimos para la selección, uso y manejo del equipo de protección personal que se proporcione a las\n      personas trabajadoras para protegerlas de los factores de riesgo, agentes o contaminantes del ambiente laboral, a fin de prevenir\n      accidentes y enfermedades de trabajo.",
+    "start_char": 7104,
+    "end_char": 7429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n         Esta Norma aplica en todos los centros de trabajo del territorio nacional en que se requiera el uso de equipo de protección\n      personal para proteger a las personas trabajadoras contra los riesgos derivados de las actividades que desarrollan.",
+    "start_char": 7440,
+    "end_char": 7717
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n          Para la correcta interpretación de esta Norma deben consultarse las siguientes normas oficiales mexicanas vigentes, o las que\n      las sustituyan:",
+    "start_char": 7728,
+    "end_char": 7900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "3.1",
+    "label": "3.1 NOM-018-STPS-2015, Sistema armonizado para la identificación y comunicación de peligros y riesgos por sustancias",
+    "text": "3.1 NOM-018-STPS-2015, Sistema armonizado para la identificación y comunicación de peligros y riesgos por sustancias\n      químicas peligrosas en los centros de trabajo.",
+    "start_char": 7910,
+    "end_char": 8079
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "3.2",
+    "label": "3.2 NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos conducidos en",
+    "text": "3.2 NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos conducidos en\n      tuberías.",
+    "start_char": 8089,
+    "end_char": 8223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "3.3",
+    "label": "3.3 NOM-113-STPS-2009, Seguridad - Equipo de protección personal - Calzado de protección - Clasificación, especificaciones",
+    "text": "3.3 NOM-113-STPS-2009, Seguridad - Equipo de protección personal - Calzado de protección - Clasificación, especificaciones\n      y métodos de prueba.",
+    "start_char": 8233,
+    "end_char": 8382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "3.4",
+    "label": "3.4 NOM-115-STPS-2009, Seguridad - Equipo de protección personal - Cascos de protección - Clasificación, especificaciones",
+    "text": "3.4 NOM-115-STPS-2009, Seguridad - Equipo de protección personal - Cascos de protección - Clasificación, especificaciones\n      y métodos de prueba.",
+    "start_char": 8392,
+    "end_char": 8540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "3.5",
+    "label": "3.5 NOM-116-STPS-2009, Seguridad - Equipo de protección personal - Respiradores purificadores de aire de presión negativa",
+    "text": "3.5 NOM-116-STPS-2009, Seguridad - Equipo de protección personal - Respiradores purificadores de aire de presión negativa\n      contra partículas nocivas - Especificaciones y métodos de prueba.",
+    "start_char": 8550,
+    "end_char": 8743
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n          Para efectos de la presente Norma, se establecen las definiciones siguientes:",
+    "start_char": 8754,
+    "end_char": 8857
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "4.1",
+    "label": "4.1 Autoridad del trabajo; Autoridad laboral: Las unidades administrativas competentes de la Secretaría que realizan",
+    "text": "4.1 Autoridad del trabajo; Autoridad laboral: Las unidades administrativas competentes de la Secretaría que realizan\n      funciones de inspección y vigilancia en materia de Seguridad y Salud en el Trabajo y las correspondientes de las entidades\n      federativas, que actúen en auxilio de aquéllas.",
+    "start_char": 8867,
+    "end_char": 9166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "4.2",
+    "label": "4.2 Equipo de protección personal (EPP): El conjunto de elementos y dispositivos, diseñados específicamente para proteger",
+    "text": "4.2 Equipo de protección personal (EPP): El conjunto de elementos y dispositivos, diseñados específicamente para proteger\n      a las personas trabajadoras contra accidentes y enfermedades que pudieran ser causados por la exposición a factores de riesgo,\n      agentes o contaminantes del ambiente laboral en sus actividades de trabajo y/o con motivo de la atención de emergencias. En\n      caso de que en el análisis de riesgos se establezca la necesidad de utilizar ropa de trabajo con características de protección, ésta\n      será considerada equipo de protección personal.",
+    "start_char": 9177,
+    "end_char": 9754
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "4.3",
+    "label": "4.3 Disposición final: Las medidas que se le aplican al equipo de protección personal desgastado o deteriorado que ya no",
+    "text": "4.3 Disposición final: Las medidas que se le aplican al equipo de protección personal desgastado o deteriorado que ya no\n      cumple con su función, o que está contaminado con algún tipo de sustancia química peligrosa y/o agentes biológicos capaces de\n      alterar la salud de las personas trabajadoras, enfocadas a su desecho como residuo sólido (o peligroso) de conformidad con la\n      normatividad ambiental aplicable, de tal manera que se asegure que no se volverá a utilizar.",
+    "start_char": 9765,
+    "end_char": 10248
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "4.4",
+    "label": "4.4 Norma: Norma Oficial Mexicana.",
+    "text": "4.4 Norma: Norma Oficial Mexicana.",
+    "start_char": 10259,
+    "end_char": 10293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "4.5",
+    "label": "4.5 Secretaría: La Secretaría del Trabajo y Previsión Social.",
+    "text": "4.5 Secretaría: La Secretaría del Trabajo y Previsión Social.",
+    "start_char": 10304,
+    "end_char": 10365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 10376,
+    "end_char": 10402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5.1",
+    "label": "5.1 Identificar y analizar los riesgos a los que están expuestas las personas trabajadoras por cada puesto y área del centro de",
+    "text": "5.1 Identificar y analizar los riesgos a los que están expuestas las personas trabajadoras por cada puesto y área del centro de\n      trabajo. Esta información debe registrarse y actualizarse cuando se modifiquen los implementos o procesos de trabajo y contener\n      al menos los datos siguientes:\n          a)     La razón social y domicilio del centro de trabajo evaluado, y fecha en que se realizó la evaluación;\n          b)     Las actividades que desarrollan las personas trabajadoras evaluadas;\n          c)     Los puestos y áreas de trabajo evaluados;\n\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5753280&fecha=28/03/2025&print=true                                                           2/14\n\f1/10/25, 12:49                                                     DOF - Diario Oficial de la Federación\n          d)     Los riesgos de trabajo identificados, derivados de las actividades correspondientes a cada puesto, y los presentes en las\n                 áreas del centro de trabajo, entre éstos:\n                 1) Riesgos físicos, que son derivados del medio ambiente laboral tales como ruido, vibraciones, iluminación deficiente o\n                    excesiva, radiaciones, temperaturas extremas, incluyendo el riesgo eléctrico;\n                 2)   Riesgos mecánicos, que pueden dar lugar a una lesión por la acción mecánica de máquinas, herramientas, piezas a\n                      trabajar o materiales proyectados, sólidos o fluidos que son capaces de ocasionar cortes, abrasiones, punciones,\n                      contusiones, golpes por desprendimiento o proyección de objetos, atrapamientos, aplastamientos y quemaduras\n                      entre otros;\n                 3)    Riesgos químicos, que se originen por la exposición o manejo de sustancias químicas peligrosas, tales como las\n                      tóxicas, irritantes, corrosivas, sensibilizantes, mutagénicas, cancerígenas y teratogénicas. Los agentes químicos\n                      pueden ser materias primas, productos terminados, productos intermedios o desechos, entre otros, y\n                 4)    Riesgos biológicos, derivados de la exposición de la persona trabajadora a organismos vivos que pueden causar\n                      daño a la salud humana. Figuran aquí los virus, bacterias y hongos, entre otros microorganismos que pueden estar\n                      presentes en el ambiente laboral y pueden causar enfermedades;\n          e)     La(s) región(es) anatómica(s) expuesta(s) a riesgos de lesión, alteración de la salud o cualquier otro tipo de afectación;\n          f)     Las personas trabajadoras a las que se debe proporcionar el equipo de protección personal, y\n          g)     El nombre y firma de la persona o personas que realizaron el análisis.",
+    "start_char": 10413,
+    "end_char": 13178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5.2",
+    "label": "5.2 Determinar el equipo de protección personal que deben utilizar las personas trabajadoras en función de los riesgos de",
+    "text": "5.2 Determinar el equipo de protección personal que deben utilizar las personas trabajadoras en función de los riesgos de\n      trabajo a los que están expuestos por las actividades que desarrollan o por las áreas en donde se encuentran, de acuerdo con lo\n      dispuesto por el numeral 5.1 de esta Norma. En caso de que en el análisis de riesgo se establezca la necesidad de utilizar ropa\n      de trabajo con características de protección, ésta debe ser considerada equipo de protección personal.\n          La determinación del uso del equipo de protección personal debe efectuarse considerando lo siguiente:\n          a)     Como medida transitoria en tanto se aplican otras medidas de seguridad y control contra los riesgos identificados;\n          b)     Como complemento a otras medidas de seguridad y control, cuando éstas han resultado insuficientes para brindar la\n                 protección requerida a las personas trabajadoras, y\n          c)     Para proporcionar la protección requerida en caso de falla de otro tipo de medidas implantadas, o para dar una mayor\n                 protección respecto a la brindada por dichas medidas.\n          El patrón puede hacer uso de las tablas contenidas en el Apéndice I, de la presente Norma, para determinar el equipo de\n      protección personal para las personas trabajadoras, y para los visitantes que ingresen a las áreas donde existan señales de uso\n      obligatorio del equipo de protección personal específico.",
+    "start_char": 13189,
+    "end_char": 14664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5.3",
+    "label": "5.3 Proporcionar a las personas trabajadoras equipo de protección personal que cumpla con las condiciones siguientes:",
+    "text": "5.3 Proporcionar a las personas trabajadoras equipo de protección personal que cumpla con las condiciones siguientes:\n          a)     Que en la selección del equipo de protección personal se considere, según aplique, lo siguiente:\n                 1) El resultado del análisis indicado en el numeral 5.1 de la presente Norma;\n                 2)    Los requerimientos que establezcan las Normas Oficiales Mexicanas aplicables a las actividades específicas del\n                      centro de trabajo, entre éstas: exposición y manejo de sustancias químicas peligrosas, trabajo en alturas, exposición\n                      a ruido, actividades de soldadura y corte, riesgo eléctrico, trabajos en espacios confinados, combate de incendios y\n                      rescate, actividad agrícola, aprovechamiento forestal, construcción y minería, entre otras;\n                 3)   Los requerimientos que al respecto señalen las hojas de datos de seguridad de las sustancias químicas peligrosas\n                      que se manejen, con base en lo dispuesto por la NOM-018-STPS-2015, así como también las etiquetas de los\n                      envases y embalajes de los productos, tales como: de uso agrícola, forestal, pecuario y de jardinería, entre otros;\n                 4)   La recomendación del encargado de los Servicios Preventivos de Seguridad y Salud en el Trabajo, y de la Comisión\n                      de Seguridad e Higiene, y\n                 5) Las indicaciones y recomendaciones que señalen los fabricantes de los equipos que se requerirán emplear;\n          b)     Que el EPP provea la protección requerida contra los tipos y grados de riesgo a los que están expuestas las personas\n                 trabajadoras;\n          c)     Que el equipo de protección personal sea de la talla y medidas acordes a la persona trabajadora, de modo que no genere\n                 riesgos en sí mismo (por ejemplo: el uso de guantes holgados que pudieran propiciar atrapamientos en partes en\n                 movimiento de la maquinaria) y que haya compatibilidad entre el EPP con el trabajo y con otros aparatos utilizados por la\n                 persona trabajadora (anteojos para corregir defectos visuales, aparatos auxiliares auditivos, prótesis, entre otros);\n          d)      Que sea de uso personal o, en el caso de los equipos utilizables por más de una persona trabajadora, éstos se\n                 conserven siempre limpios y en condiciones correctas de uso y funcionamiento. No se deben considerar como utilizables\n                 por más de una persona trabajadora: guantes, calzado, mascarillas y tapones auditivos, la ropa de protección\n                 considerada como EPP y aquellos equipos en los que pueda existir un riesgo de contagio;\n          e)     Que esté acorde a las características físicas y/o discapacidad de las personas trabajadoras, y\n          f)      Que cuando los equipos de protección personal requieran suministro de aire comprimido, ya sea de un contenedor\n                 autónomo (tanque) o a través de una línea de suministro de aire, éstos cumplan con lo que establezca la norma oficial\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5753280&fecha=28/03/2025&print=true                                                            3/14\n\f1/10/25, 12:49                                                    DOF - Diario Oficial de la Federación\n                 mexicana de producto y/o de actividad específicas que le apliquen, y a falta de éstas, las especificaciones de calidad\n                 para aire comprimido de consumo humano siguientes:\n                 1) Contenido de Oxígeno(O2) entre 20 y 22%;\n                 2) Contenido de Dióxido de carbono (CO2), por volumen menor a 500 ppm;\n                 3) Contenido de Monóxido de carbono (CO), por volumen menor a 10 ppm;\n                 4) Contenido de aceite condensado, humo y/o partículas, menor a 5 mg/m3, y\n                 5) Libre de los contaminantes del proceso en que se aplica y para los que el equipo protege.",
+    "start_char": 14675,
+    "end_char": 18704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5.4",
+    "label": "5.4 Verificar que el equipo de protección personal que adquiera, después de cumplir con lo establecido en los numerales 5.1 y",
+    "text": "5.4 Verificar que el equipo de protección personal que adquiera, después de cumplir con lo establecido en los numerales 5.1 y\n      5.2 de la presente Norma, cuente con la certificación emitida por un organismo de certificación, acreditado y aprobado en los\n      términos de la Ley de Infraestructura de la Calidad, cuando existan normas oficiales mexicanas para estos equipos.\n          En caso de no existir normas oficiales mexicanas que regulen estos equipos de protección personal, verificar que se cuente\n      con la certificación conforme a las Normas Mexicanas, Estándares Técnicos aplicables y a falta de éstos, de los organismos de\n      certificación o laboratorios de prueba acreditados y aprobados, conforme a lo establecido en la Ley de Infraestructura de la\n      Calidad, verificar que se disponga y cuente con la información proporcionada por el fabricante a través del marcado, fichas u\n      hojas técnicas, o equivalentes, sobre la capacidad o grado de protección que ofrece éste, así como las condiciones bajo las\n      cuales el EPP no proporciona protección a la persona trabajadora, o los casos en que no se debe usar, según aplique a dicho\n      equipo.",
+    "start_char": 18715,
+    "end_char": 19895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5.5",
+    "label": "5.5 Disponer de EPP para:",
+    "text": "5.5 Disponer de EPP para:\n          a)     Los visitantes al centro de trabajo, tales como proveedores, inspectores, asesores, auditores, verificadores, compradores,\n                 entre otros, que eventualmente lleguen a acceder a las áreas del centro de trabajo en las que se requiera del uso\n                 obligatorio de algún equipo de protección, a fin de prevenir cualquier posible lesión o sobreexposición a agentes nocivos,\n                 y\n          b)     La atención a emergencias, en cantidad suficiente conforme a los planes de atención que para tal efecto se tengan.",
+    "start_char": 19906,
+    "end_char": 20493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5.6",
+    "label": "5.6 Contar con las indicaciones, las instrucciones o los procedimientos para el uso, revisión, reposición, limpieza, limitaciones,",
+    "text": "5.6 Contar con las indicaciones, las instrucciones o los procedimientos para el uso, revisión, reposición, limpieza, limitaciones,\n      mantenimiento, resguardo y disposición final del EPP, con base en las indicaciones del fabricante, y de conformidad con el\n      Capítulo 7 de la presente Norma.",
+    "start_char": 20503,
+    "end_char": 20801
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5.7",
+    "label": "5.7 Comunicar a las personas trabajadoras los riesgos de trabajo a los que están expuestas, por puesto y área del centro de",
+    "text": "5.7 Comunicar a las personas trabajadoras los riesgos de trabajo a los que están expuestas, por puesto y área del centro de\n      trabajo, con base a la identificación y análisis de riesgos a los que se refiere el numeral 5.1 de esta Norma.",
+    "start_char": 20812,
+    "end_char": 21052
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5.8",
+    "label": "5.8 Asegurarse que las personas trabajadoras de empresas contratadas para realizar trabajos de Servicios Especializados u",
+    "text": "5.8 Asegurarse que las personas trabajadoras de empresas contratadas para realizar trabajos de Servicios Especializados u\n      Obras Especializadas no considerados como preponderantes del centro de trabajo, conozcan los riesgos, las medidas de\n      seguridad y, en su caso, el equipo de protección personal; el tipo de protección requerida, y la forma de usar el EPP que deben\n      atender sus personas trabajadoras al efectuar las actividades, y supervisar que se cumplen tales medidas y se emplean\n      correctamente los equipos de protección, de acuerdo con los riesgos implicados en los trabajos y las áreas en donde\n      desarrollarán las labores.",
+    "start_char": 21063,
+    "end_char": 21720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5.9",
+    "label": "5.9 Proporcionar a las personas trabajadoras la capacitación y adiestramiento para identificar el equipo de protección personal",
+    "text": "5.9 Proporcionar a las personas trabajadoras la capacitación y adiestramiento para identificar el equipo de protección personal\n      que deben utilizar conforme al riesgo al que están expuestas, así como para el uso, revisión, reposición, limpieza, limitaciones,\n      mantenimiento, resguardo y disposición final del equipo de protección personal, con base en las indicaciones, instrucciones o\n      procedimientos para tal efecto, así como las recomendaciones del fabricante de dicho equipo de protección personal, conforme a\n      lo siguiente:\n          a)     La capacitación y adiestramiento debe consistir en una instrucción teórica y entrenamiento práctico;\n          b)      Las personas trabajadoras de nuevo ingreso deben recibir la capacitación y adiestramiento previo al inicio de sus\n                 actividades;\n          c)     La capacitación y adiestramiento debe reforzarse por lo menos cada dos años o antes, cuando se cambie el equipo de\n                 protección personal o se modifiquen las condiciones en las que se desarrollan las actividades y afecten el uso del EPP, y\n          d)      Los centros de trabajo deben llevar el registro de la capacitación y adiestramiento que se proporcione al personal\n                 ocupacionalmente expuesto, el cual debe contener, al menos, lo siguiente:\n                 1) El nombre y puesto de las personas trabajadoras a las que se les proporcionó;\n                 2) La fecha en que se proporcionó la capacitación;\n                 3) Los temas impartidos (acordes con el contenido de esta Norma), y\n                 4)   El nombre del instructor y, en su caso, número de registro como agente capacitador ante la Secretaría del Trabajo y\n                      Previsión Social.",
+    "start_char": 21731,
+    "end_char": 23483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5.10",
+    "label": "5.10 Supervisar durante la jornada de trabajo que:",
+    "text": "5.10 Supervisar durante la jornada de trabajo que:\n          a)      Las personas trabajadoras utilicen el equipo de protección personal proporcionado, con base a la capacitación y\n                 adiestramiento previo, y\n          b)     Las personas trabajadoras de las empresas Contratistas de Servicios Especializados u Obras Especializadas, porten el\n                 equipo de protección personal, y que éste cumpla con las condiciones de la presente Norma.\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5753280&fecha=28/03/2025&print=true                                                            4/14\n\f1/10/25, 12:49                                                      DOF - Diario Oficial de la Federación",
+    "start_char": 23494,
+    "end_char": 24213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5.11",
+    "label": "5.11 Identificar y señalizar las áreas del centro de trabajo en donde se requiera el uso obligatorio de equipo de protección",
+    "text": "5.11 Identificar y señalizar las áreas del centro de trabajo en donde se requiera el uso obligatorio de equipo de protección\n      personal. La señalización debe cumplir con lo establecido por la NOM-026-STPS-2008, vigente o las que la sustituyan.",
+    "start_char": 24223,
+    "end_char": 24470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:5-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "5.12",
+    "label": "5.12 Llevar los registros sobre la revisión, reposición, limpieza, mantenimiento, resguardo y disposición final del EPP que",
+    "text": "5.12 Llevar los registros sobre la revisión, reposición, limpieza, mantenimiento, resguardo y disposición final del EPP que\n      requiera mantenimiento, incluido, en su caso, aquél que se utilice para la protección contra sustancias químicas peligrosas o\n      agentes biológicos capaces de alterar la salud de las personas trabajadoras. En el caso del EPP libre de mantenimiento\n      (desechable) únicamente se debe llevar el registro de su entrega y reposición. El registro debe contener, según aplique, la\n      información siguiente:\n          a)     La razón social del centro de trabajo;\n          b)     El domicilio completo;\n          c)     El tipo de equipo de protección personal;\n          d)     El tipo de registro: revisión, reposición, limpieza, mantenimiento, resguardo y disposición final del EPP;\n          e)     La fecha de registro;\n          f)     El nombre y firma de la persona trabajadora que recibió el equipo de protección personal, y\n          g)     El nombre y firma del responsable de entregar el equipo y llevar el registro.",
+    "start_char": 24481,
+    "end_char": 25542
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "6",
+    "label": "6. Obligaciones de las personas trabajadoras",
+    "text": "6. Obligaciones de las personas trabajadoras",
+    "start_char": 25553,
+    "end_char": 25597
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "6.1",
+    "label": "6.1 Participar en la capacitación y adiestramiento que el patrón proporcione para el uso, revisión, reposición, limpieza,",
+    "text": "6.1 Participar en la capacitación y adiestramiento que el patrón proporcione para el uso, revisión, reposición, limpieza,\n      limitaciones, mantenimiento, resguardo y disposición final del equipo de protección personal.",
+    "start_char": 25608,
+    "end_char": 25829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "6.2",
+    "label": "6.2 Utilizar y cuidar del equipo de protección personal proporcionado por el patrón de acuerdo con las indicaciones,",
+    "text": "6.2 Utilizar y cuidar del equipo de protección personal proporcionado por el patrón de acuerdo con las indicaciones,\n      instrucciones, procedimientos, capacitación y adiestramiento que recibieron para tal efecto.",
+    "start_char": 25840,
+    "end_char": 26055
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "6.3",
+    "label": "6.3 Revisar, antes de iniciar su turno de trabajo, las condiciones del equipo de protección personal que utiliza y, en su caso,",
+    "text": "6.3 Revisar, antes de iniciar su turno de trabajo, las condiciones del equipo de protección personal que utiliza y, en su caso,\n      durante y al finalizar la jornada, cuando así se requiera, conforme a las indicaciones e instrucciones del fabricante, los\n      procedimientos, la capacitación y adiestramiento recibidos para tal efecto.",
+    "start_char": 26065,
+    "end_char": 26403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "6.4",
+    "label": "6.4 Informar al patrón cuando las condiciones del equipo de protección personal ya no lo protejan, a fin que se le proporcione",
+    "text": "6.4 Informar al patrón cuando las condiciones del equipo de protección personal ya no lo protejan, a fin que se le proporcione\n      mantenimiento o se lo reemplace, de acuerdo con las indicaciones, instrucciones o procedimientos, y la capacitación y\n      adiestramiento recibidos para tal efecto.",
+    "start_char": 26413,
+    "end_char": 26711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "7",
+    "label": "7. Indicaciones, instrucciones o procedimientos para el uso, revisión, reposición, limpieza, limitaciones,",
+    "text": "7. Indicaciones, instrucciones o procedimientos para el uso, revisión, reposición, limpieza, limitaciones,\n      mantenimiento, resguardo y disposición final del equipo de protección personal",
+    "start_char": 26720,
+    "end_char": 26911
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "7.1",
+    "label": "7.1 Las indicaciones, instrucciones o procedimientos que el patrón proporcione a las personas trabajadoras para el uso,",
+    "text": "7.1 Las indicaciones, instrucciones o procedimientos que el patrón proporcione a las personas trabajadoras para el uso,\n      revisión, reposición, limpieza, limitaciones, mantenimiento, resguardo y disposición final del equipo de protección personal, según\n      aplique, debe estar en idioma español o idioma que hablare la persona trabajadora, y contener al menos lo siguiente:\n          a)     Estar basados en la información proporcionada por el fabricante del EPP, y en la que el patrón considere conveniente\n                 adicionar;\n          b)     Contar con instrucciones para verificar que se encuentra en condiciones seguras de uso, así como para corroborar su\n                 correcto funcionamiento;\n          c)     Señalar sus limitaciones e incluir la información sobre la capacidad o grado de protección que éste ofrece;\n          d)     Incluir información que describa en qué condiciones no proporciona protección o dónde no se debe usar;\n          e)     Desechar y reemplazar cuando se presente cualquiera de las condiciones siguientes:\n                 1)   Evidencia de falla, defecto, daño, deterioro, desgaste, quemadura o mal funcionamiento del equipo que, de acuerdo\n                      con las indicaciones del fabricante, no puedan ser reparados;\n                 2) Cumplimiento del tiempo o condición de vida útil, o de la caducidad, indicados por el fabricante, y/o\n                 3) Afectación de las características de protección al riesgo para el cual fue diseñado, por ejemplo, al verse implicado en\n                    incidentes tales como impactos, descargas eléctricas, o contacto con material incandescente, entre otros;\n          f)      Considerar las medidas técnicas o administrativas que se deben adoptar para minimizar los efectos que generen o\n                 produzcan alguna respuesta o reacción adversa en la persona trabajadora;\n          g)       Incluir las acciones que se deben realizar antes, durante y después de su uso, para comprobar que continúa\n                 proporcionando la protección para la cual fue diseñado;\n          h)     Indicar que cuando la persona trabajadora esté en contacto con posibles agentes infecciosos, el EPP que utilice debe ser\n                  para ese uso exclusivo;\n          i)     Establecer, cuando aplique, el procedimiento para la descontaminación o desinfección del EPP después de cada jornada\n                 de uso, de acuerdo con las instrucciones o recomendaciones del fabricante, así como de los riesgos implicados en las\n                 actividades del centro laboral y los procedimientos de seguridad implantados para el manejo o exposición a sustancias\n                 químicas peligrosas o materiales peligrosos e infecto-contagiosos;\n          j)      Prever que si el EPP se limpia en el centro de trabajo, ya sea por la persona trabajadora usuaria o por alguna otra\n                 persona designada por el patrón, se consideren las sustancias, condiciones o aditamentos para esta actividad, de forma\n\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5753280&fecha=28/03/2025&print=true                                                            5/14\n\f1/10/25, 12:49                                                      DOF - Diario Oficial de la Federación\n                 que se eviten riesgos de exposición, contacto o contaminación con los materiales y agentes peligrosos que pudieran\n                 estar impregnados en el EPP;\n          k)     Establecer el procedimiento a seguir para reemplazar o reparar inmediatamente el equipo de protección personal cuando,\n                 derivado de su revisión, muestre alguna falla o deterioro que impida su óptimo funcionamiento;\n          l)      Indicar que el reemplazo en sus partes dañadas debe realizarse con refacciones de acuerdo a las indicaciones del\n                 fabricante o proveedor;\n          m) Precisar lugares y formas de almacenarse en recipientes o contenedores especiales, si así lo establecen las indicaciones\n             del fabricante o proveedor, para que no presenten daños o mal funcionamiento después de su uso;\n          n)     Establecer las medidas de seguridad para tratarlo como residuo sólido (o peligroso) de conformidad con un procedimiento\n                 que para tal efecto se establezca, cuando quede contaminado con sustancias químicas peligrosas o agentes\n                 infectocontagiosos, y no sea posible su descontaminación, o se determine que ya no cumple con su función de\n                 protección;\n          o)     Prever un procedimiento para que cuando la ropa de protección se contamine con sustancias químicas peligrosas y/o\n                 agentes biológicos capaces de alterar la salud de las personas trabajadoras, ésta sea descontaminada y lavada en forma\n                 segura en el propio centro de trabajo, mediante procedimientos previamente establecidos, o bien, mediante la\n                 contratación de servicios especializados para tal fin, evitando siempre que la persona trabajadora lo realice en su\n                 domicilio, y\n          p)     Asegurar que el equipo de protección personal obsoleto, caducado, en mal estado, dañado, o contaminado, sea sometido\n                 a un proceso de destrucción o manejo especial y, en su caso, de confinamiento, para evitar ser reutilizado.",
+    "start_char": 26922,
+    "end_char": 32273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "7.2",
+    "label": "7.2 Las indicaciones, instrucciones o procedimientos deben estar disponibles para consulta de las personas trabajadoras en",
+    "text": "7.2 Las indicaciones, instrucciones o procedimientos deben estar disponibles para consulta de las personas trabajadoras en\n      idioma español o en el que éstas hablen.",
+    "start_char": 32284,
+    "end_char": 32453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "8",
+    "label": "8. Unidades de Inspección",
+    "text": "8. Unidades de Inspección",
+    "start_char": 32464,
+    "end_char": 32489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "8.1",
+    "label": "8.1 El patrón tendrá la opción de contratar una unidad de inspección acreditada y aprobada, en los términos de la Ley de",
+    "text": "8.1 El patrón tendrá la opción de contratar una unidad de inspección acreditada y aprobada, en los términos de la Ley de\n      Infraestructura de la Calidad para evaluar la conformidad con esta Norma.",
+    "start_char": 32500,
+    "end_char": 32700
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "8.2",
+    "label": "8.2 Las unidades de inspección que realicen actos de evaluación de conformidad con la presente Norma deben tomar como",
+    "text": "8.2 Las unidades de inspección que realicen actos de evaluación de conformidad con la presente Norma deben tomar como\n      base lo que establece el Capítulo 9 de la presente Norma.",
+    "start_char": 32710,
+    "end_char": 32891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "8.3",
+    "label": "8.3 Cuando el centro de trabajo cumpla con lo previsto por la presente Norma, la unidad de inspección emitirá un dictamen, el",
+    "text": "8.3 Cuando el centro de trabajo cumpla con lo previsto por la presente Norma, la unidad de inspección emitirá un dictamen, el\n      cual debe contener, al menos, lo siguiente:\n          a)     Datos de identificación del centro de trabajo al que se le realizó la evaluación de la conformidad:\n                 1) El nombre, denominación o razón social;\n                 2) El Registro Federal de Contribuyentes;\n                 3) El domicilio completo;\n                 4) El teléfono;\n                 5) El correo electrónico, y\n                 6) Su actividad principal;\n          b)     Datos de identificación de la unidad de inspección:\n                 1) El nombre, denominación o razón social;\n                 2) El Registro Federal de Contribuyentes;\n                 3) El número de acreditación;\n                 4) El número de aprobación otorgado por la Secretaría;\n                 5) El número de REPSE, y\n                 6) Su domicilio completo, y\n          c)     Datos del dictamen:\n                 1) La clave y nombre de la norma;\n                 2) El nombre del verificador (vigente en la aprobación);\n                 3) La fecha de la evaluación de la conformidad;\n                 4) El número de dictamen (generado por la propia Unidad de Inspección);\n                 5) La vigencia del dictamen;\n                 6) El lugar de emisión del dictamen;\n                 7) La fecha de emisión del dictamen, y\n\n\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5753280&fecha=28/03/2025&print=true                                                         6/14\n\f1/10/25, 12:49                                                             DOF - Diario Oficial de la Federación\n                   8)   El número de registro del dictamen emitido (por la Secretaría del Trabajo y Previsión Social) al rendirse el informe\n                        respectivo.",
+    "start_char": 32901,
+    "end_char": 34781
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:8-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "8.4",
+    "label": "8.4 La vigencia del dictamen emitido por la unidad de inspección será de dos años, siempre y cuando no sean modificadas las",
+    "text": "8.4 La vigencia del dictamen emitido por la unidad de inspección será de dos años, siempre y cuando no sean modificadas las\n      condiciones que sirvieron para su emisión.",
+    "start_char": 34791,
+    "end_char": 34963
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "9",
+    "label": "9. Procedimiento de evaluación de la conformidad",
+    "text": "9. Procedimiento de evaluación de la conformidad",
+    "start_char": 34978,
+    "end_char": 35026
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "9.1",
+    "label": "9.1 Este procedimiento de evaluación de la conformidad aplica tanto a las visitas de inspección desarrolladas por la autoridad",
+    "text": "9.1 Este procedimiento de evaluación de la conformidad aplica tanto a las visitas de inspección desarrolladas por la autoridad\n      laboral, como a las visitas que realicen - a petición de parte- las unidades de inspección.",
+    "start_char": 35036,
+    "end_char": 35260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "9.2",
+    "label": "9.2 El dictamen vigente debe estar a disposición de la autoridad laboral cuando ésta lo solicite.",
+    "text": "9.2 El dictamen vigente debe estar a disposición de la autoridad laboral cuando ésta lo solicite.",
+    "start_char": 35275,
+    "end_char": 35372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "9.3",
+    "label": "9.3 Los aspectos a considerar en la evaluación de la conformidad de la presente Norma se realizarán, según aplique,",
+    "text": "9.3 Los aspectos a considerar en la evaluación de la conformidad de la presente Norma se realizarán, según aplique,\n      mediante la revisión documental, constatación física, registros o entrevistas, de conformidad con lo siguiente:\n              Disposición     Tipo de comprobación                         Criterio de aceptación                                Observaciones            Riesgo\n        5.1                  Documental              El patrón cumple cuando presenta evidencia de que identifica y\n                                                     analiza los riesgos a los que están expuestas las personas\n                                                     trabajadoras por cada puesto y área del centro de trabajo. Esta\n                                                     información se registra y actualiza cuando se modifican los\n                                                     implementos o procesos de trabajo, y contiene al menos los datos\n                                                     siguientes:\n                                                     · La razón social y domicilio del centro de trabajo evaluado y fecha\n                                                          en que se realizó la evaluación;\n                                                     ·    Las actividades que desarrollan las personas trabajadoras\n                                                          evaluadas;\n                                                     · Los puestos y áreas de trabajo evaluados;\n                                                     · Los riesgos de trabajo identificados, derivados de las actividades\n                                                          correspondientes a cada puesto, y los presentes en las áreas\n                                                          del centro de trabajo, entre éstos:\n                                                          ✔       Riesgos físicos, que son derivados del medio ambiente\n                                                                laboral tales como ruido, vibraciones, iluminación\n                                                                deficiente o excesiva, radiaciones, temperaturas\n                                                                extremas, incluyendo el riesgo eléctrico;\n                                                          ✔       Riesgos mecánicos, que pueden dar lugar a una lesión\n                                                                por la acción mecánica de máquinas, herramientas,\n                                                                piezas a trabajar o materiales proyectados, sólidos o\n                                                                fluidos que son capaces de ocasionar cortes, abrasiones,\n                                                                punciones, contusiones, golpes por desprendimiento o\n                                                                proyección de objetos, atrapamientos, aplastamientos y\n                                                                quemaduras entre otros;\n\n                                                          ✔       Riesgos químicos, que se originen por la exposición o\n                                                                manejo de sustancias químicas peligrosas, tales como\n                                                                las tóxicas, irritantes, corrosivas, sensibilizantes,\n                                                                mutagénicas, cancerígenas y teratogénicas. Los agentes\n                                                                químicos pueden ser materias primas, productos\n                                                                terminados, productos intermedios o desechos, entre\n                                                                otros;\n\n                                                          ✔       Riesgos biológicos, derivados de la exposición de la\n                                                                persona trabajadora a organismos vivos que pueden\n                                                                causar daño a la salud humana. Entre éstos, los virus,\n                                                                bacterias y hongos, entre otros microorganismos que\n                                                                pueden estar presentes en el ambiente laboral y pueden\n                                                                causar enfermedades;\n\n                                                     ·   La(s) región(es) anatómica(s) expuesta(s) a riesgos de lesión,\n                                                          alteración de la salud o cualquier otro tipo de afectación;\n\n                                                     · Las personas trabajadoras a las que se debe proporcionar equipo\n                                                          de protección personal, y\n\n                                                     ·   El nombre y firma de la persona o personas que realizaron el\n                                                          análisis.\n\n        5.2                  Documental              El patrón cumple cuando presenta evidencia de que:                     El patrón puede hacer\n                                                                                                                            uso    de    las    tablas\n                                                     ·   Determina el equipo de protección personal que utilizan las        contenidas       en      el\n                                                          personas trabajadoras en función de los riesgos de trabajo a      Apéndice        I      (no\n                                                          los que están expuestas por las actividades que desarrollan o     normativo) de la presente\n                                                          por las áreas en donde se encuentran, de acuerdo con lo           Norma para determinar el\n                                                          dispuesto por el numeral 5.1;                                     equipo de protección\n                                                                                                                            personal     para       las\n                                                     ·   Considera la ropa de trabajo con características de protección     personas trabajadoras y\n                                                          como equipo de protección personal, en caso de que en el          para los visitantes que\n                                                          análisis de riesgo establezca la necesidad de utilizar ropa de    ingresen a las áreas\n                                                          trabajo, y                                                        donde sea obligatorio el\n                                                                                                                            uso del equipo de\n                                                     · Determina el uso del equipo de protección personal considerando      protección personal.\n                                                          lo siguiente:\n\n                                                          ✔        Como medida transitoria en tanto se aplican otras\n                                                                medidas de seguridad y control contra los riesgos\n                                                                identificados;\n\n\n\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5753280&fecha=28/03/2025&print=true                                                                                 7/14\n\f1/10/25, 12:49                                                        DOF - Diario Oficial de la Federación\n\n                                                     ✔        Como complemento a otras medidas de seguridad y\n                                                           control, cuando éstas han resultado insuficientes para\n                                                           brindar la protección requerida a las personas\n                                                           trabajadoras, y\n\n                                                     ✔       Para proporcionar la protección requerida en caso de\n                                                           falla de otro tipo de medidas implantadas, o para dar una\n                                                           mayor protección respecto a la brindada por dichas\n                                                           medidas.\n\n        5.3               Física y documental   El patrón cumple cuando presenta evidencia de que:\n\n                                                ·   Proporciona el equipo de protección personal a las personas\n                                                     trabajadoras;\n\n                                                · El equipo de protección personal que proporciona a las personas\n                                                     trabajadoras cumple con lo siguiente:\n\n                                                     ✔     Que en la selección del equipo de protección personal se\n                                                           considere, según aplique, lo siguiente:\n\n                                                           o       El resultado del análisis indicado en el numeral\n                                                                 5.1;\n\n                                                           o       Los requerimientos que establezcan las Normas\n                                                                 Oficiales Mexicanas aplicables a las actividades\n                                                                 específicas del centro de trabajo; entre éstas:\n                                                                 manejo de sustancias peligrosas, trabajo en\n                                                                 alturas, exposición a ruido, actividades de\n                                                                 soldadura y corte, riesgo eléctrico, trabajos en\n                                                                 espacios confinados, combate de incendios y\n                                                                 rescate, actividad agrícola, aprovechamiento\n                                                                 forestal, construcción, minería, entre otros;\n                                                           o       Los requerimientos que al respecto señalen las\n                                                                 hojas de datos de seguridad de las sustancias\n                                                                 químicas peligrosas que se manejen, con base en\n                                                                 lo dispuesto por la NOM-018-STPS-2015, así\n                                                                 como también las etiquetas de los envases y\n                                                                 embalajes de los productos, tales como: de uso\n                                                                 agrícola, forestal, pecuario y de jardinería, entre\n                                                                 otros;\n                                                           o     La recomendación del encargado de los Servicios\n                                                                 Preventivos de Seguridad y Salud en el Trabajo, y\n                                                                 de la Comisión de Seguridad e Higiene, y\n                                                           o      Las indicaciones y recomendaciones que señalen\n                                                                 los fabricantes de los equipos que se requerirán\n                                                                 emplear;\n                                                     ✔       Que el EPP provea la protección requerida contra los\n                                                           tipos y grados de riesgo a los que están expuestas las\n                                                           personas trabajadoras;\n\n                                                     ✔      Que el equipo de protección personal sea de la talla y\n                                                           medidas acordes a la persona trabajadora, de modo que\n                                                           no genere riesgos en sí mismo, por ejemplo, el uso de\n                                                           guantes holgados que pudieran propiciar atrapamientos\n                                                           en partes en movimiento de la maquinaria, y que haya\n                                                           compatibilidad entre el EPP con el trabajo y con otros\n                                                           aparatos utilizados por la persona trabajadora (anteojos\n                                                           para corregir defectos visuales, aparatos auxiliares\n                                                           auditivos, prótesis, entre otros);\n                                                     ✔       Que sea de uso personal o, en el caso de los equipos\n                                                           utilizables por más de una persona trabajadora, deben\n                                                           conservarse siempre limpios y en condiciones correctas\n                                                           de uso y funcionamiento, no se deben considerar como\n                                                           utilizables por más de una persona trabajadora guantes,\n                                                           calzado, mascarillas, tapones auditivos, la ropa de\n                                                           protección considerada como EPP, y aquellos equipos en\n                                                           los que pueda existir un riesgo de contagio;\n                                                     ✔         Que esté acorde a las características físicas y/o\n                                                           discapacidad de las personas trabajadoras, y\n                                                     ✔         Que cuando los equipos de protección personal\n                                                           requieran suministro de aire comprimido, ya sea de un\n                                                           contenedor autónomo (tanque) o a través de una línea de\n                                                           suministro de aire, éstos cumplan con lo que establezca\n                                                           la Norma Oficial Mexicana de producto y/o de actividad\n                                                           específicas que le apliquen y a falta de éstas, las\n                                                           especificaciones de calidad para aire comprimido de\n                                                           consumo humano siguientes:\n\n                                                           o     Contenido de Oxígeno(O2) entre 20 y 22%;\n\n                                                           o        Contenido de Dióxido de carbono (CO2), por\n                                                                 volumen) menor a 500 ppm;\n\n                                                           o       Contenido de Monóxido de carbono (CO), por\n                                                                 volumen menor a 10 ppm;\n\n                                                           o         Contenido de aceite condensado, humo y/o\n                                                                 partículas, menor a 5 mg/m3, y\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5753280&fecha=28/03/2025&print=true                                     8/14\n\f1/10/25, 12:49                                                        DOF - Diario Oficial de la Federación\n                                                           o      Libre de los contaminantes del proceso en que se\n                                                                  aplica y para los que el equipo protege.\n\n        5.4               Documental y Física   El patrón cumple cuando presenta evidencia de que:\n\n                                                ·   Verifica que el equipo de protección personal que adquiera,\n                                                     después de cumplir con lo establecido en los numerales 5.1 y\n                                                     5.2 de la presente Norma, cuente con la certificación emitida\n                                                     por un organismo de certificación, acreditado y aprobado en\n                                                     los términos de la Ley de Infraestructura de la Calidad, cuando\n                                                     existan normas oficiales mexicanas para estos equipos, o\n\n                                                ·   En caso de no existir normas oficiales mexicanas que regulen\n                                                     estos equipos de protección personal, verificar que se cuente\n                                                     con la certificación conforme a las Normas Mexicanas o\n                                                     Estándares Técnicos aplicables, o, a falta de éstos, o de los\n                                                     organismos de certificación o laboratorios de prueba\n                                                     acreditados y aprobados, conforme a lo establecido en la Ley\n                                                     de Infraestructura de la Calidad, verificar que se disponga y\n                                                     cuente con la información proporcionada por el fabricante a\n                                                     través del marcado, fichas u hojas técnicas, o equivalentes,\n                                                     sobre la capacidad o grado de protección que ofrece éste, así\n                                                     como las condiciones bajo las cuales el EPP no proporciona\n                                                     protección a la persona trabajadora, o los casos en que no se\n                                                     debe usar, según aplique a dicho equipo.\n\n        5.5               Física                El patrón cumple cuando presenta evidencia de que dispone de\n                                                equipo de protecciersonal para:\n                                                ·   Los visitantes al centro de trabajo, tales como proveedores,\n                                                     inspectores, asesores, auditores, verificadores, compradores,\n                                                     entre otros, que eventualmente lleguen a acceder a las áreas\n                                                     del centro de trabajo en las que se requiera del uso obligatorio\n                                                     de algún equipo de protección, a fin de prevenir cualquier\n                                                     posible lesión o sobreexposición a agentes nocivos, y\n\n                                                · La atención a emergencias, en cantidad suficiente conforme a los\n                                                     planes de atención que para tal efecto se tengan.\n\n        5.6 y 7           Documental            El patrón cumple cuando presenta evidencia de que:\n\n                                                ·     Cuenta con las indicaciones, las instrucciones o los\n                                                     procedimientos para su uso, revisión, reposición, limpieza,\n                                                     limitaciones, mantenimiento, resguardo y disposición final, con\n                                                     base en las indicaciones del fabricante, en idioma español, o\n                                                     idioma que hablare la persona trabajadora, las cuales:\n\n\n                                                     ✔       Están basados en la información proporcionada por el\n                                                           fabricante del equipo, y en la que el patrón considera\n                                                           conveniente adicionar;\n\n                                                     ✔         Cuentan con instrucciones para verificar que se\n                                                           encuentra en condiciones seguras de uso, así como para\n                                                           corroborar su correcto funcionamiento;\n\n                                                     ✔      Señalan las limitaciones e incluyen la información sobre\n                                                           la capacidad o grado de protección que éste ofrece;\n\n                                                     ✔      Incluyen información que describe en qué condiciones\n                                                           no se proporciona protección o dónde no se deben usar;\n\n                                                     ✔       Desechan y reemplazan el EPP, cuando se presente\n                                                           cualquiera de las condiciones siguientes:\n\n                                                           o        Hay evidencia de falla, defecto, daño, deterioro,\n                                                                  desgaste, quemadura o mal funcionamiento del\n                                                                  equipo que, de acuerdo con las indicaciones del\n                                                                  fabricante, no puedan ser reparados;\n\n                                                           o      Se cumplió el tiempo o condición de vida útil, o de\n                                                                  la caducidad, indicados por el fabricante, y\n\n                                                           o       Afectación de las características de protección al\n                                                                  riesgo para el cual fue diseñado, por ejemplo, al\n                                                                  verse implicado en incidentes tales como\n                                                                  impactos, descargas eléctricas, o contacto con\n                                                                  material incandescente, entre otros;\n\n                                                     ✔      Consideran las medidas técnicas o administrativas que\n                                                           por adoptar para minimizar los efectos que se generen o\n                                                           produzcan alguna respuesta o reacción adversa en la\n                                                           persona trabajadora;\n\n                                                     ✔        Incluyen las acciones por realizar antes, durante y\n                                                           después de su uso, para comprobar que continúa\n                                                           proporcionando la protección para la cual fue diseñado;\n\n                                                     ✔         Indican que cuando la persona trabajadora está en\n                                                           contacto con posibles agentes infecciosos, el EPP que\n                                                           utilice sea para ese uso exclusivo;\n\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5753280&fecha=28/03/2025&print=true                                      9/14\n\f1/10/25, 12:49                                                         DOF - Diario Oficial de la Federación\n\n                                                      ✔      Establecen el procedimiento para la descontaminación o\n                                                            desinfección del EPP, cuando aplique, después de cada\n                                                            jornada de uso, de acuerdo con las instrucciones o\n                                                            recomendaciones del fabricante, así como de los riesgos\n                                                            implicados en las actividades del centro laboral y los\n                                                            procedimientos de seguridad implantados para el manejo\n                                                            o exposición a sustancias químicas peligrosas o\n                                                            materiales peligrosos e infecto-contagiosos;\n\n                                                      ✔      Prevén que, si el EPP se limpia en el centro de trabajo,\n                                                            ya sea por la persona trabajadora usuaria o por alguna\n                                                            otra persona designada por el patrón, se consideren las\n                                                            sustancias, condiciones o aditamentos para esta\n                                                            actividad, de forma que se eviten riesgos de exposición,\n                                                            contacto o contaminación con los materiales y agentes\n                                                            peligrosos que pudieran estar impregnados en el EPP;\n\n                                                      ✔      Establecen el procedimiento a seguir para reemplazar o\n                                                            reparar inmediatamente el equipo de protección personal\n                                                            cuando, derivado de su revisión, muestre alguna falla o\n                                                            deterioro, que impidan su óptimo funcionamiento;\n\n                                                      ✔       Indican que el reemplazo en sus partes dañadas, se\n                                                            realice con refacciones de acuerdo a las indicaciones del\n                                                            fabricante o proveedor;\n\n                                                      ✔          Precisan lugares y formas de almacenarse en\n                                                            recipientes o contenedores especiales, si así lo\n                                                            establecen las indicaciones del fabricante o proveedor\n                                                            para que no presenten daños o mal funcionamiento\n                                                            después de su uso;\n\n                                                      ✔      Establecen las medidas de seguridad para tratarlo como\n                                                            residuo sólido (o peligroso) de conformidad con un\n                                                            procedimiento que para tal efecto se establezca, cuando\n                                                            quede contaminado con sustancias químicas peligrosas\n                                                            o agentes infectocontagiosos y no sea posible su\n                                                            descontaminación, o se determine que ya no cumple con\n                                                            su función de protección;\n\n                                                      ✔      Prevén un procedimiento para que, cuando la ropa de\n                                                            protección se contamine con sustancias químicas\n                                                            peligrosas y/o agentes biológicos capaces de alterar la\n                                                            salud de las personas trabajadoras, ésta sea\n                                                            descontaminada y lavada en forma segura en el propio\n                                                            centro de trabajo, mediante procedimientos seguros\n                                                            previamente establecidos, o bien, mediante la\n                                                            contratación de servicios especializados para tal fin,\n                                                            evitando siempre que la persona trabajadora lo realice en\n                                                            su domicilio, y\n\n                                                      ✔          Que el equipo de protección personal obsoleto,\n                                                            caducado, en mal estado, dañado, o contaminado, sea\n                                                            sometido a un proceso de destrucción o manejo especial\n                                                            y, en su caso, de confinamiento, para evitar ser\n                                                            reutilizado, y\n\n                                                ·      Las indicaciones, instrucciones o procedimientos están\n                                                      disponibles para consulta de las personas trabajadoras y en\n                                                      idioma español, o en el que éstos hablen.\n\n        5.7               Física o Documental   El patrón cumple cuando presenta evidencia de que comunica a las            La evidencia para dar\n                                                personas trabajadoras los riesgos de trabajo a los que están                cumplimiento de esta\n                                                expuestos, por puesto de trabajo y área del centro laboral, con base        obligación puede ser a\n                                                a la identificación y análisis de riesgos a los que se refiere el numeral   través     de      folletos,\n                                                5.1 de esta Norma.                                                          boletines, y/o carteles.\n\n        5.8               Física o Documental   El patrón cumple cuando presenta evidencia de que las personas              La evidencia para dar\n                                                trabajadoras de empresas contratadas para realizar trabajos de              cumplimiento de esta\n                                                Servicios Especializados u Obras Especializadas no considerados             obligación es a través de\n                                                como preponderantes del centro de trabajo, conozcan los riesgos,            oficios, memorándums u\n                                                las medidas de seguridad y, en su caso, el equipo de protección             otras       formas       de\n                                                personal; el tipo de protección requerida, y la forma de usar el EPP        comunicación         formal\n                                                que deben atender sus personas trabajadoras al efectuar las                 internas del centro de\n                                                actividades, y son supervisadas para que se cumplan tales medidas           trabajo. Asimismo, se\n                                                y se emplean correctamente los equipos de protección, de acuerdo            debe       presentar      al\n                                                con los riesgos implicados en los trabajos y las áreas en donde             Contratista de Servicios\n                                                desarrollarán las labores.                                                  Especializados u Obras\n                                                                                                                            Especializadas          los\n                                                                                                                            documentos            como\n                                                                                                                            reglamentos       internos,\n                                                                                                                            procedimientos             y\n                                                                                                                            manuales de seguridad,\n                                                                                                                            u otros similares, que se\n                                                                                                                            hubieran elaborado en el\n                                                                                                                            centro     laboral     para\n                                                                                                                            identificar los riesgos\n                                                                                                                            implicados      en      las\n                                                                                                                            actividades     que      se\n                                                                                                                            llevarán a cabo, así como\n                                                                                                                            las medidas orientadas a\n                                                                                                                            la prevención de tales\n                                                                                                                            riesgos.\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5753280&fecha=28/03/2025&print=true                                                                         10/14\n\f1/10/25, 12:49                                                          DOF - Diario Oficial de la Federación\n\n        5.9               Documental         y   El patrón cumple cuando presenta evidencia de que proporciona a          La capacitación debe\n                          entrevista             las personas trabajadoras la capacitación y adiestramiento para          evidenciarse a través de\n                                                 identificar el equipo de protección personal que deben utilizar          la     constancia      de\n                                                 conforme al riesgo al que está expuesto, así como para su uso,           habilidades     laborales\n                                                 revisión, reposición, limpieza, limitaciones, mantenimiento, resguardo   emitida   cuando     esta\n                                                 y disposición final del equipo de protección personal, con base en las   cubre el contenido de\n                                                 indicaciones, instrucciones o procedimientos para tal efecto, así        esta Norma.\n                                                 como las recomendaciones del fabricante de dicho equipo de\n                                                 protección personal, conforme a lo siguiente:                            La      capacitación      y\n                                                                                                                          adiestramiento podrá ser\n                                                                                                                          proporcionada por el\n                                                 ·   La capacitación y adiestramiento consiste en una instrucción\n                                                                                                                          fabricante del equipo de\n                                                      teórica y entrenamiento práctico;                                   protección       personal\n                                                                                                                          respectivo,             un\n                                                 ·    Las personas trabajadoras de nuevo ingreso reciben la               capacitador     autorizado\n                                                      capacitación y adiestramiento previo al inicio de sus               por éste, o un agente\n                                                      actividades;                                                        capacitador interno o\n                                                                                                                          externo, con registro ante\n                                                 · La capacitación y adiestramiento se refuerza por lo menos cada         la Secretaría del Trabajo\n                                                      dos años, o antes cuando se cambia el equipo de protección          y Previsión Social. En\n                                                      personal o se modifican las condiciones en las que se               cualquiera de los casos\n                                                      desarrollan las actividades y afectan el uso del EPP;               los    temas      de     la\n                                                                                                                          capacitación deben estar\n                                                 ·   Los centros de trabajo llevan el registro de la capacitación y       acorde con el contenido\n                                                      adiestramiento    que     se    proporciona    al   personal        de la presente Norma.\n                                                      ocupacionalmente expuesto, el cual contiene, al menos, lo\n                                                      siguiente:\n\n                                                      ✔      El nombre y puesto de las personas trabajadoras a las\n                                                            que se les proporcionó;\n\n                                                      ✔      La fecha en que se proporcionó la capacitación;\n\n                                                      ✔      Los temas impartidos (acorde con el contenido de esta\n                                                            NOM), y\n\n                                                      ✔        El nombre del instructor y, en su caso, número de\n                                                            registro como agente capacitador ante la Secretaría del\n                                                            Trabajo y Previsión Social.\n\n        5.10              Física                 El patrón cumple cuando al realizar un recorrido en el centro de\n                                                 trabajo se constata que supervisa durante la jornada de trabajo que:\n\n                                                 ·    Las personas trabajadoras utilizan el equipo de protección\n                                                       personal proporcionado, con base a la capacitación y\n                                                       adiestramiento proporcionados previamente, y\n\n                                                 · Las personas trabajadoras de las empresas contratistas, portan el\n                                                      equipo de protección personal y éste cumple con las\n                                                      condiciones de la presente        ·Norma\n        5.11              Física                 El patrón cumple cuando al realizar un recorrido en el centro de\n                                                 trabajo se constata que las áreas del centro de trabajo en donde se\n                                                 requiere el uso obligatorio de equipo de protección personal, están\n                                                 señalizadas conforme a lo establecido en la NOM-026-STPS-2008,\n                                                 vigente o las que la sustituyan.\n\n        5.12              Registro               El patrón cumple cuando:\n\n                                                 ·   Presenta evidencia de que cuenta con el registro sobre la\n                                                      revisión, reposición, limpieza, mantenimiento, resguardo y\n                                                      disposición final del equipo, tratándose de equipo de\n                                                      protección personal que requiera mantenimiento y/o se utilice\n                                                      para la protección contra sustancias químicas peligrosas o\n                                                      agentes biológicos capaces de alterar la salud de las personas\n                                                      trabajadoras.\n\n                                                 · El registro contiene la información siguiente:\n                                                      ✔      La razón social del centro de trabajo;\n\n                                                      ✔      El domicilio completo;\n\n                                                      ✔      El tipo de equipo de protección personal;\n\n                                                      ✔        El tipo de registro: revisión, reposición, limpieza,\n                                                            mantenimiento, resguardo y disposición final del equipo;\n\n                                                      ✔      La fecha de registro;\n\n                                                      ✔      El nombre y firma de la persona trabajadora que recibió\n                                                            el equipo de protección personal, y\n\n                                                      ✔      El nombre y firma del responsable de entregar el equipo\n                                                            y llevar el registro.\n\n                                                 ·    En caso del equipo de protección personal sea libre de\n                                                      mantenimiento (desechable) el patrón lleva el registro de su\n                                                      entrega y reposición.\n\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5753280&fecha=28/03/2025&print=true                                                                      11/14\n\f1/10/25, 12:49                                                    DOF - Diario Oficial de la Federación",
+    "start_char": 35381,
+    "end_char": 79042
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "9.4",
+    "label": "9.4 Para la selección de las personas trabajadoras por entrevistar por parte de la autoridad laboral y/o las unidades de",
+    "text": "9.4 Para la selección de las personas trabajadoras por entrevistar por parte de la autoridad laboral y/o las unidades de\n      inspección, con el propósito de constatar el cumplimiento de las disposiciones que integran el presente procedimiento para la\n      evaluación de la conformidad, se aplicará el criterio muestral contenido en la Tabla 1 siguiente:\n                                                                      Tabla 1\n                                                       Muestreo por selección aleatoria\n                                                                                          Número de personas trabajadoras\n                   Número total de personas trabajadoras\n                                                                                                  por entrevistar\n                                      1-15                                                                1\n                                      16-50                                                               2\n                                     51-105                                                               3\n                                                                                         1 por cada 35 personas trabajadoras,\n                                   Más de 105\n                                                                                                hasta un máximo de 15",
+    "start_char": 79055,
+    "end_char": 80484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:9-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "9.5",
+    "label": "9.5 Las evidencias de tipo documental o los registros a que alude esta Norma podrán exhibirse de manera impresa o en",
+    "text": "9.5 Las evidencias de tipo documental o los registros a que alude esta Norma podrán exhibirse de manera impresa o en\n      medios electrónicos, y se deben conservar al menos durante un año, a partir de la fecha de elaboración.",
+    "start_char": 80495,
+    "end_char": 80721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "10",
+    "label": "10. Vigilancia",
+    "text": "10. Vigilancia\n         La vigilancia del cumplimiento de la presente Norma Oficial Mexicana corresponde a la Secretaría del Trabajo y Previsión\n      Social.",
+    "start_char": 80732,
+    "end_char": 80890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "11",
+    "label": "11. Bibliografía",
+    "text": "11. Bibliografía",
+    "start_char": 80901,
+    "end_char": 80917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "11.1",
+    "label": "11.1 Health and safety Executive. Personal protective equipment at work.(Third edition) published 2015.",
+    "text": "11.1 Health and safety Executive. Personal protective equipment at work.(Third edition) published 2015.",
+    "start_char": 80928,
+    "end_char": 81031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:11-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "11.2",
+    "label": "11.2 U.S. Department of Labor. Occupational Safety and Health Administration. Personal protective Equipment. 2004.",
+    "text": "11.2 U.S. Department of Labor. Occupational Safety and Health Administration. Personal protective Equipment. 2004.",
+    "start_char": 81042,
+    "end_char": 81156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-017-stps-2024:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
+    "number": "12",
+    "label": "12. Concordancia con Normas Internacionales",
+    "text": "12. Concordancia con Normas Internacionales\n         Esta Norma Oficial Mexicana no es equivalente con ninguna norma internacional por no existir, en los mismos términos de la\n      presente, al momento de su elaboración.",
+    "start_char": 81167,
+    "end_char": 81388
+  }
+]

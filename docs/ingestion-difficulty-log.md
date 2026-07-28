@@ -54,9 +54,23 @@ packet-based review policy.
   2023-record handling, `nom-register.md`).
 - `annex-form-numbering` — a numbered fill-in-form annex (a "Guía de
   Referencia"-style annex/format with fields like `1.`, `1.1`, `2.`, `2.1`
-  ...) out-competes the standard's real numbered body for the clause
-  parser's run-selection heuristic (see the log entry below for the
-  mechanism).
+  ...) whose numbering *restarts* independently, out-competing the
+  standard's real numbered body on raw length for the clause parser's
+  run-selection heuristic (see `nom-019-stps-2011` below).
+- `annex-continues-numbering` — distinct from the above: the real body is
+  selected correctly from clause 1, but the run does not *stop* at the
+  terminal heading (Bibliografía/Concordancia). A following annex, table,
+  or questionnaire whose rows continue the same numeric sequence is
+  absorbed as if those rows were clauses. Severity scales with the annex:
+  one stray table row (`nom-024-stps-2001`) to 744 phantom clauses
+  (`nom-010-stps-2014`).
+- `indice-selected-as-body` — the índice (table of contents) is itself a
+  short, complete, consecutive numbered run starting at 1, so it can win
+  run-selection outright and be compiled as the entire clause body,
+  leaving the real body unparsed. Detectable by clause-span coverage: the
+  selected run covers a tiny fraction of the document
+  (`nom-052-semarnat-2005`, 1.1%). This is the clause-side analogue of the
+  índice/real-section ambiguity Scope 1 already solved for transitories.
 
 Add a new class here the first time it's seen; do not invent a class for a
 single one-off unless it plausibly recurs.
@@ -111,3 +125,97 @@ itself lists `TRANSITORIOS` before the annex, so cutting there would
 truncate the real body to nothing — the same índice-vs-real-section
 ambiguity Scope 1 already solved for transitories would have to be reused
 here too, not reinvented.
+
+### nom-010-stps-2014 — annex-continues-numbering — 2026-07-28
+
+What's difficult: the real body parses correctly as clauses 1–20
+(`1. Objetivo` … `20. Concordancia con normas internacionales`), but the
+run continues straight past the terminal heading into Apéndice I's
+chemical-substances table, whose rows are numbered `21.`, `22.`, … `764.`
+in the same continuous sequence. Those 744 table rows are compiled as
+top-level clauses: `764. Yoduro de metilo | Daño a ojos…` is recorded as
+a clause of the standard. Result: 950 clauses instead of ~150, validating
+clean (0 issues) because the validator checks internal consistency of the
+selected run, not whether the run should have ended.
+
+What was tried: compiled to `.work/` only. Note the acquisition detail —
+the platiica PDF for this standard is at `010stps2014.pdf`, not the
+`NOM-010-STPS-2014.pdf` pattern the registry page links (that URL returns
+an HTML error page, not a PDF).
+
+Status: open. Not committed to `corpus/`.
+
+### nom-035-stps-2018 — annex-continues-numbering — 2026-07-28
+
+What's difficult: same mechanism as `nom-010-stps-2014`, smaller. Real
+body parses correctly as clauses 1–13 (`1. Objetivo` …
+`13. Concordancia con normas internacionales`), then the Guía de
+Referencia questionnaire's items continue the sequence as `14.` … `26.`
+and are absorbed as clauses — e.g. `26. Puedo decidir cuánto trabajo
+realizo durante la jornada`. Two of the absorbed rows (`14`, `17`) are
+byte-identical questionnaire items, which is itself a signal they are
+not clauses.
+
+What was tried: compiled to `.work/` only.
+
+Status: open. Not committed to `corpus/`.
+
+### nom-024-stps-2001 — annex-continues-numbering — 2026-07-28
+
+What's difficult: the mildest instance of the class — the body parses
+correctly through `12. Concordancia con normas internacionales`, then a
+single numeric table row is absorbed as clause `12.5`, with a label
+consisting only of figures (`0.024  0.025  0.0…`). One phantom clause, not
+744, but a clause that does not exist in the standard would still enter
+canonical data.
+
+What was tried: compiled to `.work/` only. Detected by a label-content
+check (a clause label containing no alphabetic character), not by the
+validator, which reports 0 issues.
+
+Status: open. Not committed to `corpus/`. Plausibly closed by the same
+terminal-heading fix as the two entries above; worth confirming it is the
+same root cause and not a separate table-parsing issue.
+
+### nom-052-semarnat-2005 — indice-selected-as-body — 2026-07-28
+
+What's difficult: the compiled `clauses.json` contains exactly 11 clauses
+spanning bytes 9444–9918 of a 122,575-byte document — 1.1% coverage. That
+span is the índice, not the body: the parser selected the table of
+contents (`1. Introducción` … `11. Vigilancia de esta Norma`, each a
+single line) as the standard's entire clause structure. Every substantive
+provision, including the hazardous-waste listings this standard exists
+for, is absent. Validates clean (0 issues) for the same reason as the
+entries above.
+
+What was tried: compiled to `.work/` only. Surfaced by a clause-span
+coverage check (selected-run byte span ÷ document length), which is a
+cheap and apparently reliable discriminator for this class — every other
+instrument in this batch scored ≥0.31.
+
+Status: open. Not committed to `corpus/`.
+
+### nom-002-semarnat-1996 — metadata-ambiguity — 2026-07-28
+
+What's difficult: not a parser problem — the text parses cleanly (72
+clauses, 3 transitories, 0 issues, 78% coverage, terminating correctly).
+The problem is identity. The official retained text is titled **NOM-002-
+ECOL-1996**, issued by the *Secretaría de Medio Ambiente, Recursos
+Naturales y Pesca* (SEMARNAP). The platiica registry indexes the same
+instrument as **NOM-002-SEMARNAT-1996** under SEMARNAT. The ECOL→SEMARNAT
+redesignation follows the SEMARNAP→SEMARNAT reorganization and is
+conventionally treated as the same instrument, but this repository does
+not resolve a legal-identity question by convention: committing it would
+mean asserting a `designation` that appears nowhere in its own retained
+source text, and `standard.json` has no field to record that the
+published designation differs from the current registry designation.
+
+What was tried: compiled to `.work/` only, with `designation` set to the
+registry form and `publisher`/`issuing_authorities` set to the SEMARNAP
+form actually named in the text — an inconsistency that is itself the
+evidence this needs a decision.
+
+Status: open. Not committed to `corpus/`. Needs a reviewer decision on
+which designation is canonical, and probably a metadata field for a
+superseded/published designation distinct from the current one. Note this
+will recur: any pre-2000 ECOL-era environmental NOM has the same split.

@@ -1,0 +1,34 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-033-stps-2015:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-033-stps-2015",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a los tres meses siguientes a su\npublicación en el Diario Oficial de la Federación.",
+    "start_char": 159020,
+    "end_char": 159164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-033-stps-2015:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-033-stps-2015",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO. Durante el lapso establecido en el artículo anterior, los patrones deberán cumplir con las\ndisposiciones específicas para realizar trabajos en espacios confinados contenidas en las normas oficiales\nmexicanas NOM-005-STPS-1998, Relativa a las condiciones de seguridad e higiene en los centros de trabajo\npara el manejo, transporte y almacenamiento de sustancias químicas peligrosas, y la NOM-027-STPS-2008,\nActividades de soldadura y corte-Condiciones de seguridad e higiene, o bien podrán cumplir con la NOM-033-\nSTPS-2015, Condiciones de seguridad para realizar trabajos en espacios confinados.\n    En caso de optar por dar cumplimiento a la NOM-033-STPS-2015, Condiciones de seguridad para realizar\ntrabajos en espacios confinados, los patrones interesados deberán informar, de manera previa, a la autoridad\nlaboral esta decisión y podrán solicitar una inspección de asesoría y asistencia técnica para instrumentar su\ncumplimiento, en los términos de los artículos 18 y 19 del Reglamento General de Inspección del Trabajo y\nAplicación de Sanciones, sin que se hagan acreedores a sanciones por el incumplimiento de la Norma en\nvigor.",
+    "start_char": 159169,
+    "end_char": 160312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-033-stps-2015:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-033-stps-2015",
+    "ordinal": "TERCERO",
+    "text": "TERCERO. A partir de la fecha en que entre en vigor esta Norma quedarán sin efecto los numerales 8\ninciso g), subinciso 5), y 9.10 de la NOM-005-STPS-1998, Relativa a las condiciones de seguridad e higiene\n\f       (Segunda Sección)                       DIARIO OFICIAL                      Lunes 31 de agosto de 2015\n\nen los centros de trabajo para el manejo, transporte y almacenamiento de sustancias químicas peligrosas,\npublicada en el Diario Oficial de la Federación de 2 de febrero de 1999, así como los numerales 9.2 y 10.5 de\nla NOM-027-STPS-2008, Actividades de soldadura y corte-Condiciones de seguridad e higiene, publicada en\nel Diario Oficial de la Federación de 7 de noviembre de 2008.\n   México, Distrito Federal, a los treinta días del mes de julio de dos mil quince.- El Secretario del Trabajo y\nPrevisión Social, Jesús Alfonso Navarrete Prida.- Rúbrica.",
+    "start_char": 160317,
+    "end_char": 161187,
+    "asserted_dates": [
+      "2015-08-31",
+      "1999-02-02",
+      "2008-11-07"
+    ]
+  }
+]

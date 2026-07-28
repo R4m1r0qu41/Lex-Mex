@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-006-stps-2023:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-006-stps-2023",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a los 180 días naturales, posteriores a su publicación en el\n      Diario Oficial de la Federación.",
+    "start_char": 208897,
+    "end_char": 209057
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-006-stps-2023:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-006-stps-2023",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO. A partir de la fecha en que entre en vigor esta Norma quedará sin efectos la Norma Oficial Mexicana NOM-006-\n      STPS-2014, Manejo y almacenamiento de materiales-Condiciones de seguridad y salud en el trabajo, publicada en el Diario\n      Oficial de la Federación de 11 de septiembre de 2014.",
+    "start_char": 209068,
+    "end_char": 209371,
+    "asserted_dates": [
+      "2014-09-11"
+    ]
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-006-stps-2023:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-006-stps-2023",
+    "ordinal": "TERCERO",
+    "text": "TERCERO. Durante el lapso previsto en el artículo anterior, los patrones deberán cumplir con la Norma Oficial Mexicana\n      NOM-006-STPS-2014, Manejo de materiales-Condiciones de seguridad y salud en el trabajo, o bien podrán cumplir con la NOM-\n      006-STPS-2023, Almacenamiento y manejo de materiales mediante el uso de maquinaria - Condiciones de seguridad en el\n      trabajo.",
+    "start_char": 209382,
+    "end_char": 209765
+  }
+]

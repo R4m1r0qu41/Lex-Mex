@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+  "kind": "nom",
+  "designation": "NOM-018-STPS-2015",
+  "official_title": "Sistema armonizado para la identificación y comunicación de peligros y riesgos por sustancias químicas peligrosas en los centros de trabajo",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "sustancias químicas peligrosas",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2015-10-09",
+  "effective_date": "2018-10-09",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-018-STPS-2000"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2023-12-08",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-018-STPS-2015_2023_ultima_revision.PDF"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/NOM-018-STPS-2015.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-018-STPS-2015/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "ba5adc288b4aabae716f315e43338a60fcd0c5a2bfb881ffe52d5c8c14fd8565",
+  "extracted_text_sha256": "12659dcac59800c338a01c0b7bfff076011d9fc221c37a10d44ab5653c0dc1ad",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

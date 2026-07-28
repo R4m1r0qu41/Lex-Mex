@@ -1,0 +1,1512 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "1",
+    "label": "1. Objetivo y campo de aplicación",
+    "text": "1. Objetivo y campo de aplicación\n   La Norma Oficial Mexicana tiene por objeto establecer los límites permisibles de contaminantes en las\ndescargas de aguas residuales, con el fin de proteger, conservar y mejorar la calidad de las aguas y bienes\nnacionales.\n    Es de observancia obligatoria para los responsables de las descargas de aguas residuales en cualquier\ntipo de cuerpo receptor propiedad de la Nación.\n   La Norma no aplica a las descargas de aguas provenientes de drenajes destinados exclusivamente para\naguas pluviales ni a las descargas que se vierten directamente a sistemas de drenaje y alcantarillado\nmunicipales.\n\f                                               DIARIO OFICIAL                    Viernes 11 de marzo de 2022",
+    "start_char": 20461,
+    "end_char": 21201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2",
+    "label": "2. Referencias normativas",
+    "text": "2. Referencias normativas\n    Los siguientes documentos referidos o los que los sustituyan, son necesarios para la correcta aplicación\nde esta Norma Oficial Mexicana.",
+    "start_char": 21207,
+    "end_char": 21373
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.1",
+    "label": "2.1. Norma Mexicana NMX-AA-003-1980, Aguas residuales-Muestreo (cancela a la NMX-AA-003-1975).",
+    "text": "2.1. Norma Mexicana NMX-AA-003-1980, Aguas residuales-Muestreo (cancela a la NMX-AA-003-1975).\nDeclaratoria de vigencia publicada en el Diario Oficial de la Federación el 25 de marzo de 1980.",
+    "start_char": 21378,
+    "end_char": 21569
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.2",
+    "label": "2.2. Norma Mexicana NMX-AA-005-SCFI-2013, Análisis de agua-Medición de grasas y                     aceites",
+    "text": "2.2. Norma Mexicana NMX-AA-005-SCFI-2013, Análisis de agua-Medición de grasas y                     aceites\nrecuperables en aguas naturales, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-\n005-SCFI-2000). Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 11 de abril de\n2014.",
+    "start_char": 21574,
+    "end_char": 21899
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.3",
+    "label": "2.3. Norma Mexicana NMX-AA-007-SCFI-2013, Análisis de agua-Medición de la temperatura en aguas",
+    "text": "2.3. Norma Mexicana NMX-AA-007-SCFI-2013, Análisis de agua-Medición de la temperatura en aguas\nnaturales, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-007-SCFI-2000).\nDeclaratoria de vigencia publicada en el Diario Oficial de la Federación el 23 de enero de 2014.",
+    "start_char": 21904,
+    "end_char": 22193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.4",
+    "label": "2.4. Norma Mexicana NMX-AA-008-SCFI-2016 Análisis de agua-Medición de pH en aguas naturales,",
+    "text": "2.4. Norma Mexicana NMX-AA-008-SCFI-2016 Análisis de agua-Medición de pH en aguas naturales,\nresiduales y residuales tratadas-Método de prueba (cancela a la NMX-AA-008-SCFI-2011). Declaratoria de\nvigencia publicada en el Diario Oficial de la Federación el 9 de septiembre de 2016.",
+    "start_char": 22198,
+    "end_char": 22478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.5",
+    "label": "2.5. Norma Mexicana NMX-AA-017-1980, Aguas-Determinación de color (cancela a la NMX-AA-017-1975).",
+    "text": "2.5. Norma Mexicana NMX-AA-017-1980, Aguas-Determinación de color (cancela a la NMX-AA-017-1975).\nDeclaratoria de vigencia publicada en Diario Oficial de la Federación el 11 de julio de 1980.",
+    "start_char": 22483,
+    "end_char": 22674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.6",
+    "label": "2.6. Norma Mexicana NMX-AA-026-SCFI-2010, Análisis de agua-Medición de Nitrógeno Total Kjeldahl en",
+    "text": "2.6. Norma Mexicana NMX-AA-026-SCFI-2010, Análisis de agua-Medición de Nitrógeno Total Kjeldahl en\naguas naturales, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-026-SCFI-2001).\nDeclaratoria de vigencia publicada en el Diario Oficial de la Federación el 3 de marzo de 2011.",
+    "start_char": 22679,
+    "end_char": 22977
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.7",
+    "label": "2.7. Norma Mexicana NMX-AA-029-SCFI-2001, Análisis de aguas-Determinación de fósforo total en aguas",
+    "text": "2.7. Norma Mexicana NMX-AA-029-SCFI-2001, Análisis de aguas-Determinación de fósforo total en aguas\nnaturales, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-029-1981). Declaratoria\nde vigencia publicada en el Diario Oficial de la Federación el 17 de abril de 2001.",
+    "start_char": 22982,
+    "end_char": 23271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.8",
+    "label": "2.8. Norma Mexicana NMX-AA-030/1-SCFI-2012, Análisis de Agua-Medición de la demanda química de",
+    "text": "2.8. Norma Mexicana NMX-AA-030/1-SCFI-2012, Análisis de Agua-Medición de la demanda química de\noxígeno en aguas naturales, residuales y residuales tratadas. -Método de prueba-parte 1-Método de reflujo\nabierto (cancela a la NMX-AA-030-SCFI-2001). Declaratoria de vigencia publicada en el Diario Oficial de la\nFederación el 21 de mayo del 2013.",
+    "start_char": 23276,
+    "end_char": 23618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.9",
+    "label": "2.9. Norma Mexicana NMX-AA-030/2-SCFI-2011, Análisis de Agua-Determinación de la demanda química",
+    "text": "2.9. Norma Mexicana NMX-AA-030/2-SCFI-2011, Análisis de Agua-Determinación de la demanda química\nde oxígeno en aguas naturales, residuales y residuales tratadas-Método de prueba-parte 2-Determinación del\níndice de la demanda química de oxígeno-Método de tubo sellado a pequeña escala. Declaratoria de vigencia\npublicada en el Diario Oficial de la Federación el 27 de junio de 2013.",
+    "start_char": 23623,
+    "end_char": 24004
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.10",
+    "label": "2.10. Norma Mexicana NMX-AA-034-SCFI-2015, Análisis de agua–Medición de sólidos y sales disueltas",
+    "text": "2.10. Norma Mexicana NMX-AA-034-SCFI-2015, Análisis de agua–Medición de sólidos y sales disueltas\nen agua naturales, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-034-SCFI-2001).\nDeclaratoria de vigencia publicada en el Diario Oficial de la Federación el 18 de abril de 2016.",
+    "start_char": 24009,
+    "end_char": 24309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.11",
+    "label": "2.11. Norma Mexicana NMX-AA-042-SCFI-2015, Análisis de agua-Enumeración de organismos coliformes",
+    "text": "2.11. Norma Mexicana NMX-AA-042-SCFI-2015, Análisis de agua-Enumeración de organismos coliformes\ntotales, organismos coliformes fecales (termotolerantes) y escherichia coli-Método del número más probable\nen tubos múltiples (cancela a la NMX-AA-42-1987). Declaratoria de vigencia publicada en Diario Oficial de la\nFederación el 18 de abril de 2016.",
+    "start_char": 24314,
+    "end_char": 24661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.12",
+    "label": "2.12. Norma Mexicana NMX-AA-051-SCFI-2016 Análisis de agua-Medición de metales por absorción",
+    "text": "2.12. Norma Mexicana NMX-AA-051-SCFI-2016 Análisis de agua-Medición de metales por absorción\natómica en aguas naturales, potables, residuales y residuales tratadas–Método de prueba (cancela a la NMX-\nAA-051-2001). Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 7 de diciembre de\n2016.",
+    "start_char": 24666,
+    "end_char": 24979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.13",
+    "label": "2.13. Norma Mexicana NMX-AA-058-SCFI-2001, Análisis de aguas-Determinación de cianuros totales en",
+    "text": "2.13. Norma Mexicana NMX-AA-058-SCFI-2001, Análisis de aguas-Determinación de cianuros totales en\naguas naturales, potables, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-058-\n1982). Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 13 de agosto de 2001.",
+    "start_char": 24984,
+    "end_char": 25289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.14",
+    "label": "2.14 Norma Mexicana NMX-AA-073-SCFI-2001, Análisis de agua-Determinación de cloruros totales en",
+    "text": "2.14 Norma Mexicana NMX-AA-073-SCFI-2001, Análisis de agua-Determinación de cloruros totales en\naguas naturales, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-073-1981).\nDeclaratoria de vigencia publicada en el Diario Oficial de la Federación el 13 de agosto de 2001.",
+    "start_char": 25294,
+    "end_char": 25586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.15",
+    "label": "2.15. Norma Mexicana NMX-AA-079-SCFI-2001, Análisis de aguas-Determinación de nitratos en aguas",
+    "text": "2.15. Norma Mexicana NMX-AA-079-SCFI-2001, Análisis de aguas-Determinación de nitratos en aguas\nnaturales, potables, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-079-1986).\nDeclaratoria de vigencia publicada en el Diario Oficial de la Federación del 13 de agosto de 2001.",
+    "start_char": 25591,
+    "end_char": 25888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.16",
+    "label": "2.16. Norma Mexicana NMX-AA-093-SCFI-2018 Análisis de agua-Medición de la conductividad eléctrica",
+    "text": "2.16. Norma Mexicana NMX-AA-093-SCFI-2018 Análisis de agua-Medición de la conductividad eléctrica\nen aguas naturales, residuales y residuales tratadas.-Método de prueba (cancela a la NMX-AA-093-SCFI-\n2000). Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 26 de julio de 2018.",
+    "start_char": 25893,
+    "end_char": 26196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.17",
+    "label": "2.17. Norma Mexicana NMX-AA-099-SCFI-2006, Análisis de Agua-Determinación de nitrógeno de nitritos",
+    "text": "2.17. Norma Mexicana NMX-AA-099-SCFI-2006, Análisis de Agua-Determinación de nitrógeno de nitritos\nen aguas naturales y residuales-Métodos de prueba (cancela a la NMX-AA-099-SCFI-1987). Declaratoria de\nvigencia 21 de agosto 2006.",
+    "start_char": 26201,
+    "end_char": 26430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.18",
+    "label": "2.18. Norma Mexicana NMX-AA-112-SCFI-2017 Análisis de agua y Sedimentos-Evaluación de Toxicidad",
+    "text": "2.18. Norma Mexicana NMX-AA-112-SCFI-2017 Análisis de agua y Sedimentos-Evaluación de Toxicidad\nAguda con Vibrio Fischeri-Método de prueba (Cancela a la NMX-AA-112-1995-SCFI). Declaratoria de vigencia\npublicada en el Diario Oficial de la Federación el 19 de octubre de 2017.\n\f   Viernes 11 de marzo de 2022                 DIARIO OFICIAL",
+    "start_char": 26435,
+    "end_char": 26772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.19",
+    "label": "2.19. Norma Mexicana NMX-AA-113-SCFI-2012, Análisis de agua-Medición del número de huevos de",
+    "text": "2.19. Norma Mexicana NMX-AA-113-SCFI-2012, Análisis de agua-Medición del número de huevos de\nhelminto en aguas residuales y residuales tratadas por observación microscópica-Método de prueba (cancela\na la NMX-AA-113-SCFI-1999). Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 9 de\nabril de 2013.",
+    "start_char": 26779,
+    "end_char": 27101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.20",
+    "label": "2.20. Norma Mexicana NMX-AA-120-SCFI-2016 Que establece los requisitos y especificaciones de",
+    "text": "2.20. Norma Mexicana NMX-AA-120-SCFI-2016 Que establece los requisitos y especificaciones de\nsustentabilidad de calidad de playas (cancela a la NMX-AA-120-SCFI-2006). Apéndice normativo B, Método\nde referencia \"Sustrato cromogénico definido y fluorogénico para determinar Enterococos en agua\".\nDeclaratoria de vigencia publicada en el Diario Oficial de la Federación el 7 de diciembre de 2016.",
+    "start_char": 27107,
+    "end_char": 27500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.21",
+    "label": "2.21. Norma Mexicana NMX-AA-167-SCFI-2017. Análisis de Agua-Enumeración de                     Organismos",
+    "text": "2.21. Norma Mexicana NMX-AA-167-SCFI-2017. Análisis de Agua-Enumeración de                     Organismos\nPatógenos: Enterococos Fecales en Aguas Naturales, Residuales, Residuales Tratadas, Salinas y Costeras–\nMétodo de Prueba. Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 8 de junio de\n2017.\n     Las determinaciones de Conductividad eléctrica para Enterococos fecales o Escherichia coli, y de Cloruros\npara DQO o COT no requieren la acreditación y aprobación de la entidad correspondiente.",
+    "start_char": 27506,
+    "end_char": 28028
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:2-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "2.22",
+    "label": "2.22. ISO 7887 Third edition 2011-12-15. Water quality-Examination and determination of colour. Method",
+    "text": "2.22. ISO 7887 Third edition 2011-12-15. Water quality-Examination and determination of colour. Method\nB: Determination of the true colour using optical instruments, en los numerales de la NOM-001-SEMARNAT-\n2021 que resulten aplicables.",
+    "start_char": 28034,
+    "end_char": 28270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3",
+    "label": "3. Términos y definiciones",
+    "text": "3. Términos y definiciones\n     Para los efectos de esta Norma se consideran las definiciones contenidas en la Ley General del Equilibrio\nEcológico y la Protección al Ambiente, la Ley de Aguas Nacionales y su Reglamento, la Ley Federal de\nDerechos y la Ley Federal sobre Metrología y Normalización y su Reglamento, así como las siguientes:",
+    "start_char": 28276,
+    "end_char": 28615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.1",
+    "label": "3.1. Acta Circunstanciada:",
+    "text": "3.1. Acta Circunstanciada:\n     Documento que emite la Comisión, la Procuraduría o la Unidad de Verificación en el que se harán constar\nen forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia.",
+    "start_char": 28621,
+    "end_char": 28854
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.2",
+    "label": "3.2. Aguas pluviales: Aquellas que precipitan de la atmósfera de forma natural, ya sea en forma de",
+    "text": "3.2. Aguas pluviales: Aquellas que precipitan de la atmósfera de forma natural, ya sea en forma de\nlluvias, nieve y/o granizo.",
+    "start_char": 28860,
+    "end_char": 28986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.3",
+    "label": "3.3 Carbono Orgánico Total: Es un indicador de la materia orgánica presente en el agua; también es",
+    "text": "3.3 Carbono Orgánico Total: Es un indicador de la materia orgánica presente en el agua; también es\nconocido como la diferencia del carbono total menos el carbono inorgánico en una sola masa; y se conforma\nde las distintas fracciones como Carbono Orgánico Disuelto, Carbono Orgánico Purgable, Carbono Orgánico\nSuspendido, y Carbono Orgánico No Purgable.",
+    "start_char": 28992,
+    "end_char": 29344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.4",
+    "label": "3.4. Cianuros: Se refiere a todos los grupos CN- en compuestos cianurados que pueden ser",
+    "text": "3.4. Cianuros: Se refiere a todos los grupos CN- en compuestos cianurados que pueden ser\ndeterminados como ion cianuro.",
+    "start_char": 29350,
+    "end_char": 29469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.5",
+    "label": "3.5. Color verdadero: Es el color de la muestra debido a sustancias en forma disuelta, se mide en la",
+    "text": "3.5. Color verdadero: Es el color de la muestra debido a sustancias en forma disuelta, se mide en la\nmuestra una vez que se eliminaron los sólidos suspendidos y pseudocoloidales para ello la muestra será\nfiltrada o centrifugada.",
+    "start_char": 29475,
+    "end_char": 29703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.6",
+    "label": "3.6. Comisión: Comisión Nacional del Agua.",
+    "text": "3.6. Comisión: Comisión Nacional del Agua.",
+    "start_char": 29709,
+    "end_char": 29751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.7",
+    "label": "3.7. Concentración Efectiva Media (CE50): Concentración en la que una sustancia, materiales o mezcla",
+    "text": "3.7. Concentración Efectiva Media (CE50): Concentración en la que una sustancia, materiales o mezcla\nde ellos, en forma pura o combinados en muestras ambientales o de proceso, genere efectos o cambios\nadversos en el 50% de los organismos de prueba expuestos o en el parámetro biológico seleccionado para\nevaluar el efecto tóxico.",
+    "start_char": 29757,
+    "end_char": 30086
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.8",
+    "label": "3.8. Contaminantes patógenos y parasitarios: Son aquellos microorganismos, quistes y huevos de",
+    "text": "3.8. Contaminantes patógenos y parasitarios: Son aquellos microorganismos, quistes y huevos de\nparásitos que pueden estar presentes en las aguas residuales y que representan un riesgo a la salud humana,\nflora o fauna. En lo que corresponde a esta Norma Oficial Mexicana sólo se consideran Escherichia coli,\nEnterococos fecales y los huevos de helmintos.",
+    "start_char": 30092,
+    "end_char": 30445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.9",
+    "label": "3.9. Coordenadas geográficas: Sistema de referencia que permite localizar un punto en la superficie de",
+    "text": "3.9. Coordenadas geográficas: Sistema de referencia que permite localizar un punto en la superficie de\nla tierra y que emplea para ello dos coordenadas angulares, Latitud (norte) y Longitud (oeste), expresadas en\ngrados sexagesimales en sus tres componentes (Grados (°), minutos (´) y segundos (”)) y referenciadas al\nDatum WGS84.",
+    "start_char": 30451,
+    "end_char": 30781
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.10",
+    "label": "3.10. Demanda Química de Oxígeno (DQO): La medida del oxígeno consumido por la oxidación de la",
+    "text": "3.10. Demanda Química de Oxígeno (DQO): La medida del oxígeno consumido por la oxidación de la\nmateria orgánica e inorgánica en una prueba específica.",
+    "start_char": 30787,
+    "end_char": 30937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.11",
+    "label": "3.11. Dictamen de conformidad: Documento emitido por la Procuraduría, o la Unidad de Verificación o",
+    "text": "3.11. Dictamen de conformidad: Documento emitido por la Procuraduría, o la Unidad de Verificación o\npor la Comisión que avala el cumplimiento de la presente Norma.",
+    "start_char": 30943,
+    "end_char": 31106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.12",
+    "label": "3.12. Dren: Una estructura artificial destinada al transporte de aguas nacionales y que se encuentra",
+    "text": "3.12. Dren: Una estructura artificial destinada al transporte de aguas nacionales y que se encuentra\nabierta a la atmósfera.",
+    "start_char": 31112,
+    "end_char": 31236
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.13",
+    "label": "3.13. Embalse: Vaso de formación artificial que se origina por la construcción de un bordo o cortina o vaso",
+    "text": "3.13. Embalse: Vaso de formación artificial que se origina por la construcción de un bordo o cortina o vaso\nde formación natural, ambos alimentados por uno o varios ríos, o por agua subterránea o pluvial.",
+    "start_char": 31242,
+    "end_char": 31446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.14",
+    "label": "3.14. Emergencia hidroecológica: Es un evento súbito e inesperado de evolución rápida que altera la",
+    "text": "3.14. Emergencia hidroecológica: Es un evento súbito e inesperado de evolución rápida que altera la\ncalidad de un cuerpo de agua nacional y que pone en peligro la salud o la vida en el ecosistema acuático.\n\f                                                DIARIO OFICIAL                     Viernes 11 de marzo de 2022",
+    "start_char": 31452,
+    "end_char": 31769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.15",
+    "label": "3.15. Entidad de acreditación: Persona moral autorizada en los términos de la Ley Federal sobre",
+    "text": "3.15. Entidad de acreditación: Persona moral autorizada en los términos de la Ley Federal sobre\nMetrología y Normalización para reconocer la competencia técnica y confiabilidad de los organismos de\ncertificación, de los laboratorios de prueba, de los laboratorios de calibración y de las unidades de verificación\npara evaluar la conformidad.",
+    "start_char": 31775,
+    "end_char": 32116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.16",
+    "label": "3.16. Estuario: Es el tramo del curso o corriente de agua bajo la influencia de las mareas que se extiende",
+    "text": "3.16. Estuario: Es el tramo del curso o corriente de agua bajo la influencia de las mareas que se extiende\ndesde la línea de costa hasta el punto donde la concentración de cloruros en el agua es igual o mayor a 250\nmg/L.",
+    "start_char": 32121,
+    "end_char": 32341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.17",
+    "label": "3.17. Fósforo Total: Suma de las concentraciones de fosfatos (ortofosfatos, fosfatos condensados, otros",
+    "text": "3.17. Fósforo Total: Suma de las concentraciones de fosfatos (ortofosfatos, fosfatos condensados, otros\npolifosfatos, y fosfatos orgánicos).",
+    "start_char": 32346,
+    "end_char": 32486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.18",
+    "label": "3.18. Grasas y Aceites: Son los compuestos orgánicos constituidos principalmente por ácidos grasos de",
+    "text": "3.18. Grasas y Aceites: Son los compuestos orgánicos constituidos principalmente por ácidos grasos de\norigen animal y vegetal, así como de hidrocarburos del petróleo que son extraídos de la muestra utilizando\nhexano como solvente.",
+    "start_char": 32491,
+    "end_char": 32721
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.19",
+    "label": "3.19. Infiltración: Acción de introducir aguas residuales tratadas a través del suelo, siempre y cuando su",
+    "text": "3.19. Infiltración: Acción de introducir aguas residuales tratadas a través del suelo, siempre y cuando su\nfin no sea la recarga del acuífero de manera directa.",
+    "start_char": 32726,
+    "end_char": 32886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.20",
+    "label": "3.20. Informe de resultados de muestreo y análisis: Aquél que realiza un laboratorio acreditado y",
+    "text": "3.20. Informe de resultados de muestreo y análisis: Aquél que realiza un laboratorio acreditado y\naprobado, ya sea en forma física y/o en sistema electrónico que para tal efecto determine la Comisión, en el\ncual informará el resultado de los análisis realizados en las descargas de aguas residuales.",
+    "start_char": 32891,
+    "end_char": 33190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.21",
+    "label": "3.21. Interesado: Persona física o moral legalmente establecida quien solicita voluntariamente la",
+    "text": "3.21. Interesado: Persona física o moral legalmente establecida quien solicita voluntariamente la\nevaluación de la conformidad de su descarga de aguas residuales con respecto a la presente Norma.",
+    "start_char": 33195,
+    "end_char": 33390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.22",
+    "label": "3.22. Laboratorio: Laboratorio de ensayo o prueba acreditado por una entidad de acreditación y aprobado",
+    "text": "3.22. Laboratorio: Laboratorio de ensayo o prueba acreditado por una entidad de acreditación y aprobado\npor la Comisión para la realización de muestreos y análisis a que se refiere esta Norma.",
+    "start_char": 33395,
+    "end_char": 33587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-23",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.23",
+    "label": "3.23. Lago y laguna: Vaso de formación natural o cualquier otro tipo de embalse natural que es",
+    "text": "3.23. Lago y laguna: Vaso de formación natural o cualquier otro tipo de embalse natural que es\nalimentado por uno o varios ríos o agua subterránea o pluvial. En este concepto no se incluye a las lagunas\nque se comuniquen permanente o intermitentemente con el mar.",
+    "start_char": 33592,
+    "end_char": 33855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.24",
+    "label": "3.24. Ley: Ley de Aguas Nacionales (LAN).",
+    "text": "3.24. Ley: Ley de Aguas Nacionales (LAN).",
+    "start_char": 33860,
+    "end_char": 33901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-25",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.25",
+    "label": "3.25. Límite permisible: Valor o intervalo de valores asignado a un parámetro, el cual no debe ser",
+    "text": "3.25. Límite permisible: Valor o intervalo de valores asignado a un parámetro, el cual no debe ser\nexcedido en las aguas residuales descargadas en cuerpos receptores propiedad de la Nación.",
+    "start_char": 33906,
+    "end_char": 34095
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-26",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.26",
+    "label": "3.26. Metales: Es la suma de las concentraciones de cada uno de los elementos en sus diferentes formas",
+    "text": "3.26. Metales: Es la suma de las concentraciones de cada uno de los elementos en sus diferentes formas\n(en solución o disueltos y en suspensión). Para fines de esta norma se consideran los siguientes: Arsénico,\nCadmio, Cobre, Cromo, Mercurio, Níquel, Plomo y Zinc.",
+    "start_char": 34100,
+    "end_char": 34364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-27",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.27",
+    "label": "3.27. Muestra compuesta: La que resulta de mezclar el número de muestras simples, según lo indicado",
+    "text": "3.27. Muestra compuesta: La que resulta de mezclar el número de muestras simples, según lo indicado\nen la Tabla 5. Para conformar la muestra compuesta, el volumen de cada una de las muestras simples deberá\nser proporcional al caudal de la descarga en el momento de su colecta.",
+    "start_char": 34369,
+    "end_char": 34645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-28",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.28",
+    "label": "3.28. Muestra simple: La que se colecta por el signatario autorizado en el punto señalado en el permiso",
+    "text": "3.28. Muestra simple: La que se colecta por el signatario autorizado en el punto señalado en el permiso\nde descarga, en día normal de operación que refleje cuantitativa y cualitativamente el o los procesos más\nrepresentativos de las actividades que generan la descarga, durante el tiempo necesario para completar\ncuando menos un volumen suficiente para que se lleven a cabo los análisis necesarios para conocer su\ncomposición, aforando el caudal descargado en el sitio y en el momento del muestreo.",
+    "start_char": 34650,
+    "end_char": 35148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-29",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.29",
+    "label": "3.29. Muestreo: Es el procedimiento mediante el cual un signatario autorizado colecta un volumen de",
+    "text": "3.29. Muestreo: Es el procedimiento mediante el cual un signatario autorizado colecta un volumen de\nagua residual descargado por el responsable de la descarga a un cuerpo receptor propiedad de la Nación\nnecesario para poder realizar los análisis ya sea en campo o en laboratorio según corresponda a los\nparámetros contenidos en esta Norma Oficial Mexicana.",
+    "start_char": 35153,
+    "end_char": 35509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-30",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.30",
+    "label": "3.30. Nitrógeno Total: Suma de las concentraciones de nitrógeno total Kjeldahl, nitrógeno de nitritos y",
+    "text": "3.30. Nitrógeno Total: Suma de las concentraciones de nitrógeno total Kjeldahl, nitrógeno de nitritos y\nnitrógeno de nitratos.",
+    "start_char": 35514,
+    "end_char": 35640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-31",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.31",
+    "label": "3.31. Parámetro: Variable que se utiliza como referencia para determinar la calidad física, química y/o",
+    "text": "3.31. Parámetro: Variable que se utiliza como referencia para determinar la calidad física, química y/o\nbiológica del agua.",
+    "start_char": 35645,
+    "end_char": 35768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-32",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.32",
+    "label": "3.32. Parámetros básicos: En lo que corresponde a esta Norma Oficial Mexicana se consideran los",
+    "text": "3.32. Parámetros básicos: En lo que corresponde a esta Norma Oficial Mexicana se consideran los\nsiguientes: grasas y aceites, sólidos suspendidos totales, demanda química de oxígeno, carbono orgánico\ntotal, nitrógeno total (suma de las concentraciones de nitrógeno total Kjeldahl, de nitritos y de nitratos,\nexpresadas como mg/L de nitrógeno), fósforo total, temperatura y pH.",
+    "start_char": 35773,
+    "end_char": 36149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-33",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.33",
+    "label": "3.33. pH: Concentración de iones Hidrógeno expresada como logaritmo negativo que representa la acidez",
+    "text": "3.33. pH: Concentración de iones Hidrógeno expresada como logaritmo negativo que representa la acidez\no alcalinidad del agua.",
+    "start_char": 36154,
+    "end_char": 36279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-34",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.34",
+    "label": "3.34. Procuraduría: Procuraduría Federal de Protección al Ambiente (PROFEPA).",
+    "text": "3.34. Procuraduría: Procuraduría Federal de Protección al Ambiente (PROFEPA).",
+    "start_char": 36284,
+    "end_char": 36361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-35",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.35",
+    "label": "3.35. Promedio Diario (P.D.): Es el valor que resulta del análisis de una muestra compuesta o el resultado",
+    "text": "3.35. Promedio Diario (P.D.): Es el valor que resulta del análisis de una muestra compuesta o el resultado\ndel promedio ponderado en función del caudal o de la media geométrica o del promedio aritmético, según\ncorresponda al parámetro conforme a esta Norma Oficial Mexicana.",
+    "start_char": 36366,
+    "end_char": 36640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-36",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.36",
+    "label": "3.36. Promedio Mensual (P.M.): Es el valor que resulta de calcular el promedio ponderado en función del",
+    "text": "3.36. Promedio Mensual (P.M.): Es el valor que resulta de calcular el promedio ponderado en función del\ncaudal de los valores que resulten del análisis de al menos dos muestras compuestas (Promedio Diario)\ncolectadas en un mismo mes calendario. Los caudales que se deben considerar para el citado promedio\nponderado serán el resultado del promedio aritmético de los caudales de las muestras simples que conforman\ncada una de las muestras compuestas.\n\f   Viernes 11 de marzo de 2022                 DIARIO OFICIAL",
+    "start_char": 36645,
+    "end_char": 37157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-37",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.37",
+    "label": "3.37. Riego: Es la utilización del agua residual destinada a la superficie de terrenos de cultivos,",
+    "text": "3.37. Riego: Es la utilización del agua residual destinada a la superficie de terrenos de cultivos,\nesparcimiento o circulación peatonal, conformada por pastos, arbustos y otros elementos complementarios,\nexceptuando aquellos supuestos considerados en la NOM-003-SEMARNAT-1997.",
+    "start_char": 37163,
+    "end_char": 37440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-38",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.38",
+    "label": "3.38. Secretaría: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT).",
+    "text": "3.38. Secretaría: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT).",
+    "start_char": 37445,
+    "end_char": 37524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-39",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.39",
+    "label": "3.39. Signatario Autorizado: Es la persona autorizada por una Entidad de Acreditación, para realizar el",
+    "text": "3.39. Signatario Autorizado: Es la persona autorizada por una Entidad de Acreditación, para realizar el\nmuestreo, firmar y aprobar los informes de ensayo, emitido por el laboratorio.",
+    "start_char": 37529,
+    "end_char": 37711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-40",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.40",
+    "label": "3.40. Sólidos Suspendidos Totales: Concentración de partículas que son retenidas en un medio filtrante",
+    "text": "3.40. Sólidos Suspendidos Totales: Concentración de partículas que son retenidas en un medio filtrante\nde microfibra de vidrio, con un diámetro de poro de 1.5 micrómetros.",
+    "start_char": 37716,
+    "end_char": 37887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-41",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.41",
+    "label": "3.41. Suelo: Cuerpo receptor de descargas de aguas residuales por riego o infiltración.",
+    "text": "3.41. Suelo: Cuerpo receptor de descargas de aguas residuales por riego o infiltración.",
+    "start_char": 37892,
+    "end_char": 37979
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-42",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.42",
+    "label": "3.42. Suelo cárstico: Aquel de formación caliza, caracterizado por rocas carbonatadas y sulfatadas",
+    "text": "3.42. Suelo cárstico: Aquel de formación caliza, caracterizado por rocas carbonatadas y sulfatadas\n(calizas, dolomitas y yesos) con oquedades o conductos de disolución producidos por el agua subterránea al\ncircular a través de ella.",
+    "start_char": 37984,
+    "end_char": 38216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-43",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.43",
+    "label": "3.43. Toxicidad: Potencial inherente o capacidad de una sustancia para causar efectos adversos en",
+    "text": "3.43. Toxicidad: Potencial inherente o capacidad de una sustancia para causar efectos adversos en\norganismos vivos.",
+    "start_char": 38221,
+    "end_char": 38336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-44",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.44",
+    "label": "3.44. Toxicidad aguda: Es el efecto adverso que se manifiesta en los organismos de prueba, luego de",
+    "text": "3.44. Toxicidad aguda: Es el efecto adverso que se manifiesta en los organismos de prueba, luego de\nexponerlos a las muestras problema por una sola vez durante un periodo de tiempo.",
+    "start_char": 38341,
+    "end_char": 38522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-45",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.45",
+    "label": "3.45. Trimestre: Es el periodo comprendido por tres meses calendario en el orden siguiente:",
+    "text": "3.45. Trimestre: Es el periodo comprendido por tres meses calendario en el orden siguiente:\n                            Trimestre                        Periodo\n                                 Primero             Enero, febrero y marzo\n                             Segundo                   Abril, mayo y junio\n                                 Tercero            Julio, agosto y septiembre\n                                 Cuarto          Octubre, noviembre y diciembre",
+    "start_char": 38527,
+    "end_char": 38997
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-46",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.46",
+    "label": "3.46. Unidad de Toxicidad (UT):",
+    "text": "3.46. Unidad de Toxicidad (UT):\n    Forma de expresar el grado de toxicidad de una muestra de la cual no se conoce la concentración de las\nsustancias que contiene. Es aplicable a descargas y mezclas de agua residual complejas. Se calcula: UT =\n100 / CE50. En donde 100 es la concentración inicial de la muestra referida en porciento.",
+    "start_char": 39003,
+    "end_char": 39336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-47",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.47",
+    "label": "3.47. Unidades de Verificación:",
+    "text": "3.47. Unidades de Verificación:\n    La persona física o moral que realiza actos de verificación, acreditada ante una entidad de acreditación y\naprobada por la Comisión.",
+    "start_char": 39341,
+    "end_char": 39509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-48",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.48",
+    "label": "3.48. Valor Instantáneo (V.I.):",
+    "text": "3.48. Valor Instantáneo (V.I.):\n    Es el resultado obtenido del análisis de laboratorio a una muestra simple de agua residual colectada en la\ndescarga, con motivo de una verificación realizada por la Comisión o la Procuraduría del cumplimiento de los\nparámetros de calidad establecidos en esta norma.",
+    "start_char": 39514,
+    "end_char": 39815
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-49",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.49",
+    "label": "3.49. Visita de verificación:",
+    "text": "3.49. Visita de verificación:\n    La que se efectúe con el objeto de comprobar el cumplimiento de la presente Norma Oficial Mexicana por\nla Procuraduría, la Comisión, o una Unidad de Verificación.",
+    "start_char": 39820,
+    "end_char": 40016
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:3-50",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "3.50",
+    "label": "3.50. Zonas marinas mexicanas:",
+    "text": "3.50. Zonas marinas mexicanas:\n    Son las aguas de los mares territoriales, las aguas marinas interiores, la zona contigua, la zona económica\nexclusiva, en la extensión y términos que fija la Ley Federal del Mar; así como las lagunas y esteros que se\ncomuniquen permanente o intermitentemente con el mar.",
+    "start_char": 40021,
+    "end_char": 40326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "4",
+    "label": "4. Especificaciones",
+    "text": "4. Especificaciones",
+    "start_char": 40331,
+    "end_char": 40350
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "4.1",
+    "label": "4.1. La concentración de parámetros básicos, así como de contaminantes patógenos y parasitarios,",
+    "text": "4.1. La concentración de parámetros básicos, así como de contaminantes patógenos y parasitarios,\nmetales y cianuros para las descargas de aguas residuales a cuerpos receptores, no debe exceder el valor\nindicado como límite permisible de acuerdo al tipo de cuerpo receptor en las Tablas 1 y 2 de esta Norma\nOficial Mexicana.\n    En caso de que existan condiciones particulares de descarga emitidas conforme a una Declaratoria de\nClasificación de los Cuerpos de Aguas Nacionales publicada en el Diario Oficial de la Federación o que\nconforme a la Ley la Comisión haya establecido en los permisos de descarga con límites, parámetros\nadicionales o específicos en comparación con los previstos en esta Norma Oficial Mexicana, los parámetros y\nlímites permisibles que se deberán cumplir serán los que establezcan las citadas condiciones particulares de\ndescarga.\n    Los responsables de la descarga deberán comprobar de manera ordinaria en términos de lo dispuesto en\nel numeral 6.2, el cumplimiento de los límites permisibles establecidos para Promedio Diario y Promedio\nMensual en las Tablas 1 y 2 según corresponda al tipo de cuerpo receptor. El valor instantáneo será verificado\nya sea por la Comisión o la Procuraduría.\n\f                                                                                   DIARIO OFICIAL                                                 Viernes 11 de marzo de 2022\n\n                                                                                          TABLA 1\n\n                                                                                 Límites Permisibles\n  Parámetros (*)         Ríos, arroyos, canales,                                                                                                          Suelo\n (miligramos por                                   Embalses, lagos y lagunas Zonas marinas mexicanas\n                                 drenes                                                                             Riego de áreas verdes      Infiltración y otros riegos                  Cárstico\n  litro, excepto\n     cuando se\n                         P.M      P.D.      V.I.     P.M      P.D.       V.I.      P.M     P.D.      V.I.           P.M     P.D.      V.I.      P.M        P.D.        V.I.       P.M         P.D.      V.I.\n     especifique)\n\nTemperatura (°C)          35       35       35       35        35        35        35       35       35             35       35        35        35         35         35         35          35        35\n\nGrasas y Aceites          15       18       21       15        18        21        15       18       21             15       18        21        15         18         21         15          18        21\n\nSólidos\nSuspendidos               60       72       84       20        24        28        20       24       28             30       36        42       100        120         140        20          24        28\nTotales\n\nDemanda Química\n                         150      180       210      100       120       140       85      100       120            60       72        84       150        180         210        60          72        84\nde Oxígeno\n\nCarbono Orgánico\n                          38       45       53       25        30        35        21       25       30             15       18        21        38         45         53         15          18        21\nTotal*\n\nNitrógeno Total           25       30       35       15        25        30        25       30       35             NA       NA        NA        NA         NA         NA         15          25        30\n\nFósforo Total             15       18       21        5        10        15        15       18       21             NA       NA        NA        NA         NA         NA          5          10        15\n\nHuevos de\nHelmintos                 NA       NA       NA       NA        NA        NA        NA      NA        NA                                                      1\n(huevos/litro)\n\nEscherichia coli,\n                         250      500       600      250       500       600       250     500       600            250     500       600       250        500         600        50          100       200\n(NMP/100 ml)\n\nEnterococos\nfecales*                 250      400       500      250       400       500       250     400       500            250     400       500       250        400         500        50          100       200\n(NMP/100 ml)\n\npH\n                                                                                                              6–9\n(UpH)\n\nColor verdadero                                       Longitud de onda                                                               Coeficiente de absorción espectral máximo\n\n                                                            436 nm                                                                                      7,0 m -1\n\n                                                            525 nm                                                                                      5,0 m -1\n\n                                                            620 nm                                                                                      3,0 m -1\n\nToxicidad aguda\n                                                                                           2 a los 15 minutos de exposición\n(UT)\n\nN.A: No Aplica\nP.M: Promedio Mensual\nP.D: Promedio Diario\nV.I: Valor Instantáneo\nNMP: Número más probable\nUpH: Unidades de pH\nUT: Unidades de Toxicidad\n* Si Cloruros es menor a 1000 mg/L se analiza y reporta DQO.\n* Si Cloruros es mayor o igual a 1000 mg/L se analiza y reporta COT.\n* Si la conductividad eléctrica menor a 3500 µS/cm se analiza y reporta E. coli.\n* Si la conductividad eléctrica es mayor o igual a 3500 µS/cm se analiza y reporta Enterococos fecales.\nLas determinaciones de Conductividad eléctrica y de Cloruros no requieren la acreditación y aprobación de la entidad correspondiente.\n\n\n\n\n                                                                                          TABLA 2\n                                                      Límites Permisibles para Metales y Cianuros\n                         Ríos, arroyos, canales,                                                                                                          Suelo\n     Parámetros\n                                                   Embalses, lagos y lagunas Zonas marinas mexicanas\n (miligramos por                 drenes                                                                             Riego de áreas verdes       Infiltración y otros riegos                  Cárstico\n         litro)\n                         P.M.     P.D.      V.I.    P.M.       P.D.       V.I.     P.M.    P.D.       V.I.          P.M.     P.D.       V.I.      P.M.        P.D.        V.I.     P.M        P.D.      V.I.\n\nArsénico                 0,2       0,3      0,4      0,1       0,15       0,2      0,2      0,3       0,4            0,2      0,3       0,4       0,1         0,15        0,2      0,1        0,15      0,2\n\nCadmio                   0,2       0,3      0,4      0,1       0,15       0,2      0,2      0,3       0,4           0,05     0,075      0,1       0,1         0,15        0,2      0,05       0,075     0,1\n\nCianuro                   1         2        3        1         1,5        2        2      2,50           3          2        2,5        3         1          1,50            2        1       1,5       2\n\nCobre                     4         5        6        4          5         6        4        5            6          4         5         6         4             5            6        4        5        6\n\nCromo                     1       1,25      1,5      0,5       0,75        1        1      1,25       1,5            0,5     0,75        1        0,5         0,75            1    0,5        0,75       1\n\nMercurio                 0,01     0,015    0,02     0,005      0,008     0,01      0,01    0,015     0,02           0,005    0,008      0 01     0,005       0,008       0,01     0,005       0,008     0,01\n\nNíquel                    2         3        4        2          3         4        2        3            4          2         3         4         2             3            4        2        3        4\n\nPlomo                    0,2       0,3      0,4      0,2        0,3       0,4      0,5     0,75           1          0,5     0,75        1        0,2            0,3      0,4      0,2         0,3      0,4\n\nZinc                      10       15       20       10         15        20       10       15        20             10       15        20         10            15         20         10      15       20\n\nParámetros          P.M: Promedio Mensual\nmedidos de          P.D: Promedio Diario\nmanera total        V.I: Valor Instantáneo\n\f   Viernes 11 de marzo de 2022                 DIARIO OFICIAL",
+    "start_char": 40355,
+    "end_char": 49269
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "4.2",
+    "label": "4.2. El responsable de las descargas de aguas residuales en estuarios y humedales debe cumplir con las",
+    "text": "4.2. El responsable de las descargas de aguas residuales en estuarios y humedales debe cumplir con las\ncondiciones particulares de descarga que establezca la Comisión en términos del numeral 4.1.",
+    "start_char": 49274,
+    "end_char": 49469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "4.3",
+    "label": "4.3. El responsable de la descarga estará exento de realizar el análisis de alguno o varios de los",
+    "text": "4.3. El responsable de la descarga estará exento de realizar el análisis de alguno o varios de los\nparámetros que se señalan en esta Norma Oficial Mexicana, cuando demuestre a la Comisión que por las\ncaracterísticas del proceso productivo o el uso que le dé al agua, no genera o concentra los contaminantes a\nexentar. Para lo cual presentará la solicitud ante la Comisión, debiendo entregar la caracterización de la\ndescarga y los Promedios Mensuales correspondientes a cada uno de los seis meses inmediatos anteriores a\nla presentación de su solicitud de exención, de acuerdo a lo establecido en la Ley de Aguas Nacionales y su\nReglamento o la normatividad ambiental vigente. La Comisión dictaminará la procedencia o no de la exención\ny podrá verificar para efectos de emitir el citado dictamen así como durante la vigencia de la exención, la\nveracidad de la información que presentó el responsable de la descarga, para lo cual podrá realizarla\ndirectamente por ella, un tercero o a través de una Unidad de Verificación.\n    La exención será vigente por un periodo de hasta por tres años, siempre y cuando el generador no cambie\nsus procesos, insumos, tecnologías, o exista un aumento del caudal de descarga, en cuyo caso deberá\nnotificarse a la Comisión para hacer la revisión de su exención. La autoridad podrá verificar la veracidad de lo\nmanifestado por el usuario; en caso de falsedad el responsable quedará sujeto a lo dispuesto en los\nordenamientos legales aplicables.\n    Los sujetos regulados podrán solicitar por escrito a la Comisión, la adecuación de sus condiciones\nparticulares de descarga mediante el trámite de “Modificaciones técnicas de títulos de concesión y/o permisos\nde descarga de aguas residuales”, o bien mediante el trámite vigente que le sustituya, acompañada de los\ndatos y requisitos establecidos en la Ley de Aguas Nacionales, o la normatividad ambiental vigente.",
+    "start_char": 49474,
+    "end_char": 51368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "4.4",
+    "label": "4.4. En el caso de que el agua clara o de primer uso de abastecimiento registre concentración de algún",
+    "text": "4.4. En el caso de que el agua clara o de primer uso de abastecimiento registre concentración de algún\ncontaminante en Promedio Mensual, se podrá restar de la concentración de la descarga, a excepción de los\nparámetros: temperatura, pH, toxicidad aguda, color verdadero, Escherichia coli, Enterococos fecales y\nhuevos de helmintos siempre y cuando lo acredite a través de al menos dos análisis Promedio Diario de\ncalidad del agua efectuados por un laboratorio, realizados en términos de lo dispuesto en los Capítulos 5 y 6.\n   Los informes de resultados de muestreo y análisis de agua de abastecimiento referido en el párrafo\nanterior realizados en un mes calendario serán válidos para los informes de resultados de muestreo y análisis\nde aguas residuales realizados en el trimestre al que corresponda el citado mes.",
+    "start_char": 51373,
+    "end_char": 52189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "5",
+    "label": "5. Métodos de prueba",
+    "text": "5. Métodos de prueba",
+    "start_char": 52193,
+    "end_char": 52213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "5.1",
+    "label": "5.1. Para determinar los valores y concentraciones de los parámetros establecidos en esta Norma Oficial",
+    "text": "5.1. Para determinar los valores y concentraciones de los parámetros establecidos en esta Norma Oficial\nMexicana, se deberán aplicar las normas mexicanas según corresponda, indicadas en el capítulo 2.",
+    "start_char": 52216,
+    "end_char": 52416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "5.2",
+    "label": "5.2. Para determinar la toxicidad aguda de las descargas de aguas residuales vertidas a cuerpos",
+    "text": "5.2. Para determinar la toxicidad aguda de las descargas de aguas residuales vertidas a cuerpos\nreceptores, los análisis deberán efectuarse mediante muestras simples. La evaluación se realizará a través de\nVibrio fischeri (Photobacterium phosphoreum). El límite permisible es menor o igual a 2 Unidades de Toxicidad\n(UT). Las Unidades de Toxicidad (UT), se determinan por la fórmula:\n                                               1 UT = 100/CE50\n               Donde:\n                  CE50 es la concentración que genera efectos adversos, letales o no letales en el 50% de los\n                  organismos de prueba expuestos o en el parámetro biológico seleccionado para evaluar el\n                  efecto tóxico.",
+    "start_char": 52420,
+    "end_char": 53137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "5.3",
+    "label": "5.3. El responsable de la descarga de aguas residuales debe verificar que los métodos para el muestreo y",
+    "text": "5.3. El responsable de la descarga de aguas residuales debe verificar que los métodos para el muestreo y\nanálisis utilizados por los laboratorios de prueba, sean los establecidos en el numeral 2. Referencias\nnormativas de la presente norma.\n    Los laboratorios de prueba a que hace referencia el párrafo anterior, deberán ser acreditados por la\nentidad de acreditación y aprobados por la autoridad competente.\n    El responsable de la descarga podrá solicitar a la Secretaría, la autorización de métodos de prueba\nalternos conforme a lo establecido en la legislación aplicable en la materia.",
+    "start_char": 53141,
+    "end_char": 53733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6",
+    "label": "6. Muestreo",
+    "text": "6. Muestreo",
+    "start_char": 53737,
+    "end_char": 53748
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.1",
+    "label": "6.1. El responsable de la descarga realizará el monitoreo de las descargas de aguas residuales para",
+    "text": "6.1. El responsable de la descarga realizará el monitoreo de las descargas de aguas residuales para\ndeterminar el promedio diario y el mensual, con la periodicidad establecida en el numeral 6.2 a través de un\nlaboratorio.",
+    "start_char": 53752,
+    "end_char": 53973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.2",
+    "label": "6.2. La periodicidad de los muestreos, análisis e informe de resultados se indican en la Tabla 3 para",
+    "text": "6.2. La periodicidad de los muestreos, análisis e informe de resultados se indican en la Tabla 3 para\ndescargas de tipo municipal y en la Tabla 4 para descargas no municipales. En situaciones que justifiquen un\nmayor control, como protección de fuentes de abastecimiento de agua para consumo humano, emergencias\nhidroecológicas o procesos productivos fuera de control, la Comisión podrá modificar la periodicidad de\nmuestreo, análisis e informe de resultados.\n\f                                                     DIARIO OFICIAL                      Viernes 11 de marzo de 2022\n\n                                                        TABLA 3\n                                                Descargas municipales\n                                                                                      Frecuencia de Informe de\n       Rango de población                  Frecuencia de muestreo y análisis\n                                                                                  resultados de muestreo y análisis\n    Mayor de 50 000 habitantes                        MENSUAL                                TRIMESTRAL\n   de 10 001 a 50 000 habitantes                     TRIMESTRAL                              TRIMESTRAL\n    de 2 501 a 10 000 habitantes                     SEMESTRAL                               TRIMESTRAL\n\n\n                                                        TABLA 4\n                                              Descargas no municipales**\n Demanda Química      Carbono Orgánico               Sólidos         Frecuencia de         Frecuencia de Informe de\n    de Oxígeno             Total*                 Suspendidos      muestreo y análisis     resultados de muestreo y\n  (toneladas/día)      (toneladas/día)               Totales                                        análisis\n                                                 (toneladas/día)\n     Mayor a 3,0          Mayor a 0,75            Mayor a 3,0          MENSUAL                    TRIMESTRAL\n     De 1,2 a 3,0        De 0,3 a 0,75            De 1,2 a 3,0        TRIMESTRAL                  TRIMESTRAL\n     Menor a 1,2             Menor a 0,3          Menor a 1,2         SEMESTRAL                   TRIMESTRAL\n   *Aplica para aguas residuales con una concentración mayor a 1 000 mg/L de cloruros.\n   ** Aplicará la frecuencia de muestreo y análisis del parámetro con mayor carga contaminante.\n    Todo informe de resultados de muestreo y análisis deberá registrarse y firmarse en el sistema electrónico\nque para tal efecto la Comisión pondrá a disposición de los laboratorios, mismo que deberá firmarse a más\ntardar el séptimo día hábil posterior a que haya concluido el trimestre en cuestión. Para el caso de la\nfrecuencia de muestreo e informe de resultados con carácter semestral, el registro y firma a que se refiere\neste párrafo será en el trimestre en que se haya realizado el muestreo.\n    El signatario autorizado del laboratorio deberá colectar las muestras simples en el número e intervalo que\nrefiere la Tabla 5 las cuales conformarán una muestra compuesta, debiendo al menos existir dos muestras\ncompuestas Promedio Diario durante el mes calendario para poder determinar el Promedio Mensual.\n                                                        TABLA 5\n                                     Número e intervalo de muestras simples\n     Horas por día que opera el                                                     Intervalo entre colecta de\n      proceso generador de la               Número de muestras simples              muestras simples (horas)\n             descarga                                                                  Mínimo              Máximo\n           Menor que 4                                      2                            N. E.              N. E.\n          De 4 y hasta 8                                    4                             1                  2\n      Mayor que 8 y hasta 12                                4                             2                  3\n      Mayor que 12 y hasta 18                               6                             2                  3\n      Mayor que 18 y hasta 24                               6                             3                  4\n   N. E. = No especificado\n    La selección del intervalo para la colecta de las muestras simples deberá estar dentro del rango mínimo y\nmáximo que corresponda, conforme al periodo que opera el proceso generador de la descarga en el día del\nmuestreo.\n    Para conformar la muestra compuesta, el volumen de cada una de las muestras simples deberá ser\nproporcional al caudal de la descarga en el momento de su colecta.",
+    "start_char": 53978,
+    "end_char": 58621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.3",
+    "label": "6.3. La muestra simple será la que colecte un laboratorio en el punto de descarga, en día normal de",
+    "text": "6.3. La muestra simple será la que colecte un laboratorio en el punto de descarga, en día normal de\noperación del proceso generador de la descarga, que refleje cuantitativa y cualitativamente el o los procesos\nmás representativos de las actividades que la generan, durante el tiempo necesario y continuo para completar\ncuando menos un volumen suficiente para que se lleven a cabo los análisis necesarios para conocer su\ncomposición, aforando el caudal descargado en el sitio en el momento del muestreo.\n    A efecto de comprobar lo anterior, el laboratorio que colecte las muestras solicitará al responsable de la\ndescarga el permiso emitido por la Comisión, lo cual se asentará en el informe de resultados de muestreo y\nanálisis, con una descripción de las condiciones o circunstancias de operación al momento de la colecta de\nlas muestras.\n    La Comisión, la Procuraduría o la Unidad de Verificación, podrán recabar los documentos o la evidencia\nnecesaria que acrediten que efectivamente las muestras simples se realizaron en día normal de operación\nque refleje cuantitativa y cualitativamente el o los procesos más representativos de las actividades que\ngeneran la descarga.\n\f   Viernes 11 de marzo de 2022                 DIARIO OFICIAL\n\n    El volumen de cada muestra simple necesario para formar la muestra compuesta se determina mediante\nla siguiente ecuación:\n                                             VMSi = VMC * (Qi/Qt)\n               Donde:\n                   VMSi = volumen de cada una de las muestras simples “i”, en litros.\n                   VMC = volumen de cada muestra compuesta necesario para realizar la totalidad de los\n                   análisis de laboratorio requeridos, en litros.\n                   Qi = caudal medido en la descarga en el momento de colectar la muestra simple, en litros\n                   por segundo.\n                   Qt = SQi hasta Qn,…, en litros por segundo.\n  Los resultados de pH y toxicidad aguda no deberán estar fuera del límite permisible en ninguna de las\nmuestras simples.",
+    "start_char": 58626,
+    "end_char": 60662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.4",
+    "label": "6.4. Asimismo, el laboratorio deberá tomar las coordenadas geográficas, con el geoposicionador global,",
+    "text": "6.4. Asimismo, el laboratorio deberá tomar las coordenadas geográficas, con el geoposicionador global,\ncon el Datum cuyas especificaciones se encontrarán en el sistema electrónico que para tal efecto la Comisión\nutilice para el registro de las descargas, establecido en el segundo párrafo del numeral 6.2 y deberán\nincorporarse en el informe de resultados de muestreo y análisis para su correcta identificación, así como\ncerciorarse y reportar sí el cuerpo receptor donde efectivamente se descarga el agua residual por el\nresponsable es el autorizado en el permiso de descarga expedido por la Comisión.",
+    "start_char": 60668,
+    "end_char": 61270
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.5",
+    "label": "6.5. En el caso del parámetro de pH se debe reportar el valor tomado en campo durante la colecta de cada",
+    "text": "6.5. En el caso del parámetro de pH se debe reportar el valor tomado en campo durante la colecta de cada\nmuestra simple.",
+    "start_char": 61273,
+    "end_char": 61393
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.6",
+    "label": "6.6. En el caso del parámetro de toxicidad aguda, se deben reportar los valores obtenidos de cada",
+    "text": "6.6. En el caso del parámetro de toxicidad aguda, se deben reportar los valores obtenidos de cada\nmuestra simple.",
+    "start_char": 61396,
+    "end_char": 61509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.7",
+    "label": "6.7. En el caso del parámetro temperatura el valor Promedio Diario será el resultado del promedio",
+    "text": "6.7. En el caso del parámetro temperatura el valor Promedio Diario será el resultado del promedio\naritmético de los valores tomados en campo en la colecta de cada una de las muestras simples.",
+    "start_char": 61514,
+    "end_char": 61705
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.8",
+    "label": "6.8. En el caso del parámetro grasas y aceites el valor Promedio Diario será el resultado del promedio",
+    "text": "6.8. En el caso del parámetro grasas y aceites el valor Promedio Diario será el resultado del promedio\nponderado en función del caudal de los valores que resulten del análisis de cada una de las muestras simples\ncolectadas para conformar la muestra compuesta.\n    Para determinar el promedio ponderado en función del caudal se deberán obtener las participaciones\nporcentuales “wi” del caudal de cada muestra simple “Qi” respecto de la sumatoria de los caudales de todas\nlas muestras simples, lo cual se expresa de la siguiente forma:\n\n\n\n\n           Donde\n              = Ponderador o participación porcentual del caudal de la muestra simple “i”\n\n              = Caudal medido en la descarga en el momento de colectar la muestra simple, en litros por\n           segundo\n           Una vez obtenido el ponderador del caudal de la muestra simple “i” se deberá multiplicar por el\n           resultado del parámetro grasas y aceites de cada muestra simple que corresponda, para\n           posteriormente sumar todos los productos obtenidos, de acuerdo a lo siguiente:\n\n\n\n\n           Donde\n           PP = Promedio ponderado en función del caudal del parámetro “x” expresado en miligramos por\n           litro\n              =Ponderador o participación porcentual del caudal de la muestra simple “i”\n               =Resultado del parámetro “x” expresado en miligramos por litro",
+    "start_char": 61710,
+    "end_char": 63080
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.9",
+    "label": "6.9. Para el caso de los parámetros Escherichia coli y Enterococos fecales, el valor Promedio Diario será",
+    "text": "6.9. Para el caso de los parámetros Escherichia coli y Enterococos fecales, el valor Promedio Diario será\nel resultado de la media geométrica de los valores que resulten del análisis de cada una de las muestras\nsimples colectadas para conformar la muestra compuesta.\n\f                                               DIARIO OFICIAL                    Viernes 11 de marzo de 2022\n\n    La media geométrica de los parámetros Escherichia coli y Enterococos fecales se calcula con la raíz “n”\ndel producto de los “n” resultados del parámetro que corresponda obtenidos en cada muestra simple “i”, lo\ncual se expresa de la siguiente manera:\n\n\n\n\n           Donde\n             = Media geométrica, como número más probable (NMP) por cada cien mililitros.\n             = Resultado obtenido en el parámetro que corresponda en cada muestra simple “i”, como\n           número más probable (NMP) por cada cien mililitros.",
+    "start_char": 63085,
+    "end_char": 63989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.10",
+    "label": "6.10. El valor Promedio Diario de los parámetros previstos en las Tablas 1 y 2 diferentes a los señalados",
+    "text": "6.10. El valor Promedio Diario de los parámetros previstos en las Tablas 1 y 2 diferentes a los señalados\nen los numerales del 6.5 al 6.9 será el resultado del análisis de la muestra compuesta.",
+    "start_char": 63994,
+    "end_char": 64187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.11",
+    "label": "6.11. El valor Promedio Mensual de los parámetros contenidos en las Tablas 1 y 2, será el resultado del",
+    "text": "6.11. El valor Promedio Mensual de los parámetros contenidos en las Tablas 1 y 2, será el resultado del\npromedio ponderado en función del caudal de los valores en Promedio Diario que resulten del análisis de al\nmenos dos muestras compuestas colectadas en el mismo mes calendario.\n    Para determinar el promedio ponderado en función del caudal se deberán obtener las participaciones\nporcentuales “wc” del caudal de cada muestra compuesta Promedio Diario “Qc” respecto de la sumatoria de\nlos caudales de todas las muestras compuestas, lo cual se expresa de la siguiente forma:\n\n\n\n          Donde\n              = Ponderador o participación porcentual del caudal de la muestra compuesta “c”\n              = Caudal promedio aritmético de los caudales medidos en la descarga en el momento de\n          colectar cada una de las muestras simples, en litros por segundo\n          Una vez obtenido el ponderador del caudal de la muestra compuesta “c” se deberá multiplicar por el\n          resultado en Promedio Diario del parámetro que corresponda a la misma muestra compuesta, para\n          posteriormente sumar todos los productos obtenidos, de acuerdo a lo siguiente:\n\n\n\n\n          Donde\n          PP = Promedio ponderado en función del caudal del parámetro “x” expresado en la unidad de\n          medida que le corresponda\n             = Ponderador o participación porcentual del caudal de la muestra compuesta “c”\n                 = Resultado en Promedio Diario del parámetro “x” expresado en la unidad de medida que le\n           corresponda",
+    "start_char": 64191,
+    "end_char": 65731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.12",
+    "label": "6.12. La cadena de custodia, la hoja de campo y las demás evidencias que soporten los informes de",
+    "text": "6.12. La cadena de custodia, la hoja de campo y las demás evidencias que soporten los informes de\nresultados de muestreo y análisis deberán mantenerse por el laboratorio para su consulta por un periodo de 5\naños posteriores a su emisión, registro y firma.",
+    "start_char": 65736,
+    "end_char": 65991
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.13",
+    "label": "6.13. Los responsables de la descarga de aguas residuales a cualquier cuerpo receptor deberán prever en",
+    "text": "6.13. Los responsables de la descarga de aguas residuales a cualquier cuerpo receptor deberán prever en\nel sitio autorizado en el permiso de descarga emitido por la Comisión, la existencia de infraestructura fija,\nsegura y adecuada para que pueda realizarse la colecta de muestras, conforme a lo establecido en el",
+    "start_char": 65996,
+    "end_char": 66309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:6-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "6.14",
+    "label": "6.14. Cuando durante la realización de la toma de muestras se observe por parte del signatario autorizado",
+    "text": "6.14. Cuando durante la realización de la toma de muestras se observe por parte del signatario autorizado\nque no se tiene flujo en la descarga, lo deberá asentar como tal en la cadena de custodia del muestreo\ncorrespondiente. Y esa muestra no debe considerarse en ninguno de los cálculos del presente capitulo.",
+    "start_char": 66334,
+    "end_char": 66644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7",
+    "label": "7. Procedimiento para la evaluación de la conformidad",
+    "text": "7. Procedimiento para la evaluación de la conformidad",
+    "start_char": 66649,
+    "end_char": 66702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.1",
+    "label": "7.1. La Comisión, la Procuraduría o las Unidades de Verificación podrán evaluar la conformidad de la",
+    "text": "7.1. La Comisión, la Procuraduría o las Unidades de Verificación podrán evaluar la conformidad de la\npresente norma a petición de parte, para fines particulares u oficiales en los términos establecidos por la Ley\nFederal sobre Metrología y Normalización.",
+    "start_char": 66707,
+    "end_char": 66961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.2",
+    "label": "7.2. La Secretaría por conducto de la Comisión aprobará los Laboratorios y las Unidades de Verificación,",
+    "text": "7.2. La Secretaría por conducto de la Comisión aprobará los Laboratorios y las Unidades de Verificación,\nen los términos establecidos en la Ley Federal sobre Metrología y Normalización. Los Laboratorios realizarán\nel muestreo y el análisis de las muestras que se requieran para la evaluación de la conformidad de la presente\nnorma.\n\f   Viernes 11 de marzo de 2022                  DIARIO OFICIAL",
+    "start_char": 66966,
+    "end_char": 67361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.3",
+    "label": "7.3. La Comisión mantendrá actualizado en su página electrónica el listado de las Unidades de",
+    "text": "7.3. La Comisión mantendrá actualizado en su página electrónica el listado de las Unidades de\nVerificación y los Laboratorios.",
+    "start_char": 67368,
+    "end_char": 67494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.4",
+    "label": "7.4. En caso de que la evaluación de la conformidad se realice a través de una Unidad de Verificación,",
+    "text": "7.4. En caso de que la evaluación de la conformidad se realice a través de una Unidad de Verificación,\nésta notificará a la Comisión el inicio de los trabajos, se coordinará con el Laboratorio seleccionado por el\ninteresado, y deberá constatar e informar a la Comisión la siguiente información:",
+    "start_char": 67500,
+    "end_char": 67794
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.4.1",
+    "label": "7.4.1 Nombre, denominación o razón social del titular del permiso de descarga y registro federal de",
+    "text": "7.4.1 Nombre, denominación o razón social del titular del permiso de descarga y registro federal de\ncontribuyentes (RFC).",
+    "start_char": 67800,
+    "end_char": 67921
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.4.2",
+    "label": "7.4.2 En su caso, datos generales de contacto del representante legal (domicilio, teléfonos y correo",
+    "text": "7.4.2 En su caso, datos generales de contacto del representante legal (domicilio, teléfonos y correo\nelectrónico).",
+    "start_char": 67927,
+    "end_char": 68041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.4.3",
+    "label": "7.4.3 En el caso de personas morales, acta constitutiva o poder notarial que acredite la personalidad",
+    "text": "7.4.3 En el caso de personas morales, acta constitutiva o poder notarial que acredite la personalidad\njurídica del representante legal en original y copia.",
+    "start_char": 68047,
+    "end_char": 68202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.4.4",
+    "label": "7.4.4 En el caso de personas físicas, anexar original y copia de identificación oficial con fotografía.",
+    "text": "7.4.4 En el caso de personas físicas, anexar original y copia de identificación oficial con fotografía.",
+    "start_char": 68208,
+    "end_char": 68311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.4.5",
+    "label": "7.4.5 En caso de que el responsable de la descarga realice la solicitud a través de un representante legal,",
+    "text": "7.4.5 En caso de que el responsable de la descarga realice la solicitud a través de un representante legal,\néste debe anexar original y copia tanto de su identificación oficial, así como de la carta poder del responsable\nde la descarga.",
+    "start_char": 68317,
+    "end_char": 68553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.4.6",
+    "label": "7.4.6 Permiso de Descarga, en original o copia.",
+    "text": "7.4.6 Permiso de Descarga, en original o copia.",
+    "start_char": 68559,
+    "end_char": 68606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.4.7",
+    "label": "7.4.7 Las coordenadas geográficas del punto donde efectivamente se efectúa(n) la(s) descarga(s), en",
+    "text": "7.4.7 Las coordenadas geográficas del punto donde efectivamente se efectúa(n) la(s) descarga(s), en\ntérminos del numeral 6.4. Los originales mencionados en este apartado son para cotejar las copias y serán\ndevueltos de inmediato al interesado.",
+    "start_char": 68612,
+    "end_char": 68855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.5",
+    "label": "7.5. Los gastos que se originen por los servicios de evaluación de la conformidad, serán a cargo del",
+    "text": "7.5. Los gastos que se originen por los servicios de evaluación de la conformidad, serán a cargo del\ninteresado conforme a lo establecido en el Artículo 91 de la Ley Federal sobre Metrología y Normalización.",
+    "start_char": 68861,
+    "end_char": 69068
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.6",
+    "label": "7.6. El proceso de evaluación se realizará mediante una visita de verificación durante la cual se levantará",
+    "text": "7.6. El proceso de evaluación se realizará mediante una visita de verificación durante la cual se levantará\nun acta circunstanciada que deberá ser firmada por quienes en ella intervinieron. La negativa del interesado a\nfirmar el acta circunstanciada no afectará su validez.",
+    "start_char": 69074,
+    "end_char": 69347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.7",
+    "label": "7.7. El Laboratorio que realice el muestreo emitirá un informe de resultados de muestreo y análisis y al",
+    "text": "7.7. El Laboratorio que realice el muestreo emitirá un informe de resultados de muestreo y análisis y al\ntérmino de la verificación, quien realice la Evaluación de la conformidad emitirá y firmará el Dictamen de\nConformidad que integrará todos los datos recabados durante las acciones de verificación y los resultados del\nanálisis de Laboratorio.",
+    "start_char": 69353,
+    "end_char": 69699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.8",
+    "label": "7.8. Para emitir el dictamen de conformidad se debe:",
+    "text": "7.8. Para emitir el dictamen de conformidad se debe:",
+    "start_char": 69705,
+    "end_char": 69757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.8.1",
+    "label": "7.8.1 Solicitar al Laboratorio que realice los análisis para determinar la calidad del agua conforme a los",
+    "text": "7.8.1 Solicitar al Laboratorio que realice los análisis para determinar la calidad del agua conforme a los\nparámetros de las Tablas 1 y 2 con las normas mexicanas y los métodos de prueba, según corresponda,\nlistados en los capítulos 2 y 5 de esta Norma Oficial Mexicana para cada una de las muestras. En caso de\nutilizar algún método de prueba alterno, se deberá mostrar la autorización que la Comisión emitió para\nautorizar su uso.",
+    "start_char": 69763,
+    "end_char": 70195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.8.2",
+    "label": "7.8.2 Comparar los resultados con los límites permisibles en sus valores instantáneos o promedio diario o",
+    "text": "7.8.2 Comparar los resultados con los límites permisibles en sus valores instantáneos o promedio diario o\npromedio mensual establecidos en las Tablas 1 y 2, según corresponda, a fin de evaluar el cumplimiento del\nnumeral 4.1 de esta Norma Oficial Mexicana. En ningún día se podrá exceder los límites permisibles promedio\ndiario que se establecen en las Tablas 1 y 2, y para el caso de verificaciones instruidas por la Comisión\ntampoco podrá exceder los límites permisibles en valor instantáneo.",
+    "start_char": 70201,
+    "end_char": 70695
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.8.3",
+    "label": "7.8.3 Constatar si el interesado cuenta con Condiciones Particulares de Descarga a que se refiere el",
+    "text": "7.8.3 Constatar si el interesado cuenta con Condiciones Particulares de Descarga a que se refiere el\nnumeral 4.1 y en su caso, deberá asentarse en el acta circunstanciada y se procederá a realizar la verificación\nconforme a dichas condiciones establecidas para la descarga.",
+    "start_char": 70701,
+    "end_char": 70974
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-8-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.8.4",
+    "label": "7.8.4 Verificar si existe la autorización expresa de estar exento de realizar los análisis de algún parámetro",
+    "text": "7.8.4 Verificar si existe la autorización expresa de estar exento de realizar los análisis de algún parámetro\nconforme al numeral 4.3, de lo contrario el verificador analizará todos los parámetros de esta Norma Oficial\nMexicana para determinar su cumplimiento.",
+    "start_char": 70980,
+    "end_char": 71240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-8-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.8.5",
+    "label": "7.8.5 Comprobar si el interesado demostró a la Comisión la existencia de alguna concentración promedio",
+    "text": "7.8.5 Comprobar si el interesado demostró a la Comisión la existencia de alguna concentración promedio\nmensual para cualquiera de los parámetros referidos en esta Norma Oficial Mexicana en el agua clara de\nabastecimiento numeral 4.4, en cuyo caso se analizará en promedio mensual en cada punto de\nabastecimiento.",
+    "start_char": 71246,
+    "end_char": 71558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-8-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.8.6",
+    "label": "7.8.6 Revisar que los informes de resultados de muestreo y análisis en los últimos 5 años se hayan",
+    "text": "7.8.6 Revisar que los informes de resultados de muestreo y análisis en los últimos 5 años se hayan\nelaborado por un Laboratorio y registrados en la Comisión con la periodicidad correspondiente, Tablas 3 y 4.",
+    "start_char": 71564,
+    "end_char": 71771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-8-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.8.7",
+    "label": "7.8.7 Registrar y emitir el Dictamen de Conformidad en un plazo máximo de 10 días hábiles en el sistema",
+    "text": "7.8.7 Registrar y emitir el Dictamen de Conformidad en un plazo máximo de 10 días hábiles en el sistema\nelectrónico que para tal fin la Comisión ponga a disposición en su página de internet, una vez realizada la\nvisita de verificación, recibido el informe de laboratorio y verificados los puntos anteriores.",
+    "start_char": 71777,
+    "end_char": 72084
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-8-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.8.8",
+    "label": "7.8.8 Emitir un dictamen de conformidad favorable cuando se cumpla con las especificaciones",
+    "text": "7.8.8 Emitir un dictamen de conformidad favorable cuando se cumpla con las especificaciones\nestablecidas en esta Norma Oficial Mexicana.",
+    "start_char": 72090,
+    "end_char": 72226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.9",
+    "label": "7.9. En el caso de que el dictamen de conformidad resulte no favorable, se procederá conforme a las",
+    "text": "7.9. En el caso de que el dictamen de conformidad resulte no favorable, se procederá conforme a las\ndisposiciones jurídicas vigentes.",
+    "start_char": 72232,
+    "end_char": 72365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.10",
+    "label": "7.10. El dictamen de conformidad no exime al responsable de efectuar el muestreo y análisis que se",
+    "text": "7.10. El dictamen de conformidad no exime al responsable de efectuar el muestreo y análisis que se\nestipula en las Tablas 3 y 4 de esta Norma Oficial Mexicana.\n\f                                                 DIARIO OFICIAL                    Viernes 11 de marzo de 2022",
+    "start_char": 72371,
+    "end_char": 72642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.11",
+    "label": "7.11. El dictamen de conformidad favorable expedido por una Unidad de Verificación será reconocido por",
+    "text": "7.11. El dictamen de conformidad favorable expedido por una Unidad de Verificación será reconocido por\nlas autoridades competentes.",
+    "start_char": 72649,
+    "end_char": 72780
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.12",
+    "label": "7.12. El cumplimiento de lo establecido en el capítulo 7 de esta Norma, no sustituye a las visitas de",
+    "text": "7.12. El cumplimiento de lo establecido en el capítulo 7 de esta Norma, no sustituye a las visitas de\ninspección y vigilancia que la autoridad puede realizar en el ejercicio de las atribuciones que le confiere la Ley\nGeneral del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas Nacionales, la Ley Federal de\nDerechos, y demás ordenamientos jurídicos.",
+    "start_char": 72786,
+    "end_char": 73153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:7-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "7.13",
+    "label": "7.13. La Comisión, es la autoridad competente para resolver controversias en la interpretación de este",
+    "text": "7.13. La Comisión, es la autoridad competente para resolver controversias en la interpretación de este\nprocedimiento de evaluación de la conformidad.",
+    "start_char": 73159,
+    "end_char": 73308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "8",
+    "label": "8. Concordancia con normas internacionales",
+    "text": "8. Concordancia con normas internacionales\n     Esta Norma Oficial Mexicana no es equivalente (NEQ) con ninguna Norma Internacional, por no existir\nesta última al momento de su elaboración.",
+    "start_char": 73314,
+    "end_char": 73503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9",
+    "label": "9. Bibliografía",
+    "text": "9. Bibliografía",
+    "start_char": 73509,
+    "end_char": 73524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.1",
+    "label": "9.1. Central Pollution Control Board (s.f.). Environmental Standards. 32.0 General Standards for Discharge",
+    "text": "9.1. Central Pollution Control Board (s.f.). Environmental Standards. 32.0 General Standards for Discharge\nof Environmental Pollutants (Junta de Control Central de Contaminación, “Estándares de Contaminación. 32.0\nEstándares Generales para la descarga de contaminantes del Medio Ambiente”), India. Disponible en:\nhttps://scclmines.com/env/ENVIRONMENTAL%20STANDARDS.pdf.",
+    "start_char": 73530,
+    "end_char": 73899
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.2",
+    "label": "9.2. SEDUE (1989). ACUERDO por el que se establecen los Criterios Ecológicos de Calidad del Agua.",
+    "text": "9.2. SEDUE (1989). ACUERDO por el que se establecen los Criterios Ecológicos de Calidad del Agua.\nSecretaría de Desarrollo Urbano y Ecología, publicado en el Diario Oficial de la Federación el 13 de diciembre,\nMéxico. Disponible en: http://dof.gob.mx/nota_detalle.php?codigo=4837548&fecha=13/12/1989.",
+    "start_char": 73905,
+    "end_char": 74205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.3",
+    "label": "9.3. Ministerio de Obras Públicas (1998). D.S. No. 609/98: Norma de Emisión para la Regulación de",
+    "text": "9.3. Ministerio de Obras Públicas (1998). D.S. No. 609/98: Norma de Emisión para la Regulación de\nContaminantes asociados a las Descargas de Residuos Industriales Líquidos a Sistemas de Alcantarillado.\nD.S. No. 46/02 del Ministerio Secretaría General de la Presidencia: Norma de Emisión de Residuos Líquidos a\nAguas Subterráneas, Chile. Disponible en: http://extwprlegs1.fao.org/docs/pdf/chi50299.pdf.",
+    "start_char": 74211,
+    "end_char": 74612
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.4",
+    "label": "9.4. Ministerio Secretaría General de la Presidencia (2000). D.S. No. 90/2000: Norma de Emisión para la",
+    "text": "9.4. Ministerio Secretaría General de la Presidencia (2000). D.S. No. 90/2000: Norma de Emisión para la\nregulación de contaminantes asociados a las descargas de residuos líquidos a aguas marinas y continentales\nsuperficiales, Chile. Disponible en: http://extwprlegs1.fao.org/docs/pdf/chi28651.pdf.",
+    "start_char": 74618,
+    "end_char": 74915
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.5",
+    "label": "9.5. Ministerio de Transporte y Obras Públicas et al. (1979). DECRETO 253/79. Normas para prevenir la",
+    "text": "9.5. Ministerio de Transporte y Obras Públicas et al. (1979). DECRETO 253/79. Normas para prevenir la\ncontaminación ambiental mediante el control de las aguas, Uruguay. Disponible en:\nhttps://www.aiqu.org.uy/documentos/medioambiente/dec253_79%20vigente.pdf.",
+    "start_char": 74921,
+    "end_char": 75178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.6",
+    "label": "9.6. Ministerio de la Producción (2002). DECRETO SUPREMO No. 003-2002-PRODUCE. Límites",
+    "text": "9.6. Ministerio de la Producción (2002). DECRETO SUPREMO No. 003-2002-PRODUCE. Límites\nMáximos Permisibles y Valores Referenciales para las actividades industriales de cemento, cerveza,\ncurtiembre y papel, Perú. Disponible en: https://sinia.minam.gob.pe/normas/aprueban-limites-maximos-\npermisibles-valores-referenciales-las.",
+    "start_char": 75184,
+    "end_char": 75509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.7",
+    "label": "9.7. Disposición 79179/90: Vertidos industriales y especiales acogidos al régimen de Obras Sanitarias de",
+    "text": "9.7. Disposición 79179/90: Vertidos industriales y especiales acogidos al régimen de Obras Sanitarias de\nla Nación (O.S.N.) (1990). Norma para los vertidos de establecimientos industriales o especiales alcanzados\npor el Decreto 674/89, que contengan sustancias peligrosas de naturaleza ecotóxica, Argentina. Disponible\nen: http://www.ecofield.net/Legales/Residuos_pel/res242-93_SRNyAH.htm.",
+    "start_char": 75515,
+    "end_char": 75904
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.8",
+    "label": "9.8. Environmental Guidelines. 318-6. Management of Wastewater Treatment Systems (2003). (Directrices",
+    "text": "9.8. Environmental Guidelines. 318-6. Management of Wastewater Treatment Systems (2003). (Directrices\nAmbientales. 318-6. Manejo de Sistemas de Tratamiento de Aguas Residuales), Canadá. Disponible en:\nhttps://www.publicsafety.gc.ca/lbrr/archives/cd-318-6-gl-eng.pdf.",
+    "start_char": 75910,
+    "end_char": 76176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.9",
+    "label": "9.9. ema (2020). Manual de procedimientos. Evaluación y acreditación de laboratorios de calibración y/o",
+    "text": "9.9. ema (2020). Manual de procedimientos. Evaluación y acreditación de laboratorios de calibración y/o\nensayo (pruebas) con base en la norma ISO/IEC 17025 (Vigente). Documento MP-FP002-32 de fecha 30 de\njulio.     entidad       mexicana       de        acreditación,    a.     c.,     México.     Disponible        en:\nhttp://consultaema.mx:75/Consultas/Pqtinformativo/MP-FP002_Evaluacion_acreditacion_LAB_2017025_3.pdf.",
+    "start_char": 76182,
+    "end_char": 76603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.10",
+    "label": "9.10. Presidencia de la República (s.f.). Norma de calidad ambiental y de descarga de efluentes: recurso",
+    "text": "9.10. Presidencia de la República (s.f.). Norma de calidad ambiental y de descarga de efluentes: recurso\nagua                              (Ecuador).                             Disponible                             en:\nhttp://indostra.com/docs/ecuador_norma_calidad_ambiental_descarga_efluentes.pdf.",
+    "start_char": 76609,
+    "end_char": 76910
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.11",
+    "label": "9.11. SEMARNAT (1998). Norma Oficial Mexicana NOM-003-SEMARNAT-1997, Que establece los límites",
+    "text": "9.11. SEMARNAT (1998). Norma Oficial Mexicana NOM-003-SEMARNAT-1997, Que establece los límites\nmáximos permisibles de contaminantes para las aguas residuales tratadas que se reúsen en servicios al\npúblico. Publicada en el Diario Oficial de la Federación el 21 de septiembre, México. Disponible en:\nhttp://www.conagua.gob.mx/CONAGUA07/Publicaciones/Publicaciones/SGAA-15-13.pdf.",
+    "start_char": 76916,
+    "end_char": 77293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.12",
+    "label": "9.12. Presidencia de la República (2019). Plan Nacional de Desarrollo 2019-2024. Publicado en el Diario",
+    "text": "9.12. Presidencia de la República (2019). Plan Nacional de Desarrollo 2019-2024. Publicado en el Diario\nOficial       de      la     Federación         el      12      de    julio.     México.      Disponible       en:\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5565599&fecha=12/07/2019 .",
+    "start_char": 77299,
+    "end_char": 77591
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.13",
+    "label": "9.13. CONAGUA (2015). Procedimiento simplificado de atención de emergencias hidroecológicas.",
+    "text": "9.13. CONAGUA (2015). Procedimiento simplificado de atención de emergencias hidroecológicas.\nComisión Nacional del Agua, Noviembre, México.",
+    "start_char": 77597,
+    "end_char": 77736
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.14",
+    "label": "9.14. SEMARNAT (2020). Programa Sectorial de Medio Ambiente y Recursos Naturales 2020-2024,",
+    "text": "9.14. SEMARNAT (2020). Programa Sectorial de Medio Ambiente y Recursos Naturales 2020-2024,\nSecretaría del Medio Ambiente y Recursos Naturales. Publicado en el Diario Oficial de la Federación el 07 de\njulio, México. Disponible en: https://www.dof.gob.mx/nota_detalle.php?codigo=5596232&fecha=07/07/2020.\n\f   Viernes 11 de marzo de 2022                 DIARIO OFICIAL",
+    "start_char": 77742,
+    "end_char": 78108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.15",
+    "label": "9.15. CONAGUA-SEMARNAT (2014). Programa Nacional Hídrico 2013-2018. Comisión Nacional del",
+    "text": "9.15. CONAGUA-SEMARNAT (2014). Programa Nacional Hídrico 2013-2018. Comisión Nacional del\nAgua, Secretaría del Medio Ambiente y Recursos Naturales, 8 de abril, México. Disponible en:\nhttp://www.conagua.gob.mx/CONAGUA07/Contenido/Documentos/PROGRAMA_Nacional_Hidrico_2014_201\n8_espa%C3%B1ol.pdf.",
+    "start_char": 78114,
+    "end_char": 78408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.16",
+    "label": "9.16. CONAFOR-SEMARNAT (2007). Protección, Restauración y Conservación de Suelos Forestales.",
+    "text": "9.16. CONAFOR-SEMARNAT (2007). Protección, Restauración y Conservación de Suelos Forestales.\nManual       de       Obras     y     Prácticas.      Quinta      Edición,     México.    Disponible     en:\nhttp://www.conafor.gob.mx:8080/documentos/docs/20/1310Manual%20de%20Conservacion%20de%20Suelos\n%20.pdf.",
+    "start_char": 78413,
+    "end_char": 78718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.17",
+    "label": "9.17. Ministerio del Medio Ambiente y Energía (2007). Reglamento de vertido y reúso de aguas residuales.",
+    "text": "9.17. Ministerio del Medio Ambiente y Energía (2007). Reglamento de vertido y reúso de aguas residuales.\nDecreto N° 33601 -MINAE-S. Parámetros y LMP para el reúso de aguas residuales tratadas. Gaceta 55,\nalcance 18. Costa Rica. Disponible en: http://extwprlegs1.fao.org/docs/pdf/cos71694.pdf.",
+    "start_char": 78723,
+    "end_char": 79015
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:9-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "9.18",
+    "label": "9.18. Presidencia de la República (2015). Anexo 1 del Libro VI del Texto Unificado de Legislación Secundaria",
+    "text": "9.18. Presidencia de la República (2015). Anexo 1 del Libro VI del Texto Unificado de Legislación Secundaria\ndel Ministerio del Ambiente: Norma de Calidad Ambiental y de Descarga de Efluentes al Recurso Agua.\nEcuador. Disponible en: https://www.ambiente.gob.ec/wp-content/uploads/downloads/2018/05/Acuerdo-\n097.pdf.",
+    "start_char": 79020,
+    "end_char": 79335
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "10",
+    "label": "10. Observancia de esta norma",
+    "text": "10. Observancia de esta norma",
+    "start_char": 79340,
+    "end_char": 79369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "10.1",
+    "label": "10.1. La vigilancia del cumplimiento de la presente Norma Oficial Mexicana corresponde a la Secretaría,",
+    "text": "10.1. La vigilancia del cumplimiento de la presente Norma Oficial Mexicana corresponde a la Secretaría,\npor conducto de la Comisión y la Procuraduría, en el ámbito de sus respectivas competencias.",
+    "start_char": 79374,
+    "end_char": 79570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-semarnat-2021",
+    "number": "10.2",
+    "label": "10.2. Las violaciones a la misma se sancionarán en los términos de la Ley General del Equilibrio Ecológico",
+    "text": "10.2. Las violaciones a la misma se sancionarán en los términos de la Ley General del Equilibrio Ecológico\ny la Protección al Ambiente, la Ley de Aguas Nacionales, la Ley Federal sobre Metrología y Normalización y\nsus respectivos Reglamentos en la materia, así como demás ordenamientos jurídicos aplicables.",
+    "start_char": 79575,
+    "end_char": 79882
+  }
+]

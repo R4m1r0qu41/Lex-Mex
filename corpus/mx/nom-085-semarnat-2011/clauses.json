@@ -1,0 +1,732 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n\n    Establecer los niveles máximos permisibles de emisión de humo, partículas, monóxido de carbono (CO),\nbióxido de azufre (SO2) y óxidos de nitrógeno (NOx) de los equipos de combustión de calentamiento indirecto\nque utilizan combustibles convencionales o sus mezclas, con el fin de proteger la calidad del aire.",
+    "start_char": 10542,
+    "end_char": 10867
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n\n     Es de observancia obligatoria para las personas físicas o morales responsables de las fuentes fijas de\njurisdicción federal y local que utilizan equipos de combustión de calentamiento indirecto con combustibles\nconvencionales o sus mezclas en la industria, comercios y servicios.\n\n   No aplica en los siguientes casos: Equipos con capacidad térmica nominal menor a 530 megajoules por\nhora (≈15 CC), equipos domésticos de calefacción y calentamiento de agua, turbinas de gas, equipos\nauxiliares y equipos de relevo. Tampoco aplica para el caso en que se utilicen bioenergéticos.\n\f       (Primera Sección)                         DIARIO OFICIAL                      Jueves 2 de febrero de 2012",
+    "start_char": 10872,
+    "end_char": 11592
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n   NOM-001-SECRE-2003, Calidad del gas natural, publicada en el Diario Oficial de la Federación el 29 de\nmarzo de 2004.\n    NOM-086-SEMARNAT-SENER-SCFI-2005, Especificaciones de los combustibles fósiles para la\nprotección ambiental, publicada en el Diario Oficial de la Federación el 30 de enero de 2006.\n    NOM-098-SEMARNAT-2002, Protección ambiental-Incineración de residuos, especificaciones de\noperación y límites de emisión de contaminantes, publicada en el Diario Oficial de la Federación del 1 de\noctubre de 2004: Anexo 1. Especificaciones y procedimientos de prueba para sistemas de monitoreo continuo\nde emisiones (SMCE) de monóxido de carbono (CO) y Anexo 2 Determinación de emisiones de óxidos de\nnitrógeno en fuentes fijas (procedimiento de análisis instrumental).\n   NMX-AA-009-1993-SCFI, “Contaminación atmosférica-Fuentes fijas-Determinación de flujo de gases en un\nconducto por medio del Tubo de Pitot”, publicada en el Diario Oficial de la Federación del 27 de diciembre de\n1993.\n    NMX-AA-010-SCFI-2001, “Contaminación atmosférica-Fuentes fijas-Determinación de la emisión de\npartículas contenidas en los gases que fluyen por un conducto-Método isocinético”, publicada en el Diario\nOficial de la Federación del 18 de abril de 2001.\n   NMX-AA-035-1976, “Determinación de bióxido de carbono, monóxido de carbono y oxígeno en los gases\nde combustión”, publicada en el Diario Oficial de la Federación el 10 de junio de 1976.\n   NMX-AA-054-1978, “Contaminación atmosférica-Determinación del contenido de humedad en los gases\nque fluyen por un conducto-método gravimétrico”, publicada en el Diario Oficial de la Federación el 2 de\nagosto de 1978.\n   NMX-AA-055-1979, “Contaminación atmosférica-Fuentes fijas-Determinación de bióxido de azufre en\ngases que fluyen por un conducto”, publicada en el Diario Oficial de la Federación el 6 de septiembre de 1979.\n    NMX-AA-056-1980 “Contaminación atmosférica- fuentes Fijas-Determinación de bióxido de azufre, trióxido\nde azufre y neblinas de ácido sulfúrico en los gases que fluyen por un conducto”, publicada en el Diario Oficial de\nla Federación el 17 de junio de 1980.\n    NMX-AA-114-1991 “Contaminación atmosférica-fuentes fijas-Determinación de la densidad del humo en\nlos gases de combustión que fluyen por un conducto o chimenea-Método del número de mancha”, publicada\nen el Diario Oficial de la Federación el 8 de noviembre de 1991.",
+    "start_char": 11597,
+    "end_char": 14012
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n    Para efectos de la presente norma se aplicarán las definiciones de la Ley General del Equilibrio Ecológico\ny la Protección al Ambiente, las del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al\nAmbiente en materia de Prevención y Control de la Contaminación de la Atmósfera, la Ley de Promoción y\nDesarrollo de los Bioenérgeticos y las siguientes:",
+    "start_char": 14016,
+    "end_char": 14406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.1",
+    "label": "4.1 Bioenergéticos: Combustible obtenido de la biomasa proveniente de materia orgánica de las",
+    "text": "4.1 Bioenergéticos: Combustible obtenido de la biomasa proveniente de materia orgánica de las\nactividades, agrícola, pecuaria, silvícola, acuacultura, algacultura, residuos de pesca, doméstica, comerciales,\nindustriales, de microorganismos y enzimas, así como sus derivados, producidos por sus procesos\ntecnológicos sustentables.",
+    "start_char": 14411,
+    "end_char": 14740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.2",
+    "label": "4.2 Capacidad térmica nominal de un equipo de combustión de calentamiento indirecto: La",
+    "text": "4.2 Capacidad térmica nominal de un equipo de combustión de calentamiento indirecto: La\ngeneración de calor aprovechable especificada por el fabricante en los registros o por los manuales de\noperación y mantenimiento o en una placa adherida al mismo.",
+    "start_char": 14744,
+    "end_char": 14994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.3",
+    "label": "4.3 Combustibles convencionales: Aquellos que están disponibles comercialmente en el país: gas",
+    "text": "4.3 Combustibles convencionales: Aquellos que están disponibles comercialmente en el país: gas\nnatural y gas LP, diesel industrial y gasóleo, combustóleo, coque de petróleo y carbón mineral en todas sus\nvariedades.",
+    "start_char": 14999,
+    "end_char": 15213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.4",
+    "label": "4.4 Datos validados: Aquellos que se han sometido a un análisis estadístico para comprobar su",
+    "text": "4.4 Datos validados: Aquellos que se han sometido a un análisis estadístico para comprobar su\nveracidad e integridad.",
+    "start_char": 15217,
+    "end_char": 15334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.5",
+    "label": "4.5 Emisión ponderada: El valor que resulta de promediar las emisiones contaminantes de los equipos",
+    "text": "4.5 Emisión ponderada: El valor que resulta de promediar las emisiones contaminantes de los equipos\nde combustión de calentamiento indirecto de una fuente fija en función de su capacidad térmica.\n\f   Jueves 2 de febrero de 2012                 DIARIO OFICIAL                              (Primera Sección)",
+    "start_char": 15338,
+    "end_char": 15643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.6",
+    "label": "4.6 Emisión Potencial Máxima de SO2: Emisión estequiométrica de SO2 que tendría un equipo de",
+    "text": "4.6 Emisión Potencial Máxima de SO2: Emisión estequiométrica de SO2 que tendría un equipo de\ncombustión de calentamiento indirecto operando con un combustible determinado durante todo un año, sin\ncontrol de emisiones. Se calcula para el combustible utilizado que tenga el mayor contenido de azufre.",
+    "start_char": 15648,
+    "end_char": 15946
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.7",
+    "label": "4.7 Equipo auxiliar: Equipo empleado para la preparación de combustible a alimentar durante el arranque",
+    "text": "4.7 Equipo auxiliar: Equipo empleado para la preparación de combustible a alimentar durante el arranque\nde equipos y que opera en forma esporádica en una cantidad de horas equivalentes de hasta 36 días\nnaturales en un año calendario.",
+    "start_char": 15950,
+    "end_char": 16183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.8",
+    "label": "4.8 Equipos de combustión de calentamiento indirecto: Aquellos en que el calor generado se transfiere",
+    "text": "4.8 Equipos de combustión de calentamiento indirecto: Aquellos en que el calor generado se transfiere\na través de los gases de combustión, los cuales no entran en contacto directo con los materiales del proceso,\ncomo son: las calderas, generadores de vapor, calentadores de aceite térmico u otro tipo de fluidos y los\nhornos y secadores a base de sistemas de calentamiento indirecto.",
+    "start_char": 16188,
+    "end_char": 16571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.9",
+    "label": "4.9 Equipo de combustión existente: El instalado o el que cuente con un contrato de compra firmado",
+    "text": "4.9 Equipo de combustión existente: El instalado o el que cuente con un contrato de compra firmado\nantes de la entrada en vigor de la presente norma.",
+    "start_char": 16575,
+    "end_char": 16724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.10",
+    "label": "4.10 Equipo de combustión nuevo: El instalado por primera vez en una fuente fija, en fecha posterior a",
+    "text": "4.10 Equipo de combustión nuevo: El instalado por primera vez en una fuente fija, en fecha posterior a\nla entrada en vigor de la presente norma.",
+    "start_char": 16729,
+    "end_char": 16873
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.11",
+    "label": "4.11 Equipo de relevo: Equipo de combustión que se usa para sustituir a otro, principalmente en casos",
+    "text": "4.11 Equipo de relevo: Equipo de combustión que se usa para sustituir a otro, principalmente en casos\nde mantenimiento o servicio y que opera en forma esporádica en una cantidad de horas equivalentes de hasta\n36 días naturales en un año calendario.",
+    "start_char": 16877,
+    "end_char": 17125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.12",
+    "label": "4.12 Fuente Fija: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar",
+    "text": "4.12 Fuente Fija: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar\noperaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar\nemisiones contaminantes a la atmósfera.",
+    "start_char": 17129,
+    "end_char": 17379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.13",
+    "label": "4.13 Fuente Mayor: Equipo de combustión de calentamiento indirecto con una capacidad mayor a 530",
+    "text": "4.13 Fuente Mayor: Equipo de combustión de calentamiento indirecto con una capacidad mayor a 530\nGJ/h.",
+    "start_char": 17383,
+    "end_char": 17485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.14",
+    "label": "4.14 Humo: Mezcla visible en el aire de pequeñas partículas y gases, generados por la combustión.",
+    "text": "4.14 Humo: Mezcla visible en el aire de pequeñas partículas y gases, generados por la combustión.",
+    "start_char": 17489,
+    "end_char": 17586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.15",
+    "label": "4.15 Número de mancha: Número en una escala patrón cuya tonalidad es equivalente a la que se obtiene",
+    "text": "4.15 Número de mancha: Número en una escala patrón cuya tonalidad es equivalente a la que se obtiene\nal hacer pasar por un papel filtro el humo producido en un equipo de combustión.",
+    "start_char": 17591,
+    "end_char": 17772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.16",
+    "label": "4.16 Opacidad: Interferencia al paso de la luz por la presencia de material particulado (sólidos y líquidos)",
+    "text": "4.16 Opacidad: Interferencia al paso de la luz por la presencia de material particulado (sólidos y líquidos)\npresentes en los gases de combustión.",
+    "start_char": 17776,
+    "end_char": 17922
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.17",
+    "label": "4.17 Operación de arranque del equipo de combustión: Periodo de encendido de los quemadores",
+    "text": "4.17 Operación de arranque del equipo de combustión: Periodo de encendido de los quemadores\nhasta la estabilización de la temperatura en la cámara de combustión.",
+    "start_char": 17926,
+    "end_char": 18087
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.18",
+    "label": "4.18 Operación de soplado: La limpieza programada o periódica de los tubos de un equipo de",
+    "text": "4.18 Operación de soplado: La limpieza programada o periódica de los tubos de un equipo de\ncombustión de calentamiento indirecto, con el fin de eliminar el hollín depositado en ellos.",
+    "start_char": 18091,
+    "end_char": 18274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.19",
+    "label": "4.19 Pluma: Forma visible que adquiere la emisión de una chimenea debido a partículas, vapores, gases",
+    "text": "4.19 Pluma: Forma visible que adquiere la emisión de una chimenea debido a partículas, vapores, gases\no humo.",
+    "start_char": 18278,
+    "end_char": 18387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.20",
+    "label": "4.20 PROFEPA: Procuraduría Federal de Protección al Ambiente.",
+    "text": "4.20 PROFEPA: Procuraduría Federal de Protección al Ambiente.",
+    "start_char": 18391,
+    "end_char": 18452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.21",
+    "label": "4.21 Secretaría: Secretaría de Medio Ambiente y Recursos Naturales.",
+    "text": "4.21 Secretaría: Secretaría de Medio Ambiente y Recursos Naturales.",
+    "start_char": 18456,
+    "end_char": 18523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.22",
+    "label": "4.22 Sistema de Monitoreo Continuo de Emisiones o SMCE: Equipo para determinar la concentración",
+    "text": "4.22 Sistema de Monitoreo Continuo de Emisiones o SMCE: Equipo para determinar la concentración\nde uno o varios contaminantes en una matriz de manera continua, así como otros parámetros. Comprende la\ntoma, acondicionamiento y análisis de la muestra y el registro permanente de los resultados.",
+    "start_char": 18527,
+    "end_char": 18819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-23",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.23",
+    "label": "4.23 Resto del País (RP): Para efectos de esta norma oficial mexicana, es toda la extensión territorial",
+    "text": "4.23 Resto del País (RP): Para efectos de esta norma oficial mexicana, es toda la extensión territorial\nnacional excluyendo las Zonas Críticas.",
+    "start_char": 18823,
+    "end_char": 18966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.24",
+    "label": "4.24 Zonas Críticas (ZC): Aquellas en las que por sus condiciones topográficas y meteorológicas se",
+    "text": "4.24 Zonas Críticas (ZC): Aquellas en las que por sus condiciones topográficas y meteorológicas se\ndificulte la dispersión o se registren altas concentraciones de contaminantes a la atmósfera; se consideran\nzonas críticas las zonas metropolitanas indicadas en los incisos 4.24.1 a 4.24.3 y además, aquellas regiones y\ncentros de población listados en los numerales 4.24.4 a 4.24.9.",
+    "start_char": 18972,
+    "end_char": 19353
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-24-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.24.1",
+    "label": "4.24.1 Zona Metropolitana de Guadalajara (ZMG): El área integrada por los siguientes municipios del",
+    "text": "4.24.1 Zona Metropolitana de Guadalajara (ZMG): El área integrada por los siguientes municipios del\nEstado de Jalisco: Guadalajara, El Salto, Tlajomulco de Zúñiga, Tlaquepaque, Tonalá y Zapopan.\n\f      (Primera Sección)                        DIARIO OFICIAL                     Jueves 2 de febrero de 2012",
+    "start_char": 19357,
+    "end_char": 19662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-24-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.24.2",
+    "label": "4.24.2 Zona Metropolitana de Monterrey (ZMM): El área integrada por los siguientes municipios del",
+    "text": "4.24.2 Zona Metropolitana de Monterrey (ZMM): El área integrada por los siguientes municipios del\nEstado de Nuevo León: Apodaca, Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San\nPedro Garza García y Santa Catarina.",
+    "start_char": 19667,
+    "end_char": 19902
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-24-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.24.3",
+    "label": "4.24.3 Zona del Valle de México (ZVM): Para efectos de esta norma es el área integrada por las 16",
+    "text": "4.24.3 Zona del Valle de México (ZVM): Para efectos de esta norma es el área integrada por las 16\nDelegaciones Políticas del Distrito Federal y los siguientes 18 municipios del Estado de México: Atizapán de\nZaragoza, Coacalco, Cuautitlán de Romero Rubio, Cuautitlán Izcalli, Chalco, Chalco Solidaridad,\nChimalhuacán, Ecatepec, Huixquilucan, Ixtapaluca, La Paz, Naucalpan de Juárez, Nezahualcóyotl, San\nVicente Chicoloapan, Nicolás Romero, Tecámac, Tlalnepantla y Tultitlán.",
+    "start_char": 19906,
+    "end_char": 20379
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-24-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.24.4",
+    "label": "4.24.4 Corredor industrial Coatzacoalcos-Minatitlán: Municipios de Coatzacoalcos, Minatitlán, Ixhuatlán",
+    "text": "4.24.4 Corredor industrial Coatzacoalcos-Minatitlán: Municipios de Coatzacoalcos, Minatitlán, Ixhuatlán\ndel Sureste, Cosoleacaque y Nanchital, en el Estado de Veracruz.",
+    "start_char": 20384,
+    "end_char": 20552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-24-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.24.5",
+    "label": "4.24.5 Corredor Irapuato-Celaya-Salamanca: Municipios de Celaya, Irapuato, Salamanca y Villagrán, en",
+    "text": "4.24.5 Corredor Irapuato-Celaya-Salamanca: Municipios de Celaya, Irapuato, Salamanca y Villagrán, en\nel Estado de Guanajuato.",
+    "start_char": 20557,
+    "end_char": 20682
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-24-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.24.6",
+    "label": "4.24.6 Corredor industrial Tula-Vito-Apasco: Municipios de Tula de Allende, Tepeji de Ocampo,",
+    "text": "4.24.6 Corredor industrial Tula-Vito-Apasco: Municipios de Tula de Allende, Tepeji de Ocampo,\nTlahuelilpan, Atitalaquia, Atotonilco de Tula, Tlaxcoapan y Apaxco, en los estados de Hidalgo y de México.",
+    "start_char": 20686,
+    "end_char": 20886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-24-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.24.7",
+    "label": "4.24.7 Corredor industrial de Tampico-Madero-Altamira: Municipios de Tampico, Altamira y Cd.",
+    "text": "4.24.7 Corredor industrial de Tampico-Madero-Altamira: Municipios de Tampico, Altamira y Cd.\nMadero, en el Estado de Tamaulipas.",
+    "start_char": 20889,
+    "end_char": 21017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-24-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.24.8",
+    "label": "4.24.8 El Municipio de Ciudad Juárez en el Estado de Chihuahua.",
+    "text": "4.24.8 El Municipio de Ciudad Juárez en el Estado de Chihuahua.",
+    "start_char": 21021,
+    "end_char": 21084
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:4-24-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "4.24.9",
+    "label": "4.24.9 El área integrada por los municipios de Tijuana y Rosarito en el Estado de Baja California.",
+    "text": "4.24.9 El área integrada por los municipios de Tijuana y Rosarito en el Estado de Baja California.",
+    "start_char": 21088,
+    "end_char": 21186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "5",
+    "label": "5. Especificaciones",
+    "text": "5. Especificaciones",
+    "start_char": 21190,
+    "end_char": 21209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "5.1",
+    "label": "5.1 Los niveles máximos permisibles de emisión de humo, partículas, monóxido de carbono (CO), bióxido",
+    "text": "5.1 Los niveles máximos permisibles de emisión de humo, partículas, monóxido de carbono (CO), bióxido\nde azufre (SO2) y óxidos de nitrógeno (NOX) de los equipos de combustión de calentamiento indirecto se\nestablecen en función de la capacidad térmica nominal del equipo, del tipo de combustible, de la ubicación de\nla fuente fija y de las condiciones de referencia, en la Tabla 1 para equipos existentes y en la Tabla 2 para\nequipos nuevos.",
+    "start_char": 21214,
+    "end_char": 21654
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "5.2",
+    "label": "5.2 Los responsables de las fuentes fijas referidas en esta Norma Oficial Mexicana deben llevar la bitácora",
+    "text": "5.2 Los responsables de las fuentes fijas referidas en esta Norma Oficial Mexicana deben llevar la bitácora\nde operación y mantenimiento de los equipos de combustión de calentamiento indirecto y de control de\nemisiones, ya sea en formato impreso o electrónico.\n   La bitácora debe estar disponible para su revisión por la autoridad ambiental en el ámbito de su\ncompetencia y debe tener como mínimo la siguiente información: Nombre, marca y capacidad térmica nominal\nde los equipos de combustión, y en caso de contar con equipos de control de emisiones y de medición de\ncontaminantes, su nombre y marca. En los registros diarios se anotará: fecha, turno, consumo y tipo de\ncombustible, porcentaje de la capacidad de diseño a que operó el equipo, temperatura promedio de los gases\nde chimenea y cualquier otro dato que el operador considere necesario en un apartado de observaciones.",
+    "start_char": 21658,
+    "end_char": 22539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "5.3",
+    "label": "5.3 Las fuentes fijas en las que se instalen por primera vez equipos de combustión mayores de 1 000 GJ/h",
+    "text": "5.3 Las fuentes fijas en las que se instalen por primera vez equipos de combustión mayores de 1 000 GJ/h\nque utilicen combustibles con un contenido de azufre mayor de 1% deben contar con Sistemas de Monitoreo\nContinuo de Emisiones para medir SO2, la opacidad de la pluma y O2.",
+    "start_char": 22543,
+    "end_char": 22819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "5.4",
+    "label": "5.4 En caso de utilizar equipos o sistemas de control de emisiones para cumplir los niveles de emisión de",
+    "text": "5.4 En caso de utilizar equipos o sistemas de control de emisiones para cumplir los niveles de emisión de\nlas Tablas 1 y 2, dichos sistemas deben operar al menos el 90% del tiempo total de operación en un año\ncalendario de los equipos de combustión.",
+    "start_char": 22824,
+    "end_char": 23073
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "5.5",
+    "label": "5.5 Las empresas que suministren los combustibles regulados en esta Norma Oficial Mexicana, deben",
+    "text": "5.5 Las empresas que suministren los combustibles regulados en esta Norma Oficial Mexicana, deben\ncumplir con las especificaciones de calidad establecidas por la normatividad vigente.",
+    "start_char": 23077,
+    "end_char": 23260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "6",
+    "label": "6. Métodos de prueba",
+    "text": "6. Métodos de prueba",
+    "start_char": 23264,
+    "end_char": 23284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "6.1",
+    "label": "6.1 La medición de las emisiones del humo como número de mancha, monóxido de carbono, partículas,",
+    "text": "6.1 La medición de las emisiones del humo como número de mancha, monóxido de carbono, partículas,\nóxidos de nitrógeno y bióxido de azufre deben realizarse con la frecuencia y bajo las condiciones que se\nindican en la Tabla 3 y con los métodos a que se refiere la Tabla 4 de esta Norma Oficial Mexicana o un\nmétodo alternativo previa autorización de la Secretaría mediante Trámite inscrito en el Registro Federal de\nTrámites y Servicios como SEMARNAT 05-005-A Uso de Equipos, Procesos, Métodos de Prueba,\nMecanismos, Procedimientos o Tecnologías Alternativas a las establecidas en las Normas Oficiales\nMexicanas en Materia Ambiental, modalidad A o SEMARNAT 05-005-B Métodos de prueba alternos que\ncuenten con autorización anterior publicada en el Diario Oficial de la Federación.\n\f   Jueves 2 de febrero de 2012                  DIARIO OFICIAL                             (Primera Sección)",
+    "start_char": 23289,
+    "end_char": 24177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "6.2",
+    "label": "6.2 Las mediciones de número de mancha, CO, partículas, NOX, y SO2 para comprobar el cumplimiento",
+    "text": "6.2 Las mediciones de número de mancha, CO, partículas, NOX, y SO2 para comprobar el cumplimiento\nde la norma, deben ser realizadas por laboratorios acreditados y aprobados en los términos de la Ley Federal\nsobre Metrología y Normalización. Los resultados y/o informes de los análisis deben estar disponibles para su\nrevisión por parte de la autoridad ambiental.",
+    "start_char": 24183,
+    "end_char": 24545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "6.3",
+    "label": "6.3 Los métodos analíticos indicados para los contaminantes gaseosos miden directamente su",
+    "text": "6.3 Los métodos analíticos indicados para los contaminantes gaseosos miden directamente su\nconcentración en los gases de combustión; el método isocinético para partículas mide su concentración en\n     3\nmg/m . En forma simultánea se debe medir o calcular el flujo de gases en la chimenea, (Ф), así como la\nconcentración de O2 para corregir los resultados a las condiciones de referencia de 25°C, 1 Atm y 5% de O2,\nbase seca.",
+    "start_char": 24549,
+    "end_char": 24973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "6.4",
+    "label": "6.4 Para determinar la emisión de un contaminante en 1 hora (kg/h), a partir de su concentración y el flujo",
+    "text": "6.4 Para determinar la emisión de un contaminante en 1 hora (kg/h), a partir de su concentración y el flujo\nde gases en chimenea medidos o calculados se utiliza la ecuación 1:\n                                                                  3     3\n                                   Ec (1): Ei (kg/h)= Ci (kg/m ) Ф (m /h),\n   donde:    Ec: Ecuación.\n             Ei es la emisión del contaminante i-ésimo, en kg/h.\n             Ci es la concentración de dicho contaminante en condiciones de referencia y base seca,\n                              3\n             expresada en kg/m .\n             Ф es el flujo de gases de combustión en la chimenea, medido o calculado en condiciones de\n                                                   3\n             referencia y base seca, expresada en m /h.\n   Para calcular la emisión del contaminante en kg/GJ a partir de la concentración medida, se utiliza la\necuación 2:\n                                                                  3         3\n                                 Ec (2): Ei (kg/GJ) = Cd (kg/ m ) Fd (m /GJ)\n   donde:    Ei es la emisión en kg/GJ del contaminante i.\n             Cd es la concentración medida del contaminante en condiciones de referencia y base seca, en\n                 3\n             kg/m .\n             Fd es el volumen de productos de la combustión por unidad de energía en el combustible, m3/GJ\n             en condiciones de referencia y base seca (Tabla 5).\n     Si se conoce el consumo de combustible en kg/h, es posible calcular el flujo de gases de chimenea\nutilizando la ecuación 3:\n                                                        3\n                                            Ec (3): Ф (m /h) = q H Fd\n   donde:    Ф es el flujo de gases de combustión en m3/h, en condiciones de referencia.\n             q es el consumo de combustible (kg/h).\n             H es el poder calorífico del combustible (GJ/kg) y\n             Fd se obtiene de la Tabla 5.",
+    "start_char": 24977,
+    "end_char": 26921
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "6.5",
+    "label": "6.5 En el caso de análisis instrumentales 6c, 7e y 10 de la USEPA, en que una muestra se extrae de la",
+    "text": "6.5 En el caso de análisis instrumentales 6c, 7e y 10 de la USEPA, en que una muestra se extrae de la\nchimenea y se pasa por un analizador, se deberá muestrear y tomar lecturas durante al menos una hora con\nel fin de obtener valores promedio representativos, con el equipo de combustión en condiciones normales de\noperación. Para obtener los promedios se deben tomar lecturas a intervalos iguales durante el tiempo que\ndure la corrida, con un mínimo de 60 lecturas.",
+    "start_char": 26927,
+    "end_char": 27392
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:6-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "6.6",
+    "label": "6.6 En equipos menores a 1 000 GJ/h las emisiones de SO2 se pueden determinar mediante análisis en",
+    "text": "6.6 En equipos menores a 1 000 GJ/h las emisiones de SO2 se pueden determinar mediante análisis en\nchimenea o a través de factores de emisión o balance de masas.\n   Para estimar la emisión total de SO2, considerando que son directamente proporcionales a la cantidad de\ncombustible que se consume y al contenido de azufre en él, de acuerdo a la ecuación 4:\n\f       (Primera Sección)                       DIARIO OFICIAL                   Jueves 2 de febrero de 2012",
+    "start_char": 27396,
+    "end_char": 27860
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:6-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "6.7",
+    "label": "6.7 Los SMCE para determinación de SO2 y de opacidad en equipos nuevos mayores de 1000 GJ/h deben",
+    "text": "6.7 Los SMCE para determinación de SO2 y de opacidad en equipos nuevos mayores de 1000 GJ/h deben\npoder realizar mediciones, calcular y almacenar promedios de lecturas en tiempos preestablecidos, por\nejemplo cada hora. Durante el tiempo de operación del equipo de combustión, se debe contar con al menos\nun 75% de datos validados. La operación de los SMCE debe apegarse a las prácticas de calidad previstas en\nsu manual de operación y calibración.",
+    "start_char": 27865,
+    "end_char": 28312
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:6-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "6.8",
+    "label": "6.8 Los valores máximos establecidos en las Tablas 1 y 2 de la presente Norma Oficial Mexicana podrán",
+    "text": "6.8 Los valores máximos establecidos en las Tablas 1 y 2 de la presente Norma Oficial Mexicana podrán\nser rebasados en eventos como los que se mencionan a continuación:\n\n       operaciones de arranque de los equipos de combustión.\n\n       operaciones de soplado que requieren ciertos equipos, de acuerdo a especificaciones del fabricante.\n\n       desajuste o malfuncionamiento de los quemadores.\n\n       paro, malfuncionamiento o mantenimiento de equipo de control de emisiones, en su caso.\n\n    Dichos eventos deben ser registrados en la bitácora, así como su duración; la duración total no podrá ser\nmayor a la cantidad de horas equivalentes a 36 días naturales de operación de los equipos, en un año\ncalendario.",
+    "start_char": 28318,
+    "end_char": 29036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:6-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "6.9",
+    "label": "6.9 Cuando un equipo de combustión utilice simultáneamente varios combustibles, su emisión debe",
+    "text": "6.9 Cuando un equipo de combustión utilice simultáneamente varios combustibles, su emisión debe\ncompararse con la del combustible que tenga el valor más elevado de nivel máximo permisible de emisión de\nentre los diversos tipos de combustibles utilizados, como se indica en la Tabla 7:\n\n                                                   Tabla 7\n\n                              Combustibles utilizados        NMPE*\n                                                             correspondiente\n\n                              Gas/líquido                    Líquido\n\n                              Gas/sólido                     Sólido\n\n                              Líquido/sólido                 Líquido\n\n                              Gas/líquido/sólido             Líquido\n\n                                   * Nivel Máximo Permisible de Emisión",
+    "start_char": 29042,
+    "end_char": 29883
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:6-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "6.10",
+    "label": "6.10 Cuando en una fuente fija se tengan dos o más equipos de combustión se podrán sujetar a los",
+    "text": "6.10 Cuando en una fuente fija se tengan dos o más equipos de combustión se podrán sujetar a los\nniveles máximos permisibles de las Tablas 1 ó 2, según aplique, o ponderar la emisión de los contaminantes\ncon base en la medición de su concentración en los gases de combustión y el flujo de éstos en cada uno de\nlos equipos. Para ello se aplica la ecuación (5) para cada contaminante (partículas, SO2, NOX y CO):\n\n\n\n\n   El resultado de la concentración ponderada de las emisiones de la fuente fija se compara con el nivel\nmáximo permisible de emisión ponderado, que se obtiene como se indica en el numeral 6.11 y cuando sea\nmenor o igual, se comprueba que la fuente fija cumple con lo establecido en esta NOM.\n\f   Jueves 2 de febrero de 2012                 DIARIO OFICIAL                             (Primera Sección)\n\n    Cuando en una fuente fija se tengan dos o más equipos de combustión independientes que descargan\nsobre un mismo conducto, se deberán realizar mediciones individuales de ser factible, o en su defecto realizar\nun muestreo común y adicionar las capacidades térmicas comparándolos con los límites resultantes de la\nsuma de capacidades; si los equipos utilizan varios combustibles de manera simultánea se estará a lo\ndispuesto por el numeral 6.9 de la NOM.\n\n   En caso de ampliaciones a plantas existentes, todos los equipos nuevos tendrán que cumplir los niveles\nmáximos permisibles de emisión correspondientes a equipos nuevos (Tabla 2), antes de ponderar las\nemisiones.",
+    "start_char": 29889,
+    "end_char": 31378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:6-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "6.11",
+    "label": "6.11 El nivel máximo de emisión ponderado se obtiene aplicando la ecuación (6), que considera los niveles",
+    "text": "6.11 El nivel máximo de emisión ponderado se obtiene aplicando la ecuación (6), que considera los niveles\nmáximos permisibles de emisión correspondientes a los equipos y al combustible utilizado en unidades de\nconcentración:\n\n\n\n\n   donde:    NMPEP es el Nivel máximo permisible de emisión ponderado por fuente fija, expresado en\n                                                  3\n             unidades de concentración ppmV o mg/m .\n             NMPEi es el nivel máximo permisible de emisión del equipo i-ésimo, que se obtiene de las\n             Tablas 1 o 2, en función de la capacidad y tipo de combustible, expresado en unidades de\n                                       3\n             concentración ppmV o mg/m .\n             Qi es la capacidad térmica del equipo de combustión i-ésimo, expresada en MJ/h. Se obtiene de\n             multiplicar el consumo de combustible por su poder calorífico,\n             i es un número consecutivo (1,2,3.....,n) que se asigna a los equipos de combustión hasta n, que\n             es el número total de equipos.",
+    "start_char": 31383,
+    "end_char": 32439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7",
+    "label": "7. Procedimiento de evaluación de la conformidad",
+    "text": "7. Procedimiento de evaluación de la conformidad",
+    "start_char": 32443,
+    "end_char": 32491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7.1",
+    "label": "7.1 Definiciones",
+    "text": "7.1 Definiciones\n   Para los efectos de este procedimiento, se aplicarán las siguientes definiciones:",
+    "start_char": 32495,
+    "end_char": 32596
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7.1.1",
+    "label": "7.1.1 Autoridad ambiental competente: La PROFEPA, los gobiernos de los estados, de los municipios y del",
+    "text": "7.1.1 Autoridad ambiental competente: La PROFEPA, los gobiernos de los estados, de los municipios y del\nDistrito Federal, de conformidad con sus respectivas atribuciones y competencias.",
+    "start_char": 32601,
+    "end_char": 32786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7.1.2",
+    "label": "7.1.2 Dictamen: Es el documento mediante el cual la PROFEPA o una Unidad de Verificación, hace",
+    "text": "7.1.2 Dictamen: Es el documento mediante el cual la PROFEPA o una Unidad de Verificación, hace\nconstar el grado de cumplimiento de una o varias NOM’s.",
+    "start_char": 32790,
+    "end_char": 32940
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7.1.3",
+    "label": "7.1.3 Evaluación de la conformidad: La determinación del grado de cumplimiento con las normas oficiales",
+    "text": "7.1.3 Evaluación de la conformidad: La determinación del grado de cumplimiento con las normas oficiales\nmexicanas o la conformidad con las normas mexicanas, las normas internacionales u otras especificaciones,\nprescripciones o características. Comprende, entre otros, los procedimientos de muestreo, prueba,\ncalibración, certificación y verificación.",
+    "start_char": 32945,
+    "end_char": 33295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7.1.4",
+    "label": "7.1.4 Unidad de Verificación (U.V.): Las personas acreditadas y aprobadas en los términos de la Ley",
+    "text": "7.1.4 Unidad de Verificación (U.V.): Las personas acreditadas y aprobadas en los términos de la Ley\nFederal sobre Metrología y Normalización para realizar actos de verificación.",
+    "start_char": 33299,
+    "end_char": 33476
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7-1-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7.1.5",
+    "label": "7.1.5 Verificación: La constatación ocular o comprobación mediante muestreo, medición, pruebas de",
+    "text": "7.1.5 Verificación: La constatación ocular o comprobación mediante muestreo, medición, pruebas de\nlaboratorio o examen de documentos que se realizan para evaluar la conformidad en un momento\ndeterminado.",
+    "start_char": 33480,
+    "end_char": 33683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7.2",
+    "label": "7.2 Procedimiento",
+    "text": "7.2 Procedimiento",
+    "start_char": 33687,
+    "end_char": 33704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7.2.1",
+    "label": "7.2.1 Este procedimiento es aplicable a la evaluación de la conformidad con esta Norma Oficial Mexicana,",
+    "text": "7.2.1 Este procedimiento es aplicable a la evaluación de la conformidad con esta Norma Oficial Mexicana,\nmediante la revisión de la bitácora, que incluya la medición y los análisis de las emisiones a la atmósfera\n(partículas, bióxido de azufre, óxidos de nitrógeno y monóxido de carbono).",
+    "start_char": 33708,
+    "end_char": 33996
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7.2.2",
+    "label": "7.2.2 Los responsables de las fuentes fijas podrán solicitar la evaluación de la conformidad con esta",
+    "text": "7.2.2 Los responsables de las fuentes fijas podrán solicitar la evaluación de la conformidad con esta\nNorma Oficial Mexicana a la PROFEPA o a las Unidades de Verificación debidamente acreditadas y\naprobadas en los términos de la Ley Federal sobre Metrología y Normalización y demás disposiciones\naplicables.\n\f       (Primera Sección)                        DIARIO OFICIAL                      Jueves 2 de febrero de 2012",
+    "start_char": 34001,
+    "end_char": 34421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7.3",
+    "label": "7.3 Aspectos técnicos a verificar",
+    "text": "7.3 Aspectos técnicos a verificar\n   La evaluación que lleve a cabo la PROFEPA o la U.V. comprenderá lo siguiente:\n  a) La evaluación documental de la bitácora a que se refiere el punto 5.2 de la presente Norma Oficial\nMexicana.\n      b) La revisión de los resultados y/o informes de los análisis de partículas, bióxido de azufre (SO2), óxidos\nde nitrógeno (NOX), monóxido de carbono (CO) y número de mancha, para verificar que se utilizaron los\nmétodos de prueba y de muestreo establecidos en la NOM o equivalentes y se llevaron a cabo por\nlaboratorios acreditados y aprobados en términos de la Ley Federal sobre Metrología y Normalización.\nRevisión de la memoria de cálculo para constatar que se cumplen los niveles máximos permisibles de emisión\nque correspondan de las Tablas 1 y 2, o con el nivel máximo permisible de emisión ponderado de la fuente\nfija.\n    c) En el caso de equipos nuevos mayores de 1 000 GJ/h, verificar que se cuenta con el sistema de\nmonitoreo continuo de emisiones (SMCE) en operación, el cual tenga un programa de validación de las\nmediciones y que éstas cumplen los niveles máximos permisibles de emisión de la Tabla 2. Verificar que en la\nbitácora estén registradas las calibraciones, reparaciones y salidas de operación del equipo de medición.\n   d) En caso de utilizar equipo de control de emisiones, se debe revisar la bitácora correspondiente para\nconstatar que el equipo de control ha operado con la eficiencia de diseño, al menos el 90% del tiempo total de\noperación del equipo de combustión en un año calendario.\n   e) Una vez realizada la verificación procederá a levantar el acta con letra legible, sin tachaduras y\nasentando con toda claridad los hechos encontrados.",
+    "start_char": 34426,
+    "end_char": 36133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7.4",
+    "label": "7.4 La PROFEPA o la U.V., elaborarán un dictamen en el que se hace constar el grado de cumplimiento",
+    "text": "7.4 La PROFEPA o la U.V., elaborarán un dictamen en el que se hace constar el grado de cumplimiento\ncon la presente norma oficial mexicana. Se entregará el original y una copia a quien haya solicitado los\nservicios.",
+    "start_char": 36137,
+    "end_char": 36352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "7.5",
+    "label": "7.5 La PROFEPA o la Autoridad ambiental competente podrá realizar visitas de verificación con el objeto",
+    "text": "7.5 La PROFEPA o la Autoridad ambiental competente podrá realizar visitas de verificación con el objeto\nde vigilar el cumplimiento de esta norma, independientemente de los procedimientos para la evaluación de la\nconformidad que hubiere establecido.",
+    "start_char": 36356,
+    "end_char": 36604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "8",
+    "label": "8. Observancia de esta norma",
+    "text": "8. Observancia de esta norma",
+    "start_char": 36608,
+    "end_char": 36636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "8.1",
+    "label": "8.1 La SECRETARIA por conducto de la PROFEPA, así como los Gobiernos del Distrito Federal, de las",
+    "text": "8.1 La SECRETARIA por conducto de la PROFEPA, así como los Gobiernos del Distrito Federal, de las\nEntidades Federativas y, en su caso, de los municipios, en el ámbito de sus respectivas competencias, son las\nautoridades encargadas de vigilar el cumplimiento de la presente Norma Oficial Mexicana.",
+    "start_char": 36640,
+    "end_char": 36936
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "8.2",
+    "label": "8.2 El incumplimiento de la presente Norma Oficial Mexicana, será sancionado conforme a lo dispuesto",
+    "text": "8.2 El incumplimiento de la presente Norma Oficial Mexicana, será sancionado conforme a lo dispuesto\npor la Ley General del Equilibrio Ecológico y la Protección al Ambiente, el Reglamento de la Ley General del\nEquilibrio Ecológico y la Protección al Ambiente en materia de Prevención y Control de la Contaminación de la\nAtmósfera y los demás ordenamientos jurídicos que conforme a derecho procedan.",
+    "start_char": 36940,
+    "end_char": 37338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "9",
+    "label": "9. Grado de concordancia con normas y lineamientos internacionales",
+    "text": "9. Grado de concordancia con normas y lineamientos internacionales\n   Esta Norma Oficial Mexicana no concuerda con ninguna norma o lineamiento internacional.",
+    "start_char": 37342,
+    "end_char": 37499
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+    "number": "10",
+    "label": "10. Bibliografía",
+    "text": "10. Bibliografía\n   NOM-008-SCFI-2002, “Sistema General de Unidades de Medida”, Publicado en el Diario Oficial de la\nFederación el 27 de noviembre de 2002.\n   NMX-Z-013/1-1977, “Guía para la redacción, estructuración y presentación de las normas mexicanas”,\npublicada en el Diario Oficial de la Federación el 31 de octubre de 1977.\n    USEPA method 7e - Determination of nitrogen oxides emissions from stationary sources (instrumental\nanalyzer procedure) (Determinación de emisiones de óxidos de nitrógeno de fuentes fijas. Método\ninstrumental http://www.epa.gov/ttn/emc/promgate/method7Er06.pdf).\n   USEPA CEMS Performance Specification 1 For Opacity (Especificaciones de funcionamiento de SMCE\npara opacidad): http://www.epa.gov/ttn/emc/specs/prompspec1.html.\n\f   Jueves 2 de febrero de 2012                 DIARIO OFICIAL                              (Primera Sección)\n\n    USEPA     Method     6c   –   SO2    -   Instrumental       (Determinación     instrumental    de    SO2):\nhttp://www.epa.gov/ttn/emc/methods/method6c.html).\n  USEPA CEMS Performance Specifications for SO2 and NOx (Especificaciones de funcionamiento de\nSMCE para SO2 y NOX): http://www.epa.gov/ttn/emc/specs/prompspec2.html.\n    USEPA Method 8.- Determination of sulfuric acid and sulfur dioxide emissions from stationary sources\n(Determinación de emisiones de ácido sulfúrico y dióxido de azufre de Fuentes fijas):\nhttp://epa.gov/ttn/emc/promgate/m-08.pdf.\n    USEPA Method 10 - Determination of carbon monoxide emissions from Stationary sources (NDIR\ninstrumental analyzer procedure) (Determinación de emisiones de CO de fuentes fijas.- Método instrumental):\nhttp://www.epa.gov/ttn/emc/promgate/method10r06.pdf.\n    USEPA Method 5 - Determination of particulate matter emissions from stationary sources (Determinación\nde la emisión de partículas provenientes de fuentes fijas): http://www.epa.gov/ttn/emc/promgate/m-05.pdf.\n   USEPA Method 030 Determination of Nitrogen Oxides, Carbon Monoxide, and Oxygen Emissions from\nNatural Gas-Fired Engines, Boilers and Processs Heaters Using Portable Analyzer (Determinación de\nemisiones de óxidos de nitrógeno, monóxido de carbono y oxígeno, de motores de gas y calentadores de\nproceso que utilizan analizador portable) http://www.epa.gov./ttn/emc/ctm/ctm-030.pdf.\n    USEPA Method 034 Test Method - Determination of Oxygen, Carbon Monoxide and Oxides of Nitrogen\nfrom Stationary Sources for periodic monitoring – portable electrochemical analyzer procedure- (Determinación\nde oxígeno, monóxido de carbono y óxidos de nitrógeno para fuentes fijas para monitoreo periódico-\nprocedimiento de analizador electroquímico portable): http://www.epa.gov./ttn/emc/ctm/ctm-034 pdf.",
+    "start_char": 37503,
+    "end_char": 40195
+  }
+]

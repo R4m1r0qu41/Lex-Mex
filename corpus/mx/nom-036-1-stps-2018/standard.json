@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-036-1-stps-2018",
+  "kind": "nom",
+  "designation": "NOM-036-1-STPS-2018",
+  "official_title": "Factores de riesgo ergonómico en el trabajo-Identificación, análisis, prevención y control. Parte 1: Manejo manual de cargas",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "factores de riesgo ergonómico",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2018-11-23",
+  "effective_date": "2020-01-02",
+  "cancellation_date": null,
+  "status": "current",
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2025-01-16",
+    "result": "Confirmación",
+    "report_url": null
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/NOM-036-1-STPS-2018.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5544579&fecha=23/11/2018",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-036-1-STPS-2018/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "2b3a3afc10c7f56b3264fdf5ff377751ad68e65293964c7ac820e6de34ab5f47",
+  "extracted_text_sha256": "548e9bf4f670390ec5466a450387e132a59a0d85367647cb1e4d71009cbd6b45",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

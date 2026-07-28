@@ -1,0 +1,707 @@
+   Martes 30 de diciembre de 2008                DIARIO OFICIAL                                (Primera Sección)
+
+
+            SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+NORMA Oficial Mexicana NOM-025-STPS-2008, Condiciones de iluminación en los centros de trabajo.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría del Trabajo y
+Previsión Social.
+    JAVIER LOZANO ALARCON, Secretario del Trabajo y Previsión Social, con fundamento en los artículos
+16 y 40 fracciones I y XI de la Ley Orgánica de la Administración Pública Federal; 512, 523 fracción I, 524 y
+527 último párrafo de la Ley Federal del Trabajo; 3o., fracción XI, 38 fracción II, 40 fracción VII, 46, 47 fracción
+IV, 51 cuarto párrafo y 52 de la Ley Federal sobre Metrología y Normalización; 28 y 34 del Reglamento de la
+Ley Federal sobre Metrología y Normalización; 4o., del 95 al 98 del Reglamento Federal de Seguridad,
+Higiene y Medio Ambiente de Trabajo; 3, 5 y 19 del Reglamento Interior de la Secretaría del Trabajo y
+Previsión Social, y
+                                                CONSIDERANDO
+   Que con fecha 27 de septiembre de 2005, en cumplimiento de lo previsto por el artículo 46 fracción I de la
+Ley Federal sobre Metrología y Normalización, la Secretaría del Trabajo y Previsión Social presentó ante el
+Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo, el Anteproyecto de
+Modificación de la presente Norma Oficial Mexicana y que el citado Comité lo consideró correcto y acordó que
+se publicara como Proyecto en el Diario Oficial de la Federación;
+   Que con objeto de cumplir con lo dispuesto en los artículos 69-E y 69-H de la Ley Federal de
+Procedimiento Administrativo, el Anteproyecto correspondiente fue sometido a la consideración de la
+Comisión Federal de Mejora Regulatoria, la que dictaminó favorablemente en relación al mismo;
+    Que con fecha 5 de junio de 2008, en cumplimiento del Acuerdo por el que se establecen la organización
+y Reglas de Operación del Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo,
+y de lo previsto por el artículo 47 fracción I de la Ley Federal sobre Metrología y Normalización, se publicó en
+el Diario Oficial de la Federación el Proyecto de Modificación de la Norma Oficial Mexicana NOM-025-STPS-
+1999, Condiciones de iluminación en los centros de trabajo, para quedar como PROY-NOM-025-STPS-2005,
+Condiciones de iluminación en los centros de trabajo, a efecto de que, dentro de los siguientes 60 días
+naturales a dicha publicación, los interesados presentaran sus comentarios al Comité;
+    Que habiendo recibido comentarios de diez promoventes, el Comité referido procedió a su estudio y
+resolvió oportunamente sobre los mismos, publicando esta dependencia las respuestas respectivas en el
+Diario Oficial de la Federación el 12 de diciembre de 2008, en cumplimiento a lo previsto por el artículo 47
+fracción III de la Ley Federal sobre Metrología y Normalización;
+    Que derivado de la incorporación de los comentarios presentados al Proyecto de Modificación de la Norma
+Oficial Mexicana NOM-025-STPS-1999, Condiciones de iluminación en los centros de trabajo, para quedar
+como PROY-NOM-025-STPS-2005, Condiciones de iluminación en los centros de trabajo, así como de la
+revisión final del propio proyecto, se realizaron diversas modificaciones con el propósito de dar claridad,
+congruencia y certeza jurídica en cuanto a las disposiciones que aplican en los centros de trabajo, y
+   Que en atención a las anteriores consideraciones y toda vez que el Comité Consultivo Nacional de
+Normalización de Seguridad y Salud en el Trabajo otorgó la aprobación respectiva, se expide la siguiente:
+     NORMA OFICIAL MEXICANA NOM-025-STPS-2008, CONDICIONES DE ILUMINACION EN LOS
+                              CENTROS DE TRABAJO
+                                                     INDICE
+   1.    Objetivo
+   2.    Campo de aplicación
+   3.    Referencias
+   4.    Definiciones
+   5.    Obligaciones del patrón
+   6.    Obligaciones de los trabajadores
+   7.    Niveles de iluminación para tareas visuales y áreas de trabajo
+   8.    Reconocimiento de las condiciones de iluminación
+   9.    Evaluación de los niveles de iluminación
+         (Primera Sección)                       DIARIO OFICIAL                Martes 30 de diciembre de 2008
+
+   10.     Control
+   11.     Mantenimiento
+   12.     Reporte del estudio
+   13.     Unidades de Verificación y Laboratorios de Prueba
+   14.     Procedimiento para la evaluación de la conformidad
+           Apéndice A, Evaluación de los niveles de iluminación
+           Apéndice B, Evaluación del factor de reflexión
+   15.     Vigilancia
+   16.     Bibliografía
+   17.     Concordancia con normas internacionales
+          Guía de referencia “I”, Métodos para evaluar los niveles de iluminación
+   1. Objetivo
+    Establecer los requerimientos de iluminación en las áreas de los centros de trabajo, para que se cuente
+con la cantidad de iluminación requerida para cada actividad visual, a fin de proveer un ambiente seguro y
+saludable en la realización de las tareas que desarrollen los trabajadores.
+   2. Campo de aplicación
+   La presente Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo.
+   3. Referencias
+    Para la correcta interpretación de esta Norma, debe consultarse la siguiente norma oficial mexicana
+vigente o la que la sustituya:
+   NOM-008-SCFI-2002, Sistema general de unidades de medida.
+   4. Definiciones
+   Para efectos de esta Norma, se establecen las definiciones siguientes:
+    4.1. Area de trabajo: es el lugar del centro de trabajo donde normalmente un trabajador desarrolla sus
+actividades.
+    4.2. Autoridad del trabajo, autoridad laboral: las unidades administrativas competentes de la Secretaría
+del Trabajo y Previsión Social, que realicen funciones de inspección en materia de seguridad e higiene en el
+trabajo y las correspondientes de las entidades federativas y del Distrito Federal, que actúen en auxilio de
+aquéllas.
+    4.3. Brillo: es la intensidad luminosa que una superficie proyecta en una dirección dada, por unidad de
+área. Se recomienda que la relación de brillos en áreas industriales no sea mayor de 3:1 en el puesto de
+trabajo y en cualquier parte del campo visual no mayor de 10:1.
+   4.4. Centro de trabajo: todos aquellos lugares tales como edificios, locales, instalaciones y áreas, en los
+que se realicen actividades de producción, comercialización, transporte y almacenamiento o prestación de
+servicios, o en el que laboren personas que estén sujetas a una relación de trabajo.
+   4.5. Condición crítica de iluminación: deficiencia de iluminación en el sitio de trabajo o niveles muy altos
+que bien pueden requerir un esfuerzo visual adicional del trabajador o provocarle deslumbramiento.
+    4.6. Deslumbramiento: es cualquier brillo que produce molestia y que provoca interferencia a la visión o
+fatiga visual.
+    4.7. Iluminación complementaria: es aquella proporcionada por un alumbrado adicional al considerado
+en la iluminación general, para aumentar el nivel de iluminación en un área determinada o plano de trabajo.
+    4.8. Iluminación especial: es la cantidad de luz específica requerida para la actividad que conforme a la
+naturaleza de la misma tenga una exigencia visual elevada mayor de 1000 luxes o menor de 100 luxes, para
+la velocidad de funcionamiento del ojo (tamaño, distancia y colores de la tarea visual) y la exactitud con que
+se lleva a cabo la actividad.
+   4.9. Iluminación; iluminancia: es la relación de flujo luminoso incidente en una superficie por unidad de
+área, expresada en luxes.
+     Martes 30 de diciembre de 2008              DIARIO OFICIAL                                (Primera Sección)
+
+   4.10. Iluminación localizada: es aquella proporcionada por un alumbrado diseñado sólo para
+proporcionar iluminación en un plano de trabajo.
+    4.11. Luminaria; luminario: equipo de iluminación que distribuye, filtra o controla la luz emitida por una
+lámpara o lámparas, que incluye todos los accesorios necesarios para fijar, proteger y operar esas lámparas,
+y los necesarios para conectarse al circuito de utilización eléctrica.
+    4.12. Luxómetro; Medidor de iluminancia: es un instrumento diseñado y utilizado para medir niveles de
+iluminación o iluminancia, en luxes.
+   4.13. Nivel de iluminación: cantidad de flujo luminoso por unidad de área medido en un plano de trabajo
+donde se desarrollan actividades, expresada en luxes.
+    4.14. Plano de trabajo: es la superficie horizontal, vertical u oblicua, en la cual generalmente los
+trabajadores desarrollan su trabajo, con niveles de iluminación específicos.
+   4.15. Puntos focales de las luminarias: es la proyección vertical de la lámpara al plano o área de trabajo
+con inclinación de 0º, que contiene la dirección del haz de luz.
+   4.16. Reflexión: es la luz que incide en un cuerpo y es proyectada o reflejada por su superficie con el
+mismo ángulo con el que incidió.
+    4.14. Sistema de iluminación: es el conjunto de luminarias de un área o plano de trabajo, distribuidas de
+tal manera que proporcionen un nivel de iluminación específico para la realización de las actividades.
+     4.15. Tarea visual: actividad que se desarrolla con determinadas condiciones de iluminación.
+     5. Obligaciones del patrón
+    5.1. Mostrar a la autoridad del trabajo, cuando así lo solicite, los documentos que la presente Norma le
+obligue a elaborar o poseer.
+    5.2. Contar con los niveles de iluminación en las áreas de trabajo o en las tareas visuales de acuerdo con
+la Tabla 1 del Capítulo 7.
+    5.3. Efectuar el reconocimiento de las condiciones de iluminación de las áreas y puestos de trabajo, según
+lo establecido en el Capítulo 8.
+    5.4. Contar con el informe de resultados de la evaluación de los niveles de iluminación de las áreas,
+actividades o puestos de trabajo que cumpla con en los apartados 5.2 y 10.4 de la presente Norma, y
+conservarlo mientras se mantengan las condiciones que dieron origen a ese resultado.
+     5.5. Realizar la evaluación de los niveles de iluminación de acuerdo con lo establecido en los capítulos 8 y
+9.
+     5.6. Llevar a cabo el control de los niveles de iluminación, según lo establecido en el Capítulo 10.
+   5.7. Contar con un reporte del estudio elaborado para las condiciones de iluminación del centro de trabajo,
+según lo establecido en el Capítulo 12.
+    5.8. Informar a todos los trabajadores, sobre los riesgos que puede provocar un deslumbramiento o un
+nivel deficiente de iluminación en sus áreas o puestos de trabajo.
+    5.9. Practicar exámenes con periodicidad anual de agudeza visual, campimetría y de percepción de
+colores a los trabajadores que desarrollen sus actividades en áreas del centro de trabajo que cuenten con
+iluminación especial.
+    5.10. Elaborar y ejecutar un programa de mantenimiento para las luminarias del centro de trabajo,
+incluyendo los sistemas de iluminación de emergencia, según lo establecido en el Capítulo 11.
+   5.11. Instalar sistemas de iluminación eléctrica de emergencia, en aquellas áreas del centro de trabajo
+donde la interrupción de la fuente de luz artificial represente un riesgo en la tarea visual del puesto de trabajo,
+o en las áreas consideradas como ruta de evacuación que lo requieran.
+     6. Obligaciones de los trabajadores
+   6.1. Informar al patrón sobre las condiciones inseguras, derivadas de las condiciones de iluminación en su
+área o puesto de trabajo.
+     6.2. Utilizar los sistemas de iluminación de acuerdo a las instrucciones del patrón.
+   6.3. Colaborar en las evaluaciones de los niveles de las áreas o puestos de trabajo y observar las medidas
+de control implementadas por el patrón.
+     6.4. Someterse a los exámenes de la vista que indique el patrón.
+       (Primera Sección)                         DIARIO OFICIAL                    Martes 30 de diciembre de 2008
+
+   7. Niveles de Iluminación para tareas visuales y áreas de trabajo
+    Los niveles mínimos de iluminación que deben incidir en el plano de trabajo, para cada tipo de tarea visual
+o área de trabajo, son los establecidos en la Tabla 1.
+                                                     Tabla 1
+                                              Niveles de Iluminación
+  Tarea Visual del Puesto de Trabajo                    Area de Trabajo                     Niveles Mínimos de
+                                                                                            Iluminación (luxes)
+ En exteriores: distinguir el área de Exteriores     generales:           patios       y             20
+ tránsito,    desplazarse   caminando, estacionamientos.
+ vigilancia, movimiento de vehículos.
+ En interiores: distinguir el área de Interiores generales: almacenes de poco                        50
+ tránsito,    desplazarse   caminando, movimiento,      pasillos,    escaleras,
+ vigilancia, movimiento de vehículos.  estacionamientos cubiertos, labores en
+                                       minas subterráneas, iluminación de
+                                       emergencia.
+ En interiores.                           Areas de circulación y pasillos; salas de                 100
+                                          espera; salas de descanso; cuartos de
+                                          almacén;    plataformas;    cuartos    de
+                                          calderas.
+ Requerimiento        visual    simple: Servicios al personal: almacenaje rudo,                     200
+ inspección visual, recuento de piezas, recepción y despacho, casetas de
+ trabajo en banco y máquina.            vigilancia, cuartos de compresores y
+                                        pailería.
+ Distinción moderada de detalles: Talleres: áreas de empaque y ensamble,                            300
+ ensamble simple, trabajo medio en aulas y oficinas.
+ banco y máquina, inspección simple,
+ empaque y trabajos de oficina.
+ Distinción   clara    de     detalles: Talleres de precisión: salas de cómputo,                    500
+ maquinado y acabados delicados, áreas de dibujo, laboratorios.
+ ensamble         de       inspección
+ moderadamente difícil, captura y
+ procesamiento de información, manejo
+ de instrumentos y equipo de
+ laboratorio.
+ Distinción fina de detalles: maquinado Talleres de alta precisión: de pintura y                    750
+ de precisión, ensamble e inspección acabado de superficies y laboratorios de
+ de trabajos delicados, manejo de control de calidad.
+ instrumentos y equipo de precisión,
+ manejo de piezas pequeñas.
+ Alta exactitud en la distinción de Proceso: ensamble e inspección de                              1,000
+ detalles:   ensamble,   proceso      e piezas complejas y acabados con pulidos
+ inspección de piezas pequeñas y finos.
+ complejas, acabado con pulidos finos.
+ Alto grado de especialización en la Proceso de gran exactitud.                                    2,000
+ distinción de detalles.
+                                     Ejecución de tareas visuales:
+                                          •      de bajo contraste y tamaño muy
+                                                 pequeño por periodos prolongados;
+                                          •      exactas y muy prolongadas, y
+                                          •      muy especiales de extremadamente
+                                                 bajo contraste y pequeño tamaño.
+   Martes 30 de diciembre de 2008                DIARIO OFICIAL                                (Primera Sección)
+
+   8. Reconocimiento de las condiciones de iluminación
+   8.1. El propósito del reconocimiento es identificar aquellas áreas del centro de trabajo y las tareas visuales
+asociadas a los puestos de trabajo, asimismo, identificar aquéllas donde exista una iluminación deficiente o
+exceso de iluminación que provoque deslumbramiento.
+    Para lo anterior, se debe realizar un recorrido por todas las áreas del centro de trabajo donde los
+trabajadores realizan sus tareas visuales, y considerar, en su caso, los reportes de los trabajadores, así como
+recabar la información técnica.
+    8.2. Para determinar las áreas y tareas visuales de los puestos de trabajo debe recabarse y registrarse la
+información del reconocimiento de las condiciones de iluminación de las áreas de trabajo, así como de las
+áreas donde exista una iluminación deficiente o se presente deslumbramiento y, posteriormente, conforme se
+modifiquen las características de las luminarias o las condiciones de iluminación del área de trabajo, con los
+datos siguientes:
+   a)    Distribución de las áreas de trabajo, del sistema de iluminación (número y distribución de luminarias),
+         de la maquinaria y del equipo de trabajo;
+   b)    Potencia de las lámparas;
+   c)    Descripción del área iluminada: colores y tipo de superficies del local o edificio;
+   d)    Descripción de las tareas visuales y de las áreas de trabajo, de acuerdo con la Tabla 1 del Capítulo 7;
+   e)    Descripción de los puestos de trabajo que requieren iluminación localizada, y
+   f)    La información sobre la percepción de las condiciones de iluminación por parte del trabajador al
+         patrón.
+   9. Evaluación de los niveles de iluminación
+    9.1. A partir de los registros del reconocimiento, se debe realizar la evaluación de los niveles de
+iluminación en las áreas o puestos de trabajo de acuerdo con lo establecido en el Apéndice A.
+   9.1.1. Determinar el factor de reflexión en el plano de trabajo y paredes que por su cercanía al trabajador
+afecten las condiciones de iluminación, según lo establecido en el Apéndice B, y compararlo contra los niveles
+máximos permisibles del factor de reflexión de la Tabla 2.
+                                                     Tabla 2
+                           Niveles Máximos Permisibles del Factor de Reflexión
+                    Concepto                    Niveles Máximos Permisibles de Reflexión, Kf
+           Paredes                      60%
+           Plano de trabajo             50%
+          Nota: Se considera que existe deslumbramiento en el área y puesto de trabajo, cuando el valor de
+          la reflexión (Kf) supere los valores establecidos en la Tabla 2.
+   9.1.2. La evaluación de los niveles de iluminación debe realizarse en una jornada laboral bajo condiciones
+normales de operación, se puede hacer por áreas de trabajo, puestos de trabajo o una combinación de los
+mismos.
+   10. Control
+    10.1. Si en el resultado de la evaluación de los niveles de iluminación se detectaron áreas o puestos de
+trabajo que deslumbren al trabajador, se deben aplicar medidas de control para evitar que el deslumbramiento
+lo afecte.
+    10.2. Si en el resultado de la medición se observa que los niveles de iluminación en las áreas de trabajo o
+las tareas visuales están por debajo de los niveles indicados en la Tabla 1 del Capítulo 7 o que los factores de
+reflexión estén por encima de lo establecido en la Tabla 2 del Capítulo 9, se deben adoptar las medidas de
+control necesarias, entre otras, dar mantenimiento a las luminarias, modificar el sistema de iluminación o su
+distribución y/o instalar iluminación complementaria o localizada. Para esta última medida de control, en
+donde se requiera una mayor iluminación, se deben considerar los siguientes aspectos:
+   a)    Evitar el deslumbramiento directo o por reflexión al trabajador;
+   b)    Seleccionar un fondo visual adecuado a las actividades de los trabajadores;
+   c)    Evitar bloquear la iluminación durante la realización de la actividad, y
+   d)    Evitar las zonas donde existan cambios bruscos de iluminación.
+    10.3. Se debe elaborar y cumplir un programa de medidas de control a desarrollar, considerando al menos
+las previstas en 10.2.
+    10.4. Una vez que se han realizado las medidas de control, se tiene que realizar una evaluación para
+verificar que las nuevas condiciones de iluminación cumplen con lo establecido en la presente Norma.
+        (Primera Sección)                        DIARIO OFICIAL                   Martes 30 de diciembre de 2008
+
+   11. Mantenimiento
+   En el mantenimiento de las luminarias se deberá tomar en cuenta lo siguiente:
+   a)     La limpieza de las luminarias;
+   b)     La ventilación de las luminarias;
+   c)     El reemplazo de las luminarias cuando dejen de funcionar, o después de transcurrido el número
+          predeterminado de horas de funcionamiento establecido por el fabricante;
+   d)     Los elementos que eviten el deslumbramiento directo y por reflexión, así como el efecto
+          estroboscópico, y
+   e)     Los elementos de preencendido o de calentamiento.
+   12. Reporte del estudio
+    12.1. Se debe elaborar y mantener un reporte que contenga la información recabada en el reconocimiento,
+los documentos que lo complementen y los datos obtenidos durante la evaluación, con al menos la
+información siguiente:
+   a)     El informe descriptivo de las condiciones normales de operación, en las cuales se realizó la
+          evaluación de los niveles de iluminación, incluyendo las descripciones del proceso, instalaciones,
+          puestos de trabajo y el número de trabajadores expuestos por área y puesto de trabajo;
+   b)     La distribución del área evaluada, en el que se indique la ubicación de los puntos de medición;
+   c)     Los resultados de la evaluación de los niveles de iluminación indicando su incertidumbre;
+   d)     La comparación e interpretación de los resultados obtenidos, contra lo establecido en las Tablas 1 y
+          2 de los Capítulos 7 y 9, respectivamente;
+   e)     La hora en que se efectuaron las mediciones;
+   f)     El programa de mantenimiento;
+   g)     La copia del documento que avale la calibración del luxómetro expedida por un laboratorio acreditado
+          y aprobado conforme a lo establecido en la Ley Federal sobre Metrología y Normalización, y que
+          cumpla con las disposiciones estipuladas en esta Norma;
+   h)     La conclusión técnica del estudio;
+   i)     Las medidas de control a desarrollar y el programa de implantación;
+   j)     Nombre y firma del responsable del estudio, y
+   k)     Los resultados de las evaluaciones hasta cumplir con lo establecido en las Tablas 1 y 2 de los
+          Capítulos 7 y 9, respectivamente.
+   13. Unidades de Verificación y Laboratorios de Prueba
+   13.1. El patrón tendrá la opción de contratar una unidad de verificación o un laboratorio de pruebas,
+acreditados y aprobados, en los términos de la Ley Federal sobre Metrología y Normalización y su
+Reglamento, para verificar el grado de cumplimiento con la presente Norma.
+   13.2. Unidades de verificación y laboratorios de pruebas contratados a petición de parte deben verificar el
+grado de cumplimiento de acuerdo con lo establecido en el procedimiento para la evaluación de la
+conformidad.
+    13.3. La vigencia del dictamen de verificación cuando éste sea favorable, será de dos años, y el informe
+de resultados será válido y se conservará siempre y cuando, se mantengan las condiciones que dieron origen
+al resultado de la evaluación.
+   13.4. Los laboratorios de pruebas sólo podrán evaluar lo establecido en los Capítulos 8 y 9 de la presente
+Norma.
+   13.5. Las unidades de verificación deben entregar al patrón el dictamen de verificación favorable cuando
+se hayan cubierto los requerimientos de la presente Norma Oficial Mexicana.
+   14. Procedimiento para la evaluación de la conformidad
+   14.1. Generalidades.
+   14.2. Este procedimiento para la evaluación de la conformidad aplica en las visitas de inspección
+desarrolladas por la autoridad laboral, y en las visitas de verificación que realicen las unidades de verificación.
+    14.3. Para obtener el directorio vigente de las unidades de verificación que están aprobadas ante la
+dependencia y pueden extender el dictamen de conformidad con esta Norma Oficial Mexicana, podrán
+ingresar a la página de la Secretaría del Trabajo y Previsión Social, vía Internet en la dirección: www.stps.gob.mx.
+    14.1.1. El interesado que obtuvo la evaluación de la conformidad con la presente Norma a través de una
+unidad de verificación, debe conservar el dictamen de verificación y tenerlo a la disposición de la autoridad del
+trabajo cuando ésta lo solicite de acuerdo a lo establecido en el apartado 13.5.
+   Martes 30 de diciembre de 2008                   DIARIO OFICIAL                                       (Primera Sección)
+
+   14.1.2. Los aspectos a verificar durante la evaluación de la conformidad que son aplicables mediante la
+constatación física o documental, o a través de entrevista, son:
+  Disposición    Comprobación                Criterios de aceptación                            Observaciones
+      5.2.           Física         El patrón cumple cuando derivado de un La evidencia es la evaluación de la
+                                    recorrido por el centro de trabajo, se iluminación de las tareas visuales del
+                                    comprueba que para las tareas por puesto de trabajo o áreas de trabajo
+                                    puesto o área de trabajo, los niveles de comparadas con la Tabla 1 del Capítulo
+                                    iluminación corresponden a los de la 7.
+                                    Tabla 1 del Capítulo 7.
+      5.3.        Documental        El patrón cumple cuando:                        El reconocimiento aplica para aquellas
+                                      •    Presenta el        registro de       la áreas o tareas visuales que de acuerdo a
+                                           información recopilada en el la Tabla 1 del Capítulo 7.
+                                           reconocimiento de las áreas y El requerimiento podrá ser realizado por
+                                           puestos de trabajo.                      un laboratorio de pruebas acreditado y
+                                      •    El registro contiene al menos la aprobado.
+                                           siguiente información técnica y
+                                           administrativa que haya servido al
+                                           patrón para seleccionar las áreas y
+                                           puestos de trabajo evaluadas:
+                                           9 Distribución de las áreas de
+                                                trabajo,    del    sistema     de
+                                                iluminación       (número         y
+                                                distribución de luminarias), así
+                                                como de la maquinaria y
+                                                equipo;
+                                           9 Potencia de las lámparas;
+                                           9 Descripción           del       área
+                                                iluminada: colores y tipo de
+                                                superficies del local o edificio;
+                                           9 Descripción de las tareas
+                                                visuales y de las áreas de
+                                                trabajo de acuerdo con la
+                                                Tabla 1 del Capítulo 7, y
+                                           9 Descripción de los puestos de
+                                                trabajo       que       requieren
+                                                iluminación localizada.
+   5.4. y 5.5.    Documental        El patrón cumple cuando:
+                                      •    Presenta las evidencias de la La evaluación aplica para aquellas áreas
+                                           evaluación de los niveles de o tareas visuales que de acuerdo a la
+                                           iluminación de las áreas y puestos Tabla 1 del Capítulo 7.
+                                           de trabajo, y                            El documento que se puede presentar es
+                                      •    La evaluación se realizó de el mismo que se genera al cumplir el
+                                           acuerdo a los Capítulos 8 y 9, así Capítulo 12 (reporte del estudio).
+                                           como con el apartado 10.4
+      5.6.        Documental        El patrón cumple cuando:                        Los aspectos a considerar para las
+                                      •    Si derivado de la evaluación no se medidas de control, pueden ser:
+                                           identificaron deficiencias o excesos 9 Evitar el deslumbramiento directo o
+                                           de iluminación en las áreas o                 por reflexión al trabajador;
+                                           puestos de trabajo, por lo que no se 9 Seleccionar             un     fondo    visual
+                                           aplicaron medidas de control.                 adecuado a las actividades de los
+                                      •    Si derivado de la evaluación se               trabajadores;
+                                           identificaron deficiencias o excesos 9 Evitar bloquear la iluminación
+                                           de iluminación en las áreas o                 durante la realización de la actividad,
+                                           puestos de trabajo, se aplicaron las          y
+                                           siguientes medidas de control:           9 Evitar las zonas donde existan
+                                           9 Proporcionó mantenimiento a                 cambios bruscos de iluminación.
+                                                las luminarias;                     9 Los dos últimos criterios de
+                                           9 Modificó        el    sistema     de        aceptación sólo aplicarán cuando el
+                                                iluminación o su distribución;           patrón determine que requiere de
+                                           9 En su caso, instaló la                      iluminación      complementaria       o
+                                                iluminación complementaria o             localizadas
+                                                localizada, y
+                                           9 Derivado del criterio anterior
+                                                presenta evidencias de una
+                                                nueva evaluación donde se
+                                                constata que las nuevas
+                                                condiciones de iluminación
+                                                cumplen con lo establecido en
+                                                la presente Norma.
+(Primera Sección)                       DIARIO OFICIAL                   Martes 30 de diciembre de 2008
+
+5.7.        Documental    El patrón cumple cuando presenta el El estudio podrá ser realizado por un
+                          reporte del estudio, con al menos:           laboratorio de pruebas acreditado y
+                           •    El informe descriptivo de las aprobado.
+                                condiciones        normales         de
+                                operación, en las cuales se realizó
+                                la evaluación de los niveles de
+                                iluminación,      incluyendo       las
+                                descripciones       del       proceso,
+                                instalaciones, puestos de trabajo y
+                                el     número     de     trabajadores
+                                expuestos por área y puesto de
+                                trabajo;
+                           •    La distribución del área evaluada,
+                                en el que se indique la ubicación de
+                                los puntos de medición;
+                           •    Los resultados de la evaluación de
+                                los niveles de iluminación indicando
+                                su incertidumbre;
+                           •    La comparación e interpretación de
+                                los resultados obtenidos, contra lo
+                                establecido en las Tablas 1 y 2 de
+                                los      Capítulos      7      y     9
+                                respectivamente;
+                           •    La hora en que se efectuaron las
+                                mediciones;
+                           •    El programa de mantenimiento;
+                           •    La copia del documento que avale
+                                la    calibración    del    luxómetro
+                                expedida      por   un     laboratorio
+                                acreditado y aprobado conforme a
+                                la Ley Federal sobre Metrología y
+                                Normalización, y que cumpla con
+                                las disposiciones estipuladas en
+                                esta Norma;
+                           •    La conclusión técnica del estudio;
+                           •    Las medidas de control a
+                                desarrollar y el programa de
+                                implantación;
+                           •    El nombre y firma del responsable
+                                del estudio;
+                           •    Los resultados de las evaluaciones
+                                hasta cumplir con lo establecido en
+                                las Tablas 1 y 2 de los Capítulos 7
+                                y 9, respectivamente.
+5.8.       Documental o    El patrón cumple cuando:                   La iluminación permite un desarrollo
+            Entrevista    •    Exhibe las evidencias con los eficiente y confortable en las tareas
+                               elementos y/o mecanismos de visuales es un auxilio para el trabajo
+                               difusión para dar a conocer los seguro y apoya en las acciones de
+                               riesgos a los trabajadores de las emergencia (evacuación).
+                               áreas o puestos de trabajo con
+                               iluminación deficiente, excesiva o que
+                               provoque deslumbramiento, o
+                          •    Al realizar la(s) entrevista(s) al
+                               personal del centro de trabajo
+                               involucrado en las áreas o puestos
+                               de trabajo, se constata que
+                               identifican los riesgos relacionados
+                               con iluminación deficiente, excesiva o
+                               que provoque deslumbramiento.
+5.9.        Documental    El patrón cumple cuando presenta los Esta disposición aplica para los casos en
+                          exámenes médicos visuales realizados a que los trabajadores desarrollen sus
+                          los trabajadores para agudeza visual, actividades en zonas identificadas como
+                          campimetría y de percepción de colores, de alto riesgo, cuyas actividades tengan
+                          con una periodicidad anual.             una exigencia visual elevada.
+                                                                  El médico puede ser interno o externo
+                                                                  como lo establece la NOM-030-STPS-
+                                                                  2006.
+   Martes 30 de diciembre de 2008                  DIARIO OFICIAL                                 (Primera Sección)
+
+        5.10.        Documental     El patrón cumple cuando presenta un
+                                    programa     de    mantenimiento que
+                                    contenga al menos:
+                                    9   La limpieza de las luminarias;
+                                    9   La ventilación de las luminarias;
+                                    9   El reemplazo de las luminarias
+                                        cuando dejen de funcionar, o
+                                        después de transcurrido el número
+                                        predeterminado   de    horas   de
+                                        funcionamiento establecido por el
+                                        fabricante;
+                                    9   Los elementos que eviten el
+                                        deslumbramiento directo y por
+                                        reflexión, así como el efecto
+                                        estroboscópico, y
+                                    9   Los elementos de preencendido o de
+                                        calentamiento.
+        5.11.          Física       El patrón cumple cuando, derivado de un Las lámparas de emergencia pueden
+                                    recorrido por las instalaciones del centro estar colocadas en donde la interrupción
+                                    de trabajo, identifica que existen los de la fuente de luz artificial represente un
+                                    sistemas de iluminación de emergencia y riesgo en la tarea visual del puesto de
+                                    éstos están funcionando.                   trabajo o en las áreas consideradas como
+                                                                               ruta de evacuación.
+    Nota: Las evidencias documentales se pueden presentar por escrito o, en medios magnéticos o
+electrónicos.
+   14.1.3. Las unidades de verificación no deben realizar las siguientes actividades para la empresa evaluada:
+   a)      Diagnóstico, análisis de riesgos, programas o procedimientos, y
+   b)      Proporcionar capacitación a los trabajadores.
+                                                    APENDICE A
+                                EVALUACION DE LOS NIVELES DE ILUMINACION
+   A.1. Objetivo
+   Evaluar los niveles de iluminación en las áreas y puestos de trabajo seleccionados.
+   A.2. Metodología
+   De acuerdo con la información obtenida durante el reconocimiento, se establecerá la ubicación de los
+puntos de medición de las áreas de trabajo seleccionadas, donde se evaluarán los niveles de iluminación.
+    A.2.1. Cuando se utilice iluminación artificial, antes de realizar las mediciones, se debe de cumplir con lo
+siguiente:
+   a)      Encender las lámparas con antelación, permitiendo que el flujo de luz se estabilice; si se utilizan
+           lámparas de descarga, incluyendo lámparas fluorescentes, se debe esperar un periodo de 20
+           minutos antes de iniciar las lecturas. Cuando las lámparas fluorescentes se encuentren montadas en
+           luminarias cerradas, el periodo de estabilización puede ser mayor;
+   b)      En instalaciones nuevas con lámparas de descarga o fluorescentes, se debe esperar un periodo de
+           100 horas de operación antes de realizar la medición, y
+   c)      Los sistemas de ventilación deben operar normalmente, debido a que la iluminación de las lámparas
+           de descarga y fluorescentes presentan fluctuaciones por los cambios de temperatura.
+   A.2.2. Cuando se utilice exclusivamente iluminación natural, se debe realizar al menos las mediciones en
+cada área o puesto de trabajo de acuerdo con lo siguiente:
+   a)      Cuando no influye la luz natural en la instalación ni el régimen de trabajo de la instalación, se deberá
+           efectuar una medición en horario indistinto en cada puesto o zona determinada, independientemente
+           de los horarios de trabajo en el sitio;
+        (Primera Sección)                        DIARIO OFICIAL                 Martes 30 de diciembre de 2008
+
+   b)     Cuando sí influye la luz natural en la instalación, el turno en horario diurno (sin periodo de oscuridad
+          en el turno o turnos) y turnos en horario diurno y nocturnos (con periodo de oscuridad en el turno o
+          turnos), deberán efectuarse 3 mediciones en cada punto o zona determinada distribuidas en un turno
+          de trabajo que pueda presentar las condiciones críticas de iluminación de acuerdo a lo siguiente:
+          o   Una lectura tomada aproximadamente en la primera hora del turno;
+          o   Una lectura tomada aproximadamente a la mitad del turno, y
+          o   Una lectura tomada aproximadamente en la última hora del turno.
+   c)     Cuando sí influye la luz natural en la instalación y se presentan condiciones críticas, efectuar una
+          medición en cada punto o zona determinada en el horario que presente tales condiciones críticas de
+          iluminación.
+   A.2.3. Ubicación de los puntos de medición.
+    Los puntos de medición deben seleccionarse en función de las necesidades y características de cada
+centro de trabajo, de tal manera que describan el entorno ambiental de la iluminación de una forma confiable,
+considerando: el proceso de producción, la clasificación de las áreas y puestos de trabajo, el nivel de
+iluminación requerido en base a la Tabla 1 del Capítulo 7, la ubicación de las luminarias respecto a los planos
+de trabajo, el cálculo del índice de áreas correspondiente a cada una de las áreas, la posición de la
+maquinaria y equipo, así como los riesgos informados a los trabajadores.
+    A.2.3.1. Las áreas de trabajo se deben dividir en zonas del mismo tamaño, de acuerdo a lo establecido en
+la columna A (número mínimo de zonas a evaluar) de la Tabla A1, y realizar la medición en el lugar donde
+haya mayor concentración de trabajadores o en el centro geométrico de cada una de estas zonas; en caso de
+que los puntos de medición coincidan con los puntos focales de las luminarias, se debe considerar el número
+de zonas de evaluación de acuerdo a lo establecido en la columna B (número mínimo de zonas a considerar
+por la limitación) de la Tabla A1. En caso de coincidir nuevamente el centro geométrico de cada zona de
+evaluación con la ubicación del punto focal de la luminaria, se debe mantener el número de zonas
+previamente definido.
+                                                     Tabla A1
+                     Relación entre el Indice de Area y el número de Zonas de Medición
+  Indice de área            A) Número mínimo de zonas a           B) Número de zonas a considerar por la
+                                      evaluar                                   limitación
+ IC < 1                                  4                                             6
+ 1 < IC < 2                              9                                            12
+ 2 < IC < 3                             16                                            20
+ 3 < IC                                 25                                            30
+
+
+    El valor del índice de área, para establecer el número de zonas a evaluar, está dado por la ecuación
+siguiente:
+
+
+
+
+   Donde:
+   IC     = índice del área.
+   x, y = dimensiones del área (largo y ancho), en metros.
+   h      = altura de la luminaria respecto al plano de trabajo, en metros.
+    En donde x es el valor de índice de área (IA) del lugar, redondeado al entero superior, excepto que para
+valores iguales o mayores a 3 el valor de x es 4. A partir de la ecuación se obtiene el número mínimo de
+puntos de medición.
+   En pasillos o escaleras, el plano de trabajo por evaluar debe ser un plano horizontal a 75 cm ± 10 cm,
+sobre el nivel del piso, realizando mediciones en los puntos medios entre luminarias contiguas.
+   Martes 30 de diciembre de 2008               DIARIO OFICIAL                               (Primera Sección)
+
+    A.2.4. En el puesto de trabajo se debe realizar al menos una medición en cada plano de trabajo,
+colocando el luxómetro tan cerca como sea posible del plano de trabajo y tomando precauciones para no
+proyectar sombras ni reflejar luz adicional sobre el luxómetro.
+   A.3. Instrumentación
+   A.3.1. Se debe usar un luxómetro que cuente con:
+   a)    Detector para medir iluminación;
+   b)    Corrección cosenoidal;
+   c)    Corrección de color, detector con una desviación máxima de ± 5% respecto a la respuesta espectral
+         fotópica, y
+   d)    Exactitud de ± 5% (considerando la incertidumbre por calibración).
+    A.3.2. Se debe verificar el luxómetro antes y después de iniciar una evaluación conforme lo establezca el
+fabricante y evitar bloquear la iluminación durante la realización de la evaluación.
+    A.3.3. El luxómetro deberá contar con el certificado de calibración de acuerdo a lo establecido en la Ley
+Federal sobre Metrología y Normalización. Las lecturas serán válidas mientras los resultados obtenidos en el
+luxómetro no cambien de acuerdo con los requisitos establecidos en los párrafos siguientes:
+    A.3.3.1. Debe asegurarse que se cumpla con el inciso d) de la sección A.3.1., ya que la calibración no
+implica el ajuste del instrumento y por tanto, por sí sola, no garantiza que se realicen las mediciones con la
+exactitud requerida. Debido a lo anterior se deberá verificar y registrar en el informe el error que comete el
+instrumento y aplicar el factor de corrección si es necesario, además de corregir los resultados de la medición.
+    A.3.3.2 Cuando el luxómetro tenga variaciones en la coincidencia de sus lecturas se debe someter para su
+certificación al laboratorio.
+    La forma de respaldar la veracidad del luxómetro será a través del registro de mediciones realizadas
+midiendo los niveles de iluminación que produce una lámpara incandescente, que únicamente será utilizada
+para este fin, a distancias conocidas. Las lecturas obtenidas durante la verificación deberán coincidir con las
+lecturas de referencia que deberán haber sido obtenidas al momento de que se recibió el luxómetro después
+de su certificación, una vez que se haya aplicado el factor de corrección reportado en el certificado.
+    A.3.3.3. El reporte de verificación debe contener la fecha de su realización, la intensidad de corriente a la
+que se operó la lámpara incandescente, las condiciones ambientales al momento de la verificación, las
+distancias a las cuales se midieron los niveles de iluminación y los valores de iluminancia indicados por el
+instrumento para cada distancia.
+   A.3.3.4. En caso de que el luxómetro haya sufrido una caída, se le dio uso rudo o estuvo expuesto a
+condiciones extremas de temperatura y humedad, se debe someter a una nueva verificación y elaborar el
+reporte de verificación.
+                                                 APENDICE B
+                                EVALUACION DEL FACTOR DE REFLEXION
+   B.1 Objetivo
+   Evaluar el factor de reflexión de las superficies en áreas y puestos de trabajo seleccionados.
+   B.2 Metodología
+   Los puntos de medición deben ser los mismos que se establecen en el Apéndice A.
+   B.2.1 Cálculo del factor de reflexión de las superficies:
+   a)    Se efectúa una primera medición (E1), con la fotocelda del luxómetro colocada de cara a la superficie,
+         a una distancia de 10 cm ± 2 cm, hasta que la lectura permanezca constante;
+   b)    La segunda medición (E2), se realiza con la fotocelda orientada en sentido contrario y apoyada en la
+         superficie, con el fin de medir la luz incidente, y
+        (Primera Sección)                        DIARIO OFICIAL                   Martes 30 de diciembre de 2008
+
+   c)     El factor de reflexión de la superficie (Kf) se determina con la ecuación siguiente:
+
+
+
+
+   15. Vigilancia
+   La vigilancia en el cumplimiento de la presente Norma, corresponde a la Secretaría del Trabajo y Previsión Social.
+   16. Bibliografía
+     16.1. Ley Federal sobre Metrología y Normalización, publicada en el Diario Oficial de la Federación el 1 de
+julio de 1992, México.
+    16.2. Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario
+Oficial de la Federación del 21 de enero de 1997, México.
+   16.3. Conocimientos Básicos de Higiene y Seguridad en el Trabajo, Ruiz Iturregui, José Ma., Editorial
+Deusto, 1978, Madrid, España.
+   16.4. Encyclopedia of Occupational Health and Safety, International Labour Office, Geneva. Third Edition
+1983, Fourth Impresion, 1991.
+   16.5. Física General, Zemanski, Mark W., Sears, Francis W. Editorial Aguilar, 1966, México.
+   16.6. Guide on Interior Lighting, 2o. Edition, International Commission on Illumination. CIE 29.2 86, 1998,
+Vienna, Austria.
+   16.7. I.E.S. Lighting Handbook. 1995, Illuminating Engineering, Society, USA.
+   16.8. Iluminación Interna, Vittorio Re. Editorial Marcombo, S.A., 1979, Barcelona, España.
+  16.9. Luminotecnia, Enciclopedia CEAC de Electricidad. Dr. Ramírez V., José, Editorial CEAC, S.A., 1972,
+México.
+   16.10. Manual de Ingeniería, Perry, J.H.; Perry, R.H. Editorial Labor, S.A., 1966, Madrid, España.
+   16.11. Manual del Alumbrado, Westinghouse. Editorial Dossat, S.A., 1985, Madrid, España.
+    16.12 Principios de Iluminación y Niveles de Iluminación en México. Sociedad Mexicana de Ingeniería e
+Iluminación, Asociación Civil. Revista Ingeniería de Iluminación, mayo-junio 1967, México.
+   16.13. The Industrial Environment. Its Evaluation & Control. U.S. Department of Health, Education, and
+Welfare Public Health Service; Center for Disease Control; National Institute for Occupational Safety and
+Health, 1973, USA.
+   16.14. Iluminación interna, el instalador cualificado, Vottirio Re, Editorial Marcobo, Boixareu Editores 1979,
+Barcelona, España.
+   16.15. Técnicas de iluminación en fotografía y cinematografía, Bernal Francisco, Omega, 2003 Barcelona.
+   17. Concordancia con normas internacionales
+   Esta Norma no concuerda con ninguna norma internacional, por no existir referencia alguna al momento
+de su elaboración.
+                                                 TRANSITORIOS
+   Primero. La presente Norma Oficial Mexicana entrará en vigor a los dos meses posteriores a su
+publicación en el Diario Oficial de la Federación.
+    Segundo. Durante el lapso señalado en el artículo anterior, los patrones cumplirán con la Norma Oficial
+Mexicana NOM-025-STPS-1999, Condiciones de iluminación en los centros de trabajo, y en su caso,
+realizarán las adaptaciones para observar las disposiciones de la presente Norma Oficial Mexicana y, en este
+último caso, las autoridades del trabajo proporcionarán a petición de los patrones interesados, asesoría y
+orientación para instrumentar su cumplimiento, sin que los patrones se hagan acreedores a sanciones por el
+incumplimiento de la Norma vigente.
+   Tercero. Con la entrada en vigor de la presente Norma se cancela la Norma Oficial Mexicana NOM-025-
+STPS-1999, Condiciones de iluminación en los centros de trabajo, publicada en el Diario Oficial de la
+Federación el 23 de diciembre de 1999.
+    Dado en la Ciudad de México, a los veintinueve días del mes de diciembre de dos mil ocho.- El Secretario
+del Trabajo y Previsión Social, Javier Lozano Alarcón.- Rúbrica.
+   Martes 30 de diciembre de 2008               DIARIO OFICIAL                              (Primera Sección)
+
+                                          GUIA DE REFERENCIA “I”
+                       METODOS PARA EVALUAR LOS NIVELES DE ILUMINACION
+   El contenido de esta guía es un complemento para la mejor comprensión de la Norma y no es de
+cumplimiento obligatorio.
+   METODO IES
+   Se utiliza para evaluar el nivel de iluminación promedio en el área de trabajo, con base en la geometría del
+área y la disposición de las luminarias, cuando:
+   •     El área sea regular y las luminarias se hallen simétricamente espaciadas en dos o más filas.
+   •     El área sea regular con una luminaria colocada simétricamente.
+   •     El área sea regular con una fila de luminarias.
+   •     El área sea regular con una o más lámparas continuas.
+   •     El área es regular con una fila de luminarias continuas.
+   •     El área es regular con techo luminoso.
+    Con este método, las mediciones se toman en unos pocos puntos del lugar de trabajo considerado
+representativo de las mediciones que podrían llevarse a cabo en otros puntos de igual condición, con base en
+la regularidad del área del lugar y la simetría en la distribución de las luminarias.
+   METODO DE LA CONSTANTE DEL SALON
+    Se utiliza para evaluar el nivel de iluminación promedio en el lugar de trabajo a partir de cierto número de
+mediciones y puntos de medición en función de la constante del salón, K, que viene dada por donde L es el
+largo del salón, A el ancho y h la altura de las luminarias sobre el plano útil.
+                                          K=(A*L)/[h(A+L)]
+                  Constante del Salón                               No. Mínimo de Puntos de Medición
+                           <1                                                      4
+                         1y<2                                                      9
+                         2y<3                                                      16
+                           ≥3                                                      25
+
+
+   DETERMINACION DE LA ILUMINACION PROMEDIO (Ep):
+   Cuando se realizan mediciones con el propósito de verificar los valores correspondientes a una instalación
+nueva, se deben tomar las precauciones necesarias para que las evaluaciones se lleven a cabo en
+condiciones apropiadas (tensión nominal de alimentación, temperatura ambiente, elección de lámparas, etc.) o
+para que las lecturas del medidor de iluminancia se corrijan teniendo en cuenta estas condiciones.
+    El cálculo del nivel promedio de iluminación para el método de la constante del salón, se realiza con la
+siguiente expresión:
+                                                  Ep=1/N (ΣEi)
+   Donde:
+   Ep = Nivel promedio en lux.
+   Ei = Nivel de iluminación Medido en lux en cada punto.
+   N = Número de medidas realizadas.
+   Método de evaluación en plano de trabajo: aplicable a tareas específicas, en especial aquellas que
+requieren niveles mayores de iluminación por la dificultad del tamaño, contraste y tiempo de la tarea.
+                                       ___________________________
+

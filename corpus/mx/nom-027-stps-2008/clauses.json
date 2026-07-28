@@ -1,0 +1,812 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n   Establecer condiciones de seguridad e higiene en los centros de trabajo para prevenir riesgos de trabajo\ndurante las actividades de soldadura y corte.",
+    "start_char": 5144,
+    "end_char": 5309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n    Esta Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo donde se realicen\nactividades de soldadura y corte.",
+    "start_char": 5313,
+    "end_char": 5479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n  Para la correcta interpretación de esta Norma, deben consultarse las siguientes normas oficiales\nmexicanas vigentes o las que las sustituyan:\n   NOM-004-STPS-1999, Sistemas de protección y dispositivos de seguridad en la maquinaria y equipo que\nse utilice en los centros de trabajo.\n   NOM-022-STPS-1999, Electricidad estática en los centros de trabajo-Condiciones de seguridad e higiene.\n   NOM-026-STPS-1998, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos\nconducidos en tuberías.",
+    "start_char": 5483,
+    "end_char": 6016
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n   Para efectos de esta Norma se establecen las definiciones siguientes:",
+    "start_char": 6020,
+    "end_char": 6108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.1",
+    "label": "4.1 Actividades de soldadura y corte: son todos aquellos procesos y procedimientos que se desarrollan",
+    "text": "4.1 Actividades de soldadura y corte: son todos aquellos procesos y procedimientos que se desarrollan\nde manera permanente, provisional o en caso de mantenimiento a nivel de piso, altura, sótano, espacio\nconfinado o en recipientes que contengan o hayan contenido residuos inflamables o explosivos para que el\ntrabajador realice la unión, separación o perforación de metales.",
+    "start_char": 6113,
+    "end_char": 6487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.2",
+    "label": "4.2 Análisis de riesgo potencial: es la determinación de las condiciones inseguras en el equipo,",
+    "text": "4.2 Análisis de riesgo potencial: es la determinación de las condiciones inseguras en el equipo,\nmateriales base, de aporte, gases combustibles que se emplean para soldar o cortar, áreas de trabajo, tiempo\nde exposición, equipo de protección personal y concentración de contaminantes, o la falta de capacitación del\nsoldador que conducen a accidentes o enfermedades de trabajo durante la actividad de soldadura o corte, y\nque conlleven a causar daños a la salud y vida de trabajadores, a terceros o bien al centro de trabajo.",
+    "start_char": 6492,
+    "end_char": 7017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.3",
+    "label": "4.3 Area de trabajo: es el lugar específico en donde se llevan a cabo las actividades de soldadura o corte.",
+    "text": "4.3 Area de trabajo: es el lugar específico en donde se llevan a cabo las actividades de soldadura o corte.",
+    "start_char": 7021,
+    "end_char": 7128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.4",
+    "label": "4.4 Atmósfera explosiva: es la concentración ambiental de las sustancias químicas peligrosas, que se",
+    "text": "4.4 Atmósfera explosiva: es la concentración ambiental de las sustancias químicas peligrosas, que se\nencuentra entre los límites inferior y superior de inflamabilidad.",
+    "start_char": 7132,
+    "end_char": 7299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.6",
+    "label": "4.6 Atmósfera no respirable: es el medio ambiente laboral con deficiencia o exceso de oxígeno, esto es,",
+    "text": "4.6 Atmósfera no respirable: es el medio ambiente laboral con deficiencia o exceso de oxígeno, esto es,\ncon menos de 19.5% o más del 23.5% de oxígeno en la atmósfera del ambiente laboral.",
+    "start_char": 7303,
+    "end_char": 7490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.7",
+    "label": "4.7 Autoridad del trabajo; autoridad laboral: son las unidades administrativas competentes de la",
+    "text": "4.7 Autoridad del trabajo; autoridad laboral: son las unidades administrativas competentes de la\nSecretaría del Trabajo y Previsión Social, que realicen funciones de inspección en materia de seguridad y\nsalud en el trabajo, y las correspondientes de las entidades federativas y del Distrito Federal, que actúen en\nauxilio de aquéllas.",
+    "start_char": 7495,
+    "end_char": 7829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.8",
+    "label": "4.8 Autorización: es el acto mediante el cual el patrón, o una persona designada por éste, permite por",
+    "text": "4.8 Autorización: es el acto mediante el cual el patrón, o una persona designada por éste, permite por\nescrito que un trabajador capacitado realice trabajos de soldadura y corte, en un área no designada\nespecíficamente para la realización de estas actividades.\n\f      (Primera Sección)                         DIARIO OFICIAL                 Viernes 7 de noviembre de 2008",
+    "start_char": 7833,
+    "end_char": 8204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.9",
+    "label": "4.9 Careta de protección: es el equipo de protección personal usado en las actividades de soldadura o",
+    "text": "4.9 Careta de protección: es el equipo de protección personal usado en las actividades de soldadura o\ncorte, que sirve para proteger los ojos, la cara y el cuello del trabajador contra la radiación ultravioleta,\ninfrarroja y visible, y de quemaduras por salpicaduras de cualquier material que sea expulsado al soldar o\ncortar.",
+    "start_char": 8210,
+    "end_char": 8536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.10",
+    "label": "4.10 Caseta de soldar: es un recinto destinado para realizar actividades de soldadura y corte, que permite",
+    "text": "4.10 Caseta de soldar: es un recinto destinado para realizar actividades de soldadura y corte, que permite\nproteger a terceros de quemaduras y radiación.",
+    "start_char": 8541,
+    "end_char": 8694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.11",
+    "label": "4.11 Cilindro: es un contenedor portátil cilíndrico que se usa para transportar y almacenar gases",
+    "text": "4.11 Cilindro: es un contenedor portátil cilíndrico que se usa para transportar y almacenar gases\ncomprimidos utilizados en las actividades de soldadura y corte.",
+    "start_char": 8698,
+    "end_char": 8859
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.12",
+    "label": "4.12 Corte: es la actividad por medio de la cual se separa un material metálico, al fundir un área",
+    "text": "4.12 Corte: es la actividad por medio de la cual se separa un material metálico, al fundir un área\nespecífica por medio del calor del arco que se establece entre el electrodo y el material base, o por la reacción\nquímica del oxígeno y el gas combustible con el metal base.",
+    "start_char": 8863,
+    "end_char": 9135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.13",
+    "label": "4.13 Escoria: es un material sólido no metálico proveniente del revestimiento del electrodo o de algún",
+    "text": "4.13 Escoria: es un material sólido no metálico proveniente del revestimiento del electrodo o de algún\nmaterial extraño, que queda atrapado en el metal de la soldadura o entre éste y el metal base, al momento de\nsoldar o cortar por cualquier proceso de soldadura.",
+    "start_char": 9140,
+    "end_char": 9403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.14",
+    "label": "4.14 Espacio confinado: es un lugar lo suficientemente amplio, que tiene medios limitados o restringidos",
+    "text": "4.14 Espacio confinado: es un lugar lo suficientemente amplio, que tiene medios limitados o restringidos\npara su acceso o salida, que no está diseñado para ser ocupado por una persona en forma continua y en el\ncual se realizan trabajos específicos ocasionalmente, con ventilación natural deficiente, configurado de tal\nmanera que una persona puede en su interior desempeñar una tarea asignada.",
+    "start_char": 9407,
+    "end_char": 9800
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.15",
+    "label": "4.15 Fuente de ignición: es cualquier chispa, escoria, equipo o tubería caliente, o material con",
+    "text": "4.15 Fuente de ignición: es cualquier chispa, escoria, equipo o tubería caliente, o material con\ncaracterísticas tales que puedan, en combinación con cantidades adecuadas de comburente o combustible,\nser factores de riesgo de incendio o explosión.",
+    "start_char": 9805,
+    "end_char": 10052
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.16",
+    "label": "4.16 Gases combustibles: son gases que generalmente en combinación con el oxígeno, son usados para",
+    "text": "4.16 Gases combustibles: son gases que generalmente en combinación con el oxígeno, son usados para\nel proceso de soldadura o corte. Algunos de ellos son: el acetileno, el gas natural, el hidrógeno, el propano, el\npropadieno-metilacetileno estabilizado, y otros combustibles sintéticos e hidrocarburos.",
+    "start_char": 10057,
+    "end_char": 10358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.17",
+    "label": "4.17 Mampara: es un cancel o biombo portátil, que sirve para proteger de radiaciones, chispas o material",
+    "text": "4.17 Mampara: es un cancel o biombo portátil, que sirve para proteger de radiaciones, chispas o material\nincandescente a terceros, en las actividades de soldadura y corte.",
+    "start_char": 10363,
+    "end_char": 10534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.18",
+    "label": "4.18 Material base: es aquel material que va a ser soldado o cortado por cualquier proceso de soldadura",
+    "text": "4.18 Material base: es aquel material que va a ser soldado o cortado por cualquier proceso de soldadura\no corte.",
+    "start_char": 10538,
+    "end_char": 10650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.19",
+    "label": "4.19 Material de consumo; pieza de consumo: son todos aquellos medios que se acoplan a los equipos",
+    "text": "4.19 Material de consumo; pieza de consumo: son todos aquellos medios que se acoplan a los equipos\nde soldadura y corte y que sufren deterioro durante su uso, éstos pueden ser sopletes, mangueras,\nconectores, boquillas y unidades de alimentación de alambre, entre otras.",
+    "start_char": 10654,
+    "end_char": 10924
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.20",
+    "label": "4.20 Material resistente al fuego: es todo aquel material que no es combustible y que sujeto a la acción",
+    "text": "4.20 Material resistente al fuego: es todo aquel material que no es combustible y que sujeto a la acción\ndel fuego, no arde ni genera humos o vapores tóxicos, ni falla mecánicamente por un periodo de al menos dos\nhoras.",
+    "start_char": 10929,
+    "end_char": 11148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.21",
+    "label": "4.21 Radiación ultravioleta: es una forma de radiación electromagnética de longitud de onda más corta",
+    "text": "4.21 Radiación ultravioleta: es una forma de radiación electromagnética de longitud de onda más corta\nque la de la luz visible (desde 1 nm hasta 400 nm), producida por las actividades de soldadura y corte, cuyo\npoder de penetración por un tiempo prolongado ocasiona lesiones irreversibles a la retina y excita la\nproducción de melanina protectora de las capas de la piel.",
+    "start_char": 11152,
+    "end_char": 11523
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:4-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "4.24",
+    "label": "4.24 Soldadura: es la coalescencia localizada de metales, producida por el calentamiento de los",
+    "text": "4.24 Soldadura: es la coalescencia localizada de metales, producida por el calentamiento de los\nmateriales metálicos a una temperatura apropiada, con o sin aplicación de presión y con o sin empleo de\nmaterial de aporte para la unión.",
+    "start_char": 11527,
+    "end_char": 11760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 11764,
+    "end_char": 11790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.1",
+    "label": "5.1 Mostrar a la autoridad del trabajo, cuando ésta así lo solicite, los documentos que la presente Norma le",
+    "text": "5.1 Mostrar a la autoridad del trabajo, cuando ésta así lo solicite, los documentos que la presente Norma le\nobligue a elaborar o poseer.",
+    "start_char": 11795,
+    "end_char": 11932
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.2",
+    "label": "5.2 Contar con el análisis de riesgos potenciales para las actividades de soldadura y corte que se",
+    "text": "5.2 Contar con el análisis de riesgos potenciales para las actividades de soldadura y corte que se\ndesarrollen en el centro de trabajo, de acuerdo a lo establecido en el Capítulo 7 y adoptar las condiciones de\nseguridad e higiene correspondientes, de conformidad con lo que establece el Capítulo 8.",
+    "start_char": 11936,
+    "end_char": 12234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.3",
+    "label": "5.3 Informar a los trabajadores que realicen actividades de soldadura y corte sobre los riesgos a los que se",
+    "text": "5.3 Informar a los trabajadores que realicen actividades de soldadura y corte sobre los riesgos a los que se\nexponen, a través de carteles, folletos, guías o de forma verbal; la información debe darse por lo menos dos\nveces al año y llevar un registro que contenga al menos, nombre y firma de los trabajadores que recibieron la\ninformación, así como la fecha, tema y nombre de la persona que la proporcionó.\n\f   Viernes 7 de noviembre de 2008              DIARIO OFICIAL                               (Primera Sección)",
+    "start_char": 12239,
+    "end_char": 12757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.4",
+    "label": "5.4 Contar con el programa para las actividades de soldadura y corte de conformidad con lo que se",
+    "text": "5.4 Contar con el programa para las actividades de soldadura y corte de conformidad con lo que se\nestablece en el apartado 9.1 de la presente Norma. Adicionalmente, debe incluir los procedimientos y\ncontroles específicos establecidos en el apartado 9.2, en caso de contar con áreas de trabajo, espacios\nconfinados, procesos (provisionales o en caso de mantenimiento) o recipientes donde existan polvos, gases o\nvapores inflamables o explosivos que representen peligro para los trabajadores.",
+    "start_char": 12762,
+    "end_char": 13252
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.5",
+    "label": "5.5 Contar con los procedimientos de seguridad para que sean aplicados por los trabajadores que",
+    "text": "5.5 Contar con los procedimientos de seguridad para que sean aplicados por los trabajadores que\ndesarrollan actividades de soldadura y corte de conformidad con lo que se establece en el Capítulo 10 de la\npresente Norma.",
+    "start_char": 13256,
+    "end_char": 13475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.6",
+    "label": "5.6 Capacitar y adiestrar al menos una vez por año a los trabajadores que desarrollan actividades de",
+    "text": "5.6 Capacitar y adiestrar al menos una vez por año a los trabajadores que desarrollan actividades de\nsoldadura y corte, y al supervisor que vigila la aplicación de los procedimientos de seguridad, tomando como\nbase los procedimientos de seguridad e higiene incluidos en el programa de soldadura y corte a que se refiere\nel Capítulo 9 de la presente Norma.",
+    "start_char": 13480,
+    "end_char": 13835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.7",
+    "label": "5.7 Establecer controles específicos para las actividades de soldadura y corte que se realicen en",
+    "text": "5.7 Establecer controles específicos para las actividades de soldadura y corte que se realicen en\nrecipientes, espacios confinados o subterráneos y en donde existan polvos, gases o vapores inflamables o\nexplosivos que representen peligro para los trabajadores, de conformidad con el apartado 9.2.\n                                                                                      (Continúa en la página 77)\n   (Viene de la página 36)",
+    "start_char": 13840,
+    "end_char": 14276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.8",
+    "label": "5.8 Autorizar por escrito a los trabajadores que realicen actividades de soldadura y corte en áreas de",
+    "text": "5.8 Autorizar por escrito a los trabajadores que realicen actividades de soldadura y corte en áreas de\nriesgo como: áreas controladas con presencia de sustancias inflamables o explosivas, espacios confinados,\nalturas, sótanos, subterráneos, y aquéllas no designadas específicamente para estas actividades.",
+    "start_char": 14282,
+    "end_char": 14587
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.9",
+    "label": "5.9 Supervisar que las actividades de soldadura y corte en lugares peligrosos (alturas, espacios",
+    "text": "5.9 Supervisar que las actividades de soldadura y corte en lugares peligrosos (alturas, espacios\nconfinados, sótanos, subterráneos, áreas controladas con presencia de sustancias inflamables o explosivas,\notros) se realicen en condiciones de seguridad e higiene.",
+    "start_char": 14592,
+    "end_char": 14853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.10",
+    "label": "5.10 Contar con un procedimiento de rescate para alturas, sótanos, subterráneos, espacios confinados o",
+    "text": "5.10 Contar con un procedimiento de rescate para alturas, sótanos, subterráneos, espacios confinados o\nen recipientes donde existan polvos, gases o vapores inflamables o explosivos de conformidad con el Capítulo\n11.",
+    "start_char": 14858,
+    "end_char": 15073
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.11",
+    "label": "5.11 Capacitar y adiestrar, al menos una vez por año, al personal asignado para realizar las actividades de",
+    "text": "5.11 Capacitar y adiestrar, al menos una vez por año, al personal asignado para realizar las actividades de\nrescate de trabajadores accidentados en alturas, subterráneos o espacios confinados con base en los\nprocedimientos establecidos en el Capítulo 11.",
+    "start_char": 15077,
+    "end_char": 15331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.12",
+    "label": "5.12 Contar con materiales y equipo para realizar el rescate de los trabajadores accidentados en alturas,",
+    "text": "5.12 Contar con materiales y equipo para realizar el rescate de los trabajadores accidentados en alturas,\nsubterráneos o espacios confinados.",
+    "start_char": 15335,
+    "end_char": 15476
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.13",
+    "label": "5.13 Capacitar, adiestrar y autorizar a los trabajadores para dar el mantenimiento preventivo y, en su caso,",
+    "text": "5.13 Capacitar, adiestrar y autorizar a los trabajadores para dar el mantenimiento preventivo y, en su caso,\ncorrectivo, al equipo y maquinaria utilizada en las actividades de soldadura y corte del centro de trabajo.",
+    "start_char": 15481,
+    "end_char": 15697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.14",
+    "label": "5.14 Proporcionar a los trabajadores el equipo de protección personal considerado en el Capítulo 8, inciso",
+    "text": "5.14 Proporcionar a los trabajadores el equipo de protección personal considerado en el Capítulo 8, inciso\nc), y el que se determine con base en el análisis de riesgos potenciales, y capacitarlos sobre su uso,\nmantenimiento y reemplazo.",
+    "start_char": 15702,
+    "end_char": 15938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.15",
+    "label": "5.15 Someter a exámenes médicos específicos a los trabajadores que realicen actividades de soldadura y",
+    "text": "5.15 Someter a exámenes médicos específicos a los trabajadores que realicen actividades de soldadura y\ncorte, según lo establezcan las normas oficiales mexicanas que al respecto emita la Secretaría de Salud. En\ncaso de no existir normatividad de la Secretaría de Salud, el médico de la empresa determinará el contenido\nde los exámenes médicos que se realizarán con una periodicidad de al menos una vez cada doce meses, y la\nvigilancia a la salud que se deba aplicar, mismos que quedarán asentados en el expediente médico que, para\ntal efecto, se tenga del trabajador.",
+    "start_char": 15943,
+    "end_char": 16510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.16",
+    "label": "5.16 Contar con los procedimientos que permitan brindar la atención a un posible accidentado durante las",
+    "text": "5.16 Contar con los procedimientos que permitan brindar la atención a un posible accidentado durante las\nactividades de soldadura y corte. Cuando asigne personal para proporcionar los primeros auxilios, debe\ncapacitarlo y adiestrarlo en esta materia, al menos una vez por año.",
+    "start_char": 16515,
+    "end_char": 16791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.17",
+    "label": "5.17 Contar con un botiquín de primeros auxilios en el área donde se desarrollen actividades de soldadura",
+    "text": "5.17 Contar con un botiquín de primeros auxilios en el área donde se desarrollen actividades de soldadura\ny corte, en el que se deben incluir los materiales que se requieran de conformidad con el análisis de riesgos\npotenciales.\n\f        (Primera Sección)                        DIARIO OFICIAL                  Viernes 7 de noviembre de 2008",
+    "start_char": 16795,
+    "end_char": 17136
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:5-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "5.18",
+    "label": "5.18 Vigilar que el personal externo contratado para realizar las actividades de soldadura y corte en el",
+    "text": "5.18 Vigilar que el personal externo contratado para realizar las actividades de soldadura y corte en el\ncentro de trabajo, cumpla con lo establecido en el Capítulo 5 de la presente Norma.",
+    "start_char": 17141,
+    "end_char": 17329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "6",
+    "label": "6. Obligaciones de los trabajadores",
+    "text": "6. Obligaciones de los trabajadores",
+    "start_char": 17333,
+    "end_char": 17368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "6.1",
+    "label": "6.1 Participar en la capacitación proporcionada por el patrón.",
+    "text": "6.1 Participar en la capacitación proporcionada por el patrón.",
+    "start_char": 17372,
+    "end_char": 17434
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "6.2",
+    "label": "6.2 Desarrollar sus actividades de acuerdo a los procedimientos contenidos en el programa específico de",
+    "text": "6.2 Desarrollar sus actividades de acuerdo a los procedimientos contenidos en el programa específico de\nseguridad e higiene, y a las condiciones de seguridad e higiene establecidas en esta Norma.",
+    "start_char": 17438,
+    "end_char": 17633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "6.3",
+    "label": "6.3 Utilizar el equipo de protección personal de acuerdo a las instrucciones de uso y mantenimiento",
+    "text": "6.3 Utilizar el equipo de protección personal de acuerdo a las instrucciones de uso y mantenimiento\nproporcionadas por el patrón.",
+    "start_char": 17637,
+    "end_char": 17766
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "6.4",
+    "label": "6.4 Realizar las actividades de soldadura y corte sólo si cuenta con la capacitación y, en su caso, con la",
+    "text": "6.4 Realizar las actividades de soldadura y corte sólo si cuenta con la capacitación y, en su caso, con la\nautorización correspondiente.",
+    "start_char": 17770,
+    "end_char": 17906
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "6.5",
+    "label": "6.5 Someterse a los exámenes médicos específicos que el patrón indique para valorar su estado de salud",
+    "text": "6.5 Someterse a los exámenes médicos específicos que el patrón indique para valorar su estado de salud\nal menos cada doce meses.",
+    "start_char": 17911,
+    "end_char": 18039
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "7",
+    "label": "7. Análisis de riesgos potenciales",
+    "text": "7. Análisis de riesgos potenciales\n   El análisis de riesgos potenciales debe contener al menos lo siguiente:\n   a)     La identificación de los procesos y áreas de trabajo en donde se lleven a cabo las actividades de\n          soldadura o corte;\n   b)     La relación de los equipos, materiales base, materiales de aporte y gases combustibles que se\n          emplean para soldar o cortar;\n   c)     La determinación de las condiciones peligrosas, incluyendo las emergencias que se puedan\n          presentar en el equipo o maquinaria que se utilice (ejemplo: fuga de gases comprimidos en el\n          procedimiento de soldadura y corte);\n   d)     La determinación de los agentes químicos y físicos que se produzcan y que generen contaminación\n          en el medio ambiente laboral;\n   e)     El tipo de riesgo al que se enfrentan los trabajadores (directo o indirecto) y el tiempo de exposición;\n   f)     Un listado de los daños a la salud que incluya la relación causa efecto por la exposición a humos,\n          vapores, radiaciones no ionizantes (infrarroja, ultravioleta y la luz brillante, entre otras), ruido,\n          descargas eléctricas, cambios bruscos de temperatura, explosiones o atmósferas no respirables. Ver\n          ejemplo en la guía de referencia I;\n   g)     La identificación de las partes del cuerpo que requieren protección para evitar daños a la salud de los\n          soldadores o cortadores;\n   h)     Los medios de control para minimizar o eliminar el riesgo en:\n          1)   El trabajador (equipo de protección personal que se requiere para controlar la exposición de los\n               soldadores);\n          2)   Las áreas de trabajo (ventilación natural o artificial, por ejemplo extractores de aire), la\n               protección que se requiere para evitar daños a terceros, para controlar los conatos de incendio\n               que puedan presentarse o para controlar la presencia de agentes químicos, entre otros, y\n          3)   En caso de accidente, el listado del contenido mínimo del botiquín de primeros auxilios. En caso\n               de requerirse, los equipos y materiales para aplicar los procedimientos de rescate en alturas,\n               subterráneos o espacios confinados, de conformidad con el capítulo 11;\n   i)     El equipo de soldadura y corte;\n   j)     La identificación de áreas con atmósferas no respirables, y\n   k)     La necesidad de aplicar procedimientos de rescate en alturas, subterráneos o espacios confinados,\n          conforme al Capítulo 11.",
+    "start_char": 18043,
+    "end_char": 20565
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "8",
+    "label": "8. Condiciones de seguridad e higiene durante las actividades de soldadura y corte",
+    "text": "8. Condiciones de seguridad e higiene durante las actividades de soldadura y corte\n\f   Viernes 7 de noviembre de 2008              DIARIO OFICIAL                         (Primera Sección)   79\n\n   a)   Contar con un extintor tipo ABC que sea de la capacidad acorde al análisis de riesgos potenciales, en\n        un radio no mayor a 7 metros, en el área donde se desarrollen las actividades de soldadura y corte;\n   b)   Contar con casetas de soldar o con mamparas para delimitar las áreas en donde se realicen\n        actividades de soldadura o corte;\n   c)   Utilizar, al menos, el siguiente equipo de protección personal conforme al proceso de soldadura o\n        corte que se emplee: caretas o lentes con sombra de soldador, protección facial, capuchas (monjas),\n        respirador para humos, peto (mandil), guantes para soldador, polainas, mangas y zapatos de\n        seguridad;\n   d)   Revisar que los equipos y elementos de seguridad acoplados a los cilindros que contengan gases\n        combustibles estén en condiciones de funcionamiento. Los resultados de la revisión se deben\n        registrar en una bitácora donde se precise el número de serie, lote, marca y modelo de los equipos y\n        elementos de acoplamiento, así como el estado que presentan en lo que se refiere a su hermeticidad\n        y limpieza (libre de grasa);\n   e)   Prohibir la utilización de reguladores de presión reconstruidos;\n   f)   Aplicar los procedimientos de seguridad que incluyan las medidas necesarias para impedir daños al\n        personal expuesto y las acciones que se deben aplicar antes, durante y después en los equipos o\n        áreas donde se realizarán las actividades de soldadura y corte;\n   g)   Colocar señales, avisos, candados o etiquetas de seguridad, de acuerdo a lo establecido en la\n        NOM-004-STPS-1999 y en la NOM-026-STPS-1998, en las instalaciones eléctricas que proporcionen\n        energía a los equipos de soldadura y corte, y restringir el paso a las áreas en las que se realizan las\n        actividades de soldadura y corte, y\n   h)   Contar con ventilación natural o artificial antes y durante las actividades de soldadura y corte en las\n        áreas de trabajo.",
+    "start_char": 20569,
+    "end_char": 22761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "9",
+    "label": "9. Requisitos del programa de actividades de soldadura y corte",
+    "text": "9. Requisitos del programa de actividades de soldadura y corte",
+    "start_char": 22765,
+    "end_char": 22827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "9.1",
+    "label": "9.1 Se debe contar con un programa de actividades de soldadura y corte que al menos incluya:",
+    "text": "9.1 Se debe contar con un programa de actividades de soldadura y corte que al menos incluya:\n   a)   Actividad de soldadura y corte (permanente o temporal);\n   b)   Procedimiento de soldadura y corte;\n   c)   Tipo de riesgo;\n   d)   Procedimiento de seguridad;\n   e)   Procedimiento de autorización y persona(s) que autoriza(n), según sea el caso;\n   f)   Fecha de autorización;\n   g)   Duración o periodo;\n   h)   Area de trabajo, y\n   i)   Nombre del personal que supervisará al trabajador que realizará las actividades de soldadura y corte\n        conforme a los procedimientos establecidos.",
+    "start_char": 22831,
+    "end_char": 23425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "9.2",
+    "label": "9.2 Para todas aquellas áreas de trabajo, espacios confinados, subterráneos, procesos (provisionales o en",
+    "text": "9.2 Para todas aquellas áreas de trabajo, espacios confinados, subterráneos, procesos (provisionales o en\ncaso de mantenimiento) o recipientes donde existan polvos, gases o vapores inflamables o explosivos que\nrepresenten peligro para los trabajadores, el programa de actividades de soldadura y corte debe incluir\nademás los siguientes procedimientos y controles específicos:\n   a)   Procedimiento para detectar atmósferas explosivas, irritantes o no respirables, cuando aplique;\n   b)   Controles específicos para evitar atmósferas explosivas o no respirables, y\n   c)   Procedimiento de rescate.",
+    "start_char": 23429,
+    "end_char": 24026
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "10",
+    "label": "10. Requisitos de los procedimientos de seguridad",
+    "text": "10. Requisitos de los procedimientos de seguridad\n   Los procedimientos de seguridad deben incluir:\n\f        (Primera Sección)                        DIARIO OFICIAL                 Viernes 7 de noviembre de 2008",
+    "start_char": 24030,
+    "end_char": 24241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "10.1",
+    "label": "10.1 En las actividades de soldadura y corte con:",
+    "text": "10.1 En las actividades de soldadura y corte con:\n   a)     La descripción de las actividades a desarrollar;\n   b)     Las instrucciones concretas sobre el trabajo. Para elaborar las instrucciones se puede tomar de\n          referencia el contenido de la guía de referencia II;\n   c)     El número de trabajadores que se requieren para realizar los trabajos;\n   d)     La identificación de aquellas actividades de soldadura y corte que se realicen en áreas,\n          contenedores, recipientes o espacios confinados donde existan polvos, líquidos, gases o vapores\n          inflamables o explosivos que representen una condición de riesgo para los trabajadores, y\n   e)     Para los casos donde existan trabajos en alturas, subterráneos, sótanos y espacios confinados, la\n          indicación para aplicar los procedimientos de rescate conforme al Capítulo 11.",
+    "start_char": 24246,
+    "end_char": 25106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "10.2",
+    "label": "10.2 En el equipo y maquinaria, según aplique:",
+    "text": "10.2 En el equipo y maquinaria, según aplique:\n   a)     Indicaciones para verificar que:\n          1)   Las conexiones de mangueras no presenten fugas, los conectores no presenten corrosión y\n               estén acoplados herméticamente;\n          2)   Las conexiones eléctricas mantengan la continuidad, no presenten daños mecánicos en sus\n               aislamientos y se encuentren en condiciones de uso;\n          3)   El equipo o maquinaria esté conectado al sistema de puesta a tierra general o a un sistema\n               alterno que cumpla las especificaciones de la NOM-022-STPS-1999, y esté en condiciones de\n               funcionamiento, y\n          4)   El voltaje de la línea de alimentación corresponda al requerido por la máquina de soldar;\n   b)     Que el equipo que utiliza gases combustibles no presente fugas;\n   c)     Que se cuente con el instructivo para el almacenamiento, uso y transporte de cilindros con gases\n          combustibles en el interior y exterior de las instalaciones del centro de trabajo;\n   d)     Que se cuente con el instructivo para la revisión y reemplazo de piezas de consumo de los equipos\n          utilizados en el proceso de soldadura y corte;\n   e)     Que el mantenimiento correctivo del equipo lo realice personal capacitado y autorizado por el patrón;\n   f)     Que se establezcan los procedimientos para el manejo y operación de cilindros, válvulas,\n          reguladores, mangueras y sus conexiones, fuentes de alimentación eléctrica y operaciones o\n          actividades de soldadura y corte en espacios confinados;\n   g)     Que se seleccionen las herramientas y el equipo de protección personal según sea el proceso de\n          soldadura y maquinaria a utilizar, y\n   h)     Que se realicen revisiones mensuales al equipo de soldadura y corte para determinar su\n          funcionalidad y mantenimiento que corresponda.",
+    "start_char": 25110,
+    "end_char": 26992
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "10.3",
+    "label": "10.3 En las áreas o instalaciones, según aplique:",
+    "text": "10.3 En las áreas o instalaciones, según aplique:\n   a)     Que se coloquen señales, avisos de seguridad o barreras de protección como pantallas, casetas\n          para soldar, candados, mamparas o cualquier otro dispositivo cuando se realizan actividades de\n          soldadura y corte, con objeto de delimitar o restringir el área de trabajo, y\n   b)     Que se verifique que el área de trabajo sea ventilada por medios naturales o artificiales y la\n          inexistencia de materiales combustibles en un radio no menor a 10 metros.",
+    "start_char": 26996,
+    "end_char": 27531
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "10.4",
+    "label": "10.4 En caso de fuga de gases combustibles, en el proceso de soldadura y corte, se debe cumplir con lo",
+    "text": "10.4 En caso de fuga de gases combustibles, en el proceso de soldadura y corte, se debe cumplir con lo\nsiguiente:\n   a)     Contar y utilizar el equipo de protección personal recomendado en el análisis de riesgos para esta\n          emergencia;\n   b)     Contar con las instrucciones concretas para controlar la fuga y aplicar el procedimiento de seguridad\n          para controlar los riesgos;\n\f   Viernes 7 de noviembre de 2008               DIARIO OFICIAL                          (Primera Sección)   81\n\n   c)   Tener disponibles el equipo y materiales que se deben emplear para controlar la fuga, y\n   d)   Designar a un supervisor que vigile el contenedor dañado o averiado en la zona, hasta que se libere\n        la presión del cilindro o se controle la situación, con el fin de asegurarse que no se produzca fuego o\n        se salga de control; que notifique al proveedor de manera verbal y escrita sobre el estado actual, e\n        identifique el recipiente dañado.",
+    "start_char": 27536,
+    "end_char": 28510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:10-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "10.5",
+    "label": "10.5 Las actividades de soldadura y corte en espacios confinados deben contener las indicaciones para",
+    "text": "10.5 Las actividades de soldadura y corte en espacios confinados deben contener las indicaciones para\nque:\n   a)   El supervisor evalúe el interior del espacio confinado antes de entrar, durante y al terminar la\n        actividad de soldadura y corte, para verificar que el contenido de oxígeno en el aire esté en el rango\n        de 19.5% y 23.5%;\n   b)   Se evalúe la presencia de atmósferas explosivas a través de equipos de lectura directa;\n   c)   Se determinen los tipos de sustancias químicas almacenadas y aplique el procedimiento de\n        descontaminación del espacio confinado;\n   d)   El trabajador cuente con la autorización por escrito del patrón antes de ingresar al área;\n   e)   El trabajador coloque tarjetas de seguridad que indiquen el bloqueo de energía de alimentación,\n        maquinaria y equipo que se relacione con el recipiente y espacio confinado donde se realizará la\n        actividad de soldadura o corte;\n   f)   Se proceda a ventilar y efectuar los monitoreos con equipos de lectura directa para corroborar los\n        niveles de concentración de oxígeno en aire y la ausencia de una atmósfera explosiva, en caso de no\n        alcanzar los niveles de oxígeno establecidos en el inciso a), se podrá utilizar el equipo de protección\n        respiratoria con suministro de aire respirable;\n   g)   Se utilicen equipos de extracción local para la eliminación de gases, vapores y humos peligrosos;\n   h)   El responsable del mantenimiento compruebe que el sistema de ventilación artificial se encuentre en\n        condiciones de funcionamiento y opere bajo un programa de mantenimiento;\n   i)   Se coloquen fuera del espacio confinado los cilindros y las fuentes de poder;\n   j)   Se controle el tiempo de permanencia continua del trabajador dentro de un espacio confinado a una\n        hora de trabajo continuo como máximo, con descansos mínimos de 15 minutos fuera del espacio\n        confinado;\n   k)   Se eliminen o reduzcan al mínimo las atmósferas explosivas en los espacios confinados que hayan\n        contenido líquidos inflamables u otro tipo de combustibles, antes de proceder a soldar o cortar;\n   l)   El supervisor vigile que se apliquen los procedimientos de seguridad establecidos, desde el ingreso\n        del trabajador hasta el término de la operación;\n   m)   El soldador durante la operación utilice un arnés con una línea de vida. Las cuerdas de la línea de\n        vida deben ser resistentes a las sustancias químicas presentes y con longitud suficiente para poder\n        maniobrar dentro del área, y ser utilizada para rescatarlo en caso de ser necesario, y\n   n)   Se realice una limpieza e inspección para detectar y controlar los posibles riesgos, después de toda\n        jornada de trabajo.",
+    "start_char": 28514,
+    "end_char": 31262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:10-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "10.6",
+    "label": "10.6 El procedimiento de autorización para los trabajadores que realicen actividades de soldadura y corte",
+    "text": "10.6 El procedimiento de autorización para los trabajadores que realicen actividades de soldadura y corte\nen alturas, sótanos y espacios confinados, áreas controladas con presencia de sustancias químicas o\nexplosivas y aquéllas no designadas específicamente para estas actividades, debe cumplir con lo siguiente:\n   a)   Ser otorgada por escrito;\n   b)   Incluir:\n        1)   La descripción de la actividad, el nombre y firma del trabajador que realizará la actividad, el lugar\n             en donde se realizará la actividad, además de la hora y fecha programadas para el inicio y\n             terminación de la actividad;\n\f        (Primera Sección)                       DIARIO OFICIAL                 Viernes 7 de noviembre de 2008\n\n          2)   El nombre y firma del responsable del área o persona que autoriza, el lugar donde se realizará la\n               actividad, el nombre y puesto de quien vigilará esta actividad, el nombre y firma de enterado del\n               responsable de mantenimiento, el tipo de inspección y la indicación para anexar a la autorización\n               el procedimiento de seguridad para realizar la actividad;\n          3)   La instrucción de entregar copias de la autorización a todos los que firman. La copia del\n               trabajador se debe colocar en un lugar visible durante la realización del trabajo y la copia del\n               responsable de la autorización la debe conservar el patrón, al menos, durante un año, y\n          4)   La verificación de que el personal designado supervisó que se cuenta con ventilación\n               permanente o con extracción de gases y humos, ya sea natural o artificial, antes y durante la\n               realización de las actividades de soldadura y corte;\n   c)     El listado de las posibles condiciones peligrosas y las medidas de protección requeridas, así como el\n          equipo de protección personal a utilizar, y\n   d)     La obligación de realizar el monitoreo para detectar atmósferas explosivas, irritantes, tóxicas o\n          deficientes de oxígeno.",
+    "start_char": 31266,
+    "end_char": 33319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "11",
+    "label": "11. Requisitos del procedimiento de rescate de un trabajador accidentado durante las actividades",
+    "text": "11. Requisitos del procedimiento de rescate de un trabajador accidentado durante las actividades\nde soldadura y corte en alturas, sótanos, subterráneos, espacios confinados o en recipientes donde\nexistan polvos, gases o vapores inflamables o explosivos.\n   El procedimiento de rescate de un trabajador accidentado durante las actividades de soldadura y corte,\ndebe contener al menos lo siguiente:\n   a)     Listado del personal asignado;\n   b)     Funciones y responsabilidades del personal asignado;\n   c)     Instrucciones concretas de cómo realizar el rescate;\n   d)     Equipos o aparatos necesarios para la ejecución del rescate;\n   e)     Técnicas para aplicar la reanimación cardiopulmonar (RCP), y\n   f)     Plan para la atención y traslado de las víctimas a lugares de atención médica, que indique:\n          1)   La colocación en lugar visible de las instrucciones específicas de qué hacer en caso de\n               accidente;\n          2)   Las acciones inmediatas que incluyan la desconexión de la fuente de energía, la ventilación del\n               área de trabajo por medios naturales o artificiales, las instrucciones para retirar al trabajador\n               accidentado del peligro inmediato, la colocación de la víctima en un lugar seguro, la aplicación\n               de los primeros auxilios o la instrucción para llamar a la persona idónea y pedir ayuda;\n          3)   La forma en que se debe dar una respuesta secundaria, misma que describa la información que\n               se debe proporcionar con relación al accidente, por ejemplo, si la víctima tuvo contacto con la\n               energía eléctrica, si la causa fue por una descarga eléctrica o por una explosión de algún\n               dispositivo eléctrico, o bien fue por deficiencia de oxígeno en espacios confinados u otros;\n          4)   Los hospitales o unidades médicas más próximos para trasladar a la víctima para que reciba la\n               atención médica, y\n          5)   Los números telefónicos para llamar en caso de emergencia.",
+    "start_char": 33323,
+    "end_char": 35348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "12",
+    "label": "12. Unidades de verificación",
+    "text": "12. Unidades de verificación",
+    "start_char": 35352,
+    "end_char": 35380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "12.1",
+    "label": "12.1 El patrón tendrá la opción de contratar una unidad de verificación, acreditada y aprobada, en los",
+    "text": "12.1 El patrón tendrá la opción de contratar una unidad de verificación, acreditada y aprobada, en los\ntérminos de la Ley Federal sobre Metrología y Normalización y su Reglamento, para verificar el grado de\ncumplimiento con la presente Norma.",
+    "start_char": 35385,
+    "end_char": 35627
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "12.2",
+    "label": "12.2 Las unidades de verificación contratadas a petición de parte deben verificar el grado de cumplimiento",
+    "text": "12.2 Las unidades de verificación contratadas a petición de parte deben verificar el grado de cumplimiento\nde acuerdo con lo establecido en el procedimiento para la evaluación de la conformidad.\n\f   Viernes 7 de noviembre de 2008                  DIARIO OFICIAL                         (Primera Sección)   83",
+    "start_char": 35631,
+    "end_char": 35939
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:12-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "12.3",
+    "label": "12.3 La vigencia del dictamen de verificación cuando éste sea favorable, será de dos años, siempre y",
+    "text": "12.3 La vigencia del dictamen de verificación cuando éste sea favorable, será de dos años, siempre y\ncuando no sean modificadas las condiciones que sirvieron para su emisión.",
+    "start_char": 35944,
+    "end_char": 36118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:12-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "12.4",
+    "label": "12.4 Las unidades de verificación deben entregar al patrón el dictamen de verificación favorable cuando se",
+    "text": "12.4 Las unidades de verificación deben entregar al patrón el dictamen de verificación favorable cuando se\nhayan cubierto los requerimientos de la presente NOM.",
+    "start_char": 36122,
+    "end_char": 36282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "13",
+    "label": "13. Procedimiento para la evaluación de la conformidad",
+    "text": "13. Procedimiento para la evaluación de la conformidad",
+    "start_char": 36286,
+    "end_char": 36340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:13-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "13.1",
+    "label": "13.1 Generalidades.",
+    "text": "13.1 Generalidades.",
+    "start_char": 36344,
+    "end_char": 36363
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:13-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "13.1.1",
+    "label": "13.1.1 Este procedimiento para la evaluación de la conformidad aplica tanto para las visitas de inspección",
+    "text": "13.1.1 Este procedimiento para la evaluación de la conformidad aplica tanto para las visitas de inspección\ndesarrolladas por la autoridad laboral, como para las visitas de verificación que realicen las unidades de\nverificación.",
+    "start_char": 36368,
+    "end_char": 36595
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:13-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "13.1.2",
+    "label": "13.1.2 La evaluación de la conformidad con la presente Norma podrá ser realizada, a petición de parte",
+    "text": "13.1.2 La evaluación de la conformidad con la presente Norma podrá ser realizada, a petición de parte\ninteresada, por las unidades de verificación acreditadas por la entidad de acreditación y aprobadas por la\nSecretaría del Trabajo y Previsión Social.",
+    "start_char": 36600,
+    "end_char": 36851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:13-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "13.1.3",
+    "label": "13.1.3 Para obtener el directorio de las unidades de verificación que están aprobadas por la dependencia,",
+    "text": "13.1.3 Para obtener el directorio de las unidades de verificación que están aprobadas por la dependencia,\nse puede consultar la página de la Secretaría del Trabajo y Previsión Social, vía Internet, en la dirección:\nwww.stps.gob.mx.",
+    "start_char": 36855,
+    "end_char": 37086
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:13-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "13.1.4",
+    "label": "13.1.4 El dictamen de verificación debe estar a disposición de la autoridad del trabajo cuando ésta lo",
+    "text": "13.1.4 El dictamen de verificación debe estar a disposición de la autoridad del trabajo cuando ésta lo\nsolicite.",
+    "start_char": 37091,
+    "end_char": 37203
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:13-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "13.2",
+    "label": "13.2 Los aspectos a verificar durante la evaluación de la conformidad, que son aplicables mediante la",
+    "text": "13.2 Los aspectos a verificar durante la evaluación de la conformidad, que son aplicables mediante la\nconstatación física, documental e interrogatorio (entrevista) a los trabajadores que estén expuestos a los\nriesgos de soldadura y corte, son:\n  Disposición       Tipo de                   Criterio de aceptación                    Observaciones\n                 comprobación\n 5.2             Documental     y El patrón cumple cuando:                    Para mayor precisión de los\n                 física                                                       elementos que integran el análisis\n                                     9       Presenta el análisis de riesgos\n                                                                              de    riesgos    potenciales,     es\n                                             potenciales para las actividades\n                                                                              conveniente revisar el Capítulo 7.\n                                             de soldadura y corte;\n                                                                              Para verificar que se adoptan las\n                                     9       El análisis cumple con lo\n                                                                              condiciones de seguridad e\n                                             establecido en el Capítulo 7, y\n                                                                              higiene, es conveniente revisar el\n                                     9       Al realizar un recorrido por el Capítulo 8.\n                                             centro de trabajo, se constate\n                                             que adopta las condiciones de\n                                             seguridad        e       higiene\n                                             establecidas en el Capítulo 8.\n 5.3             Documental         El patrón cumple cuando:\n                                    9    Presenta el registro de la\n                                         información proporcionada a los\n                                         trabajadores, que incluya al\n                                         menos:\n                                         ○     Nombre y firma de los\n                                               trabajadores que recibieron\n                                               la información;\n                                         ○     Fecha en que se proporcionó\n                                               la información;\n                                         ○     Tema informado, y\n                                         ○     Persona que proporcionó la\n                                               información.\n                                    9    Presenta evidencia de que\n                                         informó a los trabajadores sobre\n                                         los riesgos a los que se exponen\n\f      (Primera Sección)                   DIARIO OFICIAL                    Viernes 7 de noviembre de 2008\n\n                                  al menos dos veces al año.\n5.4              Documental   El patrón cumple cuando:              Para mayor precisión de los\n                                                                    elementos      que     integran    el\n                              9   Presenta el programa para las\n                                                                    programa de las actividades de\n                                  actividades de soldadura y corte,\n                                                                    soldadura y corte, es conveniente\n                                  y\n                                                                    revisar el apartado 9.1.\n                              9   El     programa    incluye    los\n                                                                    Para mayor precisión de los\n                                  procedimientos     y    controles\n                                                                    procedimientos       y      controles\n                                  específicos para las actividades\n                                                                    específicos, es conveniente revisar\n                                  de soldadura y corte, en caso de\n                                                                    el apartado 9.2.\n                                  contar con áreas de trabajo,\n                                  espacios confinados, procesos\n                                  (provisionales o en caso de\n                                  mantenimiento) o recipientes\n                                  donde existan polvos, gases o\n                                  vapores inflamables o explosivos\n                                  que representen peligro para los\n                                  trabajadores.\n5.5              Documental   El patrón cumple cuando presenta los Para mayor precisión de los\n                              procedimientos de seguridad para elementos que integran            los\n                              desarrollar   las   actividades   de procedimientos de seguridad para\n                              soldadura y corte.                   desarrollar las actividades de\n                                                                   soldadura y corte, es conveniente\n                                                                   revisar los apartados 10.1, 10.2,\n                                                                   10.3, 10.4, 10.5 y 10.6.\n5.6              Documental   El patrón cumple cuando:\n                              9   Presenta                evidencias\n                                  documentales de que capacitó y\n                                  adiestró a los trabajadores que\n                                  desarrollan    actividades      de\n                                  soldadura y corte, y al supervisor\n                                  que vigila la aplicación de los\n                                  procedimientos de seguridad e\n                                  higiene, o\n                              9   Presenta evidencia de que\n                                  capacitó y adiestró, al menos una\n                                  vez al año, a los trabajadores que\n                                  desarrollan     actividades     de\n                                  soldadura y corte, y al supervisor.\n5.7              Física       El patrón cumple cuando cuenta con Ejemplos de controles específicos\n                              controles    específicos para    las son:\n                              actividades de soldadura y corte en 9 Sistemas de extracción de\n                              recipientes, espacios confinados o      contaminantes o de inyección\n                              subterráneos donde existan polvos,      de aire;\n                              gases o vapores inflamables o\n                              explosivos que representen peligro 9 Equipos autónomos o con línea\n                              para los trabajadores, determinados     de aire, y\n                              de acuerdo al apartado 9.2.               9   Detección de atmósferas no\n                                                                            respirables, inflamables o\n                                                                            explosivas.\n5.8              Documental   El patrón cumple cuando presenta las Para mayor precisión de los datos\n                              autorizaciones que otorga por escrito, que debe contener la autorización,\n                              a los trabajadores que realicen es conveniente revisar el subinciso\n                              actividades de soldadura y corte en 2), del inciso b), del apartado 10.6.\n                              áreas controladas con presencia de\n                              sustancias inflamables o explosivas,\n                              espacios confinados, alturas, sótanos,\n                              subterráneos,    y     aquéllas    no\n\f Viernes 7 de noviembre de 2008               DIARIO OFICIAL                          (Primera Sección)    85\n\n                                  designadas específicamente        para\n                                  estas actividades.\n5.9           Física              El patrón cumple cuando, al realizar\n                                  un recorrido por el centro de trabajo,\n                                  en caso de observar que se realicen\n                                  actividades de soldadura y corte en\n                                  lugares peligrosos (alturas, espacios\n                                  confinados, sótanos, subterráneos,\n                                  áreas controladas con presencia de\n                                  sustancias inflamables o explosivas,\n                                  otros), se constata que existe una\n                                  persona encargada de supervisar\n                                  esas actividades.\n5.10          Documental          El patrón cumple cuando:              Para mayor precisión de los\n                                  9   Presenta el procedimiento de elementos del procedimiento de\n                                      rescate de trabajadores que rescate, es conveniente revisar el\n                                      realizan actividades de soldadura Capítulo 11.\n                                      y corte en alturas, sótanos,\n                                      subterráneos,            espacios\n                                      confinados, recipientes donde\n                                      existan polvos, gases, vapores\n                                      inflamables o explosivos, y\n                                  9   El procedimiento cuenta con los\n                                      elementos establecidos en el\n                                      Capítulo 11.\n5.11          Documental          El patrón cumple cuando:                 Se    consideran   evidencias     de\n                                  9   Presenta evidencia documental cumplimiento los documentos tales\n                                      de que capacitó y adiestró al como programas de capacitación,\n                                      personal asignado para el rescate constancias, reconocimientos o\n                                      con base en el procedimiento de diplomas de cursos recibidos por el\n                                      rescate de trabajadores que personal en esta materia.\n                                      realizan actividades de soldadura También es válido considerar a los\n                                      y corte, establecido en el Capítulo trabajadores que al momento de la\n                                      11, y                               inspección o verificación, según\n                                  9   Presenta evidencia de que sea el caso, estén considerados en\n                                      proporcionó la capacitación y el proceso de capacitación.\n                                      adiestramiento    al  personal\n                                      asignado para el rescate, al\n                                      menos una vez al año.\n5.12          Física              El patrón cumple cuando se constata Ejemplos de materiales y equipo\n                                  que cuenta con materiales y equipo son cuerdas, camillas y equipo de\n                                  para realizar el rescate de los aire autónomo.\n                                  trabajadores accidentados en alturas,\n                                  subterráneos o espacios confinados.\n5.13          Documental          El patrón cumple cuando:                 Son   válidos   documentos      tales\n                                  9   Presenta evidencia documental como programas de capacitación,\n                                      de       la    capacitación     y constancias, reconocimientos o\n                                      adiestramiento       que      se diplomas de cursos recibidos por el\n                                      proporciona a los trabajadores personal en esta materia.\n                                      que realizan el mantenimiento También es válido considerar a los\n                                      preventivo y, en su caso, trabajadores que al momento de la\n                                      correctivo al equipo y maquinaria inspección o verificación, según\n                                      utilizada en las actividades de sea el caso, estén considerados en\n                                      soldadura y corte, y              el proceso de capacitación.\n                                  9   Presenta evidencias de        que\n                                      autoriza a los trabajadores   que\n                                      realizan      actividades      de\n\f       (Primera Sección)                     DIARIO OFICIAL                 Viernes 7 de noviembre de 2008\n\n                                     mantenimiento.\n5.14              Documental   o El patrón cumple cuando:                Son válidos documentos tales\n                  física        9    Proporciona      el   equipo     de como programas de capacitación,\n                                     protección personal descrito en el constancias, reconocimientos o\n                                     inciso c) del Capítulo 8;           diplomas de cursos recibidos por el\n                                                                         personal en esta materia.\n                                9    Proporciona      el   equipo     de\n                                     protección personal adicional, También es válido considerar a los\n                                     determinado de acuerdo al trabajadores que al momento de la\n                                     análisis de riesgos potenciales;    inspección o verificación, según\n                                                                         sea el caso, estén considerados en\n                                9    Presenta evidencias de que el proceso de capacitación.\n                                     proporcionó a los trabajadores\n                                     capacitación     para     el  uso,\n                                     mantenimiento y reemplazo del\n                                     equipo de protección personal.\n5.15              Documental     El patrón cumple cuando:\n                                9    Presenta evidencias de que se\n                                     han practicado los exámenes\n                                     médicos     específicos   a     los\n                                     trabajadores     que      realicen\n                                     actividades de soldadura y corte;\n                                9    Los exámenes médicos se\n                                     practican al menos cada doce\n                                     meses, y queden asentados en el\n                                     expediente médico que para tal\n                                     efecto se tenga del trabajador.\n5.16              Documental     El patrón cumple cuando:               Son válidos documentos tales\n                                9    Presenta los procedimientos para como programas de capacitación,\n                                     brindar la atención a un posible constancias, reconocimientos o\n                                     accidentado       durante      las diplomas de cursos recibidos por el\n                                     actividades de soldadura y corte; personal en esta materia.\n                                9    En caso de haber asignado También es válido considerar a los\n                                     personal para proporcionar los trabajadores que al momento de la\n                                     primeros      auxilios,  presente inspección o verificación, según\n                                     evidencias de que les brindó la sea el caso, estén considerados en\n                                     capacitación y adiestramiento, al el proceso de capacitación\n                                     menos una vez al año, o cuando\n                                     al entrevistar al menos a uno de\n                                     ellos, se corrobore que ha sido\n                                     capacitado para proporcionar los\n                                     primeros auxilios.\n5.17              Física         El patrón cumple cuando cuenta con También es válido que el botiquín\n                                 el botiquín de primeros auxilios en el se encuentre en las áreas\n                                 área donde se desarrollen actividades destinadas para el servicio médico,\n                                 de soldadura y corte, que incluya los siempre y cuando se encuentre\n                                 materiales determinados en el disponible durante el desarrollo de\n                                 análisis de riesgos potenciales.       las actividades de soldadura y\n                                                                        corte.\n5.18              Documental   o El patrón cumple cuando vigila, en\n                  física         caso de que exista personal externo\n                                 realizando actividades de soldadura y\n                                 corte, que cumpla con lo establecido\n                                 por la presente Norma.\n Nota: Las evidencias documentales pueden presentarse impresas o en archivo electrónico.\n\f   Viernes 7 de noviembre de 2008             DIARIO OFICIAL                        (Primera Sección)   87",
+    "start_char": 37208,
+    "end_char": 55184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:13-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "13.3",
+    "label": "13.3 Dictámenes.",
+    "text": "13.3 Dictámenes.",
+    "start_char": 55189,
+    "end_char": 55205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:13-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "13.3.1",
+    "label": "13.3.1 Los dictámenes que emitan las unidades de verificación aprobadas, serán reconocidos por la",
+    "text": "13.3.1 Los dictámenes que emitan las unidades de verificación aprobadas, serán reconocidos por la\nSecretaría del Trabajo y Previsión Social.",
+    "start_char": 55209,
+    "end_char": 55349
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:13-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "13.3.2",
+    "label": "13.3.2 Los dictámenes que emitan las unidades de verificación deben incluir el cumplimiento con esta",
+    "text": "13.3.2 Los dictámenes que emitan las unidades de verificación deben incluir el cumplimiento con esta\nNorma y estar de acuerdo a lo establecido por el Procedimiento para la evaluación de la conformidad de\nnormas oficiales mexicanas expedidas por la Secretaría del Trabajo y Previsión Social, publicado en el Diario\nOficial de la Federación el 20 de octubre de 2006.",
+    "start_char": 55354,
+    "end_char": 55718
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "14",
+    "label": "14. Vigilancia",
+    "text": "14. Vigilancia\n   La vigilancia del cumplimiento de la presente Norma Oficial Mexicana, corresponde a la Secretaría del\nTrabajo y Previsión Social.",
+    "start_char": 55722,
+    "end_char": 55869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "15",
+    "label": "15. Bibliografía",
+    "text": "15. Bibliografía\n   a)   ANSI/ASC Z49.1-1988. Safety in Welding and Cutting American National Standard. Estados Unidos\n        de América.\n   b)   Criteria for Recomended Standard Welding Brazing and Termal Cutting. US Departament of Healt\n        and Human Services. National Institute for Occupational Safety and Health. April 1988. Estados\n        Unidos de América.\n   c)   Tratado de Higiene y Seguridad del Trabajo. Ministerio del Trabajo de España. Instituto Nacional de\n        Prevención.\n   d)   Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo. Publicado en el Diario\n        Oficial de la Federación el 21 de enero de 1997.\n   e)   Ley Federal sobre Metrología y Normalización.\n   f)   Reglamento Federal sobre Metrología y Normalización.\n   g)   Tecnología de los procesos de soldadura; P.T. Houldcroft; Ediciones CEAC.\n   h)   Manual de soldadura con llama; J. González Vázquez; Ediciones CEAC.\n   i)   Soldadura de arco metálico con protección de gas; Mássimo. Piredda-Carai; Editorial LIMUSA.\n   j)   Soldadura; James A. Pender; Ediciones McGraw-Hill.\n   k)   Soldadura; Ediciones Instituto Politécnico Nacional.\n   l)   Procedimiento para la evaluación de la conformidad de normas oficiales mexicanas expedidas por la\n        Secretaría del Trabajo y Previsión Social, publicado en el Diario Oficial de la Federación el 20 de\n        octubre de 2006.",
+    "start_char": 55873,
+    "end_char": 57260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-027-stps-2008:clause:16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-027-stps-2008",
+    "number": "16",
+    "label": "16. Concordancia con normas internacionales",
+    "text": "16. Concordancia con normas internacionales\n   Esta Norma no concuerda con ninguna norma internacional por no existir referencia alguna al momento de\nsu elaboración.",
+    "start_char": 57264,
+    "end_char": 57429
+  }
+]

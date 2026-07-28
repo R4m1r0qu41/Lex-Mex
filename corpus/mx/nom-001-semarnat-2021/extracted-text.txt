@@ -1,0 +1,1180 @@
+                                                  DIARIO OFICIAL                      Viernes 11 de marzo de 2022
+
+
+ SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
+NORMA Oficial Mexicana NOM-001-SEMARNAT-2021, Que establece los límites permisibles de contaminantes
+en las descargas de aguas residuales en cuerpos receptores propiedad de la nación.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Medio
+Ambiente y Recursos Naturales.
+    TONATIUH HERRERA GUTIÉRREZ, Subsecretario de Fomento y Normatividad Ambiental de la
+Secretaría de Medio Ambiente y Recursos Naturales y Presidente del Comité Consultivo Nacional de
+Normalización de Medio Ambiente y Recursos Naturales, con fundamento en lo dispuesto por los artículos 4o.
+párrafos quinto y sexto, de la Constitución Política de los Estados Unidos Mexicanos; 32 Bis, fracciones I, IV y
+V de la Ley Orgánica de la Administración Pública Federal; 5o., fracciones V y XI; 36, fracciones I y II; 37, 37
+TER, 117, fracciones I, IV y V, 118, fracciones I y II; 119 y 123 de la Ley General del Equilibrio Ecológico y la
+Protección al Ambiente; 1, 2, 7, fracciones V y VII, 85, 86, fracciones I, III, IV y V; 88, 88 Bis, 92, fracciones II y
+IV; 113 y 119, fracciones I y II de la Ley de Aguas Nacionales; 38, fracción II, 40, fracción X, 41, 47, fracción
+IV, 51 párrafo primero y 73 de la Ley Federal sobre Metrología y Normalización; 34 del Reglamento de la Ley
+Federal sobre Metrología y Normalización; Cuarto Transitorio de la Ley de Infraestructura de la Calidad; 133,
+134, 135 y 139 del Reglamento de la Ley de Aguas Nacionales, 8, fracciones III, IV y V del Reglamento
+Interior de la Secretaría de Medio Ambiente y Recursos Naturales y
+                                                CONSIDERANDO
+    Que la Constitución Política de los Estados Unidos Mexicanos en el párrafo quinto de su artículo 4o.
+establece que toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El daño y
+deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la Ley.
+Asimismo, en el párrafo sexto del mismo artículo, establece que toda persona tiene derecho al acceso,
+disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre,
+aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades
+para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la
+Federación, las entidades federativas y los municipios, así como la participación de la ciudadanía para la
+consecución de dichos fines.
+    Que la Ley General del Equilibrio Ecológico y la Protección al Ambiente en su artículo 117 establece como
+criterios: que la prevención y control de la contaminación del agua es fundamental para evitar que se reduzca
+su disponibilidad y para proteger los ecosistemas del país, que las aguas residuales de origen urbano deben
+recibir tratamiento previo a su descarga en ríos, cuencas, vasos, aguas marinas y demás depósitos o
+corrientes de agua, incluyendo las aguas del subsuelo y que la participación y corresponsabilidad de la
+sociedad es condición indispensable para evitar la contaminación del agua. Asimismo, en su artículo 118
+fracciones I y II se establece que los criterios referidos serán considerados en la expedición de normas
+oficiales mexicanas para el uso, tratamiento y disposición de aguas residuales, para evitar riesgos y daños a
+la salud pública.
+    Que la Ley General del Equilibrio Ecológico y la Protección al Ambiente en su artículo 123 establece que
+todas las descargas en las redes colectoras, ríos, acuíferos, cuencas, cauces, vasos, aguas marinas y demás
+depósitos o corrientes de agua y los derrames de aguas residuales en los suelos o su infiltración en terrenos,
+deberán satisfacer las normas oficiales mexicanas que para tal efecto se expidan, y en su caso, las
+condiciones particulares de descarga que determine la Secretaría o las autoridades locales. Corresponderá a
+quien genere dichas descargas, realizar el tratamiento previo requerido.
+    Que la Ley de Aguas Nacionales, prevé en su Artículo 85 que las personas físicas o morales, incluyendo
+las dependencias, organismos y entidades de los tres órdenes de gobierno, que exploten, usen o aprovechen
+aguas nacionales en cualquier uso o actividad, serán responsables de realizar las medidas necesarias para
+prevenir su contaminación y en su caso, para reintegrar las aguas referidas en condiciones adecuadas, a fin
+de permitir su explotación, uso o aprovechamiento posterior y mantener el equilibrio de los ecosistemas
+vitales. En consecuencia, establece en su Artículo 88 BIS fracción II que dichas personas deben tratar las
+aguas residuales previamente a su vertido a los cuerpos receptores, cuando sea necesario para cumplir con lo
+dispuesto en el permiso de descarga correspondiente y en las normas oficiales mexicanas.
+    Que el Plan Nacional de Desarrollo 2019-2024, en el párrafo seis del Epílogo: Visión de 2024 “se habrá
+garantizado la preservación integral de la flora y de la fauna, se habrá reforestado buena parte del territorio
+nacional y ríos, arroyos y lagunas estarán recuperados y saneados; el tratamiento de aguas negras y el
+manejo adecuado de los desechos serán prácticas generalizadas en el territorio nacional y se habrá
+expandido en la sociedad la conciencia ambiental y la convicción del cuidado del entorno”.
+    Que con fecha 6 de enero de 1997, fue publicada en el Diario Oficial de la Federación, la Norma Oficial
+Mexicana “NOM-001-ECOL-1996, Que establece los límites máximos permisibles de contaminantes en las
+descargas de aguas residuales en aguas y bienes nacionales”., misma que cambió de nomenclatura de
+conformidad con el “ACUERDO por el cual se reforma la nomenclatura de las normas oficiales mexicanas
+expedidas por la Secretaría de Medio Ambiente y Recursos Naturales, así como la ratificación de las mismas
+para su revisión quinquenal”, que fue publicado el 23 de abril de 2003 en el Diario Oficial de la Federación,
+   Viernes 11 de marzo de 2022                DIARIO OFICIAL
+
+para quedar como “NOM-001-SEMARNAT-1996. Que establece los límites máximos permisibles de
+contaminantes en las descargas de aguas residuales en aguas y bienes nacionales”.
+     Que la NOM-001-SEMARNAT-1996 estableció un cumplimiento gradual y progresivo conforme a los
+rangos de población para las descargas municipales y conforme a la carga contaminante expresada como
+demanda bioquímica de oxígeno5 (DBO5) o sólidos suspendidos totales (SST) para las descargas no
+municipales, cuyas fechas límite de cumplimiento vencieron para todos los casos el 1 de enero de 2010.
+     Que se requiere actualizar el listado de las Normas Mexicanas para el muestreo y análisis de los
+parámetros que se establecen como referencia para la aplicación de la presente norma, en virtud de que
+varias de las señaladas en la norma vigente han sido canceladas o modificadas.
+     Que se requiere modificar la clasificación de los cuerpos receptores y el enfoque de usos posteriores,
+señalados en las tablas 2 y 3 de la norma vigente para mejorar la gestión y la protección de los cuerpos de
+agua.
+     Que con base en los resultados de la Red Nacional de Medición de Calidad del Agua (RNMCA)
+(http://sina.conagua.gob.mx/sina/tema.php?tema=calidadAgua&ver=reporte&o=1&n=nacional),            se       ha
+identificado que al medir la calidad del agua de los cuerpos receptores con los parámetros habitualmente
+utilizados como es la DBO5, hay un subregistro del nivel de contaminación del agua, ya que la prueba no es
+capaz de detectar contaminantes orgánicos no biodegradables ni tóxicos presentes en los cuerpos de agua,
+provenientes de descargas como los efluentes de la plantas de tratamiento de aguas residuales, por lo que es
+necesaria la utilización de parámetros DQO, toxicidad y color que tienen mayor capacidad de detección de
+contaminantes y por lo mismo ofrecen mejores resultados para tipificar la contaminación del agua con el
+objeto de controlarla y reducirla.
+     Que el volumen y la concentración de las cargas contaminantes en los cuerpos receptores han aumentado
+derivado del crecimiento poblacional y de las actividades económicas, por lo que hace necesaria la
+modificación de los límites permisibles de contaminantes en las descargas de aguas residuales en cuerpos
+receptores para su conservación.
+     Que los humedales en general (incluidos los Humedales de la Convención RAMSAR de Importancia
+Internacional o sitios RAMSAR, misma que ha sido ratificada por el estado mexicano,
+https://www.gob.mx/semarnat/acciones-y-programas/convencion-sobre-los-humedales-de-importancia-
+internacional-especialmente-como-habitat-de-aves-acuaticas-ramsar), son un eslabón básico e insustituible
+del ciclo del agua y estratégicos para nuestro país por su riqueza biológica y los servicios ambientales que
+proveen. Son vulnerables a la contaminación proveniente de las descargas de aguas residuales, la cual causa
+pérdida de hábitat, erosión, sedimentación e introducción de especies exóticas. Los humedales son aguas
+superficiales o de poca profundidad y baja capacidad de dilución por lo que requieren condiciones particulares
+de descarga.
+     Que los ecosistemas cársticos tienen un elevado valor de uso por su contribución en el abastecimiento de
+agua, por sus formaciones naturales características que los hacen atractivos para la actividad turística
+proveyendo empleo e ingresos para la población local y por constituir un hábitat de flora y fauna endémicas.
+Sin embargo, la característica permeable y de rápida filtración de sus rocas hace que este ecosistema sea
+muy vulnerable a la contaminación proveniente de las descargas de aguas residuales y a la contaminación
+directa de los acuíferos.
+     Que para medir la carga orgánica contaminante en aguas con una concentración mayor a 1000 mg/L de
+cloruros, se debe utilizar el parámetro de Carbono Orgánico Total en sustitución de la Demanda Química de
+Oxígeno, ya que la salinidad interfiere en la determinación de la Demanda Química de Oxígeno, por lo que
+esta sustitución para dichos casos permite obtener resultados más confiables y que caracterizan mejor a la
+descarga de aguas residuales.
+     Que a efecto de que los responsables de las descargas de aguas residuales estén en condiciones de
+determinar la frecuencia de muestreo y análisis, así como del informe de resultados, para estar en
+concordancia con la Tabla 1 de la presente norma, en la que se incorporó el parámetro Carbono Orgánico
+Total aplicable en su análisis para aquellas descargas que presenten concentraciones mayores a 1000 mg/L
+de cloruros, es que se prevé este parámetro en la Tabla 4 como elemento para realizar dicha determinación.
+     Que a fin de dar mayor claridad y separar las especificaciones respecto a la metodología para el cálculo
+de promedio diario y mensual contenidas en el apartado de definiciones en la norma vigente, se reubican las
+mismas en el apartado de muestreo de la presente norma. Asimismo, se incluye la especificación para el
+cálculo de promedio diario de los parámetros Escherichia coli y Enterococos fecales.
+     Que se requieren especificaciones claras que definan una estructura que permita la colocación del equipo
+y material mínimo necesario para colectar las muestras de agua residual y con ello seguir las mejores
+prácticas de muestreo, al contar con las condiciones que permitan utilizar de forma adecuada el equipo y
+material para la toma de las muestras y mediciones en campo, así como para la preservación de la integridad
+de la muestra; y de la seguridad del signatario autorizado, además de definir un punto fijo de muestreo para
+cualquier proceso de verificación y proporcionar un acceso seguro a la descarga que se va a muestrear,
+generando certeza de que la muestra sea representativa y que pueda repetirse en cualquier momento con los
+mismos efectos y procesos para determinar las concentraciones de los parámetros previstos en la presente
+norma.
+                                               DIARIO OFICIAL                    Viernes 11 de marzo de 2022
+
+   Que la toxicidad es un parámetro integrador que señala que existen elementos, sustancias reguladas o no
+reguladas, o mezclas de ellas en una descarga que pueden provocar daños a la salud humana o al medio
+ambiente. Así, la medición de la toxicidad en las descargas de aguas residuales es muy importante como un
+medio de alerta para prevenir los riesgos ambientales y evitar análisis de una gran cantidad de sustancias que
+actualmente son vertidas a los cuerpos de agua sin estar caracterizadas ni normada, por lo anterior se
+requiere medirlo en descargas.
+    Que la expresión color debe considerar el concepto de “color verdadero”, esto es, el color del agua de la
+cual se ha eliminado la turbiedad, y que las estructuras químicas de las moléculas de colorantes resisten la
+exposición solar o el ataque químico, por lo que, en la mayoría de los casos, resultan también resistentes a la
+degradación microbiana. Se ha demostrado que ciertos colorantes pueden ser carcinogénicos y mutagénicos,
+además de que sus productos de degradación pueden resultar más tóxicos. El color en el agua resulta de la
+presencia en solución de diferentes sustancias como iones metálicos naturales, humus y materia orgánica
+disuelta. La expresión color se debe considerar que define el concepto de “color verdadero”, esto es, el color
+del agua de la cual se ha eliminado la turbiedad y que el término “color aparente” engloba no sólo el color
+debido a sustancias disueltas sino también a las materias en suspensión y se determina en la muestra original
+sin filtrarla o centrifugar y que más de diez mil diferentes tipos de pigmentos y colorantes sintéticos son
+usados en industrias como la textil, papelera, cosmética y farmacéutica, entre otras, y que muchas actividades
+industriales liberan al ambiente grandes cantidades de aguas residuales contaminadas con colorantes. La
+principal fuente emisora de colorantes es la industria textil.
+    Que se requiere establecer un procedimiento para la evaluación de la conformidad de la presente norma
+cuando para fines oficiales se requiera comprobar el cumplimiento de la misma, de conformidad con el
+Artículo 73 de la Ley Federal sobre Metrología y Normalización.
+    Que la publicación a consulta pública del Proyecto de Modificación de la Norma Oficial Mexicana NOM-
+001-SEMARNAT-1996, Que establece los límites máximos permisibles de contaminantes en las descargas de
+aguas residuales en aguas y bienes nacionales para quedar como proyecto de modificación de la Norma
+Oficial Mexicana PROY-NOM-001-SEMARNAT-2017, Que establece los límites permisibles de contaminantes
+en las descargas de aguas residuales en cuerpos receptores propiedad de la nación”, fue aprobada por el
+Comité Consultivo Nacional de Normalización de Medio Ambiente y Recursos Naturales, en sesión celebrada,
+el día 19 de diciembre de 2017, a efecto de que, de conformidad con el artículo 47, fracción I, de la Ley
+Federal sobre Metrología y Normalización, los interesados en el tema, dentro de los 60 días naturales
+siguientes de la fecha de su publicación en el Diario Oficial de la Federación, presenten sus comentarios ante
+el citado Comité, sito en Av. Ejército Nacional No. 223, Piso 16, Colonia Anáhuac, C.P. 11320, Del. Miguel
+Hidalgo, Ciudad de México, o al correo electrónico aguas.residuales@semarnat.gob.mx
+    Que durante el plazo de sesenta días naturales el Análisis de Impacto Regulatorio a que se refiere el
+artículo 45 de la Ley Federal sobre Metrología y Normalización, estuvo a disposición del público para su
+consulta en el domicilio del Comité antes señalado.
+     Que las respuestas a los comentarios recibidos durante el periodo de consulta pública fueron publicadas el
+21 de febrero de 2022, en el Diario Oficial de la Federación, en apego a lo dispuesto en el artículo 47 fracción
+III de la Ley Federal sobre Metrología y Normalización.
+    Que, habiéndose cumplido el procedimiento establecido en la Ley Federal sobre Metrología y
+Normalización para la elaboración de normas oficiales mexicanas, el Comité Consultivo Nacional de
+Normalización de Medio Ambiente y Recursos Naturales aprobó la presente Norma Oficial Mexicana como
+definitiva, en su Primera Sesión Extraordinaria celebrada el día 27 de agosto de 2021.
+    Que el 01 de julio de 2020 se publicó en el Diario Oficial de la Federación la Ley de Infraestructura de la
+Calidad, misma que en su artículo Segundo Transitorio abroga la Ley Federal sobre Metrología y
+Normalización, pero en su artículo Cuarto Transitorio establece que las Propuestas, Anteproyectos y
+Proyectos de Normas Oficiales Mexicanas y Estándares que a la fecha de la entrada en vigor de la citada Ley
+se encuentren en trámite y no hayan sido publicados deberán ajustarse a lo dispuesto en dicha Ley, su
+Reglamento y demás disposiciones secundarias vigentes al momento de su presentación y hasta su
+conclusión; por lo tanto, toda vez que el presente instrumento normativo se encontraba incorporado al
+Programa Nacional de Normalización 2020 publicado en el Diario Oficial de la Federación el 17 de febrero del
+año 2020, y se mantiene como tema Reprogramado en el Programa Nacional de Infraestructura de la Calidad
+publicado en el Diario Oficial de la Federación el 25 de febrero del 2021, con fundamento en los citados
+artículos Transitorios de la Ley de Infraestructura de la Calidad deberá ajustarse a lo dispuesto por la Ley
+Federal sobre Metrología y Normalización y su Reglamento hasta su conclusión.
+   Que de conformidad con lo establecido en el artículo 28 fracción II, inciso d) del Reglamento de la Ley
+Federal sobre Metrología y Normalización, el año de la clave de esta norma oficial mexicana, cambia a 2021,
+debido a que el instrumento regulatorio se presentó ante el Comité Consultivo Nacional de Normalización de
+Medio Ambiente y Recursos Naturales para aprobación en el presente año.
+   Viernes 11 de marzo de 2022                 DIARIO OFICIAL
+
+   Por lo expuesto y fundado, he tenido a bien expedir la siguiente:
+     NORMA OFICIAL MEXICANA NOM-001-SEMARNAT-2021, QUE ESTABLECE LOS LÍMITES
+  PERMISIBLES DE CONTAMINANTES EN LAS DESCARGAS DE AGUAS RESIDUALES EN CUERPOS
+                       RECEPTORES PROPIEDAD DE LA NACIÓN
+                                                 PREFACIO
+   En la elaboración de la presente Norma Oficial Mexicana que preside el Comité Consultivo Nacional de
+Normalización de Medio Ambiente y Recursos Naturales, participaron los siguientes organismos:
+   1.    Comisión Nacional del Agua (CONAGUA)
+            Subdirección General de Administración del Agua
+            Subdirección General de Agua Potable, Drenaje y Saneamiento
+            Subdirección General Jurídica
+            Subdirección General Técnica
+            Coordinación General de Recaudación y Fiscalización
+   2.    Comisión Federal para la Protección contra Riesgos Sanitarios (COFEPRIS)
+            Comisión de Evidencia y Manejo de Riesgos
+   3.    Instituto Mexicano de Tecnología del Agua (IMTA)
+            Coordinación de tratamiento y calidad del agua
+   4.    Instituto Nacional de Ecología y Cambio Climático (INECC)
+   5.    Procuraduría Federal de Protección al Ambiente (PROFEPA)
+            Subprocuraduría de Auditoría Ambiental
+            Subprocuraduría de Inspección Industrial
+            Subprocuraduría Jurídica
+            Dirección General de Asistencia Técnica Industrial
+            Dirección General de Control de Procedimientos Administrativos y Consulta
+            Dirección General de Impacto Ambiental y Zona Federal Marítimo Terrestre
+            Dirección General de Inspección de Fuentes de Contaminación
+   6.    Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT)
+            Dirección General del Sector Primario y Recursos Naturales Renovables
+                                                   ÍNDICE
+   1.    OBJETIVO Y CAMPO DE APLICACIÓN
+   2.    REFERENCIAS NORMATIVAS
+   3.    TÉRMINOS Y DEFINICIONES
+   4.    ESPECIFICACIONES
+   5.    MÉTODOS DE PRUEBA
+   6.    MUESTREO
+   7.    PROCEDIMIENTO PARA LA EVALUACIÓN DE LA CONFORMIDAD
+   8.    CONCORDANCIA CON NORMAS INTERNACIONALES
+   9.    BIBLIOGRAFÍA
+   10.   OBSERVANCIA DE ESTA NORMA
+         TRANSITORIOS
+         APÉNDICE NORMATIVO: PUERTOS DE MUESTREO
+   1. Objetivo y campo de aplicación
+   La Norma Oficial Mexicana tiene por objeto establecer los límites permisibles de contaminantes en las
+descargas de aguas residuales, con el fin de proteger, conservar y mejorar la calidad de las aguas y bienes
+nacionales.
+    Es de observancia obligatoria para los responsables de las descargas de aguas residuales en cualquier
+tipo de cuerpo receptor propiedad de la Nación.
+   La Norma no aplica a las descargas de aguas provenientes de drenajes destinados exclusivamente para
+aguas pluviales ni a las descargas que se vierten directamente a sistemas de drenaje y alcantarillado
+municipales.
+                                               DIARIO OFICIAL                    Viernes 11 de marzo de 2022
+
+    2. Referencias normativas
+    Los siguientes documentos referidos o los que los sustituyan, son necesarios para la correcta aplicación
+de esta Norma Oficial Mexicana.
+    2.1. Norma Mexicana NMX-AA-003-1980, Aguas residuales-Muestreo (cancela a la NMX-AA-003-1975).
+Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 25 de marzo de 1980.
+    2.2. Norma Mexicana NMX-AA-005-SCFI-2013, Análisis de agua-Medición de grasas y                     aceites
+recuperables en aguas naturales, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-
+005-SCFI-2000). Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 11 de abril de
+2014.
+    2.3. Norma Mexicana NMX-AA-007-SCFI-2013, Análisis de agua-Medición de la temperatura en aguas
+naturales, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-007-SCFI-2000).
+Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 23 de enero de 2014.
+    2.4. Norma Mexicana NMX-AA-008-SCFI-2016 Análisis de agua-Medición de pH en aguas naturales,
+residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-008-SCFI-2011). Declaratoria de
+vigencia publicada en el Diario Oficial de la Federación el 9 de septiembre de 2016.
+    2.5. Norma Mexicana NMX-AA-017-1980, Aguas-Determinación de color (cancela a la NMX-AA-017-1975).
+Declaratoria de vigencia publicada en Diario Oficial de la Federación el 11 de julio de 1980.
+    2.6. Norma Mexicana NMX-AA-026-SCFI-2010, Análisis de agua-Medición de Nitrógeno Total Kjeldahl en
+aguas naturales, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-026-SCFI-2001).
+Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 3 de marzo de 2011.
+    2.7. Norma Mexicana NMX-AA-029-SCFI-2001, Análisis de aguas-Determinación de fósforo total en aguas
+naturales, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-029-1981). Declaratoria
+de vigencia publicada en el Diario Oficial de la Federación el 17 de abril de 2001.
+    2.8. Norma Mexicana NMX-AA-030/1-SCFI-2012, Análisis de Agua-Medición de la demanda química de
+oxígeno en aguas naturales, residuales y residuales tratadas. -Método de prueba-parte 1-Método de reflujo
+abierto (cancela a la NMX-AA-030-SCFI-2001). Declaratoria de vigencia publicada en el Diario Oficial de la
+Federación el 21 de mayo del 2013.
+    2.9. Norma Mexicana NMX-AA-030/2-SCFI-2011, Análisis de Agua-Determinación de la demanda química
+de oxígeno en aguas naturales, residuales y residuales tratadas-Método de prueba-parte 2-Determinación del
+índice de la demanda química de oxígeno-Método de tubo sellado a pequeña escala. Declaratoria de vigencia
+publicada en el Diario Oficial de la Federación el 27 de junio de 2013.
+    2.10. Norma Mexicana NMX-AA-034-SCFI-2015, Análisis de agua–Medición de sólidos y sales disueltas
+en agua naturales, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-034-SCFI-2001).
+Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 18 de abril de 2016.
+    2.11. Norma Mexicana NMX-AA-042-SCFI-2015, Análisis de agua-Enumeración de organismos coliformes
+totales, organismos coliformes fecales (termotolerantes) y escherichia coli-Método del número más probable
+en tubos múltiples (cancela a la NMX-AA-42-1987). Declaratoria de vigencia publicada en Diario Oficial de la
+Federación el 18 de abril de 2016.
+    2.12. Norma Mexicana NMX-AA-051-SCFI-2016 Análisis de agua-Medición de metales por absorción
+atómica en aguas naturales, potables, residuales y residuales tratadas–Método de prueba (cancela a la NMX-
+AA-051-2001). Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 7 de diciembre de
+2016.
+    2.13. Norma Mexicana NMX-AA-058-SCFI-2001, Análisis de aguas-Determinación de cianuros totales en
+aguas naturales, potables, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-058-
+1982). Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 13 de agosto de 2001.
+    2.14 Norma Mexicana NMX-AA-073-SCFI-2001, Análisis de agua-Determinación de cloruros totales en
+aguas naturales, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-073-1981).
+Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 13 de agosto de 2001.
+    2.15. Norma Mexicana NMX-AA-079-SCFI-2001, Análisis de aguas-Determinación de nitratos en aguas
+naturales, potables, residuales y residuales tratadas-Método de prueba (cancela a la NMX-AA-079-1986).
+Declaratoria de vigencia publicada en el Diario Oficial de la Federación del 13 de agosto de 2001.
+    2.16. Norma Mexicana NMX-AA-093-SCFI-2018 Análisis de agua-Medición de la conductividad eléctrica
+en aguas naturales, residuales y residuales tratadas.-Método de prueba (cancela a la NMX-AA-093-SCFI-
+2000). Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 26 de julio de 2018.
+    2.17. Norma Mexicana NMX-AA-099-SCFI-2006, Análisis de Agua-Determinación de nitrógeno de nitritos
+en aguas naturales y residuales-Métodos de prueba (cancela a la NMX-AA-099-SCFI-1987). Declaratoria de
+vigencia 21 de agosto 2006.
+    2.18. Norma Mexicana NMX-AA-112-SCFI-2017 Análisis de agua y Sedimentos-Evaluación de Toxicidad
+Aguda con Vibrio Fischeri-Método de prueba (Cancela a la NMX-AA-112-1995-SCFI). Declaratoria de vigencia
+publicada en el Diario Oficial de la Federación el 19 de octubre de 2017.
+   Viernes 11 de marzo de 2022                 DIARIO OFICIAL
+
+     2.19. Norma Mexicana NMX-AA-113-SCFI-2012, Análisis de agua-Medición del número de huevos de
+helminto en aguas residuales y residuales tratadas por observación microscópica-Método de prueba (cancela
+a la NMX-AA-113-SCFI-1999). Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 9 de
+abril de 2013.
+     2.20. Norma Mexicana NMX-AA-120-SCFI-2016 Que establece los requisitos y especificaciones de
+sustentabilidad de calidad de playas (cancela a la NMX-AA-120-SCFI-2006). Apéndice normativo B, Método
+de referencia "Sustrato cromogénico definido y fluorogénico para determinar Enterococos en agua".
+Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 7 de diciembre de 2016.
+     2.21. Norma Mexicana NMX-AA-167-SCFI-2017. Análisis de Agua-Enumeración de                     Organismos
+Patógenos: Enterococos Fecales en Aguas Naturales, Residuales, Residuales Tratadas, Salinas y Costeras–
+Método de Prueba. Declaratoria de vigencia publicada en el Diario Oficial de la Federación el 8 de junio de
+2017.
+     Las determinaciones de Conductividad eléctrica para Enterococos fecales o Escherichia coli, y de Cloruros
+para DQO o COT no requieren la acreditación y aprobación de la entidad correspondiente.
+     2.22. ISO 7887 Third edition 2011-12-15. Water quality-Examination and determination of colour. Method
+B: Determination of the true colour using optical instruments, en los numerales de la NOM-001-SEMARNAT-
+2021 que resulten aplicables.
+     3. Términos y definiciones
+     Para los efectos de esta Norma se consideran las definiciones contenidas en la Ley General del Equilibrio
+Ecológico y la Protección al Ambiente, la Ley de Aguas Nacionales y su Reglamento, la Ley Federal de
+Derechos y la Ley Federal sobre Metrología y Normalización y su Reglamento, así como las siguientes:
+     3.1. Acta Circunstanciada:
+     Documento que emite la Comisión, la Procuraduría o la Unidad de Verificación en el que se harán constar
+en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia.
+     3.2. Aguas pluviales: Aquellas que precipitan de la atmósfera de forma natural, ya sea en forma de
+lluvias, nieve y/o granizo.
+     3.3 Carbono Orgánico Total: Es un indicador de la materia orgánica presente en el agua; también es
+conocido como la diferencia del carbono total menos el carbono inorgánico en una sola masa; y se conforma
+de las distintas fracciones como Carbono Orgánico Disuelto, Carbono Orgánico Purgable, Carbono Orgánico
+Suspendido, y Carbono Orgánico No Purgable.
+     3.4. Cianuros: Se refiere a todos los grupos CN- en compuestos cianurados que pueden ser
+determinados como ion cianuro.
+     3.5. Color verdadero: Es el color de la muestra debido a sustancias en forma disuelta, se mide en la
+muestra una vez que se eliminaron los sólidos suspendidos y pseudocoloidales para ello la muestra será
+filtrada o centrifugada.
+     3.6. Comisión: Comisión Nacional del Agua.
+     3.7. Concentración Efectiva Media (CE50): Concentración en la que una sustancia, materiales o mezcla
+de ellos, en forma pura o combinados en muestras ambientales o de proceso, genere efectos o cambios
+adversos en el 50% de los organismos de prueba expuestos o en el parámetro biológico seleccionado para
+evaluar el efecto tóxico.
+     3.8. Contaminantes patógenos y parasitarios: Son aquellos microorganismos, quistes y huevos de
+parásitos que pueden estar presentes en las aguas residuales y que representan un riesgo a la salud humana,
+flora o fauna. En lo que corresponde a esta Norma Oficial Mexicana sólo se consideran Escherichia coli,
+Enterococos fecales y los huevos de helmintos.
+     3.9. Coordenadas geográficas: Sistema de referencia que permite localizar un punto en la superficie de
+la tierra y que emplea para ello dos coordenadas angulares, Latitud (norte) y Longitud (oeste), expresadas en
+grados sexagesimales en sus tres componentes (Grados (°), minutos (´) y segundos (”)) y referenciadas al
+Datum WGS84.
+     3.10. Demanda Química de Oxígeno (DQO): La medida del oxígeno consumido por la oxidación de la
+materia orgánica e inorgánica en una prueba específica.
+     3.11. Dictamen de conformidad: Documento emitido por la Procuraduría, o la Unidad de Verificación o
+por la Comisión que avala el cumplimiento de la presente Norma.
+     3.12. Dren: Una estructura artificial destinada al transporte de aguas nacionales y que se encuentra
+abierta a la atmósfera.
+     3.13. Embalse: Vaso de formación artificial que se origina por la construcción de un bordo o cortina o vaso
+de formación natural, ambos alimentados por uno o varios ríos, o por agua subterránea o pluvial.
+     3.14. Emergencia hidroecológica: Es un evento súbito e inesperado de evolución rápida que altera la
+calidad de un cuerpo de agua nacional y que pone en peligro la salud o la vida en el ecosistema acuático.
+                                                DIARIO OFICIAL                     Viernes 11 de marzo de 2022
+
+    3.15. Entidad de acreditación: Persona moral autorizada en los términos de la Ley Federal sobre
+Metrología y Normalización para reconocer la competencia técnica y confiabilidad de los organismos de
+certificación, de los laboratorios de prueba, de los laboratorios de calibración y de las unidades de verificación
+para evaluar la conformidad.
+    3.16. Estuario: Es el tramo del curso o corriente de agua bajo la influencia de las mareas que se extiende
+desde la línea de costa hasta el punto donde la concentración de cloruros en el agua es igual o mayor a 250
+mg/L.
+    3.17. Fósforo Total: Suma de las concentraciones de fosfatos (ortofosfatos, fosfatos condensados, otros
+polifosfatos, y fosfatos orgánicos).
+    3.18. Grasas y Aceites: Son los compuestos orgánicos constituidos principalmente por ácidos grasos de
+origen animal y vegetal, así como de hidrocarburos del petróleo que son extraídos de la muestra utilizando
+hexano como solvente.
+    3.19. Infiltración: Acción de introducir aguas residuales tratadas a través del suelo, siempre y cuando su
+fin no sea la recarga del acuífero de manera directa.
+    3.20. Informe de resultados de muestreo y análisis: Aquél que realiza un laboratorio acreditado y
+aprobado, ya sea en forma física y/o en sistema electrónico que para tal efecto determine la Comisión, en el
+cual informará el resultado de los análisis realizados en las descargas de aguas residuales.
+    3.21. Interesado: Persona física o moral legalmente establecida quien solicita voluntariamente la
+evaluación de la conformidad de su descarga de aguas residuales con respecto a la presente Norma.
+    3.22. Laboratorio: Laboratorio de ensayo o prueba acreditado por una entidad de acreditación y aprobado
+por la Comisión para la realización de muestreos y análisis a que se refiere esta Norma.
+    3.23. Lago y laguna: Vaso de formación natural o cualquier otro tipo de embalse natural que es
+alimentado por uno o varios ríos o agua subterránea o pluvial. En este concepto no se incluye a las lagunas
+que se comuniquen permanente o intermitentemente con el mar.
+    3.24. Ley: Ley de Aguas Nacionales (LAN).
+    3.25. Límite permisible: Valor o intervalo de valores asignado a un parámetro, el cual no debe ser
+excedido en las aguas residuales descargadas en cuerpos receptores propiedad de la Nación.
+    3.26. Metales: Es la suma de las concentraciones de cada uno de los elementos en sus diferentes formas
+(en solución o disueltos y en suspensión). Para fines de esta norma se consideran los siguientes: Arsénico,
+Cadmio, Cobre, Cromo, Mercurio, Níquel, Plomo y Zinc.
+    3.27. Muestra compuesta: La que resulta de mezclar el número de muestras simples, según lo indicado
+en la Tabla 5. Para conformar la muestra compuesta, el volumen de cada una de las muestras simples deberá
+ser proporcional al caudal de la descarga en el momento de su colecta.
+    3.28. Muestra simple: La que se colecta por el signatario autorizado en el punto señalado en el permiso
+de descarga, en día normal de operación que refleje cuantitativa y cualitativamente el o los procesos más
+representativos de las actividades que generan la descarga, durante el tiempo necesario para completar
+cuando menos un volumen suficiente para que se lleven a cabo los análisis necesarios para conocer su
+composición, aforando el caudal descargado en el sitio y en el momento del muestreo.
+    3.29. Muestreo: Es el procedimiento mediante el cual un signatario autorizado colecta un volumen de
+agua residual descargado por el responsable de la descarga a un cuerpo receptor propiedad de la Nación
+necesario para poder realizar los análisis ya sea en campo o en laboratorio según corresponda a los
+parámetros contenidos en esta Norma Oficial Mexicana.
+    3.30. Nitrógeno Total: Suma de las concentraciones de nitrógeno total Kjeldahl, nitrógeno de nitritos y
+nitrógeno de nitratos.
+    3.31. Parámetro: Variable que se utiliza como referencia para determinar la calidad física, química y/o
+biológica del agua.
+    3.32. Parámetros básicos: En lo que corresponde a esta Norma Oficial Mexicana se consideran los
+siguientes: grasas y aceites, sólidos suspendidos totales, demanda química de oxígeno, carbono orgánico
+total, nitrógeno total (suma de las concentraciones de nitrógeno total Kjeldahl, de nitritos y de nitratos,
+expresadas como mg/L de nitrógeno), fósforo total, temperatura y pH.
+    3.33. pH: Concentración de iones Hidrógeno expresada como logaritmo negativo que representa la acidez
+o alcalinidad del agua.
+    3.34. Procuraduría: Procuraduría Federal de Protección al Ambiente (PROFEPA).
+    3.35. Promedio Diario (P.D.): Es el valor que resulta del análisis de una muestra compuesta o el resultado
+del promedio ponderado en función del caudal o de la media geométrica o del promedio aritmético, según
+corresponda al parámetro conforme a esta Norma Oficial Mexicana.
+    3.36. Promedio Mensual (P.M.): Es el valor que resulta de calcular el promedio ponderado en función del
+caudal de los valores que resulten del análisis de al menos dos muestras compuestas (Promedio Diario)
+colectadas en un mismo mes calendario. Los caudales que se deben considerar para el citado promedio
+ponderado serán el resultado del promedio aritmético de los caudales de las muestras simples que conforman
+cada una de las muestras compuestas.
+   Viernes 11 de marzo de 2022                 DIARIO OFICIAL
+
+    3.37. Riego: Es la utilización del agua residual destinada a la superficie de terrenos de cultivos,
+esparcimiento o circulación peatonal, conformada por pastos, arbustos y otros elementos complementarios,
+exceptuando aquellos supuestos considerados en la NOM-003-SEMARNAT-1997.
+    3.38. Secretaría: Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT).
+    3.39. Signatario Autorizado: Es la persona autorizada por una Entidad de Acreditación, para realizar el
+muestreo, firmar y aprobar los informes de ensayo, emitido por el laboratorio.
+    3.40. Sólidos Suspendidos Totales: Concentración de partículas que son retenidas en un medio filtrante
+de microfibra de vidrio, con un diámetro de poro de 1.5 micrómetros.
+    3.41. Suelo: Cuerpo receptor de descargas de aguas residuales por riego o infiltración.
+    3.42. Suelo cárstico: Aquel de formación caliza, caracterizado por rocas carbonatadas y sulfatadas
+(calizas, dolomitas y yesos) con oquedades o conductos de disolución producidos por el agua subterránea al
+circular a través de ella.
+    3.43. Toxicidad: Potencial inherente o capacidad de una sustancia para causar efectos adversos en
+organismos vivos.
+    3.44. Toxicidad aguda: Es el efecto adverso que se manifiesta en los organismos de prueba, luego de
+exponerlos a las muestras problema por una sola vez durante un periodo de tiempo.
+    3.45. Trimestre: Es el periodo comprendido por tres meses calendario en el orden siguiente:
+                            Trimestre                        Periodo
+                                 Primero             Enero, febrero y marzo
+                             Segundo                   Abril, mayo y junio
+                                 Tercero            Julio, agosto y septiembre
+                                 Cuarto          Octubre, noviembre y diciembre
+
+    3.46. Unidad de Toxicidad (UT):
+    Forma de expresar el grado de toxicidad de una muestra de la cual no se conoce la concentración de las
+sustancias que contiene. Es aplicable a descargas y mezclas de agua residual complejas. Se calcula: UT =
+100 / CE50. En donde 100 es la concentración inicial de la muestra referida en porciento.
+    3.47. Unidades de Verificación:
+    La persona física o moral que realiza actos de verificación, acreditada ante una entidad de acreditación y
+aprobada por la Comisión.
+    3.48. Valor Instantáneo (V.I.):
+    Es el resultado obtenido del análisis de laboratorio a una muestra simple de agua residual colectada en la
+descarga, con motivo de una verificación realizada por la Comisión o la Procuraduría del cumplimiento de los
+parámetros de calidad establecidos en esta norma.
+    3.49. Visita de verificación:
+    La que se efectúe con el objeto de comprobar el cumplimiento de la presente Norma Oficial Mexicana por
+la Procuraduría, la Comisión, o una Unidad de Verificación.
+    3.50. Zonas marinas mexicanas:
+    Son las aguas de los mares territoriales, las aguas marinas interiores, la zona contigua, la zona económica
+exclusiva, en la extensión y términos que fija la Ley Federal del Mar; así como las lagunas y esteros que se
+comuniquen permanente o intermitentemente con el mar.
+    4. Especificaciones
+    4.1. La concentración de parámetros básicos, así como de contaminantes patógenos y parasitarios,
+metales y cianuros para las descargas de aguas residuales a cuerpos receptores, no debe exceder el valor
+indicado como límite permisible de acuerdo al tipo de cuerpo receptor en las Tablas 1 y 2 de esta Norma
+Oficial Mexicana.
+    En caso de que existan condiciones particulares de descarga emitidas conforme a una Declaratoria de
+Clasificación de los Cuerpos de Aguas Nacionales publicada en el Diario Oficial de la Federación o que
+conforme a la Ley la Comisión haya establecido en los permisos de descarga con límites, parámetros
+adicionales o específicos en comparación con los previstos en esta Norma Oficial Mexicana, los parámetros y
+límites permisibles que se deberán cumplir serán los que establezcan las citadas condiciones particulares de
+descarga.
+    Los responsables de la descarga deberán comprobar de manera ordinaria en términos de lo dispuesto en
+el numeral 6.2, el cumplimiento de los límites permisibles establecidos para Promedio Diario y Promedio
+Mensual en las Tablas 1 y 2 según corresponda al tipo de cuerpo receptor. El valor instantáneo será verificado
+ya sea por la Comisión o la Procuraduría.
+                                                                                   DIARIO OFICIAL                                                 Viernes 11 de marzo de 2022
+
+                                                                                          TABLA 1
+
+                                                                                 Límites Permisibles
+  Parámetros (*)         Ríos, arroyos, canales,                                                                                                          Suelo
+ (miligramos por                                   Embalses, lagos y lagunas Zonas marinas mexicanas
+                                 drenes                                                                             Riego de áreas verdes      Infiltración y otros riegos                  Cárstico
+  litro, excepto
+     cuando se
+                         P.M      P.D.      V.I.     P.M      P.D.       V.I.      P.M     P.D.      V.I.           P.M     P.D.      V.I.      P.M        P.D.        V.I.       P.M         P.D.      V.I.
+     especifique)
+
+Temperatura (°C)          35       35       35       35        35        35        35       35       35             35       35        35        35         35         35         35          35        35
+
+Grasas y Aceites          15       18       21       15        18        21        15       18       21             15       18        21        15         18         21         15          18        21
+
+Sólidos
+Suspendidos               60       72       84       20        24        28        20       24       28             30       36        42       100        120         140        20          24        28
+Totales
+
+Demanda Química
+                         150      180       210      100       120       140       85      100       120            60       72        84       150        180         210        60          72        84
+de Oxígeno
+
+Carbono Orgánico
+                          38       45       53       25        30        35        21       25       30             15       18        21        38         45         53         15          18        21
+Total*
+
+Nitrógeno Total           25       30       35       15        25        30        25       30       35             NA       NA        NA        NA         NA         NA         15          25        30
+
+Fósforo Total             15       18       21        5        10        15        15       18       21             NA       NA        NA        NA         NA         NA          5          10        15
+
+Huevos de
+Helmintos                 NA       NA       NA       NA        NA        NA        NA      NA        NA                                                      1
+(huevos/litro)
+
+Escherichia coli,
+                         250      500       600      250       500       600       250     500       600            250     500       600       250        500         600        50          100       200
+(NMP/100 ml)
+
+Enterococos
+fecales*                 250      400       500      250       400       500       250     400       500            250     400       500       250        400         500        50          100       200
+(NMP/100 ml)
+
+pH
+                                                                                                              6–9
+(UpH)
+
+Color verdadero                                       Longitud de onda                                                               Coeficiente de absorción espectral máximo
+
+                                                            436 nm                                                                                      7,0 m -1
+
+                                                            525 nm                                                                                      5,0 m -1
+
+                                                            620 nm                                                                                      3,0 m -1
+
+Toxicidad aguda
+                                                                                           2 a los 15 minutos de exposición
+(UT)
+
+N.A: No Aplica
+P.M: Promedio Mensual
+P.D: Promedio Diario
+V.I: Valor Instantáneo
+NMP: Número más probable
+UpH: Unidades de pH
+UT: Unidades de Toxicidad
+* Si Cloruros es menor a 1000 mg/L se analiza y reporta DQO.
+* Si Cloruros es mayor o igual a 1000 mg/L se analiza y reporta COT.
+* Si la conductividad eléctrica menor a 3500 µS/cm se analiza y reporta E. coli.
+* Si la conductividad eléctrica es mayor o igual a 3500 µS/cm se analiza y reporta Enterococos fecales.
+Las determinaciones de Conductividad eléctrica y de Cloruros no requieren la acreditación y aprobación de la entidad correspondiente.
+
+
+
+
+                                                                                          TABLA 2
+                                                      Límites Permisibles para Metales y Cianuros
+                         Ríos, arroyos, canales,                                                                                                          Suelo
+     Parámetros
+                                                   Embalses, lagos y lagunas Zonas marinas mexicanas
+ (miligramos por                 drenes                                                                             Riego de áreas verdes       Infiltración y otros riegos                  Cárstico
+         litro)
+                         P.M.     P.D.      V.I.    P.M.       P.D.       V.I.     P.M.    P.D.       V.I.          P.M.     P.D.       V.I.      P.M.        P.D.        V.I.     P.M        P.D.      V.I.
+
+Arsénico                 0,2       0,3      0,4      0,1       0,15       0,2      0,2      0,3       0,4            0,2      0,3       0,4       0,1         0,15        0,2      0,1        0,15      0,2
+
+Cadmio                   0,2       0,3      0,4      0,1       0,15       0,2      0,2      0,3       0,4           0,05     0,075      0,1       0,1         0,15        0,2      0,05       0,075     0,1
+
+Cianuro                   1         2        3        1         1,5        2        2      2,50           3          2        2,5        3         1          1,50            2        1       1,5       2
+
+Cobre                     4         5        6        4          5         6        4        5            6          4         5         6         4             5            6        4        5        6
+
+Cromo                     1       1,25      1,5      0,5       0,75        1        1      1,25       1,5            0,5     0,75        1        0,5         0,75            1    0,5        0,75       1
+
+Mercurio                 0,01     0,015    0,02     0,005      0,008     0,01      0,01    0,015     0,02           0,005    0,008      0 01     0,005       0,008       0,01     0,005       0,008     0,01
+
+Níquel                    2         3        4        2          3         4        2        3            4          2         3         4         2             3            4        2        3        4
+
+Plomo                    0,2       0,3      0,4      0,2        0,3       0,4      0,5     0,75           1          0,5     0,75        1        0,2            0,3      0,4      0,2         0,3      0,4
+
+Zinc                      10       15       20       10         15        20       10       15        20             10       15        20         10            15         20         10      15       20
+
+Parámetros          P.M: Promedio Mensual
+medidos de          P.D: Promedio Diario
+manera total        V.I: Valor Instantáneo
+   Viernes 11 de marzo de 2022                 DIARIO OFICIAL
+
+   4.2. El responsable de las descargas de aguas residuales en estuarios y humedales debe cumplir con las
+condiciones particulares de descarga que establezca la Comisión en términos del numeral 4.1.
+    4.3. El responsable de la descarga estará exento de realizar el análisis de alguno o varios de los
+parámetros que se señalan en esta Norma Oficial Mexicana, cuando demuestre a la Comisión que por las
+características del proceso productivo o el uso que le dé al agua, no genera o concentra los contaminantes a
+exentar. Para lo cual presentará la solicitud ante la Comisión, debiendo entregar la caracterización de la
+descarga y los Promedios Mensuales correspondientes a cada uno de los seis meses inmediatos anteriores a
+la presentación de su solicitud de exención, de acuerdo a lo establecido en la Ley de Aguas Nacionales y su
+Reglamento o la normatividad ambiental vigente. La Comisión dictaminará la procedencia o no de la exención
+y podrá verificar para efectos de emitir el citado dictamen así como durante la vigencia de la exención, la
+veracidad de la información que presentó el responsable de la descarga, para lo cual podrá realizarla
+directamente por ella, un tercero o a través de una Unidad de Verificación.
+    La exención será vigente por un periodo de hasta por tres años, siempre y cuando el generador no cambie
+sus procesos, insumos, tecnologías, o exista un aumento del caudal de descarga, en cuyo caso deberá
+notificarse a la Comisión para hacer la revisión de su exención. La autoridad podrá verificar la veracidad de lo
+manifestado por el usuario; en caso de falsedad el responsable quedará sujeto a lo dispuesto en los
+ordenamientos legales aplicables.
+    Los sujetos regulados podrán solicitar por escrito a la Comisión, la adecuación de sus condiciones
+particulares de descarga mediante el trámite de “Modificaciones técnicas de títulos de concesión y/o permisos
+de descarga de aguas residuales”, o bien mediante el trámite vigente que le sustituya, acompañada de los
+datos y requisitos establecidos en la Ley de Aguas Nacionales, o la normatividad ambiental vigente.
+    4.4. En el caso de que el agua clara o de primer uso de abastecimiento registre concentración de algún
+contaminante en Promedio Mensual, se podrá restar de la concentración de la descarga, a excepción de los
+parámetros: temperatura, pH, toxicidad aguda, color verdadero, Escherichia coli, Enterococos fecales y
+huevos de helmintos siempre y cuando lo acredite a través de al menos dos análisis Promedio Diario de
+calidad del agua efectuados por un laboratorio, realizados en términos de lo dispuesto en los Capítulos 5 y 6.
+   Los informes de resultados de muestreo y análisis de agua de abastecimiento referido en el párrafo
+anterior realizados en un mes calendario serán válidos para los informes de resultados de muestreo y análisis
+de aguas residuales realizados en el trimestre al que corresponda el citado mes.
+   5. Métodos de prueba
+  5.1. Para determinar los valores y concentraciones de los parámetros establecidos en esta Norma Oficial
+Mexicana, se deberán aplicar las normas mexicanas según corresponda, indicadas en el capítulo 2.
+   5.2. Para determinar la toxicidad aguda de las descargas de aguas residuales vertidas a cuerpos
+receptores, los análisis deberán efectuarse mediante muestras simples. La evaluación se realizará a través de
+Vibrio fischeri (Photobacterium phosphoreum). El límite permisible es menor o igual a 2 Unidades de Toxicidad
+(UT). Las Unidades de Toxicidad (UT), se determinan por la fórmula:
+                                               1 UT = 100/CE50
+               Donde:
+                  CE50 es la concentración que genera efectos adversos, letales o no letales en el 50% de los
+                  organismos de prueba expuestos o en el parámetro biológico seleccionado para evaluar el
+                  efecto tóxico.
+   5.3. El responsable de la descarga de aguas residuales debe verificar que los métodos para el muestreo y
+análisis utilizados por los laboratorios de prueba, sean los establecidos en el numeral 2. Referencias
+normativas de la presente norma.
+    Los laboratorios de prueba a que hace referencia el párrafo anterior, deberán ser acreditados por la
+entidad de acreditación y aprobados por la autoridad competente.
+    El responsable de la descarga podrá solicitar a la Secretaría, la autorización de métodos de prueba
+alternos conforme a lo establecido en la legislación aplicable en la materia.
+   6. Muestreo
+   6.1. El responsable de la descarga realizará el monitoreo de las descargas de aguas residuales para
+determinar el promedio diario y el mensual, con la periodicidad establecida en el numeral 6.2 a través de un
+laboratorio.
+    6.2. La periodicidad de los muestreos, análisis e informe de resultados se indican en la Tabla 3 para
+descargas de tipo municipal y en la Tabla 4 para descargas no municipales. En situaciones que justifiquen un
+mayor control, como protección de fuentes de abastecimiento de agua para consumo humano, emergencias
+hidroecológicas o procesos productivos fuera de control, la Comisión podrá modificar la periodicidad de
+muestreo, análisis e informe de resultados.
+                                                     DIARIO OFICIAL                      Viernes 11 de marzo de 2022
+
+                                                        TABLA 3
+                                                Descargas municipales
+                                                                                      Frecuencia de Informe de
+       Rango de población                  Frecuencia de muestreo y análisis
+                                                                                  resultados de muestreo y análisis
+    Mayor de 50 000 habitantes                        MENSUAL                                TRIMESTRAL
+   de 10 001 a 50 000 habitantes                     TRIMESTRAL                              TRIMESTRAL
+    de 2 501 a 10 000 habitantes                     SEMESTRAL                               TRIMESTRAL
+
+
+                                                        TABLA 4
+                                              Descargas no municipales**
+ Demanda Química      Carbono Orgánico               Sólidos         Frecuencia de         Frecuencia de Informe de
+    de Oxígeno             Total*                 Suspendidos      muestreo y análisis     resultados de muestreo y
+  (toneladas/día)      (toneladas/día)               Totales                                        análisis
+                                                 (toneladas/día)
+     Mayor a 3,0          Mayor a 0,75            Mayor a 3,0          MENSUAL                    TRIMESTRAL
+     De 1,2 a 3,0        De 0,3 a 0,75            De 1,2 a 3,0        TRIMESTRAL                  TRIMESTRAL
+     Menor a 1,2             Menor a 0,3          Menor a 1,2         SEMESTRAL                   TRIMESTRAL
+   *Aplica para aguas residuales con una concentración mayor a 1 000 mg/L de cloruros.
+   ** Aplicará la frecuencia de muestreo y análisis del parámetro con mayor carga contaminante.
+    Todo informe de resultados de muestreo y análisis deberá registrarse y firmarse en el sistema electrónico
+que para tal efecto la Comisión pondrá a disposición de los laboratorios, mismo que deberá firmarse a más
+tardar el séptimo día hábil posterior a que haya concluido el trimestre en cuestión. Para el caso de la
+frecuencia de muestreo e informe de resultados con carácter semestral, el registro y firma a que se refiere
+este párrafo será en el trimestre en que se haya realizado el muestreo.
+    El signatario autorizado del laboratorio deberá colectar las muestras simples en el número e intervalo que
+refiere la Tabla 5 las cuales conformarán una muestra compuesta, debiendo al menos existir dos muestras
+compuestas Promedio Diario durante el mes calendario para poder determinar el Promedio Mensual.
+                                                        TABLA 5
+                                     Número e intervalo de muestras simples
+     Horas por día que opera el                                                     Intervalo entre colecta de
+      proceso generador de la               Número de muestras simples              muestras simples (horas)
+             descarga                                                                  Mínimo              Máximo
+           Menor que 4                                      2                            N. E.              N. E.
+          De 4 y hasta 8                                    4                             1                  2
+      Mayor que 8 y hasta 12                                4                             2                  3
+      Mayor que 12 y hasta 18                               6                             2                  3
+      Mayor que 18 y hasta 24                               6                             3                  4
+   N. E. = No especificado
+    La selección del intervalo para la colecta de las muestras simples deberá estar dentro del rango mínimo y
+máximo que corresponda, conforme al periodo que opera el proceso generador de la descarga en el día del
+muestreo.
+    Para conformar la muestra compuesta, el volumen de cada una de las muestras simples deberá ser
+proporcional al caudal de la descarga en el momento de su colecta.
+    6.3. La muestra simple será la que colecte un laboratorio en el punto de descarga, en día normal de
+operación del proceso generador de la descarga, que refleje cuantitativa y cualitativamente el o los procesos
+más representativos de las actividades que la generan, durante el tiempo necesario y continuo para completar
+cuando menos un volumen suficiente para que se lleven a cabo los análisis necesarios para conocer su
+composición, aforando el caudal descargado en el sitio en el momento del muestreo.
+    A efecto de comprobar lo anterior, el laboratorio que colecte las muestras solicitará al responsable de la
+descarga el permiso emitido por la Comisión, lo cual se asentará en el informe de resultados de muestreo y
+análisis, con una descripción de las condiciones o circunstancias de operación al momento de la colecta de
+las muestras.
+    La Comisión, la Procuraduría o la Unidad de Verificación, podrán recabar los documentos o la evidencia
+necesaria que acrediten que efectivamente las muestras simples se realizaron en día normal de operación
+que refleje cuantitativa y cualitativamente el o los procesos más representativos de las actividades que
+generan la descarga.
+   Viernes 11 de marzo de 2022                 DIARIO OFICIAL
+
+    El volumen de cada muestra simple necesario para formar la muestra compuesta se determina mediante
+la siguiente ecuación:
+                                             VMSi = VMC * (Qi/Qt)
+               Donde:
+                   VMSi = volumen de cada una de las muestras simples “i”, en litros.
+                   VMC = volumen de cada muestra compuesta necesario para realizar la totalidad de los
+                   análisis de laboratorio requeridos, en litros.
+                   Qi = caudal medido en la descarga en el momento de colectar la muestra simple, en litros
+                   por segundo.
+                   Qt = SQi hasta Qn,…, en litros por segundo.
+  Los resultados de pH y toxicidad aguda no deberán estar fuera del límite permisible en ninguna de las
+muestras simples.
+     6.4. Asimismo, el laboratorio deberá tomar las coordenadas geográficas, con el geoposicionador global,
+con el Datum cuyas especificaciones se encontrarán en el sistema electrónico que para tal efecto la Comisión
+utilice para el registro de las descargas, establecido en el segundo párrafo del numeral 6.2 y deberán
+incorporarse en el informe de resultados de muestreo y análisis para su correcta identificación, así como
+cerciorarse y reportar sí el cuerpo receptor donde efectivamente se descarga el agua residual por el
+responsable es el autorizado en el permiso de descarga expedido por la Comisión.
+  6.5. En el caso del parámetro de pH se debe reportar el valor tomado en campo durante la colecta de cada
+muestra simple.
+  6.6. En el caso del parámetro de toxicidad aguda, se deben reportar los valores obtenidos de cada
+muestra simple.
+    6.7. En el caso del parámetro temperatura el valor Promedio Diario será el resultado del promedio
+aritmético de los valores tomados en campo en la colecta de cada una de las muestras simples.
+    6.8. En el caso del parámetro grasas y aceites el valor Promedio Diario será el resultado del promedio
+ponderado en función del caudal de los valores que resulten del análisis de cada una de las muestras simples
+colectadas para conformar la muestra compuesta.
+    Para determinar el promedio ponderado en función del caudal se deberán obtener las participaciones
+porcentuales “wi” del caudal de cada muestra simple “Qi” respecto de la sumatoria de los caudales de todas
+las muestras simples, lo cual se expresa de la siguiente forma:
+
+
+
+
+           Donde
+              = Ponderador o participación porcentual del caudal de la muestra simple “i”
+
+              = Caudal medido en la descarga en el momento de colectar la muestra simple, en litros por
+           segundo
+           Una vez obtenido el ponderador del caudal de la muestra simple “i” se deberá multiplicar por el
+           resultado del parámetro grasas y aceites de cada muestra simple que corresponda, para
+           posteriormente sumar todos los productos obtenidos, de acuerdo a lo siguiente:
+
+
+
+
+           Donde
+           PP = Promedio ponderado en función del caudal del parámetro “x” expresado en miligramos por
+           litro
+              =Ponderador o participación porcentual del caudal de la muestra simple “i”
+               =Resultado del parámetro “x” expresado en miligramos por litro
+    6.9. Para el caso de los parámetros Escherichia coli y Enterococos fecales, el valor Promedio Diario será
+el resultado de la media geométrica de los valores que resulten del análisis de cada una de las muestras
+simples colectadas para conformar la muestra compuesta.
+                                               DIARIO OFICIAL                    Viernes 11 de marzo de 2022
+
+    La media geométrica de los parámetros Escherichia coli y Enterococos fecales se calcula con la raíz “n”
+del producto de los “n” resultados del parámetro que corresponda obtenidos en cada muestra simple “i”, lo
+cual se expresa de la siguiente manera:
+
+
+
+
+           Donde
+             = Media geométrica, como número más probable (NMP) por cada cien mililitros.
+             = Resultado obtenido en el parámetro que corresponda en cada muestra simple “i”, como
+           número más probable (NMP) por cada cien mililitros.
+    6.10. El valor Promedio Diario de los parámetros previstos en las Tablas 1 y 2 diferentes a los señalados
+en los numerales del 6.5 al 6.9 será el resultado del análisis de la muestra compuesta.
+   6.11. El valor Promedio Mensual de los parámetros contenidos en las Tablas 1 y 2, será el resultado del
+promedio ponderado en función del caudal de los valores en Promedio Diario que resulten del análisis de al
+menos dos muestras compuestas colectadas en el mismo mes calendario.
+    Para determinar el promedio ponderado en función del caudal se deberán obtener las participaciones
+porcentuales “wc” del caudal de cada muestra compuesta Promedio Diario “Qc” respecto de la sumatoria de
+los caudales de todas las muestras compuestas, lo cual se expresa de la siguiente forma:
+
+
+
+          Donde
+              = Ponderador o participación porcentual del caudal de la muestra compuesta “c”
+              = Caudal promedio aritmético de los caudales medidos en la descarga en el momento de
+          colectar cada una de las muestras simples, en litros por segundo
+          Una vez obtenido el ponderador del caudal de la muestra compuesta “c” se deberá multiplicar por el
+          resultado en Promedio Diario del parámetro que corresponda a la misma muestra compuesta, para
+          posteriormente sumar todos los productos obtenidos, de acuerdo a lo siguiente:
+
+
+
+
+          Donde
+          PP = Promedio ponderado en función del caudal del parámetro “x” expresado en la unidad de
+          medida que le corresponda
+             = Ponderador o participación porcentual del caudal de la muestra compuesta “c”
+                 = Resultado en Promedio Diario del parámetro “x” expresado en la unidad de medida que le
+           corresponda
+    6.12. La cadena de custodia, la hoja de campo y las demás evidencias que soporten los informes de
+resultados de muestreo y análisis deberán mantenerse por el laboratorio para su consulta por un periodo de 5
+años posteriores a su emisión, registro y firma.
+    6.13. Los responsables de la descarga de aguas residuales a cualquier cuerpo receptor deberán prever en
+el sitio autorizado en el permiso de descarga emitido por la Comisión, la existencia de infraestructura fija,
+segura y adecuada para que pueda realizarse la colecta de muestras, conforme a lo establecido en el
+Apéndice Normativo.
+    6.14. Cuando durante la realización de la toma de muestras se observe por parte del signatario autorizado
+que no se tiene flujo en la descarga, lo deberá asentar como tal en la cadena de custodia del muestreo
+correspondiente. Y esa muestra no debe considerarse en ninguno de los cálculos del presente capitulo.
+    7. Procedimiento para la evaluación de la conformidad
+    7.1. La Comisión, la Procuraduría o las Unidades de Verificación podrán evaluar la conformidad de la
+presente norma a petición de parte, para fines particulares u oficiales en los términos establecidos por la Ley
+Federal sobre Metrología y Normalización.
+    7.2. La Secretaría por conducto de la Comisión aprobará los Laboratorios y las Unidades de Verificación,
+en los términos establecidos en la Ley Federal sobre Metrología y Normalización. Los Laboratorios realizarán
+el muestreo y el análisis de las muestras que se requieran para la evaluación de la conformidad de la presente
+norma.
+   Viernes 11 de marzo de 2022                  DIARIO OFICIAL
+
+     7.3. La Comisión mantendrá actualizado en su página electrónica el listado de las Unidades de
+Verificación y los Laboratorios.
+     7.4. En caso de que la evaluación de la conformidad se realice a través de una Unidad de Verificación,
+ésta notificará a la Comisión el inicio de los trabajos, se coordinará con el Laboratorio seleccionado por el
+interesado, y deberá constatar e informar a la Comisión la siguiente información:
+     7.4.1 Nombre, denominación o razón social del titular del permiso de descarga y registro federal de
+contribuyentes (RFC).
+     7.4.2 En su caso, datos generales de contacto del representante legal (domicilio, teléfonos y correo
+electrónico).
+     7.4.3 En el caso de personas morales, acta constitutiva o poder notarial que acredite la personalidad
+jurídica del representante legal en original y copia.
+     7.4.4 En el caso de personas físicas, anexar original y copia de identificación oficial con fotografía.
+     7.4.5 En caso de que el responsable de la descarga realice la solicitud a través de un representante legal,
+éste debe anexar original y copia tanto de su identificación oficial, así como de la carta poder del responsable
+de la descarga.
+     7.4.6 Permiso de Descarga, en original o copia.
+     7.4.7 Las coordenadas geográficas del punto donde efectivamente se efectúa(n) la(s) descarga(s), en
+términos del numeral 6.4. Los originales mencionados en este apartado son para cotejar las copias y serán
+devueltos de inmediato al interesado.
+     7.5. Los gastos que se originen por los servicios de evaluación de la conformidad, serán a cargo del
+interesado conforme a lo establecido en el Artículo 91 de la Ley Federal sobre Metrología y Normalización.
+     7.6. El proceso de evaluación se realizará mediante una visita de verificación durante la cual se levantará
+un acta circunstanciada que deberá ser firmada por quienes en ella intervinieron. La negativa del interesado a
+firmar el acta circunstanciada no afectará su validez.
+     7.7. El Laboratorio que realice el muestreo emitirá un informe de resultados de muestreo y análisis y al
+término de la verificación, quien realice la Evaluación de la conformidad emitirá y firmará el Dictamen de
+Conformidad que integrará todos los datos recabados durante las acciones de verificación y los resultados del
+análisis de Laboratorio.
+     7.8. Para emitir el dictamen de conformidad se debe:
+     7.8.1 Solicitar al Laboratorio que realice los análisis para determinar la calidad del agua conforme a los
+parámetros de las Tablas 1 y 2 con las normas mexicanas y los métodos de prueba, según corresponda,
+listados en los capítulos 2 y 5 de esta Norma Oficial Mexicana para cada una de las muestras. En caso de
+utilizar algún método de prueba alterno, se deberá mostrar la autorización que la Comisión emitió para
+autorizar su uso.
+     7.8.2 Comparar los resultados con los límites permisibles en sus valores instantáneos o promedio diario o
+promedio mensual establecidos en las Tablas 1 y 2, según corresponda, a fin de evaluar el cumplimiento del
+numeral 4.1 de esta Norma Oficial Mexicana. En ningún día se podrá exceder los límites permisibles promedio
+diario que se establecen en las Tablas 1 y 2, y para el caso de verificaciones instruidas por la Comisión
+tampoco podrá exceder los límites permisibles en valor instantáneo.
+     7.8.3 Constatar si el interesado cuenta con Condiciones Particulares de Descarga a que se refiere el
+numeral 4.1 y en su caso, deberá asentarse en el acta circunstanciada y se procederá a realizar la verificación
+conforme a dichas condiciones establecidas para la descarga.
+     7.8.4 Verificar si existe la autorización expresa de estar exento de realizar los análisis de algún parámetro
+conforme al numeral 4.3, de lo contrario el verificador analizará todos los parámetros de esta Norma Oficial
+Mexicana para determinar su cumplimiento.
+     7.8.5 Comprobar si el interesado demostró a la Comisión la existencia de alguna concentración promedio
+mensual para cualquiera de los parámetros referidos en esta Norma Oficial Mexicana en el agua clara de
+abastecimiento numeral 4.4, en cuyo caso se analizará en promedio mensual en cada punto de
+abastecimiento.
+     7.8.6 Revisar que los informes de resultados de muestreo y análisis en los últimos 5 años se hayan
+elaborado por un Laboratorio y registrados en la Comisión con la periodicidad correspondiente, Tablas 3 y 4.
+     7.8.7 Registrar y emitir el Dictamen de Conformidad en un plazo máximo de 10 días hábiles en el sistema
+electrónico que para tal fin la Comisión ponga a disposición en su página de internet, una vez realizada la
+visita de verificación, recibido el informe de laboratorio y verificados los puntos anteriores.
+     7.8.8 Emitir un dictamen de conformidad favorable cuando se cumpla con las especificaciones
+establecidas en esta Norma Oficial Mexicana.
+     7.9. En el caso de que el dictamen de conformidad resulte no favorable, se procederá conforme a las
+disposiciones jurídicas vigentes.
+     7.10. El dictamen de conformidad no exime al responsable de efectuar el muestreo y análisis que se
+estipula en las Tablas 3 y 4 de esta Norma Oficial Mexicana.
+                                                 DIARIO OFICIAL                    Viernes 11 de marzo de 2022
+
+     7.11. El dictamen de conformidad favorable expedido por una Unidad de Verificación será reconocido por
+las autoridades competentes.
+     7.12. El cumplimiento de lo establecido en el capítulo 7 de esta Norma, no sustituye a las visitas de
+inspección y vigilancia que la autoridad puede realizar en el ejercicio de las atribuciones que le confiere la Ley
+General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas Nacionales, la Ley Federal de
+Derechos, y demás ordenamientos jurídicos.
+     7.13. La Comisión, es la autoridad competente para resolver controversias en la interpretación de este
+procedimiento de evaluación de la conformidad.
+     8. Concordancia con normas internacionales
+     Esta Norma Oficial Mexicana no es equivalente (NEQ) con ninguna Norma Internacional, por no existir
+esta última al momento de su elaboración.
+     9. Bibliografía
+     9.1. Central Pollution Control Board (s.f.). Environmental Standards. 32.0 General Standards for Discharge
+of Environmental Pollutants (Junta de Control Central de Contaminación, “Estándares de Contaminación. 32.0
+Estándares Generales para la descarga de contaminantes del Medio Ambiente”), India. Disponible en:
+https://scclmines.com/env/ENVIRONMENTAL%20STANDARDS.pdf.
+     9.2. SEDUE (1989). ACUERDO por el que se establecen los Criterios Ecológicos de Calidad del Agua.
+Secretaría de Desarrollo Urbano y Ecología, publicado en el Diario Oficial de la Federación el 13 de diciembre,
+México. Disponible en: http://dof.gob.mx/nota_detalle.php?codigo=4837548&fecha=13/12/1989.
+     9.3. Ministerio de Obras Públicas (1998). D.S. No. 609/98: Norma de Emisión para la Regulación de
+Contaminantes asociados a las Descargas de Residuos Industriales Líquidos a Sistemas de Alcantarillado.
+D.S. No. 46/02 del Ministerio Secretaría General de la Presidencia: Norma de Emisión de Residuos Líquidos a
+Aguas Subterráneas, Chile. Disponible en: http://extwprlegs1.fao.org/docs/pdf/chi50299.pdf.
+     9.4. Ministerio Secretaría General de la Presidencia (2000). D.S. No. 90/2000: Norma de Emisión para la
+regulación de contaminantes asociados a las descargas de residuos líquidos a aguas marinas y continentales
+superficiales, Chile. Disponible en: http://extwprlegs1.fao.org/docs/pdf/chi28651.pdf.
+     9.5. Ministerio de Transporte y Obras Públicas et al. (1979). DECRETO 253/79. Normas para prevenir la
+contaminación ambiental mediante el control de las aguas, Uruguay. Disponible en:
+https://www.aiqu.org.uy/documentos/medioambiente/dec253_79%20vigente.pdf.
+     9.6. Ministerio de la Producción (2002). DECRETO SUPREMO No. 003-2002-PRODUCE. Límites
+Máximos Permisibles y Valores Referenciales para las actividades industriales de cemento, cerveza,
+curtiembre y papel, Perú. Disponible en: https://sinia.minam.gob.pe/normas/aprueban-limites-maximos-
+permisibles-valores-referenciales-las.
+     9.7. Disposición 79179/90: Vertidos industriales y especiales acogidos al régimen de Obras Sanitarias de
+la Nación (O.S.N.) (1990). Norma para los vertidos de establecimientos industriales o especiales alcanzados
+por el Decreto 674/89, que contengan sustancias peligrosas de naturaleza ecotóxica, Argentina. Disponible
+en: http://www.ecofield.net/Legales/Residuos_pel/res242-93_SRNyAH.htm.
+     9.8. Environmental Guidelines. 318-6. Management of Wastewater Treatment Systems (2003). (Directrices
+Ambientales. 318-6. Manejo de Sistemas de Tratamiento de Aguas Residuales), Canadá. Disponible en:
+https://www.publicsafety.gc.ca/lbrr/archives/cd-318-6-gl-eng.pdf.
+     9.9. ema (2020). Manual de procedimientos. Evaluación y acreditación de laboratorios de calibración y/o
+ensayo (pruebas) con base en la norma ISO/IEC 17025 (Vigente). Documento MP-FP002-32 de fecha 30 de
+julio.     entidad       mexicana       de        acreditación,    a.     c.,     México.     Disponible        en:
+http://consultaema.mx:75/Consultas/Pqtinformativo/MP-FP002_Evaluacion_acreditacion_LAB_2017025_3.pdf.
+     9.10. Presidencia de la República (s.f.). Norma de calidad ambiental y de descarga de efluentes: recurso
+agua                              (Ecuador).                             Disponible                             en:
+http://indostra.com/docs/ecuador_norma_calidad_ambiental_descarga_efluentes.pdf.
+     9.11. SEMARNAT (1998). Norma Oficial Mexicana NOM-003-SEMARNAT-1997, Que establece los límites
+máximos permisibles de contaminantes para las aguas residuales tratadas que se reúsen en servicios al
+público. Publicada en el Diario Oficial de la Federación el 21 de septiembre, México. Disponible en:
+http://www.conagua.gob.mx/CONAGUA07/Publicaciones/Publicaciones/SGAA-15-13.pdf.
+     9.12. Presidencia de la República (2019). Plan Nacional de Desarrollo 2019-2024. Publicado en el Diario
+Oficial       de      la     Federación         el      12      de    julio.     México.      Disponible       en:
+https://www.dof.gob.mx/nota_detalle.php?codigo=5565599&fecha=12/07/2019 .
+     9.13. CONAGUA (2015). Procedimiento simplificado de atención de emergencias hidroecológicas.
+Comisión Nacional del Agua, Noviembre, México.
+     9.14. SEMARNAT (2020). Programa Sectorial de Medio Ambiente y Recursos Naturales 2020-2024,
+Secretaría del Medio Ambiente y Recursos Naturales. Publicado en el Diario Oficial de la Federación el 07 de
+julio, México. Disponible en: https://www.dof.gob.mx/nota_detalle.php?codigo=5596232&fecha=07/07/2020.
+   Viernes 11 de marzo de 2022                 DIARIO OFICIAL
+
+    9.15. CONAGUA-SEMARNAT (2014). Programa Nacional Hídrico 2013-2018. Comisión Nacional del
+Agua, Secretaría del Medio Ambiente y Recursos Naturales, 8 de abril, México. Disponible en:
+http://www.conagua.gob.mx/CONAGUA07/Contenido/Documentos/PROGRAMA_Nacional_Hidrico_2014_201
+8_espa%C3%B1ol.pdf.
+    9.16. CONAFOR-SEMARNAT (2007). Protección, Restauración y Conservación de Suelos Forestales.
+Manual       de       Obras     y     Prácticas.      Quinta      Edición,     México.    Disponible     en:
+http://www.conafor.gob.mx:8080/documentos/docs/20/1310Manual%20de%20Conservacion%20de%20Suelos
+%20.pdf.
+    9.17. Ministerio del Medio Ambiente y Energía (2007). Reglamento de vertido y reúso de aguas residuales.
+Decreto N° 33601 -MINAE-S. Parámetros y LMP para el reúso de aguas residuales tratadas. Gaceta 55,
+alcance 18. Costa Rica. Disponible en: http://extwprlegs1.fao.org/docs/pdf/cos71694.pdf.
+    9.18. Presidencia de la República (2015). Anexo 1 del Libro VI del Texto Unificado de Legislación Secundaria
+del Ministerio del Ambiente: Norma de Calidad Ambiental y de Descarga de Efluentes al Recurso Agua.
+Ecuador. Disponible en: https://www.ambiente.gob.ec/wp-content/uploads/downloads/2018/05/Acuerdo-
+097.pdf.
+    10. Observancia de esta norma
+    10.1. La vigilancia del cumplimiento de la presente Norma Oficial Mexicana corresponde a la Secretaría,
+por conducto de la Comisión y la Procuraduría, en el ámbito de sus respectivas competencias.
+    10.2. Las violaciones a la misma se sancionarán en los términos de la Ley General del Equilibrio Ecológico
+y la Protección al Ambiente, la Ley de Aguas Nacionales, la Ley Federal sobre Metrología y Normalización y
+sus respectivos Reglamentos en la materia, así como demás ordenamientos jurídicos aplicables.
+                                                TRANSITORIOS
+   PRIMERO. La norma oficial mexicana entrará en vigor a los 365 días naturales, posteriores a su
+publicación en el Diario Oficial de la Federación, con excepción de lo previsto en el Segundo, Tercero, Cuarto
+y Quinto Transitorios.
+   SEGUNDO. Los parámetros y límites permisibles previstos en las tablas 1 y 2, así como el Apéndice
+Normativo entrarán en vigor el 3 de abril de 2023.
+    TERCERO. Los parámetros y límites permisibles de color verdadero y toxicidad aguda previstos en la
+Tabla 1, entrarán en vigor al cuarto año de la fecha de publicación de la presente Norma Oficial Mexicana en
+el Diario Oficial de la Federación.
+    CUARTO. Las autoridades competentes en el ámbito de sus atribuciones, podrán elaborar Lineamientos
+que deberán ser publicados en el Diario Oficial de la Federación, por los cuales los sujetos regulados puedan
+presentar programas para el cumplimiento oportuno de la presente Norma.
+    QUINTO. Hasta en tanto entren en vigor los parámetros y límites permisibles a que se refiere el artículo
+Segundo Transitorio, las descargas de aguas residuales seguirán sujetándose a los numerales 4.1, 4.2, 4.3,
+Tablas 2 y 3 establecidos en la Norma Oficial Mexicana NOM-001-SEMARNAT-1996, Que establece los
+límites máximos permisibles de contaminantes en las descargas de aguas residuales en aguas y bienes
+nacionales, publicada en el Diario Oficial de la Federación el 06 de enero de 1997 y su aclaración publicada
+en el mismo medio de difusión oficial del 30 de abril de 1997.
+   SEXTO. Esta Norma Oficial Mexicana cancela a la Norma Oficial Mexicana NOM-001-SEMARNAT-1996,
+Que establece los límites máximos permisibles de contaminantes en las descargas de aguas residuales en
+aguas y bienes nacionales, publicada en el Diario Oficial de la Federación el 06 de enero de 1997, a partir de
+su entrada en vigor con excepción de lo previsto en el Quinto Transitorio de esta norma.
+    SÉPTIMO. A efecto de dar cumplimiento al Artículo Quinto del Acuerdo que fija los lineamientos que
+deberán ser observados por las dependencias y organismos descentralizados de la Administración Pública
+Federal, en cuanto a la emisión de los actos administrativos de carácter general a los que les resulte aplicable
+el artículo 69-H de la Ley Federal de Procedimiento Administrativo, publicado en el Diario Oficial de la
+Federación (DOF) el 8 de marzo del 2017 y a lo previsto en el Artículo Octavo Transitorio de la Ley General de
+Mejora Regulatoria publicada en el DOF el 18 de mayo de 2018, el cual determina que las manifestaciones de
+impacto regulatorio presentadas por las autoridades federales con anterioridad a la entrada en vigor de dicha
+Ley, serán concluidas conforme a las disposiciones aplicables vigentes a la fecha de su presentación, se
+derogan obligaciones regulatorias por la eliminación de los numerales 4.2, 4.7 y 4.11 y la modificación de la
+Tabla 2 y del numeral 4.8 de la “Norma Oficial Mexicana NOM-001-SEMARNAT-1996, Que establece los
+límites máximos permisibles de contaminantes en las descargas de aguas residuales en aguas y bienes
+nacionales”, publicada en el DOF el 06 de enero de 1997.
+   Ciudad de México, a los veintiocho días del mes de febrero de dos mil veintidós.- El Subsecretario de
+Fomento y Normatividad Ambiental de la Secretaría de Medio Ambiente y Recursos Naturales y Presidente
+del Comité Consultivo Nacional de Normalización de Medio Ambiente y Recursos Naturales, Tonatiuh
+Herrera Gutiérrez.- Rúbrica.
+                                                    DIARIO OFICIAL               Viernes 11 de marzo de 2022
+
+                                            APÉNDICE NORMATIVO
+                                            PUERTOS DE MUESTREO
+   A 1 Clasificación de las descargas de aguas residuales.
+    Para los fines del Apéndice, las descargas de aguas residuales se clasifican en función del caudal máximo
+registrado en el permiso de descarga correspondiente, definiéndose tres tipos:
+       Caudales menores o iguales a 30 L/s.
+       Caudales mayores a 30 L/s y menores de 16 000 L/s.
+       Caudales iguales o mayores a 16 000 L/s.
+   A 2 Especificaciones
+   Componentes y ubicación del puerto de muestreo
+   Toda descarga de aguas residuales, de acuerdo a la clasificación indicada anteriormente, debe contar con
+un puerto de muestreo constituido por:
+       La infraestructura de conducción
+       Los dispositivos de medición
+       El sitio de colecta de muestras y
+       La infraestructura asociada.
+    El puerto de muestreo debe ubicarse en el punto más cercano al cuerpo receptor, considerando su
+factibilidad de construcción y acceso para el equipo y el personal que realiza actividades relacionadas con la
+descarga de aguas residuales; este sitio debe ser consignado en el permiso de descarga correspondiente.
+   A 3 Generalidades de diseño
+    Es de carácter obligatorio que toda obra relacionada con el puerto de muestreo no modifique las
+características de calidad y cantidad de las aguas descargadas, desde el punto generador de las mismas
+hasta el punto final de la descarga, en los cuerpos receptores propiedad de la Nación y sus bienes públicos
+inherentes. De igual manera, esta condición define un sitio preciso para el aforo y la colecta de muestras con
+el objeto de hacer repetible el muestreo y factible el traslado de las muestras obtenidas.
+     Los materiales y productos utilizados en la obra de construcción deben garantizar su resistencia a posibles
+fallas estructurales y posibles riesgos de impacto, para lo cual deben considerarse tanto las condiciones
+normales de operación como situaciones extraordinarias que pueden afectar la obra, tales como accidentes,
+fenómenos meteorológicos y sismos.
+   La infraestructura a integrar debe permitir el cumplimiento de la norma mexicana NMX-AA-003-1980 y las
+condiciones de muestreo y análisis de campo definidos en el presente Apéndice.
+   A 4 Ubicación del puerto de muestreo
+    La ubicación del puerto de muestreo debe estar en el punto geográfico en latitud y longitud más cercano al
+cuerpo receptor. Una vez determinado el punto de ubicación geográfica, en grados, minutos y segundos, esta
+localización debe presentarse a la Comisión, anexa a la solicitud del permiso de descarga. Su ubicación debe
+considerar las limitaciones que exigen la ocupación de zonas federales, la presencia de asentamientos
+urbanos y las condiciones del área en las inmediaciones del cuerpo receptor, sin afectar el paso franco, el
+control de avenidas, la protección de zonas inundables y el régimen hidráulico e hidrológico de los cauces y
+vasos de propiedad nacional.
+   A 5 Infraestructura de conducción
+   La obra de conducción, ya sea abierta o cerrada, debe cumplir al menos con las siguientes
+especificaciones:
+       Evitar todo contacto entre el suelo y el agua residual y
+       Permitir el flujo libre del agua residual
+    Estas características son obligatorias para la construcción de los registros requeridos e instalados a lo
+largo de la obra de conducción y para toda obra estructural que se incluya en el puerto de muestreo y que
+esté en contacto entre el agua a descargar y el suelo.
+   A 6 Sitio de instalación
+    El sitio de instalación del dispositivo de medición debe contar con un área mínima libre de 1.20 m de largo
+x 1.20 m de ancho que permita la toma de la lectura o aforo y el mantenimiento del dispositivo.
+   Viernes 11 de marzo de 2022                  DIARIO OFICIAL
+
+   A 7 Sitio de muestreo
+    El usuario debe instalar en la obra de conducción una estructura que permita tomar muestras de la
+descarga para su análisis procedente, sin interrumpir su incorporación al punto final de la descarga, o bien
+ubicarse al final de la obra de conducción de manera que permita, en ambos casos, los dispositivos de
+medición, así como el aforo y el muestreo de la descarga de aguas residuales de acuerdo a la norma
+mexicana NMX-AA-003-1980; su diseño debe estar en función al caudal descargado definido en apartado A1
+de este Apéndice. Una vez definido el tipo de puerto de muestreo, el personal debe poder tener acceso
+ininterrumpidamente a los andadores, rampas, escaleras, puentes o pasillos de acceso.
+   El área de muestreo debe estar permanentemente libre de obstáculos y estructuras que pongan en riesgo
+u obstaculicen las actividades del personal relacionadas con el puerto de muestreo.
+    A 8 Puerto de muestreo para descargas de aguas residuales con caudales menores o iguales a 30
+L/s (2600 m3/día).
+    El puerto de muestreo debe ser construido de manera paralela a la corriente del agua residual vertida al
+cuerpo receptor, de tal forma que el personal que efectúe la colecta de muestras pueda realizar sus
+actividades sin riesgo y de acuerdo a la norma mexicana NMX-AA-003-1980; su construcción debe cumplir
+con los lineamientos básicos indicados en la Tabla A1.
+                                                   Tabla A1
+         Puerto de muestreo para usuarios menores cuya descarga tiene un gasto máximo,
+         menor o igual a 30 L/s (2 600 m3/día).
+         Ancho mínimo            2,00 m
+         Área mínima             5,50 m2
+         Horizontalidad          - 5,0% perpendicular a la corriente; el lado más alto debe ser el lado
+                                 adyacente a la corriente.
+         Superficie              Antiderrapante con drenes para evitar encharcamientos.
+         Nivel del puerto en El nivel del piso del puerto debe estar a 0,30 ± 0,05 m por encima
+         caso de canales     del nivel máximo de la corriente.
+
+
+  Asimismo, se debe contar con infraestructura que permita acceso libre y seguro hacia el dispositivo de
+medición y el sitio de colecta de las muestras durante las 24 horas del día.
+    Debe contemplarse un área para el acceso a un vehículo que permita trasladar las muestras obtenidas a
+un laboratorio para su análisis correspondiente. La distancia del sitio de colecta al vehículo no debe ser mayor
+a 25 metros.
+   El área asignada al vehículo o instalación donde sean recibidas las muestras obtenidas para su traslado o
+análisis correspondiente, debe contar con un espacio mínimo de 2,0 m de ancho por 2,75 m de largo para la
+manipulación y embalaje de las muestras obtenidas y del equipo e instrumentos utilizados.
+   A 9 Puerto de muestreo para descargas de aguas residuales con caudales mayores a 30 l/s (2600
+m3/día) y menores a 16 000 l/s (1 382 400 m3/día).
+    El puerto de muestreo debe construirse cumpliendo con las especificaciones del apartado A8, la Tabla A1
+y los lineamientos indicados en la Tabla A2.
+                                                   Tabla A2
+ Puerto de muestreo para usuarios mayores cuya descarga tiene un gasto máximo, mayor a 30 L/s
+ (2600 m3/día) y menor a 16 000 L/s (1 382 400 m3/día).
+                       Se requerirán barandales en los siguientes casos:
+                        Cuando la velocidad de la descarga sea mayor o igual a 1,0 m/s
+ Barandales             Cuando el nivel del piso del puerto se encuentre a más de 0,50 m por encima del
+                         nivel mínimo de la corriente
+                        El barandal debe cubrir la mitad de la longitud del puerto ± 10% de tolerancia
+
+
+   A 10 Puerto de muestreo para descargas de aguas residuales con caudales iguales o mayores a 16
+000 L/s (1 382 400 m3/día).
+   Para este volumen de descarga, el puerto de muestreo debe cumplir con los requisitos necesarios que
+garanticen la seguridad del personal que realice actividades en dicho puerto de muestreo y cumplir con lo
+establecido en el numeral A9, o en su caso, cualquier otro diseño, siempre y cuando, garantice la toma de
+muestra y la seguridad del personal que participa en el muestreo.
+                                                DIARIO OFICIAL                    Viernes 11 de marzo de 2022
+
+     Asimismo, para descargas de aguas residuales con caudales mayores a 30 L/s se debe contar con
+infraestructura que permita un acceso libre, seguro y franco, tanto para el personal como para el vehículo
+utilizado en las actividades de muestreo y aforo durante las 24 horas del día. Los accesos deben permitir la
+comunicación continua entre el puerto de muestreo, el sitio de aforo y el vehículo a través de andadores,
+rampas, escaleras, puentes o pasillos de acceso.
+   Para ascenso o descenso vertical se deben instalar escaleras fijas con las especificaciones de uso de
+acuerdo a la Tabla A3.
+                                                   Tabla A3
+                             ACCESO PEATONAL AL PUERTO DE MUESTREO
+                                      Para distancias menores de 25 m
+
+ Andadores, rampas,        Ancho mínimo de 1,20 m
+ puentes o pasillos        Superficie antiderrapante
+ de acceso peatonal        Drenes para evitar encharcamientos
+
+
+    Dadas las condiciones topográficas de la ubicación del puerto de muestreo, en el caso de encontrarse
+éstas a profundidades o alturas mayores a 4,0 m o con pendientes mayores a 30, donde la manipulación del
+material y equipo requerido para llevar a cabo las mediciones de aforo y muestreo ponga en riesgo la
+integridad física del personal que lo lleve a cabo, se debe considerar:
+   a)    La instalación de un sistema de poleas, con la resistencia suficiente para cargas mínimas de 25 kg.
+   b)    La instalación de ganchos de seguridad para el personal, la manipulación y traslado del material.
+   c)    La instalación de montacargas alternativamente a escaleras.
+   d)    El barandal debe estar a una altura de 90 cm ± 10 cm;
+   e)    Las barandas deben estar colocadas a una distancia intermedia entre el barandal y la paralela
+         formada con la altura media del peralte de los escalones. Los balaustres deben estar colocados, en
+         este caso, cada cuatro escalones.
+    Cuando la distancia al puerto de muestreo se cubra por vía terrestre y sea mayor a 25 m, el usuario debe
+contar con la infraestructura necesaria para la circulación libre y segura de un vehículo con el personal, equipo
+e instrumentos de muestreo.
+    Si la ubicación del puerto de muestreo requiere de otro medio de transporte que no sea el terrestre, el
+usuario debe contar con la infraestructura necesaria que permita el acceso y transporte del personal y equipo
+en forma segura.
+   A 11 Señalizaciones
+    Se deben instalar en el puerto de muestreo señalizaciones de localización e información, así como de
+advertencia sobre las medidas de seguridad que debe seguir el personal que realiza la colecta de muestras.
+La información básica que debe incluir este señalamiento se encuentra definida en la Tabla A4.
+                                                   Tabla A4
+                              IDENTIFICACIÓN DEL PUERTO DE MUESTREO
+                                Colocar la señalización dentro de las instalaciones del usuario, en un lugar
+                                 que asegure que la misma no pueda ser sujeta a vandalismo
+                                Nombre usuario
+                                Número de permiso de descarga
+                                Denominación de acuerdo al permiso de descarga
+ En el puerto de muestreo
+                                Nombre del cuerpo receptor
+                                Tipo de cuerpo receptor (según la Ley Federal de Derechos)
+                                Volumen autorizado anual y diario en m3 /año y m3/día y
+                                Localización geográfica en coordenadas del punto de la descarga: latitud y
+                                 longitud en grados (º), minutos () y segundos ().
+
+
+   A 12 Puertos existentes
+   En caso de que exista previamente un puerto de muestreo que permita la segura y representativa colecta
+de la muestra, se someterá a consideración de la autoridad si cumple con los requisitos para su adecuado
+uso.
+                                        _________________________
+

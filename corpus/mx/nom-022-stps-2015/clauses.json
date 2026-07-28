@@ -1,0 +1,832 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n   Establecer las condiciones de seguridad en los centros de trabajo para prevenir los riesgos por electricidad\nestática, así como por descargas eléctricas atmosféricas.",
+    "start_char": 5307,
+    "end_char": 5488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación",
+    "start_char": 5492,
+    "end_char": 5514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "2.1",
+    "label": "2.1 Esta Norma rige en todo el territorio nacional y aplica en las áreas de los centros de trabajo donde se",
+    "text": "2.1 Esta Norma rige en todo el territorio nacional y aplica en las áreas de los centros de trabajo donde se\nalmacenen, manejen o transporten sustancias inflamables o explosivas, o en aquellas en que, por la\nnaturaleza de sus procesos, materiales y equipos, sean capaces de almacenar o generar cargas eléctricas\nestáticas.",
+    "start_char": 5518,
+    "end_char": 5839
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "2.2",
+    "label": "2.2 La presente Norma no aplica en vehículos automotores, ferroviarios, embarcaciones y/o aeronaves",
+    "text": "2.2 La presente Norma no aplica en vehículos automotores, ferroviarios, embarcaciones y/o aeronaves\nutilizados para el transporte terrestre, marítimo, fluvial o aéreo, competencia de la Secretaría de\nComunicaciones y Transportes.",
+    "start_char": 5845,
+    "end_char": 6074
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n    Para la correcta aplicación de esta Norma se deberán consultar las siguientes normas oficiales mexicanas\ny la norma mexicana, vigentes o las que las sustituyan:",
+    "start_char": 6078,
+    "end_char": 6257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "3.1",
+    "label": "3.1 NOM-002-STPS-2010, Condiciones de seguridad - Prevención y protección contra incendios en los",
+    "text": "3.1 NOM-002-STPS-2010, Condiciones de seguridad - Prevención y protección contra incendios en los\ncentros de trabajo.",
+    "start_char": 6261,
+    "end_char": 6378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "3.2",
+    "label": "3.2 NOM-017-STPS-2008, Equipo de protección personal - Selección, uso y manejo en los centros de",
+    "text": "3.2 NOM-017-STPS-2008, Equipo de protección personal - Selección, uso y manejo en los centros de\ntrabajo.",
+    "start_char": 6383,
+    "end_char": 6488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "3.3",
+    "label": "3.3 NOM-018-STPS-2000, Sistema para la identificación y comunicación de peligros y riesgos por",
+    "text": "3.3 NOM-018-STPS-2000, Sistema para la identificación y comunicación de peligros y riesgos por\nsustancias químicas peligrosas en los centros de trabajo.",
+    "start_char": 6492,
+    "end_char": 6644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "3.4",
+    "label": "3.4 NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos",
+    "text": "3.4 NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos\nconducidos en tuberías.",
+    "start_char": 6648,
+    "end_char": 6776
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "3.5",
+    "label": "3.5 NMX-J-549-ANCE-2005, Sistema de protección contra tormentas eléctricas - Especificaciones,",
+    "text": "3.5 NMX-J-549-ANCE-2005, Sistema de protección contra tormentas eléctricas - Especificaciones,\nmateriales y métodos de medición.",
+    "start_char": 6780,
+    "end_char": 6908
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n   Para efectos de la presente Norma, se consideran las definiciones siguientes:",
+    "start_char": 6912,
+    "end_char": 7008
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.1",
+    "label": "4.1 Autoridad laboral: Las unidades administrativas competentes de la Secretaría del Trabajo y Previsión",
+    "text": "4.1 Autoridad laboral: Las unidades administrativas competentes de la Secretaría del Trabajo y Previsión\nSocial que realizan funciones de inspección y vigilancia en materia de seguridad y salud en el trabajo, y las\ncorrespondientes de las entidades federativas y de la Ciudad de México, que actúen en auxilio de aquéllas.",
+    "start_char": 7013,
+    "end_char": 7334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.2",
+    "label": "4.2 Carga eléctrica estática: La propiedad física de la materia que se manifiesta por la pérdida o",
+    "text": "4.2 Carga eléctrica estática: La propiedad física de la materia que se manifiesta por la pérdida o\nganancia de electrones, generalmente en materiales aislantes de la electricidad, o materiales conductores\naislados de tierra, que han estado en contacto o bajo presión.",
+    "start_char": 7339,
+    "end_char": 7606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.3",
+    "label": "4.3 Conexión a tierra; Puesta a tierra: La acción y efecto de conectar eléctricamente uno o más",
+    "text": "4.3 Conexión a tierra; Puesta a tierra: La acción y efecto de conectar eléctricamente uno o más\nelementos de un equipo o circuito a un electrodo o a un sistema de puesta a tierra, de tal forma que se\nencuentren a potencial eléctrico cero (0).\n\f        (Segunda Sección)                       DIARIO OFICIAL                        Viernes 1 de abril de 2016",
+    "start_char": 7610,
+    "end_char": 7966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.4",
+    "label": "4.4 Corriente de rayo: La corriente que circula al punto en donde el rayo hace contacto con la tierra (a",
+    "text": "4.4 Corriente de rayo: La corriente que circula al punto en donde el rayo hace contacto con la tierra (a\nuna estructura o a los elementos constitutivos del sistema de protección contra descargas eléctricas\natmosféricas), asociada con el proceso súbito de neutralización de la carga de la nube, a través de un flujo de\nelectrones en el canal ionizado mediante el que se realiza el movimiento de la carga de la nube a tierra,\nformado por descargas discontinuas en aire.",
+    "start_char": 7972,
+    "end_char": 8439
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.5",
+    "label": "4.5 Descarga eléctrica: El flujo de corriente generada entre dos cuerpos con diferencia de potencial",
+    "text": "4.5 Descarga eléctrica: El flujo de corriente generada entre dos cuerpos con diferencia de potencial\ncuando se rompe el dieléctrico del aire entre ambos.",
+    "start_char": 8443,
+    "end_char": 8596
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.6",
+    "label": "4.6 Descarga eléctrica atmosférica: La transferencia de cargas eléctricas entre nube y nube, o nube a",
+    "text": "4.6 Descarga eléctrica atmosférica: La transferencia de cargas eléctricas entre nube y nube, o nube a\ntierra.",
+    "start_char": 8602,
+    "end_char": 8711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.7",
+    "label": "4.7 Densidad del rayo a tierra: El número de rayos que inciden a tierra por kilómetro cuadrado por año,",
+    "text": "4.7 Densidad del rayo a tierra: El número de rayos que inciden a tierra por kilómetro cuadrado por año,\nen una región específica.",
+    "start_char": 8715,
+    "end_char": 8844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.8",
+    "label": "4.8 Electricidad estática: Las cargas eléctricas que se generan y almacenan en los materiales sólidos,",
+    "text": "4.8 Electricidad estática: Las cargas eléctricas que se generan y almacenan en los materiales sólidos,\npartículas o fluidos.",
+    "start_char": 8849,
+    "end_char": 8973
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.9",
+    "label": "4.9 Electrodo(s) de puesta a tierra; Electrodo(s) de la red de puesta a tierra: El (los) elemento(s)",
+    "text": "4.9 Electrodo(s) de puesta a tierra; Electrodo(s) de la red de puesta a tierra: El (los) elemento(s)\nmetálico(s) enterrado(s) que establece(n) una conexión eléctrica a tierra.",
+    "start_char": 8977,
+    "end_char": 9152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.10",
+    "label": "4.10 Pararrayos; Terminal aérea: Los elementos metálicos cuya función es ofrecer un punto de",
+    "text": "4.10 Pararrayos; Terminal aérea: Los elementos metálicos cuya función es ofrecer un punto de\nincidencia para recibir la descarga atmosférica.",
+    "start_char": 9157,
+    "end_char": 9298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.11",
+    "label": "4.11 Red de puesta a tierra; Sistema de puesta a tierra: El conjunto de conductores y conexiones,",
+    "text": "4.11 Red de puesta a tierra; Sistema de puesta a tierra: El conjunto de conductores y conexiones,\nelectrodo o electrodos, accesorios y otros elementos metálicos enterrados que interconectados entre sí tienen\npor objeto drenar a tierra las corrientes de un rayo y las generadas por las cargas eléctricas estáticas.",
+    "start_char": 9303,
+    "end_char": 9616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.12",
+    "label": "4.12 Sistema de protección contra descargas eléctricas atmosféricas: El conjunto de elementos",
+    "text": "4.12 Sistema de protección contra descargas eléctricas atmosféricas: El conjunto de elementos\nutilizados para proteger un área contra el efecto de las descargas eléctricas atmosféricas. Este conjunto está\ncompuesto de un sistema externo y de un sistema interno de protección, con base en lo siguiente:\n   a)     Sistema externo de protección contra descargas eléctricas atmosféricas; Sistema de\n          pararrayos: El conjunto de elementos para interceptar (terminales aéreas), conducir (conductores\n          de bajada) y disipar (red de puesta a tierra) en forma eficiente la corriente de rayo, y\n   b)     Sistema interno de protección contra descargas eléctricas atmosféricas: El conjunto de\n          elementos formado por todas aquellas medidas de protección que permiten reducir el riesgo de daño\n          a los trabajadores e instalaciones del centro de trabajo, mediante la puesta a tierra, unión\n          equipotencial, blindaje electromagnético, y supresores para sobretensiones.",
+    "start_char": 9622,
+    "end_char": 10616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "4.13",
+    "label": "4.13 Unión eléctrica; Conexión equipotencial: La conexión permanente de partes metálicas para formar",
+    "text": "4.13 Unión eléctrica; Conexión equipotencial: La conexión permanente de partes metálicas para formar\nuna trayectoria eléctricamente conductora que asegure la continuidad y capacidad de conducir, de forma que\nse encuentren al mismo potencial eléctrico.",
+    "start_char": 10620,
+    "end_char": 10871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 10875,
+    "end_char": 10901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "5.1",
+    "label": "5.1 Establecer las condiciones de seguridad para controlar la generación y/o acumulación de las cargas",
+    "text": "5.1 Establecer las condiciones de seguridad para controlar la generación y/o acumulación de las cargas\neléctricas estáticas en las áreas del centro de trabajo, conforme a lo que prevé el Capítulo 7 de esta Norma.",
+    "start_char": 10906,
+    "end_char": 11118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "5.2",
+    "label": "5.2 Instalar un sistema de protección contra descargas eléctricas atmosféricas en las áreas o instalaciones",
+    "text": "5.2 Instalar un sistema de protección contra descargas eléctricas atmosféricas en las áreas o instalaciones\nde los centros de trabajo donde se almacenen, manejen o transporten sustancias inflamables o explosivas, de\nacuerdo con lo determinado en el Capítulo 8 de la presente Norma.",
+    "start_char": 11123,
+    "end_char": 11404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "5.3",
+    "label": "5.3 Medir la resistencia a tierra de la red de puesta a tierra, de conformidad con lo que señala el Capítulo 9",
+    "text": "5.3 Medir la resistencia a tierra de la red de puesta a tierra, de conformidad con lo que señala el Capítulo 9\nde esta Norma, comprobar la continuidad en los puntos de conexión a tierra, y en su caso, medir la humedad\nrelativa cuando ésta sea una medida para controlar la generación y acumulación de cargas eléctricas\nestáticas, con base en lo dispuesto por el numeral 7.3 de la presente Norma.",
+    "start_char": 11409,
+    "end_char": 11803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "5.4",
+    "label": "5.4 Informar a todos los trabajadores y a la Comisión de Seguridad e Higiene, sobre los riesgos que",
+    "text": "5.4 Informar a todos los trabajadores y a la Comisión de Seguridad e Higiene, sobre los riesgos que\nrepresenta la electricidad estática y la manera de evitarlos, en su caso, considerar a los contratistas,\nproveedores y visitantes.",
+    "start_char": 11807,
+    "end_char": 12037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "5.5",
+    "label": "5.5 Capacitar y adiestrar a los trabajadores sobre las técnicas para descargar o evitar la generación y",
+    "text": "5.5 Capacitar y adiestrar a los trabajadores sobre las técnicas para descargar o evitar la generación y\nacumulación de electricidad estática, conforme a lo que establece el Capítulo 10 de esta Norma.",
+    "start_char": 12041,
+    "end_char": 12240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "5.6",
+    "label": "5.6 Registrar los valores de la resistencia de la red de puesta a tierra, la comprobación de la continuidad",
+    "text": "5.6 Registrar los valores de la resistencia de la red de puesta a tierra, la comprobación de la continuidad\neléctrica y, en su caso, de la humedad relativa, de acuerdo con lo previsto por los numerales 9.5 y 7.3, inciso\na), respectivamente, de la presente Norma.",
+    "start_char": 12245,
+    "end_char": 12507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "5.7",
+    "label": "5.7 Exhibir ante la autoridad laboral, cuando así lo solicite, la información y documentación que esta",
+    "text": "5.7 Exhibir ante la autoridad laboral, cuando así lo solicite, la información y documentación que esta\nNorma le obligue a elaborar o poseer.\n\f   Viernes 1 de abril de 2016                  DIARIO OFICIAL                               (Segunda Sección)",
+    "start_char": 12511,
+    "end_char": 12762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "6",
+    "label": "6. Obligaciones de los trabajadores",
+    "text": "6. Obligaciones de los trabajadores",
+    "start_char": 12767,
+    "end_char": 12802
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "6.1",
+    "label": "6.1 Observar las medidas de seguridad previstas en la presente Norma, así como las que se establezcan",
+    "text": "6.1 Observar las medidas de seguridad previstas en la presente Norma, así como las que se establezcan\nen el centro de trabajo para la prevención de riesgos por generación y acumulación de electricidad estática.",
+    "start_char": 12806,
+    "end_char": 13016
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "6.2",
+    "label": "6.2 Participar en la capacitación y adiestramiento que el patrón les proporcione.",
+    "text": "6.2 Participar en la capacitación y adiestramiento que el patrón les proporcione.",
+    "start_char": 13020,
+    "end_char": 13101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "6.3",
+    "label": "6.3 Notificar al patrón, de conformidad con el procedimiento que para tal efecto se establezca, cualquier",
+    "text": "6.3 Notificar al patrón, de conformidad con el procedimiento que para tal efecto se establezca, cualquier\nsituación anormal que detecten en los sistemas de puesta a tierra y sistema de protección contra descargas\neléctricas atmosféricas.",
+    "start_char": 13106,
+    "end_char": 13343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "7",
+    "label": "7. Condiciones de seguridad",
+    "text": "7. Condiciones de seguridad",
+    "start_char": 13347,
+    "end_char": 13374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "7.1",
+    "label": "7.1 Las condiciones de seguridad para controlar la generación y/o acumulación de electricidad estática, se",
+    "text": "7.1 Las condiciones de seguridad para controlar la generación y/o acumulación de electricidad estática, se\ndeberán determinar con base en lo siguiente:\n   a)   La naturaleza del trabajo (se refiere a las etapas del proceso, los equipos, la existencia de fricción, la\n        velocidad de conducción o vertido de fluidos y los tipos de procedimientos de trabajo, entre otras\n        características);\n   b)   Las características fisicoquímicas de las sustancias (temperatura, punto de inflamación, límite de\n        explosividad, viscosidad, conductividad específica de la sustancia, densidad, entre otras), que se\n        manejen, almacenen o transporten;\n   c)   Las características del ambiente en lo que se refiere a humedad relativa y temperatura, y\n   d)   Las características de los materiales de construcción de la maquinaria, equipo e inmueble.",
+    "start_char": 13378,
+    "end_char": 14230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "7.2",
+    "label": "7.2 Para controlar la generación o acumulación de electricidad estática se deberán adoptar, según",
+    "text": "7.2 Para controlar la generación o acumulación de electricidad estática se deberán adoptar, según\napliquen, las medidas de seguridad siguientes:\n   a)   Instalar sistemas de puesta a tierra, dispositivos o equipos para controlar la electricidad estática, en\n        función de los tipos de procesos e instalaciones con que se cuente, tales como: ionizadores;\n        neutralizadores o eliminadores de electricidad estática; dispositivos con conexión a tierra; cepillos\n        mecánicos conectados a tierra; barras de disipación de electricidad estática, o mediante la aplicación\n        de tratamientos a bandas, entre otros;\n   b)   Asegurar la unión eléctrica o conexión equipotencial entre máquinas, equipos, contenedores y\n        componentes metálicos;\n   c)   Realizar la medición de la resistencia a tierra de la red de puesta a tierra, conforme a lo señalado por\n        el Capítulo 9 de la presente Norma, y la comprobación de la continuidad en los puntos de conexión a\n        tierra, al menos cada doce meses. Los valores deberán cumplir con lo siguiente:\n        1)   Tener un valor menor o igual a 10 ohms, para la resistencia a tierra del (los) electrodo(s) en\n             sistemas de pararrayos o sistema de protección contra descargas eléctricas atmosféricas;\n        2)   Tener un valor menor o igual a 25 ohms, para la resistencia a tierra de la red de puesta a tierra, y\n        3)   Existir continuidad eléctrica en los puntos de conexión a tierra del equipo que pueda generar o\n             almacenar electricidad estática. En la Guía de referencia I, se indican de manera ilustrativa los\n             puntos a inspeccionar y la forma de medir la continuidad eléctrica de las conexiones;\n   d)   Colocar pisos antiestáticos o conductivos;\n   e)   Humidificar el ambiente manteniendo una humedad relativa superior a 65%. Esta disposición no\n        aplica para aquellos casos en que, por la naturaleza de las sustancias, la humedad del aire\n        represente un peligro por reacción con la sustancia, en cuyo caso el control de la acumulación de la\n        electricidad estática se deberá realizar por otros medios;\n   f)   Ionizar el aire en la proximidad del equipo, contenedor u objeto cargados, y/o\n   g)   Aumentar la conductividad de los materiales susceptibles de generar y acumular cargas eléctricas\n        estáticas, mediante el agregado de aditivos conductivos (por ejemplo, negro de humo, aditivos de\n        carbono, grafito y otros productos conductores de la electricidad).",
+    "start_char": 14235,
+    "end_char": 16746
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "7.3",
+    "label": "7.3 En las áreas de trabajo cerradas donde la humedad relativa sea la medida o una de las medidas",
+    "text": "7.3 En las áreas de trabajo cerradas donde la humedad relativa sea la medida o una de las medidas\nadoptadas para controlar la acumulación de electricidad estática se deberá realizar lo siguiente:\n   a)   Mantener la humedad relativa en un nivel superior a 65%;\n   b)   Medir la humedad relativa y registrar su valor, al menos cada doce meses y/o cuando se realicen\n        modificaciones al área de trabajo que puedan afectar esta condición, y\n\f        (Segunda Sección)                        DIARIO OFICIAL                       Viernes 1 de abril de 2016\n\n   c)     Monitorear, en su caso, la humedad relativa de las áreas o procesos de manera continua cuando\n          constituya una medida de seguridad contra peligro de incendio o explosión. El monitoreo deberá\n          realizarse mediante equipos que cuenten con alarma que indique que la humedad relativa ha\n          descendido a niveles inferiores al establecido en el inciso a) del presente numeral.\n          El equipo que se utilice para la medición y/o monitoreo de la humedad relativa deberá contar con\n          certificado de calibración vigente, en los términos que dispone la Ley Federal sobre Metrología y\n          Normalización.",
+    "start_char": 16750,
+    "end_char": 17952
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "7.4",
+    "label": "7.4 En las áreas de trabajo donde la presencia de electricidad estática en el cuerpo del trabajador",
+    "text": "7.4 En las áreas de trabajo donde la presencia de electricidad estática en el cuerpo del trabajador\nrepresente un riesgo, se deberán colocar materiales antiestáticos o conductivos, o dispositivos para drenar a\ntierra las corrientes que se hayan acumulado en él.",
+    "start_char": 17958,
+    "end_char": 18219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "7.5",
+    "label": "7.5 En las zonas donde se manejen, almacenen o transporten sustancias inflamables o explosivas,",
+    "text": "7.5 En las zonas donde se manejen, almacenen o transporten sustancias inflamables o explosivas,\ndeberán conectarse a tierra las partes metálicas que no estén destinadas a conducir energía eléctrica y que\nno se encuentren ya inherentemente conectados a tierra, tales como tanques metálicos, cajas metálicas de\nequipos, maquinaria y tuberías.",
+    "start_char": 18223,
+    "end_char": 18563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "8",
+    "label": "8. Sistema de protección contra descargas eléctricas atmosféricas",
+    "text": "8. Sistema de protección contra descargas eléctricas atmosféricas",
+    "start_char": 18567,
+    "end_char": 18632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "8.1",
+    "label": "8.1 Los centros de trabajo o áreas que se clasifiquen como riesgo de incendio alto de acuerdo con lo",
+    "text": "8.1 Los centros de trabajo o áreas que se clasifiquen como riesgo de incendio alto de acuerdo con lo\nestablecido por la NOM-002-STPS-2010, o las que la sustituyan, deberán instalar un sistema de protección\ncontra descargas eléctricas atmosféricas, tal como el sistema de pararrayos.\n   Para el diseño e instalación del sistema de protección contra descargas eléctricas atmosféricas, puede\nconsultarse la Norma Mexicana NMX-J-549-ANCE-2005, o las que la sustituyan.\n   En la Guía de referencia I, se presentan algunos ejemplos en los que se sugiere considerar la instalación\nde un sistema de protección contra descargas eléctricas atmosféricas.",
+    "start_char": 18636,
+    "end_char": 19279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "8.2",
+    "label": "8.2 Para seleccionar un sistema externo de protección contra descargas eléctricas atmosféricas, ya sea",
+    "text": "8.2 Para seleccionar un sistema externo de protección contra descargas eléctricas atmosféricas, ya sea\ncon terminales aéreas convencionales o terminales aéreas de tecnologías alternativas, se deberán considerar,\nal menos, los factores siguientes:\n   a)     El arreglo general del centro de trabajo (planta, cortes y elevaciones);\n   b)     Las sustancias inflamables o explosivas que se almacenen, manejen o transporten en el centro de\n          trabajo, en cuanto a su inflamabilidad o explosividad, y la tendencia a generar y acumular cargas\n          eléctricas estáticas, por sus características fisicoquímicas y las de los contenedores y/o tuberías, así\n          como la naturaleza de los procesos a que están sujetas, y las condiciones presentes del ambiente;\n   c)     La densidad del rayo a tierra de la región, y\n   d)     La zona de protección del sistema.",
+    "start_char": 19284,
+    "end_char": 20151
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "8.3",
+    "label": "8.3 El centro de trabajo deberá contar con un estudio que demuestre que el área de cobertura del sistema",
+    "text": "8.3 El centro de trabajo deberá contar con un estudio que demuestre que el área de cobertura del sistema\nexterno de protección contra descargas eléctricas atmosféricas comprende el edificio, local o zona de riesgo\nen la que se manejan las sustancias inflamables o explosivas. El estudio deberá ser elaborado por un\ningeniero electricista o afín, y contener, al menos, lo siguiente:\n   a)     Tipo y características del sistema instalado;\n   b)     Altura de las terminales aéreas que sobresalen de cualquiera de las estructuras circundantes;\n   c)     Ubicación del sistema;\n   d)     Área de cobertura de protección con la metodología utilizada para su cálculo, y\n   e)     Nombre y firma de quien lo elaboró, así como número de cédula profesional.",
+    "start_char": 20155,
+    "end_char": 20904
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:8-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "8.4",
+    "label": "8.4 Para reducir el riesgo de choque eléctrico derivado de la circulación de la corriente de rayo en los",
+    "text": "8.4 Para reducir el riesgo de choque eléctrico derivado de la circulación de la corriente de rayo en los\nconductores de bajada y en los elementos de la red de puesta a tierra del sistema externo de protección\ncontra descargas eléctricas atmosféricas, se deberá adoptar lo siguiente:\n   a)     Instalar un arreglo del sistema de puesta a tierra y proveer una superficie de alta resistividad en la\n          zona de tránsito de trabajadores, tal como grava triturada de 0.10 metros de espesor como mínimo,\n          entre el terreno natural y los elementos del sistema de puesta a tierra;\n   b)     Proveer una canalización no metálica con resistencia a la intemperie sobre la superficie del conductor\n          de bajada con el objeto de reducir la posibilidad de contacto accidental o incidental de los\n          trabajadores;\n\f   Viernes 1 de abril de 2016                   DIARIO OFICIAL                               (Segunda Sección)\n\n   c)    Colocar en la canalización avisos de precaución que indiquen el “PELIGRO: EVENTUAL\n         CORRIENTE DE RAYO”, conforme a lo dispuesto por la NOM-026-STPS-2008, o las que la\n         sustituyan;\n   d)    Unir eléctricamente al sistema de puesta a tierra (por debajo del nivel de piso) todos los elementos\n         metálicos y acero de refuerzo de la estructura a proteger, mediante electrodos de puesta a tierra\n         horizontales colocados a una profundidad mínima de 0.60 metros, y\n   e)    Instalar el conductor de bajada de tal forma que su recorrido sea lo más corto posible y se eviten\n         cruces con instalaciones eléctricas.",
+    "start_char": 20908,
+    "end_char": 22498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:8-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "8.5",
+    "label": "8.5 Los trabajadores que realicen actividades en lugares en los que exista exposición a la incidencia de",
+    "text": "8.5 Los trabajadores que realicen actividades en lugares en los que exista exposición a la incidencia de\ndescargas atmosféricas, y no estén protegidos contra este riesgo, tales como azoteas de edificios que\nsobresalen en altura con respecto a otras estructuras contiguas, postes o torres de alumbrado o cableado,\nplataformas elevadas, antenas, entre otros, deberán suspender la actividad tan pronto se aproxime una\ntormenta eléctrica.",
+    "start_char": 22503,
+    "end_char": 22937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:8-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "8.6",
+    "label": "8.6 La red de puesta a tierra de los sistemas de pararrayos deberá interconectarse con otras redes de",
+    "text": "8.6 La red de puesta a tierra de los sistemas de pararrayos deberá interconectarse con otras redes de\npuesta a tierra, tales como las de motores, subestaciones o sistema eléctrico en general.",
+    "start_char": 22941,
+    "end_char": 23132
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:8-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "8.7",
+    "label": "8.7 Los electrodos de la red de puesta a tierra de los sistemas de pararrayos deberán permitir su",
+    "text": "8.7 Los electrodos de la red de puesta a tierra de los sistemas de pararrayos deberán permitir su\ndesconexión cuando se realice la medición a que se refiere el Capítulo 9 de esta Norma. Para ello, los\nelectrodos deberán contar con medios que permitan su desconexión y que eviten falsos contactos.",
+    "start_char": 23137,
+    "end_char": 23433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:8-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "8.8",
+    "label": "8.8 Queda prohibido utilizar pararrayos que estén fabricados o funcionen a base de materiales radiactivos.",
+    "text": "8.8 Queda prohibido utilizar pararrayos que estén fabricados o funcionen a base de materiales radiactivos.",
+    "start_char": 23437,
+    "end_char": 23543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "9",
+    "label": "9. Medición de la resistencia a tierra de la red de puesta a tierra",
+    "text": "9. Medición de la resistencia a tierra de la red de puesta a tierra",
+    "start_char": 23547,
+    "end_char": 23614
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "9.1",
+    "label": "9.1 La medición de la resistencia a tierra de la red de puesta a tierra se deberá realizar aplicando el",
+    "text": "9.1 La medición de la resistencia a tierra de la red de puesta a tierra se deberá realizar aplicando el\nmétodo de caída de tensión, de conformidad con lo que prevé el numeral 9.4 de la presente Norma. Esta\nmedición deberá efectuarse tomando en consideración la condición más desfavorable en cuanto al grado de\nhumedad del terreno en el que se ha instalado la red de puesta a tierra.",
+    "start_char": 23618,
+    "end_char": 24000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "9.2",
+    "label": "9.2 Para realizar la medición de la resistencia a tierra de la red de puesta a tierra se deberá contar con los",
+    "text": "9.2 Para realizar la medición de la resistencia a tierra de la red de puesta a tierra se deberá contar con los\ninstrumentos siguientes:\n   a)    Equipo de medición de resistencia de tierra con las características siguientes:\n         1)   Intervalo de frecuencia de 90 Hz a 200 Hz o mayor, y\n         2)   Con capacidad de proveer corriente con valores de al menos 0.1 mA;\n   b)    Accesorios provistos por el fabricante del equipo de medición o, en caso de no contar con accesorios\n         para el equipo de medición, utilizar cable o cordón aislado de cobre de forro apropiado a las\n         condiciones de uso con una designación de uso más común de 2.08 mm2 (14 AWG) o 1.307 mm2\n         (16 AWG), con accesorios en sus extremos para la correcta conexión al equipo y electrodos\n         auxiliares con una longitud mínima de 50 centímetros y un diámetro mínimo de 13 milímetros de\n         alguno de los materiales siguientes: acero inoxidable, acero con recubrimiento de cobre o acero\n         galvanizado;\n   c)    Óhmetro o medidor de resistencia a tierra para comprobar la continuidad de las conexiones a tierra,\n         con una resolución de al menos 1 ohm;\n   d)    Voltímetro con resolución de al menos 1 volt, y\n   e)    Flexómetro o instrumento similar de medición de longitud.",
+    "start_char": 24005,
+    "end_char": 25297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "9.3",
+    "label": "9.3 El óhmetro o medidor de resistencia a tierra y el voltímetro deberán contar con certificado de",
+    "text": "9.3 El óhmetro o medidor de resistencia a tierra y el voltímetro deberán contar con certificado de\ncalibración vigente, en los términos de lo determinado por la Ley Federal sobre Metrología y Normalización.",
+    "start_char": 25302,
+    "end_char": 25508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "9.4",
+    "label": "9.4 La medición de la resistencia a tierra de la red de puesta a tierra se deberá realizar conforme a lo",
+    "text": "9.4 La medición de la resistencia a tierra de la red de puesta a tierra se deberá realizar conforme a lo\nsiguiente:\n   a)    Verificar que el electrodo bajo prueba (que corresponde a la red de puesta a tierra) esté\n         desconectado de la red de puesta a tierra, considerando lo siguiente:\n         1)   Realizar la desconexión de la red de puesta a tierra, con los equipos eléctricos desenergizados,\n              y\n         2)   Efectuar la medición de la resistencia a tierra desconectando cada electrodo de forma individual,\n              cuando ésta se realice en condiciones de operación normal, a fin de no desproteger a los\n              trabajadores;\n\f        (Segunda Sección)                        DIARIO OFICIAL                        Viernes 1 de abril de 2016\n\n   b)     Ajustar a cero la aguja del instrumento de medición analógico o verificar que la fuente de poder del\n          equipo digital tenga suficiente energía para realizar el conjunto de mediciones;\n   c)     Aplicar el método de caída de tensión de la manera siguiente:\n          1)   Hacer circular una corriente entre dos electrodos: uno llamado C1 (que corresponde a la red de\n               puesta a tierra) y un electrodo auxiliar denominado C2, mismo que se introduce al terreno a una\n               distancia mínima de 20 metros de C1. Para realizar la primera medición se introduce en el\n               terreno otro electrodo auxiliar llamado P1, a un metro de distancia de C1, entre el electrodo bajo\n               prueba C1 y el electrodo auxiliar C2;\n          2)   Desplazar el electrodo auxiliar P1 de manera lineal a 3 metros de la primera medición y en\n               dirección al electrodo auxiliar C2 para realizar la segunda medición, y\n          3)   Realizar las mediciones siguientes desplazando el electrodo auxiliar P1 cada 3 metros hasta\n               complementar 19 metros. En la Figura 1 se muestra la colocación de los electrodos de la red de\n               puesta a tierra, y auxiliares;\n   d)     Registrar los valores obtenidos de las mediciones;\n   e)     Elaborar una gráfica con base en los valores registrados, similar a la que se ilustra en la parte inferior\n          de la Figura 1 siguiente;\n\n\n\n\n          D1       Distancia entre el electrodo de la red de puesta a tierra C1 y el electrodo auxiliar P1.\n          DT       Distancia entre el electrodo de la red de puesta a tierra C1 y el electrodo auxiliar C2.\n          Figura 1 – Posición de electrodos y gráfica de valores de resistencia eléctrica vs. distancia\n   f)     Obtener el valor de la resistencia a tierra de la red de puesta a tierra de la intersección del eje de\n          resistencia con la parte paralela de la curva al eje de las distancias;\n   g)     Repetir las mediciones alejando el electrodo C2 del electrodo C1, cuando la curva obtenida no\n          presente un tramo paralelo, hasta obtener valores paralelos al eje de las distancias, y\n   h)     Verificar que los valores de la resistencia a tierra, de la red de puesta a tierra que se obtengan en\n          esta prueba, sean menores o iguales a 10 ohms para el (los) electrodo(s) del sistema de pararrayos,\n          y/o tener un valor menor o igual a 25 ohms para la resistencia a tierra de la red de puesta a tierra.",
+    "start_char": 25513,
+    "end_char": 28784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:9-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "9.5",
+    "label": "9.5 El resultado de las mediciones tendrá que registrarse, dicho registro deberá contener, como mínimo,",
+    "text": "9.5 El resultado de las mediciones tendrá que registrarse, dicho registro deberá contener, como mínimo,\nlo siguiente:\n\f   Viernes 1 de abril de 2016                   DIARIO OFICIAL                               (Segunda Sección)\n\n   a)   Los datos del centro de trabajo:\n        1)   Nombre o razón social del centro de trabajo;\n        2)   Domicilio del centro de trabajo;\n        3)   Fecha de realización de la medición, y\n        4)   Nombre y firma de la persona que realizó la medición;\n   b)   Los datos de los instrumentos de medición:\n        1)   Nombre genérico del instrumento utilizado;\n        2)   Características del equipo de medición utilizado (modelo, número de serie, intervalos de\n             medición, precisión, exactitud, etc.), y\n        3)   Copia del certificado de calibración vigente del instrumento utilizado;\n   c)   Los valores de las mediciones:\n        1)   Valores de resistencia a tierra de la red de puesta a tierra y/o de la resistencia a tierra del (los)\n             electrodo(s) del sistema de pararrayos, y\n        2)   Indicación de si existe continuidad eléctrica de los puntos de conexión del sistema;\n   d)   El croquis en el que se muestre los puntos de medición del sistema de puesta a tierra y, en su caso,\n        del (los) electrodo(s) del sistema pararrayos, y\n   e)   Las características del sistema de pararrayos utilizado, en su caso, con al menos lo siguiente:\n        1)   Tipo de sistema de pararrayos;\n        2)   Altura de las terminales aéreas;\n        3)   Ubicación, y\n        4)   Área de cobertura de protección.",
+    "start_char": 28789,
+    "end_char": 30370
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "10",
+    "label": "10. Capacitación y adiestramiento",
+    "text": "10. Capacitación y adiestramiento",
+    "start_char": 30374,
+    "end_char": 30407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "10.1",
+    "label": "10.1 A los trabajadores involucrados en actividades en las que se genere o acumule electricidad estática,",
+    "text": "10.1 A los trabajadores involucrados en actividades en las que se genere o acumule electricidad estática,\nen la instalación, revisión de sistemas de puesta a tierra y sistemas de pararrayos, así como en la\ndeterminación de la resistencia a tierra y continuidad de las redes, se les deberá proporcionar capacitación y\nadiestramiento para llevar a cabo estas actividades y prevenir los riesgos derivados de estas actividades, la\ncual comprenderá, al menos, lo siguiente:\n   a)   Los fundamentos técnicos sobre la generación y acumulación de cargas eléctricas estáticas;\n   b)   Los procesos en los que ocurre la generación y acumulación de cargas eléctricas estáticas, con\n        énfasis en los que se llevan a cabo en su centro de trabajo, y los mecanismos físicos por los cuales\n        se da en cada caso este fenómeno;\n   c)   Los materiales sólidos y fluidos, aislantes, semiconductores y conductores, susceptibles de cargarse\n        electrostáticamente;\n   d)   Los riesgos ocasionados por la electricidad estática, los métodos disponibles para su control,\n        disipación y descarga;\n   e)   Los riesgos derivados de descargas eléctricas atmosféricas y las medidas de seguridad                para\n        evitarlos;\n   f)   Las medidas de seguridad que señala esta Norma para prevenir los riesgos por generación y\n        acumulación de electricidad estática;\n   g)   Las condiciones de seguridad implementadas en el centro de trabajo, de manera adicional a lo\n        dispuesto por la presente Norma;\n   h)   Los procedimientos, en su caso, para llevar a cabo la instalación, revisión de sistemas de puesta a\n        tierra y sistemas de pararrayos, así como para la determinación de la resistencia a tierra y\n        continuidad de las redes, e\n   i)   El uso adecuado del equipo de protección personal que se le suministre para el desarrollo de sus\n        actividades, de conformidad con lo dispuesto por la NOM-017-STPS-2008, o las que la sustituyan.\n\f        (Segunda Sección)                         DIARIO OFICIAL                   Viernes 1 de abril de 2016",
+    "start_char": 30411,
+    "end_char": 32488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "10.2",
+    "label": "10.2 La capacitación y adiestramiento que se proporcione a los trabajadores deberá reforzarse por lo",
+    "text": "10.2 La capacitación y adiestramiento que se proporcione a los trabajadores deberá reforzarse por lo\nmenos cada dos años.",
+    "start_char": 32492,
+    "end_char": 32613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "10.3",
+    "label": "10.3 Los centros de trabajo deberán llevar el registro de la capacitación y adiestramiento que proporcionen",
+    "text": "10.3 Los centros de trabajo deberán llevar el registro de la capacitación y adiestramiento que proporcionen\na los trabajadores, el cual deberá contener, al menos, lo siguiente:\n   a)     El nombre y puesto de los trabajadores a los que se les proporcionó;\n   b)     La fecha en que se proporcionó la capacitación y el adiestramiento;\n   c)     Los temas impartidos, y\n   d)     El nombre del instructor y, en su caso, número de registro como agente capacitador ante la\n          Secretaría del Trabajo y Previsión Social.",
+    "start_char": 32618,
+    "end_char": 33139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "11",
+    "label": "11. Unidades de verificación y laboratorios de prueba",
+    "text": "11. Unidades de verificación y laboratorios de prueba",
+    "start_char": 33143,
+    "end_char": 33196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "11.1",
+    "label": "11.1 El patrón tendrá la opción de contratar una unidad de verificación y/o un laboratorio de pruebas,",
+    "text": "11.1 El patrón tendrá la opción de contratar una unidad de verificación y/o un laboratorio de pruebas,\nacreditados y aprobados en los términos de lo que establece la Ley Federal sobre Metrología y Normalización\ny su Reglamento.",
+    "start_char": 33201,
+    "end_char": 33428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:11-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "11.2",
+    "label": "11.2 Las unidades de verificación contratadas a petición de parte deberán verificar el grado de",
+    "text": "11.2 Las unidades de verificación contratadas a petición de parte deberán verificar el grado de\ncumplimiento con esta Norma, conforme a lo previsto por el procedimiento para la evaluación de la\nconformidad del Capítulo 12 de la presente Norma, y en su caso emitir un dictamen de cumplimiento, el cual\nhabrá de contener:\n   a)     Datos del centro de trabajo verificado:\n          1)   Nombre, denominación o razón social;\n          2)   Registro Federal de Contribuyentes;\n          3)   Domicilio completo;\n          4)   Teléfono, y\n          5)   Actividad principal;\n   b)     Datos del organismo privado:\n          1)   Nombre, denominación o razón social;\n          2)   Número de acreditación;\n          3)   Número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social, y\n          4)   Domicilio completo, y\n   c)     Datos del dictamen:\n          1)   Clave de la norma;\n          2)   Nombre del verificador evaluado y aprobado;\n          3)   Servicios prestados: elaboración, ejecución y validación, en el caso de dictámenes con reporte\n               de servicios;\n          4)   Fecha de verificación;\n          5)   Número de dictamen;\n          6)   Vigencia del dictamen;\n          7)   Lugar de emisión del dictamen, y\n          8)   Fecha de emisión del dictamen.",
+    "start_char": 33432,
+    "end_char": 34733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:11-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "11.3",
+    "label": "11.3 Los laboratorios de prueba sólo podrán evaluar lo que determinan los numerales 5.3 y 7.2 inciso c), el",
+    "text": "11.3 Los laboratorios de prueba sólo podrán evaluar lo que determinan los numerales 5.3 y 7.2 inciso c), el\nCapítulo 9, y en su caso, lo señalado por el numeral 7.3 de esta Norma.",
+    "start_char": 34737,
+    "end_char": 34916
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:11-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "11.4",
+    "label": "11.4 Los laboratorios de prueba deberán emitir un informe de resultados que incluya el registro, de",
+    "text": "11.4 Los laboratorios de prueba deberán emitir un informe de resultados que incluya el registro, de\nacuerdo con lo que dispone el numeral 9.5 de la presente Norma y, en su caso, el resultado de la medición de\nla humedad relativa. El informe de resultados deberá contener:\n\f   Viernes 1 de abril de 2016                       DIARIO OFICIAL                               (Segunda Sección)\n\n   a)      Datos del centro de trabajo evaluado:\n           1)   Nombre, denominación o razón social;\n           2)   Registro Federal de Contribuyentes;\n           3)   Domicilio completo;\n           4)   Teléfono, y\n           5)   Actividad principal;\n   b)      Datos del organismo privado:\n           1)   Denominación o razón social;\n           2)   Número de acreditación;\n           3)   Número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social, y\n           4)   Domicilio completo, y\n   c)      Datos del informe de resultados:\n           1)   Clave de la norma, el procedimiento para la medición de la resistencia a tierra del (los)\n                electrodo(s) del sistema de pararrayos y de la red de puesta a tierra, de conformidad con lo\n                establecido en los numerales 9.1 y 9.4 de esta Norma, la comprobación de la continuidad en los\n                puntos de conexión a tierra y, en su caso, la medición y/o monitoreo de la humedad relativa;\n           2)   Nombre del signatario evaluado y aprobado;\n           3)   Equipo utilizado y su número de serie, con base en lo que prevén los numerales 9.2 y 9.3 de la\n                presente Norma;\n           4)   Fecha en que se realizó la medición de la resistencia a tierra del (los) electrodo(s) del sistema de\n                pararrayos y de la red de puesta a tierra, y comprobó la continuidad en los puntos de conexión a\n                tierra y, en su caso, la medición y/o monitoreo de la humedad relativa;\n           5)   Los resultados de las mediciones conforme a lo determinado por el numeral 9.5 de esta Norma;\n           6)   Número del informe de resultados;\n           7)   Vigencia del informe de resultados;\n           8)   Lugar de emisión del informe de resultados, y\n           9)   Fecha de emisión del informe de resultados.",
+    "start_char": 34921,
+    "end_char": 37157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:11-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "11.5",
+    "label": "11.5 La vigencia del dictamen de verificación y del informe de resultados cuando éstos sean favorables,",
+    "text": "11.5 La vigencia del dictamen de verificación y del informe de resultados cuando éstos sean favorables,\nserá de un año, siempre y cuando no sean modificadas las condiciones que sirvieron para su emisión.",
+    "start_char": 37161,
+    "end_char": 37364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:11-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "11.6",
+    "label": "11.6 El directorio de las unidades de verificación y laboratorios de prueba que están aprobados por la",
+    "text": "11.6 El directorio de las unidades de verificación y laboratorios de prueba que están aprobados por la\ndependencia, se puede consultar la página de la Secretaría del Trabajo y Previsión Social, vía Internet, en la\ndirección electrónica: http://organismosprivados.stps.gob.mx/organismosprivados/index.html.",
+    "start_char": 37369,
+    "end_char": 37674
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "12",
+    "label": "12. Procedimiento para la Evaluación de la Conformidad",
+    "text": "12. Procedimiento para la Evaluación de la Conformidad",
+    "start_char": 37678,
+    "end_char": 37732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "12.1",
+    "label": "12.1 El procedimiento para la evaluación de la conformidad aplica tanto a las visitas de inspección",
+    "text": "12.1 El procedimiento para la evaluación de la conformidad aplica tanto a las visitas de inspección\ndesarrolladas por la autoridad laboral, como a las visitas de verificación que realicen las unidades de\nverificación.",
+    "start_char": 37737,
+    "end_char": 37954
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "12.2",
+    "label": "12.2 El informe de resultados y el dictamen de verificación vigente, en su caso, deberán estar a",
+    "text": "12.2 El informe de resultados y el dictamen de verificación vigente, en su caso, deberán estar a\ndisposición de la autoridad laboral cuando ésta lo solicite.",
+    "start_char": 37959,
+    "end_char": 38116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:12-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "12.3",
+    "label": "12.3 Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se realizarán,",
+    "text": "12.3 Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se realizarán,\nsegún aplique, mediante la constatación física, revisión documental, registros o entrevistas, de conformidad\ncon lo siguiente:\n                        Tipo de\n   Disposición                                    Criterio de aceptación                 Observaciones     Riesgo\n                       evaluación\n\n 5.1 y 7            Física             El patrón cumple cuando, al realizar un                           Grave\n                                       recorrido por el centro de trabajo, se constata\n                                       que establece condiciones de seguridad para\n                                       controlar la generación y acumulación de las\n                                       cargas eléctricas estáticas en las áreas del\n                                       centro de trabajo.\n\f(Segunda Sección)                     DIARIO OFICIAL                            Viernes 1 de abril de 2016\n\n           Documental   El patrón cumple cuando presenta evidencia\n                        documental de que determina las condiciones\n                        de seguridad para controlar la generación y/o\n                        acumulación de electricidad estática, con base\n                        en:\n                            La naturaleza del trabajo (se refiere a las\n                             etapas del proceso, los equipos, la\n                             existencia de fricción, la velocidad de\n                             conducción o vertido de fluidos y los tipos\n                             de procedimientos de trabajo, entre otras\n                             características);\n                            Las características fisicoquímicas de las\n                             sustancias    (temperatura,    punto   de\n                             inflamación, límite de explosividad,\n                             viscosidad, conductividad específica de la\n                             sustancia, densidad, entre otras), que se\n                             manejan, almacenan o transportan;\n                            Las características del ambiente en lo que\n                             se refiere a humedad relativa y\n                             temperatura, y\n                            Las características de los materiales de\n                             construcción de la maquinaria, equipo e\n                             inmueble.\n           Física       El patrón cumple cuando, al realizar un                                  Grave\n                        recorrido por el centro de trabajo, se constata\n                        que para controlar la generación o acumulación\n                        de electricidad estática se aplica, entre otras,\n                        las medidas de seguridad siguientes:\n                            Instala sistemas de puesta a tierra,\n                             dispositivos o equipos para controlar la\n                             electricidad estática, en función de los\n                             tipos de procesos e instalaciones con que\n                             se cuenta, tales como: ionizadores;       Esta disposición no\n                             neutralizadores     o   eliminadores   de aplica para aquellos\n                             electricidad estática; dispositivos con   casos en que por la\n                             conexión a tierra; cepillos mecánicos     naturaleza de las\n                             conectados a tierra; barras de disipación sustancias,        la\n                             de electricidad estática, o mediante la   humedad del aire\n                             aplicación de tratamientos a bandas, entrerepresente        un\n                             otros;                                    peligro por reacción\n                            Asegura la unión eléctrica o conexión con la sustancia, en\n                             equipotencial entre máquinas, equipos, cuyo caso el control\n                             contenedores y componentes metálicos;     de la acumulación\n                                                                       de la electricidad\n                            Coloca pisos antiestáticos o conductivos;\n                                                                       estática se deberá\n                            Humidifica el ambiente manteniendo una realizar por otros\n                             humedad relativa superior a 65%;          medios\n                            Ioniza el aire en la proximidad del equipo,\n                             contenedor u objeto cargados, y/o\n                            Aumenta la conductividad de los\n                             materiales susceptibles de generar y\n                             acumular cargas eléctricas estáticas,\n                             mediante el agregado de aditivos\n                             conductivos (por ejemplo, negro de humo,\n                             aditivos de carbono, grafito y otros\n                             productos conductores de la electricidad).\n\n           Documental   El patrón cumple cuando presenta evidencia Esta disposición no Grave\n                                                                           aplica   para   los\n\fViernes 1 de abril de 2016                DIARIO OFICIAL                                             (Segunda Sección)\n\n                             documental de que:                                      centros de trabajo\n                                                                                     cuya red de puesta\n                                Realiza la medición de la resistencia a\n                                                                                     a tierra cubra áreas\n                                 tierra de la red de puesta a tierra y\n                                                                                     mayores a 100 000\n                                 comprueba la continuidad en los puntos\n                                                                                     m2,     para    ello   el\n                                 de conexión a tierra, al menos cada doce\n                                                                                     patrón            deberá\n                                 meses;\n                                                                            comprobar\n                                Los valores, la resistencia a tierra de la mediante   planos\n                                 red de puesta a tierra y la continuidad en que   el  sistema\n                                 los puntos de conexión a tierra cumplen comprende       dicha\n                                 con lo siguiente:                                   área\n                                     Tienen un valor menor o igual a 10\n                                      ohms, para la resistencia a tierra del\n                                      (los) electrodo(s) en sistemas de\n                                      pararrayos o sistema de protección\n                                      contra         descargas          eléctricas\n                                      atmosféricas;\n\n                                     Tienen un valor menor o igual a 25\n                                      ohms, para la resistencia a tierra de\n                                      la red de puesta a tierra, y\n\n                                     Existe continuidad eléctrica en los\n                                      puntos de conexión a tierra del\n                                      equipo      que     pueda    generar      o\n                                      almacenar electricidad estática, y\n\n                                En las áreas de trabajo cerradas donde la\n                                 humedad relativa es la medida o una de\n                                 las medidas adoptadas para controlar la\n                                 acumulación      de     electricidad    estática,\n                                 realiza lo siguiente:\n                                                                                     Esta disposición no\n                                     Mantiene la humedad relativa en un\n                                                                                     aplica para aquellos\n                                      nivel superior a 65%;\n                                                                            casos en que por la\n                                     Mide la humedad relativa y registra naturaleza de las\n                                      su valor, al menos cada doce meses, y sustancias,      la\n                                     Monitorea, en su caso, la humedad humedad del aire\n                                      relativa de las áreas o procesos de represente un\n                                      manera continua cuando constituye peligro por reacción\n                                      una medida de seguridad contra con la sustancia, en\n                                      peligro de incendio o explosión;               cuyo caso el control\n                                                                                     de la acumulación\n                                El monitoreo se realiza mediante equipos\n                                                                                     de     la   electricidad\n                                 que cuentan con alarma que indique que\n                                                                                     estática se deberá\n                                 la humedad relativa ha descendido a\n                                                                                     realizar    por    otros\n                                 niveles inferiores al 65%, y\n                                                                                     medios.\n                                El equipo que se utiliza en la medición y/o\n                                 monitoreo de la humedad relativa cuenta\n                                 con certificado de calibración vigente, en\n                                 los términos que dispone la Ley Federal\n                                 sobre Metrología y Normalización.\n\n               Física        El patrón cumple cuando, al realizar un\n                             recorrido por el centro de trabajo, se constata\n                             que:\n\f     (Segunda Sección)                    DIARIO OFICIAL                            Viernes 1 de abril de 2016\n\n                                En las áreas de trabajo donde la\n                                 presencia de electricidad estática en el\n                                 cuerpo del trabajador represente un\n                                 riesgo, se deberán colocar materiales\n                                 antiestáticos o conductivos, o dispositivos\n                                 para drenar a tierra las corrientes que se\n                                 hayan acumulado en él, y\n                                En las zonas donde se manejan,\n                                 almacenan o transportan sustancias\n                                 inflamables o explosivas, se conectan a\n                                 tierra las partes metálicas que no están\n                                 destinadas a conducir energía eléctrica y\n                                 que no se encuentran ya inherentemente\n                                 conectadas a tierra, tales como tanques\n                                 metálicos, cajas metálicas de equipos,\n                                 maquinaria y tuberías.\n\n5.2 y 8         Física       El patrón cumple cuando, al realizar un    Esta      disposición\n                             recorrido por el centro de trabajo se constata\n                                                                        sólo aplica cuando\n                             que instala un sistema de protección contrael centro de trabajo\n                             descargas eléctricas atmosféricas, tal como el\n                                                                        o sus áreas se\n                             sistema de pararrayos, cuando el centro de clasifiquen    como\n                             trabajo o sus áreas se clasifican como riesgo\n                                                                        riesgo de incendio\n                             de incendio alto de acuerdo con lo establecido\n                                                                        alto de acuerdo con\n                             por la NOM-002-STPS-2010, o las que la     lo dispuesto por la\n                             sustituyan.                                NOM-002-STPS-\n                Documental   El patrón cumple cuando presenta evidencia 2010, o las que la Grave\n                             documental de que:                         sustituyan.\n\n                                Considera para seleccionar un sistema        Para identificar si\n                                 externo de protección contra descargas       una sustancia es\n                                 eléctricas atmosféricas, ya sea con          inflamable           o\n                                 terminales aéreas convencionales o           explosiva          se\n                                 terminales    aéreas   de   tecnologías      deberán consultar\n                                 alternativas, al menos, los factores         las hojas de datos\n                                 siguientes:                                  de         seguridad\n                                                                              previstas por la\n                                     El arreglo general del centro de\n                                                                              NOM-018-STPS-\n                                      trabajo (planta, cortes y elevaciones);\n                                                                              2000, o las que la\n                                     Las    sustancias      inflamables    o sustituyan\n                                      explosivas que se almacenen,\n                                                                              La         selección,\n                                      manejen o transporten en el centro\n                                                                              diseño e instalación\n                                      de trabajo, en cuanto a su\n                                                                              del sistema externo\n                                      inflamabilidad o explosividad, y la\n                                                                              de         protección\n                                      tendencia a generar y acumular\n                                                                              contra     descargas\n                                      cargas eléctricas estáticas, por sus\n                                      características fisicoquímicas y las de eléctricas\n                                      los contenedores y/o tuberías, así atmosféricas,          así\n                                      como la naturaleza de los procesos a    como                la\n                                      que están sujetas, y las condiciones determinación de su\n                                      presentes del ambiente;                 zona de protección\n                                                                              se podrá realizar\n                                     La densidad del rayo a tierra de la conforme          a     lo\n                                      región, y                               dispuesto por       la\n                                     La zona de protección del sistema;      norma mexicana\n\n                                Cuenta con un estudio que demuestra que       NMX-J-549-ANCE-\n                                 el área de cobertura del sistema externo      2005, Sistema de\n                                 de protección contra descargas eléctricas     protección   contra\n                                 atmosféricas comprende el edificio, local o   tormentas eléctricas\n                                 zona de riesgo en la que se manejan las\n\fViernes 1 de abril de 2016                DIARIO OFICIAL                                    (Segunda Sección)\n\n                                 sustancias inflamables o explosivas, y         - Especificaciones,\n                                                                                materiales        y\n                                 El estudio sobre el área de cobertura del\n                                  sistema externo de protección contra          métodos          de\n                                  descargas eléctricas atmosféricas fue         medición, o las que\n                                  elaborado por un ingeniero electricista o     la sustituyan.\n                                  afín, y contiene, al menos, lo siguiente: Está           norma\n                                   Tipo y características del sistema      mexicana   puede  ser\n                                        instalado;                          consultada         de\n                                                                            manera gratuita en\n                                   Altura de las terminales aéreas que\n                                                                            las instalaciones del\n                                        sobresalen de cualquiera de las\n                                                                            Organismo\n                                        estructuras circundantes;\n                                                                            Nacional           de\n                                   Ubicación del sistema;                  Normalización\n                                   Área de cobertura de protección con (Asociación            de\n                                        la metodología utilizada para su    Normalización        y\n                                        cálculo, y                          Certificación,  A.C.,\n                                                                            ANCE)               o,\n                                   Nombre y firma de quien lo elaboró,\n                                                                            directamente en la\n                                        así como número de cédula\n                                                                            dirección\n                                        profesional.\n                                                                            electrónica\n               Física        El patrón cumple cuando, al realizar un http://www.ance.org\n                             recorrido por el centro de trabajo se constata .mx/NormalizacionO\n                             que:                                           nLine/Index.aspx.\n\n                                Para reducir el riesgo de choque eléctrico\n                                 derivado de la circulación de la corriente\n                                 en los conductores de bajada y en los\n                                 elementos de la red de puesta a tierra del\n                                 sistema externo de protección contra\n                                 descargas eléctricas atmosféricas, adopta\n                                 lo siguiente:\n\n                                     Instala un arreglo del sistema de\n                                      puesta a tierra y proveer una\n                                      superficie de alta resistividad en la\n                                      zona de tránsito de trabajadores, tal\n                                      como grava triturada de 0.10 metros\n                                      de espesor como mínimo, entre el\n                                      terreno natural y los elementos del\n                                      sistema de puesta a tierra;\n\n                                     Provee una canalización no metálica\n                                      con resistencia a la intemperie sobre\n                                      la superficie del conductor de bajada\n                                      con el objeto de reducir la posibilidad\n                                      de contacto accidental o incidental de\n                                      los trabajadores;\n\n                                     Coloca en la canalización avisos de\n                                      precaución que indiquen “PELIGRO:\n                                      EVENTUAL       CORRIENTE        DE\n                                      RAYO”, conforme a lo dispuesto por\n                                      la NOM-026-STPS-2008, o las que la\n                                      sustituyan;\n\n                                     Une eléctricamente al sistema de\n                                      puesta a tierra (por debajo del nivel\n                                      de piso) todos los elementos\n                                      metálicos y acero de refuerzo de la\n                                      estructura a proteger, mediante\n                                      electrodos de puesta a tierra\n                                      horizontales   colocados    a    una\n\f     (Segunda Sección)                     DIARIO OFICIAL                         Viernes 1 de abril de 2016\n\n                                        profundidad mínima de 0.60 metros, e\n                                       Instala el conductor de bajada de tal\n                                        forma que su recorrido es lo más\n                                        corto posible y se evitan cruces con\n                                        instalaciones eléctricas;\n                                 La red de puesta a tierra de los sistemas\n                                  de pararrayos está interconectada, en su\n                                  caso, con otras redes de puesta a tierra,\n                                  tales como las de motores, subestaciones\n                                  o sistema eléctrico en general;\n                                 Los electrodos de la red de puesta a tierra\n                                  de los sistemas de pararrayos permiten su\n                                  desconexión cuando se realiza la\n                                  medición de la resistencia de la red de\n                                  puesta a tierra y cuentan con medios que\n                                  permiten su desconexión y que evitan\n                                  falsos contactos, y\n                                 Utiliza pararrayos que no están fabricados\n                                  o no funcionan a base de materiales\n                                  radiactivos.\n                Entrevista   El patrón cumple cuando, al entrevistar a los\n                             trabajadores seleccionados de acuerdo con el\n                             criterio muestral de la Tabla 2 del numeral 12.4,\n                             se constata que aquellos trabajadores que\n                             realizan actividades en lugares en los que\n                             existe exposición a la incidencia de descargas\n                             atmosféricas, y no están protegidos contra este\n                             riesgo, tales como azoteas de edificios que\n                             sobresalen en altura con respecto a otras\n                             estructuras contiguas, postes o torres de\n                             alumbrado o cableado, plataformas elevadas,\n                             antenas, entre otros, suspenden la actividad\n                             tan pronto se aproxima una tormenta eléctrica.\n5.3 y 9         Documental   El patrón cumple cuando presenta evidencia                             Grave\n                             documental de que:\n                              Mide la resistencia a tierra de la red de\n                                 puesta a tierra y comprueba la continuidad\n                                 en los puntos de conexión a tierra y, en su\n                                 caso, la humedad relativa cuando ésta es\n                                 una medida para controlar la generación y\n                                 acumulación      de     cargas    eléctricas\n                                 estáticas, con base en lo dispuesto por el\n                                 numeral 7.3 de la presente Norma, y\n                              La medición de la resistencia a tierra de la\n                                 red de puesta a tierra se realiza aplicando\n                                 el método de caída de tensión, de\n                                 conformidad con lo que prevé el numeral\n                                 9.4 de esta Norma, y esta medición se\n                                 efectúa tomando en consideración la\n                                 condición más desfavorable en cuanto al\n                                 grado de humedad del terreno en el que\n                                 está instalada la red de puesta a tierra.\n                Física       El patrón cumple cuando, al realizar un         La demostración del\n                             recorrido por el centro de trabajo se constata  cumplimiento     con\n                             que para realizar la medición de la resistencia a\n                                                                             este requerimiento\n                             tierra de la red de puesta a tierra cuenta con los\n                                                                             puede     efectuarse\n                             instrumentos siguientes:                        también\n                                                                             presentando\n                                 Equipo de medición de resistencia de\n                                                                             original o copia de\n                                  tierra con las características siguientes:\n                                                                             las especificaciones\n\fViernes 1 de abril de 2016                DIARIO OFICIAL                               (Segunda Sección)\n\n                                     Intervalo de frecuencia de 90 Hz a técnicas de los\n                                      200 Hz o mayor, y                      equipos,\n                                                                             instrumentos,\n                                  Con capacidad de proveer corriente\n                                                                             electrodos       y\n                                      con valores de al menos 0.1 mA;\n                                                                             accesorios que se\n                                Accesorios provistos por el fabricante del emplearon      para\n                                 equipo de medición o, en caso de no realizar la medición\n                                 contar con accesorios para el equipo de de la resistencia de\n                                 medición, utiliza cable o cordón aislado de la red de puesta a\n                                 cobre de forro apropiado a las condiciones tierra,\n                                 de uso con una designación de uso más proporcionadas por\n                                 común de 2.08 mm2 (14 AWG) o 1.307 el fabricante.\n                                 mm2 (16 AWG), con accesorios en sus\n                                 extremos para la correcta conexión al\n                                 equipo y electrodos auxiliares con una\n                                 longitud mínima de 50 centímetros y un\n                                 diámetro mínimo de 13 milímetros de\n                                 alguno de los materiales siguientes: acero\n                                 inoxidable, acero con recubrimiento de\n                                 cobre o acero galvanizado;\n\n                                Óhmetro o medidor de resistencia a tierra\n                                 para comprobar la continuidad de las\n                                 conexiones a tierra, con una resolución de\n                                 al menos 1 ohm;\n\n                                Voltímetro con resolución de al menos 1\n                                 volt, y\n\n                                Flexómetro o instrumento        similar   de\n                                 medición de longitud.\n\n               Documental    El patrón cumple cuando presenta evidencia                           Grave\n                             documental de que:\n\n                                El óhmetro o medidor de resistencia a\n                                 tierra y el voltímetro cuentan con\n                                 certificado de calibración vigente, en los\n                                 términos de lo determinado por la Ley\n                                 Federal sobre Metrología y Normalización, y\n\n                                Se realiza la medición de la resistencia a\n                                 tierra de la red de puesta a tierra conforme\n                                 a lo siguiente:\n\n                                    Verifica que el electrodo bajo prueba\n                                     (que corresponde a la red de puesta\n                                     a tierra) está desconectado de la red\n                                     de puesta a tierra, considerando lo\n                                     siguiente:\n\n                                     o     Realiza la desconexión de la red\n                                           de puesta a tierra, con los\n                                           equipos               eléctricos\n                                           desenergizados, y\n\n                                     o     Efectúa la medición de la\n                                           resistencia       a        tierra\n                                           desconectando cada electrodo\n                                           de forma individual, cuando ésta\n                                           se realiza en condiciones de\n\f(Segunda Sección)           DIARIO OFICIAL                         Viernes 1 de abril de 2016\n\n                             operación normal, a fin de no\n                             desproteger a los trabajadores;\n\n                       Ajusta a cero la aguja del instrumento\n                        de medición analógico o verifica que\n                        la fuente de poder del equipo digital\n                        tiene suficiente energía para realizar\n                        el conjunto de mediciones;\n\n                       Aplica el método de caída de tensión\n                        de la manera siguiente:\n\n                        o    Hace circular una corriente entre\n                             dos electrodos: uno llamado C1\n                             (que corresponde a la red de\n                             puesta a tierra) y un electrodo\n                             auxiliar C2, mismo que introduce\n                             al terreno a una distancia\n                             mínima de 20 metros de C1.\n                             Para     realizar    la  primera\n                             medición introduce en el terreno\n                             otro       electrodo      auxiliar\n                             denominado P1, a un metro de\n                             distancia de C1, entre el\n                             electrodo bajo prueba C1 y el\n                             electrodo auxiliar C2;\n\n                        o    Desplaza el electrodo auxiliar P1\n                             de manera lineal a 3 metros de\n                             la primera medición y en\n                             dirección al electrodo auxiliar C2\n                             para    realizar    la   segunda\n                             medición, y\n\n                        o    Realiza         las      mediciones\n                             siguientes        desplazando    el\n                             electrodo auxiliar P1 cada 3\n                             metros hasta complementar 19\n                             metros. En la Figura 1 se\n                             muestra la colocación de los\n                             electrodos de la red de puesta a\n                             tierra, y auxiliares;\n\n                       Registra los valores obtenidos de las\n                        mediciones;\n\n                       Elabora una gráfica con base en los\n                        valores registrados, similar a la que\n                        se ilustra en la parte inferior de la\n                        Figura 1;\n\n                       Obtiene el valor de la resistencia a\n                        tierra de la red de puesta a tierra de\n                        la intersección del eje de resistencia\n                        con la parte paralela de la curva al\n                        eje de las distancias;\n                       Repite las mediciones alejando el\n                        electrodo C2 del electrodo C1,\n                        cuando la curva obtenida no presenta\n                        un tramo paralelo, hasta que obtiene\n                        valores paralelos al eje de las\n                        distancias, y\n                       Verifica   que   los   valores   de   la\n\f Viernes 1 de abril de 2016                  DIARIO OFICIAL                                  (Segunda Sección)\n\n                                       resistencia a tierra, de la red de\n                                       puesta a tierra que se obtienen en\n                                       esta prueba, son menores o iguales a\n                                       10 ohms para el (los) electrodo(s) del\n                                       sistema de pararrayos, y/o tienen un\n                                       valor menor o igual a 25 ohms para\n                                       la resistencia a tierra de la red de\n                                       puesta a tierra.\n5.4             Documental    El patrón cumple cuando presenta evidencia         La evidencia para\n                              documental de que informa sobre los riesgos        dar     cumplimiento\n                              que representa la electricidad estática y la       con la información\n                              manera de evitarlos:                               que      el   patrón\n                                 A todos los trabajadores y                     proporciona a los\n                                                                                 trabajadores puede\n                                 A la Comisión de Seguridad e Higiene.\n                                                                                 ser a través de\n                                                                                 folletos, boletines,\n                                                                                 y/o carteles.\n5.5 y 10        Documental    El patrón cumple cuando presenta evidencia La              evidencia\n                              documental de que:                             documental       para\n                               Capacita y adiestra a los trabajadores       dar  cumplimiento    a\n                                  sobre las técnicas para descargar o evitar esta  obligación  son\n                                  la    generación     y   acumulación   de las constancias de\n                                  electricidad estática, y                   competencias         o\n                                                                             habilidades\n                               A los trabajadores involucrados en\n                                                                             laborales          en\n                                  actividades en las que se genera o\n                                                                             términos     de     lo\n                                  acumula electricidad estática, en la\n                                                                             dispuesto por la Ley\n                                  instalación, revisión de sistemas de\n                                                                             Federal del Trabajo.\n                                  puesta a tierra y sistemas de pararrayos,\n                                  así como en la determinación de la\n                                  resistencia a tierra y continuidad de las\n                                  redes, se les proporciona capacitación y\n                                  adiestramiento para prevenir los riesgos\n                                  derivados de estas actividades, la cual\n                                  comprende, al menos, los temas\n                                  siguientes:\n                                      Los fundamentos técnicos sobre la\n                                       generación y acumulación de cargas\n                                       eléctricas estáticas;\n                                      Los procesos en los que ocurre la\n                                       generación y acumulación de cargas\n                                       eléctricas estáticas, con énfasis en\n                                       los que se llevan a cabo en su centro\n                                       de trabajo, y los mecanismos físicos\n                                       por los cuales se da en cada caso\n                                       este fenómeno;\n\n                                      Los materiales sólidos y fluidos,\n                                       aislantes,     semiconductores       y\n                                       conductores,      susceptibles      de\n                                       cargarse electrostáticamente;\n\n                                      Los riesgos ocasionados por la\n                                       electricidad estática, los métodos\n                                       disponibles    para    su      control,\n                                       disipación y descarga;\n\n                                      Los riesgos derivados de descargas\n                                       eléctricas atmosféricas y las medidas\n                                       de seguridad para evitarlos;\n\n                                      Las    medidas   de     seguridad   que\n\f     (Segunda Sección)                   DIARIO OFICIAL                       Viernes 1 de abril de 2016\n\n                                     señala esta Norma para prevenir los\n                                     riesgos    por     generación        y\n                                     acumulación de electricidad estática;\n\n                                    Las condiciones de seguridad\n                                     implementadas en el centro de\n                                     trabajo, de manera adicional a lo\n                                     dispuesto por la presente Norma;\n\n                                    Los procedimientos, en su caso, para\n                                     llevar a cabo la instalación, revisión\n                                     de sistemas de puesta a tierra y\n                                     sistemas de pararrayos, así como\n                                     para la determinación de la\n                                     resistencia a tierra y continuidad, y\n\n                                    El uso adecuado del equipo de\n                                     protección personal que se le\n                                     suministre para el desarrollo de sus\n                                     actividades, de conformidad con lo\n                                     dispuesto por la NOM-017-STPS-\n                                     2008, o las que la sustituyan, y\n\n                               La capacitación y adiestramiento que se\n                                proporciona a los trabajadores se refuerza\n                                por lo menos cada dos años.\n\n                Registro   El patrón cumple cuando presenta evidencia de\n                           que cuenta con el registro de la capacitación y\n                           adiestramiento que proporcionan a los\n                           trabajadores, el cual contiene, al menos, lo\n                           siguiente:\n\n                               El nombre y puesto de los trabajadores a\n                                los que se les proporcionó;\n\n                               La fecha en que se proporcionó la\n                                capacitación y adiestramiento;\n\n                               Los temas impartidos, y\n\n                               El nombre del instructor y, en su caso,\n                                número de registro como agente\n                                capacitador ante la Secretaría del Trabajo\n                                y Previsión Social.\n\n5.6 y 9.5       Registro   El patrón cumple cuando presenta evidencia de\n                           que cuenta con los registros de los valores de\n                           la resistencia a tierra de la red de puesta a\n                           tierra, la comprobación de la continuidad\n                           eléctrica y, en su caso, de la humedad relativa.\n                           El registro contiene, como mínimo, lo siguiente:\n\n                               Los datos del centro de trabajo:\n\n                                    Nombre o razón social del centro de\n                                     trabajo;\n\n                                    Domicilio del centro de trabajo;\n\n                                    Fecha de realización de la medición, y\n\n                                    Nombre y firma de la persona que\n\f   Viernes 1 de abril de 2016                       DIARIO OFICIAL                                     (Segunda Sección)\n\n                                                realizó la medición;\n\n                                           Los datos        de   los    instrumentos   de\n                                            medición:\n\n                                               Nombre genérico del instrumento\n                                                utilizado;\n\n                                               Características    del     equipo de\n                                                medición utilizado (modelo, número\n                                                de serie, intervalos de medición,\n                                                precisión, exactitud, etc.), y\n\n                                               Copia del certificado de calibración\n                                                vigente del instrumento utilizado;\n\n                                           Los valores de las mediciones:\n\n                                               Valores de resistencia a tierra de la\n                                                red de puesta a tierra y/o de la\n                                                resistencia a tierra del (los)\n                                                electrodo(s)  del   sistema   de\n                                                pararrayos, e\n\n                                               Indicación de si existe continuidad\n                                                eléctrica de los puntos de conexión\n                                                del sistema;\n\n                                           El croquis en el que se muestre los puntos\n                                            de medición del sistema de puesta a tierra\n                                            y, en su caso, del (los) electrodo(s) del\n                                            sistema pararrayos;\n\n                                           Las características del sistema de\n                                            pararrayos utilizado, en su caso, con, al\n                                            menos, lo siguiente:\n\n                                               Tipo de sistema pararrayos;\n\n                                               Altura de las terminales aéreas;\n\n                                               Ubicación, y\n\n                                               Área de cobertura de protección, y\n\n                                           El valor de la humedad relativa,        en su\n                                            caso.",
+    "start_char": 38120,
+    "end_char": 83632
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:12-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "12.4",
+    "label": "12.4 Para la selección de trabajadores por entrevistar, con el propósito de constatar el cumplimiento de las",
+    "text": "12.4 Para la selección de trabajadores por entrevistar, con el propósito de constatar el cumplimiento de las\ndisposiciones que dispone el presente procedimiento para la evaluación de la conformidad, se aplicará el\ncriterio muestral contenido en la Tabla 2 siguiente:\n                                                         Tabla 2\n                                           Muestreo por selección aleatoria\n\n                     Número total de trabajadores                       Número de trabajadores por entrevistar\n\n                                   1-15                                                      1\n\n                                  16-50                                                      2\n\n                                  51-105                                                     3\n\n                                                                    1 por cada 35 trabajadores hasta un máximo\n                                Más de 105\n                                                                                        de 15\n\f         (Segunda Sección)                     DIARIO OFICIAL                      Viernes 1 de abril de 2016",
+    "start_char": 83638,
+    "end_char": 84805
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:12-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "12.5",
+    "label": "12.5 Las evidencias de tipo documental o los registros a que alude esta Norma podrán exhibirse de",
+    "text": "12.5 Las evidencias de tipo documental o los registros a que alude esta Norma podrán exhibirse de\nmanera impresa o en medios magnéticos, y se deberán conservar al menos durante un año.",
+    "start_char": 84809,
+    "end_char": 84993
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "13",
+    "label": "13. Vigilancia",
+    "text": "13. Vigilancia\n   La vigilancia del cumplimiento de la presente Norma Oficial Mexicana corresponde a la Secretaría del\nTrabajo y Previsión Social.",
+    "start_char": 84997,
+    "end_char": 85143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "14",
+    "label": "14. Bibliografía",
+    "text": "14. Bibliografía",
+    "start_char": 85147,
+    "end_char": 85163
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:14-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "14.1",
+    "label": "14.1 Ministerio de Trabajo y Asuntos Sociales, España. Instituto Nacional de Seguridad e Higiene en el",
+    "text": "14.1 Ministerio de Trabajo y Asuntos Sociales, España. Instituto Nacional de Seguridad e Higiene en el\nTrabajo. NTP 567: Protección frente a cargas electrostáticas. 2000.",
+    "start_char": 85167,
+    "end_char": 85337
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:14-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "14.2",
+    "label": "14.2 NFPA 77, Recommended Practice on Static Electricity. 2007 Edition.",
+    "text": "14.2 NFPA 77, Recommended Practice on Static Electricity. 2007 Edition.",
+    "start_char": 85341,
+    "end_char": 85412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:14-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "14.3",
+    "label": "14.3 NFPA 780, Standard for the Installation of Lightning Protection Systems. 2014 Edition.",
+    "text": "14.3 NFPA 780, Standard for the Installation of Lightning Protection Systems. 2014 Edition.",
+    "start_char": 85416,
+    "end_char": 85507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:14-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "14.4",
+    "label": "14.4 NFPA 30, Flammable and Combustible Liquids Code. 2000 Edition.",
+    "text": "14.4 NFPA 30, Flammable and Combustible Liquids Code. 2000 Edition.",
+    "start_char": 85511,
+    "end_char": 85578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:14-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "14.5",
+    "label": "14.5 Industrial Accident Prevention Association. A Health and Safety Guideline for Your Workplace. Static",
+    "text": "14.5 Industrial Accident Prevention Association. A Health and Safety Guideline for Your Workplace. Static\nElectricity. 2008.",
+    "start_char": 85582,
+    "end_char": 85706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:14-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "14.6",
+    "label": "14.6 NOM-001-SEDE-2012, Instalaciones Eléctricas (Utilización).",
+    "text": "14.6 NOM-001-SEDE-2012, Instalaciones Eléctricas (Utilización).",
+    "start_char": 85710,
+    "end_char": 85773
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:clause:15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "number": "15",
+    "label": "15. Concordancia con normas internacionales",
+    "text": "15. Concordancia con normas internacionales\n   Esta Norma Oficial Mexicana no concuerda con ninguna norma internacional, por no existir referencia\nalguna al momento de su elaboración.",
+    "start_char": 85777,
+    "end_char": 85960
+  }
+]

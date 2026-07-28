@@ -1,0 +1,1500 @@
+   Miércoles 17 de abril de 2002                DIARIO OFICIAL                       (Segunda Sección)    101
+
+
+            SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+NORMA Oficial Mexicana NOM-011-STPS-2001, Condiciones de seguridad e higiene en los centros de trabajo
+donde se genere ruido.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría del Trabajo
+y Previsión Social.
+    CARLOS MARIA ABASCAL CARRANZA, Secretario del Trabajo y Previsión Social, con fundamento en los
+artículos 16 y 40 fracciones I y XI de la Ley Orgánica de la Administración Pública Federal; 512, 523 fracción I,
+524 y 527 último párrafo de la Ley Federal del Trabajo; 3o. fracción XI, 38 fracción II, 40 fracción VII, 41, 43 a
+47 y 52 de la Ley Federal sobre Metrología y Normalización; 28 y 34 del Reglamento de la
+Ley Federal sobre Metrología y Normalización; 3o., 4o. y 76 a 78 del Reglamento Federal de Seguridad,
+Higiene y Medio Ambiente de Trabajo; 3o., 5o. y 22 fracciones III, VIII y XVII del Reglamento Interior de la
+Secretaría del Trabajo y Previsión Social, y
+
+                                               CONSIDERANDO
+   Que con fecha 6 de julio de 1994 fue publicada en el Diario Oficial de la Federación la Norma Oficial
+Mexicana NOM-011-STPS-1993, Relativa a las condiciones de seguridad e higiene en los centros de trabajo
+donde se genere ruido;
+   Que esta dependencia a mi cargo, con fundamento en el artículo cuarto transitorio primer párrafo del
+Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario Oficial de la
+Federación el 21 de enero de 1997, ha considerado necesario realizar diversas modificaciones a la referida
+norma oficial mexicana, las cuales tienen como finalidad adecuarla a las disposiciones establecidas en el
+ordenamiento reglamentario mencionado;
+    Que con fecha 26 de septiembre de 2000, en cumplimiento de lo previsto en el artículo 46 fracción I de la
+Ley Federal sobre Metrología y Normalización, la Secretaría del Trabajo y Previsión Social presentó ante
+el Comité Consultivo Nacional de Normalización de Seguridad, Higiene y Medio Ambiente Laboral, el
+anteproyecto de modificación de la presente Norma Oficial Mexicana, y que el citado Comité lo consideró
+correcto y acordó que se publicará como proyecto en el Diario Oficial de la Federación;
+   Que con objeto de cumplir con lo dispuesto en los artículos 69-E y 69-H de la Ley Federal de
+Procedimiento Administrativo, el anteproyecto correspondiente fue sometido a la consideración de la Comisión
+Federal de Mejora Regulatoria, la que dictaminó favorablemente en relación al mismo;
+   Que con fecha 4 de mayo de 2001, en cumplimiento del Acuerdo del Comité y de lo previsto en el artículo
+47 fracción I de la Ley Federal sobre Metrología y Normalización, se publicó en el Diario Oficial
+de la Federación el Proyecto de Modificación de la presente Norma Oficial Mexicana, a efecto de que, dentro
+de los 60 días naturales a dicha publicación, los interesados presentaran sus comentarios al Comité
+Consultivo Nacional de Normalización de Seguridad, Higiene y Medio Ambiente Laboral;
+    Que habiendo recibido comentarios de cuatro promoventes, el Comité referido procedió a su estudio y
+resolvió oportunamente sobre los mismos, publicando esta dependencia las respuestas respectivas en el
+Diario Oficial de la Federación el 27 de diciembre de 2001, en cumplimiento a lo previsto por el artículo 47
+fracción III de la Ley Federal sobre Metrología y Normalización;
+    Que en atención a las anteriores consideraciones y toda vez que el Comité Consultivo Nacional de
+Normalización de Seguridad, Higiene y Medio Ambiente Laboral, otorgó la aprobación respectiva, se expide la
+siguiente:
+
+           NORMA OFICIAL MEXICANA-NOM-011-STPS-2001, CONDICIONES DE SEGURIDAD
+              E HIGIENE EN LOS CENTROS DE TRABAJO DONDE SE GENERE RUIDO
+
+                                                    INDICE
+   1.    Objetivo
+   2.    Campo de aplicación
+   3.    Referencias
+   4.    Definiciones, magnitudes, abreviaturas y unidades
+   5.    Obligaciones del patrón
+   6.    Obligaciones del trabajador
+   102    (Segunda Sección)                        DIARIO OFICIAL                 Miércoles 17 de abril de 2002
+
+   7.    Límites máximos permisibles de exposición a ruido
+   8.    Programa de conservación de la audición
+   9.    Centros de trabajo de nueva creación o modificación de procesos en los centros de trabajo existentes
+   10.   Unidades de verificación y laboratorios de pruebas
+ APENDICE        A      LIMITES MAXIMOS PERMISIBLES DE EXPOSICION
+
+ APENDICE        B      DETERMINACION DEL NIVEL DE EXPOSICION A RUIDO
+ APENDICE        C      DETERMINACION DEL NIVEL DE PRESION ACUSTICA, EN BANDAS DE OCTAVA
+
+ APENDICE        D      SELECCION DEL EQUIPO DE PROTECCION PERSONAL AUDITIVA
+   11.   Vigilancia
+   12.   Bibliografía
+   13.   Concordancia con normas internacionales
+   Guía de referencia I    Vigilancia a la salud
+   1. Objetivo
+   Establecer las condiciones de seguridad e higiene en los centros de trabajo donde se genere ruido que por
+sus características, niveles y tiempo de acción, sea capaz de alterar la salud de los trabajadores; los niveles
+máximos y los tiempos máximos permisibles de exposición por jornada de trabajo, su correlación y la
+implementación de un programa de conservación de la audición.
+   2. Campo de aplicación
+   Esta Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo en los que exista
+exposición del trabajador a ruido.
+   3. Referencias
+    Para la correcta interpretación de esta Norma deben consultarse las siguientes normas oficiales mexicanas
+vigentes:
+   NOM-017-STPS-1993,          Relativa al equipo de protección personal para los trabajadores en los centros
+                               de trabajo.
+   NOM-026-STPS-1998,          Colores y señales de seguridad e higiene e identificación de riesgos por fluidos
+                               conducidos en tuberías.
+   4. Definiciones, magnitudes, abreviaturas y unidades
+   4.1. Definiciones
+   Para efectos de esta Norma, se establecen las siguientes definiciones:
+   4.1.1. Audiómetro: es un generador electroacústico de sonidos, utilizado para determinar el umbral de
+audición de la persona bajo evaluación.
+    4.1.2. Autoridad del trabajo; autoridad laboral: las unidades administrativas competentes de la
+Secretaría del Trabajo y Previsión Social, que realicen funciones de inspección en materia de seguridad e
+higiene en el trabajo y las correspondientes de las entidades federativas y del Distrito Federal, que actúen en
+auxilio de aquéllas.
+    4.1.3. Banda de octava: es el intervalo de frecuencia del espectro acústico donde el límite superior del
+intervalo es el doble del límite inferior, agrupado en un filtro electrónico normalizado, cuya frecuencia central
+denomina la banda.
+   4.1.4. Calibrador acústico normalizado; calibrador acústico: es un instrumento utilizado para verificar,
+en el lugar de la medición, la exactitud de la respuesta acústica de los instrumentos de medición acústica, y
+que satisface las especificaciones de alguna norma de referencia declarada por el fabricante.
+   4.1.5. Condiciones normales de operación: es la situación en que se realizan las actividades y que
+representan una jornada laboral típica en cada centro de trabajo.
+    4.1.6. Decibel: es una unidad de relación entre dos cantidades utilizada en acústica, y que se caracteriza
+por el empleo de una escala logarítmica de base 10. Se expresa en dB.
+   4.1.7. Diagnóstico anatomo-funcional: es un diagnóstico médico basado en el análisis de las
+características anatómicas y funcionales del trabajador derivadas de una enfermedad.
+   Miércoles 17 de abril de 2002                   DIARIO OFICIAL                  (Segunda Sección)   103
+
+   4.1.8. Diagnóstico etiológico: es el diagnóstico médico que establece las causas de una enfermedad.
+    4.1.9. Diagnóstico nosológico: es el diagnóstico médico basado en los signos y síntomas manifestados
+por el enfermo.
+    4.1.10. Espectro acústico: es la representación del nivel de presión acústica de los componentes en
+frecuencia de un sonido complejo, que puede medirse en bandas de octava u otras representaciones de filtros
+normalizados. Se expresa en dB, ya sea por banda de octava, total o de la representación seleccionada.
+   4.1.11. Exposición a ruido: es la interrelación del agente físico ruido y el trabajador en el ambiente
+laboral.
+   4.1.12. Frecuencia: es el número de ciclos por unidad de tiempo. Su unidad es el Hertz (Hz).
+  4.1.13. Medidas administrativas: manera de cumplir con los límites máximos permisibles de exposición,
+modificando el tiempo y frecuencia de permanencia del trabajador en cada zona de exposición.
+    4 . 1 . 1 4 . Medidor personal de exposición a ruido normalizado; medidor personal de exposición a
+ruido: instrumento que integra una función del nivel de presión acústica durante un periodo de medición
+establecido, el cual puede ser hasta de 8 horas, y que satisface las especificaciones de alguna norma de
+referencia declarada por el fabricante.
+    4.1.15. Medio sistematizado: es un método o procedimiento empleado para estructurar y organizar la
+información registrada a través de un ordenador y procesador de información electrónico.
+   4.1.16. Monitoreo de efecto a la salud: es la medida y evaluación de daño a la salud, debido a la
+exposición a ruido en tejidos y órganos.
+   4.1.17. Nivel: es el logaritmo de la razón de dos cantidades del mismo tipo, siendo la del denominador
+usada como referencia. Se expresa en dB.
+   4.1.18. Nivel de exposición a ruido (NER): es el nivel sonoro “A” promedio referido a una exposición de
+8 horas.
+    4.1.19. Nivel de presión acústica (NPA): es igual a 20 veces el logaritmo decimal de la relación entre una
+presión acústica instantánea y una presión acústica de referencia determinada, según se expresa en la
+siguiente ecuación:
+                                                                p
+                                              NPA = 20 log10
+                                                                p0
+   donde:
+   p    es la presión acústica instantánea
+   po   es la presión acústica de referencia = 20 µPa
+   4.1.20. Nivel de ruido efectivo en ponderación A (NRE): es el valor de ruido no atenuado por el equipo
+de protección auditiva.
+   4.1.21. Nivel sonoro "A" (NSA): es el nivel de presión acústica instantánea medido con la red
+de ponderación “A” de un sonómetro normalizado.
+    4.1.22. Nivel sonoro continuo equivalente “A” (NSCEA,T): es la energía media integrada a través de la
+red de ponderación “A” a lo largo del periodo de medición, según se expresa en la siguiente ecuación:
+
+                                                        1  t 2 p 2a (t ) 
+                                     NSCE A,T = 10 log            ∫ 2 dt 
+                                                        t 2 - t1  t 1 po  
+   donde:
+   pA   es la presión acústica “A” instantánea
+   p0   es la presión acústica de referencia = 20 µPa
+   T    es el tiempo total de medición = t2 - t1
+   t1   es el tiempo inicial de medición
+   t2   es el tiempo final de medición
+   NOTA: cuando T es igual a 8 horas, el NSCEA,T es igual al NER.
+   4.1.23. Nivel sonoro criterio: es el NSA de 90 dB(A) para una jornada laboral de 8 horas.
+   104    (Segunda Sección)                    DIARIO OFICIAL                 Miércoles 17 de abril de 2002
+
+    4.1.24. Observador: es la persona que efectúa la medición de los niveles de ruido: NSA, NSCEA,T y NPA
+y registra su magnitud.
+    4.1.25. Pantalla contra viento: es un accesorio que se adapta sobre el micrófono del equipo de medición
+de ruido, para minimizar las variaciones en la medición causadas por la incidencia del viento sobre
+el micrófono.
+   4.1.26. Periodo de observación: es el tiempo durante el cual el observador mide los niveles de ruido.
+   4.1.27. Porcentaje de dosis (D): número que proporciona el medidor personal de exposición a ruido y que
+resulta de la integración de los niveles sonoros “A”, durante el periodo de medición T.
+   4.1.28. Presión acústica de referencia: es el valor de la medición de ruido en aire, que equivale
+a 20 µPa.
+    4.1.29. Puesto fijo de trabajo: es el lugar específico en que el trabajador realiza un conjunto de
+actividades durante un tiempo, de tal manera que el trabajador permanece relativamente estacionario en
+relación a su lugar de trabajo.
+    4.1.30. Reconocimiento: es la actividad previa a la evaluación, cuyo objetivo es recabar información
+confiable que permita determinar el método de evaluación a emplear y jerarquizar las zonas del local de
+trabajo donde se efectuará la evaluación.
+    4.1.31. Redes de ponderación: son filtros electrónicos normalizados de corrección en frecuencia, que
+aproxima su respuesta a los niveles fisiológicos de la curva de audición humana y que están incluidos en el
+instrumento de medición de sonidos.
+    4.1.32. Respuesta dinámica: es la velocidad de respuesta normalizada que puede ser elegida en los
+instrumentos de medición de sonido, para los cambios de presión acústica. Se denomina: Lenta, Rápida,
+Impulso o Pico.
+   4.1.33. Ruido: son los sonidos cuyos niveles de presión acústica, en combinación con el tiempo de
+exposición de los trabajadores a ellos, pueden ser nocivos a la salud del trabajador.
+    4.1.34. Ruido estable: es aquel que se registra con variaciones en su nivel sonoro “A” dentro de un
+intervalo de 5 dB(A).
+   4.1.35. Ruido impulsivo: es aquel ruido inestable que se registra durante un periodo menor a un segundo.
+  4.1.36. Ruido inestable: es aquel que se registra con variaciones en su nivel sonoro “A” con un intervalo
+mayor a 5 dB(A).
+   4.1.37. Sonido: es una vibración acústica capaz de producir una sensación audible.
+   4.1.38. Sonómetro normalizado; sonómetro: es un instrumento para medir el nivel de presión acústica y
+que satisface las especificaciones de alguna norma de referencia declarada por el fabricante.
+   4.1.39. Sonómetro integrador normalizado; sonómetro integrador: es un instrumento que integra una
+función del nivel de presión acústica durante el periodo de medición y que satisface las especificaciones de
+alguna norma de referencia declarada por el fabricante.
+   4.1.40. Tasa de intercambio: es la razón de cambio del nivel sonoro “A” para conservar la cantidad de
+energía acústica recibida por un trabajador, cuando la duración de la exposición se duplica o se reduce a la
+mitad. La razón de cambio es igual a 3 dB(A).
+    4.1.41. Tiempo máximo permisible de exposición (TMPE): es el tiempo bajo el cual la mayoría de los
+trabajadores pueden permanecer expuestos sin sufrir daños a la salud.
+   4.2. Magnitudes, abreviaturas y unidades
+                               MAGNITUD                         ABREVIATURA                UNIDAD
+ Nivel de exposición a ruido                                NER                   dB (A)
+ Nivel de presión acústica                                  NPA                   dB
+ Nivel sonoro “A”                                           NSA                   dB (A)
+ Nivel sonoro continuo equivalente “A”                      NSCEA,T               dB (A)
+ Tiempo máximo permisible de exposición                     TMPE                  horas o minutos
+   NOTA: dB y dB(A) están referidos a 20 µPa
+
+   5. Obligaciones del patrón
+   Miércoles 17 de abril de 2002                 DIARIO OFICIAL                       (Segunda Sección)    105
+
+   5.1. Mostrar a la autoridad del trabajo, cuando ésta así se lo solicite, la documentación que la presente
+Norma le obligue a elaborar o poseer.
+    5.2. Contar con el reconocimiento y evaluación de todas las áreas del centro de trabajo donde haya
+trabajadores y cuyo NSA sea igual o superior a 80 dB(A), incluyendo sus características y componentes de
+frecuencia, conforme a lo establecido en los apéndices B y C.
+   5.3. Verificar que ningún trabajador se exponga a niveles de ruido mayores a los límites máximos
+permisibles de exposición a ruido establecidos en el Apéndice A. En ningún caso, debe haber exposición sin
+equipo de protección personal auditiva a más de 105 dB(A).
+  5.4. Proporcionar el equipo de protección personal auditiva, de acuerdo a lo establecido en la
+NOM-017-STPS-1993, a todos los trabajadores expuestos a NSA igual o superior a 85 dB(A).
+   5.5. El programa de conservación de la audición aplica en las áreas del centro de trabajo donde se
+encuentren trabajadores expuestos a niveles de 85 dB(A) y mayores.
+   5.6. Implantar, conservar y mantener actualizado el programa de conservación de la audición, necesario
+para el control y prevención de las alteraciones de la salud de los trabajadores, según lo establecido en el
+capítulo 8.
+   5.7. Vigilar la salud de los trabajadores expuestos a ruido e informar a cada trabajador sus resultados.
+   5.8. Informar a los trabajadores y a la comisión de seguridad e higiene del centro de trabajo, de las
+posibles alteraciones a la salud por la exposición a ruido, y orientarlos sobre la forma de evitarlas o atenuarlas.
+   6. Obligaciones del trabajador
+    6.1. Colaborar en los procedimientos de evaluación y observar las medidas del Programa de Conservación
+de la Audición.
+    6.2. Someterse a los exámenes médicos necesarios de acuerdo al Programa de Conservación
+de la Audición.
+    6.3. Utilizar el equipo de protección personal auditiva proporcionado por el patrón, de acuerdo a las
+instrucciones para su uso, mantenimiento, limpieza, cuidado, reemplazo y limitaciones.
+   7. Límites máximos permisibles de exposición a ruido
+   7.1. Los límites máximos permisibles de exposición a ruido se establecen en el Apéndice A.
+   7.2. Cálculo para el tiempo de exposición. Cuando el NER en los centros de trabajo, esté entre dos de las
+magnitudes consignadas en la Tabla A.1, (90 y 105 dB “A”), el tiempo máximo permisible de exposición, se
+debe calcular con la ecuación siguiente:
+                                                             8
+                                               TMPE =       NER - 90
+
+                                                        2     3
+
+
+
+   7.3. Cuando el NER sea superior a 105 dB(A) se deben implementar una o más de las medidas de control
+descritas en el inciso a) del Apartado 8.7.1.
+   8. Programa de conservación de la audición
+    El programa debe tomar en cuenta la naturaleza del trabajo; las características de las fuentes emisoras
+(magnitud y componentes de frecuencia del ruido); el tiempo y la frecuencia de exposición de los trabajadores;
+las posibles alteraciones a la salud, y los métodos generales y específicos de prevención y control.
+   8.1. El programa de conservación de la audición debe incluir los elementos siguientes:
+   a)    evaluación del NSA promedio o del NSCEA,T y la determinación del NER;
+   b)    evaluación del NPA en bandas de octava;
+   c)    equipo de protección personal auditiva;
+   d)    capacitación y adiestramiento;
+   e)    vigilancia a la salud;
+   f)    control;
+   g)    documentación correspondiente a cada uno de los elementos indicados.
+   8.2. Evaluación del NSA promedio o del NSCEA,t y la determinación del NER. Los requisitos de la
+evaluación del NSA promedio o del NSCEA,T deben cumplir con lo establecido en el Apéndice B y conforme al
+esquema siguiente:
+   106   (Segunda Sección)                      DIARIO OFICIAL                  Miércoles 17 de abril de 2002
+
+   8.2.1. Reconocimiento:
+   a)    identificar las áreas y fuentes emisoras, usando durante el recorrido un sonómetro para conocer el
+         NSA instantáneo;
+   b)    identificar a los trabajadores con exposición potencial a ruido;
+   c)    seleccionar el método para efectuar la evaluación de la exposición a ruido en las áreas de trabajo;
+   d)    determinar la instrumentación de acuerdo al método seleccionado para efectuar la evaluación de la
+         exposición a ruido en las áreas de trabajo.
+   8.2.2. Evaluación:
+   a)    emplear los métodos de evaluación e instrumentos de medición establecidos en el Apéndice B;
+   b)    determinar los NER, aplicando cualquiera de los métodos establecidos en el Apéndice B;
+   c)    asentar los resultados en la documentación del programa de conservación de la audición;
+   d)    cuando las exposiciones a ruido igualen o excedan el NER de 80 dB(A), el reconocimiento y
+         evaluación del NER se repetirá cada dos años o dentro de los noventa días posteriores a un cambio
+         de producción, procesos, equipos, controles u otros cambios, que puedan ocasionar variaciones en
+         los resultados del estudio anterior.
+   8.3. Evaluación del NPA en bandas de octava.
+   8.3.1. La evaluación de los NPA debe cumplir con lo establecido en el Apéndice C y conforme al
+esquema siguiente:
+    8.3.1.1. Reconocimiento: identificar las áreas con NSA mayor o igual a 80 dB(A) y en donde la exposición a
+ruido de los trabajadores sea representativa.
+   8.3.1.2. Evaluación:
+   a)    emplear los métodos de evaluación e instrumentos de medición señalados en el Apéndice C;
+   b)    cuantificar los NPA y asentar los resultados en la documentación del programa;
+   c)    el reconocimiento y evaluación de los NPA se repetirá cada dos años o dentro de los noventa días
+         posteriores a un cambio de producción, procesos, equipos, controles u otros cambios, que puedan
+         ocasionar variaciones en los resultados del estudio.
+   8.4. Equipo de protección personal auditiva.
+    8.4.1. Cuando se utilice equipo de protección personal auditiva, se debe considerar el factor de reducción
+R o nivel de ruido efectivo en ponderación A (NRE) que proporcione dicho equipo, mismo que debe contar con
+la debida certificación. En caso de no existir un organismo de certificación el fabricante o proveedor debe
+expedir la garantía del equipo de protección personal estableciendo el nivel de atenuación de ruido.
+   8.4.2. Para determinar el factor de reducción R o el NRE, se debe utilizar cualquiera de los métodos
+establecidos en el Apéndice D.
+   8.4.3. Contar con los procedimientos siguientes:
+   a)    de selección técnica y médica;
+   b)    de capacitación de los trabajadores en su uso, mantenimiento, limpieza, cuidado, reemplazo
+         y limitaciones;
+   c)    de supervisión de su uso por parte de los trabajadores.
+   8.4.4. Toda persona que ingrese a las áreas con señalamientos de uso obligatorio de equipo de protección
+personal auditiva deberá ingresar con dicho equipo.
+   8.5. Capacitación y adiestramiento.
+    8.5.1. Los trabajadores expuestos a NER iguales o superiores a 80 dB(A) deben ser instruidos respecto a
+las medidas de control, mediante un programa de capacitación acerca de los efectos a la salud, niveles
+máximos permisibles de exposición, medidas de protección y de exámenes audiométricos y sitios de trabajo
+que presenten condiciones críticas de exposición.
+    8.5.2. La información proporcionada en el programa de capacitación debe ser actualizada, incluyendo
+prácticas de trabajo y del uso, cuidado, mantenimiento, limpieza, reemplazo y limitaciones de los equipos de
+protección auditiva.
+   Miércoles 17 de abril de 2002               DIARIO OFICIAL                       (Segunda Sección)   107
+
+   8.6. Vigilancia a la salud.
+    El patrón debe llevar a cabo exámenes médicos anuales específicos a cada trabajador expuesto a niveles
+de ruido de 85 dB(A) y mayores, según lo que establezcan las normas oficiales mexicanas que al respecto
+emita la Secretaría de Salud y observar las medidas que en esas normas se establezcan. En caso de no
+existir normatividad de la Secretaría de Salud, el médico de empresa determinará el tipo de exámenes
+médicos que se realizarán, su periodicidad y las medidas a aplicar, tomando en cuenta la susceptibilidad del
+trabajador. Se podrá usar la Guía de Referencia I, no obligatoria.
+   8.7. Control.
+    8.7.1. Cuando el NER supere los límites máximos permisibles de exposición establecidos en la Tabla A.1,
+se deben aplicar una o varias de las medidas de control siguientes, para mantener la exposición dentro
+de lo permisible:
+   a)   medidas técnicas de control, consistentes en:
+        1)    efectuar labores de mantenimiento preventivo y correctivo de las fuentes generadoras de ruido;
+        2)    sustitución o modificación de equipos o procesos;
+        3)    reducción de las fuerzas generadoras del ruido;
+        4)    modificar los componentes de frecuencia con mayor posibilidad de daño a la salud
+              de los trabajadores;
+        5)    distribución planificada y adecuada, del equipo en la planta;
+        6)    acondicionamiento acústico de las superficies interiores de los recintos;
+        7)    instalación de cabinas, envolventes o barreras totales o parciales, interpuestas entre las fuentes
+              sonoras y los receptores;
+        8)    tratamiento de las trayectorias de propagación del ruido y de las vibraciones, por aislamientos
+              de las máquinas y elementos;
+   b)   Implementar medidas administrativas de control, como:
+        1)    manejo de los tiempos de exposición;
+        2)    programación de la producción;
+        3)    otros métodos administrativos.
+   8.7.2. Las medidas de control que se adopten deben de estar sustentadas por escrito, en un análisis
+técnico para su implementación, así como en una evaluación que se practique dentro de los 30 días
+posteriores a su aplicación, para verificar su efectividad.
+    8.7.3. Se debe tener especial cuidado de que las medidas de control que se adopten no produzcan nuevos
+riesgos a los trabajadores.
+   8.7.4. En la entrada de las áreas donde los NSA sean iguales o superiores a 85 dB(A), deben colocarse
+señalamientos de uso obligatorio de equipo de protección personal auditiva, según lo establecido en la
+NOM-026-STPS-1998.
+   8.8. Documentación del programa de conservación de la audición.
+    8.8.1. El patrón debe conservar la documentación del programa de conservación de la audición, con la
+información registrada durante los últimos 5 años.
+   8.8.2. El patrón debe elaborar un cronograma de actividades para el desarrollo de la implementación del
+programa de conservación de la audición.
+    8.8.3. La documentación del programa de conservación de la audición debe contener los siguientes
+registros:
+   a)   los estudios de reconocimiento, evaluación y determinación de los NSA, NSCEA,T, NER y NPA,
+        conforme a lo establecido en los apartados B.7 y C.7;
+   b)   equipo de protección auditiva, conforme a lo señalado en el Apartado 8.4.3;
+   c)   programa de capacitación y adiestramiento, según los establecido en el Apartado 8.5;
+   d)   vigilancia a la salud conforme al Apartado 8.6;
+   e)   medidas técnicas y administrativas de control adoptadas, incluyendo los estudios solicitados en el
+        Apartado 8.7.2;
+   108   (Segunda Sección)                       DIARIO OFICIAL                Miércoles 17 de abril de 2002
+
+   f)    conclusiones;
+   g)    los documentos que amparen el cumplimiento de los apartados 5.2 y 5.7.
+   9. Centros de trabajo de nueva creación o modificación de procesos en los centros de trabajo existentes
+   9.1. Los centros de trabajo de nueva creación deben ser planeados, instalados, organizados y puestos en
+funcionamiento de modo que la exposición a ruido de los trabajadores no exceda los límites máximos
+permisibles de exposición, establecidos en el Apéndice A.
+   9.2. Cualquier modificación a un proceso en un centro de trabajo debe ser planeada, instalada, organizada
+y puesta en funcionamiento de modo que la exposición a ruido de los trabajadores no exceda los límites
+máximos permisibles de exposición establecidos en el Apéndice A.
+   9.3. Para dar cumplimiento a los Apartados 9.1 y 9.2, las medidas de control deben estar sustentadas
+por escrito, con un análisis técnico para su implantación y en una evaluación posterior para verificar
+su efectividad.
+   10. Unidades de verificación y laboratorios de pruebas
+   10.1. El patrón tendrá la opción de contratar una unidad de verificación o laboratorio de pruebas acreditado
+y aprobado, según lo establecido en la Ley Federal sobre Metrología y Normalización, para verificar o evaluar
+esta Norma.
+    10.2. Los laboratorios de pruebas podrán evaluar los apartados 8.2 y 8.3 referente al reconocimiento
+y evaluación.
+   10.3. Las unidades de verificación, podrán verificar el cumplimiento de esta Norma, con base en lo
+establecido en los apartados 5.2 a 5.8.
+    10.4. Las unidades de verificación o laboratorios de pruebas deben entregar al patrón sus dictámenes e
+informes de resultados consignando la siguiente información:
+   10.4.1. Para el dictamen de las unidades de verificación:
+   a)    datos del centro de trabajo evaluado:
+         1)   nombre, denominación o razón social;
+         2)   domicilio completo.
+   b)    datos de la unidad de verificación:
+         1)   nombre, denominación o razón social de la unidad de verificación;
+         2)   número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;
+         3)   clave y nombre de la norma verificada;
+         4)   resultado de la verificación;
+         5)   nombre y firma del representante autorizado;
+         6)   lugar y fecha de la expedición del dictamen;
+         7)   vigencia del dictamen.
+   10.4.2. Para el informe de resultados de los laboratorios de pruebas:
+   a)    datos del centro de trabajo evaluado:
+         1)   nombre, denominación o razón social;
+         2)   domicilio completo.
+   b)    datos del laboratorio de prueba:
+         1)   nombre, denominación o razón social;
+         2)   número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;
+         3)   nombre y firma del signatario autorizado;
+         4)   lugar y fecha de la expedición del informe;
+         5)   conclusiones de la evaluación;
+         6)   contenido de los estudios, de acuerdo a lo establecido en los apartados B.7 y C.7.
+   10.5. La vigencia de los dictámenes emitidos por las unidades de verificación y de los informes de
+resultados de los laboratorios de pruebas será de dos años, a menos que se modifique la maquinaría, el
+   Miércoles 17 de abril de 2002                 DIARIO OFICIAL                       (Segunda Sección)    109
+
+equipo, su distribución o las condiciones de operación, de tal manera que puedan ocasionar variaciones en los
+resultados de la evaluación del ruido.
+                                                  APENDICE A
+                             LIMITES MAXIMOS PERMISIBLES DE EXPOSICION
+    Este Apéndice establece los límites máximos permisibles de exposición de los trabajadores a ruido estable,
+inestable o impulsivo durante el ejercicio de sus labores, en una jornada laboral de 8 horas, según se enuncia
+en la Tabla A.1.
+                                             TABLA A.1
+                             LIMITES MAXIMOS PERMISIBLES DE EXPOSICION
+                                     NER                                TMPE
+
+                        90 dB(A)                           8 HORAS
+
+                        93 dB(A)                           4 HORAS
+
+                        96 dB(A)                           2 HORAS
+
+                        99 dB(A)                           1 HORA
+
+                        102 dB(A)                          30 MINUTOS
+
+                        105 dB(A)                          15 MINUTOS
+
+                                                  APENDICE B
+                                           DETERMINACION DEL NER
+   B.1. Introducción.
+   Este Apéndice establece los métodos para evaluar el NSA, el NSCEA,T y determinar el NER.
+   B.2. Instrumentación y accesorios.
+   a)    debe utilizarse alguno de los instrumentos siguientes:
+         1)   sonómetro clase 1 o clase 2;
+         2)   sonómetro integrador clase 1 o clase 2;
+         3)   medidor personal de exposición a ruido clase 1 o clase 2.
+   b)    para la calibración en campo de la instrumentación se debe de utilizar un calibrador acústico;
+   c)    para efectuar la medición se debe de contar con los elementos siguientes:
+         1)   trípode de soporte para el sonómetro, sonómetro integrador o micrófono;
+         2)   reloj o cronómetro, externo o integrado al instrumento;
+         3)   medidor de longitud;
+         4)   pantalla contra viento;
+         5)   los formatos de registro correspondientes.
+   B.3. Calibración de la instrumentación.
+   B.3.1. Calibración en laboratorio de calibración acreditado.
+   Se debe de verificar periódicamente la calibración de la instrumentación por un laboratorio de calibración
+acreditado, y contar con el documento que avale dicha calibración, de conformidad con los procedimientos
+establecidos en la Ley Federal sobre Metrología y Normalización.
+   B.3.2. Calibración de campo.
+    Se debe de calibrar la instrumentación por medio del calibrador acústico, al inicio y al final de la jornada de
+medición, de acuerdo a lo indicado en el manual del fabricante. Los valores de la calibración deben anotarse
+en la hoja de registro correspondiente. Si se encuentra una diferencia de 1 dB o más, entre la calibración
+inicial y final, se deben anular los resultados de las mediciones de esa jornada.
+   B.4. Reconocimiento.
+   110     (Segunda Sección)                    DIARIO OFICIAL                  Miércoles 17 de abril de 2002
+
+    Esta actividad debe realizarse previamente a la evaluación y consiste en recabar toda aquella información
+técnica y administrativa que permita seleccionar el método de evaluación y la prioridad de las zonas y puestos
+por evaluar. Esta información debe comprender:
+          a)   planos de distribución de las áreas en que exista ruido y de la maquinaria y equipo generadores
+               de ruido;
+          b)   descripción del proceso de fabricación;
+          c)   descripción de los puestos de trabajo expuestos a ruidos;
+          d)   programas de mantenimiento de maquinaria y equipo generadores de ruidos;
+          e)   registros de producción;
+          f)   número de trabajadores expuestos a ruidos por área y por proceso de fabricación, incluyendo el
+               tiempo de exposición;
+          g)   reporte del reconocimiento sensorial de las zonas por evaluar, con el objeto de determinar las
+               características del ruido (estable, inestable o impulsivo).
+   B.5. Condiciones para la evaluación.
+   B.5.1. La evaluación de los NSA o NSCEA,T, debe realizarse bajo condiciones normales de operación.
+    B.5.2. La evaluación debe realizarse como mínimo durante una jornada laboral de 8 horas y en aquella
+jornada que, bajo condiciones normales de operación, presente la mayor emisión de ruido.
+   B.5.3. Si la evaluación dura más de una jornada laboral, en todas las jornadas en que se realice se deben
+conservar las condiciones normales de operación.
+     B.5.4. Se debe usar pantalla contra viento en el micrófono de los instrumentos de medición, durante todo
+el tiempo que dure la evaluación.
+   B.6. Métodos de evaluación.
+   B.6.1. Métodos de evaluación ambiental.
+   B.6.1.1. Puntos de medición.
+    B.6.1.1.1. Los puntos de medición deben seleccionarse de tal manera que describan el entorno ambiental
+de manera confiable, determinando su número, entre otros factores, por la ubicación de los puestos de trabajo
+o posiciones de control de la maquinaria y equipo del local de trabajo, el proceso de producción y las
+facilidades para su ubicación.
+   B.6.1.1.2. Todos los puntos de medición de una zona de evaluación deben identificarse con un número
+progresivo y registrar su posición en el plano correspondiente, según lo establecido en el inciso a) del
+Apartado B.4.
+   B.6.1.1.3. Ubicación.
+   La ubicación de los puntos de medición en función de las necesidades y características físicas y acústicas
+de cada local de trabajo, debe efectuarse seleccionando el método conforme se indica en la tabla siguiente:
+                                      GRADIENTE DE PRESION           PRIORIDAD DE         PUESTO FIJO
+                                            SONORA                     AREAS DE           DE TRABAJO
+                                                                      EVALUACION
+
+        RUIDO ESTABLE                             SI                       SI                   SI
+
+        RUIDO INESTABLE                          NO                        SI                   SI
+
+        RUIDO IMPULSIVO                          NO                        SI                   SI
+
+
+   B.6.2. El método de gradiente de presión sonora:
+   a)     el punto inicial debe fijarse al centro de la zona de evaluación, registrándose el NSA máximo (el cual
+          debe utilizarse como referencia para iniciar la evaluación);
+   b)     el observador se debe desplazar con el sonómetro en una trayectoria previamente determinada,
+          hasta encontrar un NSA que difiera ± 3 dB(A), respecto al punto de referencia, marcando en el plano
+          de distribución este punto. El procedimiento se repite a lo largo de esa trayectoria, hasta cubrir
+          completamente la trayectoria de evaluación. Los puntos de medición son aquellos que registren su
+          NSA, con diferencia de ± 3 dB(A) del punto de medición contiguo;
+   Miércoles 17 de abril de 2002                  DIARIO OFICIAL                    (Segunda Sección)   111
+
+   c)   una vez concluida esa trayectoria, se procede de la forma descrita anteriormente, pero en forma
+        transversal;
+   d)   las trayectorias de ubicación de puntos de medición deben hacerse en función de las características
+        del local de trabajo y de la distribución espacial del campo sonoro, pero siempre debe garantizarse
+        que se ha cubierto toda la zona de trabajo;
+   e)   la distancia entre puntos de medición no debe ser mayor de 12 metros;
+   f)   cuando se han identificado todos los puntos de medición debe procederse a su evaluación.
+   B.6.3. Método de prioridad de áreas de evaluación:
+   a)   del análisis de la información, realizado en el reconocimiento sensorial, deben determinarse las zonas
+        de evaluación;
+   b)   las zonas de trabajo identificadas con NSA superior o igual a 80 dB(A), deben dividirse en áreas,
+        guiándose por los ejes de columnas del plano de distribución de planta y cuidando que éstas no sean
+        superiores a 6 metros por lado. No deben incluirse las áreas o pasillos de circulación;
+   c)   una vez efectuada la división, deben identificarse aquellas áreas en las que existan trabajadores, a
+        las que se les denominará áreas de evaluación;
+   d)   las áreas de evaluación pueden ser jerarquizadas, exponiendo las razones en el registro de
+        evaluación del estudio de niveles sonoros;
+   e)   los puntos de medición en las áreas de evaluación deben ubicarse en las zonas de mayor densidad
+        de trabajadores. De no ser posible esta ubicación, deben localizarse en el centro geométrico de cada
+        área.
+   B.6.4. Método de puesto fijo de trabajo.
+   Para evaluar ruido en puesto fijo de trabajo, el punto de medición debe ubicarse en el lugar que
+habitualmente ocupa el trabajador o, de no ser posible, lo más cercano a él, sin interferir en sus labores.
+   B.6.4.1. Localización del micrófono.
+   B.6.4.2. Altura del micrófono.
+   a)   cuando los trabajadores realicen sus labores de pie, la altura del micrófono debe ser de 1.45 ± 0.10 m,
+        en relación al plano de sustentación de los trabajadores;
+   b)   cuando los trabajadores realicen sus labores sentados, la altura del micrófono debe colocarse al nivel
+        medio de la cabeza de los trabajadores;
+   c)   cuando se utilice otra altura del micrófono, debe explicarse el motivo en el registro de evaluación.
+   B.6.4.3. Orientación del micrófono.
+   Durante el periodo de observación en un punto de medición, el micrófono debe orientarse en aquella
+posición donde se registre el máximo NSA del punto.
+   B.6.4.4. Ubicación del observador.
+    La ubicación del observador y la posición del micrófono no deben ser motivo para que sufran o causen un
+riesgo de trabajo y, en su caso, se debe utilizar un cable de extensión para el micrófono.
+   B.6.5. Método para evaluar ruido estable.
+   B.6.5.1. Evaluación por medio de sonómetro.
+    B.6.5.1.1. Este método es aplicable cuando se ha determinado, en el reconocimiento sensorial, que el
+ruido es estable durante toda la jornada de trabajo, y debe efectuarse durante tres periodos de observación,
+siempre y cuando las características del proceso no cambien durante la jornada de trabajo.
+   B.6.5.1.2. Características de la evaluación:
+   a)   cada periodo de observación tiene una duración de 5 minutos como máximo, con 50 lecturas
+        como mínimo;
+   b)   durante un periodo de observación debe registrarse el NSA cada 5 segundos, como máximo;
+   c)   en cada punto de medición, los periodos de observación deben repetirse aproximadamente
+        cada hora;
+   d)   debe usarse la respuesta dinámica “RAPIDA” del sonómetro;
+   e)   el valor del NSA debe ser el observado instantáneamente y registrarse sin considerar tendencias en
+        las variaciones del NSA.
+ 112         (Segunda Sección)                                            DIARIO OFICIAL                                 Miércoles 17 de abril de 2002
+
+ B.6.5.1.3. Registro de los NSA:
+
+ a)          para el registro de los NSA de todos los puntos de medición durante el tiempo que dure un periodo de
+             observación, debe utilizarse la hoja de registro establecida en la Figura B.1 o una similar;
+
+ b)          una vez concluida la evaluación de la jornada de trabajo, la información de cada punto de medición,
+             tomada de las hojas de registro por periodo, debe ordenarse y graficarse en la hoja de registro de la
+             Figura B.2, o en una similar.
+
+
+
+
+                                                                            FIGURA B.1
+
+                                                             REGISTRO DEL NSA o NSCEA,T
+         EMPRESA                                                                                      PERIODO DE OBSERVACION
+
+     DEPARTAMENTO                                                                            OBSERVADOR
+
+                         INICIAL                                                                               INICIAL                                      dB
+         HORA                                                                      CLASIFICACION
+                             FINAL                                                                               FINAL                                      dB
+
+             LUGAR                                                                       FECHA
+
+     SONOMETRO
+     CLASE                               MARCA                          MODELO                            SERIE                           CARACTERISTICA
+
+
+
+
+                                                              NIVEL SONORO "A" EN dB
+
+12
+
+11
+
+10
+
+ 9
+
+ 8
+
+
+                                                                                                                                                                    PUNTOS
+ 7
+
+ 6
+
+ 5
+
+ 4
+
+ 3
+
+ 2
+
+ 1
+     1   2   3   4   5   6   7   8   9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+Miércoles 17 de abril de 2002                          DIARIO OFICIAL                                        (Segunda Sección)             113
+
+
+
+B.6.5.1.1.
+
+
+
+
+                                                           FIGURA B.2
+
+                                      GRAFICA DE LOS NSA POR PUNTO
+
+      EMPRESA                                                                  PUNTO DE MEDICION NUMERO
+
+
+      DEPARTAMENTO                                                            OBSERVADOR
+
+
+      LUGAR Y FECHA                                                     NIVEL SONORO A PROMEDIO DEL PUNTO
+
+
+
+                                          PERIODO DE OBSERVACION
+
+            1                        2                            3                              4                             5
+
+
+
+
+                                                                                                                                                 NIVEL SONORO
+
+
+
+
+ 10    20   30   40   50   60   70   80   90   100   110    120   130   140    150   160   170   180   190   210   210   220   230   240   250
+   114    (Segunda Sección)                          DIARIO OFICIAL                         Miércoles 17 de abril de 2002
+
+   B.6.5.1.4. Debe calcularse el NSA promedio del punto de medición mediante la ecuación siguiente:
+                                                                 150           Nj
+
+                                        NS A i = 10 log
+                                                         1
+                                                        150      ∑10           10
+
+                                                                 j=1
+
+   donde:
+
+   NSAi     es el NSA promedio del punto de medición i
+
+   Nj       es el NSA registrado
+   B.6.5.1.5 Se debe determinar el NER con la siguiente ecuación:
+                                                        n          NS A i
+
+                                   NER = 10 log      ∑ 10   ti      10
+                                                                              - 10 log Te
+                                                      i=1
+
+   donde:
+
+   ti     es el tiempo de exposición en el punto de medición i
+
+   Te     es el tiempo total de exposición
+                                                        n
+
+                                              Te =   ∑ ti         = 8 horas
+                                                      i=1
+
+   B.6.5.2. Evaluación por medio de sonómetro integrador.
+
+   B.6.5.2.1. Este método es aplicable cuando se ha determinado del reconocimiento inicial, que el ruido es
+estable durante toda la jornada de trabajo, y debe efectuarse durante dos periodos de observación, siempre y
+cuando las características del proceso no cambien durante la jornada de trabajo.
+
+   B.6.5.2.2. Características de la evaluación:
+
+   a)     cada periodo de observación debe tener una duración de 5 minutos, con 10 lecturas;
+
+   b)     durante un periodo de observación debe registrarse el NSCEA,T cada 30 segundos;
+
+   c)     en cada punto de medición, los periodos de observación deben repetirse aproximadamente cada dos
+          horas;
+
+   d)     debe usarse la respuesta dinámica “RAPIDA” del sonómetro.
+
+   B.6.5.2.3. Para el registro de los NSCEA,T, de todos los puntos de medición, debe utilizarse la hoja de
+registro establecida en la Figura B.1 o una similar.
+
+   B.6.5.2.4. Debe calcularse el NSCEA,T promedio del punto de medición, mediante la ecuación siguiente:
+                                                                   20            Nk
+
+                                      NSCE A,T i = 10 log
+                                                           1
+                                                          20      ∑10            10
+
+                                                                   k =1
+
+   donde:
+
+   NSCEA,Ti        es el NSCEA,T promedio del punto de medición i
+
+   Nk              es el NSCEA,T registrado
+
+   B.6.5.2.5 Se debe determinar el NER con la siguiente ecuación:
+                                                  n              NSCE A,T i
+
+                                NER = 10 log      ∑ ti10           10
+                                                                               - 10 log Te
+                                                  i=1
+   Miércoles 17 de abril de 2002                   DIARIO OFICIAL                      (Segunda Sección)   115
+
+   donde:
+   NSCEA,T i       es el NSCEA,T promedio del punto de medición i
+   ti              es el tiempo de exposición en el punto de medición i
+   Te              es el tiempo total de exposición
+                                                    n
+
+                                            Te =   ∑ ti        = 8 horas
+                                                   i=1
+
+   B.6.6. Método para evaluar ruido inestable.
+   B.6.6.1. Evaluación por medio de sonómetro.
+   Este método es aplicable cuando se ha determinado del reconocimiento inicial, que el ruido es inestable
+durante toda la jornada de trabajo, y debe efectuarse durante cinco periodos de observación.
+   B.6.6.1.1. Características de la evaluación:
+   a)      cada periodo de observación tiene una duración de 5 minutos como máximo, de tal forma que se
+           registren 50 lecturas como mínimo;
+   b)      durante un periodo de observación debe registrarse el NSA cada 5 segundos como máximo;
+   c)      en cada punto de medición, los periodos de observación deben repetirse aproximadamente cada
+           hora;
+   d)      debe usarse la respuesta dinámica “RAPIDA” del sonómetro;
+   e)      el valor del NSA debe ser el observado instantáneamente y registrarse sin considerar tendencias en
+           las variaciones del NSA.
+   B.6.6.1.2. Registro de los NSA:
+   a)      para el registro de los NSA de todos los puntos de medición durante el tiempo que dure un periodo de
+           observación, debe utilizarse la hoja de registro establecida en la Figura B.1, o una similar;
+   b)      una vez concluida la evaluación de la jornada de trabajo, la información de cada punto de medición,
+           tomada en las hojas de registro por periodo, debe ordenarse y graficarse en la hoja de registro
+           establecida en la Figura B.2 o una similar.
+   B.6.6.1.3 Debe calcularse el NSA promedio del punto de medición mediante la ecuación siguiente:
+                                                              250          Nj
+
+                                        NS A i = 10 log
+                                                         1
+                                                        250   ∑10          10
+
+                                                              j=1
+
+   donde:
+   NSAi             es el NSA promedio del punto de medición i
+   Nj               es el NSA registrado
+   B.6.6.1.4. Se debe determinar el NER con la siguiente expresión:
+                                                    n           NS A i
+
+                                   NER = 10 log    ∑ ti10        10
+                                                                         - 10 log Te
+                                                   i=1
+
+   donde:
+   NSA i           es el NSA promedio del punto de medición i
+   ti              es el tiempo de exposición en el punto de medición i
+   Te              es el tiempo total de exposición
+                                                    n
+
+                                            Te =   ∑ ti        = 8 horas
+                                                   i=1
+   116    (Segunda Sección)                          DIARIO OFICIAL                   Miércoles 17 de abril de 2002
+
+   B.6.6.2. Evaluación por medio de sonómetro integrador.
+    B.6.6.2.1. Este método es aplicable cuando en el reconocimiento sensorial se ha determinado que el ruido
+es inestable durante toda la jornada de trabajo. Sólo deben efectuarse tres periodos de observación.
+   B.6.6.2.2. Características de la evaluación:
+   a)    cada periodo de observación debe tener una duración de 5 minutos, con 10 lecturas;
+   b)    durante un periodo de observación debe registrarse el NSCEA,T cada 30 segundos;
+   c)    en cada punto de medición, los periodos de observación deben repetirse aproximadamente cada dos
+         horas;
+   d)    debe usarse la respuesta dinámica “RAPIDA” del sonómetro.
+
+   B.6.6.2.3. Registro de los NSCEA,T:
+
+   Para el registro de los NSCEA,T, de todos los puntos de medición, debe utilizarse la hoja de la Figura B.1 o
+una similar.
+   B.6.6.2.4. Debe determinarse el NSCEA promedio del punto de medición mediante la ecuación siguiente:
+                                                                 30           Nk
+
+                                    NSCE A,T i = 10 log
+                                                             1
+                                                            30   ∑10          10
+
+                                                                 k =1
+
+   donde:
+   NSCEA,Ti       es el NSCEA,T promedio del punto de medición i
+   Nk             es el NSCEA,T registrado
+   B.6.6.2.5. Se debe determinar el NER con la siguiente expresión:
+                                                  n           NSCE A,T i
+
+                              NER = 10 log      ∑ 10   ti       10
+                                                                             - 10 log Te
+                                                 i=1
+
+   donde:
+   NSCEA,T i      es el NSCEA,T promedio del punto de medición i
+   ti             es el tiempo de exposición en el punto de medición i
+   Te             es el tiempo total de exposición
+                                                       n
+
+                                              Te =   ∑ ti        = 8 horas
+                                                      i=1
+
+   B.6.7. Método para evaluar ruido impulsivo por medio de sonómetro integrador.
+
+   B.6.7.1. Este método es aplicable cuando se ha determinado del reconocimiento sensorial, que el ruido es
+impulsivo durante toda la jornada de trabajo. Sólo debe efectuarse un periodo de observación.
+
+   B.6.7.2. Características de la evaluación:
+
+   a)    el periodo de observación debe tener una duración de 15 minutos, con 45 lecturas;
+
+   b)    durante un periodo de observación debe registrarse el NSCEA,T cada 20 segundos;
+
+   c)    debe usarse la respuesta dinámica “IMPULSO” del sonómetro.
+
+   B.6.7.3. Registro de los NSCEA,T.
+
+   Para el registro de los NSCEA,T, de todos los puntos de medición, debe utilizarse la hoja de registro
+establecida en la Figura B.1 o una similar.
+   Miércoles 17 de abril de 2002                 DIARIO OFICIAL                          (Segunda Sección)   117
+
+   B.6.7.4. Debe calcularse el NSCEA,T promedio del punto de medición mediante la ecuación siguiente:
+                                                                   45         Nk
+
+                                      NSCE A,T i = 10 log
+                                                               1
+                                                              45   ∑10        10
+
+                                                                   k =1
+
+   donde:
+
+   NSCEA,Ti       es el NSCEA,T promedio del punto de medición i
+
+   Nk             es el NSCEA,T registrado
+
+   B.6.7.5 Se debe determinar el NER con la siguiente expresión:
+                                                 n            NSCE A,T i
+
+                               NER = 10 log     ∑ 10     ti     10
+                                                                           - 10 log Te
+                                                i=1
+
+
+   donde:
+
+   NSCEA,T i      es el NSCEA,T promedio del punto de medición i
+
+   ti             es el tiempo de exposición en el punto de medición i
+
+   Te             es el tiempo total de exposición
+                                                     n
+
+                                          Te =   ∑ ti          = 8 horas
+                                                     i=1
+
+   B.6.8. Método de evaluación personal.
+
+   B.6.8.1. Localización del micrófono.
+
+   El micrófono debe de colocarse en la mitad del hombro, y la unidad de procesamiento de datos del
+medidor personal de exposición a ruido debe fijarse en el trabajador en una posición que no interfiera con sus
+actividades normales.
+
+   B.6.8.2. Ajuste del medidor personal de exposición a ruido.
+
+   El medidor personal de exposición a ruido debe ajustarse al Nivel Sonoro Criterio de 90 dB(A) para una
+jornada laboral de 8 horas y una tasa de intercambio de 3 dB(A).
+
+   B.6.8.3. Características de la evaluación.
+
+   a)   se debe de informar del objeto del estudio al trabajador que portará el medidor personal de
+        exposición a ruido;
+
+   b)   una vez colocado el micrófono en el trabajador, se debe de iniciar el procedimiento de integración del
+        medidor personal de exposición a ruido, registrando la hora inicial;
+
+   c)   el trabajador debe portar el medidor personal de exposición a ruido durante todo el periodo de
+        medición, mismo que no debe ser menor a 5 horas, y en el cual realizará sus actividades
+        normalmente;
+
+   d)   al concluir el tiempo total de medición T, se detendrá el funcionamiento del medidor personal de
+        exposición a ruido, registrando la hora final;
+
+   e)   asentar en la hoja de registro establecida en la Figura B.3 o una similar, tanto la hora de inicio de
+        medición (ti), como la final (tf) y el porcentaje de dosis (D). Si el medidor personal de exposición a
+        ruido incluye la opción de lectura directa del NER y el tiempo total de medición, estos valores también
+        deben registrarse. En caso contrario, éstos deberán calcularse conforme a lo establecido en el
+        Apartado B.6.8.4 y registrarse.
+118    (Segunda Sección)                      DIARIO OFICIAL                   Miércoles 17 de abril de 2002
+
+                                               FIGURA B.3
+
+                             REGISTRO DE EVALUACION PERSONAL
+
+EMPRESA                                                HOJA NUMERO                         DE
+
+DEPARTAMENTO                                                    OBSERVADOR
+
+LUGAR Y FECHA                                         TOTAL DE TRABAJADORES EXPUESTOS
+
+
+                                             INSTRUMENTO
+
+                                                                                        CALIFICACION
+NUMERO                     MARCA               MODELO                  SERIE
+                                                                                       INICIAL      FINAL
+
+
+
+
+                                             TRABAJADOR
+
+                                                 HORA         TIEMPO DE    % DE                   TIEMPO MAX.
+    NOMBRE       PUESTO      INSTRUMENTO
+                                                              MEDICION     DOSIS
+                                                                                        NER      PERM. DE EXP.
+                                             INICIAL FINAL
+
+
+
+
+B.6.8.4. Se debe determinar el NER con la siguiente ecuación:
+
+                                                                D
+                                     NER = 90 + 9.97 log
+                                                             12.5 x T
+donde:
+D     es el porcentaje de dosis registrado durante T
+T     es el tiempo total de medición en horas = tf – ti
+B.7 Registro de la evaluación.
+El registro de evaluación debe contener:
+a)    informe descriptivo de las condiciones normales de operación en las cuales se realizó la evaluación,
+      incluyendo breves descripciones del proceso de fabricación y de los puestos de trabajo y el número
+      de trabajadores expuestos por área y puesto de trabajo;
+b)    criterios utilizados para seleccionar el método de evaluación;
+c)    plano de distribución de la zona o área evaluada, en el que se indique la ubicación de los puntos de
+      medición;
+   Miércoles 17 de abril de 2002                DIARIO OFICIAL                       (Segunda Sección)    119
+
+   d)    las Figuras B.1, B.2 y B.3, según sea el caso;
+   e)    memoria de cálculo de los NSA, NSCEA y NER;
+   f)    copia de los documentos solicitados en el Apartado B.3.1;
+   g)    nombre y firma del responsable del estudio de evaluación.
+   B.8 Métodos alternativos para evaluación.
+    Cuando el patrón requiera de métodos alternativos para evaluar los tipos de ruido en su centro de trabajo,
+se procederá conforme a lo dispuesto en los artículos 49 de la Ley Federal sobre Metrología y Normalización y
+8o. del Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo.
+
+                                                  APENDICE C
+                           DETERMINACION DEL NPA, EN BANDAS DE OCTAVA
+   C.1. Introducción.
+   Este Apéndice establece los métodos para determinar el NPA en bandas de octava, cuyos valores serán
+usados para la selección del equipo de protección auditiva.
+   C.2. Instrumentación y accesorios.
+   a)    Debe utilizarse alguno de los instrumentos siguientes:
+         1)   sonómetro clase 1 o clase 2 y unidad de filtros de bandas de octava;
+         2)   sonómetro integrador clase 1 o clase 2 y unidad de filtros de bandas de octava;
+         3)   otros analizadores en frecuencia;
+   b)   Para la calibración en campo de la instrumentación se debe de utilizar un calibrador acústico;
+   c)    Para efectuar la medición, se debe contar con los elementos siguientes:
+         1)   trípode de soporte para el sonómetro, sonómetro integrador o micrófono;
+         2)   reloj o cronómetro externo o integrado al instrumento;
+         3)   pantalla contra viento;
+         4)   los formatos de registro correspondientes.
+   C.3. Calibración de la instrumentación.
+   C.3.1. Calibración en laboratorio de calibración acreditado.
+   Se debe verificar periódicamente la calibración de la instrumentación por un laboratorio de calibración
+acreditado y contar con el documento que avale dicha calibración, de conformidad con los procedimientos
+establecidos en la Ley Federal sobre Metrología y Normalización.
+   C.3.2. Calibración de campo.
+    Se debe calibrar la instrumentación por medio del calibrador acústico, al inicio y al final de la jornada de
+medición, de acuerdo a lo establecido en el manual del fabricante. Los valores de la calibración deben
+anotarse en la hoja de registro correspondiente. Si se encuentra una diferencia de 1 dB o más entre la
+calibración inicial y final, se deben anular los resultados de los estudios de esa jornada de medición.
+   C.4. Reconocimiento.
+   La información que debe recabarse es la siguiente:
+   a)    de los resultados obtenidos durante la evaluación del NSA para la determinación del NER, se deben
+         identificar las áreas con NSA mayor o igual a 80 dB(A) y aquéllas en que la exposición de los
+         trabajadores al ruido sea representativa;
+   b)    descripción del área;
+   c)    descripción de la ubicación y características relevantes de la exposición de los trabajadores.
+   C.5. Condiciones para la evaluación.
+   C.5.1. La evaluación de los NPA, en una jornada laboral, será en función de las condiciones normales de
+operación, mismas que no deben ser alteradas para la realización de aquélla.
+    C.5.2. La evaluación debe realizarse como mínimo durante una jornada laboral de 8 horas y en aquella
+jornada que bajo condiciones normales de operación, presente los niveles más altos de ruido.
+   120   (Segunda Sección)                        DIARIO OFICIAL                 Miércoles 17 de abril de 2002
+
+   C.5.3. Si la evaluación dura más de una jornada laboral de 8 horas, se deben conservar las características
+normales de operación durante cada jornada en que se realice la evaluación.
+    C.5.4. Se debe usar pantalla contra viento en el micrófono del instrumento de medición, durante todo el
+tiempo que dure la evaluación.
+   C.6. Procedimiento de evaluación.
+   C.6.1. Puntos de medición.
+   C.6.1.1. La ubicación de los puntos de medición del NPA debe ser la misma de los puntos de medición
+evaluados conforme al Apéndice B, cuyo NSA sea igual o superior a 80 dB(A).
+   C.6.1.2. Los puntos de medición deben ubicarse en el lugar en que habitualmente labora el trabajador y, de
+no ser posible, lo más cercanos a él sin interferir sus actividades.
+   C.6.1.3. Todos los puntos de medición de una zona de evaluación deben identificarse con un número
+progresivo, registrándose su posición en el plano correspondiente solicitado en el inciso a) del Apartado B.4.
+   C.6.2. Localización del micrófono.
+   C.6.2.1. Altura del micrófono.
+   a)    cuando los trabajadores realicen sus labores de pie, la altura del micrófono debe ser de 1.45 ± 0.1m,
+         en relación al plano de sustentación;
+   b)    cuando los trabajadores realicen sus labores sentados, la altura del micrófono debe colocarse al nivel
+         de la cabeza de los trabajadores;
+   c)    cuando se utilice otra altura del micrófono, debe explicarse el motivo en el registro de evaluación.
+   C.6.2.2. Orientación del micrófono.
+   El micrófono, durante el periodo de observación en un punto de medición, debe orientarse en la posición
+donde se registre el máximo NPA del punto.
+   C.6.3. Ubicación del observador.
+    La ubicación del observador y la posición del micrófono no deben ser motivo para que sufran o causen un
+riesgo de trabajo y, en su caso, se debe utilizar un cable de extensión para el mismo.
+   C.6.4. Evaluación por medio de sonómetro y filtro de bandas de octava.
+   C.6.4.1. Este método debe usarse para evaluar el NPA de ruido estable.
+   C.6.4.1.1. Periodos de observación.
+   a)    se deben efectuar dos periodos de observación, siempre y cuando las características del proceso no
+         cambien durante la jornada de trabajo;
+   b)    en cada periodo de observación se deben registrar los valores del NSA instantáneo, del NPA total
+         y del NPA para las frecuencias centrales siguientes: 31.5, 63, 125, 250, 500, 1000, 2000, 4000 y
+         8000 Hz.
+   C.6.4.1.2. Características de la evaluación:
+   a)    deben registrarse 5 lecturas por banda, una cada 5 segundos como máximo, durante el periodo de
+         observación;
+   b)    en cada punto de medición, los periodos de observación deben repetirse aproximadamente cada
+         hora;
+   c)    debe usarse la respuesta dinámica “RAPIDA” del sonómetro;
+   d)    el valor del NPA debe ser el observado instantáneamente, y registrarse sin considerar tendencias en
+         las variaciones del NPA;
+   C.6.4.1.3. Registro de los NPA:
+   a)    para el registro de los NPA por bandas de octava de cada punto de medición durante el tiempo que
+         dure un periodo de observación, debe utilizarse la hoja de registro establecida en la Figura
+         C.1 o una similar;
+   b)    una vez concluida la evaluación de la jornada de trabajo, la información de cada punto de medición
+         debe ordenarse y graficarse en la hoja de registro establecida en la Figura C.2 o en una similar.
+              Miércoles 17 de abril de 2002                                                 DIARIO OFICIAL                 (Segunda Sección)   121
+
+
+
+
+                                                                                             FIGURA C.1
+
+                                                     EMPRESA                                                            FECHA
+                                                      DEPARTAMENTO                                                  PUESTO
+                                                    OBSERVADOR                                             CALIFICACION INICIAL
+                                                                                                                        FINAL
+
+                                                                                       INSTRUMENTACION
+                                                        INSTRUMENTO            MARCA          MODELO                 CLAVE          SERIE
+
+
+
+
+                                                             PONDERACION                             FRECUENCIA CENTRAL
+                                                    MEDICION dB "A"   LINEAL   31.5    63      125      250   500  1000   2000    4000     8000
+                                                       1
+
+
+
+
+PERIODO 5 PERIODO 4 PERIODO 3 PERIODO 2 PERIODO 1
+                                                       2
+                                                       3
+                                                       4
+                                                       5
+                                                       1
+                                                       2
+                                                       3
+                                                       4
+                                                       5
+                                                       1
+                                                       2
+                                                       3
+                                                       4
+                                                       5
+                                                       1
+                                                       2
+                                                       3
+                                                       4
+                                                       5
+                                                       1
+                                                       2
+                                                       3
+                                                       4
+                                                       5
+   122    (Segunda Sección)                                DIARIO OFICIAL                             Miércoles 17 de abril de 2002
+
+                                                             FIGURA C.2
+
+
+
+
+                     REGISTRO DEL ESPECTRO ACUSTICO
+                 PONDERACION                                           FRECUENCIAS CENTRALES (Hz)
+                  dBa          LINEAL    31.5         63         125          250         500        1K        2K        4K        8K
+  PERIODO 1
+  PERIODO 2
+  PERIODO 3
+  PERIODO 4
+  PERIODO 5
+  NPA
+
+
+
+
+        NPA
+         dB
+
+
+
+
+                        31.5        63          125        250         500          1k          2k        4k        8k        Hz
+
+
+
+
+   Determinación del NPA promedio por cada banda de octava del punto de medición.
+    Debe calcularse el NPA promedio por cada banda de octava del punto de medición, mediante la ecuación
+siguiente:
+                                                                        10               NPAj
+
+                                            NPAi = 10 log
+                                                           1
+                                                          10           ∑10                10
+
+                                                                        j=1
+
+   donde:
+   NPAi           es el NPA promedio por banda
+   NPAj           es el NPA registrado por banda
+   C.6.4.2.       Este método debe usarse para evaluar el NPA de ruido inestable.
+   C.6.4.2.1. Periodos de observación:
+   a)     se deben efectuar cinco periodos de observación, siempre y cuando las características del proceso
+          no cambien durante la jornada de trabajo;
+   b)     en cada periodo de observación se deben registrar los valores del NSA instantáneo, del NPA total
+          y del NPA para las frecuencias centrales siguientes: 31.5, 63, 125, 250, 500, 1000, 2000, 4000 y
+          8000 Hz.
+   Miércoles 17 de abril de 2002                  DIARIO OFICIAL                    (Segunda Sección)   123
+
+   C.6.4.2.2. Características de la evaluación:
+   a)     deben registrarse 5 lecturas por banda, una cada 5 segundos como máximo, durante el periodo de
+          observación;
+   b)     en cada punto de medición los periodos de observación deben repetirse aproximadamente
+          cada hora;
+   c)     debe usarse la respuesta dinámica “RAPIDA” del sonómetro;
+   d)     el valor del NPA debe ser el observado instantáneamente, registrándose sin considerar tendencias de
+          las variaciones en el NPA.
+   C.6.4.2.3. Registro de los NPA:
+   a)     para el registro de los NPA por bandas de octava de cada punto de medición durante el tiempo que
+          dure un periodo de observación, debe utilizarse la hoja de registro establecida en la figura C.1 o una
+          similar;
+   b)     una vez concluida la evaluación de la jornada de trabajo, la información de cada punto de medición
+          debe ordenarse y graficarse en la hoja de registro establecida en la figura C.2 o en una similar.
+    C.6.4.2.4. Debe determinarse el NPA promedio por cada banda de octava del punto de medición, mediante
+la ecuación siguiente:
+                                                          25        NPAj
+
+                                      NPAi = 10 log
+                                                     1
+                                                    25   ∑10         10
+
+                                                          j=1
+
+   donde:
+   NPAi           es el NPA promedio por banda
+   NPAj           es el NPA registrado por banda
+   C.6.5. Evaluación por medio de sonómetro integrador y filtro de bandas de octava.
+   C.6.5.1. Este método debe usarse para evaluar el NPA de ruido estable.
+   C.6.5.1.1. Periodo de observación.
+    Se debe efectuar un periodo de observación, siempre y cuando las características del proceso no cambien
+durante la jornada de trabajo, durante el cual se deben registrar los valores del NSA instantáneo, del NPA total
+y del NPA para las frecuencias centrales siguientes: 31.5, 63, 125, 250, 500, 1000, 2000, 4000 y 8000 Hz.
+   C.6.5.1.2. Características de la evaluación:
+   a)     en cada banda de octava, el sonómetro integrador debe registrar los NPA instantáneos en forma
+          continua, durante 1 minuto;
+   b)     debe usarse la respuesta dinámica “RAPIDA” del sonómetro;
+   c)     el valor del NPA equivalente del periodo de observación evaluado, por cada banda de octava, debe
+          ser el mostrado por el sonómetro integrador al final del tiempo de muestreo.
+   C.6.5.1.3. Registro de los NPA.
+    Los NPA equivalentes por banda de octava del periodo de observación de cada punto de medición, deben
+registrarse, ordenarse y graficarse en la hoja de registro establecida en la Figura C.2 o en una similar.
+   C.6.5.1.4. Determinación del NPA promedio por cada banda de octava del punto de medición.
+   El NPA promedio por cada banda de octava del punto de medición, es igual al NPA equivalente del periodo
+de observación evaluado por cada banda de octava.
+   C.6.5.2. Este método debe usarse para evaluar el NPA de ruido inestable.
+   C.6.5.2.1. Periodos de observación:
+   a)     se deben efectuar dos periodos de observación, siempre y cuando las características del proceso no
+          cambien durante la jornada de trabajo;
+   b)     en cada periodo de observación se deben registrar los valores del NSA instantáneo, del NPA total
+          y del NPA para las frecuencias centrales siguientes: 31.5, 63, 125, 250, 500, 1000, 2000, 4000 y
+          8000 Hz.
+   124    (Segunda Sección)                       DIARIO OFICIAL                  Miércoles 17 de abril de 2002
+
+   C.6.5.2.2. Características de la evaluación:
+   a)     en cada banda de octava, el sonómetro integrador debe registrar los NPA instantáneos, en forma
+          continua, durante 1 minuto;
+   b)     en cada punto de medición, los periodos de observación deben repetirse aproximadamente
+          cada hora;
+   c)     debe usarse la respuesta dinámica “RAPIDA” del sonómetro;
+   d)     el valor del NPA equivalente del periodo de observación evaluado, por cada banda de octava, debe
+          ser el mostrado por el sonómetro integrador al final del tiempo de muestreo.
+   C.6.5.2.3. Registro de los NPA:
+    Los NPA equivalentes por banda de octava del periodo de observación de cada punto de medición, deben
+registrarse, ordenarse y graficarse en la hoja de registro establecida en la Figura C.2 o en una similar.
+   C.6.5.2.4. Se debe calcular el NPA promedio por cada banda de octava del punto de medición, mediante la
+ecuación siguiente:
+                                                          2          NPAk
+
+                                       NPAi = 10 log
+                                                     1
+                                                     2   ∑10          10
+
+                                                         k =1
+
+   donde:
+   NPAi           es el NPA promedio por banda
+   NPAk           es el NPA equivalente registrado por banda
+   C.6.5.3. Este método debe usarse para evaluar el NPA de ruido impulsivo.
+    C.6.5.3.1. Se debe efectuar un periodo de observación, siempre y cuando las características del proceso
+no cambien durante la jornada de trabajo, durante el cual se deben registrar los valores del NSA instantáneo,
+del NPA total y del NPA para las frecuencias centrales siguientes: 31.5, 63, 125, 250, 500, 1000, 2000, 4000 y
+8000 Hz.
+   C.6.5.3.2. Características de la evaluación:
+   a)     en cada banda de octava el sonómetro integrador debe registrar los NPA instantáneos, en forma
+          continua, durante 2 minutos, sincronizando el tiempo de medición con la ocurrencia de los eventos
+          impulsivos por evaluar;
+   b)     debe usarse la respuesta dinámica “RAPIDA” del sonómetro;
+   c)     el valor del NPA equivalente del periodo de observación evaluado por cada banda de octava, debe
+          ser el mostrado por el sonómetro integrador al final del tiempo de muestreo.
+   C.6.5.3.3. Registro de los NPA.
+    Los NPA equivalentes por banda de octava del periodo de observación de cada punto de medición deben
+registrarse, ordenarse y graficarse en la hoja de registro establecida en la Figura C.2 o en una similar.
+   C.6.5.3.4. Determinación del NPA promedio por cada banda de octava del punto de medición.
+   El NPA promedio por cada banda de octava del punto de medición es igual al NPA equivalente del periodo
+de observación evaluado, por cada banda de octava.
+   C.7. Registro de la evaluación.
+   El registro de evaluación a que se refiere el inciso a) del Apartado 8.8.3 de esta Norma, debe contener:
+   a)     descripción del área, de la ubicación y características relevantes de la exposición de los trabajadores;
+   b)     planos de distribución de las áreas en que existe ruido y de la maquinaria y equipo generador;
+   c)     las hojas de registro establecidas en las Figuras C.1 y C.2 o similares, numerándolas en forma
+          progresiva;
+   d)     memoria de cálculo de los NPA;
+   e)     copia de los documentos solicitados en el Apartado C.3.1;
+   f)     nombre, firma y cédula profesional del responsable del proyecto de evaluación.
+    C.8. La determinación del NPA, referida en este Apéndice, puede ser obtenida por métodos alternativos,
+los cuales deberán ser descritos.
+   Miércoles 17 de abril de 2002                 DIARIO OFICIAL                        (Segunda Sección)   125
+
+                                                  APENDICE D
+                    SELECCION DEL EQUIPO DE PROTECCION PERSONAL AUDITIVA
+   D.1. Modelo por bandas de octava.
+   D.1.1. Introducción.
+   En este Apéndice se presenta el método para determinar el factor de reducción R, en dB(A), a partir de la
+atenuación del NPA por bandas de octava, proporcionada por el equipo de protección personal auditiva
+empleado.
+   D.1.2. Cálculo del factor de reducción R.
+    El Factor de Reducción R, en dB(A), se define como un número que resulta de la comparación entre las
+atenuaciones del NPA por bandas de octava, proporcionadas por los fabricantes de equipo de protección
+auditiva y del análisis de frecuencia del ruido, presente en un punto de medición del ambiente de trabajo, con
+el NER del mismo, siendo expresado en la ecuación siguiente:
+                                                         7          Lj - Qj
+
+                                   Ri = NERi - 10 log   ∑10           10
+                                                                              - 10.0
+                                                         j=1
+
+   donde:
+   Ri       es el factor de reducción R en el punto de medición i
+   NERi     es el nivel de exposición a ruido en el punto de medición i
+   Lj       es el nivel de presión acústica por bandas de octava
+   L1       es el NPA en la banda de 125 Hz
+   L2       es el NPA en la banda de 250 Hz
+   L3       es el NPA en la banda de 500 Hz
+   L4       es el NPA en la banda de 1000 Hz
+   L5       es el NPA en la banda de 2000 Hz
+   L6       es el NPA en la banda de 4000 Hz
+   L7       es el NPA en la banda de 8000 Hz
+   Qj       es la atenuación del nivel de presión acústica por bandas de octava proporcionada por el
+            fabricante del equipo evaluado
+   Q1       es la atenuación a 125 Hz + 16.2 dB
+   Q2       es la atenuación a 250 Hz + 8.7 dB
+   Q3       es la atenuación a 500 Hz + 3.3 dB
+   Q4       es la atenuación a 1000 Hz
+   Q5       es la atenuación a 2000 Hz - 1.2 dB
+   Q6       es el (Promedio de las atenuaciones a 3125 y 4000 Hz) - 1.0 dB
+   Q7       es el (Promedio de las atenuaciones a 6300 y 8000 Hz) + 1.1 dB
+   10       es el término de corrección tomado en cuenta por posibles irregularidades del espectro acústico,
+            así como fugas de ruido, las cuales pueden ser causadas por cabello largo, uso de anteojos de
+            seguridad, movimientos de cabeza u otros factores.
+   D.2. Modelo con mediciones de ruido en dB(A).
+    D.2.1. Cuando se use un equipo de protección personal auditiva, el factor de reducción R se calcula con la
+siguiente ecuación:
+                                                        (NRR - 7)
+                                                 R=
+                                                               2
+   donde:
+   NRR            es el factor de nivel de reducción a ruido establecido por el fabricante.
+   126   (Segunda Sección)                    DIARIO OFICIAL                   Miércoles 17 de abril de 2002
+
+   D.2.2. Cuando es conocido el nivel de exposición a ruido en dB(A), el nivel de ruido efectivo en
+ponderación A (NRE), se calcula con la ecuación siguiente:
+                                             NRE = dB(A ) - R
+   11. Vigilancia
+   La vigilancia del cumplimiento de esta Norma Oficial Mexicana, corresponde a la Secretaría del Trabajo y
+Previsión Social.
+   12. Bibliografía
+   Ley Federal del Trabajo.
+   Ley Federal sobre Metrología y Normalización.
+   Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo.
+   NOM-008-SCFI-1993, Sistema general de unidades de medida.
+    ISO 1999: 1990 (E) Acoustics - Determination of occupational noise exposure and estimation
+of noise-induced hearing impairment.
+   ISO 6189: 1983 (E) Acoustics - Pure tone air conduction threshold audiometry for hearing conservation
+purposes.
+   ISO 9612: 1997 (E) Acoustics - Guidelines for the measurement and assessment of exposure to noise in a
+working environment.
+   IEC 651: 1979, Sound Level Meters.
+   IEC 804: 1985, Integrating-averaging Sound Level Meters.
+   IEC 942: 1988, Sound Calibrators.
+   IEC 1252: 1993, Electroacoustics - Specifications for Personal Sound Exposure Meters.
+   OSHA 1910.95 - Occupational Noise Exposure - Code of Federal Regulations, Title 29, Chapter XVII, Part
+1910, Subpart G, 36 FR 10466, May 29, 1971; Amended 48 FR 9776-9785, March 8, 1983. Estados Unidos de
+América.
+   CAN/CSA-Z107.56-M86 Procedures for the Measurement of Occupational Noise Exposure. Canadá.
+   COVENIN 1565: 1995 (3a. Revisión) Norma Venezolana - Ruido Ocupacional - Programa de Conservación
+Auditiva, Niveles Permisibles y Criterios de Evaluación. Venezuela.
+   National Institute for Occupational Safety and Health 1990. A practical guide to efective hearing
+conservation programs in the workplace. U.S. Department of Health and Human Services. Public Health
+Service. Centers for Disease Control. Estados Unidos de América.
+   National Institute for Occupational Safety and Health 1994. The NIOSH compendium of hearing protection
+devices. U.S. Department of Health and Human Services. Public Health Service. Centers for Disease Control.
+Estados Unidos de América.
+   National Institute for Occupational Safety and Health 1996. Criteria for a recommended standard (draft
+document). Occupational noise exposure - revised criteria 1996. U.S. Department of Health and Human
+Services. Public Health Service. Centers for Disease Control. Estados Unidos de América.
+   National Institute for Occupational Safety and Health 1997. Preventing occupational hearing loss: a
+practical guide. U.S. Department of Health and Human Services. Public Health Service. Centers for Disease
+Control. Estados Unidos de América.
+   Serré, R. 1989. Dictionary of Noise and Noise Control. Elsevier, Holanda.
+   Harris, C. M. 1995. Manual de Medidas Acústicas y Control de Ruido. McGraw-Hill/Interamericana de
+España, S.A. México.
+   Becker, J.P.1986. Medición de ruido. Seminario de Congreso Nacional de Seguridad. Asociación Mexicana
+de Seguridad e Higiene, A.C., México.
+   Becker, J.P. 1987. Programa de Conservación de la Audición. Seminario de Congreso Nacional de
+Seguridad. Asociación Mexicana de Seguridad e Higiene, A.C., México.
+   Miércoles 17 de abril de 2002                 DIARIO OFICIAL                    (Segunda Sección)   127
+
+    Becker, J.P. 1990. Análisis Comparativo de los Métodos de Evaluación de la Atenuación de los Protectores
+Auditivos. Sexto Encuentro Nacional de Médicos Supervisores de los Servicios Preventivos de Medicina del
+Trabajo en las Empresas. Secretaría del Trabajo y Previsión Social, México.
+    Becker, J.P. 1992. Manual de Ruido Industrial. Diplomado de Higiene Industrial, Celanese Mexicana, S.A.
+de C.V. Ergon, México.
+    Becker, J.P. 1996. La justificación del cambio (¿Realmente la Legislación Protege a los Trabajadores de
+Ruido?), México.
+    Royster, J. D. y Royster L. H. 1990. Hearing Conservation Programs. Lewis Publishers, Inc. Estados
+Unidos de América.
+    Ortiz G., J. A. 1990 Selección Objetiva de Protectores Auditivos. Congreso Nacional de Seguridad.
+Asociación Mexicana de Higiene y Seguridad, A.C. México.
+    Ortiz G., J. A. 1992 Niveles de Presión Acústica en Ambientes Laborales. Congreso Nacional de Acústica.
+Sociedad Mexicana de Acústica, A.C. México.
+    Ortiz G., J. A. et al 1993 Trauma Acústico. Evaluación, Prevención y Control. Noveno Encuentro Nacional
+de Médicos Supervisores de los Servicios Preventivos de Medicina del Trabajo en las Empresas. Secretaría
+del Trabajo y Previsión Social, México.
+    Ortiz G., J. A. 1993 El Espectro Acústico en las Evaluaciones de Ruido. Congreso Nacional de Acústica.
+Sociedad Mexicana de Acústica, A.C. México.
+    Zárate P., J. y Ortiz G., J. A. 1994 Niveles Sonoros en el Ambiente Laboral de la Industria Mexicana.
+Congreso Nacional de Acústica. Sociedad Mexicana de Acústica, A.C. México.
+    Berger, E.H., W. D. Ward, J. C. Morrill y L. H. Royster, Eds. 1986. Noise and Hearing Conservation
+Manual. 4a. Edición. American Industrial Hygiene Association. Estados Unidos de América.
+    13. Concordancia con normas internacionales
+    Esta Norma Oficial Mexicana no concuerda con ninguna norma internacional, por no existir referencia
+alguna al momento de su elaboración.
+
+                                               TRANSITORIOS
+    PRIMERO.- La presente Norma Oficial Mexicana entrará en vigor a los sesenta días naturales posteriores
+a su publicación en el Diario Oficial de la Federación y cancela la NOM-080-STPS-1993, Higiene industrial-
+Medio ambiente laboral-Determinación del nivel sonoro continuo equivalente, al que se exponen los
+trabajadores en los centros de trabajo, publicada en el Diario Oficial de la Federación el seis de julio de mil
+novecientos noventa y cuatro.
+    SEGUNDO.- Durante el lapso señalado en el artículo anterior, los patrones cumplirán con la
+NOM-011-STPS-1993, Relativa a las condiciones de seguridad e higiene en los centros de trabajo donde se
+genere ruido y con la NOM-080-STPS-1993, Higiene industrial-Medio ambiente laboral-Determinación del nivel
+sonoro continuo equivalente, al que se exponen los trabajadores en los centros de trabajo, o bien realizarán
+las adaptaciones para observar las disposiciones de la presente Norma Oficial Mexicana y, en este último
+caso, las autoridades del trabajo proporcionarán a petición de los patrones interesados, asesoría y orientación
+para instrumentar su cumplimiento, sin que los patrones se hagan acreedores a sanciones por el
+incumplimiento de la Norma en vigor.
+    México, Distrito Federal, a trece de febrero de dos mil dos.- El Secretario del Trabajo y Previsión Social,
+Carlos María Abascal Carranza.- Rúbrica.
+
+                                           GUIA DE REFERENCIA I
+                                           VIGILANCIA A LA SALUD
+   El contenido de esta guía es un complemento para la mejor comprensión de la norma y no es de
+cumplimiento obligatorio.
+   I.1   El patrón debe realizar el monitoreo de efectos a la salud de los trabajadores expuestos a NER
+         superiores a 80 dB(A).
+   I.2   El monitoreo de efectos a la salud debe comprender como mínimo:
+         a)   historial otológico que incluya:
+               1)   antecedentes heredo-familiares;
+               2)   antecedentes personales patológicos;
+ 128    (Segunda Sección)                      DIARIO OFICIAL                    Miércoles 17 de abril de 2002
+
+              3)   antecedentes personales no-patológicos;
+              4)   padecimiento actual;
+       b)    exploración física que incluya:
+              1)   evaluación clínica de oído, nariz y garganta;
+              2)   evaluación audiométrica tonal.
+ I.3   Las evaluaciones audiométricas deben ejecutarse según el programa siguiente:
+       a)    establecer un audiograma inicial de referencia, para cada trabajador que sea asignado a un
+             lugar de trabajo donde se exceda el NER de 85 dB(A), el cual debe ser precedido por un
+             periodo de al menos 14 horas sin exposición a ruido en el centro de trabajo y que no presente
+             afección de vías respiratorias superiores;
+       b)    realizar audiogramas de verificación conforme al esquema siguiente:
+              b.1) exposición a NER igual o superior a 85 dB(A), cada seis meses;
+              b.2) exposición a NER entre 80 y 85 dB(A), anualmente.
+ I.4   La evaluación audiométrica tonal debe contener como mínimo la exploración de vía aérea en las
+       frecuencias siguientes: 250, 500, 1000, 2000, 3000, 4000, 6000 y 8000 Hz.
+ I.5   Las pruebas audiométricas con audífonos deben practicarse en un ambiente que no exceda los
+       niveles de presión acústica que se dan a continuación:
+Frecuencia Central- Hz                                  250         500   1000       2000     4000      8000
+
+Nivel de Presión Acústica Máximo - dB                   44          26    28         37       44        41
+
+
+
+ I.6   El ambiente de pruebas audiométricas debe contar con el documento de registro X correspondiente,
+       en el que se registren los niveles de presión acústica referidos en el Apartado I.5. Este documento
+       debe ser proporcionado por el prestador de los servicios de evaluación audiométrica o por el patrón,
+       cuando los equipos e instalaciones sean de su propiedad.
+ I.7   Se debe verificar la calibración del audiómetro utilizado.
+ I.8   Se debe verificar la calibración biológica del audiómetro cada vez que se utilice este equipo. No
+       deben existir alteraciones iguales o superiores a 10 dB y los resultados de esta verificación deben
+       quedar registrados.
+ I.9   Los resultados del estudio audiométrico deben ser informados al trabajador, de manera individual y
+       estrictamente confidencial.
+ I.10 Cada audiograma de verificación debe ser comparado con el audiograma inicial de referencia; si en
+      este último se detecta alguna alteración que sugiera haya sido causada por exposición a ruido, el
+      médico realizará los estudios complementarios que le permitan integrar los diagnósticos: nosológico,
+      etiológico y anatomo-funcional.
+ I.11 Si el médico determina que la disminución de la capacidad auditiva no está relacionada con la
+      exposición a ruido, pero que ésta pueda agravarse durante el trabajo, el médico debe orientar al
+      patrón sobre la vigilancia a la salud y la exposición de los trabajadores.
+ I.12 Si el médico determina que la disminución de la capacidad auditiva está relacionada por la exposición
+      a ruido durante el trabajo, el patrón debe considerar la reubicación del trabajador en un área cuyo
+      NSA sea menor a 80 dB(A) o manejar los tiempos de exposición, vigilando que no se excedan los
+      límites máximos permisibles de exposición, indicados en el Apéndice A, y evaluar su capacidad
+      auditiva cada 6 meses.
+ I.13 En la documentación del programa de conservación de la audición se debe incluir un resumen de los
+      resultados de los exámenes audiométricos, de las medidas de prevención adoptadas, y de la
+      programación de los nuevos exámenes, conforme a lo establecido en el Capítulo 8.
+                                        ________________________
+

@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
+  "kind": "nom",
+  "designation": "NOM-085-SEMARNAT-2011",
+  "official_title": "Contaminación atmosférica-Niveles máximos permisibles de emisión de los equipos de combustión de calentamiento indirecto y su medición",
+  "issuing_authorities": [
+    "Secretaría de Medio Ambiente y Recursos Naturales"
+  ],
+  "regulatory_domains": [
+    "contaminación atmosférica",
+    "equipos de combustión",
+    "medio ambiente"
+  ],
+  "publication_date": "2012-02-02",
+  "effective_date": "2012-04-02",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-085-SEMARNAT-1994"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2022-02-11",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-085-SEMARNAT-2011_2022_ultima_revision.PDF"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/NOM-085-SEMARNAT-2011.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5232012&fecha=02/02/2012",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-085-SEMARNAT-2011/",
+  "publisher": "Secretaría de Medio Ambiente y Recursos Naturales",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "00e175fce29c2cc1c7c13291349b5b17cfaaa1fcf95a1bd0b41cd367e39efe88",
+  "extracted_text_sha256": "c08c6243639cd22bd2ec39c319dfc7e76cc29173292d8882cee54c8490b95894",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

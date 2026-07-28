@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
+  "kind": "nom",
+  "designation": "NOM-030-STPS-2009",
+  "official_title": "Servicios preventivos de seguridad y salud en el trabajo-Funciones y actividades",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "servicios preventivos",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2009-12-22",
+  "effective_date": "2010-03-22",
+  "cancellation_date": null,
+  "status": "current",
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2025-02-20",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-030-STPS-2009_2025_ultima_revision.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/030stps2009.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5125949&fecha=22/12/2009",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-030-STPS-2009/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "4f11a0e9a41c242ee6e09ba8c5567c176a8c6a8cd3beb901e67a2d6bbfb5029e",
+  "extracted_text_sha256": "3e61369b697645a1c1f9197b9733484b57b964ae45384c139e7f403b03623e46",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

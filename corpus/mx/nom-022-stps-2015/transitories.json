@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a los seis meses siguientes a su\npublicación en el Diario Oficial de la Federación.",
+    "start_char": 86023,
+    "end_char": 86167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO. Durante el lapso señalado en el artículo anterior, los patrones cumplirán con la Norma Oficial\nMexicana NOM-022-STPS-2008, Electricidad estática en los centros de trabajo - Condiciones de seguridad, o\nbien realizarán las adaptaciones para observar las disposiciones de esta Norma Oficial Mexicana y, en este\núltimo caso, la autoridad laboral proporcionará, previa solicitud por escrito de parte de los patrones\ninteresados, asesoría y asistencia técnica en los términos que establece el Reglamento Federal de Inspección\nFederal del Trabajo y Aplicación de Sanciones, a efecto de instrumentar su cumplimiento, sin que los patrones\nse hagan acreedores a sanciones por el incumplimiento de la Norma en vigor.",
+    "start_char": 86172,
+    "end_char": 86886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-022-stps-2015:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-022-stps-2015",
+    "ordinal": "TERCERO",
+    "text": "TERCERO. A partir de la fecha en que entre en vigor la presente Norma quedará sin efectos la Norma\nOficial Mexicana NOM-022-STPS-2008, Electricidad estática en los centros de trabajo - Condiciones de\nseguridad, publicada en el Diario Oficial de la Federación el 7 de noviembre de 2008.",
+    "start_char": 86891,
+    "end_char": 87176,
+    "asserted_dates": [
+      "2008-11-07"
+    ]
+  }
+]

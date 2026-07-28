@@ -1,0 +1,1472 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n          Establecer los requisitos para disponer en los centros de trabajo del sistema armonizado de identificación y comunicación de\n      peligros y riesgos por sustancias químicas peligrosas, a fin de prevenir daños a los trabajadores y al personal que actúa en caso\n      de emergencia.",
+    "start_char": 6527,
+    "end_char": 6830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n         La presente Norma Oficial Mexicana rige en todo el territorio nacional y aplica a todos los centros de trabajo donde se manejen\n      sustancias químicas peligrosas.\n         No aplica a productos terminados tales como: farmacéuticos, aditivos alimenticios, artículos cosméticos, residuos de\n      plaguicidas en los alimentos y residuos peligrosos.",
+    "start_char": 6841,
+    "end_char": 7222
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n        Para la correcta interpretación de esta Norma, deberán consultarse las siguientes normas oficiales mexicanas y la Norma\n      Mexicana vigentes, o las que las sustituyan:",
+    "start_char": 7233,
+    "end_char": 7426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "3.1",
+    "label": "3.1 NOM-010-STPS-2014, Agentes químicos contaminantes del ambiente laboral-Reconocimiento, evaluación y control.",
+    "text": "3.1 NOM-010-STPS-2014, Agentes químicos contaminantes del ambiente laboral-Reconocimiento, evaluación y control.",
+    "start_char": 7437,
+    "end_char": 7549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "3.2",
+    "label": "3.2 NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos conducidos en",
+    "text": "3.2 NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos conducidos en\n      tuberías.",
+    "start_char": 7559,
+    "end_char": 7693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "3.3",
+    "label": "3.3 NMX-R-019-SCFI-2011, Sistema armonizado de clasificación y comunicación de peligros de los productos químicos.",
+    "text": "3.3 NMX-R-019-SCFI-2011, Sistema armonizado de clasificación y comunicación de peligros de los productos químicos.",
+    "start_char": 7704,
+    "end_char": 7818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n          Para los efectos de la presente Norma se establecen las definiciones siguientes:",
+    "start_char": 7829,
+    "end_char": 7935
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.1",
+    "label": "4.1 Aspiración: La entrada de una sustancia química peligrosa o mezcla de un líquido o sólido en la tráquea o en las vías",
+    "text": "4.1 Aspiración: La entrada de una sustancia química peligrosa o mezcla de un líquido o sólido en la tráquea o en las vías\n      respiratorias inferiores directamente por vía oral o nasal, o indirectamente por regurgitación (broncoaspiración).",
+    "start_char": 7945,
+    "end_char": 8187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.2",
+    "label": "4.2 Autoridad del trabajo; autoridad laboral: Las unidades administrativas competentes de la Secretaría del Trabajo y",
+    "text": "4.2 Autoridad del trabajo; autoridad laboral: Las unidades administrativas competentes de la Secretaría del Trabajo y\n      Previsión Social que realizan funciones de promoción, normalización, vigilancia e inspección en materia de seguridad y salud en\n      el trabajo, y las correspondientes a las entidades federativas y del Distrito Federal, que actúen en auxilio de aquéllas.",
+    "start_char": 8199,
+    "end_char": 8578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.3",
+    "label": "4.3 Bioacumulación: El resultado neto de la absorción, transformación y eliminación de una sustancia por un organismo a",
+    "text": "4.3 Bioacumulación: El resultado neto de la absorción, transformación y eliminación de una sustancia por un organismo a\n      través de todas las vías de exposición, es decir, aire, agua, sedimento/suelo y alimentación.",
+    "start_char": 8589,
+    "end_char": 8808
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.4",
+    "label": "4.4 Bioconcentración: Es el resultado neto de la absorción, transformación y eliminación de una sustancia por un organismo",
+    "text": "4.4 Bioconcentración: Es el resultado neto de la absorción, transformación y eliminación de una sustancia por un organismo\n      debida a la exposición a través del agua.",
+    "start_char": 8819,
+    "end_char": 8989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.5",
+    "label": "4.5 Carcinógeno o cancerígeno: Producto químico capaz de alterar el material genético, sus sistemas enzimáticos de",
+    "text": "4.5 Carcinógeno o cancerígeno: Producto químico capaz de alterar el material genético, sus sistemas enzimáticos de\n      reparación, los genes o los factores biomoleculares que controlan la división y proliferación celular. También se conoce como una\n      sustancia química peligrosa o mezcla de sustancias químicas que induce cáncer o aumenta su incidencia.",
+    "start_char": 8999,
+    "end_char": 9358
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.6",
+    "label": "4.6 Categoría de peligro: El desglose de criterios en cada clase de peligros. Por ejemplo, existen cinco categorías de peligro",
+    "text": "4.6 Categoría de peligro: El desglose de criterios en cada clase de peligros. Por ejemplo, existen cinco categorías de peligro\n      en la toxicidad aguda por vía oral y cuatro categorías en los líquidos inflamables. Esas categorías permiten comparar la gravedad\n      de los peligros dentro de una misma clase y no deberán utilizarse para comparar las categorías de peligros entre sí de un modo\n      más general.",
+    "start_char": 9369,
+    "end_char": 9783
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.7",
+    "label": "4.7 Clase de peligro: La naturaleza del peligro físico, para la salud o al medio ambiente. Por ejemplo: sólido inflamable,",
+    "text": "4.7 Clase de peligro: La naturaleza del peligro físico, para la salud o al medio ambiente. Por ejemplo: sólido inflamable,\n      cancerígeno y toxicidad aguda por vía oral.",
+    "start_char": 9793,
+    "end_char": 9965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.8",
+    "label": "4.8 Comunicación de peligros: Es la transmisión clara, veraz y sencilla a los trabajadores, de la información (gráfica y",
+    "text": "4.8 Comunicación de peligros: Es la transmisión clara, veraz y sencilla a los trabajadores, de la información (gráfica y\n      escrita) actualizada de una sustancia o mezcla, por medio de la señalización y/u hoja de datos de seguridad, que incluye las\n      características físicas, químicas y de toxicidad; las medidas preventivas para su uso y manejo, mismas que se deben tomar en\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015&print=true                                                         2/48\n\f28/10/25, 13:05                                                    DOF - Diario Oficial de la Federación\n      cuenta, a fin de prever cualquier afectación o daño a los trabajadores o centro de trabajo, así como de las medidas de atención en\n      caso de emergencia.",
+    "start_char": 9975,
+    "end_char": 10771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.9",
+    "label": "4.9 Consejos de prudencia; consejos de precaución: Aquella frase o pictograma o ambas cosas a la vez, que describen las",
+    "text": "4.9 Consejos de prudencia; consejos de precaución: Aquella frase o pictograma o ambas cosas a la vez, que describen las\n      medidas recomendadas que se deberían adoptar para reducir al mínimo o prevenir los efectos nocivos de la exposición de los\n      trabajadores a una sustancia química peligrosa o mezcla, debido al manejo o almacenamiento incorrecto.",
+    "start_char": 10782,
+    "end_char": 11139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.10",
+    "label": "4.10 Contratista: El patrón o trabajador ajeno al centro de trabajo que labora temporalmente en éste, y que está involucrado",
+    "text": "4.10 Contratista: El patrón o trabajador ajeno al centro de trabajo que labora temporalmente en éste, y que está involucrado\n      directa o indirectamente con el proceso, y que con motivo de su trabajo puede agregar o incrementar factores de riesgo.",
+    "start_char": 11150,
+    "end_char": 11400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.11",
+    "label": "4.11 Control Banding: Es una técnica que se utiliza en la evaluación y administración de riesgos laborales, y que propone",
+    "text": "4.11 Control Banding: Es una técnica que se utiliza en la evaluación y administración de riesgos laborales, y que propone\n      medidas de control para proteger a los trabajadores, centrado en las categorías de peligro y exposición potencial. Dichos\n      controles pueden ser la ventilación general o por dilución, los controles de ingeniería o el aislamiento, entre otros.",
+    "start_char": 11410,
+    "end_char": 11784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.12",
+    "label": "4.12 Corrosión cutánea o corrosión de la piel: Se refiere a la formación de una lesión irreversible de la piel como",
+    "text": "4.12 Corrosión cutánea o corrosión de la piel: Se refiere a la formación de una lesión irreversible de la piel como\n      consecuencia de la aplicación de una sustancia química peligrosa o mezcla.",
+    "start_char": 11794,
+    "end_char": 11990
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.13",
+    "label": "4.13 Degradación primaria: La disminución o desgaste de la sustancia química o mezcla en la cual ocurre un cambio",
+    "text": "4.13 Degradación primaria: La disminución o desgaste de la sustancia química o mezcla en la cual ocurre un cambio\n      estructural en el compuesto primario, resultando en una biodegradabilidad mejorada.",
+    "start_char": 12001,
+    "end_char": 12204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.14",
+    "label": "4.14 Densidad: La relación de masa por unidad de volumen de una sustancia dada.",
+    "text": "4.14 Densidad: La relación de masa por unidad de volumen de una sustancia dada.",
+    "start_char": 12215,
+    "end_char": 12294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.15",
+    "label": "4.15 Etiqueta: El conjunto de elementos escritos y gráficos, relativos a la información de una sustancia química peligrosa o",
+    "text": "4.15 Etiqueta: El conjunto de elementos escritos y gráficos, relativos a la información de una sustancia química peligrosa o\n      mezcla, la cual puede estar marcada, impresa, pintada o adherida en los contenedores o envases móviles de dichas sustancias\n      químicas.",
+    "start_char": 12304,
+    "end_char": 12574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.16",
+    "label": "4.16 Explosivo: Aquella sustancia química peligrosa o mezcla en estado sólido o líquido, que de manera espontánea o por",
+    "text": "4.16 Explosivo: Aquella sustancia química peligrosa o mezcla en estado sólido o líquido, que de manera espontánea o por\n      reacción química, puede desprender gases a una temperatura, presión y velocidad tales que pueden ocasionar daños a su\n      entorno. Quedan comprendidas las sustancias pirotécnicas.",
+    "start_char": 12584,
+    "end_char": 12891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.17",
+    "label": "4.17 Hoja de Datos de Seguridad, HDS: La información sobre las características intrínsecas y propiedades de las sustancias",
+    "text": "4.17 Hoja de Datos de Seguridad, HDS: La información sobre las características intrínsecas y propiedades de las sustancias\n      químicas o mezclas, así como de las condiciones de seguridad e higiene necesarias, que sirve como base para el desarrollo de\n      programas de comunicación de peligros y riesgos en el centro de trabajo.",
+    "start_char": 12901,
+    "end_char": 13233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.18",
+    "label": "4.18 Identidad química: El nombre con el que se designa una sustancia química peligrosa o mezcla. Puede ser el nombre",
+    "text": "4.18 Identidad química: El nombre con el que se designa una sustancia química peligrosa o mezcla. Puede ser el nombre\n      que figure en los sistemas de nomenclatura de la Unión Internacional de Química Pura y Aplicada, IUPAC por sus siglas en inglés,\n      o el Chemical Abstracts Service, CAS, o un nombre técnico.",
+    "start_char": 13244,
+    "end_char": 13561
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.19",
+    "label": "4.19 Identificación: La representación gráfica que proporciona información de seguridad y salud, que figura en la señalización",
+    "text": "4.19 Identificación: La representación gráfica que proporciona información de seguridad y salud, que figura en la señalización\n      o en la Hoja de Datos de Seguridad, HDS, y contiene el nombre de la sustancia química peligrosa o mezcla, el color de seguridad,\n      la forma geométrica de la señal, la clase de peligro y la categoría de peligro, así como la simbología del equipo de protección\n      personal que se deberá usar, a fin de permitir su conocimiento en el marco de la utilización. Por ejemplo: en el transporte, el\n      consumo o el centro de trabajo.",
+    "start_char": 13572,
+    "end_char": 14139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.20",
+    "label": "4.20 Identificación de la sustancia: El nombre o el número que figura en la etiqueta o en la Hoja de Datos de Seguridad,",
+    "text": "4.20 Identificación de la sustancia: El nombre o el número que figura en la etiqueta o en la Hoja de Datos de Seguridad,\n      HDS, de una sustancia química peligrosa o mezcla y que permite identificarla durante su\n      manejo. Por ejemplo: en el transporte, el consumo o el centro de trabajo.",
+    "start_char": 14148,
+    "end_char": 14442
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.21",
+    "label": "4.21 Incompatibilidad: Aquellas sustancias de elevada afinidad cuya mezcla provoca reacciones violentas, tanto por",
+    "text": "4.21 Incompatibilidad: Aquellas sustancias de elevada afinidad cuya mezcla provoca reacciones violentas, tanto por\n      calentamiento, como por emisiones de gases inflamables o tóxicos.",
+    "start_char": 14453,
+    "end_char": 14639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.22",
+    "label": "4.22 Indicación de peligro: Aquella frase que, asignada a una clase o categoría de peligro, describe la naturaleza del peligro",
+    "text": "4.22 Indicación de peligro: Aquella frase que, asignada a una clase o categoría de peligro, describe la naturaleza del peligro\n      que presenta una sustancia o mezcla y, cuando corresponda, el grado de peligro.",
+    "start_char": 14649,
+    "end_char": 14861
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-23",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.23",
+    "label": "4.23 Irritación cutánea: La formación de una lesión reversible de la piel como consecuencia del contacto con una sustancia.",
+    "text": "4.23 Irritación cutánea: La formación de una lesión reversible de la piel como consecuencia del contacto con una sustancia.",
+    "start_char": 14872,
+    "end_char": 14995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.24",
+    "label": "4.24 Irritación ocular: La aparición de lesiones oculares como consecuencia de la exposición a una sustancia de prueba en la",
+    "text": "4.24 Irritación ocular: La aparición de lesiones oculares como consecuencia de la exposición a una sustancia de prueba en la\n      superficie anterior del ojo, y que son totalmente reversibles en los veintiún días siguientes a la exposición.",
+    "start_char": 15005,
+    "end_char": 15246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-25",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.25",
+    "label": "4.25 Lesión ocular grave: Una lesión de los tejidos oculares o una degradación severa de la vista, como consecuencia de la",
+    "text": "4.25 Lesión ocular grave: Una lesión de los tejidos oculares o una degradación severa de la vista, como consecuencia de la\n      exposición de una sustancia de prueba en la superficie anterior del ojo, y que no son totalmente reversibles en los veintiún días\n      siguientes a la exposición.",
+    "start_char": 15257,
+    "end_char": 15549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-26",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.26",
+    "label": "4.26 Límite inferior de inflamabilidad; explosividad inferior: La concentración mínima de cualquier vapor o gas (% por",
+    "text": "4.26 Límite inferior de inflamabilidad; explosividad inferior: La concentración mínima de cualquier vapor o gas (% por\n      volumen de aire), que se inflama o explota si hay una fuente de ignición presente a la temperatura ambiente.",
+    "start_char": 15560,
+    "end_char": 15793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-27",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.27",
+    "label": "4.27 Límite superior de inflamabilidad; explosividad superior: La concentración máxima de cualquier vapor o gas (% por",
+    "text": "4.27 Límite superior de inflamabilidad; explosividad superior: La concentración máxima de cualquier vapor o gas (% por\n      volumen de aire), que se inflama o explota si hay una fuente de ignición presente a la temperatura ambiente.",
+    "start_char": 15804,
+    "end_char": 16037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-28",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.28",
+    "label": "4.28 Manejo: El uso, traslado, trasvase, almacenamiento o proceso de una sustancia química peligrosa o mezcla en el centro",
+    "text": "4.28 Manejo: El uso, traslado, trasvase, almacenamiento o proceso de una sustancia química peligrosa o mezcla en el centro\n      de trabajo.",
+    "start_char": 16048,
+    "end_char": 16188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-29",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.29",
+    "label": "4.29 Mezcla: La unión heterogénea o disolución compuesta por dos o más sustancias que no reaccionan entre ellas.",
+    "text": "4.29 Mezcla: La unión heterogénea o disolución compuesta por dos o más sustancias que no reaccionan entre ellas.",
+    "start_char": 16199,
+    "end_char": 16311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-30",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.30",
+    "label": "4.30 Mineralización: La transformación de la materia orgánica a través de un proceso, que conduce a formación de sales",
+    "text": "4.30 Mineralización: La transformación de la materia orgánica a través de un proceso, que conduce a formación de sales\n      minerales.",
+    "start_char": 16321,
+    "end_char": 16456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-31",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.31",
+    "label": "4.31 Movilidad en el suelo: El potencial de una sustancia química peligrosa o de los componentes de una mezcla, para",
+    "text": "4.31 Movilidad en el suelo: El potencial de una sustancia química peligrosa o de los componentes de una mezcla, para\n      desplazarse por efecto de fuerzas naturales, cuando se liberan en el medio ambiente, a las aguas subterráneas o a una cierta\n      distancia del lugar del derrame.\n\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015&print=true                                                         3/48\n\f28/10/25, 13:05                                                    DOF - Diario Oficial de la Federación",
+    "start_char": 16467,
+    "end_char": 17005
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-32",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.32",
+    "label": "4.32 Mutagenicidad: La mutación en células en los organismos o en ambos y que son capaces de provocar cambios físicos o",
+    "text": "4.32 Mutagenicidad: La mutación en células en los organismos o en ambos y que son capaces de provocar cambios físicos o\n      funcionales en generaciones subsecuentes.",
+    "start_char": 17015,
+    "end_char": 17182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-33",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.33",
+    "label": "4.33 Nombre técnico: La designación de la sustancia química peligrosa o mezcla, distinta al nombre IUPAC o CAS,",
+    "text": "4.33 Nombre técnico: La designación de la sustancia química peligrosa o mezcla, distinta al nombre IUPAC o CAS,\n      generalmente empleado en el comercio, en los reglamentos o en los códigos para identificar una sustancia química peligrosa o\n      mezcla y que está reconocido por la comunidad científica. Los nombres de mezclas complejas (fracciones del petróleo o\n      productos naturales), de los plaguicidas (sistemas ISO o ANSI), de los colorantes (Colour Index) y de los minerales son ejemplos\n      de nombres técnicos.",
+    "start_char": 17192,
+    "end_char": 17720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-34",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.34",
+    "label": "4.34 Órgano blanco: La parte del cuerpo en la que una sustancia química peligrosa o mezcla origina efectos adversos. Puede",
+    "text": "4.34 Órgano blanco: La parte del cuerpo en la que una sustancia química peligrosa o mezcla origina efectos adversos. Puede\n      ser un órgano íntegro, un tejido, una célula o tan solo un componente subcelular.",
+    "start_char": 17731,
+    "end_char": 17941
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-35",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.35",
+    "label": "4.35 Palabra de advertencia: El vocablo \"Peligro\" y \"Atención\" que indique la gravedad o el grado relativo del peligro que",
+    "text": "4.35 Palabra de advertencia: El vocablo \"Peligro\" y \"Atención\" que indique la gravedad o el grado relativo del peligro que\n      figura en la señalización para indicar al trabajador la existencia de un peligro potencial.",
+    "start_char": 17952,
+    "end_char": 18172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-36",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.36",
+    "label": "4.36 Peligro: La capacidad intrínseca de las propiedades y características físicas, químicas o de toxicidad de una sustancia",
+    "text": "4.36 Peligro: La capacidad intrínseca de las propiedades y características físicas, químicas o de toxicidad de una sustancia\n      química peligrosa o mezcla para generar un daño al trabajador o en el centro de trabajo.",
+    "start_char": 18182,
+    "end_char": 18401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-37",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.37",
+    "label": "4.37 Persistencia y degradabilidad: El potencial de la sustancia o de los componentes de la mezcla para acumularse y",
+    "text": "4.37 Persistencia y degradabilidad: El potencial de la sustancia o de los componentes de la mezcla para acumularse y\n      degradarse en el medio ambiente, por biodegradación u otros procesos como oxidación o hidrólisis.",
+    "start_char": 18411,
+    "end_char": 18631
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-38",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.38",
+    "label": "4.38 Peso molecular: La masa de una sustancia expresada en g/mol.",
+    "text": "4.38 Peso molecular: La masa de una sustancia expresada en g/mol.",
+    "start_char": 18642,
+    "end_char": 18707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-39",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.39",
+    "label": "4.39 Pictograma: Aquella composición gráfica que contiene un símbolo en el interior de un rombo con un borde rojo o negro,",
+    "text": "4.39 Pictograma: Aquella composición gráfica que contiene un símbolo en el interior de un rombo con un borde rojo o negro,\n      un color blanco de fondo, y que sirve para comunicar informaciones específicas de peligro de una sustancia o mezcla.",
+    "start_char": 18717,
+    "end_char": 18962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-40",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.40",
+    "label": "4.40 Potencial de hidrógeno, pH: La concentración de iones hidronio, que representa la acidez o alcalinidad de una",
+    "text": "4.40 Potencial de hidrógeno, pH: La concentración de iones hidronio, que representa la acidez o alcalinidad de una\n      sustancia, dentro de una escala del 0 al 14.",
+    "start_char": 18972,
+    "end_char": 19137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-41",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.41",
+    "label": "4.41 Presión de vapor: La presión ejercida por un vapor saturado sobre su propio líquido en un recipiente",
+    "text": "4.41 Presión de vapor: La presión ejercida por un vapor saturado sobre su propio líquido en un recipiente\n      cerrado, a 101.3 kPa y a 21 °C.",
+    "start_char": 19148,
+    "end_char": 19291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-42",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.42",
+    "label": "4.42 Proveedor: La persona física o moral que produce, procesa, distribuye, comercializa, importa o exporta la sustancia",
+    "text": "4.42 Proveedor: La persona física o moral que produce, procesa, distribuye, comercializa, importa o exporta la sustancia\n      química peligrosa (elemento, compuesto, mezcla o aleación).",
+    "start_char": 19301,
+    "end_char": 19487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-43",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.43",
+    "label": "4.43 Punto de fusión: La temperatura a la cual una sustancia sólida cambia de estado y se convierte en líquida.",
+    "text": "4.43 Punto de fusión: La temperatura a la cual una sustancia sólida cambia de estado y se convierte en líquida.",
+    "start_char": 19498,
+    "end_char": 19609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-44",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.44",
+    "label": "4.44 Punto de inflamación: La temperatura mínima, corregida a la presión de referencia de 101.3 kPa, en la que los vapores",
+    "text": "4.44 Punto de inflamación: La temperatura mínima, corregida a la presión de referencia de 101.3 kPa, en la que los vapores\n      de un líquido se inflaman cuando se exponen a una fuente de ignición en unas condiciones determinadas de prueba.",
+    "start_char": 19619,
+    "end_char": 19860
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-45",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.45",
+    "label": "4.45 Punto inicial de ebullición: La temperatura a la que la presión de vapor de un líquido es igual a la presión atmosférica",
+    "text": "4.45 Punto inicial de ebullición: La temperatura a la que la presión de vapor de un líquido es igual a la presión atmosférica\n      de referencia (101.3 kPa), es decir, la temperatura a la que aparecen las primeras burbujas de vapor en el líquido.",
+    "start_char": 19871,
+    "end_char": 20118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-46",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.46",
+    "label": "4.46 Reactividad; inestabilidad: La posibilidad que tiene una sustancia química peligrosa para liberar energía.",
+    "text": "4.46 Reactividad; inestabilidad: La posibilidad que tiene una sustancia química peligrosa para liberar energía.",
+    "start_char": 20129,
+    "end_char": 20240
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-47",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.47",
+    "label": "4.47 Riesgo: La probabilidad de que los efectos nocivos de una sustancia química peligrosa o mezcla por una exposición",
+    "text": "4.47 Riesgo: La probabilidad de que los efectos nocivos de una sustancia química peligrosa o mezcla por una exposición\n      crónica o aguda de los trabajadores altere su salud o, por su capacidad de arder, explotar, corroer, entre otras, dañe el centro de\n      trabajo.\n          Riesgo = Peligro x Exposición.",
+    "start_char": 20251,
+    "end_char": 20563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-48",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.48",
+    "label": "4.48 Secretaría: La Secretaría del Trabajo y Previsión Social.",
+    "text": "4.48 Secretaría: La Secretaría del Trabajo y Previsión Social.",
+    "start_char": 20574,
+    "end_char": 20636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-49",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.49",
+    "label": "4.49 Sensibilizante cutáneo; sensibilizante de contacto: Una sustancia química peligrosa que induce una respuesta",
+    "text": "4.49 Sensibilizante cutáneo; sensibilizante de contacto: Una sustancia química peligrosa que induce una respuesta\n      alérgica por contacto con la piel. La definición de sensibilizante cutáneo es análoga a la de sensibilizante de contacto.",
+    "start_char": 20647,
+    "end_char": 20888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-50",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.50",
+    "label": "4.50 Señalización: El conjunto de elementos escritos y gráficos, relativos a la información de una sustancia química peligrosa",
+    "text": "4.50 Señalización: El conjunto de elementos escritos y gráficos, relativos a la información de una sustancia química peligrosa\n      o mezcla, la cual puede estar marcada, impresa, pintada o adherida en el depósito, recipiente, anaquel o área de almacenamiento\n      de dicha sustancia química.",
+    "start_char": 20898,
+    "end_char": 21192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-51",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.51",
+    "label": "4.51 Símbolo: El elemento gráfico que sirve para proporcionar información de manera concisa.",
+    "text": "4.51 Símbolo: El elemento gráfico que sirve para proporcionar información de manera concisa.",
+    "start_char": 21203,
+    "end_char": 21295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-52",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.52",
+    "label": "4.52 Sustancia: Aquel elemento químico y sus compuestos en estado natural u obtenidos mediante cualquier proceso de",
+    "text": "4.52 Sustancia: Aquel elemento químico y sus compuestos en estado natural u obtenidos mediante cualquier proceso de\n      producción, incluidos los aditivos necesarios para conservar su estabilidad y las impurezas que resulten del proceso utilizado, y\n      excluidos los disolventes que puedan separarse sin afectar a la estabilidad de la sustancia ni modificar su composición.",
+    "start_char": 21305,
+    "end_char": 21683
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-53",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.53",
+    "label": "4.53 Sustancia pirotécnica: Aquella destinada a producir un efecto calórico, luminoso, sonoro, gaseoso o fumígeno, o una",
+    "text": "4.53 Sustancia pirotécnica: Aquella destinada a producir un efecto calórico, luminoso, sonoro, gaseoso o fumígeno, o una\n      combinación de tales efectos, como consecuencia de reacciones químicas exotérmicas autosostenidas no detonantes.",
+    "start_char": 21693,
+    "end_char": 21932
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-54",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.54",
+    "label": "4.54 Sustancias químicas peligrosas o mezcla: Aquellas que por sus propiedades físicas, químicas y características",
+    "text": "4.54 Sustancias químicas peligrosas o mezcla: Aquellas que por sus propiedades físicas, químicas y características\n      toxicológicas presentan peligros físicos para las instalaciones, maquinaria y equipo, y para la salud de las personas que se\n      encuentre en el centro de trabajo.",
+    "start_char": 21943,
+    "end_char": 22229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-55",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.55",
+    "label": "4.55 Temperatura de ebullición: La temperatura a la que la presión de vapor de un líquido, es igual a la presión atmosférica.",
+    "text": "4.55 Temperatura de ebullición: La temperatura a la que la presión de vapor de un líquido, es igual a la presión atmosférica.",
+    "start_char": 22240,
+    "end_char": 22365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-57",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.57",
+    "label": "4.57 Toxicidad: La capacidad de una sustancia química peligrosa o mezcla para causar daño o efectos adversos biológicos a",
+    "text": "4.57 Toxicidad: La capacidad de una sustancia química peligrosa o mezcla para causar daño o efectos adversos biológicos a\n      la salud de un organismo vivo.",
+    "start_char": 22376,
+    "end_char": 22534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-58",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.58",
+    "label": "4.58 Vapor: La forma gaseosa de una sustancia o de una mezcla liberada a partir de su estado líquido o sólido.",
+    "text": "4.58 Vapor: La forma gaseosa de una sustancia o de una mezcla liberada a partir de su estado líquido o sólido.",
+    "start_char": 22545,
+    "end_char": 22655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:4-59",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "4.59",
+    "label": "4.59 Velocidad de evaporación: El cambio de estado por presión o temperatura, de una cantidad de sustancia líquida o",
+    "text": "4.59 Velocidad de evaporación: El cambio de estado por presión o temperatura, de una cantidad de sustancia líquida o\n      sólida a vapor en un determinado tiempo. El valor de esta velocidad tiene como base el de la sustancia de referencia.",
+    "start_char": 22666,
+    "end_char": 22906
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5",
+    "label": "5. Siglas o abreviaturas",
+    "text": "5. Siglas o abreviaturas\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015&print=true                                                          4/48\n\f28/10/25, 13:05                                                               DOF - Diario Oficial de la Federación",
+    "start_char": 22917,
+    "end_char": 23204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.1",
+    "label": "5.1 ADR: Acuerdo Europeo sobre Transporte Internacional de Mercancías Peligrosas por Carretera.",
+    "text": "5.1 ADR: Acuerdo Europeo sobre Transporte Internacional de Mercancías Peligrosas por Carretera.",
+    "start_char": 23215,
+    "end_char": 23310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.2",
+    "label": "5.2 CL50; Concentración letal media; concentración letal 50: La cantidad de una sustancia como gas, vapor, neblina o polvo en un volumen de aire, calculada",
+    "text": "5.2 CL50; Concentración letal media; concentración letal 50: La cantidad de una sustancia como gas, vapor, neblina o polvo en un volumen de aire, calculada\n      estadísticamente, a cuya exposición se espera que mueran el 50% de los animales de experimentación. Cuando se trata de vapores o gases, se expresa en ppm y\n      cuando son polvos o neblinas se expresa en mg/l o en mg/m ³.",
+    "start_char": 23321,
+    "end_char": 23705
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.3",
+    "label": "5.3 °C: Grados Celsius. Unidad de temperatura del sistema internacional.",
+    "text": "5.3 °C: Grados Celsius. Unidad de temperatura del sistema internacional.",
+    "start_char": 23718,
+    "end_char": 23790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.4",
+    "label": "5.4 CO2: Bióxido de carbono.",
+    "text": "5.4 CO2: Bióxido de carbono.",
+    "start_char": 23801,
+    "end_char": 23829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.5",
+    "label": "5.5 DL50; Dosis Letal media; dosis letal 50: Es la cantidad de una sustancia (miligramos o gramos por kilogramo corporal del sujeto de prueba) obtenida",
+    "text": "5.5 DL50; Dosis Letal media; dosis letal 50: Es la cantidad de una sustancia (miligramos o gramos por kilogramo corporal del sujeto de prueba) obtenida\n      estadísticamente, y que administrada por vía oral o dérmica, provoca la muerte al 50% de un grupo de animales de experimentación.",
+    "start_char": 23840,
+    "end_char": 24127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.6",
+    "label": "5.6 °F: Grados Fahrenheit. Unidad de temperatura del sistema inglés.",
+    "text": "5.6 °F: Grados Fahrenheit. Unidad de temperatura del sistema inglés.",
+    "start_char": 24139,
+    "end_char": 24207
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.7",
+    "label": "5.7 HDS: Hojas de datos de seguridad.",
+    "text": "5.7 HDS: Hojas de datos de seguridad.",
+    "start_char": 24218,
+    "end_char": 24255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.8",
+    "label": "5.8 ICC: Información comercial confidencial.",
+    "text": "5.8 ICC: Información comercial confidencial.",
+    "start_char": 24266,
+    "end_char": 24310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.9",
+    "label": "5.9 IUPAC: La Unión Internacional de Química Pura y Aplicada.",
+    "text": "5.9 IUPAC: La Unión Internacional de Química Pura y Aplicada.",
+    "start_char": 24321,
+    "end_char": 24382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.10",
+    "label": "5.10 kPa: kilopascal. Unidad de presión.",
+    "text": "5.10 kPa: kilopascal. Unidad de presión.",
+    "start_char": 24393,
+    "end_char": 24433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.11",
+    "label": "5.11 mg/l: Miligramo por litro. Unidad de concentración.",
+    "text": "5.11 mg/l: Miligramo por litro. Unidad de concentración.",
+    "start_char": 24444,
+    "end_char": 24500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.12",
+    "label": "5.12 mg/m ³: Miligramo por metro cúbico. Unidad de concentración.",
+    "text": "5.12 mg/m ³: Miligramo por metro cúbico. Unidad de concentración.",
+    "start_char": 24511,
+    "end_char": 24576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.13",
+    "label": "5.13 mg/kg: Miligramo por kilogramo. Unidad de concentración.",
+    "text": "5.13 mg/kg: Miligramo por kilogramo. Unidad de concentración.",
+    "start_char": 24588,
+    "end_char": 24649
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.14",
+    "label": "5.14 Número CAS: Número asignado a una sustancia química por el \"Chemical Abstract Service\" de los Estados Unidos de",
+    "text": "5.14 Número CAS: Número asignado a una sustancia química por el \"Chemical Abstract Service\" de los Estados Unidos de\n      Norteamérica.",
+    "start_char": 24659,
+    "end_char": 24795
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.15",
+    "label": "5.15 Número ONU: Número de identificación para el transporte de las sustancias químicas peligrosas asignado por la",
+    "text": "5.15 Número ONU: Número de identificación para el transporte de las sustancias químicas peligrosas asignado por la\n      Organización de las Naciones Unidas.",
+    "start_char": 24805,
+    "end_char": 24962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.16",
+    "label": "5.16 ppm: Partes por millón. Relación volumen/volumen.",
+    "text": "5.16 ppm: Partes por millón. Relación volumen/volumen.",
+    "start_char": 24973,
+    "end_char": 25027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.17",
+    "label": "5.17 RTECS: Registro de Efectos Tóxicos de Sustancias Químicas (Registry of Toxic Effects of Chemical Substances, por sus",
+    "text": "5.17 RTECS: Registro de Efectos Tóxicos de Sustancias Químicas (Registry of Toxic Effects of Chemical Substances, por sus\n      siglas en inglés).",
+    "start_char": 25038,
+    "end_char": 25184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.18",
+    "label": "5.18 SGA; GHS: El Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos, desarrollado por",
+    "text": "5.18 SGA; GHS: El Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos, desarrollado por\n      la Organización de las Naciones Unidas.",
+    "start_char": 25195,
+    "end_char": 25359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.19",
+    "label": "5.19 VLE-PPT: Valor Límite de Exposición Promedio Ponderado en el Tiempo.",
+    "text": "5.19 VLE-PPT: Valor Límite de Exposición Promedio Ponderado en el Tiempo.",
+    "start_char": 25370,
+    "end_char": 25443
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.20",
+    "label": "5.20 VLE-CT: Valor Límite de Exposición de Corto Tiempo.",
+    "text": "5.20 VLE-CT: Valor Límite de Exposición de Corto Tiempo.",
+    "start_char": 25454,
+    "end_char": 25510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:5-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "5.21",
+    "label": "5.21 VLE-P: Valor Límite de Exposición Pico.",
+    "text": "5.21 VLE-P: Valor Límite de Exposición Pico.",
+    "start_char": 25521,
+    "end_char": 25565
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "6",
+    "label": "6. Obligaciones del patrón",
+    "text": "6. Obligaciones del patrón",
+    "start_char": 25576,
+    "end_char": 25602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "6.1",
+    "label": "6.1 Contar con el sistema armonizado de identificación y comunicación de peligros y riesgos por sustancias químicas",
+    "text": "6.1 Contar con el sistema armonizado de identificación y comunicación de peligros y riesgos por sustancias químicas\n      peligrosas y mezclas, de acuerdo con lo que dispone el Capítulo 8, de esta Norma.",
+    "start_char": 25613,
+    "end_char": 25816
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "6.2",
+    "label": "6.2 Implementar en el centro de trabajo, el sistema armonizado de identificación y comunicación de peligros y riesgos por",
+    "text": "6.2 Implementar en el centro de trabajo, el sistema armonizado de identificación y comunicación de peligros y riesgos por\n      sustancias químicas peligrosas y mezclas.",
+    "start_char": 25826,
+    "end_char": 25995
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "6.3",
+    "label": "6.3 Contar con las hojas de datos de seguridad de todas las sustancias químicas peligrosas y mezclas que se manejen en el",
+    "text": "6.3 Contar con las hojas de datos de seguridad de todas las sustancias químicas peligrosas y mezclas que se manejen en el\n      centro de trabajo, de conformidad con lo que prevé el Capítulo 9, de la presente Norma.",
+    "start_char": 26005,
+    "end_char": 26220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "6.4",
+    "label": "6.4 Poner a disposición permanentemente de los trabajadores, para su consulta, las hojas de datos de seguridad en las áreas",
+    "text": "6.4 Poner a disposición permanentemente de los trabajadores, para su consulta, las hojas de datos de seguridad en las áreas\n      donde se manejen sustancias químicas peligrosas y mezclas.",
+    "start_char": 26230,
+    "end_char": 26418
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "6.5",
+    "label": "6.5 Señalizar los depósitos, recipientes, anaqueles o áreas de almacenamiento que contengan sustancias químicas peligrosas",
+    "text": "6.5 Señalizar los depósitos, recipientes, anaqueles o áreas de almacenamiento que contengan sustancias químicas peligrosas\n      y mezclas, con base en lo determinado en el Capítulo 10, de esta Norma.",
+    "start_char": 26428,
+    "end_char": 26628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:6-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "6.6",
+    "label": "6.6 Informar a todos los trabajadores y contratistas que manejan sustancias químicas peligrosas y mezclas, sobre los",
+    "text": "6.6 Informar a todos los trabajadores y contratistas que manejan sustancias químicas peligrosas y mezclas, sobre los\n      elementos de la hoja de datos de seguridad y de la señalización, incluidos aquellos trabajadores que tenga algún tipo de\n      actuación en caso de emergencia.",
+    "start_char": 26638,
+    "end_char": 26920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:6-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "6.7",
+    "label": "6.7 Capacitar y adiestrar a los trabajadores del centro de trabajo que manejan sustancias químicas peligrosas y mezclas,",
+    "text": "6.7 Capacitar y adiestrar a los trabajadores del centro de trabajo que manejan sustancias químicas peligrosas y mezclas,\n      sobre el contenido de las hojas de datos de seguridad y de la señalización, conforme a lo que señala el Capítulo 11, de la\n      presente Norma.",
+    "start_char": 26930,
+    "end_char": 27201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:6-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "6.8",
+    "label": "6.8 Entregar a sus clientes las hojas de datos de seguridad de las sustancias químicas peligrosas y mezclas que",
+    "text": "6.8 Entregar a sus clientes las hojas de datos de seguridad de las sustancias químicas peligrosas y mezclas que\n      comercialicen.",
+    "start_char": 27211,
+    "end_char": 27343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:6-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "6.9",
+    "label": "6.9 Exhibir a la autoridad laboral los documentos que esta Norma le obligue a elaborar y poseer, cuando aquélla así lo",
+    "text": "6.9 Exhibir a la autoridad laboral los documentos que esta Norma le obligue a elaborar y poseer, cuando aquélla así lo\n      requiera.",
+    "start_char": 27353,
+    "end_char": 27487
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "7",
+    "label": "7. Obligaciones de los trabajadores",
+    "text": "7. Obligaciones de los trabajadores",
+    "start_char": 27500,
+    "end_char": 27535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "7.1",
+    "label": "7.1 Participar en la implementación del sistema armonizado de identificación y comunicación de peligros de las sustancias",
+    "text": "7.1 Participar en la implementación del sistema armonizado de identificación y comunicación de peligros de las sustancias\n      químicas peligrosas y mezclas en el centro de trabajo.",
+    "start_char": 27545,
+    "end_char": 27727
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "7.2",
+    "label": "7.2 Participar en la capacitación y adiestramiento proporcionada por el patrón.",
+    "text": "7.2 Participar en la capacitación y adiestramiento proporcionada por el patrón.\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015&print=true                                                                                      5/48\n\f28/10/25, 13:05                                                      DOF - Diario Oficial de la Federación",
+    "start_char": 27738,
+    "end_char": 28099
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "7.3",
+    "label": "7.3 Conocer el contenido y la información de las hojas de datos de seguridad y de la señalización de las sustancias químicas",
+    "text": "7.3 Conocer el contenido y la información de las hojas de datos de seguridad y de la señalización de las sustancias químicas\n      peligrosas y mezclas que manejen en el centro de trabajo.",
+    "start_char": 28110,
+    "end_char": 28298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "7.4",
+    "label": "7.4 Informar al patrón sobre la falta de las hojas de datos de seguridad, y de la señalización en los depósitos, recipientes y",
+    "text": "7.4 Informar al patrón sobre la falta de las hojas de datos de seguridad, y de la señalización en los depósitos, recipientes y\n      áreas de almacenamiento, de las sustancias químicas peligrosas y mezclas que se manejen en el centro de trabajo.",
+    "start_char": 28308,
+    "end_char": 28553
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "8",
+    "label": "8. Sistema armonizado de identificación y comunicación de peligros y riesgos",
+    "text": "8. Sistema armonizado de identificación y comunicación de peligros y riesgos",
+    "start_char": 28564,
+    "end_char": 28640
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "8.1",
+    "label": "8.1 El sistema armonizado de identificación y comunicación de peligros y riesgos de las sustancias químicas peligrosas y",
+    "text": "8.1 El sistema armonizado de identificación y comunicación de peligros y riesgos de las sustancias químicas peligrosas y\n      mezclas que se manejan en el centro de trabajo, deberá incluir lo siguiente:\n          a)      El listado actualizado de las sustancias químicas peligrosas y mezclas, en su caso, que contenga al menos:\n                  1)   El nombre de la sustancia química peligrosa o mezcla;\n                  2)   El número CAS para la sustancia y para las mezclas el número CAS de los componentes, y\n                  3)      La clasificación de sus peligros físicos y para la salud, específicos, relacionados con sus correspondientes\n                        divisiones o categorías.\n          b)      Las hojas de datos de seguridad de las sustancias químicas peligrosas y mezclas;\n          c)      La señalización o el etiquetado, y\n          d)      La capacitación y adiestramiento proporcionado a los trabajadores sobre el contenido de las hojas de datos de seguridad\n                  y de la señalización.",
+    "start_char": 28649,
+    "end_char": 29678
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "8.2",
+    "label": "8.2 El sistema armonizado de identificación y comunicación de peligros de las sustancias químicas peligrosas y mezclas que",
+    "text": "8.2 El sistema armonizado de identificación y comunicación de peligros de las sustancias químicas peligrosas y mezclas que\n      se manejan en el centro de trabajo, se deberá actualizar cuando:\n          a)      Se sustituyan o adicionen sustancias químicas peligrosas y mezclas que se manejan en el centro de trabajo, o\n          b)      Se cuente con información actualizada de los peligros y riesgos de las sustancias químicas peligrosas y mezclas.",
+    "start_char": 29688,
+    "end_char": 30139
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "9",
+    "label": "9. Hojas de datos de seguridad, HDS",
+    "text": "9. Hojas de datos de seguridad, HDS",
+    "start_char": 30150,
+    "end_char": 30185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "9.1",
+    "label": "9.1 La hoja de datos de seguridad, HDS, deberá:",
+    "text": "9.1 La hoja de datos de seguridad, HDS, deberá:\n          a)      Desarrollarse en formato libre;\n          b)      Elaborarse o tenerse en idioma español;\n          c)      Contener las secciones del numeral 9.2, de esta Norma.\n                  Las secciones, de la 12 a la 15, referidas en los incisos del l) al o); por contener información ecotoxicológica, eliminación\n                  de productos, del transporte y reglamentaria del ambiente, estarán de acuerdo con lo establecido por la Autoridad\n                  competente;\n          d)      Incluir las sustancias químicas peligrosas o componentes de la mezcla que tengan una concentración igual o mayor a los\n                   valores límite de composición en la mezcla para cada clase de peligro para la salud, conforme a lo que determina la\n                   Tabla 1, de acuerdo con la sección 3, del numeral 9.2, inciso c), de la presente Norma;\n                                                                         Tabla 1\n                              Valores límite de composición en la mezcla para cada clase de peligro para la salud\n                          Clase de peligro para la salud                       Cantidad de la sustancia que compone la\n                                                                                              mezcla (%)\n\n         Toxicidad aguda                                                                            > 1.0\n         Corrosión/irritación cutánea                                                               > 1.0\n         Lesiones oculares graves/irritación de los ojos                                            > 1.0\n         Sensibilización respiratoria/cutánea                                                       > 1.0\n         Mutagenicidad: Categoría 1                                                                 > 0.1\n\n         Mutagenicidad: Categoría 2                                                                 > 1.0\n         Carcinogenicidad                                                                           > 0.1\n         Toxicidad para la reproducción                                                             > 0.1\n         Toxicidad específica de órganos blanco (exposición única)                                  > 1.0\n\n         Toxicidad específica de órganos blanco (exposición repetida)                               > 1.0\n\n\n\n          e)      Considerar el efecto aditivo a la salud de las sustancias químicas peligrosas, cuando se trate de mezclas;\n          f)      Coincidir con la información utilizada en la señalización;\n          g)       Contar con la información requerida en cada sección. Si no está disponible dicha información o no es aplicable, se\n                  anotarán las siglas ND o NA respectivamente, según sea el caso, con base en la fuente o fuentes de referencia que se\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015&print=true                                                                6/48\n\f28/10/25, 13:05                                                      DOF - Diario Oficial de la Federación\n                  utilizaron para su llenado, y\n          h)      Incluir las fechas de elaboración y de las siguientes revisiones.",
+    "start_char": 30196,
+    "end_char": 33456
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "9.2",
+    "label": "9.2 La hoja de datos de seguridad de la sustancia química peligrosa o mezcla, deberá contar con las secciones e información",
+    "text": "9.2 La hoja de datos de seguridad de la sustancia química peligrosa o mezcla, deberá contar con las secciones e información\n      siguientes:\n          a)      SECCIÓN 1. Identificación de la sustancia química peligrosa o mezcla y del proveedor o fabricante:\n                  1)   Nombre de la sustancia química peligrosa o mezcla;\n                  2)   Otros medios de identificación;\n                  3)   Uso recomendado de la sustancia química peligrosa o mezcla, y restricciones de uso;\n                  4)   Datos del proveedor o fabricante, y\n                  5)   Número de teléfono en caso de emergencia.\n          b)      SECCIÓN 2. Identificación de los peligros:\n                  1)    Clasificación de la sustancia química peligrosa o mezcla, conforme a lo que señala el GHS. Ver Apéndice A,\n                        Elementos de Comunicación de Peligros Físicos y para la Salud y cualquier información nacional o regional;\n                  2)     Elementos de la señalización, incluidos los consejos de prudencia y pictogramas de precaución. Ver\n                        Apéndices A y B, y\n                  3)   Otros peligros que no contribuyen en la clasificación.\n          c)      SECCIÓN 3. Composición/información sobre los componentes:\n                  1)   Para sustancias\n                        i.     Identidad química de la sustancia;\n                        ii.    Nombre común, sinónimos de la sustancia química peligrosa o mezcla;\n                        iii.   Al menos el Número CAS, y número ONU, entre otros, y\n                        iv.    Impurezas y aditivos estabilizadores que estén a su vez clasificados y que contribuyan a la clasificación de la\n                               sustancia, y\n                  2)   Para mezclas\n                  La identidad química y la concentración o rangos de concentración de todos los componentes que sean peligrosos según\n                  los criterios de esta Norma y estén presentes en niveles superiores a sus valores límite de composición en la mezcla.\n                  En el caso de sustancias químicas peligrosas y mezclas consideradas como información comercial confidencial, deberá\n                  expresarlo como tal.\n          d)      SECCIÓN 4. Primeros auxilios:\n                  1)   Descripción de los primeros auxilios;\n\n                  2)   Síntomas y efectos más importantes, agudos y crónicos, y\n                  3)   Indicación de la necesidad de recibir atención médica inmediata y, en su caso, tratamiento especial.\n          e)      SECCIÓN 5. Medidas contra incendios:\n                  1)   Medios de extinción apropiados;\n                  2)   Peligros específicos de las sustancias químicas peligrosas o mezclas, y\n                  3)   Medidas especiales que deberán seguir los grupos de combate contra incendio.\n          f)      SECCIÓN 6. Medidas que deben tomarse en caso de derrame accidental o fuga accidental:\n                  1)   Precauciones personales, equipos de protección y procedimientos de emergencia;\n                  2)   Precauciones relativas al medio ambiente, y\n                  3)   Métodos y materiales para la contención y limpieza de derrames o fugas.\n          g)      SECCIÓN 7. Manejo y almacenamiento:\n                  1)   Precauciones que se deben tomar para garantizar un manejo seguro, y\n                  2)   Condiciones de almacenamiento seguro, incluida cualquier incompatibilidad.\n          h)      SECCIÓN 8. Controles de exposición/protección personal:\n                  1)   Parámetros de control;\n                  2)   Controles técnicos apropiados, y\n                  3)   Medidas de protección individual, como equipo de protección personal, EPP.\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015&print=true                                                               7/48\n\f28/10/25, 13:05                                                     DOF - Diario Oficial de la Federación\n          i)      SECCIÓN 9. Propiedades físicas y químicas:\n                  1)   Apariencia (estado físico, color, etc.);\n                  2)   Olor;\n                  3)   Umbral del olor;\n                  4)   Potencial de hidrógeno, pH;\n                  5)   Punto de fusión/punto de congelación;\n                  6)   Punto inicial e intervalo de ebullición;\n                  7)   Punto de inflamación;\n                  8)   Velocidad de evaporación;\n                  9)   Inflamabilidad (sólido/gas);\n                  10) Límite superior/inferior de inflamabilidad o explosividad;\n                  11) Presión de vapor;\n                  12) Densidad de vapor;\n                  13) Densidad relativa;\n                  14) Solubilidad(es);\n                  15) Coeficiente de partición n-octanol/agua;\n                  16) Temperatura de ignición espontánea;\n                  17) Temperatura de descomposición;\n                  18) Viscosidad;\n                  19) Peso molecular, y\n                  20) Otros datos relevantes.\n          j)      SECCIÓN 10. Estabilidad y reactividad:\n                  1)   Reactividad;\n\n\n                  2)   Estabilidad química;\n                  3)   Posibilidad de reacciones peligrosas;\n                  4)   Condiciones que deberán evitarse;\n                  5)   Materiales incompatibles, y\n                  6)   Productos de descomposición peligrosos.\n          k)      SECCIÓN 11. Información toxicológica:\n                  1)   Información sobre las vías probables de ingreso;\n                  2)   Síntomas relacionados con las características físicas, químicas y toxicológicas;\n                  3)   Efectos inmediatos y retardados, así como efectos crónicos producidos por una exposición a corto o largo plazo;\n                  4)   Medidas numéricas de toxicidad (tales como estimaciones de toxicidad aguda);\n                  5)   Efectos interactivos;\n                  6)   Cuando no se disponga de datos químicos específicos;\n                  7)   Mezclas;\n                  8)   Información sobre la mezcla o sobre sus componentes, y\n                  9)   Otra información.\n          l)      SECCIÓN 12. Información ecotoxicológica:\n                  1)   Toxicidad;\n                  2)   Persistencia y degradabilidad;\n                  3)   Potencial de bioacumulación;\n                  4)   Movilidad en el suelo, y\n                  5)   Otros efectos adversos.\n\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015&print=true                                                       8/48\n\f28/10/25, 13:05                                                     DOF - Diario Oficial de la Federación\n          m) SECCIÓN 13. Información relativa a la eliminación de los productos:\n                   Descripción de los residuos e información sobre la manera de manipularlos sin peligro y sus métodos de eliminación,\n                  incluida la eliminación de los recipientes contaminados.\n          n)      SECCIÓN 14. Información relativa al transporte:\n                  1)   Número ONU;\n                  2)   Designación oficial de transporte de las Naciones Unidas;\n                  3)   Clase(s) de peligros en el transporte;\n                  4)   Grupo de embalaje/envasado, si se aplica;\n                  5)   Riesgos ambientales;\n                  6)   Precauciones especiales para el usuario, y\n                  7)   Transporte a granel con arreglo al anexo II de MARPOL 73/78 y al Código CIQ (IBC por sus siglas en inglés).\n          o)      SECCIÓN 15. Información reglamentaria:\n                  Disposiciones específicas sobre seguridad, salud y medio ambiente para las sustancias químicas peligrosas o mezcla de\n                  que se trate.\n          p)      SECCIÓN 16. Otras informaciones incluidas las relativas a la preparación y actualización de las hojas de datos de\n                  seguridad:\n                   La hoja de datos de seguridad deberá tener la leyenda siguiente: La información se considera correcta, pero no es\n                  exhaustiva y se utilizará únicamente como orientación, la cual está basada en el conocimiento actual de la sustancia\n                  química o mezcla y es aplicable a las precauciones de seguridad apropiadas para el producto.",
+    "start_char": 33467,
+    "end_char": 41758
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "9.3",
+    "label": "9.3 La hoja de datos de seguridad de cada sustancia química peligrosa y mezcla deberá ser actualizada, cuando:",
+    "text": "9.3 La hoja de datos de seguridad de cada sustancia química peligrosa y mezcla deberá ser actualizada, cuando:\n\n          a)      Se cuente con información nueva que modifique la clasificación de la sustancia química peligrosa o mezcla, de acuerdo\n                  con lo señalado en el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos, GHS, y\n                  que resulte en un cambio de las medidas de seguridad, y\n          b)       Se publiquen nuevos datos o resultados de ensayos sobre los posibles efectos adversos de carácter crónico para la\n                  salud, aun cuando dichos datos no conlleven una modificación de la clasificación existente.",
+    "start_char": 41769,
+    "end_char": 42464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "10",
+    "label": "10. Señalización",
+    "text": "10. Señalización",
+    "start_char": 42475,
+    "end_char": 42491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "10.1",
+    "label": "10.1 La señalización se deberá ubicar en lugares visibles del contenedor, anaquel o área del centro de trabajo, de tal manera",
+    "text": "10.1 La señalización se deberá ubicar en lugares visibles del contenedor, anaquel o área del centro de trabajo, de tal manera\n      que siempre puedan ser observadas por los trabajadores o servicios de atención de emergencias.",
+    "start_char": 42501,
+    "end_char": 42727
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "10.2",
+    "label": "10.2 Los elementos de la señalización de la sustancia química peligrosa o mezcla deberán coincidir con la información",
+    "text": "10.2 Los elementos de la señalización de la sustancia química peligrosa o mezcla deberán coincidir con la información\n      utilizada en la hoja de datos de seguridad.",
+    "start_char": 42739,
+    "end_char": 42906
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "10.3",
+    "label": "10.3 La señalización deberá estar marcada, impresa, pintada, adherida o colocada al depósito, recipiente, anaquel o al área, y",
+    "text": "10.3 La señalización deberá estar marcada, impresa, pintada, adherida o colocada al depósito, recipiente, anaquel o al área, y\n      ser de material resistente e indeleble, que soporte las condiciones a las que deberá estar expuesta, para que no se altere la\n      información y los colores de la misma.",
+    "start_char": 42917,
+    "end_char": 43220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "10.4",
+    "label": "10.4 La señalización de sustancias químicas peligrosas y mezclas, deberá ubicarse de conformidad con los criterios",
+    "text": "10.4 La señalización de sustancias químicas peligrosas y mezclas, deberá ubicarse de conformidad con los criterios\n      siguientes:\n          a)      Para una misma sustancia química peligrosa y mezcla, en una estiba por:\n                  1)   Área, o\n                  2)   Recipiente;\n          b)      Para diferentes sustancias químicas peligrosas y mezclas compatibles, en un mismo anaquel o estiba, en:\n                  1)   Cada uno de los contenedores, o\n                  2)   Las partes del anaquel o área de la estiba, que contenga la misma sustancia química peligrosa y mezcla;\n          c)      En todos los contenedores con sustancias químicas peligrosas y mezclas, localizados en las áreas de proceso;\n          d)      En los contenedores en los que se trasladen sustancias químicas peligrosas y mezclas dentro del centro de trabajo, y\n          e)      En los contenedores móviles de grandes dimensiones (transporte terrestre, ferroviario o marítimo), cuando permanezca\n                  por más de 72 horas dentro del centro de trabajo, de tal manera que se complemente con la etiqueta utilizada en el\n                  transporte, cuando circula fuera del centro de trabajo.",
+    "start_char": 43231,
+    "end_char": 44427
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:10-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "10.5",
+    "label": "10.5 Los elementos que deberá integrar la señalización, son los siguientes:",
+    "text": "10.5 Los elementos que deberá integrar la señalización, son los siguientes:\n          a)      El nombre de la sustancia química peligrosa y mezcla;\n          b)       La palabra de advertencia conforme a lo determinado en el Apéndice A, de la presente Norma. Cuando se utilice la\n                  palabra \"Peligro\", no deberá aparecer la palabra \"Atención\";\n          c)       Los pictogramas o símbolos que apliquen, de acuerdo con la categoría de sus peligros físicos y para la salud, de la\n                  sustancia química peligrosa y mezcla, de conformidad con lo que señala el Apéndice B, de esta Norma. En los casos en\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015&print=true                                                         9/48\n\f28/10/25, 13:05                                                       DOF - Diario Oficial de la Federación\n                  que el peligro no tiene asociado un símbolo, solamente se colocarán las palabras de advertencia y la indicación de\n                  peligro; en ningún otro caso deberá haber pictogramas sin símbolo, y\n            d)    El Código de identificación de peligro H y su indicación de peligro físico y para la salud, con base en lo dispuesto en el",
+    "start_char": 44438,
+    "end_char": 45681
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:10-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "10.6",
+    "label": "10.6 No se deberá utilizar el signo de exclamación en la señalización de los peligros para la salud, cuando se utilice el símbolo",
+    "text": "10.6 No se deberá utilizar el signo de exclamación en la señalización de los peligros para la salud, cuando se utilice el símbolo\n      de:\n            a)    Calavera y tibias cruzadas;\n            b)    Corrosión para indicar los peligros de irritación cutánea u ocular, y\n            c)    Sensibilización respiratoria, aunque presente la sustancia química o mezcla peligro de sensibilización de la piel o irritación\n                  cutánea u ocular.",
+    "start_char": 46017,
+    "end_char": 46471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "11",
+    "label": "11. Capacitación y adiestramiento",
+    "text": "11. Capacitación y adiestramiento",
+    "start_char": 46484,
+    "end_char": 46517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "11.1",
+    "label": "11.1 La capacitación y adiestramiento se deberá proporcionar a todos los trabajadores involucrados en el manejo de",
+    "text": "11.1 La capacitación y adiestramiento se deberá proporcionar a todos los trabajadores involucrados en el manejo de\n      sustancias químicas peligrosas y mezclas; a los integrantes de la comisión de seguridad e higiene, y a aquellos trabajadores que\n      tenga algún tipo de actuación en caso de emergencia:\n            a)    Por lo menos una vez al año;\n            b)    Cada vez que se incluya una nueva sustancia química peligrosa y mezcla, y\n            c)    Cuando se actualice la hoja de datos de seguridad y la señalización.",
+    "start_char": 46528,
+    "end_char": 47062
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:11-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "11.2",
+    "label": "11.2 La capacitación y adiestramiento que se proporcione a todos los trabajadores involucrados en el manejo de sustancias",
+    "text": "11.2 La capacitación y adiestramiento que se proporcione a todos los trabajadores involucrados en el manejo de sustancias\n      químicas peligrosas y mezclas, e integrantes de la comisión de seguridad e higiene, deberá considerar al menos, los temas\n      siguientes:\n            a)    Las 16 secciones de la hoja de datos de seguridad referidos en el numeral 9.2 de la presente Norma, y\n            b)    Los elementos de la señalización establecidos en el numeral 10.5 de esta Norma.",
+    "start_char": 47073,
+    "end_char": 47558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:11-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "11.3",
+    "label": "11.3 Mantener el registro o evidencia de la capacitación proporcionada a los trabajadores involucrados en el manejo de",
+    "text": "11.3 Mantener el registro o evidencia de la capacitación proporcionada a los trabajadores involucrados en el manejo de\n      sustancias químicas y mezclas, así como a los integrantes de la comisión de seguridad e higiene.",
+    "start_char": 47568,
+    "end_char": 47789
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "12",
+    "label": "12. Unidades de verificación",
+    "text": "12. Unidades de verificación",
+    "start_char": 47802,
+    "end_char": 47830
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "12.1",
+    "label": "12.1 El patrón tendrá la opción de contratar una unidad de verificación, acreditada y aprobada, de acuerdo con lo previsto en",
+    "text": "12.1 El patrón tendrá la opción de contratar una unidad de verificación, acreditada y aprobada, de acuerdo con lo previsto en\n      la Ley Federal sobre Metrología y Normalización, para evaluar la conformidad con la presente Norma.",
+    "start_char": 47841,
+    "end_char": 48072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "12.2",
+    "label": "12.2 Las unidades de verificación comprobarán el cumplimiento de esta Norma, de conformidad con lo que determina el",
+    "text": "12.2 Las unidades de verificación comprobarán el cumplimiento de esta Norma, de conformidad con lo que determina el\n      Capítulo 13 de la misma, para lo cual emitirán el dictamen correspondiente.",
+    "start_char": 48082,
+    "end_char": 48279
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:12-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "12.3",
+    "label": "12.3 El dictamen emitido por una unidad de verificación deberá contener lo siguiente:",
+    "text": "12.3 El dictamen emitido por una unidad de verificación deberá contener lo siguiente:\n            a)    Datos del centro de trabajo verificado:\n                  1)   El nombre, denominación o razón social;\n                  2)   El Registro Federal de Contribuyentes;\n                  3)   El domicilio completo;\n                  4)   El teléfono, y\n                  5)   Su actividad principal;\n            b)    Datos de la unidad de verificación:\n                  1)   El nombre, denominación o razón social;\n                  2)   El número de acreditación;\n                  3)   El número de aprobación otorgado por la Secretaría, y\n                  4)   Su domicilio completo, y\n            c)    Datos del dictamen:\n                  1)   La clave y nombre de la Norma;\n                  2)   El nombre del verificador evaluado y aprobado;\n                  3)   La fecha de verificación;\n                  4)   El número de dictamen;\n                  5)   La vigencia del dictamen;\n                  6)   El lugar de emisión del dictamen;\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015&print=true                                                             10/48\n\f28/10/25, 13:05                                                        DOF - Diario Oficial de la Federación\n                   7)   La fecha de emisión del dictamen, y\n                   8)   El número de registro del dictamen emitido por la Secretaría al rendirse el informe respectivo.",
+    "start_char": 48292,
+    "end_char": 49785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:12-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "12.4",
+    "label": "12.4 La vigencia de los dictámenes emitidos por las unidades de verificación será de dos años, siempre que se mantengan las",
+    "text": "12.4 La vigencia de los dictámenes emitidos por las unidades de verificación será de dos años, siempre que se mantengan las\n      condiciones que sirvieron de base para su emisión.",
+    "start_char": 49795,
+    "end_char": 49975
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "13",
+    "label": "13. Procedimiento para la evaluación de la conformidad",
+    "text": "13. Procedimiento para la evaluación de la conformidad",
+    "start_char": 49986,
+    "end_char": 50040
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:13-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "13.1",
+    "label": "13.1 El presente procedimiento para la evaluación de la conformidad aplica tanto para las visitas de inspección desarrolladas",
+    "text": "13.1 El presente procedimiento para la evaluación de la conformidad aplica tanto para las visitas de inspección desarrolladas\n      por la autoridad laboral, como para las visitas de verificación que realicen las unidades de verificación.",
+    "start_char": 50052,
+    "end_char": 50290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:13-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "13.2",
+    "label": "13.2 El dictamen vigente deberá estar a disposición de la autoridad laboral cuando ésta lo solicite.",
+    "text": "13.2 El dictamen vigente deberá estar a disposición de la autoridad laboral cuando ésta lo solicite.",
+    "start_char": 50301,
+    "end_char": 50401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:13-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "13.3",
+    "label": "13.3 Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se realizará, según aplique,",
+    "text": "13.3 Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se realizará, según aplique,\n      mediante la constatación física, revisión documental, registros o entrevistas, con base en lo siguiente:\n\n                                     Tipo de\n               Disposición                                     Criterio de aceptación                  Observaciones        Riesgo\n                                  comprobación\n         6.1 y 8               Documental           El patrón cumple cuando presenta evidencia                            Grave\n                                                    documental de que:\n                                                        Cuenta con el sistema armonizado de\n                                                    identificación y comunicación de peligros y\n                                                    riesgos por sustancias químicas peligrosas\n                                                    y mezclas, y éste incluye lo siguiente:\n\n\n                                                       El listado actualizado de las sustancias\n                                                    químicas peligrosas y mezclas, en su caso,\n                                                    que contenga al menos:\n                                                    -       El nombre de la sustancia química\n                                                    peligrosa o mezcla;\n                                                    -     El número CAS para la sustancia y\n                                                    para las mezclas el número CAS de los\n                                                    componentes, y\n\n                                                    -   La clasificación de sus peligros físicos y\n                                                    para la salud específicos relacionados, con\n                                                    sus     correspondientes     divisiones      o\n                                                    categorías;\n                                                       Las hojas de datos de seguridad de las\n                                                    sustancias químicas peligrosas y mezclas;\n\n\n                                                       La señalización o el etiquetado, y\n\n                                                           La capacitación y adiestramiento\n                                                    proporcionado a los trabajadores sobre el\n                                                    contenido de las hojas de datos de\n                                                    seguridad y de la señalización, y\n                                                          Actualiza el sistema armonizado de\n                                                    identificación y comunicación de peligros de\n                                                    las sustancias químicas peligrosas y\n                                                    mezclas que se manejan en el centro de\n                                                    trabajo, cuando:\n\n                                                        Se sustituyen o adicionan sustancias\n                                                    químicas peligrosas y mezclas que se\n                                                    manejan en el centro de trabajo, o\n\n                                                       Se cuenta con información actualizada de\n                                                    los peligros y riesgos de las sustancias\n                                                    químicas peligrosas y mezclas.\n\n         6.2                   Documental           El patrón cumple cuando presenta evidencia\n                                                    documental de que tiene implementado en\n                                                    el centro de trabajo el sistema armonizado\n                                                    de identificación y comunicación de peligros\n                                                    y riesgos por sustancias químicas\n                                                    peligrosas y mezclas.\n\n\n\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015&print=true                                                    11/48\n\f28/10/25, 13:05                                                     DOF - Diario Oficial de la Federación\n\n                            Física                El patrón cumple cuando al hacer un                       Grave\n                                                  recorrido por el centro de trabajo, se\n                                                  constata que tiene implementado el sistema\n                                                  armonizado       de      identificación   y\n                                                  comunicación de peligros y riesgos por\n                                                  sustancias químicas peligrosas y mezclas.\n\n\n\n         6.3 y 9            Documental            El patrón cumple cuando presenta evidencia\n                                                  documental de que cuenta con las hojas de\n                                                  datos de seguridad de todas las sustancias\n                                                  químicas peligrosas y mezclas que se\n                                                  manejen en el centro de trabajo, de acuerdo\n                                                  con lo que dispone el Capítulo 9, de la\n                                                  presente Norma.\n\n\n         6.4                Documental            El patrón cumple cuando presenta evidencia\n                                                  documental de que pone a disposición\n                                                  permanentemente de los trabajadores, para\n                                                  su consulta, las hojas de datos de seguridad\n                                                  en las áreas donde se manejen sustancias\n                                                  químicas peligrosas y mezclas.\n\n\n\n                            Entrevista            El patrón cumple cuando al entrevistar a los\n                                                  trabajadores seleccionados de conformidad\n                                                  con el criterio muestral contenido en la\n                                                  Tabla 2 \"Muestreo por selección aleatoria\",\n                                                  se constata que les proporcionan las hojas\n                                                  de datos de seguridad en las áreas donde\n                                                  se manejen sustancias químicas peligrosas\n                                                  y/o mezclas para su consulta.\n\n\n\n\n         6.5 y 10           Física                El patrón cumple cuando al efectuar un\n                                                  recorrido en el centro de trabajo se constata\n                                                  que:\n\n                                                        La señalización se ubica en lugares\n                                                  visibles del contenedor, anaquel o área del\n                                                  centro de trabajo, de tal manera que\n                                                  siempre puedan ser observadas por los\n                                                  trabajadores o servicios de atención de\n                                                  emergencias;\n\n\n                                                      Los elementos de la señalización de la\n                                                  sustancia química peligrosa o mezcla\n                                                  coinciden con la información utilizada en la\n                                                  hoja de datos de seguridad;\n\n                                                      La señalización está marcada, impresa,\n                                                  pintada, adherida o colocada al depósito,\n                                                  recipiente, anaquel o al área, y es de\n                                                  material resistente e indeleble, que soporta\n                                                  las condiciones a las que está expuesta,\n                                                  para que no se alteren la información y los\n                                                  colores de la misma;\n\n\n                                                      La señalización de sustancias químicas\n                                                  peligrosas y mezclas, se ubica de\n                                                  conformidad con los criterios siguientes:\n\n\n                                                        Para una misma sustancia química\n                                                  peligrosa y mezcla, en una estiba por:\n                                                  -   Área, o\n\n                                                  -   Recipiente;\n\n                                                        Para diferentes sustancias químicas\n                                                  peligrosas y mezclas compatibles, en un\n                                                  mismo anaquel o estiba, en:\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015&print=true                                  12/48\n\f28/10/25, 13:05                                                      DOF - Diario Oficial de la Federación\n\n\n\n\n                                                  -     Cada uno de los contenedores, o\n\n                                                  -      Las partes del anaquel o área de la\n                                                  estiba, que contienen la misma sustancia\n                                                  química peligrosa y mezcla;\n\n                                                    En todos los contenedores con sustancias\n                                                  químicas peligrosas y mezclas, localizados\n                                                  en las áreas de proceso;\n                                                        En los contenedores en los que se\n                                                  trasladan sustancias químicas peligrosas y\n                                                  mezclas dentro del centro de trabajo, y\n                                                      En los contenedores móviles de grandes\n                                                  dimensiones (transporte terrestre, ferroviario\n                                                  o marítimo), cuando permanecen por más\n                                                  de 72 horas dentro del centro de trabajo, de\n                                                  tal manera que se complementa con la\n                                                  etiqueta utilizada en el transporte, cuando\n                                                  circula fuera del centro de trabajo;\n\n\n                                                         Los elementos que integran           la\n                                                  señalización, son los siguientes:\n                                                        El nombre de la sustancia química\n                                                  peligrosa y mezcla;\n\n                                                     La palabra de advertencia conforme a lo\n                                                  determinado en el Apéndice A, de la\n                                                  presente Norma, y cuando se utiliza la\n                                                  palabra \"Peligro\", no aparece la palabra\n                                                  \"Atención\";\n\n                                                      Los pictogramas o símbolos que aplican,\n                                                  de acuerdo con la categoría de sus peligros\n                                                  físicos y para la salud, de la sustancia\n                                                  química peligrosa y mezcla, están de\n                                                  conformidad con lo que señala el Apéndice\n                                                  B, de esta Norma; y en los casos en que el\n                                                  peligro no tiene asociado un símbolo,\n                                                  solamente se colocan las palabras de\n                                                  advertencia y la indicación de peligro; en\n                                                  ningún otro caso existen pictogramas sin\n                                                  símbolo, y\n\n                                                     El Código de identificación de peligro H y\n                                                  su indicación de peligro físico y para la\n                                                  salud, están con base en lo dispuesto en el",
+    "start_char": 50410,
+    "end_char": 63719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:13-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "13.4",
+    "label": "13.4 Para la selección del personal ocupacionalmente expuesto por entrevistar se aplicará el criterio muestral contenido en la",
+    "text": "13.4 Para la selección del personal ocupacionalmente expuesto por entrevistar se aplicará el criterio muestral contenido en la\n      Tabla 2.\n                                                                       Tabla 2\n                             Tamaño de la muestra por número de trabajadores ocupacionalmente expuestos.\n             Número de trabajadores                Número de trabajadores por\n           ocupacionalmente expuestos                     entrevistar\n\n                         1-15                                      1\n                        16-50                                      2\n                        51-105                                     3\n                      Más de 105                  1 por cada 35 trabajadores hasta\n                                                          un máximo de 15",
+    "start_char": 73324,
+    "end_char": 74162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:13-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "13.5",
+    "label": "13.5 Se podrá acreditar el cumplimiento con esta Norma mediante el dictamen de una unidad de verificación acreditada y",
+    "text": "13.5 Se podrá acreditar el cumplimiento con esta Norma mediante el dictamen de una unidad de verificación acreditada y\n      aprobada en los términos de la Ley Federal sobre Metrología y Normalización.",
+    "start_char": 74174,
+    "end_char": 74375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:13-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "13.6",
+    "label": "13.6 Las evidencias de tipo documental y los registros administrativos a que alude la presente Norma podrán exhibirse de",
+    "text": "13.6 Las evidencias de tipo documental y los registros administrativos a que alude la presente Norma podrán exhibirse de\n      manera impresa o en medios magnéticos, y deberán conservarse al menos durante dos años.",
+    "start_char": 74384,
+    "end_char": 74598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "14",
+    "label": "14. Vigilancia",
+    "text": "14. Vigilancia",
+    "start_char": 74609,
+    "end_char": 74623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:14-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "14.1",
+    "label": "14.1 La vigilancia del cumplimiento de esta Norma corresponde a la Secretaría.",
+    "text": "14.1 La vigilancia del cumplimiento de esta Norma corresponde a la Secretaría.",
+    "start_char": 74634,
+    "end_char": 74712
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "15",
+    "label": "15. Bibliografía",
+    "text": "15. Bibliografía",
+    "start_char": 74723,
+    "end_char": 74739
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:15-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "15.1",
+    "label": "15.1 Convenio 155, Sobre seguridad y salud de los trabajadores y medio ambiente de trabajo.",
+    "text": "15.1 Convenio 155, Sobre seguridad y salud de los trabajadores y medio ambiente de trabajo.\n      Organización Internacional del Trabajo. Ratificado el 1 de febrero de 1984 y publicado en el Diario Oficial de la Federación el seis\n      de marzo de 1984 y su fe de erratas de cinco de abril de 1984.",
+    "start_char": 74749,
+    "end_char": 75048
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:15-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "15.2",
+    "label": "15.2 Convenio 170, Sobre la seguridad en la utilización de los productos químicos en el trabajo. Organización Internacional del",
+    "text": "15.2 Convenio 170, Sobre la seguridad en la utilización de los productos químicos en el trabajo. Organización Internacional del\n      Trabajo. Ratificado el 17 de noviembre de 1992 y publicado en el Diario Oficial de la Federación el cuatro de diciembre de 1992.",
+    "start_char": 75058,
+    "end_char": 75320
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:15-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "15.3",
+    "label": "15.3 Globally Harmonized System of Classification and Labelling of Chemicals, GHS, Fifth Edition. Nueva York y Ginebra,",
+    "text": "15.3 Globally Harmonized System of Classification and Labelling of Chemicals, GHS, Fifth Edition. Nueva York y Ginebra,\n      2013. Organización de las Naciones Unidas.",
+    "start_char": 75330,
+    "end_char": 75498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:15-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "15.4",
+    "label": "15.4 Ley Federal del Trabajo. Publicada en el Diario Oficial de la Federación de primero de abril de 1970 y sus reformas.",
+    "text": "15.4 Ley Federal del Trabajo. Publicada en el Diario Oficial de la Federación de primero de abril de 1970 y sus reformas.",
+    "start_char": 75509,
+    "end_char": 75630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:15-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "15.5",
+    "label": "15.5 NOM-003-SEGOB-2011, Señales y Avisos para Protección Civil; Colores, Forma y Símbolos a Utilizar. Publicada en el",
+    "text": "15.5 NOM-003-SEGOB-2011, Señales y Avisos para Protección Civil; Colores, Forma y Símbolos a Utilizar. Publicada en el\n      Diario Oficial de la Federación de veintitrés de diciembre de 2011.",
+    "start_char": 75640,
+    "end_char": 75832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:15-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "15.6",
+    "label": "15.6 NOM-004-SCT/2008, Sistemas de identificación de unidades destinadas al transporte de substancias, materiales y",
+    "text": "15.6 NOM-004-SCT/2008, Sistemas de identificación de unidades destinadas al transporte de substancias, materiales y\n      residuos peligrosos. Publicada en el Diario Oficial de la Federación de dieciocho de agosto de 2008.",
+    "start_char": 75843,
+    "end_char": 76065
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:15-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "15.7",
+    "label": "15.7 NOM-005-STPS-1998, Relativa a las condiciones de seguridad e higiene en los centros de trabajo para el manejo,",
+    "text": "15.7 NOM-005-STPS-1998, Relativa a las condiciones de seguridad e higiene en los centros de trabajo para el manejo,\n      transporte y almacenamiento de sustancias químicas peligrosas. Publicada en el Diario Oficial de la Federación de dos de febrero\n      de 1999.",
+    "start_char": 76076,
+    "end_char": 76341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:15-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "15.8",
+    "label": "15.8 NOM-008-SCFI-2002, Sistema General de Unidades de Medida. Publicada en el Diario Oficial de la Federación de",
+    "text": "15.8 NOM-008-SCFI-2002, Sistema General de Unidades de Medida. Publicada en el Diario Oficial de la Federación de\n      veinticuatro de octubre de 2002.\n\nhttps://www.dof.gob.mx/nota_detalle.php?codigo=5411121&fecha=09/10/2015&print=true                                                       15/48\n\f28/10/25, 13:05                                                          DOF - Diario Oficial de la Federación",
+    "start_char": 76352,
+    "end_char": 76760
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:15-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "15.9",
+    "label": "15.9 NOM-017-STPS-2008, Equipo de protección personal - Selección, uso y manejo en los centros de trabajo. Publicada en",
+    "text": "15.9 NOM-017-STPS-2008, Equipo de protección personal - Selección, uso y manejo en los centros de trabajo. Publicada en\n      el Diario Oficial de la Federación de nueve de diciembre de 2008.",
+    "start_char": 76771,
+    "end_char": 76962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:15-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "15.10",
+    "label": "15.10 Recomendación número 177 sobre la seguridad en el uso de químicos en el trabajo. 1990. Organización Internacional",
+    "text": "15.10 Recomendación número 177 sobre la seguridad en el uso de químicos en el trabajo. 1990. Organización Internacional\n      del Trabajo.",
+    "start_char": 76973,
+    "end_char": 77111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:15-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "15.11",
+    "label": "15.11 Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo. Publicado en el Diario Oficial de la Federación",
+    "text": "15.11 Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo. Publicado en el Diario Oficial de la Federación\n      de veintiuno de enero de 1997.",
+    "start_char": 77121,
+    "end_char": 77281
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:clause:16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "number": "16",
+    "label": "16. Concordancia con normas internacionales",
+    "text": "16. Concordancia con normas internacionales\n          Esta Norma Oficial Mexicana es parcialmente equivalente a la Norma Mexicana NMX-R-019-SCFI-2011 y a la Quinta Edición\n      del Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos, GHS, de la Organización de las\n      Naciones Unidas, Nueva York y Ginebra, 2013, la cual ha sido adaptada para cumplir con los requerimientos normativos de esta\n      Secretaría.",
+    "start_char": 77292,
+    "end_char": 77737
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-011-stps-2001",
+  "kind": "nom",
+  "designation": "NOM-011-STPS-2001",
+  "official_title": "Condiciones de seguridad e higiene en los centros de trabajo donde se genere ruido",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "ruido",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2002-04-17",
+  "effective_date": "2002-06-16",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-080-STPS-1993"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2023-01-23",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-011-STPS-2001_2023_respuesta.PDF"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/011stps.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=734536&fecha=17/04/2002",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-011-STPS-2001/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "58de74c46bd7b8e4ff6bd2757142c1ee948ae0be50a8c8f87a59b10764e4e825",
+  "extracted_text_sha256": "fba74e5769ab0b5ba99ca6a0499198cb7af7a038a8632460c5e34675c868b32b",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

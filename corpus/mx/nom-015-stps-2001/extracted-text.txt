@@ -1,0 +1,663 @@
+   Viernes 14 de junio de 2002                   DIARIO OFICIAL               (Cuarta Sección)              1
+
+                          CUARTA SECCION
+             SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+NORMA Oficial Mexicana NOM-015-STPS-2001,                        Condiciones        térmicas      elevadas      o
+abatidas-Condiciones de seguridad e higiene.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría del Trabajo y
+Previsión Social.
+    CARLOS MARIA ABASCAL CARRANZA, Secretario del Trabajo y Previsión Social, con fundamento en los
+artículos 16 y 40 fracciones I y XI de la Ley Orgánica de la Administración Pública Federal; 512, 523 fracción I,
+524 y 527 último párrafo de la Ley Federal del Trabajo; 3o. fracción XI, 38 fracción II, 40 fracción VII, 41, 43 a
+47 y 52 de la Ley Federal sobre Metrología y Normalización; 28 y 33 del Reglamento de la Ley Federal sobre
+Metrología y Normalización; 3o., 4o., 93 y 94 del Reglamento Federal de Seguridad, Higiene
+y Medio Ambiente de Trabajo; 3o., 5o. y 22 fracciones III, VIII y XVII del Reglamento Interior de la Secretaría
+del Trabajo y Previsión Social, y
+
+                                                 CONSIDERANDO
+    Que con fecha 30 de mayo de 1994 fue publicada en el Diario Oficial de la Federación la Norma Oficial
+Mexicana NOM-015-STPS-1993, Relativa a la exposición laboral a condiciones térmicas elevadas o abatidas
+en los centros de trabajo;
+   Que esta dependencia a mi cargo, con fundamento en el artículo cuarto transitorio primer párrafo del
+Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario Oficial de la
+Federación el 21 de enero de 1997, ha considerado necesario realizar diversas modificaciones a la referida
+norma oficial mexicana, las cuales tienen como finalidad adecuarla a las disposiciones establecidas en el
+ordenamiento reglamentario mencionado;
+    Que con fecha 28 de noviembre de 2000, en cumplimiento de lo previsto en el artículo 46 fracción I de la
+Ley Federal sobre Metrología y Normalización, la Secretaría del Trabajo y Previsión Social presentó ante el
+Comité Consultivo Nacional de Normalización de Seguridad, Higiene y Medio Ambiente Laboral,
+el Anteproyecto de Modificación de la presente Norma Oficial Mexicana, y que el citado Comité lo consideró
+correcto y acordó que se publicara como proyecto en el Diario Oficial de la Federación;
+   Que con objeto de cumplir con lo dispuesto en los artículos 69-E y 69-H de la Ley Federal de
+Procedimiento Administrativo, el proyecto correspondiente fue sometido a la consideración de la Comisión
+Federal de Mejora Regulatoria, la que dictaminó favorablemente en relación al mismo;
+   Que con fecha 4 de mayo de 2001, en cumplimiento del Acuerdo del Comité y de lo previsto en el artículo
+47 fracción I de la Ley Federal sobre Metrología y Normalización, se publicó en el Diario Oficial de la
+Federación el Proyecto de Modificación de la presente Norma Oficial Mexicana, a efecto de que, dentro de los
+60 días naturales a dicha publicación, los interesados presentaran sus comentarios al Comité Consultivo
+Nacional de Normalización de Seguridad, Higiene y Medio Ambiente Laboral;
+    Que habiendo recibido comentarios de tres promoventes, el Comité referido procedió a su estudio y
+resolvió oportunamente sobre los mismos, publicando esta dependencia las respuestas respectivas en el
+Diario Oficial de la Federación el 19 de diciembre de 2001, en cumplimiento a lo previsto por el artículo 47
+fracción III de la Ley Federal sobre Metrología y Normalización;
+    Que en atención a las anteriores consideraciones y toda vez que el Comité Consultivo Nacional de
+Normalización de Seguridad, Higiene y Medio Ambiente Laboral, otorgó la aprobación respectiva, se expide
+la siguiente:
+
+        NORMA OFICIAL MEXICANA NOM-015-STPS-2001, CONDICIONES TERMICAS ELEVADAS O
+                       ABATIDAS-CONDICIONES DE SEGURIDAD E HIGIENE
+
+                                                    INDICE
+   1.     Objetivo
+   2.     Campo de aplicación
+   3.     Referencias
+   4.     Definiciones
+   5.     Obligaciones del patrón
+   6.     Obligaciones del personal ocupacionalmente expuesto
+   7.     Reconocimiento, evaluación y control
+   8.     Límites máximos permisibles de exposición
+   2       (Cuarta Sección)                    DIARIO OFICIAL          Viernes 14 de junio de 2002
+
+   9.    Método de evaluación para condiciones térmicas elevadas
+   10.   Método de evaluación para condiciones térmicas abatidas
+   11.   Registros
+   12.   Unidades de verificación y laboratorios de pruebas
+         Apéndice A        Regímenes de trabajo
+         Apéndice B        Vigilancia a la salud del POE
+   13.   Vigilancia
+   14.   Bibliografía
+   15.   Concordancia con normas internacionales
+         Guía de referencia I determinación del tiempo de exposición
+   1. Objetivo
+    Establecer las condiciones de seguridad e higiene, los niveles y tiempos máximos permisibles de
+exposición a condiciones térmicas extremas, que por sus características, tipo de actividades, nivel, tiempo
+y frecuencia de exposición, sean capaces de alterar la salud de los trabajadores.
+   2. Campo de aplicación
+    Esta Norma aplica en todos los centros de trabajo del territorio nacional en los que exista exposición de los
+trabajadores a condiciones térmicas, provocadas por fuentes que generen que la temperatura corporal de los
+trabajadores sea inferior a 36°C o superior a 38°C.
+   3. Referencias
+    Para la correcta interpretación de esta Norma deben consultarse las siguientes normas oficiales mexicanas
+vigentes:
+   NOM-017-STPS-2001           Equipo de protección personal - Selección, uso y manejo en los centros
+                               de trabajo.
+   NOM-026-STPS-1998           Colores y señales de seguridad e higiene, e identificación de riesgos por
+                               fluidos conducidos en tuberías.
+   4. Definiciones
+   Para los efectos de la presente Norma, se establecen las siguientes definiciones:
+    4.1 Autoridad del trabajo; autoridad laboral: las unidades administrativas competentes de la Secretaría
+del Trabajo y Previsión Social, que realicen funciones de inspección en materia de seguridad e higiene en el
+trabajo y las correspondientes en las entidades federativas y el Distrito Federal, que actúen en auxilio
+de aquéllas.
+   4.2 Calor convectivo: es la cantidad de energía calorífica que se transmite a través de fluidos y que recibe
+o cede el cuerpo humano por efecto del medio ambiente laboral.
+    4.3 Calor radiante: es la cantidad de energía calorífica que se emite o se gana a través de energía
+electromagnética.
+   4.4 Condición térmica abatida: es la situación ambiental capaz de producir pérdida de calor en el cuerpo
+humano, debido a las bajas temperaturas, que puede romper el equilibrio térmico del trabajador y tiende a
+disminuir su temperatura corporal central.
+   4.5 Condición térmica elevada: es la situación ambiental capaz de transmitir calor hacia el cuerpo
+humano o evitar que el cuerpo humano transmita calor hacia el medio en tal magnitud que pueda romper el
+equilibrio térmico del trabajador, y tienda a incrementar su temperatura corporal central.
+    4.6 Condición térmica extrema: es la situación ambiental capaz de permitir una ganancia o una pérdida
+de calor en el cuerpo humano en tal magnitud que modifique el equilibrio térmico del trabajador y que ocasione
+un incremento o decremento en su temperatura corporal central, capaz de alterar su salud.
+    4.7 Estrategia de medición ambiental: es el conjunto de criterios a partir del reconocimiento, que sirven
+para definir el número de mediciones, lugares, tiempo y frecuencia en que se practicarán, para obtener
+información representativa de la exposición del trabajador a condiciones térmicas extremas.
+  4.8 Evaluación: es el resultado de comparar la cuantificación de los factores que modifican el medio
+ambiente laboral con los patrones de referencia.
+   Viernes 14 de junio de 2002                DIARIO OFICIAL                    (Cuarta Sección)          3
+
+  4.9 Fuentes: maquinaria, equipos o materiales capaces de generar condiciones térmicas extremas en el
+medio ambiente de trabajo.
+   4.10 Grupo de exposición homogénea: son todos los trabajadores expuestos a condiciones térmicas
+semejantes, tomando en cuenta el tiempo de exposición, el régimen de actividades, y el nivel térmico en el
+centro de trabajo.
+   4.11 Indice de temperatura de globo bulbo húmedo: es la interrelación entre la temperatura de globo,
+temperatura del aire y la humedad relativa, que permite estimar la exposición a temperaturas elevadas.
+    4.12 Indice de viento frío: es la interrelación entre la temperatura y velocidad del aire, que permite
+estimar la exposición a temperaturas abatidas.
+    4.13 Límite Máximo Permisible de Exposición (LMPE): es el nivel máximo de los indicadores térmicos
+del régimen de trabajo y del tiempo de exposición que se relacionan con el medio ambiente laboral, y que no
+deben superarse durante la exposición de los trabajadores en periodos de trabajo definidos.
+    4.14 Temperatura de bulbo húmedo natural: es la temperatura que registra el termómetro cuando,
+humedecido su bulbo, permite la evaporación del agua sobre él, al estar expuesto al movimiento natural del
+aire y al contenido de su humedad.
+   4.15 Temperatura de bulbo húmedo ventilado: es la temperatura que registra el termómetro cuando,
+humedecido su bulbo, permite la evaporación del agua sobre él, a una velocidad del aire que depende
+exclusivamente del tipo de psicrómetro utilizado.
+   4.16 Temperatura de bulbo seco: es la temperatura que registra el termómetro cuando el bulbo está en
+contacto con el aire del medio ambiente, y esté protegido de la radiación directa de la fuente que genera la
+condición térmica.
+    4.17 Temperatura de globo: es el nivel termométrico que se registra cuando se establece el equilibrio
+entre la relación del calor convectivo y el calor radiante en el termómetro de globo.
+   4.18 Trabajador expuesto; personal ocupacionalmente expuesto (POE): son los trabajadores
+expuestos a una condición térmica extrema durante el desarrollo de sus actividades laborales.
+   5. Obligaciones del patrón
+    5.1 Mostrar a la autoridad del trabajo, cuando ésta así lo solicite, los documentos que la presente Norma le
+obligue a elaborar o poseer.
+    5.2 Informar a los trabajadores de los riesgos de trabajo por exposición a temperaturas extremas y mostrar
+a la autoridad del trabajo evidencias como pueden ser las constancias de habilidades, circulares, folletos,
+carteles, o a través de opiniones de los trabajadores, que acrediten que han sido informados de
+los riesgos.
+   5.3 Realizar el reconocimiento, evaluación y control, según lo establecido en el Capítulo 7.
+   5.4 Elaborar por escrito y mantener actualizado un informe que contenga el registro del reconocimiento,
+evaluación y control de las áreas, de acuerdo a lo establecido en el Capítulo 11.
+    5.5 Aplicar el método para determinar el tiempo de exposición de los trabajadores, considerando el tipo de
+condición térmica extrema a la que se expongan, de conformidad con lo que se establece en los capítulos 9 y
+10, según sea el caso.
+  5.6 Proporcionar al       POE     el   equipo   de   protección   personal,    según   se   establece   en   la
+NOM-017-STPS-2001.
+   5.7 Señalar y restringir el acceso a las áreas de exposición a condiciones térmicas extremas, según lo
+establecido en la NOM-026-STPS-1998.
+    5.8 Proporcionar capacitación y adiestramiento al POE en materia de seguridad e higiene, donde se
+incluyan los niveles máximos permisibles y las medidas de control establecidas en el Apartado 5.3, de acuerdo
+a la actividad que desempeñen, a fin de evitar daños a la salud, derivados de la exposición a condiciones
+térmicas extremas.
+    5.9 Llevar a cabo la vigilancia a la salud del POE, según lo que establezcan las normas oficiales
+mexicanas que al respecto emita la Secretaría de Salud. En caso de no existir normatividad de dicha
+Secretaría, el médico de la empresa determinará el contenido de los exámenes médicos y la vigilancia a la
+salud, según lo establecido en el Apéndice B.
+   4         (Cuarta Sección)                  DIARIO OFICIAL            Viernes 14 de junio de 2002
+
+   5.10 En los centros de trabajo en que las condiciones climáticas pueden provocar que la temperatura
+corporal del trabajador sea inferior a 36°C o superior a 38°C, cumplir únicamente con lo establecido en los
+Apartados 5.1, 5.2, 5.6 y 5.9.
+   6. Obligaciones del personal ocupacionalmente expuesto
+   6.1 Colaborar en las actividades derivadas del reconocimiento, evaluación y control que se requieran.
+   6.2 Participar en las actividades de capacitación y adiestramiento en materia de seguridad e higiene,
+establecidas por el patrón.
+    6.3 Someterse a los exámenes médicos para valorar los riesgos a su salud, con motivo de la exposición a
+condiciones térmicas extremas, y proporcionar verazmente la información que le solicite el médico que realice
+dicho examen.
+    6.4 En caso de tener síntomas de aumento o decremento de su temperatura corporal, debe notificarlo
+al patrón.
+   7. Reconocimiento, evaluación y control
+   7.1 Reconocimiento.
+   7.1.1 Identificar y registrar en un plano de vista de planta del centro de trabajo, todas las fuentes que
+generen condiciones térmicas extremas.
+   7.1.2 Determinar si en el área donde se ubican las fuentes, el POE se localiza en un lugar cerrado o
+abierto y si existe ventilación natural o artificial.
+    7.1.3 Elaborar una relación del POE, incluyendo áreas, puestos de trabajo, tiempos y frecuencia de
+la exposición.
+   7.1.4 Describir las actividades y ciclos de trabajo que realiza el POE en cada puesto de trabajo.
+   7.2 Evaluación.
+   7.2.1 Aplicar el procedimiento de evaluación para las condiciones térmicas extremas encontradas,
+conforme a lo establecido en los capítulos 9 o 10, según sea el caso.
+   7.2.2 Medir la temperatura axilar del POE al inicio y al término de cada ciclo de exposición.
+    7.2.3 Con la información obtenida en el Apartado 7.1.4, en caso de exposición a condiciones térmicas
+elevadas, determinar el régimen de trabajo del POE, según lo establecido en la Tabla A1.
+   7.2.4 Registrar en una hoja de campo o sistema electrónico, por cada trabajador expuesto o grupo de
+exposición homogénea a condiciones térmicas extremas, los siguientes datos:
+   a)   área evaluada;
+   b)   condición térmica extrema evaluada;
+   c)   fecha de la evaluación;
+   d)   nombre del trabajador o grupo evaluado;
+   e)   puesto de trabajo evaluado;
+   f)   tiempo y ciclos de exposición;
+   g)   actividades específicas que realiza el POE en cada ciclo de exposición;
+   h)   si se utiliza equipo de protección personal, describirlo;
+   i)   si existen controles técnicos o administrativos, describirlos;
+   j)   en caso de utilizar equipo de medición electrónico registrar:
+        1)    marca y modelo;
+        2)    número de serie;
+        3)    documento que avale la calibración de los instrumentos de medición, de conformidad con los
+              procedimientos establecidos en la Ley Federal sobre Metrología y Normalización;
+   k)   nombre y firma del evaluador.
+   7.3 Control.
+   Viernes 14 de junio de 2002                    DIARIO OFICIAL               (Cuarta Sección)            5
+
+     7.3.1 Cuando el resultado del índice de temperatura de globo bulbo húmedo (Itgbh) o el índice de viento frío
+(Ivf), el régimen de trabajo y el tiempo de exposición, indiquen que la exposición de los trabajadores excede los
+LMPE establecidos en las tablas 1 o 2, o la temperatura axilar del trabajador supere los 38°C o esté por abajo
+de 36°C, se deben aplicar medidas de control, a fin de prevenir daños a la salud del POE.
+En tanto se establezcan dichas medidas de control, los patrones deben adoptar medidas preventivas
+inmediatas que garanticen que no se sigan presentando este tipo de exposiciones, tomando en consideración
+lo siguiente:
+   a)    las características fisiológicas de los trabajadores expuestos;
+   b)    el régimen de trabajo, nivel, tiempo y frecuencia de la exposición;
+   c)    las características de los lugares donde se realiza el trabajo;
+   d)    las características del proceso;
+   e)    las características de las fuentes;
+   f)    las condiciones climatológicas del lugar, por área geográfica y estacionalidad.
+    7.3.2 Las medidas de control y las medidas preventivas inmediatas mencionadas en el apartado anterior,
+deben registrarse en el informe establecido en el Capítulo 11, según sea el caso, y deben ser verificadas por
+el patrón mediante una evaluación posterior al término de su implementación.
+   7.3.3 Los trabajadores que por primera vez vayan a ser expuestos a condiciones térmicas elevadas, deben
+contar con un periodo continuo mínimo de aclimatación de 6 días, iniciando con el 50% de la exposición total
+permisible durante el primer día, siguiendo con incrementos diarios de 10%, hasta llegar al 100% de la
+exposición total permisible el sexto día. Estos periodos de aclimatación deben ser registrados en el informe de
+evaluación.
+    7.3.4 Los trabajadores que han estado aclimatados a condiciones térmicas elevadas y que regresen de
+nueve o más días consecutivos de ausencia, deben someterse a un periodo continuo mínimo de aclimatación
+de 4 días. El periodo de aclimatación, debe iniciar con el 50% de la exposición total permisible el primer día,
+siguiendo con dos incrementos diarios de 20% y uno de 10% hasta llegar al 100% de la exposición total
+permisible el cuarto día. Estos periodos de aclimatación deben ser registrados en el informe de evaluación.
+   7.3.5 En las áreas o puestos de trabajo donde el índice de temperatura de globo bulbo húmedo supere los
+32.2°C, sólo se permitirá una exposición momentánea, siempre y cuando el trabajador se encuentre
+debidamente protegido de la radiación calorífica y una persona vigile continuamente su actividad.
+    7.3.6 En las áreas o puestos de trabajo donde el índice de viento frío sea inferior a -57°C, todo el cuerpo
+del POE debe contar con equipo de protección personal que lo mantenga aislado de las condiciones térmicas
+abatidas y equipado con un tubo de respiración que pase bajo la ropa y bajo la pierna para calentar el aire.
+    7.3.7 Cuando la temperatura corporal sea igual o mayor a 38°C, se debe retirar de la exposición al
+trabajador y someterlo a vigilancia médica.
+   7.3.8 Cuando la temperatura corporal sea igual o menor a 36°C, se debe retirar de la exposición al POE y
+someterlo a vigilancia médica.
+   8. Límites máximos permisibles de exposición
+   8.1 Condiciones térmicas elevadas. En la Tabla 1 se establecen los tiempos máximos permisibles de
+exposición y el tiempo mínimo de recuperación para jornadas de trabajo de ocho horas.
+                                                      TABLA 1
+        LIMITES MAXIMOS PERMISIBLES DE EXPOSICION A CONDICIONES TERMICAS ELEVADAS
+         Temperatura máxima en °C de Itgbh
+                 Régimen de trabajo                         Porcentaje del tiempo de exposición y de
+        Ligero       Moderado               Pesado                        no exposición
+         30.0          26.7                  25.0       100% de exposición
+         30.6          27.8                  25.9       75% de exposición
+                                                        25% de recuperación en cada hora
+         31.7             29.4                 27.8     50% de exposición
+                                                        50% de recuperación en cada hora
+         32.2             31.1                 30.0     25% de exposición
+                                                        75% de recuperación en cada hora
+   6          (Cuarta Sección)                    DIARIO OFICIAL       Viernes 14 de junio de 2002
+
+    8.2 Condiciones térmicas abatidas. En la Tabla 2 se relacionan las temperaturas del índice de viento frío,
+tiempo de exposición máxima diaria y el tiempo de no exposición.
+                                         TABLA 2
+        LIMITES MAXIMOS PERMISIBLES DE EXPOSICION A CONDICIONES TERMICAS ABATIDAS
+              Temperatura en °C                                Exposición máxima diaria
+   de 0 a -18                               8 horas.
+   Menores de -18 a -34                     4 horas; sujeto a periodos continuos máximos de exposición de
+                                            una hora; después de cada exposición, se debe tener un tiempo
+                                            de no exposición al menos igual al tiempo de exposición.
+   Menores de -34 a -57                     1 hora; sujeto a periodos continuos máximos de 30 minutos;
+                                            después de cada exposición, se debe tener un tiempo de no
+                                            exposición al menos 8 veces mayor que el tiempo de exposición.
+   Menores de -57                           5 minutos.
+   9. Método de evaluación para condiciones térmicas elevadas
+    9.1 Principio del método: consiste en aplicar el índice de temperatura de globo bulbo húmedo (Itgbh), medir
+la temperatura axilar del trabajador expuesto, la humedad relativa, la velocidad del aire y determinar el
+régimen de trabajo.
+    9.2 Instrumentación y equipo. Características con las que deben contar los instrumentos de medición y
+equipo para evaluar las condiciones térmicas extremas. Se pueden utilizar instrumentos de medición
+electrónicos con igual o mayor precisión.
+   9.2.1 Termómetros de mercurio:
+   a)    de bulbo seco:
+         1)     con bulbo sensor de 30 ± 5 mm, de 6 ±1 mm de diámetro externo;
+         2)     intervalo de medición de 10°C a 60°C;
+         3)     exactitud de medición de 1°C;
+   b)    de bulbo húmedo:
+         1)     con bulbo sensor de 30 ± 5 mm, de 6 ±1 mm de diámetro externo;
+         2)     intervalo de medición de 5°C a 40°C;
+         3)     exactitud de medición de 0.5°C;
+         4)     el bulbo sensor del termómetro debe estar cubierto totalmente con una funda o malla blanca de
+                algodón, de un material absorbente (de algodón u otro material con las mismas características
+                de humectación);
+         5)     longitud del termómetro cubierto por la funda o malla de algodón: 20 mm. La parte más baja de
+                la funda debe estar sumergida en un recipiente con agua destilada. La longitud libre de la funda
+                en el aire debe ser de 20 mm a 30 mm (separación entre el borde superior del recipiente de
+                agua y el bulbo del termómetro);
+         6)     vaso de precipitado;
+         7)     gotero;
+   c)    de globo:
+         1)     con bulbo sensor de 30 ± 5 mm, de 6 ±1 mm de diámetro externo;
+         2)     intervalo de medición de 20°C a 120°C;
+         3)     exactitud de medición de 1°C;
+         4)     con una esfera de cobre en cuyo centro se localice el bulbo sensor del termómetro; con
+                diámetro exterior de 150 mm; un espesor menor o igual a 1 mm y la superficie exterior pintada
+                de color negro mate, con un coeficiente promedio de emisión de 0.95 (negro mate).
+   9.2.2 Tripié para soporte de los termómetros.
+   9.2.3 Anemómetro a elegir, según la velocidad del aire:
+   a)    anemómetro de copa o veleta con un rango de medición de 0.05 a 150 m/s;
+   b)    termoanemómetro con un rango de medición de 0.03 a 300 m/s.
+   Viernes 14 de junio de 2002                DIARIO OFICIAL                 (Cuarta Sección)            7
+
+   9.2.4 Estabilización de los instrumentos de medición:
+   a)   los termómetros de globo y bulbo húmedo deben permanecer al menos 30 minutos expuestos en el
+        área de trabajo antes de efectuar la lectura;
+   b)   el termómetro de bulbo húmedo debe humedecerse directamente con agua destilada durante al
+        menos 30 minutos antes de efectuar las mediciones y dejando la malla de algodón inmersa en el
+        agua destilada, de tal manera que siga absorbiendo agua por capilaridad;
+   c)   en el caso de instrumentos electrónicos de mayor precisión, su permanencia debe ser de acuerdo al
+        tiempo de estabilización recomendado por el fabricante.
+   9.3 Estrategia de evaluación de las condiciones térmicas elevadas.
+    9.3.1 Durante la evaluación, se deben excluir las áreas donde no exista POE y aquéllas en las que el
+índice de temperatura de globo bulbo húmedo sea igual o menor al LMPE del régimen de trabajo.
+   9.3.2 Para cada trabajador o grupo de exposición homogénea en puestos fijos se debe:
+   a)   describir las actividades que desarrolla el POE y determinar el régimen de trabajo (ligero, moderado o
+        pesado) de acuerdo al tipo de actividad que se desarrolla, según lo establecido en la Tabla A.1;
+   b)   medir la temperatura axilar del POE en su puesto de trabajo, antes y después de su jornada, así
+        como la duración de la exposición;
+   c)   la evaluación del índice de temperatura de globo bulbo húmedo se debe realizar lo más cerca posible
+        del POE, sin que la presencia del evaluador interrumpa sus actividades;
+   d)   la evaluación consiste en medir y promediar a tres diferentes alturas la temperatura de globo bulbo
+        húmedo, colocando los instrumentos de medición en:
+        1)   la primera medición, a una altura de 0.10 m ### 0.05 m (región de los tobillos), en relación al
+             plano de sustentación del trabajador;
+        2)   la segunda medición a la altura de la región abdominal a 0.60 m ### 0.05 m, en relación al
+             plano de sustentación del trabajador sentado, y de 1.10 m ### 0.05 m si la actividad es
+             desarrollada
+             de pie;
+        3)   la tercera medición, a la altura de la región superior de la cabeza a 1.10 m ### 0.05 m en
+             relación al plano de sustentación del trabajador sentado, y de 1.70 m ### 0.05 m si desarrolla
+             sus actividades de pie;
+   e)   cuando se realicen evaluaciones a alturas diferentes a las establecidas, se deben registrar y
+        fundamentar las causas que las originaron;
+   f)   la medición se debe realizar al inicio y al final de todos los ciclos de exposición que se generen
+        durante una hora continua de actividades;
+   g)   los resultados obtenidos se deben comparar con los LMPE establecidos en la Tabla 1.
+   9.3.3 En el caso de tener un grupo de exposición homogénea, se debe ubicar el equipo de medición en el
+centro geométrico del grupo, y realizar la evaluación como se describió en el Apartado 9.3.2.
+   9.3.4 Para un trabajador o grupo de exposición homogénea en movimiento, se debe proceder según se
+establece en el Apartado 9.3.2, repitiéndose en tres ocasiones:
+   a)   la primera medición se realizará en el lugar donde se inicia la actividad sujeta a exposición;
+   b)   la segunda medición a la mitad de su trayectoria;
+   c)   una tercera medición se realiza al concluir su actividad.
+   En este tipo de exposición homogénea en movimiento, en cada una de las tres mediciones se deben
+comparar los resultados con la Tabla 1.
+   9.3.5 Si se tienen diferentes regímenes de trabajo, en cada uno de éstos se debe proceder según lo
+establecido en el Apartado 9.3.2.
+   8          (Cuarta Sección)                               DIARIO OFICIAL                Viernes 14 de junio de 2002
+
+   9.4 Determinación del índice de temperatura de globo bulbo húmedo.
+    9.4.1 Una vez concluidas las evaluaciones, se registran los valores obtenidos y se calcula el índice de la
+temperatura de globo bulbo húmedo por cada punto evaluado mediante la ecuación (1) si la medición se
+realiza en interiores o exteriores sin carga solar, y mediante la ecuación (2) si la medición se realiza en
+exteriores con carga solar:
+
+    I tgbh = 0.7 tbbhn + 0.3 t g               (1)
+    I tg bh = 0.7 tbhn + 0.2 t g + 0.1 t s                         (2)
+    9.4.2 Para obtener             la   temperatura       de     globo     bulbo     húmedo        promedio,   se   debe   aplicar   la
+siguiente ecuación:
+
+                                                 I tg bh cabeza + 2 I tg bh abdomen + I tg bh tobillos 
+                           I tg bh promedio   =                                                        
+                                                                          4                            
+   Donde:
+   I tgbh cabeza:             Es el índice de temperatura de globo bulbo húmedo, medido en la región de la cabeza.
+   I tgbh abdomen:            Es el índice de temperatura de globo bulbo húmedo, medido en la región del abdomen.
+   I tgbh tobillos:           Es el índice de temperatura de globo bulbo húmedo medido, en la región de
+                              los tobillos.
+   10. Método de evaluación para condiciones térmicas abatidas
+   10.1 Instrumentos de medición que se requieren para evaluar las condiciones térmicas abatidas.
+   10.1.1 Termómetro de mercurio de bulbo seco:
+   a)     con bulbo sensor de 30 ± 5 mm, de 6 ±1 mm de diámetro externo;
+   b)     intervalo de medición -60°C a 20°C;
+   c)     exactitud de medición de 0.5°C.
+   10.1.2 Anemómetro de copa o veleta.
+   10.2 Se deben excluir aquellas áreas donde no exista POE.
+   10.3 Para cada trabajador o grupo de exposición homogénea en puestos fijos se debe:
+   a)     describir las actividades que desarrolla el POE;
+   b)     medir la temperatura axilar del POE en su puesto de trabajo, antes y después de su exposición, así
+          como la duración de la exposición;
+   c)     la evaluación del índice de viento frío se debe realizar lo más cerca posible del trabajador, sin que la
+          presencia del evaluador interrumpa la actividad del POE;
+   d)     la evaluación consiste en medir y correlacionar la temperatura de bulbo seco y la velocidad del aire
+          para calcular el índice de viento frío de acuerdo a la Tabla A. 2;
+   e)     los instrumentos de medición se deben colocar a una altura de 1.40 ### 0.10 metros y se deben
+          tomar tres lecturas: al inicio, a la mitad y al final de cada ciclo de exposición;
+   f)     cuando se realicen evaluaciones a diferentes alturas, se deben registrar y fundamentar las causas
+          que las originaron.
+   10.4 Análisis de resultados.
+   10.4.1 Con los valores obtenidos se determina el valor del índice de viento frío promedio, como se indica a
+continuación:
+
+                                                      I vf inicial + I vf a la mitad + I vf al final   
+                                    I vf promedio =                                                   
+                                                                              3                         
+   Donde:
+          I vf inicial :                  Es el valor promedio del índice del viento frío inicial.
+          I vf a la mitad:                Es el valor promedio del índice del viento frío a la mitad.
+   Viernes 14 de junio de 2002                   DIARIO OFICIAL                   (Cuarta Sección)       9
+
+        I vf al final:            Es el valor promedio del índice del viento frío final.
+    10.4.2 Localización de los puntos evaluados. Una vez determinado el valor del Indice de viento frío
+promedio, todos los puntos de medición de la zona evaluada se deben identificar con un número progresivo y
+registrarse en un plano de vista de planta.
+   10.4.3 Con el resultado del índice de viento frío promedio, se debe determinar el tiempo máximo de
+exposición del POE según lo establecido en la Tabla 2.
+   11. Registros
+   Los registros de las condiciones térmicas extremas deben de contener, al menos, lo siguiente:
+   a)   informe descriptivo de las condiciones de operación bajo las cuales se realizó la evaluación;
+   b)   plano de distribución de las zonas, áreas y departamentos evaluados en el que se indique la
+        ubicación de las fuentes, los puntos de medición y el POE;
+   c)   la temperatura axilar del POE;
+   d)   los informes del reconocimiento, evaluación y control, señalados en el Capítulo 7;
+   e)   las medidas preventivas de seguridad e higiene para proteger al POE;
+   f)   nombre y firma del responsable del estudio de evaluación.
+   12. Unidades de verificación y laboratorios de pruebas
+   12.1 El patrón tendrá la opción de contratar una unidad de verificación o un laboratorio de pruebas,
+acreditado y aprobado, en los términos de la Ley Federal sobre Metrología y Normalización, para verificar el
+grado de cumplimiento de la presente Norma.
+   12.2 Las unidades de verificación podrán verificar el grado de cumplimiento de los apartados 5.2 al 5.10.
+   12.3 Los laboratorios de pruebas podrán evaluar el contenido del Apartado 7.2.
+    12.4 Las unidades de verificación y los laboratorios de pruebas, deben entregar al patrón sus dictámenes e
+informes de resultados, consignando lo siguiente:
+   12.4.1Para el dictamen de las unidades de verificación:
+   a)   datos del centro de trabajo evaluado:
+        1)      nombre, denominación o razón social;
+        2)      domicilio completo;
+   b)   datos de la unidad de verificación:
+        1)      nombre, denominación o razón social de la unidad de verificación;
+        2)      domicilio completo;
+        3)      número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;
+        4)      clave y nombre de las normas verificadas;
+        5)      resultado de la verificación;
+        6)      lugar y fecha de la firma del dictamen;
+        7)      nombre y firma del representante legal;
+        8)      vigencia del dictamen.
+   12.4.2 Para el informe de resultados de los laboratorios de pruebas:
+   a)   datos del centro de trabajo evaluado:
+        1)      nombre, denominación o razón social;
+        2)      domicilio completo.
+   b)   datos del laboratorio de pruebas:
+        1)      nombre, denominación o razón social;
+        2)      domicilio completo;
+        3)      número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;
+        4)      nombre y firma del signatario autorizado;
+        5)      lugar y fecha de la firma;
+        6)      conclusiones de la evaluación;
+   10            (Cuarta Sección)                     DIARIO OFICIAL           Viernes 14 de junio de 2002
+
+            7)   contenido de los estudios, de acuerdo a lo establecido en los capítulos 9 y 10, según sea
+                 el caso.
+    12.5 La vigencia de los dictámenes emitidos por las unidades de verificación y de los informes de
+resultados de los laboratorios de pruebas será de dos años, mientras se mantengan las condiciones
+de trabajo que sirvieron de referencia para su emisión.
+
+                                                       APENDICE A
+                                               REGIMENES DE TRABAJO
+                                                        Tabla A. 1
+                          DEFINICION DEL REGIMEN DE TRABAJO SEGUN LA ACTIVIDAD
+    Régimen de                            Actividad                     Ejemplo de Gasto Metabólico aproximado
+      trabajo
+                                                                       watts                   kcal/h
+                     Sentarse tranquilamente                           116.18                  100
+
+                     Sentarse, movimiento moderado de los brazos y     130.81 a 162.21         112.5 a 139.5
+                     el tronco (por ejemplo, trabajo de oficina,
+                     mecanografía)
+   Ligero            Sentado, movimientos moderados de los brazos      159.88 a 188.95         137.5 a 162.5
+                     y el tronco (por ejemplo, tocando el órgano o
+                     conduciendo un automóvil)
+                     Parado, trabajo moderado en máquinas o            159.88 a 188.95         137.5 a 162.5
+                     bancos de máquinas, mayormente con las
+                     manos
+                     Parado, trabajo liviano en máquinas o banco, a    188.95 a 218.02         162.5 a 187.5
+                     veces caminando un poco
+                     Sentado, movimientos pesados de los brazos y      188.95 a 232.56         162.5 a 200.0
+                     piernas
+                     Parado, trabajo moderado en máquina o banco       218.02 a 290.69         187.5 a 250.0
+   Moderado          a veces caminando un poco
+                     Caminando de un sitio a otro empujando y          290.69 a 406.97         250.0 a 350.0
+                     levantando moderadamente
+                     Levantando, empujando o          tirando cargas   436.04 a 581.39         375.0 a 500.0
+    Pesado           pesadas, intermitentemente        (por ejemplo,
+                     trabajo de pico y pala)
+                     Trabajo pesado constante                          581.39 a 697.67         500.0 a 600.0
+
+
+                                                      Tabla A. 2
+                                                INDICE DE VIENTO FRIO
+    El uso de la presente Tabla tiene como fin determinar el índice de viento frío a aplicar en el Capítulo 10, al
+correlacionar la velocidad del viento y la temperatura registrada en el termómetro, y poder determinar el
+aislamiento para proteger el cuerpo del trabajador.
+ Velocidad     Temperatura leída en el termómetro en °C
+ del viento en
+ km/h
+                    10        4      -1        -7       -12      -18       -23           -29      -34          -40
+        8           10        4      -1        -7       -12      -18       -23           -29      -34          -40
+        16           9        3      -3        -9       -14      -21       -26           -32      -38          -44
+        24           4        -2     -9        -15      -23      -31       -36           -43      -50          -57
+        32           2        -6    -13        -21      -28      -36       -43           -50      -58          -65
+        40           0        -8    -16        -23      -32      -39       -47           -55      -63          -71
+        48           -1       -9    -18        -26      -34      -42       -50           -59      -67          -76
+        56           -2      -11    -19        -28      -36      -44       -53           -62      -70          -78
+        64           -3      -12    -20        -29      -37      -46       -55           -63      -72          -80
+  66 y mayores       -3      -12    -21        -29      -38      -47       -56           -65      -73          -82
+   Viernes 14 de junio de 2002               DIARIO OFICIAL                  (Cuarta Sección)               11
+
+                 PELIGRO ESCASO EN UNA          AUMENTO DE PELIGRO EN            GRAN PELIGRO EN 30
+                HORA DE EXPOSICION (PARA            UN MINUTO DE               SEGUNDOS DE EXPOSICION
+                      UNA PERSONA                    EXPOSICION
+                ADECUADAMENTE VESTIDA)
+                                                  PELIGRO DE CONGELACION DE LAS ZONAS EXPUESTAS
+
+                                                 APENDICE B
+                                    VIGILANCIA A LA SALUD DEL POE
+   B.1 El médico de la empresa debe establecer por escrito un programa de vigilancia a la salud del POE, y el
+contenido y tipo de los exámenes médicos aplicables, que incluya lo siguiente:
+   a)   la evaluación médica inicial a trabajadores que se expongan por primera vez;
+   b)   una historia clínica con exploración física completa de cada trabajador expuesto;
+   c)   realizar, al menos, un examen médico cada 6 meses;
+   d)   las conclusiones de los resultados de los exámenes médicos;
+   e)   las medidas de prevención de las posibles alteraciones a la salud;
+   f)   el seguimiento a cada caso.
+   13. Vigilancia
+    La vigilancia del cumplimiento de esta Norma Oficial Mexicana corresponde a la Secretaría del Trabajo
+y Previsión Social.
+   14. Bibliografía
+   a)   Constitución Política de los Estados Unidos Mexicanos, artículo 123, Apartado "A", fracción XV.
+   b)   Ley Federal del Trabajo, artículos 132, 512 y 527.
+   c)   Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, Título Tercero,
+        Capítulo VI.
+   d)   NOM-008-SCFI-1993, Sistema general de unidades de medida.
+   e)   NOM-011-SCFI-1993,       Instrumentos    de   medición-termómetros     de   líquido   en   vidrio    para
+        usos generales.
+   f)   ISO 7243 Hot Environments-Estimation of the Heat Stress on Working Man, based on the
+        Wbgt-index (wet bulb globe temperature 1992).
+   g)   Work In the Cold-Review of Methods for Assessment of Cold Exposure. Ingvar Holmer. Int Arch
+        Occup Environ Healt (1993).
+   h)   Comparison of Heat Stress Index. Richard S. Brief and Robert G. Confer. American Industrial Hygiene
+        Association Journal (1971).
+   i)   Problemas Relacionados con el Trabajo en Condiciones de Sobrecarga Térmica. Organización
+        Mundial de la Salud. Serie de Informes Técnicos.
+   j)   Ergonomics Guide to Assessment of Metabolic and Cardiac Cost of Physical Work. American
+        Industrial Hygiene Association (1971).
+   k)   Evaluación de la Sobrecarga Térmica en el Ambiente de Trabajo (Och/77.1).
+   l)   Organización Mundial de la Salud. B. Golelzer. O.M.S.
+   15. Concordancia con normas internacionales
+   15.1 La presente Norma coincide de manera parcial con algunos aspectos de la norma internacional ISO
+7243 Hot Environments-Estimation of the Heat Stress on Working Man, based on the Wbgt-index (wet bulb
+globe temperature 1992).
+
+                                                TRANSITORIOS
+   PRIMERO.- La presente Norma Oficial Mexicana entrará en vigor a los ciento ochenta días naturales
+posteriores a su publicación en el Diario Oficial de la Federación.
+    SEGUNDO.- Durante el lapso señalado en el artículo anterior, los patrones cumplirán con la Norma Oficial
+Mexicana NOM-015-STPS-1993, Relativa a la exposición laboral a condiciones térmicas elevadas o abatidas
+en los centros de trabajo, o bien realizarán las adaptaciones para observar las disposiciones de la presente
+   12        (Cuarta Sección)                  DIARIO OFICIAL         Viernes 14 de junio de 2002
+
+Norma Oficial Mexicana y, en este último caso, las autoridades del trabajo proporcionarán a petición de los
+patrones interesados, asesoría y orientación para instrumentar su cumplimiento, sin que los patrones se hagan
+acreedores a sanciones por el incumplimiento de la norma en vigor.
+   México, Distrito Federal, a los veintidós días del mes de marzo de dos mil dos.- El Secretario del Trabajo y
+Previsión Social, Carlos María Abascal Carranza.- Rúbrica.
+
+                                          GUIA DE REFERENCIA I
+                                DETERMINACION DEL TIEMPO DE EXPOSICION
+   El contenido de esta guía es un complemento auxiliar para determinar los factores que afectan al POE y
+poder establecer sistemas de control, y no es de cumplimiento obligatorio.
+   Este procedimiento sirve para determinar el tiempo mínimo de recuperación, a través del uso de los
+nomogramas elaborados por Mc Karns y Brief.
+   De la carta psicrométrica:
+   I.1 Para determinar la temperatura de rocío:
+    Se proyectan líneas perpendiculares que inician con los valores de la temperatura de bulbo seco (ts) y la
+temperatura de bulbo húmedo (tbh) en la escala de la carta psicrométrica. En el punto de intersección se traza
+una línea recta paralela a la escala de la temperatura de bulbo seco (ts) hasta que ésta cruce con la escala de
+la temperatura de bulbo húmedo (tbh). El punto de intersección se conoce como temperatura del punto
+de rocío.
+   I.2 Para determinar la presión de vapor (Vpa):
+    Se proyecta una línea perpendicular que inicia con el valor de la temperatura de rocío en la carta
+psicrométrica y termina en la escala de la presión de vapor (Vpa) de dicha carta. El punto de intersección se
+conoce como presión de vapor.
+   Del nomograma No.1:
+   I.3 Para determinar la evaporación máxima (Emáx.):
+    Se traza un segmento de recta que inicia con el valor de la velocidad del aire y termina con el valor de la
+temperatura de rocío, en las escalas del nomograma No. 1. El punto de intersección con la escala de
+la evaporación máxima (Emáx.) en el ambiente de trabajo (o área de recuperación según sea el caso) se
+conoce como Evaporación Máxima.
+   I.4 Para determinar el calor por convección (C):
+   Se traza un segmento de recta que inicia con el valor de la velocidad del aire y concluye en el valor de la
+temperatura de bulbo seco (ts) en el nomograma No. 1. El punto de intersección se conoce como calor por
+convección (C).
+   I.5 Para determinar la constante de paso (K):
+   Se traza un segmento de recta que inicia con el valor de la presión de vapor (Vpa) y concluye con el valor
+de la diferencia entre la temperatura de globo (tg) y la temperatura de bulbo seco (ts) en las escalas
+respectivas del nomograma No. 1. El punto de intersección se conoce como el valor de la constante de
+paso (K).
+   Del nomograma No. 2:
+   I.6 Para determinar la temperatura media radiante (tw):
+    Se traza un segmento de recta que inicia con el valor de la constante de paso K y se concluye con el valor
+de la temperatura de globo, el valor que le corresponde a la temperatura media radiante es el punto donde se
+intersecta la escala de la temperatura media radiante (tw) y el segmento de recta trazado.
+   I.7 Para determinar el calor por radiación (R):
+   Se traza un segmento de recta ascendente que inicia con el valor de la temperatura media radiante y
+concluye donde se intersecta con la escala de radiación R, como se observa en este nomograma.
+   I.8 Para determinar el valor del metabolismo de la actividad y el intercambio de radiación:
+   Viernes 14 de junio de 2002                DIARIO OFICIAL              (Cuarta Sección)             13
+
+    Se traza un segmento de recta que inicia con el valor de la temperatura media radiante y concluye con el
+valor del metabolismo. El punto de intersección como se observa en el nomograma No. 2 es el valor del
+metabolismo y radiación.
+   I.9 Para determinar la energía requerida (Ereq):
+   Se traza un segmento de recta que inicia con el valor del metabolismo y radiación, mismo que concluye
+con el valor del calor de convección, en las escalas respectivas del nomograma No. 2. El punto de intersección
+en Ereq se considera como valor de la energía requerida (Ereq).
+   14       (Cuarta Sección)                 DIARIO OFICIAL         Viernes 14 de junio de 2002
+
+
+
+
+   I.10 Para determinar el tiempo de exposición permisible:
+   Se traza una línea recta que una al valor Ereq con el valor de la evaporación disponible (Emáx). El punto por donde cruza la línea se considera como el tiempo de
+exposición permisible.
+   Carta psicrométrica
+   Presión barométrica 1 000 milibares
+   (750 mmHg o 29.53 plg de Hg.).
+                                                                       Carta psicrométrica
+Viernes 14 de junio de 2002   DIARIO OFICIAL   (Cuarta Sección)   15
+
+
+
+
+                        1
+
+
+
+
+                    2
+
+
+
+
+                              NOMOGRAMA No.1
+16   (Cuarta Sección)         DIARIO OFICIAL     Viernes 14 de junio de 2002
+
+
+
+
+                             NOMOGRAMA No.2
+                        ____________________________
+

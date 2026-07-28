@@ -1,0 +1,812 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n    Establecer los requerimientos de iluminación en las áreas de los centros de trabajo, para que se cuente\ncon la cantidad de iluminación requerida para cada actividad visual, a fin de proveer un ambiente seguro y\nsaludable en la realización de las tareas que desarrollen los trabajadores.",
+    "start_char": 4865,
+    "end_char": 5167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n   La presente Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo.",
+    "start_char": 5171,
+    "end_char": 5292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n    Para la correcta interpretación de esta Norma, debe consultarse la siguiente norma oficial mexicana\nvigente o la que la sustituya:\n   NOM-008-SCFI-2002, Sistema general de unidades de medida.",
+    "start_char": 5296,
+    "end_char": 5506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n   Para efectos de esta Norma, se establecen las definiciones siguientes:",
+    "start_char": 5510,
+    "end_char": 5599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.1",
+    "label": "4.1. Area de trabajo: es el lugar del centro de trabajo donde normalmente un trabajador desarrolla sus",
+    "text": "4.1. Area de trabajo: es el lugar del centro de trabajo donde normalmente un trabajador desarrolla sus\nactividades.",
+    "start_char": 5604,
+    "end_char": 5719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.2",
+    "label": "4.2. Autoridad del trabajo, autoridad laboral: las unidades administrativas competentes de la Secretaría",
+    "text": "4.2. Autoridad del trabajo, autoridad laboral: las unidades administrativas competentes de la Secretaría\ndel Trabajo y Previsión Social, que realicen funciones de inspección en materia de seguridad e higiene en el\ntrabajo y las correspondientes de las entidades federativas y del Distrito Federal, que actúen en auxilio de\naquéllas.",
+    "start_char": 5724,
+    "end_char": 6056
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.3",
+    "label": "4.3. Brillo: es la intensidad luminosa que una superficie proyecta en una dirección dada, por unidad de",
+    "text": "4.3. Brillo: es la intensidad luminosa que una superficie proyecta en una dirección dada, por unidad de\nárea. Se recomienda que la relación de brillos en áreas industriales no sea mayor de 3:1 en el puesto de\ntrabajo y en cualquier parte del campo visual no mayor de 10:1.",
+    "start_char": 6061,
+    "end_char": 6333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.4",
+    "label": "4.4. Centro de trabajo: todos aquellos lugares tales como edificios, locales, instalaciones y áreas, en los",
+    "text": "4.4. Centro de trabajo: todos aquellos lugares tales como edificios, locales, instalaciones y áreas, en los\nque se realicen actividades de producción, comercialización, transporte y almacenamiento o prestación de\nservicios, o en el que laboren personas que estén sujetas a una relación de trabajo.",
+    "start_char": 6337,
+    "end_char": 6634
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.5",
+    "label": "4.5. Condición crítica de iluminación: deficiencia de iluminación en el sitio de trabajo o niveles muy altos",
+    "text": "4.5. Condición crítica de iluminación: deficiencia de iluminación en el sitio de trabajo o niveles muy altos\nque bien pueden requerir un esfuerzo visual adicional del trabajador o provocarle deslumbramiento.",
+    "start_char": 6638,
+    "end_char": 6845
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.6",
+    "label": "4.6. Deslumbramiento: es cualquier brillo que produce molestia y que provoca interferencia a la visión o",
+    "text": "4.6. Deslumbramiento: es cualquier brillo que produce molestia y que provoca interferencia a la visión o\nfatiga visual.",
+    "start_char": 6850,
+    "end_char": 6969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.7",
+    "label": "4.7. Iluminación complementaria: es aquella proporcionada por un alumbrado adicional al considerado",
+    "text": "4.7. Iluminación complementaria: es aquella proporcionada por un alumbrado adicional al considerado\nen la iluminación general, para aumentar el nivel de iluminación en un área determinada o plano de trabajo.",
+    "start_char": 6974,
+    "end_char": 7181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.8",
+    "label": "4.8. Iluminación especial: es la cantidad de luz específica requerida para la actividad que conforme a la",
+    "text": "4.8. Iluminación especial: es la cantidad de luz específica requerida para la actividad que conforme a la\nnaturaleza de la misma tenga una exigencia visual elevada mayor de 1000 luxes o menor de 100 luxes, para\nla velocidad de funcionamiento del ojo (tamaño, distancia y colores de la tarea visual) y la exactitud con que\nse lleva a cabo la actividad.",
+    "start_char": 7186,
+    "end_char": 7537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.9",
+    "label": "4.9. Iluminación; iluminancia: es la relación de flujo luminoso incidente en una superficie por unidad de",
+    "text": "4.9. Iluminación; iluminancia: es la relación de flujo luminoso incidente en una superficie por unidad de\nárea, expresada en luxes.\n\f     Martes 30 de diciembre de 2008              DIARIO OFICIAL                                (Primera Sección)",
+    "start_char": 7541,
+    "end_char": 7786
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.10",
+    "label": "4.10. Iluminación localizada: es aquella proporcionada por un alumbrado diseñado sólo para",
+    "text": "4.10. Iluminación localizada: es aquella proporcionada por un alumbrado diseñado sólo para\nproporcionar iluminación en un plano de trabajo.",
+    "start_char": 7791,
+    "end_char": 7930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.11",
+    "label": "4.11. Luminaria; luminario: equipo de iluminación que distribuye, filtra o controla la luz emitida por una",
+    "text": "4.11. Luminaria; luminario: equipo de iluminación que distribuye, filtra o controla la luz emitida por una\nlámpara o lámparas, que incluye todos los accesorios necesarios para fijar, proteger y operar esas lámparas,\ny los necesarios para conectarse al circuito de utilización eléctrica.",
+    "start_char": 7935,
+    "end_char": 8221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.12",
+    "label": "4.12. Luxómetro; Medidor de iluminancia: es un instrumento diseñado y utilizado para medir niveles de",
+    "text": "4.12. Luxómetro; Medidor de iluminancia: es un instrumento diseñado y utilizado para medir niveles de\niluminación o iluminancia, en luxes.",
+    "start_char": 8226,
+    "end_char": 8364
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.13",
+    "label": "4.13. Nivel de iluminación: cantidad de flujo luminoso por unidad de área medido en un plano de trabajo",
+    "text": "4.13. Nivel de iluminación: cantidad de flujo luminoso por unidad de área medido en un plano de trabajo\ndonde se desarrollan actividades, expresada en luxes.",
+    "start_char": 8368,
+    "end_char": 8525
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.14",
+    "label": "4.14. Plano de trabajo: es la superficie horizontal, vertical u oblicua, en la cual generalmente los",
+    "text": "4.14. Plano de trabajo: es la superficie horizontal, vertical u oblicua, en la cual generalmente los\ntrabajadores desarrollan su trabajo, con niveles de iluminación específicos.",
+    "start_char": 8530,
+    "end_char": 8707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.15",
+    "label": "4.15. Puntos focales de las luminarias: es la proyección vertical de la lámpara al plano o área de trabajo",
+    "text": "4.15. Puntos focales de las luminarias: es la proyección vertical de la lámpara al plano o área de trabajo\ncon inclinación de 0º, que contiene la dirección del haz de luz.",
+    "start_char": 8711,
+    "end_char": 8882
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:4-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "4.16",
+    "label": "4.16. Reflexión: es la luz que incide en un cuerpo y es proyectada o reflejada por su superficie con el",
+    "text": "4.16. Reflexión: es la luz que incide en un cuerpo y es proyectada o reflejada por su superficie con el\nmismo ángulo con el que incidió.\n    4.14. Sistema de iluminación: es el conjunto de luminarias de un área o plano de trabajo, distribuidas de\ntal manera que proporcionen un nivel de iluminación específico para la realización de las actividades.\n     4.15. Tarea visual: actividad que se desarrolla con determinadas condiciones de iluminación.",
+    "start_char": 8886,
+    "end_char": 9333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 9339,
+    "end_char": 9365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "5.1",
+    "label": "5.1. Mostrar a la autoridad del trabajo, cuando así lo solicite, los documentos que la presente Norma le",
+    "text": "5.1. Mostrar a la autoridad del trabajo, cuando así lo solicite, los documentos que la presente Norma le\nobligue a elaborar o poseer.",
+    "start_char": 9370,
+    "end_char": 9503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "5.2",
+    "label": "5.2. Contar con los niveles de iluminación en las áreas de trabajo o en las tareas visuales de acuerdo con",
+    "text": "5.2. Contar con los niveles de iluminación en las áreas de trabajo o en las tareas visuales de acuerdo con\nla Tabla 1 del Capítulo 7.",
+    "start_char": 9508,
+    "end_char": 9641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "5.3",
+    "label": "5.3. Efectuar el reconocimiento de las condiciones de iluminación de las áreas y puestos de trabajo, según",
+    "text": "5.3. Efectuar el reconocimiento de las condiciones de iluminación de las áreas y puestos de trabajo, según\nlo establecido en el Capítulo 8.",
+    "start_char": 9646,
+    "end_char": 9785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "5.4",
+    "label": "5.4. Contar con el informe de resultados de la evaluación de los niveles de iluminación de las áreas,",
+    "text": "5.4. Contar con el informe de resultados de la evaluación de los niveles de iluminación de las áreas,\nactividades o puestos de trabajo que cumpla con en los apartados 5.2 y 10.4 de la presente Norma, y\nconservarlo mientras se mantengan las condiciones que dieron origen a ese resultado.",
+    "start_char": 9790,
+    "end_char": 10076
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "5.5",
+    "label": "5.5. Realizar la evaluación de los niveles de iluminación de acuerdo con lo establecido en los capítulos 8 y",
+    "text": "5.5. Realizar la evaluación de los niveles de iluminación de acuerdo con lo establecido en los capítulos 8 y\n9.",
+    "start_char": 10082,
+    "end_char": 10193
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "5.6",
+    "label": "5.6. Llevar a cabo el control de los niveles de iluminación, según lo establecido en el Capítulo 10.",
+    "text": "5.6. Llevar a cabo el control de los niveles de iluminación, según lo establecido en el Capítulo 10.",
+    "start_char": 10199,
+    "end_char": 10299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "5.7",
+    "label": "5.7. Contar con un reporte del estudio elaborado para las condiciones de iluminación del centro de trabajo,",
+    "text": "5.7. Contar con un reporte del estudio elaborado para las condiciones de iluminación del centro de trabajo,\nsegún lo establecido en el Capítulo 12.",
+    "start_char": 10303,
+    "end_char": 10450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "5.8",
+    "label": "5.8. Informar a todos los trabajadores, sobre los riesgos que puede provocar un deslumbramiento o un",
+    "text": "5.8. Informar a todos los trabajadores, sobre los riesgos que puede provocar un deslumbramiento o un\nnivel deficiente de iluminación en sus áreas o puestos de trabajo.",
+    "start_char": 10455,
+    "end_char": 10622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "5.9",
+    "label": "5.9. Practicar exámenes con periodicidad anual de agudeza visual, campimetría y de percepción de",
+    "text": "5.9. Practicar exámenes con periodicidad anual de agudeza visual, campimetría y de percepción de\ncolores a los trabajadores que desarrollen sus actividades en áreas del centro de trabajo que cuenten con\niluminación especial.",
+    "start_char": 10627,
+    "end_char": 10851
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:5-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "5.10",
+    "label": "5.10. Elaborar y ejecutar un programa de mantenimiento para las luminarias del centro de trabajo,",
+    "text": "5.10. Elaborar y ejecutar un programa de mantenimiento para las luminarias del centro de trabajo,\nincluyendo los sistemas de iluminación de emergencia, según lo establecido en el Capítulo 11.",
+    "start_char": 10856,
+    "end_char": 11047
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:5-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "5.11",
+    "label": "5.11. Instalar sistemas de iluminación eléctrica de emergencia, en aquellas áreas del centro de trabajo",
+    "text": "5.11. Instalar sistemas de iluminación eléctrica de emergencia, en aquellas áreas del centro de trabajo\ndonde la interrupción de la fuente de luz artificial represente un riesgo en la tarea visual del puesto de trabajo,\no en las áreas consideradas como ruta de evacuación que lo requieran.",
+    "start_char": 11051,
+    "end_char": 11340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "6",
+    "label": "6. Obligaciones de los trabajadores",
+    "text": "6. Obligaciones de los trabajadores",
+    "start_char": 11346,
+    "end_char": 11381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "6.1",
+    "label": "6.1. Informar al patrón sobre las condiciones inseguras, derivadas de las condiciones de iluminación en su",
+    "text": "6.1. Informar al patrón sobre las condiciones inseguras, derivadas de las condiciones de iluminación en su\nárea o puesto de trabajo.",
+    "start_char": 11385,
+    "end_char": 11517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "6.2",
+    "label": "6.2. Utilizar los sistemas de iluminación de acuerdo a las instrucciones del patrón.",
+    "text": "6.2. Utilizar los sistemas de iluminación de acuerdo a las instrucciones del patrón.",
+    "start_char": 11523,
+    "end_char": 11607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "6.3",
+    "label": "6.3. Colaborar en las evaluaciones de los niveles de las áreas o puestos de trabajo y observar las medidas",
+    "text": "6.3. Colaborar en las evaluaciones de los niveles de las áreas o puestos de trabajo y observar las medidas\nde control implementadas por el patrón.",
+    "start_char": 11611,
+    "end_char": 11757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "6.4",
+    "label": "6.4. Someterse a los exámenes de la vista que indique el patrón.",
+    "text": "6.4. Someterse a los exámenes de la vista que indique el patrón.\n\f       (Primera Sección)                         DIARIO OFICIAL                    Martes 30 de diciembre de 2008",
+    "start_char": 11763,
+    "end_char": 11942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "7",
+    "label": "7. Niveles de Iluminación para tareas visuales y áreas de trabajo",
+    "text": "7. Niveles de Iluminación para tareas visuales y áreas de trabajo\n    Los niveles mínimos de iluminación que deben incidir en el plano de trabajo, para cada tipo de tarea visual\no área de trabajo, son los establecidos en la Tabla 1.\n                                                     Tabla 1\n                                              Niveles de Iluminación\n  Tarea Visual del Puesto de Trabajo                    Area de Trabajo                     Niveles Mínimos de\n                                                                                            Iluminación (luxes)\n En exteriores: distinguir el área de Exteriores     generales:           patios       y             20\n tránsito,    desplazarse   caminando, estacionamientos.\n vigilancia, movimiento de vehículos.\n En interiores: distinguir el área de Interiores generales: almacenes de poco                        50\n tránsito,    desplazarse   caminando, movimiento,      pasillos,    escaleras,\n vigilancia, movimiento de vehículos.  estacionamientos cubiertos, labores en\n                                       minas subterráneas, iluminación de\n                                       emergencia.\n En interiores.                           Areas de circulación y pasillos; salas de                 100\n                                          espera; salas de descanso; cuartos de\n                                          almacén;    plataformas;    cuartos    de\n                                          calderas.\n Requerimiento        visual    simple: Servicios al personal: almacenaje rudo,                     200\n inspección visual, recuento de piezas, recepción y despacho, casetas de\n trabajo en banco y máquina.            vigilancia, cuartos de compresores y\n                                        pailería.\n Distinción moderada de detalles: Talleres: áreas de empaque y ensamble,                            300\n ensamble simple, trabajo medio en aulas y oficinas.\n banco y máquina, inspección simple,\n empaque y trabajos de oficina.\n Distinción   clara    de     detalles: Talleres de precisión: salas de cómputo,                    500\n maquinado y acabados delicados, áreas de dibujo, laboratorios.\n ensamble         de       inspección\n moderadamente difícil, captura y\n procesamiento de información, manejo\n de instrumentos y equipo de\n laboratorio.\n Distinción fina de detalles: maquinado Talleres de alta precisión: de pintura y                    750\n de precisión, ensamble e inspección acabado de superficies y laboratorios de\n de trabajos delicados, manejo de control de calidad.\n instrumentos y equipo de precisión,\n manejo de piezas pequeñas.\n Alta exactitud en la distinción de Proceso: ensamble e inspección de                              1,000\n detalles:   ensamble,   proceso      e piezas complejas y acabados con pulidos\n inspección de piezas pequeñas y finos.\n complejas, acabado con pulidos finos.\n Alto grado de especialización en la Proceso de gran exactitud.                                    2,000\n distinción de detalles.\n                                     Ejecución de tareas visuales:\n                                          •      de bajo contraste y tamaño muy\n                                                 pequeño por periodos prolongados;\n                                          •      exactas y muy prolongadas, y\n                                          •      muy especiales de extremadamente\n                                                 bajo contraste y pequeño tamaño.\n\f   Martes 30 de diciembre de 2008                DIARIO OFICIAL                                (Primera Sección)",
+    "start_char": 11947,
+    "end_char": 15570
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "8",
+    "label": "8. Reconocimiento de las condiciones de iluminación",
+    "text": "8. Reconocimiento de las condiciones de iluminación",
+    "start_char": 15575,
+    "end_char": 15626
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "8.1",
+    "label": "8.1. El propósito del reconocimiento es identificar aquellas áreas del centro de trabajo y las tareas visuales",
+    "text": "8.1. El propósito del reconocimiento es identificar aquellas áreas del centro de trabajo y las tareas visuales\nasociadas a los puestos de trabajo, asimismo, identificar aquéllas donde exista una iluminación deficiente o\nexceso de iluminación que provoque deslumbramiento.\n    Para lo anterior, se debe realizar un recorrido por todas las áreas del centro de trabajo donde los\ntrabajadores realizan sus tareas visuales, y considerar, en su caso, los reportes de los trabajadores, así como\nrecabar la información técnica.",
+    "start_char": 15630,
+    "end_char": 16149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "8.2",
+    "label": "8.2. Para determinar las áreas y tareas visuales de los puestos de trabajo debe recabarse y registrarse la",
+    "text": "8.2. Para determinar las áreas y tareas visuales de los puestos de trabajo debe recabarse y registrarse la\ninformación del reconocimiento de las condiciones de iluminación de las áreas de trabajo, así como de las\náreas donde exista una iluminación deficiente o se presente deslumbramiento y, posteriormente, conforme se\nmodifiquen las características de las luminarias o las condiciones de iluminación del área de trabajo, con los\ndatos siguientes:\n   a)    Distribución de las áreas de trabajo, del sistema de iluminación (número y distribución de luminarias),\n         de la maquinaria y del equipo de trabajo;\n   b)    Potencia de las lámparas;\n   c)    Descripción del área iluminada: colores y tipo de superficies del local o edificio;\n   d)    Descripción de las tareas visuales y de las áreas de trabajo, de acuerdo con la Tabla 1 del Capítulo 7;\n   e)    Descripción de los puestos de trabajo que requieren iluminación localizada, y\n   f)    La información sobre la percepción de las condiciones de iluminación por parte del trabajador al\n         patrón.",
+    "start_char": 16154,
+    "end_char": 17217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "9",
+    "label": "9. Evaluación de los niveles de iluminación",
+    "text": "9. Evaluación de los niveles de iluminación",
+    "start_char": 17221,
+    "end_char": 17264
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "9.1",
+    "label": "9.1. A partir de los registros del reconocimiento, se debe realizar la evaluación de los niveles de",
+    "text": "9.1. A partir de los registros del reconocimiento, se debe realizar la evaluación de los niveles de\niluminación en las áreas o puestos de trabajo de acuerdo con lo establecido en el Apéndice A.",
+    "start_char": 17269,
+    "end_char": 17462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:9-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "9.1.1",
+    "label": "9.1.1. Determinar el factor de reflexión en el plano de trabajo y paredes que por su cercanía al trabajador",
+    "text": "9.1.1. Determinar el factor de reflexión en el plano de trabajo y paredes que por su cercanía al trabajador\nafecten las condiciones de iluminación, según lo establecido en el Apéndice B, y compararlo contra los niveles\nmáximos permisibles del factor de reflexión de la Tabla 2.\n                                                     Tabla 2\n                           Niveles Máximos Permisibles del Factor de Reflexión\n                    Concepto                    Niveles Máximos Permisibles de Reflexión, Kf\n           Paredes                      60%\n           Plano de trabajo             50%\n          Nota: Se considera que existe deslumbramiento en el área y puesto de trabajo, cuando el valor de\n          la reflexión (Kf) supere los valores establecidos en la Tabla 2.",
+    "start_char": 17466,
+    "end_char": 18246
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:9-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "9.1.2",
+    "label": "9.1.2. La evaluación de los niveles de iluminación debe realizarse en una jornada laboral bajo condiciones",
+    "text": "9.1.2. La evaluación de los niveles de iluminación debe realizarse en una jornada laboral bajo condiciones\nnormales de operación, se puede hacer por áreas de trabajo, puestos de trabajo o una combinación de los\nmismos.",
+    "start_char": 18250,
+    "end_char": 18468
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "10",
+    "label": "10. Control",
+    "text": "10. Control",
+    "start_char": 18472,
+    "end_char": 18483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "10.1",
+    "label": "10.1. Si en el resultado de la evaluación de los niveles de iluminación se detectaron áreas o puestos de",
+    "text": "10.1. Si en el resultado de la evaluación de los niveles de iluminación se detectaron áreas o puestos de\ntrabajo que deslumbren al trabajador, se deben aplicar medidas de control para evitar que el deslumbramiento\nlo afecte.",
+    "start_char": 18488,
+    "end_char": 18712
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "10.2",
+    "label": "10.2. Si en el resultado de la medición se observa que los niveles de iluminación en las áreas de trabajo o",
+    "text": "10.2. Si en el resultado de la medición se observa que los niveles de iluminación en las áreas de trabajo o\nlas tareas visuales están por debajo de los niveles indicados en la Tabla 1 del Capítulo 7 o que los factores de\nreflexión estén por encima de lo establecido en la Tabla 2 del Capítulo 9, se deben adoptar las medidas de\ncontrol necesarias, entre otras, dar mantenimiento a las luminarias, modificar el sistema de iluminación o su\ndistribución y/o instalar iluminación complementaria o localizada. Para esta última medida de control, en\ndonde se requiera una mayor iluminación, se deben considerar los siguientes aspectos:\n   a)    Evitar el deslumbramiento directo o por reflexión al trabajador;\n   b)    Seleccionar un fondo visual adecuado a las actividades de los trabajadores;\n   c)    Evitar bloquear la iluminación durante la realización de la actividad, y\n   d)    Evitar las zonas donde existan cambios bruscos de iluminación.",
+    "start_char": 18717,
+    "end_char": 19659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "10.3",
+    "label": "10.3. Se debe elaborar y cumplir un programa de medidas de control a desarrollar, considerando al menos",
+    "text": "10.3. Se debe elaborar y cumplir un programa de medidas de control a desarrollar, considerando al menos\nlas previstas en 10.2.",
+    "start_char": 19664,
+    "end_char": 19790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "10.4",
+    "label": "10.4. Una vez que se han realizado las medidas de control, se tiene que realizar una evaluación para",
+    "text": "10.4. Una vez que se han realizado las medidas de control, se tiene que realizar una evaluación para\nverificar que las nuevas condiciones de iluminación cumplen con lo establecido en la presente Norma.\n\f        (Primera Sección)                        DIARIO OFICIAL                   Martes 30 de diciembre de 2008",
+    "start_char": 19795,
+    "end_char": 20110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "11",
+    "label": "11. Mantenimiento",
+    "text": "11. Mantenimiento\n   En el mantenimiento de las luminarias se deberá tomar en cuenta lo siguiente:\n   a)     La limpieza de las luminarias;\n   b)     La ventilación de las luminarias;\n   c)     El reemplazo de las luminarias cuando dejen de funcionar, o después de transcurrido el número\n          predeterminado de horas de funcionamiento establecido por el fabricante;\n   d)     Los elementos que eviten el deslumbramiento directo y por reflexión, así como el efecto\n          estroboscópico, y\n   e)     Los elementos de preencendido o de calentamiento.",
+    "start_char": 20115,
+    "end_char": 20671
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "12",
+    "label": "12. Reporte del estudio",
+    "text": "12. Reporte del estudio",
+    "start_char": 20675,
+    "end_char": 20698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "12.1",
+    "label": "12.1. Se debe elaborar y mantener un reporte que contenga la información recabada en el reconocimiento,",
+    "text": "12.1. Se debe elaborar y mantener un reporte que contenga la información recabada en el reconocimiento,\nlos documentos que lo complementen y los datos obtenidos durante la evaluación, con al menos la\ninformación siguiente:\n   a)     El informe descriptivo de las condiciones normales de operación, en las cuales se realizó la\n          evaluación de los niveles de iluminación, incluyendo las descripciones del proceso, instalaciones,\n          puestos de trabajo y el número de trabajadores expuestos por área y puesto de trabajo;\n   b)     La distribución del área evaluada, en el que se indique la ubicación de los puntos de medición;\n   c)     Los resultados de la evaluación de los niveles de iluminación indicando su incertidumbre;\n   d)     La comparación e interpretación de los resultados obtenidos, contra lo establecido en las Tablas 1 y\n          2 de los Capítulos 7 y 9, respectivamente;\n   e)     La hora en que se efectuaron las mediciones;\n   f)     El programa de mantenimiento;\n   g)     La copia del documento que avale la calibración del luxómetro expedida por un laboratorio acreditado\n          y aprobado conforme a lo establecido en la Ley Federal sobre Metrología y Normalización, y que\n          cumpla con las disposiciones estipuladas en esta Norma;\n   h)     La conclusión técnica del estudio;\n   i)     Las medidas de control a desarrollar y el programa de implantación;\n   j)     Nombre y firma del responsable del estudio, y\n   k)     Los resultados de las evaluaciones hasta cumplir con lo establecido en las Tablas 1 y 2 de los\n          Capítulos 7 y 9, respectivamente.",
+    "start_char": 20703,
+    "end_char": 22309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "13",
+    "label": "13. Unidades de Verificación y Laboratorios de Prueba",
+    "text": "13. Unidades de Verificación y Laboratorios de Prueba",
+    "start_char": 22313,
+    "end_char": 22366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:13-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "13.1",
+    "label": "13.1. El patrón tendrá la opción de contratar una unidad de verificación o un laboratorio de pruebas,",
+    "text": "13.1. El patrón tendrá la opción de contratar una unidad de verificación o un laboratorio de pruebas,\nacreditados y aprobados, en los términos de la Ley Federal sobre Metrología y Normalización y su\nReglamento, para verificar el grado de cumplimiento con la presente Norma.",
+    "start_char": 22370,
+    "end_char": 22643
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:13-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "13.2",
+    "label": "13.2. Unidades de verificación y laboratorios de pruebas contratados a petición de parte deben verificar el",
+    "text": "13.2. Unidades de verificación y laboratorios de pruebas contratados a petición de parte deben verificar el\ngrado de cumplimiento de acuerdo con lo establecido en el procedimiento para la evaluación de la\nconformidad.",
+    "start_char": 22647,
+    "end_char": 22864
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:13-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "13.3",
+    "label": "13.3. La vigencia del dictamen de verificación cuando éste sea favorable, será de dos años, y el informe",
+    "text": "13.3. La vigencia del dictamen de verificación cuando éste sea favorable, será de dos años, y el informe\nde resultados será válido y se conservará siempre y cuando, se mantengan las condiciones que dieron origen\nal resultado de la evaluación.",
+    "start_char": 22869,
+    "end_char": 23111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:13-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "13.4",
+    "label": "13.4. Los laboratorios de pruebas sólo podrán evaluar lo establecido en los Capítulos 8 y 9 de la presente",
+    "text": "13.4. Los laboratorios de pruebas sólo podrán evaluar lo establecido en los Capítulos 8 y 9 de la presente\nNorma.",
+    "start_char": 23115,
+    "end_char": 23228
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:13-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "13.5",
+    "label": "13.5. Las unidades de verificación deben entregar al patrón el dictamen de verificación favorable cuando",
+    "text": "13.5. Las unidades de verificación deben entregar al patrón el dictamen de verificación favorable cuando\nse hayan cubierto los requerimientos de la presente Norma Oficial Mexicana.",
+    "start_char": 23232,
+    "end_char": 23412
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "14",
+    "label": "14. Procedimiento para la evaluación de la conformidad",
+    "text": "14. Procedimiento para la evaluación de la conformidad",
+    "start_char": 23416,
+    "end_char": 23470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:14-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "14.1",
+    "label": "14.1. Generalidades.",
+    "text": "14.1. Generalidades.",
+    "start_char": 23474,
+    "end_char": 23494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:14-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "14.2",
+    "label": "14.2. Este procedimiento para la evaluación de la conformidad aplica en las visitas de inspección",
+    "text": "14.2. Este procedimiento para la evaluación de la conformidad aplica en las visitas de inspección\ndesarrolladas por la autoridad laboral, y en las visitas de verificación que realicen las unidades de verificación.",
+    "start_char": 23498,
+    "end_char": 23711
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:14-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "14.3",
+    "label": "14.3. Para obtener el directorio vigente de las unidades de verificación que están aprobadas ante la",
+    "text": "14.3. Para obtener el directorio vigente de las unidades de verificación que están aprobadas ante la\ndependencia y pueden extender el dictamen de conformidad con esta Norma Oficial Mexicana, podrán\ningresar a la página de la Secretaría del Trabajo y Previsión Social, vía Internet en la dirección: www.stps.gob.mx.\n    14.1.1. El interesado que obtuvo la evaluación de la conformidad con la presente Norma a través de una\nunidad de verificación, debe conservar el dictamen de verificación y tenerlo a la disposición de la autoridad del\ntrabajo cuando ésta lo solicite de acuerdo a lo establecido en el apartado 13.5.\n\f   Martes 30 de diciembre de 2008                   DIARIO OFICIAL                                       (Primera Sección)\n\n   14.1.2. Los aspectos a verificar durante la evaluación de la conformidad que son aplicables mediante la\nconstatación física o documental, o a través de entrevista, son:\n  Disposición    Comprobación                Criterios de aceptación                            Observaciones\n      5.2.           Física         El patrón cumple cuando derivado de un La evidencia es la evaluación de la\n                                    recorrido por el centro de trabajo, se iluminación de las tareas visuales del\n                                    comprueba que para las tareas por puesto de trabajo o áreas de trabajo\n                                    puesto o área de trabajo, los niveles de comparadas con la Tabla 1 del Capítulo\n                                    iluminación corresponden a los de la 7.\n                                    Tabla 1 del Capítulo 7.\n      5.3.        Documental        El patrón cumple cuando:                        El reconocimiento aplica para aquellas\n                                      •    Presenta el        registro de       la áreas o tareas visuales que de acuerdo a\n                                           información recopilada en el la Tabla 1 del Capítulo 7.\n                                           reconocimiento de las áreas y El requerimiento podrá ser realizado por\n                                           puestos de trabajo.                      un laboratorio de pruebas acreditado y\n                                      •    El registro contiene al menos la aprobado.\n                                           siguiente información técnica y\n                                           administrativa que haya servido al\n                                           patrón para seleccionar las áreas y\n                                           puestos de trabajo evaluadas:\n                                           9 Distribución de las áreas de\n                                                trabajo,    del    sistema     de\n                                                iluminación       (número         y\n                                                distribución de luminarias), así\n                                                como de la maquinaria y\n                                                equipo;\n                                           9 Potencia de las lámparas;\n                                           9 Descripción           del       área\n                                                iluminada: colores y tipo de\n                                                superficies del local o edificio;\n                                           9 Descripción de las tareas\n                                                visuales y de las áreas de\n                                                trabajo de acuerdo con la\n                                                Tabla 1 del Capítulo 7, y\n                                           9 Descripción de los puestos de\n                                                trabajo       que       requieren\n                                                iluminación localizada.\n   5.4. y 5.5.    Documental        El patrón cumple cuando:\n                                      •    Presenta las evidencias de la La evaluación aplica para aquellas áreas\n                                           evaluación de los niveles de o tareas visuales que de acuerdo a la\n                                           iluminación de las áreas y puestos Tabla 1 del Capítulo 7.\n                                           de trabajo, y                            El documento que se puede presentar es\n                                      •    La evaluación se realizó de el mismo que se genera al cumplir el\n                                           acuerdo a los Capítulos 8 y 9, así Capítulo 12 (reporte del estudio).\n                                           como con el apartado 10.4\n      5.6.        Documental        El patrón cumple cuando:                        Los aspectos a considerar para las\n                                      •    Si derivado de la evaluación no se medidas de control, pueden ser:\n                                           identificaron deficiencias o excesos 9 Evitar el deslumbramiento directo o\n                                           de iluminación en las áreas o                 por reflexión al trabajador;\n                                           puestos de trabajo, por lo que no se 9 Seleccionar             un     fondo    visual\n                                           aplicaron medidas de control.                 adecuado a las actividades de los\n                                      •    Si derivado de la evaluación se               trabajadores;\n                                           identificaron deficiencias o excesos 9 Evitar bloquear la iluminación\n                                           de iluminación en las áreas o                 durante la realización de la actividad,\n                                           puestos de trabajo, se aplicaron las          y\n                                           siguientes medidas de control:           9 Evitar las zonas donde existan\n                                           9 Proporcionó mantenimiento a                 cambios bruscos de iluminación.\n                                                las luminarias;                     9 Los dos últimos criterios de\n                                           9 Modificó        el    sistema     de        aceptación sólo aplicarán cuando el\n                                                iluminación o su distribución;           patrón determine que requiere de\n                                           9 En su caso, instaló la                      iluminación      complementaria       o\n                                                iluminación complementaria o             localizadas\n                                                localizada, y\n                                           9 Derivado del criterio anterior\n                                                presenta evidencias de una\n                                                nueva evaluación donde se\n                                                constata que las nuevas\n                                                condiciones de iluminación\n                                                cumplen con lo establecido en\n                                                la presente Norma.\n\f(Primera Sección)                       DIARIO OFICIAL                   Martes 30 de diciembre de 2008\n\n5.7.        Documental    El patrón cumple cuando presenta el El estudio podrá ser realizado por un\n                          reporte del estudio, con al menos:           laboratorio de pruebas acreditado y\n                           •    El informe descriptivo de las aprobado.\n                                condiciones        normales         de\n                                operación, en las cuales se realizó\n                                la evaluación de los niveles de\n                                iluminación,      incluyendo       las\n                                descripciones       del       proceso,\n                                instalaciones, puestos de trabajo y\n                                el     número     de     trabajadores\n                                expuestos por área y puesto de\n                                trabajo;\n                           •    La distribución del área evaluada,\n                                en el que se indique la ubicación de\n                                los puntos de medición;\n                           •    Los resultados de la evaluación de\n                                los niveles de iluminación indicando\n                                su incertidumbre;\n                           •    La comparación e interpretación de\n                                los resultados obtenidos, contra lo\n                                establecido en las Tablas 1 y 2 de\n                                los      Capítulos      7      y     9\n                                respectivamente;\n                           •    La hora en que se efectuaron las\n                                mediciones;\n                           •    El programa de mantenimiento;\n                           •    La copia del documento que avale\n                                la    calibración    del    luxómetro\n                                expedida      por   un     laboratorio\n                                acreditado y aprobado conforme a\n                                la Ley Federal sobre Metrología y\n                                Normalización, y que cumpla con\n                                las disposiciones estipuladas en\n                                esta Norma;\n                           •    La conclusión técnica del estudio;\n                           •    Las medidas de control a\n                                desarrollar y el programa de\n                                implantación;\n                           •    El nombre y firma del responsable\n                                del estudio;\n                           •    Los resultados de las evaluaciones\n                                hasta cumplir con lo establecido en\n                                las Tablas 1 y 2 de los Capítulos 7\n                                y 9, respectivamente.\n5.8.       Documental o    El patrón cumple cuando:                   La iluminación permite un desarrollo\n            Entrevista    •    Exhibe las evidencias con los eficiente y confortable en las tareas\n                               elementos y/o mecanismos de visuales es un auxilio para el trabajo\n                               difusión para dar a conocer los seguro y apoya en las acciones de\n                               riesgos a los trabajadores de las emergencia (evacuación).\n                               áreas o puestos de trabajo con\n                               iluminación deficiente, excesiva o que\n                               provoque deslumbramiento, o\n                          •    Al realizar la(s) entrevista(s) al\n                               personal del centro de trabajo\n                               involucrado en las áreas o puestos\n                               de trabajo, se constata que\n                               identifican los riesgos relacionados\n                               con iluminación deficiente, excesiva o\n                               que provoque deslumbramiento.\n5.9.        Documental    El patrón cumple cuando presenta los Esta disposición aplica para los casos en\n                          exámenes médicos visuales realizados a que los trabajadores desarrollen sus\n                          los trabajadores para agudeza visual, actividades en zonas identificadas como\n                          campimetría y de percepción de colores, de alto riesgo, cuyas actividades tengan\n                          con una periodicidad anual.             una exigencia visual elevada.\n                                                                  El médico puede ser interno o externo\n                                                                  como lo establece la NOM-030-STPS-\n                                                                  2006.\n\f   Martes 30 de diciembre de 2008                  DIARIO OFICIAL                                 (Primera Sección)\n\n        5.10.        Documental     El patrón cumple cuando presenta un\n                                    programa     de    mantenimiento que\n                                    contenga al menos:\n                                    9   La limpieza de las luminarias;\n                                    9   La ventilación de las luminarias;\n                                    9   El reemplazo de las luminarias\n                                        cuando dejen de funcionar, o\n                                        después de transcurrido el número\n                                        predeterminado   de    horas   de\n                                        funcionamiento establecido por el\n                                        fabricante;\n                                    9   Los elementos que eviten el\n                                        deslumbramiento directo y por\n                                        reflexión, así como el efecto\n                                        estroboscópico, y\n                                    9   Los elementos de preencendido o de\n                                        calentamiento.\n        5.11.          Física       El patrón cumple cuando, derivado de un Las lámparas de emergencia pueden\n                                    recorrido por las instalaciones del centro estar colocadas en donde la interrupción\n                                    de trabajo, identifica que existen los de la fuente de luz artificial represente un\n                                    sistemas de iluminación de emergencia y riesgo en la tarea visual del puesto de\n                                    éstos están funcionando.                   trabajo o en las áreas consideradas como\n                                                                               ruta de evacuación.\n    Nota: Las evidencias documentales se pueden presentar por escrito o, en medios magnéticos o\nelectrónicos.\n   14.1.3. Las unidades de verificación no deben realizar las siguientes actividades para la empresa evaluada:\n   a)      Diagnóstico, análisis de riesgos, programas o procedimientos, y\n   b)      Proporcionar capacitación a los trabajadores.",
+    "start_char": 23716,
+    "end_char": 38131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "15",
+    "label": "15. Vigilancia",
+    "text": "15. Vigilancia\n   La vigilancia en el cumplimiento de la presente Norma, corresponde a la Secretaría del Trabajo y Previsión Social.",
+    "start_char": 47742,
+    "end_char": 47874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16",
+    "label": "16. Bibliografía",
+    "text": "16. Bibliografía",
+    "start_char": 47878,
+    "end_char": 47894
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.1",
+    "label": "16.1. Ley Federal sobre Metrología y Normalización, publicada en el Diario Oficial de la Federación el 1 de",
+    "text": "16.1. Ley Federal sobre Metrología y Normalización, publicada en el Diario Oficial de la Federación el 1 de\njulio de 1992, México.",
+    "start_char": 47900,
+    "end_char": 48030
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.2",
+    "label": "16.2. Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario",
+    "text": "16.2. Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario\nOficial de la Federación del 21 de enero de 1997, México.",
+    "start_char": 48035,
+    "end_char": 48191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.3",
+    "label": "16.3. Conocimientos Básicos de Higiene y Seguridad en el Trabajo, Ruiz Iturregui, José Ma., Editorial",
+    "text": "16.3. Conocimientos Básicos de Higiene y Seguridad en el Trabajo, Ruiz Iturregui, José Ma., Editorial\nDeusto, 1978, Madrid, España.",
+    "start_char": 48195,
+    "end_char": 48326
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.4",
+    "label": "16.4. Encyclopedia of Occupational Health and Safety, International Labour Office, Geneva. Third Edition",
+    "text": "16.4. Encyclopedia of Occupational Health and Safety, International Labour Office, Geneva. Third Edition\n1983, Fourth Impresion, 1991.",
+    "start_char": 48330,
+    "end_char": 48464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.5",
+    "label": "16.5. Física General, Zemanski, Mark W., Sears, Francis W. Editorial Aguilar, 1966, México.",
+    "text": "16.5. Física General, Zemanski, Mark W., Sears, Francis W. Editorial Aguilar, 1966, México.",
+    "start_char": 48468,
+    "end_char": 48559
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.6",
+    "label": "16.6. Guide on Interior Lighting, 2o. Edition, International Commission on Illumination. CIE 29.2 86, 1998,",
+    "text": "16.6. Guide on Interior Lighting, 2o. Edition, International Commission on Illumination. CIE 29.2 86, 1998,\nVienna, Austria.",
+    "start_char": 48563,
+    "end_char": 48687
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.7",
+    "label": "16.7. I.E.S. Lighting Handbook. 1995, Illuminating Engineering, Society, USA.",
+    "text": "16.7. I.E.S. Lighting Handbook. 1995, Illuminating Engineering, Society, USA.",
+    "start_char": 48691,
+    "end_char": 48768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.8",
+    "label": "16.8. Iluminación Interna, Vittorio Re. Editorial Marcombo, S.A., 1979, Barcelona, España.",
+    "text": "16.8. Iluminación Interna, Vittorio Re. Editorial Marcombo, S.A., 1979, Barcelona, España.",
+    "start_char": 48772,
+    "end_char": 48862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.9",
+    "label": "16.9. Luminotecnia, Enciclopedia CEAC de Electricidad. Dr. Ramírez V., José, Editorial CEAC, S.A., 1972,",
+    "text": "16.9. Luminotecnia, Enciclopedia CEAC de Electricidad. Dr. Ramírez V., José, Editorial CEAC, S.A., 1972,\nMéxico.",
+    "start_char": 48865,
+    "end_char": 48977
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.10",
+    "label": "16.10. Manual de Ingeniería, Perry, J.H.; Perry, R.H. Editorial Labor, S.A., 1966, Madrid, España.",
+    "text": "16.10. Manual de Ingeniería, Perry, J.H.; Perry, R.H. Editorial Labor, S.A., 1966, Madrid, España.",
+    "start_char": 48981,
+    "end_char": 49079
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.11",
+    "label": "16.11. Manual del Alumbrado, Westinghouse. Editorial Dossat, S.A., 1985, Madrid, España.",
+    "text": "16.11. Manual del Alumbrado, Westinghouse. Editorial Dossat, S.A., 1985, Madrid, España.",
+    "start_char": 49083,
+    "end_char": 49171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.12",
+    "label": "16.12 Principios de Iluminación y Niveles de Iluminación en México. Sociedad Mexicana de Ingeniería e",
+    "text": "16.12 Principios de Iluminación y Niveles de Iluminación en México. Sociedad Mexicana de Ingeniería e\nIluminación, Asociación Civil. Revista Ingeniería de Iluminación, mayo-junio 1967, México.",
+    "start_char": 49176,
+    "end_char": 49368
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.13",
+    "label": "16.13. The Industrial Environment. Its Evaluation & Control. U.S. Department of Health, Education, and",
+    "text": "16.13. The Industrial Environment. Its Evaluation & Control. U.S. Department of Health, Education, and\nWelfare Public Health Service; Center for Disease Control; National Institute for Occupational Safety and\nHealth, 1973, USA.",
+    "start_char": 49372,
+    "end_char": 49599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.14",
+    "label": "16.14. Iluminación interna, el instalador cualificado, Vottirio Re, Editorial Marcobo, Boixareu Editores 1979,",
+    "text": "16.14. Iluminación interna, el instalador cualificado, Vottirio Re, Editorial Marcobo, Boixareu Editores 1979,\nBarcelona, España.",
+    "start_char": 49603,
+    "end_char": 49732
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:16-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "16.15",
+    "label": "16.15. Técnicas de iluminación en fotografía y cinematografía, Bernal Francisco, Omega, 2003 Barcelona.",
+    "text": "16.15. Técnicas de iluminación en fotografía y cinematografía, Bernal Francisco, Omega, 2003 Barcelona.",
+    "start_char": 49736,
+    "end_char": 49839
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-025-stps-2008:clause:17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-025-stps-2008",
+    "number": "17",
+    "label": "17. Concordancia con normas internacionales",
+    "text": "17. Concordancia con normas internacionales\n   Esta Norma no concuerda con ninguna norma internacional, por no existir referencia alguna al momento\nde su elaboración.",
+    "start_char": 49843,
+    "end_char": 50009
+  }
+]

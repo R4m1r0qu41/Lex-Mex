@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "ordinal": "Primero",
+    "text": "Primero.- La presente Norma entrará en vigor a los tres años siguientes de su publicación en el Diario Oficial de la\n      Federación.",
+    "start_char": 77832,
+    "end_char": 77966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "ordinal": "Segundo",
+    "text": "Segundo.- Durante el lapso señalado en el artículo anterior, los patrones podrán cumplir con la Norma Oficial Mexicana NOM-\n      018-STPS-2000, Sistema para la identificación y comunicación de peligros y riesgos por sustancias químicas peligrosas en los\n      centros de trabajo, o bien realizarán las adaptaciones para observar las disposiciones de la Norma Oficial Mexicana NOM-018-\n      STPS-2014, Sistema Armonizado para la Identificación y Comunicación de Peligros y Riesgos por Sustancias Químicas\n      Peligrosas en los Centros de Trabajo.",
+    "start_char": 77977,
+    "end_char": 78526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-018-stps-2015:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-018-stps-2015",
+    "ordinal": "Tercero",
+    "text": "Tercero.- Con la entrada en vigor de esta Norma quedará sin efectos la Norma Oficial Mexicana NOM-018-STPS-2000,\n      Sistema para la identificación y comunicación de peligros y riesgos por sustancias químicas peligrosas en los centros de trabajo,\n      publicada en el Diario Oficial de la Federación de 27 de octubre de 2000, la aclaración a dicha norma y su acuerdo de\n      modificación de dos de enero de 2001 y seis de septiembre de 2013, respectivamente.\n         México, Distrito Federal a los diecisiete días del mes de septiembre de dos mil quince.- El Secretario del Trabajo y Previsión\n      Social, Jesús Alfonso Navarrete Prida.- Rúbrica.",
+    "start_char": 78537,
+    "end_char": 79190,
+    "asserted_dates": [
+      "2000-10-27"
+    ]
+  }
+]

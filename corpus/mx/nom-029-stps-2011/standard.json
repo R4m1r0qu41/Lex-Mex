@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-029-stps-2011",
+  "kind": "nom",
+  "designation": "NOM-029-STPS-2011",
+  "official_title": "Mantenimiento de las instalaciones eléctricas en los centros de trabajo-Condiciones de seguridad",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "instalaciones eléctricas",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2011-12-29",
+  "effective_date": "2012-03-29",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-029-STPS-2005"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2022-05-31",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-029-STPS-2011_2022_ultima_revision.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/029stps2011.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5227363&fecha=29/12/2011",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-029-STPS-2011/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "5eba76bab645660de3a317caf5e906afe6fdb01468ff7007bceaa0c2a4fb9100",
+  "extracted_text_sha256": "47521bbe493dbb661e9444e4e90968ae0719fd9a86165a65230b74801a0eba5a",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

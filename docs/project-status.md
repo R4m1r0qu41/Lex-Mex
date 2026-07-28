@@ -2,7 +2,7 @@
 
 - **Status date:** 2026-07-28
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 160 (151 federal corpus instruments plus 9 NOMs)
+- **Committed instruments:** 177 (151 federal corpus instruments plus 26 NOMs)
 - **Active ingestion batch:** `administration_ad2_public_service_mobility`
 - **Next checkpoint:** `lspm`
 - **Current legal reviewer:** JRH
@@ -23,22 +23,22 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 160 |
+| Instruments | 177 |
 | Articles | 33,231 |
 | Original transitory provisions | 1,240 |
 | Annexes | 29 |
-| Standard clauses | 1,487 |
-| Standard transitory provisions | 22 |
+| Standard clauses | 3,238 |
+| Standard transitory provisions | 81 |
 | Reference edges | 17,173 |
 | Unresolved reference edges | 0 |
 | Generated Markdown files | 34,651 |
 
-All 160 `validation.json` reports are valid. They contain 193 non-blocking
+All 177 `validation.json` reports are valid. They contain 194 non-blocking
 warnings: 166 non-numeric/suffixed-article notices, 16 unfrozen count
-baselines, 7 article-gap notices, 2 suffix-order notices, and 2 warnings for
-official standard modifications not incorporated in the retained source
-text. Validity does not imply that temporal analysis or legal review has been
-performed.
+baselines, 7 article-gap notices, 3 warnings for official standard
+modifications not incorporated in the retained source text, and 2
+suffix-order notices. Validity does not imply that temporal analysis or legal
+review has been performed.
 
 ## Federal structural first pass
 
@@ -84,13 +84,25 @@ in `docs/standards-module.md`. Standards have no Markdown export profile
 files` above is unaffected by this addition.
 
 The batch-2 NOM ingestion (`docs/plans/nom-standards-batch-2.md`, staged
-2026-07-28) added four more STPS standards on its first tranche:
-NOM-001-STPS-2008, NOM-004-STPS-1999, NOM-005-STPS-1998, and
-NOM-009-STPS-2011 (86, 12, 72, and 155 clauses; 3 transitories each; all
-`as_published`, zero unconsolidated-modification warnings). One candidate
-from the same tranche, NOM-019-STPS-2011, was held out and flagged rather
-than committed — see `docs/ingestion-difficulty-log.md`
-(`annex-form-numbering`).
+2026-07-28) is complete across all 27 candidates: **21 ingested, 6 held out
+and flagged.** All 21 are `as_published`; NOM-020-STPS-2011 carries the only
+new unconsolidated-modification warning (an ACUERDO de modificación of
+2014-12-09 that the retained text does not incorporate).
+
+The 6 flagged candidates were never compiled into `corpus/`, per the
+hold-out-and-flag policy (`docs/decisions.md` 2026-07-28). They cluster into
+three parser failure classes plus one metadata question, all recorded in
+`docs/ingestion-difficulty-log.md`: `annex-form-numbering`
+(NOM-019-STPS-2011), `annex-continues-numbering` (NOM-010-STPS-2014,
+NOM-035-STPS-2018, NOM-024-STPS-2001), `indice-selected-as-body`
+(NOM-052-SEMARNAT-2005), and `metadata-ambiguity` (NOM-002-SEMARNAT-1996,
+whose retained text is titled NOM-002-ECOL-1996). Every one of the five
+parser cases validated `valid` with 0 issues while being structurally wrong,
+which is the load-bearing finding: `validation.json` checks the internal
+consistency of whichever clause run was selected, never whether the correct
+run was selected. The two cheap discriminators that did catch them —
+clause-span coverage against document length, and whether the run terminates
+at a Bibliografía/Concordancia heading — are not yet implemented as checks.
 
 The active plan is
 [`cluster-2-federal-corpus-ingestion.md`](plans/cluster-2-federal-corpus-ingestion.md).

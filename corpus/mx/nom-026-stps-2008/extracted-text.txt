@@ -1,0 +1,1320 @@
+        (Primera Sección)                        DIARIO OFICIAL                 Martes 25 de noviembre de 2008
+
+
+             SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+NORMA Oficial Mexicana NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de
+riesgos por fluidos conducidos en tuberías.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría del Trabajo y
+Previsión Social.
+    JAVIER LOZANO ALARCON, Secretario del Trabajo y Previsión Social, con fundamento en los artículos
+16 y 40 fracciones I y XI de la Ley Orgánica de la Administración Pública Federal; 512, 523 fracción I, 524 y
+527 último párrafo de la Ley Federal del Trabajo; 3o. fracción XI, 38 fracción II, 40 fracción VII, 46, 47 fracción
+IV, 51 cuarto párrafo y 52 de la Ley Federal sobre Metrología y Normalización; 28 y 34 del Reglamento de la
+Ley Federal sobre Metrología y Normalización; 4o., 17 fracción V, 24, 45, 47 y 87 del Reglamento Federal de
+Seguridad, Higiene y Medio Ambiente de Trabajo; 3o., 5o. y 18 del Reglamento Interior de la Secretaría del
+Trabajo y Previsión Social, y
+                                               CONSIDERANDO
+   Que con fecha 31 de agosto de 2004, en cumplimiento de lo previsto por el artículo 46 fracción I de la Ley
+Federal sobre Metrología y Normalización, la Secretaría del Trabajo y Previsión Social presentó ante el
+Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo, el Anteproyecto de
+Modificación de la presente Norma Oficial Mexicana y que el citado Comité lo consideró correcto y acordó que
+se publicara como Proyecto en el Diario Oficial de la Federación;
+   Que con objeto de cumplir con lo dispuesto en los artículos 69-E y 69-H de la Ley Federal de
+Procedimiento Administrativo, el Anteproyecto correspondiente fue sometido a la consideración de la
+Comisión Federal de Mejora Regulatoria, la que dictaminó favorablemente en relación al mismo;
+     Que con fecha 25 de febrero de 2008, en cumplimiento del Acuerdo del Comité y de lo previsto por el
+artículo 47 fracción I de la Ley Federal sobre Metrología y Normalización, se publicó en el Diario Oficial de la
+Federación el Proyecto de modificación de la Norma Oficial Mexicana NOM-026-STPS-1998, Colores y
+señales de seguridad e higiene, e identificación de riesgos por fluidos conducidos en tuberías, para quedar
+como PROY-NOM-026-STPS-2004, Colores y señales de seguridad e higiene, e identificación de riesgos por
+fluidos conducidos en tuberías, a efecto de que, dentro de los siguientes 60 días naturales a dicha publicación,
+los interesados presentaran sus comentarios al Comité Consultivo Nacional de Normalización de Seguridad y
+Salud en el Trabajo;
+    Que habiendo recibido comentarios de seis promoventes, el Comité referido procedió a su estudio y
+resolvió oportunamente sobre los mismos, publicando esta dependencia las respuestas respectivas en el
+Diario Oficial de la Federación el 2 de octubre de 2008, en cumplimiento a lo previsto por el artículo 47
+fracción III de la Ley Federal sobre Metrología y Normalización;
+    Que derivado de la incorporación de los comentarios procedentes al Proyecto de modificación de la Norma
+Oficial Mexicana NOM-026-STPS-1998, Colores y señales de seguridad e higiene, e identificación de riesgos
+por fluidos conducidos en tuberías, para quedar como PROY-NOM-026-STPS-2004, Colores y señales de
+seguridad e higiene, e identificación de riesgos por fluidos conducidos en tuberías, así como de la revisión
+final del propio proyecto, se realizaron diversas modificaciones con el propósito de dar congruencia jurídica y
+certeza en cuanto a las disposiciones que aplican en los centros de trabajo, y
+   Que en atención a las anteriores consideraciones y toda vez que el Comité Consultivo Nacional de
+Normalización de Seguridad y Salud en el Trabajo otorgó la aprobación respectiva, se expide la siguiente:
+NORMA OFICIAL MEXICANA NOM-026-STPS-2008, COLORES Y SEÑALES DE SEGURIDAD E HIGIENE,
+         E IDENTIFICACION DE RIESGOS POR FLUIDOS CONDUCIDOS EN TUBERIAS
+                                                     INDICE
+   1.     Objetivo
+   2.     Campo de aplicación
+   3.     Referencias
+   4.     Definiciones y simbología
+   5.     Obligaciones del patrón
+   6.     Obligaciones de los trabajadores
+   7.     Colores de seguridad y colores contrastantes
+   8.     Señales de seguridad e higiene
+   Martes 25 de noviembre de 2008              DIARIO OFICIAL                                (Primera Sección)
+
+   9.    Identificación de riesgos por fluidos conducidos en tuberías
+   10.   Unidades de verificación
+   11.   Procedimiento para la evaluación de la conformidad
+   12.   Vigilancia
+   13.   Bibliografía
+   14.   Concordancia con normas internacionales
+   Apéndice A     Señales de prohibición
+   Apéndice B     Señales de obligación
+   Apéndice C     Señales de precaución
+   Apéndice D     Señales de información
+   Apéndice E     Señales de seguridad e higiene relativas a radiaciones ionizantes
+   Guía de referencia. Consideraciones generales sobre señalización
+   1. Objetivo
+    Establecer los requerimientos en cuanto a los colores y señales de seguridad e higiene y la identificación
+de riesgos por fluidos conducidos en tuberías.
+   2. Campo de aplicación
+   2.1 Esta Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo, excepto lo
+establecido en el apartado 2.2.
+   2.2 La presente Norma no aplica en:
+   a)    La señalización para la transportación terrestre, marítima, fluvial o aérea, que sea competencia de la
+         Secretaría de Comunicaciones y Transportes;
+   b)    La identificación de riesgos por fluidos conducidos en tuberías subterráneas u ocultas, ductos
+         eléctricos y tuberías en centrales nucleares, y
+   c)    Las tuberías instaladas en las plantas potabilizadoras de agua, así como en las redes de distribución
+         de las mismas, en lo referente a la aplicación del color verde de seguridad.
+   3. Referencias
+    Para la correcta interpretación de esta Norma, debe consultarse la siguiente Norma Oficial Mexicana
+vigente o la que la sustituya:
+   NOM-018-STPS-2000, Sistema para la identificación y comunicación de peligros y riesgos por sustancias
+químicas peligrosas en los centros de trabajo.
+   4. Definiciones y simbología
+   Para los efectos de esta Norma, se establecen las definiciones y simbología siguientes:
+   4.1 Definiciones.
+    4.1.1 Banda de identificación: disposición del color de seguridad en forma de cinta o anillo transversal a
+la sección longitudinal de la tubería.
+    4.1.2 Color de seguridad: color de uso especial y restringido, cuya finalidad es indicar la presencia de
+peligro, proporcionar información, o bien prohibir o indicar una acción a seguir.
+   4.1.3 Color contrastante: aquel que se utiliza para resaltar el color de seguridad.
+    4.1.4 Dictamen de verificación: documento que emite y firma la Unidad de Verificación, en el cual se
+resume el resultado de la verificación de cumplimiento con esta Norma Oficial Mexicana en un centro de
+trabajo.
+  4.1.5 Evaluación de la conformidad: determinación del grado de cumplimiento con la Norma Oficial
+Mexicana.
+   4.1.6 Fluidos: sustancias líquidas o gaseosas que, por sus características fisicoquímicas, no tienen forma
+propia, sino que adoptan la del conducto que las contiene.
+            (Primera Sección)                          DIARIO OFICIAL           Martes 25 de noviembre de 2008
+
+   4.1.7 Fluidos peligrosos: líquidos y gases que pueden ocasionar un accidente o enfermedad de trabajo
+por sus características intrínsecas; entre éstos se encuentran los inflamables, combustibles, inestables que
+puedan causar explosión, irritantes, corrosivos, tóxicos, reactivos, radiactivos, los que impliquen riesgos por
+agentes biológicos, o que se encuentren sometidos a condiciones extremas de presión o temperatura en un
+proceso.
+    4.1.8 Fluidos de bajo riesgo: líquidos y gases cuyas características intrínsecas no son peligrosas por
+naturaleza, y cuyas condiciones de presión y temperatura en el proceso no rebasan los límites establecidos en
+la presente Norma.
+   4.1.9 Procedimiento para la evaluación de la conformidad (PEC): metodología establecida para
+determinar el grado de cumplimiento con la presente Norma Oficial Mexicana.
+   4.1.10 Señal de seguridad e higiene: sistema que proporciona información de seguridad e higiene.
+Consta de una forma geométrica, un color de seguridad, un color contrastante y un símbolo.
+   4.1.11 Símbolo: elemento gráfico para proporcionar información de manera concisa.
+   4.1.12 Tuberías: conducto formado por tubos, conexiones y accesorios instalados para conducir fluidos.
+    4.1.13 Unidad de verificación (UV): persona física o moral acreditada y aprobada para llevar acabo la
+verificación del cumplimiento con la Norma Oficial Mexicana.
+   4.1.14 Verificación: constatación ocular y comprobación mediante muestreo, medición, pruebas de
+laboratorio, o examen de documentos que se realizan para evaluar la conformidad en un momento
+determinado.
+   4.2 Simbología.
+            2
+   cm               :     centímetro cuadrado
+   o
+                    :     grados (unidad de ángulo)
+   o
+       C            :     grados Celsius o centígrados
+                2
+   kg/cm            :     kilogramo por centímetro cuadrado
+   kPa              :     kilopascal
+   lx               :     lux
+   m                :     metro
+        2
+   m                :     metro cuadrado
+   mm               :     milímetro
+   π                :     pi
+   %                :     por ciento
+   ≥                :     mayor o igual
+   5. Obligaciones del patrón
+   5.1. Mostrar a la autoridad del trabajo, cuando ésta así se lo solicite, los documentos que la presente
+Norma le obligue a elaborar o poseer.
+   5.2 Proporcionar capacitación a los trabajadores sobre la correcta interpretación de los elementos de
+señalización del centro de trabajo.
+  5.3 Garantizar que la aplicación del color, la señalización y la identificación de la tubería estén sujetos a un
+mantenimiento que asegure en todo momento su visibilidad y legibilidad.
+   5.4 Ubicar las señales de seguridad e higiene de tal manera que puedan ser observadas e interpretadas
+por los trabajadores a los que están destinadas, evitando que sean obstruidas o que la eficacia de éstas sea
+disminuida por la saturación de avisos diferentes a la prevención de riesgos de trabajo.
+   Las señales deben advertir oportunamente al observador sobre:
+   i)           La ubicación de equipos o instalaciones de emergencia;
+   ii)          La existencia de riesgos o peligros, en su caso;
+   iii)         La realización de una acción obligatoria, o
+   iv)          La prohibición de un acto susceptible de causar un riesgo.
+   Martes 25 de noviembre de 2008              DIARIO OFICIAL                               (Primera Sección)
+
+   6. Obligaciones de los trabajadores
+   6.1 Participar en las actividades de capacitación a que se refiere el apartado 5.2.
+   6.2 Respetar y aplicar los elementos de señalización establecidos por el patrón.
+   7. Colores de seguridad y colores contrastantes
+    En el presente capítulo se indican los colores de seguridad y contrastantes, así como su significado. No se
+incluye el significado de colores utilizados en códigos específicos ni los establecidos en la
+NOM-018-STPS-2000.
+   7.1 Colores de seguridad.
+   Los colores de seguridad, su significado y ejemplos de aplicación se establecen en la tabla 1 de la
+presente Norma.
+               TABLA 1.- Colores de seguridad, su significado e indicaciones y precisiones
+     COLOR DE
+                                SIGNIFICADO                       INDICACIONES Y PRECISIONES
+    SEGURIDAD
+                     Paro.                              Alto y dispositivos de desconexión para emergencias.
+                     Prohibición.                       Señalamientos para prohibir acciones específicas.
+       ROJO
+                                                      Ubicación y localización de los mismos e
+                     Material, equipo y sistemas para
+                                                      identificación de tuberías que conducen fluidos para
+                     combate de incendios.
+                                                      el combate de incendios.
+                                                        Atención, precaución, verificación e identificación de
+                     Advertencia de peligro.
+                                                        tuberías que conducen fluidos peligrosos.
+     AMARILLO        Delimitación de áreas.             Límites de áreas restringidas o de usos específicos.
+                     Advertencia de peligro        por Señalamiento para indicar la presencia de material
+                     radiaciones ionizantes.           radiactivo.
+                                                        Identificación de tuberías que conducen fluidos de
+                                                        bajo riesgo. Señalamientos para indicar salidas de
+       VERDE         Condición segura.                  emergencia, rutas de evacuación, zonas de seguridad
+                                                        y primeros auxilios, lugares de reunión, regaderas de
+                                                        emergencia, lavaojos, entre otros.
+        AZUL         Obligación.                        Señalamientos para realizar acciones específicas.
+
+
+   7.2 Colores contrastantes.
+    Cuando se utilice un color contrastante para mejorar la percepción de los colores de seguridad, la
+selección del primero debe estar de acuerdo a lo establecido en la tabla 2. El color de seguridad debe cubrir al
+menos 50% del área total de la señal, excepto para las señales de prohibición, según se establece en el
+apartado 8.5.2.
+                                TABLA 2.- Selección de colores contrastantes
+                     COLOR DE SEGURIDAD                         COLOR CONTRASTANTE
+                                ROJO                                     BLANCO
+                                                                         NEGRO,
+                             AMARILLO
+                                                                       MAGENTA*
+                                VERDE                                    BLANCO
+                                AZUL                                     BLANCO
+
+
+   * Nota: El magenta debe ser el color contrastante del amarillo de seguridad, únicamente en el caso de la
+señal utilizada para indicar la presencia de radiaciones ionizantes, según lo establecido en el apéndice E.
+      (Primera Sección)                       DIARIO OFICIAL                 Martes 25 de noviembre de 2008
+
+   8. Señales de seguridad e higiene
+   8.1 Formas geométricas.
+    Las formas geométricas de las señales de seguridad e higiene y su significado asociado se establecen en
+la tabla 3.
+
+
+
+
+   8.2 Símbolos de seguridad e higiene.
+   8.2.1 El color de los símbolos debe ser el mismo que el color contrastante, correspondiente a la señal de
+seguridad e higiene, excepto en las señales de seguridad e higiene de prohibición, que deben cumplir con el
+apartado 8.5.2.
+   8.2.2 Los símbolos que deben utilizarse en las señales de seguridad e higiene, deben cumplir con el
+contenido de imagen que se establece en los apéndices A, B, C, D y E, en los cuales se incluyen una serie de
+ejemplos.
+   8.2.3 Al menos una de las dimensiones del símbolo debe ser mayor al 60% de la altura de la señal.
+    8.2.4 Cuando se requiera elaborar un símbolo para una señal de seguridad e higiene en un caso
+específico que no esté contemplado en los apéndices, se permite el diseño particular que se requiera siempre
+y cuando se establezca la indicación por escrito y su contenido de imagen asociado.
+   8.2.5 En el caso de las señales de obligación y precaución, podrá utilizarse el símbolo general consistente
+en un signo de admiración como se muestra en las figuras B.1 y C.1 de los apéndices B y C, respectivamente,
+debiendo agregar un texto breve y concreto fuera de los límites de la señal. Este texto deberá cumplir con lo
+establecido en el apartado 8.3.1.
+   Martes 25 de noviembre de 2008               DIARIO OFICIAL                               (Primera Sección)
+
+   8.3 Textos.
+    8.3.1 Toda señal de seguridad e higiene podrá complementarse con un texto fuera de sus límites y este
+texto cumplirá con lo siguiente:
+   a)    Ser un refuerzo a la información que proporciona la señal de seguridad e higiene;
+   b)    La altura del texto, incluyendo todos sus renglones, no será mayor a la mitad de la altura de la señal
+         de seguridad e higiene;
+   c)    El ancho de texto no será mayor al ancho de la señal de seguridad e higiene;
+   d)    Estar ubicado abajo de la señal de seguridad e higiene;
+   e)    Ser breve y concreto, y
+   f)    Ser en color contrastante sobre el color de seguridad correspondiente a la señal de seguridad e
+         higiene que complementa, texto en color negro sobre fondo blanco, o texto en blanco sobre negro.
+   8.3.2 Unicamente las señales de información se pueden complementar con textos dentro de sus límites,
+debiendo cumplir con lo siguiente:
+   a)    Ser un refuerzo a la información que proporciona la señal;
+   b)    No deben dominar sobre los símbolos, para lo cual se limita la altura máxima de las letras a la tercera
+         parte de la altura del símbolo;
+   c)    Deben ser breves y concretos, con un máximo de tres palabras, y
+   d)    El color del texto será el mismo que el color contrastante correspondiente a la señal de seguridad e
+         higiene que complementa.
+   8.4 Dimensiones de las señales de seguridad e higiene.
+    Las dimensiones de las señales de seguridad e higiene deben ser tales que el área superficial y la
+distancia máxima de observación cumplan con la relación siguiente:
+
+
+
+
+                                           2
+   donde: S = superficie de la señal en m
+   L = distancia máxima de observación en m
+   Esta relación sólo se aplica para distancias de 5 a 50 m. Para distancias menores a 5 m, el área de las
+                                        2
+señales será como mínimo de 125 cm . Para distancias mayores a 50 m, el área de las señales será, al
+                    2
+menos, de 12500 cm .
+   8.5 Disposición de los colores en las señales de seguridad e higiene.
+   8.5.1 Para las señales de seguridad e higiene de obligación, precaución e información, el color de
+seguridad debe cubrir cuando menos el 50% de su superficie total.
+    8.5.2 Para las señales de seguridad e higiene de prohibición el color del fondo debe ser blanco, la banda
+transversal y la banda circular deben ser de color rojo, el símbolo debe colocarse centrado en el fondo y no
+debe obstruir la banda diametral, el color rojo debe cubrir por lo menos el 35% de la superficie total de la señal
+de seguridad e higiene. El color del símbolo debe ser negro.
+    8.5.3 En el caso de las señales de seguridad e higiene elaboradas con productos luminiscentes, se
+permitirá usar como color contrastante el amarillo verdoso en lugar del color blanco. Asimismo, el producto
+luminiscente podrá emplearse en los contornos de la señal, del símbolo y de las bandas circular y diametral,
+en las señales de prohibición.
+   8.6 Iluminación.
+   En condiciones normales, en la superficie de la señal de seguridad e higiene, debe existir una iluminación
+de 50 lx como mínimo.
+   8.7 Señales específicas de seguridad e higiene.
+   Para denotar la presencia de fuentes generadoras o emisoras de radiaciones ionizantes, debe utilizarse la
+señal de seguridad e higiene establecida en el apéndice E.
+        (Primera Sección)                          DIARIO OFICIAL                  Martes 25 de noviembre de 2008
+
+   9. Identificación de riesgos por fluidos conducidos en tuberías
+   9.1 En el presente capítulo se establece el código de identificación para tuberías, el cual consta de los
+elementos siguientes:
+   a)     Color de seguridad;
+   b)     Color contrastante;
+   c)     Información complementaria, y
+   d)     Indicación de la dirección del flujo.
+   9.1.1 Las tuberías deben ser identificadas con el color de seguridad que le corresponda de acuerdo a lo
+establecido en la tabla 4.
+                        TABLA 4.- Colores de seguridad para tuberías y su significado
+          COLOR DE
+                                                              SIGNIFICADO
+         SEGURIDAD
+              Rojo            Identificación de fluidos para el combate de incendio conducidos por tubería.
+            Amarillo          Identificación de fluidos peligros conducidos por tubería.
+             Verde            Identificación de fluidos de bajo riesgo conducidos por tubería.
+
+
+   Para definir si un fluido es peligroso se deberán consultar las hojas de datos de seguridad conforme a lo
+establecido en la NOM-018-STPS-2000.
+   También se clasificarán como fluidos peligrosos aquellos sometidos a las condiciones de presión o
+temperatura siguientes:
+                                                                                                        o
+   a)     Condición extrema de temperatura: cuando el fluido esté a una temperatura mayor de 50 C o a baja
+          temperatura que pueda causar lesión al contacto con éste, y
+   b)     Condición extrema de presión: cuando la presión manométrica del fluido sea de 686 kPa, equivalente
+                   2
+          a 7 kg/cm , o mayor.
+   9.1.2 El color de seguridad debe aplicarse en cualquiera de las formas siguientes:
+   a)     Pintar la tubería a todo lo largo y cubrir toda la circunferencia con el color de seguridad
+          correspondiente;
+   b)     Pintar la tubería con bandas de identificación de 100 mm de ancho como mínimo debiendo cubrir
+          toda la circunferencia de la tubería, incrementándolas en proporción al diámetro exterior de la tubería
+          de acuerdo a la tabla 5, o
+   c)     Colocar etiquetas indelebles con las dimensiones mínimas que se indican en la tabla 5 para las
+          bandas de identificación; las etiquetas del color de seguridad deben cubrir toda la circunferencia de
+          la tubería.
+   9.1.3 La disposición del color amarillo para la identificación de fluidos peligrosos, se permitirá mediante
+bandas con franjas diagonales amarillas y negras a 45°. El color amarillo de seguridad debe cubrir por lo
+menos el 50% de la superficie total de la banda de identificación y las dimensiones mínimas de dicha banda
+se ajustarán a lo establecido en la tabla 5. La información complementaria debe cumplir con lo dispuesto en el
+apartado 9.2.4.
+ TABLA 5.- Dimensiones mínimas de las bandas de identificación en relación al diámetro de la tubería
+                                            (Todas las dimensiones en mm)
+                DIAMETRO EXTERIOR DE TUBO O                     ANCHO MINIMO DE LA BANDA DE
+                       CUBRIMIENTO                                    IDENTIFICACION
+                                 hasta 38                                        100
+                            más de 38 hasta 51                                   200
+                        más de 51 hasta 150                                      300
+                       más de 150 hasta 250                                      600
+                               más de 250                                        800
+   Martes 25 de noviembre de 2008               DIARIO OFICIAL                               (Primera Sección)
+
+    9.1.4 La identificación de los fluidos en las tuberías se conforma de un color de seguridad, un color
+contrastante, información complementaria y una flecha que indica la dirección del fluido, y se ubicarán de
+forma que sean visibles desde cualquier punto en la zona o zonas en las que se ubica el sistema de tuberías y
+en la cercanía de válvulas. En tramos rectos se ubicarán a intervalos regulares no mayores a lo indicado a
+continuación:
+   a)    Para un ancho de banda del color de seguridad de hasta 200 mm, cada 10 m, o
+   b)    Para anchos de banda mayores a 200 mm, cada 15 m.
+   9.2 Información complementaria.
+    9.2.1 Adicionalmente a la utilización del color de seguridad señalado en el apartado 9.1 y de la dirección
+del flujo establecido en el apartado 9.3, deberá indicarse la información complementaria sobre la naturaleza,
+riesgo del fluido o información del proceso, la cual podrá implementarse mediante cualquiera de las
+alternativas siguientes:
+   a)    Utilizar señales de seguridad e higiene de acuerdo a lo establecido en el capítulo 8;
+   b)    Uso de leyendas que indiquen el riesgo del fluido, conforme a la tabla 6;
+                                TABLA 6.- Leyendas para fluidos peligrosos
+                                          TOXICO
+                                          INFLAMABLE
+                                          EXPLOSIVO
+                                          IRRITANTE
+                                          CORROSIVO
+                                          REACTIVO
+                                          RIESGO BIOLOGICO
+                                          ALTA TEMPERATURA
+                                          BAJA TEMPERATURA
+                                          ALTA PRESION
+
+
+   c)    Utilizar la señalización para indicar riesgos por sustancias químicas, de conformidad con lo
+         establecido en la Norma NOM-018-STPS-2000;
+   d)    Nombre completo de la sustancia (por ejemplo: ACIDO SULFURICO);
+   e)    Información del proceso (por ejemplo: AGUA PARA CALDERAS), y
+   f)    Cualquier combinación de los incisos anteriores.
+    La utilización de las alternativas establecidas en los incisos b), d) y e) debe cumplir con lo establecido en
+los apartados 9.2.3 a 9.2.7.
+    9.2.2 La señalización a que se refieren los incisos a) y c) del apartado anterior, debe cumplir con lo
+siguiente:
+                                                    2
+   a)    El área mínima de la señal será de 125 cm ;
+   b)    Cuando la altura de la señal sea mayor al 70% del diámetro de la tubería, dicha señal se dispondrá a
+         manera de placa colgada en la tubería, adyacente a las bandas de identificación, y
+   c)    Las señales cuya altura sea igual o menor al 70% del diámetro de la tubería, deben ubicarse de
+         conformidad con lo establecido en el apartado 9.2.3.
+    9.2.3 La información complementaria y el símbolo para fluidos radiactivos a que se refiere el apartado
+9.2.8, se pintará sobre la banda de color de seguridad o podrá ubicarse en una etiqueta, placa o letrero fijado
+a la tubería, adyacente a las bandas de identificación, siempre que dichos elementos de identificación sean
+indelebles e intransferibles. Para la utilización de señales debe observarse lo establecido en el apartado 9.2.2.
+En caso de que la tubería se pinte a todo lo largo con el color de seguridad, la información complementaria se
+ubicará de forma que sea visible desde cualquier punto de la zona o zonas en que se ubica el sistema de
+tubería y en la cercanía de válvulas. En tramos rectos se ubicará a intervalos regulares no mayores a lo
+indicado a continuación:
+          (Primera Sección)                         DIARIO OFICIAL             Martes 25 de noviembre de 2008
+
+     a)     Para diámetros de tubería de hasta 51 mm, cada 10 m, y
+     b)     Para diámetros de tubería mayores a 51 mm, cada 15 m.
+    9.2.4 El color de la información complementaria debe ser del color contrastante correspondiente conforme
+a lo indicado en la tabla 2 de la presente Norma. Cuando se utilicen bandas de color de seguridad mediante
+franjas diagonales amarillas y negras como se indica en el apartado 9.1.3, las leyendas de información
+complementaria se pintarán adyacentes a dichas bandas, en color blanco o negro, de forma que contrasten
+con el color de la tubería. En el caso del uso de textos como información complementaria, la altura de las
+letras y longitud de las flechas deben cumplir con lo siguiente:
+     A.- Para tuberías con diámetros hasta de 300 mm:
+
+
+
+
+     Donde:
+     h = altura de las letras del texto y de las flechas.
+     d = diámetro exterior de la tubería o cubrimiento.
+     B.- Para tuberías con diámetros mayores de 300 mm, la altura mínima de las letras será de 15 cm y la
+máxima igual al valor obtenido en la ecuación. Para las tuberías con diámetros menores a 25 mm, se debe
+utilizar una placa con la información complementaria, y la altura del texto debe ser como mínimo de 10 mm.
+    9.2.5 Para la utilización de leyendas que identifiquen el riesgo del fluido, cuando éste implique más de un
+factor de riesgo, cada uno de ellos debe quedar indicado en la información complementaria, de acuerdo, en su
+caso, al orden de importancia de éstos. Para tal efecto, se tendrá en consideración la información asentada en
+las hojas de datos de seguridad correspondientes, conforme a lo establecido en la NOM-018-STPS-2000. Por
+ejemplo: INFLAMABLE – TOXICO.
+   9.2.6 Los ácidos y álcalis deben diferenciarse anteponiendo a la leyenda IRRITANTE o CORROSIVO, la
+palabra ACIDO o ALCALI, según corresponda.
+    9.2.7 Para los casos de los riesgos especiales no considerados en la tabla 6, se deberán utilizar leyendas
+particulares que indiquen claramente el riesgo.
+     9.2.8 Los fluidos radiactivos se identificarán mediante el símbolo establecido en la figura E1 del apéndice
+E.
+     9.3 Dirección del flujo.
+   9.3.1 La dirección del flujo debe indicarse con una flecha adyacente a las bandas de identificación, o
+cuando la tubería esté totalmente pintada, adyacente a la información complementaria. Las tuberías en las
+que exista flujo en ambos sentidos, se identificarán con una flecha apuntando en ambas direcciones. La
+longitud de la flecha será igual o mayor a la altura de las letras de las leyendas en relación al diámetro de la
+tubería, conforme a lo indicado en el apartado 9.2.4.
+   9.3.2 La flecha de la dirección del flujo se pintará directamente sobre la tubería, en color blanco o negro,
+para contrastar claramente con el color de la misma.
+    9.3.3 La flecha de dirección podrá integrarse a las etiquetas, placas o letreros, establecidos en el apartado
+9.2.3.
+     10. Unidades de verificación
+    10.1 El patrón tendrá la opción de contratar los servicios de una unidad de verificación acreditada y
+aprobada, de conformidad con lo establecido en la Ley Federal sobre Metrología y Normalización, para
+verificar el grado de cumplimiento de la presente Norma.
+    10.2 Las unidades de verificación deben verificar el grado de cumplimiento de los apartados 5.2, 5.3 y 5.4,
+así como los capítulos 7, 8 y 9.
+     10.3 Las unidades de verificación deben entregar al patrón el dictamen de verificación de la Norma Oficial
+Mexicana NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por
+fluidos conducidos en tuberías.
+     10.4 La vigencia de los dictámenes favorables emitidos por las unidades de verificación, será de dos años.
+   Martes 25 de noviembre de 2008                DIARIO OFICIAL                                 (Primera Sección)
+
+   11. Procedimiento para la evaluación de la conformidad
+   11.1 Disposiciones generales.
+    11.1.1 La evaluación de la conformidad podrá ser realizada por la Autoridad Laboral o por una unidad de
+verificación, acreditada por la entidad de acreditación y aprobada por la Secretaría del Trabajo y Previsión
+Social.
+   11.1.2 Las unidades de verificación deben entregar al patrón el dictamen de verificación favorable cuando
+se hayan cubierto los requerimientos de la presente Norma.
+   11.2 Aspectos técnicos a verificar.
+   11.2.1 Obligaciones del Patrón.
+   11.2.1.1 Apartado 5.2. Se verificará:
+   a)    La existencia de documentos que evidencien la capacitación recibida, tales como: constancias de
+         habilidades, diplomas (firmados por el instructor), programas de capacitación, así como evidencias
+         de cumplimiento de éste, entre otros, y
+   b)    A través de entrevista a los trabajadores sobre la comprensión de los señalamientos, por medio de
+         una selección aleatoria de ellos, de acuerdo con la tabla 7.
+                                TABLA 7.- Muestreo por selección aleatoria
+                                                                                 NUMERO MINIMO DE
+                            INDUSTRIA          COMERCIO       SERVICIOS
+                                                                                  ENTREVISTADOS
+        MICROEMPRESA           0 – 30             0–5            0 – 20                     1
+        PEQUEÑA
+                              31 – 100           6 – 20         21 – 50                     2
+        EMPRESA
+        MEDIANA
+                             101 – 500          21 – 100        51 – 100                    4
+        EMPRESA
+        GRAN EMPRESA        MAS DE 500         MAS DE 100     MAS DE 100                    5
+
+
+    Nota: Para las visitas que desarrolle la autoridad laboral, queda abierto el número de trabajadores a
+entrevistar.
+   11.2.1.2 Apartado 5.3. Se verificará:
+   a)    La existencia documental de un programa de mantenimiento, así como las evidencias del
+         cumplimiento de éste, y
+   b)    El cumplimiento del programa de mantenimiento, identificando que la aplicación del color,
+         señalización, identificación, legibilidad y visibilidad en las tuberías sea conforme a la presente Norma.
+   11.2.1.3 Apartado 5.4. Se verificará que:
+   a)    Las señales:
+         1)   Puedan ser observadas desde el punto más alejado del área o local donde están ubicadas. La
+              observación será en la dirección de la señal a la distancia libre más alejada del área o local
+              donde está ubicada;
+         2)   Su eficacia no sea disminuida por la concurrencia de otros avisos o con mensajes, es decir que
+              otro tipo de información cercano a la señal no distraigan la atención del trabajador, afectando el
+              propósito que tiene la propia señal de seguridad e higiene.
+         3)   No estén obstruidas con objetos que impidan su observación o afecten su legibilidad.
+   b)    A través de entrevista, los trabajadores manifiesten la correcta interpretación de las señales
+         establecidas en el área o local, de acuerdo con su significado e indicación.
+   11.2.2 Colores de seguridad y colores contrastantes.
+   11.2.2.1 Apartado 7.1. Se verificará:
+   A través de inspección visual, que el uso de los colores de seguridad y su significado se apegan a lo
+establecido en la tabla 1 de la presente Norma.
+      (Primera Sección)                       DIARIO OFICIAL                Martes 25 de noviembre de 2008
+
+  11.2.2.2 Apartado 7.2. Se verificará:
+  De acuerdo con la tabla 9 del presente Procedimiento para la Evaluación de la Conformidad.
+  11.2.2.3 Capítulo 8. Señales de seguridad e higiene.
+  La verificación del cumplimiento de las señales de seguridad e higiene podrá efectuarse mediante
+muestreo, conforme a lo establecido en la tabla 8.
+                         TABLA 8.- Muestreo de señales de seguridad e higiene
+
+                      Número de señalamientos                Tamaño de la muestra
+
+                              Hasta 15                                  4
+                               16 a 25                                  5
+                               26 a 50                                  8
+                               51 a 90                                 13
+                                91 a 150                                     20
+    Se verificarán los diferentes tipos de señalamientos (prohibición, obligación, precaución e información)
+existentes en el centro de trabajo.
+    El criterio de rechazo del muestreo es, si un señalamiento no cumple se rechaza el lote de muestras.
+    Para las visitas que desarrolle la autoridad laboral, queda abierto el número de señales a verificar.
+    11.2.3.1 Apartados 8.1 a 8.6, se verificarán:
+    Las señales de seguridad e higiene de acuerdo a la tabla 9. Cuando se requiera aplicar muestreo, se debe
+emplear la tabla 8.
+                        TABLA 9.- Verificación de las señales de seguridad e higiene
+     Colores y señales de        Puntos de la norma a
+                                                                       Verificación mediante
+     seguridad e higiene                 verificar
+                               8.1
+                               8.5.2                        Inspección visual y dimensional
+                               8.2.1
+                               7.2
+                                                            Inspección visual y dimensional
+                               Colores contrastantes
+       Señalamientos de        8.2.3                        Inspección visual y dimensional
+          prohibición
+                               8.2.2 y apéndice A           Inspección visual
+                               8.5.3                        Inspección visual
+                               8.3.1                        Inspección visual y dimensional
+                               8.4                          Inspección visual y control dimensional por
+                               8.6                          muestreo
+                               8.1                          Inspección visual
+                               7.2                          Inspección visual
+                               8.2.3                        Inspección visual y control dimensional por
+                               8.2.1                        muestreo
+                               8.2.2 y apéndice B           Inspección visual
+       Señalamientos de
+          obligación           8.2.5 y apéndice B           Inspección visual, dimensional y documental
+                               8.5.3                        Inspección visual
+                               8.3.1                        Inspección visual
+                               8.4
+                                                            Inspección visual y control dimensional por
+                               8.2.1
+                                                            muestreo
+                               8.6
+                               8.1                          Inspección visual
+                               7.2                          Inspección visual
+                                                            Inspección visual y control dimensional por
+       Señalamientos de        8.2.3
+                                                            muestreo.
+          precaución
+                               8.2.2 y apéndice C           Inspección visual
+                                                            Inspección visual y control dimensional por
+                               8.2.5 y apéndice C
+                                                            muestreo
+   Martes 25 de noviembre de 2008                          DIARIO OFICIAL                                               (Primera Sección)
+
+      Colores y señales de                 Puntos de la norma a
+                                                                                                Verificación mediante
+      seguridad e higiene                       verificar
+                                         8.5.3
+                                                                              Inspección visual
+                                         8.5.1
+                                         8.3.1                                Inspección visual
+                                         8.4
+                                         8.2.1                                Inspección visual y control dimensional por
+                                         8.5.1                                muestreo
+                                         8.6
+                                         8.1                                  Inspección visual
+                                         7.2                                  Inspección visual
+                                                                              Inspección visual y control dimensional por
+                                         8.2.3
+                                                                              muestreo
+                                         8.2.2 y apéndice D                   Inspección visual y dimensional
+         Señalamientos de
+                                         8.5.3, 8.5.1                         Inspección visual dimensional
+           información
+                                         8.3.1                                Inspección visual
+                                         8.3.2                                Inspección visual y dimensional.
+                                         8.4
+                                                                              Inspección visual y control dimensional por
+                                         8.2.1
+                                                                              muestreo
+                                         8.6
+
+
+   11.2.3.2 Apartado 8.6.
+    Este apartado se podrá verificar con el informe de evaluación que contemple las mediciones de
+iluminación en las señales. Si no se cuenta con este informe, se verificará que los niveles de iluminación en
+las señales sean los establecidos en esta Norma, apoyándose para tal efecto en lo dispuesto por la Norma
+Oficial Mexicana NOM-025-STPS-1999, Condiciones de iluminación en los centros de trabajo, y se
+documentará esta actuación. Para la selección de muestras aplicará la tabla 8 del presente procedimiento de
+evaluación de la conformidad.
+   11.2.3.3 Apartado 8.7.
+   Cuando se detecte que existen fuentes generadoras o emisoras de radiaciones ionizantes, se verificará
+que la señal cumpla con las características establecidas en el apéndice E de la presente Norma.
+   11.2.4 Capítulo 9, Identificación de riesgos por fluidos conducidos en tuberías.
+   11.2.4.1 Apartado 9.1.
+   Se verificará el cumplimiento del contenido de la tabla 10, apoyándose en las hojas de datos de seguridad
+de los fluidos. Cuando se requiera aplicar muestreo, se usará la tabla 8 sobre muestreo de señales de
+seguridad e higiene.
+                      Tabla 10.- Identificación de riesgos por fluidos conducidos en tuberías
+                              Color de seguridad                                                                 Indicación
+  Identificación                                          Verificación      Información          Verificación                   Verificación
+                    Toda la          Por         Por                                                            dirección de
+   de tuberías                                             mediante       complementaria          mediante                       mediante
+                    tubería        bandas     etiquetas                                                             flujo
+
+                                                                                                                                Inspección
+                   9.1.1                                                                                                        visual y
+                                                          Inspección
+                                 9.1.1       9.1.1                                                              9.3.1           control
+                   9.1.2 a)                               visual                               Inspección
+                                                                         9.2.1, 9.2.2, 9.2.3 y                                  dimensional
+ Contra incendio                                                                               visual y                         por muestreo
+                                                                         9.2.4
+                                                                                               dimensional
+                                                       Inspección
+                                 9.1.2 b) y 9.1.2 c) y                                                                          Inspección
+                                                       visual y                                                 9.3.2 y 9.3.3
+                                 tabla 5    tabla 5                                                                             visual
+                                                       dimensional
+                                                                                                                                Inspección
+                                                                                              Inspección                        visual y
+                   9.1.1                                  Inspección     9.2.1, 9.2.2, 9.2.3,
+                                 9.1.1       9.1.1                                            visual y          9.3.1           control
+                   9.1.2 a)                               visual         9.2.4 y 9.2.8
+                                                                                              dimensional                       dimensional
+ Fluidos                                                                                                                        por muestreo
+ peligrosos
+                                 9.1.2 b) y
+                                 tabla 5               Inspección
+                                            9.1.2 c) y                                           Inspección                     Inspección
+                                                       visual y          9.2.5, 9.2.6 y 9.2.7                   9.3.2 y 9.3.3
+                                 9.1.3      tabla 5                                              visual                         visual
+                                                       dimensional
+                                 9.1.4
+        (Primera Sección)                                  DIARIO OFICIAL                         Martes 25 de noviembre de 2008
+
+                              Color de seguridad                                                              Indicación
+  Identificación                                          Verificación      Información       Verificación                   Verificación
+                    Toda la          Por         Por                                                         dirección de
+   de tuberías                                             mediante       complementaria       mediante                       mediante
+                    tubería        bandas     etiquetas                                                          flujo
+                                                                                                                             Inspección
+                   9.1.1                                                                                                     visual y
+                                                          Inspección
+                                 9.1.1       9.1.1                                                           9.3.1           control
+                   9.1.2 a)                               visual                               Inspección
+ Fluidos no                                                              9.2.1, 9.2.2, 9.2.3 y                               dimensional
+                                                                                               visual y                      por muestreo
+ peligrosos                                                              9.2.4
+                                                                                               dimensional
+                                                       Inspección
+                                 9.1.2 b) y 9.1.2 c) y                                                                       Inspección
+                                                       visual y                                              9.3.2 y 9.3.3
+                                 tabla 5    tabla 5                                                                          visual
+                                                       dimensional
+
+
+
+   12. Vigilancia
+   La vigilancia en el cumplimiento de la presente Norma corresponde a la Secretaría del Trabajo y Previsión
+Social.
+   13. Bibliografía
+   a)     Norma Oficial Mexicana NOM-003-SEGOB/2002, Señales y avisos para protección civil-Colores,
+          formas y símbolos a utilizar, publicada en el Diario Oficial de la Federación el 17 de septiembre de
+          2003.
+   b)     Consejo de Ministros de España. Real Decreto 485/1997, del 14 de abril de 1997, sobre
+          disposiciones mínimas en materia de señalización de seguridad y salud en el trabajo; anexos I, II y
+          III.
+   c)     American National Standard Institute. ANSI Z 535.1-1991, American National Standard for Safety
+          Color Code. Estados Unidos de América.
+   d)     Japanese Industrial Standard. JIS Z 9101-1995, Safety colours and safety signs. Japón.
+   e)     American National Standard Institute. ANSI A 13.1, Scheme for the identification of piping systems.
+          Estados Unidos de América.
+   f)     NMX-Z-12-1987, Muestreo para la Inspección por Atributos-Parte 2: Método de muestreo-Tablas y
+          gráficas.
+   14. Concordancia con normas internacionales
+   Esta Norma coincide parcialmente con la Norma Internacional siguiente:
+    International Organization for Standardization. ISO 7010:2003 Graphical symbols-Safety colours and safety
+signs - Safety signs used in workplaces and public areas.
+                                                           TRANSITORIOS
+   PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a los sesenta días siguientes a su
+publicación en el Diario Oficial de la Federación.
+     SEGUNDO. Durante el lapso señalado en el artículo anterior, los patrones cumplirán con la Norma Oficial
+Mexicana NOM-026-STPS-1998, Colores y señales de seguridad e higiene, e identificación de riesgos por
+fluidos conducidos en tuberías, o bien realizarán las adaptaciones para observar las disposiciones de la
+presente Norma Oficial Mexicana y, en este último caso, las autoridades laborales proporcionarán a petición
+de los patrones interesados, asesoría y orientación para instrumentar su cumplimiento, sin que los patrones se
+hagan acreedores a sanciones por el incumplimiento de la norma en vigor.
+   TERCERO. A partir de la fecha en que entre en vigor la presente Norma quedarán sin efectos:
+   1.     La Norma Oficial Mexicana NOM-026-STPS-1998, Colores y señales de seguridad e higiene, e
+          identificación de riesgos por fluidos conducidos en tuberías, publicada en el Diario Oficial de la
+          Federación el 13 de octubre de 1998, y
+   2.     El Procedimiento para la Evaluación de la Conformidad de la Norma Oficial Mexicana NOM-026-
+          STPS-1998, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos
+          conducidos en tuberías, publicado en el Diario Oficial de la Federación el 10 de noviembre de 2007.
+   Dado en la Ciudad de México, Distrito Federal, a los seis días del mes de noviembre de dos mil ocho.- El
+Secretario del Trabajo y Previsión Social, Javier Lozano Alarcón.- Rúbrica.
+   Martes 25 de noviembre de 2008            DIARIO OFICIAL                             (Primera Sección)
+
+                                              APENDICE A
+
+                                         Señales de prohibición
+
+    En el presente apéndice se establecen las señales para denotar prohibición de una acción susceptible de
+provocar un riesgo. Estas señales deben tener forma geométrica circular, fondo en color blanco, bandas
+circular y diagonal en color rojo y símbolo en color negro según la tabla 3 y la tabla A 1.
+
+                                    TABLA A 1 Señales de prohibición
+                                             CONTENIDO DE IMAGEN DEL
+                    INDICACION                                                        EJEMPLO
+                                                    SIMBOLO
+
+
+
+
+ A.1     PROHIBIDO FUMAR                   CIGARRILLO ENCENDIDO
+
+
+
+
+         PROHIBIDO GENERAR LLAMA
+ A.2     ABIERTA E INTRODUCIR OBJETOS CERILLO ENCENDIDO
+         INCANDESCENTES
+
+
+
+
+ A.3     PROHIBIDO EL PASO                 SILUETA HUMANA CAMINANDO
+
+
+
+
+                                           LLAVE SOBRE VASO
+ A.4     AGUA NO POTABLE                   CONTENIENDO AGUA INDICADA
+                                           POR LINEAS ONDULADAS
+
+
+
+
+         PROHIBIDO EL PASO A               CONTORNO DE PERFIL DE
+ A.5     MONTACARGAS Y OTROS               MONTACARGAS Y SILUETA DE
+         VEHICULOS INDUSTRIALES            CONDUCTOR
+       (Primera Sección)                      DIARIO OFICIAL                  Martes 25 de noviembre de 2008
+
+                                              CONTENIDO DE IMAGEN DEL
+                      INDICACION                                                         EJEMPLO
+                                                     SIMBOLO
+
+
+
+
+          PROHIBIDO EL PASO A               SILUETA ESTILIZADA DE
+ A.6
+          PERSONAS CON MARCAPASOS           CORAZON Y CABLE
+
+
+
+
+          PROHIBIDO EL USO DE               FIGURA ESTILIZADA DE RELOJ
+ A.7      ARTICULOS METALICOS O             DE PULSERA Y SILUETA
+          RELOJES DE PULSERA                LATERAL DE LLAVE
+
+
+
+
+          NO  UTILIZAR   AGUA        COMO CUBO   DERRAMANDO            AGUA
+ A.8
+          AGENTE EXTINGUIDOR              SOBRE LLAMA
+
+
+
+
+                                                APENDICE B
+                                           Señales de obligación
+    En el presente apéndice se establecen las señales de seguridad e higiene para denotar una acción
+obligatoria a cumplir. Estas señales deben tener forma circular, fondo en color azul y símbolo en color blanco
+según la tabla 3 y la tabla B 1.
+                                     TABLA B 1 Señales de obligación
+
+                                                CONTENIDO DE IMAGEN DEL
+                       INDICACION                                                         EJEMPLO
+                                                         SIMBOLO
+
+
+
+
+            INDICACION GENERAL DE
+ B.1                                         SIGNO DE ADMIRACION
+            OBLIGACION
+
+
+
+
+            USO OBLIGATORIO DE CASCO DE CONTORNO DE CABEZA HUMANA,
+ B.2
+            PROTECCION                  PORTANDO CASCO
+ Martes 25 de noviembre de 2008          DIARIO OFICIAL              (Primera Sección)
+
+                                          CONTENIDO DE IMAGEN DEL
+                   INDICACION                                        EJEMPLO
+                                                 SIMBOLO
+
+
+
+                                        CONTORNO DE CABEZA HUMANA
+        USO OBLIGATORIO DE
+B.3                                     PORTANDO PROTECCION
+        PROTECCION AUDITIVA
+                                        AUDITIVA
+
+
+
+
+        USO OBLIGATORIO DE              CONTORNO DE CABEZA HUMANA
+B.4
+        PROTECCION OCULAR               PORTANDO ANTEOJOS
+
+
+
+
+        USO OBLIGATORIO DE CALZADO
+B.5                                     UN ZAPATO DE PROTECCION
+        DE PROTECCION
+
+
+
+
+        USO OBLIGATORIO DE GUANTES
+B.6                                     UN PAR DE GUANTES
+        DE PROTECCION
+
+
+
+
+                                        CONTORNO DE CABEZA HUMANA
+        USO OBLIGATORIO DE
+B.7                                     PORTANDO DISPOSITIVO DE
+        PROTECCION RESPIRATORIA
+                                        PROTECCION RESPIRATORIA
+
+
+
+
+                                     CONTORNO DE FIGURA HUMANA
+        USO OBLIGATORIO DE EQUIPO DE
+                                     PORTANDO ARNES, ATADO A UNA
+B.9     PROTECCION PERSONAL
+                                     CUERDA
+        CONTRA CAIDAS DE ALTURA
+
+
+
+
+        PROTECCION      OBLIGATORIA   DE CONTORNO DE CABEZA HUMANA
+B.10
+        LA CARA                          PORTANDO PROTECTOR FACIAL
+       (Primera Sección)                     DIARIO OFICIAL                Martes 25 de noviembre de 2008
+
+                                              APENDICE C
+                                         Señales de precaución
+    En el presente apéndice se establecen las señales para indicar precaución y advertir sobre algún riesgo
+presente. Estas señales deben tener forma geométrica triangular, fondo en color amarillo, banda de contorno
+y símbolo en color negro según la tabla 3 y la tabla C 1.
+                                   TABLA C 1 Señales de precaución
+
+                                             CONTENIDO DE IMAGEN DEL
+                     INDICACION                                                        EJEMPLO
+                                                      SIMBOLO
+
+
+
+
+         INDICACION GENERAL DE
+ C.1                                      SIGNO DE ADMIRACION
+         PRECAUCION
+
+
+
+
+                                          CRANEO    HUMANO      DE   FRENTE
+         PRECAUCION, SUSTANCIA
+ C.2                                      CON  DOS   HUESOS   LARGOS
+         TOXICA
+                                          CRUZADOS POR DETRAS
+
+
+
+
+                                          UNA MANO INCOMPLETA SOBRE
+                                          LA QUE UNA PROBETA DERRAMA
+         PRECAUCION, SUSTANCIAS           UN LIQUIDO. EN ESTE SIMBOLO
+ C.3
+         CORROSIVAS                       PUEDE AGREGARSE UNA BARRA
+                                          INCOMPLETA SOBRE LA QUE OTRA
+                                          PROBETA DERRAMA UN LIQUIDO
+
+
+
+
+         PRECAUCION, MATERIALES
+ C.4                                      IMAGEN DE FLAMA
+         INFLAMABLES Y COMBUSTIBLES
+
+
+
+
+         PRECAUCION, MATERIALES           CORONA     CIRCULAR    CON    UNA
+ C.5
+         OXIDANTES Y COMBURENTES          FLAMA
+
+
+
+
+         PRECAUCION, MATERIALES CON
+ C.6                                      UNA BOMBA EXPLOTANDO
+         RIESGO DE EXPLOSION
+ Martes 25 de noviembre de 2008       DIARIO OFICIAL                 (Primera Sección)
+
+                                      CONTENIDO DE IMAGEN DEL
+                 INDICACION                                          EJEMPLO
+                                             SIMBOLO
+
+
+
+
+       ADVERTENCIA DE RIESGO        FLECHA QUEBRADA EN POSICION
+C.7
+       ELECTRICO                    VERTICAL HACIA ABAJO
+
+
+
+
+                                    LINEA CONVERGIENDO HACIA UNA
+C.8    RIESGO POR RADIACION LASER
+                                    IMAGEN DE RESPLANDOR
+
+
+
+
+       ADVERTENCIA DE RIESGO        CIRCUNFERENCIA Y TRES MEDIAS
+C.9
+       BIOLOGICO                    LUNAS
+
+
+
+
+                                    IMAGEN ABSTRACTA DE ANTENA
+       RIESGO POR RADIACION NO
+C.10                                EMITIENDO            ONDAS
+       IONIZANTE
+                                    ELECTROMAGNETICAS
+
+
+
+
+       RIESGO POR PRESENCIA DE      SILUETA DE IMAN CON DOS ARCOS
+C.11
+       CAMPOS MAGNETICOS            RADIANTES EN AMBOS LADOS
+
+
+
+
+                                    SILUETA  HUMANA    ESTILIZADA
+       RIESGO DE OBSTACULOS EN
+C.12                                TROPEZANDO       CON       UN
+       ZONAS TRANSITABLES
+                                    OBSTACULO EN EL SUELO
+
+
+
+
+                                    SILUETA  HUMANA     ESTILIZADA
+C.13   RIESGO DE CAIDA A DESNIVEL   CAYENDO DESDE EL BORDE DE
+                                    UNA SUPERFICIE A DESNIVEL
+        (Primera Sección)                     DIARIO OFICIAL                Martes 25 de noviembre de 2008
+
+                                              CONTENIDO DE IMAGEN DEL
+                      INDICACION                                                        EJEMPLO
+                                                     SIMBOLO
+
+
+
+          RIESGO POR BAJA
+                                           FIGURA ABSTRACTA MOSTRADA
+ C.14     TEMPERATURA / CONDICIONES
+                                           EN LA IMAGEN CONTIGUA
+          DE CONGELAMIENTO
+
+
+
+
+                                           SILUETA ESTILIZADA DE HOMBRE
+          RIESGO POR SUPERFICIE
+ C.15                                      CAYENDO SOBRE UNA SUPERFICIE
+          RESBALOSA
+                                           RESBALOSA
+
+
+
+
+                                           OBJETO CUADRANGULAR
+          RIESGO DE CAIDA DE CARGAS        SOPORTADO POR CUATRO
+ C.16
+          SUSPENDIDAS                      CUERDAS, DONDE SE OBSERVA
+                                           ROTA UNA DE ELLAS
+
+
+
+
+          PRECAUCION, ZONA DE
+          TRANSITO DE MONTACARGAS U        CONTORNO DE PERFIL DE
+ C.17     OTROS VEHICULOS                  MONTACARGAS Y SILUETA DE
+          INDUSTRIALES DE TRANSPORTE       CONDUCTOR
+          DE MATERIALES
+
+
+
+
+          PRECAUCION, SUPERFICIE           FIGURA ABSTRACTA MOSTRADA
+ C.18
+          CALIENTE                         EN LA IMAGEN CONTIGUA
+
+
+
+
+                                           IMAGEN   DE     TERMOMETRO
+          PRECAUCION, ZONA A ALTA
+ C.19                                      MOSTRANDO INDICACION DE ALTA
+          TEMPERATURA
+                                           TEMPERATURA
+
+
+
+
+                                               APENDICE D
+                                          Señales de información
+    En el presente apéndice se establecen las señales para informar sobre ubicación de equipo contra
+incendio, equipo y estaciones de protección y atención en casos de emergencia, e instalaciones para
+personas con discapacidad, según las tablas D 1, D 2 y D 3.
+   D 1 Señales de información para equipo contra incendio.
+    Estas señales deben tener forma cuadrada o rectangular, fondo en color rojo, símbolo y, en su caso,
+flecha direccional en color blanco. La flecha direccional podrá omitirse en el caso de que el señalamiento se
+encuentre en la proximidad del elemento señalizado. Adicionalmente se podrá agregar la imagen de una flama
+en color blanco.
+   Martes 25 de noviembre de 2008             DIARIO OFICIAL                             (Primera Sección)
+
+                     TABLA D 1 Señales para equipo a utilizar en caso de incendio
+                                              CONTENIDO DE IMAGEN DEL
+                    INDICACION                                                          EJEMPLO
+                                                     SIMBOLO
+
+
+
+                                           SILUETA DE UN EXTINTOR CON
+                                           FLECHA DIRECCIONAL
+ D.1.1   UBICACION DE UN EXTINTOR
+                                           OPCIONAL, EN EL SENTIDO
+                                           REQUERIDO
+
+
+
+
+                                           SILUETA DE UN HIDRANTE CON
+ D.1.2   UBICACION DE UN HIDRANTE
+                                           FLECHA DIRECCIONAL
+
+
+
+
+   D 2 Señales de información para salidas de emergencia y primeros auxilios.
+   Estos señalamientos deben tener forma geométrica rectangular o cuadrada, fondo en color verde y
+símbolo y, en su caso, flecha direccional en color blanco. La flecha direccional podrá omitirse en el caso de
+que el señalamiento se encuentre en la proximidad del elemento señalizado. En el caso del señalamiento
+sobre ubicación de una salida de emergencia, véase descripción de contenido de imagen establecida en
+D.2.1.
+       (Primera Sección)                       DIARIO OFICIAL               Martes 25 de noviembre de 2008
+
+
+
+
+   D 3 Señal de información para personas con discapacidad.
+   Este señalamiento debe tener forma geométrica rectangular o cuadrada, fondo en color azul y símbolo.
+       TABLA D 3 Señal que indica la ubicación instalaciones para personas con discapacidad
+                                          CONTENIDO DE IMAGEN DEL
+                   INDICACION                                                         EJEMPLO
+                                                 SIMBOLO
+
+
+                                 FIGURA HUMANA ESTILIZADA EN
+                                 SILLA DE RUEDAS
+            UBICACION DE RUTAS,
+                                 NOTA: Para identificar rutas, espacios o
+            ESPACIOS O SERVICIOS
+                                 servicios a utilizarse por personas con
+ D.3        ACCESIBLES     PARA
+                                 discapacidad, en caso de emergencia,
+            PERSONAS        CON
+                                 este señalamiento podrá utilizarse en
+            DISCAPACIDAD
+                                 combinación con cualquier otro de los
+                                 establecidos en esta Norma.
+
+
+
+
+                APENDICE E Señal de seguridad e higiene relativa a radiaciones ionizantes
+    Las características de las señales de seguridad e higiene que deben ser utilizadas en los centros de
+trabajo para advertir la presencia de radiaciones ionizantes son:
+       a)     Forma geométrica:     cuadrada o triangular
+       b)     Color de              amarillo
+              seguridad:
+       c)     Color contrastante:   magenta o negro
+       d)     Símbolo:              el color del símbolo debe ser el magenta o negro; este símbolo debe
+                                    cumplir con la forma y dimensiones que se muestran en la figura E1
+       e)     Texto:                opcional, siempre y cuando cumpla con lo establecido en el apartado
+                                    8.3.1
+   Martes 25 de noviembre de 2008             DIARIO OFICIAL                              (Primera Sección)
+
+
+
+
+                                                FIGURA E1
+           EJEMPLO DE SEÑAL PARA INDICAR PRESENCIA DE RADIACIONES IONIZANTES
+
+
+
+
+                                                FIGURA E 2
+                Ejemplo de señal alternativa para indicar presencia de radiaciones ionizantes
+                                          GUIA DE REFERENCIA
+   Consideraciones generales sobre señalización
+    El contenido de esta guía es un complemento para la mejor comprensión de la Norma y no es de
+cumplimiento obligatorio. En ésta se incluyen algunos comentarios sobre aspectos relacionados con la
+interpretación y aplicación de la presente Norma, así como otros complementarios en materia de señalización.
+   I. Generalidades
+     La señalización es una valiosa herramienta que coadyuva a incrementar la seguridad de los trabajadores,
+y de las personas ajenas a los centros laborales que llegan a ingresar a éstos, tal como contratistas,
+visitantes, y cuerpos de auxilio y apoyo en situaciones de emergencia.
+       (Primera Sección)                       DIARIO OFICIAL                 Martes 25 de noviembre de 2008
+
+   El uso estandarizado de ciertos colores y señales permite atraer fácil y rápidamente la atención de los
+observadores, aspecto de suma importancia en el campo de la señalización sobre seguridad. Los mensajes
+de esta señalización se abocan típicamente a indicar: riesgos físicos (p. ej. escalones, desniveles u obstáculos
+en zonas de tránsito), delimitación de áreas de tránsito y de movimiento-operación de vehículos o maquinaria,
+condición de riesgo de un fluido en un sistema de tubería, uso obligatorio de un equipo de protección
+específico, localización de equipos para uso en casos de emergencia, prohibición de realizar acciones
+susceptibles de originar un riesgo, entre otros.
+   La experiencia ha mostrado que cuando las personas son advertidas oportunamente a través de la
+señalización de las condiciones de riesgo y/o las medidas de precaución que deben observarse en una
+determinada zona o situación, se minimiza en mucho la posibilidad de ocurrencia de accidentes u otro tipo de
+daños. Sin embargo, se debe evitar el uso indiscriminado de señales de seguridad e higiene como técnica de
+prevención contra accidentes y enfermedades de trabajo.
+    La eficacia de la señalización para los fines antes expuestos, se incrementa de manera importante cuando
+existe un sistema o código a través del cual se definen y unifican los criterios sobre las características,
+significados y aplicaciones de los colores, símbolos y señales, pues facilita a las personas a quienes van
+dirigidos los mensajes, la familiarización con estos elementos de información, y se fomenta y refuerza una
+cultura de seguridad.
+    La importancia de la señalización ha originado que en prácticamente todos los países se haya emitido
+alguna normatividad en la materia, y se realizan esfuerzos para que existan normas a este respecto en el
+ámbito internacional, mismas que evidentemente pretenden impulsar la homologación en todo el mundo de las
+características y aplicaciones de los señalamientos y el color, en campos como el laboral, de protección civil y
+de transportes.
+   Sobre esto último, vale la pena destacar que la presente versión de la NOM-026-STPS-2008, ha tomado
+en consideración la Norma Internacional ISO 7010:2003 Graphical symbols–Safety colours and safety signs–
+Safety signs in workplaces and public areas, buscándose de esta forma ser congruente con los criterios que al
+respecto han definido los expertos en este tema, de diversas regiones del mundo.
+   II. Señales de seguridad e higiene
+    Como se ha destacado anteriormente, el campo de la seguridad e higiene en el trabajo se apoya en un
+sistema de señalización estandarizada, para reforzar las medidas relacionadas con la prevención de
+accidentes y enfermedades, el cual se basa en el uso de mensajes gráficos, más que de textos, para lograr el
+entendimiento. La falta de estandarización puede llegar a originar confusión y quizá accidentes.
+    Una señal de seguridad e higiene es un sistema que se compone básicamente de los elementos
+siguientes:
+   -     una forma geométrica;
+   -     color de seguridad y color contrastante, y
+   -     un símbolo o pictograma.
+   El tipo de señal (prohibición, obligación, precaución o información) y el mensaje específico de ésta se
+asocia con los tres elementos antes citados.
+    La presente Norma contiene en sus apéndices los símbolos de uso más común en el campo de la
+seguridad e higiene en el trabajo; sin embargo, puede llegar a requerirse de otros no tipificados en dichos
+apéndices, lo cual conlleva a requerir diseñar tales símbolos, generalmente de uso específico. En estos casos,
+se debe tener presente que la forma geométrica, los colores de seguridad y contrastantes, las dimensiones, el
+uso de textos, entre otros, deben apegarse a los requisitos establecidos en esta NOM-026-STPS-2008.
+Asimismo, la Norma prevé en el caso de los señalamientos de obligación y precaución, la utilización del
+símbolo de indicación general, consistente en un signo de admiración, mismos que pueden emplearse para la
+transmisión de mensajes no incluidos en la Norma, particularmente cuando son de difícil representación
+gráfica. Estos últimos señalamientos deben complementarse con textos que precisen el significado del
+mensaje.
+   Cuando se diseñen símbolos para señales no previstas en los apéndices de la NOM-026-STPS-2008, se
+deben cumplir los objetivos siguientes:
+   Martes 25 de noviembre de 2008                 DIARIO OFICIAL                           (Primera Sección)
+
+   a)    Atraer la atención de los trabajadores a los que está destinado el mensaje específico;
+   b)    Conducir a una sola interpretación;
+   c)    Ser claras para facilitar su interpretación;
+   d)    Informar sobre la acción específica a seguir en cada caso, y
+   e)    Ser factible de cumplirse en la práctica.
+    Por otro lado, es importante que los señalamientos de información para salidas de emergencia, rutas de
+evacuación, primeros auxilios y equipo contra incendio, que se utilicen en interiores, cuenten con una fuente
+de iluminación de emergencia que lo haga visible, o sean fabricados de materiales que permanezcan visibles
+(fotoluminiscentes) cuando ocurra una interrupción de la iluminación del local o edificio en que se encuentren.
+    En lo referente a los tonos de los colores de seguridad a emplear en los señalamientos, se sugiere que
+éstos correspondan claramente con los especificados en la presente Norma, es decir, emplear tonalidades
+que no lleguen a confundirse con otros colores diferentes a los requeridos (rojo tendiente al naranja, azul
+tendiente a verde, etc.); asimismo es importante que el señalamiento resalte en el entorno en el que se ubica,
+por lo que deben seleccionarse tonos llamativos y que contraste claramente con el color del símbolo.
+   Por último, en relación a la dimensión de las señales para cumplir los requerimientos de la presente
+Norma, se puede tomar como ejemplo el caso siguiente:
+   Cálculo para determinar las dimensiones mínimas que deben tener los señalamientos, para cumplir con el
+requerimiento establecido en el punto 8.4.
+    Se requiere saber qué dimensiones deberán tener los señalamientos de forma cuadrada, circular,
+triangular y rectangular, que deberán ser visualizados a una distancia de 15 m.
+      (Primera Sección)                       DIARIO OFICIAL               Martes 25 de noviembre de 2008
+
+
+
+
+   Es decir, un señalamiento rectangular de 0.28 m × 0.42 m (28 cm × 42 cm), cubriría el requerimiento de
+dimensiones mínimas, y de relación altura-base de 1:1.5.
+   A continuación se presenta una tabla en la que se muestran las dimensiones mínimas que deben tener los
+señalamientos para ciertos valores típicos de distancia de visualización, la cual se tomó como referencia de
+Norma Oficial Mexicana NOM-003-SEGOB/2002, Señales y avisos para protección civil.- Colores, formas y
+símbolos a utilizar.
+
+                                                     DIMENSIONES MINIMAS SEGUN FORMA
+    DISTANCIA DE          SUPERFICIE
+                                                         GEOMETRICA DE LA SEÑAL
+   VISUALIZACION            MINIMA
+                                       CUADRADO         CIRCULO        TRIANGULO         RECTANGULO
+
+                                                                                       (Base 2 : Altura 1)
+          (L)                           (por lado)      (diámetro)      (por lado)
+                                                                                                 (cm)
+                                2
+          (m)               (cm )          (cm)            (cm)            (cm)          Base       Altura
+
+           5                125,0          11,2            12,6            17,0          15,8           7,9
+
+          10                500,0          22,4            25,2            34,0          31,6           15,8
+
+          15                1 125,0        33,5            37,9            51,0          47,4           23,7
+
+          20                2 000,0        44,7            50,5            68,0          63,2           31,6
+
+          25                3 125,0        55,9            63,1            85,0          79,1           39,5
+
+          30                4 500,0        67,1            75,7            101,9         94,9           47,4
+
+          35                6 125,0        78,3            88,3            118,9         110,7          55,3
+
+          40                8 000,0        89,4           101,0            135,9         126,5          63,2
+
+          45               10 125,0        100,6          113,6            152,9         142,3          71,2
+
+          50               12 500,0        111,8          126,2            169,9         158,1          79,1
+    Martes 25 de noviembre de 2008               DIARIO OFICIAL                               (Primera Sección)
+
+
+    III. Identificación de tubería
+
+    En la presente Norma se establecen cuatro elementos para la identificación de las tuberías, a saber:
+
+    -     color de seguridad;
+
+    -     color contrastante;
+
+    -     información complementaria, e
+
+    -     indicación de dirección de flujo.
+
+    De estos cuatro elementos, el primero de ellos ha llegado a causar algunas confusiones respecto a su
+aplicación complementaria con el uso de otros códigos.
+
+    El capítulo 9 Identificación de riesgos por fluidos conducidos en tuberías de esta NOM-026-STPS-2008 se
+orienta básicamente a la determinación de la condición de riesgo o no-riesgo de los fluidos conducidos en las
+tuberías, y el caso particular de la identificación de la tubería contra incendio. Aunque el código establecido en
+esta Norma puede emplearse para identificar los fluidos, no está pensado para ese fin en particular, y en
+muchos centros de trabajo es recomendable el uso de un código de colores complementario para identificar
+los fluidos.
+
+    Al respecto, cabe destacar que la NOM-026-STPS-2008 ha considerado dentro de las alternativas de
+aplicación del color de seguridad, la implementación de éste a través de bandas o etiquetas, cuya longitud se
+especifica en función al diámetro exterior de la tubería (véase tabla 5). Dichas alternativas se han
+considerado, entre otros aspectos, con el fin de permitir el uso de otros códigos, destinados a la identificación
+de los fluidos.
+
+    Por ejemplo, si en un centro de trabajo se emplea el color violeta para identificar el ácido sulfúrico, habrá
+que agregar únicamente la banda de color de seguridad (amarillo en este caso por tratarse de un fluido
+peligroso), cubriéndose así los dos objetivos de identificar el fluido y proporcionar información relativa a la
+condición de riesgo de éste. La primera señalización será reconocida normalmente sólo por los trabajadores
+del centro laboral en que se ha aplicado, y la segunda corresponde a un código general estandarizado y
+enfocado a advertir sobre el riesgo implicado en la sustancia en cuestión, pudiendo llegar a ser interpretado
+no únicamente por el personal de ese centro de trabajo, sino incluso por personas ajenas a éste.
+
+    Las limitantes que pueden llegar a tenerse para emplear simultáneamente el código de la
+NOM-026-STPS-2008 y los implementados en los centros de trabajo, son únicamente que estos últimos no
+deben contraponerse a lo establecido por la NOM-026-STPS-2008; por ejemplo, no debiera emplearse el color
+verde para identificar un fluido peligroso, pues a éste se le ha asignado el significado de “fluido no peligroso” y
+“condición segura”. Además, el uso del color rojo debiera restringirse a la tubería contra incendio únicamente.
+
+    IV. Identificación de tubería eléctrica
+
+    Las tuberías visibles o accesibles a los trabajadores, destinadas a contener conductores eléctricos, para
+diferenciarse de las tuberías que conducen sustancias químicas, pueden contener leyendas, símbolos,
+marcas o colores para comunicar el riesgo eléctrico, por ejemplo la leyenda “RIESGO ELECTRICO”, el valor
+del potencial, “220 V” o el símbolo de riesgo eléctrico (véase tabla C.1, numeral C.7).
+
+                                        ____________________________
+

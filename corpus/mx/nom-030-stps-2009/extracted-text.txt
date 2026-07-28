@@ -1,0 +1,779 @@
+   Martes 22 de diciembre de 2009                DIARIO OFICIAL                                 (Tercera Sección)
+
+
+                        TERCERA SECCION
+                        PODER EJECUTIVO
+            SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+NORMA Oficial Mexicana NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo-
+Funciones y actividades.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría del Trabajo y
+Previsión Social.
+    JAVIER LOZANO ALARCON, Secretario del Trabajo y Previsión Social, con fundamento en los artículos
+16 y 40, fracciones I y XI, de la Ley Orgánica de la Administración Pública Federal; 512, 523, fracción I, 524 y
+527, último párrafo, de la Ley Federal del Trabajo; 3o., fracción XI, 38, fracción II, 40, fracción VII, 47, fracción
+IV, 51, cuarto párrafo, y 52 de la Ley Federal sobre Metrología y Normalización; 28 del Reglamento de la Ley
+Federal sobre Metrología y Normalización; 4o., 17, fracción X, 130 al 134, y 142 al 152 del Reglamento
+Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, y 19 del Reglamento Interior de la Secretaría del
+Trabajo y Previsión Social, y
+                                                CONSIDERANDO
+    Que con fecha 30 de junio de 2009, en cumplimiento de lo previsto por el artículo 46, fracción I, de la Ley
+Federal sobre Metrología y Normalización, la Secretaría del Trabajo y Previsión Social presentó ante el
+Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo, el Anteproyecto de
+Modificación de la presente Norma Oficial Mexicana, y que el citado Comité lo consideró correcto y acordó
+que se publicara como Proyecto en el Diario Oficial de la Federación;
+    Que con objeto de cumplir con lo dispuesto en los artículos 69-E y 69-H, de la Ley Federal de
+Procedimiento Administrativo, el Anteproyecto correspondiente fue sometido a la consideración de la
+Comisión Federal de Mejora Regulatoria, la que dictaminó favorablemente en relación al mismo;
+    Que con fecha 18 de septiembre de 2009, en cumplimiento del Acuerdo por el que se establece la
+organización y Reglas de Operación del Comité Consultivo Nacional de Normalización de Seguridad y Salud
+en el Trabajo, y de lo previsto por el artículo 47, fracción I, de la Ley Federal sobre Metrología y
+Normalización, se publicó en el Diario Oficial de la Federación el Proyecto de Modificación de la Norma Oficial
+Mexicana NOM-030-STPS-2006, Servicios preventivos de seguridad y salud en el trabajo-Organización y
+funciones, para quedar como PROY-NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el
+trabajo-Funciones y actividades, a efecto de que, dentro de los siguientes 60 días naturales a dicha
+publicación, los interesados presentaran sus comentarios al Comité;
+    Que habiendo recibido comentarios de siete promoventes, el Comité referido procedió a su estudio y
+resolvió oportunamente sobre los mismos, publicando esta dependencia las respuestas respectivas en el
+Diario Oficial de la Federación de 30 de noviembre de 2009, en cumplimiento a lo previsto por el artículo 47,
+fracción III, de la Ley Federal sobre Metrología y Normalización;
+    Que derivado de la incorporación de los comentarios presentados al Proyecto de Modificación de la
+Norma Oficial Mexicana NOM-030-STPS-2006, Servicios preventivos de seguridad y salud en el trabajo-
+Organización y funciones, para quedar como PROY-NOM-030-STPS-2009, Servicios preventivos de
+seguridad y salud en el trabajo-Funciones y actividades, así como de la revisión final del propio proyecto, se
+realizaron diversas modificaciones con el propósito de dar claridad, congruencia y certeza jurídica en cuanto a
+las disposiciones que aplican en los centros de trabajo, y
+    Que en atención a las anteriores consideraciones y toda vez que el Comité Consultivo Nacional de
+Normalización de Seguridad y Salud en el Trabajo otorgó la aprobación respectiva, se expide la siguiente:
+        NOM-030-STPS-2009, SERVICIOS PREVENTIVOS DE SEGURIDAD Y SALUD EN EL TRABAJO-
+                                   FUNCIONES Y ACTIVIDADES
+                                                    INDICE
+   1.     Objetivo
+   2.     Campo de aplicación
+   3.     Definiciones
+   4.     Obligaciones del patrón
+   5.     Funciones y actividades del responsable de seguridad y salud en el trabajo
+   6.     Diagnóstico de seguridad y salud en el trabajo
+   7.     Programa de seguridad y salud en el trabajo o relación de acciones preventivas y correctivas de
+          seguridad y salud en el trabajo
+   8.     Unidades de verificación
+   9.     Procedimiento para la evaluación de la conformidad
+   10.    Vigilancia
+   11.    Bibliografía
+   12.    Concordancia con normas internacionales
+       (Tercera Sección)                       DIARIO OFICIAL                  Martes 22 de diciembre de 2009
+
+    Guía de Referencia I Recomendaciones para Instrumentar las Acciones para la Atención a Emergencias
+en los Centros de Trabajo
+   Guía de Referencia II Recomendaciones para Instrumentar las Acciones de Salud en el Trabajo
+   1. Objetivo
+   Establecer las funciones y actividades que deberán realizar los servicios preventivos de seguridad y salud
+en el trabajo para prevenir accidentes y enfermedades de trabajo.
+   2. Campo de aplicación
+   La presente Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo.
+   3. Definiciones
+   Para efectos de la presente Norma, se establecen las definiciones siguientes:
+    3.1 Acciones preventivas y correctivas: Son aquellas que se establecen a partir de los resultados del
+diagnóstico de seguridad y salud en el trabajo, y que se refieren al listado de requerimientos en la materia,
+tales como: estudios; programas; procedimientos; medidas de seguridad; acciones de reconocimiento,
+evaluación y control de los agentes contaminantes del medio ambiente laboral; seguimiento a la salud de los
+trabajadores; equipo de protección personal; capacitación; autorizaciones, y registros administrativos.
+    3.2 Autoridad Laboral; Autoridad del Trabajo: Las unidades administrativas competentes de la
+Secretaría del Trabajo y Previsión Social que realizan funciones de inspección en materia de seguridad y
+salud en el trabajo y las correspondientes de las entidades federativas y del Distrito Federal, que actúen en
+auxilio de aquéllas.
+   3.3 Centro de trabajo: Todos aquellos lugares tales como edificios, locales, instalaciones y áreas, en los
+que se realicen actividades de producción, comercialización, transporte y almacenamiento o prestación de
+servicios, o en el que laboren personas que estén sujetas a una relación de trabajo.
+    3.4 Diagnóstico de seguridad y salud en el trabajo: Es la identificación de las condiciones físicas
+peligrosas o inseguras; de los agentes capaces de modificar las condiciones del medio ambiente laboral; de
+los peligros circundantes al centro de trabajo, así como de los requerimientos normativos en materia de
+seguridad y salud en el trabajo que resulten aplicables.
+    3.5 Exhibir: Es la presentación a la autoridad laboral de documentos, registros e información, cuando ésta
+así lo solicite, para su revisión y constatación de cumplimiento con la presente Norma.
+     3.6 Material y sustancia química peligrosa: Son aquellos con características físicas, químicas o
+biológicas intrínsecas que han sido clasificados como peligrosos para la salud de los trabajadores por su
+irritabilidad, toxicidad, inflamabilidad, explosividad, corrosividad, reactividad o acción biológica.
+   3.7 Personal ocupacionalmente expuesto, POE: Es aquel trabajador que en ejercicio y con motivo de su
+ocupación, desempeña una actividad que se considera peligrosa.
+    3.8 Peligro: Son las características o propiedades intrínsecas de los agentes o condiciones presentes en
+el ambiente laboral. Su grado de peligrosidad se obtiene al evaluar la potencialidad del efecto que pueden
+generar o provocar dichas características o propiedades de los agentes o condiciones.
+    3.9 Procedimientos; instructivos: Son los medios escritos o dispositivos de almacenamiento de datos
+del sistema de control interno del centro de trabajo creados para proveer información detallada, ordenada,
+sistemática e integral del desarrollo de las actividades laborales y/o emergencias.
+    3.10 Programa de seguridad y salud en el trabajo: Documento que contiene el conjunto de acciones
+preventivas y correctivas por instrumentar para evitar riesgos en los centros de trabajo, que puedan afectar la
+vida, salud e integridad física de los trabajadores o causar daños en sus instalaciones.
+   3.11 Responsable de seguridad y salud en el trabajo: Es el patrón o la persona designada por él, para
+prestar los servicios preventivos de seguridad y salud en el trabajo.
+    3.12 Riesgo: Es la correlación de la peligrosidad de un agente o condición física y la exposición de los
+trabajadores con la posibilidad de causar efectos adversos para su salud o vida, o dañar al centro de trabajo.
+Como expresión, el riesgo es igual al peligro por la exposición del trabajador.
+    3.13 Riesgo grave; riesgo inminente: Es aquel que tiene una alta probabilidad de materializarse en un
+futuro inmediato y supone un daño grave para la salud de los trabajadores.
+   3.14 Seguridad y salud en el trabajo: Son los programas, procedimientos, medidas y acciones de
+reconocimiento, evaluación y control que se aplican en los centros laborales para prevenir accidentes y
+enfermedades de trabajo, con el objeto de preservar la vida, salud e integridad física de los trabajadores, así
+como de evitar cualquier posible deterioro al centro de trabajo.
+    3.15 Servicios preventivos de seguridad y salud en el trabajo: Son aquellos prestados por personal
+capacitado -interno, externo o mixto-, cuyo propósito principal es prevenir los accidentes y enfermedades de
+trabajo, mediante el cumplimiento de la normatividad en materia de seguridad y salud en el trabajo. Se
+     Martes 22 de diciembre de 2009             DIARIO OFICIAL                                (Tercera Sección)
+
+entiende por internos, los prestados por el patrón o personal del centro de trabajo; externos, los prestados por
+personal independiente al centro de trabajo, y mixtos, los prestados tanto por personal interno como por
+personal independiente al centro de trabajo.
+     4. Obligaciones del patrón
+   4.1 Designar a un responsable de seguridad y salud en el trabajo interno o externo, para llevar a cabo las
+funciones y actividades preventivas de seguridad y salud en el centro de trabajo a que se refiere el Capítulo 5.
+    4.1.1 El patrón podrá asumir las funciones y actividades preventivas de seguridad y salud a que se refiere
+el Capítulo 5, en el caso de centros de trabajo que cuenten con menos de cien trabajadores.
+    4.2 Proporcionar al responsable de seguridad y salud en el trabajo:
+         a)   El acceso a las diferentes áreas del centro de trabajo para identificar los factores de peligro y la
+              exposición de los trabajadores a ellos;
+         b)   La información relacionada con la seguridad y salud en el trabajo de los procesos, puestos de
+              trabajo y actividades desarrolladas por los trabajadores, y
+         c)   Los medios y facilidades para establecer las medidas de seguridad y salud en el trabajo para la
+              prevención de los accidentes y enfermedades laborales.
+    4.3 Contar con un diagnóstico integral o por área de trabajo de las condiciones de seguridad y salud del
+centro laboral, de acuerdo con lo que establece el Capítulo 6. El diagnóstico integral comprenderá a las
+diversas áreas, secciones o procesos que conforman al centro de trabajo, en tanto que el relativo al área de
+trabajo, se referirá de manera exclusiva a cada una de ellas.
+   4.4 Contar con un programa de seguridad y salud en el trabajo, elaborado con base en el diagnóstico a
+que se refiere el Capítulo 6. El programa deberá actualizarse al menos una vez al año.
+   4.4.1 Los centros de trabajo que cuenten con menos de cien trabajadores deberán elaborar una relación
+de acciones preventivas y correctivas de seguridad y salud en el trabajo, de acuerdo con las actividades que
+desarrollen. La relación de acciones preventivas y correctivas deberá actualizarse al menos una vez al año.
+     4.5 Comunicar a la comisión de seguridad e higiene y/o a los trabajadores, según aplique, el diagnóstico
+integral o por área de trabajo de las condiciones de seguridad y salud y el contenido del programa de
+seguridad y salud en el trabajo o de la relación de acciones preventivas y correctivas de seguridad y salud en
+el trabajo.
+    4.6 Contar con los reportes de seguimiento de los avances en la instauración del programa de seguridad y
+salud en el trabajo o de la relación de acciones preventivas y correctivas de seguridad y salud en el trabajo,
+según aplique.
+   4.7 Capacitar al personal de la empresa que forme parte de los servicios preventivos de seguridad y salud
+en el trabajo, en las funciones y actividades que establece la presente Norma.
+   4.8 Conservar la documentación a que hace referencia la presente Norma al menos por dos años.
+   4.9 Exhibir a la autoridad del trabajo, cuando ésta así lo solicite, los documentos y registros que la
+presente Norma le obligue a elaborar o poseer.
+   5. Funciones y actividades del responsable de seguridad y salud en el trabajo
+     5.1 Elaborar el diagnóstico de seguridad y salud en el trabajo, de acuerdo con lo establecido en el Capítulo
+6.
+    5.2 Elaborar el programa de seguridad y salud en el trabajo o la relación de acciones preventivas y
+correctivas de seguridad y salud en el trabajo, priorizándolas para su atención, con base en el riesgo
+involucrado.
+     5.3 Establecer los mecanismos de respuesta inmediata cuando se detecte un riesgo grave e inminente.
+    5.4 Incorporar en el programa de seguridad y salud en el trabajo o en la relación de acciones preventivas y
+correctivas de seguridad y salud en el trabajo, las acciones y programas de promoción para la salud de los
+trabajadores y para la prevención integral de las adicciones que recomienden o dicten las autoridades
+competentes.
+    5.5 Incorporar en el programa de seguridad y salud en el trabajo o en la relación de acciones preventivas y
+correctivas de seguridad y salud en el trabajo, las acciones para la atención de emergencias y contingencias
+sanitarias que recomienden o dicten las autoridades competentes.
+    5.6 Establecer los procedimientos, instructivos, guías o registros necesarios para dar cumplimiento al
+programa de seguridad y salud en el trabajo o a la relación de acciones preventivas y correctivas de seguridad
+y salud en el trabajo.
+    5.7 Realizar el seguimiento de los avances en la instauración del programa de seguridad y salud en el
+trabajo o de la relación de acciones preventivas y correctivas de seguridad y salud en el trabajo y reportar por
+escrito los resultados al patrón, al menos una vez al año.
+        (Tercera Sección)                       DIARIO OFICIAL                 Martes 22 de diciembre de 2009
+
+    5.8 Registrar los resultados del seguimiento del programa de seguridad y salud en el trabajo o de la
+relación de acciones preventivas y correctivas de seguridad y salud en el trabajo.
+    5.9 Verificar que, con la instauración del programa de seguridad y salud en el trabajo o de la relación de
+acciones preventivas y correctivas de seguridad y salud en el trabajo, se cumpla con el objeto de su aplicación
+y, en su caso, realizar las adecuaciones que se requieran tanto al diagnóstico como al programa o a la
+relación.
+   6. Diagnóstico de seguridad y salud en el trabajo
+   6.1 El diagnóstico integral o por área de trabajo sobre las condiciones de seguridad y salud en el centro
+laboral, deberá considerar al menos la identificación de lo siguiente:
+   a)     Las condiciones físicas peligrosas o inseguras que puedan representar un riesgo en las
+          instalaciones, procesos, maquinaria, equipo, herramientas, medios de transporte, materiales y
+          energía;
+   b)     Los agentes físicos, químicos y biológicos capaces de modificar las condiciones del medio ambiente
+          del centro de trabajo que, por sus propiedades, concentración, nivel y tiempo de exposición o acción,
+          pueden alterar la salud de los trabajadores, así como las fuentes que los generan;
+   c)     Los peligros circundantes al centro de trabajo que lo puedan afectar, cuando sea posible, y
+   d)     Los requerimientos normativos en materia de seguridad y salud en el trabajo que resulten aplicables.
+    6.2 El diagnóstico de seguridad y salud en los centros de trabajo que cuenten con menos de cien
+trabajadores, podrá ser integral y contener al menos lo previsto en el numeral 6.1, inciso d).
+   7. Programa de seguridad y salud en el trabajo o relación de acciones preventivas y correctivas de
+seguridad y salud en el trabajo
+   7.1 El programa de seguridad y salud en el trabajo, deberá contener al menos:
+   a)     La acción preventiva o correctiva por instrumentar por cada aspecto identificado;
+   b)     Las acciones y programas de promoción para la salud de los trabajadores y para la prevención
+          integral de las adicciones que recomienden o dicten las autoridades competentes;
+   c)     Las acciones para la atención de emergencias y contingencias sanitarias que recomienden o dicten
+          las autoridades competentes;
+   d)     Las fechas de inicio y término programadas para instrumentar las acciones preventivas o correctivas
+          y para la atención de emergencias, y
+   e)     El responsable de la ejecución de cada acción preventiva o correctiva y para la atención de
+          emergencias.
+    7.2 La relación de acciones preventivas y correctivas de seguridad y salud en los centros de trabajo que
+cuenten con menos de cien trabajadores, deberá contener al menos lo previsto en el numeral 7.1, incisos a),
+b), c) y d).
+   8. Unidades de verificación
+    8.1 El patrón tendrá la opción de contratar unidades de verificación acreditadas y aprobadas, según lo
+establecido en la Ley Federal sobre Metrología y Normalización, para verificar o evaluar el cumplimiento con
+la presente Norma.
+    8.2 El patrón podrá consultar el directorio vigente de las unidades de verificación acreditadas y aprobadas
+por la Secretaría del Trabajo y Previsión Social, en la siguiente dirección electrónica: www.stps.gob.mx.
+    8.3 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los
+criterios de cumplimiento establecidos en el procedimiento para la evaluación de la conformidad del Capítulo
+9.
+   8.4 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento de esta Norma
+deberán emitir un dictamen, el cual habrá de contener:
+   a)     Datos del centro de trabajo:
+          1)   Nombre, denominación o razón social;
+          2)   Domicilio completo, y
+          3)   Nombre y firma del representante legal.
+   b)     Datos de la unidad de verificación:
+          1)   Nombre, denominación o razón social;
+          2)   Número de registro otorgado por la entidad de acreditación;
+          3)   Número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;
+          4)   Fecha en que se otorgó la acreditación y aprobación;
+   Martes 22 de diciembre de 2009              DIARIO OFICIAL                               (Tercera Sección)
+
+         5)   Determinación del grado de cumplimiento del centro de trabajo con la presente Norma y, en su
+              caso, las salvedades que determine;
+         6) Resultado de la verificación;
+         7) Nombre y firma del responsable de emitir el dictamen;
+         8) Lugar y fecha de la firma del dictamen, y
+         9) Vigencia del dictamen.
+    8.5 La vigencia del dictamen emitido por las unidades de verificación será de dos años, siempre y cuando
+no se modifiquen las condiciones que sirvieron de base para su emisión.
+    9. Procedimiento para la evaluación de la conformidad
+    9.1 Este procedimiento para la evaluación de la conformidad aplica tanto para las visitas de verificación
+que realicen las unidades de verificación como para las visitas de inspección desarrolladas por la autoridad
+laboral.
+    9.2 El procedimiento para la evaluación de la conformidad de la presente Norma se realizará por medio de
+revisiones documentales, de registros que obren en el centro de trabajo o a través de entrevistas, según
+aplique, conforme a lo siguiente:
+    Disposición           Tipo de                  Criterio de aceptación                  Observaciones
+                      comprobación
+  4.1               Documental         El patrón cumple cuando presenta evidencia Puede               presentar
+                                       documental de que cuenta con un documento                             de
+                                       responsable de seguridad y salud en el nombramiento (interno
+                                       trabajo que lleve a cabo las funciones y o mixto) o contratación
+                                       actividades establecidas en el Capítulo 5.      (externo).
+  4.1.1             Entrevista         El patrón cumple cuando, mediante Esta disposición sólo
+                                       entrevista, se constate que él asume las aplica en los centros
+                                       funciones y actividades preventivas de de trabajo con menos
+                                       seguridad y salud a que se refiere el Capítulo de cien trabajadores.
+                                       5.
+  4.2               Documental         El patrón cumple cuando presenta evidencia Si el responsable de
+                                       documental de que al responsable de seguridad y salud en el
+                                       seguridad y salud en el trabajo se le trabajo es el patrón, no
+                                       proporcionan:                                   se requiere documento
+                                        Las facilidades para ingresar a las alguno para demostrar
+                                            diferentes áreas del centro de trabajo el cumplimiento con
+                                            para identificar los factores de peligro y esta disposición.
+                                            la exposición de los trabajadores;         En caso contrario, el
+                                        La información relacionada con la documento                         de
+                                            seguridad y salud en el trabajo de los designación para el
+                                            procesos, puestos de trabajo y responsable                       de
+                                            actividades    desarrolladas    por    los seguridad y salud en el
+                                            trabajadores, y                            trabajo,     habrá    de
+                                                                                       especificar    que     al
+                                        Los medios y facilidades necesarios para
+                                                                                       responsable           de
+                                            establecer las medidas de seguridad y
+                                                                                       seguridad y salud en el
+                                            salud en el trabajo para la prevención de
+                                                                                       trabajo       se       le
+                                            los accidentes y enfermedades de
+                                                                                       proporcionen         los
+                                            trabajo.
+                                                                                       elementos a que se
+                                                                                       refiere el numeral 4.2.
+
+ 4.3 y 6.1         Documental          El patrón cumple cuando presenta un El               patrón    podrá
+                                       diagnóstico integral o por áreas de trabajo de apoyarse y presentar
+                                       las condiciones de seguridad y salud del como evidencias del
+                                       centro laboral, elaborado de acuerdo con lo cumplimiento de las
+                                       que establece el numeral 6.1, que al menos obligaciones
+                                       identifique:                                   establecidas en los
+                                         Las condiciones físicas peligrosas o numerales 4.3 y 6.1 de
+                                             inseguras que puedan representar un la presente Norma, el
+                                             riesgo en las instalaciones, procesos, reporte “Resultados de
+                                             maquinaria,     equipo,   herramientas, la    Evaluación   del
+                                             medios de transporte, materiales y Cumplimiento de la
+                                             energía;                                 Normatividad       en
+     (Tercera Sección)                    DIARIO OFICIAL                  Martes 22 de diciembre de 2009
+
+ Disposición          Tipo de                Criterio de aceptación                   Observaciones
+                   comprobación
+                                      Los agentes físicos, químicos o Seguridad y Salud en
+                                       biológicos capaces de modificar las el Trabajo”, que se
+                                       condiciones del medio ambiente del obtiene del recuadro
+                                       centro de trabajo que, por sus “Documento                        de
+                                       propiedades, concentración, nivel y resultados”,           en     la
+                                       tiempo de exposición o acción, pueden pantalla        “Resultados
+                                       alterar la salud de los trabajadores, así de la evaluación”, del
+                                       como las fuentes que los generan;         módulo       informático
+                                    Los peligros circundantes al centro de “Evaluación                del
+                                       trabajo que lo puedan afectar, cuando Cumplimiento de la
+                                       sea posible, y                            Normatividad           en
+                                                                                 Seguridad y Salud en
+                                    Los requerimientos normativos en
+                                                                                 el Trabajo”, contenido
+                                       materia de seguridad y salud en el
+                                                                                 en      la      dirección
+                                       trabajo que le resulten aplicables.
+                                                                                 electrónica
+                                                                                 www.stps.gob.mx.
+4.4 y 4.4.1       Documental      El patrón cumple cuando presenta un
+                                  programa o una relación de acciones
+                                  preventivas y correctivas de seguridad y
+                                  salud, actualizado al menos una vez al año.
+4.4 y 7.1         Documental      El patrón cumple cuando presenta un El                patrón       podrá
+                                  programa de seguridad y salud en el trabajo, apoyarse y presentar
+                                  elaborado con base en el diagnóstico a que como evidencias del
+                                  se refiere el Capítulo 6, que al menos cumplimiento de las
+                                  contenga:                                      obligaciones
+                                    La acción preventiva o correctiva por establecidas en los
+                                       instrumentar      por    cada    aspecto numerales 4.4 y 7.1 de
+                                       identificado;                             la presente Norma, el
+                                    Las acciones y programas de reporte “Programa de
+                                       promoción para la salud de los Seguridad y Salud en
+                                       trabajadores y para la prevención el Trabajo”, que se
+                                       integral de las adicciones que obtiene del recuadro
+                                       recomienden o dicten las autoridades “Programa                   de
+                                       competentes;                              actividades”, en la
+                                    Las acciones para la atención de pantalla               “Resultados
+                                       emergencias y contingencias sanitarias de la evaluación”, del
+                                       que recomienden o dicten las módulo                    informático
+                                       autoridades competentes;                  “Evaluación           del
+                                    Las fechas de inicio y término              Cumplimiento      de    la
+                                       programadas para instrumentar las Normatividad                   en
+                                       acciones preventivas o correctivas y Seguridad y Salud en
+                                       para la atención de emergencias, y        el Trabajo”, o bien el
+                                                                                 reporte       “Programa
+                                    El responsable de la ejecución de cada
+                                                                                 para el Cumplimiento
+                                       acción preventiva o correctiva y para la
+                                                                                 de la Normatividad en
+                                       atención de emergencias.
+                                                                                 Seguridad y Salud en
+                                                                                 el Trabajo”, que se
+                                                                                 obtiene del recuadro
+                                                                                 “Programación          de
+                                                                                 fechas                   y
+                                                                                 responsables”, en la
+                                                                                 pantalla “Compromisos
+                                                                                 Programáticos para el
+                                                                                 Cumplimiento de la
+                                                                                 Normatividad           en
+                                                                                 Seguridad y Salud en
+                                                                                 el Trabajo”, del módulo
+                                                                                 informático
+                                                                                 “Elaboración           de
+                                                                                 Programas              de
+                                                                                 Seguridad y Salud en
+                                                                                 el Trabajo”, ambos
+                                                                                 contenidos       en     la
+                                                                                 dirección    electrónica
+                                                                                 www.stps.gob.mx.
+ Martes 22 de diciembre de 2009            DIARIO OFICIAL                               (Tercera Sección)
+
+ Disposición          Tipo de                  Criterio de aceptación                 Observaciones
+                   comprobación
+4.4.1 y 7.2      Documental         El patrón cumple cuando presenta una El              patrón      podrá
+                                    relación     de    acciones  preventivas    y apoyarse y presentar
+                                    correctivas de seguridad y salud en el como evidencias del
+                                    trabajo, elaborada con base en el diagnóstico cumplimiento de las
+                                    a que se refiere el Capítulo 6, que al menos obligaciones
+                                    contenga:                                     establecidas en los
+                                                                                  numerales 4.4.1 y 7.2
+                                       La acción preventiva o correctiva por
+                                                                                  de la presente Norma,
+                                          instrumentar      por  cada    aspecto
+                                                                                  el reporte “Programa
+                                          identificado;
+                                                                                  de Seguridad y Salud
+                                       Las acciones y programas de en el Trabajo”, que se
+                                          promoción para la salud de los obtiene del recuadro
+                                          trabajadores y para la prevención “Programa                   de
+                                          integral de las adicciones que actividades”, en la
+                                          recomienden o dicten las autoridades pantalla       “Resultados
+                                          competentes;                            de la evaluación”, del
+                                       Las acciones para la atención de módulo                informático
+                                          emergencias y contingencias sanitarias  “Evaluación          del
+                                          que recomienden o dicten las            Cumplimiento      de   la
+                                          autoridades competentes, y              Normatividad          en
+                                                                                  Seguridad y Salud en
+                                       Las fechas de inicio y término el Trabajo”, o bien el
+                                          programadas para instrumentar las reporte             “Programa
+                                          acciones preventivas o correctivas y para el Cumplimiento
+                                          para la atención de emergencias.        de la Normatividad en
+                                                                                  Seguridad y Salud en
+                                                                                  el Trabajo”, que se
+                                                                                  obtiene del recuadro
+                                                                                  “Programación         de
+                                                                                  fechas                  y
+                                                                                  responsables”, en la
+                                                                                  pantalla “Compromisos
+                                                                                  Programáticos para el
+                                                                                  Cumplimiento de la
+                                                                                  Normatividad          en
+                                                                                  Seguridad y Salud en
+                                                                                  el Trabajo”, del módulo
+                                                                                  informático
+                                                                                  “Elaboración          de
+                                                                                  Programas             de
+                                                                                  Seguridad y Salud en
+                                                                                  el Trabajo”, ambos
+                                                                                  contenidos      en     la
+                                                                                  dirección    electrónica
+                                                                                  www.stps.gob.mx.
+4.5              Documental       o El patrón cumple cuando demuestra que Es válido que se
+                 entrevista         comunica a la comisión de seguridad e presente                  como
+                                    higiene y/o a los trabajadores, según aplique, evidencia documental
+                                    el diagnóstico integral o por áreas de trabajo del      cumplimiento,
+                                    de las condiciones de seguridad y salud y el folletos,        videos,
+                                    contenido del programa de seguridad y salud carteles o cualquier
+                                    en el trabajo o de la relación de acciones otra documentación.
+                                    preventivas y correctivas de seguridad y
+                                    salud en el trabajo.
+      (Tercera Sección)                   DIARIO OFICIAL                 Martes 22 de diciembre de 2009
+
+ Disposición           Tipo de               Criterio de aceptación                  Observaciones
+                    comprobación
+                                                                                 Para      acreditar   el
+                                                                                 cumplimiento mediante
+                                                                                 entrevista, se tendrá
+                                                                                 por aceptado cuando
+                                                                                 el 90 por ciento del
+                                                                                 personal entrevistado
+                                                                                 conozca el diagnóstico
+                                                                                 de las condiciones de
+                                                                                 seguridad y salud y el
+                                                                                 programa de seguridad
+                                                                                 y salud en el trabajo o
+                                                                                 la relación de acciones
+                                                                                 preventivas           y
+                                                                                 correctivas          de
+                                                                                 seguridad y salud en el
+                                                                                 trabajo.
+
+4.6                Registros       El patrón cumple cuando presenta los El             patrón      podrá
+                                   reportes de seguimiento de los avances en la apoyarse y presentar
+                                   instauración del programa de seguridad y como evidencias del
+                                   salud en el trabajo o de la relación de cumplimiento de las
+                                   acciones preventivas y correctivas de obligaciones
+                                   seguridad y salud en el trabajo, según establecidas en el
+                                   aplique.                                     numeral 4.6 de la
+                                                                                presente Norma, el
+                                                                                reporte “Seguimiento
+                                                                                del Programa para el
+                                                                                Cumplimiento de la
+                                                                                Normatividad          en
+                                                                                Seguridad y Salud en
+                                                                                el Trabajo”, que se
+                                                                                obtiene del recuadro
+                                                                                “Seguimiento          de
+                                                                                Cumplimiento          de
+                                                                                Indicadores”, en la
+                                                                                pantalla “Seguimiento
+                                                                                del Programa para el
+                                                                                Cumplimiento de la
+                                                                                Normatividad          en
+                                                                                Seguridad y Salud en
+                                                                                el Trabajo”, del módulo
+                                                                                informático
+                                                                                “Elaboración          de
+                                                                                Programas             de
+                                                                                Seguridad y Salud en
+                                                                                el Trabajo”, contenido
+                                                                                en      la     dirección
+                                                                                electrónica
+                                                                                www.stps.gob.mx
+   Martes 22 de diciembre de 2009               DIARIO OFICIAL                               (Tercera Sección)
+
+   Disposición          Tipo de                    Criterio de aceptación                  Observaciones
+                     comprobación
+ 4.7               Documental           El patrón cumple cuando demuestra que al El           patrón      podrá
+                                        personal de la empresa que forme parte de presentar               como
+                                        los servicios preventivos de seguridad y salud evidencia            del
+                                        en el trabajo, se le capacita en las funciones cumplimiento de la
+                                        y actividades que establece la presente capacitación,                los
+                                        Norma.                                         diplomas, certificados,
+                                                                                       constancias            de
+                                                                                       habilidades,         sus
+                                                                                       programas              de
+                                                                                       capacitación, así como
+                                                                                       las         constancias
+                                                                                       obtenidas por haber
+                                                                                       cursado los talleres en
+                                                                                       la     modalidad       e-
+                                                                                       learning,    del    Aula
+                                                                                       Virtual del Programa
+                                                                                       de Capacitación a
+                                                                                       Distancia           para
+                                                                                       Trabajadores,
+                                                                                       PROCADIST, en la
+                                                                                       dirección    electrónica
+                                                                                       www.stps.gob.mx.
+
+    9.3 La documentación a que hace referencia la presente Norma, se deberá conservar al menos por dos
+años.
+    9.4 Las evidencias de tipo documental o los registros que obren en el centro de trabajo podrán exhibirse
+de manera impresa o en medios magnéticos.
+    9.5 Se considerará que cumplen con la presente Norma, los centros de trabajo que permanezcan
+incorporados al Programa de Autogestión en Seguridad y Salud en el Trabajo, PASST, y que hayan obtenido
+alguno de los reconocimientos de “Empresa Segura”, otorgado por la Secretaría del Trabajo y Previsión
+Social. Para tales efectos, bastará exhibir el reconocimiento otorgado. Corresponderá a la Autoridad Laboral
+constatar que la empresa permanece incorporada en dicho programa.
+    9.6 Se considerará que cumplen con la presente Norma, los centros de trabajo que cuenten con la
+acreditación de su Sistema de Administración y Seguridad en el Trabajo, expedida por la Secretaría del
+Trabajo y Previsión Social, a que se refiere el artículo 72, penúltimo párrafo, de la Ley del Seguro Social. Para
+tales efectos, bastará exhibir la acreditación respectiva.
+    10. Vigilancia
+    La vigilancia del cumplimiento de la presente Norma corresponde a la Secretaría del Trabajo y Previsión
+Social.
+    11. Bibliografía
+    11.1 Convenio número 155, sobre seguridad y salud de los trabajadores y medio ambiente de trabajo,
+1981. Organización Internacional del Trabajo. Ratificado por México el 1 de febrero de 1984. Publicado en el
+Diario Oficial de la Federación de 6 de marzo de 1984 y su fe de erratas de 5 de abril de 1984.
+    11.2 Convenio número 160, sobre estadísticas del trabajo, 1985. Organización Internacional del Trabajo.
+Ratificado por México el 18 de abril de 1988. Publicado en el Diario Oficial de la Federación de 22 de junio de
+1988 y su fe de erratas.
+    11.3 Convenio número 161, sobre los servicios de salud en el trabajo, 1985. Organización Internacional
+del Trabajo. Ratificado por México el 17 de febrero de 1987. Publicado en el Diario Oficial de la Federación de
+13 de abril de 1987.
+    11.4 Convenio número 171, sobre el trabajo nocturno, 1990. Organización Internacional del Trabajo.
+    11.5 Ley Federal del Trabajo.
+    11.6 Ley del Seguro Social.
+    11.7 Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo.
+    11.8 Occupational Health for Europeans, Finnish Institute of Occupational Health, Helsinki, 1999.
+    12 Concordancia con normas internacionales
+    Esta Norma no concuerda con ninguna norma internacional por no existir referencia alguna al momento de
+su elaboración.
+        (Tercera Sección)                       DIARIO OFICIAL                 Martes 22 de diciembre de 2009
+
+                                                  Transitorios
+   PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a los noventa días naturales siguientes a
+su publicación en el Diario Oficial de la Federación.
+    SEGUNDO. Durante el periodo señalado en el artículo anterior, los patrones cumplirán con lo establecido
+en la NOM-030-STPS-2006, Servicios preventivos de seguridad y salud en el trabajo-Organización y
+funciones, o bien realizarán las adaptaciones para observar las disposiciones de la presente Norma Oficial
+Mexicana y, en este último caso, las autoridades del trabajo proporcionarán, a petición de los patrones
+interesados, asesoría y orientación para instrumentar su cumplimiento, sin que se hagan acreedores a
+sanciones por el incumplimiento de la Norma en vigor.
+   TERCERO. A partir de la fecha en que entre en vigor la presente Norma Oficial Mexicana, quedará sin
+efectos la NOM-030-STPS-2006, Servicios preventivos de seguridad y salud en el trabajo-Organización y
+funciones, publicada en el Diario Oficial de la Federación de 19 de octubre de 2006.
+                                             Guía de Referencia I
+ Recomendaciones para Instrumentar las Acciones para la Atención a Emergencias en los Centros de
+                                            Trabajo
+    La Secretaría del Trabajo y Previsión Social podrá emitir guías de recomendaciones para instrumentar
+planes de emergencia en los centros de trabajo, con motivo de contingencias que pongan en riesgo a los
+trabajadores y a las instalaciones de los centros laborales, mismas que tendrán por objeto facilitar a los
+empleadores la identificación e instrumentación de las medidas de promoción, prevención y control en sus
+centros de trabajo.
+    Las acciones recomendadas se agruparán en los apartados que sean necesarios, considerando
+preferentemente la planeación y dirección; la capacitación e información a los trabajadores; las medidas de
+prevención; las medidas de protección, y las políticas temporales, así como la supervisión y vigilancia por
+parte de los servicios preventivos de seguridad y salud en el trabajo y de las comisiones de seguridad e
+higiene.
+    Dichas acciones se formularán de acuerdo con el grado de exposición al riesgo de los trabajadores; las
+fases o etapas en que se subdivida la emergencia que, en su caso, se apegarán a los estándares
+internacionales en la materia, así como a la gravedad, a los alcances y a la localización geográfica de la
+eventualidad.
+    Por su naturaleza, las acciones contenidas en dichas guías tendrán el carácter de recomendaciones, por
+lo que los centros de trabajo, según su actividad, escala económica, procesos de trabajo, grado de riesgo y
+ubicación geográfica deberán adaptarlas y aplicarlas al máximo posible para una mayor efectividad en sus
+resultados.
+    Lo anterior, sin perjuicio de las obligaciones aplicables en materia de seguridad y salud en el trabajo y, en
+su caso, de salud pública u otra que sea aplicable en los centros de trabajo.
+                                             Guía de Referencia II
+                 Recomendaciones para Instrumentar las Acciones de Salud en el Trabajo
+   El contenido de esta guía es un complemento para la mejor comprensión de la Norma y no es de
+cumplimiento obligatorio. Se recomienda al patrón consultar las disposiciones aplicables de la Secretaría de
+Salud.
+   Introducción
+    El presente documento pretende orientar al patrón y a los trabajadores sobre las funciones y actividades a
+desarrollar por los servicios preventivos de seguridad y salud en el trabajo, a fin de prever que los
+trabajadores desarrollen sus actividades en condiciones seguras, así como propiciar que en el centro de
+trabajo se fortalezca una cultura de prevención.
+   II.1 Promoción de la salud de los trabajadores
+   II.1.1 Para la salud
+   II.1.1.1 Establecer un programa para todo el personal sobre temas de prevención de enfermedades
+generales y de trabajo que causen daño físico o influyan en el ausentismo laboral.
+     II.1.1.2 Utilizar todos los medios de difusión -tales como exposición verbal, folletos, periódicos murales,
+trípticos, carteles, películas-, para proporcionar:
+   a)     Información en el consultorio aprovechando las visitas que haga el trabajador al servicio médico,
+          cuando se practiquen exámenes médicos de ingreso, periódicos, de reingreso y otros.
+   b)     Pláticas para población abierta, considerando la prevalencia de las enfermedades e interés de la
+          población.
+   Martes 22 de diciembre de 2009               DIARIO OFICIAL                            (Tercera Sección)
+
+   c)   Campañas específicas de vacunación, prevención de obesidad, diabetes mellitus, hipertensión
+        arterial, higiene personal, orden y limpieza, entre otras.
+   d)   Orientación nutricional, recomendaciones para el manejo y conservación de alimentos, a través de
+        las visitas al comedor y de las detecciones sensoriales de manera permanente y cuando sea
+        requerida.
+   e)   Asesoramiento a las distintas brigadas de emergencia y protección civil: primeros auxilios,
+        prevención y combate de incendios, evacuación, rescate y salvamento, enlace y comunicación.
+   f)   Orientación ergonómica y recomendaciones en las instalaciones, maquinaria, equipo o herramientas
+        del centro de trabajo, así como de higiene mecano postural, para el desempeño de las actividades
+        físicas de los trabajadores.
+   II.1.2 Capacitación en salud en el trabajo
+   II.1.2.1 Al personal de nuevo ingreso, mediante información sobre seguridad y salud en el trabajo,
+inmediatamente después de su incorporación a la empresa.
+    II.1.2.2 A las comisiones de seguridad e higiene para su correcto funcionamiento, por medio de
+información y asesoramiento para la elaboración del programa anual de actividades, la realización de los
+recorridos ordinarios, especiales y extraordinarios, la investigación de accidentes, así como para la
+elaboración de las actas.
+   II.1.2.3 A brigadas de emergencia, cursos teórico prácticos de primeros auxilios.
+   II.1.2.4 A mandos medios, a través de cursos de conocimientos básicos de promoción para la salud.
+    II.1.2.5 A mandos superiores, asesoramiento para el establecimiento de políticas y normas internas de
+salud en el trabajo.
+    II.1.2.6 Al personal en general en forma periódica, información y orientación en prevención de riesgos, a
+través de conferencias, pláticas, consultas médicas, carteles, folletos, entre otros.
+   II.2 Seguimiento a la salud de los trabajadores
+   II.2.1 Exámenes médicos
+   II.2.1.1 Ingreso: El responsable de la selección del personal solicitará al servicio médico el examen,
+estableciendo fecha y hora del mismo.
+   Para cumplir con este objetivo se establecerán los perfiles biológicos de aptitud de los candidatos para el
+puesto de trabajo específico.
+   a)   Personal de producción: Para establecer el perfil biológico se requiere determinar las
+        características siguientes: antropométricas; capacidades físico funcionales (agudeza visual,
+        capacidad auditiva, capacidad cardiopulmonar); psicológicas y de la personalidad; enfermedades
+        transmisibles; toxicomanías, entre otras.
+        Estudios de laboratorio y gabinete pertinentes, entre otros: biometría hemática; examen general de
+        orina; coproparasitoscópico; glucosa sanguínea; radiografía de tórax, y columna lumbar.
+   b)   Personal administrativo: Perfil biológico: antropométricas; capacidades físico funcionales (agudeza
+        visual, capacidad auditiva, capacidad cardiopulmonar); psicológicas y de la personalidad;
+        enfermedades transmisibles; toxicomanías, entre otras.
+        Estudios de laboratorio y gabinete pertinentes, entre otros: biometría hemática; examen general de
+        orina; coproparasitoscópico; perfil cardíaco; química sanguínea; radiografía de tórax, y
+        electrocardiograma.
+   c)   Otros: Se elaborará perfil de estudios con base en el puesto específico.
+        El reporte de aptitud física para el puesto será proporcionado al departamento de personal por el
+        servicio médico.
+   II.2.1.2 Periódicos: El servicio médico se coordinará con el departamento de personal y de producción
+para la programación de esta actividad.
+  II.2.1.3 Reingreso: Para este objetivo el departamento de personal programará e informará al servicio
+médico, el examen requerido.
+   Estos exámenes serán practicados como si fuera un examen de ingreso, el reporte será proporcionado al
+departamento de personal por el servicio médico.
+    II.2.1.4 Otros: Dichos exámenes médicos serán ejecutados cuando se identifiquen algunas de las
+siguientes causas: cambio de puesto; reincorporación al trabajo después de ausencia prolongada por
+enfermedad general o riesgo de trabajo; de retiro, y especiales.
+        (Tercera Sección)                       DIARIO OFICIAL                 Martes 22 de diciembre de 2009
+
+    II.2.2 Atención de consulta médica
+    II.2.2.1 Por enfermedad general: Esta atención será proporcionada durante la permanencia del médico en
+la empresa en el momento en que se requiera.
+    II.2.2.2 Por enfermedad de trabajo: Esta atención se proporcionará cuando se sospeche o detecte por el
+servicio médico o cuando lo solicite el trabajador, supervisor o jefe de producción, departamento de personal u
+otra persona interesada.
+    Se practicará una valoración completa con estudios de laboratorio, gabinete y especializados, incluyendo
+interconsulta de especialidades, previa autorización de la empresa, hasta que se establezca el diagnóstico
+definitivo.
+    Se retirará inmediatamente al trabajador del área de riesgo.
+    Se notificará al patrón.
+    II.2.3 Atención de urgencias médicas
+    II.2.3.1 Esta atención será otorgada en caso de urgencia médica por:
+    a)     Accidente y/o enfermedad de trabajo.
+    b) Enfermedad general.
+    II.2.3.2 La atención médica será proporcionada por el personal del servicio médico y/o por la brigada de
+primeros auxilios, durante toda la jornada laboral y en el momento en que se presente ésta, de la manera
+siguiente:
+    a)     El responsable determinará el tipo de urgencia.
+    b) La atención será inmediata, dándole prioridad sobre otras actividades.
+    c)     Aplicará los primeros auxilios para salvar la vida o evitar complicaciones mayores del lesionado o
+           enfermo, utilizando todos los recursos del servicio médico disponibles para este fin.
+    d) De ser necesario el traslado del lesionado o enfermo a un centro hospitalario, la persona asignada
+           asistirá y acompañará al paciente, hasta ser recibido por dicho centro, recabando la información
+           necesaria para darle el seguimiento adecuado.
+    e)     En la urgencia de un accidente, de ser posible, se recabará la información directamente del
+           lesionado, en el formato de investigación interna de riesgo de trabajo, acerca de las probables
+           causas de éste, para su registro e investigación. Posteriormente a la atención de la urgencia, se
+           procederá a la investigación de las causas, conforme al procedimiento correspondiente.
+    f)     Se investigarán las probables causas básicas del riesgo en coordinación con el personal, su jefe y la
+           comisión de seguridad e higiene.
+    g) Cuando el accidente sea atendido por el Instituto Mexicano del Seguro Social, el servicio médico
+           asesorará a quien corresponda sobre la forma del llenado del Aviso para calificar probable riesgo de
+           trabajo, basándose en la información del formato de investigación interna del accidente.
+   h)      Cuando la urgencia sea generada por una enfermedad general y en caso que amerite el traslado a
+           un centro hospitalario, el enfermo será asistido por el personal que se designe, para el seguimiento
+           posterior por el servicio médico.
+    i)     Cuando se presenten otras emergencias, por ejemplo: en casos de sismo, incendio, entre otras, se
+           procederá de acuerdo con el manual de procedimientos correspondiente.
+    II.2.3.3 Botiquín de primeros auxilios
+    Cada centro de trabajo establecerá el tipo y contenido del botiquín, conforme a las necesidades propias de
+la empresa y normatividad aplicable.
+    a)     Tipos de botiquín. El tipo de botiquín será con base en el tipo de actividad que se vaya a desarrollar
+           o al sitio en el que se encuentra.
+    b) Características del botiquín. El botiquín deberá tener las características siguientes: ser de fácil
+           transporte; visible y de fácil acceso; identificable con una cruz roja; de peso no excesivo; sin
+           candados o dispositivos que dificulten el acceso a su contenido, y con un listado del mismo.
+    II.3 Vigilancia al medio ambiente laboral
+    II.3.1 Diagnóstico de las condiciones de seguridad e higiene
+    a)     Recolección de información documental.
+    b) Reconocimiento sensorial y/o instrumentado de los factores de riesgo, mediante recorridos a las
+           diferentes áreas con observación directa de los procedimientos de trabajo, iluminación, ventilación,
+           ruido, vibraciones, condiciones térmicas, sustancias químicas, cargas de trabajo y mecanismo de
+           ejecución de éste.
+    c)     Identificación del personal ocupacionalmente expuesto y de los grupos de exposición homogénea.
+   Martes 22 de diciembre de 2009               DIARIO OFICIAL                                (Tercera Sección)
+
+    d) Identificación del equipo de protección personal y/o colectivo utilizado.
+    e)     Identificación de las modificaciones a las instalaciones y a los procesos de trabajo.
+    f)     Evaluación instrumentada, cuando sensorialmente se detecten agentes y condiciones de riesgo.
+    g) Recopilación, integración y análisis de la información.
+    h) Cumplimiento de la normatividad.
+    i)     Reporte de las observaciones a la empresa.
+    j)     Listado de medidas preventivas o programa de seguridad e higiene.
+    II.3.2 Reconocimiento, evaluación y control del medio ambiente laboral
+    a)     Factores de riesgo del medio ambiente de trabajo.
+    b) Modificaciones a las instalaciones y/o procesos de trabajo que afecten la seguridad de la empresa.
+    c)     Equipos de protección colectiva y personal.
+    d) Normas de seguridad y salud en el trabajo, así como las que apliquen.
+    e)     Implementación de procedimientos de seguridad y salud, a partir del listado de medidas preventivas
+           o programa de seguridad e higiene.
+    f)     Vigilancia de condiciones sanitarias:
+           1) Vigilancia sanitaria a instalaciones, tales como oficinas, áreas de producción, comedor,
+                sanitarios, regaderas, vestidores, patios, cisternas, entre otras.
+           2) Control microbiológico de agua y alimentos, determinar su periodicidad a partir de un análisis
+                inicial y los resultados obtenidos.
+           3) Control de fauna nociva, higiene y desinfección de áreas contaminadas.
+    g) Investigación de los riesgos de trabajo para determinar sus causas, recomendaciones, medidas de
+           control de seguridad e higiene y el seguimiento a las medidas aprobadas por el patrón.
+    h) Actualización del reglamento interno de seguridad e higiene. Estas recomendaciones serán
+           derivadas del análisis de los registros de ausentismo laboral, riesgos de trabajo y la normatividad
+           vigente.
+    II.3.3 Registro de actividades
+    II.3.3.1 Todas las actividades serán documentadas en los sistemas de registro siguientes:
+    a)     Bitácora de actividades diarias: informe médico de accidentes de trabajo e investigación interna de
+           accidentes; formas de historia clínica; registro individual de incapacidades; recetas médicas; hojas de
+           evolución; reportes de laboratorio de análisis clínicos; informe mensual de actividades y de riesgos
+           de trabajo; órdenes para interconsulta con otras especialidades; hojas de información interna, entre
+           otras.
+    b) Informe de las actividades de seguridad y salud en el trabajo de los servicios.
+    II.3.3.2 Se elaborará un informe de todas las actividades del servicio de seguridad y salud en el trabajo
+que será presentado al patrón.
+    a)     Internamente:
+           1) Al personal en general, a través de los distintos medios informativos de la empresa.
+           2) A mandos medios y superiores de la empresa, de conformidad con el manual de procedimientos
+                de la empresa.
+    b) Externamente:
+           1) De acuerdo con los procedimientos de cada institución.
+    II.4 Seguimiento epidemiológico de riesgos de trabajo
+    a)     Identificación de las actividades y empleos de alto riesgo y su vinculación con daños a la salud de los
+           trabajadores.
+    b) Elaboración del perfil epidemiológico: distribución de los daños a la salud por grupo de trabajadores
+           en relación con sus actividades laborales.
+    c)     Definición y realización de las actividades de intervención para la prevención y limitación de los
+           daños.
+    II.5 Cumplimiento de la normatividad de salud ocupacional
+    Para este concepto remitirse a lo establecido en las normas aplicables, emitidas por la Secretaría de
+Salud.
+    II.6 Registro e informe
+    Reporte de frecuencia de accidentes, enfermedades, incapacidades, y de la siniestralidad de los riesgos
+de trabajo.
+    Dado en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de diciembre de dos mil
+nueve.- El Secretario del Trabajo y Previsión Social, Javier Lozano Alarcón.- Rúbrica.
+

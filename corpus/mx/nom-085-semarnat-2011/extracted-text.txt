@@ -1,0 +1,979 @@
+   Jueves 2 de febrero de 2012                  DIARIO OFICIAL                               (Primera Sección)
+
+
+ SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES
+NORMA Oficial Mexicana NOM-085-SEMARNAT-2011, Contaminación atmosférica-Niveles                          máximos
+permisibles de emisión de los equipos de combustión de calentamiento indirecto y su medición.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Medio
+Ambiente y Recursos Naturales.
+     SANDRA DENISSE HERRERA FLORES, Subsecretaria de Fomento y Normatividad Ambiental de la
+Secretaría de Medio Ambiente y Recursos Naturales y Presidenta del Comité Consultivo Nacional de
+Normalización de Medio Ambiente y Recursos Naturales, con fundamento en los artículos 32 Bis fracción IV
+de la Ley Orgánica de la Administración Pública Federal; 5 fracciones V, XII y XIII, 36, 37, 37 Bis, 111 fracción
+III, 113 y 171 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente; 38 fracción II, 40 fracción
+X, 43, 44, 47 y 51 de la Ley Federal sobre Metrología y Normalización; 28 y 34 del Reglamento de la Ley
+Federal sobre Metrología y Normalización; 8 del Reglamento Interior de la Secretaría de Medio Ambiente y
+Recursos Naturales, y
+                                               CONSIDERANDO
+    Que con fecha 2 de diciembre de 1994 se publicó en el Diario Oficial de la Federación, la Norma Oficial
+Mexicana NOM-085-ECOL-1994, Contaminación atmosférica- para fuentes fijas que utilizan combustibles
+fósiles, sólidos, líquidos o gaseosos o cualquiera de sus combinaciones, que establece los niveles máximos
+permisibles de emisión a la atmósfera de humos, partículas suspendidas totales, bióxido de azufre y óxidos de
+nitrógeno y los requisitos y condiciones para la operación de los equipos de calentamiento indirecto por
+combustión, así como los niveles máximos permisibles de emisión de bióxido de azufre en los equipos de
+calentamiento directo por combustión. A su vez, la citada norma fue modificada mediante acuerdo publicado
+en el Diario Oficial de la Federación el 11 de noviembre de 1997.
+     Que con fecha 23 de abril de 2003 se publicó en el Diario Oficial de la Federación el Acuerdo por el cual
+se reforma la nomenclatura de las normas oficiales mexicanas expedidas por la Secretaría de Medio Ambiente
+y Recursos Naturales identificadas con las siglas “ECOL” y “RECNAT” identificándose en lo sucesivo bajo las
+siglas “SEMARNAT”, el cual incluye a la citada Norma Oficial Mexicana.
+    Que la citada norma fue inscrita en el Programa Nacional de Normalización 2008 con el objeto de
+actualizar los niveles máximos permisibles de emisión de contaminantes a la atmósfera de los equipos de
+combustión de calentamiento indirecto nuevos, establecer precisiones técnicas referentes a los métodos
+analíticos y frecuencia de medición, e incluir el Procedimiento de Evaluación de la Conformidad.
+     Que la Secretaría de Medio Ambiente y Recursos Naturales, a través de sus unidades administrativas
+encargadas de llevar el seguimiento y la vigilancia del cumplimiento de la norma oficial mexicana en cuestión
+han encontrado y también han recibido de los destinatarios de las mismas algunas deficiencias en su
+aplicación, por lo que para darle mayor operatividad a la norma en comento, el Grupo de Trabajo llegó a lo
+siguiente: a) Eliminar las especificaciones relativas a equipos de calentamiento directo, toda vez que éstos
+deben normarse en función de sus características específicas y la norma aplicaba únicamente en bióxido de
+azufre a aquellos equipos que emiten sólo el azufre proveniente del combustible, b) Eliminar los conceptos de
+niveles regionales y certificados de emisión cuya aplicación, en su caso, sería objeto de otras disposiciones de
+acuerdo con la LGEEPA; c) Eliminar el parámetro de exceso de aire en virtud de que no es un contaminante y
+substituirlo por monóxido de carbono (CO), considerando que este cambio implica que los responsables de la
+operación de los equipos de combustión de calentamiento indirecto, tienen que operar con el óptimo exceso
+de aire para lograr el mayor ahorro de combustible, en conjunción con menores emisiones de humo y gases
+contaminantes y cumplir con el nivel máximo permisible de emisión de CO; d) Revisar los niveles máximos
+permisibles de emisión de SO2 de las fuentes mayores ubicadas en las zonas críticas del país que se señalan
+en la norma, toda vez que en estas zonas se llegan a presentar altas concentraciones de ese contaminante y
+e) Simplificar la redacción de la norma vigente para mayor claridad.
+    Que de conformidad a lo establecido en la Norma Mexicana NMX-Z-013/1-1977, Guía para la redacción,
+estructuración y presentación de las normas mexicanas, se simplifica el nombre de esta Norma Oficial
+Mexicana, para quedar como: Norma Oficial Mexicana NOM-085-SEMARNAT-2011, Contaminación
+Atmosférica-Niveles Máximos Permisibles de Emisión de los Equipos de Combustión de Calentamiento
+indirecto y su medición. Asimismo, es de señalarse que, de conformidad con lo establecido en el artículo 28
+fracción I y fracción II inciso d) del Reglamento de la Ley Federal sobre Metrología y Normalización, el año de
+la clave cambia a 2011, debido a que el instrumento regulatorio se presentó ante el Comité Consultivo
+Nacional de Normalización de Medio Ambiente y Recursos Naturales, para su aprobación en dicho año.
+       (Primera Sección)                       DIARIO OFICIAL                     Jueves 2 de febrero de 2012
+
+     Que el Comité Consultivo Nacional de Normalización de Medio Ambiente y Recursos Naturales en sesión
+de fecha 13 de noviembre de 2008 aprobó para su publicación a consulta pública Proyecto de Modificación de
+la Norma Oficial Mexicana NOM-085-SEMARNAT-1994, Contaminación atmosférica-Para fuentes fijas que
+utilizan combustibles fósiles sólidos, líquidos o gaseosos o cualquiera de sus combinaciones, que establece
+los niveles máximos permisibles de emisión a la atmósfera de humos, partículas suspendidas totales, bióxido
+de azufre y óxidos de nitrógeno y los requisitos y condiciones para la operación de los equipos de
+calentamiento indirecto por combustión, así como los niveles máximos permisibles de emisión de bióxido de
+azufre en los equipos de calentamiento directo por combustión, por lo que en cumplimiento a lo establecido en
+el artículo 47 fracción I y II de la Ley Federal sobre Metrología y Normalización se publicó el 3 de septiembre
+del 2009 en el Diario Oficial de la Federación el citado Proyecto, para que dentro del plazo de 60 días
+naturales contados a partir de la fecha de su publicación, los interesados envíen sus comentarios al domicilio
+del citado Comité, ubicado en Boulevard Adolfo Ruiz Cortines 4209, quinto piso ala “A”, Fraccionamiento
+Jardines en la Montaña, Delegación Tlalpan, código postal 14210, en México, D.F., o al correo electrónico
+cgarciamoreno@semarnat.gob.mx para que en los términos de la citada Ley sean considerados.
+    Que durante el plazo mencionado la Manifestación de Impacto Regulatorio a que se refiere el artículo 45
+de la Ley Federal sobre Metrología y Normalización, estuvo a disposición del público para su consulta en el
+domicilio del Comité antes señalado.
+   Que, los interesados presentaron sus comentarios al proyecto de modificación de la norma en cita, los
+cuales fueron analizados por el Comité Consultivo Nacional de Normalización de Medio Ambiente y Recursos
+Naturales, realizándose las modificaciones procedentes al proyecto, de acuerdo a lo establecido en el artículo
+33 del Reglamento de la Ley Federal sobre Metrología y Normalización, los cuales fueron publicados el día 6
+de enero de 2012 en el Diario Oficial de la Federación de conformidad al artículo 47 fracción III de dicha Ley.
+    Que habiéndose cumplido el procedimiento establecido en la Ley Federal sobre Metrología y
+Normalización para la elaboración de normas oficiales mexicanas, el Comité Consultivo Nacional de
+Normalización de Medio Ambiente y Recursos Naturales aprobó la presente Norma Oficial Mexicana como
+definitiva en su sesión celebrada el día 29 de noviembre de 2011.
+   Por lo expuesto y fundado, he tenido a bien expedir la siguiente:
+  NORMA OFICIAL MEXICANA NOM-085-SEMARNAT-2011, CONTAMINACION ATMOSFERICA-NIVELES
+  MAXIMOS PERMISIBLES DE EMISION DE LOS EQUIPOS DE COMBUSTION DE CALENTAMIENTO
+                             INDIRECTO Y SU MEDICION
+                                                 PREFACIO
+    En la elaboración del Proyecto de Modificación de la Norma participaron especialistas de las siguientes
+instituciones:
+   – Asociación Nacional de la Industria Química, A.C.
+   – Cámara Minera de México
+   – Cámara Nacional del Cemento
+   – Cámara Nacional de la Industria de Aceites, Grasas, Jabones y Detergentes
+   – Cámara Nacional de las Industrias de la Celulosa y del Papel
+   – Cámara Nacional de la Industria de la Cerveza y la Malta
+   – Cámara Nacional de la Industria del Hierro y del Acero
+   – Cámara Nacional de la Industria de la Transformación
+   – Cámara Nacional de Manufacturas Eléctricas
+   – CEMEX México
+   – Comisión Federal de Electricidad
+      -Subdirección de Desarrollo de Proyectos
+      -Subdirección de Generación
+      -Subdirección de Proyectos y Construcción
+      -Gerencia de Protección Ambiental
+   Jueves 2 de febrero de 2012               DIARIO OFICIAL                             (Primera Sección)
+
+   – Confederación Patronal de la República Mexicana
+
+   – Consejo Mundial de Energía, Capítulo México, A.C.
+
+   – Gobierno del Distrito Federal
+
+     - Dirección General de Gestión de la Calidad del Aire, SMA
+
+   – Iniciativa GEMI A.C.
+
+   – Petróleos Mexicanos, Dirección Corporativa de Operaciones.
+
+     – PEMEX–Gas y Petroquímica Básica
+
+     – PEMEX–Refinación
+
+   – Instituto Mexicano del Petróleo
+
+   – Secretaría de Energía
+
+     - Subsecretaría de Planeación Energética y Desarrollo Tecnológico
+
+   – Secretaría de Medio Ambiente y Recursos Naturales
+
+     – Instituto Nacional de Ecología
+
+     – Procuraduría Federal de Protección al Ambiente
+
+     – Subsecretaría de Fomento y Normatividad Ambiental
+
+     – Subsecretaría de Gestión para la Protección Ambiental
+
+   Contenido
+
+   1. Objetivo
+
+   2. Campo de aplicación
+
+   3. Referencias
+
+   4. Definiciones
+
+   5. Especificaciones
+
+   6. Métodos de prueba
+
+   7. Procedimiento de evaluación de la conformidad
+
+   8. Observancia de esta norma
+
+   9. Grado de concordancia con normas y lineamientos internacionales
+
+   10. Bibliografía
+
+   Transitorios
+
+   1. Objetivo
+
+    Establecer los niveles máximos permisibles de emisión de humo, partículas, monóxido de carbono (CO),
+bióxido de azufre (SO2) y óxidos de nitrógeno (NOx) de los equipos de combustión de calentamiento indirecto
+que utilizan combustibles convencionales o sus mezclas, con el fin de proteger la calidad del aire.
+
+   2. Campo de aplicación
+
+     Es de observancia obligatoria para las personas físicas o morales responsables de las fuentes fijas de
+jurisdicción federal y local que utilizan equipos de combustión de calentamiento indirecto con combustibles
+convencionales o sus mezclas en la industria, comercios y servicios.
+
+   No aplica en los siguientes casos: Equipos con capacidad térmica nominal menor a 530 megajoules por
+hora (≈15 CC), equipos domésticos de calefacción y calentamiento de agua, turbinas de gas, equipos
+auxiliares y equipos de relevo. Tampoco aplica para el caso en que se utilicen bioenergéticos.
+       (Primera Sección)                         DIARIO OFICIAL                      Jueves 2 de febrero de 2012
+
+   3. Referencias
+   NOM-001-SECRE-2003, Calidad del gas natural, publicada en el Diario Oficial de la Federación el 29 de
+marzo de 2004.
+    NOM-086-SEMARNAT-SENER-SCFI-2005, Especificaciones de los combustibles fósiles para la
+protección ambiental, publicada en el Diario Oficial de la Federación el 30 de enero de 2006.
+    NOM-098-SEMARNAT-2002, Protección ambiental-Incineración de residuos, especificaciones de
+operación y límites de emisión de contaminantes, publicada en el Diario Oficial de la Federación del 1 de
+octubre de 2004: Anexo 1. Especificaciones y procedimientos de prueba para sistemas de monitoreo continuo
+de emisiones (SMCE) de monóxido de carbono (CO) y Anexo 2 Determinación de emisiones de óxidos de
+nitrógeno en fuentes fijas (procedimiento de análisis instrumental).
+   NMX-AA-009-1993-SCFI, “Contaminación atmosférica-Fuentes fijas-Determinación de flujo de gases en un
+conducto por medio del Tubo de Pitot”, publicada en el Diario Oficial de la Federación del 27 de diciembre de
+1993.
+    NMX-AA-010-SCFI-2001, “Contaminación atmosférica-Fuentes fijas-Determinación de la emisión de
+partículas contenidas en los gases que fluyen por un conducto-Método isocinético”, publicada en el Diario
+Oficial de la Federación del 18 de abril de 2001.
+   NMX-AA-035-1976, “Determinación de bióxido de carbono, monóxido de carbono y oxígeno en los gases
+de combustión”, publicada en el Diario Oficial de la Federación el 10 de junio de 1976.
+   NMX-AA-054-1978, “Contaminación atmosférica-Determinación del contenido de humedad en los gases
+que fluyen por un conducto-método gravimétrico”, publicada en el Diario Oficial de la Federación el 2 de
+agosto de 1978.
+   NMX-AA-055-1979, “Contaminación atmosférica-Fuentes fijas-Determinación de bióxido de azufre en
+gases que fluyen por un conducto”, publicada en el Diario Oficial de la Federación el 6 de septiembre de 1979.
+    NMX-AA-056-1980 “Contaminación atmosférica- fuentes Fijas-Determinación de bióxido de azufre, trióxido
+de azufre y neblinas de ácido sulfúrico en los gases que fluyen por un conducto”, publicada en el Diario Oficial de
+la Federación el 17 de junio de 1980.
+    NMX-AA-114-1991 “Contaminación atmosférica-fuentes fijas-Determinación de la densidad del humo en
+los gases de combustión que fluyen por un conducto o chimenea-Método del número de mancha”, publicada
+en el Diario Oficial de la Federación el 8 de noviembre de 1991.
+   4. Definiciones
+    Para efectos de la presente norma se aplicarán las definiciones de la Ley General del Equilibrio Ecológico
+y la Protección al Ambiente, las del Reglamento de la Ley General del Equilibrio Ecológico y la Protección al
+Ambiente en materia de Prevención y Control de la Contaminación de la Atmósfera, la Ley de Promoción y
+Desarrollo de los Bioenérgeticos y las siguientes:
+    4.1 Bioenergéticos: Combustible obtenido de la biomasa proveniente de materia orgánica de las
+actividades, agrícola, pecuaria, silvícola, acuacultura, algacultura, residuos de pesca, doméstica, comerciales,
+industriales, de microorganismos y enzimas, así como sus derivados, producidos por sus procesos
+tecnológicos sustentables.
+   4.2 Capacidad térmica nominal de un equipo de combustión de calentamiento indirecto: La
+generación de calor aprovechable especificada por el fabricante en los registros o por los manuales de
+operación y mantenimiento o en una placa adherida al mismo.
+    4.3 Combustibles convencionales: Aquellos que están disponibles comercialmente en el país: gas
+natural y gas LP, diesel industrial y gasóleo, combustóleo, coque de petróleo y carbón mineral en todas sus
+variedades.
+   4.4 Datos validados: Aquellos que se han sometido a un análisis estadístico para comprobar su
+veracidad e integridad.
+   4.5 Emisión ponderada: El valor que resulta de promediar las emisiones contaminantes de los equipos
+de combustión de calentamiento indirecto de una fuente fija en función de su capacidad térmica.
+   Jueves 2 de febrero de 2012                 DIARIO OFICIAL                              (Primera Sección)
+
+   4.6 Emisión Potencial Máxima de SO2: Emisión estequiométrica de SO2 que tendría un equipo de
+combustión de calentamiento indirecto operando con un combustible determinado durante todo un año, sin
+control de emisiones. Se calcula para el combustible utilizado que tenga el mayor contenido de azufre.
+   4.7 Equipo auxiliar: Equipo empleado para la preparación de combustible a alimentar durante el arranque
+de equipos y que opera en forma esporádica en una cantidad de horas equivalentes de hasta 36 días
+naturales en un año calendario.
+    4.8 Equipos de combustión de calentamiento indirecto: Aquellos en que el calor generado se transfiere
+a través de los gases de combustión, los cuales no entran en contacto directo con los materiales del proceso,
+como son: las calderas, generadores de vapor, calentadores de aceite térmico u otro tipo de fluidos y los
+hornos y secadores a base de sistemas de calentamiento indirecto.
+   4.9 Equipo de combustión existente: El instalado o el que cuente con un contrato de compra firmado
+antes de la entrada en vigor de la presente norma.
+    4.10 Equipo de combustión nuevo: El instalado por primera vez en una fuente fija, en fecha posterior a
+la entrada en vigor de la presente norma.
+   4.11 Equipo de relevo: Equipo de combustión que se usa para sustituir a otro, principalmente en casos
+de mantenimiento o servicio y que opera en forma esporádica en una cantidad de horas equivalentes de hasta
+36 días naturales en un año calendario.
+   4.12 Fuente Fija: Es toda instalación establecida en un solo lugar, que tenga como finalidad desarrollar
+operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar
+emisiones contaminantes a la atmósfera.
+   4.13 Fuente Mayor: Equipo de combustión de calentamiento indirecto con una capacidad mayor a 530
+GJ/h.
+   4.14 Humo: Mezcla visible en el aire de pequeñas partículas y gases, generados por la combustión.
+    4.15 Número de mancha: Número en una escala patrón cuya tonalidad es equivalente a la que se obtiene
+al hacer pasar por un papel filtro el humo producido en un equipo de combustión.
+   4.16 Opacidad: Interferencia al paso de la luz por la presencia de material particulado (sólidos y líquidos)
+presentes en los gases de combustión.
+   4.17 Operación de arranque del equipo de combustión: Periodo de encendido de los quemadores
+hasta la estabilización de la temperatura en la cámara de combustión.
+   4.18 Operación de soplado: La limpieza programada o periódica de los tubos de un equipo de
+combustión de calentamiento indirecto, con el fin de eliminar el hollín depositado en ellos.
+   4.19 Pluma: Forma visible que adquiere la emisión de una chimenea debido a partículas, vapores, gases
+o humo.
+   4.20 PROFEPA: Procuraduría Federal de Protección al Ambiente.
+   4.21 Secretaría: Secretaría de Medio Ambiente y Recursos Naturales.
+   4.22 Sistema de Monitoreo Continuo de Emisiones o SMCE: Equipo para determinar la concentración
+de uno o varios contaminantes en una matriz de manera continua, así como otros parámetros. Comprende la
+toma, acondicionamiento y análisis de la muestra y el registro permanente de los resultados.
+   4.23 Resto del País (RP): Para efectos de esta norma oficial mexicana, es toda la extensión territorial
+nacional excluyendo las Zonas Críticas.
+     4.24 Zonas Críticas (ZC): Aquellas en las que por sus condiciones topográficas y meteorológicas se
+dificulte la dispersión o se registren altas concentraciones de contaminantes a la atmósfera; se consideran
+zonas críticas las zonas metropolitanas indicadas en los incisos 4.24.1 a 4.24.3 y además, aquellas regiones y
+centros de población listados en los numerales 4.24.4 a 4.24.9.
+   4.24.1 Zona Metropolitana de Guadalajara (ZMG): El área integrada por los siguientes municipios del
+Estado de Jalisco: Guadalajara, El Salto, Tlajomulco de Zúñiga, Tlaquepaque, Tonalá y Zapopan.
+      (Primera Sección)                        DIARIO OFICIAL                     Jueves 2 de febrero de 2012
+
+   4.24.2 Zona Metropolitana de Monterrey (ZMM): El área integrada por los siguientes municipios del
+Estado de Nuevo León: Apodaca, Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San
+Pedro Garza García y Santa Catarina.
+   4.24.3 Zona del Valle de México (ZVM): Para efectos de esta norma es el área integrada por las 16
+Delegaciones Políticas del Distrito Federal y los siguientes 18 municipios del Estado de México: Atizapán de
+Zaragoza, Coacalco, Cuautitlán de Romero Rubio, Cuautitlán Izcalli, Chalco, Chalco Solidaridad,
+Chimalhuacán, Ecatepec, Huixquilucan, Ixtapaluca, La Paz, Naucalpan de Juárez, Nezahualcóyotl, San
+Vicente Chicoloapan, Nicolás Romero, Tecámac, Tlalnepantla y Tultitlán.
+    4.24.4 Corredor industrial Coatzacoalcos-Minatitlán: Municipios de Coatzacoalcos, Minatitlán, Ixhuatlán
+del Sureste, Cosoleacaque y Nanchital, en el Estado de Veracruz.
+    4.24.5 Corredor Irapuato-Celaya-Salamanca: Municipios de Celaya, Irapuato, Salamanca y Villagrán, en
+el Estado de Guanajuato.
+   4.24.6 Corredor industrial Tula-Vito-Apasco: Municipios de Tula de Allende, Tepeji de Ocampo,
+Tlahuelilpan, Atitalaquia, Atotonilco de Tula, Tlaxcoapan y Apaxco, en los estados de Hidalgo y de México.
+  4.24.7 Corredor industrial de Tampico-Madero-Altamira: Municipios de Tampico, Altamira y Cd.
+Madero, en el Estado de Tamaulipas.
+   4.24.8 El Municipio de Ciudad Juárez en el Estado de Chihuahua.
+   4.24.9 El área integrada por los municipios de Tijuana y Rosarito en el Estado de Baja California.
+   5. Especificaciones
+    5.1 Los niveles máximos permisibles de emisión de humo, partículas, monóxido de carbono (CO), bióxido
+de azufre (SO2) y óxidos de nitrógeno (NOX) de los equipos de combustión de calentamiento indirecto se
+establecen en función de la capacidad térmica nominal del equipo, del tipo de combustible, de la ubicación de
+la fuente fija y de las condiciones de referencia, en la Tabla 1 para equipos existentes y en la Tabla 2 para
+equipos nuevos.
+   5.2 Los responsables de las fuentes fijas referidas en esta Norma Oficial Mexicana deben llevar la bitácora
+de operación y mantenimiento de los equipos de combustión de calentamiento indirecto y de control de
+emisiones, ya sea en formato impreso o electrónico.
+   La bitácora debe estar disponible para su revisión por la autoridad ambiental en el ámbito de su
+competencia y debe tener como mínimo la siguiente información: Nombre, marca y capacidad térmica nominal
+de los equipos de combustión, y en caso de contar con equipos de control de emisiones y de medición de
+contaminantes, su nombre y marca. En los registros diarios se anotará: fecha, turno, consumo y tipo de
+combustible, porcentaje de la capacidad de diseño a que operó el equipo, temperatura promedio de los gases
+de chimenea y cualquier otro dato que el operador considere necesario en un apartado de observaciones.
+   5.3 Las fuentes fijas en las que se instalen por primera vez equipos de combustión mayores de 1 000 GJ/h
+que utilicen combustibles con un contenido de azufre mayor de 1% deben contar con Sistemas de Monitoreo
+Continuo de Emisiones para medir SO2, la opacidad de la pluma y O2.
+    5.4 En caso de utilizar equipos o sistemas de control de emisiones para cumplir los niveles de emisión de
+las Tablas 1 y 2, dichos sistemas deben operar al menos el 90% del tiempo total de operación en un año
+calendario de los equipos de combustión.
+   5.5 Las empresas que suministren los combustibles regulados en esta Norma Oficial Mexicana, deben
+cumplir con las especificaciones de calidad establecidas por la normatividad vigente.
+   6. Métodos de prueba
+    6.1 La medición de las emisiones del humo como número de mancha, monóxido de carbono, partículas,
+óxidos de nitrógeno y bióxido de azufre deben realizarse con la frecuencia y bajo las condiciones que se
+indican en la Tabla 3 y con los métodos a que se refiere la Tabla 4 de esta Norma Oficial Mexicana o un
+método alternativo previa autorización de la Secretaría mediante Trámite inscrito en el Registro Federal de
+Trámites y Servicios como SEMARNAT 05-005-A Uso de Equipos, Procesos, Métodos de Prueba,
+Mecanismos, Procedimientos o Tecnologías Alternativas a las establecidas en las Normas Oficiales
+Mexicanas en Materia Ambiental, modalidad A o SEMARNAT 05-005-B Métodos de prueba alternos que
+cuenten con autorización anterior publicada en el Diario Oficial de la Federación.
+   Jueves 2 de febrero de 2012                  DIARIO OFICIAL                             (Primera Sección)
+
+    6.2 Las mediciones de número de mancha, CO, partículas, NOX, y SO2 para comprobar el cumplimiento
+de la norma, deben ser realizadas por laboratorios acreditados y aprobados en los términos de la Ley Federal
+sobre Metrología y Normalización. Los resultados y/o informes de los análisis deben estar disponibles para su
+revisión por parte de la autoridad ambiental.
+   6.3 Los métodos analíticos indicados para los contaminantes gaseosos miden directamente su
+concentración en los gases de combustión; el método isocinético para partículas mide su concentración en
+     3
+mg/m . En forma simultánea se debe medir o calcular el flujo de gases en la chimenea, (Ф), así como la
+concentración de O2 para corregir los resultados a las condiciones de referencia de 25°C, 1 Atm y 5% de O2,
+base seca.
+   6.4 Para determinar la emisión de un contaminante en 1 hora (kg/h), a partir de su concentración y el flujo
+de gases en chimenea medidos o calculados se utiliza la ecuación 1:
+                                                                  3     3
+                                   Ec (1): Ei (kg/h)= Ci (kg/m ) Ф (m /h),
+   donde:    Ec: Ecuación.
+             Ei es la emisión del contaminante i-ésimo, en kg/h.
+             Ci es la concentración de dicho contaminante en condiciones de referencia y base seca,
+                              3
+             expresada en kg/m .
+             Ф es el flujo de gases de combustión en la chimenea, medido o calculado en condiciones de
+                                                   3
+             referencia y base seca, expresada en m /h.
+   Para calcular la emisión del contaminante en kg/GJ a partir de la concentración medida, se utiliza la
+ecuación 2:
+                                                                  3         3
+                                 Ec (2): Ei (kg/GJ) = Cd (kg/ m ) Fd (m /GJ)
+   donde:    Ei es la emisión en kg/GJ del contaminante i.
+             Cd es la concentración medida del contaminante en condiciones de referencia y base seca, en
+                 3
+             kg/m .
+             Fd es el volumen de productos de la combustión por unidad de energía en el combustible, m3/GJ
+             en condiciones de referencia y base seca (Tabla 5).
+     Si se conoce el consumo de combustible en kg/h, es posible calcular el flujo de gases de chimenea
+utilizando la ecuación 3:
+                                                        3
+                                            Ec (3): Ф (m /h) = q H Fd
+   donde:    Ф es el flujo de gases de combustión en m3/h, en condiciones de referencia.
+             q es el consumo de combustible (kg/h).
+             H es el poder calorífico del combustible (GJ/kg) y
+             Fd se obtiene de la Tabla 5.
+     6.5 En el caso de análisis instrumentales 6c, 7e y 10 de la USEPA, en que una muestra se extrae de la
+chimenea y se pasa por un analizador, se deberá muestrear y tomar lecturas durante al menos una hora con
+el fin de obtener valores promedio representativos, con el equipo de combustión en condiciones normales de
+operación. Para obtener los promedios se deben tomar lecturas a intervalos iguales durante el tiempo que
+dure la corrida, con un mínimo de 60 lecturas.
+   6.6 En equipos menores a 1 000 GJ/h las emisiones de SO2 se pueden determinar mediante análisis en
+chimenea o a través de factores de emisión o balance de masas.
+   Para estimar la emisión total de SO2, considerando que son directamente proporcionales a la cantidad de
+combustible que se consume y al contenido de azufre en él, de acuerdo a la ecuación 4:
+       (Primera Sección)                       DIARIO OFICIAL                   Jueves 2 de febrero de 2012
+
+   6.7 Los SMCE para determinación de SO2 y de opacidad en equipos nuevos mayores de 1000 GJ/h deben
+poder realizar mediciones, calcular y almacenar promedios de lecturas en tiempos preestablecidos, por
+ejemplo cada hora. Durante el tiempo de operación del equipo de combustión, se debe contar con al menos
+un 75% de datos validados. La operación de los SMCE debe apegarse a las prácticas de calidad previstas en
+su manual de operación y calibración.
+
+    6.8 Los valores máximos establecidos en las Tablas 1 y 2 de la presente Norma Oficial Mexicana podrán
+ser rebasados en eventos como los que se mencionan a continuación:
+
+       operaciones de arranque de los equipos de combustión.
+
+       operaciones de soplado que requieren ciertos equipos, de acuerdo a especificaciones del fabricante.
+
+       desajuste o malfuncionamiento de los quemadores.
+
+       paro, malfuncionamiento o mantenimiento de equipo de control de emisiones, en su caso.
+
+    Dichos eventos deben ser registrados en la bitácora, así como su duración; la duración total no podrá ser
+mayor a la cantidad de horas equivalentes a 36 días naturales de operación de los equipos, en un año
+calendario.
+
+    6.9 Cuando un equipo de combustión utilice simultáneamente varios combustibles, su emisión debe
+compararse con la del combustible que tenga el valor más elevado de nivel máximo permisible de emisión de
+entre los diversos tipos de combustibles utilizados, como se indica en la Tabla 7:
+
+                                                   Tabla 7
+
+                              Combustibles utilizados        NMPE*
+                                                             correspondiente
+
+                              Gas/líquido                    Líquido
+
+                              Gas/sólido                     Sólido
+
+                              Líquido/sólido                 Líquido
+
+                              Gas/líquido/sólido             Líquido
+
+                                   * Nivel Máximo Permisible de Emisión
+
+    6.10 Cuando en una fuente fija se tengan dos o más equipos de combustión se podrán sujetar a los
+niveles máximos permisibles de las Tablas 1 ó 2, según aplique, o ponderar la emisión de los contaminantes
+con base en la medición de su concentración en los gases de combustión y el flujo de éstos en cada uno de
+los equipos. Para ello se aplica la ecuación (5) para cada contaminante (partículas, SO2, NOX y CO):
+
+
+
+
+   El resultado de la concentración ponderada de las emisiones de la fuente fija se compara con el nivel
+máximo permisible de emisión ponderado, que se obtiene como se indica en el numeral 6.11 y cuando sea
+menor o igual, se comprueba que la fuente fija cumple con lo establecido en esta NOM.
+   Jueves 2 de febrero de 2012                 DIARIO OFICIAL                             (Primera Sección)
+
+    Cuando en una fuente fija se tengan dos o más equipos de combustión independientes que descargan
+sobre un mismo conducto, se deberán realizar mediciones individuales de ser factible, o en su defecto realizar
+un muestreo común y adicionar las capacidades térmicas comparándolos con los límites resultantes de la
+suma de capacidades; si los equipos utilizan varios combustibles de manera simultánea se estará a lo
+dispuesto por el numeral 6.9 de la NOM.
+
+   En caso de ampliaciones a plantas existentes, todos los equipos nuevos tendrán que cumplir los niveles
+máximos permisibles de emisión correspondientes a equipos nuevos (Tabla 2), antes de ponderar las
+emisiones.
+
+   6.11 El nivel máximo de emisión ponderado se obtiene aplicando la ecuación (6), que considera los niveles
+máximos permisibles de emisión correspondientes a los equipos y al combustible utilizado en unidades de
+concentración:
+
+
+
+
+   donde:    NMPEP es el Nivel máximo permisible de emisión ponderado por fuente fija, expresado en
+                                                  3
+             unidades de concentración ppmV o mg/m .
+             NMPEi es el nivel máximo permisible de emisión del equipo i-ésimo, que se obtiene de las
+             Tablas 1 o 2, en función de la capacidad y tipo de combustible, expresado en unidades de
+                                       3
+             concentración ppmV o mg/m .
+             Qi es la capacidad térmica del equipo de combustión i-ésimo, expresada en MJ/h. Se obtiene de
+             multiplicar el consumo de combustible por su poder calorífico,
+             i es un número consecutivo (1,2,3.....,n) que se asigna a los equipos de combustión hasta n, que
+             es el número total de equipos.
+   7. Procedimiento de evaluación de la conformidad
+   7.1 Definiciones
+   Para los efectos de este procedimiento, se aplicarán las siguientes definiciones:
+    7.1.1 Autoridad ambiental competente: La PROFEPA, los gobiernos de los estados, de los municipios y del
+Distrito Federal, de conformidad con sus respectivas atribuciones y competencias.
+   7.1.2 Dictamen: Es el documento mediante el cual la PROFEPA o una Unidad de Verificación, hace
+constar el grado de cumplimiento de una o varias NOM’s.
+    7.1.3 Evaluación de la conformidad: La determinación del grado de cumplimiento con las normas oficiales
+mexicanas o la conformidad con las normas mexicanas, las normas internacionales u otras especificaciones,
+prescripciones o características. Comprende, entre otros, los procedimientos de muestreo, prueba,
+calibración, certificación y verificación.
+   7.1.4 Unidad de Verificación (U.V.): Las personas acreditadas y aprobadas en los términos de la Ley
+Federal sobre Metrología y Normalización para realizar actos de verificación.
+   7.1.5 Verificación: La constatación ocular o comprobación mediante muestreo, medición, pruebas de
+laboratorio o examen de documentos que se realizan para evaluar la conformidad en un momento
+determinado.
+   7.2 Procedimiento
+   7.2.1 Este procedimiento es aplicable a la evaluación de la conformidad con esta Norma Oficial Mexicana,
+mediante la revisión de la bitácora, que incluya la medición y los análisis de las emisiones a la atmósfera
+(partículas, bióxido de azufre, óxidos de nitrógeno y monóxido de carbono).
+    7.2.2 Los responsables de las fuentes fijas podrán solicitar la evaluación de la conformidad con esta
+Norma Oficial Mexicana a la PROFEPA o a las Unidades de Verificación debidamente acreditadas y
+aprobadas en los términos de la Ley Federal sobre Metrología y Normalización y demás disposiciones
+aplicables.
+       (Primera Sección)                        DIARIO OFICIAL                      Jueves 2 de febrero de 2012
+
+   7.3 Aspectos técnicos a verificar
+   La evaluación que lleve a cabo la PROFEPA o la U.V. comprenderá lo siguiente:
+  a) La evaluación documental de la bitácora a que se refiere el punto 5.2 de la presente Norma Oficial
+Mexicana.
+      b) La revisión de los resultados y/o informes de los análisis de partículas, bióxido de azufre (SO2), óxidos
+de nitrógeno (NOX), monóxido de carbono (CO) y número de mancha, para verificar que se utilizaron los
+métodos de prueba y de muestreo establecidos en la NOM o equivalentes y se llevaron a cabo por
+laboratorios acreditados y aprobados en términos de la Ley Federal sobre Metrología y Normalización.
+Revisión de la memoria de cálculo para constatar que se cumplen los niveles máximos permisibles de emisión
+que correspondan de las Tablas 1 y 2, o con el nivel máximo permisible de emisión ponderado de la fuente
+fija.
+    c) En el caso de equipos nuevos mayores de 1 000 GJ/h, verificar que se cuenta con el sistema de
+monitoreo continuo de emisiones (SMCE) en operación, el cual tenga un programa de validación de las
+mediciones y que éstas cumplen los niveles máximos permisibles de emisión de la Tabla 2. Verificar que en la
+bitácora estén registradas las calibraciones, reparaciones y salidas de operación del equipo de medición.
+   d) En caso de utilizar equipo de control de emisiones, se debe revisar la bitácora correspondiente para
+constatar que el equipo de control ha operado con la eficiencia de diseño, al menos el 90% del tiempo total de
+operación del equipo de combustión en un año calendario.
+   e) Una vez realizada la verificación procederá a levantar el acta con letra legible, sin tachaduras y
+asentando con toda claridad los hechos encontrados.
+   7.4 La PROFEPA o la U.V., elaborarán un dictamen en el que se hace constar el grado de cumplimiento
+con la presente norma oficial mexicana. Se entregará el original y una copia a quien haya solicitado los
+servicios.
+   7.5 La PROFEPA o la Autoridad ambiental competente podrá realizar visitas de verificación con el objeto
+de vigilar el cumplimiento de esta norma, independientemente de los procedimientos para la evaluación de la
+conformidad que hubiere establecido.
+   8. Observancia de esta norma
+   8.1 La SECRETARIA por conducto de la PROFEPA, así como los Gobiernos del Distrito Federal, de las
+Entidades Federativas y, en su caso, de los municipios, en el ámbito de sus respectivas competencias, son las
+autoridades encargadas de vigilar el cumplimiento de la presente Norma Oficial Mexicana.
+   8.2 El incumplimiento de la presente Norma Oficial Mexicana, será sancionado conforme a lo dispuesto
+por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, el Reglamento de la Ley General del
+Equilibrio Ecológico y la Protección al Ambiente en materia de Prevención y Control de la Contaminación de la
+Atmósfera y los demás ordenamientos jurídicos que conforme a derecho procedan.
+   9. Grado de concordancia con normas y lineamientos internacionales
+   Esta Norma Oficial Mexicana no concuerda con ninguna norma o lineamiento internacional.
+   10. Bibliografía
+   NOM-008-SCFI-2002, “Sistema General de Unidades de Medida”, Publicado en el Diario Oficial de la
+Federación el 27 de noviembre de 2002.
+   NMX-Z-013/1-1977, “Guía para la redacción, estructuración y presentación de las normas mexicanas”,
+publicada en el Diario Oficial de la Federación el 31 de octubre de 1977.
+    USEPA method 7e - Determination of nitrogen oxides emissions from stationary sources (instrumental
+analyzer procedure) (Determinación de emisiones de óxidos de nitrógeno de fuentes fijas. Método
+instrumental http://www.epa.gov/ttn/emc/promgate/method7Er06.pdf).
+   USEPA CEMS Performance Specification 1 For Opacity (Especificaciones de funcionamiento de SMCE
+para opacidad): http://www.epa.gov/ttn/emc/specs/prompspec1.html.
+   Jueves 2 de febrero de 2012                 DIARIO OFICIAL                              (Primera Sección)
+
+    USEPA     Method     6c   –   SO2    -   Instrumental       (Determinación     instrumental    de    SO2):
+http://www.epa.gov/ttn/emc/methods/method6c.html).
+  USEPA CEMS Performance Specifications for SO2 and NOx (Especificaciones de funcionamiento de
+SMCE para SO2 y NOX): http://www.epa.gov/ttn/emc/specs/prompspec2.html.
+    USEPA Method 8.- Determination of sulfuric acid and sulfur dioxide emissions from stationary sources
+(Determinación de emisiones de ácido sulfúrico y dióxido de azufre de Fuentes fijas):
+http://epa.gov/ttn/emc/promgate/m-08.pdf.
+    USEPA Method 10 - Determination of carbon monoxide emissions from Stationary sources (NDIR
+instrumental analyzer procedure) (Determinación de emisiones de CO de fuentes fijas.- Método instrumental):
+http://www.epa.gov/ttn/emc/promgate/method10r06.pdf.
+    USEPA Method 5 - Determination of particulate matter emissions from stationary sources (Determinación
+de la emisión de partículas provenientes de fuentes fijas): http://www.epa.gov/ttn/emc/promgate/m-05.pdf.
+   USEPA Method 030 Determination of Nitrogen Oxides, Carbon Monoxide, and Oxygen Emissions from
+Natural Gas-Fired Engines, Boilers and Processs Heaters Using Portable Analyzer (Determinación de
+emisiones de óxidos de nitrógeno, monóxido de carbono y oxígeno, de motores de gas y calentadores de
+proceso que utilizan analizador portable) http://www.epa.gov./ttn/emc/ctm/ctm-030.pdf.
+    USEPA Method 034 Test Method - Determination of Oxygen, Carbon Monoxide and Oxides of Nitrogen
+from Stationary Sources for periodic monitoring – portable electrochemical analyzer procedure- (Determinación
+de oxígeno, monóxido de carbono y óxidos de nitrógeno para fuentes fijas para monitoreo periódico-
+procedimiento de analizador electroquímico portable): http://www.epa.gov./ttn/emc/ctm/ctm-034 pdf.
+                                              TRANSITORIOS
+   PRIMERO.- La presente Norma Oficial Mexicana entrará en vigor 60 días después de su publicación en el
+Diario Oficial de la Federación.
+   SEGUNDO.- La SEMARNAT conjuntamente con la Entidad de Acreditación, dentro de los 30 días
+naturales siguientes a la entrada en vigor del presente instrumento publicará en el Diario Oficial de la
+Federación una Convocatoria Nacional para la acreditación y aprobación de Unidades de Verificación y
+Laboratorios de Pruebas.
+   TERCERO.- Hasta en tanto se emita la Norma Oficial Mexicana que regule los niveles máximos
+permisibles de emisión para equipos nuevos dedicados a la generación de energía eléctrica mediante turbinas
+de gas, que operen con gas natural en ciclo abierto o ciclo combinado, deberán cumplir con un límite máximo
+permisible de emisión para NOx de 70 ppmV referidas al 5% de O2, 25 C y 1 atm en base seca, aplicable en
+cualquier región del país, para equipos con una capacidad mayor a 106 GJ/h.
+   CUARTO.- La PROFEPA o Unidad de Verificación debidamente acreditada y aprobada en términos de la
+LFMN podrán solicitar al responsable de la fuente fija o equipo de combustión, el contrato de compra firmado
+para determinar si se trata de un equipo de combustión existente o nuevo.
+    QUINTO.- Los responsables de equipos de combustión existentes de calentamiento indirecto con
+capacidad térmica nominal mayor de 530 GJ/h ubicados en zonas críticas deberán cumplir con el Nivel
+Máximo Permisible de Emisión de 600 ppmV de SO2 a más tardar el 1 de enero de 2017, para tal efecto el
+responsable deberá optar por el primer o segundo calendario de cumplimiento gradual establecido en la nota
+(3) de la Tabla 1 de la Norma Oficial Mexicana, y dar aviso a la Secretaría de la opción elegida dentro de los
+60 días posteriores a la publicación de la presente Norma Oficial Mexicana en el Diario Oficial de la
+Federación.
+    El aviso debe incluir un listado pormenorizado de las fuentes fijas con sus equipos y las fechas en las que
+en forma gradual y anual irán cumpliendo con el Nivel Máximo Permisible de Emisión hasta el cumplimiento
+de la totalidad de los equipos o de las fuentes fijas a más tardar el 1 de enero de 2017.
+   México, Distrito Federal, a veinte de enero de dos mil doce.- La Subsecretaria de Fomento y Normatividad
+Ambiental de la Secretaría de Medio Ambiente y Recursos Naturales, y Presidenta del Comité Consultivo
+Nacional de Normalización de Medio Ambiente y Recursos Naturales, Sandra Denisse Herrera Flores.-
+Rúbrica.
+       (Primera Sección)                              DIARIO OFICIAL                           Jueves 2 de febrero de 2012
+
+Tabla 1. Niveles máximos permisibles de emisión de los equipos existentes a la entrada en vigor de la
+                                             NOM (1)
+ (Calderas, generadores de vapor, calentadores de aceite térmico u otro tipo de fluidos, y hornos y secadores
+                                        de calentamiento indirecto)
+                                                                     Valores expresados en unidades de concentración
+  CAPACIDAD          TIPO DE     HUMO     Partículas, mg/m3     Bióxido de azufre,          Oxidos de           Monóxido de
+    TERMICA          COMBUS-      # de                                ppmV            nitrógeno, ppmV          carbono, ppmV
+ NOMINAL DEL          TIBLE      mancha                                                        (2)
+                                          ZVM    ZC    RP      ZVM    ZC       RP     ZVM               RP    ZVM   ZC    RP
+  EQUIPO GJ/h
+                                                                                               ZC
+
+  Mayor de 0.53       Líquido      3      NA     NA    NA      550   1 100    2 200   NA       NA       NA    400   450   500
+  a 5.3 (Mayor
+                     Gaseoso      NA      NA     NA    NA      NA     NA       NA     NA       NA       NA    400   450   500
+   de 15 a 150
+       CC)
+
+  Mayor de 5.3 a      Líquido     NA      75    350    450     550   1 100    2 200   190     190       375   400   450   500
+ 42.4 (Mayor de
+                     Gaseoso      NA      NA     NA    NA      NA     NA       NA     190     190       375   400   450   500
+   150 a 1 200
+       CC)
+
+  Mayor de 42.4       Líquido     NA      60    300    400     550   1 100    2 200   110     110       375   400   450   500
+  a 106 (Mayor
+                     Gaseoso      NA      NA     NA    NA      NA     NA       NA     110     110       375   400   450   500
+   de 1 200 a 3
+     000 CC)
+
+ Mayor de 106 a       Sólido y    NA      60    250    350     550   1 100    2 200   110     110       375   400   400   500
+  530 (Mayor de       Líquido
+ 3 000 a 15 000
+                     Gaseoso              NA     NA    NA      NA     NA       NA     110     110       375   400   450   500
+       CC)
+
+  Mayor de 530        Sólido y    NA      60    250    350     550    6003    2 200   110     110       375   400   400   500
+ (Más de 15 000       Líquido
+       CC)
+                     Gaseoso      NA      NA     NA    NA      NA     NA       NA     110     110       375   400   450   500
+
+
+   NA: No Aplica
+    (1) Para el caso de Partículas, SO2, NOX y CO los límites se establecen como concentraciones en
+volumen y base seca, en condiciones de referencia de 25°C, 101 325 Pa (1 Atm) y 5% de O2.
+   Para corregir las concentraciones medidas a la referencia de 5% O2, se utiliza la ecuación siguiente:
+
+
+
+
+   donde:         CR = Concentración calculada al valor de referencia del O2,               CM= Concentración medida
+                  (Partículas, CO, NOX o SO2),
+
+                   *OM = Valor medido para el O2 (%),         OR = Nivel de referencia para el O2 (5%)*.
+
+   *Para valores medidos para el O2 entre 15.1% y 20.9% se utilizará un valor de OM de 15% en esta
+ecuación de corrección.
+
+   (2) Para NOX, las ZC listadas en los numerales 4.24.4 a 4.24.7, se consideran como Resto del País.
+
+   (3) De acuerdo con el Quinto transitorio el responsable deberá optar por alguno de los siguientes
+calendarios de cumplimiento y presentar un aviso de cumplimiento que contenga al menos la siguiente
+información en enero de cada año a partir de 2013, hasta informar el cumplimiento de la totalidad de las
+fuentes fijas en enero de 2017:
+    Jueves 2 de febrero de 2012                DIARIO OFICIAL                              (Primera Sección)
+
+    Calendario 1
+    Aviso de Cumplimiento por Fuente Fija
+
+El responsable de las fuentes fijas deberá presentar un aviso de Fechas             de     Cumplimiento        /
+cumplimiento anual del total de las fuentes fijas.                         Porcentajes      mínimos        de
+                                                                           Fuentes Fijas en cumplimiento.
+En tanto las fuentes fijas cumplan con las 600 ppmV de SO2,
+deberán de cumplir con el nivel máximo permisible de emisión de ppmV               por     fuente   fija   en
+1,100 ppmV de SO2.                                                         cumplimiento.
+
+DATOS DE LAS FUENTES FIJAS:                                                Enero de 2013 / 20%
+
+     Nombre                                                               600 ppmV de SO2
+
+     Domicilio, Calle, Número, Colonia, Municipio o Delegación, Enero de 2014 / 40%
+      Estado, Código Postal
+                                                                           600 ppmV de SO2
+     Mapa de distribución de los equipos en la fuente fija
+                                                                           Enero de 2015 / 60%
+     Número de los equipos de combustión existentes por fuente fija y
+                                                                           600 ppmV de SO2
+      sus emisiones.
+                                                                           Enero de 2016 / 80%
+     Descripción de las acciones realizadas por el sujeto regulado para
+      cumplir con el NMPE de la fuente fija.                               600 ppmV de SO2
+
+     Número de equipos de relevo y/o auxiliares y su ubicación de Enero de 2017 / 100%
+      acuerdo al mapa.                                                     600 ppmV de SO2
+     Observaciones
+
+
+
+    Calendario 2
+
+    Aviso de Cumplimiento por Equipo de Combustión
+
+El responsable de las fuentes fijas deberá presentar un aviso de Fechas             de     Cumplimiento        /
+cumplimiento de al menos una reducción de emisiones en 100 Reducción Anual Mínima de
+ppmV de SO2 de manera anualizada en todas las fuentes fijas Partes por Millón
+hasta el cumplimiento de 600 ppmV a más tardar el 1 de enero de
+                                                                           ppmV en todas las fuentes fijas.
+2017, teniendo como línea base un nivel máximo permisible de
+emisión de 1,100 ppmV de SO2.
+
+DATOS DE LAS FUENTES FIJAS:                                                Enero de 2013 / 100 ppmV
+
+     Nombre                                                               1000 ppmV SO2
+
+     Domicilio, Calle, Número, Colonia, Municipio o Delegación, Enero de 2014 / 100 ppmV
+      Estado, Código Postal
+                                                                           900 ppmV SO2
+     Mapa de distribución de los equipos en las fuentes fijas.
+                                                                           Enero de 2015 / 100 ppmV
+     Número de los equipos de combustión existentes por fuente fija y
+                                                                           800 ppmV SO2
+      sus emisiones.
+                                                                           Enero de 2016 / 100 ppmV
+     Descripción de las acciones realizadas por el sujeto regulado para
+      cumplir con el NMPE de la fuente fija.                               700 ppmV SO2
+
+     Número de equipos de relevo y/o auxiliares y su ubicación de Enero de 2017 / 100 ppmV
+      acuerdo al mapa.                                                     600 ppmV SO2
+     Observaciones
+       (Primera Sección)                                DIARIO OFICIAL                                  Jueves 2 de febrero de 2012
+
+                      Tabla 2. Niveles máximos permisibles de emisión de equipos nuevos(1)
+                                                                       Valores expresados en unidades de concentración
+                                                                3
+    CAPACIDAD           TIPO DE    HUMO #       Partículas, mg/m      Bióxido de azufre,            Oxidos de          Monóxido de
+
+     TERMICA            COMBUS-      de                                       ppmV               nitrógeno, ppmV       carbono, ppmV
+
+   NOMINAL DEL           TIBLE     mancha                                                                 (2)
+                                                ZVM    ZC     RP     ZVM      ZC        RP        ZVM           RP    ZVM   ZC    RP
+   EQUIPO GJ/h
+                                                                                                         ZC
+
+
+   Mayor de 0.53 a       Líquido      2         NA    NA      NA     275     1 100     2 200      NA     NA     NA    400   450   500
+
+ 5.3 (Mayor de 15 a
+                        Gaseoso      NA         NA    NA      NA     NA       NA        NA        NA     NA     NA    400   450   500
+      150 CC)
+
+
+   Mayor de 5.3 a        Líquido     NA         60    350    450     275     1 100     2 200      190    190    375   400   450   500
+
+   42.4 (Mayor de
+                        Gaseoso      NA         NA    NA      NA     NA       NA        NA        190    190    375   400   450   500
+  150 a 1 200 CC)
+
+
+   Mayor de 42.4 a       Líquido     NA         60    300    400     275     1 100     2 200      110    110    375   400   450   500
+
+  106 (Mayor de 1
+                        Gaseoso      NA         NA    NA      NA     NA       NA        NA        110    110    375   400   450   500
+  200 a 3 000 CC)
+
+
+   Mayor de 106 a        Sólidos     NA         25     60    150     30       70        700       25     110    375   250   300   350
+
+   530 (Mayor de 3
+                        Líquidos     NA         30     60    280     30       220      1 100      25     110    375   250   350   350
+  000 a 15 000 CC)
+                        Gaseoso      NA         NA    NA      NA     NA       NA        NA        25     110    375   250   300   350
+
+                                                                                ( )       ( )
+ Mayor de 530 GJ/h       Sólidos   opacidad     25     50     50     30      110 4     220 5      25     110    220   250   350   350
+
+                                   máxima                                       ( )       ( )
+   (más de 15 000       Líquidos                30     50     50     30      110 4     220 5      25     110    220   250   300   350
+                                          (3)
+                                   20%
+        CC)
+
+                        Gaseoso      NA         NA    NA      NA     NA       NA        NA        25     110    220   250   350   350
+
+
+   NA: No Aplica
+
+   (1) Ver nota (1) de la Tabla 1 anterior.
+
+   (2) Para NOX, las ZC listadas en los numerales 4.24.4 a 4.24.7, se consideran como Resto del País.
+
+   (3) Equipos mayores de 1 000 GJ/h; opacidad 20% o menos en el 90% de las horas efectivas de
+operación (ver numeral 4.6).
+
+   (4) O una reducción del 95% de las emisiones respecto de la emisión potencial máxima de este
+contaminante.
+
+   (5) O una reducción del 90% de las emisiones respecto de la emisión potencial máxima de este
+contaminante.
+
+   En caso de cumplir los niveles máximos permisibles de emisión, no se requiere el empleo de equipo de
+control de emisiones.
+                Tabla 3. Método y frecuencia de medición para la verificación del cumplimiento
+    CAPACIDAD            TIPO DE           HUMO        Partículas,        Bióxido de            Oxidos de        Monóxido de carbono,
+     TERMICA           COMBUSTIBLE         (como        mg/m3         azufre, ppmV        nitrógeno, ppmV               ppmV
+ Jueves 2 de febrero de 2012                        DIARIO OFICIAL                                             (Primera Sección)
+
+ NOMINAL DEL                        indicador
+ EQUIPO GJ/h                            de
+                                    partículas)
+
+                                     NMX-AA-      NMX-AA-010-        Factores de        NOM-098-               NMX-AA-035-1976 o
+                                     114-1991         2001            emisión,         SEMARNAT              Infrarrojo no dispersivo o
+                                                                     análisis en            Anexo 2 o          celda electro-química
+                                                                     chimenea o         Método 7e
+                                                                       análisis              USEPA
+                                                                    químicos del
+                                                                    combustible.
+
+ Mayor de 0.53 a     Líquidos          Anual           NA               Anual                  NA                     Anual
+5.3 (Mayor de 15
+                     Gaseoso           Anual           NA                NA                    NA                     Anual
+   a 150 CC)
+
+ Mayor de 5.3 a      Líquidos           NA            Anual             Anual                Anual                    Anual
+ 42.4 (Mayor de
+                     Gaseoso            NA             NA                NA                  Anual                    Anual
+150 a 1 200 CC)
+
+ Mayor de 42.4 a     Líquidos           NA            Anual             Anual                Anual                    Anual
+106 (Mayor de 1
+                     Gaseoso            NA             NA                NA                  Anual                    Anual
+200 a 3 000 CC)
+
+ Mayor de 106 a     Sólidos y           NA          Semestral         Semestral             Semestral              Semestral o
+ 530 (Mayor de 3     Líquidos                                                                                  determinación de O2
+000 a 15 000 CC)
+                     Gaseoso            NA             NA                NA                 Semestral
+
+  Mayor de 530      Sólidos y       Equipos de      Semestral      Equipos de 530           Semestral               Semestral
+ (más de 15 000      Líquidos          530 a                        a 1,000 GJ/h,    Equipos mayores
+      CC)                           1,000 GJ/h,                     Semestral con      de 1000 GJ/h
+                                    Semestral                        Factores de      deberán medir
+                                                                      emisión.         con SMCE en
+                                     Equipos
+                                                                                       ZVM, ZMG y
+                                      Nuevos                       Equipos nuevos
+                                                                                              ZMM
+                                    mayores a                        mayores a
+                                    1,000 GJ/h                     1,000 GJ/h, que
+                                    Opacidad                            usen
+                                    Semestral                      combustible con
+                                                                    más de 1% S:
+                                                                     SMCE para
+                                                                   SO2, opacidad
+                                                                   y O2, Semestral
+                                                                   con Análisis en
+                                                                    chimenea con
+                                                                    NMX-AA-055-
+                                                                        1979.
+
+                     Gaseoso            NA             NA                NA
+
+
+ NA: No Aplica
+                                          Tabla 4.- Métodos de medición
+   Parámetro                           Norma o método de referencia                                     Métodos Equivalentes
+Humo               NMX-AA-114-1991 “Contaminación atmosférica - fuentes fijas -               Número de mancha:
+                   Determinación de la densidad del humo en los gases de combustión          3 muestras.
+                   que fluyen por un conducto o chimenea - Método del número de
+                   mancha” publicada en el DOF el 8 de noviembre de 1991 (Indicador de
+                   partículas en equipo chico)
+                   ASTM D2156-08 Standard Test Method for Smoke Density in Flue
+                   Gases from Burning Distillate Fuels (Método de prueba para la densidad
+       (Primera Sección)                                    DIARIO OFICIAL                             Jueves 2 de febrero de 2012
+
+                       de humo de gases de combustibles destilados).
+                       Especificaciones de funcionamiento de SMCE para opacidad (consultar         Opacidad en la pluma.
+                       por ejemplo: http://www.epa.gov/ttn/emc/specs/prompspec1.html)
+ Partículas(1)
+                       NMX-AA-010-SCFI-2001, Contaminación atmosférica-Fuentes fijas-              Método isocinético: Promedio de 2
+                       Determinación de la emisión de partículas contenidas en los gases que      corridas, con determinación de O2 .
+                       fluyen por un conducto-Método isocinético, publicada en el DOF del 18
+                       de abril de 2001.
+                       USEPA Method 5- Determination of particulate matter emissions from
+                       stationary sources (Determinación de la emisión de partículas
+                       provenientes de fuentes fijas) http://www.epa.gov/ttn/emc/promgate/m-
+                       05.pdf
+ Oxidos de nitrógeno   Determinación de emisiones de NOx de fuentes fijas (consultar por           Quimioluminiscencia.
+                       ejemplo      Método      7e    (instrumental)    de     la    USEPA:
+                       http://www.epa.gov/ttn/emc/methods/method7e.html).
+                       NOM-098-SEMARNAT-2002, Protección ambiental-Incineración de                 Ultravioleta no dispersivo: Muestreos
+                       residuos, especificaciones de operación y límites de emisión de            de por lo menos 1h en condiciones
+                       contaminantes, Anexo 2 Determinación de emisiones de óxidos de             normales     de      operación,      con
+                       nitrógeno en fuentes fijas (procedimiento de análisis instrumental)        determinación de O2.
+                       publicada en el DOF del 1 de octubre de 2004.                               Conditional Test Method 030 -
+                                                                                                  Determination of Nitrogen Oxides,
+                                                                                                  Carbon     Monoxide,     and     Oxygen
+                                                                                                  Emissions from Natural Gas-Fired
+                                                                                                  Engines, Boilers and Processs Heaters
+                                                                                                  Using         Portable          Analyzer
+                                                                                                  (Determinación de emisiones de óxidos
+                                                                                                  de nitrógeno, monóxido de carbono y
+                                                                                                  oxígeno, de motores de gas y
+                                                                                                  calentadores de proceso que utilizan
+                                                                                                  analizador portable) y 034 Test Method
+                                                                                                  - Determination of Oxygen, Carbon
+                                                                                                  Monoxide and Oxides of Nitrogen from
+                                                                                                  Stationary   Sources      for    periodic
+                                                                                                  monitoring – portable electrochemical
+                                                                                                  analyzer procedure- (Determinación de
+                                                                                                  oxígeno, monóxido de carbono y
+                                                                                                  óxidos de nitrógeno para fuentes fijas
+                                                                                                  para        monitoreo          periódico-
+                                                                                                  procedimiento        de       analizador
+                                                                                                  electroquímico portable ) de la USEPA.
+ CO2, O2               NMX-AA-035-1976, Determinación de CO2, CO y O2 en los gases de
+ CO                    combustión, publicada en el DOF el 10 de junio de 1976.                     Fyrite u Orsat: Prom. de 3 lecturas en
+                       Método 10 USEPA: ver numeral 10. Bibliografía.                             1 hora de CO y O2 .
+                       NOM-098-SEMARNAT-2002, Protección ambiental-Incineración de                 Infrarrojo no dispersivo o celda
+                       residuos, especificaciones de operación y límites de emisión de            electroquímica.
+                       contaminantes. Anexo 1 Especificaciones y procedimientos de prueba
+                       para sistemas de monitoreo continuo de emisiones (SMCE) de
+                       monóxido de carbono.
+ Oxígeno               En equipos mayores de 1 000 GJ/h, la medición con propósitos de             Método magnetodinámico o celda
+                       control de la operación debe realizarse de manera continua, con            paramagnética o de Zr.
+                       registro gráfico o electrónico como mínimo.
+ SO2                   Estimación a través de factores de emisión o balance de masas.              Equipos menores de 1000 GJ/h.
+                       NMX-AA-055-1979,          Contaminación    atmosférica-Fuentes    fijas-    Vía húmeda (torino).
+                       Determinación de bióxido de azufre en gases que fluyen por un
+                       conducto, DOF de 6 de septiembre de 1979.
+                       NMX-AA-056-1980 “Contaminación atmosférica- fuentes fijas-                 •Método 6 y 8 de la USEPA.
+                       Determinación de bióxido de Azufre y neblinas de ácido sulfúrico en los
+                       gases que fluyen por un conducto” publicada en el Diario Oficial de la
+                       Federación el 17 de junio de 1980.
+                       Determinación de SO2 por métodos instrumentales (consultar por              UV o infrarrojo no dispersivo o
+                       ejemplo       Método       6c    de     la    USEPA      para     SO2:     fluorescente.
+                       http://www.epa.gov/ttn/emc/methods/method6c.html).
+                       Especificaciones de funcionamiento de SMCE para SO2 y NOX                   Equipo mayor de 1000 GJ/h: SMCE
+                       (consultar                          por                        ejemplo
+                       http://www.epa.gov/ttn/emc/specs/prompspec2.html).
+ Flujo de gases en     NMX-AA-009/1993-SCFI, Contaminación atmosférica-Fuentes fijas-              Método de tubo de Pitot.
+ chimenea              Determinación de flujo de gases en un conducto por medio del Tubo de
+                       Pitot, DOF de 27 de diciembre de 1993.
+ Humedad de gases      NMX-AA-054-1978, Contaminación atmosférica-Determinación del                Método gravimétrico.
+                       contenido de humedad en los gases que fluyen por un conducto-Método
+                       gravimétrico, DOF de 2 de agosto de 1978.
+                       USEPA Method 4 “Determination of moisture content in stack gases”
+                       (determinación de humedad de los gases de chimenea”.
+
+   NOTA:
+   (1) Para el caso de Partículas el valor resultante de la medición de este contaminante será el
+promediado de al menos 2 corridas.
+                              Tabla 5. Propiedades de combustibles convencionales
+       Combustible         Poder calorífico   Peso específico kg/l        Componentes principales (%)               FESO2      Fd m3/GJ
+                                MJ/kg
+                                                                         S             N             Agua           g/kg
+
+       Gas natural                52                    -                 -             -              -             ≈0           326
+Jueves 2 de febrero de 2012                    DIARIO OFICIAL                               (Primera Sección)
+
+     Gas L.P.             48+           0.504(2)       0.014(2)          -           -       ≈0         313
+
+                                        0.580(2)
+
+  Diesel Industrial           48           -          0.05 0.5(1)      -(1)       0.05(1)    1          339
+
+Gasóleo Doméstico             42        0.905(2)        0.05(1)        -(1)       0.5(2)      -         339
+                                                (2)
+                                        0.911
+
+Combustóleo pesado            42        1.000(2)        4.0(1)      Informar(1)   1.0(1)     80         339
+
+Combustóleo ligero            43        0.966(2)      2.0 4.0(1)         -        1.0(1)     40         331
+
+  Carbón mineral         Varía             -               -             -           -        -         335
+
+ Coque de petróleo            31           -          7.0 6.5(2)         -         15(2)    140         335
+
+       Fd: Volumen de productos de la combustión por GJ de energía en el combustible,
+       m3/GJ, en condiciones de referencia: base seca, 25 °C, 1 Atm y 5% de O2.
+       FESO2: Factor de emisión de SO2 del combustible, g/kg.
+       (1) NOM-086.
+
+       (2) Hoja Técnica de Especificaciones de Pemex-Refinación.
+
+
+
+
+                                   ____________________________
+

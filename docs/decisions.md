@@ -1,5 +1,71 @@
 # Architecture decisions
 
+## 2026-07-28 — Batch 2 complete: validation cannot detect wrong-run selection
+
+Batch 2 ran to completion across all 27 candidates: 21 ingested, 6 held
+out and flagged (`docs/plans/nom-standards-batch-2.md`,
+`docs/ingestion-difficulty-log.md`). The corpus went from 160 to 177
+instruments and from 1,487 to 3,238 standard clauses.
+
+**The load-bearing finding: every one of the five parser failures in this
+batch reported `valid; 0 issues`.** `validate_standard` checks that the
+clause run it is handed is internally consistent — ascending numbering,
+non-overlapping spans, offsets inside the text — and never asks whether
+`numbered_body_run` selected the correct run. A standard can therefore
+compile "clean" while carrying 744 phantom clauses absorbed from an
+appendix table (NOM-010-STPS-2014), or while missing its entire body
+because the índice was compiled instead (NOM-052-SEMARNAT-2005, 1.1%
+clause-span coverage). Absent the hold-out-and-flag policy adopted
+earlier the same day, all five would now be committed canonical data,
+hashed into Maximasa's bundle lock, indistinguishable from correct
+records by any automated check this repository has.
+
+Three failure classes were newly identified and named:
+`annex-continues-numbering` (the run does not stop at the terminal
+heading; a following annex/table/questionnaire continuing the same
+numeric sequence is absorbed — NOM-010, NOM-035, NOM-024),
+`indice-selected-as-body` (the table of contents is itself a complete
+consecutive run and wins selection outright — NOM-052), and
+`metadata-ambiguity` applied to a legal-identity rather than parser
+question (NOM-002-SEMARNAT-1996, below). These join
+`annex-form-numbering` from tranche 1 (NOM-019-STPS-2011, where an annex
+form's independently *restarted* numbering out-competed the real body on
+raw length — a distinct mechanism from the three above, not a variant).
+
+Two discriminators caught every case and are deliberately *not* yet
+implemented as checks, because doing so is a validator change that should
+be reviewed on its own terms rather than folded into an ingestion batch:
+clause-span coverage as a fraction of document length (the índice failure
+scored 0.011; every correct instrument scored ≥0.31), and whether the
+selected run terminates at a Bibliografía/Concordancia heading. Promoting
+both into `validate` is the recommended next code change; three of the
+four parser classes are plausibly one shared fix in `numbered_body_run`.
+
+**NOM-002-SEMARNAT-1996 is a decision, not a defect.** Its text parses
+cleanly, but the retained official text is titled NOM-002-**ECOL**-1996
+and names SEMARNAP as issuer, while the registry indexes it as
+NOM-002-**SEMARNAT**-1996 under SEMARNAT. Committing it would assert a
+`designation` appearing nowhere in its own source text, and
+`StandardMetadata` has no field for "published as X, now indexed as Y."
+Not resolved by convention here; held for reviewer direction. This will
+recur for every pre-2000 ECOL-era environmental NOM, so the decision sets
+a pattern rather than settling one record.
+
+Recorded conservatively rather than assumed harmless during this batch:
+NOM-020-STPS-2011's *ACUERDO de modificación* (2014-12-09) is recorded as
+an unconsolidated modification, giving it a standing warning that its
+clause text is not current until that decree is checked — the same
+treatment NOM-247 carries. "Procedimiento alternativo autorizado" records
+on other standards were *not* treated as modifications: they authorize
+compliance methods, not text changes. NOM-025-STPS-2008's
+`effective_date` is `null` because its text sets entry into force two
+months after a 2008-12-30 publication (a nonexistent 30 February) and the
+registry's own field reads an impossible `2009-02-29`; an invented date
+would have been worse than an absent one.
+
+A flag report for reviewer triage was written to Spearhead at
+`20_Repos/Lex-Mex/NOM Batch 2 — Flagged Instruments for Review.md`.
+
 ## 2026-07-28 — Batch NOM ingestion: hold-out-and-flag policy, review deferred to packets
 
 Decision, operator-directed: treat NOM ingestion as a general batch process

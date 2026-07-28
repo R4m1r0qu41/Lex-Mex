@@ -1,0 +1,962 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n    Establecer los requerimientos en cuanto a los colores y señales de seguridad e higiene y la identificación\nde riesgos por fluidos conducidos en tuberías.",
+    "start_char": 5098,
+    "end_char": 5267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación",
+    "start_char": 5271,
+    "end_char": 5293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "2.1",
+    "label": "2.1 Esta Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo, excepto lo",
+    "text": "2.1 Esta Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo, excepto lo\nestablecido en el apartado 2.2.",
+    "start_char": 5297,
+    "end_char": 5432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "2.2",
+    "label": "2.2 La presente Norma no aplica en:",
+    "text": "2.2 La presente Norma no aplica en:\n   a)    La señalización para la transportación terrestre, marítima, fluvial o aérea, que sea competencia de la\n         Secretaría de Comunicaciones y Transportes;\n   b)    La identificación de riesgos por fluidos conducidos en tuberías subterráneas u ocultas, ductos\n         eléctricos y tuberías en centrales nucleares, y\n   c)    Las tuberías instaladas en las plantas potabilizadoras de agua, así como en las redes de distribución\n         de las mismas, en lo referente a la aplicación del color verde de seguridad.",
+    "start_char": 5436,
+    "end_char": 5994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n    Para la correcta interpretación de esta Norma, debe consultarse la siguiente Norma Oficial Mexicana\nvigente o la que la sustituya:\n   NOM-018-STPS-2000, Sistema para la identificación y comunicación de peligros y riesgos por sustancias\nquímicas peligrosas en los centros de trabajo.",
+    "start_char": 5998,
+    "end_char": 6299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4",
+    "label": "4. Definiciones y simbología",
+    "text": "4. Definiciones y simbología\n   Para los efectos de esta Norma, se establecen las definiciones y simbología siguientes:",
+    "start_char": 6303,
+    "end_char": 6422
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1",
+    "label": "4.1 Definiciones.",
+    "text": "4.1 Definiciones.",
+    "start_char": 6426,
+    "end_char": 6443
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.1",
+    "label": "4.1.1 Banda de identificación: disposición del color de seguridad en forma de cinta o anillo transversal a",
+    "text": "4.1.1 Banda de identificación: disposición del color de seguridad en forma de cinta o anillo transversal a\nla sección longitudinal de la tubería.",
+    "start_char": 6448,
+    "end_char": 6593
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.2",
+    "label": "4.1.2 Color de seguridad: color de uso especial y restringido, cuya finalidad es indicar la presencia de",
+    "text": "4.1.2 Color de seguridad: color de uso especial y restringido, cuya finalidad es indicar la presencia de\npeligro, proporcionar información, o bien prohibir o indicar una acción a seguir.",
+    "start_char": 6598,
+    "end_char": 6784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.3",
+    "label": "4.1.3 Color contrastante: aquel que se utiliza para resaltar el color de seguridad.",
+    "text": "4.1.3 Color contrastante: aquel que se utiliza para resaltar el color de seguridad.",
+    "start_char": 6788,
+    "end_char": 6871
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.4",
+    "label": "4.1.4 Dictamen de verificación: documento que emite y firma la Unidad de Verificación, en el cual se",
+    "text": "4.1.4 Dictamen de verificación: documento que emite y firma la Unidad de Verificación, en el cual se\nresume el resultado de la verificación de cumplimiento con esta Norma Oficial Mexicana en un centro de\ntrabajo.",
+    "start_char": 6876,
+    "end_char": 7088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.5",
+    "label": "4.1.5 Evaluación de la conformidad: determinación del grado de cumplimiento con la Norma Oficial",
+    "text": "4.1.5 Evaluación de la conformidad: determinación del grado de cumplimiento con la Norma Oficial\nMexicana.",
+    "start_char": 7091,
+    "end_char": 7197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.6",
+    "label": "4.1.6 Fluidos: sustancias líquidas o gaseosas que, por sus características fisicoquímicas, no tienen forma",
+    "text": "4.1.6 Fluidos: sustancias líquidas o gaseosas que, por sus características fisicoquímicas, no tienen forma\npropia, sino que adoptan la del conducto que las contiene.\n\f            (Primera Sección)                          DIARIO OFICIAL           Martes 25 de noviembre de 2008",
+    "start_char": 7201,
+    "end_char": 7478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.7",
+    "label": "4.1.7 Fluidos peligrosos: líquidos y gases que pueden ocasionar un accidente o enfermedad de trabajo",
+    "text": "4.1.7 Fluidos peligrosos: líquidos y gases que pueden ocasionar un accidente o enfermedad de trabajo\npor sus características intrínsecas; entre éstos se encuentran los inflamables, combustibles, inestables que\npuedan causar explosión, irritantes, corrosivos, tóxicos, reactivos, radiactivos, los que impliquen riesgos por\nagentes biológicos, o que se encuentren sometidos a condiciones extremas de presión o temperatura en un\nproceso.",
+    "start_char": 7483,
+    "end_char": 7917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.8",
+    "label": "4.1.8 Fluidos de bajo riesgo: líquidos y gases cuyas características intrínsecas no son peligrosas por",
+    "text": "4.1.8 Fluidos de bajo riesgo: líquidos y gases cuyas características intrínsecas no son peligrosas por\nnaturaleza, y cuyas condiciones de presión y temperatura en el proceso no rebasan los límites establecidos en\nla presente Norma.",
+    "start_char": 7922,
+    "end_char": 8153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.9",
+    "label": "4.1.9 Procedimiento para la evaluación de la conformidad (PEC): metodología establecida para",
+    "text": "4.1.9 Procedimiento para la evaluación de la conformidad (PEC): metodología establecida para\ndeterminar el grado de cumplimiento con la presente Norma Oficial Mexicana.",
+    "start_char": 8157,
+    "end_char": 8325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.10",
+    "label": "4.1.10 Señal de seguridad e higiene: sistema que proporciona información de seguridad e higiene.",
+    "text": "4.1.10 Señal de seguridad e higiene: sistema que proporciona información de seguridad e higiene.\nConsta de una forma geométrica, un color de seguridad, un color contrastante y un símbolo.",
+    "start_char": 8329,
+    "end_char": 8516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.11",
+    "label": "4.1.11 Símbolo: elemento gráfico para proporcionar información de manera concisa.",
+    "text": "4.1.11 Símbolo: elemento gráfico para proporcionar información de manera concisa.",
+    "start_char": 8520,
+    "end_char": 8601
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.12",
+    "label": "4.1.12 Tuberías: conducto formado por tubos, conexiones y accesorios instalados para conducir fluidos.",
+    "text": "4.1.12 Tuberías: conducto formado por tubos, conexiones y accesorios instalados para conducir fluidos.",
+    "start_char": 8605,
+    "end_char": 8707
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.13",
+    "label": "4.1.13 Unidad de verificación (UV): persona física o moral acreditada y aprobada para llevar acabo la",
+    "text": "4.1.13 Unidad de verificación (UV): persona física o moral acreditada y aprobada para llevar acabo la\nverificación del cumplimiento con la Norma Oficial Mexicana.",
+    "start_char": 8712,
+    "end_char": 8874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-1-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.1.14",
+    "label": "4.1.14 Verificación: constatación ocular y comprobación mediante muestreo, medición, pruebas de",
+    "text": "4.1.14 Verificación: constatación ocular y comprobación mediante muestreo, medición, pruebas de\nlaboratorio, o examen de documentos que se realizan para evaluar la conformidad en un momento\ndeterminado.",
+    "start_char": 8878,
+    "end_char": 9080
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "4.2",
+    "label": "4.2 Simbología.",
+    "text": "4.2 Simbología.\n            2\n   cm               :     centímetro cuadrado\n   o\n                    :     grados (unidad de ángulo)\n   o\n       C            :     grados Celsius o centígrados\n                2\n   kg/cm            :     kilogramo por centímetro cuadrado\n   kPa              :     kilopascal\n   lx               :     lux\n   m                :     metro\n        2\n   m                :     metro cuadrado\n   mm               :     milímetro\n   π                :     pi\n   %                :     por ciento\n   ≥                :     mayor o igual",
+    "start_char": 9084,
+    "end_char": 9646
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 9650,
+    "end_char": 9676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "5.1",
+    "label": "5.1. Mostrar a la autoridad del trabajo, cuando ésta así se lo solicite, los documentos que la presente",
+    "text": "5.1. Mostrar a la autoridad del trabajo, cuando ésta así se lo solicite, los documentos que la presente\nNorma le obligue a elaborar o poseer.",
+    "start_char": 9680,
+    "end_char": 9821
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "5.2",
+    "label": "5.2 Proporcionar capacitación a los trabajadores sobre la correcta interpretación de los elementos de",
+    "text": "5.2 Proporcionar capacitación a los trabajadores sobre la correcta interpretación de los elementos de\nseñalización del centro de trabajo.",
+    "start_char": 9825,
+    "end_char": 9962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "5.3",
+    "label": "5.3 Garantizar que la aplicación del color, la señalización y la identificación de la tubería estén sujetos a un",
+    "text": "5.3 Garantizar que la aplicación del color, la señalización y la identificación de la tubería estén sujetos a un\nmantenimiento que asegure en todo momento su visibilidad y legibilidad.",
+    "start_char": 9965,
+    "end_char": 10149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "5.4",
+    "label": "5.4 Ubicar las señales de seguridad e higiene de tal manera que puedan ser observadas e interpretadas",
+    "text": "5.4 Ubicar las señales de seguridad e higiene de tal manera que puedan ser observadas e interpretadas\npor los trabajadores a los que están destinadas, evitando que sean obstruidas o que la eficacia de éstas sea\ndisminuida por la saturación de avisos diferentes a la prevención de riesgos de trabajo.\n   Las señales deben advertir oportunamente al observador sobre:\n   i)           La ubicación de equipos o instalaciones de emergencia;\n   ii)          La existencia de riesgos o peligros, en su caso;\n   iii)         La realización de una acción obligatoria, o\n   iv)          La prohibición de un acto susceptible de causar un riesgo.\n\f   Martes 25 de noviembre de 2008              DIARIO OFICIAL                               (Primera Sección)",
+    "start_char": 10153,
+    "end_char": 10899
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "6",
+    "label": "6. Obligaciones de los trabajadores",
+    "text": "6. Obligaciones de los trabajadores",
+    "start_char": 10904,
+    "end_char": 10939
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "6.1",
+    "label": "6.1 Participar en las actividades de capacitación a que se refiere el apartado 5.2.",
+    "text": "6.1 Participar en las actividades de capacitación a que se refiere el apartado 5.2.",
+    "start_char": 10943,
+    "end_char": 11026
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "6.2",
+    "label": "6.2 Respetar y aplicar los elementos de señalización establecidos por el patrón.",
+    "text": "6.2 Respetar y aplicar los elementos de señalización establecidos por el patrón.",
+    "start_char": 11030,
+    "end_char": 11110
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "7",
+    "label": "7. Colores de seguridad y colores contrastantes",
+    "text": "7. Colores de seguridad y colores contrastantes\n    En el presente capítulo se indican los colores de seguridad y contrastantes, así como su significado. No se\nincluye el significado de colores utilizados en códigos específicos ni los establecidos en la\nNOM-018-STPS-2000.",
+    "start_char": 11114,
+    "end_char": 11386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "7.1",
+    "label": "7.1 Colores de seguridad.",
+    "text": "7.1 Colores de seguridad.\n   Los colores de seguridad, su significado y ejemplos de aplicación se establecen en la tabla 1 de la\npresente Norma.\n               TABLA 1.- Colores de seguridad, su significado e indicaciones y precisiones\n     COLOR DE\n                                SIGNIFICADO                       INDICACIONES Y PRECISIONES\n    SEGURIDAD\n                     Paro.                              Alto y dispositivos de desconexión para emergencias.\n                     Prohibición.                       Señalamientos para prohibir acciones específicas.\n       ROJO\n                                                      Ubicación y localización de los mismos e\n                     Material, equipo y sistemas para\n                                                      identificación de tuberías que conducen fluidos para\n                     combate de incendios.\n                                                      el combate de incendios.\n                                                        Atención, precaución, verificación e identificación de\n                     Advertencia de peligro.\n                                                        tuberías que conducen fluidos peligrosos.\n     AMARILLO        Delimitación de áreas.             Límites de áreas restringidas o de usos específicos.\n                     Advertencia de peligro        por Señalamiento para indicar la presencia de material\n                     radiaciones ionizantes.           radiactivo.\n                                                        Identificación de tuberías que conducen fluidos de\n                                                        bajo riesgo. Señalamientos para indicar salidas de\n       VERDE         Condición segura.                  emergencia, rutas de evacuación, zonas de seguridad\n                                                        y primeros auxilios, lugares de reunión, regaderas de\n                                                        emergencia, lavaojos, entre otros.\n        AZUL         Obligación.                        Señalamientos para realizar acciones específicas.",
+    "start_char": 11390,
+    "end_char": 13516
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "7.2",
+    "label": "7.2 Colores contrastantes.",
+    "text": "7.2 Colores contrastantes.\n    Cuando se utilice un color contrastante para mejorar la percepción de los colores de seguridad, la\nselección del primero debe estar de acuerdo a lo establecido en la tabla 2. El color de seguridad debe cubrir al\nmenos 50% del área total de la señal, excepto para las señales de prohibición, según se establece en el\napartado 8.5.2.\n                                TABLA 2.- Selección de colores contrastantes\n                     COLOR DE SEGURIDAD                         COLOR CONTRASTANTE\n                                ROJO                                     BLANCO\n                                                                         NEGRO,\n                             AMARILLO\n                                                                       MAGENTA*\n                                VERDE                                    BLANCO\n                                AZUL                                     BLANCO\n\n\n   * Nota: El magenta debe ser el color contrastante del amarillo de seguridad, únicamente en el caso de la\nseñal utilizada para indicar la presencia de radiaciones ionizantes, según lo establecido en el apéndice E.\n\f      (Primera Sección)                       DIARIO OFICIAL                 Martes 25 de noviembre de 2008",
+    "start_char": 13522,
+    "end_char": 14809
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8",
+    "label": "8. Señales de seguridad e higiene",
+    "text": "8. Señales de seguridad e higiene",
+    "start_char": 14814,
+    "end_char": 14847
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.1",
+    "label": "8.1 Formas geométricas.",
+    "text": "8.1 Formas geométricas.\n    Las formas geométricas de las señales de seguridad e higiene y su significado asociado se establecen en\nla tabla 3.",
+    "start_char": 14851,
+    "end_char": 14994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.2",
+    "label": "8.2 Símbolos de seguridad e higiene.",
+    "text": "8.2 Símbolos de seguridad e higiene.",
+    "start_char": 15002,
+    "end_char": 15038
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.2.1",
+    "label": "8.2.1 El color de los símbolos debe ser el mismo que el color contrastante, correspondiente a la señal de",
+    "text": "8.2.1 El color de los símbolos debe ser el mismo que el color contrastante, correspondiente a la señal de\nseguridad e higiene, excepto en las señales de seguridad e higiene de prohibición, que deben cumplir con el\napartado 8.5.2.",
+    "start_char": 15042,
+    "end_char": 15271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.2.2",
+    "label": "8.2.2 Los símbolos que deben utilizarse en las señales de seguridad e higiene, deben cumplir con el",
+    "text": "8.2.2 Los símbolos que deben utilizarse en las señales de seguridad e higiene, deben cumplir con el\ncontenido de imagen que se establece en los apéndices A, B, C, D y E, en los cuales se incluyen una serie de\nejemplos.",
+    "start_char": 15275,
+    "end_char": 15493
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.2.3",
+    "label": "8.2.3 Al menos una de las dimensiones del símbolo debe ser mayor al 60% de la altura de la señal.",
+    "text": "8.2.3 Al menos una de las dimensiones del símbolo debe ser mayor al 60% de la altura de la señal.",
+    "start_char": 15497,
+    "end_char": 15594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.2.4",
+    "label": "8.2.4 Cuando se requiera elaborar un símbolo para una señal de seguridad e higiene en un caso",
+    "text": "8.2.4 Cuando se requiera elaborar un símbolo para una señal de seguridad e higiene en un caso\nespecífico que no esté contemplado en los apéndices, se permite el diseño particular que se requiera siempre\ny cuando se establezca la indicación por escrito y su contenido de imagen asociado.",
+    "start_char": 15599,
+    "end_char": 15885
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-2-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.2.5",
+    "label": "8.2.5 En el caso de las señales de obligación y precaución, podrá utilizarse el símbolo general consistente",
+    "text": "8.2.5 En el caso de las señales de obligación y precaución, podrá utilizarse el símbolo general consistente\nen un signo de admiración como se muestra en las figuras B.1 y C.1 de los apéndices B y C, respectivamente,\ndebiendo agregar un texto breve y concreto fuera de los límites de la señal. Este texto deberá cumplir con lo\nestablecido en el apartado 8.3.1.\n\f   Martes 25 de noviembre de 2008               DIARIO OFICIAL                               (Primera Sección)",
+    "start_char": 15889,
+    "end_char": 16360
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.3",
+    "label": "8.3 Textos.",
+    "text": "8.3 Textos.",
+    "start_char": 16365,
+    "end_char": 16376
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.3.1",
+    "label": "8.3.1 Toda señal de seguridad e higiene podrá complementarse con un texto fuera de sus límites y este",
+    "text": "8.3.1 Toda señal de seguridad e higiene podrá complementarse con un texto fuera de sus límites y este\ntexto cumplirá con lo siguiente:\n   a)    Ser un refuerzo a la información que proporciona la señal de seguridad e higiene;\n   b)    La altura del texto, incluyendo todos sus renglones, no será mayor a la mitad de la altura de la señal\n         de seguridad e higiene;\n   c)    El ancho de texto no será mayor al ancho de la señal de seguridad e higiene;\n   d)    Estar ubicado abajo de la señal de seguridad e higiene;\n   e)    Ser breve y concreto, y\n   f)    Ser en color contrastante sobre el color de seguridad correspondiente a la señal de seguridad e\n         higiene que complementa, texto en color negro sobre fondo blanco, o texto en blanco sobre negro.",
+    "start_char": 16381,
+    "end_char": 17146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.3.2",
+    "label": "8.3.2 Unicamente las señales de información se pueden complementar con textos dentro de sus límites,",
+    "text": "8.3.2 Unicamente las señales de información se pueden complementar con textos dentro de sus límites,\ndebiendo cumplir con lo siguiente:\n   a)    Ser un refuerzo a la información que proporciona la señal;\n   b)    No deben dominar sobre los símbolos, para lo cual se limita la altura máxima de las letras a la tercera\n         parte de la altura del símbolo;\n   c)    Deben ser breves y concretos, con un máximo de tres palabras, y\n   d)    El color del texto será el mismo que el color contrastante correspondiente a la señal de seguridad e\n         higiene que complementa.",
+    "start_char": 17150,
+    "end_char": 17724
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.4",
+    "label": "8.4 Dimensiones de las señales de seguridad e higiene.",
+    "text": "8.4 Dimensiones de las señales de seguridad e higiene.\n    Las dimensiones de las señales de seguridad e higiene deben ser tales que el área superficial y la\ndistancia máxima de observación cumplan con la relación siguiente:\n\n\n\n\n                                           2\n   donde: S = superficie de la señal en m\n   L = distancia máxima de observación en m\n   Esta relación sólo se aplica para distancias de 5 a 50 m. Para distancias menores a 5 m, el área de las\n                                        2\nseñales será como mínimo de 125 cm . Para distancias mayores a 50 m, el área de las señales será, al\n                    2\nmenos, de 12500 cm .",
+    "start_char": 17728,
+    "end_char": 18380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.5",
+    "label": "8.5 Disposición de los colores en las señales de seguridad e higiene.",
+    "text": "8.5 Disposición de los colores en las señales de seguridad e higiene.",
+    "start_char": 18384,
+    "end_char": 18453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.5.1",
+    "label": "8.5.1 Para las señales de seguridad e higiene de obligación, precaución e información, el color de",
+    "text": "8.5.1 Para las señales de seguridad e higiene de obligación, precaución e información, el color de\nseguridad debe cubrir cuando menos el 50% de su superficie total.",
+    "start_char": 18457,
+    "end_char": 18621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.5.2",
+    "label": "8.5.2 Para las señales de seguridad e higiene de prohibición el color del fondo debe ser blanco, la banda",
+    "text": "8.5.2 Para las señales de seguridad e higiene de prohibición el color del fondo debe ser blanco, la banda\ntransversal y la banda circular deben ser de color rojo, el símbolo debe colocarse centrado en el fondo y no\ndebe obstruir la banda diametral, el color rojo debe cubrir por lo menos el 35% de la superficie total de la señal\nde seguridad e higiene. El color del símbolo debe ser negro.",
+    "start_char": 18626,
+    "end_char": 19016
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.5.3",
+    "label": "8.5.3 En el caso de las señales de seguridad e higiene elaboradas con productos luminiscentes, se",
+    "text": "8.5.3 En el caso de las señales de seguridad e higiene elaboradas con productos luminiscentes, se\npermitirá usar como color contrastante el amarillo verdoso en lugar del color blanco. Asimismo, el producto\nluminiscente podrá emplearse en los contornos de la señal, del símbolo y de las bandas circular y diametral,\nen las señales de prohibición.",
+    "start_char": 19021,
+    "end_char": 19366
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.6",
+    "label": "8.6 Iluminación.",
+    "text": "8.6 Iluminación.\n   En condiciones normales, en la superficie de la señal de seguridad e higiene, debe existir una iluminación\nde 50 lx como mínimo.",
+    "start_char": 19370,
+    "end_char": 19518
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:8-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "8.7",
+    "label": "8.7 Señales específicas de seguridad e higiene.",
+    "text": "8.7 Señales específicas de seguridad e higiene.\n   Para denotar la presencia de fuentes generadoras o emisoras de radiaciones ionizantes, debe utilizarse la\nseñal de seguridad e higiene establecida en el apéndice E.\n\f        (Primera Sección)                          DIARIO OFICIAL                  Martes 25 de noviembre de 2008",
+    "start_char": 19522,
+    "end_char": 19852
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9",
+    "label": "9. Identificación de riesgos por fluidos conducidos en tuberías",
+    "text": "9. Identificación de riesgos por fluidos conducidos en tuberías",
+    "start_char": 19857,
+    "end_char": 19920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.1",
+    "label": "9.1 En el presente capítulo se establece el código de identificación para tuberías, el cual consta de los",
+    "text": "9.1 En el presente capítulo se establece el código de identificación para tuberías, el cual consta de los\nelementos siguientes:\n   a)     Color de seguridad;\n   b)     Color contrastante;\n   c)     Información complementaria, y\n   d)     Indicación de la dirección del flujo.",
+    "start_char": 19924,
+    "end_char": 20199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.1.1",
+    "label": "9.1.1 Las tuberías deben ser identificadas con el color de seguridad que le corresponda de acuerdo a lo",
+    "text": "9.1.1 Las tuberías deben ser identificadas con el color de seguridad que le corresponda de acuerdo a lo\nestablecido en la tabla 4.\n                        TABLA 4.- Colores de seguridad para tuberías y su significado\n          COLOR DE\n                                                              SIGNIFICADO\n         SEGURIDAD\n              Rojo            Identificación de fluidos para el combate de incendio conducidos por tubería.\n            Amarillo          Identificación de fluidos peligros conducidos por tubería.\n             Verde            Identificación de fluidos de bajo riesgo conducidos por tubería.\n\n\n   Para definir si un fluido es peligroso se deberán consultar las hojas de datos de seguridad conforme a lo\nestablecido en la NOM-018-STPS-2000.\n   También se clasificarán como fluidos peligrosos aquellos sometidos a las condiciones de presión o\ntemperatura siguientes:\n                                                                                                        o\n   a)     Condición extrema de temperatura: cuando el fluido esté a una temperatura mayor de 50 C o a baja\n          temperatura que pueda causar lesión al contacto con éste, y\n   b)     Condición extrema de presión: cuando la presión manométrica del fluido sea de 686 kPa, equivalente\n                   2\n          a 7 kg/cm , o mayor.",
+    "start_char": 20203,
+    "end_char": 21540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.1.2",
+    "label": "9.1.2 El color de seguridad debe aplicarse en cualquiera de las formas siguientes:",
+    "text": "9.1.2 El color de seguridad debe aplicarse en cualquiera de las formas siguientes:\n   a)     Pintar la tubería a todo lo largo y cubrir toda la circunferencia con el color de seguridad\n          correspondiente;\n   b)     Pintar la tubería con bandas de identificación de 100 mm de ancho como mínimo debiendo cubrir\n          toda la circunferencia de la tubería, incrementándolas en proporción al diámetro exterior de la tubería\n          de acuerdo a la tabla 5, o\n   c)     Colocar etiquetas indelebles con las dimensiones mínimas que se indican en la tabla 5 para las\n          bandas de identificación; las etiquetas del color de seguridad deben cubrir toda la circunferencia de\n          la tubería.",
+    "start_char": 21544,
+    "end_char": 22249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.1.3",
+    "label": "9.1.3 La disposición del color amarillo para la identificación de fluidos peligrosos, se permitirá mediante",
+    "text": "9.1.3 La disposición del color amarillo para la identificación de fluidos peligrosos, se permitirá mediante\nbandas con franjas diagonales amarillas y negras a 45°. El color amarillo de seguridad debe cubrir por lo\nmenos el 50% de la superficie total de la banda de identificación y las dimensiones mínimas de dicha banda\nse ajustarán a lo establecido en la tabla 5. La información complementaria debe cumplir con lo dispuesto en el\napartado 9.2.4.\n TABLA 5.- Dimensiones mínimas de las bandas de identificación en relación al diámetro de la tubería\n                                            (Todas las dimensiones en mm)\n                DIAMETRO EXTERIOR DE TUBO O                     ANCHO MINIMO DE LA BANDA DE\n                       CUBRIMIENTO                                    IDENTIFICACION\n                                 hasta 38                                        100\n                            más de 38 hasta 51                                   200\n                        más de 51 hasta 150                                      300\n                       más de 150 hasta 250                                      600\n                               más de 250                                        800\n\f   Martes 25 de noviembre de 2008               DIARIO OFICIAL                               (Primera Sección)",
+    "start_char": 22253,
+    "end_char": 23589
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.1.4",
+    "label": "9.1.4 La identificación de los fluidos en las tuberías se conforma de un color de seguridad, un color",
+    "text": "9.1.4 La identificación de los fluidos en las tuberías se conforma de un color de seguridad, un color\ncontrastante, información complementaria y una flecha que indica la dirección del fluido, y se ubicarán de\nforma que sean visibles desde cualquier punto en la zona o zonas en las que se ubica el sistema de tuberías y\nen la cercanía de válvulas. En tramos rectos se ubicarán a intervalos regulares no mayores a lo indicado a\ncontinuación:\n   a)    Para un ancho de banda del color de seguridad de hasta 200 mm, cada 10 m, o\n   b)    Para anchos de banda mayores a 200 mm, cada 15 m.",
+    "start_char": 23595,
+    "end_char": 24178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.2",
+    "label": "9.2 Información complementaria.",
+    "text": "9.2 Información complementaria.",
+    "start_char": 24182,
+    "end_char": 24213
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.2.1",
+    "label": "9.2.1 Adicionalmente a la utilización del color de seguridad señalado en el apartado 9.1 y de la dirección",
+    "text": "9.2.1 Adicionalmente a la utilización del color de seguridad señalado en el apartado 9.1 y de la dirección\ndel flujo establecido en el apartado 9.3, deberá indicarse la información complementaria sobre la naturaleza,\nriesgo del fluido o información del proceso, la cual podrá implementarse mediante cualquiera de las\nalternativas siguientes:\n   a)    Utilizar señales de seguridad e higiene de acuerdo a lo establecido en el capítulo 8;\n   b)    Uso de leyendas que indiquen el riesgo del fluido, conforme a la tabla 6;\n                                TABLA 6.- Leyendas para fluidos peligrosos\n                                          TOXICO\n                                          INFLAMABLE\n                                          EXPLOSIVO\n                                          IRRITANTE\n                                          CORROSIVO\n                                          REACTIVO\n                                          RIESGO BIOLOGICO\n                                          ALTA TEMPERATURA\n                                          BAJA TEMPERATURA\n                                          ALTA PRESION\n\n\n   c)    Utilizar la señalización para indicar riesgos por sustancias químicas, de conformidad con lo\n         establecido en la Norma NOM-018-STPS-2000;\n   d)    Nombre completo de la sustancia (por ejemplo: ACIDO SULFURICO);\n   e)    Información del proceso (por ejemplo: AGUA PARA CALDERAS), y\n   f)    Cualquier combinación de los incisos anteriores.\n    La utilización de las alternativas establecidas en los incisos b), d) y e) debe cumplir con lo establecido en\nlos apartados 9.2.3 a 9.2.7.",
+    "start_char": 24218,
+    "end_char": 25853
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.2.2",
+    "label": "9.2.2 La señalización a que se refieren los incisos a) y c) del apartado anterior, debe cumplir con lo",
+    "text": "9.2.2 La señalización a que se refieren los incisos a) y c) del apartado anterior, debe cumplir con lo\nsiguiente:\n                                                    2\n   a)    El área mínima de la señal será de 125 cm ;\n   b)    Cuando la altura de la señal sea mayor al 70% del diámetro de la tubería, dicha señal se dispondrá a\n         manera de placa colgada en la tubería, adyacente a las bandas de identificación, y\n   c)    Las señales cuya altura sea igual o menor al 70% del diámetro de la tubería, deben ubicarse de\n         conformidad con lo establecido en el apartado 9.2.3.",
+    "start_char": 25858,
+    "end_char": 26446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.2.3",
+    "label": "9.2.3 La información complementaria y el símbolo para fluidos radiactivos a que se refiere el apartado",
+    "text": "9.2.3 La información complementaria y el símbolo para fluidos radiactivos a que se refiere el apartado\n9.2.8, se pintará sobre la banda de color de seguridad o podrá ubicarse en una etiqueta, placa o letrero fijado\na la tubería, adyacente a las bandas de identificación, siempre que dichos elementos de identificación sean\nindelebles e intransferibles. Para la utilización de señales debe observarse lo establecido en el apartado 9.2.2.\nEn caso de que la tubería se pinte a todo lo largo con el color de seguridad, la información complementaria se\nubicará de forma que sea visible desde cualquier punto de la zona o zonas en que se ubica el sistema de\ntubería y en la cercanía de válvulas. En tramos rectos se ubicará a intervalos regulares no mayores a lo\nindicado a continuación:\n\f          (Primera Sección)                         DIARIO OFICIAL             Martes 25 de noviembre de 2008\n\n     a)     Para diámetros de tubería de hasta 51 mm, cada 10 m, y\n     b)     Para diámetros de tubería mayores a 51 mm, cada 15 m.",
+    "start_char": 26451,
+    "end_char": 27477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.2.4",
+    "label": "9.2.4 El color de la información complementaria debe ser del color contrastante correspondiente conforme",
+    "text": "9.2.4 El color de la información complementaria debe ser del color contrastante correspondiente conforme\na lo indicado en la tabla 2 de la presente Norma. Cuando se utilicen bandas de color de seguridad mediante\nfranjas diagonales amarillas y negras como se indica en el apartado 9.1.3, las leyendas de información\ncomplementaria se pintarán adyacentes a dichas bandas, en color blanco o negro, de forma que contrasten\ncon el color de la tubería. En el caso del uso de textos como información complementaria, la altura de las\nletras y longitud de las flechas deben cumplir con lo siguiente:\n     A.- Para tuberías con diámetros hasta de 300 mm:\n\n\n\n\n     Donde:\n     h = altura de las letras del texto y de las flechas.\n     d = diámetro exterior de la tubería o cubrimiento.\n     B.- Para tuberías con diámetros mayores de 300 mm, la altura mínima de las letras será de 15 cm y la\nmáxima igual al valor obtenido en la ecuación. Para las tuberías con diámetros menores a 25 mm, se debe\nutilizar una placa con la información complementaria, y la altura del texto debe ser como mínimo de 10 mm.",
+    "start_char": 27482,
+    "end_char": 28573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-2-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.2.5",
+    "label": "9.2.5 Para la utilización de leyendas que identifiquen el riesgo del fluido, cuando éste implique más de un",
+    "text": "9.2.5 Para la utilización de leyendas que identifiquen el riesgo del fluido, cuando éste implique más de un\nfactor de riesgo, cada uno de ellos debe quedar indicado en la información complementaria, de acuerdo, en su\ncaso, al orden de importancia de éstos. Para tal efecto, se tendrá en consideración la información asentada en\nlas hojas de datos de seguridad correspondientes, conforme a lo establecido en la NOM-018-STPS-2000. Por\nejemplo: INFLAMABLE – TOXICO.",
+    "start_char": 28578,
+    "end_char": 29040
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-2-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.2.6",
+    "label": "9.2.6 Los ácidos y álcalis deben diferenciarse anteponiendo a la leyenda IRRITANTE o CORROSIVO, la",
+    "text": "9.2.6 Los ácidos y álcalis deben diferenciarse anteponiendo a la leyenda IRRITANTE o CORROSIVO, la\npalabra ACIDO o ALCALI, según corresponda.",
+    "start_char": 29044,
+    "end_char": 29185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-2-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.2.7",
+    "label": "9.2.7 Para los casos de los riesgos especiales no considerados en la tabla 6, se deberán utilizar leyendas",
+    "text": "9.2.7 Para los casos de los riesgos especiales no considerados en la tabla 6, se deberán utilizar leyendas\nparticulares que indiquen claramente el riesgo.",
+    "start_char": 29190,
+    "end_char": 29344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-2-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.2.8",
+    "label": "9.2.8 Los fluidos radiactivos se identificarán mediante el símbolo establecido en la figura E1 del apéndice",
+    "text": "9.2.8 Los fluidos radiactivos se identificarán mediante el símbolo establecido en la figura E1 del apéndice\nE.",
+    "start_char": 29350,
+    "end_char": 29460
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.3",
+    "label": "9.3 Dirección del flujo.",
+    "text": "9.3 Dirección del flujo.",
+    "start_char": 29466,
+    "end_char": 29490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.3.1",
+    "label": "9.3.1 La dirección del flujo debe indicarse con una flecha adyacente a las bandas de identificación, o",
+    "text": "9.3.1 La dirección del flujo debe indicarse con una flecha adyacente a las bandas de identificación, o\ncuando la tubería esté totalmente pintada, adyacente a la información complementaria. Las tuberías en las\nque exista flujo en ambos sentidos, se identificarán con una flecha apuntando en ambas direcciones. La\nlongitud de la flecha será igual o mayor a la altura de las letras de las leyendas en relación al diámetro de la\ntubería, conforme a lo indicado en el apartado 9.2.4.",
+    "start_char": 29494,
+    "end_char": 29972
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.3.2",
+    "label": "9.3.2 La flecha de la dirección del flujo se pintará directamente sobre la tubería, en color blanco o negro,",
+    "text": "9.3.2 La flecha de la dirección del flujo se pintará directamente sobre la tubería, en color blanco o negro,\npara contrastar claramente con el color de la misma.",
+    "start_char": 29976,
+    "end_char": 30137
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:9-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "9.3.3",
+    "label": "9.3.3 La flecha de dirección podrá integrarse a las etiquetas, placas o letreros, establecidos en el apartado",
+    "text": "9.3.3 La flecha de dirección podrá integrarse a las etiquetas, placas o letreros, establecidos en el apartado\n9.2.3.",
+    "start_char": 30142,
+    "end_char": 30258
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "10",
+    "label": "10. Unidades de verificación",
+    "text": "10. Unidades de verificación",
+    "start_char": 30264,
+    "end_char": 30292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "10.1",
+    "label": "10.1 El patrón tendrá la opción de contratar los servicios de una unidad de verificación acreditada y",
+    "text": "10.1 El patrón tendrá la opción de contratar los servicios de una unidad de verificación acreditada y\naprobada, de conformidad con lo establecido en la Ley Federal sobre Metrología y Normalización, para\nverificar el grado de cumplimiento de la presente Norma.",
+    "start_char": 30297,
+    "end_char": 30556
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "10.2",
+    "label": "10.2 Las unidades de verificación deben verificar el grado de cumplimiento de los apartados 5.2, 5.3 y 5.4,",
+    "text": "10.2 Las unidades de verificación deben verificar el grado de cumplimiento de los apartados 5.2, 5.3 y 5.4,\nasí como los capítulos 7, 8 y 9.",
+    "start_char": 30561,
+    "end_char": 30701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "10.3",
+    "label": "10.3 Las unidades de verificación deben entregar al patrón el dictamen de verificación de la Norma Oficial",
+    "text": "10.3 Las unidades de verificación deben entregar al patrón el dictamen de verificación de la Norma Oficial\nMexicana NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por\nfluidos conducidos en tuberías.",
+    "start_char": 30707,
+    "end_char": 30947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "10.4",
+    "label": "10.4 La vigencia de los dictámenes favorables emitidos por las unidades de verificación, será de dos años.",
+    "text": "10.4 La vigencia de los dictámenes favorables emitidos por las unidades de verificación, será de dos años.\n\f   Martes 25 de noviembre de 2008                DIARIO OFICIAL                                 (Primera Sección)",
+    "start_char": 30953,
+    "end_char": 31174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11",
+    "label": "11. Procedimiento para la evaluación de la conformidad",
+    "text": "11. Procedimiento para la evaluación de la conformidad",
+    "start_char": 31179,
+    "end_char": 31233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.1",
+    "label": "11.1 Disposiciones generales.",
+    "text": "11.1 Disposiciones generales.",
+    "start_char": 31237,
+    "end_char": 31266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.1.1",
+    "label": "11.1.1 La evaluación de la conformidad podrá ser realizada por la Autoridad Laboral o por una unidad de",
+    "text": "11.1.1 La evaluación de la conformidad podrá ser realizada por la Autoridad Laboral o por una unidad de\nverificación, acreditada por la entidad de acreditación y aprobada por la Secretaría del Trabajo y Previsión\nSocial.",
+    "start_char": 31271,
+    "end_char": 31491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.1.2",
+    "label": "11.1.2 Las unidades de verificación deben entregar al patrón el dictamen de verificación favorable cuando",
+    "text": "11.1.2 Las unidades de verificación deben entregar al patrón el dictamen de verificación favorable cuando\nse hayan cubierto los requerimientos de la presente Norma.",
+    "start_char": 31495,
+    "end_char": 31659
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2",
+    "label": "11.2 Aspectos técnicos a verificar.",
+    "text": "11.2 Aspectos técnicos a verificar.",
+    "start_char": 31663,
+    "end_char": 31698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.1",
+    "label": "11.2.1 Obligaciones del Patrón.",
+    "text": "11.2.1 Obligaciones del Patrón.",
+    "start_char": 31702,
+    "end_char": 31733
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.1.1",
+    "label": "11.2.1.1 Apartado 5.2. Se verificará:",
+    "text": "11.2.1.1 Apartado 5.2. Se verificará:\n   a)    La existencia de documentos que evidencien la capacitación recibida, tales como: constancias de\n         habilidades, diplomas (firmados por el instructor), programas de capacitación, así como evidencias\n         de cumplimiento de éste, entre otros, y\n   b)    A través de entrevista a los trabajadores sobre la comprensión de los señalamientos, por medio de\n         una selección aleatoria de ellos, de acuerdo con la tabla 7.\n                                TABLA 7.- Muestreo por selección aleatoria\n                                                                                 NUMERO MINIMO DE\n                            INDUSTRIA          COMERCIO       SERVICIOS\n                                                                                  ENTREVISTADOS\n        MICROEMPRESA           0 – 30             0–5            0 – 20                     1\n        PEQUEÑA\n                              31 – 100           6 – 20         21 – 50                     2\n        EMPRESA\n        MEDIANA\n                             101 – 500          21 – 100        51 – 100                    4\n        EMPRESA\n        GRAN EMPRESA        MAS DE 500         MAS DE 100     MAS DE 100                    5\n\n\n    Nota: Para las visitas que desarrolle la autoridad laboral, queda abierto el número de trabajadores a\nentrevistar.",
+    "start_char": 31737,
+    "end_char": 33115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.1.2",
+    "label": "11.2.1.2 Apartado 5.3. Se verificará:",
+    "text": "11.2.1.2 Apartado 5.3. Se verificará:\n   a)    La existencia documental de un programa de mantenimiento, así como las evidencias del\n         cumplimiento de éste, y\n   b)    El cumplimiento del programa de mantenimiento, identificando que la aplicación del color,\n         señalización, identificación, legibilidad y visibilidad en las tuberías sea conforme a la presente Norma.",
+    "start_char": 33119,
+    "end_char": 33498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.1.3",
+    "label": "11.2.1.3 Apartado 5.4. Se verificará que:",
+    "text": "11.2.1.3 Apartado 5.4. Se verificará que:\n   a)    Las señales:\n         1)   Puedan ser observadas desde el punto más alejado del área o local donde están ubicadas. La\n              observación será en la dirección de la señal a la distancia libre más alejada del área o local\n              donde está ubicada;\n         2)   Su eficacia no sea disminuida por la concurrencia de otros avisos o con mensajes, es decir que\n              otro tipo de información cercano a la señal no distraigan la atención del trabajador, afectando el\n              propósito que tiene la propia señal de seguridad e higiene.\n         3)   No estén obstruidas con objetos que impidan su observación o afecten su legibilidad.\n   b)    A través de entrevista, los trabajadores manifiesten la correcta interpretación de las señales\n         establecidas en el área o local, de acuerdo con su significado e indicación.",
+    "start_char": 33502,
+    "end_char": 34398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.2",
+    "label": "11.2.2 Colores de seguridad y colores contrastantes.",
+    "text": "11.2.2 Colores de seguridad y colores contrastantes.",
+    "start_char": 34402,
+    "end_char": 34454
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.2.1",
+    "label": "11.2.2.1 Apartado 7.1. Se verificará:",
+    "text": "11.2.2.1 Apartado 7.1. Se verificará:\n   A través de inspección visual, que el uso de los colores de seguridad y su significado se apegan a lo\nestablecido en la tabla 1 de la presente Norma.\n\f      (Primera Sección)                       DIARIO OFICIAL                Martes 25 de noviembre de 2008",
+    "start_char": 34458,
+    "end_char": 34756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.2.2",
+    "label": "11.2.2.2 Apartado 7.2. Se verificará:",
+    "text": "11.2.2.2 Apartado 7.2. Se verificará:\n  De acuerdo con la tabla 9 del presente Procedimiento para la Evaluación de la Conformidad.",
+    "start_char": 34760,
+    "end_char": 34890
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.2.3",
+    "label": "11.2.2.3 Capítulo 8. Señales de seguridad e higiene.",
+    "text": "11.2.2.3 Capítulo 8. Señales de seguridad e higiene.\n  La verificación del cumplimiento de las señales de seguridad e higiene podrá efectuarse mediante\nmuestreo, conforme a lo establecido en la tabla 8.\n                         TABLA 8.- Muestreo de señales de seguridad e higiene\n\n                      Número de señalamientos                Tamaño de la muestra\n\n                              Hasta 15                                  4\n                               16 a 25                                  5\n                               26 a 50                                  8\n                               51 a 90                                 13\n                                91 a 150                                     20\n    Se verificarán los diferentes tipos de señalamientos (prohibición, obligación, precaución e información)\nexistentes en el centro de trabajo.\n    El criterio de rechazo del muestreo es, si un señalamiento no cumple se rechaza el lote de muestras.\n    Para las visitas que desarrolle la autoridad laboral, queda abierto el número de señales a verificar.",
+    "start_char": 34893,
+    "end_char": 35989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.3.1",
+    "label": "11.2.3.1 Apartados 8.1 a 8.6, se verificarán:",
+    "text": "11.2.3.1 Apartados 8.1 a 8.6, se verificarán:\n    Las señales de seguridad e higiene de acuerdo a la tabla 9. Cuando se requiera aplicar muestreo, se debe\nemplear la tabla 8.\n                        TABLA 9.- Verificación de las señales de seguridad e higiene\n     Colores y señales de        Puntos de la norma a\n                                                                       Verificación mediante\n     seguridad e higiene                 verificar\n                               8.1\n                               8.5.2                        Inspección visual y dimensional\n                               8.2.1\n                               7.2\n                                                            Inspección visual y dimensional\n                               Colores contrastantes\n       Señalamientos de        8.2.3                        Inspección visual y dimensional\n          prohibición\n                               8.2.2 y apéndice A           Inspección visual\n                               8.5.3                        Inspección visual\n                               8.3.1                        Inspección visual y dimensional\n                               8.4                          Inspección visual y control dimensional por\n                               8.6                          muestreo\n                               8.1                          Inspección visual\n                               7.2                          Inspección visual\n                               8.2.3                        Inspección visual y control dimensional por\n                               8.2.1                        muestreo\n                               8.2.2 y apéndice B           Inspección visual\n       Señalamientos de\n          obligación           8.2.5 y apéndice B           Inspección visual, dimensional y documental\n                               8.5.3                        Inspección visual\n                               8.3.1                        Inspección visual\n                               8.4\n                                                            Inspección visual y control dimensional por\n                               8.2.1\n                                                            muestreo\n                               8.6\n                               8.1                          Inspección visual\n                               7.2                          Inspección visual\n                                                            Inspección visual y control dimensional por\n       Señalamientos de        8.2.3\n                                                            muestreo.\n          precaución\n                               8.2.2 y apéndice C           Inspección visual\n                                                            Inspección visual y control dimensional por\n                               8.2.5 y apéndice C\n                                                            muestreo\n\f   Martes 25 de noviembre de 2008                          DIARIO OFICIAL                                               (Primera Sección)\n\n      Colores y señales de                 Puntos de la norma a\n                                                                                                Verificación mediante\n      seguridad e higiene                       verificar\n                                         8.5.3\n                                                                              Inspección visual\n                                         8.5.1\n                                         8.3.1                                Inspección visual\n                                         8.4\n                                         8.2.1                                Inspección visual y control dimensional por\n                                         8.5.1                                muestreo\n                                         8.6\n                                         8.1                                  Inspección visual\n                                         7.2                                  Inspección visual\n                                                                              Inspección visual y control dimensional por\n                                         8.2.3\n                                                                              muestreo\n                                         8.2.2 y apéndice D                   Inspección visual y dimensional\n         Señalamientos de\n                                         8.5.3, 8.5.1                         Inspección visual dimensional\n           información\n                                         8.3.1                                Inspección visual\n                                         8.3.2                                Inspección visual y dimensional.\n                                         8.4\n                                                                              Inspección visual y control dimensional por\n                                         8.2.1\n                                                                              muestreo\n                                         8.6",
+    "start_char": 35994,
+    "end_char": 41223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.3.2",
+    "label": "11.2.3.2 Apartado 8.6.",
+    "text": "11.2.3.2 Apartado 8.6.\n    Este apartado se podrá verificar con el informe de evaluación que contemple las mediciones de\niluminación en las señales. Si no se cuenta con este informe, se verificará que los niveles de iluminación en\nlas señales sean los establecidos en esta Norma, apoyándose para tal efecto en lo dispuesto por la Norma\nOficial Mexicana NOM-025-STPS-1999, Condiciones de iluminación en los centros de trabajo, y se\ndocumentará esta actuación. Para la selección de muestras aplicará la tabla 8 del presente procedimiento de\nevaluación de la conformidad.",
+    "start_char": 41229,
+    "end_char": 41797
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.3.3",
+    "label": "11.2.3.3 Apartado 8.7.",
+    "text": "11.2.3.3 Apartado 8.7.\n   Cuando se detecte que existen fuentes generadoras o emisoras de radiaciones ionizantes, se verificará\nque la señal cumpla con las características establecidas en el apéndice E de la presente Norma.",
+    "start_char": 41801,
+    "end_char": 42024
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.4",
+    "label": "11.2.4 Capítulo 9, Identificación de riesgos por fluidos conducidos en tuberías.",
+    "text": "11.2.4 Capítulo 9, Identificación de riesgos por fluidos conducidos en tuberías.",
+    "start_char": 42028,
+    "end_char": 42108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:11-2-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "11.2.4.1",
+    "label": "11.2.4.1 Apartado 9.1.",
+    "text": "11.2.4.1 Apartado 9.1.\n   Se verificará el cumplimiento del contenido de la tabla 10, apoyándose en las hojas de datos de seguridad\nde los fluidos. Cuando se requiera aplicar muestreo, se usará la tabla 8 sobre muestreo de señales de\nseguridad e higiene.\n                      Tabla 10.- Identificación de riesgos por fluidos conducidos en tuberías\n                              Color de seguridad                                                                 Indicación\n  Identificación                                          Verificación      Información          Verificación                   Verificación\n                    Toda la          Por         Por                                                            dirección de\n   de tuberías                                             mediante       complementaria          mediante                       mediante\n                    tubería        bandas     etiquetas                                                             flujo\n\n                                                                                                                                Inspección\n                   9.1.1                                                                                                        visual y\n                                                          Inspección\n                                 9.1.1       9.1.1                                                              9.3.1           control\n                   9.1.2 a)                               visual                               Inspección\n                                                                         9.2.1, 9.2.2, 9.2.3 y                                  dimensional\n Contra incendio                                                                               visual y                         por muestreo\n                                                                         9.2.4\n                                                                                               dimensional\n                                                       Inspección\n                                 9.1.2 b) y 9.1.2 c) y                                                                          Inspección\n                                                       visual y                                                 9.3.2 y 9.3.3\n                                 tabla 5    tabla 5                                                                             visual\n                                                       dimensional\n                                                                                                                                Inspección\n                                                                                              Inspección                        visual y\n                   9.1.1                                  Inspección     9.2.1, 9.2.2, 9.2.3,\n                                 9.1.1       9.1.1                                            visual y          9.3.1           control\n                   9.1.2 a)                               visual         9.2.4 y 9.2.8\n                                                                                              dimensional                       dimensional\n Fluidos                                                                                                                        por muestreo\n peligrosos\n                                 9.1.2 b) y\n                                 tabla 5               Inspección\n                                            9.1.2 c) y                                           Inspección                     Inspección\n                                                       visual y          9.2.5, 9.2.6 y 9.2.7                   9.3.2 y 9.3.3\n                                 9.1.3      tabla 5                                              visual                         visual\n                                                       dimensional\n                                 9.1.4\n\f        (Primera Sección)                                  DIARIO OFICIAL                         Martes 25 de noviembre de 2008\n\n                              Color de seguridad                                                              Indicación\n  Identificación                                          Verificación      Información       Verificación                   Verificación\n                    Toda la          Por         Por                                                         dirección de\n   de tuberías                                             mediante       complementaria       mediante                       mediante\n                    tubería        bandas     etiquetas                                                          flujo\n                                                                                                                             Inspección\n                   9.1.1                                                                                                     visual y\n                                                          Inspección\n                                 9.1.1       9.1.1                                                           9.3.1           control\n                   9.1.2 a)                               visual                               Inspección\n Fluidos no                                                              9.2.1, 9.2.2, 9.2.3 y                               dimensional\n                                                                                               visual y                      por muestreo\n peligrosos                                                              9.2.4\n                                                                                               dimensional\n                                                       Inspección\n                                 9.1.2 b) y 9.1.2 c) y                                                                       Inspección\n                                                       visual y                                              9.3.2 y 9.3.3\n                                 tabla 5    tabla 5                                                                          visual\n                                                       dimensional",
+    "start_char": 42112,
+    "end_char": 48529
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "12",
+    "label": "12. Vigilancia",
+    "text": "12. Vigilancia\n   La vigilancia en el cumplimiento de la presente Norma corresponde a la Secretaría del Trabajo y Previsión\nSocial.",
+    "start_char": 48536,
+    "end_char": 48667
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "13",
+    "label": "13. Bibliografía",
+    "text": "13. Bibliografía\n   a)     Norma Oficial Mexicana NOM-003-SEGOB/2002, Señales y avisos para protección civil-Colores,\n          formas y símbolos a utilizar, publicada en el Diario Oficial de la Federación el 17 de septiembre de\n          2003.\n   b)     Consejo de Ministros de España. Real Decreto 485/1997, del 14 de abril de 1997, sobre\n          disposiciones mínimas en materia de señalización de seguridad y salud en el trabajo; anexos I, II y\n          III.\n   c)     American National Standard Institute. ANSI Z 535.1-1991, American National Standard for Safety\n          Color Code. Estados Unidos de América.\n   d)     Japanese Industrial Standard. JIS Z 9101-1995, Safety colours and safety signs. Japón.\n   e)     American National Standard Institute. ANSI A 13.1, Scheme for the identification of piping systems.\n          Estados Unidos de América.\n   f)     NMX-Z-12-1987, Muestreo para la Inspección por Atributos-Parte 2: Método de muestreo-Tablas y\n          gráficas.",
+    "start_char": 48671,
+    "end_char": 49658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
+    "number": "14",
+    "label": "14. Concordancia con normas internacionales",
+    "text": "14. Concordancia con normas internacionales\n   Esta Norma coincide parcialmente con la Norma Internacional siguiente:\n    International Organization for Standardization. ISO 7010:2003 Graphical symbols-Safety colours and safety\nsigns - Safety signs used in workplaces and public areas.",
+    "start_char": 49662,
+    "end_char": 49947
+  }
+]
