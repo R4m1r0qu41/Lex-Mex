@@ -439,7 +439,16 @@ distinct from `as_published`/`official_compilation`, and a retained-text
 strategy for derogation-caused span shifts. Not scoped in code; do not
 start without a fresh planning pass and operator sign-off on the trusted-
 boundary shape first — this is exactly the kind of schema/parser/validator/
-fixture change M4 requires landing together.
+fixture change M4 requires landing together; (4) **packet-based review
+assignment**, staged 2026-07-28 (`docs/decisions.md` same date), not
+built. Once enough of `docs/plans/nom-standards-batch-2.md`'s batch is
+ingested, group canonical instruments into review packets and hand each
+to an assigned reviewer, rather than gating ingestion on JRH reviewing one
+instrument at a time. Needs a defined grouping key, a reviewer-assignment
+record distinct from `legal_review_status`/`technical_review_status`, and
+(explicitly deferred further) a way for a reviewer to flag a missing
+backlink on the fly. Not scoped in code; same sign-off requirement as
+Scope 2.
 
 ### M5 — Maximasa return handoff
 

@@ -1,5 +1,56 @@
 # Architecture decisions
 
+## 2026-07-28 — Batch NOM ingestion: hold-out-and-flag policy, review deferred to packets
+
+Decision, operator-directed: treat NOM ingestion as a general batch process
+rather than one-at-a-time, applying the existing federal cluster-2 "Batch
+operating loop" discipline (`docs/project-status.md`) with two changes.
+
+1. **Hold out, don't force through.** When an instrument hits a structural
+   difficulty that isn't a quick, obviously-correct fix (a new
+   signature-block variant, a decree-diff case, an ordinal restart, an
+   unresolved acquisition question), it is held out of `corpus/` entirely
+   and flagged in the new `docs/ingestion-difficulty-log.md`, rather than
+   compiled with a known defect. Considered and rejected: compiling anyway
+   with the defect marked on the record. Rejected because `corpus/` is
+   committed canonical data that Maximasa's bundle lock hashes and
+   consumes directly — a known-wrong structure riding along, even flagged,
+   is a defect in canonical data rather than an absence from it. Operator
+   confirmed this explicitly when asked.
+2. **Review no longer gates ingestion, and is deferred to packets.**
+   Standards' `legal_review_status`/`technical_review_status` already
+   supported an unreviewed state independent of successful compilation —
+   nothing mechanical changes here. What changes is the *operating*
+   assumption: JRH (or another reviewer) reviewing every ingested
+   instrument one at a time is not workable at batch scale. Once enough
+   instruments are ingested, they will be grouped into review packets
+   (e.g. "industrial food processing pack") and handed to assigned
+   reviewers — plural, not only JRH — as a batch. This is a change to
+   *when and by whom* review happens, not to the reviewer-of-record rule
+   itself; JRH's role for material already reviewed under the old flow is
+   unaffected. Packet grouping and reviewer assignment are staged, not
+   built — see `docs/plans/nom-standards-batch-2.md` "Packets."
+
+The genuinely new artifact is `docs/ingestion-difficulty-log.md`: a
+durable, failure-class-tagged record distinct from any single plan's own
+`Progress`/`Surprises and discoveries` section, so a recurring pattern is
+visible across unrelated batches (NOM standards now; state/municipal
+corpora later) instead of buried in per-plan prose. Ordinary parser
+defects that get fixed immediately still just get a regression fixture,
+per the existing loop — this log is only for difficulties deliberately
+left open.
+
+Staged the first concrete batch under this policy:
+`docs/plans/nom-standards-batch-2.md`, 27 candidates sourced from
+Maximasa's `nom-register.md` (Tables 1, 3, and 4 minus the five already
+canonical). Corrected in the same pass: the batch is 27, not the round 25
+first estimated conversationally — Table 2 (SSA1/SCFI) is fully done
+(4/4), leaving 22 STPS + 3 SEMARNAT + 2 gap-analysis instruments. Also
+corrected: standards acquisition has no adapter yet
+(`docs/standards-module.md`), so locating each official source remains
+real manual work — the "easy ones ingest quickly" framing only ever
+applied to parsing/validation, not sourcing.
+
 ## 2026-07-27 — Scope 2 staged, not started; Maximasa NOM slice closed for now
 
 Decision: land Scope 1 (below), then explicitly stage Scope 2 (the

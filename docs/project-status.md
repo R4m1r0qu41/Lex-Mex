@@ -110,6 +110,12 @@ Every reusable learning must land before the next instrument uses it:
 This makes later batches faster through local deterministic code while keeping
 canonical source text, legal ambiguity, and reviewer decisions protected.
 
+The NOM standards batch (`docs/plans/nom-standards-batch-2.md`, staged
+2026-07-28) runs this same loop with one addition: an instrument whose
+difficulty isn't a quick fix is held out of `corpus/` and flagged in
+`docs/ingestion-difficulty-log.md` instead of being forced through — see
+`docs/decisions.md` 2026-07-28.
+
 ## Temporal and review scope
 
 Structural ingestion and temporal analysis are separate programs. Newly
