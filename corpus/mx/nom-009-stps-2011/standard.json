@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-009-stps-2011",
+  "kind": "nom",
+  "designation": "NOM-009-STPS-2011",
+  "official_title": "Condiciones de seguridad para realizar trabajos en altura",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "trabajos en altura",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2011-05-06",
+  "effective_date": "2011-08-08",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-009-STPS-1999"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2021-09-09",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-009-STPS-2011_2021_ultima_revision.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/009stps2011.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5188396&fecha=06/05/2011",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-009-STPS-2011/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T16:45:00Z",
+  "source_sha256": "c2025879f4cbdaeaec983df8a0c8481d162ca7d3fd9ae87c8668572d028267ff",
+  "extracted_text_sha256": "a9e91f6d9e86b69d4a26e124f91a822d8d1694e54e2cd586c0ee1a909e651df7",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

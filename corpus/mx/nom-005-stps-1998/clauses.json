@@ -1,0 +1,722 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n    Establecer las condiciones de seguridad e higiene para el manejo, transporte y almacenamiento de\nsustancias químicas peligrosas, para prevenir y proteger la salud de los trabajadores y evitar daños al\ncentro de trabajo.",
+    "start_char": 5464,
+    "end_char": 5699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n    La presente Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo donde\nse manejen, transporten o almacenen sustancias químicas peligrosas.",
+    "start_char": 5704,
+    "end_char": 5899
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n    Para la correcta interpretación de esta Norma, deben consultarse las siguientes normas oficiales\nmexicanas vigentes:\n    NOM-004-STPS-1994, Relativa a los sistemas de protección y dispositivos de seguridad en la\nmaquinaria, equipos y accesorios en los centros de trabajo.\n    NOM-010-STPS-1993, Relativa a las condiciones de seguridad e higiene en los centros de trabajo\ndonde se produzcan, almacenen o manejen sustancias químicas capaces de generar contaminación en\nel medio ambiente laboral.\n    NOM-017-STPS-1993, Relativa al equipo de protección personal para los trabajadores en los centros\nde trabajo.\n    NOM-026-STPS-1993, Seguridad, colores y su aplicación.\n    NOM-027-STPS-1993, Señales y avisos de seguridad e higiene.\n    NOM-028-STPS-1993, Seguridad-Código de colores para la identificación de fluidos conducidos en\ntuberías.\n    NOM-114-STPS-1994, Sistema para la identificación y comunicación de riesgos por sustancias\nquímicas en los centros de trabajo.",
+    "start_char": 5904,
+    "end_char": 6893
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n    Para efectos de esta Norma se establecen las definiciones siguientes:\n    a)   actividad peligrosa: conjunto de tareas derivadas de los procesos de trabajo, que generan\n         condiciones inseguras y sobreexposición a los agentes químicos capaces de provocar daños a\n         la salud de los trabajadores o al centro de trabajo.\n    b) atmósfera explosiva: área del centro de trabajo en que la concentración ambiental de las\n         sustancias químicas peligrosas se encuentra entre el 20% del límite inferior de inflamabilidad y\n         el límite superior de inflamabilidad.\n    c)   atmósfera no respirable: área del centro de trabajo con deficiencia, menos de 19.5%, o exceso,\n         más de 23.5%, de oxígeno.\n    d) autoridad del trabajo: las unidades administrativas competentes de la Secretaría del Trabajo y\n         Previsión Social, que realicen funciones de inspección en materia de seguridad e higiene en el\n         trabajo, y las correspondientes de las entidades federativas y del Distrito Federal, que actúen en\n         auxilio de aquéllas.\n    e)   centro de trabajo: todo aquel lugar, cualquiera que sea su denominación, en el que se realicen\n         actividades de producción, de comercialización o de prestación de servicios, o en el que laboren\n         personas que estén sujetas a una relación de trabajo.\n    f)   espacio confinado: es un lugar lo suficientemente amplio, configurado de tal manera que una\n         persona puede desempeñar una determinada tarea en su interior, que tiene medios limitados o\n         restringidos para su acceso o salida, que no esté diseñado para ser ocupado por una persona\n         en forma continua y en el cual se realizan trabajos específicos ocasionalmente.\n\f   Martes 2 de febrero de 1999                   DIARIO OFICIAL                            (Primera Sección)   3\n\n   g)    examen médico de ingreso: examen realizado y determinado por un médico, para conocer el\n         estado físico y mental del trabajador para determinar si es factible o no que se exponga a las\n         sustancias químicas peligrosas presentes en el centro de trabajo.\n    h) examen médico específico: examen realizado por un médico, cuyo contenido está determinado\n         por la literatura específica. Se realiza cuando se sospecha alteración en la salud del trabajador,\n         con la finalidad de realizar una evaluación médica exhaustiva con respecto a las sustancias\n         químicas peligrosas a las que está expuesto en el centro de trabajo y poder recomendar\n         acciones correctivas al patrón.\n    i)   examen médico periódico: examen realizado y determinado por un médico, cuyo objetivo es\n         vigilar la salud del trabajador expuesto a las sustancias químicas peligrosas presentes en el\n         centro de trabajo.\n    j)   explosivos primarios: son materiales que presentan facilidad para que se les haga detonar ya\n         sea por calor, chispa, fuego o fricción, por lo que se utilizan como disparadores y en la mayoría\n         de los casos son poco estables.\n    k)   explosivos secundarios: son materiales que requieren de un explosivo primario o agente de\n         detonación para que se inicien.\n    l)   inestabilidad: es una característica de aquellas sustancias químicas que, por sus propiedades\n         físicas y químicas, alteran su estado de equilibrio al aplicarles energía.\n    m) material resistente al fuego: son los materiales no combustibles, que sujetos a la acción del\n         fuego, no lo transmiten ni generan humos o vapores tóxicos, ni fallan estructuralmente por un\n         periodo de al menos dos horas.\n    n) polvorín: local destinado para almacenar sustancias explosivas.\n    o) procedimiento seguro: secuencia ordenada y lógica de actividades para llevar a cabo una tarea\n         de forma tal que se minimicen los riesgos a los que se expone el trabajador.\n    p) riesgo potencial: es la probabilidad de que una sustancia química peligrosa cause daño a la\n         salud de los trabajadores o al centro de trabajo.\n    q) sustancias combustibles: son aquellas en estado sólido o líquido con un punto d e inflamación\n         mayor a 37.8°C.\n    r)   sustancias corrosivas: son aquéllas en estado sólido, líquido o gaseoso que causan\n         destrucción o alteraciones irreversibles en el tejido vivo por acción química en el sitio de\n         contacto.\n    s)   sustancias explosivas: son aquéllas en estado sólido, líquido o gaseoso que, por un\n         incremento de temperatura o presión sobre una porción de su masa, reaccionan\n         repentinamente, generando altas temperaturas y presiones sobre el medio ambiente\n         circundante.\n    t)   sustancias inflamables: son aquéllas en estado sólido, líquido o gaseoso con un punto de\n         inflamación menor o igual a 37.8ºC, que prenden fácilmente y se queman rápidamente,\n         generalmente de forma violenta.\n    u) sustancias irritantes: son aquéllas en estado sólido, líquido o gaseoso que caus an un efecto\n         inflamatorio reversible en el tejido vivo por acción química en el sitio de contacto.\n    v)   sustancias químicas peligrosas: son aquéllas que por sus propiedades físicas y químicas al\n         ser manejadas, transportadas, almacenadas o procesadas, presentan la posibilidad de\n         inflamabilidad, explosividad, toxicidad, reactividad, radiactividad, corrosividad o acción biológica\n         dañina, y pueden afectar la salud de las personas expuestas o causar daños a instalaciones y\n         equipos.\n    w) sustancias reactivas: son aquéllas que presentan susceptibilidad para liberar energía.\n    x)   sustancias tóxicas: son aquéllas en estado sólido, líquido o gaseoso que pueden causar\n         trastornos estructurales o funcionales que provoquen daños a la salud o la muerte si son\n         absorbidas, aun en cantidades relativamente pequeñas por el trabajador.\n    y)   ventilación: es el sistema de inyección y extracción de aire, por medios naturales o artificiales,\n         mediante el cual se pueden modificar las condiciones del aire del medio ambiente laboral en\n         cuanto a concentración de contaminantes, temperatura y humedad.",
+    "start_char": 6898,
+    "end_char": 13076
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 13081,
+    "end_char": 13107
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.1",
+    "label": "5.1 Mostrar a la autoridad del trabajo, cuando así lo solicite, los documentos que la presente Norma",
+    "text": "5.1 Mostrar a la autoridad del trabajo, cuando así lo solicite, los documentos que la presente Norma\nle obligue a elaborar.\n\f   4   (Primera Sección)                       DIARIO OFICIAL                      Martes 2 de febrero de 1999",
+    "start_char": 13112,
+    "end_char": 13347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.2",
+    "label": "5.2 Elaborar y mantener actualizado, en cuanto a los cambios de procesos o sustancias químicas",
+    "text": "5.2 Elaborar y mantener actualizado, en cuanto a los cambios de procesos o sustancias químicas\npeligrosas presentes en el centro de trabajo, un estudio para analiza r los riesgos potenciales de\nsustancias químicas peligrosas conforme a lo establecido en el apartado 7.1.",
+    "start_char": 13353,
+    "end_char": 13623
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.3",
+    "label": "5.3 Elaborar y mantener actualizados los manuales de procedimientos para el manejo, transporte y",
+    "text": "5.3 Elaborar y mantener actualizados los manuales de procedimientos para el manejo, transporte y\nalmacenamiento seguro de sustancias químicas peligros as, en los cuales se debe incluir la\nidentificación de los recipientes.",
+    "start_char": 13628,
+    "end_char": 13850
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.4",
+    "label": "5.4 Con base en los resultados del estudio para analizar el riesgo potencial debe contarse con la",
+    "text": "5.4 Con base en los resultados del estudio para analizar el riesgo potencial debe contarse con la\ncantidad suficiente de regaderas, lavaojos, neutralizadores e inhibidores en las zonas de riesgo, para la\natención de casos de emergencia.",
+    "start_char": 13855,
+    "end_char": 14091
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.5",
+    "label": "5.5 Con base en los resultados del estudio para analizar el riesgo potencial, donde por la actividad",
+    "text": "5.5 Con base en los resultados del estudio para analizar el riesgo potencial, donde por la actividad\nlaboral el depósito de sustancias químicas peligrosas en la piel o en la ropa del trabajador pueda ser un\nriesgo para la salud, debe contarse con la cantidad suficiente de regaderas, vestidores y casilleros para\nlos trabajadores y proporcionar, en su caso, el servicio de limpieza de la ropa.",
+    "start_char": 14096,
+    "end_char": 14489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.6",
+    "label": "5.6 Con base en los resultados del estudio para analizar el riesgo potencial, debe contar con un",
+    "text": "5.6 Con base en los resultados del estudio para analizar el riesgo potencial, debe contar con un\nmanual de primeros auxilios en el cual se deben definir los medicamentos y materiales de curación que\nrequiere el centro de trabajo y los procedimientos para la atención de emergencias médicas; se puede\ntomar como referencia la guía de referencia que se incluye al final de la presente Norma.",
+    "start_char": 14494,
+    "end_char": 14883
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.7",
+    "label": "5.7 Proporcionar los medicamentos y materiales de curación necesarios para prestar los primeros",
+    "text": "5.7 Proporcionar los medicamentos y materiales de curación necesarios para prestar los primeros\nauxilios, conforme al apartado 5.6.",
+    "start_char": 14888,
+    "end_char": 15019
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.8",
+    "label": "5.8 Asignar, capacitar y adiestrar al personal para prestar los primeros auxilios.",
+    "text": "5.8 Asignar, capacitar y adiestrar al personal para prestar los primeros auxilios.",
+    "start_char": 15024,
+    "end_char": 15106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.9",
+    "label": "5.9 Proporcionar el equipo de protección personal, conforme al estudio para analizar el riesgo",
+    "text": "5.9 Proporcionar el equipo de protección personal, conforme al estudio para analizar el riesgo\npotencial y a lo establecido en la NOM-017-STPS-1993.",
+    "start_char": 15111,
+    "end_char": 15259
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.10",
+    "label": "5.10 Disponer de instalaciones, equipo o materiales para contener las sustancias químicas",
+    "text": "5.10 Disponer de instalaciones, equipo o materiales para contener las sustancias químicas\npeligrosas, para que en el caso de derrame de líquidos o fuga de gases, se impida su escurrimiento o\ndispersión.",
+    "start_char": 15264,
+    "end_char": 15466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.11",
+    "label": "5.11 Establecer por escrito las actividades peligrosas y operaciones en espacios confinados que",
+    "text": "5.11 Establecer por escrito las actividades peligrosas y operaciones en espacios confinados que\nentrañen exposición a sustancias químicas peligrosas y que requieran autorización para ejecutarse, y\nelaborar el procedimiento de autorización de acuerdo a lo establecido en el apartado 7.2.",
+    "start_char": 15471,
+    "end_char": 15757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.12",
+    "label": "5.12 Elaborar un Programa Especifico de Seguridad e Higiene para el Manejo, Transporte y",
+    "text": "5.12 Elaborar un Programa Especifico de Seguridad e Higiene para el Manejo, Transporte y\nAlmacenamiento de Sustancias Químicas Peligrosas, conforme a lo establecido en el capítulo 8.",
+    "start_char": 15762,
+    "end_char": 15944
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.13",
+    "label": "5.13 Capacitar y adiestrar a los trabajadores en el Programa Específico de Seguridad e Higiene para",
+    "text": "5.13 Capacitar y adiestrar a los trabajadores en el Programa Específico de Seguridad e Higiene para\nel Manejo, Transporte y Almacenamiento de Sustancias Químicas Peligrosas.",
+    "start_char": 15949,
+    "end_char": 16122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.14",
+    "label": "5.14 Contar con un programa de mantenimiento preventivo de la maquinaria, equipo e instalaciones.",
+    "text": "5.14 Contar con un programa de mantenimiento preventivo de la maquinaria, equipo e instalaciones.",
+    "start_char": 16127,
+    "end_char": 16224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.15",
+    "label": "5.15 Elaborar y mantener durante al menos doce meses, un registro del mantenimiento correctivo y",
+    "text": "5.15 Elaborar y mantener durante al menos doce meses, un registro del mantenimiento correctivo y\npreventivo que se aplique al equipo, indicando cuándo se aplicó.",
+    "start_char": 16229,
+    "end_char": 16390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.16",
+    "label": "5.16 Comunicar a los trabajadores los riesgos a los que estén expuestos.",
+    "text": "5.16 Comunicar a los trabajadores los riesgos a los que estén expuestos.",
+    "start_char": 16395,
+    "end_char": 16467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:5-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "5.17",
+    "label": "5.17 Que se practiquen exámenes médicos de ingreso, periódicos y especiales a los trabajadores",
+    "text": "5.17 Que se practiquen exámenes médicos de ingreso, periódicos y especiales a los trabajadores\nque estén expuestos a las sustancias químicas peligrosas.",
+    "start_char": 16472,
+    "end_char": 16624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "6",
+    "label": "6. Obligaciones de los trabajadores",
+    "text": "6. Obligaciones de los trabajadores",
+    "start_char": 16629,
+    "end_char": 16664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "6.1",
+    "label": "6.1 Cumplir con las medidas de seguridad establecidas por el patrón.",
+    "text": "6.1 Cumplir con las medidas de seguridad establecidas por el patrón.",
+    "start_char": 16669,
+    "end_char": 16737
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "6.2",
+    "label": "6.2 Participar en la capacitación y adiestramiento proporcionado por el patrón.",
+    "text": "6.2 Participar en la capacitación y adiestramiento proporcionado por el patrón.",
+    "start_char": 16742,
+    "end_char": 16821
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "6.3",
+    "label": "6.3 Cumplir con las ins trucciones de uso y mantenimiento del equipo de protección personal",
+    "text": "6.3 Cumplir con las ins trucciones de uso y mantenimiento del equipo de protección personal\nproporcionado por el patrón.",
+    "start_char": 16826,
+    "end_char": 16946
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "6.4",
+    "label": "6.4 Participar en las brigadas de respuesta a emergencia.",
+    "text": "6.4 Participar en las brigadas de respuesta a emergencia.",
+    "start_char": 16951,
+    "end_char": 17008
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "6.5",
+    "label": "6.5 Someterse a los exámenes médicos que correspondan según la actividad que desempeñen y",
+    "text": "6.5 Someterse a los exámenes médicos que correspondan según la actividad que desempeñen y\nque el patrón indique.",
+    "start_char": 17013,
+    "end_char": 17125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "7",
+    "label": "7. Requisitos administrativos",
+    "text": "7. Requisitos administrativos",
+    "start_char": 17130,
+    "end_char": 17159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "7.1",
+    "label": "7.1 El estudio para analizar el riesgo potencial debe realizarse tomando en consideración lo",
+    "text": "7.1 El estudio para analizar el riesgo potencial debe realizarse tomando en consideración lo\nsiguiente:\n    a)    las características de los procesos de trabajo;\n    b) las propiedades físicas, químicas y toxicológicas de las sustancias químicas peligrosas;\n    c)    el grado y tipo de riesgo de las sustancias, conforme a lo establecido en la NOM-114-STPS-\n          1994;\n    d) las actividades peligrosas y los trabajos en espacios confinados,\n    e)    las zonas de riesgo del centro de trabajo y el número de trabajadores expuestos en cada zona.",
+    "start_char": 17164,
+    "end_char": 17715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "7.2",
+    "label": "7.2 Procedimiento de autorización para realizar las actividades peligrosas. Se debe elaborar un",
+    "text": "7.2 Procedimiento de autorización para realizar las actividades peligrosas. Se debe elaborar un\ndocumento que contenga:\n\f   Martes 2 de febrero de 1999                 DIARIO OFICIAL                          (Primera Sección)   5\n\n   a)    descripción de la actividad;\n   b)    nombre del trabajador a efectuar la actividad;\n   c)    lugar en donde se realizará la actividad;\n   d)    hora y fecha programadas para el inicio y terminación de la actividad;\n   e)    equipo de protección personal a utilizar;\n   f)    nombre y firma del responsable de la autorización;\n   g)    nombre y firma del responsable del área en donde se realizará la actividad peligrosa, quien\n         vigilará esta actividad;\n    h) nombre y firma de enterado del responsable de mantenimiento,\n    i)   anexar el procedimiento seguro para realizar la actividad.",
+    "start_char": 17720,
+    "end_char": 18557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "8",
+    "label": "8. Programa específico de seguridad e higiene para el manejo, transporte y almacenamiento de",
+    "text": "8. Programa específico de seguridad e higiene para el manejo, transporte y almacenamiento de\nsustancias químicas peligrosas\n    Este programa debe contener lo siguiente:\n    a)   las hojas de datos de seguridad de todas las sustancias químicas que se manejen,\n         transporten o almacenen en el centro de trabajo, de conformidad con lo establecido en la NOM-\n         114-STPS-1994;\n    b) los procedimientos de limpieza y orden;\n    c)   las cantidades máximas de las sustancias que se pueden tener en el área de producción, en\n         base al estudio para analizar el riesgo potencial;\n    d) el tipo del equipo de protección personal específico al riesgo;\n    e)   el procedimiento de limpieza, desinfección o neutralización de las ropas y equipo de protección\n         que pudieran contaminarse con sustancias químicas peligrosas, cuando el estudio para\n         analizar el riesgo potencial así lo indique;\n    f)   la prohibición de ingerir alimentos y bebidas en las áreas de trabajo;\n    g) el plan de emergencia en el centro de trabajo, que debe contener lo siguiente:\n         1)    los procedimientos de seguridad en caso de fuga, derrame, emanaciones o incendio;\n         2)    el manual de primeros auxilios conforme a lo establecido en el apartado 5.6;\n         3)    el procedimiento para evacuación;\n         4)    los procedimientos para volver a condiciones normales,\n         5)    los procedimientos p ara rescate en espacios confinados.\n    h) la prohibición de fumar y utilizar flama abierta en las áreas donde esto represente un riesgo,\n    i)   los procedimientos seguros para realizar las actividades peligrosas y trabajos en espacios\n         confinados.",
+    "start_char": 18562,
+    "end_char": 20247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "9",
+    "label": "9. Requisitos generales",
+    "text": "9. Requisitos generales",
+    "start_char": 20252,
+    "end_char": 20275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "9.1",
+    "label": "9.1 En base al estudio para analizar el riesgo potencial, se deben colocar las señales, avisos,",
+    "text": "9.1 En base al estudio para analizar el riesgo potencial, se deben colocar las señales, avisos,\ncolores e identificación de fluidos conducidos en tuberías conforme a lo establecido en las NOM-026-\nSTPS-1993, NOM-027-STPS-1993 y NOM-028-STPS-1993.",
+    "start_char": 20280,
+    "end_char": 20526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "9.2",
+    "label": "9.2 El llenado de los recipientes que contengan sustancias químicas peligrosas en estado líquido a",
+    "text": "9.2 El llenado de los recipientes que contengan sustancias químicas peligrosas en estado líquido a\npresión atmosférica, debe hacerse máximo hasta el noventa por ciento de su capacidad, para lo cual se\ndebe contar con un dispositivo de lectura del nivel de llenado.",
+    "start_char": 20531,
+    "end_char": 20795
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "9.3",
+    "label": "9.3 Los recipientes portátiles sujetos a presión que contengan sustancias químicas peligrosas",
+    "text": "9.3 Los recipientes portátiles sujetos a presión que contengan sustancias químicas peligrosas\ndeben:\n    a)   contar con válvulas y manómetros; la lectura de la presión de operación en el manómetro debe\n         estar por debajo de la presión máxima de trabajo,\n    b) tener indicada la presión máxima de trabajo.\n    Se exceptúan del cumplimiento de este apartado los extintores y aerosoles.",
+    "start_char": 20800,
+    "end_char": 21192
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "9.4",
+    "label": "9.4 Los recipientes fijos de almacenamiento de sustancias químicas peligrosas deben contar con",
+    "text": "9.4 Los recipientes fijos de almacenamiento de sustancias químicas peligrosas deben contar con\ncimentaciones a prueba de fuego.",
+    "start_char": 21197,
+    "end_char": 21324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:9-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "9.5",
+    "label": "9.5 Las tuberías y recipientes fijos que contengan sustancias químicas peligrosas deben contar con",
+    "text": "9.5 Las tuberías y recipientes fijos que contengan sustancias químicas peligrosas deben contar con\nsistemas que permitan interrumpir el flujo de dichas sustancias.",
+    "start_char": 21329,
+    "end_char": 21492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:9-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "9.6",
+    "label": "9.6 Se debe contar con zonas específicas para el almacenamiento de las sustancias químicas",
+    "text": "9.6 Se debe contar con zonas específicas para el almacenamiento de las sustancias químicas\npeligrosas.",
+    "start_char": 21497,
+    "end_char": 21599
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:9-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "9.7",
+    "label": "9.7 Se deben identificar los recipientes que contengan sustancias químicas peligrosas conforme a lo",
+    "text": "9.7 Se deben identificar los recipientes que contengan sustancias químicas peligrosas conforme a lo\nestablecido en la NOM-114-STPS-1994.",
+    "start_char": 21604,
+    "end_char": 21740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:9-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "9.8",
+    "label": "9.8 Los recipientes con sustancias químicas peligrosas deben permanecer cerrados mientras no",
+    "text": "9.8 Los recipientes con sustancias químicas peligrosas deben permanecer cerrados mientras no\nestén en uso.\n\f   6   (Primera Sección)                        DIARIO OFICIAL                      Martes 2 de febrero de 1999",
+    "start_char": 21745,
+    "end_char": 21964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:9-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "9.9",
+    "label": "9.9 En las áreas donde por el tipo de actividad no exista exposición frecuente de los trabajadores a",
+    "text": "9.9 En las áreas donde por el tipo de actividad no exista exposición frecuente de los trabajadores a\nsustancias químicas peligrosas, se debe vigilar que la concentración de éstas en el medio ambiente\nlaboral no generen una atmósfera explosiva. Cuando un trabajador tenga que entrar a una de estas\náreas, se deben tomar medidas para controlar la exposición del trabajador.",
+    "start_char": 21970,
+    "end_char": 22341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:9-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "9.10",
+    "label": "9.10 Para trabajos en espacios confinados, se debe cumplir con lo siguiente:",
+    "text": "9.10 Para trabajos en espacios confinados, se debe cumplir con lo siguiente:\n    a)    elaborar el procedimiento de autorización conforme a lo establecido en el apartado 7.2;\n    b) llevar a cabo el bloqueo de energía, maquinaria y equipo relacionado con el espacio confinado\n          donde se hará el trabajo, y colocar tarjetas de seguridad que indiquen la prohibición de usarlos\n          mientras se lleva a cabo el trabajo;\n    c)    se debe monitorear constantemente el interior para verificar que la atmósfera cumpla con las\n          condiciones siguientes:\n          1)   que el contenido de oxígeno esté entre 19.5% y 23.5%; en caso contrario se deben tomar\n               las medidas pertinentes, tanto para el uso de equipo de protección respiratoria con\n               suministro de aire, como para la realización de actividades en atmósferas no respirables;\n          2)   la concentración de gases o vapores inflamables no debe ser superior en ningún\n               momento al 20% del valor del límite inferior de inflamabilidad;\n               Ejemplo: El ácido fórmico tiene un límite inferior de inflamabilidad de 18 en una relación\n               volumen/volumen, por lo que 3.6 es el valor que no debe ser superado.\n          3)   la concentración de sustancias químicas peligrosas no debe exceder los límites máximos\n               permisibles de exposición establecidos en la NOM-010-STPS-1993, de lo contrario se\n               deben aplicar las medidas de control establecidas en esa norma,\n          4)   las lámparas que se utilicen para iluminar un espacio confinado, deben ser de uso rudo, a\n               prueba de explosión.\n    d) siempre que el trabajador ingrese a realizar labores en un espacio confinado, deberá ser\n          estrechamente vigilado por el responsable del área o por una persona capacitada para esta\n          función, además debe utilizar un arnés y cuerda resistente a las sustancias químicas que se\n          encuentren en el espacio confinado, con longitud suficiente para poder maniobrar dentro del\n          área y ser utilizada para rescatarlo en caso de ser necesario.",
+    "start_char": 22346,
+    "end_char": 24475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:9-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "9.11",
+    "label": "9.11 Cuando se cuente con un sistema de ventilación artificial, és te debe operarse bajo un programa",
+    "text": "9.11 Cuando se cuente con un sistema de ventilación artificial, és te debe operarse bajo un programa\nde mantenimiento y supervisión de funcionamiento.",
+    "start_char": 24480,
+    "end_char": 24630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "10",
+    "label": "10. Requisitos de seguridad e higiene para el manejo, transporte y almacenamiento de sustancias",
+    "text": "10. Requisitos de seguridad e higiene para el manejo, transporte y almacenamiento de sustancias\ninflamables o combustibles",
+    "start_char": 24635,
+    "end_char": 24757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "10.1",
+    "label": "10.1 En las áreas del centro de trabajo donde se manejen, transporten o almacenen estas",
+    "text": "10.1 En las áreas del centro de trabajo donde se manejen, transporten o almacenen estas\nsustancias, las paredes, pisos, techos, instalaciones y cimentaciones deben ser de materiales\nresistentes al fuego.",
+    "start_char": 24762,
+    "end_char": 24965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "10.2",
+    "label": "10.2 Del manejo.",
+    "text": "10.2 Del manejo.",
+    "start_char": 24970,
+    "end_char": 24986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:10-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "10.2.1",
+    "label": "10.2.1 Se prohíbe el uso de herramientas, ropa, zapatos y objetos personales que puedan generar",
+    "text": "10.2.1 Se prohíbe el uso de herramientas, ropa, zapatos y objetos personales que puedan generar\nchispa, flama abierta o temperaturas que puedan provocar ignición.",
+    "start_char": 24991,
+    "end_char": 25153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:10-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "10.2.2",
+    "label": "10.2.2 El trasvase de sustancias inflamables o combustibles debe realizarse con la ventilación o",
+    "text": "10.2.2 El trasvase de sustancias inflamables o combustibles debe realizarse con la ventilación o\naislamiento del proceso suficiente para evitar la presencia de atmósferas explosivas.",
+    "start_char": 25158,
+    "end_char": 25340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "10.3",
+    "label": "10.3 Del almacenamiento.",
+    "text": "10.3 Del almacenamiento.",
+    "start_char": 25345,
+    "end_char": 25369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:10-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "10.3.1",
+    "label": "10.3.1 Las áreas destinadas para este fin deben estar aisladas de cualquier fuente de calor o",
+    "text": "10.3.1 Las áreas destinadas para este fin deben estar aisladas de cualquier fuente de calor o\nignición.",
+    "start_char": 25374,
+    "end_char": 25477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:10-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "10.3.2",
+    "label": "10.3.2 Los recipientes fijos donde se almacenen estas sustancias deben contar con dispositivos de",
+    "text": "10.3.2 Los recipientes fijos donde se almacenen estas sustancias deben contar con dispositivos de\nrelevo de presión y arrestador de flama.",
+    "start_char": 25482,
+    "end_char": 25620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "10.4",
+    "label": "10.4 Del transporte.",
+    "text": "10.4 Del transporte.",
+    "start_char": 25625,
+    "end_char": 25645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:10-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "10.4.1",
+    "label": "10.4.1 Los sistemas de tuberías que conduzcan estas sustancias y que estén expuestos a que el",
+    "text": "10.4.1 Los sistemas de tuberías que conduzcan estas sustancias y que estén expuestos a que el\ntránsito normal de trabajadores o equipo los pueda dañar, deben contar con protección para evitar que\nsean dañados. Esta protección no debe impedir la revisión y el mantenimiento de dichos sistemas de\ntuberías;",
+    "start_char": 25650,
+    "end_char": 25954
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:10-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "10.4.2",
+    "label": "10.4.2 Cuando el transporte se realice en recipientes portátiles, éstos deberán estar cerrados.",
+    "text": "10.4.2 Cuando el transporte se realice en recipientes portátiles, éstos deberán estar cerrados.",
+    "start_char": 25959,
+    "end_char": 26054
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "11",
+    "label": "11. Requisitos de seguridad e higiene para el manejo, transporte y almacenamiento de sustancias",
+    "text": "11. Requisitos de seguridad e higiene para el manejo, transporte y almacenamiento de sustancias\nexplosivas",
+    "start_char": 26059,
+    "end_char": 26165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "11.1",
+    "label": "11.1 Del manejo.",
+    "text": "11.1 Del manejo.",
+    "start_char": 26170,
+    "end_char": 26186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:11-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "11.1.1",
+    "label": "11.1.1 Se debe elaborar un manual de procedimientos para el manejo seguro de explosivos, el cual",
+    "text": "11.1.1 Se debe elaborar un manual de procedimientos para el manejo seguro de explosivos, el cual\ndebe establecer al menos lo siguiente:\n\f   Martes 2 de febrero de 1999                  DIARIO OFICIAL                           (Primera Sección)   7\n\n   a)    la instrucción de suspender las labores cuando se aproxime una tormenta eléctrica o\n         tempestad;\n    b) se prohíbe el uso de herramientas, ropa, zapatos y objetos personales que puedan generar\n         calor, descargas estáticas, chispa o flama abierta e introducir cualquier dispositivo electrónico\n         que genere radiofrecuencia;\n    c)   las sustancias explosivas deben ser manejadas exclusivamente por personal capacitado y\n         autorizado por el patrón;\n    d) antes de llevar a cabo las voladuras se debe verificar que:\n         1)    se instale y opere una sirena de alerta, con un alcance superior a los 500 metros\n               alrededor del sitio donde se efectuará la voladura, con el fin de advertir del peligro a\n               cualquier persona que se encuentre en el perímetro de este sitio. Esta sirena deberá\n               operar continuamente 10 minutos antes de que inicie la disparada y 10 minutos después\n               de que se dispare el último barreno;\n         2)    se haya alejado a todos los trabajadores de la zona de la voladura;\n         3)    se haya apostado personal en todos los puntos de acceso al lugar donde se va a efectuar\n               la voladura, con el fin de evitar el acceso de cualquier persona,\n         4)    todos los trabajadores hayan alcanzado refugio seguro.\n    e)   queda prohibido volver al lugar donde se realizó la voladura hasta que personal capacitado\n         revise que la zona se encuentra en condiciones de seguridad e higiene, y se dé la autorización\n         para regresar a dicha zona;\n    f)   si hay indicios de falla en la disparada de algún barreno, los trabajadores no deben regresar a\n         sus actividades hasta que el personal autorizado y capacitado localice todos los barrenos que\n         no detonaron y se tomen las medidas de seguridad necesarias;\n    g) cuando se requiera usar explosivos primarios y secundarios, el manejo debe hacerse por\n         separado y sólo se juntarán cuando la operación lo requiera;\n    h) los explosivos que, por su inestabilidad representen riesgos de iniciación, deben manejarse en\n         estado húmedo;\n    i)   en el interior de los locales destinados al almacenamiento de sustancias explosivas solo debe\n         encontrarse personal autorizado y bajo control;\n    j)   únicamente los trabajadores autorizados por el patrón pueden tener acceso al interior de los\n         locales destinados al almacenamiento de susta ncias explosivas;\n    k)   los vehículos que entren al área del polvorín para cargar o descargar sustancias explosivas, lo\n         harán con matachispas en el tubo de escape y cinta conductora para la descarga de la\n         electricidad estática.",
+    "start_char": 26191,
+    "end_char": 29156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:11-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "11.2",
+    "label": "11.2 Del almacenamiento.",
+    "text": "11.2 Del almacenamiento.",
+    "start_char": 29161,
+    "end_char": 29185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:11-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "11.2.1",
+    "label": "11.2.1 Los polvorines deben tener delimitadas las áreas de tránsito para que se permita la maniobra",
+    "text": "11.2.1 Los polvorines deben tener delimitadas las áreas de tránsito para que se permita la maniobra\nde estiba, desestiba y manejo de estas sustancias.",
+    "start_char": 29190,
+    "end_char": 29340
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:11-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "11.2.2",
+    "label": "11.2.2 La operación del polvorín debe estar dirigida por una persona autorizada que conozca y",
+    "text": "11.2.2 La operación del polvorín debe estar dirigida por una persona autorizada que conozca y\naplique los procedimientos de operación y las medidas de seguridad.",
+    "start_char": 29345,
+    "end_char": 29506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:11-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "11.2.3",
+    "label": "11.2.3 El polvorín debe mantenerse controlado con respecto a limpieza, temperatura y ventilación.",
+    "text": "11.2.3 El polvorín debe mantenerse controlado con respecto a limpieza, temperatura y ventilación.",
+    "start_char": 29511,
+    "end_char": 29608
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:11-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "11.2.4",
+    "label": "11.2.4 Cuando se realicen trabajos en polvorines, se debe utilizar equipo de protección personal",
+    "text": "11.2.4 Cuando se realicen trabajos en polvorines, se debe utilizar equipo de protección personal\nconsistente en:\n    a)   ropa de algodón 100% con acabado antiestático;\n    b) ropa interior de algodón 100%,\n    c)   calzado de protección con suela conductiva y sin partes metálicas.",
+    "start_char": 29613,
+    "end_char": 29895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:11-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "11.3",
+    "label": "11.3 Del transporte.",
+    "text": "11.3 Del transporte.",
+    "start_char": 29900,
+    "end_char": 29920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:11-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "11.3.1",
+    "label": "11.3.1 Debe realizarse exclusivamente por personal debidamente capacitado y autorizado por el",
+    "text": "11.3.1 Debe realizarse exclusivamente por personal debidamente capacitado y autorizado por el\npatrón.",
+    "start_char": 29925,
+    "end_char": 30026
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:11-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "11.3.2",
+    "label": "11.3.2 Debe llevarse a cabo mediante equipos o sistemas de seguridad que eviten la explosión por",
+    "text": "11.3.2 Debe llevarse a cabo mediante equipos o sistemas de seguridad que eviten la explosión por\ngolpe, chispa o calentamiento.",
+    "start_char": 30031,
+    "end_char": 30158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "12",
+    "label": "12. Requisitos de seguridad e higiene para el transporte y almacenamiento de sustancias",
+    "text": "12. Requisitos de seguridad e higiene para el transporte y almacenamiento de sustancias\ncorrosivas, irritantes o tóxicas",
+    "start_char": 30163,
+    "end_char": 30283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "12.1",
+    "label": "12.1 El almacenamiento de sustancias corrosivas, irritantes o tóxicas debe hacerse en recipientes",
+    "text": "12.1 El almacenamiento de sustancias corrosivas, irritantes o tóxicas debe hacerse en recipientes\nespecíficos, de materiales compatibles con la sustancia de que se trate.",
+    "start_char": 30288,
+    "end_char": 30458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "12.2",
+    "label": "12.2 Cuando el transporte de sustancias corrosivas, irritantes o tóxicas en los centros de trabajo se",
+    "text": "12.2 Cuando el transporte de sustancias corrosivas, irritantes o tóxicas en los centros de trabajo se\nrealice a través de un sistema de tuberías o recipientes portátiles, éstos deben estar cerrados para evitar\nque su contenido se derrame o fugue.\n\f   8   (Primera Sección)                         DIARIO OFICIAL                        Martes 2 de febrero de 1999",
+    "start_char": 30463,
+    "end_char": 30825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "13",
+    "label": "13. Vigilancia",
+    "text": "13. Vigilancia\n    La vigilancia del cumplimiento de la presente Norma corresponde a la Secretaría del Trabajo y\nPrevisión Social.",
+    "start_char": 30831,
+    "end_char": 30961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "14",
+    "label": "14. Bibliografía",
+    "text": "14. Bibliografía\n    Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, título II, capítulo VI, título III,\ncapítulo III. Publicado en el Diario Oficial de la Federación el 21 de enero de 1997, México.",
+    "start_char": 30966,
+    "end_char": 31186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:clause:15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "number": "15",
+    "label": "15. Concordancia con normas internacionales",
+    "text": "15. Concordancia con normas internacionales\n    Esta Norma no concuerda con ninguna norma internacional, por no existir referencia alguna al\nmomento de su elaboración.",
+    "start_char": 31191,
+    "end_char": 31358
+  }
+]

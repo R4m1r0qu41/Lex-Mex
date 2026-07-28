@@ -1,0 +1,862 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n    Establecer las condiciones de seguridad de los edificios, locales, instalaciones y áreas en los centros de\ntrabajo para su adecuado funcionamiento y conservación, con la finalidad de prevenir riesgos a los\ntrabajadores.",
+    "start_char": 5066,
+    "end_char": 5301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n   La presente Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo.",
+    "start_char": 5305,
+    "end_char": 5426
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n   Para la correcta interpretación de esta Norma, debe consultarse la siguiente Norma Oficial Mexicana o la\nque la sustituya:\n   NOM-026-STPS-1998, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos\nconducidos en tuberías.",
+    "start_char": 5430,
+    "end_char": 5698
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n   Para efectos de esta Norma se establecen las definiciones siguientes:",
+    "start_char": 5702,
+    "end_char": 5790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.1",
+    "label": "4.1 Alcayata: clavo metálico con ángulo recto incrustado o soldado a un poste para configurar peldaños",
+    "text": "4.1 Alcayata: clavo metálico con ángulo recto incrustado o soldado a un poste para configurar peldaños\nde una escala fija.",
+    "start_char": 5794,
+    "end_char": 5916
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.2",
+    "label": "4.2 Ancla: elemento que sirve para afianzar cualquier estructura a pisos, paredes, techos y a otras partes",
+    "text": "4.2 Ancla: elemento que sirve para afianzar cualquier estructura a pisos, paredes, techos y a otras partes\nde la construcción.",
+    "start_char": 5921,
+    "end_char": 6047
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.3",
+    "label": "4.3 Autoridad del trabajo: autoridad laboral: son las unidades administrativas competentes de la",
+    "text": "4.3 Autoridad del trabajo: autoridad laboral: son las unidades administrativas competentes de la\nSecretaría del Trabajo y Previsión Social, que realicen funciones de inspección en materia de seguridad y\nsalud en el trabajo, y las correspondientes de las entidades federativas y del Distrito Federal, que actúen en\nauxilio de aquéllas.",
+    "start_char": 6052,
+    "end_char": 6386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.4",
+    "label": "4.4 Centro de trabajo: todos aquellos lugares tales como edificios, locales, instalaciones y áreas en los",
+    "text": "4.4 Centro de trabajo: todos aquellos lugares tales como edificios, locales, instalaciones y áreas en los\nque se realicen actividades de producción, comercialización, transporte y almacenamiento o prestación de\nservicios, o en los que laboren personas que estén sujetas a una relación de trabajo.",
+    "start_char": 6390,
+    "end_char": 6686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.5",
+    "label": "4.5 Condición insegura: circunstancia física peligrosa en el medio en que los trabajadores realizan sus",
+    "text": "4.5 Condición insegura: circunstancia física peligrosa en el medio en que los trabajadores realizan sus\nlabores (ambiente de trabajo), y se refiere al grado de inseguridad que pueden tener los locales, la\nmaquinaria, los equipos y los puntos de operación.",
+    "start_char": 6690,
+    "end_char": 6945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.6",
+    "label": "4.6 Conservación: actividades de mantenimiento preventivo y correctivo para realizar las adecuaciones,",
+    "text": "4.6 Conservación: actividades de mantenimiento preventivo y correctivo para realizar las adecuaciones,\nmodificaciones o reparaciones de los edificios, locales, instalaciones y áreas en los centros de trabajo.",
+    "start_char": 6948,
+    "end_char": 7156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.7",
+    "label": "4.7 Escalas fijas: peldaños consecutivos que están permanentemente sujetos a una superficie vertical y",
+    "text": "4.7 Escalas fijas: peldaños consecutivos que están permanentemente sujetos a una superficie vertical y\nsirven para acceder ocasionalmente a tejados, pozos, silos, torres, chimeneas y otras zonas.",
+    "start_char": 7161,
+    "end_char": 7356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.8",
+    "label": "4.8 Escalas móviles; escaleras portátiles; escaleras manuales: aparato portátil que consiste en dos",
+    "text": "4.8 Escalas móviles; escaleras portátiles; escaleras manuales: aparato portátil que consiste en dos\npiezas paralelas o ligeramente convergentes unidas a intervalos por travesaños y que sirve para subir o bajar\na una persona de un nivel a otro.",
+    "start_char": 7361,
+    "end_char": 7604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.9",
+    "label": "4.9 Evento: fenómeno natural que puede afectar la seguridad estructural del centro de trabajo y/o aquellos",
+    "text": "4.9 Evento: fenómeno natural que puede afectar la seguridad estructural del centro de trabajo y/o aquellos\nactos incidentales que pueden afectar la seguridad estructural de las instalaciones.",
+    "start_char": 7608,
+    "end_char": 7799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.10",
+    "label": "4.10 Funcionamiento: se refiere al uso de edificios, locales, instalaciones y áreas en los centros de",
+    "text": "4.10 Funcionamiento: se refiere al uso de edificios, locales, instalaciones y áreas en los centros de\ntrabajo.\n\f      (Primera Sección)                         DIARIO OFICIAL                  Lunes 24 de noviembre de 2008",
+    "start_char": 7804,
+    "end_char": 8025
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.11",
+    "label": "4.11 Material impermeable: aquel que tiene la propiedad de impedir o dificultar la penetración de agua u",
+    "text": "4.11 Material impermeable: aquel que tiene la propiedad de impedir o dificultar la penetración de agua u\notro líquido a través de él.",
+    "start_char": 8031,
+    "end_char": 8164
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.12",
+    "label": "4.12 Nuevas construcciones: edificios, locales, instalaciones y áreas en los centros de trabajo que se",
+    "text": "4.12 Nuevas construcciones: edificios, locales, instalaciones y áreas en los centros de trabajo que se\nencuentren en su etapa de diseño al momento de entrar en vigor la presente Norma.",
+    "start_char": 8168,
+    "end_char": 8352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.13",
+    "label": "4.13 Puente; pasadizo: pasillo elevado por el que transitan trabajadores.",
+    "text": "4.13 Puente; pasadizo: pasillo elevado por el que transitan trabajadores.",
+    "start_char": 8356,
+    "end_char": 8429
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.14",
+    "label": "4.14 Registro: bitácora o cualquier medio magnético en el que se asienten los resultados de las",
+    "text": "4.14 Registro: bitácora o cualquier medio magnético en el que se asienten los resultados de las\nverificaciones realizadas al centro de trabajo.",
+    "start_char": 8434,
+    "end_char": 8577
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:4-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "4.15",
+    "label": "4.15 Yaque: base de apoyo empleada en tráileres o autotanques para evitar que el vehículo se mueva",
+    "text": "4.15 Yaque: base de apoyo empleada en tráileres o autotanques para evitar que el vehículo se mueva\ncuando esté siendo cargado o descargado.",
+    "start_char": 8581,
+    "end_char": 8720
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 8724,
+    "end_char": 8750
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "5.1",
+    "label": "5.1 Conservar en condiciones seguras las instalaciones de los centros de trabajo, para que no representen",
+    "text": "5.1 Conservar en condiciones seguras las instalaciones de los centros de trabajo, para que no representen\nriesgos.",
+    "start_char": 8755,
+    "end_char": 8869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "5.2",
+    "label": "5.2 Realizar verificaciones oculares cada doce meses al centro de trabajo, pudiendo hacerse por áreas,",
+    "text": "5.2 Realizar verificaciones oculares cada doce meses al centro de trabajo, pudiendo hacerse por áreas,\npara identificar condiciones inseguras y reparar los daños encontrados. Los resultados de las verificaciones\ndeben registrarse a través de bitácoras, medios magnéticos o en las actas de verificación de la comisión de\nseguridad e higiene, mismos que deben conservarse por un año y contener al menos las fechas en que se\nrealizaron las verificaciones, el nombre del área del centro de trabajo que fue revisada y, en su caso, el tipo de\ncondición insegura encontrada, así como el tipo de reparación realizada.",
+    "start_char": 8874,
+    "end_char": 9483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "5.3",
+    "label": "5.3 Efectuar verificaciones oculares posteriores a la ocurrencia de un evento que pudiera generarle daños",
+    "text": "5.3 Efectuar verificaciones oculares posteriores a la ocurrencia de un evento que pudiera generarle daños\nal centro de trabajo y, en su caso, realizar las adecuaciones, modificaciones o reparaciones que garanticen la\nseguridad de sus ocupantes. De tales acciones registrar los resultados en bitácoras o medios magnéticos. Los\nregistros deben conservarse por un año y contener al menos la fecha de la verificación, el tipo de evento, los\nresultados de las verificaciones y las acciones correctivas realizadas.",
+    "start_char": 9488,
+    "end_char": 9996
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "5.4",
+    "label": "5.4 Contar con sanitarios (retretes, mingitorios, lavabos, entre otros) limpios y seguros para el servicio de",
+    "text": "5.4 Contar con sanitarios (retretes, mingitorios, lavabos, entre otros) limpios y seguros para el servicio de\nlos trabajadores y, en su caso, con lugares reservados para el consumo de alimentos.",
+    "start_char": 10001,
+    "end_char": 10195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "5.5",
+    "label": "5.5 Contar, en su caso, con regaderas y vestidores, de acuerdo con la actividad que se desarrolle en el",
+    "text": "5.5 Contar, en su caso, con regaderas y vestidores, de acuerdo con la actividad que se desarrolle en el\ncentro de trabajo o cuando se requiera la descontaminación del trabajador. Es responsabilidad del patrón\nestablecer el tipo, características y cantidad de los servicios.",
+    "start_char": 10199,
+    "end_char": 10472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "5.6",
+    "label": "5.6 Proporcionar información a todos los trabajadores para el uso y conservación de las áreas donde",
+    "text": "5.6 Proporcionar información a todos los trabajadores para el uso y conservación de las áreas donde\nrealicen sus actividades en el centro de trabajo, incluidas las destinadas para el servicio de los trabajadores.",
+    "start_char": 10477,
+    "end_char": 10689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "6",
+    "label": "6. Obligaciones de los trabajadores",
+    "text": "6. Obligaciones de los trabajadores",
+    "start_char": 10693,
+    "end_char": 10728
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "6.1",
+    "label": "6.1 Informar al patrón las condiciones inseguras que detecten en el centro de trabajo.",
+    "text": "6.1 Informar al patrón las condiciones inseguras que detecten en el centro de trabajo.",
+    "start_char": 10732,
+    "end_char": 10818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "6.2",
+    "label": "6.2 Recibir la información que proporcione el patrón para el uso y conservación de las áreas donde",
+    "text": "6.2 Recibir la información que proporcione el patrón para el uso y conservación de las áreas donde\nrealicen sus actividades en el centro de trabajo, incluidas las destinadas al servicio de los trabajadores.",
+    "start_char": 10823,
+    "end_char": 11029
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "6.3",
+    "label": "6.3 Participar en la conservación del centro de trabajo y dar a las áreas el uso para el que fueron",
+    "text": "6.3 Participar en la conservación del centro de trabajo y dar a las áreas el uso para el que fueron\ndestinadas, a menos que el patrón autorice su empleo para otros usos.",
+    "start_char": 11033,
+    "end_char": 11202
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7",
+    "label": "7. Requisitos de seguridad en el centro de trabajo",
+    "text": "7. Requisitos de seguridad en el centro de trabajo",
+    "start_char": 11206,
+    "end_char": 11256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.1",
+    "label": "7.1 Disposiciones generales.",
+    "text": "7.1 Disposiciones generales.",
+    "start_char": 11260,
+    "end_char": 11288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.1.1",
+    "label": "7.1.1 Contar con orden y limpieza permanentes en las áreas de trabajo, así como en pasillos exteriores a",
+    "text": "7.1.1 Contar con orden y limpieza permanentes en las áreas de trabajo, así como en pasillos exteriores a\nlos edificios, estacionamientos y otras áreas comunes del centro de trabajo, de acuerdo al tipo de actividades\nque se desarrollen.",
+    "start_char": 11293,
+    "end_char": 11528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.1.2",
+    "label": "7.1.2 Las áreas de producción, de mantenimiento, de circulación de personas y vehículos, las zonas de",
+    "text": "7.1.2 Las áreas de producción, de mantenimiento, de circulación de personas y vehículos, las zonas de\nriesgo, de almacenamiento y de servicios para los trabajadores del centro de trabajo, se deben delimitar de tal\nmanera que se disponga de espacios seguros para la realización de las actividades de los trabajadores que\nen ellas se encuentran. Tal delimitación puede realizarse con barandales; con cualquier elemento estructural;\ncon franjas amarillas de al menos 5 cm de ancho, pintadas o adheridas al piso, o por una distancia de\nseparación física.",
+    "start_char": 11533,
+    "end_char": 12083
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.1.3",
+    "label": "7.1.3 Cuando laboren trabajadores discapacitados en los centros de trabajo, las puertas, vías de acceso y",
+    "text": "7.1.3 Cuando laboren trabajadores discapacitados en los centros de trabajo, las puertas, vías de acceso y\nde circulación, escaleras, lugares de servicio y puestos de trabajo, deben facilitar sus actividades y\ndesplazamientos.\n\f   Lunes 24 de noviembre de 2008                DIARIO OFICIAL                               (Primera Sección)",
+    "start_char": 12087,
+    "end_char": 12424
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.1.4",
+    "label": "7.1.4 Las escaleras, rampas, escaleras manuales, puentes y plataformas elevadas deben, además de",
+    "text": "7.1.4 Las escaleras, rampas, escaleras manuales, puentes y plataformas elevadas deben, además de\ncumplir con lo que se indica en la presente Norma, mantenerse en condiciones tales que eviten que el\ntrabajador resbale al usarlas.",
+    "start_char": 12430,
+    "end_char": 12658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-1-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.1.5",
+    "label": "7.1.5 Los elementos estructurales tales como pisos, puentes o plataformas, entre otros, destinados a",
+    "text": "7.1.5 Los elementos estructurales tales como pisos, puentes o plataformas, entre otros, destinados a\nsoportar cargas fijas o móviles, deben ser utilizados para los fines a que fueron destinados. En caso de\nrequerir un cambio de uso, se debe evaluar si los elementos estructurales tienen la capacidad de soportar las\nnuevas cargas y, en su caso, hacer las adecuaciones necesarias para evitar riesgos de trabajo.",
+    "start_char": 12662,
+    "end_char": 13072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-1-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.1.6",
+    "label": "7.1.6 Los edificios y elementos estructurales deben soportar las cargas fijas o móviles de acuerdo a la",
+    "text": "7.1.6 Los edificios y elementos estructurales deben soportar las cargas fijas o móviles de acuerdo a la\nnaturaleza de las actividades que en ellos se desarrollen, de tal manera que su resistencia evite posibles fallas\nestructurales y riegos de impacto, para lo cual deben considerarse las condiciones normales de operación y\nlos eventos tanto naturales como incidentales que puedan afectarlos.",
+    "start_char": 13077,
+    "end_char": 13470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.2",
+    "label": "7.2 Techos.",
+    "text": "7.2 Techos.\n   Los techos del centro de trabajo deben:\n   a)    Ser de materiales que protejan de las condiciones ambientales externas;\n   b)    Utilizarse para soportar cargas fijas o móviles, sólo si fueron diseñados o reconstruidos para estos\n         fines;\n   c)    Permitir la salida de líquidos, y\n   d)    Soportar las condiciones normales de operación.",
+    "start_char": 13474,
+    "end_char": 13835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.3",
+    "label": "7.3 Paredes.",
+    "text": "7.3 Paredes.\n   Las paredes en los centros de trabajo deben:\n   a)    Mantenerse con colores tales que eviten la reflexión de la luz, cuando se trate de las caras interiores,\n         para no afectar la visión del trabajador;\n   b)    Utilizarse para soportar cargas sólo si fueron destinadas para estos fines, y\n   c)    Contar con medidas de seguridad, tales como protección y señalización de las zonas de riesgo,\n         sobre todo cuando en ellas existan aberturas de más de dos metros de altura hacia el otro lado de la\n         pared, por las que haya peligro de caídas para el trabajador.",
+    "start_char": 13839,
+    "end_char": 14435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.4",
+    "label": "7.4 Pisos.",
+    "text": "7.4 Pisos.\n   Los pisos del centro de trabajo deben:\n   a)    Mantenerse en condiciones tales que de acuerdo al tipo de actividades que se desarrollen, no\n         generen riesgos de trabajo;\n   b)    Mantenerse de tal manera que los posibles estancamientos de líquidos no generen riesgos de caídas\n         o resbalones;\n   c)    Ser llanos en las zonas para el tránsito de las personas;\n   d)    Contar con protecciones tales como cercas provisionales o barandales desmontables, de una altura\n         mínima de 90 cm u otro medio que proporcione protección, cuando tengan aberturas temporales de\n         escotillas, conductos, pozos y trampas, durante el tiempo que se requiera la abertura, y\n   e)    Contar con señalización de acuerdo con la NOM-026-STPS-1998, donde existan riesgos por cambio\n         de nivel, o por las características de la actividad o proceso que en él se desarrolle.",
+    "start_char": 14439,
+    "end_char": 15334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.5",
+    "label": "7.5 Escaleras.",
+    "text": "7.5 Escaleras.\n   Las escaleras de los centros de trabajo deben cumplir con lo siguiente:\n   a)    Tener un ancho constante de al menos 56 cm en cada tramo recto y, en ese caso, se debe señalizar\n         que se prohíbe la circulación simultánea en contraflujo. Las señales deben cumplir con lo establecido\n         en la NOM-026-STPS-1998;\n   b)    Cuando tengan descansos, éstos deberán tener al menos 56 cm para las de tramos rectos utilizados\n         en un solo sentido de flujo a la vez, y de al menos 90 cm para las de ancho superior;\n   c)    Todas las huellas de las escaleras rectas deben tener el mismo ancho y todos los peraltes la misma\n         altura, con una variación máxima de ± 0.5 cm;\n   d)    En las escaleras con cambios de dirección o en las denominadas de caracol, el peralte debe ser\n         siempre de la misma altura;\n\f     (Primera Sección)                      DIARIO OFICIAL                 Lunes 24 de noviembre de 2008\n\ne)     Las huellas de los escalones en sus tramos rectos deben tener una longitud mínima de 25 cm (área\n       de contacto) y el peralte una altura no mayor a 23 cm (ver figura 1). Las orillas de los escalones\n       deben ser redondeadas (sección roma o nariz roma), y\nf)     La distancia libre medida desde la huella de cualquier escalón, contemplando los niveles inferior y\n       superior de la escalera y el techo, o cualquier superficie superior, debe ser mayor a 200 cm (ver\n       figura 1), y\n\n\n\n\n                                                Figura 1\ng) Las huellas de los escalones deben contar con materiales antiderrapantes.",
+    "start_char": 15338,
+    "end_char": 16930
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.5.1",
+    "label": "7.5.1 Escaleras de emergencia exteriores.",
+    "text": "7.5.1 Escaleras de emergencia exteriores.\nLas escaleras de emergencia exteriores deben contar con las siguientes condiciones:\na)     Ser de diseño recto en sus secciones o tramos;\nb)     En todo momento, ser operadas sin que existan medios que obstruyan u obstaculicen su\n       accionamiento;\nc)     Por cada piso, tener un acceso directo a ellas a través de una puerta de salida que se encuentre al\n       mismo nivel;\nd)     Ser diseñadas de tal forma que drenen con facilidad los líquidos que en ellas pudieran caer y eviten\n       su acumulación;\ne)     Que los pisos y huellas sean resistentes y de material antiderrapante y, en su caso, contar con\n       descansos;\nf)     Estar fijas en forma permanente en todos los pisos excepto en el inferior, en el que se pueden\n       instalar plegables. En este último caso, deben ser de diseño tal que al accionarlas bajen hasta el\n       suelo;\ng)     Estar señalizadas en sus accesos conforme a lo establecido en la NOM-026-STPS-1998, y\nh)     Contar con puertas de acceso, a las que se les dé mantenimiento periódico para evitar su deterioro\n       por el transcurso del tiempo y para garantizar su operación en cualquier momento. Se deben registrar\n       los mantenimientos realizados a las puertas de acceso al menos una vez cada seis meses. Los\n       registros deben contener al menos las fechas de realización del mantenimiento, el tipo de\n       mantenimiento realizado, y los nombres y firmas de las personas involucradas en tal actividad.\n\f   Lunes 24 de noviembre de 2008                DIARIO OFICIAL                                   (Primera Sección)\n\n   i)   Sus puertas de acceso deben abrir en la dirección normal de salida de las personas;\n   j)   Sus cerrojos deben ser de naturaleza tal que abran fácilmente desde adentro;\n   k)   Contar, en cada puerta, con su respectivo cierre automático y que permita el libre flujo de las\n        personas durante una emergencia;",
+    "start_char": 16931,
+    "end_char": 18869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.5.2",
+    "label": "7.5.2 Escaleras con barandales con espacios abiertos.",
+    "text": "7.5.2 Escaleras con barandales con espacios abiertos.\n  Las escaleras con barandales que cuenten con espacios abiertos por debajo de ellos, deben tener al\nmenos una baranda dispuesta paralelamente a la inclinación de la escalera, y cumplir con lo siguiente:\n   a)   El pasamanos debe estar a una altura de 90 cm ± 10 cm;\n   b)   Las barandas deben estar colocadas a una distancia intermedia entre el barandal y la paralela\n        formada con la altura media del peralte de los escalones. Los balaustres deben estar colocados, en\n        este caso, cada cuatro escalones;\n   c)   En caso de no colocar baranda, colocar balaustres en cada escalón;\n   d)   Los pasamanos deben ser continuos, lisos y pulidos;\n   e)   En caso de contar con pasamanos sujetos a la pared, éstos deben estar fijados por medio de anclas\n        aseguradas en la parte inferior;\n   f)   Las anclas referidas en el inciso anterior deben estar empotradas en la pared y tener la longitud\n        suficiente para que exista un espacio libre de por lo menos 4 cm entre los pasamanos y la pared o\n        cualquier saliente, y no se interrumpa la continuidad de la cara superior y el costado del pasamanos;\n   g)   Cuando las escaleras tengan un ancho de 3 m o más, deben contar con un barandal intermedio y\n        uno en los extremos;\n   h)   Cuando las escaleras estén cubiertas con muros en sus dos costados, deben contar al menos con un\n        pasamanos, y\n   i)   Las edificaciones deben tener siempre escaleras o rampas peatonales que comuniquen entre nivel y\n        nivel todos sus niveles, aun cuando existan elevadores o escaleras eléctricas.",
+    "start_char": 18873,
+    "end_char": 20496
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.6",
+    "label": "7.6 Rampas.",
+    "text": "7.6 Rampas.",
+    "start_char": 20500,
+    "end_char": 20511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.6.1",
+    "label": "7.6.1 Las rampas que se utilicen en el centro de trabajo deben cumplir con las siguientes condiciones:",
+    "text": "7.6.1 Las rampas que se utilicen en el centro de trabajo deben cumplir con las siguientes condiciones:\n   a)   Las cargas que por ellas circulen no deben sobrepasar la resistencia para la que fueron destinadas;\n   b)   No deben tener deformaciones que generen riesgos a los transeúntes o vehículos que por ellas\n        circulen, sin importar si son fijas o móviles. En las rampas móviles se deberá indicar la capacidad de\n        carga máxima;\n   c)   Las que se utilicen para el tránsito de trabajadores, deben tener una pendiente máxima de 10%; si\n        son para mantenimiento deben tener una pendiente máxima de 17%, de acuerdo con la siguiente\n        ecuación:\n                                                P = (H/L) x 100\n        donde:\n        P = pendiente, en tanto por ciento.\n        H = altura desde el nivel inferior hasta el superior, medida sobre la vertical, en cm.\n        L = longitud de la proyección horizontal del plano de la rampa, en cm.\n   d)   Deben tener el ancho suficiente para ascender y descender sin que se presenten obstrucciones en el\n        tránsito de los trabajadores;\n   e)   Cuando estén destinadas al tránsito de vehículos, deben ser igual al ancho del vehículo más grande\n        que circule por la rampa más 60 cm;\n   f)   Cuando la altura entre el nivel superior e inferior exceda de 150 cm, deben contar con barandal de\n        protección lateral;\n   g)   Cuando se encuentren cubiertas por muros en sus dos costados, deben tener al menos un\n        pasamanos. No aplica esta disposición cuando la rampa se destine sólo a tránsito de vehículos;\n\f     (Primera Sección)                       DIARIO OFICIAL                  Lunes 24 de noviembre de 2008\n\nh)     La distancia libre medida desde cualquier punto de la rampa al techo, o cualquier otra superficie\n       superior sobre la vertical del punto de medición, debe ser mayor a 200 cm (ver figura 2). Cuando\n       estén destinados al tránsito de vehículos, debe ser igual a la altura del vehículo más alto que circule\n       por la rampa más 30 cm, como mínimo. Se debe contar con señalamientos que indiquen estas\n       alturas, y\ni)     En las partes abiertas deben contar con zoclos de al menos 10 cm o cualquier otro elemento físico\n       que cumpla con la función de protección.",
+    "start_char": 20515,
+    "end_char": 22804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.7",
+    "label": "7.7 Escalas",
+    "text": "7.7 Escalas",
+    "start_char": 22809,
+    "end_char": 22820
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.7.1",
+    "label": "7.7.1 Escalas fijas",
+    "text": "7.7.1 Escalas fijas\na)     Deben ser de materiales cuya resistencia mecánica sea capaz de soportar las cargas de las\n       actividades para las que son destinadas y estar protegidas, en su caso, de las condiciones\n       ambientales;\nb)     Los anclajes deben ser suficientes para soportar el peso de los trabajadores que las utilicen;\nc)     Cuando se requiera, deben existir indicaciones sobre restricciones de su uso;\nd)     Deben tener un ancho mínimo de 40 cm, y cuando su altura sea mayor a 250 cm el ancho mínimo\n       será de 50 cm;\ne)     La distancia entre peldaños no debe ser mayor de 38 cm;\nf)     La separación entre el frente de los peldaños y los objetos más próximos al lado del ascenso, debe\n       ser por lo menos de 75 cm;\ng)     En el lado opuesto al de ascenso, la distancia entre los peldaños y objetos sobresalientes debe ser\n       por lo menos de 20 cm;\nh)     Deben tener espacios libres de por lo menos 18 cm, medidos en sentido transversal y hacia afuera\n       en ambos lados de la escala;\ni)     Al medir la inclinación de la escala desde la parte opuesta a la de ascenso, con respecto al piso, ésta\n       debe estar comprendida entre 75 y 90 grados;\nj)     Deben contar con protección circundante de un diámetro de dimensiones tales que permita el\n       ascenso y descenso de los trabajadores de forma segura a partir de 200 cm ± 20 cm del piso y, al\n       menos, hasta 90 cm por encima del último nivel o peldaño al que se asciende;\nk)     Cuando la altura sea mayor a 6 m, debe permitir el uso de dispositivos de seguridad, tales como\n       línea de vida;\nl)     Deben tener descansos por lo menos cada 10 m de altura y éstos deben contar con barandal de\n       protección lateral, con una altura mínima de 90 cm, intercalando las secciones, a excepción de las\n       escalas de las chimeneas;\nm)     En caso de contar con estructuras laterales para el soporte de los peldaños, éstas deben prolongarse\n       por encima del último nivel de acceso de la escala por lo menos 90 cm, ser continuas y mantenerse\n       en tal estado que no causen lesiones en las manos de los trabajadores, y permitir el ascenso y\n       descenso seguro, y\n\f   Lunes 24 de noviembre de 2008                DIARIO OFICIAL                               (Primera Sección)\n\n   n)    Las escalas fijas, cuyos peldaños son alcayatas incrustadas o soldadas de forma alternada a ambos\n         costados en los postes que soportan cables de telefonía o de energía eléctrica, deben cumplir con\n         las siguientes condiciones:\n         i.    Los peldaños deben ser de materiales con resistencia a la corrosión y resistencia mecánica\n               suficiente para soportar el peso del trabajador;\n         ii.   Las distancias entre alcayatas de un mismo costado no deben ser superiores a 90 cm, de tal\n               manera que entre alcayatas alternadas las distancias sean iguales o menores a 45 cm;\n         iii. La alcayata debe sobresalir al menos 20 cm del lugar empotrado o soldado, para soportar al\n              trabajador, y\n         iv. La alcayata debe ser lisa para evitar daños en las manos de los trabajadores.",
+    "start_char": 22821,
+    "end_char": 25960
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.7.2",
+    "label": "7.7.2 Escalas móviles (escaleras portátiles).",
+    "text": "7.7.2 Escalas móviles (escaleras portátiles).",
+    "start_char": 25964,
+    "end_char": 26009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-7-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.7.2.1",
+    "label": "7.7.2.1 Las escalas móviles deben cumplir con los requerimientos de dimensiones establecidos para",
+    "text": "7.7.2.1 Las escalas móviles deben cumplir con los requerimientos de dimensiones establecidos para\nescalas fijas, en lo que se refiere al ancho, espacios libres y distancias entre peldaños.",
+    "start_char": 26013,
+    "end_char": 26201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-7-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.7.2.2",
+    "label": "7.7.2.2 Las correderas y guías sobre las que se desplacen las escalas móviles que cuenten con ellas, así",
+    "text": "7.7.2.2 Las correderas y guías sobre las que se desplacen las escalas móviles que cuenten con ellas, así\ncomo los materiales utilizados en su construcción, deben ser capaces de soportar las cargas máximas a las\nque serán sometidos y ser compatibles con la operación a la que se destinen.",
+    "start_char": 26205,
+    "end_char": 26492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-7-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.7.2.3",
+    "label": "7.7.2.3 Para las escalas portátiles, debe preverse en su uso que la inclinación cumpla con la siguiente",
+    "text": "7.7.2.3 Para las escalas portátiles, debe preverse en su uso que la inclinación cumpla con la siguiente\ncondición: que la separación del punto de apoyo de la escalera en su base con respecto a la vertical,\ncorresponda a una distancia mínima equivalente de un peldaño por cada cuatro peldaños de altura.",
+    "start_char": 26497,
+    "end_char": 26799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-7-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.7.2.4",
+    "label": "7.7.2.4 Sólo se debe permitir el uso de escalas móviles cuando presenten:",
+    "text": "7.7.2.4 Sólo se debe permitir el uso de escalas móviles cuando presenten:\n   a) Condiciones de seguridad en su estructura;\n   b) Peldaños completos y fijos;\n   c) Materiales o características antiderrapantes en los apoyos y peldaños (travesaños), y\n   d) Peldaños libres de grasa, aceite u otro producto que los haga resbalosos.",
+    "start_char": 26803,
+    "end_char": 27131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-7-2-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.7.2.5",
+    "label": "7.7.2.5 En la realización de trabajos eléctricos, se permite el uso de escalas móviles de material metálico,",
+    "text": "7.7.2.5 En la realización de trabajos eléctricos, se permite el uso de escalas móviles de material metálico,\nsi están aisladas en sus apoyos y peldaños (travesaños).",
+    "start_char": 27136,
+    "end_char": 27301
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-7-2-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.7.2.6",
+    "label": "7.7.2.6 Las escalas móviles deben contar con elementos que eviten el deslizamiento de su punto de apoyo",
+    "text": "7.7.2.6 Las escalas móviles deben contar con elementos que eviten el deslizamiento de su punto de apoyo\no, en su caso, anclarse o sujetarse.",
+    "start_char": 27306,
+    "end_char": 27446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.8",
+    "label": "7.8 Puentes y plataformas elevadas.",
+    "text": "7.8 Puentes y plataformas elevadas.",
+    "start_char": 27450,
+    "end_char": 27485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.8.1",
+    "label": "7.8.1 Cuando estén abiertos en sus costados, deben contar con barandales de al menos 90 cm ± 10 cm",
+    "text": "7.8.1 Cuando estén abiertos en sus costados, deben contar con barandales de al menos 90 cm ± 10 cm\nde altura.",
+    "start_char": 27489,
+    "end_char": 27598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:7-8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "7.8.2",
+    "label": "7.8.2 La distancia libre medida sobre la superficie del piso de los pasadizos o plataformas elevadas por los",
+    "text": "7.8.2 La distancia libre medida sobre la superficie del piso de los pasadizos o plataformas elevadas por los\nque circulan trabajadores y el techo, o cualquier superficie superior, no debe ser menor de 200 cm.",
+    "start_char": 27602,
+    "end_char": 27810
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "8",
+    "label": "8. Condiciones de seguridad en el funcionamiento de los sistemas de ventilación artificial",
+    "text": "8. Condiciones de seguridad en el funcionamiento de los sistemas de ventilación artificial\n   Cuando se utilicen sistemas de ventilación artificial, éstos deben cumplir con lo siguiente:",
+    "start_char": 27814,
+    "end_char": 28000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "8.1",
+    "label": "8.1 El aire que se extrae no debe contaminar otras áreas en donde se encuentren laborando otros",
+    "text": "8.1 El aire que se extrae no debe contaminar otras áreas en donde se encuentren laborando otros\ntrabajadores.",
+    "start_char": 28005,
+    "end_char": 28114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "8.2",
+    "label": "8.2 El sistema debe iniciar su operación antes de que ingresen los trabajadores al área correspondiente",
+    "text": "8.2 El sistema debe iniciar su operación antes de que ingresen los trabajadores al área correspondiente\npara permitir la purga de los contaminantes.",
+    "start_char": 28118,
+    "end_char": 28266
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "8.3",
+    "label": "8.3 Contar con un programa anual de mantenimiento preventivo o correctivo, a fin de que el sistema esté",
+    "text": "8.3 Contar con un programa anual de mantenimiento preventivo o correctivo, a fin de que el sistema esté\nen condiciones de uso. El contenido del programa y los resultados de su ejecución deben conservarse por un\naño y estar registrados en bitácoras o cualquier otro medio, incluyendo los magnéticos.",
+    "start_char": 28270,
+    "end_char": 28568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "9",
+    "label": "9. Requisitos de seguridad para el tránsito de vehículos",
+    "text": "9. Requisitos de seguridad para el tránsito de vehículos",
+    "start_char": 28572,
+    "end_char": 28628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "9.1",
+    "label": "9.1 El ancho de las puertas donde circulen vehículos deberá ser superior al ancho del vehículo más",
+    "text": "9.1 El ancho de las puertas donde circulen vehículos deberá ser superior al ancho del vehículo más\ngrande que circule por ellas. Cuando éstas se destinen simultáneamente al tránsito de vehículos y\ntrabajadores, deben contar con un pasillo que permita el tránsito seguro del trabajador, delimitado o señalado\nmediante franjas amarillas en el piso o en guarniciones.",
+    "start_char": 28633,
+    "end_char": 28997
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "9.2",
+    "label": "9.2 En caso de no contar con el espacio a que se refiere el inciso anterior, se debe colocar al menos un",
+    "text": "9.2 En caso de no contar con el espacio a que se refiere el inciso anterior, se debe colocar al menos un\nseñalamiento de prohibición para el tránsito simultáneo.\n\f        (Primera Sección)                        DIARIO OFICIAL                  Lunes 24 de noviembre de 2008",
+    "start_char": 29001,
+    "end_char": 29274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "9.3",
+    "label": "9.3 Las áreas internas de tránsito de vehículos deben estar delimitadas o señalizadas. Las externas deben",
+    "text": "9.3 Las áreas internas de tránsito de vehículos deben estar delimitadas o señalizadas. Las externas deben\nestar identificadas o señalizadas.",
+    "start_char": 29279,
+    "end_char": 29419
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "9.4",
+    "label": "9.4 Las áreas de carga y descarga deben estar delimitadas o señalizadas.",
+    "text": "9.4 Las áreas de carga y descarga deben estar delimitadas o señalizadas.",
+    "start_char": 29423,
+    "end_char": 29495
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:9-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "9.5",
+    "label": "9.5 Las vías de ferrocarril que se encuentren dentro de los centros de trabajo, deben contar con",
+    "text": "9.5 Las vías de ferrocarril que se encuentren dentro de los centros de trabajo, deben contar con\nseñalizaciones. Para los cruces de las vías debe existir algún control del riesgo a través de señalamientos,\nbarreras, guardabarreras o sistemas de aviso audibles o visibles.",
+    "start_char": 29499,
+    "end_char": 29770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:9-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "9.6",
+    "label": "9.6 El nivel de piso en ambos lados de los cruceros de las vías de ferrocarril, debe permitir el cruce libre de",
+    "text": "9.6 El nivel de piso en ambos lados de los cruceros de las vías de ferrocarril, debe permitir el cruce libre de\nlos vehículos para evitar que queden detenidos sobre la misma.",
+    "start_char": 29775,
+    "end_char": 29949
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:9-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "9.7",
+    "label": "9.7 En su caso, los cambiavías deben contar con la señalización correspondiente para ubicar su posición;",
+    "text": "9.7 En su caso, los cambiavías deben contar con la señalización correspondiente para ubicar su posición;\nasimismo, los árboles de cambio deben contar con los dispositivos de seguridad para que sólo personal\nautorizado pueda operarlo.",
+    "start_char": 29953,
+    "end_char": 30186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:9-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "9.8",
+    "label": "9.8 En las operaciones de carga y descarga de vehículos se deben adoptar las medidas siguientes:",
+    "text": "9.8 En las operaciones de carga y descarga de vehículos se deben adoptar las medidas siguientes:\n   a)     Frenar y bloquear las ruedas de los vehículos, cuando éstos se encuentren detenidos, y\n   b)     En el caso de muelles para carga y descarga de tráileres o autotanques, bloquear por lo menos una\n          de las llantas en ambos lados del vehículo y colocar un yaque para inmovilizarlo cuando esté siendo\n          cargado o descargado.",
+    "start_char": 30190,
+    "end_char": 30633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:9-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "9.9",
+    "label": "9.9 La velocidad máxima de circulación de los vehículos debe estar señalizada en las zonas de carga y",
+    "text": "9.9 La velocidad máxima de circulación de los vehículos debe estar señalizada en las zonas de carga y\ndescarga, en patios de maniobras, en establecimientos y en otras áreas de acuerdo al tipo de actividades que\nen ellas se desarrollen para que sea segura la circulación de trabajadores, personal externo y vehículos. Es\nresponsabilidad del patrón fijar los límites de velocidad de los vehículos para que su circulación no sea un\nfactor de riesgo en el centro de trabajo.",
+    "start_char": 30638,
+    "end_char": 31108
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "10",
+    "label": "10. Unidades de verificación",
+    "text": "10. Unidades de verificación",
+    "start_char": 31112,
+    "end_char": 31140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "10.1",
+    "label": "10.1 El patrón tendrá la opción de contratar una unidad de verificación acreditada y aprobada, en los",
+    "text": "10.1 El patrón tendrá la opción de contratar una unidad de verificación acreditada y aprobada, en los\ntérminos de la Ley Federal sobre Metrología y Normalización y su Reglamento, para verificar el grado de\ncumplimiento con la presente Norma.",
+    "start_char": 31145,
+    "end_char": 31386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "10.2",
+    "label": "10.2 Las unidades de verificación contratadas a petición de parte, deben verificar el grado de cumplimiento",
+    "text": "10.2 Las unidades de verificación contratadas a petición de parte, deben verificar el grado de cumplimiento\nde acuerdo con lo establecido en el procedimiento de evaluación de la conformidad.",
+    "start_char": 31390,
+    "end_char": 31580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "10.3",
+    "label": "10.3 Las unidades de verificación deben entregar al patrón el dictamen de verificación favorable cuando se",
+    "text": "10.3 Las unidades de verificación deben entregar al patrón el dictamen de verificación favorable cuando se\nhayan cubierto los requerimientos de la presente Norma Oficial Mexicana.",
+    "start_char": 31584,
+    "end_char": 31763
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "10.4",
+    "label": "10.4 La vigencia del dictamen de verificación, cuando éste sea favorable, será de dos años, siempre y",
+    "text": "10.4 La vigencia del dictamen de verificación, cuando éste sea favorable, será de dos años, siempre y\ncuando no sean modificadas las condiciones que sirvieron para su emisión.",
+    "start_char": 31767,
+    "end_char": 31942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "11",
+    "label": "11. Procedimiento para la evaluación de la conformidad",
+    "text": "11. Procedimiento para la evaluación de la conformidad",
+    "start_char": 31946,
+    "end_char": 32000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "11.1",
+    "label": "11.1 Este procedimiento de evaluación de la conformidad aplica tanto para las visitas de inspección",
+    "text": "11.1 Este procedimiento de evaluación de la conformidad aplica tanto para las visitas de inspección\ndesarrolladas por la autoridad laboral, como para las visitas de verificación que realicen las unidades de\nverificación.",
+    "start_char": 32005,
+    "end_char": 32225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:11-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "11.2",
+    "label": "11.2 La evaluación de la conformidad de la presente Norma podrá ser realizada a petición de parte",
+    "text": "11.2 La evaluación de la conformidad de la presente Norma podrá ser realizada a petición de parte\ninteresada, por las unidades de verificación acreditadas por la entidad de acreditación y aprobadas por la\nSecretaría del Trabajo y Previsión Social.",
+    "start_char": 32230,
+    "end_char": 32477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:11-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "11.3",
+    "label": "11.3 Para obtener el directorio vigente de las unidades de verificación que están aprobadas ante la",
+    "text": "11.3 Para obtener el directorio vigente de las unidades de verificación que están aprobadas ante la\ndependencia y pueden extender el dictamen de conformidad con esta Norma Oficial Mexicana, podrán\ningresar a la página de la Secretaría del Trabajo y Previsión Social, vía Internet en la dirección:\nwww.stps.gob.mx.",
+    "start_char": 32482,
+    "end_char": 32795
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:11-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "11.4",
+    "label": "11.4 El dictamen de verificación vigente, debe estar a disposición de la autoridad del trabajo cuando ésta",
+    "text": "11.4 El dictamen de verificación vigente, debe estar a disposición de la autoridad del trabajo cuando ésta\nlo solicite.",
+    "start_char": 32800,
+    "end_char": 32919
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:11-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "11.5",
+    "label": "11.5 Los aspectos a verificar durante la evaluación de la conformidad que son aplicables mediante la",
+    "text": "11.5 Los aspectos a verificar durante la evaluación de la conformidad que son aplicables mediante la\nconstatación física o documental a los edificios, locales, instalaciones y áreas de los centros de trabajo, son:\n\f Lunes 24 de noviembre de 2008                DIARIO OFICIAL                                 (Primera Sección)\n\n              Comprobación\nDisposición    (documental,              Criterio de aceptación                         Observación\n                  física)\n\n5.2           Documental         El patrón cumple cuando:                   Es válido programar las revisiones\n                                                                            por áreas de tal manera que se\n                                 ¾    Exhibe los registros de las\n                                                                            vayan alternando las áreas\n                                      verificaciones oculares realizadas\n                                                                            revisadas, siempre y cuando para\n                                      al centro de trabajo, para\n                                                                            cada de ellas se cumpla con el\n                                      identificar condiciones inseguras y\n                                                                            periodo de doce meses entre\n                                      reparar daños encontrados;\n                                                                            revisión y revisión.\n                                 ¾    Los registros de las verificaciones\n                                                                            Los registros pueden presentarse\n                                      oculares realizadas al centro de\n                                                                            en      medios       impresos    o\n                                      trabajo,       para       identificar\n                                                                            magnéticos.\n                                      condiciones inseguras y reparar\n                                      daños encontrados, tienen una\n                                      periodicidad máxima de un año, y\n                                 ¾    Los registros de las verificaciones\n                                      oculares realizadas al centro de\n                                      trabajo,        para       identificar\n                                      condiciones inseguras y reparar\n                                      daños encontrados contienen, al\n                                      menos, las fechas en que\n                                      realizaron las verificaciones, el\n                                      nombre del área donde se realizó\n                                      la verificación y, en su caso, el tipo\n                                      de condición insegura detectada,\n                                      así como el tipo de reparación\n                                      realizada.\n\n5.3           Documental         El patrón cumple cuando:                      Los registros pueden presentarse\n                                                                               en medios impresos o magnéticos.\n                                 ¾    Exhibe el registro de la última\n                                      verificación ocular realizada al Ejemplos de eventos que pudieran\n                                      centro de trabajo, con motivo de la generar daños son: terremotos,\n                                      ocurrencia de algún evento que inundaciones, sismos, tornados o\n                                      pudiera generarle daños;            granizadas.\n                                 ¾    El registro de la última verificación\n                                      ocular realizada al centro de\n                                      trabajo, con motivo de la\n                                      ocurrencia de algún evento que\n                                      pudiera generarle daños, contiene\n                                      al menos: la fecha de la\n                                      verificación, el tipo de evento\n                                      suscitado,       los      resultados\n                                      obtenidos y, en su caso, las\n                                      acciones correctivas realizadas, y\n                                 ¾    El registro de la última verificación\n                                      ocular realizada al centro de\n                                      trabajo, con motivo de la\n                                      ocurrencia de algún evento que\n                                      pudiera generarle daños, se\n                                      conserva por un año.\n5.4           Física             El patrón cumple cuando:\n\f      (Primera Sección)                    DIARIO OFICIAL                     Lunes 24 de noviembre de 2008\n\n                               ¾   Derivado del recorrido por las\n                                   instalaciones del centro de trabajo,\n                                   se constate que los sanitarios,\n                                   retretes, mingitorios y lavabos se\n                                   encuentran en condiciones de\n                                   uso, limpios y seguros, y\n                               ¾   Derivado del recorrido por las\n                                   instalaciones del centro de trabajo,\n                                   se constate que cuando se cuente\n                                   con lugares reservados para el\n                                   consumo de alimentos, éstos se\n                                   encuentren en condiciones de\n                                   uso, limpios y seguros.\n5.5            Física         El patrón cumple cuando, de acuerdo No basta con que se cuente con\n                              con la actividad que se desarrolle en el las regaderas, éstas tendrán que\n                              centro de trabajo o cuando se requiera contar agua corriente para su\n                              la descontaminación del trabajador, se funcionamiento, por lo que se\n                              constate físicamente que existen podrá solicitar su accionamiento al\n                              regaderas y vestidores.                  momento de realizar la evaluación\n                                                                       de esta disposición.\n5.6            Física       o El patrón cumple cuando:                    Las evidencias presentadas por el\n               documental      ¾   Demuestre       con     evidencias patrón pueden ser, entre otras las\n                                   documentales que proporcionó a siguientes:\n                                   los trabajadores información para ¾ Listas de control de la\n                                   el uso y conservación de las áreas      información proporcionada;\n                                   donde realicen sus actividades, ¾ Pizarrones con información;\n                                   incluidas las destinadas para su\n                                                                       ¾ Carteles;\n                                   servicio, o\n                                                                       ¾ Folletos, o\n                               ¾   Se constate físicamente que\n                                   proporcionó a los trabajadores ¾ Trípticos.\n                                   información para el uso y\n                                   conservación de las áreas donde\n                                   realicen sus actividades, incluidas\n                                   las destinadas para su servicio.\n7.1.1          Física         El patrón cumple cuando derivado del\n                              recorrido por el centro de trabajo, se\n                              constate físicamente que las áreas\n                              donde los trabajadores realizan sus\n                              actividades laborales se encuentran\n                              ordenadas y limpias, de acuerdo al tipo\n                              de actividades que en ellas se\n                              desarrollen.\n7.1.2          Física         El patrón cumple cuando, derivado del La delimitación de las áreas de\n                              recorrido por el centro de trabajo, se producción,       mantenimiento,\n                              constate físicamente que las áreas del almacenamiento, circulación de\n                              centro de trabajo se encuentran trabajadores,          circulación  de\n                              delimitadas.                           vehículos,   puede     ser  por\n                                                                     cualquiera de las siguientes\n                                                                     formas:\n                                                                          ¾    Elementos        estructurales\n                                                                               (muros, mallas ciclónicas,\n                                                                               barandales, entre otras);\n                                                                          ¾    Franjas en el piso de al\n                                                                               menos 5 cm de ancho, o\n                                                                          ¾    Distancias de separación\n                                                                               física entre las dos áreas en\n                                                                               cuestión.\n\f Lunes 24 de noviembre de 2008                DIARIO OFICIAL                             (Primera Sección)\n\n7. 1.3       Física              El patrón cumple cuando, derivado del\n                                 recorrido por el centro de trabajo, en\n                                 caso de que en él laboren trabajadores\n                                 discapacitados, se constate que las\n                                 puertas, vías de acceso y de\n                                 circulación, escaleras, lugares de\n                                 servicio y puestos de trabajo, faciliten\n                                 las actividades y desplazamientos de\n                                 esos trabajadores.\n7.1.4        Física              El patrón cumple cuando, derivado del\n                                 recorrido por el centro de trabajo, se\n                                 constate físicamente que las escaleras,\n                                 rampas, escaleras manuales, puentes y\n                                 plataformas elevadas se encuentran en\n                                 condiciones tales que en condiciones\n                                 normales de uso los trabajadores no\n                                 podrían resbalar.\n7.1.5        Física              El patrón cumple cuando, derivado del Los elementos estructurales del\n                                 recorrido por el centro de trabajo, se centro de trabajo son, entre otros:\n                                 constate físicamente que los elementos\n                                                                        ¾ Pisos;\n                                 estructurales que en él existan, no\n                                 presentan deformaciones o daños por ¾ Puentes;\n                                 las cargas que soportan, sin importar si ¾   Plataformas, o\n                                 han sido o no remodelados.\n                                                                          ¾   Estructuras metálicas.\n7.1.6        Física              El patrón cumple cuando, derivado del\n                                 recorrido por el centro de trabajo, se\n                                 constate físicamente que los elementos\n                                 estructurales y edificios, cuentan con la\n                                 resistencia suficiente para soportar las\n                                 cargas que en ellas se encuentran, es\n                                 decir    que,      no     se    observan\n                                 deformaciones o daños de acuerdo al\n                                 tipo de sus actividades.\n\n7.2 a)       Física              El patrón cumple cuando, derivado del Habrá      que    tomarse      en\n                                 recorrido por el centro de trabajo, se consideración que son diferentes\n                                 observe que los techos de las las condiciones de techos de\n                                 diferentes áreas protegen a los hormigón, que los de lámina o los\n                                 trabajadores contra lluvia y otras de madera tipo “palapa”, entre\n                                 condiciones ambientales externas.      otros.\n\n7.2 b)       Física              El patrón cumple cuando, derivado del\n                                 recorrido por el centro de trabajo, se\n                                 observe que en caso de que existan\n                                 cargas fijas soportadas por los techos,\n                                 éstos no presentan deformaciones o\n                                 fracturas que pudieran representar\n                                 riesgos.\n7.2 c)       Física              El patrón cumple cuando, derivado del\n                                 recorrido por el centro de trabajo, se\n                                 observe que los techos permiten la\n                                 salida de líquidos que en ellos pudieran\n                                 estar en el piso.\n\f    (Primera Sección)                DIARIO OFICIAL                   Lunes 24 de noviembre de 2008\n\n7.2 d)       Física     El patrón cumple cuando, derivado del Ejemplos de condiciones             de\n                        recorrido por el centro de trabajo, se riesgo en los techos son:\n                        observe que los techos se encuentran\n                                                               ¾ Fisuras evidentes;\n                        en condiciones tales que soporten las\n                        condiciones normales de operación.     ¾ Grietas, y\n                                                                  ¾    Pandeos.\n7.3 a)       Física     El patrón cumple cuando derivado del\n                        recorrido por el centro de trabajo, se\n                        observe que los colores de las paredes,\n                        en el costado que da al área donde los\n                        trabajadores realizan sus actividades,\n                        por su tipo de acabado o por la pintura\n                        que los cubre, no representan riesgos\n                        de deslumbramiento por efecto de la\n                        reflexión de la luz en ellas.\n7.3 b)       Física     El patrón cumple cuando, derivado del\n                        recorrido por el centro de trabajo, se\n                        observe que las paredes que soportan\n                        cargas, no presentan deformaciones,\n                        agrietamientos u otra condición de\n                        riesgo.\n7.3 c)       Física     El patrón cumple cuando, derivado del Las          ventanas      no      son\n                        recorrido por el centro de trabajo, se consideradas como aberturas de\n                        observe que, en caso de existir riesgo en las paredes.\n                        aberturas en las paredes, a alturas\n                                                                  Los elementos de protección para\n                        superiores a dos metros, por donde\n                                                                  evitar caídas por las aberturas en\n                        exista riesgo de caída a través de ellos,\n                                                                  las paredes pueden ser entre\n                        cuentan con:\n                                                                  otros, barandales, mallas, postes\n                         ¾ Elementos de protección para de delimitación o cintillas de\n                              evitar las caídas de personas y prohibición al paso.\n                              objetos, y\n                        ¾    Señalamientos que indiquen el\n                             riesgo.\n7.4 a)       Física     El patrón cumple cuando, derivado del Algunos factores de riesgo en los\n                        recorrido por el centro de trabajo, se pisos son, entre otros, los\n                        observe que en los pisos de las siguientes:\n                        diferentes áreas no se encuentren\n                                                                  ¾ Objetos o materiales tirados\n                        objetos, materiales o sustancias que\n                                                                    en el área de tránsito;\n                        sean un factor de riesgo para los\n                        trabajadores,   de     acuerdo a       la ¾ Objetos      o       materiales\n                        naturaleza de las actividades que ahí se    desordenados en el área de\n                        desarrollan.                                tránsito;\n                                                                  ¾    Grasas impregnadas;\n                                                                  ¾    Líquidos o materiales a\n                                                                       granel   derramados   que\n                                                                       pudieran          provocar\n                                                                       resbalones;\n                                                                  ¾    Protuberancias    o    baches\n                                                                       pronunciados, y\n                                                                  ¾    Aberturas sin protección o\n                                                                       señalización.\n\f Lunes 24 de noviembre de 2008                DIARIO OFICIAL                                 (Primera Sección)\n\n7.4 b)       Física              El patrón cumple cuando, derivado del El       agua      de     lluvia   que\n                                 recorrido por el centro de trabajo, se temporalmente se estanca en los\n                                 observe que, en su caso, los líquidos en patios con pisos de concreto,\n                                 los pisos no son factor de riesgo para asfalto     o     tierra     no   son\n                                 los    trabajadores  por    caídas     o considerados                  como\n                                 resbalones.                              acumulamientos que generen\n                                                                          riesgos en los pisos.\n7.4 c)       Física              El patrón cumple cuando, derivado del\n                                 recorrido por el centro de trabajo, se\n                                 observa que los pisos de los lugares\n                                 por donde circulan los trabajadores son\n                                 llanos (planos).\n7.4 d)       Física              El patrón cumple cuando, derivado del Las protecciones en las aberturas\n                                 recorrido por el centro de trabajo, las de los pisos pueden ser entre\n                                 aberturas temporales en los pisos que otras:\n                                 se      identifiquen,   cuenten    con\n                                                                         ¾ Cercas provisionales;\n                                 protecciones       que   señalen     su\n                                 localización y peligro, para prevenir ¾ Barandales portátiles, y\n                                 caídas de los trabajadores.             ¾ Postes portátiles con cintas\n                                                                                 de prohibición de paso.\n                                                                             Si la protección identificada en las\n                                                                             aberturas de los pisos son\n                                                                             barandales, éstas deben tener\n                                                                             una altura mínima de 90 cm.\n7.4 e)       Física              El patrón cumple cuando:\n                                 ¾    Derivado del recorrido por el\n                                      centro de trabajo, se identifiquen\n                                      señalizaciones en los cambios de\n                                      nivel de los pisos, o\n                                 ¾    Derivado del recorrido por el\n                                      centro de trabajo, se identifiquen\n                                      con señalamientos los riesgos de\n                                      caída o resbalamiento en pisos,\n                                      por efecto de la actividad que en\n                                      ellos   se    realiza    (limpieza,\n                                      reparaciones, entre otros).\n7.5 a)       Física              El patrón cumple cuando derivado del\n                                 recorrido por el centro de trabajo, se\n                                 observa que para las escaleras\n                                 angostas de tramos rectos se cumplen\n                                 las siguientes condiciones:\n                                 ¾    Tienen un ancho constante en sus\n                                      tramos rectos de al menos 56 cm,\n                                      y\n                                 ¾    Existe señalización para prohibir la\n                                      circulación de más de una\n                                      persona a la vez, en contra flujo.\n7.5 b)       Física              El patrón cumple cuando, derivado del\n                                 recorrido por el centro de trabajo, se\n                                 observa que la huella de los descansos\n                                 de las escaleras de tramos rectos\n                                 utilizadas en un solo sentido de flujo a\n                                 la vez, es al menos de 56 cm, y de al\n                                 menos 90 cm para las de ancho\n                                 superior.\n\f     (Primera Sección)                DIARIO OFICIAL                Lunes 24 de noviembre de 2008\n\n7.5 c)        Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que todos los peraltes y todas\n                         las huellas, respectivamente, de las\n                         escaleras de tramos rectos, cuentan\n                         con las mismas dimensiones.\n7.5 d)        Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que los peraltes de las\n                         escaleras con cambios de dirección,\n                         siempre tienen la misma altura.\n7.5 e)        Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         constate que:\n                         ¾    Las huellas de las escaleras, en\n                              sus secciones rectas, tienen\n                              dimensiones mínimas de 25 cm;\n                         ¾    Los peraltes de las escaleras en\n                              sus secciones rectas tienen una\n                              altura máxima de 23 cm, y\n                         ¾    Las orillas de los escalones son\n                              redondeadas.\n7.5 f)        Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que en las escaleras, las\n                         alturas verticales medidas desde la\n                         huella     de     cualquier     escalón,\n                         contemplando los niveles inferior y\n                         superior de la escalera y el techo o\n                         cualquier superficie superior, es mayor\n                         a 200 cm.\n7.5 g)        Física     El patrón cumple cuando, derivado del La condición de antiderrapante de\n                         recorrido por el centro de trabajo, se los escalones se cumple ya sea\n                         observe que los escalones de las porque           los    materiales    de\n                         escaleras son antiderrapantes.         construcción hacen esa función o\n                                                                porque      se    les    adicionan\n                                                                materiales para ello.\n7.5.1 a)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe    que    las   escaleras de\n                         emergencia exteriores son de tramos\n                         rectos.\n7.5.1 b)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que las puertas de las\n                         escaleras de emergencia exteriores se\n                         encuentran libres de objetos y\n                         obstáculos para su accionamiento.\n7.5.1 c)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe     que     las   escaleras de\n                         emergencia exteriores cuentan en cada\n                         piso del edificio con un acceso al mismo\n                         nivel.\n\f  Lunes 24 de noviembre de 2008                DIARIO OFICIAL                               (Primera Sección)\n\n7.5.1 d)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe que en las escaleras de\n                                  emergencia exteriores, los líquidos\n                                  derramados en sus descansos o\n                                  escalones, no se acumulan.\n7.5.1 e)      Física              El patrón cumple cuando, derivado del La condición de antiderrapante se\n                                  recorrido por el centro de trabajo, se cumple cuando los materiales de\n                                  observe que los pisos y huellas de las construcción hacen esa función o\n                                  escaleras de emergencia exteriores son porque     se     les  adicionan\n                                  resistentes    y     de     materiales materiales para ello.\n                                  antiderrapantes y que, en su caso,\n                                  cuentan con descansos.\n7.5.1 f)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe que:\n                                  ¾    Las escaleras de emergencia se\n                                       encuentran fijas a la estructura del\n                                       edificio en todos sus niveles;\n                                  ¾    Cuando sean escaleras plegables,\n                                       dicha característica sólo la tenga\n                                       en el primer piso, y\n                                  ¾    Cuando     se    constate,    para\n                                       escaleras plegables, que al\n                                       accionarlas bajan hasta el suelo.\n7.5.1 g)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe que en cada uno de los\n                                  accesos a las escaleras de emergencia\n                                  exteriores se cuenta con la señal que\n                                  indique su ubicación.\n\n7.5.1 h)      Física y            El patrón cumple cuando:                    Los registros pueden tenerse en\n              documental                                                      medios impresos o electrónicos.\n                                  ¾    Derivado del recorrido por el\n                                       centro de trabajo, se observe que\n                                       las puertas de acceso a las\n                                       escaleras de emergencia se\n                                       encuentran     en      condiciones\n                                       operativas;\n                                  ¾    Exhiba una bitácora o cualquier\n                                       otro tipo de registro de los\n                                       mantenimientos, y se constata que\n                                       se realizan al menos cada seis\n                                       meses, y\n                                  ¾    Los registros indiquen, al menos,\n                                       las fechas de realización del\n                                       mantenimiento,     el   tipo  de\n                                       mantenimiento realizado, además\n                                       de los nombres y firmas de las\n                                       personas involucradas en tal\n                                       actividad.\n\f     (Primera Sección)                DIARIO OFICIAL                 Lunes 24 de noviembre de 2008\n\n7.5.1 i)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         constate que las puertas de acceso de\n                         las escaleras de emergencia exteriores\n                         abren hacia fuera, es decir en el sentido\n                         de la salida del edificio hacia la\n                         escalera.\n\n7.5.1 j)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que los cerrojos de las puertas\n                         de las escaleras de emergencia\n                         exteriores son de fácil accionamiento y\n                         abren desde adentro.\n\n7.5.1 k)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que las puertas de las\n                         escaleras de emergencia exteriores\n                         cuentan con dispositivos de cierre\n                         automático y permiten el libre flujo de\n                         las personas durante una emergencia.\n\n7.5.2         Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que las escaleras con\n                         barandales con espacios abiertos por\n                         debajo de ellos, cuentan al menos con\n                         una baranda paralela al barandal.\n\n7.5.2. a)     Física     El patrón cumple cuando, para las\n                         escaleras con pasamanos, se constate\n                         que tales pasamanos tienen una altura\n                         de 90 cm ± 10 cm.\n\n7.5.2 b)      Física     El patrón cumple cuando:\n                         ¾    Derivado del recorrido por el\n                              centro de trabajo, se observe que\n                              para     las     escaleras    con\n                              pasamanos, las barandas se\n                              encuentran a una distancia\n                              intermedia entre el barandal y la\n                              paralela formada con la altura\n                              media del peralte de los\n                              escalones, y\n                         ¾    Los balaustres, en este caso, se\n                              encuentran a no más de cuatro\n                              escalones de distancia uno de\n                              otro.\n\n7.5.2 c)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que en las escaleras que no\n                         cuentan con barandas existe un\n                         balaustre por cada uno de los\n                         escalones.\n\f  Lunes 24 de noviembre de 2008                DIARIO OFICIAL                 (Primera Sección)\n\n7.5.2 d)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe que los pasamanos de las\n                                  escaleras son continuos, lisos y pulidos.\n\n7.5.2 e)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe que los pasamanos de las\n                                  escaleras, cuando éstos están fijados a\n                                  la pared, se encuentran empotrados por\n                                  medio de anclas ubicadas en su parte\n                                  inferior y éstos no impiden que la mano\n                                  se desplace libremente.\n\n7.5.2 f)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe que las distancias entre las\n                                  paredes y los pasamanos empotrados\n                                  son continuas y tienen al menos cuatro\n                                  centímetros de separación, y que no se\n                                  interrumpe    la     continuidad    del\n                                  pasamanos.\n\n7.5.2 g)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe que para las escaleras con\n                                  más de tres metros de ancho, existe un\n                                  barandal intermedio y al menos un\n                                  barandal en sus extremos.\n\n7.5.2 h)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe que en las escaleras que están\n                                  cubiertas con muros en sus dos\n                                  costados, al menos uno de ellos tenga\n                                  pasamanos.\n\n7.5.2 i)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe     que      siempre    existe\n                                  comunicación     entre   dos   niveles\n                                  diferentes ya sea con escaleras o\n                                  rampas peatonales, aun cuando existan\n                                  escaleras eléctricas o elevadores que\n                                  comuniquen a los dos niveles\n                                  consecutivos.\n\n7.6.1 a)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe que las rampas no se\n                                  encuentran en condiciones deterioradas\n                                  para su uso, es decir que no se\n                                  observen pandeos o fracturas que\n                                  denoten que se rebasó su resistencia.\n\f     (Primera Sección)                DIARIO OFICIAL                Lunes 24 de noviembre de 2008\n\n7.6.1 b)      Física     El patrón cumple cuando:\n                          ¾ Derivado del recorrido por el\n                               centro de trabajo, se observe que\n                               las rampas fijas y las móviles no\n                               tienen deformaciones evidentes\n                               que generen riesgos a los\n                               transeúntes o a los vehículos que\n                               por ellas circulan, y\n                          ¾ En las rampas móviles se indica la\n                               capacidad de carga máxima.\n7.6.1 c)      Física     El patrón cumple cuando, derivado del Lo anterior se puede constatar\n                         recorrido por el centro de trabajo, se midiendo la altura de la rampa y la\n                         constata que:                           longitud en el plano horizontal, y\n                          ¾ La pendiente de las rampas para después calculando la pendiente.\n                              el tránsito de los trabajadores no\n                              rebasa el 10%, y\n                          ¾ La pendiente de las rampas de\n                              mantenimiento no rebasa el 17%.\n7.6.1 d)      Física     El patrón cumple cuando, derivado del Se puede realizar un ejercicio\n                         recorrido por el centro de trabajo, se práctico para constatar este\n                         observe que por las rampas para requisito.\n                         personas el ancho es suficiente para\n                         que circulen a la vez dos personas en\n                         sentidos opuestos.\n7.6.1 e)      Física     El patrón cumple cuando, derivado del La comprobación puede ser\n                         recorrido por el centro de trabajo, se mediante medición directa y la\n                         constate que el ancho de las rampas comparación del vehículo más\n                         destinadas al tránsito de vehículos, ancho que se ubique en las áreas.\n                         cuenta con al menos 60 cm adicionales\n                         al ancho del vehículo más grande que\n                         circule por ellas.\n7.6.1 f)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que en las rampas que\n                         comunican a dos niveles con alturas\n                         superiores a metro y medio, se cuenta\n                         con barandales.\n7.6.1 g)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que las rampas cubiertas en\n                         sus costados por paredes destinadas al\n                         tránsito de los trabajadores, cuentan al\n                         menos con un pasamanos en uno de\n                         sus costados.\n7.6.1 h)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que:\n                          ¾ Las rampas por las que circulan\n                              trabajadores cuentan con una\n                              altura mínima libre por encima de\n                              ellas de dos metros;\n                          ¾ Las rampas destinadas al tránsito\n                              de vehículos tienen al menos una\n                              altura libre de 30 cm por encima\n                              del vehículo más alto que por ellas\n                              circule, y\n                          ¾ La altura de las rampas se\n                              encuentra señalizada.\n\f  Lunes 24 de noviembre de 2008                DIARIO OFICIAL                             (Primera Sección)\n\n7.6.1 i)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe que en las rampas abiertas se\n                                  cuenta con barreras tales como zoclos\n                                  de 10 cm de altura u otro elemento\n                                  físico que cumpla con esa función.\n7.7.1 a)      Física              El patrón cumple cuando, derivado del La protección contra los efectos\n                                  recorrido por el centro de trabajo, se del sol o la lluvia puede realizarse\n                                  observe que:                           mediante la aplicación de pintura\n                                                                         resistente al medio ambiente.\n                                   ¾ Las escalas fijas no presentan\n                                       deformaciones por las cargas a\n                                       las que se someten, y\n                                  ¾    Las escalas fijas están protegidas,\n                                       en su caso, de los efectos del sol\n                                       y la lluvia.\n7.7.1 b)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe que los anclajes de las escalas\n                                  fijas se mantienen firmemente sujetos a\n                                  los elementos estructurales.\n7.7.1 c)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  observe que existen señalamientos o\n                                  indicaciones con restricciones para el\n                                  uso de las escalas fijas.\n7.7.1 d)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  constate que:\n                                  ¾    Las escalas fijas tienen un ancho\n                                       mínimo de 40 cm cuando su altura\n                                       es menor o igual a 2 metros, o\n                                  ¾    Las escalas fijas tienen un ancho\n                                       mínimo de medio metro para\n                                       cuando su altura es mayor a 2\n                                       metros.\n7.7.1 e)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  constate que en las escalas fijas la\n                                  distancia entre peldaño y peldaño es\n                                  menor de 38 cm.\n7.7.1 f)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  constate que en las escalas fijas existen\n                                  al menos 75 cm libres entre el frente de\n                                  los peldaños y los objetos más\n                                  próximos al lado del ascenso.\n7.7.1 g)      Física              El patrón cumple cuando, derivado del\n                                  recorrido por el centro de trabajo, se\n                                  constate que en las escalas fijas la\n                                  distancia entre los peldaños y cualquier\n                                  objeto del lado opuesto a su ascenso y\n                                  descenso es de al menos 20 cm.\n\f     (Primera Sección)                DIARIO OFICIAL                 Lunes 24 de noviembre de 2008\n\n7.7.1 h)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         constate que en las escalas fijas existen\n                         al menos 18 cm libres entre sus\n                         costados y cualquier estructura al\n                         costado de ellas.\n7.7.1 i)      Física     El patrón cumple cuando, derivado del La comprobación puede realizarse\n                         recorrido por el centro de trabajo, se mediante mediciones de la altura\n                         observe que la inclinación de las de la escala fija y la distancia de la\n                         escalas fijas está comprendida entre 75 base al lado opuesto del ascenso,\n                         y 90 grados.                            formando un triángulo rectángulo\n                                                                 y posteriormente calculando la\n                                                                 inclinación mediante fórmulas\n                                                                 trigonométricas elementales.\n7.7.1 j)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que las escalas fijas de más de\n                         dos metros de altura:\n                         ¾    Cuentan      con     protecciones\n                              circundantes en la parte superior\n                              de la escala a partir de los dos\n                              metros con una tolerancia de ± 20\n                              cm, y\n                         ¾    Las protecciones cubren hasta 90\n                              cm por encima del último peldaño.\n7.7.1 k)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que en las escalas fijas de más\n                         seis metros de altura, se cuenta con\n                         dispositivos de seguridad que brinden\n                         protección contra caídas.\n7.7.1 l)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que las escalas fijas de más de\n                         diez metros de altura cuentan con:\n                         ¾    Descansos intercalados al menos\n                              cada 10 metros, y\n                         ¾    Que tales descansos cuentan con\n                              barandales de al menos 90 cm de\n                              altura.\n7.7.1 m)      Física     El patrón cumple cuando, derivado del\n                         recorrido por el centro de trabajo, se\n                         observe que las escalas fijas cuyos\n                         peldaños      sean     soportados  por\n                         estructuras laterales:\n                         ¾    Tales estructuras se prolongan al\n                              menos 90 cm por encima de\n                              último nivel de acceso, y\n                         ¾    Las    prolongaciones    de     las\n                              estructuras son continuas y lisas.\n\f Lunes 24 de noviembre de 2008                DIARIO OFICIAL                (Primera Sección)\n\n7.7.1 n)     Física              El patrón cumple cuando, derivado del\n                                 recorrido por el centro de trabajo, se\n                                 observe que las escalas fijas cuyos\n                                 peldaños son alcayatas incrustadas o\n                                 soldadas de forma alternada a ambos\n                                 costados en los postes que soportan\n                                 cables de telefonía o de energía\n                                 eléctrica:\n                                 ¾    Los peldaños son de materiales\n                                      resistentes a la corrosión;\n                                 ¾    Los     peldaños    tienen  una\n                                      resistencia mecánica que soporta\n                                      el peso del trabajador sin\n                                      deformarse;\n                                 ¾    Las distancias entre alcayatas de\n                                      un mismo costado no son\n                                      superiores a 90 cm, de tal manera\n                                      que entre alcayatas alternadas la\n                                      distancia es igual o menor a 45\n                                      cm;\n                                 ¾    Las alcayatas sobresalgan al\n                                      menos 20 cm del lugar empotrado\n                                      o soldado, y\n                                 ¾    Las alcayatas son lisas.\n\n7.7.2.1      Física              El patrón cumple cuando, derivado del\n                                 recorrido por el centro de trabajo, se\n                                 observe que:\n                                 ¾    El ancho de las escalas portátiles\n                                      con menos de 2 metros y medio\n                                      de altura, es mayor o igual a 40\n                                      cm, y que para las que son más\n                                      grandes a 2 metros y medio, la\n                                      distancia es de al menos 50 cm;\n                                 ¾    La distancia entre peldaño y\n                                      peldaño, medido en la parte\n                                      central es menor de 38 cm;\n                                 ¾    La distancia para la operación\n                                      segura del trabajador es al menos\n                                      de 75 cm libres, y\n                                 ¾    La distancia entre los peldaños y\n                                      cualquier objeto del lado opuesto\n                                      a su ascenso y descenso es de al\n                                      menos 20 cm.\n\n7.7.2.2      Física              El patrón cumple cuando, derivado del\n                                 recorrido por el centro de trabajo, se\n                                 observe que las correderas y guías de\n                                 las escaleras portátiles que cuenten con\n                                 ellas, estén en buen estado a simple\n                                 vista.\n\f    (Primera Sección)                DIARIO OFICIAL                 Lunes 24 de noviembre de 2008\n\n7.7.2.3      Física     El patrón cumple cuando, derivado del\n                        recorrido por el centro de trabajo, se\n                        observe que en la inclinación de las\n                        escalas portátiles medida desde el\n                        punto de apoyo de la escalera en su\n                        base con respecto a la vertical, es al\n                        menos la equivalente a un peldaño por\n                        cada cuatro peldaños de altura.\n7.7.2.4      Física     El patrón cumple cuando, derivado del\n                        recorrido por el centro de trabajo, se\n                        observe que sólo usan las escalas\n                        móviles cuando presenten:\n                        ¾    Condiciones de seguridad en su\n                             estructura;\n                        ¾    Peldaños completos y fijos;\n                        ¾    Materiales    o    características\n                             antiderrapantes en los apoyos y\n                             peldaños, y\n                        ¾    Peldaños libres de grasa, aceite u\n                             otro producto que los haga\n                             resbalosos.\n7.7.2.5      Física     El patrón cumple cuando, derivado del\n                        recorrido por el centro de trabajo, se\n                        observe, en su caso, que las escalas\n                        móviles metálicas usadas para realizar\n                        trabajos con equipos o líneas eléctricas,\n                        están aisladas en sus apoyos y\n                        peldaños.\n7.7.2.6      Física     El patrón cumple cuando, derivado del\n                        recorrido por el centro de trabajo, se\n                        observe que las escalas móviles\n                        cuentan con elementos que evitan el\n                        deslizamiento de su punto de apoyo o,\n                        en su caso, están ancladas o sujetadas\n                        para evitar que se muevan.\n7.8.1        Física     El patrón cumple cuando, derivado del\n                        recorrido por el centro de trabajo, se\n                        observe que en los costados abiertos\n                        de los puentes y plataformas elevadas\n                        por las que circulan trabajadores, se\n                        cuenta con barandales de al menos 90\n                        cm ± 10 cm de altura.\n7.8.2        Física     El patrón cumple cuando, derivado del\n                        recorrido por el centro de trabajo, se\n                        observe que la distancia entre los pisos\n                        de los pasadizos o plataformas\n                        elevadas     por      donde      circulen\n                        trabajadores y el techo o cualquier otra\n                        superficie superior, son iguales o\n                        mayores a dos metros.\n\f Lunes 24 de noviembre de 2008                       DIARIO OFICIAL                                              (Primera Sección)\n\n8.1          Física              El patrón cumple cuando, derivado del Esta condición aplica para cuando\n                                 recorrido por el centro de trabajo, se existan sistemas de ventilación\n                                 observe        que,       en      caso      de      existir artificial que se encuentran en\n                                 sistemas de ventilación artificial, la operación                                permanente          o\n                                 salida del aire viciado no está dirigida esporádica.\n                                 hacia        las     áreas          donde        laboran\n                                                                                              Los   ventiladores     portátiles     no\n                                 trabajadores.\n                                                                                              deben ser considerados como\n                                                                                              sistemas de ventilación artificial.\n\n8.2          Física              El patrón cumple cuando, derivado del\n                                 recorrido por el centro de trabajo, se\n                                 constate           que      los       sistemas         de\n                                 ventilación artificial son puestos en\n                                 operación antes de que los trabajadores\n                                 ingresen al área donde se encuentran\n                                 las salidas de aire.\n\n8.3          Documental          El patrón cumple cuando exhiba:                              Los registros pueden presentarse\n                                                                                              impresos       o       en     medios\n                                  ¾      Un programa de mantenimiento\n                                                                                              magnéticos.\n                                         para el sistema de ventilación\n                                         artificial, ya         sea preventivo o\n                                         correctivo;\n\n                                  ¾      El programa de mantenimiento\n                                         tenga       una         programación           de\n                                         actividades al menos de un año, y\n\n                                  ¾      El programa cuente con registros\n                                         de su ejecución.\n\n9.1          Física              El patrón cumple cuando, derivado del Las delimitaciones pueden ser\n                                 recorrido por el centro de trabajo, se físicas                          o    mediante        franjas\n                                 observe que:                                                 pintadas, ya sea en el piso o en\n                                                                                              las guarniciones.\n                                  ¾      El    ancho        de       las    puertas     de\n                                         circulación         de        vehículos        es\n                                         superior al vehículo más grande\n                                         que por ellas circule, o\n\n                                  ¾      Si por el ancho de las puertas de\n                                         circulación de vehículos también\n                                         circulan          trabajadores,            existen\n                                         delimitaciones para su tránsito.\n\n9.2          Física              El patrón cumple cuando, derivado del\n                                 recorrido por el centro de trabajo, se\n                                 observe que cuando no existan las\n                                 delimitaciones a que se refiere el\n                                 apartado           9.1,        se         cuenta      con\n                                 señalización que prohíba el tránsito\n                                 simultáneo del vehículo y cualquier\n                                 trabajador.\n\f      (Primera Sección)                 DIARIO OFICIAL                 Lunes 24 de noviembre de 2008\n\n9.3            Física     El patrón cumple cuando, derivado del\n                          recorrido por el centro de trabajo, se\n                          observe que:\n                          ¾    Las áreas internas de circulación\n                               de los vehículos -al interior de\n                               edificaciones    techadas-     se\n                               encuentran      delimitadas     o\n                               señalizadas, o\n                          ¾    Las áreas externas de circulación\n                               de los vehículos se encuentran\n                               identificadas o señalizadas.\n9.4            Física     El patrón cumple cuando, derivado del\n                          recorrido por el centro de trabajo, se\n                          observe que las áreas de carga y\n                          descarga de cualquier tipo de\n                          materiales o sustancias de vehículos,\n                          se      encuentran    delimitadas    o\n                          señalizadas.\n9.5            Física     El patrón cumple cuando, derivado del\n                          recorrido por el centro de trabajo, se\n                          observe que en los cruces de vías de\n                          ferrocarril dentro del centro de trabajo,\n                          se cuenta con:\n                          ¾    Señales;\n                          ¾    Barreras;\n                          ¾    Guardabarreras, o\n                          ¾    Sistemas de avisos audibles o\n                               visibles.\n9.6            Física     El patrón cumple cuando, derivado del\n                          recorrido por el centro de trabajo, se\n                          observe que los pisos para el tránsito\n                          de vehículos en el cruce de las vías de\n                          ferrocarril, localizado en el interior del\n                          centro de trabajo, se encuentran al\n                          mismo nivel.\n9.7            Física     El patrón cumple cuando, derivado del\n                          recorrido por el centro de trabajo, se\n                          observe que de existir cambiavías en el\n                          interior del centro de trabajo, éstos\n                          cuentan con:\n                          ¾    Señalización para ubicar           la\n                               posición que guardan, y\n                          ¾    Dispositivos de seguridad para los\n                               árboles de cambio de vía, para\n                               que sólo personal autorizado\n                               pueda operarlos.\n9.8 a)         Física     El patrón cumple cuando, derivado del\n                          recorrido por el centro de trabajo, se\n                          observe que las ruedas (llantas,\n                          neumáticos) de los vehículos que\n                          realizan operaciones de carga y\n                          descarga se encuentran bloqueadas.\n\f   Lunes 24 de noviembre de 2008                DIARIO OFICIAL                            (Primera Sección)\n\n 9.8 b)        Física              El patrón cumple cuando, derivado del\n                                   recorrido por el centro de trabajo, se\n                                   observa que los tráileres o autotanques\n                                   ubicados en los muelles de carga y\n                                   descarga cuentan al menos con una de\n                                   sus llantas inmovilizada con un yaque.\n 9.9           Física              El patrón cumple cuando, derivado del\n                                   recorrido por el centro de trabajo, se\n                                   observe que la velocidad máxima de\n                                   circulación de los vehículos está\n                                   señalizada, de acuerdo con el tipo de\n                                   actividades que en cada área se\n                                   desarrolle, en:\n                                   ¾    Zonas de carga y descarga;\n                                   ¾    Patios de maniobras, y\n                                   ¾    Establecimientos    entre    otras\n                                        áreas.\n\n   Notas:\n   Las señales que se utilicen para evidenciar el cumplimiento de las disposiciones de esta Norma deben\ncumplir con las especificaciones de la NOM-026-STPS-1998.\n    Todas las comprobaciones dimensionales tendrán una tolerancia de 5%, excepto en las que se indica la\ntolerancia.",
+    "start_char": 32923,
+    "end_char": 96325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "12",
+    "label": "12. Vigilancia",
+    "text": "12. Vigilancia\n   La vigilancia del cumplimiento de la presente Norma corresponde a la Secretaría del Trabajo y Previsión\nSocial.",
+    "start_char": 96329,
+    "end_char": 96458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "13",
+    "label": "13. Bibliografía",
+    "text": "13. Bibliografía\n    Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario Oficial de\nla Federación el 21 de enero de 1997.",
+    "start_char": 96462,
+    "end_char": 96624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-001-stps-2008:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+    "number": "14",
+    "label": "14. Concordancia con normas internacionales",
+    "text": "14. Concordancia con normas internacionales\n   Esta Norma no concuerda con ninguna norma internacional, por no existir referencia alguna al momento\nde su elaboración.",
+    "start_char": 96628,
+    "end_char": 96794
+  }
+]

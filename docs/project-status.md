@@ -1,8 +1,8 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-07-27
+- **Status date:** 2026-07-28
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 156 (151 federal corpus instruments plus 5 NOMs)
+- **Committed instruments:** 160 (151 federal corpus instruments plus 9 NOMs)
 - **Active ingestion batch:** `administration_ad2_public_service_mobility`
 - **Next checkpoint:** `lspm`
 - **Current legal reviewer:** JRH
@@ -23,17 +23,17 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 156 |
+| Instruments | 160 |
 | Articles | 33,231 |
 | Original transitory provisions | 1,240 |
 | Annexes | 29 |
-| Standard clauses | 1,162 |
-| Standard transitory provisions | 10 |
+| Standard clauses | 1,487 |
+| Standard transitory provisions | 22 |
 | Reference edges | 17,173 |
 | Unresolved reference edges | 0 |
 | Generated Markdown files | 34,651 |
 
-All 156 `validation.json` reports are valid. They contain 193 non-blocking
+All 160 `validation.json` reports are valid. They contain 193 non-blocking
 warnings: 166 non-numeric/suffixed-article notices, 16 unfrozen count
 baselines, 7 article-gap notices, 2 suffix-order notices, and 2 warnings for
 official standard modifications not incorporated in the retained source
@@ -82,6 +82,15 @@ inspection, not a structural parse; see "Standards transitorio inspection"
 in `docs/standards-module.md`. Standards have no Markdown export profile
 (`collect_standard` bails on `CanonicalMarkdown`), so `Generated Markdown
 files` above is unaffected by this addition.
+
+The batch-2 NOM ingestion (`docs/plans/nom-standards-batch-2.md`, staged
+2026-07-28) added four more STPS standards on its first tranche:
+NOM-001-STPS-2008, NOM-004-STPS-1999, NOM-005-STPS-1998, and
+NOM-009-STPS-2011 (86, 12, 72, and 155 clauses; 3 transitories each; all
+`as_published`, zero unconsolidated-modification warnings). One candidate
+from the same tranche, NOM-019-STPS-2011, was held out and flagged rather
+than committed — see `docs/ingestion-difficulty-log.md`
+(`annex-form-numbering`).
 
 The active plan is
 [`cluster-2-federal-corpus-ingestion.md`](plans/cluster-2-federal-corpus-ingestion.md).

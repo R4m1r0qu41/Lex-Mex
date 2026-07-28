@@ -1,0 +1,122 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "number": "1",
+    "label": "1.    Objetivo",
+    "text": "1.    Objetivo",
+    "start_char": 4235,
+    "end_char": 4249
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "number": "2",
+    "label": "2.    Campo de aplicación",
+    "text": "2.    Campo de aplicación",
+    "start_char": 4253,
+    "end_char": 4278
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "number": "3",
+    "label": "3.    Referencias",
+    "text": "3.    Referencias",
+    "start_char": 4282,
+    "end_char": 4299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "number": "4",
+    "label": "4.    Definiciones",
+    "text": "4.    Definiciones\n\f    Lunes 31 de mayo de 1999                               DIARIO OFICIAL                                  (Primera Sección)   47",
+    "start_char": 4303,
+    "end_char": 4452
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "number": "5",
+    "label": "5.     Obligaciones del patrón",
+    "text": "5.     Obligaciones del patrón",
+    "start_char": 4458,
+    "end_char": 4488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "number": "6",
+    "label": "6.     Obligaciones de los trabajadores",
+    "text": "6.     Obligaciones de los trabajadores",
+    "start_char": 4493,
+    "end_char": 4532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "number": "7",
+    "label": "7.     Programa Específico de Seguridad e Higiene para la Operación y Mantenimiento de la Maquinaria y",
+    "text": "7.     Programa Específico de Seguridad e Higiene para la Operación y Mantenimiento de la Maquinaria y\n           Equipo",
+    "start_char": 4537,
+    "end_char": 4657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "number": "8",
+    "label": "8.     Protectores y dispositivos de seguridad",
+    "text": "8.     Protectores y dispositivos de seguridad",
+    "start_char": 4662,
+    "end_char": 4708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "number": "9",
+    "label": "9.     Unidades de verificación",
+    "text": "9.     Unidades de verificación",
+    "start_char": 4713,
+    "end_char": 4744
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "number": "10",
+    "label": "10.    Vigilancia",
+    "text": "10.    Vigilancia",
+    "start_char": 4877,
+    "end_char": 4894
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "number": "11",
+    "label": "11.    Bibliografía",
+    "text": "11.    Bibliografía",
+    "start_char": 4899,
+    "end_char": 4918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "number": "12",
+    "label": "12.    Concordancia con normas internacionales",
+    "text": "12.    Concordancia con normas internacionales\n           Guía de referencia protectores y dispositivos de seguridad\n    1. Objetivo\n    Establecer las condiciones de seguridad y los sistemas de protección y dispositivos para prevenir y\nproteger a los trabajadores contra los riesgos de trabajo que genere la operación y mantenimiento de la\nmaquinaria y equipo.\n    2. Campo de aplicación\n   La presente Norma rige en todo el territorio nacional y aplica en todos los centros trabajo que por la\nnaturaleza de sus procesos empleen maquinaria y equipo.\n    3. Referencias\n  Para la correcta interpretación de esta Norma, deben consultarse las siguientes normas oficiales\nmexicanas y normas mexicanas vigentes:\n    NOM-001-STPS-1993, Relativa a las condiciones de seguridad e higiene en los edificios, locales,\ninstalaciones y áreas de los centros de trabajo.\n  NOM-005-STPS-1998, Relativa a las condiciones de seguridad e higiene en los centros de trabajo para el\nmanejo, transporte y almacenamiento de sustancias químicas peligrosas.\n    NOM-017-STPS-1993, Relativa al equipo de protección personal para los trabajadores en los centros\nde trabajo.\n    NOM-022-STPS-1993, Relativa a las condiciones de seguridad en los centros de trabajo en donde la\nelectricidad estática represente un riesgo.*\n   NOM-026-STPS-1998, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos\nconducidos en tuberías.\n    NMX-CC-018-1996-IMNC, Directrices para desarrollar manuales de calidad.\n    Definiciones\n    Para efectos de esta Norma, se establecen las definiciones siguientes:\n    a)     autoridad del trabajo; autoridad laboral: las unidades administrativas competentes de la Secretaría\n           del Trabajo y Previsión Social, que realicen funciones de inspección en materia de seguridad e\n           higiene en el trabajo, y las correspondientes de las entidades federativas y del Distrito Federal, que\n           actúen en auxilio de aquéllas.\n    b)     candado de seguridad: cerradura que evita que cualquier trabajador active la maquinaria y equipo.\n    c)     carrera: distancia que recorre el componente de una máquina por un movimiento alternativo.\n    d)     centro de trabajo: todo aquel lugar, cualquiera que sea su denominación, en el que se realicen\n           actividades de producción, de comercialización o de prestación de servicios, o en el que laboren\n           personas que estén sujetas a una relación de trabajo.\n    e)     ciclo: movimiento alternativo o rotativo durante el cual el componente de una máquina efectúa\n           un trabajo.\n\n* Para la correcta interpretación de esta Norma, deberá consultarse la NOM-022-STPS-1999, Electricidad estática en los centros de\ntrabajo-condiciones de seguridad, una vez que sea publicada en el Diario Oficial de la Federación y entre en vigor.\n\f   48   (Primera Sección)                       DIARIO OFICIAL                    Lunes 31 de mayo de 1999\n\n   f)    interruptor final de carrera: dispositivo manual o automático que impide el desplazamiento del\n         portaherramienta desde la posición inicial hasta el punto de operación.\n   g)    dieléctrico: material que impide la conductividad eléctrica.\n   h)    dispositivo sensitivo: elemento que mantiene un mecanismo en operación mientras ningún objeto\n         interfiera con el sensor del mismo y provoque el paro.\n   i)    electroerosionadora: máquina-herramienta en la que el metal de la pieza a mecanizar se elimina\n         por la acción de descargas eléctricas entre la pieza y un electrodo sumergido en un aceite electrolito\n         o dieléctrico.\n   j)    mando bimanual: es el dispositivo que obliga a que el operador use simultáneamente las dos manos\n         para poder accionarlo.\n   k)    mantenimiento preventivo: es la acción de inspeccionar, probar y reacondicionar la maquinaria y\n         equipo a intervalos regulares con el fin de prevenir fallas de funcionamiento.\n   l)    mantenimiento correctivo: es la acción de revisar y reparar la maquinaria y equipo que estaba\n         trabajando hasta el momento en que sufrió la falla.\n   m)    maquinaria y equipo: es el conjunto de mecanismos y elementos combinados destinados a recibir\n         una forma de energía, para transformarla a una función determinada.\n   n)    protección por obstáculos: barreras físicas diseñadas y construidas para aislar al trabajador de una\n         zona de riesgo y evitar, de este modo, que se produzcan daños a la salud del trabajador.\n   o)    riesgo potencial: es la probabilidad de que la maquinaria y equipo causen lesiones a los\n         trabajadores.\n   5. Obligaciones del patrón\n    5.1 Mostrar a la autoridad laboral, cuando así lo solicite, los documentos que la presente Norma le obligue\na elaborar.\n   5.2 Elaborar un estudio para analizar el riesgo potencial generado por la maquinaria y equipo en el que se\ndebe hacer un inventario de todos los factores y condiciones peligrosas que afecten a la salud del trabajador.\n   5.2.1 En la elaboración del estudio de riesgo potencial se debe analizar:\n   a)    las partes en movimiento, generación de calor y electricidad estática de la maquinaria y equipo;\n   b)    las superficies cortantes, proyección y calentamiento de la materia prima, subproducto y producto\n         terminado;\n   c)    el manejo y condiciones de la herramienta.\n   5.2.2 Para todo riesgo que se haya detectado, se debe determinar:\n   a)   el tipo de daño;\n   b)   la gravedad del daño;\n   c)   la probabilidad de ocurrencia.\n   5.3 En base al estudio para analizar el riesgo potencial, el patrón debe:\n   a)    elaborar el Programa Específico de Seguridad e Higiene para la Operación y Mantenimiento de la\n         Maquinaria y Equipo, darlo a conocer a los trabajadores y asegurarse de su cumplimiento;\n   b)    contar con personal capacitado y un manual de primeros auxilios en el que se definan los\n         procedimientos para la atención de emergencias. Se puede tomar como referencia la guía no\n         obligatoria de la Norma Oficial Mexicana NOM-005-STPS-1998;\n   c)    señalar las áreas de tránsito y de operación              de   acuerdo   a   lo   establecido   en   las\n         NOM-001-STPS-1993 y NOM-026-STPS-1998;\n   d)    dotar a los trabajadores del equipo de protección personal de acuerdo a lo establecido en la\n         NOM-017-STPS-1993.\n\f   Lunes 31 de mayo de 1999                     DIARIO OFICIAL                         (Primera Sección)   49\n\n   5.4 Capacitar a los trabajadores para la operación segura de la maquinaria y equipo, así como de las\nherramientas que utilicen para desarrollar su actividad.\n   6. Obligaciones de los trabajadores\n   6.1 Participar en la capacitación que proporcione el patrón.\n   6.2 Cumplir con las medidas que señale el Programa Específico de Seguridad e Higiene para la Operación\ny Mantenimiento de la Maquinaria y Equipo.\n   6.3 Reportar al patrón cuando los sistemas de protección y dispositivos de seguridad de la maquinaria y\nequipo se encuentren deteriorados, fuera de funcionamiento o bloqueados.\n   6.4 Utilizar el equipo de protección personal de acuerdo a las instrucciones de uso y mantenimiento\nproporcionadas por el patrón.\n   6.5 Usar el cabello corto o recogido, no portar cadenas, anillos, pulseras, mangas sueltas u otros objetos\nque pudieran ser factor de riesgo durante la operación.\n   6.6 Reportar al patrón cualquier anomalía de la maquinaria y equipo que pueda implicar riesgo.\n   7. Programa Específico de Seguridad para la Operación y Mantenimiento de la Maquinaria y Equipo\n   7.1 Operación de la maquinaria y equipo.\n   El programa debe contener procedimientos para que:\n   a)   los protectores y dispositivos de seguridad se instalen en el lugar requerido y se utilicen durante la\n        operación;\n   b)   se mantenga limpia y ordenada el área de trabajo;\n   c)   la maquinaria y equipo estén ajustados para prevenir un riesgo;\n   d)   las conexiones de la maquinaria y equipo y sus contactos eléctricos estén protegidos y no sean un\n        factor de riesgo;\n   e)   el cambio y uso de la herramienta y el herramental se realice en forma segura;\n   f)   el desarrollo de las actividades de operación se efectúe en forma segura;\n   g)   el sistema de alimentación y retiro de la materia prima, subproducto y producto terminado no sean un\n        factor de riesgo.\n   7.2 Mantenimiento de la maquinaria y equipo\n   El programa debe contener:\n  7.2.1 La capacitación que se debe otorgar a los trabajadores que realicen las actividades de\nmantenimiento.\n    7.2.2 La periodicidad y el procedimiento para realizar el mantenimiento preventivo y, en su caso, el\ncorrectivo, a fin de garantizar que todos los componentes de la maquinaria y equipo estén en condiciones\nseguras de operación, y se debe cumplir, al menos, con las siguientes condiciones:\n   a)   al concluir el mantenimiento, los protectores y dispositivos deben estar en su lugar y en condiciones\n        de funcionamiento;\n   b)   cuando se modifique o reconstruya una maquinaria o equipo, se deben preservar las condiciones de\n        seguridad;\n   c)   el bloqueo de energía se realizará antes y durante el mantenimiento de la maquinaria y equipo,\n        cumpliendo además con lo siguiente:\n        1)    deberá realizarse por el encargado del mantenimiento;\n        2)    deberá avisarse previamente a los trabajadores involucrados, cuando se realice el bloqueo de\n              energía;\n        3)    identificar los interruptores, válvulas y puntos que requieran inmovilización;\n\f   50   (Primera Sección)                        DIARIO OFICIAL                     Lunes 31 de mayo de 1999\n\n         4)   bloquear la energía en tableros, controles o equipos, a fin de desenergizar, desactivar o impedir\n              la operación de la maquinaria y equipo;\n         5)   colocar tarjetas de aviso, cumpliendo con lo establecido en el apéndice A;\n         6)   colocar los candados de seguridad;\n         7)   asegurarse que se realizó el bloqueo;\n         8)   avisar a los trabajadores involucrados cuando haya sido retirado el bloqueo. El trabajador que\n              colocó las tarjetas de aviso, debe ser el que las retire.\n   7.2.3 Se debe llevar un registro del mantenimiento preventivo y correctivo que se le aplique a la maquinaria\ny equipo, indicando en que fecha se realizó; mantener este registro, al menos, durante\ndoce meses.\n   8. Protectores y dispositivos de seguridad\n   8.1 Protectores de seguridad en la maquinaria y equipo.\n   Los protectores son elementos que cubren a la maquinaria y equipo para evitar el acceso al punto de\noperación y evitar un riesgo al trabajador.\n   8.1.1 Se debe verificar que los protectores cumplan con las siguientes condiciones:\n   a)    proporcionar una protección total al trabajador;\n   b)    permitir los ajustes necesarios en el punto de operación;\n   c)    permitir el movimiento libre del trabajador;\n   d)    impedir el acceso a la zona de riesgo a los trabajadores no autorizados;\n   e)    evitar que interfieran con la operación de la maquinaria y equipo;\n   f)    no ser un factor de riesgo por sí mismos;\n   g)    permitir la visibilidad necesaria para efectuar la operación;\n   h)    señalarse cuando su funcionamiento no sea evidente por sí mismo, de acuerdo a lo establecido en la\n         NOM-026-STPS-1998;\n   i)    de ser posible estar integrados a la maquinaria y equipo;\n   j)    estar fijos y ser resistentes para hacer su función segura;\n   k)    no obstaculizar el desalojo del material de desperdicio.\n   8.1.2 Se debe incorporar una protección al control de mando para evitar un funcionamiento accidental.\n    8.1.3 En los centros de trabajo en donde por la instalación de la maquinaria y equipo no sea posible utilizar\nprotectores de seguridad para resguardar elementos de transmisión de energía mecánica, se debe utilizar la\ntécnica de protección por obstáculos. Cuando se utilicen barandales, éstos deben cumplir con las condiciones\nestablecidas en la NOM-001-STPS-1993.\n   8.2 Dispositivos de seguridad.\n   Son elementos que se deben instalar para impedir el desarrollo de una fase peligrosa en cuanto se detecta\ndentro de la zona de riesgo de la maquinaria y equipo, la presencia de un trabajador o parte de su cuerpo.\n    8.2.1 La maquinaria y equipo deben estar provistos de dispositivos de seguridad para paro de urgencia de\nfácil activación.\n   8.2.2 La maquinaria y equipo deben contar con dispositivos de seguridad para que las fallas de energía no\ngeneren condiciones de riesgo.\n   8.2.3 Se debe garantizar que los dispositivos de seguridad cumplan con las siguientes condiciones:\n   a)    ser accesibles al operador;\n   b)    cuando su funcionamiento no sea evidente se debe señalar que existe un dispositivo de seguridad,\n         de acuerdo a lo establecido en la NOM-026-STPS-1998;\n   c)    proporcionar una protección total al trabajador;\n\f   Lunes 31 de mayo de 1999                      DIARIO OFICIAL                         (Primera Sección)   51\n\n   d)      estar integrados a la maquinaria y equipo;\n   e)      facilitar su mantenimiento, conservación y limpieza general;\n   f)      estar protegidos contra una operación involuntaria;\n   g)      el dispositivo debe prever que una falla en el sistema no evite su propio funcionamiento y que a su\n           vez evite la iniciación del ciclo hasta que la falla sea corregida;\n   h)      cuando el trabajador requiera alimentar o retirar materiales del punto de operación manualmente y\n           esto represente un riesgo, debe usar un dispositivo de mando bimanual, un dispositivo asociado a un\n           protector o un dispositivo sensitivo.\n   8.2.4 En el caso de las electroerosionadoras, adicionalmente a lo establecido en el punto anterior, se debe:\n   a)      contar con un sistema indicador y controlador de freno;\n   b)      prevenir un incremento significativo en el tiempo normal de paro en las electroerosionadoras con\n           embrague de aire e inhibir una operación posterior en el caso de una falla del mecanismo de\n           operación.\n   8.2.5 En la maquinaria y equipo que cuente con interruptor final de carrera se debe cumplir que:\n   a)      el interruptor final de carrera, esté protegido contra una operación no deseada;\n   b)      el embrague de accionamiento mecánico, pueda desacoplarse al completar un ciclo;\n   c)      el funcionamiento sólo se pueda restablecer a voluntad del trabajador.\n   9. Unidades de verificación\n   9.1 El patrón tendrá la opción de contratar una Unidad de Verificación acreditada y aprobada, según lo\nestablecido en la Ley Federal sobre Metrología y Normalización, para la verificación o evaluación de la\npresente Norma.\n    9.2 Las unidades de verificación podrán certificar el cumplimiento de esta Norma, verificando los apartados\n5.2, 5.3, 5.4, así como el capítulo 7 en sus apartados 7.1 y 7.2 y el capítulo 8, para lo cual deberán contar con\nlos procedimientos para realizar la revisión documental y para verificar el desarrollo técnico del reconocimiento\ny evaluación; cumpliendo con lo establecido en la Norma Mexicana vigente NMX-CC-018-1996-IMNC.\n   9.3 La Unidad de Verificación debe presentar sus resultados de acuerdo con el listado correspondiente del",
+    "start_char": 4923,
+    "end_char": 20125
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO.- La presente Norma entra en vigor a los sesenta días posteriores a su publicación en el\nDiario Oficial de la Federación.",
+    "start_char": 31425,
+    "end_char": 31554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO.- Durante el lapso señalado en el artículo anterior, los patrones cumplirán con las normas\noficiales mexicanas NOM-005-STPS-1993, Relativa a las condiciones de seguridad e higiene en los\ncentros de trabajo para el almacenamiento, transporte y manejo de sustancias inflamables y\ncombustibles; NOM-008-STPS-1993, Relativa a las condiciones de seguridad e higiene para la\nproducción, almacenamiento y manejo de explosivos en los centros de trabajo; NOM-009-STPS-1993,\nRelativa a las condiciones de seguridad e higiene para el almacenamiento, transporte y manejo de\nsustancias corrosivas, irritantes y tóxicas en los centros de trabajo; NOM-018-STPS-1993, Relativa a los\nrequerimientos y características de los servicios de regaderas, vestidores y casilleros en los centros de\ntrabajo, y NOM-020-STPS-1993, Relativa a los medicamentos, materiales de curación y personal que\npresta los primeros auxilios en los centros de trabajo, o bien realizarán las adaptaciones para observar\nlas disposiciones de la presente Norma Oficial Mexicana y, en este último caso, las autoridades\nlaborales proporcionarán, a petición de los patrones interesados, asesoría y orientación para\ninstrumentar su cumplimiento, sin que los patrones se hagan acreedores a sanciones por el\nincumplimiento de las normas en vigor.",
+    "start_char": 31559,
+    "end_char": 32860
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-005-stps-1998:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+    "ordinal": "TERCERO",
+    "text": "TERCERO.- A la entrada en vigor de la presente Norma, se cancelan las siguientes normas ofi ciales\nmexicanas:\n    NOM-008-STPS-1993, Relativa a las condiciones de seguridad e higiene para la producción,\nalmacenamiento y manejo de explosivos en los centros de trabajo, publicada en el Diario Oficial de la\nFederación el 3 de diciembre de 1993.\n    NOM-009-STPS-1993, Relativa a las condiciones de seguridad e higiene para el almacenamiento,\ntransporte y manejo de sustancias corrosivas, irritantes y tóxicas en los centros de trabajo, publicada en\nel Diario Oficial de la Federación el 13 de junio de 1994.\n    NOM-018-STPS-1993, Relativa a los requerimientos y características de los servicios de regaderas,\nvestidores y casilleros en los centros de trabajo, publicada en el Diario Oficial de la Federación el 6 de\ndiciembre de 1993.\n    NOM-020-STPS-1993, Relativa a los medicamentos, materiales de curación y personal que presta\nlos primeros auxilios en los centros de trabajo, publicada en el Diario Oficial de la Federación el 24 de\nmayo de 1994.",
+    "start_char": 32865,
+    "end_char": 33915,
+    "asserted_dates": [
+      "1993-12-03",
+      "1994-06-13",
+      "1993-12-06",
+      "1994-05-24"
+    ]
+  }
+]

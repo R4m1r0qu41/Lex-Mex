@@ -1,0 +1,539 @@
+   Martes 2 de febrero de 1999                    DIARIO OFICIAL                             (Primera Sección)   1
+
+NORMA Oficial Mexicana NOM-005-STPS-1998, Relativa a las condiciones de seguridad e higiene en
+los centros de trabajo para el manejo, transporte y almacenamiento de sustancias químicas
+peligrosas.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría del Trabajo
+y Previsión Social.
+    NORMA OFICIAL MEXICANA NOM-005-STPS-1998, RELATIVA A LAS CONDICIONES DE SEGURIDAD
+E HIGIENE EN LOS CENTROS DE TRABAJO PARA EL MANEJO, TRANSPORTE Y ALMACENAMIENTO DE
+SUSTANCIAS QUIMICAS PELIGROSAS.
+    JOSE ANTONIO GONZALEZ FERNANDEZ, Secretario del Trabajo y Previsión Social, con fundamento
+en los artículos 16 y 40 fracciones I y XI de la Ley Orgánica de la Administración Pública Federal; 512, 523
+fracción I, 524 y 527 último párrafo de la Ley Federal del Trabajo; 3o. fracción XI, 38 fracción II, 40 fracción
+VII, 41, 43 a 47 y 52 de la Ley Federal sobre Metrología y Normalización; 3o., 4o. y 29 del Reglamento
+Federal de Seguridad, Higiene y Medio Ambiente de Trabajo; y 3o., 5o. y 20 fracciones I, XV y XVIII del
+Reglamento Interior de la Secretaría del Trabajo y Previsión Social, y
+                                                CONSIDERANDO
+    Que con fecha 3 de diciembre de 1993 fue publicada en el Diario Oficial de la Federación la Norma
+Oficial Mexicana NOM-005-STPS-1993, Relativa a las condiciones de seguridad en los centros de trabajo
+para el almacenamiento, transporte y manejo de sustancias inflamables y combustibles;
+    Que esta dependencia a mi cargo, con fundamento en el artículo cuarto transitorio primer párrafo del
+Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario Oficial
+de la Federación el 21 de enero de 1997, ha considerado necesario realizar diversas modificaciones a la
+referida Norma Oficial Mexicana, las cuales tienen como finalidad adecuarla a la s disposiciones
+establecidas en el ordenamiento reglamentario mencionado;
+    Que con fecha 27 de enero de 1998, en cumplimiento de lo previsto en el artículo 46 fracción I de la
+Ley Federal sobre Metrología y Normalización, la Secretaría del Trabajo y Previsión Social presentó ante
+el Comité Consultivo Nacional de Normalización de Seguridad, Higiene y Medio Ambiente Laboral, el
+anteproyecto de modificación de la presente Norma Oficial Mexicana, y que en esa misma fecha el citado
+Comité lo consideró correcto y acordó que se publicara en el Diario Oficial de la Federación;
+    Que con el objeto de cumplir con los lineamientos contenidos en el Acuerdo para la desregulación de
+la actividad empresarial, publicado en el Diario Oficial de la Federación el día 24 de noviembre de 1995,
+las modificaciones propuestas a la presente Norma fueron sometidas por la Secretaría de Comercio y
+Fomento Industrial a la opinión del Consejo para la Desregulación Económica, y con base en ella se
+realizaron las adaptaciones procedentes, por lo que dicha dependencia dictaminó favorablemente
+acerca de las modificaciones contenidas en la presente Norma;
+    Que con fecha 15 de mayo de 1998, en cumplimiento del Acuerdo del Comité y de lo previsto en el
+artículo 47 fracción I de la Ley Federal sobre Metrología y Normalización, se publicó en el Diario Oficial de
+la Federación el Proyecto de Modificación de la presente Norma Oficial Mexicana, a efecto que dentro de
+los siguientes 60 días naturales a dicha publicación, los interesados presentaran sus com entarios al
+Comité Consultivo Nacional de Normalización de Seguridad, Higiene y Medio Ambiente Laboral;
+    Que habiendo recibido comentarios de 2 promoventes, el Comité Consultivo Nacional de
+Normalización referido procedió a su estudio y resolvió oportunamente sobre los mismos, publicando
+esta dependencia las respuestas respectivas en el Diario Oficial de la Federación el 22 de octubre de
+1998, en cumplimiento a lo previsto por el artículo 47 fracción III de la Ley Federal sobre Metrología y
+Normalización.
+    Que en atención a las anteriores consideraciones y toda vez que el Comité Consultivo Nacional de
+Normalización de Seguridad, Higiene y Medio Ambiente Laboral, otorgó la aprobación respectiva, se
+expide la siguiente: Norma Oficial Mexicana NOM-005-STPS-1998, Condiciones de seguridad e higiene
+en los centros de trabajo para el manejo, transporte y almacenamiento de sustancias quimicas
+peligrosas
+                                                     INDICE
+    1.    Objetivo
+    2.    Campo de aplicación
+    3.    Referencias
+    4.    Definiciones
+    5.    Obligaciones del patrón
+    6.    Obligaciones de los trabajadores
+   2    (Primera Sección)                       DIARIO OFICIAL                       Martes 2 de febrero de 1999
+
+   7.    Requisitos administrativos
+   8.    Programa especifico de seguridad e higiene para el manejo, transporte y almacenamiento de
+         sustancias químicas peligrosas
+    9.   Requisitos generales
+    10. Requisitos para el manejo, transporte y almacenamiento de sustancias inflamables o
+         combustibles
+    11. Requisitos para el manejo, transporte y almacenamiento de sustancias explosivas
+    12. Requisitos para el transporte y almacenamiento de sustancias corrosivas, irritantes o tóxicas
+    13. Vigilancia
+    14. Bibliografía
+    15. Concordancia con normas internacionales
+         Transitorios
+         Guía de referencia. Botiquín de primeros auxilios
+    1. Objetivo
+    Establecer las condiciones de seguridad e higiene para el manejo, transporte y almacenamiento de
+sustancias químicas peligrosas, para prevenir y proteger la salud de los trabajadores y evitar daños al
+centro de trabajo.
+    2. Campo de aplicación
+    La presente Norma rige en todo el territorio nacional y aplica en todos los centros de trabajo donde
+se manejen, transporten o almacenen sustancias químicas peligrosas.
+    3. Referencias
+    Para la correcta interpretación de esta Norma, deben consultarse las siguientes normas oficiales
+mexicanas vigentes:
+    NOM-004-STPS-1994, Relativa a los sistemas de protección y dispositivos de seguridad en la
+maquinaria, equipos y accesorios en los centros de trabajo.
+    NOM-010-STPS-1993, Relativa a las condiciones de seguridad e higiene en los centros de trabajo
+donde se produzcan, almacenen o manejen sustancias químicas capaces de generar contaminación en
+el medio ambiente laboral.
+    NOM-017-STPS-1993, Relativa al equipo de protección personal para los trabajadores en los centros
+de trabajo.
+    NOM-026-STPS-1993, Seguridad, colores y su aplicación.
+    NOM-027-STPS-1993, Señales y avisos de seguridad e higiene.
+    NOM-028-STPS-1993, Seguridad-Código de colores para la identificación de fluidos conducidos en
+tuberías.
+    NOM-114-STPS-1994, Sistema para la identificación y comunicación de riesgos por sustancias
+químicas en los centros de trabajo.
+    4. Definiciones
+    Para efectos de esta Norma se establecen las definiciones siguientes:
+    a)   actividad peligrosa: conjunto de tareas derivadas de los procesos de trabajo, que generan
+         condiciones inseguras y sobreexposición a los agentes químicos capaces de provocar daños a
+         la salud de los trabajadores o al centro de trabajo.
+    b) atmósfera explosiva: área del centro de trabajo en que la concentración ambiental de las
+         sustancias químicas peligrosas se encuentra entre el 20% del límite inferior de inflamabilidad y
+         el límite superior de inflamabilidad.
+    c)   atmósfera no respirable: área del centro de trabajo con deficiencia, menos de 19.5%, o exceso,
+         más de 23.5%, de oxígeno.
+    d) autoridad del trabajo: las unidades administrativas competentes de la Secretaría del Trabajo y
+         Previsión Social, que realicen funciones de inspección en materia de seguridad e higiene en el
+         trabajo, y las correspondientes de las entidades federativas y del Distrito Federal, que actúen en
+         auxilio de aquéllas.
+    e)   centro de trabajo: todo aquel lugar, cualquiera que sea su denominación, en el que se realicen
+         actividades de producción, de comercialización o de prestación de servicios, o en el que laboren
+         personas que estén sujetas a una relación de trabajo.
+    f)   espacio confinado: es un lugar lo suficientemente amplio, configurado de tal manera que una
+         persona puede desempeñar una determinada tarea en su interior, que tiene medios limitados o
+         restringidos para su acceso o salida, que no esté diseñado para ser ocupado por una persona
+         en forma continua y en el cual se realizan trabajos específicos ocasionalmente.
+   Martes 2 de febrero de 1999                   DIARIO OFICIAL                            (Primera Sección)   3
+
+   g)    examen médico de ingreso: examen realizado y determinado por un médico, para conocer el
+         estado físico y mental del trabajador para determinar si es factible o no que se exponga a las
+         sustancias químicas peligrosas presentes en el centro de trabajo.
+    h) examen médico específico: examen realizado por un médico, cuyo contenido está determinado
+         por la literatura específica. Se realiza cuando se sospecha alteración en la salud del trabajador,
+         con la finalidad de realizar una evaluación médica exhaustiva con respecto a las sustancias
+         químicas peligrosas a las que está expuesto en el centro de trabajo y poder recomendar
+         acciones correctivas al patrón.
+    i)   examen médico periódico: examen realizado y determinado por un médico, cuyo objetivo es
+         vigilar la salud del trabajador expuesto a las sustancias químicas peligrosas presentes en el
+         centro de trabajo.
+    j)   explosivos primarios: son materiales que presentan facilidad para que se les haga detonar ya
+         sea por calor, chispa, fuego o fricción, por lo que se utilizan como disparadores y en la mayoría
+         de los casos son poco estables.
+    k)   explosivos secundarios: son materiales que requieren de un explosivo primario o agente de
+         detonación para que se inicien.
+    l)   inestabilidad: es una característica de aquellas sustancias químicas que, por sus propiedades
+         físicas y químicas, alteran su estado de equilibrio al aplicarles energía.
+    m) material resistente al fuego: son los materiales no combustibles, que sujetos a la acción del
+         fuego, no lo transmiten ni generan humos o vapores tóxicos, ni fallan estructuralmente por un
+         periodo de al menos dos horas.
+    n) polvorín: local destinado para almacenar sustancias explosivas.
+    o) procedimiento seguro: secuencia ordenada y lógica de actividades para llevar a cabo una tarea
+         de forma tal que se minimicen los riesgos a los que se expone el trabajador.
+    p) riesgo potencial: es la probabilidad de que una sustancia química peligrosa cause daño a la
+         salud de los trabajadores o al centro de trabajo.
+    q) sustancias combustibles: son aquellas en estado sólido o líquido con un punto d e inflamación
+         mayor a 37.8°C.
+    r)   sustancias corrosivas: son aquéllas en estado sólido, líquido o gaseoso que causan
+         destrucción o alteraciones irreversibles en el tejido vivo por acción química en el sitio de
+         contacto.
+    s)   sustancias explosivas: son aquéllas en estado sólido, líquido o gaseoso que, por un
+         incremento de temperatura o presión sobre una porción de su masa, reaccionan
+         repentinamente, generando altas temperaturas y presiones sobre el medio ambiente
+         circundante.
+    t)   sustancias inflamables: son aquéllas en estado sólido, líquido o gaseoso con un punto de
+         inflamación menor o igual a 37.8ºC, que prenden fácilmente y se queman rápidamente,
+         generalmente de forma violenta.
+    u) sustancias irritantes: son aquéllas en estado sólido, líquido o gaseoso que caus an un efecto
+         inflamatorio reversible en el tejido vivo por acción química en el sitio de contacto.
+    v)   sustancias químicas peligrosas: son aquéllas que por sus propiedades físicas y químicas al
+         ser manejadas, transportadas, almacenadas o procesadas, presentan la posibilidad de
+         inflamabilidad, explosividad, toxicidad, reactividad, radiactividad, corrosividad o acción biológica
+         dañina, y pueden afectar la salud de las personas expuestas o causar daños a instalaciones y
+         equipos.
+    w) sustancias reactivas: son aquéllas que presentan susceptibilidad para liberar energía.
+    x)   sustancias tóxicas: son aquéllas en estado sólido, líquido o gaseoso que pueden causar
+         trastornos estructurales o funcionales que provoquen daños a la salud o la muerte si son
+         absorbidas, aun en cantidades relativamente pequeñas por el trabajador.
+    y)   ventilación: es el sistema de inyección y extracción de aire, por medios naturales o artificiales,
+         mediante el cual se pueden modificar las condiciones del aire del medio ambiente laboral en
+         cuanto a concentración de contaminantes, temperatura y humedad.
+    5. Obligaciones del patrón
+    5.1 Mostrar a la autoridad del trabajo, cuando así lo solicite, los documentos que la presente Norma
+le obligue a elaborar.
+   4   (Primera Sección)                       DIARIO OFICIAL                      Martes 2 de febrero de 1999
+
+    5.2 Elaborar y mantener actualizado, en cuanto a los cambios de procesos o sustancias químicas
+peligrosas presentes en el centro de trabajo, un estudio para analiza r los riesgos potenciales de
+sustancias químicas peligrosas conforme a lo establecido en el apartado 7.1.
+    5.3 Elaborar y mantener actualizados los manuales de procedimientos para el manejo, transporte y
+almacenamiento seguro de sustancias químicas peligros as, en los cuales se debe incluir la
+identificación de los recipientes.
+    5.4 Con base en los resultados del estudio para analizar el riesgo potencial debe contarse con la
+cantidad suficiente de regaderas, lavaojos, neutralizadores e inhibidores en las zonas de riesgo, para la
+atención de casos de emergencia.
+    5.5 Con base en los resultados del estudio para analizar el riesgo potencial, donde por la actividad
+laboral el depósito de sustancias químicas peligrosas en la piel o en la ropa del trabajador pueda ser un
+riesgo para la salud, debe contarse con la cantidad suficiente de regaderas, vestidores y casilleros para
+los trabajadores y proporcionar, en su caso, el servicio de limpieza de la ropa.
+    5.6 Con base en los resultados del estudio para analizar el riesgo potencial, debe contar con un
+manual de primeros auxilios en el cual se deben definir los medicamentos y materiales de curación que
+requiere el centro de trabajo y los procedimientos para la atención de emergencias médicas; se puede
+tomar como referencia la guía de referencia que se incluye al final de la presente Norma.
+    5.7 Proporcionar los medicamentos y materiales de curación necesarios para prestar los primeros
+auxilios, conforme al apartado 5.6.
+    5.8 Asignar, capacitar y adiestrar al personal para prestar los primeros auxilios.
+    5.9 Proporcionar el equipo de protección personal, conforme al estudio para analizar el riesgo
+potencial y a lo establecido en la NOM-017-STPS-1993.
+    5.10 Disponer de instalaciones, equipo o materiales para contener las sustancias químicas
+peligrosas, para que en el caso de derrame de líquidos o fuga de gases, se impida su escurrimiento o
+dispersión.
+    5.11 Establecer por escrito las actividades peligrosas y operaciones en espacios confinados que
+entrañen exposición a sustancias químicas peligrosas y que requieran autorización para ejecutarse, y
+elaborar el procedimiento de autorización de acuerdo a lo establecido en el apartado 7.2.
+    5.12 Elaborar un Programa Especifico de Seguridad e Higiene para el Manejo, Transporte y
+Almacenamiento de Sustancias Químicas Peligrosas, conforme a lo establecido en el capítulo 8.
+    5.13 Capacitar y adiestrar a los trabajadores en el Programa Específico de Seguridad e Higiene para
+el Manejo, Transporte y Almacenamiento de Sustancias Químicas Peligrosas.
+    5.14 Contar con un programa de mantenimiento preventivo de la maquinaria, equipo e instalaciones.
+    5.15 Elaborar y mantener durante al menos doce meses, un registro del mantenimiento correctivo y
+preventivo que se aplique al equipo, indicando cuándo se aplicó.
+    5.16 Comunicar a los trabajadores los riesgos a los que estén expuestos.
+    5.17 Que se practiquen exámenes médicos de ingreso, periódicos y especiales a los trabajadores
+que estén expuestos a las sustancias químicas peligrosas.
+    6. Obligaciones de los trabajadores
+    6.1 Cumplir con las medidas de seguridad establecidas por el patrón.
+    6.2 Participar en la capacitación y adiestramiento proporcionado por el patrón.
+    6.3 Cumplir con las ins trucciones de uso y mantenimiento del equipo de protección personal
+proporcionado por el patrón.
+    6.4 Participar en las brigadas de respuesta a emergencia.
+    6.5 Someterse a los exámenes médicos que correspondan según la actividad que desempeñen y
+que el patrón indique.
+    7. Requisitos administrativos
+    7.1 El estudio para analizar el riesgo potencial debe realizarse tomando en consideración lo
+siguiente:
+    a)    las características de los procesos de trabajo;
+    b) las propiedades físicas, químicas y toxicológicas de las sustancias químicas peligrosas;
+    c)    el grado y tipo de riesgo de las sustancias, conforme a lo establecido en la NOM-114-STPS-
+          1994;
+    d) las actividades peligrosas y los trabajos en espacios confinados,
+    e)    las zonas de riesgo del centro de trabajo y el número de trabajadores expuestos en cada zona.
+    7.2 Procedimiento de autorización para realizar las actividades peligrosas. Se debe elaborar un
+documento que contenga:
+   Martes 2 de febrero de 1999                 DIARIO OFICIAL                          (Primera Sección)   5
+
+   a)    descripción de la actividad;
+   b)    nombre del trabajador a efectuar la actividad;
+   c)    lugar en donde se realizará la actividad;
+   d)    hora y fecha programadas para el inicio y terminación de la actividad;
+   e)    equipo de protección personal a utilizar;
+   f)    nombre y firma del responsable de la autorización;
+   g)    nombre y firma del responsable del área en donde se realizará la actividad peligrosa, quien
+         vigilará esta actividad;
+    h) nombre y firma de enterado del responsable de mantenimiento,
+    i)   anexar el procedimiento seguro para realizar la actividad.
+    8. Programa específico de seguridad e higiene para el manejo, transporte y almacenamiento de
+sustancias químicas peligrosas
+    Este programa debe contener lo siguiente:
+    a)   las hojas de datos de seguridad de todas las sustancias químicas que se manejen,
+         transporten o almacenen en el centro de trabajo, de conformidad con lo establecido en la NOM-
+         114-STPS-1994;
+    b) los procedimientos de limpieza y orden;
+    c)   las cantidades máximas de las sustancias que se pueden tener en el área de producción, en
+         base al estudio para analizar el riesgo potencial;
+    d) el tipo del equipo de protección personal específico al riesgo;
+    e)   el procedimiento de limpieza, desinfección o neutralización de las ropas y equipo de protección
+         que pudieran contaminarse con sustancias químicas peligrosas, cuando el estudio para
+         analizar el riesgo potencial así lo indique;
+    f)   la prohibición de ingerir alimentos y bebidas en las áreas de trabajo;
+    g) el plan de emergencia en el centro de trabajo, que debe contener lo siguiente:
+         1)    los procedimientos de seguridad en caso de fuga, derrame, emanaciones o incendio;
+         2)    el manual de primeros auxilios conforme a lo establecido en el apartado 5.6;
+         3)    el procedimiento para evacuación;
+         4)    los procedimientos para volver a condiciones normales,
+         5)    los procedimientos p ara rescate en espacios confinados.
+    h) la prohibición de fumar y utilizar flama abierta en las áreas donde esto represente un riesgo,
+    i)   los procedimientos seguros para realizar las actividades peligrosas y trabajos en espacios
+         confinados.
+    9. Requisitos generales
+    9.1 En base al estudio para analizar el riesgo potencial, se deben colocar las señales, avisos,
+colores e identificación de fluidos conducidos en tuberías conforme a lo establecido en las NOM-026-
+STPS-1993, NOM-027-STPS-1993 y NOM-028-STPS-1993.
+    9.2 El llenado de los recipientes que contengan sustancias químicas peligrosas en estado líquido a
+presión atmosférica, debe hacerse máximo hasta el noventa por ciento de su capacidad, para lo cual se
+debe contar con un dispositivo de lectura del nivel de llenado.
+    9.3 Los recipientes portátiles sujetos a presión que contengan sustancias químicas peligrosas
+deben:
+    a)   contar con válvulas y manómetros; la lectura de la presión de operación en el manómetro debe
+         estar por debajo de la presión máxima de trabajo,
+    b) tener indicada la presión máxima de trabajo.
+    Se exceptúan del cumplimiento de este apartado los extintores y aerosoles.
+    9.4 Los recipientes fijos de almacenamiento de sustancias químicas peligrosas deben contar con
+cimentaciones a prueba de fuego.
+    9.5 Las tuberías y recipientes fijos que contengan sustancias químicas peligrosas deben contar con
+sistemas que permitan interrumpir el flujo de dichas sustancias.
+    9.6 Se debe contar con zonas específicas para el almacenamiento de las sustancias químicas
+peligrosas.
+    9.7 Se deben identificar los recipientes que contengan sustancias químicas peligrosas conforme a lo
+establecido en la NOM-114-STPS-1994.
+    9.8 Los recipientes con sustancias químicas peligrosas deben permanecer cerrados mientras no
+estén en uso.
+   6   (Primera Sección)                        DIARIO OFICIAL                      Martes 2 de febrero de 1999
+
+    9.9 En las áreas donde por el tipo de actividad no exista exposición frecuente de los trabajadores a
+sustancias químicas peligrosas, se debe vigilar que la concentración de éstas en el medio ambiente
+laboral no generen una atmósfera explosiva. Cuando un trabajador tenga que entrar a una de estas
+áreas, se deben tomar medidas para controlar la exposición del trabajador.
+    9.10 Para trabajos en espacios confinados, se debe cumplir con lo siguiente:
+    a)    elaborar el procedimiento de autorización conforme a lo establecido en el apartado 7.2;
+    b) llevar a cabo el bloqueo de energía, maquinaria y equipo relacionado con el espacio confinado
+          donde se hará el trabajo, y colocar tarjetas de seguridad que indiquen la prohibición de usarlos
+          mientras se lleva a cabo el trabajo;
+    c)    se debe monitorear constantemente el interior para verificar que la atmósfera cumpla con las
+          condiciones siguientes:
+          1)   que el contenido de oxígeno esté entre 19.5% y 23.5%; en caso contrario se deben tomar
+               las medidas pertinentes, tanto para el uso de equipo de protección respiratoria con
+               suministro de aire, como para la realización de actividades en atmósferas no respirables;
+          2)   la concentración de gases o vapores inflamables no debe ser superior en ningún
+               momento al 20% del valor del límite inferior de inflamabilidad;
+               Ejemplo: El ácido fórmico tiene un límite inferior de inflamabilidad de 18 en una relación
+               volumen/volumen, por lo que 3.6 es el valor que no debe ser superado.
+          3)   la concentración de sustancias químicas peligrosas no debe exceder los límites máximos
+               permisibles de exposición establecidos en la NOM-010-STPS-1993, de lo contrario se
+               deben aplicar las medidas de control establecidas en esa norma,
+          4)   las lámparas que se utilicen para iluminar un espacio confinado, deben ser de uso rudo, a
+               prueba de explosión.
+    d) siempre que el trabajador ingrese a realizar labores en un espacio confinado, deberá ser
+          estrechamente vigilado por el responsable del área o por una persona capacitada para esta
+          función, además debe utilizar un arnés y cuerda resistente a las sustancias químicas que se
+          encuentren en el espacio confinado, con longitud suficiente para poder maniobrar dentro del
+          área y ser utilizada para rescatarlo en caso de ser necesario.
+    9.11 Cuando se cuente con un sistema de ventilación artificial, és te debe operarse bajo un programa
+de mantenimiento y supervisión de funcionamiento.
+    10. Requisitos de seguridad e higiene para el manejo, transporte y almacenamiento de sustancias
+inflamables o combustibles
+    10.1 En las áreas del centro de trabajo donde se manejen, transporten o almacenen estas
+sustancias, las paredes, pisos, techos, instalaciones y cimentaciones deben ser de materiales
+resistentes al fuego.
+    10.2 Del manejo.
+    10.2.1 Se prohíbe el uso de herramientas, ropa, zapatos y objetos personales que puedan generar
+chispa, flama abierta o temperaturas que puedan provocar ignición.
+    10.2.2 El trasvase de sustancias inflamables o combustibles debe realizarse con la ventilación o
+aislamiento del proceso suficiente para evitar la presencia de atmósferas explosivas.
+    10.3 Del almacenamiento.
+    10.3.1 Las áreas destinadas para este fin deben estar aisladas de cualquier fuente de calor o
+ignición.
+    10.3.2 Los recipientes fijos donde se almacenen estas sustancias deben contar con dispositivos de
+relevo de presión y arrestador de flama.
+    10.4 Del transporte.
+    10.4.1 Los sistemas de tuberías que conduzcan estas sustancias y que estén expuestos a que el
+tránsito normal de trabajadores o equipo los pueda dañar, deben contar con protección para evitar que
+sean dañados. Esta protección no debe impedir la revisión y el mantenimiento de dichos sistemas de
+tuberías;
+    10.4.2 Cuando el transporte se realice en recipientes portátiles, éstos deberán estar cerrados.
+    11. Requisitos de seguridad e higiene para el manejo, transporte y almacenamiento de sustancias
+explosivas
+    11.1 Del manejo.
+    11.1.1 Se debe elaborar un manual de procedimientos para el manejo seguro de explosivos, el cual
+debe establecer al menos lo siguiente:
+   Martes 2 de febrero de 1999                  DIARIO OFICIAL                           (Primera Sección)   7
+
+   a)    la instrucción de suspender las labores cuando se aproxime una tormenta eléctrica o
+         tempestad;
+    b) se prohíbe el uso de herramientas, ropa, zapatos y objetos personales que puedan generar
+         calor, descargas estáticas, chispa o flama abierta e introducir cualquier dispositivo electrónico
+         que genere radiofrecuencia;
+    c)   las sustancias explosivas deben ser manejadas exclusivamente por personal capacitado y
+         autorizado por el patrón;
+    d) antes de llevar a cabo las voladuras se debe verificar que:
+         1)    se instale y opere una sirena de alerta, con un alcance superior a los 500 metros
+               alrededor del sitio donde se efectuará la voladura, con el fin de advertir del peligro a
+               cualquier persona que se encuentre en el perímetro de este sitio. Esta sirena deberá
+               operar continuamente 10 minutos antes de que inicie la disparada y 10 minutos después
+               de que se dispare el último barreno;
+         2)    se haya alejado a todos los trabajadores de la zona de la voladura;
+         3)    se haya apostado personal en todos los puntos de acceso al lugar donde se va a efectuar
+               la voladura, con el fin de evitar el acceso de cualquier persona,
+         4)    todos los trabajadores hayan alcanzado refugio seguro.
+    e)   queda prohibido volver al lugar donde se realizó la voladura hasta que personal capacitado
+         revise que la zona se encuentra en condiciones de seguridad e higiene, y se dé la autorización
+         para regresar a dicha zona;
+    f)   si hay indicios de falla en la disparada de algún barreno, los trabajadores no deben regresar a
+         sus actividades hasta que el personal autorizado y capacitado localice todos los barrenos que
+         no detonaron y se tomen las medidas de seguridad necesarias;
+    g) cuando se requiera usar explosivos primarios y secundarios, el manejo debe hacerse por
+         separado y sólo se juntarán cuando la operación lo requiera;
+    h) los explosivos que, por su inestabilidad representen riesgos de iniciación, deben manejarse en
+         estado húmedo;
+    i)   en el interior de los locales destinados al almacenamiento de sustancias explosivas solo debe
+         encontrarse personal autorizado y bajo control;
+    j)   únicamente los trabajadores autorizados por el patrón pueden tener acceso al interior de los
+         locales destinados al almacenamiento de susta ncias explosivas;
+    k)   los vehículos que entren al área del polvorín para cargar o descargar sustancias explosivas, lo
+         harán con matachispas en el tubo de escape y cinta conductora para la descarga de la
+         electricidad estática.
+    11.2 Del almacenamiento.
+    11.2.1 Los polvorines deben tener delimitadas las áreas de tránsito para que se permita la maniobra
+de estiba, desestiba y manejo de estas sustancias.
+    11.2.2 La operación del polvorín debe estar dirigida por una persona autorizada que conozca y
+aplique los procedimientos de operación y las medidas de seguridad.
+    11.2.3 El polvorín debe mantenerse controlado con respecto a limpieza, temperatura y ventilación.
+    11.2.4 Cuando se realicen trabajos en polvorines, se debe utilizar equipo de protección personal
+consistente en:
+    a)   ropa de algodón 100% con acabado antiestático;
+    b) ropa interior de algodón 100%,
+    c)   calzado de protección con suela conductiva y sin partes metálicas.
+    11.3 Del transporte.
+    11.3.1 Debe realizarse exclusivamente por personal debidamente capacitado y autorizado por el
+patrón.
+    11.3.2 Debe llevarse a cabo mediante equipos o sistemas de seguridad que eviten la explosión por
+golpe, chispa o calentamiento.
+    12. Requisitos de seguridad e higiene para el transporte y almacenamiento de sustancias
+corrosivas, irritantes o tóxicas
+    12.1 El almacenamiento de sustancias corrosivas, irritantes o tóxicas debe hacerse en recipientes
+específicos, de materiales compatibles con la sustancia de que se trate.
+    12.2 Cuando el transporte de sustancias corrosivas, irritantes o tóxicas en los centros de trabajo se
+realice a través de un sistema de tuberías o recipientes portátiles, éstos deben estar cerrados para evitar
+que su contenido se derrame o fugue.
+   8   (Primera Sección)                         DIARIO OFICIAL                        Martes 2 de febrero de 1999
+
+    13. Vigilancia
+    La vigilancia del cumplimiento de la presente Norma corresponde a la Secretaría del Trabajo y
+Previsión Social.
+    14. Bibliografía
+    Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, título II, capítulo VI, título III,
+capítulo III. Publicado en el Diario Oficial de la Federación el 21 de enero de 1997, México.
+    15. Concordancia con normas internacionales
+    Esta Norma no concuerda con ninguna norma internacional, por no existir referencia alguna al
+momento de su elaboración.
+                                                 TRANSITORIOS
+    PRIMERO.- La presente Norma entra en vigor a los sesenta días posteriores a su publicación en el
+Diario Oficial de la Federación.
+    SEGUNDO.- Durante el lapso señalado en el artículo anterior, los patrones cumplirán con las normas
+oficiales mexicanas NOM-005-STPS-1993, Relativa a las condiciones de seguridad e higiene en los
+centros de trabajo para el almacenamiento, transporte y manejo de sustancias inflamables y
+combustibles; NOM-008-STPS-1993, Relativa a las condiciones de seguridad e higiene para la
+producción, almacenamiento y manejo de explosivos en los centros de trabajo; NOM-009-STPS-1993,
+Relativa a las condiciones de seguridad e higiene para el almacenamiento, transporte y manejo de
+sustancias corrosivas, irritantes y tóxicas en los centros de trabajo; NOM-018-STPS-1993, Relativa a los
+requerimientos y características de los servicios de regaderas, vestidores y casilleros en los centros de
+trabajo, y NOM-020-STPS-1993, Relativa a los medicamentos, materiales de curación y personal que
+presta los primeros auxilios en los centros de trabajo, o bien realizarán las adaptaciones para observar
+las disposiciones de la presente Norma Oficial Mexicana y, en este último caso, las autoridades
+laborales proporcionarán, a petición de los patrones interesados, asesoría y orientación para
+instrumentar su cumplimiento, sin que los patrones se hagan acreedores a sanciones por el
+incumplimiento de las normas en vigor.
+    TERCERO.- A la entrada en vigor de la presente Norma, se cancelan las siguientes normas ofi ciales
+mexicanas:
+    NOM-008-STPS-1993, Relativa a las condiciones de seguridad e higiene para la producción,
+almacenamiento y manejo de explosivos en los centros de trabajo, publicada en el Diario Oficial de la
+Federación el 3 de diciembre de 1993.
+    NOM-009-STPS-1993, Relativa a las condiciones de seguridad e higiene para el almacenamiento,
+transporte y manejo de sustancias corrosivas, irritantes y tóxicas en los centros de trabajo, publicada en
+el Diario Oficial de la Federación el 13 de junio de 1994.
+    NOM-018-STPS-1993, Relativa a los requerimientos y características de los servicios de regaderas,
+vestidores y casilleros en los centros de trabajo, publicada en el Diario Oficial de la Federación el 6 de
+diciembre de 1993.
+    NOM-020-STPS-1993, Relativa a los medicamentos, materiales de curación y personal que presta
+los primeros auxilios en los centros de trabajo, publicada en el Diario Oficial de la Federación el 24 de
+mayo de 1994.
+    Sufragio Efectivo. No Reelección.
+    México, Distrito Federal, a los quince días del mes de diciembre de mil novecientos noventa y ocho.-
+El Secretario del Trabajo y Previsión Social, José Antonio González Fernández.- Rúbrica.
+                          GUIA DE REFERENCIA BOTIQUIN DE PRIMEROS AUXILIOS
+    El contenido de esta guía es un complemento para la mejor comprensión de la Norma y no es de
+cumplimiento obligatorio. Está basado en el Manual de Primeros Auxilios de la Cruz Roja Mexicana.
+    Botiquín: Es el conjunto de materiales, equipo y medicamentos que se utilizan para aplicar los
+               primeros auxilios a una persona que ha sufrido un accidente o una enfermedad repentina.
+    TIPOS DE BOTIQUIN:
+    El tipo de botiquín será de acuerdo al tipo de actividad que se vaya a desarrollar o al sitio en el que se
+encuentra.
+    CARACTERISTICAS
+    Como características importantes para el botiquín se mencionarán: de fácil transporte, visible y de
+fácil acceso, que sea identificable con una cruz roja visible, de peso no excesivo, sin candados o
+dispositivos que dificulten el acceso a su contenido y con un listado del contenido.
+    CUIDADOS
+    Se recomiendan los cuidados siguientes:
+   Martes 2 de febrero de 1999                DIARIO OFICIAL                         (Primera Sección)   9
+
+   a)     que se encuentre en un lugar fresco y seco;
+   b) que el instrumental se encuentre limpio;
+   c)     que los frascos estén cerrados y de preferencia que sean de plástico;
+   d) que los medicamentos no hayan caducado,
+   e)     que el material se encuentre ordenado.
+   Si se cuenta con instrumental quirúrgico como: tijeras, pinzas o agujas, debe estar empacado éste,
+ya sea en pequeños paños de tela o en papel absorbente y etiquetado con el nombre del i nstrumental
+que contiene.
+   El material que conforma el botiquín se puede clasificar de la siguiente manera:
+   a)     material seco;
+   b) material líquido;
+   c)     instrumental;
+   d) medicamentos,
+   e)     material complementario.
+   Se debe tener en cuenta que la cantidad de material ha de ser la adecuada con respecto al uso al
+que se le vaya a destinar y a las posibilidades económicas con que se cuente. Todo el material que se
+menciona es básico y debe existir en cualquier botiquín.
+   MATERIAL SECO
+   El material seco es aquél que por sus características debe permanecer en ese estado, éste
+comprende los siguientes elementos:
+   a)     torundas de algodón;
+   b) gasas de 5 x 5 cm.;
+   c)     compresas de gasa de 10 x 10 cm.;
+   d) tela adhesiva;
+   e)     vendas de rollo elásticas de 5 cm. x 5 m.;
+   f)     vendas de rollo elásticas de 10 cm. x 5m.;
+   g) vendas de gasa con las mismas dimensiones que las dos anteriores;
+   h) venda de 4, 6 u 8 cabos;
+   i)     abatelenguas;
+   j)     apósitos de tela o vendas adhesivas,
+   k)     venda triangular.
+   MATERIAL LIQUIDO
+   Comprende las siguientes soluciones:
+   a)     benzal;
+   b) tintura de yodo, conocida como “isodine espuma”;
+   c)     jabón neutro, de preferencia líquido;
+   d) vaselina;
+   e)     alcohol,
+   f)     agua hervida o estéril.
+   Como se mencionó, las anteriores soluciones deben estar de preferencia en recipientes plásticos,
+con torundas en cantidad regular y etiquetados cada uno para hacer más fácil su uso.
+   INSTRUMENTAL
+   El instrumental puede estar conformado de la siguiente manera:
+   a)     tijeras rectas y tijeras de botón;
+   b) pinzas de Kelly rectas;
+   c)     pinzas de disección sin dientes;
+   d) termómetro;
+   e)     ligadura de hule,
+   f)     jeringas desechables de 3.5 y 10 ml. con sus respectivas agujas.
+   MEDICAMENTOS
+   Este material queda a criterio del médico responsable del servicio de urgencias y se usará bajo
+estricto control del médico.
+   MATERIAL COMPLEMENTARIO
+   Es aquél que puede o no formar parte del botiquín o que por su uso requiera de material específico,
+por ejemplo: para excursionistas es conveniente incluir suero antialacrán o antídoto para mordedura de
+serpiente.
+   Algunos elementos que se pueden incluir son:
+10   (Primera Sección)                         DIARIO OFICIAL   Martes 2 de febrero de 1999
+
+a)     linterna de mano;
+b)     piola;
+c)     guantes de cirujano;
+d)     ligadura de cordón umbilical;
+e)     estetoscopio y esfignomanómetro;
+f)     tablillas para enferular, de madera o cartón;
+g)     una manta;
+h)     repelente para moscos;
+i)     isopos de algodón,
+j)     lápiz y papel.
+

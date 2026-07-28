@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
+  "kind": "nom",
+  "designation": "NOM-005-STPS-1998",
+  "official_title": "Relativa a las condiciones de seguridad e higiene en los centros de trabajo para el manejo, transporte y almacenamiento de sustancias químicas peligrosas",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "sustancias químicas peligrosas",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "1999-02-02",
+  "effective_date": "1999-04-03",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-005-STPS-1993"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2019-06-27",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-005-STPS-1998_2019_ultima_revision.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/005stps.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=4943543&fecha=02/02/1999",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-005-STPS-1998/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T16:45:00Z",
+  "source_sha256": "bd22d5692b7aa5aa956ff07c83d78efc414c9cadf84ca1337d56ae055276bd54",
+  "extracted_text_sha256": "b9f520bfc938b498674aec1bf8f3b2027dad7cd025f2e5b43fa9e2b1c36222d0",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

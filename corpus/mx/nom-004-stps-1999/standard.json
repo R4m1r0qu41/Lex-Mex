@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+  "kind": "nom",
+  "designation": "NOM-004-STPS-1999",
+  "official_title": "Sistemas de protección y dispositivos de seguridad en la maquinaria y equipo que se utilice en los centros de trabajo",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "maquinaria y equipo",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "1999-05-31",
+  "effective_date": "1999-07-30",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-004-STPS-1993"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2019-10-18",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-004-STPS-1999_2019_ultima_revision.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/004stps.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=4948965&fecha=31/05/1999",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-004-STPS-1999/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T16:45:00Z",
+  "source_sha256": "33c30885f2a8eafb90e484aec6c6a2bcebdc0829d8139618c8a66af7bbcf8d6e",
+  "extracted_text_sha256": "999fe4166e42da7388c1fd07eb29a231f2c00df092178ac28d1a93a71251398e",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

@@ -34,17 +34,17 @@ it.
 
 | NOM | Status |
 |---|---|
-| NOM-001-STPS-2008 | not_started |
-| NOM-004-STPS-1999 | not_started |
-| NOM-005-STPS-1998 | not_started |
+| NOM-001-STPS-2008 | ingested (86 clauses, 3 transitories) |
+| NOM-004-STPS-1999 | ingested (12 clauses, 3 transitories) |
+| NOM-005-STPS-1998 | ingested (72 clauses, 3 transitories) |
 | NOM-006-STPS-2023 | not_started |
-| NOM-009-STPS-2011 | not_started |
+| NOM-009-STPS-2011 | ingested (155 clauses, 3 transitories) |
 | NOM-010-STPS-2014 | not_started |
 | NOM-011-STPS-2001 | not_started |
 | NOM-015-STPS-2001 | not_started |
 | NOM-017-STPS-2024 | not_started |
 | NOM-018-STPS-2015 | not_started |
-| NOM-019-STPS-2011 | not_started |
+| NOM-019-STPS-2011 | flagged — see `docs/ingestion-difficulty-log.md` (`annex-form-numbering`) |
 | NOM-020-STPS-2011 | not_started |
 | NOM-022-STPS-2015 | not_started |
 | NOM-024-STPS-2001 | not_started |

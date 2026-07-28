@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-001-stps-2008",
+  "kind": "nom",
+  "designation": "NOM-001-STPS-2008",
+  "official_title": "Edificios, locales, instalaciones y áreas en los centros de trabajo-Condiciones de seguridad",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "edificios e instalaciones",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2008-11-24",
+  "effective_date": "2009-01-23",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-001-STPS-1999"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2024-02-27",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-001-STPS-2008_2024_ultima_revision.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/001stps2008.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5069976&fecha=24/11/2008",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-001-STPS-2008/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T16:45:00Z",
+  "source_sha256": "3081393255062223222177886591a659d8d4af5de5db78eec0a4a62c11655142",
+  "extracted_text_sha256": "c0449589c35681623ab9de5d8ad2f66d8bdd4c736c5efd0602ce299454ec4def",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

@@ -52,23 +52,62 @@ packet-based review policy.
   review result vs. an actual successor) that need a judgment call before
   `standard-metadata.json` can be written correctly (see NOM-187's
   2023-record handling, `nom-register.md`).
+- `annex-form-numbering` — a numbered fill-in-form annex (a "Guía de
+  Referencia"-style annex/format with fields like `1.`, `1.1`, `2.`, `2.1`
+  ...) out-competes the standard's real numbered body for the clause
+  parser's run-selection heuristic (see the log entry below for the
+  mechanism).
 
 Add a new class here the first time it's seen; do not invent a class for a
 single one-off unless it plausibly recurs.
 
 ## Log
 
-*(empty — no instrument has been held out yet under this policy. Entries
-below follow this shape:)*
+### nom-019-stps-2011 — annex-form-numbering — 2026-07-28
 
-```
-### <instrument-id> — <failure class> — <date flagged>
+What's difficult: `parse_standard_clauses` (`crates/lex-parse/src/standard.rs`)
+finds every line matching a numbered-heading regex, then picks the
+*longest consecutive run* of numbered headings starting at clause `0` or
+`1` (`numbered_body_run`, `max_by_key(|(selected, _)| selected.len())`).
+NOM-019-STPS-2011's real body has 15 top-level clauses (Objetivo, Campo de
+aplicación, ... Concordancia) plus a handful of dotted subclauses (3.1,
+4.1–4.x). But the document also carries a "Guía de Referencia I" annex —
+an investigation-report fill-in form with its own independent numbering
+(`1.` Identificación del centro de trabajo, `1.1` RAZON SOCIAL, `1.3`,
+`1.6`, `1.8`, `2.` Datos del trabajador, `2.1`, `2.3`, ... continuing
+through `4.6`). That form's field count outnumbers the real body's clause
+count, so the run-selection heuristic picks the *annex form* as "the"
+body. Result: `clauses.json` compiled to 365 entries, all validator checks
+passed (0 issues, `valid: true`), but every real substantive clause
+(Objetivo, Campo de aplicación, Obligaciones del patrón, etc.) is silently
+absent — the validator checks internal consistency of whatever run got
+selected, not whether the *right* run was selected. This is a different
+mechanism from the three signature-block-bleed fixes (2026-07-27): those
+were about a single wrong match squeezing into an otherwise-correct run;
+this is the run-selection heuristic itself choosing entirely the wrong
+run because a longer numbered sequence exists elsewhere in the same text.
 
-What's difficult: <concrete description of the actual text/structure that
-doesn't fit>.
+What was tried: downloaded and hashed the official platiica PDF
+(`019stps11.pdf`, DOF pub. 2011-04-13), extracted text with `pdftotext
+-layout`, wrote metadata, ran `standards compile` into `.work/` only (not
+copied into `corpus/`, per the hold-out policy). Confirmed via
+`grep`/manual inspection that the real 15-clause body is present in the
+extracted text and simply wasn't selected. Confirmed the mechanism, not
+just hypothesized it: the 365 selected clauses span byte offsets
+66508–111539 of a 113234-byte text — entirely inside the annex-form
+region, after both the índice (~byte 2000) and the real body (~byte
+3000). So this is genuinely the run-selection heuristic picking the wrong
+run wholesale, not the índice/real-section collision class already fixed
+for transitories on 2026-07-27 (ruled out explicitly, not assumed).
 
-What was tried: <if anything>.
-
-Status: open | closed (link to the decisions.md entry / commit that
-resolved it, and which log entries it closes)
-```
+Status: open. Not committed to `corpus/`. One remediation lead, not a
+prescription: prefer a candidate run that reaches a plausible terminal
+heading (`is_bibliography_heading` already special-cases this for the
+single-heading case; NOM-019's índice lists both "14. Bibliografía" and
+"15. Concordancia con normas internacionales" as the real body's actual
+end) over raw run length. A "bound candidates to before the first
+TRANSITORIOS marker" idea was considered and rejected: NOM-019's índice
+itself lists `TRANSITORIOS` before the annex, so cutting there would
+truncate the real body to nothing — the same índice-vs-real-section
+ambiguity Scope 1 already solved for transitories would have to be reused
+here too, not reinvented.

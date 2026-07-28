@@ -1,0 +1,37 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO.- La presente Norma Oficial Mexicana entrará en vigor a los sesenta días siguientes a su\npublicación en el Diario Oficial de la Federación.",
+    "start_char": 25172,
+    "end_char": 25319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO.- Durante el lapso señalado en el artículo anterior, los patrones cumplirán con la Norma Oficial\nMexicana NOM-022-STPS-1993, Relativa a las condiciones de seguridad en los centros de trabajo en donde\nla electricidad estática represente un riesgo, o bien realizarán las adaptaciones para observar las\ndisposiciones de la presente Norma Oficial Mexicana y, en este último caso, las autoridades del trabajo\nproporcionarán, a petición de los patrones interesados, asesoría y orientación para instrumentar su\ncumplimiento, sin que los patrones se hagan acreedores a sanciones por el incumplimiento de la Norma\nen vigor.",
+    "start_char": 25324,
+    "end_char": 25946
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "ordinal": "TERCERO",
+    "text": "TERCERO.- Con la entrada en vigor de la presente Norma se cancelan las siguientes normas oficiales\nmexicanas: NOM-107-STPS-1994, Prevención técnica de accidentes en máquinas y equipos que operan en\nlugar fijo-seguridad mecánica y térmica-terminología, publicada en el Diario Oficial de la Federación el 12 de\nenero de 1996; NOM-108-STPS-1994, Prevención técnica de accidentes en máquinas y equipos, diseño o\nadaptación de los sistemas y dispositivos de protección, riesgos en función de los movimientos mecánicos,\npublicada en el Diario Oficial de la Federación el 16 de enero de 1996; NOM-109-STPS-1994, Prevención\ntécnica de accidentes en máquinas que operan en lugares fijos-Protectores y dispositivos de seguridad, tipos y\ncaracterísticas, publicada en el Diario Oficial de la Federación el 16 de enero de 1996;\nNOM-110-STPS-1994, Seguridad en máquinas–Herramienta para taladrado, fresado y mandrilado, publicada\nen el Diario Oficial de la Federación el 11 de mayo de 1995; NOM-111-STPS-1994, Seguridad en las\nmáquinas–Herramienta denominadas máquinas de electroerosión, publicada en el Diario Oficial de\nla Federación el 22 de enero de 1996; NOM-112-STPS-1994, Seguridad en máquinas-Herramienta\ndenominadas roladoras, formadoras y curvadoras, publicada en el Diario Oficial de la Federación el 11 de\nmayo de 1995.",
+    "start_char": 25950,
+    "end_char": 27268,
+    "asserted_dates": [
+      "1996-01-12",
+      "1996-01-16",
+      "1996-01-16",
+      "1995-05-11",
+      "1996-01-22",
+      "1995-05-11"
+    ]
+  }
+]
