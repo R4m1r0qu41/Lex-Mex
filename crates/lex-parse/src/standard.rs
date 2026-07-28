@@ -95,12 +95,16 @@ pub fn parse_standard_clauses(
 /// still required for that. Returns an empty vector for a standard with no
 /// recognizable TRANSITORIOS section, which is not an error: absence is
 /// reported by the caller if it matters.
+///
+/// # Panics
+///
+/// Panics only if the line-start regex match group used internally fails to
+/// capture, which cannot happen given the regex's own construction.
 pub fn parse_standard_transitories(
     source_text: &str,
     metadata: &StandardMetadata,
 ) -> Result<Vec<StandardTransitory>> {
-    let heading_marker =
-        Regex::new(r"(?mi)^[ \t]*(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b.*\r?$")?;
+    let heading_marker = Regex::new(r"(?mi)^[ \t]*(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b.*\r?$")?;
     let ordinals = transitory_ordinals();
     let line_start = Regex::new(r"(?m)^[ \t]*(\S.*)$")?;
     // A standard's índice repeats every section heading, including
@@ -128,7 +132,9 @@ pub fn parse_standard_transitories(
     let starts = line_start
         .captures_iter(section)
         .filter_map(|captures| {
-            let line = captures.get(1).expect("group 1 always matches with the line");
+            let line = captures
+                .get(1)
+                .expect("group 1 always matches with the line");
             parse_transitory_start(line.as_str(), &ordinals)
                 .map(|(ordinal, _)| (line.start(), ordinal.to_owned()))
         })
@@ -137,8 +143,7 @@ pub fn parse_standard_transitories(
     // `\s+` (not `[ \t]+`) between tokens: `pdftotext -layout` output wraps
     // long lines, and a date phrase can fall across that wrap (".. el 1 de
     // octubre\nde 2023." is a real occurrence, not a contrived one).
-    let date_phrase =
-        Regex::new(r"(?i)(\d{1,2})[oº]?\s+de\s+([a-zá-úñ]+)\s+de\s+(\d{4})")?;
+    let date_phrase = Regex::new(r"(?i)(\d{1,2})[oº]?\s+de\s+([a-zá-úñ]+)\s+de\s+(\d{4})")?;
     let mut transitories = Vec::with_capacity(starts.len());
     for (index, (start, ordinal)) in starts.iter().enumerate() {
         let natural_end = starts.get(index + 1).map_or(section.len(), |next| next.0);
@@ -169,8 +174,7 @@ pub fn parse_standard_transitories(
 /// A closing dateline ("México, D.F., a ..." pre-2016; "Ciudad de México, a
 /// ..." after the Distrito Federal/CDMX renaming) or a `SUFRAGIO EFECTIVO`
 /// line, either of which opens a decree's signature block.
-const SIGNATURE_MARKERS: &str =
-    r"SUFRAGIO[ \t]+EFECTIVO\b|(?:CIUDAD[ \t]+DE[ \t]+)?M[ÉE]XICO,[ \t]+(?:D\.?[ \t]*F\.?,[ \t]+)?A\b";
+const SIGNATURE_MARKERS: &str = r"SUFRAGIO[ \t]+EFECTIVO\b|(?:CIUDAD[ \t]+DE[ \t]+)?M[ÉE]XICO,[ \t]+(?:D\.?[ \t]*F\.?,[ \t]+)?A\b";
 
 /// End of a section that opened at `TRANSITORIOS`-marker byte offset
 /// `section_start`: the next `APÉNDICE`/`ANEXO`/signature marker, or the
@@ -248,8 +252,8 @@ fn numbered_body_run(
 /// internal reference list is a numbered enumeration of sources, not
 /// sub-clauses, even when formatted as a numbered list.
 fn is_bibliography_heading(label: &str) -> bool {
-    let bibliografia = Regex::new(r"(?i)^bibliograf[ií]a\b")
-        .expect("bibliography-heading regex must compile");
+    let bibliografia =
+        Regex::new(r"(?i)^bibliograf[ií]a\b").expect("bibliography-heading regex must compile");
     bibliografia.is_match(label.trim_start())
 }
 
@@ -508,8 +512,7 @@ fn validate_transitories(
                 Some(transitory.id.clone()),
             ));
         }
-        if transitory.start_char >= transitory.end_char
-            || transitory.end_char > source_chars.len()
+        if transitory.start_char >= transitory.end_char || transitory.end_char > source_chars.len()
         {
             issues.push(error(
                 "standard_transitory_span",
@@ -618,7 +621,8 @@ mod tests {
         // clauses. Reproduces the real defect found compiling NOM-051's
         // retained text, where its índice occurrence (line 220) preceded
         // the real section (line 1735) and was matched first.
-        let transitories = parse_standard_transitories(INDEXED_TRANSITORIOS_SAMPLE, &metadata).unwrap();
+        let transitories =
+            parse_standard_transitories(INDEXED_TRANSITORIOS_SAMPLE, &metadata).unwrap();
         assert_eq!(
             transitories
                 .iter()
@@ -701,7 +705,11 @@ mod tests {
         );
         let bibliography = clauses.last().unwrap();
         assert_eq!(bibliography.number, "3");
-        assert!(bibliography.text.contains("Segunda referencia bibliográfica"));
+        assert!(
+            bibliography
+                .text
+                .contains("Segunda referencia bibliográfica")
+        );
         assert!(!bibliography.text.contains("TRANSITORIOS"));
         assert!(!bibliography.text.contains("ÚNICO"));
         let transitories =
@@ -751,7 +759,8 @@ mod tests {
         assert!(!clauses[6].text.contains("Sufragio"));
         assert!(!clauses[7].text.contains("México, D.F."));
         assert!(!clauses[7].text.contains("APENDICE"));
-        let transitories = parse_standard_transitories(INDEX_AND_APPENDIX_SAMPLE, &metadata).unwrap();
+        let transitories =
+            parse_standard_transitories(INDEX_AND_APPENDIX_SAMPLE, &metadata).unwrap();
         // This fixture has no TRANSITORIOS heading at all -- just a bare
         // signature/date line -- so no transitorios should be recognized.
         assert!(transitories.is_empty());
