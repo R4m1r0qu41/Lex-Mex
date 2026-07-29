@@ -439,7 +439,12 @@ distinct from `as_published`/`official_compilation`, and a retained-text
 strategy for derogation-caused span shifts. Not scoped in code; do not
 start without a fresh planning pass and operator sign-off on the trusted-
 boundary shape first — this is exactly the kind of schema/parser/validator/
-fixture change M4 requires landing together; (4) **packet-based review
+fixture change M4 requires landing together. **Decomposed 2026-07-29** into
+Stage A (clause-level amendment marks, planned in
+`docs/plans/standards-amendment-marks.md`, awaiting sign-off), Stage B
+(multi-source provenance), and Stage C (actual consolidation, which depends on
+the unresolved `transitory-absorbs-annex` defect because NOM-247's second
+decree eliminates an entire Apéndice normativo); (4) **packet-based review
 assignment**, staged 2026-07-28 (`docs/decisions.md` same date), not
 built. Once enough of `docs/plans/nom-standards-batch-2.md`'s batch is
 ingested, group canonical instruments into review packets and hand each

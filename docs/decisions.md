@@ -1,5 +1,62 @@
 # Architecture decisions
 
+## 2026-07-29 — Lex-Mex as compiler for NOMs; Scope 2 decomposed; a dangling amendment legend
+
+Operator framing, and it identifies a real asymmetry: for Cámara de Diputados
+statutes and CNBV disposiciones the publisher issues a consolidated text, so
+provenance is "hash the one file they publish." NOMs have no such file. To
+hold a current version at all, **Lex-Mex would have to do the compilation
+itself** — hashing each input document (base publication plus each
+modificatorio) rather than one source, keeping only current text, and
+annotating each modified clause with the decree that changed it, exactly the
+way Diputados and CNBV print marginal reform notes. Superseded versions would
+not be retained, only pointed at.
+
+Scope 2 is therefore decomposed into three stages with different dependencies:
+
+- **Stage A — mark, don't modify.** Parse the numerals a decree names in its
+  own title, attach them to the clauses they target with the decree's date and
+  URL. Turns `standard_unconsolidated_modification` from an instrument-level
+  warning into a clause-level one. Requires no text transformation, no new
+  text basis, and nothing from the unresolved annex defect. Planned in
+  `docs/plans/standards-amendment-marks.md`; **not started, awaiting sign-off**
+  per the M4 rule.
+- **Stage B — multi-source provenance.** `source_url`/`source_sha256` become a
+  list covering the base and every decree. A schema question, separable from
+  any text change.
+- **Stage C — actual consolidation**, asserting a `derived_consolidation` text
+  basis.
+
+**Why Stage C is not "an easy fix", stated with the counterexample.**
+NOM-247's second decree performs four distinct operations: modifies six
+numerals, *adds* 5.1.5, *eliminates* three numerals, and *eliminates Apéndice
+normativo A*. That last deletes post-transitorios material the corpus does not
+model at all and that `transitory-absorbs-annex` currently swallows into a
+transitory. A consolidation engine cannot merely substitute clause text; it
+must delete an annex it has no representation of. Stage C therefore sits on
+top of the annex decision, while Stage A does not.
+
+**The verification story changes, and must be asserted deliberately.** For a
+statute, correct means "matches the file Diputados published." For a
+compilation Lex-Mex produces there is no such file, so the guarantee becomes
+hashed inputs plus a deterministic transform yielding byte-reproducible
+output, gated on a named human review. That is defensible but is a different
+claim than the corpus makes anywhere today, and `text_basis` is where it would
+be made. It must not arrive implicitly as a side effect of Stage C.
+
+**Defect found while surveying the precedent: the amendment legend is empty
+everywhere it is used.** `amendment_marks` on a provision resolves through the
+instrument's `amendment_references` legend, and is rendered into Markdown
+frontmatter. Across nine committed CNBV instruments, **1,844 provisions carry
+marks and not one instrument has a single legend entry** (`socap-sofipo-dcg-2006`
+507, `cucb-dcg-2004` 264, `cub-dcg-2005` 260, `oaac-dcg-2009` 245,
+`scap-dcg-2012` 204, `fi-dcg-2014` 152, `cue-dcg-2003` 96, `itf-dcg-2018` 88,
+`servinv-dcg-2013` 28). A reader sees `amendment_marks: [4, 6]` with no way to
+learn what resolución 4 or 6 was. This predates the NOM question and is a
+defect on its own terms; extending the same field to standards without
+resolving it would ship a second copy of the same dead end. Not fixed here —
+recorded, and named as a prerequisite decision in the Stage A plan.
+
 ## 2026-07-29 — Reviewer data corrections; `published_designation` added
 
 Three corrections supplied by the same review, kept out of the parser commit
