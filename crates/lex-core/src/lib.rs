@@ -82,6 +82,22 @@ pub struct StandardMetadata {
     pub id: String,
     pub kind: StandardKind,
     pub designation: String,
+    /// The designation under which the retained text was actually published,
+    /// when the registry has since redesignated the instrument.
+    ///
+    /// Mexican norm prefixes track the issuing authority, and the authority is
+    /// sometimes reorganized. Where the registry redesignates, `designation`
+    /// carries the current form and this field preserves the published one:
+    /// NOM-002-SEMARNAT-1996's own text is titled NOM-002-**ECOL**-1996 and
+    /// names SEMARNAP as issuer. Where the registry keeps the historical
+    /// prefix, nothing is recorded here even though the authority was renamed
+    /// -- SCFI persists in NOM-051-SCFI/SSA1-2010 despite the Secretaría de
+    /// Comercio y Fomento Industrial becoming the Secretaría de Economía.
+    ///
+    /// Without this, a record would assert a designation appearing nowhere in
+    /// its own source text, with nothing marking the discrepancy.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub published_designation: Option<String>,
     pub official_title: String,
     pub issuing_authorities: Vec<String>,
     pub regulatory_domains: Vec<String>,

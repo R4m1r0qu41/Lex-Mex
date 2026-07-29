@@ -1,5 +1,49 @@
 # Architecture decisions
 
+## 2026-07-29 — Reviewer data corrections; `published_designation` added
+
+Three corrections supplied by the same review, kept out of the parser commit
+so a regression in one could not hide behind the others.
+
+**NOM-020-STPS-2011's recorded modification was wrong.** It cited an
+alternative-procedure acuerdo of 2014-12-09, which the reviewer identified as
+not the modification at all. The real one is the *ACUERDO de Modificación*
+signed 15 September 2015 and published in the DOF on **2015-10-19**
+(`codigo=5411988`), whose entire operative content is `ÚNICO. Se elimina el
+inciso j) del numeral 13.2`. The modification record now carries that date and
+URL. The distinction matters generally: platiica lists "procedimiento
+alternativo autorizado" records alongside real modifications, and only the
+latter make retained clause text stale.
+
+**NOM-025-STPS-2008's effective date is 2009-03-01.** Its text sets entry into
+force two months after a 2008-12-30 publication, landing on a nonexistent 30
+February; the registry's own field reads an impossible `2009-02-29`, which is
+why it was left `null` on ingestion. The reviewer supplied the governing rule:
+an obligation falling on a non-existent or non-working day moves to the next
+available working day. Recorded as a real date rather than an absence.
+
+**`published_designation` added to `StandardMetadata`.** The reviewer granted
+authority to apply a designation rename wherever the registry shows one, and
+to leave it alone where it does not — noting the asymmetry: ECOL became
+SEMARNAT, but SCFI persists in NOM-051 and NOM-187 even though the Secretaría
+de Comercio y Fomento Industrial became the Secretaría de Economía. So the
+prefix follows the *registry's* redesignation, not the authority's rename.
+
+Verified before applying rather than assumed: across all committed standards,
+every `designation` appears in its own retained text. NOM-002-SEMARNAT-1996
+would have been the first exception, since its text is titled
+NOM-002-ECOL-1996. Applying the rename silently would have broken a
+corpus-wide invariant with nothing recording it, so the optional
+`published_designation` field carries the published form and raises a
+`standard_redesignated` warning; `validate_metadata` errors if it is recorded
+when the two designations are equal, so it cannot become a general
+"former name" field. Schema, `lex-core` type, validator, test and
+`docs/standards-module.md` landed together, per the trusted-boundary rule.
+
+NOM-002-SEMARNAT-1996 is now ingested (73 clauses, 3 transitorios), closing
+the last of the six batch-2 flags that did not depend on the unresolved
+`transitory-absorbs-annex` defect.
+
 ## 2026-07-29 — A standard's normative body ends at TRANSITORIOS
 
 Reviewer-supplied domain rule, answering the batch-2 flag report: **a NOM's

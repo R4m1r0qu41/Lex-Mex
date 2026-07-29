@@ -605,6 +605,7 @@ mod tests {
             id: id.clone(),
             kind: StandardKind::Nom,
             designation: "NOM-999-TEST-2026".to_owned(),
+            published_designation: None,
             official_title: "Norma de prueba".to_owned(),
             issuing_authorities: vec!["Secretaría de Prueba".to_owned()],
             regulatory_domains: vec!["fixture".to_owned()],

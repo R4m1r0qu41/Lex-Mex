@@ -251,7 +251,23 @@ registry form and `publisher`/`issuing_authorities` set to the SEMARNAP
 form actually named in the text — an inconsistency that is itself the
 evidence this needs a decision.
 
-Status: open. Not committed to `corpus/`. Needs a reviewer decision on
-which designation is canonical, and probably a metadata field for a
-superseded/published designation distinct from the current one. Note this
-will recur: any pre-2000 ECOL-era environmental NOM has the same split.
+Status: **closed 2026-07-29 — ingested.** The reviewer granted authority to
+apply the rename where the registry shows one, and to leave the prefix alone
+where it does not — SCFI persists in NOM-051 and NOM-187 even though the
+Secretaría de Comercio y Fomento Industrial became the Secretaría de
+Economía, whereas ECOL did become SEMARNAT. So the designation follows the
+*registry's* redesignation, not the authority's rename.
+
+Verified rather than assumed, per the reviewer's "run that diff": across the
+whole committed corpus, every standard's `designation` appears in its own
+retained text. NOM-002 would have been the first exception, so applying the
+rename silently would have broken a corpus-wide invariant with nothing
+recording it. `StandardMetadata` gained an optional `published_designation`
+(schema, type, validator, test and `docs/standards-module.md` together): it
+records `NOM-002-ECOL-1996`, raises a `standard_redesignated` warning, and
+the validator errors if it is set when the two designations are equal, so it
+cannot drift into a general "former name" field.
+
+Ingested at 73 clauses, 3 transitorios — all small, no annex absorption, so
+unlike the other three it was not blocked by `transitory-absorbs-annex`. See
+`docs/decisions.md` 2026-07-29.

@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+  "kind": "nom",
+  "designation": "NOM-002-SEMARNAT-1996",
+  "published_designation": "NOM-002-ECOL-1996",
+  "official_title": "Que establece los límites máximos permisibles de contaminantes en las descargas de aguas residuales a los sistemas de alcantarillado urbano o municipal",
+  "issuing_authorities": [
+    "Secretaría de Medio Ambiente, Recursos Naturales y Pesca"
+  ],
+  "regulatory_domains": [
+    "descargas de aguas residuales",
+    "alcantarillado urbano o municipal",
+    "medio ambiente"
+  ],
+  "publication_date": "1998-06-03",
+  "effective_date": "1998-06-04",
+  "cancellation_date": null,
+  "status": "current",
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2023-07-24",
+    "result": "Modificación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-002-SEMARNAT-1996_2023_ultima_revision.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/002-ecol.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=4881304&fecha=03/06/1998",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-002-SEMARNAT-1996/",
+  "publisher": "Secretaría de Medio Ambiente, Recursos Naturales y Pesca",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "2b7b390485a78ca432d987053fcd70d83863a8196346bbb5a1612c7cb0319876",
+  "extracted_text_sha256": "6b260c8d60c6bed5440aeaedfb6eb970af0e3f815e83003a86d47b216ca7960b",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

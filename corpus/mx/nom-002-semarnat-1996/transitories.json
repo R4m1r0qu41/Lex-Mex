@@ -1,0 +1,29 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO.- A partir de la fecha de entra da en vigor de esta Norma Oficial Mexicana NOM-002 -ECOL-\n1996, el responsable de la descarga a los sistemas de alcantarillado urbano o municipal que cuente\ncon planta de tratamiento de aguas residuales está obligado a operar y mantener dicha infraestructura\nde saneamiento, cuando su descarga no cumpla con los límites máximos permisibles de esta Norma.\n    En el caso de que la calidad de la descarga que se obtenga con dicha infraestructura no cumpla\ncon los límites máximos permisibles de esta Norma, el responsable de la descarga debe presentar a\nla autoridad competente su programa de acciones u obras a realizar para cumplir en las fechas\nestablecidas en el punto 4.11 de esta Norma, según le corresponda.",
+    "start_char": 32214,
+    "end_char": 32966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO.- Las fechas de cumplimiento establecidas en la Tabl a 3 de esta Norma Oficial\nMexicana, no serán aplicables cuando se trate de instalaciones nuevas o de incrementos en la\ncapacidad o ampliación de las instalaciones existentes en fecha posterior a la entrada en vigor del\npresente instrumento, el responsable de la descarga deberá cumplir con los límites máximos\npermisibles establecidos en la presente Norma Oficial Mexicana, en un periodo no mayor de 180\n\f(ciento ochenta) días naturales posteriores al inicio de la actividad u operación del proceso generador,\ndeb iendo notificar a la autoridad competente dicha fecha.",
+    "start_char": 32971,
+    "end_char": 33600
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "ordinal": "TERCERO",
+    "text": "TERCERO.- En tanto se alcanzan las fechas de cumplimiento establecidas en la Tabla 3 y en el\ncaso de que las descargas a los sistemas de alcantarillado urbano o municipal contengan\nconcentraciones de contaminantes superiores a los límites máximos permisibles establecidos en la\npresente Norma Oficial Mexicana, el responsable de la descarga no podrá descargar concentraciones\nde contaminantes mayores a las que descargó durante los últimos tres años, de acuerdo con sus\nregistros y los informes presentados ante la autoridad competente.\n    México, Distrito Federal, a los seis días del mes de abril de mil novecientos noventa y ocho.- La\nSecretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.",
+    "start_char": 33605,
+    "end_char": 34333
+  }
+]

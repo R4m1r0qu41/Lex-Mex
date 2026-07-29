@@ -44,6 +44,10 @@
       "type": "string",
       "pattern": "^(NOM|NMX)-.+$"
     },
+    "published_designation": {
+      "type": "string",
+      "pattern": "^(NOM|NMX)-.+$"
+    },
     "official_title": { "type": "string", "minLength": 1 },
     "issuing_authorities": {
       "type": "array",

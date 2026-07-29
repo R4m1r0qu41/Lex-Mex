@@ -183,3 +183,28 @@ gains once a modifying decree's transitorios are appended.
 - Joint NOM prefixes and multiple issuing authorities remain explicit.
 - Compilation does not infer applicability, legal approval, technical
   approval, or conformity-assessment duties from publication into the corpus.
+
+## Redesignated standards
+
+A Mexican norm's prefix names its issuing authority, and authorities are
+occasionally reorganized. Two different things can follow, and only one is
+recorded:
+
+- **The registry redesignates the instrument.** NOM-002-SEMARNAT-1996's own
+  retained text is titled NOM-002-**ECOL**-1996 and names the Secretaría de
+  Medio Ambiente, Recursos Naturales y Pesca (SEMARNAP). `designation`
+  carries the current registry form and `published_designation` preserves
+  the published one, which raises a `standard_redesignated` warning. Without
+  that field the record would assert a designation appearing nowhere in its
+  own source text, silently breaking an invariant that otherwise holds for
+  every committed standard.
+- **The registry keeps the historical prefix.** SCFI persists in
+  NOM-051-SCFI/SSA1-2010 and NOM-187-SSA1/SCFI-2002 even though the
+  Secretaría de Comercio y Fomento Industrial became the Secretaría de
+  Economía. Nothing is recorded: the designation is unchanged, and only the
+  authority's name moved.
+
+`published_designation` is therefore not a general "former name" field. It
+is recorded only when the registry's designation and the published
+designation actually differ, and `validate_metadata` rejects it when the two
+are equal.

@@ -2,7 +2,7 @@
 
 - **Status date:** 2026-07-29
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 179 (151 federal corpus instruments plus 28 NOMs)
+- **Committed instruments:** 180 (151 federal corpus instruments plus 29 NOMs)
 - **Active ingestion batch:** `administration_ad2_public_service_mobility`
 - **Next checkpoint:** `lspm`
 - **Current legal reviewer:** JRH
@@ -23,22 +23,23 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 179 |
+| Instruments | 180 |
 | Articles | 33,231 |
 | Original transitory provisions | 1,240 |
 | Annexes | 29 |
-| Standard clauses | 3,555 |
-| Standard transitory provisions | 89 |
+| Standard clauses | 3,628 |
+| Standard transitory provisions | 92 |
 | Reference edges | 17,173 |
 | Unresolved reference edges | 0 |
 | Generated Markdown files | 34,651 |
 
-All 179 `validation.json` reports are valid. They contain 207 non-blocking
+All 180 `validation.json` reports are valid. They contain 208 non-blocking
 warnings: 166 non-numeric/suffixed-article notices, 16 unfrozen count
 baselines, 13 standards with substantive material after their transitorios
 section that `clauses.json` does not represent, 7 article-gap notices, 3
 warnings for official standard modifications not incorporated in the
-retained source text, and 2 suffix-order notices. Validity does not imply that temporal analysis or legal
+retained source text, 2 suffix-order notices, and 1 redesignated standard
+(NOM-002-SEMARNAT-1996, published as NOM-002-ECOL-1996). Validity does not imply that temporal analysis or legal
 review has been performed.
 
 ## Federal structural first pass
@@ -87,8 +88,9 @@ files` above is unaffected by this addition.
 The batch-2 NOM ingestion (`docs/plans/nom-standards-batch-2.md`, staged
 2026-07-28) is complete across all 27 candidates: **21 ingested, 6 held out
 and flagged.** All 21 are `as_published`; NOM-020-STPS-2011 carries the only
-new unconsolidated-modification warning (an ACUERDO de modificación of
-2014-12-09 that the retained text does not incorporate).
+new unconsolidated-modification warning (the ACUERDO de Modificación
+published 2015-10-19, eliminating inciso j) of numeral 13.2, which the
+retained text does not incorporate).
 
 The 6 flagged candidates were never compiled into `corpus/`, per the
 hold-out-and-flag policy (`docs/decisions.md` 2026-07-28). They cluster into
@@ -114,8 +116,9 @@ standard. NOM-010-STPS-2014 (206 clauses, was 950) and NOM-035-STPS-2018
 NOM-052-SEMARNAT-2005 remain held out on a *separate* pre-existing defect
 found during that work — `transitory-absorbs-annex`, where the last
 transitory swallows a trailing Guía de Referencia or table because
-`section_end_marker` does not recognize those headings. NOM-002-SEMARNAT-1996
-still awaits its designation decision.
+`section_end_marker` does not recognize those headings.
+NOM-002-SEMARNAT-1996 is ingested under the reviewer-granted redesignation
+rule, carrying `published_designation: NOM-002-ECOL-1996`.
 
 The active plan is
 [`cluster-2-federal-corpus-ingestion.md`](plans/cluster-2-federal-corpus-ingestion.md).

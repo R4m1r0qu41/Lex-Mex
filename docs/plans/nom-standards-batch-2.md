@@ -69,7 +69,7 @@ it.
 
 | NOM | Status |
 |---|---|
-| NOM-002-SEMARNAT-1996 | flagged — `metadata-ambiguity` |
+| NOM-002-SEMARNAT-1996 | ingested 2026-07-29 (73 clauses, 3 transitorios; `published_designation: NOM-002-ECOL-1996`) |
 | NOM-085-SEMARNAT-2011 | ingested (73 clauses, 5 transitories) |
 
 ## Packets (deferred, not built yet)
@@ -120,7 +120,7 @@ apéndices, anexos, tablas and guías need different extraction rules. Both
 parser defects are fixed (`docs/decisions.md` 2026-07-29), verified by
 byte-identical reparse of all 26 previously-committed standards.
 
-**23 of 27 now ingested.** NOM-010-STPS-2014 (206 clauses, was 950) and
+**24 of 27 now ingested.** NOM-010-STPS-2014 (206 clauses, was 950) and
 NOM-035-STPS-2018 (111, was 124) landed under the fix.
 
 Four remain out, for two reasons that are *not* the original flags:
@@ -130,7 +130,7 @@ Four remain out, for two reasons that are *not* the original flags:
 | NOM-019-STPS-2011 | `transitory-absorbs-annex` — TERCERO is 46,521 chars |
 | NOM-024-STPS-2001 | `transitory-absorbs-annex` — SEGUNDO is 17,094 chars |
 | NOM-052-SEMARNAT-2005 | `transitory-absorbs-annex` — TERCERO is 83,226 chars, and no PRIMERO parses |
-| NOM-002-SEMARNAT-1996 | designation decision (ECOL vs SEMARNAT) |
+| ~~NOM-002-SEMARNAT-1996~~ | **resolved and ingested** — see `docs/decisions.md` 2026-07-29 |
 
 The clause defects on the first three are fixed; what blocks them is a
 separate, pre-existing defect found during this work, where the last
@@ -148,7 +148,7 @@ marker list: some trailing material is normative (NOM-052's Listados,
 NOM-010's exposure limits) and some is explicitly non-binding (Guías de
 Referencia, "no es de cumplimiento obligatorio"), and the reviewer has
 indicated the tables and formulas likely need vision-assisted extraction
-rather than line parsing. Separately, NOM-002-SEMARNAT-1996 needs its
-designation decision; the reviewer has granted authority to apply an
-ECOL→SEMARNAT rename where the registry shows one, keeping the published
-prefix where it does not (as with SCFI).
+rather than line parsing. NOM-002-SEMARNAT-1996 is resolved and ingested: the reviewer granted
+authority to apply an ECOL→SEMARNAT rename where the registry shows one and
+keep the published prefix where it does not (as with SCFI), and the new
+`published_designation` field records the discrepancy on the record itself.

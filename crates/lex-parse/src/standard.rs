@@ -332,6 +332,36 @@ fn validate_metadata(metadata: &StandardMetadata, issues: &mut Vec<ValidationIss
             None,
         ));
     }
+    if let Some(published) = metadata.published_designation.as_deref() {
+        if !published.starts_with(prefix) {
+            issues.push(error(
+                "standard_published_designation",
+                format!(
+                    "{:?} published designation must start {prefix}",
+                    metadata.kind
+                ),
+                None,
+            ));
+        }
+        if published == metadata.designation {
+            issues.push(error(
+                "standard_published_designation",
+                "published designation is only recorded when it differs from the current \
+                 designation"
+                    .to_owned(),
+                None,
+            ));
+        } else {
+            issues.push(warning(
+                "standard_redesignated",
+                format!(
+                    "retained text was published as {published}; the registry now designates it \
+                     {}",
+                    metadata.designation
+                ),
+            ));
+        }
+    }
     if metadata.issuing_authorities.is_empty() {
         issues.push(error(
             "standard_issuing_authority",
@@ -652,11 +682,13 @@ fn warning(code: &str, message: String) -> ValidationIssue {
 
 #[cfg(test)]
 mod tests {
-    use super::{parse_standard_clauses, parse_standard_transitories, validate_standard};
+    use super::{
+        parse_standard_clauses, parse_standard_transitories, validate_metadata, validate_standard,
+    };
     use chrono::{NaiveDate, Utc};
     use lex_core::{
-        ReviewStatus, SCHEMA_VERSION, StandardKind, StandardMetadata, StandardModificationSource,
-        StandardStatus, StandardTextBasis, TechnicalReviewStatus,
+        ReviewStatus, SCHEMA_VERSION, Severity, StandardKind, StandardMetadata,
+        StandardModificationSource, StandardStatus, StandardTextBasis, TechnicalReviewStatus,
     };
 
     const SAMPLE: &str = include_str!("../../../fixtures/standards/numbered-standard-sample.txt");
@@ -674,6 +706,42 @@ mod tests {
         include_str!("../../../fixtures/standards/page-break-heading-sample.txt");
     const POST_TRANSITORIOS_ANNEX_SAMPLE: &str =
         include_str!("../../../fixtures/standards/post-transitorios-annex-sample.txt");
+
+    #[test]
+    fn a_redesignated_standard_records_its_published_designation() {
+        // Mexican norm prefixes track the issuing authority, which is
+        // occasionally reorganized. NOM-002-SEMARNAT-1996's retained text is
+        // titled NOM-002-ECOL-1996 (SEMARNAP era); the registry redesignated
+        // it. The current designation is canonical, but a record asserting a
+        // designation that appears nowhere in its own source text must say so.
+        let mut metadata = metadata();
+        metadata.designation = "NOM-002-SEMARNAT-1996".to_owned();
+        metadata.published_designation = Some("NOM-002-ECOL-1996".to_owned());
+        let mut issues = Vec::new();
+        validate_metadata(&metadata, &mut issues);
+        assert!(
+            issues
+                .iter()
+                .any(|issue| issue.code == "standard_redesignated"),
+            "expected a redesignation warning, got {issues:?}"
+        );
+        assert!(
+            !issues.iter().any(|issue| issue.severity == Severity::Error),
+            "a recorded redesignation is not an error: {issues:?}"
+        );
+
+        // Recording it when nothing was redesignated is a mistake, not a
+        // no-op: it would assert a discrepancy that does not exist.
+        metadata.published_designation = Some("NOM-002-SEMARNAT-1996".to_owned());
+        let mut issues = Vec::new();
+        validate_metadata(&metadata, &mut issues);
+        assert!(
+            issues.iter().any(|issue| {
+                issue.code == "standard_published_designation" && issue.severity == Severity::Error
+            }),
+            "expected an error when published equals current, got {issues:?}"
+        );
+    }
 
     #[test]
     fn body_heading_after_a_page_break_is_not_hidden_by_the_index() {
@@ -952,6 +1020,7 @@ mod tests {
             id: "urn:lex-mx:federal:nom:nom-999-test-2026".to_owned(),
             kind: StandardKind::Nom,
             designation: "NOM-999-TEST-2026".to_owned(),
+            published_designation: None,
             official_title: "Norma de prueba".to_owned(),
             issuing_authorities: vec!["Secretaría de Prueba".to_owned()],
             regulatory_domains: vec!["fixture".to_owned()],

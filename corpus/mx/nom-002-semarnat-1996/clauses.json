@@ -1,0 +1,732 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "1",
+    "label": "1. Objetivo y campo de aplicación",
+    "text": "1. Objetivo y campo de aplicación\n     Esta Norma Oficial Mexicana establece los límites máximos permisibles de contaminantes en las\ndescargas de aguas residuales a los sistemas de alcantarillado urbano o municipal con el fin de\nprevenir y controlar la contaminación de las aguas y bienes nacionales, así como proteger la\ninfraestructura de dichos sistemas, y es de observancia obligatoria para los responsables de dichas\ndescargas. Esta Norma no se aplica a la descarga de las aguas residuales domésticas, pluviales, ni a\nlas generadas por la industr ia, que sean distintas a las aguas residuales de proceso y conducidas por\ndrenaje separado.",
+    "start_char": 5474,
+    "end_char": 6117
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "2",
+    "label": "2. Referencias",
+    "text": "2. Referencias\n     Norma Oficial Mexicana NOM-001 -ECOL-1996, Que establece los límites máximos permisibles de\ncontaminantes en las descargas de aguas residuales en agua s y bienes nacionales, publicada en el\nDiario Oficial de la Federación el 6 de enero de 1997.\n     Norma Mexicana NMX-AA-003 Aguas residuales-Muestreo, publicada en el Diario Oficial de la\nFederación el 25 de marzo de 1980.\n     Norma Mexicana NMX -AA-004 Aguas -Determinación de sólidos sedimentables en aguas\nresiduales -Método del cono Imhoff, publicada en el Diario Oficial de la Federación el 15 de septiembre\nde 1977.\n     Norma Mexicana NMX-AA-005 Aguas-Determinación de grasas y aceites-Método de extracción\nsoxhlet, publicada en el Diario Oficial de la Federación el 8 de agosto de 1980.\n     Norma Mexicana NMX-AA-006 Aguas-Determinación de materia flotante -Método visual con malla\nespecífica, publicada en el Diario Oficial de la Federación el 5 de diciembre de 1973.\n     Norma Mexicana NMX-AA-007 Aguas -Determinación de la temperatura-Método visual con\ntermómetro, publicada en el Diario Oficial de la Federación el 23 de julio de 1980.\n     Norma Mexicana NMX-AA-008 Aguas -Determinación de pH -Método potenciométrico, publicada en el\nDiario Oficial de la Federación el 27 de octubre de 1980.\n     Norma Mexicana NMX -AA-044 Aguas-Análisis de agua-Determinación de Cromo Hexavalente-\nMétodo colorimétrico, publicada en el Diario Oficial de la Federación el 6 de enero de 1982.\n     Norma Mexicana NMX-AA-046 Aguas-Determinación de arsénico en agua, publicada en el Diario\nOficial de la Federación el 21 de abril de 1982.\n     Norma Mexicana NMX-AA-051 Aguas-Determinación de metales-Método espectrofotométrico de\nabsorción atómica, publicada en el Diario Oficial de la Federación el 22 de febrero de 1982.\n     Norma Mexicana NMX-AA-057 Aguas-Determinación de plomo-Método colorimétrico de la ditizona,\npublicada en el Diario Oficial de la Federación el 29 de septiembre de 1981.\n     Norma Mexicana NMX-AA-058 Aguas -Determinación de cianuros-Método colorimétrico y\ntitulométrico, publicada en el Diario Oficial de la Federación el 14 de diciembre de 1982.\n     Norma Mexicana NMX-AA-060 Aguas -Determinación de cadmio -Método de la ditizona, publicada en\nel Diario Oficial de la Federación el 26 de abril de 1982.\n     Norma Mexicana NMX-AA-064 Aguas-Determinación de mercurio-Método de la ditizona, publicada\nen el Diario Oficial de la Federación el 3 de marzo de 1982.\n     Norma Mexicana NMX-AA-066 Aguas -Determinación de cobre -Método de la neocuproína, publicada\nen el Diario Oficial de la Federación el 10 de marzo de 1982.\n     Norma Mexicana NMX-AA-076 Aguas-Determinación de níquel, publicada en el Diario Oficial de la\nFederación el 4 de mayo de 1982.\n     Norma Mexicana NMX-AA-078 Aguas-Determinación de zinc, publicada en el Diario Oficial de la\nFederación el 7 de diciembre de 1982.",
+    "start_char": 6123,
+    "end_char": 9009
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3",
+    "label": "3. Definiciones",
+    "text": "3. Definiciones",
+    "start_char": 9015,
+    "end_char": 9030
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.1",
+    "label": "3.1 Aguas pluviales",
+    "text": "3.1 Aguas pluviales\n     Aquéllas que provienen de las lluvias, se incluyen las que provienen de nieve y el granizo.",
+    "start_char": 9036,
+    "end_char": 9152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.2",
+    "label": "3.2 Aguas residuales",
+    "text": "3.2 Aguas residuales\n     Las aguas de composición variada provenientes de las descargas de usos municipales,\nindustriales, comerciales, de servicios, agrícolas, pecuarios, domésticos, incluyendo fraccionamientos\ny en general de cualquier otro uso, así como la mezcla de ellas.",
+    "start_char": 9158,
+    "end_char": 9435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.3",
+    "label": "3.3 Aguas residuales de proceso",
+    "text": "3.3 Aguas residuales de proceso\n\f    Las resultantes d e la producción de un bien o servicio comercializable.",
+    "start_char": 9441,
+    "end_char": 9550
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.4",
+    "label": "3.4 Aguas residuales domésticas",
+    "text": "3.4 Aguas residuales domésticas\n    Las provenientes del uso particular de las personas y del hogar.",
+    "start_char": 9555,
+    "end_char": 9655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.5",
+    "label": "3.5 Autoridad competente",
+    "text": "3.5 Autoridad competente\n    Los Gobiernos de los Estados, del Distrito Federal, y de los Municipios, por sí o a través de sus\norganismos públicos que administren el agua.",
+    "start_char": 9660,
+    "end_char": 9831
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.6",
+    "label": "3.6 Condiciones particulares para descargas al alcantarillado urbano o municipal",
+    "text": "3.6 Condiciones particulares para descargas al alcantarillado urbano o municipal\n    El conjunto de parámetros físico s, químicos y biológicos y de sus límites máximos permisibles en\nlas descargas de aguas residuales a los sistemas de alcantarillado urbano o municipal, establecidos\npor la autoridad competente, previo estudio técnico correspondiente, con el fin de prevenir y controlar la\ncontaminación de las aguas y bienes nacionales, así como proteger la infraestructura de dichos\nsistemas.",
+    "start_char": 9836,
+    "end_char": 10330
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.7",
+    "label": "3.7 Contaminantes",
+    "text": "3.7 Contaminantes\n    Son aquellos parámetros o compuestos que, en determinadas concentraciones, pueden producir\nefectos negativos en la salud humana y en el medio ambiente, dañar la infraestructura hidráulica o\ninhibir los procesos de tratamiento de las aguas residuales.",
+    "start_char": 10335,
+    "end_char": 10607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.8",
+    "label": "3.8 Descarga",
+    "text": "3.8 Descarga\n    Acción de verter aguas residuales a los sistemas de alcantarillado urbano o municipal.",
+    "start_char": 10612,
+    "end_char": 10715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.9",
+    "label": "3.9 Instantáneo",
+    "text": "3.9 Instantáneo\n    Es el valor que resulta del análisis de laboratorio a una muestra de agua residual tomada de\nmanera aleatoria o al azar en la descarga.",
+    "start_char": 10720,
+    "end_char": 10875
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.10",
+    "label": "3.10 Límite máximo permisible",
+    "text": "3.10 Límite máximo permisible\n    Valor o rango asignado a un parámetro, el cual no debe ser excedido en la descarga de aguas\nresiduales.",
+    "start_char": 10880,
+    "end_char": 11017
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.11",
+    "label": "3.11 Muestra compuesta",
+    "text": "3.11 Muestra compuesta\n    La que resulta de mezclar el número de muestras simples, según lo indicado en la especificación\n4.10 de esta Norma Oficial Mexicana.",
+    "start_char": 11022,
+    "end_char": 11181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.12",
+    "label": "3.12 Muestra simple",
+    "text": "3.12 Muestra simple\n    La que se tome en el punto de descarga, de manera continua, en día normal de operación que\nrefleje cuantitativa y cualitativamente el o los procesos más representativos de las actividades que\ngeneran la descarga, durante el tiempo necesario para completar cuando menos, el volumen\nsuficiente para que se lleven a cabo los anális is necesarios para conocer su composición, aforando el\ncaudal descargado en el sitio y en el momento del muestreo.",
+    "start_char": 11186,
+    "end_char": 11653
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.13",
+    "label": "3.13 Parámetro",
+    "text": "3.13 Parámetro\n    Variable que se utiliza como referencia para determinar la calidad física, química y biológica del\nagua.",
+    "start_char": 11658,
+    "end_char": 11781
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.14",
+    "label": "3.14 Promedio diario (P.D.)",
+    "text": "3.14 Promedio diario (P.D.)\n    Es el valor que resulta del análisis de una muestra compuesta, tomada en un día representativo del\nproceso generador de la descarga.",
+    "start_char": 11786,
+    "end_char": 11950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.15",
+    "label": "3.15 Promedio mensual (P.M.)",
+    "text": "3.15 Promedio mensual (P.M.)\n    Es el valor que resulte de calcular el promedio ponderado en función d el caudal de los valores que\nresulten del análisis de laboratorio practicados al menos a dos muestras compuestas, tomadas en\ndías representativos de la descarga en un periodo de un mes.",
+    "start_char": 11955,
+    "end_char": 12244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.16",
+    "label": "3.16 Punto de descarga",
+    "text": "3.16 Punto de descarga\n    Es el sitio seleccionado para la toma de muestr as, en el que se garantiza que fluye la totalidad de\nlas aguas residuales de la descarga.",
+    "start_char": 12249,
+    "end_char": 12413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:3-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "3.17",
+    "label": "3.17 Sistema de alcantarillado urbano o municipal",
+    "text": "3.17 Sistema de alcantarillado urbano o municipal\n    Es el conjunto de obras y acciones que permiten la prestación de un servicio público de\nalcantarillado, incluyendo el saneamiento, entendiendo como tal la conducción, tratamiento,\nalejamiento y descarga de las aguas residuales.",
+    "start_char": 12418,
+    "end_char": 12699
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4",
+    "label": "4. Especificaciones",
+    "text": "4. Especificaciones",
+    "start_char": 12704,
+    "end_char": 12723
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.1",
+    "label": "4.1 Los límites máximos permisibles para contaminantes de las descargas de aguas residuales a",
+    "text": "4.1 Los límites máximos permisibles para contaminantes de las descargas de aguas residuales a\nlos sistemas de alcantarillado urbano o municipal, no deben ser superiores a los indicados en la\nTabla 1. Para las grasas y aceites es el promedio ponderado en función del caudal, resultante de los\nanálisis practicados a cada una de las muestras simples.\n                                                 Tabla 1\n                                     LIMITES MAXIMOS PERMISIBLES\n               PARAMETROS\n  (miligramos por litro, excepto cuando       Promedio       Promedio Diario        Instantáneo\n            se especifique otra)              Mensual\n  Grasas y aceites                               50                75                   100\n\f  Sólidos sedimentables (mililitros por             5               7.5                  10\n  litro)\n  Arsénico total                                   0.5              0.75                 1\n  Cadmio total                                     0.5              0.75                 1\n  Cianuro total                                     1               1.5                  2\n  Cobre total                                      10                15                  20\n  Cromo hexavalente                                0.5              0.75                 1\n  Mercurio total                                  0.01             0.015               0.02\n  Níquel total                                      4                6                   8\n  Plomo total                                       1               1.5                  2\n  Zinc total                                        6                9                   12",
+    "start_char": 12728,
+    "end_char": 14390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.2",
+    "label": "4.2 Los límites máximos permisibles establecidos en la columna instantáneo, son únicamente",
+    "text": "4.2 Los límites máximos permisibles establecidos en la columna instantáneo, son únicamente\nvalores de referencia, en el caso de que el valor de cualquier análisis exceda el instantáneo, el\nresponsable de la descarga queda obligado a presentar a la autoridad competente en el tiempo y\nforma que establezcan los ordenamientos legales locales, los promedios diario y mensual, así como\nlos resultados de laboratorio de los análisis que los respaldan.",
+    "start_char": 14396,
+    "end_char": 14842
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.3",
+    "label": "4.3 El rango permisible de pH (potencial hidrógeno) en las descargas de aguas residuales es de",
+    "text": "4.3 El rango permisible de pH (potencial hidrógeno) en las descargas de aguas residuales es de\n10 (diez) y 5.5 (cinco punto cinco) unidades, determinado para cada una de las muestras simples. Las\nunidades de pH no deberán estar fuera del intervalo permisible, en ninguna de las muestras simples.",
+    "start_char": 14848,
+    "end_char": 15143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.4",
+    "label": "4.4 El límite máximo permisib le de la temperatura es de 40°C. (cuarenta grados Celsius), medida",
+    "text": "4.4 El límite máximo permisib le de la temperatura es de 40°C. (cuarenta grados Celsius), medida\nen forma instantánea a cada una de las muestras simples. Se permitirá descargar con temperaturas\nmayores, siempre y cuando se demuestre a la autoridad competente por medio de un estudio\ns ustentado, que no daña al sistema del mismo.",
+    "start_char": 15149,
+    "end_char": 15478
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.5",
+    "label": "4.5. La materia flotante debe estar ausente en las descargas de aguas residuales, de acuerdo al",
+    "text": "4.5. La materia flotante debe estar ausente en las descargas de aguas residuales, de acuerdo al\nmétodo de prueba establecido en la Norma Mexicana NMX -AA-006, referida en el punto 2 de esta\nNorma Oficial Mexicana.",
+    "start_char": 15484,
+    "end_char": 15697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.6",
+    "label": "4.6. Los límites máximos permisibles para los parámetros demanda bioquímica de oxígeno y",
+    "text": "4.6. Los límites máximos permisibles para los parámetros demanda bioquímica de oxígeno y\nsólidos suspendidos totales, que debe cumplir el responsable de la descarga a los sistemas de\nalcantarillado urbano o municipal, son los establecidos en la Tabla 2 de la Norma Oficial Mexicana\nNOM-001-ECOL-1996 referida en el punto 2 de esta Norma, o a las condiciones particulares de\ndescarga que corresponde cumplir a la descarga municipal.",
+    "start_char": 15703,
+    "end_char": 16134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.7",
+    "label": "4.7. El responsable de la descarga de aguas residuales a los sistemas de alcantarillado urbano o",
+    "text": "4.7. El responsable de la descarga de aguas residuales a los sistemas de alcantarillado urbano o\nmunicipal que no dé cumplimiento a lo establecido en el punto 4.6, podrá optar por remover la\ndemanda bioquímica de oxígeno y sólidos suspendidos totales, mediante el tratamiento conjunto de\nlas aguas residuales en la planta municipal, pa ra lo cual deberá de:\n     a ) Presentar a la autoridad competente un estudio de viabilidad que asegure que no se generará\n           un perjuicio al sistema de alcantarillado urbano o municipal.\n     b) Sufragar los costos de inversión, cuando así se requiera, así como los de operación y\n           mantenimiento que le correspondan de acuerdo con su caudal y carga contaminante de\n           conformidad con los ordenamientos jurídicos locales aplicables.",
+    "start_char": 16140,
+    "end_char": 16934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.8",
+    "label": "4.8. No se deben descargar o depositar en los sistemas de alcantarillado urbano o municipal,",
+    "text": "4.8. No se deben descargar o depositar en los sistemas de alcantarillado urbano o municipal,\nmateriales o residuos considerados peligrosos, conforme a la regulación vigente en la materia.",
+    "start_char": 16940,
+    "end_char": 17127
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.9",
+    "label": "4.9 La autoridad competente podrá fijar condiciones particulares de descarga a los responsables",
+    "text": "4.9 La autoridad competente podrá fijar condiciones particulares de descarga a los responsables\nde las descargas de aguas residuales a los sistemas de alcantarillad o, de manera individual o\ncolectiva, que establezcan lo siguiente:\n     c ) Nuevos límites máximos permisibles de descarga de contaminantes.\n     d) Límites máximos permisibles para parámetros adicionales no contemplados en esta Norma.\n     Dicha acción deberá estar justificada por medio de un estudio técnicamente sustentado,\npresentado por la autoridad competente o por los responsables de la descarga.",
+    "start_char": 17133,
+    "end_char": 17703
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.10",
+    "label": "4.10 Los valores de los parámetros en las descargas de aguas residuales a los sistemas de",
+    "text": "4.10 Los valores de los parámetros en las descargas de aguas residuales a los sistemas de\nalcantarillado urbano o municipal a que se refiere esta Norma, se obtendrán de análisis de muestras\ncompuestas, que resulten de la mezcla de las muestras simples, tomadas éstas en volúmenes\nproporcionales al caudal medido en el sitio y en el momento del muestreo, de acuerdo con la Tabla 2.\n                                    Tabla 2 FRECUENCIA DE MUESTREO\n        HORAS POR DIA QUE OPERA EL                  NUMERO DE            INTERVALO MAXIMO ENTRE\n         PROCESO GENERADOR DE LA                    MUESTRAS          TOMA DE MUESTRAS SIMPLES\n                   DESCARGA                          SIMPLES                     (HORAS)\n                                                                         MINIMO        MAXIMO\n\f   Menor que 4                                 Mínimo 2              -                -\n   De 4 a 8                                        4                 1               2\n   Mayor que 8 y hasta 12                          4                 2               3\n   Mayor que 12 y hasta 18                         6                 2               3\n   Mayor que 18 y hasta 24                         6                 3               4\n   Para conformar la muestra compuesta, el volumen de cada una de las muestras simples debe ser\nproporcional al caudal de la descarga en el momento de su toma y se determina mediante la siguiente\necuación:\n                                                            Qi\n                                           VMSi = VMC ×\n                                                            Qt\n    Donde:\n   VMSi = volumen de cada una de las muestras simples “i”, litros.\n   VMC = volumen de la muestra compuesta necesario para realizar la totalidad de los análisis de\n              laboratorio requeridos, litros.\n   Qi =       caudal medido en la descarga en el momento de tomar la muestra simple, litros por\n              segundo.\n   Qt =       ¡Error! No se encuentra el origen de la referencia. Qi hasta Qn, litros por segundo.\n    En el caso de que en el periodo de operación del proceso o realización de la actividad generadora\nde la descarga, ésta no se presente en forma continua, el responsable de dicha descarga deberá\npresentar a consideración de la autoridad competente la información en la que se describa su régimen\nde operación y el programa de muestreo para la medición de los contaminantes .",
+    "start_char": 17709,
+    "end_char": 20171
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.11",
+    "label": "4.11 Los responsables de las descargas de aguas residuales a los sistemas de alcantarillado",
+    "text": "4.11 Los responsables de las descargas de aguas residuales a los sistemas de alcantarillado\nurbano o municipal deben cumplir los límites máximos permisibles establecidos en esta Norma, en\nlas fechas establecidas en la Tabla 3. De esta manera, el cumplimiento es gradual y progresivo,\nconforme al rango de población, tomando como referencia el XI Censo General de Población y\nVivienda, 1990.\n                                                 Tabla 3\n             FECHA DE CUMPLIMIENTO A PARTIR                  RANGO DE POBLACION\n                              DE:\n                      1 de enero de 1999                    mayor de 50,000 habitantes\n                      1 de enero de 2004                  de 20,001 a 50,000 habitantes\n                      1 de enero de 2009                   de 2,501 a 20,000 habitantes",
+    "start_char": 20176,
+    "end_char": 21000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.12",
+    "label": "4.12 Las fechas de cumplimiento establecidas en la Tabla 3 de esta Norma, para el o los",
+    "text": "4.12 Las fechas de cumplimiento establecidas en la Tabla 3 de esta Norma, para el o los\nresponsables de descargas individuales o colectivas, pueden ser modificadas por la au toridad\ncompetente, cuando:\n    a ) El sistema de alcantarillado urbano o municipal cuente con una o varias plantas de\n          tratamiento en operación y la o las descargas causen efectos nocivos a la misma, el\n          responsable de la descarga qu eda obligado a presentar a la autoridad competente, en un\n          plazo no mayor de 180 (ciento ochenta) días a partir de la fecha de publicación de esta Norma,\n          un programa de acciones en el cual se establezca en tiempo y forma el cumplimiento de esta\n          Norma Oficial Mexicana.\n    b) La autoridad competente, previo a la publicación de esta Norma, haya suscrito formalmente\n          compromisos financieros y contractuales para construir y operar la o las plantas de\n          tratamiento de aguas residuales municipales.\n    c ) La Comisión Nacional del Agua oficialmente establezca emergencias hidroecológicas o\n          prioridades en materia de saneamiento, y en consecuencia se modifique la fecha de\n          cumplimiento establecida en la Norma Oficial Mexicana NOM-001-ECOL-1996, referida en el\n          punto 2 de esta Norma, para su descarga correspondiente.\n    d) Exista previo a la publicación de esta Norma, reglamentación local que establezca fechas de\n          cumplimiento para los responsables de las descargas a los sistemas de alcantarillado\n          urbano o municipal.",
+    "start_char": 21005,
+    "end_char": 22548
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.13",
+    "label": "4.13 Cuando la autoridad competente determine modificar las fechas de cumplimiento, deberá",
+    "text": "4.13 Cuando la autoridad competente determine modificar las fechas de cumplimiento, deberá\nnotificarlo a los responsables de las descargas de aguas residuales a los sistemas de alcantarillado\nurbano o municipal, conforme a los procedimientos legales locales correspondientes.",
+    "start_char": 22553,
+    "end_char": 22828
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.14",
+    "label": "4.14 Los responsables de las descargas tienen la obligación de realizar los análisis técnicos de",
+    "text": "4.14 Los responsables de las descargas tienen la obligación de realizar los análisis técnicos de\nlas descargas de aguas residuales, con la finalidad de determinar el promedio diario o el promedio\nmensual, analizando los parámetros señalados en la Tabla 1 de la presente Norma Oficial Mexicana.\nAsimismo, deben conservar sus registros de análisis técnicos por lo menos durante tres años\nposteriores a la toma de muestras.",
+    "start_char": 22833,
+    "end_char": 23253
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.15",
+    "label": "4.15 El responsable de la descarga podrá quedar exento de realizar el análisis de alguno o varios",
+    "text": "4.15 El responsable de la descarga podrá quedar exento de realizar el análisis de alguno o varios\nde los parámetros que se señalan en esta Norma, cuando demuestre a la autoridad competente que,\n\fpor las características del proceso productivo, actividades que desarrolla o el uso que le dé al agua, no\ngenera o concentra los conta minantes a exentar, manifestándolo ante la autoridad competente, por\nescrito y bajo protesta de decir verdad. La autoridad competente podrá verificar la veracidad de lo\nmanifestado por el responsable. En caso de falsedad, el responsable quedará sujeto a lo dispuesto\nen los ordenamientos legales locales aplicables.",
+    "start_char": 23258,
+    "end_char": 23903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.16",
+    "label": "4.16 El responsable de la descarga, en los términos que lo establezca la legislación local, queda",
+    "text": "4.16 El responsable de la descarga, en los términos que lo establezca la legislación local, queda\nobligado a informar a la autoridad competente, de cualquier cambio en sus procesos productivos o\nactividades, cuando con ello modifique la calidad o el volumen del agua residual que le fueron\nautorizados en el permiso de descarga correspondiente.",
+    "start_char": 23910,
+    "end_char": 24254
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.17",
+    "label": "4.17 El responsable de la descarga de aguas residuales que, como consecuencia de implantar o",
+    "text": "4.17 El responsable de la descarga de aguas residuales que, como consecuencia de implantar o\nhaber implanta do un programa de uso eficiente y/o reciclaje del agua en sus procesos productivos,\nconcentre los contaminantes en su descarga, y en consecuencia rebase los límites máximos\npermisibles establecidos en la presente Norma, deberá solicitar ante la autoridad competente se\nanalice su caso particular, a fin de que ésta le fije condiciones particulares de descarga.",
+    "start_char": 24261,
+    "end_char": 24729
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:4-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "4.18",
+    "label": "4.18 En el caso de que el agua de abastecimiento registre alguna concentración promedio diario o",
+    "text": "4.18 En el caso de que el agua de abastecimiento registre alguna concentración promedio diario o\nmensual de los parámetros referidos en el punto 4.1 de esta Norma, la suma de esta concentración al\nlímite máximo permisible correspondiente, es el valor que el responsable de la descarga está obligado\na cumplir, siempre y cuando lo demuestre y notifique por escrito a la autoridad competente.",
+    "start_char": 24736,
+    "end_char": 25126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "5",
+    "label": "5. Métodos de prueba",
+    "text": "5. Métodos de prueba\n      Para determinar los valores y concentraciones de los parámetros establecidos en esta Norma, se\npueden aplicar los métodos de prueba referidos en las normas mexicanas señaladas en el punto 2 de\nesta Norma. El responsable de la descarga puede solicitar a la autoridad competente, la aprobación\nde métodos alternos. En caso de aprobarse, dichos métodos quedarán autorizados para otros\nresponsables de descarga en situaciones similares.",
+    "start_char": 25133,
+    "end_char": 25592
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "6",
+    "label": "6. Grado de concordancia con normas internacionales",
+    "text": "6. Grado de concordancia con normas internacionales\n      No hay normas equivalentes, las disposiciones de carácter interno que existen en otros países no\nreúnen los elementos y preceptos de orden técnico y jurídico que en esta Norma se integran y\ncomplementan de manera coherente, con base en los fundamentos técnicos y científicos rec onocidos\ninternacionalmente.",
+    "start_char": 25599,
+    "end_char": 25964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7",
+    "label": "7. Bibliografía",
+    "text": "7. Bibliografía",
+    "start_char": 25971,
+    "end_char": 25986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.1",
+    "label": "7.1 APHA, AWWA, WPCF, 1995. Standard Methods for the Examination of Water and Wastewater.",
+    "text": "7.1 APHA, AWWA, WPCF, 1995. Standard Methods for the Examination of Water and Wastewater.\nUSA. (Métodos normalizados para el análisis del agua y aguas residuales. 19a. Edición. E.U.A.).",
+    "start_char": 25993,
+    "end_char": 26178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.2",
+    "label": "7.2 Code of Federal Regul ations. Title 40. Parts 100 to 149; 400 to 424; and 425 to 629. Protection of",
+    "text": "7.2 Code of Federal Regul ations. Title 40. Parts 100 to 149; 400 to 424; and 425 to 629. Protection of\nEnvironment 1992 . USA. (Código de Normas Federales. Título 40. Partes 100 a 149; 400 a 424; y 425 a\n629. Protección al Ambiente 1993. E.U.A.).",
+    "start_char": 26185,
+    "end_char": 26432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.3",
+    "label": "7.3 Ingeniería sanitaria y de agua s residuales, 1988. Gordon M. Fair, John Ch. Geyer, Limusa,",
+    "text": "7.3 Ingeniería sanitaria y de agua s residuales, 1988. Gordon M. Fair, John Ch. Geyer, Limusa,\nMéxico.",
+    "start_char": 26439,
+    "end_char": 26541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.4",
+    "label": "7.4 Industrial Water Pollution Control, 1989. 2nd Edition. USA. (Control de la contaminación",
+    "text": "7.4 Industrial Water Pollution Control, 1989. 2nd Edition. USA. (Control de la contaminación\nindustrial del agua Eckenfelder W.W. Jr. 2a. Edition Mc Graw -Hill International Editions. E.U.A.).",
+    "start_char": 26548,
+    "end_char": 26740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.5",
+    "label": "7.5 Manual de Agua para Usos Industriales, 1988. Sheppard T. Powell. Ediciones Ciencia y Técnica,",
+    "text": "7.5 Manual de Agua para Usos Industriales, 1988. Sheppard T. Powell. Ediciones Ciencia y Técnica,\nS.A. 1a. edición. Volúmenes 1 al 4. México.",
+    "start_char": 26747,
+    "end_char": 26888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.6",
+    "label": "7.6 Manual de Agua, 1989. Frank N. Kemmer, John McCallion Ed. Mc Graw-Hill. Volúmenes 1 al 3.",
+    "text": "7.6 Manual de Agua, 1989. Frank N. Kemmer, John McCallion Ed. Mc Graw-Hill. Volúmenes 1 al 3.\nMéxico.",
+    "start_char": 26895,
+    "end_char": 26996
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.7",
+    "label": "7.7 U.S.E.P.A. Development Document for Effluent Limitation Guidelines And New Source",
+    "text": "7.7 U.S.E.P.A. Development Document for Effluent Limitation Guidelines And New Source\nPerformance Standard For The 1974 (Documento de Desarrollo de La U.S.E.P.A. para guías de límites\nde efluentes y estándares de evaluación de nuevas fuentes para 1974).",
+    "start_char": 27003,
+    "end_char": 27256
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.8",
+    "label": "7.8 Water Treatment Chemicals. An Industrial Guide, 1991. (Tratamiento químico del agua. Una guía",
+    "text": "7.8 Water Treatment Chemicals. An Industrial Guide, 1991. (Tratamiento químico del agua. Una guía\nindustrial) Flick, Ernest W. Noyes Publications. E.U.A.",
+    "start_char": 27263,
+    "end_char": 27416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.9",
+    "label": "7.9 Water Treatment Handbook, 1991. (Manual de tratamiento de agua. Degremont 6a. Edition Vol. I",
+    "text": "7.9 Water Treatment Handbook, 1991. (Manual de tratamiento de agua. Degremont 6a. Edition Vol. I\ny II. E.U.A.).",
+    "start_char": 27423,
+    "end_char": 27534
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.10",
+    "label": "7.10 Wastewater Engineering Treatment. Disposal, Reuse, 1991. 3a. Edition. USA. (Ingeniería en el",
+    "text": "7.10 Wastewater Engineering Treatment. Disposal, Reuse, 1991. 3a. Edition. USA. (Ingeniería en el\ntratamiento de aguas residuales. Disposición y reuso. Metcalf And Eddy. Mc Graw -Hill International\nEditions. 3a. Edición. E.U.A.).",
+    "start_char": 27541,
+    "end_char": 27770
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.11",
+    "label": "7.11 Estudio de Factibilidad del Saneamiento del Valle de México. Informe Final. Dic. 1995.",
+    "text": "7.11 Estudio de Factibilidad del Saneamiento del Valle de México. Informe Final. Dic. 1995.\nComisión Nacional del Agua, Departamento del Distrito Federal, Estado de Hidalgo y Estado de México.",
+    "start_char": 27777,
+    "end_char": 27969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.12",
+    "label": "7.12 Guía Para el Manejo, Tratamiento y Disposición de Lodos Residuales de Plantas de",
+    "text": "7.12 Guía Para el Manejo, Tratamiento y Disposición de Lodos Residuales de Plantas de\nTratamiento Municipales. Comisión Nacional del Agua, Subdirección General de Infraestructura\nHidráulica Urbana e Industrial. México, 1994.",
+    "start_char": 27976,
+    "end_char": 28200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.13",
+    "label": "7.13 Sistemas Alternativos de Tratamiento de Aguas Residuales y Lodos Producidos. Comisión",
+    "text": "7.13 Sistemas Alternativos de Tratamiento de Aguas Residuales y Lodos Producidos. Comisión\nNacional del Agua, Subdirección General de Infraestructura Hidráulica Urbana e Industrial. México,\n1994.",
+    "start_char": 28207,
+    "end_char": 28402
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.14",
+    "label": "7.14 Impact of Wastewater Reuse on Groundwater In The Mezquital Valley, Hidalgo State, Mexico.",
+    "text": "7.14 Impact of Wastewater Reuse on Groundwater In The Mezquital Valley, Hidalgo State, Mexico.\nOverseas Development Administration. Phase 1, Report - February 1995. (Impacto del reuso de las\naguas residuales en aguas subterráneas, en el Valle del Mezquital, Estado de Hidalgo, México.\nAdministración para el Desarrollo Exterior. Fase 1, Informe Febrero 1995).",
+    "start_char": 28408,
+    "end_char": 28767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.15",
+    "label": "7.15 Evaluación de la Toxicidad de Descargas Municipales. Comisión Nacional d el Agua. Instituto",
+    "text": "7.15 Evaluación de la Toxicidad de Descargas Municipales. Comisión Nacional d el Agua. Instituto\nMexicano de Tecnología del Agua, noviembre de 1993.",
+    "start_char": 28772,
+    "end_char": 28920
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.16",
+    "label": "7.16 Proyecto de Normatividad Integral para Mejorar la Calidad del Agua en México. Instituto de",
+    "text": "7.16 Proyecto de Normatividad Integral para Mejorar la Calidad del Agua en México. Instituto de\nIngeniería de la UNAM. 1995-1996.",
+    "start_char": 28925,
+    "end_char": 29054
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.17",
+    "label": "7.17 Estudio de Disponibilidad de Agua en México en Función del Uso, Calidad y Cantidad. Instituto",
+    "text": "7.17 Estudio de Disponibilidad de Agua en México en Función del Uso, Calidad y Cantidad. Instituto\nde Ingeniería de la UNAM. 1995.",
+    "start_char": 29059,
+    "end_char": 29189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.18",
+    "label": "7.18 Cost-Effective Water Pollution Control in The Northern Border of Mexico. Institute For Applied",
+    "text": "7.18 Cost-Effective Water Pollution Control in The Northern Border of Mexico. Institute For Applied\nEnvironmental Economics (Tme), 1995. (Costo-efectividad del Control de la Contaminación del Agua en\nla Frontera Norte de México. Instituto de la Economía Ambiental Aplicada-1995).",
+    "start_char": 29194,
+    "end_char": 29473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.19",
+    "label": "7.19 XI Censo General de Población y Vivienda. INEGI/CONAPO 1990.",
+    "text": "7.19 XI Censo General de Población y Vivienda. INEGI/CONAPO 1990.",
+    "start_char": 29478,
+    "end_char": 29543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.20",
+    "label": "7.20 Criterios Ecológicos de Calidad de l Agua. SEDUE. México, D.F. 1989.",
+    "text": "7.20 Criterios Ecológicos de Calidad de l Agua. SEDUE. México, D.F. 1989.",
+    "start_char": 29548,
+    "end_char": 29621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.21",
+    "label": "7.21 Catálogo Oficial de Plaguicidas Control Intersectorial para el Control del Proceso y Uso de",
+    "text": "7.21 Catálogo Oficial de Plaguicidas Control Intersectorial para el Control del Proceso y Uso de\nPlaguicidas, Fertilizantes y Sustancias Tóxicas. SARH, SEDESOL, SSA y SECOFI. México, D.F. 1994.",
+    "start_char": 29626,
+    "end_char": 29819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.22",
+    "label": "7.22 Indicadores Socioeconómicos e Indice de Marginación Municipal 1990. CONAPO/CNA.",
+    "text": "7.22 Indicadores Socioeconómicos e Indice de Marginación Municipal 1990. CONAPO/CNA.",
+    "start_char": 29824,
+    "end_char": 29908
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-23",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.23",
+    "label": "7.23 Bases para el Manejo Integral de la Cantidad y Calidad del Agua en México. Instituto de",
+    "text": "7.23 Bases para el Manejo Integral de la Cantidad y Calidad del Agua en México. Instituto de\nIngeniería, UNAM. 1995.",
+    "start_char": 29913,
+    "end_char": 30029
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.24",
+    "label": "7.24 Administración de las Aguas Residuales en Zonas Urbanas Costeras. Reporte 199 3. EUA.",
+    "text": "7.24 Administración de las Aguas Residuales en Zonas Urbanas Costeras. Reporte 199 3. EUA.\nComité Sobre el Manejo de las Aguas Residuales en Zonas Urbanas Costeras. Consejo de Ciencia y\nTecnología sobre Agua. Comisión de Sistemas Técnicos e Ingeniería. Consejo Nacional de\nInvestigación.",
+    "start_char": 30034,
+    "end_char": 30321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-25",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.25",
+    "label": "7.25 NMX-AA-087 -1995-SCFI. Análisis de Agua.- Evaluación de Toxicidad Aguda con Daphnia",
+    "text": "7.25 NMX-AA-087 -1995-SCFI. Análisis de Agua.- Evaluación de Toxicidad Aguda con Daphnia\nMagna Straus (Crustacea-Cladocera).- Método de Prueba.",
+    "start_char": 30326,
+    "end_char": 30469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-26",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.26",
+    "label": "7.26 NMX-AA-110 -1995-SCFI. Análisis de Agua.- Evaluación de Toxicidad aguda con Artemia",
+    "text": "7.26 NMX-AA-110 -1995-SCFI. Análisis de Agua.- Evaluación de Toxicidad aguda con Artemia\nFranciscana Kellogs (Crustacea -Anostraca).- Método de Prueba.",
+    "start_char": 30474,
+    "end_char": 30625
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-27",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.27",
+    "label": "7.27 NMX-AA-112-1995-SCFI. Análisis de Agua y Sedimento.- Evaluación de Toxicidad aguda con",
+    "text": "7.27 NMX-AA-112-1995-SCFI. Análisis de Agua y Sedimento.- Evaluación de Toxicidad aguda con\nPhotobacterium Phosphoreum.- Método de Prueba.",
+    "start_char": 30630,
+    "end_char": 30768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:7-28",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "7.28",
+    "label": "7.28 Operation of Wastewater Treatment Plants.- Manual of Practice No. 11.- Second Printing 1985.",
+    "text": "7.28 Operation of Wastewater Treatment Plants.- Manual of Practice No. 11.- Second Printing 1985.\nWater Pollution Control Federation. Washington. D.C. (Operación de Plantas de Tratamiento de Aguas\nResiduales.- Manual de Prácticas No. 11.- Segunda Edición 1985). Federación del Control de la\nContaminación del Agua.",
+    "start_char": 30773,
+    "end_char": 31087
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "8",
+    "label": "8. Observancia de esta Norma",
+    "text": "8. Observancia de esta Norma",
+    "start_char": 31092,
+    "end_char": 31120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "8.1",
+    "label": "8.1 La vigilancia del cumplimiento de esta Norma Oficial Mexicana corresponde a los Gobiernos",
+    "text": "8.1 La vigilancia del cumplimiento de esta Norma Oficial Mexicana corresponde a los Gobiernos\nEstatales, Municipales y del Distrito Federal, en el ámbito de sus respectivas competencias, cuyo\npersonal realizará los trabajos de verificación, inspección y vigilancia que sean necesarios. Las\nviolacion es a la misma se sancionarán en los términos de la Ley General del Equilibrio Ecológico y la\nProtección al Ambiente, y demás ordenamientos jurídicos aplicables.",
+    "start_char": 31125,
+    "end_char": 31585
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+    "number": "8.2",
+    "label": "8.2 La presente Norma Oficial Mexicana entrará en vigor al día siguiente de su publicación en e l",
+    "text": "8.2 La presente Norma Oficial Mexicana entrará en vigor al día siguiente de su publicación en e l\nDiario Oficial de la Federación.\n    La presente Norma Oficial Mexicana abroga a su similar NOM-CCA-031 -ECOL/1993, que establece\nlos límites máximos permisibles de contaminantes en las descargas de aguas residuales\nprovenientes de la industria, actividades agroindustriales, de servicios y el tratamiento de aguas\nresiduales a los sistemas de drenaje y alcantarillado urbano o municipal, publicada en el Diario Oficial\nde la Federación el 18 de octubre de 1993.",
+    "start_char": 31590,
+    "end_char": 32150
+  }
+]

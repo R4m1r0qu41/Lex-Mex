@@ -1,0 +1,14 @@
+{
+  "schema_version": "0.1.0",
+  "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
+  "valid": true,
+  "clause_count": 73,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "standard_redesignated",
+      "message": "retained text was published as NOM-002-ECOL-1996; the registry now designates it NOM-002-SEMARNAT-1996",
+      "provision_id": null
+    }
+  ]
+}
