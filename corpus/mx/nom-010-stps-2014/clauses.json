@@ -1,0 +1,2062 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "1",
+    "label": "1.         Objetivo",
+    "text": "1.         Objetivo\n              Establecer los procesos y medidas para prevenir riesgos a la salud del personal\n              ocupacionalmente expuesto a agentes químicos contaminantes del ambiente laboral.",
+    "start_char": 5992,
+    "end_char": 6200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "2",
+    "label": "2.         Campo de aplicación",
+    "text": "2.         Campo de aplicación\n              La presente Norma Oficial Mexicana rige en todo el territorio nacional y aplica a todos los centros\n              de trabajo donde existan agentes químicos contaminantes del ambiente laboral.",
+    "start_char": 6204,
+    "end_char": 6440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "3",
+    "label": "3.         Referencias",
+    "text": "3.         Referencias\n              Para la correcta interpretación de esta Norma se deberán consultar las siguientes normas\n              oficiales mexicanas y norma mexicana vigentes, o las que las sustituyan:",
+    "start_char": 6444,
+    "end_char": 6656
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "3.1",
+    "label": "3.1        NOM-017-STPS-2008, Equipo de protección personal-Selección, uso y manejo en los centros de",
+    "text": "3.1        NOM-017-STPS-2008, Equipo de protección personal-Selección, uso y manejo en los centros de\n              trabajo.",
+    "start_char": 6660,
+    "end_char": 6784
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "3.2",
+    "label": "3.2        NOM-018-STPS-2000, Sistema para la identificación y comunicación de peligros y riesgos por",
+    "text": "3.2        NOM-018-STPS-2000, Sistema para la identificación y comunicación de peligros y riesgos por\n              sustancias químicas peligrosas en los centros de trabajo.",
+    "start_char": 6788,
+    "end_char": 6961
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "3.3",
+    "label": "3.3        NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por",
+    "text": "3.3        NOM-026-STPS-2008, Colores y señales de seguridad e higiene, e identificación de riesgos por\n              fluidos conducidos en tuberías.",
+    "start_char": 6965,
+    "end_char": 7114
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "3.4",
+    "label": "3.4        NOM-116-STPS-2009, Seguridad-Equipo de protección personal-Respiradores purificadores de",
+    "text": "3.4        NOM-116-STPS-2009, Seguridad-Equipo de protección personal-Respiradores purificadores de\n              aire de presión negativa contra partículas nocivas-Especificaciones y métodos de prueba.\n\fLunes 28 de abril de 2014                   DIARIO OFICIAL                               (Segunda Sección)",
+    "start_char": 7118,
+    "end_char": 7428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "3.5",
+    "label": "3.5      NOM-047-SSA1-2011, Salud ambiental-Índices biológicos de exposición para el personal",
+    "text": "3.5      NOM-047-SSA1-2011, Salud ambiental-Índices biológicos de exposición para el personal\n         ocupacionalmente expuesto a sustancias químicas.",
+    "start_char": 7430,
+    "end_char": 7581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:3-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "3.6",
+    "label": "3.6      NMX-R-019-SCFI-2011, Sistema Armonizado de Clasificación y Comunicación de Peligros de los",
+    "text": "3.6      NMX-R-019-SCFI-2011, Sistema Armonizado de Clasificación y Comunicación de Peligros de los\n         Productos Químicos.",
+    "start_char": 7582,
+    "end_char": 7710
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4",
+    "label": "4.       Definiciones",
+    "text": "4.       Definiciones\n         Para los efectos de la presente Norma se establecen las definiciones siguientes:",
+    "start_char": 7711,
+    "end_char": 7822
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.1",
+    "label": "4.1      Aerosol: Las partículas sólidas o líquidas dispersas en un medio gaseoso, normalmente aire.",
+    "text": "4.1      Aerosol: Las partículas sólidas o líquidas dispersas en un medio gaseoso, normalmente aire.",
+    "start_char": 7823,
+    "end_char": 7923
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.2",
+    "label": "4.2      Agentes químicos contaminantes del ambiente laboral: Aquellas sustancias o mezclas",
+    "text": "4.2      Agentes químicos contaminantes del ambiente laboral: Aquellas sustancias o mezclas\n         capaces de modificar las condiciones ambientales del centro de trabajo que, por sus propiedades,\n         concentración, nivel y tiempo de exposición o acción, pueden alterar la salud de los trabajadores.",
+    "start_char": 7924,
+    "end_char": 8229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.3",
+    "label": "4.3      Asfixiante simple: Los gases inertes que desplazan al aire por lo que disminuyen la",
+    "text": "4.3      Asfixiante simple: Los gases inertes que desplazan al aire por lo que disminuyen la\n         concentración de oxígeno, sin otros efectos importantes.",
+    "start_char": 8230,
+    "end_char": 8388
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.4",
+    "label": "4.4      Autoridad laboral: Las unidades administrativas competentes de la Secretaría del Trabajo y",
+    "text": "4.4      Autoridad laboral: Las unidades administrativas competentes de la Secretaría del Trabajo y\n         Previsión Social que realizan funciones de inspección y vigilancia en materia de seguridad y salud\n         en el trabajo, y las correspondientes de las entidades federativas y del Distrito Federal, que\n         actúen en auxilio de aquéllas.",
+    "start_char": 8389,
+    "end_char": 8740
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.5",
+    "label": "4.5      Cadena de custodia: El mecanismo administrativo para dar seguimiento a las muestras durante",
+    "text": "4.5      Cadena de custodia: El mecanismo administrativo para dar seguimiento a las muestras durante\n         las etapas de la evaluación -el muestreo, la determinación analítica y el registro de los resultados-,\n         que deberá incluir las fechas de su recepción y entrega en cada una de las etapas, así como los\n         nombres de los responsables que intervienen en estos actos. Tiene por objetivo evitar la\n         alteración, contaminación, daño y reemplazo de las muestras.",
+    "start_char": 8741,
+    "end_char": 9226
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.6",
+    "label": "4.6      CAS: Las siglas en inglés del Chemical Abstracts Service.",
+    "text": "4.6      CAS: Las siglas en inglés del Chemical Abstracts Service.",
+    "start_char": 9227,
+    "end_char": 9293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.7",
+    "label": "4.7      Centros de trabajo: Todos aquellos lugares, tales como edificios, locales, instalaciones y áreas,",
+    "text": "4.7      Centros de trabajo: Todos aquellos lugares, tales como edificios, locales, instalaciones y áreas,\n         donde se realicen actividades de producción, comercialización, transporte y almacenamiento o\n         prestación de servicios, en los que laboren personas que estén sujetas a una relación de trabajo.",
+    "start_char": 9294,
+    "end_char": 9609
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.8",
+    "label": "4.8      Concentración medida en el ambiente laboral (CMA): El valor de la concentración del",
+    "text": "4.8      Concentración medida en el ambiente laboral (CMA): El valor de la concentración del\n         contaminante en el ambiente laboral, capturada durante una jornada de trabajo.",
+    "start_char": 9610,
+    "end_char": 9790
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.9",
+    "label": "4.9      Concentración promedio ponderada en tiempo (CMA-PPT): La sumatoria del producto de",
+    "text": "4.9      Concentración promedio ponderada en tiempo (CMA-PPT): La sumatoria del producto de\n         cada una de las concentraciones por su tiempo de exposición, dividida entre la suma de los\n         tiempos de medición durante una jornada de trabajo.",
+    "start_char": 9791,
+    "end_char": 10043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.10",
+    "label": "4.10     Condiciones normales de temperatura y presión (TPN): Las que corresponden a un ambiente",
+    "text": "4.10     Condiciones normales de temperatura y presión (TPN): Las que corresponden a un ambiente\n         a temperatura de 298 K (25°C) y presión de 101.3 kPa (760 mmHg).",
+    "start_char": 10044,
+    "end_char": 10214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.11",
+    "label": "4.11     Control: El proceso mediante el cual se instrumentan las acciones preventivas o correctivas",
+    "text": "4.11     Control: El proceso mediante el cual se instrumentan las acciones preventivas o correctivas\n         pertinentes, derivadas de la evaluación de los agentes químicos contaminantes del ambiente\n         laboral, a efecto de no rebasar los valores límite de exposición.",
+    "start_char": 10215,
+    "end_char": 10490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.12",
+    "label": "4.12     Efecto aditivo: El resultado de los efectos a la salud de dos o más sustancias químicas, que",
+    "text": "4.12     Efecto aditivo: El resultado de los efectos a la salud de dos o más sustancias químicas, que\n         utilizadas en combinación producen un efecto total igual a la suma de sus efectos\n         independientes, y que inciden sobre el mismo órgano, aparato o sistema del cuerpo humano.",
+    "start_char": 10491,
+    "end_char": 10782
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.13",
+    "label": "4.13     Efectos independientes: El resultado de los efectos a la salud por las sustancias químicas que",
+    "text": "4.13     Efectos independientes: El resultado de los efectos a la salud por las sustancias químicas que\n         actúan independientemente y que inciden sobre distintos órganos, aparatos o sistemas del\n         cuerpo.",
+    "start_char": 10783,
+    "end_char": 11001
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.14",
+    "label": "4.14     Evaluación: El proceso por medio del cual se efectúa el muestreo, la determinación analítica de",
+    "text": "4.14     Evaluación: El proceso por medio del cual se efectúa el muestreo, la determinación analítica de\n         los agentes químicos contaminantes del ambiente laboral y la comparación de los resultados, de\n         acuerdo con los valores límite de exposición.",
+    "start_char": 11002,
+    "end_char": 11265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.15",
+    "label": "4.15     Fracción inhalable: La relación entre la masa de las partículas suspendidas en el aire que",
+    "text": "4.15     Fracción inhalable: La relación entre la masa de las partículas suspendidas en el aire que\n         pueden ser inhaladas a través de la nariz y boca con respecto del total presente en el lugar de\n         trabajo.",
+    "start_char": 11266,
+    "end_char": 11488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.16",
+    "label": "4.16     Fracción respirable: La relación entre la masa de las partículas suspendidas en el aire que",
+    "text": "4.16     Fracción respirable: La relación entre la masa de las partículas suspendidas en el aire que\n         pueden penetrar más allá de las vías respiratorias no ciliadas con respecto del total presente en\n         el lugar de trabajo.",
+    "start_char": 11489,
+    "end_char": 11726
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.17",
+    "label": "4.17     Fracción torácica: La relación entre la masa de las partículas suspendidas en el aire que",
+    "text": "4.17     Fracción torácica: La relación entre la masa de las partículas suspendidas en el aire que\n         pueden penetrar más allá de la laringe con respecto del total presente en el lugar de trabajo.\n\f   (Segunda Sección)                       DIARIO OFICIAL                       Lunes 28 de abril de 2014",
+    "start_char": 11727,
+    "end_char": 12036
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.18",
+    "label": "4.18    Fibras: Todas aquellas partículas sólidas con una longitud mayor a 5 µm y diámetro menor o",
+    "text": "4.18    Fibras: Todas aquellas partículas sólidas con una longitud mayor a 5 µm y diámetro menor o\n        igual a 3 µm, y una relación longitud/diámetro mayor de 3:1.",
+    "start_char": 12038,
+    "end_char": 12205
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.19",
+    "label": "4.19    Gases: Los fluidos amorfos que ocupan todo el espacio de su contenedor.",
+    "text": "4.19    Gases: Los fluidos amorfos que ocupan todo el espacio de su contenedor.",
+    "start_char": 12206,
+    "end_char": 12285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.20",
+    "label": "4.20    Grupo(s) de exposición homogénea: El conjunto de dos o más personas ocupacionalmente",
+    "text": "4.20    Grupo(s) de exposición homogénea: El conjunto de dos o más personas ocupacionalmente\n        expuestas a la(s) misma(s) sustancia(s) química(s) con concentraciones similares e igual tiempo\n        de exposición durante sus jornadas de trabajo y que desarrollan trabajos similares.",
+    "start_char": 12286,
+    "end_char": 12574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.21",
+    "label": "4.21    Humos de combustión: Las partículas sólidas en suspensión en el aire, producidas por la",
+    "text": "4.21    Humos de combustión: Las partículas sólidas en suspensión en el aire, producidas por la\n        combustión incompleta de materiales orgánicos.",
+    "start_char": 12575,
+    "end_char": 12725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.22",
+    "label": "4.22    Humos metálicos: Las partículas sólidas metálicas suspendidas en el aire, producidas en los",
+    "text": "4.22    Humos metálicos: Las partículas sólidas metálicas suspendidas en el aire, producidas en los\n        procesos de fundición de metales.",
+    "start_char": 12726,
+    "end_char": 12867
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-23",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.23",
+    "label": "4.23    Informe de resultados: El documento que emite un laboratorio de pruebas, acreditado y",
+    "text": "4.23    Informe de resultados: El documento que emite un laboratorio de pruebas, acreditado y\n        aprobado en los términos establecidos por la Ley Federal sobre Metrología y Normalización y su\n        Reglamento, por medio del cual hace constar los resultados cuantificados de los elementos de\n        ensayo capturados, medidos o analizados.",
+    "start_char": 12868,
+    "end_char": 13214
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.24",
+    "label": "4.24    Laboratorios de pruebas o ensayos: Las personas físicas o morales, acreditadas y aprobadas,",
+    "text": "4.24    Laboratorios de pruebas o ensayos: Las personas físicas o morales, acreditadas y aprobadas,\n        en los términos establecidos por la Ley Federal sobre Metrología y Normalización y su\n        Reglamento, que tienen por objeto realizar el reconocimiento y/o evaluación (muestreo, análisis o\n        ensayo), establecidos en las normas oficiales mexicanas en materia de seguridad y salud en el\n        trabajo.",
+    "start_char": 13215,
+    "end_char": 13633
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-25",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.25",
+    "label": "4.25    Límite superior de confianza (LSC): La estimación estadística de la concentración medida en el",
+    "text": "4.25    Límite superior de confianza (LSC): La estimación estadística de la concentración medida en el\n        ambiente laboral (CMA), para un nivel de confianza, que se obtiene de la suma del valor\n        promedio de dicha concentración, y de la incertidumbre generada en las etapas de medición y\n        análisis.",
+    "start_char": 13634,
+    "end_char": 13950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-26",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.26",
+    "label": "4.26    Manejo: El uso, traslado, trasvase, almacenamiento o proceso de una sustancia química en el",
+    "text": "4.26    Manejo: El uso, traslado, trasvase, almacenamiento o proceso de una sustancia química en el\n        centro de trabajo.",
+    "start_char": 13951,
+    "end_char": 14077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-27",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.27",
+    "label": "4.27    Muestreo: El procedimiento de captura de agentes químicos contaminantes del ambiente laboral.",
+    "text": "4.27    Muestreo: El procedimiento de captura de agentes químicos contaminantes del ambiente laboral.",
+    "start_char": 14078,
+    "end_char": 14179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-28",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.28",
+    "label": "4.28    Neblina: Las partículas líquidas en suspensión en el aire que se producen por ruptura mecánica.",
+    "text": "4.28    Neblina: Las partículas líquidas en suspensión en el aire que se producen por ruptura mecánica.",
+    "start_char": 14180,
+    "end_char": 14283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-29",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.29",
+    "label": "4.29    Nivel de acción (NA): La mitad del valor límite de exposición promedio ponderado en tiempo",
+    "text": "4.29    Nivel de acción (NA): La mitad del valor límite de exposición promedio ponderado en tiempo\n        (VLE-PPT), de las sustancias químicas establecidas en el Apéndice I, de esta Norma.",
+    "start_char": 14284,
+    "end_char": 14474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-30",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.30",
+    "label": "4.30    Personal ocupacionalmente expuesto; POE: Aquellos trabajadores que en ejercicio y con",
+    "text": "4.30    Personal ocupacionalmente expuesto; POE: Aquellos trabajadores que en ejercicio y con\n        motivo de su ocupación están expuestos a agentes químicos contaminantes del ambiente laboral.",
+    "start_char": 14475,
+    "end_char": 14670
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-31",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.31",
+    "label": "4.31    Polvo(s): Las partículas sólidas en suspensión en el aire, como resultado del proceso de",
+    "text": "4.31    Polvo(s): Las partículas sólidas en suspensión en el aire, como resultado del proceso de\n        disgregación de la materia.",
+    "start_char": 14671,
+    "end_char": 14803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-32",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.32",
+    "label": "4.32    Proceso; Proceso industrial: Las actividades y operaciones industriales asociadas con las",
+    "text": "4.32    Proceso; Proceso industrial: Las actividades y operaciones industriales asociadas con las\n        sustancias químicas en el centro de trabajo, tales como reacción, neutralización, separación,\n        reducción-oxidación, cristalización fraccionada y síntesis, entre otros.",
+    "start_char": 14804,
+    "end_char": 15084
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-33",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.33",
+    "label": "4.33    Reconocimiento: El proceso mediante el cual se identifican los agentes químicos contaminantes",
+    "text": "4.33    Reconocimiento: El proceso mediante el cual se identifican los agentes químicos contaminantes\n        del ambiente laboral; sus propiedades o características; las vías de ingreso al cuerpo humano;\n        sus efectos en la salud; las fuentes emisoras de contaminantes; las áreas o zonas donde exista\n        riesgo a la exposición; los grupos de exposición homogénea, sus puestos y las actividades que\n        desarrollan, así como los tiempos y frecuencias de exposición.",
+    "start_char": 15085,
+    "end_char": 15565
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-34",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.34",
+    "label": "4.34    Riesgo(s) a la salud: La probabilidad de que una sustancia química pueda causar directa o",
+    "text": "4.34    Riesgo(s) a la salud: La probabilidad de que una sustancia química pueda causar directa o\n        indirectamente lesión temporal, permanente o la muerte del trabajador por ingestión, inhalación o\n        contacto.",
+    "start_char": 15566,
+    "end_char": 15787
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-35",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.35",
+    "label": "4.35    Rocío: Las partículas líquidas en suspensión en el aire producidas por condensación de vapores.",
+    "text": "4.35    Rocío: Las partículas líquidas en suspensión en el aire producidas por condensación de vapores.",
+    "start_char": 15788,
+    "end_char": 15891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-36",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.36",
+    "label": "4.36    Secretaría: La Secretaría del Trabajo y Previsión Social.",
+    "text": "4.36    Secretaría: La Secretaría del Trabajo y Previsión Social.",
+    "start_char": 15892,
+    "end_char": 15957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-37",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.37",
+    "label": "4.37    Sustancias químicas peligrosas: Aquellas que por sus propiedades físicas y/o químicas al ser",
+    "text": "4.37    Sustancias químicas peligrosas: Aquellas que por sus propiedades físicas y/o químicas al ser\n        manejadas, transportadas, almacenadas o procesadas, presentan la posibilidad de riesgos de\n        explosividad, inflamabilidad, combustibilidad, reactividad, corrosividad, radiactividad, toxicidad o\n        irritabilidad, y que al ingresar al organismo por vía respiratoria, cutánea o digestiva, pueden\n        provocar a los trabajadores expuestos intoxicación, quemaduras o lesiones orgánicas, según el\n        nivel, concentración de la sustancia y tiempo de exposición.\n\fLunes 28 de abril de 2014                   DIARIO OFICIAL                               (Segunda Sección)",
+    "start_char": 15958,
+    "end_char": 16649
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-38",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.38",
+    "label": "4.38     Unidades de verificación: Las personas físicas o morales, acreditadas y aprobadas, en los",
+    "text": "4.38     Unidades de verificación: Las personas físicas o morales, acreditadas y aprobadas, en los\n         términos establecidos por la Ley Federal sobre Metrología y Normalización y su Reglamento, que\n         realizan actos de verificación.",
+    "start_char": 16651,
+    "end_char": 16894
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-39",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.39",
+    "label": "4.39     Valor límite de exposición (VLE): La concentración de referencia de un agente químico",
+    "text": "4.39     Valor límite de exposición (VLE): La concentración de referencia de un agente químico\n         contaminante del ambiente laboral en el aire, que puede ser ponderado en tiempo, corto tiempo o\n         pico. Se expresa en miligramos por metro cúbico (mg/m3) o fibras por centímetro cubico (f/cm3),\n         en condiciones actuales del muestreo, y en partes por millón (ppm), bajo condiciones normales\n         de temperatura y presión (TPN).",
+    "start_char": 16895,
+    "end_char": 17343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-40",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.40",
+    "label": "4.40     Valor límite de exposición de corto tiempo (VLE-CT): La concentración máxima de un agente",
+    "text": "4.40     Valor límite de exposición de corto tiempo (VLE-CT): La concentración máxima de un agente\n         químico contaminante del ambiente laboral, a la cual los trabajadores pueden estar expuestos de\n         manera continua durante un periodo máximo de quince minutos, con intervalos de al menos una\n         hora de no exposición entre cada periodo de exposición y un máximo de cuatro exposiciones en\n         una jornada de trabajo de ocho horas diarias, y que no sobrepasa el valor límite de exposición\n         promedio ponderado en tiempo (VLE-PPT).",
+    "start_char": 17344,
+    "end_char": 17903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-41",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.41",
+    "label": "4.41     Valor límite de exposición pico (VLE-P): La concentración de un agente químico contaminante",
+    "text": "4.41     Valor límite de exposición pico (VLE-P): La concentración de un agente químico contaminante\n         del ambiente laboral que no debe rebasarse en ningún momento durante la jornada de trabajo.",
+    "start_char": 17904,
+    "end_char": 18105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-42",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.42",
+    "label": "4.42     Valor límite de exposición promedio ponderado en tiempo (VLE-PPT): La concentración",
+    "text": "4.42     Valor límite de exposición promedio ponderado en tiempo (VLE-PPT): La concentración\n         máxima promedio ponderada en el tiempo de un agente químico contaminante del ambiente\n         laboral, a la que la mayoría de los trabajadores expuestos, durante una jornada de ocho horas\n         diarias y una semana laboral de cuarenta horas, no reportan daños a su salud.",
+    "start_char": 18106,
+    "end_char": 18483
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-43",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.43",
+    "label": "4.43     Vapor: La fase gaseosa de una sustancia química normalmente sólida o líquida en condiciones",
+    "text": "4.43     Vapor: La fase gaseosa de una sustancia química normalmente sólida o líquida en condiciones\n         ambientales.",
+    "start_char": 18484,
+    "end_char": 18606
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-44",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.44",
+    "label": "4.44     Vía de ingreso: La ruta por la cual se introduce una sustancia química contaminante del",
+    "text": "4.44     Vía de ingreso: La ruta por la cual se introduce una sustancia química contaminante del\n         ambiente laboral al cuerpo del trabajador.",
+    "start_char": 18607,
+    "end_char": 18755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:4-45",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "4.45",
+    "label": "4.45     Volatilidad: El indicativo sobre la facilidad de suspensión y dispersión en el aire de las sustancias",
+    "text": "4.45     Volatilidad: El indicativo sobre la facilidad de suspensión y dispersión en el aire de las sustancias\n         químicas, de conformidad con su estado:\n         a)    Sólido, a través de la generación de polvos o sublimación, por el tamaño y forma de la\n               partícula, y\n         b)    Líquido, por medio del punto de ebullición de dicha sustancia, es decir, la temperatura a la\n               cual la presión de vapor de ésta, es igual a la presión atmosférica.",
+    "start_char": 18756,
+    "end_char": 19237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "5",
+    "label": "5.       Unidades de medida",
+    "text": "5.       Unidades de medida",
+    "start_char": 19238,
+    "end_char": 19265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "5.1",
+    "label": "5.1      °C; grados centígrados o Celsius: Unidad de medición de temperatura en el sistema métrico",
+    "text": "5.1      °C; grados centígrados o Celsius: Unidad de medición de temperatura en el sistema métrico\n         decimal.",
+    "start_char": 19266,
+    "end_char": 19382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "5.2",
+    "label": "5.2      f/cm3; fibras por centímetro cúbico: Unidad de medición de las fibras.",
+    "text": "5.2      f/cm3; fibras por centímetro cúbico: Unidad de medición de las fibras.",
+    "start_char": 19383,
+    "end_char": 19462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "5.3",
+    "label": "5.3      g/mol; gramos por mol: Peso molecular expresado en gramos.",
+    "text": "5.3      g/mol; gramos por mol: Peso molecular expresado en gramos.",
+    "start_char": 19463,
+    "end_char": 19530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "5.4",
+    "label": "5.4      K; Kelvin: Unidad de medición de temperatura absoluta.",
+    "text": "5.4      K; Kelvin: Unidad de medición de temperatura absoluta.",
+    "start_char": 19531,
+    "end_char": 19594
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "5.5",
+    "label": "5.5      kPa; kiloPascales: Unidad de presión.",
+    "text": "5.5      kPa; kiloPascales: Unidad de presión.",
+    "start_char": 19595,
+    "end_char": 19641
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "5.6",
+    "label": "5.6      l/mol; volumen molar; litros por mol: Litros que ocupa una mol de gas en condiciones normales",
+    "text": "5.6      l/mol; volumen molar; litros por mol: Litros que ocupa una mol de gas en condiciones normales\n         de temperatura y presión (TPN).",
+    "start_char": 19642,
+    "end_char": 19785
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "5.7",
+    "label": "5.7      mg/m3; miligramos por metro cúbico: Unidad de concentración de polvos, humos de",
+    "text": "5.7      mg/m3; miligramos por metro cúbico: Unidad de concentración de polvos, humos de\n         combustión y metálicos, neblinas y rocíos.",
+    "start_char": 19786,
+    "end_char": 19926
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "5.8",
+    "label": "5.8      mmHg; milímetros de mercurio: Unidad de presión.",
+    "text": "5.8      mmHg; milímetros de mercurio: Unidad de presión.",
+    "start_char": 19927,
+    "end_char": 19984
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:5-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "5.9",
+    "label": "5.9      ppm; partes por millón: Unidad de concentración expresada como una relación volumen sobre",
+    "text": "5.9      ppm; partes por millón: Unidad de concentración expresada como una relación volumen sobre\n         volumen de una parte de sustancia química en un millón de partes en el aire, empleada para\n         gases y vapores.",
+    "start_char": 19985,
+    "end_char": 20209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:5-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "5.10",
+    "label": "5.10     µm; micra; micrómetro: Unidad de medición del tamaño de una partícula que equivale a una",
+    "text": "5.10     µm; micra; micrómetro: Unidad de medición del tamaño de una partícula que equivale a una\n                                      -6\n         millonésima de un metro (1X10 m).\n\f      (Segunda Sección)                      DIARIO OFICIAL                       Lunes 28 de abril de 2014",
+    "start_char": 20210,
+    "end_char": 20500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6",
+    "label": "6.         Obligaciones del patrón",
+    "text": "6.         Obligaciones del patrón",
+    "start_char": 20502,
+    "end_char": 20536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.1",
+    "label": "6.1        Contar con el estudio actualizado de los agentes químicos contaminantes del ambiente laboral,",
+    "text": "6.1        Contar con el estudio actualizado de los agentes químicos contaminantes del ambiente laboral,\n           con base en lo señalado en el Capítulo 8 de la presente Norma.",
+    "start_char": 20537,
+    "end_char": 20715
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.2",
+    "label": "6.2        Contar con el reconocimiento de los agentes químicos contaminantes del ambiente laboral,",
+    "text": "6.2        Contar con el reconocimiento de los agentes químicos contaminantes del ambiente laboral,\n           conforme a lo que dispone el Capítulo 9, de esta Norma.",
+    "start_char": 20716,
+    "end_char": 20882
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.3",
+    "label": "6.3        Colocar señalamientos de precaución, obligación y prohibición, según corresponda, en la entrada",
+    "text": "6.3        Colocar señalamientos de precaución, obligación y prohibición, según corresponda, en la entrada\n           de las áreas donde exista exposición a agentes químicos contaminantes del ambiente laboral,\n           para prevenir riesgos a la salud de los trabajadores, en especial a los ajenos al manejo de las\n           sustancias químicas, de acuerdo con lo establecido en la NOM-026-STPS-2008, o las que la\n           sustituyan.",
+    "start_char": 20883,
+    "end_char": 21322
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.4",
+    "label": "6.4        Contar con la evaluación sobre la concentración de los agentes químicos contaminantes del",
+    "text": "6.4        Contar con la evaluación sobre la concentración de los agentes químicos contaminantes del\n           ambiente laboral, llevada a cabo por un laboratorio de pruebas, y disponer del informe de\n           evaluación, de conformidad con lo que prevé el Capítulo 10, de la presente Norma.",
+    "start_char": 21323,
+    "end_char": 21617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.5",
+    "label": "6.5        Realizar el monitoreo biológico, por la exposición química, al personal ocupacionalmente",
+    "text": "6.5        Realizar el monitoreo biológico, por la exposición química, al personal ocupacionalmente\n           expuesto y cumplir con las disposiciones de la NOM-047-SSA1-2011, o las que la sustituyan.",
+    "start_char": 21618,
+    "end_char": 21819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.6",
+    "label": "6.6        Instaurar acciones de control, con base en lo determinado en el Capítulo 11 de esta Norma, para",
+    "text": "6.6        Instaurar acciones de control, con base en lo determinado en el Capítulo 11 de esta Norma, para\n           no exponer a los trabajadores a concentraciones superiores a los valores límite de exposición que\n           establece el Apéndice I de la presente Norma.",
+    "start_char": 21820,
+    "end_char": 22092
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.7",
+    "label": "6.7        Proporcionar al personal ocupacionalmente expuesto el equipo de protección personal específico",
+    "text": "6.7        Proporcionar al personal ocupacionalmente expuesto el equipo de protección personal específico\n           al riesgo, conforme a lo que señala la NOM-017-STPS-2008, o las que la sustituyan.",
+    "start_char": 22093,
+    "end_char": 22292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.8",
+    "label": "6.8        Practicar exámenes médicos al personal ocupacionalmente expuesto como parte de la vigilancia",
+    "text": "6.8        Practicar exámenes médicos al personal ocupacionalmente expuesto como parte de la vigilancia\n           a su salud, y conservar los resultados en un expediente, de acuerdo con lo dispuesto en el\n           Capítulo 12 de esta Norma.",
+    "start_char": 22293,
+    "end_char": 22536
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.9",
+    "label": "6.9        Informar a los trabajadores sobre los riesgos a la salud por la exposición a los agentes químicos",
+    "text": "6.9        Informar a los trabajadores sobre los riesgos a la salud por la exposición a los agentes químicos\n           contaminantes del ambiente laboral.",
+    "start_char": 22537,
+    "end_char": 22692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.10",
+    "label": "6.10       Capacitar y adiestrar al personal ocupacionalmente expuesto sobre el manejo de las sustancias",
+    "text": "6.10       Capacitar y adiestrar al personal ocupacionalmente expuesto sobre el manejo de las sustancias\n           químicas y el tipo de control aplicado para prevenir la contaminación del ambiente laboral, con\n           base en lo previsto en el Capítulo 13 de esta Norma.",
+    "start_char": 22693,
+    "end_char": 22968
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.11",
+    "label": "6.11       Llevar los registros sobre el reconocimiento, evaluación y control efectuados y los exámenes",
+    "text": "6.11       Llevar los registros sobre el reconocimiento, evaluación y control efectuados y los exámenes\n           médicos practicados.",
+    "start_char": 22969,
+    "end_char": 23104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.12",
+    "label": "6.12       Hacer del conocimiento del personal ocupacionalmente expuesto el resultado de los exámenes",
+    "text": "6.12       Hacer del conocimiento del personal ocupacionalmente expuesto el resultado de los exámenes\n           médicos anuales que se le practiquen.",
+    "start_char": 23105,
+    "end_char": 23255
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.13",
+    "label": "6.13       Prohibir que los menores de 14 a 16 años y mujeres en periodo de gestación o lactancia, se",
+    "text": "6.13       Prohibir que los menores de 14 a 16 años y mujeres en periodo de gestación o lactancia, se\n           expongan a agentes químicos contaminantes del ambiente laboral.",
+    "start_char": 23256,
+    "end_char": 23432
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:6-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "6.14",
+    "label": "6.14       Exhibir ante la autoridad laboral, cuando así lo solicite, la información y documentación que la",
+    "text": "6.14       Exhibir ante la autoridad laboral, cuando así lo solicite, la información y documentación que la\n           presente Norma le obligue a elaborar o poseer.",
+    "start_char": 23433,
+    "end_char": 23598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "7",
+    "label": "7.         Obligaciones del personal ocupacionalmente expuesto",
+    "text": "7.         Obligaciones del personal ocupacionalmente expuesto",
+    "start_char": 23599,
+    "end_char": 23661
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "7.1",
+    "label": "7.1        Observar las medidas preventivas de seguridad y salud en el trabajo que determina esta Norma,",
+    "text": "7.1        Observar las medidas preventivas de seguridad y salud en el trabajo que determina esta Norma,\n           así como las que establezca el patrón para la prevención de riesgos.",
+    "start_char": 23662,
+    "end_char": 23846
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "7.2",
+    "label": "7.2        Dar aviso inmediato al patrón y a la comisión de seguridad e higiene sobre las condiciones",
+    "text": "7.2        Dar aviso inmediato al patrón y a la comisión de seguridad e higiene sobre las condiciones\n           inseguras que adviertan y de los accidentes de trabajo que ocurran por el manejo de sustancias\n           químicas, y colaborar en la investigación de los mismos.",
+    "start_char": 23847,
+    "end_char": 24122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "7.3",
+    "label": "7.3        Utilizar y conservar en buen estado el equipo de protección personal proporcionado por el patrón.",
+    "text": "7.3        Utilizar y conservar en buen estado el equipo de protección personal proporcionado por el patrón.",
+    "start_char": 24123,
+    "end_char": 24231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "7.4",
+    "label": "7.4        Cumplir con las medidas de control señaladas por el patrón para prevenir riesgos.",
+    "text": "7.4        Cumplir con las medidas de control señaladas por el patrón para prevenir riesgos.",
+    "start_char": 24232,
+    "end_char": 24324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "7.5",
+    "label": "7.5        Mantener ordenados y limpios sus lugares de trabajo y áreas comunes.",
+    "text": "7.5        Mantener ordenados y limpios sus lugares de trabajo y áreas comunes.",
+    "start_char": 24325,
+    "end_char": 24404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:7-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "7.6",
+    "label": "7.6        Conducirse en el centro de trabajo en forma segura para evitar cualquier riesgo a la salud.",
+    "text": "7.6        Conducirse en el centro de trabajo en forma segura para evitar cualquier riesgo a la salud.",
+    "start_char": 24405,
+    "end_char": 24507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:7-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "7.7",
+    "label": "7.7        Someterse a los exámenes médicos que el patrón les aplique.",
+    "text": "7.7        Someterse a los exámenes médicos que el patrón les aplique.",
+    "start_char": 24508,
+    "end_char": 24578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:7-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "7.8",
+    "label": "7.8        Participar en la capacitación y adiestramiento que, en materia de prevención de riesgos y",
+    "text": "7.8        Participar en la capacitación y adiestramiento que, en materia de prevención de riesgos y\n           atención a emergencias, sean impartidos por el patrón o por las personas que éste designe.\n\fLunes 28 de abril de 2014                      DIARIO OFICIAL                          (Segunda Sección)",
+    "start_char": 24579,
+    "end_char": 24887
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "8",
+    "label": "8.       Estudio de los agentes químicos contaminantes del ambiente laboral",
+    "text": "8.       Estudio de los agentes químicos contaminantes del ambiente laboral",
+    "start_char": 24889,
+    "end_char": 24964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "8.1",
+    "label": "8.1      El estudio de los agentes químicos contaminantes del ambiente laboral deberá incluir lo siguiente:",
+    "text": "8.1      El estudio de los agentes químicos contaminantes del ambiente laboral deberá incluir lo siguiente:\n         a)    El listado actualizado de todos los agentes químicos contaminantes del ambiente laboral\n               presentes en el centro de trabajo, y\n         b)    La información sobre los agentes químicos contaminantes del ambiente laboral existentes\n               en el centro de trabajo, que al menos comprenda:\n               1)    La cantidad que se maneja por jornada de trabajo, expresada en:\n                     i.     Gramos o mililitros;\n                     ii.    Kilogramos o litros, o\n                     iii.   Toneladas o metros cúbicos;\n               2)    El estado físico de los agentes químicos contaminantes del ambiente laboral, conforme\n                     a lo que dispone la Tabla 1 siguiente, y\n                                                     Tabla 1\n                    Estado físico de la sustancia química en el ambiente laboral\n\n                             Sólidos                  Líquidos          Gases\n\n                              Polvo                   Neblina           Vapor\n\n                              Humo                     Rocío               Gas\n\n                               Fibra                      -                 -\n\n\n               3)    Su información toxicológica, que contemple:\n                     i.     La(s) vía(s) de ingreso al organismo, y\n                     ii.    El Grado de Riesgo a la Salud o la Categoría de Peligro para la Salud, de\n                            acuerdo con el sistema de comunicación de peligros y riesgos que utilice el\n                            centro de trabajo.",
+    "start_char": 24965,
+    "end_char": 26651
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "8.2",
+    "label": "8.2      El estudio se deberá complementar con las hojas de datos de seguridad de todas las sustancias",
+    "text": "8.2      El estudio se deberá complementar con las hojas de datos de seguridad de todas las sustancias\n         químicas que se manejen en el centro de trabajo, con la identificación de aquellas que estén\n         contenidas en el Apéndice I de la presente Norma, de las que no lo están.",
+    "start_char": 26652,
+    "end_char": 26939
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "8.3",
+    "label": "8.3      El estudio de los agentes químicos contaminantes del ambiente laboral se deberá actualizar",
+    "text": "8.3      El estudio de los agentes químicos contaminantes del ambiente laboral se deberá actualizar\n         cuando:\n         a)    Se sustituyan las sustancias químicas que se manejan en el centro de trabajo o se\n               incorporen otras, o\n         b)    Se modifiquen las instalaciones, procesos, maquinaria y equipos que manejan sustancias\n               químicas.",
+    "start_char": 26940,
+    "end_char": 27315
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:8-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "8.4",
+    "label": "8.4      El estudio de los agentes químicos contaminantes del ambiente laboral deberá conservarse al",
+    "text": "8.4      El estudio de los agentes químicos contaminantes del ambiente laboral deberá conservarse al\n         menos por cinco años.",
+    "start_char": 27316,
+    "end_char": 27447
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9",
+    "label": "9.       Reconocimiento",
+    "text": "9.       Reconocimiento",
+    "start_char": 27448,
+    "end_char": 27471
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.1",
+    "label": "9.1      El reconocimiento de los agentes químicos contaminantes del ambiente laboral podrá ser",
+    "text": "9.1      El reconocimiento de los agentes químicos contaminantes del ambiente laboral podrá ser\n         realizado por el patrón o por un laboratorio de pruebas, de conformidad con lo establecido en este\n         Capítulo.",
+    "start_char": 27472,
+    "end_char": 27694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.2",
+    "label": "9.2      El reconocimiento de los agentes químicos contaminantes del ambiente laboral deberá",
+    "text": "9.2      El reconocimiento de los agentes químicos contaminantes del ambiente laboral deberá\n         comprender la identificación:\n         a)    Del centro de trabajo donde se efectúe;\n         b)    De la(s) sustancia(s) química(s) o mezclas que se manejen en el centro de trabajo, cuando\n               impliquen riesgos a la salud de los trabajadores por sus propiedades, concentración, nivel y\n               tiempo de exposición o acción;\n         c)    De las fuentes emisoras y características del área, proceso y puesto de trabajo;\n         d)    De la(s) sustancia(s) química(s) o mezclas por muestrear;\n\f        (Segunda Sección)                         DIARIO OFICIAL                        Lunes 28 de abril de 2014\n\n             e)    De los grupos de exposición homogénea a los agentes químicos contaminantes del\n                   ambiente laboral;\n             f)    Del personal ocupacionalmente expuesto a considerar para el muestreo, y\n             g)    De los controles administrativos y/o técnicos que, en su caso, existan en el centro de trabajo.",
+    "start_char": 27695,
+    "end_char": 28766
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.3",
+    "label": "9.3        La identificación de la(s) sustancia(s) química(s) o mezclas por muestrear que se manejen en el",
+    "text": "9.3        La identificación de la(s) sustancia(s) química(s) o mezclas por muestrear que se manejen en el\n             centro de trabajo, cuando impliquen riesgos a la salud de los trabajadores, se determinará con\n             base en los criterios siguientes:\n             a)    Conforme a lo que prevé el numeral 9.4, de esta Norma, cuando se cuente con informes de\n                   resultados previos de los agentes contaminantes del ambiente laboral, que hayan sido\n                   elaborados por un laboratorio de pruebas, o\n             b)    De acuerdo con lo determinado por el numeral 9.5, de la presente Norma, en caso de no\n                   contar con informes de resultados previos de los agentes contaminantes del ambiente\n                   laboral, que hayan sido elaborados por un laboratorio de pruebas.",
+    "start_char": 28769,
+    "end_char": 29597
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.4",
+    "label": "9.4        Cuando se cuente con informes de resultados previos de los agentes contaminantes del ambiente",
+    "text": "9.4        Cuando se cuente con informes de resultados previos de los agentes contaminantes del ambiente\n             laboral, que hayan sido elaborados por un laboratorio de pruebas, se deberá:\n             a)    Comparar la concentración medida en el ambiente laboral (CMA) de los agentes químicos\n                   contaminantes, con su respectivo valor límite de exposición promedio ponderado en tiempo\n                   (VLE-PPT) o de corto tiempo (VLE-CT) y ubicar el resultado en los rangos que señala la\n                   Tabla 2, y\n                                                      Tabla 2\nPrioridad de muestreo del contaminante químico a evaluar, considerando su concentración medida en\n                                    el ambiente laboral (CMA)\n                   Prioridad de Muestreo                 Rango del VLE (PPT o CT)\n                              Baja                                   CMA          ≤ 0.25 VLE\n                            Moderada              0.25 VLE <         CMA          ≤ 0.50 VLE\n                               Alta               0.50 VLE <         CMA             ≤ VLE\n                            Muy Alta                VLE <            CMA\n\n\n             b)    Muestrear las sustancias químicas con prioridad Muy Alta, Alta y Moderada.",
+    "start_char": 29600,
+    "end_char": 30893
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.5",
+    "label": "9.5        En caso de no contar con informes de resultados previos de los agentes químicos contaminantes",
+    "text": "9.5        En caso de no contar con informes de resultados previos de los agentes químicos contaminantes\n             del ambiente laboral, que hayan sido elaborados por un laboratorio de pruebas, se deberá\n             disponer para cada sustancia química de la información siguiente:\n             a)    La cantidad de sustancia manejada en el área, proceso o puesto de trabajo, de conformidad\n                   con el numeral 9.6;\n             b)    La clasificación de riesgo, con base en el Grado de Riesgo a la Salud o la Categoría de\n                   Peligro para la Salud, conforme al numeral 9.7, de esta Norma, y\n             c)    La volatilidad de las sustancias químicas sólidas o de las que se encuentran en estado\n                   líquido o gaseoso. En caso de que la hoja de datos de seguridad no cuente con este dato de\n                   la sustancia, se podrá obtener de acuerdo con lo que se indica en el numeral 9.8.",
+    "start_char": 30896,
+    "end_char": 31837
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.6",
+    "label": "9.6        La cantidad de sustancia manejada por día en el área, proceso o puesto de trabajo, de",
+    "text": "9.6        La cantidad de sustancia manejada por día en el área, proceso o puesto de trabajo, de\n             conformidad con las categorías contenidas en la Tabla 3.\n                                                      Tabla 3\n                                          Cantidad de Sustancia Manejada\n\n                                              Cantidad manejada/día\n                      Gramos/mililitros\n                      Kilos/litros\n                      Toneladas/metros cúbicos (1 o más)\n                      Cualquier cantidad de sustancia química cancerígena (A1 o A2),\n                      teratogénica o mutagénica\n\fLunes 28 de abril de 2014                          DIARIO OFICIAL                           (Segunda Sección)",
+    "start_char": 31840,
+    "end_char": 32586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.7",
+    "label": "9.7        La clasificación del riesgo se deberá determinar con base en el Grado de Riesgo a la Salud o la",
+    "text": "9.7        La clasificación del riesgo se deberá determinar con base en el Grado de Riesgo a la Salud o la\n           Categoría de Peligro para la Salud de la sustancia química, del sistema de comunicación de\n           peligros y riesgos que utilice el centro de trabajo, según lo indicado en la Tabla 4.\n                                                      Tabla 4\n                                         Clasificación de Riesgo\n\n  Grado de Riesgo a la Salud                                                    Categoría de Peligro\n    NOM-018-STPS-2000,                                                             para la Salud\n                                             Clasificación de Riesgo\n     Modelo rectángulo                                                          NMX-R-019-SCFI-2011\n        (ver Tabla 5)                                                               (ver Tabla 6)\n             Grado 0,\n                                                         0                              Categoría 5\n       Mínimamente peligroso\n             Grado 1,\n                                                         1                              Categoría 4\n       Ligeramente peligroso\n             Grado 2,\n                                                         2                              Categoría 3\n      Moderadamente peligroso\n              Grado 3,\n                                                         3                              Categoría 2\n        Seriamente peligroso\n             Grado 4,\n                                                         4                              Categoría 1\n       Severamente peligroso\n\n\n           a)   El Grado de Riesgo a la Salud de la sustancia química, considerando su vía de ingreso al\n                organismo (oral, piel y/o inhalación) y la Concentración Letal 50 (CL50), se deberá\n                seleccionar conforme a lo dispuesto en la Tabla 5, o\n                                                      Tabla 5\n                                       Grado de Riesgo a la Salud\n\n                                                         Vía de Ingreso / DL50 ó CL50\n Grado de Riesgo a la                        (1)\n                                      Oral                       Piel(2)                 Inhalación(3)\n        Salud\n                                      mg/kg                     mg/kg                     mg/l o ppm\n Grado 0, Mínimamente          DL50   mayor         que DL50 mayor que 5,000 CL50 mayor que 200 mg/l o\n       peligroso               5,000 mg/kg.             mg/kg.               mayor que 10,000 ppm.\n                                                                       CL50 mayor que 20 hasta\n Grado 1, Ligeramente          DL50 mayor que 500 DL50 mayor que 1,000\n                                                                       200 mg/l o mayor que 2,000\n      peligroso                hasta 5,000 mg/kg. hasta 5,000 mg/kg.\n                                                                       hasta 10,000 en ppm.\n                                                                    CL50 mayor que 2 hasta 20\nGrado 2, Moderadamente         DL50 mayor que 50 DL50 mayor que 200\n                                                                    mg/l o mayor que 200 hasta\n       peligroso               hasta 500 mg/kg.  hasta 1,000 mg/kg.\n                                                                    1,000 en ppm.\n                                                                   CL50 mayor que 0.2 hasta 2\n  Grado 3, Seriamente          DL50 mayor que 20 DL50 mayor que 20\n                                                                   mg/l o mayor que 20 hasta\n       peligroso               hasta 50 mg/kg.   hasta 200 mg/kg.\n                                                                   200 ppm.\n Grado 4, Severamente                                                           CL50 hasta 0.2 mg/l o hasta\n                               DL50 hasta 1 mg/kg.       DL50 hasta 20 mg/kg.\n       peligroso                                                                20 ppm.\n(1)\n        Las dosis letales 50 (DL50) están basadas en experimentos de laboratorio, al administrar la sustancia\n        por vía oral a ratas.\n(2)\n        Las dosis letales 50 (DL50) fueron obtenidas por experimentos de laboratorio, al administrar la\n        sustancia vía dérmica a conejos o ratas.\n(3)\n        Las concentraciones letales 50 (CL50) se determinaron en experimentos de laboratorio, al administrar\n        la sustancia por vía inhalatoria a ratas.\n\f       (Segunda Sección)                          DIARIO OFICIAL                      Lunes 28 de abril de 2014\n\n             b)     La Categoría de Peligro para la Salud de la sustancia química, determinada de acuerdo con\n                    el código de indicaciones de peligro del Sistema Globalmente Armonizado para la\n                    Clasificación y Comunicación de Peligros por Sustancias Químicas, de conformidad con lo\n                    que establece la Tabla 6.\n                                                      Tabla 6\n                                        Categoría de Peligro para la Salud\n\n                                                                                                   Categoría\n                                 Código de indicación de Peligro (1)\n                                                                                                   de Peligro\nH333; (H303 + H333); (H313 + H333), y (H303 + H313 + H333).                                             5\nH332; (H302 + H332); (H312 + H332), y (H302 + H312 + H332).                                             4\nH331; H335; H336; (H301 + H331); (H311 + H331), y (H301 + H311 + H331).                                 3\nH305; H341; H351; H361; H371 y H373.                                                                    2\nH304; H330; H334; H340; H350; H360; H370; H372; (H300 + H330); (H310 + H330), y\n                                                                                                        1\n(H300 + H310 + H330).\n (1)\n       Ver el código y su descripción de peligro en el Apéndice II.",
+    "start_char": 32588,
+    "end_char": 38778
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.8",
+    "label": "9.8         La volatilidad de las sustancias químicas sólidas o de las que se encuentran en estado líquido o",
+    "text": "9.8         La volatilidad de las sustancias químicas sólidas o de las que se encuentran en estado líquido o\n             gaseoso, se podrá obtener del modo siguiente:\n             a)     En el caso de las sustancias químicas sólidas, se deberá tomar en cuenta la generación de\n                    polvos, con base en el tamaño de la partícula, conforme a la Tabla 7;\n                                                      Tabla 7\n                          Determinación de la volatilidad de sustancias químicas sólidas\n\n              Volatilidad                                    Sólidos\n                               Sustancias en forma de pellets que no tienen tendencia a romperse.\n                  Baja         No se aprecia producción de polvo durante su empleo. p.ej. pellets de\n                               cloruro de polivinilo, escamas enceradas, entre otras.\n                               Sustancias sólidas cristalinas o granulares. Cuando son usadas, se\n                  Media        observa producción de polvo que se disipa o deposita rápidamente\n                               sobre superficies después del uso. p.ej. jabón en polvo, entre otros.\n                               Polvos finos, ligeros y de baja densidad. Cuando son usados, se\n                   Alta        producen nubes de polvo que permanecen en el aire durante varios\n                               minutos. p.ej. cemento, negro de humo, polvo de tiza, entre otros.\n\n\n             b)     En el caso de las sustancias químicas en estado líquido, se deberá considerar su punto de\n                    ebullición y la temperatura de operación del proceso, de acuerdo con la Tabla 8, y\n                                                      Tabla 8\n                  Determinación de la volatilidad de sustancias químicas en estado líquido\n\n              Volatilidad                                   Líquidos\n                              Punto de ebullición por arriba de 150°C, con temperatura de operación\n                  Baja\n                              de 20 a 55 °C.\n                              Puntos de ebullición entre 50°C, con temperatura de operación de 20 a\n                  Media\n                              310 °C, y 150°C, con temperatura de operación de 20 a 55 °C.\n                              Punto de ebullición por debajo 50°C, con temperatura de operación de\n                  Alta\n                              20 a 310 °C.\n\n\n             c)     Todos los gases se consideran de alta volatilidad.\n\f Lunes 28 de abril de 2014                         DIARIO OFICIAL                            (Segunda Sección)",
+    "start_char": 38780,
+    "end_char": 41408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.9",
+    "label": "9.9       La determinación de la prioridad de las sustancias químicas contaminantes del ambiente laboral",
+    "text": "9.9       La determinación de la prioridad de las sustancias químicas contaminantes del ambiente laboral\n           por muestrear, se deberá efectuar de la manera siguiente:\n           a)   Listar en la Tabla 9 las sustancias químicas manejadas en el área, proceso o puesto de\n                trabajo;\n                                                      Tabla 9\n                Determinación de la prioridad de muestreo de las sustancias químicas\n\n                                              Valor de ponderación                   TOTAL\n                                                                                                   Prioridad de\n                                       Cantidad     Clasificación                  (Suma de los\n       Sustancia química                                            Volatilidad                     muestreo\n                                      manejada       de riesgo                      valores de\n                                                                    (Tabla 10)                      (Tabla 11)\n                                      (Tabla 10)     (Tabla 10)                    ponderación)\n\n\n\n\n           b)   Asignar para cada sustancia química de la Tabla 9, los valores de ponderación para la\n                cantidad manejada, la clasificación del riesgo y su volatilidad, indicados en la Tabla 10;\n                                                     Tabla 10\n                         Valores de ponderación para las sustancias químicas\n\n                                                       Clasificación de\n       Cantidad manejada/día               Valor                           Valor        Volatilidad      Valor\n                                                       riesgo (Tabla 4)\nGramos/mililitros (menos de 1000).           1                  0            1             Baja            1\nKilos/litros (De 1 a menos de 251).          2                  1            2\n                                                                                           Media           2\nKilos/litros (De 251 a menos de 1000).       3                  2            3\nToneladas/metros cúbicos (1 o más).          4                  3            4\nCualquier cantidad de sustancias                                                            Alta           4\nquímicas cancerígenas (A1 o A2),             5                  4            5\nteratogénicas o mutagénicas.\n\n\n           c)   Realizar la sumatoria de los tres valores de ponderación de cada sustancia química en la\n                Tabla 9;\n\f      (Segunda Sección)                             DIARIO OFICIAL                         Lunes 28 de abril de 2014\n\n            d)      Indicar en la Tabla 9, la prioridad de muestreo (Muy Baja, Baja, Moderada, Alta o Muy Alta)\n                    de las sustancias químicas, según corresponda a la suma de los valores de ponderación,\n                    utilizando la Tabla 11, y\n\n                                                       Tabla 11\n\n                                Prioridad de muestreo de las sustancias químicas\n\n                         Suma de valores de ponderación            Prioridad de muestreo\n\n                                      De 3 a 4                             Muy Baja\n\n                                      De 5 a 7                                Baja\n\n                                      De 8 a 9                             Moderada\n\n                                   De 10 a 11                                  Alta\n\n                                  De 12 o más                                Muy Alta\n\n\n            e)      Considerar para el muestreo a las sustancias químicas con prioridad Muy Alta, Alta y Moderada.",
+    "start_char": 41411,
+    "end_char": 45146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.10",
+    "label": "9.10     La selección del personal ocupacionalmente expuesto para el muestreo de las sustancias",
+    "text": "9.10     La selección del personal ocupacionalmente expuesto para el muestreo de las sustancias\n            químicas se deberá realizar de conformidad con lo siguiente:\n\n            a)      Cuando en el área, proceso o puesto de trabajo existe únicamente un trabajador, se deberá\n                    considerar a éste para el muestreo, y\n\n            b)      En caso de estar expuestos dos o más trabajadores a la(s) misma(s) sustancia(s)\n                    química(s), con concentraciones similares, igual tiempo de exposición durante sus jornadas\n                    de trabajo y que desarrollan trabajos similares, se deberán determinar los grupos de\n                    exposición homogénea, considerando que sea:\n\n                    1)     La misma área, proceso o puesto de trabajo, y\n\n                    2)     La misma vía de ingreso al organismo de la sustancia química.",
+    "start_char": 45151,
+    "end_char": 46033
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.11",
+    "label": "9.11     La determinación de los grupos de exposición homogénea, se hará con base en lo siguiente:",
+    "text": "9.11     La determinación de los grupos de exposición homogénea, se hará con base en lo siguiente:\n\n            a)      Seleccionar los valores de ponderación para la(s) vía(s) de ingreso, número de personal\n                    ocupacionalmente expuesto y tiempo de exposición de la Tabla 12, y registrarlo para cada\n                    sustancia en la Tabla 13;\n\n                                                       Tabla 12\n\n                 Valores de ponderación para definir los grupos de exposición homogénea\n\n Vía(s) de ingreso al          Valor de          Número de        Valor de            Tiempo de          Valor de\n      organismo              ponderación     POE expuesto ponderación                 exposición *     ponderación\n\n Aparato respiratorio                                                             De 7 y hasta 8\n                                  8              Más de 100          8                                       8\n y piel                                                                               horas\n\n                                                                                  De 3 y hasta\n Aparato respiratorio             4              de 25 a 100         4                                       4\n                                                                                menos de 7 horas\n\n Absorción o irritación                                                           De 1 y hasta\n                                  2               de 5 a 24          2                                       2\n de la piel                                                                     menos de 3 horas\n\n Ojos o ingestión                 1              Menos de 5          1           Menos de 1 hora             1\n\n   * Cuando la jornada de trabajo sea mayor a 8 horas y hasta 11 horas, se deberá considerar 8 como valor\nde ponderación.\n\f Lunes 28 de abril de 2014                    DIARIO OFICIAL                           (Segunda Sección)\n\n          b)    Asignar para cada sustancia química los valores de ponderación registrados para la(s)\n                vía(s) de ingreso, número de personal ocupacionalmente expuesto y tiempo de exposición,\n                y asentar su resultado en la Tabla 13;\n                                                 Tabla 13\n                        Determinación de los grupos de exposición homogénea\n\n    Sustancias                         VALOR DE PONDERACIÓN                   TOTAL\nquímicas presentes                                                                          Prioridad de\nen el área, proceso     Vía(s) de ingreso     Número de      Tiempo de     (Suma de los      muestreo\no puesto de trabajo       al organismo       POE expuesto    exposición     valores de       (Tabla 14)\n      (Tabla 9)             (Tabla 12)        (Tabla 12)      (Tabla 12)   ponderación)\n\n\n\n\n          c)    Sumar por cada sustancia química presente en el área, proceso o puesto de trabajo los\n                valores de ponderación registrados para la(s) vía(s) de ingreso, número de personal\n                ocupacionalmente expuesto y tiempo de exposición, y asentar su resultado en la columna\n                identificada como “Total”, de la Tabla 13;\n          d)    Identificar en la Tabla 14, la prioridad de muestreo de los grupos de exposición homogénea,\n                considerando el resultado de la suma de los valores de ponderación, obtenidos en la Tabla\n                13, y\n                                                 Tabla 14\n                   Prioridad de muestreo de los grupos de exposición homogénea\n\n                                             Prioridad de muestreo de los grupos de\n                    Ponderación total\n                                                     exposición homogénea\n                               3                               Baja\n                              4a8                           Moderada\n                             9 a 12                            Alta\n                             13 a 24                        Muy alta\n\n\n          e)    Considerar para el muestreo a los grupos de exposición homogénea que tengan una\n                prioridad Muy Alta, Alta y Moderada.",
+    "start_char": 46038,
+    "end_char": 50277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.12",
+    "label": "9.12     El número de personal ocupacionalmente expuesto a considerar para el muestreo de los grupos",
+    "text": "9.12     El número de personal ocupacionalmente expuesto a considerar para el muestreo de los grupos\n          de exposición homogénea identificados con prioridad Muy Alta, Alta y Moderada, se deberá\n          definir conforme a lo siguiente:\n          a)    Para prioridad Muy Alta, el número de personal ocupacionalmente expuesto a considerar\n                para el muestreo se obtiene en función de la cantidad de personal que integra el grupo de\n                exposición homogénea, de acuerdo con lo previsto en la Tabla 15, o\n\f   (Segunda Sección)                           DIARIO OFICIAL                    Lunes 28 de abril de 2014\n\n                                                 Tabla 15\n                Número de POE a considerar para el muestreo, Prioridad Muy Alta\n        Cantidad de POE que integra el Grupo de Número de POE a considerar para el\n                Exposición Homogénea                       muestreo\n                               2                                           1\n                             3a8                                           2\n                            9 a 15                                         3\n                            16 a 25                                        5\n                            26 a 50                                        8\n                           51 a 100                                       15\n                          Más de 100                                      20\n\n\n        b)    Para prioridad Alta y Moderada, el número de personal ocupacionalmente expuesto a\n              considerar para el muestreo se obtiene en función de la cantidad de personal que integra el\n              grupo de exposición homogénea, de conformidad con lo que determina la Tabla 16.\n                                                 Tabla 16\n             Número de POE a considerar para el muestreo, Prioridad Alta y Moderada\n        Cantidad de POE que integra el Grupo de             Número de POE a considerar para\n                Exposición Homogénea                                 el muestreo\n                             2a5                                           1\n                            6 a 10                                         2\n                            11 a 20                                        3\n                            21 a 30                                        4\n                            31 a 50                                        5\n                           51 a 100                                        7\n                          Más de 100                                      10",
+    "start_char": 50279,
+    "end_char": 52901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.13",
+    "label": "9.13    El informe del reconocimiento del ambiente laboral deberá contener lo siguiente:",
+    "text": "9.13    El informe del reconocimiento del ambiente laboral deberá contener lo siguiente:\n        a)    La identificación del centro de trabajo:\n              1)   El nombre, denominación o razón social;\n              2)   El Registro Federal de Contribuyentes;\n              3)   El área, proceso y puesto de trabajo objeto del reconocimiento;\n              4)   Su actividad principal, y\n              5)   Su domicilio;\n        b)    La información sobre la(s) sustancia(s) química(s) o mezclas que se manejen en el centro\n              de trabajo, que comprenda:\n              1)   El nombre químico, comercial o común de la sustancia y su número CAS;\n              2)   Las sustancias químicas que componen las mezclas, en su caso, cuando contengan\n                   una cantidad igual o mayor al 1% de volumen;\n              3)   Las propiedades físicas y químicas siguientes:\n                   i.     Temperatura de ebullición;\n                   ii.    Peso molecular;\n                   iii.   Estado físico de la sustancia química, y\n                   iv.    Volatilidad de las sustancias sólidas o de las que se encuentran en estado líquido\n                          o gaseoso;\n\fLunes 28 de abril de 2014                     DIARIO OFICIAL                              (Segunda Sección)\n\n               4)    La(s) vía(s) de ingreso de la(s) sustancia(s) química(s) al organismo: oral, cutánea y\n                     respiratoria;\n               5)    El tiempo y frecuencia de la exposición del personal ocupacionalmente expuesto a los\n                     agentes químicos contaminantes del ambiente laboral;\n               6)    El Grado de Riesgo a la Salud o la Categoría de Peligro para la Salud, y\n               7)    Los valores límite de exposición;\n         c)    La identificación de las fuentes emisoras y características del área, proceso y puesto de\n               trabajo:\n               1)    La identificación de las fuentes emisoras del contaminante;\n               2)    La ubicación física de las fuentes emisoras por agente contaminante;\n               3)    La ubicación de las áreas, procesos y puestos de trabajo donde exista riesgo a la\n                     exposición;\n               4)    La condición del lugar: abierto o cerrado;\n               5)    La existencia o no de sistemas de extracción y/o inyección de aire, general o\n                     localizado;\n               6)    Las características del proceso:\n                     i.     Continuo, o\n                     ii.    Intermitente, y\n               7)    Las condiciones del proceso respecto de si involucra o no:\n                     i.     Generación del contaminante por combustión;\n                     ii.    Aumento o disminución de temperatura;\n                     iii.   Aumento o disminución de presión, y/o\n                     iv.    Generación de humedad;\n         d)    La determinación de la prioridad de la(s) sustancia(s) química(s) o mezclas por muestrear:\n               1)    El criterio utilizado para determinar la(s) sustancia(s) química(s) o mezclas\n                     contaminantes del ambiente laboral por muestrear, con base en:\n                     i.     La concentración medida en el ambiente laboral (CMA) de informes de resultados\n                            previos, que hayan sido elaborados por un laboratorio de pruebas, y\n                     ii.    La clasificación de la cantidad de sustancia manejada en el área o puesto de\n                            trabajo; clasificación del riesgo, y su volatilidad, y\n               2)    La prioridad de muestreo de las sustancias químicas, en su caso, a partir de:\n                     i.     La cantidad de sustancia manejada;\n                     ii.    La clasificación del riesgo, a partir del Grado de Riesgo a la Salud o la Categoría\n                            de Peligro para la Salud, y\n                     iii.   La determinación de la volatilidad de sustancias químicas;\n         e)    La identificación de los grupos de exposición homogénea a los agentes químicos\n               contaminantes del ambiente laboral:\n               1)    El área, proceso y puesto de trabajo donde se localiza el personal ocupacionalmente\n                     expuesto o los grupos de exposición homogénea;\n               2)    Los puestos de trabajo involucrados;\n               3)    El número de trabajadores expuestos;\n               4)    Las actividades que desarrollan;\n               5)    El tiempo y frecuencia de la exposición, y\n               6)    El equipo de protección personal con que cuenta;\n\f      (Segunda Sección)                       DIARIO OFICIAL                        Lunes 28 de abril de 2014\n\n           f)    La determinación de la prioridad de los grupos de exposición homogénea, conforme a:\n                 1)   La(s) vía(s) de ingreso al organismo;\n                 2)   El número de personal ocupacionalmente expuesto, y\n                 3)   El tiempo de exposición;\n           g)    El personal ocupacionalmente expuesto a considerar para el muestreo, y\n           h)    La descripción de los controles administrativos y/o técnicos que, en su caso, existan en el\n                 centro de trabajo.",
+    "start_char": 52904,
+    "end_char": 58126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:9-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "9.14",
+    "label": "9.14       El informe del reconocimiento deberá ser firmado por quien lo elaboró y, en su caso, por quien lo",
+    "text": "9.14       El informe del reconocimiento deberá ser firmado por quien lo elaboró y, en su caso, por quien lo\n           validó, y habrá de conservarse al menos, por cinco años.",
+    "start_char": 58127,
+    "end_char": 58303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10",
+    "label": "10.        Evaluación",
+    "text": "10.        Evaluación",
+    "start_char": 58304,
+    "end_char": 58325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.1",
+    "label": "10.1       Aspectos generales",
+    "text": "10.1       Aspectos generales",
+    "start_char": 58326,
+    "end_char": 58355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.1.1",
+    "label": "10.1.1     La evaluación de la concentración de los agentes químicos contaminantes del ambiente laboral",
+    "text": "10.1.1     La evaluación de la concentración de los agentes químicos contaminantes del ambiente laboral\n           deberá ser realizada por un laboratorio de pruebas, a partir del reconocimiento de dichos agentes\n           contaminantes elaborado por el patrón o por el mismo laboratorio.",
+    "start_char": 58356,
+    "end_char": 58645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.1.2",
+    "label": "10.1.2     El laboratorio de pruebas deberá validar el reconocimiento de los agentes químicos",
+    "text": "10.1.2     El laboratorio de pruebas deberá validar el reconocimiento de los agentes químicos\n           contaminantes del ambiente laboral, cuando haya sido realizado por el patrón, atento a lo\n           señalado en el numeral 9.1 de la presente Norma.",
+    "start_char": 58646,
+    "end_char": 58900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.1.3",
+    "label": "10.1.3     Si el laboratorio de pruebas, al realizar la evaluación a que se refiriere el presente Capítulo,",
+    "text": "10.1.3     Si el laboratorio de pruebas, al realizar la evaluación a que se refiriere el presente Capítulo,\n           identifica que la información del reconocimiento está incompleta o es errónea, introducirá los\n           ajustes pertinentes.",
+    "start_char": 58901,
+    "end_char": 59146
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.1.4",
+    "label": "10.1.4     La evaluación de la concentración de los agentes químicos contaminantes del ambiente laboral",
+    "text": "10.1.4     La evaluación de la concentración de los agentes químicos contaminantes del ambiente laboral\n           comprenderá las etapas de muestreo, determinación analítica y análisis de resultados.",
+    "start_char": 59147,
+    "end_char": 59347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.2",
+    "label": "10.2       Muestreo de los agentes químicos contaminantes",
+    "text": "10.2       Muestreo de los agentes químicos contaminantes",
+    "start_char": 59348,
+    "end_char": 59405
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.2.1",
+    "label": "10.2.1     El equipo requerido para llevar a cabo el muestreo, deberá incluir lo siguiente:",
+    "text": "10.2.1     El equipo requerido para llevar a cabo el muestreo, deberá incluir lo siguiente:\n           a)    Bomba de muestreo, que cumpla con las características siguientes:\n                 1)   Contar con el modelo, especificaciones y número de serie;\n                 2)   Mantener constante el flujo requerido, con una variación máxima de  5%, durante el\n                      período de tiempo establecido para el muestreo;\n                 3)   Tener la capacidad para ajustar el flujo (alto o bajo) con el calibrador de flujo, acorde\n                      con los requerimientos de los procedimientos o métodos de muestreo y determinación\n                      analítica;\n                 4)   Ser portátil e intrínsecamente segura;\n                 5)   Funcionar de forma continua por lo menos durante 8 horas;\n                 6)   Contar con protección contra interferencias por radiaciones electromagnéticas y radio\n                      frecuencias;\n                 7)   Ser compatible con las necesidades del muestreo y con el medio de captura utilizado, y\n                 8)   Ser sometida a un programa de mantenimiento periódico;\n           b)    Calibrador de flujo de la bomba de muestreo que satisfaga lo siguiente:\n                 1)   Contar con el modelo, especificaciones y número de serie;\n                 2)   Contar con el certificado o informe de calibración nacional o internacional vigente. La\n                      certificación del calibrador de flujo se deberá realizar cada dos años o antes en caso\n                      de que haya sido reparado como consecuencia de un daño;\n                 3)   Tener la capacidad para verificar el flujo (bajo y/o alto) de las bombas de muestreo, y\n                 4)   Ser sometido a un programa de mantenimiento periódico;\n           c)    Medios de captura establecidos por el procedimiento o método para la determinación\n                 analítica de la sustancia química, y\n\fLunes 28 de abril de 2014                  DIARIO OFICIAL                             (Segunda Sección)\n\n         d)    Instrumentos de medición de temperatura y presión, que cuenten con su correspondiente\n               certificado o informe de calibración nacional o internacional vigente, en caso de que así lo\n               requiera el procedimiento o método de muestreo y determinación analítica utilizado. La\n               certificación de los equipos se deberá realizar cada dos años o antes cuando hayan sido\n               reparados como consecuencia de un daño.",
+    "start_char": 59406,
+    "end_char": 61938
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.2.2",
+    "label": "10.2.2   La bomba de muestreo se deberá ajustar, al inicio y al final del muestreo, con el calibrador de",
+    "text": "10.2.2   La bomba de muestreo se deberá ajustar, al inicio y al final del muestreo, con el calibrador de\n         flujo en el centro de trabajo, en apego al procedimiento o método para la determinación analítica\n         de la sustancia química.",
+    "start_char": 61939,
+    "end_char": 62184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.2.3",
+    "label": "10.2.3   Para el muestreo de las sustancias químicas se deberá considerar, para el tiempo y número de",
+    "text": "10.2.3   Para el muestreo de las sustancias químicas se deberá considerar, para el tiempo y número de\n         medios de captura, lo que dispone el procedimiento o método de muestreo y determinación\n         analítica, y aplicar, entre otros, los criterios siguientes:\n         Promedio Ponderado en Tiempo\n         a)    Muestra continúa en el período completo: se toma una sola muestra, sin interrupciones, que\n               abarque la jornada de trabajo o al menos 7/8 de la misma;\n         b)    Muestras consecutivas en el período completo: se interrumpe el muestreo\n               momentáneamente varias veces, pero el tiempo total del muestreo debe ser igual al período\n               de la jornada de trabajo o al menos 7/8 de la misma;\n         c)    Muestras consecutivas en un período parcial: se toman varias muestras durante la jornada\n               de trabajo en la cual hay exposición del personal ocupacionalmente expuesto al\n               contaminante, y\n         Corto Tiempo y Pico\n         d)    Muestras corto tiempo y pico: se deberán tomar muestras, sin interrupciones, en un período\n               de 15 minutos.\n         En la Grafica 1 se ejemplifican de modo esquemático los tipos de muestras que se pueden tomar\n         en una jornada de trabajo.\n                                               Gráfica 1\n                                         TIPOS DE MUESTRAS",
+    "start_char": 62185,
+    "end_char": 63579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.2.4",
+    "label": "10.2.4   Para el muestreo de las sustancias químicas se deberán considerar, al menos, las acciones",
+    "text": "10.2.4   Para el muestreo de las sustancias químicas se deberán considerar, al menos, las acciones\n         siguientes:\n         a)    Colocar la bomba al personal ocupacionalmente expuesto, seleccionado de acuerdo con lo\n               establecido en los numerales 9.10, 9.11 y 9.12 de esta Norma, que esté más próximo a la\n               fuente generadora del contaminante;\n         b)    Evitar que la bomba interfiera con las actividades realizadas por el personal\n               ocupacionalmente expuesto;\n         c)    Ubicar el medio de captura lo más cerca posible de la zona de respiración del personal\n               ocupacionalmente expuesto, y\n         d)    Retirar los medios de captura y empacarlos, de conformidad con lo que prevé el\n               procedimiento o método de muestreo y determinación analítica.\n\f   (Segunda Sección)                         DIARIO OFICIAL                       Lunes 28 de abril de 2014",
+    "start_char": 63584,
+    "end_char": 64520
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-2-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.2.5",
+    "label": "10.2.5   El laboratorio de pruebas deberá contar con las instrucciones que permitan conservar la",
+    "text": "10.2.5   El laboratorio de pruebas deberá contar con las instrucciones que permitan conservar la\n         integridad de la muestra, según aplique para:\n         a)   El tiempo de almacenamiento máximo;\n         b)   La protección contra los efectos de temperatura, luz, vibraciones y humedad, y\n         c)   Las condiciones de protección durante el traslado de las muestras al laboratorio que\n              realizará la determinación analítica.",
+    "start_char": 64522,
+    "end_char": 64967
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-2-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.2.6",
+    "label": "10.2.6   El laboratorio de pruebas deberá contar con la cadena de custodia que incluya, al menos, las",
+    "text": "10.2.6   El laboratorio de pruebas deberá contar con la cadena de custodia que incluya, al menos, las\n         fechas y nombres del personal responsable de:\n         a)   Realizar el muestreo de la(s) sustancia(s) química(s) en el centro de trabajo;\n         b)   Enviar la muestra de la(s) sustancia(s) química(s) al laboratorio de pruebas;\n         c)   Recibir la muestra de la(s) sustancia(s) química(s) en el laboratorio de pruebas;\n         d)   Realizar la determinación analítica de la(s) sustancia(s) química(s), y\n         e)   Elaborar, verificar y avalar el reporte.",
+    "start_char": 64968,
+    "end_char": 65546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.3",
+    "label": "10.3     Determinación analítica de los agentes químicos contaminantes",
+    "text": "10.3     Determinación analítica de los agentes químicos contaminantes",
+    "start_char": 65547,
+    "end_char": 65617
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.3.1",
+    "label": "10.3.1   La determinación analítica de las muestras de los agentes químicos contaminantes del ambiente",
+    "text": "10.3.1   La determinación analítica de las muestras de los agentes químicos contaminantes del ambiente\n         laboral se deberá efectuar por un laboratorio de pruebas que esté acreditado en la técnica\n         analítica correspondiente y aprobado en el procedimiento o método de muestreo y determinación\n         analítica.",
+    "start_char": 65618,
+    "end_char": 65943
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.3.2",
+    "label": "10.3.2   El laboratorio de pruebas deberá aplicar para la sustancia química correspondiente, cualquiera de",
+    "text": "10.3.2   El laboratorio de pruebas deberá aplicar para la sustancia química correspondiente, cualquiera de\n         los procedimientos o métodos de muestreo y determinación analítica emitidos por:\n         a)   La Administración de Seguridad y Salud Ocupacional, de los Estados Unidos de\n              Norteamérica, OSHA, por sus siglas en inglés;\n         b)   El Instituto Nacional de Seguridad y Salud Ocupacional, de los Estados Unidos de\n              Norteamérica, NIOSH, por sus siglas en inglés;\n         c)   El Instituto Nacional de Seguridad e Higiene en el Trabajo, INSHT, del Ministerio del Trabajo\n              de España;\n         d)   El Ejecutivo de Seguridad y Salud del Reino Unido, HSE, por sus siglas en inglés, o\n         e)   La Organización Internacional de Estandarización, ISO, por sus siglas en inglés.",
+    "start_char": 65944,
+    "end_char": 66773
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.3.3",
+    "label": "10.3.3   El laboratorio de pruebas, al aplicar el procedimiento o método de muestreo y determinación",
+    "text": "10.3.3   El laboratorio de pruebas, al aplicar el procedimiento o método de muestreo y determinación\n         analítica seleccionado, deberá cumplir con las especificaciones contenidas en el mismo sobre los\n         aspectos mínimos siguientes:\n         a)   Para el muestreo:\n              1)   El medio de captura, y\n              2)   El flujo de calibración de la bomba, y\n         b)   Para la determinación analítica:\n              1)   El equipo y elementos complementarios requeridos;\n              2)   Los reactivos por utilizar;\n              3)   La precisión y/o exactitud de la técnica analítica para la sustancia;\n              4)   Las interferencias, cuando sean referidas;\n              5)   La preparación de las muestras;\n              6)   La calibración y/o ajuste del equipo y elementos complementarios, y\n              7)   Los cálculos de ajuste, en su caso.",
+    "start_char": 66774,
+    "end_char": 67657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.3.4",
+    "label": "10.3.4   En caso de que el procedimiento o método de muestreo y determinación analítica de los agentes",
+    "text": "10.3.4   En caso de que el procedimiento o método de muestreo y determinación analítica de los agentes\n         químicos contaminantes del ambiente laboral haya sido elaborado en idioma diferente al español,\n         el laboratorio de pruebas deberá contar con una copia del documento en su idioma original y la\n         traducción al español.\n\fLunes 28 de abril de 2014                     DIARIO OFICIAL                             (Segunda Sección)",
+    "start_char": 67658,
+    "end_char": 68109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.3.5",
+    "label": "10.3.5   Cuando el laboratorio de pruebas requiera utilizar procedimiento o método de muestreo y",
+    "text": "10.3.5   Cuando el laboratorio de pruebas requiera utilizar procedimiento o método de muestreo y\n         determinación analítica distintos a los contenidos en el numeral 10.3.2, deberá contar con la\n         autorización de método alterno, con base en lo determinado en los artículos 49 de la Ley Federal\n         sobre Metrología y Normalización; 36 del Reglamento de la Ley Federal sobre Metrología y\n         Normalización, y 8o. del Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo.",
+    "start_char": 68111,
+    "end_char": 68618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-3-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.3.6",
+    "label": "10.3.6   Para solicitar la autorización de procedimientos o método de muestreo y determinación analítica",
+    "text": "10.3.6   Para solicitar la autorización de procedimientos o método de muestreo y determinación analítica\n         alternos, se deberá presentar la documentación siguiente:\n         a)    El procedimiento o método de muestreo y determinación analítica correspondiente, el cual\n               deberá anexar un protocolo de validación que respalde los resultados, tomando en cuenta\n               los conceptos siguientes: intervalo y sensibilidad; precisión y exactitud; interferencias;\n               ventajas y desventajas; instrumentación y equipo; reactivos; procedimiento; calibración y\n               patrones, y los cálculos correspondientes, asentando el nombre específico de la(s)\n               sustancia(s) química(s) contaminante(s) a determinar;\n         b)    En caso de que el procedimiento o método de muestreo y determinación analítica propuesto\n               haya sido elaborado en idioma diferente al español, se deberá incluir la traducción al\n               español y una copia del documento en su idioma original, y\n         c)    La hoja de datos de seguridad correspondiente, conforme a lo que señala la NOM-018-\n               STPS-2000 o la NMX-R-019-SCFI-2011, o las que las sustituyan.",
+    "start_char": 68619,
+    "end_char": 69831
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.4",
+    "label": "10.4     Análisis de resultados de los agentes químicos contaminantes",
+    "text": "10.4     Análisis de resultados de los agentes químicos contaminantes",
+    "start_char": 69832,
+    "end_char": 69901
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.4.1",
+    "label": "10.4.1   Los resultados de las concentraciones medidas en el ambiente laboral (CMA) de las sustancias",
+    "text": "10.4.1   Los resultados de las concentraciones medidas en el ambiente laboral (CMA) de las sustancias\n         químicas deberán compararse con los valores límite de exposición (VLE) del Apéndice I, de la\n         presente Norma, como a continuación se precisa:\n         a)    Se deberá calcular la concentración promedio ponderada en tiempo (CMA-PPT), con la\n               ecuación siguiente:\n\n\n\n\n               Donde:\n               CMAi, es la concentración i esima del contaminante en el ambiente laboral durante un\n                                                  3\n               tiempo determinado, siempre en mg/m o en ppm.\n               ti, es el tiempo i esimo, utilizado en cada toma de muestra, siempre en la misma unidad de\n               tiempo.\n         b)    Cuando la jornada laboral del personal ocupacionalmente expuesto sea diferente de 8 horas\n               diarias, en el intervalo de 6 a 12 horas, se deberá calcular el factor de corrección Fcdía, con\n               la ecuación siguiente:\n\n\n\n\n               Donde:\n               Fc día, es el factor de corrección por día.\n               hd, es la duración de la jornada de trabajo en horas.\n               El valor límite de exposición corregido (VLE corregido), contra el cual será comparado la\n               concentración medida en el ambiente laboral (CMA), se calculará con la ecuación siguiente:\n\f(Segunda Sección)                        DIARIO OFICIAL                     Lunes 28 de abril de 2014\n\n           El factor de corrección no se deberá aplicar cuando se compare la concentración con los\n           valores límite de exposición de corto tiempo o pico (VLE-CT o VLE-P).\n     c)    Cuando la jornada laboral del personal ocupacionalmente expuesto sea diferente a 40 horas\n           por semana, en el intervalo de 30 a 60 horas, se deberá calcular el factor de corrección\n           Fcdía/semana, con la ecuación siguiente:\n\n\n\n\n           Donde:\n           Fc día/semana, es el factor de corrección por día/semana.\n           hs, es la duración de la semana de trabajo en horas.\n           El valor límite de exposición corregido (VLE corregido), contra el cual será comparado la\n           concentración medida en el ambiente laboral (CMA), se calculará con la ecuación siguiente:\n\n\n\n\n     d)    Cuando se requiera convertir las unidades expresadas en mg/m3 a ppm, en condiciones\n           normales de temperatura y presión (TPN), se podrá utilizar la ecuación siguiente:\n\n\n\n\n           Donde:\n           PM, es el peso molecular de la sustancia química en g/mol.\n           24.45, es el l/mol a TPN.\n     e)    Cuando se requiera convertir las unidades expresadas en ppm a mg/m3, en condiciones\n           normales de temperatura y presión (TPN), se podrá utilizar la ecuación siguiente:\n\n\n\n\n           Donde:\n           PM, es el peso molecular de la sustancia química en g/mol.\n           24.45, es el l/mol a TPN.\n     f)    Cuando el(los) trabajador(es) esté(n) expuesto(s) simultáneamente a dos o más sustancias\n           químicas contaminantes del ambiente laboral con efectos aditivos a la salud sobre un mismo\n           órgano, aparato o sistema del cuerpo, éstos se deberán calcular a partir de la sumatoria de\n           la relación de cada una de las concentraciones medidas en el ambiente laboral (CMA) entre\n           su valor límite de exposición (VLE), de la manera siguiente:\n\n\n\n\n           Donde:\n           CMAi, es la concentración de cada uno de los agentes químicos contaminantes del\n           ambiente laboral y el subíndice se correlaciona con cada uno de los VLE.\n     g)    El caso especial del efecto aditivo se presenta cuando la fuente del contaminante es una\n           mezcla líquida y la proporción de sus componentes en el ambiente laboral es similar al de la\n\fLunes 28 de abril de 2014                     DIARIO OFICIAL                             (Segunda Sección)\n\n               mezcla. El valor límite de exposición de la mezcla (VLEmezcla) se deberá calcular a partir del\n               inverso del resultado de la sumatoria de la relación de cada componente dividido entre su\n               valor límite.\n               El VLE mezcla se expresa con la ecuación siguiente:\n\n\n\n\n               Donde:\n               fi, es la composición porcentual en peso del componente y el subíndice es la correlación de\n                                                                              3\n               cada uno de los valores límite de exposición expresado en mg/m .\n         h)    Cuando las sustancias químicas contaminantes del ambiente laboral presenten efectos\n               independientes, se deberán calcular en forma separada los cocientes de las\n               concentraciones medidas en el ambiente laboral (CMA) entre los valores límite de\n               exposición (VLE), de la manera siguiente:",
+    "start_char": 69902,
+    "end_char": 74749
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.4.2",
+    "label": "10.4.2   Enseguida, se deberá obtener el límite superior de confianza (LSC), bajo un enfoque estadístico,",
+    "text": "10.4.2   Enseguida, se deberá obtener el límite superior de confianza (LSC), bajo un enfoque estadístico,\n         del modo siguiente:\n         a)    Para muestras continuas en un período completo, el límite superior de confianza de 95%, se\n               calcula con la ecuación siguiente:\n\n\n\n               Donde:\n               LSC, es el límite superior de confianza.\n\n                   , es el valor promedio CMA.\n               1.645, constante para el nivel de confianza de 95%.\n\n                     , es el coeficiente de variación total (medición y análisis).\n               VLE, es el valor límite de exposición.\n         b)    Para muestras consecutivas en un período completo o muestras consecutivas en un período\n               parcial, el límite superior de confianza de 95%, se calcula con la ecuación siguiente:\n\n\n\n\n               Donde:\n               LSC, es el límite superior de confianza.\n\n                   , es el valor promedio CMA.\n               1.645, constante para el nivel de confianza de 95%.\n\n                     , es el coeficiente de variación total (medición y análisis).\n               n, es el número de muestras.\n               VLE, es el valor límite de exposición.\n\n               El coeficiente de variación total          , se obtiene a partir de los datos calculados por el\n               laboratorio que realiza la evaluación.\n\f   (Segunda Sección)                           DIARIO OFICIAL                        Lunes 28 de abril de 2014\n\n           c)    Para muestras de corto tiempo o pico, el límite superior de confianza se calcula con la\n                 ecuación siguiente:\n\n\n                 Donde:\n                 LSC, es el límite superior de confianza.\n                 CMA, es la concentración medida en el ambiente.\n                 I, es la Incertidumbre determinada por el laboratorio de pruebas.",
+    "start_char": 74754,
+    "end_char": 76615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.4.3",
+    "label": "10.4.3     El límite superior de confianza (LSC) se deberá comparar con el valor límite de exposición (VLE),",
+    "text": "10.4.3     El límite superior de confianza (LSC) se deberá comparar con el valor límite de exposición (VLE),\n           a efecto de seleccionar la acción de control correspondiente, con base en la Tabla 17 y conforme\n           a lo siguiente:\n                                                   Tabla 17\n                                      Acción de control por implantar\n\n  Límite Superior de Confianza                                  Acción por implantar\n           LSC < 0.50 VLE                  Dar seguimiento a las medidas de control dispuestas en el\n                                           numeral 9.2, inciso g), de esta Norma.\n         0.50 VLE ≤ LSC ≤ VLE              Adecuar o instrumentar medidas técnicas y/o administrativas de\n                                           control que establece la presente Norma; practicar exámenes\n                                           médicos específicos al personal ocupacionalmente expuesto, y\n                                           muestrear las sustancias químicas de acuerdo con el período de\n                                           muestreo y evaluación de la Tabla 18 de esta Norma.\n                LSC > VLE                  Instrumentar medidas técnicas y administrativas de control\n                                           previstas en la presente Norma; practicar exámenes médicos\n                                           específicos al personal ocupacionalmente expuesto, y muestrear\n                                           las sustancias químicas de conformidad con el período de\n                                           muestreo y evaluación de la Tabla 18 de esta Norma.\n\n\n           a)    En caso de que el límite superior de confianza (LSC) sea menor del 50% del valor límite de\n                 exposición (VLE), se deberá continuar aplicando las mismas medidas de control referidas el\n                 numeral 9.2, inciso g), de la presente Norma;\n           b)    Cuando el límite superior de confianza (LSC) sea menor o igual que el valor límite de\n                 exposición (VLE) y mayor o igual que el 50% del valor límite de exposición (VLE), se\n                 deberán aplicar las medidas técnicas y/o administrativas de control, a que alude el Capítulo\n                 11 de esta Norma; practicar exámenes médicos específicos al personal ocupacionalmente\n                 expuesto, con base en lo que determina el numeral 12.2, inciso c), de la presente Norma, y\n                 realizar una nueva evaluación para verificar la eficacia de los controles, conforme al período\n                 de muestreo y evaluación de la Tabla 18 de esta Norma, y\n           c)    En caso de que el límite superior de confianza (LSC) sea mayor que el valor límite de\n                 exposición (VLE), se deberán aplicar las medidas técnicas y administrativas de control, a\n                 que se refiere el Capítulo 11 de la presente Norma; practicar exámenes médicos específicos\n                 al personal ocupacionalmente expuesto, de acuerdo con lo señalado en el numeral 12.2,\n                 inciso c), de esta Norma, y realizar una nueva evaluación para verificar la eficacia de los\n                 controles, de conformidad con el período de muestreo y evaluación de la Tabla 18 de la\n                 presente Norma.",
+    "start_char": 76616,
+    "end_char": 79937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.4.4",
+    "label": "10.4.4     Las concentraciones de los agentes químicos contaminantes del ambiente laboral se deberán",
+    "text": "10.4.4     Las concentraciones de los agentes químicos contaminantes del ambiente laboral se deberán\n           evaluar cuando se sustituyan las sustancias químicas que se manejan en el centro de trabajo o\n           se incorporen otras; se modifiquen las instalaciones, procesos, maquinaria y equipos donde se\n           manejen éstas, o concluya la vigencia de los informes de resultados.",
+    "start_char": 79938,
+    "end_char": 80328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.5",
+    "label": "10.5       Informe de evaluación",
+    "text": "10.5       Informe de evaluación",
+    "start_char": 80329,
+    "end_char": 80361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.5.1",
+    "label": "10.5.1     El informe de evaluación deberá contener lo siguiente:",
+    "text": "10.5.1     El informe de evaluación deberá contener lo siguiente:\n           a)    La identificación del centro de trabajo:\n                 1)   El nombre, denominación o razón social del centro de trabajo;\n\fLunes 28 de abril de 2014                       DIARIO OFICIAL                           (Segunda Sección)\n\n               2)    El registro patronal;\n               3)    El área, proceso y puesto de trabajo objeto de la medición, y\n               4)    Su domicilio;\n         b)    El procedimiento o método de muestreo y determinación analítica, utilizado:\n               1)    La clave y nombre del procedimiento o método analítico;\n               2)    La autoridad laboral u organización internacional que lo avala, y\n               3)    La técnica analítica;\n         c)    Los datos del muestreo:\n               1)    El agente contaminante objeto del muestreo;\n               2)    El método de muestreo;\n               3)    Los lugares y puntos de muestreo;\n               4)    El personal o grupos de exposición homogénea por muestrear, en su caso;\n               5)    El tipo de muestras o lecturas personales;\n               6)    El número de medios de captura y muestras;\n               7)    El tiempo del muestreo, y\n               8)    Las fechas de muestreo;\n         d)    La información del personal ocupacionalmente expuesto:\n               1)    El nombre;\n               2)    El puesto;\n               3)    Las actividades específicas durante el muestreo;\n               4)    La descripción del equipo de protección personal;\n               5)    La descripción de los controles técnicos, en su caso, que se tengan en el área,\n                     proceso y puesto de trabajo, y\n               6)    La descripción de los controles administrativos, en su caso, que se aplican durante la\n                     jornada de trabajo;\n         e)    Las características del equipo de muestreo:\n               1)    El tipo de equipo;\n               2)    El modelo;\n               3)    Sus especificaciones;\n               4)    Su número de serie;\n               5)    La calibración inicial, con un mínimo de tres lecturas;\n               6)    La calibración final, con un mínimo de tres lecturas, y\n               7)    La fecha de calibración;\n         f)    Las características del equipo de calibración de flujo:\n               1)    El tipo de equipo;\n               2)    El modelo;\n               3)    Las especificaciones del equipo;\n               4)    Su número de serie, y\n               5)    El número del certificado o informe de calibración y su vigencia;\n         g)    El medio de captura utilizado considerando, según aplique:\n\f      (Segunda Sección)                         DIARIO OFICIAL                    Lunes 28 de abril de 2014\n\n                 1)   Las membranas filtrantes;\n                 2)   Los sólidos adsorbentes;\n                 3)   Los burbujeadores, y/o\n                 4)   Las bolsas para muestreo;\n           h)    Las condiciones atmosféricas del lugar de muestreo:\n                 1)   Presión, y\n                 2)   Temperatura;\n           i)    La información sobre la medición:\n                 1)   La hora inicial y hora final;\n                 2)   El flujo;\n                 3)   El volumen total;\n                 4)   La cantidad colectada;\n                 5)   La concentración medida en el ambiente laboral;\n                 6)   La fecha del muestreo, y\n                 7)   El informe descriptivo sobre las condiciones de operación bajo las cuales se realizó el\n                      muestreo;\n           j)    El tiempo de almacenamiento máximo y condiciones de traslado de las muestras al\n                 laboratorio de análisis;\n           k)    Los datos del equipo para la determinación analítica:\n                 1)   La marca;\n                 2)   Su número de serie, y\n                 3)   El certificado oficial de calibración del equipo y del certificado de pureza del gas de\n                      calibración, en su caso;\n           l)    Los resultados de las concentraciones de los agentes químicos contaminantes presentes en\n                 el ambiente laboral;\n           m)    Los resultados del cálculo del límite superior de confianza;\n           n)    La comparación de las concentraciones presentes en el ambiente laboral con los valores\n                 límite que dispone el Apéndice I de esta Norma, con la información que los valide, y\n           o)    Los datos del laboratorio de pruebas:\n                 1)   La denominación o razón social;\n                 2)   El Registro Federal de Contribuyentes;\n                 3)   El número de acreditación asignado por la entidad de acreditación;\n                 4)   El número de aprobación otorgado por la Secretaría;\n                 5)   La vigencia de la aprobación;\n                 6)   Su domicilio completo;\n                 7)   La fecha de emisión del informe de resultados;\n                 8)   El nombre del responsable signatario evaluado y aprobado, y\n                 9)   El nombre del representante legal.",
+    "start_char": 80362,
+    "end_char": 85469
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:10-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "10.5.2",
+    "label": "10.5.2     El informe de evaluación deberá ser firmado por quien lo elaboró y conservarse, al menos, por",
+    "text": "10.5.2     El informe de evaluación deberá ser firmado por quien lo elaboró y conservarse, al menos, por\n           cinco años.",
+    "start_char": 85470,
+    "end_char": 85597
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "11",
+    "label": "11.        Control",
+    "text": "11.        Control",
+    "start_char": 85598,
+    "end_char": 85616
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:11-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "11.1",
+    "label": "11.1       El patrón deberá adoptar las medidas de control técnicas y/o administrativas que correspondan, y",
+    "text": "11.1       El patrón deberá adoptar las medidas de control técnicas y/o administrativas que correspondan, y\n           darles seguimiento, a través del programa que para tal efecto se establezca, cuando como\n\fLunes 28 de abril de 2014                    DIARIO OFICIAL                             (Segunda Sección)\n\n         resultado de la comparación del límite superior de confianza (LSC) con el valor límite de\n         exposición (VLE) de los agentes químicos contaminantes del ambiente laboral, se obtengan los\n         valores establecidos en la Tabla 17 de la presente Norma.",
+    "start_char": 85617,
+    "end_char": 86200
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:11-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "11.2",
+    "label": "11.2     La(s) medida(s) técnica(s) de control se deberán determinar conforme a la naturaleza de los",
+    "text": "11.2     La(s) medida(s) técnica(s) de control se deberán determinar conforme a la naturaleza de los\n         procesos productivos, aspectos tecnológicos, su factibilidad y viabilidad.",
+    "start_char": 86201,
+    "end_char": 86385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:11-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "11.3",
+    "label": "11.3     Las medidas técnicas de control por adoptar podrán comprender, entre otras, las siguientes:",
+    "text": "11.3     Las medidas técnicas de control por adoptar podrán comprender, entre otras, las siguientes:\n         a)    La modificación de los procedimientos de trabajo para minimizar la generación de\n               contaminantes del ambiente laboral o la exposición del personal ocupacionalmente expuesto;\n         b)    El mantenimiento preventivo y correctivo de las instalaciones, procesos, maquinaria y equipos;\n         c)    La modificación, adecuación o sustitución de las instalaciones, procesos, maquinaria y\n               equipos, por otros que generen menor emisión de contaminantes del ambiente laboral;\n         d)    El acondicionamiento, aislamiento o redistribución física de las instalaciones, procesos,\n               maquinaria y equipos o áreas para evitar la dispersión de los contaminantes del ambiente\n               laboral;\n         e)    La utilización de sistemas de ventilación general;\n         f)    El empleo de sistemas de ventilación por extracción localizada para evitar la dispersión de\n               los contaminantes al ambiente laboral;\n         g)    La dotación de contenedores para la recolección de desechos, y/o\n         h)    La sustitución de las sustancias químicas del ambiente laboral por otras cuyos efectos sean\n               menos nocivos.",
+    "start_char": 86386,
+    "end_char": 87676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:11-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "11.4",
+    "label": "11.4     Los agentes químicos contaminantes del ambiente laboral se deberán muestrear nuevamente",
+    "text": "11.4     Los agentes químicos contaminantes del ambiente laboral se deberán muestrear nuevamente\n         una vez instrumentada(s) la(s) medida(s) técnica(s) de control, a fin de constatar si disminuyó su\n         concentración por debajo del valor límite de exposición (VLE).",
+    "start_char": 87677,
+    "end_char": 87953
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:11-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "11.5",
+    "label": "11.5     Las medidas administrativas de control se deberán aplicar de inmediato, hasta en tanto se",
+    "text": "11.5     Las medidas administrativas de control se deberán aplicar de inmediato, hasta en tanto se\n         implemente(n) la(s) medida(s) técnica(s) de control a que alude el numeral 11.3, de esta Norma.",
+    "start_char": 87954,
+    "end_char": 88157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:11-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "11.6",
+    "label": "11.6     Las medidas administrativas de control se deberán adoptar con el fin de no exponer al personal",
+    "text": "11.6     Las medidas administrativas de control se deberán adoptar con el fin de no exponer al personal\n         ocupacionalmente expuesto a concentraciones superiores a los valores límite de exposición que\n         prevé el Apéndice I, de la presente Norma, entre otras, las siguientes:\n         a)    La limitación de los tiempos y frecuencias de exposición del personal ocupacionalmente\n               expuesto a las sustancias químicas contaminantes, por medio de:\n               1)    La reprogramación de actividades;\n               2)    La redefinición de tiempos y frecuencia de exposición;\n               3)    La rotación del personal, y\n               4)    Su aislamiento a una atmósfera libre de contaminantes;\n         b)    La dotación del equipo de protección personal requerido;\n         c)    La restricción de acceso a las áreas o, en su caso, la dotación del equipo de protección\n               personal a los trabajadores ajenos al manejo a las sustancias químicas, para evitar su\n               exposición a los agentes químicos contaminantes del ambiente laboral, y\n         d)    El programa de protección respiratoria, que contenga los elementos siguientes:\n               1)    El resultado de la información del reconocimiento y evaluación de la exposición en el\n                     área muestreada;\n               2)    Las evaluaciones médicas del personal ocupacionalmente expuesto que requieren\n                     utilizar respiradores;\n               3)    Los criterios para la selección de los filtros, cartuchos y canisters de acuerdo con lo\n                     determinado en la NOM-116-STPS-2009 y/o las NMX sobre respiradores, o las que las\n                     sustituyan;\n               4)    El procedimiento de revisión de ajuste y prueba de hermeticidad de los respiradores;\n\f      (Segunda Sección)                       DIARIO OFICIAL                           Lunes 28 de abril de 2014\n\n                 5)   Las instrucciones para el uso normal y en situaciones de emergencia de los respiradores;\n                 6)   Las instrucciones para revisar la calidad, cantidad y flujo del aire que deberá\n                      suministrarse al personal ocupacionalmente expuesto, en caso de utilizar equipos de\n                      suministro de aire (SCBA, por sus siglas en inglés);\n                 7)   Las instrucciones de mantenimiento, limpieza, desinfección, cuidado, almacenamiento,\n                      inspección, reparación, remplazo y disposición final de los respiradores, y\n                 8)   La capacitación e información al personal ocupacionalmente expuesto que requiere\n                      utilizar equipo de protección respiratoria, que considere las limitaciones para su uso.",
+    "start_char": 88158,
+    "end_char": 90907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:11-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "11.7",
+    "label": "11.7       Se deberá dar seguimiento al programa de protección respiratoria para revisar su correcta",
+    "text": "11.7       Se deberá dar seguimiento al programa de protección respiratoria para revisar su correcta\n           aplicación.",
+    "start_char": 90908,
+    "end_char": 91031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:11-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "11.8",
+    "label": "11.8       Cuando en el centro de trabajo se manejen sustancias químicas cancerígenas, confirmado (A1) o",
+    "text": "11.8       Cuando en el centro de trabajo se manejen sustancias químicas cancerígenas, confirmado (A1) o\n           sospechoso en humanos (A2), se deberá llevar un estricto control, a efecto de mantener el límite\n           superior de confianza (LSC) por debajo del nivel de acción (NA).\n           En caso de que no pueda mantenerse el límite superior de confianza (LSC) por debajo del nivel\n           de acción (NA), se deberá proceder a instrumentar las medidas de control pertinentes, entre\n           otras:\n           a)    El suministro de equipo de protección personal respiratoria de alta eficiencia, o purificadores\n                 de aire de presión positiva o de presión negativa, según aplique;\n           b)    La utilización de sistemas de ventilación por extracción localizada para capturar y evitar la\n                 dispersión de los contaminantes al ambiente laboral, y/o\n           c)    El aislamiento del área, departamento o proceso que involucre la emisión de los agentes\n                 químicos contaminantes del ambiente laboral.\n           Si con la aplicación de las medidas antes descritas, el límite superior de confianza (LSC) se\n           mantiene por arriba del nivel de acción (NA), se deberá proceder a la sustitución de las\n           sustancias químicas cancerígenas por otras cuyos efectos nocivos sean menores.",
+    "start_char": 91032,
+    "end_char": 92389
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:11-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "11.9",
+    "label": "11.9       Cuando la concentración de un agente químico contaminante rebase el valor límite de exposición",
+    "text": "11.9       Cuando la concentración de un agente químico contaminante rebase el valor límite de exposición\n           pico (VLE-P), con motivo de una emergencia por derrame, fuga o dispersión, se deberán aplicar\n           de manera inmediata, al menos, las medidas siguientes:\n           a)    La evacuación del personal del área contaminada;\n           b)    La prestación de los primeros auxilios al personal que lo requiera;\n           c)    El ingreso de los cuerpos de control de emergencias con equipo de protección adecuado al\n                 tipo de riesgo que se presente;\n           d)    La ventilación inmediata del área de trabajo contaminada;\n           e)    La evaluación de las condiciones del ambiente laboral hasta el control de la emergencia, y\n           f)    El seguimiento a la salud del personal del área contaminada.",
+    "start_char": 92390,
+    "end_char": 93233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:11-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "11.10",
+    "label": "11.10      El registro del seguimiento de las medidas de control técnicas y/o administrativas, por puesto o",
+    "text": "11.10      El registro del seguimiento de las medidas de control técnicas y/o administrativas, por puesto o\n           área de trabajo, a que se refieren los numerales 11.3 y 11.6 de esta Norma, deberá contener:\n           a)    El nombre del área, departamento o proceso objeto de la medición;\n           b)    El agente contaminante objeto de la medición;\n           c)    La(s) medida(s) de control adoptada(s) y el o los responsables de su ejecución y\n                 seguimiento;\n           d)    La concentración medida en el ambiente laboral (CMA-PPT o CT);\n           e)    El valor límite de exposición (VLE) que corresponde a la sustancia evaluada, de\n                 conformidad con el Apéndice I, de la presente Norma, y\n           f)    El resultado de la comparación entre el límite superior de confianza (LSC), respecto del\n                 valor límite de exposición (VLE) de la sustancia, según corresponda.",
+    "start_char": 93234,
+    "end_char": 94160
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "12",
+    "label": "12.        Vigilancia a la salud",
+    "text": "12.        Vigilancia a la salud\n\fLunes 28 de abril de 2014                    DIARIO OFICIAL                               (Segunda Sección)",
+    "start_char": 94161,
+    "end_char": 94302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "12.1",
+    "label": "12.1     La vigilancia a la salud del personal ocupacionalmente expuesto se deberá realizar a través de un",
+    "text": "12.1     La vigilancia a la salud del personal ocupacionalmente expuesto se deberá realizar a través de un\n         programa que valore su estado de salud, identifique su susceptibilidad a los agentes químicos\n         contaminantes del ambiente laboral y detecte alteraciones tempranas a su salud.",
+    "start_char": 94304,
+    "end_char": 94602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "12.2",
+    "label": "12.2     El programa para la vigilancia a la salud del personal ocupacionalmente expuesto, deberá",
+    "text": "12.2     El programa para la vigilancia a la salud del personal ocupacionalmente expuesto, deberá\n         considerar, al menos, lo siguiente:\n         a)    La historia clínica laboral, que comprenda:\n               1)    Los datos de identificación del trabajador;\n               2)    Los antecedentes heredo familiares (AHF);\n               3)    Los antecedentes personales no patológicos (APNP);\n               4)    Los antecedentes personales patológicos (APP);\n               5)    La historia laboral con las exposiciones anteriores y actuales al riesgo;\n               6)    Los padecimientos actuales, en su caso;\n               7)    El interrogatorio por aparatos y sistemas, y\n               8)    La exploración física, con énfasis en la agudeza de los sentidos y la facilidad de\n                     expresión para poder transmitir, en forma rápida y precisa, comunicaciones habladas o\n                     escritas o cualquier señal;\n         b)    La aplicación de exámenes médicos de ingreso para identificar alteraciones orgánicas que\n               puedan ser agravadas por la exposición a sustancias químicas;\n         c)    La práctica de exámenes médicos específicos, con base en la actividad de los trabajadores\n               expuestos y el índice biológico de exposición, IBE, sujeta al seguimiento clínico anual o a la\n               evidencia de signos o síntomas que denoten alteración de la salud de los trabajadores.\n               Los exámenes médicos deberán efectuarse conforme a lo que señalan las normas oficiales\n               mexicanas que al respecto emitan la Secretaría de Salud y/o la Secretaría del Trabajo y\n               Previsión Social, y a falta de éstas, los que indique el médico de la empresa, institución\n               privada, de seguridad social o de salud, y\n         d)    Las medidas de control técnicas y/o administrativas, a que aluden los numerales 11.3 y 11.6\n               de esta Norma, que deberán adoptarse de acuerdo con los resultados de la evaluación de\n               los agentes químicos contaminantes del ambiente laboral y de los exámenes médicos\n               practicados.",
+    "start_char": 94603,
+    "end_char": 96755
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:12-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "12.3",
+    "label": "12.3     La vigilancia a la salud del personal ocupacionalmente expuesto deberá estar a cargo de un",
+    "text": "12.3     La vigilancia a la salud del personal ocupacionalmente expuesto deberá estar a cargo de un\n         médico con conocimientos y experiencia en medicina del trabajo y/o en los efectos biológicos de\n         las sustancias químicas.",
+    "start_char": 96756,
+    "end_char": 96994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:12-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "12.4",
+    "label": "12.4     Los exámenes médicos practicados y su registro, así como las medidas de control técnicas y/o",
+    "text": "12.4     Los exámenes médicos practicados y su registro, así como las medidas de control técnicas y/o\n         administrativas adoptadas, se integrarán en un expediente clínico que deberá conservarse por un\n         período mínimo de cinco años, contado a partir de la fecha del último examen.",
+    "start_char": 96995,
+    "end_char": 97288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "13",
+    "label": "13.      Capacitación",
+    "text": "13.      Capacitación",
+    "start_char": 97289,
+    "end_char": 97310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:13-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "13.1",
+    "label": "13.1     La capacitación y adiestramiento que se proporcione al personal ocupacionalmente expuesto",
+    "text": "13.1     La capacitación y adiestramiento que se proporcione al personal ocupacionalmente expuesto\n         deberá considerar, al menos, los temas siguientes:\n         a)    Las propiedades de la(s) sustancia(s) química(s) que se manejen en el centro de trabajo;\n         b)    Los efectos que pueden ocasionar la exposición a la(s) sustancia(s) química(s);\n         c)    Los peligros a la salud por la exposición a la(s) sustancia(s) química(s) en el área de\n               trabajo;\n         d)    La importancia de su participación en el reconocimiento y evaluación de los agentes\n               químicos contaminantes del ambiente laboral;\n         e)    La forma de trabajar con la(s) sustancia(s) química(s) de modo seguro;\n         f)    El control de la(s) sustancia(s) química(s) en el puesto y/o área de trabajo;\n\f      (Segunda Sección)                         DIARIO OFICIAL                    Lunes 28 de abril de 2014\n\n           g)    El programa de protección respiratoria, y\n           h)    El contenido del sistema de comunicación de peligros y riesgos utilizado en la empresa para\n                 la señalización y la hoja de datos de seguridad.",
+    "start_char": 97311,
+    "end_char": 98477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:13-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "13.2",
+    "label": "13.2       La capacitación y adiestramiento se deberá proporcionar al menos cada doce meses al personal",
+    "text": "13.2       La capacitación y adiestramiento se deberá proporcionar al menos cada doce meses al personal\n           ocupacionalmente expuesto.",
+    "start_char": 98478,
+    "end_char": 98619
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "14",
+    "label": "14.        Unidades de verificación",
+    "text": "14.        Unidades de verificación",
+    "start_char": 98620,
+    "end_char": 98655
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:14-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "14.1",
+    "label": "14.1       El patrón tendrá la opción de contratar una unidad de verificación, acreditada y aprobada, de",
+    "text": "14.1       El patrón tendrá la opción de contratar una unidad de verificación, acreditada y aprobada, de\n           conformidad con lo dispuesto en la Ley Federal sobre Metrología y Normalización, para evaluar la\n           conformidad con la presente Norma.",
+    "start_char": 98656,
+    "end_char": 98914
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:14-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "14.2",
+    "label": "14.2       Las unidades de verificación comprobarán el cumplimiento de esta Norma, con base en lo que",
+    "text": "14.2       Las unidades de verificación comprobarán el cumplimiento de esta Norma, con base en lo que\n           establece el Capítulo 16 de la misma, para lo cual emitirán el dictamen correspondiente.",
+    "start_char": 98915,
+    "end_char": 99116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:14-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "14.3",
+    "label": "14.3       El dictamen emitido por una unidad de verificación deberá contener lo siguiente:",
+    "text": "14.3       El dictamen emitido por una unidad de verificación deberá contener lo siguiente:\n           a)    Datos del centro de trabajo verificado:\n                 1)   El nombre, denominación o razón social;\n                 2)   El Registro Federal de Contribuyentes;\n                 3)   El domicilio completo;\n                 4)   El teléfono, y\n                 5)   Su actividad principal;\n           b)    Datos de la unidad de verificación:\n                 1)   El nombre, denominación o razón social;\n                 2)   El número de acreditación;\n                 3)   El número de aprobación otorgado por la Secretaría, y\n                 4)   Su domicilio completo, y\n           c)    Datos del dictamen:\n                 1)   La clave y nombre de la Norma;\n                 2)   El nombre del verificador evaluado y aprobado;\n                 3)   La fecha de verificación;\n                 4)   El número de dictamen;\n                 5)   La vigencia del dictamen;\n                 6)   El lugar de emisión del dictamen;\n                 7)   La fecha de emisión del dictamen, y\n                 8)   El número de registro del dictamen emitido por la Secretaría al rendirse el informe\n                      respectivo.",
+    "start_char": 99117,
+    "end_char": 100357
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:14-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "14.4",
+    "label": "14.4       La vigencia de los dictámenes emitidos por las unidades de verificación será de dos años,",
+    "text": "14.4       La vigencia de los dictámenes emitidos por las unidades de verificación será de dos años,\n           siempre que se mantengan las condiciones que sirvieron de base para su emisión.",
+    "start_char": 100358,
+    "end_char": 100549
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "15",
+    "label": "15.        Laboratorios de prueba",
+    "text": "15.        Laboratorios de prueba",
+    "start_char": 100550,
+    "end_char": 100583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:15-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "15.1",
+    "label": "15.1       El patrón deberá contratar un laboratorio de pruebas, acreditado y aprobado, conforme a lo",
+    "text": "15.1       El patrón deberá contratar un laboratorio de pruebas, acreditado y aprobado, conforme a lo\n           previsto en la Ley Federal sobre Metrología y Normalización, para realizar la evaluación de los\n           agentes químicos contaminantes del ambiente laboral que determina la presente Norma.",
+    "start_char": 100584,
+    "end_char": 100888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:15-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "15.2",
+    "label": "15.2       El laboratorio de pruebas deberá entregar al patrón el informe de sus resultados, de acuerdo con",
+    "text": "15.2       El laboratorio de pruebas deberá entregar al patrón el informe de sus resultados, de acuerdo con\n           lo señalado en el Capítulo 10, de esta Norma.",
+    "start_char": 100889,
+    "end_char": 101053
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:15-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "15.3",
+    "label": "15.3       El informe de resultados emitido por el laboratorio de pruebas deberá contener lo siguiente:",
+    "text": "15.3       El informe de resultados emitido por el laboratorio de pruebas deberá contener lo siguiente:\n           a)    Datos del centro de trabajo evaluado:\n\fLunes 28 de abril de 2014                          DIARIO OFICIAL                        (Segunda Sección)\n\n               1)    El nombre, denominación o razón social;\n               2)    El Registro Federal de Contribuyentes;\n               3)    El domicilio completo;\n               4)    El teléfono, y\n               5)    Su actividad principal;\n         b)    Datos del laboratorio de pruebas:\n               1)    La denominación o razón social;\n               2)    El número de acreditación;\n               3)    El número de aprobación otorgado por la Secretaría, y\n               4)    Su domicilio completo, y\n         c)    Datos del informe de resultados:\n               1)    La clave de la Norma, así como la clave y nombre del procedimiento o método para el\n                     muestreo y la determinación analítica de los agentes químicos contaminantes del\n                     ambiente laboral;\n               2)    El nombre del signatario evaluado y aprobado;\n               3)    El(los) contaminante(s) químico(s) evaluado(s);\n               4)    El(los) equipo(s) utilizado(s) y su número de serie, para el muestreo y la determinación\n                     analítica;\n               5)    La(s) fecha(s) del muestreo;\n               6)    El número del informe de resultados;\n               7)    La vigencia del informe de resultados;\n               8)    El lugar de emisión del informe de resultados;\n               9)    La fecha de emisión del informe de resultados, y\n               10) El número de registro del informe de resultados emitido por la Secretaría al rendirse el\n                   informe respectivo.",
+    "start_char": 101054,
+    "end_char": 102862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:15-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "15.4",
+    "label": "15.4     La vigencia de los informes de resultados estará en función de la correlación entre el límite",
+    "text": "15.4     La vigencia de los informes de resultados estará en función de la correlación entre el límite\n         superior de confianza (LSC) y el valor límite de exposición (VLE), de conformidad con los\n         períodos de muestreo y evaluación que contiene la Tabla 18 y con base en lo siguiente:\n                                                     Tabla 18\n                            Vigencia del Informe de resultados del laboratorio\n\n       Límite Superior de Confianza (LSC)                           Período de muestreo y evaluación\n       VLE <                LSC                -                     Al menos una vez cada 3 meses\n   0.75 VLE <               LSC           ≤ VLE                          Una vez cada 6 meses\n   0.50 VLE <               LSC        ≤ 0.75 VLE                        Una vez cada 12 meses\n   0.25 VLE <               LSC        ≤ 0.50 VLE                        Una vez cada 18 meses\n         -                  LSC        ≤ 0.25 VLE                        Una vez cada 24 meses\n\n\n         a)    Al menos una vez cada 3 meses, si el límite superior de confianza (LSC) es mayor que el\n               valor límite de exposición (VLE);\n         b)    Una vez cada 6 meses, si el límite superior de confianza (LSC) es menor o igual al valor\n               límite de exposición (VLE), pero mayor que el 75 por ciento del valor límite de exposición\n               (VLE);\n         c)    Una vez cada 12 meses, si el límite superior de confianza (LSC) es menor o igual al 75 por\n               ciento del valor límite de exposición (VLE), pero mayor que el 50 por ciento del valor límite\n               de exposición (VLE);\n\f       (Segunda Sección)                       DIARIO OFICIAL                       Lunes 28 de abril de 2014\n\n            d)    Una vez cada 18 meses, si el límite superior de confianza (LSC) es menor o igual al 50 por\n                  ciento del valor límite de exposición (VLE), pero mayor que el 25 por ciento del valor límite\n                  de exposición (VLE), o\n            e)    Una vez cada 24 meses, si el límite superior de confianza (LSC) es menor o igual al 25 por\n                  ciento del valor límite de exposición (VLE).",
+    "start_char": 102863,
+    "end_char": 105064
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:15-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "15.5",
+    "label": "15.5       La vigencia de los informes de resultados a que se refiere el numeral anterior, quedará sin efecto",
+    "text": "15.5       La vigencia de los informes de resultados a que se refiere el numeral anterior, quedará sin efecto\n            cuando se incorporen otras sustancias químicas y/o se modifiquen las instalaciones, procesos,\n            maquinaria y equipos donde se manejen éstas.",
+    "start_char": 105066,
+    "end_char": 105338
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "16",
+    "label": "16.        Procedimiento para la evaluación de la conformidad",
+    "text": "16.        Procedimiento para la evaluación de la conformidad",
+    "start_char": 105340,
+    "end_char": 105401
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:16-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "16.1",
+    "label": "16.1       El presente procedimiento para la evaluación de la conformidad aplica tanto para las visitas de",
+    "text": "16.1       El presente procedimiento para la evaluación de la conformidad aplica tanto para las visitas de\n            inspección desarrolladas por la autoridad del trabajo, como para las visitas de verificación que\n            realicen las unidades de verificación.",
+    "start_char": 105403,
+    "end_char": 105669
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:16-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "16.2",
+    "label": "16.2       El dictamen vigente deberá estar a disposición de la autoridad laboral cuando ésta lo solicite.",
+    "text": "16.2       El dictamen vigente deberá estar a disposición de la autoridad laboral cuando ésta lo solicite.",
+    "start_char": 105671,
+    "end_char": 105777
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:16-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "16.3",
+    "label": "16.3       Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se",
+    "text": "16.3       Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se\n            realizará, según aplique, mediante la constatación física, revisión documental, registros o\n            entrevistas, conforme a lo siguiente:\n\n                    Tipo de\nDisposición                                  Criterio de aceptación                Observaciones      Riesgo\n                 comprobación\n6.1 y 8.1        Documental      El patrón cumple cuando presenta evidencia\n                                 documental de que:\n                                  Cuenta con el estudio actualizado de los\n                                     agentes químicos contaminantes del\n                                     ambiente laboral, y\n                                  El estudio de los agentes químicos\n                                     contaminantes del ambiente laboral\n                                     incluye lo siguiente:\n                                      El listado actualizado de todos los\n                                         agentes químicos contaminantes del\n                                         ambiente laboral presentes en el\n                                         centro de trabajo, y\n                                      La información sobre los agentes\n                                         químicos contaminantes del ambiente\n                                         laboral existentes, que al menos\n                                         comprende:\n                                         o La cantidad que se maneja por\n                                            jornada de trabajo, expresada en:\n                                             Gramos o mililitros;\n                                             Kilogramos o litros, o\n                                             Toneladas o metros cúbicos;\n                                         o El estado físico de los agentes\n                                            químicos       contaminantes    del\n                                            ambiente laboral, conforme a lo\n                                            que dispone la Tabla 1, y\n                                        o Su información toxicológica, sobre:\n                                            La(s) vía(s) de ingreso al\n                                               organismo, y\n                                            El Grado de Riesgo a la Salud\n                                               o la Categoría de Peligro para\n                                               la Salud, de acuerdo con el\n                                               sistema de comunicación de\n                                               peligros y riesgos que utiliza el\n                                               centro de trabajo.\n6.1, 8.2, 8.3 Documental         El patrón cumple cuando presenta evidencia\ny 8.4                            documental de que:\n                                  El estudio se complementa con las hojas\n                                     de datos de seguridad de todas las\n                                     sustancias químicas que se manejan en el\n\f Lunes 28 de abril de 2014                DIARIO OFICIAL                               (Segunda Sección)\n\n                               centro de trabajo, con la identificación de\n                               aquellas que están contenidas en el",
+    "start_char": 105779,
+    "end_char": 109219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:16-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "16.4",
+    "label": "16.4       Para la selección del personal ocupacionalmente expuesto por entrevistar se aplicará el criterio",
+    "text": "16.4       Para la selección del personal ocupacionalmente expuesto por entrevistar se aplicará el criterio\n            muestral contenido en la Tabla 19.\n                                                  Tabla 19\n            Tamaño de la muestra por número de trabajadores ocupacionalmente expuestos\n                       Número de trabajadores                Número de trabajadores por\n                     ocupacionalmente expuestos                     entrevistar\n                                 1-15                                      1\n                                16-50                                      2\n                                51-105                                     3\n                                                          1 por cada 35 trabajadores hasta\n                              Más de 105\n                                                                  un máximo de 15",
+    "start_char": 165631,
+    "end_char": 166544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:16-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "16.5",
+    "label": "16.5       Se podrá acreditar el cumplimiento con esta Norma mediante:",
+    "text": "16.5       Se podrá acreditar el cumplimiento con esta Norma mediante:\n            a)    El dictamen de una unidad de verificación acreditada y aprobada en los términos de la Ley\n                  Federal sobre Metrología y Normalización, y\n            b)    El informe de resultados de un laboratorio de pruebas acreditado y aprobado en los\n                  términos de la Ley Federal sobre Metrología y Normalización.",
+    "start_char": 166546,
+    "end_char": 166966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:16-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "16.6",
+    "label": "16.6       El patrón podrá utilizar el Módulo para el Reconocimiento, Evaluación y Control de los Agentes",
+    "text": "16.6       El patrón podrá utilizar el Módulo para el Reconocimiento, Evaluación y Control de los Agentes\n            Contaminantes Químicos, contenido en el portal de servicios electrónicos de la Secretaría del\n            Trabajo        y     Previsión     Social,       en     la    liga   electrónica      siguiente:\n            http://ercsq.stps.gob.mx/ercsq/Login/LoginCT.aspx, como apoyo para el cumplimiento de las\n            obligaciones de los Capítulos 9, 10 y 11, de la presente Norma.\n\fLunes 28 de abril de 2014                   DIARIO OFICIAL                              (Segunda Sección)",
+    "start_char": 166968,
+    "end_char": 167573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:16-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "16.7",
+    "label": "16.7     Las evidencias de tipo documental y los registros administrativos a que alude esta Norma podrán",
+    "text": "16.7     Las evidencias de tipo documental y los registros administrativos a que alude esta Norma podrán\n         exhibirse de manera impresa o en medios magnéticos, y deberán conservarse al menos durante\n         dos años.",
+    "start_char": 167575,
+    "end_char": 167798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "17",
+    "label": "17.      Actualización del Apéndice I",
+    "text": "17.      Actualización del Apéndice I",
+    "start_char": 167799,
+    "end_char": 167836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:17-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "17.1",
+    "label": "17.1     La Secretaría revisará y, en su caso, actualizará, cada dos años, la información contenida en el",
+    "text": "17.1     La Secretaría revisará y, en su caso, actualizará, cada dos años, la información contenida en el",
+    "start_char": 167837,
+    "end_char": 167942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "18",
+    "label": "18.      Vigilancia",
+    "text": "18.      Vigilancia",
+    "start_char": 168241,
+    "end_char": 168260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:18-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "18.1",
+    "label": "18.1     La vigilancia en el cumplimiento de la presente Norma corresponde a la Secretaría.",
+    "text": "18.1     La vigilancia en el cumplimiento de la presente Norma corresponde a la Secretaría.",
+    "start_char": 168261,
+    "end_char": 168352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19",
+    "label": "19.      Bibliografía",
+    "text": "19.      Bibliografía",
+    "start_char": 168353,
+    "end_char": 168374
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.1",
+    "label": "19.1     Ley Federal sobre Metrología y Normalización. Última reforma publicada en el Diario Oficial de la",
+    "text": "19.1     Ley Federal sobre Metrología y Normalización. Última reforma publicada en el Diario Oficial de la\n         Federación de 9 de abril de 2012.",
+    "start_char": 168375,
+    "end_char": 168524
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.2",
+    "label": "19.2     NOM-008-SCFI-2002, Sistema general de unidades de medida. Publicada en el Diario Oficial de",
+    "text": "19.2     NOM-008-SCFI-2002, Sistema general de unidades de medida. Publicada en el Diario Oficial de\n         la Federación de 27 de noviembre de 2002.",
+    "start_char": 168525,
+    "end_char": 168676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.3",
+    "label": "19.3     NMX-Z-12-2-1987, Muestreo para la inspección por atributos - Parte 2: Métodos de muestreo,",
+    "text": "19.3     NMX-Z-12-2-1987, Muestreo para la inspección por atributos - Parte 2: Métodos de muestreo,\n         tablas y gráficas. Declaratoria de vigencia publicada en el Diario Oficial de la Federación de 28 de\n         octubre de 1987.",
+    "start_char": 168677,
+    "end_char": 168912
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.4",
+    "label": "19.4     Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos (SGA).",
+    "text": "19.4     Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos (SGA).\n         Cuarta edición revisada. Naciones Unidas, Nueva York y Ginebra, 2011.",
+    "start_char": 168913,
+    "end_char": 169090
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.5",
+    "label": "19.5     Workplace Exposure Standards for Airborne Contaminants. Australia. Ed Safe Work Australia,",
+    "text": "19.5     Workplace Exposure Standards for Airborne Contaminants. Australia. Ed Safe Work Australia,\n         diciembre de 2011.",
+    "start_char": 169091,
+    "end_char": 169218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.6",
+    "label": "19.6     Límites de Exposición Profesional para Agentes Químicos en España 2013. España, Ed.",
+    "text": "19.6     Límites de Exposición Profesional para Agentes Químicos en España 2013. España, Ed.\n         Ministerio de Empleo y Seguridad Social / Instituto Nacional de Seguridad e Higiene en el\n         Trabajo.",
+    "start_char": 169219,
+    "end_char": 169428
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.7",
+    "label": "19.7     Threshold Limit Values. For Chemical Substances and Physical Agents and Biological Exposure",
+    "text": "19.7     Threshold Limit Values. For Chemical Substances and Physical Agents and Biological Exposure\n         Indices. EUA, Ed. American Conference of Governmental Industrial Hygienists, 2012.",
+    "start_char": 169429,
+    "end_char": 169621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.8",
+    "label": "19.8     Mary Eide, Michael Simmons y Warren Hendricks, Validation Guidelines for Air Sampling Methods",
+    "text": "19.8     Mary Eide, Michael Simmons y Warren Hendricks, Validation Guidelines for Air Sampling Methods\n         utilizing Chromatographic Analysis. EUA, Ed. OSHA, mayo de 2010.",
+    "start_char": 169622,
+    "end_char": 169798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.9",
+    "label": "19.9     Mary E. Eide, Phil J. Giles, Michael K. Simmons y Warren D. Hendricks, Evaluation Guidelines for",
+    "text": "19.9     Mary E. Eide, Phil J. Giles, Michael K. Simmons y Warren D. Hendricks, Evaluation Guidelines for\n         Air Sampling Methods utilizing Spectroscopic Analysis. EUA, Ed. OSHA, octubre de 2010.",
+    "start_char": 169799,
+    "end_char": 170000
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.10",
+    "label": "19.10    Nelson A. Leidel, Kenneth A. Busch y Jeremiah R. Lynch, Exposure Sampling Strategy Manual.",
+    "text": "19.10    Nelson A. Leidel, Kenneth A. Busch y Jeremiah R. Lynch, Exposure Sampling Strategy Manual.\n         EUA, Ed. National Institute for Occupational Safety and Health, 1977.",
+    "start_char": 170001,
+    "end_char": 170179
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.11",
+    "label": "19.11    OSHA Technical Manual, OTM. EUA, Occupational Safety and Health Administration, 20 de enero",
+    "text": "19.11    OSHA Technical Manual, OTM. EUA, Occupational Safety and Health Administration, 20 de enero\n         de 1999.",
+    "start_char": 170180,
+    "end_char": 170298
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.12",
+    "label": "19.12    Guidance on the interpretation of workplace exposure standards for airborne contaminants.",
+    "text": "19.12    Guidance on the interpretation of workplace exposure standards for airborne contaminants.\n         Australia. Ed. Safe Work Australia, abril de 2012.",
+    "start_char": 170299,
+    "end_char": 170457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.13",
+    "label": "19.13    NIOSH Pocket Guide to Chemical Hazards. EUA, Ed. National Institute for Occupational Safety",
+    "text": "19.13    NIOSH Pocket Guide to Chemical Hazards. EUA, Ed. National Institute for Occupational Safety\n         and Health/Centers for Disease Control and Prevention.\n                                                th",
+    "start_char": 170458,
+    "end_char": 170673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.14",
+    "label": "19.14    NIOSH Manual of Analytical Methods/4 edition. EUA, Ed. National Institute for Occupational",
+    "text": "19.14    NIOSH Manual of Analytical Methods/4 edition. EUA, Ed. National Institute for Occupational\n         Safety and Health/Centers for Disease Control and Prevention.",
+    "start_char": 170674,
+    "end_char": 170844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.15",
+    "label": "19.15    Módulo para el Reconocimiento, Evaluación y Control de los Agentes Contaminantes Químicos.",
+    "text": "19.15    Módulo para el Reconocimiento, Evaluación y Control de los Agentes Contaminantes Químicos.\n         México, Secretaría del Trabajo y Previsión Social. On line.",
+    "start_char": 170845,
+    "end_char": 171013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.16",
+    "label": "19.16    International Chemical Control Toolkit. Programa de seguridad y salud en el trabajo y medio",
+    "text": "19.16    International Chemical Control Toolkit. Programa de seguridad y salud en el trabajo y medio\n         ambiente de la Organización Internacional del Trabajo. On line.",
+    "start_char": 171014,
+    "end_char": 171187
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.17",
+    "label": "19.17    COSHH Essentials/Easy steps to control health risks from chemicals. Reino Unido, Health and",
+    "text": "19.17    COSHH Essentials/Easy steps to control health risks from chemicals. Reino Unido, Health and\n         Safety Executive. On line.",
+    "start_char": 171188,
+    "end_char": 171324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.18",
+    "label": "19.18    Toxnet/Hazardous Substances Data Bank, HSDB. EUA, United States National Library of",
+    "text": "19.18    Toxnet/Hazardous Substances Data Bank, HSDB. EUA, United States National Library of\n         Medicine. On line.",
+    "start_char": 171325,
+    "end_char": 171445
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.19",
+    "label": "19.19    Fundación Mapfre, Manual de Higiene Industrial. Cuarta edición. España, 1996.",
+    "text": "19.19    Fundación Mapfre, Manual de Higiene Industrial. Cuarta edición. España, 1996.",
+    "start_char": 171446,
+    "end_char": 171532
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.20",
+    "label": "19.20    Barbara A. Plog, y Patricia J. Quinlan, Fundamentals of Industrial Hygiene. 5Th edition. EUA, Ed.",
+    "text": "19.20    Barbara A. Plog, y Patricia J. Quinlan, Fundamentals of Industrial Hygiene. 5Th edition. EUA, Ed.\n         National Safety Council.",
+    "start_char": 171533,
+    "end_char": 171673
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.21",
+    "label": "19.21    R.R. Langner, S.K. Norwood, G.E. Socha y H.R. Hoyle, Two methods for establishing industrial",
+    "text": "19.21    R.R. Langner, S.K. Norwood, G.E. Socha y H.R. Hoyle, Two methods for establishing industrial\n         hygiene priorities. American Industrial Hygiene Association Journal. EUA, Vol. 40, No. 12, 1979.\n\f         (Segunda Sección)                      DIARIO OFICIAL                       Lunes 28 de abril de 2014",
+    "start_char": 171674,
+    "end_char": 171993
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.22",
+    "label": "19.22      Christopher L. Holzner, Richard B. Hirsh y Janet B. Perper, Managing Workplace Exposure",
+    "text": "19.22      Christopher L. Holzner, Richard B. Hirsh y Janet B. Perper, Managing Workplace Exposure\n              Information. American Industrial Hygiene Association Journal. EUA, Vol. 54, No. 1, 1993.",
+    "start_char": 171998,
+    "end_char": 172199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-23",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.23",
+    "label": "19.23      Keith Tait, A Commentary on the AIHA Position Statement and White Paper on a Generic",
+    "text": "19.23      Keith Tait, A Commentary on the AIHA Position Statement and White Paper on a Generic\n              Exposure Assessment Standard. American Industrial Hygiene Association. EUA, noviembre de\n              1994.",
+    "start_char": 172203,
+    "end_char": 172421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:19-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "19.24",
+    "label": "19.24      Charles Steer y Gavin Irving, Workplace Exposure Standards – How do we adjust for extended",
+    "text": "19.24      Charles Steer y Gavin Irving, Workplace Exposure Standards – How do we adjust for extended\n              work shifts? AIOH2009 Conference, 5 – 9 December 2009, Canberra, ACT, Australia.",
+    "start_char": 172425,
+    "end_char": 172621
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:clause:20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "number": "20",
+    "label": "20.        Concordancia con normas internacionales",
+    "text": "20.        Concordancia con normas internacionales\n              Esta Norma no concuerda con ninguna norma internacional, por no existir referencia alguna al\n              momento de su elaboración.",
+    "start_char": 172625,
+    "end_char": 172823
+  }
+]

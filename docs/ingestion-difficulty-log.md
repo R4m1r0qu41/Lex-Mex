@@ -64,6 +64,20 @@ packet-based review policy.
   absorbed as if those rows were clauses. Severity scales with the annex:
   one stray table row (`nom-024-stps-2001`) to 744 phantom clauses
   (`nom-010-stps-2014`).
+- `transitory-absorbs-annex` — **found 2026-07-29 while fixing the clause
+  side; pre-existing, not introduced by that fix.** `section_end_marker`
+  ends the transitorios section at a signature marker, `APÉNDICE`, or
+  `ANEXO` only. Trailing material introduced by any other heading — most
+  commonly `Guía de Referencia I`, but also bare `Tabla N.` /
+  `TABLAS:` / `LISTADOS:` — is not recognized, so the *last transitory*
+  swallows it. Affects committed standards (NOM-027's TERCERO is 22,370
+  chars; NOM-085's QUINTO is 27,938; NOM-020's QUINTO is 15,327) and is
+  why NOM-019, NOM-024 and NOM-052 remain held out. Not fixed in the same
+  pass deliberately: adding `Tabla` as a section-end marker could truncate
+  legitimate transitory text that references a table inline, and the
+  reviewer has separately indicated post-transitorios annexes need their
+  own extraction approach — so *how* to model them is an open design
+  question, not a marker list.
 - `indice-selected-as-body` — the índice (table of contents) is itself a
   short, complete, consecutive numbered run starting at 1, so it can win
   run-selection outright and be compiled as the entire clause body,
@@ -74,6 +88,31 @@ packet-based review policy.
 
 Add a new class here the first time it's seen; do not invent a class for a
 single one-off unless it plausibly recurs.
+
+## Resolved 2026-07-29
+
+Reviewer supplied the governing domain rule: **a NOM's normative numbered
+body ends at TRANSITORIOS.** What follows may be apéndices, anexos, tablas
+or listados (sometimes normative) or an explicitly non-binding "Guía de
+Referencia", but it is never clause-structured. Two parser changes followed
+(`docs/decisions.md` 2026-07-29):
+
+1. The clause run is bounded at the real, índice-disambiguated TRANSITORIOS
+   heading, reusing Scope 1's locator (`real_transitorios_heading`) so the
+   clause and transitory paths can never disagree about where a body stops.
+   Closes `annex-continues-numbering` and `annex-form-numbering`.
+2. Form feed (`\x0c`) joins the leading-whitespace class. `pdftotext` emits
+   a page break with no following newline, so a heading landing on a page
+   boundary never matched the line-start anchor. Closes
+   `indice-selected-as-body` — NOM-052's real body was not out-competed by
+   its índice, it was *invisible*, leaving the índice as the only candidate.
+
+`validate_standard` now emits `standard_trailing_material` when substantial
+text follows the transitorios section, so a compiled standard cannot imply
+completeness while omitting normative annexes. It fires on 13 standards.
+
+Fixtures: `page-break-heading-sample.txt`,
+`post-transitorios-annex-sample.txt`.
 
 ## Log
 
@@ -114,17 +153,18 @@ region, after both the índice (~byte 2000) and the real body (~byte
 run wholesale, not the índice/real-section collision class already fixed
 for transitories on 2026-07-27 (ruled out explicitly, not assumed).
 
-Status: open. Not committed to `corpus/`. One remediation lead, not a
-prescription: prefer a candidate run that reaches a plausible terminal
-heading (`is_bibliography_heading` already special-cases this for the
-single-heading case; NOM-019's índice lists both "14. Bibliografía" and
-"15. Concordancia con normas internacionales" as the real body's actual
-end) over raw run length. A "bound candidates to before the first
-TRANSITORIOS marker" idea was considered and rejected: NOM-019's índice
-itself lists `TRANSITORIOS` before the annex, so cutting there would
-truncate the real body to nothing — the same índice-vs-real-section
-ambiguity Scope 1 already solved for transitories would have to be reused
-here too, not reinvented.
+Status: **clause defect closed 2026-07-29.** Now parses to 94 clauses,
+tops 1–15 terminating at `15. Concordancia`. The resolution was the
+rejected idea, done correctly: bounding at TRANSITORIOS *does* work once
+the índice occurrence is disambiguated from the real one — which is
+exactly the Scope 1 locator this entry predicted would have to be reused.
+NOM-019 has TRANSITORIOS at bytes 4879 (índice) and 64447 (real); the
+annex form begins at 66508, after the real section.
+
+**Still held out** on `transitory-absorbs-annex`: its TERCERO transitory
+runs to 46,521 chars, having swallowed the whole Guía de Referencia I
+(the reviewer confirms this guide is explicitly *not* binding — "no es de
+cumplimiento obligatorio" — so it should not be inside a transitory).
 
 ### nom-010-stps-2014 — annex-continues-numbering — 2026-07-28
 
@@ -143,7 +183,7 @@ the platiica PDF for this standard is at `010stps2014.pdf`, not the
 `NOM-010-STPS-2014.pdf` pattern the registry page links (that URL returns
 an HTML error page, not a PDF).
 
-Status: open. Not committed to `corpus/`.
+Status: **closed 2026-07-29.** Ingested at 206 clauses (tops 1-20, terminating at `20. Concordancia`), 6 transitorios, carrying a `standard_trailing_material` warning for Apéndice I. Fixed by bounding the clause run at TRANSITORIOS.
 
 ### nom-035-stps-2018 — annex-continues-numbering — 2026-07-28
 
@@ -158,7 +198,7 @@ not clauses.
 
 What was tried: compiled to `.work/` only.
 
-Status: open. Not committed to `corpus/`.
+Status: **closed 2026-07-29.** Ingested at 111 clauses (tops 1-13, terminating at `13. Concordancia`), 2 transitorios, carrying a `standard_trailing_material` warning for the Guía de Referencia. Fixed by bounding the clause run at TRANSITORIOS.
 
 ### nom-024-stps-2001 — annex-continues-numbering — 2026-07-28
 
@@ -173,10 +213,7 @@ What was tried: compiled to `.work/` only. Detected by a label-content
 check (a clause label containing no alphabetic character), not by the
 validator, which reports 0 issues.
 
-Status: open. Not committed to `corpus/`. Plausibly closed by the same
-terminal-heading fix as the two entries above; worth confirming it is the
-same root cause and not a separate table-parsing issue.
-
+Status: **clause defect closed 2026-07-29** (the `12.5` table row is now excluded — the body bounds at TRANSITORIOS). **Still held out** on `transitory-absorbs-annex`: its SEGUNDO transitory runs to 17,094 chars, having swallowed the reference guide on vibration-exposure calculation and its untitled frequency-band table (whose headings are `Número de Banda de Frecuencia | Frecuencia Central (Hz) | Factor de Ponderación`, which is why the absorbed row read as bare numbers).
 ### nom-052-semarnat-2005 — indice-selected-as-body — 2026-07-28
 
 What's difficult: the compiled `clauses.json` contains exactly 11 clauses
@@ -193,8 +230,7 @@ coverage check (selected-run byte span ÷ document length), which is a
 cheap and apparently reliable discriminator for this class — every other
 instrument in this batch scored ≥0.31.
 
-Status: open. Not committed to `corpus/`.
-
+Status: **clause defect closed 2026-07-29** (the form-feed fix reveals the real body: 76 clauses, tops 1-11, 55% coverage, starting at the true `1. Introducción`). **Still held out** on `transitory-absorbs-annex`: its TERCERO transitory runs to 83,226 chars, having swallowed the Tablas, Listados 1-5, Figura and Anexo 1 — which the reviewer confirms are **normative**, not a guide. It also parses only SEGUNDO and TERCERO, with no PRIMERO, which needs checking before ingestion.
 ### nom-002-semarnat-1996 — metadata-ambiguity — 2026-07-28
 
 What's difficult: not a parser problem — the text parses cleanly (72

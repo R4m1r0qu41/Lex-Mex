@@ -1,0 +1,1112 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n      Establecer los elementos para identificar, analizar y prevenir los factores de riesgo psicosocial, así como para promover un\n   entorno organizacional favorable en los centros de trabajo.",
+    "start_char": 5764,
+    "end_char": 5969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n       La presente Norma Oficial Mexicana rige en todo el territorio nacional y aplica en todos los centros de trabajo, de acuerdo con\n   lo siguiente:\n      a)   Para centros de trabajo en los que laboren hasta quince trabajadores deberán cumplir con lo dispuesto por los numerales\n           5.1, 5.4, 5.5, 5.7, 8.1 y 8.2 de la presente Norma;\n      b)   Para centros de trabajo en los que laboren entre dieciséis y cincuenta trabajadores deberán cumplir con los numerales\n           5.1, 5.2, del 5.4 al 5.8, 7.1, inciso a), 7.2, del 7.4 al 7.9, y el Capítulo 8 de esta Norma, y\n      c)   Para centros de trabajo en los que laboren más de 50 trabajadores deberán cumplir con los numerales 5.1, del 5.3 al 5.8,\n           7.1, inciso b), del 7.2 al 7.9 y el Capítulo 8 de la presente Norma.\n       Aquellos centros de trabajo que cuenten con Certificado de cumplimiento con la norma mexicana NMX-R-025-SCFI-2015,\n   vigente, darán por esa condición cumplimiento con las obligaciones y numerales siguientes: 5.1 inciso b); 8.1, inciso b); 8.2 incisos\n   a), subinciso 2), e) y g); y 5.7 inciso d).",
+    "start_char": 5976,
+    "end_char": 7098
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n     Para la correcta interpretación y aplicación de la presente Norma se deberán consultar las siguientes normas oficiales\n   mexicanas y la norma mexicana, vigentes, o las que las sustituyan:",
+    "start_char": 7105,
+    "end_char": 7313
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "3.1",
+    "label": "3.1 NOM-019-STPS-2011, Constitución, integración, organización y funcionamiento de las comisiones de seguridad e higiene.",
+    "text": "3.1 NOM-019-STPS-2011, Constitución, integración, organización y funcionamiento de las comisiones de seguridad e higiene.",
+    "start_char": 7320,
+    "end_char": 7441
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "3.2",
+    "label": "3.2 NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo-Funciones y actividades.",
+    "text": "3.2 NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo-Funciones y actividades.",
+    "start_char": 7448,
+    "end_char": 7552
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "3.3",
+    "label": "3.3 NMX-R-025-SCFI-2015, En Igualdad Laboral y No Discriminación.",
+    "text": "3.3 NMX-R-025-SCFI-2015, En Igualdad Laboral y No Discriminación.",
+    "start_char": 7559,
+    "end_char": 7624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n      Para efectos de esta Norma, se consideran las definiciones siguientes:",
+    "start_char": 7631,
+    "end_char": 7723
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4.1",
+    "label": "4.1 Acontecimiento traumático severo: Aquel experimentado durante o con motivo del trabajo que se caracteriza por la",
+    "text": "4.1 Acontecimiento traumático severo: Aquel experimentado durante o con motivo del trabajo que se caracteriza por la\n   ocurrencia de la muerte o que representa un peligro real para la integridad física de una o varias personas y que puede generar\n   trastorno de estrés postraumático para quien lo sufre o lo presencia. Algunos ejemplos son: explosiones, derrumbes, incendios de\n   gran magnitud; accidentes graves o mortales, asaltos con violencia, secuestros y homicidios, entre otros.",
+    "start_char": 7731,
+    "end_char": 8219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4.2",
+    "label": "4.2 Apoyo social: Las acciones para mejorar las relaciones sociales en el trabajo en las que se promueve el apoyo mutuo en",
+    "text": "4.2 Apoyo social: Las acciones para mejorar las relaciones sociales en el trabajo en las que se promueve el apoyo mutuo en\n   la solución de problemas de trabajo entre trabajadores, superiores y/o subordinados. Algunos ejemplos de medidas para constituir\n   un apoyo social práctico y oportuno en el lugar de trabajo son: afianzar la relación supervisores-trabajadores; propiciar la ayuda\n   mutua entre los trabajadores; fomentar las actividades culturales y del deporte, y proporcionar ayuda directa cuando sea\n   necesario, entre otros.",
+    "start_char": 8229,
+    "end_char": 8768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4.3",
+    "label": "4.3 Autoridad laboral: Las unidades administrativas competentes de la Secretaría que realizan funciones de inspección y",
+    "text": "4.3 Autoridad laboral: Las unidades administrativas competentes de la Secretaría que realizan funciones de inspección y\n   vigilancia en materia de seguridad y salud en el trabajo, y las correspondientes de las entidades federativas, que actúen en auxilio\n   de aquéllas.",
+    "start_char": 8776,
+    "end_char": 9047
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4.4",
+    "label": "4.4 Centro de trabajo: El lugar o lugares, tales como edificios, locales, instalaciones y áreas, donde se realicen actividades de",
+    "text": "4.4 Centro de trabajo: El lugar o lugares, tales como edificios, locales, instalaciones y áreas, donde se realicen actividades de\n   explotación, aprovechamiento, producción, comercialización, transporte y almacenamiento o prestación de servicios, en los que\n   laboren personas que estén sujetas a una relación de trabajo.",
+    "start_char": 9054,
+    "end_char": 9377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4.5",
+    "label": "4.5 Diagnóstico de seguridad y salud en el trabajo: La identificación de las condiciones inseguras o peligrosas; de los",
+    "text": "4.5 Diagnóstico de seguridad y salud en el trabajo: La identificación de las condiciones inseguras o peligrosas; de los\n   agentes físicos, químicos o biológicos o de los factores de riesgo ergonómico o psicosocial capaces de modificar las condiciones\n   del ambiente laboral; de los peligros circundantes al centro de trabajo, así como de los requerimientos normativos en materia de\n   seguridad y salud en el trabajo que resulten aplicables.\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                          23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                                      Page 3 of 41",
+    "start_char": 9385,
+    "end_char": 10103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4.6",
+    "label": "4.6 Entorno Organizacional Favorable: Aquel en el que se promueve el sentido de pertenencia de los trabajadores a la",
+    "text": "4.6 Entorno Organizacional Favorable: Aquel en el que se promueve el sentido de pertenencia de los trabajadores a la\n   empresa; la formación para la adecuada realización de las tareas encomendadas; la definición precisa de responsabilidades para\n   los trabajadores del centro de trabajo; la participación proactiva y comunicación entre trabajadores; la distribución adecuada de\n   cargas de trabajo, con jornadas de trabajo regulares conforme a la Ley Federal del Trabajo, y la evaluación y el reconocimiento\n   del desempeño.",
+    "start_char": 10114,
+    "end_char": 10642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4.7",
+    "label": "4.7 Factores de Riesgo Psicosocial: Aquellos que pueden provocar trastornos de ansiedad, no orgánicos del ciclo sueño-",
+    "text": "4.7 Factores de Riesgo Psicosocial: Aquellos que pueden provocar trastornos de ansiedad, no orgánicos del ciclo sueño-\n   vigilia y de estrés grave y de adaptación, derivado de la naturaleza de las funciones del puesto de trabajo, el tipo de jornada de\n   trabajo y la exposición a acontecimientos traumáticos severos o a actos de violencia laboral al trabajador, por el trabajo\n   desarrollado.\n       Comprenden las condiciones peligrosas e inseguras en el ambiente de trabajo; las cargas de trabajo cuando exceden la\n   capacidad del trabajador; la falta de control sobre el trabajo (posibilidad de influir en la organización y desarrollo del trabajo\n   cuando el proceso lo permite); las jornadas de trabajo superiores a las previstas en la Ley Federal del Trabajo, rotación de turnos\n   que incluyan turno nocturno y turno nocturno sin períodos de recuperación y descanso; interferencia en la relación trabajo-familia,\n   y el liderazgo negativo y las relaciones negativas en el trabajo.",
+    "start_char": 10650,
+    "end_char": 11642
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4.8",
+    "label": "4.8 Medidas de prevención y acciones de control: Aquellas acciones que se adoptan para prevenir y/o mitigar a los",
+    "text": "4.8 Medidas de prevención y acciones de control: Aquellas acciones que se adoptan para prevenir y/o mitigar a los\n   factores de riesgo psicosocial y, en su caso, para eliminar las prácticas opuestas al entorno organizacional favorable y los actos\n   de violencia laboral, así como las acciones implementadas para darles seguimiento.",
+    "start_char": 11650,
+    "end_char": 11983
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4.9",
+    "label": "4.9 Política de prevención de riesgos psicosociales: La declaración de principios y compromisos que establece el patrón",
+    "text": "4.9 Política de prevención de riesgos psicosociales: La declaración de principios y compromisos que establece el patrón\n   para prevenir los factores de riesgo psicosocial y la violencia laboral, y para la promoción de un entorno organizacional favorable,\n   con el objeto de desarrollar una cultura en la que se procure el trabajo digno o decente, y la mejora continua de las condiciones de\n   trabajo.",
+    "start_char": 11991,
+    "end_char": 12394
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4.10",
+    "label": "4.10 Trabajador: La persona física que presta a otra, física o moral, un trabajo personal subordinado.",
+    "text": "4.10 Trabajador: La persona física que presta a otra, física o moral, un trabajo personal subordinado.",
+    "start_char": 12401,
+    "end_char": 12503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4.11",
+    "label": "4.11 Trabajo: Toda actividad humana, intelectual o material, independientemente del grado de preparación técnica requerido",
+    "text": "4.11 Trabajo: Toda actividad humana, intelectual o material, independientemente del grado de preparación técnica requerido\n   por cada profesión u oficio.",
+    "start_char": 12511,
+    "end_char": 12665
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "4.12",
+    "label": "4.12 Violencia laboral: Aquellos actos de hostigamiento, acoso o malos tratos en contra del trabajador, que pueden dañar su",
+    "text": "4.12 Violencia laboral: Aquellos actos de hostigamiento, acoso o malos tratos en contra del trabajador, que pueden dañar su\n   integridad o salud.",
+    "start_char": 12673,
+    "end_char": 12819
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 12826,
+    "end_char": 12852
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "5.1",
+    "label": "5.1 Establecer por escrito, implantar, mantener y difundir en el centro de trabajo una política de prevención de riesgos",
+    "text": "5.1 Establecer por escrito, implantar, mantener y difundir en el centro de trabajo una política de prevención de riesgos\n   psicosociales que contemple:\n      a)   La prevención de los factores de riesgo psicosocial;\n      b)   La prevención de la violencia laboral, y\n      c)   La promoción de un entorno organizacional favorable.\n      Ver Guía de Referencia IV, en donde se da un ejemplo de la política de prevención de riesgos psicosociales.",
+    "start_char": 12860,
+    "end_char": 13306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "5.2",
+    "label": "5.2 Identificar y analizar los factores de riesgo psicosocial, de acuerdo con lo establecido en los numerales 7.1, inciso a), y 7.2,",
+    "text": "5.2 Identificar y analizar los factores de riesgo psicosocial, de acuerdo con lo establecido en los numerales 7.1, inciso a), y 7.2,\n   de esta Norma, tratándose de centros de trabajo que tengan entre 16 y 50 trabajadores.",
+    "start_char": 13315,
+    "end_char": 13537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "5.3",
+    "label": "5.3 Identificar y analizar los factores de riesgo psicosocial y evaluar el entorno organizacional, de conformidad con lo señalado",
+    "text": "5.3 Identificar y analizar los factores de riesgo psicosocial y evaluar el entorno organizacional, de conformidad con lo señalado\n   en los numerales 7.1, inciso b), 7.2 y 7.3, respectivamente, de la presente Norma, tratándose de centros de trabajo que tengan\n   más de 50 trabajadores.",
+    "start_char": 13545,
+    "end_char": 13831
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "5.4",
+    "label": "5.4 Adoptar las medidas para prevenir y controlar los factores de riesgo psicosocial, promover el entorno organizacional",
+    "text": "5.4 Adoptar las medidas para prevenir y controlar los factores de riesgo psicosocial, promover el entorno organizacional\n   favorable, así como para atender las prácticas opuestas al entorno organizacional favorable y los actos de violencia laboral, con\n   base en lo dispuesto por el Capítulo 8 de la presente Norma.",
+    "start_char": 13838,
+    "end_char": 14155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "5.5",
+    "label": "5.5 Identificar a los trabajadores que fueron sujetos a acontecimientos traumáticos severos durante o con motivo del trabajo y,",
+    "text": "5.5 Identificar a los trabajadores que fueron sujetos a acontecimientos traumáticos severos durante o con motivo del trabajo y,\n   canalizarlos para su atención a la institución de seguridad social o privada, o al médico del centro de trabajo o de la empresa. Ver\n   Guía de referencia I.",
+    "start_char": 14162,
+    "end_char": 14450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "5.6",
+    "label": "5.6 Practicar exámenes médicos y evaluaciones psicológicas a los trabajadores expuestos a violencia laboral y/o a los factores",
+    "text": "5.6 Practicar exámenes médicos y evaluaciones psicológicas a los trabajadores expuestos a violencia laboral y/o a los factores\n   de riesgo psicosocial, cuando existan signos o síntomas que denoten alguna alteración a su salud y el resultado de la\n   identificación y análisis de los factores de riesgo psicosocial, a que se refiere el numeral 7.1 y 7.2 de esta Norma, así lo sugiera\n   y/o existan quejas de violencia laboral mediante los mecanismos a que alude el numeral 8.1, inciso b) de la presente Norma.\n       Los exámenes médicos y evaluaciones psicológicas podrán efectuarse a través de la institución de seguridad social o privada,\n   médico, psiquiatra o psicólogo del centro de trabajo, según corresponda, y deberán efectuarse de conformidad con lo establecido\n   por las normas oficiales mexicanas que al respecto emitan la Secretaría de Salud y/o la Secretaría del Trabajo y Previsión Social,\n   y a falta de éstas, los que indique la institución de seguridad social o privada, o el médico del centro de trabajo, que le preste el\n   servicio médico.",
+    "start_char": 14458,
+    "end_char": 15522
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "5.7",
+    "label": "5.7 Difundir y proporcionar información a los trabajadores sobre:",
+    "text": "5.7 Difundir y proporcionar información a los trabajadores sobre:\n      a)   La política de prevención de riesgos psicosociales;\n      b)   Las medidas adoptadas para combatir las prácticas opuestas al entorno organizacional favorable y los actos de violencia\n           laboral;\n      c)   Las medidas y acciones de prevención y, en su caso, las acciones de control de los factores de riesgo psicosocial;\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                            23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                                       Page 4 of 41\n\n\n\n      d)   Los mecanismos para presentar quejas por prácticas opuestas al entorno organizacional favorable y para denunciar actos\n           de violencia laboral;\n      e)   Los resultados de la identificación y análisis de los factores de riesgo psicosocial para los centros de trabajo que tengan\n           entre 16 y 50 trabajadores, y de la identificación y análisis de los factores de riesgo psicosocial y la evaluación del\n           entorno organizacional tratándose de centros de trabajo de más de 50 trabajadores, y\n      f)   Las posibles alteraciones a la salud por la exposición a los factores de riesgo psicosocial.",
+    "start_char": 15529,
+    "end_char": 16844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:5-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "5.8",
+    "label": "5.8 Llevar los registros sobre:",
+    "text": "5.8 Llevar los registros sobre:\n      a)   Los resultados de la identificación y análisis de los factores de riesgo psicosocial y, además, tratándose de centros de\n           trabajo de más de 50 trabajadores, de las evaluaciones del entorno organizacional;\n      b)   Las medidas de control adoptadas cuando el resultado de la identificación y análisis de los factores de riesgo psicosocial\n           y evaluación del entorno organizacional lo señale, y\n      c)   Los nombres de los trabajadores a los que se les practicaron los exámenes o evaluaciones clínicas y que se comprobó la\n           exposición a factores de riesgo psicosocial, a actos de violencia laboral o acontecimientos traumáticos severos.",
+    "start_char": 16851,
+    "end_char": 17560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "6",
+    "label": "6. Obligaciones de los trabajadores",
+    "text": "6. Obligaciones de los trabajadores",
+    "start_char": 17567,
+    "end_char": 17602
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "6.1",
+    "label": "6.1 Observar las medidas de prevención y, en su caso, de control que dispone esta Norma, así como las que establezca el",
+    "text": "6.1 Observar las medidas de prevención y, en su caso, de control que dispone esta Norma, así como las que establezca el\n   patrón para: controlar los factores de riesgo psicosocial, colaborar para contar con un entorno organizacional favorable y prevenir\n   actos de violencia laboral.",
+    "start_char": 17610,
+    "end_char": 17895
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "6.2",
+    "label": "6.2 Abstenerse de realizar prácticas contrarias al entorno organizacional favorable y actos de violencia laboral.",
+    "text": "6.2 Abstenerse de realizar prácticas contrarias al entorno organizacional favorable y actos de violencia laboral.",
+    "start_char": 17902,
+    "end_char": 18015
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "6.3",
+    "label": "6.3 Participar en la identificación de los factores de riesgo psicosocial y, en su caso, en la evaluación del entorno",
+    "text": "6.3 Participar en la identificación de los factores de riesgo psicosocial y, en su caso, en la evaluación del entorno\n   organizacional.",
+    "start_char": 18022,
+    "end_char": 18158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "6.4",
+    "label": "6.4 Informar sobre prácticas opuestas al entorno organizacional favorable y denunciar actos de violencia laboral, utilizando los",
+    "text": "6.4 Informar sobre prácticas opuestas al entorno organizacional favorable y denunciar actos de violencia laboral, utilizando los\n   mecanismos que establezca el patrón para tal efecto y/o a través de la comisión de seguridad e higiene, a que se refiere la NOM-\n   019-STPS-2011, o las que la sustituyan.",
+    "start_char": 18167,
+    "end_char": 18470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "6.5",
+    "label": "6.5 Informar por escrito al patrón directamente, a través de los servicios preventivos de seguridad y salud en el trabajo o de la",
+    "text": "6.5 Informar por escrito al patrón directamente, a través de los servicios preventivos de seguridad y salud en el trabajo o de la\n   comisión de seguridad e higiene; haber presenciado o sufrido un acontecimiento traumático severo. El escrito deberá contener al\n   menos: la fecha de elaboración; el nombre del trabajador que elabora el escrito; en su caso, el nombre de los trabajadores\n   involucrados; la fecha de ocurrencia, y la descripción del(los) acontecimiento(s).",
+    "start_char": 18478,
+    "end_char": 18950
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:6-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "6.6",
+    "label": "6.6 Participar en los eventos de información que proporcione el patrón.",
+    "text": "6.6 Participar en los eventos de información que proporcione el patrón.",
+    "start_char": 18957,
+    "end_char": 19028
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:6-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "6.7",
+    "label": "6.7 Someterse a los exámenes médicos y evaluaciones psicológicas que determinan la presente Norma y/o las normas",
+    "text": "6.7 Someterse a los exámenes médicos y evaluaciones psicológicas que determinan la presente Norma y/o las normas\n   oficiales mexicanas que al respecto emitan la Secretaría de Salud y/o la Secretaría del Trabajo y Previsión Social, y a falta de\n   éstas, los que indique la institución de seguridad social o privada, o el médico o psicólogo o psiquiatra del centro de trabajo o de la\n   empresa.",
+    "start_char": 19036,
+    "end_char": 19431
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "7",
+    "label": "7. Identificación y análisis de los factores de riesgo psicosocial, y evaluación del entorno organizacional",
+    "text": "7. Identificación y análisis de los factores de riesgo psicosocial, y evaluación del entorno organizacional",
+    "start_char": 19438,
+    "end_char": 19545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "7.1",
+    "label": "7.1 La identificación y análisis de los factores de riesgo psicosocial y la evaluación del entorno organizacional deberán",
+    "text": "7.1 La identificación y análisis de los factores de riesgo psicosocial y la evaluación del entorno organizacional deberán\n   realizarse de conformidad con lo siguiente:\n      a)   Los centros de trabajo que tengan entre 16 y 50 trabajadores, únicamente deberán realizar la identificación y análisis de\n           los factores de riesgo psicosocial, incluyendo a todos los trabajadores (ver Guía de referencia II), y\n      b)   Los centros de trabajo que tengan más de 50 trabajadores, deberán realizar la identificación y análisis de los factores de\n           riesgo psicosocial y la evaluación del entorno organizacional, éstas se podrán realizar con una muestra representativa\n           conforme a lo señalado en la Guía de referencia III, en el numeral III.1.",
+    "start_char": 19553,
+    "end_char": 20317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "7.2",
+    "label": "7.2 La identificación y análisis de los factores de riesgo psicosocial deberá contemplar lo siguiente:",
+    "text": "7.2 La identificación y análisis de los factores de riesgo psicosocial deberá contemplar lo siguiente:\n      a)   Las condiciones en el ambiente de trabajo. Se refieren a condiciones peligrosas e inseguras o deficientes e insalubres; es\n           decir, a las condiciones del lugar de trabajo, que bajo ciertas circunstancias exigen del trabajador un esfuerzo adicional\n           de adaptación;\n      b)   Las cargas de trabajo. Se refieren a las exigencias que el trabajo impone al trabajador y que exceden su capacidad,\n           pueden ser de diversa naturaleza, como cuantitativas, cognitivas o mentales, emocionales, de responsabilidad, así como\n           cargas contradictorias o inconsistentes;\n      c)   La falta de control sobre el trabajo. El control sobre el trabajo es la posibilidad que tiene el trabajador para influir y tomar\n           decisiones en la realización de sus actividades. La iniciativa y autonomía, el uso y desarrollo de habilidades y\n           conocimientos, la participación y manejo del cambio, así como la capacitación son aspectos que dan al trabajador la\n           posibilidad de influir sobre su trabajo. Estos elementos, cuando son inexistentes o escasos, se convierten en un factor de\n           riesgo.\n           La falta de control se denomina como la escasa o inexistente posibilidad que tiene el trabajador para influir y tomar\n           decisiones sobre los diversos aspectos que intervienen en la realización de sus actividades. Contrario a esto, la iniciativa\n           y autonomía, el uso y desarrollo de habilidades y conocimientos, la participación y el manejo del cambio y la capacitación\n           son elementos que dan al trabajador la posibilidad de influir sobre su trabajo.\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                            23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                                      Page 5 of 41\n\n\n\n           Este factor de riesgo sólo aplica en aquellos procesos y/o actividades en los que se requiere toma de decisiones y el\n           trabajador cuenta con conocimientos y experiencia necesaria para tal efecto;\n      d)   Las jornadas de trabajo y rotación de turnos que exceden lo establecido en la Ley Federal del Trabajo. Representan una\n           exigencia de tiempo laboral que se hace al trabajador en términos de la duración y el horario de la jornada, se convierte\n           en factor de riesgo psicosocial cuando se trabaja con extensas jornadas, con frecuente rotación de turnos o turnos\n           nocturnos, sin pausas y descansos periódicos claramente establecidos y ni medidas de prevención y protección del\n           trabajador para detectar afectación de su salud, de manera temprana;\n      e)   Interferencia en la relación trabajo-familia. Surge cuando existe conflicto entre las actividades familiares o personales y\n            las responsabilidades laborales; es decir, cuando de manera constante se tienen que atender responsabilidades\n            laborales durante el tiempo dedicado a la vida familiar y personal, o se tiene que laborar fuera del horario de trabajo;\n\n\n      f)   Liderazgo negativo y relaciones negativas en el trabajo:\n            1) El liderazgo negativo en el trabajo hace referencia al tipo de relación que se establece entre el patrón o, sus\n               representantes y los trabajadores, cuyas características influyen en la forma de trabajar y en las relaciones de un\n               área de trabajo y que está directamente relacionado con la actitud agresiva y/o impositiva; falta de claridad de las\n               funciones en las actividades, y escaso o nulo reconocimiento y retroalimentación del desempeño, y\n            2) El concepto de relaciones negativas en el trabajo se refiere a la interacción que se establece en el contexto laboral y\n               abarca aspectos como la imposibilidad de interactuar con los compañeros de trabajo para la solución de problemas\n               relacionados con el trabajo, y características desfavorables de estas interacciones en aspectos funcionales como\n               deficiente o nulo trabajo en equipo y apoyo social, y\n      g)   La violencia laboral, de conformidad con lo siguiente:\n            1) Acoso, acoso psicológico: Aquellos actos que dañan la estabilidad psicológica, la personalidad, la dignidad o\n               integridad del trabajador. Consiste en acciones de intimidación sistemática y persistente, tales como: descrédito,\n               insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la\n               autodeterminación y amenazas, las cuales llevan al trabajador a la depresión, al aislamiento, a la pérdida de su\n               autoestima. Para efectos de esta Norma no se considera el acoso sexual;\n            2) Hostigamiento: El ejercicio de poder en una relación de subordinación real de la víctima frente al agresor en el\n               ámbito laboral, que se expresa en conductas verbales, físicas o ambas, y\n            3) Malos tratos: Aquellos actos consistentes en insultos, burlas, humillaciones y/o ridiculizaciones del trabajador,\n               realizados de manera continua y persistente (más de una vez y/o en diferentes ocasiones).",
+    "start_char": 20324,
+    "end_char": 25696
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:7-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "7.3",
+    "label": "7.3 La evaluación del entorno organizacional favorable deberá comprender:",
+    "text": "7.3 La evaluación del entorno organizacional favorable deberá comprender:\n      a)   El sentido de pertenencia de los trabajadores a la empresa;\n      b)   La formación para la adecuada realización de las tareas encomendadas;\n      c)   La definición precisa de responsabilidades para los trabajadores;\n      d)   La participación proactiva y comunicación entre el patrón, sus representantes y los trabajadores;\n      e)   La distribución adecuada de cargas de trabajo, con jornadas laborales regulares, y\n      f)   La evaluación y el reconocimiento del desempeño.",
+    "start_char": 25703,
+    "end_char": 26268
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:7-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "7.4",
+    "label": "7.4 Los centros de trabajo podrán utilizar para identificar y analizar los factores de riesgo psicosocial y evaluar el entorno",
+    "text": "7.4 Los centros de trabajo podrán utilizar para identificar y analizar los factores de riesgo psicosocial y evaluar el entorno\n   organizacional, cualquier método que contemple lo siguiente:\n      a)   La aplicación de cuestionarios que cumplan con lo dispuesto por los numerales 7.2 y/o 7.3, según corresponda, y 7.5 de\n           la presente Norma;\n      b)   La forma como se deberá realizar la aplicación de los cuestionarios;\n      c)   La manera de evaluar los cuestionarios, y\n      d)   Los niveles de riesgo y la forma de determinarlos conforme a los resultados de los cuestionarios.\n           Ver Guías de referencia II o III.",
+    "start_char": 26275,
+    "end_char": 26912
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:7-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "7.5",
+    "label": "7.5 Los cuestionarios que desarrolle el centro de trabajo para la identificación y análisis de los factores de riesgo psicosocial y",
+    "text": "7.5 Los cuestionarios que desarrolle el centro de trabajo para la identificación y análisis de los factores de riesgo psicosocial y\n   la evaluación del entorno organizacional, en caso de no utilizar los establecidos en las Guías de referencia II y III de esta Norma,\n   deberán estar validados conforme a lo siguiente:\n      a)   La validación deberá realizarse en trabajadores cuyos centros de trabajo se ubiquen en el territorio nacional;\n      b)   El número de individuos que se utilizó para realizar la validación deberá ser mayor o igual a 10 veces por cada reactivo\n           contemplado inicialmente;\n      c)   Tener medidas de consistencia interna con los coeficientes siguientes:\n            1) De confiabilidad (alfa de Cronbach) superiores a 0.7, y\n            2) De correlación (Pearson o Spearman), con r mayor a 0.5, y significancia menor o igual a 0.05;\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                            23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                                   Page 6 of 41\n\n\n\n\n      d)   Tener validez de constructo mediante análisis factorial confirmatorio cumpliendo con medidas e índices de ajuste\n           siguientes:\n            1) De ajuste absoluto con los índices:\n                I.- Índice de Bondad de Ajuste, GFI (Goodness of Fit Index), mayor a 0.90;\n                II.- Residuo cuadrático medio, RMSR (Root Mean Square Residual), cercana a 0 y máximo 0.08, o\n                III.- Error de aproximación cuadrático medio, RMSEA (Root Mean Square Error of Approximation), menor a 0.08;\n            2) De ajuste incremental o relativo con el índice de ajuste normado, NFI (Normed Fit Index), mayor a 0.90, y\n            3) De parsimonia con el índice Ji cuadrada normada: X2/gl menor o igual a 5, y\n      e)   Se apliquen en población trabajadora de características semejantes a la población trabajadora en que se validó.",
+    "start_char": 26920,
+    "end_char": 28929
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:7-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "7.6",
+    "label": "7.6 La identificación y análisis de los factores de riesgo psicosocial y la evaluación del entorno organizacional deberá",
+    "text": "7.6 La identificación y análisis de los factores de riesgo psicosocial y la evaluación del entorno organizacional deberá\n   integrarse al diagnóstico de seguridad y salud en el trabajo a que se refiere la NOM-030-STPS-2009, vigente o las que la\n   sustituyan.",
+    "start_char": 28937,
+    "end_char": 29196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:7-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "7.7",
+    "label": "7.7 El resultado de la identificación y análisis de los factores de riesgo psicosocial y la evaluación del entorno organizacional",
+    "text": "7.7 El resultado de la identificación y análisis de los factores de riesgo psicosocial y la evaluación del entorno organizacional\n   deberá constar en un informe que contenga lo siguiente:\n      a)   Datos del centro de trabajo verificado:\n            1) Nombre, denominación o razón social;\n            2) Domicilio;\n            3) Actividad principal;\n      b)   Objetivo;\n      c)   Principales actividades realizadas en el centro de trabajo;\n      d)   Método utilizado conforme al numeral 7.4, de la presente Norma;\n      e)   Resultados obtenidos de acuerdo con el numeral 7.4, inciso d) de esta Norma,\n      f)   Conclusiones;\n      g)   Recomendaciones y acciones de intervención, en su caso, y\n      h)   Datos del responsable de la evaluación;\n            1) Nombre completo, y\n            2) Número de cédula profesional, en su caso.",
+    "start_char": 29203,
+    "end_char": 30047
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:7-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "7.8",
+    "label": "7.8 El resultado de la identificación y análisis de los factores de riesgo psicosocial y la evaluación del entorno organizacional",
+    "text": "7.8 El resultado de la identificación y análisis de los factores de riesgo psicosocial y la evaluación del entorno organizacional\n   deberá estar disponible para consulta de los trabajadores.",
+    "start_char": 30054,
+    "end_char": 30245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:7-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "7.9",
+    "label": "7.9 La identificación y análisis de los factores de riesgo psicosocial y la evaluación del entorno organizacional deberá",
+    "text": "7.9 La identificación y análisis de los factores de riesgo psicosocial y la evaluación del entorno organizacional deberá\n   realizarse, al menos, cada dos años.",
+    "start_char": 30253,
+    "end_char": 30413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "8",
+    "label": "8. Medidas de prevención y acciones de control de los factores de riesgo psicosocial, de la violencia laboral, y",
+    "text": "8. Medidas de prevención y acciones de control de los factores de riesgo psicosocial, de la violencia laboral, y\n   promoción del entorno organizacional favorable",
+    "start_char": 30420,
+    "end_char": 30582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "8.1",
+    "label": "8.1 Para la prevención de los factores de riesgo psicosocial y la violencia laboral, así como para la promoción del entorno",
+    "text": "8.1 Para la prevención de los factores de riesgo psicosocial y la violencia laboral, así como para la promoción del entorno\n   organizacional favorable, los centros de trabajo deberán:\n      a)   Establecer acciones para la prevención de los factores de riesgo psicosocial que impulsen: el apoyo social, la difusión de\n           la información y la capacitación;\n      b)   Disponer de mecanismos seguros y confidenciales para la recepción de quejas por prácticas opuestas al entorno\n           organizacional favorable y para denunciar actos de violencia laboral, y\n      c)   Realizar acciones que promuevan el sentido de pertenencia de los trabajadores a la organización; la capacitación para la\n           adecuada realización de las tareas encomendadas; la definición precisa de responsabilidades para los miembros de la\n           organización; la participación proactiva y comunicación entre sus integrantes; la distribución adecuada de cargas de\n           trabajo, con jornadas laborales regulares conforme a la Ley Federal del Trabajo, y la evaluación y el reconocimiento del\n           desempeño.",
+    "start_char": 30589,
+    "end_char": 31697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "8.2",
+    "label": "8.2 Las acciones y programas para la prevención de los factores de riesgo psicosocial, la promoción de un entorno",
+    "text": "8.2 Las acciones y programas para la prevención de los factores de riesgo psicosocial, la promoción de un entorno\n   organizacional favorable y la prevención de la violencia laboral, referidas en el numeral anterior, deberán considerar lo siguiente:\n      a)   En relación con el liderazgo y las relaciones en el trabajo deberán incluir:\n            1) Acciones para el manejo de conflictos en el trabajo, la distribución de los tiempos de trabajo, y la determinación de\n               prioridades en el trabajo;\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                         23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                                Page 7 of 41\n\n\n\n          2) Lineamientos para prohibir la discriminación y fomentar la equidad y el respeto;\n          3) Mecanismos para fomentar la comunicación entre supervisores o gerentes y trabajadores, así como entre los\n             trabajadores;\n          4) Establecer y difundir instrucciones claras a los trabajadores para la atención de los problemas que impiden o limitan\n             el desarrollo de su trabajo, cuando éstos se presenten, y\n          5) Capacitación y sensibilización de los directivos, gerentes y supervisores para la prevención de los factores de riesgo\n             psicosocial y la promoción de entornos organizacionales favorables, con énfasis en lo señalado en los subincisos 1)\n             al 3) de este inciso, según aplique;\n     b)   Respecto a las cargas de trabajo deberán contener:\n          1) Revisión y supervisión que la distribución de la carga de trabajo se realice de forma equitativa y considerando el\n             número de trabajadores, actividades a desarrollar, alcance de la actividad y su capacitación;\n          2) Actividades para planificar el trabajo, considerando el proceso productivo, de manera que se tengan las pausas o\n             periodos necesarios de descanso, rotación de tareas y otras medidas necesarias para evitar ritmos de trabajo\n             acelerados, y\n          3) Instructivos o procedimientos que definan claramente las tareas y responsabilidades;\n     c)   En lo que se refiere al control de trabajo deberán comprender:\n          1) Actividades para involucrar a los trabajadores en la toma de decisiones sobre la organización de su trabajo; para que\n             participen en la mejora de las condiciones de trabajo y la productividad siempre que el proceso productivo lo permita\n             y cuenten con la experiencia y capacitación para ello;\n          2) Acciones para acordar y mejorar el margen de libertad y control sobre su trabajo por parte de los trabajadores y el\n             patrón, y para impulsar que éstos desarrollen nuevas competencias o habilidades, considerando las limitaciones del\n             proceso productivo, y\n          3) Reuniones para abordar las áreas de oportunidad de mejora, a efecto de atender los problemas en el lugar de su\n             trabajo y determinar sus soluciones;\n     d)   En lo relativo al apoyo social deberán incluir actividades que permitan:\n          1) Establecer relaciones entre trabajadores, supervisores, gerentes y patrones para que puedan obtener apoyo los unos\n             de los otros;\n          2) Realizar reuniones periódicas (semestrales o anuales) de seguimiento a las actividades establecidas para el apoyo\n             social y, en su caso, extraordinarias si ocurren eventos que pongan en riesgo la salud del trabajador o al centro de\n             trabajo;\n          3) Promover la ayuda mutua y el intercambio de conocimientos y experiencias entre los trabajadores, y\n          4) Contribuir al fomento de las actividades culturales y del deporte entre sus trabajadores y proporcionarles los equipos\n             y útiles indispensables;\n     e)   En relación con el equilibrio en la relación trabajo-familia, contemplar:\n          1) Acciones para involucrar a los trabajadores en la definición de los horarios de trabajo cuando las condiciones del\n             trabajo lo permitan;\n          2) Lineamientos para establecer medidas y límites que eviten las jornadas de trabajo superiores a las previstas en la\n             Ley Federal del Trabajo;\n          3) Apoyos a los trabajadores, de manera que puedan atender emergencias familiares, mismas que el trabajador tendrá\n             que comprobar, y\n          4) Promoción de actividades de integración familiar en el trabajo, previo acuerdo con los trabajadores;\n\n\n     f)   Respecto al reconocimiento en el trabajo deberán contar con mecanismos que permitan:\n          1) Reconocer el desempeño sobresaliente (superior al esperado) de los trabajadores;\n          2) Difundir los logros de los trabajadores sobresalientes, y\n          3) En su caso, expresar al trabajador sus posibilidades de desarrollo;\n     g)   En lo que se refiere a la prevención de la violencia laboral se deberá:\n          1) Difundir información para sensibilizar sobre la violencia laboral, tanto a trabajadores como a directivos, gerentes y\n             supervisores;\n          2) Establecer procedimientos de actuación y seguimiento para tratar problemas relacionados con la violencia laboral, y\n             capacitar al responsable de su implementación, y\n          3) Informar sobre la forma en que se deben denunciar actos de violencia laboral;\n     h)   En relación con la información y comunicación que se proporciona a los trabajadores se deberá promover que:\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                     23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                                  Page 8 of 41\n\n\n\n           1) El patrón, supervisor o jefe inmediato se comuniquen de forma directa y con frecuencia con los trabajadores sobre\n              cualquier problema que impida o retrase el desarrollo del trabajo;\n           2) Los cambios en la organización o en las condiciones de trabajo se difundan entre los trabajadores, y\n           3) Los trabajadores puedan expresar sus opiniones sobre la solución de los problemas o la mejora de las condiciones\n              de su trabajo que permitan mejorar su desempeño, e\n      i)   Respecto a la capacitación y adiestramiento que se proporciona a los trabajadores se deberá cumplir con:\n           1) Analizar la relación capacitación-tareas encomendadas;\n           2) Dar oportunidad a los trabajadores para señalar sus necesidades de capacitación conforme a sus actividades, y\n           3) Realizar una detección de necesidades de capacitación al menos cada dos años e integrar su resultado en el\n              programa de capacitación.",
+    "start_char": 31706,
+    "end_char": 38498
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "8.3",
+    "label": "8.3 Los centros de trabajo cuyo resultado de las evaluaciones a que se refieren los numerales 7.1 al 7.4, conforme a los",
+    "text": "8.3 Los centros de trabajo cuyo resultado de las evaluaciones a que se refieren los numerales 7.1 al 7.4, conforme a los\n   criterios establecidos en el método aplicado, determinen la necesidad de desarrollar acciones de control, éstas se deberán\n   implementar a través de un Programa que cumpla con lo previsto por el numeral 8.4 de la presente Norma.",
+    "start_char": 38506,
+    "end_char": 38859
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:8-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "8.4",
+    "label": "8.4 El Programa para la atención de los factores de riesgo psicosocial, y en su caso, para propiciar un entorno organizacional",
+    "text": "8.4 El Programa para la atención de los factores de riesgo psicosocial, y en su caso, para propiciar un entorno organizacional\n   favorable y prevenir actos de violencia laboral deberá contener:\n      a)   Las áreas de trabajo y/o los trabajadores sujetos al programa;\n      b)   El tipo de acciones y las medidas de control que deberán adoptarse;\n      c)   Las fechas programadas para su realización;\n      d)   El control de los avances de la implementación del programa;\n      e)   La evaluación posterior a la aplicación de las medidas de control, en su caso, y\n      f)   El responsable de su ejecución.",
+    "start_char": 38866,
+    "end_char": 39475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:8-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "8.5",
+    "label": "8.5 El tipo de acciones deberán realizarse, según aplique, en los niveles siguientes:",
+    "text": "8.5 El tipo de acciones deberán realizarse, según aplique, en los niveles siguientes:\n      a)   Primer nivel: Las acciones se centran en el plano organizacional e implican actuar sobre la política de prevención de\n           riesgos psicosociales del centro de trabajo, la organización del trabajo, las acciones o medios para: disminuir los efectos\n           de los factores de riesgo psicosocial, prevenir la violencia laboral y propiciar el entorno organizacional favorable.\n      b)   Segundo nivel: Las acciones se orientan al plano grupal e implica actuar en la interrelación de los trabajadores o grupos\n           de ellos y la organización del trabajo; su actuación se centra en el tiempo de trabajo, el comportamiento y las\n           interacciones personales, se basan en proporcionar información al trabajador, así como en la sensibilización, (contempla\n           temas como: manejo de conflictos, trabajo en equipo, orientación a resultados, liderazgo, comunicación asertiva,\n           administración del tiempo de trabajo, entre otros), y reforzar el apoyo social, y/o\n\n\n      c)   Tercer nivel: Las acciones se enfocan al plano individual; es decir, se desarrolla cuando se comprueba que existen signos\n           y/o síntomas que denotan alteraciones en la salud, se incluyen intervenciones de tipo clínico o terapéutico.\n           Las intervenciones de tercer nivel que sean de tipo clínico o terapéutico deberán ser realizadas invariablemente por un\n           médico, psicólogo o psiquiatra según corresponda.",
+    "start_char": 39482,
+    "end_char": 41014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "9",
+    "label": "9. Unidades de verificación",
+    "text": "9. Unidades de verificación",
+    "start_char": 41021,
+    "end_char": 41048
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "9.1",
+    "label": "9.1 El patrón tendrá la opción de contratar una unidad de verificación acreditada y aprobada, en los términos de la Ley Federal",
+    "text": "9.1 El patrón tendrá la opción de contratar una unidad de verificación acreditada y aprobada, en los términos de la Ley Federal\n   sobre Metrología y Normalización y su Reglamento, para verificar el grado de cumplimiento con esta Norma.",
+    "start_char": 41055,
+    "end_char": 41291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "9.2",
+    "label": "9.2 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los criterios de",
+    "text": "9.2 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los criterios de\n   cumplimiento que prevé el procedimiento para la evaluación de la conformidad, de acuerdo con lo señalado en el Capítulo 10 de\n   la misma.",
+    "start_char": 41299,
+    "end_char": 41556
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "9.3",
+    "label": "9.3 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento con esta Norma deberán emitir un",
+    "text": "9.3 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento con esta Norma deberán emitir un\n   dictamen, el cual habrá de contener:\n      a)   Datos del centro de trabajo verificado:\n           1) El nombre, denominación o razón social;\n           2) El Registro Federal de Contribuyentes;\n           3) El domicilio completo;\n           4) El teléfono, y\n           5) La actividad principal;\n      b)   Datos de la unidad de verificación:\n           1) El nombre, denominación o razón social;\n           2) El número de acreditación;\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                        23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                                            Page 9 of 41\n\n\n\n           3) El número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social, y\n           4) Su domicilio completo;\n      c)   Datos del dictamen:\n           1) La clave y nombre de la norma;\n           2) El nombre del verificador evaluado y aprobado;\n           3) La fecha de verificación;\n           4) El número de dictamen;\n           5) La vigencia del dictamen;\n           6) El lugar de emisión del dictamen;\n           7) La fecha de emisión del dictamen, y\n           8) El número de registro del dictamen emitido por la Secretaría del Trabajo y Previsión Social al rendirse el informe\n              respectivo, y\n      d)   El método que se utilizó para la identificación y análisis de los factores de riesgo psicosocial y el entorno organizacional,\n           según aplique: los propuestos por las guías de referencia II o III de la presente Norma, o métodos desarrollados por el\n           patrón que cumplan con lo dispuesto por los numerales 7.4 y 7.5 de esta Norma.",
+    "start_char": 41564,
+    "end_char": 43410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:9-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "9.4",
+    "label": "9.4 La vigencia de los dictámenes emitidos por las unidades de verificación será de dos años, siempre y cuando no sean",
+    "text": "9.4 La vigencia de los dictámenes emitidos por las unidades de verificación será de dos años, siempre y cuando no sean\n   modificadas las condiciones que sirvieron para su emisión.",
+    "start_char": 43416,
+    "end_char": 43596
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "10",
+    "label": "10. Procedimiento para la evaluación de la conformidad",
+    "text": "10. Procedimiento para la evaluación de la conformidad",
+    "start_char": 43603,
+    "end_char": 43657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:10-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "10.1",
+    "label": "10.1 Este procedimiento para la evaluación de la conformidad aplica tanto a las visitas de inspección desarrolladas por la",
+    "text": "10.1 Este procedimiento para la evaluación de la conformidad aplica tanto a las visitas de inspección desarrolladas por la\n   autoridad laboral, como a las visitas de verificación que realicen las unidades de verificación.",
+    "start_char": 43664,
+    "end_char": 43886
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:10-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "10.2",
+    "label": "10.2 Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se realizarán, según aplique,",
+    "text": "10.2 Los aspectos a verificar durante la evaluación de la conformidad de la presente Norma se realizarán, según aplique,\n   mediante de la constatación, revisión documental, registros o entrevistas, de conformidad con lo siguiente:\n                           Tipo de\n       Disposición                                    Criterio de aceptación                    Observaciones           Riesgo\n                        comprobación\n\n    5.1               Documental          El patrón cumple cuando presenta evidencia Esta          disposición\n                                          documental de que:                             entra en vigor al año\n                                                                                         posterior    a     su\n                                          Ø Establece, implanta y mantiene una política publicación en el\n                                              de prevención de riesgos psicosociales que Diario Oficial de la\n                                              contempla:                                 Federación.\n                                               ü   La   promoción     de     un    entorno La evidencia para\n                                                   organizacional favorable;                 dar       cumplimiento\n                                                                                             con la difusión de la\n                                               ü La prevención de los factores de riesgo política                de\n                                                    psicosocial, y                           prevención          de\n                                               ü La prevención de la violencia laboral, y riesgos\n                                                                                             psicosociales puede\n                                          Ø   Difunde en el centro de trabajo la política de ser a través de\n                                              prevención de riesgos psicosociales.           folletos,    boletines,\n                                                                                             y/o carteles.\n\n\n\n\n    5.2; 7.1 a); 7.2; Documental        o El patrón cumple cuando presenta evidencia de       Entra en vigor a los\n    7.4; 7.5; 7.6, 7.7; entrevista, según que:                                                dos años posteriores\n    7.8 y 7.9           aplique                                                               a su publicación en\n                                          Ø Realiza la identificación y análisis de los       el Diario Oficial de la\n                                               factores de riesgo psicosocial;                Federación.\n                                          Ø La identificación y análisis de los factores de Este apartado del\n                                              riesgo psicosocial comprende a todos los Procedimiento para\n                                              trabajadores del centro de trabajo;             la evaluación de la\n                                                                                              conformidad    sólo\n                                          Ø   La identificación y análisis de los factores de aplica a aquellos\n                                              riesgo psicosocial contempla, al menos, los centros de trabajo\n                                              factores siguientes:                            que tengan entre 16\n                                               ü Las condiciones en el ambiente de y 50 trabajadores.\n                                                    trabajo;                                  Aquellos centros de\n                                                                                              trabajo         que\n                                               ü   Las cargas de trabajo;\n                                                                                              demuestren      que\n                                               ü   La falta de control sobre el trabajo;      realizan          la\n                                                                                              identificación     y\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                                 23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                      Page 10 of 41\n\n\n\n                                    ü    Las jornadas de trabajo y rotación de análisis       de     los\n                                          turnos;                                factores de riesgo\n                                                                                 psicosocial\n                                     ü Interferencia en la relación trabajo- utilizando el método\n                                          familia;                               señalado en la Guía\n                                                                                 de referencia II de la\n                                     ü Liderazgo y relaciones negativas en el presente          Norma,\n                                          trabajo, y                             darán cumplimiento\n                                     ü La violencia laboral;                     a los numerales 7.1\n                                                                                 a), 7.2; 7.4 y 7.5.\n                                Ø   El método que se utiliza para realizar la Esta          disposición\n                                    identificación y análisis de los factores de (numeral 7.5) sólo\n                                    riesgo psicosocial contiene:                 aplica para aquellos\n                                    ü    Los cuestionarios que comprenden los       centros de trabajo\n                                         factores enlistados en la viñeta           que desarrollen y\n                                         anterior, conforme a dispuesto por el      utilicen     métodos\n                                         numeral 7.2 de la presente Norma;          diferentes a los\n\n                                    ü    La forma como se realiza la aplicación\n                                         de los cuestionarios;\n                                    ü    La    manera     de      evaluar    los\n                                         cuestionarios, y\n                                    ü    Los niveles y la forma de determinar el\n                                         riesgo conforme a los resultados de\n                                         los cuestionarios aplicados, y\n\n\n\n\n                                Ø Los cuestionarios que utiliza el centro de contenidos       en la\n                                    trabajo para la identificación y análisis de Guía de referencia II\n                                    los factores de riesgo psicosocial están de esta Norma.\n                                    validados conforme a lo siguiente:\n\n                                     ü   La validación fue realizada en\n                                         trabajadores cuyos centros de trabajo\n                                         se ubican en el territorio nacional;\n\n                                     ü   El número de individuos que se utilizó\n                                         para realizar la validación sea mayor o\n                                         igual a 10 veces por cada reactivo\n                                         contemplado inicialmente;\n\n                                     ü   Tiene medidas de consistencia interna\n                                         que presenta:\n\n                                         o    Coeficientes de confiabilidad (alfa\n                                              de Cronbach) superiores a 0.7; y\n\n                                         o    Coeficientes    de      correlación\n                                              (Pearson o Spearman), con r\n                                              mayor a 0.5, y un nivel de\n                                              significancia mayor o igual a 0.05;\n\n\n\n\n                                     ü   Tiene validez de constructo mediante\n                                         análisis     factorial  confirmatorio\n                                         cumpliendo con medidas e índices de\n                                         ajuste siguientes:\n\n                                         o    De ajuste absoluto con los índices:\n\n                                               · Índice de Bondad de Ajuste,\n                                                    GFI (Goodness of Fit Index),\n                                                    mayor a 0.90;\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                            23/10/2018\n\fDOF - Diario Oficial de la Federación                                                 Page 11 of 41\n\n\n\n                                                 · Residuo cuadrático medio,\n                                                      RMSR (Root Mean Square\n                                                      Residual), cercana a 0 y\n                                                      máximo 0.08, y\n\n                                                 · Error      de    aproximación\n                                                      cuadrático medio, RMSEA\n                                                      (Root Mean Square Error of\n                                                      Approximation), menor a\n                                                      0.08;\n\n                                         o       De ajuste incremental o relativo\n                                                 con el índice de ajuste normado,\n                                                 NFI (Normed Fit Index), mayor a\n                                                 0.90, y\n\n                                         o       De parsimonia con el índice Ji\n                                                 cuadrada normada: X2/gl menor\n                                                 o igual a 5, y\n\n                                    ü    Se aplican en población trabajadora de\n                                         características semejantes a la\n                                         población trabajadora en que se\n                                         validó;\n\n\n\n\n                                Ø La identificación y análisis de los factores de\n                                     riesgo psicosocial está integrada al\n                                     diagnóstico de seguridad y salud en el\n                                     trabajo a que se refiere la NOM-030-STPS-\n                                     2009, vigente o las que la sustituyan;\n\n                                Ø El resultado de la identificación y análisis de\n                                     los factores de riesgo psicosocial consta en\n                                     un informe que contiene lo siguiente:\n\n                                     ü   Datos del centro de trabajo verificado:\n\n                                             o   Nombre, denominación o razón\n                                                 social;\n\n                                             o   Domicilio;\n\n                                             o   Actividad principal;\n\n                                     ü   Objetivo;\n\n                                     ü   Principales actividades realizadas en el\n                                         centro de trabajo;\n\n                                     ü   Método utilizado conforme al numeral\n                                         7.4, de la presente Norma;\n\n                                     ü   Resultados obtenidos de acuerdo con\n                                         el numeral 7.4, inciso d) de esta\n                                         Norma,\n\n                                     ü   Conclusiones;\n\n                                     ü   Recomendaciones y acciones              de\n                                         intervención, en su caso, y\n\n                                     ü   Datos    del         responsable   de   la\n                                         evaluación;\n\n                                             o   Nombre completo, y\n\n                                             o   Número cédula profesional, en\n                                                 su caso.\n\n                                Ø El resultado de la identificación y análisis de\n                                     los factores de riesgo psicosocial está\n                                     disponible    para  consulta  de    los\n                                     trabajadores, y\n                                La identificación y análisis de los factores de\n                                riesgo psicosocial se realiza, al menos, cada dos\n                                años.\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true       23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                                     Page 12 of 41\n\n\n\n\n    5.3; 7.1 b); 7.2; Documental        o El patrón cumple cuando presenta evidencia de         Entra en vigor a los\n    7.3; 7.4; 7.5; 7.6, entrevista, según que:                                                  dos años posteriores\n    7.7; 7.8 y 7.9      aplique                                                                 a su publicación en\n                                          Ø Realiza la identificación y análisis de los         el Diario Oficial de la\n                                               factores de riesgo psicosocial, así como la      Federación.\n                                               evaluación del entorno organizacional:\n                                                                                                Este   apartado    del\n                                           Ø La identificación y análisis de los factores de Procedimiento para\n                                                riesgo psicosocial, así como la evaluación      la evaluación de la\n                                                del entorno organizacional comprende a          conformidad    sólo\n                                                todos los trabajadores del centro de trabajo    aplica a aquellos\n                                                o, se realiza a una muestra representativa      centros de trabajo\n                                                conforme a lo señalado en la en el numeral      que\n                                                III. 1 de la Guía de referencia III de esta\n                                                Norma;\n\n\n\n\n                                           Ø La identificación de los factores de riesgo tengan           más       50\n                                               psicosocial y análisis contempla los factores trabajadores.\n                                               siguientes:                                    Aquellos centros de\n                                                ü Las condiciones en el ambiente de trabajo                      que\n                                                                                              demuestren         que\n                                                     trabajo;\n                                                                                              realizan               la\n                                                ü Las cargas de trabajo;                      identificación          y\n                                                                                              análisis     de      los\n                                                ü La falta de control sobre el trabajo;       factores de riesgo\n                                                                                              psicosocial,        así\n                                                ü Las jornadas de trabajo y rotación de como la evaluación\n                                                     turnos;                                  de             entorno\n                                                                                              organizacional\n                                                ü Interferencia en la relación trabajo- utilizando el método\n                                                     familia;                                 señalado en la Guía\n                                                ü Liderazgo y relaciones negativas en el de referencia III de\n                                                                                              esta Norma, darán\n                                                     trabajo, y\n                                                                                              cumplimiento a los\n                                                ü La violencia laboral;                       numerales 7.1 b),\n                                                                                              7.2; 7.3; 7.4 y 7.5.\n                                           Ø   La evaluación del entorno organizacional\n                                                                                              Esta       disposición\n                                               favorable comprende:\n                                                                                              (numeral 8.5) sólo\n                                                ü El sentido de pertenencia de los aplica para aquellos\n                                                     trabajadores a la empresa;               centros de trabajo\n                                                                                              que desarrollen y\n                                                ü La formación para la adecuada utilicen                    métodos\n                                                     realización       de    las      tareas diferentes      a     los\n                                                     encomendadas;                            contenidos en la\n                                                                                              Guía de referencia\n                                                ü La          definición    precisa        de III de esta Norma.\n                                                     responsabilidades        para        los\n                                                     trabajadores;\n\n                                                ü    La    participación     proactiva  y\n                                                     comunicación entre el patrón, sus\n                                                     representantes y los trabajadores;\n\n                                                ü    La distribución adecuada de cargas\n                                                     de trabajo, con jornadas laborales\n                                                     regulares, y\n\n                                                ü    La evaluación y el reconocimiento del\n                                                     desempeño;\n\n                                           Ø El método que se utiliza para realizar la\n                                                identificación y análisis de los factores de\n                                                riesgo psicosocial, así como para la\n                                                evaluación del entorno organizacional\n                                                contempla:\n\n                                                ü    Los cuestionarios comprenden los\n                                                     factores enlistados en las dos viñetas\n                                                     inmediatas anteriores, conforme a\n                                                     dispuesto por los numerales 7.2 y 7.3\n                                                     de esta Norma;\n\n                                                ü    La forma como se realiza la aplicación\n                                                     de los cuestionarios;\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                           23/10/2018\n\fDOF - Diario Oficial de la Federación                                                Page 13 of 41\n\n\n\n                                    ü     La    manera     de     evaluar     los\n                                          cuestionarios, y\n                                Los niveles y la forma de determinar el riesgo\n                                conforme a los resultados de los cuestionarios\n                                aplicados, y\n\n\n\n\n                                Ø Los cuestionarios que utiliza el centro de\n                                     trabajo para la identificación y análisis de\n                                     los factores de riesgo psicosocial, así como\n                                     la evaluación del entorno organizacional\n                                     están validados conforme a lo siguiente:\n\n                                     ü   La validación fue realizada en\n                                         trabajadores cuyos centros de trabajo\n                                         se ubican en el territorio nacional;\n\n                                     ü   El número de individuos que se utilizó\n                                         para realizar la validación sea mayor o\n                                         igual a 10 veces por cada reactivo\n                                         contemplado inicialmente;\n\n                                     ü   Tiene medidas de consistencia interna\n                                         que presenta:\n\n                                          o    Coeficientes de confiabilidad (alfa\n                                               de Cronbach) superiores a 0.7; y\n\n                                          o    Coeficientes   de   correlación\n                                               (Pearson o Spearman), con r\n                                               mayor a 0.5, y un nivel de\n                                               significancia mayor o igual a\n                                               0.05;\n\n                                     ü   Tiene validez de constructo mediante\n                                         análisis     factorial  confirmatorio\n                                         cumpliendo con medidas e índices de\n                                         ajuste siguientes:\n\n                                          o    De ajuste     absoluto   con    los\n                                               índices:\n\n                                               · Índice de Bondad de Ajuste,\n                                                     GFI (Goodness of          Fit\n                                                     Index), mayor a 0.90;\n\n\n\n\n                                               · Residuo cuadrático medio,\n                                                     RMSR (Root Mean Square\n                                                     Residual), cercana a 0 y\n                                                     máximo 0.08, y\n\n                                               · Error      de    aproximación\n                                                     cuadrático medio, RMSEA\n                                                     (Root Mean Square Error of\n                                                     Approximation), menor a\n                                                     0.08;\n\n                                          o    De ajuste incremental o relativo\n                                               con el índice de ajuste normado,\n                                               NFI (Normed Fit Index), mayor a\n                                               0.90, y\n\n                                          o    De parsimonia con el índice Ji\n                                               cuadrada normada: X2/gl menor\n                                               o igual a 5, y\n\n                                     ü   Se aplican en población trabajadora de\n                                         características semejantes a la\n                                         población trabajadora en que se\n                                         validó;\n\n                                Ø La identificación y análisis de los factores de\n                                     riesgo psicosocial, así como la evaluación\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true      23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                       Page 14 of 41\n\n\n\n                                         del entorno organizacional está integrada al\n                                         diagnóstico de seguridad y salud en el\n                                         trabajo a que se refiere la NOM-030-STPS-\n                                         2009, vigente o las que la sustituyan;\n\n                                    Ø El resultado de la identificación y análisis de\n                                         los factores de riesgo psicosocial, así como\n                                         de la evaluación del entorno organizacional\n                                         consta en un informe que contiene lo\n                                         siguiente:\n\n                                         ü    Datos del centro de trabajo verificado:\n\n                                               o    Nombre, denominación o razón\n                                                    social;\n\n                                               o    Domicilio;\n\n                                    o         Actividad principal;\n\n\n\n\n                                          ü    Objetivo;\n\n                                          ü    Principales actividades realizadas en el\n                                               centro de trabajo;\n\n                                          ü    Método utilizado conforme al numeral\n                                               7.4, de la presente Norma;\n\n                                          ü    Resultados obtenidos de acuerdo con\n                                               el numeral 7.4, inciso d) de esta\n                                               Norma,\n\n                                          ü    Conclusiones;\n\n                                          ü    Recomendaciones y acciones           de\n                                               intervención, en su caso, y\n\n                                          ü    Datos    del      responsable   de       la\n                                               evaluación;\n\n                                               o     Nombre completo, y\n\n                                               o     Número cédula profesional, en su\n                                                     caso.\n\n                                     Ø El resultado de la identificación y análisis de\n                                          los factores de riesgo psicosocial, así como\n                                          de la evaluación del entorno organizacional\n                                          está disponible para consulta de los\n                                          trabajadores, y\n                                     La identificación y análisis de los factores de\n                                     riesgo psicosocial, así como la evaluación del\n                                     entorno organizacional se realiza, al menos,\n                                     cada dos años.\n\n\n\n\n    5.4, 8.1 y 8.2   Documental   o El patrón cumple cuando presenta evidencia de Esta        disposición\n                     entrevista     que:                                            entra en vigor al año\n                                                                                    posterior    a     su\n                                    Ø Adopta medidas para prevenir los factores publicación en el\n                                         de riesgo psicosocial, promover el entorno Diario Oficial de la\n                                         organizacional favorable, así como para Federación.\n                                         atender las prácticas opuestas al entorno\n                                         organizacional favorable y los actos de\n                                         violencia laboral;\n\n                                     Ø Dispone       de mecanismos seguros y\n                                          confidenciales para la recepción de quejas\n                                          por    prácticas    opuestas   al  entorno\n                                          organizacional favorable y para denunciar\n                                          actos de violencia laboral;\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                             23/10/2018\n\fDOF - Diario Oficial de la Federación                                                Page 15 of 41\n\n\n\n                                Ø Realiza acciones que promueven el sentido\n                                    de pertenencia de los trabajadores a la\n                                    organización; la capacitación para la\n                                    adecuada realización de las tareas\n                                    encomendadas; la definición precisa de\n                                    responsabilidades para los miembros de la\n                                    organización; la participación proactiva y\n                                    comunicación entre sus integrantes; la\n                                    distribución adecuada de cargas de trabajo,\n                                    con jornadas laborales regulares conforme\n                                    a la Ley Federal del Trabajo, y la\n                                    evaluación y el reconocimiento del\n                                    desempeño, y\n\n\n\n\n                                Ø Comprenden las acciones y programas para\n                                    la prevención de los factores de riesgo\n                                    psicosocial, la promoción de un entorno\n                                    organizacional favorable y la prevención de\n                                    la violencia laboral, lo siguiente:\n\n                                     ü   En relación con el liderazgo y las\n                                         relaciones en el trabajo incluye:\n\n                                          o    Acciones para el manejo de\n                                               conflictos en el trabajo, la\n                                               distribución de los tiempos de\n                                               trabajo, y la determinación de\n                                               prioridades en el trabajo;\n\n                                          o    Lineamientos para prohibir la\n                                               discriminación y fomentar la\n                                               equidad y el respeto;\n\n                                          o    Mecanismos para fomentar la\n                                               comunicación entre supervisores\n                                               o gerentes y trabajadores, así\n                                               como entre los trabajadores, e\n\n                                o        Instrucciones claras que difunde a los\n                                trabajadores para la atención de los problemas\n                                que impidan o limitan el desarrollo de su trabajo,\n                                cuando éstos se presentan;\n\n\n\n\n                                          o    Capacitación y sensibilización de\n                                               los   directivos,    gerentes    y\n                                               supervisores para la prevención\n                                               de los factores de riesgo\n                                               psicosocial y la promoción de\n                                               entornos         organizacionales\n                                               favorables, con énfasis en lo\n                                               señalado en los subincisos 1) al\n                                               3) de este inciso, según aplique;\n                                     ü   Respecto a las cargas de trabajo\n                                         contempla:\n                                          o    Revisión y supervisión de que la\n                                               distribución de la carga de\n                                               trabajo se realiza de forma\n                                               equitativa y considerando el\n                                               número de trabajadores y su\n                                               capacitación;\n                                          o    Actividades para planificar el\n                                               trabajo, considerando el proceso\n                                               productivo, de manera que se\n                                               tengan pausas o periodos de\n                                               descanso, rotación de tareas y\n                                               otras medidas, a efecto de evitar\n                                               ritmos de trabajo acelerados, e\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true      23/10/2018\n\fDOF - Diario Oficial de la Federación                                               Page 16 of 41\n\n\n\n                                        o    Instructivos o procedimientos\n                                             que definan claramente las\n                                             tareas y responsabilidades;\n\n\n\n\n                                   ü    En lo que se refiere al control de\n                                        trabajo comprende:\n                                        o    Actividades para involucrar a los\n                                             trabajadores en la toma de\n                                             decisiones sobre la organización\n                                             de su trabajo; para que\n                                             participen en la mejora de las\n                                             condiciones de trabajo y la\n                                             productividad siempre que el\n                                             proceso productivo lo permita y\n                                             cuenten con la experiencia y\n                                             capacitación para ello;\n                                        o    Acciones para acordar y mejorar\n                                             el margen de libertad y control\n                                             sobre su trabajo por parte de los\n                                             trabajadores y el patrón, y para\n                                             impulsar que éstos desarrollen\n                                             nuevas       competencias       o\n                                             habilidades, considerando las\n                                             limitaciones     del     proceso\n                                             productivo, y\n                                        o    Reuniones para abordar las\n                                             áreas de oportunidad de mejora,\n                                             a efecto de atender los\n                                             problemas en el lugar de su\n                                             trabajo   y   determinar   sus\n                                             soluciones;\n\n\n\n\n                                   ü    En lo relativo al apoyo social incluye\n                                        actividades que permiten:\n\n                                        o    La mejora de las relaciones entre\n                                             trabajadores,       supervisores,\n                                             gerentes y patrones para que\n                                             puedan obtener apoyo los unos\n                                             de los otros;\n\n                                        o    La realización de reuniones\n                                             periódicas     (semestrales    o\n                                             anuales) de seguimiento a las\n                                             actividades establecidas para el\n                                             apoyo social y, en su caso,\n                                             extraordinarias    si    ocurren\n                                             eventos que pongan en riesgo la\n                                             salud del trabajador o al centro\n                                             de trabajo;\n\n                                        o    La promoción de la ayuda mutua\n                                             y      el     intercambio   de\n                                             conocimientos y experiencias\n                                             entre los trabajadores, y\n\n                                        o    El fomento de las actividades\n                                             culturales y del deporte entre sus\n                                             trabajadores y proporcionarles\n                                             los      equipos      y      útiles\n                                             indispensables;\n\n                                   ü    En relación con el equilibrio en la\n                                        relación trabajo-familia, contempla:\n\n                                        o    Acciones para involucrar a los\n                                             trabajadores en la definición de\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true     23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                    Page 17 of 41\n\n\n\n                                             los horarios de trabajo, cuando\n                                             las condiciones del trabajo lo\n                                             permitan;\n\n                                        o    Lineamientos para establecer\n                                             medidas y límites que eviten las\n                                             jornadas de trabajo superiores a\n                                             las previstas en la Ley Federal\n                                             del Trabajo;\n\n\n\n\n                                        o    Apoyos a los trabajadores, de       El patrón, de común\n                                             manera que puedan atender           acuerdo con los\n                                             emergencias familiares, mismas      trabajadores definirá\n                                             que el trabajador tendrá que        los casos que se\n                                             comprobar, y                        considerarán\n                                                                                 emergencias\n                                        o    Promoción de actividades de familiares, así como\n                                             integración familiar en el trabajo, los mecanismos de\n                                             previo    acuerdo      con      los protección.\n                                             trabajadores;\n\n                                   ü    Respecto al reconocimiento en el\n                                        trabajo, cuenta con mecanismos que\n                                        permiten:\n\n                                        o    El      reconocimiento       del\n                                             desempeño          sobresaliente\n                                             (superior al esperado) de los\n                                             trabajadores;\n\n\n\n\n                                        o    La difusión de los logros de los\n                                             trabajadores sobresalientes, y\n                                        o    En su caso, expresar al\n                                             trabajador sus posibilidades de\n                                             desarrollo;\n                                   ü    En lo que se refiere a la prevención de\n                                        la violencia laboral:\n                                        o    Difunde      información   para\n                                             sensibilizar sobre la violencia\n                                             laboral, tanto a trabajadores\n                                             como a directivos, gerentes y\n                                             supervisores;\n                                        o    Establece procedimientos de\n                                             actuación y seguimiento para\n                                             tratar problemas relacionados\n                                             con la violencia laboral, y\n                                             capacitar al responsable de su\n                                             implementación, e\n                                        o    Informa sobre la forma en que se\n                                              tendrán que denunciar actos de\n                                              violencia laboral;\n\n\n\n\n                                   ü    En relación con la información y\n                                        comunicación que se proporciona a\n                                        los trabajadores promueve:\n                                        o    La comunicación directa y con\n                                             frecuencia entre el patrón,\n                                             supervisor o jefe inmediato y los\n                                             trabajadores sobre cualquier\n                                             problema que impida o retrase el\n                                             desarrollo del trabajo;\n                                        o    La difusión entre los trabajadores\n                                             de     los   cambios      en     la\n                                             organización o condiciones de\n                                             trabajo, y\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                          23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                                  Page 18 of 41\n\n\n\n                                                 o    La oportunidad de que los\n                                                      trabajadores puedan expresar\n                                                      sus opiniones sobre la solución\n                                                      de los problemas o las mejoras\n                                                      de las condiciones de su trabajo\n                                                      para mejorar su desempeño, y\n                                            ü   Respecto a la capacitación y\n                                                adiestramiento que se proporciona a\n                                                los trabajadores se:\n                                                 o    Analiza la relación capacitación-\n                                                      tareas encomendadas;\n                                                 o    Da     oportunidad     a      los\n                                                      trabajadores para señalar sus\n                                                      necesidades de capacitación\n                                                      conforme a sus actividades, y\n                                                 o    Realiza   una   detección   de\n                                                      necesidades de capacitación al\n                                                      menos cada dos años e integrar\n                                                      su resultado en el programa de\n                                                      capacitación.\n\n\n\n\n    5.4, 8.3, 8.4 y 8.5   Documental   El patrón cumple cuando presenta evidencia de Entra en vigor a los\n                                       que adopta medidas de control conforme a lo dos años posteriores\n                                       siguiente:                                         a su publicación en\n                                                                                          el Diario Oficial de la\n                                       Ø Cuenta con un Programa para la atención Federación.\n                                            de los factores de riesgo psicosocial, y en\n                                            su caso, para propiciar un entorno Estas disposiciones\n                                            organizacional favorable y prevenir actos de sólo      aplican      a\n                                            violencia laboral, cuando el resultado de la centros de trabajo\n                                            identificación y análisis de los factores de con más de 15\n                                            riesgo psicosocial y de la evaluación del trabajadores,\n                                            entorno organizacional, así lo determinen;    cuando el resultado\n                                                                                          de la identificación y\n                                       Ø El Programa para la atención de los factores análisis de los\n                                            de riesgo psicosocial, y en su caso, para factores de riesgo\n                                            propiciar    un    entorno     organizacional psicosocial y de la\n                                            favorable y prevenir actos de violencia evaluación                del\n                                            laboral contiene:                             entorno\n                                                                                          organizacional, así\n                                             ü Las áreas de trabajo y/o los lo determinen.\n                                                  trabajadores sujetos al programa;\n\n                                            ü    El tipo de acciones y las medidas de\n                                                 control que deberán adoptarse;\n\n                                            ü    Las fechas programadas para su\n                                                 realización;\n\n                                            ü    El control de los avances de la\n                                                 implementación del programa;\n\n                                            ü    La evaluación posterior a la aplicación\n                                                 de las medidas de control, en su caso,\n                                                 y\n\n                                            ü    El responsable de su ejecución;\n\n\n\n\n                                       Ø El tipo de acciones se realizan, según El tipo de acciones\n                                            aplique, en los niveles siguientes:              que           deberán\n                                                                                             realizarse\n                                            ü    Primer nivel: Las acciones se centran       dependerá         del\n                                                 en el plano organizacional e implican       resultado      de    la\n                                                 actuar sobre la política de prevención      identificación        y\n                                                 de riesgos psicosociales del centro de      análisis     de    los\n                                                 trabajo, la organización del trabajo, las   factores de riesgo\n                                                 acciones o medios para: disminuir los       psicosocial y de la\n                                                 efectos de los factores de riesgo           evaluación        del\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                        23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                        Page 19 of 41\n\n\n\n                                         psicosocial, prevenir la violencia entorno\n                                         laboral y propiciar el entorno organizacional,\n                                         organizacional favorable;               cuando     así        lo\n                                                                                 determinen.\n                                    ü    Segundo nivel: Las acciones se\n                                         orientan Las acciones se orientan al\n                                         plano grupal e implica actuar en la\n                                         interrelación de los trabajadores o\n                                         grupos de ellos y la organización del\n                                         trabajo; su actuación se centra en el\n                                         tiempo de trabajo, el comportamiento\n                                         y las interacciones personales, se\n                                         basan en proporcionar información al\n                                         trabajador,    así   como     en     la\n                                         sensibilización, (contempla temas\n                                         como: manejo de conflictos, trabajo en\n                                         equipo, orientación a resultados,\n                                         liderazgo, comunicación asertiva,\n                                         administración del tiempo de trabajo,\n                                         entre otros), así como reforzar el\n                                         apoyo social y/o\n                                    ü    Tercer nivel: Las acciones se enfocan\n                                         al plano individual; es decir, se\n                                         desarrolla cuando se comprueba que\n                                         existen signos y/o síntomas que\n                                         denotan alteraciones en la salud, se\n                                         incluyen intervenciones de tipo clínico\n                                         o terapéutico, y\n                                Ø Las intervenciones de tercer nivel que sean\n                                    de tipo clínico o terapéutico deberán ser\n                                    realizadas invariablemente por un médico,\n                                    psicólogo o psiquiatra según corresponda.\n\n\n\n\n    5.5          Documental     El patrón cumple cuando presenta evidencia de Entra en vigor al año\n                                que:                                             posterior   a   su\n                                                                                 publicación en el\n                                Ø Identifica a los trabajadores que fueron Diario Oficial de la\n                                     sujetos a acontecimientos traumáticos Federación.\n                                     severos durante o con motivo del trabajo y,\n                                Ø Canaliza a los trabajadores identificados\n                                    para su atención, a la institución de\n                                    seguridad social o privada, o con el médico\n                                    del centro de trabajo o de la empresa.\n\n\n\n\n    5.6           Documental    El patrón cumple cuando presenta evidencia de       Los         exámenes\n                                que practica exámenes médicos y evaluaciones        médicos              y\n                                psicológicas al trabajador o a los trabajadores     evaluaciones\n                                expuestos a violencia laboral y a los factores de   psicológicas podrán\n                                riesgo psicosocial, cuando existan signos o         efectuarse a través\n                                síntomas que denoten alteración a su salud y el     de la institución de\n                                resultado de la identificación y análisis de los    seguridad social o\n                                factores de riesgo psicosocial y/o existan quejas   privada,       médico,\n                                de violencia laboral.                               psiquiatra           o\n                                                                                    psicólogo del centro\n                                                                                    de trabajo, según\n                                                                                    corresponda,         y\n                                                                                    deberán efectuarse\n                                                                                    de conformidad con\n                                                                                    lo establecido por\n                                                                                    las normas oficiales\n                                                                                    mexicanas que al\n                                                                                    respecto emitan la\n                                                                                    Secretaría de Salud\n                                                                                    y/o la Secretaría del\n                                                                                    Trabajo y Previsión\n                                                                                    Social, y a falta de\n                                                                                    éstas,     los    que\n                                                                                    indique la institución\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                              23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                          Page 20 of 41\n\n\n\n                                                                                     de seguridad social\n                                                                                     o privada, o el\n                                                                                     médico del centro de\n                                                                                     trabajo,   que     le\n                                                                                     preste el servicio\n                                                                                     médico.\n                                                                                     Entra en vigor a los\n                                                                                     dos años posteriores\n                                                                                     a su publicación en\n                                                                                     el Diario Oficial de la\n                                                                                     Federación.\n\n\n\n\n    5.7           Documental    El patrón cumple cuando presenta evidencia de La evidencia para\n                                que difunde y proporciona información a los dar        cumplimiento\n                                trabajadores sobre:                            con proporcionar y\n                                Ø La política de prevención de riesgos difundir información\n                                                                               puede ser a través\n                                     psicosociales;\n                                                                               de           folletos,\n                                Ø Las medidas adoptadas para combatir las boletines,              y/o\n                                     prácticas      opuestas       al  entorno carteles.\n                                     organizacional favorable y actos de Esta            disposición\n                                     violencia laboral;                        entra en vigor al año\n                                Ø Las medidas y acciones de prevención y, en posterior      a      su\n                                     su caso, las acciones de control de los publicación en el\n                                     factores de riesgo psicosocial;           Diario Oficial de la\n                                                                               Federación.\n                                Ø Los mecanismos para presentar quejas por\n                                     prácticas      opuestas       al  entorno\n                                     organizacional favorable y para denunciar\n                                     actos de violencia laboral;\n                                Ø Los resultados de la identificación y análisis\n                                    de los factores de riesgo psicosocial para\n                                    los centros de trabajo que tengan entre 16 y\n                                    50 trabajadores, y de la identificación y\n                                    análisis de los factores de riesgo psicosocial\n                                    y la evaluación del entorno organizacional\n                                    tratándose de centros de trabajo de más de\n                                    50 trabajadores, y\n                                Ø Las posibles alteraciones a la salud por la\n                                    exposición a     los   factores   de   riesgo\n                                    psicosocial.\n\n\n\n\n    5.8           Documental    El patrón cumple cuando demuestra que cuenta Estas disposiciones\n                                con los registros sobre:                          sólo    aplican    a\n                                Ø Los resultados de la identificación y análisis centros de trabajo\n                                                                                  con más de 15\n                                     de los factores de riesgo psicosocial y,\n                                                                                  trabajadores.\n                                     además, tratándose de centros de trabajo\n                                     de más de 50 trabajadores, de las Entra en vigor a los\n                                     evaluaciones del entorno organizacional;     dos años posteriores\n                                                                                  a su publicación en\n                                Ø Las medidas de control adoptadas cuando el el Diario Oficial de la\n                                     resultado de la identificación y análisis de Federación.\n                                     los factores de riesgo psicosocial y\n                                     evaluación del entorno organizacional lo\n                                     señale, y\n                                Ø Los nombres de los trabajadores a los que\n                                    se les practicaron los exámenes o\n                                    evaluaciones clínicas y que se comprobó la\n                                    exposición a factores de riesgo psicosocial,\n                                    a    actos    de    violencia   laboral   o\n                                    acontecimientos traumáticos severos.\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                                  Page 21 of 41",
+    "start_char": 43892,
+    "end_char": 105554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:10-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "10.3",
+    "label": "10.3 Para la selección de trabajadores por entrevistar por parte de la autoridad laboral y/o las unidades de verificación, con el",
+    "text": "10.3 Para la selección de trabajadores por entrevistar por parte de la autoridad laboral y/o las unidades de verificación, con el\n   propósito de constatar el cumplimiento de las disposiciones que integran el presente procedimiento para la evaluación de la\n   conformidad, se aplicará el criterio muestral contenido en la Tabla 1 siguiente:\n                                                                 Tabla 1\n                                                   Muestreo por selección aleatoria\n           Número total de trabajadores                     Número de trabajadores por\n                                                                   entrevistar\n\n                          1-15                                             1\n\n                         16-50                                             2\n                         51-105                                            3\n                       Más de 105                        1 por cada 35 trabajadores hasta un\n                                                                    máximo de 15",
+    "start_char": 105564,
+    "end_char": 106634
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:10-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "10.4",
+    "label": "10.4 Las evidencias de tipo documental o los registros a que alude esta Norma podrán exhibirse de manera impresa o en",
+    "text": "10.4 Las evidencias de tipo documental o los registros a que alude esta Norma podrán exhibirse de manera impresa o en\n   medios electrónicos, y se deberán conservar al menos durante un año, a partir de la fecha de elaboración.",
+    "start_char": 106642,
+    "end_char": 106868
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "11",
+    "label": "11. Vigilancia",
+    "text": "11. Vigilancia\n      La vigilancia del cumplimiento de la presente Norma Oficial Mexicana corresponde a la Secretaría del Trabajo y Previsión\n   Social.",
+    "start_char": 106875,
+    "end_char": 107027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12",
+    "label": "12. Bibliografía",
+    "text": "12. Bibliografía",
+    "start_char": 107034,
+    "end_char": 107050
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.1",
+    "label": "12.1 Agencia Europea para la Seguridad y la Salud en el Trabajo. (2003). Cómo abordar los problemas psicosociales y reducir",
+    "text": "12.1 Agencia Europea para la Seguridad y la Salud en el Trabajo. (2003). Cómo abordar los problemas psicosociales y reducir\n   el estrés relacionado con el trabajo. Luxemburgo, Agencia Europea para la Seguridad y la Salud en el Trabajo.",
+    "start_char": 107058,
+    "end_char": 107294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.2",
+    "label": "12.2 Ángel Lara Ruiz, Instituto Nacional de Seguridad e Higiene en el Trabajo. (2013). Algunas orientaciones para evaluar los",
+    "text": "12.2 Ángel Lara Ruiz, Instituto Nacional de Seguridad e Higiene en el Trabajo. (2013). Algunas orientaciones para evaluar los\n   factores de Riesgo Psicosocial. España, Ministerio de Empleo y Seguridad Social.",
+    "start_char": 107302,
+    "end_char": 107511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.3",
+    "label": "12.3 Departamento de Asistencia Técnica para la Prevención de Riesgos Laborales. (2009). Guía de Prevención de Riesgos",
+    "text": "12.3 Departamento de Asistencia Técnica para la Prevención de Riesgos Laborales. (2009). Guía de Prevención de Riesgos\n   Psicosociales en el Trabajo. Andalucía, España, UGT.",
+    "start_char": 107518,
+    "end_char": 107692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.4",
+    "label": "12.4 Dirección General de la Inspección de Trabajo y Seguridad Social e Instituto Nacional de Seguridad e Higiene en el",
+    "text": "12.4 Dirección General de la Inspección de Trabajo y Seguridad Social e Instituto Nacional de Seguridad e Higiene en el\n   Trabajo. (2012). Guía de actuaciones de la Inspección de Trabajo y Seguridad Social sobre Riesgos Psicosociales. España,\n   Ministerio de Empleo y Seguridad Social.",
+    "start_char": 107699,
+    "end_char": 107986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.5",
+    "label": "12.5 Grazia Cassitto María, et al, (2004). Sensibilizando sobre el Acoso psicológico en el trabajo. Serie Protección de la Salud",
+    "text": "12.5 Grazia Cassitto María, et al, (2004). Sensibilizando sobre el Acoso psicológico en el trabajo. Serie Protección de la Salud\n   de los Trabajadores No. 4. Organización Mundial de la Salud, OMS.",
+    "start_char": 107994,
+    "end_char": 108191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.6",
+    "label": "12.6 Instituto Nacional de Seguridad e Higiene en el Trabajo. Enciclopedia de Salud y Seguridad en el Trabajo, Factores",
+    "text": "12.6 Instituto Nacional de Seguridad e Higiene en el Trabajo. Enciclopedia de Salud y Seguridad en el Trabajo, Factores\n   Psicosociales y de Organización, Volumen II Parte V. Factores Psicosociales y de Organización. Organización Internacional del\n   Trabajo, Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+    "start_char": 108198,
+    "end_char": 108515
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.7",
+    "label": "12.7 Instituto Sindical de Trabajo, Ambiente y Salud, ISTAS. (2010). Manual del método CoPsoQ-istas21 para la evaluación y",
+    "text": "12.7 Instituto Sindical de Trabajo, Ambiente y Salud, ISTAS. (2010). Manual del método CoPsoQ-istas21 para la evaluación y\n   prevención de los riesgos psicosociales para empresas con 25 o más trabajadores y trabajadoras. Barcelona, España, Instituto\n   Sindical de Trabajo, Ambiente y Salud.",
+    "start_char": 108522,
+    "end_char": 108814
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.8",
+    "label": "12.8 Instituto Sindical de Trabajo, Ambiente y Salud, ISTAS, 2004. Manual para la evaluación de riesgos psicosociales en el",
+    "text": "12.8 Instituto Sindical de Trabajo, Ambiente y Salud, ISTAS, 2004. Manual para la evaluación de riesgos psicosociales en el\n   trabajo. Método ISTAS 21 (CoPsoQ). Instituto Sindical de Trabajo, Ambiente y Salud. Barcelona, España.",
+    "start_char": 108822,
+    "end_char": 109051
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.9",
+    "label": "12.9 ISO 10075:1991, Ergonomic principles related to mental work-load -- General terms and definitions.",
+    "text": "12.9 ISO 10075:1991, Ergonomic principles related to mental work-load -- General terms and definitions.",
+    "start_char": 109058,
+    "end_char": 109161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.10",
+    "label": "12.10 ISO/NP 10075-1, Ergonomic principles related to mental work-load -- Part 1: General concepts, terms and definitions.",
+    "text": "12.10 ISO/NP 10075-1, Ergonomic principles related to mental work-load -- Part 1: General concepts, terms and definitions.",
+    "start_char": 109168,
+    "end_char": 109290
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.11",
+    "label": "12.11 ISO 10075-2:1996, Ergonomic principles related to mental workload -- Part 2: Design principles.",
+    "text": "12.11 ISO 10075-2:1996, Ergonomic principles related to mental workload -- Part 2: Design principles.",
+    "start_char": 109297,
+    "end_char": 109398
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.12",
+    "label": "12.12 ISO 10075-3:2004, Ergonomic principles related to mental workload -- Part 3: Principles and requirements concerning",
+    "text": "12.12 ISO 10075-3:2004, Ergonomic principles related to mental workload -- Part 3: Principles and requirements concerning\n   methods for measuring and assessing mental workload.",
+    "start_char": 109405,
+    "end_char": 109582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.13",
+    "label": "12.13 Kalimo Raija, et al. (1988). Los factores psicosociales en el trabajo y su relación con la salud. Organización Mundial de",
+    "text": "12.13 Kalimo Raija, et al. (1988). Los factores psicosociales en el trabajo y su relación con la salud. Organización Mundial de\n   la Salud, OMS.",
+    "start_char": 109590,
+    "end_char": 109735
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-14",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.14",
+    "label": "12.14 Leka, Stavroula. (2004). La organización del trabajo y el estrés: Estrategias sistemáticas de solución de problemas para",
+    "text": "12.14 Leka, Stavroula. (2004). La organización del trabajo y el estrés: Estrategias sistemáticas de solución de problemas para\n   empleadores, personal directivo y representantes sindicales. Serie Protección de la Salud de los Trabajadores No. 3.\n   Organización Mundial de la Salud, OMS.",
+    "start_char": 109742,
+    "end_char": 110030
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-15",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.15",
+    "label": "12.15 Ley Federal del Trabajo. Publicada en el Diario Oficial de la Federación de primero de abril de 1970 y sus reformas.",
+    "text": "12.15 Ley Federal del Trabajo. Publicada en el Diario Oficial de la Federación de primero de abril de 1970 y sus reformas.",
+    "start_char": 110037,
+    "end_char": 110159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-16",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.16",
+    "label": "12.16 Ministerio de la Protección Social (2010). Batería de instrumentos para la evaluación de factores de riesgo psicosocial.",
+    "text": "12.16 Ministerio de la Protección Social (2010). Batería de instrumentos para la evaluación de factores de riesgo psicosocial.\n   Bogotá, Colombia, Ministerio de la Protección Social, República de Colombia.",
+    "start_char": 110166,
+    "end_char": 110372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-17",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.17",
+    "label": "12.17 Moreno Jiménez Bernardo y Báez León Carmen. (2010). Factores y riesgos psicosociales, formas, consecuencias,",
+    "text": "12.17 Moreno Jiménez Bernardo y Báez León Carmen. (2010). Factores y riesgos psicosociales, formas, consecuencias,\n   medidas y buenas prácticas. Instituto Nacional de Seguridad e Higiene en el Trabajo. España, Ministerio del Trabajo e\n   Inmigración.\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                         23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                                 Page 22 of 41",
+    "start_char": 110379,
+    "end_char": 110900
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-18",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.18",
+    "label": "12.18 NTP 179: La carga mental del trabajo: definición y evaluación. Instituto Nacional de Seguridad e Higiene en el Trabajo,",
+    "text": "12.18 NTP 179: La carga mental del trabajo: definición y evaluación. Instituto Nacional de Seguridad e Higiene en el Trabajo,\n   Ministerio del Trabajo y Asuntos Sociales. España, 1986.",
+    "start_char": 110910,
+    "end_char": 111095
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-19",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.19",
+    "label": "12.19 NTP 212: Evaluación de la satisfacción laboral: métodos directos e indirectos. Instituto Nacional de Seguridad e Higiene",
+    "text": "12.19 NTP 212: Evaluación de la satisfacción laboral: métodos directos e indirectos. Instituto Nacional de Seguridad e Higiene\n   en el Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 1988.",
+    "start_char": 111102,
+    "end_char": 111303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-20",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.20",
+    "label": "12.20 NTP 310: Trabajo nocturno y trabajo a turnos: alimentación. Instituto Nacional de Seguridad e Higiene en el Trabajo,",
+    "text": "12.20 NTP 310: Trabajo nocturno y trabajo a turnos: alimentación. Instituto Nacional de Seguridad e Higiene en el Trabajo,\n   Ministerio del Trabajo y Asuntos Sociales. España, 1993.",
+    "start_char": 111310,
+    "end_char": 111492
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-21",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.21",
+    "label": "12.21 NTP 213: Satisfacción laboral: encuesta de evaluación. Instituto Nacional de Seguridad e Higiene en el Trabajo,",
+    "text": "12.21 NTP 213: Satisfacción laboral: encuesta de evaluación. Instituto Nacional de Seguridad e Higiene en el Trabajo,\n   Ministerio del Trabajo y Asuntos Sociales. España, 1988.",
+    "start_char": 111499,
+    "end_char": 111676
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-22",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.22",
+    "label": "12.22 NTP 318: El estrés: proceso de generación en el ámbito laboral. Instituto Nacional de Seguridad e Higiene en el Trabajo,",
+    "text": "12.22 NTP 318: El estrés: proceso de generación en el ámbito laboral. Instituto Nacional de Seguridad e Higiene en el Trabajo,\n   Ministerio del Trabajo y Asuntos Sociales. España, 1993.",
+    "start_char": 111683,
+    "end_char": 111869
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-23",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.23",
+    "label": "12.23 NTP 349: Prevención del estrés: intervención sobre el individuo. Instituto Nacional de Seguridad e Higiene en el Trabajo,",
+    "text": "12.23 NTP 349: Prevención del estrés: intervención sobre el individuo. Instituto Nacional de Seguridad e Higiene en el Trabajo,\n   Ministerio del Trabajo y Asuntos Sociales. España, 1994.",
+    "start_char": 111876,
+    "end_char": 112063
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-24",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.24",
+    "label": "12.24 NTP 438: Prevención del estrés: intervención sobre la organización. Instituto Nacional de Seguridad e Higiene en el",
+    "text": "12.24 NTP 438: Prevención del estrés: intervención sobre la organización. Instituto Nacional de Seguridad e Higiene en el\n   Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 1997.",
+    "start_char": 112070,
+    "end_char": 112260
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-25",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.25",
+    "label": "12.25 NTP 443: Factores psicosociales: metodología de evaluación. Instituto Nacional de Seguridad e Higiene en el Trabajo,",
+    "text": "12.25 NTP 443: Factores psicosociales: metodología de evaluación. Instituto Nacional de Seguridad e Higiene en el Trabajo,\n   Ministerio del Trabajo y Asuntos Sociales. España, 1997.",
+    "start_char": 112267,
+    "end_char": 112449
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-26",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.26",
+    "label": "12.26 NTP 445: Carga mental de trabajo: fatiga. Instituto Nacional de Seguridad e Higiene en el Trabajo, Ministerio del Trabajo",
+    "text": "12.26 NTP 445: Carga mental de trabajo: fatiga. Instituto Nacional de Seguridad e Higiene en el Trabajo, Ministerio del Trabajo\n   y Asuntos Sociales. España, 1997.",
+    "start_char": 112456,
+    "end_char": 112620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-27",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.27",
+    "label": "12.27 NTP 476: El hostigamiento psicológico en el trabajo: mobbing. Instituto Nacional de Seguridad e Higiene en el Trabajo,",
+    "text": "12.27 NTP 476: El hostigamiento psicológico en el trabajo: mobbing. Instituto Nacional de Seguridad e Higiene en el Trabajo,\n   Ministerio del Trabajo y Asuntos Sociales. España, 1998.",
+    "start_char": 112627,
+    "end_char": 112811
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-28",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.28",
+    "label": "12.28 NTP 489: Violencia en el lugar de trabajo. Instituto Nacional de Seguridad e Higiene en el Trabajo, Ministerio del Trabajo",
+    "text": "12.28 NTP 489: Violencia en el lugar de trabajo. Instituto Nacional de Seguridad e Higiene en el Trabajo, Ministerio del Trabajo\n   y Asuntos Sociales. España, 1998.",
+    "start_char": 112818,
+    "end_char": 112983
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-29",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.29",
+    "label": "12.29 NTP 534: Carga mental de trabajo: factores. Instituto Nacional de Seguridad e Higiene en el Trabajo, Ministerio del",
+    "text": "12.29 NTP 534: Carga mental de trabajo: factores. Instituto Nacional de Seguridad e Higiene en el Trabajo, Ministerio del\n   Trabajo y Asuntos Sociales. España, 1999.",
+    "start_char": 112990,
+    "end_char": 113156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-30",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.30",
+    "label": "12.30 NTP 603: Riesgo psicosocial: el modelo carga-control-apoyo social (I). Instituto Nacional de Seguridad e Higiene en el",
+    "text": "12.30 NTP 603: Riesgo psicosocial: el modelo carga-control-apoyo social (I). Instituto Nacional de Seguridad e Higiene en el\n   Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 2001.",
+    "start_char": 113163,
+    "end_char": 113356
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-31",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.31",
+    "label": "12.31 NTP 604: Riesgo psicosocial: el modelo carga-control-apoyo social (II). Instituto Nacional de Seguridad e Higiene en el",
+    "text": "12.31 NTP 604: Riesgo psicosocial: el modelo carga-control-apoyo social (II). Instituto Nacional de Seguridad e Higiene en el\n   Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 2001.",
+    "start_char": 113363,
+    "end_char": 113557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-32",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.32",
+    "label": "12.32 NTP 702: El proceso de evaluación de los factores psicosociales, Instituto Nacional de Seguridad e Higiene en el",
+    "text": "12.32 NTP 702: El proceso de evaluación de los factores psicosociales, Instituto Nacional de Seguridad e Higiene en el\n   Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 2005.",
+    "start_char": 113564,
+    "end_char": 113751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-33",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.33",
+    "label": "12.33 NTP 703: El método COPSOQ (ISTAS21, PSQCAT21) de evaluación de riesgos psicosociales, Instituto Nacional de",
+    "text": "12.33 NTP 703: El método COPSOQ (ISTAS21, PSQCAT21) de evaluación de riesgos psicosociales, Instituto Nacional de\n   Seguridad e Higiene en el Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 2005.",
+    "start_char": 113758,
+    "end_char": 113966
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-34",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.34",
+    "label": "12.34 NTP 704: Síndrome de estar quemado por el trabajo o \"burnout\" (I): Definición y proceso de generación. Instituto",
+    "text": "12.34 NTP 704: Síndrome de estar quemado por el trabajo o \"burnout\" (I): Definición y proceso de generación. Instituto\n   Nacional de Seguridad e Higiene en el Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 2005.",
+    "start_char": 113973,
+    "end_char": 114198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-35",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.35",
+    "label": "12.35 NTP 705: Síndrome de estar quemado por el trabajo o \"burnout\" (II): Consecuencias, evaluación y prevención. Instituto",
+    "text": "12.35 NTP 705: Síndrome de estar quemado por el trabajo o \"burnout\" (II): Consecuencias, evaluación y prevención. Instituto\n   Nacional de Seguridad e Higiene en el Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 2005.",
+    "start_char": 114205,
+    "end_char": 114435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-36",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.36",
+    "label": "12.36 NTP 720: El trabajo emocional: concepto y prevención, Instituto Nacional de Seguridad e Higiene en el Trabajo.",
+    "text": "12.36 NTP 720: El trabajo emocional: concepto y prevención, Instituto Nacional de Seguridad e Higiene en el Trabajo.\n   Ministerio del Trabajo y Asuntos Sociales. España, 2006.",
+    "start_char": 114444,
+    "end_char": 114620
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-37",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.37",
+    "label": "12.37 NTP 854: Acoso psicológico en el trabajo: definición. Instituto Nacional de Seguridad e Higiene en el Trabajo, Ministerio",
+    "text": "12.37 NTP 854: Acoso psicológico en el trabajo: definición. Instituto Nacional de Seguridad e Higiene en el Trabajo, Ministerio\n   del Trabajo y Asuntos Sociales. España, 2009.",
+    "start_char": 114628,
+    "end_char": 114804
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-38",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.38",
+    "label": "12.38 NTP 926: Factores psicosociales: metodología de evaluación. Instituto Nacional de Seguridad e Higiene en el Trabajo,",
+    "text": "12.38 NTP 926: Factores psicosociales: metodología de evaluación. Instituto Nacional de Seguridad e Higiene en el Trabajo,\n   Ministerio del Trabajo y Asuntos Sociales. España, 2012.",
+    "start_char": 114811,
+    "end_char": 114993
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-39",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.39",
+    "label": "12.39 NTP 944: Intervención psicosocial en prevención de riesgos laborales: principios comunes (I). Instituto Nacional de",
+    "text": "12.39 NTP 944: Intervención psicosocial en prevención de riesgos laborales: principios comunes (I). Instituto Nacional de\n   Seguridad e Higiene en el Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 2012.",
+    "start_char": 115000,
+    "end_char": 115216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-40",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.40",
+    "label": "12.40 NTP 945: Intervención psicosocial en prevención riesgos laborales: principios comunes (II). Instituto Nacional de",
+    "text": "12.40 NTP 945: Intervención psicosocial en prevención riesgos laborales: principios comunes (II). Instituto Nacional de\n   Seguridad e Higiene en el Trabajo, Ministerio del Trabajo y Asuntos Sociales. España, 2012.",
+    "start_char": 115223,
+    "end_char": 115437
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-41",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.41",
+    "label": "12.41 Organización Internacional del Trabajo, OIT. (1984). Factores Psicosociales en el Trabajo: Naturaleza, incidencia y",
+    "text": "12.41 Organización Internacional del Trabajo, OIT. (1984). Factores Psicosociales en el Trabajo: Naturaleza, incidencia y\n   prevención. Serie Seguridad, Higiene y Medicina del Trabajo, Núm. 56. Oficina Internacional del Trabajo, Ginebra, Suiza.",
+    "start_char": 115444,
+    "end_char": 115689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-42",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.42",
+    "label": "12.42 Organización Internacional del Trabajo, OIT. (2003). Repertorio de recomendaciones prácticas sobre la violencia en el",
+    "text": "12.42 Organización Internacional del Trabajo, OIT. (2003). Repertorio de recomendaciones prácticas sobre la violencia en el\n   lugar de trabajo en el sector de los servicios y medidas para combatirla. Oficina Internacional del Trabajo, Ginebra, Suiza.",
+    "start_char": 115696,
+    "end_char": 115947
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-43",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.43",
+    "label": "12.43 Organización Internacional del Trabajo y Programa de las Naciones Unidas para el Desarrollo, OIT-PNUD. (2003).",
+    "text": "12.43 Organización Internacional del Trabajo y Programa de las Naciones Unidas para el Desarrollo, OIT-PNUD. (2003).\n   Trabajo y familia: Hacia nuevas formas de conciliación con corresponsabilidad social, Santiago, Chile.",
+    "start_char": 115954,
+    "end_char": 116176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-44",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.44",
+    "label": "12.44 Oficina Internacional del Trabajo, OIT. (2012). Paquete de formación SOLVE. Integrando la promoción de la salud a las",
+    "text": "12.44 Oficina Internacional del Trabajo, OIT. (2012). Paquete de formación SOLVE. Integrando la promoción de la salud a las\n   políticas de SST en el lugar de trabajo: Guía del formador. Oficina Internacional del Trabajo, Ginebra, Suiza.",
+    "start_char": 116184,
+    "end_char": 116421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-45",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.45",
+    "label": "12.45 Reglamento Federal de Seguridad y Salud en el Trabajo, Diario Oficial de la Federación de 13 de noviembre de 2014.",
+    "text": "12.45 Reglamento Federal de Seguridad y Salud en el Trabajo, Diario Oficial de la Federación de 13 de noviembre de 2014.\n   México.\n\n\n\n\nhttp://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018&print=true                                        23/10/2018\n\fDOF - Diario Oficial de la Federación                                                                              Page 23 of 41",
+    "start_char": 116427,
+    "end_char": 116824
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:12-46",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "12.46",
+    "label": "12.46 Superintendencia de Seguridad Social. Cuestionario de Evaluación de Riesgos Psicosociales en el Trabajo,",
+    "text": "12.46 Superintendencia de Seguridad Social. Cuestionario de Evaluación de Riesgos Psicosociales en el Trabajo,\n   SUSESO-ISTAS 21. Manual de uso. Gobierno de Chile.",
+    "start_char": 116833,
+    "end_char": 116997
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:clause:13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "number": "13",
+    "label": "13. Concordancia con normas internacionales",
+    "text": "13. Concordancia con normas internacionales\n      Esta Norma Oficial Mexicana no es equivalente con ninguna norma internacional, por no existir referencia alguna al momento\n   de su elaboración.",
+    "start_char": 117004,
+    "end_char": 117198
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+  "kind": "nom",
+  "designation": "NOM-010-STPS-2014",
+  "official_title": "Agentes químicos contaminantes del ambiente laboral-Reconocimiento, evaluación y control",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "agentes químicos contaminantes",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2014-04-28",
+  "effective_date": "2016-04-28",
+  "cancellation_date": null,
+  "status": "current",
+  "replaces": [
+    "NOM-010-STPS-1999"
+  ],
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2025-03-14",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/RS%20NOM-010-STPS-2014.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/010stps2014.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5342372&fecha=28/04/2014",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-010-STPS-2014/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "48c66f044278f087dc46a7c60d79009be85584eacf0f94bb0a928efc99356387",
+  "extracted_text_sha256": "3a3bd5779960fab856796a72adb0e3bf2bc2cb2628d7f31eef78571e45c64201",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

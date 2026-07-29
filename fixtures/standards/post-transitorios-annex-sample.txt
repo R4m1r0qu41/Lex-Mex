@@ -1,0 +1,20 @@
+1. Objetivo
+    Establecer las condiciones de seguridad aplicables.
+2. Campo de aplicación
+    Rige en todos los centros de trabajo.
+3. Bibliografía
+    Referencias consultadas para su elaboración.
+4. Concordancia con normas internacionales
+    Esta Norma no concuerda con ninguna norma internacional.
+
+                                        TRANSITORIOS
+
+    PRIMERO. La presente Norma entrará en vigor a los sesenta días naturales.
+
+    SEGUNDO. Durante el lapso señalado, los patrones cumplirán la Norma anterior.
+
+APÉNDICE I
+Límites máximos permisibles de exposición.
+5.   Acetona                       Irritación del tracto respiratorio
+6.   Acetonitrilo                  Irritación del tracto respiratorio
+7.   Yoduro de metilo              Daño a ojos

@@ -1,0 +1,20 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO. La presente Norma Oficial Mexicana entrará en vigor al año siguiente de su publicación en el Diario Oficial de la\n   Federación.",
+    "start_char": 117276,
+    "end_char": 117413
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-035-stps-2018:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO. Lo dispuesto por los numerales 5.2, 5.3, 5.6, 5.8, 8.3, 8.4, 8.5, y Capítulo 7, entrará en vigor a los dos años\n   siguientes a su publicación en el Diario Oficial de la Federación.",
+    "start_char": 117421,
+    "end_char": 117611
+  }
+]

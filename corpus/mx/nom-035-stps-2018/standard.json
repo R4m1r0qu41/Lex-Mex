@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+  "kind": "nom",
+  "designation": "NOM-035-STPS-2018",
+  "official_title": "Factores de riesgo psicosocial en el trabajo-Identificación, análisis y prevención",
+  "issuing_authorities": [
+    "Secretaría del Trabajo y Previsión Social"
+  ],
+  "regulatory_domains": [
+    "centros de trabajo",
+    "factores de riesgo psicosocial",
+    "seguridad y salud en el trabajo"
+  ],
+  "publication_date": "2018-10-23",
+  "effective_date": "2019-10-23",
+  "cancellation_date": null,
+  "status": "current",
+  "objective": null,
+  "scope": null,
+  "conformity_assessment": null,
+  "text_basis": "as_published",
+  "modifications": [],
+  "systematic_review": {
+    "review_date": "2024-12-13",
+    "result": "Confirmación",
+    "report_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/InformedeRevision/NOM-035-STPS-2018_2024_ultima_revision.pdf"
+  },
+  "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/NOM-035-STPS-2018.pdf",
+  "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5541828&fecha=23/10/2018",
+  "official_registry_url": "https://platiica.economia.gob.mx/normalizacion/NOM-035-STPS-2018/",
+  "publisher": "Secretaría del Trabajo y Previsión Social",
+  "retrieved_at": "2026-07-28T17:15:00Z",
+  "source_sha256": "3f1b6936a2f91a76ac2e75ddd9c637e78b39a6d0d24007d597862ff994027acf",
+  "extracted_text_sha256": "6aafb41361a16a62fefbfe071438d1a30f25cc18d6c57d0888ebc9d0fc3d40b1",
+  "parser_version": "0.1.0",
+  "legal_review_status": "not_analyzed",
+  "technical_review_status": "not_analyzed"
+}

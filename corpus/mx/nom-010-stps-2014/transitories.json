@@ -1,0 +1,60 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a los dos años siguientes de su\npublicación en el Diario Oficial de la Federación.",
+    "start_char": 172888,
+    "end_char": 173031
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO. Durante el lapso establecido en el Transitorio Primero, los patrones cumplirán con la Norma\nOficial Mexicana NOM-010-STPS-1999, Condiciones de seguridad e higiene en los centros de trabajo donde\nse manejen, transporten, procesen o almacenen sustancias químicas capaces de generar contaminación en el\nmedio ambiente laboral, o bien realizarán las adaptaciones para observar las disposiciones de esta Norma\nOficial Mexicana NOM-010-STPS-2014, Agentes químicos contaminantes del ambiente laboral -\nReconocimiento, evaluación y control.\n    En este último caso, la autoridad laboral proporcionará, a petición de los patrones interesados, asesoría y\norientación para instrumentar su cumplimiento, sin que los patrones se hagan acreedores a sanciones por el\nincumplimiento de la norma en vigor, siempre y cuando no derive de una visita de inspección.",
+    "start_char": 173036,
+    "end_char": 173889
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "ordinal": "TERCERO",
+    "text": "TERCERO. Los informes de resultados que hayan sido emitidos por parte de laboratorios de pruebas,\nacreditados y aprobados de conformidad con la Ley Federal sobre Metrología y Normalización, tendrá la\nvigencia que corresponda, con base en el valor de referencia que se haya definido conforme al numeral 8.6 de\nla NOM-010-STPS-1999, Condiciones de seguridad e higiene en los centros de trabajo donde se manejen,\ntransporten, procesen o almacenen sustancias químicas capaces de generar contaminación en el medio\nambiente laboral.\n    Una vez que concluya su vigencia, los centros de trabajo podrán optar por realizar el muestreo de los\nagentes químicos contaminantes del ambiente laboral, de acuerdo con los criterios previstos en el numeral 9.3\nde la presente Norma.",
+    "start_char": 173894,
+    "end_char": 174658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:transitory:cuarto",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "ordinal": "CUARTO",
+    "text": "CUARTO. Los laboratorios de pruebas, acreditados y aprobados de conformidad con la Ley Federal sobre\nMetrología y Normalización, podrán continuar utilizando los procedimientos del Apéndice II Procedimientos\npara la determinación de sustancias químicas en el medio ambiente laboral, de la Norma Oficial Mexicana\nNOM-010-STPS-1999, Condiciones de seguridad e higiene en los centros de trabajo donde se manejen,\ntransporten, procesen o almacenen sustancias químicas capaces de generar contaminación en el medio\nambiente laboral, hasta en tanto entre en vigor la NOM-010-STPS-2014, Agentes químicos contaminantes del\nambiente laboral – Reconocimiento, evaluación y control.",
+    "start_char": 174663,
+    "end_char": 175332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:transitory:quinto",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "ordinal": "QUINTO",
+    "text": "QUINTO. Los laboratorios de pruebas, acreditados y aprobados con base en la Ley Federal sobre\nMetrología y Normalización, podrán proceder a gestionar la actualización que corresponda a la acreditación de\nlas técnicas analíticas y a la aprobación de los procedimientos o métodos de muestreo y determinación\nanalítica reconocidos por autoridades laborales u organizaciones internacionales reconocidas o reguladas por\notros países, a partir de la fecha de publicación en el Diario Oficial de la Federación de esta Norma.",
+    "start_char": 175337,
+    "end_char": 175854
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-010-stps-2014:transitory:sexto",
+    "standard_id": "urn:lex-mx:federal:nom:nom-010-stps-2014",
+    "ordinal": "SEXTO",
+    "text": "SEXTO. A partir de la fecha de inicio de vigencia de la presente Norma Oficial Mexicana, quedarán sin\nefectos la Norma Oficial Mexicana NOM-010-STPS-1999, Condiciones de seguridad e higiene en los centros\nde trabajo donde se manejen, transporten, procesen o almacenen sustancias químicas capaces de generar\ncontaminación en el medio ambiente laboral, publicada en el Diario Oficial de la Federación de 13 de marzo\nde 2000, así como su aclaración y fe de erratas de 21 de agosto de 2000.\n   México, Distrito Federal, a los veinticinco días del mes de abril de dos mil catorce.- El Secretario del\nTrabajo y Previsión Social, Jesús Alfonso Navarrete Prida.- Rúbrica.",
+    "start_char": 175858,
+    "end_char": 176521,
+    "asserted_dates": [
+      "2000-03-13",
+      "2000-08-21"
+    ]
+  }
+]

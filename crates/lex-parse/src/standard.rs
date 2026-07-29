@@ -18,10 +18,35 @@ pub fn parse_standard_clauses(
     source_text: &str,
     metadata: &StandardMetadata,
 ) -> Result<Vec<StandardClause>> {
+    // `\x0c` (form feed) joins the leading-whitespace class because
+    // `pdftotext` emits a page break immediately before the first line of a
+    // page, with no intervening newline. A heading that happens to fall at a
+    // page boundary is otherwise invisible to the line-start anchor -- the
+    // defect that hid NOM-052-SEMARNAT-2005's entire body, leaving only its
+    // índice to be selected. DOF running headers ("6 (Edición Vespertina)
+    // DIARIO OFICIAL ...") also sit after a form feed, but they carry no
+    // ordinal period and their label opens with `(`, so `plausible_top_level`
+    // already rejects them; admitting the form feed changed no clause in any
+    // already-committed standard.
     let heading =
-        Regex::new(r"(?m)^[ \t]*(\d+(?:\.\d+)*)(?:(\.)[ \t]+|[ \t]+)([^\r\n].*?)[ \t]*\r?$")?;
+        Regex::new(r"(?m)^[ \t\x0c]*(\d+(?:\.\d+)*)(?:(\.)[ \t]+|[ \t]+)([^\r\n].*?)[ \t]*\r?$")?;
+    // A standard's normative numbered body ends at TRANSITORIOS. What follows
+    // -- apéndices, anexos, tablas, listados, and explicitly non-binding
+    // "Guía de Referencia" material -- is not clause-structured, but is often
+    // numbered, and continuing the run into it absorbs those rows as clauses
+    // (744 phantom clauses from an exposure-limit table in NOM-010-STPS-2014).
+    // Some of that trailing material is normative and simply is not modeled
+    // yet; `validate_standard` reports its presence rather than letting the
+    // record imply the standard ends where the clause body does.
+    let body_limit = real_transitorios_heading(source_text)
+        .map_or(source_text.len(), |(heading_start, _)| heading_start);
     let matches = heading
         .captures_iter(source_text)
+        .take_while(|captures| {
+            captures
+                .get(0)
+                .is_some_and(|whole| whole.start() < body_limit)
+        })
         .filter_map(|captures| {
             let whole = captures.get(0)?;
             let number = captures.get(1)?.as_str();
@@ -104,30 +129,13 @@ pub fn parse_standard_transitories(
     source_text: &str,
     metadata: &StandardMetadata,
 ) -> Result<Vec<StandardTransitory>> {
-    let heading_marker = Regex::new(r"(?mi)^[ \t]*(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b.*\r?$")?;
-    let ordinals = transitory_ordinals();
     let line_start = Regex::new(r"(?m)^[ \t]*(\S.*)$")?;
-    // A standard's índice repeats every section heading, including
-    // TRANSITORIOS, before the real body -- the same false-first-match
-    // hazard the bibliography heading has. Try candidates from the last
-    // occurrence backwards and take the first one whose section actually
-    // contains a recognized ordinal start; an índice mention never does,
-    // since it is a bare heading with no transitory text following it.
-    let mut heading_ends = heading_marker
-        .find_iter(source_text)
-        .map(|found| found.end())
-        .collect::<Vec<_>>();
-    heading_ends.reverse();
-    let Some((section, section_offset)) = heading_ends.into_iter().find_map(|heading_end| {
-        let section_end = section_end_marker(source_text, heading_end);
-        let candidate = &source_text[heading_end..section_end];
-        line_start
-            .captures_iter(candidate)
-            .any(|captures| parse_transitory_start(&captures[1], &ordinals).is_some())
-            .then_some((candidate, heading_end))
-    }) else {
+    let ordinals = transitory_ordinals();
+    let Some((_, heading_end)) = real_transitorios_heading(source_text) else {
         return Ok(Vec::new());
     };
+    let section_end = section_end_marker(source_text, heading_end);
+    let (section, section_offset) = (&source_text[heading_end..section_end], heading_end);
 
     let starts = line_start
         .captures_iter(section)
@@ -169,6 +177,38 @@ pub fn parse_standard_transitories(
         });
     }
     Ok(transitories)
+}
+
+/// Locate the standard's real TRANSITORIOS section, returning
+/// `(heading_start, heading_end)` byte offsets of the heading line itself.
+///
+/// A standard's índice repeats every section heading, including TRANSITORIOS,
+/// before the real body -- the same false-first-match hazard the bibliography
+/// heading has. Candidates are tried from the last occurrence backwards, and
+/// the first one whose following section actually contains a recognized
+/// ordinal start wins; an índice mention never does, since it is a bare
+/// heading with no transitory text after it.
+///
+/// Shared by the transitory parser (which needs the section) and the clause
+/// parser (which needs it as the end of the normative numbered body), so the
+/// two can never disagree about where a standard's body stops.
+fn real_transitorios_heading(source_text: &str) -> Option<(usize, usize)> {
+    let heading_marker =
+        Regex::new(r"(?mi)^[ \t\x0c]*(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b.*\r?$")
+            .expect("transitorios heading regex must compile");
+    let line_start = Regex::new(r"(?m)^[ \t]*(\S.*)$").expect("line-start regex must compile");
+    let ordinals = transitory_ordinals();
+    let mut found = heading_marker
+        .find_iter(source_text)
+        .map(|found| (found.start(), found.end()))
+        .collect::<Vec<_>>();
+    found.reverse();
+    found.into_iter().find(|&(_, heading_end)| {
+        let section_end = section_end_marker(source_text, heading_end);
+        line_start
+            .captures_iter(&source_text[heading_end..section_end])
+            .any(|captures| parse_transitory_start(&captures[1], &ordinals).is_some())
+    })
 }
 
 /// A closing dateline ("México, D.F., a ..." pre-2016; "Ciudad de México, a
@@ -270,6 +310,7 @@ pub fn validate_standard(
     validate_metadata(metadata, &mut issues);
     validate_clauses(metadata, clauses, source_text, &mut issues);
     validate_transitories(metadata, transitories, source_text, &mut issues);
+    validate_trailing_material(source_text, &mut issues);
     StandardValidationReport {
         schema_version: SCHEMA_VERSION.to_owned(),
         standard_id: metadata.id.clone(),
@@ -562,6 +603,44 @@ fn error(code: &str, message: String, provision_id: Option<String>) -> Validatio
     }
 }
 
+/// Report substantive material following the transitorios section.
+///
+/// The clause parser deliberately stops at TRANSITORIOS, because what follows
+/// is not clause-structured. But some of it is *normative* -- NOM-052's
+/// Tablas, Listados and Anexo 1 carry the hazardous-waste classifications the
+/// standard exists to establish, and NOM-010's Apéndice I carries its exposure
+/// limits -- while other trailing material ("Guía de Referencia ... no es de
+/// cumplimiento obligatorio") is explicitly non-binding. Lex-Mex does not yet
+/// model either kind.
+///
+/// Without this warning a compiled standard would present a complete-looking
+/// clause body while silently omitting operative content. The warning does not
+/// distinguish normative from non-binding trailing material; making that call
+/// requires reading it, which is the point of surfacing it to a reviewer.
+fn validate_trailing_material(source_text: &str, issues: &mut Vec<ValidationIssue>) {
+    // A short tail is the decree's own signature block, already handled by
+    // `section_end_marker`; only a substantial remainder indicates apéndices,
+    // anexos, tablas, or a guía that the clause body does not represent.
+    const TRAILING_MATERIAL_BYTES: usize = 2_000;
+
+    let Some((heading_start, _)) = real_transitorios_heading(source_text) else {
+        return;
+    };
+    let section_end = section_end_marker(source_text, heading_start);
+    let trailing = source_text[section_end..].trim();
+    if trailing.len() > TRAILING_MATERIAL_BYTES {
+        issues.push(warning(
+            "standard_trailing_material",
+            format!(
+                "{} bytes follow the transitorios section (apéndices, anexos, tablas, or a guía \
+                 de referencia); this material is not represented in clauses.json and may be \
+                 normative",
+                trailing.len()
+            ),
+        ));
+    }
+}
+
 fn warning(code: &str, message: String) -> ValidationIssue {
     ValidationIssue {
         severity: Severity::Warning,
@@ -591,6 +670,82 @@ mod tests {
         include_str!("../../../fixtures/standards/indexed-transitorios-sample.txt");
     const CDMX_SIGNATURE_SAMPLE: &str =
         include_str!("../../../fixtures/standards/cdmx-signature-sample.txt");
+    const PAGE_BREAK_HEADING_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/page-break-heading-sample.txt");
+    const POST_TRANSITORIOS_ANNEX_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/post-transitorios-annex-sample.txt");
+
+    #[test]
+    fn body_heading_after_a_page_break_is_not_hidden_by_the_index() {
+        // `pdftotext` emits a form feed immediately before the first line of
+        // a page, with no intervening newline, so a heading landing on a page
+        // boundary reads as "\x0c   1. Introducción". The leading-whitespace
+        // class did not admit `\x0c`, so that heading never matched and the
+        // real body became invisible -- leaving the índice as the only
+        // candidate run. Reproduces NOM-052-SEMARNAT-2005, whose compiled
+        // output was 11 índice lines covering 1.1% of the document while
+        // every substantive provision was absent.
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(PAGE_BREAK_HEADING_SAMPLE, &metadata).unwrap();
+        assert_eq!(clauses.len(), 3);
+        // The índice lists the same three numbers; the body is the run whose
+        // clauses carry actual provision text.
+        assert!(
+            clauses[0].text.contains("manejo especial"),
+            "expected the real body, got {:?}",
+            clauses[0].text
+        );
+        assert!(
+            clauses[2].text.contains("observancia obligatoria"),
+            "expected the real body, got {:?}",
+            clauses[2].text
+        );
+    }
+
+    #[test]
+    fn clause_body_stops_at_the_transitorios_section() {
+        // A standard's normative numbered body ends at TRANSITORIOS. Trailing
+        // apéndices, anexos, tablas and non-binding guías are frequently
+        // numbered, and continuing the run into them absorbs those rows as
+        // clauses -- 744 phantom clauses from an exposure-limit table in
+        // NOM-010-STPS-2014, and a lone numeric table row (`12.5  0.024
+        // 0.025`) in NOM-024-STPS-2001.
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(POST_TRANSITORIOS_ANNEX_SAMPLE, &metadata).unwrap();
+        assert_eq!(
+            clauses
+                .iter()
+                .map(|clause| clause.number.as_str())
+                .collect::<Vec<_>>(),
+            ["1", "2", "3", "4"],
+            "apéndice rows numbered 5-7 must not be absorbed as clauses"
+        );
+    }
+
+    #[test]
+    fn trailing_material_after_transitorios_is_reported() {
+        // Dropping the apéndice from the clause body is correct, but some
+        // trailing material is normative (NOM-052's Listados, NOM-010's
+        // exposure limits). Nothing models it yet, so a compiled standard
+        // would otherwise present a complete-looking body while omitting
+        // operative content.
+        let metadata = metadata();
+        let long_annex = format!(
+            "{POST_TRANSITORIOS_ANNEX_SAMPLE}{}",
+            "8.   Sustancia adicional        Efecto documentado\n".repeat(60)
+        );
+        let clauses = parse_standard_clauses(&long_annex, &metadata).unwrap();
+        let transitories = parse_standard_transitories(&long_annex, &metadata).unwrap();
+        let report = validate_standard(&metadata, &clauses, &transitories, &long_annex);
+        assert!(
+            report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "standard_trailing_material"),
+            "expected a trailing-material warning, got {:?}",
+            report.issues
+        );
+    }
 
     #[test]
     fn transitory_text_excludes_a_ciudad_de_mexico_signature_block() {

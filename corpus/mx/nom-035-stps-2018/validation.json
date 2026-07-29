@@ -1,0 +1,14 @@
+{
+  "schema_version": "0.1.0",
+  "standard_id": "urn:lex-mx:federal:nom:nom-035-stps-2018",
+  "valid": true,
+  "clause_count": 111,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "standard_trailing_material",
+      "message": "86397 bytes follow the transitorios section (apéndices, anexos, tablas, or a guía de referencia); this material is not represented in clauses.json and may be normative",
+      "provision_id": null
+    }
+  ]
+}

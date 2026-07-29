@@ -39,22 +39,22 @@ it.
 | NOM-005-STPS-1998 | ingested (72 clauses, 3 transitories) |
 | NOM-006-STPS-2023 | ingested (127 clauses, 3 transitories) |
 | NOM-009-STPS-2011 | ingested (155 clauses, 3 transitories) |
-| NOM-010-STPS-2014 | flagged — `annex-continues-numbering` |
+| NOM-010-STPS-2014 | ingested 2026-07-29 (206 clauses, 6 transitorios) |
 | NOM-011-STPS-2001 | ingested (105 clauses, 2 transitories) |
 | NOM-015-STPS-2001 | ingested (99 clauses, 2 transitories) |
 | NOM-017-STPS-2024 | ingested (51 clauses, 3 transitories) |
 | NOM-018-STPS-2015 | ingested (147 clauses, 3 transitories) |
-| NOM-019-STPS-2011 | flagged — see `docs/ingestion-difficulty-log.md` (`annex-form-numbering`) |
+| NOM-019-STPS-2011 | held — clause defect fixed; `transitory-absorbs-annex` |
 | NOM-020-STPS-2011 | ingested (162 clauses, 5 transitories, 1 unconsolidated-modification warning) |
 | NOM-022-STPS-2015 | ingested (83 clauses, 3 transitories) |
-| NOM-024-STPS-2001 | flagged — `annex-continues-numbering` |
+| NOM-024-STPS-2001 | held — clause defect fixed; `transitory-absorbs-annex` |
 | NOM-025-STPS-2008 | ingested (81 clauses, 3 transitories) |
 | NOM-026-STPS-2008 | ingested (96 clauses, 3 transitories) |
 | NOM-027-STPS-2008 | ingested (81 clauses, 3 transitories) |
 | NOM-029-STPS-2011 | ingested (116 clauses, 3 transitories) |
 | NOM-030-STPS-2009 | ingested (70 clauses, 3 transitories) |
 | NOM-033-STPS-2015 | ingested (121 clauses, 3 transitories) |
-| NOM-035-STPS-2018 | flagged — `annex-continues-numbering` |
+| NOM-035-STPS-2018 | ingested 2026-07-29 (111 clauses, 2 transitorios) |
 | NOM-036-1-STPS-2018 | ingested (102 clauses, 3 transitories) |
 
 ### Table 3 — SEMARNAT (3 remaining)
@@ -62,7 +62,7 @@ it.
 | NOM | Status |
 |---|---|
 | NOM-001-SEMARNAT-2021 | ingested (151 clauses, 7 transitories) |
-| NOM-052-SEMARNAT-2005 | flagged — `indice-selected-as-body` |
+| NOM-052-SEMARNAT-2005 | held — clause defect fixed; `transitory-absorbs-annex` |
 | NOM-161-SEMARNAT-2011 | ingested (86 clauses, 5 transitories) |
 
 ### Table 4 — gap-analysis additions (2 remaining)
@@ -112,10 +112,43 @@ derivable from the designation. NOM-010-STPS-2014's registry page links
 `NOM-010-STPS-2014.pdf`, which returns an HTML error page; the real file is
 `010stps2014.pdf`. Downloads must be content-type checked, not assumed.
 
+## Resolution (2026-07-29)
+
+Reviewer answered every flag in the Spearhead report, supplying the
+governing rule: **a NOM's normative body ends at TRANSITORIOS**; trailing
+apéndices, anexos, tablas and guías need different extraction rules. Both
+parser defects are fixed (`docs/decisions.md` 2026-07-29), verified by
+byte-identical reparse of all 26 previously-committed standards.
+
+**23 of 27 now ingested.** NOM-010-STPS-2014 (206 clauses, was 950) and
+NOM-035-STPS-2018 (111, was 124) landed under the fix.
+
+Four remain out, for two reasons that are *not* the original flags:
+
+| Instrument | Why it is still out |
+|---|---|
+| NOM-019-STPS-2011 | `transitory-absorbs-annex` — TERCERO is 46,521 chars |
+| NOM-024-STPS-2001 | `transitory-absorbs-annex` — SEGUNDO is 17,094 chars |
+| NOM-052-SEMARNAT-2005 | `transitory-absorbs-annex` — TERCERO is 83,226 chars, and no PRIMERO parses |
+| NOM-002-SEMARNAT-1996 | designation decision (ECOL vs SEMARNAT) |
+
+The clause defects on the first three are fixed; what blocks them is a
+separate, pre-existing defect found during this work, where the last
+transitory swallows trailing guide/table material because
+`section_end_marker` recognizes only signature markers, `APÉNDICE` and
+`ANEXO`. It affects committed standards too (NOM-027's TERCERO is 22,370
+chars; NOM-085's QUINTO 27,938).
+
 ## Next action
 
-Reviewer direction on the six flagged instruments. Three of the four
-classes are plausibly one shared fix in `numbered_body_run` (stop the run
-at a terminal heading; prefer a terminating run over a longer
-non-terminating one); `metadata-ambiguity` needs a decision, not a fix,
-and will recur for every ECOL-era environmental NOM.
+Decide how post-transitorios material is modeled. That single decision
+unblocks the three held instruments *and* corrects the committed
+standards carrying oversized transitorios. It is a design question, not a
+marker list: some trailing material is normative (NOM-052's Listados,
+NOM-010's exposure limits) and some is explicitly non-binding (Guías de
+Referencia, "no es de cumplimiento obligatorio"), and the reviewer has
+indicated the tables and formulas likely need vision-assisted extraction
+rather than line parsing. Separately, NOM-002-SEMARNAT-1996 needs its
+designation decision; the reviewer has granted authority to apply an
+ECOL→SEMARNAT rename where the registry shows one, keeping the published
+prefix where it does not (as with SCFI).

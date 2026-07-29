@@ -1,5 +1,93 @@
 # Architecture decisions
 
+## 2026-07-29 — A standard's normative body ends at TRANSITORIOS
+
+Reviewer-supplied domain rule, answering the batch-2 flag report: **a NOM's
+normative numbered body ends at TRANSITORIOS.** What follows may be
+apéndices, anexos, tablas or listados — sometimes normative — or an
+explicitly non-binding "Guía de Referencia", but it is never
+clause-structured, and it needs different extraction rules than the body.
+
+Two parser changes follow from that rule. Both are bounded to
+`parse_standard_clauses`; the data corrections the same review supplied
+(NOM-020's modification date, NOM-025's effective date, the ECOL→SEMARNAT
+designation pattern) are deliberately *not* in this change, so a regression
+in one cannot hide behind four others.
+
+1. **The clause run is bounded at the real TRANSITORIOS heading.** The
+   índice-disambiguation Scope 1 built for transitorios is extracted as
+   `real_transitorios_heading` and now serves both paths, so the clause and
+   transitory parsers can never disagree about where a body stops. This
+   closes `annex-continues-numbering` and `annex-form-numbering`. Note the
+   2026-07-28 log entry explicitly *rejected* "cut at the first TRANSITORIOS
+   marker" — correctly, since NOM-019's índice lists TRANSITORIOS before its
+   body. Cutting at the **real** occurrence is the same idea done right, and
+   the entry predicted exactly that.
+
+2. **Form feed joins the leading-whitespace class.** `pdftotext` emits
+   `\x0c` immediately before a page's first line with no intervening
+   newline, so any heading landing on a page boundary never matched the
+   line-start anchor. This — not a length contest — is why
+   NOM-052-SEMARNAT-2005 compiled its índice: its real body was *invisible*,
+   leaving the índice as the only candidate run. Verified safe before
+   landing: DOF running headers ("6 (Edición Vespertina) DIARIO OFICIAL")
+   also follow a form feed, but carry no ordinal period and open with `(`,
+   so `plausible_top_level` already rejects them. Simulated across all 26
+   committed standards, admitting the form feed changed zero clauses.
+
+**Regression verification was deep equality, not counts.**
+`standards validate` reparses committed text and bails if the result
+differs from committed `clauses.json`/`transitories.json` by any field.
+All 26 previously-committed standards passed unchanged, so every clause
+ID, label, text and span is byte-identical.
+
+**New check: `standard_trailing_material`.** Bounding the body at
+TRANSITORIOS is correct but drops content that is sometimes normative —
+NOM-052's Listados carry the hazardous-waste classifications the standard
+exists to establish; NOM-010's Apéndice I carries its exposure limits.
+Without a signal, a compiled standard would present a complete-looking
+clause body while omitting operative content. `validate_standard` now warns
+when substantial text follows the transitorios section. It fires on 13
+standards and deliberately does not distinguish normative from non-binding
+trailing material — making that call requires reading it, which is the
+point of surfacing it. Regenerating 11 committed `validation.json` files
+for the new warning changed nothing else: clauses, transitorios, retained
+text and metadata all compared byte-identical.
+
+**Newly found, deliberately not fixed here: `transitory-absorbs-annex`.**
+`section_end_marker` ends the transitorios section only at a signature
+marker, `APÉNDICE`, or `ANEXO`. Trailing material introduced any other way
+— usually `Guía de Referencia I`, sometimes bare `Tabla N.` — is absorbed
+by the *last transitory*. Pre-existing, not caused by this change, and
+affecting committed standards (NOM-027's TERCERO is 22,370 chars;
+NOM-085's QUINTO 27,938; NOM-020's QUINTO 15,327). It is why
+NOM-019-STPS-2011, NOM-024-STPS-2001 and NOM-052-SEMARNAT-2005 stay held
+out even though their clause defects are fixed: ingesting them would mean
+committing transitorios known to contain tens of thousands of characters
+of guide and table text. Not fixed in the same pass because adding `Tabla`
+as a section-end marker could truncate legitimate transitory text that
+references a table inline, and because the reviewer has indicated
+post-transitorios annexes need their own extraction approach — so *how* to
+model them is an open design question, not a marker list.
+
+Ingested under the fix: NOM-010-STPS-2014 (206 clauses, was 950 phantom)
+and NOM-035-STPS-2018 (111 clauses, was 124 with questionnaire rows), both
+carrying `standard_trailing_material`.
+
+**Reviewer finding on NOM-247-SSA1-2008, recorded for Scope 2.** Its two
+modifying decrees name in their own titles exactly which numerals they
+touch: the first modifies `1.4, 2, 3.2, 3.10, 3.12, 3.17, 3.18, 3.19,
+3.36, 3.44 y 8`; the second modifies `3.2, 3.10, 3.33, 4, 5.1.1,
+5.2.7.ii.1)`, adds `5.1.5`, and eliminates `5.2.2.8, 5.2.3.4, 5.2.4.5` and
+`el Apéndice normativo A`. That makes a cheap intermediate capability
+possible well before the full decree-diff engine: parse the affected
+numerals from a decree's title and attach them to the modification record,
+turning `standard_unconsolidated_modification` from an
+instrument-level warning into a clause-level one — a reader could then see
+that NOM-247's clause 3.2 specifically is stale, rather than that the
+standard as a whole is. Not implemented; recorded as the natural first
+increment of Scope 2.
+
 ## 2026-07-28 — Batch 2 complete: validation cannot detect wrong-run selection
 
 Batch 2 ran to completion across all 27 candidates: 21 ingested, 6 held

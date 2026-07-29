@@ -3,5 +3,12 @@
   "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
   "valid": true,
   "clause_count": 12,
-  "issues": []
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "standard_trailing_material",
+      "message": "4890 bytes follow the transitorios section (apéndices, anexos, tablas, or a guía de referencia); this material is not represented in clauses.json and may be normative",
+      "provision_id": null
+    }
+  ]
 }

@@ -3,5 +3,12 @@
   "standard_id": "urn:lex-mx:federal:nom:nom-017-stps-2024",
   "valid": true,
   "clause_count": 51,
-  "issues": []
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "standard_trailing_material",
+      "message": "20257 bytes follow the transitorios section (apéndices, anexos, tablas, or a guía de referencia); this material is not represented in clauses.json and may be normative",
+      "provision_id": null
+    }
+  ]
 }
