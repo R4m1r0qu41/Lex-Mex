@@ -44,18 +44,135 @@ output, gated on a named human review. That is defensible but is a different
 claim than the corpus makes anywhere today, and `text_basis` is where it would
 be made. It must not arrive implicitly as a side effect of Stage C.
 
-**Defect found while surveying the precedent: the amendment legend is empty
-everywhere it is used.** `amendment_marks` on a provision resolves through the
-instrument's `amendment_references` legend, and is rendered into Markdown
-frontmatter. Across nine committed CNBV instruments, **1,844 provisions carry
-marks and not one instrument has a single legend entry** (`socap-sofipo-dcg-2006`
-507, `cucb-dcg-2004` 264, `cub-dcg-2005` 260, `oaac-dcg-2009` 245,
-`scap-dcg-2012` 204, `fi-dcg-2014` 152, `cue-dcg-2003` 96, `itf-dcg-2018` 88,
-`servinv-dcg-2013` 28). A reader sees `amendment_marks: [4, 6]` with no way to
-learn what resolución 4 or 6 was. This predates the NOM question and is a
-defect on its own terms; extending the same field to standards without
-resolving it would ship a second copy of the same dead end. Not fixed here —
-recorded, and named as a prerequisite decision in the Stage A plan.
+**Correction, 2026-07-30: the paragraph below is wrong and superseded.** The
+claim that the amendment legend is empty everywhere was measured against the
+wrong field and never checked against the actual `amendment-references.json`
+sibling files. It is retracted, not merely refined — see the 2026-07-30 "CNBV
+legend re-pass" entry below for the corrected per-instrument counts (every
+legend is populated, every current mark resolves) and the real, different
+defect the re-pass found (a marker-regex digit cap that silently drops some
+markers ≥100). The provision-marked counts in the paragraph below (507, 264,
+260, 245, 204, 152, 96, 88, 28) are the only part that still stands; the
+legend-entry-count claim ("not one instrument has a single legend entry") does
+not and should be disregarded.
+
+> Defect found while surveying the precedent: the amendment legend is empty
+> everywhere it is used. `amendment_marks` on a provision resolves through the
+> instrument's `amendment_references` legend, and is rendered into Markdown
+> frontmatter. Across nine committed CNBV instruments, 1,844 provisions carry
+> marks and not one instrument has a single legend entry
+> (`socap-sofipo-dcg-2006` 507, `cucb-dcg-2004` 264, `cub-dcg-2005` 260,
+> `oaac-dcg-2009` 245, `scap-dcg-2012` 204, `fi-dcg-2014` 152, `cue-dcg-2003`
+> 96, `itf-dcg-2018` 88, `servinv-dcg-2013` 28).
+
+## 2026-07-30 — CNBV legend re-pass: the 2026-07-29 "empty everywhere" claim was wrong; real defect is a 2-digit marker cap
+
+Operator authorized a re-pass on the CNBV `amendment_references` legend
+question before Stage A sign-off. Re-measuring against the actual
+`corpus/mx/<id>/amendment-references.json` sibling file (not whatever field
+the 2026-07-29 count read):
+
+| Instrument | Provisions marked | Unique marks | Legend entries | Unresolved marks |
+|---|---:|---:|---:|---:|
+| `socap-sofipo-dcg-2006` | 507 | 62 | 97 | 0 |
+| `cucb-dcg-2004` | 264 | 49 | 99 (capped)† | 0 |
+| `cub-dcg-2005` | 260 | 40 | 99 (capped)† | 0 |
+| `oaac-dcg-2009` | 245 | 47 | 99 (capped)† | 0 |
+| `scap-dcg-2012` | 204 | 24 | 42 | 0 |
+| `fi-dcg-2014` | 152 | 28 | 47 | 0 |
+| `cue-dcg-2003` | 96 | 64 | 99 (capped)† | 0 |
+| `itf-dcg-2018` | 88 | 14 | 18 | 0 |
+| `servinv-dcg-2013` | 28 | 5 | 8 | 0 |
+| `ifpe-dcg-2021` | 0 | — | n/a — no `amendment-references.json`; uses `formal-source-manifest.json` / `annex-source-manifests.json` instead | — |
+
+`adapters/cnbv/` lists ten instruments, not nine; `ifpe-dcg-2021` is the
+tenth. It carries zero `amendment_marks` and no legend file at all — it
+appears to use a more evolved multi-source provenance shape already
+(relevant to Stage B, not investigated further here). † = see the capped-
+legend defect below; "99" undercounts the real legend length for these four.
+
+Every mark currently on a committed provision resolves to a legend entry —
+the marks⊆legend validator is not vacuously passing here, it is genuinely
+satisfied for every mark the parser currently produces. The extraction lives
+in `crates/lex-parse/src/itf.rs` (`flush_legend`, sharing
+`amendment_marker_regex` with `crates/lex-parse/src/dcg.rs`) — I had read
+`dcg.rs` alone and concluded, wrongly, that no REFERENCIAS extraction
+existed at all.
+
+**A real, more serious defect than "legend gap": silent loss of live
+markers, confirmed in committed data.** Both `amendment_marker_regex`
+(`dcg.rs:176`, `^\((\d{1,2})\)$`) and `legend_entry_re` (`itf.rs:179`) match
+only one or two digits, capped at 99. This is not just a legend-formatting
+issue: the *same* regex is used to recognize a margin marker in the body
+text, so a `(100)`-or-higher marker on a provision fails to parse as a
+marker at all and falls through as ordinary content. Checked directly —
+`grep -oE '\(1[0-9]{2}\)' corpus/mx/<id>/provisions.json` for the four
+capped instruments finds three-digit parenthesized tokens sitting inside
+committed provision text today: `cucb-dcg-2004` (`(100)`, `(101)`, `(106)`,
+`(108)`–`(111)`, `(113)`, `(114)`, …), `cub-dcg-2005` (`(104)`, `(105)`,
+`(108)`, `(112)`–`(115)`, up through `(148)` and beyond), `oaac-dcg-2009`
+(`(102)`–`(115)`), `cue-dcg-2003` (`(101)`–`(108)`). These are real
+provisions whose amendment attribution is currently **dropped**, not merely
+undocumented — the exact "silent loss" the 2026-07-12 entry's
+marks⊆legend invariant was built to catch, except that invariant checks the
+markers the parser *did* extract, so it cannot see the ones the regex threw
+away before they became a mark. On the legend side, the same cap folds
+`100)  …` lines into legend entry 99's `description` as trailing text
+instead of a new entry — `cub-dcg-2005` alone has ~299 such embedded
+`\d{1,3}\)` fragments inside entry 99, with dates running to 2026-07-03.
+Not fixed in this pass — widening both regexes to `\d{1,3}` (or unbounded),
+re-splitting the four affected legends, and re-extracting the swallowed
+in-body markers is a scoped follow-up, distinct from Stage A, and higher
+priority than its "legend gap" framing implied.
+
+**Conclusion for Stage A:** the "populate the CNBV legend" fork of the
+Stage A sign-off question is moot — the legend mechanism works correctly for
+everything the parser currently recognizes as a marker. The open sign-off
+item remains the `StandardModificationTarget` / `amended_by` shape itself;
+the marker-cap defect above is new, separate work.
+
+## 2026-07-30 — Trusted-compiled-source-first correctness; self-compilation is the fallback
+
+Operator correction to the 2026-07-29 "verification story changes" framing
+above. Restated in the operator's own terms: compiling everything ourselves
+is more difficult and riskier than pointing at a compiled version that
+already exists and is trusted to stay correct. So:
+
+- **If a trusted compiled source exists for an instrument, "correct" means
+  matching that source's file.** Self-compilation (hashed inputs + a
+  deterministic transform, byte-reproducible, gated on named human review —
+  the 2026-07-29 framing) is the *fallback*, used only when no trusted
+  compiled source exists.
+- **Trust is manually triggered, per source, never inferred.** Trusted today:
+  **Diputados** and **CNBV**. **Not trusted (known uncompiled)**: the source
+  referred to as "pagiina" in the operator's message — name unconfirmed
+  against the adapters directory this session; needs to be pinned down
+  before it is used anywhere that assumes trust.
+- **Multi-source is not universal.** A single published text with no
+  modificatorios can legitimately rest on one file — normally the DOF
+  version when no Diputados version exists. The never-modified, single-
+  source, not-in-Diputados instrument (a new NOM with no amending decree
+  yet) is the outlier case the model must keep representable, not an error
+  state.
+
+**Reconciling against existing fields.** `SourceManifest` and `Instrument`
+(statute/DCG side) already carry `operational_source` /
+`formal_publication_source` (e.g. `cub-dcg-2005`: `operational_source:
+"cnbv"`, `formal_publication_source: "dof"`) — structural support for
+"which source is the one we point at" already exists there, but nothing
+marks *that* source as manually-triggered-trusted versus merely preferred.
+`StandardMetadata` (NOM side) has no equivalent field at all — only
+`source_url` / `official_dof_url` / `official_registry_url` /
+`text_basis: AsPublished | OfficialCompilation`. Neither side has an
+explicit trusted-source boolean/enum today.
+
+**Not implemented.** This entry records the doctrine; it does not add a
+field. The natural next step is a `trusted_compiled_source: bool` (or an
+enum naming which source) alongside `operational_source`, extended to
+`StandardMetadata`, plus a validator rule that `text_basis:
+OfficialCompilation` requires a trusted source and `AsPublished` does not.
+That is implementation work and needs its own pass, not a byproduct of this
+correction.
 
 ## 2026-07-29 — Reviewer data corrections; `published_designation` added
 

@@ -52,30 +52,51 @@ sit on top of the annex problem — the second decree above eliminates
 `amendment_references: Vec<AmendmentReference>` (`marker`, `description`) on
 the instrument, already rendered into Markdown frontmatter.
 
-**That legend is empty everywhere it is used:**
+**Correction, 2026-07-30.** The original version of this section (below,
+quoted for the record) claimed the legend was empty everywhere. That was
+measured against the wrong field and never checked against the actual
+`amendment-references.json` sibling file each instrument carries. It is
+wrong and retracted, not refined.
+
+> That legend is empty everywhere it is used — 1,844 committed provisions
+> carry markers that resolve to nothing, and not one instrument has a single
+> legend entry. Decide before implementing: populate the CNBV legend from the
+> compiled documents' REFERENCIAS sections, or record explicitly why it
+> stays empty.
+
+**The corrected measurement**, against the real file, across all nine
+instruments plus the tenth CNBV instrument `ifpe-dcg-2021` (which carries no
+marks and no legend file at all — see `docs/decisions.md`, 2026-07-30):
 
 | Instrument | Provisions marked | Legend entries |
 |---|---:|---:|
-| `socap-sofipo-dcg-2006` | 507 | 0 |
-| `cucb-dcg-2004` | 264 | 0 |
-| `cub-dcg-2005` | 260 | 0 |
-| `oaac-dcg-2009` | 245 | 0 |
-| `scap-dcg-2012` | 204 | 0 |
-| `fi-dcg-2014` | 152 | 0 |
-| `cue-dcg-2003` | 96 | 0 |
-| `itf-dcg-2018` | 88 | 0 |
-| `servinv-dcg-2013` | 28 | 0 |
-| **Total** | **1,844** | **0** |
+| `socap-sofipo-dcg-2006` | 507 | 97 |
+| `cucb-dcg-2004` | 264 | 99 (capped)† |
+| `cub-dcg-2005` | 260 | 99 (capped)† |
+| `oaac-dcg-2009` | 245 | 99 (capped)† |
+| `scap-dcg-2012` | 204 | 42 |
+| `fi-dcg-2014` | 152 | 47 |
+| `cue-dcg-2003` | 96 | 99 (capped)† |
+| `itf-dcg-2018` | 88 | 18 |
+| `servinv-dcg-2013` | 28 | 8 |
 
-1,844 committed provisions carry markers that resolve to nothing. A reader
-sees `amendment_marks: [4, 6]` in the Markdown frontmatter with no way to
-learn what resolución 4 or 6 was. This predates the NOM question and is a
-defect in its own right; extending the same field to standards without
-addressing it would ship a second copy of the same dead end.
+† = a `\d{1,2}` marker-regex cap folds legend entries ≥100 into entry 99's
+text rather than splitting them out, so 99 undercounts the true legend
+length for these four instruments — not a meaningful column to sum. Zero
+committed provisions carry markers that resolve to nothing; every mark
+resolves. The legend is already populated by
+`crates/lex-parse/src/itf.rs`'s `flush_legend` — there is no "populate or
+justify empty" decision left to make.
 
-Decide before implementing: populate the CNBV legend from the compiled
-documents' REFERENCIAS sections (they are in the retained text), or record
-explicitly why it stays empty.
+**A more serious defect than "legend gap", found during the re-pass:** the
+same `\d{1,2}` cap also governs the in-body margin-marker regex
+(`amendment_marker_regex`, `dcg.rs:176`), so a `(100)`-or-higher marker in
+the source text fails to parse as a marker at all and is silently dropped —
+confirmed present today in committed `provisions.json` for the four capped
+instruments (three-digit parenthesized tokens sitting in body text). See
+`docs/decisions.md`, 2026-07-30, "CNBV legend re-pass" for detail. Not fixed
+here — it is a scoped follow-up needing its own fixtures, separate from
+Stage A.
 
 ## Proposed trusted-boundary shape — for sign-off
 
@@ -149,5 +170,6 @@ question this plan does not settle.
 
 ## Next action
 
-Operator sign-off on the shape above, plus a decision on the CNBV legend.
-Nothing is implemented.
+Operator sign-off on the `StandardModificationTarget` / `amended_by` shape
+above — the only open item left, per the 2026-07-30 correction. Nothing is
+implemented.
