@@ -30,8 +30,11 @@ configuration, the intended fix path — routed both through the already-built
 label-aware ordering path, resolving both the ordinal convention and the
 `bis`/`ter` suffixes with zero code change. No default should change: the
 strict path staying the default is what forces this review to happen for
-every new instrument, and it worked as designed twice now (`lfrsp`, and
-today's `lspm`/`lfaebsp`).
+every new instrument, and it has now worked as designed three times
+(`lfrsp` 2026-07-18, `lspm` and `lfaebsp` today) — three independent
+statutes hitting the identical `1o.`…`9o.`-prefix convention is a pattern
+worth expecting on any pre-1990s Cámara statute during provisional review,
+not a coincidence to rediscover as a 74-error failure each time.
 
 **Verification.** All five AD2 instruments validate clean, reverse-link with
 0 unresolved references (184 new edges), and `all_committed_batch_manifests_deserialize`'s
@@ -40,6 +43,21 @@ frozen counts were updated for the reviewed addition (30→31 manifests,
 new manifest needing acknowledgment, not silent drift. 148 workspace tests
 pass, fmt clean, clippy clean; no Rust code changed, only the two adapter
 configs and the frozen-count test.
+
+**Checked, not assumed: `reg-lfaebsp` and `reg-lopsrm` kept `allow_article_gaps:
+false` and still validate clean despite 6 and 3 `non_numeric_article`
+warnings each.** `valid: true` alone doesn't prove the order check kept
+covering the rest of the document — it proves no error fired, which the same
+counter-freeze bug could also produce by accident. Checked directly: both
+documents' non-numeric articles are `bis`/`ter`/`quater` suffixes
+(`14 bis`, `32 bis`, `32 ter`, `15 Bis`, `15 Ter`, `15 Quater`, …), each sitting
+between two consecutive plain numbers (`14`, `14 bis`, `15`). The strict
+path's counter is already primed to the next plain number by the article
+immediately before the suffix and the suffix never touches it, so the
+numeric run stays intact end to end — confirmed by printing both documents'
+full article-number order, not inferred from the absence of an error. This
+is the opposite shape from `lspm`/`lfaebsp`, where the non-numeric run came
+*first*, before anything had primed the counter at all.
 
 ## 2026-07-31 — Sequential-fold planning pass landed; the engine itself stays unbuilt
 
