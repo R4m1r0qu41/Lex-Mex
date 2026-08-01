@@ -4,14 +4,8 @@
   "description": "L1 labor: LFT hub plus apartado B, INFONAVIT, ayuda alimentaria.",
   "notes": [
     "All instruments sourced from official Cámara de Diputados Leyes/Reglamentos indexes (consolidated texts).",
-    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch."
-  ],
-  "blocked": [
-    {
-      "slug": "reg-laat",
-      "title": "Reglamento de la Ley de Ayuda Alimentaria para los Trabajadores",
-      "reason": "Not listed in Diputados reglamentos index; source not located on official index."
-    }
+    "Generated from prompts/lex-mex-federal-cluster-plan.md; blocked entries require reviewer (JRH) confirmation before fetch.",
+    "reg-laat was previously blocked here as not located on the official index; a live recheck during cluster-2 AD3 found the source at the reglamentos index and it was admitted there instead (see batches/administration_ad3_servicio_publico_laboral.json, corpus/mx/reg-laat)."
   ],
   "instruments": [
     {

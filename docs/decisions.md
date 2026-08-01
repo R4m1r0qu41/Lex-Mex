@@ -49,6 +49,21 @@ frozen counts updated again for the reviewed addition (31→32 manifests,
 162→167 unique instrument slugs). 149 workspace tests pass (1 new), fmt
 clean, clippy clean.
 
+**`labor_L1_labor.json`'s stale `blocked` entry removed.** The machine-readable
+manifest still listed `reg-laat` under `blocked` ("source not located on
+official index") after it was admitted via AD3 — the prose above documented
+the resolution but the manifest itself still contradicted it. Removed the
+entry, added an explanatory note pointing at AD3 and `corpus/mx/reg-laat`.
+`all_committed_batch_manifests_deserialize` counts `instruments[]`, not
+`blocked[]`, so this doesn't change its frozen totals; reran it to confirm.
+
+**Aside, not fixed here.** Checking `labor_L1_labor.json` against
+`schemas/batch-manifest.schema.json` surfaced that its `batch_id`
+(`labor_L1_labor`) fails the schema's own `^[a-z0-9_]+$` pattern (uppercase
+`L1`) — one of 26 pre-existing manifests with this same mismatch, evidently
+never enforced by the Rust deserializer. Not introduced or fixed this pass;
+noted so a future schema sweep doesn't mistake it for new drift.
+
 ## 2026-08-01 — AD2 admitted; the provisional-review gate caught the same `1o`-style ordinal case it was built for
 
 Testing the merged post-transitory-supplements fix against a genuinely new
