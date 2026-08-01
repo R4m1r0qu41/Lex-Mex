@@ -7,7 +7,7 @@
     {
       "severity": "warning",
       "code": "standard_trailing_material",
-      "message": "15933 bytes follow the transitorios section (apéndices, anexos, tablas, or a guía de referencia); this material is not represented in clauses.json and may be normative",
+      "message": "material after the transitorios section begins at \"Apéndice I No Normativo\"; it is not represented in clauses.json and may be normative",
       "provision_id": null
     }
   ]

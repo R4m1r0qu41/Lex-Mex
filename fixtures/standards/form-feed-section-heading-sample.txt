@@ -1,0 +1,9 @@
+1. Objetivo
+Texto del objetivo de prueba.
+2. Especificaciones
+El establecimiento debe medir.
+TRANSITORIOS
+PRIMERO.- La presente Norma entrara en vigor el 15 de marzo de 2027.
+APENDICE A
+Contenido del apendice que no debe absorberse en el transitorio, con una fecha
+senuelo del 9 de septiembre de 2031 que no debe cosecharse como asserted_date.

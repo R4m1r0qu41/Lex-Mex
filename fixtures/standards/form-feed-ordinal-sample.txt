@@ -1,0 +1,8 @@
+1. Objetivo
+La norma de prueba establece requisitos de medicion.
+2. Especificaciones
+El establecimiento debe medir y documentar los resultados.
+TRANSITORIOS
+   PRIMERO.- La presente Norma entrara en vigor el 1 de enero de 2027.
+3.   Fila de tabla posterior    0.5
+4.   Otra fila de tabla         0.7

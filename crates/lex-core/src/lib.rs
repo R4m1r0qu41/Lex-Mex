@@ -70,6 +70,19 @@ pub enum StandardModificationAction {
     Eliminated,
 }
 
+impl StandardModificationAction {
+    /// The same `snake_case` token serde serializes, for prose messages, so
+    /// the two can never drift apart.
+    #[must_use]
+    pub fn as_str(self) -> &'static str {
+        match self {
+            Self::Modified => "modified",
+            Self::Added => "added",
+            Self::Eliminated => "eliminated",
+        }
+    }
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct StandardModificationSource {
     pub publication_date: NaiveDate,

@@ -234,6 +234,14 @@ never moves the clause count.
 
 ### Still open after this stage
 
+- **Per-clause rendering of `amended_by` is deferred, not omitted.** The
+  plan's rendering example ("Numeral modificado mediante decreto publicado en
+  el DOF el ...") requires a standards Markdown export profile, and none
+  exists — `collect_standard` deliberately bails on `CanonicalMarkdown` for
+  every standard, marked or not. Until that profile is built, the marks reach
+  consumers through `lex-mex instruments --json` (`amendment_marked_clauses`
+  per standard, alongside `published_designation`) and through
+  `clauses.json`/`validation.json` directly.
 - The five `included_in_source: true` modifications (NOM-051 ×3, NOM-187 ×2)
   have no recorded title. Marking them would give Diputados-style per-clause
   "reformado DOF <date>" provenance on an already-current text, which is
@@ -244,6 +252,17 @@ never moves the clause count.
   a separate CNBV-side defect, not a standards one.
 - The open question below (NOM-247's 2010-01-22 and 2010-07-19 decrees) is
   unchanged, and now has the `5.2.7` evidence pointing the same way.
+
+### Post-landing review pass, same day
+
+A ten-finding code review ran after the landing commit; all ten were fixed
+the same day (`docs/decisions.md` 2026-07-31, review-fixes entry). The two
+that bear directly on this plan's mechanism: a date phrase inside a decree
+title ("del diverso publicado el 30 de junio de 2011") could previously mint
+a false `amended_by` mark on an unrelated clause whose number collides with
+the date's day or year, and a global `(?i)` let "Anexo de la ..." prose
+register as an annex target. Neither ever fired on the three recorded titles;
+both now have regression tests.
 
 ## Next action
 

@@ -85,14 +85,23 @@ retained source; neither is ever written. The retained text is checked against
 what the record claims — which is what makes a parser change backfillable
 across all committed standards without re-acquiring original PDFs.
 
-Two guards, because this writes committed canonical data:
+Four guards, all of which run **before any file is written** — a refused or
+failed refresh leaves the committed directory exactly as it found it:
 
 - a changed clause count aborts outright — that size of structural change is a
   parser regression to diagnose, not a file to rewrite;
+- a changed transitory count aborts outright. Transitories never move the
+  clause count or the marks, so a transitory-parser regression that suddenly
+  returns none would otherwise be written into committed data with exit code
+  0 — and `validate` could never flag it afterwards, because the corpus would
+  be self-consistent. Entry-into-force dates live there;
 - a change to any clause's amendment marks aborts unless `--allow-mark-change`
   is passed. Marks are a legal-meaning claim and never move the clause count,
   so nothing else in the pipeline would catch a title-parser regression that
-  drops or misattributes them.
+  drops or misattributes them;
+- a reparse that does not validate aborts with nothing written, rather than
+  leaving invalid derived files behind a non-zero exit for a batch loop to
+  miss.
 
 ## Clause-level amendment marks
 
@@ -123,18 +132,35 @@ decree addressed text it never named.
 Title parsing is deliberately conservative. Everything from the standard's own
 identity onward is discarded first, so a designation's digits
 ("NOM-247-SSA1-2008") can never be read as a numeral; the remainder is
-segmented at its own action verbs; and a segment must carry a target noun
-(`numeral`, `apéndice`, `anexo`, ...) before any token in it counts.
+segmented at its own action verbs; a segment must carry a target noun
+(`numeral`, `apéndice`, `anexo`, ...) before any token in it counts; date
+phrases inside a segment ("del diverso publicado el 30 de junio de 2011") are
+excluded before numeral matching, because a date's bare day or year can
+collide with a real top-level clause number and stamp a false mark on an
+unrelated clause; and an annex identifier must start with a genuine capital or
+digit — case-insensitivity is scoped to the keyword, so "Anexo de la ..."
+(prose) names nothing while "Anexo 1" does.
 
-The action-verb set must cover the same grammatical forms for every family —
-nominal ("eliminación de los numerales") and conjugated ("se eliminan los
-numerales"). Because segments are cut at verb matches, a family the regex
-cannot see is not skipped: its targets are absorbed by the preceding family and
-mislabelled. An asymmetric set where `reforman` matched but `derogan` did not
-would read "se reforman los numerales 3.2 y 3.4 y se derogan los numerales 5.1
-y 5.2" as one *modified* segment and record two repeals as modifications. That
-is the one failure direction amendment marks exist to prevent, and it has its
-own regression test.
+Both the segmenting regex and the verb→action classifier are generated from a
+single `VERB_FAMILIES` table, so a family cannot be added to one and not the
+other. Every family covers the same grammatical forms — nominal ("eliminación
+de los numerales") and conjugated ("se eliminan los numerales") — because
+segments are cut at verb matches: a form the regex cannot see is not skipped,
+its targets are absorbed by the preceding family and mislabelled. An
+asymmetric set where `reforman` matched but `derogan` did not would read "se
+reforman los numerales 3.2 y 3.4 y se derogan los numerales 5.1 y 5.2" as one
+*modified* segment and record two repeals as modifications. That is the one
+failure direction amendment marks exist to prevent, and it has its own
+regression test.
+
+The marks reach consumers through `lex-mex instruments --json`: each standard
+entry carries `amendment_marked_clauses` (how many clauses are known outdated)
+and `published_designation` (when the registry has redesignated the standard,
+so a reader is never shown a designation that appears nowhere in the record's
+own retained text). Per-clause rendering waits on a standards Markdown export
+profile, which does not exist yet — `collect_standard` deliberately bails on
+`CanonicalMarkdown` — and is recorded as deferred, not omitted, in
+`docs/plans/standards-amendment-marks.md`.
 
 **The title form is not universal.** SSA1 publishes "Modificación de los numerales 3.2, 3.10 ...
 de la Norma Oficial Mexicana NOM-247-SSA1-2008"; STPS publishes "ACUERDO de

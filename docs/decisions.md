@@ -1,5 +1,81 @@
 # Architecture decisions
 
+## 2026-07-31 — Review fixes on Stage A, same day: ten findings, all closed
+
+A ten-finding code review ran against the Stage A landing commit
+(`4ab432e89`); every finding was fixed the same day. The corpus effect is
+message-precision only: warning counts are byte-identical corpus-wide (checked
+old-vs-new across all 29 standards), no clause or transitory span moved, and
+the only committed diffs are the 13 `validation.json` files whose
+trailing-material warnings now name the actual heading instead of a byte
+count. The durable decisions:
+
+**One `LINE_LEAD` fragment feeds every line-anchored regex in `standard.rs`.**
+The page-break (`\x0c`) admission from 2026-07-29 had reached only two of the
+five line-anchored patterns. The three it missed made the fix
+self-undermining: a form-fed ordinal line made the heading finder reject the
+genuine TRANSITORIOS section (re-admitting phantom clauses *and* silencing
+every downstream warning at once), and a form-fed TRANSITORIOS/APÉNDICE was
+visible to the heading finder but invisible to span bounding, so the last
+clause absorbed the whole transitorios section — or the last transitory
+swallowed the annex and harvested its dates as `asserted_dates`. **The rule:
+a character-class fix to line anchoring is applied through one shared
+fragment or not at all** — partial application converts a visible defect into
+a quieter one. Three regression fixtures.
+
+**Run selection sees the full match list; the TRANSITORIOS boundary applies
+to the winner afterwards.** Truncating candidates first shortens only
+body-side runs (the índice sits before the boundary and never loses a row),
+so a body with partially regex-invisible headings could lose the length
+comparison to its own índice — the NOM-052 failure mode returning through
+selection. A run must still *start* before the boundary, so post-transitorios
+numbering that restarts at 1 cannot compete. Fixture:
+`index-outnumbers-body-sample.txt`.
+
+**`refresh` now has four guards, all before any write**: clause count,
+transitory count (new — transitories move neither the clause count nor the
+marks, so a transitory-parser regression previously rewrote committed data
+with exit code 0 and left the corpus self-consistently wrong), amendment
+marks (`--allow-mark-change`), and report validity (new — the old order wrote
+the three files and bailed after, leaving invalid canonical data behind a
+non-zero exit that a batch loop can miss). A refused refresh is now
+byte-for-byte a no-op, and both new guards have tests asserting exactly that.
+
+**Trailing-material detection is structural first, byte-count last.** The
+flat 2000-byte threshold under-reported compact normative annexes (the exact
+silent omission the warning exists for) and over-reported long signature
+blocks. The transitorios section ending at an APÉNDICE/ANEXO heading is
+itself the evidence — warned unconditionally, naming the heading; a
+signature-closed tail is searched for a later annex-like heading (GUÍA,
+LISTADO, TABLA included — in the *warning search only*; extending
+`SECTION_END` itself would move committed transitory spans, which is the
+held-out `transitory-absorbs-annex` defect, still gated); only a headingless
+remainder falls back to the byte heuristic, measured after the last
+"Rúbrica". All 13 committed warnings survived and now name their heading.
+
+**Title parsing: date phrases are excluded before numeral matching, and annex
+identifiers must start with a genuine capital or digit.** "del diverso
+publicado el 30 de junio de 2011" could mint a false `amended_by` mark on an
+unrelated clause numbered 30 or 2011 — a false *presence* mark, strictly
+worse than any missed mark in this design — and a global `(?i)` case-folded
+`[A-Z0-9]` so "Anexo de la ..." prose produced the bogus target "Anexo de".
+Neither ever fired on the three recorded titles. Also: the verb-segmenting
+regex and the verb→action classifier are now generated from one
+`VERB_FAMILIES` table, making the "regex sees a family the classifier
+doesn't" drift structurally impossible rather than merely tested against.
+
+**Consumer surface**: `lex-mex instruments --json` now carries
+`published_designation` (a reader is never shown a designation appearing
+nowhere in the record's own retained text without the discrepancy marked) and
+`amendment_marked_clauses`. Per-clause rendering is recorded in the Stage A
+plan as *deferred* on the nonexistent standards Markdown profile, closing the
+review's "neither delivered nor deferred" gap.
+
+Also: constant regexes hoisted to `LazyLock` statics, the modification-target
+derivation computed once per validation pass, the third `collapse_whitespace`
+copy replaced with the crate-level helper, and `as_str()` added to
+`StandardModificationAction` so prose messages reuse the serde token.
+
 ## 2026-07-31 — Landed Scope 2 Stage A: clause-level amendment marks derived from decree titles
 
 Operator sign-off arrived as the directive "go for M4"; Stage A was the only

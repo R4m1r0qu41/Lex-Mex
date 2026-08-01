@@ -11,8 +11,8 @@ use chrono::{NaiveDate, Utc};
 use clap::{Parser, Subcommand, ValueEnum};
 use lex_core::{
     Corpus, Instrument, InstrumentStatus, InstrumentType, ProvisionType, ReferenceResolutionStatus,
-    ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest, StandardKind,
-    StandardMetadata, StandardStatus, StandardTextBasis, TemporalAnalysisMetadata,
+    ReviewItem, ReviewItemStatus, ReviewResolution, SCHEMA_VERSION, SourceManifest, StandardClause,
+    StandardKind, StandardMetadata, StandardStatus, StandardTextBasis, TemporalAnalysisMetadata,
     TemporalAnalysisRequest, TemporalAnalysisResult, TemporalEvidence, TemporalModelBatch,
     TemporalReviewResolution, TemporalStatus, TransitoryEffect, apply_temporal_determinations,
     open_temporal_review, preserve_temporal_review_history, reapply_temporal_determinations,
@@ -429,6 +429,17 @@ struct InstrumentIndexEntry {
     text_basis: Option<String>,
     #[serde(skip_serializing_if = "Option::is_none")]
     unconsolidated_modification_count: Option<usize>,
+    /// The designation the retained text itself was published under, when the
+    /// registry has since redesignated the standard. Without it a reader of
+    /// the index sees a designation appearing nowhere in the record's own
+    /// source text, with nothing marking the discrepancy.
+    #[serde(skip_serializing_if = "Option::is_none")]
+    published_designation: Option<String>,
+    /// How many clauses carry `amended_by` marks -- known-outdated text,
+    /// precisely located. A count here is a staleness claim, not a currency
+    /// one.
+    #[serde(skip_serializing_if = "Option::is_none")]
+    amendment_marked_clauses: Option<usize>,
     path: PathBuf,
 }
 
@@ -471,10 +482,29 @@ fn committed_instrument_index(root: &Path) -> Result<Vec<InstrumentIndexEntry>> 
                     latest_reform_date: instrument.latest_reform_date,
                     text_basis: None,
                     unconsolidated_modification_count: None,
+                    published_designation: None,
+                    amendment_marked_clauses: None,
                     path,
                 })
             } else {
                 let standard: StandardMetadata = read_json(&path.join("standard.json"))?;
+                // A committed standard always has clauses.json, but the index
+                // is a listing: a directory missing it still lists (with no
+                // mark count) rather than hiding every other instrument
+                // behind one broken entry. A present-but-unreadable file is
+                // still an error -- that is corruption, not absence.
+                let clauses_path = path.join("clauses.json");
+                let marked = if clauses_path.is_file() {
+                    let clauses: Vec<StandardClause> = read_json(&clauses_path)?;
+                    Some(
+                        clauses
+                            .iter()
+                            .filter(|clause| !clause.amended_by.is_empty())
+                            .count(),
+                    )
+                } else {
+                    None
+                };
                 Ok(InstrumentIndexEntry {
                     slug,
                     id: standard.id,
@@ -496,6 +526,8 @@ fn committed_instrument_index(root: &Path) -> Result<Vec<InstrumentIndexEntry>> 
                             .filter(|source| !source.included_in_source)
                             .count(),
                     ),
+                    published_designation: standard.published_designation,
+                    amendment_marked_clauses: marked.filter(|&count| count > 0),
                     path,
                 })
             }

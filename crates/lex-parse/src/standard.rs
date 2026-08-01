@@ -1,4 +1,4 @@
-use std::collections::HashSet;
+use std::{collections::HashSet, sync::LazyLock};
 
 use anyhow::{Result, bail};
 use lex_core::{
@@ -9,9 +9,68 @@ use lex_core::{
 use regex::Regex;
 
 use crate::{
+    collapse_whitespace,
     diputados::{parse_transitory_start, transitory_ordinals},
     slug, spanish_date,
 };
+
+/// Leading whitespace admissible before any line-anchored heading or marker.
+///
+/// `\x0c` (form feed) belongs here because `pdftotext` emits a page break
+/// immediately before the first line of a page, with no intervening newline,
+/// so a heading, ordinal, or section marker landing on a page boundary reads
+/// as `"\x0c   TRANSITORIOS"`. Every line-anchored pattern in this module
+/// must interpolate this one fragment: when only some of them admitted the
+/// form feed, a page-break TRANSITORIOS was visible to the heading finder but
+/// invisible to span bounding, so the last clause silently absorbed the whole
+/// transitorios section -- and a page-break ordinal line made the heading
+/// finder reject the genuine section altogether, re-admitting post-transitorios
+/// table rows as clauses.
+const LINE_LEAD: &str = r"[ \t\x0c]*";
+
+static CLAUSE_HEADING: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(&format!(
+        r"(?m)^{LINE_LEAD}(\d+(?:\.\d+)*)(?:(\.)[ \t]+|[ \t]+)([^\r\n].*?)[ \t]*\r?$"
+    ))
+    .expect("clause-heading regex must compile")
+});
+
+static LINE_START: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(&format!(r"(?m)^{LINE_LEAD}(\S.*)$")).expect("line-start regex must compile")
+});
+
+static TRANSITORIOS_HEADING: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(&format!(
+        r"(?mi)^{LINE_LEAD}(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b.*\r?$"
+    ))
+    .expect("transitorios heading regex must compile")
+});
+
+static SECTION_END: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(&format!(
+        r"(?mi)^{LINE_LEAD}(?:(?<signature>{SIGNATURE_MARKERS})|(?<annex>(?:AP[ÉE]NDICE|ANEXO)\b[^\r\n]*))"
+    ))
+    .expect("standard section end-marker regex must compile")
+});
+
+static CLAUSE_END: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(&format!(
+        r"(?mi)^{LINE_LEAD}(?:{SIGNATURE_MARKERS}|(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b|AP[ÉE]NDICE\b|ANEXO\b)"
+    ))
+    .expect("standard end-marker regex must compile")
+});
+
+static BIBLIOGRAPHY_HEADING: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(r"(?i)^bibliograf[ií]a\b").expect("bibliography-heading regex must compile")
+});
+
+// `\s+` (not `[ \t]+`) between tokens: `pdftotext -layout` output wraps
+// long lines, and a date phrase can fall across that wrap (".. el 1 de
+// octubre\nde 2023." is a real occurrence, not a contrived one).
+static DATE_PHRASE: LazyLock<Regex> = LazyLock::new(|| {
+    Regex::new(r"(?i)(\d{1,2})[oº]?\s+de\s+([a-zá-úñ]+)\s+de\s+(\d{4})")
+        .expect("date-phrase regex must compile")
+});
 
 /// Parse the numbered body of a NOM/NMX without treating its clauses as
 /// statute articles. Character offsets address the unchanged extracted text.
@@ -19,18 +78,13 @@ pub fn parse_standard_clauses(
     source_text: &str,
     metadata: &StandardMetadata,
 ) -> Result<Vec<StandardClause>> {
-    // `\x0c` (form feed) joins the leading-whitespace class because
-    // `pdftotext` emits a page break immediately before the first line of a
-    // page, with no intervening newline. A heading that happens to fall at a
-    // page boundary is otherwise invisible to the line-start anchor -- the
-    // defect that hid NOM-052-SEMARNAT-2005's entire body, leaving only its
-    // índice to be selected. DOF running headers ("6 (Edición Vespertina)
-    // DIARIO OFICIAL ...") also sit after a form feed, but they carry no
-    // ordinal period and their label opens with `(`, so `plausible_top_level`
-    // already rejects them; admitting the form feed changed no clause in any
-    // already-committed standard.
-    let heading =
-        Regex::new(r"(?m)^[ \t\x0c]*(\d+(?:\.\d+)*)(?:(\.)[ \t]+|[ \t]+)([^\r\n].*?)[ \t]*\r?$")?;
+    // The heading regex admits a form feed via `LINE_LEAD` -- the defect that
+    // hid NOM-052-SEMARNAT-2005's entire body, leaving only its índice to be
+    // selected. DOF running headers ("6 (Edición Vespertina) DIARIO OFICIAL
+    // ...") also sit after a form feed, but they carry no ordinal period and
+    // their label opens with `(`, so `plausible_top_level` already rejects
+    // them.
+    //
     // A standard's normative numbered body ends at TRANSITORIOS. What follows
     // -- apéndices, anexos, tablas, listados, and explicitly non-binding
     // "Guía de Referencia" material -- is not clause-structured, but is often
@@ -41,13 +95,8 @@ pub fn parse_standard_clauses(
     // record imply the standard ends where the clause body does.
     let body_limit = real_transitorios_heading(source_text)
         .map_or(source_text.len(), |(heading_start, _)| heading_start);
-    let matches = heading
+    let matches = CLAUSE_HEADING
         .captures_iter(source_text)
-        .take_while(|captures| {
-            captures
-                .get(0)
-                .is_some_and(|whole| whole.start() < body_limit)
-        })
         .filter_map(|captures| {
             let whole = captures.get(0)?;
             let number = captures.get(1)?.as_str();
@@ -65,11 +114,20 @@ pub fn parse_standard_clauses(
             ))
         })
         .collect::<Vec<_>>();
+    // Run selection sees the FULL match list; the TRANSITORIOS boundary is
+    // applied to the winning run afterwards. Truncating the candidates first
+    // shortens only body-side runs (the índice sits before the boundary and
+    // never loses a row to it), so a body whose headings are partially
+    // regex-invisible could lose the length comparison to its own índice --
+    // the NOM-052 failure mode reintroduced through run selection. A run must
+    // still *start* before the boundary: a real body begins before its own
+    // transitorios, and admitting later starts would let a post-transitorios
+    // guía or apéndice numbering that restarts at 1 compete for selection.
     let Some((selected, body_end)) = matches
         .iter()
         .enumerate()
-        .filter(|(_, (_, _, order, plausible, _))| {
-            *plausible && order.len() == 1 && matches!(order[0], 0 | 1)
+        .filter(|(_, (start, _, order, plausible, _))| {
+            *plausible && order.len() == 1 && matches!(order[0], 0 | 1) && *start < body_limit
         })
         .map(|(start, _)| numbered_body_run(&matches, start))
         .max_by_key(|(selected, _)| selected.len())
@@ -81,6 +139,7 @@ pub fn parse_standard_clauses(
         .map_or(source_text.len(), |(start, _, _, _, _)| *start);
     let matches = selected
         .into_iter()
+        .filter(|&index| matches[index].0 < body_limit)
         .map(|index| matches[index].clone())
         .collect::<Vec<_>>();
     let structural_end = matches
@@ -136,15 +195,14 @@ pub fn parse_standard_transitories(
     source_text: &str,
     metadata: &StandardMetadata,
 ) -> Result<Vec<StandardTransitory>> {
-    let line_start = Regex::new(r"(?m)^[ \t]*(\S.*)$")?;
     let ordinals = transitory_ordinals();
     let Some((_, heading_end)) = real_transitorios_heading(source_text) else {
         return Ok(Vec::new());
     };
-    let section_end = section_end_marker(source_text, heading_end);
+    let (section_end, _) = section_end_marker(source_text, heading_end);
     let (section, section_offset) = (&source_text[heading_end..section_end], heading_end);
 
-    let starts = line_start
+    let starts = LINE_START
         .captures_iter(section)
         .filter_map(|captures| {
             let line = captures
@@ -155,16 +213,12 @@ pub fn parse_standard_transitories(
         })
         .collect::<Vec<_>>();
 
-    // `\s+` (not `[ \t]+`) between tokens: `pdftotext -layout` output wraps
-    // long lines, and a date phrase can fall across that wrap (".. el 1 de
-    // octubre\nde 2023." is a real occurrence, not a contrived one).
-    let date_phrase = Regex::new(r"(?i)(\d{1,2})[oº]?\s+de\s+([a-zá-úñ]+)\s+de\s+(\d{4})")?;
     let mut transitories = Vec::with_capacity(starts.len());
     for (index, (start, ordinal)) in starts.iter().enumerate() {
         let natural_end = starts.get(index + 1).map_or(section.len(), |next| next.0);
         let (trimmed_start, trimmed_end) = trim_span(section, *start, natural_end);
         let text = section[trimmed_start..trimmed_end].to_owned();
-        let asserted_dates = date_phrase
+        let asserted_dates = DATE_PHRASE
             .captures_iter(&text)
             .filter_map(|captures| {
                 spanish_date(&captures[1], &captures[2].to_lowercase(), &captures[3])
@@ -200,19 +254,15 @@ pub fn parse_standard_transitories(
 /// parser (which needs it as the end of the normative numbered body), so the
 /// two can never disagree about where a standard's body stops.
 fn real_transitorios_heading(source_text: &str) -> Option<(usize, usize)> {
-    let heading_marker =
-        Regex::new(r"(?mi)^[ \t\x0c]*(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b.*\r?$")
-            .expect("transitorios heading regex must compile");
-    let line_start = Regex::new(r"(?m)^[ \t]*(\S.*)$").expect("line-start regex must compile");
     let ordinals = transitory_ordinals();
-    let mut found = heading_marker
+    let mut found = TRANSITORIOS_HEADING
         .find_iter(source_text)
         .map(|found| (found.start(), found.end()))
         .collect::<Vec<_>>();
     found.reverse();
     found.into_iter().find(|&(_, heading_end)| {
-        let section_end = section_end_marker(source_text, heading_end);
-        line_start
+        let (section_end, _) = section_end_marker(source_text, heading_end);
+        LINE_START
             .captures_iter(&source_text[heading_end..section_end])
             .any(|captures| parse_transitory_start(&captures[1], &ordinals).is_some())
     })
@@ -223,26 +273,40 @@ fn real_transitorios_heading(source_text: &str) -> Option<(usize, usize)> {
 /// line, either of which opens a decree's signature block.
 const SIGNATURE_MARKERS: &str = r"SUFRAGIO[ \t]+EFECTIVO\b|(?:CIUDAD[ \t]+DE[ \t]+)?M[ÉE]XICO,[ \t]+(?:D\.?[ \t]*F\.?,[ \t]+)?A\b";
 
+/// What structurally closed a transitorios section: the marker kind matters
+/// to `validate_trailing_material`, which must treat "the section ended at an
+/// APÉNDICE/ANEXO heading" (unmodeled, possibly normative material follows)
+/// differently from "the section ended at the signature block" (a closing
+/// formality of arbitrary length).
+#[derive(Debug, Clone, PartialEq, Eq)]
+enum SectionTail {
+    /// The first line of the annex heading that closed the section, collapsed
+    /// to single spaces, for naming in a validation message.
+    Annex(String),
+    Signature,
+    /// No marker follows -- the section runs to the end of the text (the
+    /// common case: transitorios are ordinarily a standard's last section).
+    End,
+}
+
 /// End of a section that opened at `TRANSITORIOS`-marker byte offset
-/// `section_start`: the next `APÉNDICE`/`ANEXO`/signature marker, or the
-/// rest of the text if none follows (the common case -- transitorios are
-/// ordinarily a standard's last section).
-fn section_end_marker(source_text: &str, section_start: usize) -> usize {
-    let markers = Regex::new(&format!(
-        r"(?mi)^[ \t]*(?:{SIGNATURE_MARKERS}|AP[ÉE]NDICE\b|ANEXO\b)"
-    ))
-    .expect("standard section end-marker regex must compile");
-    markers
-        .find(&source_text[section_start..])
-        .map_or(source_text.len(), |marker| section_start + marker.start())
+/// `section_start`, plus what closed it: the next `APÉNDICE`/`ANEXO`/signature
+/// marker, or the rest of the text if none follows.
+fn section_end_marker(source_text: &str, section_start: usize) -> (usize, SectionTail) {
+    match SECTION_END.captures(&source_text[section_start..]) {
+        Some(captures) => {
+            let whole = captures.get(0).expect("group 0 always exists");
+            let tail = captures.name("annex").map_or(SectionTail::Signature, |m| {
+                SectionTail::Annex(collapse_whitespace(m.as_str()))
+            });
+            (section_start + whole.start(), tail)
+        }
+        None => (source_text.len(), SectionTail::End),
+    }
 }
 
 fn standard_clause_end(source_text: &str, clause_start: usize, natural_end: usize) -> usize {
-    let markers = Regex::new(&format!(
-        r"(?mi)^[ \t]*(?:{SIGNATURE_MARKERS}|(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b|AP[ÉE]NDICE\b|ANEXO\b)"
-    ))
-    .expect("standard end-marker regex must compile");
-    markers
+    CLAUSE_END
         .find(&source_text[clause_start..natural_end])
         .map_or(natural_end, |marker| clause_start + marker.start())
 }
@@ -299,9 +363,7 @@ fn numbered_body_run(
 /// internal reference list is a numbered enumeration of sources, not
 /// sub-clauses, even when formatted as a numbered list.
 fn is_bibliography_heading(label: &str) -> bool {
-    let bibliografia =
-        Regex::new(r"(?i)^bibliograf[ií]a\b").expect("bibliography-heading regex must compile");
-    bibliografia.is_match(label.trim_start())
+    BIBLIOGRAPHY_HEADING.is_match(label.trim_start())
 }
 
 /// One unit a modifying decree names in its own DOF publication title.
@@ -370,37 +432,37 @@ pub fn parse_standard_modification_targets(
 /// Mexicana NOM-020-STPS-2011, ..." with no numerals at all, and the caller
 /// must be able to tell that apart from a title that was never recorded.
 fn title_targets(title: &str) -> Vec<(String, StandardModificationAction)> {
-    let identity = Regex::new(r"(?i)\bnormas?\s+(?:oficiales?\s+)?mexicanas?\b|\bNO?MX?-")
-        .expect("standard-identity regex must compile");
-    // Every action family must cover the same grammatical forms -- nominal
-    // ("eliminación de los numerales") and conjugated ("se eliminan los
-    // numerales"). An asymmetric set is worse than a narrow one: if
-    // `reforman` matched but `derogan` did not, "se reforman los numerales 3.2
-    // y 3.4 y se derogan los numerales 5.1 y 5.2" would parse as a single
-    // *modified* segment and label two repeals as modifications. Segments are
-    // cut at these matches, so a family the regex cannot see is not skipped --
-    // its targets are absorbed by the preceding family.
-    let verb = Regex::new(
-        r"(?i)\b(modificaci[oó]n(?:es)?|modifican?|reformas?|reforman|adici[oó]n(?:es)?|adicionan?|eliminaci[oó]n(?:es)?|eliminan?|derogaci[oó]n(?:es)?|derogan?|cancelaci[oó]n(?:es)?|cancelan?|supresi[oó]n(?:es)?|suprimen?)\b",
-    )
-    .expect("modification-verb regex must compile");
-    let cue = Regex::new(r"(?i)\b(numeral(?:es)?|ap[eé]ndices?|anexos?|incisos?|cap[ií]tulos?|puntos?|tablas?|figuras?)\b")
-        .expect("target-noun regex must compile");
-    let annex = Regex::new(
-        r"(?i)\b((?:ap[eé]ndice|anexo)(?:\s+(?:normativo|informativo))?\s+[A-Z0-9][A-Za-z0-9]*)",
-    )
-    .expect("annex-target regex must compile");
-    let numeral =
-        Regex::new(r"\b\d+(?:\.[0-9A-Za-z]+)*\)?").expect("numeral-target regex must compile");
+    static IDENTITY: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"(?i)\bnormas?\s+(?:oficiales?\s+)?mexicanas?\b|\bNO?MX?-")
+            .expect("standard-identity regex must compile")
+    });
+    static CUE: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"(?i)\b(numeral(?:es)?|ap[eé]ndices?|anexos?|incisos?|cap[ií]tulos?|puntos?|tablas?|figuras?)\b")
+            .expect("target-noun regex must compile")
+    });
+    // Case-insensitivity is scoped to the keyword groups only. A global `(?i)`
+    // case-folds the identifier class too, so `[A-Z0-9]` matched a lowercase
+    // `d` and "eliminación del Anexo de la ..." produced the bogus target
+    // "Anexo de"; the identifier of a real annex ("Apéndice normativo A",
+    // "Anexo 1") starts with a genuine capital or digit.
+    static ANNEX: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(
+            r"\b((?i:ap[eé]ndice|anexo)(?:\s+(?i:normativo|informativo))?\s+[A-Z0-9][A-Za-z0-9]*)",
+        )
+        .expect("annex-target regex must compile")
+    });
+    static NUMERAL: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"\b\d+(?:\.[0-9A-Za-z]+)*\)?").expect("numeral-target regex must compile")
+    });
 
-    let operative = match identity.find(title) {
+    let operative = match IDENTITY.find(title) {
         Some(found) => &title[..found.start()],
         // Without the boundary the digits of the standard's own designation are
         // indistinguishable from targets, so name nothing rather than guess.
         None => return Vec::new(),
     };
 
-    let verbs = verb.find_iter(operative).collect::<Vec<_>>();
+    let verbs = VERB.find_iter(operative).collect::<Vec<_>>();
     let mut targets: Vec<(String, StandardModificationAction)> = Vec::new();
     let mut seen = HashSet::new();
     for (position, found) in verbs.iter().enumerate() {
@@ -408,19 +470,32 @@ fn title_targets(title: &str) -> Vec<(String, StandardModificationAction)> {
             .get(position + 1)
             .map_or(operative.len(), regex::Match::start);
         let segment = &operative[found.start()..segment_end];
-        if !cue.is_match(segment) {
+        if !CUE.is_match(segment) {
             continue;
         }
         let action = modification_action(found.as_str());
-        let mut spans = annex
+        // A date inside the segment ("del diverso publicado el 30 de junio de
+        // 2011") is prose, but its day and year are bare integers the numeral
+        // regex would otherwise capture -- and "30" or "2011" can collide with
+        // a real top-level clause number, stamping a false amendment mark on
+        // an unrelated clause. Date-phrase spans are excluded before any
+        // numeral in them can count.
+        let date_spans = DATE_PHRASE
+            .find_iter(segment)
+            .map(|found| (found.start(), found.end()))
+            .collect::<Vec<_>>();
+        let mut spans = ANNEX
             .find_iter(segment)
             .map(|found| (found.start(), found.end(), found.as_str().to_owned()))
             .collect::<Vec<_>>();
-        for found in numeral.find_iter(segment) {
+        for found in NUMERAL.find_iter(segment) {
             let covered = spans
                 .iter()
                 .any(|(start, end, _)| found.start() < *end && *start < found.end());
-            if !covered {
+            let inside_date = date_spans
+                .iter()
+                .any(|(start, end)| found.start() < *end && *start < found.end());
+            if !covered && !inside_date {
                 spans.push((found.start(), found.end(), found.as_str().to_owned()));
             }
         }
@@ -435,32 +510,77 @@ fn title_targets(title: &str) -> Vec<(String, StandardModificationAction)> {
     targets
 }
 
-fn modification_action_name(action: StandardModificationAction) -> &'static str {
-    match action {
-        StandardModificationAction::Modified => "modified",
-        StandardModificationAction::Added => "added",
-        StandardModificationAction::Eliminated => "eliminated",
-    }
-}
+/// The single source of truth for decree action verbs: each family's regex
+/// alternatives paired with the action they classify to.
+///
+/// Both the segmenting regex ([`VERB`]) and the classifier
+/// ([`modification_action`]) are generated from this table, so a family
+/// cannot be added to one and not the other. When they were two
+/// hand-maintained lists with an `else => Modified` fallback, adding a verb
+/// family to the regex alone compiled silently and labelled a repeal as a
+/// modification -- the exact mislabeling `StandardModificationAction` exists
+/// to prevent. Every family must cover the same grammatical forms, nominal
+/// ("eliminación de los numerales") and conjugated ("se eliminan los
+/// numerales"): segments are cut at these matches, so an unseen form is not
+/// skipped -- its targets are absorbed by the preceding family.
+const VERB_FAMILIES: &[(&str, StandardModificationAction)] = &[
+    (
+        r"modificaci[oó]n(?:es)?|modifican?",
+        StandardModificationAction::Modified,
+    ),
+    (r"reformas?|reforman", StandardModificationAction::Modified),
+    (
+        r"adici[oó]n(?:es)?|adicionan?",
+        StandardModificationAction::Added,
+    ),
+    (
+        r"eliminaci[oó]n(?:es)?|eliminan?",
+        StandardModificationAction::Eliminated,
+    ),
+    (
+        r"derogaci[oó]n(?:es)?|derogan?",
+        StandardModificationAction::Eliminated,
+    ),
+    (
+        r"cancelaci[oó]n(?:es)?|cancelan?",
+        StandardModificationAction::Eliminated,
+    ),
+    (
+        r"supresi[oó]n(?:es)?|suprimen?",
+        StandardModificationAction::Eliminated,
+    ),
+];
+
+static VERB: LazyLock<Regex> = LazyLock::new(|| {
+    let alternatives = VERB_FAMILIES
+        .iter()
+        .map(|(pattern, _)| *pattern)
+        .collect::<Vec<_>>()
+        .join("|");
+    Regex::new(&format!(r"(?i)\b({alternatives})\b")).expect("modification-verb regex must compile")
+});
+
+static VERB_CLASSIFIERS: LazyLock<Vec<(Regex, StandardModificationAction)>> = LazyLock::new(|| {
+    VERB_FAMILIES
+        .iter()
+        .map(|(pattern, action)| {
+            (
+                Regex::new(&format!(r"(?i)^(?:{pattern})$"))
+                    .expect("verb-family classifier regex must compile"),
+                *action,
+            )
+        })
+        .collect()
+});
 
 fn modification_action(verb: &str) -> StandardModificationAction {
-    let lowered = verb.to_lowercase();
-    if lowered.starts_with("adici") {
-        StandardModificationAction::Added
-    } else if lowered.starts_with("elimina")
-        || lowered.starts_with("deroga")
-        || lowered.starts_with("cancela")
-        || lowered.starts_with("supresi")
-        || lowered.starts_with("suprim")
-    {
-        StandardModificationAction::Eliminated
-    } else {
-        StandardModificationAction::Modified
-    }
-}
-
-fn collapse_whitespace(value: &str) -> String {
-    value.split_whitespace().collect::<Vec<_>>().join(" ")
+    VERB_CLASSIFIERS
+        .iter()
+        .find(|(family, _)| family.is_match(verb))
+        .map(|(_, action)| *action)
+        // Unreachable by construction: `verb` is a match of the alternation
+        // built from the same table the classifiers are built from.
+        .expect("a verb matched by the segmenting regex must classify to its own family")
 }
 
 /// Stamp each clause with the recorded decrees whose titles name it.
@@ -488,8 +608,12 @@ pub fn validate_standard(
     source_text: &str,
 ) -> StandardValidationReport {
     let mut issues = Vec::new();
+    // Derived once here and shared: `apply_amendment_marks` already consumed
+    // the same derivation during parsing, and re-deriving it per validator
+    // would invite the two to drift.
+    let targets = parse_standard_modification_targets(metadata, clauses);
     validate_metadata(metadata, &mut issues);
-    validate_standard_sources(metadata, clauses, &mut issues);
+    validate_standard_sources(metadata, &targets, &mut issues);
     validate_clauses(metadata, clauses, source_text, &mut issues);
     validate_transitories(metadata, transitories, source_text, &mut issues);
     validate_trailing_material(source_text, &mut issues);
@@ -603,10 +727,9 @@ fn validate_metadata(metadata: &StandardMetadata, issues: &mut Vec<ValidationIss
 
 fn validate_standard_sources(
     metadata: &StandardMetadata,
-    clauses: &[StandardClause],
+    targets: &[StandardModificationTarget],
     issues: &mut Vec<ValidationIssue>,
 ) {
-    let targets = parse_standard_modification_targets(metadata, clauses);
     let included_modifications = metadata
         .modifications
         .iter()
@@ -696,7 +819,7 @@ fn validate_standard_sources(
                     "modification published {} names {} ({}), which matches no committed clause",
                     source.publication_date,
                     target.clause,
-                    modification_action_name(target.action),
+                    target.action.as_str(),
                 ),
             ));
         }
@@ -894,25 +1017,68 @@ fn error(code: &str, message: String, provision_id: Option<String>) -> Validatio
 /// clause body while silently omitting operative content. The warning does not
 /// distinguish normative from non-binding trailing material; making that call
 /// requires reading it, which is the point of surfacing it to a reviewer.
+///
+/// Detection is structural first, byte-count last. When the transitorios
+/// section ends at an APÉNDICE/ANEXO heading, that heading *is* the evidence
+/// -- unmodeled material follows, and it is named unconditionally: a compact
+/// single-formula apéndice below any byte threshold is exactly the silent
+/// omission this warning exists for. When the section ends at the signature
+/// block instead, the remainder is searched for a later annex-like heading
+/// (GUÍA, LISTADO, TABLA, APÉNDICE, ANEXO -- annexes are sometimes laid out
+/// after the signatures). Only a headingless remainder falls back to a size
+/// heuristic, measured after stripping signature furniture (lines through the
+/// last "Rúbrica"), because a long multi-signatory block is a closing
+/// formality, not omitted content, and a false warning here trains reviewers
+/// to dismiss the code.
 fn validate_trailing_material(source_text: &str, issues: &mut Vec<ValidationIssue>) {
-    // A short tail is the decree's own signature block, already handled by
-    // `section_end_marker`; only a substantial remainder indicates apéndices,
-    // anexos, tablas, or a guía that the clause body does not represent.
     const TRAILING_MATERIAL_BYTES: usize = 2_000;
+    static TRAILING_HEADING: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(&format!(
+            r"(?mi)^{LINE_LEAD}((?:AP[ÉE]NDICE|ANEXOS?|GU[ÍI]A|LISTADOS?|TABLAS?)\b[^\r\n]*)"
+        ))
+        .expect("trailing-heading regex must compile")
+    });
+    static RUBRICA: LazyLock<Regex> =
+        LazyLock::new(|| Regex::new(r"(?i)r[úu]brica").expect("rúbrica regex must compile"));
 
     let Some((heading_start, _)) = real_transitorios_heading(source_text) else {
         return;
     };
-    let section_end = section_end_marker(source_text, heading_start);
-    let trailing = source_text[section_end..].trim();
-    if trailing.len() > TRAILING_MATERIAL_BYTES {
+    let (section_end, tail) = section_end_marker(source_text, heading_start);
+    let named_heading = match &tail {
+        SectionTail::Annex(heading) => Some(heading.clone()),
+        SectionTail::Signature => TRAILING_HEADING
+            .captures(&source_text[section_end..])
+            .map(|captures| collapse_whitespace(&captures[1])),
+        SectionTail::End => None,
+    };
+    if let Some(heading) = named_heading {
         issues.push(warning(
             "standard_trailing_material",
             format!(
-                "{} bytes follow the transitorios section (apéndices, anexos, tablas, or a guía \
-                 de referencia); this material is not represented in clauses.json and may be \
-                 normative",
-                trailing.len()
+                "material after the transitorios section begins at \"{heading}\"; it is not \
+                 represented in clauses.json and may be normative"
+            ),
+        ));
+        return;
+    }
+    // Headingless remainder: measure what is left after the signature block.
+    let trailing = source_text[section_end..].trim();
+    let unsigned = RUBRICA
+        .find_iter(trailing)
+        .last()
+        .map_or(trailing, |last| {
+            let after = &trailing[last.end()..];
+            after.split_once('\n').map_or("", |(_, rest)| rest)
+        })
+        .trim();
+    if unsigned.len() > TRAILING_MATERIAL_BYTES {
+        issues.push(warning(
+            "standard_trailing_material",
+            format!(
+                "{} bytes of unheaded material follow the transitorios section and its signature \
+                 block; this material is not represented in clauses.json and may be normative",
+                unsigned.len()
             ),
         ));
     }
@@ -955,6 +1121,12 @@ mod tests {
         include_str!("../../../fixtures/standards/page-break-heading-sample.txt");
     const POST_TRANSITORIOS_ANNEX_SAMPLE: &str =
         include_str!("../../../fixtures/standards/post-transitorios-annex-sample.txt");
+    const FORM_FEED_ORDINAL_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/form-feed-ordinal-sample.txt");
+    const FORM_FEED_SECTION_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/form-feed-section-heading-sample.txt");
+    const INDEX_OUTNUMBERS_BODY_SAMPLE: &str =
+        include_str!("../../../fixtures/standards/index-outnumbers-body-sample.txt");
 
     #[test]
     fn a_redesignated_standard_records_its_published_designation() {
@@ -1061,6 +1233,130 @@ mod tests {
                 .any(|issue| issue.code == "standard_trailing_material"),
             "expected a trailing-material warning, got {:?}",
             report.issues
+        );
+    }
+
+    #[test]
+    fn a_compact_annex_below_any_byte_threshold_is_still_reported_by_name() {
+        // Detection is structural, not size-based: the transitorios section
+        // ending at an APÉNDICE heading is itself the evidence that unmodeled,
+        // possibly normative material follows. Under the old flat 2000-byte
+        // threshold this sample's short annex produced no warning at all --
+        // the exact silent omission the warning exists to prevent.
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(POST_TRANSITORIOS_ANNEX_SAMPLE, &metadata).unwrap();
+        let transitories =
+            parse_standard_transitories(POST_TRANSITORIOS_ANNEX_SAMPLE, &metadata).unwrap();
+        let report = validate_standard(
+            &metadata,
+            &clauses,
+            &transitories,
+            POST_TRANSITORIOS_ANNEX_SAMPLE,
+        );
+        let trailing = report
+            .issues
+            .iter()
+            .find(|issue| issue.code == "standard_trailing_material")
+            .unwrap_or_else(|| panic!("expected a named warning, got {:?}", report.issues));
+        assert!(
+            trailing.message.contains("APÉNDICE I"),
+            "the warning must name the heading it found: {}",
+            trailing.message
+        );
+    }
+
+    #[test]
+    fn a_transitory_ordinal_after_a_page_break_is_still_an_ordinal() {
+        // `pdftotext` emits "\x0c   PRIMERO.- ..." when the first ordinal
+        // lands on a new page. The ordinal-confirmation scan did not admit the
+        // form feed, so the genuine TRANSITORIOS heading failed confirmation:
+        // body_limit fell back to the end of the text (re-admitting
+        // post-transitorios table rows as clauses -- the 744-phantom-clause
+        // defect returning through a different door), the transitories came
+        // back empty, and no warning fired anywhere.
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(FORM_FEED_ORDINAL_SAMPLE, &metadata).unwrap();
+        assert_eq!(
+            clauses
+                .iter()
+                .map(|clause| clause.number.as_str())
+                .collect::<Vec<_>>(),
+            ["1", "2"],
+            "table rows after the transitorios must not be absorbed as clauses"
+        );
+        let transitories =
+            parse_standard_transitories(FORM_FEED_ORDINAL_SAMPLE, &metadata).unwrap();
+        assert_eq!(transitories.len(), 1, "the form-fed PRIMERO must be found");
+        assert_eq!(
+            transitories[0].asserted_dates,
+            [NaiveDate::from_ymd_opt(2027, 1, 1).unwrap()]
+        );
+    }
+
+    #[test]
+    fn form_fed_section_headings_bound_clause_and_transitory_spans() {
+        // The heading finder admitted "\x0cTRANSITORIOS" but the span-bounding
+        // regexes did not, so the last clause absorbed the entire transitorios
+        // section whenever it started a new PDF page -- and a form-fed
+        // APÉNDICE was likewise swallowed by the last transitory, harvesting
+        // decoy dates into asserted_dates and suppressing the
+        // trailing-material warning exactly when the annex began a new page.
+        // One shared LINE_LEAD fragment now feeds every line-anchored pattern.
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(FORM_FEED_SECTION_SAMPLE, &metadata).unwrap();
+        let last = clauses.last().expect("sample has clauses");
+        assert!(
+            !last.text.contains("TRANSITORIOS"),
+            "the last clause must not absorb the form-fed transitorios section: {:?}",
+            last.text
+        );
+        let transitories =
+            parse_standard_transitories(FORM_FEED_SECTION_SAMPLE, &metadata).unwrap();
+        assert_eq!(transitories.len(), 1);
+        assert!(
+            !transitories[0].text.contains("APENDICE"),
+            "the transitory must not absorb the form-fed annex: {:?}",
+            transitories[0].text
+        );
+        assert_eq!(
+            transitories[0].asserted_dates,
+            [NaiveDate::from_ymd_opt(2027, 3, 15).unwrap()],
+            "the annex's decoy date must not be harvested as an asserted_date"
+        );
+        let report =
+            validate_standard(&metadata, &clauses, &transitories, FORM_FEED_SECTION_SAMPLE);
+        assert!(
+            report.issues.iter().any(|issue| {
+                issue.code == "standard_trailing_material" && issue.message.contains("APENDICE A")
+            }),
+            "the form-fed annex must still be reported by name: {:?}",
+            report.issues
+        );
+    }
+
+    #[test]
+    fn body_run_selection_sees_matches_beyond_the_transitorios_boundary() {
+        // Truncating candidate headings at the TRANSITORIOS boundary before
+        // run selection shortens only body-side runs -- the índice sits
+        // entirely before the boundary and never loses a row to it -- so a
+        // body whose trailing headings are regex-invisible could lose the
+        // length comparison to its own índice (the NOM-052 failure mode
+        // returning through run selection). Selection now sees the full match
+        // list and the boundary is applied to the winning run afterwards.
+        let metadata = metadata();
+        let clauses = parse_standard_clauses(INDEX_OUTNUMBERS_BODY_SAMPLE, &metadata).unwrap();
+        assert_eq!(
+            clauses
+                .iter()
+                .map(|clause| clause.number.as_str())
+                .collect::<Vec<_>>(),
+            ["1", "2", "3", "4"],
+            "the body must win selection and then stop at the transitorios boundary"
+        );
+        assert!(
+            clauses[0].text.contains("Esta norma establece"),
+            "expected the real body, not the índice: {:?}",
+            clauses[0].text
         );
     }
 
@@ -1322,6 +1618,48 @@ mod tests {
                 ),
             ]
             .map(|(clause, action)| (clause.to_owned(), action))
+        );
+    }
+
+    #[test]
+    fn a_date_inside_a_decree_title_is_never_read_as_a_numeral() {
+        // "del diverso publicado el 30 de junio de 2011" is prose, but its
+        // day and year are bare integers -- and "30" can collide with a real
+        // top-level clause number, stamping a false amendment mark on an
+        // unrelated clause. That is the one failure direction the feature
+        // exists to prevent.
+        assert_eq!(
+            title_targets(
+                "Modificación de los numerales 4.1 y 4.2 del diverso publicado el 30 de junio \
+                 de 2011, de la Norma Oficial Mexicana NOM-999-TEST-2026, Prueba."
+            ),
+            [
+                ("4.1", StandardModificationAction::Modified),
+                ("4.2", StandardModificationAction::Modified)
+            ]
+            .map(|(clause, action)| (clause.to_owned(), action))
+        );
+    }
+
+    #[test]
+    fn a_lowercase_word_after_anexo_is_not_an_annex_identifier() {
+        // A global (?i) case-folded the identifier class too, so [A-Z0-9]
+        // matched the "d" of "de" and "eliminación del Anexo de la Norma..."
+        // produced the bogus target "Anexo de". A real annex identifier
+        // ("Apéndice normativo A", "Anexo 1") starts with a genuine capital
+        // or digit; a bare "Anexo" followed by prose names nothing.
+        assert!(
+            title_targets(
+                "Eliminación del Anexo de la Norma Oficial Mexicana NOM-999-TEST-2026, Prueba."
+            )
+            .is_empty()
+        );
+        // The legitimate forms keep working, including a digit identifier.
+        assert_eq!(
+            title_targets(
+                "Eliminación del Anexo 1 de la Norma Oficial Mexicana NOM-999-TEST-2026, Prueba."
+            ),
+            [("Anexo 1".to_owned(), StandardModificationAction::Eliminated)]
         );
     }
 

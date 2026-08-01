@@ -74,6 +74,10 @@ fn refresh_committed_standard(root: &Path, slug: &str, allow_mark_change: bool) 
     let transitories = parse_standard_transitories(&text, &metadata)?;
     let report = validate_standard(&metadata, &clauses, &transitories, &text);
 
+    // Every guard runs before any write: a refused or failed refresh must
+    // leave the committed directory exactly as it found it. Writing first and
+    // bailing after would leave invalid or partially-updated canonical files
+    // behind an error exit.
     let previous: Vec<StandardClause> = read_json(&corpus.join("clauses.json"))?;
     if previous.len() != clauses.len() {
         bail!(
@@ -81,6 +85,23 @@ fn refresh_committed_standard(root: &Path, slug: &str, allow_mark_change: bool) 
              this large is a parser regression to diagnose, not a file to rewrite",
             previous.len(),
             clauses.len()
+        );
+    }
+    // Transitories get the same protection as the clause count: they never
+    // affect the clause count or the amendment marks, so a transitory-parser
+    // regression (e.g. a heading-recognition change that suddenly returns
+    // none) would otherwise be rewritten into committed canonical data with
+    // exit code 0 -- and `validate` could never flag it afterwards, because
+    // the corpus would be self-consistent. Entry-into-force dates live here;
+    // losing them silently is a legal-meaning failure, not a formatting one.
+    let previous_transitories: Vec<StandardTransitory> =
+        read_json(&corpus.join("transitories.json"))?;
+    if previous_transitories.len() != transitories.len() {
+        bail!(
+            "refusing to refresh {slug}: transitory count would change {} -> {}; diagnose the \
+             parser change, or recompile from verified inputs if the change is intended",
+            previous_transitories.len(),
+            transitories.len()
         );
     }
     let marks_of = |clauses: &[StandardClause]| {
@@ -101,24 +122,25 @@ fn refresh_committed_standard(root: &Path, slug: &str, allow_mark_change: bool) 
             now.len()
         );
     }
+    if !report.valid {
+        bail!(
+            "refusing to refresh {slug}: the reparse does not validate ({} issues); nothing was \
+             written",
+            report.issues.len()
+        );
+    }
+
     write_json(&clauses, &corpus.join("clauses.json"))?;
     write_json(&transitories, &corpus.join("transitories.json"))?;
     write_json(&report, &corpus.join("validation.json"))?;
-    let marked = clauses
-        .iter()
-        .filter(|clause| !clause.amended_by.is_empty())
-        .count();
     println!(
-        "refreshed {slug}: {} clauses ({marked} amendment-marked), {} transitories, {} issues, \
-         validation {}",
+        "refreshed {slug}: {} clauses ({} amendment-marked), {} transitories, {} issues, \
+         validation valid",
         clauses.len(),
+        now.len(),
         transitories.len(),
         report.issues.len(),
-        if report.valid { "valid" } else { "INVALID" },
     );
-    if !report.valid {
-        bail!("refreshed standard {slug} does not validate");
-    }
     Ok(())
 }
 
@@ -342,5 +364,84 @@ mod tests {
             .map(|clause| clause.number.as_str())
             .collect::<Vec<_>>();
         assert_eq!(marked, ["5.1", "6"]);
+    }
+
+    #[test]
+    fn refresh_refuses_a_transitory_count_change() {
+        // Transitories never affect the clause count or the amendment marks,
+        // so a transitory-parser regression (a heading-recognition change
+        // that suddenly returns none) would pass both other guards and be
+        // written into committed canonical data with exit code 0 -- and
+        // `validate` could never flag it afterwards, because the corpus would
+        // be self-consistent. Simulated here from the other side: the
+        // committed file records one more transitory than the parser now
+        // produces.
+        let (temporary, corpus) = compiled_fixture();
+        let root = temporary.path();
+
+        let path = corpus.join("transitories.json");
+        let mut committed: Vec<lex_core::StandardTransitory> = read_json(&path).unwrap();
+        committed.push(lex_core::StandardTransitory {
+            schema_version: lex_core::SCHEMA_VERSION.to_owned(),
+            id: "urn:lex-mx:federal:nom:nom-999-test-2026:transitory:regression-witness".to_owned(),
+            standard_id: "urn:lex-mx:federal:nom:nom-999-test-2026".to_owned(),
+            ordinal: "PRIMERO".to_owned(),
+            text: "PRIMERO. Testigo de regresión: el parser ya no lo produce.".to_owned(),
+            start_char: 0,
+            end_char: 1,
+            asserted_dates: Vec::new(),
+        });
+        let witness = serde_json::to_vec_pretty(&committed).unwrap();
+        fs::write(&path, &witness).unwrap();
+
+        let refused = refresh_committed_standard(root, "nom-999-test-2026", false).unwrap_err();
+        assert!(
+            refused
+                .to_string()
+                .contains("transitory count would change"),
+            "{refused}"
+        );
+        assert_eq!(
+            fs::read(&path).unwrap(),
+            witness,
+            "a refused refresh must not have rewritten transitories.json"
+        );
+    }
+
+    #[test]
+    fn refresh_writes_nothing_when_the_reparse_does_not_validate() {
+        // The guards run before any write: previously the three derived files
+        // were rewritten first and the validity bail fired after, leaving
+        // invalid canonical data behind a non-zero exit -- and a batch loop
+        // that missed one exit code would stage it. An effective date before
+        // publication is a metadata-level validation error that leaves the
+        // clause count, transitory count, and marks all unchanged, so it
+        // reaches the validity guard and nothing else.
+        let (temporary, corpus) = compiled_fixture();
+        let root = temporary.path();
+
+        let metadata_path = corpus.join("standard.json");
+        let broken = fs::read_to_string(&metadata_path).unwrap().replace(
+            "\"effective_date\": null",
+            "\"effective_date\": \"2020-01-01\"",
+        );
+        fs::write(&metadata_path, broken).unwrap();
+        let before = [
+            fs::read(corpus.join("clauses.json")).unwrap(),
+            fs::read(corpus.join("transitories.json")).unwrap(),
+            fs::read(corpus.join("validation.json")).unwrap(),
+        ];
+
+        let refused = refresh_committed_standard(root, "nom-999-test-2026", false).unwrap_err();
+        assert!(
+            refused.to_string().contains("does not validate"),
+            "{refused}"
+        );
+        let after = [
+            fs::read(corpus.join("clauses.json")).unwrap(),
+            fs::read(corpus.join("transitories.json")).unwrap(),
+            fs::read(corpus.join("validation.json")).unwrap(),
+        ];
+        assert_eq!(before, after, "a refused refresh must write nothing");
     }
 }

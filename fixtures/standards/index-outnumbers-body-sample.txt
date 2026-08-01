@@ -1,0 +1,25 @@
+NORMA de prueba para la seleccion de la corrida numerada.
+
+INDICE
+
+1. Objetivo y campo de aplicacion
+2. Referencias normativas
+3. Especificaciones
+4. Vigilancia
+5. Bibliografia
+
+1. Objetivo y campo de aplicacion
+Esta norma establece los requisitos de prueba y su campo de aplicacion.
+2. Referencias normativas
+Para la correcta aplicacion consulte las referencias vigentes.
+3. Especificaciones
+El establecimiento debe cumplir las especificaciones siguientes.
+4. Vigilancia
+La vigilancia del cumplimiento corresponde a la autoridad competente.
+5.Bibliografia
+TRANSITORIOS
+PRIMERO.- La presente Norma entrara en vigor a los sesenta dias.
+APENDICE A
+4.1   Columna de tabla     Valor limite
+4.2   Otra fila de tabla   Valor limite
+4.3   Tercera fila         Valor limite
