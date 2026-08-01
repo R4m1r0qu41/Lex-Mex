@@ -137,6 +137,10 @@
           "description": "The decree's own DOF publication title, verbatim. Pure source-grounded input, never derived: a Mexican modifying decree names the numerals it touches in its own title, which is what locates the affected clauses without reading the decree body. Optional because the form is not universal -- STPS publishes 'ACUERDO de Modificación a la Norma Oficial Mexicana NOM-020-STPS-2011, ...' naming no numeral at all.",
           "type": "string",
           "minLength": 1
+        },
+        "source_sha256": {
+          "description": "SHA-256 of this decree's own source document bytes -- the same hash semantics as the top-level source_sha256 on the base publication, not the decree's extracted text. Absent, not merely unset, whenever included_in_source is true: a decree already folded into the retained base text has no separate document to pin.",
+          "$ref": "#/$defs/sha256"
         }
       }
     },

@@ -170,6 +170,18 @@ is unknown rather than that nothing was affected — a title recorded that names
 nothing is a distinct fact from a title never recorded, and both are reported
 separately.
 
+### Multi-source provenance (Stage B)
+
+Each `modifications[]` entry — the per-decree list `official_url` already
+lives on — carries an optional `source_sha256`: the decree's own source
+document bytes, hashed the same way as the base publication's top-level
+`source_sha256`. It is left unset whenever `included_in_source: true`, since
+a decree already folded into the retained base text has no separate document
+to pin. Nothing fetches or computes this hash automatically; `standards
+compile` does not touch decree sources, only the base publication's `--source`
+and `--text`. Backfilling it for an existing modification is a manual,
+reviewed input, the same as the decree's `title`.
+
 ## Reading an official-source record before ingesting
 
 A platiica registry record's `Historial Documental` lists several distinct

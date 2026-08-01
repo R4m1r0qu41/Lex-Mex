@@ -104,6 +104,18 @@ pub struct StandardModificationSource {
     /// distinguishes them.
     #[serde(default, skip_serializing_if = "Option::is_none")]
     pub title: Option<String>,
+    /// SHA-256 of this decree's own source document bytes (Stage B,
+    /// `docs/decisions.md` 2026-07-31) -- the same hash semantics as
+    /// [`StandardMetadata::source_sha256`] on the base publication, not the
+    /// decree's extracted text. `modifications` is already the per-decree
+    /// list Scope 2's "multi-source provenance" note called for; this pins
+    /// each entry's own bytes rather than introducing a second list.
+    ///
+    /// Absent, not merely unset, whenever `included_in_source` is `true`:
+    /// a decree already folded into the retained base text has no separate
+    /// document to pin independently of `source_sha256` above.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub source_sha256: Option<String>,
 }
 
 /// One decree-to-clause amendment mark on a [`StandardClause`].

@@ -1798,6 +1798,7 @@ mod tests {
             official_url: "https://example.test/dof/modification".parse().unwrap(),
             included_in_source: false,
             title: title.map(str::to_owned),
+            source_sha256: None,
         }
     }
 

@@ -327,6 +327,35 @@ mod tests {
     }
 
     #[test]
+    fn a_modification_source_hash_is_absent_by_default_and_present_when_set() {
+        // Stage B (docs/decisions.md 2026-07-31) added an optional
+        // per-modification source_sha256, additive to the existing
+        // modifications[] list rather than a new top-level array. The
+        // property that actually protects the 29 already-committed
+        // standard.json files from an unwanted diff is that omitting the
+        // field serializes with no key at all, not `null` -- this is what
+        // that guarantees.
+        let (_temporary, corpus) = compiled_fixture();
+        let raw: serde_json::Value =
+            read_json(&corpus.join("standard.json")).expect("standard.json parses");
+        let modification = &raw["modifications"][0];
+        assert!(
+            modification.get("source_sha256").is_none(),
+            "an unset modification source_sha256 must serialize with no key: {modification}"
+        );
+
+        let mut metadata: lex_core::StandardMetadata =
+            read_json(&corpus.join("standard.json")).unwrap();
+        let hash = "a".repeat(64);
+        metadata.modifications[0].source_sha256 = Some(hash.clone());
+        let round_tripped = serde_json::to_value(&metadata).unwrap();
+        assert_eq!(
+            round_tripped["modifications"][0]["source_sha256"],
+            serde_json::Value::String(hash)
+        );
+    }
+
+    #[test]
     fn refresh_refuses_to_rewrite_changed_amendment_marks_unaided() {
         let (temporary, corpus) = compiled_fixture();
         let root = temporary.path();

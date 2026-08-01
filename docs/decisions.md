@@ -1,5 +1,43 @@
 # Architecture decisions
 
+## 2026-07-31 — Scope 2 Stage B landed: per-decree source hash on the existing `modifications[]` list
+
+Operator sign-off. The 2026-07-29 decomposition note described Stage B as
+"`source_url`/`source_sha256` become a list covering the base and every
+decree" — read narrowly, that would add a second top-level array duplicating
+`modifications[].official_url`. **The per-decree list already exists**: the
+`modification` schema def has required `official_url` and `modifications` has
+been an array since before Stage A. What was missing was a hash, not a
+container. Stage B adds one field, `source_sha256: Option<String>`, to each
+`modifications[]` entry (`StandardModificationSource`, `lex-core`), pinning
+that decree's own source bytes with the same hash semantics as the base
+publication's top-level `source_sha256` — not its extracted text, which has
+no per-decree equivalent yet. Left unset, not `false`/`null`-equivalent,
+whenever `included_in_source: true`: a decree already folded into the
+retained base text (`nom-051-scfi-ssa1-2010`, `nom-187-ssa1-scfi-2002` today)
+has no separate document to pin independently of the base hash.
+
+**Additive by construction, verified, not asserted.** `#[serde(default,
+skip_serializing_if = "Option::is_none")]` means omitting the field
+serializes with no key. Confirmed two ways: a new lex-cli test round-trips a
+modification with the field set and asserts an unset one has no
+`source_sha256` key at all in the raw JSON; and all 29 committed standards
+were re-run through `standards refresh` — `git status` on `corpus/` came back
+empty, i.e. zero bytes changed anywhere, which is what an additive schema
+change to a `skip_serializing_if` field is supposed to produce. Both schemas
+re-validated with the Python `jsonschema` venv pass at 0 violations. No Rust
+validator rule was added beyond the schema's existing `$defs/sha256` pattern
+match — a hand-written check would only restate what the schema already
+enforces, which M4's own "layers consistent, not redundant" expectation rules
+out.
+
+**Deliberately not built in this pass**: nothing fetches or hashes a decree's
+source PDF. `standards compile` is untouched. The same acquisition-drift risk
+argued against re-deriving the four CNBV instruments below applies verbatim
+here — no queued compile needs a real decree hash yet, so none was computed.
+Backfilling `source_sha256` for the five Maximasa NOMs' existing modifications
+is future work, not required by this schema addition.
+
 ## 2026-07-31 — Marker-cap regex widened to three digits; the four affected CNBV instruments are NOT re-derived this pass
 
 Operator go-ahead on the marker-cap defect found 2026-07-30 (`amendment_marker_regex`

@@ -476,8 +476,18 @@ remains exactly the base publication, and the mark asserts *known staleness,
 precisely located*. Full acceptance table, the three deliberate deviations from
 the signed-off shape, and two findings the plan did not anticipate are in
 `docs/plans/standards-amendment-marks.md` and `docs/decisions.md` (same date).
-Stages B and C remain unstarted; Stage C still sits on
-`transitory-absorbs-annex`.
+**Stage B is signed off and landed, 2026-07-31.** `source_sha256: Option<String>`
+on each `modifications[]` entry (`StandardModificationSource`) pins that
+decree's own source bytes, reusing the per-decree list that already existed
+via `official_url` rather than adding a second array. Additive: unset by
+default, so all 29 committed standards revalidate byte-identically (confirmed
+via `standards refresh` corpus-wide, zero diff) and both schemas re-validate
+at 0 violations. No decree PDF is fetched or hashed by this change — that
+stays deferred, same acquisition-drift reasoning as the CNBV marker-cap fix
+the same day. Full reasoning: `docs/decisions.md` 2026-07-31.
+
+Stage C remains unstarted, still sitting on `transitory-absorbs-annex` and
+the annex-modeling decision.
 
 **Design proposal, 2026-07-31 (`docs/decisions.md` same date), leading
 candidate for Stage C's engine — awaiting sign-off, not implemented.**
