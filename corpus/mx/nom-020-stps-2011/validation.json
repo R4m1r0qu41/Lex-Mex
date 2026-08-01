@@ -7,7 +7,13 @@
     {
       "severity": "warning",
       "code": "standard_unconsolidated_modification",
-      "message": "source text does not incorporate modification published 2015-10-19",
+      "message": "source text does not incorporate modification published 2015-10-19; affected clauses unknown from its title",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_modification_scope_unknown",
+      "message": "modification published 2015-10-19 records a title that names no numeral, apéndice, or anexo; its scope stays at instrument level",
       "provision_id": null
     }
   ]

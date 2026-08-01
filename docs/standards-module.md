@@ -17,7 +17,8 @@ A compiled standard directory contains:
   DOF and registry locators, hashes, and separate legal/technical review
   states;
 - `clauses.json`: dot-numbered clauses with exact character spans into the
-  unchanged extracted source text;
+  unchanged extracted source text, each optionally carrying `amended_by` —
+  see "Clause-level amendment marks" below;
 - `transitories.json`: ordinal-labeled blocks from the TRANSITORIOS section
   (`PRIMERO`, `SEGUNDO`, ...), addressable by exact span but deliberately
   not deeply parsed — see "Standards transitorio inspection" below;
@@ -67,6 +68,81 @@ Committed standards are returned by `lex-mex instruments`, accepted by
 `lex-mex path` and `lex-mex search`, and supported by the canonical bundle
 profile. Use `--kind standard`, `--kind clauses`, or `--kind transitories`
 when requesting a specific standards path.
+
+## Refresh command
+
+`standards validate` reports committed derived files as stale for the current
+parser; `standards refresh` rewrites them:
+
+```bash
+lex-mex standards refresh nom-247-ssa1-2008
+```
+
+It re-derives `clauses.json`, `transitories.json`, and `validation.json` from
+the committed record. `standard.json` is input and `extracted-text.txt` is the
+retained source; neither is ever written. The retained text is checked against
+`extracted_text_sha256` first, so a refresh cannot reparse something other than
+what the record claims — which is what makes a parser change backfillable
+across all committed standards without re-acquiring original PDFs.
+
+Two guards, because this writes committed canonical data:
+
+- a changed clause count aborts outright — that size of structural change is a
+  parser regression to diagnose, not a file to rewrite;
+- a change to any clause's amendment marks aborts unless `--allow-mark-change`
+  is passed. Marks are a legal-meaning claim and never move the clause count,
+  so nothing else in the pipeline would catch a title-parser regression that
+  drops or misattributes them.
+
+## Clause-level amendment marks
+
+A NOM's retained text is its base publication, and no official consolidated
+text exists. Recording that at instrument granularity forces a reader to treat
+all 252 of NOM-247's clauses as suspect when the 2011 decree touched eleven.
+
+A modifying decree names its targets in its own DOF title, so
+`StandardModificationSource` carries that title verbatim as pure input, and the
+parser derives from it:
+
+- `amended_by` on each matching `StandardClause` — the modification's index and
+  the decree's own verb (`modified` / `added` / `eliminated`);
+- validation warnings for every named unit that matches no committed clause.
+
+Nothing is applied. A marked clause's text remains exactly the base
+publication; the mark records that the text is **known outdated, precisely
+located**, which is the opposite of a currency claim. In particular a clause
+marked `eliminated` still carries its full live text — the mark records the
+repeal, and consolidating it is Scope 2 Stage C.
+
+Resolution is exact-match only, never to a nearest committed ancestor: an
+unmatched target is real information (an *adición* of a numeral the base text
+does not contain, an annex the corpus does not model, or a numeral that ought
+to exist and does not), and attaching its mark to a parent clause would claim a
+decree addressed text it never named.
+
+Title parsing is deliberately conservative. Everything from the standard's own
+identity onward is discarded first, so a designation's digits
+("NOM-247-SSA1-2008") can never be read as a numeral; the remainder is
+segmented at its own action verbs; and a segment must carry a target noun
+(`numeral`, `apéndice`, `anexo`, ...) before any token in it counts.
+
+The action-verb set must cover the same grammatical forms for every family —
+nominal ("eliminación de los numerales") and conjugated ("se eliminan los
+numerales"). Because segments are cut at verb matches, a family the regex
+cannot see is not skipped: its targets are absorbed by the preceding family and
+mislabelled. An asymmetric set where `reforman` matched but `derogan` did not
+would read "se reforman los numerales 3.2 y 3.4 y se derogan los numerales 5.1
+y 5.2" as one *modified* segment and record two repeals as modifications. That
+is the one failure direction amendment marks exist to prevent, and it has its
+own regression test.
+
+**The title form is not universal.** SSA1 publishes "Modificación de los numerales 3.2, 3.10 ...
+de la Norma Oficial Mexicana NOM-247-SSA1-2008"; STPS publishes "ACUERDO de
+Modificación a la Norma Oficial Mexicana NOM-020-STPS-2011, ..." naming no
+numeral at all. The second yields no targets, and the validator says the scope
+is unknown rather than that nothing was affected — a title recorded that names
+nothing is a distinct fact from a title never recorded, and both are reported
+separately.
 
 ## Reading an official-source record before ingesting
 
@@ -174,9 +250,14 @@ gains once a modifying decree's transitorios are appended.
   cancellation or replacement publications where relevant.
 - A current designation does not imply current clause text. As-published
   sources retain every known formal modification as an explicit
-  `included_in_source: false` warning. An official compilation records each
-  incorporated act as `included_in_source: true`; its unconsolidated count
-  must still be zero before a consumer treats its clauses as current.
+  `included_in_source: false` warning, located to specific clauses via
+  `amended_by` where the decree's own title names them (see "Clause-level
+  amendment marks"). An official compilation records each incorporated act as
+  `included_in_source: true`; its unconsolidated count must still be zero
+  before a consumer treats its clauses as current.
+- An `amended_by` mark locates staleness; it never resolves it. No committed
+  clause text has ever had a modification applied to it, including clauses a
+  decree marked `eliminated`.
 - Applicability remains downstream and fact-specific.
 - Conformity-assessment text is a source fact, not a statement that a
   particular establishment must undergo it.

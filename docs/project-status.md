@@ -33,14 +33,16 @@ Current committed-corpus totals:
 | Unresolved reference edges | 0 |
 | Generated Markdown files | 34,651 |
 
-All 180 `validation.json` reports are valid. They contain 208 non-blocking
+All 180 `validation.json` reports are valid. They contain 212 non-blocking
 warnings: 166 non-numeric/suffixed-article notices, 16 unfrozen count
 baselines, 13 standards with substantive material after their transitorios
 section that `clauses.json` does not represent, 7 article-gap notices, 3
 warnings for official standard modifications not incorporated in the
-retained source text, 2 suffix-order notices, and 1 redesignated standard
-(NOM-002-SEMARNAT-1996, published as NOM-002-ECOL-1996). Validity does not imply that temporal analysis or legal
-review has been performed.
+retained source text, 3 decree targets that match no committed clause, 2
+suffix-order notices, 1 redesignated standard (NOM-002-SEMARNAT-1996,
+published as NOM-002-ECOL-1996), and 1 modification whose recorded DOF title
+names no numeral at all. Validity does not imply that temporal analysis or
+legal review has been performed.
 
 ## Federal structural first pass
 
@@ -70,7 +72,14 @@ NOM-187-SSA1-SCFI-2002. NOM-247 carries two
 `standard_unconsolidated_modification` warnings; its retained clause text
 must not be used as current obligations until those modifications are
 incorporated, and no official consolidated text exists to clear them (both
-are narrow numeral-level DOF decrees, not full republications). NOM-051 was
+are narrow numeral-level DOF decrees, not full republications). Since
+2026-07-31 that staleness is located rather than instrument-wide: **17 of
+NOM-247's 252 clauses carry `amended_by` marks** naming the decree and its own
+verb, and three targets the decrees name resolve to no committed clause
+(`5.1.5`, an *adición*; `Apéndice normativo A`, which the corpus does not
+model; and `5.2.7.ii.1)`, whose numeral does not exist in the base text at
+all). The marked clauses still carry their full base-publication text — the
+marks record known staleness, not a correction. NOM-051 was
 refreshed from the official 2020-03-27 DOF publication, which is a full
 restatement of the standard rather than a targeted amendment; it now carries
 zero unconsolidated-modification warnings. NOM-187's 2023 record is a
@@ -90,7 +99,11 @@ The batch-2 NOM ingestion (`docs/plans/nom-standards-batch-2.md`, staged
 and flagged.** All 21 are `as_published`; NOM-020-STPS-2011 carries the only
 new unconsolidated-modification warning (the ACUERDO de Modificación
 published 2015-10-19, eliminating inciso j) of numeral 13.2, which the
-retained text does not incorporate).
+retained text does not incorporate). That decree's DOF title names no numeral
+at all — the STPS "ACUERDO de Modificación a la Norma Oficial Mexicana
+NOM-020-STPS-2011, ..." form carries only the standard's identity — so
+NOM-020 correctly stays at instrument level with a
+`standard_modification_scope_unknown` warning rather than a guessed mark.
 
 The 6 flagged candidates were never compiled into `corpus/`, per the
 hold-out-and-flag policy (`docs/decisions.md` 2026-07-28). They cluster into

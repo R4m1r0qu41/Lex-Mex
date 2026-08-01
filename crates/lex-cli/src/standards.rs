@@ -28,6 +28,26 @@ pub(crate) enum StandardsCommand {
         /// Committed standard slug under corpus/mx.
         standard: String,
     },
+    /// Re-derive a committed NOM/NMX's parsed files from its retained text.
+    ///
+    /// The counterpart to `validate`: where that reports committed derived
+    /// files as stale for the current parser, this rewrites them. Only derived
+    /// files are touched -- `standard.json` is input and `extracted-text.txt`
+    /// is the retained source, and both are left exactly as committed. The
+    /// retained text is checked against `extracted_text_sha256` first, so a
+    /// refresh can never reparse something other than what the record claims.
+    Refresh {
+        /// Committed standard slug under corpus/mx.
+        standard: String,
+        /// Permit the refresh to change which decrees mark which clauses.
+        ///
+        /// Amendment marks are a legal-meaning claim, not a span offset, and
+        /// they never move the clause count -- so a title-parser regression
+        /// that drops or misattributes marks would otherwise pass every
+        /// mechanical guard. Changing them has to be intended and stated.
+        #[arg(long)]
+        allow_mark_change: bool,
+    },
 }
 
 pub(crate) fn run_standards_command(root: &Path, command: StandardsCommand) -> Result<()> {
@@ -39,7 +59,67 @@ pub(crate) fn run_standards_command(root: &Path, command: StandardsCommand) -> R
             output,
         } => compile_standard(&metadata, &source, &text, &output),
         StandardsCommand::Validate { standard } => validate_committed_standard(root, &standard),
+        StandardsCommand::Refresh {
+            standard,
+            allow_mark_change,
+        } => refresh_committed_standard(root, &standard, allow_mark_change),
     }
+}
+
+fn refresh_committed_standard(root: &Path, slug: &str, allow_mark_change: bool) -> Result<()> {
+    let corpus = committed_standard_dir(root, slug)?;
+    let metadata: StandardMetadata = read_json(&corpus.join("standard.json"))?;
+    let text = retained_text(&corpus, &metadata, slug)?;
+    let clauses = parse_standard_clauses(&text, &metadata)?;
+    let transitories = parse_standard_transitories(&text, &metadata)?;
+    let report = validate_standard(&metadata, &clauses, &transitories, &text);
+
+    let previous: Vec<StandardClause> = read_json(&corpus.join("clauses.json"))?;
+    if previous.len() != clauses.len() {
+        bail!(
+            "refusing to refresh {slug}: clause count would change {} -> {}; a structural change \
+             this large is a parser regression to diagnose, not a file to rewrite",
+            previous.len(),
+            clauses.len()
+        );
+    }
+    let marks_of = |clauses: &[StandardClause]| {
+        clauses
+            .iter()
+            .filter(|clause| !clause.amended_by.is_empty())
+            .map(|clause| (clause.number.clone(), clause.amended_by.clone()))
+            .collect::<Vec<_>>()
+    };
+    let (was, now) = (marks_of(&previous), marks_of(&clauses));
+    if was != now && !allow_mark_change {
+        bail!(
+            "refusing to refresh {slug}: amendment marks would change ({} marked clauses -> {}); \
+             marks are a legal-meaning claim the clause count cannot detect a regression in. \
+             Re-run with --allow-mark-change once the new marks have been read against the \
+             decrees' own DOF titles",
+            was.len(),
+            now.len()
+        );
+    }
+    write_json(&clauses, &corpus.join("clauses.json"))?;
+    write_json(&transitories, &corpus.join("transitories.json"))?;
+    write_json(&report, &corpus.join("validation.json"))?;
+    let marked = clauses
+        .iter()
+        .filter(|clause| !clause.amended_by.is_empty())
+        .count();
+    println!(
+        "refreshed {slug}: {} clauses ({marked} amendment-marked), {} transitories, {} issues, \
+         validation {}",
+        clauses.len(),
+        transitories.len(),
+        report.issues.len(),
+        if report.valid { "valid" } else { "INVALID" },
+    );
+    if !report.valid {
+        bail!("refreshed standard {slug} does not validate");
+    }
+    Ok(())
 }
 
 fn compile_standard(
@@ -108,7 +188,7 @@ fn compile_standard(
     Ok(())
 }
 
-fn validate_committed_standard(root: &Path, slug: &str) -> Result<()> {
+fn committed_standard_dir(root: &Path, slug: &str) -> Result<PathBuf> {
     if slug.is_empty()
         || !slug
             .bytes()
@@ -116,17 +196,24 @@ fn validate_committed_standard(root: &Path, slug: &str) -> Result<()> {
     {
         bail!("standard slug must contain only lowercase ASCII letters, digits, and hyphens");
     }
-    let corpus = root.join("corpus/mx").join(slug);
-    let metadata: StandardMetadata = read_json(&corpus.join("standard.json"))?;
-    let clauses: Vec<StandardClause> = read_json(&corpus.join("clauses.json"))?;
-    let transitories: Vec<StandardTransitory> = read_json(&corpus.join("transitories.json"))?;
+    Ok(root.join("corpus/mx").join(slug))
+}
+
+fn retained_text(corpus: &Path, metadata: &StandardMetadata, slug: &str) -> Result<String> {
     let text_bytes = fs::read(corpus.join("extracted-text.txt"))
         .with_context(|| format!("failed to read retained text for standard {slug}"))?;
     if sha256_hex(&text_bytes) != metadata.extracted_text_sha256 {
         bail!("retained extracted text does not match standard metadata");
     }
-    let text =
-        String::from_utf8(text_bytes).context("retained extracted standard text is not UTF-8")?;
+    String::from_utf8(text_bytes).context("retained extracted standard text is not UTF-8")
+}
+
+fn validate_committed_standard(root: &Path, slug: &str) -> Result<()> {
+    let corpus = committed_standard_dir(root, slug)?;
+    let metadata: StandardMetadata = read_json(&corpus.join("standard.json"))?;
+    let clauses: Vec<StandardClause> = read_json(&corpus.join("clauses.json"))?;
+    let transitories: Vec<StandardTransitory> = read_json(&corpus.join("transitories.json"))?;
+    let text = retained_text(&corpus, &metadata, slug)?;
     let reparsed = parse_standard_clauses(&text, &metadata)?;
     if serde_json::to_value(&reparsed)? != serde_json::to_value(&clauses)? {
         bail!("committed standard clauses are stale for the current parser");
@@ -168,17 +255,19 @@ fn read_json<T: serde::de::DeserializeOwned>(path: &Path) -> Result<T> {
 
 #[cfg(test)]
 mod tests {
-    use std::fs;
+    use std::{fs, path::PathBuf};
 
-    use super::{compile_standard, validate_committed_standard};
+    use lex_core::StandardClause;
 
-    #[test]
-    fn compiled_standard_retains_text_and_revalidates_as_committed_corpus() {
+    use super::{
+        compile_standard, read_json, refresh_committed_standard, validate_committed_standard,
+    };
+
+    fn compiled_fixture() -> (tempfile::TempDir, PathBuf) {
         let temporary = tempfile::tempdir().unwrap();
-        let root = temporary.path();
+        let corpus = temporary.path().join("corpus/mx/nom-999-test-2026");
         let fixture_root =
             std::path::Path::new(env!("CARGO_MANIFEST_DIR")).join("../../fixtures/standards");
-        let corpus = root.join("corpus/mx/nom-999-test-2026");
         compile_standard(
             &fixture_root.join("numbered-standard-metadata.json"),
             &fixture_root.join("numbered-standard-sample.txt"),
@@ -186,11 +275,72 @@ mod tests {
             &corpus,
         )
         .unwrap();
+        (temporary, corpus)
+    }
+
+    #[test]
+    fn compiled_standard_retains_text_and_revalidates_as_committed_corpus() {
+        let (temporary, corpus) = compiled_fixture();
+        let root = temporary.path();
+        let fixture_root =
+            std::path::Path::new(env!("CARGO_MANIFEST_DIR")).join("../../fixtures/standards");
 
         assert_eq!(
             fs::read(corpus.join("extracted-text.txt")).unwrap(),
             fs::read(fixture_root.join("numbered-standard-sample.txt")).unwrap()
         );
+        // The fixture's modification title names 5.1, 5.2, 5.3 and an annex;
+        // only 5.1 and 5.2 exist in the sample body. Asserting the marks
+        // survive `compile` -> serialize -> `validate` is the whole
+        // determinism claim: `amended_by` is derived, so a title-parser change
+        // must surface as stale committed data rather than diverge silently.
+        let clauses: Vec<StandardClause> = read_json(&corpus.join("clauses.json")).unwrap();
+        let marked = clauses
+            .iter()
+            .filter(|clause| !clause.amended_by.is_empty())
+            .map(|clause| clause.number.as_str())
+            .collect::<Vec<_>>();
+        assert_eq!(marked, ["5.1", "5.2"]);
         validate_committed_standard(root, "nom-999-test-2026").unwrap();
+    }
+
+    #[test]
+    fn refresh_refuses_to_rewrite_changed_amendment_marks_unaided() {
+        let (temporary, corpus) = compiled_fixture();
+        let root = temporary.path();
+
+        // An unchanged refresh is a no-op and must stay one.
+        refresh_committed_standard(root, "nom-999-test-2026", false).unwrap();
+        validate_committed_standard(root, "nom-999-test-2026").unwrap();
+
+        // Now retarget the decree. The clause count is identical either way, so
+        // this is exactly the regression shape the count guard cannot see.
+        let metadata = corpus.join("standard.json");
+        let retargeted = fs::read_to_string(&metadata)
+            .unwrap()
+            .replace("numerales 5.1 y 5.2", "numerales 5.1 y 6");
+        fs::write(&metadata, retargeted).unwrap();
+
+        let refused = refresh_committed_standard(root, "nom-999-test-2026", false).unwrap_err();
+        assert!(
+            refused.to_string().contains("amendment marks would change"),
+            "{refused}"
+        );
+        let unchanged: Vec<StandardClause> = read_json(&corpus.join("clauses.json")).unwrap();
+        assert!(
+            unchanged
+                .iter()
+                .any(|clause| clause.number == "5.2" && !clause.amended_by.is_empty()),
+            "a refused refresh must not have written anything"
+        );
+
+        refresh_committed_standard(root, "nom-999-test-2026", true).unwrap();
+        let rewritten: Vec<StandardClause> = read_json(&corpus.join("clauses.json")).unwrap();
+        let marked = rewritten
+            .iter()
+            .filter(|clause| !clause.amended_by.is_empty())
+            .map(|clause| clause.number.as_str())
+            .collect::<Vec<_>>();
+        assert_eq!(marked, ["5.1", "6"]);
     }
 }

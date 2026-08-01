@@ -2,8 +2,9 @@ use std::collections::HashSet;
 
 use anyhow::{Result, bail};
 use lex_core::{
-    SCHEMA_VERSION, Severity, StandardClause, StandardKind, StandardMetadata, StandardStatus,
-    StandardTextBasis, StandardTransitory, StandardValidationReport, ValidationIssue,
+    SCHEMA_VERSION, Severity, StandardClause, StandardClauseAmendment, StandardKind,
+    StandardMetadata, StandardModificationAction, StandardStatus, StandardTextBasis,
+    StandardTransitory, StandardValidationReport, ValidationIssue,
 };
 use regex::Regex;
 
@@ -103,8 +104,14 @@ pub fn parse_standard_clauses(
             text,
             start_char: source_text[..trimmed_start].chars().count(),
             end_char: source_text[..trimmed_end].chars().count(),
+            amended_by: Vec::new(),
         });
     }
+    // Amendment marks are derived here rather than authored, so a committed
+    // `clauses.json` stays under the same reparse-and-compare determinism check
+    // that already guards clause spans: a change to title parsing shows up as
+    // stale committed data instead of silently diverging.
+    apply_amendment_marks(&mut clauses, metadata);
     Ok(clauses)
 }
 
@@ -297,6 +304,180 @@ fn is_bibliography_heading(label: &str) -> bool {
     bibliografia.is_match(label.trim_start())
 }
 
+/// One unit a modifying decree names in its own DOF publication title.
+///
+/// Derived from [`StandardModificationSource::title`], never authored. It
+/// records *what a decree says it touches*, not any applied change; `clause`
+/// is the addressed token exactly as the title writes it, including the
+/// non-clause case (an `Apéndice normativo`, which the corpus does not model
+/// and which therefore never resolves).
+#[derive(Debug, Clone, PartialEq, Eq)]
+pub struct StandardModificationTarget {
+    /// Index into [`StandardMetadata::modifications`].
+    pub modification_index: usize,
+    pub clause: String,
+    pub action: StandardModificationAction,
+    /// Whether `clause` matches a committed clause number exactly.
+    ///
+    /// Exact match only, deliberately: no resolution to a nearest committed
+    /// ancestor. An unmatched target is a real signal (an *adición* of a
+    /// numeral the base text does not contain, an annex the corpus does not
+    /// model, or a numeral that should exist and does not), and collapsing it
+    /// onto a parent clause would attach the mark to text the decree never
+    /// addressed.
+    pub resolved: bool,
+}
+
+/// Parse each recorded modification's DOF title into the units it names.
+///
+/// Title-only by design. Nothing here reads a decree's body, applies a text
+/// change, or produces a consolidated text -- those are Scope 2 Stage C.
+#[must_use]
+pub fn parse_standard_modification_targets(
+    metadata: &StandardMetadata,
+    clauses: &[StandardClause],
+) -> Vec<StandardModificationTarget> {
+    let numbers = clauses
+        .iter()
+        .map(|clause| clause.number.as_str())
+        .collect::<HashSet<_>>();
+    let mut targets = Vec::new();
+    for (modification_index, source) in metadata.modifications.iter().enumerate() {
+        let Some(title) = source.title.as_deref() else {
+            continue;
+        };
+        for (clause, action) in title_targets(title) {
+            targets.push(StandardModificationTarget {
+                modification_index,
+                resolved: numbers.contains(clause.as_str()),
+                clause,
+                action,
+            });
+        }
+    }
+    targets
+}
+
+/// Split a decree title into the units it names, in order of appearance.
+///
+/// Conservative on purpose. The title is segmented at its own action verbs
+/// (`Modificación` / `adición` / `eliminación` ...), each segment must carry a
+/// target noun (`numeral`, `apéndice`, ...) before any token in it counts as a
+/// target, and everything from the standard's own identity onward is discarded
+/// first so a designation's digits ("NOM-247-SSA1-2008") can never be read as
+/// a numeral. A title that names nothing yields an empty vector rather than a
+/// guess -- STPS publishes "ACUERDO de Modificación a la Norma Oficial
+/// Mexicana NOM-020-STPS-2011, ..." with no numerals at all, and the caller
+/// must be able to tell that apart from a title that was never recorded.
+fn title_targets(title: &str) -> Vec<(String, StandardModificationAction)> {
+    let identity = Regex::new(r"(?i)\bnormas?\s+(?:oficiales?\s+)?mexicanas?\b|\bNO?MX?-")
+        .expect("standard-identity regex must compile");
+    // Every action family must cover the same grammatical forms -- nominal
+    // ("eliminación de los numerales") and conjugated ("se eliminan los
+    // numerales"). An asymmetric set is worse than a narrow one: if
+    // `reforman` matched but `derogan` did not, "se reforman los numerales 3.2
+    // y 3.4 y se derogan los numerales 5.1 y 5.2" would parse as a single
+    // *modified* segment and label two repeals as modifications. Segments are
+    // cut at these matches, so a family the regex cannot see is not skipped --
+    // its targets are absorbed by the preceding family.
+    let verb = Regex::new(
+        r"(?i)\b(modificaci[oó]n(?:es)?|modifican?|reformas?|reforman|adici[oó]n(?:es)?|adicionan?|eliminaci[oó]n(?:es)?|eliminan?|derogaci[oó]n(?:es)?|derogan?|cancelaci[oó]n(?:es)?|cancelan?|supresi[oó]n(?:es)?|suprimen?)\b",
+    )
+    .expect("modification-verb regex must compile");
+    let cue = Regex::new(r"(?i)\b(numeral(?:es)?|ap[eé]ndices?|anexos?|incisos?|cap[ií]tulos?|puntos?|tablas?|figuras?)\b")
+        .expect("target-noun regex must compile");
+    let annex = Regex::new(
+        r"(?i)\b((?:ap[eé]ndice|anexo)(?:\s+(?:normativo|informativo))?\s+[A-Z0-9][A-Za-z0-9]*)",
+    )
+    .expect("annex-target regex must compile");
+    let numeral =
+        Regex::new(r"\b\d+(?:\.[0-9A-Za-z]+)*\)?").expect("numeral-target regex must compile");
+
+    let operative = match identity.find(title) {
+        Some(found) => &title[..found.start()],
+        // Without the boundary the digits of the standard's own designation are
+        // indistinguishable from targets, so name nothing rather than guess.
+        None => return Vec::new(),
+    };
+
+    let verbs = verb.find_iter(operative).collect::<Vec<_>>();
+    let mut targets: Vec<(String, StandardModificationAction)> = Vec::new();
+    let mut seen = HashSet::new();
+    for (position, found) in verbs.iter().enumerate() {
+        let segment_end = verbs
+            .get(position + 1)
+            .map_or(operative.len(), regex::Match::start);
+        let segment = &operative[found.start()..segment_end];
+        if !cue.is_match(segment) {
+            continue;
+        }
+        let action = modification_action(found.as_str());
+        let mut spans = annex
+            .find_iter(segment)
+            .map(|found| (found.start(), found.end(), found.as_str().to_owned()))
+            .collect::<Vec<_>>();
+        for found in numeral.find_iter(segment) {
+            let covered = spans
+                .iter()
+                .any(|(start, end, _)| found.start() < *end && *start < found.end());
+            if !covered {
+                spans.push((found.start(), found.end(), found.as_str().to_owned()));
+            }
+        }
+        spans.sort_by_key(|(start, _, _)| *start);
+        for (_, _, clause) in spans {
+            let clause = collapse_whitespace(&clause);
+            if seen.insert((clause.clone(), action)) {
+                targets.push((clause, action));
+            }
+        }
+    }
+    targets
+}
+
+fn modification_action_name(action: StandardModificationAction) -> &'static str {
+    match action {
+        StandardModificationAction::Modified => "modified",
+        StandardModificationAction::Added => "added",
+        StandardModificationAction::Eliminated => "eliminated",
+    }
+}
+
+fn modification_action(verb: &str) -> StandardModificationAction {
+    let lowered = verb.to_lowercase();
+    if lowered.starts_with("adici") {
+        StandardModificationAction::Added
+    } else if lowered.starts_with("elimina")
+        || lowered.starts_with("deroga")
+        || lowered.starts_with("cancela")
+        || lowered.starts_with("supresi")
+        || lowered.starts_with("suprim")
+    {
+        StandardModificationAction::Eliminated
+    } else {
+        StandardModificationAction::Modified
+    }
+}
+
+fn collapse_whitespace(value: &str) -> String {
+    value.split_whitespace().collect::<Vec<_>>().join(" ")
+}
+
+/// Stamp each clause with the recorded decrees whose titles name it.
+fn apply_amendment_marks(clauses: &mut [StandardClause], metadata: &StandardMetadata) {
+    let targets = parse_standard_modification_targets(metadata, clauses);
+    for clause in clauses.iter_mut() {
+        clause.amended_by = targets
+            .iter()
+            .filter(|target| target.resolved && target.clause == clause.number)
+            .map(|target| StandardClauseAmendment {
+                modification_index: target.modification_index,
+                action: target.action,
+            })
+            .collect();
+    }
+}
+
 /// Validate the standards-specific identity, lifecycle, review separation,
 /// clause ordering, uniqueness, hashes, and exact source spans.
 #[must_use]
@@ -308,6 +489,7 @@ pub fn validate_standard(
 ) -> StandardValidationReport {
     let mut issues = Vec::new();
     validate_metadata(metadata, &mut issues);
+    validate_standard_sources(metadata, clauses, &mut issues);
     validate_clauses(metadata, clauses, source_text, &mut issues);
     validate_transitories(metadata, transitories, source_text, &mut issues);
     validate_trailing_material(source_text, &mut issues);
@@ -417,10 +599,14 @@ fn validate_metadata(metadata: &StandardMetadata, issues: &mut Vec<ValidationIss
             None,
         ));
     }
-    validate_standard_sources(metadata, issues);
 }
 
-fn validate_standard_sources(metadata: &StandardMetadata, issues: &mut Vec<ValidationIssue>) {
+fn validate_standard_sources(
+    metadata: &StandardMetadata,
+    clauses: &[StandardClause],
+    issues: &mut Vec<ValidationIssue>,
+) {
+    let targets = parse_standard_modification_targets(metadata, clauses);
     let included_modifications = metadata
         .modifications
         .iter()
@@ -436,7 +622,7 @@ fn validate_standard_sources(metadata: &StandardMetadata, issues: &mut Vec<Valid
         }
         _ => {}
     }
-    for source in &metadata.modifications {
+    for (index, source) in metadata.modifications.iter().enumerate() {
         if source.publication_date <= metadata.publication_date {
             issues.push(error(
                 "standard_modification_date",
@@ -444,12 +630,73 @@ fn validate_standard_sources(metadata: &StandardMetadata, issues: &mut Vec<Valid
                 None,
             ));
         }
+        let named = targets
+            .iter()
+            .filter(|target| target.modification_index == index)
+            .collect::<Vec<_>>();
         if !source.included_in_source {
+            let scope = if named.is_empty() {
+                // Deliberately not "affects nothing": the decree's scope is
+                // unknown, which is a weaker and more accurate claim.
+                "; affected clauses unknown from its title".to_owned()
+            } else {
+                let marked = named
+                    .iter()
+                    .filter(|target| target.resolved)
+                    .map(|target| target.clause.as_str())
+                    .collect::<Vec<_>>();
+                format!(
+                    "; its title names {} unit(s), {} matching committed clauses ({})",
+                    named.len(),
+                    marked.len(),
+                    if marked.is_empty() {
+                        "none".to_owned()
+                    } else {
+                        marked.join(", ")
+                    }
+                )
+            };
             issues.push(warning(
                 "standard_unconsolidated_modification",
                 format!(
-                    "source text does not incorporate modification published {}",
+                    "source text does not incorporate modification published {}{scope}",
                     source.publication_date
+                ),
+            ));
+        }
+        // Title diagnostics are raised only where the staleness they describe
+        // is real. A modification the retained text already incorporates is not
+        // made less current by an unrecorded title, and warning about it would
+        // bury the two records where the gap actually matters.
+        if !source.included_in_source {
+            if source.title.is_none() {
+                issues.push(warning(
+                    "standard_modification_title_absent",
+                    format!(
+                        "modification published {} has no recorded DOF title, so the clauses it \
+                         addresses cannot be located",
+                        source.publication_date
+                    ),
+                ));
+            } else if named.is_empty() {
+                issues.push(warning(
+                    "standard_modification_scope_unknown",
+                    format!(
+                        "modification published {} records a title that names no numeral, \
+                         apéndice, or anexo; its scope stays at instrument level",
+                        source.publication_date
+                    ),
+                ));
+            }
+        }
+        for target in named.iter().filter(|target| !target.resolved) {
+            issues.push(warning(
+                "standard_modification_target_unresolved",
+                format!(
+                    "modification published {} names {} ({}), which matches no committed clause",
+                    source.publication_date,
+                    target.clause,
+                    modification_action_name(target.action),
                 ),
             ));
         }
@@ -683,12 +930,14 @@ fn warning(code: &str, message: String) -> ValidationIssue {
 #[cfg(test)]
 mod tests {
     use super::{
-        parse_standard_clauses, parse_standard_transitories, validate_metadata, validate_standard,
+        parse_standard_clauses, parse_standard_modification_targets, parse_standard_transitories,
+        title_targets, validate_metadata, validate_standard,
     };
     use chrono::{NaiveDate, Utc};
     use lex_core::{
-        ReviewStatus, SCHEMA_VERSION, Severity, StandardKind, StandardMetadata,
-        StandardModificationSource, StandardStatus, StandardTextBasis, TechnicalReviewStatus,
+        ReviewStatus, SCHEMA_VERSION, Severity, StandardClauseAmendment, StandardKind,
+        StandardMetadata, StandardModificationAction, StandardModificationSource, StandardStatus,
+        StandardTextBasis, TechnicalReviewStatus,
     };
 
     const SAMPLE: &str = include_str!("../../../fixtures/standards/numbered-standard-sample.txt");
@@ -999,11 +1248,7 @@ mod tests {
     #[test]
     fn current_designation_does_not_hide_unconsolidated_modification() {
         let mut metadata = metadata();
-        metadata.modifications.push(StandardModificationSource {
-            publication_date: NaiveDate::from_ymd_opt(2026, 7, 26).unwrap(),
-            official_url: "https://example.test/dof/modification".parse().unwrap(),
-            included_in_source: false,
-        });
+        metadata.modifications.push(modification(None));
         let clauses = parse_standard_clauses(SAMPLE, &metadata).unwrap();
         let transitories = parse_standard_transitories(SAMPLE, &metadata).unwrap();
         let report = validate_standard(&metadata, &clauses, &transitories, SAMPLE);
@@ -1012,6 +1257,210 @@ mod tests {
             issue.code == "standard_unconsolidated_modification"
                 && issue.severity == lex_core::Severity::Warning
         }));
+        assert!(
+            report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "standard_modification_title_absent"),
+            "a modification with no recorded title must say its scope is unlocatable: {:#?}",
+            report.issues
+        );
+    }
+
+    // The three titles below are quoted verbatim from the official DOF pages
+    // for the only three unincorporated modifications in the committed corpus:
+    // codigo 5188649 (10/05/2011), 5283480 (27/12/2012), and 5411988
+    // (19/10/2015).
+    const NOM_247_2011_TITLE: &str = "Modificación de los numerales 1.4, 2, 3.2, 3.10, 3.12, \
+         3.17, 3.18, 3.19, 3.36, 3.44 y 8 de la Norma Oficial Mexicana NOM-247-SSA1-2008, \
+         Productos y servicios. Cereales y sus productos. Cereales, harinas de cereales, sémolas \
+         o semolinas. Alimentos a base de: cereales, semillas comestibles, de harinas, sémolas o \
+         semolinas o sus mezclas. Productos de panificación. Disposiciones y especificaciones \
+         sanitarias y nutrimentales. Métodos de prueba.";
+    const NOM_247_2012_TITLE: &str = "Modificación de los numerales 3.2, 3.10, 3.33, 4, 5.1.1, \
+         5.2.7.ii.1), adición del numeral 5.1.5 y eliminación de los numerales 5.2.2.8, 5.2.3.4, \
+         5.2.4.5 y el Apéndice normativo A de la Norma Oficial Mexicana NOM-247-SSA1-2008, \
+         Productos y servicios. Cereales y sus productos. Cereales, harinas de cereales, sémolas \
+         o semolinas. Alimentos a base de: cereales, semillas comestibles, de harinas, sémolas o \
+         semolinas o sus mezclas. Productos de panificación. Disposiciones y especificaciones \
+         sanitarias y nutrimentales. Métodos de prueba.";
+    const NOM_020_2015_TITLE: &str = "ACUERDO de Modificación a la Norma Oficial Mexicana \
+         NOM-020-STPS-2011, Recipientes sujetos a presión, recipientes criogénicos y generadores \
+         de vapor o calderas-Funcionamiento-Condiciones de seguridad.";
+
+    #[test]
+    fn a_decree_title_names_the_numerals_it_modifies() {
+        assert_eq!(
+            title_targets(NOM_247_2011_TITLE),
+            [
+                "1.4", "2", "3.2", "3.10", "3.12", "3.17", "3.18", "3.19", "3.36", "3.44", "8"
+            ]
+            .map(|clause| (clause.to_owned(), StandardModificationAction::Modified))
+        );
+    }
+
+    #[test]
+    fn a_compound_decree_title_separates_modified_added_and_eliminated() {
+        // The real NOM-247 second decree does all three at once and ends by
+        // eliminating an annex, which the corpus does not model at all.
+        assert_eq!(
+            title_targets(NOM_247_2012_TITLE),
+            [
+                ("3.2", StandardModificationAction::Modified),
+                ("3.10", StandardModificationAction::Modified),
+                ("3.33", StandardModificationAction::Modified),
+                ("4", StandardModificationAction::Modified),
+                ("5.1.1", StandardModificationAction::Modified),
+                ("5.2.7.ii.1)", StandardModificationAction::Modified),
+                ("5.1.5", StandardModificationAction::Added),
+                ("5.2.2.8", StandardModificationAction::Eliminated),
+                ("5.2.3.4", StandardModificationAction::Eliminated),
+                ("5.2.4.5", StandardModificationAction::Eliminated),
+                (
+                    "Apéndice normativo A",
+                    StandardModificationAction::Eliminated
+                ),
+            ]
+            .map(|(clause, action)| (clause.to_owned(), action))
+        );
+    }
+
+    #[test]
+    fn conjugated_action_verbs_are_covered_symmetrically() {
+        // Regression: `reforman` matched while `derogan` did not, so this whole
+        // title collapsed into one *modified* segment and both repeals came
+        // back labelled as modifications. Segments are cut at verb matches, so
+        // an action family the regex cannot see does not go missing -- its
+        // targets are silently absorbed by the family before it, which is the
+        // one failure direction amendment marks exist to prevent.
+        assert_eq!(
+            title_targets(
+                "Acuerdo por el que se reforman los numerales 3.2 y 3.4 y se derogan los \
+                 numerales 5.1 y 5.2 de la Norma Oficial Mexicana NOM-999-TEST-2026, Prueba."
+            ),
+            [
+                ("3.2", StandardModificationAction::Modified),
+                ("3.4", StandardModificationAction::Modified),
+                ("5.1", StandardModificationAction::Eliminated),
+                ("5.2", StandardModificationAction::Eliminated),
+            ]
+            .map(|(clause, action)| (clause.to_owned(), action))
+        );
+    }
+
+    #[test]
+    fn a_decree_title_naming_no_numeral_yields_no_targets() {
+        // STPS publishes modifications as "ACUERDO de Modificación a la Norma
+        // Oficial Mexicana NOM-020-STPS-2011, ..." -- the title carries the
+        // standard's identity and nothing about what changed. Guessing a target
+        // here would be worse than reporting the scope as unknown, and the
+        // digits of the designation itself must never be read as numerals.
+        assert!(title_targets(NOM_020_2015_TITLE).is_empty());
+
+        let mut metadata = metadata();
+        metadata
+            .modifications
+            .push(modification(Some(NOM_020_2015_TITLE)));
+        let clauses = parse_standard_clauses(SAMPLE, &metadata).unwrap();
+        let transitories = parse_standard_transitories(SAMPLE, &metadata).unwrap();
+        let report = validate_standard(&metadata, &clauses, &transitories, SAMPLE);
+        assert!(report.valid, "{:#?}", report.issues);
+        assert!(
+            report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "standard_modification_scope_unknown"),
+            "a title that names nothing is a different fact from no title: {:#?}",
+            report.issues
+        );
+        assert!(
+            !report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "standard_modification_title_absent"),
+            "the title is recorded; only its scope is unknown: {:#?}",
+            report.issues
+        );
+    }
+
+    #[test]
+    fn an_unmatched_target_is_reported_rather_than_resolved_to_an_ancestor() {
+        // The fixture body is 1/1.1/1.2/2/3..., so "5.1.5" matches nothing.
+        // Attaching the mark to a nearest committed ancestor would claim a
+        // decree addressed text it never named.
+        let mut metadata = metadata();
+        metadata.modifications.push(modification(Some(
+            "Adición del numeral 5.1.5 de la Norma Oficial Mexicana NOM-999-TEST-2026, Prueba.",
+        )));
+        let clauses = parse_standard_clauses(SAMPLE, &metadata).unwrap();
+        let targets = parse_standard_modification_targets(&metadata, &clauses);
+        assert_eq!(targets.len(), 1);
+        assert!(!targets[0].resolved);
+        assert!(
+            clauses.iter().all(|clause| clause.amended_by.is_empty()),
+            "an unresolved target must mark no clause"
+        );
+
+        let transitories = parse_standard_transitories(SAMPLE, &metadata).unwrap();
+        let report = validate_standard(&metadata, &clauses, &transitories, SAMPLE);
+        assert!(report.valid, "an adición of a new numeral is not an error");
+        assert!(
+            report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "standard_modification_target_unresolved"),
+            "{:#?}",
+            report.issues
+        );
+    }
+
+    #[test]
+    fn a_resolved_target_marks_its_clause_with_the_decree_and_its_action() {
+        // Two decrees naming the same numeral must both mark it, and the mark
+        // must carry the action: a clause a decree *eliminated* cannot render
+        // as "modificado".
+        let mut metadata = metadata();
+        metadata.modifications.push(modification(Some(
+            "Modificación del numeral 5.1 de la Norma Oficial Mexicana NOM-999-TEST-2026, Prueba.",
+        )));
+        metadata.modifications.push(modification(Some(
+            "Eliminación del numeral 5.1 de la Norma Oficial Mexicana NOM-999-TEST-2026, Prueba.",
+        )));
+        let clauses = parse_standard_clauses(SAMPLE, &metadata).unwrap();
+        let marked = clauses
+            .iter()
+            .find(|clause| clause.number == "5.1")
+            .expect("fixture has clause 5.1");
+        assert_eq!(
+            marked.amended_by,
+            vec![
+                StandardClauseAmendment {
+                    modification_index: 0,
+                    action: StandardModificationAction::Modified,
+                },
+                StandardClauseAmendment {
+                    modification_index: 1,
+                    action: StandardModificationAction::Eliminated,
+                },
+            ]
+        );
+        assert!(
+            clauses
+                .iter()
+                .filter(|clause| !clause.amended_by.is_empty())
+                .count()
+                == 1,
+            "no other clause may be marked"
+        );
+    }
+
+    fn modification(title: Option<&str>) -> StandardModificationSource {
+        StandardModificationSource {
+            publication_date: NaiveDate::from_ymd_opt(2026, 7, 26).unwrap(),
+            official_url: "https://example.test/dof/modification".parse().unwrap(),
+            included_in_source: false,
+            title: title.map(str::to_owned),
+        }
     }
 
     fn metadata() -> StandardMetadata {

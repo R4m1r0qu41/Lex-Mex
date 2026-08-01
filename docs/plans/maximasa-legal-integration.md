@@ -269,6 +269,24 @@ analysis, not missing federal sanitary text.
 - [x] (2026-07-27) Staged Scope 2 (decree-diff engine) as recorded future
   scope under M4 rather than starting it; the Maximasa NOM ingestion and
   processing slice is closed for now pending further operator direction.
+- [x] (2026-07-31) Landed Scope 2 Stage A (clause-level amendment marks) on
+  operator sign-off: `title` on `StandardModificationSource` as pure input,
+  `amended_by` derived onto `StandardClause` with the decree's own action,
+  three new validation warnings distinguishing *targets found* / *title names
+  nothing* / *no title recorded*, both schemas, six new tests including the two
+  real NOM-247 decree titles quoted verbatim from DOF, and a new
+  `standards refresh` command that re-derives a committed standard's parsed
+  files from its retained text. Premise verified first: 19 of the 21 numerals
+  the NOM-247 titles name match a committed clause exactly. Corpus effect is
+  narrow — 26 of 29 standards refresh to a zero-byte diff; NOM-247 gains 17
+  marked clauses (`clauses.json` diff is `amended_by` insertions only, no
+  clause text, id, number, or span moved) and NOM-020 correctly stays at
+  instrument level because the STPS "ACUERDO de Modificación a la NOM-..."
+  title form names no numeral at all. `cargo fmt`, `cargo clippy
+  --all-targets` (clean), and 123 workspace tests pass; all 29 standards
+  revalidate. **Follow-up owed: NOM-247 is in the Maximasa five-NOM bundle, so
+  that out-of-repo bundle lock is stale.** Detail in
+  `docs/plans/standards-amendment-marks.md` and `docs/decisions.md`.
 
 ## Decisions and discoveries
 
@@ -441,10 +459,57 @@ start without a fresh planning pass and operator sign-off on the trusted-
 boundary shape first — this is exactly the kind of schema/parser/validator/
 fixture change M4 requires landing together. **Decomposed 2026-07-29** into
 Stage A (clause-level amendment marks, planned in
-`docs/plans/standards-amendment-marks.md`, awaiting sign-off), Stage B
+`docs/plans/standards-amendment-marks.md`), Stage B
 (multi-source provenance), and Stage C (actual consolidation, which depends on
 the unresolved `transitory-absorbs-annex` defect because NOM-247's second
-decree eliminates an entire Apéndice normativo); (4) **packet-based review
+decree eliminates an entire Apéndice normativo).
+
+**Stage A is signed off and landed, 2026-07-31** — schema, `lex-core` types,
+title parser, validator, fixtures, CLI, corpus backfill, and documentation
+together, per this milestone's own rule. A modifying decree's DOF title is
+recorded verbatim as pure input on `StandardModificationSource`; the parser
+derives `amended_by` marks on matching clauses (carrying the decree's own verb,
+so an eliminated clause is never rendered as merely modified) and validation
+warnings for every named unit that resolves to no committed clause. **No text
+is applied and no consolidated text is produced** — a marked clause's text
+remains exactly the base publication, and the mark asserts *known staleness,
+precisely located*. Full acceptance table, the three deliberate deviations from
+the signed-off shape, and two findings the plan did not anticipate are in
+`docs/plans/standards-amendment-marks.md` and `docs/decisions.md` (same date).
+Stages B and C remain unstarted; Stage C still sits on
+`transitory-absorbs-annex`.
+
+**Design proposal, 2026-07-31 (`docs/decisions.md` same date), leading
+candidate for Stage C's engine — awaiting sign-off, not implemented.**
+Validated against a real pilot outside the standards module (SHCP/CNBV art.
+115 LIC disposiciones, no consolidated text either, `docs/plans/cnbv-art115-
+lic-consolidation.md`), which found the *same* ellipsis-diff mechanism NOM
+MODIFICACIÓN decrees use, just nested one level deeper (inside a named
+unit's sub-parts, not only across a whole clause). One model now covers
+both: build canonical text as a **strict left fold over the decree history
+in chronological order** (`canonical := base; for decree in
+chronological order: canonical := apply(canonical, decree)`), where
+`apply()` has exactly three per-unit operations — **`replace`** (decree
+gives explicit new text), **`keep`** (ellipsis: content and position both
+unchanged), and **`shift`** (a "recorriéndose los demás en su orden"
+renumbering named in the decree's own resolving-clause prose: content
+unchanged, position moves — collapsing this into `keep` is the specific way
+a naive implementation silently mislabels a provision). The resolving
+clause's own prose descriptions (particularly derogations and reordering)
+must be applied even when the decree gives no text restatement for that
+unit, and the clause's REFORMAN/DEROGAN/ADICIONAN lists must be checked
+against what its replacement body actually contains before applying
+anything — that cross-check is what surfaced both a 5-item gap list and 46
+ellipsis-affected provisions in the pilot compiled draft. This also answers
+the open "retained-text strategy for derogation-caused span shifts"
+question directly above: **there is no span shift, because nothing is ever
+deleted or renumbered** — a repealed unit becomes `derogado` with the
+repealing decree's date/codigo recorded in place, matching how DOF's own
+compiled texts render repeals. The fold itself is a plain sequential
+reduction per instrument (no graph structure needed); cross-instrument
+reference resolution stays the separate, already-deferred concern it was.
+
+(4) **packet-based review
 assignment**, staged 2026-07-28 (`docs/decisions.md` same date), not
 built. Once enough of `docs/plans/nom-standards-batch-2.md`'s batch is
 ingested, group canonical instruments into review packets and hand each
@@ -491,15 +556,23 @@ zero-warning, transitorio inspection (Scope 1) is landed and backfilled
 across all five standards, and the Maximasa bundle/candidate-package/test
 lock are all refreshed and passing against the current Lex-Mex HEAD.
 NOM-247 has no viable official consolidated text and is left as correctly
-unconsolidated. Scope 2 (decree-diff engine) is staged as recorded future
-scope, not started. Any further work on NOM-247, Scope 2, the flagged NOM
-consolidation workflow, or parent-law/regulation backlinking waits on
-operator direction rather than proceeding unprompted.
+unconsolidated — but as of 2026-07-31 its staleness is located at clause level
+rather than instrument level (Scope 2 Stage A, landed). Scope 2 Stages B and C
+are staged as recorded future scope, not started. Any further work on NOM-247,
+Stages B/C, the flagged NOM consolidation workflow, or parent-law/regulation
+backlinking waits on operator direction rather than proceeding unprompted.
 
-The five-NOM bundle returned to Maximasa is current as of Lex-Mex
+**Owed, 2026-07-31:** Stage A changed `corpus/mx/nom-247-ssa1-2008/clauses.json`
+(`amended_by` insertions only), and NOM-247 is one of the five NOMs in the
+Maximasa bundle — so the bundle lock below is stale and needs the standing
+mechanical-only refresh (regenerate `nom-bundle-manifest.json`, rerun
+`build_demo_data.py`, update the hardcoded lock sha256, confirm 14 tests). Not
+done here: it is a cross-repository write.
+
+The five-NOM bundle returned to Maximasa was current as of Lex-Mex
 `a3a48296f` (mechanically refreshed 2026-07-27 to pick up the new
-`transitories.json` canonical file); Maximasa's 14-test suite passes with
-every locked file verified against the live corpus.
+`transitories.json` canonical file); Maximasa's 14-test suite passed with
+every locked file verified against the live corpus at that point.
 
 ## Outcomes and retrospective
 

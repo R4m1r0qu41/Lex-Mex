@@ -14,6 +14,25 @@
     "start_char",
     "end_char"
   ],
+  "$defs": {
+    "clause_amendment": {
+      "description": "A modifying decree that names this clause in its own DOF title. Derived from StandardModificationSource.title, never authored. Records that the clause text is known outdated and precisely located -- it is not a currency claim, and no modification has been applied.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["modification_index", "action"],
+      "properties": {
+        "modification_index": {
+          "description": "Index into the standard's modifications array.",
+          "type": "integer",
+          "minimum": 0
+        },
+        "action": {
+          "description": "The decree's own verb for this clause. An eliminated clause must never be rendered as merely modified.",
+          "enum": ["modified", "added", "eliminated"]
+        }
+      }
+    }
+  },
   "properties": {
     "schema_version": { "const": "0.1.0" },
     "id": {
@@ -31,6 +50,10 @@
     "label": { "type": "string", "minLength": 1 },
     "text": { "type": "string", "minLength": 1 },
     "start_char": { "type": "integer", "minimum": 0 },
-    "end_char": { "type": "integer", "minimum": 1 }
+    "end_char": { "type": "integer", "minimum": 1 },
+    "amended_by": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/clause_amendment" }
+    }
   }
 }

@@ -1,5 +1,330 @@
 # Architecture decisions
 
+## 2026-07-31 — Landed Scope 2 Stage A: clause-level amendment marks derived from decree titles
+
+Operator sign-off arrived as the directive "go for M4"; Stage A was the only
+M4 item blocked on sign-off rather than on unscoped design, so it is what
+shipped. Plan and full acceptance table: `docs/plans/standards-amendment-marks.md`.
+**Stage A applies no text.** The sequential-fold doctrine recorded below is
+Stage C and did not leak into this.
+
+**What the change is.** A modifying decree names its targets in its own DOF
+title. `StandardModificationSource` now carries that title verbatim as pure
+input (`title: Option<String>`), and the parser derives from it: `amended_by`
+on each matching `StandardClause` (the modification's index plus the decree's
+own verb — `modified` / `added` / `eliminated`), and validation warnings for
+every named unit matching no committed clause. A 252-clause instrument-level
+"this standard has an unincorporated modification" warning becomes 17 marked
+clauses and three named unresolved targets.
+
+**Where derived data was allowed to live, and why it matters.** The plan put
+`affects` on the modification, inside `standard.json`. That file is pure
+passthrough — `validate` re-derives clauses and transitories and bails on
+drift, but nothing re-derives metadata. Derived data there would go stale on a
+parser change with no check firing: the same failure shape as the `\d{1,2}`
+marker cap found on 2026-07-30. So the derived half was placed where
+determinism checks already run — `amended_by` in `clauses.json` (reparse-and-
+compare), unresolved targets in `validation.json` (report-compare) — and no new
+canonical file was introduced. **The general rule this instance establishes:
+derived output goes only where a re-derive-and-compare check already exists, or
+that check is built in the same change.**
+
+**Two things deliberately not done.**
+
+- *No nearest-ancestor resolution.* A target matches a committed clause number
+  exactly or it does not resolve. Attaching an unmatched target's mark to a
+  parent clause would claim a decree addressed text it never named, and the
+  unmatched case carries real information.
+- *No action-erasing index.* `amended_by` is `Vec<StandardClauseAmendment>`,
+  not the planned `Vec<usize>`, because a bare index cannot distinguish an
+  eliminated clause from a modified one and the plan's own rendering example
+  would print "Numeral modificado" for a repealed numeral. **A clause marked
+  `eliminated` still carries its full live text** — the mark records the
+  repeal, nothing applies it. That is the sharpest legal-meaning trap in this
+  change.
+
+**A finding that narrows the premise: the cheap lever is SSA1-shaped, not
+universal.** SSA1 publishes "Modificación de los numerales 3.2, 3.10, ... de la
+Norma Oficial Mexicana NOM-247-SSA1-2008"; STPS publishes "ACUERDO de
+Modificación a la Norma Oficial Mexicana NOM-020-STPS-2011, ..." with no
+numeral in the title at all. Title parsing therefore reports three distinct
+states, never conflating them: targets found; a title recorded that names
+nothing (`standard_modification_scope_unknown`, NOM-020 — scope *unknown*, not
+*empty*); and no title recorded at all (`standard_modification_title_absent`).
+Guessing in the second case would have been worse than the instrument-level
+warning it replaced.
+
+**A finding that strengthens an existing open question.** NOM-247's 2012 decree
+modifies `5.2.7.ii.1)`, and the committed base text has no `5.2.5`, `5.2.6`, or
+`5.2.7` at all — the `5.2` family stops at `5.2.4`. A *modificación* of a
+numeral absent from the base is not the benign unresolved case (that is
+`5.1.5`, an *adición* of new material). It is independent evidence for the
+plan's standing open question that NOM-247 has at least four modifications, not
+the two recorded — its 2011 CONSIDERANDO cites decrees of 2010-01-22 and
+2010-07-19 that `standard.json` does not carry. Not resolved here.
+
+**A defect found in review, before it reached the corpus.** The action-verb
+regex was asymmetric: `reforma[sn]?` matched the conjugated `reforman`, but
+`deroga(?:ci[oó]n(?:es)?|se)` did not match `derogan`. Because title segments
+are cut *at* verb matches, an unseen family is not skipped — its targets are
+absorbed by the preceding family. "Se reforman los numerales 3.2 y 3.4 y se
+derogan los numerales 5.1 y 5.2" therefore parsed as a single *modified*
+segment and recorded two repeals as modifications: mislabelling, which is
+strictly worse than the "report scope unknown rather than guess" behaviour this
+change is built around, and precisely the failure `action` exists to prevent.
+Fixed by covering nominal and conjugated forms symmetrically for every family,
+with the mixed-verb title as a regression test. None of the three recorded
+titles used a conjugated form, so **no committed corpus data was ever wrong** —
+all 29 standards revalidate byte-identically after the fix. **The general
+lesson: in a parser that segments at keyword matches, uneven keyword coverage
+does not lose data, it misattributes it.**
+
+**New tooling, and a guard worth stating.** `lex-mex standards refresh <slug>`
+re-derives a committed standard's parsed files from its retained text — the
+counterpart to `validate`, and the mechanism that made this backfillable across
+29 records without re-acquiring original PDFs. It aborts on a clause-count
+change. It also aborts on *any* amendment-mark change unless
+`--allow-mark-change` is passed: marks never move the clause count, so a
+title-parser regression that drops or misattributes them would otherwise pass
+every mechanical guard and be written straight into committed canonical data.
+A printed count is not a check.
+
+**Blast radius.** 26 of 29 committed standards refresh to a zero-byte diff.
+Only `nom-247-ssa1-2008` (`standard.json`, `clauses.json`, `validation.json`)
+and `nom-020-stps-2011` (`standard.json`, `validation.json`) changed. NOM-247's
+`clauses.json` diff is `amended_by` insertions only — no clause text, id,
+number, or span moved. **NOM-247 is one of the five NOMs in the Maximasa
+bundle, so that out-of-repo bundle lock is now stale** and needs a mechanical
+regeneration pass; not done here.
+
+## 2026-07-31 — Operator doctrine: sequential canonical-state fold, generalizing the decree-diff engine for both NOM and SHCP/CNBV cases
+
+Operator framing, proposed after seeing the ellipsis-completeness correction
+above and the art. 115 LIC pilot (`docs/plans/cnbv-art115-lic-
+consolidation.md`) as a whole. **Design proposal, awaiting sign-off — not
+implemented, no schema/parser change made.** Recorded now so it isn't lost
+before the formal M4 pass; folded into `docs/plans/maximasa-legal-
+integration.md`'s M4 scope text alongside this entry.
+
+**The algorithm.** For any instrument with no publisher-compiled text
+(NOMs, and now confirmed also SHCP/CNBV resoluciones like art. 115 LIC),
+build the canonical text as a **strict left fold over the decree history in
+chronological order**, not by taking each unit's single "latest full
+restatement":
+
+```
+canonical := base publication text
+for decree in decrees sorted by DOF date:
+    canonical := apply(canonical, decree)
+```
+
+1. Start from the original (base) publication text.
+2. Apply each modifying decree **against the current canonical state**, not
+   against the original base each time — verified today's compiled draft
+   got this wrong (it took each key's last full restatement in isolation,
+   which is only correct if that restatement's own ellipsis gaps happen to
+   already be filled, which they are not).
+3. When a decree's own `ARTÍCULO ÚNICO`/resolving clause carries a prose
+   description (not a text restatement) — particularly derogations or
+   reordering — apply that description as an operation in its own right.
+   Confirmed necessary: `64ª`'s 2014-12-31 edit exists *only* as a preamble
+   instruction, never restated.
+4. Verify the único's REFORMAN/DEROGAN/ADICIONAN lists against what the
+   decree's replacement body actually contains before applying anything —
+   this cross-check is what surfaced both the 5 known gaps and the 46
+   ellipsis-affected keys in the pilot; it is not optional bookkeeping.
+5. **Ellipsis inside a decree's replacement text means the canonical text
+   for that sub-part is unchanged — splice in only the explicitly given
+   new text, leave everything under an ellipsis exactly as canonical
+   already had it.** Confirmed directly against DOF's own source markup
+   (`<span>...</span>`), not inferred.
+6. **No deletions, ever. A repealed unit becomes `derogado` with the
+   repealing decree's date/codigo recorded in place — it is never removed
+   from the structure and nothing is renumbered around it.** This matches
+   how DOF's own compiled texts actually render repeals ("Artículo N.-
+   (Derogado, D.O.F. [fecha])") and directly answers the open question
+   already sitting in M4's scope text ("a retained-text strategy for
+   derogation-caused span shifts") — the answer is: there is no span
+   shift, because nothing is ever removed or renumbered.
+
+**The wrinkle found running this against the pilot, not yet in the five
+points above when first proposed:** step 5's "ellipsis = unchanged" is
+necessary but not sufficient. When a decree inserts a new paragraph and its
+own prose states the later ones are "*recorriéndose los demás en su
+orden*" (shifted down), an ellipsis-covered later paragraph's **content**
+is unchanged but its **ordinal position moves**. A fold that treats
+ellipsis as pure copy-forward-by-position would silently mislabel it —
+e.g. what was "tercer párrafo" silently staying labeled third when the
+único's own prose says it is now fourth. The único's prose (step 3/4) is
+what carries this instruction; it cannot be inferred from the ellipsis
+alone. **`apply()` therefore needs three per-unit operations, not two:
+`replace` (explicit new text given), `keep` (ellipsis, content and
+position both unchanged), and `shift` (position changes per the único's
+own renumbering instruction, content unchanged) — collapsing `shift` into
+`keep` is the specific way a naive implementation of this model breaks.**
+
+**Generalizes, does not replace, the existing NOM-side scoping** (M4 /
+`docs/plans/maximasa-legal-integration.md`, `docs/ingestion-difficulty-log.md`
+`decree-diff`): a NOM MODIFICACIÓN's whole-clause ellipsis span
+("unchanged span ... replacement text", `docs/decisions.md` 2026-07-26) and
+this SHCP/CNBV sub-part ellipsis (found today) are **the same mechanism at
+different nesting depth** — clause-level for NOMs, sub-part-of-a-named-unit
+level for SHCP/CNBV resoluciones. One fold model, one `apply()` with the
+three operations above, covers both; the earlier framing of them as
+distinct engines ("simpler than M4" vs. "needs the ellipsis engine") is
+superseded by this doctrine.
+
+**Loop, not graph, for the per-instrument fold.** The fold above is a plain
+sequential reduction over one instrument's own decree history — no graph
+structure is needed for it. Cross-instrument reference resolution
+(`docs/cnbv-consolidated-disposiciones.md` §3) is a separate, already-
+deferred concern and should stay separate rather than being merged into
+this fold.
+
+## 2026-07-31 (correction, same day) — "para quedar como sigue" is a nested ellipsis-diff, not a full-text replacement; the entry below is wrong on its central claim
+
+Operator caught this directly in the compiled output, not in the source
+reading: disposición 4ª's "current text" (from RM 2024-08-28, codigo
+5737473) reads `... ... I. ... a) ... i. Primer apellido... ii. ... iii.
+...` — riddled with literal `...`. Checked against the source RM's own
+REFORMAN clause for 4ª: it names only specific numerales/incisos/fracciones
+("la 4ª, segundo párrafo, fracciones I, incisos a), numeral i. y b),
+numerales i. primer y segundo párrafos y iii. segundo párrafo, II, incisos
+a), numeral x., IV,..." — dozens of pinpointed sub-parts, e.g. fracción III
+of 4ª is conspicuously absent). The `...` in the replacement body **is DOF's
+own convention for "this sub-part is untouched, carries over unchanged from
+the immediately prior version"** — confirmed literally present in the raw
+DOF HTML (`<span>...</span>`), not an extraction artifact.
+
+**This retracts the entry below's central claim.** Quoted from it, struck,
+not silently edited:
+
+> ~~This SHCP/CNBV format instead names the unit by number and gives its
+> entire new text, so applying it is a keyed full-text replacement
+> (`disposición_id → new_text`), not a splice.~~
+>
+> ~~named-unit full-text replacement needs no ellipsis-splicing logic at
+> all, just chronological last-writer-wins per disposición number~~
+
+**What's actually true:** "para quedar como sigue" restates the numbered
+unit, but only fills in the parts the RM actually touches — everything else
+inside that same unit is elided with `...` and must be spliced in from the
+nearest prior version that gives real text for that specific sub-part
+(walking back through the key's own history, recursively, since an
+intermediate version may *also* have elided the same sub-part if it wasn't
+touched there either). This is the NOM ellipsis-diff mechanism after all —
+just operating one level of nesting deeper (inside a named unit) instead of
+across the whole document. The "simpler than M4, no splicing needed" framing
+is wrong; **this instrument needs real ellipsis-splicing, scoped to
+sub-parts of a named unit rather than the whole document.**
+
+**Scope, measured against the pilot compiled draft (2026-07-31):** grepped
+`compiled_draft.json`'s 96 `current_text` values for literal `...` — **46 of
+96 keys are affected**, not a handful. Worst cases: `4a` (135 ellipses,
+source 5737473), `64a` (35), `14a` (28), `74a` (16). None of these 46 are
+corrected in the compiled draft or its Obsidian copy as of this entry — they
+carry a blanket warning, not a per-provision fix, pending the real
+splice-reconstruction work below.
+
+**What survives from the entry below, unretracted:** the extraction
+mechanics (locate `ARTÍCULO ÚNICO`, parse REFORMAN/DEROGAN/ADICIONAN lists,
+split "para quedar como sigue" by disposición-number headers) are still
+correct and reusable — they just produce an *elided* text per touched unit,
+not a complete one. The wholly-derogated-numeral finding (`7ª-1`) and the
+prose-only-structural-edit finding (`64a`'s 2014-12-31 edit) both still
+hold. The DEROGAN/REFORMAN-list-vs-body cross-check discipline from that
+entry's caveat is exactly the right instinct, generalized further by this
+correction: **never trust a replacement body's completeness without
+checking it against what the RM's own preamble says it touched.**
+
+**Next, not done this session:** build the recursive splice — for each `...`
+span in a key's current text, identify which specific sub-part (fracción/
+inciso/numeral, by the ordinal immediately preceding the `...`) it stands
+for, and walk that key's history backward for the nearest version that gives
+real text for that same sub-part. This is materially more work than the
+keyed-replacement model assumed and should be scoped as its own pass, not
+rushed.
+
+## 2026-07-31 — A second, simpler decree-diff subclass: SHCP/CNBV "ARTÍCULO ÚNICO" named-unit replacement
+
+Found while inventorying DOF resoluciones modificatorias for *Disposiciones
+de carácter general a que se refiere el artículo 115 de la Ley de
+Instituciones de Crédito* (no consolidated text exists — see
+`docs/plans/cnbv-art115-lic-consolidation.md` for the full inventory and
+research trail). This instrument has no publisher-compiled text (like a
+NOM) but its modifying decrees are **not** shaped like NOM decrees.
+
+**The format.** Every RM read so far (2 of 16, both confirmed) has a single
+resolving clause of this exact shape:
+
+> ARTÍCULO ÚNICO.- Se REFORMAN las disposiciones `<N, N, N...>`; se
+> DEROGA(N) `<N, N...>` (sometimes only a named párrafo/fracción inside a
+> disposición that is *also* being reformed); y se ADICIONAN `<N, N...>`;
+> todas de las Disposiciones..., **para quedar como sigue:** `<the complete
+> new text of every disposición named in the REFORMAN/ADICIONAN lists, in
+> full, numbered>`.
+
+**Why this differs from the NOM case** (`docs/decisions.md` 2026-07-26,
+`docs/ingestion-difficulty-log.md` `decree-diff`): a NOM
+MODIFICACIÓN/ACUERDO states its diff as an **ellipsis span** — "unchanged
+text ... replacement text" — which requires splicing the replacement into
+the retained base at the right offset. This SHCP/CNBV format instead names
+the unit by number and gives its **entire new text**, so applying it is a
+keyed full-text replacement (`disposición_id → new_text`), not a splice. A
+disposición touched by both a reform and a partial derogation (e.g. one
+párrafo removed) still appears exactly once, in full, under "para quedar
+como sigue" — the derogated párrafo is simply absent, so partial-
+derogation-within-a-reformed-unit needs no special handling. A **wholly**
+derogated disposición (repealed outright, not reformed) would be named only
+in a "se DEROGA" clause with no replacement text and must be dropped from
+the compiled output — not yet observed directly, needs confirming against a
+real instance.
+
+**Consequence for Scope 2 / M4.** `docs/plans/maximasa-legal-integration.md`
+scoped the `decree-diff` engine around the NOM ellipsis case. This SHCP/CNBV
+format is a **distinct, mechanically simpler** subclass — named-unit
+full-text replacement needs no ellipsis-splicing logic at all, just
+chronological last-writer-wins per disposición number with full history
+retained as provenance. Do not assume every `decree-diff` instrument needs
+the heavier ellipsis engine; check which shape a given publisher uses
+first. Worth generalizing once more instruments are seen: this is plausibly
+how *most* SHCP/CNBV resoluciones modificatorias are written (it matches
+Mexican regulatory drafting convention — "para quedar como sigue" is the
+standard formula), so it may cover more of the CNBV-adjacent, no-
+consolidated-text corpus than the ellipsis case does. This methodology
+should be reused directly the next time a corpus instrument is updated
+against a new DOF reforma once the current corpus is digested — the
+extraction pattern (locate `ARTÍCULO ÚNICO`/multi-artículo resolving
+clause, parse the REFORMAN/DEROGAN/ADICIONAN lists, split "para quedar como
+sigue" by disposición-number headers) is the reusable part, independent of
+which instrument it's applied to.
+
+**Caveat found running this against all 16 RMs of the pilot instrument
+(2026-07-31, `docs/plans/cnbv-art115-lic-consolidation.md`): "always full
+text" is not universal.** Two real counterexamples:
+
+- A **purely structural edit** (paragraph renumbering, a single-paragraph
+  derogation with no other substantive change) can be stated as an
+  instruction entirely inside the preamble, with **no** "para quedar como
+  sigue" restatement anywhere — the numeral is named in the DEROGAN/REFORMAN
+  lists but never appears in the replacement body. Mechanical extraction
+  keyed only on replacement-body headers silently misses this; it must be
+  caught by cross-checking every DEROGAN/REFORMAN-list numeral against the
+  set that actually appears in the replacement body, and flagging the
+  difference rather than assuming absence means "not actually changed."
+- A **wholly derogated numeral** (repealed outright, not reformed) is named
+  only in a DEROGA clause with no replacement text, confirmed for real:
+  disposición "7ª-1" — note the hyphenated sub-numeral format, which a
+  numeral-key normalizer built only for "Nª [Bis/Ter/...]" will silently
+  fail to recognize at all, losing the provision's entire lifecycle rather
+  than just its latest state.
+
+Net: the named-unit full-text-replacement shape is still the dominant case
+and still simpler than the NOM ellipsis-diff, but a correct extraction must
+diff the DEROGAN/REFORMAN/ADICIONAN *lists* against the replacement *body*
+per RM, not just parse the body — the gap between those two sets is where
+both counterexamples were found.
+
 ## 2026-07-29 — Lex-Mex as compiler for NOMs; Scope 2 decomposed; a dangling amendment legend
 
 Operator framing, and it identifies a real asymmetry: for Cámara de Diputados

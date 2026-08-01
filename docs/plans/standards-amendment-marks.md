@@ -1,8 +1,11 @@
 # Standards amendment marks (Scope 2, Stage A)
 
-Planning pass, 2026-07-29. **Not started — requires operator sign-off on the
-trusted-boundary shape below**, per the M4 rule governing Scope 2
-(`docs/plans/maximasa-legal-integration.md`).
+Planning pass, 2026-07-29. **Signed off and landed 2026-07-31** (operator
+directive "go for M4"), per the M4 rule governing Scope 2
+(`docs/plans/maximasa-legal-integration.md`). The plan text below is left as
+written; what actually shipped, including three named deviations from the
+signed-off shape and two findings the plan did not anticipate, is recorded in
+"What landed" at the end and in `docs/decisions.md` 2026-07-31.
 
 ## Problem
 
@@ -168,8 +171,83 @@ transitorio to 2010-12-31). Both are absent from `standard.json`. Whether
 transitorio-only modifications belong in `modifications[]` is a modelling
 question this plan does not settle.
 
+## What landed, 2026-07-31
+
+### The premise held
+
+The plan's load-bearing claim — "those numerals are clause identifiers Lex-Mex
+already addresses" — was tested against the committed corpus before any code
+was written. Of the 21 numerals the two NOM-247 decree titles name, **19 match a
+committed clause number exactly**, including the bare top-level forms (`2`, `4`,
+`8`) the plan flagged as uncertain. No nearest-ancestor resolution was needed,
+so none was built.
+
+### Three deviations from the signed-off shape, deliberate
+
+1. **`affects` on the modification became `amended_by` on the clause, plus
+   validation warnings.** Same information, placed where determinism checks
+   already run. `standard.json` is pure passthrough — nothing re-derives it —
+   so derived `affects` living there could go stale on a parser change with no
+   check firing, the same failure shape as the `\d{1,2}` cap above. `amended_by`
+   sits in `clauses.json` (reparse-and-compare) and unresolved targets sit in
+   `validation.json` (report-compare). No new canonical file was added.
+2. **`amended_by: Vec<usize>` became `Vec<StandardClauseAmendment>`
+   (`modification_index` + `action`).** A bare index cannot distinguish an
+   eliminated clause from a modified one, and the plan's own rendering example
+   would then print "Numeral modificado" for a repealed numeral.
+3. **`title: Option<String>` was added to `StandardModificationSource` as pure
+   input.** The plan parses "the decree title" but the corpus did not record
+   one. Optional so the eight existing modification entries stay schema-valid;
+   the three unincorporated ones were backfilled verbatim from official DOF
+   pages (codigos 5188649, 5283480, 5411988).
+
+### Two findings the plan did not anticipate
+
+- **The cheap lever is SSA1-shaped, not universal.** STPS publishes "ACUERDO de
+  Modificación a la Norma Oficial Mexicana NOM-020-STPS-2011, Recipientes
+  sujetos a presión, ..." — the title carries the standard's identity and
+  nothing about what changed. NOM-020 correctly stays at instrument level, with
+  a `standard_modification_scope_unknown` warning saying so. A title that names
+  nothing is reported as a different fact from a title never recorded.
+- **`5.2.7.ii.1)` resolves to nothing because the committed base text stops at
+  `5.2.4`.** There is no `5.2.5`, `5.2.6`, or `5.2.7` anywhere in NOM-247's
+  retained text. A *modificación* of a numeral that does not exist in the base
+  is not the benign unresolved case (that is `5.1.5`, an *adición*) — it is
+  independent evidence for this plan's own open question below, that NOM-247 has
+  more modifications than the two recorded. Not resolved here.
+
+### Acceptance, measured
+
+| Criterion | Result |
+|---|---|
+| Fixtures from both real NOM-247 decree titles | 5 parser tests, titles quoted verbatim from DOF |
+| Annex elimination parses, resolves to nothing, reason clear | `Apéndice normativo A` → `standard_modification_target_unresolved` |
+| Byte-identical reparse of all committed standards | 26 of 29 standards refresh to a zero-byte diff; NOM-247's `clauses.json` diff is `amended_by` insertions only; NOM-020's `clauses.json` is unchanged |
+| NOM-247: 252 clauses unchanged, 11 marked from 2011, 10 targets + annex from 2012 | 252 clauses, **17 distinct clauses marked** (11 + 8, with `3.2` and `3.10` marked by both decrees), 11 targets parsed per decree, 3 unresolved |
+
+Also landed: `lex-mex standards refresh <slug>`, which re-derives a committed
+standard's parsed files from its retained text — the mechanism that made this
+backfillable across 29 records without re-acquiring original PDFs. It aborts on
+a clause-count change, and aborts on any amendment-mark change unless
+`--allow-mark-change` is passed, because marks are a legal-meaning claim that
+never moves the clause count.
+
+### Still open after this stage
+
+- The five `included_in_source: true` modifications (NOM-051 ×3, NOM-187 ×2)
+  have no recorded title. Marking them would give Diputados-style per-clause
+  "reformado DOF <date>" provenance on an already-current text, which is
+  useful but is not staleness. Two of the NOM-051 URLs are a `normasOficiales`
+  HTML page and a raw PDF rather than `nota_detalle.php`, so title extraction
+  is not uniform there.
+- The `\d{1,2}` marker-regex cap (`dcg.rs:176`, `itf.rs:179`) is untouched —
+  a separate CNBV-side defect, not a standards one.
+- The open question below (NOM-247's 2010-01-22 and 2010-07-19 decrees) is
+  unchanged, and now has the `5.2.7` evidence pointing the same way.
+
 ## Next action
 
-Operator sign-off on the `StandardModificationTarget` / `amended_by` shape
-above — the only open item left, per the 2026-07-30 correction. Nothing is
-implemented.
+Stage B (multi-source provenance) or Stage C (consolidation) — Stage C still
+sits on the unresolved `transitory-absorbs-annex` defect, and the sequential
+canonical-state fold recorded in `docs/decisions.md` 2026-07-31 is its
+candidate engine, awaiting its own sign-off.

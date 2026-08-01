@@ -47,7 +47,13 @@
     "label": "1.4 Esta Norma Oficial Mexicana es de observancia obligatoria en el Territorio Nacional para las personas",
     "text": "1.4 Esta Norma Oficial Mexicana es de observancia obligatoria en el Territorio Nacional para las personas\nfísicas o morales que se dedican al proceso o importación de los productos objeto de esta Norma destinados\na los consumidores en el Territorio Nacional.",
     "start_char": 7593,
-    "end_char": 7851
+    "end_char": 7851,
+    "amended_by": [
+      {
+        "modification_index": 0,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -57,7 +63,13 @@
     "label": "2. Referencias",
     "text": "2. Referencias\n   Esta norma se complementa con las siguientes normas oficiales mexicanas o las que la sustituyan:\n   ●    Modificación a la Norma Oficial Mexicana NOM-028-FITO-1995, Por la que se establecen los\n        requisitos fitosanitarios y especificaciones para la importación de granos y semillas, excepto para\n        siembra.\n   ●    NOM-086-SSA1-1994, Bienes y servicios. Alimentos y bebidas no alcohólicas con modificaciones en\n        su composición. Especificaciones nutrimentales.\n   ●    NOM-120-SSA1-1994, Bienes y servicios. Prácticas de higiene y sanidad para el proceso de\n        alimentos, bebidas no alcohólicas y alcohólicas.\n   ●    Modificación a la NOM-127-SSA1-1994, Salud ambiental, agua para uso y consumo humano. Límites\n        permisibles de calidad y tratamientos a que debe someterse el agua para su potabilización.",
     "start_char": 7855,
-    "end_char": 8706
+    "end_char": 8706,
+    "amended_by": [
+      {
+        "modification_index": 0,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -87,7 +99,17 @@
     "label": "3.2 Aditivo, cualquier sustancia que en cuanto tal no se consume normalmente como alimento, ni",
     "text": "3.2 Aditivo, cualquier sustancia que en cuanto tal no se consume normalmente como alimento, ni\ntampoco se usa como ingrediente básico en alimentos, tenga o no valor nutritivo, y cuya adición al alimento\ncon fines tecnológicos (incluidos los organolépticos) en sus fases de producción, elaboración, preparación,\ntratamiento, envasado, empaquetado, transporte o almacenamiento, resulte o pueda preverse\nrazonablemente que resulte (directa o indirectamente) por sí o sus subproductos, en un componente del\nalimento o un elemento que afecte a sus características. Esta definición no incluye “contaminantes” o\nsustancias añadidas al alimento para mantener o mejorar las cualidades nutricionales.",
     "start_char": 8867,
-    "end_char": 9557
+    "end_char": 9557,
+    "amended_by": [
+      {
+        "modification_index": 0,
+        "action": "modified"
+      },
+      {
+        "modification_index": 1,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -167,7 +189,17 @@
     "label": "3.10 Coaduyante de elaboración, a la sustancia o materia, excluidos aparatos, utensilios y aditivos, que",
     "text": "3.10 Coaduyante de elaboración, a la sustancia o materia, excluidos aparatos, utensilios y aditivos, que\nno se consume como ingrediente alimenticio por sí misma, y se emplea intencionalmente en la elaboración de\nmaterias primas, alimentos o sus ingredientes, para lograr alguna finalidad tecnológica durante el tratamiento\no la elaboración, que puede dar lugar a la presencia no intencionada pero inevitable, de residuos o derivados\nen el producto final.",
     "start_char": 11482,
-    "end_char": 11936
+    "end_char": 11936,
+    "amended_by": [
+      {
+        "modification_index": 0,
+        "action": "modified"
+      },
+      {
+        "modification_index": 1,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -187,7 +219,13 @@
     "label": "3.12 Consumidor, persona física o moral, que adquiere o disfruta como destinatario final productos",
     "text": "3.12 Consumidor, persona física o moral, que adquiere o disfruta como destinatario final productos\npreenvasados. No es consumidor quien adquiera, almacene o utilice alimentos y bebidas no alcohólicas\npreenvasados, con objeto de integrarlos en proceso de producción, transformación, comercialización o\nprestación de servicios a terceros.",
     "start_char": 12062,
-    "end_char": 12398
+    "end_char": 12398,
+    "amended_by": [
+      {
+        "modification_index": 0,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -237,7 +275,13 @@
     "label": "3.17 Etiqueta, cualquier rótulo, marbete, descripción, imagen u otra materia descriptiva o gráfica, escrita,",
     "text": "3.17 Etiqueta, cualquier rótulo, marbete, descripción, imagen u otra materia descriptiva o gráfica, escrita,\nimpresa, estarcida, marcada, grabada en alto o bajo relieve adherida o sobrepuesta al envase del producto\npreenvasado o cuando no sea posible por las características del producto, al embalaje.",
     "start_char": 13134,
-    "end_char": 13435
+    "end_char": 13435,
+    "amended_by": [
+      {
+        "modification_index": 0,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -247,7 +291,13 @@
     "label": "3.18 Fecha de caducidad, a la fecha límite en que se considera que un producto preenvasado",
     "text": "3.18 Fecha de caducidad, a la fecha límite en que se considera que un producto preenvasado\nalmacenado en las condiciones sugeridas por el fabricante, reduce o elimina las características sanitarias que\ndebe reunir para su consumo. Después de esta fecha no debe comercializarse ni consumirse.",
     "start_char": 13439,
-    "end_char": 13730
+    "end_char": 13730,
+    "amended_by": [
+      {
+        "modification_index": 0,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -257,7 +307,13 @@
     "label": "3.19 Fecha de consumo preferente, fecha en la que, almacenado bajo condiciones sugeridas por el",
     "text": "3.19 Fecha de consumo preferente, fecha en la que, almacenado bajo condiciones sugeridas por el\nresponsable del producto, expira el periodo durante el cual el producto preenvasado es comercializable y\nmantiene las cualidades específicas se le atribuyen tácita o explícitamente, pero después de la cual el\nproducto preenvasado puede ser consumido.",
     "start_char": 13734,
-    "end_char": 14080
+    "end_char": 14080,
+    "amended_by": [
+      {
+        "modification_index": 0,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -397,7 +453,13 @@
     "label": "3.33 Ingredientes opcionales, a los que se pueden adicionar al producto, tales como azúcares naturales,",
     "text": "3.33 Ingredientes opcionales, a los que se pueden adicionar al producto, tales como azúcares naturales,\nmieles, frutas u otros productos comestibles, sus mezclas o derivados.",
     "start_char": 17227,
-    "end_char": 17401
+    "end_char": 17401,
+    "amended_by": [
+      {
+        "modification_index": 1,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -427,7 +489,13 @@
     "label": "3.36 Lote, a la cantidad de un producto, elaborado en un mismo ciclo, integrado por unidades",
     "text": "3.36 Lote, a la cantidad de un producto, elaborado en un mismo ciclo, integrado por unidades\nhomogéneas.",
     "start_char": 17727,
-    "end_char": 17831
+    "end_char": 17831,
+    "amended_by": [
+      {
+        "modification_index": 0,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -507,7 +575,13 @@
     "label": "3.44 Nutrimento, cualquier sustancia incluyendo a las proteínas, grasas o lípidos, carbohidratos o hidratos",
     "text": "3.44 Nutrimento, cualquier sustancia incluyendo a las proteínas, grasas o lípidos, carbohidratos o hidratos\nde carbono, agua, vitaminas y minerales consumidos normalmente como componente de un alimento o\nbebida no alcohólica que:\n   a) proporciona energía; o\n   b) es necesario para el crecimiento, el desarrollo y el mantenimiento de la vida; o\n   c) cuya carencia haga que se produzcan cambios químicos o fisiológicos característicos.",
     "start_char": 19233,
-    "end_char": 19669
+    "end_char": 19669,
+    "amended_by": [
+      {
+        "modification_index": 0,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -697,7 +771,13 @@
     "label": "4. Símbolos y abreviaturas",
     "text": "4. Símbolos y abreviaturas\n   Cuando en esta norma se haga referencia a los siguientes símbolos y abreviaturas se entiende por:\n   AF            aflatoxinas\n   Alc.Vol.      alcohol volumen\n   As            arsénico\n   BPF           buenas prácticas de fabricación\n   CE            coeficiente de extinción\n   Cd            cadmio\n   cm            centímetro\n   cSt           centistoke\n   C.I.          color index\n   ε             constante de proporcionalidad\n   °C            grado Celsius\n   IDR           Ingesta Diaria Recomendada\n\fLunes 27 de julio de 2009                   DIARIO OFICIAL   (Segunda Sección)\n\nK            grado Kelvin\ng            gramo\nh            hora\n=            igual\nKcal         kilocaloría\nkg           kilogramo\nkJ           kilojoule\nL            levógiro\nLMR          límite máximo residual\n±            más-menos\n>            mayor que\n<            menor que\n<            menor o igual a\nHPLC         cromatografía líquida de alta resolución\nμg           microgramo\nm            metro\nmg           miligramo\nml           mililitro\nμl           microlitro\nμm           micrómetro\nmm           milímetro\nm/m          masa masa\nMM           milimolar\nmin          minuto\nM            molar\nN            normal\nng           nanogramo\nnm           nanómetro\nNMP          número más probable\nNo           número\nØ            diámetro\np            peso\nPb           plomo\nPBS          solución amortiguadora de fosfatos\npH           potencial de hidrógeno\np/p          peso peso\np/v          peso volumen\nspp          cualquier especie\nton          toneladas\nton/min      toneladas por minuto\nv/v          volumen volumen\nX            poder de resolución\n/            por\nx            por\n%            por ciento\nUFC          unidades formadoras de colonias\nv            volumen\n\f         (Segunda Sección)                        DIARIO OFICIAL                    Lunes 27 de julio de 2009\n\n      Cuando en la presente norma se mencione a:\n   Acuerdo, debe entenderse que se trata del Acuerdo por el que se determinan las sustancias permitidas\ncomo aditivos y coadyuvantes en alimentos, bebidas y suplementos alimenticios y sus modificaciones.\n    CICOPLAFEST, debe entenderse que se trata de la Comisión Intersecretarial para el Control del Proceso\ny uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas.\n      Ley, debe entenderse que se trata de la Ley General de Salud\n   Reglamento, debe entenderse que se trata del Reglamento de Control Sanitario de Productos                    y\nServicios.\n      Secretaría, debe entenderse que se trata de la Secretaría de Salud.",
     "start_char": 24732,
-    "end_char": 27338
+    "end_char": 27338,
+    "amended_by": [
+      {
+        "modification_index": 1,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -727,7 +807,13 @@
     "label": "5.1.1 En el proceso de los productos objeto de esta Norma, se deben aplicar las prácticas de higiene y",
     "text": "5.1.1 En el proceso de los productos objeto de esta Norma, se deben aplicar las prácticas de higiene y\nsanidad establecidas en la NOM-120-SSA1-1994, señalada en el apartado de referencias.",
     "start_char": 27598,
-    "end_char": 27786
+    "end_char": 27786,
+    "amended_by": [
+      {
+        "modification_index": 1,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -897,7 +983,13 @@
     "label": "5.2.2.8 Aditivos para alimentos.",
     "text": "5.2.2.8 Aditivos para alimentos.\n    Sólo está permitido utilizar los aditivos señalados en el Apéndice Normativo A.",
     "start_char": 40221,
-    "end_char": 40337
+    "end_char": 40337,
+    "amended_by": [
+      {
+        "modification_index": 1,
+        "action": "eliminated"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -947,7 +1039,13 @@
     "label": "5.2.3.4 Aditivos para alimentos.",
     "text": "5.2.3.4 Aditivos para alimentos.\n   Solamente están permitidos los aditivos señalados en el Apéndice Normativo A.",
     "start_char": 41337,
-    "end_char": 41450
+    "end_char": 41450,
+    "amended_by": [
+      {
+        "modification_index": 1,
+        "action": "eliminated"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -1007,7 +1105,13 @@
     "label": "5.2.4.5 Aditivos para alimentos.",
     "text": "5.2.4.5 Aditivos para alimentos.\n   Solamente están permitidos los aditivos señalados en el Apéndice Normativo A.\n\f   Lunes 27 de julio de 2009                   DIARIO OFICIAL                             (Segunda Sección)",
     "start_char": 44979,
-    "end_char": 45201
+    "end_char": 45201,
+    "amended_by": [
+      {
+        "modification_index": 1,
+        "action": "eliminated"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",
@@ -1057,7 +1161,13 @@
     "label": "8. Etiquetado",
     "text": "8. Etiquetado\n   Las etiquetas o envases impresos de los productos preenvasados objeto de esta norma, además de\ncumplir con lo establecido en el Reglamento, deben cumplir con lo siguiente:",
     "start_char": 45681,
-    "end_char": 45869
+    "end_char": 45869,
+    "amended_by": [
+      {
+        "modification_index": 0,
+        "action": "modified"
+      }
+    ]
   },
   {
     "schema_version": "0.1.0",

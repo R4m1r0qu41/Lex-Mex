@@ -57,11 +57,55 @@ pub enum StandardTextBasis {
     OfficialCompilation,
 }
 
+/// What a modifying decree does to one addressed unit of a standard.
+///
+/// Deliberately three values and no more: this records the decree's own verb,
+/// not a consolidated outcome. Applying any of them to the retained text is
+/// Scope 2 Stage C, not this.
+#[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq, Hash)]
+#[serde(rename_all = "snake_case")]
+pub enum StandardModificationAction {
+    Modified,
+    Added,
+    Eliminated,
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct StandardModificationSource {
     pub publication_date: NaiveDate,
     pub official_url: Url,
     pub included_in_source: bool,
+    /// The decree's own DOF publication title, verbatim.
+    ///
+    /// Pure source-grounded input, never derived. A Mexican modifying decree
+    /// names the numerals it touches in its own title ("Modificación de los
+    /// numerales 3.2, 3.10 ... y eliminación ... del Apéndice normativo A de
+    /// la Norma Oficial Mexicana NOM-247-SSA1-2008, ..."), which is what turns
+    /// an instrument-level "this standard has an unincorporated modification"
+    /// warning into a clause-level one without reading the decree's body.
+    ///
+    /// Optional because the form is not universal: STPS publishes "ACUERDO de
+    /// Modificación a la Norma Oficial Mexicana NOM-020-STPS-2011, ..." with
+    /// no numerals in the title at all. A title recorded with no parseable
+    /// targets is a different fact from no title recorded, and the validator
+    /// distinguishes them.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub title: Option<String>,
+}
+
+/// One decree-to-clause amendment mark on a [`StandardClause`].
+///
+/// Derived, not authored: parsed from the modification's `title` and matched
+/// against committed clause numbers. `modification_index` indexes
+/// [`StandardMetadata::modifications`].
+///
+/// This records that a clause's text is **known outdated**, precisely located.
+/// It is the opposite of a currency claim -- the clause text remains exactly
+/// the base publication, and nothing here applies the modification.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct StandardClauseAmendment {
+    pub modification_index: usize,
+    pub action: StandardModificationAction,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -142,6 +186,14 @@ pub struct StandardClause {
     pub text: String,
     pub start_char: usize,
     pub end_char: usize,
+    /// Modifying decrees that name this clause in their own DOF title.
+    ///
+    /// Empty for a clause no recorded decree addresses -- which is not a claim
+    /// that the clause is current, only that no *recorded* modification names
+    /// it. Targets that resolve to no committed clause are not silently
+    /// dropped; they are reported by `validate_standard`.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub amended_by: Vec<StandardClauseAmendment>,
 }
 
 /// One ordinal-labeled transitory provision from a standard's TRANSITORIOS
