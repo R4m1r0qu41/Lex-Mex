@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-art121-122-lft",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de los Artículos 121 y 122 de la Ley Federal del Trabajo",
+  "short_name": "REG-ART121-122-LFT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2014-06-05",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-08-01T14:59:55.265607Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_Art121-122_LFT_050614.pdf",
+  "source_sha256": "9be81cab513e8797c27eab1c8932b087599fe9ff39528fde9b661cdebf4257f0",
+  "extracted_text_sha256": "6682618a9fe627b225258fb4daadaaa3520cec7fe4504811da870549c9ce5527",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

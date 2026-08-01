@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-laat",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley de Ayuda Alimentaria para los Trabajadores",
+  "short_name": "REG-LAAT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2015-06-04",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-08-01T14:59:58.776645Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAAT_040615.pdf",
+  "source_sha256": "c1c2979863552f79416de98fc49cc4898abefac47eb223de3c163a49b793273b",
+  "extracted_text_sha256": "607a93685b5d8e958fb156e54a0f5e1771d4076d155fde91b28a2c653711b5ae",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

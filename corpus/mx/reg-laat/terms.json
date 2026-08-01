@@ -1,0 +1,101 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:term:ambito-ocupacional",
+    "term": "Ámbito Ocupacional",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
+    "fraction": "I",
+    "start_char": 128,
+    "end_char": 343,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:term:comida",
+    "term": "Comida",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
+    "fraction": "II",
+    "start_char": 343,
+    "end_char": 677,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:term:centro-de-trabajo",
+    "term": "Centro de Trabajo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
+    "fraction": "III",
+    "start_char": 677,
+    "end_char": 1065,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:term:comedor",
+    "term": "Comedor",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
+    "fraction": "IV",
+    "start_char": 1065,
+    "end_char": 1414,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:term:emisoras-de-vales",
+    "term": "Emisoras de Vales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
+    "fraction": "V",
+    "start_char": 1414,
+    "end_char": 1789,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:term:ley",
+    "term": "Ley",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
+    "fraction": "VI",
+    "start_char": 1789,
+    "end_char": 1847,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:term:proveedores-de-despensa",
+    "term": "Proveedores de Despensa",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
+    "fraction": "VII",
+    "start_char": 1847,
+    "end_char": 2248,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:term:restaurantes-o-establecimientos-de-consumo-de-alimentos",
+    "term": "Restaurantes o Establecimientos de Consumo de Alimentos",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
+    "fraction": "VIII",
+    "start_char": 2248,
+    "end_char": 2637,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:term:vale-de-comida-o-despensa",
+    "term": "Vale de Comida o Despensa",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
+    "fraction": "IX",
+    "start_char": 2637,
+    "end_char": 3176,
+    "basis": "express_definition"
+  }
+]

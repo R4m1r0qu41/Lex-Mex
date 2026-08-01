@@ -1,0 +1,76 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:reference:236-239:123:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
+    "source_span": "123",
+    "start_char": 236,
+    "end_char": 239,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:123",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2:reference:954-957:123:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
+    "source_span": "123",
+    "start_char": 954,
+    "end_char": 957,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:123",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:5:reference:301-318:4:relative",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:5",
+    "source_span": "artículo anterior",
+    "start_char": 301,
+    "end_char": 318,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:4",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracciones I y II",
+        "start_char": 279,
+        "end_char": 296
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "relative"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:transitory:segundo:reference:55-56:7:direct",
+    "source_provision_id": "urn:lex-mx:federal:regulation:reg-laat:transitory:segundo",
+    "source_span": "7",
+    "start_char": 55,
+    "end_char": 56,
+    "target_instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "target_provision_id": "urn:lex-mx:federal:regulation:reg-laat:article:7",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 31,
+        "end_char": 41
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

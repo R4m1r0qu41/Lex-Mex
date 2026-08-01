@@ -1,0 +1,275 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:1",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "article",
+    "label": "Artículo 1",
+    "number": "1",
+    "heading_context": {
+      "title": "Título PRIMERO",
+      "chapter": null
+    },
+    "text": "El presente ordenamiento tiene por objeto establecer las normas reglamentarias para instrumentar los esquemas de ayuda alimentaria en beneficio de los Trabajadores en el Ámbito Ocupacional.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:2",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "article",
+    "label": "Artículo 2",
+    "number": "2",
+    "heading_context": {
+      "title": "Título PRIMERO",
+      "chapter": null
+    },
+    "text": "Para los efectos del presente Reglamento, además de las definiciones previstas en el artículo 2o. de la Ley, se entenderá por:\n\nI. Ámbito Ocupacional: Es aquél comprendido en el marco de las relaciones laborales regidas por el artículo 123, Apartado A de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo;\n\nII. Comida: Los alimentos y bebidas no alcohólicas preparadas que un patrón proporciona para consumo de sus Trabajadores en los días que laboran, los cuales podrán ser proveídos en el Centro de Trabajo o fuera de éste. Dichos alimentos y bebidas deberán prepararse de conformidad con la Dieta Correcta y buenas prácticas de higiene;\n\nIII. Centro de Trabajo: Todo aquel lugar, cualquiera que sea su denominación, en el que se realicen actividades de producción o distribución de bienes o prestación de servicios, o en el que laboren personas que estén sujetas a una relación de trabajo, en términos del artículo 123, Apartado A de la Constitución Política de los Estados Unidos Mexicanos, y de la Ley Federal del Trabajo;\n\nIV. Comedor: Espacio destinado de manera permanente dentro del Centro de Trabajo, para proporcionar Comida a los Trabajadores, el cual podrá ser operado por el propio patrón, o bien, a través de un tercero, mediante el uso de Vales de Comida conforme al contrato de prestación de servicios que al efecto se celebre entre el patrón y dicho tercero;\n\nV. Emisoras de Vales: Personas físicas o morales que administran un sistema de consumo creado mediante la firma de contratos celebrados con Proveedores de Despensas, Comedores, Restaurantes o Establecimientos de Consumo de Alimentos dentro del territorio nacional, en los que se establezcan las condiciones de aceptación de los Vales de Comida o Despensa, según corresponda; VI. Ley: Ley de Ayuda Alimentaria para los Trabajadores;\n\nVII. Proveedores de Despensa: Personas físicas o morales que suministran o enajenan canastillas de alimentos a los patrones, mediante un contrato celebrado para tales efectos, o que permiten a los Trabajadores adquirir, dentro de sus establecimientos ubicados en territorio nacional, alimentos mediante Vales de Despensa que son aceptados en función del contrato celebrado con las Emisoras de Vales;\n\nVIII. Restaurantes o Establecimientos de Consumo de Alimentos: Personas físicas o morales formalmente establecidas que proveen Comida para los Trabajadores dentro del territorio nacional, ya sea:\n\na) Celebrando un contrato con el patrón para tales efectos, o\n\nb) Mediante Vales de Comida, que dicho proveedor pueda aceptar en función de un contrato celebrado con las Emisoras de Vales, y\n\nIX. Vale de Comida o Despensa: Contraseña emitida por una Emisora de Vales, ya sea en formato impreso o en tarjeta plástica que cuente con una banda magnética o algún otro mecanismo tecnológico que permita identificarla en las terminales de los establecimientos afiliados al sistema de consumo de la Emisora de la tarjeta, y que cumpla con los requisitos establecidos en el artículo 11 de la Ley, por medio del cual el Trabajador puede canjear Comidas o despensas respectivamente, en dichos establecimientos dentro del territorio nacional.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:3",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "article",
+    "label": "Artículo 3",
+    "number": "3",
+    "heading_context": {
+      "title": "Título SEGUNDO",
+      "chapter": "Capítulo I"
+    },
+    "text": "Para efectos del artículo 10 de la Ley, los patrones que establezcan esquemas de ayuda alimentaria para sus Trabajadores a que se refiere la Ley y este Reglamento, deberán contar, según corresponda la modalidad, con los contratos celebrados por escrito con:\n\nI. Los proveedores de servicios de Comedor;\n\nII. Los Restaurantes o Establecimientos de Consumo de Alimentos;\n\nIII. Las Emisoras de Vales, o\n\nIV. Los Proveedores de Despensa.\n\nAsimismo, los patrones deberán contar con el soporte, en medio físico o electrónico, en el que conste que los Trabajadores recibieron la ayuda alimentaria y que contenga al menos: el nombre del Trabajador, su clave en el registro federal de contribuyentes, clave única de registro de población, la modalidad, el monto cuantificable en dinero y la fecha o periodo de aplicación de la ayuda alimentaria recibida, así como el acuse de recibo del Trabajador.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:4",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "article",
+    "label": "Artículo 4",
+    "number": "4",
+    "heading_context": {
+      "title": "Título SEGUNDO",
+      "chapter": "Capítulo I"
+    },
+    "text": "Los patrones que otorguen ayuda alimentaria a sus Trabajadores, a través de la modalidad prevista en el inciso a) de la fracción I del artículo 7o. de la Ley, deberán:\n\nI. Cumplir con las características de una Dieta Correcta; II. Observar las condiciones y medidas de seguridad y salud en el trabajo previstas en la Ley Federal del Trabajo, el Reglamento Federal de Seguridad y Salud en el Trabajo, las Normas expedidas por la Secretaría y demás disposiciones aplicables, y\n\nIII. Cumplir con las normas a que se refiere el artículo 9 de la Ley.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:5",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "article",
+    "label": "Artículo 5",
+    "number": "5",
+    "heading_context": {
+      "title": "Título SEGUNDO",
+      "chapter": "Capítulo I"
+    },
+    "text": "Los Restaurantes o Establecimientos de Consumo de Alimentos que hayan sido contratados para otorgar ayuda alimentaria al Trabajador, a través de las modalidades previstas en los incisos b) y c) de la fracción I del artículo 7o. de la Ley, deberán cumplir con lo dispuesto en las fracciones I y II del artículo anterior y demás disposiciones jurídicas aplicables.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:6",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "article",
+    "label": "Artículo 6",
+    "number": "6",
+    "heading_context": {
+      "title": "Título SEGUNDO",
+      "chapter": "Capítulo I"
+    },
+    "text": "Los Vales de Comida se entregarán en función de los días que el Trabajador debe laborar en el periodo.\n\nEl patrón descontará al Trabajador los Vales de Comida de los días no laborados del periodo inmediato anterior.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:7",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "article",
+    "label": "Artículo 7",
+    "number": "7",
+    "heading_context": {
+      "title": "Título SEGUNDO",
+      "chapter": "Capítulo I"
+    },
+    "text": "Para efectos del artículo 12 de la Ley, queda prohibido para los propietarios y responsables de Comedores, Restaurantes o Establecimientos de Consumo de Alimentos; los Proveedores de Despensa y las Emisoras de Vales, que se encuentren dentro de un esquema de ayuda alimentaria implementado por un patrón para sus Trabajadores, además de lo establecido en dicho artículo, lo siguiente:\n\nI. Recibir Vales de Comida o Despensa fuera de su periodo de vigencia. En el caso de los Vales de Comida, su vigencia será de sesenta días naturales contados a partir de la fecha de su emisión;\n\nII. Entregar cambio en efectivo o mediante títulos de crédito por los consumos o compras realizadas, y\n\nIII. Recibir Vales de Comida o Despensa para adquirir bienes distintos a la Comida o Despensa.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:8",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "article",
+    "label": "Artículo 8",
+    "number": "8",
+    "heading_context": {
+      "title": "Título SEGUNDO",
+      "chapter": "Capítulo II"
+    },
+    "text": "La difusión de la campaña nacional permanente prevista en el artículo 14 de la Ley, deberá ser lo suficientemente amplia y concurrente en todos los medios de difusión a efecto de que se conozca a nivel nacional, entre los patrones y los Trabajadores, las distintas modalidades de ayuda alimentaria establecidas en la Ley.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:9",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "article",
+    "label": "Artículo 9",
+    "number": "9",
+    "heading_context": {
+      "title": "Título SEGUNDO",
+      "chapter": "Capítulo II"
+    },
+    "text": "La difusión de la ayuda alimentaria para los Trabajadores será congruente con las características o especificaciones que establezcan las disposiciones jurídicas aplicables.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:10",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "article",
+    "label": "Artículo 10",
+    "number": "10",
+    "heading_context": {
+      "title": "Título SEGUNDO",
+      "chapter": "Capítulo II"
+    },
+    "text": "La Secretaría de Salud, en coordinación con la Secretaría, establecerá los mensajes educativos en materia de promoción de la salud y orientación alimentaria, a fin de fomentar una alimentación que favorezca la adopción de una Dieta Correcta y la promoción de un estilo de vida saludable que prevenga la desnutrición, el sobrepeso y la obesidad.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:article:11",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "article",
+    "label": "Artículo 11",
+    "number": "11",
+    "heading_context": {
+      "title": "Título SEGUNDO",
+      "chapter": "Capítulo II"
+    },
+    "text": "La difusión de mensajes o información en materia de promoción de la salud y orientación alimentaria, que sea transmitida en cualquier medio de difusión, será educativa y deberá cumplir con las disposiciones jurídicas aplicables.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:transitory:primero",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "transitory",
+    "label": "PRIMERO",
+    "number": "PRIMERO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-laat:transitory:segundo",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-laat",
+    "provision_type": "transitory",
+    "label": "SEGUNDO",
+    "number": "SEGUNDO",
+    "heading_context": {
+      "title": null,
+      "chapter": null
+    },
+    "text": "La disposición contenida en la fracción I del artículo 7 de este Reglamento, respecto a la vigencia de los Vales de Comida, entrará en vigor a los ciento ochenta días naturales siguientes a la publicación del presente ordenamiento.",
+    "publication_date": "2015-06-04",
+    "effective_from": null,
+    "effective_to": null,
+    "temporal_status": "unknown",
+    "temporal_basis": null,
+    "temporal_confidence": null,
+    "review_status": "not_analyzed",
+    "transitory_effects": []
+  }
+]

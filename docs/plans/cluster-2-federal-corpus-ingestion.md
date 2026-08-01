@@ -72,6 +72,16 @@ Verified against local `main` at `736146bd8`:
   correctly handle both statutes' `1o.`–`9o.` ordinal-abbreviation article
   numbering; no parser code changed. AD2's individual-ingestion checkpoint is
   complete.
+- AD3 has committed all five instruments (2026-08-01, `docs/decisions.md`
+  same date): `lspcapf`, `lfremsp`, `locfcrl`, `reg-art121-122-lft`,
+  `reg-laat`, via `batches/administration_ad3_servicio_publico_laboral.json`.
+  `lspcapf` and `reg-art121-122-lft` hit the same `1o.`–`9o.` case (fourth
+  confirmed instance) — reviewed adapter setting, same fix. `lspcapf`
+  separately needed a real parser fix: `extract_reform_evidence`'s
+  publication-date regex didn't tolerate the `1º`-style day-of-month ordinal
+  mark that `extract_dof_publication`'s regex already handled; now both do.
+  `reg-laat` resolves the entry `batches/labor_L1_labor.json` had left
+  `blocked`. AD3's individual-ingestion checkpoint is complete.
 - Per-instrument counts, source and extracted-text hashes, and validation
   state are owned by each instrument's `corpus/mx/<slug>/validation.json` and
   `source-manifest.json` and are not restated here. The dated `Progress` log
@@ -90,10 +100,11 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-AD2 is closed. When general cluster-2 ingestion resumes, normalize the next
-prepared batch (per `prompts/lex-mex-federal-cluster-2-plan.md`'s admission
-order) into an operational manifest and provisionally process its first
-instrument. The separately authorized five-NOM Maximasa sequence does not
+AD1–AD3 are closed. When general cluster-2 ingestion resumes, normalize AD4
+(`cl2_AD4_proteccion_civil_misc`, the next batch per
+`prompts/lex-mex-federal-cluster-2-plan.md`'s admission order) into an
+operational manifest and provisionally process its first instrument. The
+separately authorized five-NOM Maximasa sequence does not
 reorder the prepared federal batches. Corpus-wide relinking and human
 expected-edge review remain separate work.
 
@@ -150,6 +161,31 @@ expected-edge review remain separate work.
   original transitories, one substantive appendix, 185 references including
   11 resolved LGS edges, stable source/formal hashes, and zero issues after
   freezing and bounded closure. `lgbn` remains the next AD1 instrument.
+- [x] (2026-08-01) Normalized and completed AD2 by ingesting and committing
+  `lspm`, `lfaebsp`, `reg-lfaebsp`, `reg-lopsrm`, `lfar` at `0f6fff7f8`: 574
+  articles, 32 original transitories, 184 references, all resolved, zero
+  validation errors across all five. `lspm` and `lfaebsp` failed provisional
+  review with the `1o.`–`9o.` ordinal-abbreviation article numbering
+  (matching `lfrsp`, 2026-07-18); the reviewed `allow_article_gaps: true`
+  adapter setting resolved both, no parser change. Directly verified (not
+  assumed) that the two instruments left on the strict path
+  (`reg-lfaebsp`, `reg-lopsrm`) were still safe by printing their full
+  article-number order. Full workspace gate, batch closure, and
+  `all_committed_batch_manifests_deserialize`'s updated frozen counts
+  passed. `docs/decisions.md` 2026-08-01.
+- [x] (2026-08-01) Normalized and completed AD3 by ingesting and committing
+  `lspcapf`, `lfremsp`, `locfcrl`, `reg-art121-122-lft`, `reg-laat`: 179 articles, 22 original
+  transitories, 49 references, all resolved, zero validation errors across
+  all five. `lspcapf` and `reg-art121-122-lft` hit the same `1o.`–`9o.` case
+  (fourth confirmed instance); same reviewed-adapter fix. `lspcapf`
+  separately needed a genuine parser fix: `extract_reform_evidence`'s
+  publication-date regex didn't tolerate the `1º`-style day-of-month
+  ordinal mark that `extract_dof_publication`'s regex already handled, so a
+  reform decree's own transitory hit a hard parse error; widened to match,
+  with new fixture `reform-ordinal-first-day-publication-sample.txt`.
+  `reg-laat` resolves the entry `batches/labor_L1_labor.json` had left
+  blocked. Full workspace gate (149 tests) and batch closure passed.
+  `docs/decisions.md` 2026-08-01.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
 
@@ -583,9 +619,9 @@ instrument-scoped source boundaries and aliases while preserving stable
 evidence IDs and canonical source text.
 Historical enactment-signature cleanup and corpus-wide relinking remain
 explicitly separate work; `archive/fable-cross-linking` preserves the divergent
-history for bounded reapplication rather than a future merge. AD1 is complete
-through `lgbn`; AD2 begins with `lspm`, and corpus-wide closure remains
-deferred until the broader cluster target set is admitted.
+history for bounded reapplication rather than a future merge. AD1, AD2, and
+AD3 are complete through `reg-laat`; AD4 is next, and corpus-wide closure
+remains deferred until the broader cluster target set is admitted.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 

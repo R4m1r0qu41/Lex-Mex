@@ -1,0 +1,22 @@
+{
+  "slug": "lspcapf",
+  "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley del Servicio Profesional de Carrera en la Administración Pública Federal",
+  "short_name": "LSPCAPF",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2003-04-10",
+  "expected_articles": 80,
+  "expected_transitories": 7,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-08-01T14:59:46Z"
+  },
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfremsp",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRemSP_190521.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfremsp.htm",
+  "retrieved_at": "2026-08-01T14:59:48.258136Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 253995,
+  "etag": "\"3e02b-5c2b140759180\"",
+  "last_modified": "Wed, 19 May 2021 16:23:50 GMT",
+  "source_sha256": "1ae9c606fad4de72ca0d2379696b39adb17826fbb112f1ae46c9acb952fa7a5d",
+  "extracted_text_sha256": "52bcd5b167aa69af8be7e895bd92887ae69768ef389fdc5d3ecf7444cc8d9e33",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "810418ecc854d081a235ad8e72292c0f4460a9a3"
+}

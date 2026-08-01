@@ -1,0 +1,13 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "administration_ad3_servicio_publico_laboral",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lspcapf",
+    "lfremsp",
+    "locfcrl",
+    "reg-art121-122-lft",
+    "reg-laat"
+  ],
+  "status": "unassigned"
+}

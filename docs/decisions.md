@@ -1,5 +1,54 @@
 # Architecture decisions
 
+## 2026-08-01 — AD3 admitted; a fourth `1o.` hit plus a genuine parser fix for `1º`-style day-of-month dates
+
+Continuing the same-day "test with a new batch processing" pass, after
+pushing AD2 to `origin/main`. AD3
+(`batches/administration_ad3_servicio_publico_laboral.json`, normalized from
+`prompts/cluster-2-batches/lex-mex-cl2-batch-AD3.json`) added `lspcapf`,
+`lfremsp`, `locfcrl`, `reg-art121-122-lft`, `reg-laat` — all five, closing
+AD3. `reg-laat` also resolves the entry `batches/labor_L1_labor.json` left
+`blocked` ("Not listed in Diputados reglamentos index"): the official regley
+URL was since located, and it pairs with the already-committed `laat`, not
+the Ley de Aeropuertos.
+
+**Fourth confirmed hit of the `1o.`–`9o.` ordinal case.** `lspcapf` and
+`reg-art121-122-lft` both failed the strict article-order check the same way
+`lfrsp` (2026-07-18), `lspm`, and `lfaebsp` (both AD2, same day) already had.
+Same fix, same reasoning as the AD2 entry above: reviewed
+`allow_article_gaps: true`, no parser change, no default change. Four
+independent statutes hitting the identical convention now firmly establishes
+it as an expected pattern on pre-1990s (and evidently some later) Cámara
+statutes, not an edge case.
+
+**A genuine parser gap, this time — not a review-gate near-miss.** `lspcapf`
+hit a second, unrelated failure: a hard parse error, not a validation
+warning. Its reform-decree appendix (`ARTÍCULOS TRANSITORIOS DE DECRETOS DE
+REFORMA`) cites a decree "Publicado en el Diario Oficial de la Federación el
+1º de septiembre de 2005" — the day-of-month ordinal mark (`º`), used
+specifically for the first of a month, the same grammatical device as the
+article-numbering `1o.` case but on a *date*, in a *different* regex.
+`extract_reform_evidence`'s local `publication_re`
+(`crates/lex-parse/src/diputados.rs`) required a bare `\d{1,2}` immediately
+before " de", so the date was never recognized, `publication_date` stayed
+`None`, and the decree's first transitory ("Primero") hit a hard
+"found reform transitory ... without its Diario Oficial publication date"
+error — no adapter setting could have fixed this, since the failure is
+inside parsing itself. `extract_dof_publication` (the *other* function that
+reads the consolidated document's own top-of-document publication note) had
+already solved this exact case with `(\d{1,2})[oº]?` — the fix here is
+widening `extract_reform_evidence`'s regex to match, closing a real
+inconsistency between two near-duplicate date patterns in the same file.
+New fixture `fixtures/diputados/reform-ordinal-first-day-publication-sample.txt`,
+built directly from the failing real document's structure (decree heading,
+`Artículo Unico`, a nested `TRANSITORIOS` heading, then `Primero`/`Segundo`).
+
+**Verification.** All five AD3 instruments validate clean, reverse-link with
+0 unresolved references (49 new edges). `all_committed_batch_manifests_deserialize`'s
+frozen counts updated again for the reviewed addition (31→32 manifests,
+162→167 unique instrument slugs). 149 workspace tests pass (1 new), fmt
+clean, clippy clean.
+
 ## 2026-08-01 — AD2 admitted; the provisional-review gate caught the same `1o`-style ordinal case it was built for
 
 Testing the merged post-transitory-supplements fix against a genuinely new

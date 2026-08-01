@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:locfcrl",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/locfcrl.htm",
+  "retrieved_at": "2026-08-01T14:59:51.749231Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 249075,
+  "etag": "\"3ccf3-5aed72e260ac0\"",
+  "last_modified": "Wed, 09 Sep 2020 01:14:59 GMT",
+  "source_sha256": "1b50289dd80607f83a22c917a3ead722edbf30ee45e8756b3d764f000e1ffc48",
+  "extracted_text_sha256": "63306f97fb7eb5bcc274c9f6e48ac95301b11912bff0676c839a0b755cf4ec65",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "810418ecc854d081a235ad8e72292c0f4460a9a3"
+}

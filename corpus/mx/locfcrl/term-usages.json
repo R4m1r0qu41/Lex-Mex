@@ -1,0 +1,1217 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:1:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:1",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:1:term-usage:405-408",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:1",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 405,
+    "end_char": 408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:1:term-usage:466-472",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:1",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 466,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:1:term-usage:494-497",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:1",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 494,
+    "end_char": 497
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:1:term-usage:570-573",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:1",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 570,
+    "end_char": 573
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:2:term-usage:44-47",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:2",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 44,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:2:term-usage:311-323",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:2",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:constitucion",
+    "span": "Constitución",
+    "start_char": 311,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:3:term-usage:25-28",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 25,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:3:term-usage:213-219",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 213,
+    "end_char": 219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:3:term-usage:267-273",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 267,
+    "end_char": 273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:3:term-usage:323-329",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 323,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:3:term-usage:403-409",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 403,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:3:term-usage:662-668",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 662,
+    "end_char": 668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:3:term-usage:849-855",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 849,
+    "end_char": 855
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:3:term-usage:894-897",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:3",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 894,
+    "end_char": 897
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:4:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:4",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:4:term-usage:135-152",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:4",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 135,
+    "end_char": 152
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:5:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:5",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:5:term-usage:288-300",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:5",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:constitucion",
+    "span": "Constitución",
+    "start_char": 288,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:5:term-usage:333-336",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:5",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 333,
+    "end_char": 336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:6:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:6",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:7:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:7",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:7:term-usage:152-158",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:7",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 152,
+    "end_char": 158
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:7:term-usage:686-692",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:7",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 686,
+    "end_char": 692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:7:term-usage:855-858",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:7",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 855,
+    "end_char": 858
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:8:term-usage:35-41",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:8",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 35,
+    "end_char": 41
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:8:term-usage:74-77",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:8",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 74,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:8:term-usage:183-195",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:8",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:constitucion",
+    "span": "Constitución",
+    "start_char": 183,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:16-22",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 16,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:754-757",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 754,
+    "end_char": 757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:785-788",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 785,
+    "end_char": 788
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:865-868",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 865,
+    "end_char": 868
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:896-899",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 896,
+    "end_char": 899
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:1383-1386",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 1383,
+    "end_char": 1386
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:1888-1891",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 1888,
+    "end_char": 1891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:2091-2094",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 2091,
+    "end_char": 2094
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:2462-2465",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 2462,
+    "end_char": 2465
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:2710-2722",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:constitucion",
+    "span": "Constitución",
+    "start_char": 2710,
+    "end_char": 2722
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:2731-2734",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 2731,
+    "end_char": 2734
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:3026-3032",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 3026,
+    "end_char": 3032
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:3313-3316",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 3313,
+    "end_char": 3316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:3413-3416",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 3413,
+    "end_char": 3416
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:9:term-usage:3450-3453",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:9",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 3450,
+    "end_char": 3453
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:10:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:10",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:10:term-usage:82-99",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:10",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 82,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:11:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:11",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:11:term-usage:70-92",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:11",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:secretaria-del-trabajo",
+    "span": "Secretaría del Trabajo",
+    "start_char": 70,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:11:term-usage:211-233",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:11",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:secretaria-de-hacienda",
+    "span": "Secretaría de Hacienda",
+    "start_char": 211,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:11:term-usage:689-706",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:11",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 689,
+    "end_char": 706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:211-217",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 211,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:322-325",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 322,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:468-474",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 468,
+    "end_char": 474
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:739-756",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 739,
+    "end_char": 756
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:911-917",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 911,
+    "end_char": 917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:1110-1116",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 1110,
+    "end_char": 1116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:1215-1221",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 1215,
+    "end_char": 1221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:1341-1347",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 1341,
+    "end_char": 1347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:1769-1775",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 1769,
+    "end_char": 1775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:2024-2030",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 2024,
+    "end_char": 2030
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:2157-2174",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 2157,
+    "end_char": 2174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:2501-2507",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 2501,
+    "end_char": 2507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:2696-2702",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 2696,
+    "end_char": 2702
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:2796-2799",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 2796,
+    "end_char": 2799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:12:term-usage:2824-2827",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:12",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 2824,
+    "end_char": 2827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:13:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:13",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:13:term-usage:449-466",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:13",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 449,
+    "end_char": 466
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:13:term-usage:529-535",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:13",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 529,
+    "end_char": 535
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:13:term-usage:622-639",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:13",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 622,
+    "end_char": 639
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:13:term-usage:779-796",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:13",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 779,
+    "end_char": 796
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:13:term-usage:909-926",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:13",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 909,
+    "end_char": 926
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:13:term-usage:963-985",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:13",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:secretaria-del-trabajo",
+    "span": "Secretaría del Trabajo",
+    "start_char": 963,
+    "end_char": 985
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:13:term-usage:1167-1173",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:13",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 1167,
+    "end_char": 1173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:13:term-usage:1327-1344",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:13",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1327,
+    "end_char": 1344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:14:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:14",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:14:term-usage:100-106",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:14",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 100,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:14:term-usage:230-233",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:14",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 230,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:14:term-usage:286-289",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:14",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 286,
+    "end_char": 289
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:15:term-usage:21-38",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:15",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 21,
+    "end_char": 38
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:16:term-usage:173-190",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:16",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 173,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:17:term-usage:54-71",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:17",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 54,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:17:term-usage:308-325",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:17",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 308,
+    "end_char": 325
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:18:term-usage:19-36",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:18",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 19,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:19:term-usage:3-20",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:19",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 3,
+    "end_char": 20
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:19:term-usage:163-185",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:19",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:secretaria-del-trabajo",
+    "span": "Secretaría del Trabajo",
+    "start_char": 163,
+    "end_char": 185
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:19:term-usage:227-244",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:19",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 227,
+    "end_char": 244
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:19:term-usage:444-450",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:19",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 444,
+    "end_char": 450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:19:term-usage:455-472",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:19",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 455,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:20:term-usage:33-39",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:20",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 33,
+    "end_char": 39
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:20:term-usage:144-156",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:20",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:constitucion",
+    "span": "Constitución",
+    "start_char": 144,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:20:term-usage:371-377",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:20",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 371,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:21:term-usage:34-40",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:21",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 34,
+    "end_char": 40
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:21:term-usage:93-105",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:21",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:constitucion",
+    "span": "Constitución",
+    "start_char": 93,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:21:term-usage:733-745",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:21",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:constitucion",
+    "span": "Constitución",
+    "start_char": 733,
+    "end_char": 745
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:21:term-usage:825-842",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:21",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 825,
+    "end_char": 842
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:21:term-usage:904-907",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:21",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 904,
+    "end_char": 907
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:36-42",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 36,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:156-162",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 156,
+    "end_char": 162
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:203-209",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 203,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:294-297",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 294,
+    "end_char": 297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:344-361",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 344,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:663-666",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 663,
+    "end_char": 666
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:794-811",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 794,
+    "end_char": 811
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:985-991",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 985,
+    "end_char": 991
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:1061-1067",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 1061,
+    "end_char": 1067
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:1316-1333",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1316,
+    "end_char": 1333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:1467-1470",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 1467,
+    "end_char": 1470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:1500-1503",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 1500,
+    "end_char": 1503
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:22:term-usage:1531-1537",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:22",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 1531,
+    "end_char": 1537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:23:term-usage:3-9",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:23",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 3,
+    "end_char": 9
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:23:term-usage:289-306",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:23",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 289,
+    "end_char": 306
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:23:term-usage:404-410",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:23",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 404,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:24:term-usage:87-93",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:24",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 87,
+    "end_char": 93
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:24:term-usage:578-584",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:24",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 578,
+    "end_char": 584
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:24:term-usage:792-798",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:24",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 792,
+    "end_char": 798
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:24:term-usage:1279-1285",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:24",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 1279,
+    "end_char": 1285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:24:term-usage:1580-1597",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:24",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 1580,
+    "end_char": 1597
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:25:term-usage:18-24",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:article:25",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 18,
+    "end_char": 24
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:primero:term-usage:12-15",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:primero",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 12,
+    "end_char": 15
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:segundo:term-usage:75-81",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 75,
+    "end_char": 81
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:segundo:term-usage:239-245",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 239,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:segundo:term-usage:274-291",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:junta-de-gobierno",
+    "span": "Junta de Gobierno",
+    "start_char": 274,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:segundo:term-usage:505-511",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 505,
+    "end_char": 511
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero:term-usage:187-190",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 187,
+    "end_char": 190
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero:term-usage:218-221",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 218,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero:term-usage:274-277",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 274,
+    "end_char": 277
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero:term-usage:318-321",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 318,
+    "end_char": 321
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero:term-usage:400-403",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 400,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero:term-usage:520-526",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 520,
+    "end_char": 526
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero:term-usage:759-781",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:secretaria-del-trabajo",
+    "span": "Secretaría del Trabajo",
+    "start_char": 759,
+    "end_char": 781
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero:term-usage:821-827",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 821,
+    "end_char": 827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero:term-usage:991-994",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:ley",
+    "span": "Ley",
+    "start_char": 991,
+    "end_char": 994
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero:term-usage:1115-1121",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:centro",
+    "span": "Centro",
+    "start_char": 1115,
+    "end_char": 1121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero:term-usage:1223-1245",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:secretaria-del-trabajo",
+    "span": "Secretaría del Trabajo",
+    "start_char": 1223,
+    "end_char": 1245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:cuarto:term-usage:541-553",
+    "provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:locfcrl:term:constitucion",
+    "span": "Constitución",
+    "start_char": 541,
+    "end_char": 553
+  }
+]

@@ -997,7 +997,7 @@ pub fn extract_reform_evidence(
     let headings = HeadingPatterns::new()?;
     let ordinals = transitory_ordinals();
     let publication_re = Regex::new(
-        r"(?i)publicad[oa] en el Diario Oficial de la Federación el (\d{1,2}) de ([a-zá-úñ]+) de (\d{4})",
+        r"(?i)publicad[oa] en el Diario Oficial de la Federación el (\d{1,2})[oº]? de ([a-zá-úñ]+) de (\d{4})",
     )?;
     let mut in_reform_appendix = false;
     let mut in_transitories = false;
@@ -1145,6 +1145,8 @@ mod tests {
         include_str!("../../../fixtures/diputados/substantive-appendix-sample.txt");
     const ARTICLE_QUINTUS_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/article-quintus-sample.txt");
+    const REFORM_ORDINAL_FIRST_DAY_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reform-ordinal-first-day-publication-sample.txt");
 
     fn options(instrument_id: &str, title: &str) -> DiputadosOptions {
         DiputadosOptions {
@@ -1572,6 +1574,37 @@ mod tests {
         assert_eq!(
             evidence[6].label,
             "Transitorio Único — Decreto 2 DOF 2023-09-22"
+        );
+    }
+
+    #[test]
+    fn a_first_of_month_publication_date_written_with_the_ordinal_mark_is_recognized() {
+        // "el 1º de septiembre de 2005" -- the day-of-month ordinal mark
+        // (º, or its ASCII "o" spelling) is common specifically for the
+        // first of a month. Before this fixture the publication-date regex
+        // inside extract_reform_evidence required a bare digit immediately
+        // before " de", so this decree's date was never recognized and its
+        // first transitory hit the "without its Diario Oficial publication
+        // date" hard error -- confirmed against a real committed source
+        // (lspcapf) where an Artículo Único plus a nested TRANSITORIOS
+        // heading sits between the decree heading and its transitories.
+        // extract_dof_publication's own regex already tolerates `[oº]?`;
+        // this one did not.
+        let evidence = super::extract_reform_evidence(
+            REFORM_ORDINAL_FIRST_DAY_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+        )
+        .expect("a 1º publication date must not strand the transitory that follows it");
+
+        assert_eq!(
+            evidence
+                .iter()
+                .map(|item| item.provision_id.as_str())
+                .collect::<Vec<_>>(),
+            [
+                "urn:lex-mx:federal:statute:sample:amendment:2005-09-01:transitory:primero",
+                "urn:lex-mx:federal:statute:sample:amendment:2005-09-01:transitory:segundo",
+            ]
         );
     }
 

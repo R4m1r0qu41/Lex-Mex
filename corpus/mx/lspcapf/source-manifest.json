@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/260.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lspcapf.htm",
+  "retrieved_at": "2026-08-01T14:59:44.068304Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 296682,
+  "etag": "\"486ea-576b6f14c7b00\"",
+  "last_modified": "Tue, 25 Sep 2018 19:16:28 GMT",
+  "source_sha256": "d0e88848d94fbf70ee742e9e57a5ee9c34e060b21215f2c7f98a02e1f307e424",
+  "extracted_text_sha256": "684c71feeab0e31d938d4467e97b57283fbc01aef66ae4788b4de08430831f68",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "810418ecc854d081a235ad8e72292c0f4460a9a3"
+}

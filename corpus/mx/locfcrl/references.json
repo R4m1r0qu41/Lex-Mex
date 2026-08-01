@@ -1,0 +1,61 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:2:reference:275-278:123:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:locfcrl:article:2",
+    "source_span": "123",
+    "start_char": 275,
+    "end_char": 278,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:123",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XX",
+        "start_char": 292,
+        "end_char": 303
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:article:8:reference:173-176:123:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:locfcrl:article:8",
+    "source_span": "123",
+    "start_char": 173,
+    "end_char": 176,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:123",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:locfcrl:transitory:cuarto:reference:532-534:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:locfcrl:transitory:cuarto",
+    "source_span": "89",
+    "start_char": 532,
+    "end_char": 534,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 508,
+        "end_char": 518
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

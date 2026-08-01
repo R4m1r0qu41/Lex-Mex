@@ -1,0 +1,101 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "term": "Sistema",
+    "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 147,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "term": "Administración Pública",
+    "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "fraction": "II",
+    "start_char": 147,
+    "end_char": 221,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "term": "Secretaría",
+    "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "fraction": "III",
+    "start_char": 221,
+    "end_char": 273,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:term:consejo",
+    "term": "Consejo",
+    "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "fraction": "IV",
+    "start_char": 273,
+    "end_char": 319,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "term": "Comités",
+    "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "fraction": "V",
+    "start_char": 319,
+    "end_char": 404,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
+    "term": "Registro",
+    "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "fraction": "VI",
+    "start_char": 404,
+    "end_char": 468,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:term:dependencia",
+    "term": "Dependencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "fraction": "VII",
+    "start_char": 468,
+    "end_char": 628,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:term:catalogo",
+    "term": "Catálogo",
+    "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "fraction": "VIII",
+    "start_char": 628,
+    "end_char": 794,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "term": "Servidor Público de Carrera",
+    "instrument_id": "urn:lex-mx:federal:statute:lspcapf",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "fraction": "IX",
+    "start_char": 794,
+    "end_char": 985,
+    "basis": "express_definition"
+  }
+]

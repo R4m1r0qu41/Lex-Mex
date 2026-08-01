@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:locfcrl",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica del Centro Federal de Conciliación y Registro Laboral",
+  "short_name": "LOCFCRL",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2020-01-06",
+  "latest_reform_date": null,
+  "retrieved_at": "2026-08-01T14:59:51.749231Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOCFCRL_060120.pdf",
+  "source_sha256": "1b50289dd80607f83a22c917a3ead722edbf30ee45e8756b3d764f000e1ffc48",
+  "extracted_text_sha256": "63306f97fb7eb5bcc274c9f6e48ac95301b11912bff0676c839a0b755cf4ec65",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

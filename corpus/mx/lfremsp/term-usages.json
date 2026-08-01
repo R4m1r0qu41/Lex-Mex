@@ -1,0 +1,119 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:9:term-usage:169-194",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:9",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:remuneracion-anual-maxima",
+    "span": "Remuneración Anual Máxima",
+    "start_char": 169,
+    "end_char": 194
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:10:term-usage:28-53",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:remuneracion-anual-maxima",
+    "span": "Remuneración Anual Máxima",
+    "start_char": 28,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:10:term-usage:456-489",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:producto-interno-bruto-per-capita",
+    "span": "Producto Interno Bruto per cápita",
+    "start_char": 456,
+    "end_char": 489
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:10:term-usage:535-568",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:producto-interno-bruto-per-capita",
+    "span": "Producto Interno Bruto per cápita",
+    "start_char": 535,
+    "end_char": 568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:10:term-usage:1062-1094",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:remuneracion-anual-de-referencia",
+    "span": "Remuneración Anual de Referencia",
+    "start_char": 1062,
+    "end_char": 1094
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:11:term-usage:199-231",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:remuneracion-anual-de-referencia",
+    "span": "Remuneración Anual de Referencia",
+    "start_char": 199,
+    "end_char": 231
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:11:term-usage:257-282",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:remuneracion-anual-maxima",
+    "span": "Remuneración Anual Máxima",
+    "start_char": 257,
+    "end_char": 282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:12:term-usage:3-28",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:remuneracion-anual-maxima",
+    "span": "Remuneración Anual Máxima",
+    "start_char": 3,
+    "end_char": 28
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:12:term-usage:217-242",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:remuneracion-anual-maxima",
+    "span": "Remuneración Anual Máxima",
+    "start_char": 217,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:12:term-usage:281-328",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:producto-interno-bruto-per-capita-de-referencia",
+    "span": "Producto Interno Bruto per cápita de referencia",
+    "start_char": 281,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:12:term-usage:668-693",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:remuneracion-anual-maxima",
+    "span": "Remuneración Anual Máxima",
+    "start_char": 668,
+    "end_char": 693
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:article:12:term-usage:1194-1219",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:remuneracion-anual-maxima",
+    "span": "Remuneración Anual Máxima",
+    "start_char": 1194,
+    "end_char": 1219
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:transitory:quinto:term-usage:28-53",
+    "provision_id": "urn:lex-mx:federal:statute:lfremsp:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lfremsp:term:remuneracion-anual-maxima",
+    "span": "Remuneración Anual Máxima",
+    "start_char": 28,
+    "end_char": 53
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:term:producto-interno-bruto-per-capita",
+    "term": "Producto Interno Bruto per cápita",
+    "instrument_id": "urn:lex-mx:federal:statute:lfremsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfremsp:article:10",
+    "fraction": "I",
+    "start_char": 101,
+    "end_char": 452,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:term:producto-interno-bruto-per-capita-de-referencia",
+    "term": "Producto Interno Bruto per cápita de referencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lfremsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfremsp:article:10",
+    "fraction": "II",
+    "start_char": 452,
+    "end_char": 750,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:term:rangos-funcionales",
+    "term": "Rangos funcionales",
+    "instrument_id": "urn:lex-mx:federal:statute:lfremsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfremsp:article:10",
+    "fraction": "III",
+    "start_char": 750,
+    "end_char": 912,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:term:remuneracion-anual-maxima",
+    "term": "Remuneración Anual Máxima",
+    "instrument_id": "urn:lex-mx:federal:statute:lfremsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfremsp:article:10",
+    "fraction": "IV",
+    "start_char": 912,
+    "end_char": 1130,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfremsp:term:remuneracion-anual-de-referencia",
+    "term": "Remuneración Anual de Referencia",
+    "instrument_id": "urn:lex-mx:federal:statute:lfremsp",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfremsp:article:10",
+    "fraction": "V",
+    "start_char": 1130,
+    "end_char": 1340,
+    "basis": "express_definition"
+  }
+]

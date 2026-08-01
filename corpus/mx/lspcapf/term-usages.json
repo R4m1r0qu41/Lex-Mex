@@ -1,0 +1,1928 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:1:term-usage:108-115",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 108,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:1:term-usage:177-199",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 177,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:1:term-usage:295-317",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 295,
+    "end_char": 317
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:2:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:2:term-usage:258-265",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 258,
+    "end_char": 265
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:2:term-usage:338-348",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 338,
+    "end_char": 348
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:2:term-usage:439-461",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 439,
+    "end_char": 461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:2:term-usage:498-505",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 498,
+    "end_char": 505
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:3:term-usage:101-123",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 101,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:3:term-usage:309-316",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 309,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:3:term-usage:670-692",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 670,
+    "end_char": 692
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:3:term-usage:895-917",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 895,
+    "end_char": 917
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:4:term-usage:397-404",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:4",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 397,
+    "end_char": 404
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:5:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:5:term-usage:45-53",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:catalogo",
+    "span": "Catálogo",
+    "start_char": 45,
+    "end_char": 53
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:5:term-usage:527-537",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 527,
+    "end_char": 537
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:6:term-usage:78-100",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 78,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:6:term-usage:307-314",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 307,
+    "end_char": 314
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:7:term-usage:626-636",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 626,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:7:term-usage:793-803",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 793,
+    "end_char": 803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:8:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:8:term-usage:101-111",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 101,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:10:term-usage:212-239",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 212,
+    "end_char": 239
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:10:term-usage:1000-1006",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comité",
+    "start_char": 1000,
+    "end_char": 1006
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:11:term-usage:192-199",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 192,
+    "end_char": 199
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:11:term-usage:423-430",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:11",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 423,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:13:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:13:term-usage:416-438",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 416,
+    "end_char": 438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:13:term-usage:655-662",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 655,
+    "end_char": 662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:13:term-usage:1128-1135",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 1128,
+    "end_char": 1135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:13:term-usage:1377-1399",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 1377,
+    "end_char": 1399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:13:term-usage:2401-2408",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 2401,
+    "end_char": 2408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:13:term-usage:2637-2644",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 2637,
+    "end_char": 2644
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:13:term-usage:2696-2706",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2696,
+    "end_char": 2706
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:13:term-usage:2787-2809",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 2787,
+    "end_char": 2809
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:13:term-usage:2825-2832",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 2825,
+    "end_char": 2832
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:13:term-usage:2908-2918",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 2908,
+    "end_char": 2918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:106-113",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 106,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:300-308",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:catalogo",
+    "span": "Catálogo",
+    "start_char": 300,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:351-361",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 351,
+    "end_char": 361
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:427-435",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:catalogo",
+    "span": "Catálogo",
+    "start_char": 427,
+    "end_char": 435
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:453-461",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
+    "span": "Registro",
+    "start_char": 453,
+    "end_char": 461
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:575-583",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
+    "span": "Registro",
+    "start_char": 575,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:781-803",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 781,
+    "end_char": 803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:926-933",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 926,
+    "end_char": 933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1020-1027",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 1020,
+    "end_char": 1027
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1132-1154",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 1132,
+    "end_char": 1154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1295-1302",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 1295,
+    "end_char": 1302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1379-1387",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:catalogo",
+    "span": "Catálogo",
+    "start_char": 1379,
+    "end_char": 1387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1602-1624",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 1602,
+    "end_char": 1624
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:14:term-usage:1677-1684",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 1677,
+    "end_char": 1684
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:15:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:15:term-usage:143-165",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 143,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:16:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:16:term-usage:223-230",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 223,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:17:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:17:term-usage:66-73",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 66,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:17:term-usage:90-98",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:17",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
+    "span": "Registro",
+    "start_char": 90,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:18:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:18",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
+    "span": "Registro",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:19:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:19:term-usage:180-188",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:catalogo",
+    "span": "Catálogo",
+    "start_char": 180,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:20:term-usage:24-32",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
+    "span": "Registro",
+    "start_char": 24,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:20:term-usage:73-80",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:20",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 73,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:21:term-usage:27-34",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:21",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 27,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:22:term-usage:43-50",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 43,
+    "end_char": 50
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:22:term-usage:93-115",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:22",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 93,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:23:term-usage:133-140",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 133,
+    "end_char": 140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:23:term-usage:411-421",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:23",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 411,
+    "end_char": 421
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:24:term-usage:113-119",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comité",
+    "start_char": 113,
+    "end_char": 119
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:25:term-usage:4-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:25",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 4,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:26:term-usage:84-91",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:26",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 84,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:28:term-usage:143-150",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:28",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 143,
+    "end_char": 150
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:29:term-usage:142-149",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 142,
+    "end_char": 149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:29:term-usage:437-443",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comité",
+    "start_char": 437,
+    "end_char": 443
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:29:term-usage:702-709",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:29",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 702,
+    "end_char": 709
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:30:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:30:term-usage:154-161",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 154,
+    "end_char": 161
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:30:term-usage:324-331",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 324,
+    "end_char": 331
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:32:term-usage:41-51",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:32",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 41,
+    "end_char": 51
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:33:term-usage:37-44",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 37,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:33:term-usage:86-113",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 86,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:33:term-usage:293-299",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:33",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comité",
+    "start_char": 293,
+    "end_char": 299
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:34:term-usage:786-793",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 786,
+    "end_char": 793
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:34:term-usage:865-875",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 865,
+    "end_char": 875
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:36:term-usage:4-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 4,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:36:term-usage:36-46",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 36,
+    "end_char": 46
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:36:term-usage:123-131",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:36",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:catalogo",
+    "span": "Catálogo",
+    "start_char": 123,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:37:term-usage:65-72",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 65,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:37:term-usage:226-233",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 226,
+    "end_char": 233
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:37:term-usage:556-563",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 556,
+    "end_char": 563
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:37:term-usage:755-762",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:37",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 755,
+    "end_char": 762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:38:term-usage:5-32",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 5,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:38:term-usage:56-62",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:38",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comité",
+    "start_char": 56,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:39:term-usage:19-26",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:39",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 19,
+    "end_char": 26
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:40:term-usage:45-67",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 45,
+    "end_char": 67
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:40:term-usage:93-101",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:catalogo",
+    "span": "Catálogo",
+    "start_char": 93,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:40:term-usage:173-180",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 173,
+    "end_char": 180
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:41:term-usage:90-100",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 90,
+    "end_char": 100
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:41:term-usage:267-275",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:41",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:catalogo",
+    "span": "Catálogo",
+    "start_char": 267,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:43:term-usage:70-80",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 70,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:44:term-usage:208-230",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 208,
+    "end_char": 230
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:44:term-usage:235-245",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:44",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 235,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:45:term-usage:4-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 4,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:45:term-usage:295-305",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 295,
+    "end_char": 305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:45:term-usage:400-407",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 400,
+    "end_char": 407
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:45:term-usage:469-479",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 469,
+    "end_char": 479
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:45:term-usage:549-556",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:45",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 549,
+    "end_char": 556
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:47:term-usage:278-285",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 278,
+    "end_char": 285
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:47:term-usage:309-319",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:47",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 309,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:48:term-usage:209-216",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 209,
+    "end_char": 216
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:49:term-usage:70-80",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:49",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 70,
+    "end_char": 80
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:50:term-usage:4-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 4,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:50:term-usage:35-45",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 35,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:51:term-usage:3-30",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 3,
+    "end_char": 30
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:51:term-usage:248-275",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 248,
+    "end_char": 275
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:52:term-usage:158-168",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 158,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:52:term-usage:436-463",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 436,
+    "end_char": 463
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:52:term-usage:470-477",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 470,
+    "end_char": 477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:53:term-usage:59-86",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 59,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:53:term-usage:518-545",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 518,
+    "end_char": 545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:53:term-usage:552-574",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 552,
+    "end_char": 574
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:53:term-usage:620-628",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
+    "span": "Registro",
+    "start_char": 620,
+    "end_char": 628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:56:term-usage:85-112",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 85,
+    "end_char": 112
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:57:term-usage:5-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comité",
+    "start_char": 5,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:57:term-usage:81-91",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 81,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:57:term-usage:241-247",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comité",
+    "start_char": 241,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:57:term-usage:608-615",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 608,
+    "end_char": 615
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:57:term-usage:940-948",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
+    "span": "Registro",
+    "start_char": 940,
+    "end_char": 948
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:58:term-usage:4-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 4,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:58:term-usage:35-45",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 35,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:58:term-usage:126-133",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 126,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:58:term-usage:342-369",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 342,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:58:term-usage:376-383",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 376,
+    "end_char": 383
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:59:term-usage:57-84",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:59",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 57,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:60:term-usage:490-500",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 490,
+    "end_char": 500
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:60:term-usage:1095-1105",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:60",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1095,
+    "end_char": 1105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:61:term-usage:38-65",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 38,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:61:term-usage:91-97",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comité",
+    "start_char": 91,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:61:term-usage:327-334",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 327,
+    "end_char": 334
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:61:term-usage:394-400",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:61",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comité",
+    "start_char": 394,
+    "end_char": 400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:62:term-usage:25-52",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 25,
+    "end_char": 52
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:62:term-usage:89-116",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 89,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:64:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:64:term-usage:104-111",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 104,
+    "end_char": 111
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:66:term-usage:4-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 4,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:66:term-usage:68-78",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 68,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:66:term-usage:122-129",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 122,
+    "end_char": 129
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:67:term-usage:85-92",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 85,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:67:term-usage:133-143",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 133,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:67:term-usage:194-201",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 194,
+    "end_char": 201
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:67:term-usage:236-243",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:consejo",
+    "span": "Consejo",
+    "start_char": 236,
+    "end_char": 243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:67:term-usage:277-287",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 277,
+    "end_char": 287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:67:term-usage:463-470",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 463,
+    "end_char": 470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:67:term-usage:483-490",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 483,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:67:term-usage:539-546",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 539,
+    "end_char": 546
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:67:term-usage:626-636",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 626,
+    "end_char": 636
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:68:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:68:term-usage:98-105",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 98,
+    "end_char": 105
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:68:term-usage:210-217",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 210,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:119-126",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 119,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:264-271",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 264,
+    "end_char": 271
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:317-324",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 317,
+    "end_char": 324
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:423-430",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 423,
+    "end_char": 430
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:505-512",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 505,
+    "end_char": 512
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:657-664",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 657,
+    "end_char": 664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:930-937",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 930,
+    "end_char": 937
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:1040-1047",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 1040,
+    "end_char": 1047
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:1352-1359",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 1352,
+    "end_char": 1359
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:1651-1658",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 1651,
+    "end_char": 1658
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:1956-1963",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 1956,
+    "end_char": 1963
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:69:term-usage:2160-2167",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:69",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 2160,
+    "end_char": 2167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:70:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:70:term-usage:41-48",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 41,
+    "end_char": 48
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:70:term-usage:88-98",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 88,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:70:term-usage:232-242",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 232,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:70:term-usage:465-472",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:consejo",
+    "span": "Consejo",
+    "start_char": 465,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:70:term-usage:533-540",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 533,
+    "end_char": 540
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:70:term-usage:625-647",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 625,
+    "end_char": 647
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:70:term-usage:770-777",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 770,
+    "end_char": 777
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:70:term-usage:1097-1104",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:70",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:consejo",
+    "span": "Consejo",
+    "start_char": 1097,
+    "end_char": 1104
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:71:term-usage:3-10",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:consejo",
+    "span": "Consejo",
+    "start_char": 3,
+    "end_char": 10
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:71:term-usage:49-59",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:71",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 49,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:72:term-usage:36-42",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comité",
+    "start_char": 36,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:72:term-usage:141-148",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:72",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 141,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:73:term-usage:4-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 4,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:74:term-usage:4-11",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 4,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:74:term-usage:146-156",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 146,
+    "end_char": 156
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:74:term-usage:217-223",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comité",
+    "start_char": 217,
+    "end_char": 223
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:74:term-usage:285-291",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comité",
+    "start_char": 285,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:74:term-usage:603-613",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 603,
+    "end_char": 613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:75:term-usage:25-32",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 25,
+    "end_char": 32
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:75:term-usage:181-188",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 181,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:75:term-usage:299-309",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 299,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:75:term-usage:400-410",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 400,
+    "end_char": 410
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:75:term-usage:555-565",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 555,
+    "end_char": 565
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:76:term-usage:144-154",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:76",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 144,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:77:term-usage:751-761",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 751,
+    "end_char": 761
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:77:term-usage:893-903",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 893,
+    "end_char": 903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:article:77:term-usage:1135-1145",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 1135,
+    "end_char": 1145
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:segundo:term-usage:140-147",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:consejo",
+    "span": "Consejo",
+    "start_char": 140,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:tercero:term-usage:227-237",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 227,
+    "end_char": 237
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:tercero:term-usage:296-303",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 296,
+    "end_char": 303
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:tercero:term-usage:530-557",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:servidor-publico-de-carrera",
+    "span": "Servidor Público de Carrera",
+    "start_char": 530,
+    "end_char": 557
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:cuarto:term-usage:56-66",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 56,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:cuarto:term-usage:94-101",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 94,
+    "end_char": 101
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:cuarto:term-usage:370-377",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 370,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:cuarto:term-usage:637-645",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:registro",
+    "span": "Registro",
+    "start_char": 637,
+    "end_char": 645
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:quinto:term-usage:418-425",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:sistema",
+    "span": "Sistema",
+    "start_char": 418,
+    "end_char": 425
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:quinto:term-usage:431-438",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:comites",
+    "span": "Comités",
+    "start_char": 431,
+    "end_char": 438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:sexto:term-usage:3-13",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:sexto",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 3,
+    "end_char": 13
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:septimo:term-usage:280-302",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:administracion-publica",
+    "span": "Administración Pública",
+    "start_char": 280,
+    "end_char": 302
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lspcapf:transitory:septimo:term-usage:593-603",
+    "provision_id": "urn:lex-mx:federal:statute:lspcapf:transitory:septimo",
+    "term_id": "urn:lex-mx:federal:statute:lspcapf:term:secretaria",
+    "span": "Secretaría",
+    "start_char": 593,
+    "end_char": 603
+  }
+]

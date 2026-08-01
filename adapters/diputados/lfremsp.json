@@ -1,0 +1,22 @@
+{
+  "slug": "lfremsp",
+  "instrument_id": "urn:lex-mx:federal:statute:lfremsp",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal de Remuneraciones de los Servidores Públicos",
+  "short_name": "LFREMSP",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFRemSP_190521.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfremsp.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2021-05-19",
+  "expected_articles": 34,
+  "expected_transitories": 5,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-08-01T14:56:16Z"
+  },
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}
