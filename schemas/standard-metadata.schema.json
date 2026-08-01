@@ -93,7 +93,10 @@
     "objective": { "type": ["string", "null"] },
     "scope": { "type": ["string", "null"] },
     "conformity_assessment": { "type": ["string", "null"] },
-    "text_basis": { "enum": ["as_published", "official_compilation"] },
+    "text_basis": {
+      "description": "derived_consolidation is reserved for Scope 2 Stage C's sequential canonical-state fold (docs/decisions.md 2026-07-31); no committed standard uses it yet.",
+      "enum": ["as_published", "official_compilation", "derived_consolidation"]
+    },
     "modifications": {
       "type": "array",
       "items": { "$ref": "#/$defs/modification" }

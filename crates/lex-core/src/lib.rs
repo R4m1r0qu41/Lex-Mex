@@ -55,6 +55,62 @@ pub enum TechnicalReviewStatus {
 pub enum StandardTextBasis {
     AsPublished,
     OfficialCompilation,
+    /// Built by the sequential canonical-state fold (Scope 2 Stage C,
+    /// `docs/decisions.md` 2026-07-31): a strict left fold over the
+    /// instrument's own decree history, not the publisher's own compiled
+    /// text. No committed standard uses this yet -- Stage C is not wired
+    /// into any parser or CLI command. Landed now, ahead of that wiring, so
+    /// the schema and this enum do not have to change again once it is.
+    DerivedConsolidation,
+}
+
+/// One per-unit decision within a decree's `apply()` step in the sequential
+/// canonical-state fold (Scope 2 Stage C's candidate engine, `docs/decisions.md`
+/// 2026-07-31): `canonical := base; for decree in chronological order:
+/// canonical := apply(canonical, decree)`.
+///
+/// Deliberately three variants and no fourth "delete": the doctrine's own
+/// rule is that nothing is ever removed from the structure or renumbered
+/// around -- a repealed unit becomes [`Self::Replace`] with a `derogado`
+/// marker recording the repealing decree, in place, matching how DOF's own
+/// compiled texts render repeals.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case", tag = "operation")]
+pub enum CanonicalFoldOperation {
+    /// The decree gives explicit new text for this unit.
+    Replace { text: String },
+    /// Ellipsis: this unit's content and position are both unchanged by
+    /// this decree.
+    Keep,
+    /// The decree's own resolving-clause prose renumbers this unit
+    /// ("recorriéndose los demás en su orden") without changing its
+    /// content. Collapsing this into [`Self::Keep`] is the specific way a
+    /// naive fold implementation silently mislabels a provision.
+    Shift { new_position: String },
+}
+
+/// Fold one unit's chronological decree history into its current text and
+/// position. A pure function over already-classified per-decree operations
+/// -- it does not read a decree's prose or classify ellipsis-diff itself
+/// (that is the unwired, not-yet-scoped part of Stage C); this is the
+/// annex-independent core the doctrine describes, isolated so it can be
+/// exercised and trusted before anything reads a real decree body.
+#[must_use]
+pub fn fold_unit(
+    initial_text: &str,
+    initial_position: &str,
+    steps: &[CanonicalFoldOperation],
+) -> (String, String) {
+    let mut text = initial_text.to_owned();
+    let mut position = initial_position.to_owned();
+    for step in steps {
+        match step {
+            CanonicalFoldOperation::Replace { text: new_text } => text.clone_from(new_text),
+            CanonicalFoldOperation::Keep => {}
+            CanonicalFoldOperation::Shift { new_position } => position.clone_from(new_position),
+        }
+    }
+    (text, position)
 }
 
 /// What a modifying decree does to one addressed unit of a standard.
@@ -828,4 +884,82 @@ pub struct ValidationReport {
     #[serde(default)]
     pub reference_count: usize,
     pub issues: Vec<ValidationIssue>,
+}
+
+#[cfg(test)]
+mod fold_tests {
+    use super::{CanonicalFoldOperation, fold_unit};
+
+    #[test]
+    fn keep_carries_the_base_text_and_position_forward_unchanged() {
+        let (text, position) = fold_unit(
+            "Texto original.",
+            "tercer párrafo",
+            &[CanonicalFoldOperation::Keep],
+        );
+        assert_eq!(text, "Texto original.");
+        assert_eq!(position, "tercer párrafo");
+    }
+
+    #[test]
+    fn replace_changes_text_but_not_position() {
+        let (text, position) = fold_unit(
+            "Texto original.",
+            "tercer párrafo",
+            &[CanonicalFoldOperation::Replace {
+                text: "Texto reformado.".to_owned(),
+            }],
+        );
+        assert_eq!(text, "Texto reformado.");
+        assert_eq!(position, "tercer párrafo");
+    }
+
+    #[test]
+    fn shift_moves_position_without_touching_content_and_is_not_keep() {
+        // The doctrine's own warning: collapsing `Shift` into `Keep` is the
+        // specific way a naive fold silently mislabels a provision whose
+        // content the ellipsis left alone but whose ordinal position the
+        // decree's own "recorriéndose los demás en su orden" prose moved.
+        let (text, position) = fold_unit(
+            "Texto original.",
+            "tercer párrafo",
+            &[CanonicalFoldOperation::Shift {
+                new_position: "cuarto párrafo".to_owned(),
+            }],
+        );
+        assert_eq!(text, "Texto original.", "shift must not touch content");
+        assert_ne!(
+            CanonicalFoldOperation::Shift {
+                new_position: "cuarto párrafo".to_owned()
+            },
+            CanonicalFoldOperation::Keep,
+            "shift and keep must remain distinct operations"
+        );
+        assert_eq!(position, "cuarto párrafo");
+    }
+
+    #[test]
+    fn a_chronological_sequence_folds_left_to_right_over_the_previous_result() {
+        // canonical := base; for decree in chronological order:
+        // canonical := apply(canonical, decree) -- each step sees the prior
+        // step's output, not the original base every time. This is exactly
+        // the bug the doctrine was proposed to correct: a draft that took
+        // each decree's restatement in isolation against the base, rather
+        // than against the running canonical state.
+        let steps = [
+            CanonicalFoldOperation::Replace {
+                text: "Primera reforma.".to_owned(),
+            },
+            CanonicalFoldOperation::Keep,
+            CanonicalFoldOperation::Shift {
+                new_position: "cuarto párrafo".to_owned(),
+            },
+            CanonicalFoldOperation::Replace {
+                text: "(Derogado, D.O.F. 2026-07-31)".to_owned(),
+            },
+        ];
+        let (text, position) = fold_unit("Texto original.", "tercer párrafo", &steps);
+        assert_eq!(text, "(Derogado, D.O.F. 2026-07-31)");
+        assert_eq!(position, "cuarto párrafo");
+    }
 }

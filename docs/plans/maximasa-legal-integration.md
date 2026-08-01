@@ -487,10 +487,15 @@ stays deferred, same acquisition-drift reasoning as the CNBV marker-cap fix
 the same day. Full reasoning: `docs/decisions.md` 2026-07-31.
 
 Stage C remains unstarted, still sitting on `transitory-absorbs-annex` and
-the annex-modeling decision.
+the annex-modeling decision — both reserved by the operator for separate
+handling.
 
 **Design proposal, 2026-07-31 (`docs/decisions.md` same date), leading
-candidate for Stage C's engine — awaiting sign-off, not implemented.**
+candidate for Stage C's engine — doctrine signed off 2026-07-31, planning
+pass and annex-independent data model landed the same day
+(`docs/plans/sequential-canonical-fold.md`); the engine itself
+(parsing a real decree's ellipsis-diff prose, wiring into a command) is
+still not implemented and stays blocked on the annex-modeling decision.**
 Validated against a real pilot outside the standards module (SHCP/CNBV art.
 115 LIC disposiciones, no consolidated text either, `docs/plans/cnbv-art115-
 lic-consolidation.md`), which found the *same* ellipsis-diff mechanism NOM

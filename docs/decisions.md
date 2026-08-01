@@ -1,5 +1,36 @@
 # Architecture decisions
 
+## 2026-07-31 — Sequential-fold planning pass landed; the engine itself stays unbuilt
+
+Operator sign-off on the fold doctrine (below, same date) arrived via the
+directive "go for 1." M4's own rule requires a fresh planning pass and
+sign-off on the trusted-boundary shape before implementation
+(`docs/plans/maximasa-legal-integration.md`) — that planning pass is
+`docs/plans/sequential-canonical-fold.md`, written now, mirroring how
+`standards-amendment-marks.md` preceded Stage A.
+
+**Deliberately partial, and the boundary is the point.** This lands the plan
+doc plus the pieces of the data model that do not depend on the
+annex-modeling question the operator is taking into a separate worktree:
+`StandardTextBasis::DerivedConsolidation` (schema value Stage C's output
+will eventually assert; no committed standard uses it), `CanonicalFoldOperation`
+(`Replace`/`Keep`/`Shift`, the doctrine's three per-unit operations and no
+fourth "delete", matching the doctrine's own no-deletion rule), and
+`fold_unit`, a pure function folding one unit's chronological operation list
+into `(text, position)` — the isolated bookkeeping core of `apply()`, proven
+against a synthetic decree history. **It does not parse a real decree's
+ellipsis-diff prose, does not add a `standards consolidate` command, and does
+not touch NOM-247 or any other committed record.** That is the actual hard
+part of Stage C and stays unbuilt, gated on the annex decision as before.
+
+Verified the same way Stage A and Stage B were: `StandardTextBasis` is
+matched exhaustively at its one call site, so the compiler itself refused to
+build until the new variant was handled — not asserted, forced. All 29
+committed standards re-run through `standards refresh` at zero-byte diff, and
+both schemas re-validate at 0 violations, including a synthetic document
+that sets `text_basis: "derived_consolidation"` and validates successfully.
+144 workspace tests pass (4 new), fmt clean, clippy clean.
+
 ## 2026-07-31 — Packet-based review assignment landed: `batch_id` is the grouping key
 
 Operator go-ahead. Staged 2026-07-28 (`docs/plans/maximasa-legal-integration.md`

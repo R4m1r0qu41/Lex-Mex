@@ -590,6 +590,7 @@ fn standard_text_basis_name(value: &StandardTextBasis) -> &'static str {
     match value {
         StandardTextBasis::AsPublished => "as_published",
         StandardTextBasis::OfficialCompilation => "official_compilation",
+        StandardTextBasis::DerivedConsolidation => "derived_consolidation",
     }
 }
 
