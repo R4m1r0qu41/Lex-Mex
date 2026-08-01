@@ -64,6 +64,19 @@ packet's state survives a re-run); `assign <packet-id> --reviewer <name>`
 refuses on any packet not currently `unassigned`, so reassignment stays a
 deliberate, separate act rather than a silent overwrite.
 
+**A known staleness gap, stated plainly rather than discovered later as a
+bug**: `generate`'s refuse-to-overwrite guarantee protects an assignment, but
+it means a packet's `instruments` list is frozen at generation time. If a
+batch later gains a newly-committed instrument, its existing packet does not
+grow to include it, and nothing detects the drift — there is no
+re-derive-and-compare check here the way `standards refresh` gives the
+standards module. An `unassigned` packet is harmless to regenerate (delete
+and re-run `generate`); an `assigned` or further-along packet is not, since
+that would discard real reviewer state. Reconciling a packet's membership
+after the fact — adding newly-committed instruments to an already-assigned
+packet without disturbing its status — is not built and is the natural
+follow-up once this gap is hit for real.
+
 **Deferred, per the plan's own text**: a way for a reviewer to flag a missing
 backlink on the fly, and any link from a completed packet review back into an
 instrument's `legal_review_status`. Neither is scoped here.

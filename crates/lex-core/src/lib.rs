@@ -375,6 +375,11 @@ pub enum ReviewStatus {
 /// verdict of its own. Reviewing a packet does not set any instrument's
 /// review status; that link is deliberately not built yet (see
 /// `docs/decisions.md`, packet-based review assignment).
+///
+/// `instruments` is frozen at generation time -- if a batch later gains a
+/// newly-committed instrument, its existing packet does not grow to include
+/// it, and nothing detects the drift. Reconciling membership after the fact
+/// is not built; see `docs/decisions.md` 2026-07-31 for the known gap.
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct ReviewPacket {
     pub schema_version: String,
