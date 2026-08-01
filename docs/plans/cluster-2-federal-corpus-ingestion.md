@@ -174,7 +174,8 @@ expected-edge review remain separate work.
   `all_committed_batch_manifests_deserialize`'s updated frozen counts
   passed. `docs/decisions.md` 2026-08-01.
 - [x] (2026-08-01) Normalized and completed AD3 by ingesting and committing
-  `lspcapf`, `lfremsp`, `locfcrl`, `reg-art121-122-lft`, `reg-laat`: 179 articles, 22 original
+  `lspcapf`, `lfremsp`, `locfcrl`, `reg-art121-122-lft`, `reg-laat` at
+  `f1be17292`: 179 articles, 22 original
   transitories, 49 references, all resolved, zero validation errors across
   all five. `lspcapf` and `reg-art121-122-lft` hit the same `1o.`–`9o.` case
   (fourth confirmed instance); same reviewed-adapter fix. `lspcapf`
