@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfprh",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPRH.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LFPRH.pdf",
+  "retrieved_at": "2026-08-01T19:31:52.061286Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 1369661,
+  "etag": "\"14e63d-63f1d5fbbab40\"",
+  "last_modified": "Fri, 19 Sep 2025 01:27:33 GMT",
+  "source_sha256": "030ed4c6e3950adecfd4c6376b31d216dc4d876d90b21190c982bccac0b03d7a",
+  "extracted_text_sha256": "fb8c5e0815e166315a348d684cd4a3b75dee4f3839d9cb1001e4abca2dbe4332",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "c71e0d64a9a332768579bf9f08e9e6c84d891771"
+}

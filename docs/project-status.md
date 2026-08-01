@@ -2,8 +2,8 @@
 
 - **Status date:** 2026-08-01
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 198 (166 federal corpus instruments plus 32 NOMs)
-- **Active ingestion batch:** `administration_ad4_proteccion_civil_misc` — complete (5/5)
+- **Committed instruments:** 208 (176 federal corpus instruments plus 32 NOMs)
+- **Active ingestion batch:** `tax_TX3_impuestos_aduanas` — complete (2/3; `lisipl` held out)
 - **Next checkpoint:** normalize and admit the next prepared cluster-2 batch
 - **Current legal reviewer:** JRH
 
@@ -23,23 +23,23 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 198 |
-| Articles | 34,217 |
-| Original transitory provisions | 1,323 |
+| Instruments | 208 |
+| Articles | 36,024 |
+| Original transitory provisions | 1,388 |
 | Annexes | 29 |
 | Standard clauses | 3,885 |
 | Standard transitory provisions | 100 |
 | Standard post-transitory supplements | 78 |
-| Reference edges | 17,456 |
+| Reference edges | 18,278 |
 | Unresolved reference edges | 0 |
-| Generated Markdown files | 35,735 |
+| Generated Markdown files | 37,617 |
 
-All 198 `validation.json` reports are valid. They contain 243 non-blocking
-warnings: 175 non-numeric/suffixed-article notices, 16 unfrozen count
+All 208 `validation.json` reports are valid. They contain 289 non-blocking
+warnings: 218 non-numeric/suffixed-article notices, 16 unfrozen count
 baselines, 35 represented supplements whose source states no explicit legal
-character, 7 article-gap notices, 3
+character, 8 article-gap notices, 3
 warnings for official standard modifications not incorporated in the
-retained source text, 3 decree targets that match no committed clause, 2
+retained source text, 3 decree targets that match no committed clause, 4
 suffix-order notices, 1 redesignated standard (NOM-002-SEMARNAT-1996,
 published as NOM-002-ECOL-1996), and 1 modification whose recorded DOF title
 names no numeral at all. Validity does not imply that temporal analysis or
@@ -60,22 +60,32 @@ also resolves the entry `batches/labor_L1_labor.json` had left blocked),
 and AD4 has now added all five instruments through `ldcpdch` (`lgpc`,
 `reg-lgpc`, `lhheum`, `ldvuma`, `ldcpdch`;
 `batches/administration_ad4_proteccion_civil_misc.json`), closing Domain AD.
-Together with the separate Maximasa federal-gap ingestion of `reg-csps`, the
-live corpus now contains 166 instruments.
+TX1 has added all five instruments through `reg-cff` (`lsat`, `lfdc`,
+`lopdc`, `lfpca`, `reg-cff`; `batches/tax_TX1_sat_procedimiento.json`),
+opening Domain TX. TX2 has added three of its four prepared instruments
+(`lfd`, `lgdp`, `reg-lfprh`; `batches/tax_TX2_ingresos_presupuesto.json`)
+— `lcmopfih` is held out for a structural parsing difficulty (see below),
+distinct from `lif-2026`/`pef-2026`'s pre-existing reviewer-confirmation
+block. TX3 has added two of its three prepared instruments (`lfisan`,
+`reg-ladua`; `batches/tax_TX3_impuestos_aduanas.json`) — `lisipl` is held
+out for the same structural difficulty as `lcmopfih`, a second confirmed
+instance the same day. Together with the separate Maximasa federal-gap
+ingestion of `reg-csps`, the live corpus now contains 176 instruments.
 
 The cluster-2 first pass contains 326 instruments in 53 batches. Its state is:
 
 | State | Batches | Instruments |
 |---|---:|---:|
 | Structurally closed (CN1, CN2) | 2 | 16 |
-| Structurally complete (AD1, AD2, AD3, AD4) | 4 | 21 |
-| Prepared, not yet admitted | 47 | 286 |
-| Explicitly blocked | 2 | 3 |
+| Structurally complete (AD1–AD4, TX1–TX3) | 7 | 31 |
+| Prepared, not yet admitted | 44 | 274 |
+| Explicitly blocked or held out | 2 | 5 |
 
-The remaining prepared cluster-2 workload is 286 instruments. `egdf`,
-`lif-2026`, and `pef-2026` remain explicit
-deferrals pending reviewer direction; they are not silently treated as
-complete.
+The remaining prepared cluster-2 workload is 274 instruments. `egdf`,
+`lif-2026`, and `pef-2026` remain explicit deferrals pending reviewer
+direction; `lcmopfih` and `lisipl` are held out per
+`docs/ingestion-difficulty-log.md`'s `nested-law-in-enacting-article`
+class. None of the five are silently treated as complete.
 
 The separate Maximasa standards sequence added NOM-251-SSA1-2009,
 NOM-247-SSA1-2008, NOM-051-SCFI-SSA1-2010, NOM-002-STPS-2010, and
@@ -199,6 +209,74 @@ parser defect. All five validate clean and reverse-link with 0 unresolved
 references (50 new edges; 233 new articles, 29 new original transitories).
 Full finding: `docs/decisions.md` 2026-08-01.
 
+**TX1 admitted, 2026-08-01, opening Domain TX.**
+`batches/tax_TX1_sat_procedimiento.json` added all five prepared
+instruments: `lsat`, `lfdc`, `lopdc`, `lfpca`, `reg-cff`. `lsat`, `lfdc`,
+`lfpca` hit the familiar `1o.`–`9o.` ordinal-numbering case; reviewed
+`allow_article_gaps: true`, no parser change. All five validate clean and
+reverse-link with 0 unresolved references (181 new edges; 341 new
+articles, 28 new original transitories). Full finding:
+`docs/decisions.md` 2026-08-01.
+
+**TX2 admitted, 2026-08-01; two genuine parser gaps plus one hold-out.**
+`batches/tax_TX2_ingresos_presupuesto.json` added three of its four
+prepared instruments: `lfd`, `lgdp`, `reg-lfprh`. `lgdp` and `lfd` each
+hit a reform-appendix heading form the parser had no case for at all —
+`Decreto de reformas ` and `Ley que `/`LEY que ` respectively — fixed by
+recognizing both. Regression-testing those fixes against the existing
+committed corpus (137 candidate instruments, isolated in a disposable
+worktree) caught a real problem before it landed: the first attempt made
+the Ley heading an unconditional block-split trigger like Decreto/
+Reglamento headings already are, but "Ley que" is ordinary Spanish legal
+prose, and matching it unconditionally silently corrupted body text in
+three already-committed instruments (`lic`, `lmv`, `ltosf`) wherever a PDF
+line wrap happened to start with it. Corrected to scope the split to
+`crossed_page_furniture` only — narrow enough to fix `lfd`'s real failure
+(the heading and an unrelated preceding correction note shared a page
+break) without the false-positive risk; a second regression pass then
+came back with only 2 of 128 comparable instruments changed (`ladua`,
+`linfonavit`) — both a correctness improvement, not corruption: a
+transitory a prior unrecognized "Ley que ..." heading had been
+misattributing to a nearby *different* decree is now correctly dated and
+labeled under its own heading, with `provisions.json`/`references.json`
+untouched in both. That same process surfaced a third, deeper gap in
+`reg-lfprh`: two
+independently-repealed glossary fractions both read the standard
+placeholder "Se deroga.", and the auto-detect glossary scanner derives its
+whole term/definition delimiter from whichever fraction comes first —
+poisoning the delimiter for every other, correctly colon-delimited
+fraction, so the fix had to be "pick the delimiter from the first
+non-placeholder entry," not just "skip placeholder entries." The
+regression pass also surfaced nine already-committed instruments that
+independently fail a fresh re-parse on unmodified `main`
+(`ccf`, `ccom`, `cff`, `cpf`, `lac`, `lamp`, `lcf`, `lfcpq`, `lins`) — a
+pre-existing latent-defect population, not introduced this session and
+not re-derived or re-committed as part of it; two (`ccom`, `lac`) hit a
+broader Ley-heading variant (a bare law title, no "que reforma..."
+phrasing) deliberately left unfixed as too risky to pattern-match safely
+in the same pass. `lcmopfih` is held out
+(`nested-law-in-enacting-article`,
+`docs/ingestion-difficulty-log.md`); `lif-2026`/`pef-2026` stay blocked.
+All three admitted instruments validate clean and reverse-link with 0
+unresolved references (587 new edges; 1,171 new articles, 24 new original
+transitories). Full finding: `docs/decisions.md` 2026-08-01.
+
+**TX3 admitted, 2026-08-01.** `batches/tax_TX3_impuestos_aduanas.json`
+added two of its three prepared instruments: `lfisan`, `reg-ladua`.
+`lfisan` hit the familiar `1o.`–`9o.` ordinal case (eleventh confirmed
+instance). `reg-ladua` hit a distinct, genuine article-number gap —
+article 88's numeral is entirely absent from the source text, not even a
+repealed-fraction placeholder — resolved by the same reviewed
+`allow_article_gaps: true` adapter setting, no parser change; recorded
+separately from the ordinal class since the mechanism differs even though
+the fix is identical. `lisipl` is held out: a second confirmed instance
+of `nested-law-in-enacting-article` the same day, structurally messier
+than `lcmopfih` since the outer decree's own numbering resumes after the
+nested law rather than merely wrapping it. Both admitted instruments
+validate clean and reverse-link with 0 unresolved references (54 new
+edges; 295 new articles, 13 new original transitories). Full finding:
+`docs/decisions.md` 2026-08-01.
+
 The active plan is
 [`cluster-2-federal-corpus-ingestion.md`](plans/cluster-2-federal-corpus-ingestion.md).
 It is the authoritative source for batch order, source inventories, recovery,
@@ -252,17 +330,18 @@ record; ITF DCG transitory SÉPTIMO remains pending formal-boundary review.
 - `source-manifest.resulting_git_commit` still records the pre-ingestion HEAD;
 - live network/model flows remain integration-tested manually rather than in
   hermetic CI;
-- `lex-mex review-packets generate` (landed 2026-07-31) groups the 172
-  committed instruments that have a `batches/*.json` manifest into 33
+- `lex-mex review-packets generate` (landed 2026-07-31) groups the 180
+  committed instruments that have a `batches/*.json` manifest into 35
   packets for reviewer assignment; the 32 standards and the CNBV DCG family
   have no batch manifest and so are not yet covered by this mechanism.
 
 Next general cluster action: normalize the next prepared cluster-2 batch
-(TX1, `cl2_TX1_sat_procedimiento`, opening Domain TX) into an operational
-manifest per the cluster plan's admission order
-(`docs/plans/cluster-2-federal-corpus-ingestion.md`). AD1–AD4 are now
-structurally complete, closing Domain AD. The separately authorized
-five-NOM Maximasa sequence does not reorder the prepared federal batches.
+(TX3, `cl2_TX3_impuestos_aduanas`) into an operational manifest per the
+cluster plan's admission order
+(`docs/plans/cluster-2-federal-corpus-ingestion.md`). AD1–AD4 are
+structurally complete, closing Domain AD; TX1–TX2 have opened Domain TX.
+The separately authorized five-NOM Maximasa sequence does not reorder the
+prepared federal batches.
 
 ## Archived divergent branches
 

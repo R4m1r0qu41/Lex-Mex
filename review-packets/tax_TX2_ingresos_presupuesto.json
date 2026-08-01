@@ -1,0 +1,11 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "tax_TX2_ingresos_presupuesto",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lfd",
+    "lgdp",
+    "reg-lfprh"
+  ],
+  "status": "unassigned"
+}

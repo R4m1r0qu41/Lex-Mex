@@ -1,0 +1,20 @@
+---
+id: urn:lex-mx:federal:statute:lfdc:article:23
+instrument_id: urn:lex-mx:federal:statute:lfdc
+instrument: LFDC
+name: "Ley Federal de los Derechos del Contribuyente"
+provision_type: article
+number: "23"
+aliases: ["LFDC — Artículo 23"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf
+source_sha256: 70f871ee9f8791063f9da9df9eab93b68efc1f2878f8024299bb5cd93b238658
+---
+
+> Capítulo V
+
+# Artículo 23
+
+Los contribuyentes tendrán a su alcance los recursos y medios de defensa que procedan, en los términos de las disposiciones legales respectivas, contra los actos dictados por las autoridades fiscales, así como a que en la notificación de dichos actos se indique el recurso o medio de defensa procedente, el plazo para su interposición y el órgano ante el que debe formularse. Cuando en la resolución administrativa se omita el señalamiento de referencia, los contribuyentes contarán con el doble del plazo que establecen las disposiciones legales para interponer el recurso administrativo o el juicio contencioso administrativo.

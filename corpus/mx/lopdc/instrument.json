@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lopdc",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Orgánica de la Procuraduría de la Defensa del Contribuyente",
+  "short_name": "LOPDC",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2006-09-04",
+  "latest_reform_date": "2022-05-11",
+  "retrieved_at": "2026-08-01T19:31:16.222188Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf",
+  "source_sha256": "7dc8f2201fdeb8039371254e3b2606c158f4cd480e29ce074a65eb375a19475c",
+  "extracted_text_sha256": "a270768492420a4468d035e39950ecb852db733c80adff113fcd7c8fae16fa77",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

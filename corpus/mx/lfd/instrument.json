@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfd",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Derechos",
+  "short_name": "LFD",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1981-12-31",
+  "latest_reform_date": "2025-11-07",
+  "retrieved_at": "2026-08-01T19:31:42.683569Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+  "source_sha256": "64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df",
+  "extracted_text_sha256": "6908ea4e395bfcadf492768d9af97048437e4a4ed2d62fac1e0f5c8cd33b9ac1",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

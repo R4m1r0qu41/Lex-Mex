@@ -88,6 +88,22 @@ Verified against local `main` at `736146bd8`:
   clean on the first pass at the default `allow_article_gaps: false` —
   neither an ordinal-numbering review case nor a parser defect. AD4's
   individual-ingestion checkpoint is complete, closing Domain AD.
+- TX1 has committed all five instruments (2026-08-01, `docs/decisions.md`
+  same date): `lsat`, `lfdc`, `lopdc`, `lfpca`, `reg-cff`, via
+  `batches/tax_TX1_sat_procedimiento.json`, opening Domain TX.
+- TX2 has committed three of four prepared instruments (2026-08-01,
+  `docs/decisions.md` same date): `lfd`, `lgdp`, `reg-lfprh`, via
+  `batches/tax_TX2_ingresos_presupuesto.json`. `lif-2026`/`pef-2026` stay
+  blocked (unchanged prior deferral); `lcmopfih` is newly held out
+  (`nested-law-in-enacting-article`, `docs/ingestion-difficulty-log.md`).
+  Landing TX2 fixed two genuine parser gaps (a `Decreto de reformas `
+  heading form, a `Ley que `/`LEY que ` reform-act heading form that also
+  needed the same page-furniture block-split treatment as Decreto/
+  Reglamento headings already had) and one deeper one found only by
+  regression-testing those fixes against the existing corpus (a repealed
+  glossary fraction's placeholder text poisoning the whole glossary's
+  delimiter, not just colliding two ids). TX1+TX2's individual-ingestion
+  checkpoints are complete.
 - Per-instrument counts, source and extracted-text hashes, and validation
   state are owned by each instrument's `corpus/mx/<slug>/validation.json` and
   `source-manifest.json` and are not restated here. The dated `Progress` log
@@ -106,13 +122,13 @@ Do not assume these statements remain current. At every resumption, compare them
 
 ## Next action
 
-AD1–AD4 are closed, closing Domain AD. When general cluster-2 ingestion
-resumes, normalize TX1 (`cl2_TX1_sat_procedimiento`, opening Domain TX, the
-next batch per `prompts/lex-mex-federal-cluster-2-plan.md`'s admission
-order) into an operational manifest and provisionally process its first
-instrument. The separately authorized five-NOM Maximasa sequence does not
-reorder the prepared federal batches. Corpus-wide relinking and human
-expected-edge review remain separate work.
+AD1–AD4 and TX1–TX2 are closed. When general cluster-2 ingestion resumes,
+normalize TX3 (`cl2_TX3_impuestos_aduanas`, the next batch per
+`prompts/lex-mex-federal-cluster-2-plan.md`'s admission order) into an
+operational manifest and provisionally process its first instrument. The
+separately authorized five-NOM Maximasa sequence does not reorder the
+prepared federal batches. Corpus-wide relinking and human expected-edge
+review remain separate work.
 
 ## Progress
 
@@ -200,6 +216,24 @@ expected-edge review remain separate work.
   default `allow_article_gaps: false` — the first AD batch with neither an
   ordinal-numbering review case nor a parser defect. Full workspace gate
   (149 tests) and batch closure passed. Closes Domain AD.
+  `docs/decisions.md` 2026-08-01.
+- [x] (2026-08-01) Normalized and completed TX1 by ingesting and committing
+  `lsat`, `lfdc`, `lopdc`, `lfpca`, `reg-cff`: 341 articles, 28
+  original transitories, 181 references, all resolved, zero validation
+  errors across all five (`lfpca` carries one non-blocking `suffix_order`
+  warning). Opens Domain TX. `docs/decisions.md` 2026-08-01.
+- [x] (2026-08-01) Normalized and completed TX2 by ingesting and
+  committing `lfd`, `lgdp`, `reg-lfprh`: 1171 articles, 24 original
+  transitories, 587 references, all resolved, zero validation errors
+  across all three. Fixed two genuine parser gaps (`Decreto de reformas `
+  and `Ley que `/`LEY que ` reform-act heading recognition, the latter
+  needing the page-furniture block-split fix too) plus a third found only
+  by regression-testing those against the existing corpus (a repealed
+  glossary fraction's placeholder text poisoning the whole glossary's
+  delimiter selection). `lcmopfih` held out
+  (`nested-law-in-enacting-article`,
+  `docs/ingestion-difficulty-log.md`); `lif-2026`/`pef-2026` stay blocked.
+  Full workspace gate (152 tests, 3 new) and batch closure passed.
   `docs/decisions.md` 2026-08-01.
 - [ ] Normalize and admit each remaining prepared cluster-2 batch, then ingest its instruments in dependency order.
 - [ ] Complete a corpus-wide relink, expected-edge audit, deterministic validation, and publication review.
@@ -635,9 +669,10 @@ evidence IDs and canonical source text.
 Historical enactment-signature cleanup and corpus-wide relinking remain
 explicitly separate work; `archive/fable-cross-linking` preserves the divergent
 history for bounded reapplication rather than a future merge. AD1 through
-AD4 are complete through `ldcpdch`, closing Domain AD; TX1 is next, and
-corpus-wide closure remains deferred until the broader cluster target set
-is admitted.
+AD4 are complete through `ldcpdch`, closing Domain AD; TX1 and TX2 are
+complete through `reg-lfprh`, opening Domain TX (`lcmopfih` held out,
+`lif-2026`/`pef-2026` blocked); TX3 is next, and corpus-wide closure
+remains deferred until the broader cluster target set is admitted.
 
 At CN1 close, record the final counts and commits for `rgic` and `ldofgg`, the reverse-link results, any parser lessons, and the chosen next operational batch. At cluster close, compare the final admitted corpus with the prepared source universe, enumerate every intentionally blocked or deferred entry, summarize linker recall evidence, and identify the next legal-temporal review program without starting it automatically.
 

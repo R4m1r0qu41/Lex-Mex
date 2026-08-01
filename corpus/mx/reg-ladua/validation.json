@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-ladua",
+  "valid": true,
+  "article_count": 281,
+  "transitory_count": 6,
+  "reference_count": 44,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "article_gap",
+      "message": "articles between 87 and 89 are absent (derogated, or a parse gap)",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-ladua:article:89"
+    }
+  ]
+}

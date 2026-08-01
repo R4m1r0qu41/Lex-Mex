@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfd",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFD.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfd.htm",
+  "retrieved_at": "2026-08-01T19:31:42.683569Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 5171154,
+  "etag": "\"4ee7d2-64ced04fe51c0\"",
+  "last_modified": "Fri, 13 Mar 2026 19:38:55 GMT",
+  "source_sha256": "64b08a1ff8e5c71759acf550cf9c8df7eb343ea679a2c2663d0eef3db19f10df",
+  "extracted_text_sha256": "6908ea4e395bfcadf492768d9af97048437e4a4ed2d62fac1e0f5c8cd33b9ac1",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "c71e0d64a9a332768579bf9f08e9e6c84d891771"
+}

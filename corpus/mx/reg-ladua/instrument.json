@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:regulation:reg-ladua",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "regulation",
+  "official_title": "Reglamento de la Ley Aduanera",
+  "short_name": "REG-LADUA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2015-04-20",
+  "latest_reform_date": "2026-02-23",
+  "retrieved_at": "2026-08-01T19:32:09.291966Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAdua.pdf",
+  "source_sha256": "bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812",
+  "extracted_text_sha256": "05fa838726d21703e036f4321f7f065dd2b3062860b4eb5682037fc773c903d4",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

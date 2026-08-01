@@ -1,0 +1,10 @@
+{
+  "schema_version": "0.1.0",
+  "packet_id": "tax_TX3_impuestos_aduanas",
+  "grouping_key": "batch_id",
+  "instruments": [
+    "lfisan",
+    "reg-ladua"
+  ],
+  "status": "unassigned"
+}

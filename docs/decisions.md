@@ -1,5 +1,181 @@
 # Architecture decisions
 
+## 2026-08-01 — TX3 admitted; eleventh `1o.` hit, one genuine article-gap, a second nested-law hold-out
+
+Continuing Domain TX after TX2. TX3
+(`batches/tax_TX3_impuestos_aduanas.json`, normalized from
+`prompts/cluster-2-batches/lex-mex-cl2-batch-TX3.json`) added `lfisan`
+and `reg-ladua` — two of the three prepared entries.
+
+**Eleventh confirmed hit of the `1o.`–`9o.` ordinal case.** `lfisan`;
+same reviewed `allow_article_gaps: true` fix, no parser change.
+
+**A genuine, isolated article-number gap, not the ordinal case.**
+`reg-ladua` failed with "expected article 88, found 89" — article 88's
+numeral does not appear anywhere in the source text at all (confirmed
+directly: `grep` for "Artículo 88" against the extracted text returns
+nothing, while 87 and 89 are both present), not even a repealed-fraction
+placeholder. This is exactly the case `allow_article_gaps: true` and the
+label-aware ordering path exist for; same reviewed fix, no parser change.
+Recorded separately from the ordinal class because the mechanism differs
+(a genuinely missing numeral, not a non-numeric-suffix counter freeze) —
+both route through the same adapter setting, but conflating them would
+obscure that this repo has now seen at least two distinct causes of the
+same review gate firing.
+
+**`lisipl` held out — second confirmed instance of
+`nested-law-in-enacting-article` the same day.** Same class as TX2's
+`lcmopfih`, found independently in the very next batch: `lisipl`'s source
+PDF is `ARTICULO NOVENO` of an unrelated 1968 omnibus decree, with the
+decree's other articles elided and its own numbering resuming
+(interleaved with the nested law's own transitorios) after the nested
+law's content ends. Structurally messier than `lcmopfih` — the outer
+decree doesn't just wrap the nested law, it continues after it — so held
+out under the same policy rather than attempted as a one-off patch.
+Full report: `docs/ingestion-difficulty-log.md`.
+
+**Verification.** Both admitted TX3 instruments validate clean and
+reverse-link with 0 unresolved references (54 new edges; 295 new
+articles, 13 new original transitories). `all_committed_batch_manifests_deserialize`'s
+frozen counts updated again (35→36 manifests, 180→182 unique instrument
+slugs — `lfisan`+`reg-ladua` admitted, `lisipl` in `blocked` not
+`instruments`). Full workspace gate: fmt clean, clippy clean, 152 tests
+(no new tests this batch — no parser change).
+
+## 2026-08-01 — TX2 admitted; two genuine parser gaps (reform-act heading recognition, repealed-fraction glossary collision), one hold-out
+
+Opening Domain TX after AD1–AD4. TX2
+(`batches/tax_TX2_ingresos_presupuesto.json`, normalized from
+`prompts/cluster-2-batches/lex-mex-cl2-batch-TX2.json`) added `lfd`,
+`lgdp`, `reg-lfprh` — three of the four prepared NEW entries. `lif-2026`
+and `pef-2026` stay explicitly blocked (unchanged, prior deferral).
+`lcmopfih` is newly held out (see below).
+
+**Fifth through tenth confirmed hits of the `1o.`–`9o.` ordinal case.**
+`lsat`, `lfdc`, `lfpca` (TX1, same-day) and `lgdp`, `lfd` (TX2) all hit the
+same review gate as the eight prior instances; same reviewed
+`allow_article_gaps: true` fix each time, no parser change. Ten
+independent statutes now.
+
+**Two genuine parser gaps, found while landing `lfd` and `lgdp`.**
+
+1. `lgdp`'s first reform decree is titled "Decreto de reformas y adiciones
+   a diversos artículos..." — a form `is_decree_heading` deliberately did
+   not match (its own docstring warns the bare `Decreto de ` prefix is
+   common inside ordinary prose and risks false positives). Widened to
+   also accept the narrower, safe `Decreto de reformas ` prefix.
+2. `lfd`'s reform appendix records some reforms as a *Ley* rather than a
+   *Decreto* or *Reglamento* ("LEY que establece, reforma, adiciona y
+   deroga..."), a form `reform_act_heading_kind` had no case for at all.
+   Added `is_reform_ley_heading` (`Ley que `/`LEY que `). Recognizing the
+   heading text alone wasn't sufficient — `lfd`'s actual failure was the
+   heading getting silently merged into an unrelated preceding correction
+   note across a page break, leaving `act_kind` unset and crashing on the
+   first transitory that followed. The first attempt fixed this by adding
+   the new heading to `is_immediate_structural`'s unconditional flush list,
+   the same place `is_decree_heading`/`is_reform_regulation_heading`
+   already live — but "Ley que" is ordinary Spanish legal prose ("esta Ley
+   que hayan quedado firmes...", "en términos de la Ley que la rige..."),
+   unlike the much rarer "Decreto que"/"REGLAMENTO de" forms, and matching
+   it unconditionally corrupted body text (a spurious paragraph break)
+   wherever a PDF line wrap happened to start with it — caught before
+   commit by the regression check below (`lic`, `lmv`, `ltosf` all showed
+   silent mid-sentence splits with no error). Corrected to follow the
+   `amendment_mark_end` precedent already in `normalized_blocks`: scoped to
+   `crossed_page_furniture` only, so the extra split fires exactly where
+   `lfd`'s real failure occurred and nowhere else. Two regression tests
+   (`a_decreto_de_reformas_heading_is_recognized_as_a_decree_heading`,
+   `a_ley_heading_split_from_prior_content_by_page_furniture_is_recognized`)
+   plus fixtures reproducing both real failures directly.
+
+**A third, deeper parser gap, found only by regression-testing the first
+two fixes against the existing corpus, not by TX2 itself.** `reg-lfprh`
+crashed on `duplicate defined-term identifier` — its glossary article has
+two fractions independently repealed years apart (DOF 2009, DOF 2025),
+both retaining the standard placeholder text "Se deroga." rather than a
+real definition; `detect_glossary_terms` extracted that placeholder as if
+it were the term, so both fractions collided under the same id. Skipping
+placeholder fractions (`Se deroga`/`Derogada`/`Derogado`, case/paren-
+insensitive) stopped the crash but exposed a second, worse effect:
+`glossary_delimiter` derives the term/definition separator from
+`starts[0]` unconditionally, and a period-terminated placeholder in
+fraction 1 poisoned that choice for the *entire* glossary — every other,
+properly colon-delimited fraction silently found no delimiter and was
+dropped. `reg-lfprh` went from crashing to committing with 0 defined terms
+extracted, not 26. Fixed by choosing the representative delimiter from the
+first entry that is *not* a repealed placeholder, not unconditionally from
+the first entry found. New test
+`repealed_fraction_placeholders_are_skipped_not_collided` asserts both the
+collision and the delimiter-poisoning are gone.
+
+**`lcmopfih` held out.** Its source PDF is not the named law's own primary
+text: it is one article of an unrelated 1990 omnibus decree that enacts
+the real law verbatim as that article's body, with the decree's other
+articles elided. The parser correctly extracts the wrapper article but has
+no notion of a law nested inside a single enacting article, so the nested
+law's real 15 articles are absorbed as body text rather than split into
+provisions. New failure class `nested-law-in-enacting-article`,
+full report in `docs/ingestion-difficulty-log.md`. Per the 2026-07-28
+hold-out-and-flag policy: not compiled with the defect present, moved to
+`blocked` in the batch manifest.
+
+**Regression-checked, not assumed, against the rest of the committed
+corpus — and this is what caught the false positive above.** Both
+`is_reform_ley_heading` (block-splitting affects every `diputados`-parsed
+instrument, not just the reform appendix) and the glossary-delimiter fix
+could plausibly move already-committed data. Isolated the effect from
+unrelated pre-existing corpus/parser drift (a real, separate condition —
+re-parsing already-committed `cpeum` today, with *zero* of this session's
+changes applied, already differs from its committed data) by comparing
+fresh `fetch`+`extract`+`parse` output before/after each version of this
+session's parser changes, in a disposable git worktree, for every
+committed instrument whose text contains `Ley que`/`LEY que` or a
+`se entenderá por:`-style glossary (137 candidates). The first-attempt fix
+changed 5 of 126 comparable instruments (`ladua`, `lic`, `linfonavit`,
+`lmv`, `ltosf`) — `ladua`/`linfonavit` corrected reform-evidence
+attribution as intended, but `lic`/`lmv`/`ltosf` had body-text
+mid-sentence corruption, the false positive that forced the
+`crossed_page_furniture`-scoped correction. Rerun after the correction: 2
+of 128 comparable instruments changed (`ladua`, `linfonavit` — same count
+of evidence entries before and after, `provisions.json`/`references.json`
+untouched in both), each a transitory that a prior, unrecognized "Ley
+que ..." decree heading had been misattributing to a nearby *different*
+decree under a synthetic `section-N` qualifier; now correctly dated and
+labeled under its own Ley heading. `lic`/`lmv`/`ltosf` came back clean.
+Also surfaced nine already-committed instruments (`ccf`, `ccom`,
+`cff`, `cpf`, `lac`, `lamp`, `lcf`, `lfcpq`, `lins`) that already fail a
+fresh re-parse on unmodified `main`, independent of this session — a
+pre-existing latent-defect population, not a regression introduced here.
+Two — `ccom`, `lac` — hit a third, broader Ley-heading variant this
+session did not fix: a bare law title with no "que reforma..." phrasing
+at all (`LEY de Aeropuertos.`, `LEY General de Títulos y Operaciones de
+Crédito.`), which would need much wider, riskier prefix matching to
+recognize safely and was deliberately left alone rather than attempted as
+a same-day patch. One (`lcf`) started passing as an unplanned side effect
+of the `Decreto de reformas `/Ley fixes. None of the nine were re-derived
+or re-committed as part of this pass.
+
+**Verification.** All three admitted TX2 instruments validate clean,
+reverse-link with 0 unresolved references (338 lfd + 8 lgdp + 241
+reg-lfprh reference edges). `all_committed_batch_manifests_deserialize`'s
+frozen counts updated for TX1+TX2 together (33→35 manifests, 172→180
+unique instrument slugs — TX1's 5 plus TX2's 3, `lcmopfih` excluded since
+it lives in `blocked`, not `instruments`). Full workspace gate: fmt clean,
+clippy clean, 152 tests (3 new).
+
+## 2026-08-01 — TX1 admitted, opening Domain TX
+
+`batches/tax_TX1_sat_procedimiento.json` (normalized from
+`prompts/cluster-2-batches/lex-mex-cl2-batch-TX1.json`) added `lsat`,
+`lfdc`, `lopdc`, `lfpca`, `reg-cff` — all five. `lsat`, `lfdc`, `lfpca`
+hit the familiar `1o.`–`9o.` ordinal-numbering review case (matching the
+eight prior AD1–AD3 instances); reviewed `allow_article_gaps: true`, no
+parser change. `lopdc` and `reg-cff` validated clean at the default
+`allow_article_gaps: false`. All five validate, reverse-link with 0
+unresolved references (181 edges total). `lfpca` carries one non-blocking
+`suffix_order` warning (`58-1` does not sort after `58-S`), the same
+already-documented benign class as elsewhere in the corpus.
+
 ## 2026-08-01 — AD4 admitted, closing Domain AD; the first AD batch with no review case and no parser fix
 
 Continuing the cluster-2 admission sequence after AD3. AD4

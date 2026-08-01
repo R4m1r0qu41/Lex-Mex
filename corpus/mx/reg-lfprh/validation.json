@@ -1,0 +1,268 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-lfprh",
+  "valid": true,
+  "article_count": 355,
+  "transitory_count": 13,
+  "reference_count": 241,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:8-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:8-b"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:8-c"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:8-d"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:8-e"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:8-f"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:8-g"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:8-h"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:10-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11-b"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11-c"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:11-d"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-b"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:12-c"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:43-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:48-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:53-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:53-b"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:53-c"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:53-d"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:53-e"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:59-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:61-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:63-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:77-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:78-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:86-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:107-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:120-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:130-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:146-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:156-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:175-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:175-ter"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:183-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:183-b"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:193-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:283-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:297-a"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:303-bis"
+    },
+    {
+      "severity": "warning",
+      "code": "non_numeric_article",
+      "message": "article suffix requires ordering review",
+      "provision_id": "urn:lex-mx:federal:regulation:reg-lfprh:article:304-a"
+    }
+  ]
+}

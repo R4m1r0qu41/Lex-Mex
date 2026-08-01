@@ -1,0 +1,22 @@
+{
+  "slug": "reg-cff",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-cff",
+  "instrument_type": "regulation",
+  "parser": "diputados",
+  "official_title": "Reglamento del Código Fiscal de la Federación",
+  "short_name": "REG-CFF",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2014-04-02",
+  "expected_articles": 113,
+  "expected_transitories": 7,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-08-01T18:28:18Z"
+  },
+  "allow_article_gaps": false,
+  "formal_publication_urls": {}
+}

@@ -114,7 +114,27 @@ pub fn detect_glossary_terms(provisions: &[Provision]) -> Result<Vec<DefinedTerm
         if starts.len() < 2 {
             continue;
         }
-        let Some(delimiter) = glossary_delimiter(text, starts[0].0) else {
+        // The delimiter is normally representative of every entry, so it is
+        // established once and applied uniformly. But a repealed fraction's
+        // placeholder text ("Se deroga.", "Derogada.") is a period, not the
+        // glossary's real term/definition separator — deriving the
+        // delimiter from `starts[0]` unconditionally meant a repealed
+        // fraction 1 (period-terminated) silently starved every other,
+        // colon-delimited entry of its delimiter, discarding the entire
+        // glossary rather than just the placeholder. Skip past placeholder
+        // entries when choosing which entry is representative.
+        let Some(delimiter) = starts.iter().find_map(|(numeral_start, numeral)| {
+            let delimiter = glossary_delimiter(text, *numeral_start)?;
+            let after_numeral = numeral_start + numeral.len() + 1;
+            let entry_body = text.get(after_numeral.min(text.len())..)?;
+            let offset = entry_body
+                .chars()
+                .take(COLON_TERM_MAX_CHARS + 5)
+                .collect::<String>()
+                .find(delimiter)?;
+            let term = entry_body[..offset].trim();
+            (!term.is_empty() && !is_repealed_fraction_placeholder(term)).then_some(delimiter)
+        }) else {
             continue;
         };
         let mut entries = Vec::with_capacity(starts.len());
@@ -126,7 +146,10 @@ pub fn detect_glossary_terms(provisions: &[Provision]) -> Result<Vec<DefinedTerm
                 continue;
             };
             let term = entry_body[..delimiter_offset].trim().to_owned();
-            if term.is_empty() || term.chars().count() > COLON_TERM_MAX_CHARS {
+            if term.is_empty()
+                || term.chars().count() > COLON_TERM_MAX_CHARS
+                || is_repealed_fraction_placeholder(&term)
+            {
                 continue;
             }
             entries.push(GlossaryEntry {
@@ -153,6 +176,18 @@ fn glossary_delimiter(text: &str, numeral_start: usize) -> Option<char> {
         .chars()
         .take(COLON_TERM_MAX_CHARS + 5)
         .find(|character| matches!(character, ':' | '.' | ','))
+}
+
+/// A repealed glossary fraction keeps its numeral but replaces the
+/// definition with a standard placeholder (`Se deroga.`, `(Se deroga)`,
+/// `Derogada.`, `Derogado.`), often followed by `Fracción derogada DOF
+/// ...`. Two fractions repealed years apart routinely carry the identical
+/// placeholder wording, so treating it as a defined term collides two
+/// unrelated fractions under one id — and a repealed fraction has no
+/// definition to extract in the first place.
+fn is_repealed_fraction_placeholder(term: &str) -> bool {
+    let normalized = term.trim().trim_matches(['(', ')']).to_lowercase();
+    matches!(normalized.as_str(), "se deroga" | "derogada" | "derogado")
 }
 
 struct GlossaryEntry {
@@ -687,6 +722,37 @@ mod tests {
             let span: String = chars[term.start_char..term.end_char].iter().collect();
             assert!(span.contains(&term.term));
         }
+    }
+
+    #[test]
+    fn repealed_fraction_placeholders_are_skipped_not_collided() {
+        // A repealed glossary fraction keeps its numeral but replaces the
+        // definition with a standard placeholder ("Se deroga.", "(Se
+        // deroga)", "Derogada.", "Derogado."), often followed by "Fracción
+        // derogada DOF ...". Two fractions repealed years apart routinely
+        // carry the identical placeholder wording -- confirmed against
+        // reg-lfprh's real committed source, whose article 2 has both
+        // fraction I and fraction XIV read "Se deroga." -- so treating the
+        // placeholder as the defined term collided two unrelated fractions
+        // under one id (`duplicate defined-term identifier`). A repealed
+        // fraction has no definition to extract in the first place.
+        let glossary = provision(
+            REGULATION_ID,
+            "article:2",
+            "Se entenderá por:\n\n\
+             I. Se deroga. Fracción derogada DOF 08-08-2025\n\n\
+             II. Aportaciones federales: los recursos transferidos a las entidades.\n\n\
+             III. Derogada. Fracción derogada DOF 25-04-2014\n\n\
+             XIV. Se deroga. Fracción derogada DOF 04-09-2009",
+        );
+        let terms = detect_glossary_terms(std::slice::from_ref(&glossary)).unwrap();
+        assert_eq!(
+            terms
+                .iter()
+                .map(|term| (term.term.as_str(), term.fraction.as_deref().unwrap()))
+                .collect::<Vec<_>>(),
+            [("Aportaciones federales", "II")]
+        );
     }
 
     #[test]

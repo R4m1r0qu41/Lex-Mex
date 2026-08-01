@@ -1,0 +1,22 @@
+{
+  "slug": "lfdc",
+  "instrument_id": "urn:lex-mx:federal:statute:lfdc",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal de los Derechos del Contribuyente",
+  "short_name": "LFDC",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdc.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "2005-06-23",
+  "expected_articles": 24,
+  "expected_transitories": 3,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-08-01T18:29:25Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+  "valid": true,
+  "article_count": 135,
+  "transitory_count": 4,
+  "reference_count": 93,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "suffix_order",
+      "message": "article 58-1 does not sort after 58-S within the same base",
+      "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-1"
+    }
+  ]
+}

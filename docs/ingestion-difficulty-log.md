@@ -85,6 +85,19 @@ packet-based review policy.
   selected run covers a tiny fraction of the document
   (`nom-052-semarnat-2005`, 1.1%). This is the clause-side analogue of the
   índice/real-section ambiguity Scope 1 already solved for transitories.
+- `nested-law-in-enacting-article` — a Cámara consolidated PDF is not the
+  named law's own primary text at all: it is one article of an unrelated
+  omnibus decree that *enacts the named law verbatim as that article's
+  body*, with the omnibus decree's own other articles elided
+  (`ARTICULOS PRIMERO A VIGESIMO QUINTO.- ..........`). The parser
+  correctly extracts the wrapper article but has no notion of a
+  law-within-an-article boundary, so the nested law's own `ARTICULO
+  1o.-`, `2o.-`, ... numbering is absorbed as body text of the wrapper
+  article rather than split into its own addressable provisions. Same
+  underlying finding as `indice-selected-as-body`: `validation.json`
+  reports `valid: true` because it only checks the internal consistency
+  of whichever text got selected, never whether the selection matches
+  the instrument's real structure. See `lcmopfih` below.
 
 Add a new class here the first time it's seen; do not invent a class for a
 single one-off unless it plausibly recurs.
@@ -282,3 +295,80 @@ cannot drift into a general "former name" field.
 Ingested at 73 clauses, 3 transitorios — all small, no annex absorption, so
 unlike the other three it was not blocked by `transitory-absorbs-annex`. See
 `docs/decisions.md` 2026-07-29.
+
+### lcmopfih — nested-law-in-enacting-article — 2026-08-01
+
+What's difficult: the source PDF (`30.pdf`, Cámara de Diputados) is titled
+"LEY DE CONTRIBUCIÓN DE MEJORAS POR OBRAS PÚBLICAS FEDERALES DE
+INFRAESTRUCTURA HIDRÁULICA," but its actual text is not that law's own
+primary publication. It is `ARTICULO VIGESIMO SEXTO` (article 26, spelled
+out as an ordinal) of an unrelated 1990 omnibus decree — "LEY QUE
+ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES Y QUE
+REFORMA OTRAS LEYES FEDERALES." That decree's articles 1–25
+("ARTICULOS PRIMERO A VIGESIMO QUINTO.- ..........") are elided outright
+in the source text as not relevant to this consolidation; article 26 then
+enacts the real "Ley de Contribución de Mejoras..." verbatim as a
+block-quoted nested law, complete with its own internal numbering
+(`ARTICULO 1o.-` through `15.-`, then its own five transitorios
+`ARTICULO PRIMERO` through `QUINTO`).
+
+The parser correctly identifies `ARTICULO VIGESIMO SEXTO` as one article
+(number normalized to `26o`) and correctly finds the five transitorios via
+the `TRANSITORIOS` section header (independent of article-number tracking).
+But it has no concept of a law nested inside a single enacting article, so
+the nested law's own `ARTICULO 1o.-` ... `15.-` headings are absorbed as
+plain body text of article 26 rather than split into their own addressable
+provisions. Result: `provisions.json` has 1 article + 5 transitorios;
+`validation.json` reports `valid: true` with a single non-blocking
+`non_numeric_article` warning on article 26's `26o` suffix. This is the
+same underlying finding as `indice-selected-as-body` and
+`annex-form-numbering` above: the validator checks internal consistency of
+whichever text got selected, never whether the selection is structurally
+right. Confirmed directly, not assumed: the raw extracted text has 15
+occurrences of `ARTICULO N.-`/`ARTICULO N.o.-` between the nested law's
+opening quote and its own transitorios section (`grep -c` against the
+`pdftotext -layout` output of `30.pdf`).
+
+What was tried: nothing beyond diagnosis — parsing a nested, independently-
+numbered law embedded inside a single article's body is an architecture
+question (where does the wrapper article's own text end and the nested
+law's provisions begin, and does the nested law get its own
+`instrument_id` or stay subordinate to `lcmopfih`'s), not a quick,
+obviously-correct fix, so it was held out per the 2026-07-28 policy rather
+than attempted on the spot mid-batch.
+
+Status: **held out, not ingested.** `batches/tax_TX2_ingresos_presupuesto.json`
+carries it under `blocked` rather than `instruments`. `docs/decisions.md`
+2026-08-01 has the batch-level note.
+
+### lisipl — nested-law-in-enacting-article — 2026-08-01
+
+What's difficult: the same class as `lcmopfih` above, found the same day
+in the very next batch — confirming this is a recurring form, not a
+one-off. The source PDF (`79.pdf`, Cámara de Diputados, titled "IMPUESTO
+SOBRE SERVICIOS EXPRESAMENTE DECLARADOS DE INTERÉS PÚBLICO POR LEY...") is
+`ARTICULO NOVENO` of an unrelated 1968 omnibus decree — "LEY QUE
+ESTABLECE, REFORMA Y ADICIONA LAS DISPOSICIONES RELATIVAS A DIVERSOS
+IMPUESTOS." The decree's articles Primero–Octavo are elided
+(`ARTICULOS PRIMERO A OCTAVO.- ..........`); article Noveno then enacts
+the real law verbatim, block-quoted, with its own `ARTICULO 1o.-` through
+`7o.-` numbering. This instance is structurally messier than `lcmopfih`:
+after the nested law's `ARTICULO 7o.-`, the text hits
+`ARTICULO DECIMO.- ..........` (another elision of the outer decree), then
+the outer decree's own numbering *resumes* (`ARTICULO TERCERO`, `CUARTO`,
+`SEXTO`, `SEPTIMO`) — these are the outer decree's transitorios/closing
+provisions, interleaved with, not merely adjacent to, the nested law's own
+content. The parser extracted 1 article (the `ARTICULO NOVENO` wrapper)
+and 0 transitorios, confirmed by direct inspection of the `pdftotext
+-layout` output (`grep -n` for `ARTICULO` forms shows exactly this
+7-article nested law plus the outer decree's resumed numbering).
+
+What was tried: nothing beyond diagnosis, same reasoning as `lcmopfih` —
+this is an architecture question, not a quick fix, and the interleaving
+here is more complex (the outer decree doesn't just wrap the nested law,
+it continues *after* it), so it needs the same design work `lcmopfih`
+is waiting on, not a bespoke one-off patch.
+
+Status: **held out, not ingested.** `batches/tax_TX3_impuestos_aduanas.json`
+carries it under `blocked` rather than `instruments`. `docs/decisions.md`
+2026-08-01 has the batch-level note.

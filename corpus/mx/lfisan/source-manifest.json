@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfisan",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfisan.htm",
+  "retrieved_at": "2026-08-01T19:32:05.979383Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 580378,
+  "etag": "\"8db1a-64861b0a69a40\"",
+  "last_modified": "Wed, 14 Jan 2026 23:44:33 GMT",
+  "source_sha256": "ef658aa6a3b15e99a4d19edaa6713598a37523f4179ae69a4462bcb8ca870eb1",
+  "extracted_text_sha256": "c98a61fa9c72f3206d86ad1194300b131b5489fff2d482de4a5cb25f6a0e1723",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "c71e0d64a9a332768579bf9f08e9e6c84d891771"
+}

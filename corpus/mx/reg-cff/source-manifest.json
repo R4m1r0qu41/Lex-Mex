@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-cff",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf",
+  "retrieved_at": "2026-08-01T19:31:23.733150Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 520425,
+  "etag": "\"7f0e9-563b487e8d740\"",
+  "last_modified": "Fri, 26 Jan 2018 21:25:09 GMT",
+  "source_sha256": "649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248",
+  "extracted_text_sha256": "cb344048922fe10e4e426e034c224820e6fbeccedf57dc6c9c124aea152fca9b",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "c71e0d64a9a332768579bf9f08e9e6c84d891771"
+}

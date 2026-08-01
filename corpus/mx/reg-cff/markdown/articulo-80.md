@@ -1,0 +1,24 @@
+---
+id: urn:lex-mx:federal:regulation:reg-cff:article:80
+instrument_id: urn:lex-mx:federal:regulation:reg-cff
+instrument: REG-CFF
+name: "Reglamento del Código Fiscal de la Federación"
+provision_type: article
+number: "80"
+aliases: ["REG-CFF — Artículo 80"]
+generated: true
+temporal_status: unknown
+review_status: not_analyzed
+source_url: https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf
+source_sha256: 649a06c9d35578dcf2626ce7961b8eca08e62c7fe97424ab97fce2c92cde4248
+---
+
+> Título IV · Capítulo I
+
+# Artículo 80
+
+La [Autoridad Fiscal](articulo-1.md) requerirá el importe garantizado mediante la carta de crédito en el domicilio que para tales efectos se señale en la propia carta de crédito, teniéndose por realizado el requerimiento en la fecha y hora de su presentación ante la institución de crédito que la emitió. Dicho requerimiento establecerá el número de la carta de crédito y el monto requerido, el cual podrá ser por la cantidad máxima por la que fue emitida la misma o por varias cantidades inferiores hasta agotar el importe máximo por el que fue expedida.
+
+Las instituciones de crédito realizarán el pago de las cartas de crédito mediante transferencia electrónica de fondos a la cuenta de la Tesorería de la Federación o a la cuenta del organismo descentralizado competente para cobrar coactivamente créditos fiscales, el mismo día del requerimiento o a más tardar dentro de las 48 horas siguientes a aquélla en que reciban el requerimiento de pago emitido por la Autoridad Fiscal.
+
+En caso de que las instituciones de crédito no realicen el pago de las cartas de crédito en el plazo señalado en el párrafo anterior, las cantidades garantizadas deberán pagarse actualizadas por el periodo comprendido entre la fecha en que se debió efectuar el pago y la fecha en que el mismo se realice, de conformidad con lo establecido en el artículo 17-A del [Código](articulo-1.md). En este supuesto, se causarán recargos por concepto de indemnización al fisco federal, conforme a lo dispuesto por el artículo [21](articulo-21.md) del citado ordenamiento, a partir de la fecha en que debió hacerse el pago correspondiente y hasta que el mismo se efectúe. Una vez efectuada la transferencia electrónica de fondos, la institución de crédito de que se trate deberá enviar a la Tesorería de la Federación por conducto del Servicio de Administración Tributaria o al organismo descentralizado competente para cobrar coactivamente créditos fiscales el comprobante de la operación y del pago realizado.

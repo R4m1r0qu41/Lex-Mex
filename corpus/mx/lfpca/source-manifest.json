@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpca.htm",
+  "retrieved_at": "2026-08-01T19:31:19.516749Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 867009,
+  "etag": "\"d3ac1-6547d34846140\"",
+  "last_modified": "Thu, 18 Jun 2026 01:36:29 GMT",
+  "source_sha256": "d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e",
+  "extracted_text_sha256": "5322ae33a465ff3cf68d81215a374f5fdb0a4e5d60b56866fbfa13cb01c7c1e9",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "c71e0d64a9a332768579bf9f08e9e6c84d891771"
+}

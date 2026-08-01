@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lopdc",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopdc.htm",
+  "retrieved_at": "2026-08-01T19:31:16.222188Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 442632,
+  "etag": "\"6c108-5e07a85dc6a00\"",
+  "last_modified": "Thu, 02 Jun 2022 17:42:00 GMT",
+  "source_sha256": "7dc8f2201fdeb8039371254e3b2606c158f4cd480e29ce074a65eb375a19475c",
+  "extracted_text_sha256": "a270768492420a4468d035e39950ecb852db733c80adff113fcd7c8fae16fa77",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "c71e0d64a9a332768579bf9f08e9e6c84d891771"
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:regulation:reg-ladua",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "official_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAdua.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAdua.pdf",
+  "retrieved_at": "2026-08-01T19:32:09.291966Z",
+  "http_status": 200,
+  "content_type": "application/pdf",
+  "content_length": 903770,
+  "etag": "\"dca5a-6526e5919b0c0\"",
+  "last_modified": "Fri, 22 May 2026 21:02:35 GMT",
+  "source_sha256": "bcdfcd9073014aec4aefbacc01c9dd5b1f97f0da0c4556f0f506d20f12d77812",
+  "extracted_text_sha256": "05fa838726d21703e036f4321f7f065dd2b3062860b4eb5682037fc773c903d4",
+  "extraction_tool": "pdftotext version 26.07.0",
+  "parser_version": "0.1.0",
+  "schema_version_used": "0.1.0",
+  "resulting_git_commit": "c71e0d64a9a332768579bf9f08e9e6c84d891771"
+}

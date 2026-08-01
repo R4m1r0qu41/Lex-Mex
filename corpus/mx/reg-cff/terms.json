@@ -1,0 +1,24 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "term": "Autoridades Fiscales",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-cff",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:1",
+    "fraction": "I",
+    "start_char": 55,
+    "end_char": 622,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "term": "Código",
+    "instrument_id": "urn:lex-mx:federal:regulation:reg-cff",
+    "defining_provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:1",
+    "fraction": "II",
+    "start_char": 622,
+    "end_char": 668,
+    "basis": "express_definition"
+  }
+]

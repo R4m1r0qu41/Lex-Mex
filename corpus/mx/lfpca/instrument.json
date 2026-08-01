@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lfpca",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Procedimiento Contencioso Administrativo",
+  "short_name": "LFPCA",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "2005-12-01",
+  "latest_reform_date": "2026-06-09",
+  "retrieved_at": "2026-08-01T19:31:19.516749Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf",
+  "source_sha256": "d2a25adcb45f622bbbf2a4e58f1139fb5236961fe86de3dd9ad9de2dfa21d54e",
+  "extracted_text_sha256": "5322ae33a465ff3cf68d81215a374f5fdb0a4e5d60b56866fbfa13cb01c7c1e9",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

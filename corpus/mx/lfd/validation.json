@@ -1,0 +1,16 @@
+{
+  "schema_version": "0.1.0",
+  "instrument_id": "urn:lex-mx:federal:statute:lfd",
+  "valid": true,
+  "article_count": 784,
+  "transitory_count": 9,
+  "reference_count": 338,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "suffix_order",
+      "message": "article 257 Bis does not sort after 257-A within the same base",
+      "provision_id": "urn:lex-mx:federal:statute:lfd:article:257-bis"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "tax_TX3_impuestos_aduanas",
+  "description": "TX3 federal tax and customs statutes and regulations, admitted from the prepared source inventory; one instrument held out for the same structural parsing difficulty as lcmopfih.",
+  "notes": [
+    "Normalized from prompts/cluster-2-batches/lex-mex-cl2-batch-TX3.json for the repository Rust ingestion gate.",
+    "All three prepared entries were absent from adapters, corpus/mx, and existing operational batch manifests when this manifest was created.",
+    "The prepared manifest's dof_publication/dof_last_reform fields are provenance context, not part of the operational batch-manifest schema, and are dropped here rather than smuggled in as unknown properties.",
+    "A live recheck of all three source_pdf URLs on 2026-08-01 returned HTTP 200 for each.",
+    "lisipl is held out per the ingestion-difficulty-log.md hold-out-and-flag policy (nested-law-in-enacting-article, second instance after TX2's lcmopfih): its source PDF's real body is enacted inside ARTICULO NOVENO of an unrelated 1968 omnibus decree, with the decree's other articles elided; the decree's own numbering also resumes afterward, interleaved with the nested law's TRANSITORIOS. See docs/ingestion-difficulty-log.md for the full report.",
+    "Instrument order is preserved from the prepared cluster-2 plan."
+  ],
+  "blocked": [
+    {
+      "slug": "lisipl",
+      "title": "IMPUESTO sobre Servicios Expresamente Declarados de Interés Público por Ley, en los que Intervengan Empresas Concesionarias de Bienes del Dominio Directo de la Nación (LEY que establece, reforma y adiciona las disposiciones relativas a diversos impuestos)",
+      "reason": "Held out per docs/ingestion-difficulty-log.md: nested-law-in-enacting-article. The real law's articles are enacted verbatim inside ARTICULO NOVENO of an unrelated 1968 omnibus decree, and the decree's own numbering resumes afterward around the nested law's own transitorios."
+    }
+  ],
+  "instruments": [
+    {
+      "slug": "lfisan",
+      "title": "LEY Federal del Impuesto sobre Automóviles Nuevos",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfisan.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf"
+    },
+    {
+      "slug": "reg-ladua",
+      "title": "REGLAMENTO de la Ley Aduanera",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAdua.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LAdua.pdf"
+    }
+  ]
+}

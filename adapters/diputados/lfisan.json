@@ -1,0 +1,22 @@
+{
+  "slug": "lfisan",
+  "instrument_id": "urn:lex-mx:federal:statute:lfisan",
+  "instrument_type": "statute",
+  "parser": "diputados",
+  "official_title": "Ley Federal del Impuesto sobre Automóviles Nuevos",
+  "short_name": "LFISAN",
+  "operational_source": "camara_de_diputados",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFISAN.pdf",
+  "reference_url": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfisan.htm",
+  "publisher": "Cámara de Diputados del H. Congreso de la Unión",
+  "publication_date": "1996-12-30",
+  "expected_articles": 14,
+  "expected_transitories": 7,
+  "count_baseline": {
+    "provenance": "machine-proposed",
+    "parser_version": "0.1.0",
+    "proposed_at": "2026-08-01T19:21:40Z"
+  },
+  "allow_article_gaps": true,
+  "formal_publication_urls": {}
+}

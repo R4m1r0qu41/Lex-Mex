@@ -1,0 +1,60 @@
+{
+  "schema_version": "0.1.0",
+  "batch_id": "tax_TX1_sat_procedimiento",
+  "description": "TX1 SAT procedural statutes and regulations, opening Domain TX (fiscal, second wave), admitted from the prepared source inventory.",
+  "notes": [
+    "Normalized from prompts/cluster-2-batches/lex-mex-cl2-batch-TX1.json for the repository Rust ingestion gate.",
+    "All five prepared entries were absent from adapters, corpus/mx, and existing operational batch manifests when this manifest was created.",
+    "The prepared manifest's dof_publication/dof_last_reform fields are provenance context, not part of the operational batch-manifest schema, and are dropped here rather than smuggled in as unknown properties.",
+    "A live recheck of all five source_pdf URLs on 2026-08-01 returned HTTP 200 for each.",
+    "Instrument order is preserved from the prepared cluster-2 plan."
+  ],
+  "blocked": [],
+  "instruments": [
+    {
+      "slug": "lsat",
+      "title": "LEY del Servicio de Administración Tributaria",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lsat.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf"
+    },
+    {
+      "slug": "lfdc",
+      "title": "LEY Federal de los Derechos del Contribuyente",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfdc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDC.pdf"
+    },
+    {
+      "slug": "lopdc",
+      "title": "LEY Orgánica de la Procuraduría de la Defensa del Contribuyente",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lopdc.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPDC.pdf"
+    },
+    {
+      "slug": "lfpca",
+      "title": "LEY Federal de Procedimiento Contencioso Administrativo",
+      "type": "ley",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/ref/lfpca.htm",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPCA.pdf"
+    },
+    {
+      "slug": "reg-cff",
+      "title": "REGLAMENTO del Código Fiscal de la Federación",
+      "type": "reglamento",
+      "adapter": "diputados",
+      "status": "NEW",
+      "ref_page": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf",
+      "source_pdf": "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_CFF.pdf"
+    }
+  ]
+}

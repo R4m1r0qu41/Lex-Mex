@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lgdp",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley Federal de Deuda Pública",
+  "short_name": "LGDP",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1976-12-31",
+  "latest_reform_date": "2018-01-30",
+  "retrieved_at": "2026-08-01T19:31:48.738565Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/136_300118.pdf",
+  "source_sha256": "be4e1666f8a8b3dfdcbbc047aed6542b4982972d1297e2e04dee839e30cc0ce1",
+  "extracted_text_sha256": "e1aacd60e8835f7a69e444a9c46560e29acf72e60a6f86baf23bb4570c666ba9",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}

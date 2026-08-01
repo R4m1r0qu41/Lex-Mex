@@ -1,0 +1,178 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:acuse-de-recibo-electronico",
+    "term": "Acuse de Recibo Electrónico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "I",
+    "start_char": 48,
+    "end_char": 651,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:archivo-electronico",
+    "term": "Archivo Electrónico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "II",
+    "start_char": 651,
+    "end_char": 879,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "term": "Boletín Jurisdiccional",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "III",
+    "start_char": 879,
+    "end_char": 1353,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:clave-de-acceso",
+    "term": "Clave de acceso",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "IV",
+    "start_char": 1353,
+    "end_char": 1840,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:contrasena",
+    "term": "Contraseña",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "V",
+    "start_char": 1840,
+    "end_char": 2097,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:direccion-de-correo-electronico",
+    "term": "Dirección de Correo Electrónico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "VI",
+    "start_char": 2097,
+    "end_char": 2264,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:direccion-de-correo-electronico-institucional",
+    "term": "Dirección de Correo Electrónico Institucional",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "VII",
+    "start_char": 2264,
+    "end_char": 2476,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:documento-electronico-o-digital",
+    "term": "Documento Electrónico o Digital",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "VIII",
+    "start_char": 2476,
+    "end_char": 2717,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:expediente-electronico",
+    "term": "Expediente Electrónico",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "IX",
+    "start_char": 2717,
+    "end_char": 2987,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:firma-electronica-avanzada",
+    "term": "Firma Electrónica Avanzada",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "XI",
+    "start_char": 3036,
+    "end_char": 3369,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:juicio-en-la-via-tradicional",
+    "term": "Juicio en la vía tradicional",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "XII",
+    "start_char": 3369,
+    "end_char": 3789,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:juicio-en-linea",
+    "term": "Juicio en línea",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "XIII",
+    "start_char": 3789,
+    "end_char": 4116,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:juicio-en-la-via-sumaria",
+    "term": "Juicio en la vía Sumaria",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "XIV",
+    "start_char": 4116,
+    "end_char": 4309,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "term": "Sistema de Justicia en Línea",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "XV",
+    "start_char": 4309,
+    "end_char": 4617,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "term": "Tribunal",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "XVI",
+    "start_char": 4617,
+    "end_char": 4721,
+    "basis": "express_definition"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:term:juicio-de-resolucion-exclusiva-de-fondo",
+    "term": "Juicio de resolución exclusiva de fondo",
+    "instrument_id": "urn:lex-mx:federal:statute:lfpca",
+    "defining_provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "fraction": "XVII",
+    "start_char": 4721,
+    "end_char": 4965,
+    "basis": "express_definition"
+  }
+]

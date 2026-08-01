@@ -1,0 +1,1865 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1:term-usage:37-45",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 37,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:149-157",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 149,
+    "end_char": 157
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:482-490",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 482,
+    "end_char": 490
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:854-876",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:expediente-electronico",
+    "span": "Expediente Electrónico",
+    "start_char": 854,
+    "end_char": 876
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:972-980",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 972,
+    "end_char": 980
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:1434-1462",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 1434,
+    "end_char": 1462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:1467-1475",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1467,
+    "end_char": 1475
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:1939-1967",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 1939,
+    "end_char": 1967
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:1972-1980",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1972,
+    "end_char": 1980
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:2269-2300",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:direccion-de-correo-electronico",
+    "span": "Dirección de Correo Electrónico",
+    "start_char": 2269,
+    "end_char": 2300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:2692-2714",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:expediente-electronico",
+    "span": "Expediente Electrónico",
+    "start_char": 2692,
+    "end_char": 2714
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:3992-4020",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 3992,
+    "end_char": 4020
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:4382-4390",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 4382,
+    "end_char": 4390
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:1-a:term-usage:4572-4580",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:1-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 4572,
+    "end_char": 4580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:2:term-usage:140-148",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:2",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 140,
+    "end_char": 148
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:3:term-usage:795-803",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:3",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 795,
+    "end_char": 803
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:5:term-usage:8-16",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 8,
+    "end_char": 16
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:5:term-usage:500-508",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 500,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:5:term-usage:904-932",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:5",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 904,
+    "end_char": 932
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:6:term-usage:39-47",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:6",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 39,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:6-bis:term-usage:146-154",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 146,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:6-bis:term-usage:213-241",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:6-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 213,
+    "end_char": 241
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:7:term-usage:29-37",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 29,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:7:term-usage:287-295",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 287,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:7:term-usage:626-648",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:7",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 626,
+    "end_char": 648
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:7-bis:term-usage:217-225",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:7-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 217,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:7-bis:term-usage:511-519",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:7-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 511,
+    "end_char": 519
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:8:term-usage:34-42",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 34,
+    "end_char": 42
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:8:term-usage:361-369",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 361,
+    "end_char": 369
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:8:term-usage:432-440",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 432,
+    "end_char": 440
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:8:term-usage:738-746",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 738,
+    "end_char": 746
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:8:term-usage:1113-1121",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1113,
+    "end_char": 1121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:8:term-usage:2563-2571",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:8",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2563,
+    "end_char": 2571
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:10:term-usage:46-54",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 46,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:10:term-usage:1059-1067",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:10",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1059,
+    "end_char": 1067
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:12:term-usage:196-204",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 196,
+    "end_char": 204
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:12:term-usage:308-316",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:12",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 308,
+    "end_char": 316
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:13:term-usage:160-188",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 160,
+    "end_char": 188
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:13:term-usage:481-509",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:13",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 481,
+    "end_char": 509
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:14:term-usage:3883-3891",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:14",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3883,
+    "end_char": 3891
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:15:term-usage:369-377",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:15",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 369,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:16:term-usage:957-965",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:16",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 957,
+    "end_char": 965
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:19:term-usage:914-942",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 914,
+    "end_char": 942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:19:term-usage:1033-1041",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1033,
+    "end_char": 1041
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:19:term-usage:1422-1450",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 1422,
+    "end_char": 1450
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:19:term-usage:1537-1545",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1537,
+    "end_char": 1545
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:19:term-usage:3176-3184",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3176,
+    "end_char": 3184
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:19:term-usage:3610-3638",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:19",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 3610,
+    "end_char": 3638
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:24:term-usage:1087-1095",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:24",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1087,
+    "end_char": 1095
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:24-bis:term-usage:532-560",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:24-bis",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 532,
+    "end_char": 560
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:27:term-usage:1120-1128",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:27",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1120,
+    "end_char": 1128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:30:term-usage:164-172",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 164,
+    "end_char": 172
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:30:term-usage:531-539",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:30",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 531,
+    "end_char": 539
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:34:term-usage:91-99",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:34",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 91,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:35:term-usage:372-380",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 372,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:35:term-usage:620-628",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 620,
+    "end_char": 628
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:35:term-usage:926-934",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 926,
+    "end_char": 934
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:35:term-usage:1259-1267",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:35",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1259,
+    "end_char": 1267
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:40:term-usage:41-49",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 41,
+    "end_char": 49
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:40:term-usage:373-381",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:40",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 373,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:43:term-usage:2874-2882",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2874,
+    "end_char": 2882
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:43:term-usage:3925-3933",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:43",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3925,
+    "end_char": 3933
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:48:term-usage:29-37",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 29,
+    "end_char": 37
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:48:term-usage:817-825",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 817,
+    "end_char": 825
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:48:term-usage:1480-1488",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1480,
+    "end_char": 1488
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:48:term-usage:2761-2769",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:48",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2761,
+    "end_char": 2769
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:50:term-usage:19-27",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 19,
+    "end_char": 27
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:50:term-usage:1274-1282",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1274,
+    "end_char": 1282
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:50:term-usage:1723-1731",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:50",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1723,
+    "end_char": 1731
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:50-a:term-usage:28-36",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:50-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 28,
+    "end_char": 36
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:51:term-usage:2937-2945",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2937,
+    "end_char": 2945
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:51:term-usage:3334-3342",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:51",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3334,
+    "end_char": 3342
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:52:term-usage:310-318",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 310,
+    "end_char": 318
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:52:term-usage:868-876",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:52",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 868,
+    "end_char": 876
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:53:term-usage:373-381",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:53",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 373,
+    "end_char": 381
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:54:term-usage:83-91",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:54",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 83,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:55:term-usage:89-97",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:55",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 89,
+    "end_char": 97
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:56:term-usage:70-78",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 70,
+    "end_char": 78
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:56:term-usage:671-679",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 671,
+    "end_char": 679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:56:term-usage:1671-1679",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:56",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1671,
+    "end_char": 1679
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:57:term-usage:115-123",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:57",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 115,
+    "end_char": 123
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58:term-usage:64-72",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 64,
+    "end_char": 72
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58:term-usage:5041-5049",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 5041,
+    "end_char": 5049
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-a:term-usage:107-135",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 107,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-a:term-usage:175-183",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-a",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 175,
+    "end_char": 183
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-b:term-usage:90-118",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-b",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 90,
+    "end_char": 118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-b:term-usage:123-131",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-b",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 123,
+    "end_char": 131
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-b:term-usage:269-300",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-b",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:direccion-de-correo-electronico",
+    "span": "Dirección de Correo Electrónico",
+    "start_char": 269,
+    "end_char": 300
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-b:term-usage:429-437",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-b",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 429,
+    "end_char": 437
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-c:term-usage:273-304",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-c",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:direccion-de-correo-electronico",
+    "span": "Dirección de Correo Electrónico",
+    "start_char": 273,
+    "end_char": 304
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-d:term-usage:6-34",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-d",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 6,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-d:term-usage:39-47",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-d",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 39,
+    "end_char": 47
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-d:term-usage:64-86",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-d",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:expediente-electronico",
+    "span": "Expediente Electrónico",
+    "start_char": 64,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-d:term-usage:464-472",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-d",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 464,
+    "end_char": 472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-e:term-usage:3-29",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-e",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:firma-electronica-avanzada",
+    "span": "Firma Electrónica Avanzada",
+    "start_char": 3,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-e:term-usage:49-59",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-e",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:contrasena",
+    "span": "Contraseña",
+    "start_char": 49,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-e:term-usage:92-120",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-e",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 92,
+    "end_char": 120
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-e:term-usage:125-133",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-e",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 125,
+    "end_char": 133
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-e:term-usage:216-242",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-e",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:firma-electronica-avanzada",
+    "span": "Firma Electrónica Avanzada",
+    "start_char": 216,
+    "end_char": 242
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-e:term-usage:262-272",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-e",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:contrasena",
+    "span": "Contraseña",
+    "start_char": 262,
+    "end_char": 272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-e:term-usage:379-400",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-e",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:archivo-electronico",
+    "span": "Archivos Electrónicos",
+    "start_char": 379,
+    "end_char": 400
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-e:term-usage:448-470",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-e",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:expediente-electronico",
+    "span": "Expediente Electrónico",
+    "start_char": 448,
+    "end_char": 470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-e:term-usage:552-580",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-e",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 552,
+    "end_char": 580
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-e:term-usage:649-657",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-e",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 649,
+    "end_char": 657
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-f:term-usage:3-29",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-f",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:firma-electronica-avanzada",
+    "span": "Firma Electrónica Avanzada",
+    "start_char": 3,
+    "end_char": 29
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-g:term-usage:91-113",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-g",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:expediente-electronico",
+    "span": "Expediente Electrónico",
+    "start_char": 91,
+    "end_char": 113
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-g:term-usage:199-209",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-g",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:contrasena",
+    "span": "Contraseña",
+    "start_char": 199,
+    "end_char": 209
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-h:term-usage:30-56",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-h",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:firma-electronica-avanzada",
+    "span": "Firma Electrónica Avanzada",
+    "start_char": 30,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-h:term-usage:76-86",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-h",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:contrasena",
+    "span": "Contraseña",
+    "start_char": 76,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-h:term-usage:188-210",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-h",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:expediente-electronico",
+    "span": "Expediente Electrónico",
+    "start_char": 188,
+    "end_char": 210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-h:term-usage:392-420",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-h",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 392,
+    "end_char": 420
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-i:term-usage:75-103",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-i",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 75,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-i:term-usage:108-116",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-i",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 108,
+    "end_char": 116
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-i:term-usage:128-155",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-i",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:acuse-de-recibo-electronico",
+    "span": "Acuse de Recibo Electrónico",
+    "start_char": 128,
+    "end_char": 155
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-j:term-usage:68-96",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-j",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 68,
+    "end_char": 96
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-j:term-usage:101-109",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-j",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 101,
+    "end_char": 109
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-k:term-usage:197-225",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-k",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 197,
+    "end_char": 225
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-k:term-usage:230-238",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-k",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 230,
+    "end_char": 238
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-k:term-usage:1006-1014",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-k",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1006,
+    "end_char": 1014
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-l:term-usage:146-168",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-l",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:expediente-electronico",
+    "span": "Expediente Electrónico",
+    "start_char": 146,
+    "end_char": 168
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-l:term-usage:734-762",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-l",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 734,
+    "end_char": 762
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-l:term-usage:767-775",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-l",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 767,
+    "end_char": 775
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-m:term-usage:523-554",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-m",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:direccion-de-correo-electronico",
+    "span": "Dirección de Correo Electrónico",
+    "start_char": 523,
+    "end_char": 554
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:324-352",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 324,
+    "end_char": 352
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:357-365",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 357,
+    "end_char": 365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:577-603",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:firma-electronica-avanzada",
+    "span": "Firma Electrónica Avanzada",
+    "start_char": 577,
+    "end_char": 603
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:653-681",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 653,
+    "end_char": 681
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:686-694",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 686,
+    "end_char": 694
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:849-880",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:direccion-de-correo-electronico",
+    "span": "Dirección de Correo Electrónico",
+    "start_char": 849,
+    "end_char": 880
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:986-1008",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:expediente-electronico",
+    "span": "Expediente Electrónico",
+    "start_char": 986,
+    "end_char": 1008
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:1040-1068",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 1040,
+    "end_char": 1068
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:1073-1081",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1073,
+    "end_char": 1081
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:1126-1154",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 1126,
+    "end_char": 1154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:1159-1167",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1159,
+    "end_char": 1167
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:1378-1406",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 1378,
+    "end_char": 1406
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:1411-1419",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1411,
+    "end_char": 1419
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:1430-1457",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:acuse-de-recibo-electronico",
+    "span": "Acuse de Recibo Electrónico",
+    "start_char": 1430,
+    "end_char": 1457
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:1536-1558",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:expediente-electronico",
+    "span": "Expediente Electrónico",
+    "start_char": 1536,
+    "end_char": 1558
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:1666-1697",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:direccion-de-correo-electronico",
+    "span": "Dirección de Correo Electrónico",
+    "start_char": 1666,
+    "end_char": 1697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:1799-1827",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 1799,
+    "end_char": 1827
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-n:term-usage:1832-1840",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-n",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1832,
+    "end_char": 1840
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-o:term-usage:145-153",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-o",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 145,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-o:term-usage:259-286",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-o",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:acuse-de-recibo-electronico",
+    "span": "Acuse de Recibo Electrónico",
+    "start_char": 259,
+    "end_char": 286
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-o:term-usage:300-328",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-o",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 300,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-o:term-usage:333-341",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-o",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 333,
+    "end_char": 341
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-p:term-usage:68-76",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-p",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 68,
+    "end_char": 76
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-p:term-usage:202-247",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-p",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:direccion-de-correo-electronico-institucional",
+    "span": "Dirección de Correo Electrónico Institucional",
+    "start_char": 202,
+    "end_char": 247
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-q:term-usage:286-294",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-q",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 286,
+    "end_char": 294
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-q:term-usage:462-484",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-q",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:expediente-electronico",
+    "span": "Expediente Electrónico",
+    "start_char": 462,
+    "end_char": 484
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-q:term-usage:578-588",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-q",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunales",
+    "start_char": 578,
+    "end_char": 588
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-q:term-usage:821-829",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-q",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 821,
+    "end_char": 829
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-r:term-usage:15-23",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-r",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 15,
+    "end_char": 23
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-r:term-usage:131-159",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-r",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 131,
+    "end_char": 159
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-r:term-usage:315-343",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-r",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:juicio-en-la-via-tradicional",
+    "span": "Juicio en la vía tradicional",
+    "start_char": 315,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-r:term-usage:412-438",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-r",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:firma-electronica-avanzada",
+    "span": "Firma Electrónica Avanzada",
+    "start_char": 412,
+    "end_char": 438
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-r:term-usage:448-458",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-r",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:contrasena",
+    "span": "Contraseña",
+    "start_char": 448,
+    "end_char": 458
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-r:term-usage:476-504",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-r",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 476,
+    "end_char": 504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-s:term-usage:97-125",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-s",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 97,
+    "end_char": 125
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-s:term-usage:372-380",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-s",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 372,
+    "end_char": 380
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-3:term-usage:19-43",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-3",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:juicio-en-la-via-sumaria",
+    "span": "Juicio en la vía Sumaria",
+    "start_char": 19,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-15:term-usage:188-196",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-15",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 188,
+    "end_char": 196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-15:term-usage:255-283",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-15",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:sistema-de-justicia-en-linea",
+    "span": "Sistema de Justicia en Línea",
+    "start_char": 255,
+    "end_char": 283
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-17:term-usage:3-11",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-17",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 3,
+    "end_char": 11
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-28:term-usage:425-433",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-28",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 425,
+    "end_char": 433
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:58-28:term-usage:1944-1952",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:58-28",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1944,
+    "end_char": 1952
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:62:term-usage:1190-1198",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:62",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1190,
+    "end_char": 1198
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:63:term-usage:756-764",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 756,
+    "end_char": 764
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:63:term-usage:5407-5415",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:63",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 5407,
+    "end_char": 5415
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:64:term-usage:135-143",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:64",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 135,
+    "end_char": 143
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:65:term-usage:113-135",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 113,
+    "end_char": 135
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:65:term-usage:777-799",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 777,
+    "end_char": 799
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:65:term-usage:967-989",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 967,
+    "end_char": 989
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:65:term-usage:1016-1024",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1016,
+    "end_char": 1024
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:65:term-usage:1099-1121",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 1099,
+    "end_char": 1121
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:65:term-usage:1174-1182",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1174,
+    "end_char": 1182
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:65:term-usage:1653-1675",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 1653,
+    "end_char": 1675
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:65:term-usage:1920-1942",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 1920,
+    "end_char": 1942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:65:term-usage:2064-2072",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:65",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 2064,
+    "end_char": 2072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:66:term-usage:100-122",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 100,
+    "end_char": 122
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:66:term-usage:164-186",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 164,
+    "end_char": 186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:66:term-usage:560-582",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 560,
+    "end_char": 582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:66:term-usage:630-638",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 630,
+    "end_char": 638
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:66:term-usage:913-921",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:66",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 913,
+    "end_char": 921
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:67:term-usage:749-771",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:67",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 749,
+    "end_char": 771
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:68:term-usage:73-95",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 73,
+    "end_char": 95
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:68:term-usage:610-618",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 610,
+    "end_char": 618
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:68:term-usage:679-701",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:68",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:boletin-jurisdiccional",
+    "span": "Boletín Jurisdiccional",
+    "start_char": 679,
+    "end_char": 701
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:73:term-usage:1415-1423",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1415,
+    "end_char": 1423
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:73:term-usage:1477-1485",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:73",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1477,
+    "end_char": 1485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:74:term-usage:324-332",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:74",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 324,
+    "end_char": 332
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:75:term-usage:209-217",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 209,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:75:term-usage:496-504",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 496,
+    "end_char": 504
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:75:term-usage:828-836",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:75",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 828,
+    "end_char": 836
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:77:term-usage:126-134",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 126,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:77:term-usage:272-280",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 272,
+    "end_char": 280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:77:term-usage:571-579",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:77",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 571,
+    "end_char": 579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:78:term-usage:237-245",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 237,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:78:term-usage:535-543",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 535,
+    "end_char": 543
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:78:term-usage:717-725",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 717,
+    "end_char": 725
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:78:term-usage:1027-1035",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1027,
+    "end_char": 1035
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:78:term-usage:1456-1464",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:78",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 1456,
+    "end_char": 1464
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:79:term-usage:14-22",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 14,
+    "end_char": 22
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:79:term-usage:71-79",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 71,
+    "end_char": 79
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:79:term-usage:187-195",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 187,
+    "end_char": 195
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:79:term-usage:284-292",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 284,
+    "end_char": 292
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:article:79:term-usage:499-507",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:article:79",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 499,
+    "end_char": 507
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfpca:transitory:cuarto:term-usage:49-57",
+    "provision_id": "urn:lex-mx:federal:statute:lfpca:transitory:cuarto",
+    "term_id": "urn:lex-mx:federal:statute:lfpca:term:tribunal",
+    "span": "Tribunal",
+    "start_char": 49,
+    "end_char": 57
+  }
+]

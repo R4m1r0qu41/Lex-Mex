@@ -467,12 +467,17 @@ fn is_immediate_structural(
 
 /// A decree title, as opposed to a wrapped sentence whose next source line
 /// happens to begin with `Decreto de ...`. Diputados prints appendix decree
-/// titles in uppercase; the two title-case forms cover older consolidations
-/// without treating an embedded decree citation as a structural boundary.
+/// titles in uppercase; the title-case forms cover older consolidations
+/// without treating an embedded decree citation as a structural boundary. The
+/// bare `Decreto de ` prefix is deliberately not matched (it is common inside
+/// ordinary prose); `Decreto de reformas ` is narrow enough to admit safely —
+/// a decree citing itself as reforms to another instrument, distinct from
+/// `Decreto que`/`Decreto por el que` only in its opening connector.
 fn is_decree_heading(block: &str) -> bool {
     block.starts_with("DECRETO ")
         || block.starts_with("Decreto por el que ")
         || block.starts_with("Decreto que ")
+        || block.starts_with("Decreto de reformas ")
 }
 
 /// A later regulation named in a Diputados reform appendix. The mixed
@@ -481,6 +486,13 @@ fn is_decree_heading(block: &str) -> bool {
 /// instrument's all-uppercase running title and ordinary prose.
 fn is_reform_regulation_heading(block: &str) -> bool {
     block.starts_with("REGLAMENTO de ") || block.starts_with("REGLAMENTO en ")
+}
+
+/// A reform-decree appendix entry whose amending act is itself a *ley*
+/// (`LEY que reforma ...`, `Ley que establece ...`) rather than a decreto or
+/// reglamento — older consolidations record some reforms this way.
+fn is_reform_ley_heading(block: &str) -> bool {
+    block.starts_with("LEY que ") || block.starts_with("Ley que ")
 }
 
 /// Line-level flush trigger, deliberately looser than the block-level
@@ -552,6 +564,21 @@ fn normalized_blocks(
             continue;
         }
         if crossed_page_furniture && amendment_mark_end.is_match(&current) {
+            flush_block(&mut current, &mut blocks);
+            crossed_page_furniture = false;
+        }
+        // A Ley-form reform-act heading ("Ley que ...", "LEY que ...") is
+        // not made an unconditional `is_immediate_structural` flush trigger
+        // like Decreto/Reglamento headings: unlike those, "Ley que" is
+        // ordinary Spanish legal prose ("esta Ley que hayan quedado
+        // firmes...", "en términos de la Ley que la rige...") and matching
+        // it unconditionally corrupted body text wherever a PDF line wrap
+        // happened to start with it. Scoped to `crossed_page_furniture`
+        // instead: the failure this exists for is specifically a heading
+        // silently absorbed into unrelated content across a page break
+        // (confirmed against lfd's real committed source), so only force a
+        // split there, where the false-positive risk is negligible.
+        if crossed_page_furniture && is_reform_ley_heading(line) {
             flush_block(&mut current, &mut blocks);
             crossed_page_furniture = false;
         }
@@ -964,6 +991,8 @@ fn reform_act_heading_kind(block: &str) -> Option<&'static str> {
         Some("Decreto")
     } else if is_reform_regulation_heading(block) {
         Some("Reglamento")
+    } else if is_reform_ley_heading(block) {
+        Some("Ley")
     } else {
         None
     }
@@ -1147,6 +1176,11 @@ mod tests {
         include_str!("../../../fixtures/diputados/article-quintus-sample.txt");
     const REFORM_ORDINAL_FIRST_DAY_FIXTURE: &str =
         include_str!("../../../fixtures/diputados/reform-ordinal-first-day-publication-sample.txt");
+    const REFORM_LEY_HEADING_ACROSS_PAGE_FURNITURE_FIXTURE: &str = include_str!(
+        "../../../fixtures/diputados/reform-ley-heading-across-page-furniture-sample.txt"
+    );
+    const REFORM_DECRETO_DE_REFORMAS_HEADING_FIXTURE: &str =
+        include_str!("../../../fixtures/diputados/reform-decreto-de-reformas-heading-sample.txt");
 
     fn options(instrument_id: &str, title: &str) -> DiputadosOptions {
         DiputadosOptions {
@@ -1606,6 +1640,62 @@ mod tests {
                 "urn:lex-mx:federal:statute:sample:amendment:2005-09-01:transitory:segundo",
             ]
         );
+    }
+
+    #[test]
+    fn a_ley_heading_split_from_prior_content_by_page_furniture_is_recognized() {
+        // A real omnibus reform recorded as a Ley (not a Decreto or
+        // Reglamento) -- confirmed against lfd's real committed source,
+        // where an unrelated correction note and this heading share a page
+        // break -- would get silently absorbed into the preceding block,
+        // leaving `act_kind` unset and crashing on the first transitory
+        // that followed. Unlike Decreto/Reglamento headings,
+        // `is_reform_ley_heading` is deliberately NOT an unconditional
+        // `is_immediate_structural` flush trigger: "Ley que" is ordinary
+        // Spanish legal prose, and matching it unconditionally corrupted
+        // body text wherever a PDF line wrap happened to start with it
+        // (found by regression-testing against the existing corpus before
+        // this landed). It is instead scoped to `crossed_page_furniture`,
+        // matching the `amendment_mark_end` precedent already in
+        // `normalized_blocks` -- narrow enough to fix this real failure
+        // without the false-positive risk.
+        let evidence = super::extract_reform_evidence(
+            REFORM_LEY_HEADING_ACROSS_PAGE_FURNITURE_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+        )
+        .expect(
+            "a Ley heading split by page furniture must not strand the transitory that follows it",
+        );
+
+        assert_eq!(evidence.len(), 1);
+        assert_eq!(
+            evidence[0].provision_id,
+            "urn:lex-mx:federal:statute:sample:amendment:1985-05-05:transitory:primero"
+        );
+        assert!(evidence[0].label.contains("Ley DOF 1985-05-05"));
+    }
+
+    #[test]
+    fn a_decreto_de_reformas_heading_is_recognized_as_a_decree_heading() {
+        // `is_decree_heading` deliberately does not match the bare
+        // `Decreto de ` prefix (it is common inside ordinary prose), but
+        // `Decreto de reformas ` is narrow enough to admit safely --
+        // confirmed against lgdp's real committed source, whose first
+        // reform decree is titled "Decreto de reformas y adiciones a
+        // diversos artículos..." rather than the already-recognized
+        // "Decreto que"/"Decreto por el que" forms.
+        let evidence = super::extract_reform_evidence(
+            REFORM_DECRETO_DE_REFORMAS_HEADING_FIXTURE,
+            &options("urn:lex-mx:federal:statute:sample", "Ley de Muestra"),
+        )
+        .expect("a Decreto de reformas heading must be recognized as the containing act heading");
+
+        assert_eq!(evidence.len(), 1);
+        assert_eq!(
+            evidence[0].provision_id,
+            "urn:lex-mx:federal:statute:sample:amendment:1983-12-28:transitory:unico"
+        );
+        assert!(evidence[0].label.contains("Decreto DOF 1983-12-28"));
     }
 
     #[test]

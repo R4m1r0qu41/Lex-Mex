@@ -1,0 +1,2198 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:1:term-usage:535-541",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:1",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 535,
+    "end_char": 541
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:2:term-usage:72-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:2",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 72,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:3:term-usage:145-165",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 145,
+    "end_char": 165
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:3:term-usage:372-378",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 372,
+    "end_char": 378
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:3:term-usage:751-767",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:3",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 751,
+    "end_char": 767
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:4:term-usage:52-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:4",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 52,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:5:term-usage:59-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:5",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 59,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:6:term-usage:49-55",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:6",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 49,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:7:term-usage:37-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:7",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 37,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:8:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:8",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:9:term-usage:62-68",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 62,
+    "end_char": 68
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:9:term-usage:90-106",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:9",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 90,
+    "end_char": 106
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:10:term-usage:54-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 54,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:10:term-usage:213-229",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 213,
+    "end_char": 229
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:10:term-usage:680-686",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:10",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 680,
+    "end_char": 686
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:11:term-usage:51-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:11",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 51,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:12:term-usage:52-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 52,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:12:term-usage:291-311",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:12",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 291,
+    "end_char": 311
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:13:term-usage:63-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 63,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:13:term-usage:490-510",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:13",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 490,
+    "end_char": 510
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:14:term-usage:54-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:14",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 54,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:15:term-usage:69-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:15",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 69,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:16:term-usage:48-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 48,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:16:term-usage:106-126",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:16",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 106,
+    "end_char": 126
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:17:term-usage:37-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 37,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:17:term-usage:241-257",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:17",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 241,
+    "end_char": 257
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:18:term-usage:39-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:18",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 39,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:19:term-usage:37-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:19",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 37,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:20:term-usage:76-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 76,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:20:term-usage:313-319",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:20",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 313,
+    "end_char": 319
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:21:term-usage:79-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 79,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:21:term-usage:791-807",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:21",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 791,
+    "end_char": 807
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:22:term-usage:37-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:22",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 37,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:24:term-usage:475-481",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:24",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 475,
+    "end_char": 481
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:25:term-usage:37-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:25",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 37,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:26:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:26:term-usage:528-544",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:26",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 528,
+    "end_char": 544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:27:term-usage:54-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:27",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 54,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:28:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:28:term-usage:1461-1467",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:28",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1461,
+    "end_char": 1467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:29:term-usage:37-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:29",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 37,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:30:term-usage:562-568",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 562,
+    "end_char": 568
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:30:term-usage:811-817",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 811,
+    "end_char": 817
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:30:term-usage:5266-5272",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 5266,
+    "end_char": 5272
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:30:term-usage:8291-8297",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:30",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 8291,
+    "end_char": 8297
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:31:term-usage:79-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:31",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 79,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:32:term-usage:60-66",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:32",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 60,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:33:term-usage:56-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:33",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 56,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:34:term-usage:51-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 51,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:34:term-usage:313-333",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 313,
+    "end_char": 333
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:34:term-usage:1007-1013",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:34",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1007,
+    "end_char": 1013
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:35:term-usage:37-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 37,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:35:term-usage:815-835",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:35",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 815,
+    "end_char": 835
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:36:term-usage:48-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 48,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:36:term-usage:66-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:36",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 66,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:37:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:37",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:38:term-usage:63-69",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:38",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 63,
+    "end_char": 69
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:39:term-usage:67-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:39",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 67,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:40:term-usage:51-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 51,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:40:term-usage:397-403",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:40",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 397,
+    "end_char": 403
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:41:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:41",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:42:term-usage:69-75",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:42",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 69,
+    "end_char": 75
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:43:term-usage:60-66",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:43",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 60,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:44:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:44:term-usage:303-309",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:44",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 303,
+    "end_char": 309
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:46:term-usage:39-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 39,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:46:term-usage:51-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:46",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 51,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:47:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:47",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:48:term-usage:71-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 71,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:48:term-usage:83-103",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:48",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 83,
+    "end_char": 103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:49:term-usage:51-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:49",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 51,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:50:term-usage:67-73",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:50",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 67,
+    "end_char": 73
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:51:term-usage:57-63",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 57,
+    "end_char": 63
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:51:term-usage:68-84",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:51",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 68,
+    "end_char": 84
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:52:term-usage:49-55",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 49,
+    "end_char": 55
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:52:term-usage:287-293",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 287,
+    "end_char": 293
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:52:term-usage:1366-1372",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1366,
+    "end_char": 1372
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:52:term-usage:2045-2051",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 2045,
+    "end_char": 2051
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:52:term-usage:3027-3043",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:52",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 3027,
+    "end_char": 3043
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:term-usage:856-862",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 856,
+    "end_char": 862
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:term-usage:1606-1622",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 1606,
+    "end_char": 1622
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:term-usage:1736-1752",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 1736,
+    "end_char": 1752
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:term-usage:1871-1877",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1871,
+    "end_char": 1877
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:term-usage:2062-2068",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 2062,
+    "end_char": 2068
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:term-usage:2175-2191",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 2175,
+    "end_char": 2191
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:term-usage:2446-2462",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 2446,
+    "end_char": 2462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:term-usage:2569-2575",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 2569,
+    "end_char": 2575
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:53:term-usage:2588-2604",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:53",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 2588,
+    "end_char": 2604
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:54:term-usage:56-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 56,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:54:term-usage:133-153",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 133,
+    "end_char": 153
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:54:term-usage:691-697",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 691,
+    "end_char": 697
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:54:term-usage:1887-1903",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 1887,
+    "end_char": 1903
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:54:term-usage:2175-2181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:54",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 2175,
+    "end_char": 2181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:55:term-usage:60-66",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 60,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:55:term-usage:341-347",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 341,
+    "end_char": 347
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:55:term-usage:1274-1280",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1274,
+    "end_char": 1280
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:55:term-usage:1405-1411",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1405,
+    "end_char": 1411
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:55:term-usage:1827-1843",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 1827,
+    "end_char": 1843
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:55:term-usage:3560-3566",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:55",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 3560,
+    "end_char": 3566
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:56:term-usage:60-66",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:56",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 60,
+    "end_char": 66
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:57:term-usage:141-147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 141,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:57:term-usage:607-613",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:57",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 607,
+    "end_char": 613
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:58:term-usage:39-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:58",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 39,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:59:term-usage:39-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 39,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:59:term-usage:502-508",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 502,
+    "end_char": 508
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:59:term-usage:644-650",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 644,
+    "end_char": 650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:59:term-usage:775-791",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 775,
+    "end_char": 791
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:59:term-usage:1048-1054",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1048,
+    "end_char": 1054
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:59:term-usage:1112-1118",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:59",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1112,
+    "end_char": 1118
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:60:term-usage:50-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:60",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 50,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:61:term-usage:80-86",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 80,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:61:term-usage:127-147",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 127,
+    "end_char": 147
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:61:term-usage:469-485",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:61",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 469,
+    "end_char": 485
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:62:term-usage:86-92",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:62",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 86,
+    "end_char": 92
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:63:term-usage:39-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 39,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:63:term-usage:155-175",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:63",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 155,
+    "end_char": 175
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:64:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:64",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:65:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:65:term-usage:438-444",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 438,
+    "end_char": 444
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:65:term-usage:601-607",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 601,
+    "end_char": 607
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:65:term-usage:1049-1055",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1049,
+    "end_char": 1055
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:65:term-usage:1122-1128",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:65",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1122,
+    "end_char": 1128
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:term-usage:160-176",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 160,
+    "end_char": 176
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:term-usage:337-343",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 337,
+    "end_char": 343
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:term-usage:490-506",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 490,
+    "end_char": 506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:term-usage:662-668",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 662,
+    "end_char": 668
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:term-usage:1061-1067",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1061,
+    "end_char": 1067
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:term-usage:1072-1088",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 1072,
+    "end_char": 1088
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:term-usage:1457-1473",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 1457,
+    "end_char": 1473
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:66:term-usage:1671-1677",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:66",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1671,
+    "end_char": 1677
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:67:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:67:term-usage:239-245",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 239,
+    "end_char": 245
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:67:term-usage:381-387",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 381,
+    "end_char": 387
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:67:term-usage:393-409",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 393,
+    "end_char": 409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:67:term-usage:577-583",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:67",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 577,
+    "end_char": 583
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:68:term-usage:109-115",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:68",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 109,
+    "end_char": 115
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:69:term-usage:56-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:69",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 56,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:70:term-usage:55-61",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 55,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:70:term-usage:66-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:70",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 66,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:71:term-usage:56-62",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 56,
+    "end_char": 62
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:71:term-usage:289-295",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 289,
+    "end_char": 295
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:71:term-usage:312-328",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:71",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 312,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:72:term-usage:39-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 39,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:72:term-usage:183-189",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:72",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 183,
+    "end_char": 189
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:73:term-usage:54-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 54,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:73:term-usage:215-221",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:73",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 215,
+    "end_char": 221
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:74:term-usage:39-45",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:74",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 39,
+    "end_char": 45
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:75:term-usage:37-43",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 37,
+    "end_char": 43
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:75:term-usage:168-174",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:75",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 168,
+    "end_char": 174
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:76:term-usage:93-99",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:76",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 93,
+    "end_char": 99
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:77:term-usage:38-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 38,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:77:term-usage:758-764",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:77",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 758,
+    "end_char": 764
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:78:term-usage:50-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:78",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 50,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:79:term-usage:563-579",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:79",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 563,
+    "end_char": 579
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:80:term-usage:3-19",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 3,
+    "end_char": 19
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:80:term-usage:948-964",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 948,
+    "end_char": 964
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:80:term-usage:1330-1336",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:80",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1330,
+    "end_char": 1336
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:81:term-usage:51-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 51,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:81:term-usage:882-888",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 882,
+    "end_char": 888
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:81:term-usage:1359-1375",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:81",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 1359,
+    "end_char": 1375
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:82:term-usage:52-58",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 52,
+    "end_char": 58
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:82:term-usage:280-296",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:82",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 280,
+    "end_char": 296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:83:term-usage:51-57",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 51,
+    "end_char": 57
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:83:term-usage:294-310",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 294,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:83:term-usage:1359-1365",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:83",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1359,
+    "end_char": 1365
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:84:term-usage:171-177",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:84",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 171,
+    "end_char": 177
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:85:term-usage:50-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 50,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:85:term-usage:756-772",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 756,
+    "end_char": 772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:85:term-usage:1028-1044",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 1028,
+    "end_char": 1044
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:85:term-usage:1379-1385",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:85",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1379,
+    "end_char": 1385
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:86:term-usage:50-56",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 50,
+    "end_char": 56
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:86:term-usage:789-795",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 789,
+    "end_char": 795
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:86:term-usage:1964-1970",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:86",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1964,
+    "end_char": 1970
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:87:term-usage:54-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 54,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:87:term-usage:235-251",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 235,
+    "end_char": 251
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:87:term-usage:317-323",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 317,
+    "end_char": 323
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:87:term-usage:488-494",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 488,
+    "end_char": 494
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:87:term-usage:565-581",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 565,
+    "end_char": 581
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:87:term-usage:873-879",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 873,
+    "end_char": 879
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:87:term-usage:1008-1024",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 1008,
+    "end_char": 1024
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:87:term-usage:1204-1210",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:87",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1204,
+    "end_char": 1210
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:88:term-usage:148-154",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 148,
+    "end_char": 154
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:88:term-usage:524-530",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:88",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 524,
+    "end_char": 530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:90:term-usage:118-134",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 118,
+    "end_char": 134
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:90:term-usage:260-276",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 260,
+    "end_char": 276
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:90:term-usage:582-598",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:90",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 582,
+    "end_char": 598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:91:term-usage:54-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:91",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 54,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:91:term-usage:66-86",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:91",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 66,
+    "end_char": 86
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:91:term-usage:508-514",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:91",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 508,
+    "end_char": 514
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:92:term-usage:54-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 54,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:92:term-usage:128-144",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 128,
+    "end_char": 144
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:92:term-usage:1061-1067",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:92",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1061,
+    "end_char": 1067
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:93:term-usage:38-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 38,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:93:term-usage:57-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 57,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:93:term-usage:268-274",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 268,
+    "end_char": 274
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:93:term-usage:361-377",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:93",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 361,
+    "end_char": 377
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:94:term-usage:38-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 38,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:94:term-usage:49-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 49,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:94:term-usage:582-598",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:94",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 582,
+    "end_char": 598
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:95:term-usage:76-82",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 76,
+    "end_char": 82
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:95:term-usage:440-446",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 440,
+    "end_char": 446
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:95:term-usage:656-662",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 656,
+    "end_char": 662
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:95:term-usage:668-688",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:95",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 668,
+    "end_char": 688
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:96:term-usage:65-71",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 65,
+    "end_char": 71
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:96:term-usage:304-310",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:96",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 304,
+    "end_char": 310
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:97:term-usage:54-60",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:97",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 54,
+    "end_char": 60
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:98:term-usage:38-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:98",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 38,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:98:term-usage:150-166",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:98",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 150,
+    "end_char": 166
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:99:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:99:term-usage:1031-1037",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:99",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 1031,
+    "end_char": 1037
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:100:term-usage:53-59",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 53,
+    "end_char": 59
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:100:term-usage:278-284",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 278,
+    "end_char": 284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:100:term-usage:845-861",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 845,
+    "end_char": 861
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:100:term-usage:2562-2578",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 2562,
+    "end_char": 2578
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:100:term-usage:3056-3072",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:100",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 3056,
+    "end_char": 3072
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:101:term-usage:48-54",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 48,
+    "end_char": 54
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:101:term-usage:211-217",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 211,
+    "end_char": 217
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:101:term-usage:566-582",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 566,
+    "end_char": 582
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:101:term-usage:741-757",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:101",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 741,
+    "end_char": 757
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:102:term-usage:55-61",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 55,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:102:term-usage:161-181",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridades Fiscales",
+    "start_char": 161,
+    "end_char": 181
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:102:term-usage:312-328",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:102",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 312,
+    "end_char": 328
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:103:term-usage:38-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 38,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:103:term-usage:456-462",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:103",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 456,
+    "end_char": 462
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:105:term-usage:79-85",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:105",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 79,
+    "end_char": 85
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:105:term-usage:698-704",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:105",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 698,
+    "end_char": 704
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:106:term-usage:55-61",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:106",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 55,
+    "end_char": 61
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:107:term-usage:125-141",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 125,
+    "end_char": 141
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:107:term-usage:323-329",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 323,
+    "end_char": 329
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:107:term-usage:470-486",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:107",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 470,
+    "end_char": 486
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:108:term-usage:38-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 38,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:108:term-usage:49-65",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:108",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 49,
+    "end_char": 65
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:109:term-usage:61-77",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:109",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 61,
+    "end_char": 77
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:110:term-usage:64-70",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 64,
+    "end_char": 70
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:110:term-usage:75-91",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:autoridades-fiscales",
+    "span": "Autoridad Fiscal",
+    "start_char": 75,
+    "end_char": 91
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:110:term-usage:285-291",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:110",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 285,
+    "end_char": 291
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:111:term-usage:38-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 38,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:111:term-usage:282-288",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:111",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 282,
+    "end_char": 288
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:112:term-usage:38-44",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:112",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 38,
+    "end_char": 44
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:article:113:term-usage:92-98",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:article:113",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 92,
+    "end_char": 98
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:transitory:segundo:term-usage:28-34",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:transitory:segundo",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 28,
+    "end_char": 34
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:transitory:tercero:term-usage:302-308",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:transitory:tercero",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 302,
+    "end_char": 308
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:regulation:reg-cff:transitory:quinto:term-usage:220-226",
+    "provision_id": "urn:lex-mx:federal:regulation:reg-cff:transitory:quinto",
+    "term_id": "urn:lex-mx:federal:regulation:reg-cff:term:codigo",
+    "span": "Código",
+    "start_char": 220,
+    "end_char": 226
+  }
+]

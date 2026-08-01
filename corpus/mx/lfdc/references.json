@@ -1,0 +1,135 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdc:article:14:reference:66-67:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdc:article:14",
+    "source_span": "2",
+    "start_char": 66,
+    "end_char": 67,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdc:article:2",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XIII",
+        "start_char": 39,
+        "end_char": 52
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdc:article:16:reference:1554-1556:18:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdc:article:16",
+    "source_span": "18",
+    "start_char": 1554,
+    "end_char": 1556,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdc:article:18",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdc:article:18:reference:242-244:16:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdc:article:18",
+    "source_span": "16",
+    "start_char": 242,
+    "end_char": 244,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdc:article:16",
+    "qualifiers": [
+      {
+        "qualifier_type": "paragraph",
+        "text": "tercer párrafo",
+        "start_char": 214,
+        "end_char": 228
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdc:transitory:tercero:reference:308-309:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdc:transitory:tercero",
+    "source_span": "2",
+    "start_char": 308,
+    "end_char": 309,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdc:article:2",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción XIV",
+        "start_char": 282,
+        "end_char": 294
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdc:transitory:tercero:reference:549-550:2:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdc:transitory:tercero",
+    "source_span": "2",
+    "start_char": 549,
+    "end_char": 550,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdc:article:2",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdc:transitory:tercero:reference:870-872:24:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdc:transitory:tercero",
+    "source_span": "24",
+    "start_char": 870,
+    "end_char": 872,
+    "target_instrument_id": "urn:lex-mx:federal:statute:lfdc",
+    "target_provision_id": "urn:lex-mx:federal:statute:lfdc:article:24",
+    "qualifiers": [],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:statute:lfdc:transitory:tercero:reference:1282-1284:89:direct",
+    "source_provision_id": "urn:lex-mx:federal:statute:lfdc:transitory:tercero",
+    "source_span": "89",
+    "start_char": 1282,
+    "end_char": 1284,
+    "target_instrument_id": "urn:lex-mx:federal:constitution:cpeum",
+    "target_provision_id": "urn:lex-mx:federal:constitution:cpeum:article:89",
+    "qualifiers": [
+      {
+        "qualifier_type": "fraction",
+        "text": "fracción I",
+        "start_char": 1258,
+        "end_char": 1268
+      }
+    ],
+    "basis": "express_cross_reference",
+    "confidence": 1.0,
+    "resolution_status": "resolved",
+    "reference_form": "direct"
+  }
+]

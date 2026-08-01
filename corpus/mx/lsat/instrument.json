@@ -1,0 +1,19 @@
+{
+  "schema_version": "0.1.0",
+  "id": "urn:lex-mx:federal:statute:lsat",
+  "jurisdiction": "mx",
+  "level": "federal",
+  "instrument_type": "statute",
+  "official_title": "Ley del Servicio de Administración Tributaria",
+  "short_name": "LSAT",
+  "operational_source": "camara_de_diputados",
+  "formal_publication_source": "dof",
+  "publication_date": "1995-12-15",
+  "latest_reform_date": "2018-12-04",
+  "retrieved_at": "2026-08-01T19:31:09.906490Z",
+  "source_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/93_041218.pdf",
+  "source_sha256": "ba54c4384528c6b47fbb3f641cb57dd089a9f1770306b45776ad1711eaca21d5",
+  "extracted_text_sha256": "32c3f2d9cc8dca377e40483f47d8ea54e5828f9501e4b779d07e2eb8af2441bc",
+  "parser_version": "0.1.0",
+  "status": "in_force"
+}
