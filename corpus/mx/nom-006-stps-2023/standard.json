@@ -24,6 +24,12 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "Apéndice I No Normativo",
+      "kind": "appendix"
+    }
+  ],
   "systematic_review": null,
   "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/NOM-006-STPS-2023.pdf",
   "official_dof_url": "https://www.dof.gob.mx/normasOficiales/9412/stps/stps.html",

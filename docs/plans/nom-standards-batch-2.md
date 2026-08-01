@@ -44,10 +44,10 @@ it.
 | NOM-015-STPS-2001 | ingested (99 clauses, 2 transitories) |
 | NOM-017-STPS-2024 | ingested (51 clauses, 3 transitories) |
 | NOM-018-STPS-2015 | ingested (147 clauses, 3 transitories) |
-| NOM-019-STPS-2011 | held — clause defect fixed; `transitory-absorbs-annex` |
+| NOM-019-STPS-2011 | ingested 2026-07-31 (94 clauses, 3 transitories, 1 non-binding guide supplement) |
 | NOM-020-STPS-2011 | ingested (162 clauses, 5 transitories, 1 unconsolidated-modification warning) |
 | NOM-022-STPS-2015 | ingested (83 clauses, 3 transitories) |
-| NOM-024-STPS-2001 | held — clause defect fixed; `transitory-absorbs-annex` |
+| NOM-024-STPS-2001 | ingested 2026-07-31 (87 clauses, 2 transitories, 2 non-binding guide supplements) |
 | NOM-025-STPS-2008 | ingested (81 clauses, 3 transitories) |
 | NOM-026-STPS-2008 | ingested (96 clauses, 3 transitories) |
 | NOM-027-STPS-2008 | ingested (81 clauses, 3 transitories) |
@@ -62,7 +62,7 @@ it.
 | NOM | Status |
 |---|---|
 | NOM-001-SEMARNAT-2021 | ingested (151 clauses, 7 transitories) |
-| NOM-052-SEMARNAT-2005 | held — clause defect fixed; `transitory-absorbs-annex` |
+| NOM-052-SEMARNAT-2005 | ingested 2026-07-31 (76 clauses, 3 transitories, 8 supplements) |
 | NOM-161-SEMARNAT-2011 | ingested (86 clauses, 5 transitories) |
 
 ### Table 4 — gap-analysis additions (2 remaining)
@@ -139,16 +139,11 @@ transitory swallows trailing guide/table material because
 `ANEXO`. It affects committed standards too (NOM-027's TERCERO is 22,370
 chars; NOM-085's QUINTO 27,938).
 
-## Next action
+## Resolution (2026-07-31)
 
-Decide how post-transitorios material is modeled. That single decision
-unblocks the three held instruments *and* corrects the committed
-standards carrying oversized transitorios. It is a design question, not a
-marker list: some trailing material is normative (NOM-052's Listados,
-NOM-010's exposure limits) and some is explicitly non-binding (Guías de
-Referencia, "no es de cumplimiento obligatorio"), and the reviewer has
-indicated the tables and formulas likely need vision-assisted extraction
-rather than line parsing. NOM-002-SEMARNAT-1996 is resolved and ingested: the reviewer granted
-authority to apply an ECOL→SEMARNAT rename where the registry shows one and
-keep the published prefix where it does not (as with SCFI), and the new
-`published_designation` field records the discrepancy on the record itself.
+Exact-span opaque `StandardSupplement` records close the post-transitory
+modeling decision without parsing tables, forms, or inferred legal effect.
+Fresh Platiica downloads matched every recorded source and extracted-text
+SHA-256 before compile. NOM-019, NOM-024 and NOM-052 now pass with the
+expected 94/3/1, 87/2/2 and 76/3/8 clause/transitory/supplement counts. All 27
+batch candidates are canonical; the batch has no held instrument remaining.

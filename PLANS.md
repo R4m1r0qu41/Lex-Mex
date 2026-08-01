@@ -63,4 +63,6 @@ secrets, transcripts, hidden reasoning, or mutable copies of external state.
 
 ### Completed
 
-None yet.
+- [`docs/plans/standard-post-transitory-supplements.md`](docs/plans/standard-post-transitory-supplements.md)
+  — Modeled exact-span standard supplements, migrated committed tails, and
+  ingested the three standards held on transitory/supplement partitioning.

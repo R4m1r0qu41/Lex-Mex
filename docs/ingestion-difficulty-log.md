@@ -116,6 +116,17 @@ Fixtures: `page-break-heading-sample.txt`,
 
 ## Log
 
+### standard-post-transitory-supplements — resolved 2026-07-31
+
+The `transitory-absorbs-annex` class is closed by exact configured top-level
+supplement anchors and a shared tail layout. All 29 committed standards were
+inventoried; 23 carry represented supplements and six carry the required
+empty file. The inventory found seven previously silent swallowed-guide cases
+behind unrecognized `Dado en…` closings in addition to the known warning set.
+No clause changed; every earlier transitory stayed exact; 11 final
+transitories lost only closing/supplement material. NOM-019, NOM-024 and
+NOM-052 were then eligible for their held-out ingestion gate.
+
 ### nom-019-stps-2011 — annex-form-numbering — 2026-07-28
 
 What's difficult: `parse_standard_clauses` (`crates/lex-parse/src/standard.rs`)
@@ -161,8 +172,8 @@ exactly the Scope 1 locator this entry predicted would have to be reused.
 NOM-019 has TRANSITORIOS at bytes 4879 (índice) and 64447 (real); the
 annex form begins at 66508, after the real section.
 
-**Still held out** on `transitory-absorbs-annex`: its TERCERO transitory
-runs to 46,521 chars, having swallowed the whole Guía de Referencia I
+**Resolved and ingested 2026-07-31:** its TERCERO transitory no longer
+swallows the whole Guía de Referencia I
 (the reviewer confirms this guide is explicitly *not* binding — "no es de
 cumplimiento obligatorio" — so it should not be inside a transitory).
 
@@ -213,7 +224,7 @@ What was tried: compiled to `.work/` only. Detected by a label-content
 check (a clause label containing no alphabetic character), not by the
 validator, which reports 0 issues.
 
-Status: **clause defect closed 2026-07-29** (the `12.5` table row is now excluded — the body bounds at TRANSITORIOS). **Still held out** on `transitory-absorbs-annex`: its SEGUNDO transitory runs to 17,094 chars, having swallowed the reference guide on vibration-exposure calculation and its untitled frequency-band table (whose headings are `Número de Banda de Frecuencia | Frecuencia Central (Hz) | Factor de Ponderación`, which is why the absorbed row read as bare numbers).
+Status: **resolved and ingested 2026-07-31.** The `12.5` table row remains excluded and SEGUNDO is separated from two explicitly non-binding reference guides; the frequency-band table stays opaque inside Guía I.
 ### nom-052-semarnat-2005 — indice-selected-as-body — 2026-07-28
 
 What's difficult: the compiled `clauses.json` contains exactly 11 clauses
@@ -230,7 +241,7 @@ coverage check (selected-run byte span ÷ document length), which is a
 cheap and apparently reliable discriminator for this class — every other
 instrument in this batch scored ≥0.31.
 
-Status: **clause defect closed 2026-07-29** (the form-feed fix reveals the real body: 76 clauses, tops 1-11, 55% coverage, starting at the true `1. Introducción`). **Still held out** on `transitory-absorbs-annex`: its TERCERO transitory runs to 83,226 chars, having swallowed the Tablas, Listados 1-5, Figura and Anexo 1 — which the reviewer confirms are **normative**, not a guide. It also parses only SEGUNDO and TERCERO, with no PRIMERO, which needs checking before ingestion.
+Status: **resolved and ingested 2026-07-31.** The real body has 76 clauses and all three transitories parse. Tables 1-2, Listados 1-5 and Anexo 1 are eight opaque exact-span supplements. Legal character stays `unspecified` because this boundary records explicit source declarations, not an external characterization.
 ### nom-002-semarnat-1996 — metadata-ambiguity — 2026-07-28
 
 What's difficult: not a parser problem — the text parses cleanly (72

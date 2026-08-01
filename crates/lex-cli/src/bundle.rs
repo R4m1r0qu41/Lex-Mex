@@ -33,6 +33,7 @@ const STANDARD_CANONICAL_FILES: &[&str] = &[
     "standard.json",
     "clauses.json",
     "transitories.json",
+    "supplements.json",
     "extracted-text.txt",
     "validation.json",
 ];
@@ -519,6 +520,11 @@ mod tests {
                 .join("instruments/nom-999-test-2026/transitories.json")
                 .is_file()
         );
+        assert!(
+            output
+                .join("instruments/nom-999-test-2026/supplements.json")
+                .is_file()
+        );
     }
 
     fn write_fixture(root: &Path, slug: &str) {
@@ -621,6 +627,7 @@ mod tests {
             conformity_assessment: None,
             text_basis: StandardTextBasis::AsPublished,
             modifications: Vec::new(),
+            supplement_starts: Vec::new(),
             systematic_review: None,
             source_url: Url::parse("https://example.test/source.pdf").unwrap(),
             official_dof_url: Url::parse("https://example.test/dof").unwrap(),
@@ -638,6 +645,7 @@ mod tests {
             standard_id: id,
             valid: true,
             clause_count: 0,
+            supplement_count: 0,
             issues: Vec::new(),
         };
         fs::write(
@@ -647,6 +655,7 @@ mod tests {
         .unwrap();
         fs::write(directory.join("clauses.json"), "[]\n").unwrap();
         fs::write(directory.join("transitories.json"), "[]\n").unwrap();
+        fs::write(directory.join("supplements.json"), "[]\n").unwrap();
         fs::write(directory.join("extracted-text.txt"), "fixture\n").unwrap();
         fs::write(
             directory.join("validation.json"),

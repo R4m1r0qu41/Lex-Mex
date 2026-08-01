@@ -166,7 +166,50 @@ verified by unit fixture, never mechanically replayed against its own
 committed corpus entry. Not scoped to build here; flagged for whoever picks
 up the corpus-currency mechanism, since the same retained-text pattern likely
 solves both.
+## 2026-07-31 — Post-transitory standard supplements are exact-span opaque records
 
+Material following a genuine standards TRANSITORIOS section is now a required
+canonical boundary rather than either discarded trailing text or part of the
+last transitory. `StandardMetadata.supplement_starts` supplies reviewed,
+source-ordered exact anchors and one of five kinds: appendix, annex, reference
+guide, standalone table, or list. The derived `supplements.json` gives each
+top-level item a one-based identity, collapsed heading, exact text/span, and
+explicit-source legal character. Internal rows, forms, figures and subsections
+remain opaque; section kind never implies normativity.
+
+One shared tail-layout calculation locates the real TRANSITORIOS section,
+resolves every anchor exactly once and in order, and supplies both transitory
+and supplement boundaries. Closing forms now cover `Dado en…`, `Se expide
+en…`, `Provéase la publicación…`, and historical/current Mexico City
+datelines. No unconfigured inline Tabla/Guía mention is a boundary. A legal
+character is `explicitly_normative` or `explicitly_non_normative` only where
+the source says so; conflict is an error and silence is a warning.
+
+The all-29 inventory corrected an assumption in the implementation plan. The
+13 existing trailing-material warnings plus NOM-020, NOM-027 and NOM-085 were
+not the complete affected set: seven more STPS texts had an unrecognized
+`Dado en…` signature followed by guides, so the old parser swallowed both
+closing furniture and the guides without emitting its trailing warning.
+Twenty-three standards therefore have configured supplements; six correctly
+carry an empty required file. Eleven final transitories changed. All earlier
+transitories compare deeply equal and every changed final is a strict prefix
+truncation; all 29 `clauses.json` files are byte-identical to baseline.
+
+`standards refresh` now compares transitories deeply and refuses any tail
+change by default. `--allow-tail-repartition` permits only a reviewed final-
+transitory truncation paired with supplements, with every guard before writes.
+Compile/validate/path/bundle surfaces all include the required canonical file.
+The out-of-repository Maximasa five-NOM bundle is consequently stale and is a
+mechanical follow-up, not part of this repository change.
+
+Fresh reacquisition then closed the three held-out records. The Platiica PDFs
+and new `pdftotext -layout` outputs matched all six recorded SHA-256 values
+before compilation. NOM-019 compiled at 94 clauses / 3 transitories / 1
+explicitly non-binding guide; NOM-024 at 87 / 2 / 2 explicitly non-binding
+guides; NOM-052 at 76 / 3 / 8 (Tables 1-2, Listados 1-5 and Anexo 1), each
+legal character `unspecified` because its retained source states none. The
+earlier reviewer characterization is not substituted for an explicit source
+declaration.
 ## 2026-07-31 — Review fixes on Stage A, same day: ten findings, all closed
 
 A ten-finding code review ran against the Stage A landing commit

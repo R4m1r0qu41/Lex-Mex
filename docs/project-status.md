@@ -1,8 +1,8 @@
 # Lex-Mex Project Status
 
-- **Status date:** 2026-07-29
+- **Status date:** 2026-07-31
 - **Repository:** <https://github.com/R4m1r0qu41/Lex-Mex>
-- **Committed instruments:** 180 (151 federal corpus instruments plus 29 NOMs)
+- **Committed instruments:** 183 (151 federal corpus instruments plus 32 NOMs)
 - **Active ingestion batch:** `administration_ad2_public_service_mobility`
 - **Next checkpoint:** `lspm`
 - **Current legal reviewer:** JRH
@@ -23,20 +23,21 @@ Current committed-corpus totals:
 
 | Artifact | Count |
 |---|---:|
-| Instruments | 180 |
+| Instruments | 183 |
 | Articles | 33,231 |
 | Original transitory provisions | 1,240 |
 | Annexes | 29 |
-| Standard clauses | 3,628 |
-| Standard transitory provisions | 92 |
+| Standard clauses | 3,885 |
+| Standard transitory provisions | 100 |
+| Standard post-transitory supplements | 78 |
 | Reference edges | 17,173 |
 | Unresolved reference edges | 0 |
 | Generated Markdown files | 34,651 |
 
-All 180 `validation.json` reports are valid. They contain 212 non-blocking
+All 183 `validation.json` reports are valid. They contain 234 non-blocking
 warnings: 166 non-numeric/suffixed-article notices, 16 unfrozen count
-baselines, 13 standards with substantive material after their transitorios
-section that `clauses.json` does not represent, 7 article-gap notices, 3
+baselines, 35 represented supplements whose source states no explicit legal
+character, 7 article-gap notices, 3
 warnings for official standard modifications not incorporated in the
 retained source text, 3 decree targets that match no committed clause, 2
 suffix-order notices, 1 redesignated standard (NOM-002-SEMARNAT-1996,
@@ -95,8 +96,8 @@ in `docs/standards-module.md`. Standards have no Markdown export profile
 files` above is unaffected by this addition.
 
 The batch-2 NOM ingestion (`docs/plans/nom-standards-batch-2.md`, staged
-2026-07-28) is complete across all 27 candidates: **21 ingested, 6 held out
-and flagged.** All 21 are `as_published`; NOM-020-STPS-2011 carries the only
+2026-07-28) is complete across all 27 candidates: **all 27 are ingested.**
+All are `as_published`; NOM-020-STPS-2011 carries the only
 new unconsolidated-modification warning (the ACUERDO de Modificación
 published 2015-10-19, eliminating inciso j) of numeral 13.2, which the
 retained text does not incorporate). That decree's DOF title names no numeral
@@ -105,8 +106,8 @@ NOM-020-STPS-2011, ..." form carries only the standard's identity — so
 NOM-020 correctly stays at instrument level with a
 `standard_modification_scope_unknown` warning rather than a guessed mark.
 
-The 6 flagged candidates were never compiled into `corpus/`, per the
-hold-out-and-flag policy (`docs/decisions.md` 2026-07-28). They cluster into
+The six originally flagged candidates were held under the hold-out-and-flag
+policy (`docs/decisions.md` 2026-07-28). They cluster into
 three parser failure classes plus one metadata question, all recorded in
 `docs/ingestion-difficulty-log.md`: `annex-form-numbering`
 (NOM-019-STPS-2011), `annex-continues-numbering` (NOM-010-STPS-2014,
@@ -125,13 +126,18 @@ transitorios heading, with form feed admitted to the leading-whitespace class
 so page-boundary headings stop being invisible. All five clause defects are
 closed, verified by byte-identical reparse of every previously-committed
 standard. NOM-010-STPS-2014 (206 clauses, was 950) and NOM-035-STPS-2018
-(111, was 124) are ingested. NOM-019-STPS-2011, NOM-024-STPS-2001 and
-NOM-052-SEMARNAT-2005 remain held out on a *separate* pre-existing defect
-found during that work — `transitory-absorbs-annex`, where the last
-transitory swallows a trailing Guía de Referencia or table because
-`section_end_marker` does not recognize those headings.
+(111, was 124) were ingested first. On 2026-07-31 the exact-span supplement
+boundary closed `transitory-absorbs-annex`; fresh hash-matching official PDFs
+then admitted NOM-019 (94 clauses, 3 transitories, 1 supplement), NOM-024 (87,
+2, 2), and NOM-052 (76, 3, 8).
 NOM-002-SEMARNAT-1996 is ingested under the reviewer-granted redesignation
 rule, carrying `published_designation: NOM-002-ECOL-1996`.
+
+Every standard now has required `supplements.json`. Twenty-six standards have
+78 exact-span top-level post-transitory records and six have an empty file.
+All 32 standards pass deep reparse validation; no pre-existing clause changed,
+every earlier transitory stayed exact, and each of the 11 migrated final-tail
+changes is a strict truncation of closing or supplement text.
 
 The active plan is
 [`cluster-2-federal-corpus-ingestion.md`](plans/cluster-2-federal-corpus-ingestion.md).

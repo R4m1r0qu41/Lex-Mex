@@ -3,6 +3,7 @@
   "standard_id": "urn:lex-mx:federal:nom:nom-002-semarnat-1996",
   "valid": true,
   "clause_count": 73,
+  "supplement_count": 0,
   "issues": [
     {
       "severity": "warning",

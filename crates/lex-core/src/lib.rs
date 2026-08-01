@@ -196,6 +196,32 @@ pub struct StandardSystematicReview {
     pub report_url: Option<Url>,
 }
 
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct StandardSupplementStart {
+    /// Exact source text at which this top-level supplement begins. The
+    /// anchor may span lines when the visible heading alone is duplicated.
+    pub anchor: String,
+    pub kind: StandardSupplementKind,
+}
+
+#[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum StandardSupplementKind {
+    Appendix,
+    Annex,
+    ReferenceGuide,
+    Table,
+    List,
+}
+
+#[derive(Debug, Clone, Copy, Serialize, Deserialize, PartialEq, Eq)]
+#[serde(rename_all = "snake_case")]
+pub enum StandardSupplementLegalCharacter {
+    ExplicitlyNormative,
+    ExplicitlyNonNormative,
+    Unspecified,
+}
+
 /// Source-grounded identity and lifecycle facts for one NOM or NMX.
 ///
 /// This remains separate from [`Instrument`]: standards have designation,
@@ -242,6 +268,10 @@ pub struct StandardMetadata {
     pub text_basis: StandardTextBasis,
     #[serde(default)]
     pub modifications: Vec<StandardModificationSource>,
+    /// Exact, source-ordered starts of represented top-level material after a
+    /// genuine TRANSITORIOS section. Internal rows and subsections stay opaque.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub supplement_starts: Vec<StandardSupplementStart>,
     pub systematic_review: Option<StandardSystematicReview>,
     pub source_url: Url,
     pub official_dof_url: Url,
@@ -299,12 +329,29 @@ pub struct StandardTransitory {
     pub asserted_dates: Vec<NaiveDate>,
 }
 
+/// One top-level appendix, annex, reference guide, standalone table, or list
+/// following a genuine TRANSITORIOS section. Its interior remains opaque.
+#[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
+pub struct StandardSupplement {
+    pub schema_version: String,
+    pub id: String,
+    pub standard_id: String,
+    pub sequence: usize,
+    pub kind: StandardSupplementKind,
+    pub heading: String,
+    pub legal_character: StandardSupplementLegalCharacter,
+    pub text: String,
+    pub start_char: usize,
+    pub end_char: usize,
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct StandardValidationReport {
     pub schema_version: String,
     pub standard_id: String,
     pub valid: bool,
     pub clause_count: usize,
+    pub supplement_count: usize,
     pub issues: Vec<ValidationIssue>,
 }
 

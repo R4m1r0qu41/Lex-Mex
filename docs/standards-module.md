@@ -22,6 +22,10 @@ A compiled standard directory contains:
 - `transitories.json`: ordinal-labeled blocks from the TRANSITORIOS section
   (`PRIMERO`, `SEGUNDO`, ...), addressable by exact span but deliberately
   not deeply parsed — see "Standards transitorio inspection" below;
+- `supplements.json`: source-ordered, exact-span top-level appendices, annexes,
+  reference guides, standalone tables, and lists following a genuine
+  TRANSITORIOS section. Their internal rows, forms, and subsections remain
+  opaque; see "Post-transitory supplements" below;
 - `extracted-text.txt`: the exact UTF-8 text used to compile and revalidate
   clause spans, retained so committed standards do not depend on an untracked
   work file;
@@ -31,7 +35,8 @@ A compiled standard directory contains:
 The external contracts are
 `schemas/standard-metadata.schema.json`,
 `schemas/standard-clause.schema.json`,
-`schemas/standard-transitory.schema.json`, and
+`schemas/standard-transitory.schema.json`,
+`schemas/standard-supplement.schema.json`, and
 `schemas/standard-validation.schema.json`. Standard metadata never self-awards
 `lawyer_verified` or `technical_verified`; those values record actual reviewed
 state supplied through an audited future workflow.
@@ -66,7 +71,8 @@ lex-mex standards validate nom-251-ssa1-2009
 
 Committed standards are returned by `lex-mex instruments`, accepted by
 `lex-mex path` and `lex-mex search`, and supported by the canonical bundle
-profile. Use `--kind standard`, `--kind clauses`, or `--kind transitories`
+profile. Use `--kind standard`, `--kind clauses`, `--kind transitories`, or
+`--kind supplements`
 when requesting a specific standards path.
 
 ## Refresh command
@@ -78,7 +84,7 @@ parser; `standards refresh` rewrites them:
 lex-mex standards refresh nom-247-ssa1-2008
 ```
 
-It re-derives `clauses.json`, `transitories.json`, and `validation.json` from
+It re-derives `clauses.json`, `transitories.json`, `supplements.json`, and `validation.json` from
 the committed record. `standard.json` is input and `extracted-text.txt` is the
 retained source; neither is ever written. The retained text is checked against
 `extracted_text_sha256` first, so a refresh cannot reparse something other than
@@ -90,6 +96,11 @@ failed refresh leaves the committed directory exactly as it found it:
 
 - a changed clause count aborts outright — that size of structural change is a
   parser regression to diagnose, not a file to rewrite;
+- any transitory-content or supplement change aborts by default. A reviewed
+  `--allow-tail-repartition` run may truncate only the final transitory while
+  creating/changing its corresponding supplements; earlier transitories must
+  compare deeply byte-for-byte. This permission is independent of
+  `--allow-mark-change`;
 - a changed transitory count aborts outright. Transitories never move the
   clause count or the marks, so a transitory-parser regression that suddenly
   returns none would otherwise be written into committed data with exit code
@@ -267,6 +278,26 @@ derogation clause ("quedará sin efectos la NOM-002-STPS-2000 ... publicada
 ... de 8 de septiembre de 2000") — correct extraction, not contamination,
 but a reminder that `asserted_dates` records every date phrase found, not
 only ones about this standard's own timing.
+
+## Post-transitory supplements
+
+`StandardMetadata.supplement_starts` records reviewed exact anchors and kinds,
+in source order. Multi-line anchors distinguish duplicate visible headings
+(including NOM-036-1's repeated `GUÍA DE REFERENCIA I`). The parser resolves
+each anchor exactly once after the real TRANSITORIOS heading, ends the final
+transitory at the earliest applicable closing-signature marker or first
+anchor, excludes closing furniture, and slices each supplement to the next
+configured anchor or retained-text end. An inline reference to a table or
+guide is never an implicit boundary.
+
+Each `StandardSupplement` carries a one-based sequence, kind, collapsed
+heading, exact text and character span. Legal character is derived only from
+explicit source language: a Normativo/No Normativo heading or a statement
+such as `no es de cumplimiento obligatorio`. Conflicting explicit signals are
+an error; absence is the non-blocking
+`standard_supplement_character_unspecified` warning. Kind alone never implies
+normativity. `standards validate` reparses and deeply compares the required
+`supplements.json`, and canonical bundles require it for every standard.
 
 **Known boundary, not yet hit:** the ordinal recognizer accepts `ÚNICO`/
 `ÚNICA` and any statute-style ordinal, and `validate_transitories`

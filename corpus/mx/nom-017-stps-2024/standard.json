@@ -24,6 +24,12 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "Apéndice I. No normativo",
+      "kind": "appendix"
+    }
+  ],
   "systematic_review": null,
   "source_url": "https://platiica.economia.gob.mx/wp-content/uploads/sites/2/PDF_Normas_Publicas/NOM-017-STPS-2024.pdf",
   "official_dof_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5753280&fecha=28/03/2025",

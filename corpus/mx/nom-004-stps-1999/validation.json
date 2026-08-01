@@ -3,11 +3,30 @@
   "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
   "valid": true,
   "clause_count": 12,
+  "supplement_count": 5,
   "issues": [
     {
       "severity": "warning",
-      "code": "standard_trailing_material",
-      "message": "material after the transitorios section begins at \"GUIA DE REFERENCIA\"; it is not represented in clauses.json and may be normative",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 2 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 3 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 4 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 5 states no explicit normative or non-normative character",
       "provision_id": null
     }
   ]

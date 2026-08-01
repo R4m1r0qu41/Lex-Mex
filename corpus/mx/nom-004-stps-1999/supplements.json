@@ -1,0 +1,62 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:supplement:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "sequence": 1,
+    "kind": "reference_guide",
+    "heading": "GUIA DE REFERENCIA PROTECTORES Y DISPOSITIVOS DE SEGURIDAD",
+    "legal_character": "explicitly_non_normative",
+    "text": "GUIA DE REFERENCIA\n                            PROTECTORES Y DISPOSITIVOS DE SEGURIDAD\n\n   El contenido de esta guía es un complemento para la mejor comprensión de la presente Norma y no es de\ncumplimiento obligatorio, con el fin de mostrar los diferentes protectores y dispositivos para adaptarlos a la\nmaquinaria y equipo que los requiera.\n\n   Los protectores son elementos que cubren a la maquinaria y equipo para evitar el acceso al punto de\noperación y evitar un riesgo al trabajador. En su instalación y operación se recomienda considerar aspectos\nergonómicos que contemplen: la postura del trabajador, el trabajo estático y dinámico de la actividad, así como\nla ubicación de los elementos de control.\n\n\n\n   A continuación se hace una descripción de los protectores más comunes:\n\n\n\n\n                    Protector fijo                                         Protector semifijo\n\n\n El uso de este tipo de protectores debe ser                El uso de estos protectores está determinado\n permanente. Su retiro sólo se hará en caso de              por el tipo de operaciones que se realizan en la\n mantenimiento a la máquina.                                máquina; en caso de requerirse, pueden ser\n                                                            retirados en forma manual por el trabajador, para\n Puede ser fijo de manera permanente ya sea por\n                                                            lo cual deben preverse las facilidades de\n soldadura, remachado u otro; o desmontable\n                                                            montaje y desmontaje del caso.\n usando tornillo-tuerca, cuña, cuñero, tornillo\n autorroscable u otro.\n\fLunes 31 de mayo de 1999                  DIARIO OFICIAL                      (Primera Sección)   55",
+    "start_char": 27640,
+    "end_char": 29409
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:supplement:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "sequence": 2,
+    "kind": "reference_guide",
+    "heading": "GUIA DE REFERENCIA PROTECTORES Y DISPOSITIVOS DE SEGURIDAD Protector móvil Protector regulable",
+    "legal_character": "unspecified",
+    "text": "GUIA DE REFERENCIA\n                           PROTECTORES Y DISPOSITIVOS DE SEGURIDAD\n                    Protector móvil                                   Protector regulable\n  Elemento que cubre mecánicamente a la estructura         Este tipo de protector cubre toda una línea\n  de una máquina o a un elemento vecino fijo; dicho        continua de posiciones a lo largo del\n  enlace se realiza generalmente mediante una              mecanismo regulable.\n  articulación o sobre guías de deslizamiento.\n  Este tipo de protector cubre durante su\n  funcionamiento dos posiciones: el punto A (parte\n  alta) y el punto B (parte baja).",
+    "start_char": 29447,
+    "end_char": 30077
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:supplement:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "sequence": 3,
+    "kind": "reference_guide",
+    "heading": "GUIA DE REFERENCIA PROTECTORES Y DISPOSITIVOS DE SEGURIDAD Dispositivo de paro de urgencia Dispositivo bloqueador asociado a un",
+    "legal_character": "unspecified",
+    "text": "GUIA DE REFERENCIA\n                           PROTECTORES Y DISPOSITIVOS DE SEGURIDAD\n           Dispositivo de paro de urgencia                  Dispositivo bloqueador asociado a un\n                                                                          protector\n  Sobre un transportador de gran longitud, en lugar        En este tipo de dispositivos se tiene un\n  de colocar un cierto número de dispositivos de paro      protector asociado a la máquina, de tal\n  de urgencia, es más eficaz disponer de un cable          manera que si el protector no se encuentra\n  sensible a lo largo del transportador.                   en posición cerrada, la máquina no entrará\n                                                           en funcionamiento.\n\f56     (Primera Sección)                     DIARIO OFICIAL                   Lunes 31 de mayo de 1999",
+    "start_char": 30118,
+    "end_char": 30969
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:supplement:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "sequence": 4,
+    "kind": "reference_guide",
+    "heading": "GUIA DE REFERENCIA PROTECTORES Y DISPOSITIVOS DE SEGURIDAD Dispositivo de retención mecánica Dispositivo de mando bimanual",
+    "legal_character": "unspecified",
+    "text": "GUIA DE REFERENCIA\n                           PROTECTORES Y DISPOSITIVOS DE SEGURIDAD\n            Dispositivo de retención mecánica                     Dispositivo de mando bimanual\n\n\n     En ocasiones es necesario y conveniente reforzar el      La acción manual simultánea sobre dos\n     dispositivo bloqueador asociado a un protector           controles, es necesaria para controlar la\n     mediante otro dispositivo de retención mecánica, de      operación de la máquina\n     tal manera que la máquina mantenga su posición\n     cerrada durante la operación.",
+    "start_char": 31007,
+    "end_char": 31567
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-004-stps-1999:supplement:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-004-stps-1999",
+    "sequence": 5,
+    "kind": "reference_guide",
+    "heading": "GUIA DE REFERENCIA PROTECTORES Y DISPOSITIVOS DE SEGURIDAD Dispositivo sensitivo Dispositivo expulsor",
+    "legal_character": "unspecified",
+    "text": "GUIA DE REFERENCIA\n                           PROTECTORES Y DISPOSITIVOS DE SEGURIDAD\n                 Dispositivo sensitivo                                 Dispositivo expulsor\n\n\nUn dispositivo sensitivo fotoeléctrico constituido por     Este dispositivo está diseñado para apartar las\nuna cortina luminosa. La interrupción de esta cortina      manos del operario de la zona de riesgo, en el\nluminosa provoca la emisión de una señal que para          momento de accionar la máquina.\nla máquina.",
+    "start_char": 31608,
+    "end_char": 32103
+  }
+]

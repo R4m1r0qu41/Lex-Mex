@@ -1,0 +1,1662 @@
+   Miércoles 13 de abril de 2011                 DIARIO OFICIAL                                (Primera Sección)
+
+
+            SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+NORMA Oficial Mexicana NOM-019-STPS-2011, Constitución, integración, organización y funcionamiento de las
+comisiones de seguridad e higiene.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría del Trabajo y
+Previsión Social.
+
+   JAVIER LOZANO ALARCON, Secretario del Trabajo y Previsión Social, con fundamento en los artículos
+16 y 40, fracciones I y XI de la Ley Orgánica de la Administración Pública Federal; 509, 510, 512, 523, fracción
+I, 524 y 527, último párrafo de la Ley Federal del Trabajo; 3o., fracción XI, 38, fracción II, 40, fracción VII, 47,
+fracción IV, 51, cuarto párrafo, y 52 de la Ley Federal sobre Metrología y Normalización; 28 del Reglamento
+de la Ley Federal sobre Metrología y Normalización; 4o., 17, fracción I, y del 123 al 126 del Reglamento
+Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, y 19 del Reglamento Interior de la Secretaría del
+Trabajo y Previsión Social, y
+
+                                                CONSIDERANDO
+
+   Que con fecha 5 de octubre de 2010, en cumplimiento de lo previsto por el artículo 46, fracción I, de la Ley
+Federal sobre Metrología y Normalización, la Secretaría del Trabajo y Previsión Social presentó ante el
+Comité Consultivo Nacional de Normalización de Seguridad y Salud en el Trabajo, el Anteproyecto de
+Modificación de la presente Norma Oficial Mexicana, y que el citado Comité lo consideró correcto y acordó
+que se publicara como Proyecto en el Diario Oficial de la Federación;
+
+   Que con objeto de cumplir con lo dispuesto en los artículos 69-E y 69-H de la Ley Federal de
+Procedimiento Administrativo, el Anteproyecto correspondiente fue sometido a la consideración de la
+Comisión Federal de Mejora Regulatoria, la que dictaminó favorablemente en relación con el mismo;
+
+   Que con fecha 4 de noviembre de 2010, en cumplimiento del Acuerdo por el que se establece la
+organización y Reglas de Operación del Comité Consultivo Nacional de Normalización de Seguridad y Salud
+en el Trabajo, y de lo previsto por el artículo 47, fracción I de la Ley Federal sobre Metrología y Normalización,
+se publicó en el Diario Oficial de la Federación el Proyecto de Modificación de la Norma Oficial Mexicana
+NOM-019-STPS-2004, Constitución, organización y funcionamiento de las comisiones de seguridad e higiene
+en los centros de trabajo, para quedar como PROY-NOM-019-STPS-2010, Constitución, integración,
+organización y funcionamiento de las comisiones de seguridad e higiene, a efecto de que, dentro de los 60
+días naturales siguientes a dicha publicación, los interesados presentaran sus comentarios al Comité;
+
+   Que habiendo recibido comentarios de siete promoventes, el Comité referido procedió a su estudio y
+resolvió oportunamente sobre los mismos, publicando esta dependencia las respuestas respectivas en el
+Diario Oficial de la Federación de 2 de marzo de 2011, en cumplimiento a lo previsto por el artículo 47,
+fracción III de la Ley Federal sobre Metrología y Normalización;
+
+   Que derivado de la incorporación de los comentarios presentados al Proyecto de Modificación de la Norma
+Oficial Mexicana NOM-019-STPS-2004, Constitución, organización y funcionamiento de las comisiones de
+seguridad e higiene en los centros de trabajo, para quedar como PROY-NOM-019-STPS-2010, Constitución,
+integración, organización y funcionamiento de las comisiones de seguridad e higiene, así como de la revisión
+final del propio proyecto, se realizaron diversas modificaciones con el propósito de dar claridad, congruencia y
+certeza jurídica en cuanto a las disposiciones que aplican en los centros de trabajo, y
+
+   Que en atención a las anteriores consideraciones y toda vez que el Comité Consultivo Nacional de
+Normalización de Seguridad y Salud en el Trabajo otorgó la aprobación respectiva, se expide la siguiente:
+         (Primera Sección)                      DIARIO OFICIAL                    Miércoles 13 de abril de 2011
+
+NORMA OFICIAL MEXICANA NOM-019-STPS-2011, CONSTITUCION, INTEGRACION, ORGANIZACION
+           Y FUNCIONAMIENTO DE LAS COMISIONES DE SEGURIDAD E HIGIENE
+                                                     INDICE
+   1.      Objetivo
+   2.      Campo de aplicación
+   3.      Referencias
+   4.      Definiciones
+   5.      Obligaciones del patrón
+   6.      Obligaciones de los trabajadores
+   7.      Constitución e integración de las comisiones
+   8.      Organización de las comisiones
+   9.      Funcionamiento de las comisiones
+   10.     Capacitación de las comisiones
+   11.     Unidades de verificación
+   12.     Procedimiento para la evaluación de la conformidad
+   13.     Vigilancia
+   14.     Bibliografía
+   15.     Concordancia con normas internacionales
+   TRANSITORIOS
+   Guía de Referencia I Investigación de las causas de los accidentes y enfermedades de trabajo
+   1. Objetivo
+   Establecer los requerimientos para la constitución, integración, organización y funcionamiento de las
+comisiones de seguridad e higiene en los centros de trabajo.
+   2. Campo de aplicación
+   La presente Norma rige en el territorio nacional y aplica en todos los centros de trabajo.
+   3. Referencias
+    Para la correcta interpretación de esta Norma, deberá consultarse la siguiente Norma Oficial Mexicana
+vigente o las que la sustituyan:
+    3.1 NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo - Funciones y
+actividades.
+   4. Definiciones
+   Para efectos de esta Norma se establecen las definiciones siguientes:
+    4.1 Accidente de trabajo: Toda lesión orgánica o perturbación funcional, inmediata o posterior, o la
+muerte, producida repentinamente en ejercicio o con motivo del trabajo, cualesquiera que sean el lugar y el
+tiempo en que se preste.
+   4.2 Actos inseguros: Las acciones realizadas por el trabajador que implican una omisión o violación a un
+método de trabajo o medida determinados como seguros.
+   4.3 Agente: El elemento físico, químico o biológico que por ausencia o presencia en el ambiente laboral,
+puede afectar la vida, salud e integridad física de los trabajadores.
+    4.4 Autoridad del trabajo; Autoridad laboral: Las unidades administrativas competentes de la Secretaría
+del Trabajo y Previsión Social que realizan funciones de promoción, normalización, vigilancia e inspección en
+materia de seguridad y salud en el trabajo, y las correspondientes a las entidades federativas y del Distrito
+Federal, que actúen en auxilio de aquéllas.
+   Miércoles 13 de abril de 2011                DIARIO OFICIAL                               (Primera Sección)
+
+   4.5 Centros de trabajo: Todos aquellos lugares, tales como edificios, locales, instalaciones y áreas, en los
+que se realicen actividades de producción, comercialización, transporte y almacenamiento o prestación de
+servicios, o en los que laboren personas que estén sujetas a una relación de trabajo.
+   4.6 Comisión: La comisión o comisiones de seguridad e higiene en los centros de trabajo.
+    4.7 Condiciones inseguras: Aquéllas que derivan de la inobservancia o desatención de las medidas
+establecidas como seguras, y que pueden conllevar la ocurrencia de un incidente, accidente, enfermedad de
+trabajo o daño material al centro de trabajo.
+    4.8 Condiciones peligrosas: Aquellas características inherentes a las instalaciones, procesos,
+maquinaria, equipo, herramientas y materiales, que pueden provocar un incidente, accidente, enfermedad de
+trabajo o daño material al centro de trabajo.
+   4.9 Enfermedad de trabajo: Todo estado patológico derivado de la acción continuada de una causa que
+tenga su origen o motivo en el trabajo o en el medio en que el trabajador se vea obligado a prestar sus
+servicios.
+    4.10 Incidentes: Los acontecimientos que pueden o no ocasionar daños a las instalaciones, maquinaria,
+equipo, herramientas y/o materiales utilizados, e interferir en los procesos o actividades, y que en
+circunstancias diferentes podrían haber derivado en lesiones a los trabajadores, por lo que requieren ser
+investigados para considerar la adopción de las medidas preventivas pertinentes.
+   4.11 Ley: La Ley Federal del Trabajo.
+   4.12 Normas: Las Normas Oficiales Mexicanas en materia de seguridad y salud en el trabajo.
+   4.13 Recorridos de verificación: Las revisiones que realiza la comisión en el centro trabajo para
+identificar agentes, condiciones peligrosas o inseguras y actos inseguros; investigar las causas de los
+accidentes y enfermedades de trabajo; proponer medidas para prevenirlos, así como vigilar su cumplimiento.
+   4.14 Reglamento: El Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, o el que lo
+sustituya.
+    4.15 Riesgos de trabajo: Los accidentes y enfermedades a que están expuestos los trabajadores en
+ejercicio o con motivo de su trabajo.
+   4.16 Secretaría: La Secretaría del Trabajo y Previsión Social.
+    4.17 Sindicato: La representación de los trabajadores que tienen la titularidad del contrato colectivo de
+trabajo o del contrato Ley.
+   4.18 Verificación: La constatación ocular, revisión documental o entrevista del cumplimiento del
+Reglamento y de las normas que resulten aplicables al centro de trabajo.
+   5. Obligaciones del patrón
+    5.1 Constituir e integrar al menos una comisión en el centro de trabajo, de conformidad con lo dispuesto en
+el Capítulo 7 de la presente Norma.
+   5.2 Designar a sus representantes para participar en la comisión que se integre en el centro de trabajo.
+Dicha designación deberá realizarse con base en las funciones por desempeñar.
+   5.3 Solicitar al sindicato o a los trabajadores, si no hubiera sindicato, la designación de sus representantes
+para participar en la comisión. Dicha designación deberá realizarse con base en las funciones por
+desempeñar.
+   5.4 Contar con el acta de constitución de la comisión del centro de trabajo, y de sus actualizaciones,
+cuando se modifique su integración, de conformidad con lo previsto en el numeral 7.4 de esta Norma.
+   5.5 Contar con el programa anual de los recorridos de verificación de la comisión, de conformidad con lo
+previsto en los numerales 9.3 a 9.5 de la presente Norma.
+   5.6 Contar con las actas de los recorridos de verificación realizados por la comisión, de conformidad con lo
+establecido en el numeral 9.12 de esta Norma.
+   5.7 Facilitar a los trabajadores el desempeño de sus funciones como integrantes de la comisión.
+  5.8 Proporcionar a la comisión el diagnóstico sobre seguridad y salud en el trabajo, a que se refiere la
+NOM-030-STPS-2009, o las que la sustituyan.
+        (Primera Sección)                        DIARIO OFICIAL                   Miércoles 13 de abril de 2011
+
+   5.9 Apoyar la investigación de los accidentes y enfermedades de trabajo que lleve a cabo la comisión,
+proporcionando para tal efecto información sobre:
+
+   a)     Los incidentes, accidentes y enfermedades de trabajo que ocurran en el centro de trabajo;
+
+   b)     Los procesos de trabajo y las hojas de datos de seguridad de las sustancias químicas utilizadas, y
+
+   c)     El seguimiento a las causas de los riesgos de trabajo que tengan lugar en el centro laboral.
+
+   5.10 Brindar facilidades a los integrantes de la comisión para que utilicen los apoyos informáticos
+desarrollados por la Secretaría, a que se refieren los numerales 9.7 y 9.8 de la presente Norma.
+
+    5.11 Atender y dar seguimiento a las medidas propuestas por la comisión para prevenir los riesgos de
+trabajo, de acuerdo con los resultados de las actas de los recorridos de verificación y con base en lo dispuesto
+por el Reglamento y las normas que resulten aplicables, de conformidad con lo dispuesto en el numeral 9.11
+de esta Norma.
+
+   5.12 Difundir entre los trabajadores del centro de trabajo, por cualquier medio:
+
+   a)     La relación actualizada de los integrantes de la comisión, precisando el puesto, turno y área de
+          trabajo de cada uno de ellos;
+
+   b)     Los resultados de las investigaciones, con las causas y consecuencias, sobre los accidentes y
+          enfermedades de trabajo, y
+
+   c)     Las medidas propuestas por la comisión, relacionadas con la prevención de riesgos de trabajo, a fin
+          de evitar su recurrencia.
+
+   5.13 Proporcionar a los integrantes de la comisión, al menos una vez por año, capacitación para la
+adecuada realización de sus funciones, con base en el programa que para tal efecto se elabore, de acuerdo
+con lo señalado en el Capítulo 10 de la presente Norma.
+
+   5.14 Exhibir a la autoridad del trabajo los documentos que la presente Norma le obligue a elaborar y
+poseer, cuando aquélla así lo requiera.
+
+   6. Obligaciones de los trabajadores
+
+   6.1 Designar a sus representantes para participar en la comisión, con base en las funciones por
+desempeñar.
+
+   6.2 Participar como miembros de la comisión, cuando sean designados:
+
+   a)     A través del sindicato, mediante consulta entre los trabajadores, o
+
+   b)     Por la mayoría de los trabajadores, a falta de sindicato.
+
+   6.3 Participar como coordinador, secretario o vocal de la comisión, cuando sean designados para tales
+efectos.
+
+   6.4 Proponer a la comisión medidas para prevenir accidentes y enfermedades de trabajo en el área o
+puesto donde desempeñan sus actividades cotidianas.
+
+   6.5 Proporcionar a la comisión la información que se encuentre a su alcance para la investigación de las
+causas de accidentes y enfermedades de trabajo.
+
+    6.6 Atender las medidas preventivas de seguridad y salud en el trabajo que señale el patrón y/o la
+comisión, de acuerdo con los resultados de las actas de los recorridos de verificación y con base en lo
+dispuesto por el Reglamento y las normas que resulten aplicables.
+
+   6.7 Recibir la capacitación o adiestramiento que en materia de seguridad y salud en el trabajo les
+proporcione el patrón, cuando formen parte de la comisión, de conformidad con el programa que para tal
+efecto se establezca.
+   7. Constitución e integración de las comisiones
+   Miércoles 13 de abril de 2011               DIARIO OFICIAL                               (Primera Sección)
+
+   7.1 Cada comisión deberá estar integrada por:
+   a)   Un trabajador y el patrón o su representante, cuando el centro de trabajo cuente con menos de 15
+        trabajadores, o
+   b)   Un coordinador, un secretario y los vocales que acuerden el patrón o sus representantes, y el
+        sindicato o el representante de los trabajadores, en el caso de que no exista la figura sindical, cuando
+        el centro de trabajo cuente con 15 trabajadores o más.
+   7.2 La representación de los trabajadores deberá estar conformada por aquéllos que desempeñen sus
+labores directamente en el centro de trabajo y que, preferentemente, tengan conocimientos o experiencia en
+materia de seguridad y salud en el trabajo.
+   7.3 El patrón deberá formalizar la constitución de cada comisión, a través de un acta, en sesión con los
+miembros que se hayan seleccionado y con la representación del sindicato, si lo hubiera.
+   7.4 El acta de constitución de la comisión deberá contener como mínimo los datos siguientes:
+   a)   Datos del centro de trabajo:
+        1)    El nombre, denominación o razón social;
+        2)    El domicilio completo (calle, número, colonia, municipio o delegación, ciudad, entidad
+              federativa, código postal);
+        3)    El Registro Federal de Contribuyentes;
+        4)    El Registro Patronal otorgado por el Instituto Mexicano del Seguro Social;
+        5)    La rama industrial o actividad económica;
+        6)    La fecha de inicio de actividades;
+        7)    El número de trabajadores del centro de trabajo, y
+        8)    El número de turnos, y
+   b)   Datos de la comisión:
+        1)    La fecha de integración de la comisión (día, mes y año), y
+        2)    El nombre y firma del patrón o de su representante, y del representante de los trabajadores,
+              tratándose de centros de trabajo con menos de 15 trabajadores, o
+        3)    El nombre y firma del coordinador, secretario y vocales, en el caso de centros de trabajo con 15
+              trabajadores o más.
+   7.5 Los centros de trabajo podrán constituir otras comisiones de seguridad e higiene, tomando en
+consideración lo siguiente:
+   a)   El número de turnos del centro de trabajo;
+   b)   El número de trabajadores que integran cada turno de trabajo;
+   c)   Los agentes y condiciones peligrosas de las áreas que integran al centro de trabajo, y
+   d)   Las empresas contratistas que desarrollen labores relacionadas con la actividad principal del centro
+        de trabajo dentro de las instalaciones de este último.
+    7.6 Las empresas podrán organizar otras comisiones para consolidar las acciones desarrolladas por las
+comisiones de seguridad e higiene pertenecientes al mismo o a distintos centros de trabajo, con base en la
+circunscripción territorial, la actividad económica, el grado de riesgo y el número de trabajadores.
+   8. Organización de las comisiones
+   8.1 Los integrantes de la comisión tendrán a su cargo las funciones contenidas en el presente Capítulo.
+   8.2 El coordinador tendrá las funciones siguientes:
+   a)   Presidir las reuniones de trabajo de la comisión;
+   b)   Dirigir y coordinar el funcionamiento de la comisión;
+   c)   Promover la participación de los integrantes de la comisión y constatar que cada uno de ellos cumpla
+        con las tareas asignadas;
+   d)   Integrar el programa anual de los recorridos de verificación de la comisión y presentarlo al patrón;
+        (Primera Sección)                        DIARIO OFICIAL                      Miércoles 13 de abril de 2011
+
+   e)     Consignar en las actas de los recorridos de verificación de la comisión:
+          1)   Los agentes, condiciones peligrosas o inseguras y actos inseguros identificados;
+          2)   Los resultados de las investigaciones sobre las causas de los accidentes y enfermedades de
+               trabajo, y
+          3)   Las medidas para prevenirlos, con base en lo dispuesto por el Reglamento y las normas que
+               resulten aplicables;
+   f)     Coordinar las investigaciones sobre las causas de los accidentes y enfermedades de trabajo;
+   g)     Elaborar al término de cada recorrido de verificación, conjuntamente con el secretario de la comisión,
+          el acta correspondiente;
+   h)     Entregar al patrón las actas de los recorridos de verificación y analizar conjuntamente con él las
+          medidas propuestas para prevenir los accidentes y enfermedades de trabajo;
+   i)     Dar seguimiento a la instauración de las medidas propuestas por la comisión relacionadas con la
+          prevención de riesgos de trabajo;
+   j)     Asesorar a los vocales de la comisión y al personal del centro de trabajo, en la identificación de
+          agentes, condiciones peligrosas o inseguras y actos inseguros en el medio ambiente laboral;
+   k)     Participar en las inspecciones sobre las condiciones generales de seguridad e higiene que practique
+          la autoridad laboral en el centro de trabajo, en su caso;
+   l)     Solicitar, previo acuerdo de la comisión, la sustitución de sus integrantes, y
+   m)     Proponer al patrón el programa anual de capacitación de los integrantes de la comisión.
+   8.3 El secretario tendrá las funciones siguientes:
+   a)    Convocar a los integrantes de la comisión a las reuniones de trabajo de ésta;
+   b)     Organizar y apoyar, de común acuerdo con el coordinador, el desarrollo de las reuniones de trabajo
+          de la comisión;
+   c)     Convocar a los integrantes de la comisión para realizar los recorridos de verificación programados;
+   d)     Integrar a las actas de recorridos de verificación de la comisión:
+          1)   Los agentes, condiciones peligrosas o inseguras y actos inseguros identificados;
+          2)   Los resultados de las investigaciones sobre las causas de los accidentes y enfermedades de
+               trabajo, y
+          3)   Las medidas para prevenirlos, con base en lo dispuesto por el Reglamento y las normas que
+               resulten aplicables;
+    e) Apoyar la realización de investigaciones sobre las causas de los accidentes y enfermedades de
+trabajo;
+   f)     Elaborar al término de cada recorrido de verificación, conjuntamente con el coordinador de la
+          comisión, el acta correspondiente;
+   g)     Recabar las firmas de los integrantes de la comisión en las actas de los recorridos de verificación;
+   h)     Presentar y entregar las actas de recorridos de verificación al patrón, conjuntamente con el
+          coordinador de la comisión;
+   i)     Mantener bajo custodia copia de:
+          1)   Las actas de constitución y su actualización;
+          2)   Las actas de los recorridos de verificación que correspondan al programa anual de recorridos
+               de verificación del ejercicio en curso y del año inmediato anterior;
+          3)   La evidencia documental sobre la capacitación impartida el ejercicio en curso y el año inmediato
+               anterior a los integrantes de la propia comisión, y
+          4)   La documentación que se relacione con la comisión;
+   j)     Participar en las inspecciones sobre las condiciones generales de seguridad e higiene que practique
+          la autoridad laboral en el centro de trabajo, en su caso, y
+   k)     Integrar el programa anual de capacitación de los integrantes de la comisión.
+   8.4 Los vocales tendrán las funciones siguientes:
+   Miércoles 13 de abril de 2011                 DIARIO OFICIAL                             (Primera Sección)
+
+   a)    Participar en las reuniones de trabajo de la comisión;
+   b)    Participar en los recorridos de verificación;
+   c)    Detectar y recabar información sobre los agentes, condiciones peligrosas o inseguras y actos
+         inseguros identificados en sus áreas de trabajo;
+   d)    Colaborar en la realización de investigaciones sobre las causas de los accidentes y enfermedades de
+         trabajo;
+   e)    Revisar las actas de los recorridos de verificación;
+   f)    Participar en el seguimiento a la instauración de las medidas propuestas por la comisión relacionadas
+         con la prevención de riesgos de trabajo;
+   g)    Apoyar las actividades de asesoramiento a los trabajadores para la identificación de agentes,
+         condiciones peligrosas o inseguras y actos inseguros en su área de trabajo;
+   h)    Identificar temas de seguridad y salud en el trabajo para su incorporación en el programa anual de
+         capacitación de los integrantes de la comisión, e
+   i)    Participar en las inspecciones sobre las condiciones generales de seguridad e higiene que practique
+         la autoridad laboral en el centro de trabajo, en su caso.
+   9. Funcionamiento de las comisiones
+    9.1 Cuando se constituya la comisión, el cargo de coordinador recaerá en el representante que designe el
+patrón, y el de secretario en el de los trabajadores que sea designado por el sindicato. De no existir la figura
+sindical, la selección del representante de los trabajadores se hará entre y por los integrantes de esta
+representación. Los demás miembros de la comisión serán nombrados vocales.
+   Los nombramientos de coordinador, secretario y vocales tendrán una vigencia de dos años, y los de
+coordinador y secretario se alternarán entre los representantes del patrón y de los trabajadores.
+    9.2 En caso de ausencia temporal del coordinador o del secretario de la comisión, su cargo será ocupado
+por uno de los vocales, de la representación que corresponda.
+    9.3 El programa anual de recorridos de verificación deberá integrase dentro de los treinta días naturales
+siguientes a la constitución de la comisión. Posteriormente, se deberá conformar el programa dentro de los
+primeros treinta días naturales de cada año.
+   9.4 En el programa anual se determinarán las prioridades de los recorridos de verificación, con base en las
+áreas con mayor presencia de agentes y condiciones peligrosas o inseguras, y a partir de los incidentes,
+accidentes y enfermedades de trabajo.
+  9.5 Los recorridos de verificación previstos en el programa anual de la comisión, se deberán realizar al
+menos con una periodicidad trimestral, a efecto de:
+   a)    Identificar los agentes, condiciones peligrosas o inseguras y actos inseguros en el centro de trabajo;
+   b)    Investigar las causas de los accidentes y enfermedades de trabajo que en su caso ocurran, de
+         acuerdo con los elementos que les proporcione el patrón y otros que estimen necesarios (Véase
+         Guía de Referencia I Investigación de las causas de los accidentes y enfermedades de trabajo);
+   c)    Determinar las medidas para prevenir riesgos de trabajo, con base en lo dispuesto por el Reglamento
+         y las normas que resulten aplicables, y
+   d)    Dar seguimiento a la instauración de las medidas propuestas por la comisión para prevenir los
+         riesgos de trabajo.
+    9.6 Para la identificación de agentes, condiciones peligrosas o inseguras y actos inseguros en el centro de
+trabajo, la comisión podrá hacer uso del diagnóstico sobre seguridad y salud en el trabajo realizado por los
+servicios preventivos de seguridad y salud en el trabajo, a que se refiere la NOM-030-STPS-2009, o las que la
+sustituyan.
+    9.7 Para la identificación y determinación de las disposiciones normativas en materia de seguridad y salud
+aplicables al centro de trabajo, la comisión podrá utilizar el Asistente para la Identificación de las Normas
+Oficiales Mexicanas de Seguridad y Salud en el Trabajo y el módulo para la Evaluación del Cumplimiento de
+la Normatividad en Seguridad y Salud en el Trabajo, contenidos en la página electrónica de la Secretaría
+http://autogestion.stps.gob.mx:8162/, con la finalidad de detectar agentes, condiciones peligrosas o inseguras
+y actos inseguros en el centro de trabajo.
+        (Primera Sección)                        DIARIO OFICIAL                     Miércoles 13 de abril de 2011
+
+    9.8 Para la determinación de las medidas por adoptar para prevenir riesgos de trabajo en el centro de
+trabajo y el seguimiento a su instauración, la comisión podrá utilizar el módulo para la Elaboración de
+Programas de Seguridad y Salud en el Trabajo, contenido en la página electrónica de la Secretaría
+http://autogestion.stps.gob.mx:8162/.
+   9.9 La comisión deberá efectuar verificaciones extraordinarias en caso de que:
+   a)     Ocurran accidentes o enfermedades de trabajo que generen defunciones o incapacidades
+          permanentes;
+   b)     Existan modificaciones significativas en las instalaciones y/o cambios en los procesos de trabajo, con
+          base en la información proporcionada por el patrón o a solicitud de los trabajadores, o
+   c)     Reporten los trabajadores la presencia de agentes y condiciones peligrosas o inseguras que, a juicio
+          de la propia comisión, así lo ameriten.
+   Las verificaciones extraordinarias deberán realizarse dentro de los treinta días naturales siguientes a que
+se presente cualquiera de los supuestos previstos en este numeral.
+  9.10 La comisión deberá orientar a los trabajadores durante los recorridos de verificación sobre las
+medidas de seguridad por observar en las áreas del centro de trabajo.
+    9.11 El seguimiento de las medidas propuestas por la comisión relacionadas con la prevención de riesgos
+de trabajo, deberá efectuarse al menos en forma trimestral.
+   9.12 Las actas de los recorridos de verificación deberán contener la información siguiente:
+   a)     El nombre, denominación o razón social del centro de trabajo;
+   b)     El domicilio completo (calle, número, colonia, municipio o delegación, ciudad, entidad federativa,
+          código postal);
+   c)     El número de trabajadores del centro de trabajo;
+   d)     El tipo de recorrido de verificación: ordinario (conforme al programa anual) o extraordinario;
+   e)     Las fechas y horas de inicio y término del recorrido de verificación;
+   f)     El área o áreas del centro de trabajo en las que se realizó el recorrido de verificación;
+   g)     Los agentes, condiciones peligrosas o inseguras y actos inseguros identificados durante el recorrido
+          de verificación;
+   h)     Las causas que, en su caso, se hayan identificado sobre los accidentes y enfermedades de trabajo
+          que ocurran;
+   i)     Las medidas para prevenir los riesgos de trabajo detectados, con base en lo dispuesto por el
+          Reglamento y las normas que resulten aplicables;
+   j)     Las recomendaciones que por consenso se determinen en el seno de la comisión para prevenir,
+          reducir o eliminar condiciones peligrosas o inseguras, así como la prioridad con la que deberán
+          atenderse;
+   k)     El seguimiento a las recomendaciones formuladas en los recorridos de verificación anteriores;
+   l)     El lugar y fecha de conclusión del acta, y
+   m)     El nombre y firma de los integrantes de la comisión que participaron en el recorrido de verificación.
+   9.13 Los integrantes de la comisión podrán ser sustituidos a petición de quien los propuso, o bien por los
+motivos siguientes:
+   a)     En caso de que no cumplan con las actividades establecidas por la propia comisión;
+   b)     Si no asisten a más de dos de las verificaciones consecutivas programadas en forma injustificada, o
+   c)     Por ausencia definitiva en el centro de trabajo.
+   Miércoles 13 de abril de 2011                DIARIO OFICIAL                             (Primera Sección)
+
+   10. Capacitación de las comisiones
+    10.1 Los centros de trabajo deberán disponer de un programa anual de capacitación para los integrantes
+de la comisión, que considere al menos lo siguiente:
+   a)   Los integrantes de la comisión involucrados en la capacitación;
+   b)   Los temas de la capacitación de acuerdo con el numeral 10.2 de la presente Norma;
+   c)   Los tiempos de duración de los cursos y su período de ejecución, y
+   d)   El nombre del responsable del programa.
+    10.2 El programa anual de capacitación de los integrantes de la comisión, deberá comprender al menos
+los temas siguientes:
+   a)   Las obligaciones del patrón y de los trabajadores respecto del funcionamiento de la comisión;
+   b)   La forma cómo debe constituirse e integrarse la comisión;
+   c)   Las responsabilidades del coordinador, del secretario y de los vocales de la comisión;
+   d)   Las funciones que tiene encomendadas la comisión;
+   e)   Los temas en materia de seguridad y salud en el trabajo aplicables al centro de trabajo;
+   f)   Las medidas de seguridad y salud que se deben observar en el centro de trabajo, con base en lo
+        dispuesto por el Reglamento y las normas que resulten aplicables;
+   g)   La metodología para la identificación de condiciones peligrosas o inseguras y actos inseguros en el
+        centro de trabajo, y
+   h)   El procedimiento para la investigación sobre las causas de los accidentes y enfermedades de trabajo
+        que ocurran.
+    10.3 Cuando se incorpore a un nuevo integrante o integrantes a la comisión, se deberá proporcionar de
+inmediato un curso de inducción, al menos sobre los aspectos considerados en el numeral 10.2, incisos del a)
+al d), de esta Norma.
+   11. Unidades de verificación
+    11.1 El patrón tendrá la opción de contratar una unidad de verificación acreditada y aprobada, en los
+términos de la Ley Federal sobre Metrología y Normalización y su Reglamento, para verificar el grado de
+cumplimiento con la presente Norma.
+    11.2 Las unidades de verificación que evalúen la conformidad con la presente Norma, deberán aplicar los
+criterios de cumplimiento establecidos en el procedimiento para la evaluación de la conformidad del Capítulo
+12 de esta Norma.
+   11.3 Las unidades de verificación acreditadas y aprobadas que evalúen el cumplimiento de la presente
+Norma deberán emitir un dictamen, el cual habrá de contener:
+   a)   Datos del centro de trabajo:
+        1)   El nombre, denominación o razón social;
+        2)   El domicilio completo (calle, número, colonia, municipio o delegación, ciudad, entidad federativa,
+             código postal), y
+        3)   El nombre y firma del patrón o su representante, y
+   b)   Datos de la unidad de verificación:
+        1)   El nombre, denominación o razón social;
+        2)   El número de registro otorgado por la entidad de acreditación;
+        3)   El número de aprobación otorgado por la Secretaría del Trabajo y Previsión Social;
+        4)   La fecha en que se otorgó la acreditación y aprobación;
+        5)   El resultado de la verificación;
+        6)   El nombre y firma del responsable de emitir el dictamen;
+        7)   El lugar y fecha de la firma del dictamen, y
+        8)   La vigencia del dictamen.
+   11.4 La vigencia del dictamen de verificación, cuando éste sea favorable, será de dos años.
+       (Primera Sección)                         DIARIO OFICIAL                     Miércoles 13 de abril de 2011
+
+   12. Procedimiento para la evaluación de la conformidad
+    12.1 Este procedimiento para la evaluación de la conformidad aplica tanto a las visitas de inspección
+desarrolladas por la autoridad del trabajo, como a las visitas de verificación que realicen las unidades de
+verificación.
+    12.2 El dictamen de verificación vigente deberá estar a disposición de la autoridad del trabajo cuando ésta
+lo solicite.
+    12.3 Los aspectos a verificar durante la evaluación de la conformidad de esta Norma se realizará, según
+aplique, mediante la constatación física, revisión documental o entrevistas, de conformidad con lo siguiente:
+  Disposición     Comprobación               Criterio de aceptación                       Observaciones
+
+ 5.1, 5.4 y 7                      El patrón cumple cuando:
+
+                 Documental            Presenta evidencia documental de que
+                                        tiene constituida e integrada al menos
+                  Entrevista
+                                        una comisión, o
+                  Documental
+                                       Al entrevistar al menos a dos
+                                        integrantes de la comisión, se constata
+                                        que éstos forman parte de la misma;
+
+                                       Presenta evidencia documental de que
+                                        cada comisión está integrada por:
+
+                                            Un trabajador y el patrón o su
+                                             representante, cuando el centro
+                                             de trabajo cuente con menos de
+                                             15 trabajadores, o
+
+                                            Un coordinador, un secretario y
+                                             los vocales que acuerden el
+                                             patrón o sus representantes, y el
+                                             sindicato o el representante de los
+                                             trabajadores, en el caso de que
+                                             no exista la figura sindical, cuando
+                                             el centro de trabajo cuente con 15
+                                             trabajadores o más;
+
+                                       Presenta evidencia documental de que
+                                        formalizó la constitución de la comisión,
+                                        a través de un acta, en sesión con los
+                                        miembros que se hayan seleccionado y
+                                        con la representación del sindicato, si
+                                        lo hubiera;
+
+                                       Presenta evidencia documental de que
+                                        el acta de constitución de cada
+                                        comisión contiene como mínimo los
+                                        datos siguientes:
+
+                                            Datos del centro de trabajo:
+
+                                             o    El nombre, denominación o
+                                                  razón social;
+
+                                             o    El domicilio completo (calle,
+                                                  número, colonia, municipio o
+                                                  delegación, ciudad, entidad
+                                                  federativa, código postal);
+
+                                             o    El Registro Federal         de
+                                                  Contribuyentes;
+
+                                             o    El     Registro    Patronal
+                                                  otorgado por el Instituto
+                                                  Mexicano del Seguro Social;
+ Miércoles 13 de abril de 2011                  DIARIO OFICIAL                                  (Primera Sección)
+
+                                            o     La rama industrial o actividad
+                                                  económica;
+
+                                            o     La    fecha         de        inicio    de
+                                                  actividades;
+
+                                            o     El número de trabajadores
+                                                  del centro de trabajo, y
+
+                                            o     El número de turnos, y
+
+                                          Datos de la comisión:
+
+                                            o     La fecha de integración de la
+                                                  comisión (día, mes y año), y
+
+                                            o     El nombre y firma del patrón
+                                                  o de su representante, y del
+                                                  representante                 de        los
+                                                  trabajadores, tratándose de
+                                                  centros        de       trabajo         con
+                                                  menos de 15 trabajadores, o
+
+                                            o     El   nombre             y     firma     del
+                                                  coordinador,            secretario        y
+                                                  vocales,       en       el     caso     de
+                                                  centros de trabajo con 15
+                                                  trabajadores o más;
+
+                                     Presenta evidencia documental de que
+                                      el   acta   de    constitución            de       cada
+                                      comisión    se    actualiza,             cuando      se
+                                      modifica su integración, y
+
+                                     Presenta evidencia documental de que
+                                      en la constitución de dos o más
+                                      comisiones de seguridad e higiene se
+                                      tomó en consideración lo siguiente:
+
+                                          El número de turnos del centro de
+                                           trabajo;
+
+                                          El número de trabajadores que
+                                           integran cada turno de trabajo;
+
+                                          Los     agentes            y        condiciones
+                                           peligrosas       de    las          áreas     que
+                                           integran al centro de trabajo, y
+
+                                          Las empresas contratistas que
+                                           desarrollen labores relacionadas
+                                           con la      actividad          principal del
+                                           centro de trabajo dentro de las
+                                           instalaciones de este último.
+
+5.3            Documental        El patrón cumple cuando presenta evidencia
+                                 documental de que solicitó al sindicato o a
+                                 los trabajadores, si no hubiera sindicato, la
+                                 designación de sus representantes para
+                                 participar en la comisión, con base en las
+                                 funciones por desempeñar.
+      (Primera Sección)                   DIARIO OFICIAL                         Miércoles 13 de abril de 2011
+
+5.5, 9.3 a 9.5   Documental   El patrón cumple cuando:                        Para la identificación de agentes,
+                                  Presenta evidencia documental de que       condiciones peligrosas o inseguras
+                                   cuenta con el programa anual de los        y actos inseguros en el centro de
+                                   recorridos de verificación de la           trabajo, la comisión podrá hacer
+                                   comisión;                                  uso     del   diagnóstico    sobre
+                                  El programa anual de recorridos de         seguridad y salud en el trabajo
+                                   verificación se integra dentro de los      realizado    por     los  servicios
+                                   treinta días naturales siguientes a la     preventivos de seguridad y salud
+                                   constitución      de     la     comisión.  en el trabajo, a que se refiere la
+                                   Posteriormente,      se    conforma    el  NOM-030-STPS-2009, o las que la
+                                   programa dentro de los primeros treinta    sustituyan.
+                                   días naturales de cada año;               Para       la    identificación     y
+                                                                             determinación de las disposiciones
+                                  En el programa anual se determinan
+                                                                             normativas      en     materia    de
+                                   las prioridades de los recorridos de
+                                                                             seguridad y salud aplicables al
+                                   verificación, con base en las áreas con
+                                                                             centro de trabajo, la comisión
+                                   mayor presencia de agentes y
+                                                                             podrá utilizar el Asistente para la
+                                   condiciones peligrosas o inseguras, y a
+                                                                             Identificación de las Normas
+                                   partir de los incidentes, accidentes y
+                                                                             Oficiales Mexicanas de Seguridad
+                                   enfermedades de trabajo, y
+                                                                             y Salud en el Trabajo y el módulo
+                                  Los recorridos de verificación previstos
+                                                                             para       la    Evaluación       del
+                                   en el programa anual de la comisión,
+                                                                             Cumplimiento de la Normatividad
+                                   se realizan al menos con una
+                                                                             en Seguridad y Salud en el
+                                   periodicidad trimestral, a efecto de que:
+                                                                             Trabajo, contenidos en la página
+                                    Se identifiquen los agentes, electrónica               de    la    Secretaría
+                                         condiciones       peligrosas      o http://autogestion.stps.gob.mx:
+                                         inseguras y actos inseguros en el 8162/, con la finalidad de detectar
+                                         centro de trabajo;                  agentes, condiciones peligrosas o
+                                    Se investiguen las causas de los inseguras y actos inseguros en el
+                                         accidentes y enfermedades de centro de trabajo.
+                                         trabajo que en su caso ocurran, Para la determinación de las
+                                         de acuerdo con los elementos que medidas por adoptar para prevenir
+                                         les proporcione el patrón y otros riesgos de trabajo en el centro
+                                         que estimen necesarios;             laboral y el seguimiento a su
+                                       Se determinen las medidas para      instauración, la comisión podrá
+                                        prevenir riesgos de trabajo, con    utilizar  el    módulo  para     la
+                                        base en lo dispuesto por el         Elaboración de Programas de
+                                        Reglamento y las normas que         Seguridad y Salud en el Trabajo,
+                                        resulten aplicables, y              contenido en la página electrónica
+                                       Se    dé     seguimiento     a   la de           la        Secretaría:
+                                        instauración de las medidas http://autogestion.stps.gob.mx:
+                                        propuestas por la comisión para 8162/.
+                                        prevenir los riesgos de trabajo.
+9.9              Documental   El patrón cumple cuando presenta evidencia
+                              documental de que efectúa verificaciones
+                              extraordinarias, dentro de los treinta días
+                              naturales siguientes a que se presente
+                              cualquiera de los supuestos siguientes:
+                                  Ocurran accidentes o enfermedades de
+                                   trabajo que generen defunciones o
+                                   incapacidades permanentes;
+                                  Existan modificaciones significativas en
+                                   las instalaciones y/o cambios en los
+                                   procesos de trabajo, con base en la
+                                   información proporcionada por el patrón
+                                   o a solicitud de los trabajadores, o
+                                  Reporten los trabajadores la presencia
+                                   de agentes y condiciones peligrosas o
+                                   inseguras que, a juicio de la propia
+                                   comisión, así lo ameriten.
+  Miércoles 13 de abril de 2011               DIARIO OFICIAL                        (Primera Sección)
+
+5.6 y 9.12      Documental        El patrón cumple cuando:
+                                      Presenta evidencia documental de que
+                                       cuenta con las actas de recorridos de
+                                       verificación realizados por la comisión,
+                                       y
+                                      Las actas de los recorridos de
+                                       verificación contienen la información
+                                       siguiente:
+                                           El nombre, denominación o razón
+                                            social del centro de trabajo;
+                                           El domicilio completo (calle,
+                                            número, colonia, municipio o
+                                            delegación,     ciudad,     entidad
+                                            federativa, código postal);
+                                           El número de trabajadores del
+                                            centro de trabajo;
+                                           El tipo de recorrido de verificación:
+                                            ordinario (conforme al programa
+                                            anual) o extraordinario;
+                                           Las fechas y horas de inicio y
+                                            término      del recorrido  de
+                                            verificación;
+                                           El área o áreas del centro de
+                                            trabajo en las que se realizó el
+                                            recorrido de verificación;
+                                           Los      agentes,       condiciones
+                                            peligrosas o inseguras y actos
+                                            inseguros identificados durante el
+                                            recorrido de verificación;
+                                           Las causas que, en su caso, se
+                                            hayan identificado sobre los
+                                            accidentes y enfermedades de
+                                            trabajo que ocurran;
+                                           Las medidas para prevenir los
+                                            riesgos de trabajo detectados, con
+                                            base en lo dispuesto por el
+                                            Reglamento y las normas que
+                                            resulten aplicables;
+                                           Las recomendaciones que por
+                                            consenso se determinen en el
+                                            seno de la comisión para prevenir,
+                                            reducir o eliminar condiciones
+                                            peligrosas o inseguras, así como
+                                            la prioridad con la que se
+                                            atienden;
+                                           El      seguimiento  a     las
+                                            recomendaciones formuladas en
+                                            los recorridos de verificación
+                                            anteriores;
+                                           El lugar y fecha de conclusión del
+                                            acta, y
+                                           El nombre y firma de los
+                                            integrantes de la comisión que
+                                            participaron en el recorrido de
+                                            verificación.
+       (Primera Sección)                        DIARIO OFICIAL                      Miércoles 13 de abril de 2011
+
+5.7               Entrevista      El patrón cumple cuando, al entrevistar al
+                                  menos a un integrante de la comisión, éste
+                                  refiere que se les brindan facilidades para el
+                                  desempeño de sus funciones como
+                                  integrante de la misma.
+5.8               Documental      El patrón cumple cuando presenta evidencia
+                                  documental de que proporciona a la comisión
+                                  el diagnóstico sobre seguridad y salud en el
+                                  trabajo, a que se refiere la NOM-030-STPS-
+                                  2009, o las que la sustituyan.
+5.9               Documental      El patrón cumple cuando presenta evidencia
+                                  documental de que apoya la investigación de
+                                  los accidentes y enfermedades de trabajo
+                                  que lleve a cabo la comisión, proporcionando
+                                  para tal efecto información sobre:
+                                         Los incidentes, accidentes y
+                                              enfermedades de trabajo que
+                                              ocurran en el centro de trabajo;
+                                         Los procesos de trabajo y las
+                                              hojas de datos de seguridad de
+                                              las sustancias químicas utilizadas,
+                                              y
+                                         El seguimiento a las causas de los
+                                              riesgos de trabajo que tengan
+                                              lugar en el centro laboral.
+5.10, 9.7 y 9.8   Documental   o El patrón cumple cuando presenta evidencia
+                  física         documental de que a los integrantes de la
+                                 comisión se les brindan facilidades para
+                                 utilizar los apoyos informáticos desarrollados
+                                 por la Secretaría, para la identificación y
+                                 determinación      de     las     disposiciones
+                                 normativas en materia de seguridad y salud
+                                 aplicables al centro de trabajo, así como para
+                                 la determinación de las medidas por adoptar
+                                 para prevenir riesgos de trabajo en el centro
+                                 laboral y el seguimiento a su instauración en
+                                 el centro de trabajo.
+5.11 y 9.11       Documental      El patrón cumple cuando presenta evidencia
+                                  documental de que:
+                                       Atiende las medidas propuestas por la
+                                        comisión para prevenir los riesgos de
+                                        trabajo, de acuerdo con los resultados
+                                        de las actas de los recorridos de
+                                        verificación y con base en lo dispuesto
+                                        por el Reglamento y las normas que
+                                        resulten aplicables, y
+                                       Da seguimiento a las medidas
+                                        propuestas       por    la     comisión
+                                        relacionadas con la prevención de
+                                        riesgos de trabajo, al menos en forma
+                                        trimestral.
+5.12              Documental      El patrón cumple cuando presenta evidencia
+                                  documental de que difunde por cualquier
+                                  medio:
+                                       La relación actualizada de los
+                                        integrantes de la comisión, precisando
+                                        el puesto, turno y área de trabajo de
+                                        cada uno de ellos;
+                                       Los resultados de las investigaciones,
+                                        con las causas y consecuencias, sobre
+                                        los accidentes y enfermedades de
+                                        trabajo, y
+                                       Las medidas propuestas por la
+                                        comisión,     relacionadas    con    la
+                                        prevención de riesgos de trabajo, a fin
+                                        de evitar su recurrencia.
+ Miércoles 13 de abril de 2011                 DIARIO OFICIAL                                    (Primera Sección)
+
+5.13 y 10.1 a Documental         El patrón cumple cuando presenta evidencia El patrón podrá presentar como
+10.3                             documental de que:                             evidencia del cumplimiento de la
+                                                                                capacitación,      sus   respectivos
+                                      Proporciona     capacitación    a    los
+                                                                                programas, así como los diplomas,
+                                       integrantes de la comisión, al menos
+                                                                                certificados,     constancias       de
+                                       una vez al año;
+                                                                                habilidades y las constancias
+                                      Dispone de un programa anual de obtenidas por la acreditación de los
+                                       capacitación para los integrantes de la cursos en la modalidad e-learning
+                                       comisión, que al menos considere lo sobre           las    normas     oficiales
+                                       siguiente:                               mexicanas de seguridad y salud en
+                                        Los integrantes de la comisión el trabajo, del Aula Virtual del
+                                            involucrados en la capacitación;    Programa de Capacitación a
+                                                                                Distancia      para    Trabajadores,
+                                        Los temas de la capacitación de PROCADIST, en la dirección
+                                            acuerdo con el numeral 10.2 de la electrónica www.stps.gob.mx.
+                                            presente Norma;
+                                                                                Como       metodología     para      la
+                                        Los tiempos de duración de los identificación             de    condiciones
+                                            cursos y su período de ejecución, peligrosas o inseguras y actos
+                                            y                                   inseguros, la comisión podrá
+                                        El nombre del responsable del utilizar el Asistente para la
+                                            programa;                           Identificación de las Normas
+                                                                                Oficiales Mexicanas de Seguridad
+                                      El programa anual de capacitación de
+                                                                                y Salud en el Trabajo y el módulo
+                                       los integrantes de la comisión,
+                                                                                para       la     Evaluación       del
+                                       comprende al menos los temas
+                                                                                Cumplimiento de la Normatividad en
+                                       siguientes:
+                                                                                Seguridad y Salud en el Trabajo,
+                                        Las obligaciones del patrón y de contenidos en la página electrónica
+                                            los trabajadores respecto del de                   la         Secretaría
+                                            funcionamiento de la comisión;      http://autogestion.stps.gob.mx:
+                                                                                8162/.
+                                        La forma cómo debe constituirse e
+                                            integrarse la comisión;
+
+                                           Las      responsabilidades    del
+                                            coordinador, del secretario y de
+                                            los vocales de la comisión;
+
+                                           Las   funciones    que    tiene
+                                            encomendadas la comisión;
+
+                                           Los temas en materia de
+                                            seguridad y salud en el trabajo
+                                            aplicables al centro de trabajo;
+
+                                           Las medidas de seguridad y salud
+                                            que se deben observar en el
+                                            centro de trabajo, con base en lo
+                                            dispuesto por el Reglamento y las
+                                            normas que resulten aplicables;
+
+                                           La      metodología    para     la
+                                            identificación  de    condiciones
+                                            peligrosas o inseguras y actos
+                                            inseguros en el centro de trabajo,
+                                            y
+
+                                           El    procedimiento     para    la
+                                            investigación sobre las causas de
+                                            los accidentes y enfermedades de
+                                            trabajo que ocurran, y
+       (Primera Sección)                       DIARIO OFICIAL                     Miércoles 13 de abril de 2011
+
+                                       Al incorporar a nuevos integrantes a la
+                                        comisión, se les proporcionan de
+                                        inmediato cursos de inducción, al
+                                        menos sobre los temas siguientes:
+
+                                            Las obligaciones del patrón y de
+                                             los trabajadores respecto del
+                                             funcionamiento de la comisión;
+
+                                            La forma cómo debe constituirse e
+                                             integrarse la comisión;
+
+                                            Las      responsabilidades    del
+                                             coordinador, del secretario y de
+                                             los vocales de la comisión, y
+
+                                            Las   funciones    que    tiene
+                                             encomendadas la comisión.
+
+
+
+   12.4 Las evidencias de tipo documental que obren en el centro de trabajo podrán exhibirse de manera
+impresa o en medios magnéticos, y deberán conservarse durante dos años.
+   13. Vigilancia
+   13.1 La vigilancia del cumplimiento de esta Norma Oficial Mexicana corresponde a la Secretaría del
+Trabajo y Previsión Social.
+   14. Bibliografía
+   14.1 Ley Federal del Trabajo, publicada en el Diario Oficial de la Federación de 1 de abril de 1970.
+    14.2 Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, publicado en el Diario
+Oficial de la Federación de 21 de enero de 1997.
+   14.3 Ley de Prevención de Riesgos Laborales. España. Ley 31/1995, 8 de noviembre de 1995.
+   14.4 Legislación sobre Seguridad en el Trabajo. Canadá. Memorándum de Entendimiento México -
+Canadá. Intercambio Documental. 1993.
+   15. Concordancia con normas internacionales
+   Esta Norma Oficial Mexicana no concuerda con ninguna Norma Internacional, por no existir referencia
+alguna al momento de su elaboración.
+                                              TRANSITORIOS
+   PRIMERO. La presente Norma Oficial Mexicana entrará en vigor a los tres meses siguientes a su
+publicación en el Diario Oficial de la Federación.
+    SEGUNDO. Durante el lapso señalado en el artículo primero transitorio, los patrones cumplirán con la
+Norma Oficial Mexicana NOM-019-STPS-2004, Constitución, organización y funcionamiento de las comisiones
+de seguridad e higiene en los centros de trabajo, o bien realizarán las adaptaciones para observar las
+disposiciones de la presente Norma Oficial Mexicana NOM-019-STPS-2011, Constitución, integración,
+organización y funcionamiento de las comisiones de seguridad e higiene.
+   En este último caso, las autoridades laborales proporcionarán a petición de los patrones interesados,
+asesoría y orientación para instrumentar su cumplimiento, sin que los patrones se hagan acreedores a
+sanciones por el incumplimiento de la norma en vigor.
+    TERCERO. A partir de la fecha en que entre en vigor la presente Norma, quedará sin efectos la Norma
+Oficial Mexicana NOM-019-STPS-2004, Constitución, organización y funcionamiento de las comisiones de
+seguridad e higiene en los centros de trabajo, publicada en el Diario Oficial de la Federación de 4 de enero de
+2005.
+   Dado en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de marzo de dos mil once.- El
+Secretario del Trabajo y Previsión Social, Javier Lozano Alarcón.- Rúbrica.
+   Miércoles 13 de abril de 2011                     DIARIO OFICIAL                              (Primera Sección)
+
+                                                   Guía de Referencia I
+                  Investigación de las causas de los accidentes y enfermedades de trabajo
+   El contenido de esta guía es un complemento para la mejor comprensión de la presente Norma, y no es
+de cumplimiento obligatorio.
+   Esta guía indica de manera general, la información básica para iniciar la investigación de las causas de los
+accidentes y enfermedades de trabajo, la cual no es exhaustiva ni limitativa.
+   1.     Identificación del centro de trabajo
+ 1.1 RAZON SOCIAL                                                          1.2 REGISTRO FEDERAL DE
+                                                                           CONTRIBUYENTES
+
+
+
+ 1.3 DOMICILIO (Calle, No. Ext., No. Int., Col.)                           1.4 CODIGO POSTAL      1.5 TELEFONO
+
+
+
+ 1.6 CORREO ELECTRONICO            1.7 ENTIDAD FEDERATIVA, MUNICIPIO O DELEGACION POLITICA Y LOCALIDAD
+
+
+
+ 1.8 GIRO O ACTIVIDAD (*)                                                  1.9 REGISTRO PATRONAL OTORGADO POR
+                                                                           LA INSTITUCION DE SEGURIDAD SOCIAL
+
+
+
+    * La información debe estar de acuerdo con el Reglamento de la Ley del Seguro Social en Materia de Afiliación,
+Clasificación de Empresas, Recaudación y Fiscalización del Instituto Mexicano del Seguro Social.
+   2.     Datos del trabajador
+ 2.1 NOMBRE (Apellidos paterno, materno y nombre(s))                              2.2 CURP O REGISTRO FEDERAL DE
+                                                                                  CONTRIBUYENTES
+
+
+
+ 2.3 DOMICILIO (Calle, No. Ext., No. Int., Col.)   2.4 ENTIDAD FEDERATIVA,        2.5 CODIGO       2.6 TELEFONO
+                                                   MUNICIPIO O DELEGACION         POSTAL
+                                                   POLITICA Y LOCALIDAD
+
+
+
+ 2.7 GENERO                                                    2.8 EDAD (Años cumplidos)
+
+                   HOMBRE                         MUJER 
+
+ 2.9 ANTIGÜEDAD EN EL CENTRO DE TRABAJO (Años,                 2.10 ANTIGÜEDAD EN EL PUESTO (Años, meses)
+ meses)
+
+
+
+ 2.11 OCUPACION QUE DESEMPEÑABA AL OCURRIR EL ACCIDENTE O                         2.12 HORARIO DE TRABAJO
+ ENFERMEDAD DE TRABAJO
+
+
+
+ 2.13 CATEGORIA DEL TRABAJADOR
+
+ SINDICALIZADO                                    CONFIANZA                     OTRO
+
+                                                                                           (ESPECIFICAR)
+
+ 2.14 SALARIO DIARIO                               2.15 INSTITUCION DE SEGURIDAD SOCIAL
+
+                                                   IMSS       ISSSTE            OTRO
+
+                                                                                           (ESPECIFICAR)
+
+ 2.16 NUMERO DE SEGURIDAD SOCIAL O SU EQUIVALENTE              2.17 BENEFICIARIOS **
+
+
+
+   ** Este campo deberá ser llenado solamente en caso de fallecimiento del trabajador.
+        (Primera Sección)                           DIARIO OFICIAL                          Miércoles 13 de abril de 2011
+
+  3.      Lugar y tiempo del accidente o enfermedad de trabajo
+3.1 LUGAR DEL RIESGO DE TRABAJO                                  3.2 FECHA Y HORA EN QUE OCURRIO EL ACCIDENTE
+                                                                 O ENFERMEDAD DE TRABAJO
+                                                                 FECHA:                          HORA:
+3.3 JORNADA EN QUE OCURRIO EL ACCIDENTE O ENFERMEDAD DE TRABAJO
+DIURNA                                      NOCTURNA                                 MIXTA 
+3.4 ENTIDAD FEDERATIVA, MUNICIPIO O DELEGACION POLITICA Y LOCALIDAD
+
+
+3.5 DESCRIBIR LA FORMA EN QUE OCURRIO EL ACCIDENTE O ENFERMEDAD DE TRABAJO
+
+
+
+
+  4.      Datos del accidente o enfermedad de trabajo
+
+4.1 TIPO DE RIESGO
+
+ACCIDENTE DE TRABAJO                                           ENFERMEDAD DE TRABAJO                            
+
+
+
+4.2        AGENTE, CONDICION PELIGROSA Y/O INSEGURA
+
+No.         MATERIA                                 No.            AGENTE, CONDICION PELIGROSA Y/O INSEGURA
+
+4.2.1      SEGURIDAD
+
+4.2.1.1      Edificios, Locales e Instalaciones.    4.2.1.1.1      Orden y limpieza.
+
+                                                    4.2.1.1.2      Areas y pasillos.
+
+                                                    4.2.1.1.3      Techos, paredes y pisos.
+
+                                                    4.2.1.1.4      Escaleras.
+
+                                                    4.2.1.1.5      Rampas.
+
+                                                    4.2.1.1.6      Escalas fijas y móviles.
+
+                                                    4.2.1.1.7      Puertas, vías de acceso y de circulación.
+
+                                                    4.2.1.1.8      Puentes y plataformas elevadas.
+
+                                                    4.2.1.1.9      Tránsito de vehículos.
+
+                                                    4.2.1.1.10     Tránsito de ferrocarriles.
+
+                                                    4.2.1.1.11     Operaciones de carga y descarga de vehículos.
+
+                                                    4.2.1.1.12     Sistemas de ventilación artificial.
+
+4.2.1.2     Prevención      y   Protección   contra 4.2.1.2.1      Equipo contra incendio.
+            Incendios.                              4.2.1.2.2      Medios de detección y alarmas.
+
+                                                    4.2.1.2.3      Sistemas fijos contra incendio.
+
+                                                    4.2.1.2.4      Instalaciones eléctricas.
+
+                                                    4.2.1.2.5      Instalaciones de gas licuado de petróleo y/o
+                                                                   natural.
+
+                                                    4.2.1.2.6      Señalamientos.
+
+                                                    4.2.1.2.7      Electricidad estática.
+
+                                                    4.2.1.2.8      Rutas de evacuación.
+  Miércoles 13 de abril de 2011                 DIARIO OFICIAL                                     (Primera Sección)
+
+4.2       AGENTE, CONDICION PELIGROSA Y/O INSEGURA
+
+No.        MATERIA                              No.          AGENTE, CONDICION PELIGROSA Y/O INSEGURA
+4.2.1.3    Sistemas y Dispositivos de Seguridad 4.2.1.3.1    Partes en movimiento.
+           en la Maquinaria.
+                                                4.2.1.3.2    Superficies cortantes.
+                                                4.2.1.3.3    Protectores y dispositivos de seguridad.
+                                                4.2.1.3.4    Orden y limpieza.
+                                                4.2.1.3.5    Interruptores o válvulas.
+                                                4.2.1.3.6    Tableros, controles o equipos.
+                                                4.2.1.3.7    Paro de emergencia.
+                                                4.2.1.3.8    Equipo de protección personal.
+4.2.1.4    Manejo,        Transporte        y 4.2.1.4.1      Espacios confinados y actividades peligrosas.
+           Almacenamiento    de    Sustancias
+                                              4.2.1.4.2      Equipo de llama abierta.
+           Peligrosas.
+                                              4.2.1.4.3      Recipientes y medios de transporte.
+                                                4.2.1.4.4    Herramientas y objetos que generen calor o
+                                                             electricidad estática.
+                                                4.2.1.4.5    Explosivos.
+                                                4.2.1.4.6    Ventilación.
+                                                4.2.1.4.7    Dispositivos de relevo de presión o arrestador
+                                                             de flama.
+                                                4.2.1.4.8    Instalaciones, equipo       o     materiales    para
+                                                             contener sustancias.
+                                                4.2.1.4.9    Tuberías.
+                                                4.2.1.4.10   Equipo de protección personal.
+4.2.1.5    Manejo y       Almacenamiento    de 4.2.1.5.1     Carga manual.
+           Materiales.
+                                                4.2.1.5.2    Polipastos y malacates.
+                                                4.2.1.5.3    Eslingas.
+                                                4.2.1.5.4    Grúas.
+                                                4.2.1.5.5    Montacargas.
+                                                4.2.1.5.6    Electroimanes.
+                                                4.2.1.5.7    Cargadores frontales.
+                                                4.2.1.5.8    Transportadores.
+                                                4.2.1.5.9    Diablos, patines y carretillas.
+                                                4.2.1.5.10   Barriles o tambos.
+                                                4.2.1.5.11   Materiales con aristas          cortantes   u   otros
+                                                             salientes peligrosos.
+                                                4.2.1.5.12   Equipo de protección personal.
+4.2.1.6    Trabajos en Altura.                  4.2.1.6.1    Punto de anclaje.
+                                                4.2.1.6.2    Andamios tipo torre o estructura.
+                                                4.2.1.6.3    Andamios suspendidos.
+                                                4.2.1.6.4    Plataformas de elevación.
+                                                4.2.1.6.5    Escaleras de mano.
+                                                4.2.1.6.6    Redes de seguridad.
+                                                4.2.1.6.7    Líneas energizadas.
+                                                4.2.1.6.8    Herramientas y otros artículos de trabajo
+                                                             (cinturón  porta-herramientas, bandas   y
+                                                             cuerdas).
+                                                4.2.1.6.9    Equipo de protección personal (Arnés de
+                                                             cuerpo completo o cinturón de seguridad, línea
+                                                             de vida y dispositivo fijo).
+      (Primera Sección)                            DIARIO OFICIAL                         Miércoles 13 de abril de 2011
+
+4.2        AGENTE, CONDICION PELIGROSA Y/O INSEGURA
+
+No.         MATERIA                                No.           AGENTE, CONDICION PELIGROSA Y/O INSEGURA
+
+4.2.1.7     Recipientes Sujetos a Presión y 4.2.1.7.1            Operaciones de arranque y paro.
+            Calderas.
+                                                   4.2.1.7.2     Instrumentos     de    medición     de   presión    y
+                                                                 temperatura.
+
+                                                   4.2.1.7.3     Area de desfogue.
+
+                                                   4.2.1.7.4     Dispositivos de seguridad.
+
+                                                   4.2.1.7.5     Sistema de soporte.
+
+                                                   4.2.1.7.6     Resguardos contra golpes o impactos.
+
+                                                   4.2.1.7.7     Señalamientos.
+
+4.2.1.8     Electricidad Estática.                 4.2.1.8.1     Pisos antiestáticos o conductivos.
+
+                                                   4.2.1.8.2     Sistemas de puesta a tierra.
+
+                                                   4.2.1.8.3     Sistemas de pararrayos.
+
+4.2.1.9     Soldadura y Corte.                     4.2.1.9.1     Casetas de soldar o mamparas.
+
+                                                   4.2.1.9.2     Equipos y elementos de seguridad.
+
+                                                   4.2.1.9.3     Señalamientos, avisos, candados o etiquetas
+                                                                 de seguridad.
+
+                                                   4.2.1.9.4     Ventilación natural o artificial.
+
+                                                   4.2.1.9.5     Equipo de protección personal (caretas o lentes
+                                                                 con sombra de soldador, protección facial,
+                                                                 capuchas o monjas, respirador para humos,
+                                                                 peto o mandil, guantes para soldador, polainas,
+                                                                 mangas y zapatos de seguridad).
+
+4.2.1.10    Mantenimiento      de    Instalaciones 4.2.1.10.1    Equipo eléctrico.
+            Eléctricas.
+                                                   4.2.1.10.2    Bancos de capacitores.
+
+                                                   4.2.1.10.3    Conductores o equipo energizado.
+
+                                                   4.2.1.10.4    Líneas eléctricas aéreas.
+
+                                                   4.2.1.10.5    Líneas eléctricas subterráneas.
+
+                                                   4.2.1.10.6    Subestaciones.
+
+                                                   4.2.1.10.7    Herramientas,       equipos    y    materiales     de
+                                                                 protección aislante.
+
+                                                   4.2.1.10.8    Cuchillas, seccionadores o fusibles.
+
+                                                   4.2.1.10.9    Instalaciones eléctricas permanentes.
+
+                                                   4.2.1.10.10   Instalaciones eléctricas provisionales.
+
+                                                   4.2.1.10.11   Sistema de puesta a tierra.
+
+                                                   4.2.1.10.12   Señalamientos, avisos, candados o etiquetas
+                                                                 de seguridad.
+
+                                                   4.2.1.10.13   Tapetes, mantas o cubiertas aislantes.
+
+                                                   4.2.1.10.14   Equipo de protección personal.
+  Miércoles 13 de abril de 2011                 DIARIO OFICIAL                                    (Primera Sección)
+
+4.2       AGENTE, CONDICION PELIGROSA Y/O INSEGURA
+
+No.        MATERIA                              No.          AGENTE, CONDICION PELIGROSA Y/O INSEGURA
+4.2.2     SALUD
+
+4.2.2.1    Contaminantes     por     Sustancias 4.2.2.1.1    Exposición a sustancias químicas peligrosas.
+           Químicas.
+                                                4.2.2.1.2    Modificación o sustitución de los procesos o
+                                                             equipos.
+
+                                                4.2.2.1.3    Sistemas de ventilación general.
+
+                                                4.2.2.1.4    Sistemas de          ventilación   por   extracción
+                                                             localizada.
+
+                                                4.2.2.1.5    Equipo de protección personal.
+
+4.2.2.2    Ruido.                               4.2.2.2.1    Exposición a ruido.
+
+                                                4.2.2.2.2    Modificación o sustitución de los procesos o
+                                                             equipos.
+
+                                                4.2.2.2.3    Cabinas, envolventes o barreras totales o
+                                                             parciales, interpuestas entre las fuentes
+                                                             sonoras y los receptores.
+
+                                                4.2.2.2.4    Equipo de protección personal.
+
+4.2.2.3    Radiaciones Ionizantes.              4.2.2.3.1    Exposición a radiaciones ionizantes.
+
+                                                4.2.2.3.2    Equipo de detección de radiación ionizante.
+
+                                                4.2.2.3.3    Vestidores.
+
+                                                4.2.2.3.4    Areas para la descontaminación del personal,
+                                                             equipos y herramientas.
+
+                                                4.2.2.3.5    Contenedores y barreras de protección.
+
+                                                4.2.2.3.6    Señalamientos.
+
+                                                4.2.2.3.7    Equipo de protección personal.
+
+4.2.2.4    Radiaciones No Ionizantes.           4.2.2.4.1    Exposición a radiaciones electromagnéticas no
+                                                             ionizantes.
+
+                                                4.2.2.4.2    Señalamientos.
+
+                                                4.2.2.4.3    Equipo de protección personal.
+
+4.2.2.5    Presiones Ambientales Anormales.     4.2.2.5.1    Sistema de filtrado de aire.
+
+                                                4.2.2.5.2    Umbilicales y mangueras.
+
+                                                4.2.2.5.3    Válvula de alivio.
+
+                                                4.2.2.5.4    Conectores o terminales para mangueras.
+
+                                                4.2.2.5.5    Cilindros.
+
+                                                4.2.2.5.6    Cámaras de descompresión.
+
+                                                4.2.2.5.7    Cinturón de lastre y arnés de buceo.
+
+                                                4.2.2.5.8    Manómetro de presión.
+
+                                                4.2.2.5.9    Cabo de vida.
+
+                                                4.2.2.5.10   Sistema de comunicación electrónica.
+
+                                                4.2.2.5.11   Equipo de protección personal.
+        (Primera Sección)                           DIARIO OFICIAL                     Miércoles 13 de abril de 2011
+
+4.2        AGENTE, CONDICION PELIGROSA Y/O INSEGURA
+
+No.         MATERIA                                 No.         AGENTE, CONDICION PELIGROSA Y/O INSEGURA
+4.2.2.6     Condiciones Térmicas Elevadas o 4.2.2.6.1           Exposición a condiciones térmicas elevadas o
+            Abatidas.                                           abatidas.
+
+                                                    4.2.2.6.2   Señalamientos.
+
+                                                    4.2.2.6.3   Equipo de protección personal.
+
+4.2.2.7      Vibraciones.                           4.2.2.7.1   Exposición a vibraciones.
+
+                                                    4.2.2.7.2   Señalamientos.
+
+4.2.2.8      Iluminación.                           4.2.2.8.1   Niveles de iluminación.
+
+                                                    4.2.2.8.2   Luminarias.
+
+                                                    4.2.2.8.3   Deslumbramiento directo, reflexión o efecto
+                                                                estroboscópico.
+
+4.2.3      ORGANIZACION
+
+4.2.3.1     Equipo de Protección Personal.          4.2.3.1.1   Condición o estado físico.
+
+                                                    4.2.3.1.2   Señalamientos.
+
+4.2.3.2     Identificación de Peligros y Riesgos 4.2.3.2.1      Hojas de datos de seguridad.
+            por Sustancias Químicas.
+                                                 4.2.3.2.2      Señalamientos.
+
+4.2.3.3     Colores y Señales de Seguridad.         4.2.3.3.1   Características de uso de colores y señales.
+
+                                                    4.2.3.3.2   Ubicación.
+
+                                                    4.2.3.3.3   Mantenimiento de señales de seguridad.
+
+Otra condición o agente (especifique):
+
+
+
+
+4.3        ACTO INSEGURO
+
+No.         MATERIA                                 No.         ACTO
+
+4.3.1      SEGURIDAD
+
+4.3.1.1     Edificios, Locales e Instalaciones.     4.3.1.1.1   Retirar protecciones o barandales.
+
+                                                    4.3.1.1.2   No respetar la delimitación de áreas o zonas de
+                                                                riesgo.
+
+                                                    4.3.1.1.3   Obstruir puertas,     vías    de   acceso   y   de
+                                                                circulación.
+
+                                                    4.3.1.1.4   Tirar materiales u objetos.
+
+                                                    4.3.1.1.5   Utilizar las instalaciones para fines distintos a
+                                                                los de diseño.
+
+                                                    4.3.1.1.6   Utilizar escaleras deterioradas.
+
+                                                    4.3.1.1.7   No respetar las especificaciones de uso de
+                                                                escaleras.
+
+                                                    4.3.1.1.8   Conducir los vehículos a velocidades superiores
+                                                                a los límites indicados.
+
+4.3.1.2     Prevención      y   Protección   contra 4.3.1.2.1   No aplicar el procedimiento de seguridad.
+            Incendios.
+                                                    4.3.1.2.2   Obstruir los accesos y señalización.
+
+                                                    4.3.1.2.3   No revisar las instalaciones eléctricas.
+
+                                                    4.3.1.2.4   Utilizar los elevadores para evacuación del
+                                                                personal en caso de incendio.
+  Miércoles 13 de abril de 2011                   DIARIO OFICIAL                                       (Primera Sección)
+
+4.3       ACTO INSEGURO
+
+No.        MATERIA                                No.         ACTO
+
+4.3.1.3    Sistemas y Dispositivos de Seguridad 4.3.1.3.1     Retirar protectores y guardas.
+           en la Maquinaria.
+                                                  4.3.1.3.2   Anular dispositivos de seguridad.
+
+                                                  4.3.1.3.3   No aplicar el programa para la operación de
+                                                              maquinaria y equipo.
+
+                                                  4.3.1.3.4   No        aplicar   el       procedimiento   para    el
+                                                              mantenimiento preventivo y correctivo.
+
+                                                  4.3.1.3.5   Retirar u obstruir la señalización de las áreas de
+                                                              operación.
+
+                                                  4.3.1.3.6   Utilizar maquinaria y equipo sin conexión a
+                                                              tierra.
+
+                                                  4.3.1.3.7   Usar cabello largo y portar cadenas, anillos,
+                                                              pulseras o ropa suelta.
+
+                                                  4.3.1.3.8   No utilizar el equipo de protección personal.
+
+4.3.1.4    Manejo,          Transporte       y 4.3.1.4.1      No aplicar el programa y procedimientos de
+           Almacenamiento      de    Sustancias               seguridad e higiene.
+           Peligrosas.
+                                                  4.3.1.4.2   Obstruir las instalaciones, equipo o materiales
+                                                              de contención.
+
+                                                  4.3.1.4.3   Dañar los sistemas de tuberías.
+
+                                                  4.3.1.4.4   Llenar los recipientes por arriba del 90% de su
+                                                              capacidad.
+
+                                                  4.3.1.4.5   Dañar los dispositivos de seguridad de los
+                                                              recipientes.
+
+                                                  4.3.1.4.6   Utilizar herramientas, ropa, zapatos y objetos
+                                                              personales que puedan provocar ignición.
+
+                                                  4.3.1.4.7   No utilizar el equipo de protección personal.
+
+4.3.1.5    Manejo    y   Almacenamiento     de 4.3.1.5.1      No aplicar el procedimiento de seguridad e
+           Materiales.                                        higiene.
+
+                                                  4.3.1.5.2   No realizar el bloqueo de energía.
+
+                                                  4.3.1.5.3   Omitir la colocación de candados de seguridad
+                                                              o tarjetas de aviso.
+
+                                                  4.3.1.5.4   Utilizar instalaciones, equipos y sus partes que
+                                                              presenten ruptura, fatiga o deformación.
+
+                                                  4.3.1.5.5   Utilizar     equipos     y    sus   partes   fuera   de
+                                                              especificaciones.
+
+                                                  4.3.1.5.6   Rebasar la carga máxima manual o de los
+                                                              equipos.
+
+                                                  4.3.1.5.7   No respetar las especificaciones de operación.
+
+                                                  4.3.1.5.8   Efectuar el llenado de combustible en zonas no
+                                                              ventiladas.
+
+                                                  4.3.1.5.9   No utilizar el equipo de protección personal.
+      (Primera Sección)                     DIARIO OFICIAL                        Miércoles 13 de abril de 2011
+
+4.3       ACTO INSEGURO
+
+No.        MATERIA                          No.          ACTO
+4.3.1.6    Trabajos en Altura.              4.3.1.6.1    No aplicar los procedimientos de operación y
+                                                         mantenimiento de los equipos.
+                                            4.3.1.6.2    Realizar actividades en altura cuando existan
+                                                         condiciones climáticas de riesgo.
+                                            4.3.1.6.3    Utilizar equipos o sistemas de protección
+                                                         personal con desgastes, daños, deterioros o
+                                                         mal funcionamiento.
+                                            4.3.1.6.4    Rebasar la capacidad de carga nominal del
+                                                         sistema.
+                                            4.3.1.6.5    Utilizar cables metálicos en presencia de riesgo
+                                                         eléctrico.
+                                            4.3.1.6.6    No respetar las protecciones y distancias de
+                                                         seguridad a líneas eléctricas energizadas.
+                                            4.3.1.6.7    Invadir las áreas delimitadas.
+                                            4.3.1.6.8    Utilizar equipos     y   sus     partes   fuera   de
+                                                         especificaciones.
+                                            4.3.1.6.9    No colocar la herramienta, equipo o material en
+                                                         contenedores.
+                                            4.3.1.6.10   Ascender y descender por los cables de
+                                                         suspensión.
+                                            4.3.1.6.11   Exceder la velocidad de ascenso y descenso de
+                                                         los andamios suspendidos motorizados.
+                                            4.3.1.6.12   Ascender o descender de frente a la escalera
+                                                         de mano.
+                                            4.3.1.6.13   Rebasar el antepenúltimo peldaño al trabajar en
+                                                         una escalera de mano.
+                                            4.3.1.6.14   No utilizar el equipo de protección personal.
+4.3.1.7    Recipientes Sujetos a Presión y 4.3.1.7.1     No aplicar los procedimientos para la operación,
+           Calderas.                                     mantenimiento y revisión.
+                                            4.3.1.7.2    Transitar por la zona de desahogo de los
+                                                         fluidos.
+                                            4.3.1.7.3    No respetar la delimitación de los equipos.
+                                            4.3.1.7.4    Anular los dispositivos de seguridad.
+                                            4.3.1.7.5    Retirar u obstruir la señalización.
+                                            4.3.1.7.6    No utilizar el equipo de protección personal.
+4.3.1.8    Electricidad Estática.           4.3.1.8.1    Desinstalar los sistemas de puesta a tierra.
+                                            4.3.1.8.2    Desconectar los sistemas de pararrayos.
+4.3.1.9    Soldadura y Corte.               4.3.1.9.1    No aplicar el programa para las actividades de
+                                                         soldadura y corte.
+                                            4.3.1.9.2    No aplicar los procedimientos de seguridad e
+                                                         higiene.
+                                            4.3.1.9.3    Utilizar reguladores de presión reconstruidos.
+                                            4.3.1.9.4    Omitir colocar tarjetas de seguridad.
+                                            4.3.1.9.5    Obstruir o no respetar la señalización.
+                                            4.3.1.9.6    Retirar o no respetar los dispositivos de
+                                                         seguridad
+                                            4.3.1.9.7    Colocar cilindros y fuentes de poder dentro de
+                                                         espacios confinados.
+                                            4.3.1.9.8    No utilizar el equipo de protección personal.
+  Miércoles 13 de abril de 2011                     DIARIO OFICIAL                                     (Primera Sección)
+
+4.3        ACTO INSEGURO
+
+No.         MATERIA                                 No.           ACTO
+4.3.1.10    Mantenimiento    de       Instalaciones 4.3.1.10.1    No aplicar los procedimientos de seguridad e
+            Eléctricas.                                           higiene.
+                                                    4.3.1.10.2    No conectar los conductores de puesta a tierra.
+                                                    4.3.1.10.3    Realizar trabajos durante tormentas eléctricas.
+                                                    4.3.1.10.4    Obstruir o no respetar la señalización.
+                                                    4.3.1.10.5    No respetar las protecciones y distancias de
+                                                                  seguridad a líneas eléctricas energizadas.
+                                                    4.3.1.10.6    Utilizar herramientas, equipos y materiales sin
+                                                                  protección aislante.
+                                                    4.3.1.10.7    No colocar cercas o pantallas de protección a
+                                                                  los   cables   y   elementos     descubiertos
+                                                                  energizados.
+                                                    4.3.1.10.8    Utilizar flexómetros metálicos y equipos de
+                                                                  radiocomunicación con antena.
+                                                    4.3.1.10.9    No verificar la ausencia de energía en los
+                                                                  equipos.
+                                                    4.3.1.10.10   Omitir la colocación de candados de seguridad
+                                                                  o tarjetas de aviso.
+                                                    4.3.1.10.11   Realizar trabajos en conductores o equipos
+                                                                  energizados.
+                                                    4.3.1.10.12   No utilizar    tapetes,   mantas     o    cubiertas
+                                                                  aislantes.
+                                                    4.3.1.10.13   No utilizar el equipo de protección personal.
+4.3.2      SALUD
+4.3.2.1     Contaminantes     por       Sustancias 4.3.2.1.1      No aplicar las medidas de control.
+            Químicas.
+                                                    4.3.2.1.2     Retirar o interrumpir el funcionamiento del
+                                                                  equipo de muestreo.
+                                                    4.3.2.1.3     Consumir alimentos, bebidas y tabaco.
+                                                    4.3.2.1.4     No respetar la señalización.
+                                                    4.3.2.1.5     No utilizar el equipo de protección personal.
+4.3.2.2     Ruido.                                  4.3.2.2.1     No aplicar las medidas de control.
+                                                    4.3.2.2.2     No respetar la señalización.
+                                                    4.3.2.2.3     No utilizar el equipo de protección personal.
+4.3.2.3     Radiaciones Ionizantes.                 4.3.2.3.1     No aplicar los procedimientos de seguridad.
+                                                    4.3.2.3.2     Retirar o interrumpir el funcionamiento del
+                                                                  equipo de detección.
+                                                    4.3.2.3.3     Juntar la ropa contaminada con la de vestir.
+                                                    4.3.2.3.4     No utilizar las áreas específicas para la
+                                                                  descontaminación.
+                                                    4.3.2.3.5     Consumir alimentos, bebidas y tabaco.
+                                                    4.3.2.3.6     Usar cosméticos y sustancias para la piel, así
+                                                                  como pañuelos que no sean desechables.
+                                                    4.3.2.3.7     No colocar los desechos radiactivos en los
+                                                                  contenedores correspondientes.
+                                                    4.3.2.3.8     No respetar la señalización.
+                                                    4.3.2.3.9     No utilizar el equipo de protección personal.
+        (Primera Sección)                         DIARIO OFICIAL                         Miércoles 13 de abril de 2011
+
+4.3        ACTO INSEGURO
+
+No.          MATERIA                              No.            ACTO
+4.3.2.4      Radiaciones No Ionizantes.           4.3.2.4.1      No aplicar las medidas de control.
+                                                  4.3.2.4.2      No respetar la señalización.
+                                                  4.3.2.4.3      No utilizar el equipo de protección personal.
+4.3.2.5      Presiones Ambientales Anormales.     4.3.2.5.1      No aplicar los procedimientos de seguridad.
+                                                  4.3.2.5.2      No realizar las actividades de acuerdo a los
+                                                                 planes de trabajo.
+                                                  4.3.2.5.3      Realizar actividades en condiciones no óptimas
+                                                                 de salud.
+                                                  4.3.2.5.4      No utilizar los instrumentos de medición de
+                                                                 presión, composición y temperatura del aire o
+                                                                 mezcla respirable.
+                                                  4.3.2.5.5      Evitar someterse a los tratamientos             de
+                                                                 compresión y descompresión.
+                                                  4.3.2.5.6      No utilizar el equipo de protección personal.
+4.3.2.6      Condiciones Térmicas Elevadas o 4.3.2.6.1           No respetar la señalización.
+             Abatidas.
+                                             4.3.2.6.2           Obstruir las fuentes de ventilación natural o
+                                                                 artificial.
+                                                  4.3.2.6.3      No aplicar las medidas de control.
+                                                  4.3.2.6.4      No utilizar el equipo de protección personal.
+4.3.2.7      Vibraciones.                         4.3.2.7.1      No aplicar las medidas de control.
+                                                  4.3.2.7.2      No respetar la señalización.
+4.3.2.8      Iluminación.                         4.3.2.8.1      Obstruir fuentes de iluminación.
+                                                  4.3.2.8.2      No aplicar las medidas de control.
+4.3.3      ORGANIZACION
+4.3.3.1      Equipo de Protección Personal.       4.3.3.1.1      No aplicar los procedimientos de seguridad.
+                                                  4.3.3.1.2      Utilizar equipo deteriorado.
+                                                  4.3.3.1.3      No utilizar el equipo en las áreas señalizadas.
+4.3.3.2      Identificación de Peligros y Riesgos 4.3.3.2.1      No respetar la señalización.
+             por Sustancias Químicas.
+                                                  4.3.3.2.2      No aplicar las medidas de control de las hojas
+                                                                 de datos de seguridad.
+                                                  4.3.3.2.3      No utilizar el equipo de protección personal.
+4.3.3.3      Colores y Señales de Seguridad.      4.3.3.3.1      Obstruir o retirar la señalización.
+                                                  4.3.3.3.2      No respetar la señalización.
+Otro acto (especifique):
+
+
+
+
+4.4        CAUSA DEL RIESGO DE TRABAJO
+No.        RIESGO                                 No.         CAUSA
+4.4.1      Atrapamiento.                          4.4.1.1     Por partes móviles de la maquinaria.
+                                                  4.4.1.2     Por vuelco de vehículos.
+                                                  4.4.1.3     Por la manipulación manual de objetos.
+4.4.2      Atropello.                             4.4.2.1     Por vehículos.
+                                                  4.4.2.2     Por conducción de maquinaria.
+  Miércoles 13 de abril de 2011                   DIARIO OFICIAL                                    (Primera Sección)
+
+4.4      CAUSA DEL RIESGO DE TRABAJO
+No.      RIESGO                                   No.        CAUSA
+
+4.4.3    Caída de Objetos.                        4.4.3.1    Por desplome o derrumbamiento.
+                                                  4.4.3.2    En manipulación.
+                                                  4.4.3.3    Desprendidos.
+4.4.4    Caída del Trabajador.                    4.4.4.1    Al mismo nivel.
+                                                  4.4.4.2    A diferente nivel.
+4.4.5    Descargas Eléctricas.                    4.4.5.1    Contacto con líneas de alta tensión.
+                                                  4.4.5.2    Por maquinaria y equipo eléctrico no conectadas a
+                                                             tierra física.
+4.4.6    Golpe contra Objetos.                    4.4.6.1    Manejo de herramientas manuales.
+                                                  4.4.6.2    Ruptura de elementos de transmisión de fuerza.
+                                                  4.4.6.3    Fuga en las conexiones de equipos neumáticos.
+4.4.7    Explosión o Incendio.                    4.4.7.1    Derrame.
+                                                  4.4.7.2    Fuga.
+4.4.8    Exposición a Condiciones Térmicas 4.4.8.1           Elevadas.
+         Elevadas o Abatidas.              4.4.8.2           Abatidas.
+4.4.9    Exposición a Radiaciones Ionizantes.     4.4.9.1    Rayos X.
+                                                  4.4.9.2    Rayos gamma γ
+                                                  4.4.9.3    Partículas alfa α
+                                                  4.4.9.4    Partículas beta β
+                                                  4.4.9.5    Neutrones.
+4.4.10   Exposición       a    Radiaciones    No 4.4.10.1    Ultravioleta.
+         Ionizantes.                              4.4.10.2   Infrarroja.
+                                                  4.4.10.3   Microondas.
+                                                  4.4.10.4   Radiofrecuencia.
+                                                  4.4.10.5   Láser.
+4.4.11   Exposición a Ruido.                      4.4.11.1   Estable.
+                                                  4.4.11.2   Impulsivo.
+                                                  4.4.11.3   Inestable.
+4.4.12   Exposición a Sustancias Químicas.        4.4.12.1   Absorción.
+                                                  4.4.12.2   Contacto.
+                                                  4.4.12.3   Inhalación.
+                                                  4.4.12.4   Ingestión.
+4.4.13   Exposición a Presiones Ambientales 4.4.13.1         Actividades bajo presiones ambientales bajas.
+         Anormales.                         4.4.13.2         Buceo bajo altas presiones.
+                                                  4.4.13.3   Buceo con equipo autónomo.
+                                                  4.4.13.4   Buceo dirigido de superficie con suministro de aire.
+                                                  4.4.13.5   Buceo dirigido de superficie con suministro de
+                                                             mezcla de gases.
+                                                  4.4.13.6   Buceo de saturación.
+4.4.14   Exposición a Vibraciones.                4.4.14.1   En cuerpo entero.
+                                                  4.4.14.2   En extremidades superiores.
+4.4.15   Fatiga Física.                           4.4.15.1   Por desplazamientos.
+                                                  4.4.15.2   Manejo de cargas.
+                                                  4.4.15.3   Posturas forzadas.
+                                                  4.4.15.4   Trabajos repetitivos.
+4.4.16   Proyección       de     Fragmentos     o 4.4.17.1   Desprendimiento de rebabas de materiales
+         Partículas.                                         manipulados por una máquina o herramienta.
+                                                  4.4.17.2   Ruptura de elementos de herramientas eléctricas,
+                                                             neumáticas y que usan combustible.
+Otra causa (especifique):
+        (Primera Sección)                              DIARIO OFICIAL                 Miércoles 13 de abril de 2011
+
+4.5        CONSECUENCIAS DEL RIESGO DE TRABAJO
+4.5.1      TIPO DE LESION
+4.5.1.1      Contusión.
+4.5.1.2      Conmoción y lesiones internas.
+4.5.1.3      Herida abierta.
+4.5.1.4      Amputación.
+4.5.1.5      Fractura expuesta.
+4.5.1.6      Fractura cerrada.
+4.5.1.7      Luxación o dislocación.
+4.5.1.8      Torcedura, esguince o distensión de ligamentos.
+4.5.1.9      Asfixia, inhalación u ahogo.
+4.5.1.10     Intoxicación.
+4.5.1.11     Lesión por calor o congelación.
+4.5.1.12     Quemaduras por sustancias químicas.
+4.5.1.13     Lesión por descargas eléctricas.
+4.5.1.14     Quemadura por radiación o contacto con partes calientes.
+Otra lesión (especifique):
+
+
+4.5.2      PARTE DEL CUERPO AFECTADA
+4.5.2.1      Cabeza.
+4.5.2.2      Cara.
+4.5.2.3      Ojos.
+4.5.2.4      Oídos.
+4.5.2.5      Cuello.
+4.5.2.6      Espalda o columna vertebral.
+4.5.2.7      Pecho.
+4.5.2.8      Abdomen.
+4.5.2.9      Hombros, brazos o codos.
+4.5.2.10     Antebrazo o muñeca.
+4.5.2.11     Manos.
+4.5.2.12     Dedos de las manos.
+4.5.2.13     Cadera, muslo o rótula.
+4.5.2.14     Rodilla, pantorrilla o tobillo.
+4.5.2.15     Pies.
+4.5.2.16     Dedos de los pies.
+4.5.2.17     Aparato respiratorio.
+Otra parte del cuerpo (especifique):
+
+
+
+
+4.6 CALIFICACION DEL RIESGO
+
+SIN INCAPACIDAD           INCAPACIDAD              INCAPACIDAD          INCAPACIDAD            MUERTE 
+                         TEMPORAL                PERMANENTE           PERMANENTE
+                                                   PARCIAL             TOTAL           
+                                               _____________________________
+

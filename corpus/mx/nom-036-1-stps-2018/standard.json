@@ -21,6 +21,24 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "APÉNDICE I(1)",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "APÉNDICE II(2)",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "GUÍA DE REFERENCIA I\n                ESTIMACIÓN SIMPLE DEL NIVEL DE RIESGO Y EVALUACIÓN ESPECÍFICA DEL NIVEL DE RIESGO",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "GUÍA DE REFERENCIA I\n                                               CUESTIONARIO NÓRDICO DE KUORINKA",
+      "kind": "reference_guide"
+    }
+  ],
   "systematic_review": {
     "review_date": "2025-01-16",
     "result": "Confirmación",

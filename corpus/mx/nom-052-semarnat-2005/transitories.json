@@ -1,0 +1,32 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:transitory:primero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "ordinal": "PRIMERO",
+    "text": "PRIMERO.- La presente Norma Oficial Mexicana entrará en vigor a los noventa días naturales siguientes\nde su publicación en el Diario Oficial de la Federación.",
+    "start_char": 27397,
+    "end_char": 27555
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:transitory:segundo",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "ordinal": "SEGUNDO",
+    "text": "SEGUNDO.- A la entrada en vigor de esta Norma Oficial Mexicana se abroga la Norma Oficial Mexicana\nNOM-052-SEMARNAT-1993, Que establece las características de los residuos peligrosos, el listado de los\nmismos y los límites que hacen a un residuo peligroso por su toxicidad al ambiente, publicada en el Diario\nOficial de la Federación (D.O.F.) el 22 de octubre de 1993.",
+    "start_char": 27560,
+    "end_char": 27928,
+    "asserted_dates": [
+      "1993-10-22"
+    ]
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005:transitory:tercero",
+    "standard_id": "urn:lex-mx:federal:nom:nom-052-semarnat-2005",
+    "ordinal": "TERCERO",
+    "text": "TERCERO.- Las Constancias de No Peligrosidad que estén vigentes a la entrada en vigor de esta Norma\nOficial Mexicana tendrán validez hasta el plazo por el cual fueron emitidas.",
+    "start_char": 27933,
+    "end_char": 28109
+  }
+]

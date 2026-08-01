@@ -583,6 +583,17 @@ mechanical-only refresh (regenerate `nom-bundle-manifest.json`, rerun
 `build_demo_data.py`, update the hardcoded lock sha256, confirm 14 tests). Not
 done here: it is a cross-repository write.
 
+**Superseding mechanical handoff, 2026-07-31:** the post-transitory supplement
+boundary makes `supplements.json` a required canonical bundle file for every
+standard. The selected five-NOM bundle therefore moves from 25 to 30 files;
+NOM-002-STPS also has 10 represented supplements and its validation report
+changed, while NOM-051, NOM-187, NOM-247 and NOM-251 gain required empty files
+and updated reports. After this branch is integrated, regenerate
+`nom-bundle-manifest.json` from the integrated Lex-Mex commit, rerun
+`build_demo_data.py`, update Maximasa's hardcoded bundle-lock SHA-256 and
+`selected_files_checked` expectation to 30, and confirm all 14 Maximasa tests.
+This cross-repository write remains deliberately unperformed here.
+
 The five-NOM bundle returned to Maximasa was current as of Lex-Mex
 `a3a48296f` (mechanically refreshed 2026-07-27 to pick up the new
 `transitories.json` canonical file); Maximasa's 14-test suite passed with

@@ -3,8 +3,9 @@ use std::{collections::HashSet, sync::LazyLock};
 use anyhow::{Result, bail};
 use lex_core::{
     SCHEMA_VERSION, Severity, StandardClause, StandardClauseAmendment, StandardKind,
-    StandardMetadata, StandardModificationAction, StandardStatus, StandardTextBasis,
-    StandardTransitory, StandardValidationReport, ValidationIssue,
+    StandardMetadata, StandardModificationAction, StandardStatus, StandardSupplement,
+    StandardSupplementLegalCharacter, StandardTextBasis, StandardTransitory,
+    StandardValidationReport, ValidationIssue,
 };
 use regex::Regex;
 
@@ -44,13 +45,6 @@ static TRANSITORIOS_HEADING: LazyLock<Regex> = LazyLock::new(|| {
         r"(?mi)^{LINE_LEAD}(?:ART[ÍI]CULOS?[ \t]+)?TRANSITORIOS?\b.*\r?$"
     ))
     .expect("transitorios heading regex must compile")
-});
-
-static SECTION_END: LazyLock<Regex> = LazyLock::new(|| {
-    Regex::new(&format!(
-        r"(?mi)^{LINE_LEAD}(?:(?<signature>{SIGNATURE_MARKERS})|(?<annex>(?:AP[ÉE]NDICE|ANEXO)\b[^\r\n]*))"
-    ))
-    .expect("standard section end-marker regex must compile")
 });
 
 static CLAUSE_END: LazyLock<Regex> = LazyLock::new(|| {
@@ -196,11 +190,13 @@ pub fn parse_standard_transitories(
     metadata: &StandardMetadata,
 ) -> Result<Vec<StandardTransitory>> {
     let ordinals = transitory_ordinals();
-    let Some((_, heading_end)) = real_transitorios_heading(source_text) else {
+    let Some(layout) = standard_tail_layout(source_text, metadata)? else {
         return Ok(Vec::new());
     };
-    let (section_end, _) = section_end_marker(source_text, heading_end);
-    let (section, section_offset) = (&source_text[heading_end..section_end], heading_end);
+    let (section, section_offset) = (
+        &source_text[layout.heading_end..layout.transitory_end],
+        layout.heading_end,
+    );
 
     let starts = LINE_START
         .captures_iter(section)
@@ -240,6 +236,114 @@ pub fn parse_standard_transitories(
     Ok(transitories)
 }
 
+/// Parse configured top-level material following a genuine TRANSITORIOS
+/// section. Anchors are input; spans, headings, sequence and legal character
+/// are deterministic derived data.
+pub fn parse_standard_supplements(
+    source_text: &str,
+    metadata: &StandardMetadata,
+) -> Result<Vec<StandardSupplement>> {
+    let Some(layout) = standard_tail_layout(source_text, metadata)? else {
+        if metadata.supplement_starts.is_empty() {
+            return Ok(Vec::new());
+        }
+        bail!("supplement anchors require a genuine TRANSITORIOS section");
+    };
+    let mut supplements = Vec::with_capacity(layout.supplements.len());
+    for (index, span) in layout.supplements.iter().enumerate() {
+        let configured = &metadata.supplement_starts[index];
+        let (start, end) = trim_span(source_text, span.start, span.end);
+        let text = source_text[start..end].to_owned();
+        supplements.push(StandardSupplement {
+            schema_version: SCHEMA_VERSION.to_owned(),
+            id: format!("{}:supplement:{}", metadata.id, index + 1),
+            standard_id: metadata.id.clone(),
+            sequence: index + 1,
+            kind: configured.kind,
+            heading: collapse_whitespace(&configured.anchor),
+            legal_character: derive_supplement_legal_character(&text).0,
+            text,
+            start_char: source_text[..start].chars().count(),
+            end_char: source_text[..end].chars().count(),
+        });
+    }
+    Ok(supplements)
+}
+
+#[derive(Debug)]
+struct SupplementSpan {
+    start: usize,
+    end: usize,
+}
+
+#[derive(Debug)]
+struct StandardTailLayout {
+    heading_end: usize,
+    transitory_end: usize,
+    supplements: Vec<SupplementSpan>,
+}
+
+/// Resolve every standard-tail boundary once so clauses, transitories,
+/// supplements and validation cannot disagree about the same source layout.
+fn standard_tail_layout(
+    source_text: &str,
+    metadata: &StandardMetadata,
+) -> Result<Option<StandardTailLayout>> {
+    let Some((_, heading_end)) = real_transitorios_heading(source_text) else {
+        return Ok(None);
+    };
+    let mut starts = Vec::with_capacity(metadata.supplement_starts.len());
+    let mut previous = heading_end;
+    let mut configured_anchors = HashSet::new();
+    for configured in &metadata.supplement_starts {
+        if configured.anchor.is_empty() {
+            bail!("supplement anchor cannot be empty");
+        }
+        if !configured_anchors.insert(&configured.anchor) {
+            bail!(
+                "duplicate configured supplement anchor {:?}",
+                configured.anchor
+            );
+        }
+        let matches = source_text[heading_end..]
+            .match_indices(&configured.anchor)
+            .map(|(offset, _)| heading_end + offset)
+            .collect::<Vec<_>>();
+        if matches.len() != 1 {
+            bail!(
+                "supplement anchor {:?} must occur exactly once after TRANSITORIOS; found {}",
+                configured.anchor,
+                matches.len()
+            );
+        }
+        let start = matches[0];
+        if start < previous {
+            bail!("supplement anchors are not in declared source order");
+        }
+        starts.push(start);
+        previous = start + configured.anchor.len();
+    }
+
+    let first_anchor = starts.first().copied().unwrap_or(source_text.len());
+    let signature = closing_signature_start(source_text, heading_end, source_text.len());
+    let transitory_end = signature.map_or(first_anchor, |start| start.min(first_anchor));
+    let supplements = starts
+        .iter()
+        .enumerate()
+        .map(|(index, &start)| {
+            let natural_end = starts.get(index + 1).copied().unwrap_or(source_text.len());
+            let end =
+                closing_signature_start(source_text, start, natural_end).unwrap_or(natural_end);
+            SupplementSpan { start, end }
+        })
+        .collect();
+    Ok(Some(StandardTailLayout {
+        heading_end,
+        transitory_end,
+        supplements,
+    }))
+}
+
 /// Locate the standard's real TRANSITORIOS section, returning
 /// `(heading_start, heading_end)` byte offsets of the heading line itself.
 ///
@@ -255,54 +359,36 @@ pub fn parse_standard_transitories(
 /// two can never disagree about where a standard's body stops.
 fn real_transitorios_heading(source_text: &str) -> Option<(usize, usize)> {
     let ordinals = transitory_ordinals();
-    let mut found = TRANSITORIOS_HEADING
+    let found = TRANSITORIOS_HEADING
         .find_iter(source_text)
         .map(|found| (found.start(), found.end()))
         .collect::<Vec<_>>();
-    found.reverse();
-    found.into_iter().find(|&(_, heading_end)| {
-        let (section_end, _) = section_end_marker(source_text, heading_end);
-        LINE_START
-            .captures_iter(&source_text[heading_end..section_end])
-            .any(|captures| parse_transitory_start(&captures[1], &ordinals).is_some())
-    })
+    found
+        .iter()
+        .enumerate()
+        .rev()
+        .find_map(|(index, &(start, heading_end))| {
+            let section_end = found
+                .get(index + 1)
+                .map_or(source_text.len(), |next| next.0);
+            LINE_START
+                .captures_iter(&source_text[heading_end..section_end])
+                .any(|captures| parse_transitory_start(&captures[1], &ordinals).is_some())
+                .then_some((start, heading_end))
+        })
 }
 
 /// A closing dateline ("México, D.F., a ..." pre-2016; "Ciudad de México, a
 /// ..." after the Distrito Federal/CDMX renaming) or a `SUFRAGIO EFECTIVO`
 /// line, either of which opens a decree's signature block.
-const SIGNATURE_MARKERS: &str = r"SUFRAGIO[ \t]+EFECTIVO\b|(?:CIUDAD[ \t]+DE[ \t]+)?M[ÉE]XICO,[ \t]+(?:D\.?[ \t]*F\.?,[ \t]+)?A\b";
+const SIGNATURE_MARKERS: &str = r"SUFRAGIO[ \t]+EFECTIVO\b|DADO[ \t]+EN\b|SE[ \t]+EXPIDE[ \t]+EN\b|PROV[ÉE]ASE[ \t]+LA[ \t]+PUBLICACI[ÓO]N\b|(?:CIUDAD[ \t]+DE[ \t]+M[ÉE]XICO|M[ÉE]XICO(?:,[ \t]+D\.?[ \t]*F\.?)?),[ \t]+A\b";
 
-/// What structurally closed a transitorios section: the marker kind matters
-/// to `validate_trailing_material`, which must treat "the section ended at an
-/// APÉNDICE/ANEXO heading" (unmodeled, possibly normative material follows)
-/// differently from "the section ended at the signature block" (a closing
-/// formality of arbitrary length).
-#[derive(Debug, Clone, PartialEq, Eq)]
-enum SectionTail {
-    /// The first line of the annex heading that closed the section, collapsed
-    /// to single spaces, for naming in a validation message.
-    Annex(String),
-    Signature,
-    /// No marker follows -- the section runs to the end of the text (the
-    /// common case: transitorios are ordinarily a standard's last section).
-    End,
-}
-
-/// End of a section that opened at `TRANSITORIOS`-marker byte offset
-/// `section_start`, plus what closed it: the next `APÉNDICE`/`ANEXO`/signature
-/// marker, or the rest of the text if none follows.
-fn section_end_marker(source_text: &str, section_start: usize) -> (usize, SectionTail) {
-    match SECTION_END.captures(&source_text[section_start..]) {
-        Some(captures) => {
-            let whole = captures.get(0).expect("group 0 always exists");
-            let tail = captures.name("annex").map_or(SectionTail::Signature, |m| {
-                SectionTail::Annex(collapse_whitespace(m.as_str()))
-            });
-            (section_start + whole.start(), tail)
-        }
-        None => (source_text.len(), SectionTail::End),
-    }
+fn closing_signature_start(source_text: &str, start: usize, end: usize) -> Option<usize> {
+    let pattern = Regex::new(&format!(r"(?mi)^{LINE_LEAD}(?:{SIGNATURE_MARKERS})"))
+        .expect("signature-marker regex must compile");
+    pattern
+        .find(&source_text[start..end])
+        .map(|found| start + found.start())
 }
 
 fn standard_clause_end(source_text: &str, clause_start: usize, natural_end: usize) -> usize {
@@ -605,6 +691,7 @@ pub fn validate_standard(
     metadata: &StandardMetadata,
     clauses: &[StandardClause],
     transitories: &[StandardTransitory],
+    supplements: &[StandardSupplement],
     source_text: &str,
 ) -> StandardValidationReport {
     let mut issues = Vec::new();
@@ -616,12 +703,20 @@ pub fn validate_standard(
     validate_standard_sources(metadata, &targets, &mut issues);
     validate_clauses(metadata, clauses, source_text, &mut issues);
     validate_transitories(metadata, transitories, source_text, &mut issues);
-    validate_trailing_material(source_text, &mut issues);
+    validate_supplements(
+        metadata,
+        transitories,
+        supplements,
+        source_text,
+        &mut issues,
+    );
+    validate_trailing_material(metadata, source_text, &mut issues);
     StandardValidationReport {
         schema_version: SCHEMA_VERSION.to_owned(),
         standard_id: metadata.id.clone(),
         valid: !issues.iter().any(|issue| issue.severity == Severity::Error),
         clause_count: clauses.len(),
+        supplement_count: supplements.len(),
         issues,
     }
 }
@@ -975,6 +1070,156 @@ fn validate_transitories(
     }
 }
 
+fn validate_supplements(
+    metadata: &StandardMetadata,
+    transitories: &[StandardTransitory],
+    supplements: &[StandardSupplement],
+    source_text: &str,
+    issues: &mut Vec<ValidationIssue>,
+) {
+    let source_chars = source_text.chars().collect::<Vec<_>>();
+    let mut ids = HashSet::new();
+    let mut previous_end = transitories.last().map_or(0, |item| item.end_char);
+    if supplements.len() != metadata.supplement_starts.len() {
+        issues.push(error(
+            "standard_supplement_count",
+            format!(
+                "metadata configures {} supplement starts but {} supplements were provided",
+                metadata.supplement_starts.len(),
+                supplements.len()
+            ),
+            None,
+        ));
+    }
+    for (index, supplement) in supplements.iter().enumerate() {
+        let expected_sequence = index + 1;
+        if supplement.standard_id != metadata.id {
+            issues.push(error(
+                "standard_supplement_instrument",
+                "supplement points to a different standard".to_owned(),
+                Some(supplement.id.clone()),
+            ));
+        }
+        if !ids.insert(&supplement.id) || supplement.sequence != expected_sequence {
+            issues.push(error(
+                "standard_supplement_identity",
+                "supplement identifiers and one-based sequence must be unique and source-ordered"
+                    .to_owned(),
+                Some(supplement.id.clone()),
+            ));
+        }
+        if metadata
+            .supplement_starts
+            .get(index)
+            .is_some_and(|configured| configured.kind != supplement.kind)
+        {
+            issues.push(error(
+                "standard_supplement_kind",
+                "supplement kind differs from its configured anchor".to_owned(),
+                Some(supplement.id.clone()),
+            ));
+        }
+        if supplement.start_char < previous_end
+            || supplement.start_char >= supplement.end_char
+            || supplement.end_char > source_chars.len()
+        {
+            issues.push(error(
+                "standard_supplement_span",
+                "supplement spans must be non-overlapping, source-ordered, and inside the extracted text"
+                    .to_owned(),
+                Some(supplement.id.clone()),
+            ));
+            continue;
+        }
+        let anchored = source_chars[supplement.start_char..supplement.end_char]
+            .iter()
+            .collect::<String>();
+        if anchored != supplement.text {
+            issues.push(error(
+                "standard_supplement_span",
+                "supplement text does not match its exact extracted-text span".to_owned(),
+                Some(supplement.id.clone()),
+            ));
+        }
+        if metadata
+            .supplement_starts
+            .get(index)
+            .is_some_and(|configured| {
+                !supplement.text.starts_with(&configured.anchor)
+                    || supplement.heading != collapse_whitespace(&configured.anchor)
+            })
+        {
+            issues.push(error(
+                "standard_supplement_anchor",
+                "supplement does not begin at its exact configured anchor".to_owned(),
+                Some(supplement.id.clone()),
+            ));
+        }
+        validate_supplement_character(supplement, issues);
+        previous_end = supplement.end_char;
+    }
+}
+
+fn validate_supplement_character(
+    supplement: &StandardSupplement,
+    issues: &mut Vec<ValidationIssue>,
+) {
+    let (derived, conflict) = derive_supplement_legal_character(&supplement.text);
+    if conflict {
+        issues.push(error(
+            "standard_supplement_character_conflict",
+            "supplement contains conflicting explicit normative and non-normative signals"
+                .to_owned(),
+            Some(supplement.id.clone()),
+        ));
+    } else if supplement.legal_character != derived {
+        issues.push(error(
+            "standard_supplement_character",
+            "supplement legal character is not the deterministic explicit-source derivation"
+                .to_owned(),
+            Some(supplement.id.clone()),
+        ));
+    } else if derived == StandardSupplementLegalCharacter::Unspecified {
+        issues.push(warning(
+            "standard_supplement_character_unspecified",
+            format!(
+                "supplement {} states no explicit normative or non-normative character",
+                supplement.sequence
+            ),
+        ));
+    }
+}
+
+fn derive_supplement_legal_character(text: &str) -> (StandardSupplementLegalCharacter, bool) {
+    static NON_NORMATIVE_HEADING: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"(?i)\bNO[ \t\r\n]+NORMATIV[OA]S?\b")
+            .expect("non-normative heading regex must compile")
+    });
+    static NON_BINDING_STATEMENT: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"(?i)\bNO[ \t\r\n]+ES[ \t\r\n]+DE[ \t\r\n]+CUMPLIMIENTO[ \t\r\n]+OBLIGATORIO\b")
+            .expect("non-binding statement regex must compile")
+    });
+    static NORMATIVE: LazyLock<Regex> = LazyLock::new(|| {
+        Regex::new(r"(?i)\bNORMATIV[OA]S?\b").expect("normative signal regex must compile")
+    });
+    // "Normativo" classifies only a heading. Scanning the entire opaque
+    // supplement would misread ordinary prose about a normativa as a legal-
+    // character declaration. The explicit non-binding sentence is allowed
+    // anywhere because the source often places it below a multi-line title.
+    let heading_prefix = text.chars().take(512).collect::<String>();
+    let non_normative =
+        NON_NORMATIVE_HEADING.is_match(&heading_prefix) || NON_BINDING_STATEMENT.is_match(text);
+    let scrubbed = NON_NORMATIVE_HEADING.replace_all(&heading_prefix, "");
+    let normative = NORMATIVE.is_match(&scrubbed);
+    let conflict = normative && non_normative;
+    let character = match (normative, non_normative) {
+        (true, false) => StandardSupplementLegalCharacter::ExplicitlyNormative,
+        (false, true) => StandardSupplementLegalCharacter::ExplicitlyNonNormative,
+        _ => StandardSupplementLegalCharacter::Unspecified,
+    };
+    (character, conflict)
+}
+
 fn clause_order(number: &str) -> Option<Vec<u32>> {
     number.split('.').map(|part| part.parse().ok()).collect()
 }
@@ -1030,7 +1275,11 @@ fn error(code: &str, message: String, provision_id: Option<String>) -> Validatio
 /// last "Rúbrica"), because a long multi-signatory block is a closing
 /// formality, not omitted content, and a false warning here trains reviewers
 /// to dismiss the code.
-fn validate_trailing_material(source_text: &str, issues: &mut Vec<ValidationIssue>) {
+fn validate_trailing_material(
+    metadata: &StandardMetadata,
+    source_text: &str,
+    issues: &mut Vec<ValidationIssue>,
+) {
     const TRAILING_MATERIAL_BYTES: usize = 2_000;
     static TRAILING_HEADING: LazyLock<Regex> = LazyLock::new(|| {
         Regex::new(&format!(
@@ -1041,17 +1290,17 @@ fn validate_trailing_material(source_text: &str, issues: &mut Vec<ValidationIssu
     static RUBRICA: LazyLock<Regex> =
         LazyLock::new(|| Regex::new(r"(?i)r[úu]brica").expect("rúbrica regex must compile"));
 
-    let Some((heading_start, _)) = real_transitorios_heading(source_text) else {
+    if !metadata.supplement_starts.is_empty() {
+        return;
+    }
+    let Some((_, heading_end)) = real_transitorios_heading(source_text) else {
         return;
     };
-    let (section_end, tail) = section_end_marker(source_text, heading_start);
-    let named_heading = match &tail {
-        SectionTail::Annex(heading) => Some(heading.clone()),
-        SectionTail::Signature => TRAILING_HEADING
-            .captures(&source_text[section_end..])
-            .map(|captures| collapse_whitespace(&captures[1])),
-        SectionTail::End => None,
-    };
+    let section_end = closing_signature_start(source_text, heading_end, source_text.len())
+        .unwrap_or(source_text.len());
+    let named_heading = TRAILING_HEADING
+        .captures(&source_text[heading_end..])
+        .map(|captures| collapse_whitespace(&captures[1]));
     if let Some(heading) = named_heading {
         issues.push(warning(
             "standard_trailing_material",
@@ -1096,13 +1345,14 @@ fn warning(code: &str, message: String) -> ValidationIssue {
 #[cfg(test)]
 mod tests {
     use super::{
-        parse_standard_clauses, parse_standard_modification_targets, parse_standard_transitories,
-        title_targets, validate_metadata, validate_standard,
+        parse_standard_clauses, parse_standard_modification_targets, parse_standard_supplements,
+        parse_standard_transitories, title_targets, validate_metadata, validate_standard,
     };
     use chrono::{NaiveDate, Utc};
     use lex_core::{
         ReviewStatus, SCHEMA_VERSION, Severity, StandardClauseAmendment, StandardKind,
         StandardMetadata, StandardModificationAction, StandardModificationSource, StandardStatus,
+        StandardSupplementKind, StandardSupplementLegalCharacter, StandardSupplementStart,
         StandardTextBasis, TechnicalReviewStatus,
     };
 
@@ -1199,7 +1449,13 @@ mod tests {
         // clauses -- 744 phantom clauses from an exposure-limit table in
         // NOM-010-STPS-2014, and a lone numeric table row (`12.5  0.024
         // 0.025`) in NOM-024-STPS-2001.
-        let metadata = metadata();
+        let mut metadata = metadata();
+        metadata
+            .supplement_starts
+            .push(lex_core::StandardSupplementStart {
+                anchor: "APENDICE A".to_owned(),
+                kind: lex_core::StandardSupplementKind::Appendix,
+            });
         let clauses = parse_standard_clauses(POST_TRANSITORIOS_ANNEX_SAMPLE, &metadata).unwrap();
         assert_eq!(
             clauses
@@ -1225,7 +1481,7 @@ mod tests {
         );
         let clauses = parse_standard_clauses(&long_annex, &metadata).unwrap();
         let transitories = parse_standard_transitories(&long_annex, &metadata).unwrap();
-        let report = validate_standard(&metadata, &clauses, &transitories, &long_annex);
+        let report = validate_standard(&metadata, &clauses, &transitories, &[], &long_annex);
         assert!(
             report
                 .issues
@@ -1251,6 +1507,7 @@ mod tests {
             &metadata,
             &clauses,
             &transitories,
+            &[],
             POST_TRANSITORIOS_ANNEX_SAMPLE,
         );
         let trailing = report
@@ -1302,7 +1559,13 @@ mod tests {
         // decoy dates into asserted_dates and suppressing the
         // trailing-material warning exactly when the annex began a new page.
         // One shared LINE_LEAD fragment now feeds every line-anchored pattern.
-        let metadata = metadata();
+        let mut metadata = metadata();
+        metadata
+            .supplement_starts
+            .push(lex_core::StandardSupplementStart {
+                anchor: "APENDICE A".to_owned(),
+                kind: lex_core::StandardSupplementKind::Appendix,
+            });
         let clauses = parse_standard_clauses(FORM_FEED_SECTION_SAMPLE, &metadata).unwrap();
         let last = clauses.last().expect("sample has clauses");
         assert!(
@@ -1323,14 +1586,123 @@ mod tests {
             [NaiveDate::from_ymd_opt(2027, 3, 15).unwrap()],
             "the annex's decoy date must not be harvested as an asserted_date"
         );
-        let report =
-            validate_standard(&metadata, &clauses, &transitories, FORM_FEED_SECTION_SAMPLE);
+        let supplements = parse_standard_supplements(FORM_FEED_SECTION_SAMPLE, &metadata).unwrap();
+        assert_eq!(supplements.len(), 1);
+        assert!(supplements[0].text.starts_with("APENDICE A"));
+        let report = validate_standard(
+            &metadata,
+            &clauses,
+            &transitories,
+            &supplements,
+            FORM_FEED_SECTION_SAMPLE,
+        );
         assert!(
-            report.issues.iter().any(|issue| {
-                issue.code == "standard_trailing_material" && issue.message.contains("APENDICE A")
-            }),
-            "the form-fed annex must still be reported by name: {:?}",
+            !report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "standard_trailing_material"),
+            "the represented form-fed annex must not remain unmodeled: {:?}",
             report.issues
+        );
+    }
+
+    #[test]
+    fn configured_supplements_partition_the_tail_and_keep_nested_tables_opaque() {
+        let text = "1. Objetivo\nTexto.\n\nTRANSITORIOS\nPRIMERO. Vigencia.\n\n\
+                    Dado en Ciudad de México, a 1 de julio de 2026.\nRúbrica\n\n\
+                    APÉNDICE NORMATIVO\nTabla 1\n1. fila interna\n\n\
+                    GUÍA DE REFERENCIA I\nEsta guía no es de cumplimiento obligatorio.\nTabla 2\n";
+        let mut metadata = metadata();
+        metadata.supplement_starts = vec![
+            StandardSupplementStart {
+                anchor: "APÉNDICE NORMATIVO".to_owned(),
+                kind: StandardSupplementKind::Appendix,
+            },
+            StandardSupplementStart {
+                anchor: "GUÍA DE REFERENCIA I".to_owned(),
+                kind: StandardSupplementKind::ReferenceGuide,
+            },
+        ];
+        let transitories = parse_standard_transitories(text, &metadata).unwrap();
+        assert_eq!(transitories.len(), 1);
+        assert_eq!(transitories[0].text, "PRIMERO. Vigencia.");
+        let supplements = parse_standard_supplements(text, &metadata).unwrap();
+        assert_eq!(
+            supplements.len(),
+            2,
+            "nested tables stay inside their parent"
+        );
+        assert!(supplements[0].text.contains("Tabla 1"));
+        assert_eq!(
+            supplements[0].legal_character,
+            StandardSupplementLegalCharacter::ExplicitlyNormative
+        );
+        assert_eq!(
+            supplements[1].legal_character,
+            StandardSupplementLegalCharacter::ExplicitlyNonNormative
+        );
+    }
+
+    #[test]
+    fn multiline_anchors_disambiguate_duplicate_headings_and_order_is_enforced() {
+        let text = "1. Objetivo\nTexto.\nTRANSITORIOS\nÚNICO. Vigencia.\n\n\
+                    GUÍA DE REFERENCIA I\nPrimera guía\nContenido.\n\n\
+                    GUÍA DE REFERENCIA I\nSegunda guía\nContenido.\n";
+        let mut metadata = metadata();
+        metadata.supplement_starts = vec![
+            StandardSupplementStart {
+                anchor: "GUÍA DE REFERENCIA I\nPrimera guía".to_owned(),
+                kind: StandardSupplementKind::ReferenceGuide,
+            },
+            StandardSupplementStart {
+                anchor: "GUÍA DE REFERENCIA I\nSegunda guía".to_owned(),
+                kind: StandardSupplementKind::ReferenceGuide,
+            },
+        ];
+        assert_eq!(
+            parse_standard_supplements(text, &metadata).unwrap().len(),
+            2
+        );
+
+        metadata.supplement_starts.swap(0, 1);
+        assert!(
+            parse_standard_supplements(text, &metadata)
+                .unwrap_err()
+                .to_string()
+                .contains("source order")
+        );
+        metadata.supplement_starts = vec![StandardSupplementStart {
+            anchor: "GUÍA DE REFERENCIA I".to_owned(),
+            kind: StandardSupplementKind::ReferenceGuide,
+        }];
+        assert!(
+            parse_standard_supplements(text, &metadata)
+                .unwrap_err()
+                .to_string()
+                .contains("exactly once")
+        );
+    }
+
+    #[test]
+    fn inline_table_references_are_not_tail_boundaries_and_conflicts_fail_validation() {
+        let text = "1. Objetivo\nTexto.\nTRANSITORIOS\nPRIMERO. Véase la Tabla 1 para la vigencia.\n\n\
+                    APÉNDICE NORMATIVO NO NORMATIVO\nContenido.\n";
+        let mut metadata = metadata();
+        metadata.supplement_starts = vec![StandardSupplementStart {
+            anchor: "APÉNDICE NORMATIVO NO NORMATIVO".to_owned(),
+            kind: StandardSupplementKind::Appendix,
+        }];
+        let transitories = parse_standard_transitories(text, &metadata).unwrap();
+        assert!(transitories[0].text.contains("Tabla 1"));
+        let supplements = parse_standard_supplements(text, &metadata).unwrap();
+        let clauses = parse_standard_clauses(text, &metadata).unwrap();
+        let report = validate_standard(&metadata, &clauses, &transitories, &supplements, text);
+        assert!(!report.valid);
+        assert!(
+            report
+                .issues
+                .iter()
+                .any(|issue| issue.code == "standard_supplement_character_conflict")
         );
     }
 
@@ -1451,6 +1823,7 @@ mod tests {
             &metadata,
             &clauses,
             &transitories,
+            &[],
             TRANSITORIOS_WITH_DATES_SAMPLE,
         );
         assert!(report.valid, "{:#?}", report.issues);
@@ -1490,6 +1863,7 @@ mod tests {
             &metadata,
             &clauses,
             &transitories,
+            &[],
             BIBLIOGRAPHY_CONTINUATION_SAMPLE,
         );
         assert!(report.valid, "{:#?}", report.issues);
@@ -1509,7 +1883,7 @@ mod tests {
         assert_eq!(clauses[6].label, "5.1 El establecimiento debe medir.");
         let transitories = parse_standard_transitories(SAMPLE, &metadata).unwrap();
         assert!(transitories.is_empty());
-        let report = validate_standard(&metadata, &clauses, &transitories, SAMPLE);
+        let report = validate_standard(&metadata, &clauses, &transitories, &[], SAMPLE);
         assert!(report.valid, "{:#?}", report.issues);
     }
 
@@ -1536,6 +1910,7 @@ mod tests {
             &metadata,
             &clauses,
             &transitories,
+            &[],
             INDEX_AND_APPENDIX_SAMPLE,
         );
         assert!(report.valid, "{:#?}", report.issues);
@@ -1547,7 +1922,7 @@ mod tests {
         metadata.modifications.push(modification(None));
         let clauses = parse_standard_clauses(SAMPLE, &metadata).unwrap();
         let transitories = parse_standard_transitories(SAMPLE, &metadata).unwrap();
-        let report = validate_standard(&metadata, &clauses, &transitories, SAMPLE);
+        let report = validate_standard(&metadata, &clauses, &transitories, &[], SAMPLE);
         assert!(report.valid, "{:#?}", report.issues);
         assert!(report.issues.iter().any(|issue| {
             issue.code == "standard_unconsolidated_modification"
@@ -1701,7 +2076,7 @@ mod tests {
             .push(modification(Some(NOM_020_2015_TITLE)));
         let clauses = parse_standard_clauses(SAMPLE, &metadata).unwrap();
         let transitories = parse_standard_transitories(SAMPLE, &metadata).unwrap();
-        let report = validate_standard(&metadata, &clauses, &transitories, SAMPLE);
+        let report = validate_standard(&metadata, &clauses, &transitories, &[], SAMPLE);
         assert!(report.valid, "{:#?}", report.issues);
         assert!(
             report
@@ -1740,7 +2115,7 @@ mod tests {
         );
 
         let transitories = parse_standard_transitories(SAMPLE, &metadata).unwrap();
-        let report = validate_standard(&metadata, &clauses, &transitories, SAMPLE);
+        let report = validate_standard(&metadata, &clauses, &transitories, &[], SAMPLE);
         assert!(report.valid, "an adición of a new numeral is not an error");
         assert!(
             report
@@ -1824,6 +2199,7 @@ mod tests {
             conformity_assessment: None,
             text_basis: StandardTextBasis::AsPublished,
             modifications: Vec::new(),
+            supplement_starts: Vec::new(),
             systematic_review: None,
             source_url: "https://example.test/source.pdf".parse().unwrap(),
             official_dof_url: "https://example.test/dof".parse().unwrap(),

@@ -32,7 +32,7 @@ pub use html::extract_html_text;
 pub use itf::{ItfDocument, parse_itf_dcg};
 pub use standard::{
     StandardModificationTarget, parse_standard_clauses, parse_standard_modification_targets,
-    parse_standard_transitories, validate_standard,
+    parse_standard_supplements, parse_standard_transitories, validate_standard,
 };
 pub use terms::{
     GlossaryStyle, detect_glossary_terms, extract_term_usages, extract_terms,

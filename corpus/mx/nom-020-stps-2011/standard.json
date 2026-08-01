@@ -31,6 +31,20 @@
       "title": "ACUERDO de Modificación a la Norma Oficial Mexicana NOM-020-STPS-2011, Recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas-Funcionamiento-Condiciones de seguridad."
     }
   ],
+  "supplement_starts": [
+    {
+      "anchor": "Guía de Referencia I\n                      Equivalencias de valores de presión, volumen y capacidad térmica",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia II\n        Clasificación de los Recipientes Sujetos a Presión, Recipientes Criogénicos y Generadores de",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia III",
+      "kind": "reference_guide"
+    }
+  ],
   "systematic_review": {
     "review_date": "2022-08-15",
     "result": "Confirmación",

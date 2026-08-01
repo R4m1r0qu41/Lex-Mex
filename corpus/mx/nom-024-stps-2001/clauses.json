@@ -1,0 +1,872 @@
+[
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "1",
+    "label": "1. Objetivo",
+    "text": "1. Objetivo\n    Establecer los límites máximos permisibles de exposición y las condiciones mínimas de seguridad e\nhigiene en los centros de trabajo donde se generen vibraciones que, por sus características y tiempo de\nexposición, sean capaces de alterar la salud de los trabajadores.",
+    "start_char": 4610,
+    "end_char": 4893
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "2",
+    "label": "2. Campo de aplicación",
+    "text": "2. Campo de aplicación\n    La presente Norma rige en todo el territorio nacional y aplica en todos aquellos centros de trabajo en\ndonde por las características de operación de la maquinaria y equipo, se generen vibraciones que afecten a\nlos trabajadores en cuerpo entero o en extremidades superiores.",
+    "start_char": 4897,
+    "end_char": 5197
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "3",
+    "label": "3. Referencias",
+    "text": "3. Referencias\n   Para la correcta interpretación de esta Norma debe consultarse la siguiente Norma Oficial Mexicana\nvigente o la que la sustituya:\n   NOM-026-STPS-1998, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos\nconducidos en tuberías .",
+    "start_char": 5201,
+    "end_char": 5477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4",
+    "label": "4. Definiciones",
+    "text": "4. Definiciones\n   Para efectos de la presente Norma se establecen las siguientes definiciones:",
+    "start_char": 5481,
+    "end_char": 5576
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.1",
+    "label": "4.1 Autoridad del trabajo; autoridad laboral: unidades administrativas competentes de la Secretaría del",
+    "text": "4.1 Autoridad del trabajo; autoridad laboral: unidades administrativas competentes de la Secretaría del\nTrabajo y Previsión Social, que realicen funciones de inspección en materia de seguridad e higiene en el\ntrabajo, y las correspondientes a las entidades federativas y del Distrito Federal, que actúen en auxilio de\naquéllas.",
+    "start_char": 5581,
+    "end_char": 5908
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.2",
+    "label": "4.2 Banda de tercio de octava: intervalo entre dos tonos cuya relación es de un tercio de la octava.",
+    "text": "4.2 Banda de tercio de octava: intervalo entre dos tonos cuya relación es de un tercio de la octava.",
+    "start_char": 5912,
+    "end_char": 6012
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.3",
+    "label": "4.3 Ciclo de exposición: intervalo de tiempo de alguna actividad específica del proceso de trabajo donde",
+    "text": "4.3 Ciclo de exposición: intervalo de tiempo de alguna actividad específica del proceso de trabajo donde\nestá presente el personal ocupacionalmente expuesto.",
+    "start_char": 6016,
+    "end_char": 6173
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.4",
+    "label": "4.4 Cadena de medición: interconexión entre el transductor y, en su caso, accesorios de fijación, cable,",
+    "text": "4.4 Cadena de medición: interconexión entre el transductor y, en su caso, accesorios de fijación, cable,\npreamplificador y analizador que se usan para la medición de vibraciones.",
+    "start_char": 6177,
+    "end_char": 6355
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.5",
+    "label": "4.5 Cuerpo entero: todo el cuerpo del trabajador.",
+    "text": "4.5 Cuerpo entero: todo el cuerpo del trabajador.",
+    "start_char": 6359,
+    "end_char": 6408
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.6",
+    "label": "4.6 Extremidades superiores: dedos, manos, muñecas y antebrazos del trabajador.",
+    "text": "4.6 Extremidades superiores: dedos, manos, muñecas y antebrazos del trabajador.",
+    "start_char": 6412,
+    "end_char": 6491
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.7",
+    "label": "4.7 Nivel de Exposición a Vibraciones (NEV): aceleración promedio de las vibraciones, referida al",
+    "text": "4.7 Nivel de Exposición a Vibraciones (NEV): aceleración promedio de las vibraciones, referida al\ntiempo de exposición del trabajador.",
+    "start_char": 6496,
+    "end_char": 6630
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.8",
+    "label": "4.8 Personal Ocupacionalmente Expuesto (POE): trabajadores que en el desempeño de sus actividades",
+    "text": "4.8 Personal Ocupacionalmente Expuesto (POE): trabajadores que en el desempeño de sus actividades\nlaborales están expuestos a vibraciones.",
+    "start_char": 6634,
+    "end_char": 6772
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.9",
+    "label": "4.9 Sistema basicéntrico de coordenadas: tres direcciones mutuamente ortogonales que tienen su",
+    "text": "4.9 Sistema basicéntrico de coordenadas: tres direcciones mutuamente ortogonales que tienen su\norigen en el área de contacto entre la mano y la superficie que vibra.",
+    "start_char": 6777,
+    "end_char": 6942
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.10",
+    "label": "4.10 Sistema biodinámico de coordenadas: tres direcciones mutuamente ortogonales en un punto",
+    "text": "4.10 Sistema biodinámico de coordenadas: tres direcciones mutuamente ortogonales en un punto\npróximo al lugar en que la vibración penetra en la mano, este lugar generalmente es el nudillo del\ndedo medio.",
+    "start_char": 6946,
+    "end_char": 7149
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.11",
+    "label": "4.11 Vibraciones: movimientos periódicos u oscilatorios de un cuerpo rígido o elástico desde una posición",
+    "text": "4.11 Vibraciones: movimientos periódicos u oscilatorios de un cuerpo rígido o elástico desde una posición\nde equilibrio.",
+    "start_char": 7153,
+    "end_char": 7273
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.12",
+    "label": "4.12 Vibraciones en cuerpo entero: fenómeno físico que se manifiesta por la transmisión de energía",
+    "text": "4.12 Vibraciones en cuerpo entero: fenómeno físico que se manifiesta por la transmisión de energía\nmecánica por vía sólida, en el intervalo de frecuencias desde 1 hasta 80 Hz, al cuerpo entero del POE.",
+    "start_char": 7276,
+    "end_char": 7477
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:4-13",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "4.13",
+    "label": "4.13 Vibraciones en extremidades superiores: fenómeno físico que se manifiesta por la transmisión de",
+    "text": "4.13 Vibraciones en extremidades superiores: fenómeno físico que se manifiesta por la transmisión de\nenergía mecánica por vía sólida, en el intervalo de frecuencias desde 8 hasta 1600 Hz, a las extremidades\nsuperiores del POE.",
+    "start_char": 7482,
+    "end_char": 7708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "5",
+    "label": "5. Obligaciones del patrón",
+    "text": "5. Obligaciones del patrón",
+    "start_char": 7712,
+    "end_char": 7738
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "5.1",
+    "label": "5.1 Mostrar a la autoridad del trabajo, cuando así lo solicite, los documentos que la presente Norma le",
+    "text": "5.1 Mostrar a la autoridad del trabajo, cuando así lo solicite, los documentos que la presente Norma le\nobligue a elaborar o poseer.",
+    "start_char": 7743,
+    "end_char": 7875
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "5.2",
+    "label": "5.2 Informar a todos los trabajadores sobre las posibles alteraciones a la salud por la exposición",
+    "text": "5.2 Informar a todos los trabajadores sobre las posibles alteraciones a la salud por la exposición\na vibraciones.",
+    "start_char": 7880,
+    "end_char": 7993
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:5-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "5.3",
+    "label": "5.3 Vigilar que no se rebasen los límites máximos permisibles de exposición establecidos en el Capítulo 7.",
+    "text": "5.3 Vigilar que no se rebasen los límites máximos permisibles de exposición establecidos en el Capítulo 7.",
+    "start_char": 7997,
+    "end_char": 8103
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:5-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "5.4",
+    "label": "5.4 Elaborar y mantener vigente el Programa para la Prevención de Alteraciones a la Salud del POE",
+    "text": "5.4 Elaborar y mantener vigente el Programa para la Prevención de Alteraciones a la Salud del POE\nestablecido en el Capítulo 8.",
+    "start_char": 8107,
+    "end_char": 8234
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:5-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "5.5",
+    "label": "5.5 Capacitar y adiestrar al POE anualmente en el Programa para la Prevención de Alteraciones a la Salud",
+    "text": "5.5 Capacitar y adiestrar al POE anualmente en el Programa para la Prevención de Alteraciones a la Salud\ndel POE, establecido en el Capítulo 8.",
+    "start_char": 8239,
+    "end_char": 8382
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:5-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "5.6",
+    "label": "5.6 Realizar la vigilancia a la salud del POE según lo establecido en el Apartado 8.5.",
+    "text": "5.6 Realizar la vigilancia a la salud del POE según lo establecido en el Apartado 8.5.",
+    "start_char": 8386,
+    "end_char": 8472
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:5-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "5.7",
+    "label": "5.7 No exponer a vibraciones a mujeres en estado de gestación.",
+    "text": "5.7 No exponer a vibraciones a mujeres en estado de gestación.",
+    "start_char": 8476,
+    "end_char": 8538
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "6",
+    "label": "6. Obligaciones del POE",
+    "text": "6. Obligaciones del POE\n   Colaborar y cumplir con el Programa para la Prevención de Alteraciones a la Salud del POE, establecido\nen el Capítulo 8.",
+    "start_char": 8542,
+    "end_char": 8689
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "7",
+    "label": "7. Límites máximos permisibles de exposición a vibraciones",
+    "text": "7. Límites máximos permisibles de exposición a vibraciones",
+    "start_char": 8693,
+    "end_char": 8751
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "7.1",
+    "label": "7.1 En cuerpo entero.",
+    "text": "7.1 En cuerpo entero.\n    Cuando se conoce la frecuencia de un mecanismo que genera vibración y se relaciona con la aceleración\nen m/s 2 ya sea en el eje de aceleración longitudinal a z, o en los ejes de aceleración transversal a x y ay , se\nobtiene el tiempo de exposición que puede variar de un minuto a veinticuatro horas. Los límites de exposición\na vibraciones en el eje longitudinal a z y en los ejes transversales a x y ay , se establecen en las Tablas 1 y 2,\nrespectivamente.\n    En la Gráfica 1 se muestran las curvas del tiempo de exposición a vibraciones por día en un intervalo de 1\na 80 Hz de frecuencia en el eje longitudinal a z; en la Gráfica 2 se muestra el tiempo de exposición por día para\nlos ejes de aceleración transversal a x y ay , en un intervalo de frecuencia de 1 a 80 Hz. El tiempo de exposición\nse obtiene relacionando la frecuencia con la aceleración.\n                                                      TABLA 1\n                LIMITES DE ACELERACION LONGITUDINAL (az ) COMO FUNCION DE LA FRECUENCIA Y DEL\n                                              TIEMPO DE EXPOSICION\n\n    FRECUENCIA                                          TIEMPO DE EXPOSICION\n    CENTRAL DE\n     TERCIO DE           24 h      16 h       8h        4h       2.5 h      1h      25 min     16 min    1 min\n    OCTAVA (Hz)                           LIMITE DE ACELERACION LONGITUDINAL EN (az ), m/s 2\n        1.00             0.280    0.383       0.63      1.06     1.40       2.36      3.55      4.25      5.60\n        1.25             0.250    0.338       0.56      0.95     1.26       2.12      3.15      3.75      5.00\n        1.60             0.224    0.302       0.50      0.85     1.12       1.90      2.80      3.35      4.50\n        2.00             0.200    0.270       0.45      0.75     1.00       1.70      2.50      3.00      4.00\n        2.50             0.180    0.239       0.40      0.67     0.90       1.50      2.24      2.65      3.55\n        3.15             0.160    0.212       0.355     0.60     0.80       1.32      2.00      2.35      3.15\n        4.00             0.140    0.192       0.315     0.53     0.71       1.18      1.80      2.12      2.80\n        5.00             0.140    0.192       0.315     0.53     0.71       1.18      1.80      2.12      2.80\n        6.30             0.140    0.192       0.315     0.53     0.71       1.18      1.80      2.12      2.80\n        8.00             0.140    0.192       0.315     0.53     0.71       1.18      1.80      2.12      2.80\n        10.00            0.180    0.239       0.40      0.67     0.90       1.50      2.24      2.65      3.55\n        12.50            0.224    0.302       0.50      0.85     1.12       1.90      2.80      3.35      4.50\n        16.00            0.280    0.383       0.63      1.06     1.40       2.36      3.55      4.25      5.60\n        20.00            0.355    0.477       0.80      1.32     1.80       3.00      4.50      5.30      7.10\n\f     25.00            0.450    0.605     1.00      1.70     2.24    3.75     5.60      6.70   9.00\n     31.50            0.560    0.765     1.25      2.12     2.80    4.75     7.10      8.50   11.2\n     40.00            0.710    0.955     1.60      2.65     3.55    6.00     9.00      10.6   14.00\n     50.00            0.900    1.19      2.0       3.35     4.50    7.50     11.2      13.2   18.0\n     63.00            1.120    1.53      2.5       4.25     5.60    9.50     14.0      17.0   22.4\n     80.00            1.400    1.91      3.15      5.30     7.10    11.8     18.0      21.2   28.0\n                                                TABLA 2\n        LIMITES DE ACELERACION TRANSVERSAL (ax , ay ) COMO FUNCION DE LA FRECUENCIA Y DEL\n                                         TIEMPO DE EXPOSICION\n\n  FRECUENCIA                                       TIEMPO DE EXPOSICION\n  CENTRAL DE\nBANDA DE TERCIO       24 h     16 h      8h        4h       2.5 h    1h     25 min   16 min   1 min\n  DE OCTAVA\n     (Hz)                         LIMITE DE ACELERACION TRANSVERSAL EN (ax, ay), (m/s 2)\n     1.00             0.100    0.135    0.224     0.355     0.50    0.85     1.25      1.50    2.0\n     1.25             0.100    0.135    0.224     0.355     0.50    0.85     1.25      1.50    2.0\n     1.60             0.100    0.135    0.224     0.355     0.50    0.85     1.25      1.50    2.0\n     2.00             0.100    0.135    0.224     0.355     0.50    0.85     1.25      1.50    2.0\n     2.50             0.125    0.171    0.280     0.450     0.63    1.06      1.6      1.9     2.5\n     3.15             0.160    0.212    0.355     0.560     0.8     1.32      2.0      2.36   3.15\n     4.00             0.20     0.270    0.450     0.710     1.0     1.70      2.5      3.0     4.0\n     5.00             0.250    0.338    0.560     0.900     1.25    2.12     3.15      3.75    5.0\n     6.30             0.315    0.428    0.710      1.12     1.6     2.65      4.0      4.75    6.3\n     8.00             0.40     0.54     0.900      1.40     2.0     3.35      5.0      6.0     8.0\n     10.00            0.50     0.675     1.12      1.80     2.5     4.25      6.3      7.5    10.0\n     12.50            0.63     0.855     1.40      2.24     3.15    5.30      8.0      9.5    12.5\n     16.00            0.80     1.06      1.80      2.80     4.0     6.70     10.0      11.8   16.0\n     20.00            1.00     1.35      2.24      3.55     5.0      8.5     12.5      15.0   20.0\n     25.00            1.25     1.71      2.80      4.50     6.3     10.6     15.0      19.0   25.0\n     31.50            1.60     2.12      3.55      5.60     8.0     13.2     20.0      23.6   31.5\n     40.00            2.00     2.70      4.50      7.10     10.0    17.0     25.0      30.0   40.0\n     50.00            2.50     3.38      5.60      9.00     12.5    21.2      3.5      37.5   50.0\n     63.00            3.15     4.28      7.10      11.2     16.0    26.5     40.0      45.7   63.0\n     80.00            4.00      5.4      9.00      14.0     20.0    33.5     50.0      60.0   80.0\n\n\n                                                GRAFICA 1\n             LIMITES DE ACELERACION LONGITUDINAL (az ) COMO FUNCION DE LA FRECUENCIA Y DEL\n                                         TIEMPO DE EXPOSICIÓN\n\fVer imagen 11ene -34.bmp\n\f                                                 GRAFICA 2\n           LIMITES DE ACELERACION TRANSVERSAL (ax , ay ) COMO FUNCION DE LA FRECUENCIA Y DEL\n                                          TIEMPO DE EXPOSICIÓN\n\n\n\n\n                                        Ver imagen 11ene -35.bmp",
+    "start_char": 8755,
+    "end_char": 15305
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "7.2",
+    "label": "7.2 En extremidades superiores.",
+    "text": "7.2 En extremidades superiores.\n   Dependiendo del tiempo de exposición, se establecen los valores máximos permitidos de aceleración\nponderada (que se deben calcular según se establece en los Apartados 8.3.2.2.1 al 8.3.2.2.6, y en la\nTabla 3).\n                                                 TABLA 3\n           LIMITES MAXIMOS DE EXPOSICION EN MANOS A VIBRACIONES EN DIRECCIONES Xh , Y h , Zh.\n\n                                                  Valores cuadráticos medios dominantes\n                 Tiempo total de exposición       de la componente de las aceleraciones\n                diaria a vibraciones, en horas     de frecuencia ponderada que no deben\n                                                               excederse (*)\n                                                                 ak, en m/s 2\n               De 4 a 8                                            hasta 4\n               De 2 a 4                                            hasta 6\n               De 1 a 2                                            hasta 8\n                Menor de 1                                       hasta 12\n    (*) Nota: Comúnmente, uno de los ejes de vibración domina sobre los dos restantes. Si uno o más ejes de\nvibración sobrepasan la exposición total diaria, se han sobrepasado los valores de los límites máximos de\nexposición.",
+    "start_char": 15311,
+    "end_char": 16650
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8",
+    "label": "8. Programa para la prevención de alteraciones a la salud del POE",
+    "text": "8. Programa para la prevención de alteraciones a la salud del POE",
+    "start_char": 16654,
+    "end_char": 16719
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.1",
+    "label": "8.1 Este programa debe incluir los elementos siguientes y su correspondiente documentación:",
+    "text": "8.1 Este programa debe incluir los elementos siguientes y su correspondiente documentación:\n   a)   reconocimiento;\n   b)   evaluación;\n   c)   capacitación y adiestramiento del POE;\n   d)   vigilancia a la salud del POE;\n   e)   control.",
+    "start_char": 16724,
+    "end_char": 16962
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.2",
+    "label": "8.2 Reconocimiento. Consiste en recabar toda aquella información técnica y administrativa que permita",
+    "text": "8.2 Reconocimiento. Consiste en recabar toda aquella información técnica y administrativa que permita\nseleccionar las áreas y puestos por evaluar, los procesos de trabajo en los cuales se encuentra el POE y el\nmétodo apropiado para medir las vibraciones.",
+    "start_char": 16966,
+    "end_char": 17220
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.2.1",
+    "label": "8.2.1 La información que debe recabarse es la siguiente:",
+    "text": "8.2.1 La información que debe recabarse es la siguiente:\n   a)   plano de distribución del centro de trabajo, incluyendo la localización e identificación de la maquinaria\n        y equipo que generen vibraciones;\n   b)   descripción de los procedimientos de operación de la maquinaria, herramientas, materiales usados y\n        equipo del proceso, así como aquellas condiciones que pudieran alterar las características de las\n        vibraciones;\n   c)   descripción de los puestos de trabajo del POE para determinar los ciclos de exposición;\n   d)   programas de mantenimiento de la maquinaria y equipo que generen vibraciones;\n   e)   número de POE por área y por proceso de trabajo, incluyendo el tiempo de exposición;\n   f)   identificación del tipo de exposición para determinar el método de evaluación.",
+    "start_char": 17224,
+    "end_char": 18032
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.2.2",
+    "label": "8.2.2 Del análisis de la información recabada en el reconocimiento, se establece el método de evaluación,",
+    "text": "8.2.2 Del análisis de la información recabada en el reconocimiento, se establece el método de evaluación,\nel cual puede ser:\n   a)   en cuerpo entero;\n\n   b)   en extremidades superiores.",
+    "start_char": 18037,
+    "end_char": 18224
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3",
+    "label": "8.3 Evaluación.",
+    "text": "8.3 Evaluación.",
+    "start_char": 18228,
+    "end_char": 18243
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.1",
+    "label": "8.3.1 Condiciones para la evaluación.",
+    "text": "8.3.1 Condiciones para la evaluación.",
+    "start_char": 18247,
+    "end_char": 18284
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.1.1",
+    "label": "8.3.1.1 La evaluación de los NEV en una jornada laboral debe realizarse bajo condiciones normales",
+    "text": "8.3.1.1 La evaluación de los NEV en una jornada laboral debe realizarse bajo condiciones normales\nde operación.",
+    "start_char": 18288,
+    "end_char": 18399
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.1.2",
+    "label": "8.3.1.2 La evaluación debe realizarse en cada uno de los diferentes ciclos de exposición del POE, de",
+    "text": "8.3.1.2 La evaluación debe realizarse en cada uno de los diferentes ciclos de exposición del POE, de\nacuerdo al reconocimiento.",
+    "start_char": 18403,
+    "end_char": 18530
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.1.3",
+    "label": "8.3.1.3 La evaluación debe realizarse y registrarse al menos cada dos años cuando se esté por debajo de",
+    "text": "8.3.1.3 La evaluación debe realizarse y registrarse al menos cada dos años cuando se esté por debajo de\nlos límites máximos permisibles o antes si se modifican las tareas, el área de trabajo, las herramientas o\nequipos del proceso de manera que se hayan podido incrementar las características de las vibraciones o los\nciclos de exposición.",
+    "start_char": 18535,
+    "end_char": 18874
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2",
+    "label": "8.3.2 Procedimientos de evaluación de las vibraciones.",
+    "text": "8.3.2 Procedimientos de evaluación de las vibraciones.",
+    "start_char": 18878,
+    "end_char": 18932
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.1",
+    "label": "8.3.2.1 Para cuerpo entero.",
+    "text": "8.3.2.1 Para cuerpo entero.",
+    "start_char": 18936,
+    "end_char": 18963
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.1.1",
+    "label": "8.3.2.1.1 Instrumentación mínima requerida:",
+    "text": "8.3.2.1.1 Instrumentación mínima requerida:\n   a)   transductor de aceleración con respuesta lineal desde 1 Hz, con un peso no mayor de 50 gramos y\n        sensibilidad no menor a 1 mV/(m/seg2);\n   b)   analizador con filtros en bandas de tercios de octava con capacidad para medir desde 1 Hz;\n   c)   calibrador de aceleración.",
+    "start_char": 18968,
+    "end_char": 19296
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.1.2",
+    "label": "8.3.2.1.2 Se debe contar con los documentos de calibración de toda la instrumentación expedidos por un",
+    "text": "8.3.2.1.2 Se debe contar con los documentos de calibración de toda la instrumentación expedidos por un\nlaboratorio acreditado, y verificar periódicamente que dicha calibración se realice de conformidad con los\nprocedimientos establecidos en la Ley Federal sobre Metrología y Normalización.",
+    "start_char": 19301,
+    "end_char": 19590
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-1-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.1.3",
+    "label": "8.3.2.1.3 Calibración de campo: se debe calibrar la cadena de medición por medio del calibrador de",
+    "text": "8.3.2.1.3 Calibración de campo: se debe calibrar la cadena de medición por medio del calibrador de\naceleración, de acuerdo a lo indicado en el manual del fabricante, al iniciar y al finalizar la jornada de\nmedición. Los valores de la calibración deben anotarse en el formato de registro correspondiente.",
+    "start_char": 19594,
+    "end_char": 19897
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-1-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.1.4",
+    "label": "8.3.2.1.4 Los puntos de medición deben localizarse en los planos de sustentación de los trabajadores.",
+    "text": "8.3.2.1.4 Los puntos de medición deben localizarse en los planos de sustentación de los trabajadores.",
+    "start_char": 19901,
+    "end_char": 20002
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-1-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.1.5",
+    "label": "8.3.2.1.5 En cada punto de medición, se deben localizar tres ejes ortogonales de acuerdo con la Figura 1,",
+    "text": "8.3.2.1.5 En cada punto de medición, se deben localizar tres ejes ortogonales de acuerdo con la Figura 1,\nen los que se realizan las mediciones continuas de la aceleración y se registran al menos durante un minuto\nen cada una de las bandas de tercios de octava definidas en las Tablas 1 y 2.\n\f                                                  FIGURA 1\n                   DIRECCIONES DE INCIDENCIA DE LAS VIBRACIONES SOBRE EL CUERPO HUMANO\n                                           Ver imagen 11ene-36.bmp\n\n\n   ax , a y , a z son las direcciones de la aceleración en los ejes x, y, z.\n\n   eje x        es la dirección de espalda a pecho.\n   eje y        es la dirección de lado derecho a izquierdo.\n   eje z        es la dirección de los pies o parte inferior, a la cabeza.",
+    "start_char": 20007,
+    "end_char": 20780
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-1-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.1.6",
+    "label": "8.3.2.1.6 Se debe realizar un análisis espectral en bandas de tercios de octava (1 a 80 Hz) por cada eje,",
+    "text": "8.3.2.1.6 Se debe realizar un análisis espectral en bandas de tercios de octava (1 a 80 Hz) por cada eje,\nse comparan los resulta dos y se interpretan contra los límites establecidos en las Tablas 1 y 2.",
+    "start_char": 20784,
+    "end_char": 20987
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.2",
+    "label": "8.3.2.2 Para extremidades superiores.",
+    "text": "8.3.2.2 Para extremidades superiores.",
+    "start_char": 20991,
+    "end_char": 21028
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.2.1",
+    "label": "8.3.2.2.1 Instrumentación mínima requerida:",
+    "text": "8.3.2.2.1 Instrumentación mínima requerida:\n   a)      transductor de aceleración con respuesta lineal desde 6.3 Hz, con un peso menor a 15 gramos y\n           sensibilidad no menor a 1 mV/(m/seg2);\n   b)      analizador que cuente con filtros en bandas de tercios de octava, con características de ganancia\n           específicas a instrumentos de medición de respuesta humana a vibraciones en extremidades\n           superiores. En caso de que el equipo no cuente con las características de ganancia específica\n           realizar los cálculos según lo establecido en la Guía de Referencia I;\n   c)      calibrador de aceleración.",
+    "start_char": 21032,
+    "end_char": 21664
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.2.2",
+    "label": "8.3.2.2.2 Se debe contar con los documentos de calibración de toda la instrumentación expedidos por un",
+    "text": "8.3.2.2.2 Se debe contar con los documentos de calibración de toda la instrumentación expedidos por un\nlaboratorio acreditado, y verificar periódicamente que dicha calibración se realice de conformidad con los\nprocedimientos establecidos en la Ley Federal sobre Metrología y Normalización.",
+    "start_char": 21668,
+    "end_char": 21957
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-2-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.2.3",
+    "label": "8.3.2.2.3 Calibración de campo. Se debe calibrar la cadena de medición por medio del calibrador de",
+    "text": "8.3.2.2.3 Calibración de campo. Se debe calibrar la cadena de medición por medio del calibrador de\naceleración, de acuerdo a lo indicado en el manual del fabricante, al inicio y al final de la jornada de medición.\nLos valores de la calibración deben anotarse en el formato de registro correspondiente.",
+    "start_char": 21961,
+    "end_char": 22262
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-2-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.2.4",
+    "label": "8.3.2.2.4 Los puntos de medición se deben localizar en las asas o manerales de las herramientas y equipo",
+    "text": "8.3.2.2.4 Los puntos de medición se deben localizar en las asas o manerales de las herramientas y equipo\nbajo estudio.",
+    "start_char": 22266,
+    "end_char": 22384
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-2-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.2.5",
+    "label": "8.3.2.2.5 En cada punto de medición, se localizan tres ejes ortogonales, cercanos al punto de contacto de",
+    "text": "8.3.2.2.5 En cada punto de medición, se localizan tres ejes ortogonales, cercanos al punto de contacto de\nlas vibraciones con la mano, de acuerdo a lo mostrado por los sistemas de coordenadas biodinámicas y\nbasicéntricas de la Figura 2, en los que se realizan las mediciones continuas de la aceleración y se registran\nal menos durante un minuto, en cada una de las bandas de tercios de octava indicadas en el Apartado\n8.3.2.2.6.\n\f                                                FIGURA 2\n                          SISTEMAS BIODINAMICO Y BASICENTRICO DE COORDENADAS\n                      (DIRECCIONES DE LOS COMPONENTES DE ACELERACION EN MANOS)\n                                        Ver imagen 11ene-37.bmp",
+    "start_char": 22389,
+    "end_char": 23095
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-2-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.2.6",
+    "label": "8.3.2.2.6 Se debe realizar un análisis espectral en bandas de tercios de octava (de 8 a 1600 Hz) por cada",
+    "text": "8.3.2.2.6 Se debe realizar un análisis espectral en bandas de tercios de octava (de 8 a 1600 Hz) por cada\neje y calcular el componente direccional de la aceleración ponderada conforme a la siguiente ecuación:\n                                                                  1\n                                               1 n          2\n                                          ak =  ∑ (kj )2 Ti \n                                                T i=1       \n   donde:\n   ak   es el componente direccional de la aceleración ponderada;\n   T    es la duración de la exposición diaria;\n   kj   es la iésima frecuencia ponderada, valor cuadrático medio de la componente de la aceleración con\n        duración Ti.",
+    "start_char": 23102,
+    "end_char": 23818
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-2-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.2.7",
+    "label": "8.3.2.2.7 Comparar el resultado de ak, e interpretar con los límites establecidos en la Tabla 3.",
+    "text": "8.3.2.2.7 Comparar el resultado de ak, e interpretar con los límites establecidos en la Tabla 3.",
+    "start_char": 23823,
+    "end_char": 23919
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-2-2-8",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.2.2.8",
+    "label": "8.3.2.2.8 Registrar la temperatura del aire en el área donde el POE realiza el trabajo.",
+    "text": "8.3.2.2.8 Registrar la temperatura del aire en el área donde el POE realiza el trabajo.",
+    "start_char": 23923,
+    "end_char": 24010
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.3",
+    "label": "8.3.3 Registro de la evaluación. Debe contener como mínimo la siguiente información:",
+    "text": "8.3.3 Registro de la evaluación. Debe contener como mínimo la siguiente información:\n   a)   plano de distribución de la zona o área evaluada, en el que se indiquen los puntos evaluados;\n   b)   descripción de la metodología utilizada para la medición de las vibraciones en cuerpo entero y/o en\n        extremidades superiores;\n   c)   registros de las mediciones;\n   d)   memoria de cálculo de los NEV cuando se evalúe exposición sin usar instrumentos de lectura directa;\n   e)   informe de resultados y conclusiones;\n   f)   copia del certificado de calibración del instrumento de medición y del calibrador empleado en la\n        medición;\n   g)   nombre, firma y copia de la cédula profesional del responsable de elaborar la evaluación.",
+    "start_char": 24014,
+    "end_char": 24753
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.4",
+    "label": "8.3.4 Los patrones interesados o el laboratorio de pruebas acreditado y aprobado, deben solicitar por",
+    "text": "8.3.4 Los patrones interesados o el laboratorio de pruebas acreditado y aprobado, deben solicitar por\nescrito a la Secretaría del Trabajo y Previsión Social, conforme a lo dispuesto en los artículos 49 de la Ley\nFederal sobre Metrología y Normalización y 8o. del Reglamento Federal de Seguridad, Higiene y Medio\nAmbiente de Trabajo, la autorización para utilizar procedimientos de evaluación alternativos, a efecto de que,\nprevia opinión del Comité Consultivo Nacional de Normalización de Seguridad, Higiene y Medio Ambiente\nLaboral, la Secretaría resuelva en relación a la solicitud dentro de los cuarenta y cinco días hábiles siguientes\na su presentación.\n   El procedimiento de evaluación alternativo debe incluir, como mínimo:\n   a)    la descripción detallada de los procedimientos técnicos y específicos d e la metodología de medición;\n   b)    catálogos de la instrumentación y del funcionamiento de la cadena de medición utilizada;\n   c)    los certificados de calibración correspondientes;\n   d)    para el caso de medición en extremidades superiores en que el equipo no registre resultados\n         directos, presentar los elementos que describan la fiabilidad y exactitud de las mediciones.",
+    "start_char": 24758,
+    "end_char": 25959
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-3-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.3.5",
+    "label": "8.3.5 El profesionista responsable del reconocimiento y evaluación de las vibraciones debe contar con",
+    "text": "8.3.5 El profesionista responsable del reconocimiento y evaluación de las vibraciones debe contar con\ndocumentos que avalen su conocimiento en seguridad e higiene en el trabajo.",
+    "start_char": 25963,
+    "end_char": 26140
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.4",
+    "label": "8.4 Capacitación y adiestramiento del POE.",
+    "text": "8.4 Capacitación y adiestramiento del POE.",
+    "start_char": 26144,
+    "end_char": 26186
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-4-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.4.1",
+    "label": "8.4.1 El POE debe ser capacitado acerca de:",
+    "text": "8.4.1 El POE debe ser capacitado acerca de:\n   a)    características y ubicación de las fuentes emisoras de vibraciones;\n   b)    la vigilancia y efectos a la salud;\n   c)    los NEV;\n   d)    prácticas de trabajo seguras;\n   e)    medidas de control, que deben incluir su uso, cuidado, mantenimiento y limitaciones.",
+    "start_char": 26190,
+    "end_char": 26506
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.5",
+    "label": "8.5 Vigilancia a la salud del POE.",
+    "text": "8.5 Vigilancia a la salud del POE.",
+    "start_char": 26510,
+    "end_char": 26544
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-5-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.5.1",
+    "label": "8.5.1 Se debe realizar la vigilancia a la salud del POE, según lo establezcan las normas oficiales",
+    "text": "8.5.1 Se debe realizar la vigilancia a la salud del POE, según lo establezcan las normas oficiales\nmexicanas que al respecto emita la Secretaría de Salud. En caso de no existir normatividad de la Secretaría\nde Salud, el médico de la empresa determinará la vigilancia a la salud que se deba realizar, o si se retira al\nPOE temporal o definitivamente de la exposición.",
+    "start_char": 26548,
+    "end_char": 26914
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-5-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.5.2",
+    "label": "8.5.2 Se debe establecer por escrito, un programa de vigilancia a la salud que incluya como mínimo lo",
+    "text": "8.5.2 Se debe establecer por escrito, un programa de vigilancia a la salud que incluya como mínimo lo\nsiguiente:\n   a)    periodicidad de los exámenes médicos: al menos uno cada 2 años;\n   b)    historia clínica completa con énfasis en el aparato músculo-esquelético y siste ma cardiovascular;\n   c)    cuando se requiera la realización de otro tipo de estudios, el médico de empresa debe determinar el\n         tipo de estudio en función del diagnóstico presuncional;\n   d)    medidas de prevención y control médico;\n   e)    seguimiento al programa de vigilancia a la salud del POE.",
+    "start_char": 26918,
+    "end_char": 27502
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-6",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.6",
+    "label": "8.6 Control",
+    "text": "8.6 Control",
+    "start_char": 27506,
+    "end_char": 27517
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-6-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.6.1",
+    "label": "8.6.1 Cuando el NEV supere los límites establecidos en el Capítulo 7, se deben aplicar de inmediato una o",
+    "text": "8.6.1 Cuando el NEV supere los límites establecidos en el Capítulo 7, se deben aplicar de inmediato una o\nmás de las medidas siguientes, de tal manera que el POE no se exponga a niveles de vibración superiores a\nlos l ímites:\n   a)    mantenimiento a equipo y herramientas;\n   b)    medidas técnicas de control como:\n         1)   sustitución de equipos o proceso;\n         2)   reducción de las vibraciones en las fuentes generadoras;\n         3)   modificación de aquellos componentes de la frecuencia que tengan mayo r probabilidad de\n              generar daño a la salud del POE;\n         4)   tratamiento de las trayectorias de propagación de las vibraciones por aislamiento de las\n              máquinas y elementos constructivos;\n         5)   medidas administrativas de control como el manejo de los tiempos de exposición, ya sea\n              alternando a los trabajadores en diversos puestos de trabajo por medio de la programación de\n              la producción u otros métodos administrativos.",
+    "start_char": 27522,
+    "end_char": 28528
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-6-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.6.2",
+    "label": "8.6.2 Las medidas de control que se adopten deben de estar sustentadas en un análisis técnico para su",
+    "text": "8.6.2 Las medidas de control que se adopten deben de estar sustentadas en un análisis técnico para su\nimplantación y en una evaluación posterior para comprobar su efectividad.",
+    "start_char": 28533,
+    "end_char": 28708
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-6-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.6.3",
+    "label": "8.6.3 Se debe tener especial atención para que las medidas de control que se adopten no produzcan",
+    "text": "8.6.3 Se debe tener especial atención para que las medidas de control que se adopten no produzcan\nnuevos riesgos a los trabajadores.",
+    "start_char": 28712,
+    "end_char": 28844
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-6-4",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.6.4",
+    "label": "8.6.4 Para las medidas de control que no sean de aplicación inmediata, se debe elaborar un cronograma",
+    "text": "8.6.4 Para las medidas de control que no sean de aplicación inmediata, se debe elaborar un cronograma\nde actividades para su implantación.",
+    "start_char": 28848,
+    "end_char": 28986
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-6-5",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.6.5",
+    "label": "8.6.5 En la entrada de las áreas donde los niveles de exposición superen los NEV, deben colocarse los",
+    "text": "8.6.5 En la entrada de las áreas donde los niveles de exposición superen los NEV, deben colocarse los\nseñalamientos de advertencia de peligro o de obligaciones, según lo establecido en la NOM-026-STPS-1998.",
+    "start_char": 28990,
+    "end_char": 29196
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-7",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.7",
+    "label": "8.7 Documentación.",
+    "text": "8.7 Documentación.",
+    "start_char": 29200,
+    "end_char": 29218
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-7-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.7.1",
+    "label": "8.7.1 El patrón debe mantener la documentación del programa con la información registrada durante los",
+    "text": "8.7.1 El patrón debe mantener la documentación del programa con la información registrada durante los\núltimos cinco años.",
+    "start_char": 29223,
+    "end_char": 29344
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:8-7-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "8.7.2",
+    "label": "8.7.2 La documentación del programa debe contener los siguientes registros :",
+    "text": "8.7.2 La documentación del programa debe contener los siguientes registros :\n   a)    evaluación del nivel de exposición a vibraciones según lo establecido en el Apartado 8.3.3;\n   b)    programa de capacitación y adiestramiento para el POE; según lo establecido en el Apartado 8.4;\n   c)    vigilancia a la salud, conforme a lo establecido en el Ap artado 8.5;\n   d)    medidas técnicas y administrativas de control adoptadas, según lo establecido en los Apartados 8.6.1\n         al 8.6.4;\n   e)    conclusiones.",
+    "start_char": 29348,
+    "end_char": 29861
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:9",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "9",
+    "label": "9. Unidades de verificación y laboratorios de pruebas",
+    "text": "9. Unidades de verificación y laboratorios de pruebas",
+    "start_char": 29865,
+    "end_char": 29918
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:9-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "9.1",
+    "label": "9.1 El patrón puede contratar, para tener resultados con reconocimiento oficial, una unidad de verificación,",
+    "text": "9.1 El patrón puede contratar, para tener resultados con reconocimiento oficial, una unidad de verificación,\nacreditada y aprobada, según lo establecido en la Ley Federal sobre Metrología y Normalización, para\nverificar o evaluar los Apartados 5.2 al 5.7.",
+    "start_char": 29923,
+    "end_char": 30178
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:9-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "9.2",
+    "label": "9.2 El patrón puede contratar, para tener resultados con reconocimiento oficial, un laboratorio de pruebas,",
+    "text": "9.2 El patrón puede contratar, para tener resultados con reconocimiento oficial, un laboratorio de pruebas,\nacreditado y aprobado, según lo establecido en la Ley Federal sobre Metrología y Normalización, para el\nreconocimiento y evaluación establecidos en los Apartados 8.2, 8.3 y 8.7.",
+    "start_char": 30182,
+    "end_char": 30467
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:9-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "9.3",
+    "label": "9.3 Las unidades de verificación y laboratorios de pruebas deben entregar al patrón sus dictámenes o",
+    "text": "9.3 Las unidades de verificación y laboratorios de pruebas deben entregar al patrón sus dictámenes o\ninformes de resultados, de acuerdo con lo establecido en los Apartados 9.3.1 y 9.3.2, respectivamente,\nconsignando la siguiente información:",
+    "start_char": 30472,
+    "end_char": 30713
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:9-3-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "9.3.1",
+    "label": "9.3.1 Para el dictamen de unidades de verificación.",
+    "text": "9.3.1 Para el dictamen de unidades de verificación.",
+    "start_char": 30717,
+    "end_char": 30768
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:9-3-1-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "9.3.1.1",
+    "label": "9.3.1.1 Datos del centro de trabajo:",
+    "text": "9.3.1.1 Datos del centro de trabajo:\n   a)    nombre, denominación o razón social;\n   b)    domicilio completo.",
+    "start_char": 30772,
+    "end_char": 30883
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:9-3-1-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "9.3.1.2",
+    "label": "9.3.1.2 Datos de la unidad de verificación:",
+    "text": "9.3.1.2 Datos de la unidad de verificación:\n   a)    nombre, denominación o razón social;\n   b)    domicilio completo;\n   c)    copia de la aprobación vigente otorgada por la Secretaría del Trabajo y Previsión Social;\n   d)    número consecutivo de identificación del dictamen;\n   e)    fecha de la verificación;\n   f)    clave y nombre de la norma verificada;\n   g)    resultados de la verificación;\n   h)    lugar y fecha de la firma del dictamen;\n   i)    nombre y firma del representante legal;\n   j)    vigencia del dictamen.",
+    "start_char": 30887,
+    "end_char": 31417
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:9-3-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "9.3.2",
+    "label": "9.3.2 Para el informe del laboratorio de pruebas.",
+    "text": "9.3.2 Para el informe del laboratorio de pruebas.",
+    "start_char": 31421,
+    "end_char": 31470
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:9-3-2-1",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "9.3.2.1",
+    "label": "9.3.2.1 Datos del centro de trabajo:",
+    "text": "9.3.2.1 Datos del centro de trabajo:\n   a)    nombre, denominación o razón social;\n   b)    domicilio completo.",
+    "start_char": 31475,
+    "end_char": 31586
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:9-3-2-2",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "9.3.2.2",
+    "label": "9.3.2.2 Datos del laboratorio de pruebas:",
+    "text": "9.3.2.2 Datos del laboratorio de pruebas:\n   a)    nombre, denominación o razón social;\n   b)    domicilio completo;\n   c)    copia de la aprobación vigente otorgada por la Secretaría del Trabajo y Previsión Social;\n   d)    contenido del estudio de acuerdo a lo establecido en los Apartados 8.1 y 8.2;\n   e)    resultados d e la evaluación;\n   f)    nombre y firma del representante legal;\n   g)    lugar y fecha de la firma del informe;\n   h)    vigencia del informe.",
+    "start_char": 31590,
+    "end_char": 32059
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:9-3-3",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "9.3.3",
+    "label": "9.3.3 La vigencia del dictamen y del informe de resultados es de dos años, sujeto a que no se modifiquen",
+    "text": "9.3.3 La vigencia del dictamen y del informe de resultados es de dos años, sujeto a que no se modifiquen\nlas tareas, el área de trabajo, las herramientas o equipos del proceso de tal manera que se puedan\nincrementar las características de las vibraciones o los ciclos de exposición.",
+    "start_char": 32064,
+    "end_char": 32346
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:10",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "10",
+    "label": "10. Vigilancia",
+    "text": "10. Vigilancia\n   La vigilancia en el cumplimiento de la presente Norma, corresponde a la Secretaría del Trabajo y Previsión\nSocial.",
+    "start_char": 32350,
+    "end_char": 32482
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:11",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "11",
+    "label": "11. Bibliografía",
+    "text": "11. Bibliografía\n   a)    Pelmear, Peter L., Wasserman, Donald E., Hand-Arm Vibration, 2 nd Edition; OEM Press 1998.\n   b)    Wasserman, Donald E., Human aspects of occupational vibration; Elsevier 1987.\n   c)    ISO 2631/1-1985 (E) Evaluation of human exposure to whole-body vibration- Part 1- General\n         requirements.\n   d)    ISO 2631/2-1989 (E) – Part 2 – Continuous and shock induced vibration in building (1 to 80 Hz).\n   e)    ISO 5349-1986 (E) Mechanical vibration of human exposure to hand-transmitted vibration.\n   f)    ACGIH – TLVs and BELS – 1999.\n   g)    NIOSH. Criteria for a Recommended Standard Occupational Exposure to Hand-Arm Vibration. U.S.\n         Department of Health and Human Services. September 1989.\n   h)    NOM-008-SCFI-1993, Sistema general de unidades de medida.",
+    "start_char": 32486,
+    "end_char": 33287
+  },
+  {
+    "schema_version": "0.1.0",
+    "id": "urn:lex-mx:federal:nom:nom-024-stps-2001:clause:12",
+    "standard_id": "urn:lex-mx:federal:nom:nom-024-stps-2001",
+    "number": "12",
+    "label": "12. Concordancia con normas internacionales",
+    "text": "12. Concordancia con normas internacionales\n   Esta Norma Oficial Mexicana no concuerda con ninguna norma internacional, por no existir referencia\nalguna al momento de su elaboración.",
+    "start_char": 33291,
+    "end_char": 33474
+  }
+]

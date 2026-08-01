@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://lex-mex.example/schemas/standard-supplement.schema.json",
+  "title": "Lex-Mex NOM/NMX post-transitory supplement",
+  "description": "An exact-span top-level supplement following a genuine TRANSITORIOS section. Internal rows, forms, and subsections remain opaque.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version", "id", "standard_id", "sequence", "kind", "heading",
+    "legal_character", "text", "start_char", "end_char"
+  ],
+  "properties": {
+    "schema_version": { "const": "0.1.0" },
+    "id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:federal:(nom|nmx):[a-z0-9-]+:supplement:[1-9][0-9]*$"
+    },
+    "standard_id": {
+      "type": "string",
+      "pattern": "^urn:lex-mx:federal:(nom|nmx):[a-z0-9-]+$"
+    },
+    "sequence": { "type": "integer", "minimum": 1 },
+    "kind": { "enum": ["appendix", "annex", "reference_guide", "table", "list"] },
+    "heading": { "type": "string", "minLength": 1 },
+    "legal_character": {
+      "enum": ["explicitly_normative", "explicitly_non_normative", "unspecified"]
+    },
+    "text": { "type": "string", "minLength": 1 },
+    "start_char": { "type": "integer", "minimum": 0 },
+    "end_char": { "type": "integer", "minimum": 1 }
+  }
+}

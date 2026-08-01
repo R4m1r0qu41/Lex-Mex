@@ -5,8 +5,11 @@ use std::{
 
 use anyhow::{Context, Result, bail};
 use clap::Subcommand;
-use lex_core::{StandardClause, StandardMetadata, StandardTransitory};
-use lex_parse::{parse_standard_clauses, parse_standard_transitories, validate_standard};
+use lex_core::{StandardClause, StandardMetadata, StandardSupplement, StandardTransitory};
+use lex_parse::{
+    parse_standard_clauses, parse_standard_supplements, parse_standard_transitories,
+    validate_standard,
+};
 use lex_source::sha256_hex;
 
 #[derive(Debug, Subcommand)]
@@ -47,6 +50,11 @@ pub(crate) enum StandardsCommand {
         /// mechanical guard. Changing them has to be intended and stated.
         #[arg(long)]
         allow_mark_change: bool,
+        /// Permit a reviewed final-transitory truncation and its corresponding
+        /// post-transitory supplement derivation. Earlier transitories may not
+        /// change, and all guards still run before writes.
+        #[arg(long)]
+        allow_tail_repartition: bool,
     },
 }
 
@@ -62,17 +70,24 @@ pub(crate) fn run_standards_command(root: &Path, command: StandardsCommand) -> R
         StandardsCommand::Refresh {
             standard,
             allow_mark_change,
-        } => refresh_committed_standard(root, &standard, allow_mark_change),
+            allow_tail_repartition,
+        } => refresh_committed_standard(root, &standard, allow_mark_change, allow_tail_repartition),
     }
 }
 
-fn refresh_committed_standard(root: &Path, slug: &str, allow_mark_change: bool) -> Result<()> {
+fn refresh_committed_standard(
+    root: &Path,
+    slug: &str,
+    allow_mark_change: bool,
+    allow_tail_repartition: bool,
+) -> Result<()> {
     let corpus = committed_standard_dir(root, slug)?;
     let metadata: StandardMetadata = read_json(&corpus.join("standard.json"))?;
     let text = retained_text(&corpus, &metadata, slug)?;
     let clauses = parse_standard_clauses(&text, &metadata)?;
     let transitories = parse_standard_transitories(&text, &metadata)?;
-    let report = validate_standard(&metadata, &clauses, &transitories, &text);
+    let supplements = parse_standard_supplements(&text, &metadata)?;
+    let report = validate_standard(&metadata, &clauses, &transitories, &supplements, &text);
 
     // Every guard runs before any write: a refused or failed refresh must
     // leave the committed directory exactly as it found it. Writing first and
@@ -104,14 +119,43 @@ fn refresh_committed_standard(root: &Path, slug: &str, allow_mark_change: bool) 
             transitories.len()
         );
     }
-    let marks_of = |clauses: &[StandardClause]| {
-        clauses
-            .iter()
-            .filter(|clause| !clause.amended_by.is_empty())
-            .map(|clause| (clause.number.clone(), clause.amended_by.clone()))
-            .collect::<Vec<_>>()
+    let supplements_path = corpus.join("supplements.json");
+    let previous_supplements: Vec<StandardSupplement> = if supplements_path.is_file() {
+        read_json(&supplements_path)?
+    } else {
+        Vec::new()
     };
-    let (was, now) = (marks_of(&previous), marks_of(&clauses));
+    let transitories_changed = previous_transitories != transitories;
+    let supplements_changed = previous_supplements != supplements;
+    if (transitories_changed || supplements_changed) && !allow_tail_repartition {
+        bail!(
+            "refusing to refresh {slug}: transitory content or supplements would change; re-run \
+             with --allow-tail-repartition only after reviewing the exact final-transitory and \
+             supplement spans"
+        );
+    }
+    if allow_tail_repartition && transitories_changed {
+        let Some((previous_final, current_final)) =
+            previous_transitories.last().zip(transitories.last())
+        else {
+            bail!("refusing tail repartition without a final transitory");
+        };
+        if previous_transitories[..previous_transitories.len() - 1]
+            != transitories[..transitories.len() - 1]
+            || previous_final.id != current_final.id
+            || previous_final.ordinal != current_final.ordinal
+            || previous_final.start_char != current_final.start_char
+            || !previous_final.text.starts_with(&current_final.text)
+            || current_final.end_char > previous_final.end_char
+            || supplements.is_empty()
+        {
+            bail!(
+                "refusing to repartition {slug}: only truncation of the final transitory paired \
+                 with represented supplements is permitted"
+            );
+        }
+    }
+    let (was, now) = (amendment_marks(&previous), amendment_marks(&clauses));
     if was != now && !allow_mark_change {
         bail!(
             "refusing to refresh {slug}: amendment marks would change ({} marked clauses -> {}); \
@@ -132,16 +176,28 @@ fn refresh_committed_standard(root: &Path, slug: &str, allow_mark_change: bool) 
 
     write_json(&clauses, &corpus.join("clauses.json"))?;
     write_json(&transitories, &corpus.join("transitories.json"))?;
+    write_json(&supplements, &supplements_path)?;
     write_json(&report, &corpus.join("validation.json"))?;
     println!(
-        "refreshed {slug}: {} clauses ({} amendment-marked), {} transitories, {} issues, \
+        "refreshed {slug}: {} clauses ({} amendment-marked), {} transitories, {} supplements, {} issues, \
          validation valid",
         clauses.len(),
         now.len(),
         transitories.len(),
+        supplements.len(),
         report.issues.len(),
     );
     Ok(())
+}
+
+fn amendment_marks(
+    clauses: &[StandardClause],
+) -> Vec<(String, Vec<lex_core::StandardClauseAmendment>)> {
+    clauses
+        .iter()
+        .filter(|clause| !clause.amended_by.is_empty())
+        .map(|clause| (clause.number.clone(), clause.amended_by.clone()))
+        .collect()
 }
 
 fn compile_standard(
@@ -186,19 +242,22 @@ fn compile_standard(
     let text = String::from_utf8(text_bytes).context("extracted standard text is not UTF-8")?;
     let clauses = parse_standard_clauses(&text, &metadata)?;
     let transitories = parse_standard_transitories(&text, &metadata)?;
-    let report = validate_standard(&metadata, &clauses, &transitories, &text);
+    let supplements = parse_standard_supplements(&text, &metadata)?;
+    let report = validate_standard(&metadata, &clauses, &transitories, &supplements, &text);
 
     fs::create_dir_all(output)?;
     write_json(&metadata, &output.join("standard.json"))?;
     write_json(&clauses, &output.join("clauses.json"))?;
     write_json(&transitories, &output.join("transitories.json"))?;
+    write_json(&supplements, &output.join("supplements.json"))?;
     write_json(&report, &output.join("validation.json"))?;
     fs::write(output.join("extracted-text.txt"), text.as_bytes())?;
     println!(
-        "standard validation: {}; {} clauses, {} transitories, {} issues",
+        "standard validation: {}; {} clauses, {} transitories, {} supplements, {} issues",
         if report.valid { "valid" } else { "invalid" },
         report.clause_count,
         transitories.len(),
+        supplements.len(),
         report.issues.len()
     );
     if !report.valid {
@@ -235,6 +294,7 @@ fn validate_committed_standard(root: &Path, slug: &str) -> Result<()> {
     let metadata: StandardMetadata = read_json(&corpus.join("standard.json"))?;
     let clauses: Vec<StandardClause> = read_json(&corpus.join("clauses.json"))?;
     let transitories: Vec<StandardTransitory> = read_json(&corpus.join("transitories.json"))?;
+    let supplements: Vec<StandardSupplement> = read_json(&corpus.join("supplements.json"))?;
     let text = retained_text(&corpus, &metadata, slug)?;
     let reparsed = parse_standard_clauses(&text, &metadata)?;
     if serde_json::to_value(&reparsed)? != serde_json::to_value(&clauses)? {
@@ -244,12 +304,17 @@ fn validate_committed_standard(root: &Path, slug: &str) -> Result<()> {
     if serde_json::to_value(&reparsed_transitories)? != serde_json::to_value(&transitories)? {
         bail!("committed standard transitories are stale for the current parser");
     }
-    let report = validate_standard(&metadata, &clauses, &transitories, &text);
+    let reparsed_supplements = parse_standard_supplements(&text, &metadata)?;
+    if serde_json::to_value(&reparsed_supplements)? != serde_json::to_value(&supplements)? {
+        bail!("committed standard supplements are stale for the current parser");
+    }
+    let report = validate_standard(&metadata, &clauses, &transitories, &supplements, &text);
     println!(
-        "standard validation: {}; {} clauses, {} transitories, {} issues",
+        "standard validation: {}; {} clauses, {} transitories, {} supplements, {} issues",
         if report.valid { "valid" } else { "invalid" },
         report.clause_count,
         transitories.len(),
+        supplements.len(),
         report.issues.len()
     );
     if !report.valid {
@@ -283,6 +348,7 @@ mod tests {
 
     use super::{
         compile_standard, read_json, refresh_committed_standard, validate_committed_standard,
+        write_json,
     };
 
     fn compiled_fixture() -> (tempfile::TempDir, PathBuf) {
@@ -297,6 +363,30 @@ mod tests {
             &corpus,
         )
         .unwrap();
+        (temporary, corpus)
+    }
+
+    fn compiled_tail_fixture() -> (tempfile::TempDir, PathBuf) {
+        let temporary = tempfile::tempdir().unwrap();
+        let corpus = temporary.path().join("corpus/mx/nom-999-test-2026");
+        let fixture_root =
+            std::path::Path::new(env!("CARGO_MANIFEST_DIR")).join("../../fixtures/standards");
+        let text = fixture_root.join("post-transitorios-annex-sample.txt");
+        let bytes = fs::read(&text).unwrap();
+        let digest = lex_source::sha256_hex(&bytes);
+        let mut metadata: serde_json::Value = serde_json::from_slice(
+            &fs::read(fixture_root.join("numbered-standard-metadata.json")).unwrap(),
+        )
+        .unwrap();
+        metadata["source_sha256"] = digest.clone().into();
+        metadata["extracted_text_sha256"] = digest.into();
+        let metadata_path = temporary.path().join("metadata.json");
+        fs::write(
+            &metadata_path,
+            serde_json::to_vec_pretty(&metadata).unwrap(),
+        )
+        .unwrap();
+        compile_standard(&metadata_path, &text, &text, &corpus).unwrap();
         (temporary, corpus)
     }
 
@@ -361,7 +451,7 @@ mod tests {
         let root = temporary.path();
 
         // An unchanged refresh is a no-op and must stay one.
-        refresh_committed_standard(root, "nom-999-test-2026", false).unwrap();
+        refresh_committed_standard(root, "nom-999-test-2026", false, false).unwrap();
         validate_committed_standard(root, "nom-999-test-2026").unwrap();
 
         // Now retarget the decree. The clause count is identical either way, so
@@ -372,7 +462,8 @@ mod tests {
             .replace("numerales 5.1 y 5.2", "numerales 5.1 y 6");
         fs::write(&metadata, retargeted).unwrap();
 
-        let refused = refresh_committed_standard(root, "nom-999-test-2026", false).unwrap_err();
+        let refused =
+            refresh_committed_standard(root, "nom-999-test-2026", false, false).unwrap_err();
         assert!(
             refused.to_string().contains("amendment marks would change"),
             "{refused}"
@@ -385,7 +476,7 @@ mod tests {
             "a refused refresh must not have written anything"
         );
 
-        refresh_committed_standard(root, "nom-999-test-2026", true).unwrap();
+        refresh_committed_standard(root, "nom-999-test-2026", true, false).unwrap();
         let rewritten: Vec<StandardClause> = read_json(&corpus.join("clauses.json")).unwrap();
         let marked = rewritten
             .iter()
@@ -393,6 +484,72 @@ mod tests {
             .map(|clause| clause.number.as_str())
             .collect::<Vec<_>>();
         assert_eq!(marked, ["5.1", "6"]);
+    }
+
+    #[test]
+    fn refresh_requires_and_bounds_tail_repartition_authorization() {
+        let (temporary, corpus) = compiled_tail_fixture();
+        let root = temporary.path();
+        let before_standard = fs::read(corpus.join("standard.json")).unwrap();
+        let before_text = fs::read(corpus.join("extracted-text.txt")).unwrap();
+        let before_clauses = fs::read(corpus.join("clauses.json")).unwrap();
+        let before_transitories = fs::read(corpus.join("transitories.json")).unwrap();
+        let before_supplements = fs::read(corpus.join("supplements.json")).unwrap();
+        let before_validation = fs::read(corpus.join("validation.json")).unwrap();
+
+        let metadata_path = corpus.join("standard.json");
+        let mut metadata: serde_json::Value = read_json(&metadata_path).unwrap();
+        metadata["supplement_starts"] = serde_json::json!([{
+            "anchor": "APÉNDICE I",
+            "kind": "appendix"
+        }]);
+        write_json(&metadata, &metadata_path).unwrap();
+        let configured_standard = fs::read(&metadata_path).unwrap();
+
+        let refused =
+            refresh_committed_standard(root, "nom-999-test-2026", false, false).unwrap_err();
+        assert!(refused.to_string().contains("--allow-tail-repartition"));
+        assert_eq!(
+            fs::read(corpus.join("clauses.json")).unwrap(),
+            before_clauses
+        );
+        assert_eq!(
+            fs::read(corpus.join("transitories.json")).unwrap(),
+            before_transitories
+        );
+        assert_eq!(
+            fs::read(corpus.join("supplements.json")).unwrap(),
+            before_supplements
+        );
+        assert_eq!(
+            fs::read(corpus.join("validation.json")).unwrap(),
+            before_validation
+        );
+
+        refresh_committed_standard(root, "nom-999-test-2026", false, true).unwrap();
+        assert_eq!(fs::read(&metadata_path).unwrap(), configured_standard);
+        assert_eq!(
+            fs::read(corpus.join("extracted-text.txt")).unwrap(),
+            before_text
+        );
+        assert_eq!(
+            fs::read(corpus.join("clauses.json")).unwrap(),
+            before_clauses
+        );
+        assert_ne!(
+            fs::read(corpus.join("transitories.json")).unwrap(),
+            before_transitories
+        );
+        assert_ne!(
+            fs::read(corpus.join("supplements.json")).unwrap(),
+            before_supplements
+        );
+        assert_ne!(
+            fs::read(corpus.join("validation.json")).unwrap(),
+            before_validation
+        );
+        assert_ne!(before_standard, configured_standard);
+        validate_committed_standard(root, "nom-999-test-2026").unwrap();
     }
 
     #[test]
@@ -423,7 +580,8 @@ mod tests {
         let witness = serde_json::to_vec_pretty(&committed).unwrap();
         fs::write(&path, &witness).unwrap();
 
-        let refused = refresh_committed_standard(root, "nom-999-test-2026", false).unwrap_err();
+        let refused =
+            refresh_committed_standard(root, "nom-999-test-2026", false, false).unwrap_err();
         assert!(
             refused
                 .to_string()
@@ -461,7 +619,8 @@ mod tests {
             fs::read(corpus.join("validation.json")).unwrap(),
         ];
 
-        let refused = refresh_committed_standard(root, "nom-999-test-2026", false).unwrap_err();
+        let refused =
+            refresh_committed_standard(root, "nom-999-test-2026", false, false).unwrap_err();
         assert!(
             refused.to_string().contains("does not validate"),
             "{refused}"

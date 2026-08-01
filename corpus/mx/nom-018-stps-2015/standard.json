@@ -24,6 +24,36 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "Apéndice A",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "Apéndice B",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "Apéndice C",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "Apéndice D",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "Apéndice E",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "Guía I (No Normativa)",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "GUÍA II (No Normativa)",
+      "kind": "reference_guide"
+    }
+  ],
   "systematic_review": {
     "review_date": "2023-12-08",
     "result": "Confirmación",
