@@ -3,6 +3,7 @@
   "standard_id": "urn:lex-mx:federal:nom:nom-247-ssa1-2008",
   "valid": true,
   "clause_count": 252,
+  "supplement_count": 0,
   "issues": [
     {
       "severity": "warning",

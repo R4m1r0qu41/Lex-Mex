@@ -24,6 +24,20 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "Apéndice I\n          Valores límite de exposición a sustancias químicas contaminantes del ambiente laboral",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "Apéndice II\n                         Código de peligros de las sustancias químicas y su descripción",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "Guía A (No Normativa)",
+      "kind": "reference_guide"
+    }
+  ],
   "systematic_review": {
     "review_date": "2025-03-14",
     "result": "Confirmación",

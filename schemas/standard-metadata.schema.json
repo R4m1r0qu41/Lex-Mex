@@ -98,6 +98,10 @@
       "type": "array",
       "items": { "$ref": "#/$defs/modification" }
     },
+    "supplement_starts": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/supplement_start" }
+    },
     "systematic_review": {
       "oneOf": [
         { "$ref": "#/$defs/systematic_review" },
@@ -125,6 +129,17 @@
     }
   },
   "$defs": {
+    "supplement_start": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["anchor", "kind"],
+      "properties": {
+        "anchor": { "type": "string", "minLength": 1 },
+        "kind": {
+          "enum": ["appendix", "annex", "reference_guide", "table", "list"]
+        }
+      }
+    },
     "modification": {
       "type": "object",
       "additionalProperties": false,

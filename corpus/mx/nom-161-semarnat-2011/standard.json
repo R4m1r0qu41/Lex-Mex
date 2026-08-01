@@ -21,6 +21,12 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "ANEXO NORMATIVO",
+      "kind": "annex"
+    }
+  ],
   "systematic_review": {
     "review_date": "2023-03-28",
     "result": "Modificación",

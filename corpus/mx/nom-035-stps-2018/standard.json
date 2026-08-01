@@ -21,6 +21,28 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "Guía de Referencia I\n            EJEMPLO DE CUESTIONARIO PARA IDENTIFICAR A LOS TRABAJADORES QUE FUERON SUJETOS A",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia II\n                           IDENTIFICACIÓN Y ANÁLISIS DE LOS FACTORES DE RIESGO PSICOSOCIAL",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia III",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia IV",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de referencia V\n                                                              Datos del trabajador",
+      "kind": "reference_guide"
+    }
+  ],
   "systematic_review": {
     "review_date": "2024-12-13",
     "result": "Confirmación",

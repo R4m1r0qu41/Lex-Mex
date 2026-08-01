@@ -3,5 +3,37 @@
   "standard_id": "urn:lex-mx:federal:nom:nom-085-semarnat-2011",
   "valid": true,
   "clause_count": 73,
-  "issues": []
+  "supplement_count": 5,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 1 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 2 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 3 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 4 states no explicit normative or non-normative character",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 5 states no explicit normative or non-normative character",
+      "provision_id": null
+    }
+  ]
 }

@@ -196,6 +196,7 @@ enum CorpusPathKind {
     Provisions,
     Clauses,
     Transitories,
+    Supplements,
     References,
     Markdown,
 }
@@ -642,6 +643,7 @@ fn run_path(root: &Path, instrument: Option<&str>, kind: CorpusPathKind) -> Resu
         CorpusPathKind::Provisions => corpus.join("provisions.json"),
         CorpusPathKind::Clauses => corpus.join("clauses.json"),
         CorpusPathKind::Transitories => corpus.join("transitories.json"),
+        CorpusPathKind::Supplements => corpus.join("supplements.json"),
         CorpusPathKind::References => corpus.join("references.json"),
         CorpusPathKind::Markdown => corpus.join("markdown"),
     };

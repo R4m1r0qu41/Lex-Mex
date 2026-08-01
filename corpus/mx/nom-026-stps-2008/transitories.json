@@ -22,13 +22,12 @@
     "id": "urn:lex-mx:federal:nom:nom-026-stps-2008:transitory:tercero",
     "standard_id": "urn:lex-mx:federal:nom:nom-026-stps-2008",
     "ordinal": "TERCERO",
-    "text": "TERCERO. A partir de la fecha en que entre en vigor la presente Norma quedarán sin efectos:\n   1.     La Norma Oficial Mexicana NOM-026-STPS-1998, Colores y señales de seguridad e higiene, e\n          identificación de riesgos por fluidos conducidos en tuberías, publicada en el Diario Oficial de la\n          Federación el 13 de octubre de 1998, y\n   2.     El Procedimiento para la Evaluación de la Conformidad de la Norma Oficial Mexicana NOM-026-\n          STPS-1998, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos\n          conducidos en tuberías, publicado en el Diario Oficial de la Federación el 10 de noviembre de 2007.\n   Dado en la Ciudad de México, Distrito Federal, a los seis días del mes de noviembre de dos mil ocho.- El\nSecretario del Trabajo y Previsión Social, Javier Lozano Alarcón.- Rúbrica.\n\f   Martes 25 de noviembre de 2008            DIARIO OFICIAL                             (Primera Sección)",
+    "text": "TERCERO. A partir de la fecha en que entre en vigor la presente Norma quedarán sin efectos:\n   1.     La Norma Oficial Mexicana NOM-026-STPS-1998, Colores y señales de seguridad e higiene, e\n          identificación de riesgos por fluidos conducidos en tuberías, publicada en el Diario Oficial de la\n          Federación el 13 de octubre de 1998, y\n   2.     El Procedimiento para la Evaluación de la Conformidad de la Norma Oficial Mexicana NOM-026-\n          STPS-1998, Colores y señales de seguridad e higiene, e identificación de riesgos por fluidos\n          conducidos en tuberías, publicado en el Diario Oficial de la Federación el 10 de noviembre de 2007.",
     "start_char": 50781,
-    "end_char": 51735,
+    "end_char": 51444,
     "asserted_dates": [
       "1998-10-13",
-      "2007-11-10",
-      "2008-11-25"
+      "2007-11-10"
     ]
   }
 ]

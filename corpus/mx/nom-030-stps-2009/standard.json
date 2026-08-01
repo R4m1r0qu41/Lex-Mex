@@ -21,6 +21,16 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "Guía de Referencia I\n Recomendaciones para Instrumentar las Acciones para la Atención a Emergencias en los Centros de",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia II",
+      "kind": "reference_guide"
+    }
+  ],
   "systematic_review": {
     "review_date": "2025-02-20",
     "result": "Confirmación",

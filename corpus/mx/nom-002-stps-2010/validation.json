@@ -3,11 +3,12 @@
   "standard_id": "urn:lex-mx:federal:nom:nom-002-stps-2010",
   "valid": true,
   "clause_count": 134,
+  "supplement_count": 10,
   "issues": [
     {
       "severity": "warning",
-      "code": "standard_trailing_material",
-      "message": "material after the transitorios section begins at \"Apéndice A\"; it is not represented in clauses.json and may be normative",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 1 states no explicit normative or non-normative character",
       "provision_id": null
     }
   ]

@@ -24,6 +24,28 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "Tabla 1. Niveles máximos permisibles de emisión de los equipos existentes a la entrada en vigor de la",
+      "kind": "table"
+    },
+    {
+      "anchor": "Tabla 2. Niveles máximos permisibles de emisión de equipos nuevos(1)",
+      "kind": "table"
+    },
+    {
+      "anchor": "Tabla 3. Método y frecuencia de medición para la verificación del cumplimiento",
+      "kind": "table"
+    },
+    {
+      "anchor": "Tabla 4.- Métodos de medición",
+      "kind": "table"
+    },
+    {
+      "anchor": "Tabla 5. Propiedades de combustibles convencionales",
+      "kind": "table"
+    }
+  ],
   "systematic_review": {
     "review_date": "2022-02-11",
     "result": "Confirmación",

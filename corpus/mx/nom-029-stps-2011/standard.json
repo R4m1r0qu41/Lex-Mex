@@ -24,6 +24,12 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "Guía de Referencia I",
+      "kind": "reference_guide"
+    }
+  ],
   "systematic_review": {
     "review_date": "2022-05-31",
     "result": "Confirmación",

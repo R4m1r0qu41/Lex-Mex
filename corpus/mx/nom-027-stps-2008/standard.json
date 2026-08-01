@@ -24,6 +24,16 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "Guía de referencia I\n                     Identificación del riesgo según el proceso de soldadura utilizado",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de referencia II",
+      "kind": "reference_guide"
+    }
+  ],
   "systematic_review": {
     "review_date": "2024-02-27",
     "result": "Confirmación",

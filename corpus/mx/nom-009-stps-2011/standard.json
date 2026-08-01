@@ -24,6 +24,16 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "Guía de Referencia I\nContenido mínimo de los instructivos, manuales o procedimientos para la instalación, operación y mantenimiento",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia II",
+      "kind": "reference_guide"
+    }
+  ],
   "systematic_review": {
     "review_date": "2021-09-09",
     "result": "Confirmación",

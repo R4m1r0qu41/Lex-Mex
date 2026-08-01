@@ -24,6 +24,28 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "GUIA DE REFERENCIA\n                            PROTECTORES Y DISPOSITIVOS DE SEGURIDAD",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "GUIA DE REFERENCIA\n                           PROTECTORES Y DISPOSITIVOS DE SEGURIDAD\n                    Protector móvil                                   Protector regulable",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "GUIA DE REFERENCIA\n                           PROTECTORES Y DISPOSITIVOS DE SEGURIDAD\n           Dispositivo de paro de urgencia                  Dispositivo bloqueador asociado a un",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "GUIA DE REFERENCIA\n                           PROTECTORES Y DISPOSITIVOS DE SEGURIDAD\n            Dispositivo de retención mecánica                     Dispositivo de mando bimanual",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "GUIA DE REFERENCIA\n                           PROTECTORES Y DISPOSITIVOS DE SEGURIDAD\n                 Dispositivo sensitivo                                 Dispositivo expulsor",
+      "kind": "reference_guide"
+    }
+  ],
   "systematic_review": {
     "review_date": "2019-10-18",
     "result": "Confirmación",

@@ -116,6 +116,17 @@ Fixtures: `page-break-heading-sample.txt`,
 
 ## Log
 
+### standard-post-transitory-supplements — resolved 2026-07-31
+
+The `transitory-absorbs-annex` class is closed by exact configured top-level
+supplement anchors and a shared tail layout. All 29 committed standards were
+inventoried; 23 carry represented supplements and six carry the required
+empty file. The inventory found seven previously silent swallowed-guide cases
+behind unrecognized `Dado en…` closings in addition to the known warning set.
+No clause changed; every earlier transitory stayed exact; 11 final
+transitories lost only closing/supplement material. NOM-019, NOM-024 and
+NOM-052 were then eligible for their held-out ingestion gate.
+
 ### nom-019-stps-2011 — annex-form-numbering — 2026-07-28
 
 What's difficult: `parse_standard_clauses` (`crates/lex-parse/src/standard.rs`)

@@ -3,6 +3,7 @@
   "standard_id": "urn:lex-mx:federal:nom:nom-020-stps-2011",
   "valid": true,
   "clause_count": 162,
+  "supplement_count": 3,
   "issues": [
     {
       "severity": "warning",
@@ -14,6 +15,12 @@
       "severity": "warning",
       "code": "standard_modification_scope_unknown",
       "message": "modification published 2015-10-19 records a title that names no numeral, apéndice, or anexo; its scope stays at instrument level",
+      "provision_id": null
+    },
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 2 states no explicit normative or non-normative character",
       "provision_id": null
     }
   ]

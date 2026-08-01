@@ -24,6 +24,48 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "Apéndice A",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "Guía de Referencia I\n               Instrucciones de Seguridad para la Prevención y Protección contra Incendios",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia II\n   Brigadas de Emergencia y Consideraciones Generales sobre la Planeación de los Simulacros de",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia III",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia IV",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia V\n\f",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia VI\n    Recomendaciones sobre Periodos Máximos y Actividades Relativas a la Revisión y Prueba de",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia VII\n                                           Extintores contra Incendio",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia VIII",
+      "kind": "reference_guide"
+    },
+    {
+      "anchor": "Guía de Referencia IX",
+      "kind": "reference_guide"
+    }
+  ],
   "systematic_review": {
     "review_date": "2021-07-08",
     "result": "Confirmación",

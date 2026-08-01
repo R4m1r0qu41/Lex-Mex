@@ -4,7 +4,7 @@
   "title": "Lex-Mex NOM/NMX validation report",
   "type": "object",
   "additionalProperties": false,
-  "required": ["schema_version", "standard_id", "valid", "clause_count", "issues"],
+  "required": ["schema_version", "standard_id", "valid", "clause_count", "supplement_count", "issues"],
   "properties": {
     "schema_version": { "const": "0.1.0" },
     "standard_id": {
@@ -13,6 +13,7 @@
     },
     "valid": { "type": "boolean" },
     "clause_count": { "type": "integer", "minimum": 0 },
+    "supplement_count": { "type": "integer", "minimum": 0 },
     "issues": {
       "type": "array",
       "items": {

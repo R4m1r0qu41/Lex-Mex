@@ -3,5 +3,13 @@
   "standard_id": "urn:lex-mx:federal:nom:nom-030-stps-2009",
   "valid": true,
   "clause_count": 70,
-  "issues": []
+  "supplement_count": 2,
+  "issues": [
+    {
+      "severity": "warning",
+      "code": "standard_supplement_character_unspecified",
+      "message": "supplement 1 states no explicit normative or non-normative character",
+      "provision_id": null
+    }
+  ]
 }

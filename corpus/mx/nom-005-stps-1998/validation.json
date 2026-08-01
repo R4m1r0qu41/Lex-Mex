@@ -3,12 +3,6 @@
   "standard_id": "urn:lex-mx:federal:nom:nom-005-stps-1998",
   "valid": true,
   "clause_count": 72,
-  "issues": [
-    {
-      "severity": "warning",
-      "code": "standard_trailing_material",
-      "message": "material after the transitorios section begins at \"GUIA DE REFERENCIA BOTIQUIN DE PRIMEROS AUXILIOS\"; it is not represented in clauses.json and may be normative",
-      "provision_id": null
-    }
-  ]
+  "supplement_count": 1,
+  "issues": []
 }

@@ -24,6 +24,32 @@
   "conformity_assessment": null,
   "text_basis": "as_published",
   "modifications": [],
+  "supplement_starts": [
+    {
+      "anchor": "APENDICE A",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "APENDICE B",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "APENDICE C",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "APENDICE D",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "APENDICE E Señal de seguridad e higiene relativa a radiaciones ionizantes",
+      "kind": "appendix"
+    },
+    {
+      "anchor": "GUIA DE REFERENCIA",
+      "kind": "reference_guide"
+    }
+  ],
   "systematic_review": {
     "review_date": "2024-03-01",
     "result": "Confirmación",
